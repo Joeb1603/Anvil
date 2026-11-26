@@ -1,0 +1,19 @@
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Highborn.png|caption=This title is appointed by the Highborn Assembly|width=250px}}</div>
+==Overview==
+The Chaplain of the Roads is an [[Imperial title]] awarded to a citizen of [[Highguard]]. The [[Construct Church of the Roads|announcement]] to construct the church was made by '''Diego i Del Toro i Erigo''', as [[Bearer of an Imperial Wayleave]], in Winter 386YE. The Chaplain of the Roads is responsible for the protection of souls travelling on the roads in Highguard.
+
+==Responsibilities==
+The Chaplain of the Roads has a responsibility to protect souls travelling on the roads of Highguard. In addition, if the church or its visitors were to be threatened in any way, it would be the responsibility of the Chaplain to deal with those threats.
+__NOTOC__
+==Powers==
+===Liao===
+The Chaplain of the Roads has custodianship of a [[sinecure]]. They receive 12 doses of liao a season.
+
+==Appointment== 
+The Chaplain of the Roads is a [[New_Imperial_titles#The_Imperial_Synod|national position]] which is [[Appointment|appointed]] by [[judgement]] of the [[Assembly#The_National_Assemblies|Highborn Assembly]]. Only a citizen of Highguard may hold the title.
+
+The Chaplain has [[tenure]] and serves until they die or step down. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the Highborn Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{CaptionedImage|file=Godfrey of The Emberclad.jpg|caption='''Godfrey of The Emberclad''', Chaplain of the Roads|align=left|width=350}}
+{{RecentElections|Chaplain_of_the_Roads}}
+[[Category:Title]] 
+[[Category:Highguard]]

@@ -1,0 +1,8 @@
+==Appointment==
+The {{{1}}} is a {{{2}}} [[Appointments_by_the_Senate#National_Position|national position appointed by the Senate]]. Under normal circumstances it will be appointed by unanimous vote of the {{{2}}} [[Senator|senators]].
+
+Because this is a national position, the title can only be held by a {{{2}}} citizen.
+
+The {{{1}}} has [[tenure]] and serves until they die, step down or are [[revocation|revoked]].
+
+The {{{1}}} can be revoked by the [[Assembly#General_Assembly|General Assembly]], the {{{2}}} [[Assembly#The_National_Assemblies|national assembly]], and the [[Assembly#Assembly_of_the_Nine|Assembly of Nine]].

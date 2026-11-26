@@ -1,0 +1,7 @@
+<div style="float:right; width: 300px; clear: right;">{{CaptionedImage|file=WingedMessenger.png|caption={{{address}}}.|align=right|width=300}}</div>
+<noinclude>
+==Usage==
+<pre>
+{{WingedMessenger|address=Winged Messenger Address}}
+</pre>
+</noinclude>

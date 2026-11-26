@@ -1,0 +1,7 @@
+Jude Reid
+
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>[[Category:Photos:JudeReid]] [[:Category:Photos:JudeReid|Image by Jude Reid]]
+</nowiki>''

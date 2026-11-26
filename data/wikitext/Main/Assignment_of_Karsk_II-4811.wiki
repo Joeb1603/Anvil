@@ -1,0 +1,14 @@
+<ic>That the territory of Karsk be allocated to an Imperial Nation.<br><br>Proposed by Mitwold, Seconded by Karov.</ic> 
+{{CaptionedImage|file=Karskregions.png|title=A war-torn land|caption=Regions of Karsk|align=right|width=400}}
+===Overview===
+* The territory of [[Karsk]] was reconquered by Imperial forces during the Autumn of 378YE.
+===Date===
+* Winter 378YE
+
+===Campaign Outcome===
+* The territory of Karsk is now part of the nation of Varushka.
+* It is noted that the territory is still not secure - the [[Thule]] still control three of the seven regions.
+
+[[Category:Senate Motion]]
+[[Category: 378YE Winter]]
+__NOTOC__

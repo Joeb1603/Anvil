@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:387YE Winter]]
+__NOTOC__
+<quote by="Proposed: Casinea, Seconded: Zenith">To construct the edifice "The Black Obelisk" on the Guildenstern estate, Stockmarch, Upwold. To serve as a place of memorial to the herald Obligatus and the landskeeper Geraint Black, leader of the Unbound Union and Keeper of the Prosperity of Afal, following the activity of cultists in Upwold. This is fully self-funded.
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Stockmarch, Upwold
+* Passed
+
+==Date==
+* Winter 387YE
+
+==Cost==
+* Standard costs apply
+* 10 wains of white granite
+* 30 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Black_Obelisk}}
+==Outcome==
+*

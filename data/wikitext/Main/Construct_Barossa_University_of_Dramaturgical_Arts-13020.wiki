@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:387YE Summer]]
+__NOTOC__
+<quote by="Announced by Laughlan Vi Temeschwar, Maser of Rings">To construct the Barossa University of Dramaturgical Arts. A University for the study of Dramaturgy in Apulian. It will function as a college of magic with the unique power to either codify rituals itself or to cooperate with the Doyen of Spires and achieve unprecedented codification. This also creates the position of Reapers Gift, with the responsibility to promote the use and study of dramaturgy, oversee the University and facilitate collaboration between Urizen and League magicians. This is a League position to be appointed by auction.</quote>
+==Overview==
+* Constructs a [[college of magic]] in Apulian, Apulus, [[Spiral]]
+* Announcement by the [[Master of Rings]]
+* More information can be found in the '''[[The_play_that_came_to_Apulian#Curiouser_and_Curiouser|The play that came to Apulian]]''' wind of fortune
+
+==Date==
+* Summer 387YE
+
+==Cost==
+* Costs as per opportunity
+* 70 white granite
+* 60 weirwood
+* 70 mithril 
+* 75 thrones in labour
+* 12 months to construct
+* 12 thrones upkeep
+==Progress==
+{{CommissionProgress|Construct_Barossa_University_of_Dramaturgical_Arts}}
+==Outcome==
+* Once complete, the ''Reapers Gift'' will be available to be appointed by auction as a national title of [[the League]]

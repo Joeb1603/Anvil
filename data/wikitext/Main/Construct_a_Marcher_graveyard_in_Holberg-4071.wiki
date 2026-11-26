@@ -1,0 +1,32 @@
+<ic>To build in Holburg a cemetery for the Marchers raised as husks.<br><br>
+
+''Proposed by Temeschwar, seconded by Semmerholm.''</ic>
+
+===Overview===
+* A Marcher graveyard involves importing soil from [[the Marches]] and planting Marcher apple trees.
+* No funds were requested
+
+===Date===
+* Spring Equinox 378YE
+
+===Cost===
+* None
+
+===Progress===
+* Completed. The graveyard was quickly completed in [[Holberg#Holfried|Holfried]].
+
+===Production===
+* None
+
+===Voting===
+{| class="wikitable"
+|-
+! State !! Votes For !! Votes Against !! Result
+|-
+| In Principle || 26 || 0 || Passed
+|-
+|}
+
+[[Category:Senate Motion]]
+[[Category: 378YE Spring]]
+__NOTOC__

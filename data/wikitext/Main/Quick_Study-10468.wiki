@@ -1,0 +1,37 @@
+==Rules==
+{{CaptionedImage|file=NBUrizen.jpg|caption=This ritual is part of [[Urizen magical traditions#Urizen Lore|Urizen lore]] rather than [[Imperial lore]].|align=right|width=200}}
+{{Season|Autumn|42}}
+{{Urizen Lore}}
+===Performing the Ritual===
+{{Casting time|2}} This ritual targets a [[college of magic]]. The character with dominion over the building (the Dean or similar title) must be present throughout. 
+
+{{enchantment}}
+
+===Effects===
+During the next season the codification speed of the targeted college is increased by 5 ranks when formulating a ritual. If the college does not research a ritual then the enchantment has no effect.
+__TOC__
+{{Season Duration}}
+
+==Description==
+This ritual was codified in 384YE by the [[spire|spires]] of [[Urizen]], under the guidance of '''Marcus''', the [[Doyen of the Spires]]. It was based on work originally performed by Marcus several years previously. The original ritual was designed to work specifically on the [[Morrow#The_Halls_of_Knowledge_(ruined)|Halls of Knowledge]] before their tragic loss to the [[Druj]]. Following that first attempt, Marcus refined and perfected the ritual before presenting it to be codified by the spires of Urizen. 
+
+The ritual was formulated with the assistance of scholars who at that time resided in [[Grendel]] occupied [[Spiral]] following an agreement with then-Salt Lord Kaliact. It was the first ritual to be formulated with the aid of the golden spiders dispatched by [[Prospero]] in his role as [[Doyen_of_the_Spires#Patron_of_the_Spires|patron of the Spires]].
+
+The [[enchantment]] created by the ritual works through a combination of subtle influence and serendipity. Scholars and magicians studying at the college are prepared to work longer hours, to take shorter breaks, and to organise their schedules more efficiently. Obviously there are limits to what this can achieve – a [[College of Magic]] is still an academic setting after all and professors and wizards are notoriously difficult to orchestrate.
+
+At the same time, there are fewer accidents, and those that do happen tend to be more minor in scope. This is the influence of serendipity – of carefully nudging events into an optimal shape to allow the researchers to concentrate on their tasks. As with the influence, this magic is particularly subtle. A scholar will happen to find just the book they need to reference even in the most cluttered office or library. Passers-by and unexpected guests happen to arrive at just the right moment to cause the least disruption.
+
+Finally, the ritual aids with communication. Written notes are simply clearer, even allowing for the idiosyncratic nature of many arcane scholars. Meetings prove to be more useful, with fewer misunderstandings, and tend to be resolved much more satisfactorily. 
+All in all, the college of magic affected by this ritual becomes a delightful place to work and study, even if the inhabitants are not necessarily aware of the magic gently nudging them onto the right tracks.
+
+The magic of ''Quick Study'' is most apparent when it is performed on a “traditional” magical college – places like the [[Master_of_Ice_and_Darkness#The_Icy_Crag_of_the_Eternal_Sun|Icy Crag]] or [[Dean_of_the_Lyceum#The_Lyceum|the Lyceum]]. When used on the Spires of Urizen the magic is significantly more diffuse. It is no weaker, and no less effective, but it is even less noticeable. Rather than enchant the entire [[Urizen_culture_and_customs#The_Heliopticon|Heliopticon network]] across multiple territories, it is theorised that the enchantment has one or more loci that shift around the Spires using the lights of the Heliopticon as an ethereal pathway. At any given point, several spires may be partaking in a little of the enchantment created by the ritual while others are unaffected; then when a researcher shares their theory with a magician in another spire via the Heliopticon, the magic gently shrouding their library might leap across the distances between to infuse the office of the recipient.
+
+==Common Elements==
+''Quick Study'' requires the presence of someone who has uncontested [[Laws_of_magic#The_Law_of_Dominion|dominion]] over the college – the [[Dean of the Lyceum]], the [[Doyen of the Spires]], or the [[Master of Ice and Darkness]]. They might well be the ideal focus of the ritual, symbolically playing a pivotal role as the one who will “direct” the enchantment once it is created.
+
+The [[astronomancy|astronomancers]] of Urizen are confident that [[the Phoenix]] has a powerful correspondence with the ritual – things learn is a potent astronomantic Law to apply. [[The Chain]] might also be applied – things being connected is a core component of many Autumn enchantments that deal with efficiency or serendipity and this is no exception.
+
+A [[dramaturgy|dramaturge]] might look to [[the Witch]] or [[the Prince]], [[the Lantern]], and [[the Library]] as suitable devices from which to build a compelling ritual. [[Runes|Rune-wise]], the most likely runes to resonate with a performance of this ritual are [[Hirmok]] (the rune of Dominion) and [[Queros]] (the rune of Conspiracy).
+
+[[Category:Autumn Ritual]]
+[[Category:Rituals]]

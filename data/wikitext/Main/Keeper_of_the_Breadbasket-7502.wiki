@@ -1,0 +1,82 @@
+<div {{floatleft}}>{{CaptionedImage|file=Granary.png|caption=Granary outside [[Mitwold#Hay|Hay]] in [[Mitwold]].|align=right|width=600}}</div>
+==Overview==
+This [[Imperial title]] was [[Create_title_of_Keeper_of_the_Breadbasket|created]] by the [[Senate]] during the Autumn Equinox 381YE to oversee the function of the granaries and storehouses in [[Mitwold]] and [[Upwold]] that make up the [[The_Marches_economic_interests#The_Imperial_Breadbasket|Imperial Breadbasket]]. Prior to the creation of this title, decisions about the Breadbasket were made by the [[the Marches|Marcher]] [[Senator|senators]] - now such decisions would be made by the Keeper instead.
+
+The Senate [[387YE_Spring_Equinox_Senate_sessions#Amend_Keeper_of_the_Breadbasket|voted]] to amend the position to be appointed by Tally of the Votes at the Spring Equinox 387YE, following a vote of the farm owners of Bregasland, Mitwold, and Upwold at the Winter Solstice 386YE. More information can be found on the '''[[Send for me]]''' wind of fortune.
+
+==Responsibilities==
+The Keeper is responsible for the [[great work]] known as the Imperial Breadbasket. The breadbasket on the whole requires little effort to maintain, being largely run by the civil service. If the structures that make it up were to be threatened in any way, however, it would be the responsibility of the Keeper to deal with those threats. Likewise, if any particular [[opportunity]] were to arise related to the Breadbasket, the Keeper would expect to be consulted as to how that opportunity might be resolved.
+
+==Benefits==
+The existence of the Breadbasket boosts the income of every farm in Mournwold, Mitwold, and Upwold. It provides an additional 36 rings to each farm in the territories, regardless of curses and other effects that impact their harvests.
+
+The presence of this great work in the Empire also provides a "safety net" to the Imperial armies. If a nation of the Empire is unable to support its armies (because of a powerful curse or because they have lost a territory, for example), then the Keeper of the Breadbasket can opt to direct the bounty of the Breadbasket to support them. This natural decay of all its armies and navies is then halved. The silos can only support a single nation in this way - if a second nation were to have more armies than it could support, then the Keeper of the Breadbasket would need to choose which nation to assist. The grain stores do not allow an Imperial nation to build more armies than it can support.
+
+==Powers==
+===Right of Address===
+The Keeper of the Breadbasket has the right to make a [[Senate address]] once per summit. This is intended to allow them to present important information for the senate's consideration. To make an address, the Keeper must inform the [[Speaker for the Senate]] of their intention, so that the Speaker can add the address to the agenda for the next [[Senate session]].
+
+When the title was created, an attempt was made to require that the address be used whenever the Keeper sought to exercise their power to determine how the benefits of the Imperial Breadbasket may be applied, but this was deemed unconstitutional. It is not possible for the Senate to dictate how a power such as the right of address can be used.
+
+===Distribution of Imperial Bounty===
+The Imperial Breadbasket can be used to support a single Imperial nation whose armies are suffering from [[Army#Insufficient_Supply|insufficient supply]] or a single Imperial territory that was suffering from hunger, famine, or crop failure. 
+
+To use this ability, the Keeper must make an announcement in the Imperial Senate. If the Keeper announces that the Breadbasket is supporting a nation's armies, then the natural decay of all its armies and navies of that nation is halved. If the Keeper announces that the Breadbasket is supporting an Imperial territory, then the support may prompt additional effects, often resulting in an entry into the following seasons [[Recent history|Winds of Fortune]].
+
+If either of these are employed, then the farm owners of the Marches would receive no additional income from the Breadbasket until it is resolved. Further, the silos can only support one action in this way - if a second nation were to have more armies than it could support, or a territory were to suffer a famine, then the Keeper of the Breadbasket would need to choose which to assist. The grain stores do not allow an Imperial nation to build more armies than it can support.
+
+No voting is possible by the Senate at this point, as the power has been delegated to the Keeper of the Breadbasket. The [[Synod]] may, however, choose to exercise its [[veto]] over the Keeper's decision.
+
+===Wages of Wayford===
+The Keeper of the Breadbasket receives 12 crowns a season from the affluent alders of [[Mitwold#Wayford|Wayford]].
+
+==Appointment==
+This title is appointed during the Winter Solstice by citizens of the Marches who control [[farm]] [[Resource|personal resources]]. The larger the farm an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Marcher character may hold the title.  As a title in the Bourse, they cannot be [[revocation|revoked]] by the [[Synod]]
+{{CaptionedImage|file=Orson.jpg|caption='''Orson BogMyrtle''', Keeper of the Breadbasket|align=left|width=300}}
+{{RecentElections|Keeper_of_the_Breadbasket}}
+==History==
+The three northern territories of the Marches - [[Bregasland]], [[Mitwold]], and [[Upwold]] - are dotted with public buildings referred to as a whole as the ''Imperial Breadbasket''. These granaries, barns, warehouses, grain silos, and storage houses are maintained by the civil service, and overseen by the [[Keeper of the Breadbasket]] who makes any important decisions regarding their bounty. They exist to ensure that the [[farm|farms]] of the Marches are prepared to meet any potentially disastrous setbacks such as poor harvests or wide-scale curses. They were completed just before the Spring Equinox 381YE. Any Marcher farm-owner can make use of their services, and at a reasonable price. The [[great work]] they represent was created as a result of the disasters that beset the nation in 379YE and 380YE.
+
+The [[March on their belly|disastrous failure of the Autumn harvest]] in 379YE was followed by a particularly [[March on their belly#Resolution|harsh winter]] during which the farmers of the Marches suffered significant losses in order to keep the Imperial armies marching. Then the Spring 380YE planting was hit with torrential rains and a vicious blight that devoured many of the seeds before they can be put in the ground. While the rest of the Empire was enjoying a burst of [[The prime colour of the world|vitality and fertility]], the farms of Bregasland, Upwold, and Mitwold were once again labouring under the yoke of a vicious magical [[curse]] that ruined the crops, sapped the life from the beasts in the fields, and spread sickness and hunger wherever it touched.
+
+Next came the [[380YE_Summer_Solstice_winds_of_war#The_Heralds_of_Mourning|catastrophic news from the Mourn]]. Across the Marches morale was low, and tempers frayed. But surrendering in the face of hardship is not really in the Marcher psyche. Rather than turn on each other, the Marchers helped their neighbours - grumbling and complaining all the while, and making it clear their aid was a loan and not a gift.
+
+The plan to construct the ''Imperial Breadbasket'' began in the markets of [[Mitwold#Meade|Meade]] and received immediate support from many of the [[market town|market towns]]. The call went out for the construction of a great work, a network of granaries and storage barns, coupled with the creation and cultivation of stocks of seed to be made available to all for a modest price in the face of blight, harsh weather, or similar disasters. Meade has long since grown past the point where it can feed itself. It relies on a steady influx of grain, meat, milk, and cheese not just from Mitwold, but from across the Marches. Its prosperity relies on trade routes supported by well-fed and healthy merchants selling food and metal and wood produced by labourers who are not starving to death. The rest of the market towns are in a similar situation - and recognise a simple truth. When the farmers starve, ''everyone'' starves. The alders put their hands in their pockets - but not as a gift, or as charity, but as recognition of the fact the Marches - and the Empire - prosper when the farmers prosper. It was an investment for the future, as well as an effort to "darn the rip" between the folk of the market towns, and the rest of the Marches.
+
+The project required the support of the [[Senate]], and it was not cheap. In the end, even with the assistance of the market towns, building granaries and seed stores for Bregasland, Mitwold, and Upwold still required 100 wains of weirwood and 40 wains of white granite, plus labour costs of 35 Thrones. In the end, the project was [[commission|commissioned]] in Summer 380YE, and work was completed shortly before the Spring Equinox 381YE. 
+
+The benefits to the farm owners of Bregasland was lost when Mathilda Fisher and her Jotun allies conquered Bregasland. The granaries and storage barns went towards supporting the Jotun armies until the territory was reclaimed and the barns restocked.
+
+The Breadbasket was finally expanded to the [[Mournwold]] in time for the Autumn Equinox 388YE. The [[Expand Breadbasket into Mournwold|motion]] was proposed by '''Mel Bleak''', incumbent Senator for Mournwold, and drew widespread support from across the Marches as the [[Search high and low|highest calling]] of the Marcher Assembly.
+<!--
+===The Mournwold===
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''The Mournwold Breadbasket'''</tr>
+<tr><td>'''Commission Type:''' Great Work</td></tr>
+<tr><td>'''Location:''' Mournwold</td></tr>
+<tr><td>'''Cost:''' 15 white granite, 35 weirwood, and 150 crowns in labour</td></tr>
+<tr><td>'''Time:''' 2 seasons</td></tr>
+<tr><td>'''Effect:''' 
+* Grant every farm in the Mournwold an additional 36 rings each season
+* Increases the Marcher ability to support armies by one, once Bregasland is back in Marcher hands</td></tr>
+<tr><td>'''Availability:''' Until another great work increasing investment in farms is commissioned in the Mournwold</td></tr></table>
+</div>
+As of the Winter Solstice 387YE, the network of granaries and storehouses only covers [[Bregasland]], [[Upwold]], and [[Mitwold]]. Expanding the great work so that it includes the [[Mournwold]] is certainly possible. It would require a [[commission]] as for any other great work, and would require 35 wains of weirwood, 15 wains of white granite, 150 crowns of labour, and take six months to complete (assuming [[Great_work#Multiple_Great_Works|no other great works]] were built increasing investment in farms in the interim). When finished, it would grant every farm in the Mournwold an additional 36 rings each season. It would fall under the custodianship of the [[Keeper_of_the_Breadbasket|Keeper]] by default. If Bregasland, Mitwold, Mournwold, and Upwold were all in Marcher hands when it was completed, it would also increase the Marches ability to support armies by one.
+
+====A Stitch in Time====
+* '''These opportunities are available until the end of the Autumn Equinox 388YE'''
+* '''Five wains of white granite will be provided by Stockwater Monastery in exchange for 90 mana crystals'''
+* '''Five wains of weirwood will be provided by Harry the Axe if the Marcher Assembly supports the Feni's claim to Alderly'''
+{{:Search high and low}}
+-->
+==The Keeper's Cottage==
+Commissioned during the Jotun [[Where_the_slow_river_flows|invasion]] of Mitwold during 388YE, the Keeper's Cottage and offices were built securely in the shadow of the bastion of [[Mitwold#Forte Fidelis|Forte Fidelis ]] in the Maiden Downs.  The buildings are simple, though sturdily built, and only a short journey to the Mourn river and Black canal - a fair distance between the alders of Wayford and the Chalkdown farmers of Mournwold.  The surrounding gardens were planted with [[Technology#Groveblossom_and_Changing_Gender|groveblossom]], in line with commissioning senator Mel Bleak's wishes.
+
+==Further Reading==
+* [[Search high and low]] - 387YE Winter Solstice wind of fortune that laid out how the Breadbasket could be extended into Mournwold, and the construction of a cottage for the Keeper
+* [[Send for me]] - 386YE Winter Solstice results of an appraisal that established how the title might support other nations
+
+{{Responsibilities Expectation}}
+[[Category:The Marches]] [[Category:Title]][[Category:Bourse]]

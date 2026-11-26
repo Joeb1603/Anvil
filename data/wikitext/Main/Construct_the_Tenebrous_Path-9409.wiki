@@ -1,0 +1,65 @@
+[[Category:Senate Motion]][[Category:383YE Winter]]
+__NOTOC__
+<quote by="Proposed by Hercynia, Seconded by Semmerholm">To Commission a sinecure "The Tenebrous path" in Hercynia Old Ranging, with the title of "Wisdom of the Tenebrous Path". Self-funded at ten wains of mithril. To be appointed yearly as a Navarr National position at the Spring Summit by the Military council.
+
+The vallorn are the greatest spiritual threat to the Empire, and with the Senate's wisdom, we are building the first army specifically to fight it. Isaella's dance will muster at Miaren in the coming summer.
+
+An army is a ship without a rudder, an arrow without a bow without an intent to wield it. This proposed sinecure is to inspire wisdom to the Thorns of Navarr to those who desire to wield a General's banner.
+
+This Senate's duty is not to the titles of this room but to the people we serve.</quote>
+
+==Overview==
+* Motion to construct a [[sinecure]] that produces mana crystals in [[Hercynia]]
+* Passed
+
+==Date==
+* Winter 383YE
+
+==Cost==
+*[[Sinecure#Costs|Standard costs]] apply
+* 10 wains of mithril
+* 20 crowns in labour costs
+* 3 months to construct
+==Progress==
+{{CommissionProgress|The_Tenebrous_Path}}
+==Outcome==
+* Once complete the title [[Wisdom of the Tenebrous Path]] will be available to appoint as a Navarr national title by the generals of [[Navarr]]
+<!--
+The Tenebrous Path
+
+ 
+
+Set into a glade of oaks lies the sinecure of the Tenebrous Path, a series of eight small thatched halls set into the grounds of blooming gardens spiralled with meandering paths. The halls operate as a Navarr Thorn Academy and are open to any wishing to improve their knowledge of War, guided by the insight of experienced Thorns, Vates and Guides. It is said that the dolomites of crystal mana that grow throughout the gardens glow for each drop of blood spilt in the hallowed halls, with the collected crystals often being rich crimson in colour. The Brand of the Tenebrous Path is chosen for their experience to provide counsel in War and at Anvil, elected yearly by the Generals of Navarr.
+
+ 
+
+Each Hall is dedicated to learning about War, from the weapons practice hall of Courage to the silent Hall of the library of Wisdom. Whilst each Hall follows an evident martial pursuit, not all draw from the traditions of the Navarr, with students encouraged to learn from other imperial nations and their opponents. Of particular note is the Hall of Ambition, resembling a Urizen Sentinel school of arms, where Thorns are tested in skirmish tactics on maps of the Empire. Students of War will, in turn, pass through the forge of the Hall of prosperity, the infirmary of Loyalty, the eerie reliquary of Pride filled with specimens of Vallorn husks and the loathed Hall of Vigilance that tests each Thorn to the limit.
+
+ 
+
+In each Hall stands statutes of famous fallen Navarr, often depicted in a moment of battle. Of particular note:
+
+- The Founders Thorn and Navarr are shadowed figures in the Hall of Wisdom, blade meeting wand in ritual combat.
+
+- Exemplar Isaella stands guard over the entrance to the Hall of Vigilance, her tear-stained face grimaced as her spear strikes down at any seeking entrance.
+
+- Hero Dane Twofeet snarls his anger to the world, ignoring the broken spear shaft lodged in his side as he challenges the world with twin axes from the Hall of Pride. 
+
+- The Criminal Ban Shattersong laughs from the forge fire light to all seeking entrance to the Hall of Prosperity. Vigilant students often point out the hidden crossbow half hidden under Ban's Cloak whilst thrones lie scatted at his feet.
+
+- Senator Tanwyn Ankarien watches the Hall of Ambition from her glittering eye, her sword uplifted to the heavens, her shield carved with the spire of Ankarien.
+
+- Steadfast Rees Warbeast WayKeeper salutes his broken spear to those who train in the Hall of Courage. It is said that the hallowing of Permion never fades.
+
+- General Merryn Ruis Farkas matches the gaze of all who enter the halls of Loyalty with a slight smirk, be their patient or student seeking to learn paths of herb law and medicine.
+
+ 
+
+Lastly, at the entrance hall stands a statue of nameless Thorn bestrides a rock-strewn with fallen weapons, who bares a smile despite their many apparent wounds. Knife-eared, spear lowered in greeting, the Thorn beckons to all who enter with a blood-drenched hand. Curiously at least one of the broken weapons smashed beneath the Thorn's feet carries the sigil of the militia cloven in two, along with the tattered mark of the disbanded mercenaries of the Iron Raptors.  In a stark script, the statue's base reads, "Our oaths are our choice, given freely to walk the shadowed road to whatever end. Let your oath stand testimony to all that you are. A Thorn once, always, until the very end."
+
+ 
+
+Nabarr sinecure:
+
+For weary travellers of the Trods through Old Ranging in Hercynia, the heady smell of Barley and Hops is a welcome sign of an imminent welcome and a roaring fire. A homely thatched Wayhouse, the infamous Nabarr stands guard to the merriment of the home of the travelling Namarket and home of the Splinterspear steading. Whilst newly constructed, the Nabarr seems old beyond its years in part to the riotous colours of its kitchen garden and the bladeroot that grows in abundance from its thatched roof. A gnarled oaken door gives way to a warm taproom, ruled by the Wierwood glow of a welcoming bar that promises a bewildering array of choices from local ales, Marcher Cider, Varushkan spirits to wine from far-off Freeborn ports. Tables beckon for heady gossip, quiet knocks for whispered schemes, or the comfortable benches to listen to the travelling Bards of the Namarket. Matched with comfortable beds and a menu offering hearty meals, the Nabarr acts as a vital rest stop, trading house and respite from the Hercynian winter winds. Fortunate guests might catch a glimpse of the vast cellar beneath the Splinterspear Wayhouse, dominated by enormous barrels marked with drinks from across the Empire and beyond.The Steward of the Nabarr is a tenured appointment elected by the Senators of Navarr, who attends Anvil each season to help plan and provide drinks to the Namarket.
+-->

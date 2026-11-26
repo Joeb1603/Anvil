@@ -1,0 +1,31 @@
+[[Category:Senate Motion]][[Category:383YE Summer]]
+__NOTOC__
+
+<ic>The Senate give permission to build the Barossa College of Imperial Strategy. That the prismatic ink produced by this College be divided between the League Generals.<br>''Proposed by Tassato, seconded by Redoubt''</ic>
+==Overview==
+* This [[opportunity]] arose from a [[An_affirming_flame#The_Business_of_War|suggestion]] by the [[eternal]] [[Zakalwe]].
+* Passed.
+==Date==
+* Summer 383YE
+==Costs==
+* This commission uses [[An_affirming_flame#The_Quill_and_the_Sword|non-standard costs]]
+* 20 wains of white granite
+* 20 wains of mithril
+* 20 wains of weirwood
+* 120 crowns labour
+* Six months to complete
+
+==Progress==
+* 10 wains of white granite, 10 wains of mithril, and 15 thrones provided by Severin Teyhard von Holberg of the House of Seven Mirrors after Summer Solstice 383YE.
+* 2 wains of white granite and 3 wains of mithril provided by Gabriel Barossa after Summer Solstice 383YE.
+* 8 wains of white granite, 7 wains of mithril, and 20 wains of weirwood provided by Rodrigo Barossa de Tassato Regario after Summer Solstice 383YE.
+
+==Outcome==
+* Once complete, the Barossa College of Imperial Strategy would provide 8 doses of [[Vis#Prismatic Ink|prismatic ink]] each season, to the General of the Wolves of War and 8 doses to the general of the Towerjacks.
+<!--
+The Barossa School of Imperial Strategy stands in the heart of Tassato Regario, on grounds where the family theatre once stood. It was built in 383YE with the aid of Zakalwe, following a petition by the people of Urizen to recognise the Barossa generals' vital work as strategists. 
+
+Debating chambers and lecture halls make up much of the structure, but the heart of the building is an extensive library of military texts and maps - many of them from the personal collections of the Barossa family, but also more recent works written by those studying at the school or donated by visitors. Students are expected to familiarise themselves with the contents of many of these and defend their observations in robust argument; it is no accident that these debates are structured to mirror meetings of the Military Council, preparing the next generation of Imperial commanders not only to hone their ideas but also to fight for them.  
+
+Citizens of Holberg also contributed to the construction in gratitude for the liberation of their city, and Aureliana Saverio di Sarvos of the House of Seven Mirrors designed a bas-relief plaque on the outside wall, depicting the Barossa generals, Natalia and Gabriel.  The pair stand back to back. Gabriel is dressed and armed for battle in his distinctive feathered hat and brigandine, triumphant at the head of the army behind him. In one hand, he holds aloft the standard of his army, the Wolves of War. At his back, Natalia leans over the war table, instructing those gathered of the season’s strategy. In her hand, she holds the token of her own army, the Towerjacks.  At the base of the plaque is the message “From a grateful Holberg”. The words are underlined by a delicate line of summer flowers.
+-->

@@ -1,0 +1,27 @@
+<ic>The Quartermaster General makes the announcement that he intends to use his power of Emergency Resupply:
+
+* 50 Wains to the Bounders
+* 50 Wains to the Citadel Guard
+* 2 Wains to the Wolves of War</ic>
+
+===Overview===
+* Resupply [[the Marches|Marcher]] army of the [[The Marches military concerns#Bounders|Bounders]] with 50 wains.
+* Resupply the [[Urizen]] army of [[Urizen_military_concerns#The army of the Citadel|Citadel Guard]] with 50 wains.
+* Resupply [[the League]] army of [[The League military concerns#The Wolves of War|Wolves of War]] with 2 wains.
+* This motion was approved by the Quartermaster General using the legal power to resupply armies granted by the [[Senate]].
+* This motion would be subject to the [[Synod]] [[veto]].
+
+===Date===
+* Spring Equinox 379YE
+
+===Progress===
+* 80 wains of weirwood and wains of 22 mithril provided by Irontide Rad, Quartermaster General of the Imperial Armies, after Spring Equinox 379YE 
+
+===Campaign Outcome===
+* [[Casualties#Emergency_Resupply|Resupply]] an army using 50 wains restores fighting strength equal to 1000 soldiers to the army.
+* Resupply an army using 2 wains restores fighting strength equal to 40 soldiers to the army.
+
+[[Category:Senate Motion]]
+[[Category:379YE Spring]]
+__NOTOC__
+[[Category:Announcements]]

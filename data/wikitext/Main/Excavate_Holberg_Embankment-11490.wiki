@@ -1,0 +1,16 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Proposed: Citizens' Voice">To request permission of Senate to excavate a deep embankment in front of the walls of Holberg as described in the raise the walls opportunity. This Opportunity DOES NOT require a commission. This opportunity DOES NOT increase the upkeep of Holberg's walls. We do this out of love for our great city.</quote>
+==Overview==
+* The Walls of Holberg will be upgraded as per '''[[The greatest city in the world#High Walls|The greatest city in the world]]''' wind of fortune
+* Passed
+==Date==
+* Winter 385YE
+==Cost==
+* Costs as per opportunity
+* 500 thrones
+* Twelve months to complete
+==Progress==
+{{CommissionProgress|Excavate_Holberg_Embankment}}
+==Outcome==
+* Once complete the Walls of Holberg will be a rank 6 fortification

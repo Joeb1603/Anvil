@@ -1,0 +1,26 @@
+{{CaptionedImage|file=TiberiusEchostorm.jpg|caption=The first Crystal Architect of the Spires was appointed during the Spring Equinox 379YE|align=left|width=400}}
+==Overview==
+The Crystal Architect of the Spires is an [[Imperial Title]] appointed by the [[senator|senators]] of [[Urizen]], empowered to [[commission]] structures that produce valuable crystal mana. The title was [[Create title of Crystal Architect of the Spires |created]] at the Spring Equinox summit of 379YE, and was one of the titles [[Amend_powers_of_the_Crystal_Architect_of_the_Spires|amended]] in Spring 380YE following the need to restrict the number of projects commissioned each season.
+
+When it was created, this power was unlimited. The Senate chose to [[Amend powers of the Crystal Architect of the Spires|amend]] the powers during the Spring Equinox 380YE as part of an administrative motion. The Senate chose to [[383YE_Winter_Solstice_Senate_sessions#Amend_Crystal_Architect_of_the_Spires|amend]] the powers further during the Winter Solstice 383YE to include the commission of structures that produce vis. 
+
+As of the end of the Autumn Equinox 381YE, the Crystal Architect has commissioned three [[sinecure|sinecures]]: the [[Custodian_of_the_Claw#The_Caves_of_the_Claw|Caves of the Claw]] in [[Morrow]], and the [[Keeper_of_the_Tower_of_the_Fall#The_Tower_of_the_Fall|Tower of the Fall]] and the [[Custodian_of_the_Storm_Vault#The_Storm_Vault|Storm Vault]] in [[Zenith]].
+
+The Senate further [[387YE_Summer_Solstice_Senate_sessions#Amend_Titles_Commissioning_Sinecures|amended the powers]] during Summer 387YE to include the ability to commission [[Navarr wayhouse|wayhouses]] and [[edifice|edifices]].
+
+==Responsibilities== 
+The Crystal Architect is responsible for overseeing the creation of mana [[sinecure|sinecures]] in [[Urizen]]. They can only authorise construction in Urizen [[territory|territories]].
+==Powers==
+===Commission===
+Once per summit, the Crystal Architect can [[commission]] the construction of an [[edifice]], [[sinecure]], or [[Navarr wayhouse|wayhouse]] that produces crystal mana or vis. An Imperial title is created to oversee the commission, which must be appointed by unanimous decision of the Urizen senators. The Crystal Architect can only announce the construction of an edifice or wayhouse if it produces crystal mana or vis.
+
+To use this power, the Crystal Architect provides an [[Senate_announcement|announcement]] to the Civil Service, and then presents the announcement to the Senate. No voting is possible by the Senate at this point, as the power has been delegated to the Crystal Architect. The [[Synod]] may, however, choose to exercise their [[veto]] over the Crystal Architect's commission.
+
+==Appointment==
+The Crystal Architect of the Spires is appointed during the Spring Equinox each year. It is chosen by unanimous decision of the [[Urizen]] [[senator|senators]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by any Urizen citizen. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Urizen [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Crystal_Architect_of_the_Spires}} 
+
+[[Category:Senate]]
+[[Category:Title]]

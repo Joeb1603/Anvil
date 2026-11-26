@@ -1,0 +1,4 @@
+* '''Form:''' Talisman. Takes the form of a piece of [[Magic Items#Talismans|jewellery]]. You must be wearing this item to use its magical properties.
+* '''Requirement:''' Any character can bond to this item.
+[[Category:Magic Items]]
+[[Category:Jewellery]]

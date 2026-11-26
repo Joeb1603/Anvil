@@ -1,0 +1,17 @@
+<ic>To request funding to place a ritual, approved by the conclave, into imperial lore.<br><br>''Proposed by Karov, seconded by Miekarova.''</ic>
+
+===Overview===
+* A request for funds to be used to add a ritual to the body of [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial Lore]].
+* Passed at 7 thrones
+
+===Date===
+* Spring 379YE
+
+===Progress===
+* Funds disbursed to Simargl, proxy Senator for Karov
+
+===Campaign Outcome===
+* The cost to place a ritual in Imperial lore is 10 thrones, and requires a [[declaration]] of the [[Conclave]].
+[[Category:Senate Motion]]
+[[Category:379YE Spring]]
+__NOTOC__

@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:387YE Winter]]
+__NOTOC__
+<quote by="Announced by Lucrezia Corvinascura, Chair of the Wolf">To construct the structure of Circo del Topo. A self funded sinecure requiring 10 wains of weirwood and 30 crowns in labour costs using standard costings. The sinecure will provide an income of 216 rings per season. The Circo del Topo will be supervised by the Temeschwari Topolino, an Imperial title appointed by unanimous decision of the League senators. The Temeschwari Topolino has tenure; serving until they die, resign, or are revoked and will be built in Hanuri, Temeschwar. They are responsible for working with the Rat Catchers guild in Temeschwar to find wider business opportunities to use the captured rats in. The first of these will be training the rats for use in entertainment. This project has been organised by Red Raven Holdings.
+</quote>
+==Overview==
+* Constructs an [[sinecure]] in Hanuri, Temeschwar 
+* Announcement by the [[Chair of the Wolf]]
+
+==Date==
+* Winter 387YE
+
+==Cost==
+* Standard costs apply
+* 10 wains of weirwood
+* 30 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Circo_del_Topo}}
+==Outcome==
+* Now complete, the [[Temeschwari Topolino]] will be available to appoint by the senators of the League for the first time at the Spring Equinox 388YE

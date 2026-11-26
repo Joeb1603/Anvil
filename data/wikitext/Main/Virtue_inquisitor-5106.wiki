@@ -1,0 +1,106 @@
+{{CaptionedImage|file=VigilantInquisitor.jpg|caption=The virtuous are alert to all dangers; within and without.|align=left|width=350}}
+==Overview==
+These Imperial titles were established by [[Create Inquisitorial Court|a vote]] of the [[Senate]] in Summer 379YE. There are eight Virtue inquisitors in total - one for each of the Virtue assemblies, and one for the assembly of the Way. They were established as part of a larger plan to establish an inquisitorial court.
+
+The powers and appointment method of the Virtue inquisitors were [[Amend_powers_of_the_Virtue_Inquisitors|amended]] by the Imperial Senate in Spring 382YE, and then [[386YE_Summer_Solstice_Senate_sessions#Amend_Virtue_Inquisitors|amended again]] in Summer 386YE.
+
+==Responsibilities==
+To assist the [[Imperial Inquisitor]] in overseeing and coordinating the use of inquisition in service of the Empire. They are expected to work with the [[Officers_of_the_Law#The_Imperial_Militia|Imperial militia]] and the [[Synod]] to ensure inquisitions are performed correctly.
+
+==Powers==
+===Writ of Inquisition===
+Once per summit, a Virtue inquisitor may issue a [[Inquisition#Writ_of_Inquisition|writ of inquisition]] without the need for judgement by the Synod. The inquisitor is not required to use their judgement, if any, to employ this power. 
+
+The Virtue inquisitor must inform the [[Tribune of the Synod]] of their intention to issue a writ. The Tribune will update the judgements boards in the Hub so that other priests are aware of the action, but no vote is required.
+
+A writ of judgement may be [[Inquisition#Escalation|escalated]] to a [[sanction]] in the Virtue inquisitor's assembly. If the inquisitor believes that the matter requires judgement by the General Assembly, they can submit a judgement of [[castigation]], [[penance]], or [[vindication]] as normal, to achieve that.
+
+==Appointment==
+Each Virtue inquisitor is a distinct [[Imperial title]] in the [[Synod]]. They are [[appointment|appointed]] by a [[judgement]] of [[Appointment]] in the appropriate [[Assembly#The_Virtue_Assemblies|virtue assembly]]. Selection is by a judgement of [[appointment]] raised by the Tribune in the standard manner.
+
+The laws for [[Imperial elections]] state that, if eligibility to vote in an election is restricted in some way, then you cannot vote if you were eligible to vote in an equivalent but different election in the last twelve months. For example, if you were eligible to vote for the Prosperity Virtue Inquisitor - and you change to be part of the Ambition assembly - you cannot legally vote for the election of the Ambition Virtue Assembly until twelve months have passed from the date of the first election. 
+
+The elections for the Virtue inquisitors are considered to be legally equivalent positions restricted by virtue. This means that if you change your virtue assembly then you must abstain from voting in an election if it occurs less than four events after the previous election in your previous virtue assembly. If you are in any doubt about your eligibility then you should consult the Tribune, or Merlot the civil service overseer of elections who can advise you.
+
+Any Imperial citizen may hold this title. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the appropriate Virtue assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+<div style="float:right; width: 500px; clear: right;">
+{|
+| '''Appointment Schedule''' || '''Virtue'''
+|-
+| ''Winter Solstice'' || Courage and Wisdom
+|-
+| ''Spring Equinox'' || Loyalty and Pride
+|- 
+| ''Summer Solstice'' || The Way and Prosperity
+|-
+| ''Autumn Equinox'' || Ambition and Vigilance
+|}
+</div>
+===Incumbent===
+The current inquisitors are summarised below - the full election history for each title is listed below.
+* [[Ambition]] - {{#lst:Archive:All_Election_Results|Inquisitor_of_Ambition_occupant}}
+* [[Courage]] - {{#lst:Archive:All_Election_Results|Inquisitor_of_Courage_occupant}}
+* [[Loyalty]] - {{#lst:Archive:All_Election_Results|Inquisitor_of_Loyalty_occupant}}
+* [[Pride]] - {{#lst:Archive:All_Election_Results|Inquisitor_of_Pride_occupant}}
+* [[Prosperity]] - {{#lst:Archive:All_Election_Results|Inquisitor_of_Prosperity_occupant}}
+* [[Wisdom]] - {{#lst:Archive:All_Election_Results|Inquisitor_of_Wisdom_occupant}}
+* [[Vigilance]] - {{#lst:Archive:All_Election_Results|Inquisitor_of_Vigilance_occupant}}
+* [[The Way]] - {{#lst:Archive:All_Election_Results|Inquisitor_of_The_Way_occupant}}
+
+<gallery heights=250 mode="packed">
+<!--file:Maarit Suvidottir.jpg|'''Maarit Suvidottir-->
+file:InquisitorLoyalty.jpg|'''Eevi Hawk Heart of the Gadrai
+<!--file:InquisitorPride.png|'''Jedediah Boon'''-->
+file:Monky_Business.jpg|'''Goffredo Bertolli di Sarvos
+file:Nim of Ebon's Hall.jpg|'''Nim of Ebon's Hall'''
+<!--file:InquisitorWisdom.png|'''Kalina Jadwigowna Piosnkowa Prochnost-->
+<!--file:InquisitorWay.jpg|'''Morwenna Witheredrose-->
+</gallery>
+
+===Election History===
+<row-fluid>
+<span6>
+'''Ambition'''
+{{#lst:Archive:All_Election_Results|Inquisitor_of_Ambition}}
+</span6>
+<span6>
+'''Courage'''
+{{#lst:Archive:All_Election_Results|Inquisitor_of_Courage}}
+</span6>
+</row-fluid>
+
+<row-fluid>
+<span6>
+'''Loyalty'''
+{{#lst:Archive:All_Election_Results|Inquisitor_of_Loyalty}}
+</span6>
+<span6>
+'''Pride'''
+{{#lst:Archive:All_Election_Results|Inquisitor_of_Pride}}
+</span6>
+</row-fluid>
+
+<row-fluid>
+<span6>
+'''Prosperity'''
+{{#lst:Archive:All_Election_Results|Inquisitor_of_Prosperity}}
+</span6>
+<span6>
+'''Wisdom'''
+{{#lst:Archive:All_Election_Results|Inquisitor_of_Wisdom}}
+</span6>
+</row-fluid>
+
+<row-fluid>
+<span6>
+'''Vigilance'''
+{{#lst:Archive:All_Election_Results|Inquisitor_of_Vigilance}}
+</span6>
+<span6>
+'''The Way'''
+{{#lst:Archive:All_Election_Results|Inquisitor_of_The_Way}}
+</span6>
+</row-fluid>
+[[Category:Title]]
+[[Category:Synod]]

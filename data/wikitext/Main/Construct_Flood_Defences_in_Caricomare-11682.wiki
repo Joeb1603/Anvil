@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Spring]]
+__NOTOC__
+<quote by="Proposed: Sarvos, Seconded: Spiral">A motion to develop flood defences in Sarvos with the aid of the Vandersar. Does not require a commission. Costs are 60 thrones. The defences are to be decorated with an elegant letter B and a rose in honour of those who supported their creation.</quote>
+==Overview==
+* Develops flood defences in Caricomare, [[Sarvos]] as per '''[[Sound_the_bells#Flooding_of_Caricomare|Sound the bells]]''' wind of fortune
+* Passed
+==Date==
+* Spring 386YE
+==Cost==
+* Costs as per opportunity
+* 12 white granite
+* 72 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Vandersaar_Flood_Defences}}
+==Outcome==
+* Now complete, the defences ensure that Sarvos will not suffer unduly from flooding in the future if the territory is cursed with [[Foam and Spittle of the Furious Sea]]

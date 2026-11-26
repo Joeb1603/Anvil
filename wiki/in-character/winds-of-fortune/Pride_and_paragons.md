@@ -1,0 +1,229 @@
+---
+title: Pride and paragons
+source: https://www.profounddecisions.co.uk/empire-wiki/Pride_and_paragons
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 386YE Winter
+- Recent History
+- Grand Inspiration
+event: 386YE Winter
+last_edited: '2026-08-06T11:57:08Z'
+revision: 143212
+in_character_boxes: 8
+---
+
+# Pride and paragons
+
+> *In-character text:*
+>
+> Ruth glanced nervously at her brother Enoch, her nerves were so bad her hands were shaking. He locked eyes with her, his calm demeanour filling the space between them with Courage. He nodded encouragement, just once, but it was all she needed.
+>
+> Screwing her Courage to the sticking-place she turned and mounted the steps of the pulpit. She put her notes on the rostrum in front of her and then looked up. The small chapel was full, it seemed like every member of their chapter was here. All forty seven of them. She swallowed nervously and realised her mouth was dry. She glanced down at her notes and spotted the glass of water Enoch had put there an hour earlier. She felt his Loyalty wrap round her like a cloak as she wet her lips. No more delays she thought, it's now or never.
+>
+> "The General Assembly have..." she cracked and broke before she could finish the first line. She'd been working on this for the last two years, but her stomach was churning. Come on, she thought, you can do this, you can do this. "The General Assembly have..." She stopped again.
+>
+> "As you know, the General Assembly have renounced Vardas. The pioneering work published by Hazelelponi, our Lepidean Librarian, has demonstrated beyond reasonable doubt that his life was a fiction." A murmur went through the room, but she was too nervous to sense the meaning of it. Her hands tightened on the rostrum, and she pressed on.
+>
+> "I invite my chapter to consider that this development is an opportunity we should embrace, not fear." Her voice was growing stronger now as she warmed to her subject. She'd practiced this sermon with Enoch so many times and she tried to convince herself this was just the same.
+>
+> "The age in which we live is filled with Virtue. Our leaders have set in motion events that will one day rid the world of slavery. Our generals dragged the Druj to the verge of destruction. As archivists, we are trained to sift through the dirt of the past to find the virtuous jewels. But I ask you all to consider how our world would look to us if we saw current events in the same way we see the past. What if our obsession with the inspirational figures of the past is blinding us to the extraordinary reality of the present. What if we didn't have the paragons and the exemplars to inspire us - what if we had to look to each other for inspiration?"
+>
+> She paused to draw breath and carefully took another sip of water. She worried someone might shout out some interruption, but the room was silent as the grave. What did Enoch use to say - so quiet you can hear the ghosts breathing.
+
+*[Image: The General Assembly](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_General.png)*
+
+*[Image: Click for pdf version](https://www.profounddecisions.co.uk/empire-wiki/File:Pride_and_paragons.pdf)*
+
+## Overview
+
+In summer, the [Lepidean Librarian](../../mixed/titles/Lepidean_Librarian.md) took the Courageous decision to publish in full the library's findings on the [Life of Vardas](../../mixed/government/synod/Life_of_Vardas.md). This research appeared to show that [Vardas](../religion/Vardas.md) was not a paragon, that in fact they had never existed. Their entire life story was essentially a collection of tall tales, penned by [a League mountebank](../../mixed/magic/lore/The_League_magical_traditions.md#mountebank) to make a quick ring. Some of the inspirational stories from the paragon's life were based on things actual people had done and the author simply changed the name, but there was no evidence that the man called Vardas had ever existed at all.
+
+Vardas has been recognised as a paragon of Vigilance for well over three centuries - they were recognised by the Highborn Assembly of Vigilance in 34BE - thirty four years before the Empire was even founded. The discovery that it was all a lie and there was no Vardas threatened to be as a [hammer blow to the faith](True_faith.md) that would damage people's faith in the judgement of the [Synod](../../mixed/government/synod/Synod.md). If they were taken in by these lies, what other mistakes may have been made?
+
+At the Autumn Equinox, the Synod moved decisively to prevent a full-blown crisis of faith from developing, using a judgement of recognition to renounce Vardas as a paragon. This decision has prevented a schism in the faithful, but just as anticipated, it has raised more questions than it answered.
+
+The fear, the expectation, was that people would question all the paragons. After all, if Vardas is not real, how certain can people be that any of the paragons and exemplars are true? That has largely not happened. Rather than focus on which other paragons might be real or not, people are demanding answers to more existential questions about the nature of paragons and exemplars and the relationship of the faithful to them.
+
+Sadly, the doubts engendered by the revelations about Vardas coupled with [the recent condemnation of the four members of the Assembly of Nine](A_little_understanding.md) for heresy and blasphemy have damaged confidence in the [Grand Inspiration of the Way](../senate-motions/Construct_Grand_Inspiration_of_the_Way.md). The contributions from across the Empire have dried up, and it doesn't look like they are going to start again any time soon. Even the Highborn faith has been shaken, and the nation is now providing less than half what it once was. As a result, the civil service estimate it could now take a decade to finish the holy city if citizens at Anvil cannot make up the shortfall.
+
+## False Paragons
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We call for the Recognition of Vardas as Paragon of Vigilance to be removed in light of the research produced by the Lepidean Library. The figure of Vardas has been proven to be a fiction devised by Ivar Olyankavic Nathavolava in an attempt to profit from the embellished tales of adventure and therefore, no longer constitute an inspirational path to follow in pursuit of Enlightenment. The lie alone is enough reason to take this most serious action, but it must not be forgotten that those deeds of virtue and vigilance assigned to Vardas were inspired in some cases by real Wardens whose legacy has been robbed form them by this fraud. Centuries of inspiration belong to those unnamed Wardens, whose virtues should shine from beneath the falsehoods. Let us remember the overlooked and Vigilant who act for virtue without fame. Remember the stories, but not in the name of Vardas.
+> >
+> > Gaelen Embercast, General Assembly, Autumn Equinox 386YE, Vote: Greater Majority 2482-74
+
+- **The General Assembly has passed a judgement with a greater majority to decisively renounce Vardas**
+- **This has *not* caused people to question the existence of other paragons**
+
+The General Assembly has moved swiftly to prevent a crisis of faith, using a judgement of recognition to renounce Vardas. The judgement confirmed what, by then, was already well known but not entirely accepted. That Vardas was a fiction, their life a story fashioned from acts of Virtue stolen from other people's lives. The judgement by Gaelen Embercast, the Cardinal of Vigilance, implored people to remember that the inspirational deeds attributed to Vardas were real enough, even if the man himself never existed. But the cardinal was forced to acknowledge that these were the acts of many different people. The idea that one singular human being could achieve so much by themselves, that they could be a literal paragon of Vigilance, is no more.
+
+The word of the Cardinal of Vigilance, backed as it is by the greater majority of the General Assembly, has prevented any possibility of a schism over the revelations. There were people who doubted the veracity of the Lepidean Librarian's scholarship or suggested that it was some scheme to rob the Assembly of Vigilance of one of its most inspirational figures. The judgement has taken the wind out of the supporters of Vardas, forcing them to accept that this revelation, no matter how bitter it tastes, is the truth.
+
+The fear of many scholars of the Way was that this action would lead people to question the existence of all the paragons. By and large, that hasn't happened. The truth about Vardas has come as a terrible shock to people, but in part it is because of the baseness of the deceit. Now that people know that Vardas is a work of fiction, people find it hard not to associate it with the author of the stories, Ivar Olyankavic Nathavolava.
+
+What Ivar did, as the cardinal's judgement has confirmed, is to steal the virtuous tales of other people and make them his own. He might have done it to make money, but the precepts are Prosperity are very clear that there is nothing Prosperous about stealing. The people whose lives Ivar stole might have been inspirational, but the author's own life story is one of petty theft and larceny. There's nothing remotely impressive about that. But to many people it's as if this theft was committed by Vardas themselves, - as if the literary figure that Ivar constructed is the one who stole the Virtuous actions from other people. Vardas, once a paragon of Vigilance who dedicated his life to fighting crime, is revealed to be nothing more than a petty criminal himself. It's not the fact that Vardas wasn't real that ultimately distresses people; it's that his story is tawdry and exemplifies naked self-interest.
+
+What makes it worse with Vardas is that, of all the paragons, he was one of the few whose life felt relatable to many citizens in the Empire. He felt real to people, in a way that [the Marked](../religion/The_Marked.md) or [the Sentinel](../religion/The_Sentinel.md) or some of the others do not. The names, the places, the people described in the stories of Vardas' life were familiar to people - you could visit the places described in the tales about him.
+
+Many of the paragons feel less real and strangely that makes the truth of their lives feel less important. One Highborn archivist gives the example of [Tian](../religion/Tian.md). There are citizens who believe that Tian actually took fire from the actual sun... but there aren't that many. Most people, if pushed, think that on some level, the story of Tian's life is a metaphor. There are known to be copies of Tian's Epic, kept secretly in Highborn chapter houses, but people aren't pressing to have them dragged into the light of Day because there is a sense that it doesn't actually matter whether Tian took fire from the Sun or just discovered Summer magic as some scholars hypothesise. What matters is that her life inspires. If it came out that actually she just robbed a passing torch seller, then people would be devastated, it would just be Vardas all over again, but nobody imagines that is likely to be the case.
+
+People are still angry and distressed by the lies of Vardas. But rather than push to have every paragon and exemplar thoroughly vetted, people are asking much more profound questions about the nature and role of the paragons and exemplars. There are as many questions as there are faithful, but broadly they fall into three main areas.
+
+### Where Do the Signs Come From?
+
+- **People want to know *how* the signs of the paragons were chosen**
+
+[The Doctrines of the Faith](../religion/The_Doctrines_of_the_Faith.md) state that you can identify a paragon by them having completed six of the eight signs of the paragons. But how were the signs chosen? Who chose them, and why did they pick those signs? Once they are looked at with a critical eye, some of the signs of the paragons look strange. The one cited most often is Pilgrimage - a paragon must have made a pilgrimage to Bastion - but many paragons are thought to have lived in a time before Bastion existed. [Critical realists](../../mixed/government/synod/Schools_of_thought.md#critical-realism) have consistently argued that the sign of pilgrimage is a purely political sign with no grounding in faith or doctrine.
+
+Liberation is another sign that people often argue about - a sign that can literally never be checked except in the negative. There is no way to *know* that someone has escaped the Labyrinth, you can only ever know that they haven't (if someone has a past life vision of being that person). Why are paragons judged against a sign that it's logically impossible to know if someone has met?
+
+[Absolute aspirationalists](../../mixed/government/synod/Schools_of_thought.md#absolute-aspirationalism) argue that *nobody* should be recognised as an exemplar or paragon. The argument was often predicated on the [Doctrine of Human Destiny](../religion/The_Doctrines_of_the_Faith.md#the-doctrine-of-human-destiny), because the implication is that paragons are better in some way than other humans. In recent times, absolute aspirationalists tend to make arguments based on inspiration - that the Way's emphasis on the extraordinary lives of the paragons causes people to overlook the extraordinary acts of Virtue that happen, simply because they aren't accompanied by miracles or other signs of the paragons.
+
+The [pragmatic secularists](../../mixed/government/synod/Schools_of_thought.md#pragmatic-secularism) have long been critical of the [miracle](../../mixed/government/synod/Signs_of_the_paragon_and_exemplar.md#miracles) sign and denied that exemplars and paragons have any supernatural element. Instead, they claim they are simply people whose virtuous behaviour inspires others.
+
+If the paragons are judged against the eight signs of the paragon, then surely it makes sense to know more about the signs? How were they chosen and by whom? Such a line of enquiry begs the question - that the signs of the paragon might not be perfect. If the Empire pursues this question, they are likely to end up having to wrestle with the issue of which signs of the paragons are valid.
+
+### What Are the Exemplars For?
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The exemplars of vigilance lived and died in history, that of our nations, Their legacies are writ in stone, not story. You may visit the home of Major Benson, meet his descendants, stand up on his grave. You may see Berechiah's actions and his virtuous crimes in Imperial record. Make pilgrimage to their tombs. Reflect that these were people like you, heroes, not legends. Renew your faith.
+> >
+> > Martin Orchard, General Assembly, Autumn Equinox 386YE, Vote: 1730-130
+
+- **People want the Synod to examine what exemplars are for**
+
+The inspirational figures are often spoken of as if they were two wheels on the same axle - paragons and exemplars. Paragons are defined in the Doctrines of the Faith, which lay out clear signs that they can be identified by. But exemplars are *nowhere* mentioned in the Doctrines of the Faith. If a paragon is defined by the Doctrines as a truly virtuous spirit, capable of freeing itself from the Labyrinth of Ages, what is an exemplar?
+
+The common answer is that it is someone on the way to becoming a paragon. But isn't everyone who pursues the Way going through a continuous cycle of death and rebirth as they seek to become a paragon and free themselves from the Labyrinth? What is the official role of exemplars? Why do paragons need six of the signs and exemplars only four?
+
+Paragons are usually seen as being more important than exemplars, but last season the General Assembly passed a judgement by Martin Orchard that seemed to imply that, actually, exemplars are more inspirational figures than the paragons because their lives are so much more real. [Cora Holdfast](../religion/Cora_Holdfast.md) was recognised as an exemplar in 379YE - there is absolutely no doubt of any kind at all that Cora was *real*. There are too many people in the Synod today who were contemporaries of Cora, who can remember talking with her, spending time with her. Should people look for inspiration to a figure like [Tian](../religion/Tian.md) that feels like a legend they can't relate to, or to a flesh-and-blood person like Cora that many of them actually met?
+
+Martin Orchard appears to be making an argument commonly associated with the [aspirationalists](../../mixed/government/synod/Schools_of_thought.md#aspirationalism) who have long argued that the distinction between exemplars and paragons is purely political, and has no benefit to the Way. They claim that the important thing is that these figures are *inspirational* and call for the distinction between exemplars and paragons to be disavowed.
+
+If the Empire knew more about the history of exemplars, and why the first people to be named exemplars received that honour, then the Synod could wrestle with the deeper question of what exemplars are for - what role they should play in the Way?
+
+### Why Do Paragons Only Display One Virtue?
+
+- **The Synod has never named the First Empress as a paragon, because nobody can agree which Virtue she exemplifies**
+- **Why does a paragon have to be associated with a single virtue**
+
+The modern process of recognising a paragon requires a judgement of recognition by a Virtue Assembly, followed by a subsequent judgement of recognition in the General Assembly with another greater majority. The process is very explicit that a paragon must be identified first by a Virtue Assembly - to identify which Virtue they are a paragon of.
+
+But that idea *isn't* contained in the Doctrines of the Faith. There's no part of the Doctrines that requires you to believe that a paragon exemplifies a single virtue to the exclusion of all others. In fact, most people explicitly reject the [purist](../../mixed/government/synod/Schools_of_thought.md#purism) school of thought that says you can only be a paragon if you pursue a single virtue at every moment of your life.
+
+The undeniable truth is that many acts that people undertake can't easily be divided into one Virtue or another. Is the soldier who marches to battle alongside his brother, Courageous to face death, Ambitious to dream of victory or simply Loyal to his kin? Most citizens would accept that it is can be a mix of all the Virtues that inspires someone.
+
+You can only ever be dedicated to a single Virtue. You can only create auras of a single Virtue - and that is often cited as the basis for the argument that you can only be a paragon of a single Virtue. But the First Empress is arguably the most inspirational figure who ever lived. Why shouldn't she be a paragon of *every* Virtue as the followers of [the First Empress](../religion/Schisms_and_Heresies.md#the-first-empress) claim?
+
+The [excessionists](../religion/Schisms_and_Heresies.md#the-excessionist-heresy) go further, arguing that an excess of Virtue can be a bad thing. The suggestion is that the perfect approach to the Way is to strive to follow all the Virtues equally. That is completely at odds with the idea of the paragons, but only if you demand that each paragon only exemplifies a single Virtue.
+
+If the Empire knew why the founders of the Synod believed that a paragon could only be associated with a single Virtue, it might help them understand the paragons and exemplars better. Such research risks restarting the Excessionist Heresy and other schisms, but it might help the Doctrinal Reform Council when they come to examine the Doctrine of the Paragon.
+
+*[Image: Highborn Archivists have a calling, but they are more concerned with deeper truths than mere facts.](https://www.profounddecisions.co.uk/empire-wiki/File:Archivist1.jpg)*
+
+## The Next Question
+
+- **Many scholars of the Lepidean Library are heartbroken by their own role in the disavowal of Vardas and plan to retire**
+- **If they quit the Library immediately, it will no longer be able to carry out historical research on behalf of the Lepidean Librarian unless a compromise is reached**
+- **If the Library avoids researching the life of a paragon or exemplar for the next year then the problem will be averted**
+- **They are prepared to focus their attentions on one of the three questions raised to try and offer the Synod assistance in answering them**
+
+Most of the scholars of the [Lepidean University](../../mixed/titles/Lepidean_Librarian.md#lepidean-university) are traditional Highborn [archivists](../nations/highguard/Highguard_history.md#archivists). To an archivist, the purpose of studying history is to find inspiration. The blunt truth is that many of them would have preferred to discreetly drop the research on Vardas before the truth could come out. There is some suggestion that they have done this in the recent past. Many of those who work at the Library are now filled with anguish and grief at the outcome of their painstaking work.
+
+To an archivist, the past is not a set of facts to be curated, but a rich source of inspiration that provides a Way to Virtue. Some archivists describe themselves as sculptors, cutting away the minutiae of the past to allow the Virtuous story to emerge. A number of archivists are firmly of the view that it doesn't matter in the slightest that Vardas wasn't real - what matters is that their legend inspired Imperial citizens for three hundred years to be vigilant and fight crime. And now, instead of an inspirational legend that generations of Highborn will grow up aspiring to imitate, the Empire is left with a sorry tale about the importance of not putting too much in faith in inspirational figures in case they turn out to be liars and thieves. They regard what happened with Vardas as destructive iconoclasm that has aided nobody.
+
+After lengthy discussion, the scholars who feel most strongly about this point have decided to retire in the coming months. The thought that they might be asked to investigate the life of [Tian](../religion/Tian.md) or [Kethry](../religion/Kethry.md) or [Atuman](../religion/Atuman.md) and be forced to discover and reveal some tawdry detail about a great paragon's life is too much to bear. It would take some time for the Library to replace these experienced individuals if they all retired en masse, and so a painstaking compromise has been agreed.
+
+For the next year, the Library will focus its work on the past life visions and will not be asked to carry out research into paragons and exemplars. If that is amenable to the Lepidean Librarian, then most of the existing researchers will agree to continue at the Library until replacements can be found. If not, if the Librarian tries to force the issue by demanding new work be done on a paragon or exemplar, then the archivists employed by the Library will leave, and the Library's ability to research anything will come to an abrupt end.
+
+To compensate for this loss, the staff of the Library have offered to help the Librarian attempt to answer some of the questions that have been raised by the publication of the story of Vardas. They are happy to devote the resources of the Lepidean Library to research on one of the three questions outlined above and believe that they are uniquely well placed to deliver the kind of information that would help the Synod wrestle with these issues in a way that will test the Way but they hope leave it stronger than before. They can't answer the question itself, but they can research the facts surrounding the issue and present those to the Synod for discussion.
+
+The librarians warn that any of the three topics would take time to research thoroughly. They cannot be completely certain, but they believe that each question would take six months to answer. This work would be *instead* of the normal research conducted by the Library, so it could not be used at the same time that research into a past life was commissioned. They would present their findings to Hazelelponi, or to the [Speaker of the Highborn Assembly](../../mixed/titles/Speaker_of_the_Highborn_Assembly.md) in their absence. They trust that either of these two figures will be able to deal with their report appropriately and publish whatever parts of it they think will benefit the Empire. Of course, the Librarian could refrain from issuing any instruction to the scholars at all, if they feel this work would be too dangerous, but that would mean they would lose this final benefit from the Library.
+
+The Librarian can use their power to direct the Library using an [announcement](../../mixed/government/senate/Senate_announcement.md) in the Senate, indicating which of the three questions - if any - they would like the librarians to work on.
+
+*[Image: Hazelelponi of the Shattered Tower is the Lepidean Librarian , who guides the research of the Lepidean University .](https://www.profounddecisions.co.uk/empire-wiki/File:Hazelelponi.jpg)*
+
+## Outstanding Work
+
+- **There is a forthcoming piece of work on Tom Drake which is currently delayed**
+- **One of the staff at the Library has publicly asked the Marcher Assembly to pass judgement on the matter**
+- **This request is informal and the Assembly has no legal right to intervene in this way, but any response is likely to influence the outcome regardless**
+- **Friars, monks, and congregation owners of the Marches will receive a letter in their pack from *Mattias of Virtue's Rest***
+
+In Summer 386YE, the Lepidean Librarian instructed the Library to [research the life, history, and personal values of Tom Drake](../senate-sessions/386YE_Summer_Solstice_Senate_sessions.md#research-tom-drake). The instruction came a season after the Library were asked to look into the life of Vardas, which may have influenced how people feel. The work is now overdue, but it is has become painfully clear that the Library are dragging their feet. They keep asking for more time to check their findings and have dropped veiled hints to the Librarian that they are struggling to meet the expressed goal - to find *"information on his Legacy can re-inspire that Pride for things, both small and great."*
+
+One of the more traditional archivists, Mattias of Virtue's Rest, has very publicly argued that the work the library is doing goes against years of established Highborn tradition. According to Mattias, the problem with iconoclasm is that *"smashing shit up is easy and makes you feel great, but after the music stops all you're left with is a pile of broken shit"*. Though his colleagues suggest he was deep in his cups when he said that, he has gone on to repeatedly request that the Library petition the Senate to change their remit to something more acceptable to traditional archivists - claiming that the study of history should be a search for inspiring Virtue rather than miserable facts. These requests have routinely been rebuffed by Leontes the Scribe as inappropriate suggestions from a civil servant working in an official capacity.
+
+In frustration, Mattias has taken the unprecedented step of publicly appealing to the Marcher Assembly to weigh in on this matter. He has informed his superiors that he has written letters to several Marcher priests, imploring the Assembly to consider if they really want the Library to run the risk of besmirching the reputation of the single most important inspirational figure from Marcher history. Most of his friends think he's a fool, pointing out that the Marcher Assembly are no more likely to listen to a lowly archivist than the Highborn Assembly. It's not certain if any of the letters have reached their intended target but officially the civil service has been clear that these letters have no formal standing and the Marcher Assembly has no legal right to interfere in this matter.
+
+The archivists working for the Library are clearly concerned about what they might discover about Tom Drake. The strictly legal interpretation that the Assembly has no right to interfere in this matter may be correct, but any clear statement from the Assembly is likely to be influential in this matter - whether it's "publish and be damned" or something more subtle like an instruction to "find out everything that will add to the inspiration provided by this important Marcher figure".
+
+*[Image: Inspiration for the grand endeavour has been provided, the ground is being cleared, the first white granite towers begin to rise.](https://www.profounddecisions.co.uk/empire-wiki/File:Grand_Endeavours.png)*
+
+## The Grand Inspiration
+
+- **The Grand Inspiration requires 1000 wains of white granite and 250 thrones**
+- **To date the project has received 583 wains of white granite and 167 thrones**
+- **The Highborn Assembly have invited priests from every nation that has contributed to preach at the Grand Inspiration once it is complete**
+- **Donations from other nations have now stopped and donations from Highguard are waning as the Way is hit by one crisis after another**
+- **At current rates it will be the best part of a decade for the holy city to be completed**
+
+The plan for the Grand Inspiration of the Way was conceived in Spring 385YE. The Imperial Senate had asked Naomi of Virtue's Rest to [appraise](../appraisals/Appraisal.md) what could be done to [encourage pilgrims of the Way from foreign nations to come to the Empire](../senate-sessions/384YE_Winter_Solstice_Senate_sessions.md#appraise-pilgrims-of-the-way) with the explicit intention that Bastion take its rightful place as the birthplace of the Way and diminish the importance of its rival in [Timoj](../foreign-nations/Sumaah_Republic.md#timoj). If Naomi had been able to carry out the appraisal, history might have taken a very different course, but the Senate had already assigned her to a different appraisal and so [Eilian Sweetwater](../appraisals/Appraisal.md#eilian-sweetwater) was given the task in her place.
+
+Eilian's proposal to create a new holy city of the Way was breath-taking in both scale and grandeur. A contest was arranged to find an artist with the vision to imagine this grand new edifice. The Assembly of Nine [chose to take elements from two designs](The_cities_and_the_city.md#bastion-the-grand-endeavour); the sketches by **Millward Cowley** that laid out the basic design of the city building on conceptual art by **Skywise Gralka** that captured the idea of soaring towers and pealing bells. Together, they formed a plan for a new religious city. All that was needed was a thousand wains of white granite and 250 thrones to build it!
+
+This was easily the largest [commission](../../mixed/commissions/Commission.md) the Senate has ever authorised, and it was clear it would take years to gather the materials needed. Fortunately, a number of nations were prepared to support the project. The national assemblies of the Marches, [the Brass Coast](../nations/the-brass-coast/The_Brass_Coast.md), [Wintermark](../nations/wintermark/Wintermark.md), [Navarr](../nations/navarr/Navarr.md), [the League](../nations/the-league/The_League.md), and Dawn all encouraged the Virtuous citizens of their nation to donate wains to support the project. Coupled with the ongoing donations from citizens of Highguard, the people of the Empire donated more than five hundred wains to the project. Sadly, most of those donations have now ended, only the Highborn people are still contributing to the Grand Inspiration of the Way. Without significant additional donations of white granite and money from wealthy citizens who attend Anvil, the civil service estimates it will take approximately ten more years to gather the remaining resources needed.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > A year ago, Rafael Barossa d'Apulian called for every citizen of the League to contribute whatever they could to support the raising of the Holy City in Bastion. Once again, the League rose to the challenge. Where others doubted, the League did not fear to act, matching their word with deed. The virtue of every citizen of the League who contributed will echo through history for 1000 years. There is nothing great without cost, and the Highborn recognise the courage in their commitment to building the greatest beacon of the faith the world has ever seen. We invite the League to send a delegation of bishops to teach in Bastion upon its completion. They have earned their place alongside Highguard and should be welcomed to spread their perspective on the way to pilgrims. Only through these bonds of kinship can the great inspiration enable the way to reach every soul in existence.
+> >
+> > Dagon of the Shattered Tower, Highborn Assembly, Autumn Equinox 386YE, Vote: Greater Majority 588-18
+
+Most nations of the Empire have done what they can to support the Grand Inspiration - only Varushka, the [Imperial Orcs](../nations/imperial-orcs/Imperial_Orcs.md), and [Urizen](../nations/urizen/Urizen.md) rejected the call to help. The Varushkans opted to create their own [Hall of Fabric Arts](The_Deer_in_the_Sun.md#constructing-the-folly-2) instead, while the Imperial Orcs preferred to build [a Library of Worth](The_Deer_in_the_Sun.md#the-library-of-worth). The Urizen also opted to focus efforts towards their own projects, though their Assembly stopped short of calling it folly.
+
+The Highborn Assembly subsequently passed eloquent statements of principle with a greater majority praising the Virtue of those nations who have contributed, one for every nation that heeded the call. Each carefully worded statement included an explicit invitation to [the League](../synod-judgements/386YE_Autumn_Equinox_Synod_judgements.md#judgement-8), [Dawn](../synod-judgements/386YE_Autumn_Equinox_Synod_judgements.md#judgement-25), [Wintermark](../synod-judgements/386YE_Summer_Solstice_Synod_judgements.md#judgement-33), [Navarr](../synod-judgements/386YE_Summer_Solstice_Synod_judgements.md#judgement-32), [the Brass Coast](../synod-judgements/386YE_Spring_Equinox_Synod_judgements.md#judgement-21), and [the Marches](../synod-judgements/386YE_Spring_Equinox_Synod_judgements.md#judgement-22) to send priests to Highguard to spread their perspective on the Way to pilgrims.
+
+These invitations are a proud and virtuous sentiment. The Virtuous inspire others to greatness after all. But what are these priests coming to Highguard going to preach? Bastion is the heart of the Way, the faith began *here*. Are Marcher priests going to come to the holy city and talk about shriving? Will Dawnish troubadours sing about the Virtues or will they share their belief in the power of glory and love to inspire people? The Synod has said these heterodox ideas are fine, even though they are not supported by the Doctrines of the Faith. It's easy to say that priests coming to Bastion are never going to preach heresy, that would be madness. But then, nobody imagined the Assembly of Nine would embrace a false virtue either...
+
+The problems with Vardas and the situation in the Assembly of Nine have exacerbated the growing fears about heterodoxy and false virtues in the Empire. People agree that the new holy city must be something for the whole Empire, but in Highguard they are increasingly worried at the prospect that the project is fatally flawed. When confidence in the Way was high, people felt positive about building the greatest monument the world has ever seen to showcase their faith. They are significantly less convinced of the Wisdom of that approach when there is no saying what will be preached there. As a result, the donations from Highborn citizens have trailed off to a "mere" ten wains a season. It's not clear when, or even if, that can be restored, but at that rate, that edifice will take more than ten years to complete without significant donations from citizens at Anvil.
+
+Many people are viewing this delay as a *good* thing. The Grand Inspiration can still be completed in their lifetime, but now there is time for Highguard and the Synod to contemplate what the Grand Inspiration is truly *for*. Is it a monument to the Empire, a testament to the power of the nations to work together to create something extraordinary? Is it the beating heart of the Way, a place devoted to the study of the Doctrines of the Faith and the pursuit of virtue, that is free from heterodoxy and the taint of false virtues? If it takes ten years to complete, what will the Way even look like when the capstone is placed?
+
+And some people are asking more profound questions. Why is Highguard pouring their efforts into building this giant monument to the Way, when the faith itself seems to be failing? Is this edifice actually the best way to safeguard the Way? What if [Aspar was *right*](Blood_will_thicken.md#no-price-is-too-high) when he implied the Grand Inspiration was quite literally a folly? The Way is in crisis - again. Surely Highguard should try to shore up the faith itself rather than shoring up the building meant to house it?
+
+> *In-character text:*
+>
+> "I'm just saying, maybe this proves that now is the time for a grand inspiration..." Amos sat with her mug of coffee slowly cooling down, staring out the window at the miserable weather.
+>
+> "Face facts, love, t'other nations aren't putting granite in any more. It'll prolly take decades." Hezekiah was doing that thing that he did sometimes, where he tried to be helpful but just made it slightly worse.
+>
+> "The Empire has taken almost forty decades to get this far. Do you honestly think another one would make a difference?" Amos took a swig of her drink and looked at her partner. "Hezzy, I love you and I probably always will. But sometimes I just need you to hear me and not try to solve my problems."
+>
+> Hezekiah flushed, his labyrinthine markings turning a shade of deep bronze. "Aye, but what 'bout t'other stuff? We've got forts and citadels and who knows what else that need granite."
+>
+> "I care about virtue, Hezzy." Amos finished her drink, grimacing slightly at the dregs. "I always will, and I know that others might question the building of this. But I think building it is the right thing to do." She smiled as she stood up and picked up her things. "I know that part of being virtuous is facing unwelcome truths, but I don't think that's what this is. This is a difficult thing, and I accept that."
+
+## Further Reading
+
+- [Life of Vardas](../../mixed/government/synod/Life_of_Vardas.md)
+- [Paragons and exemplars](../../mixed/government/synod/Paragons_and_exemplars.md)
+- [Schools of thought](../../mixed/government/synod/Schools_of_thought.md) - Various philosophies regarding paragons and exemplars
+- [Schisms and Heresies](../religion/Schisms_and_Heresies.md) - popular approaches to the Way that are not entirely mainstream
+- [True faith](True_faith.md) - Autumn 386YE wind of fortune about the post-Vardas crisis
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [386YE Winter](../../indexes/by-category/386YE_Winter.md), [Recent History](../../indexes/by-category/Recent_History.md), [Grand Inspiration](../../indexes/by-category/Grand_Inspiration.md)

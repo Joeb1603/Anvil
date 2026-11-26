@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Announced by Logan Dunning, Bearer of an Imperial Wayleave">To commission the erection of a white granite marker dolmen on the northern shores of the Rikkivessi. To enable the Hylje to deliver the bones of Imperial Orc heroes who fell during the invasion of Sermersuaq (helping to protect the lives of Wintermark citizens). Once recovered from the depths they will be collected by the Imperial Orcs for proper funerary care. This announcement is self-funded.</quote>
+==Overview==
+* Constructs a [[sinecure]] in Sealtoq, Sermersuaq
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+
+==Date==
+* Spring 387YE
+==Cost==
+* Costs as per opportunity 
+* 10 white granite
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Construct_Hylje_Dolmen}}
+==Outcome==
+* Now complete, the [[Custodian of Bones]], a position with tenure, will be available to appoint by the senators of Wintermark for the first time

@@ -1,0 +1,1 @@
+<div class="ic-inner quote"><p class="{{{size}}}">{{{statement}}}</p><small>{{{by}}}, {{{when}}}, Vote: {{{vote}}}</small></div>

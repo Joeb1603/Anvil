@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:386YE Summer]]
+__NOTOC__
+<quote by="Proposed: The Barrens, Seconded: Kallavesa">Liberated citizens shouldn't live in squalor in the ashes and rubble of the Druj. We commission the rebuilding of Drycastle in Dawnguard so citizens can prosper under the warmth and Glory of the Empire. This creates two new individual Imperial titles. The Knight of Dawnguard - charged to ensure the security of the region of Dawnguard, protecting Drycastle and the other settlements from any danger. Elected by unanimous decision of Dawnish Senators. Reeve of Drycastle, to be held by a Yeofolk. The position would be charged with seeing to the Prosperity of the town, meeting with visiting merchants and helping to settle disputes. Elected annually by Tally of the Votes. Costing 20 wains of white granite, 20 wains of weirwood and 10 thrones. Taking one season to complete.</quote>
+==Overview==
+* Repairs the damage to the town of Drycastle in [[the Barrens]] as per the '''[[A_glorious_victory#Drycastle|A glorious victory]]''' wind of fortune
+* Passed
+* 50 thrones disbursed to the [[Senator]] for [[the Barrens]]
+
+==Date==
+* Summer 386YE
+==Cost==
+* Costs as per opportunity
+* 20 white granite
+* 20 weirwood
+* 120 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Town_of_Drycastle}}
+==Outcome==
+Now complete, the titles of [[Knight of Dawnguard]] and [[Reeve of Drycastle]] will be available to appoint for the first time at the Summer Solstice 387YE by unanimous decision of the senators of Dawn and by Tally of the Votes of Dawnish captains of military units respectively.

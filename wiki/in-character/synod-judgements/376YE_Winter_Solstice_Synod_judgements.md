@@ -1,0 +1,82 @@
+---
+title: 376YE Winter Solstice Synod judgements
+source: https://www.profounddecisions.co.uk/empire-wiki/376YE_Winter_Solstice_Synod_judgements
+class: in-character
+topic: synod-judgements
+categories:
+- Synod
+- Synod Results
+- Synod Judgements
+- 376YE Winter
+event: 376YE Winter
+last_edited: '2025-07-11T00:43:38Z'
+revision: 123335
+---
+
+# 376YE Winter Solstice Synod judgements
+
+## The Synod as of Winter, 376YE
+
+At the Winter Summit, 376YE, the General Assembly stood at an estimated 159 priests.
+
+## Appointments
+
+At the end of the Winter Solstice, 376YE, the Imperial Titles in the Synod were held by:
+
+|  |  |  |
+| --- | --- | --- |
+| **Virtue** | **Cardinal** | **Gatekeeper / Conscience** |
+| *Ambition* | Serrusto Caeli Rezia di Tassato of the League | Silent John of the Marches |
+| *Courage* | Beorn Y'Basden of the Navarr | Asher of Felix's Watch, Highguard |
+| *Loyalty* | Bishop Julius Cavita of the League | Friar Alan Young of the Marches |
+| *Pride* | Langdon Tor of the Marches | Meurig Tystwarden of the Navarr |
+| *Prosperity* | Bishop Alexandru Vintla of the League | Darius i Esmara i Erigo of the Brass Coast |
+| *Vigilance* | Sirka Parakgoosier Bashnya of Varushka | Abraham of the Shattered Tower, Highguard |
+| *Wisdom* | Guide Tockryn Nighthaven of the Navarr | Starac of Varushka |
+| *The Way* | Bishop Antonnio Vanetti of the League | Gralka, an Imperial Orc |
+
+## Synod Funds
+
+The following represents the Virtue Fund of the Synod:
+
+|  |  |  |
+| --- | --- | --- |
+| *Starting Value* | 0 |  |
+| *Income* | 23 Crowns and 1 Ring | All from the auction of pure liao. |
+| *Rewards* | 20 Crowns | Harald Johnson, Priest of The Way, [rewarded](../../mixed/government/synod/Rewarding.md) the Orc Generals with 20 crowns for their virtue. |
+| *Closing Value* | 3 Crowns and 1 Ring |  |
+
+## Synod Judgements
+
+- Malachi of Highguard called for the Pride Assembly to condemn Orthanac of the Navarr for heresy and blasphemy. This judgement was defeated.
+
+- Meurig Tystwarden called for the Pride Assembly to recognise Mother Od as an Exemplar of the Virtue of Pride. This judgement achieved the greater majority required.
+
+- Aiken Scriptbearer of the Navarr called for the Courage Assembly to recognise Connaught Thorntarry of the Navarr as an Exemplar of the Virtue of Courage. This judgement failed to achieve the greater majority required.
+
+- Cardinal Langdon Tor of the Marches called for the Pride Assembly to recognise Olwynn the Witness as an Exemplar of the Virtue of Pride. This judgement achieved the greater majority required.
+
+- Bloody Trees Rhain Winters Vigil, of the Navarr, called for the Navarr National Assembly to revoke the title of General held by The Lion. This judgement was carried by 140 to 30.
+
+- Cardinal Serrusto Caeli Rezia di Tassato, of the League, called for the League National Assembly to revoke the title of General held by Ismund of the Wolves of War. This judgement was made by 100 for and none against.
+
+- Harald Johnson, of the Marches and The Way, called for the General Assembly to reward the Orc Generals with 20 crowns from the Virtue Fund. This judgement was made by 160 for and 90 against.
+
+- Yitzhak, of Highguard, called for the Vigilance Assembly to condemn the one who consecrated the Senate as having abused their powers. This judgement was defeated by 100 against and 50 for.
+
+- Gatekeeper Abraham, of Highguard, called for the Vigilance Assembly to declare that “Lucidianism is a blasphemy and a threat to the Empire and all instances should be condemned and punished”. This judgement was defeated by 70 against and 60 for.
+
+## Visionaries
+
+The following individuals were chosen by the Gatekeepers to receive visions of their past lives:
+
+- Brother Anthony of the Marches
+- Estevo Barossa de Tassato Regario
+- General Connaught Thorntarry of the Navarr
+- General Ruth of Highguard
+- Damaris of Cantioch’s Hold in Highguard
+- Octavio di Virtos of Tassato of the League
+
+---
+
+Categories: [Synod](../../indexes/by-category/Synod.md), [Synod Results](../../indexes/by-category/Synod_Results.md), [Synod Judgements](../../indexes/by-category/Synod_Judgements.md), [376YE Winter](../../indexes/by-category/376YE_Winter.md)

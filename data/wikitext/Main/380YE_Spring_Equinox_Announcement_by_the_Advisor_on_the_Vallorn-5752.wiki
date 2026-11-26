@@ -1,0 +1,24 @@
+<ic>I, Siân Eternal, wish to use my ability as Advisor on Vallorn affairs to commission a piece of historical research into the Charter Stone of the Terunael city of Seren.<br>
+<br><i>Approved by the Advisor on the Vallorn</i></ic> 
+
+===Overview===
+* This research was commissioned by Siân Eternal
+* Historical Research concerning this topic has been commissioned through the civil service
+* Historical Research request approved by the Advisor on the Vallorn using the legal power to approve historical research delegated to them by the Senate.
+
+===Date===
+* Spring 380YE
+
+===Cost===
+* 5 Thrones
+
+===Progress===
+* Unknown
+
+===Campaign Outcome===
+* Research reports will be compiled and presented to the Advisor on the Vallorn
+
+
+[[Category: Senate Motion]]
+[[Category:380YE Spring]]
+__NOTOC__

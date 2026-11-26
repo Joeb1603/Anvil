@@ -1,0 +1,24 @@
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Wintermark.png|caption=This title is appointed by the Wintermark Assembly|width=250px}}</div>
+The Seeker of Quietitude is an Imperial title awarded to a citizen of [[Wintermark]]. The construction of the Garden of Peaceful Quietude was [[Construct Garden of Peaceful Quietitude|announced]] by '''Hilda Sirens Scream Ursan''', as the [[Bearer of an Imperial Wayleave]] during the Spring Equinox 388YE. 
+
+The plans for the garden were [[Poets_light_but_lamps#Zaboravi|presented]] shortly before the Winter Solstice 387YE as a means to produce ''zaboravi'', with the assistance of the people of [[Tsark]]. The title is appointed by the National Assembly of Wintermark, and they have a responsibility to oversee the Garden of Peaceful Quietitude and help cultivate the narcotic in Wintermark.
+
+==Responsibilities==
+The Seeker of Quietitude is responsible for overseeing the Garden of Peaceful Quietitude and helping to cultivate zaboravi in Wintermark. If the Garden, those who visit it, or those who tend it, were to be threatened, it would be the responsibility of the Seeker to deal with those threats.
+__NOTOC__
+==Powers==
+===Bounty of Zaboravi===
+The sinecure provides 12 doses of [[Trade goods#Zaboravi|zaboravi]] to the Speaker each season, to be used as they see fit.
+
+==Appointment==
+The Seeker is a national position which is [[Appointment|appointed]] by [[judgement]] of the [[Assembly#The_National_Assemblies|Wintermark Assembly]]. 
+
+The Seeker has [[tenure]] and serves until they die or step down.. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the Wintermark Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Seeker_of_Quietitude}}
+[[Category:Title]][[Category:Wintermark]]
+==Funding==
+Click ''Expand'' to see the list of contributions made to construct the Garden of Peaceful Quietitude.
+<div class="mw-collapsible mw-collapsed">
+{{CommissionProgress|Construct_Garden_of_Peaceful_Quietitude}}
+</div>

@@ -1,0 +1,321 @@
+{{CaptionedImage|file=TheGreatGame.jpg|caption=Every decision can have far-reaching implications.|align=left|width=600}}
+==Overview==
+While there are a number of places where activity of military import is taking place, surprisingly few of them involve clashes of Imperial armies with barbarian armies.
+
+As a consequence of negotiations between the [[Thule]] during the Summer Solstice, a peace treaty has been signed ending (for now) the conflicts in [[Sermersuaq]] and [[Karsk]]. In some places the [[#In Karsk, the Thule withdraw|Empire potentially gains territory]], and in others [[#In Sermersuaq, the Thule advance|the Empire cedes territory]] to the orcs.
+
+At the same time, there are multiple small engagements on the [[#Fog of War|eastern front]]. In [[Holberg]] the Drakes are facing [[#Angry Trees|angry trees]]; in [[Brocéliande]], the Black Thorn fight vicious battles against [[#Angry Ettercaps|vallornspawn]]; and in [[The Barrens#Dawnguard|Dawnguard]] the Barrens orcs launch an unexpected - and unsuccessful - attack. 
+
+Meanwhile, in the far south-east of the Empire, the [[#The Siege of Fort Mezudan|Siege of Fort Mezudan]] has begun. Highborn and Navarr troops support the Urizen garrison at the [[fortification]] colloquially known as "''the Fist''" and while they manage to slow the Grendel advance, they are not able to prevent the barbarians gaining ground. The campaign against the Grendel continues.
+
+Also in the east, a major offensive against the Stone Toad clan orcs in [[Reikos]] reaches the walls of the fortified citadel of Urith Barath, which stands now where High Chalcis once stood. Despite minor gains, the vast array of natural and supernatural obstacles thrown up by the Druj means that the Imperial forces make only a little headway against the fortification - and in the process suffer considerable casualties, many of them to the [[Reikos flux]].
+
+In the south-west, nearly thirty Imperial captains and the [[military unit|companies they command]] are involved in fighting the Jotun as allies of the Hierro clan of the Lasambrian Hills orcs. The outcome is not ideal - the Jotun force the Lasambrians back and conquer more territory - but the Imperial presence has slowed their attack a little. There appear to be [[#The Hills Rise Wild|other developments]] there as well - involving the Grendel as well as the [[Iron Confederacy]].
+
+==A Sombre Exchange==
+{{CaptionedImage|file=Veikko.jpg|caption=In Karsk and Sermersuaq, only the ravens have really come out ahead.|align=right|width=600}}
+===In Karsk, the Thule withdraw===
+The [[orc|orcs]] quit their positions in the hills of [[Karsk#Crowslook|Crowslook]] and [[Karsk#Branoc|Branoc]]. There is no fanfare. One evening when the huddled humans go to sleep they are under the dominion of the [[Thule]]. The next morning, orders come down and the Thule begin to pack supplies and dismantle their camps. Within days they are gone, their forces marching north and west, taking up new positions in [[Karsk#Krevasty|Krevsaty]]. Scouts suggest the fortified camp at the ruins of old [[Karsk#Oloy|Oloy]] has been greatly expanded; the isolated defenders of the [[Karsk_spoils_of_war#Krevsaty_Yelta|Krevsaty Yelta]] watch the Thule foraging bands with some trepidation.
+
+Meanwhile, the banner of the [[Golden Axe]] flies over [[Karsk#Lestazny|Lestazny]]. The army camps not far from the remnants of the vale of Ivarsgard, down on the shores of [[The_Semmerlak|the Semmerlak]]. Ivarsgard is already being reclaimed by the hungry forest. A few companies are dispatched to root out the wolves that have taken up residence in the ruins. and in the empty [[mine]] workings - but they do not present much of a challenge for seasoned Varushkan warriors.
+
+In the north, the warriors of the Charnel Lord - Varushkan and orc alike - hold their positions around the [[Karsk#Broken Barrow|Broken Barrow]]. There is no sign of the unnatural, undying warriors that have fought against the Thule in previous seasons. Raven messengers fly back and forth between the leaders of this enigmatic force, and the [[Senator|Senators]] and [[General|Generals]] of [[Varushka]]. Something is in the air - but the details are not clear at this time.
+
+There are no engagements in Karsk between the Thule and the Empire as Summer lengthens into Autumn. Cautious for signs of Thule treachery, the Golden Axe maintains a solid defence. Injured troops rest, broken equipment is repaired or replaced (to the profit of the miners of [[Karsk#Moresvah|Moresvah]]). More than one captain slopes off to visit the [[Karsk_spoils_of_war#The_Sovereigns_Heart|Sovereign's Heart]] in the ruins of fallen [[Karsk#The Ruins of Isember|Isember]]. There is peace - or as much peace as one finds in Varushka.
+
+===In Sermersuaq, the Thule advance===
+Down out of the upper passes, come the Thule, cautious for signs of an Imperial betrayal. They regain the ground lost last season in the [[Sermersuaq#Silver_Peaks|Stonefields]], and when it is clear that there is no Imperial opposition they move quickly and cleanly to take control of the [[Sermersuaq#The_Stonefield_Ice_Caves|Ice Caves]]. They give the retreating Imperial forces plenty of time to quit their positions.
+
+The [[Green Shield]] watch from the open plains of [[Sermersuaq#East_Floes|East Floes]] and [[Sermersuaq#Suaq Fount|Suaq Fount]], ready to drive the orcs back if they try to move even one inch out of the foothills. The Thule orcs make no effort to push beyond the peaks. The other Imperial armies have already left by the time they take the Stonefield Ice Caves.
+
+The banner of a great white dire-wolf flies over the [[Sermersuaq#Silver Peaks|Silver Peaks]] now. Perhaps as many as five thousand Imperial soldiers were killed, or maimed, or lost the will to fight in the year since [[378YE_Summer_Solstice_winds_of_war#Thunder_in_the_Silver_Peaks|the Thule invaded Sermersuaq]]. Many of their bodies were never accounted for, lost in the broken canyons and buried beneath stone or snow. Nearly five thousand Thule fell alongside them. Yet there is little sign of the bodies - voracious Spring magic bred flowers from the corpses of the fallen. The Thule will see an excellent [[bladeroot]] harvest this year.
+
+There are no significant engagements between the Empire and the Thule, just the smooth surrender of the northern peaks to the orcs. If there is frustration among the Wintermark troops, they use that anger against the enemies they ''can'' attack - against the [[Jotun]] raiders [[Shadow_in_the_west|testing the defences of Wintermark]]. The Jotun raiders receive a savage beating, abandoning their raids and retreating quickly - just shy of a rout - back across the western borders. 
+
+There is peace in Sermersuaq - for now.
+
+===Game Information===
+Thanks to the [[Accept_Thule_peace_treaty|peace treaty]] signed by the [[Senate]], there has been no more fighting between the Empire and the Thule. They have ceded two regions of Karsk to the Empire. Those regions are now effectively neutral, belonging to neither side. A campaign army could move into the regions and conquer them, potentially without resistance. The matter of the troops loyal to the third power in Karsk - to the [[Varushkan_Monsters#Sovereigns|sovereign]] known as the Charnel Lord - still awaits resolution ... but that's something we can talk about later.
+
+In Sermersuaq, in contrast it is the Empire that withdraws. The Thule, apparently trusting the Empire to keep its peace treaty, have advanced into the areas they have abandoned. The region of the Silver Peaks now belongs to the Thule - as do the [[ilium]]-producing [[Bourse#The_Stonefield_Ice_Caves|Stonefield Ice Caves]].
+{{CaptionedImage|file=DribblyBob.jpg|caption=Druj horrors and vallornspawn alike threaten the Empire.|align=right|width=500}}
+
+==The Fog of Peace==
+There is no true peace on the eastern front, but neither is there anything that could truthfully be called war. Not yet, at any rate. A peace treaty [[Accept_Druj_peace_treaty|presented to the Senate]] on behalf of the [[Druj]], and [[Accept_Barrens_peace_treaty|a treaty]] from the independent orcs of [[the Barrens]], have been rejected. Yet if there is a state of war here, it is founded in uncertainty and confusion.
+
+===Angry Trees===
+In [[Holberg]], [[Drakes|Old Tom's Finest]] mount a spirited defence against the threat of Druj counterattacks, but mostly spend the long Summer days fighting off [[Thunderous_Tread_of_the_Trees|animated trees]] intent on tearing down the walls of Holberg. The resourceful [[the Marches|Marchers]] adapt quickly to this threat. For a time it seems as if every axe and hatchet on sale in the markets of [[Holberg#Holfried|Holfried]] is bought by a grim-faced [[Yeoman_of_the_Marches|yeoman]] to use against the malicious vegetation powered by barbarian magics.
+
+A few bands of orcs still haunt the northern forests - remnants of the scattered Druj armies. The orcs suffer less from the depredations of the angry trees - drawn as they are towards large structures and concentrations of people. Further, they flee all contact with Imperial troops, preferring to keep themselves alive through banditry and brigandage. It is a pattern the Empire has seen before. Within a generation, they will have forgotten they were once soldiers and will have adopted the practices of the common cut-throat and ruffian. Young heroes of the Empire will cut their teeth tracking them down and putting them to the sword.
+
+===Angry Ettercaps===
+At the same time, the [[Black Thorns]] leave the Empire for the Barrens. With the aid of the Orcs of the Great Forest, their army moves safely from [[The_Barrens#Dawnguard|Dawnguard]] to [[The_Barrens#Murderdale|Murderdale]], and into eastern [[Brocéliande|Brocéliande]]. They skirt the edge of [[Brocéliande#Dark_Ranging|Dark Ranging]] at speed, using all their skill to avoid direct confrontation with the vallornspawn that hold sway in those twisted woods. Their destination is [[Brocéliande#Elerael|Elerael]], on the border with [[Reikos]]. They are quick - but not so quick that the [[Vallornspawn husk|husks]], and the [[ettercap]], and the stranger horrors of the [[vallorn]] do not claim some of them. Too many perhaps.
+
+Yet news comes to the [[Navarr]] left behind, at [[Brocéliande#The_Broch|the Broch]] and in [[Brocéliande#Boar's Dell|Boar's Dell]], that they have reached their destination. A vicious engagement with insect abominations and a few scattered bands of Druj orcs follows, but by the start of the Autumn Equinox the Black Thorns have driven the invading beasts out of the southern forests. Without the anchors of spring magic to hold it, the miasma parts and recedes again. Elerael is safe - for now - but the Black Thorns are caught between the vallorn on two sides, the unknown dangers of the Great Forest at their back, and the sickness in Reikos to the south.
+
+===Angry Orcs===
+As to the orcs of the Barrens - the Black Wind, and the Great Forest, and their allies - both orcs and [[briar]] - they launch an attack of their own. When the Navarr have passed through the Barrens, perhaps as many as fifteen thousand orcs move against [[The Barrens#Dawnguard|Drycastle]] and [[The_Barrens#Towers_of_the_Dawn|the Towers of the Dawn]]. They advance cautiously, their attacks are sporadic and half-hearted and as soon as the encounter concerted resistance they fall back - confused. In each case, they command the [[Dawn|Dawnish]] defenders to lay down their arms - it is clear they expected there to be no resistance. They talk of peace treaties, and seem surprised that their demands for the surrender of Imperial territory in the Barrens are ignored.
+
+The orcs withdraw in disarray, clearly angry. In the confusion, there are a few losses on both sides, and reports of pockets of vicious fighting between orc warriors and Dawnish knights enthusiastic for an opportunity to strike against their enemies under cover of the fog of war. The towers of the Dawn sustain minor damage, but there is no decisive engagement between the Barrens orcs and the Imperial defenders. Not yet, anyway.
+
+===Game Information===
+Holberg is still suffering the side effects of Druj magic even though the Druj themselves are gone. Navarr forces have pushed through the edges of the vallorn of Brocéliande to secure the untainted region on the southern side of the territory and it is now in Imperial hands again. The business with the Barrens orcs is a lot less cut-and-dried. It seems they hoped to claim the Towers of the Dawn and Drycastle without significant opposition. Once they realised the inhabitants of the Dawnish estates, and the garrisons at the Towers, were prepared to defend their holdings, they soon backed off. Casualties are relatively few on both sides - but even so it is likely there will be diplomatic repercussions here. It is simply too early to say precisely what form they will take.
+{{CaptionedImage|file=UrizenDefenders.jpg|caption=The garrison of Fort Mezudan - the Fist - |align=left|width=550}}
+==The Siege of Fort Mezudan==
+Following the Summer Solstice, the [[Granite Pillar]] and the [[Quiet Step]] pull out of [[Reikos]] and march down through the mountains of [[Morrow]] and [[Redoubt]]. They cross the eastern border into [[Spiral]], and the sole remaining piece of territory held by the Urizen.
+
+For the soldiers of these two armies, it is as if the sun has come out from behind the clouds. Months of fighting the Druj under the influence of their [[Druj miasma|foul miasma of dread]] are behind them. Purified of the [[Reikos flux]], and with the opportunity for a toe-to-toe battle with a barbarian army under an open sky ... it is like a breath of fresh air. Now and again, a soldier will simply break into a broad grin or laugh for no obvious reason - it is as if they are surprised by their own ability to feel joy again. They may die in battle at any moment ... but at least they are out of Reikos and away from the horror and despair and the mud.
+
+The Granite Pillar quickly take charge at the citadel known locally as [[Spiral#Fort_Mezudan.2C_.E2.80.9CThe_Fist.E2.80.9D|"the Fist"]] , smoothly slipping into the role filled until recently by the [[Valiant Pegasus]]. The Quiet Step immediately dispatch [[Army_qualities#Scouting|scouts]] to spy out the enemy positions and get a feel for their likely strategies. The Urizen garrison meanwhile offers what aid they can - and several declarations of thanks to the [[Imperial Master of Works]] without whom the castle would likely never have been completed.
+
+For their part, the Grendel forces waste no time in launching their assault into [[Spiral#Ateri|Ateri]]; their ultimate goal the capture of Fort Mezudan and with it the final vestige of Urizen resistance in Spiral. They push quickly through the outlying foothills. The [[Highguard|Highborn]] and [[Navarr|Navarri]] defenders meet their advance, holding where they can and withdrawing in a disciplined fashion back towards the castle where they cannot. 
+
+The Granite Pillar excel in the defence - not only do they coordinate opportunities for the Navarr scouts to sneak past the Grendel lines, but they are able to anticipate the strategy, and blunt the force, of the big barbarian push. Indeed, the fact they are outnumbered seems to play to the strengths of the Highborn troops - their smaller forces are more mobile, and it is clear that their carefully laid down fall-back positions and lines of support and defence give the Imperial forces a significant advantage in the face of an enemy perhaps twice their size.
+
+Still, the defenders are unable to hold the foothills of Ateri. Several [[spire|spires]] fall to the Grendel as the defenders withdraw back to the Fist. There they make a stand. A little under six weeks since the negotiations at Anvil, a lone orc emissary strides arrogantly up the road beneath the castle and imperiously demands the surrender of the fort to the Salt Lords of the Broken Shore.
+
+The defenders politely decline to give up their positions.
+
+As the emissary returns to the armies advancing through the hills, great braying horns begin to sound signalling the beginning of the Siege of Fort Mezudan. The Grendel have been preparing for months - battering rams, a siege tower, and heavy catapults are all moved into position while forces possessed of great scaling ladders and grappling-lines push toward the walls under the cover of sustained missile fire. A powerful barbarian orc force fighting beneath banners bearing the image of a dark bird on a white background lead the attempt to storm the walls, trying to force the defenders back with an overwhelming assault. The orc forces are well supplied by their navy, still anchored off the southern coast, and it provides a constant stream of fresh troops to replace those injured in the ensuing battles.
+
+Even behind the reinforced walls of Fort Mezudan, the defenders are pushed to the limit holding the Grendel at bay. The enemy takes advantage of any weakness to press their attack, with the castle and the Granite Pillar suffering the bulk of the damage. Estimates suggest both sides have suffered similar casualties, but there is little doubt that the Grendel have won the first stage of the engagement with the Imperial forces.
+
+Without the Granite Pillar and the Quiet Step, however, there is no doubt the castle would have fallen before the Grendel during the first assault. Still, the orcs of the Broken Shore now control nearly half the region and if they can drive the defenders back from Fort Mezudan nothing will stand between then and complete domination of the territory.
+
+===Game Information===
+The Grendel have won a small victory, but Fort Mezudan still stands. They are a little under half-way through conquering the surrounding area, and are focusing their attention on destroying or capturing the castle. There is no sign of the hostages the Grendel took during the [[379YE_Summer_Solstice_winds_of_war#Curse_the_Darkness|recent consolidation]] of their position in Spiral.
+{{CaptionedImage|file=ArillaCorvidae.jpg|caption=The skull is very close to the surface in Reikos these days.|align=right|width=550}}
+
+==The Death of Death==
+Whenever someone says "could this get any worse?" veterans of the [[Reikos]] campaign will wince and change the subject.
+
+[[Thunderous Deluge|Torrential rain]] keeps up throughout the Summer months and well into Autumn. The mud is only the half of it - the stinking mud, made feculant and pestilential by the |rampant magic of Spring. Everywhere the waters rise, washing away topsoil, causing tree and ruined chapter alike to become treacherous or deadly. Everything is soaking wet, all the time, and the water is tainted. An apt metaphor for Reikos, perhaps.
+
+Thanks to the Druj [[Rivers Run Red|sorcery]], even the smallest wound may fester gangrenously ... or become an invitation to maggots and flies to burrow under the skin and require amputation. Bad enough on a trek through the woodlands ... but on a battlefield?
+
+Then there is the [[Druj miasma|miasma]]. The Quiet Step and the Granite Pillar are gone, and new armies have taken their place. The [[Strong Reeds]] and the [[Bounders]], hearty soldiers who think they understand a rough campaign. The [[Citadel Guard]], concealing their revulsion at the corrupted, corrupting war zone into which they have marched. The [[Wolves of War]], seasoned [[the League|League]] troops [[Army_qualities#Mercenary|supported]] by hard-bitten [[Varushka|Varushkan]] [[Varushka_military_concerns|wagon-raiders]] who have fought the [[Varushkan Monster#Wolves|Wolves]] in Karsk and for whom a few orcs and a little bad weather hold no terrors.
+
+By the time they reach the [[Valiant Pegasus]], sheltering in the ruins of [[Reikos#Haros_Water|Haros]], they have been exposed to the Druj miasma for nearly a week. It is difficult to decide which has the more profound effect on these newcomers - the terrible crushing weight of the miasma, and the rain, and the dark magic ... or the soul-numbed state of the Highborn soldiers when they finally reach them.
+
+One shocked officer mutters that there is little to tell between the shambling Highborn [[Army qualities#Siege|siege engineers]] and the [[Quickening_Cold_Meat|shambling unliving corpses]] that accompany them.
+
+Oh, how insightful that seemed at the time. How untrue a comparison it quickly proved to be.
+
+The corpses bolstering the Valiant Pegasus - provided by the darkest magic of the Winter realm - do not last the month. At first the collapse appears to be a few isolated incidents. A corpse here and there ruptures wetly, bloated with internal gases - the preservative magic that keeps their flesh intact no match for the rotting touch of the Rivers of Death. Nobody spots the spores until it is too late. By that time, the fungus has spread through the unquiet dead like the [[Reikos flux]] is spreading through the living soldiers ... but where one in ten humans fall seriously ill, all the husks succumb to the spreading fungus that devours their dead flesh. Some of the mushrooms are quite beautiful - eggshell blue, or the gentle flush of delicate rose - others stink to high heaven. It is almost a mercy when the last of the husks splits apart, releasing heavy yellow spores into the air.
+
+The rain is a blessing, in a way - it stops the spores spreading for a start. While they do not seem to be able to find purchase on living flesh, they infest damp leather and canvas if given the chance.
+
+A thousand corpses, animated and brought from Spiral, undone in less than a week, no longer suitable as hosts for the ravenous Winter spirits bound within them. Now unbound ... in a land where death reigns like a pagan king ... where the dead often lie unburied because there is nobody left to dig their graves ...
+
+The first encounters with wild husks occur as the last major enclaves of Druj resistance are rooted out of Haros Water, and the five Imperial armies set their sights on the great citadel of Urith Barath ... of [[Reikos#High Chalcis|High Chalcis]], as was. A few patrols report gaunt and ghoulish figures, some human, mostly orcs, engaged in unspeakable feasts. They flee in the face of armed warriors... but then return to skulk in the shadows waiting for weakness to strike so they may feed. It is scant consolation, but engagements with these scattered gangs of baleful grues indicate they are physically very weak - and show signs of being consumed by the same fungal spores that riddled the dead flesh of their original hosts.
+
+The road to High Chalcis is marked with horrors. Now and again, the scouts spy a slave encampment. Some are obviously abandoned - the bodies of the slaughtered slaves lying where they fell ... or shambling slowly around their pens ridden by Winter spirits ... these are horrible but easy enough to pass by. Even the wagon raiders accompanying the Wolves of War leave the slave camps untouched (and they are among some of the first to break into ruined or abandoned Druj positions during the slow advance westward).
+
+The worst though ... the worst are the ones where the slaves obviously still live. In some cases, the Druj have withdrawn and not even bothered to put them out of their misery, leaving them to die of starvation (because nobody will die of thirst in Reikos this season), or of the flux. Those are the worst, because the orders are to leave the camps alone, rather than risk refugees that might spread the pestilence of the Reikos Flux to other parts of the Empire. A few Druj guerrillas take advantage once they notice the Imperial troops giving the slave camps a wide berth, and retreat into them when the armies draw near.
+
+The citadel of Urith Barath - a great wall of white granite and black stone quarried and built by slaves. Barbed black iron spikes, and the tattered banners of the chapters of Highguard adorn the walls. One great gate of blackened weirwood, and a field of sharpened stakes, scattered with waterlogged trenches. The walls are garrisoned by pitiless orc warriors, and over it all flies the banner of the stone toad.
+
+It is a terrifying sight, like a vision of some heathen underworld given flesh. Even without the miasma, the thought of assaulting the citadel would be a sobering one. The five armies draw up around the lower hills, over twenty-thousand Imperial troops ... many of them sick in body or spirit from their exposure to this accursed land where once the gardens of Highguard flourished.
+
+The Valiant Pegasus lead the attack, supported by the Marchers, the Urizeni, and the League army with their Varushkan mercenaries. Perhaps this is how the Druj armies in Holberg felt, assaulting the walls of Holfried. The result is not catastrophically dissimilar. Between the Druj miasma of fear, and the rotting, festering magic of Spring, and the savage defence of the garrison of Urith Barath the Empire is thrown back time and again. Over the course of the first two months of the siege, maybe as many as fifteen-hundred Imperial troops are killed, or maimed, poisoned, or broken in spirit so that they simply cannot go on.
+
+If there was any doubt that orcs are untouched by the Reikos flux, the armies of the Empire see ample proof of it during the terrible siege of what was once High Chalcis. The defenders are hale and healthy - while the Spring corruption of the red-running-rivers assails their bodies with the same indiscriminate voracity with which it attacks the Imperials, the Flux finds no purchase on them. Likewise, the three companies of Imperial orcs that fight alongside the Wolves of War remain in good health throughout - not a one of them falls to the flux. It seems this disease is solely for the human enemies of the Stone Toad.
+
+And oh, does it take its toll! The soldiers of the Valiant Pegasus begin to fall first, and most seriously, but it is an indiscriminate killer. As Autumn approaches, it becomes common practice to take a roll call each morning to see who has passed away in the night. Or to find the empty bedroll left by a poor soldier whose death has opened a door for a hungry Winter spirit to find a corpse to wear.
+
+Another two thousand Marcher yeomen, Urizen sentinels, League mercenaries, and Highborn champions killed by sickness. One in ten dead of disease. It is no way for a warrior of the Empire to die.
+
+And in the end? Has it been worth it? Two months of sustained siege has cut the garrison, toppled one of the two central towers, and reduced the strength of Urith Barath by perhaps half - perhaps not so much. The Druj remain inside their walls, hunkered down for a long siege, watching with pitiless eyes as Spring magic and disease do their work for them ... and helping the reaper along a little with their arrows, and their spears, and their poisons, and their spite.
+
+Grim to write, hopefully grim to read. A variety of factors - disease, dread miasma, Spring magic, thunderous deluge, wicked bastard orcs, a giant castle - have left the Imperial troops with significant casualties, and significant damage to the walls of Urith Barath.
+
+===Game Information===
+It is very hard to predict how this situation will develop - the castle and its defenders have nowhere to go, but the Imperial forces have taken a serious blow to their strength and all five armies are now thoroughly infested with the Reikos flux. The Empire has, however, successfully cleared the Druj out of Haros Water, which means that two regions of Reikos are now in Imperial hands.
+
+==The Hills Rise Wild==
+===Reinos, the Northern Hills===
+Shortly after the Spring Equinox, apparently in response to an Imperial presence in Faraden, the Jotun orcs launched an invasion of the northern Lasambrian Hills. During the Summer Solstice, a delegation of Lasambrian orcs approached the Empire to enlist their aid against the Jotun. General Tiesto Hierro, representing the largest orc clan in the Hills, negotiated a treaty securing aid for his people. As a result, the Senate voted to abrogate the Jotun peace treaty. Instructions were given to the civil service to assist Imperial captains wishing to fight the Jotun alongside the Hierro.
+
+At a rough estimate, perhaps as many as thirty Imperial captains have taken their companies to the northern Lasambrian hills. This represents a fighting strength of more than three thousand Imperial citizens under arms. While the majority of those going to fight in the foreign conflict are from Wintermark and Varushka, every Imperial nation is represented. In conjunction with the potent Imperial magic used to enchant the general of the Lasambrian force, every effort is made to integrate the Empire's disciplined soldiers with the unruly horde of the Hierro army.
+
+The orcs of the Lasambrian Hills are roughly divided into three clans; Hierro, Corazón, and Naguerro. The Hierro represent the strongest of the three; their chieftain is responsible for bringing the other two clans into the loose alliance that helped them organise the recent conquest of Segura. They seem to be the most practical in their attitudes to the Empire.
+
+The second most populous clan are the Corazón. Much of northern Reinos is claimed by this clan and they have taken the brunt of the Jotun advance. In contrast to the Hierro and the Naguerro, the Corazón are somewhat ambivalent toward the Empire - but they make little secret of the fact that they do not particularly like the human warriors. While they accept in theory the necessity of foreign aid, reports of interactions between Imperials and Corazón make it clear that they resent the fact of their presence.
+
+The Naguerro, the smallest of the three clans ... are not currently in Reinos. Anecdotally, they do not like the Empire at all.
+===Kalino, the southern hills===
+As part of their treaty with the Empire, General Tiesto of the Hierro agreed to a strategy consolidating Lasambrian forces in Reinos to resist the Jotun. This strategy did not sit well with the chieftains of the smallest of the three Lasambrian clans. Called the "witch-clan", known even among the barbarians for their superstitious ways and suspicion of the Empire, the Naguerro control much of eastern Kalino. They have been desperately trying to resist the invasion of the Iron Confederacy from the south.
+
+The Hierro demand to abandon Kalino proved utterly unacceptable to the Naguerro. They have ended their alliance with the Hierro and Corazón and recalled their remaining warriors to the southern hills to protect their homes. While the internal politics of the nations of the Lasambrian Hills are murky at best to Imperial eyes, there is some evidence that the leaders of the Naguerro place some of blame for this perceived betrayal by their allies squarely at the feet of the treaty with the Empire.
+
+No Imperial forces are present in Kalino, but a few details regarding the campaign there have been pieced together from dispatches from Reinos, and the stories of Suranni merchants visiting the Brass Coast. Stories trickle into the Empire that the Naguerro and the Iron Confederacy are not the only forces with an interest in the conquest of Kalino.
+
+A "major" force of Grendel orcs, both ships and soldiers, have made landfall along the eastern coast. It seems likely that this force represents - either in part or in whole - the naval force that moved south from Feroz shortly after the Summer Solstice.
+===The Broken Hills===
+Precise details are scant at this time, but the news coming out of the northern Hills - out of the territory of Reinos - is not good. By all accounts, the beleaguered Lasambrian forces in Reinos are outnumbered four-to-one by the invading Jotun armies. The presence of the Imperial forces slows their advance a little, but that is all.
+
+In the last weeks before the Autumn Equinox, dispatches from the south-western front indicate that the Jotun have decisively routed the Lasambrians and taken control of more than half the territory.
+
+The Hierro are falling back, desperately. Their army will not survive another season against the Jotun. In the last month, there are suspicions that the Hierro have attempted to contact the Jotun generals to negotiate an end to the invasion ... and been categorically rebuffed.
+
+By contrast - and despite the presence of not one but two foreign armies in Kalino - it appears the Naguerro are actually holding their own. No concrete information has come out of the south as yet, but it seems that the Iron Confederacy advance has slowed to a crawl. This is in spite of conservative estimates of three-times as many Suranni soldiers as Naguerro orcs in Kalino, and the presence of the Grendel ships and warriors.
+
+Speculation about how the Naguerro are managing to hold the Suranni at bay is rife. It is likely that the Suranni ambassador - or diplomats from the ducal court of the so-called "Iron Wolf" - will be visiting Anvil during the Autumn Equinox. Perhaps they will know the truth of the situation.
+
+===From the Jotun, no word===
+There is no way that the presence of three thousand Imperial soldiers in Lasambria can have gone unnoticed. Shortly before the Summer Solstice Gudmundur Arason, King of Narkyst, Jarl-of-Jarl of the Jotun made the position of the barbarians very clear "If your armies or your military units march to help the Lasambrians then you must know that the treaty between us will be no more."
+{{CaptionedImage|file=SmilingEyes.jpg|caption=Still ... it's not ''all'' doom-and-gloom.|align=right|width=550}}
+So far, however, there has been no further communication between the Empire and the Jotun.
+
+===Game Information===
+All the Empire knows for sure at this time is that the Jotun have won in the northern Lasambrian hills. The captains of individual [[military unit|military units]] will receive more detailed information of events in Reinos when they arrive at the Summer Solstice event.
+
+==Interludes==
+These are three pieces designed to give a little flavour, and to highlight smaller-scale events related to the Empire's military campaign happening in different parts of the Empire.
+===Southern Hospitality===
+<ic>Samson of Stonewatch tried again. He seemed to be having difficulty believing what he was hearing - or perhaps he was just struggling with the thought of the report he would need to make to his superiors.
+
+"I hear what you are saying, but can you explain it again? I just want to be sure we are all clear, yes?"
+
+Behind the Highborn scout, just out of his line of sight, his companion rolled her eyes and leant on her heavy spear.
+
+Efra folded his arms, and controlled the urge to grind his teeth. His daughter clung to his leg and gazed in wide-eyed wonderment at the lightly armoured Unconquered and the yeoman in the harness of polished steel.
+
+"I don't know how many times or how many ways I can explain it. The ... the orc ambassador came back with his entourage and an escort of Imperial soldiers. He paused long enough to buy some fresh oranges from Madame Lupita, and then the three of them boarded a launch and rowed straight to their ship without looking back. Within the hour, they were unfurling sails and weighing anchor and ... and then a little after that, they were gone. Just ... gone.
+
+"And no, to answer your question again, we saw no sign of anyone coming ashore. And yes, we did keep a vigilant watch on them. They were a massive force of ships and orcs threatening to burn our town to the ground ... of
+course we kept an eye on them!"
+
+Samson grimaced. "But ... why did nobody ... follow them? At least to find out where they were going?"
+
+Efra breathed a rude word under his breath.
+
+"What can I say. This is the sea, which is entirely flat and open. It is almost completely unlike, say, a forest through which you might cleverly track an enemy army for days. It lacks ... caves and hollow logs you can hide in if your quarry spots you and decides to give chase. Also, it is a navy. It will follow the coast. It is going south so ... that is the direction they came from after all ..."
+
+He sucked his moustache thoughtfully.
+
+"Also - and I am not an expert by any means - while most of their vessels were fat warships there were enough clearly trimmed for speed that I can see why nobody decided to follow them."
+
+He gestured then along the street to where Madame Lupita was roundly telling off a group of youths - no more than children - who were lazing around drinking lemonade instead of dismantling the barricade that still blocked half of the street.
+
+"To be honest, I think we were all just a little relieved that the Grendel were not going to drag us all off in chains, or turning our town into a battlefield."
+
+The Highborn took a very deep breath and started to speak: "The ''courageous'' thing to do ..."
+
+His companion interrupted him.
+
+"Whatever the courageous thing to do might have been Samson, the wise thing to do was to stay put and worry about protecting their families and their homes. Wouldn't you agree?"
+
+Emotions warred on the Unconquered's face, but after a moment he nodded. Efra realised he was much younger than he had first assumed, barely into his twenties; probably he wore the full beard to try and appear older. The Freeborn relented then.
+
+"I did hear tell that Camira i Riqueza and her fishing boat saw the Grendel heading south - I think she was poking around the waters of Osseni again despite all the warnings - and they looked as if they were in a hurry. Full sail supported by oars and such like. She said they definitely had the air of people late for an appointment. But then, she is a naga and says things like that all the time. Does that help at all?"
+
+Samson sighed and shook his head. "Not ... not massively so. I think the general was expecting a fight with the Grendel and instead ... well."
+
+The young man looked so crestfallen that Efra took pity and patted him on the arm.
+
+"Cheer up - there may not be Grendel, but I happen to have some particularly fine peach brandy ... which I will be happy to sell your soldiers at a surprisingly bargain price!"</ic>
+===Drifting Summer Days===
+<ic>The two knights circled each other, shields raised, probing for any weakness. The cheering was like a physical thing, a wall of noise crashing again and again. Here and there across the tourney field, chirurgeons tended to fallen knights and war-witches - dragging them out of the way when the last two warriors got too close.
+
+The sun was taking its toll - sweat, heat, and exhaustion - and a misstep was inevitable.
+
+Sir Jocasta winced at the final blow - she fancied he could hear the bone breaking over the triumphant roar of the crowd. The victor was lifted up onto the shoulders of four burly yeomen, and carried to Lady de Cassilon's pavilion at the far end of the field to receive her honours. A physick was already crouching beside the loser, and rapidly unbuckling armour, and preparing cerulean mazzarine to apply to the shattered limb.
+
+The changeling next to her handed her a goblet of sweet golden wine, gestured towards the shadow of a nearby marquee.
+
+"Is this what you do here, you de Cassilons?" She asked. Her companion laughed.
+
+"No, no. We are pulling out all the stops to impress you - normally we do this kind of tourney only every few months. Or for special occasions. Or, yes, on particularly fine days. Like this, in fact."
+
+The shade was very welcome. Outside, the tourney was clearly over and the cheering had died down. Trestle tables were being moved onto the sward, and one of the Golden Sun troubadours was leading an enthusiastic chorus of de Cassilons and soldiers in a rendition of The Curse of Sir Colwyn marked more for its energy than precision.
+
+Sir Jocasta inclined her head towards a table, where a small group were gathered, deep in animated conversation. Two were smartly-dressed yeomen in their Tourney best; one an obvious noble in smart teal robes; the fourth member a tiny gnome woman with outrageously pointed ears and inhumanly bushy eyebrows ... and the fifth was half again the height of a human being, with protruding tusks and orc-like features. The five were discussing - or arguing - the application of some of the magical laws to a theoretical ritual intended to enchant a castle to be resistant to comets.
+
+"And how common is that?"
+
+Fraser de Cassilon grinned lopsidedly. His vibrant purple eyes glittered with good humour.
+
+"The heralds? Reasonably common. You know, of course, that we sealed our borders with Meraud's aid? After an eternal comes to your aid like that it would seem churlish to turn them away. You understand surely - I mean ..."
+
+He inclined his chin towards a shadowed corner where an unhappy bird creature sat, shoulders hunched, nursing a bowl of wine in taloned fingers. It stared out towards the singing throng and made as if to rise - then fell back when Sir Jocasta growled at it and shook her head.
+
+"Don't blame me for the birds! I have no idea where they came from, nor why the general tolerates them. Dreadful, miserable things if you ask me." The herald of Lashonar clearly heard her voice - a little too loud - and looked hurt. She ignored it.
+
+"I might see if I can track down one of your witches," mused Fraser. "They are sure to know and I am sure the tale will be worth the listening. But for now, let's have some food. It is a good idea to line your stomach before the serious celebration starts - there will be some good vintages tonight I wager. You would not believe how potent wine brewed from grapes cultured in a regio of the Summer realm can be."
+
+He smiled impishly, but then became more serious.
+
+"We must seem frivolous to you, Jocasta, but it is not really who we are. Tomorrow, Fleuriel will have the retainers taking inventory and separating out anything that can be repaired. He is very good at that - and we have had more than enough time to lay in stocks of boots, and tents, and shields, and ..." He waved one arm vaguely. "Things of that nature. The wounded will be cared for - in spirit as well as body - and when your army marches off to war again, it will be stronger and more than ready to face the peril and the glory of the battlefield."
+
+He lowered his head slightly.
+
+"Today is a celebration - not only because you are our guests, but because of what you represent. A new start. We were hurt - all of us - by what happened but we have had a decade or more to come to terms with it. If we seem flighty, it is just ... well I think we are glad to finally been able to drop that wall of mists without shaming ourselves. To be frank I find it all a little embarrassing - I was barely a squire when the mists were raised. I'm glad in all honesty to see the back of it. I want to see the world! I've read about it in books, and heard about it from some of the older courtiers but ... Casinea! Sermersuaq! Volodmartz! Feroz!"
+
+He rolled the words around in his mouth with obvious pleasure. Sir Jocasta saw the Lashonari herald perk up and shot it a hard stare as her companion continued.
+
+"They sound wonderful, strange and exotic. I want ... well I want to get out of here for a start. Maybe I will come to Anvil with the others. But either way, I want to see the whole Empire!"
+
+He touched her hand then, and there was more than the accustomed warmth in his eyes.
+
+"I would like you to show it to me ... I hope you would like that too."
+
+Sir Jocasta sipped her wine, and allowed herself a slight smile. Three months of this kind of attention ... she could get used to it.</ic>
+
+===Night's Watch===
+<ic>Nan Carter looked out across the dark moor and shivered despite the warmth. She was painfully aware that her armour - sized for her older sister - did not really fit her. She hated the smell of stale sweat that seemed baked into the gambeson. She hated the weight of the metal. She hated standing watch, truth be told. She understood why it was important but ...
+
+At least she wasn't alone. Little Jim Thatcher was there too, and Old Gadge. Jim stood with her out under the night sky, while Old Gadge lounged under the rough slate of the open-topped watchtower smoking something foul smelling in his little clay pipe.
+
+"Do you think it is true," Asked Jim without warning. His voice broke slightly, and she could tell he was blushing. "That the barbarian orcs have gone away? That it's over?"
+
+Nan shook her head. Jim was two years younger than her, and for a moment that little gap felt like all the years in the world.
+
+"I don't think so," she said, gently. "I heard from one of the orcs - one of our orcs you know? - that there were raids up and down the western borders up as far as Sermersuaq and down as far as Fort Braydon on the Brass Coast. If they've not been near us for a few months it's because they're busy. Elsewhere."
+
+She spoke with what she imagined was self-assured confidence, but the fact of the matter was that she had barely exchanged two words with the Imperial orc legionnaire when he was talking to her father about beating the dints out of his helmet. She had listened, wide eyed, as the soldier regaled the smithy with his stories of the war in Holberg; the battle with the Thule in distant Hercynia; and the slow raising of the tempo of war between the Empire and the Jotun.
+
+Little Jim Thatcher started to cry then; he was young, and while he was no coward ... he was young. Nan ignored it and looked straight ahead across the Mourn under the stars. After a few minutes her fellow guard snuffled into a handkerchief and stood up straight. They both pretended nothing had happened.
+
+Presently, Jim spoke up again.
+
+"But the Empire is going to win right? I mean ... it's just orcs isn't it? We'll give them a good hiding and they'll go scurrying off back to where they come from with their tails between their legs."
+
+He broke off, thoughtful. Nan anticipated his next question.
+
+"No Jim, orcs don't have tails."
+
+He opened his mouth, probably to claim that was not what he was going to say, and then shut it again. Nan cast around for something encouraging to say, and then Old Gadge spoke up. He had moved silently from his position on the other side of the tower, and was now leaning between them, his arms folded on the parapet.
+
+"It won't be that easy," he said bluntly. "It's going to be a nasty war. It's been brewing too long and it's gotten all stewed. There will be a river of blood before anyone goes scurrying anywhere - and it might be us and not them."
+
+Jim started to snuffle again, and Old Gadge cut him off.
+
+"And you can stop that right now, youngster. There's no point pretending things are different to what they are. Wishes are for courting and falling stars and nothing more. If the Jotun haven't been by in a few months it's not because they've given up. It's because the patrols and the garrison keep them out - that and the treaty they signed with the Senators in Anvil. Mark my words, they ha'nt forgotten about Overton. How could they?"
+
+He gestured towards the nearby construction with his pipe, a ruby red ember illuminating the weatherbeaten skin of his half-hand, half the fingers of which he had left on a battlefield he never spoke of.
+
+"They ha'nt forgotten the castle here, neither. Come Spring we'll be arse deep in Jotun, mark my words. No general, not a human nor an orc, will rest easy while their enemy has a castle between them and what they want. And those raids you hear'd tell of Nan? They're just the start of it all. They're testing the waters, like, finding the right spot to cast their hook and catch a nice fat catfish. It's when the raids stop altogether we'll need to worry because that'll mean they are coming. And when that happens ..."
+
+He tailed off, and sighed.
+
+"... then you'll have to make a choice Jim. And you too Nan. Fight, and maybe die, and see the ones you love die and be powerless to help them ... or surrender, and maybe live like those spineless cowards I hear'd tell of up Alderley way who call themselves Yegarra now and fight against their blood."
+
+Nan had never heard Old Gadge say so many words all in one go. She looked at his face, a little astonished. He did not look at either of the young guards and stared off into the darkness. Into the past.
+
+"Oh, children." he said at least, his voice low. "And maybe you won't get to make that choice after all, because someone else makes it for you. And you'll have to live with the consequences of that through this life, and mebbes the next."
+
+He sucked on his pipe, and turned away, and under his breath said:
+
+"and maybe, maybe if you are cursed beyond reckoning, you'll have to make that choice for someone else, and it will haunt you to your grave and beyond."</ic>
+
+===Game Information===
+There are no Grendel in [[Feroz]] when the Imperial armies get there. Their navy, and the army it may or may not have been carrying, have headed South. Instead of a pitched battle against invading orcs, the Seventh Wave, the Tusks, and the Fire of the South spend a pleasant late Summer and early Autumn in sunny Feroz.
+
+The Golden Sun - with their [[Sing a sad song|entourage of heralds]] in tow - spend the long Summer days and short Summer nights in [[Weirwater]] as guests at [[Weirwater#Spiral Castle|Spiral Castle]]. Here they enjoy the many opportunities for diversion that the House de Cassilon has to offer. Including, but not limited to, a great deal of additional [[Casualties#Emergency_Resupply|resupply]]. During the Autumn equinox, a new [[Castellan of Spiral Castle]] will be appointed - the first in over a decade. At the same time it is believed that a number of nobles from the estranged house will be travelling to Anvil to catch up on all the politics - and glory - they have missed during a decade behind their wall of magical mists.
+
+Finally ... nothing is happening in Overton. Imperial forces are supporting the [[Construct_fortified_garrison_in_Overton|garrison]] there, and continuing to keep a close eye on the Jotun occupation force. The nastiest rumour to recently surface is that there are humans - who should be Marchers - who have grown up under the Jotun and prefer their rulership to membership of the Empire. It is not clear how many there are but ... when the storm finally breaks and the cold war heats up ... there may be some very hard choices indeed to be made in the Marches.
+[[Category:Recent History]]
+[[Category:379YE Autumn]]
+[[Category:Military Council]]
+[[Category: Winds of War]]

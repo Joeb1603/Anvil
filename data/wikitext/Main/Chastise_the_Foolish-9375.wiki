@@ -1,0 +1,31 @@
+{{stub}}
+{{CaptionedImage|file=NBUrizen.jpg|caption=This ritual is part of [[Urizen magical traditions#Urizen Lore|Urizen lore]] rather than [[Imperial lore]].|align=right|width=200}}
+==Rules==
+{{Season|Winter|20}}
+{{Urizen Lore}}
+===Performing the Ritual===
+{{Casting time|2}} At the end of the ritual one of the [[Rituals#Contributors|contributors]] is chosen to deliver the curse with a [[curse#Pronouncement of Doom|pronouncement of doom]].
+
+{{curse}}
+
+===Effects===
+This ritual creates a [[curse]] that is delivered to a target with a [[curse#Pronouncement of Doom|pronouncement of doom]]: one [[Rituals#Contributors|contributor]] is chosen to deliver the curse, and they must do so within fifteen minutes or it falls on their own head. 
+
+While under the effect of the curse, the character cannot make use of [[liao]]; they can't use or contribute to the performance of any [[Religious skills|Religious skill]]. This applies even if the character is using an ability or item that allows them to use religious skills without actually using any liao (such as the power of a [[Mendicant Cassock]]).
+
+They also experience a [[roleplaying effect]]; ''you are assailed by doubt, especially regarding your strongest held convictions and beliefs. The stronger you believe something to be true, the stronger the doubts become. Occasionally, you may hear a barely audible voice whispering in your ear, telling you that everything you believe is flawed and nothing more than fantasy. You may also occasionally catch a glimpse of a gaunt, hateful spirit lurking nearby, reflected in mirrors.''
+
+{{Year Duration}}
+
+===Removing the Curse===
+The curse can be alleviated by an powerful [[exorcism]] as if it were a spirit with a strength of 20.
+
+==Description==
+TBC
+
+This ritual was [[interdiction|interdicted]] by the [[Conclave]] in Summer 384YE, and then licensed once more in Spring 386YE.
+
+==Common Elements==
+TBC
+[[Category:Winter Ritual]]
+[[Category:Rituals]]

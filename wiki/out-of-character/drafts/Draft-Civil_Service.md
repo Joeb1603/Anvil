@@ -1,0 +1,268 @@
+---
+title: Draft:Civil Service
+source: https://www.profounddecisions.co.uk/empire-wiki/Draft:Civil_Service
+class: out-of-character
+topic: drafts
+categories:
+- Civil Service
+last_edited: '2026-01-22T02:41:59Z'
+revision: 133641
+in_character_boxes: 2
+---
+
+# Draft:Civil Service
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The Civil Service shall serve The Throne and the people, and be bound in oaths of loyalty to the Empire. They will be civil in their dealings and treat each citizen by their virtues, without prejudice or favour regardless of wealth, nationality or title. They will choose amongst them those who will serve as magistrates, to ensure the law is a friend to no-one but instead the servant and the master of all.
+> >
+> > The Imperial Constitution
+
+## Overview
+
+The Imperial Civil Service was established at the birth of the Empire but the roles and responsibilities were not codified until later, during the reign of [Emperor Giovanni](../../in-character/world/Imperial_history.md#2822-ye---34-ye29-reign-of-emperor-giovanni-the-peacemaker). Every member of the Service [swears an oath](../../mixed/magic/lore/Varushka_hearth_magic.md#oaths) to carry out their duties honestly and without favour to any party. As such, they do not vote in any elections, allowing citizens to trust the information and advice they provide is as fair and accurate as possible.
+
+The civil servants who attend Anvil are generally based at the Civil Service Hub, located roughly at the centre of Anvil. However, their work takes them across various parts of Anvil, as is outlined [here](../events/388YE_Autumn_Equinox_event_schedule.md).
+
+**All civil servants are NPC only positions. Their role is to enable the game to run effectively - providing dependable sources of information and preventing players from being bogged down in administration or bureaucracy. The roles are intended to be incorruptible, so that players can trust what the information implicitly. Profound Decisions will *never* run plot in Empire involving the corruption of magistrates or other civil servants.**
+
+## Institutional Civil Servants
+
+These civil servants are responsible for the smooth operation of a specific Imperial Institution. In all cases a single specific title exists, linked to each of the five great houses of the Empire, e.g. the Speaker for the Senate. Though such offices are always referred to in the singular, in practice there are usually multiple civil servants assigned specific to each role.
+
+### Speaker for the Senate
+
+The [Speaker for the Senate](../../mixed/titles/Speaker_for_the_Senate.md) comprises those civil servants appointed to oversee the business of the [Imperial Senate](../../mixed/government/senate/Senate.md). The Speaker chairs all sessions of the Senate to ensure they are orderly, timely and effective. They are responsible for accepting [motions](../../in-character/senate-motions/Senate_motion.md) from [senators](../../mixed/titles/Senator.md) and creating the agenda for each [session](../../mixed/government/senate/Senate_session.md), including any [addresses](../../mixed/government/senate/Senate_address.md) that are to be made.
+
+The Speaker is the best in-character point of contact for queries about Senate motions, [commissions](../../mixed/commissions/Commission.md), creation of [new Imperial titles](../../mixed/titles/New_Imperial_titles.md), and advice on how the Senate is run.
+
+The office of Speaker is expected to maintain the following records:
+
+- A list of all motions brought before Senate, the wording, their proposers, and the seconders.
+- Whether or not each motion was passed, failed or withdrawn.
+- Any disbursement from the Imperial treasury that was approved for the motion.
+- A list of all announcements made before Senate.
+- The location of a suitable [a suitable pro-forma for Senate motions.](https://drive.google.com/file/d/1lYOkBmRhK_7uDKhEHO6b10opGSok9THZ/view)
+
+*[Image: John of Meade, Speaker for the Senate](https://www.profounddecisions.co.uk/empire-wiki/File:Speaker_John_of_Meade.jpg)*
+
+|  |  |
+| --- | --- |
+| **Character** | **Crew Member** |
+| John of Meade | Harry Harrold |
+| Rialta di Regario | Amy Woodhead |
+| Alys Dyer | Amy Mason |
+
+### Tribune of the Synod
+
+The [Tribune of the Synod](../../mixed/titles/Tribune_of_the_Synod.md) comprises those civil servants appointed to oversee the business of the [Synod](../../mixed/government/synod/Synod.md). The Tribune is responsible for accepting and registering [Judgements](../../mixed/government/synod/Judgement.md) raised by priests, and recording and announcing the votes of members of the Synod. It is also the Tribune who disburses the [True Liao](../../mixed/religion/Liao.md#true-liao) to the Throne, the winner of the lot in the Public auction, and the doses awarded by the Gatekeepers.
+
+As the Synod holds no formal sessions, the Tribune is based solely within the Hub. They are able to answer queries relating to appointment to Synod titles, the raising of and voting for Judgements, as well the opportunities and powers available to the Synod.
+
+The Tribune is expected to maintain the following records:
+
+- The set of all judgements raised by the Synod at the summit.
+- Votes made by Synod priests on judgements.
+- Appointments by assemblies of the Synod.
+- Definitive wordings for any mandates that have been assessed by the Civil Service.
+- Rewardings made from the Virtue fund to the priests who raised the corresponding Judgements
+- The names of those who are to receive visions of past lives
+- The location of a suitable [pro forma for Synod Judgements](https://www.profounddecisions.co.uk/empire-wiki/File:Synod_Judgement_Sheets_EDITABLE.pdf)
+
+*[Image: Leonardo i Del'Toro i Riqueza, Tribune of the Synod](https://www.profounddecisions.co.uk/empire-wiki/File:Tribune_Leonardo_i_DelToro_i_Riqueza.jpg)*
+
+|  |  |
+| --- | --- |
+| **Character** | **Crew Member** |
+| Almodis Bolholt | Vikiy Myers |
+| Tall Billie Dipper | Matt Kazmierczak |
+| Kiersten Grimmrsdottir | Harriette Westmacott-Verran |
+| Maria Alexandrovna Kabanova | Sonja Hammes |
+| Leonardo i Del'Toro i Riqueza | Jonathan Kidger |
+| Orva Pirittasdottir | Kirsty Horne |
+
+### Herald of the Council
+
+The [Herald of the Council](../../mixed/titles/Herald_of_the_Council.md) comprises those civil servants appointed to oversee the business of the [Military Council](../../mixed/government/military/Military_Council.md). The Herald chairs all official meetings, the [Muster](../../mixed/government/military/Muster.md) and all regular [sessions](../../mixed/government/military/Council_session.md) of the Military Council to ensure they are orderly, timely and effective. They are responsible for creating the agenda for each session, accepting any [addresses](../../mixed/government/military/Council_address.md) that are to be made.
+
+The Herald is well-placed to answer any queries relating to the operation of the Military Council and how best to bring matters before it. They provide information on the disposition of the Empire's military forces to the Imperial generals at the start of the muster.
+
+The Herald is expected to maintain the following records:
+
+- The disposition and strength of the Empire's armies and fortifications.
+- The battle opportunities chosen by the military council
+- Which nations are taking the field for each battle.
+- The field marshal commanding each battle.
+- The orders given by generals to their armies.
+- Any pardons issued by the Military Council.
+- Any distribution of [spoils of war](../../mixed/government/military/Spoils_of_war.md) made by the Military Council.
+
+*[Image: Ekaterijna Nadyovna Gremani, Herald of the Council](https://www.profounddecisions.co.uk/empire-wiki/File:Herald_Ekaterijna_Nadyovna_Gremani_cropped.jpg)*
+
+|  |  |
+| --- | --- |
+| **Character** | **Crew Member** |
+| Ekaterijna Nadyovna Gremani | Sam Sulkin |
+| Verus Gorolfson | Ben Woodhead |
+
+### Agent of the Bourse
+
+The [Agent of the Bourse](../../mixed/titles/Agent_of_the_Bourse.md) comprises those civil servants appointed to oversee the business of the [Bourse](../../mixed/economy/Bourse.md). They organise the [election of all National Bourse Titles](../../mixed/economy/Tally_of_the_Votes.md) recording the votes cast and identifying each winner. They also arrange and oversee the [Auction of the Seats](../../mixed/economy/Auction_of_the_Seats.md) and the auction of a dose of [True Liao](../../mixed/religion/Liao.md#true-liao). The Agent is responsible for issuing [Bourse certificates](../../in-character/world/Currency.md#bourse-certificates) for [weirwood](../../mixed/economy/Weirwood.md), [mithril](../../mixed/economy/Mithril.md) and [white granite](../../mixed/economy/White_granite.md) to new seat holders when they win an auction or election.
+
+The Agent is best-placed to answer questions relating to any Bourse titles, either auctioned or elected, as well as questions about the current state of Bourse seats.
+
+The Agent is expected to maintain the following records:
+
+- Appointments by the Auction of Seats including who is appointed and how much was paid.
+- Appointments by the Tally of Votes including who is appointed, the total winning votes and the winning margin.
+- Values of any small quantities of Bourse resources auctioned at each summit.
+- The winning bid for the dose of True Liao auctioned via the Bourse.
+
+*[Image: Marta Kovar, Agent of the Bourse](https://www.profounddecisions.co.uk/empire-wiki/File:Marta_Kovar_cropped.jpg)*
+
+|  |  |  |
+| --- | --- | --- |
+| **Character** | **Crew Member** | **Role** |
+| Marta Kovar | Elinor Kershaw | Agent of the Bourse |
+| Rialta di Regario | Amy Woodhead | Auctioneer |
+
+### Prefect of the Conclave
+
+The civil servants who serve the [Conclave](../../mixed/government/conclave/Conclave.md) oversee its sessions in the Hall of Worlds. They accept Declarations made in advance of each session, create the agenda, and ensure each session is run in a timely, efficient and orderly fashion. They are also responsible for taking the crystal mana required to speak in Conclave, which is then added to the [Conclave vaults](../../mixed/government/conclave/Conclave_vault.md) and disbursed to [Grandmasters](../../mixed/titles/Grandmaster.md) of each [Order](../../mixed/government/conclave/Conclave_order.md).
+
+The Prefect is available in the Hub in advance of each session to receive Declarations for the Agenda, as well as to answer procedural questions on how things might be brought before Conclave.
+
+The Prefect is expected to maintain the following records:
+
+- Appointments to Imperial titles.
+- Addresses made on each day, and who made each one
+- Declarations made on each day, who made each one, and whether or not it passed
+- The Strengths of each order at each Conclave session
+- The contents of each Order's Vault at the beginning and end of the Summit
+
+*[Image: Khaytanus Everwatch (right), Prefect of the Conclave, next to Merlot, the Overseer of Imperial Elections (left).](https://www.profounddecisions.co.uk/empire-wiki/File:Khaytanus_Conclave.jpg)*
+
+|  |  |
+| --- | --- |
+| **Character** | **Crew Member** |
+| Aitana i Riqueza | Laura Knighton |
+| Casiphea of Basilisk's Rest | Clare Selley |
+| Khaytanus Everwatch | James Littlewood |
+| Merlot | Paul Wilder |
+
+## Non-Institutional Civil Servants
+
+A number of key Civil Service roles are not tied to a single official body of state. These positions are responsible for providing advice and service across multiple different houses or directly to individual citizens.
+
+### Constitutional Court
+
+The [Constitutional Court](../../in-character/senate-motions/Scrutiny.md#constitutional-court) is a body of civil servants whose job is to ensure that the [motions](../../in-character/senate-motions/Senate_motion.md) passed by the [Imperial Senate](../../mixed/government/senate/Senate.md) can be implemented in accordance with the Imperial Constitution. The Court provides [scrutiny](../../in-character/senate-motions/Scrutiny.md) of every motion after it passes the Imperial Senate, checking that it is in accordance with the Imperial Constitution and that it can be effectively implemented by the Civil Service. It exists to allow Profound Decisions to check that any motion that changes the way Empire plays will not adversely affect the enjoyment of the game in the years to come.
+
+Members of the Court will attempt to provide constitutional advice to any citizen who requests it, to give citizens the best chance of ensuring that any motion presented to the Senate are legitimate. However, advice given by any individual member is not considered binding by the Court, and all Senate motions are subject to further scrutiny once they have been passed on the floor of the Senate.
+
+Some members of the Court have a number of their own responsibilities. The Auditor of the Imperial Treasury is responsible for providing funds disbursed from the Imperial treasury by the Senate and producing the accounts for the [Master of the Imperial Mint](../../mixed/titles/Master_of_the_Imperial_Mint.md) each summit. The Imperial Archivist is responsible for historical research and for all Civil Service publications, while the Chief Magistrate is the senior magistrate for the Empire. These Civil Servants sometimes attend sessions of the Senate to provide important further context on the opportunities and powers available to it.
+
+*[Image: Magistrate Abraham (left) considers his position whilst Leontes the Scribe (centre) and Gerard La Salle (right) discuss matters of state.](https://www.profounddecisions.co.uk/empire-wiki/File:Abraham_Leontes_Gerard_cropped.jpg)*
+
+|  |  |  |
+| --- | --- | --- |
+| **Character** | **Title** | **Crew Member** |
+| Abraham | Magistrate | Matt Pennington |
+| Gerard La Salle | Auditor of the Imperial Treasury | Graeme Jamieson |
+| Leontes the Scribe | Imperial Archivist | Andy Rafferty |
+| Stanislav Karkovich | Chief Magistrate | Jon Creek |
+
+### Secretariat of the Civil Service
+
+The Secretariat are responsible for recruitment and appointment of new civil servants, as well as the day-to-day operation of the Service. Citizens who have an issue with the behaviour of a civil servant are best advised to raise the matter with a member of the Secretariat who will try to assist. At Anvil, when not facilitating the needs of the Civil Service as a whole, they usually fill other roles in line with their specialisms.
+
+At present the two members of the Secretariat are the Secretary General who directly oversees all civil service operations and the Cultural Liaison, who works directly with the egregores of each nation whole to ensure that all Imperial citizens, especially those new to Anvil, have access to the support they need.
+
+|  |  |  |
+| --- | --- | --- |
+| **Character** | **Title** | **Crew Member** |
+| Kaya | Cultural Liaison | Clare Evans |
+| Leonardo i Del'Toro i Riqueza | Secretary General | Jonathan Kidger |
+
+### Overseer of Imperial Elections
+
+The Overseer of [Imperial Elections](../../in-character/elections/Imperial_elections.md) is responsible for administering the appointment for all Imperial titles not managed by another office of the Civil Service, and ensuring all elections adhere to the strictures of Imperial Law. This includes, but is not limited to, elections for senators and generals each summit.
+
+The Overseer can be approached with any query regarding elections to the Senate, Military Council or Bourse. Appointments by the Imperial Synod are best directed to the Tribute of the Synod. Appointments by the Conclave are the remit of the Prefect of the Conclave, (Merlot, the current Overseer of Elections is also a Prefect of the Conclave).
+
+The Overseer is expected to keep the following records:
+
+- The list of current Imperial title holders
+- The list of titles awaiting election
+- All elections *to* the Senate or appointments *by* the Senate
+- Results of appointments *to* or *by* the Military Council
+- All elections and appointments *to* the Bourse
+
+*[Image: Merlot, Overseer of Imperial Elections](https://www.profounddecisions.co.uk/empire-wiki/File:Merlot_Book.jpg)*
+
+|  |  |
+| --- | --- |
+| **Character** | **Crew Member** |
+| Merlot | Paul Wilder |
+
+### Imperial Magistracy
+
+Magistrates are responsible for enforcing [Imperial Law](../../mixed/government/senate/Imperial_law.md). They appoint members of the militia and coordinate their activities, directing them to investigate potential crimes that have been reported. They administer trials, overseeing the proceedings and determining the verdict and setting the punishment. They oversee executions, as well as the collection and redistribution of fines.
+
+Magistrates can be be approached to provide advice on any aspect of Imperial Law, as well as to offer advice on how to bring a [civil claim](../../mixed/government/senate/Civil_Claims.md). They are currently based at the magistrate's office, near the Hub.
+
+The Chief Magistrate oversees the magistrate and is responsible for appointing and promoting new magistrates. The Constitutional Court always includes the Chief Magistrate and the longest serving magistrate, so the Chief Magistrate can also provide constitutional advice.
+
+The Magistracy, especially the Chief Magistrate, are also responsible for assisting in the creation of [Imperial Favours](../../mixed/titles/The_Throne.md#imperial-favour).
+
+The Magistracy publishes the [Court Report](../../mixed/government/senate/Court_Reports.md) following each summit that details all trials and their outcome.
+
+|  |  |  |
+| --- | --- | --- |
+| **Magistrate** | **Specialism** | **Crew Member** |
+| Stanislav Karkovich | Chief Magistrate, Criminal & Religious law | Jon Creek |
+| Avedon de Remourics | Criminal & Religious Law | Oliver Facey |
+| John Cooper | General | Richard Squires |
+| Kuura Tuomisbarn | General | Nat Saunders |
+| Nihm Farkas | General | Sophie Earnshaw |
+
+### Division for the Preparation of True Liao
+
+These civil servants take instruction from those individuals awarded or in possession of [True Liao](../../mixed/religion/Liao.md#true-liao). Where individuals seek to use the True Liao to have visions of their past lives, it is the responsibility of these civil servants to interview them, to explain the process, and then to administer to the ceremony after the True Liao has been suitably prepared.
+
+They aim to make themselves available to all potential visionaries for interviews and discussions at the Hub - both on the Saturday night of each summit as well as at 1:30pm on the Sunday.
+
+These civil servants are also responsible for keeping records of which citizens are due to receive visions of their past lives, which are published in the Hub. The Civil Service does not record the details of previous Visions - the responsibility for this lies with the [Seer of the Gateway](../../mixed/titles/Seer_of_the_Gateway.md).
+
+|  |  |
+| --- | --- |
+| **Character** | **Crew Member** |
+| Barak of Haros | David Sheridan |
+| Walt Scriber | Ian Horne |
+
+### War Scouts & Prognosticators
+
+Imperial war scouts provide vital intelligence to the Military Council on the disposition and movement of enemy forces. This information is combined with divinations performed by the Imperial prognosticators to identify conjunctions of the [Sentinel Gate](../../in-character/world/Sentinel_Gate.md). Each summit, the department produces a set of briefings for the Council, detailing all major conjunctions that have been identified, along with objectives and potential outcomes.
+
+The prognosticators and war scouts also work together to produce briefings for the smaller military conjunctions that are published before each summit. In consultation with the Constitutional Court, they decide which Imperial title should be given dominion over the conjunction. The war scouts are the best people to talk to if you have any questions about a military conjunction. At Anvil, the war scouts maintain a post near the [Sentinel Gate](../../in-character/world/Sentinel_Gate.md) in order to advise on known [conjunctions](../game-design/Conjunctions.md).
+
+The Imperial Archives also employ numerous prognosticators to help create the Winds of Fortune, the accurate forecasts and reports which are published before each summit.
+
+*[Image: Tirsa i Duran i Guerra, War Scout](https://www.profounddecisions.co.uk/empire-wiki/File:War_Scout_Tirsa_cropped.jpg)*
+
+|  |  |  |
+| --- | --- | --- |
+| **Name** | **Role** | **Crew Name** |
+| Alexandrina Ivanova | War Scout | Kim St Clair |
+| Atraxes | Prognosticator | Tom Hancocks |
+| Tirsa i Duran i Guerra | War Scout | Katherine Catchpole-Simmons |
+
+### The Academy
+
+The Imperial Academy at Anvil runs various activities for the younger heroes of the Empire. A list of dedicated Academy staff can be found [here](../events/The_Academy.md#academy-staff).
+
+---
+
+Categories: [Civil Service](../../indexes/by-category/Civil_Service.md)

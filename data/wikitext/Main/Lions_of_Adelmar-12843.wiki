@@ -1,0 +1,20 @@
+{{Army Page}}
+{{CaptionedImage|file=Lions of Adelmar.png|align=right|width=300}}
+===Overview===
+The Lions of Adelmar were raised by [[Raise Dawnish army Summer 385YE|Senate motion]] proposed by '''Bohemond de Rondell''', then Senator for Astolat, during the Summer Solstice 385YE. [[Love and War|Mustering]] completed shortly before the Spring Equinox 387YE, having been funded in large part by Emperor '''Vesna Borkovna Prochnost''' using [[The_Throne#The_Hand_of_the_Chancellor|the Hand of the Chancellor]]. The incumbent senator for Astolat, '''Éamon Ashenmourn de Cordraco''', named the army after the exemplar [[Adelmar the Lion]] and endorsed the army's focus on [[Dawn_hearth_magic#Love_and_Flowers|love]]. 
+
+The fourth Dawnish general leads the Lions of Adelmar army, and is appointed (or re-appointed) at the Winter Solstice each year.
+__NOTOC__
+
+===Recent History===
+TBC
+
+===Traditions===
+TBC
+==Composition==
+TBC
+==Army Quality : [[Army qualities#Guardian|Guardian]]==
+The Lions of Adelmar put great stock in protecting and supporting other armies, eschewing risk and reckless behaviour, and look to preserve the lives of companions and fellow soldiers.
+{{CaptionedImage|file=Dame Katelyn.jpg|caption='''Dame Katelyn Quinnell De Cordraco''', General of the Lions of Adelmar|align=left|width=320}}
+{{RecentElections|General_of_the_Lions_of_Adelmar|the title of [[General]] of the Lions of Adelmar}}
+[[Category:Imperial Army]][[Category:Dawn]][[Category:Military Council]]

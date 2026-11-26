@@ -1,0 +1,24 @@
+==Overview==
+The Wise Arborist is an [[Imperial title]] awarded to a citizen of the [[Imperial Orcs]]. Construction of the Feldspar Distillery was [[Construct Feldspar Distillery|announced]] by '''Bleakshield Groza''' as [[Legion Engineer]] during the Spring Equinox 386YE and construction was completed shortly before the Winter Solstice 386YE. More information on the [[opportunity]] can be found in the '''[[Standing_in_the_sun#Herbsheart|Standing in the sun]]''' wind of fortune.
+
+==Responsibilities==
+The Wise Arborist is responsible for aiding Imperial Orc herbalists and apothecaries and helping them prosper. If the distillery, or travellers using the distillery, were to be threatened in any way it would be the responsibility of the Arborist to deal with those threats. Likewise, if any particular [[opportunity]] were to arise related to the distillery, the Arborist would expect to be consulted as to how that opportunity might be resolved.
+
+==Powers==
+<div style="float:right; width: 350px; clear: right;"><box><big>'''Suitability'''</big><br>The Wise Arborist is intended to be held by a [[Yerende]]. If the title is held by a character who is not a Yerende, or they change their sept whilst they have the title, then the player must email admin@profounddecisions.co.uk to let us know.</box></div>
+===Precious Cuttings===
+The sinecure provides three drams each of [[bladeroot]], [[Cerulean Mazzarine|cerulean mazzarine]], [[marrowort]], [[Imperial Roseweald|Imperial roseweald]], [[True Vervain|true vervain]], and [[realmsroot]] each season, to be used as they see fit. 
+
+===Plentiful Orcsroot===
+The gardeners of the Yerende mastered the cultivation of [[realmsroot|orcsroot]] centuries ago. When an Imperial Orc upgrades their [[herb garden]] they can choose for it to produce a single dram of orcsroot each season, rather than two regular [[herb|herbs]].
+
+==Appointment==
+The Wise Arborist is appointed by unanimous decision of the [[Imperial Orcs|Imperial Orc]] [[senator|senators]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by any Imperial Orc citizen. The Arborist has [[tenure]], and serves until they die or step down. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Imperial Orc [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=FILE.png|caption=NAME, Wise Arborist|align=left|width=400}}-->
+{{UnconstitutionalTitle|sodality=Imperial Apothecaries Guild}}
+{{RecentElections|Wise_Arborist}}
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Imperial Orcs]]

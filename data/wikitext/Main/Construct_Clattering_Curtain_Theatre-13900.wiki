@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:388YE Summer]]
+__NOTOC__
+<quote by="Proposed: Cesare Sanguineo Rezia Di Tassato, Senator for Tassato, Seconded: Vasilmir Radovanovna Esskivic, Senator for Miekarova">That the Senate authorise the construction of "Martim de Tassato's Clattering Curtain Theatre" in Mestra. This is a money producing sinecure. This will create the Imperial title "Martim de Tassato's Clattering Curtain Theatre Champion". This position would have tenure. This will be appointed by unanimous vote of the League.
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in Tassato Mestra, Tassato
+* Passed
+
+==Date==
+* Summer 388YE
+
+==Cost==
+* Standard costs apply
+* 12 wains of white granite
+* 36 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Martim_de_Tassato%27s_Clattering_Curtain_Theatre}}
+==Outcome==
+* Once complete, the ''Martim de Tassato's Clattering Curtain Theatre Champion'' will be available to appoint by the League senators

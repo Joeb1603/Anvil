@@ -1,0 +1,36 @@
+{{CaptionedImage|file=FountainConstellation.JPG|title=The Fountain (Constellation)|align=left|width=175|height=240}}
+===The Law===
+Things Live.
+
+===The Constellation===
+The Fountain is a constellation of nine stars that rises from the horizon in early spring, reaches its zenith as spring turns to summer and vanishes below the horizon during the winter months.
+
+Following the Summer Solstice 386YE. Astronomancers across the Empire became aware of the names and titles of the individual stars that make up the Fountain, alongside [[the Web]] and [[the Chalice]]. It seems likely that a coven performed a divinatory ritual during the Solstice to commune with the constellation, and that one of the side effects was the wider revelation of these names. Where these names come from, and what they mean for a wider understanding of astronomancy, is unclear but a matter of some discussion.
+{{CaptionedImage|file=FountainIllustrationInk.JPG|title=The Fountain (Illus.)|align=right|width=200}}
+===Symbolism===
+Water is life, and the Fountain is the bringer of life, the herald of birth and fertility. In Highguard conception under the Fountain is deemed to be especially auspicious; in Urizen the constellation is often painted onto the ceiling of maternity chambers. It also stands as an emblem of beginnings; as the Wellspring it represents the place you originate, your source, your first cause and principle. In some parts of Varushka it is instead called the Tree of Ice; this imagery being especially popular among draughir. 
+
+===Invoking the Fountain in Magic===
+The Fountain is nature tamed; a source and wellspring of life and fertility. Rituals seeking growth, bounty or fertility all benefit from the auspices of the Fountain. A curious lesser-known efficacy of the Fountain in magic is to do with origins, sources and wellsprings; the places things come from, their history and identity. The ritual to create a national [[Nationality#Egregore|egregore]] uses some imagery of the Fountain. 
+===Tulpas of the Fountain===
+Tulpas of the Fountain appear much more benign than many; the Lady of the Waters is one well known to the Dawnish, a woman who comes from the lake to assist with childbirth then leaves, having said nothing and refusing any payment for her work. A curious tulpa of the Fountain is the Archivist, a pale, bloodless tall man who appears to the inhabitants of Highguard’s necropolis bearing secrets no mortal could possibly know. 
+<div style="width: 300px; float: right; clear: right; margin-left:10px;">
+{{CaptionedImage|file=Stars of the Fountain.jpg|align=left|width=300}}
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">#<td style="background-color: LightBlue;"> '''Name'''</tr>
+<tr><td>1  </td><td>'''Ahinus''', The Source</td></tr>
+<tr><td>2  </td><td>'''Virahi''', The Bloom of Life</td></tr>
+<tr><td>3  </td><td>'''Adovirahi''', Who Reaches to the Sun</td></tr>
+<tr><td>4  </td><td>'''Tashin''', of the Verdance</td></tr>
+<tr><td>5  </td><td>'''Imohin''', Which Feeds the Earth</td></tr>
+<tr><td>6  </td><td>'''Tasimohin''', Whose Hand Floods Forth</td></tr>
+<tr><td>7  </td><td>'''Nus''', The Moment Before</td></tr>
+<tr><td>8  </td><td>'''Quenus''', Fount of Origin</td></tr>
+<tr><td>9  </td><td>'''Niquenus''', That Goes Forth in Wonder</td></tr>
+</table></div>
+===Stars of the Fountain===
+Nine stars make up the Fountain. As of Summer 386YE, these names and titles are known to Imperial astronomancers. They might be evoked specifically during rituals that draw on the power of the constellation.
+===Alignment===
+The Fountain is a profoundly benign force and ritualists who touch it in ritual find themselves overwhelmed with life, growth and the natural flow of the world; it can be hard to maintain focus as one is distracted by the verdance of the grass, the dance of the mayflies and the joy of the people around you. The effect can be quite narcotic and not entirely dissimilar to the behaviour of those on recreational drugs. 
+
+{{Category:Constellation}}
+[[Category:Astronomancy]]

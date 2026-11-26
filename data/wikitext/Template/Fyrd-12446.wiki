@@ -1,0 +1,5 @@
+
+<box><big>'''Fyrds'''</big><br>
+Each region in a Jotun territory generates a fyrd when it is conquered by the Empire. As the Jarl and their warriors are forced to retreat from their lands, they form up into a fyrd, a warband with a military strength of five hundred. A fyrd is unable to act independently of fortifications or armies in the territory; it will only act to support a Jotun army in the territory or a fortification if there are no armies present.
+
+A region's fyrd can be dismantled by killing the jarl or through other opportunities.</box>

@@ -1,0 +1,348 @@
+[[Category:Winds of Fortune]][[Category:388YE Summer]][[Category:Recent History]]
+<div style="float:left; width: 400px; clear: left;">{{CaptionedImage|file=In the stands.png|align=left|width=400}}</div>
+==Overview==
+Downtime following the Spring Equinox is now open. It allows players to process their character's downtime choices. Not all resources allow a player to make a choice about how they operate between events, but we've provided information about new opportunities for [[congregation]], [[fleet]], and [[military unit]] owners in particular, as well as a reminder about existing opportunities created at earlier events. 
+
+On this page, we've outlined and offered some context for various effects and events. As always, these include quick summaries, mostly out of character, to explain effects such as large-scale [[enchantment|enchantments]] and [[curse|curses]]. 
+
+In some cases, there may be further developments around the events listed here in the Spring Equinox winds of fortune. They may also be handled with a ''Resolution'' entry on the appropriate Wind, or a note in the ''Other Events'' section of next events Winds of Fortune page. 
+
+'''The deadline for Downtime submissions is midnight on Friday the 26<sup>th</sup> of June'''
+==Choices==
+* '''During the Spring Equinox, there were a number of Senate motions, Conclave declarations, Synod judgements, Military Council orders, Sodality resolutions, and elections '''
+Each summit the [[Senate]] raises and votes on [[Senate motion|motions]], the [[Conclave]] debates [[declaration|declarations]], the assemblies of the [[Synod]] discuss [[judgement|judgements]], the [[general|generals]] of the [[Military Council]] issue [[Army orders|orders]] to their [[Army|armies]], [[Imperial sodality|Imperial sodalities]] decide on resolutions, and citizens are elected to Imperial titles. You can find details of these many decisions here:
+* [[388YE Spring Equinox Senate sessions|Senate sessions]]
+* [[388YE Spring Equinox Synod judgements|Synod judgements]]
+* [[388YE Spring Equinox Conclave sessions|Conclave sessions]]
+* [[388YE Spring Equinox Military Council orders|Military Council orders]]
+* [[388YE Spring Equinox Sodality resolutions|Sodality resolutions]]
+* [[388YE Spring Equinox Imperial elections|Imperial elections]]
+The Civil Service is responsible for ensuring that these motions, judgements, declarations, orders, resolutions, and elections are public knowledge. Not everything is widely distributed across the Empire, but any character who attends [[Anvil]] can easily find out details of what went on in the houses of power during the event.
+
+==Imperial Guerdon==
+The [[Powers_of_the_Imperial_Senate#Guerdon|Imperial Guerdon]] is a bursary set up by the Imperial Senate primarily to reward military units that support Imperial armies, spy networks, and fortifications. The value of the Imperial Guerdon is divided between each military unit and fleet that supports an army in proportion to their effective strength. The [[Quartermaster General of the Imperial Armies]] has the power to exclude any or all Imperial armies and navies, fortifications, or special projects (such as spy networks) from the Guerdon. If they do so, then a character who supports such an army, fortification, or special project will receive nothing for doing so. 
+
+The Guerdon was announced at '''350 Thrones'''.
+
+This season, the [[Quartermaster General of the Imperial Armies]] has [[388YE_Spring_Equinox_Senate_sessions#Assign_the_Guerdon|announced]] that shares of the Guerdon will be shared between military units supporting the following armies and action:
+
+* [[Argent Sword]] in [[Mareave]]
+* [[Drakes]] in [[Mitwold]]
+* [[Red Wind Corsairs]] in [[Madruga]]
+* [[Summer Storm]] in [[Mareave]]
+
+* [[#Spy on the Thule|Spy on the Thule]] in the Forest of Ulnak
+
+No other armies, or actions by military units or fleets, will receive shares of the Guerdon.
+<gallery mode=nolines>
+File:ArgentSword Colour.png|[[388YE_Spring_Equinox_Military_Council_orders#Argent Sword|Argent Sword]]
+File:Drakes Colour.png|[[388YE_Spring_Equinox_Military_Council_orders#Drakes|Drakes]]
+File:RedWindCorsairs Colour.png|[[388YE_Spring_Equinox_Military_Council_orders#Red Wind Corsairs|Red Wind Corsairs]]
+File:SummerStorm Colour.png|[[388YE_Spring_Equinox_Military_Council_orders#Summer Storm|Summer Storm]]
+</gallery>
+
+==Military Units==
+* '''Players who control military units can choose from a number of downtime options'''
+* '''Not every military unit is eligible to participate in every venture'''
+* '''Left to their own devices, a military unit defaults to the ''mercenary work'' option'''
+Any player whose character controls a [[military unit]] can choose from several downtime options by logging into the downtime system. They may choose to [[Military_unit#Campaigning|support an army]], [[Military_unit#Guarding|defend a fortification]], or [[Military_unit#Scouting|support a spy network]]. They can also choose one of the many [[Venture|ventures]]. Left to their own devices, a military unit defaults to [[Venture#Mercenary_Work|mercenary work]], guaranteeing an income of money along with a random chance of herbs, more money, mana crystals, ingots or measures.
+
+Players who want to support one of the [[Army|Imperial armies]] can also read the [[Army_orders|orders]] issued by each [[general]] before making their decision. These orders are a matter of public record within the Empire and also available on the '''[[388YE Spring Equinox Military Council orders]]''' page. This new page makes it easier for players to read all the orders before making a decision; previously the only way to do this was to painstakingly click every army in turn. It's also possible for players without military units to see the orders, without waiting for the Winds of War (assuming the orders related to an area that produced a full write-up).
+
+As per the [[Online#You_May_Not_Post_Military_Updates|the guidelines around discussing military matters]], you must not post statements encouraging people where to send their military units and fleets in downtime. 
+
+===Support Earthquake Drummers===
+<div {{float}}><quote by="Saemundr Elvirsbairn, General of the Earthquake Drummers">Drummers, we march to certain victory against the cowardly Druj! Our conquest of the Forest of Ulnak is inevitable. March with me and together we will bring the rule of the five-who-are-one to the whole world. To those Imperial mercenaries who have wisely chosen to take the Dragon's crystals - we welcome you. Together we will raise the banner of the Thule over the Mallum.</quote></div>
+* '''Imperial military units can support the Earthquake Drummers'''
+* '''The Thule army is part of a larger effort to invade the Forest of Ulnak'''
+* '''A standard military unit that takes this action will receive 7 mana crystals'''
+[[Thule_lore#Dragons|Tathenon the Gyre]] is pleased by the number of Imperial captains who supported the ''[[Earthquake Drummers]]'' army in the attack against [[the Mallum]]. A continued invitation has been made, with [[Voice_irresistable#Grim_Faces|the same details as last season]]; any military unit is welcome to support the Earthquake Drummers and a standard military unit will be rewarded with 7 [[Game_items#Mana_Crystals|mana crystals]], with an [[Military unit#Upgrades|upgraded]] or [[enchantment|enchanted]] military unit receiving proportionally more.
+
+===Map the City Below===
+* '''Military units from League, Dawn, and Urizen can take a scouting action to attempt to map the city below'''
+* '''If a total of three thousand strength is put to the action then it will succeed'''
+* '''Any military unit that takes this action will receive one piece of crystal fire and a completely mundane rainbow feather'''
+* '''Military units assigned to Rescue the Merchant Prince will reduce the effective strength of this venture'''
+
+The eternal, Sung, is [[Our_elaborate_plans#The_End_of_Laughter|seeking help to map the passageways and sewers beneath the city of Apulian]]. If the total effective military strength of all the military units assigned to '''Map the City Below''' is 3000 or more, then the operation will be a success. However, the attempt to Rescue the Merchant Prince will undermine efforts - every military unit working to rescue Prince duSesna subtracts their military strength from those attempting to Map the City Below. [[Sung]] is utterly incapable of articulating what that will mean or entail and traditional attempts at divination with day or night magic have proven essentially useless. The rewards are a single brightly coloured rainbow feather with no magical powers taken from Sung's wings and a single piece of [[crystal fire]].
+
+===Rescue the Merchant Prince===
+* '''Any military unit can take a scouting action to attempt to help the duSesna Guild search for the missing Merchant Prince'''
+* '''If a total of three thousand strength is put to the action then it will find the Prince whether he is alive or dead'''
+* '''Military units assigned to Rescue the Merchant Prince will reduce the effective strength of the attempt to Map the City Below'''
+* '''There are no rewards for taking this option'''
+
+The duSesna Guild are [[Our_elaborate_plans#Desperately_in_Need|seeking to find their merchant prince]], ''Teodore duSesna'' who they believe has been disappeared for opposing the machinations of Sung. If the total effective military strength of all the military units assigned to '''Rescue the Merchant Prince''' is 3000 or more, then the merchant prince will be found, either alive or dead, as the case may be. However, the attempt to Rescue the Merchant Prince will undermine efforts - every military unit working to rescue Prince duSesna subtracts their military strength from those attempting to Map the City Below. There are no rewards publicly available for anyone taking this option.
+
+===Scout the Tsirku Scouting Network===
+* '''Tsirku is so large and inhospitable that only a single region can be explored each season'''
+* '''The venture requires at least fifteen hundred strength to gain any useful information'''
+* '''Military units assigned to Conceal the Northern Lights will reduce the effective strength of this venture'''
+* '''Military units from nations other than Wintermark and Varushka suffer a one-rank penalty due to the cold'''
+* '''There are no rewards for taking this option'''
+The vast territory of Tsirku, is so inhospitable that it [[Snap_rope_and_pass_foil#Scouts|represents a huge challenge to scouts]]. Rather than exploring the entire territory in one go, each season the scouting network will explore a single region. If the scouts are successful, the Imperial Spymaster will be able to choose where to explore next. Only once the entire territory has been scouted will a map suitable for scrying be created. There are no rewards publicly available for anyone taking this option.
+
+<table>
+<tr><th>Strength</th><th>Tsirku Scouting Network Outcome</th></tr>
+<tr><td>1500</td><td>An overview of the region including the names of significant features such as lakes, frozen seas, or mountain ranges.</td></tr>
+<tr><td>3000</td><td>Details of any significant Jotun or Thule presence in the region, along with any connections to Otkodov, Tromsa, or Skallahn, as well as information about locations with a tie to Agramant or other hostile eternals.</td></tr>
+<tr><td>5000</td><td>A thorough overview of the region, showing the locations of any significant outside presences, several points of interest located in the region, and the names and a short overview of the terrain of adjoining regions.</td></tr>
+</table>
+
+The Empire has been warned by [[Sung]] and [[Sadogua]] that ''[[Whisper Gallery|Concilium of the Perjured Throne]]'' will try to hire military units to thwart efforts to scout the wastes. Every military unit that takes the venture to '''Conceal the Northern Lights''' will count its military strength ''against'' the total strength of those trying to explore Tsirku.
+
+===Conceal the Northern Lights===
+* '''The Whisper Gallery is eager to prevent the secrets of Tsirku from being spoiled'''
+* '''Characters that have had contact with the eternal can take this action to reduce the effective strength of efforts to Scout Tsirku'''
+* '''Military units from nations other than Wintermark and Varushka suffer a one-rank penalty due to the cold'''
+* '''Heralds of the eternal will provide crystal fire and luxury goods to anyone who helps to thwart the efforts to scout the territory'''
+The [[Whisper Gallery]] is determined to prevent Imperial scouts from [[Snap_rope_and_pass_foil#Tsirku_is_Secret|destroying the secrets of Tsirku by exposing them to the sterile light of day]]. The ''Court of the Shadowed Oracle'' [[Monarchs_and_outcasts#Tyrannical_Discipline_(Whisper_Gallery)|have made an offer]] to those Steinr poets, offering [[crystal fire]] and luxury goods to anyone who will help them try to thwart the efforts of the scouts by creating false trails, spoiling supplies and otherwise sabotaging the efforts to discover more. Every military unit working to '''Conceal the Northern Lights''' subtracts their military strength from those attempting to scout Tsirku. 
+
+Only characters with a military unit who have had contact with the Whisper Gallery can take this action. A starting military unit will receive two pieces of crystal fire and luxury goods worth 72 rings for their help; an upgraded military unit will gain proportionately more.
+
+===Adventure in Tsirku===
+* '''Tsirku is exciting and has tempted adventurers from Wintermark and Dawn'''
+* '''Dawnish and Wintermark military units can take the Adventure in Tsirku action to quest into the wasteland and recover treasures'''
+* '''Military units from Dawn suffer a one-rank penalty due to the cold'''
+In addition to [[#Scout the Tsirku Scouting Network|scouting Tsirku]], some military units can [[Snap_rope_and_pass_foil#Tsirku_is_Enticing|quest into the wasteland]] in search of treasures and wonders. A heroic trek into Tsirku focused around exploring not the terrain but the hidden nooks where danger lies... that might be something that appeals to the folk of Wintermark as much as any mapping expedition. For a start, it's known that there are terrible creatures in the wastelands. Some are [[Inhabitants of the realms#Guardians|supernatural beasts]] of Blood-on-the-Snow, that raven down from the wild places into Sermersuaq. Others are dangerous spirits of the wild places, or creatures adapted to live in the terrible frozen wastes.
+
+A standard military unit that takes this action will receive two "treasures of the wasteland" (consumables representing unique resources found in Tsirku, most likely harvested from beasts of Agramant or dangerous locations) and 36 rings representing valuable or novel things recovered from the wasteland that can be sold to the curious. A military unit that has an effective rank of at least 11 (counting [[enchantment]] and [[military unit#Upgrades|upgrades]]) will also receive a ''wonder of the wasteland'', a much rarer consumable.
+
+===Spy on the Thule===
+* '''The Karass have offered to help the Empire survey Thule attempts to claim a Black Lotus plant in the Forest of Ulnak'''
+* '''Military units can take the Survey Thule attempts to claim a Black Lotus plant action until the spy network in Forest of Ulnak is destroyed'''
+* '''Military units taking this action will receive shares of the guerdon'''
+Last season, the Karass [[Fear_quickens_the_breath#Into_the_Forest|put forward an offer]] to help the Empire spy on any attempts by the Thule to claim a black lotus plant. The Imperial Spymaster, '''Rahmah i Darwisj i Erigo''', made an announcement [[388YE_Spring_Equinox_Senate_sessions#Authorise_Supporting_Karass|supporting]] the action during the Spring Equinox. Military units assigned to the action would collaborate with Karass scouts, who would help cover their tracks while they spied on the Thule. If two thousand points of total strength are assigned to the action, then the Empire will become aware if the Thule managed to claim a Black Lotus plant. If four thousand strength is assigned to the action, then the Empire will have a chance to employ the [[Sentinel Gate]] to prevent that from happening.
+
+There is no possibility that the Thule will discover the presence of scouts in the Forest of Ulnak. The Thule could only get an inkling of what was going on if the Karass betrayed them, if they were informed by the [[Ambassador to Otkodov]], or if the Empire badly botched a military raid of some kind.
+
+===Swords Against Darkness===
+* '''Urizen, League, and Dawnish military units can take a questing action to attack the threats in Spiral'''
+* '''If at least two thousand strength is assigned to the action for three seasons over the next year, then the venture will remain'''
+* '''A standard military unit that takes this action will receive three mana crystals and two doses of liao'''
+After a lot of work persuading some of the wealthier Apulian merchants and key [[arbiter|arbiters]], Naomi has been able to persuade them to back an attempt to [[My_friends_are_my_estate#Swords_Against_Darkness|solve the problem]]. The solution is simple enough, and for once, Naomi's idea requires relatively little upfront investment. If the Empire can muster enough military units to directly attack the threats in Spiral, then the inhabitants of the territory would be able to get on top of the problem. If that could be achieved, it would only need a little support on an ongoing basis to keep the threats under control. Naomi likens it to weeding an overgrown garden - it requires a lot more effort to get the weeds under control than it does to keep it that way.
+
+With the backing of wealthy patrons, the venture would provide 3 mana crystals and two liao to any standard military unit taking part. A military unit with at least 200 effective strength (from upgrades or rituals) would receive a [[Circlet of Falling Snow]] as part of their rewards. The potential returns aren't great - but of course the Senate could always apply the Guerdon to the expedition.
+
+The venture lasts for a year - but if at least 2000 strength of military units undertakes the venture on three seasons out of the four, then the venture will remain available for the foreseeable future. If that happens, then the taxation of the territory would permanently increase by 6 thrones a season, and the current penalty to military units from the {{Black Plateau}} would be permanently removed.
+
+The efforts of Urizen, League, and Dawnish military units were effective last season; at least two more seasons of attacking the threats in Spiral will see the horrors of the {{Black Plateau}} beaten back.
+
+==Fleets==
+* '''Players who control fleets can choose from several downtime options'''
+* '''Not every fleet is eligible to participate in every voyage'''
+* '''Left to their own devices, a fleet defaults to the ''maritime escort'' option'''
+Any player whose character controls a [[fleet]] can choose from several downtime options by logging into the downtime system. They may choose to [[Fleet#Trading|trade]] with a [[Foreign_ports|foreign port]], engage in [[Fleet#Raiding|raiding]] barbarians, [[Fleet#Questing|quest]] in search of glory or renown, [[Fleet#Scouting|scout]] either to support a [[smugglers cove]] or as part of another stealthy option, or commit to [[Fleet#Guarding|guarding]] a convoy of other ships.
+
+Left to their own devices, a fleet defaults to [[Voyage#Maritime_Escort|maritime escort]], guaranteeing an income of money along with a random chance of herbs, more money, mana crystals, ingots or measures.
+
+===Raid Leen - Rescue Slaves===
+* '''Freeborn fleets can join a raid against the Druj city of Leen'''
+* '''This action received the support of the Imperial Spymaster'''
+* '''A standard fleet taking this raiding voyage will receive six random herbs and four random resources'''
+
+[[The Brass Coast|Freeborn]] [[fleet]] captains are able to travel to [[Salt_Flats_of_Sanath#Leen_Rarckan|Leen Rarckan]] in the [[Salt Flats of Sanath]] to [[Push_for_victory#See_That_We_Fight|take part in a raid on Leen to free slaves]]. The total effective strength assigned to the opportunity will determine the outcome. If the effective military strength is less than a thousand, then the raid will be botched, few if any slaves will be freed, and the raiders will be lucky to get away with their lives.
+
+<table>
+<tr><th>Strength</th><th>Raid Leen Outcome</th></tr>
+<tr><td>1000</td><td>The raid is able to rescue a handful of slaves, but the raiders are able to escape unharmed</td></tr>
+<tr><td>5000</td><td>The raid is a success and the corsairs and their allies will free hundreds of slaves, mostly former Imperials, from the clutches of the Druj.</td></tr>
+<tr><td>7500</td><td>The raid is a triumph; hundreds will be freed including scores of individuals who have never been part of the Empire.</td></tr>
+</table>
+
+A standard fleet taking this raiding voyage will receive six random herbs and four random resources. A fleet that is enchanted or upgraded receives more, and may also acquire some Druj Potions as part of their loot, usually representing a captured potion or two useful to warriors. Whatever happens, the raid won't impact the Druj's ability to fight the Empire.
+
+===Support the Wings of Kobol===
+* '''Freeborn fleets can support the ''Wings of Kobol'', a Suranni navy in attacking Free Landing'''
+* '''A standard fleet taking this action will receive 72 rings and six random resources'''
+* '''If at least 4000 strength supports the navy, Freeborn mariners will be able to recover relics of the founding'''
+After the Spring Equinox, any Freeborn [[fleet]] can support the Wings of Kobol navy. The Suranni offer no additional incentive to take part beyond the [[Gossamer_threads#Spears_of_Retribution|chance for retribution]], and the chance to recover some of the wealth lost to the Grendel and the Children of Wrecks. If at least 4000 military strength supports the Wings of Kobol, then whether the Suranni are victorious or not, the mariners of the Brass Coast will be able to reach the ruins of Atalaya, where the Brass Coast began. This town was at one point a treasure trove of historical relics that reminded the Freeborn of where they came from and why their nation exists. The Suranni will not stop the Freeborn taking back as many of these items as they can find - not after the Spring Equinox at least.
+
+A standard fleet that takes this action will receive 72 rings worth of valuable items and six random resources in [[fleet#Loot|loot]]. This might mean additional money, or even mana crystals, and represents goods recovered from the Children of Wrecks and the ruins of Free Landing.
+
+===Support the Wreckers===
+* '''Wind Lord Moraith has made arrangements for some Imperial fleets to help the Children of Wrecks fight the Wings of Kobol'''
+* '''If enough fleets help the Wreckers, then the Iron Confederacy could be beaten back'''
+* '''There are no rewards for taking this option'''
+
+A Grendel Wind Lord who hates the Iron Confederacy, has made arrangements for some Imperial fleets to help the Children of Wrecks try to fight off the Wings of Kobol. This action is highly illegal, but the total chaos of a battle between Iron Confederacy forces and the Wreckers will make it impossible for the Iron Confederacy to know that the Empire played a role in the battle or indeed who. The only information the Empire will receive is which nations were represented among those forces fighting. 
+
+Only characters with a fleet that have had contact with the Wind Lord can take this action. There are no rewards publicly available for anyone taking this option.
+
+===Trade Summary===
+* '''Imperial fleets can trade with ports in Axos, the Commonwealth, Faraden, the Iron Confederacy, the Sarcophan Delves, the Sumaah Republic, and Zemelslo'''
+* '''Production depends on the port chosen, and can be increased by upgrades and enchantments'''
+Imperial fleets can [[Fleet#Trading|trade]] with a number of foreign nations who have chosen to open some of their ports to visitors from the Empire. The assumption is that a ship trading with a foreign nation makes enough from selling their cargo to cover their running costs, crew salaries and the like, but that there is enough profit to provide the character who owns the fleet with valuable goods of interest to the folk who attend [[Anvil]]. What goods are received for visiting a port is changeable, and heavily influenced by Imperial diplomacy.
+* '''Axos:''' The ports of the '''[[Foreign_ports#Towers_of_Kantor|Towers of Kantor]]''' and '''[[Foreign_ports#Axos|Chambers of Issyk]]''' welcome Imperial fleets. Navarr fleets receive a frosty reception due to the association with the ''Scions of Cavan'' and suffer a two-rank penalty; more information can be found in the '''[[Wise_and_measured#Treason_and_the_Vallorn|Wise and measured]]''' wind of fortune
+* '''Commonwealth:''' The ports of '''[[Foreign_ports#Leerdam|Leerdam]]''' and '''[[Foreign_ports#Volkavaar|Volkavaar]]''', as well as the new port of '''[[Foreign_ports#Murolosch|Murolosch]]''' welcome Imperial traders. Imperial fleets suffer a one-rank penalty with both ports whilst the Empire continues to trade with Zemelslo whilst embargoing Jarm. More information can be found in the '''[[Weaving_tangled_nets#Future_Good?|Weaving tangled nets]]''' wind of fortune
+* '''Faraden:''' The port of '''[[Foreign_ports#Caitun|Caitun]]''' welcomes Imperial fleets. Fleets from the Marches and Wintermark benefit from a one-rank bonus due to close proximity. 
+* '''Iron Confederacy:''' The port of '''[[Foreign_ports#Robec|Robec]]''' is available for Imperial fleets.
+* '''Sarcophan Delves:''' The usual ports of '''[[Foreign_ports#Sarcophan|Sarcophan]]''' and '''[[Foreign_ports#Betovering|Betovering]]''' welcome Imperial traders.
+* '''Sumaah Republic:''' The port of '''[[Foreign_ports#Zemeh|Zemeh]]''' welcomes Imperial traders.
+* '''Zemelslo:''' The port of '''[[My_passions_from_a_common_spring#Free_Ports_And_Free_People|Radosmo]]''' welcomes Imperial traders following the Imperial Senate's decision to [[387YE_Autumn_Equinox_Senate_sessions#Confirm_Trade_with_Zemelslo|permit trade]] with the nation very close to the [[Principalities of Jarm]]
+
+==Congregations==
+<div style="float:right; width: 150px; clear: right;">{{CaptionedImage|file=Assembly General.png|align=right}}</div>
+* '''In addition to the standard preaching options taken by owners of congregations, special ''lectures'' may be available'''
+During downtime, the owner of a [[congregation]] can choose to take a [[Congregation#Downtime_Options|preaching]] action. Normally, these actions are used to preach one of the Imperial virtues, or the general teachings of [[the Way]], allowing a Synod member to change which of the virtue assemblies they belong to. 
+
+After the Spring Equinox, there are three lectures available.
+
+===Preach Pride - Support Marcher Orcs===
+<div style="float:right; width: 150px; clear: right;">{{CaptionedImage|file=Assembly_Marcher.png|align=right}}</div>
+* '''Any Marcher with a congregation can choose to preach Pride in support of the Marcher orcs'''
+* '''A standard congregation that takes the ''Preach Pride - Support Marcher Orcs'' action will receive the no liao, seven crowns, and 10 votes in the Synod'''
+* '''A congregation that takes this action will be in the Pride Assembly at the next summit'''
+* '''This lecture is only available following the Spring Equinox 388YE'''
+At the Winter Solstice, the Marcher Assembly voted to uphold a [[387YE_Winter_Solstice_Synod_judgements#Judgement_13|judgement]] raised by '''Brother Luke''' with a greater majority. The statement of principle called on the Marches to defend the [[Mournwold Orcs|Marcher orcs]] if it came to it. This has been met with acceptance across the Marches, though some are still uncertain, and those who agree with the assembly have been looking at ways they can help support the message.
+
+Priests who take this action are assumed to be making use of the [[liao]] they receive to [[388YE_Spring_Equinox_winds_of_fortune#Pride_in_the_Mournwold|inspire congregants to travel across the Marches]] and support the [[Marcher orc|Marcher orcs]]. It's small, but "''Pride in small things''" as the famous saying starts. Rather than receiving any [[liao]], the congregation will receive money from orcs grateful for their work.
+
+===Foretell the Coming of the Second Age of Virtue===
+<div style="float:right; width: 150px; clear: right;">{{CaptionedImage|file=Labyrinth.jpg|align=right}}</div>
+* '''Anyone with a congregation can choose to preach the Way by encouraging pilgrims to support the Grand Inspiration of the Way'''
+* '''A congregation that takes the ''Foretell the Coming of the Second Age of Virtue'' action will receive the normal amount of liao and Synod votes'''
+* '''Congregations taking this action will contribute at least seven rings to the labour costs of the Grand Inspiration of the Way'''
+* '''A congregation that takes this action will be in the Way Assembly at the next summit'''
+* '''This lecture is available until the start of the Spring Equinox 389YE'''
+Following on from the [[Lay the foundations|highest calling]] of the Highborn Assembly, the congregations of the Empire can preach the good news of the Second Age of Virtue. The more congregations that took part each season, the greater the benefits would be. The individual effects would be tiny, but a thousand raindrops can quickly turn into a flood. Virtuous citizens would make a pilgrimage to [[Bastion]], to volunteer to help with the work of completing the Grand Inspiration, working to raise the monument to the heavens - doing their part to support the Grand Inspiration and ushering in a new era. They may not be builders, but they believe in the dream to be given form. Children, the elderly, all united by faith to add even a single brick and know they were part of this momentous occasion in the history of mortal ascension.
+
+===Encourage Pilgrimage to Hacynian===
+<div style="float:right; width: 150px; clear: right;">{{CaptionedImage|file=Assembly_Wisdom.png|align=right}}</div>
+* '''Anyone with a congregation can choose to preach Wisdom by encouraging pilgrims to visit the Great Library'''
+* '''A congregation that takes the ''Preach Wisdom - Encourage Pilgrimage to Hacynian'' action will receive three fewer liao but four more Synod votes than usual'''
+* '''A congregation that takes this action will be in the Wisdom Assembly at the next summit'''
+* '''This lecture is available until the start of the Summer Solstice 388YE'''
+Priests who take this option are assumed to be making use of the [[liao]] they receive to inspire congregants to make the difficult journey to the [[Great Library of Hacynian|Great Library]]. [[Sing_a_song#Find_the_Right_Question|After those who are brave enough to make the journey]] experience the awe-inspiring power of the true aura in the shrine, they will return home inspired to embrace Wisdom and pursue it in the certain belief that inaction is the only true mistake.
+
+A congregation that preaches this special action will receive three fewer [[liao]] each season (assumed to have been spent on creating auras or used to provide patronage), but four additional votes in the Synod (representing the swelling of their congregations). The priest leading the congregation will become part of the Wisdom Assembly if they were not already.
+
+==Arcane Projections==
+* '''Arcane projections must be submitted before the close of downtime'''
+* '''It is not possible to submit arcane projections that create personal curses'''
+The deadline for submitting an [[arcane projection]] is now the close of downtime. This is a significantly shorter window than previously. We've made this change to improve our ability to process arcane projections - an earlier deadline means that the game team have more time to consider each arcane projection, which will allow us to be more detailed and consistent in our responses.
+
+As detailed in the '''[[The_moth_for_the_star#A_Drowning_Sailor|The moth for the star]]''' wind of fortune, it is not currently possible to create an arcane projection that involves a [[curse]] directed at a character. 
+
+===Colleges and Forges===
+* '''We've changed the email address for college of magic and runeforge submissions'''
+It is important for characters responsible for a [[college of magic]] or [[runeforge]] to remember that the deadline for submitting rituals for codification, or instructions to the runeforge, is also the point that downtime closes. You ''must'' use let us know how you plan to use your college or forge by this point, otherwise it will not be possible to submit anything and the season will be lost.
+
+We've also made a small change there; the e-mail address to which such instructions should be sent is now {{plot}} rather than rules. The rules decisions about an arcane projection that is being codified, or a new item, have already been made, and it is the plot team who deal with the creation of ritual texts, unique items, or schema.
+
+===Artefacts===
+* '''If you are creating an artefact you will need to email plot@profounddecisions.co.uk with the requested name and roleplaying effect'''
+Artisans can use [[ilium]] to make a permanent artefact version of any magic item they can create. These powerful items retain their properties indefinitely, are readily identifiable as unique named items, and can exert powerful [[roleplaying effects]] over anyone bonded to them.
+
+Anyone wanting to create an artefact should email {{plot}} before downtime closes with their CID and what magic item they want to be an artefact. They should also include what name they want the artefact to have and the desired roleplaying effect. With roleplaying effects, it is best to avoid anything with religious themes; that is the purview of the [[hallow]] ceremony. It is best to avoid naming specific concepts: a roleplaying effect of "''You feel an urge to protect Urizen lore''" would be returned as "''You feel an urge to preserve the magical secrets of your people''". It can be interpreted as the same for someone in [[Urizen]], but it would encourage someone in [[Wintermark]] to protect [[Runesmith's Law]], or a magician-prince of [[Jarm]] to protect their own collection of ritual texts.
+
+As with [[hallow#Effects|hallow]], comedic names or names which are ''obviously'' taken from existing works of fiction are not appropriate for item names in Empire and will be rejected when identified.
+
+==Miscellaneous Effects==
+* '''After every event there will be a range of special effects that have an impact on downtime'''
+* '''Each effect is automatically applied to the appropriate personal resources; this provides details of what has caused each effect'''
+Every season sees large-scale effects impact individuals and nations. Some arise as the result of [[Judgement|Synod judgements]], [[Senate motion|Senate motions]] or [[Declaration|Conclave declarations]]. Others are the results of winds of fortune or war, or magical effects such as [[enchantment|enchantments]] or [[curse|curses]]. Each such effect is mentioned in your downtime if it affects your personal resource, along with a brief summary of what is going on. This list provides more detail, and is also useful for knowing what is going on in the wider Empire.
+
+Due to the ongoing [[Things go awry|issue]] with the constellations, territory-scale magic performed at the Spring Equinox is much more likely to have [[Things_go_awry#The_Stars_are_Wrong|additional, unlooked-for]] effects.
+
+===Rivers Run Clear (Mareave)===
+* '''Rivers of Life has been cast on Mareave'''
+* '''As well as reducing casualties to armies in the territory, the magic infuses all water there with life-giving Spring power'''
+The Imperial territory of [[Mareave]] has had [[Rivers of Life]] woven over it. This potent magic preserves life, healing all save the most grievous wounds overnight and infusing water across the territory with restorative powers. As well as the typical effect of reducing losses to any [[Army|armies]] fighting in the territory, the magic has other, more narrative effects. Wounds heal, animals and plants are healthy and fertile, and people find it easier to start or expand their families.
+
+===Fens, Forests, and Frost===
+* '''Dripping Echoes of the Fen has been cast on two regions'''
+* '''Forge the Wooden Fastness has been cast on two regions'''
+* '''Frozen Citadel of Cathan Canae has been cast on three regions'''
+{| class="wikitable sortable" style="width:800px;"}
+|-
+! Ritual !! Region !! Coven
+|-
+| [[Dripping Echoes of the Fen]] || Kallavesa Marsh, [[Kallavesa]] || Sussivari Frost Coven
+|-
+| [[Dripping Echoes of the Fen]] || Kallavesa Marsh, [[Kallavesa]] || Sussivari Frost Coven
+|-
+| [[Dripping Echoes of the Fen]] || Rundhal Marsh, [[Kallavesa]] || Sussivari Frost Coven
+|-
+| [[Forge the Wooden Fastness]] || Nesustak Forest, [[Sarangrave]] || 	Coven of the Horned Hare
+|-
+| [[Forge the Wooden Fastness]] || Wittal Grove, [[Kallavesa]] || Coven of the Horned Hare
+|-
+| [[Frozen Citadel of Cathan Canae]] || Nadir, [[Mareave]] || 	Phoenix Rising
+|-
+| [[Frozen Citadel of Cathan Canae]] || Clisearn, [[Mareave]] || 	Ashen Flame
+|-
+| [[Frozen Citadel of Cathan Canae]] || Icarion, [[Mareave]] || 	Ashen Flame
+|-
+|}
+<div style="float:right; width: 150px; clear: right;">{{CaptionedImage|file=Ephisis001.webp|align=tight|title=The City of Gold and Lead is filled with merchants and traders.}}</div>
+
+===Myriad Market (Spiral)===
+* '''A door to the ''Myriad Market'' has been opened in Apulian until the start of the Winter Solstice 388YE'''
+* '''Businesses in Spiral can diversify for free and can diversify to receive a pouch of warm ashes whilst the market is active'''
+During the Winter Solstice, ''Goldentongue'', herald of the [[Callidus|Sovereign-Lord of the City of Chains]], hosted an [[The_thing_with_feathers#Hope_is_a_Subtle_Glutton_(Callidus)|auction]] in the Hall of Worlds. One of the lots available was the "''key to the Myriad Market''"; a boon from [[Ephisis]] that has been used to open a door in [[Spiral#Apulian|Apulian]] to a chamber of the City of Gold and Lead. [[Business]] owners in the territory are able to make use of the market and can [[Business#Diversification|diversify]] for free ''and'' can diversify to receive a single pouch of [[warm ashes]] each season. This diversification into warm ashes can only be taken once ever.
+
+===Hammers of Fury (Hercynia and Tassato)===
+<div style="float:right; width: 150px; clear: right;">{{CaptionedImage|file=Estavus001a.png|align=tight|title=The City of Fire and Stone throngs with smiths and smelters}}</div>
+* '''Hercynia and Tassato have been enchanted with the ''Hammers of Fury'''''
+* '''This speeds the mustering of a new Imperial army'''
+* '''It also reduces the ingots produced by each mine in the territory by 2, but grants a pouch of warm ashes in their place'''
+Over the coming months, the power of the [[Realm#Autumn|Autumn realm]] is focused on the [[The League|League]] [[territory]] of [[Tassato]] and the [[Navarr]] territory of [[Hercynia]]. The ''Lyktan'' coven has invoked the ''[[Hammers of Fury]]'' to speed the mustering of a new [[army]] in both territories. This magical service provided by the [[Estavus|City of Fire and Stone]] [[enchantment|enchants]] the forges, foundries, and smithies throughout the territory, infusing them with the heat of Shikal's forges to help them forge arms and armour with supernatural speed. It also sends traders from the Fire Mountain to acquire more resources, meaning that [[mine|mines]] throughout the territory will see their production of metals reduced by two ingots, but in their place the mine owners each gain one pawn of [[Vis#Warm Ashes|warm ashes]] - Autumn [[vis]].
+
+===Hammers of Industry (Madruga)===
+* '''Madruga has been enchanted with a magnitude 80 arcane projection of the Autumn realm'''
+* '''The Municipal Docks in Calvos Sound will be completed by the start of the Autumn Equinox 388YE'''
+During the Spring Equinox, an [[arcane projection]] was performed targeting the [[The Brass Coast|Freeborn]] territory of [[Madruga]]. The ritual has seen logistics in the territory enhanced; granting confidence in craftsmanship, easing travel, clarifying communication, and reducing waste.
+
+As a result, [[Construct Municipal Docks|construction on the Municipal Docks]] in Calvos Sound has advanced, and the great work is expected to be completed by the start of the Autumn Equinox 388YE.
+
+===Connect the Land's Heart (Sarangave)===
+* '''Sarangrave has been enchanted with a magnitude 80 arcane projection of the Autumn realm'''
+During the Spring Equinox, an [[arcane projection]] was performed targeting the [[Urizen]] territory of [[Sarangrave]]. The ritual focused on the [[Autumn magic|resonances]] of [[Autumn_magic#Bands|bands]] and [[Autumn_magic#Binding|binding]], and the effects are unknown.
+
+===Escape the Threat (Sarangrave (again))===
+* '''Sarangrave has been cursed with Autumn magic'''
+During the Spring Equinox, the [[Urizen]] territory of [[Sarangrave]] was cursed with Autumn magic. People within Sarangrave gain an intuitive sense of the presence of danger, allowing them to avoid nearby enemies and hazards. Those affected by this power find themselves drawn by chance to safe locations and instinctively know the locations of the closest paths to take in order to avoid capture or death.
+
+===Behold the Upward Spiral (Spiral (again))===
+* '''Spiral has been enchanted with a magnitude 60 arcane projection of the Night realm'''
+During the Spring Equinox, an [[arcane projection]] was performed targeting the [[The League|League]] territory of [[Spiral]]. The night sky over Spiral remains clear and the stars exceptionally bright. Those living there have nightly dreams of the various works done to restore and improve the territory, which end with a final image of [[Custodian_of_the_Omphalos#The_Dreaming_Spire|the Dreaming Spire]] on the slopes of Mount Cinnius. Those who experience these dreams most keenly are often left with a drive to change or reshape the world, and waning enthusiasm for ambitious goals may be revitalised. 
+
+Note that magic of this nature is indiscriminate; it will encourage citizens of the League and citizens of Urizen alike to celebrate the successes their nations have made toward restoring Spiral. While the enchantment persists, encounters with the Night realm will be more common. People are more likely to encounter Night regio and may in some cases find existing Night regio have increased in potency. Heralds of Night eternals, especially those with an interest in inspiration and grand projects, are likely to be encountered more often.
+
+===Malachite Shadows (Miekarova)===
+* '''Miekarova has been enchanted with a magnitude 30 arcane projection of the Night realm'''
+During the Spring Equinox, an [[arcane projection]] was performed targeting the [[Thule]] region of [[Miekarova#Mieriada|Mieriada]] in the [[Varushka|Varushkan]] territory of [[Miekarova]]. Thick mists coil, and shadows darken around the paths and entrances to the [[Miekarova#The_Painted_Caves|Painted Caves]]. Those who attempt to find their way into the caves find themselves lost or inexplicably turned around. Strange lights and noises in the mists lead them astray. They may find familiar voices or illusions of loved ones calling them to step from the path, or terrifying horrors drawn from their nightmares that cause them to flee. Those who attempt to find their way along the paths may walk for hours or days, only to find themselves, exhausted and confused, back where they started. Only those who know the way may enter the Caves.
+
+Only those who performed the ritual may now enter the Painted Caves, whoever they may be...
+
+===Greatest Military Force===
+* '''Dawnish and Winterfolk with a business, farm, fleet, herb garden, mana site, mine, or forest can change to a military unit of equivalent level in the same territory with no cost'''
+During the Spring Equinox, two mandates were enacted; one in the Dawnish Assembly by '''Ser Decimus of House de Bastion''' and one in the Winterfolk Assembly by '''Yrkja Riansson Sigeing'''. These mandates encourage the people in their respective nations to [[Push_for_victory#Greatest_Military_Force|support efforts]] to embrace their national traditions and support the Empire's wars.
+
+===Stirring the Pot===
+* '''Marchers with a military unit, fleet, herb garden, mine or forest can change to a farm of equivalent level in the same territory with no cost'''
+* '''Marchers can upgrade their farm for one less weirwood (to a minimum of one) until the start of the Spring Equinox 389YE'''
+* '''Leaguers with a military unit, fleet, herb garden, mine or forest can change to a business of equivalent level in the same territory with no cost'''
+* '''Leaguers can upgrade their business for one less white granite (to a minimum of one) until the start of the Spring Equinox 389YE'''
+During the Winter Solstice, two mandates were enacted; one in the Marcher Assembly by '''Richard Conscience''' and one in the League Assembly by '''Frideswide Adelaar van Holberg'''. These mandates encourage the people in their respective nations to [[The circle game|support efforts]] to embrace their national traditions and support the Imperial economy. They also create a groundswell of support for League and Marchers looking to improve their resources.
+
+===Completion of the Omphalos===
+* '''The Omphalos has been completed in Spiral'''
+* '''Urizen characters can take a new personal resource in Spiral for free before the end of downtime'''
+With the completion of [[Custodian_of_the_Omphalos#The_Dreaming_Spire|the Dreaming Spire]], Urizen characters can take a new personal resource in [[Spiral]] before the end of downtime by emailing {{admin}}.
+
+===Wayhouse in Holberg===
+* '''Splintered House has been completed in Holberg'''
+* '''Navarr characters can take a new personal resource in Holberg for free before the end of downtime'''
+With the completion of [[Keeper_of_the_Splintered_House#The_Splintered_House|the Splintered House]], Navarr characters can take a new personal resource in [[Holberg]] before the end of downtime by emailing {{admin}}.
+
+==Magical Lore==
+* '''Every summit it is possible that new rituals, magic items, or potions may become available to Imperial citizens'''
+* '''Some of these options are only available to characters from certain nations, such as those entered into Urizen Lore or Runesmith's Law'''
+During the Spring Equinox, one magic item was added to Runesmith's Law, one ritual was added to Urizen lore, and one ritual was put forward for inclusion in Imperial Lore:
+* [[Revelations of the Past]] was [[388YE_Spring_Equinox_Conclave_sessions#Imperial_Lore:_Revelations_of_the_Past|raised]] by '''Syl''' the [[Dean of the Lyceum]] and funded by '''Bledri Eternal''' 
+
+* [[Talon's Alb]] was added to [[Wintermark_economic_interests#Runesmith.27s_Law|Runesmith's law]] 
+
+* [[Pillars of Adamant]] was added to [[Urizen lore]]

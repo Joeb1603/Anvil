@@ -1,0 +1,183 @@
+---
+title: Long grass and stormclouds
+source: https://www.profounddecisions.co.uk/empire-wiki/Long_grass_and_stormclouds
+class: in-character
+topic: winds-of-war
+categories:
+- Recent History
+- 387YE Summer
+- Military Council
+- Winds of War
+event: 387YE Summer
+last_edited: '2026-10-08T11:32:31Z'
+revision: 146102
+in_character_boxes: 4
+---
+
+# Long grass and stormclouds
+
+*[Image: Across the wide waters of the Bay of Catazar the winds blow and the waves rise](https://www.profounddecisions.co.uk/empire-wiki/File:Waves_in_Adriatic.jpg)*
+
+## Salt Waters of the Bay
+
+As the sun ripens in the azure skies, the Children of Wrecks continue to make their presence known in the Bay of Catazar. Over the last year or so, they have attracted pirates and privateers from across the Known World with their promise of stolen wealth and indiscriminate bloodletting. Some of those who answer the call are the kind of two-legged vermin that seek only plunder and slaughter; others are more dangerous perhaps being motivated by a love of or connection to the *[Tempest Queen](../eternals/Siakha.md)*. While the former might occasionally receive the wicked boons of *Maelstrom* and her sorcerer-priests, the latter revel in the blessings their "goddess" provides them, eager to bring to bear the [destructive power](../../out-of-character/rules/Spring_magic.md#ruin) of [Spring magic](../../out-of-character/rules/Spring_magic.md) against any who stand in their way.
+
+Since the Spring Equinox, there has been a steady increase in attacks against ships traversing the Bay of Catazar that has nothing to do with the [Asavean bounty](../winds-of-fortune/Authority_and_acceptance.md#red-sails) placed on those trading with Imperial ports. There has been a matching decline in incidents where Grendel privateers have attacked the Empire's fleets. It seems that all the nations of the Bay are seen as fair game by the Children of Wrecks and the need to guard against their attacks disinclines the orcs of the Broken Shore from pursuing their assaults against the ships of their Imperial enemies. It's scant comfort; the Children of Wrecks are if anything even more rapacious than the descendants of [Rucraic](../barbarians/Grendel_religion.md#rucraic---the-storm-lord).
+
+The [Freeborn](../nations/the-brass-coast/The_Brass_Coast.md) do their best to [provide protection](../../mixed/economy/Voyage.md#escort-imperial-shipping) to ships traversing the Bay but their resources are stretched. Perhaps four times as many [corsairs](../nations/the-brass-coast/Corsair.md) are fired up to [smuggle missionaries](../../mixed/economy/Voyage.md#smuggle-missionaries) to [Asavea](../foreign-nations/Asavean_Archipelago.md) as are interested in protecting the seas closer to home. It's understandable; it's easy to see why a chance to strike directly against the unvirtuous is more appealing than patrolling the waters of the Bay looking for pirates. It does mean that there are a few closer calls than there could be, that a few ships are lost that might otherwise be saved but for the most part there is a tense balance between the predators and those opposing them.
+
+Yet it also raises questions about where, precisely, the Grendel *are*. Apart from the Shamal anchored well off the coast of [Necropolis](../nations/highguard/Necropolis.md) and making no particularly hostile moves, there has been no sign of either their ships or their warriors anywhere within the Imperial sphere. They excised the minor Imperial inroad into Ayereed and then... nothing. Silence. It's been six months - what are they up to?
+
+*[Image: The Quiet Grasses do not whisper as the wind blows through them](https://www.profounddecisions.co.uk/empire-wiki/File:In_the_tall_grass.jpg)*
+
+## On Freeborn Shores
+
+There's no repeat of the [attack on Oran](A_circle_sewn_with_fate.md#the-battle-of-oran) that took place before the Spring Equinox. In [Feroz](../nations/the-brass-coast/Feroz.md), *Wind Lord Saoirse* and *Commander Fiersach* keep their forces at [Mora's Rock](../nations/the-brass-coast/Feroz.md#moras-rock), and along the borders of [Morajasse](../nations/the-brass-coast/Feroz.md#moras-jasse). There are no clashes between Freeborn and Grendel; the [orcs](../../mixed/world/Orc.md) have more than sufficient supplies to survive without raiding the neighbouring regions of Feroz or [Segura](../nations/the-brass-coast/Segura.md). Indeed, there has been little contact with the garrison at all, although rumour suggests that there has been a flurry of messages back and forth between Imperial citizens and the Commander. Exactly where these rumours originate is not clear, given that such correspondence is probably taking place via [winged messenger](../../mixed/magic/rituals/Call_Winged_Messenger.md). Perhaps it is wishful thinking.
+
+Further north, in [Madruga](../nations/the-brass-coast/Madruga.md), the [Fist of the Mountains](../../mixed/government/military/Fist_of_the_Mountains.md) and the [Burning Falcon](../../mixed/government/military/Burning_Falcon.md) move to reclaim the [Quiet Grasses](../nations/the-brass-coast/Madruga.md#quiet-grasses) for the Empire. Once, this was the swaying jade sea of the Great Grasses before it was consumed by [the Blight](../winds-of-fortune/Colourblind.md). Now it has been restored, thanks to the surging [waters of the Scorrero](../winds-of-fortune/Where_the_river_rises.md) and a year or more of [gentle rains](../../mixed/magic/rituals/Regrow_the_Land-s_Heart.md). A profusion of plants and flowers grow here now, and the grass itself is different to that which grew before. It stands easily taller than the tallest soldier, and individual stalks are remarkably resistant to damage. Where the thickets of grass are densest, it is slow going trying to make headway and all too easy to get lost.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > My Freeborn, I return to you heart and mind full. I hear often you cannot compel virtue. You give Loyalty. You nurture Ambition. You Inspire Pride. And it puts me to mind over what inspires my virtue. My Kohan in Anvil? You who fight for the Falcon? Those who hold my heart in their chest as I hold their heart in mine? The answer is all these and more. All of this inspires the burning flame to raise up. To set the example and live up to what is required. In turn inspiring others to greater heights that I know we are all capable of. So I ask you, Falcons, Freeborn, citizens. My pride demands I strive for triumph and I urge you to greatness alongside my army or elsewhere. Together. One Empire. In Pride
+> >
+> > Aracelis I Erigo
+
+The grasslands seem to swallow even the loudest sounds, making it challenging for the two armies to coordinate their search for threats and establish routes across the plains. Even the blaring of horns sounds tinny and falls away swiftly over comparatively short distances. It is just as well that the Falcon have been [granted](../../out-of-character/rules/Enchantment.md) the [Clarity of the Master Strategist](../../mixed/magic/rituals/Clarity_of_the_Master_Strategist.md) which helps them keep a vague idea of where those soldiers they cannot see directly are moving. Especially given that, as with most things they do, the Falcon charge straight into the grasses as if daring them to cause trouble. They spend little time worrying about what is behind them, only what is ahead, leaving the more cautious Fist of the Mountains to ensure they are not flanked or ambushed or lost forever in the gently rippling grasses.
+
+There are [servants](../eternals/Inhabitants_of_the_realms.md#heralds) of [Janon](../eternals/Janon.md) with the Fist, but they are more subdued than usual. Their curved blades rest in their scabbards, their mood is oddly quiet for the warriors of ‘’Fire Muse’’ and their talk is mostly of how the ‘Fist should learn from the example of the Falcon and put their steady caution aside in the face of the unknown.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Mystics, take pride. We invite Janon, the shadowed flame, to witness our work. As we look for guidance, our eyes are drawn to the Mountain, appropriately. Wintermark heroism shows best when we do what must be done, even if it is hard. We strike into new lands and discovery. Avoid the coastlines when you can. The Freeborn need land, let us make it ready for them. When we come upon the foe, take comfort that even should you fall, your duty is not ended. Do not spend your lives lightly, but when you find the moment, be the thorn in place.
+> >
+> > Umarth 'Winter's Flame' Kannask
+
+The servants of ‘’Torchbearer’’ also do not hide their disgust at the ‘’other’’ creatures that march with the Wintermark armies - the dead of Tassato inhabited by the spirits of the [Winter realm](../eternals/Realm.md#winter). Yet even here the sea of green seems to have an odd influence over the [Winter-realm horrors](../../mixed/magic/rituals/Quickening_Cold_Meat.md). They are no less hungry, but their hunger is quiet and unsettling. There are no foes to consume here, no battles in which they can unleash their ravenous magic. The quiet seems to sink into their bones and flesh, rendering them more menacing, more threatening if anything. The [Winter magic](../../out-of-character/rules/Winter_magic.md) used to raise them preserves their ruined flesh, of course, but the longer they spend in the Quiet Grasses, the more preserved they seem to become. Drier. More aware of their surroundings. Some soldiers talk in whispered tones around the campfire of their fear that the Winter spirits are ‘’planning’’ something, that it was a mistake to raise this shambling army from the dead of the League and then bring them to the heat of the Dry Patrician’s power. Superstitious soldier talk, no doubt...
+
+And yet magicians do say that this silence that hangs over the region, like the strange resilience of the grass, is partly due to a lingering touch of [Winter magic](../../out-of-character/rules/Winter_magic.md) - albeit a lighter and more wholesome [resonance](../../out-of-character/rules/Winter_magic.md#resonance) than many who have not studied the realm closely might expect. Likely, it is just that which makes the warriors of Janon uneasy, that seems to infuse the shambling dead with darker purpose. Nothing to worry about, for sure.
+
+The armies are also accompanied by a small number of Freeborn [warbands](../../out-of-character/rules/Military_unit.md). They are able to move more freely across the region, seeking out any remaining threats. There are few here beyond the silence and the difficulty of wading through the tall grasses. It is some of these warbands that find the remnants of the road that once ran through the plains when this was the Great Grasses - ruined by Winter, but many of the stones seem to have endured both the Blight and the transformation that came in its wake. With a little work they will serve as a pass along the northern side of the region into Segura for Freeborn caravans.
+
+By the time of the Summer Solstice, the Quiet Grasses are once again Imperial land. This means that Madruga - despite the mysterious magical marsh and the Children of Wrecks dominance of the island - is once again an Imperial territory. It falls to the Senate to determine how it will be [assigned](../../mixed/government/senate/Powers_of_the_Imperial_Senate.md#assignment). It seems almost unthinkable that it will not be once again part of the Brass Coast but there are no certainties in politics.
+
+*[Image: The Queen of Wrecks, the Maelstrom, the Splintering Wave, the Tumultuous Roar](https://www.profounddecisions.co.uk/empire-wiki/File:SiakhaArt.jpg)*
+
+## A Sudden Storm
+
+If the Children of Wrecks are avoiding the Brass Coast, they must be somewhere of course. While some of the pirates are busy bedevilling ships, they represent only a fraction of that destructive faction. Drinking houses from Bramar to Beoraidh rumble and ripple with speculation. Perhaps they are busy engaging the Grendel along the shores of Attar? Perhaps they are raiding the coastline of the Iron Confederacy? Perhaps they have fallen into in-fighting and are busy tearing each other apart in the name of their [monstrous patron](../eternals/Siakha.md)?
+
+The answer comes at the start of Summer. Bells begin to ring in towers and temples dedicated to [Vigilance](../religion/Vigilance.md) all across southern [Sarvos](../nations/the-league/Sarvos.md). A raggle-taggle armada of ships, like a moving island of sea-worn planks, creaking ropes, burgeoning sails, and jagged blades descends on [Trivento](../nations/the-league/Sarvos.md#bocche). It’s hard to get a precise count of just how many ships there are, and many of them are stuffed-to-the-gills with booty-hungry raiders.
+
+There is no finesse to their attack; the majority of the vessels simply sweep toward the harbour. They have next to no discipline, this first wave of attackers; the individual captains are keen to seize as much wealth for themselves as they can with little thought for those who arrived with them or those who might fight to defend their homes.
+
+Fortunately, however, the shores of Sarvos are very far from defenceless. Indeed, they may be the most well defended beaches in the entire Empire. The first obstacle the raiders encounter are the sea defences. The [Great Chain](../nations/the-league/Sarvos.md#the-great-chain) was built to protect the [City of Masks](../nations/the-league/Sarvos.md#sarvos) but as part of its construction defences were reinforced or built along the coasts of [Bocche](../nations/the-league/Sarvos.md#bocche) and [Uccelini](../nations/the-league/Sarvos.md#uccelini). As part of that defence, watchtowers were built on the cliffs. Intended to keep watch for the [Grendel](../barbarians/Grendel.md), they are just as adept at spotting the approach of any hostile naval vessels and quickly rouse the defenders of [the League](../nations/the-league/The_League.md).
+
+The pirates seem unaware of the extent of the defences, however, swiftly passing the sea wall of Trivento harbour and seeking to disgorge their cargo of bloodthirsty raiders onto the docks. And after the first two dozen ships reach the quayside a massive mithril chain is dragged up ‘’behind’’ the raiders preventing their escape. To the likely horror of the pirates they discover several score hard-bitten veteran warriors waiting for them - watchers assigned by the commander of the Great Chain, reinforced by soldiers from the garrison of [Our Lady of Pride](../nations/the-league/Sarvos.md#our-lady-of-pride). Before they can entirely disembark, the attackers are cut to ribbons by a combination of crossbow-fire and expertly wielded pole-arms used to drive the raiders back into the sea. Here, the presence of the servants of Siakha definitely works against the invaders - the sharks and heralds of the Storm Mother are indiscriminate and as likely to devour pirates as they are Imperial citizens.
+
+This initial set-back does not deter the attackers. It seems almost as if the real leaders of the Children of Wrecks have allowed these over-enthusiastic bloodthirsty fools to rush ahead as much to test the Imperial defence as anything else - or rather have made no effort to hold them back. This does not seem to be a force that has much truck with well-established chains of command.
+
+Even as the initial attackers are paying the price for their folly, there are more ships arriving. That ramshackle [naval force](../../out-of-character/rules/Navy.md) [raised by the Children of Wrecks](../../mixed/government/military/The_gathering_storm.md#objective-stop-the-wrecks-forming-a-navy) and dubbed the *[Gathered Storm](../winds-of-fortune/Made_anew.md#war-and-change)* has held back only slightly and now they attack the defences of Trivento directly.
+
+At their forefront is the *Storm's Child*, that former Grendel vessel that now serves as flagship, with the stolen Freeborn [figurehead](../../mixed/government/military/The_gathering_storm.md#objective-recover-the-storms-child-figurehead) shining balefully at its prow. The sails of the ‘’Gathered Storm’’ bear the unmistakable design of a gaping shark's jaw, and drums pound on their decks like thunder heralding the defiance and bloodlust of those who sail under the baleful gaze of goddess [Siakha](../eternals/Siakha.md). In the waters, and on the decks of some of the ships, are thronging [heralds](../eternals/Inhabitants_of_the_realms.md#heralds) of ‘’Maelstrom’’ howling for blood or crackling with the power of the storm. On the western flank of the main force sail a dozen or so Freeborn ships, a cohort of former [corsair](../nations/the-brass-coast/Corsair.md) vessels led by ‘’Isidore i Boyaga’’. In some ways the fact these pirates were once respected corsairs makes their betrayal of [their principles](../winds-of-fortune/Four_strong_winds.md#the-bay-of-catazar), their Empire, and their people even more keen.
+
+Between the naval force and the traitor ships the attack easily rivals the strength of the [largest](../../out-of-character/rules/Army.md#army-size) [Imperial army](../../out-of-character/rules/Army.md). They lack discipline or cohesion but they could likely go toe-to-toe with the likes of the [Golden Sun](../../mixed/government/military/Golden_Sun.md) or the [Drakes](../../mixed/government/military/Drakes.md) and have a chance of winning. As it is, though, they seek to overcome the strength of Our Lady of Pride and the Great Chain and that is a very different proposition.
+
+While the Children of Wrecks attack the harbour, forces loyal to Isidore i Boyaga seek to make landfall outside the town and attack the gates to the west - and to raid caravans coming into Trivento via the [Spider’s Dream](../../mixed/titles/Spider-s_Tollkeep.md#the-spiders-dream). Fortunately the defences of the bridge itself are too strong for the Freeborn traitor to threaten by herself, and the merchants coming into Sarvos from Madruga have enough time to retreat back to the bridge without needing to abandon their cargos. If Isidore and her savage turncoats sought an easy victory they are very much disappointed.
+
+At roughly the same time that the main force is attacking the harbour defences, fighting breaks out within the town itself! A [striding](../nations/navarr/Striding.md) of perhaps a hundred Navarr, newly arrived at Trivento, suddenly attack the garrison defending the town from behind! They strike with stealth and cunning, literally stabbing some of the defenders in the back with hidden blades. Chaos erupts, spreading fear and terror through the streets of a town that thought itself well protected. This false-steading, this ‘’Liath’s Blade’’, bear obvious [boons](../../out-of-character/rules/Enchantment.md) of Siakha, fighting and plundering with terrible zeal, awful strength, and weapons that smash and shatter the shields of the defenders. At their head comes the Navarr traitor Ioan Bloodstride - a refugee from a lost striding in [Liathaven](../nations/navarr/Liathaven.md) who joined Siakha's forces during the recent [assault on Meade](Harvest_of_infamy.md) by the [Asaveans](../foreign-nations/Asavean_Archipelago.md). Her force is half Navarr, half Imperial dregs simply masquerading as members of that proud nation.
+
+The chaos they inspire might have been enough to break the defence of Trivento, but thankfully the defenders of Sarvos are made of stern stuff. They respond quickly, splitting their attention between the two attackers, and manage to slay several of the false-Navarr forcing them to draw back. At the same time the warning bells continue to ring, drawing further defenders from elsewhere in the territory. The people of Trivento might see themselves as rivals of the great city of Sarvos, but that rivalry does not concern the soldiers or the citizens. Their rivalry is put aside in the face of an existential threat to the town.
+
+It’s slow and bloody business; more and more raiders join the fighting along the dock front. The flood of pirates is swifter than the arrival of more defenders, but again it is the defence and foresight of the Empire that saves the day. There are strong stone towers between the taverns of Trivento, established to oversee the chain defences of the harbour, and they provide excellent vantage points and stout barricades from which to fight the raiders.
+
+For their part, the lack of discipline even among the naval force proves to be a significant weakness for the Children of Wrecks. The sight of potential booty, or prisoners to capture or sacrifice, causes human, orc, and herald alike to break ranks and forget whatever plan they may have had. In the face of their disorder, the planning of the Empire prevails. The soldiers hold Trivento and drive the Children away. Most of the ships never manage to unleash their warriors, failing to overcome the harbour defences with a direct attack.
+
+Then, on no discernible signal, the ships to the rear of the Gathered Storm suddenly break off and sail southward. Over the course of barely half an hour the attack has suddenly stalled. The raiders in Trivento are more interested in getting back to their ships - including a handful of vessels clearly commanded by crews loyal to Ioan Bloodstride - than they are in looting. Those who are too laggard, too slow to see which way the winds are blowing, are cut down by the defenders.
+
+As rapidly as it began, the attack is over. The defenders look at each other askance - it certainly feels as if the attack broke off halfway through. The fighting was still fierce - what has caused the Children of Wrecks to suddenly veer off and abandon their raid? Not that it would have been successful of course. The League defenders are confident that between the precautions put in place by the Great Chain, and the sizable patrols from Our Lady of Pride, they had the measure of the Children of Wrecks.
+
+Trivento has been damaged, certainly. Ships have been burned in the harbour. The gates have been attacked, there are a number of businesses whose premises have been raided. But it could have been a lot worse. Over the next few weeks members of the [Barossa School of Imperial Strategy](../nations/the-league/Tassato.md#barossa-school-of-imperial-strategy) in [Tassato](../nations/the-league/Tassato.md) visit to speak with the defenders and examine the battlefield. They are left with the strong suspicion that even with a naval force of their own the Children of Wrecks were not interested in conquering Bocche, or seizing Trivento. Their goals were much more mercenary - they were here to steal as much wealth as possible but also to do as much damage as they could. Even if there had been no defenders they’d not have claimed Trivento - just looted it and burnt it to the ground. Some of the citizens talk of attempts to kidnap people, as well as steal goods, and carry them away. Fortunately these attempts seem to have been foiled by the defenders.
+
+Perhaps more worryingly, the strategists of the League are confident that the Children of Wrecks did not bring their entire force to bear here. There is at least one [Imperial traitor](On_southern_sands.md#objective-eliminate-the-traitors) unaccounted for - the fallen [boyar](../nations/varushka/Varushka_leadership.md) Zavetta Voglavnova who sold her own vale for personal power. The reports from mariners traversing the Bay of Catazar make it clear that a lot of pirates tied to the Children are busy trying to prey on merchant vessels. It’s an unpopular conclusion, but the consensus coming out of the School of Imperial Strategy is that if they had their full force present, even the combined power of the Great Chain and Our Lady of Pride might not have been enough to stop the Children of Wrecks achieving at least a portion of their plan.
+
+As to why they broke off the attack so suddenly, there’s a lot of speculation but nothing concrete. Did the admiral see the way the battle was going and bring it to an end to avoid further losses? That would seem particularly far-sighted for the Children of Wrecks at odds with their normal tactics. Did someone on the flagship receive a message that inspired them to cut the raid short and immediately begin to sail south? It’s hard to imagine what might have been that important and certainly nothing threatens the Children’s holdings at [Free Landing](../nations/the-brass-coast/Madruga.md#free-landing) or [Cazar Straits](../nations/the-brass-coast/Feroz.md#cazar-straits). Or could it be that the attack is a feint of some kind like the attack against Elos, designed to test Imperial defences or draw protectors away from the real target? Possibly but there’s no sign of what their real target actually was just yet.
+
+The only thing that can be said with any certainty is that Trivento weathered the storm, for now at least. But the threat of the Children of Wrecks to the entire Bay of Catazar continues - and while it seems there has yet to be a situation where their full force has been brought to bear this failed attack may well mean that the next time they come against the Empire they will do so in their entirety…
+
+*[Image: The Bay of Catazar](https://www.profounddecisions.co.uk/empire-wiki/File:Bay_of_Catazar.png)*
+
+## Game Information
+
+### Feroz and Madruga
+
+- **The Empire has taken Quiet Grasses and with it Madruga**
+- **The Grendel still control Morajasse**
+
+The situation in Feroz seems to be roughly the same as it was at the Spring Equinox. Commander Fiersachand his partner Wind Lord Saoirse still hold Mora’s Rock. They are protecting the borders of their domain and there are rumours of attempted diplomacy.
+
+In Madruga, the Quiet Grasses have been brought into the Empire, meaning the territory is again Imperial. The Civil Service will raise an administrative motion on Saturday evening to allow the Senate to [assign](../../mixed/government/senate/Powers_of_the_Imperial_Senate.md#assignment) the territory, unless a [Senator](../../mixed/titles/Senator.md) chooses to raise the motion themselves at an earlier session. The expectation is that the territory will be assigned to the Brass Coast but there is no legal requirement for this to be the case.
+
+### Trivento
+
+- **The Children of Wrecks attacked Trivento but were driven off without being able to achieve their goals**
+- **Their "strategy" was to try and steal everything they could - had they been successful, it would have reduced taxation from Sarvos**
+
+The attack of the Children of Wrecks included the ‘’Gathered Storm’’ - the equivalent of an [navy](../../out-of-character/rules/Navy.md) - and two significant forces representing [fleets](../../out-of-character/rules/Fleet.md) loyal to Imperial traitors. The defence was mounted by the Great Chain (which counts as a 3000 point fortification against [shore offensives](../../out-of-character/rules/Navy_orders.md#shore-offensive)) and Our Lady of Pride (which provides 6,000 strength protection anywhere in the territory). There were no Imperial military units defending either fort and neither the navy nor the fortifications seem to have been enchanted.
+
+It is the assessment of the School that the Children fielded a sizeable fraction of their current force, but that they did not bring everything to bear. If they had had perhaps 3000 extra force, they would have breached the defences and been able to at least partially loot Trivento.
+
+While their strategy bore many similarities to a [plundering](../../mixed/government/military/Army_qualities.md#foraging) order, or a shore offensive, their entire strategy was different to that of any other navies the Empire has encountered. The Apulian members of the school in particular believe they were not trying to capture any land - only to raid, destroy, and slaughter people. What this means in game terms is that any victory points they might have generated would have gone towards achieving their goal of looting and raiding rather than to claiming land. If they had been successful, they would reduced the taxation produced by Sarvos this season. If their attacks are not fought off, they could rival the Druj for the amount of damage they could inflict on the Empire - both to the place they attack and in theory to the Imperial treasury if they have free hand to ravage the coast of the Bay of Catazar.
+
+## Conjunctions
+
+### A Plan Succeeds (Necropolis)
+
+- **A company of Grendel are escorting several Asaveans**
+- **The Asaveans, servants of one of their gods, are scouting for possible targets**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Champion of Pride* is [responsible](../world/Sentinel_Gate.md#prognostication) for killing the servants of the Red God**
+- **This conjunction is [against barbarians](../world/Sentinel_Gate.md#imperial-law); magistrates advise that lethal force is fully justified**
+
+The Plenum has continued to send support to the [Grendel](../barbarians/Grendel.md) in their joint war against the Empire. The priests of [the Red God](../foreign-nations/Asavean_gods.md#the-red-god) have sent several of her worshippers to the Bay of Catazar to support the Grendel.
+
+Half a dozen servants of the Red God now lead a company of the Grendel as they put their long, hard-earned experience towards the benefits of the Salt Council. They search for an opening, some weakness in the defences of Necropolis. If they are successful, they will report back to the Salt Lords, who will be able to act on the information, with the region of [Longbeach](../nations/highguard/Necropolis.md#longbeach) becoming [under threat](../../mixed/economy/Region_qualities.md#under-threat) to the Grendel. It is the responsibility of [Champion of Pride](../../mixed/titles/Champion_of_Pride.md), **Kali Keen-Eye**, to counter the threat presented by the servants of the Red God and their Grendel allies.
+
+### Flags (Mareave)
+
+- **The Courath of Icarion is meeting with the Grendel to receive further payment**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *General of the Citadel Guard* is [responsible](../world/Sentinel_Gate.md#prognostication) for defeating the Courath of Icarion**
+- **This conjunction is [against barbarians](../world/Sentinel_Gate.md#imperial-law); magistrates advise that lethal force is fully justified**
+
+The rumoured Courath of Icarion has come again. The hero, once the leader of the region of the same name, has announced themselves and bears Stormcaller. They claim that they act with the voice of the ancestor behind them, and the people of Icarion listen. The Grendel have clearly made a significant investment in the Courath of Icarion, with it now having become clear that the Grendel paymaster provided them with the artefact on the [Plains of the Courath](../winds-of-fortune/Lit_up.md#the-figurehead) at the Winter Solstice 386YE.
+
+The [General of the Citadel Guard](../mandates/Citadel_Guard.md), **Andronikos of the Lighthouse-That-Was**, is responsible for defeating the Courath of Icarion, claiming Stormcaller, and defeating the Grendel and Asaveans alongside them. If they are not defeated, then the Courath will firmly establish themself as a rebel presence in the region. The region will become [uncooperative](../../mixed/economy/Region_qualities.md#uncooperative), and the Courath will surely only continue to create more trouble from there.
+
+*Stormcaller* was an artefact [rod](../../indexes/by-category/Rods.md) once wielded by the General of the [Army of the Citadels](../mandates/Citadel_Guard.md). Drusus, one of the researchers inspired to visit Mareave after the Autumn Equinox 386YE by the statements of principle of [Verres Aurispire](../synod-judgements/386YE_Autumn_Equinox_Synod_judgements.md#judgement-180) and [Skywise Gralka](../synod-judgements/386YE_Autumn_Equinox_Synod_judgements.md#judgement-196) was unable to uncover more on the item beyond its name and that it had properties similar to - but beyond - that of a [Witches' Hammer](../../mixed/magic/items/Witches-_Hammer.md).
+
+### Expectations (Mareave)
+
+- **A company of Grendel is guarding a resource cache intended for the Brine Turtles**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Champion of Prosperity* is [responsible](../world/Sentinel_Gate.md#prognostication) for defeating the Grendel and claiming the cache**
+- **This conjunction is [against barbarians](../world/Sentinel_Gate.md#imperial-law); magistrates advise that lethal force is fully justified**
+
+The ongoing, delicate diplomacy between the Empire and the Brine Turtles is well known. The sept of Broken Shore orcs, subjects of the Salt Council, have maintained their belief that the Salt Lords will not abandon them or the territory. That they have kept this belief in spite of the Grendel not yet trying to reclaim the territory is perhaps a testament to the loyalty inspired by the Salt Council.
+
+However, just because the armies and navies of the Grendel have not been seen in Mareave since they were forced to retreat, does not mean that the Grendel have not been active in the territory. *Thieftaker Likkil*, who has been working the streets of Fioroult, has uncovered the location of a recently arrived cache of resources, including Imperial coin, mana and several [magic items](../../out-of-character/rules/Magic_items.md). They are intended for the sept and are being guarded by a company of Grendel, supported by several Asaveans.
+
+It is the responsibility of the [Champion of Prosperity](../../mixed/titles/Champion_of_Prosperity.md), **Tom Appleseed**, to defeat the Grendel and claim the resources. What they do with the resources after that is entirely up to them.
+
+## Further Reading
+
+- [Sarvos](../nations/the-league/Sarvos.md)
+- [Madruga](../nations/the-brass-coast/Madruga.md)
+- [Feroz](../nations/the-brass-coast/Feroz.md)
+
+---
+
+Categories: [Recent History](../../indexes/by-category/Recent_History.md), [387YE Summer](../../indexes/by-category/387YE_Summer.md), [Military Council](../../indexes/by-category/Military_Council.md), [Winds of War](../../indexes/by-category/Winds_of_War.md)

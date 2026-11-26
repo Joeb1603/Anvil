@@ -1,0 +1,25 @@
+[[Category:Senate Motion]][[Category:388YE Autumn]]
+__NOTOC__
+<quote by="Announced by Firesong Arachas, Legion Engineer">The Legion Engineer is building the Garden of Hope. The designs of this Gildermark great work have been drawn up by the Black Tillers in Skarsind and will cost 25 white granite, 25 weirwood, and 150 crowns. We thank the Black Tillers for listening to Bloodcrow Meep and finding a new way for orcs of the Empire to access Hearkener's Hope. Let us learn from our ancestors.
+</quote>
+==Overview==
+* Constructs a [[great work]] in Gildermark, Skarsind
+* Announcement by '''Firesong Arachas''', [[Legion Engineer]]
+* The designs for the [[388YE_Spring_Equinox_winds_of_fortune#Black_Tillers_in_Skarsind|Garden of Hope]] were presented as part of the highest calling of the Imperial Orcs.
+
+==Date==
+* Autumn 388YE
+
+==Cost==
+* Costs as per opportunity
+* 25 wains of white granite
+* 25 wains of weirwood
+* 150 crowns in labour costs 
+* Three months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Garden_of_Hope}}
+==Outcome==
+Once complete, the Garden of Hope will have the following effects:
+*Provides two doses of Hearkener's Hope to each congregation in Skarsind
+*Increases investment in congregations in Skarsind by one

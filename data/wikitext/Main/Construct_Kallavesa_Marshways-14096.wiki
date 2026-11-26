@@ -1,0 +1,25 @@
+[[Category:Senate Motion]][[Category:388YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Delara of the House of the Wanderer, Senator for Zenith, Seconded: Rane Shardbearer, Senator for Kallavesa">To commission the Kallavesa Marshways, in Kallavesa. This great work will boost businesses and herb gardens, and create a guarding venture for military units. This will cost 80 weirwood and 240 crowns - fully self funded.
+</quote>
+==Overview==
+* Constructs a [[great work]] in Kallavesa
+* Passed
+* More information on this great work can be found in the '''[[The_circle_game#Marshways_in_Kallavesa|The circle game]]''' wind of fortune
+
+==Date==
+* Autumn 388YE
+
+==Cost==
+* Standard costs apply
+* 80 wains of weirwood
+* 30 thrones in labour costs
+* Six months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Kallavesa_Marshways}}
+==Outcome==
+Once complete, the marshways will have the following effects:
+* Raises the level investment in businesses in Kallavesa by one, providing an additional 36 rings
+* Raises the level investment in herb gardens in Kallavesa by one, providing two true vervain, and one marrowort at the Spring Equinox, one cerulean mazzarine at the Summer Solstice, one Imperial roseweald at the Autumn Equinox, and one bladeroot at the Winter Solstice
+* Creates a [[Venture#Guarding_Ventures|guarding venture]] for Wintermark and Dawnish military units to protect the merchants using the marshways in exchange for herbs

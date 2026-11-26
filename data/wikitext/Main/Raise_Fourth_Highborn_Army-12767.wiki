@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Proposed: Casinea, Seconded: Bastion">To raise a fourth Highborn army in Casinea</quote>
+==Overview==
+* Raises an [[Army]] in Casinea
+* Passed
+* More information can be found in the '''[[The_war_of_thorns_and_flowers#Highguard|The war of thorns and flowers]]''' wind of fortune
+* The cost has been reduced by each of the Generals of Highguard receiving an artefact, hallowed banner as [[387YE_Spring_Equinox_Senate_sessions#Assign_Regalia_to_Generals_of_Highguard|regalia]]
+* The general of the new army will have the artefact, hallowed banner, ''Ever Forward'', as regalia
+==Date==
+* Spring 387YE
+
+==Cost==
+* Costs as per opportunity
+* 80 mithril (reduced from 200 mithril)
+* 240 crowns (reduced from 600 crowns)
+* Six months to complete
+
+==Progress==
+{{CommissionProgress|Raise_Fourth_Highborn_Army}}
+==Outcome==
+* Now completed, the [[Pilgrim's Defiance|General of the Pilgrim's Defiance]] will be available for election by unanimous decision of the Highborn senators for the first time at the Autumn Equinox 387YE for a shortened term of one season

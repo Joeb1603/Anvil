@@ -1,0 +1,97 @@
+[[Category:Winds of Fortune]][[Category:388YE Autumn]]
+<ic>As Reet stared at the growing audience, he could feel the blood turning to ice in his veins. If they'd been a mob of angry orcs, he'd have felt less panic. Technically this wasn't the first time he'd performed this piece in public, but in front of your own hall didn't really count. That was easy - this - this room full of strange, chattering faces was anything but. 
+
+She gestured at him from the front row. If it was meant to encourage him, it singularly failed. She turned and whispered something to the scop sat next to her and he laughed. "That's not helping Kirsa" he wanted to shout.
+
+His old teacher turned back to face him and this time she caught his eyes. He realised, she realised just how nervous he was. Hard not to be given the circumstances. She leaned forward in her seat and locked gazes with him. It was an old technique, one of the first she'd ever taught him. Focus only on his teacher, forget about everyone else. He wouldn't impress anyone that way, a good entertainer made everyone in the room feel like the scop was talking just to them. Better that than forgetting half the lines though.
+
+She smiled in encouragement and mouthed the words of the first line. He nodded slightly at Kirsa and draw a deep breath. 
+
+<em>"An eagle owned the sky that morning,<br>As once upon the battle birthed,<br>Came Britta born by Virtue's victory..."</em>
+
+As the words fell from his lips he looked up. The room was quiet now, forty eyes focussed forwards, a score of scops suborned to silence. Most of them knew the piece of course, but the legend of Empress Britta, the greatest banner-bearer in Wintermark's long history was enough to command any room.</ic>
+<div style="float:left; width: 450px; clear: left;">{{CaptionedImage|file=Kallavesi Warrior.jpg|caption=The [[Wintermark_military_concerns#Banner-bearers|banner-bearer]] is an old [[Steinr]] tradition; warriors who carry a warband's banner and inspire those who fight beneath it.|align=left|width=450}}</div>
+==Overview==
+{{audio|link=https://www.youtube.com/watch?v=pvPWMzvaMi0}}
+A banner can be a vital symbol on a battlefield. When the tides of fate seem to turn against the Empire, to be able to look and see over the battle lines, the colours of your warband or your nation still [[Pride|Proudly]] flying can help to rally the [[Courage]] and turn the turn. In [[Wintermark]] the [[Wintermark_military_concerns#Banner-bearers|position of banner-bearer]] is seen as vital to the success of any battle - and the [[thane|thanes]] are expected to ensure that their banner-bearers are present when the strategy is chosen to ensure that the plans are made, so that they can be relied on to know the battle-plan and their role in it.
+
+[[Empress Britta]] was a banner-bearer. She regularly bore ''[[Three Tears|Foe-Slayer]]'', the legendary war-banner of [[Emperor Guntherm]], even after she took [[the Throne]]. The great flag was lost when Britta died and it has been near two decades since Wintermark could bear its equal into battle. The artisans and craftspeople of [[Hahnmark#Runegrott|Runegrott]] have a complicated proposal to try to remedy this shortfall - involving the construction of a grand [[edifice]] to house banners and paintings of the great banners of the Empire as well as the creation of a new [[Magic_items#Artefacts|artefact]] banner for Wintermark.
+
+==Banners Unfurled==
+<div {{Float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Brittashal'''</tr>
+<tr><td>'''Commission Type:''' Edifice</td></tr>
+<tr><td>'''Location:''' Valasmark, Hahnmark</td></tr>
+<tr><td>'''Cost:''' 14 white granite and 42 crowns</td></tr>
+<tr><td>'''Time:''' Three months</td></tr>
+<tr><td>'''Availability: '''One year, until the start of Autumn Solstice 389YE</td></tr>
+<tr><td>'''Effect:''' 
+* Creates a building to store and display banners from across Wintermark
+* Adds the schema for the Defiant Jackdaw to Runesmiths Law
+* Creates the martial title of ''Warcaller''</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightGreen;">'''Warcaller'''</tr>
+<tr><td>'''Type:''' Wintermark</td></tr>
+<tr><td>'''Appointment:''' Wintermark Assembly</td></tr>
+<tr><td>'''Special:''' This is a [[martial title]]</td></tr>
+<tr><td>'''Powers:''' The artisans of Runegrott will enchant a magical standard for the Warcaller if one is available</td></tr>
+<tr><td>'''Responsibilities:'''
+* To inspire Wintermark to great acts of heroism on the battlefield
+* To uplift and encourage the tradition of banner-bearing both in Wintermark</td></tr>
+</table></div>
+All Imperial citizens, save the very youngest, were alive during the reign of [[Empress Britta]]. She is the one who turned the Empire from the Age of Decline into the Age of Resurgence, and was a rare Throne who was almost universally favoured by the people. She achieved great things before her [[Empress_Britta#Death_and_Legacy|untimely death]] in [[Skarsind]], at the hands of the [[Thule]]. 
+
+While the charismatic young Empress was popular across the Empire, she was ''beloved'' in Wintermark. Here they remember that she was ''more'' than just the Throne, she was also one of the nation's foremost [[Wintermark military concerns#Banner-bearers|banner-bearers]], taking to the field with standard in one hand, sword in the other. She, and others like her, served to anchor Wintermark's lines in battle after battle, an enduring symbol of [[heroism]] that rallied spirits across the field. According [[Three_Tears|to the legends]], she bore Foe-Slayer, the legendary war banner personally granted to her by the ghost of [[Emperor Guntherm]]. Britta entrusted her war-banner to a confidant the night before she died, it was presumably returned to the Marsh, to the dutiful watch of Guntherm and his descendants. 
+
+Both Britta and ''Foe-Slayer'' [[Kallavesa#The_Sovevann|sleep in the Sovevann]] now, but the nation still needs heroes who can rally Wintermark's warriors on the field. Those who can raise a standard and inspire all to surge forward unto destiny. Neither Virtue nor heroism allow one to want something and wait for others do it however, and artisans of Wintermark have come together to make a plan to encourage a new generation of heroes to follow in Britta's footsteps. A way to promote and support the nation's banner-bearers ''and'' celebrate the nation's legacy as the finest craftspeople in the Empire.
+
+They propose to build a hall to display the [[Wintermark_culture_and_customs#Icons_and_Artistry|artistry]] of the nation's weavers and artisans. A place where the example set by the nation's [[Pride|Proud]] banner-bearers can be celebrated. They want to expand [[Hahnmark#Valasmark|Valashal]] in Hahnmark to serve as a central place for these banners to be displayed, for the martial history of Wintermark to be recorded, and for new heroes to be inspired by the beautiful artwork. 
+
+A well-made banner is widely recognised as a thing of beauty across the Empire, but most especially in Wintermark where the position of banner-bearer is held in high regard. Every banner is unique, and the best compare favourably with the Empire's greatest artists. The banners of the [[Dawn|Dawnish]] [[Knight-errant|knights-errant]] are a fine example of the kind of iconic art that the [[runesmith|runesmiths]] believe inspire [[Pride]], [[Courage]] and the other Virtues in any who see them. Once the hall is complete, they hope to decorate the walls with older banners that are no longer in use and paintings of banners still employed on the battlefield. ('''OOC Note:''' Once the hall is complete, we will add a picture of any banner that players use at Empire to the page for the hall, if it is emailed to {{plot}}).
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=Assembly_Wintermark.png|align=right}}</div>
+Once the hall is completed, those calling for it would donate a [[schema]] for a rare Wintermark banner, the ''Defiant Jackdaw'' to [[Runesmith's Law]].
+
+*'''The Defiant Jackdaw''' - While wielding this standard, you gain three additional ranks of endurance and can treat it as a source of spiritual strength for purposes of overcoming roleplaying effects. The Defiant Jackdaw requires 3 green iron, 7 orichalcum, 5 weltsilver, 5 beggars lye and 5 iridescent gloaming to create
+
+The runesmiths proposal is that the hall should be overseen by a new title, the ''Warcaller of the Mark''. Their plan is for the Wintermark National Assembly to choose the most appropriate candidate each year - ideally a young aspiring hero who can carry Britta's legacy onto the field to inspire their fellow warriors. It will absolutely have to be a martial title, for obvious reasons, so the Assembly could organise a contest of arms between candidates to identify the strongest warrior, or they could simply choose the most heroic
+
+==To the Banner Born==
+<div style="float: right; max-width: 200px; margin-left: 10px;">{{HoverImage|Cat's Graces Sodality.png|Cat's Graces Sodality Eyes.webp|300px|Caption2|Caption3|Caption4|Caption5|The Cat's Graces}}</div>
+* '''The runesmiths have asked the Cat's Graces sodality to find a citizen to create a new war banner for Wintermark'''
+* '''They have asked the Benefactor of Regalia to make the banner the legal property of the Warcaller'''
+* '''If that happens, the runesmiths will enchant the banner as an artefact Defiant Jackdaw'''
+The new Warcaller will need a banner to bear - and the runesmiths are enthusiastic to finance the creation of something that can hopefully inspire the heroes of the nation. They have asked the [[Cat's Graces]] sodality to find a citizen prepared to create a new war banner for the nation, someone prepared to design and create something beautiful that will uplift the hearts of Wintermark warriors on the battlefield when they see it flying. They are offering a payment of five thrones to whichever weaver is chosen in exchange for the actual finished banner.
+
+They have also asked the [[Benefactor of Regalia]] to make the new banner a part of the official regalia of the Warcaller - that ensures that whoever holds the title will have the legal right to carry the banner, but only as long as they hold the position. If all that happens, then the artisans of Runegrott will reforge the banner as an [[Magic_items#Artefacts|artefact]] Defiant Jackdaw, ensuring the Warcaller has a banner appropriate to their standing and importance to carry onto the field.
+
+==Old Cloth==
+<div style="float:right; width: 300px; clear: right;">{{CaptionedImage|file=Watt of Lambrook.jpg|caption='''Watt of Lambrook''', Minister of Historical Research|align=right|width=300}}</div>
+* '''The Empire could ask the historical research department to look into the story of Foe-Slayer'''
+* '''The banner is assumed to be in the Sovevann, but finding out more about the banner might help Wintermark find a worthy successor'''
+<div style="float:right; width: 350px; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: #C994FF;">'''Research Foe-Slayer'''</tr>
+<tr><td>'''Motion Type:''' [[Historical research]]</td></tr>
+<tr><td>'''Availability:''' Any time</td></tr>
+<tr><td>'''Time:''' Three months</td></tr>
+</table></div>
+There are few magical banners more powerful than the legendary Foe-Slayer, the original banner that Britta carried. According to the legends, the Empress was given the banner by Guntherm shortly after she became a citizen, an early sign that she was destined for great things. There are some who argue that Foe-Slayer is a better symbol of Wintermark's heritage than the cursed [[Crown of Three Tears]]. The banner is widely believed to have gone back to the swamp, waiting for the day that a new hero is found who can bear it aloft. 
+
+Were the Empire so minded, they could try to direct the [[Historical_research#The_Department_of_Historical_Research|Department of Historical Research]] to investigate the banner's story. ''Leontes the Scribe'', Imperial Archivist, suggests that [[Historical_research#Marko_Siwarsbairn|Marko Siwasbairn]] would be perfect for the task, if the [[Minister of Historical Research]] (or even the [[Senate]]) could be convinced to direct them to look into it. Leontes also points out that this is yet another perfect example of why historical research, and the election of the Minister, should fall under the purview of the [[Magpies]]. It may be that finding out more about the banner's history helps Wintermark find the right banner-bearer to carry Britta's legacy, someone that the ghost of Emperor Guntherm would find worthy, as the legends say happened with young Britta.
+
+==Our Friends Beneath the Waves==
+<div style="float:right; width: 300px; clear: right;">{{CaptionedImage|file=Hylje seal.jpg|caption=The hylje, shapechangers who most often take the form of seals, believe they are cousins to the [[Suaq]] of the north.|align=right|width=300}}</div>
+* '''Koskinen has invited Wintermarkers to attend the Festival of Autumn's Easing'''
+* '''The Mediator of the Hyljehal, Raal Dunn is responsible for the conjunction for 50 people at 20:15 on Saturday'''
+Last summit, Koskinen, made known that the ''hylje'' will hold the Festival of Autumn's Easing at the Autumn Equinox. The festival is one of the ''waystones of time'' that mark the passage of the lives of the hylje and gives them meaning and shape. Koskinen himself is to be married, and crowned as one of the ''Palliko'', the hylje's rulers. The hylje have asked the Winterfolk to come and share in this profound moment, and to bring stories of their heroes: those still living and those long gone. The hylje will respond in kind. 
+
+Koskinen knows nothing of the coral husks that '''Raal Dunn''', the [[Mediator of Hyljehal]], has recently written of. He does however reaffirm the hylje's wish to help the Empire learn more of the mysterious [[orc|orcs]] of [[Fjorknae]] and their allies, the monstrous ''akhlut''. The Palliko are pleased that the Empire has now [[388YE_Summer_Solstice_Senate_sessions#Construct_Smugglers_Cove_in_Tromsa|commissioned another]] [[smugglers cove]] in [[Tromsa]]. Once this is complete, the ''Sail into the Cold'' [[voyage]] will be available and the hylje will do all they can to help the Empire learn more about the mysterious folk of Fjorknae.
+
+Recently the hylje [[Beneath_a_moonless_sky#As_Sermersuaq_strode|asked for three measures of ''stardust'']] to allow them to aid in the [[Warriors' Gate|exploration of Tsirku]]. Anticipating that stardust might prove difficult to come by, Koskinen makes clear that two rings of [[ilium]] would suffice if the stardust is not available. Sadly without at least a little of the precious star metal there is nothing they can do to help their allies in Tsirku - the baleful [[Sermersuaq#Northern lights|Northern lights]] are simply too dangerous to Koskinen and his folk.
+
+A conjunction has been identified at 20:15 on the Saturday of the Autumn Equinox, to the shore of Atkonaroq, [[Sermersuaq#Tanikipari|Tanikipari]] in [[Sermersuaq]]. The Mediator of the Hyljehal, '''Raal Dunn''', will be responsible for deciding who goes on the conjunction. The conjunction is for 50 people and lasts for 60 minutes - so there should be plenty of time for stories to be shared.
+
+==Further Reading==
+* [[Wintermark_military_concerns#Banner-bearers|Banner-bearer]]
+* [[Three Tears]] - relates the story of ''Foe-Slayer''
+* [[Mediator of Hyljehal]]
+* [[Cat's Graces]]

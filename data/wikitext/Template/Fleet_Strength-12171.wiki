@@ -1,0 +1,1 @@
+This temporary bonus increases the effective fighting force of the fleet by {{{1}}}, the equivalent of {{{2}}} normal upgrades.

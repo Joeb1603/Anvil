@@ -1,0 +1,46 @@
+==Overview==
+The ports of the town Kostjyas Respite were refurbished by an [[384YE_Autumn_Equinox_Senate_sessions#Kostjyas_Respite|announcement]] from Kostjya of the Wulfen Reavers, [[Bearer of an Imperial Wayleave]], during the Autumn Equinox 384YE, following an [[opportunity]] presented during the [[Thousands_or_more#A_New_Port|Winter Solstice]] of 383YE. Construction was completed shortly before the Spring Equinox 385YE.
+
+==Responsibilities==
+The Merchant Boyar of the Bittershore is responsible for ensuring good relations with those who use the docks in Kostjyas Respite. If the docks were to be threatened in any way, it would be the responsibility of the Merchant Boyar to deal with those threats. Likewise, if any particular [[opportunity]] were to arise related to the docks, the Merchant Boyar would expect to be consulted as to how that opportunity might be resolved.
+
+==Powers==
+===Ministry===
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table style="width:400px; float: right; margin-left:10px;" class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Ossium Exports'''</td><td style="background-color: LightBlue;"></td>
+<tr><td>6 Crowns</td><td>12 random [[Materials#Natural_Materials|measures]]</td></tr>
+<tr><td>16 Crowns</td><td>24 random measures</td></tr>
+<tr><td>28 Crowns</td><td>36 random measures</td></tr>
+<tr><td>45 Crowns</td><td>48 random measures</td></tr>
+<tr><td>64 Crowns</td><td>60 random measures</td></tr></table>
+
+<table style="width:400px; float: right; margin-left:10px;" class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Ossium Imports'''</td><td style="background-color: LightBlue;"></td>
+<tr><td>8 Crowns</td><td>12 random [[Materials#Metals|ingots]]</td></tr>
+<tr><td>18 Crowns</td><td>24 random ingots</td></tr>
+<tr><td>32 Crowns</td><td>36 random ingots</td></tr>
+<tr><td>48 Crowns</td><td>48 random ingots</td></tr>
+<tr><td>68 Crowns</td><td>60 random ingots</td></tr></table>
+</div>
+As a [[ministry]], the Merchant Boyar of the Bittershore can purchase quantities of [[Materials#Metals|ingots]] and [[Materials#Natural_Materials|measures]] at a set price. The Merchant Boyar spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+==Appointment==
+This title is appointed during the Spring Equinox each year. The Merchant Boyar of the Bittershore is appointed by citizens of Varushka who control [[mine|mines]] and [[forest|forests]] [[Resource#Personal_Resource|personal resources]]. The larger the holder an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Varushkan citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{CaptionedImage|file=Kostjya6881.png|caption=Kostjya, Merchant Boyar of the Bittershore|align=left|width=400}}
+==Kostjyas Respite==
+When the Sand Fisher [[orc|orcs]] of [[Ossium]] moved to [[Holberg#Misericorde|Misericorde]] in [[Holberg]], the land they previously occupied along the shores of [[the Semmerlak]] was left ripe for exploitation. In Winter 383YE, the Civil Service [[Thousands_or_more#A_New_Port|confirmed speculation]] that the area would make an excellent location for a port town. A specific location has been identified - apparently the same cove that the Druj launched rafts from to attack Semmerholm during the reign of [[Empress Varkula]]. A port in this location could be used to import materials more efficiently than dragging them along the roads. Ox-drawn wagons travelling on roads - even Varushkan roads - are no match for the speed of a sailing ship. 
+
+There were plenty of Varushkan settlers keen to see a port on the Ossium shore. When the Senate commissioned Kostjyas Respite, they were eager to establish a town to support it. From that town, materials and goods could be imported and sent out into [[Ossium#Galath Fields|Galath Fields]] and [[Ossium#Nearweald|Nearweald]], making it a lot easier to build and expand the Varushkan vales established there. 
+
+Completing the port removed the ''under-developed'' quality from the region, making all future commissions across the whole territory that much cheaper. In theory, it should also have created new opportunities, to expand the docks at [[Semmerholm#Lacre|Lacre]] in [[Semmerholm]]; at [[Karov#Korotny|Korotny]] in [[Karov]]; and at [[Karsk#Ivarsgard|Ivarsgard]] in [[Karsk]]. There was even talk of the possibility to creating a similar dock in Misericorde or [[Holberg#Utterlund|Utterlund]], allowing the wealth of [[Holberg]] to spread across the Semmerlak. Unfortunately, around the same time the port was completed the [[Varushkan_Monster#Sovereigns|sovereign]] [[Dho'uala]] [[Underwater sunshine|awoke in the Semmerlak]]. So far, Kostjyas Respite has not been significantly molested by the underwater horror. How long that will be the case remains to be seen.
+
+The town itself is a typical Varushkan port, surrounding a fine docks. The quays are [[Varushka_hearth_magic#Wards|warded]]; each support post has a Varushkan shield nailed to it, lacquered and painted with a labyrinth design intended to make monsters become lost and confused if they try to approach. A thin silver chain runs the length of the entire shoreline within the town, each post carved to represent a glowering bearded face - modelled on Kostijya himself - that peer out across the waters. In the middle of the docks stands the hall of the Merchant Boyar of the Bittershore, which serves as a small armoury as well.
+
+Around the town is a white-granite wall with two gates, one to the north-east and one to the north-west. Beside each gate is a spacious road-inn, designed specifically for drovers and traders, with expansive stables for their ox-carts. At the heart of Kostjyas Respite is a spacious market square, connected to the docks and both gates by paved roads; it is here that traders come to bid for the materials imported from the other ports of the Semmerlak, ready for resale to the new vales of Ossium.
+
+{{RecentElections|Merchant_Boyar_of_the_Bittershore}}
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Bourse]]
+[[Category:Varushka]]

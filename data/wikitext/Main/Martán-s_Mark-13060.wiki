@@ -1,0 +1,8 @@
+{{stub}}
+==Description==
+These magical bows have proven to be incredibly useful for skirmishers and scouts. The [[Magic_items#Schema|schema]] was forged by '''Derowen''', as the [[Keeper of the Runegrott]] and disseminated to Imperial artisans at the Summer Solstice 387YE by '''Leofa de Courtenay-Wyldrose''' as the [[Citizens' Voice]].
+
+==Rules==
+{{Bows}}
+* '''Effect:''' Once per day you may use the [[Heroic_skills#Relentless|relentless]] skill as if you know it without spending any hero points.
+* '''Materials:''' Crafting a Martán's Mark requires nine measures of [[ambergelt]] and three ingots of [[weltsilver]]. It takes one month to make one of these items.

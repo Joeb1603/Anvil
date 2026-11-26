@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:387YE Winter]]
+__NOTOC__
+<quote by="Announced by Ada Droon, Mistress of Monuments">As Mistress of Monuments, I propose an edifice in Broken Rise, Reikos. This engraved white granite pillar would celebrate the Silent Bell sodality for their tireless work in defending the Empire and the Way. This will be fully funded by Anatolij Paukov Zorkin
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Broken Ride, Reikos
+* Announcement by the [[Mistress of Monuments]]
+
+==Date==
+* Winter 387YE
+
+==Cost==
+* Standard costs apply
+* 6 wains of white granite
+* 18 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Monument_to_Silent_Bell}}
+==Outcome==
+* 
+
+<!-- Nestled in the heart of the forest, a white-granite pillar stands, crested with a bell missing its clapper. Engraved at its base are the words, "to the Sodality of the Silent Bell, for their tireless work defending this Empire and furthering our knowledge of The Way."-->

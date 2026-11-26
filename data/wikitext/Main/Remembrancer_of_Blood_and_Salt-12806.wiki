@@ -1,0 +1,17 @@
+==Overview==
+The Remembrancer of Blood and Salt is an [[Imperial title]] awarded to a citizen of [[Wintermark]]. The motion to construct the Boughs of Blood and Salt was [[Construct Mana Sinecure in Kallavesa|passed]] by the [[Senate]] in Spring 386YE. The Remembrancer of Blood and Salt is responsible for protecting the Boughs of Blood and Salt and those who tend them.
+
+==Responsibilities==
+The Remembrancer of Blood and Salt has a responsibility to protect the Boughs of Blood and Salt. If the boughs, or those who tend them, were to be threatened in any way, it would be the responsibility of the Remembrancer to deal with those threats.
+==Powers==
+===Bounty of Crystals===
+The Remembrancer of Blood and Salt receives nine mana crystals a season from the Boughs of Blood and Salt.
+
+==Appointment== 
+The Remembrancer of Blood and Salt is appointed by unanimous decision of the [[Wintermark]] [[senator|senators]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by any citizen of Wintermark. The Remembrancer has [[tenure]], and serves until they die or step down. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Wintermark [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=FILE.png|caption=NAME, Remembrancer of Blood and Salt|align=left|width=400}}-->
+{{RecentElections|Remembrancer_of_Blood_and_Salt}}
+[[Category:Title]] 
+[[Category:Wintermark]]

@@ -1,0 +1,266 @@
+<div style="float:right; width: 600px; clear: right;">{{CaptionedImage|file=Senate WS383.jpg|align=right|width=600}}</div>
+==Overview==
+The [[Senate]] governs the Empire, and its authority extends to all areas of Imperial life not already covered by the other houses of government. Each summit the [[senator|senators]] meet several times to deliberate and vote on the [[Senate motion|motions]] they have raised. 
+
+After the summit the civil service enact those motions, and ensure a public record of each is made available to the citizens of the Empire. This page lists all the motions raised during the summit, along with the [[Senate announcement|announcements]] made by citizens with [[Imperial title|Imperial titles]]. In each case, the motion and its effects are summarised including the wording; who proposed and seconded it; whether it passed or not; whether any funds were disbursed to support it; and what the outcome of the motion will be.
+
+Many motions (especially the [[commission|commissions]]) also have a ''Further Details'' section that provides a link to a wiki page dealing specifically with that motion in more detail, any commentary from the [[Scrutiny|Constitutional Court]], progress on commissions, or expanded information about the outcome of the motion.
+
+==Treasury==
+* Imperial treasury during this season was announced by the civil service at 1994 thrones.
+* The following has been donated to the Imperial treasury:
+**56 thrones donated to the treasury by '''Kaspar Yakovitch von Holberg''' after the Winter Solstice 383YE
+**28 thrones donated to the treasury by '''Severin Teyhard von Holberg''' after the Winter Solstice 383YE
+
+__TOC__
+
+==Administrative Motions==
+Two administrative motions raised by the Constitutional Court were presented during the Winter Solstice.
+===Amend Crystal Architect of the Spires===
+* '''Motion:''' The Civil Service would like the Senate to confirm whether the Crystal Architect of the Spires can commission structures that provide vis, rather than only mana crystals. Raised by the [[Speaker for the Senate]].
+* '''Passed'''
+* '''Outcome:''' Changes the title of the [[Crystal Architect of the Spires]] so they may commission structures that provide [[vis]] in addition to mana crystals
+
+===Construct Trade Enclave in Axos===
+* '''Motion:''' The Civil Service would like the Senate to confirm whether the Empire should be responsible for the construction of the Trade Enclave in Axos, requiring a commission from the current season. Raised by the [[Speaker for the Senate]].
+* '''Passed'''
+* '''Outcome:''' Work on the [[Construct Trade Enclave in Axos|Trade Enclave in Axos]] will begin after the summit.
+
+==Senate Motions==
+===Allocate Ossium positions===
+* '''Motion:''' To make the spoils of war of Ossium, Varushkan national positions, appointed by the Varushkan senators, in the same way as appointing a General. Proposed by [[Karov#Recent_Senate_Elections|Karov]], Seconded by [[Volodmartz#Recent_Senate_Elections|Volodmartz]]
+* '''Passed'''
+* '''Outcome:''' [[Apothecary of Orieb]], [[Merchant-Boyar of the Stinking Market]], [[Cabalist of the Hollow Stone]], [[Keeper of the Bonehives]], [[Grieftender of the Forgotten]] are all available to appoint as Varushkan national positions.
+* '''Notes:''' More information on this motion can be found in the '''[[Thousands or more]]''' wind of fortune
+
+===Amend Imperial Orc Wayleave===
+* '''Motion:''' To amend the title of the Bearer of the Imperial Orc Wayleave such that the Bearer may use the wayleave to construct a spy network. Proposed by [[Casinea#Recent_Senate_Elections|Casinea]], Seconded by [[Hahnmark#Recent_Senate_Elections|Hahnmark]]
+* '''Passed'''
+* '''Outcome:''' The powers of the Imperial Orc Wayleave have been amended.
+* '''Notes:''' The name of the title was changed to [[Legion Engineer]] to help differentiate it from the other [[Bearer of an Imperial Wayleave|Wayleaves]]
+
+===Amend manifesto of the Silver Chalice===
+* '''Motion:''' To amend the manifesto of the Silver Chalice, removing the statement to "look into supporting long term efforts to aid the infrastructure (and foundations) of the Empire" Proposed by [[Redoubt#Recent_Senate_Elections|Redoubt]], Seconded by [[Karsk#Recent_Senate_Elections|Karsk]]
+* '''Passed'''
+* '''Outcome:''' The [[Silver_Chalice#The_Manifesto|manifesto]] of the Order of the Silver Chalice has been amended
+
+===Appraise fortifications in Urizen territory===
+* '''Motion:''' Motion to appraise the feasibility of creating fortifications in Urizen territory to better protect the nation. On behalf of the Architects of Stone at Delving in Redoubt. Proposed by [[Astolat#Recent_Senate_Elections|Astolat]], Seconded by [[Morrow#Recent_Senate_Elections|Morrow]]
+* '''Passed'''
+* '''Outcome:''' The appraisal will be delivered before the Spring Equinox 384YE
+* '''Notes:''' More information on this request from the Architects of Stone can be found in the '''[[Some_heavenly_music#The_Architects_of_Stone|Some heavenly music]]''' wind of fortune
+
+===Create titles of Champions of Virtue===
+* '''Motion:''' To create the titles of "Champion of" each virtue but Courage. Champion of Ambition, Champion of Prosperity, Champion of Loyalty, Champion of Vigilance, Champion of Pride, Champion of Wisdom. Appointed by their corresponding Virtue Assembly. Revoked by their Virtue Assembly or the Assembly of Nine. Term limit is a year, appointed at the Autumn summit. Proposed by [[Karsk#Recent_Senate_Elections|Karsk]], Seconded by [[Hercynia#Recent_Senate_Elections|Hercynia]]
+* '''Passed'''
+* '''Outcome:''' Creates six new Imperial titles
+* '''Notes:''' Though the titles were first elected at the Autumn Equinox 384YE the civil service exercised their right to [[New_Imperial_titles#Term|set the election schedule]] and have spread them out throughout the year.
+* '''Speaker's Note:''' This was the second motion seconded by the Senator for Hercynia at the Winter Solstice 383YE. The matter will be passed on to the magistrates as a matter of [[List_of_Criminal_Offences#Crimes_against_the_Processes_of_the_State|subverting the agencies of state]]
+
+===Disburse funds to Orrick of Bregasland===
+* '''Motion:''' Disbursement of funds to Orrick of Bregasland for military resupply. Proposed by [[Bregasland#Recent_Senate_Elections|Bregasland]], Seconded by [[Conscience of the Senate#Recent_Senate_Elections|Conscience of the Senate]]
+* '''Passed at 300 thrones'''
+* '''Outcome:''' 300 thrones disbursed to Orrick of Bregasland
+
+===Disburse funds to William Lowther===
+* '''Motion:''' To disburse Senate funds to William Lowther, Senator for Mitwold, for the purpose of purchase wains of weirwood and mithril to complete the enlargement of the Drakes, the first Marcher army. Proposed by [[Mitwold#Recent_Senate_Elections|Mitwold]], Seconded by [[Mournwold#Recent_Senate_Elections|Mournwold]]
+* '''Passed at 230 thrones'''
+* '''Outcome:''' 230 thrones disbursed to William Lowther
+
+===Excavate Gildenheim Runeforge===
+* '''Motion:''' To confirm that the runesmiths of Wintermark are the rightful heirs of the Gildermark Runeforge. This should allow the ruins to be carefully transported, preserved and removed to Runegrott in Hahnmark. Proposed by [[Bastion#Recent_Senate_Elections|Bastion]], Seconded by [[Kallavesa#Recent_Senate_Elections|Kallavesa]]
+* '''Passed'''
+* '''Outcome:''' Once the excavation of the ruins is complete the cost to construct a [[runeforge]] in Runegrott will be reduced by 30 wains of white granite and 60 crowns.
+* '''Further reading:''' [[Excavate Gildenheim Runeforge|here]]
+
+===Increase upkeep of Holberg===
+* '''Motion:''' To raise the upkeep of Holberg by 14 thrones each season to provide education to the Sand Fisher orcs. Proposed by [[Holberg#Recent_Senate_Elections|Holberg]], Seconded by [[Kahraman#Recent_Senate_Elections|Kahraman]]
+* '''Passed'''
+* '''Outcome:''' The upkeep of the territory of [[Holberg]] has been increased by 14 thrones each season
+* '''Notes:''' More information on the Sand Fishers' request can be found in the '''[[Across_the_Abyss#A_Seat_of_Learning|Across the Abyss]]''' wind of fortune
+
+===Ratify treaty with Thule===
+* '''Motion:''' To pass the Thule treaty. Proposed by [[Upwold#Recent_Senate_Elections|Upwold]], Seconded by [[Madruga#Recent_Senate_Elections|Madruga]]
+* '''Passed'''
+* '''Outcome:''' The regions of [[Miekarova#Miechernya|Miechernya]] in Miekarova, and [[Ossium#Webwood|Webwood]] in Ossium have been ceded to the Thule.
+* '''Further reading:''' [[Ratify treaty with Thule Winter 383YE|here]]
+
+===Request magistrates investigate smuggling===
+* '''Motion:''' To request that the magistrates focus their efforts on shutting down smuggling across the borders of the Brass Coast. A disbursement of 25 thrones is required. Proposed by [[Mournwold#Recent_Senate_Elections|Mournwold]], Seconded by [[Redoubt#Recent_Senate_Elections|Redoubt]]
+* '''Passed at 25 thrones'''
+* '''Outcome:''' 25 thrones disbursed to Senator for Mournwold. There will be an opportunity presented before the Spring Equinox 384YE.
+* '''Notes:''' More information on the issue of smuggling can be found in the '''[[All_at_sea#Smugglers|All at sea]]''' wind of fortune
+
+===Request magistrates investigate followers of Yaw'nagrah===
+* '''Motion:''' We have a chance to pull the threat of followers of Yaw'nagrah by the root. We instruct the magistrates to investigate the leads found by the Silent Bell to rid this threat from the Empire. Proposed by [[Miaren#Recent_Senate_Elections|Miaren]], Seconded by [[Therunin#Recent_Senate_Elections|Therunin]]
+* '''Passed'''
+* '''Outcome:''' The magistrates will work to root out the followers of [[Yaw'nagrah]] over the next six months. Every [[mana site]] in the Empire will suffer a loss of one mana crystal whilst the investigation takes place
+* '''Notes:''' More information on the opportunity presented by the investigation of the [[Silent Bell (Sodality)|Silent Bell]] can be found in the '''[[Faded_from_the_winter#Roots|Faded from the winter]]''' wind of fortune.
+==Appointments==
+===Ambassador to Axos===
+*'''Motion:''' To elect an Ambassador to Asavea. Proposed: [[Mournwold#Recent_Senate_Elections|Mournwold]], Seconded: [[Hercynia#Recent_Senate_Elections|Hercynia]].
+* '''Outcome:''' Tarquinius was appointed as [[Ambassador to Axos]]
+
+===Ambassador to the Iron Confederacy===
+*'''Motion:''' Motion to elect an Ambassador to the Iron Confederacy. Proposed: [[Segura#Recent_Senate_Elections|Segura]], Seconded: [[Tassato#Recent_Senate_Elections|Tassato]].
+* '''Outcome:''' Lord Colwynn de Rondell was appointed as [[Ambassador to the Iron Confederacy]]
+
+===Ambassador to Jarm===
+*'''Motion:''' To appoint an Ambassador to Jarm. Proposed: [[Necropolis#Recent_Senate_Elections|Necropolis]], Seconded: [[Temeschwar#Recent_Senate_Elections|Temeschwar]].
+* '''Outcome:''' Gelert Ashborn was appointed as [[Ambassador to Jarm]]
+
+===Imperial Throne===
+*'''Motion:''' Motion to elect a Throne. Proposed: [[Conscience_of_the_Senate#Recent_Senate_Elections|Conscience of the Senate]], Seconded: [[Bregasland#Recent_Senate_Elections|Bregasland]].
+* '''Outcome:''' None elected
+
+===Ambassador to Otkodov===
+*'''Motion:''' To appoint an Ambassador to the Thule. Proposed: [[Morrow#Recent_Senate_Elections|Morrow]], Seconded: [[Miekarova#Recent_Senate_Elections|Miekarova]].
+* '''Outcome:''' [[Ambassador to Otkodov]] will be appointed as first order of business during the Spring Equinox.
+
+===Ambassador to Commonwealth===
+*'''Motion:''' To appoint an Ambassador to the Commonwealth. Proposed: [[Therunin#Recent_Senate_Elections|Therunin]], Seconded: [[Upwold#Recent_Senate_Elections|Upwold]].
+* '''Outcome:''' [[Ambassador to the Commonwealth]] will be appointed as first order of business during the Spring Equinox.
+
+==Commissions (Senate)==
+===Amend Guardian of Britta's Shrine===
+* '''Motion:''' To alter Britta's shrine into a place of pilgrimage for pilgrims of Courage in accordance with Synod Judgement 48 383YE Winter of the Highborn National Assembly. This amends the title of Guardian of Britta's Shrine to Guardian of Britta's Memorial and is to be appointed by the Assembly of Courage yearly at the Spring Equinox. Proposed by [[Reikos#Recent_Senate_Elections|Reikos]], Seconded by [[Necropolis#Recent_Senate_Elections|Necropolis]]
+* '''Withdrawn'''
+
+===Amend Guardian of Britta's Shrine II===
+* '''Motion:''' To amend the title of "Guardian of Britta's Shrine" to "Guardian of Britta's Memorial". This will be elected by the Assembly of Courage, revocable by the Assembly of Courage and the General Assembly. This will repurpose the tomb into a site of pilgrimage for pilgrims of Courage. Title holder responsible for safeguarding the site. Proposed by [[Skarsind#Recent_Senate_Elections|Skarsind]], Seconded by [[Astolat#Recent_Senate_Elections|Astolat]]
+* '''Passed'''
+* '''Outcome:''' Once work on the memorial is completed the title of [[Guardian of Britta's Memorial]] will be available to be appointed by the Assembly of Courage
+* '''Further reading:''' [[Amend Guardian of Britta's Shrine|here]]
+* '''Notes:''' This motion followed an [[#Amend Guardian of Britta's Shrine|earlier]] withdrawn motion. More information on this motion can be found in the '''[[Daughters_of_the_Empire#Mistress_of_the_Empire|Daughters of the Empire]]''' wind of fortune
+
+===Construct Arbor of the Twin Roses===
+*'''Motion:''' To commission a sinecure "The Arbor of the Twin Roses" in Semmerholm to honour the exemplar Elayne Silverlark. Creating the position "The Voice of the Twin Roses" elected annually by the Dawnish National Assembly. Revocable by the Dawnish National Assembly. Self-funded. Proposed: [[Weirwater#Recent_Senate_Elections|Weirwater]], Seconded: [[Reikos#Recent_Senate_Elections|Reikos]].
+* '''Passed'''
+* '''Outcome:''' Constructs a [[sinecure]] in [[Semmerholm]] as per the  '''[[Draw_strength_from_vulnerability#Roses|Draw strength from vulnerability]]''' wind of fortune
+* '''Further reading:''' [[Construct Arbor of the Twin Roses|here]]
+
+===Construct Cathedral of the Navigators===
+*'''Motion:''' Construct the Cathedral of the Navigators, a Temple of the Way, in the Sarcophan Delves, creating the title "Bishop of the Navigators". Appointment to be through the General Assembly of the Synod. Proposed: [[Temeschwar#Recent_Senate_Elections|Temeschwar]], Seconded: [[Casinea#Recent_Senate_Elections|Casinea]].
+* '''Passed at 50 thrones'''
+* '''Outcome:''' Constructs a Temple of the Way in the [[Sarcophan Delves]] as detailed in the '''[[All_at_sea#The_Temple_of_the_Way_in_Sarcophan|All at sea]]''' wind of fortune
+* '''Further reading:''' [[Construct Cathedral of the Navigators|here]]
+
+===Construct College of Maykop===
+*'''Motion:''' To build the College of Maykop in Casinea. Proposed: [[Volodmartz#Recent_Senate_Elections|Volodmartz]], Seconded: [[Ossium#Recent_Senate_Elections|Ossium]].
+* '''Passed'''
+* '''Outcome:''' Constructs a campus for the Halls of Maykop in [[Casinea]] as detailed in the '''[[A_mountain_of_vipers#A_Scholarly_Overture|A mountain of vipers]]''' wind of fortune
+* '''Further reading:''' [[Construct College of Maykop|here]]
+
+===Expand Georgie's House===
+*'''Motion:''' To permit the expansion of Georgie's House in Holberg by acquisition of adjacent properties. This will increase the revenue of the sinecure by 100r by allowing the business to sell to clients across the Empire. No rat shall be henceforth safe! No construction slot is required. Self funded by the Withering Gaze. Proposed: [[Ossium#Recent_Senate_Elections|Ossium]], Seconded: [[Sarvos#Recent_Senate_Elections|Sarvos]].
+* '''Passed'''
+* '''Outcome:''' Expands the [[Custodian_of_the_Kennels#Kennels_of_Holfried|Kennels of Holfried]] to take advantage of the increase in demand as detailed in the '''[[A_health_to_the_company#Powerful_Big_Rats|A health to the company]]''' wind of fortune
+* '''Further reading:''' [[Construct expansion of Georgie's House|here]]
+* '''Note:''' This did not count towards the [[Commission#Maximum_Commissions_Available|limit]] on commissions
+
+===Construct Healing House of Wittal Grove===
+*'''Motion:''' To permit the build of a great work, Healing House of Wittal Grove in Wittal, Kallavesa, to benefit herb garden owners. Costs: 56 wains of weirwood and 14 thrones in labour. Proposed: [[Kallavesa#Recent_Senate_Elections|Kallavesa]], Seconded: [[Mitwold#Recent_Senate_Elections|Mitwold]].
+* '''Passed at 328 thrones'''
+* '''Outcome:''' Constructs a [[great work]] as detailed in the '''[[All_lift_together#Healing_House_of_Wittal_Grove|All life together]]''' wind of fortune
+* '''Further reading:''' [[Construct Healing House of Wittal Grove|here]]
+* '''Note:''' This did not count towards the [[Commission#Maximum_Commissions_Available|limit]] on commissions
+* '''Constitution:''' Discussion with Senator Kallavesa confirmed the intent to create the title [[Grimnir of Wittal Grove]] with the intent that "the title ... is intended specifically to be held by a grimnir". The commission will go ahead but an administrative motion will be raised to allow the Senate to abrogate the title if they wish. Should they do so, this will create significant problems with the grimnir of Wintermark who have committed their time and resources to supporting the House. The [[384YE_Spring_Equinox_Senate_sessions#Abrogate_Grimnir_of_Wittal_Grove|administrative motion]] was raised and failed.
+
+===Construct Imperial Consulate===
+*'''Motion:''' That there be a dispersal of funds to commission and fund the creation of the Imperial Consulate building in Tassato Proposed: [[Tassato#Recent_Senate_Elections|Tassato]], Seconded: [[Hercynia#Recent_Senate_Elections|Hercynia]].
+* '''Passed at 250 thrones'''
+* '''Outcome:''' Constructs an Imperial Consulate as detailed in the '''[[All_the_news_from_Twin_Town#Establishing_the_Consulate|All the news from Twin Town]]''' wind of fortune
+* '''Further reading:''' [[Construct Imperial Consulate|here]]
+
+===Construct Kauppahall===
+*'''Motion:''' To construct Kauppahall and the title "The Talon of Kauppahall" to be appointed annually unanimously by Wintermark senators. This will allow the purchase of white granite and a small amount of ilium. Costs 16 wains weirwood and 32 crowns. Proposed: [[Hahnmark#Recent_Senate_Elections|Hahnmark]], Seconded: [[Skarsind#Recent_Senate_Elections|Skarsind]].
+* '''Passed at 84 thrones'''
+* '''Outcome:'''  Constructs a trading hall in [[Hahnmark]] as detailed in the '''[[Apples_from_a_tree#A_Troll.27s_Shadow|Apples from a tree]]''' wind of fortune
+* '''Further reading:''' [[Construct Kauppahall|here]]
+* '''Constitution:''' As detailed in the opportunity, the constitutional method to appoint this title is through the Imperial Bourse. It is not constitutional to appoint a title via the Imperial Senate if that position is primarily concerned with the acquisition of bourse resources. The Constitutional Court will raise an administrative motion; that the Senate amend the title of [[Talon of Kauppahall]] to be appointed via [[Tally of the Votes]]. if they do so the title can be appointed during the summit. The [[384YE_Spring_Equinox_Senate_sessions#Amend_Talon_of_Kaupphall|administrative motion]] was raised and passed.
+
+===Construct Lyceum Schloss===
+*'''Motion:''' To permit the Commonwealth to build a schloss on the island east of Siroc - Madruga and to cede the schloss to the Commonwealth. Proposed: [[Madruga#Recent_Senate_Elections|Madruga]], Seconded: [[Karov#Recent_Senate_Elections|Karov]].
+* '''Passed'''
+* '''Outcome:''' Authorises the [[Commonwealth]] to construct a schloss for their citizens who are visiting the Lyceum and cedes the structure to the Commonwealth as per the '''[[Large_but_far_away#Commonwealth|Large but far away]]''' wind of fortune.
+* '''Further reading:''' [[Construct Lyceum Schloss|here]]
+* '''Note:''' This did not count towards the [[Commission#Maximum_Commissions_Available|limit]] on commissions
+
+===Construct Parador of Dust===
+*'''Motion:''' To refurbish the Parador of Dust in the Jade Range, Kahraman as a mithril ministry. A commission to create the title Mistress of the Dust Parador with the power to purchase mithril and the responsibility to use it for the benefit of the Freeborn people. The title will be appointed through the bourse. Self funded. Proposed: [[Kahraman#Recent_Senate_Elections|Kahraman]], Seconded: [[Holberg#Recent_Senate_Elections|Holberg]].
+* '''Passed'''
+* '''Outcome:''' Constructs a [[ministry]] in [[Kahraman]] as per the '''[[Four_strong_winds#The_Parador_of_Dust|Four strong winds]]''' wind of fortune
+* '''Further reading:''' [[Construct Parador of Dust|here]]
+
+===Construct Sweetwater Springs===
+*'''Motion:''' To disburse funds for and to construct the Sweetwater Springs, a series of wells and fountains in Sarvos for protection against fire. This is a great work and does not create an Imperial position. Proposed: [[Sarvos#Recent_Senate_Elections|Sarvos]], Seconded: [[Bastion#Recent_Senate_Elections|Bastion]].
+* '''Passed at 150 thrones'''
+* '''Outcome:''' Constructs a [[great work]] in [[Sarvos]] as per the '''[[The_DOOM_that_came_to_Sarvos#Rising_Flames|The DOOM that came to Sarvos]]''' wind of fortune
+* '''Further reading:''' [[Construct Sweetwater Springs|here]]
+
+===Construct the Tenebrous Path===
+*'''Motion:''' To commission a sinecure "The Tenebrous Path" in Hercynia Old Ranging, with the title of "Wisdom of the Tenebrous Path". Self-funded at ten wains of Mithril. To be appointed yearly as a Navarr National position at the Spring Summit by the Military council. The vallorn are the greatest spiritual threat to the Empire, and with the Senate's wisdom, we are building the first army specifically to fight it. Isaella's dance will muster at Miaren in the coming summer. An army is a ship without a rudder, an arrow without a bow without an intent to wield it. This proposed sinecure is to inspire wisdom to the Thorns of Navarr to those who desire to wield a General's banner. This Senate's duty is not to the titles of this room but to the people we serve. Proposed: [[Hercynia#Recent_Senate_Elections|Hercynia]], Seconded: [[Semmerholm#Recent_Senate_Elections|Semmerholm]].
+* '''Passed'''
+* '''Outcome:''' Constructs a [[sinecure]] in [[Hercynia]] that produces mana crystals
+* '''Further reading:''' [[Construct the Tenebrous Path|here]]
+
+===Construct Manor of Greenwood===
+*'''Motion:''' To commission the construction of "The Manor of the Greenwood" and also endorse and expand the Greenforest Market in Semmerholm. This is a single build slot. Creating a sinecure "Knight of the Greenwood" for a noble titleholder and a ministry "Reeve of the Greenforest Fair" for a yeofolk. Both to be elected annually by unanimous vote of the Senators of Dawn. Revocable by National Assembly of Dawn Self-funded. Proposed: [[Semmerholm#Recent_Senate_Elections|Semmerholm]], Seconded: [[Weirwater#Recent_Senate_Elections|Weirwater]].
+* '''Failed'''
+
+==Commissions (Announcement)==
+===Construct Broken Shore Mithril Market===
+*'''Motion:''' I, Octavius of Damakan's Forge, request the commission of the ministry the Broken Shore Mithril Market to be built in Cargo for the purpose of exchanging weirwood for mithril. The position of Broker of the Broken Shore is to be appointed by the Tally of Votes by Urizen national mana site holders, to be appointed on a yearly basis. The commission is self funded
+* '''Announced:''' by Octavius of Damakan's Forge, [[Bearer of an Imperial Wayleave]]
+* '''Outcome:'''  Constructs an expansion of the docks in Cargo to allow trade with the [[Grendel]] for mithril in exchange for weirwood as per the '''[[Everything_has_a_price#Metal_For_Wood|Everything has a price]]''' wind of fortune
+* '''Further reading:''' [[Construct the Broken Shore Mithril Market|here]]
+
+===Repair the Basilica of the Little Mother===
+*'''Motion:''' Repair the Basilica of the Little Mother
+* '''Announced:''' by Cesare Enzo Di Trivento, [[Bearer of an Imperial Wayleave]]
+* '''Outcome:'''  Commissions the repair of the Basilica of the Little Mother as per the '''[[Three_celebrations_and_a_funeral#Repairing_the_Basilica|Three celebrations and a funeral]]''' wind of fortune
+* '''Further reading:''' [[Repair the Basilica of the Little Mother|here]]
+
+===Construct spy network in Feroz===
+*'''Motion:''' To construct a spy network in Feroz
+* '''Announced:''' by Ka'bal, [[Legion Engineer]]
+* '''Outcome:''' Constructs a [[spy network]] in [[Feroz]] as per the '''[[Bones_in_the_ocean#A_Cuckoo.27s_Egg|Bones in the ocean]]''' wind of fortune
+* '''Further reading:''' [[Construct spy network in Feroz|here]]
+
+===Construct Runic Hearth of Adamant===
+*'''Motion:''' I am Sagua i'Ezmara, Master of the Koboldi. This season the Koboldi will be working on the Runic Hearth of Adamant. This will be a door at the bottom of Lorenzo's Deep Pockets to prevent trogoni amassing an army to threaten Hahnmark, Temeschwar, Upwold and Miaren. This will cost 10 mithril, 25 green iron and 25 orichalcum. The resources will be provided by Torbrytan Dunning, Delver of the Depths, and Brianne Stormborn.
+* '''Announced:''' by Sagua i'Ezmara, [[Master of the Koboldi]]
+* '''Outcome:''' Constructs a ward against the [[trogoni]] as detailed in the '''[[Stone_and_stone#The_Red_Iron_Door|Stone and stone]]''' wind of fortune.
+* '''Further reading:''' [[Construct Runic Hearth of Adamant|here]]
+* '''Note:''' This did not count towards the [[Commission#Maximum_Commissions_Available|limit]] on commissions
+
+==Announcements==
+===Apportion Guerdon===
+*'''Motion:''' The Guerdon to be applied to the following for the coming season: Bregasland, Hercynia, and the armies of the Strong Reeds, Bloodcloaks, Summer Storm and Wolves of war. Wains gained in battle are on Strong Reeds for resupply
+* '''Announced:''' by Brendan Brackensong, [[Quartermaster General of the Imperial Armies]]
+* '''Note:''' The civil service note that neither Hercynia nor Bregasland are recognized as Imperial armies or military opportunities, therefore the instruction to apply the Guerdon to these armies/opportunities has been ignored.
+
+===Research Doctrine of Human Destiny===
+*'''Motion:''' To conduct Historical Research into the context, politics, rationale and personalities pertinent to the formulation and ratification of the Doctrine of Human Destiny
+* '''Announced:''' by Severin von Holberg, [[Minister of Historical Research]]
+* '''Outcome:''' [[Historical research]] on the matter was delivered to the Minister at the Spring Equinox 383YE and is [[On the Doctrine of Human Destiny|now available]]
+
+===Research the origins of the Feni===
+*'''Motion:''' Research the origins of the Feni people and their contact with or links to other contemporaneous peoples or civilisations
+* '''Announced:''' by Watt of Lambrook, [[Imperial Advisor for the Feni]]
+* '''Outcome:''' [[Historical research]] on the matter was delivered to the Imperial Advisor for the Feni at the Spring Equinox 383YE and is [[Feni#Origins_of_the_Feni|now available]]
+
+===Repair the Tower of the Scorpion===
+*'''Motion:''' Announcement by the Master of Works to repair the fort of the Tower of the Scorpion in Ossium
+* '''Announced:''' by Marley of Treen, [[Imperial Master of Works]]
+* '''Outcome:''' Allows [[Fortification#Emergency_Repair|emergency repair]] of the Tower of the Scorpion at standard costs
+
+===Decommission Ossium spy network===
+*'''Motion:''' Deconstruct the spy network in Ossium
+* '''Announced:''' by Cayleb of Felix's Watch, [[Imperial Spymaster]]
+* '''Outcome:''' Decommissions the [[spy network]] active in the territory of [[Ossium]]
+* '''Further reading:''' [[Decommission Ossium spy network|here]]
+
+[[Category:Senate]]
+[[Category:Senate Sessions]]
+[[Category:383YE Winter]]

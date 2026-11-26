@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:385YE Autumn]]
+__NOTOC__
+<quote by="Announced by D'ardante, Bearer of an Imperial Wayleave">To build the School of Hard Knocks in Temeschwar, using 20 wains of white granite. Creating the title 'Maestro of Wolves' appointed by unanimous decision of League senators.</quote>
+==Overview==
+* Constructs a [[sinecure]] in [[Temeschwar]]  as per the opportunity presented in the '''[[Schools_and_sawmills#School_of_Hard_Knocks|Schools and sawmills]]''' wind of fortune.
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+==Date==
+* Autumn 385YE
+==Cost==
+* Standard costs apply
+* 20 wains of white granite
+* 60 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|School_of_Hard_Knocks_in_Temeschwar}}
+==Outcome==
+* Now complete the [[Master of the Sword Academy of Temeschwar]] will be available to be elected by the [[senator|senators]] of [[the League]] for the first time at the Winter Solstice 385YE

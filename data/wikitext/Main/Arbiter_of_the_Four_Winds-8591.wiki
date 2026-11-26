@@ -1,0 +1,32 @@
+<div style="float: left; width: 250px;">{{CaptionedImage|file=Aspar-Watercolor.jpg|caption=The first Arbiter of the Four Winds was appointed during the Summer Solstice 383YE|align=left|width=250}}</div>
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Urizen.png|caption=This title is appointed by the Urizen Assembly|width=250px}}</div>
+The Arbiter of the Four Winds is an [[Imperial title]] awarded to a citizen of [[Urizen]]. The motion to convert the Temple of the Four Winds into the Monastery of the Four Winds was [[Convert the Temple of the Four Winds|passed]] by the [[Senate]] in Autumn 386YE. The Arbiter of the Four Winds is expected to facilitate the discussion of the Way, encouraging debate and inquiry into spiritual matters across the Empire. The title was created as a result of an opportunity presented in the '''[[Thresher%27s_summer#A_New_Monastery|Thresher's summer]]''' wind of fortune.
+
+Originally created when the Temple of the Winds was [[Construct_Temple of the Winds|commissioned]] in Summer 382YE, construction was delayed during the [[382YE_Autumn_Equinox_winds_of_war#Lost_in_the_Echo_.28Morrow.29|invasion of the Druj]] the next season. The [[orc|orcs]] sacked the building site, slaying a great many [[Sword scholar|sword scholars]] in the process. The project was halted, and did not resume until the following year, following the [[383YE_Spring_Equinox_winds_of_war#Morrow|liberation of Peregro]]. The reconstruction was completed shortly before the Summer Solstice 383YE.
+__TOC__
+During the Spring Equinox 386YE, the Senator for [[Kahraman]], '''Delara i Fijadoz i Guerra''', raised a [[386YE_Spring_Equinox_Senate_sessions#Abrogate_Temple_of_the_Four_Winds|motion]] to abrogate the original motion to construct the temple and create the title, which was upheld by the Imperial Senate. More information on the circumstances leading up to the [[Powers_of_the_Imperial_Senate#Abrogation|abrogation]] can be found in the '''[[Broken_sword#Shadow_of_the_Temple|Broken sword]]''' wind of fortune.
+
+==Responsibilities==
+The Arbiter of the Four Winds serves to ensure the safety of the monastery and its guests and facilitate the discussion of the Way, encouraging debate and inquiry into spiritual matters. If the Monastery of the Four Winds, or those visiting the monastery, were to be threatened then it would be the responsibility of the Arbiter to deal with those threats.
+
+==Powers==
+===A Portion of Liao===
+The sinecure provides twelve doses of [[liao]] to the Arbiter of the Four Winds each season.
+
+===Prosperous Gardens===
+The Monastery of the Four Winds has extensive orchards and gardens tended by Marcher monks drawn to the monastery by vigorous debate. Fruit crops as well as flowers and herbs from the gardens are sold across Peregro, and the Arbiter receives eight crowns a season from the profits.
+
+The Monastery of the Four Winds benefits from a synergy with the [[Keeper of the Study|Landskeeper's Study]]. For as long as the study remains in good standing the income from the orchards and surrounding gardens is increased by four crowns, included above.
+
+==Appointment== 
+The Arbiter of the Four Winds is [[appointment|appointed]] at the Winter Solstice by the Urizen [[National assembly]]. 
+
+The title can be held by any Urizen citizen. The Arbiter of the Four Winds serves until the next election, or until they die, step down, or are revoked. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Urizen [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+<!--{{CaptionedImage|file=LastArbiterFourWinds.png|caption='''Herminius of the House of the Wanderer''', Arbiter of the Four Winds|align=left|width=200}}-->
+{{RecentElections|Arbiter_of_the_Four_Winds}}
+
+[[Category:Urizen]]
+[[Category:Synod]]
+[[Category:Title]]

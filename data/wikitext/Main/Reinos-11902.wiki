@@ -1,0 +1,75 @@
+[[Category:Gazetteer]][[Category:Jotun]]
+{{CaptionedImage|file=ReinosRegions.png|align=left|caption=Reinos was mapped out by Imperials after the Summer Solstice 386YE|width=500}}
+==Overview==
+Reinos is one of two territories colloquially referred to as the Lasambrian Hills along with Arbonne to its south. While it ultimately owes its fealty to Gudmundr Arason, King of Narkyst and Jarl of Jarls, in practice it is governed by the Hierro, the Corazón, and the Escuta. Much of the west of the territory is dominated by a massive mountain range known to the locals as the Balankas. In the north and southeast these give way to fertile lowlands well-suited to farming and cattle ranching, which supply much of the territory's food. It borders [[Liathaven|Ashvale]] and an unknown Jotun territory; Arbonne and an unknown Suranni territory; [[Kahraman]] and [[Segura]] of [[the Brass Coast]]; and two unknown territories to the west.
+
+Settlements within Reinos are clustered around the northern and southern borders, with the central regions being more sparsely populated and less strongly controlled. Most settlements are built within strong stone walls, and life outside of these semi-fortified towns is fraught with the risk of attacks by the dire beasts that reside in the central mountains.
+
+==Points of Interest==
+===Grismont Township===
+The largest settlement in Reinos is nestled between the headwaters of the Scorrero. Despite this it is small even by the standards of most Imperial settlements, being approximately the same size as Sybella in Bastion. Much of the township's population is seasonal and travels in to access Grismont's defining feature; a large central marketplace. Those who make their permanent homes there are largely concerned with protecting the numerous inns and maintaining the tall walls that surround the township. While clearly old-fashioned in their construction, the defences are still solid and more than enough to deter the dire beasts that otherwise might find it a tempting target.
+
+===Cantera Balanka===
+Close to the border with Liathaven to the north and the Jotun territory to the west is a large white granite quarry. The workers and overseers of this quarry hold themselves apart from the Lasambrians; flying the pennants of the King of Narkyst. Much of the white granite is moved out of Reinos to contribute to whatever projects the Jotun are undertaking elsewhere, though it seems that the occasional wain is traded to the locals for a high price. There is a clear tension between the workers and the locals, but this rarely escalates into more than irritable remarks.
+
+Estimates suggest the quarry provides 22 wains of white granite each season.
+
+===Arena of Virtue===
+The foothills of Bastasor, on the border with Ribeira hold a peculiar gathering place. Stepped seats have been carved out around a central point at the base of the stone, which have been shaped in such a way as to reflect and amplify the voices of any speakers who stand there. Several large camps have been set up in and around this place, where the wisest and most spiritual of the Lasambrians debate the nature of virtue and the role of faith within society.
+
+===Getshal===
+Getshal squats on the Getterhorn; northernmost of the Balankas watches over Cantera Balanka. The fortification's garrison is commanded by Jarl Geir, known affectionately by eir followers as 'the Goat' for eir unbreakable stubbornness. Rumours suggest that the interior walls of Getshal are marked with script; exploits and accomplishments of the garrison stretching back generations. Getshal appears to have been built up over an existing fortification when the Jotun claimed Reinos.
+
+===Yegarra's Proof===
+Yegarra's Proof dominates the Torval Pass between Cimeira and Chaveiro. Unusually, the garrison here is made up entirely of human yegarra - even their commander. Local rumours depict them as deeply spiritual with many ghodi among their number. They live a life of discipline and religious practice that seems to have more in common with that of a rigid Highborn chapter than a Jarl's hall.
+
+===The Tiding===
+A small walled feasting hall in the hills of Corghosa. This hall is under the control of a group of human yegarra known as the Tiding. The hall's owner is Jarl Vigdis, an eccentric figure who fights under the banner of a magpie. The Tiding seem to be on good terms with their Lasambrian neighbours, especially the warriors of the Corazón. The two groups frequently cooperate to exact the heavy tolls from Faraden merchants looking to trade with the Empire, and Vigdis regularly plays host to the Lasambrian priests, who seem to be attempting to convert the Tiding to the Virtues. There is nothing to suggest that the Tiding have any connection to the garrison of Yegarra's Proof.
+
+===Leskill Township===
+The second largest settlement in Reinos is, in many ways, very similar to its northern twin in Grismont. White stone walls surround a sparsely populated settlement mostly concerned with a grand central marketplace and the assorted inns and houses of hospitality set up to cater to the traders who attend it. Despite (or perhaps because of) this, the people of Leskill Township seem quite concerned with maintaining a distinct identity of their own. Many stalls are taken up by hunters, keen to show off the spoils of their adventures in the woods of Fleizo. There is a small but thriving community of apothecaries and physicks who claim to be able to produce cures for any ailment from the right parts of the right beast, and influential Lasambrians will travel long distances to avail themselves of these services in times of hardship.
+
+===The Shattered Mask===
+A circle of stones - inlaid with mithril - surround a statue of a shattered masked face in Cimeira. The mithril inlays have intricate etchings of the stars of the Chain and Spider constellations surrounded by delicate, labyrinthine markings. Lasambrian magicians are seen to gather here in great numbers, but it is unknown what the purpose of the circle or the statue is.
+
+===Crown of Bastasor===
+The Crown of Bastasor is a large lake that is the "start" of the Scorrero proper and is fed by snowmelt from the Balankas mountains. It is often used as a place of negotiation; with a common tradition of drinking water from the Crown when starting negotiations.
+
+==Strategic Considerations==
+The Balankas mountains prevent easy movement through the territory. An army cannot travel over the mountains, instead having to go north or south to reach Corghosa or Flareizo. It is not possible for an army to attack from either Chaveiro or Bastasor into Flareizo or Corghosa and vice versa. It is possible for an army in Chaveiro to attack into Cimeira - and vice versa - but the fortification of Yegarra's Proof controls the only pass through the mountains.
+{{CaptionedImage|file=Reinos basic.png|align=right|caption=Map with the region borders|width=200}}
+==Regions==
+===Pedreira===
+Pedreira is dominated by the fortress of Getshal. To the north - near Ashvale and the unknown Jotun territory to the west - lies the Cantera Balanka; the open-air quarry that produces white granite for the King of Narkyst and Jarl of Jarls. Wide stone roads, built in a similar style to those in Hordalant, ease wagon travel throughout the region. They are patrolled and maintained by small groups of Lasambrians and see extensive use by traders from Faraden as well as Jotun from Ashvale and to the west.
+
+===Ribeira===
+'''Quality:''' Hills<br>
+Across the border from Gambit lies Ribeira; with scarce settlements aside from those that care for groves of olives and fig trees. The northmost source of the Scorrero orginates in the hills that extend into the region from Kahraman. 
+
+===Bastasor===
+'''Quality:''' Hills<br>
+Bastasor is home to the nearest thing that the Lasambrians have to a city, Grismont Township. The region has by far the largest population of the territory and the hills make excellent grazing for sheep and goats. The Crown of Bastasor is high in the hills; a lake rich in fish that is fed by snowmelt from the mountains and in turn feeds the Scorrero. Here also is the Arena of Virtue, where matters of faith and virtue are discussed in great detail. Each time the Lasambrians have led invasions into Kahraman and Segura their generals have received the blessing of pastors in the Arena.
+
+===Corghosa===
+'''Quality:''' Hills<br>
+Corghosa is home to the Tiding; a group of yegarra who appear to operate with a surprising amount of autonomy. By all accounts the region was granted to Gudmundur Arason to Jarl Vigdis for their exemplary service during the campaign in Menendram. This is usually the first region that Faraden traders enter in Jotun territory and the Tiding exact heavy tolls to allow them safe passage through to the Brass Coast and the greater Empire. These tolls and tithes are responsible for funding the excellent equipment of the Tiding.
+
+===Flareizo===
+'''Quality:''' Hills, Forest<br>
+Flareizo is the wildest part of Reinos. The foothills here give way to a vast untamed forest filled with dire beasts and other monsters. There are no permanent settlements in the region, though there are a number of temporary camps made up of yegarra and young Lasambrians. These warriors are encouraged to spend time in the forest upon taking the "choice" and becoming warriors. Rumours persist amongst the inhabitants of Reinos that the monsters that dwell within the forest are far more than simple beasts; that they are merciless and ruthlessly cunning. 
+
+Every other year a caravan of Faraden merchants will attempt to avoid the tolls that await them in Cimeira or Corghosa and try to cut through the forest and across the mountains. The few that make it out of the forest are often as not traumatised by whatever they have encountered in there. 
+
+===Chaveiro===
+Chaveiro is by far the flattest part of the territory. Cenotes are scattered across the region; sudden openings in the earth that reveal deep underground freshwater pools. These are treated with great respect by the Lasambrians; the ready access to fresh, potable water allows the farms in the south to thrive. Families are scattered across Chaveiro, usually clustered in small communities surrounded by farmland. Every single community has a small patch dedicated to the cultivation of madder; the roots of which are used for the distinctive Lasambrian orange.
+
+===Cimeira===
+'''Quality:''' Hills<br>
+Southwest of Chaveiro – through the Torval Pass in the Balankas – lies Cimeira. To the south and east lies the Iron Confederacy, to the west is Faraden. The region has a number of small villages - all with the high walls common in the territory – that welcome traders, both Faraden and Suranni. A tradition has sprung up in the last few years of "venturing north"; where someone coming of age journeys into the wild forest of Flareizo for a week or two. There are some few Faraden caravans who opt to take the southern route to the Empire – especially those who trade regularly in Anduz and with the Faraden ambassador but most prefer the northern journey.
+
+==OOC Notes==
+* As of the start of the Summer Solstice 387YE, every region of Reinos belongs to the Lasambrian Jotun; this is a Jotun territory
+* [[#Getshal|Getshal]] is a rank two [[fortification]] in Pedreira
+* [[#Yegarra's Proof|Yegarra's Proof]] is a rank one fortification in Cimeira
+
+{{Lasambrian Links}}

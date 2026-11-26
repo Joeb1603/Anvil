@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:386YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Ossium, Seconded: Volodmartz">To upgrade the Bone Hives. To both improve the structures of the hives and to provide the Amber Scorpion, who work the hives, with housing. Total cost is 26 weirwood and <s>52</s> 78 crowns.</quote>
+==Overview==
+* Expands the [[Keeper_of_the_Bonehives#The_Bone_Hives|Bone Hives]] as per the '''[[Thousands_or_more#Secrets_of_the_Bonehives|Thousands or more]]''' wind of fortune
+* Passed
+
+==Date==
+* Autumn 386YE
+
+==Cost==
+* Costs as per opportunity
+* 26 weirwood
+* 78 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Expand_the_Bone_Hives}}
+==Outcome==
+Now complete the [[Keeper of the Bonehives]] receives an additional dose each season of ''Flickerbright'', ''Stormspark'', and ''Fireheart''. They have also gained access to a ministry to allow them to purchase additional doses of the substances, and give them access to the rare ''Slumbersting''.

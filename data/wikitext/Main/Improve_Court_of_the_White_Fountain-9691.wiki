@@ -1,0 +1,20 @@
+{{stub}}
+[[Category:Senate Motion]][[Category:384YE Spring]]
+__NOTOC__
+<quote by="Announced by Sagua i'Ezmara, Master of the Koboldi">I, Sagua i'Ezmara, Master of the Koboldi, am announcing the plans to improve the Court of the White Fountain in Redoubt in order to make it unbreakable. Edmundo of Damakhan's Forge has agreed to supply the ilium required. Cato Auricspire of the Scarlet Guard is organising the casting of the ritual on its completion. As part of this improvement there will be a small office and suit of rooms provided for the Captain of the Fountain's Guard, a tenured national position chosen by the general(s) of Urizen. This title will be responsible for the fortress and the morale and training of the guards stationed there.</quote>
+==Overview==
+* Improves the [[Redoubt#The Court of the White Fountain|Court of the White Fountain]] in [[Redoubt]] with the assistance of the [[eternal]] [[Adamant]].
+* This special [[opportunity]] is detailed in the '''[[Stone_and_stone#Girdle_the_Flame|Stone and stone]]''' wind of fortune.
+* Announcement by [[Master of the Koboldi]].
+
+==Date==
+* Spring 384YE
+==Cost==
+* As detailed in Wind of Fortune
+* 10 rings of [[ilium]]
+* Three months to complete
+==Progress==
+{{CommissionProgress|Improve_the_Court_of_the_White_Fountain}}
+==Outcome==
+* TBC
+<!--In the Officer's Mess Hall, I would like there to be a frieze of Urizeni warriors, life size at the front with smaller ones behind to tiny ones with faces the size of thumbs etc... But also tucked to sides, not stealing focus but still visibly there, tiny hand size statues of the workers on the fort doing the final touches to the frieze with little tiny chisels and hammers made out of lightstone, most of the figures are Koboldi, but since Sagua told them the workers on the fort meaning the Koboldi, and she was there in person doing things, one of the tiny figures is her with a little tiny stone blueprint, since Edmundo showed up to check on things and hand over the ilium in person and generally be helpful, there's also a tiny statue of him handing over a tiny pouch.-->

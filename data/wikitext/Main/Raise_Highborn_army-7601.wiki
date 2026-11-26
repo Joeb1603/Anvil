@@ -1,0 +1,14 @@
+[[Category:Senate Motion]][[Category:382YE Spring]]
+__NOTOC__
+<ic>To recruit a fourth Highborn army in Reikos.<br><br>'''Proposed by Reikos, seconded by Necropolis.'''</ic>
+==Overview==
+* To raise a fourth [[Highguard|Highborn]] [[Army|army]] in [[Reikos]].
+* Passed at 0 Thrones
+==Date==
+* Spring 382YE
+==Cost==
+* [[Army#Recruitment|Standard costs]] apply.
+==Progress==
+* None
+==Campaign Outcome==
+* A fourth Highborn army will be raised.

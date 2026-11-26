@@ -1,0 +1,24 @@
+[[Category:Senate Motion]][[Category:387YE Winter]]
+__NOTOC__
+<quote by="Proposed: Weirwater, Seconded: Astolat">Commission the inspirational tomb of the exemplar of Pride Ozren Orzel in Sandling, Weirwater. Self funded. True liao is ready for this great work.
+</quote>
+==Overview==
+* Constructs a [[great work]] in Sandling, Weirwater.
+* Passed
+* More information can be found in the '''[[An_eagle_in_song|An eagle in song]]''' wind of fortune
+
+==Date==
+* Winter 387YE
+
+==Cost==
+* Costs as per opportunity
+* 30 wains of white granite
+* 90 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Ozren_Orzel_Inspirational_Tomb}}
+==Outcome==
+Once complete, the inspiration of Orzen Orzel will have the following effects:
+* [[congregation|Congregations]] in [[Weirwater]] will receive a [[Philtre of Strength]] each season
+* The eighty-one individuals named by '''Tarik''', former [[High Bard of the Empire]], will receive some form of reward from the Witches of Culwich

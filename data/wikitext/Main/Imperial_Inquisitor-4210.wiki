@@ -1,0 +1,23 @@
+<div style="display:inline-block; float: left; width: 300px; margin-right: 10px;">{{CaptionedImage|file=Petra Petrivna Melikov.jpg||caption=The first Imperial Inquisitor was appointed during the Summer Solstice 378YE|title=Petra Petrivna Melikov of the Vale of Triosk|align=left|width=300}}</div>
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Nine.png|caption=This title is appointed by the [[Assembly#Assembly_of_the_Nine|Assembly of Nine]]|width=250px}}</div>
+This Imperial title was established by [[Create_title_of_Imperial_Inquisitor|vote of the Senate in Spring 378YE]]. The holder is responsible for coordinating and overseeing inquisition in the Empire working with the Imperial militia to ensure inquisitions occur correctly within the Empire. Although the title holder has no power to limit or direct the use of [[inquisition]] by the Synod they do have the power to carry out an inquisition in their own name.
+
+==Responsibilities==
+The Imperial Inquisitor is responsible for overseeing and coordinating the use of [[inquisition]] in service of the Empire. They are expected to work with both the [[Officers_of_the_Law#The_Imperial_Militia|Imperial militia]] and the [[Synod]] to ensure inquisitions are performed correctly. Following the creation of the [[Virtue inquisitor|virtue inquisitors]], they are also part of the ''Inquisitorial court'', which was set up to oversee [[inquisition|inquisitions]] and ensure their accountability and transparency.
+<!--{{CaptionedImage|file=Severin Teyhard.jpg||caption='''Severin Teyhard von Holberg''',<br>second Imperial Inquisitor.|align=right|width=200}}-->
+==Powers==
+__TOC__
+===Writ of Inquisition===
+Once per summit, the Imperial Inquisitor may issue a [[Inquisition#Writ_of_Inquisition|writ of inquisition]] without the need for judgement in an Assembly. The Inquisitor must inform the [[Tribune of the Synod]] of their intention to issue a writ. The Tribune will update the judgements boards in the Hub so that other priests are aware of the action, but no vote is required. The Imperial Inquisitor is not required to use their judgement, if any, to employ this power. 
+
+The additional writ of judgement is issued under the authority of the Assembly of Nine - it is [[Inquisition#Escalation|escalated]] to a [[sanction]] in the Assembly of Nine if required.
+
+==Appointment==
+The Imperial Inquisitor is an [[Imperial title]] in the [[Synod]]. They are [[Appointment|appointed]] by [[judgement]] of the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]], during the Summer Solstice. 
+
+Any Imperial citizen can serve as Imperial Inquisitor. They can be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the Assembly of the Nine.
+<div {{floatleft}}{{CaptionedImage|file=Kalina Jadwigowna Piosnkowa Prochnost.png|caption='''Kalina Jadwigowna Piosnkowa Prochnost''', current Imperial Inquisitor|align=left|width=600}}</div>
+{{RecentElections|Imperial_Inquisitor}}
+[[Category:Title]]
+[[Category:Synod]]

@@ -1,0 +1,25 @@
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Freeborn.png|caption=This title is appointed by the Freeborn Assembly|width=250px}}</div>
+The Herb Tender of the Cerulean Balmhouse is an [[Imperial title]] responsible for overseeing the Cerulean Balmhouse in Fontargenta, Feroz. The motion to [[Construct Cerulean Balmhouse|construct]] the Cerulean Balmhouse was proposed by '''Rahma I Fontanilla I Guerra''' as the proxy [[Kahraman|Senator for Kahraman]] during the Spring Equinox 388YE, and drew on [[Forging_links#One_Link_at_a_Time|aid]] offered by Sumaash.
+__NOTOC__
+The title is a little bit of a mouthful; informally, the holder is sometimes referred to as ''Cerulean Herbtender''.
+
+==Responsibilities==
+The Herb Tender is responsible for ensuring the herbs produced are made available to the "Freeborn healers bloc". There is some expectation that the Herb Tender will ensure that either a [[The_Brass_Coast_culture_and_customs#Contracts|contract]] is made on the use of the herbs or that they receive an honest price for them.
+==Powers==
+===Bountiful Gardens===
+The balmhouse produces 22 drams of [[cerulean mazzarine]] and five drams of [[true vervain]] each season for the Herb Tender.
+
+==Appointment==
+The Cerulean Herbtender is a national position appointed by the Synod. It is elected by [[judgement]] of the Freeborn [[Assembly#The_National_Assemblies|Assembly]]. 
+
+The title can be held by any Freeborn citizen. The Herb Tender has tenure and serves until they die or step down. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Brass Coast National Assembly, and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=Character.jpg|caption='''Character''', Herb Tender of the Cerulean Balmhouse|align=left|width=400}}-->
+{{RecentElections|Herb_Tender_of_the_Cerulean_Balmhouse}}
+==Funding==
+Click ''Expand'' to see the list of contributions made to construct the Cerulean Balmhouse.
+<div class="mw-collapsible mw-collapsed">
+{{CommissionProgress|Construct_Cerulean_Balmhouse}}
+</div>
+[[Category:Title]]
+[[Category:The Brass Coast]]

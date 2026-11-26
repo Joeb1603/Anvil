@@ -1,0 +1,226 @@
+---
+title: Blood will thicken
+source: https://www.profounddecisions.co.uk/empire-wiki/Blood_will_thicken
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 385YE Spring
+- Recent History
+- Appraisal
+- Grand Inspiration
+- Mandate
+event: 385YE Spring
+last_edited: '2026-08-06T11:56:21Z'
+revision: 143210
+in_character_boxes: 13
+---
+
+# Blood will thicken
+
+> *In-character text:*
+>
+> "So this is the first thing they'll see as they approach the Holy City. It'll be over a hundred foot high and there will be a light at the top that is visible from Necropolis." Faran gestured pointedly at the tall tower he'd painstakingly prepared, though it could hardly have been anything else. "There will be a gate here at the bottom of the tower, and stairs that lead up to the top of the tower. But once they reach the first floor they can take this bridge over the lake."
+>
+> The crowd of older chaptermates peered at the tower. There were approving murmurs and several nodded their heads and exchanged knowing looks.
+>
+> "After the lake is the Hall of Virtue. See - there are seven great pillars, arranged in a circle. It should have a domed roof... but obviously... " Faran's voice trailed off to avoid having to make excuses for the materials he used for his designs.
+>
+> "It looks amazing" interrupted Carmen, beaming with Pride at her son.
+>
+> There was a chorus of agreement from Carmen's siblings - everyone agreed it looked incredible. Compliments flowed like wine at a wedding, though most of them were about Faran rather than to him. He sighed slightly, they'd stopped paying attention now, and he hadn't even shown them the fire-lake yet. "One day," he thought to himself, "one day I'll create something amazing... and then..."
+>
+> In his imagination he could see it perfectly, the smooth walls were white, not dirty brown like his model. He was standing inside the Hall of Virtue staring up at the ceiling, imagining how it would look when the sun was rising, throwing spears of light through the openings between the pillars. He could picture every part of it.
+>
+> "Faran!" his mother shouted, pulling him out of his reverie. The family had moved on, going back to the blankets where the remains of dinner were still spread out. He sighed as he looked around, realising that the tide was coming in. Within an hour it would be gone. His beautiful sandcastle that he'd spent all morning creating would be taken by the waves, just like all the others.
+>
+> "One day..." he whispered to himself as he went to help with the clearing up. "One day I'll build something so inspiring it will echo through the Labyrinth for a thousand years..."
+
+## Overview
+
+At the Winter Solstice, the [Senate](../../mixed/government/senate/Senate.md) instructed the [prognosticators office](../appraisals/Appraisal.md#the-prognosticators-office) to prepare two [appraisals](../appraisals/Appraisal.md). They asked *[Naomi of Virtue's Rest](../appraisals/Appraisal.md#naomi-of-virtue27s-rest)* to appraise how [the infrastructure of Kahraman might be restored](../senate-sessions/384YE_Winter_Solstice_Senate_sessions.md#appraise-kahraman) and they also requested Naomi to [consider](../senate-sessions/384YE_Winter_Solstice_Senate_sessions.md#appraise-pilgrims-of-the-way) ways by which pilgrims of the Way could be encouraged to travel to the Empire and how [Bastion](../nations/highguard/Bastion.md) and the territories of the [Bay of Catazar](../world/Bay_of_Catazar.md) might rise to the challenge of [Timoj](../foreign-nations/Sumaah_Republic.md#timoj).
+
+Of course Naomi can't conduct both appraisals, and wherever possible the Auditor of the Imperial Treasury assigns prognosticators in the order the [motions](../senate-motions/Senate_motion.md) that [commission the appraisal](../appraisals/Appraisal.md#commission-an-appraisal) are raised. The newest member of the team, *[Eilian Sweetwater of Storm's Run Striding](../appraisals/Appraisal.md#eilian-sweetwater-of-storms-run-striding)* has successfully petitioned *Gerard La Salle* to allow him to carry out the pilgrim appraisal. Officially the reason is that as a member of the [Navarr](../nations/navarr/Navarr.md), Eilian is the ideal candidate to understand what might motivate people to move from one end of the earth to the other - and how to make them feel welcome when they get there. Unofficially Eilian is said to be fascinated by an opportunity to have a chance to help *make* history for a change rather than simply compiling it.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > To request Naomi appraise the means by which pilgrims of the Way from foreign nations can be enabled and encouraged to make pilgrimage to the Empire with a possible focus on escalating Bastion and the territories of the Bay of Catazar to the challenge of Timoj.
+> >
+> > Senator for Necropolis
+
+## Scale and Grandeur
+
+- **Timoj is a city of splendour and wonder that exalts every aspect of the Way**
+- **Bringing more pilgrims to the Empire from foreign nations means giving them a reason to come here**
+- **To create something to supplant Timoj as the crucible of the Way requires a vast amount of white granite**
+
+Those foreign pilgrims of the Way who have the means can already find a ship prepared to bring them to the Empire without difficulty. The Empire could ease their passage by paying [ship captains](../../out-of-character/rules/Fleet.md) to bring pilgrims to the Empire, but Eilian abandons that option after some quick prognostications reveal the costs could easily run to hundreds of Thrones each season. What stops more pilgrims coming to the Empire is not the costs or the difficulty of the journey, but a lack of motivation. What people need is encouragement, a reason to come here, an opportunity to be inspired.
+
+The truth is that the Empire may be the birthplace of the Way, but it largely lacks the great structures that mark Sumaah's dedication. Pilgrims travel to Timoj from all over the world, including the Empire, to climb the great ziggurats, to walk the halls of the impressive cathedrals, and to visit the awe-inspiring monuments they have raised to honour the [paragons and exemplars](../../mixed/government/synod/Paragons_and_exemplars.md). Any significant [commission](../../mixed/commissions/Commission.md) dedicated to the Way will convince some pilgrims to come to the Empire, but it is a vast undertaking to construct something that will rival Timoj in scale and grandeur.
+
+It's not clear exactly what form that construction should take, but one thing is absolutely certain. It will be eye-wateringly expensive. Given the almost inconceivable amounts of white granite needed, Eilian has focussed much of his appraisal on ways the Empire might raise the materials needed. However the first part of his proposal is a suggestion for how the final design might be chosen.
+
+## A Contest of Imagination
+
+- **Eilian proposes a contest for the Empire's finest artists to create a design for a commission to celebrate the Way**
+- **The benefactors of Pharos' Water have offered to provide an ancient Dragonbone Symbol to the winner of the contest**
+
+Scouring the [historical records](../../mixed/government/senate/Historical_research.md#department-of-historical-research) shows that over the centuries there have been a number of proposals for a great commission to demonstrate the wonder of the Way and inspire all those who see it. Some architects once suggested that the Empire build a ziggurat, a vast edifice of stone blocks that reaches to the sky, but that was rejected as lacking in Pride. The goal is to produce something that rivals Timoj, not to copy it. During the reign of [Emperor James](../history/Emperor_James.md) there was a proposal to build a beautiful garden, a thousand beautifully tended acres, each more intricate and perfect than the last, but that was rejected for a lack of Ambition. Critics argued that a garden was serene and calm, but the Way demanded something more majestic, a testament to the labours of humankind. [Emperor Nicovar](../history/Emperor_Nicovar.md) ordered Imperial architects to design a cathedral to Wisdom so vast that it would encompass every tome in the Empire and still have room for ten thousand pilgrims at a time, but his reign ended in tragedy before the work could begin. As recently as Summer 382YE, for example, the Severin encyclical prompted a proposal to [build palaces](More_work.md#the-palaces-of-the-cardinals) for the eight [cardinals](../../mixed/titles/Cardinal.md), but there was little support for the idea.
+
+*[Image: The majestic Cathedral of the Navigators dominates the Buitenlandsewijk - the foreign quarter of the Sarcophan Delves .](https://www.profounddecisions.co.uk/empire-wiki/File:Starcathedral.jpg)*
+
+After giving the matter some thought, Eilian and his team conclude that it would be a mistake for them to propose a specific shape and form for the great commission. Eilian Sweetwater is an experienced historian but he's not an architect or an artist. A commission like this is a once-in-a-lifetime opportunity - the best way to ensure success is to find the best artist the Empire has, someone who can imagine something truly historic, something august and sublime that will fire the imagination of everyone who views it. He points to the [Cathedral of the Navigators](../../mixed/titles/Bishop_of_the_Navigators.md#cathedral-of-the-navigators) in the [Sarcophan Delves](../foreign-nations/Sarcophan_Delves.md) as an example of what Imperial art can achieve, transforming mere [white granite](../../mixed/economy/White_granite.md) and [mithril](../../mixed/economy/Mithril.md) into something possessed of sublime majesty.
+
+> **OOC Note**  
+> Empire includes a large element of hard skills - the success and triumphs that your character has on the field are often down to your abilities as a player, whether that's fighting in battle, trading in the Bourse or giving a speech in the Senate. For that reason we would politely ask participants to only submit original compositions created by participants in the game. This competition is a chance for the many fantastic artists in the Empire community to achieve glory. It's fine for a player-character to hire another player-character if they pay them with in-character funds, but submitting a piece of art that was purchased out-of-character, created by someone who isn't an active participant in Empire or using AI to create a submission is outside of the spirit of this contest.
+
+Eilian proposes that the Empire's artists work with the [Assembly of Nine](../../mixed/government/synod/Assembly.md#assembly-of-the-nine) to create sketches, drawings or paintings of some lofty vision, some great edifice that will serve to celebrate the Way and inspire everyone who visits it. It shouldn't be architectural plans, the Empire has scores of skilled architects only too keen to produce the technical drawings needed, once the shape and the form is agreed. Rather, Eilian's hope is that the Empire's artists can imagine something incredible. It could be a great cathedral with a vaulted roof, it could be an obelisk as tall as a mountain, or maybe a great statue of the First Empress. It could be anything - but it needs to be numinous beyond words - and vast enough to transform the White City. A [statement of principle](../../mixed/government/synod/Statement_of_principle.md) in the Assembly would then be used to determine which design or designs would be used to inspire Imperial architects. If the chosen designs are passed to the civil service then the Empire's architects can use them to guide the final commission.
+
+Members of the [Highborn](../nations/highguard/Highguard.md) [chapter](../nations/highguard/Chapter.md) of Pharos' Water have proposed that the only virtuous way to choose these designs is to hold an open competition. Let every artist in the Empire submit designs to the Assembly of Nine during the Summer Solstice. If the Senate then authorises the construction of the winning design, the chapter's [benefactors](../nations/highguard/Benefactor.md) will provide the artist with the *Wayfarers Guide*. This powerful [Dragonbone Symbol](../../mixed/magic/items/Dragonbone_Symbol.md) was originally created for [Emperor James](../history/Emperor_James.md) but it was never delivered to [the Throne](../../mixed/titles/The_Throne.md) as it was stolen before it could be handed over. The heroes of [Anvil](../world/Anvil.md), led by the Exarch of Pharos' Water, used a lucky [conjunction](../world/Sentinel_Gate.md#conjunctions) of the [Sentinel Gate](../world/Sentinel_Gate.md) to recover the symbol from the thieves at the following summit. In return for their efforts the grateful Emperor gave the [artefact](../../out-of-character/rules/Magic_items.md#artefacts) to the chapter in recognition of their service to the Throne.
+
+## A Question of Scale
+
+- **A commission of any size will see an increase of pilgrims to the Empire**
+- **To supplant Timoj as the centre of the Way, the Holy City would need 1000 wains of white granite and 250 thrones and take three years to complete**
+- **Such a commission would ensure that the Empire becomes the undisputed source of spiritual guidance for the faithful throughout the known world**
+- **Eilian has identified a number of ways that the Empire could help to fund the work**
+
+|  |
+| --- |
+| **Grand Inspiration of the Way** |
+| **Commission Type:** [Folly](../../mixed/commissions/Edifice.md) |
+| **Location:** The [White City of Bastion](../nations/highguard/Bastion.md#bastion2c-the-white-city) |
+| **Cost:** 1000 wains of white granite, 250 Thrones, three years. |
+| **Effect:** Makes Bastion the indisputable centre of The Way throughout the known world |
+| **Restriction:** The Assembly of Nine must have provided the civil service with a piece of art to inspire the Empire's architects and engineers before this project can be commissioned. |
+| **Opportunity:** This commission has [required elements](../../out-of-character/game-design/Opportunity.md#building-opportunities); if any are not all fulfilled the commission does nothing |
+
+Designing something inspirational is only half the battle. Once the Assembly of the Nine have chosen something they believe will inspire the people of the Known World, it needs to be actually built. The Empire features numerous sites of Virtue, each of which is designed to inspire those who visit them, from the [Imperial War Memorial](../../mixed/titles/Custodian_of_the_Imperial_War_Memorial.md) to the [Bloody Great Theatre](../nations/the-league/Lorenzo-s_Legacy.md#the-bloody-great-theatre). These sites are impressive, but they don't rival the great commissions created in Timoj. People come from all across [Temeschwar](../nations/the-league/Temeschwar.md) and the Empire to see the Bloody Great Theatre, but they don't travel across the ocean to view its wonder. Nor is it simply a matter of il Volpe's garish tastes; the theatre lacks grandeur purely because of the limited size of the work. If the Empire want to create something genuinely awe-inspiring, something that will attract pilgrims from across the world, the commission will have to be on a scale never before seen in the Empire.
+
+Any sizeable commission that is dedicated to celebrating the Way will increase the number of pilgrims travelling to the Empire if it is built in [Bastion](../nations/highguard/Bastion.md#bastion2c-the-white-city) (the city, not the territory). Every historian who studies the Way, no matter what nation they come from, knows that the White City is where the literal foundations of the Way were laid. While it may occasionally attract criticism, the [Signs of the paragon and exemplar](../../mixed/government/synod/Signs_of_the_paragon_and_exemplar.md) speak of a [pilgrimage](../../mixed/government/synod/Signs_of_the_paragon_and_exemplar.md#pilgrimage) to Bastion being something truly inspirational. Even if they wanted to, the Präster of the [Sumaah Republic](../foreign-nations/Sumaah_Republic.md) could not deny that Bastion is where the religion begins, and while it currently lacks the glorious ziggurats of Timoj, it holds a central place in the history of the faith.
+
+The impact of a modest commission will be muted, no matter where it is built. It wouldn't rival the great structures in Timoj, but it would still be enough that some pilgrims would chose to come to the Empire after visiting the [Sumaah Republic](../foreign-nations/Sumaah_Republic.md). A small increase in taxation is possible, if citizens take advantage of the opportunity to support the flow of visitors by establishing new [businesses](../../out-of-character/rules/Business.md) to cater to their needs. The bigger the commission, the greater these benefits will be. However, a commission intended to bring pilgrims to the Empire is never going to be the most efficient way for the Imperial Senate to spend its limited funds if the senators are chasing quick returns on their investment.
+
+To have a dramatic impact, however, the commission would have to achieve the ultimate purpose of the appraisal, to escalate Bastion and the territories of the Bay of Catazar to the challenge of Timoj. The greatest show of Pride and Ambition would not be to rival Timoj, but to supplant it. To create a structure on such a vast scale that it outshone anything the Sumaah have created would need Bastion to be rebuilt as a holy city that dwarfs the one the Sumaah have established.
+
+If the Imperial Senate orders the transformation of the White City into a [holy city](../../mixed/commissions/Edifice.md) to uplift the faithful that requires at least 1000 wains of white granite and 250 thrones then coupled with the historical significance of Bastion as the birthplace of the Way, it would create something vastly greater and more inspiring than anything ever built anywhere in the world, including Timoj.
+
+A commission on this scale would be a historic triumph that reverberated around the world. It would remind everyone who follows the Way of a fundamental and undeniable truth - that the Way began in the Empire. Pilgrims will flock to the Empire from across the Known World, supplanting Timoj as the most important destination for a pilgrimage. There will be a vast influx of travellers coming to the Bay of Catazar to experience the grandeur of the new holy city. Inspired by what they see and experience, they will carry word back to their homes.
+
+Once complete, this grand edifice would secure the dominant position of the Empire as the source of inspiration and guidance for everyone who follows the Way. The Sumaah may still look to their House of the Way for instruction, but they will never again be able to decry the lack of Pride and Ambition shown by the Empire. The faithful in other lands will look to the lead of the Imperial Synod, in recognition of its unique status. There is nothing like this anywhere in the Empire, or in the world. The [Castle of Thorns](../nations/dawn/Astolat.md#the-castle-of-thorns) and the [Walls of Holberg](../nations/the-league/Holberg.md#the-city-of-holberg) are grand in scale, but they are dedicated [fortifications](../../out-of-character/rules/Fortification.md), built primarily to defend a region. This holy city would exist purely to celebrate the true faith. A monument of this size has never existed in Imperial history - or in anyone's history - it would be completely unique.
+
+It is of course, almost unimaginably expensive. On a somewhat crass level, that is rather the point. You can't build a monument to echo through the Labyrinth for a thousand years out of sand...
+
+## Better By Far
+
+- **The Highborn Assembly could inspire their nation to help transform the White City**
+- **At the cost of their recent advantage when building commissions related to votes and liao, people could be inspired to contribute to the grand project**
+
+The Highborn chapters are eager to demonstrate the depths of their support for a new holy city in Bastion. Thanks to the [recent mandate passed by the Highborn Assembly](Pieces_missing_everywhere.md#dare-do-all), the Highborn people are ready and willing to support the creation of new buildings to celebrate the Virtues. The mandate enacted last season means that any Highborn commission that provided votes or liao would benefit from donations from enthusiastic supporters, improving the size and effectiveness of the construction. The holy city proposed by Eilian Sweetwater won't actually provide votes or liao directly, but nobody in Highguard is concerned about that. This is exactly the sort of visionary ideal that the chapters had hoped to see, albeit beyond any scale they could have imagined.
+
+The Imperial constitution ensures that all the main sources of crucial building materials in the Empire are controlled by the [Bourse](../../mixed/economy/Bourse.md). As a result the flows of significant amounts of white granite all go through Anvil, allowing the Empire to direct them to significant works. Individual citizens might possess a wain or two of mithril that they have held onto for many years. Some wealthy groups may even have access to a forest that provides enough weirwood to amount to a wain or two a year perhaps. A ship's captain might grab a chance to buy a wain of white granite while trading in Sumaah. Individually these resources don't amount to much, but across the entire population of four territories they are significant. It is these sources that the new mandate taps into, providing a potential source of additional white granite to support new commissions in the nation.
+
+Rather than this piecemeal approach, the Highborn Assembly could urge every citizen in the nation to *instead* get behind this immensely Ambitious proposal.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The holy city of Bastion is extraordinary, but nothing is beyond our grasp. We send {named priest} with 75 doses of liao to urge every citizen in Highguard to support this, and only this, edifice until all the materials are provided.
+> >
+> > Synod Mandate, Highguard Assembly
+
+If this mandate is enacted, then the previous mandate will cease to provide any benefits. None of the chapters will have materials to spare to support any other commission, every wain of white granite that can be had will be sent to Bastion. Weirwood and mithril and other precious materials will be sold to provide funds for the construction or to buy white granite to donate. As a result, Highguard will donate 25 wains of white granite and 50 crowns every season to pay for the construction of the new holy city, *until the work is complete*.
+
+Such devotion is not without cost however. Everything Highguard can spare would be devoted to this extraordinary project - there would be no resources available for other plans. As a result it would be impossible to use a mandate to urge the Highborn to support another commission or similar project that needed help. Any mandate in the Imperial Synod that urged citizens to provide financial support to a different commission or cause would fail to affect Highguard until the funding for the holy city is complete. Any statement of principle in the Highborn Assembly that asked the nation for their support in this way would fail to produce a mandate.
+
+The only way to change direction would be for the Highborn Assembly to issue a clear statement of principle asking the nation to forsake the construction. A mandate urging Highguard to abandon the holy city would end the flow of materials to the commission, but it would be a devastating blow to the Pride and Ambition of the nation.
+
+|  |  |
+| --- | --- |
+| **Nation** | **Contribution** |
+| Brass Coast | 8 wains, 16 crowns |
+| Dawn | 12 wains, 24 crowns |
+| Highguard | 25 wains, 50 crowns |
+| Imperial Orcs | 4 wains, 8 crowns |
+| Navarr | 12 wains, 24 crowns |
+| The League | 20 wains, 40 crowns |
+| The Marches | 16 wains, 32 crowns |
+| Urizen | 12 wains, 24 crowns |
+| Varushka | 20 wains, 40 crowns |
+| Wintermark | 12 wains, 24 crowns |
+
+## No Price Is Too High
+
+- **Other nations could encourage their own citizens to support the transformation of the White City into a holy city for the Way**
+- **Contributions would depend on the size of the nation; larger nations would contribute more**
+- **While supporting the grand project, it would be impossible to persuade their people to support other important causes**
+
+Highguard is not the only nation with reserves of materials, nor the only nation concerned with the Empire's Virtue. Every nation could contribute to the construction of a Holy City if they wished to, each could donate what they could spare to help. The bigger the nation, the more territories it contains, the more resources it could provide if urged to by the nation's assembly.
+
+Any of the other nine nations could choose to pass a mandate asking their citizens to support the construction of the Holy City. The more nations that support the efforts, the greater the benefits.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Consequences are the price of Ambition. We send {named priest} with 50 doses of liao to urge every citizen to contribute what resources they can spare to support the creation of a new Holy City at Bastion. Let our Virtue echo through history for a thousand years.
+> >
+> > Synod Mandate, Any national assembly
+
+If a nation enacts this mandate then the citizens of that nation will find what white granite and funds they can spare and donate them to support the new commission. The effects will be small individually, but put together they could make a huge difference. Every territory outside Highguard that is affected by this mandate will donate 4 wains of white granite and 8 crowns to support the commission each season for the next year.
+
+Like the Highborn, it would be impossible for a nation to support the creation of the new Holy City in this way without exhausting their capacity to support other important causes. As a result it would be impossible to use a mandate to urge a nation contributing to the Holy City to support another commission or similar project that needed help. Any mandate in the Imperial Synod that urged citizens to provide financial support to a different commission or cause would fail to affect the nation until the year is up. Any statement of principle in their national assembly that asked the nation for their support in this way would fail to produce a mandate.
+
+**Rafael Barossa d'Apulian** has proposed an alternative mandate for the League National Assembly to consider.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Pride conveyed by words alone is vain boasting; we must proclaim it by how we conduct every part of our lives. Other nations are contributing white granite and coin to the efforts to build the Grand Inspiration of the Way and we are being left behind! "Now Fransesca di Matos's competition is over, we must rise to this challenge from the rest of the Empire and win. We send {Named Priest} with 50 doses of liao to inspire League citizens to show the rest of the Empire how to build amazing things...and how to fund them, too.
+> >
+> > Synod Mandate, League Assembly
+
+If enacted this mandate would have the same effect as the original - though drawing on the Virtue of Pride rather than Ambition. The same amount of white granite and money would go towards the Grand Inspiration of the Way.
+
+**Vasilmir Radovanovna Esskivic** has proposed an alternative mandate for the Varushka National Assembly to consider.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Seek out the poison in your neighbour’s fields, lest your own crops be blighted. The Grand Inspiration of the way will be an incredible and Virtuous Beacon to innumerable Pilgrims. Varushkans can Vigilantly help protect it against malice, from outside or within. We send {Named Priest} with 50 doses of Liao to urge Varushkans to contribute our resources and expertise to pave the Grand Inspiration of the Way's roads with Varushkan Stone and line their walls with our wards. May malice find no welcome there.
+> >
+> > Synod Mandate, Varushkan Assembly
+
+If enacted this mandate would have the same effect as the original. The same amount of white granite and money would go towards the Grand Inspiration of the Way.
+
+**Aspar** of Urizen has asked the Urizen Assembly to consider the possibility of a more emphatic refusal of the request for help.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Despise that which threatens what you watch over, whether by malice, lies, *folly* or *carelessness*. We send {named priest} with 25 Liao to encourage all Urizen to look to their homes before pledging support to Bastion. The rebuilding of Zenith and the repatriation of Spiral must be our priority. Let Highguard build monuments to Virtue after the Empire proves worthy of them.
+> >
+> > Synod Mandate, Urizen Assembly
+
+If this mandate were enacted, it would prevent any aid going towards the holy city in Bastion. Furthermore no statements of principle calling on Urizen to support efforts outside of Zenith and Spiral would result in an opportunity for at least a year.
+
+## Grand Opportunity
+
+- **There is no specific time limit on this project or the mandates it involves**
+- **This is a [building opportunity](../../out-of-character/game-design/Opportunity.md#building-opportunities) so many of the necessary details are set by the nature of that opportunity**
+
+This [opportunity](../../out-of-character/game-design/Opportunity.md) is open ended. The competition to design a suitable monument, and the Senate motion to build that monument, are not time limited. As long as the situation does not significantly change, they can be undertaken at any time. However, without the support of the competition - without a visionary design to serve as inspiration - a Senate motion to construct a great folly at Bastion will have significantly less impact. Likewise, if the Senate chooses to commission a more modest structure - a [great work](../../mixed/commissions/Great_work.md) perhaps - they are free to do so but the special advantages that come from trying to create a holy city will *not* be applicable even if the mandates are passed.
+
+The mandates are not time limited either; they can be performed at any time even before the Senate has commissioned the transformation of the city of Bastion.
+
+Finally, bear in mind this is an [building opportunity](../../out-of-character/game-design/Opportunity.md#building-opportunities). This project can only be attempted in the White City, the place where the Way has its roots. The opportunity cannot be transplanted to another location.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [385YE Spring](../../indexes/by-category/385YE_Spring.md), [Recent History](../../indexes/by-category/Recent_History.md), [Appraisal](../../indexes/by-category/Appraisal.md), [Grand Inspiration](../../indexes/by-category/Grand_Inspiration.md), [Mandate](../../indexes/by-category/Mandate.md)

@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Proposed: Necropolis, Seconded: Segura">To construct Spider's Dream Bridge with the additional 20 white granite fortification. Requesting funds.</quote>
+==Overview==
+* Repairs the damage done to the Spider's Dream Bridge as per the '''[[Dreaming in strands]]''' wind of fortune
+* Passed at 240 thrones
+* This motion was [[385YE_Winter_Solstice_Senate_sessions#Amend_Spider's_Dream_Construction|amended later]] in the season to remove the fortification
+* 240 thrones disbursed to Senator for Necropolis. 
+==Date==
+* Winter 385YE
+==Cost==
+* Costs as per opportunity
+* 30 wains of mithril
+* 10 wains of white granite
+* 15 thrones in labour costs
+* three months to construct
+==Progress==
+{{CommissionProgress|Spider%27s_Dream_Bridge}}
+==Outcome==
+* Now that work is complete, Imperial armies can again march quickly from Sarvos and Tassato to Madruga and vice versa. In addition, the [[Spider's Tollkeep]] once again receives their seasonal income of two thrones.

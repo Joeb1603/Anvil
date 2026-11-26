@@ -1,0 +1,5 @@
+==Overview==
+The Imperial civil service support [[the Throne]] and all arms of the Imperial government, providing detailed reports for consideration by the Empire's leader every summit. For the most part these reports entail detailed assessments of the latest developments in the Empire, outlining what is known about the situation, what options might exist, and what the implications of those options are. The bulk of these reports are reactionary - the civil servants responding to current events as they are develop between summits.
+
+However, during periods where civil service capacity to produce effective summaries is demonstrably greater than is needed to keep pace with current events, they place this additional capacity at the disposal of the Senate. Doing so allows the Senate to pass a motion of [[appraisal]], instructing the civil service to investigate a specific area to see what opportunities if any exist for the Empire to take action.
+{{:Appraisal}}

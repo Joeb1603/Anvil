@@ -1,0 +1,27 @@
+==Overview==
+Dauntless Warrior is an [[Imperial Orcs|Imperial Orc]] [[Imperial title]] created following an [[Construct Forest of Defiance|announcement]] in Autumn 383YE. The construction was completed shortly before the 383YE Winter Solstice. The position of Dauntless Warrior is a [[sinecure]] in [[Skarsind]], requiring minimal responsibility but offering a regular income of mana crystals. 
+==Responsibilities==
+The Dauntless Warrior has no particular responsibilities; they simply receive a bounty of [[Game_items#Mana_Crystals|mana crystals]] from the forest. If the Forest itself were to be threatened in any way, it would be the responsibility of the Dauntless Warrior to deal with those threats  - but also to deal with any opportunity to expand the sinecure, or to make any decisions about its operation.
+
+==Powers==
+===Bounty of Mana===
+The Dauntless Warrior has custodianship of a sinecure and receives an income of 9 mana crystals each season.
+==Appointment==
+The Dauntless Warrior is appointed by unanimous decision of the [[Imperial Orcs|Imperial Orc]] [[senator|senators]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by a Imperial Orc citizen. The Dauntless Warrior has [[tenure]], and serves until they die or step down. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Imperial Orc [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--
+==Forest of Victorious Chains==
+Not much is know about the battle that took place during the rebellion in a small wooded area of Southpine but what remains leaves it mark on all who enter.
+Shattered skulls and bone, mostly those of Orcs, carpet the forest floor next to their improvised weapons whilst that of value has been clearly striped from human remains.
+The trees themselves are scared with misplaced blows but it is what rests in their branches that catches the very spirit of those who visit. Shackles and chains weigh heavy upon them, wrapped purposefully in place. Cast off by slaves and mounted upon the very battlefield where freedom and victory had been known. A message perhaps. A defiant roar and lasting memory of might, strength and triumph.
+Humans who visit find the scene eerie and silent but for many Imperial Orcs the forest is alive with voices as though each chain were the bones of shaman. A tale of worth on such grand scale that its potential power in Imperial Orc heath magic has not gone unnoticed.
+A growing number of summer ritualists have made their way to the Victorious Chains to embrace this majestic vision that inspires an unyielding, resolute roar of power within them.
+As news has spread, some who are to join with legions, whose legend is yet to be known, have begun to travel themselves. Visiting warriors who seek enchantments of the summer realm before they make their way to battle and bring payment in varying forms. Even these Imperial Orcs have been known to hear the voices of their ancestors when faced with the irresistible splendour of the chained forest.
+The Dauntless Warrior is responsible for managing the growing number of rituals, their payments, the transfer of wealth into mana and so forth. To facilitate rituals. They also tend to any who become moonstruck during their visit which is certainly not unknown.
+-->
+
+{{Responsibilities Expectation}}
+{{RecentElections|Dauntless_Warrior}}
+[[Category:Title]] 
+[[Category:Imperial Orcs]]

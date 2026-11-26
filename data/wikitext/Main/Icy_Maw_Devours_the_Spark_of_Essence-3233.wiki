@@ -1,0 +1,35 @@
+==Rules==
+{{Season|Winter|30}} 
+
+===Performing the Ritual===
+{{Casting time|10}} {{Imperial Reduction}}
+
+{{regio|Winter}} {{Target Territory}}
+
+{{curse}}
+
+===Effects===
+Over the coming season, the target territory is scourged with unpleasant weather. [[Magical skills#Magician|Magicians]] in the area begin to feel increasingly uncomfortable, becoming short tempered, irritable, and even aggressive. The ritual may also damage weak [[regio]], potentially permanently. It also causes many magical beasts to begin behaving erratically; some become lethargic while others become dangerously active.
+
+All [[mana site|mana sites]] in the territory produce three fewer mana crystals over the coming season.
+
+{{Territory Effects}} For example, [[sinecure|sinecures]] or [[ministry|ministries]] that provide mana may see their production interrupted, or attacks by magical beasts might increase to the point where heroes must pass through the [[Sentinel Gate]] to deal with them.
+
+{{Season Duration}}
+
+==Description==
+The power of this ritual disrupts the flows of magic across a territory, making it harder to [[mana site|refine crystal mana]]. It brings with it a malaise that seeps into the spirits of [[Magical skills#Magician|magicians]]. While their personal mana reserves are not affected, they often become short-tempered and irritable, and may even become uncharacteristically aggressive if they spend an extended period in the territory. This latter effect is particularly prevalent among magicians who are already prone to lashing out. It has similar effects on many supernatural creatures, especially those with innate magical abilities or that rely on mana in some way. Typically they become slothful and docile or volatile and ill-tempered. When the curse was [[Red_phoenix_down|laid over]] [[Redoubt]], [[Zenith]], and [[Morrow]] in late 379YE for example, there was a noticeable increase in attacks by the [[trogoni]], hungry for mana.  
+
+The curse is invariably accompanied by unpredictably bad weather. In Winter this usually means snowstorms and plunging temperatures, while in Spring and Autumn it tends to invoke miserable rain and an unseasonable cold snap. In Summer it often brings cloying, oppressive heat such as that experienced by the people of [[Tassato]] when their city was [[O_rose_thou_art_sick#The_stink_of_Tassato|subject to this curse]] in 380YE. Whether this is a direct result of the curse's effect on mana, or simply a consequence of the way the ritual has been designed.
+
+A few scholars are concerned about where the mana is going if it is not forming mana crystals; some have suggested that it is being channelled into the Winter realm in some way. [[Various_storms_and_saints#Fen_and_Fastness|Investigation]] undertaken by some members of the [[Unfettered Mind]] in 385YE uncovered nothing to suggest that the ritual was specifically tied to an eternal. In theory, though, an eternal might be able to work with mortal magicians to ensure some of the disruption results in magic being directed towards such a creature either with a similar ritual or a carefully crafted boon. As it currently stands, however, the ritual is not deemed by the magistrates to involve theft - the mana is simply depleted or scattered, not stolen. If the ritual were employed repeatedly, however, there might be significant side-effects. The Empire relies on a healthy supply of crystal mana to [[enchantment|enchant]] its [[Army|armies]] for example, and disrupting that supply could have major repercussions. The League is home to several prestigious mana-exchanges, and disruptions to the flow of mana could have a noticeable economic impact on the trade of crystal mana.
+
+Since the death of [[Empress Britta]], the curse has been laid on Imperial territories several times. In 379YE for example it was laid first [[Wolf_in_summer|on the four cities of the League]], and then [[Red_phoenix_down|in the Autumn]] on the three territories of [[Urizen]]. Speculation at the time suggested that the notorious House de Lusignan of [[Dawn]] was responsible for both incidents, but any hope of discovering the truth died along with most of the house's witches, many of whom took their own lives. 
+
+As with any magic employed over a large area, Icy Maw Devours the Spark of Essence can have unexpected effects. In one [[Power,_corruption,_and_lies#A_Shadow_Over_Anvil|recent case]] for example, the disruption of mana extended so far as to make it impossible to establish magical chambers such as the [[Chamber of Delights]], while the consequence of several castings on the cities of the League prompted open conflict between [[guild|guilds]] whose prosperity relied on steady access to crystal mana.
+
+==Common Elements==
+The ritual releases a malign, oppressive force into a territory. Grim, throbbing musical rhythms, slow threatening movement and invocations of dread and hunger are all used to raise and direct this malign power. It is common to evoke the rune [[Naeve]] or [[Kyrop]] with this ritual. Some [[Wintermark]] covens attempt to channel or mitigate its effects with [[Hirmok]], or to channel the depleted mana towards their own [[mana site]], but they do not report much success.
+
+[[Category:Winter Ritual]]
+[[Category:Rituals]]

@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Announced by Ergot Di Cevia, Bearer of an Imperial Wayleave">To commission a sinecure, the Oathwright Printing Press, in Cevia, Tassato, to serve the printing needs of all Tassatan citizens, students, leafleters, and to fulfil the Oathwright's press printing demands. The sinecure will produce 216 rings per season. The printing press will give a tenure League position of Press Owner to be appointed by senators of the League, revocable by general, national, and virtue assemblies. Cost 10 wains of white granite, 30 crowns labour, 3 months to construct. Self funded by the founder of the Oathwright Press Prince Ergot di Cevia.</quote>
+==Overview==
+* Constructs a [[sinecure]] in Cascatas, [[Tassato]]
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+==Date==
+* Winter 386YE
+==Cost==
+* Standard costs apply
+* 16 white granite
+* 48 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Construct_Oathwright_Press}}
+==Outcome==
+Now complete, the [[Printmaster of Cevia]] will be available to appoint by the senators of [[the League]] for the first time at the Spring Equinox 387YE

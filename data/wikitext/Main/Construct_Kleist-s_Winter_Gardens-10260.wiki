@@ -1,0 +1,19 @@
+[[Category:Senate Motion]][[Category:384YE Winter]]
+__NOTOC__
+<quote by="Announced by Bernhard Kleist Von Ennerlund, Bearer of an Imperial Wayleave">Holberg Endures! Skathe the Hag Queen cursed Holmauer Park with Winter magic. This commission builds Kleist's Winter Gardens at the Holberg University Duelling Grounds. We can use Marcher menhirs to channel that Winter magic to grow herbs. The Imperial title will be "Tender of Kleist's Winter Gardens". This title is appointed annually by Imperial Bourse Auction. This is a well-worn path. We are Kleist von Ennerlund, Vintners and Victuallers of Holberg. We are self-funding this commission to the tune of 15 white granite, 15 weirwood and about 25 thrones. Auctioning it brings coin into the Senate budget. We support our Empire because we are League, and for the benefit of our beloved city Holberg.</quote>
+==Overview==
+* Commissions a herb [[sinecure]] in [[Holberg]] as detailed in the '''[[In_the_garden_of_defiance#Stones_on_the_Duelling_Fields|In the garden of defiance]]''' wind of fortune.
+* Announcement by the  [[Bearer of an Imperial Wayleave]]
+==Date==
+* Winter 384YE
+==Cost==
+* As per the wind of fortune (but see below)
+* 15 wains of white granite
+* 15 wains of weirwood
+* 30 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Kleist%27s_Winter_Gardens}}
+==Outcome==
+* Now that work on [[Construct_Holberg%27s_Melodious_Cascade|Holberg's Melodious Cascade]] has is done the final touches on the construction of Kleist's Winter Gardens have been finalised. The [[Tender of Kleist's Winter Gardens]] will be available to be auctioned as an Imperial seat in the [[Auction of the Seats]] for the first time at the Winter Solstice 385YE.

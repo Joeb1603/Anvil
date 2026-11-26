@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:387YE Summer]]
+__NOTOC__
+<quote by="Announced by Dima Vasilyevna Novosad, Master of the Koboldi">To upgrade the Grimhold fortification </quote>
+==Overview==
+* Upgrades the [[Miekarova#Grimhold|Grimhold]], a [[fortification]] in Perumaki, Miekarova
+* Announcement by the [[Master of the Koboldi]]
+
+==Date==
+* Summer 387YE
+
+==Cost==
+* Standard costs apply
+* 70 white granite
+* 210 crowns
+* Twelve months to complete
+
+==Progress==
+{{CommissionProgress|Upgrade_Grimhold}}
+==Outcome==
+* Once complete, Grimhold will be a rank 2 fortification

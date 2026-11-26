@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Summer]]
+__NOTOC__
+<quote by="Announced by Tiberius Echostorm, Crystal Architect of the Spires">Rebuild the Storm Vault, a mana sinecure sacked by the Druj into the infested vault. Location Proceris, Zenith </quote>
+==Overview==
+* Repairs the Storm Vault in Zenith as per the '''[[Write_your_own_ending#The_Lost_Sinecures|Write your own ending]]''' wind of fortune.
+* Announcement by the [[Crystal Architect of the Spires]]
+==Date==
+* Summer 386YE
+==Cost==
+* Costs as per opportunity
+* 8 mithril
+* 10 thrones
+* Three months to complete
+==Progress==
+{{CommissionProgress|Rebuild_the_Storm_Vault}}
+==Outcome==
+* Now complete, the [[Custodian of the Storm Vault]] once again receives 10 mana crystals each season, and is able to fund the gathering of precious [[tempest jade]] in the form of a ministry

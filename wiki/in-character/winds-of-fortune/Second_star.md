@@ -1,0 +1,148 @@
+---
+title: Second star
+source: https://www.profounddecisions.co.uk/empire-wiki/Second_star
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 386YE Winter
+event: 386YE Winter
+last_edited: '2026-10-27T16:15:13Z'
+revision: 146391
+in_character_boxes: 1
+---
+
+# Second star
+
+> *In-character text:*
+>
+> "Paragons be praised!"
+>
+> The call cut through the dense fog from the unseen lookout high above deck. A moment later, a great bird appeared out of the impenetrable mist, its feathers bone white but for the rich blue tips at the end of the wings. The crew hailed the birds appearance, its presence a sure sign that land must be near at last.
+>
+> The creature circled the vessel, lifting the spirits of the people on deck. One of the crew pulled some strips of dried jerky from their pouch, hoping to entice the newcomer to land on the deck. It swooped down, its beak darting forwards to snatch the meat from his hand, but it remained aloft.
+>
+> A moment later, the ship lurched violently, as it struck ice. The weirwood prow held firm, splitting the glacier in two with a sound like the Labyrinth itself was ripping open. Only the helmswoman kept her feet, clinging desperately to the wheel as the rest of the crew were thrown to the deck like wooden skittles.
+>
+> The sails billowed, filling with wind, and the ship leapt forwards once more, running before the wind as the helmsman steered her north.
+
+*[Image: Rhianos is Regent of the Eternal Sea, an eternal endlessly fascinated by wild adventure and acts of daring.](https://www.profounddecisions.co.uk/empire-wiki/File:RhianosArt.jpg)*
+
+## Overview
+
+In Summer 386YE, [Rhianos](../eternals/Rhianos.md), the Regent of the Eternal Sea, announced that they were holding a great race, an [epic voyage](Famine_and_feast.md#rhianos) to the four corners of the world. The first stage required [captains](../../out-of-character/rules/Fleet.md) to [enchant](../../out-of-character/rules/Enchantment.md) their vessels with [Summer magic](../../out-of-character/rules/Summer_magic.md) so that they might sail *Into the Unknown*. Those who successfully completed the first leg were [given three new options](Roaring_plenty.md) for the second leg. They could turn **widdershins by riches** to return to the Empire with a small fortune in loot. Or they might turn **deosil to mystery** to sail in search of the unknown. Those who were most determined to win the race, set their sails **straight on for glory**, hoping against hope to win glory for themselves.
+
+The race is a strange one, for no vessel takes the same course. Heralds appear unexpectedly, taking the form of sea birds, flying fish, or leaping dolphins. They journey alongside a ship for a few hours or days, helping it to set a new course, before disappearing again. Any hope that these strange guides might help a ship avoid the worse of the perils ahead are soon dashed, if anything, the heralds seem to be leading ships into the heart of the storm. Still, everyone makes it out alive and ships have more than one mast so they have spares right?
+
+The race is still only half complete, there are two more seasons to go before someone can complete the entire voyage. There are few changes this season for those who have stayed the course, say the heralds of the *Brilliant Kingfisher*, but they are able to offer a little more information.
+
+## Wish Upon A Star
+
+- **Those who turned Widdershins by Riches returned to Anvil loaded with treasure from their expedition**
+- **In addition, each captain has a single brilliant star, a precious gem, whose precise value is difficult to determine**
+- **Any vessel that entered the race previously may sail widdershins by riches**
+- **Any vessel that has not previously entered the race may sail widdershins by riches if they are enchanted with [Golden Voyage](../../mixed/magic/rituals/Golden_Voyage.md) this season**
+
+> **Widdershins by Riches**  
+> Players who chose this option are encouraged to make up a story of the harrowing journey their ship has undergone. It is likely to have included one or more of, terrible storms filled with golden lightning, attacks by horrifying sea monster like kraken or sea-behemoths, deadly sea battles with pirates, or strange encounters with islands that seem to move with the tides. You have plundered a small fortune but spent much of it keeping your vessel afloat. A single brilliant jewel, the money in your pack, and your stories are all that you have left from the expedition.
+
+Those captains who turned their vessels *widdershins by riches* have returned with little to show for it, bar an enormous pile of money and a single brilliant jewel as bright as a star. These captains have faced extraordinary dangers, harassed by krakens in the Sea of Snow, hammered by hurricanes in the [Sea of Storms](../world/The_seven_seas.md), or hunted by monstrous eels with rows of deadly teeth, each the size and shape of a Marcher's spade. Weathered and worn but wealthy, they return to port for a chance to rest and make repairs to their battered ships.
+
+With the race at the half-way point, the crew of the *Auspicious Mariner* announce that their any Imperial vessel is now welcome to enjoy the riches to be found by turning their ship widdershins by riches - provided they have been touched by Summer magic.
+
+Those that took this option in the second leg can continue on this path for the remainder of the race if they wish, but they may **not** now turn deosil to mystery or sail straight on for glory. Any ship that is enchanted with *[Golden Voyage](../../mixed/magic/rituals/Golden_Voyage.md)* at the start of downtime may also take this option, even if it has not joined the race previously. Widdershins by riches is a questing voyage, so Golden Voyage will boost the returns provided.
+
+## Makes You Wonder
+
+- **Those who turned Deosil to Mystery have been on an impossible journey to far-flung ports but have not yet sailed new seas**
+- **These captains must continue on their current course for one more season to gain their reward**
+
+> **Deosil to Mystery**  
+> Players who chose this option are encouraged to make up stories of the bizarre series of fetch quests, Rhianos' heralds have forced you to endure. The journey has been tortuous as the heralds have demanded you collect one unlikely quest item after another. You are encouraged to have one or more knick-knacks that you have retrieved - these don't appear to be magical in any way, but the more charming, whimsical, or weird the better.
+
+The *Master of the Far Shore* offered Imperial ship captains the chance to turn their vessels *deosil to mystery*, to head in search of the unknown, to sail to shores never seen by Imperial vessels, to risk certain death in pursuit of the eternal horizon. His heralds claimed that those who did so would find neither riches nor glory, but would *eventually* return with a true treasure - a piece of the unknown. What the eternal conveniently neglected to mention was how long that journey might take.
+
+Thus far, that prize has remained elusive. The eternal's heralds have led those ship captains who turned towards mystery on an impossibly convoluted journey taking them one port after another in pursuit of a set of increasingly bizarre items that it is claimed will be needed on the final leg of their journey. These items are fantastical, whimsical or weird - like a magical compass that always points south instead of north, a lost map that remains stubbornly blank no matter what is written on it, a golden cup full of moonbeams, or a whistle that only dolphins can hear. Each quest leads to the next, with *Stormchaser's* heralds assuring captains that they simply *must* complete this stage of the journey before they can attempt the next.
+
+By the time the Winter Solstice is approaching, the heralds encourage everyone to head back to an Imperial port. Captains are told to fill their vessel with as much food and water as they can carry, promising that the final part of their journey will begin when they return from [Anvil](../world/Anvil.md), and this will finally carry them far from known lands. They urge everyone to stay the course and promise that the rewards they crave will be theirs soon. They claim that each captain who completes the epic journey to sail deosil to mystery in the coming season will encounter something no Imperial captain has ever seen before and will gain a map of the seas they have sailed.
+
+Only captains who sailed deosil to mystery last season may continue on this perilous journey. This is a scouting voyage - *[Muffled Oar](../../mixed/magic/rituals/Muffled_Oar.md)* is the best ritual in Imperial lore to use if taking this option. Alternatively, they may abandon the quest to turn [widdershins to riches](#wish-upon-a-star).
+
+## Who You Are
+
+- **Those who sailed Straight on for Glory have seen their vessel sped on its way by impossible winds that never stop blowing**
+- **These captains must continue on their current course for two more seasons to have a chance to be winners in the great race**
+
+> **Straight on for Glory**  
+> Players who chose this option are encouraged to create a tale of a single deadly encounter they have suffered. During this season, you will have faced a grim challenge that has cost you dearly on a personal level. You may have been marked with a terrible scar or been left close to death for many days. It is likely to have claimed the life of someone dear to you; a personal friend or a trusted mentor whom you relied upon. If no character like that feels appropriate, then the herald who has acted as a guide this far has died dramatically at the conclusion of the encounter. You are returning to Anvil at a low ebb, but with growing confidence that you are pulling ahead in the race.
+
+The heralds of *Leaf on the Breeze* told those who were determined to win the great race that they must set a course *straight on for glory*. Vessels that charted this course, have been driven onwards by winds that never ceased, night or day allowing the ship to sail further and faster than ever before, in pursuit of glory.
+
+The race itself continues to prove impossible to assess. No two ships striving for the prize are sailing in the same direction, and there seems to be neither rhyme nor reason to the course they are being asked to chart. One day, a ship will be heading for distant lands in the Commonwealth, but as as it sights land they are told to head south to [Jarm](../foreign-nations/Principalities_of_Jarm.md) or chart a course for the [Delves](../foreign-nations/Sarcophan_Delves.md). One thing is certain: there is no evidence of any kind that *Tiger's Eye* is making any attempt to see whose ship is making the best progress. It remains desperately unclear how the *King of the Nine Tides* is judging this contest; despite that, every captain who has taken this option has a sense of growing confidence that their vessel is currently ahead.
+
+Just as everything appears to have been going well, disaster has struck the captains on this journey. At some point in the journey, each ship has been attacked by powerful enemies, many have had to fight off [Asaveans](../foreign-nations/Asavean_Archipelago.md) or [Grendel](../barbarians/Grendel.md) pirates, but others were attacked by enemies unknown. Each vessel has suffered terribly in the attack, in some cases the captain of the vessel was taken to death's door and only narrowly escaped, in other cases an experienced and well-loved member of the crew who has sailed the ship for years, has lost their life.
+
+Only captains who sailed straight on to glory last season may continue on this perilous journey. The heralds claim they will need to continue on this path for two more seasons before the race is won. Straight on for glory is a questing voyage but it provides poor returns. Rather than worry about such things, *Leaping Salmon's* heralds encourage captains intent on pursuing this voyage to seek out a *personal* Summer enchantment this season, the more potent the better. They claim this will help, though they refuse to say how. This means any Summer enchantment that specifically targets a character, and has a season duration such as [Swan's Cruel Wing](../../mixed/magic/rituals/Swan-s_Cruel_Wing.md) or [Unbreakable Behemoth's Strength](../../mixed/magic/rituals/Unbreakable_Behemoth-s_Strength.md) would count.
+
+Alternatively, those who were taking this voyage may abandon this quest at any point and instead turn [widdershins to riches](#wish-upon-a-star).
+
+## A Market for Stars
+
+- **Customers from across the world are eager to buy the precious gems found by those who went widdershins by riches**
+- **They have published competing offers for the gems and lodged funds with the brokers from the City of Gold and Lead**
+- **The gems can be sold to the interested parties by putting them, on their own, in an Ephisis Box**
+
+News is spreading of the precious gems that have been recovered by those who left the great race to turn widdershins by riches. Excitement is growing and wealthy citizens across the Empire and inhabitants of other lands also, are eager to lay hands on as many of the precious jewels as they can purchase. Open offers to buy have been published in various places, which have in turn driven demand and competing bids.
+
+Those buyers who are serious and have real money have shown their worth by lodging funds with the brokers from the [City of Gold and Lead](../eternals/Ephisis.md). This means that an Autumn ritualist could sell one or more gems to a potential buyer, simply by putting them in an [Ephisis Box](../../mixed/magic/rituals/Ephisis-_Scale.md). They would need to be by themselves however, the nature of contracts in the Autumn realm is such that the City can only match sellers to buyers if they have an exact match in a single box.
+
+|  |  |
+| --- | --- |
+| **Identical Gems** | |
+| 1 Gem | 1 throne |
+| 2 Gems of the Same Colour | 3 thrones |
+| 3 Gems of the Same Colour | 6 thrones |
+| 4 Gems of the Same Colour | 10 thrones |
+| 5 Gems of the Same Colour | 18 thrones |
+| 6 Gems of the Same Colour | 25 thrones |
+
+|  |  |
+| --- | --- |
+| **Different Gems** | |
+| 3 Different Coloured Gems | 7 thrones |
+| 4 Different Coloured Gems | 13 thrones |
+| 5 Different Coloured Gems | 20 thrones |
+
+There appear to be five different types of gem; deep blue sapphires, charmingly known as "**Azure Suns**", warm red gems which people are reffering to as "**Fire Rubies**" even though they are definitely not rubies, beautiful clear crystals that people have named "**Diamond Eyes**"; large green peridots misleadingly called "**Brilliant Sapphires**" and a strange black gem nicknamed "**Night Lights**". There seems to be neither rhyme nor rhythm to which precious gem each captain has returned with.
+
+As with any gemstone, they are ultimately worth what anyone will pay for them - right now, the market is red-hot with buyers falling over themselves to acquire the gems. Prices have ultimately found a similar level for the different gems as people observe the offers that others are making and raise their own bids to match. This rush won't last, so those looking to get the best price for them will have to sell them at the summit; there won't be buyers outside Anvil after this season.
+
+There are six buyers in total. A solitary gem is worth one throne if delivered to the Lady of the Counting House alone. A set of gems, either a set of the same colour or a set of different colours, is worth considerably more.
+
+### The Interested Buyers
+
+- **Merchant-Prince Genia Bourné di Sarvos is eager to acquire as many Briliant Sapphires as possible**
+- **A wealthy Varushkan boyar is looking to corner the market in Azure Suns**
+- **A Thule Dragon is eager to purchase all the Empire's supply of Fire Rubies**
+- **Azoth is attempting to purchase all the Diamond Eyes**
+- **A Skouran representative is trying to buy the Night Lights**
+- **The Prince of the Argent Tontine is looking to acquire sets of different gems**
+
+Genia Bourné di Sarvos has a commission for a beautiful new tiara for a young but wealthy Jarmish prince. Their family colours are green, so she is eager to get as many brilliant sapphires as possible. She is offering to pay a throne for each sapphire, but is eager to corner the market and so, like other buyers, she will pay considerably more for sets of the precious gems.
+
+A wealth Varushkan boyar is looking to acquire as many Azure Suns as possible. There are rumours that this boyar has made arrangements with the [Night Below](../../mixed/titles/Night_Below.md) and is planning to sacrifice the gems to permanently enrich the mines of his vale. Tathenon the Gyre, one of the [Thule Dragons](../foreign-nations/Thule_lore.md) has offered to buy all the Fire Rubies the Empire has - though what purpose they might have for these strangely warm gems is unknown.
+
+An agent of [the Crucible](../eternals/Azoth.md) has negotiated directly with the City of Lead and Gold on behalf of their eternal patron. The serpent is keen to acquire Diamond Eyes and has provided their servant with substantial amounts of gold to pay for them. A representative of one of the wealthy Skouran minining unions wishes to buy Night Lights, ideally all of them if they can.
+
+All of which would seem quite straightforward, but the Prince of the Argent Tontine has their own plans for these gems. The wealthiest of all the eternals of the Autumn realm, a being said to be obsessed with greed, they offer one of the highest rates of any buyer - but only for sets of different gems - to sell to Callidus, a magician would have to ensure that each gem in the set was different.
+
+## Further Reading
+
+- [Rhianos](../eternals/Rhianos.md)
+- [Fleet](../../out-of-character/rules/Fleet.md)
+- [Roaring plenty](Roaring_plenty.md) - 386YE Autumn wind of fortune about the second leg of the race
+- [Famine and feast](Famine_and_feast.md) - 386YE Summer wind of fortune introducing the great race
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [386YE Winter](../../indexes/by-category/386YE_Winter.md)

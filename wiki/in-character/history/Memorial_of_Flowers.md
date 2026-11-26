@@ -1,0 +1,43 @@
+---
+title: Memorial of Flowers
+source: https://www.profounddecisions.co.uk/empire-wiki/Memorial_of_Flowers
+class: in-character
+topic: history
+categories:
+- The Throne
+last_edited: '2024-07-20T18:14:37Z'
+revision: 113163
+in_character_boxes: 2
+---
+
+# Memorial of Flowers
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > My ashes shall be interred in a tomb in Necropolis, which should also be both beautiful and useful: it should serve both as an art gallery, and as a library such that the lessons of the past may be remembered by those who are yet to come.
+> >
+> > Will of Lisabetta Giacomi von Holberg, Imperatrix and Prince of the House of Seven Mirrors
+
+## The Memorial
+
+*[Image: Memorial Of Flowers.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Memorial_Of_Flowers.jpg)*
+
+The memorial for the [Twentieth Empress](Empress_Lisabetta.md) was [designed](../winds-of-fortune/The_greatest_city_in_the_world.md#memorial-of-flowers) by the acclaimed architect, *Frederick of Sarvos*, following extensive discussions with the [House of Seven Mirrors](../../out-of-character/groups/The_League_groups.md#house-of-seven-mirrors) and the [Cenotaph](../../out-of-character/groups/Highguard_groups.md#the-cenotaph).
+
+The outer courtyard celebrates **Lisabetta von Holberg** as the Empress of Flowers, with a particular focus (unsurprisingly) on flowers drawn from all across the Empire. Cuttings have been brought from as far away as [Segura](../nations/the-brass-coast/Segura.md) and [Kallavesa](../nations/wintermark/Kallavesa.md), to be presented in a tiered decking system that allows visitors approaching the memorial to enjoy the beauty of the whole Empire laid out around them. The heart of the memorial itself is a commanding circular structure, its exterior faced with gold-veined green marble that cannot help but evoke the walls of Holberg in the mind of the viewer. The protective walls enclose amphitheatre seating, surrounding a large still reflecting pool, bordered with water lilies. White granite stepping stones extend from one edge out to a circular platform at the centre, perhaps ten feet in diameter - sufficient to accommodate a single performer.
+
+Beyond the amphitheatre stands the newly-constructed Library of Lisabetta. As befits Lisabetta’s reputation as a notable constitutional scholar, the Library is primarily dedicated to Imperial Law and the Imperial Constitution. In addition to a number of renderings of the Constitution from throughout the Empire’s history, the Library has assembled a substantive number of commentaries and scholarly works. Additionally, the Library houses an archive of Empress Lisabetta’s own writings (with commentaries on many of them by her Master Chamberlain, **Severin Teyhard von Holberg**), including her policy lines, accounts, many speeches, and [addresses](../../mixed/titles/The_Throne.md#powers-of-stateaddress-the-empire) made to the Empire.
+
+At the behest of the House of Seven Mirrors it bears a strong but curious resemblance to the small, little-known Library of Dramaturgy at the University of Tassato Regario. The library’s interior contains many ornate alcoves, in which are hung paintings commissioned or inspired by Empress Lisabetta. Frequently the artist’s nation or sensibility is matched with a particularly relevant collection of writings. The alcove displaying the ‘Changeling Portrait’ of Lisabetta contains musical scores and librettos, including several Asavean originals known to have been her favourites.
+
+*[Image: Faces of the Empire.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Faces_of_the_Empire.jpg)*
+
+In the central atrium of the library, pride of place is given to the substantial artwork, ‘Faces of the Empire’. This piece by the Freeborn artist **Constanza i Kalamar i Guerra** won the first ‘‘Pride of Holberg’ art competition that the Imperatrix sponsored both before and during her reign and the work was displayed in Anvil’s Senate building from her election onwards. The circular painting is now mounted on a cunning clockwork mechanism that gradually rotates during the course of the day, ensuring equality of prominence to each of the ten national figures depicted.
+
+Those visitors most sharp of eye and wit set themselves to find seven rune-marked mirrors - one for each of the Virtues, which have been installed as homage to the House of Seven Mirrors, the Guild founded by the Imperatrix. All are concealed amidst the architecture of the memorial’s environs and made deliberately difficult to discover. The rune of Wisdom, [Irremais](../../mixed/magic/lore/Irremais.md), is most ingeniously hidden. This ‘mirror’ is actually the reflective pool itself. Only at dusk is it revealed, when the setting sun’s rays meet cunningly hidden [mithril](../../mixed/economy/Mithril.md) tracework. Then a spectral illusion of the Irremais rune floats above the still waters of the pool, in front of the island stage; as testament to Lisabetta’s dedicated Virtue and to her mysterious final disappearance.
+
+---
+
+Categories: [The Throne](../../indexes/by-category/The_Throne.md)

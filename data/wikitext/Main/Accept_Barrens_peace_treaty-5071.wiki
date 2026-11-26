@@ -1,0 +1,16 @@
+<ic>To accept the terms offered by the Barrens orcs and humans to move troops through the Barrens (see attached terms). This does not cover the movement of the Navarri army of the Black Thorns through the Barrens into Brocéliande. This is to happen regardless of these terms.<br><br><i>Proposed by Upwold, Seconded by Therunin.</i></ic>
+{{CaptionedImage|file=BarrensTreaty.png|caption=The Barrens treaty|align=right|width=300}}
+===Overview===
+* A delegation from [[the Barrens]] negotiated a treaty.
+* The treaty was presented to the Senate.
+
+===Date===
+* Defeated Summer 379YE
+
+===Campaign Outcome===
+* The terms of the treaty were not accepted.
+* The Barrens delegation had already left Anvil when this motion was presented and defeated; it is not clear if they are aware their treaty has been declined.
+
+[[Category:Failed Senate Motion]]
+[[Category:379YE Summer]]
+__NOTOC__

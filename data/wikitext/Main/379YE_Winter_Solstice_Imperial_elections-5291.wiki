@@ -1,0 +1,59 @@
+[[Category:Elections]]
+===[[Senate]]===
+* Senator for [[Skarsind]]: The first [[Imperial Orcs]] [[Senator]] will be elected at the Winter Solstice. Details of how the first orc senator will be appointed can be found [[Land_fit_for_heroes#War_is_in_our_soul|here]].
+* Senator for [[Madruga]]: You can learn about how this [[the Brass Coast|Brass Coast]] senator is elected [[The_Brass_Coast_leadership#Leading a territory|here]]. Any Freeborn dhomiro can put in the largest purse and claim the right to appoint the senator.
+* Senator for [[Astolat]]: You can learn about how this [[Dawn|Dawnish]] senator is elected [[Dawn leadership#Leading a Territory|here]]. Any noble whose house does not already hold a seat in the Senate can compete in the Tourney to determine who will represent this rich Dawnish territory.
+* Senator for [[Necropolis]]: You can learn about how this [[Highguard|Highborn]] senator is appointed [[Highguard leadership#Leading a territory|here]]. Any [[Chapter]] in Necropolis can put forward a candidate, and any Highborn citizen with a [[congregation]] can participate in selecting the best candidate.
+* Senator for [[Temeschwar]]: You can learn about how this [[the League|League]] senator is appointed [[the League leadership#Leading a territory|here]]. Any Temeschwari citizen who runs a [[business]] in the city can throw their weight behind their favoured candidate.
+* Senator for [[Bregasland]]: You can learn about how this [[the Marches|Marcher]] senator is appointed [[The Marches leadership#Leading a territory|here]]. Any Marcher who owns a [[farm]] in this marshy territory can align themselves with a [[steward]] to compete for the right to name the seat.
+* Senator for [[Hercynia]]: You can learn about how this [[Navarr]] senator is appointed [[Navarr leadership#Leading a territory|here]]. Any Navarr can stand, but only those whose [[Resource#Personal_Resource|resource]] is based in Hercynia can vote in the furious open-air election
+* Senator for [[Zenith]]: You can learn about how this [[Urizen]] senator is appointed [[Urizen leadership#Leading a territory|here]]. Each [[spire]] in Zenith can put forward a candidate, and any ritual magician from that territory can register their votes to help decide who will represent them
+* Senator for [[Miekarova]]: You can learn about how this [[Varushka|Varushkan]] senator is appointed [[Varushka leadership#Leading a territory|here]]. Any Varushkan citizen can stand, and the wise ones will determine who is the wisest candidate and thus most suited to claiming the seat.
+* Senator for [[Kallavesa]]:You can learn about how this [[Wintermark]] senator is appointed [[Wintermark political leadership#Leading a territory|here]]. Any Wintermark citizen can stand, but only the [[Kallavesi]] will have a say in who represents this marshy territory.
+
+* [[Captain of the Senate Guard]]: this ceremonial title is again vacant. It requires a [[Senator]] to raise a motion in the [[Senate]]. You can learn more about how the election works [[Appointments_by_the_Senate#Appointment_2|here]]
+* The position of [[Appoint_Sumaah_ambassador|Sumaah ambassador]] will be appointed by the Senate during their first session on Friday night as an administrative motion. The Senators will decide by majority vote, but any citizen may be proposed as a candidate. This title may need to be reappointed if the [[Construct_Sumaah_embassy_II|Sumaah Embassy]] is completed.
+* Curator of the [[Construct_museum|Imperial museum in Bastion]] <label type="info">TBC</label>
+
+===[[Military Council]]===
+*General for  [[Dawn military concerns#The Hounds of Glory|Hounds of Glory]] (Dawn)
+*General for [[The Marches military concerns#The Strong Reeds|Strong Reeds]] (The Marches)
+*General for [[Varushka military concerns#The Army of the Golden Axe|Army of the Golden Axe]] (Varushka)
+*General for [[Wintermark military concerns#The Green Shield Army|Green Shield Army]] (Wintermark)
+*General for [[The League military concerns#The Towerjacks|Towerjacks]] (The League)
+*Admiral for [[The Brass Coast military concerns#The Freeborn Storm|Freeborn Storn]] [[navy|navy]] (the Brass Coast)
+*General for [[Imperial Orcs territories#The Winter Sun|Winter Sun]] (Imperial Orcs)
+Either the senators for the nation will reach a unanimous decision about who shall take the seat at the military council, or the matter will need to be brought before the Imperial Senate by a Senator. In each case, the general must be from the nation.
+
+The Imperial Orc general has previously been selected through a contest of arms in the fighting pit (you can learn more about this custom [[Imperial_Orcs_leadership#Generals|here]]). With the appointment of a senator, however, it is likely the legal basis for this tradition will come under careful [[scrutiny]].
+
+===[[Synod]]===
+* Cardinal of [[The Way]]: Appointed by the assembly of the Way - every citizen with a congregation who is not dedicated to a virtue may participate in the election.
+* Cardinal of [[Prosperity]]: Appointed by the assembly of Prosperity - every citizen with a congregation who is dedicated to this virtue may participate in the election
+* Gatekeeper of [[Prosperity]]:Appointed by the Cardinal of Prosperity
+* [[Conscience of the Senate]]: Appointed by decision of the Cardinal of the Way. Only those citizens of the laity may present themselves as candidates, and nobody can hold the title more than once.
+
+* [[High_Exorcist|High Exorcist]]: the Assembly of Nine - the nine cardinals - appoint the High Exorcist with a Judgement, Only the Cardinals have a say, but any Imperial citizen can put themselves forward for the title.
+
+* [[Voice of Barbs]]: Appointed by the Navarr [[The_Assemblies_of_the_Synod#The_National_Assemblies|national assembly]]. It can be held by any Navarr character, is re-appointed annually, and is a [[Sinecure#Synod_Votes|congregational]] [[sinecure]] that gives [[liao]] and votes in the Synod.
+
+===[[Conclave]]===
+* Grandmaster of the [[Celestial Arch]]
+* Grandmaster of the [[Rod and Shield]]
+The Grandmasters are appointed by the members of their orders. Any member of the order can vote in a closed session to pick one of their number to lead the Order for the coming year.
+
+As always, all other Imperial Conclave titles may be reappointed at any time through a [[Declaration#Declaration of Candidacy|Declaration of Candidacy]].
+
+===[[Bourse]]===
+* [[Golden_Trees_of_Seren|The Golden Trees of Seren]]
+* [[Hunt_of_Alderei_the_Fair|The Hunt of Alderei the Fair]]
+* [[Heartwood_of_the_Great_Vale|The Heartwood of the Great Vale]]
+* [[Weirwater_Vales|The Weirwater Vales]]
+* [[Canterspire_Circle|The Canterspire Circle]]
+These Imperial seats will be auctioned openly. Any citizen may bid for control of one of these valuable weirwood seats.
+
+* [[Thimble|The Thimble]]: This national position is determined by [[Navarr]] holders of [[herb garden|herb gardens]]. Any Navarr may try and get the highest number of votes from those eligible to participate.
+*[[Vigilant_Swan|The Vigilant Swan]]: The quarry has been liberated and cleansed of ghosts. Currently it is the decision of the Senate how it will be allocated - either national or Imperial. It will either be appointed by people who control resources in the nation that gains control of Reikos, or subject to open auction. If appointed, the Seat will serve until the Summer Solstice 380YE where it will again be up for appointment.
+*[[Bailiff of the Grand Market]]: This [[the Marches|Marcher]] [[ministry]] brings the ability to purchase trade goods and the responsibility for looking after the markets and roads of the Marches and keeping them clear of bandits. Any Marcher can stand, and any Marcher citizen who has control of a [[farm]] can secretly assign their votes to their chosen candidate.
+*[[Provost of the Halls of Knowledge]]: this potent position allows an Urizen citizen to direct the magical research of the Halls of Knowledge for the coming year, and create new rituals Any Urizen can stand. The decision about who claims it will be made by those Urizen who own [[mana site|mana sites]], who will secretly record their support with the civil service.
+*[[Dhomiro of the Cinnabar Hills]]: the [[the Brass Coast|Freeborn]] who claims this title will gain the ability to purchase valuable trade goods and a responsibility for looking after the territory of [[Kahraman]]. Any Freeborn can take the seat, and the decision about who claims it will be made by those Freeborn [[fleet]] captains who register their support for their chosen candidate in secrecy with the civil servants of the Bourse

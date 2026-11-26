@@ -1,0 +1,128 @@
+{{CaptionedImage|file=Shoulder to shoulder.jpg|caption=A well drilled fighting force is a fearsome sight|align=left|width=575}}
+==Overview==
+The Empire is defended by its armies. Each army is a large force, capable of acting independently and supported by their own logistics with baggage trains, siege engines, and foragers. They are therefore able to venture beyond the boundaries of the Empire and, so long as their casualties are low, remain fully capable despite being engaged in prolonged campaigns.
+
+The typical member of an Imperial army is fed and billeted by the civil service but is not paid in coin. These volunteers have signed up for two years Imperial Service - they are trained and equipped and then assigned to an Imperial army. If they choose to leave the army at the end of that period they receive payment in land from the Empire (equivalent to a level one farm).
+
+Although the lure of land is what draws most citizens to Imperial Service, the training and equipment received can be valuable. Most members of the many independent [[military unit|military units]] spread across the empire are former soldiers.
+
+Each Imperial army is commanded by a [[general]]. While generals are chosen by [[Senator|senators]], once appointed, the general has sole authority to [[army orders|order]] the army to move or attack as they choose. Traditionally the generals of one nation will cooperate but it is not a requirement and a general is within their rights to give orders as they see fit.
+
+==Army Size==
+A fully rested and supplied Imperial army consists of around 5,000 trained soldiers. The civil service monitors the fighting force of each Imperial army using Day magic, providing this IC information to the Imperial generals, so that they can make effective strategic decisions. The military strength of a full strength army is measured at 5,000 strength - roughly one point of military strength for each soldier.
+
+Barbarian armies tend to be much larger - though most have a similar military strength. Day magic rituals such as [[Eyes of the Sun and Moon]], or the intelligence reports received by [[Army_qualities#Scouting|scouting]] armies provide good estimations of the military strength of a barbarian army using the same scale used for the Imperial armies.
+{{CaptionedImage|file=Shoulder to Shoulder.jpg|caption=The soldiers of the Marches make terrible foes when they fight [[The_Marches_military_concerns#Army_Orders|shoulder to shoulder]].|align=right|width=650}}
+The majority of campaign armies have a maximum strength of 5,000 fighting force. A ''large'' army, however, has a maximum fighting strength of 7,500 but still counts as a single campaign army. As an army takes [[casualties]] its fighting strength drops. An army whose fighting strength falls below 1,000 will immediately disband (or, if they are a large army, if their fighting strength falls below 1,500).
+
+==Special Quality==
+Each Imperial army has a unique [[army qualities|quality]] that is permanently fixed at the time the army is created and which reflects the character and flavour of the army.
+
+When a new army is being created it will automatically develop a quality dependent on the nation raising the army. In many cases the quality will depend on events at the time and be influenced by decisions taken by the characters involved in raising the army.
+
+Some nations have special orders that only their generals can issue (such as the Marchers' [[The_Marches_military_concerns#Army_Orders|Shoulder to Shoulder]]) or have special rules that apply to them (such as the [[Wintermark_military_concerns#Army_Orders|special rules]] that apply when [[Wintermark]] is fighting the [[Jotun]]). These are generally detailed on the ''military concerns'' page for each nation.
+
+==Senate Commissions==
+The [[Senate]] can pass a [[Senate motion|motion]] of [[commission]] to [[Army#Recruitment|recruit]] a new Imperial army, or to [[Army#Resupply|resupply]], or [[Army#Enlargement|enlarge]] an existing army.
+
+===Recruitment===
+* Materials: 200 wains of [[mithril]] and 75 thrones
+* Time: 1 year to raise
+{{CaptionedImage|file=CullachMarching.jpg|caption=The Cullach march.|align=right|width=500}}
+When the army is complete a new [[Imperial title]] of [[general]] is created in the [[Military Council]]. Appointment follows the normal constitutional process (generals are selected by the senators of the nation) and re-appointed each year after that.
+
+A newly created Imperial army is at its maximum strength of 5,000. It begins play mustered in one of the Imperial controlled territories belonging to the nation where it was raised.
+
+All Imperial armies must use recruits drawn from a single nation, and the army must be raised in a territory within that nation. Each nation can only physically support a [[#Maximum_numbers_of_Imperial_Forces|limited number of forces]] at one time; this number cannot be exceeded.
+
+===Enlargement===
+The Senate can contribute resources to increase the strength of an existing army, making it large. It takes three seasons and costs 150 wains of mithril and 450 crowns. The army can continue to operate, moving and fighting as normal, while it is upgraded. The additional fighting strength is added to the army when the enlargement is complete.
+
+===Resupply===
+The strength of an Imperial army declines as it suffers casualties. While an army will slowly resupply and reinforce itself over time, the Senate can pass a motion to provide the army with additional resupply. The army to be resupplied must be in a friendly territory, and may not be engaged with any enemies. 
+
+Further details of how an Imperial army can be resupplied by the Senate can be found [[Casualties#Emergency_Resupply|here]].
+
+==Upkeep==
+Although the soldiers in an Imperial army are not paid for their service, an army still costs a huge amount of money to operate. Each Imperial army costs 50 thrones per season, paid for from the [[Senate]] budget. Each large army costs 75 thrones per season.
+
+===Maximum numbers of Imperial Forces===
+The Empire cannot sustain an unlimited number of [[Army|armies]] and [[navy|navies]]. In addition to the significant drain on the treasury of the [[Senate]], each individual nation can only provide so many soldiers. The ''supply'' number for each nation represents the maximum number of Imperial forces (armies and navies) that a nation can sustain at any given time. The Senate cannot raise a new Imperial army or navy from that nation if it would take the nation over its supply number.
+
+As of the start of the Summer Solstice 387YE, the maximum number of forces a nation can support are as follows:
+
+* The [[The Marches|Marches]]: 5 forces
+* [[Dawn]] (with the consecration of [[The Barrens#Houndsgate|Houndsgate]])<sup>[[#T|(T)]]</sup>, [[Navarr]] <sup>[[#T|(T)]]</sup>, [[Varushka]], [[Highguard]], and [[Wintermark]] (with the [[Kallavesa#Kallavesa_Marsh|Kallavesa Marsh]]): 4 forces each
+* [[Imperial Orcs]] (if raised from the [[Ethengraw]] sept), the [[The Brass Coast|Brass Coast]] (with the [[Segura#Iron Qanat|Iron Qanat]]), and [[the League]] (with the [[Tassato#Five_Cities_Military_Academy|Five Cities Military Academy]]): 3 forces each
+* [[Urizen]]: 1 force
+
+A nation cannot contribute its support to maintain a force from another nation. The only way to increase the number of armies and navies a nation can support is to conquer additional territory. Likewise, the loss of territory to the barbarians may reduce the supply number for that nation.
+
+<small>
+<sup>T</sup>{{anchor|T}} This nation is providing support to the [[Thule]] as per the [[Ratify Thule Treaty Spring 387YE|treaty]] ratified during the Spring Equinox 387YE. Further amended with a [[387YE Winter Solstice Senate sessions#Replace Food to Thule|motion]] during the Winter Solstice 387YE.
+</small>
+
+===Out of Supply===
+* '''If a nation has more armies and navies than it can support, then all of that nation's forces are out of supply'''
+* '''Out of supply forces lose a minimum of 500 force every season and cannot benefit from natural resupply'''
+If a nation ever has more armies and navies than it can support, all of that nation's forces suffer significant penalties until this imbalance is rectified.
+
+''Each'' army and [[navy|navy]] controlled by that nation suffers automatic losses of 500 force (or 750 force for a large army) each season. In addition, no army or navy controlled by that nation gets [[Casualties#Natural_Resupply|natural resupply]], nor benefit from rituals that rely on natural supply such as [[Brotherhood of Tian]]. They can gain benefits from [[Casualties#Emergency_Resupply|emergency resupply]], provided that they are not engaged in a campaign.
+
+===Supply Lines===
+* '''If an Imperial army cannot trace a supply route back to Imperial held territory then they go out of supply'''
+* '''The breadbasket cannot help an army whose supply lines are cut in this way'''
+
+The Empire must be able to transfer supplies to an army by tracing a route through territory controlled by the Empire. The civil service arrange all the logistics of supplying Imperial armies, but they cannot move supplies through enemy territory.
+
+If an army cannot trace a supply route back to territory controlled by the Empire then they go out of supply - they suffer automatic losses of 500 force (or 750 force for a large army) each season and cannot benefit from any natural resupply. The breadbasket cannot help if this happens - because it is not possible to get supplies to the army.
+
+===Disbanding===
+The Senate may pass a [[Senate motion|motion]] to disband an army, which immediately disbands the army as if it had dropped below 1,000 strength.
+
+==Military Units==
+Some wealthy or powerful citizens maintain their own independent [[military unit]]. These units can be attached to an army to increase its effective fighting strength. This is done by the orders of the military unit’s commander (submitted using the personal resource downtime system).
+
+The experienced and capable troops in a starting military unit provide an advantage out of proportion to their numbers, adding the equivalent of 100 soldiers to the strength of the army they support.
+{{#lst:Archive:All_Commissions|armies}}
+<small>
+L.{{anchor|L}} This army is [[#Enlargement|large]]
+</small>
+==Rituals==
+The table below shows a list of the rituals in both Imperial lore and Urizen lore which can affect an Imperial army.
+{| class="wikitable sortable"
+! Ritual
+! Effect
+! Realm
+! Magnitude
+|-
+|[[Bound by Common Cause]] || If the general issues a defensive order and the army ends its movement in an Imperial territory, then army's upkeep for that season is reduced by 20 thrones. || Autumn || 80
+|-
+|[[Brotherhood of Tian]] || If the army benefits from [[Casualties#Natural_Resupply|natural resupply]] over the next season it recovers an additional 250 strength || Autumn || 120
+|-
+|[[Clarity of the Master Strategist]] || The army's effective strength is increased by 2,000 for the purpose of determining victory for the next season || Day || 80
+|-
+<!--|[[Eyes of the Hills]]<sup>[[#1|(1)]]</sup> || Replaces the army's quality with ''[[Eyes_of_the_Hills#Effects|Hillwise]]'' for the next season || Autumn || 80
+|--->
+|[[Find the Best Path]] || Enchants an army letting them move an additional territory || Autumn || 80
+<!--|-
+|[[Fire on the Water]]<sup>[[#3|(3)]]</sup> || Replaces the army's quality with ''Seawatch'' for the next season || Autumn || 120-->
+|-
+|[[Knights of Glory]] || The army's effective strength is increased by 2,000 || Summer || 120
+|-
+|[[Quickening Cold Meat]] || The army's effective strength is increased by 1,000 for the next year || Winter || 120
+|-
+|[[Swords in the Noonday Sun]]<sup>[[#1|(1)]]</sup> || The army's effective strength is increased by 1,000 || Summer || 80
+|-
+|[[Why Sulemaine Walked Away From The Baker]] || Reduces casualties suffered by the army provided it does not take an order that increases casualties amongst other benefits.  || Winter || 80
+|-
+|[[Loosen the Shackles]]<sup>[[#1|(1)]][[#2|(2)]]</sup> || The army's effective strength is increased by 4,000 for the purpose of inflicting casualties for the next season || Winter || 120
+|-
+|}
+<small>
+#{{anchor|1}} This ritual is in [[Urizen_magical_traditions#Urizen_Lore|Urizen lore]]
+#{{anchor|2}} This ritual is [[interdiction|interdicted]]
+</small>
+{{War Further Reading}}
+[[Category: Senate]]
+[[Category:Commission]]

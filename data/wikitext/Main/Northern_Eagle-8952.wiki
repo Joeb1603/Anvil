@@ -1,0 +1,23 @@
+{{Army Page}}
+{{CaptionedImage|file=NorthernEagle_Colour.png|align=right|width=300}}
+===Overview===
+The soldiers of this army have long experience of fighting along the northern mountains that border the [[Thule]] lands. They contain a number of expert mountaineers, ex-prospectors and other specialists who serve as scouts, and have a significant advantage over less-experienced armies when fighting in [[Army qualities#Elusive|mountains, forests and marshes]]. Once the Northern Eagle establishes a presence in a territory, it can prove extremely hard to dislodge. [[387YE_Autumn_Equinox_Military_Council_orders#Northern_Eagle|Orders]] given by '''Aksel Reznov Razoradze''' at the Autumn Equinox 387YE, encouraged the army to take up the [[Is_there_anybody_out_there%3F#Home_to_Roost_(Sorin)|suggestion]] made by a herald of [[Sorin]] to hone the army into an elusive force focused on striking at the heart of their enemies.
+
+The first Varushkan general leads the army of the Northern Eagle, and is appointed (or re-appointed) at the Summer Solstice each year.
+
+===History===
+TBC
+__TOC__
+TBC
+====Recent History====
+TBC
+
+===Traditions===
+TBC
+==Composition==
+TBC
+==Army Quality : [[Army_qualities#Elusive|Elusive]]==
+The Northern Eagle contains a large number of expert mountaineers, ex-prospectors and other specialists who serve as scouts, and have a significant advantage over less-experienced armies when fighting in [[Army qualities#Elusive|mountains, forests and marshes]]. Once they establish a presence in a territory, they can prove extremely hard to dislodge.
+{{CaptionedImage|file=Jaromir Ostrovyn Kostka.jpg|caption='''Jaromir Ostrovyn Kostka''', General of the Northern Eagle|align=left|width=300}}
+{{RecentElections|General_of_the_Northern_Eagle|the title of [[General]] of the Northern Eagle}}
+[[Category:Imperial Army]][[Category:Varushka]][[Category:Military Council]]

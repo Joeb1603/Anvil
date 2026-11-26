@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:388YE Summer]]
+__NOTOC__
+<quote by="Proposed: Bronimir, Senator for Ossium, Seconded: Tristan duLac, Senator for Weirwater">To raise the fourth Varushkan army. Varushka seeks Senate funding for this army. To be raised in Karsk
+</quote>
+==Overview==
+* Raises an [[army]] in Karsk
+* Passed
+
+==Date==
+* Summer 388YE
+
+==Cost==
+* Standard costs apply
+* 200 wains of mithril
+* 75 thrones in labour costs
+* Twelve months to complete
+
+==Progress==
+{{CommissionProgress|Raise_Fourth_Varushkan_Army}}
+==Outcome==
+* Once completed, the fourth general of Varushka will be available for election by unanimous decision of the Varushkan senators

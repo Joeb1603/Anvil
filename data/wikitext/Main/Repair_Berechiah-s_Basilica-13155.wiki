@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:387YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Bastion, Seconded: Karsk">Commission repairs to Berechiah's Basilica in Bastion to act as a rallying point for the vigilant against foreign threats as per the civil service report from before Winter Solstice 385YE. The construction costs will be covered by the Custodes Clavium and the wains (at least 10 white granite and 5 weirwood) will be sought from virtuous benefactors.
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in [[Bastion]]
+* Passed
+* More information can be found in the '''[[Knocking_on_every_door#The_Basilica_in_Bastion|Knocking on every door]]''' wind of fortune
+
+==Date==
+* Autumn 387YE
+
+==Cost==
+* Costs as per opportunity
+* 10 wains of white granite
+* 5 wains of weirwood
+* 45 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Repair_Berechiah%27s_Basilica}}
+==Outcome==
+* Once complete, a title will be created to be appointed by the Vigilance Assembly

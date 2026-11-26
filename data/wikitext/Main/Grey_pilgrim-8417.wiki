@@ -1,0 +1,72 @@
+[[Category:Highguard]][[Category: Archetype]]
+
+<div style="float:left; width: 275px; clear: left;">{{CaptionedImage|file=Liberation For All.jpg |width=275|caption=Grey Pilgrims walk the trods to free the souls captured by the vallorn.|align=left}}</div>
+==Overview==
+Grey pilgrim is the name adopted by the devout [[Highguard|Highborn]] who over the course of 381YE chose to join the [[Navarr]] walking the [[trod|trods]]. Spurred to action by claims that the [[vallorn]] traps the souls of those who fall under its influence, they seek to free those souls that have been caught, unable to move on to the Labyrinth or cross the Abyss.
+
+As the nascent pilgrimage was beginning the Highborn seized the opportunity to encourage the pilgrims to also spread [[The Way]] across the Empire. By rooting out heresy and blasphemy as they walked the lands; and by proselytising the faith to foreigners they can save more souls than just those trapped by the vallorn. The desperate need to weaken the vallorn by walking the trods defined the physical nature of the pilgrimage, but it also became a spiritual crusade, aiming to renew [[the Way]] throughout the Empire.
+
+The pilgrimage continued for almost five years, before the call [[The war of thorns and flowers|finally came to return home]], to prepare for the final battle against the vallorn.
+
+==History==
+The idea for the pilgrimage began with [[381YE_Winter_Solstice_Synod_judgements#Statement_of_principle|a judgement passed by the Navarr National Assembly in Winter 381YE]]. Raewyn Eternal urged the [[Synod]] to inform the faithful that "when someone falls in the [[Vallorn#Vallorn_Miasma|vallorn miasma]], they do not die. The terrible vallorn keeps them on the brink of death and puppets their bodies, trapping their souls, unable to move on to the Labyrinth or cross the Abyss." Galvanised by this new discovery, in the following season various [[assembly|Assemblies]] passed statements of principle urging citizens to do what they could to support the Navarr in their battle with the vallorn.
+
+While such words stirred the hearts of many, the only way to provide the Navarr with measurable aid would be if there was a massive increase in the number of people walking the trods alongside the Navarr. People would have to be convinced to take a journey for no purpose at all... other than the sake of walking the trods. It was an impossible task, but the news that those who fall in the vallorn miasma do not die but have their souls trapped stirred anger among the Highborn. Such a travesty of the natural order demanded a response - something should be done. And no nation feels a sense of destiny more profoundly than the Highborn. The pilgrimage was born when the Assembly authorised Lilith of the Chantry to urge every Highborn citizen to consider walking the trods.
+
+<quote by="Highborn National Assembly, Summer 382YE, Kerem of the Chantry, Upheld (595 - 244) Greater Majority ">The monstrous infestation that is the vallorn is a danger beyond any other that now faces us. There is no sacrifice so great that we cannot meet it to defeat this terror. We send Lilith of the Chantry with 500 liao to urge every Highborn citizen to consider if they could assist in defeating this threat by undertaking an extended pilgrimage to walk the trods.</quote>
+
+The pilgrimage was not without cost. The commitment of many of the most idealistic Highborn to a great crusade deprived the nation of so much that plans for a fourth army had to be permanently abandoned. The prosperity of every Highborn citizen would have suffered likewise, but the nations of the Empire offered to share the hardship, by offering their support and hospitality to the pilgrims they were able to lighten the burden for everyone.
+
+As the pilgrimage took shape, [[Years_of_an_inch_and_a_step|it became clear that there was an opportunity]] to do more than simply support the Navarr in their ancient battle with the vallorn. There are many spiritual threats that threaten the souls of the faithful, and after careful consideration, Three mandates related to the role of the Grey Pilgrims were raised, and passed by the Highborn Assembly. Shadrach raised the mandate to [[#Mute_Mouth.2C_Broken_Tongue|oppose false virtues and eternal worshippers]]; Yarona of the Chantry raised the mandate to [[#This_Great_Empire|encourage the Grey Pilgrims to act as guides for all the human nations of the Empire]], and Dinah of Jeremiah's Welcome raised the mandate to [[#Those_who_Founded_the_Way|encourage citizens to proactively proselytise to foreigners]]. 
+
+{{SOP|by=Icarus of the Sepulchre of the Red Suns, Highborn Assembly|statement=There is no sacrifice so great that we cannot meet it to defeat this terror. We send Hazelelponi with 200 liao to urge every Highborn to prepare for the coming battle. No price is too high to realise our dreams.|vote=510-110 (Greater Majority)|when=Autumn Equinox, 386YE}}
+
+Guided by these three mandates, the new pilgrimage continued in full flow, with slowly increasing numbers of grey pilgrims abroad in every land in the Empire until the end of 386YE. During that year, as [[A_thousand_years_of_longing|more information about the vallorn was discovered]], the realisation came that the [[The_final_countdown#A_Time_To_Sing|final battle with civilisation's mortal enemy]] was closer than anyone had believed possible. The call went out to the grey pilgrims to come home and prepare to take the fight to the vallorn.
+
+<div style="float:left; width: 500px; clear: left;">{{CaptionedImage|file=Grey Pilgrims.png|width=500|caption=The pilgrimage has four key goals; [[#Defeat the Vallorn|defeat the vallorn]], [[#Oppose Heresy and Idolatry|oppose heresy and idolatry]], [[#Convert the Foreigners|convert the foreigners]], [[#Guide the Human Nations|guide the human nations]].|align=left}}</div>
+
+==Playing a Grey Pilgrim==
+The key reason to create a grey pilgrim is to adopt one or more of the four goals of the pilgrimage. Each of these can give,
+===Defeat the Vallorn===
+The vallorn is the fundamental reason for the pilgrimage. It has existed for centuries, a threat older even than the Empire itself. Dedicating yourself to pushing back the vallorn and freeing those who have been trapped by it is a great challenge for any Highborn character, one that is likely to take a lifetime to complete. 
+
+The [[Navarr]] were fighting the vallorn before they joined the Empire, so finding ways to support them in their battle is a great place to start. Walking the trods is vital to weaken the vallorn, but the key discoveries and decisions are made at Anvil - anything you can do there to focus the Empire's energies against the vallorn could be effective. 
+
+===Oppose Heresy and Idolatry===
+The pernicious influence of eternals makes idolatry a constant risk in the Empire. Likewise, despite the best efforts of the Synod, false virtues like Hatred, Vengeance, and Peace still exist in some parts of the Empire. Your pilgrim might be determined to root out these evils and oppose them as best you can.
+
+You can fight heresy and idolatry while walking the trods, but the most important place to pursue this goal is at the summits at Anvil. The powerful leaders of the Empire can fall from grace as easily as any - but the consequences of them doing so will be far more grave precisely because of the power they wield.
+
+===Convert the Foreigners===
+In recent times, there have been an influx of foreigners visiting the Empire, with merchants from Faraden, architects from Asavea and priests from Sumaah and the Commonwealth. Any grey pilgrim can devote their time to talking to foreigners in an attempt to convince them to adopt the Way.
+
+Encounters with foreigners are more rare at Anvil, where they visit only infrequently. However the foreigners who do come to the summits are often important and influential characters in their own lands. A pilgrim who is intent on converting the foreigners would be well advised to take an interest in the Empire's dealings with foreign nations if they want to be really effective.
+<div style="float:right; width: 500px; clear: right;">{{CaptionedImage|file=Guide the Human Nations.jpg|width=500|caption=Ultimately the pilgrimage is about saving souls - from the vallorn or from the many threats that besiege the virtuous.|align=right}}</div>
+
+===Guide the Human Nations===
+Some pilgrims seek to guide all humanity to help them understand that every nation - Highguard included - has faults and is in danger of being lost to false beliefs. As they walk the trods they encourage those they meet to question their beliefs and question the beliefs of those who preach to them. The goal is to help everyone identify and abandon heretical beliefs.
+
+At Anvil, you'll have plenty of chances to talk with members of other nations, to discuss matters of faith, to question ideas and encourage those you interact with to perfect their faith, as well as opportunities to question your own beliefs when challenged.
+
+==Creating a Grey Pilgrim==
+The grey pilgrims are an archetype that was created in response to the actions of players, the Highborn characters whose leadership has been pivotal in encouraging citizens.
+
+Not all the Highborn citizens who walked the trods call themselves pilgrims, those who did were the ones most committed to the aims of the pilgrimage, to save the souls of humans throughout the Empire and even beyond its borders. If you are considering playing a grey pilgrim, it is important to read the four aims of the pilgrimage to ensure that they are something you are interested in pursuing. You don't have to care about all the goals of the pilgrimage, but you're not a grey pilgrim unless you are intent on pursuing at least one of the four goals.
+
+Most pilgrims have only recently returned home, having completed an epic pilgrimage that took nearly five years for some of them. Actually walking the trods for that long is an extraordinary event in most Highborn's life. Of course the Navarr have been walking the trods for centuries - but that march defines their whole lives - they're born to it. The grey pilgrims gave up everything, their homes, their lives, their loved ones, to take up the march alongside their Navarr cousins. The pilgrimage should be a pivotal moment for your character. 
+
+A group of pilgrims may be from a single [[Chapter|chapter]], or they may come from different [[Chapter#Chapterhouse|chapterhouses]]. Unlike the Navarr stridings that are constantly in motion, the majority of pilgrims planned their journeys so that they could return to Highguard periodically to rest and resupply. Returning home was an important part of the pilgrimage - a chance to reflect on the journey, reconnect with ones friends and family, and prepare for the next pilgrimage. Now that the pilgrims are returning home they are rejoining their old chapters, so it's fine to be from an existing chapterhouse, one played by current players, but it's worth contacting the group just to check they are happy with you doing that.
+
+If you create a group who were focused on the pilgrimage, it is perfectly acceptable to have characters in the group who aren't playing pilgrims. Many groups of pilgrims are accompanied by [[Highguard_military_concerns#Cataphracts|guardians]], [[Highguard_military_concerns#Cataphracts|cataphracts]], or [[unconquered]] who travel with them to provide protection. Likewise, [[benefactor|benefactors]] and [[Highguard_history#Archivists|archivists]] and other Highborn characters all had good reasons to accompany a group of pilgrims, but if your group doesn't include these sorts of characters you are likely to be dependent on the other Highborn groups for help, a situation which will make the events much more enjoyable for everyone in your group. You will have to roleplay with the chapterhouses to obtain what you need, which is a lot more fun than just being able to sort it out without any roleplaying required.
+<div style="float:right; width: 300px; clear: right;">{{CaptionedImage|file=Aid_and_Support.jpg|width=300|caption=The Highborn support the Navarr - but also have their own wider goals.|align=right}}</div>
+Focusing your group on faith, perhaps by creating a single sect for the group, makes a lot of sense, but isn't essential. It is easy to assume that all pilgrims are priests, but they don't have to be. They are devout and pious - the grey pilgrims have been inspired by their faith to give up the relatively safe life in Highguard in exchange for the labours and the dangers of the trods - so your pilgrim should be virtuous and committed to The Way. But most of the pilgrims are layfolk not priests - so your pilgrim can be a soldier, a trader, a magician as easily as a priest.
+
+Most pilgrims have now returned home to prepare for the fight with the vallorn, but that is a choice you can make for your character. Those preparations could take time, so if you want your character to still be committed to walking the trods then that is fine. Equally the idea of a grey pilgrim who has returned home from the pilgrimage for the first time in years - and is coming to Anvil to agitate for war with the vallorn makes a great basis for a new character.
+
+You can create and play a lone pilgrim; the archetype is particularly good for individuals who want to develop links with groups across the Empire. You may struggle for resources and support - but the more you can help others, the more support you'll receive in turn.
+
+==Grey Pilgrims and the Synod==
+The pilgrimage began at the behest of the Highborn Assembly and most grey pilgrims look to their national assembly for guidance. Following the greater majority decision of the Assembly of Nine to support the pilgrims in their goals, most will also heed the words of the Nine. As a player, how much you are influenced by the Synod is a choice for your character; but it is a good idea to keep abreast of Synod judgements and to take account of those that support the goals of the pilgrimage.
+{{Vallorn links}}
+[[Category:Highguard]]
+[[Category:Archetype]]

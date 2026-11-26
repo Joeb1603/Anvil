@@ -1,0 +1,44 @@
+{{CaptionedImage|file=Starcathedral.jpg|caption=Final impression of the planned cathedral of the Navigators.|align=left|width=400}}
+==Overview==
+The Bishop of the Navigators (or ''Bisschop van de Zeevaarders'' to some of the [[Sarcophan Delves|Sarcophan]]) is an [[Imperial title]] charged with maintaining good relations between the priests at the [[Construct_Cathedral_of_the_Navigators|Temple of the Way]] in the [[Sarcophan Delves]], known as the [[#Cathedral of the Navigators|Cathedral of the Navigators]], and the local populace.
+
+During 387YE, an [[Can%27t_give_everything_away#The_Art_of_the_Tomb|arrangement]] was negotiated between the benefactors of Highguard and a Sarcophan sect called the ''De Verzamelaars van Beeltenissen'' - "the Collectors". This saw an increased interest in Highborn art and iconography of the way, and brought prosperity to the nation's businesses and farms. It unfortunately did so at the [[All_the_night-tide#Money_for_Art's_Sake|expense of Sarcophan trust]] in the Cathedral of the Navigators. By the Spring Equinox 388YE, the [[#Merchant Ministry|merchant ministry]] had declined significantly, and the cathedral had ceased gathering the poorer elements of Sarcophan, removing the low ministry entirely.
+
+==Responsibilities==
+The Bishop is responsible for supporting the Cathedral of the Navigators in Sarcophan, and maintaining the relationship between the [[Synod]] and the priests serving there. For the most part, this is likely to involve smoothing over any conflicts, and dealing with any problems of [[opportunity|opportunities]] related to the Cathedral.
+
+==Powers==
+===Point of Contact===
+Imperial priests serving in Sarcophan will look to the Bishop to resolve any issues between themselves and the Sarcophan, in conjunction with the [[Ambassador to the Sarcophan Delves]] and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+===Merchant Ministry===
+<div style="width: 500px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible"><tr><td colspan="2" style="background-color: LightBlue;">'''Sarcophan Gifts'''</td></tr>
+<tr><td>12 doses of liao</td><td>3 measures of beggar's lye, 3 ingots of weltsilver, 4 marrowort, 4 imperial roseweald</td></tr>
+<!--<tr><td>28 doses of liao</td><td>6 measures of beggar's lye, 6 ingots of weltsilver, 6 marrowort, 6 imperial roseweald, and 4 random herbs</td></tr>
+<tr><td>50 doses of liao</td><td>9 measures of beggar's lye, 9 ingots of weltsilver, 8 marrowort, 8 imperial roseweald, and 9 random herbs</td></tr>-->
+<!--<tr><td>77 doses of liao</td><td>12 measures of beggar's lye, 12 ingots of weltsilver, 10 marrowort, 10 imperial roseweald, and 13 random herbs</td></tr>
+<tr><td>108 doses of liao</td><td>15 measures of beggar's lye, 15 ingots of weltsilver, 12 marrowort, 12 imperial roseweald, and 18 random herbs </td></tr>-->
+</table></div>
+By donating [[liao]] to the Cathedral, the Bishop receives gifts and recompense in a manner identical to that of a [[ministry]]. The Bishop spends their liao and makes their choices during downtime from their character page. Liao is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+<!--<div style="width: 500px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Low Ministry'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>28 doses of liao</td><td>12 random herbs and 8 crowns</td></tr>
+<tr><td>50 doses of liao</td><td>18 random herbs and 12 crowns</td></tr>
+<tr><td>78 doses of liao</td><td>24 random herbs and 16 crowns</td></tr>
+</table></div>-->
+<!--
+===The Low Ministry===
+When priests of the Way visited Sarcophan to [[Parts_of_speech#Sarcophan|spread news]] of the [[The_Doctrines_of_the_Faith#The_Doctrine_of_Enlightenment|Doctrine of Enlightenment]], they were supported by Tabris, Son of Armisael themselves, the then Bishop of the Navigators. This unexpectedly increased demand for [[liao]] significantly in the Delves. As such the Bishop's ability to [[Bishop_of_the_Navigators#Ministry|donate liao]] to the Cathedral's work increased, adding an additional ministry specifically dedicated to dealing with the poorer segment of Sarcophan Delves society. They don't have the kind of wealth their richer neighbours can contribute, but they are no less interested in receiving the "blessings" the Cathedral has to offer and if anything are even more enthusiastic about the virtues of Ambition and Prosperity.-->
+<!--{{CaptionedImage|file=BishopNavigators.jpg|caption=Tabris, Son of Armisael; Bishop of the Navigators|align=left|width=400}}-->
+==Appointment==
+This title is appointed during the Summer Solstice. The Bishop is [[appointment|appointed]] by a [[judgement]] of [[Appointment]] in the [[Assembly#General_Assembly|General Assembly]]. 
+
+Any Imperial citizen may hold this title. They can be revoked by the General Assembly and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+{{RecentElections|Bishop_of_the_Navigators}}
+==Cathedral of the Navigators==
+This massive white granite temple of the Way dominates the skyline of the Buitenlandsewijk, an area of the Delves where foreign investment is welcomed and encouraged. Seven tower-shrines, each dedicated to one of the virtues, surround a central bastion where priests of the Way preach [[the Doctrines of the Faith]] to visiting pilgrims, and to local adherents. Each of the eight towers is topped with a dome of polished mithril that catches the light of the rising and setting sun in a way that is described as both majestic and inspiring.
+{{Responsibilities Expectation}}
+[[Category:Foreign Nations]][[Category:Title]][[Category:Synod]]
+{{Sarcophan Links}}

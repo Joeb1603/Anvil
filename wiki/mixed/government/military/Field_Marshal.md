@@ -1,0 +1,116 @@
+---
+title: Field Marshal
+source: https://www.profounddecisions.co.uk/empire-wiki/Field_Marshal
+class: mixed
+topic: government/military
+categories:
+- Military Council
+last_edited: '2026-01-16T09:44:55Z'
+revision: 133238
+in_character_boxes: 1
+---
+
+# Field Marshal
+
+*[Image: Generals Ruth and Vanhe Korppi, both former field marshals, share a moment of levity with the Senator for Therunin.](https://www.profounddecisions.co.uk/empire-wiki/File:Field_marshals.jpg)*
+
+## Overview
+
+The Field Marshal is chosen by the [Military Council](Military_Council.md) to provide the Empire with leadership for a major battle involving the Empire's heroes. It has its roots in the [pre-Imperial traditions](../../../in-character/nations/the-marches/The_Marches_history.md#after-the-march) of [the Marches](../../../in-character/nations/the-marches/The_Marches.md), its role secured as part of the agreement that brought that nation into the Empire and laid the foundations for the Military Council. The Marshal serves only for a single battle, and the position has no role in the ongoing military campaigns involving the [Imperial armies](../../../out-of-character/rules/Army.md). The position has few legal powers but it is prestigious - nearly half of those who have sat on [The Throne](../../titles/The_Throne.md) have served as Field Marshal at some point during their life.
+
+Although the Field Marshal does have some legal powers, it is not considered to be an [Imperial title](../../titles/Imperial_title.md) under the terms of the constitution. This is because of the extremely limited tenure of the position - a successful Field Marshal may be called upon multiple times, but each appointment effectively lasts for a single day.
+
+## Responsibilities
+
+The Field Marshal is appointed to lead the Imperial heroes who travel through the [Sentinel Gate](../../../in-character/world/Sentinel_Gate.md) to do battle with the barbarians. They have the ultimate authority for determining the plan for the battle although in practice they are well advised to do so in concert with the [generals](../../titles/General.md) of the Military Council. They do not have the power to order generals or other citizens to fight, so the support of the Council can be pivotal in ensuring that everyone follows the plan.
+
+The Field Marshal is expected to report to the Senate on the conduct and outcome of a battle, including any exceptional actions undertaken by individuals or banners under their command, as well as explaining any failures that may have taken place. If the Field Marshal does not survive the battle, then tradition dictates that those Imperial generals who do survive must draw straws to see who will fulfil the responsibility.
+
+> *In-character text:*
+>
+> In 134YE, the Marcher Field Marshal Rose Hale of Meade burned to death in a wicker man before she could account for the battle before the Senate. Although her friar argued that Rose had acted virtuously, accepting responsibility for the disastrous strike on the Jotun position near Meade, she was excoriated for her cowardice in the Senate and excommunicated post-mortem by the Synod. The Conclave only narrowly failed to pass a declaration to summon her shade using Whispers through the Black Gate to address an extraordinary session of the Senate. Chasina of the Stone Souls Chapter, Archmage of Winter declared that "*alive or dead, Rose Hale will do her duty and account for those who died today.*"
+
+*[Image: The Field Marshal does not have the legal authority to order a citizen of the Empire to fight as they command.](https://www.profounddecisions.co.uk/empire-wiki/File:Some_Concern.jpg)*
+
+## Leadership
+
+Only the Field Marshal has the authority to set the battle plan that will be employed by the Empire. Although the Field Marshal does not have the legal power to issue *orders* to Imperial citizens on the battlefield, they are expected to give instructions and direction to the Imperial generals present and to those serving under them. They can't legally compel a citizen to follow orders, but there is a clear expectation from most Imperial citizens that those present on the battlefield will *act on any reasonable instruction*.
+
+It is not illegal for a citizen to defy the instructions of the Field Marshal but those who do so openly usually find themselves punished by their fellow citizens, especially the [Cardinals](../../titles/Cardinal.md) and priests of the [Synod](../synod/Synod.md) and the other generals of the Military Council, if they cannot justify their actions.
+
+It is possible to commit a crime by actively undermining a Field Marshal (or any Imperial general). Any attempt to interfere with the leadership of a battle, for example by changing instructions or acting to prevent them from reaching their destination is classed as [subverting the agencies of the state](../senate/List_of_Criminal_Offences.md#crimes-of-position) and can carry a heavy penalty.
+
+## Powers
+
+### Right to Address the Senate
+
+The Field Marshal has the [Right of Address](../senate/Senate_address.md) for the [Senate session](../senate/Senate_session.md) that follows their battle. By tradition this is usually the first issue put to the [Senate](../senate/Senate.md) by the civil service. Because of the formality of the power, it is not normally necessary for a Field Marshal to inform the civil service in advance of their intention to address the Senate.
+
+### Right to Address the Council
+
+The [first address](Council_address.md) at the [Council session](Council_session.md) following a battle is automatically given over to the Field Marshal. If the Field Marshal is a member of the Military Council then they this address in is addition to any they might normally give. Traditionally the Field Marshal will use their address to provide an overview of how the battle went including commendations for any Imperial citizens or banners whose conduct was notably exemplary.
+
+## Limitations
+
+The Field Marshal does not have the legal authority to order a citizen of the Empire to fight as they command. In practice, since they have been chosen by the [Military Council](Military_Council.md) it is likely that the majority of those who sit on the Council will give the Field Marshal their full support, but this is not guaranteed. Most of those who are granted the position more than once begin their career by providing leadership to achieve consensus amongst Council members.
+
+Likewise the Field Marshal does not have the legal authority to compel Imperial citizens to fight or serve. An Imperial general can give orders to members of their army who are on campaign with them - but no Imperial citizen can legally give orders to the heroes and heroines who volunteer to risk their lives by going through the [Sentinel Gate](../../../in-character/world/Sentinel_Gate.md). A new Field Marshal is best advised to use the Imperial generals and their [adjutants](../senate/Proxy.md) as a chain of command to communicate their wishes.
+
+As the Field Marshal is not considered to be an Imperial title, they may not appoint a proxy to exercise their legal powers of address in their absence. Like the Throne, they may only use these powers in person.
+
+## Selection
+
+Field Marshal is not an [Imperial title](../../titles/Imperial_title.md), and so there is no restriction against someone with a title holding the position. The Military Council select the Field Marshal for each battle, by vote when a unanimous candidate cannot be agreed upon. This is often surprisingly contentious; consensus is the ideal and is often reached, but if it cannot be generally agreed upon, then all suggested candidates are put to the vote, with the candidate receiving the least votes being eliminated each time until only one remains.
+
+The Military Council are legally required to decide who will be the Field Marshal by midnight on the night before a battle. The Council may change their mind at any point up to this time, by majority of all the Imperial generals in position.
+
+> **The Equine Rod**  
+> The Field Marshal was once granted possession of an Imperial artefact, the Equine Rod, an ancient baton topped with a horses head that is both a potent magical item and a symbol of office. The Equine Rod was lost in 364YE when the Field Marshal Isold de Rousillon, the adopted niece of Emperor Hugh was caught in a trap by Grendel raiders and slaughtered. A non-magical replacement for the Equine Rod was lost when Empress Britta was killed in 376YE. After the death of Empress Britta, the rod figured significantly in the quest to return [Spiral Castle](../../../in-character/nations/dawn/Weirwater.md#spiral-castle) to the Empire, and its current whereabouts is unknown.
+
+## OOC Design Notes
+
+The idea that the Empire does not legally enforce a chain of command reflects the design goals of Empire - to place an emphasis on the agency of individual players. Players who think in terms of modern notions of professional soldiers, even from the medieval period might question how realistic this arrangement is. Traditional military dogma presents the idea that a clear unified chain-of-command backed by legal punishment for those who do not follow orders is the most effective approach.
+
+Some historical accounts of war do reflect the Empire approach however - the story of Achilles in the fall of Troy is one of an independent hero, serving under his own cognizance and not beholden to the Greek kings. Although Empire uses the medieval period as its primary historical inspiration, the influence of earlier periods and cultures permeates the setting. In particular, the setting is founded on the notion that the players - those who attend the summits at Anvil - are the heroes of the Empire - not the foot-soldiers.
+
+The reason we chose this approach for Empire is because the out-of-character enjoyment of the Empire players is critically more important than the in-character triumph of the Empire. Most live roleplayers who go on to the Empire battlefield are looking to enjoy themselves as heroes acting on their own agency, not find themselves subjugated to a chain-of-command that robs them of their independence in return for enhanced battlefield efficacy. In Empire you can't be ordered to go and fight away on the other side of the battlefield from your friends in your group, you can't be ordered to hold a reserve position if you want to get stuck into the fight.
+
+Of course players are free to choose characters and groups who are more disciplined and who employ a more rigid chain of command if they wish. A Highguard chapter, an Imperial Orc legion, or a Marcher household might well encourage everyone to follow orders to the letter - the better to reflect the disciplined character of those nations. But a Wintermark band of Frayed seeking a good death or a group of [Freeborn](../../../in-character/nations/the-brass-coast/The_Brass_Coast.md) [corsairs](../../../in-character/nations/the-brass-coast/Corsair.md) can choose a different path.
+
+Groups should expect to face the wrath of the Empire if they refuse to follow the instructions of the Field Marshal and the Imperial generals - they can expect to be denounced by the Senate they risk being revoked or excommunicated by the [Synod](../synod/Synod.md), even by their own National Assembly. The Empire is not forgiving of those whose actions imperil their compatriots on the battlefield - and it possesses tools to punish them if the action is sufficiently blatant or egregious to move people to act. But these judgements are down to other players through the political system - they will not usually derive from our NPC magistrates through the legal system.
+
+## Further Reading
+
+### Core Brief
+
+- [Military Council Overview](Military_Council.md)
+- [Muster](Muster.md)
+- [Council Session](Council_session.md)
+- [Powers of the Imperial Military Council](Powers_of_the_Imperial_Military_Council.md)
+- [General](../../titles/General.md)
+- [Army](../../../out-of-character/rules/Army.md)
+- [Navy](../../../out-of-character/rules/Navy.md)
+
+### Additional Information
+
+- [War](../../../out-of-character/rules/War.md)
+- [Council Address](Council_address.md)
+- **Appointments to the Military Council**
+  - [The Throne](../../titles/The_Throne.md)
+  - [Warmage](../../titles/Warmage.md)
+  - [Marshal of the Faith](../../titles/Marshal_of_the_Faith.md)
+  - [Herald of the Council](../../titles/Herald_of_the_Council.md)
+- [Imperial Roll of Honour](../../../in-character/roll-of-honour/Imperial_Roll_of_Honour.md)
+- **Appointments by the Military Council**
+  - Field Marshal
+  - [Imperial Fleet Master](../../titles/Imperial_Fleet_Master.md)
+  - [Imperial Huntsmarshall](../../titles/Imperial_Huntsmarshall.md)
+  - [Imperial Master of Works](../../titles/Imperial_Master_of_Works.md)
+  - [Imperial Warcaster](../../titles/Imperial_Warcaster.md)
+  - [Legate of the Imperial Auxiliaries](../../titles/Legate_of_the_Imperial_Auxiliaries.md)
+  - [Quartermaster General of the Imperial Armies](../../titles/Quartermaster_General_of_the_Imperial_Armies.md)
+- [OOC Design](../../../out-of-character/game-design/Military_Council_design.md)
+
+---
+
+Categories: [Military Council](../../../indexes/by-category/Military_Council.md)

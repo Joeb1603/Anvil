@@ -1,0 +1,27 @@
+{{Army Page}}
+{{CaptionedImage|file=GranitePillar_Colour.png|align=right|width=300}}
+===Overview===
+The guardians of the Granite Pillar are usually arrayed in heavy armour with shield and sword, supported by cataphracts and martially inclined [[magister|magisters]]. They practice tactics designed to emphasise their [[Army qualities#Disciplined|discipline]], and are always accompanied by military chaplains who dedicate themselves to supporting and blessing the soldiers, helping them to remain focused on the battlefield and highlighting the virtues of [[Loyalty]], [[Courage]] and [[Pride]]. 
+
+The first Highborn general leads the Granite Pillar army, and is appointed (or re-appointed) at the Summer Solstice each year.
+
+===History===
+TBC
+__NOTOC__
+TBC
+====Recent History====
+TBC
+
+===Traditions===
+TBC
+
+====Empire's Heart====
+The General of the Granite Pillar bears ''Empire's Heart'', an artefact [[Banner of the Bold]]. It is the legal property of the title. If the general loses their position, then the item must be given to the new general with all appropriate haste. The general is encouraged to take all appropriate precautions to keep this item safe.
+
+==Composition==
+TBC
+==Army Quality : [[Army_qualities#Disciplined|Disciplined]]==
+The Granite Pillar practice tactics that emphasise their [[Army qualities#Disciplined|discipline]], remaining focused on the battlefield and drawing strength from their commitment to [[the Way]]. 
+{{CaptionedImage|file=Sychar of Ebon's Hall.jpg|caption='''Sychar  of Ebon's Hall''', General of the Granite Pillar|align=left|width=300}}
+{{RecentElections|General_of_the_Granite_Pillar|the title of [[General]] of the Granite Pillar}}
+[[Category:Imperial Army]][[Category:Highguard]][[Category:Military Council]]

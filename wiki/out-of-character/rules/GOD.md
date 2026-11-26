@@ -1,0 +1,268 @@
+---
+title: GOD
+source: https://www.profounddecisions.co.uk/empire-wiki/GOD
+class: out-of-character
+topic: rules
+categories:
+- Rules
+last_edited: '2026-09-10T21:47:09Z'
+revision: 145532
+---
+
+# GOD
+
+All Profound Decisions events are administered from the Games Operation Desk (GOD), the location of which is marked in each event guide. Members of the GOD crew are there to help you with any administrative or general queries that you have about the event – we might not know the answers ourselves, but we can get hold of the people who do.
+
+## Opening times
+
+GOD is usually open for normal service during the times given here. Sometimes we need to close during these times – we'll put a notice up by the entrance if so.
+
+| On... | GOD is open... | For... |
+| --- | --- | --- |
+| Thursday[(1)](#1) | 20:00–22:00 | Pack handout, limited lost property |
+| Friday | 13:00–16:00 | Pack handout, limited lost property |
+| 17:00–01:00 Sat | Normal service |
+| Saturday | 09:30–01:00 Sun | Normal service |
+| Sunday | 09:30–12:00 | Normal service |
+| 12:00–15:00 | Normal service, resource hand-in |
+| 15:00–17:00 | Resource hand-in, lost property |
+
+1. We try to start pack handout on Thursday evening, and aim to be open by 20:00. This is dependent on lots of moving (or, as is sometimes the case with the M6, non-moving) parts, so isn't guaranteed! We try to get a notice with our estimated opening time up sometime late on Thursday afternoon.
+
+## Accessibility
+
+- **You can set up a proxy to come to GOD on your behalf**
+- **If you want to come to GOD yourself, let us know your access needs and we will try to help**
+
+Any player can nominate one or more other players as out-of-character proxies to interact with GOD on their behalf. This includes all services, not just pack collection! Email [admin@profounddecisions.co.uk](mailto:admin@profounddecisions.co.uk) with your nominated proxy's details (name and PID), and we'll register that on the system. If you've nominated another player to act as a proxy for you for this purpose then you will be able to see their details in your [summary status](https://www.profounddecisions.co.uk/account/summary) on your Profound Decisions account when you log in.
+
+This sort of proxying only affects out-of-character processes, like interacting with referees or GOD. Separately, characters with certain Imperial titles can [appoint another character to act on their behalf in character](../../mixed/government/senate/Proxy.md).
+
+If you would prefer to come into GOD yourself, we can make a variety of accommodations. Please come directly to the lost property or potions desk and let us know if you would like support with access. Depending on the circumstances, for example, we might be able to let you bypass the main queues, provide seating while we're dealing with your queries, or take you to a quieter area. Many GOD volunteers are disabled ourselves; we can't fix everything, but we're happy to get creative about what we can offer.
+
+## GOD services
+
+### First point of contact
+
+- **If you're not sure where to ask a question, GOD is a good place to start**
+- **In an emergency, find anyone with a radio; GOD or First Aid (opposite GOD) are likely to be able to help**
+
+If you need anything at an event and you're not sure where to go, GOD is a good place to start. Depending on what the problem is and when you come to us, we might need to get someone from another team to help you or ask you to come back later, but a key role for GOD is knowing what resources might be available and how to access them.
+
+For example:
+
+- If you're confused about some of the game rules, we might be able to talk you through some issues, we might be able to direct you to some of the [new player meetings](../events/New_player_schedule.md) where there will be lots of other players as well as crew on hand to answer those sorts of questions, or we might be able to get a [referee](Referee.md) who can go into more detail.
+- If your car has broken down, we'll be able to get in touch with the [site infrastructure team](../crew/Site_crew.md), who can sort out simple problems like flat batteries themselves (although if you have jump leads, getting another player nearby might be quicker still!), or we can make sure the traffic team are aware so they can direct a breakdown company to where you're parked.
+- If you're struggling to have fun, we can radio the [participant welfare team](../events/Participant_welfare.md) or your nation's [egregores](../crew/Egregores.md), who will be able to help you find a way to get more involved in the game.
+
+### Character packs
+
+- **You, or your proxy, can collect your character pack from GOD any time we are open**
+- **We will need to know your PID in order to locate your pack**
+- **If you have booked a ticket at the concessionary rate and you *have not* provided evidence you are entitled to a concession before the event, you will need to join the queue for the concessions desk**
+
+Character packs normally contain in-game resources from your character's income and resource production, and may also contain things like plot documents and small items of lost property we've confirmed belong to you.
+
+You or your proxy will need to visit GOD to collect your pack. From Thursday evening to shortly before time in, general pack handout takes place along both sides of the tent – the tables will be labelled with PID ranges so you can see where to go. After time in, general pack collection is from the potions desk. Please try to collect your pack early on in the event – they take up a lot of space! We start breaking down uncollected packs on Saturday afternoon, so if you come to collect your pack after then, you may need to wait for us to reprint and reassemble it, or pick up the resources you missed out on at the following event.
+
+We will need to know your PID to locate your pack. Your PID *should* be on your ticket. If your ticket shows your PID as "null", don't worry – you almost certainly do have a PID, it just didn't exist when your ticket was generated. You can check this yourself by logging into the PD website and checking the Account Summary page, or we can look it up for you! We can also look up your PID if you don't know it for any other reason – but this will take a little longer.
+
+If you book in advance (Early, Late, and Gate bookings made before you reached the site) and have an active character, your pack should be ready for you to collect when we open.
+
+If you buy a ticket when you arrive on site and have an active character, we will make your pack up once your booking has been processed. If you try to pick your pack up before your booking has been processed, show us your receipt and we will make it up as soon as possible. Depending on how busy we are, this might be immediate or we might need to ask you to come back later.
+
+If you do not have an active character, no pack will be created for you. You will need to create a character (on your own device or using the [player computers](#player-computers) in GOD). Once you've done this, please join the *computer queries* queue to let us know that we need to set your character as active and make up a pack for you. If you need another pack for a new character, because your existing character has died or you want to retire them, this also applies. Depending on how busy we are, we will either make your pack up immediately or ask you to come back later.
+
+If you booked a ticket at the **concession** rate, please e-mail evidence that you're entitled to the concessionary rate (e.g. student ID, screenshot of UC account page) to [admin@profounddecisions.co.uk](mailto:admin@profounddecisions.co.uk) *before* the event begins – this means you can join the general pack handout queue, which moves much faster and doesn't need you to wait while we faff about on the computer. If you weren't able to e-mail in proof of entitlement before the event, you will need to join the queue for the concessions desk (before time in) or queries desk (after time in) to collect your pack. You will need to show us evidence you are entitled to a concession or pay the difference between a concession and a full-price ticket in order to collect your pack. Note that you have to provide evidence that you're entitled to a concession for every booking you make – if you book three events at once you'll only have to provide proof at or before the first event, but if you book them separately you'll have to provide proof each time.
+
+If you are a member of **crew**, you should receive an e-mail a few days before the event letting you know whether to pick your pack up from GOD or from your head of department.
+
+### Player Computers
+
+- **There are a number of computers for players to use to check the wiki or log into the PD website**
+- **You can also connect your own devices to the PD\_PUBLIC Wi-Fi network**
+- **The network is not connected to the Internet; only the PD servers are accessible**
+
+Player computers are usually located by the main entrance to GOD. You can use these to set up a new [character](Characters.md), learn [skills](Skills.md), create [bands](Bands.md), and check information on the Empire wiki.
+
+Alternatively, you can connect to the PD\_PUBLIC network and visit [www.profounddecisions.co.uk](http://www.profounddecisions.co.uk) to do all the same things from your own device. Note that this Wi-Fi network is connected to the PD servers in the field, but isn't connected to the Internet. That means you won't be able to check Facebook or your email, but you will be able to read this wiki and access your character account. Some phones will detect the lack of internet access and "help" by automatically disconnecting you from the Wi-Fi network so you can use mobile data; you may want to turn off mobile data to stop this happening.
+
+If you need help with logging into your PD account (e.g. a reminder of your username or resetting your password), please join the general queries queue. The Reset Password button will not work while the servers are in the field – you'll need us to do that for you.
+
+### Potions
+
+- **To mix [potions](Potion.md), go to the potions desk past the desks with computers**
+
+Please try to bring your character passport (so we can check what you can make without needing to go over to a computer).
+
+It's really helpful if you have your herb cards already counted out and stacked together – e.g. if you want to make seven [Elixir Vitae](../../mixed/magic/potions/Apothecary_Potions.md#elixir-vitae), please have one stack of seven [cerulean mazzarine](Cerulean_Mazzarine.md) and another of seven [true vervain](True_Vervain.md), rather than seven pairs of one each.
+
+### Money changing
+
+- **To change money, head to the potions desk past the desks with computers**
+
+GOD is usually able to change [denominations of coins](../../in-character/world/Currency.md) at the potions desk. If you've got a large amount of money to change, please try to come in at a quiet time (during morning battles and after about 20:00 on Friday and Saturday are generally good!) – and if you can stack it up in nice round numbers for us that will definitely speed things up!
+
+If you only want to change a small number of coins and have mostly come into GOD for other reasons, whoever you're talking to will probably be able to do this for you.
+
+### Character admin
+
+- **For character admin, join the queries queue for one of our volunteers at a computer**
+
+Character admin includes:
+
+- Changing aspects of your character, e.g. changing your character's skills, their nation, their resource, and the spelling of their name
+- Registering when young players have passed their test of citizenship
+- Setting a new character to "active" and making up a character pack, if your previous character has died or been retired
+
+For all of these, join the general queries queue. We'll need to know your PID – we can look you up if necessary but it's quicker if you already know it!
+
+### Referee admin
+
+- **For referee admin, join the queries queue for one of our volunteers at a computer**
+
+If you're unable to find a referee in the field or at the Referee Access Tent (RAT), GOD is also able to:
+
+- Record [rituals](Rituals.md) and [ceremonies](Religious_skills.md)
+- [create bonds](Create_bond.md)
+- [Detect magic](Detect_magic.md)
+
+You'll also need to come to us if you want to:
+
+- Pick up a physical item, e.g. ribbons, area effect lammies, effigies
+- Add [iridescent gloaming](Materials.md#iridescent-gloaming) into your account so that you can perform [Call Winged Messenger](../../mixed/magic/rituals/Call_Winged_Messenger.md)
+
+Depending on what you want to do, we'll need:
+
+- Your PID
+- Anyone else involved (or their proxy) – and their PIDs!
+- For anything involving magical items, both the ribbon and the physrep
+- If you are joining a [band](Bands.md), you will need to demonstrate that you know the oath
+
+For all of these, join the general queries queue.
+
+### PD physreps
+
+- **For major PD "gold ribbon" physreps, collect them from the potions desk past the desks with computers**
+- **If you have one of these physreps you must return it by 15:30 on Sunday**
+- **If you picked up the physrep from GOD or you have explicitly agreed with PD, you may keep the physrep between events**
+
+There are some significant, recognisable physreps that PD provide, such as [Archmage](../../mixed/titles/Archmage.md) regalia. These have [gold ribbons](Stealing.md#gold-ribbon-items). If you are someone who should have one of these items, there will be a note in your character pack, and you can collect the item from the potions desk.
+
+If you have one of these items, you must return it to GOD by 15:30 on Sunday so that it can be safely stored between events.
+
+If the item is associated with a title that you hold, you may be able to keep the item between events, for example to go to player events. If you picked up the item yourself from GOD at the start of the event, you have permission to keep hold of the item. If you acquired the item during the event, including if you were elected to the title, you must either return the item or come to GOD to let us know you want to keep hold of it between events.
+
+### Resource hand-in
+
+- **If you want to use resources in downtime, you need to hand them in to GOD**
+- **Don't hand in resources you don't intend to use in downtime**
+- **Complete a hand-in sheet and deposit your resources at the potions desk on Sunday between 12:00 and 17:00**
+
+You can hand resources in at GOD *if you have plans to use them during [downtime](Downtime.md)* between events. We accept resource hand-ins on Sunday between 12:00 and 17:00. If you are leaving site before the end of the event, come and have a chat with us.
+
+To hand in resources, head to the potions desk and take a hand-in slip and a clear plastic bag. Fill out the slip *with exactly what you're handing in* e.g. if your bag contains 2 thrones, 23 crowns and 44 rings, please write that rather than working out how many rings there are in total. Please *don't* hand in anything that doesn't have a space on the hand-in slip unless a member of crew has told you to – e.g. please don't try to hand in potions. Once you've filled out your slip, put it in the bag with your stuff (make sure it's properly sealed!) and drop it off in the labelled crate.
+
+GOD is not a bank: we won't store items in your inventory during events, and in general we want to minimise the amount of stuff we have to count in and then count back out again. (Sometimes we wind up with a shortage of orichalcum, or 5 ring coins, or whatever – but if we want you to hand in things you're not expecting to use, there will be notices everywhere.)
+
+### Lost property
+
+#### Limited service
+
+Before time in on Friday, lost property is located by the exit from GOD. You can:
+
+- Hand in items you've found
+- Let us know about items you've lost *this event*
+- Collect items if
+  1. We have contacted you to let you know we’ve got something of yours. This will either be a stamp on your pack ("Lost property to collect" and/or "Arrows to collect"), and/or we'll have sent you a text message or e-mail. Small non-stabby items might be placed in your pack, in which case there won't be a stamp.
+  2. You’ve lost something since getting onto site at this event, and it's already been handed in.
+
+#### Normal service
+
+After time-in on Friday, lost property is by the main entrance to GOD. We aim to have all lost property, including all property that was handed in at the previous four events, accessible at or shortly after time-in on Friday. You can:
+
+- Hand in items you've found
+- Collect items we've contacted you about
+- Ask us to have a look for items lost at any of the past four events
+- Fill out a lost property slip for items that haven't been handed in yet, so we can get in touch with you if (and hopefully when) they show up
+
+If GOD is closed to players but crew are in the tent, you can ask us for help if you have lost an item that is important or valuable out-of-character (e.g. ID, phones, wallets, keys, medications, mobility aids). For other kinds of items, please wait until we reopen – we'll be happy to fill out a lost property slip with you then.
+
+#### "Freecycle"
+
+We keep items for a year after they’ve been handed in – that is, we’ll keep something that was handed in at E2 2023 until the end of E2 2024.
+
+On Sunday afternoon of each event we hold “Freecycle”, where anything we’ve had in lost property unclaimed for a year is laid out somewhere near GOD. A sign is put up outside GOD on Saturday night giving details for that event’s Freecycle. People queue up, choose one item, and then – if they like! – head around to the back of the queue for another item. We have limited storage space – this lets unclaimed things be used and loved.
+
+#### Between events
+
+If you lose an OOC valuable/important item and leave site before it is handed in, we might be able to return it by post at your expense between events. We'll confirm how much postage will cost with you before we post anything.
+
+We're sometimes able to bring home small items (e.g. jewellery, tiny stuffed toys, ...) where we can't identify the owner. If we do, we'll put photos up in the main FB group.
+
+Crew don't usually have access to lost property storage from the Monday after an event ends to the Wednesday before the next event begins. Please do report missing items (ideally with a photograph!) to [lostproperty@profounddecisions.co.uk](mailto:lostproperty@profounddecisions.co.uk) – just be aware that we're not likely to be able to have a look in advance of the next event.
+
+### Everything else
+
+- If you want to talk to us about practical OC issues (e.g. reporting an issue with a toilet or shower block, letting PD know about a dangerously slippery path, and similar) we'll be able to help from any desk, so just join the shortest queue. If it's urgent, skip the queue.
+- If you have a question and you're not sure who to ask (or where to find them), it's our job to sort that out for you. Please join the general queries queue.
+- The Sunday coach sign-up sheets are located at the lost property desk from 17:00 on Friday until 12:00 Sunday.
+- Packs of condoms are available to buy from the lost property desk.
+- We *sometimes* have pronoun badges, depending on whether makers have dropped any off with us. If these are available, they will be at the lost property desk.
+- We have a variety of educational pamphlets available from the lost property desk, which you can also print out yourself if you'd like (see [Resources](#resources)).
+
+## Tent layout
+
+This is a placeholder page for content that PD are actively working on.
+
+*[Image: GOD-layout-player-map-packs.png](https://www.profounddecisions.co.uk/empire-wiki/File:GOD-layout-player-map-packs.png)*
+
+Before time in on Friday, GOD is primarily set up for pack collection, with two queues:
+
+- Most people will need to join the **main queue**. Packs are arranged by PID, and you'll be directed to the correct side of the tent by our queue-wrangler.
+- The queue for the **concessions desk** is at the right-hand side of the main entrance. You should only join this queue if you have bought a ticket at the concession rate *and have not yet provided evidence that you are entitled to a concession*. If you have e-mailed proof in to PD and had a reply acknowledging this, join the main queue. If you received any other discount (e.g. multi-booking, referring a new player), join the main queue.
+- **Lost property** is at the back of the tent. At this point we will only have lost property that has been lost at this event, items where we have emailed the owner, or items for people who have a note on their character pack.
+
+*[Image: GOD-layout-player-map-normal.png](https://www.profounddecisions.co.uk/empire-wiki/File:GOD-layout-player-map-normal.png)*
+
+During normal service, we have three main queues. Please check you're in the right queue, and try to keep the queues separate: we don't want to keep you waiting any longer than necessary.
+
+- For the **potions desk** go through the main entrance and past the set of tables with computers. The queue for this desk is normally short. This is where you should go to mix potions, change money, and collect packs if you did not manage to do so earlier.
+- For the **queries desk**, you want any desk with a computer. The queue can be relatively long, particularly at busy times (at the start of the event and after battles), but we try to keep it moving quickly. This is where you should go for any character or referee admin, and to collect packs if you need to show evidence for a concession.
+- The **lost property desk** is set slightly back from the main entrance. The queue can get long, particularly after battles. You **must** queue for lost property, even if you can see your item: helping yourself or rummaging causes significant problems with our lost property tracking.
+
+There may also be a queue for **player computers**, especially after battles.
+
+For **resource hand-in** at the end of the event, collect a hand-in slip and bag from the tables by the main exit, then drop your items off at the potions desk.
+
+## Info for crew
+
+The crew entrance is at the back of the tent, to the right of the main entrance. If you've been told to collect your pack from GOD or you want to pick up a crew t-shirt, please use this entrance any time the tent is staffed (note that we can't usually hand out crew packs before we open for player pack collection on Thursday). For anything to do with playing your R&R character, please use the main entrance during our normal opening hours.
+
+If you need us to do something to help keep the event running smoothly, use any entrance and grab someone in blue!
+
+## Resources
+
+Of the Informational Pamphlets! Improving Literature! variety.
+
+- Rules summary: [A5 (for reading online)](https://www.profounddecisions.co.uk/mediawiki-public/images/b/b6/Rules_Guide_A5.pdf) and [A4 (for printing)](https://www.profounddecisions.co.uk/mediawiki-public/images/9/9e/Rules_Guide_A4.pdf)
+- Guide to coin and resin denominations: [A5 (for reading online)](https://www.profounddecisions.co.uk/mediawiki-public/images/6/60/Resource_Guide_A5.pdf) and [A4 (for printing)](https://www.profounddecisions.co.uk/mediawiki-public/images/4/4f/Resource_Guide_A4.pdf)
+- [Guide to Call Winged Messenger](https://www.profounddecisions.co.uk/mediawiki-public/images/0/0d/GOD-guide-to-call-winged-messenger.pdf)
+- [Lost property explainer](https://www.profounddecisions.co.uk/mediawiki-public/images/a/ad/Guide-lost-property.pdf)
+- [Printable ritual calculation aid](https://www.profounddecisions.co.uk/mediawiki-public/images/8/8d/Ritual_calculation_sheet.pdf)
+
+If you'd like to know more about what we do on this side of the hedge (or you're a member of GOD crew looking for the cheat sheets), the [GOD manual is available on the crew wiki](https://www.profounddecisions.co.uk/crew-wiki/GOD_manual).
+
+## Further Reading
+
+- [Characters](Characters.md)
+- [Playing the Game](Playing_the_game.md)
+- [Referees](Referee.md)
+- GOD
+- [Safety](Safety_overview.md)
+- [Conduct](Conduct.md)
+- [Downtime](Downtime.md)
+
+---
+
+Categories: [Rules](../../indexes/by-category/Rules.md)

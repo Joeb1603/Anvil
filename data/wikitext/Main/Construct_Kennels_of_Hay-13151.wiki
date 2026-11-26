@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:387YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Mitwold, Seconded: Upwold">Construct a money sinecure in Hay, Mitwold. Costs 10 wains of white granite and 30 crowns. Self-funded by Carefoot and Shaw Trading Company. Appointed as the 'Kennelmaster of Hay's Home for Wayward Dogs' with tenure by senators of the Marches.
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in Golden Downs, [[Mitwold]]
+* Passed
+
+==Date==
+* Autumn 387YE
+
+==Cost==
+* Standard costs apply
+* 10 wains of white granite
+* 30 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Kennels_of_Hay}}
+==Outcome==
+* Now complete, the [[Kennelmaster of Hay]] will be available to appoint by unanimous decision of the senators of [[the Marches]] for the first time at the Winter Solstice 387YE

@@ -1,0 +1,34 @@
+==Rules==
+{{Season|Night|6}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Resource|[[military unit]]}} must be present throughout.
+
+{{enchantment}}
+
+===Effects===
+The target military unit gains a bonus to its effectiveness when it takes [[Military_unit#Raiding|raiding]] action. 
+{{Military Unit Strength|40|2}}
+
+The character who controls the military unit experiences a short-lived [[roleplaying effect]]: ''You are filled with the urge to hatch clever schemes, especially those that misdirect or mislead your enemies or show your cunning.''
+
+{{Season Duration}}
+
+===Additional Targets===
+This ritual can affect additional military units controlled by members of the same [[Groups#Banners|banner]]. Each additional military unit increases the magnitude by 4. The character who controls each unit must be present throughout the ritual.
+
+==Description==
+This [[enchantment]] draws on the resonance of [[Night_magic#Obfuscation|obfuscation and concealment]] to wrap a [[military unit|warband]] in a shroud of concealment. Usually this veil takes the form of a natural phenomenon such as mist or rain, but when such a force is active, synchronicity conspires to help them remain undetected until the last moment. Stray winds or sudden spills extinguish lanterns or lamps; odd noises distract sentries or patrols; a guard might sneeze at just the right moment to cover a careless footfall. It may also occasionally be more overtly supernatural; a warrior might manage to hide behind a birch sapling for a few vital moments; a trained scout might mistake heavy boot-prints for deer tracks; a bobbing witch-light might lead a military unit into an advantageous position from which to launch an ambush.
+
+During a raid, warriors under this [[enchantment]] are empowered to reach their target without being seen able, and attack from ambush, giving them a valuable advantage. Over the duration of a battle or extensive scouting, the protection of the ''shroud of mist and shadow'' tends to even out, but in swift engagements it can give a decisive advantage.
+
+==Common Elements==
+This ritual enhances a small military force, using a connection to its leader to spread magic through the entire unit. It is common to include a banner, standard or even occasionally a musical instrument that will be used by the target force as a focus for the ritual. On occasion the banner is shrouded in white or black cloth to hide the insignia, and any heraldic devices or livery on shields or surcoats are likewise concealed when the ritual is performed. 
+
+Other common elements include the invocation of [[paragons and exemplars]] of [[Vigilance]] and [[Wisdom]], the eternal [[Janon]] or sometimes the [[Whisper Gallery]], and the names of folk heroes known for their cleverness, cunning or subtlety. Other elements include [[Dawn hearth magic#Girding|girding]] a military leader in robes, cowl, veils or masks; the quiet sound of disturbing music, dim lanterns moved in seemingly random patterns; the burning of incense to create clouds of smoke that represent mist, and the presence of blindfolded warriors as 'witnesses'.
+
+The Rune of Mystery, [[Wyr]], is often included.
+
+[[Category:Resource]]
+[[Category:Night Ritual]]
+[[Category:Rituals]]
+[[Category:Warfare]]

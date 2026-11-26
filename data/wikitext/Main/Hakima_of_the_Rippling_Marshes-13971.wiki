@@ -1,0 +1,36 @@
+===Overview===
+The Hakima of the Rippling Marshes is an [[Imperial title]] that oversees a [[ministry]] in [[Madruga]]. The ministry was established as part of the [[Construct Well of Life|announcement]] made by '''Dima Vasilyevna Novosad''', as the [[Master of the Koboldi]], the Grand Lodge of the [[Silver Chalice]], the ''Well of Life''.
+
+===Responsibilities===
+The Hakima of the Rippling Marshes is expected to encourage and support exploration of the Crucible and the Bayou and exploitation of the resources there. If the Well of Life were to be threatened in any way, it would be the responsibility of the Hakima to deal with those threats.
+
+==Powers==
+===Donations===
+If the Hakima of the Rippling Marshes is a member of the Silver Chalice, then grateful magicians living in the area will provide them with five doses of [[Elixir Vitae]] each summit.
+
+===Healing Potions===
+<div style="float:right; width: 400px; clear: right; margin-left: 10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color:LightYellow;">'''Potion Purchases'''</td></tr>
+<tr><td>6 Crowns</td><td>2 doses of Elixir Vitae, and 1 dose each of [[Bloodharrow Philtre]] and [[Ossean Solution]]</td></tr>
+<tr><td>14 Crowns</td><td>4 doses of Elixir Vitae and 2 doses each of Bloodharrow Philtre and Ossean Solution</td></tr>
+<tr><td>25 Crowns</td><td>6 doses of Elixir Vitae and 3 doses each of Bloodharrow Philtre and Ossean Solution</td></tr>
+</table></div>
+The Hakima of the Rippling Marshes has access to a [[ministry]]. The Hakima can purchase healing potions from visitors to the Well of Life for set prices. The Hakima makes their decision how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+<div style="float:right; width: 500px; clear: right;"><box><big>'''Suitability'''</big><br>The Hakima of the Rippling Marshes is intended to be held by a hakima. If the title is held by a character who does not have the [[hakima]] archetype then the player must email admin@profounddecisions.co.uk to let us know. They will not be able to make use of the ministry.</box></div>
+
+==Appointment==
+The Hakima of the Rippling Marshes is appointed during the Winter Solstice. The Hakima is appointed by citizens of the Brass Coast who control [[fleet|fleets]]. The voting is handled by the civil servants in the Bourse. 
+
+Only a Brass Coast character may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+
+<!--{{RecentElections|Hakima_of_the_Rippling_Marshes}}-->
+==Funding==
+Click ''Expand'' to see the list of contributions made to construct the Well of Life.
+<div class="mw-collapsible mw-collapsed">
+{{CommissionProgress|Construct_Well_of_Life}}
+</div>
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:The Brass Coast]]
+[[Category:Bourse]]

@@ -1,0 +1,4 @@
+==Overview==
+This category collects [[ritual|rituals]] that target various [[Resource#Personal_Resource|personal resources]]. Most are [[enchantment|enchantments]] that are performed on the character who owns the personal resource, using the [[Laws_of_magic#The_Law_of_Dominion|Law of Dominion]] to transfer the magic to the resource without actually enchanting the character themselves. The actual effects vary; some make the resource more productive or change their production while others have more esoteric powers such as hiding a resource from enemies or allowing one resource to act as if it were another.
+
+All these rituals are part of either [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]] or [[Urizen_magical_traditions#Urizen_Lore|Urizen lore]].

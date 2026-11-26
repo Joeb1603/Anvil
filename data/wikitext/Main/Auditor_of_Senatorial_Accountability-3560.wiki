@@ -1,0 +1,29 @@
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Nine.png|caption=This title is appointed by the Assembly of Nine|width=250px}}</div>
+==Overview==
+The ''Auditor of Senatorial Accountability'' is an Imperial title [[Create_title_of_Auditor_of_Senatorial_Accountability|created]] by the [[Senate]] in Spring 377YE with the responsibility to investigate the use of Imperial funds by senators and those with stipends.
+
+The Imperial Senate has responsibility for allocating and spending the treasury. They do this by appointing individual Senators to oversee projects from [[Construct Madruga shipyard|building a shipyard]] to [[Create Highguard army|raising an army]]. They also disburse funds to worthy causes such as the [[Support medical school and Anvil hospital|Anvil hospital]] or toward the creation of valuable tools for the Empire. In all such cases, it is the responsibility of the chosen individual to ensure that the funds are used wisely and for the purpose they are intended.
+
+The powers of the Auditor were extensively [[Amend powers of the Auditor of Senatorial Accountability|amended]] by the Imperial Senate in Spring 381YE. The responsibilities of the Auditor were further amended during the [[385YE_Summer_Solstice_Senate_sessions#Amend_Auditor_of_Senatorial_Accountability|Summer Solstice 385YE]] to explicitly include titles which receive stipends from the Imperial Senate, and that the Auditor's findings should also be reported to the [[Assembly#Assembly_of_the_Nine|Assembly of Nine]].
+
+==Responsibilities==
+The Auditor of Senatorial Accountability is charged with determining whether any Senate funds disbursed or otherwise assigned to members of the Senate or to civilians via a stipend are used with Virtue and for their intended purpose and with investigating any irregularities. The findings of the Auditor should be reported to Senate and the Assembly of Nine.
+__TOC__
+==Powers==
+===Right of Address===
+The Auditor has the right to make an [[Senate address|address to the Senate]] once per summit. This is intended to allow them to present important information for the senators' consideration. To use this power, the Auditor informs the [[Speaker for the Senate]] that they wish to address the Senate. Their address will be added to the agenda for the next [[Senate session]].
+
+===Inquisit Member of the Senate===
+Once per summit, the Auditor may issue a [[Inquisition#Writ_of_Inquisition|writ of inquisition]] against any [[Senate_session#Member_of_the_Senate|member of the Senate]] without the need for judgement in an Assembly. Eligible titles include [[the Throne]], any title receives a [[New_Imperial_titles#Stipend|stipend]] or has the power to make a [[Senate announcement]]. They must inform the [[Tribune of the Synod]] of their intention to issue a writ. The Tribune will update the judgements boards in the Hub so that other priests are aware of the action, but no vote is required. The Auditor is not required to use their judgement, if any, to employ this power.
+
+The additional writ of judgement is issued under the authority of the Assembly of Nine - it is escalated to a sanction in the Assembly of Nine if required.
+
+==Appointment==
+The Auditor is appointed during the Spring Equinox. They are chosen with a [[judgement]] of [[appointment]] by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]]. 
+
+The title can be held by any Imperial citizen. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and the Assembly of the Nine.
+<!--{{CaptionedImage|file=Pickers12838.jpg|caption=Pickers Blackleaf, Auditor of Senatorial Accountability|align=left|width=300}}-->
+{{RecentElections|Auditor_of_Senatorial_Accountability}}
+[[Category:Senate]]
+[[Category:Synod]]
+[[Category:Title]]

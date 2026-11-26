@@ -1,0 +1,163 @@
+---
+title: Nightcall
+source: https://www.profounddecisions.co.uk/empire-wiki/Nightcall
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 386YE Autumn
+- Recent History
+event: 386YE Autumn
+last_edited: '2025-07-14T07:46:21Z'
+revision: 124111
+in_character_boxes: 1
+---
+
+# Nightcall
+
+> *In-character text:*
+>
+> "There" said Wyr, jabbing his finger towards the broken fragments of the egg, eager to show his colleague what he had seen.
+>
+> Korl peered into the mess, his eyes widening as he did so. "Three yolks" he muttered to himself, the surprise evident in his voice. Two yolks in a single egg is rare enough, but three? Only a fool would think such things were mere chance. "Three people, one nation?" he posited. It seemed obvious - too obvious. The omens were rarely so clear.
+>
+> "I thought so too" Wyr replied, "But it was a *Silkie* egg... and see what I discovered in the nest alongside the egg. Triumphantly he held up three short chicken feathers, one black, one white, and one that a rich grey.
+>
+> Korl stared at the three feathers and pondered their significance. The soft feathers of a silkie might be white, black or grey, but a given bird would usually have feathers of just one colour. And silkies were notoriously broody - there was no chance that a bird might share the nest with another. Three feathers, all different colours... from one bird. And now three yokes in a single egg.
+>
+> "The answer to the Raven Seer's riddle is here in the feathers, I am sure of it." Wyr said. "To find a way to defend Kallavesa we must find three things - like these feathers - all the same - and all different."
+>
+> Korl nodded in agreement at his irrefutable logic. Often the omens were hard to read, but sometimes you got lucky. Sometimes the universe would shout so loud all you had to do was shut up and listen.
+
+*[Image: The mystics of Wintermark pay particular attention to birds, and their feathers are often used in divination.](https://www.profounddecisions.co.uk/empire-wiki/File:Silky_Bantam.jpg)*
+
+*[Image: Click for pdf version](https://www.profounddecisions.co.uk/empire-wiki/File:Nightcall.pdf)*
+
+## Overview
+
+The mystics of Ishal have taken the portentous decision to leave the [aviary of Ishal](../../mixed/titles/Raven_Seer.md#aviary-of-ishal). Having consulted the omens, they have come to believe that the best way they can put their skills at the service of the nation is to travel Wintermark and beyond, seeking signs or omens that might offer some [opportunity](../../out-of-character/game-design/Opportunity.md) for the nation to advance their interests. Their plan is for the Raven Seer to provide them with guidance on whatever problem most vexes the nation currently and then armed with their knowledge they will go in search of Wisdom.
+
+This season the [Raven Seer](../../mixed/titles/Raven_Seer.md) asked the mystics to seek out new ways for Wintermark's magicians to protect Kallavesa. In the past magicians have made extensive use of [Dripping Echoes of the Fen](../../mixed/magic/rituals/Dripping_Echoes_of_the_Fen.md) to protect the marshes from attack, but the ritual is backed by the [Toad King](../eternals/Sadogua.md) and due to his current discontent with the Empire he has [put new limits on the ritual](Tales_of_imagination.md#mercurial-toad-sadogua), weakening its strength. Thus, the Raven Seer has asked the mystics to look for alternatives.
+
+The mystics have travelled Wintermark in search of answers. They have spoken with many and consulted widely. A chance meeting with the [Great Forest Orcs](../barbarians/Great_Forest_Orcs.md) has been enough to persuade them to seek out the Raven Seer. The mystics do not rest there however, spurred by the Raven Seer's words, they are eager to prove their worth to the nation.
+
+## Muster Mark
+
+- **The mystics propose three fanes, one dedicated to each of three different eternals, could be build in Kallavesa to help protect the territory**
+
+The marshes of Kallavesa are a place of deep mystery that defies ready explanation. The honoured dead of Wintermark have been interred in the marshes for generations. According to those who have witnessed it, the ghosts of heroes past will emerge from the dense mists to accept the body of each new hero as they are brought to the waters. It isn't accurate to say the land is haunted in a way that would imply that the restless spirits of the dead are some kind of troublesome imposition on the living. In Kallavesa it is fairer to say that the spirits of those who have passed into death, are welcome to return.
+
+The Wintermark [mystic](../nations/wintermark/Mystic.md) tradition began here and it is here that it reaches its apogee. Not every mystic is a Kallavesi, there are Suaq and Steinr mystics in the 'Mark, but few who claim that title have not spent years wandering the marshes, developing their skills and learning from their fellow mystics. The Aviary of Ishal is here, serving as a school to train those who seek to learn how to read the omens. This is where the wise go to read the future in the flight of birds and the night skies.
+
+These mysteries and others like them define Kallavesa, they give it an enigmatic quality unlike any other part of the Empire. And there perhaps lies the answer to the Raven Seer's question. Having consulted the omens, Wyr, one of the former attendants of the Aviary has come up with a proposal. The idea is a little unusual, but you don't ask the Mystics of Ishal for suggestions if you want the kind of idea a civil servant would dream up.
+
+The mystics are aware that there are night mages in Wintermark looking to create a [fane](../eternals/Fane.md) for [Night Singer](../eternals/Sung.md). The work has stalled so far, while they try to find the right location, gather the materials needed, and persuade the Senate. But if the Lady of Mysteries did have a fane in Kallavesa, surely she would do something to help protect the land? Something similar seems to have happened in Spiral with the magicians of the Deathless Cave enjoy Spiral Dancer's patronage. Creating a fane gives the eternal a stake in the safety and security of the region. It would give the mystics of Kallavesa a powerful ally to call on when they needed it.
+
+If one fane could help Wintermark, then why stop there? Three people, one nation. The ideal number of fanes to protect Kallavesa is not one... but three.
+
+### Feather on the Breeze
+
+|  |
+| --- |
+| **The Dreaming Barrow** |
+| **Commission Type:** Fane |
+| **Location:** Rundhal Marsh, Kallavesa |
+| **Cost:** 10 mithril, 10 ilium and 30 crowns |
+
+|  |
+| --- |
+| **The Dream Singer** |
+| **Type:** Wintermark |
+| **Appointment:** Any |
+| **Responsibilities:** To oversee the fane and represent Wintermark to Feather on the Breeze |
+
+- **Sung has suggested the creation of a fane at the Dreaming Barrow in Kallavesa**
+- **Once complete, it would be easier for Wintermark to call on the eternal for aid to protect Kallavesa**
+
+In [Rundhal Marsh](../nations/wintermark/Kallavesa.md#rundhal-marsh) lies the Dreaming Barrow. This ancient burial mound predates even the time of the Kallavesi and none now know who raised the hill. It has always been called a Barrow, and yet there appears to be no way in or out of it. But those who fall asleep on the Barrow claim to have prophetic dreams.
+
+Sung has made no secret of the fact that she believes the Dreaming Barrow would make an ideal site for a fane. If a fane were constructed here, it would provide the usual benefits, but there is every reason to imagine that Sung would take a personal interest in ensuring the sanctity of the location, just as Ephisis did when the Empire attacked the Jotun lands that contained a structure that appeared to be an Ephisis fane.
+
+### The Father of Bats
+
+|  |
+| --- |
+| **The Toadstone** |
+| **Commission Type:** Fane |
+| **Location:** West Marsh, Kallavesa |
+| **Cost:** 10 mithril, 10 ilium and 30 crowns |
+
+|  |
+| --- |
+| **The Master of the Toadstone** |
+| **Type:** Wintermark |
+| **Appointment:** Any |
+| **Responsibilities:** To oversee the fane and represent Wintermark to the Toad King |
+
+- **Wyr believes that the Toad King could be convinced to patronise a fane built in his honour at the toadstone in Westernhal**
+- **Once complete, it would be easier for Wintermark to call on the eternal for aid to protect Kallavesa**
+
+The toadstone is a curious lump of black rock less than a mile from Westerhal in [West Marsh](../nations/wintermark/Kallavesa.md#west-marsh). This rough hewn block of stone is a huge piece of black onyx, that has been carved to resemble the shape of a squatting toad. It was apparently made by a sculptor called Tarja the Foolish in 222YE during the reign of Empress Mariika. What possessed him to do such a thing or who paid for the work is lost to time - only the Toadstone remains.
+
+Westerhal was once the second settlement of Kallavesa, and there are still a number of skilled magicians who live here. Wyr believes that if Wintermark built a fane to house the toadstone they could cede it to the Brother of Wizards and they would be flattered and eager to encourage and support the wizards of Westerhal. They would become a fraternity supporting the fane which would help to further anchor Globberslotch's favour.
+
+Sadogua seems to dislike of many of the Empire's enemies, and he has little reason to like the Jotun certainly. More importantly he has repeatedly demonstrated an interest in protecting magicians and magical structures from harm.
+
+### The Speaker in Dreams
+
+|  |
+| --- |
+| **The Aviary at Ishal** |
+| **Commission Type:** Fane |
+| **Location:** SkyMark, Kallavesa |
+| **Cost:** 10 mithril, 10 ilium and 30 crowns |
+
+|  |
+| --- |
+| **The Ravenseer of Ishal** |
+| **Type:** Wintermark |
+| **Appointment:** Any |
+| **Responsibilities:** To oversee the fane and represent Wintermark to the Keeper of the Gates of Wisdom |
+
+- **Wyr believes that the Aviary at Ishal could be converted into a fane and ceded to Lashonar the Loquacious**
+- **Once complete, it would be easier for Wintermark to call on the eternal for aid to protect Kallavesa**
+
+All manner of birds are housed, tended, and observed in the grand aviary at Ishal. Because of this it could be converted into an ideal fane for the Speaker in Dreams who has a strong association with birds of all kinds. There would need to be a new building commissioned to form the magical basis for the fane, but once complete it would subsume the outlying structures to create a place for magicians to study the birds, read the omens, and meet with the heralds of the Eater-of-Silence.
+
+Such a change would have a dramatic impact on the Ravenseer, but there is no reason that they could not continue in their current role and take on the additional duties of operating the fane. It would make the Ravenseer one of the more important magicial positions in Wintermark, if not the Empire, but that is no bad thing in the view of the mystics who dwell there.
+
+Crucially Lashonar dislike's violence and is unlikely to welcome the presence of the warlike Jotun. He would be a valuable ally to the magicians of Wintermark in the protection of Kallavesa.
+
+## Three People, One Nation
+
+- **The mystics of Ishal believe that the omens favour creating three fanes not one**
+- **If all three fanes are constructed, the omens show that the combined influence of three night eternals would make Kallavesa much more difficult to invade**
+
+Any one of the fanes would provide some small benefits to protect Kallavesa, at least in the form of a valuable all Wintermark's magicians could call on. However every omens that the mystics have studied has revealed the same truth - the auspicious nunber of fanes to build is not one, or two, but three. This is why the mystics have put these three proposals forward together.
+
+Crucially the three locations they have chosen would anchor the power of the Night Realm all round the borders of Kallavesa. The combined influence of three night eternals would produce a powerful shroud that would enhance the mysterious nature of the marshes but also provide a powerful protection for the territory. When pushed for details, the mystics point to the studies of the Urizen which show that magic has [powerful resonances](../nations/urizen/Urizen_magical_traditions.md#resonance), there is every reason to believe that three fanes will produce an effect that is potent and unexpected as the night realm infuses the land.
+
+It is impossible to predict what this *resonance* might do - the consequences of causing so many people to be influenced by night magic are too complex and chaotic to forecast. But the omens are very clear that it would be auspicious and help to defend the land from invasion from any quarter.
+
+## Father of Bats
+
+- **Brennir Calversbairn has called in a favour to arrange a meeting between Winterfolk magicians and the eternal Sadogua**
+- **The meeting will take place at 21.30 on Saturday in a chamber reached via the Hall of Worlds**
+- **The mystics of Ishal propose that the Shaman gather a small group of magicians and try to talk Sadogua round to helping defend Kallavesa**
+
+While Wyr is enthusiastic about their proposal, a second suggestion has been made by another of the mystics, *Brennir Calversbairn*. While the three fanes represent an excellent long-term plan, in the short-term it would be dangerous to rely on getting three commissions approved and completed. Another possibility might be to go to the eternal whose "temper tantrum" has left Kallavesa vulnerable, and talk him round. They won't go into detail about how they managed it, but the mystic says they have arranged a meeting between the *Father of Bats* and citizens of Wintermark for the coming Equinox. They don't claim to have managed it alone - they know that numerous other Wintermark magicians have been trying to talk the *Wyrm King* round through his [missive ritual](../../mixed/magic/rituals/Missive_for_Sadogua.md). But Brennir has arranged for an old boon to be called in - a minor favour - on behalf of the magicians of the 'Mark.
+
+During the Autumn Equinox there is an opportunity to meet Sadogua in private and either salve his wounded pride or sort out a deal with him. Brennir recommends focusing on *Wintermark's needs* rather than those of the Empire. The meeting is for up to nine magicians, and it's suggested that **The Shaman** pick a broad cross-section from the nation - [runesmiths](../../mixed/magic/lore/Wintermark_magical_traditions.md#runesmiths) and [icewalkers](../../mixed/magic/lore/Wintermark_magical_traditions.md#icewalkers) and other wizards as well as mystics. Calversbairn also suggests softening the eternal up with a gift of [dragonbone](../../out-of-character/rules/Materials.md#dragonbone), which he's known to particularly favour. Understanding *why* he has withdrawn his favour from the defensive enchantment is also a good idea. There's no guarantee the eternal can be talked round but it's probably worth a try.
+
+## Future Parliaments
+
+- **The mystics thank the Ravenseer for the guidance he offered and invite them to make further requests in a similar vein**
+- **If the Ravenseer uses ritual magic to provide a clear description of a problem that is facing Wintermark then the mystics will present new ideas for the nation to consider in response**
+
+The mystics of Ishal thank the Ravenseer for the guidance he has provided and for giving them the opportunity to help the nation. They express hope that some of the help they have engineered may come in useful, even if the idea of building three fanes in Kallavesa proves too difficult. The mystics believe that now they are travelling abroad, they are perfectly placed to use their unique skills to find novel ways to address Wintermark's problems, but they cannot do that without the guidance of the Ravenseer. They need a clear description of a problem that is facing the nation, so that they know omens to look for and how to interpret them.
+
+They hope this new approach has been useful to the Ravenseer and the nation. For the next year, provided the Ravenseer uses ritual magic to send a clear description of a problem facing Wintermark to the mystics then they will use their skills to come up with a proposal just as they have here.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [386YE Autumn](../../indexes/by-category/386YE_Autumn.md), [Recent History](../../indexes/by-category/Recent_History.md)

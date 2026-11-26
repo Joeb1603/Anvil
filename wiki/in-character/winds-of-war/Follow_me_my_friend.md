@@ -1,0 +1,257 @@
+---
+title: Follow me my friend
+source: https://www.profounddecisions.co.uk/empire-wiki/Follow_me_my_friend
+class: in-character
+topic: winds-of-war
+categories:
+- Recent History
+- 387YE Spring
+- Military Council
+- Winds of War
+event: 387YE Spring
+last_edited: '2026-09-05T15:09:15Z'
+revision: 144848
+in_character_boxes: 12
+---
+
+# Follow me my friend
+
+*[Image: The armies of Wintermark fight the Lasambrian Jotun alongside their allies.](https://www.profounddecisions.co.uk/empire-wiki/File:Follow_me_my_friend.png)*
+
+## Where All That's Wrong is Right
+
+The Winter Solstice has barely passed when the dead rise in [Tassato](../nations/the-league/Tassato.md). It is a cold night, and all save the most committed revellers and conspirators are eager for soft beds and something to warm their spirits before they rest. Those already asleep report dreams turned dark, full of bloody meat and hollow-eyed horrors. Those awake speak of a gusting sigh that passes over the city like an invisible wind. Minutes later, the thudding of bodies hurled against the doors of mausoleums, the scrabbling of claws on earth, the squelching of unquiet murder victims dragging themselves from the Vassa still burdened with bricks and chains. It is traditional in the League for citizens to be [cremated](../nations/the-league/The_League_culture_and_customs.md#funerals), their remains scattered into the river. Only the wealthy, or those whose death is premeditated, are interred. It is these sorry corpses that the cannibal spirits unleashed by [Winter magic](../../out-of-character/rules/Winter_magic.md) seek out - the freshest dead first and then the cold bones and withered remains of the older cadavers.
+
+The dead, empowered with movement and violence by unseen spirits, come from across the territory. Almost all are humans, though some have hijacked the remains of orc slaves who died in Tassato long before the Empire had ever heard of [Thrace](../../mixed/government/synod/Known_exemplars.md#thrace), or fell in the [recent attack](Shallows_and_miseries.md#meanwhile-in-tassato) on the [Sapphire Stair](Shallows_and_miseries.md#meanwhile-in-tassato). Many are struck down by terrified Tassatans, but this does little to quell the flow of the dead. They flock to the banners of the [Fist of the Mountains](../../mixed/government/military/Fist_of_the_Mountains.md), billeted in the Twin City since the Autumn Equinox last year, ensuring that everyone knows who is to blame for this outrage. They are expected; the magicians of the Empire have [quickened cold meat](../../mixed/magic/rituals/Quickening_Cold_Meat.md), the phantoms unleashed by the [enchantment](../../out-of-character/rules/Enchantment.md) defiling the resting places of the League dead.
+
+*[Image: SummerStorm Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:SummerStorm_Colour.png)*
+
+*[Image: AutumnHammers colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:AutumnHammers_colour.png)*
+
+*[Image: Bounders Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:Bounders_Colour.png)*
+
+*[Image: BloodCloak Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:BloodCloak_Colour.png)*
+
+*[Image: FistoftheMountains Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:FistoftheMountains_Colour.png)*
+
+Many citizens of Tassato - both those of the cities and the towns beyond its walls - are furious, but they have little recourse for now. Less than a week after the dead rise, the Fist of the Mountains is on the move, south-west into Kahraman with the [Bloodcloaks](../../mixed/government/military/Bloodcloaks.md). They leave folk on both sides of the Vassa with shattered tombs, and the knowledge that their deceased ancestors are now nothing more than hosts for murderous winter spirits.
+
+## In Loyalty We Stand
+
+From [Mournwold](../nations/the-marches/Mournwold.md), the [Autumn Hammers](../../mixed/government/military/Autumn_Hammers.md) and the [Summer Storm](../../mixed/government/military/Summer_Storm.md) and the [Bounders](../../mixed/government/military/Bounders.md) also pass through [Southmoor](../nations/the-marches/Mournwold.md#southmoor) into [Braydon's Jasse](../nations/the-brass-coast/Kahraman.md#braydons-jasse). Past the memorial that was once [Fort Braydon](../nations/the-brass-coast/Kahraman.md#fort-braydon-destroyed), down toward [Segura](../nations/the-brass-coast/Segura.md). Down through the Cinnabar Hills they march, over the Sobral Bridge - the only remaining bridge that still spans the tumultuous Scorrero, a fragile umbilical for the people of the Brass Coast connecting them to the wider Empire. Down into dry [Segura](../nations/the-brass-coast/Segura.md), to the plains of [Burnish](../nations/the-brass-coast/Segura.md#burnish). A grand camp, for five armies, and for six thousand independent captains that flock to the banner of the Summer Storm - and for those thousand [flesh-hungry abominations](../../mixed/magic/rituals/Quickening_Cold_Meat.md) that shadow the Fist.
+
+All save the Fist are woven with the [Clarity of the Master Strategist](../../mixed/magic/rituals/Clarity_of_the_Master_Strategist.md), helping their soldiers deploy almost without conscious effort in the most tactically advantageous locations. The Bounders arrive first, scouting the edges of the western hills for the best route into Reinos. Their beaters report the expected watchtowers, wide patrols, and simple defences - there will be little resistance to the armies as they cross from the Empire into the lands of the Lasambrian Jotun. To take a blade from the throat of the Freeborn, a people whose lands have been riven by war and disaster almost constantly since the time of [Empress Britta](../history/Empress_Britta.md) and before. To bring battle to the lands of the southern orcs, to their allies who pride themselves wise in the ways of virtue.
+
+The commanders meet in counsel, studying the maps and scouting reports, quickly allocating tasks and routes, the magic of the [Day realm](../eternals/Realm.md#day) smoothing and speeding each discussion. Only the Winterfolk of the Fist of the Mountains are left slightly apart, not possessed of the supernatural clarity. Yet there is more to their separation than simply the lack of an enchantment; there is something about the army that feels a little off-centre, a little different. Even the Bloodcloaks can feel it. The presence of the barely contained flesh-tearing abominations, many still in the tattered funeral finery of the wealthy Tassatan, is surely grim but they are not a new experience for many of these soldiers. This is something else.
+
+Some of the Winterfolk soldiers seem just a little too eager to fall on the western barbarians, a little too quick to sing songs and tell tales of bloodshed and slaughter. There are scuffles between soldiers of the Fist and those of other armies, and keen-eyed Bounders murmur unsettling tales of a great black dog with burning eyes that lurks and slinks through the Wintermark camp. The [oathwrights](../../mixed/magic/lore/Imperial_Orcs_magical_traditions.md#oathwrights) who accompany the Hammers and the Storm exchange concerned looks, and in whispered tones out of earshot of their Winterfolk allies, they discuss the [orders spoken by the general](../military-council-orders/386YE_Winter_Solstice_Military_Council_orders.md#fist-of-the-mountains) at [Anvil](../world/Anvil.md).
+
+There is little time for introspection or worry about this - there is a campaign to fight - a new campaign in the south-west Empire. The strategy set, the armies begin to move as one force across the western border of Segura into the Lasambrian Hills.
+
+## Fig Trees and Olive Groves
+
+It's been a long time since Imperial boots trod the dust of the western hills - not since that time long ago when the Empire sent mercenaries to [fight alongside the Hierro against the Jotun invaders](../winds-of-fortune/Strange_allies.md). Now the armies of the Empire come in force, with a very different agenda perhaps. They cross from Burnish into the olive groves and fig trees of [Ribeira](../barbarians/Reinos.md#ribeira). They are not unexpected; the patrols and garrisons of the watchtowers have been reinforced since the Winter Solstice it seems. The orcs of Reinos know that the long-debated [peace treaty](../winds-of-fortune/So_far_so_fast.md) between the Lasamabrian Jotun and the Empire has been [rejected by the Senate](../senate-sessions/386YE_Winter_Solstice_Senate_sessions.md#ratify-lasambrian-treaty), and while they are not aware of the coming attack they are clearly [vigilant](../religion/Vigilance.md) against the threat from the Empire.
+
+The Imperial strategy is a [considered](../../out-of-character/rules/Army_orders.md#balanced-attack) and [careful](../../out-of-character/rules/Army_orders.md#steady-conquest) steady advance, seeking to minimise the loss of lives rather than try to capture as much land as possible - yet with the support of [Day magic](../../out-of-character/rules/Day_magic.md) it is still effective at neutralising the border defences of Reinos and moving consistently forward. The expert healers of the Bloodcloaks [work tirelessly to heal](../../mixed/government/military/Army_qualities.md#woundbinder) those injured in the fighting, establishing mobile field hospitals and supply points along the routes back into Imperial territory.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Hammers, we march into Jotun Lands. We take the fight to them. We fight to show our loyalty to the Empire and take blades away from the throats of the freeborn. We show the Jotun they can bleed not only in blood, but coin too, where the Lasambrians feel it most. We call upon the contracts in the Autumn realm with Callidus and their heralds to Plunder Reinos with us. Draw the Jotun Down.
+> >
+> > Ashborn Vana, General of the Autumn Hammers
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Legionnaires of the Summer Storm, we continue to fight the Jotun. Using a well balanced attack and the Clarity that the Day realm brings, we shall fight with Loyalty and Vigilance. Push into Reinos and support the Brass Coast. Be wise in your choices and fight with courage. Defend those behind us.
+> >
+> > Irontide Skorr, General of the Summer Storm
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Bounders, we pause to help our siblings in the Brass Coast. Our war is not over, but we share an enemy. Through Steady Conquest into Reinos via Burnish in Segura we will draw them out and give us the time we need, together in loyalty we will stand, the Jotun will fall and we will not be alone but we will not leave others alone. We must be united.
+> >
+> > Mary Birchsmith, General of the Bounders
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > My Cloaks, my Pride for too long have the enemies of our empire coveted the freeborn lands. Arrogant in their brazen bantering and merciless onslaughts. Now is the time to show the freeborn that their homes and families are not coins to be counted in a bargain, if they are a cost it is a cost too high. Strike into Reinos, free thralls and recover the lost and fallen who march beside us. Show the Jotun and Lasambrians that we will not sell the coast and if they believe that we are weak of heart or will. They will not have been paying attention. Crusade!
+> >
+> > Lofyn Bloodcloak, General of the Bloodcloaks
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Under the Shining Claw, that great Tusk, we etch Rhyv, the rune of Blood into our weapons. We call these ancient winter magics to us and I bind them to my purpose. A cost is always paid. My family paid that cost, the price of our ambition. Mercy, Thorn-in-place, my wife, died a shield to the Empire. Loyal to the end, remember her storm and learn. I bind the quickened cold meat to that purpose. Even in death, we will endure. Grandmother Winter sets us a riddle. We begin to have the answer. Mystics, cast the runes. Icewalkers, look far and carefully. Let us find the Pale Raven's answer. The weight of costs is heavy. We must all lift together. Into them!
+> >
+> > Umarth 'Winter's Flame' Kannath, General of the Fist of the Mountains
+
+The Autumn Hammers take a different approach; they have [called on the contracts](../../mixed/government/military/Army_qualities.md#contracted) that were [arranged](../winds-of-fortune/All_my_magic_friends.md#ashborn-trosk-and-the-mysterious-prison) with the aid of the [Lictors](../eternals/Lictors.md), inviting the [heralds](../eternals/Inhabitants_of_the_realms.md#heralds) of the [City of Chains](../eternals/Callidus.md) to support them; silver and gold skinned creatures with curving horns and an orc-like cast to their features accompany the Hammers. They effortlessly locate valuable goods and suggest the most effective way for the Imperial Orcs to claim them, [encouraging them to seize](../../mixed/government/military/Army_qualities.md#foraging) whenever opportunity presents itself. As they are quick to point out, have the Corazón not stolen from the Empire for centuries? Is it not past time that the balance were restored?
+
+There are plenty of opportunities for plunder - Ribeira is a [wealthy region](../religion/Prosperity.md) for all that it is sparsely settled. The olive groves and the fig-trees are well tended, and there is a scattering of farms and orchards dedicated to other agricultural endeavours. Some of the loot recovered by the Hammers has clearly been taken from Segura or Kahraman, the rest include fine oils and wines, salted meats and jams, beautifully woven tapestries and carpets, delicate mithril and ilium jewellery, decorated weapons and shields, and any number of cunningly sculpted icons plated with precious metal or set with gems mined from the great mountains that run like a seam down the centre of Reinos.
+
+While the land is rich, there is no real sign of any thralls such as the [Bloodcloaks](../../mixed/government/military/Bloodcloaks.md) wish to free. There are labourers and workers aplenty, but they seem little different to the folk who work the Empire's farms. For the most part, they do not hang around when the Imperial armies advance, choosing to flee ahead of them, seeking sanctuary in the larger settlements to the west. They take their essential possessions with them, their beasts, and whatever valuables they can carry where they can. They leave the fighting to the soldiers for the most part, but there are reports of farmsteads and orchards defended by barely trained militia who fight tooth-and-nail to try and keep the Empire from taking their land from them.
+
+Signs of the Lasambrians' faith are everywhere. Every farm maintains a shrine to the virtuous ancestors. Sometimes little more than a barn set aside, sometimes a stone building built just for that purpose. These shrines are new, most are barely more than a few years old, but they are clearly well-tended. No matter how rude or well-built the shrine the contents tend to be the same. A shelf or alcoves, a simple brazier, and icons depicting the virtues and the orcs that exemplify them. Usually there are seven icons, but not always - there may be three, or five, or a dozen, and nobody knows enough about the Lasambrian Jotun to identify them all (although some of the Summer Storm note that the [faðir](../barbarians/Elite_Jotun_troops.md) of the Jotun are sometimes on display here). Who is the figure of the grinning orc with the bowl of figs? Why is this lady with a pick-axe and crystal eyes worthy of veneration? Who are these three child-orcs who huddle together or stand one upon the other with solemn faces?
+
+In every shrine there is one constant - an image of *Hessar Escuta*, the leader of the old Lasambrians who, it is said, slew the [First Empress](../history/First_Empress.md) before being killed in turn. There is no consistency as to which virtue he stands for - often but not always [Courage](../religion/Courage.md) or [Pride](../religion/Pride.md). No matter how rich the other icons might be, he is always a squat figure of red pottery, with a greatsword who sits in the centre of the shrine opposite the door glowering at all who enter.
+
+Some Imperial soldiers are incensed by these shrines, calling them blasphemous or idolatrous. For the most part, however, they are taken in stride. The armies here are Marchers, Winterfolk, and Imperial Orcs and they are no strangers to strange philosophy. And the larger shrines often contain rich pickings for the Autumn Hammers.
+
+## The Time Has Come
+
+As the Empire pushes west, light woodlands give way to fertile lowlands and the first large villages are encountered - along with the first serious resistance. The villages are a peculiar mishmash of older wooden structures slowly being replaced by newer stone buildings, often surrounding truly ancient stone structures that harken back to ancient days before the Freeborn came ashore at Atalaya. The sea-change in the folk of Lasambria that accompanied the one-two punch of conquest by the Jotun and the embrace of the virtues is manifest in the architecture. From a folk who felt they had no hope save to rob and steal, the Lasambrians have become a people with ambitions to reclaim the lands of the Brass Coast and build a kingdom for themselves.
+
+It's clear there are no armies here - neither Jotun nor Lasambrian Jotun. Indeed, the Hierro and the Escuta appear to be fighting far to the north. The territory is not undefended however; the fortresses of Getshal in the north and Yegarra's Proof in the south use the time gained by the border watches to move their garrisons into position, mobilising the militias and warriors of the towns and villages east of the mountains. This is the first time Imperial troops have faced the yegarra of southern Reinos - humans with a deep spirituality and many ghodi among their number. Their commitment to fighting alongside the orcs of the Lasambrian Hills is difficult to fathom. Who are they? Where have they come from? How do they fit beside the orcs who raid so freely into the Brass Coast?
+
+They fight particularly alongside the warriors of the Hierro sept, who are strongest in southern Reinos; along with western Kalino these are lands that belonged to them since before there was an Empire if their stories are to be believed. The troops from the north are uniformly orc, and many of them are members of the Corazón sept - they are less disciplined, more prone to taking risks. more enamoured of the concepts of glorious battle than their southern fellows, closer to the Jotun in temperament. Both groups work together seamlessly to try and turn the Empire and for a time it looks as if they might succeed.
+
+In the end, though, they are unable to stem the tide of the invaders. The Winterfolk and Marchers and Imperial Orcs take the villages of Ribeira one by one, regroup their forces, and decide what to do next. There are three choices - stop and consolidate their hold over the farms and orchards; press west into Pedreira; push south through Bastasor toward Grismont Township. Weighing the odds, the commanders turn south. Now is not the time to try and besiege the fortification of Getshal - and the herald of the Autumn realm are quick to inform their orc comrades that there is surely more opportunity for plunder in the south. So the armies move towards the Arena of Virtue, the little city of Grismont Township, and the high fount of the Scorrero, the Crown of Bastasor.
+
+Fighting now in earnest, there is much more evidence of southern Jotun here. Champions and would-be champions join with the garrisons to resist the Imperial advance. There are many more people prepared to take up arms than there were in the farmlands - something the Jotun themselves might find inexplicable but the Lasambrians take for granted. Anyone who cannot fight flees south or north toward the fortifications, the elderly, the youngest, and the infirm making their slow way to sanctuary ahead of the invading Imperial force. The experience of fighting the Lasambrians at home, in lands that are at least notionally theirs, is different to that of fighting their armies when they are engaged in conquest. A long history of banditry and brigandage serves them well here, scaled up to take into account their greater numbers. They are no more interested than the Empire in suffering extensive casualties, preferring to test and reformulate their strategies, to fight when they can and to retreat when it is wise to do so. By contrast, the "true" Jotun who fight with them do so in more traditional ways, confronting the Imperial armies head on, more interested in a challenge than in a wider strategy.
+
+There is one matter on which both Jotun, and Lasambrian, and especially human yegarra of the south are united. They show utter contempt for the Fist of the Mountains, for the Winterfolk that fight alongside the shambling dead. Wherever possible, they prioritise the shambling corpses - either not knowing or not caring that the spirits bound to the army will simply find new cadavers to exploit. The fact this leads to slain defenders of Reinos rising to join the Wintermark army does little to reduce their fury. The Jotun consider it a defilement; the Lasambrians who get a chance to do so condemn it as a profound offence against the virtue of Pride. Yet their anger is ultimately impotent; the ghouls that fight alongside the Fist rip apart anyone who falls into their claws and they feast well as Empire and barbarian clash across Bastasor.
+
+## Before The Walls
+
+Despite all their efforts the Lasambrian militia and the garrisons cannot stop the Empire's steady conquest. Town and village fall to the invaders, and the armies press forward. As the Spring Equinox comes closer, the Empire has brought most of the region under its control at least in theory. The Lasambrians are sullen and uncooperative, they flee when they have the chance and have no interest in being "liberated" by the Bloodcloaks. As often as not they proudly, courageously condemn the Imperial soldiers who have come into their land, damning them for seeking to steal the last piece of the Lasambrian homelands just as they stole Segura, and Kahraman, and Feroz, and Madruga and all those other places.
+
+The defenders fall back, toward three locations across Bastasor. The Arena of Virtue, despite its relative vulnerability on the borders of Ribeira, remains in Lasambrian hands despite a protracted battle before its walls between zealous defenders and Imperial soldiers who do not quite know what to make of soldiers who call on the same virtues they do to give them the strength to fight. Their defence is reinforced by a significant number of Corazón and Jotun from northern Reikos.
+
+Grismont Township is also unconquered - the walls are not really a match for the armies arrayed against it, but time has run out as the slow march across Reinos has dragged on. There is a significant garrison here, reinforced by Jotun champions who have come across the mountains from the western regions of Reinos. They won't surrender the "city" easily, and they have many supplies within its walls... for all the good it will do them if serious reinforcements do not arrive soon.
+
+The rest of Bastasor though is in Imperial hands, save only the Crown of Bastasor - it is clear there is no easy way for armies to approach the lake high up in the mountains. But access to the waters is now in the control of the Empire, specifically the Summer Storm who have taken the foothills and the narrow winding paths that lead up to the Crown.
+
+Spring flowers bloom in the foothills and across the plains, hardy orange and yellow blooms that can endure the warmth and the sometimes harsh conditions here. The Empire has made gains, but the Lasambrians have fought them every step of the way and there is no sign they plan to stop fighting them any time soon.
+
+## Game Information
+
+*[Image: Reinos was mapped out by Imperials after the Summer Solstice 386YE](https://www.profounddecisions.co.uk/empire-wiki/File:ReinosRegions.png)*
+
+### Reinos
+
+- **Imperial Forces have conquered the region of Ribeira and are four-fifths of the way toward controlling Bastasor**
+
+Reinos remains in Jotun hands, but the Empire has conquered the easternmost region of Ribeira and is well on its way towards taking Bastasor. The only parts of that latter region that are still in Lasambrian hands are the township of Grismont, and the Arena of Virtue. If nothing changes, it's likely the Empire will conquer these last two locations following the Spring Equinox, and most likely take Chaveiro as well. After that, they will need to face one of the two fortifications that guard the passes to western Reinos, which will be a more challenging proposition. Assuming nothing changes, of course.
+
+Without guidance from the generals, the commanders on the ground chose to avoid the fortification at Pedreira and push south (partly because to do otherwise would have significantly reduced the amount of land they would claim, and exposed them to significant losses). The only significant defence this season has been the garrison of the two forts - Getshal and Yegarra's Proof. Between this and the Empire's tactics, it means that none of the invading armies have taken any significant casualties.
+
+### Participation - Armies
+
+- **Some of the Fist of the Mountains soldiers have been acting a little more violent than usual for unknown reasons**
+
+The fact the Fist of the Mountain were fighting alongside flesh-eating, animated cadavers taken from the graves of Tassato is obvious to everyone in the territory, especially anyone whose military unit supported an army here. The soldiers fighting under the banner of the Fist have been slightly more prone to bloodthirst than usual, but that has not (yet) led to any particularly atrocious behaviour. No military units supported the Fist of the Mountain so any peculiar influences are restricted to the Reinos campaign rather than being obvious at Anvil.
+
+### Participation - Tassato
+
+- **Quickening Cold Meat cast in Tassato caused many bodies of respected or wealthy former citizens to rise as flesh-hungry ghouls and join the Fist of the Mountains**
+
+Anyone who was in Tassato following the Winter Solstice will either have witnessed the dead rise, or seen the aftermath thereof. The [Quickening Cold Meat](../../mixed/magic/rituals/Quickening_Cold_Meat.md) enchantment causes winter spirits to seek out dead bodies and animate them as ghoulish warriors. In the League, all save the wealthiest are cremated rather than being buried, which means that many of those risen unliving horrors are the remains of princes, guildmasters, bishops, and other rich citizens whose tombs were maintained by their families or guilds. There were also a number of murder victims among them, risen from shallow graves or out of the waters where their bodies had been weighed down and dumped. Finally, around [Cascatas](../nations/the-league/Tassato.md#cascatas) some of the dead Jotun orcs and yegarra who attacked the Sapphire Stair have likewise been animated.
+
+No living Tassatan citizens were harmed as a result of this, but many have been horrified or upset by the desecration of tombs and gravesites. Characters from Tassato are encouraged to create stories about how the "night of the risen dead" has impacted them.
+
+## Conjunctions
+
+### Storm of Battle (Reinos)
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > ...the Clarity that the Day realm brings, we shall fight with Loyalty and Vigilance. Push into Reinos and support the Brass Coast. Be wise in your choices and fight with courage...
+> >
+> > excerpt of orders from Irontide Skorr, General of the Summer Storm
+
+- **The Jotun and Lasambrians of Ribeira are gathering to join *Carmo Stoneblade***
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *General of the Summer Storm* is [responsible](../world/Sentinel_Gate.md#prognostication) for killing Carmo Stoneblade**
+- **This conjunction is [against barbarians](../world/Sentinel_Gate.md#imperial-law); magistrates advise that lethal force is fully justified**
+
+Ribeira has fallen to the Empire, conquered by soldiers of the Imperial Orcs, the Marches and Wintermark. Now, *Carmo Stoneblade* has begun to call together the fyrd – the oathsworn warriors of the land who will follow them and fight alongside them to reclaim their home. If *Carmo Stoneblade* can be killed before the fyrd gathers, then it will scatter and be unable to gather as a fyrd until the start of the Spring Equinox 388YE. They will instead remain in the region, focused on protecting their own rather than gathering as a cohesive force behind the accomplished Lasambrian.
+
+It is the responsibility of the [General of the Summer Storm](../../mixed/government/military/Summer_Storm.md), **Irontide Skorr**, to kill Carmo Stoneblade and scupper the calling of the fyrd. If Irontide Skorr is successful, then *Brokenshield Becheb*, a [bonesetter](../nations/imperial-orcs/Imperial_Orcs_economic_interests.md#bonesetters) who has accompanied the army into Reinos, will provide them with a [Triumphant Blade](../../mixed/magic/items/Triumphant_Blade.md) in time for the next summit.
+
+> **Fyrds**  
+>
+> Each region in a Jotun territory generates a fyrd when it is conquered by the Empire. As the Jarl and their warriors are forced to retreat from their lands, they form up into a fyrd, a warband with a military strength of five hundred. A fyrd is unable to act independently of fortifications or armies in the territory; it will only act to support a Jotun army in the territory or a fortification if there are no armies present.
+>
+> A region's fyrd can be dismantled by killing the jarl or through other opportunities.
+
+### The Extra Bit (Reinos)
+
+- **A warband of Jotun and Lasambrians are holding a Faraden trader for ransom**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Champion of Prosperity* is [responsible](../world/Sentinel_Gate.md#prognostication) for recovering the trader**
+- **This conjunction is [against barbarians](../world/Sentinel_Gate.md#imperial-law); magistrates advise that lethal force is fully justified**
+
+The heavy tolls levied on the Faraden for traversing Reinos are well known; it is one of the primary reasons the Court of the Five Winds consistently requests that the Empire conquer the territory. *Mistress Singua Karadragha* has reported that one of their traders in fine silks and spiced coffee was unexpectedly waylaid by the Lasambrians on the border. *Bulangiin Karadragha's* goods were confiscated due to an error, leaving them unable to pay the toll. The Lasambrians are now holding them as they wait for "adequate compensation" from the family.
+
+*Mistress Singua Karadragha* has asked the [Champion of Prosperity](../../mixed/titles/Champion_of_Prosperity.md), **Tom Appleseed**, to rescue Bulangiin and escort them back to Anvil using the [Cuckoo's Egg](../../mixed/magic/rituals/The_Cuckoo-s_Egg.md). If successful, the Karadragha family will provide compensation to any Imperial who takes the chance to [raid the Jotun](../../mixed/economy/Venture.md#raid-the-jotun) over the next season – providing a crown in addition to the military unit's normal production. Given that this involves the [Ambassador to Faraden's](../../mixed/titles/Ambassador_to_Faraden.md) counterpart there is some hope that they will offer what aid they can to the Champion of Prosperity.
+
+## Tame Your Fears (Battle Opportunity)
+
+The foray into [Reinos](../barbarians/Reinos.md) has made swift and effective progress. The citizens of the territory are in turmoil as they seek to flee southwards to [Cimeira](../barbarians/Reinos.md#cimeira), north to the fastness of [Getshal](../barbarians/Reinos.md#getshal), or west into the sanctuary of the mountain passes. Thanks to the foresight afforded to the generals by the Day realm, and the attentive actions of the Bloodcloak's grimnirs, there have been few loses among the expeditionary forces.
+
+Reports from beaters in the Bounders and reavers amongst the Autumn Hammers have yielded useful knowledge about [Bastasor](../barbarians/Reinos.md#bastasor) and [Grismont Township](../barbarians/Reinos.md#grismont-township). With the current disposition of Imperial forces - having cut off the [Arena of Virtue](../barbarians/Reinos.md#arena-of-virtue) and secured access to the [Crown of Bastasor](../barbarians/Reinos.md#crown-of-bastasor) - and the limited reach of the fortifications at Getshel and [Yegarra's Proof](../barbarians/Reinos.md#yegarras-proof), control of the region rests in securing the high walls of Grismont. Striking against the town's defenders before they can hastily fortify the settlement will quickly break Lasambrian control of the region.
+
+An opportunity has been identified by the prognosticators that would allow for a conjunction to be used to reach the Grismont Road, currently beyond the extent of the Imperial advance. The Sentinel Gate could be used on either Saturday or Sunday to reach the area and confront the Jotun troops that are preparing to dig in and defend the town in the coming season.
+
+### Objective: Secure Grismont Township
+
+- **Overcome the Jotun garrison, take the defences, and hold off retaliatory forces**
+- **Defeating Jarl Vafri will give the Empire full control of Bastasor**
+- **The loss of the township will deny the Lasambrians the means to resupply their armies**
+
+*Jarl Vafri* commands a sizeable force to garrison the township. Originally sent by the High King of Narkyst to the west of Reinos following the defeat of the Fishers, the Jotun Vafri led her warriors east to keep an eye on the open border with Segura, arriving at the Winter Solstice. King Gudmundur Arason had good reason for a trusted hand watching Lasambrian territory, and the invasion now places her as one of the most senior subordinates in Reinos. Depending on how the campaign proceeds, the jarl's status is likely to rise, and victory will bring her the attention of the king.
+
+The Jotun forces leading the defence of the town are engaged in building forward defences to deter an easy assault by the Empire. But an opportunity exists to engage Vafri, her kirkja elite, and the wider array of warriors under her control outside the township as they are engaged in preparations. Defeating the jarl, and breaking her warband, will remove any effective control the Jotun have in the region, effectively asserting Imperial control in the area. Furthermore, control of the vital settlement will prevent the three Lasambrian armies - the Corazón, the Naguerro, and the Escuta - from benefiting from natural resupply in the coming season, for as long as the Empire holds the region.
+
+### Battlefield Opportunity: Detain Pastor Ximena
+
+- **Capture the orc elder during the battle**
+- **Ensure the pastor comes to no harm before their release**
+- **Capturing Ximena during the battle will demonstrate the Empire's respect for their enemies**
+- **If Ximena dies, the Lasambrian's views of the Empire will worsen**
+
+Shaman from the Autumn Hammers report that an important Lasambrian religious figure is in the vicinity of Grismont. Pastor Ximena Gift-Giver of the Corazon, is a renowned figure among the orcs of [Reinos](../barbarians/Reinos.md). It is believed they were among the first orcs reached by missionaries from the Empire. They are a keen exponent of the Virtues, preaching the benefits that brave and daring actions and hard-won accomplishments can bring. Ximena spread these teachings from the forests of Riberia to Cimeria in the far south, calling on those who would listen to follow in these new ways, and hear their ancestors urge them onwards. Over recent years, the preacher has gained a following of individuals who encourage the warriors onward in battle. It appears they have travelled to Grismont to lend aid where it is needed most.
+
+The Empire has a chance to seize Ximena during the engagement outside the township and detain her. It is impossible that the orc would permit a casting of Cuckoo's Egg, but that would not stop her from being held during the battle. Seizing the priest would likely enrage and embolden the orcs who would fight all the harder for her return, a tactic that could be put to use for the Empire's advantage. Capturing her, but ensuring she comes to no further harm, would demonstrate not only the prowess of Imperial soldiers but their respect for the Empire's enemies, a trait valued among the Jotun of Narkyst and the Virtue-following Lasambrians. However, if Ximena were to die during her captivity, it would be seen as a serious insult and demonstrate the Empire's contempt for the Virtuous leaders of the Lasambrians.
+
+### Battlefield Opportunity: Rescue Nergui Enkhtseg
+
+- **Release the captured Faraden trader**
+- **Locate the merchant and return them to Anvil**
+- **Success will improve relations with Faraden trade houses**
+- **The wealthy trader will reward the citizens who personally rescue them**
+
+Scouts from the [Bounders](../../mixed/government/military/Bounders.md) report that the Jotun commander recently intercepted a [Faraden](../foreign-nations/Faraden.md) merchant named Enkhtseg who was heading south to the Iron Confederacy. Having successfully found their way through the high passes of the Lasambrian Hills, Enkhtseg found themselves caught up in the Empire's invasion of Reinos. Unable to head on, and unwilling to return, their caravan was spotted by Jotun forces heading up from the southern regions.
+
+Understood to be a prosperous and experienced merchant, Enkhtseg leads trade missions at the direct behest of at least two of the High Lords, securing luxury goods and driving hard bargains. If freed from captivity and returned to Anvil via [Cuckoo's Egg](../../mixed/magic/rituals/The_Cuckoo-s_Egg.md), then Enkhtseg will be most grateful for their deliverance. Rescuing this important figure will strengthen diplomatic ties with Faraden, which could help with negotiating future trading endeavours between the Empire and the powerful families of Faraden. It will also yield a valuable reward for whichever group of citizens personally rescues the wealthy merchant.
+
+### Battlefield Opportunity: Join the Balankas Rush
+
+- **Seek riches in the Lasambrian Hills**
+- **Sign a contract with Callidus' agents**
+- **Military units can join up to seek riches**
+
+During the season of campaigning in Riberia and Bastasor, Imperial forces came into frequent contact with heralds from the [City of Chains](../eternals/Callidus.md). Most were aiding the Autumn Hammers in seizing valuable goods from the territory, but some were there with other goals. From these encounters, prognosticators have identified an opportunity for independent captains operating in Reinos this coming season to [seek riches](../../out-of-character/rules/Military_unit.md#questing).
+
+Agents of the *Prince of the Argent Tontine* tell of vast riches that can be found in the peaks of the Balankas. They speak of hidden troves of plunder from [Faraden](../foreign-nations/Faraden.md), [Suranni](../foreign-nations/Iron_Confederacy.md), and Freeborn lands; of glittering caves and sparkling seams of rich minerals; of secret vaults lined with riches from all corners of the world and the realms beyond. Whilst it is easy to dismiss these as tales of fancy, there is strong evidence that there is wealth to be found in the Lasambrian Hills.
+
+If the Empire ventures to Reinos, then independent captains of personal military forces can seek out heralds of Callidus and join in the endeavour dubbed the *Balankas Rush*. Caution is advised by the civil service however; for whilst Callidus is greedy and will naturally take his cut, directions to the hidden hoards requires the signing of a contract sealed using a [Scrivener's Bloodmark](../../mixed/magic/rituals/Scrivener-s_Bloodmark.md), an agreement likely to be enforced by the [Lictors](../eternals/Lictors.md). To complicate matters further, it is apparent that the many Lasambrians have already signed up with the City of Chains, eager to recover their own lost wealth, or seize on the chance to change their fortunes...
+
+## Further Reading
+
+- [Reinos](../barbarians/Reinos.md)
+
+---
+
+Categories: [Recent History](../../indexes/by-category/Recent_History.md), [387YE Spring](../../indexes/by-category/387YE_Spring.md), [Military Council](../../indexes/by-category/Military_Council.md), [Winds of War](../../indexes/by-category/Winds_of_War.md)

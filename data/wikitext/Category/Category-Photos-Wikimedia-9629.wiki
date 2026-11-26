@@ -1,0 +1,6 @@
+==Overview==
+Photos takens from Wikimedia, with attribution on individual images.
+
+<nowiki>[[Category:Photos:Wikimedia]] [[:Category:Photos:Wikimedia|Image from Wikimedia]]</nowiki>
+
+[[Template:Wikimedia]]

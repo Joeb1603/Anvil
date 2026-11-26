@@ -1,0 +1,16 @@
+<noinclude>
+== Usage ==
+<pre>
+{{Commission|time=Time in Months|materials=Wains,money and other resources needed|location=Location where the thing will be built|title=Name of Imperial title that accompanies it}}
+</pre>
+If unspecified the location defaults to any region and the time to 3 months and the title defaults to "Not Required".
+</noinclude>
+* '''This commission requires {{{materials}}} and takes {{{months|3}}} months to construct}}}
+{{#if| {{location}}
+| * '''It must be commission in {{{location}}}'''
+| * '''It can be built anywhere in the Empire'''
+}}
+{{#if| {{title}}
+| * '''Once complete, it creates the Imperial title of {{{title}}}'''
+| * '''There is no Imperial title associated with this commission'''
+}}

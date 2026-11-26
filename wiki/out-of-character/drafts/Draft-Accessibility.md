@@ -1,0 +1,204 @@
+---
+title: Draft:Accessibility
+source: https://www.profounddecisions.co.uk/empire-wiki/Draft:Accessibility
+class: out-of-character
+topic: drafts
+categories: []
+last_edited: '2026-04-16T13:08:05Z'
+revision: 137107
+---
+
+# Draft:Accessibility
+
+> - Add scale to maps
+> - Add priority tent booking service
+
+## Getting Help
+
+If you need assistance with anything access-related at an event then any member of our crew should be able to help you get it. Members of the crew with a radio – egregores or refs in particular – are best equipped to quickly provide effective help if requested. A member of crew is always available at the GOD tent during opening hours (10am to 1am) if that is accessible, but you can ask for help from any member of the crew who is on-site; they are briefed to find someone who can help if they can't help directly.
+
+## Camping Area
+
+There are three access camping areas that are dedicated for use by any player who needs them. Reasons for using access camping might include needing as short a walk as possible between where you sleep and the in-character area, for example, because you have limited mobility, or will need to return out-of-character frequently to rest or decompress.
+
+The three camps are marked on the site map on the wiki. All the OOC camps are a significant distance from the Games Operation Desk (GOD) and the centre of Anvil, but the access camps are all located at the entrances to the IC area to get them as close as possible. The gate staff can provide directions to the camp you want when you arrive on site.
+
+*[Image: 2021-1.png](https://www.profounddecisions.co.uk/empire-wiki/File:2021-1.png)*
+
+The rest of out-of-character camping can have significant distances between toilet blocks and the space around them fills up quickly, arriving later on Friday may mean you are camped at a distance from facilities.
+
+## Parking
+
+In most cases, players are able to park their vehicle next to their tent. Although our traffic team direct vehicles it is possible for vehicles to get boxed in, especially during muddy events. If you need to make sure that that does not happen, please mention this to the traffic team when they are directing you to a camp so that they can find the best spot for you.
+
+We don't have traffic team volunteers operational once the event starts, so it is difficult to find a parking space near the IC field if you are returning to the site for any reason after the event has begun.
+
+## Ground Conditions
+
+Our events currently take place in a series of farm fields, two fields and a small wood are allocated for characters playing the game - they are usually referred to as the Anvil game area and are approximately 300m by 450m in total. There are two large fields for players who are out-of-character, eating, sleeping, resting, etc. There is a gradual slope over most of the site and the ground is very uneven in some areas. Drainage is relatively good, but the field does become boggy in heavy rain, and the ground becomes churned and muddy in areas of high traffic. Dry weather can then lead to hardened ruts that decrease accessibility further.
+
+The woods can suffer like the fields in bad weather but they take longer to dry out. The ground here is more uneven and includes tree roots and other hazards which make the area less accessible particularly in the evening when it is dark. There are large wood chip roads through the centre of the in-character fields and woods, which are designed to allow vehicles to get around the site in bad conditions. Some participants prefer to walk on the roads when available, but the wood chip is in lumps which can be a problem for wheelchairs. If the site is very dry - then it can become very dusty and the woodchip road particularly so.
+
+As a result, the site is virtually inaccessible with a manual wheelchair; only a powered chair that is designed for off-road use will cope and then only under good conditions. Ground conditions can also cause access difficulties for others including people with mobility, fatigue, balance or coordination difficulties. There are a number of trip hazards across the site that can present difficulties to blind or partially sighted players; these vary by event and Profound Decisions is always willing to advise and assist with camp placement to minimise their impact.
+
+## Toilets and Showers
+
+The main toilet blocks are near the centre of the in-character field. This facility is the only one with running water in the sinks (hot or cold). It includes an accessible toilet cubicle that is large enough for an electric wheelchair. Entrance to this cubicle is via a ramp; there is a thin gap between the top of the ramp and the floor of the room which can make it difficult to get a wheelchair inside independently. The accessible cubicle is the main accessible loo for the field, and also serves as a family-friendly loo and often baby change which can lead to long waits.
+
+There is an accessible portable toilet in each of the three accessible camping areas. These are the standard mobile plastic units; they have a larger footprint than regular portable toilet units and grab bars mounted on the inside walls to aid mobility, but they are not large enough to accommodate an electric wheelchair. These units are not flat to the ground, they are designated as having easy access with 1/2″ thick floor at ground level. The showers are located in the southeast corner of the site. There is a wet room with an accessible suite here, next to the main shower block. Entry to this unit is via a ramp.
+
+There are several other toilet blocks on-site, but at present, all the other cubicles are a standard size and none of them are equipped with grab rails. These units all are accessed via stairs with a handrail. The gap between the toilets and the sinks is fairly narrow so it is hard to pass by them when they are in use. They have alcohol hand sanitiser but no running water. The hand-towel dispenser is located at the far end of the block from the door so all cubicles and sinks need to be passed to access them.
+
+There can be queues at times for all the toilets and showers, including the accessible ones, especially first thing in the morning before battles. All the toilet blocks have limited internal space, so using the sinks for activities like teeth washing can be tricky. The toilets do run out of loo-roll occasionally - though we do restock them regularly as well as whenever someone reports them as empty.
+
+All the blocks are deliberately located in areas of high traffic, so the ground conditions suffer when the weather is bad. Access becomes more challenging as the ground around and any steps become muddier and the floors can be a trip-hazard when wet. The facilities are cleaned regularly, but they do get muddy. People who struggle with anxiety such as germophobia are likely to find them challenging and may benefit from bringing their own hygiene supplies/hand sanitiser.
+
+The three largest toilet blocks, the one in the in-character area, the blocks near GOD and the blocks near the shower area all include a gender-neutral toilet block for use by any participant. Profound Decisions support the right of all our participants to identify their gender - and to use the toilets that they feel most comfortable using.
+
+## Games Operation Desk (GOD)
+
+All game administration is accessed via the GOD tent. Players need to check in here before the game begins to collect their packs and come to GOD to conduct various in-character activities like mixing potions. The desk is based in a large tent with access at ground level. There are usually queues that form at peak times, particularly on Friday when people are waiting to collect their packs.
+
+You can arrange for another player to collect your pack and to deal with any other administrative tasks for you if this will help in any way. You can arrange this by emailing us in advance of the event or by [getting help from any member of crew](Draft-Accessibility.md#getting-help) once you're on site.
+
+The queues are longest on Friday when people are collecting their packs, and the biggest delay is for players getting concessions checked. If you have a concessionary ticket then it is a good idea to send proof of eligibility in advance (a phone photo of any relevant documentation emailed to admin@profounddecisions.co.uk) as this will reduce any delay.
+
+## First Aid Tent
+
+Our first aid team are a fully qualified dedicated professional team that have experience providing first-aid support for live roleplaying events. A member of the team is available 24/7 to provide emergency care for all mental and physical health throughout the event. The team are your first point of contact for all of the following:
+
+- **Any incident where you would normally dial 999 (Ambulance)**
+- **Any injury you would normally go to a minor injuries unit**
+- **Any medical issue that needs immediate attention**
+- **Any minor injury you would treat at home**
+
+The team are based out of a tent near the main GOD area which is accessed at ground level. If you need first-aid to come to you then [contact any member of the crew](Draft-Accessibility.md#getting-help) to call them for you. Refrigeration for medication is available, but please check with us before the event to ensure easy access.
+
+## Participant Welfare
+
+Empire is a busy and exciting event, with lots of activity and situations that you may find unexpected or challenging. Some people, including those with ongoing mental health issues, may find themselves feeling overwhelmed, anxious or distressed.
+
+If this happens to you, and you feel unable to cope, then please ask someone to help you find a member of our crew. As many of our crew are skilled at supporting others, the crew member you find may be able to help you themselves. If the first member of our crew you speak to cannot help you with your needs, they can contact the participant welfare team for assistance.
+
+Our participant welfare team are a volunteer team that have experience or qualifications in psychotherapy, counselling and support. The team exists to help event participants who are unable to enjoy the event due to mental health issues or emotional distress.
+
+When the participant welfare team get a radio call, a member of that team will come to wherever you are. They also have access to a private tent, in the OOC area, which they can take you to if that would be more helpful. Any conversation you have with a member of the participant welfare team may be regarded as confidential, shared only within the welfare team and with [PD's safeguarding officers](../crew/Profound_Decisions_management_team.md) where required. Information will only be shared with additional people with your permission, or where we are legally or ethically obliged to do so by the police or to protect children or vulnerable adults who are at risk at the event.
+
+If a member of the participant welfare team receives information that leads them to believe that a child or vulnerable adult is being neglected, abused or at risk of harm, then this will be reported to a member of the management team. Information about a missing child will be reported to the security team. Information about any participant who is at risk of serious harm will be reported to first aid and/or security, as appropriate. If anyone informs the participant welfare team that they have been the victim of harassment or assault at an event, then they will be gently encouraged to make a report to the conduct team. If they do not wish to make an official complaint, then the participant welfare team may make an anonymous report on their behalf.
+
+Although members of the participant welfare team are qualified in counselling and psychotherapy, their role at Empire does not aim to be therapeutic. You are not their client or patient. Their conversation with you will be closer to that of a crisis helpline volunteer or a good friend than that of a professional counsellor or psychotherapist.
+
+The participant welfare team aims to assist you to move through any distress you may be experiencing, and to help you access resources that you can use to solve your problems and meet your needs. Their goal is for you to feel able to go back to enjoying the event again, quickly and smoothly. If that is not possible, and you need to go home, then they can call other teams to assist you in leaving the site.
+
+## Caterers
+
+Most of our event caterers in the in-character field use tents which are accessible at ground level which provide seated accommodation for diners. Our caterers in the out-of-character field operate a collection service from trailers or stands. Please note that queues often develop at busy times, in particular when players return from the battlefield at noon each day.
+
+All of our caterers follow the legal standards around common allergens. Most provide vegan and gluten-free options throughout the event.
+
+Some of our caterers in the in-character area strive to provide a more flexible service. They will try to make individual portions for any specific dietary requirements not covered by the main options, but they may struggle with some aspects of provision, especially at busy times. As a result, we recommended that if you have significantly non-standard dietary requirements then you bring your own backup food but it is well worth talking to the caterers in the in-character area to see what they can provide.
+
+## Traders
+
+Traders are located near to each other within the IC field. Each trader arranges their own tent, stock and layout but [please contact a member of crew](Draft-Accessibility.md#getting-help) if you are having a problem that a trader is not able to resolve for you.
+
+## Water Supply
+
+There are several standpipes spread around the site. Due to the nature of the supply, the ground around them is often boggy. There is no easy way to suspend the container to be filled, so two hands are generally required for the operation, one to hold the container, the other to operate the tap.
+
+## Electricity Supply
+
+Electricity supply is available, by prior arrangement, for accessibility needs such as CPAP equipment or wheelchair chargers.
+
+## Alcohol and Tobacco
+
+Drinking alcohol is permitted and is widespread at Empire events. It is common for players to share drinks and for drinks to be offered to other players or exchanged in-game. The only places that are alcohol-free on the field are individual group tents that have chosen to take that decision. Tobacco smoking is also permitted but use is declining in line with national trends.
+
+Other recreational drugs are not permitted, but there are sporadic reports of cannabis use in some parts of the field. We operate a zero-tolerance policy for anyone who is observed using illegal drugs, so you can report any incident that is causing you a problem to our crew and our security team will endeavour to find the people responsible and deal with the situation.
+
+## Tavern
+
+Near the centre of the in-character field is a large tavern that serves as a social hub as well as a place to get drinks. It is possible for wheelchair users to access the tavern via a ramped entrance to the building. The tavern is usually quiet during the day with seating avaiable but is usually raucous, noisy and crowded in the evening. The entrance becomes very muddy when it rains due to high traffic.
+
+## Senate Building
+
+The senate building is the centrepiece for Empire's political game - many political meetings take place here, including the Senate and the Military Council. Like the tavern, it is possible for wheelchair users to access the building via a ramped entrance.
+
+There is a viewing gallery where participants who aren't members of the Senate can gather to watch proceedings. The gallery is often crowded and noisy and the only access is via a significant step. There is no seating provided; it is necessary to be able to stand to observe the senatorial debate. If a participant provides their own seating they will be unable to see over the side of the gallery to watch proceedings.
+
+## The Hub, Bourse, Conclave etc
+
+The Hub is a large central tent where many of the meetings of various groups such as priest assemblies take place. There are also announcements posted here. As it is set up in a tent, access is at ground level. Some of the notices may be too high or too low to read comfortably and the legibility is extremely varied. The members of crew portraying civil servants in this area will provide support, but they are often busy and in high demand.
+
+Tents are also used for all other major games areas such as the Bourse, the Academy or the Conclave. At present, there is no seating provided in these tents.
+
+## Nation Camps
+
+Access is step free in the nation camps, though some player tents may have a lip at the entrance. The accessibility of all player tents in the in-character field can vary greatly owing to design and placement of furnishings.
+
+Some camps have tents more densely pitched, some with tents close together with crossed guy ropes. In all the camps, the main accessibility issue is navigating between tents and avoiding guy ropes in order to access other parts of the field - finding a clear path through can be very difficult. The entire Imperial Orc camp and parts of the Navarr and Wintermark camps are in the woods, where navigation has all the associated problems mentioned above.
+
+An 'ambulance run' is marked out at ground level, and runs around the IC field and through the nation camps, but we will only allow vehicular access in the event of an emergency. Otherwise, there are no road vehicles allowed in the IC area during the event.
+
+## Lighting
+
+There is lighting in all the in-character buildings and tents provided by Profound Decisions, and in out-of-character areas such as first aid and GOD. Many traders and caterers have lighting in their tents while they are open, and some player groups will also have lighting in and around their tents, but there is no general provision of lighting in most of the field.
+
+## Encounters
+
+We run a number of encounters that take place away from the main field throughout the weekend. Some of these take place in the woods and fields, some take place in specially dressed tents located in the crew area (called encounter tents). These entrance to these locations are all adjacent to the main Anvil game area. Most characters go travel to an encounter by walking through the Sentinel Gate which is located near the entrance to the battlefield but you can skip this stage if you need to. The path that leads to the encounter tents is short and relatively flat.
+
+We can't guarantee that combat won't occur, not least because it can be started by players at any time, but the primary distinction between a skirmish and an encounter is that combat is much less likely with an encounter. All our encounters have a classification noted on the likely chance of combat - you can ask for this information from a referee as described below.
+
+Encounters often take place in dark, enclosed, tents. The tents are on flat ground with a slight incline and will not normally include crowds or obstacles unless specifically required for the encounter. These encounters are intended to be dramatic and may include elements that trigger common phobias.
+
+Anyone is welcome to participate in an encounter, but most encounters are actively designed to be accessible for participants whose health or mobility makes participation in a skirmish or battle difficult. As a result, we are particularly keen to accommodate any adjustments that we can make that will help you access a specific encounter that you are involved with as described below.
+
+## Avoiding Combat
+
+All our battles and skirmishes take place in the fields and woodlands adjacent to the Anvil game space. Players decide if they want their character to go on them, so there is no possibility of being involved in a battle or skirmish unless you have chosen to be there. Combat can occur anywhere in the Empire game spaces, but it is very rare for characters in the main Anvil spaces to be involved in fighting.
+
+You may use the non-contact gesture at any time if you feel you need to. If a fight starts near you then you can put your hand as high in the air as you can and keep it there, to indicate that you are non-contact. Your character is immediately reduced to zero hits and starts dying. The wiki contains the [full rules for using the non-contact gesture](../rules/Combat_safety.md#non-contact).
+
+## Battles and Skirmishes
+
+Profound Decisions operate two large battles at every event. You may choose to play one of these battles as your character. All participants who play their character on a battlefield must volunteer to monster another battle. This must be the other battle on the same weekend unless you have health issues that make that impossible. In that specific case then you may choose to play one battle at one event and monster a battle at another event. If this happens due to an emergency, then please <a href="<mailto:rules@profounddecisions.co.uk>">email us</a> after the event to let us know. If this happens on a regular basis due to ongoing health issues, then you can make up the missed requirement at the first available opportunity without needing to let us know. You may never play your character in two battles at the same event but you can monster two battles at the same event if you wish.
+
+All battles take place in fields and woodland adjacent to the Anvil game space. The ground in the field is relatively flat, except for the large copse of standing trees where the ground is much more uneven with exposed tree roots and other hazards. The battle field is 350m by 200m so walking distances can be significant. The woods are 350m by 350m, and the ground is much harder going here, with patches of thick bracken, exposed tree roots and deep ruts in some paths.
+
+Combat is almost inevitable on battles and anyone who takes part risks being caught in the fighting. The melees are loud and chaotic with participants often crowded close together; our battles are deliberately designed to be as tense and emotional as we can make them. We use special effects such as smoke machines to help achieve this, using \*specific product of smoke used by PD\*. We design our battles to last around an hour, but they can run on longer. Characters can usually choose to leave the battlefield at any time, but the exit point may be some distance away. There is often the risk of your character being attacked if you choose to leave alone. If you need to leave the field for any out of character reason, such as physical health problems or emotional distress, you must speak to a ref.
+
+All participants in combat are expected to be able to follow the published rules. This includes falling over if their character is reduced to zero hits, or being hit with a STRIKEDOWN effect. If you have any mobility or safety restrictions that make it unsafe or impossible to follow the normal rules for combat then you can use the non-contact gesture. The gesture has the best possible chance of ensuring that nobody will hit you with an LRP weapon. The point at which you feel it is neccessary to become non-contact is absolutely your decision; it is not acceptable for any other participant to question this.
+
+There are a variety of volunteer roles available on the battlefield to fill your monstering slot. We need a large number of volunteers to play orcs. Orcs are the main combat antagonists at Empire and volunteer orcs need to be able to fight comfortably in melee situations. They need to wear an orc mask, which PD provide. Our masks are a cotten fabric base with latex over the top. We also ask out orc volunteer monsters to wear face paint around their eyes and mouths. We provide \*specific brand/type\* face paint.
+
+If the roles that you can portray on the battlefield are limited for any reason then it's best to let our crew know as soon as possible when you come to volunteer. Everyone who plays their character on the battlefield needs to volunteer to help with another battle, but there are a wide range of different roles that are available. We need help with battle safety, respawn support and water carrying and we also have a range of low-combat roles that are suitable for some participants. Most monster roles are orcs, but there are low combat roles available for participants who cannot use facepaint or latex masks.
+
+Other roles we require volunteers for include help with battle safety, respawn support and water carrying. We also have a range of low-combat roles that do not require participants to wear masks or use face paint. If you would like to volunteer for any roles other than playing a volunteer orc, please let our crew know as soon as possible when you come to volunteer so they can direct you to the right place.
+
+We run a small number of skirmishes throughout the weekend. These involve many of the same challenges that take place with a battle, but there are far fewer participants and they rarely last more than half an hour at most. There is a high likelihood of combat on any military skirmish, but it is not guaranteed and they are less chaotic and noisy than battles due to the lower numbers of participants.
+
+Everyone who attends Empire is welcome to take the battlefield provided that you can are old enough and do so safely. If you consider yourself to be at an elevated risk of serious injury from these activities, then we ask that you take that into consideration when deciding whether to fight in battles. If you are recovering from an OC injury, are pregnant or have any health issues that mean taking part in contact sports would put you at additional risk, then you may wish to consider seeking medical advice before participating. If a medical professional has advised you to avoid strenuous physical activity - for example, if you have an ongoing health condition that means you are at risk of permanent or even fatal injury if you participate in combat - then you should not participate in fighting.
+
+If you are under sixteen then you cannot go on a skirmish or battlefield until you have passed your [Test of Arms](../events/Test_of_Arms.md). You must be 14 years of age and have the approval of a parent or guardian to take the test.
+
+## Getting Detailed Information
+
+All the plots created by Profound Decisions include specific accessibility information for that plot. This information is available to any participant on request. The information we provide is limited to the things that we, as game organisers, can control. Other participants actions may create further accessibility issues, especially in relation to unplanned combat.
+
+Anyone may ask a referee, egregore or member of the GOD team for accessibility information about a plot line, at any time. You do not need to explain anything about your reasons for asking so long as it is for out of character purposes. You only need provide enough information for them to identify the plot that you are interested in. Once a member of crew has located the plot you are interested in, they will be able to read the documentation provided by the plot writer.
+
+We have a [specific wiki page](../rules/Accessibility.md) that provides detailed information about the breakdown of the kind of information that is provided with guidance on how we classify the liklihood of combat for a given plot.
+
+## Accomodation
+
+We encourage everyone to ask for changes to an encounter if it will enable them to take part. We have moved outside encounters inside, changed lighting levels, changed times. We will make every effort to adjust an encounter for someone who is closely following a plot if we discover their access needs in time. Egregores, referees or GOD can help you organise this. It will not always be possible, especially as sometimes different needs conflict, but if we can accommodate a change then we will.
+
+> # Details To Chase Up
+>
+> - Where is power available?
+> - What sanitary provisions are there?
+> - What times do the caterers normally open?
+> - What common allergies are catered for?
+> - What do participant welfare cover?
+> - Brand of smoke and make-up for allergies for battle information

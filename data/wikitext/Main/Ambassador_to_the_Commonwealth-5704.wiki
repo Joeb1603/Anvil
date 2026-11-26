@@ -1,0 +1,52 @@
+[[Category:Ambassador]][[Category:Title]][[Category:Foreign Nations]][[Category:Senate]]
+{{CaptionedImage|file=Cyrus12292.jpg|caption='''Cyrus, of Ebon's Hall''', Ambassador to the Commonwealth|align=left|width=400}}
+==Overview==
+The Ambassador to the [[Commonwealth]] is an [[Imperial title]]. It is an Imperial position appointed by the Imperial Senate. The Commonwealth embassy is located along the river Couros, in the [[Highguard|Highborn]] port-town of [[Necropolis#Hedrossan|Hedra]]. The Imperial embassy to the Commonwealth is built in the rich city of [[Commonwealth_ports#Leerdam_(Eastern_Commonwealth)|Leerdam]].
+
+While political relations with the Commonwealth were somewhat unpredictable, this changed with the formation of the [[Liberty Pact]]. In alliance with the Empire and the [[Sumaah Republic]], the Commonwealth helped strike the crucial blows that ultimately lead to the collapse of the international slave trade. For some years, the Empire and Commonwealth enjoyed a close alliance, that even weathered the Imperial decision to remain neutral in their war with the [[Principalities of Jarm]] (at least on paper). Recently, however, relations have deteriorated significantly over [[If_we_never_meet_again#Commonwealth|Imperial revelations]] of the Commonwealth role in the destruction of the nation of Lantir and the incursion of [[Cold Sun]] in the east.
+
+Prior to the Winter Solstice 387YE, the Ambassador was able to purchase goods from merchants and those seeking favour. This was changed, along with the rest of the ambassadors, when the Senate voted to [[387YE_Winter_Solstice_Senate_sessions#Amend_Imperial_Embassies|amend]] the embassies to end the practice, removing mercantile support and the upkeep costs at the same time.
+==Responsibilities==
+The [[ambassador]]  is expected to represent the Empire in relations with the [[Commonwealth]]. They have all the responsibilities [[Ambassador#Responsibilities|common]] to an Imperial ambassador. As such they are responsible for representing the Empire to the Commonwealth, and to a degree vice versa. They are presented as the primary contact for any official Imperial business relating to the Commonwealth, so their letters carry much greater weight and importance than anyone bar [[the Throne]]. They are expected to conduct or oversee any [[Ambassador#Treaty|treaty negotiations]] with that nation, and receive official [[Ambassador#Delegation|delegations]]. The [[civil service]] will direct representatives and citizens of the foreign power to the ambassador wherever appropriate.
+{{Diplomacy|nation=Commonwealth|status=Foreigner|port=[[Commonwealth_ports#Leerdam_(Eastern_Commonwealth)|Leerdam]] and [[Commonwealth_ports#Volkavaar_(Western_Commonwealth)|Volkavaar]]|ambassador=Cyrus of Ebon's Hall of [[Highguard]]|counterpart=[[Ambassador_to_the_Commonwealth#Commonwealth_Ambassador|Militärattache Otto Fuchsbach]]}}
+==Powers==
+===Imperial Ambassador===
+The title has all the [[Ambassador#Powers|common powers]] of an ambassador: they can receive a formal [[Ambassador#Delegation|delegation]], are responsible for official [[Ambassador#Communication|communication]] with the Commonwealth, and may present a [[Ambassador#Treaty|treaty]].
+===Stipend===
+The Ambassador receives a [[Imperial_treasury#Stipends|stipend]] of four thrones each season
+==Appointment==
+The Ambassador to the Commonwealth is an Imperial position [[Appointments_by_the_Senate#Imperial_Position|appointed by the Senate]]. Any Imperial citizen can hold this title, and the ambassador serves for a year. They can be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Ambassador_to_the_Commonwealth}}
+==Ambassadorial Lore==
+===The Diplomatenschloss===
+Originally, the Commonwealth [[embassy]] stood in [[Madruga#Siroc_(Ruined)|Siroc]] in [[Madruga]], far away on [[the Brass Coast]]. Despite being [[Construct Commonwealth embassy|commissioned]] in Summer 379YE, work was not completed until shortly before the Spring Equinox 380YE. This followed several months of growing tension between the powerful south-eastern nation and the Empire, including a number of tariffs imposed by the Commonwealth government on Imperial imports and exports. In 385YE however it was destroyed along with the city by an alliance of [[Grendel]] and [[Asavean Archipelago|Asavean]] forces (as recounted in the ''[[A beacon of smoke]]'' wind of fortune). The garrison there, along with several of the Commonwealth diplomats, fought bravely alongside their Freeborn neighbours, and paid a harsh blood price for doing so.
+
+Almost a year later in Summer 386YE, the Commonwealth ambassador to the Empire ''Militärattache Ludkhannah'', proposed a new embassy be built. Rather than a simple bureaucratic office, she suggested the Empire might work with the Commonwealth to establish a ''[[For_the_Common_Good#Fighting_Talk|diplomatenschloss]]''. The Senate accepted, and work began [[Construct Diplomatenschloss|almost immediately]].
+
+A diplomatenschloss is a specialised embassy built to also serve as a ''schloss'', a Commonwealth [[fortification]]. Similar to the [[Dean_of_the_Lyceum#The_Lyceum_Schloss|Lyceum Schloss]], but built on a much larger scale, it houses all the embassy staff but is also sufficiently fortified that it provides an effective defence to the entire territory where it is built. Indeed the Commonwealth have sent a detachment of soldiers - the ''Diplomatenschloss guard'' - to garrison it at their own expense (meaning there is not additional upkeep beyond that for a traditional embassy). The guard, resplendent in traditional uniforms, not only protect their own staff, but stand ready to help their hosts defend should Necropolis ever be endangered.
+
+Work on the Hedrossan ''diplomatenschloss'' was overseen by ''Poldi Hellebrant'', a respected Commonwealth siege engineer. She was initially pleased both with the land set aside for the construction and the modernity of the docks at Hedra compared to the more traditional facilities of [[Necropolis#Longbeach|Crown's Quay]]. Almost immediately however she [[Beneath_mithril_spires#The_New_Embassy|expressed concern]] over the proximity of the [[Principalities of Jarm|Jarmish]] embassy across the river in [[Redoubt#Cargo|Cargo]]. The close location of the two embassies means that that Jarmish and Commonwealth vessels are both travelling along the Couros river and Poldi several times pointed out that given relationships between the two nations this might cause problems down the line.
+
+Obviously building the ''diplomatenschloss'' meant giving control of a powerful fortification to the Commonwealth, but the benefits were judged to outweigh the potential disadvantages. Should relationships with the Commonwealth collapse, it would represent an armed force within Imperial borders that could potentially prove to be a problem.
+
+As to the Imperial embassy to the Commonwealth, the port of [[Commonwealth_ports#Leerdam_(Eastern_Commonwealth)|Leerdam]] is home to a palatial estate that has been made available for the use of Imperial civil servants. One of the oldest, and arguably richest, cities of the Commonwealth Leerdam, is a major trade hub. The staff of the embassy are often busy sorting out permits and opportunities for visiting Imperial merchants or fielding queries from Commonwealth traders eager to seek profit in the Empire.
+
+(The ''diplomatenschloss'' is a rank one [[fortification]]. The [[Fortification#Bastion|bastion]] stands in Hedrossan, and the [[Fortification#Garrison|garrison]] is made up of Commonwealth soldiers. There is no additional upkeep to the Empire to maintain these troops.) 
+{{WingedMessenger|address=Militärattache Otto Fuchsbach, die Stahlhalle, Volkavaar, Commonwealth}}
+===Commonwealth Ambassador===
+Their ambassador to the Empire is ''Militärattache Ludkhannah Schöningen'', of Die Stahlhalle in the port-city of Volkavaar, a veteran soldier who reports to the generals who hold the reins of political power in their nation. An old campaigner, they generally speak plainly and as honestly as any politician can when dealing with their Imperial counterpart.
+===Ambassadorial Briefings===
+As discussed in the 388YE Autumn Equinox wind of fortune '''[[So_little_I_wanted,_so_little_I_got#Ambassadorial_Briefings|So little I wanted, so little I got]]''', the [[civil service]] have recently reinstituted Ambassadorial briefings. At least in the short term, the civil service have resumed furnishing Imperial ambassadors ''who are supported by [[embassy]] staff'' with individual briefings where necessary and appropriate. To maintain transparency and preserve continuity, the briefings are made available to those who wish to review them ''after'' the summit where they are delivered, in a similar way to which [[historical research]] is made public. Only those elements of a briefing that are specifically personal to the ambassador may be removed, and only where they are clearly not of interest to the Empire. At the end of the year, this procedure will be reviewed again, to ensure that it is fit for purpose.
+* [[388YE Autumn Commonwealth ambassador briefing]]
+{{Commonwealth Links}}
+<!--
+==Archival Stuff==
+===Commonwealth Merchants===
+The [[#Diplomatenschloss|Diplomatenschloss]] in [[Necropolis#Hedrossan|Hedrossan]], [[Necropolis]] means that the ambassador enjoys the benefits of [[Ambassador#Mercantile_Support|mercantile support]] from traders keen to curry their favour. As a [[ministry]], this allows them to purchase quantities of special materials at a set price. The ambassador spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+<table><tr><td style="background-color: LightBlue;">Total Money Spent</td><td style="background-color: LightBlue;">Production</td></tr>
+<tr><td>8 Crowns</td><td>5 Green Iron, 5 Tempest Jade, 4 Ambergelt</td></tr>
+<tr><td>30 Crowns</td><td>15 Green Iron, 15 Tempest Jade, 12 Ambergelt</td></tr>
+<tr><td>60 Crowns</td><td>25 Green Iron, 25 Tempest Jade, 20 Ambergelt</td></tr>
+<tr><td>120 Crowns</td><td>35 Green Iron, 35 Tempest Jade, 28 Ambergelt</td></tr>
+</table>--><!-- Based on the production of a trade fleet dealing with Leerdam and Volkavaar-->

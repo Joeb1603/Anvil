@@ -1,0 +1,146 @@
+---
+title: Only forward
+source: https://www.profounddecisions.co.uk/empire-wiki/Only_forward
+class: in-character
+topic: winds-of-war
+categories:
+- Recent History
+- 386YE Summer
+- Military Council
+- Winds of War
+event: 386YE Summer
+last_edited: '2026-09-05T15:07:30Z'
+revision: 144831
+in_character_boxes: 6
+---
+
+# Only forward
+
+*[Image: The Jotun have returned to the Dour Fens, but the Bregas will not bend their knees to the orcs again.](https://www.profounddecisions.co.uk/empire-wiki/File:Marcher_Drums.jpg)*
+
+## Business Unusual
+
+Bregasland rests fitfully. The Greywaters, and those who felt they had been hard done by, may have been mollified but there's still a dangerous undercurrent. Every time news comes from Anvil of this or that happening, there's a few who mutter “What would Shel do?” into their pints. Those who feel the hand of Imperial law was a little too quick to fall on them and their neighbours grumble in half-sentences, thick with allusion, about the injustices they clutch close to their breasts. To an outsider, it looks like business as usual in the Dour Fens, but to those who live there... they can see the ripples of Mathilda Fisher, what she set in motion, swirling and tugging and teasing just beneath the surface.
+
+Business as usual... and then the Jotun invade. Not into the Fens, not into the shadow of Fisher's Rock nor into the lands claimed by the Greywaters. This time the armies march across the border from the south. From Liathaven, which the Jotun first named the Dead Forest but now, as they [beat the wild forests back,](../../mixed/government/military/Under_the_firelight.md#wyndyn-path-liathaven) they have taken to calling *Ashvale*. Two armies, the Fist of Ulven and the Southern Bear, crossing into the only area of solid ground in the whole territory, into Gravenmarch.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Under the gaze of the king we come to the dour fens, to take back the lands of our ancestors. As the oldest tore open the mountain to find her answers in spite of the blizzard that sought to stop her, so we will tear open the Marches whatever force tries to deny us our prize.
+> >
+> > Gjeirfund Haggarsdottir, General of the Fist of Ulven
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Only forwards.
+> >
+> > Bjorgthorn Hammerhand, General of the Southern Bear
+
+## The Only Dry Ground
+
+Uncharacteristically, especially for an army that is usually a barely-contained whirlwind of joyful violence, the Fist of Ulven come with caution as their shield rather than with overwhelming force. There's an edge of uncertainty to their advance. All too often in the past, the Bregas marshes have been wound round with the [warding echoes](../../mixed/magic/rituals/Dripping_Echoes_of_the_Fen.md) of [Night magic](../../out-of-character/rules/Night_magic.md), twisting and turning the paths and sowing confusion in their ranks.
+
+The Southern Bear know no such reticence, moving with the confident surety that marks most of their manoeuvres in Imperial territory. Sometimes they follow the lead of the Fist of Ulven, consolidating the gains they have made; other times they forge ahead eager to be first to the fray.
+
+Not that there is much fighting, as the Jotun measure such things. There are no magical wards to slow their advance, and there are few defenders capable of putting up any serious resistance. A handful of levies, raised by the households of Graven March. Another handful of [Strong Reeds](../../mixed/government/military/Strong_Reeds.md) soldiers, absent without leave from their [Mitwold](../nations/the-marches/Mitwold.md) [billet](../../out-of-character/rules/Army_orders.md#billet), snuck across the border to visit family or pursue an unwise assignation.
+
+This is no reprise of the last invasion, when the Jotun sought to install Mathilda Fisher as steward of Bregasland. There are few yegarra among their ranks, and none march under the banner of the eels-on-the-water. Yanya Uranduln brings the Howling Bears to fight alongside the Fist, although there is no sign of the walrus banner of their habitual friend-and-rival Eisa Winterborn. Their place is taken by the Ice Fishers of Ldansk, that loose gathering of champions from minor clans across Kalsea who fight for the honour of Kierheim, and Tromsa, and other more distant lands.
+
+A few wonder if the decision not to bring yegarra to Bregasland is intentional. Perhaps King Gudmunder Arasonn, under whose banners the Fist of Ulven fight, wishes to avoid comparison with the recent failed venture into Bregasland? To make it clear that this is about Jotun conquest and not the ambitions of a dead women and her clan. There's no easy way to know, but there is a rumour that for the first time in quite a while the Jarl of Jarls, the leader of the southern Jotun, does not lead the Fist of Ulven himself, entrusting their role in the conquest of Bregasland to his niece Gjeirfund Haggarsdottir.
+
+## Graven Fall
+
+They may strike carefully, but [Graven Rock](../nations/the-marches/Bregasland.md#graven-rock) falls to the Jotun almost immediately. The great grey-stone “pebble” quickly becomes a base of operations for the Jotun. Their caution about its twisting depths soon melts away, and the Howling Bears waste little time before beginning to explore its tunnels and passages, eager to prove their bravery. More practical Jotun among the Ice Fishers of Ldansk set the thralls they have brought with them the task of finding ways to fortify the four-mile-wide plateau. Perhaps Bjorgthorn Hammerhand, general of the Southern Bear, dreams of creating the largest fortification the Jotun have ever known using this ancient rock as a foundation. Such dreams will offer scant consolation to the [Keeper of the Dour Fens](../../mixed/titles/Keeper_of_the_Dour_Fens.md), denied the bounty of that magical [sinecure](../../mixed/commissions/Sinecure.md) that lies beneath the rock for the second time in the space of a year.
+
+From the rock, the armies advance on the town of [Graven](../nations/the-marches/Bregasland.md#gravenmarch). In happier times, [Navarr](../nations/navarr/Navarr.md) merchants and [stridings](../nations/navarr/Striding.md) would pass through here in their peregrinations north from Liathaven, or when returning to their home in the south. As well as trade goods, they would deliver and take people from Graven. Those who wanted to see the Empire would join an outward-bound striding, those who had nowhere else to welcome them would arrive with the inward-bound Navarr and perhaps choose to stay, seduced by the bleak beauty of Bregasland. Since the final fall of Liathaven, these stridings have become much rarer and it is perhaps only bad luck that sees two of them visiting Graven when the Jotun come.
+
+They fight alongside their Marcher hosts, of course they do. But they pay a different price to the Bregas yeomen when the town falls. The orcs have not forgiven the Navarr for the indignities and the dishonour they have visited on them. Where they offer the Marchers the familiar Choice, they simply execute any Navarr that survives the initial fighting. Nothing cruel, nothing drawn out. A swift blow from axe or sword or spear and it is done. Each execution is accompanied by a few words, reminding the Navarr that this is what they reap for the dishonour, the indignity, the cruelty, that their people have visited on the Jotun. No mercy for the Imperial Druj.
+
+If the Jotun had been more forceful, they would have pressed further into the unguarded marshes. As it is, their caution and their concern for obfuscating wards or hidden armies has slowed their invasion just enough. Gravenmarch is conquered, but the rest of Bregasland has time to react and to prepare. Time to realise what is happening and begin to make plans. The yeomen ready their bills and their bows, grimly eager for the moment when the Strong Reeds will come marching home and put the Jotun to flight again.
+
+## Game Information
+
+The region of [Gravenmarch](../nations/the-marches/Bregasland.md#gravenmarch) has been captured by the Jotun. They have not made any inroads into the rest of the territory, and were mostly able to seize the land they have conquered thanks to the implacable advance of the Southern Bear. They are busy establishing defensive encampments around Graven Rock.
+
+This means that the [Keeper of the Dour Fens](../../mixed/titles/Keeper_of_the_Dour_Fens.md) has again lost access to their [bounty of mana](../../mixed/titles/Keeper_of_the_Dour_Fens.md#bounty-of-mana), and cannot take advantage of the [weeping menhirs](../../mixed/titles/Keeper_of_the_Dour_Fens.md#the-weeping-menhirs) until the region is back in Imperial hands.
+
+## Shadow of the Rock (Battle Opportunity)
+
+The arrival of the Jotun in Gravenmarch, and their quick subjugation of the region, comes as a shock to many, but something that many folk mutter was *"as certain as a puddle is wet"*. Yet the Bregas are quick to respond as beaters spread news of the barbarians and a populace accustomed to recent conflict sharpen bill hooks and fletch ash shafts in preparation. A stubborn determination fills people's minds, considering that all they need to do is slow the orc advance long enough for the Strong Reeds to come to their aid. Folk are certain that the army will come soon; after all, **Amberlain P. Black** swore an oath.
+
+Gravenmarch plays an important role in the Pride of the people of Bregasland - it is where many folk got their start in the Marches. Near **Rock Foot Wood** are the remains of an old dolmen, little more than two rocks standing close together now, though people still call it the Graven Door. This spot is where local Marchers and the egregores meet with those who want to join the nation who have been brought here by the Navarr. The Marcher egregore usually conducts a simple ceremony, it is traditional to sing a rousing song or two, they walk through the door symbolically leaving their old life behind and becoming a Marcher. It's a small thing... and that's why it's so important.
+
+The Graven Door is not in any danger - the Jotun know that it is a site of significance to local Marchers, and they'd never do anything to defile it. But its presence does offer the Empire an opportunity to dispel the [sullen mood](../nations/the-marches/Bregasland.md#sullen) affecting [Grey Fens](../nations/the-marches/Bregasland.md#grey-fens) and the rest of Bregasland. The threat to the Graven Door reminds more folk of what it means to be a Marcher. Pride in small things, loyalty to great ones. There is solidarity and kinship, that can be found even among those who stood close to the Fishers a few seasons ago. Despite the turmoil seen over the last two years people are quick to band together against this new enemy. The proximity of the Strong Reeds instils purpose to resist the Jotun and gives rise to the hope that this latest invasion will be shorter than the last.
+
+### Object: Halt the Burhfæst!
+
+- **Adamant has offered the Jotun the use of the Burhfæst, a level two fortification, for a year**
+- **To prevent this, the Empire must destroy one of Adamant's Mountain Bulwarks, a powerful guardian herald**
+- **The creature must be incapacitated before it can be destroyed**
+- **It can be destroyed with Rising Roots that Rend Stone or Inevitable Collapse into Ruin once incapacitated**
+
+The Ice Fishers have been sent to consolidate the Jotun's gains in Gravenmarch. One of their ghodi, *Faraldi Blutesson*, is a confidante of the [King Under the Mountain](../eternals/Adamant.md) and has secured a boon - the *Burhfæst* - from the eternal in this matter. In its day the Burhfæst was said to be the strongest fortification anywhere in the world. Now, not so much, fortunately. In [ancient times](../world/Imperial_history.md#ancient) [Graven Rock](../nations/the-marches/Bregasland.md#graven-rock) the legendary fortification disappeared from the mortal world, apparently spirited away to the Summer realm. Adamant has agreed to return it, granting Blutesson the use of it for a year and a day. Built in the likeness of [Olgafsdottirshal](../nations/wintermark/Sermersuaq.md#olgafsdottirshal), it would see the Jotun in a strong position in Bregasland for a season, let alone a year.
+
+To return the Burhfæst, Blutesson must escort one of Adamant's Mountain Bulwarks to Graven Rock. Stopping the Summer Guardian will not be easy. There are [summerborn champions](../barbarians/Elite_Jotun_characters.md#summerborn-champions) that march beside the Mountain Bulwark who will try to protect it and heal it if needed. And the guardian is a dangerous threat by itself; giant fists of hardened granite can smash foes to the ground, splinter weapons and shields, or hurl soldiers through the air.
+
+It can't be executed, but it could be brought low with a powerful and destructive ritual - [Rising Roots that Rend Stone](../../mixed/magic/rituals/Rising_Roots_that_Rend_Stone.md) or [Inevitable Collapse into Ruin](../../mixed/magic/rituals/Inevitable_Collapse_into_Ruin.md) would both destroy it - but only when it is incapacitated. The rituals won't harm the creature while it is still active. Imperial forces will need to incapacitate the monster and prevent the Jotun from healing it before they invoke the power of the ritual to destroy it.
+
+### Objective: Hunt the Stag of Rains
+
+- **Svynna of Ldansk is an eccentric ghodi who has taken four Navarr as thralls**
+- **If the Empire can capture the ghodi they may be able to negotiate for their release**
+
+Svynna of Ldansk, the *Stag of Rains*, is a noted ghodi who comes to Graven Rock with the Ice Fishers under a white banner bearing the skull of a fearsome avian predator of the cold north. Understood to stand apart from many other Jotun, they are notorious for their strange beliefs, the most notable of which is the claim that humans can cross over the Howling Abyss. The ghodi claims it the Jotun's mission not to conquer the Empire but to bring the Empire to the ancestors. Svynna's wild ideas are tolerated by the Jotun, because they enjoy a powerful connection to the ancestors that makes them impressively effective on the battlefield.
+
+During the attack on Graven, most of those local Navarr who didn't escape were killed, but it seems that four of them have survived. Bronwen Graven Stand, her husband, Logan Graven Stand, and their two children, Niamh and Dradan, both are [Summer children](../winds-of-fortune/A_horn_resounding.md#coming-of-age) who only passed their Test of Arms last year. It's not clear if Svynna saved them because of their age, or perhaps because they were Summer children. All that is known is that the ghodi prevented his fellow Jotun from killing them and then claimed them as thralls.
+
+The four were last seen being taken into Liathaven by Svynna's retinue, presumably destined for a new life as thralls in Liathaven or further West in Hordalant. There is a chance during the battle to find Svynna and barter for the lives of the two youths and their parents. If the ghodi is captured then there is a chance they may agree to let them go as part of a ransom. However, the nature of *who* does the negotiating and what is ultimately agreed upon could be a particularly delicate matter.
+
+### Objective: Celebrating the Pride of Bregasland
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Pride in small things, loyalty to great ones.
+> >
+> > Marcher Proverb
+
+- **The Graven Door is a proud symbol of Marcher traditions**
+- **An impressive show of Pride here will reverberate across Bregasland**
+- **If the Pride of Bregasland is celebrated and the Strong Reeds are present in the territory it will remove the sullen quality**
+
+There has been much talk of [Loyalty](../religion/Loyalty.md) in Bregasland in recent years. Of the need for Marcher folk to be loyal to the Empire, of Bregas' expectations of what loyalty the Empire owes them. But [Pride](../religion/Pride.md) is the other half of the most famous Marcher proverb of them all - Pride in small things, loyalty to great ones. The proverb references that people should take Pride in what they do and be loyal to their nation, rather than taking pride in their nation's achievements but being loyal to themselves.
+
+If the Empire chooses this battle, there are several things they can do to demonstrate their Pride. Priests and devotees of Pride have a chance to work their words, deeds, and liao during the battle and before it. Priests can deliver sermons, dedicate new followers, anoint pilgrims, and hallow the weapons of heroes. Those who are dedicated to Pride - especially the [Champion of Pride](../../mixed/titles/Champion_of_Pride.md) - all have a part to play in rousing the hearts and minds of everyone who strides through the Sentinel Gate. The ultimate expression of Pride would be a rousing song or two performed at the Graven Door.
+
+A rousing demonstration of Pride by the Empire, Pride to be here fighting for Bregasland, Pride in their fellow Marchers, could have a big impact. It would shame those who were sour that the Empire's justice did no cut deep enough. It would remind them that in the Marchers people have Pride in small things - and show Loyalty to great ones. If that happens, if there is an emphatic show of Pride by the Empire, with the Marchers and their egregores here to witness it, then news of it will spread across the territory. Instilling a renewed sense of Pride in Bregasland and the Marches will cause the mood across the open fens and reed beds to shift. If the oathsworn Strong Reeds return to Bregasland then the [sullen](../nations/the-marches/Bregasland.md#sullen) mood will be gone and the Pride of Bregasland will be restored.
+
+### Battle environment: The Graven Door
+
+- **The Graven Door has an unusual spontaneous aura of Pride**
+- **The first time a character with a Pride anointing walks through between the pillars of the Graven Door they gain one temporary hero point**
+
+There is an unusual spontaneous aura of Pride in the region around the Graven Door, the pair of standing stones near Rock Foot Wood. Any character will feel a resurgence of strength, commitment and determination when they walk between the stones for the first time that season. They feel a profound sense of the importance of this moment and the significance of the decisions they are taking.
+
+Any character who is [anointed](../../out-of-character/rules/Anointing.md) to Pride will gain one temporary hero point the first time they walk through the Door. This hero point is always the first to be used and cannot be restored in any way. Walking through the door a second time has no effect.
+
+## Conjunction
+
+### Choices (Mitwold)
+
+- **A Jotun warband are returning from raiding Mitwold**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Bailiff of the Grand Market* is responsible for slaying Urse Longarm**
+
+Even as the Fist of the Ulven and the Southern Bear advance on Graven a small warband moves ahead of the armies and strikes into the rich farmland of [Mitwold](../nations/the-marches/Mitwold.md). *Urse Longarm*, fresh from their [victory against the Feni enclave](Against_the_Jotun.md#threads-in-the-pattern-liathaven) in [Ashvale](../nations/navarr/Liathaven.md), has looked to cement their position amongst the southern Jotun with a raid into the rich heartland of the Marches. The warband has managed to keep a step ahead of the scattered [Strong Reeds](../../mixed/government/military/Strong_Reeds.md) - billeted as they are across the territory - and have amassed enough of a fortune and gained enough reputation for their actions that *Longarm* is returning back to Jotun held Gravenmarch and security.
+
+Given that this represents dealing with those who have threatened the major roads between the settlements of Mitwold it is the responsibility of the [Bailiff of the Grand Market](../../mixed/titles/Bailiff_of_the_Grand_Market.md), **Sebastian Shaw**, to kill Urse Longarm and the rest of the Jotun. If *Urse Longarm* isn't killed, their reputation will spread, drawing ambitious Jotun from across Narkyst with a desire for wealth and renown.
+
+---
+
+Categories: [Recent History](../../indexes/by-category/Recent_History.md), [386YE Summer](../../indexes/by-category/386YE_Summer.md), [Military Council](../../indexes/by-category/Military_Council.md), [Winds of War](../../indexes/by-category/Winds_of_War.md)

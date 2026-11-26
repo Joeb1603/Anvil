@@ -1,0 +1,28 @@
+<nav-list>
+  <nav-header>Conduct Rules</nav-header>
+  <nav-item>[[Conduct]]</nav-item>
+  <nav-item>[[Reporting a conduct problem|Reporting]]</nav-item>
+  <nav-header>Crewing</nav-header>
+  <nav-item>[[Current_crewing_opportunities|Crew Vacancies]]</nav-item>
+  <nav-header>The Campaign</nav-header>
+  <nav-item>[[388YE Winter Solstice interlude|Interlude]]</nav-item>
+  <nav-item>[[388YE Autumn Equinox winds of fortune|Winds of Fortune]]</nav-item>
+  <nav-item>[[388YE Autumn Equinox winds of war|Winds of War]]</nav-item>
+  <nav-item>[[Recent history|Recent History]]</nav-item>
+  <nav-header>Event Information</nav-header>
+  <nav-item>[[Events|Events 2027]]</nav-item>
+  <nav-item>[[Event information|General Details]]</nav-item>
+  <nav-item>[[Steeplechase_LRP_Centre|Site Information]]</nav-item>
+  <nav-item>[[Autumn Equinox 2026|Autumn Equinox 388YE]]</nav-item>
+  <nav-item>[[Event schedule|Event Schedule]]</nav-item>
+  <nav-header>Useful Links</nav-header>
+  <nav-item>[[Participant welfare|Participant Welfare]]</nav-item>
+  <nav-item>[[Accessibility]]</nav-item>
+  <nav-item>[[Photography]]</nav-item>
+  <nav-item>[[Wiki Updates]]</nav-item>
+  <nav-item>[[Rules update 2026|Rules Updates]]</nav-item>
+  <nav-item>[[General FAQ|FAQ]]</nav-item>
+<nav-item>[[Special:RandomPage|Random page]]</nav-item>
+</nav-list>
+<div style="float:right; width: 100%; clear: right;"><div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<box>'''Rules Reminder'''<br>If a call is not clearly taken by the target, other than VENOM and WEAKNESS, then it has not been used. See the [[Calls]] page for more information.<br><small>[[Rules reminder|Previous rules reminders]]</small></box></div></div>

@@ -1,0 +1,10 @@
+Irina Goodwin<br/>
+
+The pictures on our wiki are art that Irina's character drew. She's called Constanza i Kalamar i Guerra, winner of the Pride of Holberg, first artist of the new Renaissance. 
+
+You can see more of her art on [https://facebook.com/igginova facebook], [https://instagram.com/art_igginova instagram], and [http://iggipicaday.tumblr.com/portfolio tumblr],
+
+Please include the following text in the description field when uploading files by this artist to the wiki:
+
+<nowiki>{{Irina}}
+</nowiki>

@@ -1,0 +1,255 @@
+---
+title: Lit up
+source: https://www.profounddecisions.co.uk/empire-wiki/Lit_up
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 386YE Winter
+- Recent History
+event: 386YE Winter
+last_edited: '2026-01-16T09:41:25Z'
+revision: 132914
+in_character_boxes: 9
+---
+
+# Lit up
+
+> *In-character text:*
+>
+> Bonesung Reller rocked back and forth in front of the sounding box. His two colleagues pulled their bows back and forth across the strings to fill the room with an urgent droning sound. Not loud but insistent, the tone was intrusive and demanding. The mystagogue could see the tension rising among the orcs watching them, the discordant tones were doing their work, the inharmonious instruments expressly designed to cause the heart to pump and the blood to run. The musician's song leading the listeners inexorably close to the edge of the Abyss.
+>
+> There were furtive glances cast from one Turtle to another. Hurried whispers slipped beneath the harsh music like grains of sand falling into water. They were watching the group intently, engrossed by the Illarawm rite. The mystagogue had warned them that he was going to try and call their ancestors to attend them. From the way they were staring at him, it was like they thought he was going to make them physically appear.
+>
+> The harsh sound of the zithers continued to build in tempo and volume. When Reller judged it had reached the crescendo, he slammed his hands down on the sounding box. The cymbals inside crashed together, the noise amplified to an ear-splitting din by the clever construction of the box. The audience jumped in surprise, as the sound struck them like a thunderbolt. The eyes of the crowd darted left and right desperately hunting for the danger the shocking sound the box had conjured.
+>
+> The mystagogue rose slowly to his feet, studying his audience carefully. There were a dozen Turtles in the crowd, a motley mix of fisherfolk and shopkeepers mostly. For the most part, they were wide-eyed and alert, looking round in alarm and wondering what might come next.
+>
+> All but one. A middle-aged female orc dressed in work clothes, her shoulders covered by a fine red-wool shawl. She wasn't looking at Reller or the other Illarawm. Currently she wasn't looking at anything at all, just staring off into the distance.
+>
+> The mystagogue knew that look well. Another piece of the bridge he just slid into place.
+
+*[Image: Diplomatic possibilities in Mareave involve finding ways to woo the local orcs away from any loyalty to the Grendel.](https://www.profounddecisions.co.uk/empire-wiki/File:Green_Sea_Turtle.jpg)*
+
+## Overview
+
+[Mareave](../nations/imperial-orcs/Mareave.md), second territory of the [Imperial Orcs](../nations/imperial-orcs/Imperial_Orcs.md) nation, is the arid southerly territory in the Empire and potentially the most exposed. Thus far it has not been attacked, but the [Grendel](../barbarians/Grendel.md) launched an [unsuccessful invasion](../winds-of-war/On_southern_sands.md) of [Redoubt](../nations/urizen/Redoubt.md) to the west, and the armies of the [Salt Lords](Fake_empire.md#the-salt-lords-council) could cross the border from [Ayereed](../world/Bay_of_Catazar.md#ayereed) at any moment. As autumn turns to winter, its inhabitants bear the surprisingly cold nights and spend their time planning for the coming year. What endeavours might work, who might be convinced to support whom in an undertaking, and what to do if - or when - the Grendel return.
+
+The [Golden Pyramid](../../mixed/government/conclave/Golden_Pyramid.md) remains in the territory, on the search for opportunities to establish new ventures and to enhance the prosperity of its citizens. They have identified a [golden opportunity](#golden-opportunity) to both support the territory and dramatically improve the prestige and influence of their own [Conclave order](../../mixed/government/conclave/Conclave_order.md). To the east, the [Skourans](../foreign-nations/Skoura.md), who have offered their aid in [rebuilding the aqueduct](Million_miles_of_water.md) of [Eoradal](../nations/imperial-orcs/Mareave.md#eordal), but also explore [other avenues](#mercenaries-of-skoura) for cautious cooperation. To the west, [Beoraidh](../nations/imperial-orcs/Mareave.md#beoraidh), the independent nation ruled by *Lord Ehsan* continues to explore the possibility of closer trading ties with their Imperial neighbours - and who could be approached to [negotiate](Fake_empire.md#lord-ehsan) information on the salt lords. And to the south of the territory are the Brine Turtles; the sept of orcs whose warriors still fight on behalf of the Grendel. It is the Brine Turtles that the [Illarawm](../nations/imperial-orcs/Illarawm.md) have approached, hoping to find ways to build new bridges.
+
+There is a companion wind of fortune - **[Million miles of water](Million_miles_of_water.md)** - that deals with opportunities to address the challenges related to developing Mareave.
+
+## Golden Opportunity
+
+|  |
+| --- |
+| **Grand Lodge of the Golden Pyramid** |
+| **Commission Type:** Great Work (Grand Lodge) |
+| **Location:** Clisearn, Mareave |
+| **Cost:** 50 white granite, 50 mithril, and 60 Crowns |
+| **Upkeep:** 5 thrones |
+| **Special:** Base labour costs would normally be 300 crowns, but are reduced to 0 by the inspiration of Thrace; the remaining 60 crowns are due to the [Under Developed](Set_my_lands_in_order.md#under-developed) quality and are not reduced by that opportunity |
+| **Effects:** • Adds 15 mana crystals to the Conclave font each season <br> • Provides resplendent apartments for the Order's Grandmaster <br> • Reduces the cost of mana purchases by the Grandmaster <br> • Raises the level of investment of mines, businesses, and mana sites in the territory by one <br> • Boosts the personal income of members of the order by 12 rings for one year <br> • Provides 2 wains of mithril to the order's vaults each season <br> • Boosts the production of the Fundindelve by 2 wains each season <br> • Boosts taxation from the territory by 10 thrones a season <br> • Removes the Uncooperative quality from the region <br> • Creates the Imperial Orc position Bonesetter of the Delving Market |
+
+|  |  |
+| --- | --- |
+| **Mana Purchases** | |
+| 12 Crowns | 14 crystal mana |
+| 25 Crowns | 26 crystal mana |
+| 44 Crowns | 36 crystal mana |
+| 60 Crowns | 44 crystal mana |
+| 72 Crowns | 50 crystal mana |
+
+|  |
+| --- |
+| **Bonesetter of the Delving Market** |
+| **Type:** Imperial Orc |
+| **Appointment:** Any |
+| **Powers:** Receive 10 crowns a season |
+| **Responsibilities:** Oversee the Market of the Delvers, support northern Mareave miners |
+
+|  |  |
+| --- | --- |
+| **Ingot Purchases** | |
+| 7 Crowns | 3 ingots each of green iron, orichalcum and weltsilver |
+| 17 Crowns | 8 ingots each of green iron, orichalcum and weltsilver |
+| 35 Crowns | 13 ingots each of green iron, orichalcum and weltsilver |
+
+*[Image: OrderGoldenPyramid.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:OrderGoldenPyramid.jpg)*
+
+- **The Golden Pyramid remain in Mareave seeking out opportunities**
+- **The grandmaster will continue receiving 10 random ingots, 7 crystal mana, and 7 doses of cerulean mazzarine as a bequest as long as the order remains in the territory**
+- **There is a new opportunity to construct a grand lodge that replaces the previous proposal**
+
+The Golden Pyramid have remained in Mareave, guided by the [grandmaster](../../mixed/titles/Grandmaster.md) to continue looking out for untapped wealth and chances to capitalise on good fortune. Each season they are here, they intend to work on the most promising economic [opportunity](../../out-of-character/game-design/Opportunity.md) to see if it the proposal interests their members. All these opportunities will remain for as long as the order persists in their work here in the Mareave unless explicitly stated otherwise. Any opportunities that have not been [commissioned](../../mixed/commissions/Commission.md) when the Golden Pyramid quit the territory will be lost.
+
+Some members of the order are enjoying working in Mareave so much that they are considering putting down roots here. There is a shortage of skilled [magicians](../../out-of-character/rules/Magical_skills.md#magician) with an interest in prosperity and economic magic in Mareave, but it is more than that. The locals respect magicians and crucially they respect the ethos of the Golden Pyramid: they *expect* to pay for spellcasting and other services, they look surprised at any suggestion that such precious skills might be provided for free. The people here are not wealthy, but they are hard working and the mines that riddle the mountains contain rich seams of artisan materials. There is money to be made here for those willing to work for it.
+
+Last season the order proposed to create a modest [grand lodge](Digging_for_fire.md#a-place-to-lodge) in the territory, but the plan has gone nowhere. Disappointed, but not disheartened, the order has binned the plans and opted to pursue a vastly *more [ambitious](../religion/Ambition.md)* proposal in their place. It all started when one of their members went rooting through the green keep, a fortified compound whose walls are wreathed in thick green vines in [Clisearn](../nations/imperial-orcs/Mareave.md#clisearn). This decaying building was once home to a garrison of [Stone Born](../barbarians/Elite_Grendel_troops.md#the-stone-born) who guarded both the mine and the villas of Ehsan and his supporters.
+
+Instead of building a small lodge for the order, why not build something really impressive, the thinking goes? If the Golden Pyramid were given control of the old garrison compound, they could rebuild it into something big enough to house almost any number of the order's wizards. It would be expensive to build and maintain of course, but it would allow the order to extend economic cooperation right across that territory, providing magicians to support mines, mana sites and businesses throughout the Mareave. Crucially the order would be on hand to provide vital support for the workers in the [Fundindelve](../../mixed/titles/Fundindelve.md) boosting production in the mines *and* providing the order with a small income of incredibly valuable mithril each season.
+
+All this trade would be good for individual magicians as well. Magicians of the order would enjoy a small personal boost in income for a year after the grand lodge was complete, and the gain in skills and services would provide a permanent benefit to the resources that the order supported. A grand lodge is not cheap to operate, it would cost the [Senate](../../mixed/government/senate/Senate.md) 5 thrones a season in upkeep - but the Golden Pyramid are the most mercantile order in the Conclave - having such a massive presence in the territory, working to boosting the local economy would increase taxation, so it would be a net *gain* for the Imperial Senate.
+
+Part of the plan involves relocating all the order's mana brokers to the new grand lodge. Currently most orders have their [mana purchasing arrangements](../../mixed/titles/Grandmaster.md#funding-the-order) spread across the Empire, but they are primarily located in the big [League](../nations/the-league/The_League.md) cities. That's fine, but prices can get expensive their quickly. By moving all the operations to the new grand lodge, the order could cut their costs and benefit from cheap prices for mana in the territory. No more having to compete with wealthy League troupes and savvy [merchant princes](../nations/the-league/The_League_leadership.md) when buying mana. It's not all positive - operations here would be vulnerable if the grand lodge was overrun, and it wouldn't be possible to buy as many mana crystals as it is when buying across the Empire - but it would definitely save money on every mana crystal bought.
+
+This idea would incorporate the ideas for the [Clisearn Grand Market](Here_to_stay.md#hollow-prestige), so it would *not* be possible to build this and the market, but it would provide the same intangible benefit that the market offered. It would demonstrate the strength of Imperial commitment to the region but also help the Clisearn families see the benefits of working with the Empire rather than opposing them. They would not automatically become friends to the Empire, but their own self interest would see them cease their [open opposition](../../mixed/economy/Region_qualities.md#uncooperative). It cannot be denied that having a powerful Conclave Order establish their base of power in Clisearn appeals to the families here; it would certainly boost their own prestige.
+
+Of course such a massive operation would be expensive, but there is one way the order might be able to reduce the costs. By working closely with the Imperial Orcs, and tailoring their proposals to ensure that they were also of benefit to their hosts, the Golden Pyramid could take advantage of the [inspiration of Thrace](The_Ambition_of_Thrace.md#building-a-nation-skarsind), reducing basic labour costs to zero and requiring only 60 crowns to pay for the additional costs for work in Mareave caused by its [poor connections to the rest of the Empire](../../mixed/economy/Region_qualities.md#under-developed). Perhaps the order and the nation might even be able to fund the commission together, sharing the financial and political costs to get it arranged.
+
+Working with the Imperial Orcs would benefit them as well. The boost in production of local [mines](../../out-of-character/rules/Mine.md), [businesses](../../out-of-character/rules/Business.md), and [mana sites](../../out-of-character/rules/Mana_site.md) would cause *Delving Market*, the local site for exchange in metals and orders to rapidly grow to accommodate all the new trade. The commission could include instructions to the civil service to arrange to appoint an Imperial Orc position to oversee the market. The *Bonesetter of the Delving Market* would be responsible for the market, as well as supporting the miners throughout Mareave. In return, they would receive a small income in fees and dues; of ten crowns each season, which they choose to spend purchasing ingots if they wished.
+
+Building a grand lodge for the order here would anchor the Golden Pyramid to Mareave - it wouldn't be possible for the order to build a grand lodge elsewhere in the Empire while this one was still under Imperial control. However it would be easy to incorporate Ehsan's villa into the new lodge, providing a set of resplendent living quarters fit for the Grandmaster of the most important order in the Conclave.
+
+### Grand Lodges
+
+- **In light of the extraordinary plans put forward by the Golden Pyramid, other orders are keen to consider their own position if this goes ahead**
+- **The Order of the Silver Chalice have temporarily withdrawn their own plans for a grand lodge while they consider if something more ambitious might be possible**
+- **It is not currently possible for any order to build any grand lodge, other than this one**
+- **The civil service believe the benefits of this grand lodge are a unique combination of the qualities of Mareave and the goals of the Golden Pyramid, but other orders could achieve results that were similarly impressive**
+
+*[Image: Chalice.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Chalice.jpg)*
+
+The Golden Pyramid are not the first Conclave order to put forward plans for grand lodge, but this new plan is far and away the most ambitious proposal. By building something much bigger than originally envisaged, something that can house many more members of the order, the Golden Pyramid have imagined something vastly more significant than originally conceived. Members of other orders are discussing the proposal and watching with interest. Sceptics believe the Imperial Orcs and the Golden Pyramid will never manage to scrape the wains together for it, but if this great work is commissioned and built it will certainly provoke a great deal of interest (and jealousy!) from other orders.
+
+The [Silver Chalice](../../mixed/government/conclave/Silver_Chalice.md) were the first order to imagine creating a grand lodge, but they have temporarily withdrawn [their own plans](Parched_earth.md#grand-lodge) while they contemplate the implications of this proposal (**OOC Note:** it is not currently possible for any order other than the Golden Pyramid to build a grand lodge). If it looks like this may go ahead in some form, if this grand lodge is commissioned, then the Silver Chalice will produce updated plans for something on a similar scale.
+
+The civil service confirm that there is no reason that a grand lodge built on this scale to serve another Conclave order, wouldn't have a similar level of impact, but they are quick to stress that the effects would be very different. Mareave is an under-developed territory, where the financial skills of the Golden Pyramid are in great demand - nobody imagines this grand lodge would have anything like the same impact if it was built in one of [the League](../nations/the-league/The_League.md) cities which are already rich and prosperous. So the location of this grand lodge is crucial - as is the order it is built to support. If this were a proposal for grand lodge for the [Rod and Shield](../../mixed/government/conclave/Rod_and_Shield.md) or the [Sevenfold Path](../../mixed/government/conclave/Sevenfold_Path.md) then the impact would reflect that order's focus, it wouldn't provide economic benefits to the area.
+
+The Senate could use an [appraisal](../appraisals/Appraisal.md) to try to find the single best location for a *specific* order to build a grand lodge if they wished to assess what benefits might be available.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We are a nation, woven from six strong strands. Each sept has its own expertise, that will help us show the people of Mareave we are not their enemies. We send Skywise Tulva with 25 doses of liao to urge the Illarawm to seek ways we can make Mareave a home for our people by approaching the Brine Turtles peacefully and open negotiations. The Brine Turtles are now foreigners; let us in common pride of Mareave move forwards together.
+> >
+> > Bloodcrow Pip, Imperial Orc Assembly, Autumn Equinox 386YE, Vote: 44-0
+
+## The Illarawm and the Turtles
+
+- **Members of the Illarawm sept have spent the last three months as guests in Fioroult**
+- **Last season, the Senate passed a law protecting turtles in the Bay of Catazar**
+
+Last season [Eilian Sweetwater](../appraisals/Appraisal.md#eilian-sweetwater) presented an [appraisal](../appraisals/Appraisal.md) on how the uncooperative inhabitants of the southern regions might be [convinced to work alongside the Empire](Here_to_stay.md) - or at least, not actively work with the Grendel. The work of *Bonesung Reller*, an [Illarawm](../nations/imperial-orcs/Illarawm.md) visiting [Eoradal](../nations/imperial-orcs/Mareave.md#eoradal) pointed out that the elders of the Brine Turtles were frightened and angry. Frightened of the fact that, without their [army](../../out-of-character/rules/Army.md), the Empire could crush them without missing a step, and angry that the salt lords had effectively abandoned the territory to seek riches across the [Bay of Catazar](../world/Bay_of_Catazar.md).
+
+Eilian suggested that the Imperial Senate could [make it illegal to hunt or harm turtles](Here_to_stay.md#turtles-all-the-way-down) in the Bay of Catazar. At the same time, the Imperial Orc Assembly requested that the Illarawm visit Fioroult, in [Fleisardh](../nations/imperial-orcs/Mareave.md#fleisardh), to begin to pave the way for negotiations with the sept to Brine Turtles to begin. Their efforts have borne fruit, and this summit possibly presents the best chance for discussion to begin with the orcs of the Broken Shore.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Motion to make it illegal to hunt or harm turtles in the Bay of Catazar.
+> >
+> > Proposed: Mareave, Seconded: Reikos
+
+The [Senate motion](../senate-motions/Senate_motion.md) passed, providing an effective measure of protection for the turtles at least from Imperial hands. With some trepidation, Bonesung Reller returns to Brine Turtle lands, this time with a small delegation of Illarawm, including mystics, demagogues, a historian, a trader and rather unusually an Illarawm [thief-taker](../nations/imperial-orcs/Thief-taker.md) called *Hask* who tags along in the hope that he might be able to build bridges with a group of Brine Turtles called the *alleywalkers*.
+
+### Visiting the Brine Turtles
+
+- **The Brine Turtle sept is waiting for the Grendel, and their army, to return and liberate Mareave**
+- **There is an opportunity to enter negotiations with the leader of the sept**
+- **It is unclear what the sept might ask for**
+- **The Imperial Consul has the authority to negotiate a treaty with the sept**
+- **The Senator for Mareave could also negotiate with the sept, but would not be able to present a treaty to Senate**
+
+The group are able to use the excuse of spreading news of the new Imperial law as a justification to visit the Brine Turtle's land, which helps to improve their welcome. It works to soothe tensions - but only a little. The Brine Turtles appear hostile and wary of the Imperial visitors. The blunt truth is that the Empire has declared the Turtles to be foreigners, but they don't consider themselves that way. They see themselves as enemies of the Empire, as "barbarians" whose loyalty is to the Grendel.
+
+[Image: Illarawm.png](https://www.profounddecisions.co.uk/empire-wiki/File:Illarawm.png)
+
+There is no intention on their part to *fight* the Empire, but only because they lack the means, not the desire. If their army were present - and the Brine Turtles are confident that their warriors will return soon - then the whole sept would unite behind them in an effort to retake their lands from their enemies. Perversely this fixation may be helping the Empire at present - it is precisely the fact that the Brine Turtles are so confident that help is coming that ensures they won't do anything rash in the meantime. It's self-evident to them that the best thing to do is just sit tight, keep their heads down and wait.
+
+It's difficult to be sure whether they simply *believe* help is coming, or whether they *know* help is coming. They have definitely had assurances from representatives of the Salt Lords that they will send their armies to liberate the Brine Turtles, and soon, but with no clear definition of what "soon" means. Obviously the Turtles wouldn't tell the Empire of the Grendel plans if they knew them, but Reller is a skilled mystagogue with an almost magical capacity for empathy and personal understanding and believes they do *not* know what the Salt Lords are actually planning. They cannot be sure, but the Turtles appear nervous, not the kind of nervous energy you might exhibit when preparing for a battle you did not know the outcome but the kind of worry that eats at people who don't know what is happening, coupled with the fear that they may have been forgotten or abandoned.
+
+The Illarawm believe the Brine Turtles are lost; a frightened lamb that has been separated from their family, their most earnest desire to be re-joined with the flock. The shepherd is nowhere to be seen so the lamb eyes the wolves nervously, hoping against hope that hungry jaws will not close about its throat. The Empire could do nothing here they judge, and nothing will come of it. The lamb will remain lost and scared, tail tucked firmly between its legs in the hope that the flock can find it before the wolves do.
+
+It is a boon that the Illarawm appear peaceful in dress and demeanour, and the mystagogue and their allies appear deeply unthreatening. That allows them to move cautiously about the Brine Turtle town of Fioroult. They are even able to use some of the rings they carry to buy essential supplies from the orcs. With Beoraidh adopting Imperial currency, it seems that some of the Brine Turtles have discovered a use for the coins and are willing to trade food and clean water (something carefully rationed in Fioroult even with the presence of the freshwater lake) with the group.
+
+Contact remains difficult though: the Brine Turtles are guarded and defensive and provide as little information as possible. They keep discussions short, and business like, and offer nothing. Those who do show friendship or openness are quickly shut down by the others. Nothing is said within earshot of the Illarawm, but looks and hushed whispers say what needs to be said. The leadership of the Brine Turtles have ordered their people to say nothing to the Imperials and offer them nothing. Anyone who looks like they are getting too friendly is quickly reminded where their loyalties lie. They're not being threatened in the opinion of Bonesung Reller, or at least not by their leaders. Rather they *feel* threatened - and by the Empire. All it takes is a quiet word to remind them of the threat the Empire represent and people remember which side of the river they fish on.
+
+Diplomacy is hard, but the Illarawm are persistent. Their ancestor was the first orc to cross back over the Howling Abyss, they are the sept that builds bridges, a little hostility and icy glares are not enough to dissuade them. Working with painstaking care, they move back and forth across Fioroult, talking with one Brine Turtle after another, listening to what is not said, looking for the things that are hidden in plain sight. They notice who looks at who and how. They observe who leaves the room when they enter and who returns. They pay heed to the silent looks and the unspoken gestures and observe what words and actions cause the Turtle's ancestors to reach out to them.
+
+It is difficult work, but the Illarawm are good at this. Even so, they are not ascending a mountainside, they are climbing a cliff face. The Turtles remain guarded and wary, frightened and hostile, no matter how deferential and beaten they choose to act. The Illarawm believe their ancestors are urging them to caution and patience, and believe that the only reason that the Turtles engage with them at all is because their ancestors are telling them to learn what they can about the Illarawm and the Imperial Orcs in the hope that it might be useful. Given the mission **Skywise Tulva** has set them, the irony of that is not lost on them.
+
+By the time the Winter Solstice is approaching, the Illarawm have achieved everything that might be possible here. They have mapped out the currents of Fioroult's people, studying the way the waters flow, how the eddies form, how the currents pull the Turtles down to the sea. They know who hears the ancestors strongly and who is dear to their words. They believe they know who listens, and most importantly of all they have found out who speaks, despite the best efforts of the cautious Turtles.
+
+The leader of the Brine Turtles in this area is an orc most people call "the Hook", a sailor actually named *Opaugh*. He plies his trade, fishing with nets from *Storm Runner*, the largest fishing boat in Fioroult. Ostensibly he is nothing more than a sailor and fisherman but every time people rush to report on the actions of the Illarawm, it is the Hook they ultimately run to. There is a council of elders that runs the town, stocked with merchants, shaman, sailors and the like. The Hook isn't on the council... because he doesn't need to be. The council reports to him, not the other way round, and it is him they take their orders from.
+
+*[Image: A winged messenger sent to Opaugh, The Hook, Fioroult Dockside, Fleisardh, Mareave will reach the powerful and influential orc..](https://www.profounddecisions.co.uk/empire-wiki/File:WingedMessenger.png)*
+
+If the Empire want to try and open diplomatic channels then he is the person they must write to. The Illarawm have spoken with *Opaugh* and say he is a [Proud](../religion/Pride.md), intelligent orc who knows little of life outside the Turtles and the currents of the Bay, but he understands his people and he leads them because they trust him. Bonesung Reller advises that any approach be respectful but firm; the Turtles respect strength and authority. But it must be realistic - appeals to join the Empire or convince his warriors to put down their weapons or switch sides will fall on deaf ears and look absurd. The Empire's decision to ban the trade in turtles has opened a window in part because the gesture is small but limited. More of that kind of thing is needed to build trust, they say. They have let Opaugh know that someone from the Empire *may* send a winged messenger to him.
+
+Bonesung Reller finishes with these final words of advice to his fellow orcs at [Anvil](../world/Anvil.md). *"The longer the journey, the shorter your steps must be."*
+
+## Mercenaries of Skoura
+
+- **The *Twelfth Skouran Mercenary's Assembly of Jadefall Hold West* are willing to garrison any citadel built in Mareave**
+- **Accepting the offer would increase the upkeep of the citadel by ten thrones but would increase its strength by one thousand**
+- **The Skouran mercenaries offer is available until the start of the Summer Solstice 387YE, after which it would need to be renegotiated**
+
+The *Twelfth Mercenaries of Jadefall* - or to give them their full name, the *Twelfth Skouran Mercenary's Assembly of Jadefall Hold West* - have approached the Imperial Orcs to offer their services in garrisoning a [citadel](The_war_of_thorns_and_flowers.md#all-along-the-watchtower) or [fortification](../../out-of-character/rules/Fortification.md) built in Mareave. The mercenaries are willing to garrison any such structure built in Mareave - including [High Mountain Home](We_all_stand.md#high-mountain-home) suggested last season by the [Tamazi](../nations/imperial-orcs/Tamazi.md) or the [innovation](The_war_of_thorns_and_flowers.md#all-along-the-watchtower) suggested by *Federico von Apulian* and *Hadrien of the Citadel of the Star*.
+
+Any single citadel or fortification in Mareave could take the Twelfth Mercenaries of Jadefall up on their offer during the initial planning. It would need to be when the motion was raised (or as part of the announcement) and would increase the strength of the citadel by one thousand once completed. The terms offered by the Twelfth Mercenaries of Jadefall are quite reasonable - ten thrones a season - it is clear that they are not expecting employment elsewhere, but they are unlikely to offer this deal for very long.
+
+If the Empire plans to make a deal with the Skourans for access to their [water](Million_miles_of_water.md#a-fair-trade) then hiring the garrison could bring even closer ties with the eastern nation. The Skourans are masters of siegecraft, both the building of deepholds and (as seen in various encounters between Imperial and Skouran mercenaries on foreign battlefields), the breaking of walls. Stories of their pragmatic, single-minded focus on ensuring the death of those who would take their land are spoken of in the most casual way, alongside their careful approach to achieving victory with the fewest casualties among their own number possible.
+
+If, instead, the Empire were to plan to [dig a tunnel](Million_miles_of_water.md#a-long-drift) and steal the water from the Skourans, then taking the Twelfth Mercenaries of Jadefall up on their offer would not be the best idea. Granting them intimate access to a citadel or fortification would be risky if the Empire then stole a precious resource from their nation. It is not clear how they would react in those circumstances.
+
+## Conjunctions
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Light in the darkness. Urizen it is with Pride that the Imperial Orcs invite your people into Mareave in order to allow them chance to discover histories lost to them. There is worth in this act and our people know more than any a loss of history and what that means. Shine bright Urizen. Be witness to your ancestors worth in our lands - we invite you with all our virtue.
+> >
+> > Skywise Gralka, Imperial Orc Assembly, Autumn Equinox 386YE, Vote: 54-0
+
+### The Figurehead
+
+- **A Grendel paymaster is meeting with mercenaries of the Broken Shore to fund attacks on the Imperial Orcs**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Minister of Historical Research* is [responsible](../world/Sentinel_Gate.md#prognostication) for killing the Grendel**
+- **This conjunction is [against barbarians](../world/Sentinel_Gate.md#imperial-law); magistrates advise that lethal force is fully justified**
+
+During the Autumn Equinox, the Imperial Orc Assembly voted to uphold a [statement of principle](../synod-judgements/386YE_Autumn_Equinox_Synod_judgements.md#judgement-196) by **Skywise Gralka**, inviting Urizen to Mareave to discover history that was lost to the nation. An accompanying [judgement](../synod-judgements/386YE_Autumn_Equinox_Synod_judgements.md#judgement-180) raised by **Verres Aurispire** in the Urizen Assembly was also upheld. This combination of the judgements has led to a small number of would-be historians visiting the territory and learning what they can of their nation's past that has not already been uncovered by the [historical research](../nations/urizen/Mareave_and_Urizen.md). *Drusus of the Spire of the Frozen Tear*, one of the intrepid historians, has discovered that the General of the [Army of the Citadels](../mandates/Citadel_Guard.md) once wielded an artefact [rod](../../indexes/by-category/Rods.md) known as *Stormcaller*. Drusus' research hasn't revealed many facts on the item beyond its name and that it had properties similar to - but beyond - that of a [Witches' Hammer](../../mixed/magic/items/Witches-_Hammer.md).
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The Urizen people would be delighted to accept an invitation from the Imperial Orcs (assuming they choose to do so) - to investigate the Urizeni people who used to live in Mareave. As Urizeni, we honour our dead by recording their lives and sharing their stories, but for those Urizeni, those stories have been lost. We should take this opportunity to recover the stories and truths of the Urizeni who lived there, and share them with the current residents, so that we may all be witness.
+> >
+> > Verres Aurispire, Urizen Assembly, Autumn Equinox 386YE, Vote: 234-0
+
+Further questioning by Drusus did reveal a rumour that the last sighting of the rod was in the hands of someone referred to as the "*Courath of Icarion*". The first few attempts to discuss the matter with the folks of Eoradal were met with [one-word answers](../../mixed/economy/Region_qualities.md#uncooperative). Opting instead to speak with the locals of [Rathmonna](../nations/imperial-orcs/Mareave.md#nadir) gave Drusus slightly more information. The Courath was apparently similar to the [Dracaild of Rathmonna](../winds-of-war/Between_stone_and_salt.md#objective-pay-off-the-dracaild-of-rathmonna); a title taken up and used for a time. The Courath was a leader of the region before the Grendel conquered the territory.
+
+That would have been the end of it, something to add to the long history of arguably the Empire's oldest army. Until just a few days before the summit, a representative of [Beoraidh](../nations/imperial-orcs/Mareave.md#beoraidh) visited the Urizen historians and passed on a warning that a Grendel paymaster, accompanied by Asaveans, was expected to arrive in [Icarion](../nations/imperial-orcs/Mareave.md#icarion) shortly to meet with local mercenaries. The exact nature of their meeting is unknown - although the representative of Beoraidh quickly lets on that the local mercenaries will be paid to attack the holdings of the Imperial Orcs - but the most intriguing point is that the Courath is the leader of the local mercenaries.
+
+The researchers are unable to intervene in the meeting, so they have asked the [Minister of Historical Research](../../mixed/titles/Minister_of_Historical_Research.md), **Silk Farkas**, to take responsibility for killing the Grendel. There is no guarantee that anything relating to *Stormcaller* will be there, but given the connection to the artefact and the location it is likely that Urizen and Imperial Orcs will both be interested in the conjunction.
+
+### Note from the Palace
+
+- **The *Salt Shaker* is struggling in a storm off the coast of Mareave**
+- **This is a [combat unlikely](../../out-of-character/rules/Accessibility.md#combat-unlikely-or-contained) encounter**
+- **The *Senator for Mareave* is [responsible](../world/Sentinel_Gate.md#prognostication) for ensuring the safety of the crew**
+- **There may be [innocent people present](../world/Sentinel_Gate.md#imperial-law) on this conjunction; magistrates advise caution must be taken to avoid innocent casualties**
+
+A few days before the Winter Solstice, an unforeseen storm begins to batter the coast of Mareave. Most ships make it back to port, some limping and worse for wear, but others are stranded. One ship, the *Salt Shaker*, is the pride and joy of Lord Ehsan of Beoraidh's merchant fleet.
+
+There are many warnings about willingly going into the storms off Mareave; there are rumours of strange creatures brought to the surface, of eerie sounds that call out to travellers, and of the unquiet dead seeking to bring more to their resting place. *Lord Ehsan* asks that the Senator for Mareave, **Gaddak**, do what they can to ensure the safety of the crew of the *Salt Shaker*, so they can bring his treasured ship back to port. If Gaddak can manage that then Lord Ehsan will send a small monetary gift after the summit in thanks.
+
+## Further Reading
+
+- [Mareave](../nations/imperial-orcs/Mareave.md)
+- [Golden Pyramid](../../mixed/government/conclave/Golden_Pyramid.md)
+- [Skoura](../foreign-nations/Skoura.md)
+- [Million miles of water](Million_miles_of_water.md) - 386YE Winter wind of fortune relating to opportunities to address the challenges of developing Mareave
+- [Here to stay](Here_to_stay.md) - 386YE Autumn wind of fortune detailing the appraisal to encourage the southern orcs to be more cooperative
+- [We all stand](We_all_stand.md) - 386YE Autumn wind of fortune detailing various contributions to the prosperity of Mareave
+- [Digging for fire](Digging_for_fire.md) - 386YE Summer wind of fortune detailing the Golden Pyramid contribution in Mareave
+- [Into the spin](Into_the_spin.md) – 386YE Spring wind of fortune summarising the situation in Mareave
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [386YE Winter](../../indexes/by-category/386YE_Winter.md), [Recent History](../../indexes/by-category/Recent_History.md)

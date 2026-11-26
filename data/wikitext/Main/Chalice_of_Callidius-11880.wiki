@@ -1,0 +1,36 @@
+==Rules==
+{{CaptionedImage|file=NBUrizen.jpg|caption=This ritual is part of [[Urizen magical traditions#Urizen Lore|Urizen lore]] rather than [[Imperial lore]].|align=right|width=200}}
+{{Season|Winter|14}}
+{{Urizen Lore}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Character}}
+
+{{enchantment}}
+===Effects===
+When consuming something (such as a potion) that would restore personal mana, the target regains one additional personal mana, up to their normal maximum.
+
+The target experiences a roleplaying effect: ''anything you drink is bland and tasteless like water, and anything you eat tastes like ashes. However, anything you eat or drink that grants personal power (such as many tonics, or consumables that restore mana or hero points) is either unaffected or else tastes especially good''. 
+
+{{Season Duration}}
+===Additional Targets===
+This ritual can affect additional characters from the same [[Groups#Covens|coven]]. Each additional character increases the magnitude by 11. Additional characters must be present throughout.
+{{CaptionedImage|file=Fausta and Ematius.webp|caption='''Fausta''' and '''Ematius Ankarien'''|align=right|width=400}}
+==Description==
+This ritual was codified in 386YE by the [[spire|spires]] of [[Urizen]], under the guidance of '''Cassius of the Lighthouse at Nikephoros''', the [[Doyen of the Spires]]. It was based on work originally performed by '''Ematius of the Great Library of Ankarien''' who first projected the ritual as a gift for his wife '''Fausta''', also of Ankarien, the [[Silver Chalice|Grandmaster of the Silver Chalice]] so that magicians of her order would have a further tool to enhance their work. The ritual became part of [[Urizen lore]] almost immediately, through the use of [[Gift of Knowledge]].
+
+To the uninitiated, it might seem odd that a ritual of [[Winter magic]] empowers someone. The [[Winter magic#Resonance|resonances]] of Winter, at first blush, tend more towards weakness than strength, after all. In this case it is important to understand that this ritual draws on the less familiar resonances of [[Winter magic#Hunger|hunger]], and to a lesser degree [[Winter magic#Survival|survival]]. The physical needs of the body are a common theme of the realm, but hunger also has a metaphysical dimension. The hunger for personal power is a recurrent theme familiar to those who deal with the [[eternal|eternals]] of the realm, in particular. Sating hunger – physical and metaphorical – especially by consuming something is a powerful focus for Winter magic and arguably for hearth magics across the world.
+
+Some rituals, such as the [[Coil of the Black Leech]], empower a magician by weakening another. This ritual draws additional strength from the symbolic act of consuming something that grants power. It allows the magician to suck every vestige of satiety from the thing they are eating, savouring the taste of power and will alongside that of the thing being consumed, extracting each iota of symbolic power. 
+
+This ritual works most obviously with the [[Philtres of the High Peaks]]. It will allow a magician to gain half again as much power from a [[Philtres of the High Peaks#Mageblood|Mageblood]] elixir, and while it is proportionately less satisfying when one drinks a [[Philtres of the High Peaks#Philtre of Heavenly Lore|Philtre of Heavenly Lore]], the sheer volume of magical capacity restored may be even more satisfying. Obviously the [[enchantment]] does not help with superlative potions such as the [[Philtres_of_the_High_Peaks#The_Elixir_of_Empyrean_Art|Elixir of Empyrean Art]] which already completely replenishes the power of the imbiber.
+
+The enchantment has no effect on crystal mana. A magician uses mana to provide the power for a spell; they don't consume it directly. Not unless they are bonded to a [[Crystaltender's Vestment]], of course, which empowers the wearer to consume crystal mana to regain personal mana. Even though one does not (usually) “eat” the crystal mana in the same way one might drink a potion or eat a piece of fruit, the enchantment still functions – it is the hunger for power that is sated, regardless of the needs of the body.
+
+Note that this ritual is the Chalice of Call'''i'''dius in reference to ''Callidius of Wealdawn'' who is believed to have been the first person to refine [[the Elixir of Empyrean Art]] as part of his fifteen-year courtship of ''Tybalt of Magvillius''. It is <u>not</u> the Chalice of Callidus - the ritual has no connection to the [[Callidus|eternal of the same name]].
+
+==Common Elements==
+In some ways, this enchantment bears elements of a curse, so a performance might involve the destruction of wholesome food or drink, for example, or the marking of the target with runes or designs made using ash or dust. This is especially appropriate if coupled with a commitment to seek power by the target.
+
+The rune [[Naeve]] is an obvious fit for this ritual, but the rune [[Hirmok]] or the constellation of [[the Phoenix]] might also be used, as demonstrations of personal mastery. 
+[[Category:Winter Ritual]]
+[[Category:Rituals]]

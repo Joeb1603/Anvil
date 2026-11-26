@@ -1,0 +1,26 @@
+[[Category:Senate Motion]][[Category:388YE Spring]]
+__NOTOC__
+<quote by="Proposed: Zenith, Seconded: Feroz">To commission the Eye of Heavens observatory in Zenith. Fully self funded by the Architects of Urizen. This is part of the assurance to build the Arch of the Sky and the Skyways
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Occursion, Zenith, as per the '''[[Sound_and_vision#A_Mountain_Rises_(Zenith)|Sound and vision]]''' wind of fortune
+* Passed
+
+==Date==
+* Spring 388YE
+
+==Cost==
+* Costs as per opportunity
+* 30 wains of mithril
+* 20 wains of white granite
+* 10 wains of weirwood
+* 225 thrones in labour costs
+* Six months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Eye_of_Heavens}}
+==Outcome==
+Once complete, the Eye of the Heavens will have the following effects:
+* Creates an observatory to enable study of the stars, the conjunctions and astronomancy to rival the proposed school of dramaturgy in Spiral
+* Founds a new spire allowing any Urizen character to take a new resource in that territory for free in the season it is completed
+* One hundred mana crystals spread through [[business|businesses]] in the Brass Coast the season it is completed

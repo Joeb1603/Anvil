@@ -1,0 +1,70 @@
+{{Army Page}}
+{{CaptionedImage|file=AutumnHammers colour.png|align=right|width=300}}
+===Overview===
+The Autumn Hammers was raised from the [[Ethengraw]] sept after the [[Construct Ethengraw Armoury|Black Forge]] was constructed in [[Skarsind]]. The motion to raise the army was passed by the Imperial Senate during the [[Raise Autumn Hammers|Autumn Equinox 385YE]] after the sept joined the Imperial Orcs. The army benefited from [[Mystic_scrolls_of_Estavus#Hammers_of_Fury|Hammers of Fury]] and finished raising in time for the general to be elected for the first time at the Spring Equinox 386YE. 
+
+The third Imperial Orc general leads the Autumn Hammers army and is appointed (or re-appointed) at the Autumn Equinox each year.
+__NOTOC__
+===Recent History===
+TBC
+
+===Traditions===
+TBC
+
+==Composition==
+TBC
+
+==Army Quality: [[Army_qualities#Contracted|Contracted]]==
+The Autumn Hammers benefits from a series of contracts with several of the Cities of the Iron Labyrinth. The Boon of Bonds and Bars allows the Autumn Hammers to call on mercenaries and favours from the Autumn realm in order to achieve specific goals and aims. Each of these orders can only be called on once each year; the contacts would be available to call on anew at each Autumn Equinox following the election of a general. These boons require the Lictors to not be under enmity.
+
+It is not known if the individual contracts require the relevant [[eternal]] to not suffer the [[Alignment#Enmity|enmity]] of the Conclave, but even if it is possible to call on the contract it would be a good idea for any general to discuss the matter with the magistrates before proceeding. 
+<div class="mw-collapsible">
+===City of Ashes===
+The army is able to – once each year - call on siege weapons on retainer from the [[Estavus|Mountain of Shikal]] in order to storm the walls of an enemy fortification. 
+<box>'''<big>Storm the Walls</big>'''
+* '''The army must be attacking a region containing a [[fortification]] or else the order defaults to [[army orders#Cautious Advance|cautious advance]]'''
+* '''The ability of this army to capture the fortified region is increased by half''' 
+* '''Casualties suffered by the army are increased by three tenths.'''
+The army unleashes hell against the fortification. While catapults and trebuchets pound the walls, siege towers and ladders are deployed to allow the soldiers to take the fight to the defenders. Meanwhile, engineers work to undermine the walls, and massive covered rams are deployed against the gates. The loss of life is likely to be severe, but the fortification will fall much more quickly than it might in a prolonged siege.
+</box>
+
+===City of Bridges===
+The army is able to – once each year – call on the threadspinners on retainer from the [[Prospero|City of Bridges]] in order to perform an arcane consolidation to acquire quantities of crystal mana. 
+<box><big>'''Arcane Consolidation'''</big><br>
+* '''The army generates mana crystals based on the number of victory points generated.'''
+* '''Does not change army strength, casualties inflicted or casualties suffered.'''
+The army concentrates on making magical preparations, shoring up their reserves of mana crystals and seeking out nearby sources of magic. A portion of this bounty in the form of mana crystals is passed to the army general so that they can make the most appropriate use of it.</box>
+
+===City of Chains===
+The army is able to – once each year – call on the heralds on retainer from the [[Callidus|Prince of the Argent Tontine]] in order to identify strategic resources such as warehouses allowing the acquisition of said resources.
+
+<box>'''<big>Plunder</big>'''
+* '''Casualties inflicted by this army are reduced by one tenth.'''
+* '''The ability of this army to capture territory is reduced by one tenth.'''
+* '''The army generates wealth based on the number of victory points generated.'''
+The army concentrates on looting enemy forces. They launch attacks intended to capture baggage trains and other financial objectives. They focus on capturing [[mine|mines]], [[forest|forest preserves]], [[farm|farms]], [[business|businesses]], [[mana site|mana sites]] and [[herb garden|herb gardens]]. A portion of this bounty in the form of [[Game items#Coins|money]], [[herb|herbs]], [[Game_items#Mana_Crystals|crystal mana]], crafting [[materials]] and potentially even rare materials such as weirwood, mithril or white granite are claimed by the army general.</box>
+
+===City of Gold and Lead===
+The army is able to – once each year – call on the chamberlains of the [[Ephisis|Hidden Prince]] in order to take either a forced march or provide a desperate reinforcement.
+<box>'''<big>Forced March</big>'''
+* '''Can move as far as the general wishes this season. It must still stop moving when it enters a hostile territory.'''
+* '''The ability of this army to capture territory is decreased by one fifth.'''
+A general who orders a forced march pushes their troops to move swiftly - but also takes pains to preserve their strength so that when they arrive they are in a fit state to fight. Some soldiers may fall behind, but they keep moving until they catch up with the army again. By taking advantage of roads and trods, the general ensures that when the army arrives at its destination it does so with the will to engage the enemy. Yet a forced march is not magical movement - the army will arrive late in the campaign season, meaning their ability to capture territory is reduced.
+</box>
+<box>'''<big>Desperate Reinforcement</big>'''
+* '''Can move as far as the general wishes this season. It must still stop moving when it enters a hostile territory.'''
+* '''The ability of this army to defend territory is decreased by one fifth.'''
+Sometimes a situation is desperate, but additional troops may turn the tide of battle. In such cases, the general pushes their troops to move as quickly as possible, to ensure that a faltering garrison receives last minute assistance, or a failing position is reinforced just before it collapses. When time is of the essence, the general can risk exhausting some of their troops to ensure they arrive in time to support their allies.</box>
+
+===City of Lock and Bond===
+The army is able to – once each year – call on the [[Lictors]] to entrap enemies of the Empire using the technique known as the Glass Labyrinth. It requires the Lictors to enjoy the [[alignment|amity]] of the Empire for the season that it is used.
+<box><big>'''Raise the Glass Labyrinth'''</big>
+* '''Attacking order.'''
+* '''Opposing armies or navies may only move one territory in the season following the one in which this order is taken.'''
+* '''The number of casualties suffered by this army are increased by a fifth.'''
+Employing the Technique of the Coiling Chain, this attacking order weaves Autumn magic around opposing armies, entangling them with a barrage of curses that interfere with the chain of command in subtle ways. It also creates a cumulative warping of chance that makes it difficult for them to withdraw or advance, but also requires the soldiers of the army to move into dangerous locations increasing the risk of casualties</box>
+</div>
+
+<!--{{CaptionedImage|file=GeneralARMY|caption=Character, General of the ARMY|align=left|width=300}}-->
+{{RecentElections|General_of_the_Autumn_Hammers|the title of [[General]] of the Autumn Hammers}}
+[[Category:Imperial Army]][[Category:Imperial Orcs]][[Category:Military Council]]

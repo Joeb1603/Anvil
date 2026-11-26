@@ -1,0 +1,118 @@
+[[Category: Senate]] [[Category:Commission]] [[Category:Navarr Wayhouse]]
+{{Disambiguation|This page covers the [[commission]]; for the [[Group Archetypes|Navarr group archetype]] see [[wayhouse]].}}
+==Overview==
+A Navarr wayhouse is a large well-established [[wayhouse]] that has been built in a territory outside the Navarr nation. A wayhouse supports the stridings, serving as a place to rest and resupply. Its presence makes travel safer, boosting trade in the territory and allowing Navarr who live in that territory to benefit from communication, trade and support from the many stridings passing through.
+
+As a result of the strengthened connections to the nation, Navarr resources in territories with a working wayhouse do not suffer the [[Resource#Resources_in_other_Nations|usual penalty for being located in a foreign territory]]. They benefit from any great works in the territory.
+
+In addition, the Imperial civil service will formally identify the nearest Navarr territory to the wayhouse. Navarr citizens are eligible to [[Navarr_leadership#Leading_a_territory|vote for a senator]] as if their resources were in the linked territory.
+
+==Senate Commissions==
+The [[Senate]] can pass motions to commission a Navarr wayhouse. The territory, and region within that territory are necessary details required before the commission can begin, along with the planned size (in wains) of the wayhouse.
+
+A [[new Imperial titles|new Imperial title]] is automatically created to oversee the operations of the wayhouse and to be responsible for its safety and for the safety of its patrons. All wayhouses generate a small bounty of wealth which forms part of the sinecure income for the position. How the title is appointed forms part of the [[Motion_wording#Necessary_Details|necessary details]] of the motion.
+
+==Benefits==
+Wayhouses provide a set of benefits once complete.
+
+===Boost Taxation===
+* '''Boosts taxation by 1 throne'''
+The first wayhouse built in a territory outside the Navarr increases [[Imperial_treasury#Taxation|Imperial taxation]] in that territory by one throne. Commissioning more than one wayhouse in the same territory does not provide any further increase in taxation.
+
+===Support Navarr Characters===
+* '''Civil service can find Navarr characters a new resource in a territory with a wayhouse for the standard cost'''
+* '''Navarr resources in the territory do not suffer any penalty for being in a foreign nation'''
+* '''They gain the regular benefits of any great works in the territory'''
+* '''Navarr based in the territory are assigned a territory whose senator they can vote for'''
+
+Once a wayhouse is complete, it allows Navarr characters based in the territory to remain in regular contact with other members of the Navarr nation making it easier for them to prosper. As a result, it is possible for the civil service to arrange for [[Resource#Changing_Resources|any Navarr character to take a new resource in that territory]] for the usual 2 crown fee, even though the territory is not part of the Navarr nation. That resource does not suffer the [[Resource#Resources_in_other_Nations|usual penalty for being located in a foreign territory]].
+
+Any Navarr resources in a territory with a wayhouse gain the ''regular'' benefits from any [[great work]] that is built there. They do not gain any special or unique benefits from the great work.
+
+Navarr characters have no say over who is the senator for the territory they are in. Instead, they can vote for the senator for the ''nearest'' Navarr territory as if their resource as based there instead. To avoid any doubt or error, the Imperial civil service identify and publicises which territory this is, so that Navarr in the territory with the wayhouse know when their election is happening. The civil service is looking into how this works following the fall of [[Therunin]].
+
+===Sinecure Income===
+* '''A wayhouse provides a sinecure income for the associated title'''
+
+A wayhouse provides a sinecure for the Navarr title associated with it. It is not possible to set the form this income takes, but the size of the benefit is dependent on the size of the wayhouse. The more wains are spent constructing the wayhouse, the larger the income, if it were a [[sinecure]] of [[Sinecure#Costs|equivalent size]]. The form the benefit takes will be determined by the dominant resources available in the territory.
+
+==Costs==
+* Materials: Minimum 16 [[white granite]] and 6 thrones
+* Time: 3 months to construct
+<onlyinclude>
+==Current Wayhouses==
+This table includes all wayhouses which are active and have been appointed in recent times. For a full list of title holders, see [[Current Imperial titles|here]]. This list was last updated following the Spring Equinox 388YE.
+{| class="wikitable sortable" float: left; margin: 10px;"
+|-
+!Name!!Location!!Voting location!!Appointment!!Election!!Occupant
+|-
+|[[Keeper_of_the_Last_Battle#Last_Battle_Wayhouse|Last Battle]]|| [[The_Barrens#The_Bleaks|The Bleaks, The Barrens]]||Miaren||Military Council Appointment||Winter||{{#lst:Archive:All_Election_Results|Keeper_of_the_Last_Battle_occupant}}
+|-
+|[[Keeper_of_the_Stand#Micah's_Stand_Wayhouse|Micah's Stand]]||[[Reikos#Chalcis_Mount|Chalcis Mount, Reikos]]||Miaren||Senate Appointment||Spring||{{#lst:Archive:All_Election_Results|Keeper_of_the_Stand_occupant}}
+|-
+|[[Strategos_of_Navarr#Awstin's_Rest|Awstin's Rest]]||[[Ossium#Nearweald|Nearweald, Ossium]]||Hercynia||Military Council Appointment||Winter||{{#lst:Archive:All_Election_Results|Strategos_of_Navarr_occupant}}
+|-
+|[[Keeper of the Ashen Tears#Ashen Tears Wayhouse|Ashen Tears]]||[[Skarsind#Skogei_Glens|Skogei Glens, Skarsind]]||Hercynia||Senate Appointment||Autumn||{{#lst:Archive:All_Election_Results|Keeper_of_the_Ashen_Tears_occupant}}
+|-
+|[[Keeper_of_the_Splintered_House#The_Splintered_House|Splintered House]]||[[Holberg#Utterlund|Utterlund, Holberg]]||Miaren||Senate Appointment||Tenure||{{#lst:Archive:All_Election_Results|Keeper_of_the_Splintered_House_occupant}}
+|-
+|-
+|[[Keeper of Caedwynn's Hold#Caedwynn's Hold|Caedwynn's Hold]]|| [[The_Barrens#Murderdale|Murderdale, The Barrens]]||Miaren||Senate Appointment||Summer||{{#lst:Archive:All_Election_Results|Keeper_of_the_Caedwynn%27s_Hold_occupant}}
+|}</onlyinclude>
+
+==Limitations==
+* '''Cannot be built in a region with the city quality'''
+* '''Cannot be built in a Navarr territory'''
+* '''Provides no benefits if the territory does not have an active trod network'''
+* '''It is possible for a motion to dictate what form the sinecure income will take, but only from the available options'''
+A Navarr wayhouse can only be constructed in an Imperial [[territory]] that contains a trod network that is not part of the [[Navarr]] nation. For example, the Senate could commission a Navarr wayhouse in [[Sarvos#Riposi|Riposi]] in [[Sarvos]], which is part of [[the League]] but not in [[Miaren]]. In addition, it is not possible to build a wayhouse in an urban area - they cannot be built in any region with the [[Region_qualities#City|city]] quality. 
+
+A wayhouse can be built anywhere, but it provides no benefits of any kind if the territory they are in does not have an active trod network which is connected to the other trods in the Empire.
+
+The possible production provided by a wayhouse is set by the dominant resources available in the territory -  if the production is not stated in the motion, then it will default to the production column. It is not possible for the commission to provide different resources, unless it is part of a specific [[opportunity]].
+
+<table class="mw-collapsible mw-collapsed wikitable sortable"><tr><th>Nation</th><th>Territory</th><th>Production</th><th>Alternate Production</th>
+<tr><td rowspan='4'>[[The Brass Coast]]</td><td>[[Feroz]]</td><td>Money</td><td>[[Military_unit#Loot|Random resources]]</td>
+<tr><td rowspan='1'>[[Kahraman]]</td><td>Ingots</td><td>Money</td>
+<tr><td rowspan='1'>[[Madruga]]</td><td>Money</td><td></td>
+<tr><td rowspan='1'>[[Segura]]</td><td>Money</td><td>Random herbs</td>
+<tr><td rowspan='4'>[[Dawn]]</td><td>[[Astolat]]</td><td>Money</td><td>Cerulean mazzarine</td>
+<tr><td rowspan='1'>[[The Barrens]]</td><td>Random herbs</td><td>Money</td>
+<tr><td rowspan='1'>[[Semmerholm]]</td><td>Money</td><td></td>
+<tr><td rowspan='1'>[[Weirwater]]</td><td>Money</td><td>Mana crystals</td>
+<tr><td rowspan='4'>[[Highguard]]</td><td rowspan='1'>[[Bastion]]</td><td>Liao</td><td>Money</td>
+<tr><td rowspan='1'>[[Casinea]]</td><td>Liao</td><td>Money</td>
+<tr><td rowspan='1'>[[Necropolis]]</td><td>Liao</td><td>Money</td>
+<tr><td rowspan='1'>[[Reikos]]</td><td>Liao</td><td>Money</td>
+<tr><td rowspan='2'>[[Imperial Orcs]]</td><td rowspan='1'>[[Skarsind]]</td><td>Money</td><td>Measures</td>
+<tr><td rowspan='1'>[[Mareave]]</td><td>Money</td><td>Ingots</td>
+<tr><td rowspan='5'>[[The League]]</td><td rowspan='1'>[[Holberg]]</td><td>Money</td><td>Random herbs (if built in Misericorde)</td>
+<tr><td rowspan='1'>[[Sarvos]]</td><td>Money</td><td>Liao</td>
+<tr><td rowspan='1'>[[Spiral]]</td><td>Money</td><td>Mana crystals</td>
+<tr><td rowspan='1'>[[Tassato]]</td><td>Money</td>
+<tr><td rowspan='1'>[[Temeschwar]]</td><td>Money</td><td></td>
+<tr><td rowspan='4'>[[The Marches]]</td><!--<td rowspan='1'>[[Bregasland]]</td><td>Money</td><td>Random herbs</td>-->
+<tr><td rowspan='1'>[[Mitwold]]</td><td>Money</td><td></td>
+<tr><td rowspan='1'>[[Mournwold]]</td><td>Ingots</td><td>Money</td>
+<tr><td rowspan='1'>[[Upwold]]</td><td>Money</td><td></td>
+<tr><td rowspan='4'>[[Urizen]]</td><td rowspan='1'>[[Morrow]]</td><td>Mana crystals</td><td></td>
+<tr><td rowspan='1'>[[Redoubt]]</td><td>Mana crystals</td><td></td>
+<tr><td rowspan='1'>[[Sarangrave]]<sup>[[#1|(1)]]</sup></td><td>Random herbs</td><td></td>
+<tr><td rowspan='1'>[[Zenith]]</td><td>Mana crystals</td><td></td>
+<tr><td rowspan='5'>[[Varushka]]</td><td rowspan='1'>[[Karov]]</td><td>Ingots</td><td>Measures</td>
+<tr><td rowspan='1'>[[Karsk]]</td><td>Measures</td><td>Ingots</td>
+<tr><td rowspan='1'>[[Miekarova]]</td><td>Ingots</td><td>Measures</td>
+<tr><td rowspan='1'>[[Ossium]]</td><td>Measures</td><td></td>
+<tr><td rowspan='1'>[[Volodmartz]]</td><td>Ingots</td><td>Measures</td>
+<tr><td rowspan='3'>[[Wintermark]]</td><td rowspan='1'>[[Hahnmark]]</td><td>Ingots</td><td>Money</td>
+<tr><td rowspan='1'>[[Kallavesa]]</td><td>Random herbs</td><td>Liao</td>
+<tr><td rowspan='1'>[[Sermersuaq]]</td><td>Money</td><td></td>
+</table>
+
+<small>
+#{{anchor|1}} This territory does not contain trods, and cannot support a wayhouse
+</small>
+{{#lst:Archive:All_Commissions|wayhouse}}
+
+==Further Reading==
+* [[The way home]] - 386YE Summer wind of fortune concerning opportunities to build special wayhouses in non-Navarr Imperial territories

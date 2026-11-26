@@ -1,0 +1,38 @@
+[[Category:Senate Motion]][[Category:382YE Winter]]
+__NOTOC__
+<ic>The Imperial Orcs would like to use their Wayleave for a weirwood-herb sinecure located in Foracci, Sarvos. Named Emilio's Herbarium for anvil hospital. Title: Keeper of Emilio's Herbarium, it's a tenure position, Loyalty assembly.<br>''Imperial Wayleave by Palerictus Krunk''</ic>
+==Overview==
+* Commission a [[sinecure]] in [[Sarvos]]
+* Announcement.
+==Date==
+* Winter 382YE
+==Cost==
+* This [[sinecure]] uses [[Sinecure#Costs|standard costs]].
+* The size of the commission has not been specified.
+==Progress==
+* 12 weirwood and 24 crowns received from Giacomo Corvinoscuro after the Winter Solstice 382YE.
+
+==Campaign Outcome==
+* When complete, the [[sinecure]] will create an [[Imperial title]], [[Keeper of Emilio's Herbarium]] 
+
+<!--
+Known simply as “the Herbarium” to local residents, Emilio’s Herbarium for Anvil Hospital stands on the wide plains of Foracci near the outskirts of Rodez, attached to the grounds of the private Aldo di Saverio hospital. Entry to the Herbarium is through an old set of farm buildings, long vacant before they were renovated as part of the project, which now contain a small set of apartments for the use of the Keeper of Emilio’s Herbarium and their staff. It is the fourth project built by the Sarvos-based building society Red Raven Holdings, and thus shares similarities of styling with the Wellspring of Jade, Glass Point Cove and Signori d’Argento Vineyards.
+
+The main body of the Herbarium is a series of large weirwood covered trellises, the design adapted from the style of vineyard frame common in Foracci. Nestled among each other in interrupted concentric circles echoing common depictions of the labyrinth, it is easy for visitors to get lost among the stout scaffolding - though every path seems to lead back to the entrance eventually. This careful arrangement of herb beds provides a well-balanced mix of medicinal herbs, despite appearing as a random patchwork of different plants to the uninitiated.
+
+Marked by Anvil Hospital’s well-known red-on-white Rhyv flag, the centre of the cultivation section contains a memorial to the Herbarium’s construction. A small diorama statue of two League citizens conversing with six Imperial Orcs sits above a plaque celebrating the commission:
+
+With grateful thanks to:
+Giacomo Corvinoscuri
+Magdalena di Sarvos
+Giuseppe Sanguineo von Temeschwar 
+and Palerictus Krunk of The Imperial Orc Nation
+
+It is with their help and at the direction
+of the Anvil Hospital Board that I built
+the arboretum you see around you
+
+Emilio Marsana Saverio di Sarvos
+Head of Triage, Anvil Hospital
+383YE
+-->

@@ -1,0 +1,1 @@
+This effect is a [[curse]]. A target may be under more than one curse at a time. [[Category:Curse]] {{#if: {{{1|}}} | [[Category:Curse:{{{1}}}]] }}

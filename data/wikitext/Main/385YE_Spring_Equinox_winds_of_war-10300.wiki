@@ -1,0 +1,190 @@
+[[Category:Recent History]] [[Category:385YE Spring]] [[Category:Military Council]][[Category: Winds of War]]
+<div style="float:left; width: 900px; clear: left;">{{CaptionedImage|file=War Council.jpg|caption=The [[Military Council]] makes the hard decisions about where [[Army|Imperial armies]] will fight each season.|align=left|width=900}}</div>
+==Overview==
+Over the last three months, Imperial forces are engaged in military campaigns against barbarian forces. Sometimes those engagements have been wide ranging and dramatic, other times they have been more sedate. Continuing the approach we took last year, we're presenting a summary of the campaign on this page. Where there's more dramatic action, or where there are [[opportunity|opportunities]], we've given a wind of war its own page. We're also continuing to provide information about the battle opportunities, listed in the theatres that they concern. 
+
+As always, how much or how little of this information you choose to know in character is up to you. Part of the purpose of Winds of War and the [[385YE_Spring_Equinox_winds_of_fortune|Winds of Fortune]] is to make players aware of things their characters ''should'' know, based on what their roleplaying says they have been doing, and to maintain the Empire as a living, breathing place where all kinds of events take place beyond the scope of Anvil.
+
+It should go without saying that we ask everyone to abide by the rules about [[Online_roleplaying|online roleplaying]] with regard to the military campaign. It's important that the key in-character activity of the Empire world takes place at events. The game is busier and better if everything that can happen in the field, does happen in the field. Military planning and political discussions should happen at events. For this reason we generally discourage too much downtime roleplaying between events and put strict limits on what can be done online particularly using our forums and Facebook groups.
+
+All that said we now present a summary of the key military activity in the Empire - both with links to the expanded Wind of War pages and notes about other important things that have happened that didn't need a full battle campaign write-up.
+==Begin Where We End==
+Following the Winter Solstice, the Empire is engaged in three major campaigns. 
+
+One they did not choose for themselves; the Jotun orcs have invaded [[Kahraman]] from their holdings in south-eastern [[Liathaven]]. The orcs have successfully conquered [[Kahraman#Fort Braydon|Fort Braydon]], and now dominate [[Kahraman#Braydon's Jasse|Braydon's Jasse]]. They are also well on their way to conquering the [[Kahraman#Jade Range|Jade Range]]. Had the Empire not anticipated this invasion, and stationed armies in the Cinnabar Hills, it is not impossible they would have captured the entire territory. You can read about this campaign in '''[[Grind]]'''.
+
+Kahraman is not the only place the Empire is fighting the Jotun. Imperial forces have launched an invasion of their own, to liberate [[Bregasland]] from Mathilda Fisher and her orc allies. The [[Strong Reeds]] and their allies in House Greywater have been laying the groundwork since the territory fell, and now a host of Imperial soldiers have freed the Dour Fens from the invaders. Parts of Bregasland are still in Jotun hands - [[Bregasland#Ottermire|Ottermire]] and [[Bregasland#Gravenmarch|Gravenmarch]] - but the territory itself is once again Imperial. You can read about this campaign in '''[[Laid low]]'''.
+
+There is also a major campaign in [[the Barrens]] against the [[Druj]]. An immense force of eleven Imperial armies, plus thousands of [[military unit|independent captains]] clashed with an equally mighty eleven Druj armies and the terrible power of their [[Spring magic]] wards and curses. The Empire was ultimately victorious, and drove the Druj out of Bitter Strand, Saltmarsh, and the Plains of Teeth, capturing the great citadel of the Spires of Dusk in the process. Unfortunately, the cost was very high indeed. Tens of thousands of humans and orcs died in the fighting, and during the final Battle of Twilight to take the citadel, the knights and yeofolk of the [[Hounds of Glory]] made the ultimate sacrifice. You can read about this campaign in '''[[Cost]]'''.
+
+As always, these grand campaigns represent only a part of the Empire's battles. In [[Zenith]], the [[Granite Pillar]] work tirelessly to clear the remaining [[Druj_miasma#Miasma_Pillars|miasma pillars]] that anchor the atmosphere of fear and despair over the territory. They are aided by mercenaries paid by the [[Senate]]. By all accounts the struggle against fear itself is going well, with two more pillars dealt with in the lead-up to the Spring Equinox. The opportunity to deal with the pillars was laid out in the [[Write_your_own_ending#Salt_and_Stone|Write your own ending]] Wind of Fortune.
+
+While the Empire fares well in Zenith, there are less upbeat reports regarding not one but two of the Imperial [[spy network|spy networks]]. As expected, the Jarl of [[Skallahn#Kierheim|Kierheim]] in [[Skallahn]] has [[In_each_line_lies_another_line#The_Freezing_North_.28Battle.29|dismantled the spy network there]], and rooted out the Imperial scouts operating in the territory. At the same time, there are reports coming from the south-west that something has happened in [[Feroz]] involving the unique [[Construct spy network in Feroz|naval operations]] there. It's not clear what has happened, but there is talk of an attack on the town of [[Feroz#Shantarim|Shantarim]], and on several other islands. It's also not clear exactly who is responsible; while it seems likely the Grendel are involved there are no definitive reports one way or another. In both cases, further information will be presented to Imperial citizens who supported those spy networks after the Winter Solstice, so those wishing to know more should seek them out.
+
+===Like the wind (Conjunction)===
+* '''Jarl Iduna is leading a warband to destroy the spy network in Liathaven'''
+* '''A number of Navarri have been trapped behind the Jotun lines'''
+* '''The Sentinel Gate will open at 18:10 on Friday to The Shattered Glade in Liath's Ring'''
+* '''The ''Imperial Spymaster'' is responsible for protecting the spy network and killing the Jarl'''
+The warband of ''Jarl Iduna'', as part of continuing to subdue Liathaven, has managed to track down a number of Navarri who were still in the territory; either supporting the [[spy network]], visiting their [[Resource#Personal_Resource|holding]]. Jarl Iduna's warband seems intent on slaughtering the Navarr who have been discovered. If Iduna and the rest of her warband are not stopped then they will go on to uncover the existence of the spy network in [[Liathaven]] and the Jotun will be able to take steps to remove it .
+
+Jarl Iduna's warband is made up of a combined force of [[Elite_Jotun_troops#Ra.C3.B0lj.C3.B3st|Raoljost]], [[Elite_Jotun_troops#Ulvenwar|Ulvenwar]], and [[Elite_Jotun_troops#Skjaldir|Skjaldir]]. Given that this represents a threat to an Imperial [[spy network]] it is the responsibility of the [[Imperial Spymaster]]: '''Bernard Dugdale''' to rescue the Navarri and kill Jarl Iduna.
+
+<box><big>'''Participation:'''</big><br>Any player who either assigned their resource to support the Liathaven spy network or who has a personal resource in Liathaven can choose to enter play at the event on this skirmish.
+
+If you wish to time in at the event as part of this skirmish please [mailto:plot@profounddecisions.co.uk plot@profounddecisions.co.uk] to let us know by the '''3<small>rd</small> of June.'''
+
+This encounter will be a '''[[Accessibility#Combat_Highly_Likely|Combat Highly Likely]]''' and there is a high likelihood that players will be required to move through dense or uneven terrain.
+
+Everyone who has opted into starting the event this way must come to the Monster tent before 17:30 ready to time in at 18:00.</box>
+
+===Chose to start (Conjunction)===
+* '''A group of Druj are moving to ambush a number of thorns crossing the Feverwater'''
+* '''The Druj are likely to be accompanied by a number of heralds of Arhallogen'''
+* '''The Sentinel Gate will open at 18:00 on Saturday to Ormthak's Path in Bloodwater Marsh'''
+* '''The ''Dredgemaster of Feverwater'' is responsible for stopping the ambushers'''
+The Navarr National Assembly passed a [[384YE_Winter_Solstice_Synod_judgements#Judgement_89|judgement]] raised by '''Eira Larksong''' calling on [[guide|guides]] to work with citizens of [[Therunin]] to help the bandits that had been [[Make_a_deal#Trouble_Brewing|plaguing the south]] of the territory in an attempt to help them find their place in the [[Navarr_culture_and_customs#The_Great_Dance|Great Dance]] once more. This call to action worked surprisingly well; Navarri from across the territory have worked to help those who were forced to banditry in an attempt to survive and these former bandits have some help of their own to offer.
+
+The docks of [[Therunin#Mudlark.27s_Haven|Mudlark's Haven]] has seen increasing numbers of [[thorn|thorns]] making the journey over the Feverwater to [[Military_unit#Adventure_in_the_Sarangrave|adventure in the Sarangrave]]. These increasing numbers have led to one group from the Thornwasp clan of Druj attempting to find out how the thorns are arriving in [[Sarangrave#Bloodwater_Marsh|Bloodwater Marsh]]. The Thornwasp are preparing to ambush the next group of thorns that crosses the Feverwater and use information gathered from them to potentially launch their own attacks into Therunin, and specifically against Mudlark's Haven.
+
+There will be a stiff resistance from the Druj group; a combined force of troops drawn from [[Arkad|the arkad]] and accompanied by heralds of [[Arhallogen]]. Given that the group is threatening Mudlark's Haven the responsibility for this conjunction lies with the current [[Dredgemaster of Feverwater]]; '''Eosffair Farwalker'''.
+<box><big>'''Druj Miasma'''</big>
+* '''This encounter takes place in Sarangrave and is affected by Druj miasma'''
+* '''The miasma [[Calls#WEAKNESS|weakens]] anyone exposed to it who does not have the ability to [[Roleplaying_effects#Overcoming_Roleplaying_Effects|overcome]] it'''
+
+The miasma [[Calls#WEAKNESS|weakens]] anyone exposed to it who does not have the ability to [[Roleplaying_effects#Overcoming_Roleplaying_Effects|overcome]] it. The easiest method to overcome the miasma is to receive an [[anointing]], but particularly [[Heroic_skills#Hero|heroic]] individuals, or those in possession of certain [[enchantment|enchantments]] or [[magic items]] may also be able to counteract the effect. In particular, those of the [[changeling]] [[lineage]] are able to fight the effects of the miasma, but at the expense of becoming ''extremely'' angry - which can cause problems all its own.</box>
+
+===Just fooling myself (Conjunction)===
+* '''A force of Jotun are moving through Sermersuaq towards the Pride of Ikka's Tears'''
+* '''The Jotun are likely to be accompanied by a number of heralds of Hayaak'''
+* '''The Sentinel Gate will open at 15:30 on Saturday to Ymma's Howe in Suaq Wastes'''
+* '''The ''Custodian of the Pride of Ikka's Tears'' is responsible for stopping the Jotun'''
+A year and a half ago the Empire [[383YE_Autumn_Equinox_winds_of_war#Iron|struck into]] Sermersuaq, at the [[Pride of Ikka's Tears]], to take [[mithril]] (and thralls) from under the watchful eye of the Jotun. Now, perhaps encouraged by heralds of the [[Hayaak|Hawk Lord]], a force of warriors journeys deep into Sermersuaq; their path leading directly to the precious mine near borders of the Jotun, the Thule, and with Tsirku. The Jotun have been equipped in the [[In_each_line_lies_another_line#Objective:_Destroy_Blade_Quencher|fane]] of [[Estavus]] recently constructed in [[Skallahn#Greenwall|Greenwall]]. Why they have received equipment from the heralds at the fane, and what that means for any mithril recovered from the mine is unknown.
+
+If the Jotun force is not stopped then the Custodian will lose five wains of mithril from their expected production at the Summer Solstice.
+
+The force is made up of a combined force of [[Elite_Jotun_troops#Ra.C3.B0lj.C3.B3st|Raoljost]], [[Elite_Jotun_troops#Ulvenwar|Ulvenwar]], and [[Elite_Jotun_troops#Skjaldir|Skjaldir]] along with a number of heralds of Hayaak. Given that this is a direct threat to the Aviary of Ishal it is the responsibility of the [[Pride of Ikka's Tears|Custodian of the Pride of Ikka's Tears]], '''Tuija Dunning''', to stop the Jotun.
+
+==Battle Opportunities==
+Imperial prognosticators have identified four possible [[Sentinel_Gate#Major_Conjunctions|major conjunctions]] of the [[Sentinel Gate]] at the coming summit. The [[Military Council]] will [[muster]] on Friday night, and the [[general|generals]] will select two of them to be taken up by Imperial heroes. At the moment the full details of these battle opportunities are not clear; more information will be provided nearer to the event.
+
+All battle opportunities are [[Accessibility#Combat_Highly_Likely|Combat Highly Likely]] environments.
+<table><tr><td style="background-color: LightGray;">Location</td><td style="background-color: LightGray;">Opportunity</td><td style="background-color: LightGray;">Opposition</td><td style="background-color: LightGray;">Day</td><td style="background-color: LightGray;">Learn More</td>
+<tr><td>[[Bregasland]]</td><td>End the threat posed by Mathilda Fisher and her supporters</td><td>Jotun Yegarra</td><td>Saturday</td><td>[[Chasing_you_home#Graven.27s_Rock_.28Battle.29|Graven's Rock]]</td>
+<tr><td>[[Kahraman]]</td><td>Discover more about the gathering of champions</td><td>Jotun and Jotun Yegarra</td><td>Saturday</td><td>[[Chasing_you_home#Braydon.27s_Jasse_.28Battle.29|Braydon's Jasse]]</td>
+<tr><td>[[The Barrens]]</td><td>Break the forces of Serra Grubfeast and claim Dawnguard</td><td>Druj</td><td>Sunday</td><td>[[Everything_is_broken#Glorious_In_Victory_.28Battle.29|Glorious In Victory]]</td>
+</table>
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="width:300px; float: right; margin: 10px;"
+|-
+! Nation !! Force Weight
+|-
+| Brass Coast || 16
+|-
+| Dawn || 44
+|-
+| Highguard || 18
+|-
+| Imperial Orcs|| 5
+|-
+| League || 17
+|-
+| Marches || 26
+|-
+| Navarr || 50
+|-
+| Urizen || 16
+|-
+| Varushka || 11
+|-
+| Wintermark || 58
+|}
+The sides for the battles will be chosen by the generals in the [[Muster]] of the [[Military Council]] on Friday night. Each of the two battles must have at least 126 and at most 135 force weight sent on it.
+
+==Conjunctions==
+The [[Sentinel Gate]] also allows smaller groups of Imperial citizens to reach locations all over the Empire where their intervention might change the course of events. Many of these ''[[Sentinel Gate#Conjunction|conjunctions]]'' involve fighting, but there are also a variety of other opportunities presented by the magic of the Gate.  
+
+For most conjunctions the Civil Service has identified the Imperial titles that are the most fitting to take overall responsibility for ensuring that an opportunity is organised. Whilst the named individual has been deemed the most appropriate by the Civil Service, there is no legal requirement for them to coordinate a response or travel on the conjunction. They may delegate oversight to another individual of their choosing. As always, Imperial war scouts will be on hand at the muster point by the Sentinel Gate to provide further information to any citizens wanting to know more. Further information relating to the nature of the large conjunctions might be available from the war scouts on duty at the Sentinel Gate. They can provide updates on barbarian movements, guidance on how to engage enemy troops or advice on how to avoid casualties and return back to Anvil in safety.
+
+Sometimes it is necessary to make small adjustments to the timing or size of skirmishes, owing to delays or availability of crew that arise between the time of publication and when an encounter runs at the event. Details will be finalised on Friday afternoon of the event before time-in. Please do check the details of a conjunction you are interested in before using the gate to ensure that you have the full and up-to-date information. You can check a conjunction by casting [[Detect_magic#Discover_Conjunction|Detect Magic (Discover Conjunction)]] on the Sentinel Gate in the presence of a ref.
+
+It's very important to pay attention to the [[Accessibility]] note for each conjunction, which covers the likelihood of combat. Further details about the accessibility of a conjunction are [[Accessibility#Who_and_how_to_ask.3F|available both before and during the event]]. You can learn more about this on the [[accessibility]] page.
+
+A list of all publicly known conjunctions, along with the size of the gate, the destination, and the Imperial citizen responsible for taking advantage of them, will be presented closer to the event.
+
+===Friday===
+{|table class="wikitable sortable"
+|-
+! Time !! People !! Duration !! [[Accessibility#Combat|Combat]] !! Location !! Responsibility !! Overview/Link
+|-
+| 18:10 || 70 || 10 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Liathaven, Liath's Ring, The Shattered Glade || [[Imperial Spymaster]] || [[385YE_Spring_Equinox_winds_of_war#Like_the_wind_.28Conjunction.29|Rescue the Navarri and kill the Jotun]]
+|-
+| 18:30 || 70 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Kahraman, Jade Range, Path of the Liscano family || [[Mistress of the Dust Parador]] || [[Time_and_time_again#Just_a_fool_to_believe_.28Conjunction.29|Stop the Jotun]] 
+|-
+| 18:45 || 25 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || The Barrens, Saltmarsh, Hadrienne's Lament || [[Champion of Ambition]] || [[Everything_is_broken#The_Goblet_of_Adelmar_.28Conjunction.29|Recover the relic of Adelmar]] 
+|-
+| 19:00 || 60 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Bregasland, North Fens, Greywater Estates || [[Strong Reeds| General of the Strong Reeds]] || [[Laid_low#Through_the_moonlight_.28Conjunction.29|Force the Jotun to retreat]]
+|-
+| 19:15 || 25 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || The Barrens, Plains of Teeth, Bloodrun Dell || [[Dean of Laroc Cathedral]] || [[Everything_is_broken#The_Flowers_of_Deleroi_.28Conjunction.29|Put the dead knights to rest]] 
+|-
+| 19:45 || 25 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || The Barrens, Plains of Teeth, Shrike's Grove || [[Castellan of Spiral Castle]] || [[Everything_is_broken#The_Body_of_Eoceor_de_Casillon_.28Conjunction.29|Recover the ''Gyre's Edge'']] 
+|-
+| 20:00 || 70 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || The Barrens, The Bleaks, The Blooming Grove || [[Polemarch of Highwatch]] || [[Cost#Old_enough_to_face_the_dawn_.28Conjunction.29|Kill tepel Zortog Ashtouch]] 
+|-
+| 20:30 || 70 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || The Barrens, Saltmarsh, The Steadfast Pines || [[Four Seasons' Boneweaver]] || [[Cost#The_tears_of_the_day_.28Conjunction.29|Recover the stockpile]]
+|-
+| 20:45 || 30 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Sermersuaq, Stark, Nestori's Lament || [[Shuttered Lantern|Grandmaster of the Shuttered Lantern]] || [[Anyone_but_you#I_owe_it_all_.28Conjunction.29|Recover relic from ''Ender of Virtue'']]
+|-
+| 21:00 || 60 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || The Barrens, The Untrod Groves, Jagged Stream || [[Bargainer of the Iron Tower]] || [[Cost#Won.27t_be_blinded_by_the_light_.28Conjunction.29|Drive off the Druj]]
+|-
+| 21:15 || 30 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Temeschwar, Metri, Agnieszka's Grove || [[Rod and Shield|Grandmaster of the Rod and Shield]] || [[Fade_out_again#Waiting_for_so_long_.28Conjunction.29|Clear out the heralds]]
+|-
+| 23:00 || 50 || 30 mins || [[Accessibility#Combat_Unlikely_or_Contained|Unlikely]]  || Mournwold, Greensward, Overton Ruins || [[Friar of Honour's Rest]] || [[You_can%27t_count_on_me#Stubborn_Spirits_.28Conjunction.29|Lay the ghosts to rest]]
+|-
+| 00:00 || 15 || 20 mins || [[Accessibility#Combat_Possible|Possible]]  || The Barrens, Saltmarsh, Greenstone Isle || [[Seventh Wave|General of the Seventh Wave]] || [[Pieces_missing_everywhere#A_Distant_Shore_.28Conjunction.29|Meet with the Vendarri]]
+|-
+|}
+
+===Saturday===
+{|table class="wikitable sortable"
+|-
+! Time !! People !! Duration !! [[Accessibility#Combat|Combat]] !! Location !! Responsibility !! Overview/Link
+|-
+| 15:00 || 65 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Kahraman, Jade Range, The Sylvan Track || [[Reeve of Boar's Market]] || [[Time_and_time_again#Burn_me_with_the_sun_.28Conjunction.29|Slay Venator, herald of Hayaak]]
+|-
+| 15:30 || 60 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Sermersuaq, Suaq Wastes, Ymma's Howe || [[Pride of Ikka's Tears|Custodian of the Pride of Ikka's Tears]] || [[385YE_Spring_Equinox_winds_of_war#Just_fooling_myself_.28Conjunction.29|Stop the Jotun]]
+|-
+| 17:30 || 65 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || The Barrens, Bitter Strand, Spinner's Retreat || [[Medical Officer of the Pegasus Respite]] || [[Cost#No_strings_to_bind_your_hands_.28Conjunction.29|Slay Venomclaw, herald of Arhallogen]]
+|-
+| 18:00 || 65 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Sarangrave, Bloodwater Marsh, Ormthak's Path || [[Dredgemaster of Feverwater]] || [[385YE_Spring_Equinox_winds_of_war#Chose_to_start_.28Conjunction.29|Kill the Druj]]
+|-
+| 18:30 || 65 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || The Barrens, Plains of Teeth, Meredith's Stand || [[Winter Sun|General of the Winter Sun]] || [[Everything_is_broken#No_need_to_take_me_home_.28Conjunction.29|Intercept the Druj]]
+|-
+| 20:15 || 25 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Madruga, The Great Grasses, the Dry Patch || [[Silver Chalice|Grandmaster of the Silver Chalice]] || [[Colourblind#The_Parched_Land_.28Conjunction.29|Destroy the Dry Patricians]]
+|-
+| 20:30 || 60 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Holberg, Utterlund, Elsbeth's Well || [[Merchant Prince of Misericorde Market]] || [[Fade_out_again#Morning.27s_Echo_Says_We.27ve_Sinned_.28Conjunction.29|Recover ''Misericorde's Blade'']]
+|-
+| 20:45 || 15 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Sermersuaq, Suaq Wastes, Ardith's Rest || [[384YE_Winter_Solstice_Synod_judgements#Judgement_88|Averil Olsen, the Warsmith]] || [[Anyone_but_you#I_swear_it.27s_the_truth_.28Conjunction.29|Kill Theodric Irontongue]]
+|-
+| 21:00 || 60 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Semmerholm, Axmure, Melusine's Field || [[Knight-protector|Knight-protector of Winter]] || [[Cost#Love_can.27t_bind_your_heart_.28Conjunction.29|Slay the Amaranthine Devourer, herald of Agramant]]
+|-
+| 21:30 || 60 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Holberg, The Morass, Drusilla's Farm || [[384YE_Winter_Solstice_Synod_judgements#Judgement_91|Irada von Temeschwar]] || [[Fade_out_again#We.27re_Victims_Of_The_Night_.28Conjunction.29|Kill the Vyig]]
+|}
+
+==Military Considerations==
+{{stub}}
+The following considerations should be borne in mind when discussing military strategies during the Winter Solstice.
+* '''Adamant Gate:''' The Adamant Gate in [[Semmerholm]] cannot be reduced below 1,000 military strength. [[Semmerholm#The_Adamant_Gate|Link]]
+* '''Barrens:''' Any Imperial army fighting in the Barrens except those from Dawn, Varushka and Urizen suffer a one-fifth penalty to territory conquered until the start of the Summer Solstice 385YE. [[384YE_Summer_Solstice_Synod_judgements#Judgement_62|Link]] 
+*'''Barrens (Dawn):''' Dawnish armies fighting in the Barrens suffer a three-tenths penalty to territory conquered until the start Summer Solstice 385YE. [[384YE_Autumn_Equinox_Synod_judgements#Judgement_44|Link]]. 
+* '''Billeting:''' Any Imperial army can take the '''''[[Army_orders#Billet|Billet]]''''' order in [[Upwold]] or [[Mitwold]]. [[Army_orders#Billet|Link]]
+* '''Court of the White Fountain:''' The Court of the White Fountain in [[Redoubt]] cannot be reduced below 1,000 military strength. [[Redoubt#The_Court_of_the_White_Fountain|link]]
+* '''Dawn:''' Dawnish armies cannot take the '''''[[Army_orders#Cautious Advance|Cautious Advance]]''''' order or the '''''[[Army_orders#Give_Ground|Give Ground]]''''' order. [[Put_on_your_war_paint#Glorious_in_Victory.2C_Proud_in_Defeat|Link]]
+* '''Highguard:''' Highborn armies can no longer issue the '''''Crusading Storm''''' order; wherever they are on campaign there is a chance to generate a [[mandate]] for the Highborn assembly. [[Full_of_sacred_sound#The_Sticking_Place|Link]]
+* '''The Marches:''' Marcher armies cannot take the '''''[[Army_orders#Give_Ground|Give Ground]]''''' order. [[The_Marches_military_concerns#Army_Orders|Link]]
+* '''The Marches:''' Marcher armies fighting in Upwold, Mitwold, or Mournwold each receive an additional 1000 strength. The [[Strong Reeds]] receive an additional 1000 strength when fighting in Bregasland. This lasts until the start of the Winter Solstice 385YE, or until they leave Bregasland in the case of the Strong Reeds. [[At_the_dog_and_eel_show#Beat_the_Bounds|link]].
+* '''Urizen:''' The [[Citadel Guard]] will begin to deteriorate again after the Summer Solstice. [[Pebbles_drawn_from_a_heap#Safety_from_the_Storm|Link]]
+* '''Varushka:''' Varushkan armies involved in the same campaign as an army from the Brass Coast or Wintermark generate 10% fewer victory points. If armies from both nations are present, the reduction is increased to 20%. [[Our_choice#Prepare_for_Difficult_Choices|Link]].
+* '''Wintermark:''' Wintermark armies can take the '''''Fight with Honour''''' order. [[Fight_with_monsters#A_Hero.27s_Tale|Link]]
+* '''Wintermark:''' Wintermark armies fighting against the Jotun will gain 10% more victory points but inflict 20% less casualties.  [[Fight_with_monsters#A_Hero.27s_Tale|Link]]
+*'''Zenith:''' Any Highborn or Urizen army attacking into Zenith from Morrow gains a 20% bonus to any territory captured and suffers a 10% reduction in casualties inflicted. [[Three_soldiers#The_High_Pass|Link]]
+*'''Morrow:''' Any Highborn or Urizen army that defends in Morrow against an army attacking from Zenith gains a 20% bonus to defend territory and suffers a 10% reduction in casualties inflicted. [[Three_soldiers#The_High_Pass|Link]]

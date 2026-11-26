@@ -1,0 +1,257 @@
+
+==The Imperial Titles of the Synod==
+At the end of the Spring Equinox, 379YE, the Imperial Titles in the Synod were held by:
+
+{|
+| '''Virtue''' || '''Cardinal''' || '''Gatekeeper / Conscience'''
+|-
+| [[Ambition]] || Bishop Olek of the League || Seraiah Armand of the Suns of Couros, Highguard
+|-
+| [[Courage]] || Asher of Felix's Watch in Highguard || Agnieszka Katrinova Prochnost of Varushka
+|-
+| [[Loyalty]] || Jared of the Suns of Couros, Highguard || Oberon Caeli Rezia di Tassato of the League
+|-
+| [[Pride]] || Elka Nadyanova Gremani of Varushka || Lady Josephine Novarion of Dawn
+|-
+| [[Prosperity]] || Edythe Dunne of Wintermark || Wilhemina Maryenkovich Poltova of Varushka
+|-
+| [[Vigilance]] || Silas of the Suns of Couros, Highguard || Nikolovich Drakov of Varushka
+|-
+| [[Wisdom]] || Abaddon De Rondell of Dawn || Livia Cascade of Urizen
+|-
+| [[The Way]] || Beodun Snowlock of Wintermark || Lisabetta Giacomi von Holberg of the League
+|}
+
+===Other Synod-Appointed Titles===
+
+{|
+| '''Title''' || '''Held By''' || '''Appointed By''' || '''Renews'''
+|-
+| [[High Exorcist]] || Solas of Urizen || Assembly of Nine || Winter Solstice
+|-
+| [[Auditor of Senatorial Accountability]] || Sargon of Felix's Watch, Highguard || Assembly of Nine || Until death, revocation or abdication
+|-
+| [[Imperial Inquisitor]] || Severin Teyhard von Holberg of the League || Assembly of Nine || Summer Solstice
+|-
+| [[Custodian of the Imperial War Memorial]] || Ira of Felix's Watch, Highguard || Assembly of Nine || Sinecure; until death, revocation or abdication
+|-
+| [[Chaplain Consular]] || Hywel Summercrow, Navarr || Cardinal of The Way || Spring Equinox
+|}
+
+==Appointments==
+At the Summit, the following appointments were made by the Virtue Assemblies of the Synod:
+
+
+===Appointment of the Cardinal of Vigilance===
+
+{|
+| '''Candidate''' || '''Votes Received''' || '''Outcome'''
+|-
+| Silas of Highguard || 63 votes || Appointed as Cardinal
+|-
+| Irada Von Temeschwar of the League|| 52 votes || -
+|-
+| Abraham of Highguard || 42 votes || - 
+|-
+| Yimiska of Wintermark || 18 votes || -
+|-
+
+| Cardinal Silas appointed Nikolovich Drakov as Gatekeeper || - || - 
+|-
+|}
+
+===Appointment of the Cardinal of Ambition===
+
+{|
+| '''Candidate''' || '''Votes Received''' || '''Outcome'''
+|-
+| Olek of the League || 87 votes || Appointed as Cardinal
+|-
+| Dietrich Elias Von Holburghan of the League|| 0 votes || -
+|-
+
+| Cardinal Olek appointed Seraiah Armand as Gatekeeper || - || - 
+|-
+|}
+
+===Appointment of the Cardinal of Prosperity===
+
+{|
+| '''Candidate''' || '''Votes Received''' || '''Outcome'''
+|-
+| Edythe Dunne of Wintermark  || 70 votes || Appointed as Cardinal
+|-
+| Soratio of the Brass Coast || 26 votes || -
+|-
+| Cardinal Edythe appointed Wilhemina Maryenkovich Poltova as Gatekeeper || - || - 
+|}
+
+
+
+==Synod Judgements==
+At the Summit, the following judgements were made by the Assemblies of the Synod:
+
+{|
+| '''Number''' || '''Assembly''' || '''Judgement''' || '''Raised By'''  || '''Outcome'''
+|-
+| 1 || Vigilance || Appointment of the Cardinal || The Civil Service || Silas of Highguard was appointed
+|-
+| 2 || Ambition|| Appointment of the Cardinal || The Civil Service || Olek of the League was appointed
+|-
+| 3 || Ambition|| Inquisition of Nikolovich Drakov. The outgoing Imperial Inquisitor levelled accusations of unvirtuous behaviour and "pettiness" against Father Drakov. These accusations require Inquisition to determine their truth or falsehood. Inquisition to be held on Sunday at 6pm; convene at the Hub. || Severin Von Holberg || Upheld  92 - 0
+|-
+| 4 || General || Rewarding Achilles of Urizen with 20 Thrones for his prosperity at the last summit, realising potential accrued over a long time, without which success in Spiral and Reikos at that summit would not have been attainable. || Solas of the Spire of the Waxing Sun || Upheld 422 - 0
+|-
+| 5 || Vigilance|| Recognition of "Major" Joshua Benson of the Marches as Exemplar of Vigilance who, before the time of the Empire, showed Benevolence for the people of Marches and Dawn, Inspired the founding of a Monastery, did a Pilgrimage in participating in the rebel March, left a Legacy of a tower and shield and Saved Marcher and Dawnish souls. || James Appleseeder || Upheld 113 - 0
+|-
+| 5E || General || Escalation of Recognition of "Major" Joshua Benson of the Marches to the General Assembly || James Appleseeder || Upheld 145 - 67
+|-
+| 6 || General || Rewarding of 5 liao from the Virtue Fund to Solas the High Exorcist so that he can actually something useful with it instead of it sitting there, untouchable, gathering dust. || Wyn of Exile's End || Upheld 538 - 24
+|-
+| 7 || General || Rewarding to further the Pride of the Empire, 10 Thrones is requested for the prize purse for the "Pride of Holberg" public art competition to be awarded to Holberg's Painter, the one who instituted this competition, Leonora Albertina van Holberg. This competition is to create a public work of art in Anvil to inspire Pride in Imperial Citizens. || Tabor the Fool || Upheld 322 - 105
+|-
+| 8 || General || Rewarding 2 thrones to reward the winners of the "Beacon of Pride" Award. In order to help the growth of pride across the Empire. || Sokollu || Upheld 342 - 98
+|- 
+| 9 || Ambition || Recognition of Ratibor of Temeschwar as a truly virtuous man and Exemplar of Ambition. || Regina Caeli || Upheld  72 - 0
+|-
+| 9E || General || Recognition of Ratibor of Temeschwar not yet escalated to General Assembly || Regina Caeli || Not yet escalated
+|- 
+| 10 || Courage || Inquisition of Axhind Dom of Wintermark, for giving the command to cut down General Tyus of Highguard during the Winter Battle of year 378YE. || Eleanor De Rondell || Upheld 142 - 20
+|-
+| 12 || The Nine || Inquisition of Vahne of Wintermark. To see her virtuous reasons for becoming a candidate for the Throne. To be held in Wintermark on Saturday 5pm. || Beodun Snowlock || Upheld  56 - 0
+|-
+| 14 || General || Rewarding of 40 thrones to Elka, Cardinal of Pride to create a Synod mission in northern Jarm that will allow us to trade liao for crystal mana. This is a once in a lifetime opportunity to convert citizens of Jarm to The Way. || Eadread Owinson || Upheld 422 - 42
+|-
+| 15 || General || Rewarding Jorma Steelhail of the Saker 8 Thrones to spread the prosperous Auras known as "The Miracle in Hahnmark" to Skarsind. The 8 Thrones are required for the auras to be spread. || Spike || Upheld 413 - 88
+|-
+| 16 || General || Veto of the Senate motion to [[Allocate the Vigilant Swan]] Bourse position to the Imperial Orc nation. || Shadorak || Upheld 743 - 136 Greater Majority achieved.
+|-
+| 18 || General || Rewarding of 5 Thrones for Ferrero of the League for his Loyalty to the Way (and in particular to the Gatekeeper of Courage in her work). At his own personal cost his actions have meant that an object of dubious virtue is no longer a danger to the population of the Empire. || Agnieszkav || Upheld 322 - 164
+|-
+| 19 || Prosperity || Appointment of the Cardinal following the heroic death of Peter Keeper. || The Civil Service || Edythe Dunne of Wintermark was appointed
+|-
+| 20 || General  || Rewarding of 5 Thrones to Levitia of Endsmeet Spire of Urizen 5 Thrones for her Courage and Loyalty during a retreat from the field of battle 2 seasons ago. She stayed behind to heal a number of Imperial citizens, including two Highborn, and was captured and tortured by the Druj in view of the Sentinel Gate. She did not break and bears her scars with pride. || Asher of Felix's Watch || Upheld 440 - 42
+|-
+| 21 || Brass Coast || Revocation of General Manny i Sayap i Guerra of the Fire of the South due to the forsaking of duties. || Cristoff i Erigio i Ezmara
+|| Upheld 36 - 0
+|-
+| 23 || General || Rewarding the Orc Nation with the balance of the Virtue Fund as 2pm Monday for their countless acts of Virtue when fighting for and supporting the Empire as recognition of all they do for the Empire. Bloodcrow Ergot will hold this for them as a Bonesetter. || Irada Von Temeschwar || Upheld 441 - 188
+|-
+| 24 || Imperial Orc || Revocation of Irontide Bruk, the Advisor on Orc Affairs. || Chaplain Atla || Upheld  20 - 0
+|-
+| 25 || Imperial Orc || Revocation of Irontide Braka, General of the Summer Storm, for gross disloyalty to the Empire. Committed by the unnecessary withdrawal of the orc armies. || Stormcrow Thraka || Upheld 20 - 0
+|-
+| 26 || General  || Rewarding of 5 Thrones to Lady Eleanor de Rondell, the Inquisitor of Courage, for Courage Inquisitorial matters. || Isaac Carlino di Sarvos || Upheld 164 - 119
+|-
+| 29 || General || Inquisition of the Imperial Orc Assembly for their lack of Wisdom in revoking Irontide Bruk from his position as Advisor on Orc Affairs and Irontide Braka as General of the Summer Storm, as they were revoked for actions they had not taken, and lack of Vigilance for failure to confirm these actions. A lack of Courage for not confronting those they revoked. A lack of Loyalty for not consulting the orc people. A lack of Prosperity for leaving the Summer Storm leaderless. || Serrusto Caeli Rezia || Not Upheld 199 - 221 
+|-
+| 30 || Ambition || Recognition of Thrace as an Exemplar of Ambition. Benevolence - Sacrificed their life for the Rebellion. Legacy - Thrace's Boot Knife is an item of great worth. Inspiration - Imperial Orc Nation. Salvation - Responsible for the ending of slavery. || Hector de Rondell || Upheld 80 - 0
+|-
+| 30E || General || Escalation of Recognition of Thrace to the General Assembly || Hector de Rondell || Upheld 277 - 68
+|-
+| 31 || General || Rewarding 2 Thrones to Kai of the Citadel of Phoenix's Reach for Loyalty on the battlefield. He stayed close to the person he had been encouraged to guard constantly, but for one occasion: to withdraw and regather a larger force to rescue them and the line that they had fallen with. These actions were despite an Ambition to distinguish himself as a sentinel that led him to wish to place himself in places on the battlefield that are more conductive to recognition. || Anna-Valeria Cascade || Upheld 266 - 100
+|-
+| 38 || General || Rewarding 5 Thrones to Wilhelmina Fitztalbot of Tykes for her work to retrieve the bodies of the dead after Sunday’s battle at Reikos, ensuring the souls of Marcher fallen in particular are not impeded by their Hearth Magic in entering the Labyrinth. || Abaddon De Rondell || Upheld 311 - 40
+|-
+| 39 || The Nine || Inquisition of Irontide Bruk as a candidate for the Throne, at twelve noon on Monday at the Civil Service Hub. || Silas || Upheld 6 - 0
+|-
+| 40 || Vigilance || Inquisition of General Tanwyn Ankarien of the Magisterium of Urizen (at her own request) to prove her virtue in light of accusations made by "The Spider". To be conducted at the next summit. || Vitomir || Upheld  85 - 0
+|-
+|-
+|-
+|}
+
+==Statements of Principle==
+The Imperial Synod made the following Statements of Principle:
+
+{|
+| '''Number''' || '''Assembly''' || '''Statement of Principle''' || '''Priest''' || '''Outcome'''
+|-
+| 11 || Ambition ||The Assembly of Ambition believes the Virtue Fund should be used to fund ambitious projects in addition to rewarding virtuous deeds. || Antônio Raul Calogne di Trivento  || Upheld  54 - 0
+|-
+| 13 || Wintermark || The standard of Woven Rings Banner is an inspiration to Loyalty. It is a sign of our strength together, that the loyalty to each other as a nation is stronger than any curse.  || Veli Garwaltiosn || Upheld 112 - 0
+|-
+| 17 || Pride ||  The Assembly of Pride recognises the greatest work of magic of Imperial magicians in casting the permanent enchantment "Bound by the Common Cause" and recognises the Pride of all those who contributed crystal mana for this achievement. || Nikodemus || Upheld  72 - 0
+|-
+| 22 || Highguard || Highguard, as part of the Empire, should give to the Imperial Orcs recognition for their virtuous efforts on behalf of the Empire, and offer them material reward at least as large as the full output of the Vigilant Swan. We should prioritise conquering them a home of their own, as all Imperial Citizens should have. || Ephron || Upheld  98 - 27
+|-
+| 27 || Varushka || A patriarch or matriarch should be elected by the National Assembly. They will organise and chair meetings of the Varushkan National Assembly. || Nikolovich Drakov || Upheld 126 - 0
+|-
+| 28 || Varushka || That Chernobog of Varushka, for his courage on the battlefield, his prosperity in sharing with and strengthening his nation, his loyalty for carrying the Mark of the Wolves. For this and acting as an example to others he is to be commended.|| Vukomir || Upheld 136 - 0
+|-
+| 32 || General || An Exemplar is an individual demonstrating exceptional virtue, and fulfilling at least 4 of the 8 signs of the paragon, but without doctrinal status. While it may be the first step to transcendence, the Exemplar is defined above all by their capacity to inspire. || Yael of Felix's Watch || Upheld 339 - 30
+|-
+| 33 || Brass Coast || No individual or group has the right to sign a contract that is binding to individuals who are not yet born, as this is tantamount to slavery. || Soratio || Upheld  26 - 0
+|-
+| 34 || Prosperity || The Virtue Assembly of Prosperity, with the consent of the National Assembly of Wintermark, invites Soratio Seseer Del Toro to extend the spontaneous aura of prosperity known as the miracle of Hahnmark to all mines in that region and the adjacent region of Skarsind, using liao generously donated from the supply of Soratio Seseer Del Toro, Pendrad of Bjornholt and Jorma Steelhail of the Saker. || Ealstan || Upheld  64 - 0
+|-
+| 35 || Loyalty || The recognition of the virtuous acts, behaviour and conduct of Atla, Orc Chaplain of The Way, and her understanding and propagation of Loyalty within the Empire. || Lunetta Sanguineo || Upheld 131 - 10
+|-
+| 36 || General || The Gatekeepers Council feel very strongly that Imperial Orc Citizens should be recognised for their virtuous conduct and actions. As they are unable to experience a past-life vision through the allocation of a dose of Imperial Liao, we feel that they should be recognised for their Virtue by the appropriate assemblies. || Oberon Caeli Rezia di Tassato || Upheld 418 - 78
+|-
+| 37 || The Nine || The Assembly of Nine supports the creation of an embassy of the Sumaah Republic. || Elka Nadyanova Gremani || Upheld   7 - 0
+|-
+| 41 || Prosperity || That the Imperial Crown, in the absence of an Empress to wear it, should remain available to be seen and used by the citizens of the Empire to Inspire them to greater Virtue and for use in service to the Empire. We reject the Conclave's interdiction that the Imperial Crown be placed in the Conclave Vaults, as this would remove its availability to citizens, and magic going unused is unprosperous. || Edythe Dunne || Upheld  60 - 24 
+|-
+| 42 || General || Rewards from the Virtue Fund should be made with a public announcement or presentation ceremony. || Palladius || Upheld 264 - 48
+|-
+| 43 || Varushka || To recognise the outstanding loyalty shown by the Winterfolk to the Orcish nation by their benevolent offer of Skarsind as a home nation for the Orcs. || Rooslan Stanvich Prochnost || Upheld 116 - 0
+|-
+|}
+
+
+The Imperial Synod upheld all Statements of Principle raised at the Spring Equinox, 379YE.
+
+
+==Synod Funds==
+The following represents the Virtue Fund of the Synod:
+
+{|
+| ''Starting Value'' || 119 Thrones / 0 Crowns / 2 Rings / 5 liao ||
+|-
+| ''Income'' || 30 Thrones || The price paid in the Bourse Auction for the dose of True Liao
+|-
+| || 10 Thrones || Donation by Nebuchadnezzar
+|-
+| ''Rewards'' || 20 Thrones || Rewarding made to Achilles of Urizen.
+|-
+| || 5 Liao || Rewarding made to Solas of the Spire of the Waxing Sun
+|-
+| || 10 Thrones || Rewarding made to Leonora Albertina van Holberg.
+|-
+| || 2 Thrones || Rewarding made for the "Beacon of Pride" award.
+|-
+| || 40 Thrones || Rewarding made to Elka, Cardinal of Pride to create a Synod mission in northern Jarm.
+|-
+| || 8 Thrones || Rewarding made to Jorma Steelhail of the Saker.
+|-
+| || 5 Thrones || Rewarding made to Ferrero of the League.
+|-
+| || 5 Thrones || Rewarding made to Levitia of Endsmeet Spire
+|-
+| || 5 Thrones || Rewarding made to Lady Eleanor de Rondell.
+|-
+| || 2 Thrones || Rewarding made to Kai of the Citadel of Pheonix's Reach.
+|-
+| || 5 Thrones || Rewarding made to Wilhelmina Fitztalbot of Tykes
+|-
+| || 5 Thrones || Rewarding made to Imperial Chaplain Consular Hywel Summercrow
+|-
+| || 52 Thrones, 2 Rings|| Rewarding made to the Imperial Orc Nation.
+|-
+| ''Closing Value'' || 0 Thrones / 0 Crowns/ 0 Rings / 0 liao / 0 drake's eggs ||
+|}
+
+==Visionaries==
+The following individuals received visions of their past lives:
+* Clarice Novarion 
+* Sveta Stoneheart
+* Mari Linkforge
+* Baba Ana
+* Leonora Von Holberg
+
+
+[[Category: Synod]]
+[[Category: Synod Results]]
+[[Category: Synod Judgements]]
+[[Category:379YE Spring]]

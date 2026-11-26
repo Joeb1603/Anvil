@@ -1,0 +1,27 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Proposed: Morrow, Seconded: Skarsind ">To build a citadel in the region of Peregro, in the territory of Morrow, to stand watch over the border of Therunin where the Druj and vallorn hold sway. Also a disbursement of funds.</quote>
+==Overview==
+<div style="float:right; width: 180px; clear: left;">
+[[File:TowerJacks_Colour.png|link=387YE_Spring_Equinox_Military_Council_orders#Towerjacks]]</div>
+* Constructs a [[fortification]] in Peregro, Morrow
+* Passed
+* This motion received support from the [[Towerjacks]] following the Spring Equinox 387YE
+
+==Date==
+* Winter 386YE
+
+==Cost==
+* Standard costs apply
+* 80 white granite
+* 240 crowns
+* Twelve months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Fortification_in_Peregro}}
+==Outcome==
+* Creates a [[fortification]], [[Morrow#Quicksilver's_Flame|Quicksilver's Flame]], in Peregro
+* This Senate motion has been updated to create a fortification inline with the [[Rules_update_2026#Fortifications|rules update for 2026]].
+<!--
+The Ashen Hold
+Perched on the edge of an extinct volcanic caldera, The Ashen Hold stands as a testament to Urizen's mastery over fire and stone. Its heat resistant white granite battlements, etched with obsidian constellations of The Mountain and The Oak, house a garrison of six thousand sentinels and battlemages. The citadel's design channels geothermal energy to power its defences and sustain its inhabitants. A deep central chamber, known as the Flameheart, serves both as a strategic command centre and a place of meditation, symbolizing the fusion of martial prowess and enlightened thought. Its halls and galleries are adorned with murals depicting the history and philosophy of Urizen, serving as a constant reminder of the nation's enduring spirit. The Hold's elevated position offers a strategic vantage point over the border with Therunin and allows for swift communication via the Heliopticon network, ensuring rapid response to threats to Peregro.-->

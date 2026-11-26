@@ -1,0 +1,45 @@
+[[Category:Recent History]][[Category:378YE Winter]][[Category:Winds of Fortune]]
+==The Winds of War==
+The wars with the barbarian orcs continue. You can learn more [[378YE_Winter_Solstice_winds_of_war|here]].
+
+==Opportunities==
+Over the past three months, the following events have occurred which are of significance to the Empire and may require a response from her champions:
+
+===Boggarts in Morrow===
+Vermin from the realm of Night have been sighted in Morrow and could have an impact on the production of mana and herbs in this territory and potentially surrounding territories. There is more information regarding this infestation [[Boggarts in Morrow|here]].
+
+===Celebrations in Segura===
+With the Empire having fully restored Segura to the fold, there have been many celebrations. Imperial prognosticators have identified that the Synod, Senate and Bourse have the potential to capitalise on this sentiment. There is more information regarding this opportunity [[The Glorious Advance|here]]
+
+===Anarchy in Miekarova===
+Reports are coming in of acts of sabotage and disruption across Miekarova that appear to be the actions of a coordinated cult of Anarchists. This sabotage appears to be primarily directed at military units in an effort to disrupt the Imperial war effort. There is more information regarding this threat [[Anarchy in Miekarova|here]].
+
+===Friendly Rivalry===
+Owing to the deployment of military units from the two orc legions to the same location, there has been more contact between rank and file soldiers from each of the legions. This has generated a spirit of friendly rivalry and competition that the Imperial Synod could potentially capitalise on. There is more information regarding this opportunity [[Friendly rivalry|here]].
+
+==Events==
+The following represent significant events, sometimes of a magical nature, that do not have obvious solutions.
+===Prosperity in Miaren===
+As the days start to lengthen and Autumn turns inexorably into Winter, a subtle shroud of magic settles over the [[Navarr]] territory of [[Miaren]]. The first signs come when the [[herb garden|herb gardens]] produce an unexpected bounty of [[bladeroot]]. Then the workers in the [[mine|mines]] and [[forest|forests]] enjoy unexpected prosperity; this extra prosperity means there is more money being spent in the [[business|businesses]]. Crops in the [[farm|fields]] last longer both before and after harvest; meat smokes and salts easier. Some citizens turn to their [[congregation|guides]] to offer thanks for their unlooked-for comfort in the late-Autumn, while more suspicious individuals seek the advice of the priests to explain these events. Even [[military unit|soldiers]] whose home barracks are in Miaren enjoy additional success. Finally, the [[Navarr_magical_traditions|vates]] who tend the [[mana site|mana sites]] discover a small number of additional crystals to harvest.
+
+While the majority of effects are positive, it is noticeable that there is a cruel edge to the season as well as some unlooked for fortune. Weak animals and plants die in noticeably greater numbers; young children suffer from sleepless nights, complaining of nightmares; the eldest Navarr, those in their final years before they go to their final rest in the funeral groves, find it almost impossible to get to sleep, spending their days in tired exhaustion. The [[draughir]] suffer worst of all - those who dwell in the [[steading|steadings]] of Miaren, or pass through with [[striding|stridings]] find it increasingly difficult to connect emotionally to anyone outside their immediate circle of friends and family. There are a few unfortunate incidents in which a draughir lashes out at someone they see as encroaching on their territory - but the majority of the Navarr ''ghul'' manage to keep their instincts under control.
+
+'''Game Effect:''' Every personal resource owned by a Navarr character in Miaren gained an additional rank during the Autumn 378YE downtime. This resulted in additional production, and in the case of congregations will show as additional votes in the [[Synod]]. The vates have identified that for the three months following the Autumn Equinox, Miaren was subject to a Winter [[enchantment]] of magnitude 50. As the Winter Solstice draws closer, the magic started to weaken and fade.
+
+===The Strength of Tradition===
+Following incidents during the Autumn Equinox, an eerie influence has fallen over the people of Wintermark. In some halls, the [[Suaq]], [[Kallavesi]] and [[Steinr]] are starting to factionalise - arguments have broken out, and members of the three traditions are increasingly seeking the company of those who share their cultural beliefs. Those few halls where one tradition dominates the others seem to have suffered least from this supernatural influence - indeed, they seem to be prospering compared to their increasingly quarrelsome neighbours. Indeed, when surrounded only by members of their own tradition, people report feeling more comfortable and more confident.
+
+The growing rift is causing tension with the [[Wintermark military concerns#The Fist of the Mountains (Destroyed)|Fist of the Mountain]] and [[Wintermark military concerns#Green Shield|Green Shield]]. Some soldiers are actively forming banners only with members of their own tradition, and are slow to respond to the orders of commanders from different traditions. So far discipline is being maintained, but the situation is slowly worsening.
+
+No clear explanation has emerged for this spreading influence. Some fearmongers point to the appearance of three very distinct [[egregores]] within the nation as a sign of either an impending calamity or - and only the most paranoid give this any credence - the imminent collapse of the bond that has bound the Suaq, Kallavesi and Steinr for untold generations. Opinion is divided as to whether the egregore is a symptom of the chaos - or the malfunctioning cause.
+
+A more likely culprit than the egregore is the dark magic of the [[Thule]]. They have a vested interest in dividing the nation and destabilising the armies to speed the conquest of Wintermark. If this is the case, then presumably the wicked sorcery can be combated in some way - but any unified response is being made more difficult by the nature of the influence itself.
+
+'''Game Effect:''' Every citizen of the Wintermark nation who attends the event is under a magical effect called ''The Strength of Tradition''. We plan to include a card detailing this effect in everyone's pack, and newly created Wintermark characters should be able to collect a card from GOD when they make their character. These cards exist to clarify the roleplaying effects, and to provide something that can be examined with magic.
+
+===The Eldest Swamp===
+The [[Wintermark magical traditions#Mystics|mystics]] of the great [[Kallavesa]] marshes warn of what seems to be a threat unrelated to the difficulties of the wider nation - although the timing is suspicious. The [[mana site|mana sites]] tended by the mystics have become ... sluggish. Crystals are taking longer to form, and often appear dull and lifeless. In a few cases, the crystals have broken apart when handled, leaving only a handful of shards and dust. 
+
+Needless to say, many mystics are worried. The effect is definitely restricted to Kallavesa - mystics living in other parts of Wintermark have noticed no such decline in the quality of crystal mana - but is not just limited to mana sites harvested by the Kallavesi. Coupled with odd portents and visions, a number of mystics worry that there is something ''else'' going on in Kallavesa, something that is not a consequence of the [[#The Strength of Tradition|strengthening of tradition]] - something that significantly threatens the magical energy they wield in their powerful rituals. Unfortunately, the spreading parochialism affecting the rest of the nation is making it hard to get anyone other than fellow Kallavesa to listen.
+
+'''Game Effect:''' There is no game effect at this time, but if the situation worsens then it is likely to significantly reduce the amount of mana claimed from any [[mana site]] in the territory of Kallavesa.

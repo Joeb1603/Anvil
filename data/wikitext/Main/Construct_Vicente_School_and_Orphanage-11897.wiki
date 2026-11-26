@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Summer]]
+__NOTOC__
+<quote by="Announced by Heliodoro Vicente, Bearer of the First Imperial Wayleave">To commission the Vicente School and Orphanage, a mana ministry in Apulian, Apulus, Spiral. Cost: 12 mithril + 36 crowns (plus {{Black Plateau}} costs pending result of mandate regarding the Block). Nature: An orphanage with a focus on training orphans as reckoners and traders with the aid of reckoners and traders invited from across the city, and acting as a mana trading house. Title: Custodian of the Vicente School and Orphange. Appointed by the Senators of the League. Tenured League position. Revoked by the League National Assembly. Responsibilities: To shelter safe the broken and lost, and teach them how to reckon each cost.</quote>
+==Overview==
+* Constructs a [[ministry]] to purchase mana crystals in Apulus, [[Spiral]]
+* Announcement by the [[Bearer_of_an_Imperial_Wayleave|Bearer of the First Imperial Wayleave]]
+==Date==
+* Summer 386YE
+==Cost==
+* Standard costs apply
+* 12 mithril
+* 36 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Vicente_School_and_Orphanage}}
+==Outcome==
+* Now complete, the [[Custodian of the Vicente School and Orphanage]] will be available to appoint by unanimous decision of the League Senators for the first time at the Spring Equinox 387YE

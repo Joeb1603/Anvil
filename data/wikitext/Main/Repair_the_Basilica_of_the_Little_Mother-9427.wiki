@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:383YE Winter]]
+__NOTOC__
+<quote by="Announced  by Cesare Enzo Di Trivento, Bearer of an Imperial Wayleave">To fix the Basilica of the Little Mother</quote>
+
+==Overview==
+* Commissions the repair of the Basilica of the Little Mother as detailed [[Three_celebrations_and_a_funeral#Repairing_the_Basilica|here]]
+* Announcement
+
+==Date==
+* Winter 383YE
+
+==Cost==
+* Non-standard costs apply
+* at least 40 wains of white granite
+* at least 80 crowns in labour costs
+* at least 3 months to construct
+==Progress==
+{{CommissionProgress|Basilica_of_the_Little_Mother}}
+==Outcome==
+* Now that the commission is completed the [[Prelate of the Little Mother]] receives 15 doses of liao and 30 votes in the Synod each season.

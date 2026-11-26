@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:387YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Upwold, Seconded: Karov">Construct Yakholme Grange in Stockland, Upwold. A great work increasing taxation and investment in farms. Self funded by the Marches.
+</quote>
+==Overview==
+* Constructs a [[great work]] in Stock March, [[Upwold]]
+* Passed
+* More information can be found in the '''[[Wild_is_the_wind#Yakholme_Grange|Wild is the wind]]''' wind of fortune
+
+==Date==
+* Autumn 387YE
+
+==Cost==
+* Costs as per opportunity
+* 50 wains of weirwood
+* 25 wains of white granite
+* 225 crowns in labour costs
+* Six months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Yakholme_Grange}}
+==Outcome==
+* Once complete, raises the level of investment for farms in Upwold by one, establishes Stockland as the Empire's premier cattle market, and increases Faraden trade with the Marches

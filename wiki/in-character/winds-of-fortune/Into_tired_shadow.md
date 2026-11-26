@@ -1,0 +1,121 @@
+---
+title: Into tired shadow
+source: https://www.profounddecisions.co.uk/empire-wiki/Into_tired_shadow
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 384YE Autumn
+- Recent History
+- Mandate
+event: 384YE Autumn
+last_edited: '2026-01-16T09:41:42Z'
+revision: 132942
+in_character_boxes: 7
+---
+
+# Into tired shadow
+
+> *In-character text:*
+>
+> Dinah extended her hands to catch the warmth from the dying fire. It was warm in the camp, the summer heat had not relented even at night, but the miasma had a way of making you want to reach for the fire no matter what. Next to her Ira was running the whetstone down the length of her blade, honing it. Her mood seemed dour and morose. They hadn't seen any Druj for days now... but that absence only seem to make her friend more sombre with each passing pile that they marched.
+>
+> She'd wondered if Dinah was still concerned about General Cuth's strategy. She'd had her own doubts about this crazy plan to outmanoeuvre the Druj at first but after Reuben had anointed her, all her fears and doubts about their chosen path had fallen away. The blessing had opened her soul to Virtue, now all she felt was an instinctive certainty that their cause was the right one. In that moment it struck her as odd that Ira didn't feel the same.
+>
+> "You should cheer up a little Ira - we're going to win you know?" She tried to prod her friend to break her silent introspection. "Everyone says we've got them surrounded. They're trapped... caught between us and the Citadel Guard and the other armies."
+>
+> Ira nodded thoughtfully as if contemplating what Dinah had said, but she never stopped sweeping the stone along the sword's edge. For a while she said nothing but finally she put the stone down just for a moment.
+>
+> "I hear what people are saying. That we're going to win - that we've got them cornered. Complacency has blinded them to the dangers. A cornered animal will fight to the death. The Druj will be no different. We need to use this time to prepare for the battle to come..." She reached for the whetstone again, clearly keen to take her own advice.
+>
+> Dinah bit her tongue as Ira's voice trailed off. She loved her wife dearly, but sometimes she couldn't help but wonder if the Paths of Virtue were going to come between them one of these days. It was one thing to pursue different virtues, it was another thing entirely to fight side-by-side for three months under different auras...
+
+*[Image: There is a greater darkness than the one we fight. It is the darkness of the soul that has lost its way.](https://www.profounddecisions.co.uk/empire-wiki/File:Into_shadow.jpg)*
+
+## Overview
+
+For three seasons the [Highborn](../nations/highguard/Highguard.md) armies have committed themselves to a [crusading storm](../../mixed/government/military/Army_qualities.md#highborn), straining every sinew to wipe the [Druj](../barbarians/Druj.md) from the face of [Zenith](../nations/urizen/Zenith.md). It seems they will stop at nothing to ensure the salvation of the people of [Urizen](../nations/urizen/Urizen.md) who labour under the cruel tyranny of the pernicious barbarians. This season, their efforts have been boosted by the commitment of every [congregation](../../out-of-character/rules/Congregation.md) in the Empire, with [thousands of vials of precious liao sent to the front](To_ride_the_earth.md#an-inspiring-march) to ensure that Imperial soldiers can throw off the baleful effects of the [miasma](../barbarians/Druj_miasma.md).
+
+Even now, victory in Zenith is not assured, for the armies arrayed against them are formidable. Six full-strength Druj armies occupy Zenith reinforced by the [terrors they have unleashed](../winds-of-war/Carnival_of_rust.md#ghostlight-28battle-opportunity29) in [Proceris](../nations/urizen/Zenith.md#proceris). But the death of Karvor Eyepeel at the Solstice has thrown the Druj forces into disarray, and the Empire have been quick to capitalise on that. Now [in a stroke of strategic genius](../winds-of-war/The_darkest_road.md), the Druj have been utterly outmanoeuvred as the Imperial armies attacked from behind their lines, cutting them off. Trapped in Zenith, encircled by Imperial forces on all sides, the Druj armies are facing oblivion if they cannot escape and are attempting to flee.
+
+The question facing the Highborn Assembly is whether to press the advantage home. For there is another threat, one less martial but as every bit as terrible. The Druj have unleashed an unspeakable evil on Zenith, not just miasma towers; they have created tortured souls by the score and turned them loose to terrorise the people. Perhaps their hope was to cow them into submission, thinking it might make them easier to rule as they did in Ossium. Perhaps it was just the essential wickedness, a way to inflict further suffering simply because they could.
+
+## Death to the Druj!
+
+- **The Druj are preparing to flee Zenith**
+- **The Highborn Assembly could pass either or both of these mandates to focus Highborn zeal on attacking the Druj**
+
+The Highborn generals have shown an impressive display of unity as they single-mindedly take the war to the Druj in Zenith. Their forces have marched in lockstep, confronting the enemy with a single purpose, [their crusading storm firing the virtue of all who witness their zeal](Three_soldiers.md#crusade). Hundreds of Highborn souls have gone to the Labyrinth early, for there is a terrible price to be paid for such unwavering commitment to Virtue, but their sacrifice serves as an inspiration in the battle against the Druj and the Assembly could urge every Highborn citizen to commit themselves fully and shame those who turn aside from this battle against evil.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Despise the weakness that comes from pettiness and lack of vision. We send {named priest} with 25 doses of liao to urge every soldier to commit themselves to the coming battle in Zenith. Let us drive them into the Abyss. Death to the Druj!
+> >
+> > Synod Mandate, Highguard National Assembly
+
+If the mandate is enacted, then every Highborn [military unit](../../out-of-character/rules/Military_unit.md) from that nation that does not commit itself to supporting one of the armies fighting in Zenith will experience a two rank penalty to their effective [military strength](../../out-of-character/rules/Military_unit.md#military-strength). This effect will last for a single season, creating an impetus for the nation's independent military units to demonstrate the same commitment that the armies have shown. Acting together, they can surely drive the Druj from Zenith for good.
+
+But what happens next? The Empire have defeated the Druj countless times before. Each time the orcs have sued for peace, each time the Empire has turned their attentions elsewhere, each time the [orcs](../../mixed/world/Orc.md) of [the Mallum](../barbarians/The_Mallum.md) have regrouped and returned stronger than ever. How many times must this tragedy play out? How long must the world suffer the tyranny of the Druj? Perhaps now is the time to end this once and for all.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Consequences are the price of Ambition. We send {named priest} with 50 doses of liao to urge every Highborn soldier to commit themselves to the destruction of the Druj Empire. Let us take the fight to their heartland and destroy them utterly. Death to the Druj!
+> >
+> > Synod Mandate, Highguard National Assembly
+
+If this mandate is enacted, then for the next year all casualties inflicted by any Highborn army fighting the Druj will be increased by a fifth. However any Highborn army that does not find itself in battle against the Druj will suffer a 20% penalty to capture territory and any crusading storm order will not lead to a mandate if it is not against the Druj. It does not matter where the armies are fighting - Zenith, [the Barrens](../nations/dawn/The_Barrens.md), [Sarangrave](../nations/urizen/Sarangrave.md) - provided they are fighting against Druj forces.
+
+These two mandates are *not* in competition - they can be raised separately or in conjunction by the Highguard assembly.
+
+## Shadows of War
+
+- **The war has left a lingering evil in Zenith, if not checked this season the territory will gain the terrorised quality**
+- **The Highborn Assembly could pass a mandate to focus zeal on tearing out this evil before it puts down deep roots, preventing this from happening and allowing the territory to heal after the Druj are gone**
+
+As the tide of war turns against the Druj in Zenith, a soft rain falls in many parts. Its gentle touch brings new life, with new shoots sprouting from the hard earth, but only long enough for them to be trampled beneath the boots of soldiers as they march to the next battle. The weather is part of [a gentle enchantment](../../mixed/magic/rituals/Regrow_the_Land-s_Heart.md) cast in an attempt to heal some of the scars left by years of war. The problem here is that the war has not yet ended, it is still omnipresent. As any physick understands, the wound cannot heal until the patient rests. The enchantment at its best is subtle, causing the scars of war to recede and allowing new hope to spring up. When the terror of the Druj is finally gone then a casting might yet help, but the ritual cannot help ease the pain of war in a land that is still groaning under the miasma.
+
+Nor can it heal the minds of those who still face the terror of the Tortured Souls, or risk the dangers of the restless dead. Countless Winter spirits were allowed to run free in Zenith, infesting the many bodies that lie rotting in the stifling sun and causing the hungry dead to rise to seek out the flesh of the living. That would be bad enough, but black wraiths, the tormented souls of Imperial heroes whose spirits have been tortured and poisoned and driven mad with hatred and fear, stalk the land preying on anyone they can find. You cannot dull the pain of war in a territory that still labours under curses such as these.
+
+This situation threatens to become permanent if left unchecked. Even if the Druj are defeated, the miasma pillars will still be there, inflicting their baleful dolour over the minds of those who dwell here. Worse, with the Druj gone, the tormented souls and the ravenous Winter spirits will retreat to hide in dark places, only to emerge when the opportunity comes to prey on the weak. If the situation is not addressed now, Zenith will be subject to a lingering terror that remain indefinitely, until the Empire undertakes a major commitment to deal with the problem.
+
+No magic will wash away a taint such as this - it can only be purged by blade and spell wielded by mortal hands imbued with the burning light of Virtue. After the inspiration provided by the crusading storm unleashed by the Highborn armies, there is an opportunity to focus on the grim legacy of the Druj. To root out and destroy the evil before it can sink deep roots into the land. To save Zenith from this fate, Highguard could pass the following mandate.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Seek out the poison in your neighbour’s fields! We send {named priest} with 25 doses of liao to urge everyone to turn their focus to the miasma, the tortured souls and the restless dead that are the Druj's legacy in Zenith. Let us uproot this threat before it can spread.
+> >
+> > Synod Mandate, Highguard National Assembly
+
+If this mandate is enacted by the Highborn Assembly then the forces in Zenith will turn their attention away from attacking the retreating Druj armies and instead focus on tearing out their legacy before it can put down permanent roots. The armies will hunt down the tormented souls and put them to rest, seek out the cruel Winter spirits and banish them back to the realm from whence they came. All Imperial armies fighting in Zenith this season will inflict ten percent fewer casualties, but the territory will not gain the terrorised quality.
+
+**Note:** As clarified during the summit, this mandate would require at least one Highborn army to remain in Zenith during the coming season.
+
+## Competing Mandates
+
+The mandate in shadows of war is in competition with both of the other mandates presented here. Either the Highborn forces turn their ire on the Druj armies and attempt to destroy them or they seize this opportunity to restore the land, they cannot do both. As always, if multiple competing mandates are raised successfully, the one that achieved the highest margin of success will be the one that is considered to have been enacted.
+
+### Terrorised
+
+- **A terrorised territory is always considered to contain an opposing force, impeding movement through the territory and army resupply**
+- **The labour costs of any commission in Zenith will be increased by two-fifths due to the need for additional guards and fortifications**
+- **Any army that is fighting in a terrorised location will break if their military strength falls below 1,500 (or below 2,250 if they are large)**
+
+A territory that is *terrorised* is suffering under vile curses and malign threats that threaten and terrify any who linger there. Any Imperial army that is fighting in a terrorised location will break if their military strength falls below 1,500 (or below 2,250 if they are large), exactly as if they were fighting a cruel enemy. The territory is always considered to contain an opposing force that attacks any army that is in the territory. The threat is not large enough to inflict damage, but no [Army](../../out-of-character/rules/Army.md) can [move](../../out-of-character/rules/Army_orders.md#movement) through the territory - they must stop when they enter as if it were controlled by an enemy. In addition, no Imperial army can benefit from [natural or emergency resupply](../../out-of-character/rules/Casualties.md#natural-resupply) while in the territory.
+
+Citizens living in a terrorised territory are fearful and oppressed by whatever is causing the terror. While individual citizens will not suffer economic penalties from the effects, the labour costs for any [commission](../../mixed/commissions/Commission.md) in the territory - including [fortifications](../../out-of-character/rules/Fortification.md) and [armies](../../out-of-character/rules/Army.md) - are increased by two-fifths representing the need for additional guards and security measures.
+
+Removing the terrorised quality from the territory will require a major undertaking by the Empire.
+
+## Further Reading
+
+- [The darkest road](../winds-of-war/The_darkest_road.md) - The wind of war detailing the campaign in Zenith this season
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [384YE Autumn](../../indexes/by-category/384YE_Autumn.md), [Recent History](../../indexes/by-category/Recent_History.md), [Mandate](../../indexes/by-category/Mandate.md)

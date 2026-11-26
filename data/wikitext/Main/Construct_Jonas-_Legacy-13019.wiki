@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:387YE Summer]]
+__NOTOC__
+<quote by="Announced by Bertrand, Bearer of an Imperial Wayleave">To construct a tower called Jonas' Legacy in Elvette, Semmerholm. The tower is to be the residence of, and create the title of, Emerald Arcanist. Their role will be to advise the Vallornguard on magical matters and monitor the border with Brocéliande. The titleholder will receive a payment of nine mana crystals each season distilled from a network of mithril bowls built into the tower. The title will be Imperial and elected annually in Autumn by majority vote of the Vallornguard. 10 mithril and costs to be paid by the Castellan of Spiral Castle.</quote>
+==Overview==
+* Constructs a [[sinecure]] in Elvette, Semmerholm
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+
+==Date==
+* Summer 387YE
+
+==Cost==
+* Standard costs apply
+* 10 mithril
+* 30 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Jonas%27_Legacy}}
+==Outcome==
+* Now complete, the [[Emerald Arcanist]] will be available to be appointed by vote of the [[Vallornguard]] for the first time at the Autumn Equinox 387YE

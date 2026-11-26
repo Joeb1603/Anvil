@@ -1,0 +1,16 @@
+<ic>To accept the terms of the peace treaty with the Grendel Salt Lords.<br><br><i>Proposed by Segura, Seconded by Mitwold.</i></ic>
+{{CaptionedImage|file=GrendelTreaty.png|caption=The Grendel peace treaty|align=right|width=300}}
+===Overview===
+* A delegation from the [[Grendel]] negotiated a treaty.
+* The treaty was presented to the Senate.
+
+===Date===
+* Defeated Summer 379YE
+
+===Campaign Outcome===
+* The terms of the treaty were not accepted.
+* The [[Golden Sails|Grendel delegation]] had already left Anvil; it is not clear if they are aware the treaty has been declined.
+
+[[Category:Failed Senate Motion]]
+[[Category:379YE Summer]]
+__NOTOC__

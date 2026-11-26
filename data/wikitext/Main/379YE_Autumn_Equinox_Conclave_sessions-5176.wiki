@@ -1,0 +1,330 @@
+<!-- Text compiled by Chris Allen -->
+The following is a summary of Conclave proceedings during the Autumn summit of 379YE.
+
+==The Imperial Titles of the Conclave==
+The full list of Imperial Titles held in the Conclave at the end of the Autumn Equinox, 379YE, can be found under [[Archive:379YE Autumn Equinox Imperial titles|379YE Autumn Equinox Imperial titles]]
+
+The following Imperial Titles were appointed by the Conclave during the Autumn Equinox, 379YE:
+
+* '''Simargl''' became the new [[Dean of the Lyceum]]
+* '''Alcuin''' became the new [[Archmage]] of Spring
+* '''Gregor''' became the new [[Grandmaster]] of the [[Shuttered Lantern]]
+
+==Conclave Addresses==
+At the Summit, the following addresses were placed on the Conclave agenda:
+
+{|
+| '''Day''' || '''Speaker''' || '''Nature of Address'''
+|-
+| Fri || Aquillian || Winter Eternal Arcane Projection
+|-
+| Fri || Sirus, Archmage of Winter || Matters pertaining to the realm of Winter
+|-
+| Fri || Corvus, Archmage of Summer || Summer Matters
+|-
+| Fri || Maurice de Gauvain || Realm of Awesome
+|-
+| Fri || Tabor the Fool || Roshanwe and her Herald
+|-
+| Fri || Tiberius Echostorm || Cursing Imperial Territory
+|-
+| Fri || Mari Linkforge, Archmage of Day || Document received from Phaleron last summit
+|-
+| Fri || Solsetur Fjellrevening || On military scrying
+|-
+| Fri || Olle Markusson || Divination magic
+|-
+| Fri || Iulian Shatterspire, Archmage of Spring || A Spring Matter
+|-
+| Fri || Herald of Sadogua || The failings of the Grandmasters
+|-
+| Sat || Vahne Korppi || Regarding the Throne
+|-
+| Sat || Camillius of Endsmeet || The catalogue of Arcane Projections
+|-
+| Sat || Warmage Vaan || Apologies to the Conclave
+|-
+| Sat || Meltar of Saker || All the Eternals are very powerful. Obviously.
+|-
+| Sat || Solsetur Fjellrevening || On military scrying
+|-
+| Sat || Mari Linkforge, Archmage of Day || Matters of Day
+|-
+| Sat || Mari Linkforge, Archmage of Day || On the origin of the Highborn
+|-
+| Sat || Neb, Adviser on the Vallorn || Cadaver. He's a naughty sausage.
+|-
+| Sat || Reed, the Reckoner of Hours || Results of Audit
+|-
+| Sat || (Scribe's note: This name was indecipherable) || Peace with the Whisper Gallery
+|-
+|}
+
+==Conclave Declarations==
+The Conclave made the following Declarations:
+
+{|
+| '''Day''' || '''Speaker''' || '''Declaration''' || '''Outcome'''
+|-
+| Fri || Pavel, Archmage of Night || Amity - Lashonar || PASSED
+|-
+| Fri || Corvus, Archmage of Summer || Concord - The Conclave recognises Wintermark's sacrifice with the loss of the Silver Peaks || PASSED
+|-
+| Fri || Corvus, Archmage of Summer || Concord - The Conclave condemns prejudice against Briars based on superstition and ignorance || PASSED
+|-
+| Fri || Maurice de Gauvain, Archmage of Autumn || Amity - Reed, Reckoner of Hours, Herald of Ephisis || PASSED
+|-
+| Fri || Rosamund Holt || Amity - Yaw'nagrah || PASSED
+|-
+| Fri || Vaan, Warmage || Concord - The Conclave thanks Atte Arrowtongue for speaking to Conclave and acknowledges him as a candidate for Empress || PASSED
+|-
+| Fri || Vaan, Warmage || Concord - The Conclave thanks Lisabetta Giacomi von Holberg for speaking to Conclave and acknowledges her as a candidate for Empress || PASSED
+|-
+| Fri || Lord William Dromond || Concord - This Conclave believes the use of curses like Unfettered Anarchy to directly impede the holder of an Imperial position in fulfilling their duties to be irresponsible || FAILED
+|-
+| Sat || Haizea I Riqueza || Amity - Leviathan || FAILED
+|-
+| Sat || Vaan, Warmage || Concord - That the Senate should create a Conclave position whose remit is to co-ordinate scrying || PASSED
+|-
+| Sat || Corvus, Archmage of Summer || Concord - The Conclave condemns those citizens committing illegal piracy against Jarm, offers the Princes apologies for piracy that has been committed, and encourages discourse for the betterment of magicians of both nations || PASSED
+|-
+| Sat || Kalini Otecovna Zlata || Endowment - Eternal Gambit covenstone to Kalini of the Tangled Thorns to be handed back to Conclave by the start of the next gathering || PASSED
+|-
+| Sat || Ieuan Linkforge || Sorcery - Farran Duskbourne, for possession of an item belonging to Wendigo || PASSED
+|-
+| Sat || Gregor, Grandmaster of the Shuttered Lantern || Enmity - The Whisper Gallery (Scribe's note: this motion was placed under the Veil of Night) || PASSED
+|-
+| Sat || Anwar I Deltoro I Riquezza || Dissemination - Crystalline Focus of Aesh, to fulfil the treaty with the Thule || PASSED
+|-
+| Sat || Sumi, Herald of Sadogua || Concord - That the bat-faced herald is a danger to Sadogua's throne || PASSED
+|-
+| Sat || Maurice de Gauvain, Archmage of Autumn || Neutrality - Reed, the Reckoner of Hours || PASSED
+|-
+| Sat || Rosamund Holt || Candidacy - Archmage of Spring || FAILED
+|-
+| Sat || Alcuin Shatterspire || Candidacy - Archmage of Spring || PASSED
+|-
+| Sat || Domova Otecovna Zlata || Candidacy - Archmage of Spring || FAILED
+|-
+| Sat || Isca Bont Goch || Candidacy - Archmage of Spring || FAILED
+|-
+| Sat || Simargl || Candidacy - Deanship of the Lyceum || PASSED
+|-
+| Sat || Eudaemon of Halcyon || Candidacy - Deanship of the Lyceum || FAILED
+|-
+| Sat || Nikolai || Candidacy - Deanship of the Lyceum || FAILED
+|-
+|}
+
+==Conclave Gambits==
+The Conclave made the following Gambits:
+
+{|
+| '''Day''' || '''Proposer''' || '''Intended Use of Resources''' || Mana || Ilium || Am || BL || Dr || GI || IG || Or || TJ || We || ''Funded'' || CA || GP || RS || SP || SL || UM || Indep
+|-
+| Fri || Corvus, Archmage of Summer || 5 Ilium to Sermersuaq in recognition of Wintermark's sacrifice of the Silver Peaks || - || 5 || - || - || - || - || - || - || - || - || YES || 1 || 1 || 1 || 1 || - || 1 || -
+|-
+| Fri || Pavel, Archmage of Night || Military Scrying || 56 || - || - || - || - || - || - || - || - || - || YES || - || 10 || 11 || 8 || 20 || 7 || -
+|-
+| Fri || Mari Linkforge, Archmage of Day || Curing 2 armies of the Reikos Flux || 100 || - || - || - || - || - || - || - || - || - || YES || 4 || 5 || 25 || 25 || 16 || 25 || -
+|-
+| Fri || Iulian Shatterspire, Archmage of Spring || Rivers of Life || 25 || - || - || - || - || - || - || - || - || - || YES || - || 8 || 5 || 4 || 4 || 4 || -
+|-
+| Sat || Vaan, Warmage || To purge miasma from the battlefield tomorrow || 50 || - || - || - || - || - || - || - || - || - || YES || 15 || - || 8 || 10 || 10 || 7 || -
+|-
+| Sat || Corvus, Archmage of Summer || Strategic Day magic for the Imperial war effort || 85 || - || - || - || - || - || - || - || - || - || YES || 15 || 11 || 14 || 10 || 20 || 15 || -
+|-
+| Sat || Mari Linkforge, Archmage of Day || Repay the strategic fund || 80 || - || - || - || - || - || - || - || - || - || YES || 18 || 30 || 0 || 12 || 10 || 10 || -
+|-
+| Sat || Iulian, Archmage of Spring || Spring College || 85 || - || - || 10 || - || - || 30 || - || 10 || - || YES || 14 || - || - || 5 || 10 || 21 || -
+|-
+|}
+
+Scribe's Note: The final gambit by Iulian also requested 6 Ilium. However, records indicate this Ilium was returned to the Conclave.
+
+==Order Strengths==
+The strengths of the six Orders at the Conclave this summit were as follows:
+
+{|
+| '''Order''' || Friday Strength || Saturday Strength || '''Total Strength'''
+|-
+| Sevenfold Path || 21 || 16 || 37
+|-
+| Rod & Shield || 17 || 14 || 31
+|-
+| Celestial Arch || 14 || 17 || 31
+|-
+| Golden Pyramid || 17 || 7 || 24
+|-
+| Shuttered Lantern || 20 || 24 || 44
+|-
+| Unfettered Mind || 24 || 20 || 44
+|-
+|}
+
+
+==Order Vaults==
+The contents of the Order Vaults at the beginning and end of Conclave this summit were as follows:
+
+===Celestial Arch===
+{|
+| '''Material''' || Beginning || End
+|-
+| Mana || 87 || 35
+|-
+| Ilium || 4 || 3
+|-
+| Ambergelt || 1 || 1
+|-
+| Beggar's Lye || 4 || 0
+|-
+| Dragonbone || 4 || 4
+|-
+| Green Iron || 0 || 0
+|-
+| Iridescent Gloaming || 24 || 14
+|-
+| Orichalcum || 3 || 4
+|-
+| Tempest Jade || 18 || 18
+|-
+| Weltsilver || 0 || 0
+|-
+|}
+
+===Shuttered Lantern===
+{|
+| '''Material''' || Beginning || End
+|-
+| Mana || 110 || 30
+|-
+| Ilium || 3 || 3
+|-
+| Ambergelt || 0 || 0
+|-
+| Beggar's Lye || 0 || 0
+|-
+| Dragonbone || 2 || 2
+|-
+| Green Iron || 0 || 0
+|-
+| Iridescent Gloaming || 2 || 2
+|-
+| Orichalcum || 3 || 4
+|-
+| Tempest Jade || 21 || 11
+|-
+| Weltsilver || 13 || 13
+|-
+|}
+
+===Sevenfold Path===
+{|
+| '''Material''' || Beginning || End
+|-
+| Mana || 117 || 48
+|-
+| Ilium || 5 || 4
+|-
+| Ambergelt || 0 || 0
+|-
+| Beggar's Lye || 14 || 9
+|-
+| Dragonbone || 16 || 16
+|-
+| Green Iron || 0 || 0
+|-
+| Iridescent Gloaming || 24 || 24
+|-
+| Orichalcum || 4 || 5
+|-
+| Tempest Jade || 0 || 0
+|-
+| Weltsilver || 0 || 0
+|-
+|}
+
+===Rod & Shield===
+{|
+| '''Material''' || Beginning || End
+|-
+| Mana || 63 || 0
+|-
+| Ilium || 4 || 3
+|-
+| Ambergelt || 0 || 0
+|-
+| Beggar's Lye || 10 || 10
+|-
+| Dragonbone || 12 || 12
+|-
+| Green Iron || 0 || 0
+|-
+| Iridescent Gloaming || 1 || 1
+|-
+| Orichalcum || 14 || 15
+|-
+| Tempest Jade || 3 || 3
+|-
+| Weltsilver || 0 || 0
+|-
+|}
+
+===Golden Pyramid===
+{|
+| '''Material''' || Beginning || End
+|-
+| Mana || 118 || 54
+|-
+| Ilium || 7 || 6
+|-
+| Ambergelt || 18 || 18
+|-
+| Beggar's Lye || 16 || 16
+|-
+| Dragonbone || 1 || 1
+|-
+| Green Iron || 0 || 0
+|-
+| Iridescent Gloaming || 11 || 11
+|-
+| Orichalcum || 18 || 19
+|-
+| Tempest Jade || 0 || 0
+|-
+| Weltsilver || 0 || 0
+|-
+|}
+
+===Unfettered Mind===
+{|
+| '''Material''' || Beginning || End
+|-
+| Mana || 85 || 17
+|-
+| Ilium || 3 || 2
+|-
+| Ambergelt || 0 || 0
+|-
+| Beggar's Lye || 4 || 3
+|-
+| Dragonbone || 3 || 3
+|-
+| Green Iron || 0 || 0
+|-
+| Iridescent Gloaming || 30 || 10
+|-
+| Orichalcum || 2 || 3
+|-
+| Tempest Jade || 24 || 24
+|-
+| Weltsilver || 12 || 12
+|-
+|}
+
+==Campaign Updates==
+* 10 Thrones provided by Juha, the Cave Spider, to pay for the Thule ritual text
+
+[[Category: Conclave]]
+[[Category: Conclave Sessions]]
+[[Category: 379YE Autumn]]

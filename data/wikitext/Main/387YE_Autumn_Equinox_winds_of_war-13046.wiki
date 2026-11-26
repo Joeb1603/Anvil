@@ -1,0 +1,275 @@
+[[Category:Winds of Fortune]][[Category:387YE Autumn]][[Category:Recent History]][[Category:Military Council]][[Category: Winds of War]]
+<div style="float:left; width: 500px; clear: left;">{{CaptionedImage|file=Upon the precipice.jpg|align=left|caption=It's a dangerous business, going out your door.|width=500}}</div>
+==Overview==
+Over the last three months, Imperial forces have engaged in military campaigns. Sometimes those engagements have been wide-ranging and dramatic, other times they have been more sedate. Where there has been dramatic action, or where there are [[opportunity|opportunities]], we've given a Wind of War its own page; other military actions are discussed here. 
+
+As always, how much or how little of this information you choose to know in character is up to you. Part of the purpose of Winds of War and the [[387YE_Autumn_Equinox_winds_of_fortune|Winds of Fortune]] is to make players aware of things their characters ''should'' know, based on what their roleplaying says they have been doing, and to maintain the Empire as a living, breathing place where all kinds of events take place beyond the scope of [[Anvil]].
+
+It should go without saying that we ask everyone to abide by the rules about [[Online_roleplaying|online roleplaying]] with regard to the military campaign. It's important that the key in-character activity of the Empire world takes place at events. The game is busier and better if everything that can happen in the field, does happen in the field. Military planning and political discussions should happen at events. For this reason, we generally discourage too much downtime roleplaying between events and put strict limits on what can be done online, particularly using our forums and Facebook groups.
+
+All that said, we now present a summary of the key military activity in the Empire - both with links to the expanded Wind of War pages and notes about other important things that have happened that didn't need a full battle campaign write-up.
+</table>
+{| class="wikitable sortable mw-collapsible" style="width:400px; float: right; margin: 10px;"
+|-
+! Conflict !! Wind
+|-
+| [[Mournwold]] || [[Because they must]]
+|-
+| [[Bregasland]] || [[So our path is laid]]
+|-
+| [[Mareave]] || [[Lines of care and sorrow]]
+|-
+| [[Redoubt]] || [[To ruin]]
+|-
+| [[Therunin]] || [[Songs like trees]]
+|-
+| [[Sarvos]] || [[Those that break a thing]]
+|-
+| [[Sarangrave]] and [[Zenith]] || [[Even darkness must pass]]
+|-
+|}
+
+==Over Rock and Under Tree==
+After a long, hot Summer, Autumn seems to come creeping in like a thief stealing a few minutes from each day until suddenly here we are. The  green leaves are unaware that they will soon begin to turn a riot of colours, fire on the branches, then in falling die and rest as the promise of the year to come. The trees know, though. They have seen it all before. And the rocks... oh the memory of the rocks. They know that nothing changes and nothing stays the same and sure as day follows night, people will fight and fall. Just as the leaves do.
+
+Here we are in the [[Mournwold]], where there are golden harvests to be gathered from field and hill and where the last beats of the war drum sound. The [[Tusks]] lower their heads, and the [[Burning Falcon]] laugh, and the battle is joined. The champions of Jarl Haakon hold fast to their fortress, and it will all come down to whose resolve is stronger. In the end, [[Mournwold#Landskeeper's_Bulwark|Landskeeper's Bulwark]] is breached, and the Jotun fall, and only Imperial [[Summer magic]] saves the [[fortification]] from following them into darkness. The Mournwold is now, once more, entirely in the hands of the Marchers.
+
+To the north of Mournwold, in the marshes of [[Bregasland]], the [[Strong Reeds]] play a lethal game of cat-and-eel with the Lion of the North - the army of the Queen of Kalsea herself. The barbarians seek to root out the Marcher army, who have been a thorn in their side for the last year. At the same time, champions raid eastward into [[Mitwold]], seeking both to assail Marcher pride and test the lay of the land and the temper of the defenders.
+
+To the west, a massive host of Jotun sweeps east through [[Liathaven]]. The Empire's armies, however, are not there to face them. Clearly suspecting a ruse, the Jotun smash against the walls of ''Schogsfestnir'' with furious force. A number of Imperial captains had chosen to support the garrison, but they were no match for the eight armies arrayed against them. The fortification - one the Jotun themselves built - is shattered. The defenders are forced to flee before the Jotun host, and Imperial mercenaries must scatter to Kahraman and Mournwold or face the Choice (or, for the Navarr among them, summary execution). The Jotun do not stop until the entirety of Liathaven is under their control once again, and all trace of Imperial presence is rooted out.
+
+The [[Grendel]] have been absent for several months, busy with their own concerns, but as the Summer Solstice fades they return with a vengeance. Armies march into southern [[Mareave]], welcomed with open arms by the sept of the Brine Turtles. At the same time, a massive armada of ships and soldiers assaults the coast of [[Redoubt]], capturing the [[Urizen]] port-city of Elos. Only the courageous sacrifice of the [[Fist of the Mountains]] prevents them from destroying the town and potentially changing the face of the coast for miles around.
+
+It is not just the Grendel who are a threat to the southern nations of the Empire; the [[Children of Wrecks]] launch a ''second'' attack against the shores of [[Sarvos]], one which fares barely better than their last attempt. Yet this time they fight not only the garrisons of [[the League]], but also the [[corsair|corairs]] of the [[Red Wind Corsairs|Red Wind]] who are in the process of taking to the sea. The battle is fierce and indecisive.
+
+And then we come to the east, where the Empire fights the [[Druj]] - and the legacy of the Druj. The orcs of [[the Mallum]] have unleashed the [[vallorn]] of [[Therunin]], and two Imperial armies fight to hold it back with the support of thousands of captains and adventurers. Yet it is to the [[Sarangrave]] that all eyes turn, to the ongoing conquest of the southern [[territory]] - or perhaps its liberation depending on whom one asks. The Druj are in disarray, but a decisive conclusion is still far from forgone...
+
+===Schogsfestnir (Outcome)===
+* '''Any player whose character was at Schogsfestnir will find a lingering wound in their pack
+* '''These characters may also choose to take part in a pre-event conjunction
+Any player who either assigned their resource to support Schogsfestnir or who has a personal resource in Liathaven can choose to enter play at the event through the Sentinel Gate. If you wish to time in at the event as part of this skirmish, please email [mailto:plot@profounddecisions.co.uk plot@profounddecisions.co.uk] to let us know by the '''5<small>th</small> of September.''' This encounter will be a '''[[Accessibility#Combat_Highly_Likely|Combat Highly Likely]]''' and there is a high likelihood that players will be required to move through dense or uneven terrain. Everyone who has opted into starting the event this way must come to the Monster tent before 17:30 ready to time in at 18:00.
+
+Each character whose military unit supported Schogsfestnir will find a lingering wound in their pack that will need treatment during the event. These wounds represent injuries received either in the attack on the fortification or in the pell-mell flight out of Liathaven.
+
+==Battle opportunities==
+Imperial prognosticators have identified several possible [[Sentinel_Gate#Major_Conjunctions|major conjunctions]] of the [[Sentinel Gate]] at the coming summit. The [[Military Council]] will [[muster]] on Friday night, and the [[general|generals]] will select two of them to be taken up by Imperial heroes. At the moment the full details of these opportunities are not clear; more information will be provided nearer to the event.
+
+All battle opportunities are [[Accessibility#Combat_Highly_Likely|Combat Highly Likely]] environments.
+<table><td style="background-color: LightGray;">'''Territory'''</td><td style="background-color: LightGray;">'''Opportunity'''</td><td style="background-color: LightGray;">'''Location'''</td><td style="background-color: LightGray;">'''Opposition'''</td><td style="background-color: LightGray;">'''Day'''</td><td style="background-color: LightGray;">'''Learn More'''</td><td style="background-color: LightGray;">'''CS Briefing'''</td>
+<tr><td>[[Sarangrave]]</td><td>Claim Whisperwood</td><td>''Uklead Groves'', Whisperwood</td><td>Druj</td><td>Saturday</td><td>[[Even_darkness_must_pass#Battle_Opportunity_:_To_Deal_Out_Death_in_Judgement|To Deal Out Death in Judgement]]</td><td>[[:file:To Deal Out Death in Judgement.pdf|PDF Link]]</td></tr>
+<tr><td>[[Bregasland]]</td><td>Intervene for the Strong Reeds</td><td>''Leakey Moss'', Grey Fens</td><td>Jotun</td><td>Saturday or Sunday</td><td>[[So_our_path_is_laid#Battle_Opportunity_%3A_How_Will_They_Rise_Up%3F|How Will They Rise Up?]]</td><td>[[:file:How Will They Rise Up.pdf|PDF Link]]</td></tr>
+<tr><td>[[Redoubt]]</td><td>Protect the Tower of Light and Shadow</td><td>''Tilphussian Approach'', Naris</td><td>Grendel & Winter Husks</td><td>Saturday or Sunday</td><td>[[To_ruin#Battle_Opportunity_:_All_That_is_Gold|All That is Gold]]</td><td>[[:file:All That is Gold.pdf|PDF Link]]</td></tr>
+<tr><td>[[Therunin]]</td><td>Disrupt the Ettercap Nest</td><td>''Thorngroves'', Peakedge Song</td><td>Vallorn</td><td>Sunday</td><td>[[Songs_like_trees#Battle_Opportunity_:_With_Doom_We_Come|With Doom We Come]]</td><td>[[:file:With Doom We Come.pdf|PDF Link]]</td></tr>
+</table>
+
+{| class="wikitable sortable" style="width:300px; float: right; margin: 10px;"
+|-
+! Nation !! Force Weight
+|-
+| Brass Coast || 16
+|-
+| Dawn || 60
+|-
+| Highguard || 25
+|-
+| Imperial Orcs|| 5
+|-
+| League || 22
+|-
+| Marches || 30
+|-
+| Navarr || 61
+|-
+| Urizen || 12
+|-
+| Varushka || 16
+|-
+| Wintermark || 66
+|}
+The sides for the battles will be chosen by the generals in the [[Muster]] of the [[Military Council]] on Friday night. Each of the two battles must have at least '''152''' and at most '''161''' force weight sent on it.
+===Battle participation===
+If you have your own [[orc]] mask please do bring it along as we're keen to ensure we can field a force predominantly comprised of barbarian orcs. If you are unable to wear a mask, then all battle opportunities have limited roles for human barbarian combatants and low-combat roles such as healers, support mages, artisans, messengers and attendants. Player [[Monstering_a_battle#Elite_Monster_Units|elite monster units]] (EMUs) are expected to monster as their barbarian orc units regardless of the battle opportunity, and should not include human combatants.
+
+* '''The Sarangrave opportunity involves forces composed primarily of Druj orc fighters'''
+We ask the majority of player volunteers to take on the roles of Druj orcs as normal. If you have your own [[orc]] mask, please do bring it along as we're keen to ensure we can field a force predominantly comprised of Druj orcs. You can help by wearing leather or plate armour you have, as well as any iconic Druj weaponry, particularly swords, spears and great weapons, as well as bows of all types. You can find out more about the iconic Druj look [[Druj_look_and_feel|here]], but the key element for portraying the Druj is a mantle and ragged material layers that echo natural greens, browns, greys, and black, with occasional bright accent colours as their iconic look.
+
+* '''The Bregasland opportunity involves forces of Jotun orc warriors'''
+We ask the majority of player volunteers to take on the roles of Jotun orcs as normal. You can help by wearing any Jotun, Marcher, or Wintermark-style kit or armour you have, as well as any iconic Jotun weaponry, particularly axes, maces, and circular shields. You can find out more about the iconic Jotun look [[Jotun_look_and_feel|here]], but the key element for portraying the northern Jotun is leather and fur over mail as their iconic look.
+
+Due to the nature of this battle there will be ''_very_'' limited numbers of human yegarra roles, available to those who are unable to wear the orc masks.'''
+
+* '''The Redoubt opportunity involves forces composed primarily of Grendel orc soldiers, as well as winter husks'''
+We ask the majority of player volunteers to take on the roles of Grendel orcs as normal, with options for monstering as winter husks. You can help by wearing leather or plate armour you have, as well as any iconic Grendel weaponry, particularly swords, spears, and bows of all types. You can find out more about the iconic Grendel look [[Grendel look and feel|here]], and the key elements for portraying the Grendel are a light coloured base layer, with mantles, shoulder capes, wraps and other purple clothing and other bright colours as their iconic look.
+
+Due to the nature of this battle there will be additional roles for winter husks, available to those unable to wear the orc masks or wanting a change from normal orc monstering. Suitable kit for these would be [[The League look and feel|League]], [[Wintermark look and feel|Wintermark]], or [[Urizen look and feel|Urizen]], but be aware that it is not possible to use any ranged weapons as a husk. Portraying a Winter husk will involve some makeup, but will not involve wearing a mask.
+
+* '''The Therunin opportunity involves forces composed primarily of vallornspawn husks'''
+We ask the  player volunteers to take on the roles of vallornspawn. You can help by wearing any armour you have, tattered clothing, and any weapons you have. Due to the nature of vallornspawn it will not be possible to use any ranged weapons during this battle. You can find out more about vallornspawn [[Vallornspawn husk|here]].
+
+'''IMPORTANT''' - we will '''not''' be reusing any orc masks to players for these battle opportunities. Our orc masks will only be used once this event and then washed ready for the next event. We are continuing the provision of battle opportunities with non-orc enemies until such a time as we have sufficient masks to run two fully orc-masked battles.
+
+==Conjunctions==
+The [[Sentinel Gate]] also allows smaller groups of Imperial citizens to reach locations all over the Empire where their intervention might change the course of events. Many of these ''[[Sentinel Gate#Conjunction|conjunctions]]'' involve combat, but there are also a variety of other opportunities presented by the magic of the Gate.  
+
+For most conjunctions, the Civil Service has identified the Imperial titles that are the most appropriate to take overall responsibility for ensuring that a response is organised. Whilst the individual has been named by the Civil Service, there is no legal requirement for them to coordinate a response or travel on the conjunction. They may delegate oversight to another individual of their choosing. As always, Imperial war scouts will be on hand at the Sentinel Gate to provide further information to any citizens wanting to learn more. They can provide updates on the barbarians' goals, guidance on how to engage the enemy troops or advice on how to avoid casualties and return back to Anvil in safety.
+
+Sometimes it is necessary for us to make small adjustments to the timing or size of encounters at the time of this publication and when an encounter runs at an event. Details for the conjunctions on Friday will be finalised on Friday afternoon of the event before time-in (18:00) whilst details for the conjunctions on Saturday will be finalised on Saturday before time-in (10:00). Please check the details of any conjunction you are interested in as soon as possible to ensure that you have the full and up-to-date information; it might also be sensible to check again shortly before the planned time of the encounter. You can check the details of a conjunction by casting [[Detect_magic#Discover_Conjunction|Detect Magic (Discover Conjunction)]] on the Sentinel Gate in the presence of a referee.
+
+It's very important to pay attention to the [[accessibility]] note for each conjunction, which covers the likelihood of combat. Further details about the accessibility of a conjunction are [[Accessibility#Who_and_how_to_ask.3F|available both before and during the event]]. You can learn more about this on the [[accessibility]] page.
+
+===Friday===
+<div class="alert">'''These times and numbers are subject to change until 18:00 on Friday</div>
+{|table class="wikitable sortable"
+|-
+! Time !! People !! Duration !! [[Accessibility#Combat|Combat]] !! Location !! Responsibility !! Overview/Link
+|-
+| 18:05 || 60 || 15 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Liathaven, Liaven's Glen, Schogsfestward || [[Quartermaster General]] || [[#Time_to_be_Gone_(Liathaven)|Rescue the defenders of Schogsfestnir]]
+|-
+| 18:15 || 347 || 50 mins || [[Accessibility#Combat_Possible|Possible]] || Mitwold, Meade March, New Old Sports Field || [[Bailiff of the Grand Market]] || [[#The_Reconquest_Cup_(Mitwold)|Take part in an exhibition match]]
+|-
+| 18:30 || 70 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Kahraman, Gambit, Golden Copse || '''Iñez i Azul-Mar i Riqueza''' || [[#Forging_of_a_Hammer_(Kahraman)|Kill Jarl Gorm Gillasbairn]]
+|-
+| 19:10 || 10 || 15 mins || [[Accessibility#Combat_Unlikely|Unlikely]] || Sermersuaq, Stark, Iron Crossroads || [[Woundbinder of the Mark]] || [[Volumes_of_forgotten_lore#A_Highway_Robbery_(Sermersuaq)|Help the wounded merchants]]
+|-
+| 19:35 || 15 || 20 mins || [[Accessibility#Combat_Unlikely|Unlikely]] || Therunin, Sweetglades, Fluttering Canopy || [[Imperial_Apothecaries_Guild#Guild_Leader|Guild Leader of the Imperial Apothecaries]] || [[Songs_like_trees#Surprises|Investigate the nest]]
+|-
+| 19:50 || 16 || 20 mins || [[Accessibility#Combat_Unlikely|Unlikely]] || The Barrens, Untrod Groves, The Red Hall || Nobles of [[Dawn]] (but it's complicated) || [[Best_beware_my_sting#The_Red_Feast|Attend a feast]]
+|-
+|19:55 || colspan="6" |No bows or crossbows after this time
+|-
+| 20:00 || 90 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Sermersuaq, Tanikipari, Plains of Cyneswith || '''Corrin Arrowsbane''' || [[Stand_amid_the_roar#Strengthening_Storm|Kill the Voice of Tanikipari and destroy the pillar]]
+|-
+| 20:15 || 20 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Hahnmark, Northspires, Greyhearth Woods || '''Eanwyn Dunning''' || [[#An_Unlooked_for_Prize_(Hahnmark)|Bring ''Thurwolf'' to justice]]
+|-
+| 20:30 || 90 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Sermersuaq, Suaq Wastes, Wulfhere's Meadow || [[Sun Chamber|Counsel of the Sun Chamber]] || [[Stand_amid_the_roar#Growing_Threat|Kill the Voice of the Wastes and destroy the pillar]]
+<!--|-
+| 20:45 || 20 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Territory, Region, Location || [[TITLE]] || [[LINK|OBJECTIVE]]-->
+|-
+| 21:00 || 90 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Sermersuaq, Suaq Fount, Icelveld || [[Speaker of the Highborn Assembly]] || [[Stand_amid_the_roar#Gathering_Darkness|Kill the Voice of the Fount and destroy the pillar]]
+|-
+| 22:00 || 600 || 60 mins || [[Accessibility#Combat_Unlikely_or_Contained|Unlikely]] || Brocéliande, Vale's Lament, The Singing Circle || '''Nathair Autumngale''' || [[Upon_a_midnight_dreary#A_Peculiar_Opportunity_(Lashonar)|Visit the Circle]]
+<!--|-
+| 23:00 || 50 || 30 mins || [[Accessibility#Combat_Unlikely_or_Contained|Unlikely]] || Territory, Region, Location || [[Title]] || [[LINK|Objective]]-->
+|-
+|}
+
+===Saturday===
+<div class="alert">'''These times and numbers are subject to change until 10:00 on Saturday</div>
+{|table class="wikitable sortable"
+|-
+! Time !! People !! Duration !! [[Accessibility#Combat|Combat]] !! Location !! Responsibility !! Overview/Link
+|-
+| 14:30 || 120 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Therunin, Sweetglades, Squamous Woods || [[Vallornguard#Speaker_of_the_Vallornguard|Speaker of the Vallornguard]] || [[Songs_like_trees#Cluster_of_Rosebuds|Disrupt the nest]]
+|-
+| 15:00 || 120 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Therunin, Sweetglades, Twitching Grove || [[Keeper of the Last Battle]] || [[Songs_like_trees#In_the_Night|Disrupt the nest]]
+|-
+| 16:15 || 50 || 45 mins || [[Accessibility#Combat_Unlikely|Unlikely]] || Semmerholm, Axmure, Grove of the Thousand || Victors of [[Dawn]] and [[Wintermark]] || [[Upon_a_midnight_dreary#A_Challenging_Finale_%28Barien%29|Complete the challenge]]
+|-
+| 16:30 || 75 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Sarangrave, Kroll, Haunted Copse || [[High Exorcist]] || [[Even_darkness_must_pass#Traps|Destroy the tortured souls]]
+|-
+| 17:00 || 75 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Sarangrave, Kroll, Grothnel Holt || [[Champion of Pride]] || [[Even_darkness_must_pass#Something_Flickers|End ''Flavia of the Guiding Lights'']]
+|-
+| 17:30 || 75 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Sarangrave, Kroll, Coppice of Despair || [[Champion of Ambition]] || [[Even_darkness_must_pass#What_Wise_Ones_Know|End ''Dmitriy Innokentievich'']]
+|-
+| 19:30 || 70 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Sarvos, Riposi, Circle of Savagery || [[Champion of Prosperity]] || [[Those_that_break_a_thing#Blazing_Beacon_(Sarvos)|Stop the wreckers]]
+|-
+| 19:45 || 20 || 20 mins || [[Accessibility#Combat_Unlikely|Unlikely]] || Sarangrave, Turan Flats, Lamorak's Rest || [[Lions of Adelmar|General of the Lions of Adelmar]] || [[Even_darkness_must_pass#Two_Captains|Treat the wounded]]
+|-
+|19:55 || colspan="6" |No bows or crossbows after this time
+|-
+| 20:00 || 70 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Necropolis, Longbeach, Abigal's Orchard || [[Champion of Loyalty]] || [[Those_that_break_a_thing#Fan_of_Colours_(Necropolis)|Stop the wreckers]]
+|-
+| 20:15 || 20 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Skarsind, Solvhill, Broken Forest || [[Broken Shield Guardian]] || [[#What_Oaths_Can_Do_(Skarsind)|Defeat the rampaging husks]]
+|-
+| 20:30 || 70 || 20 mins || [[Accessibility#Combat_Highly_Likely|Highly Likely]] || Madruga, Calvos Sound, Mawrig's Point || [[Champion of Vigilance]] || [[Those_that_break_a_thing#Talk_of_Debts_(Madruga)|Stop the wreckers]]
+|-
+| 20:45 || 20 || 20 mins || [[Accessibility#Combat_Unlikely|Unlikely]] || Sarangrave, Turan Flats, Ormgore's Spinney || [[Medical Officer of the Pegasus Respite]] || [[Even_darkness_must_pass#Whirlpools_of_Colour|Treat the wounded]]
+|-
+| 22:00 || 80 || 60 mins || [[Accessibility#Combat_Unlikely|Unlikely]] || Therunin, Greenheart, The Three Stones || [[Archmage of Spring]] || [[Volumes_of_forgotten_lore#In_Three_Stones_(Therunin)|Visit the Three Stones]]
+|}
+
+===Time to be Gone (Liathaven) ===
+* '''A warband of Jotun is hunting down the defenders of Schogsfestnir'''
+* '''This skirmish is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''The ''Quartermaster General'' is [[Sentinel_Gate#Prognostication|responsible]] for rescuing the defenders of Schogsfestnir and killing Jarl Heivar'''
+{{AgainstBarbarians}}
+Last season, twenty captains accepted the Imperial guerdon and sent their military units to defend Schogsfestnir in Liathaven. The Imperial strategy to inflict casualties in response to the Jotun counterattack that reclaimed Liaven's Glen and destroyed the fortification went well. Most of the mercenaries were able to escape the massive host of Jotun warriors arrayed against them, but there are scattered pockets that remain stuck behind Jotun lines. 
+
+The Sentinel Gate will open shortly after the start of the summit near where Jarl Heivar is pursuing several survivors from the fort. The fleeing group includes several generals from the Imperial military - it could be a disaster if these individuals are captured by the enemy. The Jotun are not the Druj - they might ransom anyone who surrenders, but the costs to the Empire could be eyewatering. It is the responsibility of the incumbent [[Quartermaster General]], '''Natalia 'The Falcon' Barossa''', to journey through the Sentinel Gate and intercept the jarl and their warband. If they do not succeed, the chances of the fleeing group getting away look slim.
+
+===The Reconquest Cup (Mitwold)===
+* '''Two foot-the-ball teams have invited Marchers from Anvil to take part in an exhibition match outside Meade'''
+* '''The Eels-in-Exile represent Bregasland and play in yellow and green'''
+* '''The Old Pigs are from Freemoor in the Mournwold and play in red'''
+* '''Marchers will be invited by veteran players from both teams to join a side and play a match for the Reconquest Cup'''
+* '''Spectators are welcome but might need to bring their own seats'''
+* '''This is a [[Accessibility#Combat_Possible|combat possible]] encounter'''
+Foot-the-ball. The beautiful game. Beloved by many across the four territories of the Marches, it is played in every corner of the nation with a dizzying array of rules, teams, stakes and pitches. When one village comes to play another, you can expect a several hour "debate" first about where to play and exactly what is and is not legal, usually ending up with an accommodation that each side will beat each other up, but only a bit, and at some point, people will try and put a ball in a goal.
+
+With both Mournwold and Bregasland being under conquest, opportunities for getting a good game in have been limited. With the liberation of the Mourn though, teams are looking to get back into the swing of things and show some solidarity to the Bregas. The Eels-in-Exile from Bregasland have been banging this drum for a while, and The Old Pigs from Freemoor in Mournwold have picked up the challenge, so it's time for a game of footie to get everyone's spirits up. Happily, a conjunction has appeared to the New Old Sports Field, outside Meade in Mitwold.
+
+In a rare move, the two teams have agreed to subject themselves to the whims of a referee. One of the Anvil civil servants of the Marches will also pass through the gate and take that job. Players of both The Old Pigs and Eels-in-Exile will be present on the pitch and will help organise those who want to play and watch. The suggested format is teams of ten until a goal is scored, and then players can substitute as they see fit, though exact numbers are up for negotiation as long as it's fair. The teams suggest playing under "Canal Rules" developed by Marcher orcs, which means no armour and blunt weapons only, and beating the bounds of the pitch beforehand. As usual, [[physick|physicks]] are probably going to be in high demand.
+
+While the allegiances of Mournfolk and Fenlanders will be obvious, Mitwolders and Upwolders are welcome to play, but will have to pick a side. At stake is the cup itself and a modest monetary prize that the players have managed to cobble together for the occasion.
+
+As this represents a "fair" in Meade, it is the responsibility of the [[Bailiff of the Grand Market]], '''Aelda Beara Ironhammer''', to ensure that nobody takes things too far.
+
+'''OOC Note:''' Players are reminded that if they want to take part in combat as part of foot-the-ball, they will need to bring appropriate safe weapons and only use these to strike. The normal restrictions prohibiting [[combat_safety#Grappling,_Body_Contact_and_Shields|grappling and bodily contact]] still apply during this encounter, for the safety of everyone involved.
+
+===Forging of a Hammer (Kahraman) ===
+* '''A warband of Jotun are returning from Kahraman'''
+* '''This skirmish is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''''Iñez i Azul-Mar i Riqueza'' is [[Sentinel_Gate#Prognostication|responsible]] for killing ''Jarl Gorm Gillasbairn'''''
+{{AgainstBarbarians}}
+[[Kahraman]] has been free of Jotun for two years; their armies were pushed out before the Summer Solstice 385YE. Now, one of their warbands is back, led by the ambitious ''Jarl Gorm Gillasbairn'', spouse of the Jarl of Alftanes, who is looking to make a name for themselves. They have managed to strike at the families of Gambit, with a focus on gathering wealth. 
+
+The families have asked the incumbent [[Dhomiro of the Cinnabar Hills]], '''Iñez i Azul-Mar i Riqueza''', to intercept the warband, kill Jarl Gorm Gillasbairn, and recover the money from the Jotun. Anything that the Dhomiro, or their allies, can recover is theirs to spend as they see fit. If Jarl Gorm is killed, then the Jarl of Alftanes will withdraw their warband in grief for at least the coming season.
+
+===An Unlooked for Prize (Hahnmark) ===
+* '''A wanted criminal, Thurwolf, has been cornered by a roving company of bandits'''
+* '''This skirmish is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''''Eanwyn Dunning'' is [[Sentinel_Gate#Prognostication|responsible]] for bringing Thurwolf to justice'''
+{{NoInnocentsPresent}}
+Last season, the village of Dunfrith was wracked by [[387YE_Summer_Solstice_winds_of_fortune#Blades_in_the_Mark_(Hahnmark)|dark deeds]]. The apparent culprit was escorted from the village and instructed to present himself at New Dunhall for questioning by the magistrates. He has not done so, and now word has reached the magistrates that Thurwolf has been seen hiding out in an area of woodland in Northspires. The area is also beset by roving bandits engaged in robbery and maggotry. The magistrates would like to interview Thurwolf to try and find out more about what happened in Dunfrith, however he has confessed to multiple murders. If it is not possible to bring him back alive it is unlikely anyone would face charges. Since this relates directly to previous business they were involved in, '''Eanwyn Dunning''' is responsible for interceding.
+
+===What Oaths Can Do (Skarsind)===
+* '''A group of husks have been rampaging around Solvihill'''
+* '''This skirmish is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''The ''Broken Shield Guardian'' is [[Sentinel_Gate#Prognostication|responsible]] for defeating the husks'''
+{{NoInnocentsPresent}}
+There have been rumblings over the past several weeks about the rude behaviour of a small guild of mercenaries, apparently from [[Temeschwar]], who are camping in Solvihill. The guild - ''the Cerise Harvesters'' - are, as one thieftaker puts it, arseholes. But that's not a crime under Imperial law. So they have to instead just be watched. A few nights ago, screaming was heard from their camp, and when people went to investigate the next morning, they found a few corpses (not enough) and blood (too much). The orcs who went to investigate were driven off by rampaging husks, showing dreadful wounds, and a careful watch has been kept on the woods since.
+
+The orcs who tend the [[herb garden|gardens]] nearby have asked the [[Broken Shield Guardian]], '''Redhand Gezzar''', to defeat the husks. If they are successful, then the coteries nearby will send the Guardian a bounty of herbs in time for the Winter Solstice.
+
+==Military Considerations==
+{{stub}}
+Several [[territory]] pages now contain details of strategic obstacles presented or advantages provided by movement through or fighting in those lands. There are also several [[fortification|fortifications]] that follow different rules. Several armies or nations have special rules or opportunities related to the orders they can issue, which should be borne in mind when discussing military strategies during the Autumn Equinox.
+* '''Billeting:''' Any Imperial army can take the '''''[[Army_orders#Billet|Billet]]''''' order in [[Bregasland]], [[Mitwold]], [[Mournwold]], or [[Upwold]]. [[Army_orders#Billet|Link]]
+* '''Dawn:''' 
+** Dawnish armies cannot take the '''''[[Army_orders#Cautious Advance|Cautious Advance]]''''' order or the '''''[[Army_orders#Give_Ground|Give Ground]]''''' order. [[Put_on_your_war_paint#Glorious_in_Victory.2C_Proud_in_Defeat|Link]]
+** The borders of [[the Barrens]] are patrolled by citizens of the territory as a result of the [[386YE_Autumn_Equinox_Synod_judgements#Judgement_23|mandate]] enacted by Ser Tunic. The Druj require 25 victory points to claim a beachhead in the Barrens.
+* '''Highguard'''
+** Highborn armies can take the '''''Protect the Innocent''''' order. [[Highguard_military_concerns#Army_Orders|Link]]
+** Any Highborn army attacking into Zenith from Morrow gains a 20% bonus to any territory captured and suffers a 10% reduction in casualties inflicted. [[Three_soldiers#The_High_Pass|Link]]
+<!-- turned off until third Navarr army completes* '''Imperial Orcs'''
+** An Imperial Orc army can take the '''''Forge Hammers''''' order whilst in [[Skarsind]]. [[Imperial_Orcs_military_concerns#Army_Orders|Link]]-->
+* '''The Marches:''' 
+** Marcher armies cannot take the '''''[[Army_orders#Give_Ground|Give Ground]]''''' order. [[The_Marches_military_concerns#Army_Orders|Link]]
+** The [[Strong Reeds]] receive an additional 1000 strength when fighting in [[Bregasland]]. [[New_port,_old_wine#New_Oaths,_Old_Boots|Link]]
+** The [[Tusks]] receive an additional 1000 strength when fighting in [[Mournwold]]. [[I_already_know_you#Reeds,_Drakes,_Tusks,_Bounders|Link]]
+** The [[Drakes]] receive an additional 1000 strength when fighting in [[Mitwold]]. [[I_already_know_you#Reeds,_Drakes,_Tusks,_Bounders|Link]]
+** The [[Bounders]] receive an additional 1000 strength when fighting in [[Upwold]]. [[I_already_know_you#Reeds,_Drakes,_Tusks,_Bounders|Link]]
+* '''Urizen:'''
+** The borders of [[Morrow]] and [[Zenith]] are patrolled by citizens of the territory as a result of the [[386YE_Autumn_Equinox_Synod_judgements#Judgement_14|mandate]] enacted by Herminius of the House of the Wanderer. The Druj require 25 victory points to claim a beachhead in Morrow and Zenith.
+** Any Urizen army attacking into Zenith from Morrow gains a 20% bonus to any territory captured and suffers a 10% reduction in casualties inflicted. [[Three_soldiers#The_High_Pass|Link]]
+* '''Varushka:''' 
+** The borders of [[Ossium]] are patrolled by citizens of the territory as a result of the [[386YE_Autumn_Equinox_Synod_judgements#Judgement_157|mandate]] enacted by Velko Perunovich Razorasza. The Druj require 25 victory points to claim a beachhead in Ossium.
+** Varushkan armies can take the '''''Hospitality of the Boyars''''' order whilst in Ossium. [[Varushka_military_concerns#Army_Orders|Link]].
+* '''Wintermark:'''
+** Wintermark armies can take the '''''Fight with Honour''''' order. [[Fight_with_monsters#A_Hero.27s_Tale|Link]].
+** Wintermark armies fighting against the Jotun will gain 10% more victory points but inflict 20% less casualties. [[Fight_with_monsters#A_Hero.27s_Tale|Link]]
+** Wintermark armies fighting against the Jotun have their casualties taken reduced by 10%. This effect continues as long as the Winterfolk continue to fight honourably. [[A_tale_told#Game_Information|Link]]
+<!--** The border of [[Therunin]] is patrolled by citizens of the territory as a result of the [[386YE_Autumn_Equinox_Synod_judgements#Judgement_122|mandate]] enacted by Oleander Ashwood. The Druj require 25 victory points to claim a beachhead in Therunin.-->
+Click ''Expand'' to see military considerations that are less relevant at the current time but are still active.
+<div class="mw-collapsible mw-collapsed">
+*'''Morrow:''' Any Highborn or Urizen army that defends in Morrow against an army attacking from Zenith gains a 20% bonus to defend territory and suffers a 10% reduction in casualties inflicted. [[Three_soldiers#The_High_Pass|Link]]</div>

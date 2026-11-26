@@ -1,0 +1,26 @@
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Navarr.png|caption=This title is appointed by the Navarr Assembly|width=250px}}</div>
+The Hand to the Dance is an [[Imperial title]] awarded to a citizen of [[Navarr]]. Construction of the Dancer's Rest was [[Construct Dancer's Rest|announced]] by '''Firesong Arachas''', the [[Legion Engineer]], during the Autumn Equinox 387YE, and construction was completed shortly before the Winter Solstice 387YE. 
+__NOTOC__
+Dancer's Rest was the first commission chosen by the [[Cat's Graces]] for refinement, being [[388YE_Summer_Solstice_Senate_sessions#Refine_Dancer's_Rest|announced]] by Maestro, '''Ralphine''', during the Summer Solstice 388YE. Work was completed shortly before the next summit.
+==Responsibilities==
+The Hand to the Dance has a responsibility to help those within Navarr who have endured slavery and to rehabilitate them into the Way and the Empire. In addition, if Dancer's Rest were to be threatened in any way, it would be the responsibility of the Hand to deal with those threats.
+
+==Powers==
+===Scholastic Income===
+The Hand to the Dance has custodianship of a [[sinecure]]. They receive one throne, two crowns, and sixteen rings each season from fees and donations of those who attend Dancer's Rest.
+<div style="float: left; max-width: 300px; margin-right: 10px;">{{HoverImage|Farren Silver Streams.jpg|Farren Silver Streams self portrait.jpg}}</div>
+==Appointment==
+The Hand to the Dance is a [[New_Imperial_titles#The_Imperial_Synod|national position]] which is [[Appointment|appointed]] by [[judgement]] of the [[Assembly#The_National_Assemblies|Navarr Assembly]]. 
+
+The title can only be held by a citizen of Navarr. The Hand has [[tenure]] and serves until they die or step down. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the Navarr Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=PHOTO.png|caption='''Holder''', Hand to the Dance|align=left|width=300}}-->
+{{RecentElections|Hand_to_the_Dance}}
+<div {{float}}>
+<quote by="Ralphine, Maestro of the Cat's Graces">The artworks begun this season will continue to develop and grow. Art should educate, inspire, and heal.</quote></div>
+==Dancer's Rest==
+The original decor of Dancer's Rest was overhauled following a [[388YE_Summer_Solstice_Senate_sessions#Refine_Dancer's_Rest|call to action]] by the Cat's Graces during the Summer Solstice 388YE. The walls and surrounding environment of Dancer's Rest have been covered in inspirational art, with the design deliberately including space so that it may be added to and developed by those who visit. The majority of the art makes use of the common symbols of Virtue, with visitors often encouraged to try to identify all the inspirational figures represented.
+
+{{Responsibilities Expectation}}
+[[Category: Title]]
+[[Category: Navarr]]

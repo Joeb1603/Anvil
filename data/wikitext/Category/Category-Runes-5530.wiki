@@ -1,0 +1,18 @@
+{| class="wikitable" style="text-align:center;"
+|+ [[Runes]]
+|-
+|[[File:Aesh.png|x30px|link=Aesh]] ||[[File:Bravash.png|x30px|link=Bravash]] ||[[File:Cavul.png|x30px|link=Cavul]] ||[[File:Diras.png|x30px|link=Diras]] ||[[File:Evrom.png|x30px|link=Evrom]] ||[[File:Feresh.png|x30px|link=Feresh]] ||[[File:Gralm.png|x30px|link=Gralm]] ||[[File:Hirmok.png|x30px|link=Hirmok]] ||[[File:Irremais.png|x30px|link=Irremais]] 
+|-
+|[[Aesh]]||[[Bravash]]||[[Cavul]]||[[Diras]]||[[Evrom]]||[[Feresh]]||[[Gralm]]||[[Hirmok]]||[[Irremais]]
+|-
+|[[File:Jotra.png|x30px|link=Jotra]] || [[File:Kyrop.png|x30px|link=Kyrop]] || [[File:Lann.png|x30px|link=Lann]] ||[[File:Mawrig.png|x30px|link=Mawrig]] ||[[File:Naeve.png|x30px|link=Naeve]] ||[[File:Ophis.png|x30px|link=Ophis]] ||[[File:Pallas.png|x30px|link=Pallas]] ||[[File:Queros.png|x30px|link=Queros]] ||[[File:Rhyv.png|x30px|link=Rhyv]] 
+|-
+|[[Jotra]]||[[Kyrop]]||[[Lann]]||[[Mawrig]]||[[Naeve]]||[[Ophis]]||[[Pallas]]||[[Queros]]||[[Rhyv]]
+|-
+|[[File:Sular.png|x30px|link=Sular]] ||[[File:Tykonus.png|x30px|link=Tykonus]] ||[[File:Ull.png|x30px|link=Ull]] ||[[File:Verys.png|x30px|link=Verys]] ||[[File:Wyr.png|x30px|link=Wyr]] ||[[File:Xun.png|x30px|link=Xun]] ||[[File:Yoorn.png|x30px|link=Yoorn]] ||[[File:Zorech.png|x30px|link=Zorech]] || 
+|-
+|[[Sular]]||[[Tykonus]]||[[Ull]]||[[Verys]]||[[Wyr]]||[[Xun]]||[[Yoorn]]||[[Zorech]]||[[The Unnamed]]
+|}
+<includeonly>
+[[Category:Runes]]
+</includeonly>

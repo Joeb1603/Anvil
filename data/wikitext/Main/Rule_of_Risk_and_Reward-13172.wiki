@@ -1,0 +1,42 @@
+==Rules==
+{{Season|Night|20}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Character}} The target character must have the [[Magical skills#Magician|magician]] skill. 
+
+{{enchantment}}
+===Effects===
+The target gains two effective ranks of ritual lore for purposes of performing an [[arcane projection]], subject to the normal rules for effective skill. 
+
+The ritual will not grant any benefit to perform a ritual that uses a realm lore skill the character does not possess.
+
+While the enchantment lasts the target experiences a roleplaying effect: ''you feel inspired by the possibilities inherent in ritual magic, and feel an urge to enthusiastically discuss your theories of magic with anyone who will listen.''
+
+{{Season Duration}}
+
+===Additional Targets===
+This ritual can affect additional characters from the same [[Groups#Covens|coven]]. Each additional character increases the magnitude by 15. Additional characters must be present throughout.
+
+===Assurance===
+This ritual grants an intuitive understanding of magical lores, and as with [[Eternals_and_rituals#Empowerment|other such rituals]], draws on the power of an eternal, in this case [[Sadogua]]. The assurance connected with the ritual was uncertain when the ritual text was first delivered by the Commonwealth but was unearthed by members of the Unfettered Mind shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if the [[Conclave]] ever limits the creation of [[arcane projection|arcane projections]]. 
+
+==Description==
+This ritual was [[We_are_never_ever_getting_back_together#Commonwealth_Rituals|one of several]] presented to the [[Grandmaster|Grandmasters]] of the [[Conclave]] by the [[magical skills#Magician|magicians]] of the [[Commonwealth]] in Winter 384YE in recognition of the decision to share [[Imperial lore]] with that nation. It was gifted to the [[Unfettered Mind]], and it was they who, in Autumn 387YE, chose to [[387YE_Autumn_Equinox_Conclave_sessions#Imperial_Lore:_Rule_of_Risk_and_Reward|share it with the Empire]]. The decision followed some successful research at [[Dean_of_the_Lyceum#The_Lyceum|the Lyceum]] in which trapped Imperial magicians working with their equally trapped Commonwealth peers [[Beat_of_your_drum#Risk_and_Reward|unlocked]] a method to apply the enchantment to [[#Additional Targets|multiple members]] of the same [[Groups#Covens|coven]] with a single casting.
+
+The original text was put together at the [[Foreign_ports#Volkavaar|University of Volkavaar]]. According to the notes that accompanied the text, it was created by the ''zauberer'' of the ''Order of the Closed Hands'', who asked specifically that it be considered for sharing with their Imperial peers. Apparently, their order attracts many of the brightest and most inventive magical students of Volkavaar, and numbers many [[orc|orcs]] among its ranks. The name of the ritual references their rule, whereby they use mathematics to determine if a risky endeavour is worth the reward that may be gained if it is undertaken. The Order cautions that untried magic, while versatile and powerful, is often dangerous. While a magician might believe they know what will happen when they perform a ritual there may sometimes be unconsidered consequences that come about because of the environment or context in which the magic is used. 
+<div style="float:right; width: 200px; clear: right;">{{CaptionedImage|file=Sadogua001d.webp|align=right|caption=The [[Sadogua|Brother of Wizards]] is viewed with suspicion in the [[Commonwealth]].|width=200}}</div>
+This warning seems particularly apposite given the ritual was clearly developed with the aid of the [[Sadogua|Brother of Wizards]], an [[eternal]] with something of a mixed reputation in the Commonwealth. This caution arises in part from his shameless patronage of many [[Principalities of Jarm|Jarmish]] magicians, but also due to his obvious disdain for mortals who do not or cannot practice magic. The Order of the Closed Hands are one of the few large covens prepared to deal with the ''Father of Bats''; apparently, they apply the same careful regimen of mathematical examination to all dealings with him to try and determine if the cost of accepting one of his boons will outweigh the apparent benefits of doing so.
+
+While the Order of the Closed Hands approaches the use of the ritual's power with careful consideration, there is no denying that the actual enchantment draws on the resonances of [[Night_magic#Intuition|intuition]] and [[Night_magic#Inspiration|inspiration]] rather than anything more rational. It helps the enchanted magician make leaps of logic that connect seemingly disparate elements of the magic they are performing; one member of the Unfettered Mind described the experience as being similar to redesigning the [[arcane projection]] "on the fly" as they were performing the ritual. They also spoke of having a powerful wordless intuition regarding other [[Rituals#Contributors|contributors]], allowing them to adjust their own practice to act in synch with others. Some magicians clearly find the enchantment to be profoundly inspiring and exhilarating. Others, especially those less practised in the arts of Night lore, have spoken of finding the chaos of wielding potential Empire-changing magic in this chaotic, unpredictable manner as "deeply terrifying".
+
+Some comparison has been drawn with [[Garden of Teth-Anon]], a ritual of dubious provenance that achieves similar but distinct results, but enchants an entire coven. While it enchants a coven-bond, that ritual is significantly more limited in its effectiveness than ''Rule of Risk and Reward'' in that it provides less [[Day magic#Mastery|mastery]] and can be evoked only once each day. When ''Rule'' was added to Imperial Lore, it prompted renewed interest in the [[Day magic]] ritual. It seems that despite their best efforts, the Unfettered Mind have yet to determine which eternal sponsors the power of that ritual which, if stories are to be believed, may be one of the oldest ever added to Imperial Lore.
+
+==Common Elements==
+The original Commonwealth method of performing this magic requires careful and considered meditation, and the painting or tracing of intricate designs on the palms, forearms, and forehead of the recipient. The Order of the Clasped Hand note that they use [[blood magic]] when working ''Rule of Risk and Reward'', mixing a few drops from each of the other covenmates of the magician to be enchanted with a little pigment. Often the donation of the blood forms part of the ritual, with each covenmate in turn speaking of their connection to the recipient and how they hope to strengthen their bond in the future. The target themselves is often encouraged to speak of the purposes they hope to put the magic to, and make vows to use their power responsibly and with careful consideration.
+
+Like many rituals that use Night magic, food or drink can form a very resonant component of the enchantment. Anything that allows the recipient to achieve a slightly altered sense of consciousness seems ideal - there have been some experiments in [[Wintermark]] using a mixture of ''[[Infusions of Feathers#Magpie Infusion|Magpie Infusion]]'' with a little milk or honey. In [[the Brass Coast]] the ritual is more likely to involve small amounts of [[The_Brass_Coast_culture_and_customs#Syrah|syrah]] poured into multiple small cups from the same pot, and shared by each member of the coven the recipient belongs to.
+
+Ritualists may be masked, cowled, or veiled, and there is often slow, quiet music designed to help the contributors and their target achieve the right state of mind. [[Dramaturgy|Dramaturges]] have found that the ritual works well not only as a play, but as a ceremonial "putting on" of one of [[Dramaturgy#The_Personae|the Personae]] - especially [[the Witch]] or [[the Mountebank]] - either diegetically within the performance, or in the manner of an actor taking on a role before a play. Likewise in [[Dawn]], [[Dawn_hearth_magic#Girding|girding]] the target in robes and equipping them with a wand, staff, or rod, can help focus the magic.
+
+The runes [[Wyr]] and [[Aesh]] resonate with the ritual, as do the [[Astronomancy#Constellations|constellations]] of [[the Stork]], [[the Phoenix]], and for some reason [[the Spider]].
+[[Category:Night Ritual]]
+[[Category:Rituals]]

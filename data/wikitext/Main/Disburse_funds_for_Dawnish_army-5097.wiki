@@ -1,0 +1,15 @@
+<ic>Disburse funds for continuing to build the fourth Dawnish army.<br><br>''Proposed by Weirwater, seconded by Semmerholm''</ic>
+
+===Overview===
+* A request for additional funds towards the [[Raise_Dawnish army II|commission]] of a fourth [[Dawn|Dawnish]] [[Army|army]].
+* Passed at 100 Thrones
+
+==Date==
+* Summer 379YE
+
+==Progress==
+* 100 Thrones disbursed to Senator Weirwater.
+
+[[Category:Senate Motion]]
+[[Category:379YE Summer]]
+__NOTOC__

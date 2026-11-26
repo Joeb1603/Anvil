@@ -1,0 +1,8 @@
+Jo Perridge
+
+[https://www.facebook.com/jo.perridge Facebook]
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>[[Category:Photos:JoPerridge]] [[:Category:Photos:JoPerridge|Image by Jo Perridge]]
+</nowiki>''

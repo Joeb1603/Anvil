@@ -1,0 +1,40 @@
+===Overview===
+The Factor of Stones from Blood is an [[Imperial title]] [[Construct_the_Stones_from_Blood|commissioned]] by the Imperial Senate during the Autumn Equinox 385YE. The [[#Stones from Blood|Stones from Blood]] itself is built in [[Therunin#Peakedge_Stead|Peakedge Stead]] in [[Therunin]] 
+
+===Responsibilities===
+The Factor of Stones from Blood has a responsibility to support the Navarr vates in organisation and in providing mana for national rituals such as Dance of Navarr and Thorn. If the Stones from Blood were to be threatened in any way it would be the responsibility of the Factor to deal with those threats.
+
+==Powers==
+===Bounty of Crystals===
+<div style="float:right; width: 400px; clear: right; margin-left: 10px;">
+<table style="width:400px; float: right; margin-left:10px;" class="mw-collapsible"><tr><td style="background-color: LightBlue;">'''Mana Crystals'''</td><td style="background-color: LightBlue;"></td>
+<tr><td>7 Crowns</td><td>8 mana crystals</td></tr>
+<tr><td>17 Crowns</td><td>16 mana crystals</td></tr>
+<tr><td>30 Crowns</td><td>25 mana crystals</td></tr>
+</table></div>
+The Factor of Stones from Blood has access to a [[ministry]]. The Factor can purchase quantities of mana crystals for set prices. The Factor of Stones from Blood makes their decision how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+==Appointment==
+The Factor of Stones from Blood is appointed by unanimous decision of the [[Navarr]] [[senator|senators]] at the Winter Solstice. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by any Navarr citizen. The Steward serves until the next scheduled election. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Navarr [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=FactorofStonesfromBlood.jpg|caption=CHARACTER, Factor of Stones from Blood|align=left|width=400}}-->
+{{RecentElections|Factor_of_Stones_from_Blood}} 
+[[Category:Title]]
+[[Category:Navarr]]
+
+==Stones from Blood==
+Stones from Blood is based out of a sprawling number of buildings on raised platforms in the steading of Peakedge Stead. The buildings provide a wonderful view on a clear day. The buildings include a small residence for the Factor and a small number of guest rooms to allow for easy trading for those who have travelled from afar. Simply adorned but comfortable the rooms are often used by traders in temporary residence.
+
+On the wall next to the main office entrance is a carved plaque that reads "We give our thanks to the prosperous citizens who have provided the funds to build Stones from Blood. The vates of Navarr thank you." with a number of names listed.
+
+Finally as one leaves the offices there is a prominently displayed map that marks the location of [[Navarr_groups#Bronwen.E2.80.99s_Rest|Bronwen's Rest]], a small distance east down the trod from Peakedge Stead, with a note that traders should "''Visit Bronwen's Rest for the best hospitality in Therunin!''"
+
+<!--Eleri Bronwen's Rest,
+Tarquinius Ankarien and Ilarch Maxatios in thanks for the Vates providing the Axou with a copy of the Ritual Dance of Navarr and Thorn,
+The TwoFeet Striding and the Sunlight Through the Dark Forest Coven,
+Bledri Eternal,
+Silver Cloud Striding,
+Lleu Winter's Reach,
+Rodric Worldscribe,
+Dan Brackensong-->

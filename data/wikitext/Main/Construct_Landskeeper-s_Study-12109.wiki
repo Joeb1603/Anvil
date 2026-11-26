@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:386YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Upwold, Seconded: Redoubt">To construct the "Landskeeper's Study", a mana ministry in Oakwood, Ashbrook, Upwold. This will create the position of "Keeper of the Study" appointed annually by Marcher Senators, with the responsibility to spread knowledge of the magical arts used to enchant farms. It will cost 12 white granite and 36 crowns in labour. Self funded by prosperous citizens of the Marches.</quote>
+==Overview==
+* Constructs a [[ministry]] in Ashbrook, Upwold as per the '''[[Thresher%27s_summer#Sword_and_Shears|Thresher's summer]]''' wind of fortune
+* Passed
+
+==Date==
+* Autumn 386YE
+
+==Cost==
+* Costs as per opportunity
+* 12 white granite
+* 36 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Landskeeper%27s_Study}}
+==Outcome==
+Now complete, the [[Keeper of the Study]] will be available to appoint by unanimous vote of the senators of [[the Marches]] for the first time at the Winter Solstice 386YE

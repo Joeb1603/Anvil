@@ -1,0 +1,30 @@
+==Overview==
+The Woundbinder of the Mark is an [[Imperial title]] appointed by the [[senator|senators]] of [[Wintermark]]. The Woundbinder has custodianship of Hufi's Garden, a garden [[384YE_Spring_Equinox_Senate_sessions#Construct_Hufi.27s_Garden|renovated]] by the Imperial Senate during the Spring Equinox 384YE. Construction was completed shortly after the 384YE Summer Solstice.
+
+==Responsibilities==
+The Woundbinder of the Mark has a responsibility to inspire the grimnir and healers of the nation and ensure the wounded heroes of Wintermark are well tended to. If Hufi's Garden were to be threatened in any way, it would be the responsibility of the Woundbinder to deal with those threats.
+
+==Powers==
+===Produce of the Garden===
+The Woundbinder receives an income of herbs each season: 10 drams of [[True Vervain|true vervain]], 4 drams each of [[bladeroot]], [[Imperial Roseweald|Imperial roseweald]], and [[marrowort]], and 2 drams of [[realmsroot]]
+
+===Bounty of the Marshes===
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible"><tr><td colspan="2" style="background-color: LightYellow;">'''Herbs'''</td></tr>
+<tr><td>7 Crowns</td><td>18 random [[herb|herbs]]</td></tr>
+<tr><td>17 Crowns</td><td>33 random herbs</td></tr>
+<tr><td>30 Crowns</td><td>50 random herbs</td></tr>
+<tr><td>46 Crowns</td><td>67 random herbs</td></tr>
+</table>
+</div>
+The Woundbinder of the Mark also has access to a [[ministry]], which allows the holder to purchase quantities of random herbs at a set price. The Woundbinder spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+==Appointment== 
+The Woundbinder of the Mark is appointed during the Summer Solstice each year. It is chosen by unanimous decision of the [[senator|senators]] of [[Wintermark]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by any Wintermark citizen. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Wintermark [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{CaptionedImage|file=Ascalla Maisa.jpg|caption='''Ascalla Maisa''', Woundbinder of the Mark|align=left|width=300}}
+{{RecentElections|Woundbinder_of_the_Mark}}
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Wintermark]]

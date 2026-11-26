@@ -1,0 +1,20 @@
+<div style="float:right; width: 400px; clear: right;">{{CaptionedImage|file=JanonArt.png|caption=The Shadowed Torchbearer enjoys the patronage of [[Janon|Shadowed Fire]]|align=right|width=400}}</div>
+==Overview==
+The Shadowed Torchbearer is an [[Imperial title]] created by the Imperial Senate during the [[386YE_Spring_Equinox_Senate_sessions#Create_title_of_Shadowed_Torchbearer|Spring Equinox 386YE]] following an [[Skeleton_key#Shadowed_Torchbearer_(Janon)|offer]] presented by [[Janon]]. 
+__NOTOC__
+==Responsibilities==
+The Shadowed Torchbearer has a responsibility to fan the flames of passion in the Empire through whatever means are available (but especially magic), and to serve as a go-between for the [[Janon|Shadowed Fire]] and the Conclave as they need it.
+
+==Powers==
+===Gifts of the Night Sword===
+The Shadowed Torchbearer receives gifts crafted by Janon. The exact details of these are unknown but it is expected that they will take the form of a [[Magic_items#Talismans|focus]], a [[Magic_items#Armour|mage robe]], and some form of [[Potion|liquor]].
+
+==Appointment==
+The appointment, replacement or removal of the Shadowed Torchbearer is made by the [[Declaration]] of [[Candidacy]] as part of a [[Conclave session]].
+
+The Shadowed Torchbearer serves until they are replaced by another magician using the Declaration of Candidacy. The Shadowed Torchbearer cannot be [[Revocation|revoked]] by the [[Synod]].
+<!--{{CaptionedImage|file=TenderofthePhoenixFlame|caption='''Character''', Tender of the Phoenix Flame|align=left|width=300}}-->
+{{RecentElections|Shadowed_Torchbearer}}
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Conclave]]

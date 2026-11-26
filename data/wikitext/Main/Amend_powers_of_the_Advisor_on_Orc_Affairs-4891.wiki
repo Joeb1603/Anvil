@@ -1,0 +1,14 @@
+<ic>To modify the position of Advisor on Orc Affairs to change the term to one year.<br><br>Proposed by Redoubt, Seconded by Conscience</ic>
+
+===Overview===
+* The [[Advisor on Orc Affairs]] will now have an annual term, rather than a life-time tenure.
+
+===Date===
+* Spring 379YE
+
+===Campaign Outcome===
+* The tenure of the Advisor was amended.
+
+[[Category:Senate Motion]]
+[[Category:379YE Spring]]
+__NOTOC__

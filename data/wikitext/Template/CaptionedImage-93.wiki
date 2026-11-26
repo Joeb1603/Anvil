@@ -1,0 +1,8 @@
+<noinclude>
+== Usage ==
+<pre>
+{{CaptionedImage|file=FileName.jpg|title=A popup title|caption=A caption underneath|align=right or left or center or none|width=pixels|height=pixels}}
+</pre>
+If unspecified, the width is limited to 187px, and the height to 800px.
+</noinclude>
+<includeonly><div class="captioned-image captioned-image-{{{align|none}}}">[[File:{{{file}}}|{{{width|187}}}x{{{height|800}}}px|{{{title|}}}]]<div class="caption">{{{caption|}}}</div></div></includeonly>

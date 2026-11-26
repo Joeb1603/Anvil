@@ -1,0 +1,27 @@
+__NOTOC__
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Urizen.png|caption=This title is appointed by the Urizen Assembly|width=250px}}</div>
+The Beneficiary of the Golden Cascade is an [[Imperial title]] awarded to a citizen of [[Urizen]]. The motion to construct the Beneficiary was [[Construct Beneficiary of the Golden Cascade|passed]] by the [[Senate]] in Spring 387YE. The Beneficiary of the Golden Cascade has the responsibility to use the Golden Cascade to create friends and allies in other nations. The title was created as a result of an opportunity presented in the '''[[Forwards and Rewards]]''' wind of fortune.
+
+==Responsibilities==
+The Beneficiary of the Golden Cascade has the responsibility to use the harvest of the Golden Cascade to create friends and allies in other nations by actively seeking out opportunities to help and reward them for the aid they have or might give Urizen in the future. In addition, if the Golden Cascade, or those working it, were to be threatened, then it would be the responsibility of the Beneficiary to deal with those threats.
+
+==Powers==
+===Wealth of the Cascade===
+The Beneficiary of the Golden Cascade receives a total of 20 random herbs, three doses of [[Elixir Vitae]], three doses of [[Ossean Solution]], three doses of [[The Philtre of Heavenly Lore|Philtre of Heavenly Lore]], and 10 crowns each season
+{{CaptionedImage|file=Hester.jpg|caption='''Hester''', Beneficiary of the Golden Cascade|align=left|width=250}}
+==Appointment== 
+The Beneficiary of the Golden Cascade is [[appointment|appointed]] at the Summer Solstice by the Urizen [[National Assembly]]. 
+
+The title can be held by any Urizen citizen. The Beneficiary of the Golden Cascade serves until the next election, or until they die, step down, or are revoked. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Urizen [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+{{RecentElections|Beneficiary_of_the_Golden_Cascade}}
+==Funding==
+Click ''Expand'' to see the list of contributions made to construct the Beneficiary of the Golden Cascade.
+<div class="mw-collapsible mw-collapsed">
+{{CommissionProgress|Construct_Beneficiary_of_the_Golden_Cascade}}
+</div>
+{{Responsibilities Expectation}}
+[[Category:Urizen]]
+[[Category:Synod]]
+[[Category:Title]]

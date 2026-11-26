@@ -1,0 +1,22 @@
+[[Category:Title]][[Category:Military Council]]
+==Overview==
+The Imperial Warcaster is an [[Imperial title]] in the [[Military Council]] created by the Imperial Senate during the [[384YE_Summer_Solstice_Senate_sessions#Create_Imperial_Warcaster|Summer Solstice 384YE]].
+==Responsibilities==
+The Warcaster is responsible for coordinating the arrangement of magical assistance for the [[Army|armies]] of the Empire. The holder of the title is also expected to use their powers to liaise between the Conclave and the Council.
+==Powers==
+===Addressing the Military Council===
+The Warcaster has the right to make a [[Council address|address]] to the [[Military Council]] once per summit. To use this power, the Warcaster must inform the [[Herald of the Council]] that they wish to make an address, which will then be added to the agenda for the next [[Council session]].
+{{CaptionedImage|file=Arturo di Sarvos.jpg|caption='''Arturo di Sarvos''', Imperial Warcaster.|align=right|width=200}}
+{{anchor|The Key of Commitment}}
+===The Key of Commitment (Lost)===
+Heralds of [[Zakalwe]] provided the Imperial Warcaster with three ''[[Hierarchs_of_sea_and_sky#The_Key_of_Commitment|crystalline tokens]] of the Hunter of Tides'' for as long as the Imperial Conclave maintained their interdiction on [[385YE_Autumn_Equinox_Conclave_sessions#Interdiction_:_Savagery_of_Armies|enchantments that make soldiers "savage"]]. Each of the crystalline tokens could be each used once to provide additional ranks to a performance of either [[Clarity of the Master Strategist]] or [[Carve the Crystal Guardian]]. Access to these tokens was lost following the Summer Solstice 388YE, when the Conclave chose to [[388YE_Summer_Solstice_Conclave_sessions#License:_Savage_Army_Enchants|end this interdiction]].
+
+==Appointment==
+The Warcaster is [[New_Imperial_titles#The_Imperial_Military_Council|appointed by the Military Council]]. It is elected by simple majority of any members of the Military Council who are eligible to vote who are present when the election takes place. Appointments by the Military Council are traditionally carried out with a show of hands at a [[Council session]]. 
+
+The title is appointed during the Autumn Equinox. Any Imperial citizen may hold the post.
+
+The Warcaster is appointed annually. They may be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+{{RecentElections|Imperial_Warcaster}}
+{{Military Council Further Reading}}

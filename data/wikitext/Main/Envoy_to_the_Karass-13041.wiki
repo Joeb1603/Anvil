@@ -1,0 +1,28 @@
+==Overview==
+The Envoy to the Karass is an [[Imperial title]] awarded to a citizen of [[Dawn]]. The title was [[Construct Carmine Fields Trading Post|created]] by the Imperial Senate at the Summer Solstice 387YE. The Envoy is responsible for representing the Empire to the Karass, and dealing with any issues between the sept and the rest of the inhabitants of [[the Barrens]]. 
+
+The trading post's full name is the ''Wordes, Numbers, Figures and Knotes Carmine Fields Trading Post'', but it is often shortened. More information on the opportunity that led to this title's creation can be found on the '''[[Little_mercy#Trading_at_Carmine_Field|Little mercy]]''' wind of fortune
+
+==Responsibilities==
+The Envoy to the Karass has a responsibility to represent the Empire to the Karass and to deal with issues between the sept and the rest of the inhabitants of the Barrens. In addition, if the Carmine Fields Trading Post, or those trading there, were to be threatened in any way, it would be the responsibility of the Envoy to deal with those threats.
+
+==Powers==
+===Abundance of the Untrod Groves===
+<div {{float}}>
+<table><tr><td colspan="2" style="background-color: LightYellow;">'''Trade with Karass'''</td></tr>
+<tr><td>8 beggar's lye</td><td>10 cerulean mazzarine and 6 random herbs</td></tr>
+<tr><td>18 beggar's lye</td><td>20 cerulean mazzarine and 12 random herbs</td></tr>
+<tr><td>32 beggar's lye</td><td>30 cerulean mazzarine and 20 random herbs</td></tr>
+</table></div>
+{{CaptionedImage|file=Reynard of De Gauvain.png|caption='''Reynard of De Gauvain''', Envoy to the Karass|align=left|width=250}}
+As a [[ministry]], the Envoy to the Karass can purchase quantities of herbs at set prices. The Envoy decides how much [[beggar's lye]] to spend during downtime from their character page. Beggar's lye is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+==Appointment==
+This title is appointed during the Summer Solstice. The Envoy to the Karass is appointed by citizens of Dawn who control [[military unit]] [[Resource|personal resources]]. The larger the military unit an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Dawnish citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Envoy_to_the_Karass}}
+[[Category:Title]] 
+[[Category:Dawn]]
+[[Category:Bourse]]
+[[Category:Karass]]

@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:383YE Autumn]]
+__NOTOC__
+<ic> To commission a spy network in Skallahn — the Jotun territory west of Sermersuaq and Kallavesa.
+<br>''Announced by the Imperial Spymaster, Cayleb of Felix’s Watch''
+</ic>
+==Overview==
+* Commissions a [[spy network]] in the [[Jotun]] territory of [[Skallahn]]
+* Announcement
+
+==Date==
+* Autumn 383YE
+
+==Costs==
+* Standard costs apply as detailed [[Spy_network#Costs|here]]
+* 10 wains of [[weirwood]]
+* 20 crowns
+* 2 thrones in upkeep
+==Progress==
+{{CommissionProgress|Skallahn_Spy_Network}}
+
+==Outcome==
+* Once complete, Imperial [[military unit|military units]] will be able to support the spy network.

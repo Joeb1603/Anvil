@@ -1,0 +1,33 @@
+==Overview==
+<div style="float: left; width: 200px;">{{CaptionedImage|file=Solas.jpg||caption=The first High Exorcist was appointed at the Spring Equinox 378YE|align=left|width=200}}</div>
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Nine.png|caption=This title is appointed by the Assembly of the Nine|width=250px}}</div>
+The position was established by unanimous [[Create_title_of_High_Exorcist|vote of the Senate in Winter 377YE]]. The High Exorcist exists to advise the [[Military Council]] on the use of [[Religious skills|ceremonies]] on the battlefield. The intent is that the priest who holds the title will co-ordinate the use of liao against malign auras and creatures during Imperial military actions. A [[#Stipend|stipend]] was assigned to allow the High Exorcist to obtain, commission and distribute such items or works as are needed in support of this goal. Examples of the latter might include [[liao]] for use in ceremonies of [[Religious skills#Exorcism|exorcism]] or magical items such as a [[Beneficent Sigil]] or an [[Icon of the Justicar]].
+
+The original motion to create the title attempted to grant the ''Right of Address'' in the Military Council, but at the time this was [[Create_title_of_High_Exorcist#Constitution|ruled unconstitutional]]. Further examination of the situation led to a reversal of that decision in 378YE. In Spring 379YE the Senate [[Amend powers of the High Exorcist |voted to increase]] the High Exorcist's stipend from the original 3 thrones each season to 7 thrones each season.
+__NOTOC__
+During the Spring Equinox 381YE the Senate [[Amend powers of the High Exorcist II|voted to remove]] the High Exorcist's stipend and replace it with the power to withdraw funds. A veto was raised before the Synod against this motion, but it was not upheld. Shortly before the Summer Solstice 385YE, however, the Constitutional Court ruled that the [[Rings_and_crowns#Virtue_and_Reward|ability to withdraw funds directly from the virtue fund was unconstitutional]], and struck the power down. The Senate then [[385YE_Summer_Solstice_Senate_sessions#Amend_High_Exorcist|amended the title]] that season to replace its stipend at 8 thrones each season.
+
+The Senate voted to further [[388YE_Spring_Equinox_Senate_sessions#Amend_High_Exorcist|amend]] the title during the Spring Equinox 388YE, increasing its stipend to ten thrones. 
+
+==Responsibilities==
+The High Exorcist is expected to advise the Military Council on the use of religious ceremonies on the battlefield, and to coordinate volunteers using liao against malign auras and spiritual enemies.
+{{CaptionedImage|file=Alessi of the Basilisks.jpg|caption=Alessi of the Basilisks of the Labyrinth|align=right|width=400}}
+==Powers==
+===Right of Address===
+The High Exorcist has the right to make a [[Council address|address]] to the [[Military Council]] once per summit. This is intended to allow them to advise the Military Council on spiritual matters, to offer assistance or to ask for assistance in helping the priests of [[the Way]] to better support Imperial forces. To use this power, the High Exorcist informs the [[Herald of the Council]] that they wish to make an address, which will then be added to the agenda for the next [[Council session]].
+
+===Stipend===
+The High Exorcist receives a stipend of ten thrones each season from the Imperial Treasury.
+
+==Appointment==
+The High Exorcist is [[appointment|appointed]] by [[judgement]] of the [[Assembly#Assembly_of_the_Nine|Assembly of Nine]] during the Winter Solstice. 
+
+Any Imperial citizen can hold the title of High Exorcist. They can be [[Revocation|revoked]] by a lesser majority of the [[Assembly#General_Assembly|General Assembly]].
+
+<quote by="Zastyt, the feeder, General Assembly, Summer Solstice 381YE, Not upheld 180- 286">
+To Veto the Senate proposal to abrogate the High Exorcist Stipend of 7 thrones per season from the Imperial Budget and grant them the power to withdraw 7 thrones from the Virtue Fund without the Synod being at to vote or veto.
+</quote>
+<!--
+{{CaptionedImage|file=HighExorcist.jpg|caption='''Character''', High Exorcist|align=left|width=400}}-->
+{{RecentElections|High_Exorcist}}
+[[Category:Title]][[Category:Synod]]

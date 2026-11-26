@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:387YE Summer]]
+__NOTOC__
+<quote by="Proposed: Hercynia, Seconded: Mournwold">To construct a mana sinecure in Serenael, Miaren. It will cost 12 mithril, 36 crowns, take three months, and is fully self funded. To be called the Crystal Fruit Garden and create the title Keeper of the Crystal Fruit, responsible for coordinating Navarr farmers. Elected annually by unanimous decision of the Navarr senators</quote>
+==Overview==
+* Constructs a [[sinecure]] in Serenael, Miaren
+* Passed
+
+==Date==
+* Summer 387YE
+
+==Cost==
+* Standard costs apply
+* 12 mithril
+* 36 crowns 
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Crystal_Fruit_Garden}}
+==Outcome==
+* Now complete, the [[Keeper of the Crystal Fruit]] will be available to appoint by unanimous decision of the senators of Navarr for the first time at the Autumn Equinox 387YE for a reduced term of six months

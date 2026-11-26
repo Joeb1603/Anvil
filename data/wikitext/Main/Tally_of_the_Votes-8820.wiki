@@ -1,0 +1,97 @@
+<quote by="Giovanni, The Throne">I prefer coins to people. Coins only have two faces.</quote>
+==Overview==
+At each summit the Bourse selects citizens to fill most national positions through the Tally of the Votes. The Tally applies to the majority of Bourse titles that are national positions; the Imperial seats and two League national positions are elected by [[Auction of the Seats]].
+
+Participation in the Tally of the Votes is open to all Imperial citizens who have an eligible resource. To support the process, the civil service providing a voting bond to each eligible citizen, with their name, how many votes they hold, the titles they can support and the times of the election.
+
+==Voting==
+* '''The civil service distribute voting bonds to all eligible citizens'''
+* '''Your bond has the date of issue, your name, how many votes you have and what titles you can vote for printed on it'''
+* '''Voting Bonds are only valid are the summit where they are issued'''
+* '''If you have a bond then you can use it to vote in the elections or give it to anyone for them to use'''
+<div style="float: right; margin-left: 10px; max-width: 400px; width: 50%;">
+<table>
+<tr><th>Nation</th><th>Location</th></tr>
+<tr><td>Brass Coast</td><td>Waypoint</td></tr>
+<tr><td>Dawn</td><td>Glory Square</td></tr>
+<tr><td>Highguard</td><td>Chapel</td></tr>
+<tr><td>Imperial Orcs</td><td>Fire Pit</td></tr>
+<tr><td>League</td><td>The Plaza</td></tr>
+<tr><td>Marches</td><td>Community Hall</td></tr>
+<tr><td>Navarr</td><td>Standing Circle</td></tr>
+<tr><td>Urizen</td><td>Near Net of Heaven</td></tr>
+<tr><td>Varushka</td><td>Central Hearth</td></tr>
+<tr><td>Wintermark</td><td>Tree of Names</td></tr>
+</table></div>
+If a nation has one or more Imperial titles to elect through the Bourse then the Civil Service provide each eligible citizen of that nation who is attending Anvil that summit with a bond, a printed document that certifies the number of votes held by that citizen. To be eligible, a citizen must [[#Votes|possess an appropriate personal resource]]. If you are issued with a bond it will have your name on it as well as how many votes you have and what titles they can be used to support. It will also have the date of the summit it was issued at - bonds are only valid at the summit where they are issued.
+
+All tally of the votes elections are held on the Saturday afternoon of each summit. The Imperial civil servants will visit each nation in turn to conduct the elections. If you have a bond you can either attend the election in person to cast your votes or pass the bond to another party to use. A bond is considered to be your legal property - it is legal for a citizen to sell or transfer your bond to any other citizen or foreigner, although only a citizen of the appropriate nation can hold a title.
+
+The civil service will visit each nation in turn at times [[Event schedule|published in advance of each summit]] to conduct the elections. Titles are elected in published order, with the [[Agent of the Bourse]] inviting eligible candidates to present themselves. At the start of the election for each title, all candidates must complete a slip provided by the Agent, stating their name, and how many votes they have gathered. These sealed bids are submitted to the Agent who will then invite the candidate with the strongest claim - the highest total number of votes on their bonds - to step forward and present their voting bonds. The Agent will take all their bonds, count up the votes, and provided they have sufficient legal votes in excess of any other claim, they will be declared the winner. 
+
+All the votes of the winner will be destroyed, anyone who has not won the election is entitled to keep their votes. Voting will then proceed to remaining titles. This means that if more than one title is being elected, then any citizen who is unsuccessful can use the votes they hold for a subsequent election, if they wish to do so.
+
+It is possible for a representative to present the voting bonds of behalf of a candidate who is not present, but it is important to note that a proxy cannot collect any [[#Production|production]]. Any resources that the winner is eligible to collect will be added to their inventory if they are not physically present to collect them.
+
+==Schedule==
+The major Bourse seats operate to a schedule dictated by the materials produced. For example, all titles focussed on the production of white granite are elected at the Summer Solstice each year 
+
+* [[Weirwood]] seats are re-elected at the Winter Solstice.
+* [[Ilium]] seats and the [[Master of the Imperial Mint]] are re-elected at the Spring Equinox.
+* [[White granite]] seats are re-elected at the Summer Solstice.
+* [[Mithril]] seats are re-elected at the Autumn Equinox.
+
+The elections for other titles are spread across the year by the Civil Service to ensure a smooth process. A list of seats to be appointed at the upcoming event can be found on the [[Recent history|recent history]] page and on notices in the Hub. Once appointed, the new seat holders are announced via the Bourse noticeboard in the Hub.
+
+Where multiple national titles are being elected at the same events, the elections are conducted in the order published below based on the civil service assessment of their prominence. Occasionally, the election date for a title will need to be moved to smooth administration and keep elections competitive. Where this happens, an election with a short term of office will be carried out the next time the title is elected, so that the re-election falls at the correct summit in future.
+
+<table>
+<tr><th>Nation</th><th>Winter</th><th>Spring</th><th>Summer</th><th>Autumn</th></tr>
+<tr><td>'''Brass Coast'''</td><td>[[Vizier of the Incarnadine Satchel]]<br>[[Hakima of the Rippling Marshes]]<br>[[Marracossa Sendito]]</td><td>[[Broken Shore Bounty]]<br>[[Cerevado Nets]]<br>[[Dhomiro of Afar]]<br>[[Quaymaster of the Municipal Docks]]</td><td>[[Hakima of Salt and Sand]]<br>[[Corsair of Oran]]<br>[[Mistress of the Glass Parador]]</td><td>[[The Red Depths]]<br>[[Mistress of the Dust Parador]]<br>[[Dhomiro of the Cinnabar Hills]]<br>[[Chief Wrangler]]</td></tr>
+<tr><td>'''Dawn'''</td><td></td><td></td><td>[[Reeve of Drycastle]]<br>[[Envoy to the Karass]]</td><td>[[Castellan of Spiral Castle]]<br>[[Reeve of Boar's Market]]<br>[[Merchant of the Fangs]]<br>[[Warden of the Weary]]</td></tr>
+<tr><td>'''Highguard'''</td><td></td><td>[[Bursar of the House of Spirits]]<br>[[Exarch of Virtue's Rest]]<br>[[Steward of the Ossuary]]</td><td>[[Vigilant Swan]]<br>[[Cinderpath Custodian]]</td><td></td></tr>
+<tr><td>'''Imperial Orcs'''</td><td>[[Shepherd of the Southern Herd]]<br>[[Keeper of the Bronze Bowls]]<br>[[Steward of the Mines of Gulhule]]<br>[[Four Seasons' Boneweaver]]</td><td>[[Steel Fist]]<br>[[Bonesetter of Torfast Trading Post]]</td><td></td><td>[[Sorrowful Tunnels]]<br>[[Legion Engineer]]<br>[[Preceptor of the Skarsind College of Warcasting]]<br>[[Bonesetter of the Delving Market]]</td></tr>
+<tr><td>'''The League'''</td><td>[[Master of Rings]]<br>[[Chair of the Wolf]]</td><td>[[Custodian of the Assayer's Guild]]</td><td>[[Northbound Trademaster]]<br>[[Keeper of the Tome]]</td><td>[[Vardstein Vandal]]</td></tr>
+<tr><td>'''The Marches'''</td><td>[[Steward of Good Leaf Gardens]]<br>[[Bailiff of the Grand Market]]<br>[[Keeper of the Breadbasket]]</td><td></td><td>[[Stone Smith]]<br>[[Reeve of the Happiston Mana Exchange]]</td><td>[[Singing Caves]]<br>[[Alder of Meade]]<br>[[Master of the Root and Stem]]</td></tr>
+<tr><td>'''Navarr'''</td><td><!--[[Thimble]]<br>-->[[Broker of Thorns]]<br>[[Broker of the Invisible Cord]]</td><td></td><td>[[Broker of Treji Wayhouse]]</td><td></td></tr>
+<tr><td>'''Urizen'''</td><td>[[Gloaming Merchant]]<br>[[Architect of Illumination]]<br>[[Architect of the Conscious River]]</td><td></td><td>[[Arch of the Sky]]<br>[[Quaymaster of the Hesychian Docks]]<br>[[Architect of the Crucible]]<br>[[Custodian of the Bleak Tower]]</td><td>[[Brilliant Star]]<br>[[Architect of Hammers]]</td></tr>
+<tr><td>'''Varushka'''</td><td>[[Harbourmaster of the Semmerlak]]<br>[[Eagle of Triosk]]<br>[[Overseer of the Westward Road]]<br>[[Warden of the Trees and Hills]]<br>[[Speaker to the Leshun]]</td><td>[[Gift of the Dwindling Star]]<br>[[Merchant-Boyar of the Stinking Market]]<br>[[Merchant Boyar of the Bittershore]]<br>[[Custodian of Ivarsgard Docks]]</td><td>[[Granites of Veltsgorsk]]<br>[[Boyar of the Iron Roads]]<br>[[Keeper of the Bonehives]]<br>[[Custodian of the Shchaslyvyy Spile]]</td><td>[[Eternal Shafts of Time]]<br>[[Bargainer of the Iron Tower]]<br>[[Merchant Boyar of the Light Market]]<br>[[Tolvoli Butcher]]<br>[[Volhov of the Wyrding Tower]]</td></tr>
+<tr><td>'''Wintermark'''</td><td></td><td>[[Mediator of Wreck]]<br>[[Talon of Kauppahall]]<br>[[Mediator of Fisk]]</td><td>[[Dean of Runesmith's Caution]]</td><td>[[Pride of Ikka's Tears]]<br>[[Keeper of the Runegrott]]<br>[[Kalpaheim Tradeholder]]</td></tr>
+</table>
+
+==Selection==
+An Imperial citizen must be a member of the appropriate nation to hold a national Bourse seat and it must be the only Imperial title they control.
+
+All national titles elected through the bourse are re-elected annually. If the title is elected at the normal summit each year then the chosen citizen serves for one year until the start of the equivalent summit one year later.
+
+If a national Bourse seat becomes vacant outside the normal election cycle (due to death, resignation, or excommunication of the title holder) then the seat is elected at the following summit. In this case, the winning citizen will only serve for the remaining term. The title becomes vacant again at the normal point in the election cycle.
+
+==Votes==
+<div style="float:right; width: 500px;"><box>'''Determining the votes'''<br>
+Voting for a national bourse position depends on ownership of a specific [[Resource#Personal_Resource|personal resource]]. A personal resource provides 10 votes, plus an extra 2 votes for each time it has been upgraded. You receive the average of these votes for ''each season'' during the previous year that the resource was active. Only the actual rank of the resource counts in this calculation. [[Enchantment|Enchantments]], [[curse|curses]], penalties or bonuses for downtime effects and so on have no effect.
+
+Brand new characters who have the appropriate personal resource are assumed to have had that resource for the previous year (and taken the appropriate action in the case of the Imperial Orcs). Likewise, players with the resource who have missed an event similarly receive votes for events they did not attend. We've made this rule for game balance reasons - so that new characters and players unable to attend every event are not unfairly penalised.</box></div>
+
+The Bourse appoints national positions by vote of members of that nation who hold the resources traditional for that nation. For example, a League position in the Bourse is usually elected by vote of League business owners. Each citizen who owned the right resource receives a number of votes proportional to the size of their resource (even if they have changed their resource since then) which they can cast for a single candidate of their choice whenever the position is elected. To be eligible to vote the required resources are:
+
+* [[The Brass Coast]] - [[Fleet|fleets]]<sup>(1)</sup>
+* [[Dawn]] - [[Military unit]]
+* [[Highguard]] - [[Congregation]]
+* [[Imperial Orcs]] - [[Military unit]] [[Military_unit#Supporting_an_Army|supporting]] an [[army]] during the previous year.
+* [[Navarr]] - [[Herb garden]]
+* [[The League]] - [[Business]]
+* [[The Marches]] - [[Farm]]
+* [[Urizen]] - [[Mana site]]
+* [[Varushka]] - [[Mine]] and [[Forest]] owners
+* [[Wintermark]] - [[Military unit]]
+
+<sup>(1)</sup> Prior to the Spring Equinox 384YE, votes in the Brass Coast were restricted to fleets engaging in [[Fleet#Privateering|privateering]] during the previous year. This [[384YE_Spring_Equinox_winds_of_fortune#Sails_of_Fire|was changed]] following a statement of principle by the Brass Coast National Assembly that gained widespread support in the nation.
+
+==Production==
+For national Bourse seats that produce large amounts of mithril, white granite, weirwood or ilium, the most recent season's production can be immediately claimed from the Agent of the Bourse by the winning candidate, if they are present. Any production that is not claimed is added to their inventory. Subsequent production in later seasons is added to the title holder's inventory before each summit until the last one. The title holder does not receive any production on the run-up to the summit where the title is due to be re-elected - that is reserved for whoever wins the auction for the title at the summit.
+
+For other titles that do not produce large amounts of mithril, white granite, weirwood or ilium, the winning candidate receives whatever production or access to a ministry the title provides in the following downtime, until the title is elected again.
+
+==Removal==
+The Bourse is explicitly protected from interference from the [[Synod]] in the [[Imperial Constitution]]. Because of this, it is not possible to revoke a Bourse seat holder to remove them from their position. They serve until the title is reelected or until they die or step down.
+{{Bourse Further Reading}}

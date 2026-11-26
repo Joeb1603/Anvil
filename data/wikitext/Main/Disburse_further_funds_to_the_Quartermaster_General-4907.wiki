@@ -1,0 +1,19 @@
+<ic>
+Disbursal of funds with the intention that the Quartermaster General can resupply the imperial armies.<br><br>''Proposed by Skarsind, seconded by TBC''</ic>
+
+===Overview===
+* A further request for funds in addition to those disbursed through [[Disburse Funds to the Quartermaster General III|an earlier motion]].
+* Passed at 200 Thrones.
+
+==Date==
+* Spring 379YE
+
+==Cost==
+* 200 Thrones
+
+==Progress==
+* 200 Thrones disbursed to Senator Skarsind.
+
+[[Category:Senate Motion]]
+[[Category:379YE Spring]]
+__NOTOC__

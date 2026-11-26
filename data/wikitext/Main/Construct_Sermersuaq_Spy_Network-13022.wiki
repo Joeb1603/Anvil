@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:387YE Summer]]
+__NOTOC__
+<quote by="Announced by Rahmah i Darwisj i Erigo, Imperial Spymaster">The threat of the claw lingers and grows. I commission the means to spy the oncoming wave. Commission a spy network in Sermersuaq</quote>
+
+==Overview==
+* Constructs a [[spy network]] in [[Sermersuaq]]
+* Announcement by the [[Imperial Spymaster]]
+
+==Date==
+* Summer 387YE
+
+==Cost==
+* Standard costs apply
+* 10 weirwood
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Construct_Spy_Network_in_Sermersuaq}}
+==Outcome==
+* Once complete, [[military unit|military units]] will be able to support the spy network in the territory

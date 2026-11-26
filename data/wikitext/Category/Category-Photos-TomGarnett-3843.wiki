@@ -1,0 +1,10 @@
+<noinclude>
+Tom Garnett
+
+[http://tgarnett.com Website]
+
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+<nowiki>{{Tom}}</nowiki>
+</noinclude>
+<includeonly>[[Category:Photos:TomGarnett]] [[:Category:Photos:TomGarnett|Image by Tom Garnett]]</includeonly>

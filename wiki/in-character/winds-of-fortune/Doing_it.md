@@ -1,0 +1,116 @@
+---
+title: Doing it
+source: https://www.profounddecisions.co.uk/empire-wiki/Doing_it
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 387YE Spring
+- Recent History
+- Challenge
+event: 387YE Spring
+last_edited: '2026-01-16T09:38:04Z'
+revision: 132813
+in_character_boxes: 1
+---
+
+# Doing it
+
+> *In-character text:*
+>
+> "You've checked their gate? Everything is in order?"
+>
+> "Yes, my lord. Their servants have confirmed that the magic of their gate will open to the part of their realm they call Alderly. Their land grows close to the Forest there. He should have no problem reaching out to touch it."
+>
+> "And the Unicorn Prince? He has agreed to our terms? He will open the Forest of Arden for the hunt?"
+>
+> "Yes, my lord. He seemed quite... eager... to help."
+>
+> "Did he? Did he now... that *is* interesting... and more than a little worrying."
+
+*[Image: Barien exemplifies meeting, setting, and overcoming challenges.](https://www.profounddecisions.co.uk/empire-wiki/File:BarienArt.jpg)*
+
+## Overview
+
+It is the second season since [Barien](../eternals/Barien.md) has unveiled the revitalised [Challenge the Iron Duke](../../mixed/magic/rituals/Challenge_the_Iron_Duke.md). Once again, the [eternal](../eternals/Eternal.md) of [Summer](../eternals/Realm.md#summer) has laid out two challenges for those who attend [Anvil](../world/Anvil.md) to partake in and seek [glory](../nations/dawn/Glory.md) and reward.
+
+After the experience of the challenges in Winter, the heralds of the Iron Duke have reiterated some of the newly founded rules regarding the new contests. Every person who has [Challenge the Iron Duke](../../mixed/magic/rituals/Challenge_the_Iron_Duke.md) cast upon will be *guaranteed* entry to a challenge. Depending on the challenge, they *may* be able to bring a certain number of attendants with them to assist. The expectation will be set by the [heralds](../eternals/Inhabitants_of_the_realms.md#heralds) prior to each summit, but the exact number will depend on the nature of the challenge and the number of castings. The [Civil Service](../../mixed/government/senate/Civil_service.md) will publish exact numbers in [the Hub](../world/Anvil.md#the-hub) on Saturday morning for all to see.
+
+As always with the new format, challengers will need to choose a reward from one of the listed items currently in the Dragonforge. Challengers who have been victorious in the past year may not take part in another challenge until a year has passed.
+
+## Challenging the Duke
+
+- **To formally enter, a challenger must be the recipient of the Challenge the Iron Duke ritual**
+- **A challenger can only enter a single challenge each summit; if they win they may not enter again for a year**
+
+|  |  |
+| --- | --- |
+| **Last Season's Covens** | |
+| The Coven of Golden Wings | Dawn |
+| The Eternal Family | Navarr |
+| The Glass Mantle | The Brass Coast |
+| The Tempest Flame | The Brass Coast |
+| Ursolskin | Wintermark |
+| Voices of the Unbound Storm | Wintermark |
+
+To formally enter one of the Iron Duke's contests, a citizen must be the recipient of the Summer ritual [Challenge the Iron Duke](../../mixed/magic/rituals/Challenge_the_Iron_Duke.md). The ritual is magnitude 30, and only a handful of [covens](../../out-of-character/rules/Bands.md#covens) have it mastered. It is possible to cast the ritual without it being mastered, but it is harder and more expensive, so anyone who is interested in entering a challenge would be best advised to seek out a coven who are known to be able to cast the ritual. According to the heralds of the *Traveller*, six covens successfully performed the ritual last season. The heralds advise those interested in taking part to seek out these covens first.
+
+Even for those covens who have the ritual mastered, it is expensive. Champions who seek to prove themselves will need to find some way to convince a coven to put them forward. Just being able to pay the ritual's cost might not be enough, though it is likely the minimum price that will be asked. The heralds are keen to stress that there will be challenges available at each equinox and solstice, so would-be challengers who are not wealthy should plan accordingly. It could easily be the work of several seasons just to persuade a coven to put you forward.
+
+## Challenge of the Caged Pincer
+
+- **Barien has hired a troupe of beast handlers from the independent state of Beoraidh**
+- **They will give the opportunity for challengers to fight a dire astacid in close combat**
+- **Each challenger will need to bring two attendants, and will fight a dire astacid and its two handlers. Each challenger and their attendants will fight in a separate bout**
+- **If there is high demand, some challengers may be required to fight together in order to fit everyone in**
+- **Fights will be until all of one side yields or is incapacitated. The Iron Duke does not expect any deaths and expects combatants to behave honourably**
+- **The fight will take place in The Green Iron Grove in Icarion, Mareave at 14:45 on the Saturday. Challengers should present themselves to the heralds of Barien at 14:30 before the Sentinel Gate. Spectators are welcome to come and watch the bouts**
+- **This is a [combat contained](../../out-of-character/rules/Accessibility.md#combat-unlikely-or-contained) encounter**
+
+An arena battle against a great beast of some kind is a classic for a reason. With the new formulation of the Iron Duke's challenges, Barien has instructed his heralds to invite the fighters of the Empire to a gladiatorial battle. Though the orcs of the [Broken Shore](../world/Bay_of_Catazar.md#the-broken-shore-and-attar) don't usually have much truck with the Summer realm, Barien's heralds have sought out the services of the gladiators of [Beoraidh](../nations/imperial-orcs/Mareave.md#beoraidh) to provide a suitable challenge to the Empire. The now independent orcs of Beoraidh are happy enough to oblige (once suitably compensated by Barien's heralds) and have corralled two [dire astacids](../barbarians/Dire_Astacid.md), the giant lobster war beasts common among the Grendel.
+
+The challenge is simple. Some Imperial warriors may have faced one of these terrible creatures on the battlefield before. Now, they will have to face them in the confines of an arena. Each challenger may bring two attendants to fight alongside them, to face off against a dire astacid and its two gladiator handlers. Fighters may bring in whatever they choose, but once the fight begins no outside interference is allowed. The fight will be until one side yields or is incapacitated. As always, Barien expects all participants to honour the terms of this engagement.
+
+It is hoped that each Imperial challenger will be able to fight in their own separate bout, with attendants of their choosing. Only if the demand is too great will it be necessary for some challengers to have to fight together. Any pairings, if necessary, will be listed in the Civil Service Hub in the morning on the Saturday.
+
+The conjunction to Mareave is large, and any spectators are welcome to attend and watch the contests as they happen.
+
+## Challenge of the Black Web
+
+- **The heralds of the Iron Duke have laid down a challenge to those who consider themselves to have prowess in stealth**
+- **They will have access to a forest chamber populated by spider heralds of Jaheris**
+- **Challengers will have 30 minutes to try and gather glowing tokens from the forest, and will need to gather a certain number to be considered successful. The challenger who gathers the most will get an additional prize**
+- **Challengers may bring up to two attendants with them**
+- **The spider heralds may be engaged in combat, but a single hit from them will prevent whoever is struck from continuing the challenge**
+- **Challengers should meet at the Sentinel Gate at 22:00 on the Saturday.**
+- **This is a [combat possible](../../out-of-character/rules/Accessibility.md#combat-possible) encounter**
+
+Since the ascension of [Jaheris](../eternals/Jaheris.md) as *Lord of the Forest of Arden*, the woods of the summer realm have changed. The trees grow closer together and the shadows deepen, and where noble beasts and stags once frolicked, now spiders and silver faced hunters stalk the realm of the *Unicorn Prince*. In these woods the eternals and heralds of the realm of summer have hunted for time immemorial, in celebration of a noble activity and to demonstrate their prowess and bravery. While some are great displays of hunting majestic beasts, complete with trumpets and pageantry, some are quieter, but no less triumphant. Barien has enlisted the aid of Jaheris in setting up one of these quiet hunts, and offers the chance to participate to the heroes of Anvil.
+
+The task is simple. A chamber resembling the Forest of Arden has been set aside for this purposes. At the allotted time, each challenger will have free reign of the woods for **thirty minutes** with the task of finding glowing tokens scattered throughout. Each challenger **may bring up to two attendants to help them, if they wish**. But they will not be alone in these woods. Spider heralds of the Unicorn Prince also stalk this darkened magical forest, moving slowly but purposefully (unless giving chase to a fleeing target...), each carrying a magical venom that can be delivered to a hapless hero with a single blow. Imperial citizens afflicted in this way will not be able to carry on with the quest and will lose any tokens they are carrying, and will need to seek treatment from the dangerous magic. Therefore the order of the day will be using **stealth and cunning** to avoid the heralds, while moving quickly and assuredly enough to get enough tokens.
+
+In order to prevent losing their winnings they may "bank" their tokens with the Barien herald administering the challenge - but all challengers will be searching for the same tokens at the same time, and thus saving your tokens means risking falling behind your competitors. The spider heralds are weak and can be ambushed, but doing so risks ending your challenge in a single hit from their magic.
+
+Challengers will need to obtain a set number of tokens in order to be considered victorious. The **exact number will be told as part of the ceremony before the challenge begins**. The more challengers there are for the competition, the fewer tokens each challenger's team needs to recover to succeed. Of course, whichever challenger obtains the most tokens will **win an additional prize**.
+
+Challengers who take up this contest should present themselves at the Sentinel Gate at 22:00 on the Saturday to be briefed by the heralds of the Iron Duke. The conjunction will open at 22:15 to Alderly, [Mournwold](../nations/the-marches/Mournwold.md), a short walk from the chamber.
+
+**OOC Note:** This is intended as a stealth encounter, and the monsters will be briefed not to engage players in protracted fights. As a single hit from a monster will end the encounter for players, any player who attends the encounter should not be expected to get hit more than once, if at all. In addition, it is not necessary at all to try and fight the heralds. However, given this encounter will take place in the dark around other players, it can't be guaranteed that unexpected combat might break out even if that's not the intention. Any player who is thinking of going on this encounter must bear in mind the potential risks.
+
+## Further Reading
+
+- [Barien](../eternals/Barien.md)
+- [Challenge the Iron Duke](../../mixed/magic/rituals/Challenge_the_Iron_Duke.md)
+
+- [Bricks and boards](Bricks_and_boards.md) - Spring 388YE wind of fortune detailing the challenges for the summit
+- [Locked runes](Locked_runes.md) - Winter 387YE wind of fortune detailing the lone challenge for the summit
+- [An iron feast](An_iron_feast.md) - Autumn 387YE wind of fortune detailing the challenges for the summit
+- [Build it up](Build_it_up.md) - Summer 387YE wind of fortune detailing the challenges for the summit
+- Doing it - Spring 387YE wind of fortune detailing the challenges for the summit
+- [The long road](The_long_road.md) - Winter 386YE wind of fortune introducing the new Challenge the Iron Duke
+
+- [Game Design](../../mixed/magic/rituals/Challenge_the_Iron_Duke.md#game-design) - a few notes discussing the new version of Challenge the Iron Duke
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [387YE Spring](../../indexes/by-category/387YE_Spring.md), [Recent History](../../indexes/by-category/Recent_History.md), [Challenge](../../indexes/by-category/Challenge.md)

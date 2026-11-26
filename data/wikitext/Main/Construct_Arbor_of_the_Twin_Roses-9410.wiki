@@ -1,0 +1,30 @@
+[[Category:Senate Motion]][[Category:383YE Winter]]
+__NOTOC__
+<quote by="Proposed by Weirwater, Seconded by Reikos">To commission a sinecure "The Arbor of the Twin Roses" in Semmerholm to honour the exemplar Elayne Silverlark.
+
+Creating the position "The Voice of the Twin Roses" elected annually by the Dawnish National Assembly. Revocable by the Dawnish National Assembly.
+
+Self-funded</quote>
+
+==Overview==
+* Commissions a [[sinecure]] in Ferrond, [[Semmerholm]] as detailed in the  '''[[Draw_strength_from_vulnerability#Roses|Draw strength from vulnerability]]''' Wind of Fortune
+* Passed
+
+==Date==
+* Winter 383YE
+==Cost==
+* Non-standard costs apply
+* 8 wains of white granite
+* 8 wains of weirwood
+* 32 crowns in labour costs
+* 3 months to construct
+==Progress==
+{{CommissionProgress|Arbor_of_the_Twin_Roses}}
+==Outcome==
+* Once completed the [[Voice of the Twin Roses]] will be available to appoint by the Dawnish National Assembly
+
+<!--
+Suggestion for the architect for the Glory tower to include a male figure in the architecture styled as Lord Endric Castrovalva except with De Rondell arms (moons/eagles) and the Love tower to include a female figure styled as Elayne Silverlark except with Orzel arms (eagles/peonies).
+
+[Eve has reflected on the unrequited love story of Elayne Silverlark being akin to her own story, part of her reason for putting forward the bill - not that she'd tell anyone this - so this amused me if it's possible].
+-->

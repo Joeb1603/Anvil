@@ -1,0 +1,198 @@
+<div style="float:left; width: 600px; clear: right;">{{CaptionedImage|file=Thorns in the Wood.jpg|caption=The Empire's military captains can tread many paths, and find many things at the end. Why do ''you'' fight? For glory, for duty, for riches, for acclaim, for the pleasure of a job well done?|align=left|width=600}}</div>
+==Overview==
+In addition to the normal actions a [[military unit]] can take, there are also ''ventures''. These are downtime actions that have arisen through player action, often as the result of an [[opportunity]]. They are classified into one of five categories [[#Campaigning|campaigning]], [[#Guarding|guarding]], [[#Raiding|raiding]], [[#Questing|questing]], or [[#Scouting|scouting]]. This gives an idea as to the kind of activity the military unit is engaging in, as well as defining which [[ritual]] [[enchantment|enchantments]] provide bonuses. Each venture also lists the rewards a standard military unit will receive, with an [[Military unit#upgrade|upgraded]] or enchanted military unit getting proportionately more. 
+
+Unlike the default actions, such as [[Military unit#Campaigning|supporting an Imperial army]], not every venture is available to every character equally - some are much less productive for some nations, or may be available only to characters that meet a specific criteria. Many ventures are also temporary, and only available for a set period of time. Others are permanent - or will last until a certain condition is met. For example '''Explore the Sarangrave''' remained available as long as the Feverwater Docks were in Imperial hands, and whilst the Sarangrave was hostile territory.
+
+In each case, you're encouraged to make up stories about your downtime actions in keeping with the details here. Profound Decisions won't provide any additional information to someone whose military unit engages in one of these ventures, but there may be updates in the Winds of Fortune depending on the nature of the venture and what is going on in the wider campaign.
+<br><br><big>'''The Wider Campaign'''</big><br>By default a venture has no impact on the wider, ongoing campaign unless it is explicitly called out as doing so. These actions do not impact barbarian nations or Imperial armies, influence strategies, or create opportunities by themselves. No matter how many players choose to [[#Raid the Jotun|raid the Jotun]], it will not affect the forces or campaign actions of the western orcs unless that has been specifically called out, usually in a wind of fortune or wind of war.
+
+==Campaigning Ventures==
+Campaigning ventures are quite rare. They always represent disciplined support for military goals and strategies. By far the most common form of campaigning is supporting an [[Army|Imperial army]], fighting at the direction of an Imperial [[general]]. 
+
+There are currently no campaigning ventures available. Examples of past campaigning ventures have included opportunities to support foreign armies, or to become involved in the short-lived Asavean civil war.
+
+==Guarding Ventures==
+Guarding ventures involve protecting someone, something, or somewhere. It might represent protecting caravans from bandits or raiders, defending settlements threatened by sinister forces, supporting a city watch or local law enforcement, or engaging in mercenary work. The default guarding venture is either [[#Mercenary Work|mercenary work]], or supporting a [[fortification]], both of which are always available to any character. The opportunities to support the beacons in [[Kallavesa]] and [[Hahnmark]], or to beat the bounds in [[the Marches]], are also guarding actions but they are available only to [[Wintermark|Winterfolk]] and Marcher [[beater|beaters]] respectively.
+
+Previous guarding ventures included an opportunity to [[They_bit_the_cats#Rat_Hunt|hunt monstrous rats]] in [[Temeschwar]]. The following ventures are available to Imperial military captains at this time.
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=ForwardFreeCompany.jpg|align=right|caption=There is always opportunity in the Empire for mercenaries to make a living doing jobs for wealthy patrons.|width=400}}</div>
+===Mercenary Work===
+* '''This venture is always available, and can be undertaken by any Imperial character'''
+A military unit can always find work in the Empire. Common tasks undertaken by those pursuing mercenary work are guarding merchant caravans; escorting pilgrims; protecting settlements threatened by barbarian raiders, unnatural forces, or wild beasts; providing security to a business endeavour; helping patrol the borders or roads; discouraging bandits and brigands from preying on travellers; or doing all sorts of "work for hire".
+
+'''Rewards:''' A standard military unit undertaking this venture receives 108 rings, and four [[Military unit#Random Resources|random resources]]. This represents a combination of payment received, bonus rewards, or loot taken from defeated raiders or criminals.
+===Beating the Bounds===
+* '''This venture is only available to Marcher characters with the beater archetype.'''
+* '''Introduced in the ''[[Kith_and_kin#Hard_Work|Kith and kin]]'' wind of fortune'''
+* '''Remains available as long as the Marches control at least one Bounders Hall.'''
+<!--<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=With Vated Breath.png|align=right|caption=Roads and trods are the lifeblood of Imperial commerce and communication and must be protected.|width=400}}</div>-->
+A [[beater]] can reliably find payment from the Bounds Halls of the Marches for patrolling the borders and raising the alarm if they spot barbarians encroaching. The Halls help to organise contributions from grateful farmers in the territory, ensuring there are sufficient funds to pay those doing the hard work of defending the borders.
+
+Military units taking this action contribute to the defence of the territory against any attack from an invading force.
+
+'''Rewards:''' A standard military unit undertaking this venture receives 100 rings. This represents payment from grateful Marcher landowners in the Mourn and Mitwold
+
+<!--===Kahraman Caravan Guards===
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Time and time again.jpg|align=right|caption=The Freeborn in Kahraman face the threat of a Jotun invasion, and the depredations of bandits and raiders.|width=400}}</div>
+* '''This venture is only available to [[The Brass Coast|Freeborn]] and [[The League|League]] characters.'''
+* '''Introduced in the ''[[Time_and_time_again#Short_Term_Solutions|Time and time again]]'' wind of fortune.'''
+* '''Remains available while the Senate continues to pay the upkeep cost.'''
+The [[The Brass Coast|Freeborn]] territory of [[Kahraman]] has been beset by bandits as long as anyone can remember, and the prosperous [[dhomiro]] and parador masters are always in the market for mercenaries prepared to help defend their interests. Most of the raiders are [[Jotun]] or Lasambrian, emerging down from the western hills to launch lightning-fast attacks against the rich upland mines and the wealthy lowland farms. Things [[Time_and_time_again#Short_Term_Solutions|came to a head]] in early 385YE, with the [[Senate]] choosing to pay for guards and mercenaries to protect the people of the Cinnabar Hills from raiders, smugglers, bandits, and accidents. 
+
+'''Rewards:''' A standard military unit undertaking this venture earns 90 rings and five random [[Materials#Metals|metal]] ingots.
+-->
+===Protect the Vales of Varushka===
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Tooled Up Boyar.jpg|align=right|caption=The Wolves of Varushka have grown bold, and the defenders of that wild nation must do likewise.|width=400}}</div>
+* '''This venture is only available to [[Varushka|Varushkan]] and [[Dawn|Dawnish]] characters.'''
+* '''Introduced in the ''[[Mime_each_lonely_word#Venture|Mime each lonely word]]'' wind of fortune.'''
+* '''Remains available until the rising threat of Varushkan horrors subsides; perhaps longer.'''
+The [[Mime_each_lonely_word#The_Naming_of_the_Beasts|beasts of Varushka stir]], and the [[boyar|boyars]] are keen to retain [[schlacta]], [[Varushka_military_concerns#Warden_Fellowships|warden fellowships]], and [[Varushka_military_concerns#Wagon_Raiders_and_Sell_Swords|sell-swords]] to protect their vales. Travellers traversing the dark hills and darker woods know to bring sharp swords, and strong arms to wield them. Of course, where there is need, there is potential for profit. Undertaking this venture likely means facing the [[Varushkan Monster|Wolves of Varushka]] in battle - ambulatory cadavers, hungry ghouls, insidious [[Varushkan_Monster#Mora|mora]], unnatural [[Varushkan_Monster#Wolves|dubik]], vicious [[Varushkan_Monster#Rusalka|rusalka]], and maybe even a lesser [[plaguewulf]] and its damned entourage. Those who do so can expect to be reasonably well paid by the boyars, merchant-boyars, and wise ones for their services.
+
+'''Rewards:''' A standard military unit that undertakes this venture receives 90 rings, and five random [[Materials#Natural_Materials|measures]] or [[Materials#Metals|ingots]] from their venture.
+
+===Roadwardens===
+* '''This venture is only available to Navarr characters.'''
+* '''Introduced in the ''[[Road_out_of_nowhere#Roadwardens|Road out of nowhere]]'' wind of fortune'''
+* '''Remains available as long as the Navarr remain committed to protecting Imperial roads.'''
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=With Vated Breath.png|align=right|caption=Roads and trods are the lifeblood of Imperial commerce and communication and must be protected.|width=400}}</div>
+One of the problems with roads, even roads as well built and maintained as those of the Empire, is the increase in banditry they cause. While the roads make it easier for merchants and pilgrims, they also make it easier for two-legged predators to find people to prey on. Inspired by the ''[[Kahraman#Roads_of_Kahraman|kamkrag]]'' built in [[Kahraman]], and by their tradition of establishing [[wayhouse|wayhouses]], the Navarr have stepped up their efforts to patrol the Empire's roads. Many wayhouse keepers have traditionally set aside areas for “roadwardens” to rest and resupply. A [[Road_out_of_nowhere#Roadwardens|recent appraisal]], and the [[385YE_Winter_Solstice_Synod_judgements#Judgement_60|support]] of the Navarr National Assembly, encouraged people to formalise this relationship. 
+
+Those undertaking this venture are likely to be involved in escorting individuals and caravans along Imperial roads, hunting out bandits and natural threats, protecting roadbuilding engineers, delivering messages, occasionally popping up to Varushka to fight wolves, and otherwise being active on the Empire's roads.
+
+''' Rewards:''' A standard military unit undertaking this venture receives 120 rings and four [[Military unit#Production|random resources]].
+
+==Questing Ventures==
+Questing ventures cover all kinds of opportunities to head out into the wild places and explore them, engaging with the threats that are found there, and seeking loot and rewards. The default questing action is to [[#Seek Glory|seek glory]] - to undertake the kinds of actions that would be familiar to anyone who has played a tabletop roleplaying game. 
+===Seek Glory===
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Phoenix Knight.jpg|caption=Whatever one's motivation there are ample opportunities to find [[glory]] or perform [[heroism|heroic deeds]] within the Empire and in nearby lands.|align=right|width=400}}</div>
+* '''This venture is always available, and can be undertaken by any Imperial character'''
+Some warbands relish the opportunity to venture into dangerous areas looking for opportunities to face challenges and struggle against dangerous creatures or even nature itself. For these folk, the experience is a reward all by itself, but that doesn't mean they pass up an opportunity to pick up any loot they find lying around. Haring off into jeopardy can be a costly endeavour, and one always needs more healing potions, ritual enchantents, and ten-foot poles. Sometimes these dangerous situations are found within Imperial borders delving into the wild places of Varushka or Dawn, seeking challenges in the mountains of Urizen or Wintermark, persuading a bunch of boggarts who have taken up residence in an old mine to either come to an arrangement with nearby villagers or be driven out. Sometimes it involves travelling further afield - looking for trouble and wonder in barbarian lands or howling wilderness. It is distinct from [[#raiding Ventures|raiding]] because the focus is on challenge, excitement, and risk rather than the brute-force slaying of enemy combatants. Players who take their military unit questing are encouraged to create dramatic stories about what they did and found, appropriate to the world of Empire. Whether hiding from angry gryphons after a misunderstanding, wrestling an ogre in the foothills of Hahnmark, or helping an exorcist lay to rest the angry spectres on a haunted battlefield, all are represented by the seek glory venture.
+
+'''Rewards:''' A standard military unit that undertakes this venture receives ten [[military unit#Random Resources|random resources]]. The nature of the rewards can help inform the story you create to explain what you have been up to, representing either loot gained from defeated opponents, wrenched from the treasure chest of an unliving boyar, or given as a reward by grateful citizens freed from the threat of night-time terrors.
+
+===Explore the Depths===
+* '''This venture is available to characters from Dawn, Wintermark, Navarr, the League, and the Marches.'''
+* '''First introduced in the ''[[Brightness long ago]]'' wind of fortune.'''
+* '''Remains available as long as Lorenzo's Deep Pockets remains open and accessible.'''
+After the Summer Solstice 384YE, the [[Master of the Koboldi]] arranged an [[Brightness long ago|expedition to the depths]] to secure the magical Red Iron Door in the monster-haunted depths below [[Delver_of_the_Depths#Lorenzo.27s_Deep_Pockets|Lorenzo's Deep Pockets]] (a great sinkhole with many names located in the north-west of the Empire). They contained the worst of the [[trogoni|subterranean horrors]], but the winding passages and galleries extend for miles and miles and there are still all kinds of threats both mundane and magical to be found deep beneath the earth. The sinkhole's depths have been [[Delver_of_the_Depths#Exploration_of_the_Sinkhole|explored]] but they still represent an ideal place for the adventurous to seek personal glory and treasure. Delvers from the nations surrounding the sinkhole sometimes descent into the deep, dark tunnels to explore the ruins, fight the monsters, and seek out treasure - and given the place is a deadly maze full of pitfalls and alien beasts keeping the Dawnish away would be next to impossible.
+
+'''Rewards:''' A standard military unit that undertakes this venture receives 3 ingots of [[weltsilver]], 3 ingots of [[tempest jade]], and 3 [[Game_items#Mana_Crystals|mana crystals]].
+
+===Hunt the Suaq Wastes===
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Heavy Steinr Shield Warriors.jpg|caption=There are terrible beasts in northern Sermersuaq and, unless they are thwarted, they will raven and despoil until there is nobody left.|align=right|width=400}}</div>
+* '''This venture is only available to [[Wintermark]] and [[Dawn|Dawnish]] characters.'''
+* '''First introduced in the ''[[Watching_my_mistakes#A_Beacon_in_the_North|Watching my mistakes]]'' wind of fortune.'''
+* '''Remains available while the Hall of Hunters stands, and creatures of the realms continue to threaten Sermersuaq.'''
+When the Jotun conquered [[Sermersuaq]], the ability of the [[Conclave]] to [[Alignment#Enmity|protect the territory]] from the wicked influence of the [[eternal]] [[Agramant]] faltered. The Howler released all manner of [[Inhabitants_of_the_realms#Guardians|beasts and monsters]] into the wilds of the north-western territory, alongside a few of his twisted heralds. This would be bad enough but to complicate matters when the Jotun were driven out by an alliance between the [[Thule]] and the Empire, the eternal lord ''[[Hayaak]]'' [[A_wandering_fire#Lions_and_Song_.28Battle.29|unleashed his vengeance]] on the warlocks gathered at [[Sermersuaq#Tanikipari|Tanikipari]]. After the Thule were dealt with, Hayaak's monsters did not return to the [[Realm#Summer Realm|Summer realm]]. Instead, they scattered across the land. And like Agramant's twisted offspring, the instruments of Hayaak's bloody vengeance seem only too eager to prey on unwary travellers. 
+
+Fortunately such threats are meat and drink to the heroes of Wintermark. The [[Banner-bearer_of_Atkonaroq#Hall_of_the_Hunters|Hall of the Hunters]] was established to serve as a haven for bands of heroes venturing into Sermersuaq to hunt down the beasts of ''Icesnap'' and the Griffon Prince. Inevitably some [[Dawn|Dawnish]] [[glory]] hounds turned up as well - drawn by the promise of desperate battles against terrible monsters - but the general consensus is the more heroes that come to protect Sermersuaq, the better.
+
+Since the start of the Winter Solstice 387YE, the creatures of Agramant and hunters of Hayaak have been almost entirely pushed out of the territory. With the rise, and subsequent fall, of the Cult of the Falconer, the focus of this venture has changed to focus on safeguarding the citizens of the territory.
+
+'''Rewards:''' A standard military unit will receive 110 rings and a random "''Wasteland vis''" (either a [[Vis#Golden_Apples|golden apple]] or a vial of [[Vis#Heart.27s_Blood|heart's blood]]) from their venture.
+
+===Quest Against the Vallorn===
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Quest Against the Vallorn.jpg|caption=Much [[glory]] can be gained from journeying into the unknown depths of fecund [[Brocéliande]].|align=right|width=400}}</div>
+* '''First introduced in the ''[[Between_wind_and_water#In_the_Market_For_Glory|Between wind and water]]'' wind of fortune'''
+* '''Remains available as long as the Knight of the Greenwood and the Reeve of Greenforest Fayre remain in good standing and committed to supporting Dawnish venturers.'''
+The [[Between_wind_and_water#The_Manor_of_the_Greenwood|Manor of the Greenwood]] at [[Semmerholm#Elvette|Elvette]] in [[Semmerholm]] serves as a sanctuary for Dawnish knights and yeofolk to seek [[glory]] in the depths of vallorn-infested [[Brocéliande]], facing vallornspawn, orcs, and perhaps even stranger things (such as monsters from the [[Realms#Spring realm|Spring realm]]), as well as visiting ancient Terunael ruins. They may even find themselves following the call of glorious venture into the western [[the Barrens|Barrens]] or the edges of the [[Great Forest of Peytaht]]. This venture requires both the [[Knight of the Greenwood]] and the [[Reeve of Greenforest Fair]] to both be in good standing (with a noble and a yeofolk holding them), but will otherwise persist so long as the Manor and the Fayre still stand and remain committed to supporting the Dawnish venturers. 
+
+'''Rewards:''' A standard military unit will receive 48 rings (representing treasure and rare finds), 6 random [[herb|herbs]], and 4 measures of random [[Materials#Natural_Materials|forest measures]] from their venture.
+
+==Raiding Ventures==
+Raiding ventures involve small-scale attacks against the Empire's enemies. It may involve attacking [[Jotun]] outposts in the west, skirmishing with the [[Druj]] in the east, or launching daring assaults against [[Grendel]] interests in the south. It might also represent bringing organised criminals to justice, hunting dangerous beasts, or frustrating the schemes of cults and criminal organisations within the Empire's borders. Regardless of the details, they always involve visiting violence directly on people who are actively trying to kill you. This action is particularly appropriate for [[Varushka_military_concerns#Wagon_Raiders_and_Sell_Swords|wagon raiders]].
+===Raid the Druj===
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Triumph of the Mallum.jpg|caption=The Druj are without mercy, exulting in the slaughter of Imperial citizens.|align=right|width=400}}</div>
+* '''This venture is available to any Imperial character'''
+* '''Remains available while the Empire is at war with the Druj'''
+Raids against the barbarians of [[the Mallum]] involve crossing the eastern borders of the Empire or hunting [[Druj]] in those Imperial territories they threaten. It is dangerous work - the Druj are experts at setting traps and laying ambushes, and are eager to make examples of any Imperial warriors that fall into their hands. Raids into the Mallum are as much about locating a suitable target, and then getting safely back to Imperial lands, as they are about actually attacking the eastern orcs. Stories about raiding the Druj are likely to be brutal, violent, and fraught with danger.  
+
+'''Rewards:''' A standard military unit that undertakes this venture receives nine random [[herb|herbs]] and four [[Military unit#Random Resources|random resources]]. These rewards represent the valuables seized from the Druj. A military unit that is enchanted or [[military unit#Upgrades|upgraded]] receives more, and may also acquire some '''Druj Potion''' as part of their loot, usually representing a captured [[potion]] or two useful to warriors.
+
+===Raid the Grendel===
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Freeborn_Grendel.jpg|caption=More than any nearby barbarian nation the Grendel engage in trade - and their caravans are ripe for the plucking.|align=right|width=400}}</div>
+* '''This venture is available to any Imperial character'''
+* '''Remains available while the Empire is at war with the Grendel'''
+The southern barbarian nation is tricky to reach by land; the only easy route to raiding the Grendel involves travelling down through [[Mareave]]. The lands of the [[Broken Shore]] are hostile - arid, rocky, inhospitable - and the orcs are alert for signs of trespassers. For all its outward appearance of unity, though, there are many factions in the Grendel nation and a wise raider knows how to take advantage of that to reduce the number of people they need to fight at any given time. Raids into the Broken Shore involve assaulting outlying settlements or mining camps, or waylaying merchant caravans. The raider must know when to cut and run however - if they are too successful the local Grendel will dispatch mercenaries or soldiers to bring their attacks to a premature end.
+
+'''Rewards:''' A standard military unit that undertakes this venture receives 72 rings and six [[Military unit#Random Resources|random resources]] representing goods seized from the Grendel. Money is usually in the form of valuables and exotic trade goods that can be sold for a profit when crossing back into the Empire as often as actual coinage. A military unit that is enchanted or upgraded may receive some '''Grendel Luxuries''' as part of their loot, usually in the form of a rip-on-use consumable representing a rare substance or drug.
+
+===Raid the Jotun===
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Orcs of the West.jpg|caption=The Jotun are keen raiders themselves, and relish the chance to clash with their Imperial opposites.|align=right|width=400}}</div>
+* '''This venture is available to any Imperial character'''
+* '''Remains available while the Empire is at war with the Jotun'''
+The lands of the Jotun lie west of the Empire, bordering [[the Marches]], [[Wintermark]], and [[the Brass Coast]]. They are perhaps the most enthusiastic about raiding the Empire, and relish the opportunity to match their strength against that of their Imperial counterparts. They take a very dim view, however, of attacks against their thralls and a fair portion of the wealth in their lands is extracted by those at the bottom of the social structure.
+
+'''Rewards:''' A standard military unit that undertakes this venture receives four ingots of random metals, and six [[Military unit#Random Resources|random resources]]. These rewards represent the valuables seized from the Jotun or their thralls. A military unit that is enchanted or [[military unit#Upgrades|upgraded]] might receive a '''Jotun Trinket''' as part of their loot (generally a [[magic items|magic item]] from the [[Magic_items#Talismans|talismans]] category that can be represented by a piece of appropriate jewellery).
+
+===Wagon Raiding===
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Wagon Raiders.png|caption=When opportunity knocks...|title=You don't send anyone to get it.|align=right|width=400}}</div>
+* '''This venture is only available to Varushkan characters with the wagon raider archetype'''
+* '''Remains available while the Empire remains at war with at least one of its neighbours'''
+The Varushkan tradition of the wagon raider sees hard-bitten, reckless bands of warriors launch forays into barbarian lands to grab the riches that can be found there. Sometimes this takes the same form as the raids launched by warriors of other nations, the wagon raiders also make a habit of seizing temporary control of a [[mine]] or [[forest]] and extracting as much wealth as possible. A successful wagon raider treads a fine line between greed, and being wise enough to read the signs and get out before the barbarians rally to exact vengeance. The latter approach has become more common recently in part due to the ruthless, [[ambition|ambitious]] inspiration of [[Ratibor of Temeschwar]]. This venture focuses on that approach - smash and grab missions into enemy territory to claim ingots and measures as often by physically gathering them themselves as taking them from miners or foresters.
+
+'''Rewards:''' A standard military unit who undertakes this venture receives 12 random ingots or measures.
+
+==Scouting Ventures==
+Scouting ventures require a degree of subtlety. They often involve stealth, subterfuge, sabotage, espionage, and information gathering. By default any character can support an Imperial [[spy network]], but there are also ventures that require infiltration or seeking out threats within the Empire. They often require the unit to minimise their engagement with enemy forces, sneaking around them until the right moment to make a surgical strike, or avoiding them entirely and getting out of the area with none the wiser.
+===Bounty Hunting===
+* '''This venture is available to any Imperial character'''
+This venture may involve tracking down and capturing wanted criminals in return for a reward, but it might also entail supporting magistrates and local law-enforcement efforts within Imperial boundaries such as working with town or city guards to maintain the peace and deter criminality. Whatever else is involved, bounty hunting represents actions that rely on discretion, subtlety, and a certain degree of cunning or stealth. This action has become more prominent in recent years in part due to the influence of the [[Synod]], especially following the creation of [[Inspirational location|inspirational sites]] dedicated to [[Berechiah]], [[Pruning_shears#Benson's_Orchard|Major Benson]], and [[Ratibor of Temeschwar]] (and the [[Fade out again|death blow]] struck to the vyig criminal syndicate which followed). 
+
+'''Rewards:''' A standard military unit that undertakes this action receives 72 rings, three doses of [[liao]], and four random resources. This represents rewards for captured criminals, goods recovered from outlaws, and gifts from grateful citizens or priests of Vigilance.
+
+===War of Whispers===
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=WhisperGal001.png|align=right|caption=The agents and servants of the Whisper Gallery are wily, and subtle. To catch them, you must be wilier and more cunning.|width=400}}</div>
+* '''This venture is available to any Imperial character.'''
+* '''First introduced in the ''[[A_long_December#Shadow_War|A long December]]'' wind of fortune.'''
+* '''Remains available while the Whisper Gallery remain under enmity.'''
+The [[eternal|eternals]] of the [[Whisper Gallery]] have been a thorn in the side of Imperial scholarship for some time. They and their servants bedevil attempts to uncover and share secrets and hidden knowledge, sometimes resorting to murder. They have been a particular threat to the [[Historical_research#The_Department_of_Historical_Research|Department of Historical Research]] as well as to several [[Imperial title|Imperial titles]] associated with knowledge. 
+
+The [[A_long_December#Shadow_War|War of Whispers]] involves directly opposing the Whisper Gallery; either by defending the scholars they threaten from assassination, or actively working to expose and unravel the schemes of their mortal allies and twisted heralds. Success relies on stealth, insight, subtlety, and cunning as much as it does bodyguarding acumen; the same skills that make one an effective scout make it easier to spot the machinations of the Whisper Gallery and stop them before they can bear fruit. 
+
+'''Reward:''' A standard military unit that undertakes this venture receives 120 rings and 2 [[Game_items#Mana_Crystals|mana crystals]], representing a combination of bounties, donations from grateful citizens, and magic taken from agents of the Night eternals.
+
+===Explore the ruins of Terunael===
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Blood for Poppies.jpg|caption=The [[vallorn]] represents a threat to the entire Empire - quiescent for now, but for how long will it slumber?|align=right|width=400}}</div>
+* '''This venture is only available to Navarr, Highborn, or League characters.'''
+* '''First introduced in the ''[[The_bones_of_what_you_believe#Today_is_Tomorrow|The bones of what you believe]]'' wind of fortune.'''
+* '''Remains available as long as the Hall of the Seven stands and the Spear of the Seven remains committed to supporting exploration of the vallorn.'''
+The Navarr have always sought the ruins of ancient Terunael lost within the coils of the [[vallorn]], but the practice has recently seen a resurgence in popularity. In late 384YE, inspired by Dawnish efforts in Brocéliande, the [[Navarr]] undertook the creation of the [[Spear of the Seven#Hall of the Seven|Hall of the Seven]] in [[Miaren]]. Overseen by the [[Spear of the Seven]], the Hall encourages Navarr exploration of the relatively accessible ruins of [[Therunin]] and [[Hercynia]], the harder to reach ruins of [[Liathaven]] and [[Brocéliande]], and the ruins outside Imperial borders in [[Otkodov]], [[Sarangrave]], and [[Axos]]. Courageous Navarr warriors and scouts press into the depths of the vallorn, relying on stealth and cunning to avoid the dreadful abominations and unnatural threats the throng in such a place, seeking out not only relics of Terunael but also valuable substances harvested from the vallornspawn themselves.
+
+'''Rewards:''' A standard military unit receives three random [[Materials#Natural_Materials|measures]] of forest resources, four random herbs, 38 rings (representing relics and other oddities), and a single vial of [[Vis#Vital_Honey|vital honey]].
+
+===The Bone Pilgrimage===
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Orcs in the Pit.jpg|align=right|caption=There are orc bones across the Empire that would rest more easily in the great sepulchre ossuary of the Irarawm|width=400}}</div>
+* '''This venture is available to Imperial Orc and Highborn characters'''
+* '''First introduced in the ''[[Standing_in_the_sun#The_Bone_Pilgrimage|Standing in the sun]]'' wind of fortune'''
+* '''Remains available while the Synod supports the pilgrimage and there are still orc remains to be recovered'''
+Completion of the [[Standing_in_the_sun#The_Ossuary_Temple|Ossuary Temple]] of the [[Illarawm]] sept ignited interest in recovering and interring the bones of those [[Imperial Orcs]] ancestors whose remains might otherwise be forever lost to history. With the support of the Imperial Synod, the Bone Pilgrimage now travels across the Empire and beyond to recover the bones of Imperial Orc ancestors and return them to the temple in Skarsind. The Imperial Orcs are supported in their efforts by Highborn allies, who have a particular affinity for ensuring the dead are treated with the utmost respect.
+
+As well as visiting places across the Empire where the ancestors of the Sunstorm orcs may be found, it also includes dangerous trips into [[the Mallum]] seeking ancestors of the [[Ethengraw]], Illarawm, and [[Yerende]], as well as stealthy trips to [[Axos]] or [[Bay_of_Catazar#The_Broken_Shore_and_Attar|the Broken Shore]] in pursuit of bones left behind by the [[Tamazi]] and the [[Sannite]]. The [[mandate]] that [[385YE_Winter_Solstice_Synod_judgements#Judgement_160|created this venture]] did not extend to Varushka, but the Varushkan assembly upheld a mandate of their own [[385YE_Winter_Solstice_Synod_judgements#Judgement_168|encouraging their priests]] to support the Bone Pilgrimage. The only Imperial nation not covered by the Bone Pilgrimage is thus [[Urizen]].
+
+'''Rewards:''' A standard military unit that undertakes this venture receives 90 rings, 7 random herbs, and a dose of [[liao]].
+
+==Production Table==
+{{ProductionTable|Venture}}
+
+==Further Reading==
+* [[Military unit]]
+* [[Rules_update_2025#Military_Units_and_Fleets|Rules update 2025]]
+* [[Voyage]]
+<!--===Explore the Sarangrave===
+This venture is only available to [[Navarr]] characters. The [[The_Feverwater_docks|Feverwater docks]] in [[Therunin]] serve as a staging point for venturers prepared to push into the [[Sarangrave]]. The river that feeds into the Sarangrave is wide, running through the vallorn heart of [[Sarangrave#Bendol|Bendol]], and then up through [[Sarangrave#Nesustak Forest|Nesustak Forest]] and [[Sarangrave#Turan Flats|Turan Flats]]. Given their familiarity with the vallorn, Navarr [[thorn|thorns]] can take advantage of this opportunity to battle [[Druj]] [[orc|orcs]] and vallornspawn, explore the woods and marshes of Sarangrave, and perhaps even venture further afield into the deadly depths of [[the Mallum]].
+
+Rather than receiving random production a standard military unit will receive 8 random [[herbs]] and 6 random [[Materials#Natural_Materials|forest resources]] from their venture.-->
+
+<!--===Train the Dreamers===
+* '''The venture is available until the start of the Summer Solstice 386YE'''
+This venture is only available to [[Highguard|Highborn]] and [[Varushka|Varushkan]] characters. The [[Culling_the_threat#The Dreamers of the Dark Forest|Dreamers of the Dark Forest]] are a sept of [[orc|orcs]] who live in [[Ossium#Echofell|Echofell]] in [[Ossium]]. Properly armed and armoured, they would fight to drive the remaining [[Druj]] out of the depths of the forest, and with the approval of the [[Senate]], remove the [[Ossium#Under_threat|under threat]] quality from the territory. 
+
+A standard military unit will receive eight random [[herb|herbs]] and four random [[Materials#Natural_Materials|forest resources]] from the grateful Dreamers as they are provided with spare weapons and armour and the training to use them effectively.-->
+<!--===The Grand Tour===
+* '''The venture is available until the start of the Autumn Equinox 386YE'''
+A series of extraordinary tourneys have been arranged across [[Astolat]], [[Semmerholm]], and [[Weirwater]] as part of the [[Dog_days_are_over|grand celebrations]] for the completion of the greatest quest in Dawn's history. Any military unit can take part in ''the Grand Tour'' [[Military unit#Venture|venture]].
+
+A standard military unit will earn 48 rings and six random herbs for undertaking this venture, with an upgraded or enchanted unit gaining proportionally more.-->
+[[Category:Personal Resource]][[Category:Military Council]]

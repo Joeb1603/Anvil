@@ -1,0 +1,52 @@
+{{CaptionedImage|file=Actias Luna.jpg|caption=the [[Mundane_beasts#Iridescent_Butterfly|iridescent butterflies]] in [[Miekarova#Srodkoja|Srodkoja]] are uniquely pale.|align=left|width=400}}
+==Overview==
+The Butterfly Holt is a preserve in the light woodlands of southern [[Miekarova#Srodkoja|Srodkoja]], not far from the vale of Olodny. It was [[commission|commissioned]] in Spring 381YE by the [[Urizen]] Julianna of Phoenix Reach using one of the new [[Create_title_of_Imperial_Wayleaves|Imperial Wayleaves]]. Its creation followed an [[Forests_of_the_night#Butterfly_Reserve_.28Opportunity.29|opportunity]] resulting from a performance of [[Wondrous Forests of the Night]]. Work was completed shortly before the Summer Solstice 381YE.
+
+This [[Imperial title]] grants custodianship of a [[sinecure]], requiring minimal responsibility but offering a regular income of [[Materials#Iridescent Gloaming|iridescent gloaming]]. 
+
+The Gloaming Sentinel can [[#Masks of the Trees and Hills|purchase masks]] from ''Orathator of the Hourglass'', a [[Thule]] warlock who presented [[Pride_and_prejudice#Masks_of_the_Trees_and_Hills|an offer]] shortly before the Autumn Equinox 385YE. The Conclave [[385YE_Autumn_Equinox_Conclave_sessions#Dissemination:_Delve_Deep_Beneath_the_Mountain|voted]] in favour of '''Vasilmir Radovanovna Esskivic's''' declaration to [[Dissemination|disseminate]] a copy of the ritual text of [[Delve Deep, Beneath the Mountain]] to Orathor and the masks were made available for purchase before the Winter Solstice 385YE.
+
+==Responsibilities==
+The Gloaming Sentinel has no particular responsibilities; they simply receive a bounty of iridescent gloaming from the [[#Butterfly Holt|Butterfly Holt]]. If the Holt were to be threatened in any way, it would be the responsibility of the Gloaming Sentinel to deal with those threats.
+
+==Powers==
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightYellow;">'''Masks of the Trees and Hills'''</td></tr>
+<tr><td>20 crowns</td><td>1 Mask of the Dark Woods</td></tr>
+<tr><td>20 crowns</td><td>1 Mask of the Deep Hills</td></tr>
+<tr><td>42 crowns</td><td>1 Mask of the Dark Woods and 1 Mask of the Deep Hills</td></tr>
+<tr><td>42 crowns</td><td>2 Masks of the Deep Hills</td></tr>
+<tr><td>42 crowns</td><td>2 Masks of the Dark Woods</td></tr>
+<tr><td>66 crowns</td><td>2 Masks of the Deep Hills and 1 Mask of the Dark Woods</td></tr>
+<tr><td>66 crowns</td><td>2 Masks of the Dark Woods and 1 Mask of the Deep Hills</td></tr>
+</table></div>
+===Bounty of Iridescent Gloaming===
+The title of Gloaming Sentinel grants custodianship of a [[sinecure]]. The Gloaming Sentinel receives an income of 20 iridescent gloaming each season from the Butterfly Holt.
+
+===Masks of the Trees and Hills===
+As a ministry, the Gloaming Sentinel can purchase magical masks from the [[Thule]] merchant, ''[[Pride_and_prejudice#Masks of the Trees and Hills|Orathor of the Hourglass]]'' at a set price. The Sentinel decides how much money to spend during downtime from their character page. Money is removed from, and ribbons are placed into, the character's inventory when the downtime is processed.
+<div class="mw-collapsible mw-collapsed">
+====Mask of the Dark Woods====
+* '''Form:''' Mask
+* Effect: +1 rank for a ritual that targets a forest. The ritual must specifically target a forest, using the character who controls it as a focus. If the ritual targets more than one forest, the bonus increases to +2. The rituals known to the Empire that this affects are [[Rampant Growth]], [[Verdant Bounty of the Twilight Bayou]], [[Conclave of Trees and Shadow]], and [[Flame and the Flood]].
+====Mask of the Deep Hills====
+* '''Form:''' Mask
+* Effect: +1 rank for a ritual that targets a mine. The ritual must specifically target a mine, using the character who controls it as a focus. If the ritual targets more than one mine, the bonus increases to +2. The rituals known to the Empire that this affects are [[Revelation of the Jewel's Sparkling Heart]], [[Delve Deep, Beneath the Mountain]], [[Raise the Dragonsworn Cohort]], and [[An Echo of Songs]].
+</div>
+<br>
+Click ''Expand'' to see a description of the magical masks Orathator provides to the Gloaming Sentinel.
+
+==Appointment==
+The appointment, replacement or removal of the Gloaming Sentinel is made by the [[Declaration]] of [[Candidacy]] as part of a [[Conclave session]].
+
+The Gloaming Sentinel serves until they are replaced by another magician using the Declaration of Candidacy. The Sentinel cannot be [[Revocation|revoked]] by the [[Synod]].
+
+==Butterfly Holt==
+The Butterfly Holt is an area of woodland set aside not far from Olodny, several acres surrounded by a high palisade reinforced by weirwood. It has been populated by [[Mundane_beasts#Iridescent_Butterfly|butterflies]] bred from carefully selected cocoons, many of them enriched with residual [[Night magic]] from the [[Forests of the night|potent Empire-wide]] [[enchantment]] after the Winter Solstice 380YE. The butterflies are notably large, and unlike most such insects their wings are especially pale. Their cocoons are especially rich in valuable [[Materials#Iridescent Gloaming|iridescent gloaming]].
+
+The location of this iridescent butterfly reserve has caused a few raised eyebrows; the forests of [[Varushka]] are by no means safe. They are home to the grim horrors the Varushkans call [[Varushkan_Monster#Wolves|Wolves]]. They are hungry, instinctual horrors that seek to feast on living flesh. Ghouls and husks are common examples of Wolves. These hungry, bestial creatures sometimes form large groups and besiege a vale, or fall on travellers in large numbers. The primary task of the [[Varushka_leadership|boyars]] and [[Varushka_military_concerns|schlacta]] is to keep the Wolves at bay - but the boyar of Olodny has made it pretty clear they have no interest in making any particular effort to extend their protection to the Butterfly Holt.
+
+The Sentinel is appointed through the Conclave; the civil service advised that the [[New_Imperial_titles#Well_Worn_Paths|well worn path]] to appointing such a sinecure would be through the [[Bourse]], but the circumstances surrounding the opportunity made it reasonable that it could be appointed by [[Declaration#Declaration of Candidacy|Declaration of Candidacy]].
+{{RecentElections|Gloaming_Sentinel}}
+[[Category:Title]]
+[[Category:Conclave]]

@@ -1,0 +1,23 @@
+<ic>
+The Advisor on the Vallorn makes the announcement that he intends to use his power of Historical Research: Origins of the Vallorn<br><br>
+''Approved by the Advisor on the Vallorn.''</ic>
+
+===Overview===
+* [[Historical research]] concerning these topics has been commissioned through the civil service.
+* Actions approved by the [[Advisor on the Vallorn]].
+* This action allows no vote, but could be [[veto|vetoed]] by the [[Synod]] [[veto]].
+
+===Date===
+* Spring Equinox 379YE
+
+===Progress===
+* Unknown
+
+===Campaign Outcome===
+* Research reports will be compiled and presented to the Advisor on the Vallorn
+* Many civil servants associated with historical research have been murdered in the last three months. There is some concern about the safety of people gathering the information for this project.
+
+[[Category:Senate Motion]]
+[[Category:379YE Spring]]
+__NOTOC__
+[[Category:Announcements]]

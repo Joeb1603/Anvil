@@ -1,0 +1,19 @@
+<ic>Disbursal of funds to place a ritual developed by the halls of knowledge into Imperial Law: Skeins of Years.<br><br>
+''Raised by Morrow, seconded by Bregasland''</ic>
+
+===Overview===
+* Request for funds to pay for adding [[Skein of Years]] to [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial Lore]].
+* Ritual developed at the [[Provost of the Halls of Knowledge|Halls of Knowledge]].
+
+===Date===
+* Summer 378YE
+
+===Progress===
+* 10 Thrones disbursed to Senator Morrow
+
+===Outcome===
+Adding a ritual to Imperial Lore requires a [[Declaration#Declaration of Imperial Lore|Declaration of Imperial Lore]] from the [[Conclave]]. These funds are intended to pay for the ritual to be added, pending the decision of the Conclave.
+
+[[Category:Senate Motion]]
+[[Category: 378YE Summer]]
+__NOTOC__

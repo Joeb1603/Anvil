@@ -1,0 +1,130 @@
+[[Category:Recent History]] [[Category:384YE Summer]] [[Category:Military Council]][[Category: Winds of War]]
+<div style="float:left; width: 600px; clear: left;">{{CaptionedImage|file=Military Table.jpg|caption=Few plans survive beyond first contact with the enemy.|align=left|width=600}}</div>
+==Overview==
+Over the last three months, Imperial forces are engaged in military campaigns against barbarian forces. Sometimes those engagements have been wide ranging and dramatic, other times they have been more sedate. This season, we're trying something a little different with the Winds of War. While the overarching details of the campaign are summarised here, some of the Winds of War - where there's been more dramatic action or where there is a battle opportunity - have been given their own pages. We've also worked to try and provide even more detail about the battle opportunities for the event than ever. After the event, we'd be interested in reading your feedback about how these changes affected the game in the field at the usual address ([mailto:matt@profounddecisions.co.uk matt@profounddecisions.co.uk]).
+
+As always, how much or how little of this information you choose to know in character is up to you. Part of the purpose of Winds of War and the [[384YE_Summer_Solstice_winds_of_fortune|Winds of Fortune]] is to maintain the illusion of the Empire as a living, breathing place where things happen - and to make players aware of things their characters 'should' know based on what their roleplaying says they have been doing for the past three months.
+
+Also, it should go without saying that we ask everyone to abide by the rules about [[Online_roleplaying|online roleplaying]] with regard to the military campaign. It's important that the key in-character activity of the Empire world takes place at events. The game is busier and better if everything that can happen in the field, does happen in the field. Military planning and political discussions should happen at events. For this reason we generally discourage too much downtime roleplaying between events and put strict limits on what can be done online particularly using our forums and Facebook groups.
+
+With that in mind, we now present a summary of the key military activity in the Empire - both with links to the expanded Wind of War pages and notes about other important things that have happened that didn't need a full battle campaign.
+==In the West==
+The Jotun are in [[Kahraman]], and despite the [[All_the_way#On_the_Rojota_Road_.28Battle_Opportunity.29|best efforts]] of Imperial heroes during the Spring Equinox, the Lasambrian [[Jotun]] claimed the plains of [[Kahraman#Gambit|Gambit]]. The [[orc|orcs]] and their [[Mournwold]] allies did not have it all their own way however - the delay at Rotoga, and a powerful Imperial enchantment prevent the orcs raiding the [[Great Mine of Briante]] and the [[Damatian Cliffs]]. The defenders of [[Kahraman#Fort Braydon|Fort Braydon]] cannot match their zeal for conquest, however, and they are able to take control of [[Kahraman#Jade Range|Jade Range]] shortly before the Summer Solstice. You can learn more about the Jotun campaign in Kahraman in '''[[Down that road]]'''.
+
+Further north, Mathilda Fisher presses her claim to [[Bregasland]] with the support of the [[Jotun]]. The self-styled steward receives limited support from the Bregas, but that does not stop her - or the armies of orcs alongside whom she fights.  Armies clash, but the Jotun have the upper hand and the Imperials are forced to cede first [[Bregasland#GreyFens|Grey Fens]] and then the [[Bregasland#Ottermire|Ottermire]]. Bregasland is no longer Imperial, but who precisely is in charge of it remains to be seen. You can learn more about the disposition of the western fens in '''[[Deep when the river's high]]'''
+
+Let your eye slide further north, skipping over the [[One_side_stone,_one_side_fire|growing threat from deep beneath the earth]], to [[Sermersuaq]]. The alliance of Empire and [[Otkodov]] overwhelms the [[Jotun]], driving them from [[Sermersuaq#Suaw Fount|Suaq Fount]] and [[Sermersuaq#Suaq Wastes|Suaq Wastes]]. Only when they reach the forts of [[Sermersuaq#Tanikipari|Tanikipari]] and [[Sermersuaq#Stark|Stark]] does their triumphant advance falter. Regardless, Sermersuaq is once again an Imperial territory - during the Summer Solstice it will fall to the [[Senate]] to [[Powers_of_the_Imperial_Senate#Assignment|assign]] it to a nation and [[Powers_of_the_Imperial_Senate#Allocation|allocate]] the [[Pride of Ikka's Tears]]. The territory has been liberated, but the war is not over - the same [[Spring magic]] that [[Rivers of Life|heals and protects]] the alliance is just as effective at ensuring that the western orcs can continue to fight. You can read about the Sermersuaq campaign in '''[[In good company]]'''.
+
+==In the East==
+Along the eastern borders of the Empire, Imperial forces clash time and again with the insidious orcs of [[the Mallum]]. Out of the [[the Mallum#Forest of Ulnak|Forest of Ulnak]] come the [[Druj]], seeking to reconquer [[Ossium]] and punish those who thought themselves free of their tyrannical yoke. A major force attacks the [[Ossium#Echofell|Echofell]], bent on destroying the [[Ossium#Tower of the Scorpion|Tower of the Scorpion]]. With only the Thule garrison of Fljajokep are there to aid the defenders; the Tower falls and the forests of Echofell are once again in enemy hands. You can read about the invasion of Ossium in '''[[Delerium]]'''.
+
+At the same time the Druj are trying to recover Ossium, Imperial armies are striking against them in [[the Barrens]]. It has been three long years, but the Empire ionce again fights to conquer the great wilderness. The Imperial strategy involves a risky pincer movement to cut the territory in half, with armies attacking both the northern [[The Barrens#The Carmine Fields|Carmine Fields]] and the southern hills of [[the Barrens#The_Barrens#Hope.27s_Rest|Hope's Rest]]. Despite the warriors of the rebuilt [[The Barrens#The_Barrens#Spires_of_Dusk_.28Ruined.29|Spires of the Dusk]], the Empire has carved a Steel Causeway through the heart of the Barrens with barely a casualty. You can learn about their conquest in '''[[Into the valley]]'''.
+
+While Ossium and the Barrens are barely contested, the same cannot be said of [[Zenith]]. Two massive forces clash for control of the former [[Urizen]] territory, with orc and Imperial caught in a bitter struggle for control of the hills of [[Zenith#Clypion|Clypion]]. The Druj are no longer defensive here - going on the attack to try and drive the Imperial armies out of the territory, and to slaughter as many of them as possible in the process. They are unsuccessful - but they manage to hold the Empire's advance. You can learn about this bitter, grinding campaign in '''[[This little light of mine]]'''.
+
+==Battle Opportunities==
+{{Audio|link=https://www.youtube.com/watch?v=FAkojZlqRVA}}
+Imperial prognosticators have identified four possible major conjunctions of the [[Sentinel Gate]] at the coming summit. The Friday night [[muster]] will see the [[general|generals]] debate these options and select two of them to be taken up by Imperial heroes eager to influence the direction of the Empire's military campaigns. 
+
+<table><tr><td style="background-color: LightGray;">Location</td><td style="background-color: LightGray;">Opportunity</td><td style="background-color: LightGray;">Opposition</td><td style="background-color: LightGray;">Day</td><td style="background-color: LightGray;">Learn More</td>
+<tr><td>[[The Barrens]]</td><td>Secure Imperial presence in the Barrens</td><td>Druj</td><td>Saturday</td><td>[[Into_the_valley#As_the_Water.27s_Dripping_Down_.28Battle.29|link]]</td>
+<tr><td>[[Zenith]]</td><td>Claim the beach head in Clypion and inspire Urizen to engage in Iteri</td><td>Druj</td><td>Saturday</td><td>[[This_little_light_of_mine#Let_It_Shine_.28Battle.29|link]]</td>
+<tr><td>[[Kahraman]]</td><td>Stymie Lasambrian efforts to isolate fortifications and secure an advantage in the coming season</td><td>Jotun Yegarra</td><td>Sunday</td><td>[[Down_that_road#One_Tree_at_a_Time_.28Battle.29|link]]</td>
+<tr><td>[[Sermersuaq]]</td><td>Delay the completion of Olgafsdottirshal</td><td>Jotun Yegarra</td><td>Sunday</td><td>[[In_good_company#Push_and_Shove_.28Battle.29|link]]</td>
+</table>
+There will also be skirmishes throughout the weekend that allow Imperial heroes to engage the barbarian enemies of the Empire; some will be detailed in the Winds of War, others in the Winds of Fortune.
+
+===Yegarra Battles===
+Two of the battle opportunities listed involve ''Jotun Yegarra'' as the main opponents. Whichever opportunity the Military Council decides on for Sunday, we will ask the majority of player volunteers to take on the roles of human warriors fighting for the Jotun.
+
+In the ''Kahraman'' battle, the Empire will be facing human warriors formerly of Mournwold in the Marches. You can help make this battle even better by bringing along any Marcher or Wintermark-style kit or armour you have, as well as any iconic Marcher weaponry particularly a bill, spear or other pole-arm; along with any appropriate shield or buckler. This will help us create a dramatic battle opportunity where the Empire must face down a predominantly human opponent. You can find out more about iconic Marcher look [[Marches_look_and_feel|here]]. 
+
+In the ''Sermersuaq'' battle, you can help by bringing along any Jotun-style kit or armour you have, as well as any iconic Jotun weaponry particularly axes, maces, and circular shields. Javelins are ideal if you have them. You can find out more about the iconic Jotun look [[Jotun_look_and_feel|here]] but the key element for portraying these northern Yegarra is plenty of leather and fur, over mail as their iconic look. 
+
+We understand the difficulty of getting to an event with additional kit at the best of times, especially as it will not be possible to tell before Friday night whether the military council will elect to take this battle, but if you are able to bring such kit along it will improve the experience as well as that of the players you are fighting against,
+
+If you are already part of an [[Monstering_a_battle#Elite_Monster_Units|elite monster unit]] that monsters as a Jotun warband, then please come to battle prep as you normally would for these battles. If you are part of such a unit but do not have your own orc mask then we hope that we will be able to supply an orc mask for you, but cannot guarantee one. If we do run out of orc masks for EMU on the Sunday battle then the Battle Team will make alternative arrangements at the time.
+
+'''IMPORTANT''' - we will '''NOT''' be issuing any orc masks to players for these battle opportunities. Our orc masks will only be used once this event and then washed ready for the next event. We are continuing the provision of battle opportunities with non-orc enemies as part of our plan to reduce coronavirus risks until such a time as we have sufficient masks to run two fully orc masked battles.
+<div style="float:right; width: 600px; clear: right;">{{CaptionedImage|file=Sentinel Night.jpg|caption=There are a number of conjunctions of the Sentinel Gate that will allow Imperial heroes to intervene in various different ways.|align=right|width=600}}</div>
+
+==Large Conjunctions==
+For most conjunctions we've suggested Imperial titles that might be most fitting to take overall responsibility for ensuring that an opportunity is organised. Whilst the named individual has been deemed the most appropriate by the Civil Service, there is no legal requirement for them to coordinate a response or travel on the conjunction. They may delegate oversight to another individual of their choosing. As always, Imperial war scouts will be on hand at the muster point by the Sentinel Gate to provide further information to any citizens wanting to know more. Further information relating to the nature of the large conjunctions might be available from the War Scouts on duty at the Sentinel Gate. They can provide updates on barbarian movements, guides on how to engage enemy troops or advice on how to avoid casualties and return back to Anvil in safety.
+
+Sometimes it is necessary to make small adjustments to the timing or size of skirmishes, owing to delays or availability of crew that arise between the time of publication and when an encounter runs at the event. Details will be finalised on Friday afternoon of the event before time-in. Please do check the details of a conjunction you are interested in before using the gate to ensure that you have the full and up-to-date information. You can check a conjunction by casting [[Detect_magic#Discover_Conjunction|Detect Magic (Discover Conjunction)]] on the Sentinel Gate in the presence of a ref.
+
+For each of these large conjunctions, combat is [[Accessibility#Combat_Highly_Likely|highly likely]].
+{|table class="wikitable sortable"
+|-
+! # !! Day !! Time !! People !! Duration !! Location !! Responsibility !! Overview !! Link
+|-
+| 1 || Friday || 18:30 || 75 || 20 mins || Sermersuaq, Stark, White Plume Rocks || [[Mediator of Hyljehal]]|| Free a hylje hostage from the Jotun || [[In_good_company#Second_Skin_.28Conjunction.29|Second skin]]
+|-
+| 2 || Friday || 19:00 || 75 || 20 mins || Sermersuaq, Suaq Wastes, Spirax wood || [[Weigher of Worth]] || Deny the ''Spear of Bounty'' to the Jotun and cause their quest to fail || [[In_good_company#Old_Bones_.28Conjunction.29|Old bones]]
+|-
+| 3 || Friday || 19:30 || 75 || 20 mins || Sermersuaq, Stark, Flat Hills || [[Ambassador to Otkodov]] || Retrieve a vital Thule warlock captured by the Jotun || [[In_good_company#The_Missing_Warlock_.28Conjunction.29|The Missing Warlock]]
+|-
+| 4 || Friday || 20:30 || 50 || 20 mins || Bregasland, unknown, unknown || [[Archmage of Day]] || Opportunity for the [[Imperial Orcs]] to recover the artefact [[Pilgrim's Shield]] ''Oath-Heart'' || [[Deep_when_the_river%27s_high#Heart_of_Oaths_.28Conjunction.29|Heart of Oaths]]
+|-
+| 5 || Friday|| 20:45 || 25 || 20 mins || Segura, Lucksprings, Cereva Hall|| [[Imperial Fleet Master]] || Intercept a raiding party of Wave Riders on Imperial soil || [[The_power_behind_our_moves#Captain.27s_Price_.28Conjunction.29|Captain's Price]]
+|-
+| 6 || Friday|| 21:00 || 50 || 20 mins || Bregasland, Ottermire, Greywater Estate|| [[General]] of the [[Strong Reeds]] || Help House Greywater escape a Jotun execution squad || [[Deep_when_the_river%27s_high#A_Little_Time_.28Conjunction.29|A little time]]
+|-
+| 7 || Saturday || 14:30 || 50 || 20 mins || Zenith, Proceris, Golden Cascade || [[Curator of the White City Museum]] || Recover the ''Amulet of Truth'' from a wicked Druj warleader || [[This_little_light_of_mine#Stolen_History_.28Conjunction.29|Stolen history]]
+|-
+| 8 || Saturday || 15:00 || 50 || 20 mins || Zenith, Lustri, Sleetstorm Pass || [[Grandmaster]] of the [[Unfettered Mind]]|| Deny the ghulai of Sarangrave a mysterious magical text || [[This_little_light_of_mine#Stolen_Knowledge_.28Conjunction.29|Stolen knowledge]]
+|-
+| 9 || Saturday || 15:30 || 50 || 20 mins || Sarangrave, Bloodwater Marsh, Dead Stone Woods, || [[Senator]] for [[Temeschwar]] || Recover a Bloodwater Spear orc from the Druj || [[Make_it_happen#Kick_Against_The_Pricks_.28Conjunction.29|Kick against the pricks]]
+|-
+| 10 || Saturday || 17:00 || 60 || 20 mins || Barrens, the Bleaks, Stormwood || [[Archmage of Spring]] || Claim the ''Stone of Storms'' from Druj dedicated to Siakha || [[Begin_to_speak#Stormwood_.28Conjunction.29|Stormwood]]
+|-
+| 11 || Saturday || 17:30 || 60 || 20 mins || Ossium, Echofell, the Bone Hives || [[Thousands_or_more#Keeper of the Bonehives|Keeper of the Bone Hives]] || Stop the Druj destroying the Bone Hives || [[Delirium#Sour_Honey_.28Conjunction.29|Sour honey]]
+|-
+| 12 || Saturday || 17:45 || 25 || 20 mins || Karsk, Lestazny, Ashen Fields || Boyarina Nisha Melinka Rupeilia Strazcovich || Deal with the self-styled Boyar of Isember Alexi Iskandrova Isembrioch || [[Delirium#Boyar_of_Steel_.28Conjunction.29|Boyar of Steel]]
+|-
+| 13 || Saturday || 18:00 || 60 || 20 mins || Barrens, the Bleaks, Circle of Falling Trees || [[General]] of the [[Golden Axe]]|| Stop a group of Druj ghulai trapping soldiers on the wrong side of the river || [[Into_the_valley#Troubled_Waters_.28Conjunction.29|Troubled waters]]
+|-
+| 14 || Saturday || 18:15 || 25 || 20 mins || Karsk, Lestazny, Wild Copse || [[Dean of the First Voice Glade]] || Rescue kidnapped Navarr and recover an ancient relic || [[Delirium#Lost_Wanderers_.28Conjunction.29|Lost Wanderers]]
+|-
+| 15 || Saturday || 18:45 || 25 || 20 mins || Karsk, Lestazny, Whispering Glade || [[Guardian of the Maze of Zoria]] || Find a way to deal with the dark power of Isember || [[Delirium#Dark_Spirits_.28Conjunction.29|Dark spirits]]
+|-
+| 16 || Saturday || 20:00 || 60 || 20 mins || Barrens, the Bleaks, Lupine Arbour || [[Knight-protector|Knight-Protector of Spring]] || Defeat a horror from the Spring realm threatening the Dawnish armies || [[Into_the_valley#From_the_Forest_.28Conjunction.29|From the forest]]
+|-
+| 17 || Saturday || 20:30 || 60 || 20 mins || Barrens, Carmine Fields, Red Plains  || [[General]] of the [[Wolves of War]] || Retrieve cursed treasure and end a threat to the Wolves of War || [[Into_the_valley#A_Poisoned_Chalice_.28Conjunction.29|A poisoned chalice]]
+|-
+| 18 || Saturday || 21:00 || 70 || 20 mins || Barrens, Bitter Strand, Saltmaw|| [[Archmage of Spring]] || Unleash the Barren Sea to flood the Fangs and the Saltmarsh || [[Into_the_valley#A_Sudden_Flood_.28Conjunction.29|A sudden flood]]
+|-
+|}
+
+==Smaller Conjunctions==
+These conjunctions are similar to large conjunctions but are smaller in size. In some cases the conjunction may lead the players into a fight with the Empire's enemies but others do not feature any combatants for the players to face. Please check the listed accessibility status for each conjunction carefully.
+
+As with any conjunction, it may be necessary to make small adjustments to the timing or size of skirmishes, owing to delays or availability of crew that arise between the time of publication and when an encounter runs at the event. Details will be finalised on Friday afternoon of the event before time-in. Please do check the details of a conjunction you are interested in before using the gate to ensure that you have the full and up-to-date information. You can check a conjunction by casting [[Detect_magic#Discover_Conjunction|Detect Magic (Discover Conjunction)]] on the Sentinel Gate in the presence of a ref.
+{|table class="wikitable sortable"
+|-
+! # !! Day !! Time !! People !! Duration !! Location !! Responsibility !! Overview !! Link !! Combat
+|-
+| A || Saturday || 14:00 || 100 || 60 mins || Semmerholm, Causse, the Semmerstones || Iron Duke challengers || A grand audience with [[Barien]] to reward those who have completed his [[Challenge the Iron Duke|Challenge]] || [[Out of the realm#Reeve_of_the_Summer_Lands|Reeve of the Summer Lands]] || [[Accessibility#Combat_Unlikely_or_Contained|Unlikely]]
+|-
+| B || Saturday || 20:15 || 16 || 20 mins || Zenith, Clypion, Allied Groves, || [[Grandmaster]] of [[Silver Chalice]] || Investigate and deal with the malaise || [[This_little_light_of_mine#Allied_Groves_.28Conjunction.29|Allied Groves]] || [[Accessibility#Combat_Unlikely_or_Contained|Unlikely]]
+|-
+| C || Saturday || 20:45 || 16 || 20 mins || Zenith, Clypion, Grove of the Halls || [[Herbalist of the Hearth]] || Save as many of the ex-prisoners as possible || [[This_little_light_of_mine#The_Grove_of_the_Halls_.28Conjunction.29|The Grove of the Halls]] || [[Accessibility#Combat_Unlikely_or_Contained|Unlikely]]
+|-
+| D || Saturday || 23:00 || 50 || 20 mins || Hahnmark, Bruckland, Turelva || Scops of Wintermark || Help the ghostly spirits haunting the area pass on || [[Out_of_the_realm#Ghosts_in_Wintermark|Ghosts in Wintermark]] || [[Accessibility#Combat_Unlikely_or_Contained|Unlikely]]
+|-
+|}
+
+==Military Considerations==
+The following considerations should be borne in mind when discussing military strategies during the Summer Solstice.
+* '''Adamant Gate:''' The Adamant Gate in [[Semmerholm]] cannot be reduced below 1,000 military strength. [[Semmerholm#The_Adamant_Gate|Link]]
+* '''Billeting:''' Any Imperial army can take the '''''Billet''''' order in [[Bregasland]], [[Upwold]], or [[Mitwold]]. [[Army_orders#Billet|Link]]
+* '''Dawn:''' Dawnish armies cannot take the '''''[[Army_orders#Cautious Advance|Cautious Advance]]''''' order or the '''''[[Army_orders#Give_Ground|Give Ground]]''''' order. [[Put_on_your_war_paint#Glorious_in_Victory.2C_Proud_in_Defeat|Link]]
+* '''Highguard:''' Highborn armies benefit from double the normal amount of natural resupply. [[Three_soldiers#The_Loyal_Pilgrim|Link]]
+* '''Highguard:''' Highborn armies can issue the '''''Crusading Storm''''' order. [[Three_soldiers#Three_soldiers#Crusade|Link]]
+* '''The Marches:''' Marcher armies cannot take the '''''[[Army_orders#Give_Ground|Give Ground]]''''' order. [[The_Marches_military_concerns#Army_Orders|Link]]
+* '''Urizen:''' The [[Citadel Guard]] will begin to deteriorate again after the Summer Solstice. [[Pebbles_drawn_from_a_heap#Safety_from_the_Storm|Link]]
+* '''Varushka:''' Varushkan armies involved in the same campaign as an army from the Brass Coast or Wintermark generate 10% fewer victory points. If armies from both nations are present, the reduction is increased to 20%. [[Our_choice#Prepare_for_Difficult_Choices|Link]].
+* '''Wintermark:''' Wintermark armies can take the '''''Fight with Honour''''' order. [[Fight_with_monsters#A_Hero.27s_Tale|Link]]
+* '''Wintermark:''' Wintermark armies fighting against the Jotun will gain 10% more victory points but inflict 20% less casualties.  [[Fight_with_monsters#A_Hero.27s_Tale|Link]]
+*'''Zenith:''' Any Highborn or Urizen army attacking into Zenith from Morrow gains a 20% bonus to any territory captured and suffers a 10% reduction in casualties inflicted. [[Three_soldiers#The_High_Pass|Link]]
+*'''Morrow:''' Any Highborn or Urizen army that defends in Morrow against an army attacking from Zenith gains a 20% bonus to defend territory and suffers a 10% reduction in casualties inflicted. [[Three_soldiers#The_High_Pass|Link]]

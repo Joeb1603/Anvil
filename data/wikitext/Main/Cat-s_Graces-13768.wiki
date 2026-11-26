@@ -1,0 +1,86 @@
+==The Manifesto==
+<div style="float: right; max-width: 300px; margin-left: 10px;">{{HoverImage|Cat's Graces Sodality.png|Cat's Graces Sodality Eyes.webp|300px|Caption2|Caption3|Caption4|Caption5|The Cat's Graces}}</div>
+The sodality is dedicated to art and music. It holds the following to be true:
+
+*Arts are for everyone to enjoy, no matter their skill level
+*Virtue demands that we give space for joy as well as for work
+*The value of a nation is judged by its culture as much as its might
+
+The sodality therefore exists to:
+
+*Support and promote creatives, providing opportunities to exhibit their talents
+*Share learning through the arts, fostering understanding between peoples and traditions
+*Ensure creators are valued, and that their work is recognised and fairly rewarded
+
+==Symbol==
+The Cat's Graces' symbol is a cat holding a scroll, surrounded by a chain. The symbol was created by '''Anastasiya Lukashovna Volkov'''.
+__TOC__
+==Membership==
+Any Imperial citizen can join the sodality using the [[Mark of Fellowship]] ritual.
+==Powers==
+If the title of ''Maestro of the Cat's Graces'' is vacant, then the sodality can take a vote to appoint a representative to the position.
+
+The Spring 388YE wind of fortune '''[[Arranging grace]]''' identifies what manner of powers might in the future be granted to the Cat's Graces.
+
+If an [[opportunity]] were identified where the sodality could be deployed, then the outcome of that opportunity would be decided by a vote of the members.
+
+===Preserve Art===
+* '''Each season, the sodality can select a piece of art to be recorded as a significant or important piece of art'''
+The sodality can select a single piece of art each season for promotion across the Empire. The form of the art does not matter, as long as it can be recorded in some way. It can be a painting, a sculpture, a new song or musical composition, a story, a play, or a poem. In some cases, copies are made and distributed; in others, news of the art is spread across the Empire, and patrons of the art are encouraged to visit. During the Summer Solstice 388YE, the sodality [[388YE_Summer_Solstice_Sodality_resolutions#Other_business|voted]] to place the repository of art in the [[Dean_of_the_First_Voice_Glade#First_Voice_Glade|First Voice Glade]], [[Inspirational_location#Memorials|memorial]] of the exemplar of Pride, [[Gerallt Brackensong]].
+
+If the sodality chooses to use this power, then it is a vote of the assembled members. After the vote, the Maestro can choose to create a short summary of why the piece was chosen, why it is important and worthy of being honoured, and why it should be preserved.
+
+To use this power, the Maestro's player should email {{plot}} before the end of downtime with the piece of art chosen, the name and any relevant credits of the creator, and a summary of no more than eighty words.
+
+====Gallery of the First Voice====
+
+<big>'''[[Morning Light]]'''</big> <small>by '''Lady Mercy Goldvein'''</small><div class="mw-collapsible mw-collapsed">
+[[Morning Light]] was chosen for its emotional and meaningful message to the nation of Dawn. It was written in the darkest days of recent Dawnish history, after the Sweetglade Massacre and the actions of ''Archavion Wolfborne''. This piece was written to help push Dawn into a new, better era, so recent tragedies would not define the nation. The song was performed by '''Lady Mercy Goldvein''' to earn her title as the first Note of Dawn.
+</div>
+
+===Refine Commission===
+* '''Each season, the sodality can refine a single existing commission'''
+* '''The Maestro must announce the decision in a Senate session'''
+The sodality can select a single existing [[commission]] to alter the appearance and character of each season. The work takes three months, but due to the aid of the [[Empress_Richilde#The_Songbirds|songbirds]] - dedicated artists and patrons who look to the inspiration of the [[paragons and exemplars|paragon]] [[Empress Richilde|Richilde]] - it has no cost, nor does it cut into the Senate's [[Commission#Maximum_Commissions_Available|limited number]] of commissions each season. A refined structure would increase in grandeur, and the work of the artists ''might'' unlock an opportunity related to it.
+
+To refine a commission requires a successful vote of the sodality to choose an appropriate commission, followed by the Maestro making an [[Senate_announcement|announcement]] in the Senate. There is no vote but the announcement is subject to veto by the Throne or the Assembly of the Nine as normal. Details of the changes are part of the [[Commission#Necessary_Details|necessary details]] of the announcement so the Senate may wish to know what is planned at the time.
+
+The Maestro is responsible for providing a thorough description of what the sodality wants the artists to do. Provided they have a clear artistic brief which is ambitious and inspirational, then they're likely to get roughly what was asked for. However, the civil service cautions that engaging with artists does come with clear risks: if those working on the commission don't feel inspired by the brief, then they will "complement" or supplant them with their own ideas. Thus, the results are guaranteed to be impressive; they're just not guaranteed to be exactly what was requested. Such is the nature of art. ('''OOC Note:''' The player of the Maestro can email {{plot}} before downtime ends with any supplemental details they wish to add, provided they correspond with anything that has been announced).
+
+===Patron's Fund===
+* '''The Cat's Graces can dispense grants to artists'''
+The sodality has control over a ''"Patron's Fund"'', similar to the [[Rewarding#Virtue_Fund|Virtue Fund]] used by the Synod. The Patron's Fund is administered by the civil service, and any member can call a vote during an official meeting of the sodality to dispense an amount of crowns for a specific goal, or to a specific Imperial citizen. 
+
+Each season, the Patron's Fund receives one throne from the [[Imperial treasury]] and four thrones from an informal alliance of patrons of the arts - [[the League|League]] [[Merchant Prince|merchant princes]] and [[Highguard|Highborn]] [[benefactor|benefactors]]. Represented by [[Dressed_in_smoke_and_fire|Genia Bourné di Sarvos]], the merchant-prince of the influential Bourné fashion house, the group has pledged to provide up to six thrones a season - if the Senate were to ever choose to increase the stipend of the sodality.
+
+'''OOC Note:''' Anyone wishing to donate to the Patron's Fund should [[GOD#Resource_hand-in|hand-in]] their money and email {{plot}} after the event. Donations over one throne are added below with the name of the character responsible for the donation. It is only possible to make donations in crowns and thrones.
+
+Click ''Expand'' to see the list of contributions made to the Patron's Fund.
+<div class="mw-collapsible mw-collapsed">
+{{CommissionProgress|Cat%27s_Graces}}
+</div>
+
+==History==
+{{CaptionedImage|file=Lady Ralphine Sepulchre.jpg|caption='''Lady Ralphine Sepulchre''', Maestro of the Cat's Graces|align=right|width=250}}
+The Cat's Graces were [[388YE_Spring_Equinox_Senate_sessions#Establish_Cat's_Graces|formally established]] by the Senate in a motion proposed by '''Fedelmidd Sydanjaa's Heart Floer''', as [[Sermersuaq|Senator for Sermersuaq]], at the Spring Equinox 388YE following an [[Arranging_grace|appraisal]] requested by [[Emperor Vesna]]. 
+
+The name for the sodality was chosen in tribute to ''Catalina Barossa'', founder of the [[Senate Motions]] dance group, who come together every season on the floor of the Senate to teach and practice the art of dancing. Many citizens who attend Anvil summits from a wide variety of backgrounds and skill have attended Senate Motions over the years to indulge in the art, as too have several instrumentalists and singers who have provided musical accompaniment for the sessions.
+
+Catalina sadly passed away while fighting on a major conjunction during the Spring Equinox 386YE. As well as her artistic endeavours, Catalina will also be remembered as being the first citizen to make contact with the Waterwalkers sept within [[Sarangrave]].
+
+==Maestro==
+The Maestro of the Cat's Graces is an Imperial title awarded to a member of the Cat's Graces. The Maestro is expected to be a mouthpiece for the sodality, with the responsibility to represent their sodality's views to other parts of the Empire, to recruit new members, and to advance the sodality's goals and the members' interests.
+
+====Appointment====
+The Maestro is selected by members of the sodality. Only a member of the sodality can present themselves for the title, and only a member of the sodality can vote in the election. The candidate who gains the most votes from the members of the sodality is elected to the title.
+
+They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<div style="float: right; width=300px; margin-right:10px; margin-left: 10px; clear: right;">
+{{#lst:Archive:All_Election_Results|Maestro_of_the_Cat%27s_Graces}}
+</div>
+
+====Recent Elections====
+{{#lst:Archive:All_Election_Results|Maestro_of_the_Cat%27s_Graces_election}} The table to the right shows the citizens who have been elected to hold {{{2|this title}}} in the years since [[Empress Britta]] died.
+[[Category:Imperial Sodality]]
+[[Category:Title]]
+{{Cat's Graces further reading}}

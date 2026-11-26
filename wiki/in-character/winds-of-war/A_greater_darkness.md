@@ -1,0 +1,928 @@
+---
+title: A greater darkness
+source: https://www.profounddecisions.co.uk/empire-wiki/A_greater_darkness
+class: in-character
+topic: winds-of-war
+categories:
+- Winds of War
+- 388YE Autumn
+- Military Council
+event: 388YE Autumn
+last_edited: '2026-10-06T20:22:31Z'
+revision: 146081
+in_character_boxes: 4
+---
+
+# A greater darkness
+
+*[Image: The war we fight is not against powers and principalities, it is against chaos and despair.](https://www.profounddecisions.co.uk/empire-wiki/File:Trees_against_purple_night_sky.jpg)*
+
+## What Has Gone Before
+
+[There is a plan](../winds-of-fortune/All_I_ask_of_you.md#help-us). It is a risky plan, and it requires everything to go right and nothing to go wrong. But there is a plan.
+
+The Great Forest Orcs and the Navarr are oathbound; siblings in spirit if not in flesh. In Therunin, the Navarr offered sanctuary when the orcs of Peytaht were forced to flee [the Barrens](../nations/dawn/The_Barrens.md). They walked the trods together, fought together against the vallorn, fought together against the Druj. When the orcs of the Great Forest returned to their home, it was the Navarr who helped them drive out the remaining tyrants and secure their beloved grove. The bond has become stronger since; orcs died alongside the thorns and brands when the barbarians assailed Therunin and slaughtered their way through the Tarn Valley. The Navarr have welcomed their ambitious youth to the groves of Miaren and Hercynia, helped them create their own "steadings" as they tend the weirwood trees and inch by slow inch combine their own traditions with those of their hosts.
+
+Yet they have always been a wounded, broken sept. The wisdom of the Great Forest Orcs has always been two-edged for them. Their mastery of living wood, their unparalleled skill at tending the valuable weirwood groves, long ago saw the tyrants of the Mallum rip their people into gobbets. Every weirwood grove the Druj control is tended by Great Forest Orcs, forced to toil at the command of cruel overseers. Each disparate settlement serves as surety for the others - if any one were to dare rebel it would be their family in the Barrens, in Ossium, or Sarangrave, in Sanath, or Ulnak, that would pay the price for insubordination.
+
+For centuries this was simply the way it was, and it is only within the last ten years that things have begun to change. The children of the Great Forest in the Barrens found a welcome in Therunin; their family in Ossium was ultimately liberated from the Druj; the Imperial conquest of [Whisperwood](../nations/urizen/Sarangrave.md#whisperwood) freed the orcs held there to walk free. Only two weirwood forests remain in the possession of the Druj - the Sacred Grove and the Grove of Woe - and only two enclaves of Great Forest Orcs remain separated from their people. It is a wound, and a painful reminder that the sept is not whole, and it is also a weapon that the Druj seek to wield against them.
+
+Shortly before the Summer Solstice, it came to light that the Buruk Tepel had given the orcs in the [Heart of Peytaht](../nations/dawn/The_Barrens.md#heart-of-peytaht) an ultimatum. Betray the Navarr, betray the Empire, betray the trust they have built; or know that every one of their sept trapped in durance in the Mallum would be slain. Killed, and worse than killed. The Druj know all the ways to make someone suffer, to beg for death, before they allow a broken spirit to slip into the Howling Abyss. The Great Forest Orcs are well aware of how far they will go, even when their backs are not against the wall.
+
+A [hammer waits to fall](../winds-of-fortune/All_I_ask_of_you.md#hammer-waiting-to-fall) on the children of the Great Forest, and by themselves they cannot hope to stop its descent. If it strikes home, it will break their hearts.
+
+But the children of Peytaht have not betrayed their friends; and their friends are with them.
+
+## The Plan
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The Navarr National Assembly calls upon Ioan Longshadow, former General of Isaella's Dance, Guide of Courage, oath-sworn friend of the Great Forest Orcs, and survivor of Grendel chains, to lead Navarr's hand in the rescue of the Great Forest Orcs and the war against the Druj. Any spoils of war gained in this endeavour shall be distributed among those who pledged their support to this cause. He is charged not merely with the conduct of war, but with the keeping of bonds forged in blood and memory. As our allies suffer beneath the yoke of the Druj, this Assembly places its trust in one who has endured captivity, borne loss without surrender, and walked the path of duty. Between Navarr, the Imperial Orcs, and the Great Forest Orcs, The Druj will find before them a Wall of thorns that shall not fall!
+> >
+> > Ioan Longshadow, Navarr National Assembly, Summer Solstice 388YE, Vote: Greater Majority 217-0
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The Imperial Orc Assembly call upon the skills won in combat and wisdom from his time as General of the Winter Sun, for his steadfast pursuit of liberation of those in chains and the ruin of fear makers; we send Exemplar of Wisdom Skywise Rykana to lead the Imperial Orc forces to boldly venture into the Mallum and save all those Great Forest Orcs we can. No orc should go alone, to second him and support him with her knowledge of the Great Forest Orcs. We send a cousin from the Yerende sept of Ossium, Bloodcrow Meep. May they show the strength of orcs who unite. May our gathered forces join with the Navarr to create a wall of thorns that will not fail.
+> >
+> > Firesong Galath, Imperial Orcs National Assembly, Summer Solstice 388YE, Vote: Greater Majority 62-0
+
+On one level, the plan is simple. The Navarr and the [Unshackled](../nations/imperial-orcs/Imperial_Orcs.md) will go into the Mallum and *get* the remaining Great Forest Orcs. They will break their chains, and bring them to the safety of the Heart of Peytaht. They will use stealth as long as it avails them, and when that fails as it inevitably must, they will fight. The Druj are in disarray; they fight a war for survival on at least two fronts. The Thule press them in the Forest of Ulnak; the Empire has crossed the borders of Sarangrave and assault them to the south. Within their own borders, the threadbare trust that has allowed the rival septs to work together, allowed the Buruk Tepel to collaborate, is fraying. It will not be *easy* but the plan is not *complicated*.
+
+During the Solstice, the priests of Navarr and the Imperial Orcs chose champions - leaders who would guide their own people and work together to make sure the plan is a success. Their people rally around them, in Ossium and in the Barrens and in northern Sarangrave. The maps acquired at great risk by Imperial scouts allow for multiple routes to be plotted to the target locations - smaller groups move swiftly and are less likely to attract the attention of the Mallum's defenders.
+
+The [Grove of Woe](../barbarians/Salt_Flats_of_Sanath.md#grove-of-woe) is the most accessible. The Imperial armies are engaged in [Lower Saarnath](../barbarians/Salt_Flats_of_Sanath.md#lower-saarnath) and it should in theory be straightforward enough to infiltrate [Upper Saarnath](../barbarians/Salt_Flats_of_Sanath.md#upper-saarnath). Once the slaves are freed, they will only need to be escorted back to the Imperial battle-lines to reach safety. The situation is complicated by the fighting, of course. There are not just Druj in Lower Saarnath but *[multiple armies](Forward_into_depthless_dark.md)* of Druj.
+
+The [Sacred Grove](../barbarians/Forest_of_Ulnak.md#sacred-grove) will be much more challenging. Looming over [Deathsgate](../barbarians/Forest_of_Ulnak.md#deathsgate), where the grove stands, is the immense fortress of [Cassad Ûln](../barbarians/Forest_of_Ulnak.md#cassad-ûln). Indeed, it is the master of that immense [bastion](../../out-of-character/rules/Fortification.md#bastion) - the [buruk tepel](../barbarians/Druj_lore.md#buruk-tepel) *Nimon Rue* - who tried to use the threat of murder to suborn the Great Forest Orcs in the first place. In theory, Imperial forces could pass through the lands claimed by the Thule. Otkodov and the Empire are allies after all - at least in theory. Yet it might be a mistake to take the goodwill of the Dragons for granted. Worse, just as in Lower Saarnath, the clash of armies in the northern forests of Ulnak risks exposure to the Druj just as it does in the south. If Nimon Rue becomes aware of the rescue effort, there is every chance they will immediately order the slaughter of their prisoners. The Druj have a long history of making the choice that hurts their enemy the most, and no matter if they suffer themselves as a result.
+
+In both cases, while the journey to the weirwood groves will be fraught, it is the return where the danger really lies. Not only will the Druj be aware of what is happening, but every minute it takes to overcome the defences of the labour camps, every minute wasted mobilising frightened orcs, is another minute for the enemy to respond. The flight back to the Empire cannot help but be a harrowing escapade no matter how well the plan is executed.
+
+It takes weeks to organise the raid, and with Summer ripening into Autumn, the first Imperial warriors slip across the borders under a bruised sky into the Mallum proper.
+
+| Citizen | Banner | Nation |
+| --- | --- | --- |
+| Abigail Pathfinder | Pathfinders | Navarr |
+| Ada Droon Drifting Bough | The Waystone Path | Navarr |
+| Adeen Eternal |  | Navarr |
+| Adonis Ashwood | Ashwood | Navarr |
+| Adrian Cardel | The Cardel Caravan | Navarr |
+| Aedan Bellwood | The Stormwall | Navarr |
+| Aeilidh "Fletcher" Lonestrider |  | Navarr |
+| Aiden Rubra |  | Navarr |
+| Aisling Dancing Leaf | Dancing Leaf | Navarr |
+| Aisling Hawkwind | Silverhawks | Navarr |
+| Alana Firekeeper |  | Navarr |
+| Alastair New Dawn |  | Navarr |
+| Aldred Boar's Dell |  | Navarr |
+| Alim Longstride | Sea Weasels | Navarr |
+| Alistair |  | Navarr |
+| Allana Silvercloud |  | Navarr |
+| Ameryth Silentwatch | The Silent Watch | Navarr |
+| Amwryn | Summergleam | Navarr |
+| Angela RavensOak | Ravens Oak | Navarr |
+| Angharad Wayward Hearth | The Stormwall | Navarr |
+| Annwyl |  | Navarr |
+| Anthony | The Dreadshields | Navarr |
+| Antur Eternal |  | Navarr |
+| Aodhan |  | Navarr |
+| Aoife Rootround | The Barbed-Eye | Navarr |
+| Ardyn Larksong | Larksong Striding | Navarr |
+| Arianwen Thornfield | Thornfield | Navarr |
+| Arin Birchwood | Deadfall | Navarr |
+| Arisent Twin-Wreathed | The Twin Wreath | Navarr |
+| Arron Hammer's Rest | Thornfang Thornborn | Navarr |
+| Artoreus Cinderheart | Sea Weasels | Navarr |
+| Arwydd Clearbramble |  | Navarr |
+| Aryanwen of the broken hearth who cherish the lost and wayward |  | Navarr |
+| Ash Bramblestep | Pathfinders | Navarr |
+| Ashborn Trosk | Ashborn | Imperial Orcs |
+| Ashborn Vana | Ashborn | Imperial Orcs |
+| Asher |  | Navarr |
+| Asthore Autumngale |  | Navarr |
+| Atur 'Backbreaker' Tanglewood | Blackstripes | Navarr |
+| Aurelia Nettlebound |  | Navarr |
+| Avery Farkas |  | Navarr |
+| Ayla Farbound | Farbound | Navarr |
+| Badonthir Fúlmar |  | Navarr |
+| Badran |  | Navarr |
+| Berwyn Dancingleaf | Dancing Leaf | Navarr |
+| Betony |  | Navarr |
+| Bleddyn |  | Navarr |
+| Bleddyn Eternal | Long Shadow | Navarr |
+| Bledri Eternal | Vervain Shield | Navarr |
+| Bloodcrow Arora | Bloodcrows | Imperial Orcs |
+| Bloodcrow Kran | Bloodcrows | Imperial Orcs |
+| Bloodcrow Reek | Bloodcrows | Imperial Orcs |
+| Boars Ashen Tear | Ashen Tears | Navarr |
+| Braithe Ashen Tear | Ashen Tears | Navarr |
+| Bramble of the Path |  | Navarr |
+| Bran | Foxden | Navarr |
+| Bran Blazing Grain |  | Navarr |
+| Brân Splintered Oak | Splintered Oaks | Navarr |
+| Brat Umbral Path |  | Navarr |
+| Bree Bellthorne |  | Navarr |
+| Brenna Whisperleaf | Sea Weasels | Navarr |
+| Brennin | The Stormwall | Navarr |
+| Brìghde |  | Navarr |
+| Brion | TangledSong | Navarr |
+| Broccomaglos Gladespear |  | Navarr |
+| Brody Dusk Crow | The Twin Wreath | Navarr |
+| Bronwyn | TangledSong | Navarr |
+| Bruiser Ashen-Tear | Ashen Tears | Navarr |
+| Bryn Shield Hearth |  | Navarr |
+| Brynmor Rootround |  | Navarr |
+| Brynn Tendfallen |  | Navarr |
+| Brynwulf Tanglewood | Blackstripes | Navarr |
+| Cadell Lonestrider |  | Navarr |
+| Cadfael Silentwatch | Sea Weasels | Navarr |
+| Cadoc Thornwatch | Pathfinders | Navarr |
+| Cadwell Waystone | The Waystone Path | Navarr |
+| Cadwyn Ashfall | Deadfall | Navarr |
+| Caedria | Deadfall | Navarr |
+| Caelwyn Splitroot |  | Navarr |
+| Caiden Duskcrow |  | Navarr |
+| Caleb | The Stormwall | Navarr |
+| Callohan | Blackstripes | Navarr |
+| Caoimhe Tend-Fallen |  | Navarr |
+| Cara Brackensong | Brackensong Steading (Banner) | Navarr |
+| Carric | The Dreadshields | Navarr |
+| Carrock Daggersbond | Thornfang Thornborn | Navarr |
+| Cassidy Eternal |  | Navarr |
+| Caularthron Tetramic |  | Navarr |
+| Cedar Thorns Rest |  | Navarr |
+| Ceinwen Eternal |  | Navarr |
+| Celwyddog 'Dog' Brackensong |  | Navarr |
+| Cerberin | The Stormwall | Navarr |
+| Cerddinen Wayward Hearth | The Stormwall | Navarr |
+| Ceri Brackensong | Brackensong Steading (Banner) | Navarr |
+| Cerwin |  | Navarr |
+| Ciapek SplinteredOak | The Stormwall | Navarr |
+| Cliab (Cleo) Larksong | Sea Weasels | Navarr |
+| Clint Strangewood |  | Navarr |
+| Clover |  | Navarr |
+| Clover Springseeker |  | Navarr |
+| Coeden Silvercloud | Deadfall | Navarr |
+| Conan | Thorn's Rest | Navarr |
+| Corey Wayfarer | Brackensong Steading (Banner) | Navarr |
+| Cormac | Sea Weasels | Navarr |
+| Corwyn Heartsbane | Heartsbane | Navarr |
+| Corwyn Silvercloud | SilverCloud Banner | Navarr |
+| Courgetta Thistleseeker | Sea Weasels | Navarr |
+| Cúán |  | Navarr |
+| Culann | Fawn Hollow | Navarr |
+| Culhwch Edgestalker | The Edgestalkers of Hercynia | Navarr |
+| Cullain Shadowbirch |  | Navarr |
+| Daegan Larksong |  | Navarr |
+| Dagen Nighthaven |  | Navarr |
+| Dagony O'Shea | Blackstripes | Navarr |
+| Daire Oathsinger Hawkwind | Silverhawks | Navarr |
+| Darrach |  | Navarr |
+| Darragh Cinderhart |  | Navarr |
+| Dax | Two Feet | Navarr |
+| Deagan Springseeker | The Stormwall | Navarr |
+| Delilah | TangledSong | Navarr |
+| Derwyn Sparrowflight |  | Navarr |
+| Djack Dancer | Deadfall | Navarr |
+| Domhnall Thornweaver |  | Navarr |
+| Draenen Goch |  | Navarr |
+| Drew Eternal |  | Navarr |
+| Dris Wayward Glade | Sea Weasels | Navarr |
+| Dryn | Embercast | Navarr |
+| Drysfa Broken Bough |  | Navarr |
+| Drystan Rootround |  | Navarr |
+| Dylan Thornweaver |  | Navarr |
+| Earnan Bramble Step | Pathfinders | Navarr |
+| Egan Dusk Crow |  | Navarr |
+| Eilonwy Nightgrove | The Thornborn of Entwined Paths | Navarr |
+| Eirlys |  | Navarr |
+| Eirlys Ashes Blaze |  | Navarr |
+| Eisen | The Rising Wolves | Navarr |
+| Eleri Bronwen's Rest | Bronwen's Rest | Navarr |
+| Eli Thrawn | The Barbed-Eye | Navarr |
+| Elijah Swift Hart | Deadfall | Navarr |
+| Ellis Evergreen | Thornfang Thornborn | Navarr |
+| Elowen | Ember-Oak | Navarr |
+| Emhyr | Deadfall | Navarr |
+| Emlyn Tangled Path | TangledSong | Navarr |
+| Emrich Bloodfeather | Sea Weasels | Navarr |
+| Emrys | Dancing Leaf | Navarr |
+| Emrys Edgestalker | The Edgestalkers of Hercynia | Navarr |
+| Emrys Ember-Oak | Ember-Oak | Navarr |
+| Emyr smolder leaf | Pathfinders | Navarr |
+| Endellion |  | Navarr |
+| Enfys Larksong | Larksong Striding | Navarr |
+| Enfys Seedsower |  | Navarr |
+| Eoghan |  | Navarr |
+| Erin | SilverCloud Banner | Navarr |
+| Erwan 9th Shield |  | Navarr |
+| Eryr Adar Pluen | The Stormwall | Navarr |
+| Eskah Swift Hart | Deadfall | Navarr |
+| Esper Edgestalker | The Edgestalkers of Hercynia | Navarr |
+| Eurion "Mr Cambion" Firekeeper | The Hearth Guard | Navarr |
+| Even Agra |  | Navarr |
+| Ewan | The Dreadshields | Navarr |
+| face | Sea Weasels | Navarr |
+| Fae |  | Navarr |
+| Faelan | The Stormwall | Navarr |
+| Faethyr Nightgrove | The Thornborn of Entwined Paths | Navarr |
+| Fallon Shadowglen |  | Navarr |
+| Faolan | Pathfinders | Navarr |
+| Farren Silver Streams |  | Navarr |
+| Féchín Scarletsong | The Stormwall | Navarr |
+| Feirdhris Fifthwind |  | Navarr |
+| Fen, Twin Wreathed |  | Navarr |
+| Fennel |  | Navarr |
+| Fern |  | Navarr |
+| Fern Mossbeard | Splintered Oaks | Navarr |
+| Fernelda | The Twin Wreath | Navarr |
+| Ffion Nighthaven | Nighthaven | Navarr |
+| Finnian | Dancing Leaf | Navarr |
+| Firesong Arachas | Firesong | Imperial Orcs |
+| Firesong Ecca | Firesong | Imperial Orcs |
+| Firesong Okeer | Firesong | Imperial Orcs |
+| Firesong Ussa | Firesong | Imperial Orcs |
+| Flannagan | The Twin Wreath | Navarr |
+| Flaxney Wayward Hearth | The Stormwall | Navarr |
+| Flidais | Ember-Oak | Navarr |
+| Flynn DancingLeaf | Dancing Leaf | Navarr |
+| Fraygor Oakskull | Twisted Tree | Navarr |
+| Frith |  | Imperial Orcs |
+| Fynn Swift Hart | Deadfall | Navarr |
+| Gaeorg Broken Bough | Deadfall | Navarr |
+| Gavynn Bellwood | The Stormwall | Navarr |
+| Gawain Splitroot |  | Navarr |
+| Gelert | Feathers Rest | Navarr |
+| Geraint Bronwen's Rest | Bronwen's Rest | Navarr |
+| Gethin Bledwyn | The Last Dance | Navarr |
+| Ghost |  | Navarr |
+| Giacomo Fuchin |  | Navarr |
+| Goffrimm Boar's Promise |  | Navarr |
+| Gorwen | Thorn's Rest | Navarr |
+| Gra'sh | Ebonmaw | Imperial Orcs |
+| Gragan Leafblown | The Stormwall | Navarr |
+| Gralka | Skywise | Imperial Orcs |
+| Greff | Firesong | Imperial Orcs |
+| Grundfos Thorn's Rest | Thorn's Rest | Navarr |
+| Gull Wind-Roar | The Silver Fletchings | Navarr |
+| Gwdihŵ Adar Pluen | The Stormwall | Navarr |
+| Gwenllain Hearts’ End |  | Navarr |
+| Gwennan | Feathers Rest | Navarr |
+| Gwilym Heartsbane | The Thornborn of Black Scar | Navarr |
+| Gwyddian Ashborn | The Dreadshields | Navarr |
+| Gwyn Ybythol | Vervain Shield | Navarr |
+| Hallux Hallowmark | Blackstripes | Navarr |
+| Halwyn Splitroot | Brackensong Steading (Banner) | Navarr |
+| Harsan | The Twin Wreath | Navarr |
+| Harwyn Eternal |  | Navarr |
+| Hastur Flame of Broken Bough | Deadfall | Navarr |
+| Heilyn Bronwens Rest | Open Skies | Navarr |
+| Helvetie |  | Navarr |
+| Hen Was Silverthorn |  | Navarr |
+| Henarian | Feathers Rest | Navarr |
+| Herden | The Thornborn of Entwined Paths | Navarr |
+| Hester | SilverCloud Banner | Navarr |
+| Huewyn | Thornfang Thornborn | Navarr |
+| Hurn |  | Imperial Orcs |
+| Idris Arwyn Tanglewood | Blackstripes | Navarr |
+| Idris Eternal |  | Navarr |
+| Idris Fensorrow |  | Navarr |
+| Idris SummerCrow | The Summer Crows | Navarr |
+| Ieuan Pathfinder | Pathfinders | Navarr |
+| Ikarosh | Sea Weasels | Navarr |
+| Ilana | Blackstripes | Navarr |
+| Iniska Ashwood | Ashwood | Navarr |
+| Ioan Longshadow | Long Shadow | Navarr |
+| Irontide Scrin | The Irontide | Imperial Orcs |
+| Irontide Thorrak | The Irontide | Imperial Orcs |
+| Ish | Embercast | Navarr |
+| Islwynn Nettlebound |  | Navarr |
+| Iven | SilverCloud Banner | Navarr |
+| J'zarr | Thornfang Thornborn | Navarr |
+| Jac | TangledSong | Navarr |
+| Jaerin Embracing Fold |  | Navarr |
+| Jakaa (SIVA) Bonecaller | Sand Vipers | Imperial Orcs |
+| Jakewyn Thorns Rest | Thorn's Rest | Navarr |
+| Jonah Farkas | Ruis Farkas | Navarr |
+| Jorek | Embercast | Navarr |
+| Jorren Greybloom | The Stormwall | Navarr |
+| Juniper Pickles | Thorn's Rest | Navarr |
+| Juniper Silvercloud |  | Navarr |
+| Kai "Kiwi" Silverfletch | Silverhawks | Navarr |
+| Kai Springseeker |  | Navarr |
+| Kai Tanglewood | Blackstripes | Navarr |
+| Kai Wayward Hearth | The Stormwall | Navarr |
+| Kalor Warboar | Pathfinders | Navarr |
+| Kellek |  | Imperial Orcs |
+| Kellos Foxden | Foxden | Navarr |
+| Kevan Heartsbane | Heartsbane | Navarr |
+| Keyan |  | Navarr |
+| Khain |  | Navarr |
+| Khestra | The Waystone Path | Navarr |
+| Kiàine Thistleseeker | Sea Weasels | Navarr |
+| Kirrik | Ashborn | Imperial Orcs |
+| Kiyan Bellwood | The Stormwall | Navarr |
+| Kore Firestarter |  | Navarr |
+| Kyffin Thornfield |  | Navarr |
+| Kylar Splintered Oak | The Stormwall | Navarr |
+| Kyra New Dawn |  | Navarr |
+| Lark Lonestrider | Embersworn | Navarr |
+| Lauren |  | Navarr |
+| Leshi Last Dance | The Last Dance | Navarr |
+| Liadan Tendfallen |  | Navarr |
+| Lilith Montague | Driftwood | Navarr |
+| Lilliana Eir Shield Hearth | The Stormwall | Navarr |
+| Lindir | Cold Embers | Navarr |
+| Lith "Shiny" Fellsmith | The Thornborn of Entwined Paths | Navarr |
+| Llinos |  | Navarr |
+| Lochlainn Farkas |  | Navarr |
+| Logain Hawkwind | Silverhawks | Navarr |
+| Logan Dusklight |  | Navarr |
+| Lowen |  | Navarr |
+| Lowen |  | Navarr |
+| Luthar | Lopoldë's Flame | Navarr |
+| Lynn |  | Navarr |
+| M'ul |  | Imperial Orcs |
+| Machar Broken Bough | Deadfall | Navarr |
+| Madog Brackensong |  | Navarr |
+| Mai Gwyn Eternal |  | Navarr |
+| Maldwyn Bloodbrook |  | Navarr |
+| Marianna Lochstrider | The Barbed-Eye | Navarr |
+| Marr Mothskin | Embercast | Navarr |
+| Marsh |  | Navarr |
+| Mathias Lonestrider | Driftwood | Navarr |
+| Maud Splintered Oak | The Stormwall | Navarr |
+| Mawb Strangers Song | The Thornborn of Entwined Paths | Navarr |
+| Mazo Freewalker | Ashborn Banner | Navarr |
+| Meep | Bloodcrows | Imperial Orcs |
+| Meera Mended Branch |  | Navarr |
+| Meg Splitroot |  | Navarr |
+| Meirion Scattered Step |  | Navarr |
+| Mercia Questor's View |  | Navarr |
+| Meredith Nighthaven | Nighthaven | Navarr |
+| Merewen Splitroot |  | Navarr |
+| Mervyn Tendfallen |  | Navarr |
+| Merwyn Lonestrider |  | Navarr |
+| Meya |  | Navarr |
+| Mharen Splitroot |  | Navarr |
+| Mirabel Lonestrider |  | Navarr |
+| Mooch | Deadfall | Navarr |
+| Moose | Deadfall | Navarr |
+| Môr Edgestalker | The Edgestalkers of Hercynia | Navarr |
+| Morgan Drifting Bough | The Waystone Path | Navarr |
+| Morgoth SweetBlood | The Stormwall | Navarr |
+| Morrigana Thorns Rest | Thorn's Rest | Navarr |
+| Mouse Embercast |  | Navarr |
+| Muse Ashen Tears | Ashen Tears | Navarr |
+| Myrddin Eternal |  | Navarr |
+| Myrddin Ravensong | The Stormwall | Navarr |
+| Naen Farbound | Farbound | Navarr |
+| Nathair Autumngale | Thornfang Thornborn | Navarr |
+| Natilli Verdavere | Blackstripes | Navarr |
+| Neasa | Silverhawks | Navarr |
+| Neirin | Brackensong Steading (Banner) | Navarr |
+| Nell Hawkwind | Silverhawks | Navarr |
+| Nia | Silverhawks | Navarr |
+| Niah StarSeeker | The Thornborn of Entwined Paths | Navarr |
+| Niamh Pathfinder | Pathfinders | Navarr |
+| Niamh Thicket | Oakwood Thicket | Navarr |
+| Nimerous | The Thornborn of Entwined Paths | Navarr |
+| Nirrin |  | Imperial Orcs |
+| Nisien Duskbound |  | Navarr |
+| NiVek Broken Bough |  | Navarr |
+| Niylah | Thornfang Thornborn | Navarr |
+| Nos Umbral Path |  | Navarr |
+| Nuala Crowfell |  | Navarr |
+| Oak Silverfletch | Silverhawks | Navarr |
+| Odhran Mal | Foxden | Navarr |
+| Oleander Dreamsreach | Dreamsreach | Navarr |
+| Oleksiy Kostaltyn Van Temeschwar | Thorn's Rest | Navarr |
+| Olwyn Curlyute Mossglade | Pathfinders | Navarr |
+| Orinn Embracing Fold |  | Navarr |
+| Orwynn | The Dreadshields | Navarr |
+| Owain |  | Navarr |
+| Oz Embercast |  | Navarr |
+| Paulk Thornweaver |  | Navarr |
+| Pine Ashen Tears |  | Navarr |
+| Pine Swordsong | Thornfang Thornborn | Navarr |
+| Podine Halfthorn |  | Navarr |
+| Powell Open-Skies | Open Skies | Navarr |
+| Presnora |  | Navarr |
+| Priff | The Thornborn of Entwined Paths | Navarr |
+| Protectorate Kardak | Legion Protectorate | Imperial Orcs |
+| Puck | Thornfang Thornborn | Navarr |
+| Pyre Ashenheart |  | Navarr |
+| Raewyn Eternal | Vervain Shield | Navarr |
+| Raghnall Long-Hammer | Driftwood | Navarr |
+| Raina |  | Navarr |
+| Rat Waystone Path | The Waystone Path | Navarr |
+| Redhand Gezzar | Redhands | Imperial Orcs |
+| Rélileas Bramble Step |  | Navarr |
+| Rhian Rootround | The Barbed-Eye | Navarr |
+| Rhian Seedsower |  | Navarr |
+| Rhiannon Tend-Fallen |  | Navarr |
+| Rhiannon Thornwatch | Pathfinders | Navarr |
+| Rhianon Waystone | The Waystone Path | Navarr |
+| Rhoslyn Tendfallen |  | Navarr |
+| Rhyffyllann Inkblood | The Thornborn of Black Scar | Navarr |
+| Rhyl Hammer's Rest | Thornfang Thornborn | Navarr |
+| Rhys Nighthaven |  | Navarr |
+| Richelieu Sternenlicht |  | Navarr |
+| River Berry | Cult of Myrtle | Navarr |
+| Robyn Sweetnest | The Waystone Path | Navarr |
+| Rodric Worldscribe | Bronwen's Rest | Navarr |
+| Rok | Redhands | Imperial Orcs |
+| Romi |  | Navarr |
+| Rook |  | Navarr |
+| Rook Tanglewood | Blackstripes | Navarr |
+| Rowan |  | Navarr |
+| Rowyn of the Waystone Path | The Waystone Path | Navarr |
+| Rutger | Deadfall | Navarr |
+| Saamy Splitroot |  | Navarr |
+| Sabina Larksong | Larksong Striding | Navarr |
+| Sage Tanglebane |  | Navarr |
+| Sand Viper Idra | Sand Vipers | Imperial Orcs |
+| Sandviper CODA | Sand Vipers | Imperial Orcs |
+| Saura Farkas |  | Navarr |
+| Savannah |  | Navarr |
+| Seaton | TangledSong | Navarr |
+| Sebastian Swift Hart | Deadfall | Navarr |
+| Seda Hornleaf |  | Navarr |
+| Selvis Larksong | Larksong Striding | Navarr |
+| Seren | Ember-Oak | Navarr |
+| Seren Embercast | Embercast | Navarr |
+| Seth Blackhawk | Driftwood | Navarr |
+| Sever | The Barbed-Eye | Navarr |
+| Sheridan |  | Navarr |
+| Shistjarma Soar Shatterhorn | The Barbed-Eye | Navarr |
+| Siân Eternal |  | Navarr |
+| Silk Farkas |  | Navarr |
+| Simon |  | Navarr |
+| Sinder | WinterSuns | Navarr |
+| Siôn Everbloom | Blackstripes | Navarr |
+| Skod |  | Imperial Orcs |
+| Skunk |  | Navarr |
+| Skywise Rykana | Skywise | Imperial Orcs |
+| Sorcha Embracing Fold | Ashwood | Navarr |
+| Sorrel |  | Navarr |
+| Stormcrow Dren | Stormcrow | Imperial Orcs |
+| Stormcrow Tœba | Stormcrow | Imperial Orcs |
+| Stormsteel Skorr |  | Imperial Orcs |
+| Syl |  | Navarr |
+| Sylaria Sentri | The Twin Wreath | Navarr |
+| Sylvari Barkweaver |  | Navarr |
+| Sylvie Dawnroot | Moon Striders | Navarr |
+| Syml |  | Navarr |
+| Syn Truth-Walker Returned | Nighthaven | Navarr |
+| Talfryn Scarletsong | The Stormwall | Navarr |
+| Talfryn Summergleam | The Stormwall | Navarr |
+| Talulah Noorie | Blackstripes | Navarr |
+| Tanwen Dancing Leaf | Dancing Leaf | Navarr |
+| Taran Foxden |  | Navarr |
+| Taren Summergleam | Summergleam | Navarr |
+| Task |  | Imperial Orcs |
+| Tavvik Splintered Oak | The Stormwall | Navarr |
+| Teela |  | Navarr |
+| Tegid Ember-Oak | Sea Weasels | Navarr |
+| Teleri Thornweaver |  | Navarr |
+| Telyn Ashes Blaze |  | Navarr |
+| Tenebrae | The Twin Wreath | Navarr |
+| Teris | Blackstripes | Navarr |
+| Thalion | Sea Weasels | Navarr |
+| Thane Springseeker | The Stormwall | Navarr |
+| the Nimble-Jack |  | Navarr |
+| Theo Wintersun | Deadfall | Navarr |
+| Theowyn Blackhawk |  | Navarr |
+| Theren GoldenThorn |  | Navarr |
+| Therin | The Edgestalkers of Hercynia | Navarr |
+| Tibalt |  | Imperial Orcs |
+| Tom |  | Navarr |
+| Tomos Foxden | Foxden | Navarr |
+| Torin Shanks |  | Navarr |
+| Torin Swift Hart | Deadfall | Navarr |
+| Torri | Feathers Rest | Navarr |
+| Triskeliande | Farbound | Navarr |
+| Tulva | Skywise | Imperial Orcs |
+| Turin "Goose" | SilverCloud Banner | Navarr |
+| Twyll Eternal |  | Navarr |
+| Udoo | Bloodcrows | Imperial Orcs |
+| Umbral | The Twin Wreath | Navarr |
+| Unbroken Nezzak | The Unbroken Legion | Imperial Orcs |
+| Urq | Legion Protectorate | Imperial Orcs |
+| Vaal | Thorn's Rest | Navarr |
+| Vaelira Tanglewood | Blackstripes | Navarr |
+| Val | Blackstripes | Navarr |
+| Valeska Pathfinder | Pathfinders | Navarr |
+| Valros | Pathfinders | Navarr |
+| Vanna | Deadfall | Navarr |
+| Vetra |  | Navarr |
+| Vrakk |  | Imperial Orcs |
+| Welyn Nighthaven |  | Navarr |
+| Willow |  | Navarr |
+| Winifred Blackhawk | Sea Weasels | Navarr |
+| Wren Embercast |  | Navarr |
+| Wren Hawkwind | Silverhawks | Navarr |
+| Wren Summergleam | Summergleam | Navarr |
+| Wrenley Dusk Crow |  | Navarr |
+| Wyl | Sea Weasels | Navarr |
+| Wynn Summergleam | Summergleam | Navarr |
+| Wynne Hallowmark | Blackstripes | Navarr |
+| Xandor Trodbroker | TrodBroker | Navarr |
+| Yanna Thorns Rest | Thorn's Rest | Navarr |
+| Ydfran Waystone Path | The Waystone Path | Navarr |
+| Ylona Silverfletch | Silverhawks | Navarr |
+| Ynyr Rootround |  | Navarr |
+| Ysult Moss-step | Thornfang Thornborn | Navarr |
+| Zakal Antigonus Shatterhorn | The Barbed-Eye | Navarr |
+
+## The Call
+
+By themselves the warbands of the Navarr and the Imperial Orcs could probably liberate the Grove of Woe in Sanath, but it would still be touch-and-go. The Navarr are adept at swift movement, skilled at not being seen by their enemies until it is too late. The Imperial Orcs have the advantage that they can masquerade as Druj when they need to, distasteful as they may find it, allowing them to brazen their way past patrols or secure information from unsuspecting soldiers of the Mallum. Yet they are behind enemy lines, in territory where an ancient [Druj miasma](../barbarians/Druj_miasma.md) hangs like a weighted shroud over everything.
+
+Fortunately, the burden of success does not rest solely on the shoulders of the warriors. This is a mission of mercy. Oaths and bonds of family, virtue and the memory of what it means to be imprisoned, do not only motivate those who fight. Dozens of folk who have never raised a spear in anger, held a shield, or marched to an uncertain future answer the call of the Great Forest Orcs. Veterans of old conflicts, who long since hung up harness and sword, hear the familiar thump of their hearts, the sharp tang that promises bloodshed and desperation and perhaps the sweetness of victory over darkness. There are few victors in war; all too often it is fought between soldiers who do not entirely know why they fight. Against the Druj though? On a rescue mission? There is no grey area here.
+
+So across Miaren and Hercynia, even in the tangled depths of Brocéliande and the lost lands of Therunin and Liathaven, the Navarr move. They gather at [wayhouses](../nations/navarr/Wayhouse.md), meet in hidden glens beneath the blind eyes of the Jotun and the Druj. At the same time, in Skarsind and Mareave, the septs of the Unshackled hear the twin-whispers of virtue and spirit, hearing the voices of the ancestors urging them to *take action* and *answer the call* and *kill the Druj*.
+
+These people make decisions that put both their lives and their livelihoods on the line. Shopkeepers and cowherds; herbalists and gardeners; foresters and miners; priests and guides and preachers and shaman; and all the great span of people in between. They do what they can to ensure the raid is a success and the Great Forest Orcs are brought home - and that their own people come home with them.
+
+Some contribute directly - they gird themselves and their fellows and they join the warbands slipping eastward. Others use their wealth - their Prosperity as their shield and sword - herbs and potions, money and mana used to secure enchantments and equipment, liao to create auras to defend against the miasma, magic items to give those who take the ultimate risk the edge they will need. Under the direction of the two commanders and their aides, no contribution is wasted. Everything is channelled toward the success of the mission.
+
+*[Image: BunnyArt.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:BunnyArt.jpg)*
+
+## The Rabbit
+
+Even as the decision about who should represent each nation is being made, a band of Navarr use the power of the [Sentinel Gate](../world/Sentinel_Gate.md) to reach Thule-held [Oerwalt](../barbarians/Forest_of_Ulnak.md#oerwalt) in the north. At a [regio](../../mixed/magic/rituals/Regio.md) there, two brave covens call down the [warding power](../../mixed/magic/rituals/Forge_the_Wooden_Fastness.md) of *[Shacklebreaker](../eternals/Irra_Harah.md)* into the wild woodlands. Rather than rely solely on the enchantment, they weave [star metal](../../out-of-character/rules/Ilium.md) into their working and draw on the boon promised by the *Guard of the Weak*. Even as the forests shift and twist themselves to defend the Thule fighting there - for such is the way of the Wooden Fastness - the *Prince with a Thousand Foes* focuses his attention in the Forest of Ulnak, and on the plight of the Great Forest Orcs.
+
+As the first Navarr and Imperial Orcs cross the borders into the Forest, they are met by quick-footed, keen-eared heralds. Caparisoned for war, garbed in thin leather and armed with clubs and staves, these leporine [heralds](../eternals/Inhabitants_of_the_realms.md#heralds) have a supernatural sense for danger that helps their allies avoid patrols and sentries alike. When fighting is inevitable, they engage alongside the thorns and the legionnaires, and it soon becomes apparent that their master *Shacklebreaker* more than deserves his name as their simple weapons [shatter](../../mixed/magic/spells/Shatter.md) shield and spear alike leaving their foes vulnerable to the weapons of Imperial heroes.
+
+Often when the servants of the *Lord of Brambles* deal with the people of the Empire, they are curt and unfriendly. There is no hint of this among those who offer their aid in the Forest of Ulnak. A few even speak of having fought alongside the Imperial Orcs before they *were* the Imperial Orcs. Others express their sincere approval for the oaths the Navarr have taken, and the aid they give to their friends. If there is talk of the horrors of the Barrens or the politics of Sarangrave, the subject is swiftly changed. The heralds are focused on their purpose for being here - to free those under the cruel heel of the tyrants of the Mallum and to kill as many of those oppressors as they can in pursuit of it.
+
+There is only one real point of friction and that is with the *other* allies the Empire brings with them into the Mallum.
+
+## The Karass
+
+*[Image: Reynard of De Gauvain , Envoy to the Karass](https://www.profounddecisions.co.uk/empire-wiki/File:Reynard_of_De_Gauvain.png)*
+
+By now it is a truism that nobody likes [the Karass](../winds-of-fortune/Not_to_conquer.md#karass). One of the three surviving septs of the Barrens, the Great Forest Orcs certainly despise them - and the feeling seems mutual. Those who Chief Vallack has sent to accompany the raid into the Mallum will not even speak to the Karass, will not be in the same space as them.
+
+Yet for all that, the Karass have made it clear in the past that they are prepared to be *of use* to the Empire, just as they were once *of use* to the Druj. They do not seem to have any significant military strength; what they *do* have is a truly uncanny amount of information about the Mallum and its wicked overlords. They know how their patrols operate, and they know where the paths and the roads lead. Nobody knows the Druj lands like the Karass. The Empire has maps, but the Karass have actually travelled these lands. They know how the Druj move, and they know how they think.
+
+They did not volunteer; they were asked to join the raid by the [envoy](../../mixed/titles/Envoy_to_the_Karass.md) appointed by the people of [Dawn](../nations/dawn/Dawn.md) to deal with the often difficult sept of [Bleaks](../nations/dawn/The_Barrens.md#the-bleaks) and the [Untrod Groves](../nations/dawn/The_Barrens.md#untrod-groves). It is not clear at first whether they intend to respond, but shortly before the warbands in the Barrens start to mobilise, a hundred or so Karass hunters emerge from the woodland and join the Imperial forces encamped along the borders.
+
+They do not pretend to have any great love for the Great Forest Orcs; they do not suggest for one moment that they are here for virtue or because they recognise the virtue of the task ahead. They say they are here to discharge a debt for the [rescue](Who_can_you_trust.md#protect-lenna-karass-the-barrens) of *Lenna Karass*, and to show the Empire once again that they have value as allies. Are they telling the truth? It's hard to say, but they have proved their worth already this year when they helped [deny the Thule](../winds-of-fortune/Fear_quickens_the_breath.md#into-the-forest) a prize they sought in the Forest of Ulnak. Perhaps it is best not to enquire too closely about their motives simply because their presence greatly increases the likelihood of success - knowing where you are going, where to avoid, who you can trust and who you can't, is *everything*. Even more so than the Unshackled, the Karass can approach Druj settlements and talk with the occupants with no fear of a ruse being exposed. In enemy territory that kind of intelligence is priceless... assuming you can trust it. You can't betray your enemies, so they say. Which raises the question of just who is the Karass' enemy and now we are back where we started.
+
+[Vigilance](../religion/Vigilance.md) is a virtue, and where the Karass are concerned it may be more important than any of the others. If the sept chooses to betray the Empire, if they pick their moment carefully (which they surely will) then the results will be devastating and might result in the failure of the entire mission. Sometimes, perhaps, it is a mistake to keep your enemies *too* close...
+
+Regardless, when the Empire moves, the Karass are with them, and the desperate mission into the Mallum begins.
+
+[Image: Salt Flats of Sanath Regions.png](https://www.profounddecisions.co.uk/empire-wiki/File:Salt_Flats_of_Sanath_Regions.png)
+
+[Image: SaltFlatsBasic.png](https://www.profounddecisions.co.uk/empire-wiki/File:SaltFlatsBasic.png)
+
+## Upper Saarnath
+
+The [campaign in Lower Saarnath](Forward_into_depthless_dark.md) is in its earliest stages as the raiders committed to the Salt Flats of Sanath begin to move east, to make the difficult ascent onto the plateau of Upper Saarnath. The land rises steeply here, cliff walls and difficult paths presenting the only safe way to make the ascent. The Druj control the main routes, those usable by sizable organised forces. An army would struggle to climb the plateau without fighting, without giving the game away, but the warbands of Imperial heroes are a different matter. There are those with experience in the highlands of Hercynia, and Unshackled who have adapted to the rugged life in northern Skarsind, who make short work of the climb. With the aid of the Karass, others are able to find isolated paths, either unguarded, or with the kind of sentries who will not be missed for weeks if they are slain. A small number receive more magical assistance - while the children of Irra Harah are mostly active in the Forest of Ulnak to the north there are still a few here to help rescue the prisoners from the Grove of Woe. Those who have their aid are able to climb an otherwise impassable cliff-face using a magically conjured vine that the heralds dance and pipe into being, growing with supernatural speed up the sheer rock walls to provide ample handholds for ascent and - more importantly - later descent.
+
+As with a surprising amount of the Mallum, the forests here are not heavily populated. There are woodcutting camps here and there, and areas where trees have been cleared to create miserable villages populated by Druj subject septs, but most of the plateau remains wild and untamed. The heavy weight of the Druj miasma hangs over everything, corroding the confidence of those sneaking through the forest towards the Grove of Woe. Fortunately, between donations of liao and certain potions, the worst of the effects can be managed at least for a time.
+
+The other threat here is more mundane; it is all too easy to get lost in what amounts to an often trackless expanse of trees. There are a few roads, it's true, but they are more dangerous than the wilderness. Druj soldiers patrol the roads, the settlements along them are alert for signs of raiders from the Imperial forces attacking Lower Saarnath. All too often the Empire must trust to instinct to find their way through terrain that looks the same hour to hour, day to day.
+
+Standing at the heart of the region, the Grove of Woe represents one of the largest weirwood forests in the Mallum. A match for [Canterspire](../../mixed/titles/Canterspire_Circle.md) and the [Golden Trees](../../mixed/titles/Golden_Trees_of_Seren.md), only the [Hunt of Alderei the Fair](../../mixed/titles/Hunt_of_Alderei_the_Fair.md) in far-off Varushka is larger. It is also clearly ancient; the woods here have been tended and harvested for centuries. It is a hive of industry - albeit a *Druj* hive of industry. Before one even comes in sight of the grove proper, there is a ring of high watchtowers protruding from the trees that allow garrisons of keen-eyed orcs to keep a watch over the approaches. Perhaps watchtower is the wrong word - it conjures to mind a simple structure with one or two occupants gazing out across the treetops. These watchtowers are more akin to small forts; wide platforms supporting what amounts to a tiny keep, easily home to two or three dozen orc warriors.
+
+Furthermore the Karass warn that each tower is equipped with a set of sounding drums that will allow a warning to be spread across half of Upper Saarnath in a heartbeat if the raiders stumble. The towers are also situated just close enough to each other that an attack on one risks others realising what is going on and sounding the alarm. Worse, it is not a simple matter of disabling the instruments; four times a day the drums must be beaten in certain rhythms to show the tower is still intact or the alarm will inevitably be raised.
+
+There is a plan, though, and as long as it goes smoothly it will be a success. In the darkest heart of the night, two adjacent towers are attacked. Skin and weapons and armour blackened with mud, the stealthiest assassins among the raiders scale the legs of the towers in silence and bring swift death to the sentries on watch. Any misstep here risks sending a screaming body plunging to the forest far below, risks rousing the rest of the defenders with enough time for them to raise the alarm.
+
+With the sentries dealt with, the rope ladders are dropped to allow more warriors to swarm up to secure the platforms. It is not just a matter of assassinating sleeping barbarians; each has a shift ready to respond to any alarm raised by those watching the forest. Brutal, bloody fighting, high above the forest floor, leads to serious wounds on each side. It's fortunate that the [Rivers of Life](../../mixed/magic/rituals/Rivers_of_Life.md) flow across Sanath this season - but it also makes the fighting that much more vicious as the foe must often be executed to prevent them rising again.
+
+After the towers are captured, there is only a short time for the next stage to be put into operation - Imperial Orcs in Druj hooded cloaks take up the post of sentries so that the neighbouring towers will not suspect anything is wrong. There must also be people ready to beat the signal drums, to prevent the alarm being raised - at least until the Grove of Woe itself is attacked. Then it will be the responsibility of these brave fighters to attack the towers to either side, to widen the safe passage for the escape.
+
+## The Grove of Woe
+
+*[Image: The Black Hide Beetle - symbol of the Pakkad](https://www.profounddecisions.co.uk/empire-wiki/File:Druj8.jpg)*
+
+*[Image: The Deathstinger - symbol of the Hupul](https://www.profounddecisions.co.uk/empire-wiki/File:Druj4.jpg)*
+
+*[Image: The Coiled Shrike - symbol of the Kallad](https://www.profounddecisions.co.uk/empire-wiki/File:Druj6.jpg)*
+
+With the outer defences secured, the sands truly begin to flow through the hourglass. It is now just a matter of time before the Druj realise what is happening, before ill chance or a passing patrol exposes the ruse. Stealth is still useful, but speed is essential now. Unfortunately, speed brings its own risks. The Druj have placed traps and pitfalls all around the Grove of Woe. It soon becomes apparent that these traps are less about discouraging attackers - although an army would certainly suffer losses if they tried to press through the woods here - than they are about punishing anyone who tries to flee the groves. Some are clearly ancient, others relatively new. Spiked pits, deadfalls, tripwires attached to blades crusted with filth and old venom, weighted nets that fall and lift, and game trails that seem safe until they very much are not.
+
+Here the Karass guidance is more sketchy - they know the traps *exist* but they have no way of knowing where they are. Fortunately, the Navarr are no strangers to this kind of subtle warfare, and know the signs to watch for. Even with that expertise, though, the infiltration of the woods is perilous. It is not enough to just bypass the traps; wherever possible they must be disarmed to reduce the risk of someone stumbling into them while fleeing the Grove.
+
+Within the ring of traps is the Grove itself, an expanse of healthy weirwood trees that reaches up above the surrounding forest. There is one final circle of defence - a weirwood wall topped with vicious spikes of mithril and rusted iron. A garrison of several hundred orcs, cruel guards and wicked overseers who keep the captured prisoners in line. Here the last tatters of stealth begin to fragment and blow away. The raiders have the initiative, launch their surprise attacks at three key junctures, each arrow or javelin finding its target and sending them sprawling, but there is no way to stop the alarm being raised. Even as the gates and the walls are attacked, the drums start beating, heavy thunderous notes of warning that are soon echoed by the loyal watchtowers.
+
+For some, perhaps, it is a relief. Too many days of ever-tightening tension, each successful act of infiltration being nothing more than the threat that the *next* risk will be the one that brings the whole house of cards tumbling down. Now it is battle, and for many of the Imperial Orcs they smash through the Druj defences with the voices of their ancestors ringing exultant in their spirits, in their hearts, in their ears. *Break these chains!* they shout, and *kill the slavers!* and *no mercy for the Druj!* The Navarr are lockstep with their allies, but where the orcs have the voices of their ancestors to spur them on they have the memory of Therunin, and what the Druj did to their people there, and it howls in their blood loud enough to match any spirit of the gone-before.
+
+Again the curse of [Spring magic](../../out-of-character/rules/Spring_magic.md) helps both sides, prolongs the fighting, makes it five times bloodier than it might have been. These Druj are elite fighters - [Pakkad](../barbarians/Arkad.md#pakkad) and the [Hupul](../barbarians/Arkad.md#hupul) and [Kallad](../barbarians/Arkad.md#kallad) who ensure the slaves stay in line. They are equipped as befits the [Arkad](../barbarians/Arkad.md) - ample [blade venom](../../mixed/magic/potions/Legacy_of_Thorns.md), potions of healing and strength, and when all else fails pouches of [true vervain](../../out-of-character/rules/True_Vervain.md) to restore their vitality. Spells and potions of [purification](../../mixed/magic/spells/Purify.md) prove invaluable during the battle to seize the Grove of Woe.
+
+While the fighting rages, a small number of champions take advantage of the chaos to bypass the defenders and push deep into the encampment here among the weirwood trees. Their purpose is twofold - to kill any Druj commanders they can find and to let the slaves know that they are about to be liberated. They are perhaps a little unprepared for the tenacity of the resistance they encounter. Even as the fighting spreads along the walls and spills over into the outskirts of the encampment, those moving to the aid of the Great Forest Orcs discover that the Grove of Woe is under the direct command of one of the [Buruk Tepel](../barbarians/Druj_lore.md#buruk-tepel).
+
+The orc master apothecary is protected by a cadre of Pakkad with the finest weapons and armour the Mallum can produce. True juggernauts of poison and steel, they fight with the fervour of the fanatic to protect their mistress. For her part the Buruk Tepel is clearly so much more than a "mere" master [apothecary](../../out-of-character/rules/Surgical_skills.md#apothecary). There are braziers in which some sinister mix of herbs and poisons have been prepared and as her bodyguards battle the Navarr and the Imperial Orcs, she personally begins to set them alight. The thick greenish-yellow smoke they produce hangs low to the ground, creeping in a slow flood through the encampment. As more of the braziers are ignited, the fog spreads more quickly, begins to thicken, becomes deeper. When someone falls into the fog, they do not rise again. This "death fog" smothers anyone who breathes it for more than a few lungfuls - and if someone is already weakened when they encounter it it swiftly spells their doom. The Empire has encountered weapons similar to this in the past but never so concentrated, never so *cruel*.
+
+As the fighting continues, it also becomes apparent why none of the slaves here have joined the fighting. The Great Forest Orcs who tend the Grove of Woe have been chained to the floors of their ramshackle huts, and as the fog thickens they desperately struggle to keep their heads above the level of the poison mist. It becomes a race against time - to break the chains of the prisoners before the Buruk Tepel atrocity claims them. The raiders split their attention between the Druj defenders and the salvation of the orcs.
+
+In the end though, the Empire is able to prevail - just. It is easy to say, but hard to communicate how close it is. A hair's breadth and the fog would have thickened enough, risen high enough, then the victory over the guards would have been rendered all but meaningless. If the heroes of the Empire had fought one iota less fiercely, committed even an ounce less completely to their goal, the Druj would have held the weirwood groves and stood victorious over the charnel pit they had made of it. In the end though, their terrible scheme does not come to fruition. The Imperial plan works. The slaves are saved, the Druj are slain.
+
+The Buruk Tepel stands defiant to the last, at the heart of a tightening ring of Navarr spears and Unshackled blades and the blazing eyes of the heralds of *Papa Otec*. She sneers, spits her defiance, and in the last moment touches the burning brand with which she sought to extinguish the lives of the Great Forest Orcs to her own robes. She becomes a pillar of flame, her arms spread out, the stench of burning hair and wool and cooking meat overpowering the stink of the dissipating death fog. Worst of all, as she burns, as she dies, she *laughs*, howls with laughter until the fire rips the air from her lungs and she collapses in ashes and burnt fragments of bone. Those present to see her die will likely hear that laughter in their dreams for the rest of their lives and wonder what kind of creature, human or orc, can laugh while being devoured alive by flame.
+
+*[Image: Strength is often found in unexpected places.](https://www.profounddecisions.co.uk/empire-wiki/File:Verys.png)*
+
+## Flight Through the Dark
+
+The last of the Druj defenders flee into the forest once it is clear the day is lost; they do not stand and fight. The rescued prisoners number several hundred. Roughly two thirds are of the Great Forest sept, although many of them have never known any life save that of slavery in the Mallum. The remainder are orcs of other subject septs kept for more prosaic service, and a few handfuls of humans. Most of the latter are Navarr, or Dawnish yeofolk, brought here after Druj raids for their own expertise in tending weirwood. Some have no knowledge of the Empire at all, and are as frightened of their rescuers as the orcs. They are either descendants of prisoners taken generations ago, or folk who lived in the Mallum before the Druj took control.
+
+The next enemy to overcome is fear. There is so little time, and yet defeating this foe is crucial. It would be easy to imagine the Imperial Orcs would have an advantage here, but that would be a mistake. The slaves are orcs themselves, but so are their former masters. It is the Navarr, and their talk of oaths and of the bond with the sept of Peytaht that break through the paralysing, traumatic fear that the servants of Irra Harah call *"tharn"*. The fear that robs the mind of the ability to think, the terror that prevents the legs from moving and, if it lasts long enough, spells slow death. The words of the Navarr, and the reassurance of the handful of Great Forest Orcs with them, get through to the prisoners and get them moving.
+
+This is the most vital thing, the part of the plan that could go most catastrophically wrong. Several hundred tired, frightened prisoners must now be escorted to safety, with the alarm raised and the Druj certainly already on their way. Supplies are needed - and while the [businesses](../../out-of-character/rules/Business.md) and [farms](../../out-of-character/rules/Farm.md) of Miaren and Hercynia and Skarsind and Mareave have provided what they can, carrying too much *into* the Mallum would just slow the raiders down when they need to move. And so the first order of business is to raid the camp and grab everything that can keep body-and-spirit together in the flight west toward the Empire. Food and water, obviously, but it is easy to overlook the importance of good footwear and sturdy clothes, walking sticks, containers to carry provisions, bedrolls... the list is endless and every moment brings the Druj closer.
+
+Here fortune smiles a little on the Empire and their new charges. The garrison here had a great store of potions and herbs for their own use. The Buruk Tepel had brought her own supplies for her bodyguards. Potions to strengthen the body, to clear the mind, to heal wounds, even to bolster the spirit are all claimed and distributed among both the prisoners and those who have freed them. There is also, unfortunately, a sizable stash of potions known for the [pernicious impact](../../mixed/magic/potions/Double-sided_Blade.md) they have on those subjected to them, and while there is some discussion as to whether [Weakening Sun](../../mixed/magic/potions/Double-sided_Blade.md#weakening-sun) or [Warming Armour](../../mixed/magic/potions/Double-sided_Blade.md#warming-armour) might ultimately be of use, these discussions are quickly curtailed. There are some weapons of the Druj, argues one of the priests vehemently, that we must never stoop to using, no matter how deep the need.
+
+Time runs out. The agreed on signal comes from the captured watchtowers; a force of Druj is moving toward the Grove of Woe from the east. It's not clear if it is a local patrol, or a force up from [Leen Rarckan](../barbarians/Salt_Flats_of_Sanath.md#leen-rarckan), but it is clearly time to go. Moving hundreds of disciplined soldiers is enough of a challenge; moving hundreds of terrified refugees is several orders of magnitude worse. Yet somehow, the plan holds together. The ragged column starts to move; a handful of wagons hold those not in a condition for the heavy marching ahead, nestled in among the hastily gathered supplies. Most of those who ride are children; the Druj have little use for tree-tenders too old or infirm to work the groves. The rest are those who were exposed to the death fog for a little too long and will need serious medical attention before they can walk easily.
+
+Through the ring of traps, almost miraculously, without losing anyone. The caution of the Empire's approach has paid dividends here. There are a few attacks by Druj warriors - the sentries of the other watchtowers most likely coupled with some who fled the fall of the camp - but they are easily fended off. The rest of those who remained behind to hold the towers join the main body, and once they are through the outer circle the caravan begins to make better time.
+
+Over the next several days, the raiders push themselves almost to the point of exhaustion. Outrunning the pursuing Druj is one thing; dealing with the Druj *in front* of them is another. While the ingress was marked by stealth and misdirection, the egress is a bloody swathe cut through the forested plateau as more and more Druj warriors zero-in on the fleeing Imperials and their living cargo. By the third day, some of the slaves have recovered enough to demand weapons, armour, shields of their own, to protect their friends and their families and fight alongside their rescuers. Some artisans and crafters among the Imperial force have sacrificed [ingots](../../out-of-character/rules/Materials.md#metals) and [measures](../../out-of-character/rules/Materials.md#natural-materials) to craft the kind of weapons that will give even an unskilled wielder an edge; others have brought a few extra armaments from their forges or their armouries for just this kind of situation. For the rest... the servants of Irra Harah are again able to offer strange assistance; with a touch they can carve a shillelagh or a staff, or a spear shaft from a tree; with their fingers alone they can shape stone into spear-heads and charm vines to attach one to the other. They can weave grass and leaves into simple armour, held together more by magic than by any artisanry.
+
+Westward then, from the first light of dawn to the last light after dusk, with the night-time spent in fitful sleep. The miasma presses down mercilessly, a threat to the spirit every bit as immediate and wicked as a Druj arrow poses to the body. Yet just as there are weapons and armour to wield against the mortal attackers, so there are also armaments that can be used against despair. Around simple campfires, in the shadows beneath the trees, in the snatched moments of rest and respite, there are stories and there are songs. The Unshackled share their history and the path that led them to where they are now; the Navarr speak of the fall of Terunael and the nation that rose from its ashes; the Great Forest Orcs share a few tales that are new even to those who know the sept of Peytaht, of the woodlands that once stretched from shore to shore and the spirit that moves through it. As a philosopher once said "*greater than the death of flesh is the death of hope, the death of dreams*," and ultimately the final victory over the Druj will be the victory over despair.
+
+Long days and long nights and then, long hours of trudging exhaustion punctuated by terrifying moments of battle and bloodshed. And through them, at last, against all the odds, the edge of the plateau comes steadily closer. There is little chance of taking the rescued prisoners down the secretive routes used to reach Upper Saarnath. A final assault, then, against the *Lidless Stair*, and then hopefully safety below.
+
+Of course, nobody can be sure if there is any safety in Lower Saarnath. When the heroes of the Empire made the ascent into Upper Saarnath, the fighting was just beginning. If the Empire has been driven back into Sarangrave, if the Druj have sent a superior force, then all this might still prove to have been for naught as the descent places the heroes and their charges in the heart of the armies of dread. As much as they can the Imperial raiders keep this unsettling truth from the former slaves, for fear that it may prove one burden too many for them to bear.
+
+*[Image: We take victory where we can.](https://www.profounddecisions.co.uk/empire-wiki/File:Tykonus.png)*
+
+## Down the Lidless Stair
+
+The Lidless Stair is a wide path, the most southerly of those which allow an army to move from the lowlands to the uplands. It is guarded by a wall of twisted weirwood and old white granite, and a few hundred soldiers. The plan gambles on the fact that some of those soldiers will be out of position - joining the fighting in Lower Saarnath or looking for the raiders in the wrong place.
+
+A fortress might be poor quality, but it is still a fortress. Crystal mana is gathered in trembling hands, supplemented by a few pots of [Vital Honey](../../out-of-character/rules/Vis.md#vital-honey), and in the last hours before dawn a ritual is enacted among the trees on the edge of the plateau. Those Navarr magicians versed in [Spring magic](../../out-of-character/rules/Spring_magic.md) are just between them able to craft a [magical weapon](../../mixed/magic/rituals/Rising_Roots_that_Rend_Stone.md) to breach the wall. Warriors alone could have taken the Lidless Stair, for sure, but there is no way they could have done it without loss of life - and without leaving their charges vulnerable. With the magic of those volunteers who accompany them, though, there is another option.
+
+The spell works like a charm; one minute the arrogant Druj defenders are taunting the approaching force from the safety of their gatehouse, the next that gatehouse is rent asunder sending no-longer smug orcs tumbling in every direction. Shorn of their wall, the Druj lose much of their steel... only to discover that they are now trapped between the furious Imperial heroes to the east and the armies of the Empire to the west. Their only escape is death, and in the end that is the route they all must take.
+
+Even as the gates fall, the alarm is being raised at the rear of the column. A (relatively) disciplined force of Druj warriors is fast approaching, closing the distance with distressing speed. The fight at the top of the Stair is nearly won but not quite and if the defenders must split their forces then there is every chance they will fail, fall at the last hurdle between them and freedom...
+
+The sky turns black, and the rain begins to pour, and the gale begins to howl, and in that moment it looks as if everything has been for nothing. The raiders will need to choose between sacrificing their lives to delay the inevitable, or leaving those they promised liberty to be recaptured, slaughtered.
+
+Then a horn is heard, an echoing note that rises above the weather, that stills fear and quickens the heart. It is followed by a peal of thunder, an indescribable noise as if the sky itself was being torn in half and whatever it is that lies behind it was pouring through. Far to the east thunderbolts cascade out of the peligin clouds, and for a moment that noise expands to fill the entire world.
+
+The approaching Druj scatter in terror, the sound overwhelming their discipline for precious minutes. The gate of the Lidless Stair is taken, and the refugees begin to pour down the path, down into the southern reaches of Lower Saarnath. By the time the approaching Druj find their courage again, the very last Imperial soldiers are following them down. And at the bottom wait the victorious Imperial armies, and the Druj dare not follow their quarry into that unwelcoming embrace.
+
+So, then, when all is counted up, the plan has gone just as it should have. The Great Forest Orcs are rescued from the Grove of Woe, along with several dozen other servants of the Druj who will find a welcome in the Barrens, or in Skarsind, or further afield in Hercynia or Miaren.
+
+But what of the Forest of Ulnak?
+
+*[Image: The Forest of Ulnak is mapped, but parts of the territory remain unknown.](https://www.profounddecisions.co.uk/empire-wiki/File:Forest_of_Ulnak_regions.png)*
+
+## The Ancient Forest
+
+What of the Forest of Ulnak indeed. In the north, speed is more of a pressing concern than stealth. For the plan to work, the Grove of Woe and the Sacred Grove need to be attacked at roughly the same time. The Buruk Tepel are said to be able to communicate over great distances using some mystical technique or other, and any warning will surely see Nimon Rue execute their prisoners. Worse, no matter where they enter the Forest, the Imperial raiders will need to cover more than twice the distance to reach the weirwood groves - through the whole of [Oerwalt](../barbarians/Forest_of_Ulnak.md#oerwalt), [Grimfen Mire](../barbarians/Forest_of_Ulnak.md#grimfen-mire), or [Gul'thak Forest](../barbarians/Forest_of_Ulnak.md#ghulthak-forest), and then into the depths of [Deathsgate](../barbarians/Forest_of_Ulnak.md#deathsgate), all under the unsleeping gaze of [Cassad Ûln](../barbarians/Forest_of_Ulnak.md#cassad-ûln) itself.
+
+The plan rules out any approach through Gul'thak. There is something alien in the woods there, something alert and watchful. Just as bad, there is the Thistle of Barbs, which defends the forest from any attempt to cross the Nameless River. Oerwalt would be easier, but risks the attention of the orcs of Otkodov. Most likely the Thule would be disinterested in the Imperial plan, but there is always a chance that they might obstruct it unintentionally, or otherwise.
+
+Talking with the Karass, the decision is made to push through Grimfen Marsh, skirting the northern Gul'Thak as quickly as possible, and then delving into Deathsgate. While Grimfen Marsh is perilous, and reasonably well populated, there is no suggestion that the folk who live there have any love for the Druj. Treachery is always a threat in the Mallum, but between the Imperial Orcs and the Karass, it is assumed they will be able to handle the sprawling families of Druj subjects.
+
+Here the Empire also has significant aid from the children of *Papa Otec*. The heralds out of Oerwalt do not boast of their prowess, but they quietly let it be known that they can help with marsh and forest alike. Given speed is of the essence, they ask the raiders to trust their expertise. They can ensure the Empire is forwarned of any patrol, any watching sentry, no matter how canny or well hidden. The wisest beasts, they explain, always know when they are being watched. So it is with the servants of *Shacklebreaker*.
+
+With the plan set, a flotilla of small boats, rafts, and flat-bottomed skiffs are deployed to transport the raiders across the Nameless River, in small groups, and the assault on the Forest of Ulnak has begun.
+
+*[Image: The desperation of the Druj is so much worse than their complacency.](https://www.profounddecisions.co.uk/empire-wiki/File:Druj1.jpg)*
+
+*[Image: It is unwise to rely too much upon the goodwill of the Dragons.](https://www.profounddecisions.co.uk/empire-wiki/File:Thulebanner1.jpeg)*
+
+## Grimfen Mire
+
+While it is called both fen and mire, Grimfen is as much forest as it is marsh - a flooded forest, reminiscent of the wild places of Therunin on the other side of the Barrens. There are insects everywhere, vicious animals, deadly toadstools and mushrooms, predatory birds, and an omnipresent cladding of soft mosses. The natural dangers here are made all the worse by the presence of the Spring curse placed on the entire territory by the warlocks of Otkodov. The [rivers run red](../../mixed/magic/rituals/Rivers_Run_Red.md) here, breeding sickness and infection that can make even the mildest of injuries, the smallest of insect bites, potentially life threatening. Potions and herbs can help of course, as can the magic and medical expertise of those who have risked their lives to accompany the warbands, but the danger is omnipresent.
+
+The riverbank is marked by a handful of settlements - stilt-fishers and pot-fishers for the most part - and as one moves inland (inasmuch as any part of Grimfen can be called "land" rather than "mud") there are many more. The Karass know the routes to take, there are plenty of Navarr used to this kind of sodden woodland, and the raiding parties make good time. Rather than take a single path through the region, there are multiple bands of raiders moving separately. It increases the risk of one of them being spotted, certainly, but smaller groups are harder to spot and can react more quickly.
+
+The heralds of Irra Harah are as good as their word; their supernatural senses provide ample warning of threats both barbarian and natural. They can tell the difference between a log sunk in a stagnant pool, and an awful predator that only *looks* like a log at a glance. They are able to show hunters which fungus is safe to eat and which will cause agonising nightmare delerium.
+
+As with the force in the Salt Flats, the omnipresent miasma is a challenge. Again, liao and virtue and the voices of the ancestors help, but it is a struggle all its own, especially in environs such as this. There is something mournful about Grimfen, that goes beyond the miasma. Something sad woven into the roots and branches and the waterways. The Karass shrug when asked about it, and the heralds of Irra Harah just look sadly away and change the subject.
+
+For all the difficult terrain, the raiders make good time through Grimfen. As the southern warband is cresting the cliffs of Upper Saarnath, they are closing in on the northern borders of the mire. Here they come across signs of battle - fighting between Thule conquerors and the defenders of the Mallum. It seems however that these are older battlefields, and it is only Druj bodies that are found here, bloated and flyblown by weeks abandoned in the damp, hot sun.
+
+When the denizens of the region are encountered, on the rare occasions they cannot be circumvented easily, they either flee or just watch the Imperials impassively, disinterestedly. Perhaps one or two might seek to curry favour with their overlords by reporting the presence of trespassers but if they do they are either intercepted by their own people or ignored. Those orcs among the raiders who make contact with one of the settlements find a people cowed by the miasma, and by the wickedness of those who rule here. If they speak of the Empire at all, it is in the tones of folk who know them only from stories as wicked sorcerers who rain curses down on the Mallum and slaughter any orc who falls into their hands. The raiders might not encounter opposition here, but they find no welcome either.
+
+*[Image: Chance undoes even the best laid plans.](https://www.profounddecisions.co.uk/empire-wiki/File:Ull.png)*
+
+## Trees and Bones
+
+From Grimfen, the raiders press along the border between Gul'thak and Bonewall. The southern woodlands give way to more barren hillside, and another dilemma. Travelling through the woods helps hide the presence of interlopers from any watchers, but likewise hides the watchers and impedes swift progress. Travelling through the hills is a little easier, but all too often leaves trespassers exposed to anyone who might be paying attention.
+
+The dissipated groups that have made their way here join together as they push north and east. The time for stealth is coming to an end - if they are to make the Grove in time to save the Great Forest orcs they need to pick up the pace. Armed conflict is inevitable, and violence finds the raiders before they have gone more than a quarter of the distance they need to cover. A cohort of Druj soldiers, under the ragged banners of the [Deadly Blade](../barbarians/Druj_armies.md#deadly-blade), retreating out of Bonewall into Gul'Thak spy the Imperials and raise their spears to attack. A few race south, others east, to try and spread the alarm. Not only must the Imperials deal with the soldiers, but they must try and catch the runners if they hope to maintain the element of surprise.
+
+As swift-footed warriors, scouts, and hunters in lighter armour dash to intercept the would-be alarm-raisers, the rest of the raiders are forced to battle venom-bladed Druj soldiers who know the terrain much better than they do. The Empire is outnumbered, but fortunately these are not fresh troops. Far from it. They have been fighting the invaders from Otkodov, and have had little time to resupply or rest. As it is the fighting is hard going, but the Imperial raiders are at full strength and well prepared. The Druj are cut down, and those who try to flee their inevitable rout are shown no mercy.
+
+As the last warrior falls, those who chased after the runners return. They think they have silenced all those who would raise the alarm, but they cannot be certain. The need to move quickly intensifies.
+
+This is only the first of several such encounters - ragged warriors retreating out of the Bonewall. Some bear battered banners of the Druj armies, others are part of the garrisons of the southern forts. They are demoralised, injured, tired, and as often as not their first thought is to retreat rather than fight. When they have to, the Empire kills them; when they don't they let them pass by, unnoticed.
+
+Twice the raiders see signs of the Thule along the southern borders of the Bonewall. Massive encampments, lit up like the night sky with flames and lightstones. Azure banners marked with runes and depictions of the Dragons stand out against the skyline. It is clear the Thule *want* the Druj to know where they are, taunting them almost, as if they are urging the defenders of the Mallum to attack them. An ironic twist of the familiar Druj tactic of trying to lure their enemies into a trap, perhaps.
+
+*[Image: Cassad Úln stands sentinel over the high peaks of the north, watching eternally for anything that might threaten its domination.](https://www.profounddecisions.co.uk/empire-wiki/File:Deathsgate.jpg)*
+
+## Deathsgate
+
+Even for those who have seen the Tower of the Skink in Sarangrave, the great citadel of Cassad Ûln is a breathtaking sight. Where the Tower had something of a ramshackle mien, suggesting broken glass and rusted metal and twisted ambition, Cassad Ûln is fear and tyranny made manifest. Black stone looms on the side of the sweeping northern mountains, a single spire reaching up as if in defiance of the stars and the surrounding peaks. Where other Druj fortifications are intentionally things of spike and jagged steel, this is something else. A monolith of darkness, smooth sided, easily imagined as a great sentinel watching over the entirety of the Mallum. Those who have seen the wall at its base report that it is a different matter; a curtain of stone garlanded with the familiar grisly totems of the cruel masters of the Mallum.
+
+The tower itself isn't always visible; Deathsgate is covered with a thick northern forest and it looks as if it would be possible to cross the entire region without ever seeing the open sky above the canopy. Yet once it is seen it preys on the mind - a result of the Druj miasma perhaps - and it is all too easy to imagine it staring through the leaves and branches deep into ones soul. One Imperial Orc jokes that perhaps it is just the biggest miasma pillar in the Mallum, but their attempt at levity falls very flat indeed.
+
+As with so much of the rest of the Mallum there is no solid road to follow, no great highway. What roads there are, are rutted with wheel-tracks, barely more than open spaces between the tree trunks. It is clear that caravans must travel through these woods regularly - to collect the weirwood from the Sacred Grove and bring supplies to Cassad Ûln if for no other reason - but they must represent a truly arduous task. When asked, the Karass look blank and say "slaves" and leave it at that.
+
+It would be easy to imagine that this is just more trackless wilderness, but nothing could be farther from the truth. Particularly in the south the woodlands here are dense with herb gardens, small villages, and the guarded estates of skilled tepel and apparently even some Buruk Tepel who wish to get away from the constant scheming of Sanath to spend some time in study. This means that the woods here are guarded, and the strain of having to ensure that nobody escapes to raise an alarm begins to show on the raiders.
+
+Just as in the south, there is an outer ring and an inner ring of defenders here. Unlike the protections in Upper Saarnath, though, those established in the woods around the weirwood groves are not solely mundane and trickery will not avail against them. According to the Karass, there are white stones quarried from the depths of the northern mountains, marked with dark sigils and woven with cruel magic, that allow unnatural horrors to hunt the woods around the Sacred Grove and punish all who they find who do not bear the "mark of passage".
+
+These supernatural guards are truly monstrous - orc-like humanoids whose bodies are pierced with metal and who drag terrible chains behind them. Some are plated in misshapen metal, as if their armour has fused to their flesh or their bodies have somehow grown *through* it. Some wear helmets that hide their entire face, hunting by sound and scent and the echo of feet on the earth. Others possess powers of dark witchery, able to drain the strength from a warrior with a touch of one taloned hand and leave them easy prey for the creatures that pad alongside them - a twisted mix of dog, and cat, and human being. They are given free rein to torment any who stray beyond the weirwood grove, and are said to be nearly as expert in prolonging agony as the masters of the Mallum are.
+
+The initial proposal was that the raiders would ambush a Druj convoy, and steal a mark of passage. The problem is that even the Karass cannot say with any certainty how many folk can be protected by one such mark. Certainly it seems unlikely that one will be sufficient to protect a column of freed slaves. Only the wagons that carry weirwood out, and supplies in, are equipped with such marks but it is likely that there are more within the encampment itself. More than one raider points out that "likely" is doing a lot of heavy lifting in that sentence.
+
+Fortunately, the presence of the heralds of Irra Harah provides an alternative and one that the supernatural children of the *Voice of the Voiceless* are *very* keen to put into operation. Rather than skulk and dissemble, masquerade and trust to the nebulous advice of the Karass, they propose smashing straight through the ring of wards, slaughtering every so-called guardian that gets in their way, shattering these white stone monoliths into pieces, assaulting the camp, murdering all the Druj, grabbing the Great Forest Orcs and running for the Nameless River. When questions are raised about how this can be done, the heralds reveal the boons their father has given them. A dozen staffs of woven wood that contain the power to tear stone structures apart when wielded by an adept of Spring magic. These, they say, will quickly put paid to any magical warding and binding stones, and there are enough masters of ritual lore here to make use of them.
+
+In the end the decision is made for the raiders. Somewhere along the line, one of those who escaped the raiders with their life has made it to someone prepared to listen to them. Drums begin to pound to the south, and from the north the answering bray of some immense bone horn is heard. There are only two choices left; flee, or fight. In the end, the choice is no choice at all.
+
+*[Image: Skathe001.webp](https://www.profounddecisions.co.uk/empire-wiki/File:Skathe001.webp)*
+
+*[Image: Tharim 001.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Tharim_001.jpg)*
+
+*[Image: Surut002.png](https://www.profounddecisions.co.uk/empire-wiki/File:Surut002.png)*
+
+## Sacred Grove
+
+The defenders of the Sacred Grove appear almost immediately and they are just as awful as the Karass proposed. They are clearly [heralds](../eternals/Inhabitants_of_the_realms.md#herald), and every sign suggests they are drawn from the [Winter realm](../eternals/Realm.md#winter). Worse, almost as soon as they begin to engage the Empire, it is clear they are drawn from the [Thrice-cursed Court](../eternals/The_Thrice-cursed_Court.md) which means that they have any number of horrible, cruel, wicked powers between them. Some can bring the Curse of the Bound King to bear on their foes, preventing them fleeing or defending themselves. Others wield the witchery of the *Hag Queen*, cold and imperious and terrible, sapping willpower and spreading discord. The worst are probably those warriors that serve the *Burnt Prince* - armoured behemoths whose weapons sear and brand the skin. It also becomes painfully apparent that these are nothing like the warriors of the Thrice-cursed that the Empire is familiar with. These creatures are dark, and powerful, and wield a greater portion of their patrons power than anyone could have expected. They do not die easily, and they do not give up, and when one is seen there are half a dozen more close behind. Worst of all are the hounds - the hybrid horrors the Karass hinted at. Humanoid in rough form, with the aspect of wolf and lion, they are large enough to heft an armoured orc in one misshapen hand and they clearly have a taste for the flesh and blood and screams of mortal folk.
+
+Questions of [amity](../eternals/Alignment.md#amity) and [enmity](../eternals/Alignment.md#enmity) immediately fall away as battle is joined, and always the plan is foremost in the mind of those fighting through this ring of horrors. The worst thing that can happen here is to falter, to allow themselves to be delayed now the alarm is raised. They *must* make it to the Sacred Grove before *Nimon Rue* can make good on their threat.
+
+Fighting alongside the orcs and humans are the heralds of *Shacklebreaker* and they are something else the Empire has not really experienced. In the past, the children of *Voice of the Voiceless* have tended to talk, to retreat, to hide, to urge others to take up arms. Here, in the dark woods, against the servants of the *Court of Rope*, they are transformed. Swollen with anger, channelling the fury of the Spring Realm against creatures whose entire being echoes with tyranny and cruelty, they take on a very different aspect. Some send their enemies flying with the kind of force Imperials are more used to seeing in the hands of the chosen of [Maelstrom](../eternals/Siakha.md). Others shatter their foes weapons but also their bodies; a herald of the Thrice-cursed with a broken leg is no more mobile than a mortal. Yet their fury seems to rouse an answering rage, especially in the burnt knights of Surut. Spring breaks, Winter endures. Ironically, it is the overarching magic of the Thule that swings the pendulum in favour of the Empire here - the Winter heralds are no more able to resist the magic of the malignant curse laid over Ulnak than the Imperial heroes are.
+
+Of course killing the heralds of the Winter realm is not the reason those heroes are here. This fight is a distraction, a ruse all of its own. When the first detonation is heard, it sends a ripple through the knights of the *Three Monarchs*. Their fury falters for a moment, and there is a shift in their tactics. A second detonation, and some of the heralds shake themselves as if suddenly free of chains all their own. The vates and warcasters, with their own skills and the boons of *Prison Smasher*, are shattering the white stones that keep these heralds in place and command their service. Each one that falls loosens the bonds on them, frees some of them of their obligations. The gifts of the Winter realm are often double-edged, and it seems that this "gift" of bonded guardians is just such a one. While some of the heralds continue to fight the Empire's champions, others either turn aside from the fray entirely or start heading towards the Sacred Grove itself...
+
+As with the Grove of Woe, there are defences around the encampment but again they are different. Rather than a wall, there is a loose barrier of wooden stakes, supplemented here and there by sections of palisade. There have been recent attempts to reinforce these defences, but they look very makeshift. It seems that the commander of the Sacred Grove trusted more in the supernatural defences than in anything so mundane as a *wall*. The camp has defenders, though, and they are just as dangerous and vicious as those faced in the south. Elite troops, trusted with guarding one of the most valuable resources in the Mallum. Some bear the mark of the black tower, indicating an allegiance to the master of Cassad Ûln itself. Others have the marks of the septs of Ulnak, each of the Buruk Tepel of the northern Mallum represented here.
+
+The commander here is no Buruk Tepel, relying on apothecary and subtle poisons. They have a very different fate in mind for the Great Forest Orcs - although it still involves fire. As fighting spreads through the camp - as the Empire assaults the defenders with the unexpected accompaniment of a handful of heralds of the Thrice-cursed Court clearly working out decades of frustration at not being allowed to harm those they "protected" - the horror that Nimon Rue has in store becomes clear. The workers of the weirwood grove, the Great Forest Orcs who have toiled here for generations, have been placed inside three tall wooden structures in the centre of the camp. Each is a terrible mockery of a weirwood tree, packed with living orcs, surrounded by kindling. It brings to mind the stories of [the Marches](../nations/the-marches/The_Marches.md), of the [wicker man](../nations/the-marches/The_Marches_culture_and_customs.md#the-wicker-man), but here the power of spiritual purification has been warped into a force of corruption and malice.
+
+*[Image: The Druj have something very different in mind to the purification heralded by a Marcher wicker burning.](https://www.profounddecisions.co.uk/empire-wiki/File:Burning_Marches.jpg)*
+
+The commander of the camp - a [het](../barbarians/Druj_champion.md#het) in armour of black plate - holds an iron torch, already burning. He is flanked by three witches - three [ghulai](../barbarians/Druj_lore.md#ghulai) - and as the Imperial heroes break through the stakes surrounding the sprawling encampment he steps closer to the awful pyre. Before he lights it, though, he turns to address the trespassers, to mock them for their failure, to invite them to witness the immolation of -
+
+It's not clear if the arrow that finds his throat, the chink in his armour, is fired by Unshackled or Navarr, but it does the same job regardless. The Het topples backward, silenced, the brand falling from his suddenly numb hand. One of the witches stoops to pick it up, but another half-dozen arrows strike him before he can do so, sending him sprawling. Sorcerers are even easier to kill with a hail of arrows than het are.
+
+One of the other two ghulai chants a word and raises their staff over their head, and unleashes a terrible spell that causes everyone in front of them - Druj and Imperial alike - to be wrapped in invisible chains that hold them immobile. The chains do nothing to stop the arrows, however, and ultimately simply allow the raiders to kill the het's guards before they can recover from the paralysis.
+
+The third wizard flees rather than fights, and alone among her brethren escapes the arrows of justice. Unfortunately for her, she runs straight into the arms of an impossibly tall skeletal figure with a mirrored half-helm, who wraps her up in unnaturally jointed arms before biting her face off and turning her screams to desperate gurgles.
+
+Chaos, death, blood, fire. As the last of the Druj are mopped up, those free to do so tear into the wooden trees and free those trapped inside. There is no time to waste, none at all. The defenders of Ulnak are coming and the Druj know they are here. The element of surprise is gone, and there is so far a distance to cover it seems impossible. There's little time to spend in explanations - ten minutes to grab provisions and possessions, to raid the Druj supply tents, and then they have to leave.
+
+*[Image: We all come to the crossroads eventually.](https://www.profounddecisions.co.uk/empire-wiki/File:Gralm.png)*
+
+## The Plan Changes
+
+Terrified, but desperate to survive, the freed orcs are gathered and the exodus begins. In the time it takes to drag them together a decision is reached - there is no way that the Imperial heroes will be able to lead these orcs to safety along the same route they took to get here. The plan will need to change. It is risky but it seems the best of the available bad plans is to run west, into Bonewall, and trust the orcs of Otkodov to hold to their alliance with the Empire. The Karass have a different proposal. The Druj will *expect* them to go west, or to retrace their steps. There is another option. It is dangerous - incredibly so - but if it works it will allow them to escape the Mallum. Instead of going for the nearest safety, they head *south* through [Shifting Basin](../barbarians/Forest_of_Ulnak.md#shifting-basin) to the river and from there to [Saltmarsh](../nations/dawn/The_Barrens.md#saltmarsh). Instead of trying to bypass the Mallum forces no doubt regrouping to fight the Thule along the Bonewall, they avoid the fighting by pressing through land the Druj believe uncontested.
+
+The flaws are obvious, but the worst is that the refugees would still need to cross the Nameless River at a point where nobody is expecting them to try. The Karass try to argue that messengers could be sent, and boats be waiting, but in the end it simply makes no sense. The Shifting Basin contains one of the largest Druj settlements in the Forest of Ulnak, for a start. The Rivers Run Red bear down on everyone in Ulnak, and the idea of transporting four hundred tired slaves through trackless marshes when any injury might fester and become incapacitating is unpopular. It isn't said out loud, but these new plan also involves giving the Karass a level of trust nobody is comfortable with.
+
+Westward it is, then. The Karass are clearly unhappy, but they are not in charge here. Nothing is ever simple of course; the Great Forest Orcs are no less traumatised than those rescued from the Grove of Woe. Sickness and infection become a constant threat, and without the medical supplies and expertise of those who risked everything to be here the death toll would surely mount higher and higher. There is nowhere near enough time to collect enough provisions and supplies, with the threat of Cassad Úln literally looming on the horizon.
+
+The plan has changed, and now everyone has to make sure it works. Out past the ring of warding and binding, and then turn sharp west to flee through the woods towards the all-too-distant hills. The first day is the worst, with the Great Forest Orcs still adjusting to the fact they are fleeing for their lives and freedoms. Hope can be painful, especially for people who are unfamiliar with it. The first night is bad, but by then the new reality is beginning to take hold. Just as in the south, some of the freed slaves ask for weapons and armour, or offer their skills to help their fellows, former slave and liberator alike. It is too dangerous to risk fires, and folk are forced to huddle together for warmth under the cold Autumn stars.
+
+Only as morning breaks, and the column of refugees gets ready to move, do the Imperial heroes notice that the Karass have disappeared.
+
+## The Treachery of the Karass
+
+During that first dark night, the Karass vanished. None of the sentries seem to have seen them leaving, and it is clear that this is not some random desertion. This is something that would have taken planning. There was always a chance the Karass would betray the Empire, and it looks as if the fears for their fidelity were well founded.
+
+Although not *all* of the Karass have disappeared. One has stayed behind; an old hunter found sitting in the middle of the camp smoking a pipe. They endure accusations of cowardice and treachery for a few long minutes, then put their pipe away and offer an explanation. The plan hasn't changed, says that remaining hunter. Not for the Karass at least. They knew all along there was almost no chance that the Empire would be able to raid the Sacred Grove and escape without the aid of at least one Imperial army. This was the contingency put in place by Anka Karass; the sept has gone to help the plan succeed by risking their own lives to create a distraction. They will launch a raid on Shadowmere, the domain of the Iron Asp, and the largest settlement in the south. The Druj will respond, directing their gaze toward what seems to be a major threat, and the Karass will melt into the marshes and make their own way home. Unlike the Imperials, the Karass can effectively disappear in the Mallum - not even the Imperial Orcs can say the same.
+
+There's no doubt something stinks to the celestial heavens, but what can be done? The Karass are gone, and if they are going to return with the Druj it is already too late to do anything about it. They've been *essential* up to now, helping at every turn, but in truth, it's not clear they are needed any more. Their role was always to help the Empire slip into the Druj lands, to get close to their target without tipping their hand. No-one will feel the loss of them, now it's time to run for the hills.
+
+How much of what this hunter is saying is the truth is impossible to gauge. There isn't time to try and make him change his story, and what if he is telling the truth? Risk everything on suspicion? What good would that serve. The plan has changed once, but that doesn't mean the Empire shouldn't stick to the new one. So with that lone Karass under careful watch, the escapees begin to move westward through the forest toward the Thule front lines.
+
+The caravan moves, as it inevitably must, and then everything goes wrong.
+
+*[Image: An end is in sight...](https://www.profounddecisions.co.uk/empire-wiki/File:Yoorn.png)*
+
+## Later Than You Think
+
+It's always later than you think. That first night under the trees of Ulnak, with the Karass sneaking away into the darkness, brings that home if nothing else does. The hourglass is nearly empty. As the southern force is fighting its way down the Lidless Stair, the raiders in the north realise just how close the Autumn Equinox is.
+
+Close as the summit at Anvil is, the Druj are closer. The garrison of Cassad Úln is on their trail, the soldiers of the Thistle of Barbs cannot be far behind. There is even some hint that some of the heralds of the Thrice-cursed are stalking the fleeing prisoners. The weather is shifting, and the Empire's heroes are fighting their way into a warzone.
+
+When the Imperial Orcs scouts come back to report that there is a major Druj force ahead - several thousand strong - it feels almost inevitable. The orcs of Otkodov, it seems, have claimed the whole of Bonewall and pushed the defending forces of the Mallum back... right into the path of the fleeing heroes. There's no suggestion they've done this on purpose - indeed it would be incredibly difficult for them to manoeuvre the Druj in this way. It just seems to be the worst of luck.
+
+Turning north or south won't help - the caravan has to keep moving or those hunting them will catch up. If there had been a larger force - the help of an army or another twenty warbands maybe - the matter would be different. But if wishes were oxen, nobody would ever have to pull a plough. The situation is dire, and it looks as if everyone in the Forest of Ulnak is going to die...
+
+## Game Information
+
+*[Image: NBNavarr.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:NBNavarr.jpg)*
+
+*[Image: NBOrcs.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:NBOrcs.jpg)*
+
+### Rescue the Prisoners
+
+- **The raid to rescue the Great Forest Orcs from the Mallum has been a qualified success**
+- **Several hundred slaves have been brought safely to the Empire, but several hundred more remain in imminent danger**
+- **Those chosen to organise the raid have received some weirwood from the Grove of Woe**
+
+The ambitious [venture](../../mixed/economy/Venture.md) to [rescue the Great Forest Orcs](../winds-of-fortune/All_I_ask_of_you.md#help-us) from [the Mallum](../barbarians/The_Mallum.md) before they could be executed by the [Druj](../barbarians/Druj.md) has been a qualified success, but it is not quite over yet. Large numbers of Navarr and Imperial Orcs put everything on the line to help free the slaves forced to work in the weirwood groves of the [Forest of Ulnak](../barbarians/Forest_of_Ulnak.md) and the [Salt Flats of Sanath](../barbarians/Salt_Flats_of_Sanath.md). With the enthusiastic aid of the [children of *Papa Otec*](../winds-of-fortune/All_I_ask_of_you.md#wild-things-run-fast) and the somewhat grudging assistance of [the Karass sept](../winds-of-fortune/All_I_ask_of_you.md#dog-eat-dog), those imprisoned in the [Grove of Woe](../barbarians/Salt_Flats_of_Sanath.md#grove-of-woe) have made it safely back to Imperial lands. Those who were held at the [Sacred Grove](../barbarians/Forest_of_Ulnak.md#sacred-grove) have been freed, but they remain in terrible danger from the Druj.
+
+To [free all the Great Forest Orcs](../winds-of-fortune/All_I_ask_of_you.md#rescue-the-great-forest) required the player characters to reach a threshold of 60,000 effective force. Once every factor was taken into account, the venture fell a tiny bit short of the required amount. In theory, while the Empire had enough strength to *Liberate the Grove of Woe*, this would have left the orcs of the Sacred Grove to suffer a horrible death at the orders of *Nimon Rue*. Given how close it was, we quickly decided it was much better to go a different route, and give player characters a chance during the event to save the remaining Great Forest Orcs in the Forest of Ulnak.
+
+The region of [Oerwealt](../barbarians/Forest_of_Ulnak.md#oerwealt) in the Forest of Ulnak has permanently gained the [woodward](../../mixed/economy/Region_qualities.md#woodward) quality thanks to the efforts of Navarri covens and their allies. Heralds of [Irra Harah](../eternals/Irra_Harah.md) will find it easier to enter the mortal world there and support the people in that territory who have reason to fear oppression, tyranny, or violence. This led to them offering support to both raids, but what it means for the future remains to be seen.
+
+There are two sections below for players who participated in the action - who either used their personal resource directly or took the unique opportunity to [personally commit](../winds-of-fortune/All_I_ask_of_you.md#strength-and-sacrifice) their efforts to try and ensure victory.
+
+In addition to several hundred former slaves of the Druj, the commanders of the raid - **Ioan Longshadow** for the Navarr and **Skywise Rykana** for the Imperial Orcs - have liberated a dozen wains of [weirwood](../../mixed/economy/Weirwood.md) that have been split between them. It is up to them what to do with these wains.
+
+### Participation : Sanath
+
+- **The Great Forest Orcs rescued from the Grove of Woe in Upper Saarnath are safely back behind Imperial lines**
+
+The attack in the south, against the Grove of Woe in the Salt Flats of Sanath, has been entirely successful. Characters who supported the effort either with their [military unit](../../out-of-character/rules/Military_unit.md) (or a [forest](../../out-of-character/rules/Forest.md) or other resource transformed into a military unit with magic), or who supported it with other resources, are encouraged to make up stories about their exploits that fit with the narrative presented.
+
+There's no requirement for a character to have actually taken part physically; they might have instructed their military unit to take part, or focused on providing funds or resources to those going. Alternatively, they might have led their own warband (or part of their warband), or girded up and taken their herbs, crystal mana, and the like with them to actively contribute to the success of the raid.
+
+*[Image: Nothing is ever easy.](https://www.profounddecisions.co.uk/empire-wiki/File:Jotra.png)*
+
+### Participation : Forest of Ulnak
+
+- **The effort to free the slaves from the Sacred Grove teeters on the brink of failure**
+- **At time in any player whose character would have supported the northern raid in person will have the option to emerge from the Sentinel Gate**
+
+As with those who took part in the raid into the Salt Flats of Sanath, any character who assigned their military unit or personal resource to the action could choose to be involved personally in the attempt to rescue the Great Forest Orcs from the Sacred Grove in the northern Forest of Ulnak. As can be seen from the narrative, this endeavour has not succeed, but it has not *yet* failed. As the Autumn Equinox dawns, four hundred or so former slaves, orcs and humans are caught between pursuing Druj from Cassad Úln and the armies camped along the border with the Bonewall. And in theory, their rescuers are trapped with them!
+
+Obviously, nobody should have to choose between attending an event and supporting a downtime action! With that in mind we are planning to use the [Sentinel Gate](../world/Sentinel_Gate.md) to let people do both. At the start of the event, any player whose character supported the northern prong of the raid into the Mallum can congregate at the Sentinel Gate. Shortly after time in, a rare [conjunction](../world/Sentinel_Gate.md#conjunctions) will take place linking the depths of [Deathsgate](../barbarians/Forest_of_Ulnak.md#deathsgate) to [Anvil](../world/Anvil.md) (rather than the much more traditional other way around). Any player who wants, can emerge through that conjunction onto the field, having come from the beleaguered refugee column to seek desperate support from the rest of the Empire.
+
+It won't be possible for anyone to use this conjunction to reach Ulnak from Anvil, but see the [Battle Opportunity](#battle-opportunity) below.
+
+Anyone who can't take this opportunity for whatever reason is free to roleplay that they were there but obviously nobody saw them, or that they had run ahead of the raiders once it was clear that everything was going wrong to bring news to Anvil - the kind of news that might have uncovered the battle opportunity.
+
+Obviously anyone coming through the gate in this way is free to have wounds sustained in the battle so far, or to be suffering the lingering effects of exposure to the [Druj miasma](../barbarians/Druj_miasma.md) ([weakness](../../out-of-character/rules/Calls.md#weakness) and heightened sense of fear). We'll strive to have referees on hand who can provide some lingering [traumatic wounds](../../out-of-character/rules/Combat.md#traumatic-wounds) where appropriate, but availability will depend on how many people there are.
+
+In-character, the rescued Great Forest Orcs know what is happening - they aren't being deserted but rather the Imperial heroes are going to try and round up the cavalry to help them. Our assumption is that members of military units, and the heralds of Irra Harah, are remaining behind to do their best to get the freed slaves to safety while player characters look for aid at Anvil.
+
+Please do not ask if you can take part in this opportunity if you did not take the appropriate downtime action. It is only available to those who assigned their military unit or personal resource. There's also no requirement out of character to take the opportunity - as mentioned previously it is entirely possible to put your full support behind the mission of mercy without personally attending the raid.
+
+### Participation: The Karass
+
+- **The Karass contributed 10,000 strength toward the success of the venture**
+- **They have also pursued their own agenda**
+
+The Karass are a complicated people. At the request of the Envoy to the Karass, **Reynard of De Gauvin**, they contributed support to the raid into the Mallum even though there is little love between them and the Great Forest Orcs. In the south, they helped the raiders get to the Grove of Woe and back, and while they might have been a little grumpy about it, there's no question their efforts helped achieve victory.
+
+Things are a little more complicated in the north, as the narrative lays out. The Karass deserted the venture after it had freed the Great Forest Orcs, and headed off under their own command, allegedly to create a diversion. Their disappearance did not stop the sept from providing very considerable support to the raid - they effectively contributed 10,000 effective strength toward the overall success of the mission. Without their aid, there would be no opportunity to rescue the orcs of the Sacred Grove who would have been killed by the servants of *Nimon Rue*. The Karass abandoned the raid at the point where stealth was of no further value - *after* they had contributed everything they were asked to do.
+
+## Battle Opportunity : A Greater Darkness
+
+- **There is a major conjunction of the Sentinel Gate to Grimfen Mire during the Autumn Equinox**
+
+The heroic efforts of the Imperial Orcs and the Navarr has seen four hundred Great Forest Orcs freed from the torments of the Druj from the Sacred Grove in Deathsgate. They have endured the trials of that tainted land, evaded Druj patrols, slipped past watchtowers and overcome patrols. Despite all this, the carefully planned rescue is about to be undone. Time has grown short, far too short, and only days before the Autumn Equinox it has become clear that a retreating Druj army is pulling back right into the path of the Great Forest Orcs trying to flee Ulnak...
+
+The Druj are being pushed back by the advancing Thule forces in the territory. The barbarians are making haste to put distance between themselves and the Thule; eager to avoid any engagement. It is a hurried retreat, but for the most part orderly and free of panic. The Druj will be utterly unforgiving with anyone they encounter. When they cross paths with the fleeing Great Forest Orcs, they will fall on them like blood hounds on their prey.
+
+There is a conjunction on the Saturday of the Autumn Equinox that will enable the heroes of Anvil to reach the *Reeth Plain* in Grimfen Mire.
+
+### Objective: Delay the Druj
+
+- **The Amber Scorpion will soon cut off the Great Forest Orcs and slaughter them**
+- **Delaying the orcs for an hour will create time for the Great Forest Orcs to slip by and escape to safety**
+
+There are two ancient menhirs that stand on the open ground at *Reeth Plain*, right in the path that the Druj must take to flee the Thule. If the Empire were to send heroes to Ulnak, then this location represents a strategic place to hold ground and focus the barbarians' attention. Any appreciable delay will slow the the retreat of the Druj forces, letting the Great Forest Orcs slip by before the Amber Scorpion sept realise they were even in the area.
+
+Imperial forces will need to take the field and secure the ground in the area surrounding the two menhirs. Once there they can prepare for battle and then await the arrival of the Druj forces. The Empire will need to hold the field against the barbarians until midday. Once the Amber Scorpions are aware of the Imperial presence they will focus on engaging the Empire and bring more of their numbers to bear. They will try to push the Empire off the field, so that their army can continue to withdraw from the advancing Thule.
+
+A single hour is all the time the Great Forest Orcs need to slip across the distant reaches of *Reeth Plain* and make good their escape out of Ulnak. The [Field Marshal](../../mixed/government/military/Field_Marshal.md) should aim to withdraw from the menhirs after this time and have their forces return to Anvil in good order.
+
+### Opportunity: Free the Lost Researcher
+
+- **Jovana Stradh von Temeschwar, a surviving member of the Silent Bell, is held by the Druj**
+- **The mage is detained and subject to a powerful experimental poison**
+
+The daughter of a prominent miller of the famous *Vargat Bianch* flour, Jovana eschewed the family business to dedicate her life to hunting down the Empire's enemies. An adept mage and ardent member of the [Silent Bell](../../mixed/magic/items/Silent_Bell.md), she leapt at the [opportunity to find out more about the Druj's use of fear](../../mixed/magic/lore/On_the_nature_of_fear.md). While her fellow Bells devoted their time to studying the miasma pillars and their creation, Jovana got a lead on something different - an eternal "ally" of some kind that even the Druj were reluctant to employ - an eternal possibly unknown to the Empire. Sadly Jovana was captured and nothing more was heard - she was assumed dead - one of the many Bells [who died to locate vital information](../../mixed/magic/lore/On_the_nature_of_fear.md).
+
+Fortunately it appears that the magician has somehow survived. If Stradh can be rescued and recovers from her injuries, then she may have some fresh insights into this eternal of fear that the Druj ghulai truck with. At the very least, her return will help to strengthen the ranks of the Silent Bell, which are grievously depleted at this time.
+
+### Opportunity: Seize the Tepel's Nightmare
+
+- **Sung has let the Empire know that the Amber Scorpions posses a nightmare secured in a dream tether**
+- **If recovered, it can be passed to the Map to the City Below to give to Sung**
+- **Sung will then enable the Empire to access the nightmare**
+
+Zylath Bilequill, a Druj loremaster or ghulai of sorts, is moving with the Amber Scorpions. Heralds of [Sung](../eternals/Sung.md) have contacted the Empire to let them know that Zylath Bilequill possess a rare "Dream Tether". This is apparently a memory or a dream, or in this case a nightmare, trapped in a physical object known as the tether. Exactly how the Druj created the tether is unclear, but Night magic has the ability to manipulate and even steal memories, so it is theoretically possible. The nightmare contained in the tether must be important for the Druj to have gone to the effort of securing and preserving it in a physical form.
+
+According to the *Night Singer*, the nightmare pertains to the mystery of Deathsgate and the fortress of Cassad Ûln in the Forest of Ulnak. If the Empire can located Zylath and seize the tether from him it can be passed to the Leaguer responsible for the [Map to the City Below](../../mixed/titles/Map_to_the_City_Below.md). The title holder can then send it to the *Everflowing River* who will enable a small group of citizens to experience the nightmare, should they wish to. If the Druj thought the nightmare was useful, then any information it holds could yield valuable knowledge of what lies beyond the foreboding mountain range.
+
+### Environment: Miasma of despair
+
+- **The entire battlefield is affected by an oppressive Druj miasma**
+- **The miasma causes [WEAKNESS](../../out-of-character/rules/Calls.md#weakness) unless you have a way to [overcome](../../out-of-character/rules/Roleplaying_effects.md#overcoming-roleplaying-effects) it**
+
+The entire area at *Reeth Plain*, is under the effect of the [Druj miasma](../barbarians/Druj_miasma.md), a pall of potent fear that blankets the lands the Druj claim dominion over. Anyone entering the area will need to protect themselves from the clawing dread or succumb to a weakening terror that creeps into their mind.
+
+The primary effect of the miasma is that it [weakens](../../out-of-character/rules/Calls.md#weakness) anyone exposed to it who does not have the ability to [overcome](../../out-of-character/rules/Roleplaying_effects.md#overcoming-roleplaying-effects) it. The easiest method to overcome the miasma is to receive an [anointing](../../out-of-character/rules/Anointing.md), but particularly [heroic](../../out-of-character/rules/Heroic_skills.md#hero) individuals, or those in possession of certain [enchantments](../../out-of-character/rules/Enchantment.md) or [magic items](../../out-of-character/rules/Magic_items.md) may also be able to counteract the effect. In particular, those of the [changeling](../../mixed/magic/lore/Changeling.md) [lineage](../../mixed/magic/lore/Lineage.md) are able to fight the effects of the miasma, only by becoming *extremely* angry - which can cause problems all its own.
+
+---
+
+Categories: [Winds of War](../../indexes/by-category/Winds_of_War.md), [388YE Autumn](../../indexes/by-category/388YE_Autumn.md), [Military Council](../../indexes/by-category/Military_Council.md)

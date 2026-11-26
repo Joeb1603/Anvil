@@ -1,0 +1,148 @@
+<div style="float:left; width: 700px; clear:right;">{{CaptionedImage|file=Egregang.png|align=left|caption=Every nation has an egregore spirit, which bonds with one or more citizens of that nation and offers support and guidance.|width=700}}</div>
+==Overview==
+*  '''Are the first point of contact for players in each nation'''
+* '''A source of plot in the nation'''
+* '''Get players involved in the plot and in the politics of the nation'''
+* '''Encourage the players to maintain the visual and thematic identity of each nation'''
+* '''Are the radio operator in each camp'''
+Each nation has a single egregore spirit, created through ritual magic to represent the personification of the nation. The spirit may be present in more than one host body at any time. The ritual was created by the Brass Coast to ensure that the nations of the Empire retained their independent character and culture. In the game they act to encourage the players to maintain the visual and thematic identity of their nation. They are occasionally able to tell if a member of their nation is dead or alive.
+
+The egregores are an effective channel for plot writers to deliver plot "news" to the players about what is going on in their nation. They are part of the player support team and to try to help players get involved in the plot and also involved in the politics of the nation. 
+
+They are a point of contact for Profound Decisions crew for players in a nation and will have a covert radio. This radio is for emergency situations, for example, needing to contact first aid.
+
+Some of the egregores are able to referee [[Create bond|bindings]] and [[rituals]]. You can check with your egregore if they are able to do this. If you wish to approach your egregore for non-urgent out-of-character business, please respect their roleplay and the roleplay of the people they are interacting with. Do not interrupt people who are roleplaying with the egregore with an out-of-character question unless it is urgent. Obviously, for a genuine emergency, you should get their attention as quickly as possible.
+
+Egregores are not there to make decisions for the nation or provide leadership or direction. They may take a role in their nation's elections - they may even vote, but their role is to support the nation, not to lead it.
+
+Although any magician can open the [[Sentinel Gate]], to take an entire nation through requires an egregore to use their link to the nation to take them all through.
+
+There is no way to apply to become an Egregore - PD considers carefully potential candidates for Egregores and approaches them as and when they need them, partly because the requirements for the different nations can be quite varied.
+
+==Current Egregores==
+<table>
+    <tr>
+        <td colspan="2" style="color: white; background-color: LightGray;">Nation</td>
+        <td colspan="2" style="color: white; background-color: LightGray;">Egregore Name</td>
+        <td colspan="2" style="color: white; background-color: LightGray;">OOC names</td>
+    </tr>
+    <tr>
+        <td colspan="2">Brass Coast</td>
+        <td colspan="2">[[Brass_Coast_egregore|Dust, Flame and Glass]]</td>
+        <td colspan="2">Peter G, Claire D</td>
+    </tr>
+    <tr>
+        <td colspan="2">Dawn</td>
+        <td colspan="2">[[Dawn_Egregore|The Knight of Roses]]</td>
+        <td colspan="2">Keeley Knight, Jonathan Locks, Rosie Karou</td>
+    </tr>
+     <tr>
+        <td colspan="2">Highguard</td>
+        <td colspan="2">[[Highguard_Egregore|Escon]]</td>
+        <td colspan="2">Seph Steel, Carolyne</td>
+    </tr>     
+    <tr>
+        <td colspan="2">Imperial Orcs</td>
+        <td colspan="2">[[Imperial_Orc_Egregore|Grud The Unshackled]] </td>
+        <td colspan="2">Ed Thurlow, Chris Penney</td>
+    </tr>   
+  <tr>
+        <td colspan="2">The League</td>
+        <td colspan="2">[[League_Egregore|Guise]]</td>
+        <td colspan="2">Jon Pam, Ben Sabin, Sam</td>
+    </tr>   
+  <tr>
+        <td colspan="2">The Marches</td>
+        <td colspan="2">[[Marches_Egregore|Jack-of-the-Marches]]</td>
+        <td colspan="2">Marc Fothergill, Maz Wilberforce, Dave Vyse Hartley</td>
+    </tr>  
+  <tr>
+        <td colspan="2">Navarr</td>
+        <td colspan="2">[[Navarr_Egregore|Liaven]]</td>
+        <td colspan="2">Al Bevan, Elizabeth Simoens, Emma Rowden, Rich Andrews, Kate Rogers</td>
+    </tr>
+  <tr>
+        <td colspan="2">Urizen</td>
+        <td colspan="2">[[Urizen_Egregore|Menos]]</td>
+        <td colspan="2">Steve Alonso</td>
+    </tr>
+  <tr>
+        <td colspan="2">Varushka</td>
+        <td colspan="2"> [[Varushka_Egregore|Mother Vahruska]] </td>
+        <td colspan="2">Tansy Pye, Kirsty March</td>
+    </tr>
+  <tr>
+        <td colspan="2">Wintermark</td>
+        <td colspan="2"> [[Wintermark_Egregore|Sulkavaris, Knower of Names]]  </td>
+        <td colspan="2">Harry Morris, John Haynes, Emma Stanton</td>
+    </tr>
+
+</table>
+
+===Brass Coast===
+<gallery heights=400 mode="packed">
+PeterGreen-Oli.png|Brass Coast: Peter G
+ClaireD-Beth.png|Brass Coast: Claire D
+</gallery>
+
+===Dawn===
+<gallery heights=400 mode="packed">
+KeeleyKnight-Oli.png|Dawn: Keeley Knight
+</gallery>
+
+===Highguard===
+<gallery heights=400 mode="packed">
+SephSteel-Beth.png|Highguard: Seph Steel
+Highborn Egregore Escon Diadrah.jpg|Highguard: Carolyne
+</gallery>
+
+===Imperial Orcs===
+<gallery heights=400 mode="packed">
+ChrisPenney-Beth.png|Imperial Orcs: Chris Penney
+EdThurlow-Oli.png|Imperial Orcs: Ed Thurlow
+</gallery>
+
+===The League===
+<gallery heights=400 mode="packed">
+JonPam-Oli.png|League: Jon Pam
+LilithCoker-Oli.png|League: Lilith Coker
+BenSabin-Oli.png|League: Ben Sabin
+</gallery>
+
+===The Marches===
+<gallery heights=400 mode="packed">
+MarcFothergill.jpg|Marches: Marc Fothergill
+MazWilberforce-Oli.png|Marches: Maz Wilberforce
+</gallery>
+
+===Navarr===
+<gallery heights=400 mode="packed">
+File:Elizabeth-Simoens-Oli.png|Navarr: Elizabeth Simoens
+AlBevan.png|Navarr: Al Bevan
+Cassidy.jpg|Navarr: Emma Rowden
+Drew.jpg|Navarr: Richard Andrews
+KateRogers.jpeg|Navarr: Kate Rogers
+</gallery>
+
+===Urizen===
+
+<gallery heights=400 mode="packed">
+<!--KassianiEgregore.png|Urizen: Cheryl Harford-->
+SteveAlonso-Oli.png|Urizen: Steve Alonso
+</gallery>
+
+===Varushka===
+
+<gallery heights=400 mode="packed">
+TansyPye-Oli.png|Varushka: Tansy Pye
+</gallery>
+
+===Wintermark===
+<gallery heights=400 mode="packed">
+HarryMorris-Oli.png|Wintermark: Harry Morris
+EmmaStanton.jpg|Wintermark: Emma Stanton
+JohnHaynes-Oli.png|Wintermark: John Haynes
+</gallery>
+{{Crewing Links}}
+[[Category:Egregore]]
+[[Category:The World]]

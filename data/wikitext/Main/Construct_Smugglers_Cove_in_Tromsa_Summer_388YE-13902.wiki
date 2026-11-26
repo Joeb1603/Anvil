@@ -1,0 +1,24 @@
+[[Category:Senate Motion]][[Category:388YE Summer]]
+__NOTOC__
+<quote by="Proposed: Mel Bleak, Senator for Mournwold, Seconded: Ramos I Inigo I Raqueza, Senator for Kahraman">To commission a smugglers' cove in Tromsa
+</quote>
+==Overview==
+* Constructs a [[smugglers cove]] in [[Tromsa]]
+* Passed
+* More information can be found in the '''[[Beneath a moonless sky]]''' wind of fortune
+
+==Date==
+* Summer 388YE
+
+==Cost==
+* Standard costs apply
+* 14 wains of white granite
+* 42 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Smugglers_Cove_in_Tromsa}}
+==Outcome==
+Once complete, the smugglers' cove will have the following effects:
+* [[Fleet|Fleets]] from across the Empire will be able to take the '''Scout Smugglers Cove in Tromsa''' voyage
+* [[Wintermark]] fleets will be able to take the '''Sail into the Cold''' voyage

@@ -1,0 +1,45 @@
+==Overview==
+The Merchant-Boyar of the Stinking Market is an [[Imperial title]] created by the Senate in Winter 383YE to oversee the [[#Stinking Market|Stinking Market]] following the conquest of Ossium. The position of Merchant-Boyar is a [[sinecure]] and a [[ministry]], producing a steady stream of income and allowing the holder to purchase forest resources in bulk. The Stinking Market is in the former Druj town of Orieb in [[Ossium#Drownbark Forest|Drownbark Forest]], [[Ossium]]. The Stinking Market, and the vale of Orieb were expanded and improved by the Imperial Senate with a [[Improve the vale of Orieb|commission]] raised by '''Yegor''', the Senator for [[Karsk]].
+
+During the Autumn Equinox 387YE, the Imperial Senate voted to [[387YE_Autumn_Equinox_Senate_sessions#Amend_Merchant-Boyar_of_the_Stinking_Market|amend the title]] to change the method of appointment to [[Tally of the Votes]] of Varushkan [[forest]] and [[mine]] owners. 
+==Responsibilities==
+The Merchant-Boyar has no particular responsibilities; they simply receive an income from the Market and are able to purchase bargains from wagon-raiders who bring their goods there. If the Stinking Market were to be threatened in any way, it would be the responsibility of the Merchant-Boyar to deal with those threats. 
+==Powers==
+===Ministry===
+<div {{float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightYellow;">'''Forest measures'''</td></tr>
+<tr><td>7 crowns</td><td>12 random measures</td></tr>
+<tr><td>17 crowns</td><td>24 random measures</td></tr>
+<tr><td>30 crowns</td><td>36 random measures</td></tr>
+<tr><td>46 crowns</td><td>48 random measures</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightYellow;">'''Herbs of Ossium'''</td></tr>
+<tr><td>7 crowns</td><td>6 doses of [[marrowort]], 10 random [[herb|herbs]]</td></tr>
+<tr><td>16 crowns</td><td>13 doses of [[marrowort]], 20 random herbs</td></tr>
+<tr><td>30 crowns</td><td>20 doses of [[marrowort]], 30 random herbs</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightYellow;">'''Wares of the wagon raider'''</td></tr>
+<tr><td>7 crowns</td><td>1 [[Oakheart Shield]]</td></tr>
+<tr><td>9 crowns</td><td>1 [[Wardensweave]]</td></tr>
+<tr><td>21 crowns</td><td>1 [[Ironbound Axe]]</td></tr>
+<tr><td>26 crowns</td><td>1 [[Winterborn Warmail]]</td></tr>
+<tr><td>35 crowns</td><td>1 [[Woodcutter's Axe]]</td></tr>
+</table>
+</div>
+The Stinking Market functions as a [[ministry]] - the Merchant-Boyar has access to three different purchase tracks allowing them to purchase measures and herbs from the wagon-raiders and weapons and armour from the smithy in the vale. The Merchant-Boyar makes their decision on how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+===Regular Income===
+The Merchant-Boyar also gains custodianship of a [[sinecure]]. Each season, they receive 16 crowns from wagon raiders who make use of the Market to sell their goods.
+==Appointment==
+This title is appointed at the Spring Equinox. The Merchant-Boyar of the Stinking Market is awarded to whichever Varushkan candidate receives the most support from Varushkan owners of [[mine|mines]] and [[forest|forests]]. Votes are recorded in private in conjunction with the civil servants who support the Bourse.
+
+The title is retained for a year, or until the citizen holding the seat dies or steps down. An Imperial Bourse seat cannot be [[revocation|revoked]] by the [[Synod]].
+
+The title will be elected for a shortened term of one season at the Winter Solstice 388YE.
+{{CaptionedImage|file=Modesto Bogaty.jpg|caption='''Modesto Bogaty''', Merchant-Boyar of the Stinking Market|align=left|width=250}}
+{{RecentElections|Merchant-boyar_of_the_Stinking_Market}}
+==Stinking Market==
+Orieb in the Drownbark Forest has become something of a centre for [[Varushka_military_concerns#Wagon_Raiders_and_Sell_Swords|wagon raider]] operations in southern and eastern Ossium. A makeshift commercial centre - called ''the stinking market'' has grown up in the shadow of the [[Apothecary of Orieb#Palace of Orieb|Palace of Orieb]], where wagon raiders buy and sell supplies and trade valuable materials ripped out of the marshes and forests with the most ambitious traders. The market is not without its problems, however. Wagon raiders are a rowdy lot, and there have been reports of actual armed fracas around the market. The magistrates still have a limited presence in the more isolated parts of the territory, and there is some concern that it is only a matter of time before the rivalry between the groups spills over into the town itself, potentially with destructive consequences. Most of the buildings here are wood, and as Marchers say, even damp wood burns in a hot fire.
+
+[[Category: Title]]
+[[Category: Varushka]]
+[[Category: Bourse]]

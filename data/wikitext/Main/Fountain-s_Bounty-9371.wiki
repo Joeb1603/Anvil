@@ -1,0 +1,32 @@
+[[Category:Spring Ritual]][[Category:Rituals]][[Category:Resource]]
+{{CaptionedImage|file=NBUrizen.jpg|caption=This ritual is part of [[Urizen magical traditions#Urizen Lore|Urizen lore]] rather than [[Imperial lore]].|align=right|width=200}}
+==Rules==
+{{Season|Spring|12}}
+{{Urizen Lore}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Resource|[[mana site]]}}
+
+{{enchantment}}
+
+===Effects===
+The [[mana site]] flourishes with supernatural, wholesome life. It provides an additional bounty over the next season, in addition to the normal production of crystal mana.
+
+At the start of the next season the target mana site provides seven random [[herbs]], four [[Materials#Natural_Materials|measures]] of random forest materials, and 36 rings.
+
+{{Downtime buff}}
+
+===Additional Targets===
+This ritual can affect additional mana sites in the same [[territory]]. Each additional mana site increases the magnitude by 9. The character who controls each mana site must be present throughout the ritual.
+
+==Description==
+<div style="float:right; width: 500px; clear: right;"><quote by="Cassirra Greenwell of Bleak Tower Spire">Once upon a time rituals such as this were common in Urizen - weaving threads of life to bring forth wholesome food alongside crystalline mana. Since we joined the Empire such workings have fallen out of use. Understandable perhaps, but even in modern times my old spire still made use of them from time to time especially in the years following the invasion of 331YE. I remember as a child the joy that lay in discovering what strange fruit and vegetables were harvested at season's end, and how our cooks had proven their arete again in making an appetising dish from their peculiar colours, textures, and flavours.</quote></div>
+In the past the spires of Urizen would often struggle to ensure they had sufficient food. Rituals were created to help address that lack, either by enchanting the limited number of [[farm]]s or by causing plants to grow in other locations. This particular [[enchantment]] builds on that basic foundation, using [[Spring magic]] to shape the magical power of a [[mana site]] toward promoting living growth rather than the growth of crystals. It employs the [[Spring magic#resonance|resonances]] of [[Spring magic#Fertility|fertility]], and to a degree of [[Spring magic#Chaos|chaos]], to foster the growth of magical plants. The plants that grow are often clearly touched by the supernatural; even the [[herbs]] produced by the enchantment may initially take unfamiliar forms. Stories of single massive [[Bladeroot]]s that can be harvested and refined into many doses of the valuable healing herb are common, for example. Likewise, the [[Materials#Natural_Materials|natural materials]] that can be claimed from the enchanted mana site often come in odd forms - crimson-leaves bushed with [[ambergelt]] berries or a pulpy vegetable that can be squeezed to produce [[beggar's lye]]. The more "mundane" produce - that which is sold for coin - may also be odd or take unexpected shapes. They may include peculiar flowers in unfamiliar hues, strange fruit, oddly coloured or shaped vegetables, potent berries, or eerie grain.
+
+This ritual became part of [[Urizen lore]] in 383YE alongside [[A Goblet of Stars]], [[Woven Strands of Life]], and [[Wellspring of the High Peak]]. All four rituals were contained in ''[[Some_heavenly_music#The_Well_of_Nine_Stars|The Well of Nine Stars]]'', a grimoire belonging to ''Cassirra Greenwell'', a refugee from Grendel-occupied [[Spiral]]. The book was given to the founders of Fountainhome Spire in the reign of [[Empress Richilde]] and handed down from generation to generation. It contained a wealth of [[Spring magic|Spring lore]] relating to green growing plants. The survivors of Fountainhome Spire proposed that the book be entered into lore as much to reconnect their fellow Urizeni with their pasts as to swell their understanding of the realm of Spring. Arbiter Cyrus of the [[Custodian_of_the_Bleak_Tower#The_Bleak_Tower|Bleak Tower]] agreed, and worked with Cassirra and her fellows to arrange for the rituals contained within to be [[Some_heavenly_music#Beneath_a_Bleak_Spire|shared]] with the rest of Urizen. 
+
+As with the other groups with rituals to propose for Urizen lore, however, ''The Well of Nine Stars'' did not come without [[Some_heavenly_music#Focusing_the_Chalice|complications]]. As a requirement before the book can become part of Urizen lore, Cassirra Greenwell and the members of Bleak Tower wanted the then-newly formed [[Silver Chalice]] [[Conclave order]] to make a significant change to its [[Silver Chalice#Manifesto|manifesto]]. Specifically they wanted it to officially remove the statement that it existed to "''Look into supporting long term efforts to aid the infrastructure (and foundations) of the Empire''." Both were quick to make clear that they and their spiremates bear the Order no ill-will. On the contrary, they are concerned that the Silver Chalice has erred by choosing four goals rather than the traditional three. Three is an ideal number, claims Cassirra Greenwell; more than three and the order risks becoming unfocused - especially with a goal that is so open ended as to be functionally meaningless. For the order to be truly successful it must have ''focus''. The Senate ultimately [[383YE_Winter_Solstice_Senate_sessions#Amend_manifesto_of_the_Silver_Chalice|modified the manifesto]], and the ''Well of Nine Stars'' became part of Urizen lore shortly thereafter.
+
+==Common Elements==
+The ritual creates fertility and encourages supernatural growth fuelled by the currents of magic that swirl around a mana site. Performing the ritual with crystals harvested from the site that is to be enchanted is a particularly effective way to weave the enchantment. Likewise,  [[hearth magic|hearth magics]] and symbols associated with health and [[Prosperity]] are commonly evoked, such as shedding small amounts of blood or offering a cup or bowl of wine, ale, milk or mead to those who control the target mana sites.
+
+Ritual performances in Urizen typically include the evocation of [[the Fountain]], and the spilling of fresh water. The runes [[Bravash]] and [[Xun]] both resonate with the ritual, as do the [[dramaturgy|dramaturgical]] persona of [[the Witch]] and the throne of [[the Garden]].

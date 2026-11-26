@@ -1,0 +1,50 @@
+[[Category:Title]] [[Category:Wintermark]]
+<div style="float:left; width: 400px; clear: left;">{{CaptionedImage|file=Raven.jpg|align=left|caption=For the folk of Wintermark, the raven is a [[Wintermark_culture_and_customs#Birds_and_feathers|symbol]] of [[Wisdom]].|width=400}}</div>
+==Overview==
+The Raven Seer is an [[Imperial title]] awarded to a citizen of [[Wintermark]]. It is a national position appointed by unanimous decision of the Wintermark [[senator|senators]].
+
+The Aviary of Ishal was reconstructed following a [[Construct_Aviary_of_Ishal|motion]] in the Senate, proposed by the Senator for Kallavesa. The Aviary is in southern [[Kallavesa#Skymark|Skymark]], the furthest of the three settlements round the lake at the heart of [[Kallavesa]]. According to the tales of the scops, this is where the wise go to read the future in the flight of birds and the night skies. It’s a place for learning - of the future and of yourself. For many years the mystics of Ishal have studied the omens and worked together to decipher them.
+
+==Responsibilities==
+The Raven Seer serves as the representative of the mystics of Ishal in Anvil.
+
+==Powers==
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Magpie Infusion'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>55 Rings</td><td>1 dose</td></tr>
+<tr><td>120 Rings</td><td>2 doses</td></tr>
+<tr><td>200 Rings</td><td>3 doses</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Ravenwing Infusion'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>112 Rings</td><td>1 dose</td></tr>
+<tr><td>250 Rings</td><td>2 doses</td></tr>
+<tr><td>410 Rings</td><td>3 doses</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Goosewhisper Infusion'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>120 Rings</td><td>1 dose</td></tr>
+<tr><td>260 Rings</td><td>2 doses</td></tr>
+<tr><td>420 Rings</td><td>3 doses</td></tr>
+</table></div>
+===Infusions of the Mystics===
+As a [[ministry]], the title of Raven Seer  allows the holder to purchase infusions at a set price. The Seer spends their money and makes their choices during downtime from their character page. Money is removed from, and infusions are placed into, the character's inventory when the downtime is processed.
+
+===Bounty of Goosewhisper===
+The Raven Seer receives a bounty of five doses of [[Infusions_of_Feathers#Goosewhisper_Infusion|Goosewhisper Infusion]] each season to use as they see fit.
+
+===Parliament of Owls===
+The Raven Seer is the custodian of the [[Formulaic_ritual#Ritual_Texts|ritual text]] for the ''Parliament of Owls'', a ritual codified during the reign of [[Emperor Nicovar]]. The ritual allows the Raven Seer to communicate a question to the [[mystic|mystics]] of Ishal. If the mystics are asked an appropriate question, if they are asked to look into some issue of current affairs that affects Wintermark, then they will study the omens and report what they can find on the matter to the Raven Seer. There is only one copy of this ritual text; the Raven Seer is expected to hand it to their successor.
+
+==Appointment==
+The Raven Seer is appointed during the Autumn Equinox each year. It is chosen by unanimous decision of the [[senator|senators]] of [[Wintermark]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by any Wintermark citizen. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Wintermark [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+The mystics of Ishal have made clear that they would prefer the Raven Seer be a mystic of the Kallavesi tradition, trusting to the Wintermark senators to ensure that this is the case.
+{{RecentElections|Raven_Seer}}
+==Aviary of Ishal==
+In southern [[Kallavesa#Skymark|Skymark]] is Ishal, the furthest of the three settlements round the lake at the heart of [[Kallavesa]]. There are a number of buildings here, offering places for mystics to sleep, eat, study, and discuss the omens and the nature of the skein. [[Herb garden|Herb gardens]] are scattered between the structures, and overshadowing all is a grand aviary where birds of all kinds are housed, tended, and observed.
+
+According to the tales of the [[scop|scops]], this is where the wise go to read the future in the flight of birds and the night skies. It’s a place for learning - of the future and of oneself. For many years the mystics of Ishal have studied the omens and worked together to decipher them. In Summer 383YE, in response to a [[383YE_Spring_Equinox_Synod_judgements#Judgement_32|Synod judgement]] calling on the people of Wintermark to look to the strength of their traditions, they came forward to [[Broken_arrow#Wisdom_of_the_Kallavesi|offer their services]] to the wider nation.
+
+Kallavesi mystics use a bewildering array of divination methods to unravel the skeins, but the flight of birds is favoured when it is available. The expansion of the aviaries at Ishal served as a focal point for Kallavesi [[heroism]] - stressing the essential role of those whose wisdom and insight allows them to serve as guides to the people of Wintermark. 
+{{Responsibilities Expectation}}

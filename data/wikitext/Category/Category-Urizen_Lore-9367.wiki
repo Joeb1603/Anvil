@@ -1,0 +1,5 @@
+<div style="float:right; width: 200px; clear: right;">{{CaptionedImage|file=NBUrizen.jpg|caption=This picture appears on the page for any ritual that is part of [[Urizen magical traditions#Urizen Lore|Urizen lore]] rather than [[Imperial lore]].|align=right|width=200}}</div>
+{{:Urizen magical traditions}}
+==Further Reading==
+* [[Urizen magical traditions]]
+* [[Some heavenly music]] - a Wind of Fortune in which several books of rituals were presented for addition to Imperial lore

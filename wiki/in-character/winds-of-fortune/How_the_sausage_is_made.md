@@ -1,0 +1,146 @@
+---
+title: How the sausage is made
+source: https://www.profounddecisions.co.uk/empire-wiki/How_the_sausage_is_made
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 386YE Summer
+- Recent History
+- Mandate
+event: 386YE Summer
+last_edited: '2024-07-24T10:05:04Z'
+revision: 113506
+in_character_boxes: 9
+---
+
+# How the sausage is made
+
+> *In-character text:*
+>
+> A kitchen was very much like a swan – at least according to Edebiri's mentor the greatly missed Carmena Berzotta. As far as the diners were concerned, everything was serene and under control. Behind closed doors, it was organised chaos. Tonight was no exception. In fact if anything it was worse. A dozen of Holberg's prestigious patricians, merchant-princes, and bishops celebrating... someone's birthday. She'd been told but had almost immediately forgotten it as being an unnecessary detail. There was a rumour that Prince Bishop Yakovitch might be in attendance, and that was enough pressure all by itself.
+>
+> Speeches, toasts. The heroes of Anvil were mentioned, as were Vigilance and Prosperity. It annoyed her – tonight should be about *food* not *speeches*.
+>
+> The first few courses had been served and cleared away without incident. She thanked the paragons for that at least – some of the serving staff were brand new. Unknown to her. She hated that – hated not knowing if she could rely on them or not. But she was desperate; Morrero and Marcus had not turned up for work tonight. No explanations. She was very angry with them.
+>
+> At least their replacements were quiet, and did what they were asked without question, and neither of them had dropped anything yet.
+>
+> Main dishes were being carried through and arranged on the tables. Silver platters, silver cloches. At least they had peoples' attention now. The current speaker, the head of one of the smaller butchers guilds, trailed off a little but didn't give up continuing to drone on about the Prosperity of the League as the main course was presented. Cloches raised, little murmurs of appreciation spreading around the room. Nobody was paying much heed to what the red-faced man was going on about.
+>
+> Salads arranged into vast flowers, with delicate Urizeni dressings. Soused hog’s face from the Marches. Mandalas of lobster, fresh-bought from the Sand Fishers and presented with a variety of sauces. What appeared to be an entire pig cleverly crafted out of what would turn out to be roast vegetables recomposed into the right shape, in the Dawnish style. Anthony de Woort von Temeschwar’s head. Cutlets of penguin brought at great expense from...
+>
+> Silence swept across the dining room. One could have heard a cloche drop – which is in fact what happened. Tiana staggered back, hands over her mouth, eyes wide in terror. She'd delivered the severed head of the well-known merchant, his features expertly preserved in some thick clear glaze. Pandemonium. Someone was noisily sick.
+>
+> Later, speaking to the magistrates, Edebiri did her best to describe the two new servers. They had just been... people. Just average, normal, nondescript. Nothing about them had stood out, nothing marked them as the kinds of maniacs who would decapitate a man, dress and cook his severed head, and then serve it at what, up until that point, had been one of the best banquets they had ever put on.
+>
+> “*It's always the quiet ones*.” She murmured to herself after they left, pouring herself a much needed glass of wine and wondering how she was going to explain to the others that Morrero and Marcus were unlikely to be coming back to work given what the magistrates had found at their apartment...
+
+*[Image: Fine food is something many wealthier League citizens take for granted, but now they are forced to face some horrible truths about what they might have been eating over the last few months...](https://www.profounddecisions.co.uk/empire-wiki/File:Sausages.jpg)*
+
+## Overview
+
+Holberg is the home of the [Bloody Great Sausage](../nations/the-league/Holberg.md#bloody-great-sausages), and it is known throughout the Empire for its victuallers and chefs. Yet it seems it's also the heart of a conspiracy; a terrible scheme that apparently originates with the cannibal [eternal](../eternals/Eternal.md) [Agramant](../eternals/Agramant.md). During the Spring Equinox the League assembly and the Assembly of Vigilance revealed the horrible deeds being done in the Greatest City in the World, and it seems their [statements](../../mixed/government/synod/Statement_of_principle.md) are only scratching the surface...
+
+At the same time as people are worrying about what goes into their sausages, a subtle enchantment is settling gently over the territory, bringing with it a delightful urge to seek out fine food and drink. It is perhaps unfortunate that this is happening at the same time as an alleged cult of cannibals is busy grinding people up and feeding them to the people of Holberg.
+
+## Gastronomancy
+
+- **A subtle enchantment of the Night realm has settled over Holberg**
+- **Its effects still linger as the Summer Solstice approaches**
+
+In the weeks following the Spring Equinox, a subtle enchantment settles over Holberg. Not only the city, but the whole territory. Everyone from the wealthiest merchant-prince to random charcoal burners in the forlorn forests; powerful troupe magicians and cheerful Sand Fisher fisherfolk are equally affected.
+
+The effect of the enchantment causes the people of Holberg, and those visiting the territory, to be inspired by dreams and daydreams of obtaining, creating, and consuming the very best food and drink they can. It's easy enough to shrug off the effects, but those who lean into the magic find it easy to locate the very best food, the most unique dining experiences, the finest cooking ingredients, granting them the opportunity to indulge in the weeks of epicurean delight, their gourmand tour de force their true masterpiece. That perfect Guild Roll with just the right herbs, That jelly with smell and sweet tang propelling forth their most beloved childhood memories. A mead infused with ingredients from so many far away places. A delicious medley of vegetables gathered from the farms of the Marches, supplemented by the best lemon zest imported all the way from [Highrod](../nations/highguard/Necropolis.md#highrod) (home of the best lemons in the Empire). Indulging in food and drink, especially in good company, leaves those who embrace it feeling replete, satisfied, and dare we say it... happy?
+
+The magic begins to fade as the season turns, but a little bit of it lingers on those who call Holberg home.
+
+### Participation: Holberg
+
+- **Citizens of Holberg may find the effects of the enchantment lingering**
+
+Any character whose personal resource is in Holberg is welcome to roleplay that they are still experiencing the lingering effects of the [enchantment](../../out-of-character/rules/Enchantment.md) that settled over their city. They experience a [roleplaying effect](../../out-of-character/rules/Roleplaying_effects.md): *You feel an urge to indulge in food and drink you have never tasted before. Anvil is full of places where you might find unique opportunities to try something new and you feel an urge to explore, to secure these things by whatever means you consider appropriate. Other concerns feel less pressing, and you find it hard to focus on anything other than enjoying good food with good company. Doing so is profoundly satisfying.*
+
+As long as you continue to experience this roleplaying effect, then **once** during the Summer Solstice event you can restore all lost body hits, all spent personal mana, and all hero points by spending at least fifteen minutes roleplaying as part of a pleasant and indulgent meal with at least two other people. This ability *cannot* be used in a stressful situation such as a battle, skirmish, or encounter off [Anvil](../world/Anvil.md). If you use a source of spiritual strength to avoid the roleplaying effect, you lose the ability to access this power.
+
+The enchantment lasts until time-out on Saturday evening at the absolute latest. If you have not used the ability by then, it is lost.
+
+## Bloody Great Sausage
+
+- **The Custodian of the Bloody Great Sausage receives a great deal of additional attention**
+
+*Citizens of the League, look to the Custodian of the Bloody Great Sausage for their guidance on where to find the best quality victuals.* **Paulus Adelaar van Holberg** was mostly warning people about the dangers of [Agramant](../eternals/Agramant.md) followers, but this particular injunction is taken to heart by a lot of League citizens. Within a few weeks of the Spring Equinox, the Custodian of the Bloody Great Sausage - the newly appointed **Kanute Adelaar van Holberg** - is the centre of a great deal of interest. Butchers, victuallers, chefs, and shopkeepers in Holberg and beyond are *very* keen for the Custodian to sample their wares and deliver their seal of approval. Invitations to dinner pour in. Opportunities for endorsement follow closely behind. The Custodian will not need to pay for a meal in the League again any time soon.
+
+More to the point, this dramatic increase in visibility has had a peculiar knock-on effect, attached to the title rather than the individual. As long as they remain free of scandal, and the League Assembly doesn't denounce them, they Custodian of the Bloody Great Sausage receives an income of 5 crowns each season going forward. This represents flat-out bribes, paid speaking opportunities, gifts from satisfied food makers across the League, and similar gratuities.
+
+## More Serious Business
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Holberg, greatest city in the World, also produces the greatest victuals in the World. Agramant, through his cultists, seeks to turn this fact against us! Citizens of the League, look to the Custodian of the Bloody Great Sausage for their guidance on where to find the best quality victuals.
+> >
+> > Paulus Adelaar van Holberg, Spring Equinox 386YE, Vote: Greater Majority 288-0
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We call all citizens to be vigilant to the machinations of the eternal Agramant. This cannibalistic horror who is under a declaration of enmity has cultists in the Empire who are grinding up people and putting them in food products. Seek out trusted suppliers of sausages until those responsible have been captured. Be Vigilant for the last surviving Agramant cultists of the Black Drop, Divina Inquilina di Tassato Regario. She is to be captured alive. Report sightings to the inquisitor of Vigilance.
+> >
+> > Prince Bishop Jonah Yakovitch, Spring Equinox 386YE, Vote: Greater Majority 226-0
+
+- **Several individuals and groups inspired by the eternal Agramant are active in Holberg**
+- **While some have been dealt with it seems there may be a deeper conspiracy at work here**
+
+While the immediate effect of the two statements of principle has been broadly positive, they both contain a more serious message. Followers of [Agramant](../eternals/Agramant.md) are active in Holberg. **Prince Bishop Jonah Yakovitch** warns that these maniacs are actually *grinding people up and making sausages out of them*. This being the League, people who learn of this react with horror, but also perhaps experience a thrill of excitement. It's like something out of a ringblack novel! More sensible folk look to the [guidance](Hear_your_footsteps.md#the-silent-bell-and-a-silent-bell) recently offered by the [Silent Bell](../../mixed/government/synod/Silent_Bell_-Sodality.md), staying alert for signs that there may be followers of the *Howler in the Wastes* among them.
+
+More worryingly still, Jonah reveals that one of the [Childer of the Black Drop](../eternals/Agramant.md#childer-of-the-black-drop) is still alive. That particular coven of fallen League magicians are something of a sore spot in some parts of the nation. Thirty-five years ago they took everyone in, and when it came time to finally deal with them they killed more than a few well-loved League magicians. There was some hope that they were finally all dead, but to discover that *Divina Inquilina di Tassato Regario* is still active is far from welcome news. There are a few unfortunate incidents where a few older magicians are incorrectly accused of being Divina in disguise.
+
+For the most part though people respond to the call for vigilance in a measured way. Agramant is a threat to everyone; nobody wants to be tricked into eating human or orc meat. There are a lot of stories - ringblack novel fodder at its finest - of people who become vulnerable to the wickedness of the *Voice of the Pines* when they inadvertently engage in a cannibal feast, and end up being warped into horrible monsters.
+
+This vigilance bears fruit, and by doing so makes everyone take this threat a lot more seriously. Following a tip-off from four plucky young people and their dog - a group with previous form for this kind of thing - the magistrates are able to catch a quartet of pie-makers in the Lower City with a cold-cellar containing two missing people and half a third. Another warning is raised when a courting couple find a gold ring in a sausage while taking the air in [Holmauer Park](../nations/the-league/Holberg.md#holmauer-park), and effect a citizens arrest. Unfortunately, these monsters turn out to be a *lot* harder to actually capture than they might appear. It seems that the one they refer to as the *Founder of the Feast* has been granting them his boons in return for feeding their neighbours to their other neighbours. They are tough, enduring blows that would fell anyone else without the need for armour. They are savage, using knives and short blades to inflict crippling or mortal blows on those who try to arrest them. A few possess more terrible powers - the sausage seller in Holmauer Park unleashes a terrible ear-splitting howl that freezes those who try to arrest him in place while he tried to flee - its mere luck that he ran straight through a group of [bravos](../nations/the-league/Bravo.md) arguing about the relative merits of [Emperor Frederick](../history/Emperor_Frederick.md) versus [Alexander von Holberg](The_troubled_words.md#creating-yourself) and the street toughs took exception and tackled him to the ground.
+
+*[Image: Agramant encourages atrocious acts in the name of survival.](https://www.profounddecisions.co.uk/empire-wiki/File:Agramant.jpg)*
+
+It seems that the criminals uncovered, prosecuted, and executed fall into the *pawns* and *fools* categories laid out by the Silent Bell. Some of them barely conceal their antics, making on-the-nose jokes that quickly come out once initial suspicions are raised. What is missing - and makes quite a few people in Holberg nervous - is any sign of a *malefactor* in Holberg. These individuals seem barely cognisant of each other; they don't consider themselves part of a single conspiracy. But there is the shape of... something... here. Magistrates still can't work out where the *Holmauer Park Howler* was getting his meat from. The pie makers of Flotilla Street were in possession of a ledger containing dozens of unique pseudonyms purchasing the "special stuff". Where did they come from? How did they learn about the pie shop when the innocent citizens of Holberg were unaware?
+
+Due to the nature of the crimes, many of the victims of the Holberg cannibals will probably never be identified. One, however, is a little more famous and his death is well publicised. *Anthony de Woort von Temeschwar* had [visited Anvil](It-s_only_me.md#serious-sausage-business) during the Spring Equinox, representing several businesses in Holberg concerned about rumours of malfeasance and tainted meat. Some time after the returned to Holberg, he was kidnapped, murdered, and expertly cooked, and then served at the birthday dinner of the Merchant Prince of the *Right Virtuous Company of Provisioners and Victuallers*. Clearly, someone wanted to send a message.
+
+There's one other unfortunate matter to mention. The enchantment that encouraged visitors to Holberg to explore new culinary experiences... it probably doesn't bear thinking about but that very enchantment almost certainly drove a small number of people into the welcoming arms of the cannibal butchers. Human and orc meat, after all, is almost the very definition of a unique, exotic, enticingly forbidden repast...
+
+### Spies and Pies
+
+- **The League National Assembly can use a mandate to urge citizens to seek out the centre of the conspiracy**
+- **The Vigilance Assembly can encourage citizens worldwide to seek out signs of cannibalism**
+
+The League assembly and the Vigilance assembly sent the warnings; they are in the ideal position to follow them up. The League assembly could enact the following mandate:
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Seek out falsehood and expose the truth! We send (named priest) with 50 doses of liao to root out the conspiracy of murder and abomination that hides beneath the surface of Holberg.
+> >
+> > Synod Mandate, League National Assembly
+
+If this mandate is enacted, it will create an opportunity following the Summer Solstice for League characters with military units to undertake the *Hunt the Cannibal Butchers of Holberg* [adventure](../../out-of-character/rules/Military_unit.md). This will be found under the *spy network* dropdown, and empowered by enchantments that make it easier to support a spy network. The good Burghers of Holberg will support anyone who takes this action. In place of their normal [production](../../out-of-character/rules/Military_unit.md#production), a standard military unit that undertakes this adventure receives 120 rings and 1 [mana crystal](../../out-of-character/rules/Game_items.md#mana-crystals) to use in their investigations, with an enchanted or [upgraded](../../out-of-character/rules/Military_unit.md#upgrade) military unit receiving commensurately more. If at least 1000 effective strength is assigned to the adventure, it will create an opportunity to try and bring down the Agramant Cannibal Conspiracy in Holberg at the Autumn Equinox. Otherwise, the ringleaders will realise they are being hunted and will be able to escape, potentially to continue bedevilling the League.
+
+The Vigilance assembly has a longer reach than the League National Assembly. They could choose to pass the following mandate.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We call all citizens to be vigilant to the machinations of the eternal Agramant and his wicked followers. We send (named priest) with 100 doses of liao to root out all those who embrace this unspeakable act and bring them to justice.
+> >
+> > Synod Mandate, Vigilance Assembly
+
+If this mandate is enacted, rather than focusing on Holberg the Vigilant will seek signs of Agramant's cannibal cults across the Empire. It will create a separate adventure - *Root out the Feasters* that will be available to any military unit in the Empire. Like the earlier mandate it will be found in the spy network dropdown, and will provide 90 rings and a pawn of [heart's blood](../../out-of-character/rules/Vis.md#hearts-blood) to a standard military unit that undertakes it. This will be significantly more disruptive however; every business and farm in the Empire will produce 18 fewer rings in the coming season as people search for the cannibal cultists. At the Autumn Equinox, if at least 3000 strength has been assigned, it will provide an opportunity to deal with Agramant cults or cannibals before they can cause further trouble. There's no way this will root out all the Agramant cults - the eternal has his fingers in many pies - but it will expose at least some of his most egregious worshippers.
+
+In either case, if the assembly chooses to name the Custodian of the Bloody Great Sausage or the Champion of Vigilance to enact their mandate, the liao required is reduced by 25. The endorsements of the assemblies have encouraged people to view the Custodian as exactly the right person to undertake this kind of action, and the Champion of Vigilance is *meant* to seek out conspiracies like this.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [386YE Summer](../../indexes/by-category/386YE_Summer.md), [Recent History](../../indexes/by-category/Recent_History.md), [Mandate](../../indexes/by-category/Mandate.md)

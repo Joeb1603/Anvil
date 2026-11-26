@@ -1,0 +1,328 @@
+---
+title: Volumes of forgotten lore
+source: https://www.profounddecisions.co.uk/empire-wiki/Volumes_of_forgotten_lore
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 387YE Autumn
+- Recent History
+- Winds of Magic
+event: 387YE Autumn
+last_edited: '2026-07-13T18:28:32Z'
+revision: 141638
+in_character_boxes: 2
+---
+
+# Volumes of forgotten lore
+
+> *In-character text:*
+>
+> The magician cowered in his chair, the books of magic scattered around his feet, his hand at his throat. He stared, aghast, at the black feathered horror seated on the bust of Kala that sat just above the door to his library. The lightstones had dimmed, but the ones that remained cast the creature's shadow, deep as a well of peligin black, across the distraught magus. The bird's eyes gleamed and glowed, giving it the appearance of a beast from the deepest imagined abyss of dreams.
+>
+> "Please," whispered the tormented magician. "Please, leave me and return to the wasteland whence you came. Let me be in peace. Tell your fell mistress that I will make restitution for all that I have done! Please, oh please, take your beak from out my heart before..."
+>
+> "No," said the raven.
+>
+> The man convulsed then, clutched his chest, his eyes staring wide, slumping down and sending the decanter of Barrenberry wine on his side table crashing to the floor. The bird hopped down then, from the pallid bust of Kala, and hopped onto the table with a certain degree of satisfaction. With surprising delicacy, it selected a single page from an open book, and tore it loose in a single long motion. Then with surprisingly dextrous talons it somehow rolled it up into a tube which it clutched in one claw. It considered pecking at the tasty looking eyes of the dead magician, but thought better of it.
+>
+> In a single bound, wings unfurling, it departed the chamber through the open window and was seen there nevermore.
+
+*[Image: The bells and other poems.png](https://www.profounddecisions.co.uk/empire-wiki/File:The_bells_and_other_poems.png)*
+
+## Overview
+
+Magic flows across the Empire, and across the known world. It is in the air and the mountains, the rivers and the forests, the seas and the skies. It is studied in [rarified colleges](../../mixed/commissions/College_of_magic.md) and practiced in the backstreets of cities; it is captured with the gaze of telescope and star-map, in the shifting faces of actors, in the clatter of the runes, in drops of blood, in music, and in the language of symbols that surround mortal beings. All mortals practice magic, and it arises naturally in and from the world itself. There are chance meetings that seem the work of fate, creatures made of more ephemeral matter than flesh and blood, in bright conjunctions and subtle confluences. Strangeness is all around, captured in many a quaint and curious volume of forgotten lore.
+
+This wind of fortune rounds up a passel of strange events, some arising from mortal actions some with less explicable causes. There is a companion piece to this wind, **[Upon a midnight dreary](Upon_a_midnight_dreary.md)**, that specifically references events that relate specifically to the [eternals](../eternals/Eternal.md).
+
+## Vesna In The Sky
+
+- **A vision of Emperor Vesna has appeared in the sky over Casinea**
+- **The image is controversial, partly for its nature and partly for its cost**
+
+It has been perhaps a year since a glowing figure [appeared in the skies above Casinea](As_it_is_when_it_was.md#umbars-sun). It is now time to reset the clock. Not long after the Summer Solstice, the stars above the territory shimmer and begin to subtly shift. A great stillness falls; night creatures cease to make their distinctive calls, the winds subside to silence. A towering, luminous figure appears in the heavens — a vision of **[Empress Vesna](../history/Emperor_Vesna.md)**, cloaked in midnight robes speckled with constellations, and crowned with silver fire.
+
+Around her, cloaked silhouettes drift in a perfect circle — indistinct, archetypal, and unknowable. Some claim there are five of them, others six or seven, a few say there are nine or more. The phantasmal [Throne](../../mixed/titles/The_Throne.md) lifts her hands, and in her palms appears a crystalline model of the Empire, glowing and fragile. Slowly, she closes her fists, and as the land shatters like glass, it explodes into radiant motes of stardust, illuminating the sky in a celestial snowfall of glowing white specks. The images then fade into darkness except for the silvery motes that drift downward for the next hour, like gentle ash or snow, disappearing before they reach the ground.
+
+Regardless, the image excites some discussion. The Emperor looks utterly resplendent in the vision, like [Empress Richilde](../religion/Empress_Richilde.md) born again. Still, some people view it as an attack on the Empress - that the illusion suggests they are influenced by shadowy figures and will ultimately destroy the Empire. Some people believe that to be a vile calumny borne of jealousy; others are of the opinion that it is a brave attempt to help others see the truth they already believe. Some say it is actually meant to suggest that the Throne holds the Empire in their hand, and that their authority is all that stands between the nations and their destruction. It is hard to be sure, such is the nature of [Night magic](../../out-of-character/rules/Night_magic.md). Still, whether it is adulation or opprobrium, it's impossible to deny the Throne looks supremely regal.
+
+A significant majority, however, do not actually *care* what the image is meant to represent. Divination of the effect suggests it is the result of a ritual with a magnitude of fifty - meaning that fifty crystal mana were invested in its creations. Is that really, ask these people, the best use of mana at a time when the people of the Empire are being informed that the Imperial treasury is on the verge of collapse? Is it really the best way to employ magic when Imperial soldiers are fighting and dying in the east, the [vallorn](../nations/navarr/Vallorn.md) is on the march, and there are unnatural threats from all directions including the skies above?
+
+A few question if this represents a crime - didn't the [Conclave](../../mixed/government/conclave/Conclave.md) [interdict](../../mixed/government/conclave/Interdiction.md) the creation of phantasmal figures in the sky? The magistrates patiently inform these concerned citizens that it is only creating a glowing image with the appearance of **Umbar i Elba Stardo i Guerra**, the [Freeborn](../nations/the-brass-coast/The_Brass_Coast.md) master of the "Star Bar" at Anvil, that is a crime. The [actual declaration](../conclave-sessions/386YE_Autumn_Equinox_Conclave_sessions.md#interdiction-umbers-exquisite-visage) says it is merely illegal to perform "any arcane projection text or ritual text called 'Umbar's Exquisite Visage' or ones that replicate its effect."
+
+Even in Highguard, a nation that traditionally reveres the Throne, there are people who question whether this is tantamount to [idolatry](../../mixed/government/synod/Religious_crime.md#idolatry)? There are again calls from concerned [magisters](../nations/highguard/Magister.md) and Casinean priests for the [Imperial Censor](../../mixed/titles/Imperial_Censor.md) **Gaius Starfall i Riqueza** to take a firm stand against creating glowing images of people in the sky. Of course not everyone is so worried about all this - it's just an image after all and Imperial citizens are free to use their wealth as they see fit, and nobody is above criticism even if it is more traditional to do it in a pamphlet rather than project it into the night sky. That is after all the *point* of the Empire, in some peoples' opinion.
+
+*[Image: Dreamscape.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Dreamscape.jpg)*
+
+## In Dreams
+
+- **The approaching Equinox has once again brought strange dreams to Casinea**
+- **It also seems to have had unexpected effects on certain rituals relating specifically to dreams**
+
+Around the time of the Summer Solstice [strange, anticipatory dreams](Sound_and_vision.md#shadow-empire-casinea) were reported across [Casinea](../nations/highguard/Casinea.md); dreams of strange halls, shadowed spires and a night sky crowded with violet stars. Throughout the intervening months the people of Highguard have experienced more settled sleeping, but with the approach of the Autumn Equinox these dreams have come again though now edged with a sense of loss and uncertainty.
+
+#### Participation
+
+If your character has slept overnight in Casinea in the last season (or indeed after sleeping in [Anvil](../world/Anvil.md) during the event), they may have experienced a vivid dream of another life, in a phantasmagorical world of politics, betrayal, doomed romance, twisted alliances, and bloody battle. Details fragment upon waking, but the dreamer remembers being a key character in these fantastical dramas with a powerful-sounding title.
+
+### What Dreams May Come
+
+- **Characters who were targets of *Ride the Noble Steed* at the Summer Solstice are encouraged to check their character packs as early as they can.**
+
+Those who accepted the enigmatic invitation from [Sung](../eternals/Sung.md) to join in mysterious 'celebration' by experiencing [Ride the Noble Steed](../../mixed/magic/rituals/Ride_the_Noble_Steed.md) during the Summer Solstice have *not* experienced restful dreams, however. Regardless of where they sleep, their dreams have been full of impossible landscapes and hard travel through darkness. Every day that brings them closer to the Equinox in turns fills their sleep with a sense of impending arrival, of inexplicable foreboding, and of a sense that there are powerful unseen forces manoeuvring around them. As often as not they awaken barely more rested than they were when they went to sleep, and sales of stimulants such as coffee have undergone a barely noticeable, but still very real, uptick in recent months.
+
+Any character who was a target of [Ride the Noble Steed](../../mixed/magic/rituals/Ride_the_Noble_Steed.md) at the previous event may roleplay experiencing more cohesive dreams of travel that linger into waking and are **advised to check their character packs as early as possible before Friday evening**. If there is nothing in there, please let a member of GOD know and they will sort it.
+
+### Dreaming Doors
+
+- **Goosewhisper Infusion may be used to boost the ritual *Sift the Dreamscapes Sands* during the Autumn Equinox**
+- **Everyone who consumes a dose receives the equivalent of three mana crystals towards the casting of the ritual**
+- **The dream the ritual provides has also shifted**
+
+During the Autumn Equinox, as folk begin to gather at Anvil, and news of the odd dreams spreads, some magicians become aware of a peculiar opportunity when casting the ritual [Sift the Dreamscape's Sands](../../mixed/magic/rituals/Sift_the_Dreamscape-s_Sands.md). This ritual of [Night magic](../../out-of-character/rules/Night_magic.md) gives the recipient vivid dreams, and allows them intuitive understanding of magical arts, and this season at least there seems to be a way to gain additional power for performing the ritual.
+
+It's not clear who first discovers the odd feature - it's entirely possible that *nobody* did and that it was either revealed in dreams or whispered into the ears of sleeping magicians by agents of [Rainbow Serpent](../eternals/Sung.md). During the Equinox, any [contributor](../../out-of-character/rules/Rituals.md#contributors) to the ritual who consumes a [Goosewhisper Infusion](../../mixed/magic/potions/Infusions_of_Feathers.md#goosewhisper-infusion) as part of the performance discovers that the elixir provides three crystal mana towards the performance instead of having its normal effects. A given contributor can only benefit from one such potion for each casting, and it is subject to the [normal rules for effective skill](../../out-of-character/rules/Magical_skills.md#gaining-additional-ranks).
+
+Furthermore, as long as the target of the ritual consumes a Goosewhisper Infusion as part of the casting (also gaining the benefit above if they are also a contributor), instead of the usual effect of the potion they may choose to fall asleep at the end of the performance and cannot be roused for at least five minutes. At the end of that time they awaken remembering an entire night of dreams, and gain the benefit to magical lore the ritual provides immediately instead of the next morning.
+
+In all cases, rather than the usual visionary dream imparted by the ritual - exploring a strange and shifting jungle - their dreams are full of the kind of dramatic interactions and events [mentioned above](#what-dreams-may-come). The character is a key player in a confusing world of intrigue and violence, where they must constantly make difficult decisions and live with the worst consequences of those choices.
+
+### Gates of Horn and Ivory
+
+- **The oneriomantic ritual *The Somnolent Wanderer* has received unexpected benefits**
+- **The ritual has become more challenging to cast and this looks to be a permanent change**
+
+It isn't immediately apparent, but it appears that [Sift the Dreamscape's Sands](../../mixed/magic/rituals/Sift_the_Dreamscape-s_Sands.md) is not the only ritual that has been affected by whatever is going on here. One ritual known to only a select number of oneironauts called *The Somnolent Wanderer* also seems to have undergone a subtle change. During the Autumn Equinox anyone performing this ritual may also use Goosewhisper Infusion as a substitution for crystal mana as described above. However it seems that the gates of sleep are significantly more difficult to open than they have been previously; the magnitude of this ritual has increased to 12, with each additional target increasing the magnitude by 8. While the use of Goosewhisper Infusion seems to be relevant only for the Autumn Equinox, it seems the change in magnitude is permanent. A few scholars who are aware of this change speculate that it may be nothing to do with whatever is empowering these rituals with visionary magic, and might instead be a consequence of recent interrogation of [the Lock](../../mixed/magic/lore/The_Key_and_The_Lock.md), [the Key](../../mixed/magic/lore/The_Key_and_The_Lock.md#the-key), [the Spider](../../mixed/magic/lore/The_Spider_and_The_Web.md#the-spider), [the Web](../../mixed/magic/lore/The_Spider_and_The_Web.md#the-web), and [the Door](../../mixed/magic/lore/The_Door.md) by the Empire's [astronomancers](../../mixed/magic/lore/Astronomancy.md).
+
+## Dark Places
+
+- **A creature named Black Damp has reached out to Imperial citizens**
+- **It proposes the creation of *Nightfingers* to allow Varushkan miners to gain access to valuable deepstones**
+- **It is also arranged to offer hospitality to some individuals during the Autumn Equinox**
+
+|  |
+| --- |
+| **Nightfingers** |
+| **Commission Type:** Great Work (Mine) |
+| **Location:** Karov, Karsk, Volodmartz, or Miekarova |
+| **Cost:** 60 [white granite](../../mixed/economy/White_granite.md) and 15 [mithril](../../mixed/economy/Mithril.md) |
+| **Time:** Six months |
+| **Availability:** Apparently Open-ended |
+| **Effects:** • Provides two deepstones to each mine in the territory <br> • Improves relationship with Blackdamp |
+| **Limitations:** There are apparently a few other minor details to be discussed in private |
+
+Just after dusk, on a warm night with a gentle breeze, a young man delivers a message to the civil service. Dressed in reds and yellows with beautiful embroidery on his fur-trimmed summer coat, he claims to travel with word from Miekarova. *[Blackdamp](../../mixed/titles/Night_Below.md)* has sent him to inform the folk of Anvil that due to the renewed friendship between itself and the folk of the north, *Nights Haven* would like to offer a gift to the people of the Empire.
+
+*Fly-the-Light* has received multiple requests to visit Anvil, sent by the grandchild of Vard and Ushka. Regretfully, it cannot attend itself, of course. Still, it appreciates those invitations none-the-less, and feels the need to repay the [hospitality](../../mixed/magic/lore/Varushka_hearth_magic.md#hospitality) it has been offered. *Dark Below The Mountain* is aware that one of the things Imperial citizens value are the [deepstones](Farewell_wanderlust.md#treasures-of-the-earth) found in the depths of the earth by adventurous [miners](../../out-of-character/rules/Mine.md). Like everything that lies in the deep dark, the *Abyssal Lady* has a certain degree of affinity for these precious ingots of magic. As such, it proposes an arrangement to allow Varushkan mine owners to harvest some of this bounty from the realms below.
+
+*[Image: Blackdamp.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Blackdamp.jpg)*
+
+The *Nightfingers* would represent a certain kind of invitation to the *Watcher in the Corner*. Standing stones not dissimilar to the [Weeping Stone](../nations/varushka/Karov.md#the-weeping-stone) in [Karov](../nations/varushka/Karov.md), they would need to be placed in specific locations that the *Extinguished Sun* would help the labourers charged with their creation to identify. This would represent the creation of a [great work](../../mixed/commissions/Great_work.md) requiring 60 wains of white granite, 15 wains of mithril, and 225 crowns. Work would take six months to complete. At the end of that time, every [mine](../../out-of-character/rules/Mine.md) in the territory where the *Nightfingers* were built would receive two deepstones appropriate to the basic material of the mine each season.
+
+The *Shadow-in-shadows* warns that the *Nightfingers* can only be built in [Volodmartz](../nations/varushka/Volodmartz.md), [Karov](../nations/varushka/Karov.md), [Miekarova](../nations/varushka/Miekarova.md), or [Karsk](../nations/varushka/Karsk.md). [Ossium](../nations/varushka/Ossium.md) is... unsuitable. The messenger does not elaborate on why the newest Varushkan territory could not benefit from this bargain. In theory, if they wished, the Empire could build any number of these structures in Varushka. Once at least one were completed, the *Grasping Dark* would be prepared to discuss the possibility of extending its benefits further - perhaps to [Temeschwar](../nations/the-league/Temeschwar.md), [Skarsind](../nations/imperial-orcs/Skarsind.md) or even [Weirwater](../nations/dawn/Weirwater.md).
+
+There is a little more to this arrangement than meets the eye, of course, but it's the kind of detail that would be boring to most of the important folk who attend Anvil. There is also an alternative to the labour required to create the Nightfingers that it believes is unlikely to be acceptable, but it will mention anyway. As such it has sent a small number of invitations to a few attending Anvil this summit to discuss this matter, among others. And as a gesture of friendship of course. The *Thieving Dark* offers no harm to anyone who attends its meeting, and is honoured so many people have called it to visit the *City of Lights*. The messenger is also keen to point out that *Black Heart* has offered its help in the past, with remarkable effectiveness, and would love for a more collaborative relationship in the future. Building the *Nightfingers* would be an excellent way to continue that relationship.
+
+The civil service at first assume that "Blackdamp" is the name of an [eternal](../eternals/Eternal.md), but when they seek an explanation from the messenger they discover that he has unaccountably slipped away while nobody was watching, and cannot be found.
+
+## In Three Stones (Therunin)
+
+- **The trods in Therunin were destroyed by the Druj**
+- **There is an opportunity to visit a potent Spring regio in Greenheart**
+- **This is a [combat unlikely](../../out-of-character/rules/Accessibility.md#combat-unlikely) encounter**
+- **The *Archmage of Spring* is [responsible](../world/Sentinel_Gate.md#prognostication) for any visit to the Three Stones**
+
+The [trods](../nations/navarr/Trod.md) of Therunin were shattered when the [Tainted Basilisk](../barbarians/Druj_armies.md#tainted-basilisk) used [blood magic](../../mixed/magic/lore/Blood_magic.md), with [goetic](../../mixed/magic/lore/Aspect_magic.md#goetia) invocations of *[Greenhand](../eternals/Yaw-nagrah.md)*, with terrible drums and chants, with the use of items of [worth](../nations/imperial-orcs/Worth.md) seized from the steading of Return, to [unleash](../winds-of-war/To_hold_death-s_hand_in_mine.md#tainted-vengeance) the vallorn of Tharunind. The thorns who remain in the territory have kept a careful watch for any chance of a Spring regio that is potent enough to allow a performance of [Dance of Navarr and Thorn](../../mixed/magic/rituals/Dance_of_Navarr_and_Thorn.md).
+
+The thorns of the Sevencut striding are the ones to find the Three Stones; a potent Spring regio, resonant with [fertility](../../out-of-character/rules/Spring_magic.md#fertility). The Three Stones aren't perfectly suited to cast Dance of Navarr and Thorn, but they are the best available. They are also nestled amidst a small [weirwood](../../mixed/economy/Weirwood.md) grove, which both offers protection against the vallorn miasma prevalent in the rest of the region and guards against incursion from vallornspawn. Given that this is a chance to employ Spring magic to the advantage of Imperial citizens, it is the responsibility of the [Archmage of Spring](../../mixed/titles/Archmage_of_Spring.md), **Ibiss Briarheart** to support those who would see the ritual cast at the Three Stones.
+
+*[Image: Ephisis001.webp](https://www.profounddecisions.co.uk/empire-wiki/File:Ephisis001.webp)*
+
+## Market in a Box (Ephisis' Scale)
+
+- **Agents of the City of Gold and Lead have provided information about *Ephisis' Scale* bargains**
+- **The city is not interested in potions or drugs this season**
+- **There is an opportunity to acquire hearts blood and warm honey in return for dragonbone or tempest jade**
+- **The Prince of the Argent Tontine is offering premium tickets to an upcoming event**
+
+The markets and bazaars of the [City of Gold and Lead](../eternals/Ephisis.md) are unmatched in the [Iron Labyrinth](../eternals/Realm.md#autumn). Each season Imperial magicians are able to use a simple ritual [Ephisis' Scale](../../mixed/magic/rituals/Ephisis-_Scale.md) - to trade with the merchants and brokers of the Autumn realm and through them with mortals and agents all over the known world and perhaps beyond. During the Spring Equinox, the [Waning Circle](A_box_for_a_sword.md#the-waning-circle) established a "spot price" for wains of [mithril](../../mixed/economy/Mithril.md), [white granite](../../mixed/economy/White_granite.md), [weirwood](../../mixed/economy/Weirwood.md), and [ilium](../../out-of-character/rules/Ilium.md). While there is a "reasonable" set price, the more Imperial magicians offer the more the price drops. They've also reiterated that anyone wishing to trade a significant amount of wains in one go should strongly consider not including anything else in their box.
+
+### Drugs and Potions
+
+- **The markets of the City of Gold and Lead are not interested in potions or drugs this season**
+- **The Silent Market expects the matter to be resolved reasonably soon one way or another**
+
+One of the most enduring groups of brokers in the City of Gold and Lead is the *Silent Market*. They are known for dealing with unique curios, narcotics and other consumables, and things of interest to "discerning customers." They are well pleased by the business they have been doing with the Empire, and have news for merchants who are considering trading herbs or potions during the coming season. For some time Imperial traders have been offering potions that are familiar to folk across the entire known world. It is quite difficult to make a reasonable profit on these kinds of goods. Especially at the moment.
+
+As a consequence, the markets of the City of Gold and Lead will not accept potions or philtres during the coming equinox. Going forward, they will only accept crafted potions as part of a specific deal arranged with either an individual or someone looking to get their hands on specific items.
+
+The Silent Market has also come under pressure from the [Lictors](../eternals/Lictors.md) on matters relating to the laws of the Empire. While they are not minded to submit to the *City of Bond and Bar* on matters of trade, during the Autumn Equinox they will not be accepting any narcotics, either.
+
+(**OOC NOTE:** This season, potions and drugs offered in Ephisis' Scale boxes will be returned unsold. This essentially means [philtre](../../mixed/magic/potions/Apothecary_Potions.md) cards and most [rip-on use lammies](../../out-of-character/rules/Game_items.md#potions) will be rejected by the brokers of the City of Gold and Lead unless they are part of an existing deal.)
+
+### Blood and Honey
+
+- **This season the City of Lead and Gold will offer heart's blood for dragonbone and warm honey for tempest jade**
+
+One of the materials the City of Gold and Lead brokers regularly provide is [Warm ashes](../../out-of-character/rules/Vis.md#warm-ashes), a form of [vis](../../out-of-character/rules/Vis.md) useful for performing [Autumn magic](../../out-of-character/rules/Autumn_magic.md). While much less versatile than crystal mana, the latter is apparently not found naturally in the Autumn realm the way it is in the mortal realm. Indeed, it seems crystal mana is not found in *any* of the eternal realms and any that is provided must logically have come in the form of a deal or bargain, explaining why those eternals minded to engage in trade value it a little more than Imperial magicians do.
+
+This season, the brokers of Ephisis has indicated that there are two special deals available to Imperial magician relating to two different forms of vis. During the Equinox, the brokers of the Invisible Markets will be offering a pawn of [heart's blood](../../out-of-character/rules/Vis.md#hearts-blood) in return for three measures of [dragonbone](../../out-of-character/rules/Materials.md#dragonbone). They are also offering a pawn of [warm honey](../../out-of-character/rules/Vis.md#warm-honey) in return for three ingots of [tempest jade](../../out-of-character/rules/Materials.md#tempest-jade). If a box *only* contains either dragonbone or tempest jade, or a combination of the two, they will assume that the vendor is interested only in the appropriate vis and act accordingly, allowing them to quickly complete their purchase. They caution however that in cases where more than twenty vis would be claimed by a single box, they will deliver the vis just before the Winter Solstice. In this case they will provide an additional pawn of vis for every five that would have been received.
+
+Other ingots and measures are of course still valuable to the brokers of the City of Gold and Lead - the [Smiths of Shikal](../eternals/Estavus.md) have an unquenchable thirst for metals and forest materials after all.
+
+*[Image: Rune: Pallas](https://www.profounddecisions.co.uk/empire-wiki/File:Zorech.png)*
+
+### The Auction of Desire
+
+- **Callidus plans to arrange a prestigious auction at the Winter Solstice**
+- **Ephisis' Scale can be used to purchase a VIP pass that allows one to request something that may be included in the auction**
+- **Up to three people who contribute the most ingots or measures will gain premium access to the auction**
+- **All measures and ingots spent to acquire a VIP pass will be credited to the account of the individual for use in the auction**
+
+The brokers of the Invisible Market are always keen to offer unique opportunities, and this season they are serving as agents for an exciting offer presented by the [Sovereign Lord of the City of Chains](../eternals/Callidus.md). During the Winter Solstice, Callidus plans to run an auction for the wealthy and powerful of the Empire - presuming the interest is there. The *Prince of the Argent Tontine* is happy to take anyone's money but is nonetheless placing a twist on their planned auction. While anyone will be able to attend and bid, presuming they can reach the [Hall of Worlds](../world/Anvil.md#the-hall-of-worlds), the eternal is offering VIP passes to a small number of Imperials. Passes that come with an additional benefit.
+
+During the Autumn Equinox, an Ephisis Scale box can be used to purchase a VIP pass. It must contain a total of fifty ingots of metal and measures - in any combination - along with a representation of the rune [Pallas](../../mixed/magic/lore/Pallas.md). If the box is being submitted on someone else's account, the name of that person must be recorded in the box (**OOC:** Along with their CID). As well as the rune and the ingots however, the box may contain a description of something - *one* thing - that the VIP would be interested in buying or at least seeing in the auction. The more specific the request, the heralds caution, the more likely the VIP is to be disappointed. But it is not impossible for Callidus' agents to lay their hands on, or at least gain access to, almost anything that has value. It's also quite acceptable to indicate that one desires something very general such as "a powerful weapon" or "a large amount of mithril". It is also important to note that these are simply guides to the heralds as to things to find and offer for auction - not things the contributor will definitely get.
+
+The ingots issued will be credited to the account of the individual, and available to use to bid during the auction at the Winter Solstice. It will not be possible to withdraw these funds, however.
+
+Finally, anyone who wishes may spend *more* than fifty ingots of course. The three individuals who contribute the largest number of ingots to buy their VIP seat at the auction will gain prestigious access. A chance to peruse a carefully prepared list of lots before the auction, as well as prestigious seating.
+
+## A Highway Robbery (Sermersuaq)
+
+- **Caravans transporting aid to Bregasland are avoiding roads through Stark.**
+- **A shipment of food to a Hall whose farms have failed has gone missing, and an injured icewalker claims that the travellers need aid.**
+- **This is a [combat unlikely](../../out-of-character/rules/Accessibility.md#combat-unlikely) encounter**
+- **The *Woundbinder of the Mark* is [responsible](../world/Sentinel_Gate.md#prognostication) for helping the wounded merchants**
+
+Word has spread through [Sermersuaq](../nations/wintermark/Sermersuaq.md) of the dangers in transporting aid to [Bregasland](../nations/the-marches/Bregasland.md) through certain roads in [Stark](../nations/wintermark/Sermersuaq.md#stark). Wagons derailed, drivers missing. Rumours of monsters riding the wind, tiny knives slashing through sacks of supplies and cutting travellers' skin. Strangely, merchants who commonly use these routes have reported no such problems - and seem of a mind that those less used to travelling in the harsh winds of Stark are simply exaggerating perfectly natural experiences.
+
+Regardless of the more gruesome rumours, another expedition has been reported missing. A small group from Atalaq were expected to arrive with supplies for Sanna's Hall - whose farms have succumbed to fallow these past seasons, and who currently rely on the generosity of their neighbours to make it through the year. Other nearby settlements have been able to make up the shortcomings, and the Hall are in no danger of starving, but the question remains as to what happened to the merchants from [Atalaq](../nations/wintermark/Sermersuaq.md#sealtoq).
+
+A few days before the Autumn Equinox, a lone icewalker covering a deep wound over one eye stumbled into a wayhouse before collapsing. Once warmed through, they told a sorry tale of being hunted by pursuers through the snow until their group could no longer find their way back to the road. They kept pace until they thought they were free - and then they were attacked. Not by swords or axes - but by a gang of bandits, hidden behind thick furs, throwing coins as if they were javelins. Among their number, they claim to have seen a horned woman with metal running through her skin like ore. The icewalker ran to get help, leaving behind their fellow travellers. They expect the attackers will be long gone by now, but the rest of their group will be in desperate need of aid.
+
+It is the responsibility of the [Woundbinder of the Mark](../../mixed/titles/Woundbinder_of_the_Mark.md), **Conrald Mystrim**, to travel to the Iron Crossroads and treat the wounded merchants.
+
+*[Image: Little Mother.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Little_Mother.jpg)*
+
+## Orphans And Occultism
+
+- **Access to the Loom of Spells will be auctioned at 14:00 on Sunday at the Imperial Regio**
+- **The Loom of Spells continues to be controlled by the Church of The Little Mother**
+- **There are rumours swirling that rival groups are looking to take over the running of the Loom from the Church**
+
+The orphans of the Church of [the Little Mother](../religion/The_Little_Mother.md) sometimes question the necessity of sending a reminder to the civil service every single season about the auction for control of the Loom of Spells. Surely everybody knows that one of their bishops will attend the Imperial Regio at 14:00 on Sunday? It always happens there! The bishops quietly push back against their easily bored charges. The Church has controlled the Loom of Spells for less than a year at this point, and while that might seem like a long time to a child, it is slightly less of an institution to their adult counterparts. Besides, every summit is someone's first time at Anvil, and it's only fair to give them the same knowledge as everyone else.
+
+As such, they send the regular notice through to make sure everyone understands the procedure. Bids are to be given in mine or forest measures. It does not matter what measures are given, and bids may include a mixture of different materials. The only thing that matters is the raw quantity. They remind potential bidders that the Loom can only codify rituals of up to the tenth magnitude, but have established that the ritual Quick Study, which is part of Urizen lore, will work. The bishop taking the bids has been assigned as head of the work crews on the Loom this season, and may be targeted by this ritual if needed, though they will expect any bidders who require such a thing to have arranged their own casting and to be ready to cast it as soon as their bid is declared successful. They urge everyone to dig deep - this is for the orphans, after all.
+
+There are rumours swirling that rival groups have been eyeing the profits made by the Church of the Little Mother and might be looking to make new arrangements with [Prospero](../eternals/Prospero.md). The Church have denied all knowledge of this and assure people that they hope to run the Loom for as long as the *Golden Prince* allows.
+
+## Grand Lodges
+
+- **The Conclave has the opportunity to ask the civil service for a proposal to build another grand lodge**
+- **The Conclave can only have two grand lodge proposals outstanding at any one time**
+- **Any proposal would require a declaration of concord and would need to name the order**
+- **The more information provided on the ideal location for the grand lodge the better**
+
+Not long before the Autumn Equinox the Grand Lodge of the [Golden Pyramid](../../mixed/government/conclave/Golden_Pyramid.md) was completed in [Mareave](../nations/imperial-orcs/Mareave.md) - despite the presence of the invading [Grendel](../barbarians/Grendel.md) in the south of the territory. As discussed in the **[The shape of things to come](The_shape_of_things_to_come.md#each-in-order)** wind of fortune, finishing work on the Golden Pyramid lodge means that there is an opportunity to explore the possibility of creating a lodge for another one of the [Conclave orders](../../mixed/government/conclave/Conclave_order.md). Plans for the [Well of Life](The_shape_of_things_to_come.md#the-well-of-life) already exist, but there are five other orders - [Unfettered Mind](../../mixed/government/conclave/Unfettered_Mind.md), [Sevenfold Path](../../mixed/government/conclave/Sevenfold_Path.md), [Celestial Arch](../../mixed/government/conclave/Celestial_Arch.md), [Shuttered Lantern](../../mixed/government/conclave/Shuttered_Lantern.md), and [Rod and Shield](../../mixed/government/conclave/Rod_and_Shield.md) - who have not been considered yet.
+
+The Conclave can now use a [declaration](../../mixed/government/conclave/Declaration.md) of [concord](../../mixed/government/conclave/Concord.md) to request the civil service look for the ideal location for a grand lodge for one of the other orders. Any declaration would have to explicitly state who the lodge was for and ideally what territory it should be in. The declaration might include more precise information such as the region or specific location for the lodge. It is important to note that a given territory can only support a *single* grand lodge however.
+
+If the Conclave does this, a proposal for building a Grand Lodge for that order in that territory will be presented at the next summit. Once such a proposal is presented, the Conclave would not have the capacity to try and make plans for another new one until one of the existing two was constructed. This means that the Conclave won't be able to request proposals for a new grand lodge at any time while there are two proposals outstanding.
+
+There has been [some discussion](A_dark_and_stormy_night.md#countering-the-grendel) of the benefits a lodge of the Shuttered Lantern might provide already - given the Empire's current interests in espionage and counter espionage this is unsurprising. It's difficult to predict exactly what benefits a Grand Lodge could provide but it's likely the Rod and Shield at least would provide protection to the territory where it was built against invasion or other threats - mundane or magical - given it is probably going to be a fortified structure. A grand lodge for the Unfettered Mind is likely to offer opportunities to push back the boundaries of Imperial lore and the Empire's magical practices. The Sevenfold Path stand as liaisons between the Conclave and the Synod, but their manifesto urges them to find ways to support the destiny of the Empire and its citizens - wherever their lodge is built it is likely to bring a degree of harmony and opportunity to the folk of that territory. The Celestial Arch are experienced diplomats - they have in recent years reached out to magicians outside the Empire's borders for example, as well as working closely with the Senate and the political apparatus of the Empire.
+
+It's impossible to nail down for sure what a great lodge can achieve - so much depends on the circumstances and the chosen territory - but the benefits are likely to be on par with those offered the Golden Pyramid and the [Silver Chalice](../../mixed/government/conclave/Silver_Chalice.md).
+
+## Matters of License
+
+During the Summer Solstice, two declarations of license were raised in the Imperial Conclave. One was raised by [Grandmaster](../../mixed/titles/Grandmaster.md) The Dread Auntie, on behalf of the [Unfettered Mind](../../mixed/government/conclave/Unfettered_Mind.md) seeking to remove the law against the performance of Empire-wide enchantments. The other declaration was raised by [Grandmaster](../../mixed/titles/Grandmaster.md) Sakari Nightscale, on behalf of the [Rod and Shield](../../mixed/government/conclave/Rod_and_Shield.md) to remove the interdiction of [Rivers Run Red](../../mixed/magic/rituals/Rivers_Run_Red.md). While both were defeated, they received very different responses in the wider Empire.
+
+### Climbing the Omnihedron
+
+- **The interdiction against Imperial enchantments remains in place**
+
+There is some satisfaction from magicians in a number of nations that the interdiction against Imperial enchantments remains in place, but it is by no means universal. These potent rituals do, admittedly, tend to cause a lot of chaos but for every citizen who is harmed by them there is at least one who finds benefit in their effects. The declaration of the Unfettered Mind has prompted a fair amount of passionate discussion of whether the interdiction is needed or not, setting the heliopticon ablaze and Navarr messengers speeding back and forth with heartfelt, angry, and snarky letters. There are also gallons of ink wasted on arguing about the matter in the letters columns of assorted broadsheets. The [Cold Sun](../eternals/Cold_Sun.md) incident is mentioned several times, of course, but the general response appears to be an acceptance that it was ‘’unique circumstances’’ that caused the invasion of several thousand soldiers from the Day realm, and queries about whether it was *really* all that bad in hindsight? It’s noticeable that some nations - the League in particular - weren’t threatened by Cold Sun at all.
+
+Regardless, the question really boils down to “Are Imperial enchantments good or bad for the Empire?” And it is clear that there are arguments to be made on both sides.
+
+### Rivers and Honey
+
+- **The interdiction against Rivers Run Red remains in place**
+- **Grateful Marchers have gathered a harvest festival basket in thanks for the Conclave's wise decision**
+
+This declaration was always going to be controversial. It was raised under the [veil of night](../../mixed/titles/Grandmaster.md#veil-of-night) - meaning nobody knew what the declaration was going to be until it was brought to the floor of the Conclave - a move that has been both heavily criticised as underhand by detractors, and lauded as a clever political move by supporters.
+
+Like the attempt to license Imperial enchantments, this declaration has its fair share of opponents as well as supporters, however it has raised a great deal of hostility in [the Marches](../nations/the-marches/The_Marches.md). There is still a lot of simmering anger about the use of that ritual during the scouring of the Mournwold, and the numbers of people who died as a result of it. There’s also a number of magicians who look at the situation in Bregasland and genuinely fear what might happen there if Rivers Run Red ceases to be interdicted.
+
+Landskeepers are able to calm the whole thing down by pointing out to these doomsayers, that the Conclave did *not* remove the interdiction. They point to this as a sign that the Conclave remains committed to preventing these dangerous curses being used, and that’s what matters. Indeed, there has been a slight upswell of approval for the Conclave - and for the Marcher magicians that many believe help to keep them on the straight and narrow.
+
+This positive feeling has lead to something of a “harvest whip-round” in [Mitwold](../nations/the-marches/Mitwold.md) and [Mournwold](../nations/the-marches/Mournwold.md). A significant bounty has been put together; baskets of apples, blackberries, and pears; jars of preserves; loaves of bread; bottles of cider, beer, ale, wine, and mead; and even a few barrels of salted fish. These are sold to the poor in Meade and the Marches and the sales delivered to the Civil Service. The intention is that the Imperial Conclave can perform a declaration of [Endowment](../../mixed/government/conclave/Endowment.md) to see it delivered to anyone they please. The only restriction they place on it is to demand that it *not* be given to the Rod and Shield. The bounty amounts to a total value of 10 Thrones (which the chosen individual will receive in their pack at the Winter Solstice).
+
+This wave of positivity - coupled with a [Prosperous](../religion/Prosperity.md) desire to see that people receive just rewards - also has implications for several Imperial titles. Regardless of whether they were involved or not, gifts of food, warm clothing, second-hand boots, wicker baskets, ironmongery, small chairs and side-tables, and similar marks of approval are being delivered to the [Guardian of the Prosperity of Afal](../../mixed/titles/Guardian_of_the_Prosperity_of_Afal.md), [Keeper of the Golden Fields](../../mixed/titles/Keeper_of_the_Golden_Fields.md), [Keeper of the Happiston Fields](../../mixed/titles/Keeper_of_the_Happiston_Fields.md), [Roost's Reeve](../../mixed/titles/Roost-s_Reeve.md), and even the [Keeper of the Dour Fens](../../mixed/titles/Keeper_of_the_Dour_Fens.md).
+
+As the curmudgeonly *Alisoun Bathwater* points out, it’s no good beating an ox with a stick all the time... sometimes it helps to dangle a carrot. Each of these title holders has gained an additional 2 Thrones in their inventory to represent these gifts. Furthermore, there is a feeling among the people of the Marches that if the Imperial Senate were to amend these titles to make it clear that the holder is expected to be a landskeeper, and that their responsibilities include looking after the land and people of the Marches, these gifts would continue coming, making half the additional income permanent. The [Senate motion](../senate-motions/Senate_motion.md) to do this would need to be done during the Autumn Equinox or Winter Solstice to have any effect; after that interest would have faded. It is possible to do all these titles with a single motion, but if the Senate wanted to pick and choose they would likely need to raise a motion for each title in turn.
+
+*[Image: OrderUnfetteredMind.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:OrderUnfetteredMind.jpg)*
+
+## A Well of Shadows
+
+- **The Unfettered Mind now has access to the Well of Shadows**
+- **One member of the order each season may enter the Well and codify a ritual**
+
+**Fiorente Vicente d'Apulian**, on behalf of the [Unfettered Mind](../../mixed/government/conclave/Unfettered_Mind.md), accepted the offer of the eternal [Sadogua](../eternals/Sadogua.md) to provide access to the [Well of Shadows](../nations/the-marches/Upwold.md#well-of-shadows) to their order for one full year. They also assured the oft-mercurial eternal that “Conclave will not place rituals codified at the Well of Shadows into Imperial lore.” This promise seems to have particular weight where the eternal is involved, and it’s possible that it has magical implications as well, should it ever be broken.
+
+Regardless, a herald of the *Brother of Wizards* has now taken up semi-permanent residence in the woods near [King’s Stoke](../nations/the-marches/Upwold.md#tower-march) with instructions to bring a member of the Unfettered Mind to the Well each season and allow them to codify a single ritual. The decision as to who may use what amounts to the personal [college of magic](../../mixed/commissions/College_of_magic.md) of the *Toad King* is made by the [Grandmaster](../../mixed/titles/Grandmaster.md) and should be communicated to the eternal via his [traditional missive method](../../mixed/magic/rituals/Missive_for_Sadogua.md).
+
+Only the most basic details are known at the moment but it appears that the Well can codify a ritual of up to magnitude 10 in a single season, or magnitude 15 if it is a ritual of the Night realm. It’s also possible to codify a more powerful ritual by providing the herald or the Well with [iridescent gloaming](../../out-of-character/rules/Materials.md#iridescent-gloaming). Five extra magnitude in a season requires 18 measures, ten extra magnitude costs a further 44 measures, and so on doubling the amount of gloaming needed for each further five ranks of speed within the same season.
+
+It is possible to spend more than one season codifying a ritual, but the herald lurking in the woods cautions that if the Well is lost or locked, the ritual will be sealed within and cannot be completed elsewhere.
+
+(**OOC Note:** The player of the character is chosen to go into the Well should email [plot@profounddecisions.co.uk](mailto:plot@profounddecisions.co.uk) after the event, indicating which arcane projection they want to codify, and how much if any iridescent gloaming to take out of their inventory)
+
+*[Image: Rune: Zorech](https://www.profounddecisions.co.uk/empire-wiki/File:Zorech.png)*
+
+## Passionate Furlough
+
+- **For the next year generals can issue the *Passionate Furlough* order**
+- **This order has the same game effects as Solid Defence but is supported by heralds of the eternal Janon**
+- **It's precise effects are not clear and vary by army and territory**
+
+Bella Vicente d'Apulian has been quite busy it seems. In their role as [Archmage of Night](../../mixed/titles/Archmage_of_Night.md) they also accepted an offer from the eternal [Janon](../eternals/Janon.md) to bring its influence to bear on Imperial armies. With the agreement of the Conclave, until the start of the Autumn Equinox 388YE Imperial [generals](../../mixed/titles/General.md) can issue the *Passionate Furlough* [order](../../out-of-character/rules/Army_orders.md) alongside those they can normally use.
+
+This order calls on the eternal to send heralds that encourage "brighter" passions - urging soldiers to celebrate life and battle, embrace glory, heroism, or even passionate virtue. In short... to party hard. For the next year (until the start of the Autumn Equinox 388YE) every Imperial general will be able to issue the **Passionate Furlough** order. This goes beyond simply asking Janon to accompany their army.
+
+The order has the same game effects as *[Solid Defence](../../out-of-character/rules/Army_orders.md#solid-defence)* but crucially the army will not receive *any* [natural resupply](../../out-of-character/rules/Casualties.md#natural-resupply) during that season. Instead they celebrate, and bring others in the [territory](../../out-of-character/rules/Territory.md) into their celebrations. This will provide benefits to the people of the territory where they are stationed, as they squander their pay on the joys of life (wine, good company, song). It will raise morale in the army, and likely have a noticeable impact on the people in the territory. It’s not entirely clear what that means; it’s not possible to predict what effect taking this order might have, as it will depend on the territory and the army. Someone would have to take the order to get a feel for what the influence of Janon means…
+
+## The Cast Get Eaten By The Play
+
+- **Spiral is still *like that*.**
+
+One last peculiar magical effect before we close the book, blow out the candle, and retire to our well earned rest. Last season it was brought to the attention of the people of the Empire that something was *going on* in [Spiral](../nations/the-league/Spiral.md). Something more than usual, that is. [A wild tumult](The_play_that_came_to_Apulian.md#something-dramatic) of [dramaturgy](../../mixed/magic/lore/Dramaturgy.md) and drama, plays and masks, underpinned with a powerful magical convocation. That strangeness has not faded with the Summer Solstice - if anything it is even more pronounced. Theatres, playhouses, and street-corners continue to be [blessed with splendour](The_play_that_came_to_Apulian.md#larger-than-life), and [strange phenomena](The_play_that_came_to_Apulian.md#curiouser-and-curiouser) continue to unfold.
+
+As a reminder of what this means, we’ve reprinted the *Participation* section from that wind for characters living in Spiral, whether Urizen or League.
+
+#### Participation
+
+Any League or Urizen citizen whose resource is in Spiral can roleplay that they have experienced the strange phenomena. If your character was in Apulus this season they are likely to have got lost at least once, and found themselves in a new part of the city, one they have never seen before. The experience is generally discombobulating but not unpleasant as it most often leads to a dramatic encounter with a dramatic production of some kind. Players are encouraged to make up stories of a wild night of revelry or wonderful trip to the theatre that resulted, as appropriate to your character.
+
+Players who are familiar with the [six dramaturgical personae](../../mixed/magic/lore/Dramaturgy.md#the-personae) may have had an encounter in which one of the six appeared to be present, either someone you met acting as if they were embodying the spirit of this personae or you finding yourself inspired and enabled by one of the personae, most likely the one that appeals most strongly to your character.
+
+During this summit, any League or Urizen character whose resource is in Spiral can draw on the power of one of the five personae as a source of spiritual strength to resist a roleplaying effect by instead embracing the roleplaying associated with this intensification of the personae. You may do this at any time during the summit, as often as feels appropriate, but you may only use a single personae throughout the event.
+
+- **[The Witch](../../mixed/magic/lore/The_Witch.md)** - You feel emboldened to meddle in the romantic affairs of others, however much they try to keep them private.
+- **[The Captain](../../mixed/magic/lore/The_Captain.md)** - You feel driven to challenge others to act upon their unspoken ambitions and to assist them in achieving their goals when they align with yours.
+- **[The Bishop](../../mixed/magic/lore/The_Bishop.md)** - You find it easy to engage in long and intense debates on spiritual matters, especially pertaining to death and what follows it.
+- **[The Doctor](../../mixed/magic/lore/The_Doctor.md)** - It feels natural to answer the questions of others with further questions, carefully guarding your magical knowledge behind a cryptic façade.
+- **[The Prince](../../mixed/magic/lore/The_Prince.md)** - It feels easy to fall silent in conversations and watch the faces and gestures of others, spotting the lies they tell and the ways in which they can be manipulated.
+
+Finally, any League or Urizen magician whose personal resource is in Spiral who possesses the [Night lore](../../out-of-character/rules/Magical_skills.md#ritual-lores) skill, gains one additional effective rank to all Night rituals cast this summit, subject to the [normal rules for effective skill](../../out-of-character/rules/Magical_skills.md#gaining-additional-ranks).
+
+> *In-character text:*
+>
+> Books are like people.  
+> When they're open, they're red.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [387YE Autumn](../../indexes/by-category/387YE_Autumn.md), [Recent History](../../indexes/by-category/Recent_History.md), [Winds of Magic](../../indexes/by-category/Winds_of_Magic.md)

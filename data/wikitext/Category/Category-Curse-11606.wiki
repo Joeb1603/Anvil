@@ -1,0 +1,5 @@
+<div style="float:right; width: 550px; clear: left;">{{CaptionedImage|file=DOOOOM.jpg|align=left|caption=Many ritual curses are delivered with a damning indictment culminating in a terrible denunciation of their target.|width=550}}</div>
+==Overview==
+A curse is a persistent, harmful magical effect. Imperial lore contains many rituals that create curses. Most are not illegal although their use is overseen by the Imperial Conclave. Many eternals have been known to curse those who cross them, but curses can also be caused by malign magical creatures and sometimes just by exposure to magical forces that have run amok.
+
+A target may be under any number of different curses at once.

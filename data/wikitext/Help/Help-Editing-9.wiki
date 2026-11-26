@@ -1,0 +1,17 @@
+==Special Pages==
+* [[Special:WhatLinksHere|What Links Here]]
+
+==Mediawiki Help==
+* [[Help:Formatting]]
+* [[Help:Links]]
+* [[Help:Images]]
+* [[Help:Tables]]
+* [[Help:Categories]]
+
+==Empire wiki Help==
+* [[Help:Adding A Page]]
+* [[Help:Editing Empire Navigation]] - Top and side menus.
+* [[Help:Editing Breadcrumbs]] - The trail along the top of the page.
+* [[Help:Empire Extras]] - Additional formatting, IC text, stub pages, pull-out boxes, buttons, captioned images and all sorts.
+
+[[Category:Help]]

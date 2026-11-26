@@ -1,0 +1,28 @@
+==Overview==
+The Custodian of the Printers' Guild Mausoleum is an [[Imperial title]] that has custodianship of the [[#Printers' Guild Mausoleum|Printers' Guild Mausoleum]], commissioned by the [[Chair of the Wolf]], '''Gustavus Tolski van Temeschwar''', at the Spring Solstice 386YE.
+
+During the Spring Equinox 388YE, '''Taddea Ginori''', as Chair of the Wolf, announced the [[Construct Grand Guildhouse of the Printers' Guild|construction]] of the [[Tassato#Torch_of_Truth|Grand Guild of the Printers' Guild]], informally known as the ''Torch of Truth'', in Tassato Mestra. The guildhouse has encouraged more visitors to the mausoleum, changing its [[#Profits from the Mausoleum|income]].
+
+==Responsibilities==
+The Custodian has no particular responsibilities; they simply receive a steady income from the Mausoleum. If the Mausoleum were to be threatened in any way, it would be the responsibility of the Custodian to deal with those threats.
+
+==Powers==
+===Profits from the Mausoleum===
+The Printers' Guild Mausoleum draws visitors from across the League. These wealthy visitors often purchase writings, opinion pieces, and essays from the mausoleum, and the Custodian receives an income of 24 crowns each season.
+
+==Appointment== 
+The Custodian is appointed by unanimous decision of the [[senator|senators]] of [[the League]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead. 
+
+The title can be held by a citizen of the League. The Custodian has [[tenure]], and serves until they die or step down. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the League [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+{{RecentElections|Custodian_of_the_Printers%27_Guild_Mausoleum}}
+==Printers' Guild Mausoleum==
+Amongst the warehouses and busy printworks of Mestra stands the Printers' Guild Mausoleum. Built adjacent to the Printers' Guild Museum, it is a lasting legacy to the printed word and those involved in its proliferation. Built in an elaborate gothic style under the guidance of noted polymath ''Ivo Shando Von Holberg'', it is swathed with torches, burning to keep the rolling fog of the Vassa at bay. Replete with the symbolic representations of the Labyrinth, this impressive structure  is designed in a way to assert authority on the city.
+
+Great polished metal friezes wrap around the building, depicting masked figures that gather and spread the written word. From notetaking and typesetting to cranking the press and distributing to libraries, universities, and booksellers throughout the Empire and beyond, every detail is picked out on the silver surface.
+
+Cunningly worked into the designs are some of the most popular titles of the Printers' Guild: ''The Prince’s Pledge''; ''Meditations on Magic''; ''Taddea’s Theorems; Revelations Treasures and Truths''; ''Bean Haggler''; ''Casamir’s Guide to Pubs and Pubbing''; ''Fertility and when to Sheath''; ''Engineering'' by Director of the Wunderkind; ''How to Solo Autumn''; ''Nadia’s Guide to Wine and Hangover Cures''; ''Carmine - So You Chose to Adventure'', and most prominent of all, ''A Torchbearer's Journey''.
+
+Above all the detail and finery, stands the proud figure of the Silver Mask, gazing towards distant mountains.
+{{Responsibilities Expectation}}
+[[Category:Title]][[Category:The League]]

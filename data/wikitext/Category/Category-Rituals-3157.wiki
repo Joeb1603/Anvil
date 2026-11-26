@@ -1,0 +1,13 @@
+[[Category:Magic]]
+==Ritual Summaries by Realm==
+<row-fluid><span3>
+*Rituals of [[:Category:Spring_Ritual|Spring]]
+*Rituals of [[:Category:Summer_Ritual|Summer]]
+</span3><span3>
+*Rituals of [[:Category:Autumn_Ritual|Autumn]]
+*Rituals of [[:Category:Winter_Ritual|Winter]]
+</span3><span3>
+*Rituals of [[:Category:Day_Ritual|Day]]
+*Rituals of [[:Category:Night_Ritual|Night]]
+</span3></row-fluid>
+{{pdf}}

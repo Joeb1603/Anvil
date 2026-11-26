@@ -1,0 +1,5 @@
+{{ItemTable|Magic_Standard}}
+==Magic Standards==
+A magic standard is a specific type of [[Magic items#Talisman|talisman]]. The phys-rep must be a banner or standard that is carried in the hand: it cannot be a back-banner or tabard. The banner pole must be at least 60" long, and the standard must be six square feet or more in area and at least one foot in any dimension (for example a 24" by 36" banner, or a 12" wide, 72" long pennant). You can include decorative additions to banners that are close to the minimum size to make them meet the requirements.
+
+A standard must be wielded in at least one hand or it has no effect. You may not use a magic standard in the same hand as a shield or weapon. Regardless of construction, a standard cannot be used as a weapon nor may it be used to parry.

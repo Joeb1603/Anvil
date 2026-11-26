@@ -1,0 +1,17 @@
+==Overview==
+The Keeper of the Iron Grove is an [[Imperial title]] appointed by the [[senator|senators]] of [[Wintermark]]. The Keeper has custodianship of the Iron Grove, a garden [[386YE_Spring_Equinox_Senate_sessions#Construct_Iron_Grove|announced]] by '''Wren Ironclaw''', as [[Bearer of an Imperial Wayleave]], during the Spring Equinox 386YE. Construction was completed shortly before the 386YE Summer Solstice.
+__NOTOC__
+==Responsibilities==
+The Keeper of the Iron Grove has a responsibility to protect the Iron Grove and to ensure the safety of those visiting. If the Iron Grove, or its visitors,  were to be threatened it would be the responsibility of the Keeper to deal with those threats.
+
+==Powers==
+===Produce of the Grove===
+The Keeper receives an income of herbs each season: 5 drams of [[bladeroot]], 4 drams of [[True Vervain|true vervain]], 4 drams of [[Imperial Roseweald|Imperial roseweald]], 3 drams of [[marrowort]] and 2 drams of [[Cerulean Mazzarine|cerulean mazzarine]].
+
+==Appointment== 
+The Keeper of the Iron Grove is appointed by unanimous decision of the [[Wintermark]] [[senator|senators]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead. 
+
+The title can be held by a Wintermark citizen. The Keeper has [[tenure]], and serves until they die or step down. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Wintermark [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Keeper_of_the_Iron_Grove}}
+{{Responsibilities Expectation}}
+[[Category:Title]][[Category:Wintermark]]

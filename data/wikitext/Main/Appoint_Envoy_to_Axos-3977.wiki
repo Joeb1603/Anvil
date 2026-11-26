@@ -1,0 +1,26 @@
+<ic>That one of the nominees should be given the imperial title Envoy to Axos.<br><br>''Procedural Motion.''</ic>
+
+===Overview===
+* This motion is a reference to an earlier Senate motion to [[Send_envoy_to_Axos|send an envoy to Axos]].
+
+===Date===
+* Winter 377YE
+
+===Nominees===
+* Valimar Clarev Parakgoosier Bashnya ([[The League|League]])
+* Marissa Shatterspire ([[Urizen]]) 
+
+===Campaign Outcome===
+Valimar Clarev Parakgoosier Bashnya was appointed envoy to [[Axos]].
+
+===Voting===
+{| class="wikitable"
+|-
+! State !! Valimar !! Marissa !! Result
+|-
+| For position || 20 || 7 || Valimar
+|}
+
+[[Category:Senate Motion]]
+[[Category: 377YE Winter]]
+__NOTOC__

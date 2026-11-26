@@ -1,0 +1,264 @@
+<div style="float:right; width: 600px; clear: right;">{{CaptionedImage|file=Sunday Senate SE384.jpg|caption=The [[Senate]] is to govern the Empire.|align=right|width=600}}</div>
+==Overview==
+The [[Senate]] governs the Empire, and its authority extends to all areas of Imperial life not already covered by the other houses of government. Each summit the [[senator|senators]] meet several times to deliberate and vote on the [[Senate motion|motions]] they have raised. 
+
+After the summit the civil service enact those motions, and ensure a public record of each is made available to the citizens of the Empire. This page lists all the motions raised during the summit, along with the [[Senate announcement|announcements]] made by citizens with [[Imperial title|Imperial titles]]. In each case, the motion and its effects are summarised including the wording; who proposed and seconded it; whether it passed or not; whether any funds were disbursed to support it; and what the outcome of the motion will be.
+
+Many motions (especially the [[commission|commissions]]) also have a ''Further Details'' section that provides a link to a wiki page dealing specifically with that motion in more detail, any commentary from the [[Scrutiny|Constitutional Court]], progress on commissions, or expanded information about the outcome of the motion.
+
+==Treasury==
+* Imperial treasury during this season was announced by the civil service at 2612 thrones and 2 crowns.
+* The following has been donated to the Imperial treasury:
+** 28 thrones donated to the treasury by  '''Magdalena Teyhard von Holberg''' after the Spring Equinox 384YE
+
+==Administrative Motions==
+Two administrative motions raised by the Constitutional Court were presented during the Spring Equinox.
+===Abrogate Grimnir of Wittal Grove===
+* '''Motion:''' To abrogate the title "Grimnir of Wittal Grove" as detailed on the motion to construct the [[Construct_Healing_House_of_Wittal_Grove#Constitution|Healing House of Wittal Grove]]. Raised by the [[Speaker for the Senate]].
+* '''Failed'''
+* '''Outcome:''' The Senate chose not to abrogate the title; as such the title has been amended to reflect that it "is intended specifically to be held by a grimnir".
+__TOC__
+===Amend Talon of Kauppahall===
+* '''Motion:''' To amend the title "Talon of Kauppahall" to be appointed by the Tally of the Votes. Raised by the [[Speaker for the Senate]].
+* '''Passed'''
+* '''Outcome:''' The [[Talon of Kauppahall]] title was duly amended to be appointed by [[Tally of the Votes]]
+==Senate Motions==
+===Abrogate Moonwater Hall===
+* '''Motion:''' To abrogate the Moonwater Hall in Upwold. Proposed: [[Reikos#Recent_Senate_Elections|Reikos]], Seconded: [[Semmerholm#Recent_Senate_Elections|Semmerholm]].
+* '''Passed'''
+* '''Outcome:''' [[Powers_of_the_Imperial_Senate#Abrogation|Abrogates]] the [[Faraden]] [[Construct trade hub in Upwold|trade hub]] in [[Upwold]]. 
+* '''Further Details:''' [[Abrogate Moonwater Hall|Here]].
+===Acknowledge debt to Butchers Bank===
+* '''Motion:''' The Senate acknowledges the debt to the Butchers Bank. Proposed: [[Holberg#Recent_Senate_Elections|Holberg]]. Seconded: [[Tassato#Recent_Senate_Elections|Tassato]].
+* '''Withdrawn'''
+* '''Further Details:''' While the motion was withdrawn, the [[Scrutiny#Constitutional_Court|Auditor of the Imperial Treasury]], wished to provide additional guidance. In the event that the motion had been raised and passed, the Senate would have needed to [[Motion_wording#Disbursement|disburse]] funds in the usual fashion as for any other motion. Acknowledging the debt in this case would not empower payment from the treasury; the Senator for Holberg would have been responsible for discharging the debt (just as with any other disbursement).
+===Amend Imperial Magus===
+* '''Motion:''' I propose a motion to amend the powers of the Imperial Magus to allow for 1 declaration per meeting of the Conclave to supersede the usual running order of the conclave for the usual cost of 1 mana crystal to allow smoother discourse between Conclave and Senate. As supported by a declaration of Concord. Proposed: [[Morrow##Recent_Senate_Elections|Morrow]]. Seconded: [[Reikos#Recent_Senate_Elections|Reikos]]
+* '''Passed'''
+* '''Outcome:''' The title of [[Imperial Magus]] was amended with a [[Imperial Magus#The Magus' Precedence|new power]], but the motion was subject to additional [[scrutiny]].
+* '''Further Details:''' [[Amend Imperial Magus|Here]].
+
+===Amend Lepidean True Liao distribution===
+* '''Motion:''' To amend how True Liao which is produced by the Lepidean University. From a judgement of rewarding the General Assembly to assigned by Gatekeepers for distribution. Proposed: [[Conscience_of_the_Senate#Recent_Elections|Conscience of the Senate]]. Seconded: [[Hahnmark#Recent_Senate_Elections|Hahnmark]].
+* '''Failed'''
+===Amend membership of virtue assemblies===
+* '''Motion:''' Every path to virtue should be supported, human and orc alike. Senate requests that membership of virtue assemblies should be assessed by civil service along votes and liao calculation, not dedication. Proposed: [[Therunin#Recent_Senate_Elections|Therunin]]. seconded: [[Skarsind#Recent_Senate_Elections|Skarsind]].
+* '''Passed'''
+* '''Outcome:''' This motion changes the way that membership of assemblies in the synod are determined as detailed in the  '''[[Making_your_mind_up#Making_the_Change|Making your mind up]]''' wind of fortune. Priests of all nations who [[Congregation#Downtime Options|preach]] a specific virtue, or the tenets of the Way, can change which [[Virtue assembly]] they belong to between summits.
+
+===Appraise Grendel prisoners===
+* '''Motion:''' To tell the civil service to conduct an appraisal of individual known to have been captured by the Grendel so that the Fleetmaster can request the return of those individuals in line with the Grendel Treaty. Proposed: [[Necropolis#Recent_Senate_Elections|Necropolis]]. Seconded: [[Temeschwar#Recent_Senate_Elections|Temeschwar]].
+* '''Failed'''
+
+===Appraise slave uprising in Sarangrave===
+* '''Motion:''' To commission Graciana i Lopez i Guerra to appraise an opportunity for Imperial Citizens to use the spy network in Sarangrave to incite, coordinate & support slave uprising and raids in that territory, for the purpose of causing economic and military damage to the Druj. Proposed: [[Temeschwar#Recent_Senate_Elections|Temeschwar]]. Seconded: [[Redoubt#Recent_Senate_Elections|Redoubt]]
+* '''Passed'''
+* '''Outcome:''' The results of the [[appraisal]] can be found in the [[Make it happen]] wind of fortune.
+
+===Create Grandmaster of Apothecaries Guild===
+* '''Motion:''' A motion to create a new Imperial sodality called the Apothecaries Guild. Purpose to act as an advisory body to the Senate and Conclave to be consulted regarding the legal and illegal use of herbs, potions and substances (not including liao and true liao) through the Empire. It shall be led by the Grandmaster of the Apothecaries Guild. To be elected in Winter and held for 1 year. Revocable by the General Assembly and the Assembly of the Nine. Proposed: [[Karsk#Recent_Senate_Elections|Karsk]]. Seconded: [[Miekarova#Recent_Senate_Elections|Miekarova]].
+* '''Failed'''
+
+===Criminalize Hand of Dumon===
+* '''Motion:''' To make membership and aiding of the Hand of Dumon illegal, and to denounce this cabal of heretics. Proposed: [[Miaren#Recent_Senate_Elections|Miaren]]. Seconded: [[Hercynia#Recent_Senate_Elections|Hercynia]].
+* '''Passed'''
+* '''Outcome:''' Membership of, or support  for, the Hand of Dumon is now a [[List_of_Criminal_Offences#Crimes_of_Position|crime]] in the Empire.
+* '''Further Details:''' [[Criminalize Hand of Dumon|Here]].
+
+===Disburse funds for resupply===
+* '''Motion:''' Motion for disbursement of funds to Orrick of Bregasland for military and magical resupply. Proposed: [[Bregasland#Recent_Senate_Elections|Bregasland]]. Seconded: [[Mournwold#Recent_Senate_Elections|Mournwold]].
+* '''Passed''' at 400 thrones
+* '''Outcome:''' 400 Thrones [[Motion_wording#Disbursement|disbursed]] to the Senator for Bregasland.
+
+===Disburse funds to Academy===
+* '''Motion:''' Disbursement of funds to the Academy, to be spent on training children of the Empire. Accounts to be provided by the Academy to Auditor for Senatorial Accountability on request. Proposed: [[Casinea#Recent_Senate_Elections|Casinea]]. Seconded: [[Holberg#Recent_Senate_Elections|Holberg]]
+* '''Passed''' at 50 thrones
+* '''Outcome:''' 50 Thrones [[Motion_wording#Disbursement|disbursed]] to the Senator for Casinea.
+===Disburse funds to the Imperial Seer===
+* '''Motion:''' To disburse Senate funds intended for Jorma Steelhail, the Imperial Seer, for the purpose of scrying. Proposed: [[Kallavesa#Recent_Elections|Kallavesa]]. Seconded: [[Casinea#Recent_Elections|Casinea]].
+* '''Passed''' at 80 thrones
+* '''Outcome:''' 80 Thrones  [[Motion_wording#Disbursement|disbursed]] to Senator for Kallavesa.
+===Disseminate Lowther's Gaze===
+* '''Motion:''' To disseminate the following schema to be made available to artisans across the Empire: Lowther's Gaze. Proposed by [[Mitwold#Recent_Senate_Elections|Mitwold]]. Seconded by [[Upwold#Recent_Senate_Elections|Upwold]].
+* '''Cost:''' 10 thrones
+* '''Passed'''
+* '''Outcome:''' 10 Thrones paid by the Senate to disseminate knowledge of [[Lowther's Gaze]] to Imperial [[Crafting skills#Artisan|artisans]]. The [[Magic_items#Schema|schema]] was provided and used up in the process.
+===Establish the Ketsov Mir Mozga===
+* '''Motion:''' To invite the people of Ketsov to establish a vale in Mir Mozga. Proposed: [[Karov#Recent_Senate_Elections|Karov]]. Seconded: [[Ossium#Recent_Senate_Elections|Ossium]].
+* '''Passed'''
+* '''Outcome:''' The Ketsov family of Ossium will establish [[Karsk#Ketsov Mir Mozga|a vale]] in [[Karsk]] around the [[Karsk_spoils_of_war#Mir_Mozga|Mir Mozga]] as outlined in the '''[[Blood_makes_noise#Ketsov_Mir_Mozga|Blood makes noise]]''' wind of fortune. The [[Burgher of Ketsov#The Ketsov Family|Ketsov]] have now settled in Karsk, and the [[Karsk#Ketsov_Mir_Mozga|Ketsov Mir Mozga]] established. The titles of [[Burgher of Ketsov]] and [[Custodian of Ivarsgard Docks]] now have the option to purchase [[dragonbone]] and other [[forest]] resources.
+
+===Improve Towerjacks===
+* '''Motion:''' To disburse funds to improve the Towerjacks providing the Engineer quality. Proposed: [[Astolat#Recent_Senate_Elections|Astolat]], Seconded: [[Conscience of the Senate#Recent_Elections|Conscience of the Senate]].
+* '''Passed''' at 140 Thrones
+* '''Outcome:''' 140 Thrones [[Motion_wording#Disbursement|disbursed]] to the Senator for Astolat.
+* '''Further Details:''' [[Improve Towerjacks|here]].
+===Propose treaty with Axos===
+* '''Motion:''' Motion to empower the Ambassador to Axos to offer the following treaty which will be executed immediately if accepted by Ilarch Maxatios. Proposed: [[Sarvos#Recent_Senate_Elections|Sarvos]]. Seconded: [[Madruga#Recent_Senate_Elections|Madruga]].
+* '''Passed''' but see [[Propose treaty with Axos Spring 384YE#Constitution|Constitutional Concerns]]
+* '''Outcome:''' The Constitutional Court expressed reservations about this motion during [[scrutiny]].
+* '''Further Details:''' [[Propose treaty with Axos Spring 384YE|Here]]
+
+===Raise the Burning Falcon===
+* '''Motion:''' To commission the raise of a Freeborn army, the Burning Falcon. The General of the Burning Falcon shall hold the Flame Rampant banner as their regalia. We request a disbursement of funds from the Senate for this commission. Proposed: [[Madruga#Recent_Senate_Elections|Madruga]]. Seconded: [[Miaren#Recent_Senate_Elections|Miaren]].
+* '''Passed''' at 250 thrones
+* '''Outcome:''' A new [[the Brass Coast|Brass Coast]] [[Army|army]] will be raised.
+* '''Further Details:''' [[Raise Burning Falcon|Here]]
+===Share wealth of Lomaa===
+* '''Motion:''' To permanently give up the benefits of expanding the Crawling Depths, and instead share the wealth of the Lomaa to spread Prosperity across Ossium. Proposed: [[Miekarova#Recent_Senate_Elections|Miekarova]]. Seconded: [[Karsk#Recent_Senate_Elections|Karsk]].
+* '''Passed'''
+* '''Outcome:''' This motion removes the ability for the Senate to [[Crawling_Depths#Overhauling_the_Mine|improve]] the [[Crawling Depths]] [[mithril]] mine in favour of providing benefits to the citizens of [[Ossium]], as detailed in the '''[[Blood_makes_noise#Sharing_the_Wealth|Blood makes noise]]''' wind of fortune. This removes the [[Ossium#Underpopulated|Underpopulated]] quality from the [[Ossium#Drownbark_Forest|Drownbark Forest]].
+
+==Appointments==
+The procedures followed for an [[appointment by the Senate]] mean that sometimes the motion to appoint a title will be raised at one summit, and voted on at the next. During the Spring Equinox, this was the case with both the [[#Ambassador to Otkodov|Ambassador to Otkodov]] and [[#Ambassador to the Commonwealth|Ambassador to the Commonwealth]].
+===Ambassador to Otkodov===
+* '''Motion:''' To appoint an Ambassador to the Thule. Proposed: [[Morrow#Recent_Senate_Elections|Morrow]]. Seconded: [[Miekarova#Recent_Senate_Elections|Miekarova]]
+* '''Passed'''
+* '''Outcome:''' Yevgeni Katzev of [[Varushka]] was elected to the title [[Ambassador to Otkodov]]
+* '''Further Details:''' This motion was initially raised during the final Senate session of the Winter Solstice summit, and appointed as first order of business during the Spring Equinox.
+
+===Ambassador to the Commonwealth===
+* '''Motion:''' To appoint an Ambassador to the Commonwealth. Proposed: [[Therunin#Recent_Senate_Elections|Therunin]]. Seconded: [[Upwold#Recent_Senate_Elections|Upwold]]
+* '''Passed'''
+* '''Outcome:''' Lucia Sanguineo Rezia di Tassato of [[the League]] was elected [[Ambassador to the Commonwealth]].
+* '''Further Details:''' This motion was initially raised during the final Senate session of the Winter Solstice summit, and appointed as first order of business during the Spring Equinox.
+===Ambassador to Faraden===
+* '''Motion:''' To appoint an Ambassador to Faraden. Proposed: [[Upwold#Recent_Senate_Elections|Upwold]]. Seconded: [[Mitwold#Recent_Senate_Elections|Mitwold]] 
+* '''Passed'''
+* '''Outcome:''' Erasmo di Tassato of [[the League]] was elected as [[Ambassador to Faraden]].
+===Ambassador to Sumaah Republic===
+* '''Motion:''' Elect Ambassador to Sumaah Republic. Proposed: [[Segura#Recent_Senate_Elections|Segura]]. Seconded: [[Necropolis#Recent_Senate_Elections|Necropolis]].
+* '''Passed'''
+* '''Outcome:''' Accalon of Felix's Watch of [[Highguard]] was elected [[Ambassador to the Sumaah Republic]]
+===Imperial Spymaster===
+* '''Motion:''' Appointment of the Imperial Spymaster. Proposed: [[hercynia#Recent_Senate_Elections|Hercynia]]. Seconded: [[Therunin#Recent_Senate_Elections|Therunin]]
+* '''Passed'''
+* '''Outcome:''' Bernard Dugdale of [[the Marches]] was elected as [[Imperial Spymaster]].
+
+==Commissions (Senate)==
+The Senate can commission nine projects during the course of a single summit. Certain [[Imperial title|Imperial titles]] such as the [[Imperial Spymaster]], [[Imperial Master of Works]], and [[Arcane Architect]] have the ability to [[Senate announcement|announce]] commissions without a Senate vote.
+===Expand College of Warcasting===
+* '''Motion:''' To amend the title of Preceptor of the Warcaster College of Skarsind to include a ministry and to change how it is appointed to the Bourse voting style of the Imperial Orcs. Proposed: [[Skarsind#Recent_Senate_Elections|Skarsind]]. Seconded: [[Weirwater#Recent_Senate_Elections|Weirwater]]
+* '''Passed'''
+* '''Outcome:''' Expands the [[Preceptor_of_the_Skarsind_College_of_Warcasting#Skarsind_College_of_Warcasting|Skarsind College of Warcasting]], and amends how the title is [[Preceptor_of_the_Skarsind_College_of_Warcasting#Appointment|appointed]]. This opportunity was laid out in the '''[[Tired_of_sleeping#The_College_of_Warcasting|Tired of sleeping]]''' wind of fortune
+*'''Further Details:''' [[Expand College of Warcasting|Here]]
+===Construct Bounders Hall===
+* '''Motion:''' To construct a Bounders Hall in Sarcombe to be overseen by a Bailiff of the Downs. This will costs twelve wains of white granite to build. Proposed [[Mournwold#Recent_Senate_Elections|Mournwold]]. Seconded: [[Bregasland#Recent_Senate_Elections|Bregasland]].
+* '''Passed''' at 13 Thrones
+* '''Outcome:''' Creates a Bounders Hall in [[Mournwold#Sarcombe|Sarcombe]], as proposed in the '''[[Tend_to_the_Flame#Meet_All_Their_Needs|Tend to the flame]]''' Wind of Fortune. Once work on the hall is completed the [[Imperial title|title]] of ''Bailiff of the Downs'' will be available to be appointed
+* '''Further Details:''' [[Construct Bounders Hall|here]].
+
+===Construct Churnspire===
+* '''Motion:''' I propose that a motion that a folly be built in Peregro and then ceded to Meraud. This tower will be taller than Pakaanan's Pass as per designed by Megaris of Glowspire. It will create the position of Churnspire Adjutor, an Urizeni national position elected by the mages of Urizen. The position would receive regalia from Meraud and a regular gift of mana. Proposed: [[Bastion#Recent_Senate_Elections|Bastion]]. Seconded: [[Morrow#Recent_Senate_Elections|Morrow]]
+* '''Passed''' at 100 Thrones
+* '''Outcome:''' Constructs a tower in [[Morrow#Peregro|Peregro]], in [[Morrow]], as proposed by the [[eternal]] [[Meraud]]. Details of the opportunity can be found in the  '''[[The_Net_of_the_Realms#A_Spire_for_Summer|The Net of the Realms]]''' wind of fortune. Once the tower is complete, the [[Imperial title|title]] of ''Churnspire Adjutor'' will be available to be appointed.
+* '''Further Details:''' [[Construct Churnspire|here]].
+===Construct Great Harbour of Elos===
+* '''Motion:''' To disburse funds for and commission the restoration of the Great Harbour of Elos in Redoubt, a great work yielding prosperous returns to the territory and the tax budget. Overseen by the Elosian Architect, an Imperial title appointed by Imperial Bourse Auction, with the right to purchase foreign herbs. Proposed: [[Volodmartz#Recent_Senate_Elections|Volodmartz]]. Seconded: [[Sarvos#Recent_Senate_Elections|Sarvos]].
+* '''Passed''' at 300 Thrones
+* '''Outcome:''' Constructs a great harbour in the town of Elos, in the [[Redoubt#Naris|Naris]] region of [[Redoubt]], as proposed in the '''[[To_see_what_you_sell#Restoring_Elos|To see what you sell]]''' wind of fortune. Once complete, the great harbour will allow the [[Imperial title|title]] of ''Elosian Architect'' to be appointed.
+* '''Further Details:''' [[Construct Great Harbour of Elos|Here]].
+===Construct Grendel Embassy===
+* '''Motion:''' To amend the title of Imperial Fleetmaster by constructing an embassy to the Grendel in Cargo. It costs 25 weirwood and 25 white granite. Proposed: [[Redoubt#Recent_Senate_Elections|Redoubt]]. Seconded: [[Kahraman#Recent_Senate_Elections|Kahraman]].
+* '''Passed''' at 0 Thrones
+* '''Outcome:''' Once completed the [[Imperial Fleet Master]] will have access to the standard benefits of an [[embassy]].
+* '''Further Details:''' [[Construct Grendel Embassy|Here]].
+===Construct Hufi's Garden===
+* '''Motion:''' (''To construct Hufi's Garden, and create the title Woundbinder of the Mark.'' You can find the full text of this motion [[Construct Hufi's Garden|here]].) Proposed: [[Hahnmark#Recent_Senate_Elections|Hahnmark]]. Seconded: [[Kallavesa#Recent_Senate_Elections|Kallavesa]].
+* '''Passed''' at 80 thrones
+* '''Outcome:''' Once work on the hall is completed the title of ''Woundbinder of the Mark'' will be available to be appointed. This opportunity is detailed in the '''[[All_lift_together#Helping_Asny|All lift together]]''' wind of fortune.
+* '''Further Details:''' [[Construct Hufi's Garden|Here]].
+
+===Construct Sanctuary for Justicars===
+* '''Motion:''' To build a sanctuary for justicars on the isle of Osseini. This will create the title "Justicar of Osseini" and be ministry for exorcism, cost 15 wains of white granite and 30 crowns. 30 crowns to be provided by High Exorcist. Proposed: [[Kahraman#Recent_Senate_Elections|Kahraman]]. Seconded [[Bastion#Recent_Senate_Elections|Bastion]].
+* '''Passed''' at 70 Thrones
+* '''Outcome:''' Creates a sanctuary for the [[Bones_in_the_ocean#Game_Information_:_Justicars|justicars]] on the [[Feroz#Isle_of_the_Osseini|Isle of the Osseini]] in [[Feroz]]. Details of this opportunity are provided in the '''[[Bones_in_the_ocean#The_Sanctuary_of_the_Justicars|Bones in the ocean]]''' wind of fortune. Once complete the sanctuary would allow the [[Imperial title|title]] ''Justicar of Osseini'' to be appointed.
+* '''Further Details:''' [[Construct Sanctuary for Justicars|Here]].
+===Extend Iron Roads===
+* '''Motion:''' To expand the Iron Roads project into Ossium and to request the disbursement of funds for this project. Proposed: [[Ossium#Recent_Senate_Elections|Ossium]]. Seconded: [[Volodmartz#Recent_Senate_Elections|Volodmartz]].
+* '''Passed''' at 128 Thrones
+* '''Notes:''' Due to the [[Ossium#Under-developed|under-developed]] quality of Ossium, the labour costs of the project are increased by two-fifths.
+* '''Outcome:''' This project will expand the Iron Roads to [[Ossium]]. More details on the opportunity to expand the Iron Roads can be found in the '''[[Thousands_or_more#Roads_of_Iron|Thousands or more]]''' wind of fortune.
+* '''Note:''' This does not require one of the Senate's limited number of commission slots; it expands the time and resources required for an ongoing project. 
+* '''Further Details:''' [[Extend Iron Roads|Here]].
+
+===Expand Grandmaster Ministries===
+* '''Motion:''' There there be a disbursal of funds to upgrade mana ministries in Tassato, Sarvos and Temeschwar, taking advantage of the opportunity to upgrade the grandmasters of the conclave orders respective ministry by so doing. Proposed: [[Tassato#Recent_Senate_Elections|Tassato]]. Seconded: [[Astolat#Recent_Senate_Elections|Astolat]].
+* '''Passed''' at 200 Thrones
+* '''Outcome:''' This project expands the ability of the [[Conclave]] [[grandmaster|grandmasters]] to purchase crystal mana. More details on the opportunity to upgrade of the mana ministries can be found in the '''[[Honey_and_vinegar#Old_Stones|Honey and Vinegar]]''' wind of fortune.
+* '''Further Details:''' [[Expand Mana Ministries|Here]]
+===Construct spy network in Spiral===
+* '''Motion:''' I hereby commission a spy network in Spiral, to be constructed at the Spire of Oblivion's Edge using ten mithril. This spy network will be ceded to the Night eternal Sung, and incurs no ongoing cost to the budget. Announced: [[Imperial Spymaster#Recent_Elections|Imperial Spymaster]].
+* '''Announcement''' - the [[Imperial Spymaster]] can [[Imperial Spymaster#Construct Spy Networks|commission a single spy network]] each season.
+* '''Outcome:''' Commissions a unique [[spy network]] in [[Spiral]] with the assistance of the [[eternal]] [[Sung]]. The opportunity to create this network is detailed in the '''[[The_Net_of_the_Realms#An_Aerie_for_the_Watchers|The Net of the Realms]]''' wind of fortune. During [[scrutiny]] the Constitutional Court spotted a potential problem with this commission, and have raised an [[384YE_Summer_Solstice_Senate_sessions#Administrative|administrative motion]] to be deliberated by the Senate during the Summer Solstice.
+* '''Further Details:''' [[Construct spy network in Spiral|Here]].
+
+==Commissions (Other)==
+In addition to the commissions available to the Imperial Senate, two further commissions can be made by a [[Bearer of an Imperial Wayleave]], one commission can be made by the [[Legion Engineer]], and one commission can be made by the [[Master of the Koboldi]]. In each case the commissions are [[Senate announcement|announced]] in the Senate before construction can begin.
+===Construct Pelican Tower===
+* '''Motion:''' Self-funded to build a sinecure in Foracci known as the Pelican Tower, the custodian of which will be known as the Custodian of the Pelican Tower. Appointment as a tenure position (until death, resignation, or reallocation) by the Senators of the League
+* '''Announced''' by Achille di Sarvos, [[Bearer of an Imperial Wayleave]]
+* '''Outcome:''' Once completed, the [[Imperial title|title]] of ''Custodian of the Pelican Tower'' will be available to be appointed.
+* '''Further Details:''' [[Construct Pelican Tower|here]].
+<!--
+"The Pelican Tower is the fifth project of Red Raven Holdings, a building society specialising in the construction of sinecures.
+
+Upstream from Rodez and along the banks of the tranquil Gancio, the Pelican Tower stands like a lonely lighthouse, to guide travellers by both boat and road. The white-washed walls gleam in the sunlight and can be seen for miles amongst the vineyards and olive groves of northern Sarvos. Situated as it is along a natural ley line, it serves as both a source of natural mana and also as comfortable lodgings for the Carta Bellamarina, one of the most ancient of Caricomare Guilds. Carved above the entrance is Bellamarina’s Crest, a white pelican on a shield of Burgundy and Turquoise, representing the Carta’s motto “By Blood and Brine”. 
+
+The ground floor hosts a spacious meeting place for the Carta, filled with memorabilia from its past, leaving visitors in no doubt that of their exquisite handiwork in chandlery, sailmaking, ironwork, ropemaking and their history of investing in shipping. A beautifully hand-crafted model of one of the Carta’s largest ships adorns a table in the centre of the main lobby, carved with nautical patterns of compasses and distant shores. Within the back chambers, an old, stone fireplace dredged from the Bay of Catazar, dominates the room. It originally belonged to the old Guild Palace from the Caricomare which sank during the flooding 45 years ago and now stands as a monument to persistence. Paintings of the new Guild Palace embellish the walls.
+
+The upper levels can be reached by a graceful spiral staircase that winds its way along the inner walls, brining the weary traveller to the sleeping quarters. On the first landing visitors have to navigate their way past the watchful eye of Madame Delphine Emmanuelle Svorsa, the grand dame of the guild, within a floor to ceiling portrait. A cambion, she has an unmistakeable countenance. The sleeping quarters are comfortable and serviceable, a welcome retreat for Carta members to escape from the bustle of the city.
+
+Further still can be found the quarters of the custodian of the tower, responsible for its maintenance and collecting the valuable mana that can be found within. At the top of the tower, gleaming foci of mithril stream light blazing into a chamber at the very heart of the uppermost room. A constant glow emits from the chamber, christening its local name as the lantern room and further enhancing its image of a lighthouse. The mana pools within the central chamber and crystalises in a pure white variant, almost as if it had captured the sun."
+
+
+Cheers,
+
+Jim
+
+(IC: Giacomo Corvinoscuro)
+-->
+
+===Construct Twilight Demesne===
+* '''Motion:''' Commissioning a mana sinecure to be overseen by the Curator of the Twilight Demesne in Skarsind
+* '''Announced''' by Palerictus Ka'bal, [[Legion Engineer]]
+* '''Outcome:''' Once work on the tower is completed the title of [[Curator of the Twilight Demesne]] will be available to be appointed
+* '''Further Details:''' [[Construct Twilight Demesne|Here]].
+===Expand Docks at Korotny===
+* '''Motion:''' To enlarge and expand the docks at Korotny and create the title of Harbourmaster of the Semmerlak
+* '''Announced''' by Pavel Novak, [[Bearer of an Imperial Wayleave]]
+* '''Outcome:''' Constructs a significant expansion to the Korotny docks in [[Karsk]]. More information on the opportunity to expand the docks at Korotny can be found in the '''[[Apples_from_a_tree#A_Ripple_On_the_Lake|Apples from a tree]]''' wind of fortune
+* '''Further Details:''' [[Expand the Docks at Korotny|Here]].
+===Improve Court of the White Fountain===
+* '''Motion:''' I, Sagua i'Ezmara, Master of the Koboldi, am announcing the plans to improve the Court of the White Fountain in Redoubt in order to make it unbreakable. Edmundo of Damakhan's Forge has agreed to supply the ilium required. Cato Auricspire of the Scarlet Guard is organising the casting of the ritual on its completion. As part of this improvement there will be a small office and suit of rooms provided for the Captain of the Fountain's Guard, a tenured national position chosen by the general(s) of Urizen. This title will be responsible for the fortress and the morale and training of the guards stationed there.
+* '''Announced''' by Sagua i'Ezmara, [[Master of the Koboldi]]
+* '''Outcome:''' In conjunction with the [[eternal]] [[Adamant]], improves the [[Redoubt#Court of the White Fountain|Court of the White Fountain]] in [[Redoubt]]. This special [[opportunity]] is detailed in the '''[[Stone_and_stone#Girdle_the_Flame|Stone and stone]]''' wind of fortune.
+* '''Further Details:''' [[Improve Court  of the White Fountain|Here]].
+
+==Announcements==
+===The Breadbasket===
+* '''Motion:''' As the Citadel Guard does not need the Bread Basket this season, and no other army is eligible or requesting the help it would provide, in recognition of the sacrifices made by the Marchers as a whole, and by Bregasland farmers and citizens especially, I hereby allocate the Bread Basket and the prosperity it provides to the Marcher territory of Bregasland. May it help to alleviate its citizens' suffering.
+* '''Announced''' by Lily Guildenstern, [[Keeper of the Breadbasket]]
+* '''Outcome:''' The instructions have been received by the Civil Service.
+* '''Further Details:''' [[Assign Breadbasket Spring 383YE|Here]]
+
+===The Imperial Guerdon===
+* '''Motion:''' To assign the Guerdon to the Green Shield, Wolves of War, the Citadel Guard, [[Struggle_with_the_sea#Evacuating_Feroz|the evacuation of Feroz]], surround Hotters Mire, and [[Blood_makes_noise#The_Isember_Problem|the assault on Isember]].
+* '''Announced''' by Rhoswen, [[Quartermaster General of the Imperial Armies]]
+* '''Outcome:''' The [[Military_unit#Imperial_Guerdon|Imperial Guerdon]] was apportioned as indicated.
+===Research Feverwater and the Docks===
+* '''Motion:''' I submit a historical research into the Feverwater and the dock of Terunael origin
+* '''Announced''' by Nathair Autumngale, [[Advisor on the Vallorn]]
+* '''Outcome:''' [[Historical research]] will be undertaken and delivered to the Advisor on the Vallorn during the Summer Solstice.
+
+===Research General Cretatus===
+* '''Motion:''' To conduct historical research into the actions of General Cretatus and their involvement with the 'Claw of the Dragon' with specific reference to the history of the Sword Scholars
+* '''Announced''' by Severin Teyhard von Holberg, [[Minister of Historical Research]]
+* '''Outcome:''' [[Historical research]] will be undertaken and delivered to the Minister of Historical Research during the Summer Solstice.
+===Research Sister Ruth===
+* '''Motion:''' I instruct the Heirs of Lepidus to research the life and example of Sister Ruth of the Seven Stars in order to determine her virtue.
+* '''Announced''' by Jared, [[Lepidean Librarian]]
+* '''Outcome:''' [[Historical research]] will be undertaken and delivered to the Lepidean Librarian during the Summer Solstice.
+[[Category:Senate]]
+[[Category:Senate Sessions]]
+[[Category:384YE Spring]]

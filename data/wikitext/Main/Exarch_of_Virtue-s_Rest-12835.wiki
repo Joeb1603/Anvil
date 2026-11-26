@@ -1,0 +1,21 @@
+==Overview==
+The Exarch of Virtue's Rest is an [[Imperial title]] awarded to a citizen of [[Highguard]]. The motion to remodel Virtue's Rest was [[Remodel Virtue's Rest|passed]] by the [[Senate]] in Winter 386YE. The Exarch of Virtue's Rest is responsible for supporting the supply and provision of Highborn armies, and helping to ready the territory of [[Bastion]] for the war against the vallorn. More information on the opportunity to create this title can be found in the '''[[The war of thorns and flowers]]''' wind of fortune.
+
+==Responsibilities==
+The Exarch of Virtue's Rest has a responsibility to support the supply and provision of [[Highguard_military_concerns#Imperial_Armies|Highborn armies]] and help ready the territory of [[Bastion]] for the war against the [[vallorn]]. In addition, if Virtue's Rest, or the Highborn who run the hostels, were to be threatened in any way, it would be the responsibility of the Exarch to deal with those threats.
+
+==Powers==
+===Virtuous Supply===
+The Exarch of Virtue's Rest receives twelve doses of liao each season.
+
+==Appointment==
+This title is appointed during the Spring Equinox. The Exarch of Virtue's Rest is appointed by citizens of Highguard who control [[congregation]] [[Resource|personal resources]]. The larger the congregation an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Highborn citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+
+{{UnconstitutionalTitle|sodality=Vallornguard}}
+{{CaptionedImage|file=Neri.jpg|caption='''Neri''', Exarch of Virtue's Rest|align=left|width=300}}
+{{RecentElections|Exarch_of_Virtue%27s_Rest}}
+[[Category:Title]] 
+[[Category:Highguard]]
+[[Category:Vallorn]]

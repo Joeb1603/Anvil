@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:385YE Spring]]
+__NOTOC__
+<quote by="Proposed: Kahraman, Seconded: Volodmartz">Commission to rebuild the roads in Kahraman and to build a series of Kamkrag across the territory to allow improved troop movement and defence. This will require 100 white granite, 50 weirwood, and 300 crowns. if the Empire ever cuts trading ties with the Faraden, the Senate will reimburse the Faraden families for the materials they contribute.</quote>
+==Overview==
+* Rebuilds the roads in [[Kahraman]], as detailed in the '''[[Time_and_time_again#Restoring_the_roads|Time and time again]]''' wind of fortune
+* Passed at 200 thrones
+==Date==
+* Spring 385YE
+==Cost==
+* Costs as per wind of fortune
+* 130 wains of white granite
+* 50 wains of weirwood
+* 45 thrones in labour costs
+* Nine months to construct; the project cannot progress while the Lasambrian Jotun have free access to Kahraman (see the [[Against the Jotun#Hill|Against the Jotun]] Wind of War).
+
+==Progress==
+{{CommissionProgress|Roads_of_Kahraman}}
+==Outcome==
+* Due to the [[Against_the_Jotun#Hill|disruption caused by the Lasambrian Orcs]] after the Autumn Equinox, completion on this project has been delayed.
+* The Lasambrian Jotun also seized 10 wains of white granite which will need to be replaced
+* Now complete, the roads of Kahraman have been repaired and a series of Kamkrag have been built throughout the territory that allow Freeborn citizens better access to abundant [[mine|mines]].

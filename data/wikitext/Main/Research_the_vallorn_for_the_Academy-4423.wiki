@@ -1,0 +1,23 @@
+<ic>To allow the Academy to research the origin of the vallorn and for the Civil Service to provide that research.<br><br>''Proposed by Astolat, Seconded by Miaren.''</ic>
+
+===Overview===
+* [[Historical_research|Research project]].
+* Commission research into the [[vallorn]] to be provided to the Academy.
+
+===Date===
+* Passed Autumn 378YE
+
+===Cost===
+* 5 Thrones
+* The senator for Astolat has indicated that this motion will be self funded.
+
+===Progress===
+* 5 Thrones have been provided
+* Information about the vallorn is being compiled
+
+===Campaign Outcome===
+* A report about the vallorn will be provided to Bohemond De Rondell, Senator for [[Astolat]].
+
+[[Category:Senate Motion]]
+[[Category: 378YE Autumn]]
+__NOTOC__

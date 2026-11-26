@@ -1,0 +1,46 @@
+==Overview==
+Normal divination rituals use the power of the realms to glean useful information. The Day realm with its emphasis on predictability, facts, and figures, provides measurements and known quantities. Divinations in other realms are usually similar, providing specific information of interest to that realm, such as the Autumn ritual [[Ties that Bind]] which lets a magician discover details about a bonded item they have an intimate connection with.
+
+Divinations of the Night realm are unusual because the disordered chaotic nature of this realm means that divinations that draw upon it tend to provide unpredictable answers. Responses are often in the form of riddles and symbolic visions, as in the [[Signs and Portents]] ritual. These rituals tend to provide secrets and mysteries, or at least omens of them, as they have been detected by the Night realm. The realm itself makes no attempt to understand or prioritise these secrets, it only perpetuates them.
+
+In neither case is it possible to create a ritual that asks a question of the realm itself. The realms are not sentient and they cannot analyse information to provide conclusions, opinions, or judgements. The only way to create such a ritual is by involving an eternal of that realm. There are only a small number of such rituals currently in Imperial lore, the most notable being [[Swim Leviathan's Depth]] which asks Leviathan to answer a specific question. Leviathan will answer the question, but can only do so based on the knowledge it has. Involving a sentient agent in this way makes it possible to achieve something that would not normally be possible, but at the risk of Leviathan not knowing the answer or even simply being wrong.
+==Arcane Projections==
+* '''You can create an arcane projection to divine information about a specific item'''
+* '''These arcane projections must explicitly identify a single item they will target'''
+* '''These rituals can never be codified to make a more generic formulaic ritual'''
+<onlyinclude>
+It is usually not possible to create entire new divination rituals and add them to Imperial lore. Our team have to create divination responses for every item for every divination ritual, so any new ritual involves an unfathomable amount of work. Likewise it is only ever possible to use divination magic to gain information the referees have reliable access to. You can't divine who sold an item to someone, because we won't know that information.
+
+It is possible to create an arcane projection to try to divine specific information about a single item. Such arcane projections must specify as precisely as possible the subject of the divination, and state what information the caster is seeking, otherwise it will fail. These projections cannot be used to glean other information or be cast on a different subject. It is not possible to codify these specific divinations into a more generic formulaic ritual. 
+
+For example, you could make an arcane projection that determines information about what materials were used to make a rough stone axe recovered from Tsirku; it is not possible to create an arcane projection or ritual that provides that information on ''any'' item.
+</onlyinclude>
+
+==Known Divinations==
+* '''Only rituals that directly provide information are classed as divination rituals'''
+
+Only rituals that directly provide information as their primary function are considered divination rituals. Rituals that gather information by communicating with an [[eternal]] (such as [[Swim Leviathan's Depth]]) are not considered divination effects. Likewise, a ritual whose effect is something other than providing information to the ritualists is not considered a divination ritual for purposes of [[Crystalline Focus of Aesh]], even if its description talks about divination as the method employed. Spontaneous magic effects may gain the additional bonus; if in doubt consult a referee before performing them.
+
+This is the current list of divination rituals known to the Empire: [[An Echo of Life Remains]], [[Bright Lantern of Ophis]], [[Clear Lens of the Eternal River]], [[Dreams in the Witch House]], [[Eye of the High Places]], [[Eyes of the Soul's Past]], [[Eyes of the Sun and Moon]], [[Gralka's Gift to the Lost Seeker]], [[Hakima's Glass]], [[Hand of the Maker]], [[Netweaver's Eye]], [[Revelations of the Past]], [[Secrets of the Soul's Desire]], [[Shadowed Glass of Sung]], [[Signs and Portents]], [[Hero's Journey]], [[Skein of Years]], [[Discern the Marked Allegiance]], [[Ties that Bind]], and [[Wisdom of the Balanced Blade]].
+
+==Lost Items==
+Items that are lost or missing cannot be found using magic. There are eternals that may know where an item is, most notably [[Kimus]], but it is not possible to use an arcane projection or ritual to find a specific item that is missing. In general, if a plot requires you to find a lost item, then magic categorically won't solve that problem for you - to find a lost item you need to speak to whatever character or being knows where the item is and persuade them to give you guidance.
+
+==Current Events==
+Divinations are only effective when looking at events and objects that are recent. This need not be current - you can divine things that happened in the last few days, the last few seasons, potentially even the last few years if their effects are still resonating. But you can't use ritual divination to obtain information about the past without a specific focus to the events of the past.
+
+A ritual like [[Hand of the Maker]] works because it is cast on the item in question. That item is the link to its own past, and so it is possible to use the item which currently exists and is in your hand to find out about how it was made. Or you can use [[Skein of Years]] to find the dramatic and important events from the item's history. Without the item in question, neither ritual would be remotely possible.
+
+Rituals like [[Swim Leviathan's Depth]] work because they allow you to ask an eternal creature what it knows of the past. The ritual does not divine that information for you - it puts you in contact with an eternal that might know the answer.
+
+This limitation of divinations exists to preserve the mystery and intrigue of the setting. The wiki in particular includes hundreds of descriptions of notable places that are associated with legends or mysteries. There is no current plot for most of these locations - they exist to inspire us to write plot with them in the future. The moment we do so, you will be able to use divination magic to investigate that mystery. That will work because the very fact that we are doing plot with it means that there will be contemporary events which can be the subject of divination. But if there is no plot to find out more information about - if there are no current events to divine - then there is no more information to give out than is already on the wiki, and the divination will fail.
+
+==Maps==
+Maps are a powerful hearth magic, symbolic representations of a location that allow a magician to perform magic that will divine information about the place in question. All scrying rituals that operate at the territory level require a suitable map before they can be performed. Any attempts to create a ritual that scries an area without using a map will fail.
+
+It is not possible to do the opposite - to use divination to create a map of an unknown territory. If such a thing were possible it would instantly circumvent the restrictions on scrying in general - magicians would simply need to create the map first, then use it for the following divination. This isn't possible - you can never create a map with magic.
+{{Magic Links}}
+[[Category:Magic Theory]]
+[[Category:Magic]]
+[[Category:Rules]]
+[[Category:Divination]]

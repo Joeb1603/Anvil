@@ -1,0 +1,20 @@
+==Overview==
+The Leaseholder of Lumi's Legacy is an [[Imperial title]] awarded to a citizen of [[Wintermark]]. The [[Construct Lumi's Legacy|announcement]] to construct Lumi's Legacy was made by '''Laughlan Vi Temeschwar''', as [[Master of Rings]], in Spring 387YE. The Leaseholder of Lumi's Legacy is responsible for protecting Lumi's Legacy.
+
+Although the announcement named the title as ''Legal Leaseholder of Lumi's Legacy'' it is considered a bit of a mouthful by citizens in East Floes. They regularly leave off the "Legal", lest others worry that a member of the militia might be called.
+
+==Responsibilities==
+The Leaseholder of Lumi's Legacy is responsible for the protection of Lumi's Legacy. If the garden or its workers were to be threatened in any way, it would be the responsibility of the Leaseholder to deal with those threats.
+
+==Powers==
+===Bounty of the Garden===
+The Leaseholder of Lumi's Legacy receives 12 drams of [[bladeroot]], and two drams each of [[True Vervain|true vervain]], [[marrowort]], and [[Imperial Roseweald|Imperial roseweald]] each season from the gardens of Lumi's Legacy.
+
+==Appointment== 
+The Leaseholder of Lumi's Legacy is appointed by unanimous decision of [[Wintermark]] [[senator|senators]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead. 
+
+The title can be held by a Wintermark citizen. The Leaseholder has tenure and serves until they die, step down, are successfully [[challenge|challenged]], or are revoked. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Wintermark [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=FILE.png|caption=NAME, Leaseholder of Lumi's Legacy|align=left|width=400}}-->
+{{RecentElections|Leaseholder_of_Lumi%27s_Legacy}}
+[[Category:Title]] 
+[[Category:Wintermark]]

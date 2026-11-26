@@ -1,0 +1,105 @@
+---
+title: On wings aspire
+source: https://www.profounddecisions.co.uk/empire-wiki/On_wings_aspire
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 381YE Spring
+- Recent History
+- Winds of Magic
+event: 381YE Spring
+last_edited: '2026-02-20T15:46:55Z'
+revision: 134500
+in_character_boxes: 1
+---
+
+# On wings aspire
+
+> *In-character text:*
+>
+> "Run run run run RUN!" shouted May, following her own advice even as she was shouting it. Juno didn't need to be told - she put on a turn of speed and actually managed to pull ahead of the more lightly-armoured witch. Possibly unsurprising given how she felt about what was coming up behind her.
+>
+> "Why?" she puffed as she ran. "Why them? What's ... going on?"
+>
+> "Save your breath for running!" her fellow changeling was right. Juno was already starting to flag - there was no way she could keep up this pace for long in plate, even mithril plate. Her brain was screaming at her to look back and see how far away their pursuers were, but another - wiser - part of her brain kept reminding her that the moment she did, she'd catch her foot in a tree root and she didn't think she'd have time to get back up again if she went down.
+>
+> Up ahead, she could see the road now. Oliver and Casterly had obviously heard them coming - running full tilt through the woods was not something one could do while remaining stealthy. When he saw them running, Oliver quickly donned his helmet, and started strapping his shield to his arm. Casterly had her bow out - but when she saw who was coming she put it away and drew her massive sword.
+>
+> They scrambled up the slight incline to the road. May slipped, her voice tight with fear as she slid down the bank, but Juno grabbed her arm and with the help of Casterly practically lifted her bodily up onto the road.
+>
+> "Why are you running What's happening?" Oliver was scanning the trees behind them, an edge of panic in his voice. "What's gone wrong?"
+>
+> Juno leant forward, hands on her thighs, gasping for air, waving a hand at May. "Ask ... her!"
+>
+> Oliver kept his shield raised toward the woods, but shot the war-witch a quick glance. His face was pale. Their fear was contagious.
+>
+> "We go into the regio easily enough but the Treewarden - she wasn't there. We left the cakes, and the wine, but as soon as we took the apples they ... they came after us."
+>
+> "They" chose that moment to appear. At first there was only the suggestion of them, but after a moment, three of them were visible moving quickly through the trees. Humanoid figures, armoured in leather the deep, dark blue of a Summer sky during a thunderstorm. They kept their bodies low to the ground as they ran. Their hairy, mottled bodies were hard to make out in the shadows beneath the trees but their eyes glowed like pools of quicksilver in the gloom under the trees. Each had the head of a great, slavering dog. One by one they crouched low, turning their muzzles to the heavens, and each let out a terrible ululating howl that echoed across the forest.
+>
+> "Why are there dog-people!?" cried Oliver, backing away. The howls had attracted more hunters, perhaps another half dozen. "WHY?"
+>
+> May grabbed his arm. "I don't know!" she shouted back. "But there are and they're not stopping!"
+>
+> "What about the agreement?" there was a note of desperation in Oliver's voice. "What's happened to the Treewarden? WHY ARE THERE DOG-PEOPLE!"
+>
+> "We can worry about that later," said Casterly calmly, stepping to the front, planting her feet, raising her moonsilver blade raised into the first position.
+>
+> As the first aberrant hunters began to creep forward, she let out a deep breath and her face broke into a broad smile. "Right now ... it's time to fight."
+
+## Overview
+
+Magic is a tool like any other, but one significantly more versatile than most. Imperial magicians regularly wield powerful magic on a grand scale. This season alone has seen the potent [Wondrous Forests of the Night](../../mixed/magic/rituals/Wondrous_Forests_of_the_Night.md) transfigure the [forests](../../out-of-character/rules/Forest.md) of the Empire (you can learn more about that particular magical effect [here](Forests_of_the_night.md); devastating [magical storms](../../mixed/magic/rituals/Foam_and_Spittle_of_the_Furious_Sea.md) harry the [Grendel](../barbarians/Grendel.md) [navies](../../out-of-character/rules/Navy.md) off the coast of [Redoubt](../nations/urizen/Redoubt.md) and [Spiral](../nations/the-league/Spiral.md); and a [host](../../mixed/magic/rituals/Quickening_Cold_Meat.md) of unliving husks raised to fight alongside a [Wintermark](../nations/wintermark/Wintermark.md) army - while another is unleashed to fall on the [Jotun](../barbarians/Jotun.md) in [Liathaven](../nations/navarr/Liathaven.md).
+
+Two [citadels](../../mixed/magic/rituals/Frozen_Citadel_of_Cathan_Canae.md) of ice and stone called from the Summer realm of [Cathan Canae](../eternals/Cathan_Canae.md) rise within Imperial borders. One overlooks newly liberated [Serra Damata](../nations/the-brass-coast/Kahraman.md#serra-damata) in [Kahraman](../nations/the-brass-coast/Kahraman.md); a second rises in [Tomari](../nations/urizen/Redoubt.md#tomari) in [Redoubt](../nations/urizen/Redoubt.md). They appear without garrisons - which is not in itself unusual, but some of the soldiers taking refuge in these cold halls recount a strong feeling of unease when they are alone in the empty chambers.
+
+Not every significant magical event is caused directly by Imperial magicians - and nor are they the only people who need to deal with them. The Winds of Magic are used to round up disparate events that are certainly significant, but whose impact or provenance is limited in some fashion. Sometimes magical threats and [opportunities](../../out-of-character/game-design/Opportunity.md) come from beyond the mundane world - such as rumours of [unsettling developments in the Summer realm](#the-forest-of-arden), or a formal [bounty placed by an Eternal of Day](#a-judgement-of-nets). Sometimes they reflect [unexpected outcomes](#a-shining-citadel) to traditional Imperial magic. Sometimes, the Winds themselves are an event - most often seen in [the stars](../../mixed/magic/lore/Astronomancy.md), or [the runes](../../mixed/magic/lore/Runes.md), but sometimes in the plays of [dramaturges](../../mixed/magic/lore/Dramaturgy.md), or in dreams - and these powerful [conjunctions](#bright-stars-in-shadowed-skies) may give hints to a wider current in the events that shape the Empire - and are in turn shaped by it.
+
+## The Forest of Arden
+
+The Summer realm is made up of a patchwork of domains, each ruled over by an [eternal](../eternals/Eternal.md). [Eleonaris](../eternals/Eleonaris.md) is the sovereign of the Fields of Glory, while [Cathan Canae](../eternals/Cathan_Canae.md) rules a trackless waste of glaciers and mountains, and [King Adamant](../eternals/Adamant.md) controls a subterranean kingdom of glittering gems and cunning *koboldi*. Not all these domains are so large - the tower of [Meraud](../eternals/Meraud.md) reputedly occupies a single island, while the tents of [Barien](../eternals/Barien.md) are said to appear at a different crossroads in the Summer realm every evening.
+
+One of the best known realms is the Forest of Arden, the domain of [Hayaak](../eternals/Hayaak.md), the Gryphon Lord. Over the last three months, magicians with an interest in such things have begun to hear ... rumours about the Forest. Stories. Gossip from Summer heralds. The gossip is most prevalent in [Dawn](../nations/dawn/Dawn.md), especially among visitors to [Spiral Castle](../nations/dawn/Weirwater.md#spiral-castle), and in [Varushka](../nations/varushka/Varushka.md) among those heralds of the *Summer Mage* who visit the [college](../../mixed/titles/Master_of_Ice_and_Darkness.md#the-icy-crag-of-the-eternal-sun) there. Perhaps it is no coincidence that both places are strongly associated with the *Lord of Summer Stars* - the apprentices of Meraud do love to gossip!
+
+These stories say that there has been a fundamental shift in the nature of the Forest of Arden. Some claim that either Eleonaris or Cathan Canae has sent their armies to invade the domain of the Lord of Gryphons, conquering it as apart of a stratagem aimed at the other Queen. Other stories say that Hayaak has fallen deathly ill, injured by an accurséd blade that is slowly killing him and that his sickness taints the forest with shadows and spiders. A few tales suggest that Hayaak has been exiled from his domain, and sworn revenge against those who have driven him out. The stories agree that the Forest is now a significantly more dangerous place - that the trees huddle together, and conspire with each other; that the great boars, bears, and stags who once roamed there have been devoured by immense spiders scuttled out from the mountains to the north; and that feral unicorns now patrol the paths, hungry for the blood of intruders.
+
+Several of these stories mention [Jaheris](../eternals/Jaheris.md), the silver-browed consort of Eleonaris. He alone is said to know with certainty what has transpired - but he is keeping his own counsel on the subject and his heralds will not be drawn. Although, on a potentially related note, he has let it be known in Spiral Castle and in the Icy Crag of the Eternal Sun that he may be prepared to talk about this - and other secrets - when he meets with "*a certain worthy representative of the Empire during the Spring Equinox for a chance to discuss the important things in life*".
+
+## A Judgement of Nets
+
+In the last month, several plain speaking, well-spoken heralds of the eternal [Roshanwe](../eternals/Roshanwe.md) have visited prominent [covens](../../out-of-character/rules/Bands.md#covens) of Imperial magicians known to make an in-depth study of [Day magic](../../out-of-character/rules/Day_magic.md). There have also been visitors to both [the Lyceum](../nations/the-brass-coast/Madruga.md#the-lyceum) in [Madruga](../nations/the-brass-coast/Madruga.md), and the [Halls of Knowledge](../nations/urizen/Zenith.md#the-halls-of-knowledge) in Zenith. In each case, the heralds deliver a polite message from the eternal they serve; Roshanwe is deeply concerned about the influence of the Whisper Gallery over the Empire and wishes to offer a little aid in thwarting its agents.
+
+The heralds deliver variants on the same message - Roshanwe believes the Whisper Gallery are an unforgivable obstacle to those who pursue true understanding. As such she urges Imperial magicians to take action against them and their agents. She warns that these malignant eternals of the Night realm have sought to [curse](../../out-of-character/rules/Curse.md) seekers after true knowledge, and that it is only appropriate that their pawns suffer a similar fate.
+
+Roshanwe's heralds have let it be known that their mistress will reward any [coven](../../out-of-character/rules/Bands.md#covens) that delivers the potent [Day magic](../../out-of-character/rules/Day_magic.md) curse know in the Empire as [All the World in a Grain of Sand](../../mixed/magic/rituals/All_the_World_in_a_Grain_of_Sand.md) to those dealing with the Whisper Gallery. Her heralds are happy to provide a short list of those who Roshanwe believes may be pawns - based on their actions and the decisions of the Empire. This list includes:
+
+- Any individual convicted by the magistrates of ignoring the [enmity](../eternals/Alignment.md#enmity) under which the Whisper Gallery have been placed.
+- Anyone declared as a sorcerer by the Empire for trafficking with or promoting the agenda of the Whisper Gallery.
+- Anyone who declares themselves in support of those monstrous eternals by speaking on their behalf in the Senate or the Conclave.
+
+When such an individual falls under the curse, Roshanwe will take note and deliver to the one who delivered the [pronouncement of doom](../../out-of-character/rules/Curse.md#pronouncement-of-doom) ten vials of [prismatic ink](../../out-of-character/rules/Vis.md#prismatic-ink) for each pawn of the Whisper Gallery so cursed by the beginning of the next summit.
+
+Furthermore, with an eye towards addressing the dangers presented by those eternals that intentionally seek to impede seekers after knowledge, the Weaver of Nets has announced to those who will listen her intention to send one of her favoured heralds to talk to **Kyra Halcyon Spire**, [Grandmaster](../../mixed/titles/Grandmaster.md) of the [Unfettered Mind](../../mixed/government/conclave/Unfettered_Mind.md), about other ways Roshanwe may assist the Empire during the Spring Equinox.
+
+## The Shining Citadel
+
+The Sussivari Frost Coven have used [Night magic](../../out-of-character/rules/Night_magic.md) to raise magical mists and warp the marshes of [Kallavesa](../nations/wintermark/Kallavesa.md) and [Bregasland](../nations/the-marches/Bregasland.md) to provide them with [magical protection](../../mixed/magic/rituals/Dripping_Echoes_of_the_Fen.md) from the Jotun. Neither marsh was actually attacked by an enemy force, but had they done so the citadels would have been available to offer protection to any defenders.
+
+Of particular note is the citadel they have raised in Bregasland. The magic is woven in [North Fens](../nations/the-marches/Bregasland.md#north-fens), and is centred on a dome of silver mist that glows with a pale phosphorescence from dusk until dawn. The Bregas of the far marshes report that the glow comes from the immense number of [iridescent butterflies](../world/Mundane_beasts.md#iridescent-butterfly) that throng within the dome - some of them as large as eagles or small dogs, if stories are to be believed. [Bounders](../nations/the-marches/The_Marches_military_concerns.md#bounders) who take advantage of the protection offered by the dome when they are on long patrols emerge covered in the alabaster dust that falls from the wings of the exotic creatures - and talk of an Imperial bounty of [iridescent gloaming](../../out-of-character/rules/Materials.md#iridescent-gloaming) cocoons that might be found within - yet when they return to claim some of the bounty for themselves shortly before the Spring equinox, they report that the dome is completely empty.
+
+## Bright Stars in Shadowed Skies
+
+The night skies over most of the Empire remain empty of stars, as detailed last event [here](Darkest_night.md). In a very few places the stars have been restored (specifically across the [whole of Urizen](../nations/urizen/Urizen_territories.md), and in the [Imperial Orcs](../nations/imperial-orcs/Imperial_Orcs.md) territory of [Skarsind](../nations/imperial-orcs/Skarsind.md)) but for the most part, they remain absent from the night sky. [Naga](../../mixed/magic/lore/Naga.md) living in those territories are not subject to the shroud's peculiar [influence](Darkest_night.md#the-serpent-is-more-crafty)... but [Casinea](../nations/highguard/Casinea.md) is still affected and so any naga visiting Anvil will still begin to feel their [natural urge](../../mixed/magic/lore/Naga.md#nagaroleplaying-naga) toward subtlety and secretiveness is greatly strengthened. (**OOC note:** players are urged to read the [Darkest night](Darkest_night.md) wind of fortune from last event to refresh themselves as the details of this effect).
+
+Where the stars are visible, they can be seen to have formed a particular alignment. [The Wanderer](../../mixed/magic/lore/The_Wanderer.md) has aligned itself with the [astronomantic](../../mixed/magic/lore/Astronomancy.md) constellation known as [the Chalice](../../mixed/magic/lore/The_Chalice.md). The constellation is only visible in the northern skies for a short time at the beginning and end of the year - some mystics say that it joins the end of one year to the beginning of the other. This is not merely a fanciful or poetic phrasing - the Chalice is strongly associated with healing, mending what is broken, and joining together things which were once apart. As with all astronomantic constellations, the six stars have a deeper symbolism; they resonate with ideas of symmetry, mirrors and reflections, and twins.
+
+In [the Brass Coast](../nations/the-brass-coast/The_Brass_Coast.md), and some parts of the southern [the League](../nations/the-league/The_League.md), the Chalice is occasionally called the *Mirror Cup* or the *Seeing Cup*. It has strong associations with fortune-telling, with seeing the future, and with predicting dooms - or triumphs - yet to come.
+
+The Chalice is also, sometimes, connected with the [dramaturgical](../../mixed/magic/lore/Dramaturgy.md) [Instrument](../../mixed/magic/lore/Dramaturgy.md#the-instruments) known as [the Cup](../../mixed/magic/lore/The_Cup.md), which represents [Prosperity](../religion/Prosperity.md), and fulfilment. There is some scurrilous speculation once news of the conjunction reaches the ears of trained dramaturges that this conjunction is likely to be strongly influenced by [Night magic](../../out-of-character/rules/Night_magic.md) - which in the case of the Cup may portend transformations, potions, unsettling truths, emotions, confusion, and drunkenness.
+
+There is no immediate mechanical significance to this conjunction. As with any astronomantic conjunction, it is as much a response to things that are happening (or are imminent), as it is a mystical arrangement that influences the unfolding of future events. Many people will remain oblivious to the influence of this conjunction, while a handful of people may encounter the themes and motifs of the Chalice (or the Cup) at every turn during the coming Summit.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [381YE Spring](../../indexes/by-category/381YE_Spring.md), [Recent History](../../indexes/by-category/Recent_History.md), [Winds of Magic](../../indexes/by-category/Winds_of_Magic.md)

@@ -1,0 +1,278 @@
+==Overview==
+<big>'''Lavish, opulent, mercantile, swaggering, flamboyant, ostentatious'''</big>
+
+The League look takes inspiration from European renaissance fashion. Garments and accessories from the Italian Renaissance, the German Renaissance, and early Tudor England can form a solid foundation provided they [[The_League_look_and_feel#Silhouette|achieve the right silhouette]]. The League is a nation of city-states, where citizens love to compete for acclaim, social status and power. League fashions reflect this bustling urban world where ‘everything is on show’ and where citizens aim to experience ‘the best of everything’.
+
+This desire for ostentatious displays of wealth creates one of the most distinctive recurring elements of all League clothing - the practice of [https://fashionhistory.fitnyc.edu/slashing/ slashing]. This involves regular spaced cuts or openings in a garment to allow the fabric underneath to show through. Almost everything in the League can be slashed, even shoes! The garment underneath might be a bright contrasting colour with the outer garment, but a slashed doublet can be worn over a white shirt or blouse just as easily. Several items of clothing worn by League citizens are found elsewhere in the Empire, especially the Marches and Dawn, but in these cases it is often the decorative slashing that creates a uniquely League look and feel.
+
+'''No garments are gendered in Empire'''. League citizens of any gender wear dresses, hose, doublets, skirts and other garments as they please, in any combination they prefer.
+
+==Aspirational==
+This is a long and detailed page with a lot of content because we want to be thorough and clear about what the ideal costume for the League looks like. It is important to remember that all costume is [[Costume#Aspirational_Game|aspirational]] in Empire, we don't want anyone to worry that their costume is not perfect. This page is a resource you can use to help you identify what the perfect costume looks like when you are buying or making a new piece of kit for a League character. It is to show you what to aim for as you improve your costume over time.
+
+The brief includes a number of technical terms, for materials and garments. Where possible, we've tried to explain what those terms mean, and link to an external website that provides more information. While some of these terms will be unfamiliar, using the historical terms allows us to be precise, helps you search online for garments of that kind and can be helpful if you go to any costume maker who is familiar with the terms.
+
+==Silhouette==
+* '''Achieving the right silhouette is the key to a great League costume'''
+
+The League silhouette is about creating a contrast. An outfit with close fitting hose could be larger on the upper body, with puffy sleeves or a dramatic duelling cape. Dresses with a smaller bodice and a higher waist might have a wide, flowing skirt. Or you can create the contrast with extravagant slashing to show off different layers of fabric and contrasting colours. Below are some illustrated examples by [https://www.facebook.com/p/Lampblack-Art-100092300352138/ Lampblack Art] of archetypal League silhouettes.
+<div class="imagegrid" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;">
+{{CaptionedImage|file=Silhouette0.jpg}}
+{{CaptionedImage|file=Silhouette1.jpg}}
+{{CaptionedImage|file=Silhouette2.jpg}}
+{{CaptionedImage|file=Silhouette3.jpg}}
+{{CaptionedImage|file=Silhouette4.jpg}}
+{{CaptionedImage|file=Silhouette5.jpg}}
+</div>
+
+==Sleeves==
+Sleeves are one of the most instantly recognisable aspects of League clothing. Sleeves of base layers such as shirts, blouses or chemises are puffed and voluminous, gathered at the cuff rather than open, loose or trailing. The outer sleeves on doublets, dresses and waffenrocks are often decorated with slashing. Sleeves are often detachable and designed to be tied on at the shoulder. There are a number of key styles. Sleeves can be identical, or can be 'mixed and matched' for an asymmetrical look. 
+
+'''Segmented Sleeves:''' These feature an outer sleeve tied on at the shoulder that has gaps at the elbow for the shirt or chemise beneath to peek through in ‘puffs’. You can also choose to wear only the upper segments or lower segments.
+
+'''Slashed Sleeves:''' These can have a series of slashes or slits cut into the sleeve in patterns, or one long slit running down it, again to show off the layer underneath. Slashes can be edged in decorative trim and or beading, or other showy embellishments.
+
+'''Paned Sleeves:''' Paned sleeves use strips of fabric to create a slotted look through which either another contrasting fabric or the shirt underneath is visible. 
+
+'''Shoulder Rolls:''' When the weather is warm, some Leaguers remove their outer sleeves altogether. Dresses or doublets can have padded rolls on the shoulders, so that even sleeveless, there is still plenty of decoration. 
+
+<div class="imagegrid" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;" class="imagegrid">
+{{CaptionedImage|file=segmentedsleeve.jpg|caption=Segmented Sleeve}}
+{{CaptionedImage|file=slashedsleeve.jpg|caption=Slashed Sleeve}}
+{{CaptionedImage|file=tieonsleeve.jpg|caption=Slashed Sleeve}}
+{{CaptionedImage|file=panedsleeve.jpg|caption=Paned Sleeve}}
+{{CaptionedImage|file=Shoulderroll.jpg|caption=Shoulder Roll}}
+</div>
+
+==Garments==
+<div style="float: right; clear: right;">
+{{CaptionedImage|file=League Shirt 1.jpg|width=180|align=right}}
+{{CaptionedImage|file=League shirt 2.jpg|width=180|align=right}}
+{{CaptionedImage|file=CambionDoublet.jpg|width=180|align=right}}
+</div>
+'''Shirt, Blouse or Chemise:''' League outfits are designed to be worn over shirts, blouses or [https://en.wikipedia.org/wiki/Chemise chemises]. These base layers can be any colour. They tend to be loose and have baggy sleeves gathered at the wrist or elbow or be puffed down the arm at intervals. They can have lacing at the neck, or a gathered neckline.
+
+The garment may have a higher neckline to keep out the cold, but it is less appropriate to have a pointed collar, [https://en.wikipedia.org/wiki/Lapel lapels] or buttons all the way down in the way a modern formal shirt would. Likewise, it is less appropriate for the sleeves to trail or flare at the wrist in a ‘trumpet’ style, or be straight like the sleeves of a t-shirt or tight to the arm like a fitted shirt. League shirts are not worn with cravats and do not have cascading lace at the throat in a ‘highwayman’ or Regency style.
+<div style="float: right; clear: right;">
+{{CaptionedImage|file=bodice.jpg|width=180|align=right|caption=bodice}}
+{{CaptionedImage|file=wams.jpg|width=180|align=right|caption=wams}}
+{{CaptionedImage|file=SeatedDoublet.jpg|width=180|align=right|caption=doublet}}
+</div>
+'''Doublet, Wams or Bodice:''' A [https://en.wikipedia.org/wiki/Doublet_(clothing) doublet] is a short upper body garment, usually fastened at the front with lacing or buttons and worn over a shirt or blouse. Most doublets come down to the waist or hips. Some have short skirting or tabs at the bottom.
+
+League wams are a style of doublet that is often lower-necked, and square or v-necked, inspired by the wams worn by landsknechts. They typically close at the side rather than the centre, or have a big detachable panel on the front (called a brustfleck) which often features a pattern of decorative slashing, like this [https://reconstructinghistory.com/products/rh502-landsknecht-wams-und-hosen?srsltid=AfmBOoojwm7IzQcBHcnSK56y6asx6MLl9ggqQkN_hR1VqWEnliErrUfo example here].
+
+A [https://en.wikipedia.org/wiki/Bodice bodice] is a good alternative to a doublet, as most off-the-peg doublets are designed for someone with a flat chest. Avoid stays; anything with thin straps or visible heavy boning is less appropriate. The ideal League bodice covers the back and shoulders and resembles a doublet that laces together at the front. A bodice usually has no sleeves, but a League bodice can have sleeves that tie-on.
+<div style="float: right; clear: right;">
+{{CaptionedImage|file=hose.jpg|width=180|align=right}}
+{{CaptionedImage|file=trousers.jpg|width=180|align=right}}
+{{CaptionedImage|file=BaggyTrousers.jpg|width=180|align=right}}
+</div>
+'''Trousers or Hose:''' League trousers, also known as [https://en.wikipedia.org/wiki/Hose_(clothing) hose], often features slashed decorations, or legs in contrasting colours. They may be baggy or close fitting but are often made in heavier fabrics such as wool or canvas for warmth. You can also use leggings or jodhpurs but if you use modern garments, it is best to cover belt loops and pockets with your upper body layers.
+
+Wider trousers should have gathering at the hems or a wide band at the ankle or lower leg so that the legs form a puffy shape. Close fitting trousers may have a flap at the front which is tied on; this is sometimes lightly padded to form a discreet codpiece. Short hose, which ends above the knee, can be slashed, or have panes of fabric with a contrast fabric puffing out in a style known as ‘pumpkin hose’, owing to their shape.
+
+'''Dress, Skirt or Waffenrock:''' The ideal League dress has a seam at the waistline and a skirt that flares out below. The waistlines can be high with fabric gathered underneath the bust or can sit lower down. A split-front overdress can also be worn over a contrasting skirt. League skirts can be either full length or come to the knee and are often gathered or pleated into the waistband. Dresses can have a decorative front panel, often featuring lacing across the torso, like those featured in [https://en.wikipedia.org/wiki/Lucas_Cranach_the_Elder#Paintings the paintings by Cranach the Elder].
+
+League dresses and skirts are not worn with any hoop or cage shaped structures underneath to give skirts an exaggerated bell or cylinder shape. Hoop skirts, farthingales, bum rolls, bustles, and crinolines should all be avoided.
+
+{{anchor|Waffenrock}}
+The League waffenrock is a full skirted tunic or short dress, often made in two or more brightly contrasting colours based on the waffenrocks worn by landsknechts. The skirt is usually full and falls to around the knee area. They sometimes feature wider, open sleeves without a gathered cuff, usually elbow length, to allow them to be worn over armour or another garment. Be careful if you search for waffenrock online as the word refers to a wide range of garments, including many more modern garments - this is the kind of [https://www.armorarena.com/landsknecht-waffenrock-16-th-century waffenrock] that is right for the League.
+
+<div class="imagegrid" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr; clear: right;">
+{{CaptionedImage|file=HighWaist.jpg|width=100%|caption=High Waist}}
+{{CaptionedImage|file=LowWaist.jpg|width=100%|caption=Low Waist}}
+{{CaptionedImage|file=SplitDress.jpg|width=100%|caption=Split-front overdress}}
+{{CaptionedImage|file=CranachDress.jpg|width=100%|caption='Cranach' dress}}
+{{CaptionedImage|file=dress.jpg|width=100%|caption=Waffenrock}}
+</div>
+
+<div style="float: right; clear: right;">
+{{CaptionedImage|file=League coat.jpg|width=180|align=right|caption=Coat}}
+{{CaptionedImage|file=League robe.jpg|width=180|align=right|caption=Robe}}
+{{CaptionedImage|file=OpenRobes.jpg|width=180|align=right|caption=Open Robe}}
+</div>
+'''Coats or Robes:''' League robes and coats are generally long - either to the ankle or knee. They can be worn open at the front or closed with a belt or other fastenings. They are often trimmed with fur.
+
+League coats do not have lapels, and the fastenings do not extend down the length of the garment like a modern coat. They should fasten with a belt or a few buttons or similar, at the waist or chest. Epaulettes are not appropriate. If they have [[#sleeves|sleeves]], they do not have wide turned-back cuffs like a frock coat.
+
+{{anchor|capes}}
+'''Capes, Cloaks or Partlets:''' League cloaks are usually decorated with trim, either applique, embroidery or fur. Short capes, that hang to the waist, are particularly popular with bravos. They can be worn over both shoulders, or over just one by tying under the opposite arm.
+<div style="float: right; clear: right;">
+{{CaptionedImage|file=cape2.jpg|width=180|align=right|caption=cape}}
+{{CaptionedImage|file=Capelet.jpg|width=180|align=right|caption=capelet}}
+{{CaptionedImage|file=partlet.jpg|width=180|align=right|caption=partlet}}
+</div>
+A capelet is a small cape, clasping at the neck, which comes down no further than the elbow. Fur, or faux fur, is a common material for capelets, though wool or velvet edged with fur is also seen.
+
+A [https://en.wikipedia.org/wiki/Partlet partlet] is a small upper body garment designed primarily to be worn over dresses. They come down to the bust and fasten at the front. They are often secured with underarm ties. Partlets are generally made from heavier, warmer, fabrics such as wool, thick brocade, velvet or suede.
+<div style="float: right; clear: right;">
+{{CaptionedImage|file=Lucien.jpg|width=180|align=left}}
+{{CaptionedImage|file=Roz2.jpg|width=180|align=left}}
+{{CaptionedImage|file=Chainofoffice.jpg|width=180|align=left}}
+</div>
+
+==Accessories==
+'''Jewellery:''' Rings are an important part of [[The_League_hearth_magic|League hearth magic]] but ornate jewellery is commonplace across the nation - often with a ‘more is more’ mindset. Several strings of pearls worn together, or chokers worn at the same time as lower-slung necklaces, are a frequent sight. Chains of office are often worn by merchant princes and bishops to signal status and authority. Brooches are worn as often on hats as they are on garments, sometimes to pin up one side of a wide brim. 
+
+'''Hats, Headdresses, and Hairnets:''' Wearing something on your head is one of the ''best'' ways to complete a great League costume. A tellerbarett is a flat hat with an enormous plate-like brim that can be festooned with feathers or jewellery and worn at a jaunty angle. A dockenbarett, or landsknecht star-fish hat, has a large brim made from wide folded tabs. Both are popular with bravos and free companies and often feature slashing with contrasting colours. Coifs or headwraps can be worn under either.
+
+Cylindrical taller hats in bright colours, similar to the capitanesca worn by the Italian Renaissance prince Cosimo de Medici in [https://en.wikipedia.org/wiki/Cosimo_de'_Medici#/media/File:Cosimo_di_Medici_(Bronzino).jpg this portrait], suit the League. These tend not to have a wide brim - anything like a top hat is not appropriate. Loose, floppy berets - sometimes referred to as ‘muffin’ hats owing to their shape - are another iconic League hat. These can be very large, and might be pleated into the band. Others might have a short brim, like a [https://en.wikipedia.org/wiki/Tudor_bonnet Tudor bonnet].
+
+Beaded snoods and hairnets are also worn in the League. These can be as simple as a crochet-style net pinned or held onto the hair. Headdresses that resemble Flemish hoods, German steuchlein and wulsthaube headdresses, or the Italian renaissance balzo headdress, all of which feature a padded roll that sits on or behind the head, are also popular.
+
+The hats above are all iconic for the League, but a simple felt hat with a round crown and a wide brim is acceptable. Such hats are best in a bright colour, and long, plumed feathers and brooches can be used to add flourish.
+<fourpicture>
+{{CaptionedImage|file=League hat 1.jpg|caption=Tellerbarett}}
+{{CaptionedImage|file=Dockenbaret.jpg|caption=Dockenbaret}}
+{{CaptionedImage|file=Muffinhat.jpg|caption=Muffin hat}}
+{{CaptionedImage|file=TudorBonnet3.jpg|caption=Tudor Bonnet}}
+{{CaptionedImage|file=Capitanesca.jpg|caption=Capitanesca}}
+{{CaptionedImage|file=League hat 4.jpg|caption=Beaded snood}}
+{{CaptionedImage|file=League hat 5.jpg|caption=Flemish hood}}
+{{CaptionedImage|file=Roundcrown.jpg|caption=Felt hat}}
+</fourpicture>
+
+==Colours and Materials==
+'''Colours:''' Every colour is found in the cosmopolitan League; bright, strong colours, dark, sombre tones and delicate pastels are all common. Two or three contrasting colours are often used to accentuate key features of the League silhouette, for example in slashed decorations on garments. Capes and cloaks may be lined in a contrasting colour, and underskirts worn beneath split-front dresses are often a different colour to the overdress worn on top. You might also choose to wear colours that suggest your character is affiliated with a particular [[#cities|League city]]. 
+
+'''Materials:''' League garments often use heavier fabrics for outer garments such as doublets, dresses and waffenrocks and lighter materials for the base layers, such as shirts and chemises, that go underneath. You can always use synthetic versions of any of these materials, or mixed fabrics such as wool blends and cotton velvet. Cotton, linen and wool are often blended with polyester, acrylic or viscose, and poly satins and velvets are a good budget alternative that is easily available.
+
+'''Base layer fabrics:''' Cotton, linen and thinner satins are ideal for base layers. They can also be used to provide a pop of contrasting colour, for example as the lining to a cape or as puffs between slashed sleeves.
+
+'''Outer layer fabrics:''' Velvet, wool cloth (rather than garments knitted using wool yarn), and heavier weight satins are ideal for any outer garments in the League.
+
+<div style="float: right; width: 100%; grid-template-columns: 1fr 1fr 1fr 1fr 1fr;" class="imagegrid">
+{{CaptionedImage|file=Orange Wool Cloth.png|caption=Wool cloth}}
+{{CaptionedImage|file=Purple Velvet.png|caption=Velvet}}
+{{CaptionedImage|file=Gold Satin.png|caption=Satin}}
+{{CaptionedImage|file=Red Blue Gold Brocade.png|caption=Brocade}}
+{{CaptionedImage|file=Gold-Brown Jacquard.png|caption=Jacquard}}
+</div>
+
+'''Patterned fabrics:''' [https://en.wikipedia.org/wiki/Brocade Brocade], [https://en.wikipedia.org/wiki/Damask damask] and jacquard are all ideal for the League. They are not printed - decoration is woven in as a raised, textured pattern. Flamboyant, busy patterns are common, often using metallic threads so the pattern stands out against the background colour. Popular motifs include curling foliage, stylised flowers, and diamond and lattice patterns. Avoid brocades with obvious East Asian motifs such as dragons, phoenixes, lions and storks as these are ''not appropriate'' for Empire.
+
+'''Hard-wearing fabrics:''' Leather, suede and cotton canvas can all be used for characters who want hard-wearing garments.
+
+'''Fur:''' Full garments made from fur or faux fur are less appropriate, with the exception of [[#capes|capelets]], but fur - real or synthetic - is a good material to trim garments with.
+
+<div class="fourpicture">
+{{CaptionedImage|file=Trim.jpg}}
+{{CaptionedImage|file=Pearl trim.jpg}}
+{{CaptionedImage|file=Red Trim.png}}
+{{CaptionedImage|file=Gimp trim gold.jpg}}
+</div>
+'''Trim:''' Using embroidered trim, beading, ribbon or upholstery trim (sometimes called 'gimp trim') to edge or decorate a garment is a great idea
+
+==Gallery==
+<fourpicture>
+{{CaptionedImage|file=League 1.jpg}}
+{{CaptionedImage|file=League senator.jpg}}
+{{CaptionedImage|file=League 5.jpg}}
+{{CaptionedImage|file=DoubletAndSkirt.jpg}}
+{{CaptionedImage|file=League 7.jpg}}
+{{CaptionedImage|file=League 8.jpg}}
+{{CaptionedImage|file=League 9.jpg}}
+{{CaptionedImage|file=League 10.jpg}}
+{{CaptionedImage|file=League 12.jpg}}
+{{CaptionedImage|file=Ribbons.jpg}}
+{{CaptionedImage|file=League 11.jpg}}
+{{CaptionedImage|file=Masks2.jpg}}
+</fourpicture>
+
+==Battle==
+The ideal League armaments are inspired by the aesthetics of [https://en.wikipedia.org/wiki/Landsknecht the German Landsknechts], [https://en.wikipedia.org/wiki/Swiss_mercenaries Swiss Reisläufer], and the [https://en.wikipedia.org/wiki/Condottiero Italian condottieri]. Even in battle, the goal is to be flamboyant. Maille may be hidden under garments such as a waffenrock in order to prioritise looking good. Alternatively, pieces of armour may be decorated with elaborate, ostentatious designs such as stylised, curling foliage like the work of [https://en.wikipedia.org/wiki/Filippo_Negroli Filippo Negroli] or painted with bold patterns such as harlequin-style diamonds or stripes.
+
+'''Armour:''' [https://en.wikipedia.org/wiki/Gambeson Padded jacks], often shaped like a doublet, but thicker, are common in the League. They may be made in the colours of a [[guild]] or [[free company]] or be decorated with a guild badge to show affiliation. A [http://germanrenaissance.net/lederwamsleder-goller-the-leather-vestjerkindoublet-jacket-of-coolness/ ledergollar], a jerkin made from comfortable, flexible leather, can be the basis for light armour, or worn over heavier armour simply for the look.
+
+Plate and chain are also popular, but full coverage is rare, as League soldiers tend to favour mobility and gaps in the armour allow slashed sleeves or hose to spill through. A [https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=60507&viewType=detailView bishop's mantle] - a chain collar that covers the chest and shoulders which can go down to the elbow like a poncho - can be worn with other armour. A [https://en.wikipedia.org/wiki/Brigandine brigandine] - overlapping metal plates covered in fabric such as suede or velvet - is an ideal option for being fashionable and heavily armoured at the same time. 
+
+'''Helm:''' Some League citizens wear a brimmed helmet - a [https://en.wikipedia.org/wiki/Kettle_hat kettle helm], [https://en.wikipedia.org/wiki/Morion_(helmet) morion], or [https://en.wikipedia.org/wiki/Burgonet burgonet] - while fighting. These are often dressed up with ribbons or plumes of feathers. Late medieval helmet styles like [https://en.wikipedia.org/wiki/Sallet sallets] are ideal for the League, but it is also possible to conceal a metal skullcap called [https://en.wikipedia.org/wiki/Secrete_(helmet) a secrete] inside a hat to combine protection with fashion.
+
+'''Shield:''' Many professional free companies prefer to use [[Weapons_%26_armour#Polearms|pole-arms]] or [[Weapons_%26_armour#Great_weapons|great swords]], rather than employ a [[Weapons_%26_armour#Shields|shield]]. Those who do use a shield often use them to advertise the services of a guild or free company, or to display religious iconography. An impressive shield can be a work of art, either painted, or dressed with an intricate shield cover. 
+
+'''Weapons:''' Great weapons, such as [https://en.wikipedia.org/wiki/Billhook bills], [https://en.wikipedia.org/wiki/Zweih%C3%A4nder two-handed swords] or [https://en.wikipedia.org/wiki/Pike_(weapon) pikes] are the tool of choice for free company soldiers. Rapiers, [https://en.wikipedia.org/wiki/Spada_da_lato side-swords] and other one-handed swords usually have complex hilts to protect the hand, like the distinctive figure-8 guard of the [https://en.wikipedia.org/wiki/Katzbalger katzbalger]. Crossbows have been enthusiastically adopted by free companies, and are always preferable to bows which are ''less appropriate'' in the League.
+
+'''Bravos:''' [[Bravo|Bravos]] and street fighters usually favour a rapier or other light sword and pair it with a [https://en.wikipedia.org/wiki/Parrying_dagger#Main-gauche main gauche], [https://en.wikipedia.org/wiki/Stiletto stiletto] or buckler for the off-hand. They may wear no armour, or protect only the most vital areas, such as a single shoulder piece to protect the weapon arm. Many wear a duelling cape, even when taking the battlefield.
+
+<fourpicture>
+{{CaptionedImage|file=League Battle 1.jpg|caption=Brigandine}}
+{{CaptionedImage|file=Painted_armour.jpg|caption=Painted armour}}
+{{CaptionedImage|file=League Battle 3.jpg|caption=Clothing showing through}}
+{{CaptionedImage|file=League Battle 4.jpg|caption=Bishop's mantle}}
+</fourpicture>
+
+==Religion==
+The iconic look for a League bishop involves an impressive hat, a stole, and a set of vestments. Together, these three elements help to project power and status. There is no requirement for a League priest to dress like a bishop, but people in the League understand the power of appearance. Those who adopt the garments of [[Dramaturgy#The_Personae|the Bishop]] find it easier to command the respect of others for their calling. Thus any League priest may choose to don any one or more of the following when they feel the need.
+
+'''Hat:''' The ideal hat is tall and imposing. A [https://en.wikipedia.org/wiki/Mitre traditional Christian mitre] is less appropriate; rather than curving to a single point, the ideal League mitre has several peaks to echo a crown, like the wave-shaped mitre shown below. A boxy Capitanesca hat, or something like the [https://zeughaus-armoury.com/en-uk/products/magician-hat-adis-red?gad_source=1&gclid=CjwKCAiA8Lu9BhA8EiwAag16b9Dgk1QSnqQcEWDMMz37TTTOOhRxx8CfdXq5H5Z3_xWCmBuGqjiERBoC4bsQAvD_BwE magician's hat] sold by Burgschneider is also great. The hat is often made of lavish fabric and may be decorated with gems or tablet embroidery. 
+
+'''Stole: ''' A [https://en.wikipedia.org/wiki/Stole_(vestment) stole] is a long narrow strip of fabric worn around the neck which hangs down the body. League bishops often wear them in a lavish fabric such as jacquard or satin, and they may be richly embroidered with symbols of their church, guild or chosen virtue. The simplest ones have the labyrinth, the universal symbol of [[the Way]] on the ends.
+
+'''Vestments:''' Vestments are fine over-robes a priest can throw over their normal clothing when they need to convey their status, such as when preaching or performing ceremonies. These vestments can be shaped like a [https://en.wikipedia.org/wiki/Chasuble chasuble] (either in the 'roman' or 'gothic' style), a loose, poncho-like garment featuring opulent trimmings and decorations, or [https://en.wikipedia.org/wiki/Cope a cope], a heavier outer vestment, open at the front and more like a cloak. Ideally, vestments are decorated with symbols of the virtue the bishop is dedicated to, such as chains for Loyalty. The simplest vestment is a cassock, a full-length, long-sleeved, high-collared gown which usually fastens at the front. Unlike the subdued or plainer cassocks worn by Highborn citizens or Marcher friars, a League cassock is ideally made of richly decorated fabric such as brocade. It is best worn with a tall bishop's hat and stole to convey the wearer's importance.
+
+<fourpicture>
+{{CaptionedImage|file=TemeschwarBishop.jpg}}
+{{CaptionedImage|file=Oberon.jpg}}
+{{CaptionedImage|file=Mim - Priest.jpg}}
+{{CaptionedImage|file=Bishop Severin.jpg}}
+</fourpicture>
+
+==Magic==
+League magicians commonly wear the same clothing as other citizens, but dramaturgical magicians often carry the accoutrements of their profession on their person, so as to be ready to perform at a moment’s notice. This could be a mask permanently pushed up on their forehead or tied around their arm, a puppet carried with them wherever they go, or a bag overflowing with dramaturgy props for their troupe. Some magicians choose to have separate outfits for the different dramaturgical personae, and usually will have a mask for each, either individually or as a troupe. The magical tradition of [[dramaturgy]] infuses every part of the League, so even those who have made no formal study of magic may dress as the persona they wish to embody when it will advantage them.
+
+Masks are a crucial part of [[The_League_hearth_magic#Masks|League hearth magic]] and fashionable for everyone. League masks take influence from real world Venetian carnival masks, and typically cover the upper half of the face or all of it. People often match their masks to their outfits, and free companies or gangs of mountebanks often wear matching masks. Masks are made from a variety of materials: papier maché, ceramics, metal, leather or fabric. Plastic and resin are acceptable if painted to look like an appropriate material. Citizens who uses glasses often wear them over a fabric mask and many people use a mask mounted on a stick and held up in front of the face for comfort.
+
+A mask is the iconic piece of mage armour in the League, often paired with pauldrons and vambraces. A magical partlet is also common, providing the same protection that a pectoral would cover. The ideal mage armour is richly embossed with stylised designs. These might be similar to the filigree seen on decorated League plate armour or be images of runes, constellations, or dramaturgical symbols like the cup, mirror or blade, picked out in gemstones or pearls. Metal is often painted a vibrant colour, or dyed if leather, so that mage armour can contrast with or complement the outfit underneath. Like a bravo's armour, League mage armour will often employ a single exaggerated piece where a pair might otherwise be worn, such as one ornate pauldron or vambrace.
+<div class="imagegrid" style="grid-template-columns: 1fr 1fr 1fr;">
+{{CaptionedImage|file=League Magic 2.jpg|width=100%}}
+{{CaptionedImage|file=Masks1.jpg|width=100%}}
+{{CaptionedImage|file=LeagueMageArmour.jpg|width=100%}}
+</div>
+
+{{anchor|cities}}
+
+==The Five Cities==
+None of the League cities hold a monopoly on warm or heavier fabrics or garments, regardless of their climate. Whilst the southern cities of Tassato and Sarvos may experience warmer, Mediterranean temperatures, there are plenty of cold days there too, and citizens dress accordingly when they come to Anvil. Likewise, during warmer events, characters from Holberg and Temeschwar are just as likely to ditch their wools and furs for thinner, breezier clothing as players from any other city.
+
+Each city does have leanings towards colours or certain accessories, but League citizens are free to adopt elements of any city's fashions if they choose.
+
+'''Apulian:''' Oranges and purples are fashionable in Apulian, as are fabrics with an iridescent sheen. Jewellery is often chunkier and makes heavy use of polished, bright gold. It's popular to wear multiple necklaces or stacks of bracelets going partway up the arm. 
+
+'''Holberg:''' Many Holberg citizens prefer luxurious fabrics in an earthier, more sombre colour palette - popular colours include browns, dark greens, olive, wine red, and greys. Leather is more fashionable for garments and armour here than elsewhere in the League, and heavier fabrics and fur trims are prized.
+
+'''Sarvos:''' Sarvos fashions prioritise brighter colours that evoke the city's coastal region. Blues, teal, turquoise, silver and yellows are popular, as are nautical themes such as metal jewellery twisted to look like rope, strings of pearls, and pearl edging on garments. In a nod to the [[Sarvos#Recent_History|city's history]], many citizens incorporate tiny mirrors into the trim of their garments, add pieces of mirror to their masks, or use mirror motifs in their accessories. 
+
+'''Tassato:''' Tassatans are known for their extravagance and love of showing off. Bright reds, pinks and gold are more common here, with red and gold a classic Tassatan colour combination. Tassatans are also more likely to choose outfits in vibrant clashing colours, and they enjoy wearing ribbons and bows, both on garment fastenings and in the hair. Ribbons are sometimes added to garments to mark a personal achievement when the wearer has 'won' at something. 
+
+'''Temeschwar:''' Temeschwar's fashions favour darker colours, like Holberg but starker. Black is more popular here than elsewhere along with bright reds and greys. [https://en.wikipedia.org/wiki/Redwork Redwork] and [https://en.wikipedia.org/wiki/Blackwork blackwork] embroidery is a popular way to decorate shirts and chemises. Fur is more common in Temeschwar, especially on hats, capes and cloaks, reflecting the city’s [[Temeschwar#Overview|Varushkan history]]. Where other League citizens might add fur trim to a cape, a citizen of Temeschwar might just as readily make the whole cape out of fur.
+{{CaptionedImage|file=ApulianOrc.jpg|width=500|align=right}}
+
+==League Orcs==
+We recommend gloves rather than painting the hands for League orcs, but you can do either. If that makes it difficult to wear [[The_League_culture_and_customs#Rings|rings]] on your fingers, it is fine to wear them on a ribbon or chain around the neck or hanging off the wrist or belt. You could even pin a ring to your costume to wear as a brooch if you prefer. It is helpful to hide the joins where your orc mask and/or gloves meet your skin. Gaudy chokers or thick necklaces are ideal, but a bright [https://en.wiktionary.org/wiki/infinity_scarf infinity scarf], worn up or down, is a good alternative.
+	
+If you are not comfortable wearing a League [[The_League_hearth_magic#Masks|mask]] over an orc mask, you can use a mask held in front of the face with a stick.
+
+==Outside The Brief==
+{{OffBrief|nation=The League}}
+
+===Less Appropriate===
+The look and feel of the League is heavily inspired by the historical costumes worn during the European renaissance and the early Tudor period. The brief does ''not'' stick to a tight historical period because we want to ensure there is a good range of costume that people can feel comfortable wearing and still be on brief, but some of the distinctive looks of clothing from later periods is outside the brief and should be avoided where possible. When choosing a bodice or dress, it is helpful to read the guidance on [[Costume#Inappropriate_Costume|corsets]] on the main costume page.
+{{CaptionedImage|file=Shakespeare.jpg|width=300|align=right|caption=Avoid ruffs and oversized collars that flare out around the head}}
+Leagueish shirts are not worn with cravats and do not have cascading lace at the throat in a ‘highwayman’ or Regency style. They can have a higher neckline to keep out the cold but tend not to have pointed collars, lapels or buttons all the way down in the way a modern formal shirt would. The ideal sleeves are not tight to the arm, and long trailing sleeves that flare to a trumpet or bell shape at the wrist or dagged sleeves are less appropriate in the League, as they are iconic for Dawn.
+
+The 'robin hood' style [https://en.wikipedia.org/wiki/Bycocket bycocket], along with long-tailed hats like a [https://en.wikipedia.org/wiki/Liripipe liripipe] or [https://en.wikipedia.org/wiki/Chaperon_(headgear) chaperon], are ideal for [[the Marches]] and [[Dawn]] but less appropriate in the League. [https://en.wikipedia.org/wiki/Capotain Pilgrim hats] and the kind of tabards worn by Dumas' musketeers are also less appropriate as they are outside the brief for Empire. You can wear a wide-brimmed felt hat provided it has a rounded crown. Anything with a shaped crown is less appropriate - a modern cowboy hat is inappropriate for Empire. It's fine to pin one side of the hat to the crown, but don't pin two or more sides of the hat as this will make it look too much like a tricorn which is inappropriate for Empire.
+
+The ideal League skirts or dresses do not have any artificial support, so a [https://en.wikipedia.org/wiki/Farthingale farthingale], (often referred to as a bum roll), is less appropriate, as are [https://en.wikipedia.org/wiki/Bustle bustles], [https://en.wikipedia.org/wiki/Crinoline crinolines], and [https://en.wikipedia.org/wiki/Hoop_skirt hooped skirts]. Ruffs at the neck and wrists are less appropriate for Empire, and the famously large [https://en.wikipedia.org/wiki/Ruff_(clothing) ruffs] and huge upright collars of the Elizabethan era are inappropriate and should be avoided.
+
+A classic Regency dress is less appropriate in the League. They can be improved by replacing the arms with iconic sleeves that are slashed or puffed and by wearing a shirt or chemise underneath.
+{{CaptionedImage|file=Y-shape.png|width=150|align=right|caption=Inappropriate Y-shape cross}}
+
+===Inappropriate===
+[https://en.wikipedia.org/wiki/Frock_coat Frock coats], [https://en.wikipedia.org/wiki/Greatcoat greatcoats], [https://en.wikipedia.org/wiki/Tailcoat tailcoats] and [https://en.wikipedia.org/wiki/Spencer_(clothing) Spencer jackets] are all from a much later period than the inspiration for the League. They are not appropriate for use in Empire. Likewise, military jackets such as the ones worn by [https://en.wikipedia.org/wiki/Hussar hussars] with elaborate gold braid or [https://en.wikipedia.org/wiki/Epaulette epaulettes]. Elaborate powdered wigs like a [https://www.britannica.com/topic/peruke peruke] that were made popular by [https://en.wikipedia.org/wiki/Louis_XIII Louis XIII] are not appropriate.
+
+Our look and feel for League priests draws inspiration from the garments worn by Christian clergy, but you should avoid anything with uniquely Christian symbolism. Please ensure your priest costume does not feature Christian or Celtic crosses or [https://en.wikipedia.org/wiki/Christogram christograms] such as ‘IHS’ or the [https://en.wikipedia.org/wiki/Chi_Rho Chi Rho]. If you are using any commercially made or second-hand vestments, please make sure they don't incorporate any real-world religious iconography. If you are wearing a chasuble in the [https://en.wikipedia.org/wiki/Chasuble#Current_usage 'gothic'] style, which is loose and flowing, you must not wear one with decorative strips on the body of the chasuble that form a Y-shape, which resembles a Christian cross when the arms are held open.
+
+A [https://en.wikipedia.org/wiki/Codpiece codpiece], a shaped piece of material covering the crotch area attached to the front of hose, is acceptable, provided it conceals rather than emphasises the shape. The ideal codpiece is streamlined and discreet, not protruding. It is intended for covering an area, not drawing attention to it. If you are wearing hose with a codpiece, it should match the hose it is worn with - eye-catching decoration should be avoided. Codpieces must not violate our conduct rules on [[Conduct#Sexual_Activity_and_Performances|sexualising the environment]].
+
+{{The League Links}}

@@ -1,0 +1,4 @@
+[[Category:Runesmith's Law]]
+<div style="float:right; width: 100px; clear: right;">{{CaptionedImage|file=Pallas.png||align=right|width=100}}</div>
+===Runesmith's Law===
+This magic item is part of [[Wintermark_economic_interests#Runesmith.27s_Law|Runesmith's Law]] rather than Imperial Lore. Any Wintermark character with the [[Crafting skills#Artisan|artisan]] skill can learn to make this item. Before they are able to do so they must swear a powerful ''geas'', and if they later leave the nation they lose the ability to make this item.

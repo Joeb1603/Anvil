@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Proposed: Kahraman, Seconded: Feroz">To commission the repair of the Cerevado Nets, self funded by the Dhomiros Council for 50 thrones. This gathers 6 rings of ilium per season, and is a nationally elected position</quote>
+==Overview==
+* Repairs the [[Cerevado Nets]]
+* Passed
+* More information can be found in the '''[[Where_the_river_rises#Glitter|Where the river rises]]''' wind of fortune
+
+==Date==
+* Spring 387YE
+
+==Cost==
+* Costs as per opportunity
+* 50 thrones
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Repair_Cerevado_Nets}}
+==Outcome==
+* Now completed, the Cerevado Nets will provide six rings of [[ilium]] each season.

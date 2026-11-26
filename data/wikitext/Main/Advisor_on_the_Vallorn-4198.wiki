@@ -1,0 +1,59 @@
+{{CaptionedImage|file=Vallornguard sodality.png|title=Vallornguard|align=left|width=220}}
+==Overview==
+The Advisor on the Vallorn is an [[Imperial title]] that has undergone several significant changes since it was first established. The position was established by [[Create title of Advisor on the Vallorn|majority vote of the Senate]] in Spring 378YE, appointed by the [[Navarr]] [[senator|senators]] and only available to Navarr citizens.  During the Summer Solstice 387YE, following the [[Eight_for_a_wish|formation]] of the [[Vallornguard]] [[Imperial Sodality]], the role of the Advisor came under [[Eight_for_a_wish#Role_of_the_Advisor|significant scrutiny]]. The Imperial Senate [[387YE_Summer_Solstice_Senate_sessions#Redefine_Advisor_on_the_Vallorn|determined]] that the title should change; it ceased to be a Navarr position, instead being appointed by the Vallornguard, and responsibility for overseeing the [[Great Library of Hacynian]] passed to the [[Singer of the Silence]]. No additional powers or responsibilities were assigned to the title at the time, but the Senate voted to [[387YE_Autumn_Equinox_Senate_sessions#Amend_Advisor_on_the_Vallorn|amend the title]] at the Autumn Equinox 387YE to give it the power to address the [[Military Council]].
+
+The Advisor on the Vallorn has been the target of several attacks by agents of the [[Whisper Gallery]]. These [[eternal|eternals]] appear to [[Bloody_murder|object]] to the Advisor's role in directing the Empire's [[historical research]] agenda. This was likely because prior to the Spring Equinox 384YE, the Advisor had the power to commission [[historical research]]. That power [[385YE_Spring_Equinox_Senate_sessions#Amend_Historical_Research|was removed]] following [[A_long_December#Hold_On_To_These_Moments|changes]] to how the [[Historical_research#The_Department_of_Historical_Research|Department]] was organised. It seems that this change has removed the eternals' dislike of the title; the threat to the Advisor has dissolved like morning mist.
+==Responsibilities==
+The title is responsible for advising the Senate on matters relating to the [[vallorn]], and protecting the Empire from the influence of this mysterious force or entity.
+
+==Powers==
+===Address the Senate===
+The Advisor on the Vallorn has the right to [[Senate address|make an address]] to the Senate once per summit. This is intended to allow them to present important information for the Senate's consideration. It is extremely impolite not to inform the Speaker's seat of your intention to use the Right of Address in advance of a session.
+{{CaptionedImage|file=Advisory Advisors Advising.jpg|align=right|caption=The Advisor speaks to the Senate, but is often prepared to offer expert assistance to anyone who needs it.|width=500}}
+
+===Address the Council===
+The Advisor on the Vallorn has the right to make a [[Council address|address]] to the [[Military Council]] once per summit. This is intended to allow them to advise the Military Council on matters pertaining to the vallorn. To use this power, the Advisor informs the [[Herald of the Council]] that they wish to make an address, which will then be added to the agenda for the next [[Council session]].
+
+==Appointment==
+The Advisor on the Vallorn is appointed during the Autumn Equinox each year by members of the Vallornguard.
+
+Any Imperial citizen can hold this title. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+==Publication==
+Notes presented to the Imperial Senate by '''Neb''', a previous Advisor on the Vallorn, have been [[:File:Vallorn_Notes.pdf|made available]] to anyone who is interested. 
+
+'''Nathair Autumngale''' has made two reports available: one on the [[Heirs of the Terunael report|Heirs of the Terunael]], and the other on the [[Report on Terunael mineworkings|Terunael mineworkings]]. Nathair has also made an [[:File:History in your Hand.pdf|overview report]] available to clear up some common misconceptions around vallorn and Navarr.
+
+The Advisor on the Vallorn has also commissioned a number of [[historical research]] projects. Details of these projects can be found [[Historical_research#Recent_Historical_Research|here]].
+{{CaptionedImage|file=Seren Embercast.jpg|caption='''Seren Embercast''', Advisor on the Vallorn|align=left|width=250}}
+{{RecentElections|Advisor_on_the_Vallorn}}
+
+==History==
+The Advisor on the Vallorn was originally created to provide the Senate with advice on the vallorn, but the title soon became the focal point for Navarr and the wider Empire's efforts to destroy the ancient enemy after the position was given the power to commission historical research.
+
+The Advisors continued to gather information and research on the vallorn culminating in the writing of the seminal text, "On the Nature of the Vallorn" by the Advisor at the time, Siân Eternal. The book brought together everything that was known on the subject and in the years following publication it formed the focal point of [[The bones of what you believe|the research commissioned at the Great Library of Hacynian]]. When [[A thousand years of longing|the results of that research were released]] it was clear just how instrumental the title had been.
+
+With the formation of the [[Vallornguard]] Imperial Sodality in 387YE, however, the title came under additional scrutiny. A title so closely connected to understanding and advising about the threat of the vallorn, which had originally been a specifically Navarr position, was ruled to be unconstitutional in its current form. The Senate ultimately chose to make it an Imperial position appointed by the new Sodality.
+
+{{Vallorn links}}
+<!--
+The
+ Great Library of Hacynian is built around the regio in the area known as Mourning Hollow in Summersend, Hercynia. It is built in the style of the Terunael library that once stood on the site. In the centre of the library sits a large weirwood table, its surface
+ adorned with carved swirling patterns. These twisted paths are marked by fresh bloodstains, marking the work of vates who have come to the area to study and compile the history of Navarr and their Terunael roots. At the centre of the table sits a battered
+ cauldron, The Bowl of Phaleron, an ancient covenstone that once held pride of place in the structure that has been returned to its original home.
+
+The shelves are filled with books, scrolls and research notes and several of them are constructed
+ using the broken pillars of the original structure as a focal feature. Librarians and researchers who work in the library are supported by the nearby Darkhaven Wayhouse and the stridings who travel through the area.
+
+An alcove within the structure contains a small shrine to Wisdom to encourage the virtuous application
+ of the knowledge uncovered and collected in the library. The shrine is lit by a single lightstone sat upon a wooden candlestick with swirling vines carved on its surface. The candlestick was carved by Jhessail Cedny, one of the founders of the nearby Steading
+ of Foxden. The table in front of the candlestick is inscribed with the words she spoke upon the blessing of her steading; "Trust and wisdom, and outfoxing others is what we will achieve for the glory and the good of the Empire" This candlestick also sat in
+ the original library before it was destroyed by Vard invaders. 
+The
+ Great Library is overseen by the Terunael Lorekeeper. While not necessary it is recommended that the Lorekeeper take on the oath 'I will protect the Library for as long as I can' this oath was originally sworn by a pre-Imperial Navarri vate whose spirit was
+ kept captive in Mourning Hollow by the volodny Gorowac. His soul was freed in 379YE when his oath was taken on by Sian Eternal alongside other souls being freed from the area by the efforts of heroes of the Empire. It is the work of the Lorekeeper to not only
+ compile and preserve the history of Navarr but to protect it so the events of the past are not repeated.
+
+ooc: The item ID for the candlestick is 9968 and the ID of the bowl is 9989
+-->
+[[Category:Title]][[Category:Vallorn]]

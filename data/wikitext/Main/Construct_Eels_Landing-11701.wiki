@@ -1,0 +1,19 @@
+[[Category:Senate Motion]][[Category:386YE Spring]]
+__NOTOC__
+<quote by="Proposed: Bregasland, Seconded: Therunin">To develop the docks at Eels Landing in the North Fens, Bregasland. Ceding these docks to House Greywater in recognition of their service during the occupation of Bregasland. To grant the town of Eels Landing a market charter as funded by House Bolholt and the Black Vigil.</quote>
+==Overview==
+* Establishes the market town of Eel's Landing in the North Fens, [[Bregasland]] as per '''[[New_port,_old_wine#Eel's_Landing|New port, old wine]]''' wind of fortune
+* Passed
+* Charter ratified by Emperor Vesna Borkovna Prochnost
+==Date==
+* Spring 386YE
+==Cost==
+* Costs as per opportunity
+* 6 weirwood
+* 6 white granite
+* 36 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Eel%27s_Landing}}
+==Outcome==
+* Now complete Eel's Landing will start expanding into a small town. Taxation drawn from Bregasland has been reduced by two thrones a season.

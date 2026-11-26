@@ -1,0 +1,19 @@
+[[Category:Senate Motion]][[Category:386YE Spring]]
+__NOTOC__
+<quote by="Announced by Laughlan, Master of Rings">To commission the construction of a Prosperous Counting House in Karsk. Self funded by Wolfs Hearth and Embers of Iversgaard. Costing 5 weirwood, 5 white granite, and 30 crowns.</quote>
+==Overview==
+* Constructs an [[edifice]] in [[Karsk]] that increases the Virtue Fund as per the '''[[Forwards and Rewards]]''' wind of fortune
+* Announcement by the [[Master of Rings]]
+
+==Date==
+* Spring 386YE
+==Cost==
+* Costs as per opportunity
+* 5 wains of weirwood
+* 5 wains of white granite
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Karsk_Counting_House}}
+==Outcome==
+* Now that work is complete, the [[Rewarding|Virtue Fund]] receives 12 crowns each summit in donations from citizens of the territory to [[Karsk#The_Iron_Hearth|the Iron Hearth]]

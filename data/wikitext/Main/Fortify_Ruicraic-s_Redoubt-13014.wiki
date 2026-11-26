@@ -1,0 +1,24 @@
+[[Category:Senate Motion]][[Category:387YE Summer]]
+__NOTOC__
+<quote by="Proposed: Skarsind, Seconded: Mareave">To commission a fortification at Ruicraic's Redoubt, Eoradal as per the opportunity identified by the Tamazi sept in Autumn 386YE. This is fully funded by the Imperial Orc nation with help from Reumah's Redoubt. This is in Mareave.</quote>
+==Overview==
+* Constructs a [[fortification]] in Eoradal, Mareave
+* Passed
+* More information can be found in the '''[[We_all_stand#Storm_Lords_Sentinel|We all stand]]''' wind of fortune
+
+==Date==
+* Summer 387YE
+
+==Cost==
+* Costs as per opportunity
+* 50 white granite
+* 30 weirwood
+* 36 thrones (increased by the [[Region_qualities#Under-developed|under-developed]] nature of Icarion)
+* 8 thrones upkeep
+* Six months to complete
+
+==Progress==
+{{CommissionProgress|Fortify_Ruicraic%27s_Redoubt}}
+==Outcome==
+* Now complete, Rucraic's Redoubt stands in Eoradal, Mareave, as a rank one fortification
+* This fortification could also serve as an [[embassy]] to Skoura if agreed with that foreign nation

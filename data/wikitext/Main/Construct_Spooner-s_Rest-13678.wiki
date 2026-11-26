@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:388YE Spring]]
+__NOTOC__
+<quote by="Announced by Eldrid 'Phoenix Flame' Vestardottir, Bearer of an Imperial Wayleave">To commission the liao sinecure "Spooner's Rest", to be located in Hahnmark at Wood Heath within Dunhearth Hall. To be held by the "Conscience of the Dunnings". Appointed annually by the Wintermark National Assembly and to be revoked by the Wintermark National Assembly. Built to celebrate the life and passions of the fabled Tobrytan Dunning, the church has many depictions of golden eagles and yellow suns. The holder is responsible for providing advice and guidance for the Dunning family
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in Wood Heath, Hahnmark
+* Announcement by '''Eldrid 'Phoenix Flame' Vestardottir''', as the [[Bearer of an Imperial Wayleave]]
+
+==Date==
+* Spring 388YE
+
+==Cost==
+* Standard costs apply
+* 10 wains of white granite
+* 30 crowns in labour costs
+* Three months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Spooner%27s_Rest}}
+==Outcome==
+* Now complete, the [[Conscience of the Dunnings]] will be available to appoint by the Wintermark Assembly for the first time at the Autumn Equinox 388YE

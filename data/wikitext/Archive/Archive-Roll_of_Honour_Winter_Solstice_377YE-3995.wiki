@@ -1,0 +1,132 @@
+<table class="wikitable sortable"><tr><th>Army</th><th>Citizen</th><th>Nation</th><th>Territory</th><th>Banner</th></tr>
+<tr><td>Black Thorns</td><td>Cormac Farkas</td><td>Navarr</td><td>Liathaven</td><td></td></tr>
+<tr><td>Black Thorns</td><td>Merel</td><td>Navarr</td><td>Therunin</td><td>Pathfinders</td></tr>
+<tr><td>Black Thorns</td><td>Merryn Farkas</td><td>Navarr</td><td>Therunin</td><td>Ruis Farkas</td></tr>
+<tr><td>Drakes</td><td>Krieger Merkwurdigliebe</td><td>The League</td><td>Holberg</td><td>Holsburger Haudegen</td></tr>
+<tr><td>Granite Pillar</td><td>Roman Aleksander Alinyova</td><td>Highguard</td><td>Bastion</td><td></td></tr>
+<tr><td>Granite Pillar</td><td>Cayleb</td><td>Highguard</td><td>Casinea</td><td>Felix's Watch Banner</td></tr>
+<tr><td>Granite Pillar</td><td>Ruth</td><td>Highguard</td><td>Casinea</td><td>Felix's Watch Banner</td></tr>
+<tr><td>Hounds of Glory</td><td>Francis de Wulf</td><td>Dawn</td><td>Astolat</td><td>House de Gauvain</td></tr>
+<tr><td>Hounds of Glory</td><td>Ywain the Persistent</td><td>Dawn</td><td>Astolat</td><td>House de Gauvain</td></tr>
+<tr><td>Hounds of Glory</td><td>Bohemond De Rondell</td><td>Dawn</td><td>Astolat</td><td>House De Rondell</td></tr>
+<tr><td>Hounds of Glory</td><td>Lord Colwynn de Rondell</td><td>Dawn</td><td>Astolat</td><td>House De Rondell</td></tr>
+<tr><td>Hounds of Glory</td><td>Charles Russell</td><td>Dawn</td><td>Astolat</td><td>Morning House (Banner)</td></tr>
+<tr><td>Hounds of Glory</td><td>Amoret d'Acier</td><td>Dawn</td><td>The Barrens</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Escalados de Carsenere</td><td>Dawn</td><td>The Barrens</td><td>House de Carsenere</td></tr>
+<tr><td>Hounds of Glory</td><td>Garlon de Carsenere</td><td>Dawn</td><td>The Barrens</td><td>House de Carsenere</td></tr>
+<tr><td>Hounds of Glory</td><td>Taliesin Steelsmith</td><td>Dawn</td><td>The Barrens</td><td>House de Carsenere</td></tr>
+<tr><td>Hounds of Glory</td><td>Frederik Novarion</td><td>Dawn</td><td>Weirwater</td><td>House Novarion</td></tr>
+<tr><td>Hounds of Glory</td><td>Isolde Novarion</td><td>Dawn</td><td>Weirwater</td><td>House Novarion</td></tr>
+<tr><td>Hounds of Glory</td><td>Lady Clarice Novarion</td><td>Dawn</td><td>Weirwater</td><td>House Novarion</td></tr>
+<tr><td>Hounds of Glory</td><td>Nicanor</td><td>Highguard</td><td>Bastion</td><td>Felix's Watch Banner</td></tr>
+<tr><td>Hounds of Glory</td><td>Ardon</td><td>Highguard</td><td>Casinea</td><td>Cantiarch's Hold</td></tr>
+<tr><td>Hounds of Glory</td><td>Esau</td><td>Highguard</td><td>Casinea</td><td>Cantiarch's Hold</td></tr>
+<tr><td>Hounds of Glory</td><td>Barachel of Adina's Charge</td><td>Highguard</td><td>Casinea</td><td>Daintree Survivors</td></tr>
+<tr><td>Hounds of Glory</td><td>mathayus</td><td>Highguard</td><td>Necropolis</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Melchior Benjamin Fletcher</td><td>Highguard</td><td>Necropolis</td><td>Banner of the Cenotaph</td></tr>
+<tr><td>Hounds of Glory</td><td>Thomir</td><td>Highguard</td><td>Necropolis</td><td>Banner of the Cenotaph</td></tr>
+<tr><td>Hounds of Glory</td><td>Skinner</td><td>Highguard</td><td>Reikos</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Gralka</td><td>Imperial Orcs</td><td>unknown</td><td>Stormcrow</td></tr>
+<tr><td>Hounds of Glory</td><td>Saru</td><td>Imperial Orcs</td><td>unknown</td><td>Stormcrow</td></tr>
+<tr><td>Hounds of Glory</td><td>Krell Stormcrow</td><td>Imperial Orcs</td><td>Summer Storm</td><td>Stormcrow</td></tr>
+<tr><td>Hounds of Glory</td><td>Bruk</td><td>Imperial Orcs</td><td>Summer Storm</td><td>The Irontide</td></tr>
+<tr><td>Hounds of Glory</td><td>Gust</td><td>Imperial Orcs</td><td>Summer Storm</td><td>The Irontide</td></tr>
+<tr><td>Hounds of Glory</td><td>Irontide Isk</td><td>Imperial Orcs</td><td>Summer Storm</td><td>The Irontide</td></tr>
+<tr><td>Hounds of Glory</td><td>Irontide Kask</td><td>Imperial Orcs</td><td>Summer Storm</td><td>The Irontide</td></tr>
+<tr><td>Hounds of Glory</td><td>Irontide Rad</td><td>Imperial Orcs</td><td>Summer Storm</td><td>The Irontide</td></tr>
+<tr><td>Hounds of Glory</td><td>Vio</td><td>Imperial Orcs</td><td>Summer Storm</td><td>The Irontide</td></tr>
+<tr><td>Hounds of Glory</td><td>Garad</td><td>Imperial Orcs</td><td>Winter Sun</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Matak</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Bloodcrows</td></tr>
+<tr><td>Hounds of Glory</td><td>Dayus</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+<tr><td>Hounds of Glory</td><td>Emjin</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+<tr><td>Hounds of Glory</td><td>Kalindar</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+<tr><td>Hounds of Glory</td><td>Karr</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+<tr><td>Hounds of Glory</td><td>Silalli</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+<tr><td>Hounds of Glory</td><td>Owyn</td><td>Navarr</td><td>unknown</td><td>Exile's End</td></tr>
+<tr><td>Hounds of Glory</td><td>Brennos Brackensong</td><td>Navarr</td><td>Broceliande</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Dane</td><td>Navarr</td><td>Liathaven</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Saeros Splitroot</td><td>Navarr</td><td>Miaren</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Rowyn Realms Reach</td><td>Navarr</td><td>Miaren</td><td>Open Skies</td></tr>
+<tr><td>Hounds of Glory</td><td>Terin Realms Reach</td><td>Navarr</td><td>Miaren</td><td>Open Skies</td></tr>
+<tr><td>Hounds of Glory</td><td>Sketh</td><td>Navarr</td><td>Therunin</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Cain</td><td>Navarr</td><td>Therunin</td><td>Kithkin</td></tr>
+<tr><td>Hounds of Glory</td><td>Geraint Broad-Backed</td><td>Navarr</td><td>Therunin</td><td>Open Skies</td></tr>
+<tr><td>Hounds of Glory</td><td>Cigydd Summer Crow</td><td>Navarr</td><td>Therunin</td><td>The Summer Crows</td></tr>
+<tr><td>Hounds of Glory</td><td>Arran I Scipio I Guerra</td><td>The Brass Coast</td><td>Feroz</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Isandro i Sotero i Riqueza</td><td>The Brass Coast</td><td>Feroz</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Berenguer i Muhareeb i Guerra</td><td>The Brass Coast</td><td>Kahraman</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Vito Sayap Guerra</td><td>The Brass Coast</td><td>Kahraman</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>carlos I astuto I guerra</td><td>The Brass Coast</td><td>Madruga</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Beltran I Ezmara I Erigo</td><td>The Brass Coast</td><td>Segura</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Siegfried van Holberg</td><td>The League</td><td>Holberg</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Otto Freidrich Von Holsberg</td><td>The League</td><td>Holberg</td><td>Compagnia De Rossi</td></tr>
+<tr><td>Hounds of Glory</td><td>Ivan von Rigo</td><td>The League</td><td>Temeschwar</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Darius Rosenthal</td><td>The League</td><td>Temeschwar</td><td>The Brotherhood of the Ashen Tower</td></tr>
+<tr><td>Hounds of Glory</td><td>Jorah Andriksson</td><td>The League</td><td>Temeschwar</td><td>The Brotherhood of the Ashen Tower</td></tr>
+<tr><td>Hounds of Glory</td><td>Lann</td><td>The League</td><td>Temeschwar</td><td>The Brotherhood of the Ashen Tower</td></tr>
+<tr><td>Hounds of Glory</td><td>Leo Alexio</td><td>The League</td><td>Temeschwar</td><td>The Brotherhood of the Ashen Tower</td></tr>
+<tr><td>Hounds of Glory</td><td>Nicolo Sanguedolce  Di Sarvos</td><td>The League</td><td>Temeschwar</td><td>The Brotherhood of the Ashen Tower</td></tr>
+<tr><td>Hounds of Glory</td><td>Oriana Sartelli</td><td>The League</td><td>Temeschwar</td><td>The Brotherhood of the Ashen Tower</td></tr>
+<tr><td>Hounds of Glory</td><td>Reaoheal</td><td>The League</td><td>Temeschwar</td><td>The Brotherhood of the Ashen Tower</td></tr>
+<tr><td>Hounds of Glory</td><td>Roger Maynard</td><td>The Marches</td><td>unknown</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Harry Armstrong</td><td>The Marches</td><td>Mournwold</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Walter Savage</td><td>The Marches</td><td>Mournwold</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Sarus Auricspire</td><td>Urizen</td><td>unknown</td><td>Horizon's Edge</td></tr>
+<tr><td>Hounds of Glory</td><td>Archemorus</td><td>Urizen</td><td>Morrow</td><td>Citadel of Eye's Overwatch</td></tr>
+<tr><td>Hounds of Glory</td><td>Ludovigo "Aquila Overwatch" Vitali</td><td>Urizen</td><td>Morrow</td><td>Citadel of Eye's Overwatch</td></tr>
+<tr><td>Hounds of Glory</td><td>Vaan</td><td>Urizen</td><td>Morrow</td><td>Horizon's Edge</td></tr>
+<tr><td>Hounds of Glory</td><td>Vulpes</td><td>Urizen</td><td>Zenith</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Tanwyn Ankarien</td><td>Urizen</td><td>Zenith</td><td>Ankarien's Revenge</td></tr>
+<tr><td>Hounds of Glory</td><td>Decius Cascade</td><td>Urizen</td><td>Zenith</td><td>Spire of the Celestial Cascade</td></tr>
+<tr><td>Hounds of Glory</td><td>Magnus Anatolyvich Prochnost</td><td>Varushka</td><td>Karov</td><td>The Embers of Ivarsgard</td></tr>
+<tr><td>Hounds of Glory</td><td>Vilkas Antonovich Prochnost</td><td>Varushka</td><td>Karov</td><td>The Embers of Ivarsgard</td></tr>
+<tr><td>Hounds of Glory</td><td>Staslo Cziboriev Dmienka</td><td>Varushka</td><td>Miekarova</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Danica Mala Severyan</td><td>Varushka</td><td>Miekarova</td><td>Eagles of Gnijezdo</td></tr>
+<tr><td>Hounds of Glory</td><td>Valentin Ivarovich Severyan</td><td>Varushka</td><td>Miekarova</td><td>Eagles of Gnijezdo</td></tr>
+<tr><td>Hounds of Glory</td><td>Zdenka Branovna Ulavna</td><td>Varushka</td><td>Volodmartz</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Mandrake Lightfoot</td><td>Wintermark</td><td>unknown</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Silvia</td><td>Wintermark</td><td>unknown</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Calhoun</td><td>Wintermark</td><td>Hahnmark</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Sulkavaris ( formerly Guthwulf)</td><td>Wintermark</td><td>Hahnmark</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Teothric 'Stand'</td><td>Wintermark</td><td>Hahnmark</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Athelstan Brunson</td><td>Wintermark</td><td>Hahnmark</td><td>Bjornholt</td></tr>
+<tr><td>Hounds of Glory</td><td>Aedred 'Firebird' apMagor</td><td>Wintermark</td><td>Hahnmark</td><td>Renwaerd</td></tr>
+<tr><td>Hounds of Glory</td><td>Brandgar Tyrshalting</td><td>Wintermark</td><td>Hahnmark</td><td>Renwaerd</td></tr>
+<tr><td>Hounds of Glory</td><td>Eofor Tyrshalt</td><td>Wintermark</td><td>Hahnmark</td><td>Renwaerd</td></tr>
+<tr><td>Hounds of Glory</td><td>Rynweald</td><td>Wintermark</td><td>Hahnmark</td><td>Renwaerd</td></tr>
+<tr><td>Hounds of Glory</td><td>Tager Tyrshalt</td><td>Wintermark</td><td>Hahnmark</td><td>Renwaerd</td></tr>
+<tr><td>Hounds of Glory</td><td>Hallgeir Sherarding</td><td>Wintermark</td><td>Hahnmark</td><td>Sherard Hunters (Banner)</td></tr>
+<tr><td>Hounds of Glory</td><td>Harald</td><td>Wintermark</td><td>Hahnmark</td><td>Vesalligr</td></tr>
+<tr><td>Hounds of Glory</td><td>Ranulf Six-Lives</td><td>Wintermark</td><td>Hahnmark</td><td>Vesalligr</td></tr>
+<tr><td>Hounds of Glory</td><td>Brand Wulfgarsson</td><td>Wintermark</td><td>Kallavesa</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Sighelm</td><td>Wintermark</td><td>Kallavesa</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Aethelstan Korping</td><td>Wintermark</td><td>Sermersuaq</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Joakim</td><td>Wintermark</td><td>Sermersuaq</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Kye Knife-Born</td><td>Wintermark</td><td>Sermersuaq</td><td>Saker</td></tr>
+<tr><td>Hounds of Glory</td><td>Rheged Redspear</td><td>Wintermark</td><td>Sermersuaq</td><td>Saker</td></tr>
+<tr><td>Hounds of Glory</td><td>Sigurd Stenning</td><td>Wintermark</td><td>Sermersuaq</td><td>Stenstorp</td></tr>
+<tr><td>Hounds of Glory</td><td>Aerdon Korpisson</td><td>Wintermark</td><td>Sermersuaq</td><td>Sussivari Oathsworn Fyrd</td></tr>
+<tr><td>Hounds of Glory</td><td>Vanhe Korppi</td><td>Wintermark</td><td>Sermersuaq</td><td>Sussivari Oathsworn Fyrd</td></tr>
+<tr><td>Hounds of Glory</td><td>Niilo Beinteinssen</td><td>Wintermark</td><td>Sermersuaq</td><td>The Rangers of Nanuk</td></tr>
+<tr><td>Hounds of Glory</td><td>alrik wrothgarson</td><td>Wintermark</td><td>Skarsind</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Bjorn Fellsword</td><td>Wintermark</td><td>Skarsind</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Eran</td><td>Wintermark</td><td>Skarsind</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Jussi</td><td>Wintermark</td><td>Skarsind</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Laughing Wulfric</td><td>Wintermark</td><td>Skarsind</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Odda Baldulfsson</td><td>Wintermark</td><td>Skarsind</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Osric Skarsindson</td><td>Wintermark</td><td>Skarsind</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Volk</td><td>Wintermark</td><td>Skarsind</td><td></td></tr>
+<tr><td>Hounds of Glory</td><td>Aelfric Wolfsbane</td><td>Wintermark</td><td>Skarsind</td><td>Bjornholt</td></tr>
+<tr><td>Hounds of Glory</td><td>Wulfric Ukkosson</td><td>Wintermark</td><td>Skarsind</td><td>Holt Hyrde</td></tr>
+<tr><td>Hounds of Glory</td><td>Thanmir Hrafnar</td><td>Wintermark</td><td>Skarsind</td><td>Hrafnar</td></tr>
+<tr><td>Hounds of Glory</td><td>Ragnar</td><td>Wintermark</td><td>Skarsind</td><td>Renwaerd</td></tr>
+<tr><td>Northern Eagle</td><td>Nadezhda Nadyovna Gremani</td><td>Varushka</td><td>unknown</td><td>Family Gremani</td></tr>
+<tr><td>Northern Eagle</td><td>Iana</td><td>Varushka</td><td>Miekarova</td><td></td></tr>
+<tr><td>Northern Eagle</td><td>Senghir Vorbarra Strascovian</td><td>Varushka</td><td>Miekarova</td><td></td></tr>
+<tr><td>Northern Eagle</td><td>Ravenka Nadyovna Gremani</td><td>Varushka</td><td>Miekarova</td><td>Family Gremani</td></tr>
+<tr><td>Quiet Step</td><td>Kestrel</td><td>Navarr</td><td>Broceliande</td><td>Brackensong Steading (Banner)</td></tr>
+<tr><td>Strong Reeds</td><td>Jack Flint</td><td>The Marches</td><td>unknown</td><td>House Bolholt</td></tr>
+<tr><td>Strong Reeds</td><td>Edwin de Warrenne</td><td>The Marches</td><td>Bregasland</td><td>Order of the Forgotten Word</td></tr>
+<tr><td>Summer Storm</td><td>T'onk</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+</table>
+{{Template:HonourLinks}}

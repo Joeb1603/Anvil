@@ -1,0 +1,19 @@
+==Overview==
+The Guide to the Lost is an [[Imperial title]] awarded to a citizen of the [[Imperial Orcs]]. Construction of the Open Hand of the Ancestors was [[Construct Open Hand of the Ancestors|announced]] by '''Bleakshield Groza''' as [[Legion Engineer]] during the Summer Solstice 385YE. The sinecure forms part of the Proffered Hand Network.
+
+==Responsibilities==
+The Guide to the Lost has no particular responsibilities beyond the safety of the sinecure. If the Open Hand of the Ancestors were to be threatened in any way, it would be the responsibility of the Guide to the Lost to deal with those threats. Likewise, if any particular [[opportunity]] were to arise related to the Open Hand, the Guide would expect to be consulted as to how that opportunity might be resolved.
+
+==Powers==
+===A Portion of Liao===
+The sinecure provides 12 doses of [[liao]] to the Guide to the Lost each season, to be used as they see fit. 
+
+==Appointment==
+The Guide to the Lost is an [[Imperial Orcs|Imperial Orc]] [[appointment]] made by a [[judgement]] of the Imperial Orcs [[Assembly#The_National_Assemblies|National Assembly]]. This is a national title and can only be held by a citizen of the Imperial Orcs.
+
+As with most sinecures, this appointment has [[tenure]]. The assumption is that the Guide to the Lost retains the position until they die or step down. They can be [[Revocation|revoked]] by a lesser majority of the [[Assembly#General_Assembly|General Assembly]], the Assembly of the Nine, or by the Imperial Orcs National Assembly.
+<!--{{CaptionedImage|file=FILE.png|caption=NAME, Guide to the Lost|align=left|width=400}}-->
+{{RecentElections|Guide_to_the_Lost}}
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Imperial Orcs]]

@@ -1,0 +1,2 @@
+* '''Type:''' [[Spellcasting#Regular_Spells|Regular spell]]
+* '''Cost:''' {{{1}}} Personal mana

@@ -1,0 +1,53 @@
+---
+title: Rhianos
+source: https://www.profounddecisions.co.uk/empire-wiki/Rhianos
+class: in-character
+topic: eternals
+categories:
+- Eternals
+last_edited: '2026-08-12T16:21:54Z'
+revision: 143363
+---
+
+# Rhianos
+
+*[Image: The banners of the Regent of the Eternal Sea invariably depict sea creatures - both mundane and fanciful.](https://www.profounddecisions.co.uk/empire-wiki/File:RhianosArt.jpg)*
+
+## Eternal of Summer
+
+### Sobriquets
+
+Rhianos has been called both King Rhianos and Queen Rhianos, but the most common sobriquet appears to be *Regent of the Eternal Sea*. Rhianos is believed to have relatively close ties with magicians in [Asavea](../foreign-nations/Asavean_Archipelago.md) and the [Sarcophan Delves](../foreign-nations/Sarcophan_Delves.md).
+
+As befits a changeable and dynamic eternal, Rhianos collects names and sobriquets. They are also known as *Foamfollower*, *Bottlenose*, *Lord (or Lady) Gullscry*, *Hornsounder*, and *Wind-at-the-Back*, all names that present a positive, supportive aspect. In some parts of the world they are seen as having a more sinister aspect. For example, in parts of the [Sumaah Republic](../foreign-nations/Sumaah_Republic.md) they are known by a title that translates roughly to *Homebreaker*, referencing the call to adventure which often causes folk to abandon their family in pursuit of glory and excitement. The Sumaash also call him *Ninth Wave*. In parts of [Varushka](../nations/varushka/Varushka.md), they are called *Pathtwister*, the one who ensures that travellers encounter dangers and challenges. A few old texts go further, and name the eternal *Deathpiper* claiming that their siren call of adventure lures the foolish and unwise into disaster.
+
+Rhianos appears to have more names than there are stars in the sky. Other sobriquets include *Furole*, *Quicksilver*, *Glimmerbreeze*, *Corposant*, *Dancing Merlin*, *Azure Songbird*, *Bright Zephyr*, *Booming Avalanche*, *Endless Voyage*, *Diving Falcon*, *Treasure Giver*, *Golden Shatterspray*, *Lightning Fish*, *Leaping Salmon*, *Roaring Wavefather*, *Mother of the Wildest*, *Waverider*, *Tiger's Eye*, *Pathtwister*, *Foamfollower*, *Shimmergold*, *Stormchaser*, *Sail Runner*, *Second Strike*, *Coruscating Oarfish*, *Seadragon*, *Windweaver*, *Spume Sailor*, *Swoopingfeather*, *Tide Dancer*, *Ocean Caller*, *Leaf-on-the-Breeze*, the *Auspicious Mariner*, the *Laird of the Golden Tides*, the *Sailor on the Sunlit Sea*, the *Lord of the Argent Rime*, the *King of the Nine Tides*, the *Lady of the Far Horizon*, the *Master of the Far Shore*, and the *Lord of the Rolling Waves*. There is a belief that their heralds like to make up new names for their eternal lord on the fly: their heralds deny this and claim that Rhianos simply *likes* names, especially ones with a dramatic cadence and a nautical or adventurous theme.
+
+## Appearance
+
+Unknown within the Empire. Foreign magicians characterise them as being somewhat fluid in appearance - "changeable as the sea itself". While it is unlikely they are a shapeshifter in the way (for example) the eternals of Night are shapeshifters, it seems that Rhianos slips between masculine and feminine forms with ease, and adopts elements of many different marine creatures as they do so. Depictions in Asavea often include the lower body of a fish, dolphin, or serpent; vivid emerald green or sapphire blue hair and beard; multiple arms; additional octopus-like arms; webbed fingers; and the alien all-black eyes of a sea mammal. Regardless of outward appearance, Rhianos is described as being filled with a bottomless supply of *joie de vivre* and lust for life and adventure - as well as an endless capacity for wonder at new and exciting things, people, and vistas.
+
+Heralds of Rhianos are often encountered as blue-skinned creatures with sharp ears and golden markings, though other - *stranger* - creatures have been reported.
+
+*[Image: Ships taking part in Rhianos' race were able to uncover the layout of four continents of the known world](https://www.profounddecisions.co.uk/empire-wiki/File:Four_Continents.jpg)*
+
+## Concerns
+
+Rhianos appears to be interested in the sea as a place that is full of, or leads to, adventure and opportunities to face and overcome great danger. Unlike many Summer eternals, Rhianos appears to perceive wealth as something that has value - especially if it is gained through heroism or daring - or under conditions of extreme danger. Yet they are not an Autumn eternal - Sarcophan traders have commented that the boons of Rhianos are tricky because they expect that once wealth has been gained it will be "spent" (or indeed "squandered") on fine living, and to create more opportunities for adventure in the future. One Sarcophan ship's mage described the eternal thus "*They are always moving, always moving. For Rhianos to stand still is the utmost torment. There is always a new thing to see, there is always a horizon stretching ahead of them. Regret, duty, introspection - these are less than ballast to Rhianos. Anything that weighs them down is discarded in a moment, forgotten before it has entirely sunk out of sight.*"
+
+## Boons
+
+It is likely that Rhianos possesses boons related to water, and to both real and fanciful qualities of the sea. Both Sarcophan and Asavean mariners have claimed that Rhianos offers a common boon that ensures any sea voyage will be "eventful but lucrative". This sounds very similar to the [enchantment](../../out-of-character/rules/Enchantment.md) Rhianos offered during Winter Solstice 380YE. The "[lure of adventure](../winds-of-fortune/Across_the_seven_seas.md)" presented challenges and treasures to [sea captains](../../out-of-character/rules/Fleet.md) engaged in [privateering](../../out-of-character/rules/Fleet.md#questing) and [trade](../../out-of-character/rules/Fleet.md#trading) during the Winter Solstice 380YE.
+
+According to some scholars, Rhianos also provides martial boons to those they favour, but these boons are always distinctly personal in nature. There appears to be no large-scale enchantment that enhances the ability to engage in warfare for example. More than other eternals of Summer, Rhianos seems to favour the individual over the group, the champion over the soldier.
+
+## Further Reading
+
+- [Famine and feast](../winds-of-fortune/Famine_and_feast.md#rhianos) - 386YE Summer plenipotentiary response
+- [Have you seen me lately](../winds-of-fortune/Have_you_seen_me_lately.md#rhianos) - 385YE Spring plenipotentiary response
+- [Between the lines of ages](../winds-of-fortune/Between_the_lines_of_ages.md#rhianos) - 383YE Summer plenipotentiary response
+- [Nowhere and everywhere](../winds-of-fortune/Nowhere_and_everywhere.md#rhianos) - 382YE Winter plenipotentiary response
+
+---
+
+Categories: [Eternals](../../indexes/by-category/Eternals.md)

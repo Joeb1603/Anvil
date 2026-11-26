@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:387YE Autumn]]
+__NOTOC__
+<quote by="Announced by Nemae Splitroot, Bearer of an Imperial Wayleave">To commission the great work of rebuilding the ruined First Voice Glade and School in Oakways in Miaren as an inspirational location to the exemplar of Pride, Gerallt Brackensong. The site has already been consecrated with true liao following a writ of consecration and subsequent mandate by the Synod. This commission will cost 30 weirwood and 90 crowns and is self-funded by a union of bards across the Empire. The great bard Gerallt Brackensong inspires musicians, dancers, poets, and orators across the Empire to take Pride in their nation's performing arts. His corpse glade and accompanying school will inspire pilgrims to learn Navarr traditions of song and storytelling, and to explore, develop, and share their own nation's musical and literary cultures.
+</quote>
+==Overview==
+* Constructs a [[great work]] in Oakways, [[Miaren]]
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+* More information can be found in the '''[[The_Pride_of_Gerallt_Brackensong#First_Voice_Glade_(Miaren)|The Pride of Gerallt Brackensong]]''' wind of fortune
+
+==Date==
+* Autumn 387YE
+
+==Cost==
+* Costs as per opportunity
+* 30 wains of weirwood
+* 90 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Rebuild_First_Voice_Glade}}
+==Outcome==

@@ -1,0 +1,28 @@
+[[Category:Senate Motion]][[Category:387YE Autumn]]
+__NOTOC__
+<quote by="Announced by Laughlan Vi Temeschwar, Master of Rings">I announce that I am constructing the Temeschwar Superlative Citizen Sinecure in Hanuri, Temeschwar. This distillery is a money sinecure costing 10 wains of weirwood and 3 thrones 6 crowns in labour. This will create the title ''the Jewel of Anvil'', auctioned annually on the Imperial Bourse. The title-holder will receive 1 throne, 2 crowns, and 16 rings a season from the sale of its goods. They are responsible for using their income to perform and promote acts of Pride so brazen as to inspire even the eternal Barien to admit the Way achieves his ends better than any tools of the realms. Paid for by Giuseppe's ever-increasing debts
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in Hanuri, Temeschwar
+* Announcement by the [[Master of Rings]]
+
+==Date==
+* Autumn 387YE
+
+==Cost==
+* Standard costs apply
+* 10 wains of weirwood
+* 30 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Temeschwar_Superlative_Citizen_Sinecure}}
+==Outcome==
+* Now complete, the [[Jewel of Anvil]] will be available for auction for the first time at the Spring Equinox 388YE
+<!--
+A stone-and-weirwood distillery stands just outside the walls of Temeschwar, at the downstream end of the Gancio so that waste water flows away from the city, and so deliveries to and from the wider Empire are easy
+Bright copper stills operate day and night turning out enough "Temeschwar's Superlative Schnapps" of decent quality to supply Imperial territories on the river. Profits from the sale of this keeps the Jewel Of Anvil in reasonable comfort (216 rings worth of profit a season)
+A tap-room allows visitors to purchase drinks directly and provides ample hosting space for the Jewel to throw luxurious parties at their whim
+Elaborate suites are provided to this year's Jewel, filled with luxurious amenities and subtle reminders that they deserve every single comfort afforded them here.
+In golden letters around the entrance hall the responsibilities of the Jewel Of Anvil are embossed: "Perform and Promote acts of Pride"
+-->

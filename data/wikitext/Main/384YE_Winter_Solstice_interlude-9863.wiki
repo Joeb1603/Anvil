@@ -1,0 +1,118 @@
+[[Category:Winds of Fortune]][[Category:384YE Winter]][[Category:Recent History]]
+<div style="float:leftt; width: 650px; clear: leftt;">{{CaptionedImage|file=League Musicians.jpg|align=left|caption=Winter will be here soon, but for now let us enjoy the lingering warmth of the Autumn sun.|width=650}}</div>
+==Interlude==
+Downtime will be open shortly, allowing players to process their character's downtime choices. The Winter Solstice winds of fortune will come out shortly before the next event. However, there are a number of significant events happening in the wake of the Autumn Equinox that may affect some players' Downtime actions - primarily effects on personal resources or options for characters with [[military unit]] or [[fleet]] personal resources.
+
+On this page we'll be outlining, and offering some context for, these various effects. In most cases, there will be further information in the Winter Solstice Winds of Fortune. As always, these are quick OOC summaries to explain effects such as large-scale enchantments and curses. We'll cover all these and more when we start to present the Winds of Fortune for next event.
+
+'''Downtime is due to close at midnight on Sunday the 18th of September.'''
+
+==Warfare==
+Any player whose character controls a [[military unit]] can choose from a number of downtime options. Left to their own devices, a military unit defaults to [[Military_unit#Take_Independent_Action|paid work]] guaranteeing an income of herbs, ingots or measures, money, or mana crystals. Otherwise, they may log into the downtime system and choose to support an army or fortification, or assign to a special project such as a [[spy network]] or one of the unique [[opportunity|opportunities]] available this downtime. Players who want to support one of the [[Army|Imperial armies]] can also read the [[Army_orders|orders]] issued by each [[general]] before making their decision.
+
+As always, the guidelines around discussing military matters online can be found [[Online#You_may_not_post_Military_Updates|here]].
+
+===Imperial Guerdon===
+The Imperial Guerdon is a bursary set up by the Imperial Senate primarily to reward military units that support Imperial armies, spy networks, and fortifications. The value of the Imperial Guerdon is divided between each military unit and fleet that supports an army in proportion to their effective strength. The [[Quartermaster General of the Imperial Armies]] has the power to exclude any or all Imperial armies and navies, fortifications, or special projects (such as spy networks) from the Guerdon. If they do so, then a character who supports such an army, fortification, or special project will receive nothing for doing so.  
+
+The Guerdon stands at 350 thrones.  
+
+This season, the Quartermaster General of the Imperial Armies has announced that shares of the Guerdon will be shared between military units supporting the following armies or opportunities:
+* [[Quiet Step]]
+* [[Gryphon's Pride]]
+* [[Valiant Pegasus]]
+* [[Kallavesa#The_Beacons_of_Wintermark|Beacons of Kallavesa]]
+
+===Dawn in Brocéliande===
+* '''Until the start of the Winter Solstice 384YE, Dawn military units may receive additional rewards when supporting an army in Brocéliande'''
+Thanks to the mandate of Ranae de Rondell, for the next year (until the start of the Winter Solstice 384YE) any Dawnish military unit that supports a Dawnish, Highborn or Navarr army that is engaged in Dark Ranging will gain additional rewards - one additional crown and two random herbs. You can learn more about this in the [[The_virtue_of_sharing#Glory_and_Treasure|virtue of sharing]] wind of fortune.
+==Special Military Unit Options==
+In addition to the normal [[Military_unit#Downtime_Options|downtime options]] available to a military unit, the following special opportunities are available.
+===Explore the Heart of Terunael===
+* ''' Military units can support the ''Explore the heart of Terunael'' action found in the independent action dropdown'''
+* '''Dawnish military units receive a 1 rank bonus to take this action'''
+With the aid of the eternal [[Rhianos]], the Empire has the [[The city asleep|opportunity to adventure]] in [[Brocéliande]]. This involves exploring the territory and potentially - if it receives sufficient support - reaching the city of Terunael itself. Any Dawnish character supporting this action receives a [[The_city_asleep#Greenwood_Questing|bonus]] to do so as they have additional support from [[Between_wind_and_water#The_Manor_of_the_Greenwood|Greenwood Manor and Greenwood Market-fayre]] (but must be careful to pick the right option from the dropdown and not mix it up with ''Quest against the Vallorn'' which is something else entirely and gives different rewards). You can read about this opportunity and what kinds of rewards it gives in the '''[[The city asleep]]''' wind of fortune.
+
+===Assault on the Aerie of the Slave Lords===
+* '''Military units can support the ''Assault on the Aerie of the Slave Lords'' action found in the independent action dropdown'''
+The Empire is preparing to assault the stronghold of the Slavers of Rachensgrab. This involves traveling to the [[The_seven_seas#Sea_of_Steel|Sea of Steel]] and engaging in an attack to bring down this wicked conspiracy - assuming it receives sufficient support. Rewards depend on how well the raid goes, and you can read about this opportunity in the '''[[Grown from the revolution seed]]''' Wind of Fortune.
+===Into the Twisted Woods===
+* '''Military units can take the ''Into the Twisted Woods'' action from the ''independent action'' dropdown'''
+* '''Dawnish and Varushkan units are most effective when taking this action'''
+* '''The action provides herbs and forest resources'''
+The mandate enacted by Ser Dindrane of Dawn means that any military unit can take the ''Into the Twisted Woods'' action, found on the independent action dropdown. The action will be most effective when taken by Dawnish or Varushkan characters; rather than receiving random production a basic military unit, they will receive 6 random herbs and 8 random forest resources from battling orcs, exploring the woods, and seeking out opportunities for glory (or in the case of the Varushkans, opportunities to raid barbarians). An upgraded or enchanted military unit will gain proportionately more. Characters from other nations who take the opportunity will be much less effective - at the base level, they will receive 2 random herbs and 4 random forest resources.
+
+This action is available until the start of the Spring Equinox 385YE but should the [[Blood_makes_noise#Tower_of_the_Manticore|Tower of the Manticore]] be built in Ossium the option to take this action will become available to the people of Dawn and Varushka permanently.
+===New Adventures===
+* '''A new adventure is available to military unit captains'''
+As a result of the triumphant success of the [[Brightness long ago|expedition into the sinkhole]], a new independent action called ''Explore the Depths'' is now available to military units. Military units from any nation can take the action, but if they are not from Wintermark, the League, the Marches, Navarr, or Dawn they experience a penalty to their effective rank. This joins ''Quest against the Vallorn'' (the latter available only to Dawnish military units) as a persistent opportunity. You can find more details on this at the [[military unit#Adventures|military unit]] page.
+
+==Special Fleet Options==
+In addition to the normal [[Fleet#Downtime_Options|downtime options]] available to a fleet, the following special opportunities are available.
+===Map the Sea of Snow===
+* '''Fleets can support the ''Map the Sea of Snow'' action found in the spy network dropdown'''
+* '''Fleets from nations other than Wintermark and the Marches have a -1 penalty to support this action'''
+The Imperial Senate has provided funds to support an attempt to map the [[The_seven_seas#Sea_of_Snow|Sea of Snow]] to the west of the Empire. If it is successful it will provide a map of the western coast, and potentially other rewards as well. Fleets from nations without easy access to the Gullet have a -1 penalty to their rank if they take part in this project. Only fleets belonging to Wintermark and Marcher captains will operate at full strength. You can read about this opportunity in the '''[[Never be found at home]]''' Wind of Fortune.
+
+===Assault on the Aerie of the Slave Lords===
+* '''Fleets can support the ''Assault on the Aerie of the Slave Lords'' action found in the independent action dropdown'''
+The Empire is preparing to assault the stronghold of the Slavers of Rachensgrab. This involves traveling to the [[The_seven_seas#Sea_of_Steel|Sea of Steel]] and engaging in an attack to bring down this wicked conspiracy - assuming it receives sufficient support. Rewards depend on how well the raid goes, and you can read about this opportunity in the '''[[Grown from the revolution seed]]''' Wind of Fortune.
+===New Adventures===
+* '''New actions are available to fleet captains from the Marches and Wintermark'''
+Following the [[Under heaven|raid on Skallahn]], two new options are available to fleets from certain nations. Marcher fleet captains can ''Raid along the Gullet Shore'', while Wintermark fleet captains can ''Guard the Fisherfolk of Westerhal''. Both are available from the independent action dropdown, and are presented in more detail on the [[Fleet#Adventures|fleet]] page.
+
+==Other Major Effects==
+Every season sees large-scale effects impact individuals and nations. Where possible we've summarised these effects here.
+===After the Storms===
+* '''Every herb garden in the Empire receives an additional 4 random herbs'''
+* '''Every forest and farm in the Empire receives an additional 2 random herbs'''
+* '''This does not effect the territories of Bregasland, Zenith, Liathaven, Brocéliande, or the Barrens'''
+The [[Light upon the water|supernatural storms]] that struck the Empire after the Summer Solstice have faded, but the [[Spring magic]] infusing them is not quite finished. Over the next season, that magic will bring ''rejuvenation'' wherever it brought destruction. During the downtime following the Autumn Equinox, every [[herb garden]] in the Empire will produce an additional 4 random [[herbs]], and every [[forest]] and [[farm]] owner will be able to claim 2 random herbs produced as a consequence of the Spring-infused rains. This benefit does ''not'' apply to [[Bregasland]], [[Zenith]], [[Liathaven]], [[Brocéliande]], or [[the Barrens]]; as they were spared the storms, so they do not benefit from this new life. 
+
+Further details of these effects can be found in the '''[[Light_upon_the_water#Gentle_Renewal|Light upon the water]]''' Wind of Fortune.
+
+===Semmerlak Flotsam===
+* '''Every business in Semmerholm and Weirwater receives an additional 4 crowns and two random ingots'''
+Due to the [[Light_upon_the_water#Semmerlak_Flotsam|strange flotsam]] washing up on the shores of [[the Semmerlak]], every [[business]] in [[Semmerholm]] and [[Weirwater]] will receive either an additional 4 crowns and two random ingots of [[Materials#Metals|rare metal]] during the Winter Solstice. This bonus does ''not'' apply to [[Varushka|Varushkan]] territories due to the [[mandate]] upheld by the Varushkan Assembly warning their people to [[384YE_Autumn_Equinox_Synod_judgements#Judgement_140|eschew this suspicious windfall]].
+
+===Black Frost===
+* '''Every mana site in Dawn provides one fewer mana crystal, and every farm loses 36 rings from their production'''
+* '''In return Tharim provides aid in the conquest of the Barrens'''
+* '''Persists until the start of the Autumn Equinox 385YE'''
+At the [[384YE_Autumn_Equinox_Conclave_sessions#Concord:_Black_Frost|invitation of the Conclave]] [[Tharim]], the Bound King of [[the Thrice-cursed Court]] will [[Throw_back_the_echoes#Tharim|feast on mana sites and farms across Dawn]], sending a black frost to wither crops and draining the essence from crystals to satiate Tharim's endless hunger. All affected resources in the territory lose 36 rings or 1 mana crystal respectively until the end at the start of the Autumn Equinox 385YE. In return he will provide a cadre of steel-bound knights throughout this period to support any Dawnish army that attacks the Barrens, as determined by the enchantress '''Claudia Varkulova of House Remys'''.
+===Good Neighbours===
+* '''Navarr in Therunin, Hercynia, Miaren, and Brocéliande can improve their herb gardens for 1 wain fewer than normal'''
+Thanks to a combination of [[Make a deal|Prosperous citizens]] and a [[384YE_Summer_Solstice_Senate_sessions#Reassure_Great_Forest_Orcs|senate motion]], the [[Great Forest Orcs]] offer their expertise to their Navarr neighbours. Any Navarr with a [[herb garden]] in [[Therunin]], [[Miaren]], [[Hercynia]], or [[Brocéliande]] can improve their resource at the cost of one fewer wain of [[weirwood]] than normal (so, to upgrade a standard herb garden to rank two would cost one weirwood rather than two, and to raise a rank three herb garden to rank four would only need three wains). The effect lasts until the start of the Summer Solstice 385YE. You can learn more in the '''[[Make_a_deal#Good_Neighbours|Make a deal]]''' wind of fortune.
+
+===Enchantments===
+* '''In the Mournwold it is easier to speak to and lay to rest ghosts'''
+* '''In Zenith it is easier to find a new start'''
+A potent [[enchantment]] of [[Winter magic]] has settled over the [[Mournwold]] that makes it easier to placate and ease on the passing of ghosts. Anyone in the Mourn can freely speak to the shades of the departed. Even if the ghosts in the territory are not meaningfully cleared away, it will mean the residents at least gain further understanding of these presences and might be able to work around or with them more easily in future.
+
+An [[Autumn magic]] enchantment has settled over Zenith which means that those travelling to, trading in or settling in the targeted territory find themselves part of a chain of coincidence that makes it easier for them to find their feet. Traders find excellent deals for exactly the goods they are carrying in unexpected places, Travellers find themselves drawn along routes which highlight the territories most attractive and sumptuous geographic features and settlers find the location they have chosen to live just so happens to be well located to exploit a valuable resource. Those living in the territory are often affected by a subtle urge to do something with these revealed windfalls, to build a home to enjoy the vistas, to use the unexpected profits to buy more local goods, to begin mining or logging and so on.
+
+===Reject False Gods===
+* '''Congregations in Redoubt, Temeschwar, Tassato, Karsk, and Hahnmark gain two additional votes and one additional liao as long as the Synod clearly stands in opposition to idolatry'''
+The mandate [[383YE_Spring_Equinox_Synod_judgements#Judgement_14|approved by the general assembly]] and enacted by Rafael Barossa di Tassato sends bands of architects, masons, and builders to force their way into the buildings designed by the Asavean architect and forcibly redesign them. The mandate has a number of effects, one of which is to swell with pride congregations in the territories where the buildings are found. This bonus lasts as long as the Synod maintains a clear anti-idolatry stance.
+===Sand Fisher Tithe===
+* '''Farms in Holberg receive 2 random herbs each downtime'''
+The Sand Fisher orcs are providing herbs to farm owners of Holberg. This effect is detailed in the '''[[A_dream_that_can_last#Green_Shoots|A dream that can last]]''' wind of fortune.
+
+==Trade Opportunities==
+* '''Imperial fleets can trade with foreign ports and receive valuable goods'''
+* '''Some ports give special bonuses or suffer special penalties'''
+* '''The Empire has entered into free trade with the Sumaah, the Commonwealth, and Axos'''
+* '''The port of Nemoria is closed to Imperial fleets'''
+Certain trading destinations apply special effects if a fleet visits them, summarised on the [[384YE_Autumn_Equinox_winds_of_fortune#Trade_Summary|Autumn Equinox]] wind of fortune. Of particular interest is the fact that the Empire has entered into a reciprocal "free trade" arrangement with the Sumaah Republic, Commonwealth, and the Citadels of Axos which means any fleet trading with one of these ports will receive additional production. Thanks to events during the summit, the port of [[Asavean_Archipelago_ports#Nemoria|Nemoria]] is now closed to Imperial fleet captains. 
+
+You can learn more about the Empire's foreign relations in the recent '''[[The sweetest of songs]]''' wind of fortune.
+
+==Mandates==
+* '''You can find details of the mandates, along with the rest of the Synod judgements, [[384YE_Autumn_Equinox_Synod_judgements#Mandate|here]].'''
+Seven mandates were successfully upheld in the Imperial Synod. All mandates have automatically been enacted as long as the named priest has sufficient liao in their inventory before downtime opens. One mandate ([[384YE_Autumn_Equinox_Synod_judgements#Judgement_56|Mandate 56]]) was upheld by their respective assemblies but not enacted.
+
+==Imperial Lore==
+No rituals were added to Imperial lore during the Autumn Equinox.
+
+==Urizen Lore==
+Some new rituals were added to Urizen lore during the Autumn Equinox. Details will be made available in the Winds of Fortune.

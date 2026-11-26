@@ -1,0 +1,19 @@
+<ic>The creation of an Imperial Master of Works, with responsibility and the legal authority to carry out fortification works on behalf of the senate answerable to the synod, as per all imperial posts. The Master of Works to be awarded a fixed stipend by the senate, payable each season to fund these works.<br><br>''Proposed by Mitwold, seconded by Semmerholm.''</ic>
+
+===Overview===
+* Passed 25 votes to 1
+* Funded at 10 Thrones
+
+===Date===
+* Autumn 377YE
+
+===Cost===
+* Stipend: 10 Thrones per season from the [[Senate]] budget
+
+===Campaign Outcome===
+* [[Imperial Master of Works]]
+* The power of the title was [[Amend powers of the Imperial Master of Works|amended]] by the Senate in Spring 380YE to limit the ability to upgrade a fortification to once per season.
+
+[[Category:Senate Motion]]
+[[Category: 377YE Autumn]]
+__NOTOC__

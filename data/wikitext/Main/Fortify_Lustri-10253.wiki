@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:384YE Winter]]
+__NOTOC__
+<quote by="Proposed: Semmerholm, Seconded: Weirwater">To construct a fortification in Lustri, Zenith. Requires Senate funds over the year.</quote>
+==Overview==
+* Passed
+==Date==
+* Winter 384YE
+==Cost==
+* [[Fortification#Costs|Standard costs]] apply
+* 80 wains of white granite
+* 20 thrones
+* One year to complete
+* Upkeep is 10 thrones a season
+==Progress==
+{{CommissionProgress|Fortify_Lustri}}
+==Outcome==
+* Now complete, Lustri is protected by ''The Stork's Gaze'' a 3000 strength [[fortification]].
+* While the people of the [[Write_your_own_ending#A_Border_.27tween_the_Mountains_and_the_Moon|Mountains of the Moon]] offered to assist with this project, the Senate has not asked them to participate.

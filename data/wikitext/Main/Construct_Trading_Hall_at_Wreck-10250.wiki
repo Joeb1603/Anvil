@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:384YE Winter]]
+__NOTOC__
+<quote by="Proposed: Kallavesa, Seconded: Karov">To commission the Trading Hall at Wreck, a ministry to buy ilium, in East Floes, Sermersuaq. The holder, the Mediator of Wreck, will be appointed by the Tally of the Votes of Wintermark. Self Funded. This will allow us to trade food for ilium with the Thule, so they may feed their people and navigate the prosperous path after abolishing slavery.</quote>
+==Overview==
+* Creates a trading hall in [[Sermersuaq|Wreck]], as detailed in the '''[[Write_the_lines#Meat_for_Metal|Write the lines]]''' wind of fortune
+* Passed
+==Date==
+* Winter 384YE
+==Cost==
+* As per the wind of fortune
+* 8 wains of weirwood
+* 16 crowns in labour costs
+* Three months to complete
+==Progress==
+{{CommissionProgress|Trading_Hall_at_Wreck}}
+==Outcome==
+* Once complete the [[Mediator of Wreck]] will be able to send shipments of food to the Thule in the Silver Peaks in exchange for rings of [[ilium]].

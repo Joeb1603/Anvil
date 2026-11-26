@@ -1,0 +1,248 @@
+---
+title: 380YE Spring Equinox Conclave sessions
+source: https://www.profounddecisions.co.uk/empire-wiki/380YE_Spring_Equinox_Conclave_sessions
+class: in-character
+topic: conclave-sessions
+categories:
+- Conclave
+- Conclave Sessions
+- 380YE Spring
+event: 380YE Spring
+last_edited: '2026-03-19T14:14:03Z'
+revision: 135800
+---
+
+# 380YE Spring Equinox Conclave sessions
+
+The following is a summary of Conclave proceedings during the Spring Equinox 380YE.
+
+## The Imperial Titles of the Conclave
+
+The full list of Imperial Titles held in the Conclave at the end of the Spring Equinox, 380YE can be found under [380YE Spring Equinox Imperial titles](../../mixed/titles/Archive-380YE_Spring_Equinox_Imperial_titles.md).
+
+The following Imperial Titles were appointed by the Conclave during the Spring Equinox, 380YE:
+
+- **Mord of Auric Horizon** became the new [Archmage](../../mixed/titles/Archmage.md) of Day.
+- **Pavel** remained the [Archmage](../../mixed/titles/Archmage.md) of Night.
+- **Alcuin Shatterspire** remained the [Archmage](../../mixed/titles/Archmage.md) of Spring.
+
+## Conclave Addresses
+
+At the Summit, the following addresses were placed on the Conclave agenda:
+
+|  |  |  |
+| --- | --- | --- |
+| **Day** | **Speaker** | **Nature of Address** |
+| Fri | Heilyn Bronwyn's Rest | The Death of Mari Linkforge, Archmage of Day, and the need for those with the Ambition to declare their candidacy. |
+| Fri | Aquillian | What Urizen intend to do to the Grendel in Spiral and how you can help. |
+| Fri | Tabor the Fool | Virtue/Magic Debate: The Third |
+| Fri | Vauruus Korpittkotka | The Assembly of Prosperity wishes to investigate the Prosperity of the Orders. |
+| Fri | Lucky Vivaci. | Discuss Lashonar and the situation in the Barrens. |
+| Sat | Andreus Gremani | Summer Matters |
+| Sat | Gui de Lusignan | Tharim's Throne |
+| Sat | Heilyn Bronwyn's Rest | Recognising Wisdom in the use of Arcane Projections |
+| Sat | Maurice de Gauvain | Realm of some Moderate Awesome |
+| Sat | Leif Ambjorn | Visions from the realm of Night |
+| Sat | Vaan, Warmage | The Usual |
+| Sat | Aquillian | The Spring Taint |
+| Sat | Cybi Farkas | The Vate Hunt and Arhallogen |
+| Sat | Silas di Sarvos | Locating target regios on the battlefield. |
+| Sun | Shona i Ezmara | Recognising the prosperity and sacrifices made by Achilles of Damocles' Forge. |
+| Sun | Mord Auric Horizon | Attitudes regarding Aquillion of Urizen |
+| Sun | Solsetur Imperial Star | Divination Magic |
+| Sun | Pavel, Archmage of Night | Today's battle and the cost of obstructing dealing with Eternals. |
+| Sun | Olle Markusson | On the constellation of the Phoenix |
+| Sun | Aquillion | Spiral no longer has a clear coastline |
+| Sun | Eudaemon of Halcyon | On exchanges and dealings with foreign nations, in particular the Faraden |
+| Sun | Hubert Gremani | Brief address on thoughts of Indomitable Sun Coven on Summer matters. |
+| Sun | Tom of Upwold | Presentation of Staff of Judgement to Imperial Warmage |
+| Sun | Alcuin Shatterspire | Boons of Arhallogen |
+| Sun | Cyrus, Son of Felix | Matters relating to the Imperial Magus |
+
+## Conclave Declarations
+
+The Conclave made the following Declarations:
+
+*Note: there was an attempted Declaration of Sorcery against Klo de Luisignain by the Grandmaster of the Sevenfold Path under the Veil of Night on Sunday: but in fact there was no Grandmaster present, so it is understood that this Declaration, though it was passed at the time, does not stand.*
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Day** | **Speaker** | **Declaration** | **Outcome** |
+| Fri | Heilyn Bronwen's Rest | Candidacy for Archmage of Day. | FAILED |
+| Fri | Kahendrin Wordsmith | Amity with the Eternal Janon | FAILED |
+| Fri | Amris Mevikovich | Concord - This Conclave agrees that Auris may perform a consecration in the Hall of Worlds to test mana/liao synergy. | PASSED. |
+| Fri | Finn Finnsson | Candidacy of the Archmage of Day. | FAILED. |
+| Fri | Mord of Auric Horizon | Candidacy of the Archmage of Day. | PASSED. |
+| Fri | Maurice de Gauvainn | Concord: The Conclave endorses Conclave Bonds. | PASSED. |
+| Fri | Asenath | Neutrality with the Green Mother. | PASSED |
+| Sat | Aquillian | Concord - That it is appropriate to summon a Tulpa of the New Star. | PASSED |
+| Sat | Nicholas Reaper | Interdiction of Icy Maw Devours the Spark of Essence | FAILED |
+| Sat | Nicholas Reaper | Interdiction of Naeve's Twisting Blight | FAILED |
+| Sat | Gallan de Rondell | Candidacy for the Archmage of Night - nominating Ancel Steward of House Vexille | FAILED |
+| Sat | Gallan de Rondell | Concord - The Conduct of the Pledge over the last few seasons in regard to acquisition and possession of artefacts is maelfic to the Empire and prescribes all trade in such artefacts with the Pledge. | PASSED |
+| Sat | Barthul de Rondell | Endowment - Coven of the Green Man, in the Marchers, is Endowed with the Eternal Gambit covenstone. | PASSED |
+| Sat | Rosamund Holt | Candidacy for Archmage of Spring | FAILED |
+| Sat | Shona i Ezmara | Sorcery - Evander Slak to be a Sorcerer. | PASSED |
+| Sat | Mord Auric Horizon | Neutraility with Kimus. | PASSED |
+| Sat | Aquillian | Candidacy for Archmage of Spring | FAILED |
+| Sat | Zephaniah | Concord - That it recognises the power and wisdom of the Eternals of Winter in inviting the Tribute from the Magi of the Empire at the Winter Solstice and presents its gratitude. | PASSED |
+| Sat | Asenath | Candidacy for Archmage of Night | FAILED |
+| Sat | Alcuin Shatterspire | Candidacy for Archmage of Spring | PASSED |
+| Sat | Ludmilla Koslov | Candidacy for Archmage of Night | FAILED |
+| Sat | Cybi Farkas | Candidacy for Archmage of Night | FAILED |
+| Sat | Pavel | Candidacy for Archmage of Night | PASSED |
+| Sun | Raewynn Farkas, Grandmaster of the Rod and Shield | Concord: The Conclave gives permission for Meraud to place a boon on the regio during the Saturday of the Summer Festival to empower higher magnitude rituals. | PASSED |
+| Sun | Grandmaster of the Shuttered Lantern under the Veil of Night | Declaration of Sorcery against Gui de Luisignain |  |
+| Sun | Grandmaster of the Golden Pyramid under the Veil of Night | Declaration of Sorcery against Ursul de Luisignain |  |
+| Sun | Grandmaster of the Celestial Arch under the Veil of Night | Declaration of Sorcery against Tremaine de Luisignain |  |
+| Sun | Grandmaster of the Rod and Shield under the Veil of Night | Declaration of Sorcery against Iluna de Luisignain |  |
+| Sun | Grandmaster of the Unfettered Mind under the Veil of Night | Declaration of Sorcery against Claude de Luisignain |  |
+| Sun | Caius | Neutrality with Eleonaris | PASSED |
+| Sun | Heilyn Bronwen's Rest | Declaration of Endowment of the The Eternal Gambit covenstone to Sherade Hunters coven of Wintermark for a season. | PASSED |
+| Sun | Isca | Declaration of Sorcery against: 8 individuals from Whispering Dray (Domel, Elvin, Aervan, Gareth, Laxainia, Leedy, Tinuvie, Arla) | PASSED - Scribe's Note - discussed together but 8 mana paid to raise. |
+| Sun | Aquillion | Concord: The Conclave is interested in magical exchanges with the friendly nation of Asaveyah (sic). | FAILED |
+| Sun | Cyrus, Son of Felix, Imperial Magus | The Conclave supports the Senate motion which accepts an Eternal's assistance in creating a new army. | PASSED |
+| Sun | Naomi of Felix's Watch | Declaration of Sorcery of Catalina i Erigo now of House De Rondell for knowinly giving True Liao to an Eternal. | FAILED |
+| Sun | Vaan | Declaration of Sorcery against Gallorn du Rondell | FAILED |
+| Sun | Svetlana | Candidacy for Archmage of Spring | FAILED |
+| Sun | Alcuin | Candidacy for Archmage of Spring | PASSED |
+| Sun | Raewynn Farkas, Grandmaster of the Rod and Shield | To enter into Imperial Lore the ritual Golden Ramparts, a Summer Ritual | PASSED |
+| Sun | Alcuin | Amity for the Herald known as Yleth-Sylfar | FAILED |
+| Mon | Mavea Wulfsdotter | Reconciliation to de-interdict the Imperial Crown if the Empress Elect has gained no veto in the Synod | PASSED |
+
+## Conclave Gambits
+
+The Conclave made the following Gambits:
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Day** | **Proposer** | **Intended Use of Resources** | Mana | Ilium | Am | BL | Dr | GI | IG | Or | TJ | We | *Funded* | CA | GP | RS | SP | SL | UM | Indep |
+| Fri | Vaan, Warmage | To flood the coastline of Spiral, denying the Grendel there the use of their Navies. | 100 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | FUNDED. | 0 | 20 | 15 | 15 | 15 | 35 | 0 |
+| Fri | Pavel, Archmage of Night | Scrying in service of the Empire. | 64 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | FUNDED. | 4 | 12 | 8 | 15 | 15 | 10 | 0 |
+| Sat | Pavel, Archmage of Night | Casting Dripping Echoes of the Fen in Kallavesa. | 35 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | FUNDED. | 3 | 1 | 5 | 9 | 6 | 5 | 0 |
+| Sat | Maud Auric Horizon, Archmage of Day | Shrouds. | 31 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | FUNDED. | 0 | 5 | 0 | 5 | 16 | 5 | 0 |
+| Sat | Maurice de Gauvain, Archmage of Autumn | Juha's negotiation with the Thule. | 21 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | FUNDED. | 5 | 3 | 2 | 3 | 5 | 3 | 0 |
+| Sat | Alcauin Shatterspire, Archmage of Spring | 4 Chausable of Majesty on 3 Targets, 4 Words of Ending/Wisdom of the Balanced Blade for Solas the High Exorcist. | 50 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | FUNDED. | 0 | 20 | 5 | 10 | 8 | 7 | 0 |
+| Sun | Sinus Skybreaker, Archmage of Winter | Retrospective Gambit for rituals (3) passed by Saker Coven for Saturday battles. Only requesting efficient cost not full cost. | 65 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | FUNDED. | 12 | 15 | 10 | 6 | 7 | 10 | 0 |
+| Sun | Mord Auric Horizon, Archmage of Day | Rewards for Hard Work | 0 | 6 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 5 | FUNDED. | 1 Ilium | 2 Ilium, 3 Gloaming | 1 Ilium | 0 | 5 Weltsilver | 2 Ilium | 0 |
+| Sun | Pavel, Archmage of Night | To remove the mist on the Bay of Catazar | 60 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | FUNDED. | 10 | 10 | 8 | 12 | 10 | 10 | 0 |
+| Sun | Andreus Grimani, Archmage of Summer | For Frozen Fortresses | 64 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | FUNDED. | 10 | 22 | 10 | 1 | 8 | 13 | 0 |
+
+## Order Strengths
+
+The strengths of the six Orders at the Conclave this summit were as follows:
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Order** | Friday Strength | Saturday Strength | Sunday Strength | **Total Strength** |
+| Sevenfold Path | 23 | 18 | 18 | ?? |
+| Rod & Shield | 19 | 10 | 14 | ?? |
+| Celestial Arch | 10 | 9 | 11 | ?? |
+| Golden Pyramid | 17 | 14 | 10 | ?? |
+| Shuttered Lantern | 34 | 33 | 20 | ?? |
+| Unfettered Mind | 33 | 17 | 17 | ?? |
+
+## Order Vaults
+
+The contents of the Order Vaults at the beginning and end of Conclave this summit were as follows:
+
+### Celestial Arch
+
+|  |  |  |
+| --- | --- | --- |
+| **Material** | Beginning | End |
+| Mana | 66 | 22 |
+| Ilium | 2 | 1 |
+| Ambergelt | 0 | 0 |
+| Beggar's Lye | 0 | 0 |
+| Dragonbone | 5 | 5 |
+| Green Iron | 0 | 0 |
+| Iridescent Gloaming | 20 | 20 |
+| Orichalcum | 3 | 3 |
+| Tempest Jade | 22 | 22 |
+| Weltsilver | 0 | 0 |
+
+### Shuttered Lantern
+
+|  |  |  |
+| --- | --- | --- |
+| **Material** | Beginning | End |
+| Mana | 90 | 0 |
+| Ilium | 4 | 4 |
+| Ambergelt | 0 | 0 |
+| Beggar's Lye | 0 | 0 |
+| Dragonbone | 0 | 0 |
+| Green Iron | 0 | 0 |
+| Iridescent Gloaming | 2 | 2 |
+| Orichalcum | 4 | 4 |
+| Tempest Jade | 17 | 17 |
+| Weltsilver | 19 | 14 |
+
+### Sevenfold Path
+
+|  |  |  |
+| --- | --- | --- |
+| **Material** | Beginning | End |
+| Mana | 132 | 18 |
+| Ilium | 5 | 3 |
+| Ambergelt | 0 | 0 |
+| Beggar's Lye | 13 | 13 |
+| Dragonbone | 2 | 2 |
+| Green Iron | 0 | 0 |
+| Iridescent Gloaming | 27 | 24 |
+| Orichalcum | 5 | 5 |
+| Tempest Jade | 0 | 0 |
+| Weltsilver | 0 | 0 |
+| 3 Hearthfire Crystals |
+
+### Rod & Shield
+
+|  |  |  |
+| --- | --- | --- |
+| **Material** | Beginning | End |
+| Mana | 63 | 0 |
+| Ilium | 2 | 1 |
+| Ambergelt | 0 | 0 |
+| Beggar's Lye | 11 | 11 |
+| Dragonbone | 2 | 2 |
+| Green Iron | 0 | 0 |
+| Iridescent Gloaming | 1 | 1 |
+| Orichalcum | 19 | 19 |
+| Tempest Jade | 3 | 3 |
+| Weltsilver | 0 | 0 |
+
+### Golden Pyramid
+
+|  |  |  |
+| --- | --- | --- |
+| **Material** | Beginning | End |
+| Mana | 91 | 17 |
+| Ilium | 3 | 3 |
+| Ambergelt | 22 | 22 |
+| Beggar's Lye | 22 | 22 |
+| Dragonbone | 0 | 0 |
+| Green Iron | 0 | 0 |
+| Iridescent Gloaming | 15 | 15 |
+| Orichalcum | 25 | 25 |
+| Tempest Jade | 0 | 0 |
+| Weltsilver | 0 | 0 |
+
+### Unfettered Mind
+
+|  |  |  |
+| --- | --- | --- |
+| **Material** | Beginning | End |
+| Mana | 128 | 30 |
+| Ilium | 3 | 1 |
+| Ambergelt | 0 | 0 |
+| Beggar's Lye | 3 | 3 |
+| Dragonbone | 0 | 0 |
+| Green Iron | 0 | 0 |
+| Iridescent Gloaming | 15 | 15 |
+| Orichalcum | 3 | 3 |
+| Tempest Jade | 27 | 27 |
+| Weltsilver | 13 | 13 |
+
+---
+
+Categories: [Conclave](../../indexes/by-category/Conclave.md), [Conclave Sessions](../../indexes/by-category/Conclave_Sessions.md), [380YE Spring](../../indexes/by-category/380YE_Spring.md)

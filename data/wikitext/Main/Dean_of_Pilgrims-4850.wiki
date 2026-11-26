@@ -1,0 +1,46 @@
+ This title has lapsed, as detailed [[The arch of the door|here]].
+{{CaptionedImage|file=NinaOfPilgrims.jpg|title=Nina of Cantiarch's Hold is one of the youngest citizens to ever be appointed to hold an Imperial title.|caption=The Dean of Pilgrims is responsible for overseeing donations of [[liao]] to the [[The Academy|Imperial Academy]]|align=right|width=500}}
+==Overview==
+The Dean of Pilgrims was an [[Imperial title]] [[Construct_Academy_Religious_Studies_sinecure|created]] by unanimous vote of the [[Senate]] in Winter 378YE to help the [[The Academy|Imperial Academy]] to instill the heroes of tomorrow with an appreciation for the power of [[the Way|the Virtues]]. 
+==Responsibilities==
+The Dean oversaw donations of [[liao]] to the Imperial Academy. The liao was intended to be used in the education of the future heroes of the Empire by [[the Academy]] at Anvil. The Dean was also likely to be responsible for overseeing the accommodation and support of religious visitors or pilgrims to the Academy.
+==Powers==
+The Dean of Pilgrims was an [[Imperial title]] appointed by the Senate and connected with the Academy. It granted custodianship of a [[sinecure]].
+===Donations and Wayfarers===
+The Dean of Pilgrims received an income of 6 [[liao]] each season from voluntary donations, supplemented by the Imperial Civil Service. Prior to the Academy leaving Canterspire (as detailed in [[The arch of the door]] donations amounted to 18 liao.
+__TOC__
+
+==Appointment==
+The Dean of Pilgrims was an Imperial position [[Appointments_by_the_Senate#Imperial_Position|appointed by the Senate]]. Any Imperial citizen could hold the title. The Dean had [[Imperial_title#Term_of_office|tenure]], and served until they die or stepped down. They could be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+==The Pilgrims' Annexe==
+During the Winter Solstice 378YE, the Senate approved an annexe to the spire of the Imperial Academy. A light, airy, octagonal building was constructed at the base of [[Morrow#Canterspire|the Canterspire]]. Each face is decorated and illustrated with symbols of [[the Way]], and with images of famous [[Paragons and Exemplars]]. Illustrated scrolls, books, and other learning materials are stored in a number side areas, waiting patiently to be used by pupils. It also contains a record of donations to the Academy, as well as the stores of additional liao themselves.
+
+As the threat of the [[Druj]] against [[Urizen]] grew, the Academy staff took the [[The_arch_of_the_door|difficult decision]] to move from Canterspire to the [[Astolat#Castle of Thorns|Castle of Thorns]] in [[Astolat]]. As a consequence the Annexe was abandoned, and the Dean of Pilgrims lost access to their sinecure. While the title technically still exists, it has no powers, and has not been reappointed.
+{{RecentElections|Dean_of_Pilgrims}}
+{{Template:Academy Further Reading}}
+* [[The_arch_of_the_door|The arch of the door]] - the Autumn 382YE Wind of Fortune that details the circumstances around this title lapsing.
+[[Category:Title]]
+[[Category:Senate]]
+[[Category:Children]]
+
+<!-- The few ideas I've had for the structure are:
+
+A light airy octagonal building. some kind of Annexe to the main academy building
+
+Each face is decorated and illustrated with symbols and pictures of the paragons, one of for each of the virtues and the way.
+
+Illustrated scrolls and learning materials are stacked waiting to be used by the pupils.
+
+The whole thing has pretty much been designed backwards so Whatever keeps the academy happy is fine by me. -->
+
+<!-- From Senator: I'm quite happy to leave it up to you guys really.
+
+Originally I was asked for a way for them to have their own Liao maybe a stipend or organised donations from the synod or civil service.
+
+In discussion with the Civil service a Sinecure producing Liao came up as the most sensible option, it was quite late at night so other than the necessary technical details we didn't go into too much flavour.
+
+Considering all that, a location that collects Liao donations on behalf of the academy might seem appropriate. It is my understanding that it is actually at the academy so that gives many options.
+
+The Academy themselves might have some ideas.
+
+But as I said I am quite happy to leave it up to you guys. -->

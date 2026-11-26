@@ -1,0 +1,35 @@
+==Overview==
+The Sorrowful Tunnels are located in [[Skarsind#Gildermark|Gildermark]] in the [[Imperial Orcs|Imperial Orc]] [[territory]] of [[Skarsind]]. Custodianship of the Sorrowful Tunnels grants an [[Imperial title]]; a seat on the [[Bourse]]; and a seasonal bounty of valuable mithril.
+
+==The Resource==
+{{:Skarsind}}
+
+==The Bourse Seat==
+===Responsibilities===
+The Seat has no particular responsibilities; they simply receive a bounty of mithril which is theirs to do with as they will. If the Sorrowful Tunnels were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular [[opportunity]] were to arise related to the mines, the Seat would expect to be consulted as to how that opportunity might be resolved.
+
+===Powers===
+====Seat on the Bourse====
+Custodianship of the Sorrowful Tunnels comes with a seat on the Imperial Bourse. For the most part, this Seat comes with no additional responsibilities. It is an Imperial title that grants the right to participate on the rare occasion when the Imperial Bourse as a body is required to make a decision.
+
+====Bounty of Mithril====
+The Seat has control of a source of mithril and receives Bourse certificates to represent that control. They can dispense this resource as they choose. Production is 18 Imperial wains of mithril every season.
+
+====Attract Mine Workers====
+<div style="width: 350px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible"><tr><td colspan="2" style="background-color: LightYellow;">'''Additional Production'''</td></tr>
+<tr><td>36 crowns</td><td>3 wains of mithril</td></tr>
+<tr><td>84 crowns</td><td>6 wains of mithril</td></tr>
+<tr><td>144 crowns</td><td>9 wains of mithril</td></tr>
+</table></div>
+The Custodian of the Sorrowful Tunnels has access to a [[ministry]] that allows them to fund mine workers to acquire quantities of [[mithril]] at a set price. The Custodian of the Sorrowful Tunnels spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+The ministry is supplemented by the [[Skarsind#Legion's Rookery|Legion's Rookery]], significantly reducing the cost to hire workers. If anything were to happen to the Legion's Rookery, then the cost to purchase additional wains of mithril would double.
+
+===Appointment===
+As with all mithril Bourse seats, the holder of the title is determined during the Autumn Equinox. Control of the Sorrowful Tunnels is assigned to whichever Imperial Orc candidate receives the most support from Imperial Orc owners of military units that have earned votes over the past year by supporting Imperial armies via the [[Tally of the Votes]]. The voting is handled by the civil servants of the Bourse.
+
+Custodianship of the Sorrowful Tunnels is retained for a year, or until the citizen holding the seat dies, or steps down. An Imperial Bourse seat cannot be [[revocation|revoked]] by the [[Synod]].
+<!--{{CaptionedImage|file=Character.jpg|caption='''Character''', Custodian of the Sorrowful Tunnels|align=left|width=300}}-->
+{{RecentElections|Sorrowful_Tunnels}}
+[[Category:Bourse]][[Category:Title]][[Category:Imperial Orcs]]

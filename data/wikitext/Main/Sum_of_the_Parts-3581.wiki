@@ -1,0 +1,42 @@
+==Rules==
+{{Season|Autumn|15}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Character}}
+
+The ritual also requires the participation of up to three additional characters, who must be present throughout, and must be both aware and willing. 
+
+{{enchantment}}
+
+===Effects===
+The target gains three additional ranks of [[Combat skills#Endurance|endurance]]. Participants in this ritual cannot also be the target of this ritual, although contributors can be either participants or targets.
+
+As long as the enchantment persists, the target experiences a [[roleplaying effects|roleplaying effect]]: ''you feel infused with great waves of energy and vitality that fill you with confidence in their abilities, especially their ability to lead others''. 
+
+The participants contributing to the ritual experience a different roleplaying effect that lasts for at least an hour: ''you feel lethargic and tired, as if you had undertaken intense physical labour.''
+
+{{Day Duration}}
+
+===Additional Targets===
+This ritual can affect additional characters from the same [[Groups#Banners|banner]]. Each additional character increases the magnitude by 10 and will require an additional three participants to offer their strength. Additional characters must be present throughout.
+{{CaptionedImage|file=CaveSpider.jpg|caption=Juha the Cave Spider, in a rare pleasant mood.<br/>Someone is probably in trouble.|title=An individual can exert great power, if they are part of a group.|align=right|width=250}}
+
+==Description==
+This ritual builds on Autumn concepts that an individual can exert greater power if they are part of a group. It draws vitality from the participants and transfers it to the target, creating a champion whose strength is drawn from their supporters. Interestingly, the lethargy that overcomes those contributing their health and vitality to the target can be overcome by the vital nature of those with [[briar]] lineage, making them excellent contributors to this ritual.
+
+The ritual was proposed by the famously bellicose [[Varushka|Varushkan]] [[Varushka magical traditions#Cabalists|cabalist]], Juha, known as ''The Cave Spider'' due to his decision to live alone in underground caverns rather than among his fellow magicians. Some say he wanted it because he was simply too lazy to attend battles in person and preferred to send an empowered apprentice in his stead. A more charitable interpretation might point to the well-known tale of the Cave Spider's early life. Born with strong Ushka blood and with a physique more suited to study than battle, his mother dead in childbirth and his father a distant and unhappy [[Varushka military concerns|Schlacta]] known for his strength and power - perhaps it is no surprise that Juha expressed an interest in the enhancement of vitality such as this ritual provides. 
+
+This was the first ritual contributed to [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial Lore]] by [[Dean of the Lyceum]] Simargl of the Circle of Zulgan-Tash, called ''the Empty One''. It became common knowledge following a [[Conclave session#Declaration of Acceptance|decision]] of the [[Conclave]] and added to Imperial lore by a [[Add "Sum of the Parts" to Imperial Lore|motion of the senate]] in Summer 377YE.
+
+When the ritual was first formulated, ''Sum of the Parts'' weakened the participants contributing their strength to the enchanted individual sufficiently to cause injury. Between the Spring Equinox and Summer Solstice 387YE, however, researchers trapped at [[Dean_of_the_Lyceum#The_Lyceum|the Lyceum]] - [[Commonwealth]] ''zauberer'' and members of the [[Rod and Shield]] and [[Unfettered Mind]] with nothing better to do - [[Beat of your drum#Lyceum|identified]] that this was not actually necessary for the ritual to work. To the surprise of magicians from both great nations, the researchers discovered that the ritual works just fine if the support granted by the rest of the band is moral or inspirational. It is as effective to embrace, or show respect and support with words or symbols, as it is to actually transfer strength from one to another. Those involved are still left feeling tired or lethargic, but crucially the magic does not harm them.
+
+==Common Elements==
+As with many rituals that involve transference of power or enhancement of strength, a goblet of wine, loaf of bread, or some other consumable passed from hand to hand between the participants and the target is very appropriate. As a ritual developed by Varushkan magicians, promises of fealty are also appropriate, as is the giving of gifts between the participants; a [[Navarr]] magician might instead draw some blood from each of those contributing health and use it to paint the target or mix it with something that is then consumed.
+
+The runes [[Lann]], [[Rhyv]] and [[Verys]] are all appropriate - although the rune [[Queros]] would also be appropriate to targets who have a hierarchical relationship to one another. The character [[The Captain]] or [[The Bishop]] might be appropriate for dramaturgy, as may evocations of creatures such as wolves who stand as symbols of the strength of a group. 
+[[Category:Autumn Ritual]]
+[[Category:Rituals]]
+<!-- NOTES
+We brought this into line using New Maths. People losing endurance to power it lets it be in Autumn at base magnitude, it doesn't provide a magnitude reduction.
+
+I think the extra target total is one less than base maths allows and I am prepared to accept that. FOR NOW!
+-->

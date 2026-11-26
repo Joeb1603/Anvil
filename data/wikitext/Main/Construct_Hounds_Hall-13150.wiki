@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:387YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Karsk, Seconded: Bastion">To build the Hounds Hall edifice in Ivarsguard, Karsk. This will enable the newly created Varushkan army, the Boyar's Hasta, to use its sellsword quality
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Lestasny, [[Karsk]]
+* Passed
+* More information can be found in the '''[[Here comes the night]]''' wind of fortune
+
+==Date==
+* Autumn 387YE
+
+==Cost==
+* Costs as per opportunity
+* 15 wains of white granite
+* 45 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Hounds_Hall}}
+==Outcome==
+* Now complete, the [[Boyar's Hasta]] has gained the [[Army_qualities#Sell_Sword|sell sword]] quality.

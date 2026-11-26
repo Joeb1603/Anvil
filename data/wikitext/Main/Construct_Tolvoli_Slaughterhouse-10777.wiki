@@ -1,0 +1,16 @@
+[[Category:Senate Motion]][[Category:385YE Summer]]
+__NOTOC__
+<quote by="Proposed: Miekarova, Seconded: Volodmartz">To construct the Tolvoli Slaughterhouse in Miekarova. A ministry to sate the dubik of Miekarova. Limited time opportunity, fully self-funded.</quote>
+* Constructs a slaughterhouse in Miekarova as per the '''[[The_horror_and_the_wild#Heart_of_the_Tempest|The horror and the wild]]''' wind of fortune
+* Passed
+==Date==
+* Summer 385YE
+==Cost==
+* Costs as per the wind of fortune
+* 12 wains of weirwood
+* 3 thrones in labour costs
+* 3 months to construct
+==Progress==
+{{CommissionProgress|Tolvoli_Slaughterhouse}}
+==Outcome==
+* Now completed the Varushkan national title of [[Tolvoli Butcher]] will be appointed annually each Autumn Equinox by [[Tally of the Votes]]

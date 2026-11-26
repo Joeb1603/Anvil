@@ -1,0 +1,4 @@
+* '''Form:''' Armour. Takes the form of a suit of [[Weapons & armour#Mage Armour|mage armour]]. You must be wearing this armour to use its magical properties.
+* '''Requirement:''' You must have both the [[Magical skills#Magician|magician]] and [[Magical skills#Battle Mage|battle mage]] skills to bond to this item.
+[[Category:Magic Items]]
+[[Category:Mage Armour]]

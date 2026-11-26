@@ -1,0 +1,43 @@
+==Overview==
+The Custodian of the Storm Vault is an [[Urizen]] [[Imperial title]] created following an [[379YE_Summer_Solstice_Announcements_by_the_Crystal_Architect#Construct the Storm Valt|announcement]] in Summer 379YE by the [[Crystal Architect of the Spires]]. Built in [[Zenith#Proceris|Proceris]] in the [[Urizen]] [[territory]] of [[Zenith]], the Custodian oversees the [[#The Storm Vault|Storm Vault]] as a [[sinecure]], requiring minimal responsibility but offering a regular income of crystal mana. 
+
+After the Spring Equinox 380YE, a plague of crystal-eating vermin saw the Senate commission [[Construct_Urizen_Sinecure_Outposts|white granite wards]] to help protect the Vault, which had the unexpected outcome of adding additional production to the sinecure.
+
+During the 381YE [[381YE_Summer_Solstice_winds_of_war#Valley_of_Darkness_.28Zenith.29|Druj invasion]] of Zenith, the Storm Vault was [[381YE_Winter_Solstice_winds_of_war#Hunting_By_The_Rivers|destroyed]] by orc invaders. While its position high in the mountains allowed it to avoid the devastating flood, it was quickly overrun and ruined by the orcs.
+
+Following the Autumn Equinox 384YE, as part of an [[appraisal]] authorised by the Imperial Senate, Naomi of Virtue's Rest [[Write_your_own_ending#The_Lost_Sinecures|presented plans]] to repair the damage and clear the area of vermin. At the Summer Solstice 386YE, these repairs were [[Rebuild_the_Storm_Vault|finally commissioned]] by the [[Crystal Architect of the Spires]], '''Tiberius Echostorm'''.
+==Responsibilities==
+The Custodian has no particular responsibilities; they simply receive a bounty of [[Game_items#Mana_Crystals|crystal mana]] from the Storm Vault in [[Zenith]]. If the Vault was to be threatened in any way, it would be the responsibility of the Custodian to deal with that threat.
+==Powers==
+===Bounty of Mana===
+The Custodian of the Storm vault receives an income of 10 crystal mana each season.
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible"><tr><td style="background-color: LightBlue;">'''Tempest Veins'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>7 crowns</td><td>12 ingots of tempest jade</td></tr>
+<tr><td>17 crowns</td><td>24 ingots of tempest jade</td></tr>
+<tr><td>30 crowns</td><td>36 ingots of tempest jade</td></tr>
+</table></div>
+===Tempest Veins===
+When the Druj occupied Zenith, they tore apart the face of the mountain with little finesse. Examination of the site after the territory was reclaimed revealed that, as a result of this, notable veins of tempest jade are present here. The Custodian can fund the extraction of this valuable resource.
+
+This extraction functions as a [[ministry]]. The holder of the title can use this to purchase ingots of tempest jade at a set price. The Custodian makes their decision on how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+==Appointment==
+The Custodian of the Storm Vault is selected by unanimous decision of the [[Urizen]] [[senator|senators]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by any Urizen citizen. The Custodian has [[Imperial_title#Term_of_office|tenure]], and serves until they die or step down. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Urizen [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Custodian_of_the_Storm_Vault}}
+==The Storm Vault==
+Echostorm spire is named after two adjacent peaks. "Storm" is a real curiosity within Zenith - a region normally famed for its clear skies for stargazing - in that it is regularly shrouded by cloud, rain and high winds. Quite why this might be is a matter of some debate, but current theories tend towards a magical origin.
+
+Whatever the truth of it, the Storm Vault was built to harness the magical flows. It consists of a set of vanes looking rather like a large mithril flower set just about the level of the cloud line (which varies a little seasonally, but is typically below the peak of the spire). The vanes are adjusted and tuned to harness the energy of the prevailing conditions - both magical and meteorological.  
+
+Collected energy is channelled down through the mountain down a conduit, to the vault - which is a delicate mesh of mithril from which crystals were grown. Whilst only a few grow to maturity each season, the nascent crystals glow and shimmer as the storm energy is harnessed meaning that the assembly resembles an extremely large cobweb chandelier. 
+
+The collector needs careful adjustment by civil servants, and bad weather on the side of a mountain makes this a rather unpleasant experience. The role of the custodian is to ensure that the adjustment and configuration of both the vault and the collector are carefully monitored.
+
+After the Autumn Equinox 381YE, the Druj sacked the Storm Vault. The mithril flower was torn apart, and the vault itself smashed open and looted.
+
+The repairs conducted after the Summer Solstice 386YE have restored the Storm Vault and the beautiful vanes of mithril to their original state. In addition to these repairs, considerable effort was taken to rid the area of vermin, including a small swarm of trogoni apparently attracted by either the magical potential of the location - or perhaps the tempest jade veins exposed by the crude Druj mining operation.
+
+[[Category:Title]]
+[[Category:Urizen]]

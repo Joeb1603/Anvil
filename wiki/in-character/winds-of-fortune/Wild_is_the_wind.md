@@ -1,0 +1,412 @@
+---
+title: Wild is the wind
+source: https://www.profounddecisions.co.uk/empire-wiki/Wild_is_the_wind
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 387YE Summer
+- Recent History
+- Foreign Nations
+- Faraden
+event: 387YE Summer
+last_edited: '2026-07-01T14:58:28Z'
+revision: 141034
+in_character_boxes: 5
+---
+
+# Wild is the wind
+
+> *In-character text:*
+>
+> "We could," said Jakarna Munkhabat slowly as if the idea was just occurring to her, "kill them all and burn their camp?"
+>
+> The Faraden wizard's eyes glittered, and the glow there was easily matched by the enthusiasm that blossomed on the face of Mary Smith, crouched beside her.
+>
+> "There are only five of them," said the Marcher battle-mage considering. "An incantation to repel *that* one through the fire, and an entanglement on the other would give us time to dispatch the other two before they realised what was happening. Then we finish off the others and the patrol is dealt with. Nobody would know, and that would be one less group of Jotun scouts to clomp their muddy feet all over Mournwold."
+>
+> Jakarna nodded. "I agree - but let's not risk entanglement. I can weave Chains of Air, and if you can invoke Rushing Wind then one of us can shatter *that* one's shield and make them easy pickings. It might be a little tricky but stopping that first one readying their spear until we're ready to deal with them would be wiser, I think."
+>
+> "I thought you people didn't believe in Wisdom?" murmured Mary, somewhat archly. Jakarna shot her a sour look, but took the ribbing in realtively good part.
+>
+> "Applying your strength sensibly is a prosperous use of your talents," she said piously. They quickly smiled at each other, and then readied their implements - a thin moonsilver bound staff for Jakarna, a solid truncheon carved with bears and a buckler with the face of an angry bull for Mary.
+>
+> "Right," said Mary. "It's the job that never get's started that takes longest to do, so let's do it."
+>
+> Before the two could launch their attack however, they were interrupted by the sound of a throat being cleared quietly behind them. Venetia di Sarvos crouched in the long grass, and followed their gaze down to the camp below.
+>
+> "Or, we could not." She spoke quietly, and was carefully not allowing her exasperation to show. "We could instead return to the caravan and let them know these orcs are keeping a watch out for us but probably won't be trouble given they are in the middle of what looks to be a chicken stew of some kind."
+>
+> "What if they attack us in the night," said Jakarna. "Best not to leave an enemy behind us."
+>
+> Mary Nodded but Venetia was not convinced. "We are travelling under flag of truce, remember. The Jotun won't breach the hospitality that implies but if someone murders one of their patrols, around the same time this Faraden caravan and its Imperial guides are passing through the area, what do you think is going to happen? Who will the Jotun immediately think is to blame?"
+>
+> The other two wizards frowned at each other but couldn't refute her words. Venetia could have gone on, pointing out all the other reasons that the two should not be ambushing patrols right now - given for example that every other patrol they'd encountered had had at least half a dozen people and so it was likely there were another two Jotun somewhere nearby. Also there were signs of thralls being in the camp too - the fine cooking pot, the nearly stacked firewood, weren't traditionally things Jotun worried about. That would mean either witnesses, or murder that would make the Jotun even angrier. She waited for good sense to take hold on her companions.
+>
+> After a few moment Jakarna sighed, muttered something uncomplimentary, and nodded her head once. Mary was a little less quick to agree - she carried a lot of frustration with the Jotun attacks on her home, first in Mournwold then in Bregasland, but in the end she acceded to common sense.
+>
+> As they went back to the rest of the party, however, Mary muttered in an undertone she was confident Venetia would not here:
+>
+> "Next time we waste less of it gabbing and more of it battering the Jotun, yes?"
+>
+> Jakarna grinned at the Marcher, fire burning in her eyes, and winked in agreement.
+
+*[Image: The Faraden pride themselves on their fine, luxurious victuals.](https://www.profounddecisions.co.uk/empire-wiki/File:Delicacies.jpg)*
+
+## Overview
+
+Each season the Civil Service prepares a summary of the Empire's relationship with the foreign nations, based on communications received from their ambassador, along with any useful intelligence gathered from other sources. While the Senate and the other houses of Imperial power may respond to these offers, it is important to note that it is the appropriate [ambassador](../../mixed/titles/Ambassador.md) that the foreign power will expect to hear from. Their communication with the foreign power is the primary element that will determine the tenor of any response.
+
+The lifeblood of [Faraden](../foreign-nations/Faraden.md) is trade, but it is also a country of canny wizards, courageous warriors, and proud (albeit heretical) priests. They currently do not share a border with the Empire, lying beyond the [Jotun](../barbarians/Jotun.md) and the [Iron Confederacy](../foreign-nations/Iron_Confederacy.md), but that does not stop them sending their caravans to Imperial markets despite the high tariffs they must pay to pass through the lands between. Diplomatic relations between the Court of the Five Winds and the Imperial Senate are changeable - warm one moment cool the next - but it has never come to open warfare. Right now Faraden is squeezed between two competing interests - the Empire on one side and the angry Plenum of the [Asavean Archipelago](../foreign-nations/Asavean_Archipelago.md) on the other - and they must walk a knife-edge between the two powerful nations.
+
+The Faraden ambassador to the Empire is *Mistress Singua Karadragha*, a relatively recent appointment who replaced the former incumbent *Lady Saretta of the Red Moon* at the insistence of the Liege of the Five Winds, following their assumption of the position in a (relatively) bloodless coup. Mistress Singua advises the Court of the Five Winds on all diplomatic matters, and speaks on their behalf to foreign ambassadors. Her attitude to the Empire appears to be cool but professional, and heavily informed by the wishes of the Liege and their court, who seek more opportunities to trade with the Empire.
+
+> **[Faraden](../foreign-nations/Faraden.md)**
+>
+> - **Status: Foreigner**
+> - **Ports: [Caitun](../world/Sea_of_Snow.md#pelabuhan)**
+> - **Ambassador: Ebenezer of [the Marches](../nations/the-marches/The_Marches.md)**
+
+## War in Reinos
+
+- **The Court of Five Winds is disappointed to see that the Empire has withdrawn from the Lasambrian Hills**
+
+When the Empire [invaded the Lasambrian Hills](../winds-of-war/Follow_me_my_friend.md), the Court of Five Winds was very pleased indeed. The need for their caravans to pay significant tolls to the Jotun - and the knowledge that they could close the land routes at their whim - means the Faraden support the Empire controlling [Reinos](../barbarians/Reinos.md) (or enough of it to allow their trade routes to stop passing through Jotun territory). The fact the Empire has pulled out, however, leads to a fair amount of disappointment.
+
+Mistress Karadragha had proposed to arrange a diplomatic envoy to the Empire for the Summer Solstice, assuming the Empire remained engaged in Reinos. With the withdrawal, the emissary will not be forthcoming. An opportunity to talk about how Faraden could support Imperial conquest of Reinos is one thing; most other diplomatic matters can be resolved via missives and through the staff at the various embassies.
+
+## Faraden Luxuries
+
+- **Caitun no longer provides orichalcum to Imperial traders; instead the port provides a starting fleet with a cube of *common mooncheese***
+- **Upgraded or enchanted fleets may receive *rare mooncheese* as well, which comes in a variety of different shapes**
+
+The Faraden Ambassador has continued to liaise with merchants in the Faraden town of [Caitun](../world/Sea_of_Snow.md#caitun). The [Pelabuhan](../world/Sea_of_Snow.md#pelabuhan) port is the destination for Imperial [fleet](../../out-of-character/rules/Fleet.md) captains who wish to trade with the western nation. It is here that the unique *giant blood whelks* are acquired, and thanks to negotiations with the Imperial Ambassador, it's also a place to acquire luxury goods, especially fine food and drink, and rich fabrics (which can be sold in the Empire; a standard fleet secures goods worth 54 rings when resold in the Empire).
+
+Knowing that there is continued Imperial interest in fine goods, Caitun merchants have begun stocking some of the rare cheeses produced by Faraden magician-fromagers. While the Faraden make excellent cheese, the cattle of Pelabuhan are known for an especially rare form of cheese infused with rare materials gathered in the shadow of the cliffs of [Sadewnan](../world/Sea_of_Snow.md#sadewnan). Called *mooncheese*, Mistress Karadragha writes in an amused tone that it is not *actually* from the moon; the name is, traditional for a certain kind of hard, tangy cheese. The fromargers produce several different variants and the merchants of Caitun are able to make some of them available to Imperial fleet captains in place of [orichalcum](../../out-of-character/rules/Materials.md#orichalcum). A standard fleet visiting Caitun will get a single cube of common mooncheese. If the fleet is sufficiently [upgraded](../../out-of-character/rules/Fleet.md#upgrades), or bears an enchantment at least equivalent to [Lure of Distant Shores](../../mixed/magic/rituals/Lure_of_Distant_Shores.md), the captain will also gain a cube of red, green, or blue mooncheese which is considered a considerable delicacy in Faraden (the variety will be picked randomly).
+
+- **Common Mooncheese** - A quarter-inch cube of common mooncheese is a semi-hard cheese, sometimes painted with pale wax. It is tangy and rich with a fruity taste. So tasty is it that even a single cube is known to improve the mood of the one who eats it, to leave them feeling sated and full for the rest of the day as if they had eaten a whole meal, and incidentally alleviates the effects of both [weakness](../../out-of-character/rules/Calls.md#weakness) and [venom](../../out-of-character/rules/Calls.md#venom).
+- **Red Mooncheese** - Visually hard to tell apart from common mooncheese, it is usually painted with red wax. It tastes hot and spicy, and some folk can have an unpleasant reaction to it that leaves them unable to speak louder than a whisper for a time. It is also delicious - provided one likes spicy food. Favoured by Faraden wizards who study the [Autumn Flame](../../out-of-character/rules/Autumn_magic.md) it apparently focuses and enhances their ability to manipulate the force of serendipity when [blessing](../../out-of-character/rules/Enchantment.md) business endeavours.
+- **Green Mooncheese** - This soft cheese with a faint greenish tinge, usually served in thin wedges. It tastes bitter but not unpleasantly so, and connoisseurs praise its sweet, sharp aftertaste. It is popular with certain warriors and explorers as it provides great intestinal fortitude, allowing the one who consumes it to throw off various forms of venom and some poisoning. It also kindles an enthusiasm for seeking out new experiences that is popular with epicureans planning a night of celebration.
+- **Blue Mooncheese** - A more crumbly cheese, sometimes with pieces of fruit embedded in it. The blue in the name comes from the gentle vein that permeates the cheese. The taste is apparently different each time, and it is said that anyone who eats enough of it regularly experiences peculiarly lurid dreams (and occasionally experiences hallucinations while wide awake). It's popular with certain wizards, apparently allowing them to achieve an altered state where they can see the hidden colours in mundane wind and fire.
+
+Hopefully Imperial merchants will be interested in securing these Faraden luxury delicacies.
+
+## Nergui and Bulangiin
+
+- **Ambassador Ebenezer reports on matters related to Faraden citizens in the Empire**
+
+The report of *[Nergui Enkhtseg's](../winds-of-war/Follow_me_my_friend.md#battlefield-opportunity-rescue-nergui-enkhtseg)* death is truly upsetting. That the life of the lost trader would end on the Grismont Road is lamentable and a tragedy. Their loss will be mourned by several of the High Lords of Faraden, but they accept that the Empire must have done what it could to rescue the merchant.
+
+On the matter of *[Bulangiin Karadragha](../winds-of-war/Follow_me_my_friend.md#the-extra-bit-reinos)*, Mistress Singua Karadragha is confused. She asked the [Champion of Prosperity](../../mixed/titles/Champion_of_Prosperity.md), **Tom Appleseed** to rescue Bulangiin to avoid having to pay the fifteen throne ransom to *Geur Tightfisted*. Mistress Singua would much rather encourage the Empire's military units to [raid the Jotun](../../mixed/economy/Venture.md#raid-the-jotun) with extra inducement than pay the same amount to a grasping Lasambrian. It is unfortunate that the Lasambrian attempted to inflate the price, assumedly in the understanding that the Empire would benefit from them being the ones to return Bulangiin to Faraden. The Karadragha family have now paid the fifteen throne ransom, and Bulangiin has returned to Faraden.
+
+Regardless, Mistress Karadragha is realistic. Both efforts were long-shots, and any sadness at the apparent failure of the efforts to help Faraden citizens is mitigated by the fact that the Imperial heroes at least *tried* to do so. It's unfortunate, but it won't damage Faraden relations or make them more reticent to ask for Imperial aid again if similar circumstances arise.
+
+## Sparks Fly Up
+
+*[Image: OrderRodAndShield.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:OrderRodAndShield.jpg)*
+
+*[Image: OrderCelestialArch.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:OrderCelestialArch.jpg)*
+
+- **The Muhnkhabat family war wizards will be in Anvil from 15:00 to 18:00 Saturday**
+- **They wish to see demonstrations of Imperial war magic, and speak to people with relevant titles**
+- **If there is an opportunity for them to compete with Imperial mages in a test of arms, they would be most honoured to compete.**
+
+The [Muhnkhabat family](A_pillow_of_winds.md#wizards-of-the-west) have sent a delegation of war wizards to The Empire, escorted by the Rod and Shield, to witness Imperial military magic and discuss potential opportunities for collaboration against the Jotun. The Rod and Shield magicians were welcomed warmly, and treated to three days of fine food, martial and athletic contests in which battle-magic was freely used, and many heated hours of argument about the best way to deploy magic - both invocation and ritual - on a battlefield.
+
+Whilst there was potential for this journey to [cause some diplomatic issues](A_pillow_of_winds.md#a-gentle-touch), the presence of the Celestial Arch has kept somewhat of a lid on things, and so far there have been no signs of trouble. The Arch came in particularly useful in persuading the more "gung ho" wizards of both the Muhnkhabat and the Rod and Shield *not* to launch an attack on a Jotun outpost that would most likely have led to several deaths and having to do half the journey to the Empire while being pursued by angry orc warriors. The diplomatic magicians also worked hard to smooth over situations where "friendly" contests threatened to get out of control, preventing conflict over matters of religion or history, and temper the general arrogance of the Muhnkhabat when dealing with citizens of the Empire. An exhausting, but ultimately successful, job that sees the Faraden wizards in a more receptive mood when they finally reach Casinea.
+
+*[Image: Sakari Nightscale , Grandmaster of the Rod and Shield](https://www.profounddecisions.co.uk/empire-wiki/File:Sakari_Nightscale.jpg)*
+
+*[Image: Xanthippe of the Lighthouse-That-Was , Grandmaster of the Celestial Arch](https://www.profounddecisions.co.uk/empire-wiki/File:GrandmasterCelestialArch.png)*
+
+Now the delegation has reached Anvil, they wish to be given a tour of notable places of war magic, as well as meet with key figures in the implementation of the Empire's military magical strategies. The majority of the delegation is enjoying the sights and experiences of [Outer Anvil](../world/Anvil.md#outer-anvil), or resting after their long journey. *Chagataii Muhnkhabat* (a younger sibling of *High Lord Ganzorig Muhnkhabat*) will present themselves and a cadre of the families best at the main gate of Anvil at three in the afternoon on Saturday. They expect to be received with all appropriate honours, and will then be at the disposal of their Imperial hosts until around six. Obviously they hope that the Grandmaster of the Rod and Shield **Sakari Nightscale** will be available to represent their hosts (and Grandmaster **Xanthippe Of the Lighthouse-That-Was** from the Celestial Arch if they think such is necessary).
+
+Chagataii wishes to leave the specifics of the itinerary in the hands of his hosts, but has expressed interest in the following:
+
+- They would like to observe battle mages engaging in contests of war-magic, and if they may be invited to participate themselves to test themselves against their hosts, that would be appreciated. Whilst travelling through the Empire they have heard from some of their honour guard about the Icy Crag Tourney, and are very eager to take part if that is at all possible.
+- They wish to visit the Hall of Worlds, and learn more about it and how the Conclave operates
+- They want to see the Sentinel Gate and learn of its use and history and how it supports the Empire's battles
+- They would greatly appreciate seeing demonstrations of Imperial war magic - especially how the Rod and Shield wield the principle of empowerment (Summer magic) and the power of the Wind (Day Magic) towards battlefield ends
+- They will wish to meet the Imperial warmage and the Imperial warcaster, and to gain a greater appreciation of how the Empire's magicians wage war
+
+They will bring with them a small gift as a token of their appreciation. Whatever gifts the Empire chooses fit to bestow in welcome will, of course, be gratefully received.
+
+## Gratitude and Grain
+
+- **A large contingent of the Hakhandra merchant family visit the Marches to collect sixteen head of cattle provided by the Ambassador**
+- **They plan to establish a regular supply of fine Faraden victuals for the Ambassador going forward**
+
+A few weeks after the Spring Equinox, a large band of Faraden warriors turn up in the Marches. They come up through [Tassato](../nations/the-league/Tassato.md) and [Miaren](../nations/navarr/Miaren.md), giving the western territories a wide berth. They're particularly notable for their deep green coats, and finely died trousers and embroidered shirts. They are also especially gregarious for Faraden, always enthusiastic about stopping at a wayhouse or a roadside establishment to scatter handfuls of Imperial coinage for the chance to sample local delicacies. They are here to collect the sixteen head of cattle that Ambassador Ebenezer has acquired on their behalf. It's obvious that as well as being martially proficient they know their cows. They are members of the Hakhandra family, and they are very pleased. Visiting both Mitwold and Upwold cattle markets, they are at pains to speak with the farmers who raise and transport the cattle - and not only Marchers. There is a fair amount of interest in the [Great Northern Herd](../../mixed/titles/Shepherd_of_the_Great_Herd.md#the-great-herd), and efforts to establish the [Southern Herd](Million_miles_of_water.md#the-cattle-markets) and the [Herds of Afar](Send_for_me.md#herds-of-afar). Several members lament that they will not have time to actually visit [Skarsind](../nations/imperial-orcs/Skarsind.md), [Mareave](../nations/imperial-orcs/Mareave.md) or [Feroz](../nations/the-brass-coast/Feroz.md) - at least not on this trip. The leader of the Faraden contingent - the enthusiastic *Khutulun Hakhandra* - makes a point of taking several of their friends to visit Kings Stoke, especially keen to meet **Steward Watkin** who was apparently key to ensuring the cattle were all collected.
+
+In addition to the agreed on payment, Khutulun thanks the Ambassador and the embassy staff. The Hakhandra are interested in cementing closer ties with the Marches in particular, to buy the many exotic Imperial delicacies available in the markets of [Mitwold](../nations/the-marches/Mitwold.md) and [Upwold](../nations/the-marches/Upwold.md) as well as fine Marcher cows, goats, and pigs. In recognition of the work Ebenezer has done, the Hakhandra have arranged for a small amount of equally fine Faraden victuals to be delivered to the [Embassy](../nations/the-brass-coast/Segura.md#the-faraden-embassy) in Segura each season. With an eye towards doing more business in future.
+
+Following the Summer Solstice, and continuing as long as good relations with the Hakhandra are maintained, the Ambassador to Faraden will receive two cubes of *common mooncheese* and one piece of *rare mooncheese* each season. The Civil Service point out that this is clearly a bribe as much as it is a sincere demonstration of gratitude, but that the Faraden don't deny it either. The merchants clearly want to ensure the Faraden ambassador has an interest, no matter how minor, in ensuring good relations with the nation continue. (**OOC Note:** The ambassador is welcome to talk about the rare food and drink that forms part of this "hamper", and should feel free to pass off any amount of odd foodstuffs as having been gifted to them by the Faraden herdmasters).
+
+*[Image: The yak of western Faraden are like very hairy oxen but adapted to live at high altitudes and in cold weather. Their wool, milk, and meat is much prized.](https://www.profounddecisions.co.uk/empire-wiki/File:A_Yak.jpg)*
+
+### Yakholme Grange
+
+- **The Hakhandra are interested in establishing a permanent trade enclave in Upwold**
+- **They are concerned about potential backlash if the project does not have the support of the Marcher Assembly**
+
+While they are in [Stockland](../nations/the-marches/Upwold.md#stockland), Khutulun Hakhandra speaks to the local Marchers about the plan to establish a regular trade route between the cattle markets there and Faraden. There is some caution, even suspicion. And, sadly, not just on either one side. The fiasco around [Moonwater Hall](../nations/the-marches/Upwold.md#moonwater-hall-ruins) is very much in the minds of both Faraden and Marcher during these discussions. The apparent support of Ambassador Ebenezer - of good solid Marcher stock even if they do live among [uptight folk who think they are better than they are](../nations/the-marches/Mitwold.md) - goes some way toward smoothing over concerns. Some tentative plans for Yakholme Grange are laid out.
+
+|  |
+| --- |
+| **Yakholme Grange** |
+| **Commission Type:** Great Work |
+| **Location:** [Stockland](../nations/the-marches/Upwold.md#stockland), Upwold |
+| **Cost:** 50 wains of [weirwood](../../mixed/economy/Weirwood.md) and 25 [white granite](../../mixed/economy/White_granite.md), 225 crowns labour costs |
+| **Time:** Six months |
+| **Availability:** Open-ended |
+| **Limitations:** Relies on Faraden trade; there are concerns related to religious matters |
+| **Effects:** • Raises the level of investment for farms in Upwold by one <br> • Establishes Stockland as the Empire's premiere cattle market <br> • Increases Faraden trade with the Marches |
+
+The Grange would be a [great work](../../mixed/commissions/Great_work.md), and estimates are that it would require 50 wains of weirwood and 25 wains of white granite. It would cost 225 crowns in labour, and take six months to complete. It would raise the level of investment in farms in Upwold, increasing the income of every Marcher farm by an additional 36 rings each season. It would also help to put Stockland cattle market on the map - with the Hakhandra bringing some of their own prize bulls for sale here. There is no doubt that it would be the largest and most profitable place to buy farm animals and related products in the Empire.
+
+In addition to the local effects, the market would see an increase in Faraden goods being brought into the Empire. The [tariffs charged](../../mixed/government/senate/Tariffs.md#mercantilist) on Faraden imports would see an estimated 3 Thrones each season flowing into the [Imperial treasury](../../mixed/economy/Imperial_treasury.md). It would also cement closer ties between the Marches and the Hakhandra family; a valuable first step toward securing access to the yaks that so fascinate Ambassador Ebenezer.
+
+*[Image: Assembly Marcher.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Marcher.png)*
+
+There is however an obstacle. In the past there was conflict between the Faraden and the Empire over matters of faith and religion. The Hakhandra are not missionaries, they do not proselytise. But they are no less faithful to the [Five Flames](../religion/On_Faraden_faith.md) than any other merchant house. There is some concern that old antagonisms might reignite in the Marches who, as Khutulun points out, are nearly as good as the Faraden for remembering past conflicts and holding grudges. It has been suggested that a well worded [statement of principle](../../mixed/government/synod/Statement_of_principle.md) from the Marcher national assembly might help to allay both the fears of the Hakhandra, and worries among the Marcher folk who are concerned about heretical and blasphemous foreigners coming to Upwold. If such a statement is issued and achieves a [greater majority](../../mixed/government/synod/Judgement.md#greater-majority) the upside is obvious - it will not only reduce the likelihood of problems while the Grange is being built and could encourage the Hakhandra to offer material support to the construction. There are also obvious downsides however - if any trouble *does* erupt between the Faraden and the Marcher farmers, then people will end up pointing the finger at the Assembly for saying it would be fine.
+
+Obviously, the Assembly might *not* favour another group of Faraden heretics establishing a trading base in the Marches. In that case, they might likewise use a statement of principle to encourage the farmers to be leary of the Faraden, and encourage the Hakhandra to take their their cattle market schemes elsewhere. This will sink the Yakholme Grange project, at least in the Marches, provided it achieves a greater majority. The good news is that even if it does end Hakhandra ambitions in the Marches, it won't inspire any kind of political disruption or diplomatic incident unless the language used is extremely vituperative. The Faraden understand the holding of grudges, and the desire to avoid another Moonwater Hall scandal is entirely understandable.
+
+The most important thing is that if the Marcher Assembly chooses to get involved here, the wording of the statement of principle is *crucial*. It should be as clear as possible what the assembly thinks, and whether they are encouraging or discouraging the Marcher farmers to support the Hakhandra ambition. Otherwise it might all go horribly, horribly wrong.
+
+### Meade and Mithril
+
+- **Another opportunity exists for the Alder of Meade to acquire a little mithril in return for iridescent gloaming**
+
+Between them Mistress Karadragha and Ambassador Ebenezer were able to secure an arrangement whereby the [Alder of Meade](../../mixed/titles/Alder_of_Meade.md), **Aubrey Shaw**, was able to [buy mithril](A_pillow_of_winds.md#gloaming-dusk) from the conservative *Tseriyn*  merchant family. The Tseriyn were responsible for providing the lion's share of [mithril](../../mixed/economy/Mithril.md) to the old [Gloaming Road](../../mixed/economy/Overseer_of_the_Gloaming_Road.md). The deal went off without a hitch; a caravan of Tseriyn mithril was brought to Caitun, loaded onto Imperial ships, and brought to [Meade](../nations/the-marches/Mitwold.md#meade). Some further negotiations have taken place behind the scenes, and it seems that *Amulchi Tseriyn* is prepared to extend this "final arrangement" a little longer. There is less mithril available - in this case 8 wains are available to the Alder to purchase at a cost of 270 [iridescent gloaming](../../out-of-character/rules/Materials.md#iridescent-gloaming). Or, if they prefer, 4 wains for 135 measures of gloaming. As before the trade will pass through Caitun, but the Alder must be aware that the amounts of mithril available are low because the Tseriyn have made other arrangements for the bulk of their metal. (**OOC Note** as before if the Alder of Meade wishes to take advantage of this final offer, they should ensure the gloaming is in their account and email [plot@profounddecisions.co.uk](mailto:plot@profounddecisions.co.uk) before downtime closes).
+
+*[Image: Actuallythebest001.png](https://www.profounddecisions.co.uk/empire-wiki/File:Actuallythebest001.png)*
+
+## Firewind Market
+
+|  |
+| --- |
+| **Faraden Quarter** |
+| **Commission Type:** Edifice |
+| **Location:** [Holmauer](../nations/the-league/Holberg.md#holmauer), Holberg |
+| **Cost:** 70 [weirwood](../../mixed/economy/Weirwood.md) and 30 [white granite](../../mixed/economy/White_granite.md), 300 crowns labour costs |
+| **Time:** six months |
+| **Availability: Open-ended** |
+| **Effects:** • Raises the level of investment for businesses in Holberg by one <br> • Creates a ministry and the title of *Firewind Prince* <br> • Permits the creation of Faraden caravanseri along trade routes <br> • Increases the taxation raised from trade with Faraden by 4 Thrones each season <br> • Significantly increases the number of Faraden travelling to and visting in Holberg |
+
+|  |
+| --- |
+| **Firewind Prince** |
+| **Type:** League |
+| **Appointment:** Tally of the Votes |
+| **Powers:** Oversees Firewind Market |
+| **Responsibilities:** To serve as a liaison between the Faraden visiting Firewind Market and the people of Holberg; to encourage Faraden merchants to trade with the city; to smooth over any disputes; to make decisions based on any opportunities related to Firewind Market |
+| **Limitations:** If the Firewind Prince is not an inhabitant of Holberg, they may begin at a disadvantage when dealing with residents of Holberg caught in a dispute with Faraden merchants |
+
+|  |  |
+| --- | --- |
+| **Brightfire Market** | |
+| 8 crowns | 6 orichalcum, 6 weltsilver |
+| 20 crowns | 12 orichalcum, 12 weltsilver |
+| 36 crowns | 18 orichalcum, 18 weltsilver |
+| 55 crowns | 24 orichalcum, 24 weltsilver |
+| 74 crowns | 30 orichalcum, 30 weltsilver |
+
+|  |  |
+| --- | --- |
+| **Darkfire Market** | |
+| 8 crowns | 6 tempest jade, 6 green iron |
+| 20 crowns | 12 tempest jade, 12 green iron |
+| 36 crowns | 18 tempest jade, 18 green iron |
+| 55 crowns | 24 tempest jade, 24 green iron |
+
+|  |  |
+| --- | --- |
+| **Brightwind Market** | |
+| 25 crowns | 1 mithril |
+| 50 crowns | 2 mithril |
+| 75 crowns | 3 mithril |
+| 100 crowns | 4 mithril |
+| 125 crowns | 5 mithril |
+| 150 crowns | 6 mithril |
+
+|  |  |
+| --- | --- |
+| **Darkwind Market** | |
+| 25 crowns | 1 white granite |
+| 50 crowns | 2 white granite |
+| 75 crowns | 3 white granite |
+
+With the clear decision of the Holberg Chamber of Commerce to favour the "Iron" option from among those presented to them, work is ready to begin on the Faraden Quarter in [Holmauer](../nations/the-league/Holberg.md#holmauer). The enclave will provide places for Faraden merchants to stay and rest, and establish small [businesses](../../out-of-character/rules/Business.md) of their own if they are so inclined. At the heart of the Quarter will be a large market dedicated to trading Faraden metal to Imperial citizens, in return for the kinds of goods popular in Holberg - Firewind Market. The Quarter will be overseen by a League citizen with the title of *Firewind Price* who will liaise with the inhabitants and smooth over any disputes. The Firewind Prince will be appointed by [Tally of the Votes](../../mixed/economy/Tally_of_the_Votes.md) - by League business holders across the nation. Their ministries will allow them to purchase [metal ingots](../../out-of-character/rules/Materials.md#metals), and small amounts of mithril and white granite.
+
+This Quarter is a significant undertaking. It will cost the Empire 70 wains of weirwood, 30 wains of white granite, and 300 crowns. The Faraden themselves will provide their own materials and labour to help establish the Quarter, roughly equivalent to that provided by the Empire. Work will take six months to complete.
+
+Mistress Singua is a little apologetic in that the prices charged for the metals are higher than she might like, but that the [tariffs](../../mixed/government/senate/Tariffs.md#mercantilist) imposed on Faraden imports are a significant contribution. On the other hand, the fact that the Empire *is* charging tolls and tariffs to Faraden merchants mean that when the work is completed the contribution from Faraden trade to the [Imperial treasury](../../mixed/economy/Imperial_treasury.md) will increase by 4 Thrones each season as long as trade continues. If the Senate were to move the Faraden to free trade, this contribution would drop, but the cost of the materials at the ministry would also drop.
+
+While there was some concern that the Faraden might not be prepared to deal with the [orcs](../../mixed/world/Orc.md) of the League, or the Sand Fishers of [Misericorde](../nations/the-league/Holberg.md#misericorde). Mistress Karadragha [addressed these concerns](A_pillow_of_winds.md#orcs-and-false-flames) by pointing out that any conservative Faraden who did not want to deal with orcs would not come to the Empire anyway. As it is, there is some potential for the Sand Fishers to profit here as well - after all they have a *lot* of lumber and wood to sell something the Faraden are known to value. It remains to be seen if they take advantage of this opportunity or not.
+
+### Faraden Caravanseri
+
+*[Image: The Faraden trail from Segura to Holberg (and back).](https://www.profounddecisions.co.uk/empire-wiki/File:Faraden_Trail.png)*
+
+|  |
+| --- |
+| **Faraden Caravanseri** |
+| **Commission Type:** Great Work |
+| **Location:** [Segura](../nations/the-brass-coast/Segura.md), [Kahraman](../nations/the-brass-coast/Kahraman.md), [Tassato](../nations/the-league/Tassato.md), [Miaren](../nations/navarr/Miaren.md), [Astolat](../nations/dawn/Astolat.md), or [Semmerholm](../nations/dawn/Semmerholm.md) |
+| **Cost:** varies based on focus and current level of investment in businesses, farms, or forests |
+| **Time:** six months |
+| **Availability:** Open-ended once Faraden Quarter is completed |
+| **Limitations:** Only one carvanseri can be built per territory; relies on trade with Faraden |
+| **Effects:** • Raises the level of investment in the territory for one of businesses, farms, or forests <br> • Creates a ministry and associated title to purchase Faraden goods <br> • Increases the taxation raised from trade with Faraden by 2 Thrones each season <br> • Increases the number of Faraden travelling through and visiting the territory |
+
+- **Once the Faraden Quarter is completed the ability to create Faraden caravanseri will become available**
+
+Once work on the Faraden Quarter in Holberg is complete, it also opens up an opportunity for the Empire to encourage Faraden trade. Most Faraden caravans enter the Empire through Segura - traditionally past the [Kabalai Palace](../../mixed/government/military/Segura_spoils_of_war.md#kabalai-palace). The Empires roads are excellent, providing quick and relatively safe travel - especially thanks to the efforts of groups such as the [Navarr](../nations/navarr/Navarr.md) [roadwardens](../../mixed/economy/Venture.md#roadwardens). The Faraden are happy to stay at [wayhouses](../nations/navarr/Wayhouse.md) and inns along their routes, obviously, but there is a potential to make them feel even more welcome and help bolster trade with the western nation.
+
+A *Faraden Caravanseri* could be built in any territory along a route to Holberg. At the moment that means [Segura](../nations/the-brass-coast/Segura.md), [Kahraman](../nations/the-brass-coast/Kahraman.md), [Tassato](../nations/the-league/Tassato.md), [Miaren](../nations/navarr/Miaren.md), [Astolat](../nations/dawn/Astolat.md), or [Semmerholm](../nations/dawn/Semmerholm.md). A Caravanseri is a [great work](../../mixed/commissions/Great_work.md) that supports one of [businesses](../../out-of-character/rules/Business.md) (representing trade with local entrepeneurs), [farms](../../out-of-character/rules/Farm.md) (representing direct purchase of Imperial victuals), or [forests](../../out-of-character/rules/Forest.md) (representing the purchase of forest goods). In the latter case, the great work would still provide 36 rings rather than the normal effect of investment in forests. Furthermore, regardless of which kind of great work is built, up to half the material cost can be in weirwood for those that usually need white granite, or white granite if the great work normally uses weirwood exclusively.
+
+Once complete, a Faraden Caravanseri will serve as something of a hub, encouraging increased numbers of Faraden traders to explore the territory. It would also encourage more merchants to make the trip through the Lasambrian Hills to trade with the Empire in general. As long as Faraden [pays tariffs](../../mixed/government/senate/Tariffs.md#mercantilist), the amount they contribute to the Imperial Treasury is increased by 2 thrones each season for *each* caravanseri. A given territory can only have a single caravanseri, however.
+
+The caravanseri will also create a liaison position, responsible for ensuring good relations between the Faraden and the inhabitants of the territory. They'd need to make sure any disputes were dealt with and in return they would gain access to a small ministry reflecting their ability to purchase Faraden goods from the merchants visiting the caravanseri. At first this would mean metals, similar to those available at the big market in Holberg. If the Empire built other enclaves on a similar scale elsewhere in the Empire, they might be able to gain access to other substances. These titles would be appointed by [Tally of the Votes](../../mixed/economy/Tally_of_the_Votes.md), and as mentioned above the prices they paid for Faraden metals would be raised by the fact the Empire imposes Tariffs on the Faraden.
+
+Finally, each caravanseri will improve diplomatic relations with the Faraden a small amount. While they can be volatile, the overtures of the Empire have been very positive recently. They are also practical - the more of their trade that passes through Imperial lands them more likely they are to want to preserve the status quo.
+
+However, if Holberg Market was ever abrogated or destroyed, the caravanseri would likewise stop operating until it was reopened or a similarly significant enclave established in another city.
+
+*[Image: NBVarushka.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:NBVarushka.jpg)*
+
+*[Image: NationBannerDawn.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:NationBannerDawn.jpg)*
+
+### Further Markets
+
+- **There has been some discussion of establishing other major Faraden markets in the Empire**
+- **Mistress Karadragha requests confirmation from the Overseer of the Western Road that there is interest in trading fabric and garments with Faraden traders**
+- **She also enquires as to whether there might be interest in establishing a victuals market in Dawn**
+
+The Court of Five Winds is interested that Ambassador Ebenezer mentioned proposals that Faraden might consider not just an enclave in Holberg, but similar trade hubs in Varushka and the Marches. If Varushka is interested in establishing an enclave on the same basis as Holberg, one that deals primarily in fabric and clothing, that would be very acceptable. They would prefer to spend as little time as possible in the forests of Varushka which they understand are infested with monstrous flesh-eating trees. So it would be ideal to look at building something in [Delev](../nations/varushka/Karov.md#delev), especially given the proximity of the new hall extolling the virtue of Varushkan fabric and weaving.
+
+Mistress Karadragha understands that the [Overseer of the Westward Road](../../mixed/titles/Overseer_of_the_Westward_Road.md) is a significant figure among the merchants of Varushka. If the Ambassador can confirm that there is interest, Singua will send a speculative group of Faraden to explore the possibilities. *However* she will only do so *after* work has begun on Firewind Market. Too much time and investment has already taken place for her to switch her attention to a new project with the current one half-completed.
+
+As to a victuals market in the Marches, Mistress Karadragha can see the appeal. She confides that there is also interest in establishing such a concern in [Dawn](../nations/dawn/Dawn.md) whose fine wines in particular are considered to be especially luxurious. Is there any interest in the eastern nation at all? That is not to say that something in the Marches could not be discussed - but the Faraden Ambassador would prefer to wait and see how the plans for Yakholme Grange proceed before pushing forward there.
+
+## Paying to be Forward
+
+- **Mistress Karadragha seeks introductions to the diplomats of Axos, Skoura, and Otkodov**
+
+One other matter of interest related to trade has been raised; there is a great deal of interest in three of the nations that border the Empire to the north and east. Faraden merchants have encountered traders from [Skoura](../foreign-nations/Skoura.md), [Axos](../foreign-nations/Axos.md) and [Otkodov](../barbarians/Otkodov.md) while visiting Imperial markets. Mistress Khardraga has a request for Ambassador Ebenezer; would it be possible for the Imperial ambassadors to effect an introduction for Faraden to the diplomats of those three nations? She already has the tools to make cautious contact, but obviously establishing a basis for understanding can take time especially when dealing with unfamiliar cultures.
+
+Obviously the Ambassador to Faraden has limited ability to effect such an introduction, but presumably the Empire has ambassadors to these nations? Mistress Singua believes that if those ambassadors were to vouch for the Faraden to the Skourans, Axou, or Thule that would go some way toward smoothing over that initial period of "getting to know you" and be invaluable in getting to the important part - talking about trade. Equally obviously, this is of some value to the Faraden as a nation - if the Ambassador feels that some sort of gratuity or *quid pro quo* were in order, Ebenezer has only to ask and Mistress Karadragha will evaluate the request and decide if it is worth the aid the Empire can offer.
+
+The Imperial Civil Service advise caution; at the moment the Empire controls any access Faraden has to the orcs of the north, or the two smaller nations to the east. While Mistress Karadragha might claim that eventually Faraden will establish its own communication with some or all of these nations, that could easily take years if it succeeds at all. If the Empire introduces the Faraden to these nations, then the Faraden will henceforth deal with these other nations with no reference to the Empire whatsoever. On the other hand, if the Faraden *do* establish trade links with Skoura, Axos or Otkodov, any trade will need to go through Imperial lands along Imperial toll roads and over Imperial borders. This might result in a small but steady trickle of additional funding into the Imperial treasury, or bring other benefits if the Ambassadors are shrewd enough in finding ways to exploit this opportunity.
+
+## Flame and Virtue
+
+- **Imperial priests have attempted to bolster their peers in Faraden against Asavean propaganda**
+- **The Ember Blossoms have returned to Faraden**
+
+Last season two proposals relating to faith and religion [were made](A_pillow_of_winds.md#a-matter-of-faith). One was a possibility for Imperial priests preaching the four virtues similar to four of the Faraden flames- [Courage](../religion/Courage.md), [Loyalty](../religion/Loyalty.md), [Pride](../religion/Pride.md), and [Prosperity](../religion/Prosperity.md) - to support their "peers" in opposing [Asavean](../foreign-nations/Asavean_Archipelago.md) efforts to [convince citizens](A_pillow_of_winds.md#fanning-the-flames) that the Asavean and Faraden religions were not as disaparate as they appeared. The second was an offer from a [sect](../../out-of-character/rules/Bands.md#sects) of Faraden [Vengeance](../../mixed/magic/lore/Malign_spiritual_presences.md#vengeance) dedicates to [offer specialist aid in the Archipelago](A_pillow_of_winds.md#a-just-world). Apparently these *Ember Blossoms* felt their particular understanding of encouraging others to take vengeance on those who have oppressed them would be useful in stirring up civil war in the far west.
+
+*[Image: Assembly Courage.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Courage.png)*
+
+*[Image: Assembly Loyalty.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Loyalty.png)*
+
+*[Image: Assembly Pride.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Pride.png)*
+
+*[Image: Assembly Prosperity.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Prosperity.png)*
+
+### The Flames Burn Brighter
+
+- **The cooperation between priests of the Empire and Priests of Faraden has narrowly failed to halt the inroads of the Asaveans.**
+- **The people of Faraden are still open to attempts by foreign powers to influence them.**
+
+Last season a coalition of conservative Faraden priests [approached the Empire](A_pillow_of_winds.md#a-matter-of-faith) with a concern, and a proposal. The slimy tentacles of the [Asavean Archipelago](../foreign-nations/Asavean_Archipelago.md) sought to get a grip on Faraden society by claiming some sort of commonality between the [Five Flames](../foreign-nations/Faraden.md#faraden-religious-beliefs) and the [Asavean gods](../foreign-nations/Asavean_gods.md), a common trick in the Plenum's cultural arsenal. Outraged by what they saw as a blatant insult to the power of the human spirit and the virtues that guide them, the priests of Faraden invited the Imperial Synod to engage in a series of joint religious celebrations. Priests of [Courage](../religion/Courage.md), [Loyalty](../religion/Loyalty.md), [Pride](../religion/Pride.md) and [Prosperity](../religion/Prosperity.md), the four Virtues that both nations agree to be true, would stand together and reaffirm that despite any differences between the Way and the Five Flames, they could both unite to condemn the scourge of idolatry.
+
+The Imperial Synod spung into action, with all four of the relevant Assemblies passing Virtues urging their congregants to support the actions of those who would preach against the insidious influence of Asavea. Following the Spring Equinox, priests from across the Empire heeded the call and travelled to Faraden, some arriving via the docks at Caitun, some accompanying the caravan transporting representatives of the Rod and Shield and the Celestial Arch in [their own diplomatic mission](A_pillow_of_winds.md#wizards-of-the-west). Those who arrive in the first wave find themselves greeted with a certain amount of fanfare - pro-Imperial sentiment is strong, even in a highly factionalised Faraden, and many people are keen to show off their Prosperity by offering food and lodging to honoured guests. The mere fact that the Imperial Synod has deigned to engage with the priests of Faraden as equals is already a major victory.
+
+What follows is a whirlwind tour of different religious events, ranging from intimate family gatherings where the nature of Virtue is discussed over the dinner table to public rallies attended by hundreds of people where dozens of priests are given the chance to witness to the crowd. These events are invariably lively, regardless of the size, and larger assemblies are often attended by musicians, street performers and food vendors, creating a festive atmosphere everywhere the priests go. The Asaveans are nowhere to be seen, although the priests always seem to just be missing them. The visiting Imperials consistently hear that the Asaveans passed through a few days ago, or are likely to visit in a few days time, or are in the same place but on the other side of town.
+
+It does not take long for the more politically astute among the Imperial delegation to cotton on to the highly choreographed nature of the whole affair, how symbols of Faraden art and culture are to be seen everywhere they travel, how the capacity of the Flames to bring joy and comfort is emphasised and conversations about sacrifice and difficult choices are couched in the romantic language of ancient stories and national myths. This is a political event as much as a religious one, and a lot of planning has gone into making it seem as spontaneous as possible.
+
+Yet for all the success of the Imperial delegation, the Asaveans are at least as skilful in their manipulations. Some among their number are pompous and condescending, but many others are passionate, philosophical, or dignified by turns, charming the Faraden crowd at least as much as any of the Imperial preachers. They never question the Empire's right to involve themselves in the affairs of Faraden, a right that the Empire arguably has more claim to than distant Asavea.
+
+Instead they speak of progress, adapting to a changing world, and a willingness to learn from new information. The priests of Asavea recognise that they have much to learn from the faiths of other nations, including those of the Five Flames. How arrogant it would be for them to claim a monopoly over truth, or even over the path that may lead to greater understanding! They do not seek to impose their religion on the people of Faraden, not at all. They simply seek respectful dialogue. And while many citizens of Faraden heed the call of the Empire to return to the fundamental orthodoxies of their faith, just as many speak of openness to dialogue and a potential role for Faraden in an increasingly connected world.
+
+Had even one more congregation supported the mission then the balance might have tipped in the favour of the conservative elements, but it was not to be. The debate is fierce, and continues unabated with little changed as the priests return to their homes.
+
+One more matter arises from this as the season begins to turn. The priests of Faraden are notoriously fractious and hard to organise, lacking a centralised Synod to facilitate decision-making. Despite this, word reaches the Imperial embassy that at a recent gathering at the Palace of the Five Winds, representatives of several major priestly families voted by a narrow margin to extend personal thanks to **Dagon of the Shattered Tower**, **Damascius**, **Kaywenn de Orzel**, and **Darian Numbers**, the priests who raised the Judgements urging the priests of the Empire to preach in Faraden. There is no material reward, but the messengers to the embassy are keen to emphasise how rare such a gesture of respect is.
+
+### Embers Burn Low
+
+- **The Ember Blossoms have declined the Empire's invitation to pass on their skills at resisting and undermining those in power.**
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Freeborn corsairs should not be transporting the Ember Blossoms of Asavea. We do however invite the Ember Blossoms, expert and experienced fomentors of rebellion against tyrants and oppressors to come to the Empire to teach Imperials their skills so we can better incite rebellion and uprisings in Asavea. The preaching of Justice remains illegal.
+> >
+> > Sufyan i Zuhri i Guerra, Freeborn Assembly, Spring Equinox 387YE, Vote: 78-28
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The Ember Blossoms are an independent group of agitators looking for passage to Asavea in order to precipitate a peasant’s revolt there. They are approaching Freeborn corsairs to smuggle them in. The Freeborn Assembly endorses this action.
+> >
+> > Caspian i Sharthra i Riqueza, Freeborn Assembly, Spring Equinox 387YE, Vote: 68-58
+
+[The second approach](A_pillow_of_winds.md#a-just-world) made by religious devotees of Faraden last season was less successful. The *Ember Blossoms*, a militant sect of Faraden vigilantes who target those who use their power to oppress the poor and downtrodden, sought assistance from the Freeborn National Assembly to travel to Asavea and use their skills to incite the slaves of the Plenum to recognise the numerous outrages perpetrated against them, and to rise up in the spirit of Courage, Pride, and Justice.
+
+The Priests of the Brass Coast endorsed two statements of principle on the matter, one [endorsing the transportation of the Ember Blossoms](../synod-judgements/387YE_Spring_Equinox_Synod_judgements.md#judgement-145) and [one refusing it](../synod-judgements/387YE_Spring_Equinox_Synod_judgements.md#judgement-124). The second statement suggested that the militants might instead teach their skills to operatives of the Empire, a sentiment apparently echoed by certain Imperial worthies who spoke to representatives of the Ember Blossoms at the Spring summit. A neat compromise, perhaps, but one that the Ember Blossoms have refused.
+
+The message from the Ember Blossoms makes it clear that while they do not take the refusal personally, they recognise the simple truth: that the Empire wants their skills, but does not recognise what it took to forge them. If the Empire trusted the Ember Blossoms, they would accept their assistance as it was offered. They have not done so, and so that trust is not there. It is understandable. Trust is earned, and the Empire do not know the Ember Blossoms. But the Ember Blossoms are under no obligation to twist their skills to make them more palatable to others. Faraden may not be able to match the Empire in terms of size or wealth, but their [Pride](../religion/Pride.md) stands as the equal to any of the Empire's virtuous souls. It is a shame to not be accepted into the Empire's project to liberate Asavea, but it would be far more shameful not to be accepted on an even footing.
+
+*[Image: Some Faraden hold grudges against the Empire and see them as a threat that must be dealt with.](https://www.profounddecisions.co.uk/empire-wiki/File:Fire_Whirl.jpg)*
+
+## Scattered Cinders
+
+- **A group of discontented Faraden nationalists called the Cinders have attempted to assassinate the Champion of Vigilance.**
+- **The Liege of the Five Winds has unconditionally denounced these actions, and denied any links between this group and the Faraden state.**
+
+Of all the people in the Empire to attempt to assassinate, the [Champion of Vigilance](../../mixed/titles/Champion_of_Vigilance.md) has to rank as one of the worst choices. Despite this, it seems that some souls, perhaps courageous, perhaps foolish, perhaps both, took a shot at doing so at the Spring Equinox. By all accounts the Champion, currently Jared, is fine, alert as he is to all dangers, within and without. Details of the attack and its aftermath are somewhat garbled, and any who wish to know more should probably consult Jared himself, but perhaps more notable is the fact that the would-be assassins were citizens of Faraden, a revelation that has caused some consternation in diplomatic circles.
+
+While the Ambassador to Faraden did not choose to bring up the incident in their missive, the fact of it has still spread. By all accounts the staff at the Faraden embassy have quickly begun sending somewhat frantic winged messengers back home in order to determine whether anyone knows who might be responsible. This may be the one good thing about Faraden's cultural preoccupation with Justice: they are very keen to determine who is responsible for any wrongdoing. And as it happens, the perpetrators are not backwards about identifying themselves. Back in Faraden, far away from any of the events organised by the priestly coalition that invited the Empire, a group called the Cinders has reared its head and begun bragging about 'striking back against the blasphemers who submit to the False Virtues of [Selfishness](../religion/Ambition.md), [Paranoia](../religion/Vigilance.md), and [Doubt](../religion/Wisdom.md).' In the understated words of the embassy staff, this is probably not a coincidence.
+
+Further information is quick to be provided. The Cinders are a deeply reactionary group within Faraden whose primary belief is that society has become 'decadent' and 'too accepting of foreign blasphemy'. The charge of decadence is met with some derision - what humourless fool would decry enjoying a little luxury now and then? Does Prosperity not teach us to enjoy the fruits of our labours? Still, their ultra-orthodox stance on the Flames has always had some supporters, and a message of toughness and self-reliance can appeal to the insecure. The Cinders have gone through cycles of acceptance and suppression, but like a particularly resilient weed, they always seem to pop up again where they are least expected.
+
+Regardless of their history, attempted murder against a foreign dignitary is too far for the Liege of the Five Winds. Tchinua Ganbatar, the Liege of the Five Winds, issues a public statement decrying the actions of the Cinders in taking up arms against a person who has done them no wrong. They call on all citizens of Faraden to shun these troublemaking fanatics who offer no solutions to the nation's problems, only an endless cycle of violence and alienation from powerful allies.
+
+Despite their strong words, however, the gesture is largely symbolic. While the Liege of the Five Winds is powerful, the authority to suppress the Cinders lies with the individual families, as it must do for civil society to function. The more vocal and less prudent members of the sect may be caught and punished, but their leaders will go back underground and their supporters will shield them, as they always have. Even this public condemnation will be used in their propaganda to paint them as truth-speakers being punished by those in thrall to unwholesome outside influences. Being unable to operate openly will impede their activities, but they will almost certainly be back. Citizens of the Empire should remain watchful.
+
+## Faraden Further Reading
+
+- [Faraden](../foreign-nations/Faraden.md)
+- [On Faraden faith](../religion/On_Faraden_faith.md)
+- [Ambassador to Faraden](../../mixed/titles/Ambassador_to_Faraden.md)
+- [Faraden ports](../../mixed/economy/Foreign_ports.md#faraden)
+
+Faraden Winds
+
+- [It's all wrong, but it's all right](It-s_all_wrong-_but_it-s_all_right.md#faraden) - 388YE Autumn wind of fortune
+- [Seeds of discord](Seeds_of_discord.md#faraden) - 388YE Summer wind of fortune
+- [Five flames](Five_flames.md) - 388YE Spring wind of fortune
+- [Poets light but lamps](Poets_light_but_lamps.md#faraden) - 387YE Winter wind of fortune
+- [We give the future to the winds](We_give_the_future_to_the_winds.md) - 387YE Autumn wind of fortune relating to religion and trade with Faraden
+- Wild is the wind - 387YE Summer wind of fortune discussing trade and religion with Faraden
+- [A pillow of winds](A_pillow_of_winds.md) - 387YE Spring wind of fortune regarding Faraden diplomacy
+- [All the wind](All_the_wind.md) - 386YE Winter wind of fortune regarding Faraden diplomacy
+- [Where five winds meet](Where_five_winds_meet.md) - 386YE Autumn Wind of Fortune regarding Faraden diplomacy
+- [Winds and flames](Winds_and_flames.md) - 386YE Summer Wind of Fortune regarding Faraden diplomacy
+
+Faraden Related Titles
+
+- [Alder of Meade](../../mixed/titles/Alder_of_Meade.md)
+- [Mediator of Fisk](../../mixed/titles/Mediator_of_Fisk.md)
+- [Azure Sutannir](../../mixed/titles/Azure_Sutannir.md#parador-of-wind-and-flame) - gains benefits from Faraden musicians
+
+Click *Expand* to see a summary of various pages related to Faraden.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [387YE Summer](../../indexes/by-category/387YE_Summer.md), [Recent History](../../indexes/by-category/Recent_History.md), [Foreign Nations](../../indexes/by-category/Foreign_Nations.md), [Faraden](../../indexes/by-category/Faraden.md)

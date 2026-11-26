@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:388YE Spring]]
+__NOTOC__
+<quote by="Announced by Hilda Sirens Scream Ursan, Bearer of an Imperial Wayleave">Build a sinecure in Hahnmark, built in Kalpamark. Appointed by Wintermark National Assembly, but with tenure. Called Garden of Peaceful Quietitude
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in Kalpamark, Hahnmark, as per the '''[[Poets_light_but_lamps#Zaboravi|Poet lights but lamps]]''' wind of fortune
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+
+==Date==
+* Spring 388YE
+
+==Cost==
+* Costs as per opportunity
+* 12 wains of weirwood
+* 36 crowns in labour costs
+* Three months to construct 
+
+==Progress==
+{{CommissionProgress|Construct_Garden_of_Peaceful_Quietitude}}
+==Outcome==
+* Now complete, the title of [[Seeker of Quietitude]] will be available to appoint by the Wintermark Assembly for the first time at the Summer Solstice 388YE

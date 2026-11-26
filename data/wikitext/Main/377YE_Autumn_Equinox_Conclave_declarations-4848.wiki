@@ -1,0 +1,11 @@
+[[Category: Conclave]] [[Category: Conclave Sessions]] [[Category: 377YE Autumn]]
+<ic>This record is incomplete</ic>
+
+==Declarations==
+
+{|
+| '''Nature of Declaration''' || '''Substance of Declaration''' || '''Made By''' || '''Made or Not Made?'''
+|-
+| ''Candidacy'' || Archmage of Day contested by Darius Auric Horizon || Darius Auric Horizon || Darius Auric Horizon declared as Archmage
+|-
+|}

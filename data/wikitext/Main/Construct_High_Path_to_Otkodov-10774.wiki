@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:385YE Summer]]
+__NOTOC__
+<quote by="Proposed: Volodmartz, Seconded: Karsk">To construct a new high path through the mountains to Otkodov, enabling ilium to be exchanged for good as a ministry, and enhancing northern trade.</quote>
+* Constructs a high path as per '''[[Pride_and_prejudice#Gift_of_the_Dwindling_Star|Pride and prejudice]]''' wind of fortune
+* Passed
+
+==Date==
+* Summer 385YE
+==Cost==
+* Costs as per the wind of fortune
+* 8 wains of white granite
+* 2 thrones in labour costs
+* 3 months to construct
+==Progress==
+{{CommissionProgress|High_Path_to_Otkodov}}
+==Outcome==
+* Now completed this ministry allows the custodian of the [[Gift of the Dwindling Star]] to trade food for additional rings of [[ilium]] from the Thule

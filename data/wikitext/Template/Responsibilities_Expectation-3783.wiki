@@ -1,0 +1,6 @@
+<!--
+==The Title in Play==
+The role does not provide additional information about events in the Empire, nor allow the player holding it to request special reports or downtime actions. These details are assumed to be below the abstraction layer. The title holder is encouraged to create their own stories about their activities within reasonable limits and to get involved in events appropriate to their title during the game, but they do not have any powers beyond those explicitly listed in the section on powers.
+
+These details exist partly to provide context and character to the role - and partly to allow our writers to use the title as a plot hook. Plot that involves the position will be rare - but all the campaign positions in Empire have these details to create the potential for it to happen.
+-->

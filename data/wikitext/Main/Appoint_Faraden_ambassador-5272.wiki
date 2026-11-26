@@ -1,0 +1,14 @@
+<ic>Appoint an Ambassador to Faraden<br><br><i>Administrative Motion</i></ic> 
+
+===Overview===
+* First appointment of the [[Ambassador to Faraden]].
+* This motion appoints someone to be responsible for the [[Construct_Faraden_embassy|Faraden Embassy]], and to represent the Empire in dealings with the Faraden.
+
+===Date===
+* Autumn 379YE.
+
+===Campaign Outcome===
+* Ricardo di Tassato was appointed ambassador to [[Faraden]].
+
+[[Category: Senate Motion]]
+[[Category:379YE Autumn]]

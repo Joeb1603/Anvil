@@ -1,0 +1,103 @@
+---
+title: Imperial Orcs magical traditions
+source: https://www.profounddecisions.co.uk/empire-wiki/Imperial_Orcs_magical_traditions
+class: mixed
+topic: magic/lore
+categories:
+- Imperial Orcs
+- Nations
+- Magic
+- Archetype
+last_edited: '2026-05-30T11:44:35Z'
+revision: 139451
+aliases:
+- Oathwright
+---
+
+# Imperial Orcs magical traditions
+
+## Overview
+
+The magical arts were mostly lost to the Imperial Orcs during the generations in which they were enslaved. Since winning their freedom, they have experimented freely as well as employing techniques, spells and rituals learned from other nations. Urizen in particular was adamant that the orcs needed to learn magic and arranged for [Urizen mages](../../../in-character/nations/urizen/Urizen_magical_traditions.md#mages), [runesmiths](Wintermark_magical_traditions.md#runesmiths) and [icewalkers](Wintermark_magical_traditions.md#icewalkers) from Wintermark, and [volhov](Varushka_magical_traditions.md#volhov) and [cabalists](Varushka_magical_traditions.md#cabalists) from Varushka to teach the orcs. The arrival of the new septs, especially the [Illarawm](../../../in-character/nations/imperial-orcs/Illarawm.md) and the [Tamazi](../../../in-character/nations/imperial-orcs/Tamazi.md) has helped the Imperial Orcs to hone their own approach to magic, as well as helping establish a new approach based on drawing power directly from their ancestors.
+
+## Ancestors and Rituals
+
+Learning ritual magic proved a painstaking process for the Imperial Orcs. Attempts to incorporate loud passionate drumming to get the blood pumping in the way some barbarian nations perform rituals seems to draw the attention of the ancestors in much the way battle does. These ancestors were hostile and disruptive as is the way with many [Imperial Orc ancestors](../../../in-character/nations/imperial-orcs/Imperial_Orcs_religious_beliefs.md#imperial-orc-ancestors) and this made mastering ritual magic incredibly difficult. For a while some mages worried that the Imperial Orcs might simply be incapable of mastering the art at all.
+
+Eventually the shamans discovered a way to solve their problems using a combination of two powerful [Imperial Orc hearth magics](Imperial_Orcs_hearth_magic.md). The first was to encourage as many members of a covens' legion to be present as possible, along with banners and flags bearing the legion symbols. Their presence helped to reinforce the sense of identity and belonging that all orcs feel and increased the chances that one of the legion's ancestors will be able to return to watch the ritual.
+
+By itself this was not sufficient; it was combined with the second hearth magic, employing [worth](../../../in-character/nations/imperial-orcs/Worth.md) to try and ensure the right ancestor is called. Shamans and ritualists keep dozens of items of worth from older ritualists who have died. These trinkets are rarely weapons; magical implements are common but the best items are bone talismans, pieces of bone of varying size taken from a dead orc's body and carved or etched with the story of their worth. Using techniques of [aspect magic](Aspect_magic.md) taught to them by [Winterfolk](../../../in-character/nations/wintermark/Wintermark.md) [icewalkers](Wintermark_magical_traditions.md#icewalkers), the Imperial Orc magicians invoke the names of their ancestors while presenting bone talismans and other items of worth linked to them. When done right it ensures that that ancestor comes to witness the ritual and if the participants have chosen wisely then they may provide advice and help.
+
+By the time the [Illarawm](../../../in-character/nations/imperial-orcs/Illarawm.md) and [Tamazi](../../../in-character/nations/imperial-orcs/Tamazi.md) septs shared their respective knowledge of ancestors and magic with the rest of the nation, these traditions were well practiced and ingrained in Imperial Orcs ritual magicians. Indeed, it seems that many septs of orcs use similar techniques - drawing on the spirit of an ancestor to work ritual magic seems to be common practice. With the greater understanding of ancestors the Illaraawm provided, the threat of disruptive ancestors was pretty much neutralised, but the twin practices of calling the legion (or the sept) and using items of worth continues to this day. One of the reasons relates to the nuance provided by the magicians of the Tamazi.
+
+## Spiritweaving
+
+The Tamazi have a relatively unbroken magical tradition that stretches back hundreds of years, kept alive during their durance, hidden under the noses of the [Axou](../../../in-character/foreign-nations/Axos.md). Following the work the Imperial Orcs did to expand the [College of Warcasting](../../titles/Preceptor_of_the_Skarsind_College_of_Warcasting.md#skarsind-college-of-warcasting), the bonetenders of the Tamazi shared their understanding of ritual magic with their new allies. Their magical technique combines elements of both [dramaturgy](Dramaturgy.md) and [theurgy](Aspect_magic.md#theurgy), but is subtly different to both. Using this technique. orc magicians intentionally seek to attract the attention of a specific ancestor (or for very powerful workings, more than one). They do this by presenting their ritual as a re-enactment of a deed from the ancestor's life. In dramaturgical or theurgic terms, the ancestor chosen fills the role of both [persona](Dramaturgy.md#the-personae) and [inspiration](../../government/synod/Paragons_and_exemplars.md). As the ritual progresses, the ritualists become more aware of the presence of the ancestor, feeling its energy within and around them, and often hearing its voice encouraging and supporting them.
+
+The magic is further intensified by the use of items of [worth](../../../in-character/nations/imperial-orcs/Worth.md), something Imperial Orcs magicians are familiar with. The Tamazi also make use of ritual foci carved from bone, and inlaid with [dragonbone](../../../out-of-character/rules/Materials.md#dragonbone), that gain worth as they are used to perform rituals. Like the [instruments](Dramaturgy.md#the-instruments) of dramaturgy, or the props used by many magicians to work specific magic, they help focus the energy and add weight to the performance the magicians engage in. The Tamazi commonly act out the tale as a dramatic presentation, but there are also ways to work this magic by reciting a tale, with each contributor speaking part of the story or taking on the voice of one of the participants. Among themselves the Tamazi used a single specific tale to work a specific ritual, but since the end of their durance, and gaining access to [Imperial lore](../../government/conclave/Imperial_lore.md), they have largely abandoned this practice due to the need to create a new tale for each ritual they wish to perform.
+
+The nature of the ancestor is vital to the performance of the ritual. The Tamazi have a [peculiar relationship](../../../in-character/nations/imperial-orcs/Tamazi.md#beliefs) with their ancestors, and encourage magicians of every sept to call on them to help perform their rituals. It's become clear reasonably quickly, however, that *any* ancestor might help with a ritual performance, and so the "roster" of available ancestors has increased. The Tamazi welcome this discovery thanks to their belief that when an ancestor helps with a ritual a fragment of the power involved goes to strengthen that ancestor in their battle against the Creator - and if other ancestors can be evoked in the same way it implies that the Tamazi ancestors are not alone in their battle against the darkness at the end of creation.
+
+The six Tamazi ancestors each resonate with a particular kind of magic - not a realm, but a magical purpose. The stories told about them further focus the kind of magic they are evoked to empower. Orcs who are not part of the Tamazi [sept](../../../in-character/nations/imperial-orcs/Sept.md) can still evoke these ancestors, even if they don't have a strong connection to them, as part of the practice of spiritweaving.
+
+- **Korotiku the Clever** is a Tamazi ancestor who aids with magic that conceals or deceives, as well as magic that scries or reveals. In life she was a powerful magician, said to be a match for the sorcerer-kings of the Axou themselves, and is the ancestor the Tamazi evoke when they want to unleash powerful, primal forces. Candid and even handed, her voice urges orcs to consider a situation from all sides before acting, and to be sure they are prepared for the consequences of what they are going to do. The [Sannite](../../../in-character/nations/imperial-orcs/Sannite.md) ancestor Sheanduir, and [Illarawm](../../../in-character/nations/imperial-orcs/Illarawm.md) both resonate with this kind of magic.
+- **Jeyan the Steward** is the Tamazi ancestor who aids magic related to healing, renewal of body and spirit, communication, and fertility. He also helps with magic that uncovers hidden wisdom or secret things. In life he was the patriarch of one of the four families, a master farmer and tender of beasts. His voice is calm and lucid, and urges those who hear it to seek the path of least harm. The [Yerende](../../../in-character/nations/imperial-orcs/Yerende.md) ancestor *Runa* also resonates with this kind of magic.
+- **Vyana the Weaver** is the Tamazi ancestor who aids with the magic of conflict and risk, protecting those who need to go into dangerous places, strengthening and enhancing the capabilities of individuals who must face death, and binding people together. In life she was a powerful warrior, who died fighting the Axou. Her voice is confident and authoritarian, and urges those who listen to it to pick their fights carefully but once engaged gain victory at whatever cost. [Ethengraw](../../../in-character/nations/imperial-orcs/Ethengraw.md) can also be evoked to serve as a patron of this kind of magic, as could the [Sunstorm](../../../in-character/nations/imperial-orcs/Sunstorm.md) ancestor Sjöfn of the Bitten Blade.
+- **Karash the Builder** is the Tamazi ancestor who best understands the art of the crafter, whether it is uncovering the provenance of an item, repairing a weapon, shattering a shield or a castle gate, or reinforcing a stone wall so it can withstand a siege. She also empowers warding magic, something of significant value to the Tamazi during their durance beneath the citadels of the Axou. In life she was one of the first generation of orcs born into the durance, and fought to ensure her peoples' traditions survived. Her voice is quiet, even, and urges those who hear it to hold to their beliefs in the face of adversity.
+- **Tarasta the Grim**  is the Tamazi ancestor who embodies vengeance, punishment, oaths, curses, judgement, and death. For all their apparently negative qualities, they are also a fierce protector. They are never evoked frivolously, and when their voice is heard it urges caution and proportion;but when one has decided on a course of action, they urge their descendants to be absolutely committed and absolutely merciless.
+- **Esundahl the Keen** is the Tamazi ancestor that deals with wealth, prosperity, good fortune, passion, comfort, and influence. While the Tamazi were slaves, they were mostly evoked to help create hidden oases of quiet and comfort in the cold tunnels below the citadels. Now that the durance is over, they might be called to empower any magic related to wealth or success.Their voice is enthusiastic and full of energy, urging those who hear it to take risks and seize the prizes that they aim for by any means. The [Sannite](../../../in-character/nations/imperial-orcs/Sannite.md) ancestors (and thus the [Grendel](../../../in-character/barbarians/Grendel.md) ancestors) *Rucraic* and *Dubhtraig* also resonate with this kind of magic.
+
+Certain magical tools also have particular resonance for certain kinds of magic. **The Bowl** is a symbol of healing and empowerment; **the Drum** is used to strengthen and enhance; **the Knife** is used for destructive or harmful magic; **The Mask** helps magic related to wisdom or divination; **the Rod** is used for magic related to authority or warding; and **The Bag of Teeth** is used for magic involving risk, chance, or wealth. For the Tamazi, these items are invariably crafted from bone; other Orc practitioners of this magic tradition seek out items of [worth](../../../in-character/nations/imperial-orcs/Worth.md) that fill similar roles.
+
+**OOC Note:** While most [magical traditions](Magical_tradition.md) work for anyone, humans *cannot* use spiritweaving as a magical tradition. It's a form of magic that requires the ability to hear ancestors, which no human innately possesses. Attempts to use this tradition to work magic, calling on the orc ancestors in this way with a coven that contains humans, causes a ritual to fail without expending any resources.
+
+## Warcasters
+
+The highly physical traditions of the Wintermark [runesmiths](Wintermark_magical_traditions.md#runesmiths) appealed to some orcs who adopted a similar approach. As their confidence with magic developed they began to craft their own approach to battle magic and moved away from the runesmiths' emphasis on magical runes. What the warcasters wanted was a way to use magic whilst clearly remaining part of their legion. Two core approaches have developed, but regardless of the tactics they favour, all warcasters strive to be disciplined soldiers, used to fighting shoulder-to-shoulder in the thick of battle.
+
+Some warcasters favour the best mage armour they can acquire, a heavy rod and a large shield. Unlike most Imperial Orcs, warcasters favour the kite shields more commonly seen among the [Dawnish](../../../in-character/nations/dawn/Dawn.md) and [Highborn](../../../in-character/nations/highguard/Highguard.md). They also favour offensive spells that [repel](../spells/Repel.md), [entangle](../spells/Entangle.md) or [paralyse](../spells/Paralysis.md) their foes - many practice delivering a paralysis or entangle spell so as to get the best defensive benefit from their shields. These warcasters seek to fight alongside their legion comrades in toe-to-toe engagements with their enemies.
+
+Other warcasters prefer to fight in the second rank, eschewing a shield and instead claiming the right to carry the legion standard. The logic for this honour is clear - the standard marks their location for the rest of their legion, but is less of an encumbrance than it might be for a warrior as it still leaves a hand free to cast spells. Warcasters who favour this combat style master support magic such as spells that [mend](../spells/Mend.md) or [heal](../spells/Heal.md) their fellow soldiers.
+
+*[Image: SkywiseRykana.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:SkywiseRykana.jpg)*
+
+## Oathwrights
+
+The Oathwright tradition grew out of Imperial Orc experiences with the [create bond](../../../out-of-character/rules/Create_bond.md) spell. They began to question what exactly was happening when a bond was forged between an orc and an item. Discussions with several of the [volhov](Varushka_magical_traditions.md#volhov) tutoring the orc magicians led them to question how the bonding interacted with the concept of [worth](../../../in-character/nations/imperial-orcs/Worth.md), and to become fascinated by the oaths and promises that served as the underpinning of some [Varushkan magic](Varushka_hearth_magic.md).
+
+The common attitude that a bond is simply a practical application that allows an individual to use a magic item is seen as naïve by these orcs. Imperial Orc items, especially magical items, often have worth and the decision to create a bond between a person and an item is not a decision to be made or unmade lightly. Oathwrights believe that the bond between an item and a person affects them both, items may gain worth by being owned and bonded to the right person and the right item affects an individual's hopes of becoming an ancestor.
+
+Bonds between individuals are even more important and oathwrights take a special interest in these. They often help people craft oaths, offering words of caution and advice and helping them to create vows that are articulate but precise. All magicians can create bonds, but most Imperial Orcs prefer to seek out an expert in the field. Oathwrights take their responsibilities very seriously and often counsel against foolhardy oaths or question an individual about situations where they might feel compelled to break their oath. The best charge for their services, expecting to be paid for their time and their wisdom.
+
+Their interest in oaths, agreements and bargains made them a natural fit for serving as diplomats to the [eternals](../../../in-character/eternals/Eternal.md), where they work hard to extract binding promises from these powerful supernatural beings to aid the Empire and the Imperial Orcs.
+
+## Further Reading
+
+Core Brief
+
+- [Introduction](../../../in-character/nations/imperial-orcs/Imperial_Orcs.md)
+- [The people](../../../in-character/nations/imperial-orcs/Imperial_Orcs_people.md)
+- [Culture and customs](../../../in-character/nations/imperial-orcs/Imperial_Orcs_culture_and_customs.md)
+- [Look and feel](../../../out-of-character/costume/Imperial_Orcs_look_and_feel.md)
+- [Septs](../../../in-character/nations/imperial-orcs/Sept.md)
+- [Orc species brief](../../world/Orc.md)
+- [Hearth magic](Imperial_Orcs_hearth_magic.md)
+
+Additional Information
+
+- [History](../../../in-character/nations/imperial-orcs/Imperial_Orcs_history.md)
+- [Leadership](../../../in-character/nations/imperial-orcs/Imperial_Orcs_leadership.md)
+- [Economic interests](../../../in-character/nations/imperial-orcs/Imperial_Orcs_economic_interests.md)
+- [Military concerns](../../../in-character/nations/imperial-orcs/Imperial_Orcs_military_concerns.md)
+- [Religious beliefs](../../../in-character/nations/imperial-orcs/Imperial_Orcs_religious_beliefs.md)
+- Magical traditions
+- [Territories](../../../in-character/nations/imperial-orcs/Imperial_Orcs_territories.md)
+- [Children](../../../in-character/nations/imperial-orcs/Imperial_Orcs_children.md)
+- [Music](../../music/Imperial_Orcs_music.md)
+- [Archetypes](../../../indexes/by-category/Archetype.md#imperial-orcs)
+- [Groups](../../../out-of-character/groups/Imperial_Orcs_groups.md)
+- [Egregore](../../../in-character/nations/imperial-orcs/Imperial_Orc_Egregore.md)
+
+---
+
+Categories: [Imperial Orcs](../../../indexes/by-category/Imperial_Orcs.md), [Nations](../../../indexes/by-category/Nations.md), [Magic](../../../indexes/by-category/Magic.md), [Archetype](../../../indexes/by-category/Archetype.md)

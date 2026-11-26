@@ -1,0 +1,17 @@
+<ic>
+Dispersement of funds to purchase resources to assist in strategic castings.<br><br>''Proposed by Morrow, seconded by Sarvos''</ic>
+
+==Overview==
+* A request for funds with which to buy materials for rituals with military applications.
+
+==Date==
+* Winter 378YE
+
+==Cost==
+* Passed at 100 Thrones
+
+==Progress==
+* 100 Thrones disbursed to the Senator for Morrow
+[[Category:Senate Motion]]
+[[Category: 378YE Winter]]
+__NOTOC__

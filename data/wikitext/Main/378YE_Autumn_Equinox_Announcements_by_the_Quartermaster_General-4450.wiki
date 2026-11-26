@@ -1,0 +1,21 @@
+
+===Overview===
+* Resupply the [[Wintermark]] army of [[Wintermark_military_concerns#The_Fist_of_the_Mountains|The Fist of the Mountains]] with 39 mithril.
+* Resupply the Wintermark army of the [[Wintermark_military_concerns#The_Green_Shield_Army|The Green Shield]] with 40 mithriil.
+* Resupply the [[Varushka|Varushkan]] army of the [[Varushka_military_concerns#The_Army_of_the_Northern_Eagle|Northern Eagle]] with 43 weirwood.
+* The actions are grouped together, but each would count as a separate announcement for purposes of the [[Synod]] [[veto]].
+* This motion was approved by the Quartermaster General using the legal power to resupply armies granted by the [[Senate]].
+
+===Date===
+* Autumn Equinox 378YE
+
+===Progress===
+* 79 wains of mithril and 43 wains of weirwood provided by Irontide Rad, Quartermaster General of the Imperial Armies, after Autumn Equinox 378YE
+
+===Campaign Outcome===
+* [[Casualties#Emergency_Resupply|Resupply]] an army using 50 wains restores fighting strength equal to 1000 soldiers to the army.
+
+[[Category:Senate Motion]]
+[[Category: 378YE Autumn]]
+__NOTOC__
+[[Category:Announcements]]

@@ -1,0 +1,40 @@
+==Rules==
+{{Season|Summer|10}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Resource|[[military unit]]}}
+
+{{enchantment}}
+
+===Effects===
+The military unit gains a significant boost to its effective rank, provided it takes a [[Military unit#Questing|questing]] action.  {{Military Unit Strength|100|5}}
+
+When the ritual is complete, the character who controls the target resource experiences a [[roleplaying effect]] that persists for at least ten minutes: ''You feel driven to seek out and face challenges, overcome obstacles, and look for ways to demonstrate your remarkable prowess to everyone around you.''
+
+Furthermore while the enchantment lasts, the character who controls the military unit experiences a more persistent roleplaying effect: ''You feel a gentle urge to display those traits you or your nation would consider heroic or laudable.''
+
+{{Season Duration}} {{Downtime buff}}
+
+===Additional Targets===
+This ritual can affect additional military units belonging to characters in the same [[Groups#Banners|banner]]. Each additional military unit increases the magnitude by 8. The character who controls each military unit must be present throughout the ritual.
+
+==Description==
+This [[enchantment]] provides each soldier in a [[military unit]] with supernatural strength and prowess. The precise nature of that strength varies based on the individual, their talents, and their drives. A knight with a sword and shield might find themselves able to [[Combat skills#Endurance|endure]] many wounds, and gain the strength to deliver [[Calls#CLEAVE|powerful    blows]] of their own. A [[the Marches|Marcher]] yeoman might find she is even more adept at [[Calls#STRIKEDOWN|knocking her opponents over]] and her [[Heroic skills#Hero|will to succeed]] greatly bolstered. These practical effects are accompanied by inspirations to seek out challenges, a drive to proudly demonstrate one's skills and bravery, and an uncanny sense for situations where both urges can be exercised.
+
+The magic draws on the Summer resonance for [[Summer_magic#Prowess|prowess]], strengthening the warriors in a [[military unit|warband]] but also filling them with the urge to go to new places and engage in risky behaviour once there. In this it partakes somewhat of the resonances of [[Summer_magic#Triumph|Triumph]] and even [[Summer_magic#Majesty|Majesty]], encouraging those under its effect to demonstrate the traits and characteristics their culture considered [[heroism|heroic]], [[glory|glorious]], or exemplary. A warband enchanted with ''Feast of Heroes'' can certainly use its enchantment to take part in a [[Military unit#Campaigning|military campaign]] or participate in a [[Military unit#Raiding|raid]] but the urge to seek out challenges and go one's own way, to be a larger-than-life adventurer and hero, makes it counterproductive. Soldiers are rarely at their best when they have nipped off to explore a nearby ruin instead of guarding the gates.
+
+The common version of this ritual hails from [[Wintermark]], but examples of this magic are known in many nations. In [[the Marches]] it is known as ''Call of the Winding Road'' and while popular with youths, it is viewed with some suspicion by older folk who view its magic as a dangerous incitement to abandon one's responsibilities. Among some [[Varushka|Varushkans]] it is known as ''The Path Less Travelled'' and employed cautiously - there's an old tradition that its magic be used only for warriors who are leaving Varushka to seek their fortune and never for those who intend to remain within the borders of the nation. It is much more popular in places like [[the Brass Coast]] where it is known as ''Erigo's Flame'', and embraced by explorers and those keen to seek excitement and experience, or in [[Dawn]] where it is sometimes called ''Horns of Glory'', and performances climax in resounding trumpet notes and cheering.
+
+Some old notes refer to a version of this enchantment that calls on the power of [[Rhianos]], the ''Regent of the Eternal Sea''. Called variously ''Sea Blessing'' or ''Foamfollower's Reveille'' this enchantment works in a similar way to the more familiar [[Golden Voyage]] in that it subtly nudges chance and fate to ensure that those under its effects will encounter the strangest and most challenging places and situations when they venture into the unknown. The exact effects are unclear but it seems that they focus more on placing the warband in positions where it might uncover unexpected rewards rather than simply enhancing the warriors' prowess.
+==History==
+This ritual originally became part of Imperial Lore during the reign of [[Emperor Barabbas]], codified under the enthusiastic patronage of the [[Steinr]] [[Wintermark_magical_traditions#Runesmiths|runesmith]] ''Thera Thoresdottir'' during her time as [[Dean of the Lyceum]]. The ritual saw extensive use during this period, as the [[the Throne|Throne's]] vision of expanding Imperial borders inspired many to seek out danger and wonder in unknown lands. Unfortunately, in 257YE the ritual faltered and fell apart after a peculiar conjunction involving [[the Great Wyrm]] and [[the Stork]] in which [[the Oak]] ascended while [[the Mountain]] fell into decline. It became increasingly erratic, and then stopped working shortly before the Winter Solstice. The ritual was shelved, but remained part of lore.
+
+Shortly before the Winter Solstice 386YE, a member of the [[Unfettered Mind]] involved in ongoing efforts to examine rituals in [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]] to determine forgotten [[Ritual_theory#Agreement|assurances]] glanced over the ritual and on a whim decided to enact it purely to examine how it worked and to see if they could determine what elements caused it to fail in the first place. To their surprise, the ritual worked perfectly. They reported their findings, and several other magicians repeated their experiment with the same result. The Civil Service have ensured that places of magical learning across the Empire are aware the ritual now works again, and will ensure that more recently established centres of magical learning that lack copies are provided with them.
+
+==Common Elements==
+The ritual takes its name from the festivities that often surround Dawnish questing knights when they set out on their journeys to seek adventure and glory, and the celebrations that take often place when Wintermark heroes return to their halls. It's common for the ritual to involve this kind of revelry, reinforcing the targets' position as champions and heroes. Toasts, cheers, boastful declarations, consumption of fine food, and heroic songs all resonate with this magic. A target might be crowned in some fashion as a symbol of the plaudits that await them when they return victorious, or their accoutrements of war might be marked with runes or symbols in recognition of the role a heroes' tools play in their unfolding story. Some ritualists prefer to focus on the need to be prepared to face danger, the challenges and obstacles that a quester must overcome, and the need to remain vigilant and wise in the face of the unknown.
+
+Ritual performances often include the [[Runes#Runes of Summer|Summer runes]], especially [[Verys]] and [[Tykonus]]. Some practitioners invoke the [[Pallas|Rune of Wealth]] or the [[Sular|Rune of Discovery]], depending on the ultimate goals of the would-be adventurers. [[The Mountain]] is used by [[astronomancy|astronomancers]], resonant with the idea that things that are difficult are often rewarding, but [[the Phoenix]] or [[the Stork]] might also be evoked in rituals that focus on the ultimate goal of a quest or adventure. A [[Aspect_magic#Theurgy|Theurgist]] might evoke the spirit of an exemplar or paragon known for their adventurous exploits, especially [[Inga Tarn]], while a [[Aspect_magic#Goetia|Goetic]] magician is likely to call on [[Rhianos]], [[Barien]], or perhaps even [[Roshanwe]] for their aid in performing the magic.
+[[Category:Summer Ritual]]
+[[Category:Rituals]]
+[[Category:Warfare]]
+[[Category:Resource]]

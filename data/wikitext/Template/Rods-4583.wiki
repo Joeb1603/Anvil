@@ -1,0 +1,4 @@
+* '''Form:''' Weapon. Takes the form of a [[Weapons & armour#Rods|rod]]. You must be wielding this implement to use its magical properties.
+* '''Requirement:'''  You must have the [[Magical skills#Magician|magician]] skill to bond to this item.
+[[Category:Magic Items]]
+[[Category:Rods]]

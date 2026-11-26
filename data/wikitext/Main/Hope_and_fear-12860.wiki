@@ -1,0 +1,127 @@
+[[Category:Winds of Fortune]][[Category:387YE Summer]][[Category:Recent History]][[Category:Appraisal]]
+<ic>
+"You're going then?" Half way between a question and an accusation, the words hung in the air accusingly.
+
+Mladen looked at his feet sheepishly, like a child caught with his hand in the cookie jar. "Gerard says they need me." he said trying to justify the theft.
+
+"They don't need you. Graciana can do it. Or Lutomysla." Her anger gave the plea an insistent tone she hadn't intended, but she didn't apologise. It was true after-all.
+
+"No they can't. Grace'll will come up with a bunch of crazy ideas that need more wains than the Bourse sees in a year and Luto will have some mad plan involving the Howler. It has to be me."
+
+"You are retired. You quit! They stopped paying you. That means you're retired!"
+
+The old Varushkan withered under the barrage. He bowed his head and bit his lip, but under his breath he whispered "soldiers don't retire..."
+
+"Just one more time, Lyubov. I promise you, this will be my last..."
+</ic>
+<div style="float:left; width: 400px; clear: right;">{{CaptionedImage|file=Hottentotta judaicus.jpg|caption=The Druj wield are fearsome, remorseless, cruel, and full of hate. Yet it is possible - just possible - that their tyrannical reign over the Mallum may finally be teetering.|align=left|width=400}}</div>
+==Overview==
+{{audio|link=https://www.youtube.com/watch?v=2PMNWVa0oc8}}
+During the Spring Equinox the [[Senate]] [[387YE_Spring_Equinox_Senate_sessions#Appraise_Disruption_of_Druj_Resupply_in_Forest_of_Ulnak|instructed]] the [[Appraisal#The Prognosticators Office|Prognosticators Office]] to prepare an [[appraisal]] of the [[Forest of Ulnak]] with a view to finding ways to disrupt [[Druj]] operations and supply. A complex commission, with significant strategic implications; as the [[senator|senators]] opted not to assign a specific prognosticator to the task, ''[[Scrutiny#Constitutional_Court|Gerard La Salle]]'' decided to prevail on old [[Appraisal#Retired_Prognosticators|Mladen Escovitch]] - schlacta, strategist, and former [[general]] - to come out of retirement for one last job. The appraisal has been delivered, and Mladen has made it clear that this is definitely, definitely, ''definitely'' the last time.
+
+This is not the first time the Senate have tried to appraise part of [[the Mallum]]; in 384YE they charged [[Appraisal#Graciana_i_Lòpez_i_Guerra|Graciana i Lòpez i Guerra]] with discovering ways to use the [[spy network]] in [[Sarangrave]] to [[Make it happen|incite a slave uprising]]. This time the focus is different, but the goal arguably remains the same - an earnest search for a way to bring down the cruel Druj and finally topple their cruel empire for good.
+
+==Assignment==
+The Imperial Senate opted not to assign a specific prognosticator to the task, so Gerard La Salle has taken the unusual choice of asking [[Appraisal#Retired_Prognosticators|Mladen Escovitch]] to carry out the work. Mladen retired some years ago and is no longer at the beck and call of the Senate, but in his heyday he was one of the most brilliant schlacta of his age - a capable warrior but also a brilliant strategist and a former general of the [[Golden Axe]]. Mladen spent years fighting the Druj and there are simply no members of the department who know this adversary better than him. He was somewhat reluctant to return to work, but Gerard La Salle appears to have used a combination of flattery and temptation to convince the former civil servant to return for one last piece of work. Mladen he wishes it to be made it ''absolutely clear'', again, that this is definitely, definitely, ''definitely'' the last time.
+
+When appraising a problem Mladen's speciality is to focus on identifying the most efficient way to resolve an issue. Unlike many of their colleagues, who have a tendency to assume that the cost is someone else's problem, Mladen is firmly of the view that a solution that is too expensive is no solution at all. As a result he developed a reputation during his time with the Prognosticator's Office for focusing on ways to make use of standard practices available to the Empire, while seeking out options that might save the Empire valuable money or resources.
+
+In line with this approach, Mladen has focussed much of the effort of the appraisal on compiling strategic intelligence and analysis. He hopes the [[Military Council]] will be able to make use of this information when preparing their strategies for the war against the Druj, and their quest to disrupt their operations and their supply.
+<onlyinclude>
+==Supply==
+* '''If a Druj territory cannot support a sept, all armies controlled by septs based there will go out of supply'''
+<div style="float: right; max-width: 600px; margin-left: 10px; min-width: 320px;" class="">
+<table class="wikitable mw-collapsible mw-collapsed sortable">
+<tr><th>Army</th><th>Sept</th><th>Territory</th></tr>
+<tr><td>Arrow Viper</td><td>Iron Asp</td><td>Forest of Ulnak</td></tr>
+<tr><td>Black Wind</td><td>Black Wind</td><td>Salt Flats of Sanath (Formerly Barrens)</td></tr>
+<tr><td>Deadly Blade</td><td>Iron Asp</td><td>Forest of Ulnak</td></tr>
+<tr><td>Flame Beetle</td><td>Sawscaled Viper</td><td>Forest of Ulnak</td></tr>
+<tr><td>Hidden Snake</td><td>Banded Snake</td><td>Sarangrave</td></tr>
+<tr><td>Hidden Widow</td><td>Shadow Krait</td><td>Salt Flats of Sanath</td></tr>
+<tr><td>Hunting Scorpion</td><td>Amber Scorpion</td><td>Forest of Ulnak (Formerly Ossium)</td></tr>
+<tr><td>Jagged Claws</td><td>Keelback</td><td>Salt Flats of Sanath</td></tr>
+<tr><td>Poison Crane</td><td>Marshlizard</td><td>Sarangrave</td></tr>
+<tr><td>Red Lizard</td><td>Shadow Krait</td><td>Salt Flats of Sanath</td></tr>
+<tr><td>Tainted Basilisk</td><td>Thornwasp</td><td>Sarangrave</td></tr>
+<tr><td>Thorn Born</td><td>Sawscaled Viper</td><td>Forest of Ulnak</td></tr>
+<tr><td>White Lion</td><td>Keelback</td><td>Salt Flats of Sanath </td></tr>
+</table>
+</div>
+[[Druj armies]] need to be supplied, just like every Imperial army, but the Druj don't provision and support their forces in the same way that the Empire does and don't operate under the [[Army#Maximum_numbers_of_Imperial_Forces|same limitations]]. The endemic use of brutal slavery limits Druj society in many ways but it does allow them to support a huge number of armies from a relatively small number of territories - much more than any nation outside the Imperial Orcs might normally manage. Rather than pool their resources as an Imperial nation might do, individual septs raise and maintain armies themselves. As a result, it is not possible to cause all the Druj armies to go out of supply, in the way that has happened in recent memory with Urizen and Freeborn armies.
+
+For all the advantages this gives them the approach is not without its drawbacks. The Druj can support a lot of armies, but they do still need land to supply and feed their soldiers and to replace casualties. Rather than being tied to the Druj nation as a whole, each individual Druj army needs the sept associated with the army to control enough land to keep supplying their soldiers.
+
+Mladen believes this may be one of the reasons why the ''Stone Toad'' remained behind in [[Reikos]] when the Empire reclaimed the territory. The Stone Toad sept were using their fiefs in the territory to support their army - once they no longer had control of those lands the army went [[Army#Insufficient_Supply|out of supply]] and began to suffer accordingly. The sept took advantage of an [[opportunity]] to convert the army into a garrison in [[Reikos#High_Chalcis|High Chalcis]], presumably because that was preferable to seeing the army collapse from lack of supply. In theory it ought to be possible for Druj septs to support each other, but the fierce rivalry between them makes that impossible.
+
+Scouring Imperial war reports from the last ten years, Mladen has compiled a list of [[Druj armies]] and combined that with various scouting reports, discussions with the [[Great Forest Orcs]] and with the septs of [[Ossium]], to identify which sept and territory each army is associated with. If the septs based in a territory were no longer able to draw on their lands there, then the armies they control would go out of supply. They would suffer the same penalties as an Imperial army from a nation that had [[Army#Insufficient_Supply|insufficient supply]].
+
+The prognosticator cautions the Military Council not to assume that being out of supply would guarantee that these armies would quickly disband. The Druj don't have anything as powerful as [[The_Marches_economic_interests#The_Imperial_Breadbasket|the Marcher breadbasket]] to draw on, but their forces can benefit from an [[opportunity]] just like Imperial armies can. Crucially, insufficient supply prevents an army benefitting from natural resupply, but it doesn't prevent emergency resupply. The Druj have significant supplies of [[weirwood]] and access to small amounts of [[mithril]] and they are likely to use them to resupply their armies if it is that or see them destroyed.
+
+Mladen also advises the [[general|generals]] not to assume that other barbarian nations operate in a similar way. The former general spent years fighting the Druj, and knows his old adversary well. He has comparatively little experience with the [[Thule]] and even less fighting the [[Grendel]] or the [[Jotun]]. These barbarian nations will need a way to supply their armies, just like the Druj do, but Mladen is certain they do not employ the same approach that the quarrelsome Druj septs use.
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Druj1.jpg|title=A trio of Druj banners|caption=Each of the Druj armies is raised and maintained by one of the septs of the Mallum.|align=left|width=400}}</div>
+</onlyinclude>
+==Cutting Supply==
+* '''The best way to prevent a territory resupplying armies is to completely conquer it'''
+* '''Mladen believes that any alternative would be expensive to achieve and short-lived in effect'''
+* '''Any effective alternative is likely to involve methods some Imperial citizens may find unpalatable'''
+By far the most effective way to prevent the septs in a territory from resupplying their armies is to conquer the territory. The Empire would need to completely conquer every [[territory#Regions|region]] for this to be effective. It is ''not sufficient'' to politically control it by conquering half the regions. While individual septs may be concentrated in one or two regions, every sept in a territory controls lands in most of the regions. They would be under pressure if most of their lands were conquered, but given how important their armies are to them, they'd find a way to keep supplying them. The best way to prevent that is to completely conquer every region in the territory.
+
+The dour [[Varushka|Varushkan]] civil servant warns the Military Council not to think that this would guarantee success. At the point where the last region fell to Imperial control, then all the armies supplied from that territory would suffer from insufficient supply. However that might not last - at least two Druj septs have found ways to move their people to adjacent territories in recent years. The Black Wind [[Ashes#From_Darkness_to_Darkness|fled the Barrens]] to the [[Salt Flats of Sanath]] and the surviving Amber Scorpion fled Ossium to the Forest of Ulnak.
+
+That isn't a given however - the Druj can't move their septs like chess pieces. The Bone Serpent were attacked and wiped out ''by other Druj'' [[383YE_Spring_Equinox_winds_of_war#Secrets_and_Mysteries|when they attempted to flee Ossium]]. It's not clear why some septs were allowed to flee while others were slaughtered, but the reason for that attack might have been the fact that the Druj can't simply relocate all their septs when a territory is conquered. Crucially the more land they lose, the harder that becomes.
+
+The appraisal doesn't offer anything in the way of alternatives to disrupt Druj operations and supply. Mladen argues that such options are, by their nature, generally very inefficient. To prevent the Druj employing their lands to supply their armies, the Empire needs to take control of their lands from them. Far and away the best tool to do that is the power of the Imperial military. Any politically acceptable way to disrupt Druj operations in their lands involving [[military unit|military units]] or other methods would be either prohibitively expensive or limited in effect or duration. By way of evidence, Mladen points to Graciana's appraisal of the Sarangrave which suggested the Empire could arm the one or more of the oppressed groups; it laid out how the Empire could bring about an uprising in the territory but the cost was simply too much for an uncertain return on investment.
+
+There ''are'' effective ways to permanently damage Druj supply, but Mladen has not explored those because he does not believe that they would be politically acceptable in the current climate. No prognostications have been conducted, but the former general is confident that the Empire could employ armies or military units to wipe out the inhabitants of Druj lands under their control. If the Druj ''and all their subjects'' in an area were slaughtered then that would be an effective and permanent way to make it impossible for the sept to use those lands to supply their armies. Given events over the last year or so in the Barrens, however, it seems unlikely that such a move would be uncontroversial. The Prognosticators Office ''is'' prepared to conduct an appraisal on this approach if the Imperial Senate requests it, provided they are explicit that they understand ''exactly'' what they are asking for.
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Forest of Ulnak regions.png|caption=The [[Forest of Ulnak]], in the north.|align=right|width=400}}
+{{CaptionedImage|file=Salt Flats of Sanath Regions.png|align=right|caption=The [[Salt Flats of Sanath]], heart of the Druj domain.|width=400}}
+{{CaptionedImage|file=Regions of Sarangrave.png|caption=The [[Sarangrave]], to the south.|align=right|width=400}}</div>
+
+==Coup de Grâce==
+* '''Conquering the Salt Flats of Sanath would make it much harder for Druj to resupply their armies'''
+* '''If the Empire conquer the Salt Flats of Sanath and one other Druj territory their empire will collapse'''
+* '''Such a downfall will incite other neighbours to attack the Druj'''
+Completing conquering the Sarangrave or the Forest of Ulnak would be a significant blow to the Druj, causing three to five Druj armies to suffer from insufficient supply. The Druj ''might'' be able to evacuate a sept out of one of those territories, they ''might'' be able to secure an opportunity to find new supplies for an army, they ''might'' try to use supplies of mithril and weirwood to mitigate losses in the short term. But whatever happened, it would be a huge blow. Even if they were able to expend mithril to prevent ''any'' losses - and Mladen doesn't think that would be possible - that is still mithril they wouldn't be spending to resupply other armies.
+
+If the Empire could conquer the Salt Flats of Sanath, that would also cause five Druj armies to suffer insufficient supply, but it would have other effects as well. The Salt Flats are between the Sarangrave and the Forest of Ulnak - that unchecked line of control allows Druj armies to draw supply lines back to their home territory. If the entirety of the Salt Flats were conquered by the Empire, that would become impossible.
+
+Such a victory would cut the empire of the Mallum in two - the five Druj armies from the Forest of Ulnak would struggle unless they could trace a line directly back to the Forest through territory the Druj controlled. Likewise, the three Druj armies from the Sarangrave would face the same challenge if they couldn't run supply lines back to the Sarangrave. The results would be devastating to the Druj and bring them to the brink of destruction.
+
+However, the Salt Flats are ''also'' the political heartland of the Druj, the home of their most powerful septs and the cornerstone of their rule. If the Salt Flats were completely conquered along with either the Sarangrave or the Forest of Ulnak, that would spell the end of the Druj. On paper their armies might think to retreat to an unconquered territory, but in practice the loss of so much crucial territory would cause what remains of their shaky union to collapse. 
+
+Such a defeat would spell the end of the rule of the [[Druj_lore#Buruk_Tepel|Buruk Tepel]]. It is impossible to know what would follow - there might be some residual threat in the Sarangrave or the Forest of Ulnak, but it would be a fraction of the current strength of the Druj. The most likely outcome is that any neighbours with a history of hostile relations with the Druj might seize this opportunity to extract vengeance or claim valuable lands.
+
+The [[Axos|Axou]] have long harboured dreams of conquering the Sarangrave. They're unlikely to attack Imperial positions in the territory, but they would likely leap at a chance to overrun a rapidly collapsing Druj nation. The Thule might risk trying to extend their dominion into the Forest of Ulnak, or they might not. Even the Grendel might see the value of raiding and looting the collapsing Druj holdings Sanath, although its unlikely they would try to claim territory there ''are'' apparently islands in the east that might in theory provide them with the weirwood they crave. 
+
+As an aside, though, Mladen notes with interest that the Druj maintain the massive fortification of [[Forest_of_Ulnak#Cassad_Ûln|Cassad Ûln]] on their north-east border. That fortress is clearly designed to keep ''someone'' out...
+
+==Further Appraisal==
+* '''Mladen has outlined another appraisal that he would be willing to carry out if requested'''
+* '''If the Assembly of Nine passed a judgement with a greater majority then Mladen would be available for any appraisal'''
+* '''If that happened and the Imperial Senate requested Mladen then the expenditure would increase by ten thrones'''
+Mladen's appraisal explicitly includes another option for him to conduct further appraisals to provide additional strategic options should the Imperial Senate request it. This appraisal has focussed on establishing how the Empire might reduce the supply of Druj armies, but if the political will were there to employ cruel strategies - strategies such as those the [[Iron Helms]] used in the Barrens - then the Senate could request Mladen appraise that and he would carry out the work. Clearly the former prognosticator is not quite as retired as he protests.
+{{CaptionedImage|file=Assembly_Nine.png|caption=The Assembly of Nine|align=right}}
+Gerard is at pains to stress that such work is on Mladen's terms only at this point. The former general would like nothing more than to see the Druj destroyed, but otherwise he plans to return to his family in [[Miekarova]]. The only thing that might change his mind would be if the [[Assembly#Assembly_of_the_Nine|Assembly of Nine]] indicated that they believe that the Empire needs the former general to return to work - Mladen was a devout member of the [[Synod]] in his youth and holds the Assembly in high regard. The final decision, however, would rest with the Senate.
+
+If the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]] passed a judgement with a [[greater majority]] asking Mladen to return to work then he would be available to undertake any appraisal the Senate requested. Such a decision would be expensive however; civil service expenditure would increase by ten thrones a season if Mladen and his entire team of staff returned to regular employment in the Prognosticators Office. If the Imperial Senate want that to happen they would also need to request Mladen appraise a project in the same season that the Assembly of Nine requested he return to work (although it need not be the cruel appraisal he has offered). Regardless of the nature of the appraisal he would bring to bear both his drive for efficiency and his military experience making him an excellent choice for both appraisals where cost ''is'' an object or which could be achieved with existing resources, or those that involved military matters.
+
+==OOC Design Notes==
+Most of the core rules for the military game are as similar for the Empire as the barbarians as we can make them. Imperial and barbarian armies all have to submit orders, they all have known sizes and take casualties and break and so forth. Military rituals like [[Rivers of Life]] and [[Thunderous Tread of the Trees]] affect barbarian armies and fortifications in exactly the same way that they affect Imperial armies and fortifications.
+
+However some of the subsidiary rules around the economies of the barbarians are considerably simplified. There are no player-characters in the Druj so we don't model the impacts of a territory curse on their businesses and farms. Much of the economics of the barbarian nations are heavily simplified. They don't have a Bourse, or any internal markets to buy and sell wains; they don't have a Synod or any mandates. It would be a huge amount of additional work to try to model these things for virtually no benefit - work that is much better channelled into producing plot players can interact with at events.
+
+None of the barbarian nations featured in the game operate use the exact same supply rules as the armies of the Empire. This is clearly an advantage for the barbarians. In other cases these simplifications confer a considerable advantage to the Empire. For example, the Empire has eight hundred military units that they can call on each season - the equivalent of sixteen additional armies - but we don't model military units for the Druj.
+
+In effect, the supply of barbarian forces is below the abstraction later. The supply of Druj armies is rarely crucial since they have raised so few armies since the game began. Appraisal allows players to interact directly with things that would normally be abstracted away, so it's the ideal tool here while the Druj are under pressure from the Empire.
+
+This wind of fortune lays out a way the Empire could disrupt the supply of the armies of the Druj: this is an opportunity for the Empire to attack Druj supply. These are not standard rules that apply at all times to all barbarians. The Jotun, the Grendel, the Thule, the Iron Confederacy, the vallorn, the Axou, the Vore, the Asaveans, the Jarmish - all these different groups are all very different in social structure and make-up. If the supply of their armies were ever relevant to the game, then we would present different options that were appropriate to those nations or powers.
+
+==Further Reading==
+* [[Appraisal]]
+* [[Druj]]
+* [[The Mallum]]
+** [[Forest of Ulnak]]
+** [[Salt Flats of Sanath]]
+** [[Sarangrave]]
+* [[Druj armies]]

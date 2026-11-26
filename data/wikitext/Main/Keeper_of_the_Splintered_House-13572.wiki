@@ -1,0 +1,23 @@
+[[Category: Title]] [[Category: Navarr]]
+==Overview==
+The Keeper of the Splintered House is an [[Imperial title]] awarded to a citizen of [[Navarr]]. Construction of the Splintered House was [[Construct Wayhouse in Holberg|announced]] by '''Ciapek Splintered Oak''', as [[Bearer of an Imperial Wayleave]], during the Winter Solstice 387YE and construction was completed shortly before the Spring Equinox 388YE. The [[Navarr wayhouse]] stands in [[Holberg#Utterlund|Utterlund]] in [[Holberg]].<br><br>
+{{Navarr Wayhouse Benefits|Splintered House|Holberg}}
+==Responsibilities==
+The Keeper of the Splintered House is responsible for protecting the wayhouse. If the wayhouse, or travellers using the wayhouse, were to be threatened in any way it would be the responsibility of the Keeper to deal with those threats. Likewise, if any particular [[opportunity]] were to arise related to the wayhouse, the Keeper would expect to be consulted as to how that opportunity might be resolved.
+
+==Powers==
+===Profitable Dealings===
+The Keeper of the Splintered House has custodianship of a [[sinecure]]. They receive an income of one throne, six crowns, and eight rings each season.
+
+==Appointment==
+<!--{{CaptionedImage|file=Keeper of the Splintered House.png|caption='''Holder''', Keeper of the Splintered House|align=left|width=300}}-->
+The Keeper of the Splintered House is a [[Imperial_title#National_Position|national position]] appointed by unanimous decision of the senators of Navarr.
+
+The Keeper has [[tenure]] and serves until they die or step down. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the Navarr Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]]
+{{RecentElections|Keeper_of_the_Splintered_House}}
+==The Splintered House==
+Named for the Splintered Oaks striding, the Splintered House was constructed with the ideals of standing together to build something greater in mind. The wayhouse welcomes all, be they crafter,  broker, or simply a Navarri without a striding seeking a place to stay
+
+Built in Utterlund, a forest that at one time served as a hunting preserve that has been marked by change and Spring magic, the Splintered House brims with the energy of hustle. Brokers bring their goods and services through to the "''Greatest City of the League''". Built as a trading market to showcase Navarr talent, it is often surrounded by sprawling tents, stalls, and ox carts, with the maze-like routes managed by residents of the wayhouse, who work to ensure Prosperity for all who frequent the ever-changing traders.
+
+{{Responsibilities Expectation}}

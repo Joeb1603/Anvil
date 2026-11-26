@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:384YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Upwold, Seconded: Bastion">To construct a Great Westward Canal, to be called "The Black Canal" in honour of Gerraint Black, from the river meade to Mournwold, accepting the offer of the Mournwold orcs to work alongside human Marchers on the waterways, improving the prosperity of Mournwold and Mitwold and integrating the Mournwold orcs further into Marcher society; and to request a disbursement of funds in part payment of the costs.</quote>
+==Overview==
+* Commissions a canal connecting Meade in Mitwold and Sarcombe in the Mournwold
+* Detailed in the '''[[Light_upon_the_water#River_Roads|Light upon the water]]''' Wind of Fortune.
+* Passed at 0 Thrones
+==Date==
+* Autumn 384YE
+==Cost==
+* As detailed in the wind of fortune
+* 60 wains of white granite
+* 40 wains weirwood
+* 200 Crowns
+* Nine months to complete
+==Progress==
+{{CommissionProgress|Black_Canal}}
+==Outcome==
+* As of [[The_best_soil#The_Black_Canal|the best soil]] wind of fortune, the canal raises the [[great work|level of investment]] in farms in Mitwold by 1, in businesses in Mitwold and Mournwold by 1 and in mines in Mournwold by 2
+* It would also link the two most prosperous settlements in the Marches - Sarcombe and Meade.
+* The [[Mournwold Orcs]] have thrown their support behind this project and between donations of money and food, and actual physical labour, they have contributed half the labour costs (100 crowns). 
+* The presence of the orcs working alongside the human Marchers on the riverways also caused them to become more familiar to the people of the northern Marches.
+* Following the Jotun [[The_wild_wind_rises|conquest]] of the Mourn after the Summer Solstice 386YE the Mournwold half of the canal is providing no benefit. The Mitwold half of the canal will produce only 18 rings for the farms and businesses in Mitwold until Chalkdowns and Southmoor are reclaimed.

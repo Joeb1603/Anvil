@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Announced by Laughlan Vi Temeschwar, Master of Rings">To construct "Lumi's Legacy". Being a herb sinecure, located in East Floes, Sermerusaq, with the intent to focus on bladeroot cultivation. The title of Legal Leaseholder of Lumi's Legacy is to have tenure and be elected by unanimous pick of the Wintermark senators. The cost of the building and the ten wains of materials will be funded in full by Lumi Warmthbringer</quote>
+==Overview==
+* Constructs a [[sinecure]] in East Floes, Sermersuaq
+* Announcement by the [[Master of Rings]]
+==Date==
+* Spring 387YE
+==Cost==
+* Standard costs apply
+* 10 weirwood
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Construct_Lumi%27s_Legacy}}
+==Outcome==
+* Now complete, the [[Leaseholder of Lumi's Legacy]] will be available to appoint by the unanimous decision of the senators of Wintermark at the Summer Solstice 387YE

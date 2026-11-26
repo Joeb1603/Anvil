@@ -1,0 +1,103 @@
+[[Category:Winds of Fortune]][[Category:387YE Winter]][[Category:Recent History]]
+<ic>"And this, children, is the ''exact site'' the paragon Atun landed with the first Highborn all those years ago. From here the First Empress would go on to found the Empire at Anvil in Casinea and introduce all the other peoples of the continent to the seven Virtues of the Way. Now, who thinks they can name all seven Virtues for me?"
+
+"Uhm, Steward Shem?"
+
+"Yes, Master Japheth?"
+
+"Did, um. Was Ah-toon very afraid of the water?" Japheth had been standing notably further away from the shore-line than the rest of the children, some of whom had already been dipping in their toes during lunch-break.
+
+"She may well have been, Japeth, but remember that Virtue can give us the strength to face our fears! Now, about-. Yes, Japheth?"
+
+"Even with all the bad eternals in the sea like Sha-ka and Kobe...Kobe, um, Salty-Lungs?"
+
+"Yes Japeth, but the Empire and the Imperial Conclave will protect you from all the bad eternals, there's no need to worry."
+
+"Does, does that mean Mr Syrup is a good eternal?"
+
+One of the two greatsword-wielding warriors stood a little behind the group smiled and spoke up. "Oh yes Japeth, ''Prince'' Surut is a <u>very</u> good eternal. So good that your Senator and the Conclave expressly arranged for us to come and make sure you were all safe from all the bad ones." Steward Nimrod was not best pleased and re-asserted himself.
+
+"Thank you, Warden. This is ''NOT'' magic class with Magister Shem, Japheth, this is our class field trip to Sanctuary Sands. I think it's just about time we packed up for the day anyway. Your homework is to draw a picture of Paragon Atun, including at least one of the tenets and symbols of Wisdom. Run along everyone!"
+
+The rusted warden inclined their head to Steward Shem and continued their dutiful watch over the children and the coastline.</ic>
+<div style="float: left; width: 250px; clear: right;">{{CaptionedImage|file=OrderSevenfoldPath.jpg|caption=Let all power be guided by virtue.|width=300px}}</div>
+==Overview==
+<div style="float: right; max-width: 400px; margin-left: 10px;">
+<quote by="Grandmaster Elagabala, on behalf of the Sevenfold Path">
+The Conclave asks for plans for a Grand Lodge of the Sevenfold Path in Sanctuary, Sanctuary Sands, Necropolis. It would stand in remembrance of the magician-paragon Atun and their Virtue in voyaging to the continent, and looking to the horizon as a promise that this Empire will bring the light of Virtue to everyone, everywhere.
+</quote></div>
+The ongoing project to create a grand lodge for each of the [[Conclave order|Conclave orders]] proceeds apace. The recently completed grand lodge of the [[Golden Pyramid]] in [[Mareave]] was briefly in danger from the orcs of the [[Grendel|Broken Shore]], but, thankfully, the intervention of the Military Council has secured it. At least for now.
+
+There can only be two ongoing projects at any one time, and with the completion of the first grand lodge, the [[Conclave]] declared that the [[Sevenfold Path]] would be next in line while the recently [[The shape of things to come|upgraded plans]] for the [[Silver Chalice]] are yet to be commissioned by the [[Senate]]. For the next set of plans to be prepared by Conclave, either the Silver Chalice or the Sevenfold Path must commission and finish building their grand lodges. Of course, the potential for an [[appraisal]] is still available.
+
+==Homecoming==
+The people of Sanctuary Sands are ''delighted'' to hear that the Grandmaster of the Sevenfold Path decided that the site of the landing (or at least, a little inland) would be the order's chosen place for their grand lodge. Virtuous magicians from across the Empire heard the call of '''Elagabala''' and began scouting out the prime location, with the best view, to prepare the designs. So what if it's directly on the coast? So what if it's an obvious target for the Grendel? So what if the heralds of [[Siakha]] find priests delicious aperitifs? This place is to be a beacon for the light of virtue! The gleaming fortress of [[Necropolis#Reumah's_Rest|Reumah's Rest]] stands overlooking the cliffs in Coursmouth! Besides, the Military Council have protected the grand lodge in [[Mareave#Clisearn|Clisearn]], they will surely manage any lesser concerns of the material world. 
+__TOC__
+==Dreams come true==
+There are seven true virtues, and not one of them is Subtlety. Plans for an enormous [[weirwood]] vessel come together, one large enough to host a full cadre of order magicians along with not one but two small shrines to the Virtues. The vessel will sit in the water next to a small but [[Edifice#Grandeur|impressive basilica]] dedicated to [[the Way]]. A pier extends out a little further into the Catazar for pensive walks along the shoreline while meditating on the paragon-magician Atun. Two masts of [[mithril]] are to protrude from the structure, displaying sails showing the emblem of the order, ever lit by lightstones strategically placed along both the masts.
+
+Unsurprisingly, the presence of the grand lodge would provide a big benefit for the people of [[Necropolis]]. Such a powerful reminder of the crucial role of the Highborn in bringing Wisdom and the Way to the world would benefit every [[congregation]] in the territory. More it would remind the Highborn of their naval history, that their people were once masters of the oceans. That would spark renewed interest in Highborn naval endeavours, permanently raising the capability of the nation to support one additional navy.
+
+As with the first two lodges, the Grandmaster would gain better rates for their ministry (unless, of course, the Senate were to abrogate it as discussed in the '''[[The circle game]]''' wind of fortune) and the Conclave would see a healthy increase in the mana crystals available in the [[font]].
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Grand Lodge of the Sevenfold Path'''</tr>
+<tr><td>'''Commission Type:''' Great Work (Grand Lodge)</td></tr>
+<tr><td>'''Location:''' Sanctuary Sands, Necropolis</td></tr>
+<tr><td>'''Cost:''' 20 white granite, 15 mithril, 65 weirwood and 300 crowns</td></tr>
+<tr><td>'''Upkeep:''' 5 thrones</td></tr>
+<tr><td>'''Effects:''' 
+* Adds 15 mana crystals to the Conclave font each season
+* Incorporates a [[Edifice#Grandeur|grand basilica]] dedicated to the Way
+* Reduces the cost of mana purchases by the Grandmaster
+* Raises the level of investment of congregations in the territory by one
+* Allows Highguard to raise and support one additional navy over the current limits
+* Provides a dose of true liao to the order's vaults at the Summer and Winter solstice
+* Provides every member of the order with a dose of liao each season for a year
+* Adds the Voice of the Paragons to Imperial lore for as long as [[Net of Gossamer Chains]] is interdicted
+* Can request a single relic linked to an important historical figure for the Winter Solstice after the grand lodge is complete
+</td></tr>
+</table></div>
+What excites everyone the most, however, is what a confluence of the Empire's most advanced minds of the intersection of magic and virtue might achieve. By using a combination of the divinatory magics of the [[Day]] and [[Night]] realms and the experienced hands of those who spend a lifetime handling the [[liao|purple substance]], the able to examine Imperial [[liao]] production to find doses with the potential spark to be developed into [[true liao]] that might otherwise be discarded. As a result, a single dose of true liao would be handed over to the Grandmaster at Summer and Winter Solstice, to use as she and her successors see fit. There would also be a little extra normal liao for everyone in the order for a year following the completion of the grand lodge.
+
+==Props==
+* '''Voice of the Paragons is a ritual focus that helps magicians cast Mantle of the Golden Orator, Silver Tongue of Virtue, and A Light That Moves'''
+* '''The Paragon's Voice Chapter will add the focus to Imperial lore for as long as Net of Gossamer Chains is interdicted'''
+
+Some enterprising benefactors from the ''Paragon's Voice Chapter'' are keen to encourage and reward this endeavour and have come to the magicians of the Sevenfold Path with an offer for when the lodge is completed. They specialise in a unique [[:category:foci|focus]] that aids in the casting of rituals that enhance one's ability to [[Congregation#Downtime_Options|preach]], specifically [[Mantle of the Golden Orator]], [[Silver Tongue of Virtue]], and [[A Light That Moves]], though they've not had the opportunity to test that one yet.
+
+They'd be willing to allow Imperial artisans to visit their chapter house to learn how to create this item in exchange for one concession. They are strongly of the belief that while the practice and mastery of mortal magic can be pursued and celebrated as part of one's path to transcending the Labyrinth, no [[eternal]] has any place in the consecrated halls of a [[congregation]]. They will teach any Imperial artisan who wishes to learn how to make the foci for as along as [[Net of Gossamer Chains]] is [[Interdiction|interdicted]] by the Conclave. Provided [[Callidus]] cannot seek to corrupt and manipulate the teachings of the [[Synod]], the focus will effectively be in Imperial lore - it just couldn't be disseminated to anyone.
+
+==Duets==
+* '''The Black Tablet will seek out a single relic connected to a chosen historical figure suitable for casting Whispers through the Black Gate'''
+The ''Paragon's Voice'' are not the only ones to have an offer for the grandmaster for choosing to build her grand lodge in the Necropolis. The ''Black Tablet'' have for some years now supported the work of the [[Imperial Necromancer]], and see their work as validation that magic that is often treated with suspicion and trepidation (that of the winter realm) can still be used for virtuous ends. Once the lodge has been built, if the Grandmaster is willing and able to pass a [[declaration]] of [[concord]] in support of the practice of necromancy, they will aim to provide some help to the magicians at Anvil. 
+
+In return for this support, they will look to the Conclave for direction towards a single past historical figure of great virtue for whom they may have some remnants in the Necropolis. They will see if they can find and prepare a relevant relic for someone who was in some way cotemporaneous, connected with or may have insight into that figure (if not the figure themselves) that is a valid target for [[Whispers through the Black Gate]] and provide it to the Grandmaster of the Sevenfold Path at the start of the next Winter Solstice following the completion of the grand lodge. If multiple declarations are passed, they will default to the first one raised by the Sevenfold Path.
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Atun.jpg|caption=Atun; paragon of [[Wisdom]] and magician, who led her people to safety when it seemed there was no sanctuary to be found.|align=right|width=400}}</div>
+==Makeover==
+* '''The impressive basilica could be consecrated with true liao, either as a basilica or as an inspirational memorial to Atun'''
+
+The designs for the grand lodge include an impressive basilica. In theory, the plans could be expanded even further, but another 25 white granite would be needed to expand the central house of worship into a bona fide cathedral ('''OOC Note:''' Any Senate motion or announcement must be explicit if they plan to do this). Even a basilica would be impressive however, especially if it were consecrated with true liao. If that happened, there would be the potential for the Senate to create a new Imperial title to lead the worship in the basilica and minister to the needs of the magicians of the order. Such a position could be on a par with the archbishop of Capodomus Cathedral, though the Order would have to choose the virtue carefully... such a decision would naturally impact the whole Order.
+
+The alternative might be to create an [[Inspirational_location#Memorials|inspirational memorial]] to Atun. The Paragon of Wisdom led her people to safety at Sanctuary Sand, she didn't remain here with them. According to the legends she never left her ship. On the fourth day she set sail again, allegedly alone, although most people believe that part is probably an ahistorical story. The new basilica could be consecrated to create a memorial to Atun's legendary status as a [[Paragons and exemplars|paragon]] of [[Wisdom]].
+
+There is no requirement to use a precious dose of true liao in this manner - it is simply that the potential exists to do so, once the grand lodge is complete. The inherent grandeur of the structure would make a suitable housing for either plan.
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Elagabala Preaching.jpg|caption='''Elagabala ''', Grandmaster of the Sevenfold Path|align=right|width=500}}</div>
+
+==Movin' out==
+* '''The shipwrights propose to name the vessel Elagabala's Vision'''
+* '''It could set sail and travel anywhere on the Bay of Catazar in a single season'''
+* '''It would be vulnerable to attack while at sea'''
+* '''The vessel would move the level of investment in congregations to the territory the season after it arrived'''
+
+The design for the grand lodge is built around the idea of massive sea-going vessel, in a style the architects imagine captures the historical tradition of Highborn seafaring. It is much bigger than a normal Imperial [[fleet]], closer in size to one of the Asavean warships currently threatening the Empire's coasts. The original idea was that the grand lodge would be built in the ''shape'' of a ship, but as soon as someone suggests that the rejoinder from one of the Order's Freeborn magicians is "Or... we could include an actual enormous ship!"
+
+The designers propose to call the vessel ''Elagabala's Vision''. In fairness, it's not an uncommon strategy for architects and shipwrights who are eager to find a powerful patron who will authorise their work being built. The truth is that the vessel they have sketched would be ungainly and clumsy. It would be utter folly to risk it on an actual voyage in open waters far away from land, but it could waddle around the Bay of Catazar, clinging to the coastline, if it needed to. It would be vulnerable if the Grendel attacked (although the Grendel are often loathe to destroy valuable things), and it certainly wouldn't be a lot of use in battle. That said, it could accompany a Highborn navy if one were ever launched, providing spiritual succour to the sailors and soldiers fighting for the Empire. And if Sanctuary Sands were ever seriously threatened, the vessel could put to sea to save the lives of order magicians and local inhabitants if needed.
+
+Once complete the grandmaster of the Sevenfold Path could give orders for ''Elagabala's Vision'' to sail to any territory on the Bay of Catazar currently under Imperial control. It would take a season to get there - it couldn't do anything in the season it was sailing and it will always be vulnerable to Grendel navies while at sea. But once it made landfall, it would allow the order to project their power and influence in whatever territory they had sailed to. There are few practical benefits to this arrangement - the only one the prognosticators can find is that it would move the benefits the grand lodge provides to congregations to the new territory in the season after it arrived. But half the grand lodge would definitely be mobile and who knows when that might come in useful?
+<!--==Resolution==
+* The Grand Lodge of the Sevenfold Path was [[Construct_Grand_Lodge_of_Sevenfold_Path|commissioned]] in Autumn 388YE
+-->
+
+==Further Reading==
+* [[Sevenfold Path]]
+* [[Lit_up#Grand_Lodges|Lit up]] - 386YE Winter wind of fortune introducing the concept of grand lodges

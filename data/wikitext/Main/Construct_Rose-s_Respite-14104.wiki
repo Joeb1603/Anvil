@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:388YE Autumn]]
+__NOTOC__
+<quote by="Announced by Laughlan Vi Temeschwar, Master of Rings"> Announce the building of the "Rose's Respite" a herb sinecure in Astolat costing 16 wains of weirwood. To be elected by senators. This is self funded.
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in The Chase, Astolat
+* Announcement by the '''Laughlan Vi Temeschwar''', [[Master of Rings]]
+
+==Date==
+* Autumn 388YE
+
+==Cost==
+* Standard costs apply
+* 16 wains of weirwood
+* 6 thrones in labour costs 
+* Three months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Rose%27s_Respite}}
+==Outcome==
+* Once complete, the ''Keeper of Rose's Respite'' will be available to be appointed by the Senators of Dawn

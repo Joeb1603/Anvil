@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Proposed: Sermersuaq, Seconded: Hahnmark">To construct a Smuggler's Cove in Tromsa. And a disbursement of funds.</quote>
+==Overview==
+* Constructs a [[smugglers cove]] in [[Tromsa]] 
+* Passed
+
+==Date==
+* Winter 386YE
+
+==Cost==
+* Standard costs apply
+* 10 white granite
+* 30 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Smugglers_Cove_in_Tromsa}}
+==Outcome==
+* Now complete, fleets are able to support the cove in the same manner as military units can support [[spy network|spy networks]]

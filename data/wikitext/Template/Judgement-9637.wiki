@@ -1,0 +1,7 @@
+<div style="width: {{{Width|500px}}}; float: {{{Float|right}}};" class="ic"><div class="ic-inner quote"><p class="{{{Size}}}">{{{Judgement}}}</p><small>{{{Raised By}}}, {{{Assembly}}} Assembly, {{{When}}}, ({{{Outcome}}})</small></div></div>
+<noinclude>
+== Usage ==
+<pre>
+{{Judgement|Judgement=Some text with exciting words.|Raised By=raising priest|Outcome=Greater Majority 192-0|When=Spring Equinox 383YE|Assembly=Assembly|Float=right by default|Width=500px by default|Size = small or leave black}}
+</pre>
+</noinclude>

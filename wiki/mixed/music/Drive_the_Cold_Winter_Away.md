@@ -1,0 +1,20 @@
+---
+title: Drive the Cold Winter Away
+source: https://www.profounddecisions.co.uk/empire-wiki/Drive_the_Cold_Winter_Away
+class: mixed
+topic: music
+categories:
+- Music
+- Marches Music
+- The Marches
+last_edited: '2016-06-24T21:47:05Z'
+revision: 45326
+---
+
+# Drive the Cold Winter Away
+
+*This page holds music or lyrics, which belong to their authors and are not covered by the wiki's licence, so its text is not included here.* [Read it on the wiki.](https://www.profounddecisions.co.uk/empire-wiki/Drive_the_Cold_Winter_Away)
+
+---
+
+Categories: [Music](../../indexes/by-category/Music.md), [Marches Music](../../indexes/by-category/Marches_Music.md), [The Marches](../../indexes/by-category/The_Marches.md)

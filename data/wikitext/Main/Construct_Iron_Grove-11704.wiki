@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Spring]]
+__NOTOC__
+<quote by="Announced by Wren Ironclaw, Bearer of an Imperial Wayleave"> To commission "The Iron Grove", a herb garden sinecure in Kallavesa with the title "Keeper of the Iron Grove". It will be appointed by the Wintermark senators with tenure.</quote>
+==Overview==
+* Creates a sinecure in Skymark, [[Kallavesa]] that produces eighteen herbs each season
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+==Date==
+* Spring 386YE
+==Cost==
+* Standard costs apply
+* 10 weirwood
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|The_Iron_Grove}}
+==Outcome==
+* Now complete, the [[Keeper of the Iron Grove]] will be available to appoint by unanimous decision of the senators of Wintermark at the Summer Solstice 386YE.

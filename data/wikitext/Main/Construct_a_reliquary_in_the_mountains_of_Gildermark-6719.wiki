@@ -1,0 +1,30 @@
+[[Category:Senate Motion]][[Category:381YE Summer]]
+__NOTOC__
+<ic> To create the title of Weigher of Worth, a reliquary in the mountains of Gildermark to take the form of a mana sinecure in Skarsind, to be appointed by the Senator of Skarsind. The title is revocable by the Imperial Orc National Assembly. To be made using 10 wains of Mithril. <br><br>
+<i>Announced by Azzam i Zaydan i Requeza.</i></ic>
+
+===Overview===
+* This sinecure was announced by a holder of an Imperial Wayleave, using the legal power to commission constructions delegated to them by the Senate.
+
+===Date===
+* Summer 381YE
+
+===Progress===
+* 10 wains of mithril and 20 crowns provided by Azzam i Zaydan i Riqueza after Summer Solstice 381YE
+
+===Campaign Outcome===
+* This sinecure is now complete, and automatically created the title [[Weigher of Worth]].
+
+<!--
+Weigher of Worth
+
+The Halls of worth are located on a high mountain over looking Gildenheim the capital and heart of skarsind. 
+
+Oathwrights will be expected to come and debate and philosophize over the worth of items, 
+
+Younger orcs looking for help in earning here legend will be encouraged to travel to the hall of worth and consult the weighter of worth on what items mite help them.
+
+A small team of oathwrights will attend the day to day running of the hall and will manage a stipend aworded to the weigher of worth in the hope that it will be used to seek out new items of worth and put them in the right hands. 
+
+Team of oathwrights trained in spersific day magics are on hand tending local mana sites and use that mana to investigate some items of worth, a cut of that mana is given to the weigher.
+-->

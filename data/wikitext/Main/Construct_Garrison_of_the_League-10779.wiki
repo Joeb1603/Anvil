@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:385YE Summer]]
+__NOTOC__
+<quote by="Announced by Elsha Bertolf, Chair of the Wolf">Commission a business sinecure, The Garrison of the League, in Hanuri in Temeschwar. Appointed by League Generals annually. </quote>
+==Overview==
+* Constructs a sinecure in [[Temeschwar]]
+* Announcement by the [[Chair of the Wolf]]
+==Date==
+* Summer 385YE
+==Cost==
+* Standard costs apply (minimum)
+* 10 wains of white granite
+* 20 crowns in labour costs
+* 3 months to construct
+==Progress==
+{{CommissionProgress|The_Garrison_of_the_League}}
+==Outcome==
+* Now completed, the position of [[Quartermaster of the Hanuri Garrison]] will be elected for the first time at the Spring Equinox 386YE.

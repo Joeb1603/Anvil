@@ -1,0 +1,25 @@
+[[Category:Senate Motion]][[Category:388YE Summer]]
+__NOTOC__
+<quote by="Proposed: Ana i Taziel i Riqueza, Senator for Segura, Seconded: Eulàlia i Phovas i Riqueza, Senator for Madruga">Commission the Wrangler's Market in Arbonne. Seeks disbursement of 14 weirwood or equivalent (64 thrones)
+</quote>
+==Overview==
+* Constructs a [[spy network]] in Arbonne
+* Passed at 54 thrones
+* 54 thrones disbursed to Senator for Segura
+* More information can be found in the '''[[No_Matter_What#Break_the_chains|No matter what]]''' wind of fortune
+
+==Date==
+* Summer 388YE
+
+==Cost==
+* Costs as per opportunity
+* 14 wains of weirwood
+* 42 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Wrangler%27s_Market}}
+==Outcome==
+Once complete, the market will have the following effects: 
+* The ''Chief Wrangler'' will be available to appoint by Freeborn tally of the votes of fleet owners
+* Imperial Orc [[military unit|military units]] will be able to use the market to [[spy network|spy]] on [[Arbonne]]

@@ -1,0 +1,1621 @@
+---
+title: 388YE Spring Equinox Synod judgements
+source: https://www.profounddecisions.co.uk/empire-wiki/388YE_Spring_Equinox_Synod_judgements
+class: in-character
+topic: synod-judgements
+categories:
+- Synod
+- Synod Results
+- Synod Judgements
+- 388YE Spring
+event: 388YE Spring
+last_edited: '2026-08-04T13:04:04Z'
+revision: 143142
+in_character_boxes: 1
+---
+
+# 388YE Spring Equinox Synod judgements
+
+## Overview
+
+**Judgement Quick Links**
+
+| Judgement Type | Amount |
+| --- | --- |
+| [Change of Doctrine](#change-of-doctrine) | 1 |
+| [Veto](#veto) | 1 |
+| [Statement of Principle](#statement-of-principle) | 94 |
+| [Mandate](#mandate) | 12 |
+| [Writ of Consecration](#writ-of-consecration) | 4 |
+| [Writ of Excommunication](#writ-of-excommunication) | 1 |
+| [Proscription](#proscription) | 10 |
+| [Inquisition](#inquisition) | 8 |
+| [Sanction](#sanction) | 14 |
+| [Recognition](#recognition) | 1 |
+| [Exaltation](#exaltation) | 2 |
+| [Appointment](#appointment) | 21 |
+| [Rewarding](#rewarding) | 10 |
+
+During the Spring Equinox 388YE, the Synod raised 179 judgements
+
+## Change of Doctrine
+
+### Judgement 7
+
+- **Assembly:** General
+- **Raised By:** Erasmo di Tassato
+- **Judgement:** It has been hundreds of years since the Doctrine of Seven was codified. The Virtuous apply what they have learned; Wisdom knows all knowledge is incomplete. The core of our faith, the Seven Virtues, remain strong - we add context to better reflect what we now know. We update the Doctrine of Seven
+- **Outcome:** Upheld with a **Greater Majority** (2039-358)
+- **Notes:** This judgement amends the [Doctrine of Seven](../religion/The_Doctrines_of_the_Faith.md#the-doctrine-of-seven). The full implications of this change to [the Doctrines of the Faith](../religion/The_Doctrines_of_the_Faith.md) will be felt over the coming months.
+
+**The Doctrine of Seven**
+
+> *In-character text:*
+>
+> *The Seven Virtues - Ambition, Courage, Loyalty, Pride, Prosperity, Vigilance, and Wisdom - offer guidance and spiritual strength to humans and orcs through our lives and deaths. Each inspires us to constructive action, bringing great benefit to those who follow them and enriching the world. False virtues and malign spiritual forces are detrimental: discouraging action, removing individual choice, bringing destruction, harming their followers, or those around them.*
+
+## Veto
+
+### Judgement 119
+
+- **Assembly:** Urizen
+- **Raised By:** Catena
+- **Judgement:** This assembly votes to veto the relinquishment of Thornfen to Axos
+- **Outcome:** Not upheld (62-206)
+
+## Statement of Principle
+
+### Judgement 6
+
+- **Assembly:** General
+- **Raised By:** Melkior of Balthazar's Vineyard
+- **Judgement:** The city state of Beoraidh may be small, but it represents a powerful opportunity for the spreading of The One True Way, the likes of which has ne'er before been seen. Our neighbours have marked off their land and opened their arms to a Basilica of the Way in the heart of their grand city. Amidst travellers and traders from all countries and walks of life, a shining beacon to our faith shall stand, built in the style of our Unshackled siblings and their fervent and beautiful expression of belief. We, the General Assembly of the Synod, note the opportunity that the construction of this Basilica offers, and urge the faithful of the Empire to all they can to assist in its completion and future operation
+- **Outcome:** Upheld (1635-204)
+- **Notes:** This judgement was elevated by **Dagon Barossa**, the [Cardinal of Loyalty](../../mixed/titles/Cardinal_of_Loyalty.md)
+
+### Judgement 8
+
+- **Assembly:** Marcher
+- **Raised By:** Brother Luke
+- **Judgement:** The Marcher Assembly extends a hand to our brethren, offering an invitation to Hap the Soft and any Marcher Orcs who wish to attend the Symposium of Proscriptions. They have shown Pride in their beliefs. Their voices firm and loud. Our duty is to further uplift Marcher voices to a cacophony that the Empire cannot ignore. They shall be heard and we shall ensure it.
+- **Outcome:** Upheld with a **Greater Majority** (192-0)
+- **Notes:** Hap the Soft is the owner of [the Golden Hoof](../../mixed/government/military/Mournwold_spoils_of_war.md#the-golden-hoof) and a well-respected voice of the [Marcher orcs](../world/Mournwold_Orcs.md). The [symposium of proscriptions](../winds-of-fortune/Stones_in_the_wellspring.md#a-convocation-of-condemnation) is due to take place at the Summer Solstice 388YE.
+
+### Judgement 9
+
+- **Assembly:** Wintermark
+- **Raised By:** Aldwyn the Glorious
+- **Judgement:** The battle in which Helgunn Chargebringer fell, Wintermark was left without a leader in a critical moment. Into that breach stepped Eisa Iron Lungs, whose clear voice and command saved many Winterfolk lives and halted a rout. Since then she has continued to lead her nation and Empire in battle with great Courage and Loyalty repeatedly serving as Field Marshal, and vaunted as a true leader by the egregores. As such, it is with great Pride that we enter Eisa Iron Lungs into the Chronicle of Heroes
+- **Outcome:** Upheld (226-0)
+- **Notes:** Adding a name to the [Chronicle of Heroism](../../mixed/government/synod/Heroism.md) requires a greater majority.
+
+### Judgement 10
+
+- **Assembly:** Highborn
+- **Raised By:** Sychar of Ebon's Hall
+- **Judgement:** Agramant has sent his servants to 'aid' Imperial citizens abandoned in Therunin. This must shame us. Highguard cannot tolerate a monster such as the Abominable One being seen as a rescuer while the Empire's own people suffer. Highguard has chapters, military units, congregations, physicks, priests, pilgrims, the Unconquered and more. We can send virtuous aid where aid is desperately needed. So let Highguard act! Let our citizens escort the refugees and support the healers of High Chalcis, while our chapters and military units aid the Navarri in escaping Therunin. The hungry, frightened, and desperate must find Imperial support. We will deny Agramant the worship of desperation. Only actions are virtuous. If we would calls ourselves guardians of the Empire's soul, then we must prove it where that soul is endangered.
+- **Outcome:** Upheld (216-0)
+- **Notes:** References the ongoing situation in [Therunin](../nations/navarr/Therunin.md), most recently the claim from [Agramant](../eternals/Agramant.md) that the eternal considers the territory to be ["fair game"](../winds-of-fortune/The_thing_with_feathers.md#heartbreaking-agramant).
+
+### Judgement 11
+
+- **Assembly:** Dawnish
+- **Raised By:** Alys de Renard
+- **Judgement:** To be glorious is to be Dawnish. It is an inevitability of our personnage, it is a pillar of our nation, yet a darkness gathers at our door. The Whisper Gallery seeks friendship from our nation. We must not work with them. Priests of Dawn, we must take arms against this threat, and encourage others to as well, for what eclipses glory more than what the Whisper Gallery venerates: secrecy.
+- **Outcome:** Upheld with a **Greater Majority** (372-76)
+
+### Judgement 14
+
+- **Assembly:** Highborn
+- **Raised By:** Tabris, Son of Armisael
+- **Judgement:** When the vallorn of Therunin presented those standing against it with an abomination that carried a Miasma Pillar, 20 Soldiers of the Pilgrim's Defiance volunteered to face it down. All 20 of them returned to the Labyrinth to ensure its threat was ended. Their names should be recorded by the Archivists. Their Courage should be Exalted by the Pilgrims. And when the time is right, and the infestation of East Ashes is cleared, their remains should be recovered for the Stewards of the Dead, so their deeds can never be forgotten.
+- **Outcome:** Upheld with a **Greater Majority** (530-0)
+- **Notes:** This judgement makes reference to the abomination that was encountered and defeated by Imperial forces during the [siege of Mudlark's Haven](../winds-of-war/A_bright_cerulean_flame.md#the-siege-of-mudlarks-haven).
+
+### Judgement 15
+
+- **Assembly:** Urizen
+- **Raised By:** Eurybia Mecampus
+- **Judgement:** The Urizen National Assembly approves the awarding of the Golden Cascade to Twyll of the Eternal Family. His boundless prosperity in defiance of the vallorn will be much needed in the future and his generous support in completing the Beneficiary of the Golden Cascade proves himself a virtuous friend and ally of Urizen. Citizens of Zenith - witness your donations in use.
+- **Outcome:** Upheld with a **Greater Majority** (190-0)
+
+### Judgement 20
+
+- **Assembly:** Highborn
+- **Raised By:** Nicodemus of Balthazar's Vineyard
+- **Judgement:** The Way and the Empire are a not a monolith, but a mosaic construct of profound, and beautiful traditions, human and orc, united nonetheless by faith, Synod and Doctrine. The life and worship of the greatest monument must reflect and and celebrate this diversity in order to truly uplift every soul in the Empire. Therefore, we look to the Senate to ensure that the completed Grand Inspiration is governed by a college of residentiary Canons, one elected by each National Assembly, and led by a Dean chosen by the Assembly of Nine, who will together be charged with this sacred task. Let us show that the past, present, and future of the Way is here in th ten Proud nations of the Empire who stand together in Virtue.
+- **Outcome:** Upheld with a **Greater Majority** (440-62)
+
+### Judgement 25
+
+- **Assembly:** Wisdom
+- **Raised By:** Mael of the Shattered Tower
+- **Judgement:** BEHOLD: VIRTUE! As the MARSHAL of the FAITH, I bid ye witness that the following were multiply commended by diverse FIELD MARSHALS and COMMANDERS for their WISDOM and BRAVERY in recent battles: EISA IRONLUNGS, SERAFINA SEMENOV, DAME KATELYN CORDRACO, NEVE AGRA, the runner SASHKO and the SENTINEL'S TOWER. The IMPERIAL AUXILIARIES are commended for tireless running with extremely limited numbers in unfamiliar terrain. The Marshal personally commends WILLIAM GUILDENSTERN for his AMBITION and for holding himself accountable. Virtue is found in what is learned from a defeat as well as what is gained from victory. A fuller list of commendations may be found on the Synod Notices.
+- **Outcome:** Upheld (222-0)
+
+### Judgement 27
+
+- **Assembly:** Ambition
+- **Raised By:** Rafael Barossa d'Apulian
+- **Judgement:** Completing the Grand Inspiration of the Way is a lofty goal, but nothing is beyond the grasp of the Virtuous. The Hallowing of the Patron drives us to silence naysayers, and what better way than to complete this inspiration project within the year? It will draw the eyes of the world to us, establishing Bastion as the heart of the Way. From there, our faith will spread across the globe. This is our highest calling!
+- **Outcome:** Upheld with a **Greater Majority** (394-82)
+- **Notes:** Refers to the [Grand Inspiration of the Way](../senate-motions/Construct_Grand_Inspiration_of_the_Way.md). Further information on highest callings can be found in the **[The highest calling](../winds-of-fortune/The_highest_calling.md)** wind of fortune
+
+### Judgement 29
+
+- **Assembly:** Loyalty
+- **Raised By:** Dagon of the Shattered Tower
+- **Judgement:** Loyalty is the link from one heart to another, guiding us on the path of Virtue. Alberto Acciai - Exemplar of Loyalty - followed his heart. Inspired by his cousin, Alberto broke the chains of the downtrodden and struck against the Plenum, freeing slaves from their tyrant masters and breaking two Asavean armies. Through Loyalty, Alberto shared the gift of the Way with the people of Marilen, and inspired others to rise up in Virtue. Two years ago we committed to continuing the work of Alberto and Amika. Asavea will be transformed through Virtue, the truly Virtuous are Loyal even in times of hardship! We must stand by our commitment, and finish the war the Empire started. We will bring Virtue to Asavea, no matter the cost. We devote our hearts to this task. This is our Highest Calling.
+- **Outcome:** Upheld with a **Greater Majority** (390-26)
+- **Notes:** Refers to efforts to efforts to [anchor the Way in Asavea](#anchor-the-way-in-asavea). Further information on highest callings can be found in the **[The highest calling](../winds-of-fortune/The_highest_calling.md)** wind of fortune
+
+### Judgement 31
+
+- **Assembly:** Varushkan
+- **Raised By:** Katya Vasillova Reznikov
+- **Judgement:** Prosperity is not measured by wealth possessed but by putting it to worthy purpose. Mayra Zoronova Prochnost demonstrated this principle through labour, sacrifice, and stewardship. They gathered funds and resources for the Boyar's Hasta army, supported the preparation of Varushkan military units for the campaign concerning the face-peelers in Ossium and Karsk, before committing personal and donated resources towards the ritual Merciless Wrath of the Reaver. We declare Prosperity is realised when citizens place their wealth, labour and influence in service to others and the Empire. We celebrate and lift up Mayra as an example of a prosperous citizen and encourage others to do the same.
+- **Outcome:** Upheld with a **Greater Majority** (200-30)
+
+### Judgement 41
+
+- **Assembly:** Wisdom
+- **Raised By:** Asthore Autumngale
+- **Judgement:** Wisdom teaches us to test and apply what we have learned, for it is always incomplete. Nowhere is this more true than in the actions of our enemies. What is not known cannot be fought without needless loss of Imperial lives. Questions rise anew with each strike against - or from - our wars against barbarian and vallorn alike. The Way cannot spread, cannot be known beyond our current borders, without the wars we fight; we cannot fight these wars, both current and future, without the knowledge to support our forces. The Ministry of Historical Research and the Empire's prognosticators tirelessly collate and unearth knowledge of our enemies, but their work is endlessly unfinished. Supporting the efforts and research of those institutions and the study of these foes embodies the teachings of Wisdom. This is our highest calling.
+- **Outcome:** Upheld with a **Greater Majority** (296-74)
+- **Notes:** Further information on highest callings can be found in the **[The highest calling](../winds-of-fortune/The_highest_calling.md)** wind of fortune
+
+### Judgement 44
+
+- **Assembly:** Imperial Orc
+- **Raised By:** Bloodcrow Udoo
+- **Judgement:** "I am walking towards a bridge of renown across an Abyss that only cares for my legend." Bloodcrow Knott Ancestor of the Sunstorm Sept. Learn and share his tale and name. Know well his soul. Celebrate his life and deeds. For we do hear his voice. Bloodcrow Knott. An ancestor of the Sunstorm
+- **Outcome:** Upheld with a **Greater Majority** (44-10)
+- **Notes:** The words of Bloodcrow Knott have been added to the [Annals of the Ancestors](../nations/imperial-orcs/Imperial_Orcs_religious_beliefs.md#annals-of-the-ancestors)
+
+### Judgement 46
+
+- **Assembly:** General
+- **Raised By:** Elagabala
+- **Judgement:** Chastise the folly of Brannan, in Sarangrave or wherever it raises it's head. We call on priests of the Empire to support Imperial soldiers who have fought in the Sarangrave against subsuming their will and personalities to the intoxication of Summer magic's Knights of Glory, through liao and pastoral support. Virtue demands we ensure that their capacity for rational, virtuous choice and for choosing to accept orders are not impeded. We must ask the right questions: Why the Sarangrave? What would cause this to occur elsewhere? How can we best support the minds and spirits of our warriors, both today and tomorrow?
+- **Outcome:** Upheld (1152-140)
+- **Notes:** This judgement was elevated by **Silas of the Cenotaph**, the [Cardinal of Wisdom](../../mixed/titles/Cardinal_of_Wisdom.md)
+
+### Judgement 47
+
+- **Assembly:** Highborn
+- **Raised By:** Doctor Lysimachus
+- **Judgement:** There at times is a perception amongst t'other nations that us highborn are a bunch of dour humourless types with sticks lodged in places things shouldn't be lodged (outside private consenting activity). The implication that we are such because we are a nation determined to be Virtuous in our actions implies a) a lack of understanding of the Way and b) that most folk who say this haven't actually spoken to most Highborn. Just because one is serious about virtue doesn't mean we lack humour, joy and all t'other stuff that makes a virtuous life enjoyable. So go out there me highborn siblings, let the nations see that while we work hard, we play hard, and that are capable of living, laughing, and loving life as anyone else.
+- **Outcome:** Upheld (356-32)
+
+### Judgement 49
+
+- **Assembly:** Marcher
+- **Raised By:** Larkin Otterways
+- **Judgement:** Marchers! Look to the loyal example of your generals. Look to the virtues in your pursuit of Stephen of Sarcombe. Despise treachery; the strongest may err, but deceivers will lie again.
+- **Outcome:** Upheld with a **Greater Majority** (172-0)
+- **Notes:** The location of the yegarra Stephen of Sarcombe is currently unknown; he was last seen during the battle of Two Barrel Field during the Winter Solstice 387YE
+
+### Judgement 50
+
+- **Assembly:** Loyalty
+- **Raised By:** Veikko Bondforger
+- **Judgement:** In my power as Keeper of Oaths, I commit the following Oath from Emperor Vesna to the Forge of Bonds. The Oath of Office of Emperor Vesna: I vow to stand side-by-side with my subjects and uphold what it means to be Imperial. I will recognise the virtue in struggle, service, and in hard choices made for the good of all. I will honour our oaths and treaties, act with virtue to all peoples, and extend the hand of friendship to those who would walk beside us. I will offer the hospitality of the hearth to the vulnerable, the disillusioned, and those who turn from us, and ensure that there is a place for all within the Empire. I vow to stand steadfast in the pursuit of strengthening this Empire, to place the needs of the Empire before my own, and to act with Courage, Wisdom, and Loyalty in all things so long as I am Emperor.
+- **Outcome:** Upheld (234-10)
+- **Notes:** The oath of Emperor Vesna has been added to the [Forge of Bonds](../../mixed/titles/Keeper_of_Oaths.md#forge-of-bonds)
+
+### Judgement 52
+
+- **Assembly:** Highborn
+- **Raised By:** Ehud
+- **Judgement:** Our ancestors worked in virtue in order to build the wealth and privilege that we benefit from today, both as a nation and an Empire. We recognise that there are others whose work was exploited, possessed and owned against their will, namely the predecessors of the nation we now call the Imperial Orcs. Without their blood, their sweat, and their tears, Highguard would not have been as affluent as we have been. While we as individuals are not to blame for that enslavement, we still all benefit from everything that was built upon their backs and with their hands. It is time as Highguard to recognise that, to realise what it is we owe these peoples and to work to see that appropriate recognition and reparations are made. There is a debt to be paid and we, the priests of the Highborn, speak out to see that Virtue is done in this.
+- **Outcome:** Upheld (358-82)
+
+### Judgement 53
+
+- **Assembly:** Dawnish
+- **Raised By:** Roland de Lagriffe
+- **Judgement:** QUEST INTO THE UNTROD GROVES. When the matter of the monarch of Dawn is settled and the Manticore has been destroyed, let the brave knights of Dawn seek glory in the Untrod Groves to destroy what servants and husks of the Manticore remain, to find the regios and places of power within, to unearth the mysteries and secrets of the ancient monster and to bring the light of Dawn to that benighted place. House de Lagriffe offers the hospitality of Heron Hall on the border of the Untrod Groves to all who would undertake such quests
+- **Outcome:** Upheld with a **Greater Majority** (410-24)
+
+### Judgement 55
+
+- **Assembly:** Courage
+- **Raised By:** Ioan Longshadow
+- **Judgement:** Courage is not only found in the charge. It is found in those who endure - who labour, who heal, who hold the line, and who continue when no song will be sung for them. Their deeds are unseen, but no less vital. No victory is won alone. Every blade raised relies on those who forged it, those who tended the wounded, and those who ensure the Empire endures beyond the moment of battle. To praise only the final blow is to forget the truth. Courage does not seek glory. It does what is right, regardless. Therefore, we recognise and honour the quiet acts of Courage - the unyielding, the unthanked, and the steadfast - for it is these that sustain the Empire when louder deeds fall silent.
+- **Outcome:** Upheld with a **Greater Majority** (210-12)
+
+### Judgement 57
+
+- **Assembly:** League
+- **Raised By:** Lia Adelaar van Holberg
+- **Judgement:** The League has successfully attracted other peoples into the Empire - witness Holberg and Apulian! We urge you to use your ingenuity and cleverness to identify who might next join the League and how we might attract them to be a partner in our great game. We seek to bring other sapient beings from all species into our great Empire and to the Way of Virtue, and where better to come then to this League of great cities. This is our highest calling.
+- **Outcome:** Upheld with a **Greater Majority** (404-0)
+- **Notes:** Further information on highest callings can be found in the **[The highest calling](../winds-of-fortune/The_highest_calling.md)** wind of fortune
+
+### Judgement 59
+
+- **Assembly:** Varushkan
+- **Raised By:** Alexei
+- **Judgement:** The Imperial Orcs are casting a ritual on the Galath Fields to allow people to speak to the dead. We call on storytellers and wise ones to speak to the human ghosts in the field of glory to help them move on, and allow the orcs to tend to the orcs there
+- **Outcome:** Withdrawn at the request of the raising priest (22-0)
+
+### Judgement 60
+
+- **Assembly:** Dawnish
+- **Raised By:** Earl of Fools
+- **Judgement:** Barrens won, Dawn looks to Horizons new; And in Wisdom learns from Tales of our Past. Dawn must prepare its next Glorious fight; Aid all nations in fight against vallorn. With Love, Glory, Virtue, all that Dawn is. Be the shield wall on which this foe shall break. Be the shining sword which the Empire wields. This is our Highest Calling.
+- **Outcome:** Upheld with a **Greater Majority** (376-166)
+- **Notes:** Further information on highest callings can be found in the **[The highest calling](../winds-of-fortune/The_highest_calling.md)** wind of fortune
+
+### Judgement 62
+
+- **Assembly:** Way
+- **Raised By:** Darian Numbers
+- **Judgement:** The assembly invites the Raboviches of False Hopes and Arbiter Aphroias of the Hall of the Newborn Sun to represent lucidianism at the upcoming symposium.
+- **Outcome:** Upheld (134-0)
+- **Notes:** The greater majority threshold for this judgement was 135. The [symposium of proscriptions](../winds-of-fortune/Stones_in_the_wellspring.md#a-convocation-of-condemnation) is due to take place at the Summer Solstice 388YE.
+
+### Judgement 64
+
+- **Assembly:** Varushkan
+- **Raised By:** Konstantin Rabovich Bolotnikov
+- **Judgement:** Spring marks five years since the final region of Ossium was conquered. The Empire came to we Ossians then, and swore it would not demean us as the scorpion had. It taught that Pride showed the worth of all, and Prosperity the importance of work and its rewards. Now Ossium thrives. Warded highways link the new port of Kostyjas Respite to fledgling vales across the territory. Orieb flourishes with trade from the great lumbermill of Kurstrozi, and the permanent magics of the Whistling Strand ensure our safety. This season let each night burn with grand celebration. Reflect on the transformation of the last five year, exalt the success of you and your companions, and pledge to reach even greater heights in the next five.
+- **Outcome:** Upheld with a **Greater Majority** (224-0)
+
+### Judgement 68
+
+- **Assembly:** Navarr
+- **Raised By:** Eirlys Ashes Blaze
+- **Judgement:** The Pilgrim's Defiance walked alongside Navarr's captains into Therunin. They did so knowing that three of ten of them would not return. Let the tale of this sacrifice shared in every wayhouse, sung on every road and held dear by every Navarri that looks to the future where Therunin is once again Navarri. May the blood spilled by the pilgrims further nourish the deep bond between Navarr and Highguard.
+- **Outcome:** Upheld with a **Greater Majority** (288-0)
+
+### Judgement 71
+
+- **Assembly:** Way
+- **Raised By:** Kosmas of the House of the Wanderer
+- **Judgement:** Six years ago the Black Plateau was roused at the Battle of Solen's Doubt. Its oppression thrives by severing us from each other and finally from ourselves. Upon this anniversary the Apstrus Dam and the Dreaming Spire have been raised. These twinned edifices reflect Virtue's power to exalt, transcending the boundaries of soul, spirit, and species. We call for pilgrimage to memorialise the past and form a phalanx of virtue for the future. For this year and years to come, let us make the anniversary the Dam and the Spire symbols to fortify the soul and kindle faith that the downward spiral also turns in the opposite direction. Pilgrims of the Way, our part in the pilgrimage is to show that there are seven virtues that guide the spirit. On this journey no one should walk alone. We can show how the pilgrims of each of the Virtues may strengthen one another and see into the others' blind spots. Hold together the phalanx of virtue against this insidious foe.
+- **Outcome:** Upheld (130-30)
+- **Notes:** The greater majority threshold for this judgement was 135
+
+### Judgement 73
+
+- **Assembly:** Wisdom
+- **Raised By:** Illya Nikovitch Volkov
+- **Judgement:** The Guardian of the Maze of Zoria calls for the aid of the wise ones of the Empire. The Maze of Zoria has proven in the past to be a conduit of knowledge regarding magical beings such as the sovereigns of Varushka. Come to the Maze of Zoria, together we shall discern the nature of the creature behind the face-peelers. This creature is known as "The Stranger", "The First One", or less commonly "The Smiling One". Let us learn of this threat to our Empire together.
+- **Outcome:** Upheld with a **Greater Majority** (328-0)
+- **Notes:**
+
+### Judgement 75
+
+- **Assembly:** Loyalty
+- **Raised By:** Jesper Luukasson
+- **Judgement:** For years, the Marches, the Freeborn, and the Winterfolk, have been engaged on the western front against the Jotun, Lasambrians and the Grendel. This war is ever-churning, the deaths are many, and they are out-numbered. The Loyalty Assembly seeks to strengthen the faithful and encourage all who are loyal to build our fellows on the western front up. This is our Highest Calling.
+- **Outcome:** Withdrawn at the request of the raising priest (34-10)
+
+### Judgement 77
+
+- **Assembly:** League
+- **Raised By:** Francesca di Spiral
+- **Judgement:** We welcome and recognise the judgement by Navarr (54). We recognise their highest calling and we welcome their aid.
+- **Outcome:** Upheld with a **Greater Majority** (328-10)
+- **Notes:** The judgement references [Judgement 54](#judgement-54)
+
+### Judgement 81
+
+- **Assembly:** Marcher
+- **Raised By:** Jedediah Boon
+- **Judgement:** William Guildenstern was recognised as a Marcher Folk Hero in 384YE. As my cousin Pipit Boon called out to our people in 385YE; "Let us sing his story for generations to come, across our territories." There is no better time than these - our homes under siege and our territories dividing - to draw Marchers to great Marcher deeds. As a Folk Hero walks among us as General of the Drakes, remember: Jonah Gold made weapons so fierce it turned a war's tide. Odd of Odd's End drained the Oddmire against the Marshwalker threat. Tom Drake struck down Alderei the Fair. William Guildenstern caught a falling star in his chest. All are Marchers, all fought our battles, all did deeds of great renown, all had rivals who would see them fail, and all are remembered in song.
+- **Outcome:** Upheld with a **Greater Majority** (152-20)
+
+### Judgement 82
+
+- **Assembly:** Marcher
+- **Raised By:** Friar John of the Mourn
+- **Judgement:** I, Friar John of the Mourn, am retiring from my role as Friar of Honour's Rest. I was granted what was to be the long task of tending the ailing spirits and restless ghosts of war-scarred Mournwold. With the repelling of the Jotun, the pilgrims visiting the newly constructed Orchard of the Watch, and the lingering dead now finding rest beneath Marcher earth, I believe my task is complete. I wish to acknowledge the Virtue of the faithful of the Greensward, who attended sermons and helped in the monastery's upkeep, particularly the friars of the Last of Overton. I wish to recognise the Courage, Loyalty, and Pride of those who stood with the monastery when the Jotun took the Greensward. I wish to thank the artists, labourers, and artisans who helped me build the Orchard of the Watch, even with the threat of the Jotun hanging over them. I wish quiet times and good fortunes for the next Friar of Honour's Rest. May they serve the good people of the Mourn well. May they show my greatest Pride, the Orchard of the Watch, the love and care such things require. May they hold themselves to a standard befitting this esteemed title. Go with Virtue, and thank you all.
+- **Outcome:** Upheld with a **Greater Majority** (150-10)
+
+### Judgement 83
+
+- **Assembly:** Way
+- **Raised By:** Brynn Tendfallen
+- **Judgement:** The Imperial Way is a beacon to the entire world, showing the path to Enlightenment. The light of that beacon must be tended and renewed to keep it burning bright. Virtue calls us to test what we know. Building a Way that is strengthened by questions, challenges, and revelations rather than being threatened by them is the Highest Calling of this Assembly.
+- **Outcome:** Upheld with a **Greater Majority** (268-30)
+- **Notes:** Further information on highest callings can be found in the **[The highest calling](../winds-of-fortune/The_highest_calling.md)** wind of fortune
+
+### Judgement 84
+
+- **Assembly:** Prosperity
+- **Raised By:** Isaia Pavone di Sarvos
+- **Judgement:** Desilav Sergeyvich Jesen has commissioned a number of works to enhance Varushkan mining interests and obtain funding for them from private citizens. They also built stronger trade links with the Thule by reducing taxes, creating routes for food convoys and generally enhancing the Northern Trade Network. His work in supporting the creation of a new Varushkan army was also noted by the Emperor in her recent address. For thus dutiful work to enhance Varushkan prosperity we appoint Desilav to the Roll of Benefactors
+- **Outcome:** Upheld (162-0)
+- **Notes:** A greater majority is required to add a name to the [Roll of Benefactors](../../mixed/government/synod/Roll_of_Benefactors.md). The greater majority threshold for this judgement was 178
+
+### Judgement 85
+
+- **Assembly:** Varushkan
+- **Raised By:** Rosanna Vtrachenich
+- **Judgement:** We in Varushka understand the importance of building roads into the unknown. In this regard we in the Varushkan National Assembly support our little siblings in Wintermark and their exploration of the unknown wastes of Tsirku.
+- **Outcome:** Upheld with a **Greater Majority** (208-30)
+
+### Judgement 87
+
+- **Assembly:** League
+- **Raised By:** Tongs
+- **Judgement:** All League citizens should welcome the seven bells of virtue and their bearers as they process through Temeschwar. Show them our recognition of how inspiring these bells are and hearing their stories and turning this with ours told through dramaturgy, dance and vibrant bridge duels aplenty.
+- **Outcome:** Upheld with a **Greater Majority** (326-0)
+
+### Judgement 88
+
+- **Assembly:** Loyalty
+- **Raised By:** Neri of Ebon's Hall
+- **Judgement:** The eternal Agramant is preying on those fleeing Therunin - offering them aid, and interdicted means for any to contact him for thanks or further 'help'. Those he preys on feel they are alone. That he is the only place they can turn. Along with Navarri guides, we call on Loyalty dedicants to travel to the places these Navarri refugees gather. We must prove to them they are not alone, and show them what loyalty is, and what it is not.
+- **Outcome:** Upheld (306-0)
+
+### Judgement 89
+
+- **Assembly:** Vigilance
+- **Raised By:** Lochias
+- **Judgement:** Six years ago the Black Plateau was roused at the Battle of Solen's Doubt. Its insidious influence thrives by turning half-truth into lies that consume our soul from within. Upon this anniversary the Apstrus Dam and the Dreaming Spire have been raised. These twinned edifices reflect how the virtuous have banished falsehood with truth. We call for pilgrims capable of protecting themselves against the Black Plateau to memorialise the past and form a phalanx for virtue for the future. For this year and years to come, let us make the anniversary the Dam and the Spire symbols to fortify the soul and kindle faith that the downward spiral also turns in the opposite direction. Pilgrims of Vigilance, our part in the pilgrimage is to be alert for the lies of the Accuser of Screed that would twist our thoughts and those of our fellows and thereby scatter our phalanx of virtue. We can cast out falsehoods and bring the light of Truth.
+- **Outcome:** Upheld (242-0)
+
+### Judgement 90
+
+- **Assembly:** Varushkan
+- **Raised By:** Maja Świętosława Przewałski
+- **Judgement:** We once said that we would build a new sinecure for the Preceptor of the Varushkan National Assembly rather than take from our own (J75, 383YE). Varushka will not convert another title for this. As current Preceptor I, with the aid of my cousins, will complete Yevanshka's Ambition and build the "Seat of the Preceptor" to act as the new Seat of Virtue in Varushka. The forest is nigh felled; the path is clear. Now walk this road with me cousins.
+- **Outcome:** Upheld with a **Greater Majority** (234-20)
+- **Notes:** This judgement references [Judgement 75](383YE_Autumn_Equinox_Synod_judgements.md#judgement-75) from the Autumn Equinox 383YE
+
+### Judgement 91
+
+- **Assembly:** Freeborn
+- **Raised By:** Luca i Taziel i Guerra
+- **Judgement:** We call upon the people of the Brass Coast to welcome the pilgrimage of the hallowed bells of virtue. The bell bearers come not to preach but to listen. Join your voice with the ringing of the bells and heed the tales of inspiration they bring from across the Empire. Embrace your virtue and that of your neighbours. Pass on your stories to the bell bearers and let the inspiration of your nation be carried forth, all the way to Bastion and the grand inspiration. We are dust, we are flame, we are glass. Let no virtue be forgotten.
+- **Outcome:** Upheld with a **Greater Majority** (150-18)
+
+### Judgement 94
+
+- **Assembly:** Loyalty
+- **Raised By:** Halkyon of the Myriad Stream
+- **Judgement:** Six years ago the Black Plateau was roused at the Battle of Solen's Doubt. Its shadow of horror thrives by blinding us to bonds; by imprisoning us with hatred and paranoia that severs us from each other and finally from ourselves. This anniversary the Apstrus Dam and the Dreaming Spire have been raised. These twinned edifices reflect how the virtuous build up their fellows. We call for pilgrims capable of protecting themselves against the Plateau to memorialise the past and form a phalanx for virtue for the future. For this year and years to come, let us make the anniversary the Dam and the Spire symbols to fortify the soul and kindle faith that the downward spiral also turns in the opposite direction. Pilgrims of Loyalty, our part in the pilgrimage is to show our fellows how our bonds make us who we are, and to call forth words and deeds that banish hate, dispel doubt and paranoia and renew our faith in one another.
+- **Outcome:** Upheld (204-0)
+
+### Judgement 96
+
+- **Assembly:** Ambition
+- **Raised By:** Callista of the Dark Shard
+- **Judgement:** Six years ago the Black Plateau was roused at the Battle of Solen's Doubt. Vile malignancy cast its shadow over Spiral. Upon this anniversary, the twinned edifices Apstrus Dam and the Dreaming Spire have been raised, reflecting how the virtuous have aspired to rebuild and create anew in the face of desolation and despair. We call for pilgrims of ambition, prepared against the Black Plateau's insidious influence, to come and memorialise the past and form a phalanx of virtue for the future. Demonstrate how the Ambitious turn fault and failure into growth and greatness! We can show that all pettiness and despair are merely shadows and turn eyes towards the light of our Ambition. Let us celebrate this anniversary with the remembrance: the downward spiral also turns in the opposite direction.
+- **Outcome:** Upheld with a **Greater Majority** (362-74)
+
+### Judgement 97
+
+- **Assembly:** Freeborn
+- **Raised By:** Azir i Shartha
+- **Judgement:** In order to look to the prosperity of the Brass Coast, there must be a Brass Coast to look to. Beset on all sides by enemies, the Freeborn must defend our borders against those who would invade them. This is our highest calling
+- **Outcome:** Upheld (96-72)
+- **Notes:** An Assembly's call to action requires a greater majority, as per the **[The highest calling](../winds-of-fortune/The_highest_calling.md)** wind of fortune
+
+### Judgement 98
+
+- **Assembly:** Vigilance
+- **Raised By:** Bryce the Hare
+- **Judgement:** In recognition of their virtuous work of commissioning Moor's Mill Publishing House, and the use of the Chair of the Wolf announcement, the Vigilance Assembly recognises the Printers' Guild as rightful custodians of the relic of Berechiah that will be donated by Esmerelda di Rodez to Berechiah's Basilica in Bastion, to be displayed in the Printers' Guild Museum of Wonder.
+- **Outcome:** Upheld (216-10)
+- **Notes:** Investment in [Moor's Mill Publishing House](../winds-of-fortune/The_truth_but_tell_it_slant.md#a-printers-shrine) has not yet been commissioned. If the [Chair of the Wolf](../../mixed/titles/Chair_of_the_Wolf.md) does announce the investment, then *Esmeralda di Rodez* will need to be contacted using [Call Winged Messenger](../../mixed/magic/rituals/Call_Winged_Messenger.md) once both the investment and the [work](../senate-motions/Repair_Berechiah-s_Basilica.md) to repair Berechiah's Basilica are complete. The relic will be delivered to whichever title is appointed to oversee the basilica of [Berechiah](../religion/Berechiah.md).
+
+### Judgement 100
+
+- **Assembly:** General
+- **Raised By:** Felix Saltspire
+- **Judgement:** It is six years since the Black Plateau was roused. Upon this anniversary the Apstrus Dam and Dreaming Spire have been raised: twinned edifices that show how the virtuous build up their fellows. We call on pilgrims to bear witness to the Empire's success in turning the downward spiral upwards and celebrate what can be achieved when nations work together. Let us build a phalanx of virtue where all citizens build up one another through their many paths and nations.
+- **Outcome:** Upheld (1428-182)
+
+### Judgement 101
+
+- **Assembly:** Wisdom
+- **Raised By:** Gwen Tendfallen
+- **Judgement:** Wisdom guides us in discerning truth from folly. We cannot allow our destiny to rest upon hearsay. Discerning the nature of virtue's role in our path to Enlightenment is the Highest calling of our Assembly.
+- **Outcome:** Upheld (152-130)
+- **Notes:** An Assembly's call to action requires a greater majority, as per the **[The highest calling](../winds-of-fortune/The_highest_calling.md)** wind of fortune
+
+### Judgement 103
+
+- **Assembly:** Prosperity
+- **Raised By:** Spurius Southshore
+- **Judgement:** It is six years since the battle of Solen's Doubt roused the Black Plateau. The leeching terror of this horror saps away the spirit and prosperity of the people of Spiral. Virtuous toil goes without its full and proper reward. The grasping hand of dread takes and gives nothing in return. This year the Dreaming Spire and Apstrus Dam have been completed. These works are the fruit of years of toil. Just as the dam guides the waters that bring Prosperity, we call the prosperous, those with the weapons to guard their spirits against the Plateau, to pilgrimage. Let those who can, journey to witness these works and turn the downward spiral upwards. Let those who cannot offer what they can to guard the spirits of those who shall travel. Let prosperity flow again in Spiral and the peoples toil be rewarded.
+- **Outcome:** Upheld (140-66)
+
+### Judgement 105
+
+- **Assembly:** Courage
+- **Raised By:** Nekoda of the Shattered Tower
+- **Judgement:** In the inspiration of the Hallowing of the Bard, it falls to the Courageous not only to show Courage but to uplift Courage in others. This falls doubly on us as priests of the Assembly of Courage. To ensure that those who do not fear to act are empowered to do so. But we cannot empower others without the tools to do so. As such, The Assembly of Courage looks to strength its members, title holders, and the abilities of the Assembly itself, such that we can empower all Pilgrims of Courage to face their Virtue, adapt their strategy, and never to trapped in inaction. This is the Highest Calling of our Assembly.
+- **Outcome:** Upheld (168-62)
+- **Notes:** An Assembly's call to action requires a greater majority, as per the **[The highest calling](../winds-of-fortune/The_highest_calling.md)** wind of fortune
+
+### Judgement 106
+
+- **Assembly:** Urizen
+- **Raised By:** Echo of the House of the Wanderer
+- **Judgement:** We the people of Urizen, welcome the pilgrimage of the Hallowed Bells of Virtue. The Bell Bearers come to listen not just to preach. Attend as the bells ring out and heed the tales of inspiration they bring from all across the Empire. Think upon the virtue of others as well as your own. Pass on your own stories to the Bell Bearers and let your arete be carried forth, all the way to Bastion and its Grand Inspiration of the Way to await all pilgrims! Let no virtuous soul be forgotten! Let no virtuous deed be overlooked! Let virtue inspire!
+- **Outcome:** Upheld with a **Greater Majority** (238-0)
+
+### Judgement 107
+
+- **Assembly:** Wintermark
+- **Raised By:** Daniel "The Tree" Winesson
+- **Judgement:** Trencher "Smoulder in the Cold" has shown great prosperity to the Mark by completely self-funding the lighthouse Trencher's Shining Ambition. A lighthouse that will aid our fleets and bring great prosperity. The priests of the Wintermark Assembly would like to express the gratitude of all of Wintermark for this prosperous act.
+- **Outcome:** Upheld with a **Greater Majority** (226-0)
+
+### Judgement 109
+
+- **Assembly:** Pride
+- **Raised By:** Harwyn Eternal
+- **Judgement:** Six years ago the Black Plateau was roused at the Battle of Solen's Doubt. Its self-enclosed spirit demeans the soul. Upon this anniversary the Apstrus Dam and Dreaming Spire have been raised: twinned edifices that show how the virtuous have embraced the past and inspired one another to greatness. We call upon pilgrims who can defend themselves against the Plateau to bear witness to the Empire's success to memorialise the anniversary and build a phalanx of virtue. Pilgrims of Pride: our path in the pilgrimage is to inspire the excellence that dwells within our fellows and foster respect between people and nations, crack open the self-enclosed spirit and dispel hatred and rage.
+- **Outcome:** Upheld (152-32)
+- **Notes:** The greater majority threshold for this judgement was 163
+
+### Judgement 110
+
+- **Assembly:** League
+- **Raised By:** Jules von Holberg
+- **Judgement:** The League National Assembly applauds the ambition and loyalty of Dr Edwig von Holberg to create a Bill of Mortality, honouring all citizens of the League at Anvil who pass through the Labyrinth, not only those who fall beyond the Gate. We call upon the League to support this endeavour.
+- **Outcome:** Upheld with a **Greater Majority** (288-0)
+
+### Judgement 112
+
+- **Assembly:** Vigilance
+- **Raised By:** Martin Orchard
+- **Judgement:** This assembly believes the tomb of Ravadi Founders' Dance should be built in Madruga, site of their last sacrifice, site of their eventual victory. Where they fought against the poison in their neighbour's parched fields.
+- **Outcome:** Upheld (240-0)
+- **Notes:** References the writ of consecration [raised](../winds-of-fortune/388YE_Spring_Equinox_winds_of_fortune.md#where-is-ravadis-tomb) last season
+
+### Judgement 117
+
+- **Assembly:** Highborn
+- **Raised By:** Exarch Micah of the Navigators of Virtue
+- **Judgement:** The Grand Inspiration of the Way will stand for many generations to come. Let us start to engage the children of Highguard now, so that other nations will follow. Let us invite them to prepare art of all kinds; songs, paintings, sculptures etc. in collaboration with priests of their chapters so that they may be featured in the Grand Opening of the Grand Inspiration in a celebration of Imperial Paragons and Exemplars, new and old. For the Empire that could be!
+- **Outcome:** Upheld (370-0)
+
+### Judgement 118
+
+- **Assembly:** Urizen
+- **Raised By:** Theodora
+- **Judgement:** Stargazers, we call for your expertise in the Sarangrave. The vallorn there is unique because of the warding and containment. It is possible it may be susceptible to unique methods and have unique weaknesses. We have learnt all we can through the existing knowledge from the library of Hacynian so we look to you for new paths. A commitment has been made to end the vallorn in our lifetime. Go forth, but take caution in Nesustak and Bloodwater Marsh
+- **Outcome:** Upheld with a **Greater Majority** (240-14)
+
+### Judgement 121
+
+- **Assembly:** Courage
+- **Raised By:** Ada of House Meliora
+- **Judgement:** The Druj threat is not ended until every soul affected is freed of the fear they have wielded. It is our duty as priests of Courage to not only shed light upon the courageous but to also walk the fearful out of darkness. Let us learn everything we can about the auras of fear, how they have been created and how we can best combat them, that we may work spiritually to liberate the sept of the Sarangrave from their cruel captors once and for all. This is our highest calling.
+- **Outcome:** Upheld with a **Greater Majority** (202-10)
+- **Notes:** Further information on highest callings can be found in the **[The highest calling](../winds-of-fortune/The_highest_calling.md)** wind of fortune
+
+### Judgement 122
+
+- **Assembly:** Navarr
+- **Raised By:** Brynmor Rootround
+- **Judgement:** The Manticore marches to wear the Dawnish crown, and amongst the followers are those of the brutal. It has come to the attention of the assembly that their eyes turn to the great forest orcs, to seeing them removed in the way Archavion would have seen for the Rahvin. The assembly and all Navarr that bear the oath of "Protecting the Great Forest Orcs as though they were our family" seek to remind the brutal that regardless of the result of this tourney, that Navarr looks after our own - and that a knife in the back is just as effective as a sword in the front.
+- **Outcome:** Upheld (198-40)
+
+### Judgement 123
+
+- **Assembly:** Urizen
+- **Raised By:** Solas of the Spire of the First Light
+- **Judgement:** The vallorn comes for Nesustak, home of the Bloodwater Spears and the Waterwalkers. The Military Council is charged with defending the Empire; these septs are not Imperial. We cannot guarantee their safety in Nesustak, but can offer them succour elsewhere if they wish to take it. Nesustak may fall, but the children of the spires can take in its people - offer them food and shelter; show them the lies of the buruk tepel, our new homes in the Sarangrave may be sparse and tenuous, but actions such as these reinforce more than they risk. Offer an open hand, but offer no mercy to those who show treachery.
+- **Outcome:** Upheld with a **Greater Majority** (234-0)
+
+### Judgement 130
+
+- **Assembly:** Navarr
+- **Raised By:** Xandor Trodbroker
+- **Judgement:** The refugees of Therunin are being manipulated by Agramant into believing he is their only option for help. He targets those who are weak and alone, and seeks to gain access to their spirits and our nation. We call upon Navarr to remind these refugees we are here and we support them. Open your doors if you can and stop Agramant from targeting those in need.
+- **Outcome:** Upheld with a **Greater Majority** (256-0)
+
+### Judgement 131
+
+- **Assembly:** Courage
+- **Raised By:** Leonora Albertina van Holberg
+- **Judgement:** Six years ago, the Black Plateau was roused at the battle of Solen's Doubt. Its craven spirit thrives by playing on our fears; using them as secret gates to dominate our thoughts. Upon this anniversary the Apstrus Dam and the Dreaming Spire have been raised: twinned edifices that reflect how the virtuous have refused to accept desolation and ruin as final defeat. We call upon pilgrims to bear witness to the Empire's success in turning the downward spiral upwards. Let us build a phalanx of virtue where all citizens build up one another. Pilgrims of Courage, our part is to show our fellows how to turn to face our shadows, how to face unwelcome truths without succumbing to bitterness or despair - fear is an opportunity to show courage.
+- **Outcome:** Upheld (184-0)
+- **Notes:** The greater majority threshold for this judgement was 187
+
+### Judgement 132
+
+- **Assembly:** Freeborn
+- **Raised By:** Dayanara i Cabeza i Erigo
+- **Judgement:** Freeborn should heed the wisdom of the Hakima. It is virtuous, with guidance of our nations priests, Conclave, and in accordance with Imperial law, to hold conversations with Heralds, to ensure no potential opportunity to benefit the Empire is missed. Act with Wisdom. Act with Vigilance. Act with Prosperity. Seek counsel, garner information, benefit the Empire
+- **Outcome:** Upheld with a **Greater Majority** (132-0)
+
+### Judgement 133
+
+- **Assembly:** Freeborn
+- **Raised By:** Malaki
+- **Judgement:** To promote the prosperity of Feroz, we encourage the Freeborn to trade with their neighbours in the Protectorate of Morajasse
+- **Outcome:** Upheld (102-10)
+- **Notes:** The greater majority threshold for this judgement was 105
+
+### Judgement 134
+
+- **Assembly:** Freeborn
+- **Raised By:** Lita i Nadir i Riqueza
+- **Judgement:** As we look to the foundation of the Burning Agora, and the rekindling of the Firebrands of our nation. Look to Guerra as your example. We urge our Firebrands to use their forum to push for social change, build bridges, and speak on how to drive the Coast and the Empire forward together in virtue, morality, and the ever-changing Way. We welcome our Highborn siblings to join our debate in Peerless Kinship
+- **Outcome:** Upheld with a **Greater Majority** (158-0)
+- **Notes:** This judgement is paired with [Judgement 144](#judgement-144)
+
+### Judgement 135
+
+- **Assembly:** Varushkan
+- **Raised By:** Nikolai "The Butcher"
+- **Judgement:** The people of Varushka do hereby offer thanks and great gratitude to the ancient and venerable Charnel Lord. Their continued interest and assistance with the conflicts on the Eastern Front has strengthened our cause against the Vile Barbarians. In the name of the National Assembly of Varushka, Alderai the Fair - Last General of the IRON HELMS and the citizens of the Empire.
+- **Outcome:** Upheld with a **Greater Majority** (196-0)
+
+### Judgement 136
+
+- **Assembly:** League
+- **Raised By:** Fabio Costas d'Apulian
+- **Judgement:** The Sand Fishers seek reassurance that their liberty will not be compromised through closer ties with the Empire. We encourage the citizens of Holberg to reach out in friendship, and share their experiences of the many opportunities our citizens enjoy within the law and virtue of the Empire
+- **Outcome:** Upheld with a **Greater Majority** (302-0)
+
+### Judgement 137
+
+- **Assembly:** Freeborn
+- **Raised By:** Sagremar i Leons del Mar i Coeurdefer i Riqueza
+- **Judgement:** The contract is the heart of our nation, the written word is our bond, tying us together and unifying us despite our diversity. We call upon the Coast to enshrine their contracts and the traditions of scrivening, to consider their ties, loyalties and obligations to each other, and uplift the scriveners who formalise the ties we freely choose. This is our highest calling.
+- **Outcome:** Upheld (86-72)
+- **Notes:** An Assembly's call to action requires a greater majority, as per the **[The highest calling](../winds-of-fortune/The_highest_calling.md)** wind of fortune
+
+### Judgement 138
+
+- **Assembly:** Prosperity
+- **Raised By:** Heilyn Bronwen's Rest
+- **Judgement:** The Empire has grown, but not without great costs. Many of the lands and people within it bear scars from the conflicts which have been brought to them, or from the actions of those who held power before. We call upon the Prosperous to look for opportunities that will help to bring Prosperity to the damaged territories of the Empire and the people within them. Strive, toil and claim your just rewards - and give those who deserve it the chance to strive, toil and claim in their own turn. This is the Highest Calling of the Prosperity Assembly.
+- **Outcome:** Upheld with a **Greater Majority** (241-0)
+- **Notes:** Further information on highest callings can be found in the **[The highest calling](../winds-of-fortune/The_highest_calling.md)** wind of fortune
+
+### Judgement 139
+
+- **Assembly:** Freeborn
+- **Raised By:** T’ i Dahr i Riqueza
+- **Judgement:** Priests, go forth and preach to your congregations that it is virtuous to be courageous, so you should display your courage and bolster our national unity with the creation of a SAIL BELL on every clifftop as a new piece of our national character. Like a lighthouse it shines on the heart, but rings into the night just as our anklets when we dance, and serving as a memorial of all those lost at sea, and all those sailing as we stand on the shore.
+- **Outcome:** Not upheld (52-72)
+
+### Judgement 140
+
+- **Assembly:** Wintermark
+- **Raised By:** Vidarr Rune-Bound
+- **Judgement:** These are the words of Kali Keen-Eye, Winter's Whisper and Vidarr Rune-Bound. Kaarina White-Eye, I would have words. Are you a cautionary tale or a Hero of Wintermark? I see the actions that led you to the Howler. I see Loyalty and the terrible choice in grief. True Loyalty to your Children and Sermersuaq, both taken from you by the Jotun. But Wintermark got both back! We weren't there to aid you so you made the hardest choice. I understand, but it was the wrong choice. Has the Hunter in the Wastes proven its strength by retrieving your children? No, it was Wintermark and Dawnish blood that regained every slave taken by the Jotun in Sermersuaq. Ville, Ymma, and Eadric are safe and warm in Wintermark bed. Your Oath to not rest until we gain everything back the Jotun took from us. We raided deep into Skallahn and have a thrones ransom in Jotun Fortifications. We even shattered the very Gates of Kierheim! I say we have taken our share back and then some. We are both Suaq, let us talk and see if your Skein will be truly obliterated or does the Heroes blood still lie within you.
+- **Outcome:** Upheld (98-0)
+- **Notes:** [Kaarina White-Eye](../winds-of-fortune/Anyone_but_you.md#kaarina-white-eye) is one of the two remaining ringleaders of Agramant cults most active in [Sermersuaq](../nations/wintermark/Sermersuaq.md)
+
+### Judgement 141
+
+- **Assembly:** Pride
+- **Raised By:** Sufyan i Zuhri i Guerra
+- **Judgement:** To lift up those who others would tear down, to raise to greatness those who we see the greatness in, even in their most dire circumstance. As the Empire ends for good the tyranny of the Buruk Tepel, liberating their beleaguered, long-terrified septs, we hold that liberating and uplifting them and others like them is our highest calling. Through the Proffered Hand Network of sanctuaries across the Empire, we will grow these seed of potential to brilliant flowers. These centres of healing, education, and rehabilitation will help them find their place in the Empire. To uplift the enslaved, the oppressed, the overlooked. This is the Highest Calling of our Assembly.
+- **Outcome:** Upheld (140-10)
+- **Notes:** An Assembly's call to action requires a greater majority, as per the **[The highest calling](../winds-of-fortune/The_highest_calling.md)** wind of fortune
+
+### Judgement 142
+
+- **Assembly:** Highborn
+- **Raised By:** Diemos
+- **Judgement:** Although Ahraz was Freeborn, he was an inspiration to us all. In conjunction with the writ of consecration and judgement raised by Ehud, we call for the unsealing of his tomb and invite the Imperial Orcs to add items of worth to his tomb, alongside the Honour Guard.
+- **Outcome:** Upheld (258-0)
+
+### Judgement 143
+
+- **Assembly:** Pride
+- **Raised By:** The Boyarina Nisha Strazcovich
+- **Judgement:** The summer summit is the Boyarina's Festival of Pride, celebrating the skills of the Empire's craftspeople. The Pride Assembly encourage the citizens of the Empire to celebrate this in their local community. Recognise the talents of those who create, who build, and make our everyday items. Weavers, stonemasons, textiles and art all demonstrate the wealth of the Casinea Empire. Take Pride in what you make and show pride in the skills of others and let them know.
+- **Outcome:** Upheld with a **Greater Majority** (164-0)
+- **Notes:** The greater majority threshold for this judgement was 163
+
+### Judgement 144
+
+- **Assembly:** Highborn
+- **Raised By:** Nim, of Ebon's Hall
+- **Judgement:** The Freeborn have a great opportunity ahead of them. By building the burning agora, the Firebrands will be revived and vigorous debate will begin in Anduz. This will spell a great era of discovery among the Freeborn, but they must remain Vigilant. The Highborn Assembly are well-posed to support the Firebrands in pushing the Way to excellence. There are no better partners in debate. In this, we provide our Peerless Kinship
+- **Outcome:** Upheld (250-12)
+- **Notes:** This judgement is paired with [Judgement 134](#judgement-134)
+
+### Judgement 145
+
+- **Assembly:** Highborn
+- **Raised By:** Rinnah
+- **Judgement:** The Highborn Assembly invite the Voices of Virtue assemblies to be the first to take up offices in the Grand Inspiration of the Way because they and the edifice are united in our will: to spread the Way to all sapient people
+- **Outcome:** Upheld (300-10)
+- **Notes:** The Highborn looked for [guidance](../winds-of-fortune/Lay_the_foundations.md#choices) on which titles should be given offices in the Grand Inspiration of the Way
+
+### Judgement 146
+
+- **Assembly:** Navarr
+- **Raised By:** Nathair Autumngale
+- **Judgement:** Navarr, our songs carry along the trods still further. We do not know how long this music will last, but we should take it and share it along the trods all we can. In Brocéliande we first started the steps for this song. Now in Bregasland, the land where the Dance of Blood fell, the site of Graven Rock too resonates with song. The song "Story of Dance" written by Blair Swifthart too was performed for our founders. While music follows in our wake, so too should we try to encourage the spread of our song. This season, as we learn more of the history of the Dance of Blood, let us bring this song to the lands of the nation where they fell.
+- **Outcome:** Upheld with a **Greater Majority** (232-0)
+
+### Judgement 147
+
+- **Assembly:** Navarr
+- **Raised By:** Locke Nightgrove
+- **Judgement:** Bees are a vital part of our ecosystems. Farms, gardens, forests, we rely on them for food. Varushka have noted a loss of their bees from the destruction of the Cold Sun. Miaren experienced damage from the invasion too and we call on the vigilant citizens of the territory to check and care for our bees.
+- **Outcome:** Upheld with a **Greater Majority** (254-0)
+
+### Judgement 148
+
+- **Assembly:** Navarr
+- **Raised By:** Neala Blackhawk
+- **Judgement:** NAVARR WELCOME AND WITNESS. The pilgrimage of the HALLOWED BELLS of VIRTUE. The Bell Bearers come to tell tales of inspiration and virtue from all across the Empire. Let our songs and stories fill the bells so the bearers can carry our tales far and wide. To Bastion and the Grand Inspiration of the Way.
+- **Outcome:** Upheld (192-24)
+
+### Judgement 152
+
+- **Assembly:** Wintermark
+- **Raised By:** Eevi of the Gadrai
+- **Judgement:** Our scars show our battles fought and not all scars can be seen. To all those in the Mark who are lost, who have strayed from the path, your crows can guide you back to the Way and help mend your skein. Just as we guided Valdr Grieversson, dedicating him to Loyalty so he can start mending his skein but the work is not done. Let us build a wayhouse for the lost on the Gireversson farmstead. Let us bring them in from the cold.
+- **Outcome:** Upheld with a **Greater Majority** (232-0)
+
+### Judgement 154
+
+- **Assembly:** Urizen
+- **Raised By:** Theodoretos of the Wise Citadel
+- **Judgement:** Rejoice lightstone sellers of Urizen! Our stock has greatly helped miners of Varushka ward off the darkness. I now encourage us to look further and seek out trade opportunities for our lightstones and illumination skills for other nations. Ambition and Prosperity demands it. c/o Felix of the Wise Citadel Architect of Illumination
+- **Outcome:** Upheld with a **Greater Majority** (186-0)
+
+### Judgement 155
+
+- **Assembly:** Wisdom
+- **Raised By:** Leyna Sunshaper
+- **Judgement:** Six years ago the Black Plateau was roused at the Battle of Solen's Doubt. Its self-contemplating shadow festers in folly: "that is sufficient" it pronounces and fixes minds in ignorance. Upon this anniversary the Apstrus Dam and the Dreaming Spire have been raised: twinned edifices that reflect how the virtuous have applied the lessons of the past. We call upon pilgrims to bear witness to the Empire's success in turning the downward spiral upwards. Let us build a phalanx of virtue where all citizens build up one another. Pilgrims of wisdom, our part is to encourage our fellow to ask the right questions. Curiosity shall test and shatter the assumptions that rage and despair grow within.
+- **Outcome:** Upheld (132-60)
+
+### Judgement 156
+
+- **Assembly:** Wintermark
+- **Raised By:** Otso Usvaling
+- **Judgement:** In the spirit of forging a greater bond between our nations, and in honour of the Fist of the Mountains, we invite the stargazers of Urizen to meet with the mystics of Kallavesa within our swamps. We would share wisdom over the way we build, live and thrive within the swamp with the ambition to help further your aims in the Sarangrave.
+- **Outcome:** Upheld with a **Greater Majority** (188-0)
+
+### Judgement 161
+
+- **Assembly:** League
+- **Raised By:** Lorenzo von Apulian
+- **Judgement:** The League National Assembly calls the orcs of the League to experiment and investigate new potential way to interact and learn from the ancestors using Leaguish hearth magic.
+- **Outcome:** Upheld with a **Greater Majority** (274-0)
+
+### Judgement 163
+
+- **Assembly:** Prosperity
+- **Raised By:** Fredegar Bloodmouth
+- **Judgement:** We applaud the Prosperous actions of the Sarcophan Delves in creating the Pax Sarcophan - a public commitment from the Delves that they will not tolerate piracy of merchant vessels of other nations, they will not permit any nation to threaten international trade. Despise the thieving bandit, the lazy wastrel, the grasping miser, and those who take without giving.
+- **Outcome:** Upheld (134-0)
+- **Notes:** The Pax Sarcophan was [established](../winds-of-fortune/Can-t_give_everything_away.md) shortly after the Spring Equinox 387YE
+
+### Judgement 164
+
+- **Assembly:** Urizen
+- **Raised By:** Caduceus of Aureate Peak
+- **Judgement:** We accept the offer of the representatives of the Tribunal of the Silver Flame to send their sentinels to aid the efforts of the Military Units of the League, Dawn, and Urizen in mapping the City Below. We bear witness to their Loyalty to Spiral in taking this action.
+- **Outcome:** Upheld with a **Greater Majority** (174-0)
+
+### Judgement 165
+
+- **Assembly:** League
+- **Raised By:** Taddea Ginori
+- **Judgement:** The League National Assembly would be honoured to welcome the Tribunal of the Silver Flame's assistance in mapping the City Below in Apulian and thanks for them for reaching out.
+- **Outcome:** Upheld with a **Greater Majority** (284-0)
+
+### Judgement 167
+
+- **Assembly:** Varushkan
+- **Raised By:** Kalina Jadwigowna Piosnkowa Prochnost
+- **Judgement:** Cousins! We have an opportunity to destroy the Sumisev Peegel regio in Livardz. We the Varushkan National Assembly name Armand Remislav to organise and lead the effort. There is no welcome for Cold Sun - no door we will not bar
+- **Outcome:** Upheld (148-0)
+
+### Judgement 170
+
+- **Assembly:** Marcher
+- **Raised By:** Ralph Godwin
+- **Judgement:** Marchers, our wise smiths are currently collating a map of active and resting regio across the Marches. This assembly calls upon the courageous folk of the Marches to send information on regio, be it specific locations, realms of magic or relevant legends to their local smith, especially Gemma Brightsmith, so they may continue their important work in our nation.
+- **Outcome:** Upheld with a **Greater Majority** (182-0)
+
+### Judgement 174
+
+- **Assembly:** Way
+- **Raised By:** Exarch Zerithel Of Adoniram's Testament
+- **Judgement:** We note with caution the actions of Dawn in Highguard. And we fear that some in Dawn are being consumed by the false virtue of Vengeance. We urge the Dawnish to forsake Vengeance and return the 7 true virtues. We ask the troubadours of Dawn to rectify this international schism
+- **Outcome:** Not upheld (26-72)
+
+### Judgement 175
+
+- **Assembly:** Nine
+- **Raised By:** Volya Nebov
+- **Judgement:** The assembly calls for interested citizens to apply during the summer summit, at a time and place to be announced in public advertisements around Anvil, for future involvement in the doctrinal review council.
+- **Outcome:** Upheld with a **Greater Majority** (6-0)
+
+### Judgement 176
+
+- **Assembly:** Nine
+- **Raised By:** Silas of the Cenotaph
+- **Judgement:** The Assembly of Nine appoints Wulfric of the Marches to lead the Proscription Symposium. We are satisfied with the oath sworn in our presence and the intent of this symposium. We will continue to observe this with keen interest.
+- **Outcome:** Upheld with a **Greater Majority** (6-0)
+
+### Judgement 177
+
+- **Assembly:** Nine
+- **Raised By:** Lenarius Ankarien
+- **Judgement:** We have long considered that actions which can damage a soul should bear the full weight of Imperial law. However at this this time there is no legal framework that allows us to directly proscribe this. We call upon Senate to create a new religious crime of harming the soul.
+- **Outcome:** Upheld with a **Greater Majority** (6-0)
+- **Notes:** Any member of Senate intending to create such a law would be well advised to [consult](mailto:plot@profounddecisions.co.uk) the Constitutional Court before bringing it to the Senate.
+
+### Judgement 178
+
+- **Assembly:** Nine
+- **Raised By:** Adelorna de Órdraig
+- **Judgement:** The Assembly of Nine acknowledges the deep impact of Olyvar of Esther's Sanctum on the Empire. Their loss this summit is felt heavily by the Assembly. Olyvar's work changed a nation, inspired an assembly, and is illustrated by the many title holders, national representatives, and holders of state who attended his last moments. The Assembly of Nine recognises the widespread effect that Olyvar had and looks forward to the Pride Assembly's recognition
+- **Outcome:** Upheld with a **Greater Majority** (6-0)
+
+### Judgement 180
+
+- **Assembly:** Imperial Orc
+- **Raised By:** Skywise Gralka
+- **Judgement:** The Imperial Orc nation accepts the wisdom of the northern folk. Teach us the ways of snow and climb, let us learn from those who came before us. Varushka and Wintermark be our guide as we share your journey into Tsirku
+- **Outcome:** Upheld with a **Greater Majority** (60-0)
+
+## Mandate
+
+### Judgement 3
+
+- **Assembly:** Dawnish
+- **Raised By:** Ser Decimus of House de Bastion
+- **Judgement:** Where they have sown fear, we will make flowers grow. We send Ser Decimus of House de Bastion with 25 doses of liao to encourage Dawn to take up arms. Glory is there for the taking.
+- **Outcome:** Upheld (356-26)
+- **Enacted** [Dawnish owners](../winds-of-fortune/Push_for_victory.md#greatest-military-force) of a [business](../../out-of-character/rules/Business.md), [farm](../../out-of-character/rules/Farm.md), [fleet](../../out-of-character/rules/Fleet.md), [herb garden](../../out-of-character/rules/Herb_garden.md), [mana site](../../out-of-character/rules/Mana_site.md), [mine](../../out-of-character/rules/Mine.md), or [forest](../../out-of-character/rules/Forest.md) can change to to a [military unit](../../out-of-character/rules/Military_unit.md) of the same resource level in the same territory without incurring a cost. Players wishing to take advantage of this opportunity should [plot@profounddecisions.co.uk](mailto:plot@profounddecisions.co.uk).
+
+### Judgement 26
+
+- **Assembly:** Highborn
+- **Raised By:** Ada of Balthazar's Vineyard
+- **Judgement:** The prosperity of our Varushkan kin is threatened by the harm done to the bees of Karov. With hard work, we can help them quell the fear that has overtaken their bees, and with the inspiration of Kvetmir Kvetmirovic renew trust between that symbol of Prosperity and the people of the vales. We send Ada of Balthazar's Vineyard with 50 doses of liao to spread auras of Prosperity, and to support the work of the vale of Zoloto to right what the Cold Sun has unbalanced.
+- **Outcome:** Upheld (424-0)
+- **Enacted** This mandate will help spread the inspiration of *Kvetmir Kvetmirovic*, and the [expertise of the beekeepers of Zoloto](../winds-of-fortune/Saint_of_Bees.md#ceremonies-of-prosperity). This will prevent the situation with bees in Varushka getting worse, and will slowly encourage bees to take residence in their hives again. It will take at least a year, and bee populations are unlikely to recover completely, but it will ensure there is no measurable impact on the prosperity of southern Varushka, and no lasting damage to the Prosperity of herb gardens, farms, forests, or businesses.
+- **Notes:** The greater majority threshold for this judgement was 426
+
+### Judgement 32
+
+- **Assembly:** General
+- **Raised By:** Skaldsgrym
+- **Judgement:** The Virtuous build up their fellows, they do not tear them down. We send Erlend with a dose of true liao to consecrate the Virtuous shrine at the Meeting Place. Let us display our Loyalty through the unity of words and deeds.
+- **Outcome:** Upheld (1490-60)
+- **Enacted** Erlend will be responsible for a conjunction to the [shrine on the grounds of Gull's Isle Hall](../winds-of-fortune/Who_counts_the_path_untaken.md#the-chains-that-bind-us) at the Summer Solstice 388YE.
+
+### Judgement 48
+
+- **Assembly:** Wintermark
+- **Raised By:** Thritt
+- **Judgement:** Mortal Ambition can conquer any obstacle, and unravel any mystery. We send Thritt with 100 doses of liao to urge the guides and explorers of Wintermark to reach out to their fellow Imperials and share the Wisdom of the wastes.
+- **Outcome:** Upheld with a **Greater Majority** (220-0)
+- **Enacted** The [penalty suffered by military units](../winds-of-fortune/Snap_rope_and_pass_foil.md) from nations other than Wintermark or Varushka when operating in the wastes will be reduced from a three-rank penalty to a one-rank penalty. This will apply whether they are scouting or exploring in Tsirku.
+- **Note:** As Thritt is a [banner-bearer](../nations/wintermark/Wintermark_military_concerns.md#banner-bearers), this mandate only cost one hundred liao
+
+### Judgement 54
+
+- **Assembly:** Navarr
+- **Raised By:** Teleri Thornweaver
+- **Judgement:** The Virtuous raise up their fellows. Any nation willing to raise arms and join the Vallornguard shall have our full support. We send Teleri Thornweaver with 50 doses of liao to lead our people in sharing everything we have with the League to prepare to finish the fight.
+- **Outcome:** Upheld with a **Greater Majority** (252-0)
+- **Enacted** Navarr from all walks of life [will travel to the named nation looking for ways to help](../winds-of-fortune/Every_path_you_know.md#thanks-for-sharing). This will generate at least one opportunity for a new Imperial title to help the Vallornguard prepare for the fight with the enemy.
+
+### Judgement 58
+
+- **Assembly:** Freeborn
+- **Raised By:** Ignacio i Zuhri i Erigo
+- **Judgement:** All things can have a price. We send Ignacio i Zuhri i Erigo with 50 doses of liao to encourage the Freeborn to hawk their wares to all and sundry. Strive, toil, and claim the just rewards of your labours!
+- **Outcome:** Upheld with a **Greater Majority** (158-0)
+- **Enacted** Encourages citizens across the Brass Coast to celebrate [those Freeborn who are committed to taking every opportunity to turn a profit](../winds-of-fortune/On_the_road_ahead.md#city-of-deals), ignoring those who called for propriety or charity.
+
+### Judgement 65
+
+- **Assembly:** Freeborn
+- **Raised By:** Isario i Riqueza
+- **Judgement:** We prize freedom and disdain arrogance. We send Isario i Riqueza with 50 doses of liao to encourage the citizens of Segura to create a place to discuss doctrine and encourage free thinkers. Every being deserves to live the life they want in the manner they wish.
+- **Outcome:** Upheld with a **Greater Majority** (154-0)
+- **Enacted** Encourage citizens across the Brass Coast to celebrate the [legacy of the firebrands](../winds-of-fortune/On_the_road_ahead.md#city-of-passions) - the historical example set by the followers of Emperor Ahraz as well as those living exemplars who share their forebear's commitment to Virtue without doubt or fear, regardless of the disapproval of others
+
+### Judgement 108
+
+- **Assembly:** Freeborn
+- **Raised By:** Val
+- **Judgement:** Life is short, let it never be dull! We send Val with 50 doses of liao to encourage the Freeborn to blaze new trails. Aim high and pursue your dreams, no matter the dangers.
+- **Outcome:** Upheld with a **Greater Majority** (148-10)
+- **Enacted** Encourage citizens across the Brass Coast to celebrate the [trailblazers amongst them](../winds-of-fortune/On_the_road_ahead.md#city-of-adventure) - they will applaud those Freeborn who are committed to overcoming challenges, regardless of the costs and heedless of the risks.
+
+### Judgement 126
+
+- **Assembly:** Wintermark
+- **Raised By:** Dag Kinnad
+- **Judgement:** Prosperity says that we should share our bounty with those who are worthy of it, and the heroes who pursue the dream to Tsirku cannot help but be worthy. We send Hildelith Kaukosdottir with 50 doses of liao to urge the farmers and herders of Sermersuaq to support those who risk the wasteland as best they can.
+- **Outcome:** Upheld with a **Greater Majority** (198-0)
+- **Enacted** Reduces the benefit provided to farms in Sermersuaq by the Smokehouse of Atalaq. [Surplus provisions suitable for use in Tsirku](../winds-of-fortune/Snap_rope_and_pass_foil.md#tsirku-is-comprehensible) will be sent to support the scouting network. For as long as these supplies are committed, each season a strength of 500 will be committed to the scouting network. This won't be enough to operate the network by itself, but it will bolster efforts in the north.
+
+### Judgement 128
+
+- **Assembly:** Wintermark
+- **Raised By:** Yrkja Riansson Sigeing
+- **Judgement:** A good death awaits us. We send Yrkja Riansson Sigeing with 25 doses of liao to encourage Wintermark to ready themselves for war. A hero has a name.
+- **Outcome:** Upheld (156-20)
+- **Enacted** [Wintermark owners](../winds-of-fortune/Push_for_victory.md#greatest-military-force) of a [business](../../out-of-character/rules/Business.md), [farm](../../out-of-character/rules/Farm.md), [fleet](../../out-of-character/rules/Fleet.md), [herb garden](../../out-of-character/rules/Herb_garden.md), [mana site](../../out-of-character/rules/Mana_site.md), [mine](../../out-of-character/rules/Mine.md), or [forest](../../out-of-character/rules/Forest.md) can change to to a [military unit](../../out-of-character/rules/Military_unit.md) of the same resource level in the same territory without incurring a cost. Players wishing to take advantage of this opportunity should [plot@profounddecisions.co.uk](mailto:plot@profounddecisions.co.uk).
+
+### Judgement 151
+
+- **Assembly:** Loyalty
+- **Raised By:** Leliel, Daughter of Armisael
+- **Judgement:** The Virtuous raise up their fellows. Any nation willing to raise arms and join the Vallornguard shall have our full support. We send Leliel, Daughter of Armisael, with 25 doses of liao to lead our people in sharing everything we have with the League to prepare to finish the fight.
+- **Outcome:** Upheld (190-0)
+- **Enacted** This use of Eyes of Loyalty supported [Judgement 54](#judgement-54)
+
+### Judgement 179
+
+- **Assembly:** Imperial Orc
+- **Raised By:** Jim
+- **Judgement:** A nation is much more than lines on a map. We send Skywise Rykana with 15 crowns to lead a delegation of mystagogues and shamans to discover more of the ancestors of the Great Forest Orcs.
+- **Outcome:** Upheld with a **Greater Majority** (60-0)
+- **Enacted** Skywise Rykana will lead a group of willing orcs [in search of information and lore about the ancestors of the Great Forest Orcs](../winds-of-fortune/Every_day_of_your_life.md#spanning-the-abyss).
+
+## Writ of Consecration
+
+### Judgement 5
+
+- **Assembly:** Vigilance
+- **Raised By:** Estella Lucati
+- **Judgement:** At the Autumn Equinox 387YE, the League National Assembly recognised the Great Chain of Sarvos as an Inspirational Location for it had repelled repeated assaults by idolatrous pirates. I beseech the Assembly to grant a Writ of Consecration so that the Great Chains may be blessed by the True Liao that was provided by the Sun Chamber for this purpose. The Great Chain stands as a marvel of ingenuity and engineering whilst embodying the tenet of 'Prepare for Malice, Yet Thwart Malice Before It Strikes Against You'.
+- **Outcome:** Upheld with a **Greater Majority** (396-0)
+
+### Judgement 79
+
+- **Assembly:** Vigilance
+- **Raised By:** Anatolij Paukov Zorkin
+- **Judgement:** An edifice has been built in Broken Ride, in Sarvos, to honour the Sodality of the Silent Bell, with half the white granite coming from the Virtue fund and half from Bryce the Hare. I call for a Writ of Consecration to Vigilance for this site
+- **Outcome:** Not Upheld (354-0)
+
+### Judgement 116
+
+- **Assembly:** Courage
+- **Raised By:** Basil Goodbeard
+- **Judgement:** True courage is selfless. Emperor Ahraz dared to demand liberation for the orcs of the Empire, in the face of great opposition, risking his position and reputation to do what he knew was right. Our world was changed forever by that courageous act. His tomb should be a beacon to all those who fight for their convictions, Ashborn Osso among them. Her bones will join the guardians of this holy ground. We have the true liao: Ashborn Trosk will provide it. "Do not fear to act; only be shamed by inaction."
+- **Outcome:** Upheld with a **Greater Majority** (312-0)
+
+### Judgement 125
+
+- **Assembly:** Ambition
+- **Raised By:** Eldrid 'Phoenix Flame' Vestardottir
+- **Judgement:** The Empire is an amalgamation of our Ambitions. Each stronger as others take the burden. As Tian bore the flame, Umarth bore the consequence of decision. The Fist of the Mountains paid the price, now our Urizen must take the branches and carry the light. We call for a writ of consecration to build a flame that will burn on the docks of Elos. Let the mystics of Wintermark and the seers and illuminates of Urizen make pilgrimage. There they will reflect on the gift and burden of farsight, to show the Way to their people.
+- **Outcome:** Upheld with a **Greater Majority** (332-0)
+
+## Writ of Excommunication
+
+### Judgement 33
+
+- **Assembly:** General
+- **Raised By:** Kasmira Milankova Ygrev
+- **Judgement:** To excommunicate is not a trivial act to be concealed, this assembly have made such clear. And so, in pursuit of employing every avenue to defeat the 'Earl of Groves', to resist the blight of its venom and risk all for their love of the Empire, I raise such a judgement against RHYDIAN DE RONDELL, Champion of Wisdom. I ask this assembly to cast them from this hearth in service of it. Don your cloak and take your fill of bread Rhydian, for this would be a parting. May the weight of this act measure against its worth
+- **Outcome:** Withdrawn at the request of the raising priest (530-174)
+
+## Proscription
+
+### Judgement 43
+
+- **Assembly:** General
+- **Raised By:** Caspian i Shartha i Riqueza
+- **Judgement:** We the Synod proscribe the practice of Usury, defined as 'charging interest on a loan'. Under the law of Idolatry. The general assembly has already declared that "A Mizer who practices Usury is unvirtuous" Idolatry is "subsuming human will and destiny to any inhuman entity or force". And a Mizer hiding behind the inhuman force of Finance to pile up the riches of our Empire is doing exactly that.
+- **Outcome:** Not upheld (94-992)
+- **Note:** This judgement failed scrutiny by the Constitutional Court before voting closed. If it had been upheld, it would have been declared unconstitutional.
+- This judgement failed scrutiny as "finance" does not meet the definition of an inhuman force or entity.
+
+### Judgement 66
+
+- **Assembly:** General
+- **Raised By:** Sofonisba Amilcara of the City Below
+- **Judgement:** Idolatry is subsuming mortal will and destiny to an inhuman power. The manner of a person's death is of profound importance; for that death to be made subject to the whims of an eternal, sovereign, or other such entity is unacceptable. To end a person's life, or allow a person's life to end, as an offering to an inhuman power is idolatry
+- **Outcome:** Upheld (1306-469)
+- This has been added to the list of [proscribed idolatry](../../mixed/government/synod/Religious_crime.md#heresy). The magistrates have clarified that *offering* is likely to only encompass ritual acts of killing, not merely killing upon the instruction of an inhuman entity. It has also made it impossible for the Senate to [mandate drowning of criminals in the Semmerlak](../winds-of-fortune/The_horror_and_the_wild.md#those-who-no-longer-need-to-live).
+
+### Judgement 72
+
+- **Assembly:** General
+- **Raised By:** Maarit Suvidottir
+- **Judgement:** It is heresy to actively encourage or preach that the established virtues or the Way are not helpful for the spiritual life of orcs or humans
+- **Outcome:** Upheld (1292-380)
+- This has been added to the list of [proscribed heresies](../../mixed/government/synod/Religious_crime.md#heresy).
+
+### Judgement 80
+
+- **Assembly:** General
+- **Raised By:** Edward Watcher
+- **Judgement:** Use of the rite of excommunication with the target's consent is not proscribed
+- **Outcome:** Upheld (822-214)
+- The proscription against the rite of excommunication has been updated to apply only where the subject does not consent.
+
+### Judgement 92
+
+- **Assembly:** General
+- **Raised By:** Kasjay
+- **Judgement:** Oaths are important. Oathbreakers cannot be trusted. Synod titles are a position of trust. Breaking an oath while holding a Synod title is a breach of that trust and thus an abuse of priestly powers.
+- **Outcome:** Not upheld (598-964)
+
+### Judgement 114
+
+- **Assembly:** General
+- **Raised By:** Frater Pontius of Adoniram's Testament
+- **Judgement:** The Synod upholds the Doctrine of the Creator and proscribes as heresy the Theist Heresy, the claim that there are gods that seek dominance of, control over or communion with sapient spirits. We do not hereby proscribe any belief related to the Paragons or Exemplars
+- **Outcome:** Upheld (1228-238)
+- Theism has been added to the list of [proscribed heresies](../../mixed/government/synod/Religious_crime.md#heresy). In particular, this affects the [Marracossans](../winds-of-fortune/Large_but_far_away.md#evacuation) of [Trajadoz](../nations/the-brass-coast/Madruga.md#trajadoz) if they seek to proclaim their beliefs outside of the ceded town, and any [Suranni](../foreign-nations/Iron_Confederacy.md#religious-beliefs) in the Empire.
+
+### Judgement 115
+
+- **Assembly:** General
+- **Raised By:** Merlof Von Temeschwar
+- **Judgement:** The Synod upholds the Doctrine of the Labyrinth and hereby proscribes as Heresy the Realmist Heresy, a long-established heresy which claims that the Labyrinth of Ages is a realm of magic, and asserts that Paragons become Eternals. Seek out the Blight.
+- **Outcome:** Upheld (1241-196)
+- Realmism has been added to the list of [proscribed heresies](../../mixed/government/synod/Religious_crime.md#heresy). There are no known Realmist groups in the Empire.
+
+### Judgement 149
+
+- **Assembly:** General
+- **Raised By:** Lepidina
+- **Judgement:** The Synod proscribes as idolatry the veneration, or entering the service of, an inhuman entity of the labyrinth, such as a labyrinth spirit
+- **Outcome:** Upheld (864-142)
+- This has been added to the list of [proscribed idolatry](../../mixed/government/synod/Religious_crime.md#heresy).
+
+### Judgement 150
+
+- **Assembly:** General
+- **Raised By:** Gaelen Embercast
+- **Judgement:** To proscribe as heresy the act of catching a soul such that its passage through the labyrinth is inhibited, against the Doctrine of the Labyrinth
+- **Outcome:** Withdrawn at the request of the raising priest (124-36)
+- **Note:** This judgement failed scrutiny by the Constitutional Court before voting closed. If it had been upheld, it would have been declared unconstitutional.
+- This judgement failed scrutiny as the proscribed act does not meet the definition of heresy or any other existing religious crime. The Constitutional Court has raised concerns that creation of a new religious crime to cover this act may be difficult, and recommends that anyone wishing to create such a law [contact them](../senate-motions/Scrutiny.md#advice) in advance with their proposals before bringing a motion to the Senate.
+
+### Judgement 171
+
+- **Assembly:** General
+- **Raised By:** Edward Greyfriar
+- **Judgement:** Doctrine is built on centuries of careful observation and liao based research, constantly honed by the insights and perspectives of those across the Empire and beyond. Due to orcs reaction to liao and the terrible crimes the Empire committed against the ancestors of the Imperial Orcs, the Doctrines of the Howling Abyss and the Ancestors have shallower foundations than the rest. As such, practice of beliefs conflicting with these Doctrines shall not be Proscribed so we may learn, not suppress.
+- **Outcome:** Not upheld (420-378)
+- **Note:** This judgement was subject to the [Custodian of Virtue](../../mixed/titles/The_Throne.md#custodian-of-virtue) power of the Throne, and needed a greater majority to be upheld
+- If this judgement had been upheld, it would have had no legal effect as no beliefs it described had been proscribed. The Synod would still have been able to proscribe beliefs conflicting with those doctrines, and doing so would have overruled this judgement.
+
+## Inquisition
+
+### Judgement 4
+
+- **Assembly:** Navarr
+- **Raised By:** Corey Wayfarer
+- **Judgement:** Cadwell of the Waystone Path, it is time we discussed your virtue and conduct during your time as general. As such I invite you to inquisition at 9pm on Saturday of this summit at the Brackensong camp. Cheese will be provided.
+- **Outcome:** Upheld with a **Greater Majority** (252-0)
+
+### Judgement 40
+
+- **Assembly:** Pride
+- **Raised By:** Bella Vicente d'Apulian
+- **Judgement:** Pride is in deeds not words. Elagabala talks a lot of talk. Let's see if it holds up to scrutiny. 12pm. Saturday. Spring 388. Celestial Eclipse, League.
+- **Outcome:** Upheld (10-0)
+
+### Judgement 61
+
+- **Assembly:** Vigilance
+- **Raised By:** Emmeline Weaver
+- **Judgement:** There's some nasty rumours going about that General Amberlain Black, Hero of Bregasland, is a Hate cultist. Let's lay these to rest. I call Amberlain to inquisition, 16:45, House de Gauvain, Dawn
+- **Outcome:** Upheld (148-0)
+
+### Judgement 95
+
+- **Assembly:** Vigilance
+- **Raised By:** Ingrid Talon-of-the-Mark
+- **Judgement:** I call Mael, Marshal of the Faith, to inquisition at 11:00 on Sunday of this summit to investigate their view on the efficacy and virtuous effect of their role.
+- **Outcome:** Upheld (196-0)
+
+### Judgement 129
+
+- **Assembly:** Prosperity
+- **Raised By:** Vauraus "Prosperity's Forge" Korppitkotka
+- **Judgement:** I call Gancio di Catazar to inquisition at 10:30AM on Sunday at the Spring Equinox 388YE to answer why they arranged a wayleaf to announce a commission that has had no progress and will now lapse
+- **Outcome:** Upheld (23-0)
+
+### Judgement 157
+
+- **Assembly:** Marcher
+- **Raised By:** Brother Geoffrey Orchard
+- **Judgement:** Friar Book: so far we know you only by the hallowings you have wrough and second hand reports of your preaching. We would seek to know you in person. Come to Anvil, Summer 388, and speak to me of your teachings.
+- **Outcome:** Upheld (92-60)
+
+### Judgement 160
+
+- **Assembly:** Vigilance
+- **Raised By:** Kellin Embercast
+- **Judgement:** I have walked with Gaelen Embercast for three years. Now, as they set aside their Cardinalship, I wish to ask them some difficult questions. I do so as a dedicant of Loyalty, preaching their sworn virtue, so my questions concern themselves with the intersection of Loyalty and Vigilance. When they have faced challenges that set these virtues at odds with each other, how have they acted? At the Summer Solstice, I invite Gaelen to join me to discuss this.
+- **Outcome:** Upheld (108-0)
+
+### Judgement 173
+
+- **Assembly:** Navarr
+- **Raised By:** Iniska Ashwood
+- **Judgement:** Polk Thornweaver. You've been working your arse off for the nation. Let's chat about it. Woven roots, next summit - we'll figure out the most prosperous time
+- **Outcome:** Upheld (90-0)
+
+### Writs of Inquisition
+
+The following writs of inquisition were issued this summit:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Called by** | **Subject** | **Judgement or Title** | **Matter** |
+| Corey Wayfarer | Cadwell Waystone Path | [Judgement 4](#judgement-4) | His virtue and conduct as [general](../../mixed/titles/General.md) |
+| Bella Vincente d'Apulian | Elagabala | [Judgement 40](#judgement-40) | Her [pride](../religion/Pride.md) |
+| Emmeline Weaver | Amberlain P. Black | [Judgement 61](#judgement-61) | Rumours of [hatred](../../mixed/magic/lore/Malign_spiritual_presences.md#hate) |
+| Ingrid Talon-of-the-Mark | Mael | [Judgement 95](#judgement-95) | Efficacy & virtuous effect as [Marshal of the Faith](../../mixed/titles/Marshal_of_the_Faith.md) |
+| Vauraus "Prosperity's Forge" Korppitkotka | Gancio di Catazar | [Judgement 129](#judgement-129) | A lapsing commission |
+| Galene Netherwatch | Bloodcrow Arora | [Arcane Inquisitor](../../mixed/titles/Arcane_Inquisitor.md) | Lessons learnt and to be learnt |
+| Vauraus "Prosperity's Forge" Korppitkotka | [Empress Vesna Borkovna Prochnost](../history/Emperor_Vesna.md) | [Auditor of Senatorial Accountability](../../mixed/titles/Auditor_of_Senatorial_Accountability.md) | Their statement in Senate regarding the raising of [armies](../../out-of-character/rules/Army.md) |
+| Alfred Eawolfson | Charlie Skinner | [Basilisk of the Bourse](../../mixed/titles/Basilisk_of_the_Bourse.md) | Virtue and economics |
+| Kalina Jadwigowna Piosnkowa Prochnost | Lady Laudine du Lac | [Imperial Inquisitor](../../mixed/titles/Imperial_Inquisitor.md) | Her time as [Chaplain Consular](../../mixed/titles/Chaplain_Consular.md) and Fintan Nighthaven |
+| Lady Abreya De Lagriffe | Morrigan Mortére | [Inquisitor of Ambition](../../mixed/titles/Virtue_inquisitor.md) | Rumours of association with [Agramant](../eternals/Agramant.md) |
+| Masha Sigeling | Zoria of the Circle of Zulgan-Tash | [Inquisitor of Courage](../../mixed/titles/Virtue_inquisitor.md) | Her [courage](../religion/Courage.md) |
+| Eevi of the Gadrai | Talos of the Silent Tide | [Inquisitor of Loyalty](../../mixed/titles/Virtue_inquisitor.md) | His words & deeds as [Champion of Loyalty](../../mixed/titles/Champion_of_Loyalty.md), at the Summer summit |
+| Jedediah Boon | Lofyn Bloodcloak | [Inquisitor of Pride](../../mixed/titles/Virtue_inquisitor.md) | A challenge to her [pride](../religion/Pride.md) |
+| Iniska Ashwood | Cain Coffers of House Vortekar | [Inquisitor of Prosperity](../../mixed/titles/Virtue_inquisitor.md) | The pledge he made when taking his seat, at the Summer summit |
+| Brother Geoffrey Orchard | Gwen Tendfallen | [Inquisitor of Vigilance](../../mixed/titles/Virtue_inquisitor.md) | Received wisdom, orthodox and otherwise |
+| Nim of Ebon's Hall | Kaisarion of the Court of the Rat King | [Inquisitor of Wisdom](../../mixed/titles/Virtue_inquisitor.md) | A controversial pamphlet |
+
+## Sanction
+
+### Judgement 22
+
+- **Assembly:** Wisdom
+- **Raised By:** Kalina Jadwigowna Piosnkowa Prochnost
+- **Judgement - Vindication:** Magistrate Sayid i Zuhri i Erigo. The Wisdom Assembly has reviewed the aura you gained from Rachensgrab and find no issue, my colleagues and I deem the spontaneous aura of no threat to your soul or impediment to your position. Consider what you have learned from this aura - perhaps you have learned all you can.
+- **Outcome:** Upheld with a **Greater Majority** (294-0)
+
+### Judgement 38
+
+- **Assembly:** Wisdom
+- **Raised By:** Nim, of Ebon's Hall
+- **Judgement - Penance:** Last summit, my inquisition revealed that Iniska Ashwood certainly displays much wisdom. I learned a greater appreciation of the role we can play to encourage souls back to the Path of Virtue. However, I hope they learned something from me - to be wary of the folly of those close to you. Each summit from now until Spring 389YE, report the results of an insight to me, conducted towards someone close to you.
+- **Outcome:** Upheld (134-0)
+
+### Judgement 76
+
+- **Assembly:** Dawnish
+- **Raised By:** Lady Abreya deLagriffe
+- **Judgement - Penance:** Leon of House Castellan is currently not reaching his full potential ambition but I believe that with correct steps this can be achieved. Leon has performed great acts of glory but must acknowledge the pride and worthiness in those actions and convert those into further ambitions. I task Leon to the following penance: discuss with nobles both within and without his house what it means to be noble; consider and provide actionable steps he can perform that would make him feel worthy of asking for a test of mettle.
+- **Outcome:** Upheld (290-0)
+
+### Judgement 86
+
+- **Assembly:** Loyalty
+- **Raised By:** Eevi of the Gadrai
+- **Judgement - Vindication:** Neala Blackhawk's inquisition revealed that she is as steadfast and enduring as a great oak tree. She has continued to build up those within her nation and bring disparate groups such as the Thorns and the National Assembly together. Her loyalty to Navarr is clear and she acts on it whenever an opportunity presents itself. I vindicate her and will testimony her "Path Weaver" so all can see the truth on her soul.
+- **Outcome:** Upheld (126-0)
+
+### Judgement 113
+
+- **Assembly:** Loyalty
+- **Raised By:** Tribune on behalf of Donato of the Crucible
+- **Judgement - Penance:** Cosmé placed a curse upon Veikko Bondforger but their actions were spurred by Loyalty and ceased from escalating for the same Loyalty. However, in considering their role as chief magistrate, pursual of a hurt for a hurt, no matter how well thought through, is a step closer to the false virtue of Vengeance. As penance, I request they think through what their action may have been in the scenario that their loyalty did not stay their hand; and how that may impact the Empire. Report back to Donato in two seasons' time.
+- **Outcome:** Upheld (114-0)
+
+### Judgement 120
+
+- **Assembly:** Loyalty
+- **Raised By:** Larkin Otterways
+- **Judgement - Vindication:** I called Brother Luke to Inquisition Autumn Y387. My judgement is: Vindication. The spontaneous Loyalty dedication is genuine. I can find no fault in his story of reaction to this experience. Luke exhibits a number of signs: Inspiration, Legacy, Miracles, Pilgrimage, Recognition, Salvation.
+- **Outcome:** Upheld (112-22)
+
+### Judgement 127
+
+- **Assembly:** Nine
+- **Raised By:** Vauraus "Prosperity's Forge" Korppitkotka
+- **Judgement - Vindication:** Following inquisition of Natalia 'the Falcon' Barossa on her actions as Quartermaster General, I commend her: attention to detail; Ambition, Loyalty, Prosperity, and Wisdom in driving down the price of Brotherhood of Tian and Spiral Castle; Courage to change what has always been; Loyalty to the Empire and its armies. I intend to testimony '"Peerless Logistician" on her soul, as she is.
+- **Outcome:** Upheld (2-0)
+
+### Judgement 153
+
+- **Assembly:** Loyalty
+- **Raised By:** Arvel Tendfallen
+- **Judgement - Penance:** I inquisited Silas of the Cenotaph and found his actions were not due to lack of virtue, but lack of rest. A cardinal must not only act with virtue, but communicate clearly and be seen to act with virtue. For the duration of his time as cardinal, Silas must ensure he is well rested enough to fulfil this role.
+- **Outcome:** Upheld (96-0)
+
+### Judgement 158
+
+- **Assembly:** Highborn
+- **Raised By:** Ardeniel of the Woodwych Harts
+- **Judgement - Vindication:** A artefact Litany of the Labyrinth has now been created for all 10 nations of the Empire. No longer will those at Anvil need worry for their souls passage into the Labyrinth due to want of resources to create a Litany of their own. National sects may now protect their citizens from the vile actions of the Druj and vallorn permanently. For this we have Nira of Canitarch's Hold to thank. She has worked tirelessly for over seven years to gather ilium and create these artefacts nearly entirely by her own hand. There is no challenge a dedicated soul cannot overcome. Follow her example!
+- **Outcome:** Upheld (266-0)
+
+### Judgement 159
+
+- **Assembly:** Highborn
+- **Raised By:** Drusilla of the Woodwych Harts
+- **Judgement - Vindication:** Whilst the death of Olyvar of Esther's Sanctum was an unquestionable loss to Highguard, the vast number of siblings from almost every nation queuing to pay their respects demonstrates that this will be felt across the Empire. It took over an hour for all present to pass on through the chapel to say their final goodbyes, and before he passed into the Labyrinth twelve priests representing several nations dedicated Olyvar to Pride. Death traditions and rites from all nations present were performed. Let Olyvar's passing serve as inspiration to us all, for our words and deeds of virtue impact not only those close to us, but all nations across the Empire.
+- **Outcome:** Upheld (232-12)
+
+### Judgement 162
+
+- **Assembly:** Vigilance
+- **Raised By:** Emmeline Weaver
+- **Judgement - Vindication:** I inquisited Amberlain in company with Lenarius Ankarien, Dame Arlette d'Ossienne, Friar Duncan of Ashill, and Martin Orchard. Amberlain Black has been a Devotee of Loyalty since 384. The Oaths she swore to defend Bregasland are LOYALTY oaths, witnessed by Loyalty priests of the Marches. Amberlain is giving Loyal service to the Empire in a time of War, furthering amity and co-operation between Nations. Just this season, she gave up opportunities in Bregas and Mitwold to defend Sarangrave and Mareave. This us not the action of a Hate Cultist. I advise her to be vigilant about the company she keeps.
+- **Outcome:** Upheld (152-0)
+
+### Judgement 166
+
+- **Assembly:** Pride
+- **Raised By:** Bella Vicente d'Apulian
+- **Judgement - Penance:** Elagabala is a spectacular individual. Her achievements eclipse those who come before and she is a master of her art. This is clear to see: yet she has said she cannot have Pride in herself until she transcends. Wisdom is always incomplete; Pride cannot wait for completion either. Become Proud of yourself for who you are now, and at every step of your life. Each summit for one year, find a Priest priest and tell them what you are proud of in yourself.
+- **Outcome:** Upheld (60-0)
+
+### Judgement 168
+
+- **Assembly:** Nine
+- **Raised By:** Kalina Jadwigowna Piosnkowa Prochnost
+- **Judgement - Penance:** Ser Guy of the Twisted Rose. You are no idolator, but you have been reckless with the souls of those soldiers over whom you held responsibility. Your actions are not without virtue - but I worry about the echo of Irra Harrah's philosophies in the actions you took. In penance, I ask that you cease playing Irra Harrah's game - stand proud as I know you can. Run no longer, hide not, fight as it is your choice. You are no mouse, Guy. Stop acting like one.
+- **Outcome:** Not upheld (0-0)
+
+### Judgement 172
+
+- **Assembly:** Prosperity
+- **Raised By:** Iniska Ashwood
+- **Judgement - Vindication:** I called Mendicant Garev to inquisition to investigate his Prosperity in light of his recent misadventures. I cannot fault his Prosperity. I wish to invite him back to Anvil to thank him for bearing a troll-cursed cup to us. It is being returned to Tharim to save Mitwold from a curse, and I intend to reward and recompense him for this.
+- **Outcome:** Upheld (76-0)
+- **Notes:** Mendicant Garev has asked the civil service to let it be known that whilst he is pleased that he was able to help, he wishes any reward to be donated to the Virtue fund. He is rich in faith and friends, and that is all he feels he needs
+
+## Recognition
+
+### Judgement 93
+
+- **Assembly:** Ambition
+- **Raised By:** Amos
+- **Judgement:** I call for Barabbas to be recognised as an exemplar of Ambition, embodying the tenet that "it is better by far to try and fail, than never to have tried at all". His legacy lives on in Freeborn corsairs, in Caricomare and in Segura. His benevolence lives on in the ports and cities he built, the trade routes he founded, and the maps drawn from his explorers. His miraculous final address, and the aura of ambition it bears two centuries on, is an inspiration to mariners, explorers and adventurers to the cenotaph, and to all those who seek to do what "cannot be done". Barabbas is an exemplar for all those who dare to dream.
+- **Outcome:** Upheld with a **Greater Majority** (362-56)
+
+## Exaltation
+
+### Judgement 35
+
+- **Assembly:** Pride
+- **Raised By:** Halwyn Splitroot
+- **Judgement:** Great artists whose art inspires virtue should be exalted. Idwyn Splitroot has inspired Pride across the Empire with her song "Painted". Heard by every Navarr, sung with every binding of thorns, now inspiring the troubadours of Dawn. We exalt Idwyn, recognising her artistic works and dedication to inspiring pride in others.
+- **Outcome:** Upheld with a **Greater Majority** (192-22)
+- **Notes:** Idwyn Splitroot has been added to the [Roll of the Exalted](../../mixed/government/synod/Exaltation.md)
+
+### Judgement 70
+
+- **Assembly:** Prosperity
+- **Raised By:** Sybilla Cattaneo di Tassato
+- **Judgement:** Azeal of Rumah's Redoubt recognised the great opportunities presented to the Empire by expanding the pool of appraisers but knew that the Senate budget has little slack for anything outside the war effort. He generously offered to fund the appraisers for their first year bringing the potential for opportunities old and to become available to the Empire that would not have been possible before. We recognise Azeal for his hard work in raising the funds to ensure the opportunity was not wasted and in his generosity in spending his hard earned money in a way that will benefit so many over the coming year.
+- **Outcome:** Not upheld (132-74)
+
+## Appointment
+
+### Judgement 1
+
+- **Assembly:** Ambition
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Cardinal of Ambition](../../mixed/titles/Cardinal_of_Ambition.md)
+- **Outcome:** **Lenarius Ankarien** was appointed with 254 votes; Wulfric received 50 votes; Callista received 36 votes; Ser Purslane Artorigus received 14 votes
+
+### Judgement 2
+
+- **Assembly:** Vigilance
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Cardinal of Vigilance](../../mixed/titles/Cardinal_of_Vigilance.md)
+- **Outcome:** **Adel de Òrdraig** was appointed with 130 votes; Viviane Barossa received 102 votes; Aemon of the Suns of Couros received 88 vote; Bryce the Hare received 42 votes
+
+### Judgement 12
+
+- **Assembly:** Highborn
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Lepidean Librarian](../../mixed/titles/Lepidean_Librarian.md)
+- **Outcome:** **Hazelelponi of the Shattered Tower** was appointed with 312 votes; Frater Pontius of Adoniram's Testament received 140 votes
+
+### Judgement 13
+
+- **Assembly:** Urizen
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Custodian of the Omphalos](../../mixed/titles/Custodian_of_the_Omphalos.md)
+- **Outcome:** **Raine Tealeaf** was appointed with 158 votes
+
+### Judgement 16
+
+- **Assembly:** Urizen
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Seeker of the Perfect World](../../mixed/titles/Seeker_of_the_Perfect_World.md)
+- **Outcome:** **Abel the Rounder** was appointed with 148 votes
+
+### Judgement 18
+
+- **Assembly:** Urizen
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Beneficiary of the Golden Cascade](../../mixed/titles/Beneficiary_of_the_Golden_Cascade.md)
+- **Outcome:** **Hester of Sarangrave Reforged** was appointed with 158 votes
+
+### Judgement 19
+
+- **Assembly:** Dawnish
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Voice of the Twin Roses](../../mixed/titles/Voice_of_the_Twin_Roses.md)
+- **Outcome:** **Ser Asa Scrivener** was appointed with 236 votes; Remy Dyer de la Griffe received 114 votes
+
+### Judgement 23
+
+- **Assembly:** Prosperity
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Champion of Prosperity](../../mixed/titles/Champion_of_Prosperity.md)
+- **Outcome:** **Tom Appelseed** was appointed with 173 votes
+
+### Judgement 24
+
+- **Assembly:** Wisdom
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Singer of the Silence](../../mixed/titles/Singer_of_the_Silence.md)
+- **Outcome:** **Nathair Autumngale** was appointed with 246 votes; Brenna Pineflght received 0 votes
+
+### Judgement 28
+
+- **Assembly:** Wintermark
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Speaker of the Crows](../../mixed/titles/Speaker_of_the_Crows.md)
+- **Outcome:** Nobody achieved a majority. Hildelith of Snowperch Hall received 86 votes; Ingrid Talon-of-the-Mark received 86 votes
+
+### Judgement 34
+
+- **Assembly:** Nine
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Auditor of Senatorial Accountability](../../mixed/titles/Auditor_of_Senatorial_Accountability.md)
+- **Outcome:** **Vauraus Korppitkotka** was appointed with 4 votes
+
+### Judgement 39
+
+- **Assembly:** Varushkan
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Curator of Memories](../../mixed/titles/Curator_of_Memories.md)
+- **Outcome:** **Alexei of Dark Water Vale** was appointed with 146 votes
+
+### Judgement 45
+
+- **Assembly:** Highborn
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Custodian of the Imperial War Memorial](../../mixed/titles/Custodian_of_the_Imperial_War_Memorial.md)
+- **Outcome:** **Sarah of the Suns of Couros** was appointed with 302 votes
+
+### Judgement 51
+
+- **Assembly:** Courage
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Voice of Courage](../../mixed/titles/Voice_of_Virtue.md)
+- **Outcome:** **Ada of House Meliora** was appointed with 196 votes; Ioan Longshadow received 20 votes; Zeke di Tassato Mestra received 16 votes
+
+### Judgement 56
+
+- **Assembly:** League
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Map to the City Below](../../mixed/titles/Map_to_the_City_Below.md)
+- **Outcome:** **Sofonisba Amilcara of the City Below** was appointed with 156 votes; Enzo de Tassato received 54 votes
+
+### Judgement 69
+
+- **Assembly:** Courage
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Guardian of Britta's Memorial](../../mixed/titles/Guardian_of_Britta-s_Memorial.md)
+- **Outcome:** **Neala Blackhawk** was appointed with 148 votes
+
+### Judgement 74
+
+- **Assembly:** Loyalty
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Inquisitor of Loyalty](../../mixed/titles/Virtue_inquisitor.md)
+- **Outcome:** **Eevi of the Gadrai** was appointed with 136 votes
+
+### Judgement 78
+
+- **Assembly:** Pride
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Inquisitor of Pride](../../mixed/titles/Virtue_inquisitor.md)
+- **Outcome:** **Jedediah Boon** was appointed with 122 votes; Lady Alisa Tamerlaine received 20 votes
+
+### Judgement 99
+
+- **Assembly:** Imperial Orc
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Guide to the Lost](../../mixed/titles/Guide_to_the_Lost.md)
+- **Outcome:** **Firesong Galath** was appointed with 38 votes
+
+### Judgement 102
+
+- **Assembly:** Wisdom
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Voice of Wisdom](../../mixed/titles/Voice_of_Virtue.md)
+- **Outcome:** **Amris Johan Merikovich** was appointed with 107 votes
+
+### Judgement 124
+
+- **Assembly:** Highborn
+- **Raised By:** Tribune
+- **Judgement:** Appointment of the [Archivist of the Echoing Obelisk](../../mixed/titles/Archivist_of_the_Echoing_Obelisk.md)
+- **Outcome:** **Dariel of the Woodwych Harts** was appointed with 196 votes
+
+## Rewarding
+
+### Judgement 17
+
+- **Assembly:** General
+- **Raised By:** Donato of the Crucible
+- **Judgement:** The Empire is beset on all sides by enemies - our military is stretched. An opportunity presents to create a ritual text which would allow our armies to resupply under any circumstance. This text will save Imperial lives and give the Empire a new tool to fight our enemies. The Throne has thanked Herminius of the House of the Wanderer in her recent address for this support in building the third League army. We ask he is rewarded 40 thrones to complete codification faster and purchase resources for further prosperous work
+- **Outcome:** Upheld, full amount (514-326)
+
+### Judgement 21
+
+- **Assembly:** General
+- **Raised By:** Laurencio di Sarvos
+- **Judgement:** Seventy-five citizens of the Empire sacrificed Personal Prosperity for Imperial Vigilance and the chance to capture Grendel spies. These efforts would have succeeded but for the acts of three Traitors within the Empire. Nevertheless, Virtue should be Rewarded lest citizens be discouraged from future sacrifice when called upon. We Reward those citizens with 22 Thrones from the Virtue Fund to be share amongst them according to their sacrifice.
+- **Outcome:** Upheld, full amount (843-336)
+
+### Judgement 30
+
+- **Assembly:** General
+- **Raised By:** Athiel Westernborn of the Cenotaph
+- **Judgement:** In Autumn 386YE (Judgement 4) the full force of the Synod showed their wish to bring spiritual enlightenment to the waylaid and the downtrodden of Asavea. We did so with the full understanding of the magnitude of this project, and with awareness of its costs. Priests, why have you let the fires of your Ambition dwindle to embers? Even the most impenetrable forest may fall one tree at a time. As such, we request 8 wains of white granite to be disbursed from the Virtue Fund to continue anchoring the Way in Asavea. Consequences are the price of Ambition. We are willing to pay the costs.
+- **Outcome:** Upheld, full amount (652-334)
+
+### Judgement 36
+
+- **Assembly:** General
+- **Raised By:** Lord Julien de Courtenay-Wyldrose
+- **Judgement:** The High Exorcist and their house have spent in excess of 20 thrones to defend the Empire against spiritual threat. We seek to reward their personal prosperity and let them continue their work. Let 20 thrones be allocated to their seneschal, Mathilde Caster, for the purchase of: Silent Bell and Labyrinthine Vestments to be lent to any citizen in need; and liao bought in bulk
+- **Outcome:** Upheld, full amount (600-276)
+
+### Judgement 37
+
+- **Assembly:** General
+- **Raised By:** Hildelith Kaukosdottir
+- **Judgement:** Countless times we have pronounced ourselves in favour of the free preaching of the Way in Asavea. It is time to make good on our promises. We reward the refugees of Ibaria with 50 thrones. They have shown boundless Courage and Ambition in the fight against the Asavean Plenum, and have built a new life in Virtue here in the Empire. They have given everything for Virtue. We should seek to repay them in kind.
+- **Outcome:** Not upheld (398-502)
+
+### Judgement 42
+
+- **Assembly:** General
+- **Raised By:** Miroslav Dainovitch Temnavoda
+- **Judgement:** Last summit, Varushka had the opportunity to purge the insidious threat of face-peeling monsters. Rather than draw the Boyar's Hasta from its vital role elsewhere, heroes across Varushka committed military units to this task, many sacrificing their own resources to take up arms for the first time. Mana from across the nation was poured into enchantments to boost the strength of these units. This resulted in an assembled force equivalent to an army. Thanks to these efforts, the Boyar's Hasta remained committed to the vital role it played in Sarangrave, and the operation to root out the face peelers was an overwhelming success. I ask for Thirty Thrones from the Virtue Fund to be disbursed among those Ambitious citizens who stand as an example to all of what can be achieved with sufficient drive and focus.
+- **Outcome:** Upheld, 28 thrones, 1 crown, and 11 rings rewarded (450-426)
+
+### Judgement 63
+
+- **Assembly:** General
+- **Raised By:** Vera
+- **Judgement:** Five years ago the first sermon on the Way in Ossium ended with the declaration 'together we rise in greatness'. I seek 20 thrones to reward the ossians who have reached the greatest heights since liberation: Volya, cardinal of the Way; Velko, senator for Ossium; Sigismund, general of the Golden Axe; Sławomir, leading diplomatic efforts in the Mallum
+- **Outcome:** Not upheld (282-514)
+
+### Judgement 67
+
+- **Assembly:** General
+- **Raised By:** Oleander Dreamsreach
+- **Judgement:** We seek to reward Geraint Bronwyn's Rest with 8 wains of white granite to be put towards the City of Dreams. This is an investment into the future of the Navarr and will allow us to seek new ways to use liao.
+- **Outcome:** Not upheld (333-414)
+
+### Judgement 104
+
+- **Assembly:** General
+- **Raised By:** Galene Netherwatch
+- **Judgement:** For the last 4 years, the Mountains' Answer, a block of military units 4000+ strong, have made themselves strategically available to the Military Council to be deployed wherever is deemed necessary to the Empire. Let us reward this Loyalty with 20 thrones, to be given to Floria Sunshaper, to be shared amongst these captains
+- **Outcome:** Upheld, but none remain (260-252)
+
+### Judgement 111
+
+- **Assembly:** General
+- **Raised By:** Marialena Von Holberg
+- **Judgement:** As Senator of Holberg, Kaspar von Yakovitch has inspired great Virtue in our citizens from Pride as we were awarded the Greatest City, to Ambition in building the Great Walls. His Virtue extends to the wider Empire, sharing the Prosperity of the League by creating an Imperial position from a National Bourse seat. As a young citizen inspired by this Virtue. I ask, on behalf of Holberg, that he is rewarded with four wains of weirwood.
+- **Outcome:** Upheld, full amount (300-208)
+
+## Special Considerations
+
+The following considerations should be borne in mind when bringing judgements before the Imperial Synod during the Summer Solstice.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Assembly** | **Consideration** | **Link** | **Duration** |
+| All Assemblies | Statements that prioritise the greater good over personal loyalties are less effective. | [Eyes of Loyalty](../../mixed/titles/Cardinal_of_Loyalty.md#additional-powers---the-eyes-of-loyalty) | Ongoing |
+| All Assemblies | Statements that try to compel Loyalty will fail. | [Eyes of Loyalty](../../mixed/titles/Cardinal_of_Loyalty.md#additional-powers---the-eyes-of-loyalty) | Ongoing |
+| All Assemblies | Revocations and Excommunications for disloyalty to the nation or Empire risk causing dissent. | [Eyes of Loyalty](../../mixed/titles/Cardinal_of_Loyalty.md#additional-powers---the-eyes-of-loyalty) | Ongoing |
+| All Assemblies | Any mandate that does not pass with a greater majority will have limited or no effect on Urizen or Varushka. It is not impossible that a mandate might lead to a response in one of the two nations, but it won't lead to any immediate consequences for the people of the nation. | [Urizen Link](../winds-of-fortune/Hard_and_suspecting.md#the-urizen-assembly) <br> [Varushka Link](../winds-of-fortune/Hard_and_suspecting.md#the-varushkan-assembly) | Ongoing |
+| All Assemblies | Any mandate that does not pass with a greater majority will have limited or no effect on Wintermark unless enacted by the Wintermark Assembly. It is not impossible that a mandate might lead to a response in the nation, but it won't lead to any immediate consequences for the people of the nation. | [The final cut](../winds-of-fortune/The_final_cut.md#questions-for-wintermark) | Ongoing |
+| All Assemblies | Statements that stress the need to follow Imperial law rather than virtue will be unlikely to lead to a mandate. | [Knocking on every door](../winds-of-fortune/Knocking_on_every_door.md#a-paper-shield) | Ongoing |
+
+## The Virtue Fund
+
+At the start of the Spring Equinox 388YE summit, the Virtue Fund stood as follows:
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Money** | **Mithril** | **White Granite** | **Weirwood** | **True Liao** |
+| 110 thrones, 1 crown, 11 rings | 6 wains | 8 wains | 8 wains | nil |
+
+Total donations made were:
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Money** | **Mithril** | **White Granite** | **Weirwood** | **True Liao** |
+| 72 thrones, 1 crown, 17 rings | nil | nil | nil | nil |
+
+The total amounts carried forward to the next summit were:
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Money** | **Mithril** | **White Granite** | **Weirwood** | **True Liao** |
+| 72 thrones, 1 crown, 17 rings | 6 wains | nil | 4 wains | nil |
+
+Click *Expand* to see a list of donations received prior to the start of the summit.
+
+- 1 throne, 2 crowns at the [counting house](../../mixed/government/synod/Rewarding.md#counting-houses) of [Reikos](../nations/highguard/Reikos.md)
+- 2 thrones at the counting house of [Tassato](../nations/the-league/Tassato.md)
+- 1 throne, 3 crowns at the counting house of [Semmerholm](../nations/dawn/Semmerholm.md)
+- 1 throne, 4 crowns at the counting house of [Karsk](../nations/varushka/Karsk.md)
+- 6 wains of mithril, 8 wains of white granite and 8 wains of weirwood from [various donations](../winds-of-fortune/The_greatest_plurality.md#one-empire)
+
+Click *Expand* to see a list of Rewardings made at the summit.
+
+- 22 thrones to **Laurencio di Sarvos** following [Judgement 21](#judgement-21) being upheld (margin 510)
+- 20 thrones to **Mathilde Caster** following the death of **Julien de Courtenay-Wyldrose** and [Judgement 36](#judgement-36) being upheld (margin 324)
+- 8 wains of white granite to **Athiel Westernborn of the Cenotaph** following [Judgement 30](#judgement-30) being upheld (margin 318)
+- 40 thrones to **Donato of the Crucible** following [Judgement 17](#judgement-17) being upheld (margin 188)
+- 28 thrones, 1 crown, 17 rings to **Miroslav** following [Judgement 42](#judgement-42) being upheld (margin 24)
+- 4 wains of weirwood to **Morialena von Holberg** following [Judgement 111](#judgement-111) being upheld (margin 92)
+
+Click *Expand* to see a list of donations made during the summit.
+
+- 70 thrones for the Bourse dose of True Liao from **Rafael Barossa d'Apulian**
+- 6 crowns from **Rafael Barossa d'Apulian**
+- 4 crowns from **Tom Appleseed**
+- 2 crowns, 11 rings from **Leonardo i Del'Toro i Riqueza**
+- 1 crown from **Barak of the Inheritance of Atun**
+- 1 crown, 5 rings from **Veikko Bondforger**
+- 1 crown from "Emperor Nicovar"
+- 1 crown from **Berith Martel**
+- 1 crown from **Emperor Vesna Borkovna Prochnost**
+- 1 ring in small donations
+
+## Doses of True Liao
+
+Six doses of [True Liao](../../mixed/religion/Liao.md#true-liao) were disbursed this summit:
+
+- One dose to **Vesna Borkovna Prochnost** as [the Throne](../../mixed/titles/The_Throne.md)
+- One dose to **Hazelelponi of the Shattered Tower** as [Lepidean Librarian](../../mixed/titles/Lepidean_Librarian.md)
+- One dose to **Rafael Barossa d'Apulian** by purchase in the [Public Auction](../../mixed/economy/Auction_of_the_Seats.md)
+- One dose to **Nathair Autumngale** by decision of the Gatekeepers
+- One dose to **Mayra Zoronova Prochnost** by decision of the Gatekeepers
+- One dose to **Jedediah Boon** by decision of the Gatekeepers
+
+## Assembly Strength
+
+The table below shows the size, total voting strength and greater majority thresholds for each assembly as calculated at the start of the summit.
+
+| Virtue Assembly | Assembly Size | Total Voting Strength | Greater Majority Threshold |
+| --- | --- | --- | --- |
+| Ambition | 47 | 644 | 323 |
+| Courage | 29 | 372 | 187 |
+| Loyalty | 53 | 710 | 356 |
+| Pride | 28 | 324 | 163 |
+| Prosperity | 30 | 355 | 178 |
+| Vigilance | 64 | 762 | 382 |
+| Wisdom | 45 | 558 | 280 |
+| The Way | 23 | 268 | 135 |
+| General | 319 | 3993 | 1997 |
+
+| National Assembly | Assembly Size | Total Voting Strength | Greater Majority Threshold |
+| --- | --- | --- | --- |
+| Brass Coast | 16 | 208 | 105 |
+| Dawn | 55 | 738 | 370 |
+| Highguard | 67 | 850 | 426 |
+| Imperial Orcs | 7 | 82 | 42 |
+| League | 34 | 474 | 238 |
+| Marches | 19 | 208 | 105 |
+| Navarr | 36 | 439 | 220 |
+| Urizen | 26 | 304 | 153 |
+| Varushka | 25 | 318 | 160 |
+| Wintermark | 34 | 372 | 187 |
+| General | 319 | 3993 | 1997 |
+
+## Anchor the Way in Asavea
+
+Click *Expand* to see the list of contributions made to Anchor the Way in Asavea.
+
+- 1 throne 5 rings provided by Accalon after Summer Solstice 386YE
+- 1 throne 4 rings provided by Rafael Barossa d'Apulian after Summer Solstice 386YE
+- 1 throne provided by Aster Aceae after Summer Solstice 386YE
+- 2 crowns 1 ring provided by Tethros i Zuhri i Erigo after Summer Solstice 386YE
+- 2 crowns provided by Raya 'Rye' Dredger after Summer Solstice 386YE
+- 2 crowns provided by Xanthe i Glasta i Riqueza after Summer Solstice 386YE
+- 1 crown provided by Sufyan i Zuhri i Guerra after Summer Solstice 386YE
+- 1 crown provided by Caleb of the Cenotaph after Summer Solstice 386YE
+- 1 crown provided by Nathair Autumngale after Summer Solstice 386YE
+- 1 crown provided by Tom Keeper, of Copperhill after Summer Solstice 386YE
+- 1 crown provided by Litmund Sygbaldsbran after Summer Solstice 386YE
+- 1 crown provided by Olyvar of Esther's Sanctum after Summer Solstice 386YE
+- 1 crown provided by Rhys Nighthaven after Summer Solstice 386YE
+- 1 crown provided by Estevanico i Hayim i Riqueza after Summer Solstice 386YE
+- 1 crown provided by Konstantin Rabovich Bolotnikov after Summer Solstice 386YE
+- 1 wain of white granite provided by Averil Olsen Warsmith the Iron Way after Autumn Equinox 386YE
+- 20 thrones provided by Dagon Barossa after Autumn Equinox 386YE
+- 10 thrones provided by Ehud after Autumn Equinox 386YE
+- 1 throne provided by Aspar after Autumn Equinox 386YE
+- 2 crowns 6 rings provided by Tethros i Zuhri i Erigo after Autumn Equinox 386YE
+- 2 crowns 5 rings provided by Sufyan i Zuhri i Guerra after Autumn Equinox 386YE
+- 2 crowns provided by Richardo Glostari di Sarvos after Autumn Equinox 386YE
+- 1 crown provided by Tom Keeper, of Copperhill after Autumn Equinox 386YE
+- 1 crown provided by Olyvar of Esther's Sanctum after Autumn Equinox 386YE
+- 1 crown provided by Rhys Nighthaven after Autumn Equinox 386YE
+- 1 crown provided by Konstantin Rabovich Bolotnikov after Autumn Equinox 386YE
+- 10 wains of white granite provided by Rafael Barossa d'Apulian after Winter Solstice 386YE
+- 2 wains of white granite provided by Richardo Glostari di Sarvos after Winter Solstice 386YE
+- 1 wain of white granite provided by Averil Olsen Warsmith the Iron Way after Winter Solstice 386YE
+- 8 thrones 2 crowns 1 ring provided by Ashborn Atla after Winter Solstice 386YE
+- 1 throne 4 rings provided by Yosephus Morningson after Winter Solstice 386YE
+- 1 crown 16 rings provided by Sufyan i Zuhri i Guerra after Winter Solstice 386YE
+- 1 crown provided by Masha Sigeling after Winter Solstice 386YE
+- 1 crown provided by Rhys Nighthaven after Winter Solstice 386YE
+- 3 wains of white granite provided by Rafael Barossa d'Apulian after Spring Equinox 387YE
+- 1 throne 2 rings and 1 wain of white granite provided by Aurum of the Nightingale Temple after Spring Equinox 387YE
+- 1 throne provided by Ehud after Spring Equinox 387YE
+- 1 crown 3 rings provided by Duncan of Ashill after Spring Equinox 387YE
+- 1 crown provided by Tom Keeper, of Copperhill after Spring Equinox 387YE
+- 1 crown provided by Rhys Nighthaven after Spring Equinox 387YE
+- 1 crown provided by Leif Dreambinder after Spring Equinox 387YE
+- 1 crown provided by Soběslava Soběslavna Sovová after Spring Equinox 387YE
+- 1 crown provided by Vardas Sentinels Tower after Spring Equinox 387YE
+- 5 rings in small donations provided after Spring Equinox 387YE
+- 7 crowns and 1 wain of white granite provided by Elagabala after Summer Solstice 387YE
+- 1 wain of white granite provided by Sufyan i Zuhri i Guerra after Summer Solstice 387YE
+- 1 wain of white granite provided by Dagon Barossa after Summer Solstice 387YE
+- 1 wain of white granite provided by Aspar after Summer Solstice 387YE
+- 1 wain of white granite provided by Rafael Barossa d'Apulian after Summer Solstice 387YE
+- 1 wain of white granite provided by Athiel Westernborn of the Cenotaph after Summer Solstice 387YE
+- 1 wain of white granite provided by Asier i Elia i Guerra after Summer Solstice 387YE
+- 1 wain of white granite provided by Accalon after Summer Solstice 387YE
+- 2 crowns provided by Nicodemus of Balthazar's Vineyard after Summer Solstice 387YE
+- 1 crown provided by The Flame of Riqueza after Summer Solstice 387YE
+- 1 crown provided by Mael of the Shattered Tower after Summer Solstice 387YE
+- 1 crown provided by Tom Keeper, of Copperhill after Summer Solstice 387YE
+- 1 crown provided by Rhys Nighthaven after Summer Solstice 387YE
+- 1 crown provided by Berith Relieur after Summer Solstice 387YE
+- 1 ring in small donations provided after Summer Solstice 387YE
+- 1 crown provided by Rhys Nighthaven after Autumn Equinox 387YE
+- 1 crown provided by Watt of Lambrook after Autumn Equinox 387YE
+- 11 rings in small donations provided after Autumn Equinox 387YE
+- 2 crowns 16 rings provided by Farren Silver Streams after Winter Solstice 387YE
+- 2 crowns provided by Dagon Barossa after Winter Solstice 387YE
+- 2 crowns provided by Hildelith Kaukosdottir after Winter Solstice 387YE
+- 1 crown provided by Tethros i Zuhri i Erigo after Winter Solstice 387YE
+- 1 crown provided by Masha Sigeling after Winter Solstice 387YE
+- 1 crown provided by Rhys Nighthaven after Winter Solstice 387YE
+- 1 crown provided by Mael of the Shattered Tower after Winter Solstice 387YE
+- 1 crown 15 rings and 8 wains of white granite provided by Athiel Westernborn of the Cenotaph after Spring Equinox 388YE
+- 1 throne 2 crowns provided by Garibaldi Constanza after Spring Equinox 388YE
+- 1 crown provided by Nicodemus of Balthazar's Vineyard after Spring Equinox 388YE
+- 1 crown provided by Masha Sigeling after Spring Equinox 388YE
+- 1 crown provided by Giovanni von Temeschwar after Spring Equinox 388YE
+- 1 crown provided by Rhys Nighthaven after Spring Equinox 388YE
+- 1 crown provided by Hildelith Kaukosdottir after Spring Equinox 388YE
+- 1 crown provided by Vardas Sentinels Tower after Spring Equinox 388YE
+- 5 rings in small donations provided after Spring Equinox 388YE
+- 2 thrones 1 crown 13 rings provided by Hildelith Kaukosdottir after Summer Solstice 388YE
+- 1 crown provided by Athiel Westernborn of the Cenotaph after Summer Solstice 388YE
+- 1 crown provided by Anatoly Vtorov Kovalevich after Summer Solstice 388YE
+- 1 crown provided by Rhys Nighthaven after Summer Solstice 388YE
+- 1 crown provided by Rhydian de Rondell after Summer Solstice 388YE
+- 1 crown provided by Berith Relieur after Summer Solstice 388YE
+- 7 rings in small donations provided after Summer Solstice 388YE
+- 1 crown provided by Kostjya after Autumn Equinox 388YE
+- 2 rings in small donations provided after Autumn Equinox 388YE
+
+---
+
+Categories: [Synod](../../indexes/by-category/Synod.md), [Synod Results](../../indexes/by-category/Synod_Results.md), [Synod Judgements](../../indexes/by-category/Synod_Judgements.md), [388YE Spring](../../indexes/by-category/388YE_Spring.md)

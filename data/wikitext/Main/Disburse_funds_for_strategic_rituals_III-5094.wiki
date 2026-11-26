@@ -1,0 +1,17 @@
+<ic>
+Disbursement of funds for strategic military magic.<br><br>''Proposed by Morrow, seconded by Weirwater''</ic>
+
+==Overview==
+* A request for funds with which to buy materials for rituals with military applications.
+
+==Date==
+* Summer 379YE
+
+==Cost==
+* Passed at 80 thrones
+
+==Progress==
+* 80 thrones were disbursed to the senator for Morrow
+[[Category:Senate Motion]]
+[[Category:379YE Summer]]
+__NOTOC__

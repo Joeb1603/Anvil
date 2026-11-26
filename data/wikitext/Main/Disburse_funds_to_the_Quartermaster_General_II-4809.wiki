@@ -1,0 +1,19 @@
+<ic>
+To allocate funds for resupply of the Imperial Armies.<br><br>''Proposed by Bregasland, seconded by Sermersuaq''</ic>
+
+===Overview===
+* A request for funds for the [[Quartermaster General of the Imperial Armies]]
+* Passed at 300 Thrones (defeated at 350 Thrones).
+
+==Date==
+* Winter 378YE
+
+==Cost==
+* 300 Thrones
+
+==Progress==
+* 300 Thrones disbursed to Senator Bregasland.
+
+[[Category:Senate Motion]]
+[[Category: 378YE Winter]]
+__NOTOC__

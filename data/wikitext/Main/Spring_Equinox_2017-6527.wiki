@@ -1,0 +1,100 @@
+==Overview==
+This page lists all the details that are specific for the Spring Equinox 2017. There is an additional page with [[event information]] which lists arrival and departure times and similar details that are common for all Empire events.
+
+==IC News==
+Please see the [[381YE Spring Equinox winds of fortune]] for the latest IC developments known throughout the Empire.  An [[Event schedule]] that shows timings of IC activities common to all Empire events is also available. The schedule is also available in printable PDF format  [https://www.profounddecisions.co.uk/mediawiki-public/images/1/16/Civil_Service_Timetable_Spring_381YE_Print_Format.pdf here]. 
+A list of what Imperial elections are taking place this event can be found [[381YE_Spring_Equinox_Imperial_elections | here]]
+
+{| class="wikitable" style="width:300px; float: left; margin: 10px;"
+|-
+! Nation !! Force Weight 
+|-
+| Wintermark || 22
+|-
+| Navarr || 17
+|-
+| Dawn || 17
+|-
+| Highguard || 11
+|-
+| Varushka || 9
+|-
+| League || 10
+|-
+| Marches || 6
+|-
+| Urizen || 7
+|-
+| Imperial Orcs|| 5
+|-
+| Brass Coast || 7
+|}
+
+==Battles==
+At the event we will be running two large battles, one Saturday morning and one Sunday morning. The large battles will follow the normal rules for [[battles]]; you may only participate in a single battle as your character and you must monster the other battle if you decide to participate in one. The sides for the battles will be chosen by the generals in the [[Muster]] of the [[Military Council]] on Friday night. 
+
+The Sentinel Gate opens at 11:00 am - regardless of whether anyone is ready or not! If you are playing then make sure you arrive in plenty of time before this so your weapons can be checked.
+
+If you are monstering then you need to make your way to the monster area between 9:30 and 10:00 am to give us time to get you into costume, made-up and briefed. If you turn up after 10:30 you will be turned away.
+
+At this event, the best estimate of the fighting strength of each nation provided by the civil service is as follows. of their options, which nations could take the battlefield together. Each of the two battles must have at least 54 and at most 57 force weight sent on it. 
+
+===National Weightings===
+All the nations are much bigger than the numbers listed - the numbers listed reflect the relative numerical strength of the nations not the actual number of fighters who take the field.
+<!--
+==Quests==
+At our previous event we asked for player volunteers to give us a few hours to monster some of our larger quests. This let us run much more plot at the event so we're asking for more help again this time. 
+
+To help us organize folk, we've set aside a slot for each nation to volunteer to monster, which are listed below.
+
+<table>
+<tr><th colspan="2">Saturday</th><th colspan="2">Sunday</th></tr>
+<tr><th>Time</th><th>Nation</th><th>Time</th><th>Nation</th></tr>
+<tr><td>14:00-15:30</td><td>Dawn</td><td>14:00-15:30</td><td>Imperial Orcs & The League</td></tr>
+<tr><td>15:30-17:00</td><td>Navarr</td><td>15:30-17:00</td><td>Wintermark</td></tr>
+<tr><td>17:00-18:30</td><td>The Marches, Urizen & Brass Coast</td><td>17:00-18:30</td><td>Varushka & Highguard</td></tr>
+</table>
+
+Monstering during this slot is purely voluntary - but it will help us put on a much better event for everyone. We are tracking the numbers of players who volunteer from each nation on an ongoing basis and using that to create equivalent sized quest opportunities for those nations at the next event. In effect, we'll try and deliver more fights to the nations that volunteer the most - on the assumption that those nations contain the players who want those opportunities the most.
+-->
+{{CaptionedImage|file=Site Layout 2017.png|title=Site Map|align=right|width=450px}}
+
+==Site Map==
+The site map is opposite; the camp coordinators for each camp will have their own layout for their camp, showing where all the tents they know about are to be pitched. If you do not know where you are supposed to be camping, then please speak to them on arrival at your nation's camp.
+
+==Mobility Camp==
+The area marked with a wheelchair on the out-of-character camp is intended for participants with mobility needs. We have permission from the land owner for the handful of players with legitimate mobility needs to come and go from this area through the weekend. Please let the crew know if you have a disability that means you will need to camp here.
+
+The nearest disabled toilet is approximately 10 m away in the adjacent hygiene block. There is a second disabled toilet 120 m away in the in-character field near Varushka and the Imperial Orcs.
+
+==Traders==
+The following traders have booked for the event.
+
+<!--* [http://www.battle-ready.com/ Battle Ready] Hand crafted leather goods.-->
+* [https://www.facebook.com/groups/779830935517621/ Cantrips] Affordable handmade, new & used costumes, props and accessories.
+* [http://www.chowsemporium.co.uk/ Chows Emporium] Costume, leather gloves, products related to drinking and accessories.
+* [http://history-explorer.co.uk/ Coelred Monger] Suppliers of replica costume and artefacts.
+* [https://www.facebook.com/Craeftigan1/?pnref=lhc Craeftigan] Beautiful weapons and costume that are perfect for Empire.
+* [http://www.darkbladeuk.co.uk Darkblade] Leather Stuff.
+* [https://www.facebook.com/Das-Shoppe-649766365145562/ Das Shoppe] New and second hand costume, leatherwork, weapons, props and furniture. Trade ins welcome.
+* [http://www.eldritch.com/ Eldritch] Weapons and armour.
+<!--* [http://www.evenlodestudio.com/ Evenlode Studio] Evenlode Studio supply a wide range of props and costume. These include all kinds of leather armour and costume, masks suitable for Empire, natural accessories and much much more.-->
+* [http://gems-costumes.co.uk/ Gem’s Trading Co] Costumes and leatherwork. Fine quality tailored garments and LRP props. Also a wide range of hand made leather items and missile weapons supplied by Arrow Kaster available to order. 
+<!--* [http://www.thegrandexpedition.org/ Grand Expedition] Costume and jewellery and trips to foreign parts. -->
+* [http://havingalarp.com/ Having A Larp] Costume, weapons, armour and LARP accessories.
+<!-- * [http://www.facebook.com/pages/In-your-dreams-fx/192314837505703?fref=ts In Your Dreams FX] Weapons, armour, masks and arrows. -->
+* [http://www.facebook.com/pages/Irregular-Props/328388753859110 Irregular Props] Weapons, shields and mage implements designed especially for Empire.
+* [http://www.lightarmoury.co.uk/ Light Armouries] Supplier of latex weapons and props.
+* [http://mandalastudios.co.uk/ Mandala Studios] High quality latex prosthetics and masks tailor made for the Empire campaign.
+<!--* Millstream Forge Metalwork - located next to Skian Mhor.-->
+<!--* Quiverstock - archery supplies-->
+<!--*[http://www.romanyrobes.co.uk Romany Robes] A range of beautiful costume at reasonable prices.-->
+<!--*[http://www.saxonviolence.com/index.php Saxon Violence]A wide range of weapons suitable for Empire.-->
+*[http://www.skianmhor.co.uk Skian Mhor] Latex Weapons and props. Costume, armour, leatherwork, chainmail, tents and all types of LRP supplies and essentials.
+<!-- * [https://www.facebook.com/TwistedFlaxKit?fref=ts Twisted Flax] -->
+* [http://www.velvetglove.pwp.blueyonder.co.uk/ Velvet Glove Costumes] Costumes, make-up, prosthetics, jewellery with more to come!
+* [http://www.whiteroseapparel.com/index.htm White Rose Apparel] Beautiful armour.
+<!--* [https://www.facebook.com/WinterforgeArmouries Winterforge Armouries] Bespoke LRP weapons, Leather, props and commission work.-->
+* Wonderlust Couture - custom made, individual jewellery and costume in various designs.
+
+[[Category:Events]]

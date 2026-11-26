@@ -1,0 +1,135 @@
+---
+title: Some kind of fight
+source: https://www.profounddecisions.co.uk/empire-wiki/Some_kind_of_fight
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 384YE Spring
+- Recent History
+event: 384YE Spring
+last_edited: '2026-03-19T01:25:06Z'
+revision: 135769
+in_character_boxes: 1
+---
+
+# Some kind of fight
+
+> *In-character text:*
+>
+> Haros looked down at the long list of conjunctions that his team had been able to identify. Hours of painstaking work, compiling and cross-referencing scouting reports from across the Empire, all of which then had to be expensively checked against the Sentinel Gate using Detect Magic. Sometimes he wondered if there wasn't a better way to do this.
+>
+> He stared at the list. Two conjunctions... at the same time. Of course the largest conjunctions often split that way, but it was rare for smaller ones to do so. Hadn't happened in years. Although according to the records there'd been over a dozen in the year leading up to Britta's death. That was undoubtedly a coincidence. Probably.
+>
+> "Check this again" he said to Myrnos pointing at the two linked conjunctions. "If there's any possibility that we can access both those conjunctions... any possibility at all... then we need to make sure we don't miss it."
+>
+> Myrnos looked up at his mentor. "We've already checked them both" he said "Twice. I know it's unusual, but we confirmed it. They're definitely linked."
+>
+> "Leave it a week, then check again." Even as he said it, he knew he was wasting his time. It was unusual for conjunctions to move in time and space, but not that rare. But deep down he knew this pair were never going to split apart. Someone was going to have to chose...
+
+*[Image: Yaw'nagrah and her myriad children are enemies of the Empire, and must be rooted out wherever their sweet green corruption can be found.](https://www.profounddecisions.co.uk/empire-wiki/File:SpringEternal1.JPG)*
+
+## Overview
+
+At the Winter Solstice, the Imperial Senate [instructed the magistrates](../senate-sessions/383YE_Winter_Solstice_Senate_sessions.md#request-magistrates-investigate-followers-of-yawnagrah) to leave no stone unturned in their pursuit of the Yaw'nagrah cultists that have plagued the Empire. The pursuit is not without price, production at mana sites all over the Empire has been disrupted by the activities of the militia and the magistrates - [disruption that is due to continue for another season to come](Faded_from_the_winter.md#roots). It has been effective however, dozens of low-level initiates have been caught by the militia and dealt with by the magistrates. Crucially the constant pursuit is preventing Yaw'nagrah from being able to re-establish a presence anywhere, making it harder for them to cause further problems.
+
+To settle the matter though, the Empire needs to find the leaders of the cults and deal with them. Thus far there have been few good leads, but the magistrates are certain that they will have tracked the key individuals down once the investigation is complete. In the meantime, a large force of Navarr have volunteered to go to Liathaven, to see if there is any truth to the theory that the Heirs of Terunael are based here.
+
+Fortunately, it seems that all this shaking the tree has caused at least one apple to fall. Admittedly it hasn't fallen into the Empire's lap... but at least one of agent of Yaw'nagrah is now out in the open.
+
+## Back To The Source
+
+- **The Navarr have sent nearly thirty military units to Liathaven to track the cultists back to their lair**
+- **The scouts have a short report of whatever they have managed to discover this season**
+- **Their report will include details of an opportunity to use military force to attack the Heirs of Terunael**
+
+All the information the Silent Bell were able to procure pointed towards the stronghold of the Heirs of Terunael being someone in Liathaven. Many of the heirs fled are known to have travelled here, at one time or another, often when fleeing from encounters with Imperial forces. As far as the Silent Bell have been able to determine, all their leads point back to the unconquered vallorn heart near the centre of this ancient forest.
+
+In an attempt to discover more about their enemy, the Navarr have sent a small army of scouts into the territory, accompanied by one sympathetic Marcher. There is a spy network in the territory that remains concealed and viable to the best of the Empire's knowledge, and the ideal location to scout from. The Empire still maintains a toehold in the territory, but only just, with barely a handful of Navarr steadings left in the territory. There are known enemies here as well, with the Jotun in control of the northern regions of the territory, and a significant Feni presence somewhere in the forest.
+
+Much of the political and military situation in the territory is already well known, but the returning scouts will have the latest most up-to-date knowledge on what is happening there. They may also, finally, have some clue as to the identity of the leader of the Heirs of the Terunael. The Navarr are also hoping to use the intelligence recovered as the basis for a military attack on the Heirs, but the value of such information usually decays quickly. To help ensure that this effort isn't wasted, Rhian Swiftlark, one of the Imperial prognosticators took a group of fellow Navarr volunteers and travelled with the scouts. Her plan was to try and coordinate the information as it arrived at the spy network, rather than wait for it to get back somewher safe.
+
+The goal was for her small team of prognosticators to be able to conduct a rigorous analysis of the reports while still in the field. If the plan has been successful, and there is no reason to think it won't be, then the leaders of the returning scouts will each have one copy of the information they have collectively recovered along with Rhian's analysis of what opportunities are available. She is a skilled prognosticator, who has a lot of experience with the vallorn, so the civil service are confident that she will have been able to provide the returning scouts with a definitive description of what could be achieved and how much military force it would take to accomplish it.
+
+But until the start of the summit, the only people who have those details are the leaders of the scouting units assigned to the Liathaven [spy network](../../out-of-character/rules/Spy_network.md). The Empire has a [complete list of everyone who travelled to Liathaven](../roll-of-honour/Imperial_Roll_of_Honour.md), so now it is just a matter of waiting for those people to reach Anvil with their report.
+
+> **Conjunction**  
+> The information presented here details the background and objectives for one or more [conjunctions](../world/Sentinel_Gate.md#conjunctions) of the [Sentinel Gate](../world/Sentinel_Gate.md). Details relating to the day, timing, gate size, and any additional information will be summarised on the Wind of Fortune conjunction page for the event, usually one of the last of the winds to be released.
+>
+> For most conjunctions we've suggested Imperial titles that might be most fitting to take overall responsibility for ensuring that an opportunity is organised. Whilst the named individual has been deemed the most appropriate by the Civil Service, there is no legal requirement for them to coordinate a response or travel on the conjunction. They may delegate oversight to another individual of their choosing. As always, Imperial war scouts will be on hand at the muster point by the Sentinel Gate to provide further information to any citizens wanting to know more.
+>
+> Sometimes it is necessary to make small adjustments to the timing or size of skirmishes, owing to delays or availability of crew that arise between the time of publication and when an encounter runs at the event. Details will be finalised on Friday afternoon of the event before time-in. Please do check the details of a conjunction you are interested in before using the gate to ensure that you have the full and up to date information. You can check a conjunction by casting [Detect Magic (Discover Conjunction)](../../out-of-character/rules/Detect_magic.md#discover-conjunction) on the Sentinel Gate in the presence of a ref.
+
+## Twin Gates
+
+- **An important twinned conjunction has arisen, the Empire could go to Holmwood *or* they could travel to Vale’s Fast - but not both**
+- **If the Empire choose Holmwood they can ensure they can ensure the inhabitants of the area are able to escape the vallorn attack safely**
+- **If the Empire choose Vale’s Fast they have a chance to attack one of the leaders of the cult of Yaw'nagrah who is driving the vallornspawn into Casinea**
+- **The civil service suggest that the General of the Towerjacks might take responsibility for the conjunction**
+
+While the Empire are searching for them in Liathaven, it appears that the allies of the Heirs of Terunael, the cabals of Yaw'nagrah, are not content to sit and wait for the Empire to travel them down. Two weeks before the Spring Equinox the Navarr thorns patrolling the borders of Brocéliande report that a host of vallornspawn have shambled out of Vale's Lament and crossed the border into Mareholm, Casinea. It comes as an immediate relief to many that this advance is not one of the rare occurrences of the vallorn's miasma extending outward over new lands. Instead, this appears to be a singular and contained movement of spawn into Mareholm.
+
+The horde is composed primarily of infested corpses and the occasional vallorn briar, an enemy encountered and defeated many times by the Navarr and heroes of the Empire. It is large, but not massive; perhaps several hundred shambling creatures at most. Navarr thorns are quick to track the enemy and report the wave of spawn is being directed by an elusive cultist of Yaw’nagrah, who has only been glimpsed a few times at the rear of the mass. Dubbed the *Shadowspore*, it is unclear who this cultist actually is; maybe a fallen Navarri? Perhaps one of the surviving members of the Green Fountain or Cabal of the Green Mother?
+
+A number of Holberg free companies attached to the Towerjacks, currently resupplying in the region, have already begun moving to stand against the vallorn, with combat expected in the days immediately after the equinox. The hardened soldiers, steeled in battle against the Druj on the besieged walls of their fine city, are expected to make short work of the spawn, even though they lack much in the way of mages capable of casting venomous spells, or in the use of blade venoms typically employed by Navarr vallorn-hunters. However, despite the support of the League army, the shambling corpses still present a very ready threat to the populace of Mareholm. The farming settlement of **Holmwood** is currently surrounded by the creatures, and the guiding hand of *Shadowspore* has ensured the citizens there have been effectively corralled, preventing their escape.
+
+Unusually, the prognosticators have detected two large conjunctions related to this opportunity, but it appears only a single chance to use the Sentinel Gate exists. This situation has been likened to the major conjunctions that allow the combined might of the Imperial nations to bring battle to the foes of the Empire, albeit on a much smaller scale. There is no possibility of travel on both conjunctions, leaving the empire with a difficult choice.
+
+Someone will need to make a decision on which conjunction the Empire will pursue. The civil service suggest that the General of the Towerjacks might take responsibility for this, or their designated appointee, since they are the general of the military forces already in the area. Whoever is taking charge of the situation should inform the War Scout at the Sentinel Gate which opportunity they wish to travel on well in advance of the conjunction's start time.
+
+The miasma, commonly encountered close to powerful areas of vallorn, is not yet present at either Holmwood or Vale's Fast.
+
+### Holmwood
+
+The first conjunction leads to the outskirts of **Holmwood** close to the surrounded villagers who have taken sanctuary in the farm buildings and a chapel. Using this conjunction would allow the Empire to engage the majority of the spawn in combat, breaking their strength and ensuring the trapped citizens could be led to safety by the forward elements of the Towerjacks.
+
+**Success or failure:** If the Empire are able to engage the main body of the vallornspawn and destroy them then they will ensure that the Towerjacks are able to save the villagers who have taken refuge in the chapel and the farm buildings at Holmwood. The army will be able to evacuate everyone who is trapped and ensure that no lives are lost. Holmwood will likely be badly damaged in the resulting fighting, but once the spawn are destroyed then the people will be able to return to their lives. However, if the Empire chooses this option Shadowspore will escape.
+
+### Vale's Fast
+
+A second conjunction leads to **Vale’s Fast** close to the rear of the vallornspawn horde and near the last sighting of *Shadowspore*. Using this opportunity, the Empire can make a strike against the cult leader, potentially slaying them and leaving the spawn without direction and the Towerjacks with a simple operation to mop up the remaining monsters. This is the best chance available to take out Yaw’nagrah’s agent and prevent them from further rousing the vallorn in the future. However, the villagers of Holmwood would be left exposed and at the mercy of the spawn before the Towerjacks can reach them.
+
+**Success or failure:** Destroying the vallornspawn is ultimately fruitless. The Empire might temporarily rob the vallorn of vitality in an area, but it always recovers quickly. But if the heroes can locate and destroy Shadowspore then they will be able to rob Yaw'nagrah of a powerful agent inside the Empire, one the eternal cannot easily replace. Whoever or whatever Shadowspore is, they are likely to be well protected by the infested corpses. However, if the Empire chooses this option then the villagers of Holmwood will be slaughtered by the vallorn before the Towerjacks can reach them.
+
+> **[Vallorn miasma](../nations/navarr/Vallorn.md#vallorn-miasma)**  
+> All characters on a skirmish in Brocéliande are under a permanent VENOM effect whilst in the vallorn miasma, and will eventually experience symptoms of nausea or mild feverishness unless they:
+>
+> - Are the target of the  [Vitality of Rushing Water](../../mixed/magic/rituals/Vitality_of_Rushing_Water.md) ritual
+> - Are bonded to an  [Abraxus Stone](../../mixed/magic/items/Abraxus_Stone.md)
+
+## Simple Strikes
+
+In addition to the mysterious attack by Shadowspore, the Empire has identified two other conjunctions that are likely linked to forces of Yaw'nagrah. Fortunately these gates are not conjoined, there is no need to pick between one or the other. However the scouts warn that both of these conjunctions lead to areas that are steeped in [vallorn miasma](../nations/navarr/Vallorn.md#vallorn-miasma). Imperial heroes contemplating risking their lives though either gate should take appropriate precautions.
+
+### Broch's Approach
+
+- **The civil service suggest that the Advisor on the Vallorn might take responsibility for the conjunction**
+- **The Empire has a chance to deny the forces of Yaw'nagrah to use a small but important Spring regio**
+
+A sizable force of vallorn are blocking an important route through **Broch's Approach**, seemingly drawn to a minor spring regio there. A conjunction has been identified to the location, where Imperial forces may be able to disperse the vallornspawn and then hold the area, cutting down any further forces that approach. Navarr rangers understand that the conjunction will open very close to the regio, so any going through should be prepared for immediate enemy presence.
+
+**Success or failure:** The Empire will need to seize control of the nearby regio and hold it. The scouts anticipate that the spawn will attack in waves as reinforcements flood the area once the Empire emerge. The heroes will need to hold the regio itself until the waves break to ensure that whoever is directing the spawn is not able to access the regio to make use of it. Given the presence of the regio, and the way the vallorn are being drawn to it, the scouts anticipate that failure will mean that Yaw'nagrah is able to use the regio to unleash a curse of some kind over the area - but it's impossible to know what in advance.
+
+### Black Hearth Steading
+
+- **The civil service suggest that the Advisor on the Vallorn might take responsibility for the conjunction**
+- **If successful, the Empire would gain an opportunity to re-establish a strategically important steading at the Autumn Equinox**
+
+Black Hearth Steading is the site of a former steading in a strategically important location that had to be abandoned and has since fallen into ruin. Former inhabitants of Black Hearth are keen to re-establish their steading and had been working towards that goal, despite the danger, but it seems forces of Yaw'nagrah may soon make that impossible without intervention from Anvil. A group of heralds of Yaw'nagrah have been using [spring magic](../../mixed/magic/rituals/Rising_Roots_that_Rend_Stone.md) to tear down any signs of civilisation in Black Boughs to return it to the forest. Now they are drawing near to Black Hearth accompanied by a sizable force of infested spawn.
+
+Thee scouts have identified three heralds in the area. If they can be prevented from reaching the palisade walls of the steading, then they will save the steading from destruction. The heralds only need to touch the walls, so holing up and defending from inside the fort probably won't work. Ideally it would be better to slay the heralds, but a strategy to aggressively hunt them down is riskier.
+
+**Success or failure:** Merely killing the vallornspawn will not achieve much - whatever force animates the vallorn can quickly create new shambling plant-infested horrors. To succeed, the Empire will need to ensure that none of the heralds of Yaw'nagrah is able to get close enough to touch the palisade walls of the steading to allow them to unleash their magic on it. If the heroes could kill the heralds but to succeed they just need to keep them away from the walls for at least ten minutes, as the creatures will need to unleash the spring rituals they have prepared in that time, or else they will fail. Doing so will ensure Black Hearth Steading is saved and create an opportunity to reoccupy and rebuild this strategically important steading by the time of the Autumn Equinox. If they fail then the heralds will unleash their magic and the last remnants of the abandoned steading will be destroyed.
+
+## Further Reading
+
+- [Faded from the winter](Faded_from_the_winter.md) - the Winter 383YE wind of fortune which dealt with opportunities to take the fight to the Heirs and the followers of Yaw'nagrah
+- [Rise of Terunael](Rise_of_Terunael.md) - the Autumn 383YE wind of fortune which laid out the Heirs' most recent stratagem
+- [Fire and Hemlock](../winds-of-war/383YE_Winter_Solstice_winds_of_war.md#fire-and-hemlock) - details the Empire's response to their plans
+- [Briar Prejudice](383YE_Winter_Solstice_winds_of_fortune.md#briar-prejudice) and [Briar Flowers](383YE_Winter_Solstice_winds_of_fortune.md#flowering-briars)- General briar updates
+- [The Vate's Shelter](../../mixed/magic/items/Abraxus_Stone.md#the-vate27s-shelter) - details what is known about the missing artefact
+- [Yaw'nagrah](../eternals/Yaw-nagrah.md) - lays out some information about the Spring eternal
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [384YE Spring](../../indexes/by-category/384YE_Spring.md), [Recent History](../../indexes/by-category/Recent_History.md)

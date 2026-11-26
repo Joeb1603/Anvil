@@ -1,0 +1,52 @@
+{{CaptionedImage|file=The_Parador_of_Salt_and_Sand.jpg|caption|align=left|width=300}}
+===Overview===
+The Hakima of Salt and Sand is an [[Imperial title]] that oversees a [[ministry]] in [[Madruga]]. Work on the Parador of Salt and Sand was [[Construct Parador of Salt and Sand|commissioned]] by the [[Senate]] in Winter 384YE following a [[The_power_behind_our_moves#Quzar|proposal]] by a refugee [[hakima]] from [[Feroz]], Ishala i Erigo.  The [[#Parador of Salt and Sand|Parador of Salt and Sand]] itself is built in the shadow of the Towers of [[Madruga#Lightsea|Quzar]], in [[Madruga]], and intended to serve as a meeting place for hakima to discuss their business, and for visitors to take lodgings.
+
+Following the Winter Solstice 386YE '''Bakar i Riqueza''' funded the addition of a series of chambers to the Parador; designed to store maps of the shifting marshes of [[Madruga]], as part of the opportunity presented in the '''[[Made_anew#Explorers_of_Salt_and_Sand|Made anew]]''' wind of fortune.
+===Responsibilities===
+The Hakima of Salt and Sand is expected to represent the hakima who visit the Parador of Salt and Sand. They are also responsible for ensuring the continued safety of travellers who visit or stay there. If the Parador were to be threatened in any way it would be the responsibility of the Hakima to deal with those threats.
+
+==Powers==
+===Bounty of Crystals===
+<div style="float:right; width: 400px; clear: right; margin-left: 10px;">
+<table style="width:400px; float: right; margin-left:10px;" class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Mana Crystals'''</td><td style="background-color: LightBlue;"></td>
+<tr><td>7 Crowns</td><td>8 mana crystals</td></tr>
+<tr><td>17 Crowns</td><td>16 mana crystals</td></tr>
+<tr><td>32 Crowns</td><td>25 mana crystals</td></tr>
+<tr><td>50 Crowns</td><td>33 mana crystals</td></tr>
+<tr><td>70 Crowns</td><td>42 mana crystals</td></tr>
+</table>
+</div>
+The Hakima of Salt and Sand has access to a [[ministry]]. The Hakima can purchase quantities of mana crystals from the hakima who visit, trade and debate at the Parador for set prices. The Hakima makes their decision how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+===Pawns of Adversity===
+<div style="float:right; width: 400px; clear: right; margin-left: 10px;">
+<table style="width:400px; float: right; margin-left:10px;" class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Vis'''</td><td style="background-color: LightBlue;"></td>
+<tr><td>7 Crowns</td><td>3 pawns of Adversity vis</td></tr>
+<tr><td>16 Crowns</td><td>6 pawns of Adversity vis </td></tr>
+<tr><td>30 Crowns</td><td>10 pawns of Adversity vis </td></tr>
+</table>
+</div>
+The Hakima can purchase quantities of Adversity vis (that is a combination of [[Vis#Vital Honey|vital honey]], [[Vis#Crystal Fire|crystal fire]], and even [[Vis#Heart's Blood|heart's blood]]) from the hakima and their kohan who explore the marshes and the Quiet Grasses. The Hakima makes their decision on how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+<div style="float:right; width: 500px; clear: right;"><box><big>'''Suitability'''</big><br>The Hakima of Salt and Sand is intended to be held by a hakima: the hakima who visit and trade at the Parador of Salt and Sand expect one of their own to be responsible for overseeing the Parador. If the title is held by a character who does not have the [[hakima]] archetype then the player must email admin@profounddecisions.co.uk to let us know.</box></div>
+
+==Appointment==
+The Hakima of Salt and Sand is appointed during the Summer Solstice. The Hakima is appointed by citizens of the Brass Coast who control [[fleet|fleets]]. The voting is handled by the civil servants in the Bourse. 
+
+Only a Brass Coast character may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+==Parador of Salt and Sand==
+The Towers of Quzar are known as a gathering place for hakima from all across the Brass Coast. There is a yearly council that meets here every midsummer to share knowledge and gossip. As a result, most of the hakima who [[To_curb_those_raging_appetites#A_Sweet_Sorrow|fled]] conquered [[Feroz]] after it was taken by the [[Grendel]] have come here, along with many families who have an interest in [[Autumn magic]]. The town itself has become filled with magicians discussing their affairs.
+
+In Summer 384YE a refugee hakima named '' Ishala i Erigo'' put forward the proposal to construct the Parador of Sand and Salt, a spacious meeting house where hakima could discuss their business together and where visitors could find lodgings. It would also serve as a market for those interested in buying or selling crystal mana to find others with similar concerns.
+ 
+Since it was completed, the Parador has solidified the central importance of Quzar, and created an extensive community of hakima. The building has become known across the Brass Coast and beyond as a place to rest, and enjoy both fine food and drink and excellent company. especially if one is a magician
+
+===Expansion===
+While the Parador stands, it can be upgraded into a full [[college of magic]] at any time at a cost of 45 wains of mithril, 55 wains of weirwood, 55 wains of white granite, and 465 crowns. The upgrade would require a commission slot and could be authorised by anyone with the power to commission a college of magic. The Hakima of Salt and Sand would retain the ability to purchase mana crystals from the Parador but gain the [[College_of_magic#Benefits|additional benefits]] provided by a college of magic.
+
+If the Parador were upgraded, then the presence of so many hakima in Quzar would provide a crucial additional benefit. As long as the Hakima of Sand and Salt was seen to be a hakima in good standing, then the upkeep of the college would be reduced by 6 thrones a season.
+{{CaptionedImage|file=HakimaSaltandSand.jpg|caption='''Bakar i Riqueza''', Hakima of Salt and Sand|align=left|width=300}}
+{{RecentElections|Hakima_of_Salt_and_Sand}} 
+[[Category:Title]]
+[[Category:The Brass Coast]]
+[[Category:Bourse]]

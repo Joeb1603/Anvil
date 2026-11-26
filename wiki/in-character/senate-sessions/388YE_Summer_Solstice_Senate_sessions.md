@@ -1,0 +1,485 @@
+---
+title: 388YE Summer Solstice Senate sessions
+source: https://www.profounddecisions.co.uk/empire-wiki/388YE_Summer_Solstice_Senate_sessions
+class: in-character
+topic: senate-sessions
+categories:
+- Senate
+- Senate Sessions
+- 388YE Summer
+event: 388YE Summer
+last_edited: '2026-09-21T22:32:12Z'
+revision: 145757
+---
+
+# 388YE Summer Solstice Senate sessions
+
+## Overview
+
+The [Senate](../../mixed/government/senate/Senate.md) governs the Empire, and its authority extends to all areas of Imperial life not already covered by the other houses of government. Each summit the [senators](../../mixed/titles/Senator.md) meet [several times](../../out-of-character/events/388YE_Autumn_Equinox_event_schedule.md) to deliberate and vote on the [motions](../senate-motions/Senate_motion.md) they have raised.
+
+After the summit, the civil service enacts those motions and ensures a public record of each is made available to the citizens of the Empire. This page lists all the motions raised during the summit, along with the [announcements](../../mixed/government/senate/Senate_announcement.md) made by citizens with [Imperial titles](../../mixed/titles/Imperial_title.md). In each case, the motion and its effects are summarised, including the wording, who proposed and seconded it, whether it passed or not, whether any funds were disbursed to support it, and what the outcome of the motion will be.
+
+Many motions (especially the [commissions](../../mixed/commissions/Commission.md)) also have a *Further Details* section that provides a link to a wiki page dealing specifically with that motion in more detail, any commentary from the [Constitutional Court](../senate-motions/Scrutiny.md), progress on commissions, or expanded information about the outcome of the motion.
+
+## Treasury
+
+- Imperial treasury during this season announced by the civil service at 748 thrones and two crowns
+  - 28 thrones donated by **Magdalena Teyhard von Holberg** after the Summer Solstice 388YE for upkeep of Holberg's Walls
+  - 8 thrones donated by **Tristan Ramson von Holberg** after the Summer Solstice 388YE
+  - 16 thrones donated by **Morgan Drifting Bough** after the Summer Solstice 388YE
+
+## Administrative Motions
+
+### Amend Master of Works
+
+- **Motion:** To amend the Master of Works to be able to commission one fortification and separately to upgrade one fortification each season
+- **Raised by:** Speaker of the Senate at the Friday session
+- **Outcome:** Failed
+- **Note:** The [amendment last season](388YE_Spring_Equinox_Senate_sessions.md#amend-master-of-works) was unclear about whether Master of Works could make two separate commission announcements in a single season. If this motion is passed, they will be able to build a new fort and upgrade a fort, using two of the Senate's limited commissions. If it fails, the Master of Works will be able to either build a new fort or upgrade an existing one, but not both.
+
+## Senate Motions
+
+### Raise Fourth Navarr Army
+
+- **Motion:** To raise the fourth Navarr army mustering in Oakways, Miaren. This will be army built to fight the vallorn with the support of an eternal such as Llofir, Kaela, or other options being pursued.
+- **Proposed by:** Rowyn of the Waystone Path, Senator for Hercynia at the Saturday afternoon session
+- **Seconded by:** Thalia of Netherwatch, Senator for Redoubt
+- **Passed**
+- **Further reading:** [Raise Fourth Navarr Army](../senate-motions/Raise_Fourth_Navarr_Army.md)
+- **Note:**
+
+### Amend Grand Inspiration of the Way I
+
+- **Motion:** The Grand Inspiration of the Way heralds the dawn of the second age of virtue. We amend the Grand Inspiration to incorporate seven serene gardens for the voices of virtue. We disburse funds to complete the Grand Inspiration
+- **Proposed by:** Solomon, Senator for Reikos at the Saturday afternoon session
+- **Seconded by:** Asael, Senator for Casinea
+- **Passed at 50 thrones**
+- **Outcome:** 50 Thrones disbursed to the Senator for Reikos. The [Grand Inspiration of the Way](../senate-motions/Construct_Grand_Inspiration_of_the_Way.md) has been amended.
+- **Notes:** This draws on an [opportunity](../winds-of-fortune/A_lasting_commitment.md#voices-of-virtue) presented as a result of the Highborn Assembly's highest calling
+
+### Raise Fourth Varushkan Army
+
+- **Motion:** To raise the fourth Varushkan army. Varushka seeks Senate funding for this army. To be raised in Karsk
+- **Proposed by:** Bronimir, Senator for Ossium at the Saturday evening session
+- **Seconded by:** Tristan duLac, Senator for Weirwater
+- **Passed**
+- **Further reading:** [Raise Fourth Varushkan Army](../senate-motions/Raise_Fourth_Varushkan_Army.md)
+- **Notes:** This motion was originally raised at the Saturday afternoon session, but was curtailed.
+
+### Create Crime of Moral Injury
+
+- **Motion:** We of the Imperial Senate recognise the Assembly of Nines request to add a law protecting a citizens soul in Imperial law as per judgement 177 Spring 388YE. To add the following to religious crimes of the Empire. Moral Injury: An act via physical, spiritual, or magical that directly harms, corrupts or defiles the soul of an Imperial citizen
+- **Proposed by:** Belakov Zakharovich Prochnost, Senator for Karsk at the Saturday evening session
+- **Seconded by:** Aurianna du Meravon, Senator for Semmerholm
+- **Passed with a constitutional majority**
+- **Outcome:**
+- **Notes:** This motion received the ratification of Emperor **Vesna Borkovna Prochnost**. This motion is undergoing extended scrutiny.
+
+### Raise Fourth Wintermark Army
+
+- **Motion:** To raise the fourth Wintermark army in Kallavesa
+- **Proposed by:** Bronn Dunwolf, Senator for Hahnmark at the Saturday evening session
+- **Seconded by:** Fedelmidd Sydanjaa's Heart Floer, Senator for Sermersuaq
+- **Failed**
+
+### Raise Fifth Marcher Army
+
+- **Motion:** To raise the fifth Marcher army, to be raised in Upwold
+- **Proposed by:** Henry Birchsmith, Senator for Upwold at the Saturday evening session
+- **Seconded by:** Mary Birchsmith, Senator for Mitwold
+- **Passed**
+- **Further reading:** [Raise Fifth Marcher Army](../senate-motions/Raise_Fifth_Marcher_Army.md)
+
+### Permit Axos Movement in Sarangrave
+
+- **Motion:** To grant Axos permission for military access in Sarangrave
+- **Proposed by:** Bartimaeus, Senator for Sarangrave at the Saturday evening session
+- **Seconded by:** Genoveva Barossa d'Apulian, Senator for Spiral
+- **Passed**
+- **Notes:** This follows a [request](../winds-of-fortune/Seeds_of_discord.md#armies-of-the-dead) from the Axou
+
+### Amend Judgement of Proscription
+
+- **Motion:** Amend the statement of Proscription such that it may only be raised in the General Assembly when permitted by the elevation power of a Cardinal
+- **Proposed by:** Thalia of Netherwatch, Senator for Redoubt at the Saturday evening session
+- **Seconded by:** Delara of the House of the Wanderer, Senator for Zenith
+- **Passed with a constitutional majority**
+- **Outcome:** The judgement of [proscription](../../mixed/government/synod/Proscription.md) has been amended. A Cardinal may use their power of elevation on a single [statement of principle](../../mixed/government/synod/Statement_of_principle.md) or proscription each summit - but not both.
+- **Notes:** This motion received the ratification of Empress **Vesna Borkovna Prochnost**.
+
+### Amend Manifesto of the Magpies
+
+- **Motion:** To amend the manifesto of the Magpies sodality in order to enable publication across the Empire (an opportunity provided by the civil service). The amended manifesto should read "with respect to line 2) "Support the promulgation and preservation of history, knowledge, and antiquities. No cost to Senate budget.
+- **Proposed by:** Sejanus of the Scarlet Guard, Senator for Morrow at the Saturday evening session
+- **Seconded by:** Rhisiart Dancewalker, Senator for Miaren
+- **Failed**
+
+### Redefine Crime of Idolatry
+
+- **Motion:** To redefine the crime of Idolatry as follows: "Submitting mortal will to any force or sapient being not otherwise defined as a person in law. This includes worship, exaltation, or devotion towards any such being or force."
+- **Proposed by:** Rafael Barossa d'Apulian, Citizens' Voice at the Sunday afternoon session
+- **Passed**
+- **Outcome:** The [religious crime](../../mixed/government/synod/Religious_crime.md) of idolatry has been changed
+
+### Criminalise Foreigners Aiding Barbarians
+
+- **Motion:** Criminalise foreigners aiding barbarians against the Empire
+- **Proposed by:** Tristan duLac, Senator for Weirwater at the Sunday afternoon session
+- **Seconded by:** Henry Birchsmith, Senator for Upwold
+- **Failed**
+- **Notes:** This motion would have seen extended scrutiny
+
+### Assign Stipend to Legate of Imperial Auxiliaries
+
+- **Motion:** Assign stipend to the Legate of the Imperial Auxiliaries
+- **Proposed by:** Garviel i Abrira i Erigo, Senator for Feroz at the Sunday afternoon session
+- **Seconded by:** Éamon Ashenmourn de Cordraco, Senator for Astolat
+- **Passed at four thrones**
+- **Outcome:** The [Legate of the Imperial Auxiliaries](../../mixed/titles/Legate_of_the_Imperial_Auxiliaries.md) will receive a stipend of four thrones a season
+
+### Cede Laroc Tourney Grounds to Rhianos
+
+- **Motion:** Cede Laroc Tourney Grounds in Astolat, Withy, to Rhianos for their patronage for the Eastern Sky and the boost to military units
+- **Proposed by:** Éamon Ashenmourn de Cordraco, Senator for Astolat at the Sunday afternoon session
+- **Seconded by:** Merari Navigators of Virtue, Senator for Bastion
+- **Passed**
+- **Outcome:** The Tournament Grounds of Laroc have been claimed by [Rhianos](../eternals/Rhianos.md). The [Eastern Sky](../../mixed/government/military/Eastern_Sky.md) has gained their favour. [Military units](../../out-of-character/rules/Military_unit.md) in the territory taking a questing or raiding venture will receive an additional 36 rings. [Businesses](../../out-of-character/rules/Business.md) in the territory will no longer receive additional production.
+
+### Amend Bursar of the Conclave
+
+- **Motion:** To amend the Bursar of the Conclave's ministry by accepting the offer of the Halls of Maykop to allow the exchange of crystal mana instead of coin, for the resources for constructing magical items
+- **Proposed by:** Asael, Senator for Casinea at the Sunday afternoon session
+- **Seconded by:** Kish of the Flame Beneath the Earth, Senator for Necropolis
+- **Passed**
+- **Outcome:** The [Bursar of the Conclave](../../mixed/titles/Bursar_of_the_Conclave.md) can now exchange measures for mana crystals
+- **Notes:** This offer was originally [proposed](../winds-of-fortune/The_circle_game.md#axos-and-the-bursars) as part of an appraisal presented by [Graciana i Lòpez i Guerra](../appraisals/Appraisal.md#graciana-i-lòpez-i-guerra)
+
+### Abrogate Spark of Ignition
+
+- **Motion:** To abrogate the mana sinecure in the Bloodwater Marsh in Sarangrave, commissioned Saturday evening, Summer 388
+- **Proposed by:** Genoveva Barossa d'Apulian, Senator for Spiral at the Sunday afternoon session
+- **Seconded by:** Cesare Sanguineo Rezia Di Tassato, Senator for Tassato
+- **Passed**
+- **Outcome:** The [announcement](#construct-spark-of-ignition) has been abrogated
+
+### Amend Grand Inspiration of the Way II
+
+- **Motion:** Amend the designs for the Grand Inspiration of the Way to incorporate a grand balcony for the choir called the "Choristers Balcony". Costs 20 thrones. Encourages Highborn cantors to attend the Grand Inspiration.
+- **Proposed by:** Kish of the Flame Beneath the Earth, Senator for Necropolis at the Sunday afternoon session
+- **Seconded by:** Solomon, Senator for Reikos
+- **Passed**
+- **Outcome:** The [Grand Inspiration of the Way](../senate-motions/Construct_Grand_Inspiration_of_the_Way.md) has been amended.
+- **Notes:** Once the Grand Inspiration of the Way is complete, **cantors** will be available as a Highborn archetype.
+
+### Amend tariffs of Sarcophan Delves
+
+- **Motion:** Set the trade relations with the Sarcophan Delves to mercantile. They are aware this is coming, as per the civil service records after the Spring Equinox 387YE. The Consul and I have written to them as a courtesy. This will generate an additional 35 thrones each season. This will cost them 14 thrones each season because it equalises our trade relations
+- **Proposed by:** Giuseppe Sanguineo von Temeschwar, Senator for Temeschwar at the Sunday afternoon session
+- **Seconded by:** Laurencio Lemmini di Sarvos, Senator for Sarvos
+- **Passed**
+- **Outcome:** [Tariffs](../../mixed/government/senate/Tariffs.md) on ships and goods from the Sarcophan Delves have been amended to mercantilist
+
+### Amend tariffs of the Sumaah Republic
+
+- **Motion:** To change the trading status of the Sumaah Republic to mercantile
+- **Proposed by:** Aurianna du Meravon, Senator for Semmerholm at the Sunday afternoon session
+- **Seconded by:** Belakov Zakharovich Prochnost, Senator for Karsk
+- **Passed**
+- **Outcome:** [Tariffs](../../mixed/government/senate/Tariffs.md) on ships and goods from the Sumaah Republic have been amended to mercantilist
+
+## Appointments
+
+### Appoint Minister of Historical Research
+
+- **Motion:** Appoint the Minister for Historical Research
+- **Raised by:** Speaker of the Senate at the Friday session
+- **Outcome:** **Watt Lambrook** of [the Marches](../nations/the-marches/The_Marches.md) was appointed as [Minister of Historical Research](../../mixed/titles/Minister_of_Historical_Research.md)
+- **Note:** This motion was raised at the final session of [Spring 388YE](388YE_Spring_Equinox_Senate_sessions.md#appoint-minister-of-historical-research).
+
+### Appoint Ambassador to Asavea
+
+- **Motion:** To elect the Ambassador to Asavea
+- **Raised by:** Speaker of the Senate at the Friday session
+- **Outcome:** **Herminius** of [Urizen](../nations/urizen/Urizen.md) was appointed as [Ambassador to Asavea](../../mixed/titles/Ambassador_to_Asavea.md)
+- **Note:** This motion was raised at the final session of [Spring 388YE](388YE_Spring_Equinox_Senate_sessions.md#appoint-ambassador-to-asavea).
+
+### Appoint Imperial Consul
+
+- **Motion:** To elect an Imperial Consul
+- **Raised by:** Speaker of the Senate at the Friday session
+- **Outcome:** **Sławomir Rabovich Bolotstrazh** of [Varushka](../nations/varushka/Varushka.md) was appointed as [Imperial Consul](../../mixed/titles/Imperial_Consul.md)
+- **Note:** This motion was raised at the final session of [Spring 388YE](388YE_Spring_Equinox_Senate_sessions.md#appoint-imperial-consul).
+
+### Appoint Ambassador to Axos
+
+- **Motion:** To elect an Ambassador to Axos
+- **Proposed by:** Kaspar Yakovich von Holberg, Senator for Holberg at the Sunday afternoon session
+- **Seconded by:** Ana i Taziel i Riqueza, Senator for Segura
+- **Outcome:** The title of [Ambassador to Axos](../../mixed/titles/Ambassador_to_Axos.md) will be appointed at the first Senate session of the Autumn Equinox 388YE
+
+### Appoint Ambassador to the Grendel
+
+- **Motion:** To elect an Ambassador to the Grendel
+- **Proposed by:** Vasilmir Radovanovna Esskivic, Senator for Miekarova at the Sunday afternoon session
+- **Seconded by:** Morana Vesnayevich, Senator for Karov
+- **Outcome:** The title of [Ambassador to the Grendel](../../mixed/titles/Ambassador_to_the_Grendel.md) will be appointed at the first Senate session of the Autumn Equinox 388YE
+
+### Appoint Ambassador to the Sarcophan Delves
+
+- **Motion:** To elect an Ambassador to the Sarcophan Delves
+- **Proposed by:** Laurencio Lemmini di Sarvos, Senator for Sarvos at the Sunday afternoon session
+- **Seconded by:** Giuseppe Sanguineo von Temeschwar, Senator for Temeschwar
+- **Outcome:** The title of [Ambassador to the Sarcophan Delves](../../mixed/titles/Ambassador_to_the_Sarcophan_Delves.md) will be appointed at the first Senate session of the Autumn Equinox 388YE
+
+## Appraisals
+
+### Appraise Suranni Armies
+
+- **Motion:** Mladen Escovitch, the Senate accepts your offer to use an appraisal to gain a comprehensive understanding of the Iron Confederacy's military might. Take six months. Be careful.
+- **Proposed by:** Fedelmidd Sydanjaa's Heart Floer, Senator for Sermersuaq at the Saturday evening session
+- **Seconded by:** Kaspar Yakovich von Holberg, Senator for Holberg
+- **Passed**
+- **Outcome:** The findings of Mladen Escovitch will be presented before the Winter Solstice 388YE
+- **Notes:** This appraisal was [offered](../winds-of-fortune/To_seek_enlightenment.md#every-word-you-speak) by Mladen Escovitch
+
+### Appraise Support from Ylenwe to Silver Chalice
+
+- **Motion:** To appraise how the eternal Ylenwe can assist in the Order of the Silver Chalice in their work.
+- **Proposed by:** Cassia Apulian Silkweaver, Conscience of the Senate at the Saturday evening session
+- **Seconded by:** Bartimaeus, Senator for Sarangrave
+- **Failed**
+
+### Appraise Imperial Support for Beoraidh Colosseum
+
+- **Motion:** To send Rosemary Stockland to find ways for Imperial citizens to invest in Beoraidh Colosseum and the Gladiatorial Games
+- **Proposed by:** Pathfinder Gaddak, Senator for Mareave at the Saturday evening session
+- **Seconded by:** Cassia Apulian Silkweaver, Conscience of the Senate
+- **Failed**
+
+### Appraise Spreading Way to Non-Wayist Cultures
+
+- **Motion:** We send Lisane de Terresford to appraise how non-Wayist cultures and communities residing within the Empire can be brought into the Way of Virtue.
+- **Proposed by:** Rane Shardbearer, Senator for Kallavesa at the Saturday evening session
+- **Seconded by:** Bloodcrow Rasp, Senator for Skarsind
+- **Passed**
+- **Outcome:** Lisane de Terresford remains [engaged](../winds-of-fortune/Satraps_of_the_Abyss.md) in Sumaah until the start of the Winter Solstice 388YE. Gerard la Salle has selected Naomi of Virtue's Rest as lead prognosticator on this task. Her findings will be presented before the Autumn Equinox 388YE
+
+### Appraise the Artisans Guild
+
+- **Motion:** The Throne uses her power of appraisal to set the civil service to appraise the consequences of the Imperial Sodality "Imperial Artisans Guild" sodality manifesto. It holds the following to be true: Imperial artisans are the finest in the world, deserving commensurate respect, recompense and pride; Artisans and the magic items they create are valuable strategic resources for the Empire; The voice of the Empire's artisans should be preeminent in all matters relating to artisanry. The sodality therefore exists to: Guide, aid, and provide consultation to the Empire's artisans, bodies of state and wider citizenry on the matter of artisanry; Support and coordinate artisans in the study, innovation, and creation of magic items; Represent the Empire's artisans, seeking and supporting opportunities within the Empire's borders and beyond.
+- **Announced by:** Emperor Vesna Borkovna Prochnost, [the Throne](../../mixed/titles/The_Throne.md)
+- **Outcome:** The results of this appraisal will be presented before the Autumn Equinox 388YE
+
+## Commissions (Senate)
+
+### Invest in Beoraidh Docks
+
+- **Motion:** To invest in the docks of Beoraidh (commission an edifice) so that the fleet owners of the Empire can engage in Prosperous trade with the port and raise 10 thrones a season in tariffs and tax. Seeking a disbursement of funds for 75 thrones
+- **Proposed by:** Bloodcrow Rasp, Senator for Skarsind at the Saturday afternoon session
+- **Seconded by:** Rane Shardbearer, Senator for Kallavesa
+- **Passed at 75 thrones**
+- **Further reading:** [Invest in Beoraidh Docks](../senate-motions/Invest_in_Beoraidh_Docks.md)
+- **Notes:** This was the third use of a commission. 75 Thrones disbursed to Senator for Skarsind. This draws on an [offer](../winds-of-fortune/Each_age_a_lens.md#investment-of-sea) made by Ehsan, Lord of Sand
+
+### Construct Wayhouse in the Barrens
+
+- **Motion:** To construct a wayhouse for Navarr in Murderdale, the Barrens
+- **Proposed by:** Lady Gwendoloena de Ordraig, Senator for the Barrens at the Saturday afternoon session
+- **Seconded by:** Mel Bleak, Senator for Mournwold
+- **Passed**
+- **Further reading:** [Construct Wayhouse in the Barrens](../senate-motions/Construct_Wayhouse_in_the_Barrens.md)
+- **Notes:** This was the fourth use of a commission.
+
+### Construct Archives of the Advisor
+
+- **Motion:** To commission the Archives of the Advisor, to be built in Solvihill, Skarsind. This sinecure will produce 12 iridescent gloaming a season. This sinecure will be attached to the already existing title of Advisor on Orc Affairs
+- **Proposed by:** Merari Navigators of Virtue, Senator for the Bastion at the Saturday afternoon session
+- **Seconded by:** Pathfinder Gaddak, Senator for Mareave
+- **Passed**
+- **Further reading:** [Construct Archives of the Advisor](../senate-motions/Construct_Archives_of_the_Advisor.md)
+- **Notes:** This was the fifth use of a commission.
+
+### Construct Red Wind Wharfs
+
+- **Motion:** To add the Red Wind Wharfs to the Municipal Docks at Calvos
+- **Proposed by:** Eulàlia i Phovas i Riqueza, Senator for the Madruga at the Saturday afternoon session
+- **Seconded by:** Garviel i Abrira i Erigo, Senator for Feroz
+- **Passed**
+- **Further reading:** [Construct Red Wind Wharfs](../senate-motions/Construct_Red_Wind_Wharfs.md)
+- **Notes:** This was the sixth use of a commission. This drew on [plans](../winds-of-fortune/Mermaids_in_the_basement.md#the-red-wind-wharfs) for a similar set of wharfs in Oran
+
+### Construct Martim de Tassato's Clattering Curtain Theatre
+
+- **Motion:** That the Senate authorise the construction of "Martim de Tassato's Clattering Curtain Theatre" in Mestra. This is a money producing sinecure. This will create the Imperial title "Martim de Tassato's Clattering Curtain Theatre Champion". This position would have tenure. This will be appointed by unanimous vote of the League.
+- **Proposed by:** Cesare Sanguineo Rezia Di Tassato, Senator for Tassato at the Saturday afternoon session
+- **Seconded by:** Vasilmir Radovanovna Esskivic, Senator for Miekarova
+- **Passed**
+- **Further reading:** [Construct Clattering Curtain Theatre](../senate-motions/Construct_Clattering_Curtain_Theatre.md)
+- **Notes:** This was the seventh use of a commission
+
+### Construct Nightingale Chorus Wayhouse
+
+- **Motion:** To construct the Nightingale Chorus wayhouse in Astolat. The wayhouse acts as a sinecure and increases tax in Astolat of one throne per season, and acts as a great work for three Dawnish territories. Election to be by Cat's Graces. With the title of Conductor of the Nightingale Chorus. Self funded by the Vallornguard.
+- **Proposed by:** Rhisiart Dancewalker, Senator for Miaren at the Saturday evening session
+- **Seconded by:** Rowyn of the Waystone Path, Senator for Hercynia
+- **Failed**
+
+### Construct Wrangler's Market
+
+- **Motion:** Commission the Wrangler's Market in Arbonne. Seeks disbursement of 14 weirwood or equivalent (64 thrones)
+- **Proposed by:** Ana i Taziel i Riqueza, Senator for Segura at the Saturday evening session
+- **Seconded by:** Eulàlia i Phovas i Riqueza, Senator for Madruga
+- **Passed at 54 thrones**
+- **Further reading:** [Construct Wrangler's Market](../senate-motions/Construct_Wrangler-s_Market.md)
+- **Notes:** This was the ~~ninth~~ eighth use of a commission. 54 Thrones disbursed to Senator for Segura. This [spy network](../../out-of-character/rules/Spy_network.md) will allow [Imperial orcs](../nations/imperial-orcs/Imperial_Orcs.md) to spy on Arbonne as [presented](../winds-of-fortune/No_Matter_What.md#break-the-chains) by the [Sunstorm](../nations/imperial-orcs/Sunstorm.md).
+
+### Construct Smugglers Cove in Tromsa
+
+- **Motion:** To commission a smugglers' cove in Tromsa
+- **Proposed by:** Mel Bleak, Senator for Mournwold at the Saturday evening session
+- **Seconded by:** Ramos I Inigo I Raqueza, Senator for Kahraman
+- **Passed**
+- **Further reading:** [Construct Smugglers Cove in Tromsa](../senate-motions/Construct_Smugglers_Cove_in_Tromsa_Summer_388YE.md)
+- **Notes:** This was the ~~tenth~~ ninth use of a commission
+
+## Commissions (Announcements)
+
+### Construct the Northern Way
+
+- **Announcement:** To construct the Northern Way, a great work building a safe passage between the city of Apulian and the territory of Zenith. This is funded by the Crimson Reapers.
+- **Announced by:** Laughlan Vi Temeschwar, [Master of Rings](../../mixed/titles/Master_of_Rings.md) at the Saturday afternoon session
+- **Further reading:** [Construct the Northern Way](../senate-motions/Construct_the_Northern_Way.md)
+- **Notes:** This commission draws on an [opportunity](../winds-of-fortune/My_friends_are_my_estate.md#northern-way) presented as part of an appraisal on the prosperity of [Spiral](../nations/the-league/Spiral.md)
+
+### Upgrade Palace of Apulian
+
+- **Announcement:** The Imperial Master of Works announces the commencement of the upgrade of the fortification called the Palace of Apulian in Spiral, which will become the Palace of Mists at a cost of 80 white granite and 240 crowns. As well as improving the fortification, it will additionally make an attack from the sea significantly more difficult and increase the taxation from the territory by five thrones a season
+- **Announced by:** Ehud, [Master of Works](../../mixed/titles/Imperial_Master_of_Works.md) at the Saturday afternoon session
+- **Further reading:** [Upgrade Palace of Apulian](../senate-motions/Upgrade_Palace_of_Apulian.md)
+- **Notes:** This was the first use of a commission. It draws on an [opportunity](../winds-of-fortune/My_friends_are_my_estate.md#mellow-mists) presented as part of an appraisal on the prosperity of [Spiral](../nations/the-league/Spiral.md)
+
+### Support Investigation of Zemeh
+
+- **Announcement:** We look after our people, and those who try to harm us will not escape the touch of our long grass. I the Imperial Spymaster commission the investigation into agent Vassa of the Regario Dossier
+- **Announced by:** Rahmah i Darwisj i Erigo, [Imperial Spymaster](../../mixed/titles/Imperial_Spymaster.md) at the Saturday afternoon session
+- **Notes:** This was the second use of a commission. This draws on an [opportunity](../winds-of-fortune/Keys_of_Enlightenment.md#spies-and-agents) presented as a result of the loss of contact with Agent Vassa's network
+
+### Construct Publishing Clearing House
+
+- **Announcement:** As Chair of the Wolf I invite the inestimable Holberg College of Engineering to bring Katarzyna von Carstein's designs to life as the Great Publishers' Clearing House. Thanks to funding from the six great guilds of Tassato: the Camorra Barossa, the Gilded Horn, Jolly Jackdaws, Oathwright Press, the Silver Rivers Casino, and my own carta, the Printers' Guild. This great work in Tassato Mestra shall assure the illuminated city of Tassato as the printing capital of the world. Its custodian, Printmaster of the Publishers' Exchange, shall be appointed by League Bourse Auction
+- **Announced by:** Taddea Ginori, [Chair of the Wolf](../../mixed/titles/Chair_of_the_Wolf.md) at the Saturday afternoon session
+- **Further reading:** [Construct Publishing Clearing House](../senate-motions/Construct_Publishing_Clearing_House.md)
+- **Notes:** This commission draws on an [opportunity](../winds-of-fortune/The_truth_but_tell_it_slant.md#the-publishing-clearing-house) presented as part of an appraisal to expand the printing empire of the Printers' Guild. This announcement is seeing extended scrutiny due to the election method of the associated title
+
+### Construct Statue of Murdered Researchers
+
+- **Announcement:** As Mistress of Monuments, I announce the building of an edifice in Apulian to honour the researchers killed by the Whisper Gallery in the search for the truth. This will be fully funded by Ignacio i Zuhri i Erigo. The Senator for Apulian has consented
+- **Announced by:** Ada Droon Drifting Bough, [Mistress of Monuments](../../mixed/titles/Mistress_of_Monuments.md) at the Saturday afternoon session
+- **Outcome:** Constructs an [edifice](../../mixed/commissions/Edifice.md) in Apulus, Spiral.
+- **Further Details:** [Construct Statue of Murdered Researchers](../senate-motions/Construct_Statue_of_Murdered_Researchers.md)
+
+### Construct Spark of Ignition
+
+- **Announcement:** Construct a mana sinecure in Bloodwater Marsh, Sarangrave. Building name - The Spark of Ignition. Title - Lighter of the Forge. Appointed by Urizen senators. Costs ten wains of mithril
+- **Announced by:** Berrak of The Phoenix Reach, [Crystal Architect of the Spires](../../mixed/titles/Crystal_Architect_of_the_Spires.md) at the Saturday evening session
+- **Notes:** This was originally marked as the eighth use of a commission. This announcement was later abrogated
+
+### Construct Sakari's Legacy
+
+- **Announcement:** I call on Adamant's Aid in constructing Sakari's Legacy, a fortification in Anduzjasse, Segura. With this boon, the fortification will be of rank two, take only four seasons to construct, and will be unbreakable. Costing 180 white granite and labour costs.
+- **Announced by:** Dima Vasilyevna Novosad, [Master of the Koboldi](../../mixed/titles/Master_of_the_Koboldi.md) at the Saturday evening session
+- **Outcome:** Constructs a [fortification](../../out-of-character/rules/Fortification.md) in Anduzjasse, Segura.
+- **Further Details:** [Construct Sakari's Legacy](../senate-motions/Construct_Sakari-s_Legacy.md)
+- **Notes:** This offer was originally [presented](../winds-of-fortune/Seven_locks.md#king-under-the-mountain) by [Adamant](../eternals/Adamant.md) in his response to a plenipotentiary
+
+### Construct Bears Rest
+
+- **Announcement:** The Legion Engineer will construct Bears Rest, a mana sinecure in Northspires, Hahnmark for ten wains of mithril and 30 crowns of labour. The title of Steward of Bears Rest will be chosen by unanimous decision of the Wintermark senators and be responsible for collecting the mana that flows down the river from the melting glacier upstream.
+- **Announced by:** Firesong Arachas, [Legion Engineer](../../mixed/titles/Legion_Engineer.md) at the Sunday afternoon session
+- **Outcome:** Constructs a [sinecure](../../mixed/commissions/Sinecure.md) in Northspires, Hahnmark.
+- **Further Details:** [Construct Bears Rest](../senate-motions/Construct_Bears_Rest.md)
+
+### Construct Nightingale Chorus
+
+- **Announcement:** To construct the Nightingale Chorus wayhouse in Astolat. The wayhouse acts as a sinecure and increases tax in Astolat of one throne per season, and acts as a great work for Astolat, Weirwater, and Semmerholm. It boosts military units against the Vallorn. Election will be by Cat's Graces with the title of Conductor of the Nightingale Chorus.
+- **Announced by:** Mharen Splitroot, [Bearer of an Imperial Wayleave](../../mixed/economy/Bearer_of_an_Imperial_Wayleave.md) at the Sunday afternoon session
+- **Outcome:** Constructs a [wayhouse](../../mixed/commissions/Navarr_wayhouse.md) in Grovesyard, Astolat.
+- **Further Details:** [Construct Nightingale Chorus](../senate-motions/Construct_Nightingale_Chorus.md)
+- **Notes:** The [Nightingale Chorus](../winds-of-fortune/Ripple_of_echoes.md#cant-stop-the-music) has a long history, having been originally founded by songbirds of [Empress Richilde](../religion/Empress_Richilde.md)
+
+### Construct Wayward House
+
+- **Announcement:** To commission the WAYWARD HOUSE in the city of Apulian, Apulus, Spiral. A block of apartments constructed with twelve wains of white granite, to provide hospitality to Jarmish pilgrims of the Way visiting the Empire. Constructed by the Edificer's Guild of Apulian, with funding from Damian i Martan i Erigo.
+- **Announced by:** Paris of Apulus, [Bearer of an Imperial Wayleave](../../mixed/economy/Bearer_of_an_Imperial_Wayleave.md) at the Sunday afternoon session
+- **Outcome:** Constructs an [edifice](../../mixed/commissions/Edifice.md) in Apulus, Spiral.
+- **Further Details:** [Construct Wayward House](../senate-motions/Construct_Wayward_House.md)
+- **Notes:** The Convocation of Virtue [proposed](../winds-of-fortune/Full_circles.md#path-of-the-spirits) the edifice following support from the [Sevenfold Path](../../mixed/government/conclave/Sevenfold_Path.md)
+
+### Construct Wyrding Tower
+
+- **Announcement:** I commission the Wyrding Tower, a volhov tower proposed in an appraisal by Graciana i Lopez i Guerra. The Vale of the Verdant Promise will bring prosperity to the ruins left by the Cold Sun and will fund this ministry
+- **Announced by:** Borys Vardovich Straskovich, [Boyar of the Iron Roads](../../mixed/titles/Boyar_of_the_Iron_Roads.md) at the Sunday afternoon session
+- **Outcome:** Constructs a [ministry](../../mixed/commissions/Ministry.md) in Livardz, Volodmartz
+- **Further Details:** [Construct Wyrding Tower](../senate-motions/Construct_Wyrding_Tower.md)
+- **Notes:** The Wyrding Tower was [proposed](../winds-of-fortune/Sunrise_over_Livardz.md#the-wyrding-pond) as part of a larger appraisal by Graciana i Lopez i Guerra into finding ways to bring Prosperity to the ruins of Volodmartz left by the *scions* of [Cold Sun](../eternals/Cold_Sun.md)
+
+## Announcements
+
+### Research Life of Sjördeyr
+
+- **Announcement:** The Assembly of Loyalty have made their Highest Calling the transformation of Asavea. Our sibling in virtue is the Sumaah Republic are willing to discuss a figure of their past involved in their own liberation. A recruit, an inspiration, a builder. Virtuous action leads to further Virtue and we can learn from the example of Sjördeyr. I invite the High House of Prosperity to work alongside my librarians and share in Virtue.
+- **Announced by:** Hazelelponi, [Lepidean Librarian](../../mixed/titles/Lepidean_Librarian.md) at the Friday evening session
+- **Outcome:** Historical Research on the matter will be delivered to the Lepidean Librarian at the Autumn Equinox 388YE
+
+### Hand of the Chancellor
+
+- **Announcement:** Use of Hand of the Chancellor
+- **Announced by:** Vesna Borkovna Prochnost, [The Throne](../../mixed/titles/The_Throne.md) at the Friday evening session
+- **Outcome:** 249 thrones disbursed to Emperor Vesna Borkovna Prochnost
+
+### Assign the Guerdon
+
+- **Announcement:** The Burning Falcon, the Citadel Guard, and the Eastern Sky to receive the Guerdon
+- **Announced by:** Natalia 'The Falcon' Barossa, [Quartermaster General of the Imperial Armies](../../mixed/titles/Quartermaster_General_of_the_Imperial_Armies.md) at the Sunday afternoon session
+- **Outcome:** Military units supporting the three armies will receive shares in the [Imperial Guerdon](../../out-of-character/rules/Military_unit.md#imperial-guerdon)
+
+### Assign Regalia to Keeper of the Study
+
+- **Announcement:** To assign the artefact The Mask of the Mourn to the title of the Keeper of the Study. The mask's purpose is to support landskeepers in ritual casting on farms in the Marches - the same responsibility as the Keeper holds. The mask bears a true, spontaneous, Prosperity aura.
+- **Announced by:** Cilicia of Athiliah's Handiwork, [Benefactor of Regalia](../../mixed/titles/Benefactor_of_Regalia.md) at the Saturday afternoon session
+- **Outcome:** The [Keeper of the Study](../../mixed/titles/Keeper_of_the_Study.md) has been amended
+
+### Refine Dancer's Rest
+
+- **Motion:** We ask the Songbirds to improve the Dancer's Rest in Miaren. We request that the artists cover the walls and surrounding environment of Dancer's Rest with inspirational art which may be added to and developed by anyone who visits. The art should depict Virtuous symbols, inspirational figures, as well as allotting space for those who visit Dancer's Rest to share their experience. Ideally, the artworks begun this season will continue to develop and grow. Art should educate, inspire, and heal.
+- **Announced by:** Ralphine, [Maestro of the Cat's Graces](../../mixed/titles/Cat-s_Graces.md#maestro) at the Saturday evening session
+- **Outcome:** [Refines](../../mixed/titles/Cat-s_Graces.md#refine-commission) the [Dancer's Rest](../../mixed/titles/Hand_to_the_Dance.md) in Serenael, Miaren.
+
+### Research Dauntless Light Chapter
+
+- **Announcement:** The Department sends Octavia to research into Rebekah and Abishek of the Dauntless Light chapter and their conflict with the Child of Faithless Grief in the post-patrician era of Highguard
+- **Announced by:** Watt of Lambrook, [Minister of Historical Research](../../mixed/titles/Minister_of_Historical_Research.md) at the Sunday afternoon session
+- **Outcome:** Historical Research on the matter will be delivered to the Minister at the Summer Solstice 388YE
+
+### Assess Arch of the Sky
+
+- **Announcement:** As Architect of the Hammers, I invite the "Architects of Iron and Stone" to assess the Arch of the Sky in how it may be improved
+- **Announced by:** Edmundo of Damakan's forge, [Architect of Hammers](../../mixed/titles/Architect_of_Hammers.md) at the Sunday afternoon session
+- **Outcome:** The results of this announcement will be made available before the Autumn Equinox 388YE
+
+### Reappraise Blades of the Semmerlak
+
+- **Announcement:** I request that the prognosticators review the opportunity to build the Blades of the Semmerlak, originally offered in Spring 386
+- **Announced by:** Tristan Ramson von Holberg, [Master of the Mint](../../mixed/titles/Master_of_the_Imperial_Mint.md) at the Sunday afternoon session
+- **Outcome:** The [Blades of the Semmerlak](../winds-of-fortune/Less_welcome_tenants.md#blades-of-the-semmerlak) was first offered shortly before the Summer Solstice 386YE. The results of this announcement will be made available before the Autumn Equinox 388YE
+
+### Embargo Zemelslo
+
+- **Announcement:** Change the trade status of Zemelslo to embargo
+- **Announced by:** Slawomir Rabovich Bolotstrazh, [Imperial Consul](../../mixed/titles/Imperial_Consul.md) at the Sunday afternoon session
+- **Outcome:** An embargo on goods from Zemelslo has been put in place. Zemelslo has responded in kind, and the port of Radosmo is no longer available to Imperial fleets
+
+---
+
+Categories: [Senate](../../indexes/by-category/Senate.md), [Senate Sessions](../../indexes/by-category/Senate_Sessions.md), [388YE Summer](../../indexes/by-category/388YE_Summer.md)

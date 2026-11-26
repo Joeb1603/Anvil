@@ -1,0 +1,38 @@
+<row-fluid>
+It is important to do everything reasonable to ensure your safety and the safety of others. Although most experienced live roleplayers are familiar with the basic LRP safety concepts, please make sure that you read these rules so that you understand the specific requirements for battles and fight safety at Empire events.
+</row-fluid>
+<row-fluid>
+<span4>
+==[[Site safety|Site Safety]]==
+{{ThreeColIconImage|file=Tent-safety.jpg|link=Site safety}}
+The basic rules covering the whole site, including driving safely, as well as parking and camping safely at events.
+</span4>
+
+<span4>
+==[[Combat safety|Combat Safety]]==
+{{ThreeColIconImage|file=safe-fighting.jpg|link=Combat safety}}
+The basic rules for fighting safety at events, including weapon checking and how to indicate and respond to non-combatants.
+</span4>
+
+<span4>
+==[[Bow safety|Bow Safety]]==
+{{ThreeColIconImage|file=bow-safety.jpg|link=Bow safety}}
+Bows and crossbows are among the more dangerous weapons in use on a LRP battlefield. You must know and follow these rules if you plan to use a bow.
+</span4>
+</row-fluid>
+
+<row-fluid>
+<span4>
+==[[Weapon checking|Weapon Checking]]==
+{{ThreeColIconImage|file=weapon-checking.jpg|link=Weapon checking}}
+Every weapon, shield, implement, bow and arrow must be checked before every PD event you attend. These are the guidelines used by our [[weapon checking]] team.
+</span4>
+
+<span4>
+==[[Fire performance|Fire Performance]]==
+{{ThreeColIconImage|file=Fireuse.jpg|link=Fire performance}}
+The basic rules covering all fire performances at events, including how to contact us to arrange it and guidelines on appropriate clothing, storage, and location.
+</span4>
+
+</row-fluid>
+{{Safety Links}}

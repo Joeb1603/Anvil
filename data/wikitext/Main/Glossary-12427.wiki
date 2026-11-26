@@ -1,0 +1,303 @@
+[[Category:Rules]][[Category:Rules]]
+This page is intended to help with understanding common terms used in Empire and LRP as a whole. We expect this page to be updated on a semi-regular basis as more terms come to light. Any queries or suggestions for additions to this page can be sent to [mailto:wiki@profounddecisions.co.uk wiki@profounddecisions.co.uk]
+
+<table class='wikitable sortable'><tr><th>Term</th><th>Explanation</th></tr>
+<tr><td>Abstraction layer</td><td>Parts of the system or setting that are technically present but aren’t what the game is about. For example, the manufacture of toilet paper in the setting is considered “below the abstraction layer”. This is often used to deal with logistical or pragmatic features that make the game easier OC, but might be hard to explain IC.</td></tr>
+
+<tr><td>[[General#Appoint_an_Adjutant|Adjutant]]</td><td>A special kind of “proxy”, for generals only. If a general dies, their adjutant is not automatically removed and can wield the powers of their general and command their army until a new general is appointed. Adjutants can also be removed by the [[revocation]] of the general that appointed them, or by their general being subject to a successful [[Writ of Excommunication|writ of excommunication]].</td></tr>
+
+<tr><td>[[Anvil]]</td><td>The tent-city settlement where Empire events take place in character. Each nation has its own camp, along with various political, magical, and cultural structures. The capital of the Empire. When you come to Empire LRP, this is the place where your characters are. In the world of the game, it is located in [[Casinea]], a territory belonging to [[Highguard]].	</td></tr>
+
+<tr><td>[[Apothecary]]</td><td>Apothecary is a skill characters can learn which allows them to make potions. Players with this skill may refer to themselves as an “apothecary” as a description of the services they can provide. Apothecaries start knowing how to mix the five basic [[Apothecary Potions|apothecary potions]]. They can also learn additional sets of [[Potion#Recipe_List|recipes]].</td></tr>
+
+<tr><td>Appropriate roleplay</td><td>A term used for when a character needs to do something to signify they’re using a skill. Examples can be as simple as letting out a warcry as you prepare to call CLEAVE with a sword or as complex as a ten minute play when performing a ritual.</td></tr>
+
+<tr><td>[[Arcane projection|Arcane Projection]]</td><td>An arcane projection (sometimes called an ‘AP’ both IC and OC) is a piece of paper that allows a magician or group of magicians to cast a magical ritual. Rituals from arcane projections can only be used once.<br>Arcane projections are created by players between events using the Profound Decisions website. A player must have ten mana crystals in their character inventory to create an arcane projection, which are consumed in the process.<br>Not every arcane projection idea submitted by players will successfully create a castable ritual.<br> It is possible to turn an arcane projection into a ritual that can be used repeatedly by codifying it in a [[college of magic]].</td></tr>
+
+<tr><td>[[Crafting_skills#Artisan|Artisan]]</td><td>Artisans start with knowledge of how to make four magic items. They have three months worth of time they can use during downtime to craft them. Most magic items take one month and a number of the materials from mines and forests to make. Some take two months but cost no materials to make.</td></tr>
+
+<tr><td>Ballgowning</td><td>The roleplaying of flirting and/or romantic relationships with another character or characters.</td></tr>
+
+<tr><td>Ballgowning (Alternative)</td><td>The roleplaying of dramatic events in a high-impact, high-emotion manner with another character or characters.</td></tr>
+
+<tr><td>[[Bands|Band]]</td><td>	The out-of-character catch-all term used for a banner, coven, or sect. All members of a band have sworn the same in-character oath. A character can only be in one of each type of band at any given time.</td></tr>
+
+<tr><td>[[Bands|Banner]] (group)</td><td>A band of people from the same nation, often focused on fighting. Members can benefit from being additional targets of certain rituals.</td></tr>
+
+<tr><td>Banner (object)</td><td>A piece of fabric on some sort of stick with a group emblem on it. Can also be a magic item see [[:Category:Magic Standards|magic standards]] and [[:Category:Gonfalon|gonfalons]].</td></tr>
+
+<tr><td>[[Barbarian]]</td><td>A member of a nation that the Empire is at war with, and so is not protected by the laws of the Empire. You can find a list of nations the Empire is at war with [[Powers_of_the_Imperial_Senate#Declaration_of_War|here]].</td></tr>
+
+<tr><td>Barbarian money</td><td>Sometimes ‘Barbarian coin’, a common term used by participants for out-of-character money. Most of the traders in Traders’ Row and the OC traders’ area will charge OC money for their goods. It is not something that barbarians carry around for people to loot.</td></tr>
+
+<tr><td>Base Layers</td><td>Your base layers are the items of clothing that are not iconically belonging to your character and, ideally, not identifiable as a specific nation. For most people, this means a plain pair of trousers or leggings and a basic larp shirt or tunic in neutral colours.<br>If you hear or see the phrase ‘turn up to monster in base layers’, the aim is that you look generic enough that pieces of monster costume can be added on top of your kit.<br>You will more commonly see requests to turn up to monster in base layers, plus any specifically coloured kit that would be helpful to that day’s battle or encounter. For example, “base layers and any red kit” is a common request for monstering as Jotun orcs, who wear a lot of red.</td></tr>
+
+<tr><td>Battle</td><td>Starts at 11:00 on Saturday and Sunday mornings. Which nations are fighting on which battle is decided by the military council. If you battle one day you must volunteer to monster the other day. If you are monstering then you need to be at the monster tent for 09:30.</td></tr>
+
+<tr><td>Bleed</td><td>Experiencing heightened emotions out of character as a result of roleplay that you have engaged in.</td></tr>
+
+<tr><td>Bleed time (see ‘death count’)</td><td>How long your character can survive on 0 hits; this starts at three minutes, but can be increased by buying [[Combat skills#Fortitude|specific skills]], and decreased with antagonistic calls or effects.</td></tr>
+
+<tr><td>Brawlgowning</td><td>Typically dramatic, high-emotion combat with another character or characters.</td></tr>
+
+<tr><td>Choke point</td><td>(In battle reffing) A feature that funnels participants into a smaller area e.g. a gate in the fence, a bridge over a ditch, or the Sentinel gate.</td></tr>
+
+<tr><td>Civil Servant/CS</td><td>A member of Profound Decisions crew who plays an NPC civil servant character. Civil servants administer the civil functions which keep the Empire running, chairing meetings, running elections and providing advice as needed. They are specialists in the different agencies of state. They often wear imperial purple with golden horse insignia. They are playing characters while in the field but are there to help. They are good people to speak to for advice on getting involved with different areas of the game.</td></tr>
+
+<tr><td>[[Sentinel Gate#Conjunctions|Conjunction]]</td><td>At a main Empire event, this refers to a plot encounter that you participate in by leaving the Anvil field. A conjunction is when you go through the Sentinel Gate; these are scheduled adventures which are for a predetermined number of people to a specific place. You might find out about them through the Winds of Fortune, or through another player or NPC you meet in Anvil.</td></tr>
+
+<tr><td>Contact Ref</td><td>(In battle reffing) A ref nominated to assist other referees if they need backup when dealing with a situation.</td></tr>
+
+<tr><td>[[Coven]]</td><td>A band of mages from the same nation focused on casting magic rituals. Each coven is able to perform two rituals each day.</td></tr>
+
+<tr><td>Crew</td><td>Crew are the volunteers who perform the tasks necessary for the event to run. There are a huge number of different crew responsible for the event, including the hygiene team, online moderators, the skirmish team, and the field and role NPCs.</td></tr>
+
+<tr><td>Crush (or 'Crush line')</td><td>(In battle reffing) Two lines of densely packed combatants that are relatively stationary.</td></tr>
+
+<tr><td>Crush doughnut</td><td>(In battle reffing) A smaller force, encircled by a larger force, that is being forced into a tightly packed group.</td></tr>
+
+<tr><td>[[Combat#Dying|Death count]] (see ‘bleed time’)</td><td>This starts when you get to 0 hits and is three minutes (180 seconds) as standard. You are considered to be dying during this count. You can talk and scream as much as you want but you can take no other IC action. You stop dying if you regain a hit for any reason. If you get to the end of this count then you are either dead or terminal. When you are healed from dying then your death count resets - e.g. Alex falls to the ground after reaching 0 hits and starts dying, so they begin their count of three minutes. One minute later Adam reaches them and heals them with the heal spell. The next time Alex falls over they will still have a count of three minutes.</td></tr>
+
+<tr><td>Debris</td><td>(In battle reffing) A danger that can be moved e.g. fallen branch, dying character, etc.</td></tr>
+
+<tr><td>[[Downtime]]</td><td>The time between each event. Some personal resources and skills allow you to do things during downtime like fleets trading with a foreign port, or an artisan crafting magic armour. Details specific to each downtime are on the interlude page of the wiki released shortly after each event. We aim for downtime to be open the week after the event is run and generally closes after a week. Once downtime is closed the decisions made are locked in.</td></tr>
+
+<tr><td>Drop</td><td>Sometimes called “event drop”, the low mood, tears or heightened emotions that come after an event, due to factors such as, for example, coming down from an emotional high or dealing with an unexpected character death.</td></tr>
+
+<tr><td>[[Egregore]]</td><td>A member of Profound Decisions crew who plays an NPC to support members of a nation. There is at least one egregore in each nation and they are part of the wider player support team.</td></tr>
+
+<tr><td>[[Eternal]]</td><td>The most powerful inhabitants of the magical realms. There are several eternals from each realm that are interested in the Empire. Eternals are served in the Empire by their [[Inhabitants_of_the_realms#Heralds|heralds]] - it is quite rare to meet an eternal in person, and some of them have never been encountered physically.</td></tr>
+
+<tr><td>Fic</td><td>Fiction - Stories or poems written about larp characters, situations or settings.</td></tr>
+
+<tr><td>[[Calls#FIRST_AID|First Aid]] (call) (see Safety (call))</td><td>A call that someone has suffered a real injury. If you hear this call then stop fighting and kneel down, and await further instructions from the crew. Sometimes, players may call ‘Man Down’ - this is an old-fashioned call that means the same thing, but is not good form.</td></tr>
+
+<tr><td>FOIP/Find Out In Play</td><td>This means that the answer to your question cannot be given out of character, and you’ll discover it, or not, within the game. Everything published on the Empire wiki is publicly available information that any character can know. Some things - such as a character’s motivations or things that occur whilst at events - can only be learned whilst in character at an event.</td></tr>
+
+<tr><td>[[Foreign nations|Foreign]]/Foreigner</td><td>A member of a nation that the Empire is not at war with, and so is protected by the laws of the Empire. You can find a list of the known nations of the world that the Empire is not at war with [[Foreign nations|here]].</td></tr>
+
+<tr><td>Froth</td><td>Enthusing with other participants about an event or system before or after playing it.</td></tr>
+
+<tr><td>Game lever</td><td>An action that can be performed by players to affect the game world. The most common of these are the [[Judgement|judgements]] that every member of the Synod can raise, but they include [[Senate motion|motions]] for senators, [[Declaration|declarations]] in the conclave, [[Appraisal|appraisals]] through the senate, and [[Archmage#Plenipotentiary|plenipotentiaries]] from the archmages.</td></tr>
+
+<tr><td>[[GOD]]/GOD Tent</td><td>Games Operation Desk - At Empire, a fixed point on site where player admin is done from. A large tent staffed by God Team volunteers who issue character packs, deal with player admin (potions and such) and are a point of contact for all queries if someone is unsure where else to go.</td></tr>
+
+<tr><td>Gully</td><td>(In battle reffing) The gap between two sides of a crush line.</td></tr>
+
+<tr><td>[[Anvil#The_Hall_of_Worlds|Hall of Worlds]]/HoW	</td><td>A part of the in-character field which is only easily accessible to magicians. Adjacent to the [[Regio#The Imperial Regio|Imperial Regio]], and the venue for [[Conclave]] during an event. Occasionally, other encounters will happen there.</td></tr>
+
+<tr><td>Hazard</td><td>(In battle reffing) A danger that cannot be moved e.g. barbed wire fence, ditch etc.</td></tr>
+
+<tr><td>[[Hearth magic|Hearth Magic]]</td><td>Hearth magic is the universal magic of the world with national interpretations, themes, tropes, and beliefs that OC make the game more vibrant and more fun. They tend to make PCs more dramatic, like characters from a story. There are no formal rules behind it - players can lean into hearth magic as much or as little as they want to.</td></tr>
+
+<tr><td>[[Herald]]</td><td>A herald is a representative of an Eternal that can journey to Anvil.</td></tr>
+
+<tr><td>[[Combat#Global_Hits|Hits]]/Hit Points/Health</td><td>The total amount of damage you can take before dropping to your bleed/death count. There are certain calls and effects that might immediately drop you to 0 hits, but this number is the total amount of times you can be hit by a normal weapon without any calls being made. After two hours of rest and relaxation - not engaging in combat - you regain all lost hits.</td></tr>
+
+<tr><td>IC</td><td>In Character, when you are acting or speaking as your character, when something is a thing as part of the game. For example - “Really they said that IC!”, “I’m going to use this bag IC to carry snacks and water around”, “Can you help me carry this down to the IC camp”</td></tr>
+
+<tr><td>Immersion</td><td>When you are so drawn into a game that your experience is not disrupted by out-of-character elements. “I was so immersed I didn’t see the car behind the tent!” “That beer can was so jarring it really ruined my immersion.”</td></tr>
+
+<tr><td>[[Anvil#The_Imperial_Regio|Imperial Regio]]</td><td>Sometimes just called ‘the Regio’, A part of the in-character field which is linked to the rest of the Empire. Casting a ritual in the Imperial Regio has certain effects - the main one being that it increases your effective ritual lore by one. Other regios outside of Anvil are usually attuned to one specific magical realm and only increase that lore.</td></tr>
+
+<tr><td>[[Imperial title]]</td><td>	An official position recognised by the civil service. Characters can gain an imperial title by being elected by other players or purchasing the right to hold the title using in-game currency or resources. An Imperial title usually comes with a power the title holder can use or some other benefit. This can be extra income, control of an army, or responsibility to negotiate with a foreign nation. Sometimes this is called a ‘hat’ OC, as in ‘They can’t stand for that title, they’ve already got another hat’.</td></tr>
+
+<tr><td>Keen</td><td>Being excited before an event.</td></tr>
+
+<tr><td>Lammy/lammie</td><td>A laminated card, usually but not exclusively credit card sized. This probably imparts some sort of Game information. Some games have them as character cards giving character details. At Empire the most common form of lammy is a potion or traumatic wound. You may also find them on a tent or structure with an aura on it. They will explain what is happening in that area and anything you should be aware of that affects your character in that area. They are OC but contain pertinent information that would affect your character IC.</td></tr>
+
+<tr><td>Lead Ref</td><td>The referee in charge of a given combat.</td></tr>
+
+<tr><td>[[Lineage]]	</td><td>An option a player can take to apply make-up or prosthetics to their character and get additional roleplaying cues. In character, the lineages are one of six (briar, cambion, changeling, draughir, merrow, and naga) manifestations of the realm on a human. The lineaged are fully human but are linked to one of the six realms. Orcs cannot be lineaged.</td></tr>
+
+<tr><td>Linear</td><td>This is a generic term used in LARPs for an encounter (usually combat and/or plot related) that a small group of PCs will go on away from base. In Empire, these are usually referred to as Conjunctions, Encounters, or Skirmishes.</td></tr>
+
+<tr><td>Long Dark</td><td>The break between E4 one year and E1 the next. As the downtime between each event, IC, is around three months, and OC is over six months, this is a nod to the time lag IC and to the length of time before we can get back to a field!</td></tr>
+
+<tr><td>Longest Dark</td><td>The pandemic years - this was the longest break between Empire events: from E4 2019 until E1 2022. IC time did not extend over the time period, so two and a half OC years passed over the course of three IC months.</td></tr>
+
+<tr><td>LRP</td><td>LRP (or Larp, LARP, larp, Live Roleplaying or Live Action Roleplaying) is a form of role-playing game where the participants physically portray their characters. You can argue forever (and some people will) about the “A” but it’s still the same hobby!</td></tr>
+
+<tr><td>Magnitude</td><td>Ritual magnitude (sometimes just called ‘mag’) is a numerical value given to a ritual which indicates how difficult it will be to perform; the higher the number, the more potent the effect and the more ritualists are needed to contribute. Please see [[Rituals#Basic_Rules|here]] for a guide on how to achieve numbers.</td></tr>
+
+<tr><td>MattCave</td><td>A shipping container office next to the Monster Tent where the Game Team are based during events. Named after Matt Pennington, because that is where he lives for the course of events when he’s not allowed out to play. Sometimes called the ‘MattBox’.</td></tr>
+
+<tr><td>Monster Tent</td><td>A big tent in the Out of Character area where Plot Production is based. This is where all the plot happens, NPCs get briefed, costumed, made up and dispatched.</td></tr>
+
+<tr><td>NPC	</td><td>Non-player character. A character written by the plot team or with a game area in mind, and played by a crew member. Examples include egregores, foreign dignitaries, and enemies encounters on skirmishes.</td></tr>
+
+<tr><td>OC/OOC</td><td>Out of Character, when you are not playing your character, when something is not part of the game. For example - “It’s almost time in, let's put all the OC stuff away so the camp can be IC” “if you’re cold go and put your OC jumper on under your kit, no one will mind” “Hi, I’m Clare OC, we met earlier IC and I wanted to check in with you because I had fun role playing with you and hope you did too!”</td></tr>
+
+<tr><td>[[Participant welfare|Participant Welfare]]</td><td>Sometimes called ‘PW’, they are a team that exists to help participants who are experiencing out-of-character emotional distress during the game. They can be contacted by anyone with a radio (crew, refs, egregores), and will come to you in the field if you need them.</td></tr>
+
+<tr><td>PD</td><td>Profound Decisions - the company that runs the Empire game</td></tr>
+
+<tr><td>[[Personal resource|Personal Resource]]</td><td>Every player chooses one type of personal resource and what territory it is based in when their character is created. Some personal resources also give voting rights in elections for senators or on bourse seats.</td></tr>
+
+<tr><td>Phys-rep/physrep</td><td>Short for “physical representation”. The physical object that represents an in-game object. For example, a latex and foam sword represents a metal sword. Occasionally, players are referred to as phys-reps of their characters; this isn’t a common usage and some people find it unfriendly.</td></tr>
+
+<tr><td>PID/CID</td><td>Player IDentification/Character IDentification - Your PID is your unique identification number for the game. It’s useful to quote it in any emails you might need to send to us to make it easier to find you on our system. Your CID is your character’s unique identification number and is made up of your PID and the number of your character (so your second character's CID will be your PID.2) Your CID is used in some areas of the game like bonding to magic items or ritual magic. You can also write your PID on any items you might lose and want to easily recover from lost property, like arrows, mugs, bags, scarves - anything detachable and losable!</td></tr>
+
+<tr><td>Plot Ref</td><td>The referee that will provide any plot clarifications and provide the definitive timings for the Sentinel Gate.</td></tr>
+
+<tr><td>[[Proxy|Proxy]]</td><td>Most imperial titleholders are entitled to appoint a “proxy” of their choice. The proxy can use the powers of the Imperial Title if the named title holder is not using them or is absent from the game. You cannot be a proxy for an Imperial title if you already hold an Imperial title. If the named title holder dies, the proxy is no longer valid and cannot use the powers of the title.</td></tr>
+
+<tr><td>Quest</td><td>This is a generic term used in LARPs for an encounter (usually combat and/or plot related) that a small group of PCs will go on away from base. In Empire, these are usually referred to as conjunctions, encounters, or skirmishes.</td></tr>
+
+<tr><td>RAT/Ref Access Tent</td><td>A Profound Decisions tent inside the lower gate to the Dawn/Wintermark field which contains a referee desk and can carry out limited referee function from time in until late evening.</td></tr>
+
+<tr><td>[[Realm]]</td><td>One of six (Autumn, Day, Night, Spring, Summer, and Winter) magical realms that are adjacent to the mortal realm. Home of the eternals and heralds. Ritual magicians use the power of the realms to perform powerful rituals. Each of the lineages is tied to one of the realms.</td></tr>
+
+<tr><td>[[Referee|Ref]]/Referee</td><td>A member of Profound Decisions crew who is responsible for the application of the rules and processing of game functions. Some functions can be carried out by other members of the crew (GOD or civil servants and egregores with tablets), but a rules call needs to be made by a referee. They can be found at the Ref Desk in the God Tent, at a tent by the Imperial Regio, or the RAT in the Wintermark/Dawn field. Referees wear yellow and black quartered jackets and tabards, and they all have a radio.</td></tr>
+
+<tr><td>Ribbon</td><td>A ribbon is a literal ribbon with information printed on it to denote there is something special about the object it is attached to. The most common ribbons are magic items created by artisans but others exist. Each ribbon has a unique ribbon number that is linked to an entry on the database. A ribbon may have information printed on it that will indicate if the object has an effect on a character.</td></tr>
+
+<tr><td>[[Ritual]]</td><td>A ritual is a powerful spell that magicians can perform together as a coven. They tend to use mana crystals and each one calls on one of the Realms.</td></tr>
+
+<tr><td>Roleplay effect</td><td>A description of emotions and feelings which your character is experiencing, usually delivered by a card, on a ribbon, or a ref explaining the effect. In Empire, these never dictate how a character reacts - how a character responds to a roleplaying effect is up to the player. For example, if a roleplay effect says ‘’you feel a surge of anger’’ then you can choose to respond by screaming in rage, or by leaving the area, or however you think fits your character.</td></tr>
+
+<tr><td>[[Calls#FIRST_AID|Safety (call)]] (see First Aid (call))</td><td>A call that someone has suffered a real injury. If you hear this call then stop fighting and kneel down, and await further instructions from the crew. Sometimes, players may call ‘Man Down’ - this is an old-fashioned call that means the same thing, but is not good form.</td></tr>
+
+<tr><td>[[Sect]]</td><td>A band focused on performing religious ceremonies, who must be from the same nation. Members of a sect can contribute to a ceremony even if they are not dedicated to the same Virtue.</td></tr>
+
+<tr><td>[[Sentinel Gate]]</td><td>A large archway on the in-character field that allows characters to teleport to various parts of the Empire. Each event the Sentinel Gate can be “opened” by a magician to allow access to skirmishes and encounters at specific times, and allows a set number of people to pass through. It isn’t possible for characters to direct where the Sentinel Gate goes.</td></tr>
+
+<tr><td>Skirmish</td><td>At a main Empire event, this refers to a combat encounter that you participate in by leaving the Anvil field via the Sentinel Gate. A Skirmish is generally a combat encounter on the skirmish field or in the woods, found via a Conjunction.</td></tr>
+
+<tr><td>Snazz</td><td>Short for Snazaroo, a popular brand of water-activated facepaint used in larp for decades. It is also used as a verb for getting made-up as a character “‘Go and get snazzed!’”</td></tr>
+
+<tr><td>[[Imperial sodality|Sodality]]</td><td>A cross-national interest group. This can either be unofficial or officially recognised. If it’s an official Imperial Sodality, it will have, at minimum, a statement of purpose, a sign by which it can be recognised, and a Speaker formally appointed by the Sodality itself.</td></tr>
+
+<tr><td>Team Lead Ref</td><td>The referee coordinating a team of referees covering an area, nation, or other feature.</td></tr>
+
+<tr><td>[[Combat#Terminal|Terminal]]</td><td>At the end of your character’s bleed time/death count you can choose to either die or become terminal. A character who is terminal is dying and cannot be saved - they cannot regain hits from any source - but can continue roleplaying for the rest of the event. The character will die before the start of the next Empire main event.</td></tr>
+
+<tr><td>[[Calls#TIME_FREEZE|Time freeze]] (call)</td><td>If a ref calls ‘Time freeze’, you should stop moving, fighting, or talking, and listen for further instructions. This is a safety call and must be respected. Once the safety issue has been dealt with, the ref will call ‘Time in’ and the game will resume.</td></tr>
+
+<tr><td>Time in/time out</td><td>Time in is when the in-character field is considered active for the game - from 18.00 Friday till 01.00 Saturday, from 10.00 Saturday till 01.00 Sunday, and from 10.00 Sunday till 15.00 Sunday.<br>Time out is when it’s not. This technically covers the period between events too, but it’s generally used to refer to the time between 01:00 and 10:00 at Empire events. Roleplaying can still happen, but there is no plot or ref support during this time.</td></tr>
+
+<tr><td>Traumagowning</td><td>Seeking out roleplay with a focus on angst and conflict.</td></tr>
+
+<tr><td>[[Combat#Traumatic_Wounds|Traumatic wound]]</td><td>A wound card which represents a difficult to treat condition that affects a character. Each one has four sections: patient rules (what to do if you have not had it treated and any restrictions); patient roleplaying (a description of how the injury feels); physick information (information for the physick on how to treat it); and untreated information (what happens if the wound is untreated).</td></tr>
+
+<tr><td>[[Recent_history|Winds of Fortune]]</td><td>A set of pages added to the Empire Wiki prior to each event, which contain information about ongoing and upcoming game plot. Any player character is welcome to know as much of this information as they would like.<br>Each “wind” usually contains a little bit of in-world fiction depicting NPC’s reacting to the situation, a longer piece of prose describing the situation in in-character language, and a short summary and bullet points of possible actions players can take to advance the plot.</td></tr>
+
+<tr><td>[[Recent_history|Winds of War]]</td><td>A set of pages added to the Empire Wiki prior to each event, which contain information about ongoing military campaigns of the Empire that takes into account the orders of generals, rituals cast by covens, support from military units and other relevant actions.<br>Each “wind” is written as a piece of prose describing the campaign in in-character language, and has a summary at the end detailing complications and ongoing effects.</td></tr>
+
+<tr><td>[[Skills|XP]]</td><td>Sometimes called just ‘points’, this is short for ‘Experience Points’. A character starts with 8 points they can spend on skills. You gain one additional XP after the first and third event you attend each year. You can ‘reclaim’ XP you’ve spent on a character by ‘un-spending’ it and losing access to one skill to spend on different skills. Unspent XP (not including the starting 8) is saved between characters, but spent XP is locked to a single character even if you reclaim it.</td></tr></table>
+<!--
+<table class='wikitable sortable'><tr><th>Term</th><th>Explanation</th></tr>
+<tr><td>Abstraction layer	</td><td>	Parts of the system or setting that are technically present but aren’t what the game is about. For example, the manufacture of toilet paper in the setting is considered “below the abstraction layer”. This is often used to deal with logistical or pragmatic features that make the game easier OC, but might be hard to explain IC.	</td></tr>
+<tr><td>[[General#Appoint_an_Adjutant|Adjutant]]</td><td>	A special kind of “proxy”, for generals only. If a general dies, their adjutant is not automatically removed and can wield the powers of their general and command their army until a new general is appointed.
+
+Adjutants can also be removed by the [[revocation]] of the general that appointed them, or by their general being subject to a successful [[Writ of Excommunication|writ of excommunication]].</td></tr>
+<tr><td>[[Anvil]]</td><td>The tent-city settlement where Empire events take place in character. Each nation has its own camp, along with various political, magical, and cultural structures. The capital of the Empire.
+
+When you come to Empire LRP, this is the place where your characters are. In the world of the game, it is located in Casinea, a territory belonging to Highguard.	</td></tr>
+<tr><td>[[Apothecary]]</td><td>Apothecary is a skill characters can learn which allows them to make potions. Players with this skill may refer to themselves as an “apothecary” as a description of the services they can provide.
+
+Apothecaries start knowing how to mix the five basic apothecary potions. They can also learn additional sets of [[Potion#Recipe_List|recipes]].</td></tr>
+<tr><td>	Appropriate roleplay	</td><td>A term used for when a character needs to do something to signify they’re using a skill. Examples can be as simple as letting out a warcry as you prepare to call CLEAVE with a sword or as complex as a ten minute play when performing a ritual.	</td></tr>
+<tr><td>[[Arcane projection|Arcane Projection]]</td><td>An arcane projection (sometimes called an ‘AP’ both IC and OC) is a piece of paper that allows a magician or group of magicians to cast a magical ritual. Rituals from arcane projections can only be used once.
+
+Arcane projections are created by players between events using the Profound Decisions website. A player must have ten mana crystals in their character inventory to create an arcane projection, which are consumed in the process.
+
+Not every arcane projection idea submitted by players will successfully create a castable ritual. 
+
+It is possible to turn an arcane projection into a ritual that can be used repeatedly by codifying it in a [[college of magic]].</td></tr>
+<tr><td>[[Crafting_skills#Artisan|Artisan]]</td><td>	Artisans start with knowledge of how to make four magic items. They have three months worth of time they can use during downtime to craft them. Most magic items take one month and a number of the materials from mines and forests to make. Some take two months but cost no materials to make.	</td></tr>
+<tr><td>	Ballgowning	</td><td>	The roleplaying of flirting and/or romantic relationships with another character or characters.	</td></tr>
+<tr><td>	Ballgowning (Alternative)	</td><td>	The roleplaying of dramatic events in a high-impact, high-emotion manner with another character or characters.	</td></tr>
+<tr><td>[[Bands|Band]]</td><td>	The out-of-character catch-all term used for a banner, coven, or sect. All members of a band have sworn the same in-character oath. A character can only be in one of each type of band at any given time.	</td></tr>
+<tr><td>	Banner (group)	</td><td>	A band of people from the same nation, often focused on fighting. Members can benefit from being additional targets of certain rituals.	</td></tr>
+<tr><td>	Banner (object)	</td><td>	A piece of fabric on some sort of stick with a group emblem on it. Can also be a magic item see [[:Category:Magic Standards|magic standards]] and [[:Category:Gonfalon|gonfalons]].	</td></tr>
+<tr><td>[[Barbarian]]</td><td>A member of a nation that the Empire is at war with, and so is not protected by the laws of the Empire. You can find a list of nations the Empire is at war with [[Powers_of_the_Imperial_Senate#Declaration_of_War|here]].	</td></tr>
+<tr><td>	Barbarian money	</td><td>	Sometimes ‘Barbarian coin’, a common term used by participants for out-of-character money. Most of the traders in Traders’ Row and the OC traders’ area will charge OC money for their goods. It is not something that barbarians carry around for people to loot.	</td></tr>
+<tr><td>	Base Layers	</td><td>	Your base layers are the items of clothing that are not iconically belonging to your character and, ideally, not identifiable as a specific nation. For most people, this means a plain pair of trousers or leggings and a basic larp shirt or tunic in neutral colours.
+
+If you hear or see the phrase ‘turn up to monster in base layers’, the aim is that you look generic enough that pieces of monster costume can be added on top of your kit.
+
+You will more commonly see requests to turn up to monster in base layers, plus any specifically coloured kit that would be helpful to that day’s battle or encounter. For example, “base layers and any red kit” is a common request for monstering as Jotun orcs, who wear a lot of red.	</td></tr>
+<tr><td>	Battle	</td><td>	Starts at 11:00 on Saturday and Sunday mornings. Which nations are fighting on which battle is decided by the military council. If you battle one day you must volunteer to monster the other day. If you are monstering then you need to be at the monster tent for 09:30.	</td></tr>
+<tr><td>	Bleed	</td><td>	Experiencing heightened emotions out of character as a result of roleplay that you have engaged in.	</td></tr>
+<tr><td>	Bleed time (see ‘death count’)	</td><td>	How long your character can survive on 0 hits; this starts at three minutes, but can be increased by buying specific skills, and decreased with antagonistic calls or effects.	</td></tr>
+<tr><td>	Brawlgowning	</td><td>	Typically dramatic, high-emotion combat with another character or characters.	</td></tr>
+<tr><td>	Choke Point </td><td>		In battle reffing, a feature that funnels participants into a smaller area e.g. a gate in the fence, a bridge over a ditch or the Sentinel gate.</td></tr>
+<tr><td>	Civil Servant/CS	</td><td>	A member of Profound Decisions crew who plays an NPC civil servant character. Civil servants administer the civil functions which keep the Empire running, chairing meetings, running elections and providing advice as needed. They are specialists in the different agencies of state. They often wear imperial purple with golden horse insignia. They are playing characters while in the field but are there to help. They are good people to speak to for advice on getting involved with different areas of the game.	</td></tr>
+<tr><td>[[Sentinel Gate#Conjunctions|Conjunction]]</td><td>	At a main Empire event, this refers to a plot encounter that you participate in by leaving the Anvil field. A conjunction is when you go through the Sentinel Gate; these are scheduled adventures which are for a predetermined number of people to a specific place. You might find out about them through the Winds of Fortune, or through another player or NPC you meet in Anvil.	</td></tr>
+<tr><td>	Contact Ref</td><td>	In battle reffing, a ref nominated to assist other referees if they need backup when dealing with a situation.	</td></tr>
+<tr><td>[[Coven]]</td><td>	A band of mages from the same nation focused on casting magic rituals. Each coven is able to perform two rituals each day.	</td></tr>
+<tr><td>	Crew	</td><td>	Crew are the volunteers who perform the tasks necessary for the event to run. There are a huge number of different crew responsible for the event, including the hygiene team, online moderators, the skirmish team, and the field and role NPCs.	</td></tr>
+<tr><td>	Crush doughnut</td><td>	In battle reffing, a smaller force, encircled by a larger force, that is being forced into a tightly packed group.	</td></tr>
+<tr><td>	Crush line or Crush</td><td>	In battle reffing, two lines of densely packed combatants that are relatively stationary.	</td></tr>
+<tr><td>[[Combat#Dying|Death count]] (see ‘bleed time’)	</td><td>	This starts when you get to 0 hits and is three minutes (180 seconds) as standard. You are considered to be dying during this count. You can talk and scream as much as you want but you can take no other IC action. You stop dying if you regain a hit for any reason. If you get to the end of this count then you are either dead or terminal. When you are healed from dying then your death count resets - e.g. Alex falls to the ground after reaching 0 hits and starts dying, so they begin their count of three minutes. One minute later Adam reaches them and heals them with the heal spell. The next time Alex falls over they will still have a count of three minutes.	</td></tr>
+<tr><td>	Debris</td><td>		In battle reffing, a danger that can be moved e.g. fallen branch, dying character etc.</td></tr>
+<tr><td>	Downtime	</td><td>	The time between each event. Some personal resources and skills allow you to do things during downtime like fleets trading with a foreign port, or an artisan crafting magic armour. Details specific to each downtime are on the interlude page of the wiki released shortly after each event. We aim for downtime to be open the week after the event is run and generally closes after a week. Once downtime is closed the decisions made are locked in.	</td></tr>
+<tr><td>	Drop	</td><td>	Sometimes called “event drop”, the low mood, tears or heightened emotions that come after an event, due to factors such as, for example, coming down from an emotional high or dealing with an unexpected character death.	</td></tr>
+<tr><td>	[[Egregore]]	</td><td>	A member of Profound Decisions crew who plays an NPC to support members of a nation. There is at least one egregore in each nation and they are part of the wider player support team.	</td></tr>
+<tr><td>	[[Eternal]]	</td><td>	The most powerful inhabitants of the magical realms. There are several eternals from each realm that are interested in the Empire. Eternals are served in the Empire by their heralds - it is quite rare to meet an eternal in person, and some of them have never been encountered physically.	</td></tr>
+<tr><td>	Fic	</td><td>	Fiction - Stories or poems written about larp characters, situations or settings.	</td></tr>
+<tr><td>	[[Calls#FIRST_AID|First Aid]] (call) (see Safety (call))	</td><td>	A call that someone has suffered a real injury. If you hear this call then stop fighting and kneel down, and await further instructions from the crew. Sometimes, players may call ‘Man Down’ - this is an old-fashioned call that means the same thing, but is not good form.	</td></tr>
+<tr><td>	FOIP/Find Out In Play	</td><td>	This means that the answer to your question cannot be given out of character, and you’ll discover it, or not, within the game. Everything published on the Empire wiki is publicly available information that any character can know. Some things - such as a character’s motivations or things that occur whilst at events - can only be learned whilst in character at an event.	</td></tr>
+<tr><td>	[[Foreign nations|Foreign]]/Foreigner	</td><td>	A member of a nation that the Empire is not at war with, and so is protected by the laws of the Empire. You can find a list of the known nations of the world that the Empire is not at war with here.	</td></tr>
+<tr><td>	Froth	</td><td>	Enthusing with other participants about an event or system before or after playing it.	</td></tr>
+<tr><td>	Game lever	</td><td>	An action that can be performed by players to affect the game world. The most common of these are the judgements that every member of the Synod can raise, but they include motions for senators, declarations in the conclave, appraisals through the senate, and plenipotentiaries from the archmages.	</td></tr>
+<tr><td>	[[GOD]]/GOD Tent	</td><td>	Games Operation Desk - At Empire, a fixed point on site where player admin is done from. A large tent staffed by God Team volunteers who issue character packs, deal with player admin (potions and such) and are a point of contact for all queries if someone is unsure where else to go.	</td></tr>
+<tr><td>	Gully</td><td>		In battle reffing, the gap between two sides of a crush line.</td></tr>
+<tr><td>	[[Anvil#The_Hall_of_Worlds|Hall of Worlds]]/HoW	</td><td>	A part of the in-character field which is only easily accessible to magicians. Adjacent to the Imperial Regio, and the venue for Conclave during an event. Occasionally, other encounters will happen there.	</td></tr>
+<tr><td>	Hazard</td><td>		 In battle reffing, a danger that cannot be moved e.g. barbed wire fence, ditch etc.</td></tr>
+<tr><td>	[[Hearth magic|Hearth Magic]]	</td><td>	Hearth magic is the universal magic of the world with national interpretations, themes, tropes, and beliefs that OC make the game more vibrant and more fun. They tend to make PCs more dramatic, like characters from a story. There are no formal rules behind it - players can lean into hearth magic as much or as little as they want to.	</td></tr>
+<tr><td>	[[Herald]]	</td><td>	A herald is a representative of an Eternal that can journey to Anvil.	</td></tr>
+<tr><td>	[[Combat#Global_Hits|Hits]]/Hit Points/Health	</td><td>	The total amount of damage you can take before dropping to your bleed/death count. There are certain calls and effects that might immediately drop you to 0 hits, but this number is the total amount of times you can be hit by a normal weapon without any calls being made. After two hours of rest and relaxation - not engaging in combat - you regain all lost hits.	</td></tr>
+<tr><td>	IC	</td><td>	In Character, when you are acting or speaking as your character, when something is a thing as part of the game. For example - “Really they said that IC!”, “I’m going to use this bag IC to carry snacks and water around”, “Can you help me carry this down to the IC camp”	</td></tr>
+<tr><td>	Immersion	</td><td>	When you are so drawn into a game that your experience is not disrupted by out-of-character elements. “I was so immersed I didn’t see the car behind the tent!” “That beer can was so jarring it really ruined my immersion.”	</td></tr>
+<tr><td>	[[Anvil#The_Imperial_Regio|Imperial Regio]]	</td><td>	Sometimes just called ‘the Regio’, A part of the in-character field which is linked to the rest of the Empire. Casting a ritual in the Imperial Regio has certain effects - the main one being that it increases your effective ritual lore by one. Other regios outside of Anvil are usually attuned to one specific magical realm and only increase that lore.	</td></tr>
+<tr><td>	[[Imperial title]]</td><td>	An official position recognised by the civil service. Characters can gain an imperial title by being elected by other players or purchasing the right to hold the title using in-game currency or resources. An Imperial title usually comes with a power the title holder can use or some other benefit. This can be extra income, control of an army, or responsibility to negotiate with a foreign nation. Sometimes this is called a ‘hat’ OC, as in ‘They can’t stand for that title, they’ve already got another hat’.	</td></tr>
+<tr><td>	Keen	</td><td>	Being excited before an event	</td></tr>
+<tr><td>	Lammy/lammie	</td><td>	A laminated card, usually but not exclusively credit card sized. This probably imparts some sort of Game information. Some games have them as character cards giving character details. At Empire the most common form of lammy is a potion or traumatic wound. You may also find them on a tent or structure with an aura on it. They will explain what is happening in that area and anything you should be aware of that affects your character in that area. They are OC but contain pertinent information that would affect your character IC.	</td></tr>
+<tr><td>	Lead Ref</td><td>		In battle reffing, the referee in charge of a given combat.</td></tr>
+<tr><td>	[[Lineage]]	</td><td>	An option a player can take to apply make-up or prosthetics to their character and get additional roleplaying cues. In character, the lineages are one of six (briar, cambion, changeling, draughir, merrow, and naga) manifestations of the realm on a human. The lineaged are fully human but are linked to one of the six realms. Orcs cannot be lineaged.	</td></tr>
+<tr><td>	Linear	</td><td>	This is a generic term used in LARPs for an encounter (usually combat and/or plot related) that a small group of PCs will go on away from base. In Empire, these are usually referred to as Conjunctions, Encounters, or Skirmishes.	</td></tr>
+<tr><td>	Long Dark	</td><td>	The break between E4 one year and E1 the next. As the downtime between each event, IC, is around three months, and OC is over six months, this is a nod to the time lag IC and to the length of time before we can get back to a field!	</td></tr>
+<tr><td>	Longest Dark	</td><td>	The pandemic years - this was the longest break between Empire events: from E4 2019 until E1 2022. IC time did not extend over the time period, so two and a half OC years passed over the course of three IC months.	</td></tr>
+<tr><td>	LRP	</td><td>	LRP (or Larp, LARP, larp, Live Roleplaying or Live Action Roleplaying) is a form of role-playing game where the participants physically portray their characters. You can argue forever (and some people will) about the “A” but it’s still the same hobby!	</td></tr>
+<tr><td>	Magnitude	</td><td>	Ritual magnitude (sometimes just called ‘mag’) is a numerical value given to a ritual which indicates how difficult it will be to perform; the higher the number, the more potent the effect and the more ritualists are needed to contribute. Please see [[Rituals#Basic_Rules|here]] for a guide on how to achieve numbers.	</td></tr>
+<tr><td>	MattCave	</td><td>	A shipping container office next to the Monster Tent where the Game Team are based during events. Named after Matt Pennington, because that is where he lives for the course of events when he’s not allowed out to play. Sometimes called the ‘MattBox’.	</td></tr>
+<tr><td>	Monster Tent	</td><td>	A big tent in the Out of Character area where Plot Production is based. This is where all the plot happens, NPCs get briefed, costumed, made up and dispatched.	</td></tr>
+<tr><td>	NPC	</td><td>	Non-player character. A character written by the plot team or with a game area in mind, and played by a crew member. Examples include egregores, foreign dignitaries, and enemies encounters on skirmishes.</td></tr>
+<tr><td>	OC/OOC	</td><td>	Out of Character, when you are not playing your character, when something is not part of the game. For example - “It’s almost time in, let's put all the OC stuff away so the camp can be IC” “if you’re cold go and put your OC jumper on under your kit, no one will mind” “Hi, I’m Clare OC, we met earlier IC and I wanted to check in with you because I had fun role playing with you and hope you did too!”	</td></tr>
+<tr><td>	[[Participant welfare|Participant Welfare]]</td><td>	Sometimes called ‘PW’, they are a team that exists to help participants who are experiencing out-of-character emotional distress during the game. They can be contacted by anyone with a radio (crew, refs, egregores), and will come to you in the field if you need them.	</td></tr>
+<tr><td>	PD	</td><td>	Profound Decisions - the company that runs the Empire game	</td></tr>
+<tr><td>	[[Personal resource|Personal Resource]]	</td><td>	Every player chooses one type of personal resource and what territory it is based in when their character is created. Some personal resources also give voting rights in elections for senators or on bourse seats.	</td></tr>
+<tr><td>	Phys-rep/physrep	</td><td>	Short for “physical representation”. The physical object that represents an in-game object. For example, a latex and foam sword represents a metal sword. Occasionally, players are referred to as phys-reps of their characters; this isn’t a common usage and some people find it unfriendly.	</td></tr>
+<tr><td>	PID/CID	</td><td>	Player IDentification/Character IDentification - Your PID is your unique identification number for the game. It’s useful to quote it in any emails you might need to send to us to make it easier to find you on our system. Your CID is your character’s unique identification number and is made up of your PID and the number of your character (so your second character's CID will be your PID.2) Your CID is used in some areas of the game like bonding to magic items or ritual magic. You can also write your PID on any items you might lose and want to easily recover from lost property, like arrows, mugs, bags, scarves - anything detachable and losable!	</td></tr>
+<tr><td>	Plot Ref</td><td>		In battle reffing, the referee that will provide any plot clarifications and provide the definitive timings for the Sentinel Gate.</td></tr>
+<tr><td>	[[Proxy|Proxy]]	</td><td>	Most imperial titleholders are entitled to appoint a “proxy” of their choice. The proxy can use the powers of the Imperial Title if the named title holder is not using them or is absent from the game. You cannot be a proxy for an Imperial title if you already hold an Imperial title. If the named title holder dies, the proxy is no longer valid and cannot use the powers of the title.	</td></tr>
+<tr><td>	Quest	</td><td>	This is a generic term used in LARPs for an encounter (usually combat and/or plot related) that a small group of PCs will go on away from base. In Empire, these are usually referred to as conjunctions, encounters, or skirmishes.	</td></tr>
+<tr><td>	RAT/Ref Access Tent	</td><td>	A Profound Decisions tent inside the lower gate to the Dawn/Wintermark field which contains a referee desk and can carry out limited referee function from time in until late evening.	</td></tr>
+<tr><td>	[[Realm]]	</td><td>	One of six (Autumn, Day, Night, Spring, Summer, and Winter) magical realms that are adjacent to the mortal realm. Home of the eternals and heralds. Ritual magicians use the power of the realms to perform powerful rituals. Each of the lineages is tied to one of the realms.	</td></tr>
+<tr><td>	[[Referee|Ref]]/Referee	</td><td>	A member of Profound Decisions crew who is responsible for the application of the rules and processing of game functions. Some functions can be carried out by other members of the crew (GOD or civil servants and egregores with tablets), but a rules call needs to be made by a referee. They can be found at the Ref Desk in the God Tent at a tent by the Imperial Regio or the RAT in the Wintermark/Dawn field. Referees wear yellow and black quartered jackets and tabards, and they all have a radio.	</td></tr>
+<tr><td>	Ribbon	</td><td>	A ribbon is a literal ribbon with information printed on it to denote there is something special about the object it is attached to. The most common ribbons are magic items created by artisans but others exist. Each ribbon has a unique ribbon number that is linked to an entry on the database. A ribbon may have information printed on it that will indicate if the object has an effect on a character.	</td></tr>
+<tr><td>	[[Ritual]]	</td><td>	A ritual is a powerful spell that magicians can perform together as a coven. They tend to use mana crystals and each one calls on one of the realms.	</td></tr>
+<tr><td>	Roleplay effect	</td><td>	A description of emotions and feelings which your character is experiencing, usually delivered by a card, on a ribbon, or a ref explaining the effect. In Empire, these never dictate how a character reacts - how a character responds to a roleplaying effect is up to the player. For example, if a roleplay effect says ‘’you feel a surge of anger’’ then you can choose to respond by screaming in rage, or by leaving the area, or however you think fits your character.	</td></tr>
+<tr><td>	[[Calls#FIRST_AID|Safety (call)]] (see First Aid (call))	</td><td>	A call that someone has suffered a real injury. If you hear this call then stop fighting and kneel down, and await further instructions from the crew. Sometimes, players may call ‘Man Down’ - this is an old-fashioned call that means the same thing, but is not good form.</td></tr>
+<tr><td>	[[Sect]]</td><td>	A band focused on performing religious ceremonies, who must be from the same nation. Members of a sect can contribute to a ceremony even if they are not dedicated to the same Virtue.	</td></tr>
+<tr><td>	[[Sentinel Gate]]</td><td>	A large archway on the in-character field that allows characters to teleport to various parts of the Empire. Each event the Sentinel Gate can be “opened” by a magician to allow access to skirmishes and encounters at specific times, and allows a set number of people to pass through. It isn’t possible for characters to direct where the Sentinel Gate goes.	</td></tr>
+<tr><td>	Skirmish	</td><td>	At a main Empire event, this refers to a combat encounter that you participate in by leaving the Anvil field via the Sentinel Gate. A Skirmish is generally a combat encounter on the skirmish field or in the woods, found via a Conjunction.	</td></tr>
+<tr><td>	Snazz	</td><td>	Short for Snazaroo, a popular brand of water-activated facepaint used in larp for decades. It is also used as a verb for getting made-up as a character “‘’Go and get snazzed!’’”	</td></tr>
+<tr><td>	[[Imperial sodality|Sodality]]	</td><td>	A cross-national interest group. This can either be unofficial or officially recognised. If it’s an official Imperial Sodality, it will have, at minimum, a statement of purpose, a sign by which it can be recognised, and a Speaker formally appointed by the Sodality itself.	</td></tr>
+<tr><td>	Teeam Lead Ref</td><td>		In battle reffing, the referee coordinating a tea of referees covering an area, nation or other feature.</td></tr>
+<tr><td>	[[Combat#Terminal|Terminal]]	</td><td>	At the end of your character’s bleed time/death count you can choose to either die or become terminal. A character who is terminal is dying and cannot be saved - they cannot regain hits from any source - but can continue roleplaying for the rest of the event. The character will die before the start of the next Empire main event.	</td></tr>
+<tr><td>	[[Calls#TIME_FREEZE|Time freeze]] (call)	</td><td>	If a ref calls ‘Time freeze’, you should stop moving, fighting, or talking, and listen for further instructions. This is a safety call and must be respected. Once the safety issue has been dealt with, the ref will call ‘Time in’ and the game will resume.	</td></tr>
+<tr><td>	Time in/time out	</td><td>	Time in is when the in-character field is considered active for the game - from 18.00 Friday till 01.00 Saturday, from 10.00 Saturday till 01.00 Sunday, and from 10.00 Sunday till 15.00 Sunday.
+
+Time out is when it’s not. This technically covers the period between events too, but it’s generally used to refer to the time between 01:00 and 10:00 at Empire events. Roleplaying can still happen, but there is no plot or ref support during this time.	</td></tr>
+<tr><td>	Traumagowning	</td><td>	Seeking out roleplay with a focus on angst and conflict.	</td></tr>
+<tr><td>	[[Combat#Traumatic_Wounds|Traumatic wound]]	</td><td>	A wound card which represents a difficult to treat condition that affects a character. Each one has four sections: patient rules (what to do if you have not had it treated and any restrictions); patient roleplaying (a description of how the injury feels); physick information (information for the physick on how to treat it); and untreated information (what happens if the wound is untreated).	</td></tr>
+<tr><td>	[[Recent_history|Winds of Fortune]]	</td><td>	A set of pages added to the Empire Wiki prior to each event, which contain information about ongoing and upcoming game plot. Any player character is welcome to know as much of this information as they would like.
+
+Each “wind” usually contains a little bit of in-world fiction depicting NPC’s reacting to the situation, a longer piece of prose describing the situation in in-character language, and a short summary and bullet points of possible actions players can take to advance the plot.	</td></tr>
+<tr><td>	[[Recent_history|Winds of War]]	</td><td>	A set of pages added to the Empire Wiki prior to each event, which contain information about ongoing military campaigns of the Empire that takes into account the orders of generals, rituals cast by covens, support from military units and other relevant actions. 
+
+Each “wind” is written as a piece of prose describing the campaign in in-character language, and has a summary at the end detailing complications and ongoing effects.	</td></tr>
+<tr><td>	[[Skills|XP]]	</td><td>	Sometimes called just ‘points’, this is short for ‘Experience Points’. A character starts with 8 points they can spend on skills. You gain one additional XP after the first and third event you attend each year. You can ‘reclaim’ XP you’ve spent on a character by ‘un-spending’ it and losing access to one skill to spend on different skills. Unspent XP (not including the starting 8) is saved between characters, but spent XP is locked to a single character even if you reclaim it.	</td></tr></table>-->

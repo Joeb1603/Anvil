@@ -1,0 +1,30 @@
+==Overview==
+* Request for funds to provide mana towards the performance of strategic rituals.
+
+==Progress==
+* 95 Thrones disbursed to Ariadne of the Auric Horizon, Proxy Senator for [[Morrow]] during the Autumn Equinox 378YE
+* 25 Thrones disbursed to Probus, Senator for [[Redoubt]] during Spring Equinox 378YE
+
+==Campaign Outcome==
+* The intention of these motions is that the funds be used to purchase [[Game_items#Mana_Crystals|crystal mana]] to allow the performance of rituals that benefit the Empire and the [[Army|Imperial armies]] on a strategic level.
+
+==Autumn 378YE==
+<ic>
+Disbursal of funds for the intention of funding of the purchase of Mana to be used for strategic military purposes.<br><br>Proposed by Morrow, seconded by Sarvos.</ic>
+
+===Overview===
+* Passed in principle
+* Passed at 95 Thrones
+* Money to be distributed to Senator Morrow
+
+==Spring 378YE==
+<ic>Disbursal of funds with the intent of use to be casting strategic rituals on armies.<br><br>
+''Raised by Redoubt, seconded by Madruga.''</ic>
+
+===Progress===
+* 25 Thrones disbursed to Senator Redoubt
+
+[[Category:Senate Motion]]
+[[Category: 378YE Spring]]
+[[Category: 378YE Autumn]]
+__NOTOC__

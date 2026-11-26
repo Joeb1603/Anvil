@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:387YE Winter]]
+__NOTOC__
+<quote by="Announced by Laughlan Vi Temeschwar, Master of Rings">To build a sinecure called: "The Story Garden". Location - Belletain, Weirwater. Cost - 12 weirwood, 36 crowns. Title - Apothecary of the Story Garden. All funds have been raised by Lady Nineve Orzel. Tenured position that receives bladeroot. Responsible for providing potions to the virtuous citizens of Dawn in exchange for stories of their virtuous acts.
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in Sandling, Weirwater
+* Announcement by the [[Master of Rings]]
+
+==Date==
+* Winter 387YE
+
+==Cost==
+* Standard costs apply
+* 12 wains of weirwood
+* 36 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_the_Story_Garden}}
+==Outcome==
+* Now complete, the [[Apothecary of the Story Garden]] will be available to appoint by unanimous decision of the senators of Dawn for the first time at the Spring Equinox 388YE. 
+* The Constitutional Court have raised that the appointment method for the Apothecary of the Story Garden is unconstitutional, and it should be appointed by the [[Apothecaries Guild]]. Following [[Rules_update_2026#Imperial_Sodalities|guidance]] issued by the Constitutional Court, the title can operate and be re-elected normally. However, the title cannot be amended by the Senate without also addressing the issue of the unconstitutional appointment method.

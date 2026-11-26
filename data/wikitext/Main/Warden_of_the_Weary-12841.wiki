@@ -1,0 +1,19 @@
+==Overview==
+The Warden of the Weary is an [[Imperial title]] awarded to a citizen of [[Dawn]]. The [[Construct Rhydian Sepulchre Memorial Hospital|announcement]] to build the Rhydian Sepulchre Memorial Hospital was announced by '''Arlen Foreman-Smith''', as [[Bearer of an Imperial Wayleave]], in Spring 387YE. The Warden of the Weary is responsible for providing shelter and succour to travellers in Astolat.
+
+==Responsibilities==
+The Warden of the Weary has a responsibility to provide shelter and succour to travellers in Astolat. In addition, if the hospital, or its attendants, were to be threatened in any way, it would be the responsibility of the Warden to deal with those threats.
+
+==Powers==
+===Bounty of the Garden===
+The Warden of the Weary receives 18 drams of [[Cerulean Mazzarine|cerulean mazzarine]] each season from the hospital gardens.
+
+==Appointment==
+This title is appointed during the Autumn Equinox. The Warden of the Weary is appointed by citizens of Dawn who control [[military unit]] [[Resource|personal resources]]. The larger the military unit an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Dawnish citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+<!--{{CaptionedImage|file=FILE.png|caption=NAME, Warden of the Weary|align=left|width=400}}-->
+{{RecentElections|Warden_of_the_Weary}}
+[[Category:Title]] 
+[[Category:Dawn]]
+[[Category:Bourse]]

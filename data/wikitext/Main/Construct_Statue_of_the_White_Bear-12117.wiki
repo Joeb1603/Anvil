@@ -1,0 +1,25 @@
+[[Category:Senate Motion]][[Category:386YE Autumn]]
+__NOTOC__
+<quote by="Announced by Dima Vasilyevna Novosad, Master of the Koboldi">To commission a statue of the White Bear built in the ruins of the Towers of the Dawn in Dawnguard in the Barrens. This will allow the Eastern Sky to use the "Embrace the Storm" order. </quote>
+==Overview==
+* Constructs a [[folly]] in Dawnguard, [[the Barrens]] as per the '''[[Down_the_cavalier_road#Cathan_Canae's_Favour|Down the cavalier road]]''' wind of fortune
+* Announcement by the [[Master of the Koboldi]]
+==Date==
+* Autumn 386YE
+==Cost==
+* Costs as per opportunity
+* 30 white granite
+* 90 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Statue_of_the_White_Bear}}
+==Outcome==
+* Now complete, the [[Eastern Sky]] has gained the favour of [[Cathan Canae]] allowing the general to take the ''Embrace the Storm'' order once a year.
+
+<box>'''<big>Embrace the Storm</big>'''<br>
+* '''Surrounded by storms and blizzards, the army can only move a single territory this season.'''
+* '''The ability of this army to defend territory is increased by two fifths.'''
+* '''Casualties suffered by this army are increased by a fifth'''
+* '''Casualties inflicted by this army are increased by a fifth'''
+* '''This is a defending order.'''
+With Cathan Canae's favour, the General of the Eastern Sky could order their army to embrace the storm. Hail storms and icy blizzards would greet the army wherever they went, reducing their movement to a single territory this season, but making any region they defend much more difficult to conquer, increasing their ability to defend territory by two fifths. In battle the freezing snow and chilling winds would bring death, increasing the casualties suffered by this army and the casualties inflicted by them by a fifth.</box>

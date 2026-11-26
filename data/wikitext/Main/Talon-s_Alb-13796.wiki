@@ -1,0 +1,11 @@
+==Description==
+The Talon's Alb is a long, ankle-length linen garment, often decorated with images of birds appropriate to the virtue of the one it is woven for. If the wearer's nature is in doubt, it is most likely to be embroidered or painted with geese and jays. In Wintermark, it is suitable to be worn underneath a feathered mantle or a heavier cloak. Like the [[Mendicant Cassock]], it allows someone versed in spiritual [[Religious skills|ceremonies]] to achieve the right state of awareness to let them perform without the need for liao.
+
+The Alb was inspired by concerns of a number of Virtuous stormcrows who felt they were not living up to their potential, or the expectations of the [[Speaker of the Crows]], '''Ingrid Talon of the Mark'''. The schema was created under the guidance of the [[Keeper of the Runegrott]], '''Derowen'''.
+
+==Rules==
+{{Vestments}}
+* '''Roleplaying effect:''' You feel uncomfortable taking things at face value; it feels right to question what people tell you.
+* '''Effect:''' This item provides a source of spiritual strength for purposes of overcoming roleplaying effects that cause fear or confusion. Twice per day, when you perform or cooperate in the performance of a religious skill, you may do so without using a dose of liao.
+* '''Materials:''' Crafting a Talons Alb requires nine measures of dragonbone, seven measures of beggar's lye, and five measures of iridescent gloaming. It takes one month to make one of these items.
+{{Runesmith's Law}}

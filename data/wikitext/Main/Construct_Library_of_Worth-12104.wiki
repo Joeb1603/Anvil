@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:386YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Reikos, Seconded: Skarsind ">Motion to construct the Library of Worth in Guildenheim, Skarsind. This is a folly and will cost at least 12 white granite and 42 crowns. Funded by the Imperial Orc nation. It will allow them to add a word and symbol to their collection each season, to preserve history.</quote>
+==Overview==
+* Constructs a [[folly]] in Gildermark, Skarsind as per the '''[[The_Deer_in_the_Sun#The_Library_of_Worth|The Deer in the Sun]]''' wind of fortune
+* Passed
+* This motion received the support of the Imperial Orcs Assembly through a [[386YE_Spring_Equinox_Synod_judgements#Judgement_122|mandate]] enacted by '''Skywise Gralka'''
+
+==Date==
+* Autumn 386YE
+
+==Cost==
+* Costs as per opportunity
+* 14 white granite
+* 42 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Library_of_Worth}}
+==Outcome==
+Now complete, the Library of Worth serves to establish a collection of words and symbols. The Imperial Orcs, through the [[Weigher of Worth]], can add one word and the accompanying symbol each season to the collection.

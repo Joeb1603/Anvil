@@ -1,0 +1,61 @@
+{{CaptionedImage|file=Rhoswen.jpg|align=left|title=The Quartermaster General provides logistical support to the [[General|Generals]] of the [[Military Council]].|caption=Rhoswen Lonestrider, in a meeting.|width=350}}
+==Overview==
+This title was [[Create_title_of_Quartermaster_General_of_the_Imperial_Armies|created]] at the Autumn Equinox summit of 377YE, and Janusz Dalibor von Temeschwar of the Bloody Butchers of [[Temeschwar]] appointed to the position by the Senate.
+
+During the Spring Equinox 378YE, the Quartermaster's powers were significantly [[Amend_Powers_of_the_Quartermaster_General#Spring_378YE|amended]]. The stipend (originally set at 25 thrones each season) was suspended, and their right to [[Senator#Right to Speak|speak]] in the Senate was removed and replaced with the right of address. 
+
+In Summer 380YE, the Imperial Senate voted to further amend the powers [[Amend_Powers_of_the_Quartermaster_General_II|amend the powers]] of the Quartermaster General to allow them to [[#Apportioning_the_Guerdon|apportion]] the [[Powers of the Imperial Senate#Guerdon|Imperial Guerdon]]. This new power underwent significant [[scrutiny]] by the [[Scrutiny#Constitutional_Court|constitutional court]], and they [[Amend_Powers_of_the_Quartermaster_General_II#Scrutiny|identified]] that it represented a significant shift in power ''from'' individual nations and their [[general|generals]] ''to'' the [[Military Council]]. As such, it required both a [[Senate_motion#Constitutional_Vote|constitutional vote]] and [[The_Throne#Ratification|ratification]] by [[The Throne]]. 
+
+The motion passed, and was ratified by [[Empress Lisabetta]], granting the Quartermaster General sweeping powers to influence how the independent captains of the Empire would support Imperial military forces in future. The constitutional court also recommended that the method of appointment be changed to reflect the fact that the Quartermaster General was an officer of the Military Council, and not the Senate. This duly passed and the old method of appointment - using a shortlist drawn up by the generals and then voted on by the Senate - was abandoned in favour of majority decision by the military council.
+
+==Responsibilities==
+The Quartermaster General is expected to take responsibility for the logistics of the [[Army|Empire's armies]]. They may be called upon to advise the Senate on the needs of the armies, so that they may best pass motions for the resupply, development or building of armies and fortifications. They are expected to acquire resources swiftly and efficiently, and to liaise between the Senate and Military Council on logistical matters.
+
+Following [[Responsibility for respectful silence|a recent decision]] of the [[Senate]], the responsibilities of the Quartermaster include calling for a moment of silence to honour the dead after any [[Casualties#Emergency_Resupply|address for emergency resupply]] is announced.
+{{CaptionedImage|file=DanBrackensong.jpg|align=right|caption=Brendan Brackensong, on the move.|width=350}}
+==Powers==
+===Address the Senate===
+The Quartermaster General has the right to make an address to the Senate once per summit. This is intended to allow them to present important information for the Senators consideration. It is extremely impolite not to inform the Speaker's seat of your intention to make this Address in advance of a session.
+===Address the Council===
+The Quartermaster General has the right to make a [[Council address|address]] to the [[Military Council]] once per summit. This is intended to allow them to discuss matters of resupply with the Council. To use this power, the Quartermaster General informs the [[Herald of the Council]] that they wish to make an address, which will then  be added to the agenda for the next [[Council session]].
+===Resupply Imperial Armies===
+The Quartermaster General has the power to [[Casualties#Emergency_Resupply|resupply Imperial armies]].
+
+To use this power, the Quartermaster General provides an [[Senate_announcement|announcement]] to the Civil Service, who present the decision to the [[Senate]]. No voting is possible by the Senate at this point, as the power has been delegated to the Quartermaster General. This resupply follows the same rules as if it had been announced as part of a Senate motion. The [[Synod]] may, however, choose to exercise its [[veto]] over the Quartermaster's decision. The specifics of the armies to be resupplied will be provided to the Herald of the Military Council prior to the announcement in Senate.
+{{CaptionedImage|file=Janusz Dalibor.jpg|align=left|title=Janusz proudly displaying a gift from the Pledge said to demonstrate the relationship between the Temeschwari Quartermaster and the Imperial Military Council.|caption=Janusz Dalibor von Temeschwar of the Bloody Butchers,<br/>first Quartermaster General.|width=280}}
+===Resupply Garrison===
+The Quartermaster General has the power to resupply [[Fortification#Garrison|garrisons]].
+
+To use this power, the Quartermaster General provides an [[Senate_announcement|announcement]] to the Civil Service, who present the decision to the [[Senate]]. No voting is possible by the Senate at this point, as the power has been delegated to the Quartermaster General. This resupply follows the same rules as if it had been announced as part of a Senate motion. The [[Synod]] may, however, choose to exercise its [[veto]] over the Quartermaster's decision. The specifics of the garrisons to be resupplied will be provided to the Herald of the Military Council prior to the announcement in Senate.
+
+===Apportioning the Guerdon===
+The Quartermaster General has the power to determine how the [[Powers of the Imperial Senate#Guerdon|Imperial Guerdon]] is allocated. Specifically, they can exclude any or all [[Army|Imperial armies]] and [[navy|navies]], [[fortification|fortifications]], or [[Military_unit#Assisting_a_Special_Project|special projects]] (such as [[spy network|spy networks]]) from the calculations. This means that a [[military unit]] (or [[fleet]]) will receive a share of the guerdon only for [[Military_unit#Supporting_an_Army|supporting]] an army (or [[Fleet#Supporting_a_Navy|navy]]), [[Military_unit#Defending_a_Fortification|defending]] a fortification, or [[Military_unit#Assisting_a_Special_Project|assisting]] a special project that has been approved by the Imperial Quartermaster. Once the Imperial Quartermaster apportions the Guerdon, their decision remains in effect until it is changed again.
+
+If an army, fortification, or special project is excluded from the Guerdon then military units that support it receive no shares of the Guerdon and are not counted in the calculations to determine how it will be allocated. In essence, those military units receive ''nothing''.
+
+As with the ability to [[#Resupply Imperial armies|power of resupply]], the Quartermaster General provides an announcement to the Civil Service which is presented to the Senate, and may be vetoed by the Imperial Synod. The specifics of the armies to receive the Guerdon will be provided to the Herald of the Military Council prior to the announcement in Senate. In the unlikely event there is a discrepancy between these two lists, the guerdon does not change from what it was during the previous season.
+
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible"><tr><td colspan="2" style="background-color: LightYellow;">'''Mana Crystals'''</td></tr>
+<tr><td>7 Crowns</td><td>8 mana crystals</td></tr>
+<tr><td>17 Crowns</td><td>16 mana crystals</td></tr>
+<tr><td>30 Crowns</td><td>25 mana crystals</td></tr>
+</table>
+</div>
+
+===Imperial War Offices===
+The Quartermaster General has custodianship of the Imperial War Offices in Syrwatch, [[Casinea]], which functions as a [[ministry]]. The Quartermaster General can purchase quantities of mana crystals at a set price. The Quartermaster makes their decision how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+===Stipend===
+The Quartermaster General receives a stipend of 292 thrones each season from the [[Imperial treasury]] following a [[388YE_Autumn_Equinox_Senate_sessions#Amend_Quartermaster_General|motion]] passed by the Senate during the Autumn Equinox 388YE.
+
+==Appointment==
+The Quartermaster General is [[Powers_of_the_Imperial_Military_Council#Appointment|appointed by the Military Council]]. It is elected by simple majority of any members of the Military Council who are eligible to vote who are present when the election takes place. Appointments by the Military Council are traditionally carried out with a show of hands at a [[Council session]]. 
+
+The title is appointed during the Autumn Equinox. Any Imperial citizen may hold the post.
+
+The Quartermaster General is appointed annually. They may be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=Starac4725.jpg|align=left|caption=Starac Sijed Orzel, Quartermaster General of the Imperial Armies|width=280}}-->
+{{RecentElections|Quartermaster_General_of_the_Imperial_Armies}}
+[[Category:Military Council]]
+[[Category:Title]]

@@ -1,0 +1,7 @@
+__NOTOC__
+==Overview==
+The [https://www.cantina-elburrito.co.uk/ Cantina El Burrito] provide a range of delicious mexican dishes from their stand in the out-of-character area near GOD. 
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 10px;">
+{{CaptionedImage|file=Mex nof empire menu.png|width=100%}}
+{{CaptionedImage|file=Mex empire breakfast menu.png|width=100%}}
+</div>

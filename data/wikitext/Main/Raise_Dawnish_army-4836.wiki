@@ -1,0 +1,19 @@
+<ic>To raise a fourth Dawnish Army in Astolat.<br><br>''Proposed by Semmerholm, seconded by Weirwater''</ic> 
+
+===Overview===
+* The motion was defeated
+
+===Date===
+* Autumn 378YE
+
+===Costs===
+* Materials: 250 [[Bourse#Mithril|mithril]]. ([[Army#Costs|Standard costs]]).
+* Time: 1 year to construct
+* Upkeep: 50 Thrones per season.
+
+===Campaign Outcome===
+* This would have begun the creation of a [[Dawn|Dawnish]] [[Army]] in [[Astolat]].
+
+[[Category:Failed Senate Motion]]
+[[Category: 378YE Winter]]
+__NOTOC__

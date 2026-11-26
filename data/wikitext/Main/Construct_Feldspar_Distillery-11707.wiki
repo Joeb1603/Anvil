@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:386YE Spring]]
+__NOTOC__
+<quote by="Announced by Groza, Legion Engineer">To build Herbsheart/Feldspar Distillery in Skarsind. Creates the title 'Wise Arborist'. This is a type of herb garden sinecure. The title holder must be of the Yerende sept.</quote>
+==Overview==
+* Creates a sinecure in Solvihill, [[Skarsind]] that produces 3 realmsroot and 3 of each [[herb]] every season.
+* More information can be found in the '''[[Standing_in_the_sun#Herbsheart|Standing in the sun]]''' wind of fortune
+* Announcement by the [[Legion Engineer]]
+==Date==
+* Spring 386YE
+==Cost==
+* Costs as per opportunity
+* 12 weirwood
+* 36 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Feldspar_Distillery}}
+==Outcome==
+* Now complete, the [[Wise Arborist]] will be available to be appointed by the senators of the Imperial Orcs for the first time at the Winter Solstice 386YE. Imperial Orcs with herb gardens will be able to choose to produce realmsroot when they upgrade their herb gardens. Although there is no legal requirement that the title be held by a member of the [[Yerende]] sept, it will not function if it is held by a member of another sept.

@@ -1,0 +1,55 @@
+---
+title: Long Tom Goodfellow
+source: https://www.profounddecisions.co.uk/empire-wiki/Long_Tom_Goodfellow
+class: in-character
+topic: religion
+categories:
+- Inspirations
+last_edited: '2026-01-15T21:28:23Z'
+revision: 132090
+in_character_boxes: 1
+---
+
+# Long Tom Goodfellow
+
+> *In-character text:*
+>
+> "A coin unspent is merely a piece of pressed metal, but a coin spent is the key that unlocks a world of undiscovered delights! So, another drink in honour of the orphans of the Little Mother before you hit the road?"
+
+## Virtue
+
+Tom Goodfellow was recognised as an [exemplar](../../mixed/government/synod/Paragons_and_exemplars.md) of [Prosperity](Prosperity.md) by members of the [Synod](../../mixed/government/synod/Synod.md) in 56YE.
+
+## Biography
+
+Tom Goodfellow, most commonly known by the epithet *Long Tom* or *Long Tom Goodfellow*, is respected throughout the Empire as a master [apothecary](../../out-of-character/rules/Surgical_skills.md#apothecary), adviser to the First Empress and an [exemplar](../../mixed/government/synod/Paragons_and_exemplars.md) of [Prosperity](Prosperity.md).
+
+There is some dispute regarding the birthplace of Long Tom Goodfellow, with people of [The Marches](../nations/the-marches/The_Marches.md), [Wintermark](../nations/wintermark/Wintermark.md) and [Varushka](../nations/varushka/Varushka.md) all claiming he was born within their nation (and claiming he was born with slightly different names). However, some scholars postulate that it makes far more sense that he was originally [Navarri](../nations/navarr/Navarr.md). There may be some credence to this, given the amount of travelling he did and his involvement as a personal aide and diplomat to various nations while in service to the First Empress.
+
+The first recorded mention of Long Tom Goodfellow is as an established apothecary who, so it is rumoured, travelled throughout the northern nations upon a horse drawn caravan. He would stay in hamlets and towns for brief periods, dispensing medicines, herbs and tinctures from a temporary shop. He never charged for his cures but wherever he went he would stand upon a small ornate wooden plinth and instruct the local populace in the Virtue of Prosperity. For his service he would ask that people donate whatever they thought fair for their healing.
+
+In the small community of [Essk](../nations/varushka/Miekarova.md#essk), the people had suffered a particularly harsh winter and had nothing to offer. Long Tom could not stand to see the people suffer and so he offered them what few provisions he had brought with him. It is claimed by witnesses that he climbed upon his plinth and implored those gathered to purify their spirits and devote themselves to [the Way](../world/The_Way.md). While doing so, he became so infused with spiritual purity that he was able to heal the sick with but a touch of his hands. This is widely known as *The Great Healing of Essk* and is recognised to be a [miracle](../../mixed/government/synod/Signs_of_the_paragon_and_exemplar.md#miracles).
+
+As part of his trade, and almost certainly as a way to drum up business, Long Tom brewed and sold his own ales. His beers gained almost as much fame as his medicinal concoctions and were sought by innkeepers from [Liathaven](../nations/navarr/Liathaven.md) to [Karsk](../nations/varushka/Karsk.md) for their ability to boost a person's constitution and improve their moral outlook. Today, Long Tom's brewery is based in Anvil and is a major distributor of fine ale that is transported and sold throughout the Empire.
+
+Word of his pious nature and skill as an apothecary grew, eventually reaching the ears of the First Empress. It is believed that she summoned him to a meeting and was so impressed with his knowledge and charming disposition that she employed him to her service. Over the next few years Tom Goodfellow proved a valuable asset as he travelled the lands preaching to and healing those in need. His reputation granted him audiences with people in power and his sharp wit, gregarious nature and penchant for diplomacy opened many doors that eventually led to early negotiations with the First Empress and, ultimately, her foundation of the Empire.
+
+Today, Long Tom is officially remembered for his preaching upon the Virtue of Prosperity and his pious work on behalf of the sick and needy of the early Empire. However, he is most commonly celebrated for his love of fine ales, his gregarious nature and effervescent humour. Patrons of taverns and hostelries still recognise his pious achievements when they donate to the charity barrels situated on the bars of such establishments. The prosperous display of “*Tipping Long Tom*" is met with a customary cheer and sometimes, depending on the amount of drink involved, an impromptu speech.
+
+During the year 56YE, a decade after his disappearance in the forests of Varushka, the Imperial Synod recognised Long Tom Goodfellow as an exemplar of Prosperity.
+
+It is believed that Long Tom's spirit is so pure that he is close to attaining the status of paragon. Indeed, many priests argue that he has already attained paragonhood and the fact that no mortal has witnessed a past life vision of Long Tom is proof of this. Should this remain true, it is merely a matter of time until Long Tom is recognised as a true paragon. A number of priests claim that should the 'Plinth of Essk' be recovered, that this would be recognised as a relic and would be further evidence of Long Tom Goodfellow's elevated status as a paragon.
+
+## Signs
+
+The Assembly of Prosperity cited the following signs of Long Tom Goodfellow's exemplardom:
+
+- Long Tom Goodfellow's devout healing of the sick of the early Empire, as well as his pious instruction upon the Virtue of Prosperity is recognised as a sign of **[Benevolence](../../mixed/government/synod/Signs_of_the_paragon_and_exemplar.md#benevolence)**.
+- To this day he is still an **[Inspiration](../../mixed/government/synod/Signs_of_the_paragon_and_exemplar.md#inspiration)** to orders of itinerant priests and healers who travel the land, preaching and curing the sick.
+- The *Great Healing of Essk* is recognised by the Imperial Synod as a **[Miracle](../../mixed/government/synod/Signs_of_the_paragon_and_exemplar.md#miracles)**.
+- Many people attempt to replicate the journeys and lifestyle of Long Tom Goodfellow. For some this is a life choice to which they become devoted, for others it is a temporary expedition during which people hope to further their understanding of the virtue of prosperity. For all, it is a recognised by the [Assembly](../../mixed/government/synod/Assembly.md#the-virtue-assemblies) of [Prosperity](Prosperity.md) as a **[Pilgrimage](../../mixed/government/synod/Signs_of_the_paragon_and_exemplar.md#pilgrimage)**.
+- Long Tom's ability to sermonize upon the virtues of prosperity and thereby enlighten the leaders and people of the pre-empire is recognised as a sign of **[Salvation](../../mixed/government/synod/Signs_of_the_paragon_and_exemplar.md#salvation)**.
+
+---
+
+Categories: [Inspirations](../../indexes/by-category/Inspirations.md)

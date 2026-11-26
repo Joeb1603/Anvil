@@ -1,0 +1,36 @@
+==Rules==
+{{Season|Winter|30}} 
+
+===Performing the Ritual===
+{{Casting time|10}} {{Imperial Reduction}}
+
+{{regio|Winter}} {{Target Territory}}
+
+{{curse}}
+
+===Effects===
+All crops in the target territory are scoured with blights and unseasonable weather. Preserved foodstuffs are ravaged by rot and mould, and weaker animals fall sick and in some cases die. Residents of the territory often fall ill while this curse is in place. 
+
+All [[farm|farms]] in the territory provide 72 fewer rings (3 crowns 12 rings). This means that a standard farm will only provide 5 crowns and 8 rings following the curse.
+
+{{Territory Effects}}
+
+{{Season Duration}}
+<div style="float:right; width: 200px; clear: right;">{{CaptionedImage|file=Naeve.png|caption=The [[Naeve|Rune of Hunger]] is powerfully resonant with this dreadful [[curse]].|align=right|width=200}}</div>
+
+==Description==
+This ritual blights a territory with sickness and hunger. It causes crops to wither, food stores to become corrupted, and inflicts illness and general malaise on people and animals alike. Hunger becomes endemic, which may lead to disturbances in times or places where food is already scarce. Those who are already sick, weak, or vulnerable to disease are likely to become especially ill and may die of their illness. The curse is often accompanied by bad weather (depending on the time of year), and disturbing nightmares of famine, pestilence, and loss.
+
+The ritual is particularly despised in [[the Marches]], and [[thresher|threshers]] take an especially dim view of anyone who casts it. It seems that every few decades a [[landskeeper]]-sponsored attempt is made to [[interdiction|interdict]] the curse but so far it has resolutely remained part of Imperial lore. In the past, the [[Conclave]] has been loath to remove a potential weapon that might be used against the enemies of the Empire. It is perhaps ironic however that in the latter part of 379YE the Empire itself was brought to the edge of famine by a carefully orchestrated campaign that saw each of the Marcher territories [[March on their belly|subjected to this curse]]. The Marches is not called the "breadbasket of the Empire" for nothing, and in the wake of the disastrous harvest inspired by the curse, food prices rose across the Empire, with serious [[March_on_their_belly#The_Imperial_treasury|implications]] for the [[Imperial treasury]] and the [[March_on_their_belly#Imperial_Resupply|Empire's armies]] alike. The Marcher assembly [[379YE_Winter_Solstice_Synod_judgements#Statements_of_Principle|urged their farmers to tighten their belts]] and lower prices. When the Spring planting was [[Small_things_and_large|again ruined by malignant magic]], it inspired the [[Construct_the_Imperial_Breadbasket|creation]] of the [[The_Marches_economic_interests#The_Imperial_Breadbasket|Imperial breadbasket]] to help mitigate the effects and hopefully safeguard against future such attacks. Yet for a short time, there was a very real risk of widespread famine for the first time in Imperial history. The culprits were never definitively identified, but it is widely believed to have been the work of the treacherous sorcerers of [[Dawn|Dawn's]] House de Lusignan.
+
+While the campaign of 379YE is perhaps the best known usage of the curse in recent years, there have been several other incidents as well. During the biting winter of 380YE, for example, the magic was invoked over [[Skarsind]] leading to a truly atrocious season for the newly-resident [[Imperial Orcs]]. There is some speculation that the curse was enacted by furious [[Wintermark|Winterfolk]],angry about the decision to [[Relinquish_Skarsind|eliquinsh the territory]] to the [[orc|orcs]]. In 382YE, the nation of Urizen was [[The path that winds|subjected to the curse]]. Dismal weather flattened the fields; a virulent strain of black footrot swept through the cattle, and across [[Spiral]], [[Redoubt]], and [[Morrow]] people fell sick with an unpleasant strain of influenza. This came at a time where the [[Citadel Guard]] were experiencing significant difficulties, and the mountain spires were dealing with a number of misplaced citizens driven from their homes by the [[Druj]] invasion. Without aid from [[Highguard]], and food from the [[the Marches| Marchers]], many of the refugees in particular would have succumbed to starvation.
+
+The curse is very old, and goes by different names in different parts of the known world. It is also known as the ''Famine Song'', ''The Scourer's Lament'', and ''Call Crows of Want''. By whatever name, ''Naeve's Twisting Blight'' is often viewed by Imperial magicians as powerful but particularly cruel. Nobody is immune to the threat of sickness and hunger, and those who have laboured under the influence of the blight rarely forget it. The ritual is believed to be a particular favourite of [[Agramant]], who provides boons to those who wield it to harm their rivals. Sometimes the desire to make enemies suffer can backfire of course; in times of scarcity, people come together and forge stronger bonds of community almost as often as they turn on one another, scrabbling over the last sack of grain.
+
+==Common Elements==
+The ritual releases a malign, oppressive pestilence across a territory and the ritual performance reflects that. Grim, throbbing musical rhythms, slow threatening movement and invocations of dread and hunger are all used to raise and direct this malign power. Frightful masks or hooded cowls might be used to conceal the identities of the casters - not only thanks to magical symbolism but also practical concerns of avoiding consequences from those affected by the curse. Small amounts of food or drink might be befouled or wasted. A noxious concoction created from poisons, venoms, vile liquids, and whispered imprecations - often in a cauldron, chalice, or goblet - and poured over a representation or map of the target territory.
+
+It is obviously common to evoke the rune [[Naeve]] as part of the casting, but the ritual also resonates with the [[Kyrop|Rune of Weakness]]. A practitioner of [[Aspect_magic#Heraldic_Magic|heraldic magic]] might evoke the wicked aspect of [[Legendary_beasts#Sphinxes_and_Manticores|the manticore]] - a hateful creature associated with blighted lands - while a master of [[Aspect_magic#Beast_Magic|beast magic]] might use notoriously unclean creatures such as rats or serpents. Marcher magicians might call on crows, who devour seeds, or burn black feathers during the casting.
+
+[[Category:Winter Ritual]]
+[[Category:Rituals]]

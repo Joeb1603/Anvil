@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:386YE Summer]]
+__NOTOC__
+<quote by="Announced by Estella Lucati di Sarvos, as proxy to the Master of Rings">To commission the long-overdue repairs to the Capodomus Cathedral in Sarvos following the damage done during the Grendel's sack of Sarvos. These repairs shall include a sinecure the Archbishop of Capodomus - appointed annually at the Summer Solstice by the League National Assembly. The Archbishop's responsibilities shall include coordination and support of the National Assembly and serving point of contact when needed. Let this wound finally be healed and the oldest and greatest Cathedral to the Way of Virtue not only restored but made ready for consecration with True Liao so it can become a symbol of rebirth, renewal and new beginnings to Sarvos, the Empire and beyond.</quote>
+==Overview==
+* Repairs the Capodomus Cathedral as per the '''[[Old_ways#Refurbishing_the_Cathedral|Old ways]]''' wind of fortune
+* Announcement by the [[Master of Rings]]
+==Date==
+* Summer 386YE
+==Cost==
+* Costs as per opportunity
+* 20 white granite
+* 10 mithril
+* 90 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Capodomus_Cathedral}}
+==Outcome==
+* Now complete, the [[Archbishop of Capodomus]] is available to appoint by the National Assembly of the League.

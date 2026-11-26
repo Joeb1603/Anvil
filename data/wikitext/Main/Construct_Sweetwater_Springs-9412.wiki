@@ -1,0 +1,55 @@
+[[Category:Senate Motion]][[Category:383YE Winter]]
+__NOTOC__
+<quote by="Proposed by Sarvos, Seconded by Bastion">To disburse funds for and to construct the Sweetwater Springs, a series of wells and fountains in Sarvos for protection against fire.
+
+
+This is a great work and does not create an Imperial position</quote>
+
+==Overview==
+* Commissions a [[great work]] in [[Sarvos]] in line with the plans presented in the '''[[The_DOOM_that_came_to_Sarvos#Rising_Flames|The DOOM that came to Sarvos]]''' wind of fortune
+* Passed
+* Passed at 150 thrones
+
+==Date==
+* Winter 383YE
+==Cost==
+* Non-standard costs apply
+* 20 wains of white granite
+* 20 wains of weirwood
+* 10 thrones in labour costs
+* 3 months to construct
+
+==Progress==
+{{CommissionProgress|Sweetwater_Springs}}
+==Outcome==
+* 150 thrones disbursed to the Senator for Sarvos
+* Once completed the Sweetwater Springs will provide a shared bounty to all [[herb garden|herb gardens]] in Sarvos
+
+<!--
+
+The Sweetwater Springs [shorter 2 paragraph version]
+
+Following a series of fires in late 383YE, students from the Holberg College of Engineering were given the task of bringing fresh water to crowded Cigno. A buried aqueduct consisting of miles of weirwood pipe sheathed in white granite delivers springwater under pressure from the distant Mournwold hills to the city. Runes of Cavul across the pipe's length purify the water, giving it the clean, pleasant taste for which it is named. It proves especially well suited to growing cerulean mazzerine.
+
+Every street now has access to at least a drinking fountain and cistern for use by thirsty citizens, herb gardeners and firefighters. Beautiful sculptures adorn the new fountains of the City of Masks, from an elaborate quintet of statues in the Piazza di Dolcezza to a small statue of a dog with its hind leg raised in perpetual urination, just outside the offices of the disgraced Carta du Incendio.
+
+
+The Sweetwater Springs  [longer 3 paragraph version]
+
+Following a series of arson attacks and a disastrous inferno that raged through the Caricomare docks, the Senator for Sarvos invited students from Holberg's College of Engineering to tackle the problem of making fresh water accessible throughout the city - a tricky task for an island surrounded by salt water.
+
+Undaunted, the engineers constructed an aqueduct to bring springwater from the distant hills of Mournwold direct to the city. Most of the aqueduct is concealed - miles and miles of weirwood pipe sheathed in protective white granite, buried under a thick layer of topsoil. The pipe is marked with the rune Cavul across its length, enhancing the purifying properties of the weirwood. The resulting water is clean, pleasant to drink and particularly suited to growing cerulean mazzerine in the city's warm climate. Every street in Cigno now has access to at least a drinking fountain and cistern for the use of thirsty citizens, herb gardeners and firefighters.
+
+Thanks to hydraulic pressure, the water emerges in Cigno in impressive jets up to nine feet high. Reflecting the city's new commitment to beauty, sculptors have enshrined these 'sweetwater springs' in a series of decorative fountains, with every spout and cistern bearing at least some ornamentation. Some of these are ornate works of art: the great fountain in the Piazza di Dolcezza of Caricomare bears a statue of five exquisitely dressed Leaguers believed to be the commissioning senator and the members of the Looking Glass fashion house, raising a golden chalice from which the main fountain jet springs. By comparison, the drinking fountain outside the offices of the Carta du Incendio takes the form of a small stone dog, its hind leg raised in perpetual urination.
+
+
+
+Author's Notes -
+
+    I did a bit of research and quickly found that there is a limit to how many wells you can drive into the aquifer if you are near the sea - drawing up too much water has a serious risk of salinating all the existing wells. Given the engineers on the project would probably know this (as it was a known risk by the 12th century), a Roman-style aqueduct seemed like it would be an appropriate solution. Burying the pipe has some nice historical precedent, too.
+
+    I literally could not find a closer 'hilly' region than Mournwold to draw an aqueduct from! Kahraman was about equidistant, and it made slightly more sense to run the pipe via Tassato. The Empire is really lacking in hills near the coast.
+
+    The 'spirit' of the commission seemed to be "cisterns we can draw fire-extinguishing water from" and "potable water for herb gardens". The idea of an aqueduct, fountains and a lot of decorative statuary seemed to fit the northern Italian vibe of Sarvos pretty well. I hope this isn't taking too much of a liberty. If it is, well, we can just dig a bunch o' wells instead. :D
+
+-->

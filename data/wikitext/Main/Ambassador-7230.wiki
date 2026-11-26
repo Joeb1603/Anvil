@@ -1,0 +1,118 @@
+==Overview==
+The [[Senate]] has the power to [[commission]] an [[embassy]] to handle negotiations with a foreign nation or power. The Empire can open embassies with distant foreigners such as [[Asavean Archipelago|Asavea]], [[Principalities of Jarm|Jarm]] and the [[Commonwealth|Commonwealth]]. These foreign powers are empires in their own right and have a similar level of might and influence to the Empire, but are far away over the seas and have many concerns of their own. The Empire can also open embassies to nearby foreigners such as the [[Axos]], the [[Faraden]] and the [[Iron Confederacy]]. These nations possess power equivalent to one or more Imperial nations, but they are much closer to the Empire and their concerns are much more likely to be aligned with Imperial concerns.
+
+Each embassy is overseen by an ambassador - a new title is automatically created when a new embassy is created. The power to oversee relations with other nations is vested in the [[Senate]] but in practice it is logistically impossible for the Senate as a body to carry out detailed negotiations with a foreign power. As a result, appointing an ambassador automatically grants a citizen the authority to negotiate on their behalf.
+
+It is possible to appoint an ambassador to another nation without constructing an embassy - however most foreign nations will only take an ambassador seriously if an appropriate embassy is constructed to house them and the civil servants required to support them. When a title with authority is created, it is essential to clearly delineate which nation or power the title is being given authority to negotiate with. It is not possible to grant authority to negotiate with a non-Imperial group unless they are clearly a nation, major power or the equivalent. For example it is possible to grant an ambassador authority to negotiate with the Sarcophan Delves - but not authority to negotiate with a prominent Sarcophan family or trading house.
+
+It is not possible for the Senate to limit the scope or dominion of an ambassador. For example, it is not possible to limit the authority to conduct treaty negotiations to specific subjects such as religion, trade, or magic.
+
+==Responsibilities==
+An ambassador is responsible for representing the Empire to a foreign nation, and often vice versa. They are presented as the primary contact for any official Imperial business to the nation in question so their letters carry much greater weight and importance than anyone bar the Throne. They are expected to conduct or oversee any treaty negotiations with that foreign nation. The civil service will direct representatives and citizens of the foreign power to the ambassador wherever appropriate. It is illegal for any Imperial citizen to falsely claim authority to negotiate a treaty on behalf of the Empire. 
+
+Although it is only possible for a single citizen to have authority to negotiate treaties with a foreign nation, any citizen can negotiate and agree individual deals with members of other nations and it is possible for the Senate to create other titles that have ''responsibility'' to ensure good relations or similar with certain members of that nation. In most cases the ambassador's responsibilities will be assumed to include such liaison and cooperation with those individuals as is required to ensure effective relations with the nation in question.
+
+In addition to the Empire's goals, foreign nations have agendas of their own, and may seek to draw the Empire into their intrigues. The Asavean Plenum might seek to enlist the Empire in its conflict with the Sumaah Republic, for example. One member of the Plenum might seek to engage Imperial support in a conspiracy against another Plenum family. A high ranking noble might want to employ foreign mercenaries to help put down a slave revolt, or to locate a prized artefact. Handling these matters are considered the primary responsibility of the ambassador.
+
+==Powers==
+<div style="float: right; max-width: 50%; width: 500px;><box>'''Using the Power of Treaty'''<br>
+For a senator to raise a motion to ratify a treaty, they must present a written copy of the treaty alongside the motion to ratify or decline it.
+
+it is a serious crime for an ambassador to attempt to fake a treaty, which risks being prosecuted for subverting the agencies of state. The written treaty must include all the terms that have been agreed with the foreign power and must be signed by the relevant ambassador on behalf of the Empire. Their signature denotes their authority and their assertion that the treaty reflects the terms that they have good cause to believe are agreeable or have been agreed with duly appointed representatives of the foreign nation. It is preferable to have a treaty signed by representatives of both sides before it is put up for ratification, but this is not always possible and is not legally required.
+
+An ambassador cannot raise a treaty - their legal power is to create a written treaty on behalf of the Empire. Once a treaty has been written out - and duly signed by an appointed ambassador, then a senator can use a separate senate motion to raise that treaty for ratification.</box></div>
+===Treaty===
+Authority grants the holder the power to negotiate a treaty with another nation for consideration by the Senate. A [[senator]] must use a [[Senate motion]] to submit the treaty for ratification by the Senate - but ratification only requires a single senate motion, regardless of how many legal changes are required to ratify the treaty. For example, the Senate recently [[Accept_Thule_peace_treaty|ratified a treaty with the Thule]] which ceded control of the Wintermark region of the Silver Peaks and declared peace with them for three years.
+
+Ratification of a treaty is considered to be a single motion before the Senate because the Senate can either choose to accept the treaty or reject it. It is not possible to [[Motion_wording#Amendments|amend]] a treaty once it is presented as a motion; it either passes in its entirety in the form it was submitted or it does not pass. The only legal way for the Senate to ratify variations of a treaty is to submit different treaties as separate motions.
+
+Any citizen can negotiate and agree a deal with individuals from another nation, but only the Imperial title with authority may submit a treaty for ratification by the Senate and only when the civil service have confirmed that it is a genuinely negotiated treaty with members of that nation.
+
+Any attempt to submit a treaty for ratification that is not negotiated with authorised representatives of that nation by the Imperial citizen with the appropriate authority would be breaking Imperial law by [[List_of_Criminal_Offences#Crimes_against_the_Processes_of_the_State|subverting the agencies of state]]. Any deals which require Senate authorisation that are made with foreigners who are representing their own interests rather than their nation must be submitted as distinct Senate motions as usual.
+
+A negotiation does not have to take place face-to-face. Winds of fortune for foreign diplomacy will often contain offers and [[opportunity|opportunities]] presented by the foreign nation that have been negotiated with the civil service that supports the ambassador. A treaty can be used to ratify these opportunities, as they represent agreements that the foreign power has already confirmed.
+
+As a senate motion, a treaty should be [[Motion_wording|carefully worded]]. It should be concise and to the point, clearly laying out the actions to be taken as part of the treaty. Treaties are subject to [[scrutiny]] like any other senate motion. Perhaps more so than other motions, it is sensible to have a treaty scrutinised before it is presented to the Senate.
+
+===Delegation===
+If a foreign delegation is seeking to meet with the ambassador to discuss matters of state, then the civil service will inform the ambassador of their presence and let them know when the delegation is expected to arrive. The ambassador can choose where to receive the delegation, they may opt to receive them in the Senate if it is free or choose a more informal location if they prefer. 
+
+Priests with the power of witness may attend a formal meeting to observe proceedings but only those given permission by the ambassador may speak. Anyone who attempts to disrupt such a meeting, even speaking without permission, runs the risk of being prosecuted for [[List_of_Criminal_Offences#Crimes_against_the_Processes_of_the_State|subverting the agencies of state]].
+
+===Communication===
+The ambassador will often want to write to their counterpart in the other nation to engage in direct diplomacy with them. To facilitate this, the ambassador can create a single letter each season which will be sent for them by the civil service if the ambassador has an [[embassy]]. As they have staff to arrange this, the letter can be sent up to a week after the summit ends. ('''OOC Note:''' The ambassador can e-mail the text of their letter to {{plot}} before downtime closes to send a single missive in this way.) This power can only be used to send a letter to [[Call_Winged_Messenger#Known_Correspondents|their counterparts]] in the foreign nation they are the ambassador to. This letter has the same restrictions on the total number of characters - 2,500 including spaces - as [[Call Winged Messenger]].
+
+====Trade Opportunities====
+A common type of opportunity presented to ambassadors are trade opportunities - the ability to exchange commodities with a foreign nation. To take advantage of an opportunity like this, the ambassador ensures that the materials or money required as payment are in their inventory, and then e-mails {{plot}} before downtime closes. They should include clear details of the trade.
+===Ambassadorial Briefings===
+As discussed in the 388YE Autumn Equinox wind of fortune '''[[So_little_I_wanted,_so_little_I_got#Ambassadorial_Briefings|So little I wanted, so little I got]]''', the [[civil service]] have recently reinstituted Ambassadorial briefings. Briefings were phased out in 386YE, in favour of public briefings designed to promote transparency and better "institutional memory". It has since become clear that sometimes ''too much'' information can be as detrimental as too little. Many of the details of diplomatic situations are of minimal interest to the average Imperial citizen, for example. With that in mind, for the next year the civil service will resume furnishing Imperial ambassadors ''who are supported by [[embassy]] staff'' with individual briefings where necessary and appropriate. To maintain transparency and preserve continuity, the briefings will be made available to those who wish to review them ''after'' the summit where they are delivered, in a similar way to which [[historical research]] is made public. Only those elements of a briefing that are specifically personal to the ambassador may be removed, and only where they are clearly not of interest to the Empire.
+
+Currently the [[Ambassador to Beoraidh]] and the [[Ambassador to the Grendel]] do not have embassies - which crucially means they do not have ''embassy staff''. The civil service has done its best to provide briefings to these two ambassadors for the Autumn Equinox, but going forward they will be unable to continue doing so - not unless the Senate is prepared to make some additional funds available to find premises and supplies for a skeleton staff. 
+
+At the end of the year, this procedure will be reviewed again, to ensure that it is fit for purpose.
+
+==Imperial Consul==
+The default situation under the [[Imperial Constitution]] is that authority for all foreign relations is vested in the Senate. If the Empire chooses to appoint an ambassador (or any other title with authority) then they have authority to handle all treaty negotiations with any representative of the foreign power, without recourse or appeal to ''any'' higher power.
+
+In Summer 379YE, the Senate [[Create title of High Consul|passed a motion to create a Consul]], with the power to exercise authority where no other Imperial title existed with that power. The [[Imperial Consul|title]] included responsibilities to coordinate with existing ambassadors. The Constitutional Court issued explicit guidance to make absolutely clear that an ambassador would have primacy in all matters of authority for the nation they dealt with. The Consul has no legal right to direct the ambassadors in their work.
+
+==Selection==
+The [[New_Imperial_titles#Well_Worn_Paths|well worn path]] for choosing an ambassador is via appointment through the [[Senate]]. This is done by a [[Senate motion]] of [[Appointment_by_the_Senate|Appointment]]. The appointment can be for any duration up to a year. 
+
+When the position becomes eligible for reappointment, the Senate may pass a motion of appointment at any time during that summit. The incumbent remains in position until they are replaced or the end of the summit - whichever comes sooner.
+
+In the past, there have been times when individual ambassadors have been appointed by unanimous decision of the Senators of a chosen nation, by the General Assembly of the Imperial Synod, and through open auction on the [[Bourse]]. During the reign of [[Emperor Nicovar]], a motion was proposed to modify the powers of [[The Throne]] to allow them to appoint the ambassadors. The motion was approved by the Constitutional Court at that time, but did not pass the Senate.
+
+==Removal==
+The method of removal depends on how the title has been selected. If the well-worn path is followed, an ambassador can be revoked by the General Assembly or the Assembly of Nine.
+
+An ambassador serves until a new ambassador is appointed. By default, an ambassador serves for one year before the title must be reappointed. It is traditional for an outgoing ambassador to bring their replacement up to speed on any outstanding business.
+
+==Current Ambassadors==
+This table includes all ambassadors which have been appointed in recent times. For a full list of title holders see [[Current Imperial titles|here]]. This was last updated following the Winter Solstice 387YE. 
+{| class="wikitable sortable"
+|-
+! [[Ambassador]] !! Incumbent !! Foreign Nation !! Location of Embassy !! Term
+|-
+| [[Ambassador to Asavea]] || {{#lst:Archive:All_Election_Results|Ambassador_to_Asavea_occupant}} || [[Asavean Archipelago]] || [[Sarvos]], Cigno || Year, Summer
+|-
+| [[Ambassador to Axos]] || {{#lst:Archive:All_Election_Results|Ambassador_to_Axos_occupant}} || [[Axos]] || [[Redoubt]], Limus || Year, Autumn
+|-
+| [[Ambassador to Beoraidh]] || {{#lst:Archive:All_Election_Results|Ambassador_to_Beoraidh_occupant}} || [[Mareave#Beoraidh|Beoraidh]] ||  || Year, Spring
+|-
+| [[Ambassador to the Commonwealth]] || {{#lst:Archive:All_Election_Results|Ambassador_to_the_Commonwealth_occupant}} || [[Commonwealth]] || [[Necropolis]], Hedrossan || Year, Spring
+|-
+| [[Ambassador to Faraden]] || {{#lst:Archive:All_Election_Results|Ambassador_to_Faraden_occupant}} || [[Faraden]] || [[Segura]], Anduzjasse || Year, Spring
+|-
+| [[Ambassador to the Grendel]] || {{#lst:Archive:All_Election_Results|Ambassador_to_the_Grendel_occupant}} || [[Grendel]] || [[Redoubt]], Limus || Year, Autumn
+|-
+| [[Ambassador to the Iron Confederacy]] || {{#lst:Archive:All_Election_Results|Ambassador_to_the_Iron_Confederacy_occupant}} || [[Iron Confederacy]] || [[Sarvos]], Cigno || Year, Winter
+|-
+| [[Ambassador to Otkodov]] || {{#lst:Archive:All_Election_Results|Ambassador_to_Otkodov_occupant}} || [[Thule]] || [[Miekarova]], Mieriada || Year, Spring
+|-
+| [[Ambassador to Jarm]] || {{#lst:Archive:All_Election_Results|Ambassador_to_Jarm_occupant}} || [[Principalities of Jarm]] || [[Redoubt]], Limus || Year, Winter
+|-
+| [[Ambassador to the Sarcophan Delves]] || {{#lst:Archive:All_Election_Results|Ambassador_to_the_Sarcophan_Delves_occupant}} || [[Sarcophan Delves]] || [[Redoubt]], Limus || Year, Autumn
+|-
+| [[Ambassador to the Sumaah Republic]] || {{#lst:Archive:All_Election_Results|Ambassador_to_the_Sumaah_Republic_occupant}} || [[Sumaah Republic]] || [[Necropolis]], Coursmouth || Year, Spring
+|-
+| [[Imperial Consul]] || {{#lst:Archive:All_Election_Results|Imperial_Consul_occupant}} || [[Druj]], [[Jotun]] and [[Skoura]] || [[Tassato]], Tassato Regario || Year, Summer
+|}
+{{Senate Further Reading}}
+[[Category:Senate]]
+[[Category:Foreign Nations]]
+[[Category:Title]]
+
+<!--
+==Archival Stuff==
+===Mercantile Support===
+If the Empire opts to build an embassy then merchants of both sides who engage in trade between the Empire and the nation in question will visit it to curry favour with the ambassador for various reasons. Commonly they will take a portion of the items they buy and sell and make them available to the ambassador at favourable prices.
+
+This benefit is usually reflected by the inclusion of a [[ministry]] as part of an embassy. This allows the ambassador to directly purchase raw materials from traders and merchants of the associated nation. For example, the [[Asavean Archipelago|Asavean]] embassy allowed the ambassador to purchase [[Cerulean Mazzarine|cerulean mazzarine]], [[orichalcum]], [[iridescent gloaming]], and [[tempest jade]] directly for Imperial [[currency]]. The materials provided may fluctuate, but will be tied to those which the foreign nation has regular surpluses of.-->
+
+<!--
+Ministy is usually built on trade points:
+12+15+12+9 = 48 points
+36 + 45 + 36 + 27 = 144 points
+60 + 75+60+45 = 240 points
+Top level is usually the sum of the middle level + (2x) the bottom level-->

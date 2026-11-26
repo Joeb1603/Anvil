@@ -1,0 +1,244 @@
+---
+title: Asavean gods
+source: https://www.profounddecisions.co.uk/empire-wiki/Asavean_gods
+class: in-character
+topic: foreign-nations
+categories:
+- Asavea
+last_edited: '2025-07-15T22:22:58Z'
+revision: 124476
+in_character_boxes: 20
+---
+
+# Asavean gods
+
+*[Image: The Asaveans worship a complex pantheon of deities. Balo of the Foam is the Asavean god who "protects" sailors, and any who travel over water.](https://www.profounddecisions.co.uk/empire-wiki/File:Balo_of_the_Foam.jpg)*
+
+## Overview
+
+Since the Spring Equinox 382YE, a popular pamphlet claiming to explain the [Asavean](Asavean_Archipelago.md) religion has been circulating the southern cities of the Empire. While it is not clear where the original document came from, the cheaply printed pamphlet "*A Primer on the Asavean Gods*" has been traced to a printing house in [Tassato Regario](../nations/the-league/Tassato.md#tassato-regario), the *Honourable Press*. The pamphlet is of dubious provenance, but has quickly spread to whatever parts of the Empire the [Blood Red Roads](../nations/the-league/Lorenzo-s_Legacy.md#blood-red-roads) reach. The *Honourable Press* have defended their production of the pamphlet by arguing that it does not attempt to claim the Asavean gods are real, but merely seeks to arm the faithful with knowledge so that they may better recognise and resist the wiles of their priests. The phrasing of much of the text suggests that it may originally have been taken from a document intended for children, but the printers refuse point blank to reveal who paid them to produce the pamphlet. They claim that to do so would ruin their professional reputation and thus be a crime against both [Prosperity](../religion/Prosperity.md) and [Pride](../religion/Pride.md).
+
+Imperial citizens are, however, urged to take this entire document with a healthy pinch of salt. It is clearly intended as a propaganda tool, and the [Department of Historical Research](../../mixed/government/senate/Historical_research.md#department-of-historical-research) in particular is at pains to point out that everything here is the opinion of the Asaveans, carefully packaged to make it easy to understand and to support the [syncretic](https://en.wikipedia.org/wiki/Syncretism) agenda of the Republic. One of the first things diplomats from the Asavean Archipelago do when they seek to influence a nation is find ways to equate the local religion with their own gods. This was evident with the *Lords of the Seven Virtues* fiasco in Nemoria, and the recent attempts to equate the Five Flames of [Faraden](Faraden.md) with Asavean deities.
+
+As well as the text of the pamphlet itself, there are a few notes added by the Imperial Archivist, Leontes the Scribe, who oversees the Department of Historical Research during a holiday in [Tassato](../nations/the-league/Tassato.md) he did not enjoy.
+
+## The Gods
+
+The people of Asavea are watched over by many gods. Each of the Asavean gods is served by priests who tend to their temples and shrines, and help the people to give sacrifices. The gods are powerful, but they are also wise. They do not interfere too much in the lives of mortals. They often send signs which can be explained by their priests. These signs give warnings, or suggest good actions that a person can take to make their lives better. But they can intervene directly in mortal lives if they wish. It is often difficult to tell why a god has intervened, but when they do take a direct hand in the lives of mortals they are more likely to help someone who has honoured them and punish someone who has neglected them.
+
+Sometimes outsiders want to learn about the gods and this is difficult. Not many people remember all the gods all of the time. Even the faithful are more likely to honour the gods who help them in their lives, and make offerings to other gods only at certain times.
+
+This means that while all Asavean people know where there is a shrine of the God of the Dead, many do not know the name of the god or more than a few details about them. They do not need to know the God of the Dead every day, only when someone they care about dies or they must organise a funeral. The people of Asavea know there are many gods, and that they do not know all of them yet. They are always glad to learn of a new god, because unless they know of a god they cannot give offerings or honour that god and it may try to punish the people of Asavea as a result.
+
+Often the priests of Asavea discover that a god who is being worshipped by foreign people is actually one of the gods they already know by another name. This is one reason that many of the most powerful gods have different names and different faces because the Gods appear to different people – in different ways. This shows that the Gods understand that mortal people can be very different and see things in different ways, but that ultimately all people know and respect the spiritual powers of the world.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Make no mistake, the Asavean gods play a key role in Plenum efforts to spread their influence. Diplomatic and well-spoken priests often serve as diplomats. They don't initially attempt to proselytise, but rather treat service to the god as entirely normal. They look for opportunities to draw parallels between the local religious practices and those of Asavea, creating an impression of common ground. Historically, several of the satrapies had their own faiths which were entirely subsumed into the Asavean pantheon. Contrary to what might be expected, the priesthood makes little effort to stamp out religious practices among those they absorb - they simply wait for the people to realise there is much more to gain from adopting Asavean religion than by remaining stubbornly committed to the increasingly isolated, fringe beliefs of their grandparents.
+> >
+> > Leontes the Scribe
+
+## Sacrifice and Prayer
+
+The best way to honour a God is with a sacrifice. Different gods like different sacrifices. There are two types of offerings: things and prayers. Things are objects in the world that are valuable. There are three common ways to sacrifice things. You can lay something before an altar, you can burn it, or you can cast it into the sea. Offerings are like mortals they are of the world and you can touch them. Often the god shares their offerings with the priests who serve them. A priest can teach someone the best way to make an offering, and the best offering to give.
+
+Prayers are different. Prayers are offerings to the God that come from pure spirit. Sometimes they are words. They can also be actions. If you treat someone who is sick you are offering a prayer to Thessed of the Cup. If you defend someone from a wild beast you are offering a prayer to The Black Bull. Prayers are always for the God. A priest can teach someone the best way to pray.
+
+One of the most powerful forms of prayer is when a group of people pray together. A group of people all praying with a priest is very pleasing to the Gods, and often leads to increased prosperity and success for everyone, especially if they come together lots of time. This is why our temples are places of prayer, where the priests help people to honour the gods.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The influence of the Asavean priesthood should not be underestimated. Priests of one god or another are active in every facet of Asavean life. They function as the Asavean civil service, but it goes beyond that. Temples are centres of social life for many Asaveans, as well as places of business. Patronising a temple is effectively mandatory for anyone who wants to be successful in their professional life and being cast out can be both socially and economically ruinous.
+> >
+> > Leontes the Scribe
+
+## Wicked Spirits
+
+There are some creatures who are mistaken for gods but they are not gods. Sometimes a dead spirit does not pass into the afterlife and is mistaken for a god. Sometimes a powerful creature from the magical realms pretends to be a god. The priests of Asavea know how to deal with these spirits and creatures. Sometimes the spirit is actually serving a god, and their ways are good. Sometimes they are trying to steal power from a god and lead people into bad ways. These spirits must be dealt with by the priests before the god becomes angry, either by leading them back to good ways or by punishing them. It is the same with creatures of the magical realms: sometimes they serve a god even though they don't realise it. Sometimes they are enemies who must be punished.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > It's fascinating that this religion, based as it is around gods that the virtuous recognise as non-existent, takes account of the threat of eternals masquerading as their patron. The role of the priests as go-betweens efficiently insulates the religion from being taken over by a "wicked spirit" - and if I were cynical I would say it provides an easy explanation for why the gods might sometimes be inconsistent. If it doesn't make sense, it was the work of a wicked spirit.
+> >
+> > Leontes the Scribe
+
+## Death and the Afterlife
+
+When people die, their bodies and their spirits separate. The spirit goes out of the world, to the place where the Gods live. Sometimes we call that place the afterlife, but it is really just a place of pure spirit. It is a lot like the world of the living, but better in every way. A good person who has honoured the Gods receives a high status in the spirit world. A bad person who has denied the Gods still has a good existence but they are servants to the good people and do not have servants of their own.
+
+Sometimes a person will come back from the spirit world. They don't remember the afterlife and this is a gift of the God of the Dead because if they could remember the life that they had they would be sad. They also don't remember their earlier life because if they did it would be confusing for them. This is also a gift of the God of the Dead.
+
+When someone dies, we offer them to the Gods. This is called the *viagem*. The priests of the God of the Dead lay them out and everyone visits and prays to the God that they will have a good afterlife. Then we put them in a funeral boat, and set it on fire. The family of the dead person places important and valuable goods in the boat to be burnt as well, because these things will go to the spirit world with the spirit of the dead person.
+
+If the body is not made into an offering, the spirit of the dead person cannot go to the afterlife and will become an evil spirit. This is why it is important to make sure that dead people are brought to the priests of the God of the Dead, and made into offerings so they can reach the afterlife.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Again, parts of this philosophy are quite clever. The priesthood conceals the fictional nature of their afterlife by creating a compelling narrative as to why ghosts and the like don't seem aware of it. It does strike me as a little peculiar just how much power the God of the Dead could wield given everyone who dies - even slaves - is dealt with by its priesthood. And yet we don't really see much sign of that in Asavean society.
+> >
+> > Leontes the Scribe
+
+## Questions
+
+Everyone has questions. The world is strange and confusing. It is important that people who have questions talk to people who have answers. Anyone can come to a priest and ask to talk to them, and the priests will try to answer their questions. This is how we teach people to honour the Gods and ensure they are prosperous and happy in this life, and the next.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > This attitude is prevalent in all walks of Asavean life. It doesn't just relate to religious matters - it's second nature to almost all Asaveans to seek advice from an appropriate priest on almost anything. As I understand it, priests often direct those with practical problems to members of their congregations with the skills to help resolve that issue - meaning that those who have the best relationship with the appropriate priesthood often have lucrative business opportunities directed their way.
+> >
+> > Leontes the Scribe
+
+## Some of the Gods
+
+There are lots and lots of gods. Here are some of them.
+
+### Balo of the Foam
+
+Balo is a female god. She is the god of the foam, and of the shore where the water touches the land. She keeps sailors safe from the many dangers of long sea voyages. She sends good winds, and protects sailors from storms and other dangers that come from the jealous gods of the deep ocean.
+
+Many songs, poems, and dances are performed in her honour. She likes sacrifices thrown into the waves by the edge of the sea, especially at the start of a voyage. Sometimes she returns these gifts to people by having them wash up on the shore – but it is terrible misfortune to steal these offerings if they are still in the sea.
+
+### The Black Bull
+
+This god is both male and female. It is a great black bull. It is the god of soldiers, bodyguards and guardians - anyone who protects people, especially those who travel in dangerous places. It is a martial god who encourages skill at arms among its followers.
+
+Priests and devotees of the Black Bull accompany merchants and diplomats who travel to foreign lands. The followers of the Black Bull strive to show their prowess and bravery, often engaging in daring acrobatic feats like leaping over a bull. The Black Bull likes sacrifices of blood of a ritually slaughtered animal poured over an altar or acolyte, with the meat from the carcass then being prepared as part of a feast for the devoted.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Balo and the Black Bull are the two gods honoured at the Asavean temple built in Oran. Balo is very popular with mariners of all kinds, and sacrifices of wine, ale, or beer are regularly made before an Asavean trading ship leaves port.
+> >
+> > Leontes the Scribe
+
+### Baddu the Builder
+
+The Builder is both male and female. They are the patron of everyone who builds architects, builders, stonemasons, –
+carpenters. They invented the tools that people use to build houses, temples, castles and cities. They like sacrifices of
+wealth, and every building has a handful of coins as part of the foundation. Their priests help people to build things, and their prayers contain all the numbers and shapes that are used to build.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The controversial "Asavean Architect" Almodin Oktístis, active in the Empire in the early 380s, was an adherent of Baddu the Builder. All the buildings he oversaw incorporated images of the Asavean gods, and the Senate was forced to remodel all of them at some expense.
+> >
+> > Leontes the Scribe
+
+### Thessed of the Cup
+
+Thessed is always shown with his healing cup, which never empties. He is the god of compassion, and the patron of healers and physicks. His priests offer healing, comfort, and succour to poor as well as the rich. Thessed is gentle, and his priests refuse to bear arms, trusting the followers of The Black Bull to protect them from danger.
+
+### Lord Isso Mãos de Ouro
+
+A male god. The Golden Handed God of merchants, traders, shopkeepers and anyone else who makes their living by exchanging things for payment. He is always shown with his hands slightly off balance because he understands that profit is the lifeblood of trade. His temples are built in or near market places, and the best merchants want to do business in the shadow of those temple. Everyone knows that the most prosperous merchants are those who do their trade inside the temple itself. Along with Baddu the Builder, he is a god of mathematics but his teachings are seen as much more practical than those of the builder god. -
+
+### Aseus who Tamed the Wind
+
+A female god. She knows all names, including the names of all the winds from the gentlest breeze to the devastating typhoon. She is the god of speech, and of those who make their living by speaking. She is the patron of diplomats, orators, and messengers. In the same way she commands the winds to offer comfort or destroy, so the orator can use their words to offer comfort or unleash a terrible war.
+
+### The Cowled God
+
+This god has no gender. It is the god of magic, mysteries, secrets, and magicians. Only the priests of the God of Magic know its name, and they keep it secret. It is shown as a hooded figure with many arms, each hand holding a symbol of magical power. The priests of the Cowled God work hard to help magicians to use their magical powers to help people, and make sure that they receive recognition and recompense for what they do. Seers, diviners, and spies also honour the Cowled God for it is the god of hidden knowledge, as well as the god of magical power.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > This figure is an enigma - intentionally so it seems. There was an effort in 386YE to have the Conclave declare *enmity* against the Cowled God, apparently as a peculiar experiment to see if they were secretly one of the eternals wearing a hood. The declaration was defeated but there is still suspicion in some quarters that despite Asavean efforts to the contrary this god might simply be a mask for Sadogua the so-called Brother of Wizards. Sadogua denies it, of course.
+> >
+> > Leontes the Scribe
+
+### The Red God
+
+This god is female. The daughter (or perhaps wife) of the old god *Zakalwe Dieu de la Guerre*, she watches over soldiers and generals alike. She has several names, but only those who pass tests set by her priests learn them. The more names you know the higher you stand in her regard. She is proud and terrible. She teaches discipline, and all the arts of warfare. Her priests and devotees keep Asavea safe, and maintain the good order of the Plenum.
+
+A brave servant of the Red God can usually be identified by their tattoos. When they return from a campaign, soldiers seek the blessings of priests who mark their bodies with black and red tattoos. It is a terrible crime for anyone to get these tattoos who has not earned them.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > During the short-lived civil war in Asavea, in which Imperial mercenaries fought both for and against the rebellious satrapies, a number of Imperial soldiers had close encounters with the followers of the Red God. The priests are often military officers, and effectively control the majority of the Asavean armies (albeit under the command of the Plenum). It's interesting to ponder what might happen if the priests of the Red God and the Plenum families fell out. A few Imperial mercenaries from this time have black-and-red tattoos received during the war.
+> >
+> > Leontes the Scribe
+
+### Adevăr of the Flowers
+
+This god is both male and female. They are the god of beauty, and the patron of those who pursue beautiful things. The priests of
+Adevăr create beautiful things, especially sculptures, paintings, mosaics, pottery, and poetry. The god sometimes grants blessings
+to those they favour, giving them singing voices that can move even a stone statue to tears or granting them special insight into the world so that they may capture its beauty. Those who destroy beautiful things are sometimes touched by the god as well driven mad so that they gouge out their own eyes for their crimes.
+
+Four times each year special ceremonies are held to honour the God of Beauty, and all their devotees spend the day in seclusion creating or contemplating beautiful things. At the end of these special days, there is a grand party to celebrate everything that is joyous and happy in the world.
+
+### The God of the Dead
+
+This god is sometimes male, sometimes female, and sometimes neither or both. It has a great many names but is most often called the God of the Dead. It is this god who looks after people between the point where they stop living and the point where their spirit reaches the afterlife. Priests of the God of the Dead oversee funerals, prepare the dead, and lay them out so that their family can say goodbye to them.
+
+The God of the Dead is also the god of doors, thresholds, and porches and many buildings have one of its names carved into them. Unlike the other gods, nobody in Asavea makes statues or draws pictures of this god.
+
+### Other Known Gods
+
+There are many other gods known to the Asavean people, and only the priests of *Mecthis the Silent*, the god of knowledge, know them all.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > One priesthood not mentioned here are the cruel followers of the God of Chains. A hooded god holding manacles and a net, this monstrous figment is the patron of slavers, torturers, and jailers as well as traps and entrapment. The 384YE attack on the city of Chalonsio by the Liberty Pact wiped out the leadership of this wicked religion, and in following months further attacks were launched on the priesthood that have broadly seen the power of the temples significantly reduced.
+> >
+> > Leontes the Scribe
+
+## Resource
+
+Since the original print run - printed (badly) on poor-quality paper - several further copies have been made, many of them by hand. (**OOC Note:** Anyone who wishes can download and print out a copy of this pamphlet - it has been recopied numerous times so there is consequently no standard appearance.)
+
+- [File:Asavean Religion Pamphlet.pdf](https://www.profounddecisions.co.uk/empire-wiki/File:Asavean_Religion_Pamphlet.pdf)
+
+## Asavean Further Reading
+
+- [Asavean Archipelago](Asavean_Archipelago.md)
+- Asavean gods
+- [Ambassador to Asavea](../../mixed/titles/Ambassador_to_Asavea.md)
+- [Asavean Archipelago ports](../../mixed/economy/Foreign_ports.md#asavean-archipelago)
+- [Asavean dissidents](Asavean_factions.md)
+
+Winds of Fortune
+
+- [So little I wanted, so little I got](../winds-of-fortune/So_little_I_wanted-_so_little_I_got.md#asavean-archipelago) - 388YE Autumn wind of fortune about Asavean diplomacy
+- [Talking to friends](../winds-of-fortune/Talking_to_friends.md#asavea) - 387YE wind of fortune relating to diplomacy with Asavea
+- [Two suns in the sunset](../winds-of-fortune/Two_suns_in_the_sunset.md) - 387YE Spring wind of fortune about rebellious factions in Asavea
+- [One of us](../winds-of-fortune/One_of_us.md) - 386YE Winter wind of fortune about religious factions in Asavea
+- [Irreconcilable differences](../winds-of-fortune/Irreconcilable_differences.md) - 386YE Autumn wind of fortune about the preaching of the Way in Asavea
+- [Harvest of infamy](../winds-of-war/Harvest_of_infamy.md) - 386YE Autumn wind of war about the Asavean naval attack on Meade
+- [Authority and acceptance](../winds-of-fortune/Authority_and_acceptance.md#asavea) - 386YE Autumn wind of fortune regarding diplomatic relations with Asavea
+- [Drumbeat of war](../winds-of-fortune/Drumbeat_of_war.md) - 386YE Summer Wind of Fortune about Asavea introducing the "Anchoring the Way" project
+- [Mosaic](../winds-of-war/Mosaic.md) - 384YE Autumn Wind of War recounting the Liberty Pact raid on the satrapy of Chalonsio
+- [There is thunder](../winds-of-fortune/There_is_thunder.md) - 384YE Summer Wind of Fortune introducing the rain on Chalonsio opportunity
+- [A force to be reckoned with](../winds-of-fortune/A_force_to_be_reckoned_with.md#asavea) - 382YE Winter wind of fortune touching in Asavean diplomacy
+- [The divide between](../winds-of-fortune/The_divide_between.md) - 382YE Winter Wind of Fortune discussing Imperial involvement in the Asavean rebellion
+- [Wages of sin](../winds-of-fortune/Wages_of_sin.md) 382YE Autumn Wind of Fortune mostly relating to the ongoing uprising in Asavea
+- [Toil and weep](../winds-of-fortune/Toil_and_weep.md) - 382YE Summer wind of fortune initiating the short lived uprising in parts of Asavea
+- [Judged by their company](../winds-of-fortune/Judged_by_their_company.md) - 382YE Summer wind of fortune discussing diplomatic relations with Asavea
+- [Seven lords of virtue](../winds-of-fortune/Seven_lords_of_virtue.md) - 380YE Spring wind of fortune introducing the opportunity to build the temple in Nemoria
+
+Faraden Related Titles
+
+- There are currently no Imperial titles related to Asavea
+
+Click *Expand* to see a summary of various pages related specifically to the Asavean Republic.
+
+---
+
+Categories: [Asavea](../../indexes/by-category/Asavea.md)

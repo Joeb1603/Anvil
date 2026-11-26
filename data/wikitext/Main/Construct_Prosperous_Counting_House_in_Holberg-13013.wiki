@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:387YE Summer]]
+__NOTOC__
+<quote by="Proposed: Reikos, Seconded: Segura">Commission to construct a Prosperous Counting House in Holberg. This is an edifice costing 5 weirwood and 5 white granite. It will increase the Virtue Fund by 15 crowns a season</quote>
+==Overview==
+* Constructs an [[edifice]] in Holberg
+* Passed
+* More information can be found in the '''[[Forwards_and_Rewards#Prosperity_and_Posterity|Forwards and Rewards]]''' wind of fortune
+
+==Date==
+* Summer 387YE
+
+==Cost==
+* Costs as per opportunity
+* 5 white granite
+* 5 weirwood
+* 30 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Prosperous_Counting_House_in_Holberg}}
+==Outcome==
+* Now complete, the [[Rewarding|Virtue Fund]] will gain an additional 15 crowns each season from donations to the counting house in Holberg, starting at the Autumn Equinox 388YE

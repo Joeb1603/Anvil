@@ -1,0 +1,58 @@
+---
+title: Amend title of Keeper of the Cox
+source: https://www.profounddecisions.co.uk/empire-wiki/Amend_title_of_Keeper_of_the_Cox
+class: in-character
+topic: senate-motions
+categories:
+- Senate Motion
+- 386YE Spring
+event: 386YE Spring
+last_edited: '2026-04-18T22:49:44Z'
+revision: 137266
+in_character_boxes: 2
+---
+
+# Amend title of Keeper of the Cox
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > To empower a role, to be appointed by the Conclave, who arranges the supervision of the Imp. Regio; in order that inappropriate misuses are prevented. They will hold the sinecure formerly: 'The Keeper of the Cox'; now called: 'The Keeper of the Watch'
+> >
+> > Proposed: Conscience of the Senate, Seconded: Casinea.
+
+## Overview
+
+- Amends the title of Keeper of the Cox to become the Keeper of the Watch with the responsibility to arrange the supervision of the Imperial Regio in order that inappropriate misuses are prevented.
+
+## Date
+
+- Spring 386YE
+
+## Outcome
+
+- The motion passed
+- The title will be renamed the Keeper of the Watch
+
+## Constitution
+
+This motion attracted considerable scrutiny with great concern for the use of the word "supervise". After lengthy and animated discussions, the Court have approved this motion as consistent with the Constitution, with the following caveats.
+
+The [Imperial Constitution](../../mixed/government/senate/Imperial_Constitution.md) grants its citizens the inalienable rights to dignity, freedom, and prosperity. By long standing tradition this rights are considered to encompass the right of any magician to employ their magic as they choose. As such, Imperial magicians have a constitutionally protected right to use the Imperial regio to perform their magic.
+
+These rights are not inviolable, the Constitution also grants the Imperial Conclave the right to govern the proper use of magic - which by definition must include the capacity to restrict magicians in some ways. Thus the Conclave may declare a magician to be a sorcerer and strip them of their right to use magic. Likewise they may interdict a ritual to declare that it may not be used.
+
+However the rights of magicians prohibit the Conclave from interdict a ritual but choosing who may or may not employ the ritual. This is the balance between the rights of magicians and the responsibilities of Conclave - if the Conclave chooses not to interdict a ritual then they cannot choose who has the right to cast that ritual - regardless of their assessment of that magicians intent.
+
+This has profound legal implications - it means that the Keeper of the Watch can, as the title suggests, arrange a "watch" on the Imperial regio to observe who is using the regio and what rituals they are casting. But they have no legal power to stop a ritual from being cast - any attempt to use force to do so would likely count as assault. Citizens should not assume that a plea of clemency will mitigate any resulting punishment.
+
+This limitation is not the obvious implication of the word "supervise" which implies that the Keeper of the Watch has some legal power to intervene or to arrange what rituals can be cast. If that interpretation was intended and clarified then the title might well be unconstitutional. As it is, the Court have assumed the interpretation of the motion which is in accordance with the Constitution rather than throw the motion out - in keeping with standard practice. Thus the position's responsibility is to arrange for the regio to be "watched", but nothing more.
+
+The Court wishes to be clear that the Conclave is the right body to appoint such a title - this title would be unconstitutional if it were appointed by any other body. However while the Court full approve of the expansion of an existing title to incorporate new responsibilities and legal powers in line with the existing role of the position, they note that that is not what has happened here. The new responsibilities accorded to this title do not relate to its former role, responsibilities, powers or purpose in any way at all.
+
+As such the title is automatically vacated - the Imperial Senate cannot appoint the existing title holder, Eayn Solsviegdottir Stanislaus, to the new position - only the Imperial Conclave can take that decision. Legally the previous title would effectively be abrogated, and the Conclave now called upon to appoint a wholly new title. Given that this may be an entirely unexpected development, the Constitutional Court will ask the office of the Speaker for the Senate to raise an administrative motion to confirm they wish to proceed. If they do, then the title will need to be reappointed by the Conclave before it can receive any benefits or take up the new responsibilities.
+
+---
+
+Categories: [Senate Motion](../../indexes/by-category/Senate_Motion.md), [386YE Spring](../../indexes/by-category/386YE_Spring.md)

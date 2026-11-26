@@ -1,0 +1,326 @@
+The following is a summary of Conclave proceedings during the Autumn Equinox 380YE.
+
+==The Imperial Titles of the Conclave==
+The full list of Imperial Titles held in the Conclave at the end of the Autumn Equinox, 380YE  can be found under [[380YE Autumn Equinox Imperial elections]].
+
+The following Imperial Titles were appointed or re-affirmed by the Conclave during the Autumn Equinox, 380YE:
+*The Shuttered Lantern retained '''Gregor of the Circle of Zulgan-Tash''' as their [[Grandmaster]].
+*The Conclave retained '''Brother Luke''' as the [[Master of Ice and Darkness]].
+*The Conclave appointed '''Abel of Reikos Reborn''' as the [[Bursar of the Conclave]].
+
+==Conclave Addresses==
+At the Summit, the following addresses were placed on the Conclave agenda:
+
+{|
+| '''Day''' || '''Speaker''' || '''Nature of Address'''
+|-
+| Fri || Abraham || Emergency sessions hold no legal weight.
+|-
+| Fri || Aquillian || The Phoenix is back
+|-
+| Fri || Shona i Ezmara || On Prospero's involvement the theft of the Imperial Crown
+|-
+| Fri || Ancel Steward || To thank the Conclave for allowing House Vexille to continue Vigilance in the Empire's name.
+|-
+| Fri || Lykophos of the Spire of the Bitter Chalice || On Public Speaking
+|-
+| Fri || Zephaniah of Felix's Watch || Jessica of Couros
+|-
+| Fri || Kyra of Halcyon Spire || On the importance of clear communication of information
+|-
+| Fri || Solomon || Summer Matters
+|-
+| Fri || Vaan || Vaan's Intelligence Review, Price 10 Rings
+|-
+| Fri || Pavel, Archmage of Night || The Lashonar Issue
+|-
+| Fri || Moud of Auric Horizon, Archmage of Day || The Symposium has been delayed until the next summit and other day matters. 
+|-
+| Sat || Aquillian || Culture, Comets and Enchantments
+|-
+| Sat || Imperial Seer, Finn Finnson || On Scrying
+|-
+| Sat || Maurice de Gauvain, Archmage of Autumn || Autumn realm
+|-
+| Sat || Barthold de Rondell || Strategic Situation regarding Magic and Mana
+|-
+| Sat || Nadya Gremani || The Patronage of the Summer College of Magic
+|-
+| Sat || Dunston Stone of Mournwald || An invitation to Estavus to discuss to Boon given to Wisemarket
+|-
+| Sat || Alcuin Shatterspire || Llothir and Gilean daughter of Gilead
+|-
+| Sat || Garth || An offer from Phaleron
+|-
+| Sat || Lucian || Rhianos and a really big whale
+|-
+| Sat || Solomon || More Summer Matters
+|-
+| Sat || Sibella of Phoenix's Reach || Finding more pieces of the Mirror of the Nations
+|-
+|}
+
+==Conclave Declarations==
+The Conclave made the following Declarations:
+
+{|
+| '''Day''' || '''Speaker''' || '''Declaration''' || '''Outcome'''
+|-
+| Fri || Ludmilla || Concord: That only those with a remit to do so from the senate negotiate on behalf of the Empire in Lashonar's caucus || PASSED
+|-
+| Fri || Ifan || Concord: The Conclave would approve of the construction of a Night Magic Alchemy Lab || PASSED
+|-
+| Fri || Gellan de Rondell || Candidacy for Bursar of the Conclave || FAILED
+|-
+| Fri || Jabin Endsmett || Candidacy for Bursar of the Conclave || FAILED
+|-
+| Fri || Abel of Reikos' Renown || Candidacy for Bursar of the Conclave || PASSED
+|-
+| Fri || Mord of Auric Horizon, Archmage of Day || Concord: That Individuals should consult the Magistrates/Constitutional Court before proposing changes to law in Conclave. || PASSED
+|-
+| Fri || Julian || Concord: That the Day Eternal of Hierarchy, known as the Host, send a representative to speak to House Carsenere about the potential return of the Rod of the Sun to Dawn. || FAILED
+|-
+| Fri || Cybi Farkas || Conclave believes that the casting of Thunderous Deluge, Rivers Run Red, Rivers of Life, Thunderous Tread of the Trees on Holberg or the casting of Hallow of the Green World on the Empire during the time between the start of the Autumn Equinox and the start of the Winter Solstice to be a great misuse of magic. || FAILED
+|-
+| Sat || Nadya Gremani || Master of Ice and Darkness (Summer College) || FAILED
+|-
+| Sat || Faustus || Concord: The Conclave agrees to a change to the role of Grandmaster to allow for a Gambit once per summit || PASSED
+|-
+| Sat || Faustus || Concord: The Conclave is above direct personal attacks and playground tactics || PASSED
+|-
+| Sat || Pavel, Archmage of Night || Neutrality for Lashonar || PASSED
+|-
+| Sat || Kyra of Halcyon Spire || Neutrality for Cathan Canae || PASSED
+|-
+| Sat || Helois of the Bitter Chalice || Endowment: To give the dose of True Liao deposited by Sadogua to Zephaniah of Felix's Watch || PASSED
+|-
+| Sat || Simargl, Dean of the Lyceum || Reconciliation: Original version of Quickening Cold Meat || PASSED
+|-
+| Sat || Brother Luke || Candidacy: Master of Ice and Darkness || PASSED
+|-
+| Sat || Maurice de Gauvain || Amity for Voivode of Chains, Grand Herald of Ephisis, Pharam Vex || FAILED
+|-
+| Sat || Anna Valeria Cascade || Concord - that it would appreciate if Kimus would grant an audience to Anna-Valeria Cascade of Urizen (who can be found within the Citadel of Phoenix's Reach) to discuss the repair of the Lightstone of the Lighthouse of Apulian, at their pleasure. || PASSED
+|-
+| Sat || Zephaniah of Felix's Watch || Concord: In consultation with New Scions of Atun and the Cardinal of Wisdom, the Conclave believes that none of the following rituals harm or threaten human souls in the context of the crime of Annihilation: Last Breath's Echo, Whispers Through the Black Gate, The Last Threshold, Transmogrification of the Soul's Echo, Freedom of the Soul, Sum of the Parts || PASSED
+|-
+| Sat || Heilyn Bronwen's Rest || Concord: That the Conclave after consultation with the Military Council chooses to build a Night-aligned sinecure on the Tilphussan Reach of Redoubt || PASSED
+|-
+|}
+
+==Conclave Gambits==
+The Conclave made the following Gambits:
+
+{|
+| '''Day''' || '''Proposer''' || '''Intended Use of Resources''' || Mana || Ilium || Am || BL || Dr || GI || IG || Or || TJ || We || ''Funded'' || CA || GP || RS || SP || SL || UM || Indep
+|-
+| Fri || Archmage of Night || Veiling territories against Grendel scying || 35 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || FUNDED. || 5 || 5 || 8 || 2 || 10 || 5 || 0
+|-
+| Fri || Mord of Auric Horizon, Archmage of Day || Scrying || 105 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || FUNDED. || 14 || 17 || 20 || 15 || 25 || 14 || 0
+|-
+| Sat || Archmage of Night || Magical Investigations || 40 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || FUNDED. || 0 || 8 || 0 || 7  || 20 || 5 || 0
+|-
+| Sat || Bursar Abel || To trade with the Faraden for Two Mithril for a purpose to be decided later. || 0 || 0 || 0 || 0 || 0 || 0 || 60 || 0 || 0 || 0 || FUNDED. || 10 || 0 || 0 || 33 || 2 || 15 || 0
+|-
+| Sat || Bartholl de Rondell, Warmage || Casting of Strategic Magic || 110 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || FUNDED. || 18 || 17 || 18 || 18 || 10 || 16 || 13
+|-
+| Sat || Maurice de Gauvain, Still Archmage of Autumn || For Faustus to use Ritual Magic to provide Cash for the Bursar. Also to refund Navarr + Rod and Shield for magics performed on the Battlefield. || 68 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || FUNDED. || 6|| 36 || 0 || 9 || 12 || 5 || 0
+|-
+| Sat || Archmage of Summer, Solomon || Crafting of permanent talisman for Throne || 0 || 10 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || FUNDED. || 0 || 2 || 0 || 6 || 2 || 0 || 0
+|-
+| Sat || Alcuin Shatterspire, Archmage of Spring || Grandmasters accessing their vaults & dealing with valuable spring reagents amongst hazardous spring waste. || 72 + box placed into the Celestial Arch vaults by Alcuin yesterday. || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || FUNDED. || 12 + box || 12 || 12 || 12 || 12 || 12 || 0
+|-
+|}
+
+==Order Strengths==
+The strengths of the six Orders at the Conclave this summit were as follows:
+
+{|
+| '''Order''' || Friday Strength || Saturday Strength || '''Total Strength'''
+|-
+| Sevenfold Path || 21 || 11 || 32
+|-
+| Rod & Shield || 15 || 4 || 19
+|-
+| Celestial Arch || 5 || 10 || 15 
+|-
+| Golden Pyramid || 15 || 13 || 28 
+|-
+| Shuttered Lantern || 26 || 19 || 45
+|-
+| Unfettered Mind || 22 || 11 || 33
+|-
+|}
+
+==Order Vaults==
+The contents of the Order Vaults at the beginning and end of Conclave this summit, and after the regular receipt of income but before the Grandmasters' purchase of mana, were as follows:
+
+===Celestial Arch===
+{|
+| '''Material''' || '''Start of Summit''' || '''End of Last Conclave Session''' || '''Before Grandmaster Purchase of Mana'''
+|-
+| Mana || 70 || 39 || 71
+|-
+| Ilium  || 1 || 1 || 2
+|-
+| Ambergelt || 0 || 0 || 0
+|-
+| Beggar's Lye || 0 || 0 || 0 
+|-
+| Dragonbone || 9 || 9 || 11
+|-
+| Green Iron || 0 || 0 || 0
+|-
+| Iridescent Gloaming || 26 || 16 || 19
+|-
+| Orichalcum || 3 || 3 || 3
+|-
+| Tempest Jade || 26 || 26 || 28
+|-
+| Weltsilver || 0 || 0 || 0
+|-
+| Extras || 0 || 0 || 0
+|-
+|}
+
+===Sevenfold Path===
+{|
+| '''Material''' || '''Start of Summit''' || '''End of Last Conclave Session''' || '''Before Grandmaster Purchase of Mana'''
+|-
+| Mana || 69 || 40 || 97 
+|-
+| Ilium  || 8 || 2 || 5
+|-
+| Ambergelt || 0 || 0 || 0 ||
+|-
+| Beggar's Lye || 17 || 17 || 19
+|-
+| Dragonbone || 11 || 11 || 14
+|-
+| Green Iron || 0 || 0 || 0
+|-
+| Iridescent Gloaming || 33 || 0 || 3
+|-
+| Orichalcum || 3 || 3 || 3
+|-
+| Tempest Jade || 0 || 0 || 0
+|-
+| Weltsilver || 0 || 0 || 0
+|-
+| Extras || 3 Hearthfire Crystals || 3 Hearthfire Crystals || 3 Hearthfire Crystals ||
+|-
+|}
+===Rod & Shield===
+{|
+| '''Material''' || '''Start of Summit''' || '''End of Last Conclave Session''' || '''Before Grandmaster Purchase of Mana'''
+|-
+| Mana || 78 || 44 || 82 
+|-
+| Ilium  || 4 || 4 || 6
+|-
+| Ambergelt || 15 || 15 || 17
+|-
+| Beggar's Lye || 0 || 0 || 0
+|-
+| Dragonbone || 1 || 1 || 1
+|-
+| Green Iron || 21 || 21 || 24
+|-
+| Iridescent Gloaming || 1 || 1 || 1
+|-
+| Orichalcum || 23 || 23 || 25
+|-
+| Tempest Jade || 4 || 4 || 6
+|-
+| Weltsilver || 0 || 0 || 0
+|-
+| Extras || 0 || 0 || 0
+|-
+|}
+
+===Golden Pyramid===
+{|
+| '''Material''' || '''Start of Summit''' || '''End of Last Conclave Session''' || '''Before Grandmaster Purchase of Mana'''
+|-
+| Mana || 77 || 20 || 71| 
+|-
+| Ilium  || 3 || 1 || 3
+|-
+| Ambergelt || 19 || 19 || 22
+|-
+| Beggar's Lye || 21 || 21 || 24
+|-
+| Dragonbone || 0 || 0 || 0
+|-
+| Green Iron || 12 || 12 || 14
+|-
+| Iridescent Gloaming || 0 || 0 || 0
+|-
+| Orichalcum || 31 || 31 || 34
+|-
+| Tempest Jade || 0 || 0 || 0
+|-
+| Weltsilver || 0 || 0 || 0
+|-
+| Extras || 0 || 0 || 0
+|-
+|}
+
+===Shuttered Lantern===
+{|
+| '''Material''' || '''Start of Summit''' || '''End of Last Conclave Session''' || '''Before Grandmaster Purchase of Mana'''
+|-
+| Mana || 87 || 22 || 98 
+|-
+| Ilium  || 3 || 1 || 4
+|-
+| Ambergelt || 0 || 0 || 0
+|-
+| Beggar's Lye || 0 || 0 || 0
+|-
+| Dragonbone || 0 || 0 || 0
+|-
+| Green Iron || 0 || 0 || 0
+|-
+| Iridescent Gloaming || 2 || 0 || 0
+|-
+| Orichalcum || 4 || 4 || 4
+|-
+| Tempest Jade || 18 || 18 || 21
+|-
+| Weltsilver || 20 || 20 || 23
+|-
+| Extras || 0 || 0 || 0
+|-
+|}
+
+===Unfettered Mind===
+{|
+| '''Material''' || '''Start of Summit''' || '''End of Last Conclave Session''' || '''Before Grandmaster Purchase of Mana'''
+|-
+| Mana || 94 || 61 || 119 
+|-
+| Ilium  || 2 || 2 || 5
+|-
+| Ambergelt || 0 || 0 || 0
+|-
+| Beggar's Lye || 3 || 3 || 3
+|-
+| Dragonbone || 0 || 0 || 0
+|-
+| Green Iron || 0 || 0 || 0
+|-
+| Iridescent Gloaming || 15 || 0 || 4
+|-
+| Orichalcum || 3 || 3 || 3
+|-
+| Tempest Jade || 33 || 33 || 36
+|-
+| Weltsilver || 17 || 17 || 19
+|-
+| Extras || 0 || 0 || 0
+|-
+|}
+[[Category: Conclave]]
+[[Category: Conclave Sessions]]
+[[Category: 380YE Autumn]]

@@ -1,0 +1,15 @@
+<ic>Assignment of conquered territory of Skarsind to an Imperial nation.<br><br>Procedural vote.</ic> 
+{{CaptionedImage|file=Skarsindregions2.png|title=A place of alpine slopes and valleys|caption=Regions of Skarsind|align=right|width=400}}
+===Overview===
+* Assigned to [[Wintermark]].
+* Passed unanimously.
+
+===Date===
+* Autumn 377YE (Event Four 2013).
+
+===Campaign Outcome===
+* The territory of [[Skarsind]] is now part of the nation of Wintermark.
+
+[[Category:Senate Motion]]
+[[Category: 377YE Autumn]]
+__NOTOC__

@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Spring]]
+__NOTOC__
+<quote by="Proposed: Zenith, Seconded: Necropolis">To construct the Nostos Docks. Self funded.</quote>
+==Overview==
+* Constructs docks in [[Morrow]] as per '''[[An_angry_blade#Dear_Perfection|An angry blade]]''' wind of fortune
+* Passed
+==Date==
+* Spring 386YE
+==Cost==
+* Costs as per opportunity
+* 18 white granite
+* 54 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Nostos_Docks}}
+==Outcome==
+* Now complete, the [[Architect of the Conscious River]] will be available to elect by Tally of the Votes of Urizen [[mana site]] owners for the first time at the Summer Solstice 386YE for a short term until the Winter Solstice 386YE.

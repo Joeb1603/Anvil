@@ -1,0 +1,11 @@
+Jaz Whiteside<br />
+
+
+[http://www.jazwhiteside.co.uk Website]<br />
+
+
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>[[Category:Photos:JazWhiteside]] [[:Category:Photos:JazWhiteside|Image by Jaz Whiteside]]
+</nowiki>''

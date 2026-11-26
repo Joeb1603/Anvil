@@ -1,0 +1,25 @@
+==Overview==
+The Dean of Runesmith's Caution is an [[Imperial title]] awarded to a citizen of [[Wintermark]]. Construction of Runesmith's Caution was [[Construct Runesmith's Caution|announced]] by '''Laughlan Vi Temeschwar''', as the [[Master of Rings]], during the Spring Equinox 388YE, and construction was completed shortly before the Summer Solstice 388YE.
+
+Runesmith's Caution was built in memory of Wayland "Runesmith's Caution", thane of the Proud Quill, who died in Summer 386YE fighting the Druj. Wayland broke the powerful geas surrounding [[Wintermark_economic_interests#Runesmith.27s_Law|Runesmith's Law]], and shared its knowledge with people from other nations.
+
+==Responsibilities==
+The Dean of Runesmith's Caution has few responsibilities. The day-to-day running of Runesmith's Caution is left to the artisans and tutors employed by the school. In the event that the school, or those studying there, were threatened, the Dean would be expected to deal with those threats.
+
+==Powers==
+===Rune Tithe===
+The Dean of Runesmith's Caution receives an income of 252 rings each season.
+
+<!--{{CaptionedImage|file=Character.jpg|caption='''CHARACTER''', Dean of Runesmith's Caution|align=left|width=250}}-->
+==Appointment==
+This title is appointed during the Summer Solstice. The Dean of Runesmith's Caution is appointed by citizens of Wintermark who control [[military unit|military units]]. The larger the military unit an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Wintermark citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Dean_of_Runesmith%27s_Caution}}
+==Funding==
+Click ''Expand'' to see the list of contributions made to construct the Runesmith's Caution.
+<div class="mw-collapsible mw-collapsed">
+{{CommissionProgress|Construct_Runesmith%27s_Caution}}
+</div>
+{{Responsibilities Expectation}}
+[[Category:Title]][[Category:Bourse]][[Category:Wintermark]]

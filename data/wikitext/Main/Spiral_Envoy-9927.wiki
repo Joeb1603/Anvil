@@ -1,0 +1,34 @@
+__NOTOC__
+==Overview==
+The Spiral Envoy was an [[Imperial title]] awarded to a citizen of [[Urizen]] originally [[384YE_Summer_Solstice_Senate_sessions#Create_Spiral_Envoy|created]] by the Imperial Senate during the Summer Solstice 384YE following a [[Pebbles_drawn_from_a_heap#The_Spiral_Envoy|request]] made by Kaliact, the Salt Lord of [[Spiral]]. The position was [[384YE_Autumn_Equinox_Senate_sessions#Amend_Spiral_Envoy|amended]] during the Autumn Equinox 384YE to change the method of appointment to [[Tally of the Votes]].
+
+The position was rendered [[Wild_blue_yonder#Grendel|inactive]] following the [[Windfall|actions]] of ''Merchant Prince Kaliact''.
+==Responsibilities==
+The Spiral Envoy was responsible for ensuring good trade relations with the [[Grendel]] in Spiral and where needed, liaising with their opposite number in Apulian. Though the Envoy had no authority to deal with the Grendel they were still expected to maintain the links with the merchants of Spiral, helping problems and opportunities.
+<!--
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">Grendel Traders</td><td style="background-color: LightBlue;">Production</td></tr>
+<tr><td>8 crowns 8 rings</td><td>6 random ingots, 6 tempest jade</td></tr>
+<tr><td>20 crowns 8 rings</td><td>12 random ingots, 12 tempest jade</td></tr>
+<tr><td>36 crowns</td><td>18 random ingots, 18 tempest jade</td></tr></table></div>
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">Spiral Imports</td><td style="background-color: LightBlue;">Production</td></tr>
+<tr><td>2 white granite</td><td>2 mithril</td></tr>
+<tr><td>4 white granite</td><td>4 mithril</td></tr>
+<tr><td>6 white granite</td><td>6 mithril</td></tr>
+<tr><td>8 white granite</td><td>8 mithril</td></tr>
+<tr><td>10 white granite</td><td>10 mithril</td></tr></table></div>-->
+==Powers==
+===Ministry===
+As a [[ministry]], the title of Spiral Envoy allowed the holder to purchase quantities of special materials at a set price. The Envoy made their decision on how much to spend during downtime from their character page. Resources were removed from, and resources were placed into, the character's inventory when the downtime was processed.
+
+Unlike a standard ministry, the Spiral Envoy dealt with two different groups of traders; the Grendel interested in securing deals for the mana and metals of Urizen, and a representative of Salt Lord Kaliact who offered [[mithril]] for [[white granite]].  As such, the Envoy had not one but ''two'' streams from which they could purchase material. The Envoy could spend differing amounts on each stream - for example, they could spend 20 crowns on random ingots and tempest jade from Grendel traders, and trade 4 wains of white granite for 4 wains of mithril from Spiral imports.
+
+==Appointment==
+This title was appointed during the Autumn Equinox. The Spiral Envoy was appointed by citizens of Urizen who control the [[mana site]] [[Resource|personal resources]]. The larger the mana site an individual had the more votes they could allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only an Urizen citizen could hold the title. They did not receive a seat on the Bourse. As a title appointed through the Bourse they could not be [[revocation|revoked]] by the [[Synod]].
+<!--{{CaptionedImage|file=Valerius8917.jpg|caption=Valerius, Spiral Envoy|align=left|width=250}}-->
+{{RecentElections|Spiral_Envoy}}
+{{Responsibilities Expectation}}
+[[Category:Urizen]]

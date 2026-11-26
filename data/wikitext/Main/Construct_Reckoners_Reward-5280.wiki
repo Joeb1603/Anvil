@@ -1,0 +1,34 @@
+<ic>To commission the sinecure Reckoners Reward to be administered by The Book Keeper.
+
+To be built in Sarvos
+Cost of 12 wains of mithril, 3 thrones<br><br><i>Proposed by Tassato, seconded by Karov.</i></ic> 
+
+===Overview===
+* A [[sinecure]] in [[Sarvos]] which provides [[Game_items#Mana_Crystals|mana crystals]].
+* The holder of the sinecure will be appointed by unanimous decision of [[the League]] [[senator|senators]].
+* Passed at 10 Thrones
+
+===Date===
+* Autumn 379YE.
+
+===Cost===
+* Materials: 12 wains of mithril
+* Labour: 3 Thrones
+
+===Progress===
+* 10 thrones disbursed to Senator Tassato
+
+===Ongoing Progress===
+====Autumn Equinox 379====
+* None
+====Autumn Equinox 380====
+* This commission has [[Commission#Lapsed_Commissions|lapsed]]
+
+===Campaign Outcome===
+* When completed, this sinecure will automatically create the League national [[Imperial title]] of [[The Book Keeper]].
+
+===Constitution===
+* No information is provided as to where in Sarvos the sinecure will be constructed. The senator may decide this.
+
+[[Category: Senate Motion]]
+[[Category:379YE Autumn]]

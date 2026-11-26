@@ -1,0 +1,27 @@
+==Overview==
+The Boyar of the Iron Roads was created when the Imperial Senate voted to [[385YE_Summer_Solstice_Senate_sessions#Construct_Offices_of_the_Iron_Roads|construct the Offices of the Iron Roads]]. during the Summer Solstice 385YE, following an [[opportunity]] presented [[Deep_forests_and_dark_hills#Boyar_of_the_Iron_Roads|that season]]. Construction was completed shortly before the Winter Solstice 385YE.
+
+==Responsibilities==
+The Boyar of the Iron Roads is responsible for maintaining the Iron Roads and increasing the Prosperity and Pride of Varushka. If the offices or the Iron Roads were to be threatened in any way, it would be the responsibility of the Boyar of the Iron Roads to deal with those threats.
+
+==Powers==
+===Commission===
+Once during each summit, the Boyar of the Iron Roads can commission the construction of a [[ministry]] that is appointed as a national position of Varushka by Tally of the Votes. This ministry does ''not'' count against the limited number of commissions the Senate can begin each season - all the work of planning and construction is undertaken by vales protected by the schlacta that defend the Iron Roads. The location and size of the commission are all part of the [[Motion_wording#Necessary_Details|necessary details]] and may be included in the announcement made by the Boyar or determined later by them.
+
+The Boyar of the Iron Roads cannot [[Commission#Altering_an_Existing_Commission|alter an existing commission]].
+
+===Announcement===
+To use their power of commission, the Boyar of the Iron Roads must make an [[Senate_announcement|announcement]] in the Imperial Senate. No voting is possible by the Senate at this point, as the power had been delegated to the bearer.
+
+The [[Synod]] may choose to exercise their [[veto]] over the bearer's announcement.
+
+==Appointment==
+This title is appointed during the Summer Solstice each year. The Boyar of the Iron Roads is appointed by citizens of Varushka who control [[mine|mines]] and [[forest|forests]] [[Resource#Personal_Resource|personal resources]]. The larger the holder an individual has, the more votes they can allocate in support of a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Varushkan citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{CaptionedImage|file=BoyaroftheIronRoads.jpg|caption=Borys Vardovich Straskovich, Boyar of the Iron Roads|align=left|width=450}}
+{{RecentElections|Boyar_of_the_Iron_Roads}}
+==Further Reading==
+* [[Deep_forests_and_dark_hills#Boyar_of_the_Iron_Roads|Deep forests and dark hills]] - 385YE Summer Wind of Fortune providing the opportunity to create the Boyar of the Iron Roads
+{{Responsibilities Expectation}}
+[[Category:Senate]][[Category:Bourse]][[Category:Varushka]][[Category:Title]]

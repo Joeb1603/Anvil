@@ -1,0 +1,121 @@
+---
+title: Brotherhood of Tian
+source: https://www.profounddecisions.co.uk/empire-wiki/Brotherhood_of_Tian
+class: mixed
+topic: magic/rituals
+categories:
+- Enchantment
+- Autumn Ritual
+- Rituals
+- Warfare
+last_edited: '2026-01-30T16:04:42Z'
+revision: 133816
+in_character_boxes: 3
+---
+
+# Brotherhood of Tian
+
+## Rules
+
+### Autumn Magnitude 120
+
+### Performing the Ritual
+
+Performing this ritual takes at least 10 minutes of roleplaying. If the ritual is cast using the [Imperial Regio](Regio.md#the-imperial-regio) it requires at least 5 minutes of roleplaying instead.
+
+This ritual targets an [Imperial army](../../../out-of-character/rules/Army.md). The [general](../../government/military/Military_Council.md) responsible for the army (or the [egregore](../../../out-of-character/crew/Egregores.md) if the general is not at Anvil) must be present throughout.
+
+This ritual is an [enchantment](../../../out-of-character/rules/Enchantment.md). A target may only be under one enchantment effect at a time.
+
+### Effects
+
+This ritual improves the logistics of the target army. It can quickly distribute resources and assign new soldiers. Bureaucratic procedures are supernaturally efficient, and quartermasters and provisioners display an uncanny ability to predict shortages, or to intuitively understand where new equipment will do the most good. When the army benefits from [natural resupply](../../../out-of-character/rules/Casualties.md#natural-resupply), it recovers an additional 250 fighting strength. [Emergency resupply](../../../out-of-character/rules/Casualties.md#emergency-resupply) is unaffected, and the army must be eligible for natural resupply.
+
+*[Image: The ritual is named for the Paragon of Ambition , Tian](https://www.profounddecisions.co.uk/empire-wiki/File:Tian_Fire.png)*
+
+While the enchantment persists, the general responsible for the army experiences a [roleplaying effect](../../../out-of-character/rules/Roleplaying_effects.md): *You want to understand the effects and implications of everything that might affect the capabilities of your army. At the same time, you feel an urge to rely on tried and trusted, traditional approaches to warfare. It's easy to be suspicious of risky or innovative strategies, and can be difficult for you to see any value in issuing orders other than those available to every general ([balanced attack](../../../out-of-character/rules/Army_orders.md#balanced-attack), [cautious attack](../../../out-of-character/rules/Army_orders.md#cautious-advance), [overwhelming assault](../../../out-of-character/rules/Army_orders.md#overwhelming-assault), [steady conquest](../../../out-of-character/rules/Army_orders.md#steady-conquest), [give ground](../../../out-of-character/rules/Army_orders.md#give-ground), [solid defence](../../../out-of-character/rules/Army_orders.md#solid-defence), and [heroic stand](../../../out-of-character/rules/Army_orders.md#heroic-stand)).*
+
+The effect lasts until the start of the next Profound Decisions Empire event.
+
+## Description
+
+This ritual was codified from an arcane projection first developed by the [Urizen](../../../in-character/nations/urizen/Urizen.md) magician Edmundo of the Concordium of Pallas. Work began under the guidance of Eudaemon of Halcyon Spire, beginning after the Winter Solstice 378YE. When the [Urizen](../../../in-character/nations/urizen/Urizen.md) magician lost the title of [Dean of the Lyceum](../../titles/Dean_of_the_Lyceum.md) to Simargl, of the Circle of Zulgan-Tash, the [Varushkan](../../../in-character/nations/varushka/Varushka.md) kindly agreed to complete codification of the ritual. When the project was begun, it was referred to as "*Thousand Swords Drawn Together*" but Simargl suggested that the name be changed to better reflect the nature of the ritual.
+
+The ritual works by enhancing the ways that an [army](../../../out-of-character/rules/Army.md) naturally [recovers](../../../out-of-character/rules/Casualties.md#natural-resupply) from the stresses and losses of conflict. Even barbarian armies have procedures in place to allow them to resupply themselves – whether healing injured warriors, drafting new soldiers in to replace casualties, or simply ensuring that all those who fight for the army have dry boots, a weapon, and at least some token armour.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The story of this ritual is the story of another man’s ambition. You all know the tale of Tian. Tian, who climbed to the top of the tallest peak and pulled down fire from the sun to keep her people warm and safe. Inspired by Tian’s story, Eudaemon of Halcyon Spire in Urizen set out to protect the people of the Empire. Although the idea for the ritual may have come from elsewhere, and although I have finished it, the bulk of the work was done by Eudaemon and the credit for it is owed to him. In many ways, I have come to see Eudaemon as the spiritual brother of Tian and so I have named this ritual Brotherhood of Tian in his honour. This is his legacy, and I ask you to accept it into Imperial lore.
+> >
+> > Simargl the Empty One, in his speech before the Conclave
+
+With an Imperial army, these procedures are much more complex. Tents and sleeping materials must be provided. Food and drink not only supplied, but transported and distributed. Is the army travelling through cold terrain, or during winter? In that case, thought needs to be given to how every soldier will protect themselves from the cold, and the fatigue that comes from trudging through snow. Is the army travelling in the arid hills of [the Brass Coast](../../../in-character/nations/the-brass-coast/The_Brass_Coast.md)? Then extra thought must be given to water supplies, and to ensuring soldiers shield themselves from the unforgiving sun.
+
+When an army is resting – on furlough – or defending a “safe” [territory](../../../out-of-character/rules/Territory.md), new problems arise. Are there sufficient supplies that every soldier can get some rest and restore their health and will to fight? If not, some of the less disciplined armies may find that their warriors are taking matters into their own hands, taking more from the local population than they wish to give. This is rarely a problem for Imperial soldiers, but resentment between the local populace and the soldiers can still grow if their commanders expect too much from the civilians.
+
+To a degree, the ritual [enchantment](../../../out-of-character/rules/Enchantment.md) takes all these considerations into account – and many more besides – but it still faces limitations.
+
+The magic requires a certain level of rest to function. The army must already be resupplying to benefit at all – which means they must be in an Imperial territory with no opposing forces present during the entire season. Natural resupply does not occur – and the ritual has no effect – if there is an enemy force attacking or defending any part of the territory.
+
+Certain armies will benefit slightly less from this enchantment than others. The [large](../../../out-of-character/rules/Army.md#enlargement) forces of the [Imperial Orcs](../../../in-character/nations/imperial-orcs/Imperial_Orcs.md), for example, receive proportionately less benefit from the enchantment than the standard armies of the other nations.
+
+By contrast, some armies will actually benefit more from the ritual due to their existing qualities. The [Eastern Sky](../../../in-character/nations/dawn/Dawn_military_concerns.md#the-eastern-sky) of [Dawn](../../../in-character/nations/dawn/Dawn.md), and the [Drakes](../../../in-character/nations/the-marches/The_Marches_military_concerns.md#the-drakes) of [the Marches](../../../in-character/nations/the-marches/The_Marches.md) are fine examples here – their [supply procedures](../../government/military/Army_qualities.md#resourceful) are so robust that the ritual will still prove useful regardless of what territory they are in, as long as they are not actively engaged by an enemy force.
+
+As with many such rituals, the [Law of Dominion](../../../out-of-character/rules/Laws_of_magic.md#the-law-of-dominion) (the [general](../../titles/General.md) responsible for the army) is used to circumvent the [Law of Presence](../../../out-of-character/rules/Laws_of_magic.md#the-law-of-presence). The ritual is performed with the general as the target, removing the need to perform it directly on all the soldiers of the army at once. It is not a requirement of the ritual, but performing the magic in the Imperial regio not only helps the magicians involved wield the magic effectively but reinforces the Law of Dominion.
+
+The [Law of Scale](../../../out-of-character/rules/Laws_of_magic.md#the-law-of-scale) is relevant here – as experimentation during the codification process indicated, the effective fighting strength restored by this ritual is the most optimal amount for the magnitude. Attempting to create a ritual to provide greater support to an army quickly moved the ritual beyond the realms of feasibility, while theoretical discussion of a less effective ritual showed that the magnitude did not dip much below a hundred and twenty.
+
+The bulk of the magic is driven towards warping serendipity and influencing the minds of the soldiers in the army without causing them to become dangerously obsessed with the distribution of resources and soldiers. Padme I Erigo, a scholar of the lores of both [Night](../../../out-of-character/rules/Night_magic.md) and [Day](../../../out-of-character/rules/Day_magic.md), made an interesting observation during the initial phase of the formulation that if the safeguards were removed from the ritual, and the element of influence enhanced, a similar effect might make an intriguing large-scale [curse](../../../out-of-character/rules/Curse.md) on an army (using the Law of Dominion to allow the general to serve as the focus, of course), damaging their ability to operate by focusing the minds of their officers on logistical concerns over practical, immediate threats.
+
+The ritual is interesting in that it draws both on the positive [Autumn](../../../out-of-character/rules/Autumn_magic.md) resonances for [bands and groups](../../../out-of-character/rules/Autumn_magic.md#bands), [communication](../../../out-of-character/rules/Autumn_magic.md#travel-and-communication), and [craftsmanship](../../../out-of-character/rules/Autumn_magic.md#craftsmanship), and on the well-known negative resonance - dissonance - where individual [creativity](../../../out-of-character/rules/Autumn_magic.md#creativity) is concerned.
+
+An army is in many ways a large “[banner](../../../out-of-character/rules/Bands.md#banners)” made up of dozens of smaller groups with interlocking allegiances and loyalties, all bound together with a single powerful affiliation for the army and its general. The magic exploits those bonds to spread its effect through the entire army but it also creates a web-like theoretical magical construct. Because the quartermaster is part of a group, and because that part of a group is connected to other groups by the over-arching construct of the army, the quartermaster can sense the needs of soldiers she has never met.
+
+The craftsmanship resonance helps to use resources more efficiently to repair and create equipment while the resonance of communication allows the various parts of the army to better speak to one another about their requirements. Combined together, the ritual is a consummate tool for achieving a desired end.
+
+Yet at the same time, the dissonance of creativity is invoked. While subtly influencing the perceptions and capabilities of the provisioner, it discourages too much improvisation or risk-taking. It focuses more on smoothing existing chains of supply rather than creating new ones, and warps serendipity to make existing conditions more favourable rather than creating too many bold new coincidences.
+
+> *In-character text:*
+>
+> **Regarding Tian**  
+>
+> [Tian](../../../in-character/religion/Tian.md) is an ancient [paragon](../../government/synod/Paragons_and_exemplars.md) of [Ambition](../../../in-character/religion/Ambition.md). Her legend has inspired believers world-wide for generations, especially pious magicians – even those who do not follow [the Way](../../../in-character/world/The_Way.md) know tales of Tian. Her epic recounts how she took fire from the sun to keep her people safe and warm, but forever burned her hands in doing so. Her stories were old when Terunael was young, and even now the legends that surround her are incomplete.
+>
+> One of a pair of twins, Tian was ambitious from birth – pulling her twin Jian back into the womb so that she could be born first. She refutes wealth and inherited privilege, insisting on striving for everything she gains. In the stories, this is a world without fire – Tian vows to do the impossibly and bring the warmth of Summer into Winter. In the story, she ascends the highest mountains in the world and takes the fire from the sun, carrying it down to her people in her bare hands which are horribly burnt in the process.
+>
+> While she is engaged in her heroic pursuit, her brother Jian usurps her position as leader of her people – and rules poorly. She takes the gift of fire to all the people, even those with whom her folk are at war. In some version of the tale, she uses the fire to burn her own brother, punishing him for his presumption in attempting to usurp her place.
+>
+> In some versions of the story, this tale is a metaphor for the mastery of Summer magic. Of course, a more well known controversy arises from the [Krydacian Blasphemy](../../../in-character/religion/Schisms_and_Heresies.md#the-krydacian-blasphemy), in which an early Imperial Orc claimed to have had a past-life vision of being Tian. No credible evidence has ever been found to support this wild, blasphemous assertion. There is some evidence that the Faraden exemplar of [Justice](../lore/Malign_spiritual_presences.md#vengeance) *Ti-ji-tan*, is based on a muddled interpretation of this tale – one that is particularly problematic because it is often used as a parable decrying Ambition in favour of familial [loyalty](../../../in-character/religion/Loyalty.md).
+>
+> Tian resonates with the power of this ritual for a number of reasons, but a subtle one is the connection between the motivation for her climb up the mountain and damaged hands. She seeks to promote the well-being of her people – their physical and practical needs. The magic of the ritual seeks to promote the physical well-being of the soldiers in the general's army in a similar way.
+
+## Common Elements
+
+As with many such [enchantments](../../../out-of-character/rules/Enchantment.md), the [general](../../titles/General.md) who is the focus of the ritual is a key element in its performance. It is common practice to include a banner or standard that will be used by the target army as an additional focus for such magic. The history or other symbols associated with the army are also appropriate elements to include.
+
+[Girding](../lore/Dawn_hearth_magic.md#girding) the general is a strong image – the act of equipping the military leader with weapons and armour symbolically reflects the equipping of the army itself. At the same time, fresh water and wholesome food can symbolise the provisioning of the army itself. Obviously, it is a good idea to rehearse the use of these symbolic acts – confused or ineffectual girding or provisioning will weaken the impact of the ritual.
+
+Including [captains](../../../out-of-character/rules/Military_unit.md) who have [fought alongside](../../../out-of-character/rules/Military_unit.md#supporting-an-army) the army in the past, or who are part of the retinue of the army may also be helpful. By the same measure, if the army is recuperating in a specific [territory](../../../out-of-character/rules/Territory.md), the willing participation of people from that territory – especially the [Senator](../../titles/Senator.md) if it is an Imperial territory – can help to mould the magical effect. This is additionally useful if the territory is not part of the nation the army belongs to.
+
+Evocation of the [paragon](../../government/synod/Paragons_and_exemplars.md) [Tian](../../../in-character/religion/Tian.md) is recommended with the ritual, passing magical power from the ritualists to the target general and from the general to the army. As a result, open flames, bright lights, and reflective surfaces reminiscent of the sun will all help to focus the power of the magic – much more so than is typical for rituals of [Autumn magic](../../../out-of-character/rules/Autumn_magic.md).
+
+The [rune of Wealth](../lore/Pallas.md) is a suitable image, as is the [rune of Trade](../lore/Lann.md). An [astronomancer](../lore/Astronomancy.md) might evoke the constellation of [the Chain](../lore/The_Chain.md), and possibly [the Chalice](../lore/The_Chalice.md) (things coming together is a powerful image for co-operation). [Dramaturgy](../lore/Dramaturgy.md) might involve an interaction between [the Captain](../lore/The_Captain.md) (military endeavour) and either [the Prince](../lore/The_Prince.md) (influence, authority) or [the Bishop](../lore/The_Bishop.md) (strengthening), especially in [the Counting House](../lore/The_Counting_House.md) (money, power, objects and possession).
+
+> **Law of Scale**  
+> This ritual represents the best Autumn army [enchantment](../../../out-of-character/rules/Enchantment.md) ritual that can be created without the involvement of an [eternal](../../../in-character/eternals/Eternal.md). Centuries of experimentation have shown that it is not possible to improve on this ritual with the magic of this realm. An [arcane projection](../../../out-of-character/rules/Arcane_projection.md) that creates a more powerful version of this effect, one that creates a lower-magnitude version that grants less enhancement to the army, or one that provides a different bonus to the army is not possible due to the [law of scale](../../../out-of-character/rules/Laws_of_magic.md#the-law-of-scale). It might be possible to create a version of the effect that had differently flavoured roleplaying effects, but the mechanical qualities would remain the same. For further notes about this see [war magic](../../../out-of-character/rules/War_magic.md)
+
+## A Note About Magnitude
+
+Initial estimations placed the magnitude of this ritual at eighty – but as time went on it became clear that this was a low estimation. The methods of actually weaving and controlling the magic were comparatively straightforward, as was incorporating the Law of Dominion to allow that magic to be focused on an Imperial army. Unfortunately, towards the end of the codification a significant stumbling block in the shape of the Law of Scale reared its ugly head. The professors of the Lyceum debated the issue of how to constrain the magic so that it could have the desired effect, rather than accepting the risk of the influences it raised running amok through the army.
+
+The issues arose from the number of variable factors that had to be addressed. For a start, the armies of different nations handle their logistical demands very differently. The circumstances faced by any given army could vary dramatically from one season to the next, and the “best practice” for the quartermasters and provisioners on whose skill the effectiveness of the magic rested needed to be accounted for by the Autumn magic – and the realm always has a few issues with creativity and improvisational elements.
+
+Initial research had suggested that Bound by Common Cause would be an excellent template for the codification of the ritual – but as season turned it became apparent this was a theoretical dead end. In the end the League magician Sierra di Temeschwar broke the blockage that was preventing the completion of the ritual, using thematic elements drawn from Rivers of Gold to bind positive energies of serendipity and synchronicity into the pattern of the completed ritual that were capable of nudging local events toward the desired outcome – supernaturally efficient resupply of a large force of troops from any nation, in any battlefield or peace-time situation.
+
+The breakthrough allowed the ritual to be codified in good order, but the raw amount of power required to complete the effect has roughly half-again as much as had been allowed for in the original arcane projection. Several noted astronomancers associated with the Lyceum have committed to uncovering precisely which conjunction of stars first empowered the arcane projection's much lower magnitude, but at the moment nothing concrete has been uncovered beyond a theory that the Wanderer may have been in inverse line with the Mountain or the Chain.
+
+---
+
+Categories: [Enchantment](../../../indexes/by-category/Enchantment.md), [Autumn Ritual](../../../indexes/by-category/Autumn_Ritual.md), [Rituals](../../../indexes/by-category/Rituals.md), [Warfare](../../../indexes/by-category/Warfare.md)

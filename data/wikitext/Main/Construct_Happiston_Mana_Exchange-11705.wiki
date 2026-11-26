@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Spring]]
+__NOTOC__
+<quote by="Announced by Vivane Knotes, Bearer of an Imperial Wayleave">As bearer of the First Imperial Wayleave, I hereby announce the commission of a 16 wain mana ministry in Happiston in the Marches. This will create a Marcher National title called "The Reeve of the Happiston Mana Exchange" to be annually elected by a Tally of the Votes. Costs to be covered in entirety by "Morgan Townsend" through the Prosperity of Happiston Bakes.</quote>
+==Overview==
+* Creates a ministry in Chalkdowns, [[Mournwold]] that allows the purchase of mana crystals 
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+==Date==
+* Spring 386YE
+==Cost==
+* Standard costs apply
+* 16 mithril
+* 48 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Happiston_Mana_Exchange}}
+==Outcome==
+* Now complete, the [[Reeve of the Happiston Mana Exchange]] will be available to elect by Tally of the Votes of Marcher [[farm]] owners for the first time at the Summer Solstice 386YE for a short term until the Winter Solstice 386YE.

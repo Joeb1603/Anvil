@@ -1,0 +1,34 @@
+<ic>Provide additional specialist siege training to army being levied, such that it enters the field fully trained in Spring.<br><br>Proposed by Necropolis, seconded by Hahnmark.</ic>
+
+===Overview===
+* Provide siege training to the new Highborn army currently being raised
+* Passed at 60 Thrones
+
+===Date===
+* Winter 377YE
+
+===Cost===
+* 50 Mithril
+
+===Progress===
+* 50 Wains of Mithril supplied by Adamah, Senator for Necropolis, after Winter Solstice 377
+
+===Campaign Outcome===
+* Once complete - the new Imperial army will gain the [[Army qualities#Siege|siege quality]].
+
+===Voting===
+{| class="wikitable senatevotes"
+|-
+! State !! Votes For !! Votes Against !! Result
+|-
+| In Principle || 19 || 5 || Passed
+|-
+| At 50 Thrones || 19 || 5 || Passed
+|-
+| At 60 Thrones || 12 + Conscience || 12 || Passed
+|-
+| At 100 Thrones || 0 || 24 || Failed
+|}
+[[Category:Senate Motion]]
+[[Category: 377YE Winter]]
+__NOTOC__

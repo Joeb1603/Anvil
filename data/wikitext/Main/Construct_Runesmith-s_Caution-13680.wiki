@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:388YE Spring]]
+__NOTOC__
+<quote by="Announced by Laughlan Vi Temeschwar, Master of Rings">I commission a money sinecure, Runesmith's Caution in Kalpaheim, Hahnmark in memory of Wayland Runesmith's Caution Thane of the Proud Quill, who died in Summer 386YE fighting the Druj. This white granite school for artisans from the Mark will teach rune lore and tell the tale of Wayland, who broke his oath and shared Runesmith's Law with people from other nations. The school will be established in his name, self-funded, by his friend The Oathwright editor, Cormack Dun Farstrider, and the people of Wintermark. This creates the Wintermark national title: Dean of Runesmith's Caution to be elected by tally of the votes.
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in Kalpamark, Hahnmark
+* Announcement by the [[Master of Rings]]
+
+==Date==
+* Spring 388YE
+
+==Cost==
+* Standard costs apply
+* 10 wains of white granite
+* 30 crowns in labour costs
+* Three months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Runesmith%27s_Caution}}
+==Outcome==
+* Now complete, the [[Dean of Runesmith's Caution]] will be appointed by [[Tally of the Votes]] of Wintermark [[military unit]] captains for the first time at the Summer Solstice 388YE

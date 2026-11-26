@@ -1,0 +1,107 @@
+---
+title: A long good-bye
+source: https://www.profounddecisions.co.uk/empire-wiki/A_long_good-bye
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 379YE Winter
+- Recent History
+event: 379YE Winter
+last_edited: '2026-01-15T12:29:04Z'
+revision: 130026
+in_character_boxes: 1
+---
+
+# A long good-bye
+
+> *In-character text:*
+>
+> Uncle Uzo drummed his fingers on the hard oak table. The faded runes tattooed on his knuckles stretched and moved. Strength to do what needs to be done. To bring an ending to those who oppose. To be cunning and cautious in the face of oppression. To have the will to choose ones own destiny. As he counted them off, the mantra in his head went some way towards calming his troubled thoughts. Some way.
+>
+> Back in Tassato Mestra. Already. He cursed under his breath. Hardfrost! That damn Talbot beater, that damn militiaman! It was like he had a supernatural sense for Uzo's agents! All efforts to establish himself in Sarvos ruined; his brick factory confiscated; his followers dead or fled. And now he was back in damn Tassato, a poor relative knocking at the door of the damn woman he had moved to Sarvos to get away from in the first place.
+>
+> Auntie Vivian di Tassato Mestra. She had not even deigned to see him yet, keeping him waiting for the second day. Hiding out in a filthy garret overlooking the river, drinking himself into oblivion each night on stolen Hercynian spirits brought down the river from Temeschwar hidden in crates of weltsilver ore. He sighed gustily. If their situations had been reversed, he would have enjoyed her situation as much as she was plainly enjoying his.
+>
+> He glared across the table at her representatives. Carlton di Tassato Mestra was young, and making a show of cleaning his fingernails with a slim stiletto. A popinjay. His older brother William was a different matter - hard and strong, like a true vyig, at ease with the harsh realities of life as an enforcer for Auntie Vivian. Where Carlton was clearly full of nervous energy, William sat stock still in his seat, his dark-skinned hands resting easily on the table in front of him. Uzo could barely make out any of his tattoos; black ink on black skin. He'd heard that if you were close enough to see the vyig marks, you were only still breathing because William (or his Auntie) thought you were worth more alive than dead.
+>
+> Uncle Uzo shook his head to clear it. That sort of thinking was fine for the sheep, for the bleating masses that bowed beneath the Imperial yoke. It was not right for an Uncle of the vyig, for a wolf-in-shepherds-garb, to give too much credulity to stories spun to keep the prey on the back foot.
+>
+> William was staring at Uzo. Appraising him. The silence stretched. The older man was damned if he was going to appear weak by breaking it. He took another sip of strong Navarri alcohol, grimaced at the sharp tang. What the hell did they use to make whiskey in the Glade of Shadows? Damn Hardfrost.
+>
+> Suddenly, young Carlton cocked his head and frowned. He stood up and moved fluidly towards the door, cracked it open. Uzo heard it then as well - the sound of someone banging on the door to the tavern below. Raised voices.
+>
+> William was already by the window, cracking it a little, peering into the street. Uzo had not seen him move. "Militia," he said quietly, his voice betraying no emotion. He might have been discussing the weather. "And ... priests?"
+> The sound of wood splintering from below, raised voices. Steel.
+>
+> Uzo lumbered to his feet. "What ... you told me this place was safe!" he hated how petulant he sounded. His head swam from the sudden movement. He'd had too much to drink, and cursed himself for it.
+>
+> "Nowhere is safe right now, 'Uncle'." said Carlton, not bothering to conceal his contempt.
+>
+> Uzo bridled, his hackles raised, whiskey fuelling the anger vying with fear in his belly. He had been smashing faces and breaking legs before this little shit had got blood on his first tunic. He deserved respect, dammit! He opened his mouth to bawl the young bravo out and then ... something went wrong.
+>
+> He slumped back in his seat, heavily. He became aware of a spreading wetness, and the first hint of pain in his back. He craned his head round. William was behind him, wiping his daggers quickly clean on Uzo's cloak.
+>
+> "This is not personal, Uzo" he said quietly as Carlton locked and barred the door. "Aunt Vivian holds no grudge against you, but you know too much and you are too old and fat to go where we are going. Better that you take our secrets to the Labyrinth with you."
+>
+> Uzo tried to stammer something but William silenced him with a finger. Behind him, Carlton had unshuttered the other window, and was already pulling himself up onto the roof of the building next door.
+>
+> "Don't say anything, Uzo." William's lip curled.
+>
+> "Any true vyig would have died in Sarvos fighting the magistrates. We will say that that is what happened, give you a little of the dignity you seem to have spent the last ten years running from. You do not need to thank me."
+>
+> As the agony from his ruined kidneys banished any rational thought, as the room began to grow dark, Uzo slumped forward over the table.
+>
+> The last thing he saw was William's boots disappearing from sight as he followed his brother onto the roofs of Tassato; the last thing he heard the pounding fist and the raised voice demanding that he open the door; and the last thing he thought before he ceased to be Uncle Uzo entirely was "That ... damn ... Hardfrost ..."
+
+### Overview
+
+Following on from the [events in Sarvos](A_big_sleep.md), the Empire has taken up arms against the [vyig](../nations/varushka/Vyig.md) infestation of [the League](../nations/the-league/The_League.md) cities of [Holberg](../nations/the-league/Holberg.md), [Mestra](../nations/the-league/Tassato.md#tassato-mestra), [Regario](../nations/the-league/Tassato.md#tassato-regario), and of course [Temeschwar](../nations/the-league/Temeschwar.md). Three priests of the assembly of [vigilance](../religion/Vigilance.md) have led the way, working both to inspire citizens to act against the criminals in their midst, and to co-ordinate the efforts of [bishops](../religion/Bishop.md), [bravos](../nations/the-league/Bravo.md), and [guilds](../nations/the-league/Guild.md) with the [militia](../../mixed/government/senate/Officers_of_the_Law.md#the-imperial-militia) and the [magistrates](../../mixed/government/senate/Officers_of_the_Law.md#magistrates). Preaching the virtue of ridding the Empire of the vyig blight, they work tirelessly to promote the militia and encourage League citizens to sweep their city and the surrounding area clean of criminals. Municipal buildings and public spaces are [consecrated](../../out-of-character/rules/Religious_skills.md#consecration) with auras of vigilance, serving as gathering places for those dedicated to rooting out the vyig. Supporters of the cause are [anointed](../../out-of-character/rules/Religious_skills.md#anointing) with mantles that sharpen their eyes and bolster their will to track down and eliminate all traces of the criminal threat. For a time, the fear the vyig evoke is countered by the will to expose and denounce the wicked.
+
+While citizens of the League take the forefront in operations against the criminals, they are not alone. In [Holberg](../nations/the-league/Holberg.md), Vladimir von Temeschwar receives the unexpected assistance of a number of [thief-takers](../nations/imperial-orcs/Imperial_Orcs_economic_interests.md#thief-takers) from the [Imperial orc](../nations/imperial-orcs/Imperial_Orcs.md) camp in [Estcastle](../nations/dawn/Semmerholm.md#estmure), as well as several dozen [questing knights](../nations/dawn/Questing_knight.md) and [knights-errant](../nations/dawn/Knight-errant.md). The city is quickly searched - the cowardly vyig mostly deserted Holberg during the [Druj](../barbarians/Druj.md) siege - but there are several armed engagements in the ruins of [Holmauer](../nations/the-league/Holberg.md#holmauer) where it seems the vyig were attempting to construct criminal dens among the rubble.
+
+In [Tassato](../nations/the-league/Tassato.md), beneath [stars that are twisted and unfamiliar](../../mixed/magic/rituals/Drawing_the_Penumbral_Veil.md), Valimir von Temeschwar is able to forge a tenuous - and temporary - truce between rival Princes on either side of the river. During the drab autumn months habitual opponents offer grudging assistance to each other, ensuring that the vyig thugs are given nowhere to hide. Wily [Navarr](../nations/navarr/Navarr.md) [thorns](../nations/navarr/Navarr_military_concerns.md#thorns) and dour [Highborn](../nations/highguard/Highguard.md) priests help to unearth and end a sinister trade in stolen goods - valuables stolen in Mestra fenced in Regario and vice versa. The efforts of the priests of vigilance receive strong and unexpected support from the followers of the *Charitable Chain of Andromeo*, a [congregation](../../out-of-character/rules/Congregation.md) which values [loyalty](../religion/Loyalty.md) above all other virtues. A proud fellowship offering succour and protection to the victims of the vyig, their knowledge of the depths to which the criminal conspiracy will stoop proves invaluable in locating and destroying some of the worst dens of vice on both sides of the village - although sadly their leader (the ex-mountebank Callista di Tassato Regario) and several of her closest allies pay for their courage with their lives. Still, thanks to the bravery and vigilance of citizens such as these, the vyig are no longer a force in the twin-city by the time the first dreary snow of winter falls on the roofs of the twin city.
+
+Things are not quite so straightforward in [Temeschwar](../nations/the-league/Temeschwar.md) - unsurprisingly, perhaps. Irada von Temeschwar takes the lead here. A powerful aura of vigilance is laid on the statue of Ratibor von Temeschwar, the boyar who first rousted the vyig from his city in the years before the foundation of the Empire. Angy priests from the Assembly of Ambition are roused by Regina Alcee Caeli Salvatici von Temeschwar to join with [Varushkan](../nations/varushka/Varushka.md) [Schlacta](../nations/varushka/Varushka_military_concerns.md#schlacta) and [volhov](../../mixed/magic/lore/Varushka_magical_traditions.md#volhov) to scour the city for those with vyig tattoos and their associates. This is not the era of the boyars; those suspected of crimes are arrested, interrogated, and dealt with fairly under the rule of law.
+
+In Temeschwar, the vyig fight back with sword and fire - the grim leaders of the conspiracy would rather die that submit to the legal authority of the magistrates. For a week in late autumn there are open battles between law-abiding citizens and secretive criminals both inside the city bounds and in the forests nearby. The vyig are suspiciously well armed - caches of weapons and armour purchased or stolen from all over the Empire are uncovered along with evidence of plans for armed insurrection. The investigation of the vyig here escalates quickly, but the militia receive unexpected support from the *Vardstein Voyi*, a [gang of bravos](../../out-of-character/rules/Military_unit.md) who claim a proud heritage - descended from the schlacta who took part in the first Night of a Thousand Torches at the behest of Ratibor and active opponents of the vyig ever since.
+
+This wide-ranging conflict with the vyig is not without its costs. The disruption caused by searching out the hidden places where the criminals gather is widespread and unavoidable. Citizens are arrested in large numbers, or held for questioning about their suspicious behaviour. Significant numbers of secret liaisons, sharp business practices, and criminal enterprises only peripherally associated with the vyig are exposed to the light of day. In a few cases, business establishments are physically damaged in fights between militia and criminal enforcers.
+
+### Significance
+
+There is little doubt that the vyig are dealt a blow from which they will not soon recover. Their operations in Tassato and Holberg are brought to a conclusive end - with the raids in Sarvos over the Summer months, the vyig infection is effectively cut out from the southern Empire. In the north, the vyig are a little more tenacious ... but their operations in Temeschwar are smashed, the ring-leaders scattered, and more importantly the spectre of fear they inspire broken by the vigilance and strong hearts of those who oppose them.
+
+The disruption wrought by these three long months of direct conflict, while significant in the short-term, are already fading and it looks like it will be business as usual after the Winter Solstice.
+
+### Spoils of War
+
+As in Sarvos last season, the magistrates have confiscated assets belonging to the vyig. Some of those assets are significant enough that they are to be auctioned during the Winter Solstice. They include:
+
+- **Auntie Bimber's Palinka** A Temeschwari [den of iniquity](../../out-of-character/rules/Business.md) in [Hanuri](../nations/the-league/Temeschwar.md#hanuri) with a reputation as a neutral meeting ground for rival vyig factions. The tavern was shut down in a massive militia raid, and its proprietors and clientèle now face the full weight of the law, but the premises, stock, and distillation equipment are largely untouched. (Auntie Bimber's Palink is a rank 2 business).
+- **Bartelli's Bolt** A [weltsilver Mine](../../out-of-character/rules/Materials.md#weltsilver) in the foothills of [Mellfort Peak](../nations/the-league/Temeschwar.md#locul). Long considered almost played out, investigations uncovered that the place was being used to store stolen goods including art treasures from all over the Empire. The owner, Bartelli von Temeschwar, was using "conscripts" (effectively slaves) to work the weltsilver veins and smuggle goods stolen from Wintermark and Varushka south for sale to overseas clients and unscrupulous art collectors. With his arrest the mine has been seized by the militia until a suitable new owner can be found to turn its fruit to more a more Virtuous end. (Bartelli's Bolt is a rank 4 weltsilver mine).
+- **Pressing Matters, The Prince's Prints**. Regario is well known for its skilful printers but not all of its skilful printers are that well known. Whilst for some of them this is a consequence of their mediocrity, for a very few businesses this lack of notoriety is carefully crafted. Located in the heart of the eastern city and hidden behind a basic fabric shop facade, this moderately prosperous [business](../../out-of-character/rules/Business.md) was used as the base of operations for a gang of confidence tricksters preying on the credulous and the greedy. There is also some evidence that printmaster was attempting to find a way to counterfeit Bourse certificates - without any noticeable success. (Pressing Matters is a rank 3 business).
+- The **Carta de Fimi Nacoso**. Known to a select few as the Guild of the River's Secrets this extended family of [merrow](../../mixed/magic/lore/Merrow.md) [reckoners](../nations/the-league/The_League_culture_and_customs.md#reckoners) specialised in ferrying citizens across the wide river. Initially an honest [business](../../out-of-character/rules/Business.md) the recent investigations uncovered evidence that the head of the Guild, Carlotta de Mestra had been blackmailed by the vyig "Auntie Vivian". Largely without the complicity of its members the Guild of the River's Secrets had been moving stolen goods across the river for the vyig. With Carlotta gone the Fimi Nacoso are looking for a more honest soul to help them return to their original, law abiding roots. (Carta de Fimi Nacoso is a rank 2 business).
+- **The Tunnel Snakes** War is a time of much tragedy but it is also a time of opportunity for those able to seize it. Over the last decade the vyig operated this Holberg [logistics and supplies company](../../out-of-character/rules/Business.md) as a front for a network of contacts, supply chains and smugglers involved in siphoning resources, weapons and other goods from the walls of Holberg to the heart of Temeschwar. The supply and distribution network, as well we premises in all four League cities, have been auctioned in the hope that a law abiding citizen can put them to more prosperous use - importing luxury goods from the rest of the League city to the newly liberated Holberg. (The Tunnel Snakes are a rank 3 business)
+
+These [resources](../../out-of-character/rules/Resource.md#personal-resource) will be auctioned on Saturday evening during the public auction. Any Imperial citizen may participate, of course, but they are obviously of more interest and use to citizens of the League. A citizen who wins one of these resources will be able to take control immediately, but there will be some paperwork to complete - and the usual charge of two crowns to change resource will apply. (**OOC:** It is part of the game design that a character cannot have more than one personal resource. This means that if you win a resource, you must exchange it for your current personal resource, or it will instead go to the next highest bidder. It may also mean that your character changes their territory of residence for purposes of elections).
+
+### Disruption
+
+As all three priests [named](../synod-judgements/379YE_Autumn_Equinox_Synod_judgements.md#synod-judgments) by the [Synod](../../mixed/government/synod/Synod.md) chose to employ the full hundred liao mentioned in that [opportunity](../../out-of-character/game-design/Opportunity.md), the vyig have been routed - but the resultant disruption significantly affected commerce in the four cities. As a consequence, citizens operating in Temeschwar, Holberg, and the two Tassatos have found the income from their [business](../../out-of-character/rules/Business.md) interests reduced by a quarter. Now that the vyig are dealt with, however, things should presumably return to normal.
+
+### Further Investigation
+
+The vyig are no longer a significant threat, and their presence in Tassato and Holberg as it an end. In Temeschwar, their operations have been smashed but there are still a few lose ends to tie up. Many of the Uncles and Aunts died rather than be arrested by the militia, but there are still a few unaccounted for. The leader of the vyig, **Bollek**, is believed to be dead but there are still some questions around precisely what happened to him. With these factors in mind, **Magistrate Gerude von Temeschwar** intends to visit Anvil to meet with Vladimir von Temeschwar, Valimir von Temeschwar, and Irada von Temeschwar to make a final report on the outcome of the operation to end the vyig threat to the Empire once and for all.
+
+## Participation
+
+Any character is welcome to roleplay that they have been involved in this fight against the vyig; the operation has by no means been restricted to League citizens. Likewise, any citizen of Holberg, Tassato, or Temeschwar - especially those with businesses - can come up with a story about how the war against the organised crime syndicate has affected them. While the main thrust of the investigation has focused on the vyig, any criminal activities in the three cities is likely to have been impacted by the campaign - any character with criminal connections in the League is welcome to e-mail plot@profounddecisions.co.uk and we will happily arrange for you to begin play as prisoners of the militia facing trial for your crimes.
+
+## Resolution
+
+In the confusion caused by the dreadful weather during the Anvil summit, the planned auction of vyig assets did not go ahead. It has been rescheduled for Spring 380YE.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [379YE Winter](../../indexes/by-category/379YE_Winter.md), [Recent History](../../indexes/by-category/Recent_History.md)

@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:386YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Sarvos, Seconded: Spiral">To commission the construction of the Open Fan Cicisbeo Academy. A self funded money sinecure costing 10 white granite & 3 thrones 6 crowns in labour. It will provide income and create a title of "Headmistress of the Open Fan Academy" as appointed by senators of the League. This title has tenure and will be built in Cigno, Sarvos.</quote>
+==Overview==
+* Constructs a [[sinecure]] in Cigno, [[Sarvos]].
+* Passed
+
+==Date==
+* Autumn 386YE
+
+==Cost==
+* Standard costs apply
+* 10 white granite
+* 30 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Open_Fan_Cicisbeo_Academy}}
+==Outcome==
+Now complete, the position of [[Headmistress of the Open Fan Academy]] will be available to appoint by unanimous vote of the senators of [[the League]] for the first time at the Winter Solstice 386YE

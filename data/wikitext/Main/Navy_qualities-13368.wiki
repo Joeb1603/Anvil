@@ -1,0 +1,41 @@
+==Overview==
+Most [[navy|navies]] possess a single unique quality that gives them advantages in certain situations. These qualities represent the unique strength of each navy, reflecting the flavour of the navy and the nation to which it belongs. The most common qualities are described below. 
+
+A navy that is newly raised might not have a quality. Some are reliant on further funding, the construction of an [[edifice]], or negotiations with a patron of some kind. In such cases, the navy can only give the standard [[Navy orders]].
+
+At present, the Empire can only raise navies with the potential to have large hulls; which allows them to transport increased numbers of soldiers, or with specially rigged sails for speed. The [[Construct_Zemress_Naval_Academy|School of Brass and Blood]] in [[Madruga]] undertook the research into how other nations have built and equipped their ships following a vote of Freeborn fleet owners at the Autumn Equinox 384YE. The Empire remains lacking the centuries of knowledge enjoyed by the shipwrights of the [[Grendel]], the [[Asavean Archipelago|Asaveans]], and the [[Sarcophan Delves]].
+
+==Large Hulls==
+* '''Can use the ''transport them all'' order'''
+* '''Can use the ''get everyone home'' order'''
+A navy with large hulls is able to transport many more soldiers than a regular armada. This is not simply a quality of the size of the vessels - transporting an army involves moving a vast amount of food, weapons and armour all of which must be carefully ballasted to ensure that the vessels remain seaworthy and do not risk capsizing. A navy carrying two armies is restricted in battle, because the ballast and rigging make it far less manoeuvrable.
+
+<box>'''<big>Transport Them All</big>'''
+* '''Can transport up to two armies in a single season.'''
+* '''Casualties inflicted by this navy are decreased by a tenth.'''
+* '''Otherwise identical to the Shore Offensive order'''
+An admiral who instructs their ships to ''transport them all'' can carry two armies for the season. All the ships in the navy will be heavily laden making them less manoeuvrable when attacking other ships, meaning they inflict a tenth fewer casualties than normal. This order is otherwise identical to the [[Navy_orders#Shore_Offensive|shore offensive]] order.</box>
+
+<box>'''<big>Get Everyone Home</big>'''
+* '''Can transport up to two armies in a single season.'''
+* '''Otherwise identical to the Defend the Coast order.'''
+An admiral who instructs their ships to ''get everyone home'' is able to carry two armies for the season. The navy will set sail for a friendly port so that the armies onboard can be unloaded safely and quickly when they reach their destination. This order is otherwise identical to the [[Navy_orders#Defend_the_Coast|defend the coast]] order.</box>
+
+==Swift Sails==
+* '''Can use the ''ride the winds'' order'''
+* '''Can use the ''run for home'' order'''
+A navy with swift sails is built for speed, allowing it to put on sail to make extra speed at the cost of risking damage to shipping. It builds on techniques witnessed by the Grendel warships, some of which are designed to achieve speed at all costs.
+
+<box><big>'''Ride the Winds'''</big>
+* '''Can move up to five territories. It must still stop moving when intercepted by an opposing navy.'''
+* '''Casualties suffered by this navy are increased by a fifth'''
+* '''Otherwise identical to the Naval Engagement order'''
+An admiral who orders the navy to ride the winds can move swiftly - but is at risk of damage to masts and vessels as they push the ships to make best speed. The navy will sail as quickly as they can towards the destination and deploy for naval engagement once they arrive.</box>
+
+<box><big>'''Run for Home'''</big>
+* '''Can move up to five territories. It must still stop moving when intercepted by an opposing navy.'''
+* '''Otherwise identical to the Put to Port order'''
+An admiral who orders the navy to run for home gives instructions for all vessels to race back to port. The navy will turn to head back to port, putting on as much sail as possible to reach safety.
+</box>
+
+{{Military Council Further Reading}}

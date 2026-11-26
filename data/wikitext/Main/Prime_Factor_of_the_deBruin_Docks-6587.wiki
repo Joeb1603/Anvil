@@ -1,0 +1,39 @@
+==Overview==
+Constructed [[Construct_Jarmish_Docks#Campaign_Outcome|by order]] of the [[Senate]], work was completed on this set of dedicated docks shortly before the Spring Equinox 381YE. When they were first established, they were known as the ''Pallas Docks'', and represented a [[ministry]] allowing the purchase of [[weirwood]] from the [[Principalities of Jarm]] - specifically from the Magician-Prince of Pӓrnau Principality. As relations with the Jarmish declined, however, the shipments of weirwood became more expensive. Following the [[384YE_Summer_Solstice_Senate_sessions#Amend_Liberty_Pact|amendment]] to the [[Liberty Pact]] and the [[Tariffs#Embargo|embargo]] placed on Jarm during the Summer Solstice 384YE all trade ceased.
+
+The Gjullet family of Sarcophan were very interested in the docks, but ultimately the deal fell through. Shortly after, however, a wealthy family from the [[Sarcophan Delves]] - the deBruin - [[Hyenas_and_herbs#Cargo_for_Cargo|negotiated the contract]] to supply weirwood to the Empire using the docks, provided they [[Redesign Pallas Docks|were refurbished]]. The Docks reopened shortly before the Spring Equinox 387YE.
+
+==Responsibilities==
+The Prime Factor of the deBruin Docks is expected to ensure that the deBruin family of the Sarcophan Delves continues to trade weirwood to the Empire. If the [[#deBruin Docks|deBruin Docks]] were ever directly threatened, the Prime Factor would be responsible for dealing with those threats - but also for making decisions about any [[opportunity]] related to the docks. The continued operation of the docks, and thus the ministry, requires that relations between the Empire and the Sarcophan remain cordial - the Prime-factor has a vested interest in ensuring friendship between the two nations continues.
+
+==Powers==
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible"><tr><td style="background-color: LightBlue;">'''Weirwood'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>160 Crowns</td><td>5 wains of weirwood</td></tr>
+<tr><td>305 Crowns</td><td>10 wains of weirwood</td></tr>
+<tr><td>435 Crowns</td><td>15 wains of weirwood</td></tr>
+</table></div>
+===Ministry===
+As a [[ministry]], the title of Prime Factor of the deBruin Docks allows the holder to purchase quantities of weirwood at a set price. The Prime Factor spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+==Appointment==
+This title is auctioned during the Winter Solstice alongside the Imperial Bourse's [[Bourse#Weirwood_Seats|weirwood seats]]. 
+
+Any Imperial citizen can participate in the auction and hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+<div style="float:right; width: 500px; clear: left;"><box>'''The deBruin'''<br>''Bastien deBruin'' is not a Bedelaar Huisbaas; his cousin sits in the [[Founders_of_the_Delves#The_Bear|seat of the Bear]] during the Beggar's Feast. He does however head up a wealthy and well-respected mercenary company. Recently, his company came into possession of a sizable source of [[weirwood]]. In the past, the ''Gjullit'' family proposed repurposing the docks in Cargo. Never one to throw things away, the ''deBruin'' presented a similar proposal.
+
+The civil service believe that Bastien deBruin made this offer as a way to improve his political position in the Delves, and within the house of the Bear. There's no suggestion Bedelaar Huisbaas Annike thinks this is a problem the Empire needs to worry about. There is also some suggestion that securing a working relationship with the deBruin family, and by extension the House of the Bear, might provide other opportunities. There is a reason the deBruin are not worried about transporting valuable weirwood through the contested Bay of Catazar – the Bear are well known for their martial prowess. Having the deBruin family with a vested interest in Cargo and by extension the Bay of Catazar could open up other opportunities if the Ambassador can think of a way to broach the subject.</box></div>
+{{anchor|Pallas Docks}}
+==deBruin Docks==
+These private docks are built in [[Redoubt#Cargo|Cargo]], not far from the [[Redoubt#The_Embassies_of_Cargo|Jarmish and Sarcophan embassies]]. They were built with the aid of the [[Asavean Archipelago|Asavean]] architect [[Those_who_worship#Almodin_Okt.C3.ADstis.2C_Priest_of_the_Builder|Almodin Oktístis]] who was approached to design 'in keeping with [[Urizen|Urizeni]] style' by [[Senator]] [[Kallavesa]]. The original design included a number of statues and decorations referencing the false gods of the Asavean religion. Following the Spring Equinox 383YE, the docks were somewhat damaged by a mob of angry citizens riled up by the Imperial Synod. The statues and mosaics were torn out, smashed, and the remains repurposed as ballast for ships visiting Cargo. Fortunately, this coincided with a Senate plan to redesign the works of Almodin Oktístis. These events are covered in more detail [[383YE_Summer_Solstice_winds_of_fortune#Wrecking_Ball|here]].
+
+Then in late 386YE, the docks were [[Redesign Pallas Docks|redesigned and refurbished]] again, as part of the agreement with the deBruin family. They still take the form of a number of long piers and jetties that extend the available space at the cargo docks, along with a series of dedicated cranes for lifting the wares to the town proper. Notable features include a series of lights mounted on towers at the ends of the piers to guide ships in made to look like miniature Urizeni Spires; and a gorgeous fresco in the main warehouse depicting Urizen mages in their spires watching the arrival of the first Highborn ships. On the shore at the base of the quays stands a sturdy three metre stone statue of a bear, standing on its hind legs.
+
+Almost directly above the docks, in the town proper, is a small enclave for use by the visiting deBruin merchants. It consists of two residential buildings, one of which includes a small office, and two large warehouses for storing the weirwood prior to its transfer to the civil service (who issue the Factor with bourse paperwork as normal). Originally designed for the use of Jarmish princes, the Sarcophan merchant-mercenaries have gutted the place and redecorated it more in keeping with the style of the Delves.
+
+The docks are for the exclusive use of merchants and traders dispatched by the deBruin family, who bring regular shipments of weirwood for sale to the Prime factor. Bastien deBruin and his family, cousins of the current holder of the [[Founders_of_the_Delves#The_Bear|Seat of the Bear]] at the Beggar's Feast, are known for their martial prowess. They deal with the protection of their ships in-house, and if anything seem to relish the opportunity to repel pirates, taking their loot and vessels from them and throwing any pirate who doesn't immediately surrender into the sea in the process. As such they are unconcerned with the Asavean bounty placed on ships trading with the Empire.
+{{RecentElections|Prime_Factor_of_the_deBruin_Docks}}
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Bourse]]
+{{Sarcophan Links}}

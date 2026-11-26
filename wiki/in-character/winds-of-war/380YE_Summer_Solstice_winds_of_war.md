@@ -1,0 +1,324 @@
+---
+title: 380YE Summer Solstice winds of war
+source: https://www.profounddecisions.co.uk/empire-wiki/380YE_Summer_Solstice_winds_of_war
+class: in-character
+topic: winds-of-war
+categories:
+- Recent History
+- 380YE Summer
+- Military Council
+- Winds of War
+event: 380YE Summer
+last_edited: '2026-09-05T14:52:54Z'
+revision: 144751
+---
+
+# 380YE Summer Solstice winds of war
+
+*[Image: WarFace.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:WarFace.jpg)*
+
+## Overview
+
+As Spring turns to Summer, the Empire is engaged in brutal warfare on multiple fronts. In the west, Jotun and Imperial forces clash in Kahraman, Liathaven, Kallavesa, and of course the Mourn. In the east, the war for the Barrens rages while the Empire struggles to drive the Grendel out of Spiral. In the south, humans and orcs clash in an attempt to secure the liberation of Sarvos. And these are only the most prominent theatres of war. With a new Empress on the Throne, there will be little time for celebration as the machinery of conflict continues to grind humans and orcs alike into food for the crows.
+
+## The Conquest of the Barrens
+
+The Golden Sun keep their banners flying over Dawnguard, and the Golden Axe fight beside them. The Towerjacks are gone, and in their place marches the reborn Gryphon's Pride at last. Five thousand Dawnish soldiers in polished armour, marching under snapping pennants bearing the image of gryphons, a grand profusion of leonine-aquiline beasts rampant, couchant, raring for the chance to lay to rest the tattered spectre of the past. To finally, with the full sanction of the Empire, bring the Barrens under Imperial domination. The glorious core of the army is supported by several cadres of questing knights, each with a wealth of practical experience of the Barrens and its savage inhabitants, and by grim-faced knights-errant ready to risk all for the chance to catch the eye of a noble house.
+
+Supported by the garrison of the Towers of Dawn, the Imperial host launches a series of crushing strikes against the orc outposts around Drycastle. The Golden Sun fight defensively, ensuring the heaviest-armoured and best-shielded troops take the van, slowly grinding their way across the territory toward victory. The ironbound Golden Axe keep pace with them, demonstrating the adaptability and pragmatism that make them rightly feared. Between them, the Gryphon's Pride methodically ensure that not one inch of Dawnish land remains in the hands of barbarian orcs.
+
+The free orcs of the Barrens stand firm, at first. Scouts bring scattered reports of magical defences - potent nexi of Spring and Night magic scattered across the wild places of the Barrens, roused to support the savages. From dripping fen and forest fastness, the orcs fight with savage vigour, inspired by the defensive enchantments.
+
+This is not the only sorcery at work in the Barrens. For another season, the red waters flow in rivers, streams, marshes, and in the shallow bitter sea. Wounds fester. The arts of the physick, the apothecary, and the witch are tested; it is a challenge to keep the injured alive even with the many resources at their disposal. When the rain falls, it tastes of copper and despair. Yet the blight harms the orcs more than it does the humans: the Imperial generals have planned their strategy carefully. Their advance is slow, but it minimises casualties in the face of the baleful sorcery at work in the Barrens.
+
+The orcs are overmatched. Despite the potence of their magical defences, they are slowly pushed back. The gains they made in Dawnguard over the last year are lost, the households fallen under their yoke liberated, and the remaining nobles and yeomen free to join the battle. By the Summer Solstice, Dawnguard is free, again, of orc influence.
+
+Overmatched... but not overrun. The Imperial armies continue to push, but their slow advance leaves little opportunity to gain new territory. They begin to slowly force the orcs out of the Carmine Fields, but the barbarians do not yield easily. Those who battle under the banner of the Black Wind seem particularly hard to unseat, especially once the battle presses beyond the borders of Dawnguard. It is as if a new passion ignites in them when they fight to defend the Carmine Fields. As a consequence, the Empire makes only slight inroads - perhaps a handful of villages captured, their population fleeing before the steel-and-mithril of Dawn and the iron-and-fire of Varushka.
+
+By season's end, the warhost of the Empire has recaptured Dawnguard, and established several well-supported outposts along the northern borders of the Carmine Fields.
+
+It seems the conquest of the Barrens has finally begun.
+
+### Game Information: The Barrens
+
+The Dawnish are now uncontested in their control of Dawnguard. The Empire has made minimal gains in the Carmine Fields, which remain firmly under Barrens orc control.
+
+## The Defiance of Sarvos
+
+The fog that has shrouded the Bay of Catazar for the last year or so fades... and almost immediately is replaced with a *new* fog. Those who saw this eerie mist arrive during the Spring Equinox whisper that it did not rise from the sea at all, but rather seemed to drift down from the sky like a cloak of falling clouds. Thick as Marcher broth, it swirls and surges through the streets of Sarvos, and spreads its pale fingers across Uccelini and Bocche and southern Riposi. It spreads like spilled milk along the swollen Gancio to Foracci and settles across the roofs of Rodez and Trivento and Orphan's Haven as gently as it falls on the jewelled towers of the City.
+
+Within the peculiar haze, sound carries strangely - sometimes muffled, sometimes amplified. It brings strange dreams. Visibility becomes... muddled. It is difficult to tell the difference between orc and human at distances of more than a handful of yards. It is easy to get lost, even for people who have lived in Sarvos their entire lives. How much easier it is, though, for those who do *not* know the city?
+
+At the same time, news comes from Anvil that the Mayor of Caricomare and the League Assembly have urged the people of Sarvos to rise up against the Grendel. The word travels fast, and it catches the spirits of the League citizens like sparks in dry kindling. It is not clear who strikes first - the fog makes it impossible to be sure. Did the Grendel send their thuggish enforcers to break up a meeting of angry citizens? Did a gang of furious bravos jump an orc patrol after one attempted intimidation too many? It hardly matters. The flame of rebellion ignites across the city, sweeping through the streets like wildfire from shore to shore, from the docks to the towers, from the poorest alleys to the wide avenues around the Diora University.
+
+The Grendel have the advantage of overwhelming numbers... yet the conflict is by no means one-sided. The locals have the advantage of knowing the city, and knowing that they are battling not only for their homes and their wealth but for their Pride. The fighting is savage, vicious, utterly without honour or glory or mercy. In some parts of the city, blood flows in streams into the gutters. The bravos of the League employ all the arts learnt in hard fighting in alleyways and cramped, smoky rooms. The Grendel rely on their discipline and the violence that burns in the heat of every orc. In the narrow streets, the humans have the advantage. In the plazas and squares, and in the wider streets, the advantage is unequivocally with the Grendel. The orcs also have the advantage that it is not *their* city - they do not care how much damage they do to Sarvos.
+
+Who throws the first torch is another mystery that will likely never be solved, but by sunrise the day after the rebellion begins, several Grendel ships are aflame... but so are parts of the city. Given the choice between fighting the invaders and saving their city from fire, the citizens of Sarvos make the pragmatic choice to save the city.
+
+After two days of fighting, the Hounds of Glory and the Wolves of War arrive. A heavy pall of smoke mixes with the chaotic mists, tainting everything with the acrid scent of burning wood. As the army prepared to cross the water to the city, scouts bring back only reports that contradict one another and make little sense - the magical mist makes it difficult to get a good idea of the situation on the island of Cigno itself.
+
+The Wolves of War enter the city first, cautious and careful. Through the entire march from Reikos, their sleep has been tormented by hideous nightmares of what they may find - burnt ruins, friends and families butchered or carried away to a life of slavery in the Grendel salt mines, a city sunk into the Bay, a city besieged by behemoth horrors from the ocean depths or even a city simply gone - their waking hours beset with doubts. The grim curse of Agramant works its hateful magic against them, but they are defiant. They are here to liberate the greatest city on the Bay, to fight alongside their brothers and sisters against the barbarians who dared to come and steal the jewels of Sarvos.
+
+The Hounds of Glory waste little time with scouts. Starting at the northernmost point of the city, the Dawnish knights and witches sweep through the streets heading for the docks. Their advance is slowed by the mist, but it is inexorable, triumphant. While the magical fog muffles other sounds, it seems to offer no resistance to the blaring horns of the nobles of Dawn. The horns call the people of the Empire to the hunt, to the war, drawing the defenders to their banners.
+
+The sleek warships of the Freeborn Storm are slowed by the strange fog but not by much. The brazen captains are eager to engage the Grendel navy and many know these waters well. With one eye on the coast and the advancing armies they seek out their ancient enemy - time for payback for the attack on the Madruga shipyards, and for a much older defeat. They expect to face overwhelming odds, a navy perhaps twice their size, even with their own flotilla bolstered by scores of independent corsair vessels, but even so there are no engagements.
+
+The advance of the three forces is oddly almost entirely bloodless. No resistance is offered.
+
+Indeed, no orcs are even encountered until the Imperial forces converge in Caricomare, on the waterfront. There at last signs of invasion. A dozen, unfamiliar, low-lying ships are anchored at the quay. Arrayed along the docks are a little over a thousand troops - orcs with heavy tapered shields and heavy greensteel chain. Orders are given, standards raised... the orcs prepare to receive the charge... no quarter is offered or given... the horns are raised to lips eager to at last set loose the dogs of war...
+
+At the last moment, desperate messengers manage to get the attention of the captains. Orders are barked. Confusion reigns.
+
+These are not the orcs the armies were expecting to face.
+
+They are a battalion of orc soldiers from the Iron Confederacy, a mercenary band known as the Black Swords Janissaries, just disembarked from blocky Suranni vessels. Tense negotiations begin; the Imperial commanders meeting with the human captains of the Black Swords. It quickly transpires that these foreign mercenaries were secured by the military council to help with the liberation of Sarvos, to "fight alongside General Tancred de Rondell with the Hounds of Glory" at the behest of Lukash Biessek von Temeschwar, Ambassador to the Iron Confederacy.
+
+A major diplomatic incident has been avoided. Thanks to the discordant fog, the Empire could easily have attacked a force of soldiers here to help.
+
+Avoided? Well... perhaps only delayed. It slowly becomes apparent that by Imperial definition these thousand soldiers of the Iron Confederacy are not free. They are property - slaves - raised from birth to unquestioningly obey the orders of the humans that own them. There are tricky legal implications here. The Suranni officers appear to be a little disgruntled - they are very aware of the Empire's laws on slavery and claim that they were hired to fight the Grendel in territory *outside the Empire*. But the Grendel are nowhere to be found and now there are a thousand slave soldiers in the heart of the Empire...
+
+Once it is clear there are no Grendel, the Black Sword Janissaries return to their ships and depart, before a magistrate can be found to make a clear ruling on the legality of their presence. Perhaps for the best - there are warriors on both sides who would have relished the opportunity to test the mettle of their opponents, and people who have personal reasons to wish to shed orc blood regardless of whether it belong to barbarian or foreigner.
+
+There is a great deal of work to be done in Sarvos, and the presence of foreign mercenaries would simply have complicated the situation.
+
+The uprising has left hundreds dead on both sides, and while the destruction has not been widespread the city has been permanently marked by the revolt. Fires raged through the streets during the fighting; it is only down to the Courage of the citizens of Sarvos fighting the fires that the city itself was not lost. If the Grendel had continued to fight, if they had attacked the bucket-chains and firefighters, then it is likely that key parts of the city would have been consumed in the inferno - especially given the chaos and confusion caused by the magical fog. Instead, the Grendel used the confusion to withdraw to the docks in an orderly fashion and it was the better part of a day before anyone realised they had fled.
+
+The only signs of the Grendel that remain are a handful of warships burned down to the waterline, and the bodies of those slain in the uprising, many still floating in the bay. Along with their ill-gotten gains, they have fled the city en-mass shortly after the rioting began. The story is the same in Uccelini - the Grendel have left, disappearing into the fog that cloaks the shores of the Bay of Catazar beyond the borders of Sarvos. All that the Empire can be certain of is that their ships have not sailed south-west towards Madruga - even with the magical fog, they would not have been able to sneak past the Freeborn Storm.
+
+### Game Information: Sarvos
+
+The Grendel have stripped Sarvos of a large portion of its wealth. Practically nothing has been recovered. The two armies quickly sweep the city, and the surrounding territory restoring Imperial law and order. Sarvos is now unequivocally Imperial again.
+
+The uprising took the Grendel off guard and has inflicted an unknown number of casualties on the armies and navies that had attacked Sarvos. Unfortunately, it has also led to some loss of Imperial life and damage to the city such that everyone will need to do some rebuilding (a term reduction of the taxation provided by the territory, and to the personal resources of the residents).
+
+Any citizen of Sarvos is encouraged to create their own story of what they did during the two days of confused fighting in the city ahead of the Grendel withdrawal. A number of Grendel were killed, and several ships burnt. A small amount of stolen artwork and wealth was recovered, but not enough to restore the collections of the University or the Cathedral, or the personal connections of the prominent citizens.
+
+Finally, there is no sign of any construction in Cigno - in the city proper. While an area of land was cleared with the apparent intention of building a fortification, no actual work has taken place on such a structure.
+
+## The Maledictions of Spiral
+
+In Spiral, the Empire drives onward toward Ossuary. The Citadel Guard and Northern Eagle set the pace, smashing into the Grendel defenders with overwhelming force. The Dawnish forces of the Eastern Sky are more careful, with the Green Shield bring up the rear offering heroic support to the two armies on the front line.
+
+In the south, the sky is rent asunder by thunderclouds as great waves and torrential rain pound the shores and cliffs... but do little to displace the magical fog that shrouds the northern Bay of Catazar. While most of the magical weather is focused along the coast, a tumultuous tempest engulfs the region of Screed in the middle of the season - a roaring maelstrom of thunder, rain, and crimson lightning striking repeatedly down in the vicinity of the Black Plateau. Some scholars of the Plateau believe that dark locale is responding somehow to the violence in Spiral, and that these strange storms over Screed are a manifestation of its rage. It is as well for the Empire that Imperial troops are avoiding that malignant place - for now, at least, the Grendel are welcome to it.
+
+The magic of the Urizen takes a further toll on the orcs. The curse of the Ghosts of Winter has been unleashed to scour the territory, bringing misfortune and tormenting orc and human with equal glee. Things go awry; both sides find their supply lines are confused, and both Grendel plunder and Imperial rebuilding are equally complicated. The spirits unleashed by this magic are rarely visible, but this season in Spiral they are spotted in greater numbers than ever before. Emaciated, almost skeletal shapes with twisted features whose lower bodies trail off into smoke or fog or shadow. At night, their eyes burn with an effulgent crimson glow as they greedily fly hither and yon seeking out more opportunities to cause suffering. Superstitious residents of Spiral claim it is the restless hatred of the Black Plateau that empowers them, but astronomancers frown at their words, and look up to a certain place in the night sky, and wonder...
+
+In addition to storms and ghosts, scouts report that potent Night magic has catastrophically transformed the coastline of Apulus into a stinking, poisonous, sucking mire of treacherous quicksand and shifting sands. For the time being at least any Grendel naval forces are effectively neutralised - assuming any were present. The fog makes it hard to guess precisely what effect this new development may have had on the outcome of the campaign - assuming any Grendel ships were even present.
+
+The power that transforms Apulus is short-lived - as Summer approaches the effects are fading and it is unlikely that the magic can be repeated without the assistance of another potent conjunction. In one regard, however, it will leave a permanent mark on Spiral: the port of Apulus is again reduced to ruins. Between the shifting ground and the thunderous waves, reports say that the entire town has effectively sunk beneath the waves along with the foundations of the Grendel fortifications under construction there. It has also certainly claimed the lives of a large number of orc civilians and human captives - including any of the Urizen children taken as hostages by the Grendel who were being held there.
+
+The Grendel themselves are on the defensive, and if they are dismayed by their lack of naval support they barely show it. Even with the appearance of an icy citadel conjured from the realm of the Queen of Ice and Darkness, the Empire must fight for every foot of territory it claims. The Grendel cannot resist the Imperial advance entirely, but with additional support from the south they are able to keep hold of the Ossuary - if only just. There are garbled suggestions that a fresh force of orc soldiers has entered Spiral from the south-east, from Grendel lands.
+
+It is perhaps no surprise that magic plays such a large part in the campaign in Urizen - and for the moment at least the majority of the magic is woven by the Empire. Yet for all that, magic can be a capricious tool - and the Black Plateau stands as a stark reminder that there are more things in the world, and in the heavens above it, than are dreamt of in the philosophies of humans, or of orcs.
+
+### Game Information: Spiral
+
+The Empire has made some gains in Ossuary, but no regions have changed hands. The territory remains in the hands of the Grendel - albeit only just - and they still hold the Legacy.
+
+There has been a *lot* of magic in Spiral as well, even leaving aside the various enchantments on human and orc armies. The curse [Winter's Ghosts](../../mixed/magic/rituals/Winter-s_Ghosts.md) is one of them - anyone in Spiral over the last three months will almost certainly have encountered some of the effects which include crops failing, animals sickening and dying; humans and orcs alike suffering malaise and nightmares (especially in this case nightmares with themes of hate and fear); unseasonable weather that makes the unseasonable weather already created by the storm curse even *worse*; food and buildings and indeed everything in between being ravaged by rot, rust, and mould. Misfortune, weakness, hunger, and dread run rampant. Tempers fray, and everything goes wrong at once. You may wish to include this in your individual stories of what you have done since the Spring Equinox if you are in Spiral.
+
+Apulian is gone entirely now. Already damaged by the explosive destruction of the Lighthouse during the initial Grendel attack; then damaged *again* during the Imperial blockade-and-storm combination; finally sunk into the sea by a combination of floods, marshes, and pounding storms. This mostly affects the Grendel, obviously, but may be relevant if the Empire ever retakes Apulus. At the very least we are considering whether to give the region the *ruined* quality.
+
+While Apulus currently does not have the *coastal* quality, it will have regained it by the start of the Summer Solstice. The magic used to turn the entire shoreline of that region into a treacherous quagmire is unlikely to work again without another complex conjunction.
+
+## The Crucible of Kahraman
+
+Kahraman... the cinnabar hills shake to the thunder of war. A little over twenty-five thousand Imperial forces form a bulwark against nearly forty thousand Jotun intent on conquering Serra Briante. The Tusks form the heart of the Imperial defence, supported by two armies of Highborn. The Seventh Wave and the Imperial Orcs of the Winter Sun both try to use the terrain to their advantage - the one with a series of ruthlessly planned and executed ambushes, the other with a relentless hit-and-run campaign of stinging attacks against the flanks and rear of the Jotun forces. In the thick of the fighting, though, it is often the Winterfolk who face the strongest warriors of the Jotun head-to-head, making them pay for every Freeborn hill they take. The Fist of the Mountain lives up to its name, bloodying the Jotun but spilling its own blood in return. And while the rest of the Empire forms a defensive line, the Red Wind Corsairs go on the offensive. The bold corsairs strike out, attacking Jotun baggage trains to steal the back the wealth that the Jotun have so recently taken from the Freeborn.
+
+During the lulls in the fighting, the Jotun and the Wintermark engage in a strange ceremony of honour: wherever possible, each side allows the other to reclaim the bodies of the dead. On the battlefield there is only blood, but in the beats between there is room for something else. So far, at least, none of the other Imperial forces have taken advantage of this détente to murder the choosers of the slain. The orcs and humans are not the only ones moving among the slain, however, and the détente between them makes the presence of the heralds of Kaela even more obvious as they go about their grim business offering the dying of both sides an escape of a sort.
+
+Not that there are as many dead as perhaps there might be. The waters of Kahraman surge with life - it pulses in the stream and riverbeds, filled to bursting by the snowmelt from the northern mountains. The magic throbs like an invisible heart, and follows the tributaries of the Scorrero in particular, spreading an unexpected fertility to the rest of the Brass Coast. The power saves a great many, orc and human alike, who might otherwise have breathed their last... or taken the cold hand of one of Kaela's agents.
+
+Yet even with this potent magic, four thousand orcs and humans will never fight again. After each battle, the Jotun raise great hills over their dead, and over the dead of the Empire whose bodies are not recovered.
+
+It is a campaign of castles, as much as armies. The Jotun armies are supported by a great squat tower of smooth glacial ice and rough black iron that has risen over the ruins of Freeborn Damata. The knights of Cathan Canae who garrison it appear as eight-foot-tall orcs, garbed in fur and with scarred and tattooed skin. Each wields a mighty barbed spear of polished bone against Imperial troops with precisely the same fervour that last season they - or their cousins - wielded those same spears against the Jotun. The Lady of the Frosts is even-handed with her gifts.
+
+For their part, the Imperial forces are based from Fort Braydon, and out of a castle of black ice that broods in the hills overlooking the Great Mine of Briante. Summoned from the realm of the Queen of Ice and Darkness by the Varushkans of the Coven of the Indomitable Sun, garrisoned by three barn-sized one-eyed giants who hurl chunks of ice and stone at the Jotun if they venture too close. And venture close they do, as they seek to conquer Serra Briante with the same furious speed which brought them victory in Serra Damata.
+
+The greater campaign, of Empire against Jotun, is reflected in many different ways - but nowhere more obviously than in the rivalry between the doughty Marchers who fight beneath the banner of the Tusks, and that of the savage raiders who carry the wolf-skull standard of the Howling Night. Where the Tusks present a disciplined defence, the Howling Night ulvenwar constantly probe and seek to outflank the Imperial defences. In the end, the two armies more-or-less cancel each other out... yet it is easy to imagine what might have happened if one or the other had not been present. But for the constant manoeuvring of the wolfskin-wearing Jotun, the Marchers might have dug in and offered a serious counter to the barbarian forces. if not for the stout defence of the soldiers of the Marches, the barbarian raiders could easily have skirted and perhaps even overrun the Imperial defensive positions.
+
+In the end though the Empire cannot hold back the flood of the Jotun. Their vanguard overwhelms the defensive lines, triumphantly pushing the Imperial forces back. They lay siege to the frozen citadel at Serra Briante, answering the hurled boulders of the ice giants with catapults and trebuchets. For all the heroic defence of the Imperial armies, the grim truth is that without the need to break the enchanted fortress, it would not have been enough to prevent them from claiming the Great Mine of Briante as they have the Damatian Cliffs. In the end, it provides just enough additional support to the Empire to prevent the Jotun from claiming the eastern Serra.
+
+In the end, though, it is only just enough. The Jotun stand on the very threshold of victory in Serra Briante; there are even stories that a certain ghostly figure whom the Marchers call Jonah Gold has been heard warning the remaining miners to lay down their picks and flee for their lives.
+
+Serra Briante balances on a knife edge - an errant gust of wind might be enough to cause it to fall to the orcs.
+
+### Game Information: Kahraman
+
+The Empire is pushed back. Building on their gains last season the Jotun almost - but not quite - conquer Serra Briante and the Great Mine of Briante along with it. For now it remains in Imperial hands. As there are five regions in Kahraman, the Jotun would need to conquer three of them to take the territory and as the Summer Solstice begins they control only one region.
+
+## The Heralds of Mourning
+
+In the Mournwold, the Empire seeks to build on the gains they made before the Winter Solstice, before the Jotun drew their line in the soil and said "no further." Their numbers are almost half what they were in the previous season - twenty-three thousand Imperial soldiers face the Jotun across the barren hills and fields of the Mourn.
+
+The Bounders and the orcs of the Summer Storm hunger for the blood of the invaders. They push themselves to the attack, relentlessly striking at the strength of the orcs, ruthlessly seeking to add as many as they can to the butcher's bill. The fury of the Marchers finds a match in the wrath of the Imperial Orcs. Together they cut a swathe through the ranks of the Jotun. By contrast, the Drakes, the Quiet Step, and the Towerjacks take a more balanced approach - fighting to drive the Jotun back rather than focusing on spilling their blood. The Towerjacks in particular seem to relish the chance to fight alongside the warriors who came to the defence of Holberg, and help to liberate the city from the stranglehold of the Druj.
+
+The Empire attacks... and encounters the hammer-blow of the Jotun coming in the other direction. The barbarians are also on the offensive this season. The warriors who fight beneath the banner of the mandowla - numbers greatly depleted by their heroic stand - triumphantly lead the way in an all-out attack against the defenders of the Empire.
+
+Yet their strategy is not that of the single mighty hammer blow - it is like a half dozen hammers striking all along the borders of the lands the Empire has freed. They drive the Empire out of Freemoor first, village by village. They meet the Imperial charge, and turn it back. Their numbers are bolstered not only by the glorious captains of the Jotun - the forces that owe allegiance to no single army but fight where their ancestors and their hunger for glory takes them - but by stranger forces.
+
+At first, it seems as if an army of Dawn has taken the field against the Empire. It soon becomes apparent that these are no Dawnish nobles, but a cohort of Knights of the Crimson Fields. Champions of Eleonaris. Two thousand tall, proud knights, all clad in raiment of burning crimson. They bear stag-horns upon their brows, and bring with them a thousand goblinborn yeomen, each bearing a shield with a rampant lion device. As they come, they call out the glory of the Jotun, and mock the treacherous, cowardly nature of the Empire.
+
+Freemoor falls to the Jotun.
+
+The fighting in the Ore Hills has been bad enough, but now the full focus of the campaign falls in the region newly-taken by the Empire, as thundering blow after thundering blow beats against the Imperial advance. The Towerjacks are able to hold the new fortification the Empire has raised - built on the partially completed frame of the Jotun castle - only long enough to secure the retreat and to get the last of the builders to safety, before the newly completed structure falls to the orcs. One more season, and the fortification could have been garrisoned and served to bolster the Imperial claim to the Mournwold but now... the banners of the Shield of the Mountain already fly over the keep which the Jotun are tauntingly calling "The Tribute".
+
+The Summer Storm and the Bounders rally the retreating Imperial forces, and launch a counterattack. The Shield of the Mountain come to meet them. A day of carnage ensues, the Battle of Ore Hills will be remembered by Imperial and orc alike for a century and more to come. At the height of the battle, when the sun is at its highest point, some fury overtakes the Imperial Orcs, some rapture roars through their blood. As one they come together, drawn together from across the battlefield, and as one they fall on the Jotun - all tiredness and exhaustion gone. Their faces burn with rage. Many shout unfamiliar battle-cries.
+
+The Jotun are taken aback, falter in their advance... for a moment, falter... and then with a passionate intensity that matches that of the Imperial Orcs, they come to face them. The battered humans are ignored for a few terrible moments as the Summer Storm seems hell-bent on engaging the entire Jotun force by themselves - until a beat later the Bounders sound their own advance and enter the fray alongside the scions of Thrace.
+
+Chaos. Horns, drums. The shrieks of the dying.
+
+Then news from the south. While part of the Quiet Step has been fighting in Freemoor, the rest struck stealthily into Southmoor to attack supply trains. It is from these Navarr that the warning comes. The Tower of the North marches on Orchard Watch with catapults and siege towers. With them five thousand newcomers, red and black clad warriors bearing the orange anvil-and-mountain banner of the Corazón. Freshly arrived through the forests of Liathaven, the former Lasambrians - now the newest clan of the Jotun - marches into the Greensward toward Overton. Without support, the Greensward will surely fall and Overton and the Singing Caves be lost to the barbarians.
+
+Orders are given, the retreat is sounded. It seems at first that the Summer Storm and the Bounders will not quit the field, but after a tense moment they begin to withdraw. The Jotun follow close behind.
+
+It is not a rout but a withdrawal. A forced march south to Greensward, to intercept the besieging forces. The orcs already lay siege to Orchard's Watch when the Empire arrives. In different circumstances they might catch the Tower of the North and the Corazón between their hammer and the anvil of the castle... but not with the host of Jotun on their heels.
+
+Another terrible battle ensues in the shadow of Orchard's Watch. The Jotun send a fraction of their force toward the Singing Caves, forcing the Empire to respond. The garrison of Overton holds the town against the barbarians, but the walls are pounded for six hours straight by orc siege engines before the Empire is able to overrun their positions and push them back... but not all the way back.
+
+More blood, more bodies, more land lost to the Jotun - and this time the Jotun camp on land they have not owned in four hundred years.
+
+As the Summer Solstice draws near, the Jotun have retaken all the territory the Empire had liberated, and conquered half of the Greensward for good measure. Orchard's Watch still stands, and the Singing Caves have been held. The fighting there was fierce, but my some miracle the mithril miners and wagon-drivers who carry the bounty of the Caves to Tassato were forewarned of the Jotun attack. They say that Jonah Gold walked the mine, and cried a warning. Warned is armed, the Marchers sometimes say; but a warning alone is rarely enough. The miners and wagon-drivers shed blood to keep the mine from the Jotun and without the intervention of the Drakes and the Towerjacks they would have been swiftly overrun.
+
+There is a rhythm in such things, and a time between beats. Jotun and Empire alike need to regroup. Eight thousand soldiers have fallen in the Mournwold this season alone.
+
+The orcs set about the business of laying their dead beneath the funerary mounds their heathen ghodi prepare. And as is the nature of their heathen practices, they lay the dead Imperials alongside their own dead - perhaps as slaughtered foes to serve the heroes in the land across the abyss, perhaps to honour those who fought with bravery.
+
+For the first time, the watchers on the walls of Orchard's Watch report, they lay Imperial Orcs alongside the fallen of the Marches and the League.
+
+Perhaps it means something.
+
+#### Game Information
+
+The Empire has lost Ore Hills, along with all the territory they had claimed in Freemoor, and nearly half of the Greensward. Orchard's Watch still stands, but has been damaged. The Singing Caves were attacked, but remain in Imperial hands.
+
+The fortification at Ore Hills, which would have been completed by the Empire by the start of the Summer Solstice, is now controlled by the Jotun. Assuming they install a garrison, it means they have gained another level one fortification in the Mournwold to go with the one they already controlled in Southmoor.
+
+Every Imperial Orc who was fought with the Summer Storm army, and any Imperial Orc PC who would have fought alongside them, has experienced a powerful moment of contact with a potent orc ancestor. Sjöfn of the Bittenblade is an ancient Jotun whose voice for a short time overwhelms that of all other ancestors. While she is a Jotun, she appears unconcerned by the nature of the Imperial Orcs; her voice drives them to fight heroically, gloriously, and revel in the clash of steel on the battlefield. Any Imperial Orc who wishes to can continue to hear this ancestor although the "volume" of her voice will have diminished significantly by the end of the Summer Solstice. Any PC who wishes to do so will find that she encourages them to take actions that are in line with the [five things](../barbarians/Jotun.md#5-things-to-know-about-the-jotun) of the Jotun.
+
+## The Blood of Liathaven
+
+The Jotun and the Imperial armies clash in Kahraman, locked in bloody battle over control of Serra Briante. The orcs barely note the Navarr moving along the border, through the sparse woodlands and low hills of Serra Damata, and into the mountains of the north-west. They travel quickly, in small groups. Sometimes they use the trods, sometimes they don't, but they always move with speed and stealth and purpose. There are the soldiers that form the core of the army, but they are joined by warbands from Liathaven, Therunin, Miaren, Brocéliande and Hercynia. Some are experienced thorns, some are enthusiastic warriors just past their citizenship tests. There are stoic warriors who have fought the barbarians and the Doom of Terunael all their lives, and there are people who until recently oversaw herb gardens or forest reservations, who have left behind the life of the tender and taken up the bow and the spear.
+
+There are a few clashes between Jotun orc and Navarr, but not many. The scions of Terunael do not seek to engage the Jotun and when they set their minds to moving swiftly, and with focus, the Jotun cannot gainsay them. They have more pressing matters in Serra Briante, after all.
+
+The Navarr, the warriors of the Black Thorns and their allied captains, give Damata and the Cliffs a wide berth. Had they had pressed closer, the Jotun would have treated them as a threat, would have drawn them into their campaign to conquer Kahraman. But they have other places to be.
+
+Not everyone who travels the hidden paths with the Black Thorns is Navarr. Beside them walk a company of dark-clad Highborn; two bands of pale Ushkans far from their home in Miekarova; a fellowship of quiet warrior-mystics from the marshes of Wintermark. They match the Navarr for cunning, and caution. And some of those allies are pale, and grim, and do not fear the death of the body for their souls belong to a world very far from the dark forests of Liathaven. The Clarion Call of Ivory and Dust has been sounded, and the servants of Kaela march alongside many of the Navarr warbands.
+
+Well-paid Freeborn scouts, hard-bitten and scarred and foul-mouthed, lead them through a certain pass in the mountain. They do not follow them down into the forest, preferring to take their chances in Kahraman with their well-earnt wages. One by one the disparate bands reunite in Beacon Point.
+
+A month after the end of the Spring Equinox, some seven thousand Navarr raise the standard of the Black Thorns in Liathaven and begin to take back their home.
+
+Many of them have left friends or family in the corpse-glades of Liathaven. They are angry... but they all know that they will have a hard fight ahead of them. They are prepared to fight the legions of the Jotun; to strike from the shadows beneath the trees and to run from any pitched battle. Prepared to give their lives to save as many of their people as they can.
+
+There is no parley, no prisoners, no mercy. Not on either side. Jotun injured are executed quickly. Navarr who fall and cannot be rescued are killed without question by the orcs. There is no time for pity. There is no way to be sure just how many warriors the Jotun have left in these woods.
+
+Two things become clear as the guerrilla campaign continues.
+
+The armies of the Jotun are not in Liathaven, not in southern Liathaven at least. There is some resistance, especially along the south-eastern borders. Outposts and watchers left behind by the armies moving from the west into the cinnabar hills. The Black Thorns hit fast and pull back to the cover of the woods. The Jotun are well trained, but they are reticent to pursue the "human Druj" into the forests; they know the Navarr will show them no quarter. There are not even any supply trains to harry - most likely the Jotun in the cinnabar hills are being supported by the orcs of Lasambria. The Navarr have taught them the dangers of running their baggage trains through the woods.
+
+Second, despite this lack of organised occupation, liberating Beacon Point and establishing a beachhead here will be a difficult task for a single army, even with the support of nearly three thousand Thorns and their allies. But they are Navarr, and they are cunning. They know that this is gamble, that everything depends on what the Jotun do next. If the Jotun conquer Kahraman, the Black Thorns risk being trapped in Liathaven - easy prey for the vast Jotun host. There are enough orc warriors in the cinnabar hills alone to strike down every Navarr soldier twice over, should they turn their attention toward the forest.
+
+Worse, there is the vallorn. Oh, there is little sign that that slumbering behemoth is any more active than it has been for a century or more... but it cuts Liathaven in half like a festering wound. It is not enough to free Beacon Point and Western Scout; to liberate Liathaven will require the Jotun hold be broken on some or all of the northern regions and that may prove *extremely* tricky for a single army, even one driven by the passion to retake their homeland.
+
+Yet there is hope, also. By the end of the second month, the survivors of Liathaven begin to make themselves known. The Thorns of the Blackscar are the first to arrive, bringing with them scores of former citizens of Liathaven who they have enlisted into their service. Small groups of daring messengers are sent to Western Scout, and north to the edges of the vallorn, in search of other resistance groups.
+
+There may be no armies, but there are still orcs to fight. People still die. Yet, now the standard has been raised, the last remnants of the people of Liathaven are coming to fight beneath it. They will not go gently into the night. They will rage; rage against the Jotun; rage like the fires that consumed their homes; rage until there is a final reckoning and Liathaven is free again.
+
+### Game Information: Liathaven
+
+The Black Thorns has made significant headway toward freeing Beacon Point and establishing a beach head in southern Liathaven. If nothing changes, they will have claimed the region by the end of next season and liberated Western Scout by the end of the year.
+
+Additionally, the remaining resistance fighters and survivors of the Jotun purge are flocking to the Black Thorns' banner. This represents an opportunity... which will be explored in more detail in Winds of Fortune.
+
+## Five Colours
+
+There are grand theatres of war, where campaigns rest on a knife edge - [The Barrens](#the-conquest-of-the-barrens), [Kahraman](#the-crucible-of-kahraman), [Liathaven](#the-blood-of-liathaven), [Mournwold](#the-heralds-of-mourning), [Sarvos](#the-defiance-of-sarvos), and [Spiral](#the-maledictions-of-spiral), for example. There are also other theatres, places where the war is cooler... or where things that are not quite war are taking place.
+
+### Green (Reikos)
+
+Three days after the Spring Equinox, Reikos is invaded.
+
+Not by orcs this time, but by something much more esoteric. A great wellspring of Spring magic pours through the Sign of Tamar. It spreads quickly through Tamarbode, through Broken Tide and Grey Charge. As it spreads, it gathers speed and strength. Wherever it passes, existing Spring regio echo the initial wellspring, and add their own power to the magic. It washes over Longshire and Riverwatch, eddying around the walls of Tabernacle and thence to Haros Water and the ruins of Haros. Finally, it swirls across the ruined walls of High Chalcis, and the Chalcis Mount.
+
+With the magic comes a wave of life and transfiguration. At the forefront, mushrooms, fungus, moulds in a rainbow of colours, creeping and consuming everything broken, everything damaged, everything poisoned. Where they have passed, plants grow with supernatural speed, rejuvenating Reikos at the same time as they tear apart the ruins left by war and Druj occupation.
+
+The waves of magic are accompanied by a legion of the Children of Llofir. They range in size from little ambulatory toadstools no larger than rabbits, through human-sized pallid heralds, to a handful of immense mushroom-shrouded mammoth-sized monstrosities that move with slow inevitability across the land. Few of them can speak; those that can are unfailingly polite, quiet, patient... and offer no harm to the Highborn, even in defence of their own lives. Instead, where they encounter resistance, they simply wait, patiently, for the defenders to tire. They congregate in ever increasing numbers, sending clouds of spores before them, infesting everything.
+
+Where Llofir's army passes the ruins of Highguard are unmade. Those who had hoped to rebuild their chapters, or recover some tattered reminder of the time before the Druj, must fight for every remnant they wish to preserve. The heralds of Ruin see no difference between a Druj-tainted den and a liberated Highborn village that might be restored. As far as they are concerned, it is all damaged, all sick; it has to go. Luckily for those Highborn who wish to preserve their heritage, several captains had planned to spend this season in Reikos gathering the honoured dead and investigating rumours of dark cults. They quickly adapt to a new challenge - protecting the heritage of the Highborn from gentle unmaking by the servants of the Rot Lord.
+
+Yet there seems to be little malice in this magic. Where the servants of Llofir have been allowed to do their work, they leave a land untouched by violence and the hatred of the Druj. Fresh water, fertile soil, healthy growth. Trees sprout with supernatural speed.
+
+Where four centuries of Highborn industry had left open land... little by little the Great Forest that once covered Reikos is being restored. Little by little, any sign that there were ever humans, or orcs, or war in Reikos are being removed. Little by little, the hope that Reikos may be left as something other than a shattered ruin grows...
+
+#### Game Information : Reikos
+
+The territory of Reikos remains in Imperial hands, but the region of Tamarbode has effectively been conquered by the forces of the eternal Llofir. While the Imperial armies had made some headway into claiming the region over Winter, there is nobody to resist the forces of the Rot Lord when they rise from the Sign of Tamar. It is not so clear what has become of the scattered orcs left behind in Tamarbode...
+
+As to the rest... expect to see more information about the situation in Reikos in Winds of Fortune.
+
+### Blue (Kallavesa)
+
+The great army of the Jotun does not withdraw. It continues to advance along the coast, slowly spreading out across the Westmarsh, forging routes toward Skymark. The orcs come cautiously - they do not seem to relish fighting in the marshes. yet they are here to conquer, not to raid. Where they encounter Winterfolk, they offer the Choice. Take up arms as Jotun; lay down their weapons and become Thralls; or fight and die a heroic death.
+
+They come to conquer - but not to despoil. Unlike in Liathaven, they keep their fire tamed. The orc ghodi determine which pools and lakes hold the heroic dead - and the Jotun endeavour to avoid these places. Yet for all their respect they do not cease in their slow advance. Barbarian scouts are sighted in Wittal Grove, and along the road north of Fisk. They ask those they capture about Rundhal and the great road that links it to the Marches.
+
+There is scattered fighting, but the halls of Kallavesa are in no position to offer more than a token resistance. All that stands between them and the conquest of Westmarsh is the magic of Wintermark and the Marchers. The Sussivari Frost Coven and the landskeepers of the Circle of the Endless Dark weave the subtle power of Night to raise the marshes themselves against the Jotun. Mists swallow the Rundahl Marshes, and both Kallavesa Marsh and the West Marsh, offering sanctuary to those who flee before the Jotun army - and a base of operations for those who resist. At the same time, the power of the Sherard Hunters wakes the Wittal Grove - the trees themselves resist and entrap the Jotun scouts who venture that far, while protecting and aiding the hunters and warriors who seek to oppose them.
+
+Over all hangs a pall of sickness - the fens and pools of Kallavesa become breeding grounds for mosquitoes and for disease as the rivers run red. Any serious wound suffered festers, and many orcs die who might otherwise have recovered. The curse is indiscriminate of course - the Winterfolk suffer its ill effects as harshly as the Jotun do.
+
+#### Game Information : Kallavesa
+
+These potent enchantments, coupled with the caution of the Jotun, means that they make no headway their conquest of the Westmarsh. Yet by the same token, the scattered defenders and the hungry waters of Kallavesa have inflicted only minimal casualties on the orc forces and would have been even lower without the effect of [Rivers Run Red](../../mixed/magic/rituals/Rivers_Run_Red.md).
+
+### Black (Karsk and Weirwater)
+
+On the last night of the Spring Equinox, the dead rise in Karsk. Several thousand casualties of the recent war with the Thule, both human and orc, drag themselves out of their graves and begin to march south.
+
+Death has not been kind to them. Many are little more than skeletons - but the magic that animates them fills them with unnatural vitality. Initially at least they seem disinterested in attacking anywhere in particular - they appear to be congregating around the troubled vale of the Dark Heart. There is a hurried exchange of messages between the Thule and the Varushkans, but before any response can be arranged, the shambling cadavers abruptly start to move.
+
+An army of wolves, an army of the walking dead, an army of rotting flesh ridden by flesh-hungry Winter spirits moves south-west through Karsk toward Kosti near the shores of the Semmerlak. The inhabitants of the town slam their heavy gates, and take up defensive positions on the wall fearing the worst... and the unliving host walks straight past them. Without hesitation, they walk into the Semmerlak. Thousands of animate corpses simply walk into the lake and disappear beneath its surface without a trace...
+
+...only to emerge several weeks later several miles north of Culwich in Weirwater. Panicked yeofolk flee south to the safety of the town but again the moribund legion simply ignores them and continues to march south-west. As the Summer Solstice dawns, the army is believed to be moving through Garthmoor toward Applefell. At the current rate they will pass the town during the Solstice... and if they do not turn aside will enter Semmerholm not far from the Semmerstones a little less than a week after the Solstice.
+
+#### Game Information: Weirwater
+
+An army of cadaverous warriors are marching through Weirwater; it is hard to estimate how many, but it is certain that they represent a force on the scale of an Imperial army, rather than a military unit. They are not going out of their way to attack the living, but anyone who tries to engage them is mercilessly torn apart (if they are lucky - the marching dead hunger for the flesh of the *living* after all). There has been some damage to villages and roads, and at least one garrison south of Culwich that attempted to obstruct their passage has been overwhelmed with the loss of at least five nobles and thirty yeomen.
+
+There are reports of a few black standards among them, and of an eerie green glow that accompanies the army after the sun has set, but these are unconfirmed at this time. There is no indication who leads them (if anyone), or what they want, or who has raised them, or what their final destination may be. However, as a non-Imperial force marching through Imperial territory it is likely they will be unable to move more than one territory each season.
+
+### White (Necropolis)
+
+When the Granite Pillar march to Necropolis to take up defensive positions near the southern coast, the magic of Wintermark supports them. The Sherard Hunters have roused the forests of Highrod to support them. The trees grow thickly around the ruins of the First Sentinel - the broken fortress that once looked north to wild Reikos now serves as a base of operations for those who look south to the waters of the Bay of Catazar. A second significant force takes positions on Sanctuary Sands, below the bluffs on which the Necropolis itself stands.
+
+The coast itself is still shrouded in the unnatural fog that has clung to the shores of the northern Bay for nearly a year now.
+
+Of the Grendel, there is no sign.
+
+#### Game Information: Necropolis
+
+The situation in Necropolis has not changed.
+
+### Red (Segura)
+
+On the last day of the Spring Equinox, there is a flurry of activity in the Hierro clan encampment south of Anduz. All Imperial citizens are politely asked to leave, and if they do not take the hint, are physically ejected. Over the course of the next week, Imperial visitors are turned away by uncommunicative orc sentinels.
+
+At dawn two weeks after the Spring Equinox, without fanfare, the Hierro break camp.
+
+Despite the fears of the people of Anduz, they do not attack the town but instead march west towards the hills of Reinos. Swift-footed scouts dispatched to follow them say they move unerringly toward the red hills. The garrisons at the Towers of Anduz brace themselves, but the Hierro do not even pause.
+
+The orcs march out of Segura, and there is nobody to gainsay them.
+
+At the very last, a lone orc approaches the Kabalai Palace under a flag of truce. Tall orc, armoured, with braided hair and a proud demeanour, he calls himself the chieftain of the Hierro. His manner is civil, his message is short. He thanks the Freeborn for their hospitality, and the Empire for giving his people the greatest of gifts. They will hold the Way in their hearts, and it will give them strength as they go to face the Choice of the Jotun.
+
+And then he turns and follows after the rest of his clan and is swallowed up by the cloud of red dust that trails behind them.
+
+#### Game Information : Segura
+
+The Hierro have left Segura, and headed west into the territory of the Jotun. The handful that remain behind have asked to join the Imperial Orcs - they appear sincere enough.
+
+---
+
+Categories: [Recent History](../../indexes/by-category/Recent_History.md), [380YE Summer](../../indexes/by-category/380YE_Summer.md), [Military Council](../../indexes/by-category/Military_Council.md), [Winds of War](../../indexes/by-category/Winds_of_War.md)

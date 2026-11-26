@@ -1,0 +1,56 @@
+[[Category:Winds of Fortune]][[Category:386YE Winter]][[Category:Recent History]]
+<ic>"Wait, did you hear that?" Helgir stopped suddenly and listened, there had definitely been a noise. 
+
+''Splash.''
+
+"Ah, quit your belly aching. Now keep hauling so we can head home for dinner." Sigríður smiled at her sibling to reassure them it was just a jest. 
+
+Sigríður heard the splash this time, then something shook the boat. "We should head home now, you grab the oars and I'll keep watch. Best not to leave it to chance, aye?" The short draughir pulled her knife and cut free the nets.
+
+Helgir moved quickly to take their seat, picking up both oars and beginning with quick, strong strokes to bring them back to shore.
+
+"We should get home soon anyway. I've heard that Eisa will be home tomorrow, and I want to make the place suitable"
+</ic>
+<div style="float:left; width: 400px; clear: right;">{{CaptionedImage|file=Gullet.png|align=left|width=400}}</div>
+==Overview==
+* '''A small earthquake has occurred centred on the Gullet'''
+* '''It has had a small impact on the neighbouring territories of Bregasland, Kallavesa, Hordalant, and Skallahn'''
+* '''There have been sightings of strange husks dragging people into the sea'''
+A week before the Winter Solstice, a rumble is felt in the ground along the shores of the Gullet. A great shuddering, as if the earth itself is trying to uproot the trees and halls, lasts for just a few minutes. Casualties are minimal; Imperial buildings are built to withstand a storm, and this little quake does little damage. A few older buildings partially collapse, but apothecaries and physicks capable are quickly on hand to tend wounds. 
+
+It is considered an oddity and written off as nothing more than a strange coincidence. Then, a few days later, things start to wash up on the shore. Scattered stonework of unknown provenance, pieces of strange coral, and then lone body parts. The naturally curious investigate these things, but always leave them where they lie. Then the first few investigators don't come back.
+
+Sightings of shambling husks – studded with coral and long, long dead – are reported just a few days before the summit. First, shambling from out of the water. Then later, spotted trying to attack lone travellers. It is only later that the fisherfolk of Westerhal realise that the curmudgeonly ''Ingrid Longsight'' hasn't returned from her trip into the Gullet. Then her favourite spear washes ashore. As people begin to look to the sea, there are more reports of lone fishing boats being capsized, their occupants dragged under.
+
+In the ''Wet Willow Inn'', a fenlander was roundly ridiculed for telling tales of monsters dragging folk into the Gullet. His talk was dismissed as nothing – especially when he demanded drinks to "steady his nerves" during the telling of the tale – but then more people came forward to talk about it. It doesn't happen every time, but if the husks manage to subdue someone, they will take them into the briny depths rather than leaving them to bleed out.
+
+Clearly these husks do not represent a military threat. These are scattered groups, on par with the depredations of a group of Feni, or a Jotun warband, rather than the cold fury of the ''scions''. Fortifications and armies are no use here; solving this problem is going to take the attention of the heroes of Anvil.
+
+==Diamonds (Bregasland)==
+* '''The Reed's Roost is being threatened by the strange husks'''
+* '''This skirmish is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''The ''Roost's Reeve'' is [[Sentinel_Gate#Prognostication|responsible]] for dealing with this threat'''
+{{NoInnocentsPresent}}
+One of the largest group of husks – around a dozen – are spotted making their way towards Reed's Roost, [[Bregasland#North Fens|North Fens]]. A few beaters from Greywater, originally on the lookout for Jotun raiders, have been tracking them and have sent out word that they will reach the Roost a few days after the Winter Solstice.
+
+The folk of the Roost have made ready to leave, but the threat to the building itself remains. If the husks are not stopped, then they will inflict unknown damage on the structure. The [[Roost's Reeve]], '''Haylock Blackthorn''', is responsible for dealing with this threat. If the husks are not defeated, then it is likely that the amount of mana crystals produced each season will be reduced.
+
+==Stars (Kallavesa)==
+* '''The fishing settlement of Westerhal is being threatened by the strange husks'''
+* '''This skirmish is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''''Kjellen Saltmire'' is [[Sentinel_Gate#Prognostication|responsible]] for dealing with this threat'''
+{{NoInnocentsPresent}}
+Another of the largest groups – again around a dozen – has been harassing several of the fisherfolk of Westerhal, [[Kallavesa#West_Marsh|West Marsh]]. If they are not stopped, then the fisherfolk will need to withdraw inland before they are dragged into the watery depths.
+
+The fisherfolk of Westerhal have made ready to withdraw and leave, but that would see certain damage to the fleet. The fisherfolk have asked '''Kjellen Saltmire''', as one of the people who most recently [[Voyage#Escort_the_Fisherfolk_of_Westerhal|escorted them]], to deal with this threat. If the husks are not defeated, then the production of the voyage will fall as fewer fishing boats can afford to pay for protection.
+
+==To Be Alone (Sermersuaq)==
+* '''Several survivors are alive in an old shipwreck'''
+* '''This is a [[Accessibility#Combat_Unlikely_or_Contained|combat unlikely]] encounter'''
+* '''The ''Claviger of the Basilica of Cora Holdfast'' is [[Sentinel_Gate#Prognostication|responsible]] for helping the injured'''
+{{InnocentPeoplePresent}}
+Just the day before the summit, Wilda, one of the hosts of [[Wintermark Egregore|Sulkavaris, knower of names]], reports that there are some survivors stranded on a sand bar in Stark on the coast of Sermersuaq. A fishing boat went missing near there recently, and it appears it may be stranded.  
+
+The host is unable to offer more beyond the fact they are in tremendous pain. These people clearly need help, and almost certainly urgent medical attention. If the survivors can be treated, then it might be possible to glean some information as to what the source of this new threat is, and even how to counter it.
+
+Responsibility for this conjunction has been given to the [[Claviger of the Basilica of Cora Holdfast]], '''Nekoda''', for ensuring the injured are tended to. The exemplar has many connections to the healing of the injured and suffering; the custodian of their basilica is an apt individual to be responsible for upholding their legacy.

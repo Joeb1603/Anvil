@@ -1,0 +1,44 @@
+==Overview==
+The Gardener of Pallas is an [[Imperial title]] appointed by the senators of Urizen, announced during the [[385YE_Summer_Solstice_Senate_sessions#Reconstruct_Gardens_of_Pallas__II|Summer Solstice 385YE]]. The original Gardens of Pallas were originally commissioned by '''Juliana of Phoenix Reach''' as the [[Civilian commissioner|Civilian Commissioner of Urizen]] during the Autumn Equinox 380YE and overseen by the [[Head Gardener of Urizen]]. The gardens were destroyed during the [[Druj]] invasion of [[Zenith]] shortly before the Spring Equinox 382YE and were left ruined until an [[appraisal]] was requested under the guidance of [[Appraisal#Lutomysla Niegoslava|Lutomysla Niegoslava]]. Lutomysla presented their [[Restoration and renewal|findings]] before the Summer Solstice 385YE that suggested a radical overhaul, including making use of [[Urizen_economic_interests#Ushabti|ushabti]] and support from [[Some_heavenly_music#Beneath_a_Bleak_Spire|Fountainhome Spire]]. Work on the Gardens of Pallas was [[385YE_Summer_Solstice_Senate_sessions#Reconstruct_Gardens_of_Pallas__II|announced]] by the '''Nikolai''' as the [[Bearer of an Imperial Wayleave]] during the Summer Solstice 385YE and completed shortly before the Autumn Equinox 386YE.
+
+==Responsibilities==
+The Gardener of Pallas receives a substantial income in [[herb|herbs]] each season. There is some expectation that they will use their herbs to benefit the people of Zenith, and more widely Urizen, and if anything were to threaten the Gardens of Pallas it would be their responsibility to deal with the threat.
+
+==Powers==
+===Bounty of the Garden===
+The Gardener of Pallas receives an income of herbs each season: 7 drams of [[True Vervain|true vervain]] and 5 drams each of [[bladeroot]], [[Imperial Roseweald|Imperial roseweald]], [[marrowort]] and [[Cerulean Mazzarine|cerulean mazzarine]].
+
+===Specialised Ushabti===
+<div {{float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightYellow;">'''Additional Herbs'''</td></tr>
+<tr><td>7 crowns</td><td>2 drams each of true vervain, cerulean mazzarine, Imperial roseweald, marrowort, bladeroot, and 6 random herbs</td></tr>
+<tr><td>17 crowns</td><td>4 drams each of true vervain, cerulean mazzarine, Imperial roseweald, marrowort, bladeroot, and 13 random herbs</td></tr>
+<tr><td>30 crowns</td><td>6 drams each of true vervain, cerulean mazzarine, Imperial roseweald, marrowort, bladeroot, and 20 random herbs</td></tr>
+<tr><td>46 crowns</td><td>8 drams each of true vervain, cerulean mazzarine, Imperial roseweald, marrowort, bladeroot, and 27 random herbs</td></tr>
+<tr><td>65 crowns</td><td>10 drams each of true vervain, cerulean mazzarine, Imperial roseweald, marrowort, bladeroot, and 34 random herbs</td></tr>
+</table></div>
+The Gardener of Pallas has access to a [[ministry]], allowing them to hire skilled magicians and artisans to oversee the specialised ushabti in order to get more herbs. The Gardener makes their decision on how much money to spend during downtime from their character page. Money is removed from, and herbs are placed into, the character's inventory when the downtime is processed.
+
+===Boon of the Nightwoven===
+The Gardener of Pallas receives four drams of [[realmsroot]] each season from the nine mithril-infused monoliths in the shape of [[the Fountain]] [[Astronomancy#Constellations|constellation]] that take advantage of the [[Region_qualities#Nightwoven|magical changes]] wrought by the Druj.
+
+===Botanists from Bleak Spire===
+The Garden of Pallas serves as a base of operations for several horticulturists from Bleak Spire. These herbalists were some of the workers at the original Gardens of Pallas before the Druj destroyed it. Fleeing to [[Morrow]], they were [[You%27ll_recognise_yourself#Poise|instrumental]] in the establishment of the [[Custodian_of_the_Bleak_Tower#The_Bleak_Tower|Bleak Tower]] where they remained until '''Galene Netherwatch''' was sent by the Urizen Assembly to enact a [[385YE_Summer_Solstice_Synod_judgements#Judgement_90|mandate]] to encourage them to face their fears and return to the rebuilt Garden. Now, the botanists support the herb gardens of Zenith in the form of a great work producing three drams of random herbs each season.
+<!--{{CaptionedImage|file=Arephanes of Tropaion Citadel.jpg|caption='''Arephanes of Tropaion Citadel''', Gardener of Pallas|align=left|width=250}}-->
+==Appointment==
+The Gardener of Pallas is appointed during the Autumn Equinox each year. It is chosen by unanimous decision of the [[Urizen]] [[senator|senators]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by any Urizen citizen. The Gardener can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Urizen [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Gardener_of_Pallas}}
+
+==History==
+===Fountainhome Support===
+The Garden of Pallas was once home to a dedicated greenhouse for Fountainhome Spire. Their magical aid, and the excellent location of the Gardens of Pallas, improved the general standard of life across the territory, with good-quality fruit, vegetables, herbs, and spices supplementing the more mundane provender grown in Proceris. The support of Fountainhome Spire also meant the Gardens of Pallas served as a [[great work]], providing every mana site in Zenith with three drams of random herbs each season. 
+
+This stopped following the declaration of [[Alignment#Enmity|enmity]] against [[Ossegrahn]] at the [[388YE_Spring_Equinox_Conclave_sessions#Enmity:_Ossegrahn|Spring Equinox 388YE]]. The magician-healers of Fountainhome Spire are clear that they have a great deal of respect and affection for [[Ossegrahn]], and some of their advanced techniques relied on aid from the heralds of the eternal. With Lord Rain now considered an enemy of the Empire, they are no longer prepared or able to support the Gardens of Pallas or the people of Zenith.
+
+==Further Reading==
+* [[Restoration and renewal]] - 385YE Summer Solstice wind of fortune with results of the [[appraisal]]
+* [[382YE_Spring_Equinox_winds_of_war#Cascade_.28Zenith.29|Cascade]] - 382YE Spring Equinox wind of war detailing the destruction of the original gardens by the Druj
+[[Category:Title]]
+[[Category:Urizen]]

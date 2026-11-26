@@ -1,0 +1,80 @@
+---
+title: Crew:Ribbons
+source: https://www.profounddecisions.co.uk/empire-wiki/Crew:Ribbons
+class: out-of-character
+topic: crew
+categories:
+- Crew
+last_edited: '2023-06-26T16:43:18Z'
+revision: 102714
+---
+
+# Crew:Ribbons
+
+Items of historical significance, weird realm stuff, heretical auras, and so on. The system gives you most of the key info as you go, but most of it is collated here too.
+
+If in doubt, run it by Jon Fry, with a brief explanation of what you’re aiming to achieve.
+
+It's worth also running anything complex by GOD (god@profounddecisions.co.uk) and the ref team, as they are the ones most likely to receive questions about it in the game.
+
+Start at the Plotmatron Home > Ribbon > New Ribbon
+
+## Type
+
+You’re likely to want either a:
+
+- Unique Bonded Item - a unique item that gives a special power to the person who bonds to it
+- Unique Activated Item - a unique item that produces a special effect once, and once only
+- Non-magical item - a mundane item with a special aura, history, or ritual effect
+
+## Power
+
+(Non-magical items skip this tab)
+
+The wording of any special powers or effects will need approval from the game team.
+
+Leave the expiry box alone unless you’re making something permanent, or doing something weird.
+
+## Creator
+
+The name is necessary for the [Hand of the Maker](../../mixed/magic/rituals/Hand_of_the_Maker.md) ritual. Each nation’s “The People” wiki page has a list of examples. The event field doesn’t matter too much, it’s only there for OC purposes.
+
+## IC Details
+
+- Plot Wiki Link - useful for refs trying to figure out what’s up with an item
+- Visible Details - what players will read on the ribbon. Good for a special name and RP effect.
+- Hidden Power - extra effects for the player who bonds to it. Secret curses and the like.
+- [Hand of the Maker](../../mixed/magic/rituals/Hand_of_the_Maker.md) - a response for any players who cast a divination ritual. Not compulsory, but nice to do
+- [Skein of Years](../../mixed/magic/rituals/Skein_of_Years.md) - another divination ritual response. Both are good for giving extra context on an item
+- [Wisdom of the Balanced Blade](../../mixed/magic/rituals/Wisdom_of_the_Balanced_Blade.md) - a divination ritual for cursed items
+- Spiritual Details - hallowing RP effects, and the effects of the [insight](../rules/Insight.md) skill. (Sometimes hallowings don’t stick when first made, I have no idea why, be sure to check!)
+
+## Divination Rituals
+
+The divination rituals above cost around 4 mana to cast, which can be half a player's resources for the event. Making that feel "worth it" can be a tricky balance to strike. Ideally it should tell something they may not already know, something to get excited about. If you're not sure it's best to write nothing. Just getting "you see a smith forging this sword" from Hand of the Maker would be a big disappointment.
+
+Try to avoid going too long unless you really need to. Sometimes players will only hear the response read out once, and length pushes what they can note down and remember.
+
+## OOC Details
+
+If you want multiple copies you can create up to 10 duplicates now, and each will be given a unique ID. Making multiple copies of one ribbon with the same ID causes problems!
+
+If you need more than 10 copies of a ribbon you’ll need to repeat all of the above. Sorry.
+
+Only tick the “Print Now” box if you’re making the ribbon in the field at an event.
+
+If you make a mistake you can edit the ribbon after it’s made by pulling it up on the system (enter the ID under View Ribbon, or dig it out with Search Ribbons) and clicking Edit Ribbon.
+
+## Crew Links
+
+- [Crewing](Crewing.md)
+  - [Current Openings](Current_crewing_opportunities.md)
+  - [Site Crew](Site_crew.md)
+  - [Event Crew](Event_crew.md)
+  - [Plot Crew](Plot_crew.md)
+  - [Credits (2019)](Credits_2019.md)
+- [Management Team](Profound_Decisions_management_team.md)
+
+---
+
+Categories: [Crew](../../indexes/by-category/Crew.md)

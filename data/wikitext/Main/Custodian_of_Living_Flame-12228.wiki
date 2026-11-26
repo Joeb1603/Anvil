@@ -1,0 +1,18 @@
+==Overview==
+The Custodian of Living Flame is an [[Imperial title]] awarded to a citizen of [[Urizen]]. The commission of the Cascade of Living Flame was [[Construct_Cascade_of_Living_Flame|announced]] in the Imperial Senate by '''Tiberius Echostorm''', as [[Crystal Architect of the Spires]], at the Autumn Equinox 386YE. The Custodian of Living Flame is responsible for a sinecure, that grants them a seasonal supply of mana crystals.
+
+==Responsibilities==
+The Custodian of Living Flame has no particular responsibilities; they simply receive a bounty of crystal mana from the Cascade of Living Flame. If the Cascade, or those who visit and work it, were to be threatened in any way it would be the responsibility of the Custodian to deal with those threats.
+
+==Powers==
+===Cache of Crystals===
+The Custodian of Living Flame gains custodianship of a [[sinecure]]. Each season they receive nine mana crystals each season to do with as they wish.
+
+==Appointment==
+The Custodian of Living Flame is selected by unanimous decision of the [[Urizen]] [[senator|senators]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by any Urizen citizen. The Custodian has [[tenure]], and serves until they die or step down. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Urizen [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Custodian_of_Living_Flame}}
+[[Category:Title]]
+[[Category:Urizen]]
+__NOTOC__

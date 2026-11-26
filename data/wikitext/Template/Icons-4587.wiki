@@ -1,0 +1,4 @@
+* '''Form:''' Weapon. Takes the form of an [[:Category:Icons#Overview|icon]]. You must be holding this item in hand to use its magical properties.
+* '''Requirement:'''  You must have the [[Religious skills#Dedication|dedication]] skill to bond to this item.
+[[Category:Magic Items]]
+[[Category:Icons]]

@@ -1,0 +1,9 @@
+
+Gary Longford<br />
+
+
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>[[Category:Photos:GaryLongford]] [[:Category:Photos:GaryLongford|Image by Gary Longford]]
+</nowiki>''

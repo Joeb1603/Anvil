@@ -1,0 +1,38 @@
+[[Category:Senate Motion]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Proposed: Hercynia, Seconded: Weirwater">To commission an Imperial Navarr army to muster in Treji, Glen of Shadows, Hercynia. Cost 200 wains of mithril (or equivalent resources as outlined by the civil service) and 75 thrones. Self funding in progress
+</quote>
+==Overview==
+* Raises an [[Army]] in Hercynia
+* Passed
+* More information can be found in the '''[[The_first_shot#Hercynia|The first shot]]''' wind of fortune
+* This motion received support from citizens of Dawn through a [[387YE_Summer_Solstice_Synod_judgements#Judgement_61|mandate]] enacted by '''The Fool of Glory''' during the Summer Solstice 387YE
+* This motion received support from citizens of the Marches through a [[387YE_Summer_Solstice_Synod_judgements#Judgement_119|mandate]] enacted by '''Basil Goodbeard''' during the Summer Solstice 387YE
+* This motion received support from citizens of Varushka through a [[387YE_Summer_Solstice_Synod_judgements#Judgement_175|mandate]] enacted by '''Konstantin Rabovich Bolotnikov''' during the Summer Solstice 387YE
+* This motion received support from citizens of the Imperial Orcs through a [[387YE_Summer_Solstice_Synod_judgements#Judgement_244|mandate]] enacted by '''Skywise Gralka''' during the Summer Solstice 387YE
+
+==Date==
+* Spring 387YE
+
+==Cost==
+* Costs as per opportunity
+* 200 mithril
+* 75 thrones
+* Twelve months to complete
+
+===Alternative Funding and Contributions===
+* Can substitute 40 weltsilver, orichalcum, green iron, tempest jade, beggars lye or iridescent gloaming for each wain of mithril. Anyone wishing to use materials for this should email {{plot}} with their CID and how many materials they want to provide
+* The total amount necessary for each wain was reduced to 36 ingots or measures due to the support of the [[Ethengraw]]
+<!--9 left over-->
+* 88 beggar's lye, 32 green iron, 73 iridescent gloaming, 52 orichalcum, 1 tempest jade, and 78 weltsilver provided by Eleri Bronwen's Rest after Autumn Equinox 387YE
+* 48 beggar's lye, 29 green iron, 40 iridescent gloaming, 52 orichalcum, 32 tempest jade, and 110 weltsilver provided by Enfys Larksong after Autumn Equinox 387YE
+* 16 beggar's lye provided by Rhiannon Tend-Fallen after Autumn Equinox 387YE
+* 6 weltsilver provided by Maldwyn Bloodbrook after Autumn Equinox 387YE
+* 119 weltsilver provided by Paulk Thornweaver after Summer Solstice 387YE
+* 10 weltsilver provided by Derwyn Sparrowflight after Summer Solstice 387YE
+* 10 green iron and 5 weltsilver provided by Lleu Winter's Reach after Spring Equinox 387YE
+
+==Progress==
+{{CommissionProgress|Raise_Third_Navarr_Army}}
+==Outcome==
+* Once completed, the third general of Navarr will be available for election by unanimous decision of the Navarr senators

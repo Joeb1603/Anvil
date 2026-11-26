@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Announced by Groza, Legion Engineer">To commission 'A Fair Price'; a sinecure in Iteri, Zenith attached to the Champion of Prosperity position. The farm sinecure will provide money to allow the Champion to pay the deserving for their work, as no prosperous citizen shall work for free.</quote>
+==Overview==
+* Creates a sinecure in [[Zenith]]
+* Announcement by the [[Legion Engineer]]
+* It is not possible for the Legion Engineer to amend a title to grant it custodianship of a sinecure. The Senate voted to [[386YE_Summer_Solstice_Senate_sessions#Amend_Champion_of_Prosperity|amend the Champion of Prosperity]] to include custodianship of the sinecure at the Summer Solstice 386YE.
+==Date==
+* Winter 385YE
+==Cost==
+* Standard costs apply
+* 10 wains of weirwood
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|A_Fair_Price}}
+==Outcome==
+* Now complete, the [[Champion of Prosperity]] will receive 216 rings each season starting at the Spring Equinox 387YE.

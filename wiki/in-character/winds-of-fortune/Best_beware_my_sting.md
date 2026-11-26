@@ -1,0 +1,88 @@
+---
+title: Best beware my sting
+source: https://www.profounddecisions.co.uk/empire-wiki/Best_beware_my_sting
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 387YE Autumn
+- Recent History
+event: 387YE Autumn
+last_edited: '2026-02-06T14:13:49Z'
+revision: 134033
+in_character_boxes: 1
+---
+
+# Best beware my sting
+
+> *In-character text:*
+>
+> Blackened with frostbite and flensed to frozen grey meat by the scything winds of the Suaq Wastes, the corpse staggered across the featureless tundra. Had all the limbs still been attached, it might have bounded, but one of the legs had long since fallen off and so the corpse tottered forwards, in a vile parody of life.
+>
+> It gave no indication that it saw the Suaq crouched by the stunted tree, where its eyes ought to have been were just two maggot-ridden empty sockets... and yet it headed unerringly towards them all the same. One of them notched an arrow on her bow and drew a bead on the monstrosity that was approaching them, but the leader of the group, an ice-walker from the way they were dressed, raised a single finger to indicate not to fire... yet.
+>
+> The lumpen mass of sinew and ragged fur heaved its protruding bones closer and closer. If it saw the archer whose arrow could unleash a second, final death with a single motion, it made no move to avoid them. Instead it stopped just short and pulled itself up, as if it meant to stand upright on its crooked back legs.
+>
+> Its mouth fell open and with painful slowness the thing tried to coax some words from its leathern vocal cords. Its dead voice sounded like a whisper, and yet it was loud enough to echo off the hills.
+>
+> Something, someone - no prizes for guessing who - had a message for the Empire. It seems that *someone* has issued the Dream of Famine with a challenge. The Hunter in the Wastes welcomes all who would contest his will with theirs. Anyone who desires what the Howler holds may compete for it. All they must do is contact the Whisperer and name their stakes...
+
+*[Image: What is the nature of the Earl of the Groves, truly?](https://www.profounddecisions.co.uk/empire-wiki/File:Manticore.jpg)*
+
+## Overview
+
+Since their conquest of [the Barrens](../nations/dawn/The_Barrens.md) was complete, the nobles of Dawn have had to contend with a new power there. A manticore, a near-mythical beast, that dwells in the heart of the [Untrod Groves](../nations/dawn/The_Barrens.md#the-untrod-groves) and calls itself the Earl of the Groves. Though it is not bonded to the egregore, this creature claims to be Dawnish, and traces its lineage back to an ancient Dawnish monarch, Penni the White. With its home now part of Dawn once more, this "Earl" seems intent on re-establishing their dominion.
+
+The idea that this manticore might be considered an earl of Dawn was rejected by the Earl's Council, but the Earl of the Groves did not accept the rejection and invited nobles and yeofolk alike to [a tourney](In_the_flesh.md) on its lands.
+
+Now it seems the creature has another invitation - this time to a simple banquet.
+
+## The Red Feast
+
+- **The Earl of the Groves is inviting nobles of Dawn to attend a feast in his honour**
+- **He wishes to discuss nobility, glory, and other suitably Dawnish things with like-minded folk**
+- **He would like to invite those who possess his favours to take part in some sort of gamble**
+- **His friend Clevis, a herald of Tharim, will also be in attendance**
+- **A conjunction will open to The Red Hall in the Untrod Groves in the Barrens for 16 people, at 19:50 on the Friday of the summit**
+
+The nobles of Dawn have been given two opportunities to meet the Earl of the Groves, the manticore who claimed to be Dawnish, dwelling in the heart of the Barrens. Once when the Karass led them to his home, and they were soundly rebuffed. Later, on his tourney field where knights of Anvil clashed with those who pledged their loyalty to the monstrous Earl. Now, the Earl reaches out directly, and offers a more...intimate meeting for a select few.
+
+Sending a letter to the Castle of Thorns, the Earl notes his "deep concern" that some members of the nation of Dawn do not accept his nobility and position as an earl. He thus invites members of the Dawnish nobility to attend a feast held at his expense in his home. The Earl's home is perhaps modest, and so only sixteen nobles may attend. And the Earl's letter is very specific about nobles; the Earl is keen to have a "frank and deep" discussion about the nature of nobility and glory with those he considers his peers. Those nobles who attend will be protected under the laws of hospitality, and the Earl of the Groves will do no harm to them if they follow guest rules...but the letter pointedly notes that the same courtesy does not extend to any yeofolk who might try to sneak along. There are two exceptions: the two knights-errant who accepted the Earl's test of mettle are welcome to come and enjoy his company.
+
+The Earl is also aware of some in the nation making moves to acquire his favours, presumably for some ulterior purpose. The civil service relay that the Earl has offered up his remaining favour, a gift from Penni the White, in a "glorious wager", the exact nature of which he does not choose to reveal in his letter. He only mentions that it will be a test of oratory, because any test of arms or magic would be futile for the visiting mortals. Those who possess those favours taken from eternal grasp should ensure that they bring them along, so that they may form the opposing stakes. A herald of the eternal [Tharim](../eternals/The_Thrice-cursed_Court.md#tharim) named *Clevis*, apparently a close personal friend of the Earl, will be in attendance as a judge. There is no need to worry about bias: as Tharim is also a friend to the Empire, Clevis will judge neutrally in this matter.
+
+Specific invitations have been made to the holders of the Earl of the Groves' favours. In the event of disputes about who should attend the feast, the favour holders have the final say.
+
+## Guiser's Fayre
+
+- **Several yeofolk who have pledged fealty to the Earl of the Groves are visiting Anvil**
+- **They plan to arrive at 19:00 on Saturday for the Guising Fayre in Dawn**
+
+Several yeofolk supporters of the Earl of the Groves, the monstrous manticore who has claimed to be Dawnish, are travelling to Anvil. Not to speak on the glory of the Earl of the Groves, nor to engage in trade for the betterment of their houses. Instead, they have been granted the time to travel to Anvil to attend the Guising Fayre, and hopefully get to watch a play about the manticore. *Tristan Seneschal*, their "leader" and brother to Alyss Retainer, hopes that the good folk of Dawn will be welcoming and accommodating to the yeofolk, and that everyone has a good time.
+
+## The Crown and the Horse
+
+- **Ser Hugh de Veran, is researching the kings and queens of Dawn and plans to publish his work in time for the Winter Solstice**
+- **The National Assembly of Dawn could ask him to focus his efforts on Penni the White, the most infamous King in Dawnish history**
+- **Or he could focus on the First Empress, the most famous Queen in Dawnish history**
+
+*Hugh de Veran*, is a noble historian and troubadour who works at the Castle of Thorns. A few years ago, he [proposed a renovation of the castle's Throne Room](Dog_days_are_over.md#the-throne-of-glory). Over the years the room had become somewhat dilapidated and the keen antiquarian was hoping to see it restored to something like its former glory. He had *hoped* to see the Throne Room receive a true liao consecration, something that could connect Dawn to its glorious past in a way that would "reify the transcendent nature of the historic location" (Hugh is a capable historian but his literary style errs on the pompous when he is waxing lyrical). In return he promised to *finally* complete and publish the historical research that he has been working on for many years, concerning the pre-Imperial monarchs of Dawn.
+
+That hasn't happened yet, and quite possibly it never will. While Dawn has created true consecrations in a number of key sites in the Barrens, using true liao to arouse interest in this symbol of Dawn's past might just be too political given the constant controversy over the [Dawn monarchy](../nations/dawn/Dawn_monarchy.md) in recent years. However, [the work to refurbish the room](../senate-motions/Restore_the_Throne_Room.md) was begun last season and should be complete by the time of the Autumn Equinox. The results are everything that Hugh has dreamed of, restoring the great throne room of the Dawnish monarchs to its former [Glory](../nations/dawn/Glory.md).
+
+Hugh still has some work to do, so there is a small window of opportunity for the National Assembly to try and persuade Hugh to focus his research on one particularly important figure. If the National Assembly passed a statement of principle urging Hugh to concentrate on [Penni the White](../nations/dawn/Dawn_monarchy.md#pre-imperial-history) then there is an excellent chance he will turn up something useful regarding the king's relationship with the manticore - hopefully how he managed to avoid its sting.
+
+Of course the Assembly could judge that to be a somewhat frivolous use of the historian's time. Finding out the history of Penni the White and the manticore would be timely given the current prominence of the Earl of the Groves, but there are arguably more important figures the Dawnish Assembly could urge Hugh to work on. He could focus on Tristane or even her daughter, Circe, or Arwaine the Bold, or Igraine, or indeed any of the known kings and queens would be interesting. But perhaps the most obvious choice would be the First Empress herself, about whom surprisingly little is really known. Hugh's book is about the pre-Imperial thrones, so he's not currently planning to include any information about the First Empress, but it could be argued that she was also the last Dawnish monarch before the Empire...
+
+As a noble troubadour of Dawn, Hugh is bound to be influenced by whatever the Assembly suggests, provided they pick a single one. He can't focus on everyone, if the Assembly asks for that, they'll just get the book he's already writing. But the Assembly could pick a single key figure they want him to dig into - that could be the First Empress, Penni the White, or any other pre-Imperial monarch the Assembly felt was most appropriate.
+
+## Further Reading
+
+- [Manticores](../world/Legendary_beasts.md#sphinxes-and-manticores)
+- [In the flesh](In_the_flesh.md) - 387YE Spring wind of fortune discussing the manticore-earl's tourney
+- [Hard to find](Hard_to_find.md#the-earl-of-the-groves) - 386YE Winter wind of fortune about the manticore-earl
+- [Unspoken words](Unspoken_words.md#untrod-paths) - 386YE Autumn wind of fortune introducing the manticore-earl
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [387YE Autumn](../../indexes/by-category/387YE_Autumn.md), [Recent History](../../indexes/by-category/Recent_History.md)

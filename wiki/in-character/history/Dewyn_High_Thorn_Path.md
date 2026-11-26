@@ -1,0 +1,91 @@
+---
+title: Dewyn High Thorn Path
+source: https://www.profounddecisions.co.uk/empire-wiki/Dewyn_High_Thorn_Path
+class: in-character
+topic: history
+categories:
+- History
+last_edited: '2026-06-18T19:46:44Z'
+revision: 140581
+in_character_boxes: 2
+---
+
+# Dewyn High Thorn Path
+
+*[Image: Bridget Talbot de Coeurdefer, former Marcher Senator , now of Dawn , is no stranger to controversy.](https://www.profounddecisions.co.uk/empire-wiki/File:Bridget_Talbot_De_Couerdefer.jpg)*
+
+## Overview
+
+During the Winter Solstice 387YE, the [Lepidean Librarian](../../mixed/titles/Lepidean_Librarian.md) **Hazelelponi of the Shattered Tower**, charged the [Heirs of Lepidus](../religion/Lepidus.md#heirs-of-lepidus) to investigate the [past life vision](../../out-of-character/rules/Past_life_vision.md) of **Bridget Talbot de Coeurdefer**. The vision is recorded in the [Echoes of the Labyrinth](../../mixed/titles/Seer_of_the_Gateway.md), concerning a meeting between Dewyn High Thorn Path and her daughter [Empress Brannan](Empress_Brannan.md).
+
+The original report provided to the Librarian also included an additional document, apparently a piece of personal correspondence between Dewyn High Thorn Path and the Empress, which has not been reproduced here.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > As an Empire, we accept the assistance of eternals in our military campaigns. Building armies, joining us in the fight, deciding our fates. We need to remember the cost, for there is nothing great without it, and there are pieces picked up by those left behind. Librarians, I ask you to research the past life of Bridget Talbot de Coeurdefer, who was Dewyn High Thorn Path, mother of Brannan the Relentless. Empress Brannan the Relentless.
+> >
+> > Hazelelponi, Lepidean Librarian, Winter Solstice 387YE
+
+### Introduction
+
+In carrying out this research we have been reminded of the many dimensions of our work.
+
+First, we are reminded that history is *political*. At a time when concerns over certain Summer rituals reach new heights, we are not called to consider the audacious magics of [Isenbrad](../religion/Isenbrad.md) or [Zoria](../religion/Zoria.md), but a key figure in the life of an Empress who gave, and lost, so much to the realms. This is familiar ground to any archivist.
+
+Second, we are reminded that history is *personal*. The account in *Echoes of the Labyrinth*, of domestic fuss and parental anxiety, is painfully relatable. As a reader one has the feeling of intruding on a private scene never meant to enter into the record of history. Anyone who keeps a private journal would likely cringe at the thought of it being published within a year of their death. So at what point do we earn the right to pry in good conscience?
+
+Third, we are reminded that history is *living*. Dewyn High Thorn Path is typically a footnote in her daughter’s complex biography, and the depth of what follows would not have been possible without the collaboration of the High Thorn Path as it exists today. Their dedication to preserving the stark facts of their past, and more so their willingness to share it, is commendable.
+
+One final note by way of introduction: Throughout drafting this research we have been careful not to slip into a biography of Empress Brannan, about whom much has already been written. In order to focus on our brief, we will assume the reader already has some basic knowledge of the story of the Relentless. The account of Bridget Talbot de Coeurdefer’s vision during Winter 385YE, documented in the 10th Volume of *Echoes of the Labyrinth*, also provides valuable context.
+
+### The Thorny Path
+
+The *High Thorn Path* [striding](../nations/navarr/Striding.md) was founded, so the story goes, long before Navarr joined the Empire. A group of warriors came to a seemingly impenetrable wall of foliage and an unnamed changeling, tired of their peers’ hesitation, forged a path through the thorns. Their commitment to facing adversity head-on was carried forward by their descendants.
+
+In this story of relentless commitment, we see the seeds of what was to come. For most of its history the striding was dedicated to military campaigns against vallorn and barbarian alike. This is what Dewyn High Thorn Path was born into in 193YE, but as she grew up the attitude of the striding shifted. They began to attend Anvil and can be found in records across the Imperial houses of state, advocating for robust collaboration and preparation across the military. An efficient attitude will have served them well during the years of Empress Mariika’s pragmatic economic reforms.
+
+During the Conclave of Winter 218YE we find Dewyn - now a sworn [vate](../../mixed/magic/lore/Navarr_magical_traditions.md#vates) - raising a [Declaration](../../mixed/government/conclave/Declaration.md) of [Sorcery](../../mixed/government/conclave/Sorcery.md). The details of the precipitating incident have not been found, but we do know that the Declaration passed successfully. Around this time Dewyn met the [thorn](../nations/navarr/Thorn.md) Celyn, who chose to join the striding, and the two married in 220YE.
+
+### Changing Tides
+
+In 225YE they had a child, Brannan. From this point we find no direct mention of Dewyn or Celyn in the archives of the Imperial houses of state, so we rely more on the accounts of their descendants. By the time of Bridget Talbot de Coeurdefer’s vision, which we judge to have begun around 240YE, they had settled in a small striding. As [Emperor Guntherm](Emperor_Guntherm.md) came to power the practical approach that had served Dewyn and her peers well was beginning to fall out of fashion, as the striding, and the wider Empire, returned to preferring bold, direct action. It is no surprise that a teenage changeling entering adulthood at this time would be drawn to side against her parents.
+
+While we resist the draw to go back over the familiar ground of Brannan’s biography, we will allow ourselves one such diversion here. Our focus on stories, on exemplars and paragons, often leads us to pin key events on a single person. While Brannan undoubtedly made reckless, dangerous decisions during her reign, we see here how conditions across the Empire paved the way for her rise. She was, after all, elected by a constitutional majority of Senators, making no secret of her intentions to carry Guntherm’s legacy forward.
+
+Though Dewyn took a step back during this time, she was far from inactive. She and her peers focused on holding on to stability, as the Empire tried - and failed - to cling to the land it was claiming from barbarians. She was involved in casting a number of rituals to stimulate healing and growth in lands freshly ravaged by war. But it was never enough.
+
+Dewyn withdrew further from public life in 245YE. Perhaps the final straw was the destruction of the Navarr Dance of Blood army. Celyn had fought in the army for many years, and the pair lost many friends. Or perhaps she could not, or did not want to, face positioning herself so firmly against her daughter. After all, by this time Brannan was a key figure in Conclave and a devoted supporter of Guntherm. Though she had long since become an adult and a citizen, Dewyn may have still held to the belief of Navarr parents that children need to be tested and exposed to danger, to learn lessons by experience.
+
+Whatever the case, the Imperial war-machine marched on. Dewyn began to act as a tutor to members of the striding interested in magic and the oath of vates. Students would come to live with her for weeks to months for a strict course of learning. It is likely the house would have been empty without them, as Celyn spent most of their time marching with the Black Thorns, and Brannan began to serve as Warmage.
+
+### Rise and Fall
+
+In 249YE Brannan was crowned [Empress](../../mixed/titles/The_Throne.md). There is nothing to indicate any material change in Dewyn’s life at this point, she continued to take on students, but the personal impact must have been immense. We know that Brannan visited the family home a few months after her coronation, likely her first visit in several years. *Echoes of the Labyrinth* gives us a glimpse of the tension behind this meeting. Brannan’s single-mindedness, Celyn’s frustration, Dewyn’s probing scepticism. As far as we can tell, Brannan did not pay any further visits during her reign.
+
+The Lepidean Librarian reminds us “to remember the cost, for there is nothing great without it.” Even before we come to the cost of eternal bargains and powerful magics, we see the cost of certainty and achievement. We have been able to build a picture of Dewyn and Celyn as caring, well-intentioned parents, who looked after their daughter and, despite reservations, enabled her to follow her own path. The rift that grew between them was purely political, but vast all the same. However some of us wonder if the seeds of Brannan’s deals, and their consequences, can be seen in this meeting. Perhaps, before the ravaging of legendary beasts and the rising changeling births, Brannan had fallen under Summer’s influence in a more subtle way. Was she always as self-assured as this, to so bluntly dismiss her parents’ concerns, or was some facet of Eleonaris speaking through her? If the latter, how could any of what followed been avoided?
+
+Either way, from this point it appears Dewyn settled into a comfortable rhythm, with someone under her tutelage practically at all times. Though it does not match the grandeur of sitting on the Throne, the significance of this apparently simple existence should be familiar to every good tutor (and, arguably, every good student.) She saw Celyn every few months, when they were given a long enough break from the front, and heard of Brannan’s efforts second-hand. (We note that during this time Celyn found themselves under their daughter’s direct command, as Brannan used her powers as Defender of the Empire to control the [army](../../out-of-character/rules/Army.md).)
+
+### The Parting Glass
+
+In 255YE, Celyn, Dewyn’s partner of 35 years, was killed by [Druj](../barbarians/Druj.md) while defending a newly resettled region of [the Barrens](../nations/dawn/The_Barrens.md). Their body was not returned. Dewyn stopped taking on students, and we know nothing of what she did in the following two years. Sometimes silence speaks volumes.
+
+In late Spring 257YE, not long after her revocation, Brannan returned home seeking reassurance. The *Echoes* account tells us that Dewyn’s response was measured but unyielding: “The price was too high.” We have no cause to believe that Dewyn had any special insight into the deals her daughter had made, but by this time tales of their consequences were widely known.
+
+In the end, it was Dewyn who was left to bear the cost. Brannan left the family table for the final time, and within two months she had died in unknown circumstances.
+
+To summarise, the life of Dewyn High Thorn Path tells the story of a capable, level-headed vate whose star gradually fell as that of her child’s rose and rose. A woman who, despite bonds of oath, braid and blood, could not stop her daughter from abusing, and losing, the highest Imperial Office.
+
+### Postscript
+
+As we have already said, much of the substance of this report comes from the descendants of the High Thorn Path. They asked not to be named, but have otherwise been resolutely open with their records of the events of Brannan’s reign. They have also offered us one further asset: a letter Dewyn wrote to Brannan in 257YE, still unopened and presumably unread. We debated at length over whether to open it, and debated even further over whether to share its contents. In the end we considered all that we have learned about Dewyn High Thorn Path, and concluded that she would have wanted her words shared, at least with the Lepidean Librarian.
+
+## Further Reading
+
+- [Empress Brannan](Empress_Brannan.md)
+
+---
+
+Categories: [History](../../indexes/by-category/History.md)

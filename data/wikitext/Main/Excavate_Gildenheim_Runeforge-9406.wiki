@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:383YE Winter]]
+__NOTOC__
+<quote by="Proposed by Bastion, Seconded by Kallavesa">To confirm that the runesmiths of Wintermark are the rightful heirs of the Gildermark Runeforge.
+
+This should allow the ruins to be carefully transported, preserved and removed to Runegrott in Hahnmark</quote>
+
+==Overview==
+* Motion to excavate and transport the ruins of the [[Gildenheim runeforge]] to Runegrott, [[Hahnmark]] as detailed in the '''[[Conduit_to_destiny#The_Runed_Ruins|Conduit to destiny]]''' wind of fortune
+* Passed
+==Date==
+* Winter 383YE
+==Cost==
+* 12 thrones in labour costs
+* 3 months
+==Progress==
+{{CommissionProgress|Excavate_the_Gildenheim_Ruins}}
+==Outcome==
+* Once the excavation of the ruins is complete the cost to construct a [[runeforge]] in Runegrott will be reduced by 30 wains of white granite and 60 crowns.

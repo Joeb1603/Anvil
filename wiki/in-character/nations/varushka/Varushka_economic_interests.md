@@ -1,0 +1,93 @@
+---
+title: Varushka economic interests
+source: https://www.profounddecisions.co.uk/empire-wiki/Varushka_economic_interests
+class: in-character
+topic: nations/varushka
+categories:
+- Varushka
+- Nations
+last_edited: '2026-03-15T14:00:59Z'
+revision: 135305
+aliases:
+- Varushka Economic Interests
+in_character_boxes: 2
+---
+
+# Varushka economic interests
+
+*[Image: Costume by Jo Perridge](https://www.profounddecisions.co.uk/empire-wiki/File:VarushkanEmbroidery3.jpg)*
+
+Varushka may be dangerous, but it is also rich. Varushka does not export many finished goods. Varushkan crafters tend to craft for their family and community, not for the wider world. The true wealth of the nation lies in raw materials, and in that it has become a great provider for the Empire. It is famous for its high quality furs, which are sold all over the Empire, and the nation is home to many species of majestic hardwoods whose timber is in high demand. Not just timber is produced from the woods; amber is a common export, and many Varushkans of any gender sport amber jewellery.
+
+The bones of the land itself are valuable. There are rich deposits of iron and precious metals, and quarries that produce both fine quality stone and beautiful precious gemstones. Honey and mead are both common Varushkan exports. Varushkan honey is a delicacy, with different regions producing different types of honey. Connoisseurs talk about Varushkan honey in the same way one might discuss fine wine or cheese.
+
+In Varushka, nothing is free. The supernatural threats of the nation often seem strongest where the wealth is greatest, and those seeking to make their fortunes must contend with the malign creatures that come in darkness. As a result, operating a Varushkan mine or lumberyard, or entering the forests to hunt and trap, is not an entirely mundane business. It is dangerous to harvest the bounty of an area that is claimed by a [sovereign](Varushkan_Monster.md#sovereigns) unless the creature is subject to a compact, agreement or binding. Only by following these [rules](../../../mixed/magic/lore/Varushka_hearth_magic.md#oaths) may the resources be gathered safely. For example, a Varushkan lumberjack might mark trees in a certain area with a sigil the day before they plan to fell them; if the sigil is gone when they return the next morning, they know that the tree is claimed by a sovereign and cutting it down will have dire consequences.
+
+While Varushka has towns that serve as trade hubs, it has no cities – but this was not always the case. [Temeschwar](../the-league/Temeschwar.md), the greatest city in the north, was once part of Varushka. When the Empire was formed, Maria Ivanova, the boyar of Temeschwar, elected to join her city's fortunes with those of [the League](../the-league/The_League.md) rather than remain part of Varushka. While some Varushkans were outraged by this apparent treachery, the majority simply shrugged. The defence of Temeschwar was now no longer their concern; the inhabitants had simply looked for protection elsewhere. Relations remain mostly good, and the city is still a central trade hub for many Varushkan traders. The symbiotic relationship between Varushka – rich in raw materials – and the League – rich in worked goods – has made the fortunes of merchants from both nations.
+
+The [Navarr](../navarr/Navarr.md) are welcome if irregular visitors to the land. They ensure that every settlement receives news of the wider Empire and provide additional protection to those who want to travel long distances. For their part, visiting Navarr know to keep to the [roads](Varushkan_Road.md) and to consult the wise ones and wardens whenever they can, to ensure they do not accidentally break some important taboo and bring disaster down on their own heads and the heads of the people they move amongst.
+
+Many Varushkan villages employ [Stzena](../../../mixed/music/Stzena.md), local musicians who perform at local civic events and celebrations.
+
+*[Image: Varushka is the great provider.](https://www.profounddecisions.co.uk/empire-wiki/File:VaultMaster.jpg)*
+
+## Outposts
+
+Not all Varushkans dwell in the vales; there are countless isolated mines, quarries and similar across the nation where hard folk work to make their living. Few of these outposts are joined to the network of warded roads that cross the nation and lacking the constant [vigilance](../../religion/Vigilance.md) of a community they must be guarded solely by schlacta. Those who work there are often regarded as foolhardy, desperately gambling their lives to make their fortune.
+
+Most outposts are ruled by a merchant boyar. The best eventually grow to become a true vale, as people settle there to raise a family under the protection of the boyar and their schlacta. The worst have a reputation for iron rule and cruel discipline, a refuge for exiles and anyone prepared to wield an axe and follow orders. Most outposts were worked by orc slaves in the past. That practice has long been abolished but many still retain a fetid air and often employ criminals working off a punishment. Varushkan magistrates keep a close eye on those they can travel to, but the more isolated outposts are difficult to reach.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > *The Oathwright* lay unopened in Pavel’s hands. He played gently with the corners of the white paper with his fingertips before setting it down on the desk. He rose slowly and with a sigh, crossing to the window and pressing his forehead against the chill glass. The streets of Delev were busy, even at nightfall, and he could hear the chanting of Wardens in the distance as they marched near the palisade. The clustered townhouses and drifting people were a sign of the town’s growing prosperity.
+> >
+> > It was the prosperity which troubled Pavel.
+> >
+> > “The Singing Caves Retaken.”
+> >
+> > Turning back to the desk, picking the day’s copy of the *Pledge* from the bin he read the same headline in its crumpled pages. He thought he heard gruff voices for a moment, echoing roughly as though reflected by sheer walls of granite and glanced toward his bookcase. A guilty moment, but enough to take in the early volumes of ledgers and accounts wedged into the most inconspicuous space at the bottom. The cracked spines loomed, and seemed to grow in his mind’s eye into a rock face. He slumped down next to the worn leather, and ran his finger gently along the top of the oldest records.
+> >
+> > “The Singing Caves.”
+> >
+> > Again the distant singing. Not of Wardens, but the defiant, raucous noise of a hundred tribes drowned by time and stone and Prosperity. Made loud now by guilt. Pavel pulled a ledger from the row, the engraved leather bearing the name of his grandmother, an icon in his family and the second Novak to run a trade through the difficult mountainous paths of northern Miekarova. Rich trade, which had run through the Empire and into the multitude of mines and farms and ports. And to the Singing Caves, the great Marcher mithril mine. His hands worked ahead of his mind now, leafing through the pages of prosperous trade deals, accounting and material movements until they reached a section more dog-eared than the rest. The title written in the neat, warm handwriting of his father’s mother.
+> >
+> > The Singing Caves
+> >
+> > Shadows from the fireplace flickered gently around Pavel as he bent to read. His heavy sigh drowned out in his head by the ceaseless moaning of a lost generation. Varushkans make oaths with everything; the land, spirits of the natural world, Paragons and their totems. Not least of all pacts are made with the past, and the singing must be satisfied. He began to read.
+> >
+> > *Tragg of Otkodov and family to Singing Caves. 4 thrones, 3 crowns, 0 rings*
+> >
+> > *Bannak of Verthandi and family to Singing Caves. 5 thrones, 0 crowns, 8 rings.*
+> >
+> > *Usshak of Otkodov and family to Singing Caves...*By David Stibbards
+
+## Further Reading
+
+Core Brief
+
+- [Introduction](Varushka.md)
+- [The people](Varushka_people.md)
+- [Culture and customs](Varushka_culture_and_customs.md)
+- [Look and feel](../../../out-of-character/costume/Varushka_look_and_feel.md)
+- [Hearth magic](../../../mixed/magic/lore/Varushka_hearth_magic.md)
+
+Additional Information
+
+- [History](Varushka_history.md)
+- [Leadership](Varushka_leadership.md)
+- Economic interests
+- [Military concerns](Varushka_military_concerns.md)
+- [Religious beliefs](Varushka_religious_beliefs.md)
+- [Magical traditions](../../../mixed/magic/lore/Varushka_magical_traditions.md)
+- [Territories](Varushka_territories.md)
+- [Children](../../../out-of-character/events/Varushka_children.md)
+- [Music](../../../mixed/music/Varushka_music.md)
+- [Archetypes](../../../indexes/by-category/Archetype.md#varushka)
+- [Groups](../../../out-of-character/groups/Varushka_groups.md)
+- [Egregore](Varushka_Egregore.md)
+
+---
+
+Categories: [Varushka](../../../indexes/by-category/Varushka.md), [Nations](../../../indexes/by-category/Nations.md)

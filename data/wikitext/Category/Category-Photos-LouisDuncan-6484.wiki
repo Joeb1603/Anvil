@@ -1,0 +1,8 @@
+My website is [http://www.louisduncan.uk http://www.louisduncan.uk] or [https://www.facebook.com/louisduncanphotos https://www.facebook.com/louisduncanphotos]
+
+<noinclude>Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+<nowiki>{{Category:Photos:LouisDuncan}}</nowiki></noinclude>
+<includeonly>
+[[Category:Photos:LouisDuncan]] [[:Category:Photos:LouisDuncan|Image by Louis Duncan]]
+</includeonly>

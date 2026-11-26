@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Announced by Dima Vasilyevna Novosad, Master of the Koboldi">To commission the Tower of the Dragon in Nearweald, Ossium, an official residence of the Archmage of Summer which functions as a ministry. Fully funded by myself and the Archmage of Summer, Mirella of the Twisted Rose. 15 white granite and 45 crowns</quote>
+==Overview==
+* Constructs a [[ministry]] in Nearweald, Ossium
+* Announcement by the [[Master of the Koboldi]]
+* More information can be found in the '''[[Stone_and_stone#Tower_of_the_Dragon|Stone and stone]]''' wind of fortune
+==Date==
+* Spring 387YE
+==Cost==
+* Costs as per opportunity
+* 15 white granite 
+* 45 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Construct_Tower_of_the_Dragon}}
+==Outcome==
+* Now complete, the [[Archmage of Summer]] has gained a ministry allowing them to trade [[tempest jade]] for [[Stone_and_stone#Jewels_from_the_Deep_Mountain|Jewels from the Deep Mountain]].

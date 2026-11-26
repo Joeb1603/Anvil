@@ -1,0 +1,19 @@
+Players can use the Sentinel Gate to travel the world, represented either by the battlefield or a tent. Encounters out on the field are often about fighting, but don't have to be!
+
+Make a new encounter at the time of the conjunction, and tick “Include Conjunction” in the Conjunction tab. Any encounters to hook or follow-up on the plot need to be made separately.
+You need to give a specific time, location, size and time limit and make sure the players are aware of it. If they don’t know exactly where they’re going, they can’t use the Sentinel Gate.
+The refs at the gate will count the players through, but you’ll need to be there on time to lead them to the encounter, or ask another plot writer to do so for you. 
+
+For any off-Anvil encounter you must give as much detail in the “Accessibility” tab as you can. Players can ask refs about these things to determine whether an encounter is right for them, and potentially make requests. If you want a specific PC to attend you need to be prepared to accommodate the needs of the player.
+Most of the boxes are set to “Radio the Plot Writer” by default, they should ideally all be set to something more specific. You should only need to be contacted by radio as a last resort.
+It’s totally fine to leave something undetermined until you have a chance to get to site and see what condition the field is in, but try to sort this before time in.
+
+Field encounters need to be arranged with Steve Kirkbride between events, over facebook or discord. It’s best to reach out as soon as possible, even if your idea is still quite bare bones.
+The skirmish team has a Plot Team of up to 20 people. It makes all their lives much easier if they can use the same kit for multiple encounters. If you want to do something a bit weird (any faction the Empire isn’t currently at war with) it’s worth talking to other plot writers to see if you can work up a “package.”
+There is a [https://www.profounddecisions.co.uk/empireplotwiki/Skirmish_Template template] for skirmish briefs on the plot wiki that’s well worth using. The skirmish team are great at sorting the right stats and kit so long as they know your Vision.
+
+Tent encounters are arranged through a spreadsheet provided by the Plot Production team, ideally make your request as a comment or in a dedicated space for requests - don't edit the actual timetable unless asked to. Again it’s best to get these requests in as soon as possible.
+The set dressing team often do a “big build,” like a wrecked ship or town market, and it’s great to work with that as much as possible. “Civilised” or “wild” spaces are relatively easy for them.
+Tent encounters don’t have to be through the Sentinel Gate - players able to access the Hall of Worlds can pass through the portal to a “pocket” of any of the six realms. In this case there’s no need for the conjunction information, but do still fill in the Accessibility info.
+
+{{Crewing Links}}

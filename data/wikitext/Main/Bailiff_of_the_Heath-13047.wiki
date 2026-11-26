@@ -1,0 +1,17 @@
+==Overview==
+The Bailiff of the Heath is an [[Imperial title]] awarded to a citizen of [[the Marches]]. The commission of the Bounders Hall of Stockland was [[Construct Stockland Bounders Hall|passed]] by the Imperial Senate at the Summer Solstice 387YE. The Bailiff of the Heath is responsible for organising the defence of Stockland and, to a lesser extent [[Upwold]], from the depredations of thieves, vagrants and other ne’er-do-wells. The title was created as a result of an opportunity presented in the '''[[Kith_and_kin#Hard_Work|Kith and kin]]''' wind of fortune.
+
+==Responsibilities==
+The Bailiff of the Heath has a responsibility for organising the defence of Stockland, and to a lesser extent, Upwold. In addition, if the Bounders Hall of Stockland, or the bounders who use it, were to be threatened in any way, it would be the responsibility of the Bailiff to deal with those threats.
+
+==Powers==
+===Regular Income===
+The Bailiff of the Heath gains custodianship of a [[sinecure]]. Each season, they receive 216 rings, partially as payment from the grateful farmers and traders of Stockland and its surrounds and partly as goods confiscated from defeated outlaws.
+
+==Appointment== 
+The Bailiff of the Heath is selected by unanimous decision of the [[Marches|Marcher]] [[senator|senators]] at the Spring Equinox. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by any Marcher citizen. The Bailiff serves until the next scheduled election. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Marcher [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+{{RecentElections|Bailiff_of_the_Heath}}
+[[Category:Title]][[Category:The Marches]]

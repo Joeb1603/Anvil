@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:388YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Aurianna du Meravon, Senator for Semmerholm, Seconded: Ismene of the Scarlet Guard, Senator for Morrow">Construct Kespoena's Nadir in Zenith
+</quote>
+==Overview==
+* Constructs a new [[mithril]] seat in Occursion, Zenith
+* Kespoena's Nadir is a new [[mithril]] vein, [[Value_beneath_the_mountain|uncovered]] by the [[Argent Sword]]
+* Passed
+* Construction time was reduced from six months due to [[Value_beneath_the_mountain#Under_Kespoena's_Reach|exploits under Kespoena's Reach]]
+
+==Date==
+* Autumn 388YE
+
+==Cost==
+* Costs per opportunity
+* 300 thrones in labour costs
+* 10 thrones a season upkeep
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Kespoena%27s_Nadir}}
+==Outcome==
+* Once complete, an administrative motion will be raised to [[Powers_of_the_Imperial_Senate#Allocation|allocate]] the Kespoena's Reach bourse resource

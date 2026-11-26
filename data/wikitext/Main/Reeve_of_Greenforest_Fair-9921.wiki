@@ -1,0 +1,36 @@
+<div style="float: left; width: 250px;">{{CaptionedImage|file=House deGramont.png|caption=Greenforest Fair takes place in the grounds of House deGramont|width=300px}}</div>
+==Overview==
+<div style="float: right; width: 200px;">{{CaptionedImage|file=Assembly Dawn.png|caption=This title is appointed by the Dawnish Assembly|width=200px}}</div>
+The Greenwood Manor was [[384YE_Summer_Solstice_Senate_sessions#Greenwood_Manor|commissioned]] by '''Bertrand''' of Dawn as [[Bearer of an Imperial Wayleave]] during the Summer Solstice 384YE. The Greenforest Market is located in Racqueen, [[Semmerholm#Elvette|Elvette]] and work was completed shortly before the Autumn Equinox 384YE.
+
+==Responsibilities==
+The Reeve of Greenforest Fair is responsible for overseeing the monthly fair at the Greenforest Market. The Reeve is expected to ensure that the yeofolk who trade at the fair do so in an honest manner.
+__NOTOC__
+==Powers==
+===Ministry===
+<div {{float}}>
+<table class="mw-collapsible"><tr><td colspan="2" style="background-color: LightBlue;">'''Wealth of the Fair'''</td></tr>
+<tr><td>9 Crowns</td><td>3 measures each of [[beggar's lye]], [[ambergelt]], [[dragonbone]], and [[iridescent gloaming]] and 5 random [[herb|herbs]]</td></tr>
+<tr><td>20 Crowns</td><td>6 measures each of beggar's lye, ambergelt, dragonbone, and iridescent gloaming and 10 random herbs</td></tr>
+<tr><td>40 Crowns</td><td>9 measures each of beggar's lye, ambergelt, dragonbone, and iridescent gloaming, 10 random herbs, and 2 vials of [[Vis#Vital_Honey|vital honey]]</td></tr>
+</table>
+</div>
+As a [[ministry]], the title of Reeve of Greenforest Fair allows the holder to purchase measures at a set price. The Reeve spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+<div style="float:right; width: 500px; clear: right;"><box><big>'''Suitability'''</big><br>The Reeve of the Greenforest Fair is intended to be held by a [[Yeofolk of Dawn|yeofolk]], the task of haggling over coins and measures is unsuitable for a noble. If the title is held by a character who is a noble, or they become one during their tenure, then the player must email admin@profounddecisions.co.uk to let us know to turn off production of the ministry.</box></div>
+
+==Appointment==
+This title is appointed during the Autumn Equinox. The Reeve of Greenforest Fair is a national position appointed by the Synod. It is elected by [[judgement]] of the Dawnish [[Assembly#The_National_Assemblies|Assembly]].
+
+The title can be held by any Dawnish citizen. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Dawn National Assembly, and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Reeve_of_Greenforest_Fair}}
+==Greenforest Fair==
+While there are several vallorn that threaten the Empire, the one the Dawnish know best is the terrible canker that twists at the heart of Brocéliande. House deGramont has long had an estate in [[Semmerholm#Elvette|Elvette]] near the border of lush Brocéliande. During the recent struggle against the Heirs of Terunael the deGramonts threw their estate open to [[Knight-errant|knights-errant]] and [[Questing knight|questing knights]], as well as to the occasional bands of [[Navarr]] [[thorn|thorns]] seeking a few days of succour away from the hungry forests. Their home served as a last friendly house before they faced the horrors of the [[vallorn]]. In addition to their noble holdings, the deGramont lands are the site of the town of Racqueen near Rucastle. It is well known for the bands of knights who stop there before venturing into the lush and deadly forest, eager to try their might against the vallornspawn that inhabit the lost ruins. These expeditions of questing knights and knights-errant are accompanied by [[Yeofolk of Dawn|yeofolk]] who, while the nobles are feted as guests of the deGramonts, spend their time selling the treasures recovered from lost steadings and ancient ruins. This has led to a number of yeofolk setting up small stalls around the town to trade and barter with the sudden influx in resources, and a monthly ''Greenforest Fair'' that has been growing slowly in importance in southern Semmerholm over the last few seasons.
+
+In Winter 383YE, the Earl deGramont - advised by her trusted [[seneschal]] - [[Between_wind_and_water#The_Manor_of_the_Greenwood|proposed]] that a [[Knight of the Greenwood#Greenwood Manor|lodge]] specifically for use by questing knights and knights-errant fighting against the vallorn be established in her lands. At the same time, the Greenforest Fair could be endorsed, and resources committed to expanding the marketplace and fairgrounds, with an eye towards allowing anyone interested in treasures seized from the vallorn - from any vallorn - to barter with Dawnish yeofolk. Racqueen is a regular stopping point for several Navarr stridings leaving Brocéliande, and such traffic would increase if the proposed commission was completed, bolstering the fair even further.
+
+[[Construct Greenwood Manor|Construction]] on Greenwood Manor began in Summer 384YE, and was completed a season later. The Greenforest Fair has seen the predicted increase in size and prominence, with yeofolk of Dawn and Navarr adventurers alike rubbing shoulders in the marketplace. It has become a popular destination for [[troubadour|troubadours]] and [[guiser|guisers]] interested in tales of the vallorn and of ancient Terunael. It's rapidly become a destination for knight-errants keen to purchase the best quality adventuring gear and helpful [[potion|potions]] - even those who don't then go on to explore Brocéliande.
+{{Responsibilities Expectation}}
+
+[[Category:Title]]
+[[Category:Dawn]]
+[[Category:Synod]]

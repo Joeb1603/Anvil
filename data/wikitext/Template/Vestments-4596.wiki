@@ -1,0 +1,4 @@
+* '''Form:''' Armour. Takes the form of a [[Magic items#Armour|vestment]]. You must be wearing these vestments to use their magical properties.
+* '''Requirement:'''  You must have the [[Religious skills#Dedication|dedication]] skill to bond to this item.
+[[Category:Magic Items]]
+[[Category:Vestments]]

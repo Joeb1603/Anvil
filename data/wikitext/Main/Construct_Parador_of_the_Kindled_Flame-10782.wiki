@@ -1,0 +1,33 @@
+[[Category:Senate Motion]][[Category:385YE Summer]]
+__NOTOC__
+<quote by="Announced by Laughlan, Master of the Rings">I announce the construction of the Parador of the Kindled Flame. This will be built in Siroc, Madruga. It will cost 27 wains of white granite with 2 crowns per wain labour costs. It is a folly, an orphanage for the children of the Brass Coast to be cared for and taught our traditions by the hakima and kohan.</quote>
+* Constructs a folly in [[Madruga]]
+* Announcement by the [[Master of Rings]]
+==Date==
+* Summer 385YE
+==Cost==
+* Standard costs apply
+* 27 wains of white granite
+* 54 crowns in labour costs
+* 3 months to construct
+==Progress==
+{{CommissionProgress|Parador_of_the_Kindled_Flame}}
+==Outcome==
+
+
+<!--
+Hidden within the Stone work, carvings depicting  the Reaper partaking in “guiding” children though a number of activities including venturing into and through the Labyrinth    
+
+ 
+
+A plaque somewhere on the building Stating
+
+“In Virtue we remember those who watch over others. These names as follow helped with the construction of this Sanctuary”  
+
+Tiana i Zayden i Riqueza
+
+Bakar i Riqueza
+
+Ray Fosterbrooke, Prelate of the Little Mother
+
+Laughlan Vi Temeschwar, Quatermaster of the Crimson Reapers, Master of Rings-->

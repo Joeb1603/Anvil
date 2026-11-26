@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Spring]]
+__NOTOC__
+<quote by="Proposed: Necropolis, Seconded: Segura"> To fortify Spider's Dream Bridge. Request disbursement of funds (not much).</quote>
+==Overview==
+* Fortifies the [[Madruga#The_Spider's_Dream|Spider's Dream Bridge]] as per '''[[Dreaming_in_strands#Old_Precautions|Dreaming in strands]]''' wind of fortune
+* Passed
+==Date==
+* Spring 386YE
+==Cost==
+* Costs as per opportunity
+* 20 white granite
+* 60 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Fortify_Spider%27s_Dream_Bridge}}
+==Outcome==
+Now complete, it is no longer possible for a warband to sabotage the bridge. Given sufficient time, an enemy army could still destroy the bridge if they controlled the regions on both sides of the river and a season to spare. But short of that, attacking the bridge is now practically impossible. In addition, if one of [[Madruga#Torres|Torres]] or [[Sarvos#Bocche|Bocche]] were lost then the Empire would be able to maintain military control of the Spiders Dream. This means the Empire can use the bridge to overcome the limit of claiming a [[War#Beachheads|beachhead]] when invading Torres from Bocche, and vice-versa.

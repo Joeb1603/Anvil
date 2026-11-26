@@ -1,0 +1,33 @@
+[[Category:Title]][[Category:Bourse]][[Category:The Marches]]
+==Overview==
+The Alder of Meade oversees the docks of [[Mitwold#Meade|Meade]] in Mitwold. The Mithril Market specifically deals with the Tseriyn family of Faraden, selling them grain, apples, salted meat, cider and mead from [[farm|farms]] across the Marches in return for wains of precious [[mithril]]. It was commissioned by the Imperial Senate during the [[Dredge_the_Westmere|Autumn Equinox 385YE]] and completed shortly before the Spring Equinox 386YE. More information can be found in the '''[[Butterfly_in_reverse#Dredging_the_Westmere|Butterfly in reverse]]''' wind of fortune.
+__NOTOC__
+The  Alder of Meade is no longer able to trade with the Tseriyn, following the Jotun [[Rose grow the rushes o'|invasion]] of Mitwold after the Autumn Equinox 387YE, until the Empire reclaims Meade.
+
+==Responsibilities==
+The Alder of Meade is responsible for maintaining good relations with the Tseriyn family of [[Faraden]]. In the event that the docks of Meade, or those visiting them, were threatened, the Alder would be expected to deal with those threats.
+<div style="float:right; width: 400px; clear: right; margin-left: 10px;">
+<table style="width:400px; float: right; margin-left:10px;" class="mw-collapsible"><tr><td style="background-color: LightBlue;">'''Tseriyn Mithril'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>160 crowns</td><td>7 wains of mithril</td></tr>
+<tr><td>380 crowns</td><td>14 wains of mithril</td></tr>
+<tr><td>660 crowns</td><td>21 wains of mithril</td></tr></table>
+</div>
+==Powers==
+===Ministry===
+As a [[ministry]], the Alder could purchase wains of mithril at a set price. The Alder chose how much mithril to purchase by making their choice during downtime from their character page. Money was removed from, and wains of mithril were placed into, the character's inventory when the downtime is processed.
+
+The current trade agreement with the Tseriyn merchant family will last until the start of the Winter Solstice 388YE.
+
+==Appointment==
+This title is appointed during the Autumn Equinox. The Alder of Meade is appointed by citizens of the Marches who control [[farm|farms]]. The larger the farm an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a citizen of the Marches may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Alder_of_Meade}}
+==Tseriyn Mithril==
+The Alder of Meade oversees the docks of [[Mitwold#Meade|Meade]] in Mitwold. The Mithril Market specifically deals with the Tseriyn family of Faraden, selling them grain, apples, salted meat, cider and mead from [[farm|farms]] across the Marches in return for wains of precious [[mithril]]. It was commissioned by the Imperial Senate during the [[Dredge_the_Westmere|Autumn Equinox 385YE]] and completed shortly before the Spring Equinox 386YE. More information can be found in the '''[[Butterfly_in_reverse#Dredging_the_Westmere|Butterfly in reverse]]''' wind of fortune.
+
+Amulchi Tseriyn, the head of the Tseriyn family, approached the [[Ambassador to Faraden]] with a proposal for a trade agreement in 385YE. The Tseriyn are a powerful and wealthy Faraden family, with deep connections to ''Tchinua Ganbatar'', the broadly pro-Imperial Liege of the Five Winds. The family control a prosperous mithril mine in Faraden, and they were keen to take advantage of opportunities presented by the expansion of the Caitun docks, coupled with the high prices being offered for mithril in the Empire. 
+
+The Faraden traders were keen to buy food and drink, and proposed a minimum two-year trade agreement to allow the ''Alder of Meade'' the chance to purchase [[mithril]] at an agreed rate. There was some question at the time as to why the Tseriyn were prepared to sell so much mithril to the Empire, and what they would do with their profits. They are known to be keen adherents of [[Prosperity]], and there is no doubt that their relations with the Marchers have done much to improve their prestige among the high families. The arrangement came with the blessing of Tchinua Ganbatar, so it is reasonable to assume there won't be any negative ramifications. Rather, bolstering a key ally of the current ruler certainly helps the Empire's diplomatic relations with Faraden.
+{{Responsibilities Expectation}}
+{{Faraden Links}}

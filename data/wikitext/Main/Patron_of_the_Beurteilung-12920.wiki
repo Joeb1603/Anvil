@@ -1,0 +1,21 @@
+__NOTOC__
+==Overview==
+The Patron of the Beurteilung is an [[Imperial title]] that has the power to make an announcement in the Senate to direct Professor Immanuel Gelberg and their colleagues in an [[appraisal]] at the summit that the title was appointed. The title was established as a result of the Imperial Senate [[387YE_Spring_Equinox_Senate_sessions#Endorse_Professor_Gelberg|endorsing]] the scholars from the Commonwealth.
+
+==Powers==
+===Appraisal===
+Once during the summit, when the title is appointed, the Patron can instruct Professor Immanuel Gelberg and his colleagues to [[appraisal|appraise]] a specific subject, with a view to identifying what opportunities exist to influence the situation. To use this power, the Patron must make an [[Senate_announcement|announcement]] in the Imperial Senate. To make an announcement, the Patron must provide the [[Speaker for the Senate]] with the paperwork [[Senate_announcement#Raising_an_announcement|at least two hours]] before the Senate session.
+
+Unlike the [[Appraisal#The_Prognosticators_Office|Prognosticators Office]], Professor Gelberg and his companions are not part of the Imperial civil service. There may be areas where they are unable to gain access - nobody is under any obligation to cooperate with them. Just as with the Prognosticators Office, the result of the scholars' appraisal will be [[Appraisal#Previous_Appraisals|made public]]. 
+
+===Outside Looking In===
+Professor Gelberg's expedition has a great deal of expertise, but their knowledge of the Empire is broadly academic. Any appraisal they perform will likely provide interesting or useful insight into a situation or problem, but it's not likely to produce the sheer volume of opportunities the Prognosticator's Office provides. It will certainly provide at least one [[opportunity]] to engage with the matter they have been asked to look into, but it's unlikely to produce an entire wind of fortune the way an appraisal by the Prognosticators Office does each season.
+
+==Appointment==
+The Patron of the Beurteilung is determined by auction by the [[Bourse]]. As an Imperial seat, any Imperial citizen may participate in the auction and hold the title. 
+
+The Patron retains the title ''for a single season only'' - they must use the power of appraisal at the summit where they gain the title, otherwise it is lost. As an Imperial Bourse title, the position cannot be [[revocation|revoked]] by the [[Synod]].
+
+{{RecentElections|Patron_of_the_Beurteilung}}
+[[Category:Commonwealth]][[Category:Title]][[Category:Bourse]]
+{{Commonwealth Links}}

@@ -1,0 +1,4 @@
+The target can cast {{{1}}} with a few words of appropriate roleplaying, rather than taking the standard 10 seconds. In addition, the casting is not interrupted if the caster or target are attacked, or if the target makes an attack.
+
+The target does not gain any additional knowledge of, or ability to cast, spells they do not know. Other requirements of casting a [[Spellcasting#Regular Spells|regular spell]] do not change - the caster must still be unarmoured, and they must still be capable of touching the target with their casting hand throughout the performance of the spell. 
+<!-- 1 is the spell or spells cast -->

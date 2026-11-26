@@ -1,0 +1,26 @@
+{{Disambiguation|This title was [[388YE_Autumn_Equinox_Senate_sessions#Cede_Last_Battle_Wayhouse|abrogated]] by the Senate during the Autumn Equinox 388YE when the wayhouse was ceded to the Karass. This page reflects its status before it was abrogated.}}
+[[Category: Navarr]]
+==Overview==
+The Keeper of the Last Battle is an [[Imperial title]] awarded to a citizen of [[Navarr]]. Construction of the Last Battle Wayhouse was [[Construct Last Battle Wayhouse|commissioned]] by the Imperial Senate during the Autumn Equinox 386YE and construction was completed shortly before the Winter Solstice 386YE. More information on the [[opportunity]] can be found in the '''[[The_way_home#The_Last_Battle|The way home]]''' wind of fortune.<br><br>
+{{Navarr Wayhouse Benefits|Last Battle|the Barrens}}
+
+==Responsibilities==
+The Keeper of the Last Battle is responsible for protecting the wayhouse and encouraging the expansion of the Empire's borders to trigger the last battle against the vallorn. If the wayhouse, or travellers using the wayhouse, were to be threatened in any way it would be the responsibility of the Keeper to deal with those threats. Likewise, if any particular [[opportunity]] were to arise related to the wayhouse, the Keeper would expect to be consulted as to how that opportunity might be resolved.
+
+==Powers==
+===Bounty of Herbs===
+The Keeper of the Last Battle has custodianship of a [[sinecure]]. They receive an income of 24 random herbs each season.
+{{RecentElections|Keeper_of_the_Last_Battle}}
+==Appointment==
+The Keeper of the Last Battle is appointed during the Winter Solstice each year. It is selected by unanimous decision of the [[Navarr]] [[general|generals]]. If a unanimous decision cannot be reached, the title may be appointed by the [[Military Council]] instead.
+
+The title can be held by any Navarr citizen. The Keeper serves until the next scheduled election. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Navarr [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{UnconstitutionalTitle|sodality=Vallornguard}}
+
+==Last Battle Wayhouse==
+The opportunity to build the Last Battle Wayhouse came about in part due to the efforts of Last Battle Striding, a relatively young [[striding]] made up almost exclusively of [[thorn|thorns]] united in the belief that the final battle against the [[vallorn]] will surely happen in their lifetime. Their desire to confront the vallorn is tempered with the knowledge that it will require linking up all the hearts with [[trods]]. This will require the Empire to fulfil its destiny and conquer the intervening lands.
+
+The wayhouse they inspired is built in the eastern [[The Barrens#the Bleaks|Bleaks]], in [[the Barrens]], on the edge of [[the Mallum]]. The striding visit there regularly, and it is rare for there to be no thorns relaxing or training in the vicinity of the little settlement. From there, they engage in reconnaissance and patrols into the lands of the Druj.
+
+Of course the wayhouse also serves as a hub to keep other Navarr steadings and stridings in contact with one another, and it's common for members of the nation to stop off in the Bleaks when they are travelling the eastern Empire. This has lead to some conflict with the local [[orc]] sept, the [[Not_to_conquer#Karass|Karass]]. The orcs are apparently [[Hard_to_find#Who_Would_Dare_To_Go|furious]] that the wayhouse was built without consulting them. When questioned about this, the Karass are evasive and unconvincing. The best explanation they can give is that they believe that the existence of the Last Battle will hasten the return of the Druj. They can't explain how that is going to happen, but they seem quite genuine about the threat. The Keeper would be well-advised to reach out to Anka Karass as soon as possible to ensure that this problem does not get any worse.
+{{Responsibilities Expectation}}

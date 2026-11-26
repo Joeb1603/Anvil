@@ -1,0 +1,4 @@
+* '''Form:''' Weapon. Takes the form of a [[Weapons & armour#Bows|bow or crossbow]]. You must be wielding this weapon to use its magical properties.
+* '''Requirement:'''  You must have the [[Combat skills#Marksman|marksman]] skill to bond to this item.
+[[Category:Magic Items]]
+[[Category:Bows]]

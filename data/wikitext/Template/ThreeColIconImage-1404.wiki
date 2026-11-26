@@ -1,0 +1,6 @@
+<noinclude>
+== Usage ==
+<pre>
+{{ThreeColIconImage|file=FileName.jpg|link=NationPage}}
+</pre>
+</noinclude><includeonly><div class="captioned-image captioned-image-none">[[File:{{{file}}}|267px|link={{{link|}}}]]<div class="caption">{{{caption|}}}</div></div></includeonly>

@@ -1,0 +1,37 @@
+==Overview==
+The Tender of the Blood Orchard is an [[Imperial title]] awarded to a citizen of [[The League|the League]]. The Wunderkind Woods were [[384YE_Autumn_Equinox_Senate_sessions#Secure_Wunderkind_Woods|secured]], and renamed the Blood Orchard, by the Imperial Senate during the Autumn Equinox 384YE.
+
+==Responsibilities==
+The Tender of the Blood Orchard is responsible for liaising with the Rebeshi Players, protecting the Blood Orchard, and protecting the people of Holmauer ''from'' the Blood Orchard should that become necessary.
+
+==Powers==
+===Exploit the Warped Wood===
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Blood Red Blood'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>105 rings</td><td>3 Winter vis</td></tr>
+<tr><td>255 rings</td><td>6 Winter vis</td></tr>
+<tr><td>450 rings</td><td>9 Winter vis</td></tr>
+<tr><td>690 rings</td><td>12 Winter vis</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Warped Wooden Staffs'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>720 rings</td><td>1 [[Phlegmatic Staff]]</td></tr>
+<tr><td>1440 rings</td><td>2 Phlegmatic Staffs</td></tr>
+</table></div>
+As a [[ministry]], the title of Tender of the Blood Orchard allows the holder to purchase [[Vis#Heart.27s_Blood|winter vis]] and [[Phlegmatic Staff|Phlegmatic Staffs]] at a set price. The Tender makes their decision about how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+{{CaptionedImage|file=Heidi von Holberg.jpg|caption='''Heidi von Holberg''', Tender of the Blood Orchard|align=left|width=300}}
+==Appointment== 
+This title is appointed during the Winter Solstice. The Tender of the Blood Orchard is selected by unanimous decision of the [[the League|League]] [[senator|senators]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by any League citizen. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the League [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Tender_of_the_Blood_Orchard}}
+==Blood Orchard==
+The trees of the Blood Orchard are twisted unholy things, their naked branches grasping toward the sky like grasping claws. Each tree has a single hollow from which oozes a sweet-smelling, sticky, bright red sap. Those brave enough to venture into the woods have reported sightings of half eaten small animals in the roots of many of the trees, but no sign of any predators - although odd blue-white lights are sometimes seen bobbing among the trees on nights when the sky is particularly clear.
+
+Shortly after the [[In_the_garden_of_defiance|curse]] of the [[The_Thrice-cursed_Court#Skathe|Hag Queen]], the sap was sold to visiting tourists by a [[mountebank]] as the blood of [[Empress Lisabetta]]. The sap, nicknamed ''blood red blood'' by the imaginative folk of Holberg's streets, was discovered to be poisonous if consumed but when prepared appropriately serves as a form of winter vis.
+{{Responsibilities Expectation}}
+==Further Reading==
+* [[In_the_garden_of_defiance#An_Orchard_of_Blood|In the garden of defiance]] -  Autumn 383YE Wind of Fortune detailing the changes in the Wunderkind Woods
+* [[Dear_green_space#Blood_Orchard|Dear green space]] - Autumn 384YE Wind of Fortune with Sofia Rebeshi van Holmauer's offer of support
+
+[[Category:Title]]
+[[Category:The League]]

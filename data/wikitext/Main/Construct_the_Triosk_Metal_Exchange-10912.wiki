@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:385YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Ossium, Seconded: Karsk">Commission the Triosk Metal Exchange in Triosk, Volodmartz. Creating the title: Merchant-Boyar of the Eagle and Stag Exchange, appointed by tally of the votes by Varushkan mine and forest owners. Responsibilities as defined by the opportunity.</quote>
+==Overview==
+* Constructs a [[ministry]] seat in [[Volodmartz]] as per the '''[[Deep_forests_and_dark_hills#The_Metal_of_Triosk|Deep forests and dark hills]]''' wind of fortune
+* Passed
+==Date==
+* Autumn 385YE
+==Cost==
+* Costs as per wind of fortune
+* 16 wains of mithril
+* 6 thrones
+* Three months to complete
+==Progress==
+{{CommissionProgress|Triosk_Metal_Exchange}}
+==Outcome==
+* Now complete the title of [[Eagle of Triosk]] will be appointed by [[Tally of the Votes]] for the first time at the Winter Solstice 385YE

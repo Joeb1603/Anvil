@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:387YE Winter]]
+__NOTOC__
+<quote by="Proposed: Necropolis, Seconded: Mournwold">To commission the sinecure: Haros Riverpatrol
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in Haros Water, Reikos
+* Passed
+* More information can be found in the '''[[The price is great]]''' wind of fortune
+
+==Date==
+* Winter 387YE
+
+==Cost==
+* Costs as per opportunity
+* 15 wains of weirwood
+* 45 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Haros_Riverpatrol}}
+==Outcome==
+* Once complete, the ''Coursguard'' will be available to appoint by [[Tally of the Votes]] of Highborn [[congregation]] owners

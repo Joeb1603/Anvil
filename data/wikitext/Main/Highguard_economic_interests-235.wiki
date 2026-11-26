@@ -1,0 +1,23 @@
+<quote>“The pursuit of wealth is the foundation of suffering.”</quote>
+<div {{float}}>
+{{CaptionedImage|file=ProsperityCantiarch.png|title=Lyaconia of Cantiarch's Hold considers her next move.|caption=The Prosperous are not selfish; all that is worthwhile is shared with those who deserve it.|width=500|align=right}}</div>
+==Overview==
+There is a deep-seated distrust of the pursuit of wealth for its own sake amongst the Highborn. Highguard is founded on the concept that only action can be virtuous, and their culture rewards assiduous effort and self-improvement. “Wealth” by itself is a passive force; usury – charging interest on a loan – is considered despicable because the lender has no active role in what transpires.
+
+In place of the moneylenders common elsewhere, the Highborn are proud of their [[Benefactor|benefactors]]. Often older merchants, benefactors make their wealth work for themselves and others. They try to encourage virtue by acting as patrons to other merchants. They may help a young trader get established, or participate in a risky but ambitious venture that has potential benefits beyond purely economic ones. Rather than lending money and charging interest, benefactors invest in enterprises and in individuals, sharing the risk – and sharing the profits.
+
+Gambling on games of chance is as dubious as usury, since there is no action the participants can take to improve their chances of winning other than to cheat. That said, the Highborn love to wager on contests of skill, whether they are participating or not. Professional book-keepers collect wagers and distribute winnings, taking a small percentage for their service; some specialise in organising contests and competitions specifically to encourage wagering.
+
+Permanence is a civic virtue in Highguard and there is no doubt that the nation produces the best architects and masons in the Empire. The quarries of Casinea produce a breathtakingly beautiful marble that absorbs heat when it is warm and exudes it when cold, making it the ideal building material. Other crafts include the creation of decorative mosaics and fabrics with complex geometric patterns. The Highborn also produce fine quality paper and coloured inks, used extensively to record the histories and archives of the nation.
+
+==Benefactors' Council==
+* '''The Council of Benefactors can direct up to twelve wains a season to any commission''' 
+* '''The donations are currently going to the Grand Inspiration of the Way, '''
+* '''The Council of Benefactors meets at 11:00 on Saturday and Sunday of the summit'''
+
+Since the death of [[Empress Britta|Britta]], the Council of [[Benefactor|Benefactors]] has played an important role in the nation, pooling the resources of some of the most wealthy Highborn citizens and providing backing to crucial projects that might otherwise have gone without. The donations were initially arranged to [[[[A_peerless_sacrifice#A_Virtuous_Benefaction|provide white granite]] for the [[Construct_Grand_Inspiration_of_the_Way|Grand Inspiration of the Way]]. However, they were [[Push_for_victory#Nothing_Short_of_Exemplary|Inspired]] by [[Emperor Vesna|Emperor Vesna's]] exemplary [[Vigilance]] and [[Ambition]] and now the wealthy Highborn who support the decisions of the Council are prepared to provide whatever support is needed, donating up to twelve wains to any single commission identified by the Council of Benefactors each season.
+
+There are two formal meetings of the Benefactors' Council at each summit, at 11:00 on Saturday and Sunday morning. They are likely to be held in the main tent of the [[Highguard_groups#The_Shattered_Tower|Shattered Tower]]. If the Council want to change where their nation's donations are going, then they must ensure that their [[egregore]] is present when they make the decision. The egregore will make a note of the decision and pass word on to the other benefactors in the nation. If there is some debate over the decision, then the egregore will expect a decision to be taken by a simple majority vote of those present who are well known for their role as benefactors. The egregore will check the Highborn records if there is any doubt about a citizen's status.
+
+Any character with the benefactor archetype may vote on the decision. Whichever commission is chosen, the people of Highguard will donate twelve wains towards it, each season, until it is complete. They will continue to support that commission until the Council of Benefactors nominates a new commission to receive the support of the nation.
+{{Highguard Links}}

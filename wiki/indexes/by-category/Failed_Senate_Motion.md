@@ -1,0 +1,51 @@
+---
+title: Category:Failed Senate Motion
+source: https://www.profounddecisions.co.uk/empire-wiki/Category:Failed_Senate_Motion
+members: 41
+---
+
+# Category: Failed Senate Motion
+
+## Pages (41)
+
+- [Abrogate Trade Envoys](../../in-character/senate-motions/Abrogate_Trade_Envoys.md) (in-character)
+- [Accept Barrens peace treaty](../../in-character/senate-motions/Accept_Barrens_peace_treaty.md) (in-character)
+- [Accept Druj peace treaty](../../in-character/senate-motions/Accept_Druj_peace_treaty.md) (in-character)
+- [Accept Grendel peace treaty](../../in-character/senate-motions/Accept_Grendel_peace_treaty.md) (in-character)
+- [Accept Iron Confederacy treaty](../../in-character/senate-motions/Accept_Iron_Confederacy_treaty.md) (in-character)
+- [Allocate Great Forest](../../in-character/senate-motions/Allocate_Great_Forest.md) (in-character)
+- [Allocate the Singing Caves III](../../in-character/senate-motions/Allocate_the_Singing_Caves_III.md) (in-character)
+- [Allocate the Vigilant Swan](../../in-character/senate-motions/Allocate_the_Vigilant_Swan.md) (in-character)
+- [Amend conditions of Brock's Buffet](../../in-character/senate-motions/Amend_conditions_of_Brock-s_Buffet.md) (in-character)
+- [Amend powers of Conclave](../../in-character/senate-motions/Amend_powers_of_Conclave.md) (in-character)
+- [Amend powers of the Imperial Seer II](../../in-character/senate-motions/Amend_powers_of_the_Imperial_Seer_II.md) (in-character)
+- [Amend Powers of the Master of the Imperial Mint](../../in-character/senate-motions/Amend_Powers_of_the_Master_of_the_Imperial_Mint.md) (in-character)
+- [Amend powers of Warmage](../../in-character/senate-motions/Amend_powers_of_Warmage.md) (in-character)
+- [Amend the use of the Imperial breadbasket II](../../in-character/senate-motions/Amend_the_use_of_the_Imperial_breadbasket_II.md) (in-character)
+- [Appoint Throne III](../../in-character/senate-motions/Appoint_Throne_III.md) (in-character)
+- [Construct a memorial at Anvil](../../in-character/senate-motions/Construct_a_memorial_at_Anvil.md) (in-character)
+- [Construct mana repository in Morrow](../../in-character/senate-motions/Construct_mana_repository_in_Morrow.md) (in-character)
+- [Construct Mercantile Exchange in Temeschwar](../../in-character/senate-motions/Construct_Mercantile_Exchange_in_Temeschwar.md) (in-character)
+- [Construct Ministry for Jarmish Slaves](../../in-character/senate-motions/Construct_Ministry_for_Jarmish_Slaves.md) (in-character)
+- [Construct Mountains of the Moon spy network](../../in-character/senate-motions/Construct_Mountains_of_the_Moon_spy_network.md) (in-character)
+- [Construct Reinos Spy Network](../../in-character/senate-motions/Construct_Reinos_Spy_Network.md) (in-character)
+- [Construct Sumaah embassy](../../in-character/senate-motions/Construct_Sumaah_embassy.md) (in-character)
+- [Create title of Chaplain Military](../../in-character/senate-motions/Create_title_of_Chaplain_Military.md) (in-character)
+- [Create title of Imperial Harbourmaster](../../in-character/senate-motions/Create_title_of_Imperial_Harbourmaster.md) (in-character)
+- [Creation of an Imperial lottery](../../in-character/senate-motions/Creation_of_an_Imperial_lottery.md) (in-character)
+- [Disburse funds for summer college](../../in-character/senate-motions/Disburse_funds_for_summer_college-5771.md) (in-character)
+- [Disburse funds to nominated entity](../../in-character/senate-motions/Disburse_funds_to_nominated_entity.md) (in-character)
+- [Disburse funds to raise Towerjacks](../../in-character/senate-motions/Disburse_funds_to_raise_Towerjacks.md) (in-character)
+- [Disburse funds to Senator Sarvos](../../in-character/senate-motions/Disburse_funds_to_Senator_Sarvos.md) (in-character)
+- [Disburse funds to Ywain de Gauvin](../../in-character/senate-motions/Disburse_funds_to_Ywain_de_Gauvin.md) (in-character)
+- [Extension of Jotun Ceasefire](../../in-character/senate-motions/Extension_of_Jotun_Ceasefire.md) (in-character)
+- [Fortify Miekarova](../../in-character/senate-motions/Fortify_Miekarova.md) (in-character)
+- [Fortify Southmoor](../../in-character/senate-motions/Fortify_Southmoor.md) (in-character)
+- [Nomination of Hector to the Imperial Throne](../../in-character/senate-motions/Nomination_of_Hector_to_the_Imperial_Throne.md) (in-character)
+- [Outlaw trade with slaving nations](../../in-character/senate-motions/Outlaw_trade_with_slaving_nations.md) (in-character)
+- [Propose treaty of limited warfare to the Jotun](../../in-character/senate-motions/Propose_treaty_of_limited_warfare_to_the_Jotun.md) (in-character)
+- [Protection for delegations](../../in-character/senate-motions/Protection_for_delegations.md) (in-character)
+- [Raise Dawnish army](../../in-character/senate-motions/Raise_Dawnish_army.md) (in-character)
+- [Raise Wintermark army](../../in-character/senate-motions/Raise_Wintermark_army.md) (in-character)
+- [Re-employ civil service historical researchers as prognosticators](../../in-character/senate-motions/Re-employ_civil_service_historical_researchers_as_prognosticators.md) (in-character)
+- [Repair the docks at Caricomare](../../in-character/senate-motions/Repair_the_docks_at_Caricomare.md) (in-character)

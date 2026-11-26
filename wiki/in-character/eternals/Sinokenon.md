@@ -1,0 +1,117 @@
+---
+title: Sinokenon
+source: https://www.profounddecisions.co.uk/empire-wiki/Sinokenon
+class: in-character
+topic: eternals
+categories:
+- Eternals
+last_edited: '2026-07-07T21:51:46Z'
+revision: 141417
+in_character_boxes: 11
+---
+
+# Sinokenon
+
+> *In-character text:*
+>
+> Unity is not a virtue. But it has never said it was, I suppose.
+
+*[Image: The Turning Mirror favours societal structures based on loyalty, and clear hierarchies.](https://www.profounddecisions.co.uk/empire-wiki/File:SinokenonArt.jpg)*
+
+## Eternal of Day
+
+### Sobriquets
+
+Sinokenon is apparently a word in an extinct language meaning *Unity*. It is often referred to with a name that translates as some synonym of "unity" in an appropriate local language.
+
+Other common names include *The Apex Hyperion*, *Friend Of All*, *Silver Sovereign*, *Singular Point*, *That Which Lies Above All*, *The Way of Hierarchy*, *Diamondmind*, and *That Which Lives In Its Name*. Other names reflect its interest in predictable change, such as *The Argent Mantra*, *The Turning Mirror*, *Tomorrow And Tomorrow* or *The Wheel Of Light*. Although some depictions of it superficially resemble the full moon, it strongly rejects any such comparison, and one way to raise this eternal's wrath is to reference this with a name such as *Old Master Moon*, *Lunar Silver*, or any of a number of such epithets.
+
+Some older texts call it *The Throne of the Sun*, but some scholars claim this is an incorrect translation from an older tongue. They argue that the word "Throne" in this name more properly means "that which holds in place", and related words mean something akin to "law", "binding", or "the way of reality". According to this viewpoint, it would be more proper to call Sinokenon *That Which Holds The Sun In Place*. Opponents of this view point out that the sun is very much *not* held in place, moving across the sky from east to west each day. The emergence of the [Cold Sun](Cold_Sun.md) in 385YE has caused some scholars to revisit what was once an academic discussion; there is some speculation that it hints at a relationship between Sinokenon and this "new" eternal.
+
+In the Commonwealth they refer to it as *die Einheit*, and have cordial relations with it and its ministers, while in [Asavea](../foreign-nations/Asavean_Archipelago.md) magicians call it *il Sovrano* and claim it as a magical patron of their Plenum. In [Sumaah](../foreign-nations/Sumaah_Republic.md) by contrast, it is called *Dumma måne* or *Stupid Moon*, and contact is forbidden by the House of [Vigilance](../religion/Vigilance.md).
+
+## Appearance
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > It is not a mirror. This is the first and most important lesson. Learn it, and keep your life.
+> >
+> > ''The Book of the Old Sun'', Constantia of Canterspire
+
+As with [Leviathan](Leviathan.md), few mortals claim to have actually seen Sinokenon directly. It is usually encountered as a blinding light and a clear voice. Occasionally magicians have described encounters with a great turning mirror, a shimmering sphere, or mass of rings that are in constant motion. Some even speak about encountering a metallic construct or a stern but calm figure, usually in the garb of [Highguard](../nations/highguard/Highguard.md), [Urizen](../nations/urizen/Urizen.md) or [Navarr](../nations/navarr/Navarr.md), but most scholars believe these are confused encounters with heralds acting on Sinokenon's behalf. Most audiences involve high-ranked bureaucrats of Sinokenon's vast *Sovereign Ministry*, in which each herald occupies a strict and proper place so that the *Apex Hyperion* might most efficiently discharge its will. While no herald of Sinokenon would conceive of disobeying it, its will is often slow to manifest. Outside of their clear instructions from above, the ministers of *That Which Is Above All* often pursue their own agendas and advancement within the hierarchy, and may send out their own servants in turn to deal with mortals.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > it is not of the sky - it is the firmament itself.
+> >
+> > ''A Chave e o Portão'', author unknown
+
+Most accounts of the realm of Day agree that it is split into "levels" - the waters that form the foundation are the domain of [Leviathan](Leviathan.md); the point where the sky and the sea meet contains the demesnes of [Roshanwe](Roshanwe.md), [Zakalwe](Zakalwe.md), and [Ylenwe](Ylenwe.md); and the skies is the domain of [Phaleron](Phaleron.md), [Kimus](Kimus.md), and Sinokenon. Most sources agree that it Sinokenon itself is strongly associated with the highest point of the realm, as Leviathan is located with the deepest. Some ministers of *Turning Mirror* claim that "the highest point of the Day realm" and "Sinokenon" are two ways of saying the same thing. When servants of the Sovereign Ministry are asked about where, exactly, the domain which they govern from is to be found, they simply smile, and explain that they operate "from within the Silver Directorate itself" or "within and with all necessary authority". They do not act as if they are concealing a secret nor creating a mystery - such things are anathema to Day. Whatever they mean by these explanations, it is clear that they hold the truths contained within to be self-evident.
+
+## Concerns
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > What is, is. The world is the world is the world. It is what it is.
+> >
+> > ''The Book of the Old Sun'', Constantia of Canterspire
+
+Sinokenon has two main concerns; the creation and operation of hierarchies, and the concept of predictable change. It encourages others to band together, usually into hierarchical societies but not always. While Sinokenon likes defined hierarchies (and clearly believes they are the best social model), it encourages individuals to form communities and create something greater than the sum of the parts.
+
+According to certain ministers, Sinokenon itself knows that every society has a single correct form: that they should all be "like unto a perfect lattice, contained within a greater lattice". In simple terms: all should have a place, and be in their right place, and have those who owe fealty to them and those to whom they owe fealty in turn. That is simply the best way of running society; it is self-evident; all other ways of structuring a society will eventually fail and prove the correctness of this position. However, a society must not be forced to adopt this approach. It encourages individuals to form communities and create something greater than the sum of the parts, believing that, over time, they will slowly begin to see the evident and total wisdom of the strictly hierarchical approach it prescribes.
+
+Sinokenon strongly opposes radical or revolutionary urges. While it is in principle happy to engage with post-revolutionary societies after they have ceased their period of extreme instability, it will turn its face from any place undergoing such events. It believes strongly that traditional practices are good and ought to be maintained unless a full justification can be given for their ceasing, because they are manifestations of truths forgotten.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Full is the fool who fetches the fence from their field without first finding full favour for the farmer who laid its foundation.
+> >
+> > ''The Silver Book'', a heretical collection of the teachings allegedly derived from the Apex Hyperion
+
+It is fascinated by the idea of [loyalty](../religion/Loyalty.md), and the way that the Empire has put it close to the heart of its society. It believes that the ideal hierarchy has leaders who are responsible to those they lead and those who in turn lead them. The ideal laws are those that encourage behaviour that supports society, and that promote the good of the many over the needs of the few, or the one. However, it disapproves of the way that the Empire encourages people to decide for themselves where their loyalties lie, and its ministers compare this habit to throwing a lodestone into a fire until it forgets itself. It is far better, in the eyes of the Silver Ministry, for all loyalties to be ultimately directed in one direction, towards one purpose. For this reason, it favours autocracy over more republican and democratic forms of government. It is apparently very interested in the philosophy of Leonitz Altmann which forms the basis for the Commonwealth's shared unity, and it has a particular fondness for the daeva of that land. It sees the daeva's natural inclination towards "making the world a better place", along with their relatively short life spans in which they might achieve this, as an excellent vehicle for continuous, steady improvement.
+
+Its interest in slow changes extends beyond the societal. It promotes the idea that sudden change or change for its own sake is as damaging as stagnation. It believes that perfection is inevitable, and that each person has the potential to reach their perfect state, to be the perfect piece within the perfect hierarchy. Something that is ideal no longer needs to change, because it has reached its apex. Sinokenon's ministers imply that to reach the truest ideal state is what it means to be Sinokenon, and only It can achieve this. Sinokenon is known to be fascinated by the Imperial faith and the idea of individual (and thus presumably societal) perfection through multiple reincarnations: it chimes with its belief in eventual idealism. Frustratingly, it has little interest in theological discussions, being more interested in examining the structures of the [Synod](../../mixed/government/synod/Synod.md) than discussing the philosophy of the Way. It simply believes that there is a way things are and a way they ought to be, and anything that can prepare the path there - such as the refinement of a soul over multiple lifetimes - is of course useful to that end.
+
+Sinokenon also encourages the idea that the future can be extrapolated from current or past events. By studying the way events unfold, it is possible to learn to predict what will happen in response to certain other events. If it has an obvious blind spot, it is that it underestimates the ability of individuals to disrupt situations, or exert unpredictable influence over events. It has made suggested in the past that it is prepared to help civil service prognosticators with their projections, but a combination of this weakness in its models and the fact it requires those it aids to submit to its authority, have meant they have not been taken up save in the most limited ways.
+
+The Empire is, fundamentally, of interest to Sinokenon because it sees in it an aspiration to create an ideal society. It is also known to be fascinated by several foreign nations, especially [the Commonwealth](../foreign-nations/Commonwealth.md), approving of their ambition to unite everyone into a single society. It is reported to be fascinated by the [Sumaah Republic](../foreign-nations/Sumaah_Republic.md), apparently seeing something that mirrors its own self in their strongly ordered society which aspires towards a perfect form. The Sumaah, for their part, view it as a dangerous entity that seeks to assume control of the entire world and as such proscribe interaction with it. Indeed, given the way the eternal's ministers talk about hierarchy and lattices, their caution might not be misplaced.
+
+## Boons
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > You can't trade with it. That isn't how the relationship works. Trade is a thing that equals do together.
+> >
+> > ''The Book of the Old Sun'', Constantia of Canterspire
+
+Sinokenon is adept at creating bonds between individuals, and has special interest in [covens](../../out-of-character/rules/Bands.md#covens), [banners](../../out-of-character/rules/Bands.md#banners) and other forms of [band](../../out-of-character/rules/Bands.md#bands). It seems to dislike temporary co-operation and instead prefers individuals to form groups of increasing size and complexity. It sometimes fosters cooperation between such groups, and has in the past lent crystal orbs that function in a manner similar to a [Web of Celestial Attunement](../../mixed/magic/items/Web_of_Celestial_Attunement.md), which are called "Wheels Within the Wheel". On a few occasions it has helped individuals come together to form different types of bonded group, providing a boon that mirrors the [Arcane Mark](../../mixed/magic/rituals/Arcane_Mark.md) effect combined with an ability similar to [Traitor's Fate](../../mixed/magic/rituals/Traitor-s_Fate.md) that can only be invoked on those members below one in the group hierarchy.
+
+It is known to be fascinated by the [egregores](../../out-of-character/crew/Egregores.md), which serve as foci to help unite a large group of people. According to some reports, it sent ministers to speak to the [Freeborn](../nations/the-brass-coast/The_Brass_Coast.md) magicians who developed the original ritual, to encourage them to create spirits capable of uniting individuals into a strict hierarchy. They received short shrift; the Freeborn had no interest in perverting their magic. It tried again when the [Urizen](../nations/urizen/Urizen.md) created their own egregore and while there was slightly more interest in an effect that might make it easier for members of the nation to cooperate with one other, Sinokenon's aid was ultimately politely declined.
+
+The *Apex* is able to slow or reverse transformations, but also to encourage changes that it considers help an individual move towards their ideal state. In particular, Sinokenon can offer ways to decrease the expression of a person's [lineage](../../mixed/magic/lore/Lineage.md) if they consider the touch of the realms upon them has grown beyond their liking. It also likes to encourage changes that help an individual move towards their ideal state. It has in the past sent ministers to listen to the troubles of the powerful, offering counsel and allowing them to unburden wild emotions into the still mirrors of Day. There are said to be places in the mortal world that are dedicated to this purpose - usually containing Day [regio](../../mixed/magic/rituals/Regio.md) - and at these places it is easy for people to unburden unwelcome emotions, dull aching hearts, and find clarity. This is the gentler form of what is otherwise a relatively strange and potentially troubling Eternal: but it is no less part of its remit.
+
+On a more mundane level, Sinokenon has a great many agents and servitors that form part of its hierarchy. Its senior ministers are powerful in their own right, with their own domains and areas of expertise and control, but it is also able to offer the assistance of supernatural warriors. One boon that has been seen several times is a focus that makes it easier to perform [Carve the Crystal Guardian](../../mixed/magic/rituals/Carve_the_Crystal_Guardian.md), embodying spirits of the Day realm to fight in mortal conflicts. This represents a pattern in Sinokenon's military aid; it prefers to support individual [warbands](../../out-of-character/rules/Military_unit.md) rather than empower entire armies - an approach referred to by one minister as "Raising the Foundation". It is rumoured, though never confirmed, that in the peak of the desperation of Empress Brannan, she met with Sinokenon and asked it for an army from its realm, to be under her personal command. It replied that it would agree to the request: if she would swear fealty to it, and grant it the Imperial Crown as a concrete act of fidelity. If this truly ever happened, clearly, the Empress clearly did not agree to its offer.
+
+Sinokenon also has access to a great deal of information, especially about societies, political structures, and large-scale events. If it has a weakness it is that it is better at suggesting developments and outcomes in the future than discussing the causes and subtleties of events. Interestingly, some Apulian [orc](../../mixed/world/Orc.md) practitioners of "[Sky magic](../barbarians/Grendel.md#magic)" have their own stories of Sinokenon. There is apparently a legend that a minister of the eternal was involved in the events that brought together the scattered tribes of [Attar](../world/Bay_of_Catazar.md#the-broken-shore-and-attar), that would one day become the [Grendel](../barbarians/Grendel.md). If the stories are to be believed, it offered counsel and support to the orcs working to unite the tribes under their banner. Apparently that same minister's advice is still sought by Grendel magicians to this day, providing them with limited access to a predictive ability that in very narrow ways mirrors the abilities of the civil service prognosticators.
+
+## Further Reading
+
+- [Dream to me](../winds-of-fortune/Dream_to_me.md#sinokenon) - 386YE Spring plenipotentiary response
+- [Hopeless as a feather](../winds-of-fortune/Hopeless_as_a_feather.md#sinokenon) - 384YE Autumn plenipotentiary response
+- [The bird and the child](../winds-of-fortune/The_bird_and_the_child.md#sinokenon) - 384YE Spring plenipotentiary response
+- [Between the lines of ages](../winds-of-fortune/Between_the_lines_of_ages.md#sinokenon) - 383YE Summer plenipotentiary response
+- [Bury the hatchet](../winds-of-fortune/Bury_the_hatchet.md#sinokenon) - 382YE Summer plenipotentiary response
+
+---
+
+Categories: [Eternals](../../indexes/by-category/Eternals.md)

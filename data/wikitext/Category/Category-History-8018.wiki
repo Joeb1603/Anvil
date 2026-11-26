@@ -1,0 +1,5 @@
+<div style="float:right; width: 300px; clear: right;">{{CaptionedImage|file=Leontes.jpg |caption=Leontes the Scribe, [[the Marches|Marcher]] scholar and Imperial Archivist, oversees the Department of Historical Research|align=right|width=300}}</div>
+==Overview==
+This category contains two broad classes of page:
+* Essays and [[historical research]] documents detailing with past events. A list of historical research projects commissioned since the start of the campaign can be found in  the [[Historical_research#Recent_Historical_Research|recent historical research]] list. 
+* Pages concerned with historical figures such as previous Thrones, or Alderei the Fair. Right now this explicitly does ''not'' include primarily religious figures who are known mainly as [[paragons and exemplars]], except where there has been significant historical research in play.

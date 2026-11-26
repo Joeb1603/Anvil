@@ -1,0 +1,25 @@
+[[Category:Senate Motion]][[Category:387YE Winter]]
+__NOTOC__
+<quote by="Proposed: Sermersuaq, Seconded: Madruga">The Beacons of Wintermark <u>must</u> be completed. We shall construct the final set within Sermersuaq. As part of this commission we call upon a boon provided by Cathan Canae in recognition of our resilience against two armies of Oblivion.
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Sealtoq, Sermersuaq
+* Passed
+* More information can be found in the '''[[Farm,_fur,_and_fish#Extraneous_Castles|Farm, fur, and fish]]''' and '''[[Tales_of_imagination#Wolves_and_Bears_(Cathan_Canae)|Tales of imagination]]''' winds of fortunes
+
+==Date==
+* Winter 387YE
+
+==Cost==
+* Costs as per opportunity
+* 30 wains of white granite
+* 25 wains of weirwood
+* 165 crowns in labour costs
+* Six months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Beacon_of_Sermersuaq}}
+==Outcome==
+Now complete, the Beacons of Sermersuaq have the following effects:
+* [[military unit|Military units]] are able to [[Military_unit#Guarding|guard]] the beacons of [[Sermersuaq]]
+* [[Cathan Canae]] will send the ritual text of ''Drums of the Iron Harpoon'' to the [[Narwhal's Spear|General of the Narwhal's Spear]] at the Summer Solstice 388YE

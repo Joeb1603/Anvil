@@ -1,0 +1,262 @@
+---
+title: Our eyes in Spiral
+source: https://www.profounddecisions.co.uk/empire-wiki/Our_eyes_in_Spiral
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 387YE Spring
+- Recent History
+event: 387YE Spring
+last_edited: '2026-06-03T20:48:01Z'
+revision: 139759
+in_character_boxes: 8
+---
+
+# Our eyes in Spiral
+
+> *In-character text:*
+>
+> Mairi duSesna staggered through the vaulted archway next to the docks, stumbling drunkwise, mind elsewhere, and when she walked straight into the two hooded figures by the bridge it seemed to take all of them by surprise. "Sorry!" The orc cheerfully waved her wine bottle as she went on to continue her revels elsewhere - she'd heard a particular interesting play was on this season...
+>
+> The two hooded figures looked at each other as they picked themselves up and she passed by. The first one, a slender merrow named Julius, raised his eyebrow. "Do you have that one on the list, Esau? Mairi, I think." Long dextrous fingers retrieved a notebook from within his robes. "Yes, here we go. Reckoner. DuSesna guild. A little strange for her to be out this side of town, but I suppose everyone is getting lost these days, aren't they? Any concerns in your investigations?" He gave Esau one of his trademark intense merrow-eyes ink-black stares.
+>
+> Esau blushed slightly. He still hadn't quite gotten over how beautiful Julius was, nor plucked up the courage to ask him if he ever did anything with his free time other than, well, the good work of the Vigilant. He thought he would quite like to take him to the "garlic and shots" bar that had just opened near the eastern gate. Still, Julius would appreciate a professional face, even if - as Esau dared to hope - he had room for things in his life other than the obsessive pursuit of the guilty. The stocky man took out his own notebook.
+>
+> "Yes, um - yes, we followed her up before, it says it right here in my book, but it was all in order. Bad lead, we thought. We followed down that lead and it led us right to that den of - you know, they had those rocks that they'd got from, um, from up..." For one moment, he looked in the direction that the howling scream was, the one you didn't say the name of, the one that you tried to pretend didn't exist but which was always there. "Anyway, it turned out they'd only put us onto her because they were trying to cover up their, uh, I suppose you could call it a cu-"
+>
+> "It wasn't a cult. Cults do the dignity of being organised. It was some naifs who'd managed to get hold of some fragments from - up from Screed, and who thought a geology investigation club was a good idea." He looked down his nose at the shorter man. Esau shivered a little. "I don't mean to be funny, but this is exactly why the League can't be trusted with guarding the - it. I'm just glad we have the Oblivion Sentinel doing their job. Don't you think?"
+>
+> "Oh! Um, yes, Julius!" Esau wasn't sure really. Most people, it seemed, were doing their best here to remain virtuous under trying conditions, but everyone stumbled sometimes. They weren't sure it would have been that much better even if the territory had been assigned to Urizen. Still, they weren't fantastically inclined to argue. "Quite so, Julius. So, um - another note of concern by Mairi? Or shall we leave it?"
+>
+> Julius looked in his own notebook, at the rows and rows and rows of neat little names written in a neat little hand. The problem was finding anyone in this city who was definitely not up to *something*, and working out what was legal mountebankery and what was something rather more sinister was irritatingly difficult. He neatly drew a little dot next to the orc's name. "Stick a dot of mild concern. Let's move position and see what we can see from a different place. Somewhere in the east, I think. Any suggestions?"
+>
+> "Ah! There's a - you know, I think I spied a great location there the other day. How do you feel about, uh, garlic and shots?" Esau's voice was slightly hopeful.
+>
+> "I don't have any opinion on them. Vigilance demands I form one. Do you know the way?" Nodding and taking a stride, Esau let out a mighty cheer inside his head.
+
+*[Image: Berechiah is a controversial figure, but his inspiration has an undeniable effect on the virtuous, helping them pinpoint threats and prioritise success over squeamishness.](https://www.profounddecisions.co.uk/empire-wiki/File:Berechiah.jpg)*
+
+## Overview
+
+In Spring 386YE, the [Vigilance](../religion/Vigilance.md) Assembly encouraged the faithful to travel to [Spiral](../nations/the-league/Spiral.md) to look for threats to the Empire's rule. The mandate took advantage of the [impact of the true liao consecration](Knocking_on_every_door.md#shine-a-light) of the damaged basilica in [Bastion](../nations/highguard/Bastion.md) in the name of the [exemplar](../../mixed/government/synod/Paragons_and_exemplars.md) of [Vigilance](../religion/Vigilance.md), [Berechiah](../religion/Berechiah.md). There was no suggestion of what these threats might be, so rather than search for anything specific, the Vigilant were forced to split up and spread out across the territory. This was dangerous, splitting up always increases the risks, but it is all the more so in Spiral, where the malignant influence of the Black Plateau is never far away.
+
+Splitting up was judged to be essential, not least because the malign presence at the heart of [Screed](../nations/the-league/Spiral.md#screed) itself clearly represents a major threat - it would have been entirely remiss of the Vigilant to ignore it. But they could not afford to focus on the Black Plateau alone. [Apulian](../nations/the-league/Spiral.md#apulian) is a major city now; any urban centre is invariably a hotbed of intrigue, but Apulian used to be a [Grendel](../barbarians/Grendel.md) city and there are hundreds of former Grendel still living there. Finally there was the presence of the [Urizeni](../nations/urizen/Urizen.md) rebels in [Cinion](../nations/the-league/Spiral.md#cinion) and [Ankra](../nations/the-league/Spiral.md#ankra). The Empire had just [ratified a treaty](../senate-sessions/386YE_Spring_Equinox_Senate_sessions.md#ratify-treaty-with-urizen-of-the-silver-flame) with the [rebels](A_question_of_loyalty.md#serve-your-cause), but that didn't mean they were not a threat. Fortunately the Imperial Conclave had elected to send members of the [Shuttered Lantern](../conclave-sessions/385YE_Winter_Solstice_Conclave_sessions.md#concord-shuttered-lantern-to-spiral) to Spiral, so any threat there should already have been identified. Still... you can never be too careful.
+
+The initial expectation was these investigations would be rushed affairs that caused immense disruption, but it hasn't turned out that way. It seems that the Vigilant have taken a more *thorough* approach, one that has yielded results where there were results to be had, but has taken time to come to fruition. The advantages of this approach are clear - the Assembly can be confident that while nobody could find every threat, they have done the best that could be achieved without a clear target being named. And crucially because of the slower, more subtle pace adopted by the followers of [Berechiah](../religion/Berechiah.md), there has been little or no disruption to local lives that was originally expected.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We prepare for malice, but must always thwart malice before it strikes against you. We send Lievevos van Houten van Holberg with 25 liao to Spiral to urge all vigilant citizens to seek out threats and drag them into the light.
+> >
+> > Lievevos van Houten van Holberg, Vigilance Assembly, Spring 386YE, Vote: 186-0
+
+*[Image: The influence of the Black Plateau is insidious, but it also draws dangerous individuals to it like foolish moths to a sinister flame of madness.](https://www.profounddecisions.co.uk/empire-wiki/File:Obsidian.jpg)*
+
+## The Black Plateau
+
+- **The fools attempting to arrange guided tours of the Black Plateau have stopped**
+- **There are no active threats here, but the thing remains incredibly dangerous**
+- **The Black Plateau will always exude a malignant aura that pulls some to it**
+- **The Empire could take steps to wall it off which would prevent new threats developing**
+
+The Vigilant have spent some time studying the malignant volcanic crater at the heart of the territory, the accursed location more commonly known as the Black Plateau. After almost a year spent watching the place they are certain there are no active threats here at the moment, but they caution anyone against complacency. The Black Plateau remains incredibly dangerous and new threats will continue to develop in a way that is entirely unpredictable way that is difficult to prevent. They see three broad categories of danger, which they've loosely categorised as the naifs, the lost, and the enemy, which they think help to understand the risks posed. They also have a number of suggestions for how they might be dealt with.
+
+#### The Naifs
+
+There are, sadly, a handful of people in this world who are just fools. These naifs are just oblivious to the risks, or worse they're convinced they're so smart it won't happen to them. Normally this kind of fool is not a risk to anyone but themselves unless they convince people to make them archmage. But the Black Plateau makes them a danger to everyone, even without being given any power. There will always be *someone* who wants to poke it.
+
+> *In-character text:*
+>
+> **Naifs**  
+>
+> - **Potential Risk:** Current Sentinel is excellent but potential exists to be replaced by a naif
+> - **Recommendation:** Careful watch of any new appointee to ensure they are scrupulous in their duties
+>
+> - **Potential Risk:** Well meaning effort to fix the Black Plateau or draw on its power in some way
+> - **Recommendation:** Immediate elimination of anyone who suggests any interaction with the Black Plateau
+
+The [Company of the Venturesome Harrier](The_city_below.md#a-marvellous-view-conjunctions) are a *perfect* example of this kind danger. These asinine buffoons decided to organise guided tours of the Black Plateau, the clear danger it posed didn't put them or their naïve customers off - the danger was the point. It didn't help in the slightest for the League Assembly to urge people to avoid the Black Plateau because only sensible people listen to their Assembly. Most people are sensible - most people listen to their assembly when it warns them not to do something that will get them killed - but not your average naif. For the Venturesome Harrier, the warning was just free advertising. It helped to keep sensible people away, but even the powerful Synod can't change human nature - someone, somewhere will always put their hand in the fire just to see what happens.
+
+The risk posed by naifs is not that great. For the most part they don't have some grand plan, and they are too small in number to risk further rousing the Black Plateau. Rescuing them or cleaning up the mess they make will remain a sporadic problem for the Oblivion Sentinel to have to deal with, but arguably that is what the title exists to do. It's impossible to tell when this problem will recur, the Empire might go years without it being an issue, or it could happen next season. All you can be sure of is that it will happen again, at some point.
+
+The real danger would be if some naif got a position of real power or influence that would let them tamper with the Black Plateau - any [archmage](../../mixed/titles/Archmage.md), the grandmaster of the [Unfettered Mind](../../mixed/government/conclave/Unfettered_Mind.md), or the [Oblivion Sentinel](../../mixed/titles/Oblivion_Sentinel.md) all carry obvious risks. The Vigilant strongly recommend that anyone in such a position who suggests "fixing", "experimenting with", "researching", or "looking into" the Black Plateau be immediately dealt with before they can do any harm.
+
+#### The Lost
+
+There are numerous sad tales of individuals who have succumbed to the malign influence of the Black Plateau over time. The plateau feeds on and amplifies negative emotions - especially hate, rage, fear, and despair. It can make you hallucinate, it infects your dreams and fills them with nightmares. Its baleful touch breeds suspicion, doubt and eventually paranoia in everyone who lives in Spiral leading to the very emotions it feeds on. One of the Vigilant points out that if the Black Plateau were alive then you could imagine it was breeding people so that it could it feed on their dark emotions the way a farmer breeds cattle.
+
+> *In-character text:*
+>
+> **Lost**  
+>
+> - **Potential Risk:** Current Sentinel lacks the resources to overcome the threat posed by a large group who are Lost
+> - **Recommendation:** Immediate increase in funding and resources for the Oblivion Sentinel
+>
+> - **Potential Risk:** Lashonar, Janon, Azoth, and the Whisper Gallery could all encourage the Lost
+> - **Recommendation:** Enmity these three eternals (the Whisper Gallery is already under enmity).
+
+The [Spire of the Black Plateau](Obsidian_shards.md#blood-and-black-glass) were the perfect example of this. This isolated spire was set up by several dozen disgruntled sentinels who left the Citadel Guard to take over an abandoned spire on the border between Ankra, Cinion, Ossuary, and Screed. Somewhat ironically they created their spire as naifs, believing that they were the only ones who could save the world from the corruption of the Black Plateau. Instead the cursed emanations of the Black Plateau robbed them of their senses and their humanity and they became Lost. Once that happened they attacked the Empire and there was no other way to deal with them than to send them to the Labyrinth and hope that they fare better in their next life.
+
+The number of Lost have diminished in recent years due to the creation of [the Block](../nations/the-league/Spiral.md#the-block), a great mithril structure housed within a circle of blasted and burnt trees that is a powerful locus of [Winter magic](../../out-of-character/rules/Winter_magic.md). The Block can't overcome the power of the Black Plateau directly, its power is only a fraction of that, but any spire built in the territory with the correct web of mithril nodes is able to draw on the energy emanating from it protect the inhabitants of the spire from the worst of the Plateau's influence. This protection makes it possible for people to live normal lives in Spiral despite the curse of the Black Plateau - without that the only Vigilant choice would be to flee the area and abandon the territory completely.
+
+The problem is that the Block can't protect people while they are outside. The Urizeni build great spires, allowing most of a small community to live together in one great tower or structure that can enjoy the protection of the Block. The League tend to live alone or in families in smaller properties in one great city. They go abroad every time they need to go about their business, which means they are exposed to the pernicious influence of the Black Plateau every day. Fortunately the city is as far away from the Black Plateau as you can get and still be in Spiral - which is crucial. If the League ever attempted to establish a town or outpost elsewhere in the territory that was closer to the screed then the results could well be disastrous.
+
+The office of the Oblivion Sentinel remains the best way to deal with the threat from the Lost. Even the influence of Sung can't do anything to prevent people from losing their minds to the Black Plateau, so there will *always* be new dangers from the Lost appearing over time. Sung's help is enough to ensure that the Sentinel is the first to know about any emerging threat. It would be much better if the Sentinel had more resources available to them, but thus far the title-holder has demonstrated themselves able to deal with the problem.
+
+One force that could exacerbate the threat posed by the Lost is the influence of some Night eternals. The Black Plateau is not night magic exactly, but it clearly has some strong affinities with it (perhaps in the same way some constellations and runs seem to have an affinity for the realm). While the [Toad King](../eternals/Sadogua.md) has been very clear that he has no interest in having anything to do with the Black Plateau, and the [Rainbow Serpent](../eternals/Sung.md) is clearly wary of it, there are a number of Night eternals whose influence could only exacerbate the risks posed by the Plateau if they took an interest in Spiral.
+
+It is an open question whether [Gibbering Lashonar](../eternals/Lashonar.md) actually has full possession of their sanity, but whatever the case, their cacophonous babble would only add to the burden of those afflicted by the Black Plateau. Likewise, the [Muse of Fire](../eternals/Janon.md) revels in orgies of emotion, it burns with passion, and encourages others to do likewise. Under no circumstance of any kind should either eternal be allowed to gain any influence in Spiral - it would be disastrous. [The Crucible](../eternals/Azoth.md) represents rebirth and change - that's either the best chance Spiral has or more likely the very last thing Spiral needs. And of course [Shadow Courtiers](../eternals/Whisper_Gallery.md) are a threat to everyone no matter where you are.
+
+The Vigilant recommend immediate [enmity](../eternals/Alignment.md#enmity) for all four eternals - out of an abundance of caution for what might happen in Spiral if any of these beings got a toehold there. Of course the Whisper Gallery is already under enmity, that needs to be maintained whatever happens. Azoth is probably the least dangerous of the four - there is only a 50/50 chance of total disaster if they gain influence in Spiral. With the other two it is guaranteed to be a problem - immediate enmity would ensure that danger was eliminated. If the Black Plateau settles down in a few decades time, then it would be safe for the Conclave to reconsider the matter.
+
+#### The Enemy
+
+The Black Plateau exploded into full life at the [denouement of a long military campaign](../winds-of-war/382YE_Spring_Equinox_winds_of_war.md#leviathan-wakes-28spiral29) against the [Grendel](../barbarians/Grendel.md). Thousands died that day, overwhelmed by the madness washing over the territory. The violence and suffering that is an inescapable part of war seems to rouse the Black Plateau to an ever increasing fever pitch. Some magicians theorise that the Urizeni dedication to [poise](../nations/urizen/Urizen_culture_and_customs.md#poise) may help to counter these effects, the way they control their emotions, even while fighting may make it harder for the Plateau to feed on their emotions. Could the Sentinel Guard have fight that battle without undue risk to the Plateau?
+
+> *In-character text:*
+>
+> **Enemies**  
+>
+> - **Potential Risk:** War with the Grendel or a direct attack from the Druj further triggers the Black Plateau
+> - **Recommendation:** Immediate construction of new defences to encircle the Plateau
+
+Whether or not that would have worked is a moot issue since the [Iron Helms](../../mixed/government/military/Iron_Helms.md) directly assaulted the Black Plateau itself, actively trying to rouse it. The strategy was awfully brilliant - three Grendel armies were shattered in the resulting wave of pain, anguish, and fear that broiled through the minds of everyone in Spiral. Hopes that the Black Plateau would settle down, or that it might be calmed with magic proved to be nothing but hubris. People have been living with the effects ever since.
+
+The good news is that the Black Plateau *is* beginning to calm down. Sadly that process is achingly slow. Having discussed the matter with the Urizeni magicians monitoring its emanations there is every reason to hope that it could return to a quiescent state within the next ten to twenty years. That's a long time off, but it's far from forever - the Empire will just have to be very patient.
+
+The danger is that a new war begins in Spiral. The Empire stole the territory from the Grendel in a [diplomatic coup](../senate-motions/Ratify_treaty_with_Salt_Lord_Kaliact_Spring_385YE.md) in Spring 385YE, but there is no possibility that that triumph hasn't rankled every Grendel salt lord. Retribution is a virtue in the eyes of the Grendel - they *will* want revenge on the Grendel who betrayed them by joining the Empire, they *will* want Spiral back. If they decide to invade in force, the Empire would have two deeply unpalatable choices, either capitulate and let them take the territory, or fight and risk making the Black Plateau even worse.
+
+Of course that assumes it could get any worse - and that probably isn't the case. In the view of many Urizeni magicians who study the Black Plateau it can't any worse than it was after the second attempt by the Iron Helms to provoke it. But what is certain is that all the progress made in the five years since then would be immediately lost.
+
+The [Grendel](../barbarians/Grendel.md) understand the risk posed by the Black Plateau - indeed at one point they tried to collaborate with the Empire to build a network of mithril towers to mitigate the threat. That was rebuffed, but intelligence from the Apulians suggest that they are every bit as averse as the Empire is to fighting here. That doesn't mean they won't attack - the assessment of the Vigilant is that the likelihood is that if the Grendel do attack, they will almost certainly attempt to use a surprise attack with overwhelming force to take the territory as quickly as possible with as little fighting as possible.
+
+Sadly they are not the only threat. The Empire are now fully in control of [Zenith](../nations/urizen/Zenith.md), but if the southern part of the territory ever fell into [Druj](../barbarians/Druj.md) hands, there is a clear risk that they might attempt to cross into Spiral. There's little chance they could hold the territory, but they wouldn't need to. The Druj, being the Druj, they might well try and target the Black Plateau, just as the Iron Helms once did. That would be *disastrous* - it might well test the theory that the current state of the Black Plateau is as bad as it can get.
+
+The Vigilant accept that the risks in both cases might currently considered to be low - Zenith is back in the hands of the Urizen. Grendel armies would have to come through [Imperial Orcs](../nations/imperial-orcs/Imperial_Orcs.md) controlled [Mareave](../nations/imperial-orcs/Mareave.md) to contest Spiral. However the potential disaster if either of these risks happened is enormous - thousands died last time. It doesn't bear thinking about that that could happen again. The best way to contain this risk would be to be fortify the area - that would be expensive, but Screed lends itself to the construction of a fortification and such a building could help with all the threats.
+
+#### Oblivion's Edge
+
+- **The Vigilant propose building a huge fortification in Screed to contain the entire Black Plateau**
+
+|  |
+| --- |
+| **Oblivion's Edge** |
+| **Commission Type:** Fortification |
+| **Location:** The Black Plateau, Screed, Spiral |
+| **Cost:** 80 white granite, 20 mithril and 80 thrones in labour |
+| **Time:** 4 seasons |
+| **Upkeep:** 10 thrones |
+| **Availability:** Opportunity ends if not commissioned before the end of Spring Equinox 388YE |
+| **Effect:** • Creates a level one fortification that would increase the number of VPs needed to take the region by fifteen <br> • Removes the threat from naifs in the territory <br> • Would defend against any direct attack on the Black Plateau <br> • Provides spartan accommodation for the Oblivion Sentinel <br> • Would reduce the impact on the Black Plateau of fighting in the territory <br> • Provides the Oblivion Sentinel with 5 crystal fire each year and 10 crowns per season |
+| **Special:** If Ylenwe could be persuaded to support the efforts, the eternal might be able to protect the workers needed to build the fortification, reducing the labour costs to 300 crowns |
+
+The old spire of Oblivion's Edge is gone, or at least hidden from plain sight. Some magicians believe it still exists, but Sung has moved it into a Night [regio](../../mixed/magic/rituals/Regio.md) somewhere on the edge of the Black Plateau. Other Urizeni argue that the spire is gone - but the copy of it that existed in the overlapping Night regio is still there. A few claim that Sung created a copy of the old tower based on the original - but destroying the original in the process. Nobody knows how many Urizeni mages can dance on the head of a pin.
+
+*[Image: Floria Sunshaper, Oblivion Sentinel](https://www.profounddecisions.co.uk/empire-wiki/File:OblivionSentinel.png)*
+
+Rather than try and replace it directly, the proposal is to build a grand new fortification, something that could secure every pass that leads up to the Black Plateau. That would have a number of useful benefits. Firstly it would act as a [fortification](../../out-of-character/rules/Fortification.md) securing the region. The bastion would be half again as effective as a regular fortification, simply because of how incredibly defensible this location is (the region would require 25VPs to capture rather than 20 for a normal level fortification). That would make trying to capture Screed very hard indeed, which should be enough to prevent a lighting raid from any Druj force trying to target the Black Plateau directly.
+
+That would slash the risk of one of the biggest threats, but the walls would also help keep [naifs](#naifs) out of the area. Of course it won't help if someone at [Anvil](../world/Anvil.md) decides to do something foolish with the Black Plateau, but there would no more trouble with local naifs like the fools from the Company of the Venturesome Harrier. That risk would be eliminated, the garrison would have no problem stopping them getting in.
+
+The proposed design incorporates a set of mithril spines - these wouldn't do anything to prevent the waves of maleficence that roll off the Plateau, but it would stop some of the energy created by violence and war in the Spiral feeding back into the Plateau. That wouldn't completely eliminate the risks involved in fighting in the territory, it wouldn't even reduce the losses inflicted on armies, but it would mean that the Empire could stand a single season of campaigning in the territory without the Black Plateau being roused back to where it was five years ago. That's not great... but it's arguably better than nothing.
+
+Sadly the costs of building the thing are monstrous. Absolutely *nobody* wants to work that closely to the Black Plateau. However, [a recent offer](Damming_the_Doubt.md#the-aid-of-the-dove) by *[Zie of the Perfect Morning](../eternals/Ylenwe.md)* might offer a way to defray the extra costs. The protection that the Dove is proposing could potentially be used to protect the workers working on Oblivion's Edge instead of the soldiers trying to dam the Doubt. If that happened, the labour costs would be reduced to a "mere" three hundred crowns. It seems unlikely that zie can aid both projects at once, but it seems possible that zie might well wish to aid first one, then the other. Presumably zie would require amity - or an Imperial ritual of Day to be in effect - in order to give this aid. Zie has also mentioned possible proposals for longer-term options to augment and extend the Block in some way - that would require a fane, but it might be that if the Conclave and Senate were resolved to commit themselves to such a course, the new fortification could prove a good place to build such a construction, well-defended as it would be.
+
+One final boon - constructing Oblivion's Edge would reassure both League and Urizeni citizens in the Empire that the threat from the Black Plateau was being taken seriously. If the fortification is built, various spires, citadels, and guilds have agreed to contribute resources to the office of the Oblivion Sentinel each season, helping them to discharge their responsibilities. The guilds would contribute 10 crowns per season, and the *Deathless Caves* would donate 5 crystal fire each year starting in the season the work was completed.
+
+*[Image: The Apulian orcs share the Grendel fondness for espionage, but understand that it is a dangerous game with real consequences. Unfortunately there are always folk who are less... discerning... in the schemes they are embroiled in.](https://www.profounddecisions.co.uk/empire-wiki/File:ApulianOrc.jpg)*
+
+## Apulian
+
+- **The Vigilant have uncovered evidence of an espionage ring in Apulus**
+
+Despite the oppressive aura of the Black Plateau, Apulian is a bustling, blooming young city. New buildings are going up every day, homes and businesses being constructed apace. It is arguably one of the most metropolitan places in the entire Empire, with scores of Urizeni magicians rubbing shoulders - sometimes literally, which does cause some discomfort, given that the principle of Space is hard to adhere to in a city - with thousands of League citizens, hundreds of them Apulian orcs who not so long ago were Grendel. The rest have come from all over the League, looking to make their fortunes in this grand new city of tomorrow.
+
+Sadly these are the *perfect* conditions for the Grendel to establish an *espionage ring* in the city. Anyone of the newly minted Apulian orcs could actually be in the pay in the Grendel. Any of those Urizeni magicians could be a disgruntled rebel, hoping to see the territory fall to the barbarians so that it could be returned to the nation if it was recaptured. All those Imperial citizens flocking here from all over the League looking to make their fortune are ripe for exploitation, there's bound to be more than a few unscrupulous individuals among their number who are not fussed where the money is coming from.
+
+Uncovering an espionage ring takes time and a lot of hard work. It requires months and months of painstaking effort reaching out to every local ne'er-do-well to see what gossip and rumours are afoot. Potential suspects have to be kept under observation and shadowed everywhere they go. It's dangerous work - those who have already chosen the path of the traitor often find it easy enough to add murder to their list of crimes: in for a ring, in for a throne. It's difficult too - one slip and a lead will disappear in a flash and the work has to begin again.
+
+If it is a long and arduous job in the ordinary course of things, how much harder is it in Spiral? The work of counter-espionage requires a suspicious mind. You must inhabit the mindsets of others, and pretend to be things you are not. At every moment you must not only conceal your true emotions but actively perform emotions counter to them. All of this renders you exceptionally vulnerable to the call of that which lurks in Screed. The Black Plateau is the great enemy of the counter-spy. Of course, it will also be working its magic on any spies themselves: but that just means that an espionage ring that "only" seeks to pilfer, spy and sabotage could suddenly erupt into an existential threat. Some of the Vigilant have called a potential espionage ring in Spiral the greatest spiritual threat that the Empire faces. Hyperbolic, perhaps: but it shows the depths of their concern.
+
+### The Empty Cellar (Conjunction)
+
+- **One of the Assembly's pilgrims has lost their senses while working to infiltrate the ring**
+- **This tent encounter is [combat very unlikely](../../out-of-character/rules/Accessibility.md#combat-unlikely-or-contained)**
+- **The *Voice of Vigilance* is [responsible](../world/Sentinel_Gate.md#prognostication) for trying to help Victo and allow the Assembly to learn whatever they have discovered**
+- **The conjunction is large enough for five people**
+- **There may be [innocent people present](../world/Sentinel_Gate.md#imperial-law) on this conjunction; magistrates advise caution must be taken to avoid innocent casualties**
+
+One of the clearest voices expressing this view when the Vigilant first began to assemble in response to the Synod's call is one *Victo von Temeschwar*. Friends of Victo have described them as a passionate individual, whose passion for vigilance was fuelled by a personal tragedy: Victo is an orphan, rescued from the fire that claimed their parent's lives and their business, Vargataia Delicacies, which specialised in the particular foods of the Vargat region of Temeschwar. The fire was no accident: in those days, the [Vyig](../nations/varushka/Vyig.md) still troubled the city, and Victo's parents had refused to pay protection money and become complicit in their evil. Victo nursed a bitter hatred of those criminals, but also some resentment at their parents for being so black-and-white in their thinking: it is this that led Victo to interest in the sometimes-controversial words of Berechiah laid down in his book "The Necessary Actions of a Virtuous Sinner”.
+
+Victo came to Spiral with a desire to follow in the footsteps of Berechiah. They were eager to take up the call of the Assembly to root out threats in Spiral and sailed here that very season. They took on a new name and identity - Octiv, a disgruntled Urizeni making the best of it in the big city - and immersed themselves in the burgeoning criminal underworld of Apulus. Some of the Vigilant kept in touch with them, and Victo's intelligence has been vital to uncovering no end of minor criminal plots. Victo's true goal, though, was "the big one" - to gain access to and infiltrate the ranks of the agents of the Grendel who must surely lurk within the city.
+
+Four months ago they disappeared. The room they were renting in Aylee's Tavern was abandoned leaving no trace. Three days later, a street urchin, a young orc lad called Rori slipped a piece of paper into the hands of Victo's contact. It simply said "LF. GER. NC. V. SOM." It implied that Victo had found a lead - something that led to a Grendel espionage ring, but there could be no contact for security's sake: and that they should trust that Victo would seek out malice before malice could strike.
+
+Malice appears to have struck. Four days ago, Victo was discovered unconscious in a dock-side inn. They were moved to safety, to a safehouse that the Vigilant have established in the city known as The Cellar Below: but they were paranoid to the point of delusion when they came round. They no longer appear capable of distinguishing between the "Octiv" identity that they assumed and their own - they are of one mind, but that mind is no longer certain who is the mask and who is the player. It's clear that in the months they have spent undercover, the Black Plateau has played havoc with their mind. The dramaturgical influences that have recently been occurring in Spiral have not helped: they are clearly also in the grip of the influence of the Mountebank. They don't trust anyone and they won't talk to anyone except to try and subvert people's words or actions to turn them against themselves.
+
+Yet, in their more lucid moments they have managed to communicate that they have vital information that could lead to progress against Grendel spying in the city. Attempting to force them to reveal this information would be very dangerous. They're under the effects of [Secrets of the Empty Heart](../../mixed/magic/rituals/Secrets_of_the_Empty_Heart.md), a common defence employed by anyone in this line of work where capture means certain torture and death. As they can draw on [the Mountebank](../../mixed/magic/lore/The_Mountebank.md) as a source of spiritual strength, attempts to use a [consecration](../../out-of-character/rules/Consecration.md) or [anointing](../../out-of-character/rules/Anointing.md) to assist have not worked, and have brought Victo very close to calling upon the Empty Heart. The best bet would be [Crystal Clarity of the Rational Soul](../../mixed/magic/rituals/Crystal_Clarity_of_the_Rational_Soul.md) - but while this does not need a willing target, it is exceptionally difficult to fool a seasoned intelligencer such as Victo, and so while this might, ironically, be a perfect time for a [mountebank's](../nations/the-league/Mountebank.md) intervention, this has not been tried for fear of driving Victo over the edge.
+
+The Vigilant in Spiral have reached out to the [Voice of Vigilance](../../mixed/titles/Voice_of_Virtue.md), as a chosen inspiration to the pilgrims of the faith. They believe that a conjunction of the [Sentinel Gate](../world/Sentinel_Gate.md) will open to *The Cellar Below* at 18:20 on Friday of the Spring Equinox, for five people. A representative of the Vigilant will meet them there, with Victo. The codephrase to give is "Inaction is a choice" - they will reply "just as action is". They ask that the Voice of Vigilance bring with them the very best mountebank - or a [smith](../nations/the-marches/Smith.md), someone good at negotiating. Or indeed anyone who might have the necessary skills to convince Victo to undergo Crystal Clarity or cast it on them without them being aware (bearing in mind the [limitations](../../out-of-character/rules/Rituals.md#performing-a-ritual) on performing ritual magic secretly). However, if they become aware of an attempt to cast a ritual or use a [liao ceremony](../../out-of-character/rules/Religious_skills.md) on them without their permission, it is highly likely they will call on the Empty Heart. Extreme caution is required. While the conjunction is for up to five people, it is by no means necessary to *bring* five people. The Civil Service advises that the Voice should pick who they take exceptionally carefully - even more so than they otherwise would be.
+
+Once Victo has their mind again, they will presumably be exhausted, unable to give much useful information there and then: but in time the Vigilant will debrief them and learn what they can, and make the Empire aware what the next steps must be for dealing with the threat of espionage in Spiral. This could give the Empire a vital lead that allows them to shut down the Grendel espionage ring, or even try to turn it to work for them, creating double agents within it. Without the information Victo has given up themselves to win, however, this will be impossible.
+
+*[Image: An accommodation has been made with the Urizen rebels, but the price of peace is constant vigilance.](https://www.profounddecisions.co.uk/empire-wiki/File:Urizen_Costume_42.jpg)*
+
+## The Rebels
+
+- **The vigilant are confident that the situation is now stable and there are no active threats currently**
+- **All attempts to contact the rebels by the Grendel have been rebuffed**
+
+Most of the rebel Urizeni in Spiral have been mollified or bought off, and the bitter resentment at the treaty that saw the territory gifted to the League has slowly seeped away. Increasingly there is a détente between those Urizeni who still live there, with magicians sharing knowledge of the Block with their League neighbours. More and more Urizeni magicians are seen in Apulus, either living there or coming to the city to do business and League merchants are only too happy to buy their wares or sell them imported goods.
+
+Now only one group of rebels remains fiercely aloof. The Empire has signed a [peace treaty with the Non-Imperial Urizen led by Caela of the Silver Flame](../senate-sessions/386YE_Spring_Equinox_Senate_sessions.md#ratify-treaty-with-urizen-of-the-silver-flame), but it required them to cede the region of Cinion. In the end it proved impossible to negotiate with Caela, her demands were simply too unreasonable, but rather than remove her by force, the Empire opted to recognise their control of the surrounding land.
+
+That leaves the region in the control of an outside force, a potential threat and one that is clearly hostile to League control of the territory. Thus it was crucial to do everything possible to investigate this threat.
+
+Some of those investigations were cut short by the [influence of the Black Plateau](Obsidian_shards.md#blood-and-black-glass). One of the rebel groups, the Spire of Black Glass, launched an all out attack on the Empire, apparently triggered by Plateau madness. It didn't amount to much, and Imperial heroes moved quickly to forestall the attack and defeat the Spire, but it was sufficient to cause the leader of the rebels to utterly disavow the group.
+
+That disavowal appears to have entirely genuine. The activities of the Spire of Black Glass had been an ongoing concern to the other rebels who had only accepted them out of necessity. There was no attempt to help them with their attack, to the contrary the other rebels very publicly shunned them. That's not been the only incident, it looks like the leader of one of the other rebel groups met with an unfortunate accident - presumably a grim consequence of internal splits among the rebels.
+
+But by the time the year is up, the Vigilant are happy to report that there are no active threats here. Caela remains a fierce critic of the Empire, but she and her supporters consider themselves to be loyal Urizeni, and they are abiding by the treaty. It would be wrong to say they are content with the current situation, but they're clearly content with it for now. They are not doing anything that would be a cause for concern, and while that situation could change in the future, the Empire can be certain that there are no active threats here now.
+
+There was an assumption that the Grendel might try and make contact with the rebels - and it is clear that they have tried at least once, if not more. They have been firmly rebuffed however - Caela has made it very clear to everyone who has thrown in with her that nobody is to accept any approach from the Grendel under any circumstances. They might not be happy with the Empire, but if the Grendel hoped that meant they would switch sides then they are bitterly disappointed.
+
+*[Image: Assembly Vigilance.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Vigilance.png)*
+
+## The Ears in Redoubt
+
+- **Followers of Berechiah are currently seeking out threats in Redoubt**
+- **The Assembly expects to hear from the followers in Summer or Autumn at the latest**
+- **There is current one final opportunity for the Assembly to send the Vigilant to root out threats**
+- **Naming a specific threat to search for would ensure that it was not missed, if it was present**
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We prepare for malice, but must always thwart malice but it strikes against you. We send Bryce the Hare with 25 liao to ~~Temeschwar~~ ~~Spiral~~ Redoubt to urge all vigilant citizens to seek out threats and drag them into the light.
+> >
+> > Bryce the Hare, Vigilance Assembly, Summer 386YE, Vote: 246-0
+
+The Vigilant have reported back from both Astolat and Spiral this season. The [search for cultists of Agramant](Golden_magicians_fayre.md#berechiah-and-a-note-of-caution) in Astolat has failed to unearth any - while it would be easy to be disappointed by that result, it should be seen as a success. It means there aren't any cultists of Agramant in Astolat - at least not who are currently active and causing a threat. A new threat might emerge in the future, but for now that territory can be crossed off the list.
+
+The situation in Spiral is considerably more complex and has taken a long time to bear fruit. By the looks of things, it may even now only just be getting to grips with the Grendel espionage ring and clearly there is much more work to be done if Victo can be saved. Without a clear target to hunt for, the Vigilant have focussed their efforts on the most obvious threats here, so it is possible that there are subtle threats here that have gone undetected. The strange magic that has surfaced this [season in Apulus](The_play_that_came_to_Apulian.md) is certainly cause for concern, as is the strange behaviour of the [Rainbow Serpent](../eternals/Sung.md).
+
+Thus far the Vigilant have not reported back from Redoubt. They are on the ground, investigating the territory, looking for what threats they can uncover, but clearly they are not yet ready to report back on what they have found. The Synod should expect to hear from them soon however, either next Summer if their work is complete, or by Autumn at the very latest.
+
+There is a final opportunity to ask the Vigilant followers of Berechiah to seek out any threats in one more territory, before their energies are exhausted. The Assembly could send them back to Spiral, if they name a specific threat. Otherwise they would do better to pick a different territory and name the threat they are concerned about, if there is one, or leave it to the followers of Berechiah to look for the most obvious dangers as they have done here.
+
+## Further Reading
+
+- [Berechiah](../religion/Berechiah.md)
+- [Spiral](../nations/the-league/Spiral.md)
+
+- [The play that came to Apulian](The_play_that_came_to_Apulian.md) - Companion wind of fortune relating to magical happenings in the city of Apulian
+- [Damming the Doubt](Damming_the_Doubt.md) - Companion wind of fortune relating to the plan to dam the River Doubt in Apstrus
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [387YE Spring](../../indexes/by-category/387YE_Spring.md), [Recent History](../../indexes/by-category/Recent_History.md)

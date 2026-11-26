@@ -1,0 +1,17 @@
+{{Disambiguation|Following a [[Rules_update_2026#Trade_Envoys|rules update]], these titles no longer exist in the game. The page has been left as it was for records.}}
+==Overview==
+Trade Envoy was an [[Imperial title]] with ''responsibility'' for pursuing trade in mithril, weirwood, white granite, and [[ilium]] with specific foreign nations. The first trade envoys were [[Create_title_of_trade_envoy|created]] by the [[Senate]] during the Spring Equinox 377YE. The title was [[Rules_update_2026#Trade_Envoys|ruled unconstitutional]] by the Constitutional Court in 388YE.
+
+==Responsibilities== 
+Each trade envoy is responsible for pursuing opportunities with a specific foreign nation to gain mithril, weirwood, white granite, or ilium for the Empire. While the [[ambassador|ambassadors]] are [[Ambassador#Responsibilities|responsible]] for representing the Empire to foreign nations, the trade envoys are expected to proactively seek opportunities for trade in valuable Bourse materials. It is likely that a trade envoy will need to work closely with an ambassador in service to this goal.
+==Powers==
+The trade envoys have no legal powers. The significance with which the title is treated is likely to vary, depending on the culture and politics of the foreign nation with which they communicate.
+==Appointment==
+Each trade envoy is an Imperial position [[Appointments_by_the_Senate#Imperial_Position|appointed by the Senate]]. The title can be held by any Imperial citizen. A trade envoy has [[Imperial_title#Term_of_office|tenure]], and serves until they die or step down. They can be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+When they were created, the trade envoys were ceremonial titles appointed by the Imperial Senate. This decision was challenged by the [[Master of the Imperial Mint]] Guillamo de Tassato who was successful in arguing that the titles should be auctioned through the [[Bourse]]. At the point where it was clarified that the titles were Imperial titles, then it was clear that this shift was unconstitutional. Appointment by the Senate was restored after the Autumn Equinox 381YE.
+
+The title was [[Rules_update_2026#Trade_Envoys|ruled unconstitutional]] by the Constitutional Court in 388YE and can no be longer appointed.
+
+[[Category:Senate]]
+[[Category:Foreign Nations]]

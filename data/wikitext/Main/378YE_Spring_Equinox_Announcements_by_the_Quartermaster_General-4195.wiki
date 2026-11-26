@@ -1,0 +1,31 @@
+<ic>Resupply the Seventh Wave with 42 wains<br>Resupply the Wolves of War with 43 wains<br>Resupply the Winter Sun with 43 wains<br>Resupply the Army of the Citadel with 42 wains<br><br>''Approved by the Quartermaster General of the Imperial Armies.''</ic>
+
+===Overview===
+* Resupply the [[Highguard|Highborn]] army of the [[Highguard_military_concerns#The_Seventh_Wave|Seventh Wave]].
+* Resupply the [[The League|League]] army of the [[The_League_military_concerns#The_Wolves_of_War|Wolves of War]].
+* Resupply the [[Imperial Orcs|Imperial orc]] army of the [[Imperial_Orcs_territories#The_Winter_Sun|Winter Sun]].
+* Resupply the [[Urizen]] army of the [[Citadel Guard]].
+
+The actions are grouped together, but each would count as a separate announcement for purposes of the [[Synod]] [[veto]].
+
+===Date===
+* Spring Equinox 378YE
+
+===Progress===
+* 170 wains of Mithril and Weirwood provided by Janusz Dalibor von Temeschwar, Quartermaster General of the Imperial Armies, after Spring Equinox 378YE
+** 42 wains for the Seventh Wave
+** 43 wains for the Wolves of War
+** 43 wains for the Winter Sun
+** 42 wains for the Citadel Guard
+
+===Campaign Outcome===
+* [[Casualties#Emergency_Resupply|Resupply]] an army using 42 wains restores fighting strength equal to 840 soldiers to the army.
+* Resupply an army using 43 wains restored fighting strength equal to 860 soldiers to the army.
+
+===Voting===
+This motion was approved by the Quartermaster General using the legal power to resupply armies granted by the [[Senate]].
+
+[[Category:Announcements]]
+[[Category:Senate Motion]]
+[[Category: 378YE Spring]]
+__NOTOC__

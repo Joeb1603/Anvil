@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Announced by Diego i Del Toro i Erigo, Bearer of an Imperial Wayleave">To commission a liao sinecure in Bastion, to be appointed by the Highguard National Assembly, the Chaplain of the Roads, to be responsible for the protection of souls travelling on the roads of Highguard. This position should have tenure and is revocable by the Highguard National Assembly. Fully funded.</quote>
+==Overview==
+* Constructs a [[sinecure]] in Woodbury, [[Bastion]] 
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+==Date==
+* Winter 386YE
+==Cost==
+* Standard cost apply
+* 10 white granite
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Construct_Church_of_the_Roads}}
+==Outcome==
+* Now complete, the [[Chaplain of the Roads]] will be appointed by the Highborn Assembly for the first time at the Spring Equinox 387YE

@@ -1,0 +1,213 @@
+---
+title: Dreaming in strands
+source: https://www.profounddecisions.co.uk/empire-wiki/Dreaming_in_strands
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 385YE Winter
+- Recent History
+- Appraisal
+event: 385YE Winter
+last_edited: '2026-01-16T09:41:23Z'
+revision: 132909
+in_character_boxes: 2
+---
+
+# Dreaming in strands
+
+> *In-character text:*
+>
+> "*... which means I'm starting to think that Pam isn't even pregnant!*"
+>
+> Eilian nodded along. His attention appeared fixed on the old engineer, but he couldn't prevent his eyes occasionally sliding sideways, stealing quick glances at the beautiful framed blueprints on the walls of the airy, cluttered office. Margueritte's slightly interminable story - about the health of either her dogs, one of her cousins, or the Professor for Comparative Mythology, Eilian couldn't quite track which - was finally over. The engineer delicately picked up a coconut-dusted sponge-and-jam confection from the silver tray and began to tear pieces off, alternatively popping them into her own mouth and feeding them to the fat little pug dog on the cushion next to her chair.
+>
+> "You like the decorations, I see," she said with a glint in her eye. Eilian blushed slightly. He had not been as discreet as he might have hoped.
+>
+> "Yes, very much. May I...?" He gestured, and Margueritte di Sarvos inclined her head slightly to grant permission. She studied him as he ran a finger along the glass, as if worried he might start grabbing them off the wall and shoving them into a sack.
+>
+> "Originals," she said. "Beautiful and elegant, and elegant *because* they are beautiful. Or vice versa, depending who you ask. They've hung on those walls for seventy years or more. My grandfather got them from an antiques dealer who had no idea what he had, bless him. The only time they came down was when those damn'd Grendel were here, and I had to hide them up the chimney."
+>
+> "They're very detailed," said Eilian out loud. Internally, he was giving a little cheer and punching the air, metaphorically.
+>
+> "Oh yes, Carmen i Dehasa i Erigo was an artist and a visionary, as well as a first-rate engineer. It's a shame she didn't leave more designs like these. Or if she did, I've never seen hide nor hair of them. And I've been looking! Believe me I've been looking. This is also the only complete collection of this particular set that exists. There was another in the Brass Coast but it seems they were sold to an Asavean over a hundred years ago for some reason. Irreplaceable, they are. Priceless."
+>
+> Eilian swallowed and wet his lips.
+>
+> "I was wondering if we could maybe... borrow them for a little bit? Just to get copies made?"
+>
+> The old woman narrowed her eyes and pursed her lips, but did not seem particularly surprised. The room was silent save for the muted ticking of the clocks and the slobbering noises coming from the little pug.
+>
+> "I wrote a book, you know," said Margueritte calmly. "About Carmen and her grand design. Couldn't get it published. No interest, you see, in the history of a bridge. Even a bridge like the Spider's Dream."
+>
+> "We aren't a printing house, obviously, but the Department has some resources..." said Eilian cautiously, and then paused, frowning slightly as his ears caught up. "Wait, you've written a *history* of the Spider's Dream?"
+>
+> "Six hundred pages," said the engineer proudly. "It took me two years of visiting half the archives in the southern Empire. Senate motions, synod judgements, journals in Highguard, the shambles they call a library in Diodora... fascinating stuff. If you like the history of bridges."
+>
+> Her half-smile spread across her face then, because the shrewd old woman knew she had him, hook, line, and sinker. He knew she knew, and he didn't even mind. His palms itched at the chance to get hold of this manuscript, and if a little vanity publishing was the cost of getting that *and* the blueprints he had originally come for... why he was even prepared to eat another one of those awful sweetcakes she kept trying to force on him. He sat down. The little fat dog snuffled at his shoe.
+>
+> "Fortunately, Mistress Margueritte, I *do* like the history of bridges. Let's talk about how we can make your book a reality - and how you can contribute a whole new chapter to it."
+
+*[Image: The Spider's Dream is unmatched in the Empire; a suspension bridge that connects two nations and while merchants may grumble about the toll required to cross it they still pay. The alternative is a long detour up through Tassato; the kind of detour that likely costs a trader much more than the reasonable fee paid to cross the tumultuous Vassa.](https://www.profounddecisions.co.uk/empire-wiki/File:Intent.jpg)*
+
+## Overview
+
+At the Autumn Equinox, [the Imperial Senate instructed](../senate-sessions/385YE_Autumn_Equinox_Senate_sessions.md#appraise-spider27s-dream-bridge) [Eilian Sweetwater](../appraisals/Appraisal.md#eilian-sweetwater-of-storm27s-run-striding) to *"investigate solutions to the situation with the damaged Spider's Dream Tollbridge whether repair, improvement, or alternative."* Eilian is renowned for his willingness to revisit historical proposals; his wealth of experience as a researcher in the Department of Historical Research has encouraged him to look to the past to see what might be learnt.
+
+The Spider's Dream bridge was heavily damaged by *Stephen of Sarcombe* as part of a [raid](../winds-of-war/Shallows_and_miseries.md#meanwhile-in-madruga) before the Summer Solstice 385YE. Damage to the bridge [is impeding](../nations/the-brass-coast/Madruga.md#strategic-considerations) the [Military Council's](../../mixed/government/military/Military_Council.md) ability to move [armies](../../out-of-character/rules/Army.md) between Madruga and both [Sarvos](../nations/the-league/Sarvos.md) and [Tassato](../nations/the-league/Tassato.md), as well as making it all but impossible for those [fleeing the invasion](../winds-of-war/A_beacon_of_smoke.md) of the [Grendel](../barbarians/Grendel.md) to reach the relative safety of [the League](../nations/the-league/The_League.md). It has also blocked a major trade route between [the Brass Coast](../nations/the-brass-coast/The_Brass_Coast.md) and the rest of the Empire, and left the [Spider's Tollkeep](../../mixed/titles/Spider-s_Tollkeep.md), *Marguerita Serafini di Sarvos* without their season income from tolls.
+
+Restoring the bridge would allow Imperial military forces to reach Madruga and the Brass Coast unimpeded. There are however potential additional benefits for rebuilding, in that the Senate could revisit some of the previous proposals for developing the Spider's Dream. These proposals were rejected by earlier Senators but perhaps of interest to their modern descendants, and could be “rolled into” any [commission](../../mixed/commissions/Commission.md) to replace the bridge as a single [Senate motion](../senate-motions/Senate_motion.md). This possibility is *much* more exciting... at least to Eilian Sweetwater.
+
+## Historical Plans
+
+- **The Spider's Dream bridge could be restored using 30 mithril, 10 white granite and 120 crowns**
+- **Restoring the bridge would make other the other commissions possible**
+- **All the commissions could in theory be built with a single Senate motion**
+- **Construction would take three months for every 50 wains used**
+
+|  |
+| --- |
+| **Repair Spider's Dream Bridge** |
+| **Commission Type:** Sinecure |
+| **Cost:** 30 mithril, 10 white granite, 120 crowns, and three months to construct |
+| **Effect:** Repairs the Spider's Dream Bridge |
+
+After considerable research, Eilian has been able to obtain copies of the original blueprints created by Carmen i Dehasa i Erigo for the Spider's Dream. After they call in a favour they are able to track down a Sarvosi engineer who has a copy of the original plans framed on their wall. They are beautifully detailed. Restoring the bridge was always going to be a costly endeavour, but having the original plans will save investment and time, allowing what remains of the original structure to be effectively incorporated into the new bridge. Thus the Empire can ensure that the famous bridge is restored to its former glory.
+
+If the bridge were rebuilt following these original plans, once work were finished it would restore to the [Spider's Tollkeep](../../mixed/titles/Spider-s_Tollkeep.md) their [access to tolls](../../mixed/titles/Spider-s_Tollkeep.md#sinecure). Once the work was complete, Imperial armies would once again be able to march quickly from Sarvos to Madruga. There would need to be no other changes; there would not even be an election because there is already an incumbent [Tollkeep](../../mixed/titles/Spider-s_Tollkeep.md).
+
+## Old Precautions
+
+- **If repaired, the bridge could be partially fortified ensuring it was protected from further raids**
+- **The commission would provide a beachhead into Madruga and Sarvos, provided the Empire continued to hold the bridge**
+
+|  |
+| --- |
+| **Fortify Spider's Dream Bridge** |
+| **Commission Type:** Improvement |
+| **Cost:** 20 white granite and 60 crowns |
+| **Effect:** Fortifies the Spider's Dream |
+| **Requirement:** Spider's Dream is fully repaired |
+
+The Spider's Dream has been a frequent subject of attack in recent years. In Spring 380YE, [Grendel](../barbarians/Grendel.md) [orcs](../../mixed/world/Orc.md) attempted to take advantage of unusually high flooding in the river to destroy the bridge and were only narrowly prevented by the brave action of Imperial heroes. Five years later the Jotun were more successful, their raid leaving the bridge badly damaged.
+
+The reality is that as things stand, the bridge will always be a target. It plays an important but limited role in supporting the Bay of Catazar trade routes, but it is crucial for Imperial military planning. Attacking the bridge allows an enemy to cut off the Empire's supply lines. What is the point in rebuilding the bridge if the Empire's enemies are just going to attack it again?
+
+One answer might be to fortify the bridge. As part of their appraisal, Eilian has found plans to fortify the existing bridge that were drawn up during the reign of [Emperor James](../history/Emperor_James.md). The designs were created by the Emperor's favourite architect, a savvy yeofolk from Odd's End called Tall Hal and involve a pair of simple but effective barbicans to secure each bank. It appears that the Imperial Senate balked at the costs at the time, but given recent history the current Senate might view the matter differently.
+
+The bridge can only be usefully fortified if it is first repaired as laid out above, but the work could be done with the same commission and at the same time, provided the motion or announcement was legally entitled to create a fortification. If that were done then the bridge would no longer be a target for raids and similar. Given sufficient time, an enemy army could still destroy the bridge if they had complete control of the land on both sides of the river and a season to spare. But short of that, attacking the bridge would be practically impossible. The Military Council would no longer have to worry about the prospect of *any* raids on the bridge.
+
+Fortifying the bridge would have another benefit that hopefully won't ever come in useful. Provided the Empire held either [Torres](../nations/the-brass-coast/Madruga.md#torres) or [Bocche](../nations/the-league/Sarvos.md#bocche) then they would be able to maintain military control of the Spiders Dream. That would mean that the Empire could use the bridge to overcome the limit of claiming a [beachhead](../../out-of-character/rules/War.md#beachheads) when invading Torres from Bocche, and vice-versa. Of course, the one flaw in that plan is that if barbarians conquered both Torres and Bocche, then they would be able to seize the bridge and benefit in the same way, but if that looks likely the Empire would have an opportunity to destroy the bridge before it fell into enemy hands.
+
+## Unmet Passions
+
+- **Warehouses and merchants quarters could be built between the Spider's Dream and Trivento if the bridge is repaired**
+- **This would found a trade network across the south of the Empire that could be expanded later**
+
+|  |
+| --- |
+| **Expand Trivento** |
+| **Commission Type:** Ministry |
+| **Special:** Enhance the Spider's Dream Bridge |
+| **Cost:** +15 weirwood and 45 crowns to original cost |
+| **Effect:** Creates a ministry in Trivento |
+| **Requirement:** Spider's Dream is fully operational |
+
+|  |  |
+| --- | --- |
+| **Gateway to the South** |  |
+| 6 crowns | 4 true vervain, 4 cerulean mazzarine, 3 tempest jade, and 2 mana crystals |
+| 15 crowns | 8 true vervain, 8 cerulean mazzarine, 6 tempest jade, and 4 mana crystals |
+| 27 crowns | 12 true vervain, 12 cerulean mazzarine, 9 tempest jade, and 6 mana crystals |
+
+The League town of Trivento once harboured ambitions to leverage their position on the banks of the Vassa to become a rival to Sarvos. Those dreams were crushed by the creation of the Spider's Dream - the bridge provided swift and easy transport across the Vassa liberating merchants from the need to stop in Trivento and arrange passage. Instead of a bustling metropolis, Trivento was a mere stopping off point on the way to more important destinations.
+
+There are few occasions in recorded history when the Senator for Sarvos been a resident of Trivento. Passionate to raise the profile of her home, Concetta di Trivento, held the title for a single year during the reign of Emperor Ahraz. She used all four of her Senate motions to raise her proposal to construct a new merchants quarters at Trivento. Concetta was an early supporter of Ahraz, and had planned to benefit from the Emperor's patronage, but he was too busy dealing with [the Orc Rebellion](../nations/imperial-orcs/The_Orc_Rebellion.md) and her ideas were defeated each time.
+
+The plan is sound, at least on paper. Creating a walled compound between Trivento and the Spider's Dream that incorporated a set of large secure warehouses and an exchange for merchants to conduct trade would finally make Trivento more than just a stopping place. It would become a hub for trade in its own right, with the two rivers, the Vassa and the Tulla, providing access to Kahraman, Tassato, Liathaven, and Mournwold, and the Spider's Dream linking them up to the roads across Madruga making Trivento into a Gateway to the South.
+
+Concetta's passion would have seen the creation of a League national title, the *Ostiary of Trivento*, appointed by [Tally of the Votes](../../mixed/economy/Tally_of_the_Votes.md), a [ministry](../../mixed/commissions/Ministry.md) that would benefit from access to the trade passing over the bridge. However the expansion of the facilities at Trivento might eventually support the creation of a new trade network across the south of the Empire, not unlike the [Northern trade network](../nations/navarr/Northern_trade_network.md) that connects settlements across the north using the trading post at [Torfast](../nations/imperial-orcs/Skarsind.md#southpine) as an "anchor".
+
+Once the Gateway to the South was complete, the next time a great work raised the level of investment in [farms](../../out-of-character/rules/Farm.md) in [Mournwold](../nations/the-marches/Mournwold.md), [mines](../../out-of-character/rules/Mine.md) in [Kahraman](../nations/the-brass-coast/Kahraman.md), or [fleets](../../out-of-character/rules/Fleet.md) in [Madruga](../nations/the-brass-coast/Madruga.md) (such as the [wharfs](#unopened-eye)), [forests](../../out-of-character/rules/Forest.md) in [Liathaven](../nations/navarr/Liathaven.md) (assuming the territory were conquered), the expansion in trade would automatically create an additional, new ministry connected to Trivento. In Mournwold this would be the *Bailiff of Sarcombe Market*, a title to rival the [Bailiff of the Grand Market](../../mixed/titles/Bailiff_of_the_Grand_Market.md) in [Meade](../nations/the-marches/Mitwold.md#meade); in Kahraman it would be the *Mistress of the Bounteous Parador*, based at the prosperous settlement of [Nestor's Bounty](../nations/the-brass-coast/Kahraman.md#jade-range); in Madruga it would be the *Caravan Master of the Sunset Road'* based in [Calvos](../nations/the-brass-coast/Madruga.md#calvos), with a similar title created in Liathaven depending on the state of the territory at the time the great work was commissioned. Each great work would also bring more trade to Trivento, adding further purchase options to Ostiary's ministry, allowing them to purchase ever more materials, albeit at increasing costs.
+
+It could take decades for Trivento to become a true rival to Sarvos, but lost time is never found as the [Marchers like to say](../nations/the-marches/Proverbs.md).
+
+## Unopened Eye
+
+- **If the bridge were restored the Empire could build an extensive new wharf on the Freeborn side of the river**
+- **The wharf would be a great work boosting the effectiveness of fleets based in Madruga by one rank when trading**
+
+|  |
+| --- |
+| **Excavate New Wharfs** |
+| **Commission Type:** Great Work |
+| **Cost:** 30 white granite and 90 crowns |
+| **Effect:** Boosts fleets based in Madruga by one rank while trading |
+| **Requirement:** Spider's Dream is fully operational |
+
+The fast flowing Vassa has always proved difficult for Trivento, limiting the size and scale of the port workings possible. However on the Freeborn side of the river, there is a well protected bay, called Vassa's Eye, which is less than two miles around the headland where the Vassa meets the Bay. If the bridge were restored, it would make it viable to create a new wharf facility at the Eye that would provide valuable benefits to fleets trading out of Madruga.
+
+The wharf would require 30 wains of white granite and 90 crowns, but once complete, it would allow many more Freeborn vessels to take on cargo bound for distant lands. Most trade would still go through Siroc, at least it would in regular times, but the wharf would be invaluable to Freeborn captains who were picking up cargo that had come overland to the Spider's Dream or just as useful when unloading cargos brought to the Empire that were due to head north over the bridge. Currently most of this trade travels slowly overland to be loaded at Siroc or Sarvos because there simply isn't room in the cramped docks at Trivento.
+
+|  |  |
+| --- | --- |
+| **Vassa's Eye Harbourmaster** |  |
+| 6 crowns | 3 Dragonbone, 2 Imperial Roseweald, 1 Orichalcum, and 4 liao |
+| 16 crowns | 6 Dragonbone, 4 Imperial Roseweald, 3 Orichalcum, and 8 liao |
+| 28 crowns | 9 Dragonbone, 6 Imperial Roseweald, 5 Orichalcum, and 12 liao |
+
+Ships travel much faster than caravans. The shorter the travel times, the greater the profits available, so if the wharf were completed it would act as a great work provide a one rank bonus to every Freeborn vessel based in Madruga that took the trading action, regardless of which port they were sailing for. If the Gateway to the South was commissioned earlier or at the same time, it would also meet the criteria outlined for the Ostiary of Trivento providing allowing the Ostiary to purchase more materials and automatically creating an Imperial position, the Vassa's Eye Harbourmaster, a Freeborn national postion appointed by Tally of the Votes.
+
+The Harbourmaster would be responsible for overseeing the operations of the new wharfs, but that would give them opportunities to buy cheap cargoes coming to Madruga from foreign lands, particularly Zemeh, as the Brass Coast is a popular destination for many Sumaah vessels.
+
+## Unrealised Ambitions
+
+- **The Imperial treasury could be ordered to provide toll payments to the tollkeeper for each army that crosses the bridge**
+
+The Spider's Dream was constructed during the long reign of [Emperor Giovanni](../history/Emperor_Giovanni.md), but the full potential of the tollkeeper was never realised, as the Imperial Senate adamantly refused to agree to the Emperor's plans for the position.
+
+Tolls are one of the few permitted exceptions to the Imperial prohibitions on taxation. Ever since it was built, merchants have had to pay a small tithe to pass cross the Spider's Dream. Imperial armies are exempt from these fees, but that rule runs contrary to Giovanni's original intent. According to the history that Eilian has uncovered, Giovanni was adamant that the Imperial treasury should pay the Tollkeeper every time an Imperial army crossed the bridge, just like everyone else does.
+
+The impact of Giovanni's plan would be quite... dramatic. The text Eilian has recovered purports to show the Emperor's original calculations, indicating each army would cost the Imperial treasury 5 thrones every time it crossed the bridge. The civil service are more than capable of administering the tithes, with the result that the Tollkeeper could expect a colossal boost in the income they derived from operating the bridge. Ultimately each payment of five thrones would be added to the regular stipend that the tollkeeper currently receives. Giovanni argued that this income would empower the Tollkeeper, allowing them to invest in the Spider's Dream, maintaining the bridge, expanding the adjoining facilities, and ensuring it was adequately defended. The plan had considerable support from the Brass Coast and the League but that was insufficient to overcome the forthright disagreement of other senators led by the senator for [Necropolis](../nations/highguard/Necropolis.md). Giovanni's notes have been appended with some very unflattering commentary on the nature of the senator's appreciation for economic matters.
+
+Giovanni's notes are a fascinating part of the original history of the Bridge and after checking that the proposal is constitutional, Eilian has tidied them up and put them forward for the Senate to consider alongside the other ideas. If enacted then any time an Imperial army crossed from Madruga to Sarvos or Tassato - or vice versa - five thrones would be removed from the Senate's budget and given to the Tollkeep. This figure is taken directly from Giovanni's calculations, but of course the Senate could raise or lower the amount if they wished. Any army would be assumed to take the shortest route to their destination – and crossing the bridge is clearly the shortest route to take – unless their orders explicitly said otherwise.
+
+If enacted the responsibilities of the Tollkeeper would be amended to include the expectation that they would use the generous wealth provided by the tolls to invest in the Spider's Bridge, and the surrounding infrastructure, ensuring its prosperity and security for years to come.
+
+## The Grendel Problem
+
+- **All these additional proposals are contingent on the Spider's Bridge being restored and remaining operational**
+- **The Empire does not control Madruga**
+- **There is an ongoing Grendel invasion**
+
+All these proposals are dependent on the Spider's Dream being restored and then remaining operational. If the bridge were damaged or destroyed, all the linked benefits would be impacted, either reduced or stopped completely, until the bridge was back in working order. The designs presented by the Prognosticator's Office are not time sensitive. The ruined bridge is not going anywhere – although it is not impossible that the damage may be worsened by any number of factors such as Spring magic in the adjacent territories, or by very bad storms. If this were to happen, all that would change would be the *amount* of repair needed – the bridge could even be reconstructed from scratch if it needed to be.
+
+This is just as well, given [recent events](../winds-of-war/A_beacon_of_smoke.md), Madruga is currently not in Imperial hands. While the Freeborn currently control the [southern bank of the river](../nations/the-brass-coast/Madruga.md#torres), this may not continue to be the case.
+
+As seen [recently in Kahraman](../winds-of-war/Against_the_Jotun.md#hill) it is risky to try and undertake a grand construction project while part of the land needed to make the project go smoothly is under threat by barbarians. This will need to be taken into account during any attempt to rebuild the Spider's Dream.
+
+An Imperial army would be sufficient to protect construction work in the territory from anything but a concerted attack (one that would almost certainly see a conjunction of the [Sentinel Gate](../world/Sentinel_Gate.md)). If work is undertaken without such precautions, its likely that an invading army would be able to steal some or all of the materials contributed in a given season and delay all work while they were present. This would be worse if the army were to use an action such as [Plunder](../../mixed/government/military/Army_qualities.md#foraging). In the event that a hostile force captured Torres or [Bocche](../nations/the-league/Sarvos.md#bocche), work on repairing the Spider's Dream would be impossible and *all* materials contributed so far lost or wasted.
+
+A sobering caution.
+
+> *In-character text:*
+>
+> The aging magistrate eyed the young prognosticator with a look that suggested he thought the civil servant might be some kind of Druj assassin in disguise.
+>
+> "I just need to know if it's constitutional, magistrate." Eilian had been given a surfeit of advice on how to manage the garrulous Highborn and he kept his tone polite and professional as he continued. "Gerard says it can't go forward until yourself and Karkovitch have confirmed there are no constitutional issues with the proposal."
+>
+> "What's the point?" demanded the old man grumpily. "Why waste my precious time on something the Senate won't touch?"
+>
+> Eilian refused to wilt under the man's glare. "This proposal is part of Giovanni's original plans for the bridge" he explained. "It's a crucial part of the historical legacy of the Spider's Dream."
+>
+> "Pffft. You've missed out the bit where Giovanni wanted to train Marcher pigs to fly over the Vassa."
+>
+> Eilian bit his tongue, resisting the urge to fire off an equally sarcastic retort. "Only you can say if it's constitutional magistrate" he said, which was as close as he dared get to saying 'You only need to say if it's constitutional magistrate'.
+>
+> "Course it's constitutional. It's bloody constitutional and bloody stupid is what it is."
+>
+> "Thank you magistrate." Eilian did his best to sound genuine rather than sarcastic but he couldn't quite stop his eyes glancing in the direction of the table where a half-eaten scone was slowly going cold. "I shall let you get back to your important business and not take up any more of your precious time" he said, backing out of the room.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [385YE Winter](../../indexes/by-category/385YE_Winter.md), [Recent History](../../indexes/by-category/Recent_History.md), [Appraisal](../../indexes/by-category/Appraisal.md)

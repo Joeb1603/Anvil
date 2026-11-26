@@ -1,0 +1,33 @@
+{{Army Page}}
+{{CaptionedImage|file=BurningFalcon Colour.png|align=right|width=300}}
+==Overview==
+Lost long ago, the Burning Falcon were famous (and in some cases infamous) for the [[Army qualities#Glory|passionate zeal]] with which they fought. In 248YE the Burning Falcon [[Army|army]] was destroyed by the [[Jotun]] while fighting to defend the academy at Ishal in [[Kallavesa]]. Since their loss of it the Coast has not enjoyed such a large and organised force of [[kohan]] on the battlefield - although [[382YE_Summer_Solstice_Synod_judgements#Judgement_94|recent developments]] have suggested that the army may at last be on the verge of rising from the ashes. Not that the [[Burning Falcon]] is without controversy of its own - [[Emperor Nicovar]] [[The_Throne#Defender_of_the_Empire|took control]] of the army and wielded it as a brand to burn the libraries of the Empire. Some historians suggest that it was lingering resentment for their role in the burning of the libraries that led to the Falcon being left to fight alone against a force of [[orc|orcs]] three times its size.
+
+The original Burning Falcon was populated by soldiers who embraced the Freeborn philosophy of passionate battle, giving them the [[Army_qualities#Glorious|Glorious]] quality. When the army finished mustering in [[Madruga]] just before the Winter Solstice 384YE it was once again full of passionate [[kohan]] willing to embrace an utter commitment to the act of war. The Freeborn Assembly [[386YE_Spring_Equinox_Synod_judgements#Judgement_185|voted]] to uphold a mandate enacted by '''Aracelis i Erigo''', the incumbent general, during the Spring Equinox 386YE that saw Freeborn across the Brass Coast meet with heralds of [[Janon]] to establish braziers and torches burning with [[Various_storms_and_saints#Falcons_Ever_Brighter|eternal flames]] in Madruga, Segura, Kahraman, and Feroz.
+
+The third Brass Coast general leads the Burning Falcon, and is appointed (or re-appointed) at the Winter Solstice each year.
+
+{{CaptionedImage|file=Burning_falcon.jpeg|caption=The banner of the Burning Falcon army.|align=left|width=300}}
+===History===
+The Burning Falcon was destroyed in 248YE defending the academy at Ishal in [[Kallavesa]].
+
+====Recent History====
+Since Summer 382YE, there has been [[Put_on_your_war_paint#Raising_the_Banner|a movement]] in parts of the Brass Coast to recreate the Burning Falcon. This led to an [[Raise_Burning_Falcons|unsuccessful]] [[Senate motion]] in Spring 383YE, followed by a [[384YE_Spring_Equinox_Senate_sessions#Raise_the_Burning_Falcon|successful]] motion a year later in Spring 384YE.
+__TOC__
+===Traditions===
+TBC
+
+====The Flame Rampant====
+The [[General]] of the Burning Falcon was the custodian of the Flame Rampant - a [[Sunfire Pennant]]. When the army fell to the [[Jotun]] during the reign of [[Emperor Guntherm]], the Flame Rampant was lost to the swamps of [[Kallavesa]]. It was recovered and brought to Anvil during the Summer Solstice 383YE in order to be [[Timeless Hammer Rhythm|reforged]]. When the Senate passed the [[Raise Burning Falcon|motion]] to raise the Burning Falcon once again in Spring 384YE the standard was included as regalia for the general.
+
+The Flame Rampant is part of the [[regalia]] of the general. It is the legal property of the title. If the general loses their position, then the item must be given to the new general with all appropriate haste. The general is encouraged to take all appropriate precautions to keep this item safe.
+
+==Composition==
+TBC
+==Army Quality : [[Army_qualities#True_Conviction|True Conviction]]==
+The Burning Falcon is filled with passionate intensity and zeal. During battle the soldiers fight to the absolute best of their ability, and while resting they embrace everything life has to offer knowing that they may die in their next battle. They are utterly committed to the act of war, able to traverse the Empire like a blazing comet, smashing into the enemies of the Freeborn people with unquenchable fury.
+
+However, this quality means that the general is ''only'' able to issue the [[Army_qualities#Glorious|triumphant charge]], [[Army_qualities#Glorious|final stand]], [[Army_qualities#Fast|forced march]], and [[Army_qualities#Fast|desperate reinforcement]] orders. They cannot use any of the [[Army_orders|standard orders]] normally available to a general. The only thing that will allow them to take a different order is a special [[opportunity]] that influences or temporarily changes their quality.
+{{CaptionedImage|file=Aracelis4339.jpg|caption='''Aracelis i Erigo''', General of the Burning Falcon|align=left|width=250}}
+{{RecentElections|General_of_the_Burning_Falcon|the title of [[General]] of the Burning Falcon}}
+[[Category:Imperial Army]][[Category:The Brass Coast]][[Category:Military Council]]

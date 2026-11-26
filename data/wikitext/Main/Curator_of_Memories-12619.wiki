@@ -1,0 +1,28 @@
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Cat's Graces Sodality.png|caption=This title is appointed by the Cat's Graces|width=250px}}</div>
+The Curator of Memories is an [[Imperial title]] awarded to a citizen of [[Varushka]]. The motion to construct the Gallery of Memories was [[Construct Gallery of Memories|passed]] by the [[Senate]] in Winter 386YE. The Curator is responsible for maintaining the gallery and looking after its visitors.
+
+The title was amended as part of the motion that [[388YE_Spring_Equinox_Senate_sessions#Establish_Cat's_Graces|established]] the [[Cat's Graces]] during the Spring Equinox 388YE. Before the amendment, the title was previously appointed by the [[Assembly#The_National_Assemblies|Varushkan Assembly]].
+
+==Responsibilities==
+The Curator of Memories has a responsibility to protect the Gallery of Memories. If the exhibition, or its visitors, were to be threatened in any way, it would be the responsibility of the Curator to deal with those threats.
+__TOC__
+==Powers==
+===Exhibition Donations===
+The Curator of Memories has custodianship of a [[sinecure]]. They receive 216 rings a season from donations made to the gallery by visitors.
+
+==Appointment== 
+The Curator of Memories is a [[Imperial_title#National_Position|national position]] which is [[Appointment by sodality|appointed]] by members of the Cat's Graces. Only a citizen of Varushka may hold the title.
+
+The Curator has [[tenure]] and serves until they die or step down. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the Varushkan Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=FILE.png|caption=NAME, Guide to the Lost|align=left|width=400}}-->
+{{RecentElections|Curator_of_Memories}}
+==Gallery of Memories==
+Built of stone from the nearby Sunless Depths mine, the Gallery of Memories is a simple building surrounded by a small garden of flowers and sculptures. The exterior centrepiece is a stone carving inlaid with flecks of local mithril, depicting enslaved workers sharing food after a long day.
+
+The interior space exhibits artwork and literature produced by Imperial citizens who have been liberated from oppression. The exhibitions focus on enabling displays of Pride in the artists’ previous existences, in spite of their hardships. Talks and performances by survivors are hosted to give visitors more context for the works and to provide insights into the variety of backgrounds of these citizens. All manner of formerly oppressed peoples are welcome, and all are encouraged to share stories of the lives, cultures, and people they left behind.
+
+Visitors are encouraged to provide appropriate donations to pay the artists, upkeep the building, and for the work of the Curator in organising the exhibitions and speakers. The Gallery’s construction was funded by the Proffered Hand Network, established by '''Lady Eleanor Novarion''', and bears a small plaque in her memory above the door.
+[[Category:Title]] 
+[[Category:Varushka]]
+{{Cat's Graces further reading}}

@@ -1,0 +1,1153 @@
+[[Category:Rules]]
+==Overview==
+__TOC__
+This is a list of significant updates to the wiki. We try to keep it as up to date as possible, in the hope it will be a more useful reference than the [[Special:RecentChanges|recent changes]] page which lists every spelling correction and formatting change. 
+
+By its nature, this page will be regularly updated, so when you visit the wiki try checking here first. However, please keep in mind this is a manually updated page, so it may be a little behind the actual updates. We tend to make an entry on this page once an update is finalised - so if something has changed and hasn't been mentioned here it's possible that the changes are not yet complete.
+
+In early 2022, we moved all entries on this page prior to 2019 to the [[Archive:Wiki_updates_to_2018|previous wiki updates]] page in the Archive namespace as detailed in [[#Archiving Wiki Updates|Archiving wiki updates]]. We did this again in 2024, moving updates prior to 2021 to the same page.
+==Ambassadors==
+* '''09/10/2026'''
+We've completed a review of the eleven [[ambassador]] positions currently in the Empire. For the most part this has been a matter of reorganising the pages slightly, and adding a little more information about the foreign nation and its relations to the Empire. There's also a new section on each one called "Ambassadorial Lore" which includes discussion of the embassies involved, the foreign ambassador who deals with the Empire, and a note on Ambassadorial briefings.
+==Titles in Play==
+* '''05/10/2026'''
+We've removed the "Title in Play" section from Imperial titles. This was a hangover from the early years of the game, when players were often uncertain about what titles could and could not do. Instead we've added it to the [[Imperial title]] page, in a section titled [[Imperial_title#Limitations|limitations]].
+==Serpenttooth==
+* '''01/10/2026'''
+We have removed the ''Serpenttooth'' skill; a free skill from 2016 that allowed people to create a single potion as part of a set of recipes after learning it from a herbal. This potion is now part of the standard list of potions mixable and so the skill is irrelevant. The characters who had that skill have had it removed from their list of skills.
+
+==Rivers Run Riot==
+* '''10/09/2026'''
+As discussed in the '''[[A_habit_I_can%27t_break#Rivers_Red_and_Lively|A habit I can't break]]''' wind of fortune, the relationship between [[Rivers Run Red]] and [[Rivers of Life]] has permanently shifted. Instead of removing one another, they simply replace one another. It is also possible to create a similar effect with [[Winter magic]], but in each case those rituals would all replace one another. Once a ritual that changes casualties at the [[territory]] level is in play, one can only change which version is active with the other rituals not return the territory to a state of neutrality.
+
+==Favoured Quality==
+* '''08/09/2026'''
+We've made a slight adjustment to the wording of the [[Eastern Sky]] special quality, [[Eastern_Sky#Army_Quality_:_Favoured|favoured]]. The restriction on issuing the same order on two consecutive seasons means that if the general issues ''Traverse the Crossroads'' at the Summer Solstice, they can't also use it at the ''Autumn Equinox'' even though their favours have refreshed. As long as they use different orders each time, they can issue a special order every event.
+
+==Eyes of the Hills==
+* '''05/09/2026'''
+This ritual has been replaced with a new war ritual that is compatible with the rules for [[war magic]]. Anyone who currently has the ritual mastered who does not wish to have the new version of this enchantment mastered, can email admin@profounddecisions.co.uk to have it removed from their mastered rituals.
+
+==Arcane Consolidation==
+* '''01/09/2026'''
+We have updated the rules for [[Army_qualities#Magic|arcane consolidation]] to provide 35 mana crystals for a full strength army that takes the order, with proportionately less for a depleted force. This replaces the previous rule which rounded the army's strength to the nearest thousand to calculate the mana produced.
+
+==Shield Rules Update==
+* '''28/08//2026'''
+We have changed the rules for kite and heater shields to give a simpler definition of the maximum sizes. The new rules make it much easier for our weapon check team to check a shield is the right size, quickly and easily at the event and should make it easier for players to be certain whether or not their shield pass. The new rules are designed to be more permissive than the old rules to ensure that any regular shaped kite or heater shield that would have passed before will pass under the new rules.
+
+==Clear Counsel of the Everflowing River==
+* '''24/08/2026'''
+We've added a clause to the [[Clear Counsel of the Everflowing River]] ritual to make clearer what happens when [[Clear_Counsel_of_the_Everflowing_River#Preparing_the_Question|preparing the question]]. If the question does not follow the format laid down by [[Sung]] (''"The named coven asks Sung why..."'') then the eternal will still respond, but is under no obligation to provide a useful answer.
+==Hooded Misery==
+* '''12/08/2026'''
+We've removed the potion Hooded Misery from [[The Last Resort]] potion set. It is no longer possible to mix this potion, and existing potions will have no effect beyond making the drinker feel ill for a short time. We've done this for several reasons, one of which is that we're not interested in rekindling contagious disease plot.
+
+==Herthfire's Hospitality==
+* '''12/08/2026'''
+We've adjusted the magnitude of [[Herthfire's Hospitality]] to match that of [[Leonine Pavilion]]. We had incorrectly set the magnitude to match [[Chamber of Pallas]] and similar rituals, which restore personal mana.
+==Colour Coding==
+* '''08/08/2026'''
+We have been presenting opportunities in box-outs for the past few years, but we've recently added some more colours to make it easier to pick up information at a glance.
+<table style="float: right; margin-left:10px; width=50%; max-width:400px;">
+<tr><td style="background-color: HotPink;">'''Venture/Voyage'''</td></tr>
+<tr><td style="background-color: LightBlue;">'''Commission'''</tr>
+<tr><td style="background-color: LightGreen;">'''Title'''</tr>
+<tr><td style="background-color: #C994FF;">'''Motion'''</tr>
+<tr><td colspan="2" style="background-color:LightYellow;">'''Ministry'''</td></tr>
+<tr><td style="background-color: Pink;">'''Chamber of Commerce'''</tr>
+</table>
+* '''Venture/Voyage:''' [[venture|Ventures]] and [[voyage|voyages]] available to military units and fleets, with entries for what Type of venture/voyage; Location (if relevant); Availability; Duration; Rewards; and Special
+* '''Commission:''' A [[commission]], with entries for Commission type; Location; Cost; Time; Effect; Availability; and Special
+* '''Title:''' A [[Imperial title|title]], with entries Type; Appointment; Powers; Responsibilities; and Cost
+* '''Motion:''' A [[Senate motion]], with entries for Motion type; Necessary details; Cost; Effect; Availibilty; and Special
+* '''Ministry:''' A [[ministry]], with the goods available and what they can be purchased for. Most commonly used with a new Imperial title
+* '''Chamber of Commerce:''' When a group of [[Resource#Personal_Resource|personal resource]] holders in a territory are called on to make a decision, such as the [[farm]] owners of [[Hahnmark]] meeting to [[Petals_in_the_snow#Making_the_Choice|decide on Sarcophan merchants]] during the Spring Equinox 388YE
+
+==Clarion Call of Ivory and Dust==
+* '''17/07/2026'''
+The assurance of [[Clarion Call of Ivory and Dust]] has been broken. The ritual no longer functions and any attempts to perform the ritual will fail. More information can be found in the "A Silenced Call" section of the '''[[Ambassadors of death#A Silenced Call|Ambassadors of death]]''' wind of fortune.
+
+==Three Refrains==
+* '''14/07/2026'''
+We've dropped the page for the Three Refrains, since there are no longer any NPC members of the group and their role has been supplanted by the [[Cat's Graces]] [[Imperial sodality]].
+
+==Grandmasters==
+* '''14/07/2026'''
+We have made a number of changes to the rules for challenging a [[grandmaster]], or electing a new one if they die or resign. The new rules and the reasoning for the change along with an IC justification have been added to the [[Rules update 2026]].
+
+==Shield Shapes==
+* '''12/07/2026'''
+We've added a note to [[Weapons & armour]] to make provide better clarity on what is or is not a kite or heater shield. We've also removed the metric measurements, as they did not match the imperial measurements (and were slightly smaller).
+
+==Signs and Portents==
+* '''08/07/2026'''
+We've added a note to [[Signs and Portents]] to make it clear that you also can't direct the ritual effect using an [[arcane projection]]. Creating "visionary divinations" is more an art than a science, but there's explicitly no way to access the big pool of Night visions in a way that controls or influences the vision you receive.
+
+==Military Archive of Zakalwe==
+* '''<s>22/06/2026</s> 24/06/2026'''
+The assurance of this ritual, which is not in Imperial lore, has not been broken. The ritual continues to work as intended.
+
+==Magnitude Changes During Codification==
+* '''01/06/2026'''
+We've added a note to the [[college of magic]] page laying out that it is possible for an arcane projection to result in a ritual of different magnitude, especially when the final ritual has more general application than the specific arcane projection.
+
+==Multiple Arcane Projections==
+* '''01/06/2026'''
+We've updated the rules on arcane projections to make it clear that you can't create multiple copies of the same arcane projection in the same season. 
+
+==Somnolent Wanderer==
+* '''21/05/2026'''
+We've edited the ritual ''Somnolent Wanderer'' to make clear that it is only possible to cast the ritual on the Friday or Saturday of an event. The ritual has been adjusted on the database, and we can provide a new copy of the ritual text in return for the old one.
+
+==Heaven's Spear Sunders the Mountain==
+* '''11/05/2026'''
+We've adjusted the base magnitude of the ritual ''Heaven's Spear Sunders the Mountain'' from 16 to 8, and the additional target magnitude from 12 to 6. The magnitude of this ritual was incorrect. It's been adjusted on the database, and we can provide a new copy of the ritual text in return for the old one.
+
+==Zemress Festival==
+* '''22/04/2026'''
+We've added a page for the [[Zemress festival]], which is a [[The Brass Coast|Freeborn]] festival held on the Saturday of the Spring Equinox that has recently sprung up inspired by [[Zemress]], exemplar of [[Prosperity]].
+
+==Religious Crime==
+* '''08/04/2026'''
+We've made some extensive changes to how [[religious crime]] is defined by the [[Synod]] and prosecuted by the magistrates. This included the creation of the new Synod [[judgement]] of [[proscription]], as well as changes to how [[castigation]], [[vindication]], and [[penance]] work. Further discussion can be found in the [[Figure of eight]] wind of fortune.
+
+==Rewarding==
+* '''06/04/2026'''
+We've updated the text for [[rewarding]] to add that the Tribune has the discretion to dispose of the funds if the priest raising the judgement dies.
+
+==Salt Council==
+* '''02/04/2026'''
+We've added the information from the Grendel dossier on the Salt Lords to the [[Grendel#Salt_Council|Salt Council]] section of the Grendel page. This information was originally delivered by the eternal [[Basileia]] to the [[Imperial Magus]]. More information on the origins of the dossier can be found on the '''[[Fake_empire#Basileia's_Dossier|Fake empire]]''' wind of fortune.
+
+==Tribute==
+* '''02/04/2026'''
+We've changed [[Tribute to the Thrice-Cursed Court]] to adjust the calculation whereby we determine how much [[vis#Heart's Blood|Heart's Blood]] the ritual produces. You can find further discussion of this on the [[Rules_update_2026#Tribute_to_the_Thrice-Cursed_Court|Rules Update]] page. As always, anyone who has this ritual mastered and no longer wants the updated version can email admin@profounddecisions.co.uk to remove it.
+
+==Ruining Forts==
+* '''01/04/2026'''
+We've added a section to the [[Limits of magic]] talking about using rituals to [[Limits_of_magic#Damaging_Fortifications|damage fortifications]]. While it may have been possible in the past to damage forts in a controlled fashion with ritual magic from a distance, that's no longer the case.
+
+==Rivers==
+* '''01/04/2026'''
+We've adjusted [[Rivers of Life]] and [[Rivers Run Red]]. These [[curse|curses]] are now as effective on [[navy|navies]] and [[fortification#garrison|garrisons]] as they are on [[army|armies]].
+
+==Golden Voyage==
+* '''01/04/2026'''
+We've changed the magnitude and effect of [[Golden Voyage]] to bring it more into line with the way we approach personal resource enchantments, with particular reference to the [[Laws_of_magic#The_Law_of_Scale|Law of Scale]]. It now provides only five ranks for a fleet taking a [[Fleet#Questing|questing]] [[voyage]], but in the process, the magnitude has been significantly reduced from 18 to 10.
+
+==False Virtues==
+* '''31/03/2026'''
+We've made several edits to the [[malign spiritual presences]] page to add some additional clarity, especially around the concept of so-called "[[Malign_spiritual_presences#False_Virtues|false virtues]]."
+
+==Multiple Great Works==
+* '''26/03/2026'''
+We've added a note to the [[Great_work#Multiple_Great_Works|great work]] page that reflects the fact that multiple great works in a territory affecting a single resource become more expensive. It's now not possible to commission a great work that affects the same resource until an existing commission is completed, abrogated, or lapses, without a specific [[opportunity]].
+
+==Litany of the Labyrinth==
+* '''26/03/2026'''
+We've explicitly added [[Voice for the dead]] to the effects that the [[Litany of the Labyrinth]] will affect.
+
+==Garden of Teth-Anon==
+* '''03/03/2026'''
+We have added an [[Ritual_theory#Agreement|assurance]] to the [[Garden of Teth-Anon]]. This follows the assurances added last year, which can be found in the [[#Assurances|Assurances]] entry.
+
+==Assailing Forts==
+* '''04/02/2026'''
+In line with our new fortification changes we've edited the [[Highest_discipline#Technique_of_the_Transcendent_Claw|Technique of the Transcendent Claw]], and explained how the ''Onrushing Storm'' order works under the new rules. We've also made edits to the way the [[Army qualities#Siege|Storm the Walls]] and [[Army qualities#Engineer|Dig In]] orders work.
+
+==Fortifications==
+* '''03/02/2026'''
+We've made some significant changes to the way [[fortification|fortifications]] work in the military campaign. The fortification page has been extensively edited; fortifications are now split into a [[fortification#bastion|bastion]] that represents the physical fortification, and a [[fortification#Garrison|garrison]] that represents the soldiers who defend it. In the process, we've removed the citadel commission. There is a [[Rules update 2026#Fortifications and Citadels|rules update]] that discusses the changes in more detail.
+
+At the same time, we've made changes to several rituals that interact with fortifications. This includes:
+* [[Hammers of the Brilliant Shore]] and [[Stalwart Stand on Solid Ground]] explicitly affects only the bastion of a fortification.
+* [[Stone's Unyielding Defiance]] and [[Ramparts of Ashlar]] provide additional force to the garrison of a fortification
+* [[Thunderous Tread of the Trees]] and [[Mountain Remembers Its Youth]] affect both the bastion and the garrison, and how their damage is inflicted has been adjusted slightly.
+* The ''Wolves of Winter'', a ritual not in Imperial Lore, provides additional strength to the garrison of the enchanted fortification, but ''only'' for purposes of inflicting casualties.
+* The four "citadel" rituals - [[Frozen Citadel of Cathan Canae]], [[Forge the Wooden Fastness]], [[Dripping Echoes of the Fen]], and [[The Basalt Citadel]] have been changed significantly, and each provides different benefits.
+
+Some of the rituals have also had their magnitude adjusted. We're currently still assessing existing fortifications, and outstanding opportunities and will update them as we go.
+
+==Dadford Road Exit Plan==
+* '''09/09/2025'''
+There are new instructions for when you are [[Dadford_Road_Campsite#Departure|exiting Dadford Road campsite at the end of this final event]]. Please make sure you follow the instructions carefully to save time for you and everyone else!
+
+==Chimes of Annulment==
+* '''08/09/2025'''
+We've changed the duration of effect for [[Chimes of Annulment]] from one minute to ten minutes. The previous short duration left too little margin for error to make it an appealing option on battles. The new time is designed to be difficult - but more achievable. The recent conjunctions involving the Lock and the Key provide an IC justification for the change if one is needed.
+
+==Varushka Embroidery and Weaving==
+* '''08/09/2025'''
+We have updated the [[Varushka_culture_and_customs#Embroidery_and_Weaving|Varushka culture and customs]] page with an entry on embroidery and weaving, following the completion of the Great Hall of Fabric Arts in Delev.
+
+==Sodality Limitations==
+* '''05/09/2025'''
+We have changed the [[Imperial_sodality#Limitations|limitations on titles appointed by Imperial sodalities]]. If they elect a national position it must be revocable by the relevant national assembly. 
+
+==Walls of Holberg==
+* '''23/08/2025'''
+We've fixed an error in the database for the location of the Walls of Holberg. The city of Holberg is in the region of Holfried - which is where the walls are canonically - not neighbouring Holmauer (which was once walled, but the walls were long since destroyed by the Druj).
+
+==Detect Magic==
+* '''07/08/2025'''
+We've changed the Discern Arcane Mark effect of [[detect magic]] to instead be [[Detect_magic#Discern_Mark|Discern Mark]]. We have made clear that it also functions to identify when the casting magician shares a [[Mark of Fellowship]] with the target.
+
+==Rewarding==
+* '''20/07/2025'''
+We've made some updates to the [[judgement]] of [[Rewarding]]. It explains how the virtue fund relates to wains of mithril, weirwood, and white granite and discusses more ways the judgement can be used.
+
+==Rule of Risk and Reward==
+* '''16/07/2025'''
+As referenced in the '''[[Beat of your drum#Lyceum|Beat of your drum]]''' wind of fortune, researchers at the Lyceum have discovered a way to add additional targets to this ritual.
+
+==Sum of the Parts==
+* '''16/07/2025'''
+As referenced in the '''[[Beat of your drum#Lyceum|Beat of your drum]]''' wind of fortune, it is not necessary when casting [[Sum of the Parts]] for the three additional participants to take damage. Supporting the target with words of encouragement or similar roleplaying is sufficient to power the ritual effect.
+
+==Sun Chamber==
+* '''14/07/2025'''
+We have added a new sodality - the [[Sun Chamber]] to the game. This is a powerful [[Imperial sodality]] whose membership is restricted to citizens aged 14-18. The aim is to directly address the fact that Empire can be a very inaccessible game for players before they turn twenty. The new sodality exists to help members gain positions of power and influence in the Empire and encourage members to approach existing problems in new ways.
+
+==Secrets of the Empty Heart==
+* '''25/06/2025'''
+We've updated the ritual [[Secrets of the Empty Heart]] to make it explicit that you can use the special ability granted by the [[enchantment]] even if you are under the effect of [[Calls#WEAKNESS|weakness]], [[Combat#Dying|dying]], or [[Combat#Terminal|terminal]]. This is a special case where an active ability can be used when in a state where it would normally not be possible.
+
+==Navarr Wayhouse==
+* '''21/06/2025'''
+We have created a new page that contains all the rules for a [[Navarr wayhouse]] [[commission]]. Most of the details are based on the information we provided in the original wind of fortune, but where we have made some changes, these new rules will not affect any motions passed at the Spring Equinox or earlier. The [[387YE_Spring_Equinox_Senate_sessions#Construct_Wayhouse_in_Ossium|wayhouse in Ossium]] is fine to be built with [[mithril]] and produce [[Game_items#Mana_Crystals|mana crystals]]. Any new wayhouses will all have to follow the new rules and can only be built using a Senate motion or an Imperial title with the power to commission a wayhouse.
+
+We've stubbed the new page for the next few days, while we finalise any changes for new wayhouses. We'll remove the stub once that process is complete.
+
+==Historical Researchers==
+* '''09/06/2025'''
+We've added an [[Historical_research#Ser_Eddard_d'Argenteux|additional researcher]] to the list of senior historical researchers. This is to cover historical research into topics for which research into songs, stories, legends, and myth might be the most appropriate avenue of inquiry. 
+
+==Colleges and Runeforges==
+* '''4/06/2025'''
+We've updated the upkeep for a [[college of magic]] and for a [[runeforge]], and introduced a new rule on the maximum number of such facilities that the Empire can support. The old rules for upkeep were somewhat incomprehensible, the new rules are much easier to understand and make it much easier for us to run plot around these important commissions. There is more detail on the update on the [[Rules_update_2025#Colleges_and_Runeforges|rules update wiki page]] explaining the changes, the impacts and the reasoning for them.
+
+==Senate==
+* '''2/06/2025'''
+We've updated several pages on the running of Senate. We've extended the description of [[Senate_session#Expert_Witness|expert witnesses]] to match how it is working in practice and included a copy of the Civil Service's guidance for expert witnesses. As part of this, there is a new rule that senators [[Senator#Limitations|can't act as expert witnesses]] themselves.
+
+We also updated the page on [[Senate_session#Sunday_session |Senate sessions]], introducing stricter plans on Sunday to help the session finish promptly.
+
+==Ritual Theory==
+* '''29/05/2025'''
+We've updated the [[ritual theory]] page. It was already huge, so we've split some of the content up into logical chunks on new pages, creating a page for the [[limits of magic]] as well as one on the [[laws of magic]]. We've significantly overhauled the content on [[eternals and rituals]] and created a new page for that also - there is a lot of additional information there now for players whose characters are involved with ritual magic.
+
+We've also added a page on [[war magic]] which discusses the possibilities and potential of using the realms to enchant armies, military units and fleets. This page reflects the changes we've made earlier this year, but brings a lot of the key information together, so that it is one place. 
+
+==Herbal==
+* '''16/05/2025'''
+We've added the details for a [[Potion#Herbal|herbal]]; something similar to a [[Magic_items#Schema|schema]], but for one or more potions. The entry shows how they are made, how they can be added to Imperial lore, and how they can be destroyed.
+
+==Towerjacks==
+* '''14/05/2025'''
+We've edited the ''dig in'' order of the [[Army qualities#Engineer|engineer]] quality to exclude the mustering of [[Army|armies]] and [[navy|navies]] from their ability to speed up a [[commission]].
+
+==New Characters and Conquered Territories==
+* '''14/05/2025'''
+We've updated the system so that it is no longer possible for players to create new characters in territories that have been completely conquered - that is, territories which are receiving the [[Resource#Conquered_Territories|conquered territory]] penalty. This is partly done to ensure new players unfamiliar with the state of the campaign do not make the mistake of starting in a territory where they will face significant additional challenges. 
+
+==Citadels==
+* '''13/05/2025'''
+We've added a page for citadels, the new commission type from the '''[[The_war_of_thorns_and_flowers#All_Along_the_Watchtower|The war of thorns and flowers]]''' wind of fortune. (Citadels have since been replaced with new rules for fortifications).
+
+==Vines and Symbols==
+* '''03/05/2025'''
+We've added a note to the [[Vine#Costume|costume]] section of the Vine page to make clear that it is not appropriate to use a square red diamond on its own as part of costume, to avoid accidentally breaching the Geneva Convention by using a symbol of the [https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement International Red Cross and Red Crescent Movement]. 
+
+==Arcane Projections==
+* '''03/05/2025'''
+We've made a change to the [[Arcane_projection#Preparing_an_Arcane_Projection|deadline for submission]] of [[arcane projection|arcane projections]]. Rather than the late booking deadline, the deadline for the Spring Equinox will be the early booking deadline, and after that the deadline will permanently shift to the close of downtime. You can read more about it in the [[387YE_Spring_Equinox_interlude#Arcane_Projections|Spring Equinox interlude]].
+
+==Colleges and Runeforges==
+* '''03/05/2025'''
+We've changed the email address for players who run a [[college of magic]] or [[runeforge]] to send their submissions to. Rather than rules, they should now be sent to {{plot}}. The deadline for submissions (the end of downtime) remains unchanged.
+
+==Glossary==
+* '''11/04/2025'''
+We have added a [[glossary]] page to the wiki with some more information on common terms used in Empire and LRP as a whole. We expect this to be updated on a semi-regular basis as more terms come to light. Any queries or suggestions can be sent to [mailto:wiki@profounddecisions.co.uk wiki@profounddecisions.co.uk].
+
+==Dreamcatchers==
+* '''07/04/2025'''
+[https://en.wikipedia.org/wiki/Dreamcatcher Dreamcatchers] will be inappropriate for use in [[costume]] at Empire from event three this year onwards. We want to avoid using items that are culturally sacred in real life because it is more difficult to ignore their real world significance and we don't want to disrespect people's beliefs. We've managed to speak to some of the players affected already, and everyone has responded very positively, but we realise we haven't been able to speak to everyone about this change - hence the reason for two events' grace to allow players to make any changes needed to their costume.
+
+==League Look and Feel==
+* '''07/04/2025'''
+We have rewritten [[the League look and feel]] to move beyond from the more restrictive costume options presented by the original brief. We do want the League to have a really clear visual look that defines the nation, but we want to ensure that it includes garments that everyone can feel confident wearing.
+
+==Combat==
+* '''07/04/2025'''
+We have update the combat rules for Empire to say that head hits will not be allowed at any events in 2025. We are trialling the new rules, so please see the [[Rules_update_2025#Combat|rules update page]] for more details.
+
+==Alignment==
+* '''28/03/2025'''
+We've added a fourth option to the [[declaration]] of [[alignment]], that of [[alignment#Acceptance|Acceptance]], as a result of opportunities created by plot over the last year or so. This allows the Conclave to accept or refuse an offer from an eternal, in a manner that the Archmage of the appropriate realm can also use.
+
+==Army Enchantments==
+* '''25/03/2025'''
+We've made several changes to rituals that [[enchantment|enchant]] an [[Army|Imperial army]]. Almost every army enchantment ritual has changed in some fashion. It is no longer possible to change the [[Army qualities|quality]] of an army with magic, and the resonant effects for each realm have been much more clearly defined. You can find out more about these changes in the accompanying [[rules update]].
+* [[Swords in the Noonday Sun]] ([[Urizen lore]]; Summer 80): now fills soldiers with supernatural prowess, increasing the strength of an army by the equivalent of 1000 extra warriors. It's also gained an option for additional targets. The roleplaying associated with it has also changed, meaning it is no longer considered a ritual that uses savagery to create its effect.
+* [[Find the Best Path]] (Autumn 80): Now grants a campaign army the ability to move through an additional territory, rather than granting the [[Army qualities#Fast|fast]] quality. The magnitude has been lowered to 80, and an option to include additional targets has been added.
+* [[Quickening Cold Meat]] (Winter 120): We've reduced the magnitude of the ritual and been significantly clearer about the unpredictable dangers associated with the ritual.
+* [[Machines of Destruction]] (Autumn 135): No longer offered by [[Estavus]] and removed from the [[Mystic scrolls of Estavus]] page.
+* [[Loosen the Shackles]] ([[Urizen lore]]) Winter 120): now gives an enchanted army the equivalent of 4,000 extra soldiers but only for purposes of inflicting casualties on an enemy. The magnitude has increased to 120. It still draws on the forbidden power of [[Agramant]].
+* [[Why Sulemaine Walked Away From The Baker]] (Winter 80): The effects of the ritual have been increased. In addition to making the army more resistant to effects related to poison and venom, it also reduces damage suffered from other means.
+* [[Bound by Common Cause]] (Autumn 80): has had its effect completely redesigned and now reduces the upkeep of an army while providing potential narrative bonuses.
+* [[Fire on the Water]] and [[Eyes of the Hills]] cannot currently be cast; we are still deciding how to deal with them.
+
+The change has also affected some non-enchantment rituals.
+* [[Eyes of the Sun and Moon]] (Day 14): now provides information about enchantments on armies and fortifications in the territory scried.
+* [[Eye of the High Places]] (Day 14): now provides information about large-scale effects on a territory. 
+* [[Dreams in the Witch House]] (Night 14): has been reworked to make it better reflect the way the ritual had evolved in play and to widen the kind of information it provides. The magnitude has increased to 14, bringing it into line with similar divinations.
+
+==Fleet Enchantments==
+* '''24/03/2025'''
+In conjunction with our [[#Military Unit Enchantments|changes to military units]], we've also updated the way a [[fleet]] acts in [[downtime]]. As with military units, we've streamlined the actions that can be taken by a fleet captain, and how they interact with [[enchantment]] rituals. We've introduced several new actions that any fleet captain can take, and defined others more closely. These changes will take effect in the downtime following the Winter Solstice.
+
+The main change to rituals has been to better define which action each ritual supports. One of our goals has been to ensure that each ritual affects only one kind of action, and where possible to strengthen the themes of the individual realms as part of a wider update. The magnitudes of rituals have not changed, nor has the amount of benefit they provide; we've just defined what action that benefit applies to more clearly.
+
+Rituals affected include [[Blood and Salt]] (supports raiding), [[Winds of Fortune]] (supports trading), [[The Lure of Distant Shores]] (supports trading), [[Sular's Promise]] (supports trading), [[Golden Voyage]] (supports questing), [[Muffled Oar]] (supports scouting), and [[Piranhas Devour the Kraken]] (supports campaigning). The ritual ''Shroud of Rolling Fog'', which is not in Imperial lore, has likewise been adjusted to support a single category of fleet action. 
+
+We've also added a new ritual to Imperial Lore: [[Wolves of the Hungry Sea]] (Winter 12) that is used to support guarding actions.
+
+As always, if your character has mastered a ritual that has changed you can email [mailto:admin@profounddecisions.co.uk admin@profounddecisions.co.uk] and we'll free up the mastered ritual slot for you.
+
+==Imperial Sodalities==
+* '''18/03/2025'''
+We've made several significant changes to the procedures and benefits of creating an [[Imperial sodality]]. Key among them is the idea that a truly Imperial sodality is capable of wielding legal powers and appointing titles; that anyone can become a voting member of an Imperial sodality simply by receiving a ritual mark; that one can only be a voting member of a single Imperial sodality; and that their creation and upkeep are now much more clearly defined. This has also involved an addition to the powers of [[The Throne#The Great Councils|the Throne]], [[Powers of the Imperial Senate#Imperial Sodalities|Powers of the Imperial Senate]], and [[New_Imperial_titles#Well_Worn_Paths|New Imperial titles]]. There's also a new ritual in Imperial Lore - [[Mark of Fellowship]] - that supports membership of an Imperial Sodality. 
+
+We've also written a [[Rules update 2025#Imperial Sodalities|Rules Update]] discussing the changes.
+
+==Runa's Gift==
+* '''14/03/2025'''
+We have added a page for [[Runa's Gift]] to the wiki and the recipe list is now available for [[Surgical_skills#Apothecary|apothecaries]] to learn. These potions come as a result of the [[Yerende]] joining the [[Imperial Orcs]] and use [[realmsroot]]. Anyone who has the necessary ingredients in their inventory and has learned the recipe list can email [mailto:plot@profounddecisions.co.uk plot@profounddecisions.co.uk] before the '''1<sup>st</sup> of April''' to mix potions from this recipe list before the event.
+
+==Military Unit Enchantments==
+* '''14/03/2025 '''
+We've overhauled the way [[military unit|military units]] act in [[downtime]]. The focus has been on streamlining the actions that can be taken by a player with that resource, and how they interact with [[enchantment]] rituals. We've introduced several new actions that any military unit can take (such as mercenary work or seeking glory) as well as a small number of adventures available to specific nations or archetypes. These changes will take effect in the downtime following the Winter Solstice.
+
+The main change to rituals has been to better define which action each ritual supports, and to remove rituals that supported multiple actions. Some magnitudes have shifted up or down as well. One of our goals has been to ensure that each ritual affects only one kind of action, and where possible to strengthen the themes of the individual realms as part of a wider update.
+
+Rituals affected include [[Merciless Wrath of the Reaver]] (supports raiding), [[Raise the Standard of War]] (supports campaigning), [[Clarion Call of Ivory and Dust]] (supports campaigning and has also gained an [[#Assurances|assurance]]), [[Shroud of Mist and Shadow]] (supports raiding, magnitude lowered), [[Clad in Golden Raiment]] (supports campaigning and the magnitude has increased to 6), [[Sharp Eyes of the Corsair]] (supports scouting), [[Lions of Phoenix Reach]] (supports campaigning), [[Carve the Crystal Guardian]] (supports campaigning), and [[Conclave of Trees and Shadow]] (supports scouting).
+
+As well as rituals in Imperial Lore, there have also been changes to these [[Urizen lore]] rituals: [[Aspect of the Mountain]], [[Peregrine and Ichimos]], and [[Raise the Dragonsworn Cohort]] (all now explicitly support the guarding action), [[Unleash the Beasts Within]] (the magnitude has increased to 16, and the enchantment now supports the campaigning action). 
+
+These changes have also affected a few rituals that are not in either Imperial lore or Urizen lore. Specifically, [[Accoutrements of War]] (supports campaigning, no longer provides green iron), and ''Weaver at the Web'' (supports scouting actions).
+
+We've also introduced a new ritual, [[Feast of Heroes]], a [[Summer magic]] enchantment that supports military units taking a [[Military unit#Questing|questing]] action.
+
+As always, if your character has mastered a ritual that has changed you can email [mailto:admin@profounddecisions.co.uk admin@profounddecisions.co.uk] and we'll free up the mastered ritual slot for you.
+
+==Assurances <!--I-->==
+* '''13/03/2025'''
+* '''Updated 26/03/2025'''
+We have added [[Ritual_theory#Agreement|assurances]] and [[eternal|eternals]] to the pages of a number of rituals. This is a result of the [[Unfettered Mind]] having been instructed to [[385YE_Summer_Solstice_Conclave_sessions#Concord_:_Study_Rituals|investigate]] the ritual [[Dripping Echoes of the Fen]] by the Imperial Conclave, and the continuation of the order's efforts. Any member of the order can roleplay that they were part of this research; appropriate stories might involve tracking across the Empire, careful discussion with scholars, or <!--staring at dusty scrolls for hours-->negotiations with isolated covens for snippets of information.
+{{div col|colwidth=30em}}
+*[[Balanced Scales of Lann]]
+*[[Carve the Crystal Guardian]]
+*[[Challenge the Iron Duke]]
+*[[Clarion Call of Ivory and Dust]]
+*[[Conclave of Trees and Shadow‎‎]]
+*[[Crystalline Focus of Aesh]]
+*[[Dripping Echoes of the Fen]]
+*[[Ephisis' Scale]]
+*[[Fire in the Blood]]
+*[[Forge the Wooden Fastness]]
+*[[Frozen Citadel of Cathan Canae]]
+*[[Gift of Knowledge]]
+*[[Kimus' Glaring Eye]]
+*[[Lions of Phoenix Reach]]
+*[[Prowess of the Golden Magician]]
+*[[Pallid Flesh of the Dead King]]
+*[[Quickening Cold Meat]]
+*[[Sift the Dreamscape's Sands]]
+*[[Sorin's Chastising Touch]]
+*[[Sorin's Rite of Agony]]
+*[[Swim Leviathan's Depth]]
+*[[The Basalt Citadel]]
+*[[Tribute to the Thrice-Cursed Court]]
+*[[Whispering Shadow Courtiers]]</div>
+
+==Realms and their Inhabitants==
+* '''25/01/2025'''
+We've done an overhaul of the [[realm]] and [[eternal]] pages adding examples and further details about each of the realms and the powers and restrictions of eternals. We have also added the [[Inhabitants of the realms]] page which goes into detail about the various creatures that live in each of the realms.
+
+==Links on the Tactical Map==
+* '''29/12/2024'''
+We've added links to each territory - and some important areas like the Semmerlak or the Bay of Catazar - to the [[Map - Coloured Territories|coloured territories]] map page. It is now possible to click on an area of the map to be taken to the specific territory's page.
+
+==Names of the Chain==
+* '''05/12/2024'''
+We've swapped the names of star #1 and star #5 on [[the Chain]]. The writer had confused his left and right and got the anchor at the wrong end of the constellation.
+
+==Arcane Gambit and Ilium==
+* '''15/10/2024'''
+We've updated [[Thief's Arcane Gambit]] and the [[Ilium#Removing_a_Permanent_Effect|ilium]] page to detail how an [[enchantment]] that has been made permanent with [[ilium]] can be moved by that Night ritual. The magnitude required is based on the total amount of ilium that could/should have been used to make the enchantment permanent without any [[opportunity]] being taken into account.
+
+==Throne Judgement==
+* '''15/10/2024'''
+We've added a note to [[the Throne]], providing them explicitly with the ability to raise a [[judgement]] [[The Throne#Member of the Assembly of Nine|in the Assembly of Nine only]] in the event they do not control a [[congregation]].
+
+==Assignment==
+* '''10/09/2024'''
+We have updated the power of [[Powers_of_the_Imperial_Senate#Assignment|assignment]] to set down that a motion to assign a territory is always raised as an administrative motion by the Speaker for the Senate. 
+
+==Veto==
+* '''31/08//2024'''
+We have updated [[veto]] to remove the ambiguity about when a veto held over from the previous event ends. We have put a fixed end point, 10pm on Saturday night. The [[Rules_update_2024#Veto|rules update]] page contains the OOC reasoning and the IC justification for this edit.
+
+==Proxies and Resigning==
+* '''22/08/2024'''
+We have added an entry to the [[Proxy#Restrictions|restrictions]] of what a proxy can do. It is not possible for a proxy to resign on behalf of the title holder as that is not a power of a specific Imperial title. 
+
+==Maps of Otkodov==
+* '''19/08/2024'''
+We have added a note that was missing to the [[Otkodov]] page making clear that the Empire only has a strategic map of [[Verthandi]]. When the first spy network was created the entirety of Otkodov was mapped in error. To gain access to strategic maps of the other territories of the Thule additional [[spy network|spy networks]] would need to be constructed and [[Military_unit#Scout_an_Area|supported]] in the normal fashion.
+
+==Senate Voting==
+* '''19/08/2024'''
+We have updated the [[Senate motion]] page to remove an option for secret voting. We've removed it because it hadn't been used in years if ever, because supporting it logistically would have been a massive hassle, but mostly because it runs contrary to the major design elements of Empire around the operation of politics within the game.
+
+==Audio recordings==
+* '''09/08/2024'''
+We have updated the [[photography]] rules to remove the option to make audio recordings at events. On further consideration we were convinced that audio recording was much closer to filming and should follow the same rules and guidelines. As a general rule of thumb we want to minimise intrusion: we permit people to take photographs, but that is the limit.
+
+==Black Plateau Template==
+* '''24/07/2024'''
+We have changed the formatting for the Black Plateau template that we use to increase readability and in an attempt to avoid eyestrain. It has changed from black text on a grey background to white text on a black background.
+
+==Fleet Great Work Restrictions==
+* '''13/07/2024'''
+We've added a note to the [[Great work]] page making clear that a great work that supports [[fleet|fleets]] can only be built in a region with the coastal [[Region qualities|quality]].
+
+==Whispers through the Black Gate==
+* '''25/06/2024'''
+We've added a line to the [[Whispers_through_the_Black_Gate#OOC_Elements|OOC elements]] of [[Whispers through the Black Gate]] to add a little clarity to what happens if you want to summon the spirit of a dead NPC.
+
+==Sung and their Counsel==
+* '''22/06/2024'''
+We've made a couple of tiny changes to the [[Sung]] page, to provide more context for the kind of mysteries that the eternal encourages you to probe and look into and those mysteries she prefers to stay hidden. We've coupled this with a set of updates to the main ritual that draws on Sung's power [[Clear Counsel of the Everflowing River]].
+
+We've decided to change the way we respond to queries to Sung to try and provide more useful information going forwards. We want to keep some of the enigmatic quality of the responses, which some of those players casting the ritual currently enjoy - but we want to make it easier to get more useful insight, guidance and wisdom from the ritual.
+
+To help us do that we've changed the way we'll be responding to the ritual going forwards. We created a set of guidelines for the style of responses that we'll give to the different kinds of questions we've been getting up to now. Hopefully this means that where we can provide some useful information or clues to players about a plot we'll be able to continue to do that, but where Sung can't or won't give an answer we'll be able to respond in a way that makes clear why that is the case.
+
+The goal with these changes is to make the ritual more useful to players but also make it easier for us to produce the responses. We want to emphasise the roleplaying interaction with Sung - but allow the eternal more freedom to give out more useful information when it exists.
+==Martial Titles==
+* '''10/06/2024'''
+We have added [[Captain of the Throne Guard]] to the list of martial titles because of their duties to defend the Throne. There is no requirement to pick a skilled fighter for the role - it has many other duties besides fighting - but it is acceptable for the Throne to include such considerations when picking who they want for the Throne Guard.
+
+==Savagery and Fire on the Water==
+* '''05/06/2024'''
+We have updated the declaration of [[interdiction]] from [[385YE_Autumn_Equinox_Conclave_sessions#Interdiction_%3A_Savagery_of_Armies|Autumn Equinox 385YE]] to include the ritual [[Fire on the Water]] and added a note to the page for the ritual. This was missed at the time as being a ritual that was covered by the interdiction.
+
+==Endorsement==
+* '''05/06/2024'''
+We have updated [[endorsement]] to make clear that you cannot use it to permit a sorcerer to carry out an act of magic that is illegal for them to do. Endorsement cannot be used to undermine Conclave itself, so it Conclave has declared someone a sorcerer, it's not possible to supersede that with endorsement.
+
+==Guiding an Order==
+* '''03/06/2024'''
+We have formalised how [[Concord#Guiding_an_Order|guiding an order]] using a Declaration of [[Concord]] works. It now requires 20 mana crystals directly from the [[Conclave_vault#The_Font|Font]] and can only be used as a result of an opportunity, unless specified otherwise. It continues to require the use of one of the order's two declarations.
+
+==Territory Curses==
+* '''03/06/2024'''
+We've made several changes to ritual curses that work on the [[territory]] level. All such curses now explicitly have the chance to have unexpected effects depending on where and when they are cast. We've added a section to the [[curse]] page detailing this. There have also been other changes made to several specific curses.
+* [[Icy Maw Devours the Spark of Essence]] has increased in magnitude to 30 (previously 15), and now inflicts a fixed penalty on mana sites. We also removed the lethargy and depression [[roleplaying effect]] element.
+* [[Naeve's Twisting Blight]] has increased in magnitude to 30 (previously 15), and now inflicts a set 72 ring penalty on a farm rather than the previous 50% penalty.
+* [[Foam and Spittle of the Furious Sea]] places a 2 rank penalty on fleets, and no longer harms navies moving through the target territory.
+* [[Thunderous Deluge]] reduces resource production by two ranks rather than a percentage.
+* [[Rivers of Life]] and [[Rivers Run Red]] have remained the same but we've added boxes discussing some of the unique peculiarities of the rituals.
+* [[Winter's Ghosts]] affects all resources save [[congregation|congregations]], but inflicts a fixed amount of damage to production rather than a percentage.
+* [[Mountain Remembers Its Youth]] does not harm armies that move through the territory. Its effects apply to mines and forests as well as farms, and inflict a fixed amount of damage to production rather than a percentage.
+* [[Thunderous Tread of the Trees]] requires a region with the forest quality (it no longer works on marshes). It no longer affects armies passing through the territory, and reduces production of all personal resources in the territory except fleets.
+* [[The Flower is Withered on the Stalk]] remains unchanged but we added a boxout laying out more clearly the limitations of the curse.
+
+==Pronunciation Guide==
+* '''29/05/2024'''
+We have deleted the pronunciation guide page from the wiki. Anyone who has a query on how we pronounce something is welcome to email [mailto:plot@profounddecisions.co.uk plot@profounddecisions.co.uk] to ask.
+
+==Fire Safety==
+* '''29/05/2024'''
+We have updated the [[Site_safety#Pyrotechnics|site safety]] page with updated rules for the limited use of small pyrotechnics at events.
+
+==Dedication==
+* '''28/05/2024'''
+We've made a minor edit to the [[Dedication#Dreams|dreams]] section of the [[dedication]] skill to replace "priest of the Way" with "a priest who is not dedicated to a specific virtue". The former wording was a holdover from the period where dedication was linked to the assembly a priest was part of. The new wording makes in explicit that the ability to pick any Virtue for oracular dreams is for priests that are not dedicated.
+
+==Senatorial Elections==
+* '''23/05/2024'''
+We have updated [[Dawn leadership]] to add confirmation that nobles must be physically present in the Glory Square unless there are any accessibility issues that make that difficult. In that case our team will make whatever accommodations are needed to support a player.
+
+We've updated [[Wintermark_political_leadership|Wintermark leadership]] to change the duration of the election from one hour to half an hour. This is based on feedback that candidates were unduly having to wait around much longer than the election practically needed.
+
+We've updated the [[Varushka leadership]] to better describe how it works in practice and to make clear that the right of witness does apply to the part of the meeting dedicated to picking the senator.
+
+We've updated the [[League leadership]] to remove the requirement not to exchange bonds before the start of the election. This was unenforceable in practice and needlessly restrictive. Empire is meant to be a deeply political game and we'd like players to have the first half of the summit to engage in as much roleplaying as they want over the exchange of voting bonds.
+
+==Warding Rituals==
+* '''14/04/2024'''
+We have added an OOC note to the rituals that ward an area to make clear that you must inform a ref about it before you pass through the [[Sentinel Gate]] and get the props you are planning on using checked. The affected rituals are :
+* [[Hold Back Frozen Hunger]]
+* [[Retreat to the White Caves]]
+* [[There Is No Welcome Here]]
+* [[Wardens of the Black Waste]]
+
+==Imperial Orcs==
+* '''11/04/2024''' 
+We've made extensive updates to the [[Imperial Orcs]] pages, primarily related to the introduction of [[sept|septs]]. This also touches on a number of other elements including the introduction of a new group archetype (the coterie) and changes to the way ancestors work. Many pages now have additional information on them, but the biggest changes are:
+* Addition of the six septs: [[Ethengraw]], [[Illarawm]], [[Sannite]], [[Sunstorm]], [[Tamazi]], and [[Yerende]]
+* Revision of the [[Imperial Orcs religious beliefs]] page
+* Addition of [[Imperial Orcs culture and customs#Septs|septs]] to the [[Imperial Orcs culture and customs]] page.
+* Addition of [[Imperial Orcs magical traditions#Spiritweaving|Spiritweaving]] to the [[Imperial Orcs magical traditions]] page.
+* We've removed the Imperial Orcs lineage and species page as the information on that page was now redundant.
+New characters can select their sept during character creation. Existing characters can change their sept by emailing [mailto:plot@profounddecisions.co.uk plot@profounddecisions.co.uk]. You can also change sept during play by engaging in the [[Imperial Orcs religious beliefs#The Living Bridge|appropriate ceremony]] then going to GOD.
+==League Orcs==
+* '''08/04/2024'''
+We have updated [[the League]] brief to incorporate new material relevant to playing an [[orc]] in [[the League]], reflecting current developments. It is now possible for players creating a new character in the League to choose whether they are playing an orc or a human.
+
+As part of the change we've made a number of updates to several League pages:
+* [[The League|Introduction]]
+* [[The League people|The people]]
+* [[The League culture and customs|Culture and customs]]
+* [[The League look and feel|Look and feel]]
+* [[The League history|History]]
+* [[The League religious beliefs|Religious beliefs]]
+* [[The League magical traditions|Magical traditions]]
+
+==Cold Sun==
+* '''04/03/2024'''
+We've added a new wiki page for [[Cold Sun]], the cruelly impassive eternal of the Day realm whose forces are currently threatening a number of locations in the Empire. While this is mostly a campaign update, we've included it here because we have taken the winter to tinker with some of the stats of the heralds involved to try and make them more interesting and engaging to fight against, so there are some rules changes. Also, in the past there has been some confusion over the abilities of the heralds of Cold Sun. They are very much not [[Calls#Monstrous_Creatures|monstrous creatures]] so they take the effects of all calls that hit them legitimately, including the effects of [[weakness]]. There is no indication that looting heralds of Cold Sun will result in any kind of curse, nor are they able to reflect back calls. There was some confusion early on due to the way that the brief was delivered before the first block of skirmishes at E3 2023. We have taken all steps possible to try to ensure that this doesn't happen again. Part of the reason for us presenting this information here as clearly as possible is to ensure that those going on skirmishes can have some idea of what they might be up against.
+
+==Sanctioned Events==
+* '''21/02/2024'''
+We've made some changes to the language around sanctioned events. Previously, "sanctioned event" included both any event taking place in the continuity of the Empire campaign world, and specifically events containing plot elements. We've explicitly renamed the kind of event with plot, NPCs, and combat as a "plot event", leaving "sanctioned event" to refer to all events not run by Profound Decisions that are considered part in the Empire campaign.
+
+We've also added a section of additional guidance on [[Sanctioned_event_advice#Communication_Magic|Communication Magic]] at sanctioned events. While it can't be used to speak to off-stage NPCs in the wider world, it is possible for the creators of a plot event to use certain types of communication magic within the context of their plot.
+==Tisanes of the Labyrinth==
+* '''17/02/2024'''
+We've changed [[Usher's Decoction]] and [[Tisanes of the Labyrinth#Waywalker's Suffusion|Waywalker's Suffusion]] to be [[Potion#Tonics|tonics]]. This means their effects cannot be stacked with each other.
+
+==Aspect magic==
+* '''16/02/2024'''
+We've changed the name of the magical tradition formerly known as ''totem magic'' to [[aspect magic]] as it more accurately reflects the function of that tradition. We have also taken the opportunity to change the term for calling on aspects of mundane animals in magic to [[Aspect_magic#Beast_Magic|beast magic]] rather than ''spirit animals''.
+
+==Liao Ceremony Cooperation==
+* '''14/02/2024'''
+We've edited the [[Religious skills#Cooperation|cooperation]] section on the [[religious skills]] page to make it clear that it is [[dedication]] and not membership of a [[Assembly#The_Virtue_Assemblies|virtue assembly]] that determines who a character can perform a ''virtue ceremony'' in cooperation with. Now that it is possible for a character to be dedicated to one virtue, but a member of a different Virtue assembly through the use of the preaching [[Congregation#Downtime options|downtime option]], the original wording was open to misinterpretation.
+
+==Synod Votes and Lay Members==
+* '''14/02/2024'''
+We've removed the reference to "appropriate virtue assembly" from the [[Sinecure#Synod_Votes|Sinecure]] page, with regard to people who are not members of the [[Synod]] gaining votes. Since the introduction of [[Congregation#Downtime_Options|preaching]] as the method for determining Virtue assembly membership, there is no way for someone without a [[congregation]] to be part of a Virtue assembly, and someone with a congregation is already a member of the Synod. 
+
+==Veto==
+* '''14/02/2024'''
+On the [[Senate]] page, we've changed the word "exercised" for "submitted" and added a line making it clear the usual [[Veto#Timing|timing]] rules apply in the event the veto is being submitted following the Senate session on Sunday.
+
+==Medium Armour==
+* '''17/01/2024'''
+We've made some changes to the names of certain [[:Category:Medium Armour|medium armour]] to avoid confusion since the [[Rules_update_2022#Armour|change]] to what counts as different types of armour. This has had no effect on the mechanical effect of the magic items.<br>
+
+''Mithril Shirt'' is now [[Bloodamber Hauberk]]<br>
+''Tombsteel Guardian'' is now [[Tombshroud Guardian]]<br>
+''Wardensweave Scale'' is now [[Wardensweave]]<br>
+''Runemail'' is now [[Runebound Ward]]<br>
+''Splint Mail'' is now [[Cerulean Protector]]<br>
+''Mediator's Mail'' is now [[Scrivener's Guard]]
+
+In addition we have also changed ''Oathkeeper'' to [[Vowkeeper]] and ''Alderman's Edge'' to [[Alder's Edge]]
+
+==Secrets of Skilful Artifice==
+* '''11/01/2024'''
+We've made some changes to [[Secrets of Skilful Artifice]]. The donor [[Crafting skills#Artisan|artisan]] now chooses what skill to share via the ritual, and may choose to share nothing. This partly resolves some inconsistencies with how the knowledge the ritual shares was determined, and better defines how it works with Runesmith's Law and similar effects.
+
+==Runesmith's Law==
+* '''3/1/2023'''
+We've updated both [[Wintermark_economic_interests#Runesmith.27s_Law|Runesmith's Law]] and [[Secrets of Skilful Artifice]] to make it clear that using magic to temporarily share knowledge of how to make a unique Wintermark magic item triggers the geas not to share this knowledge. The result is that the artisan donating the knowledge to someone outside their nation permanently loses access to Runesmith's Law.
+
+==Farms and Businesses==
+* '''14/12/2023'''
+We've added a line to both [[Farm#Production|farm]] and [[Business#Production|busniess]] resources to make it clearer that the income they provide represents disposable income rather than being the sum total of their seasonal production. Expenses, lifestyle, and taxes all exist below the abstraction layer.
+==Regalia==
+* '''11/12/2023'''
+We have added a section on the [[New Imperial titles]] page which explains how the Imperial Senate can add [[New_Imperial_titles#Regalia|regalia]] to a title. 
+==Ossium Opportunity==
+* '''31/08/2023'''
+We've made a slight alteration to the [[Culling_the_threat#Dripping_Echoes|Culling the threat]] wind of fortune in the section about creating a permanent magical fortress in the Drownbark Forest. We've made it clear that the "no upkeep" element of the permanent magical fortress is part of the [[opportunity]], and not a standard part of making a magical fortress permanent. The precise mechanics of creating a permanent magical fortress would be determined on case by case basis.
+==Appraisal==
+* '''08/08/2023'''
+Now the [[Senate]] can perform ''two'' [[appraisal|appraisals]] each season, we've added [[Appraisal#The_Prognosticators_Office|a note]] to the power as to how the Imperial Auditor will proceed if both name the same researcher.
+==Recognition==
+* '''25/07/2023'''
+We have added a new use for the judgement of [[Recognition]]; allowing the [[Assembly#General_Assembly|General Assembly]] to recognise someone as an explicitly false exemplar or paragon. A judgement of recognition used in this way can only be raised in the General Assembly and always requires a greater majority to pass.
+
+==Spiral Strategy==
+* '''24/07/2023'''
+The [[Spiral]] page has been tweaked slightly, naming the [[Spiral#The_Passes|Apulian Way]] as the connection between the territory and the Grendel nation, and adding a [[Spiral#Strategic_Considerations|Strategic Considerations]] section that summarises the geographical complications in the territory. Apart from naming the southern pass, nothing has actually changed we've just made it more explicit.
+
+==Imperial Inquisitor==
+* '''0707/2023'''
+We've made a slight amendment to the responsibilities of the Imperial Inquisitor to make clear that they are part of the ''inquisitorial court''.
+
+==Thief's Arcane Gambit==
+* '''04/07/2023'''
+We've added a line to [[Thief's Arcane Gambit]] that specifies that the "legitimate target" for the ritual is also affected by any specific restrictions around willingness in the original enchantment. If the original enchantment can only be used on a willing target, it can only be moved to a willing target.
+
+==Inspirational Locations==
+* '''02/07/2023'''
+We have replaced the old rules for inspirational tombs with some new rules for [[inspirational location|inspirational locations]]. The new rules cover using true liao to create inspirational memorials for exemplars and paragons as well as using it to consecrate a sacred sites like the Kallavesa Marshes. The new rules provide a detailed framework that lays out how characters do this - what steps are needed in-character and what the outcome will be at each stage. We've provided more explanation for the changes and why we've made them in the [[rules update 2023]] page.
+
+==Sentinel Gate==
+* '''01/07/2023'''
+We have removed references to getting a traumatic wound if you travel back too late through the sentinel gate. Implementation of this rule was always spotty at best and it violated some of our core design principles in the way it confused in-character and out-of-character objectives. We don't want players to return through the gate late, because it plays havoc with the schedule that everyone, players and ourselves, are relying on. Most participants implicitly appreciate this and make the best effort possible to return to Anvil before the gate begins to close. Traumatic wounds are intended to lead to further roleplaying for the participants who receive them, they are not meant to punish participants for taking the wrong action. Empire tries as hard as possible to avoid mixing in-character and out-of-character consequences in that way.
+
+==FIRST AID==
+* '''01/07/2023'''
+We've changed the MAN DOWN call to [[Calls#FIRST_AID|FIRST AID]]. We've made this change for two reasons, one is that we and many of our players are no longer comfortable with such a clearly gendered call. The other reason is that over the years, a few players have developed a bad habit of using the call in-character when someone gets wounded. We've replaced the call with FIRST AID - a clear call asking for the first aid team to provide assistance.
+
+We understand that many of participants will continue to use MAN DOWN in emergency situations, precisely because it is the instinctive thing to shout in an emergency. That is absolutely fine, and everyone should treat the call ''exactly'' as if they had called FIRST AID. We expect it to take some years to drop the old call in favour of the new one and we would much rather participants shouted either call quickly than pause to think. The hobby has been using the man down call for decades and we do not want to compromise safety while we transition away from its use at Empire.
+
+==Searching==
+* '''29/06/2023'''
+We have removed the option in the rules to carry out a real search when searching a character. Previously it was possible to do a real search, but only if both parties agreed. We've removed this option as it's not compatible with the wider system where we discourage this kind of physical contact.
+
+==Art of the Deal==
+* '''22/06/2023'''
+We've changed the name of the Art of the Deal ritual to [[Winds of Fortune]]. Art of the Deal is still an alternate name for the ritual, but the main entry and all references on magic items use the new name.
+
+==Golden Ramparts==
+* '''21/06/2023'''
+We've updated the [[Golden Ramparts]] with an [[Golden Ramparts#Assurance|assurance]], related to the Rod and Shield, that has been helpfully uncovered by a scholar at the Icy Crag of the Eternal Sun.
+
+==Druj Miasma==
+* '''16/06/2023'''
+We've updated the [[Druj miasma]] page, especially with reference to miasma pillars, so that it is less focused on information gained after the liberation of Reikos.
+
+==Cruelty==
+* '''14/06/2023'''
+Building on the commentary we added to the [[Iron Helms]] army page [[Iron_Helms#Composition|on cruelty]], we added the word "needless" to the [[Varushka#What the Varushkans are not|what the Varushkans are not]] section on the [[Varushka]] page.
+
+==Magic Quality==
+* '''04/06/2023'''
+We've explicitly added a note that the ritual targeting ability of an army with the [[Army_qualities#Magic|magic quality]] can also target a region or fortification within a territory.
+
+==Haunted Quality==
+* '''03/06/2023'''
+We've decided to remove the ''Haunted'' [[army qualities|army quality]]. There are no armies with this quality, and after extensive discussion we don't believe we would ever allow any future army to have it, either as a quality or an enchantment.
+
+==Farm Diversification==
+* '''31/05/2023'''
+Updated the [[Farm#Diversification|diversification]] section on the [[farm]] page to make it clearer that "herb" means one of the standard five magical herbs. Any opportunity that grants "herbs" will always mean the herbs gathered from a standard [[herb garden]] unless it explicitly says otherwise.
+
+==Wolves of Winter==
+* '''26/05/2023'''
+The magnitude of the ritual ''Wolves of Winter'' has been increased in line with our recent changes to rituals that affect the downtime campaign. The ritual is not in Imperial lore, but the database has been adjusted to reflect this change.
+
+==Whispers through the Black Gate==
+* '''20/05/2023'''
+We've added a note to the [[Whispers_through_the_Black_Gate#Option|special liao option]] on the [[Whispers through the Black Gate]] ritual to make it explicit that the option is not available to orc casters.
+
+==Throne Appointment==
+* '''17/05/2023'''
+We've edited the part of the [[The_Throne#Appointment|Throne appointment]] that talks about changing support around and when the election ends inconclusively. The previous wording was a little misleading. 
+
+==Navarr Warlocks==
+* '''16/05/2023'''
+We've changed the word "warlock" on the [[Navarr]] page. The word was very misleading and intended to be a synonym for "magician", which is what we have replaced it with.
+
+==Commonwealth History==
+* '''10/05/2023'''
+We've changed the year of the formation of the [[Commonwealth#History|Commonwealth]] from 120YE to 105YE so that it is consistent with the background of [[Emperor Frederick]].
+
+==Throne Election==
+* '''05/05/2023'''
+Appointment of a Throne is [[Senate_motion#Constitutional_Vote|constitutional vote]]. We've made it more explicit that the [[Assembly of the Nine]], as well as the [[General Assembly]], can [[veto]] the election of [[the Throne]]. We've also added that one of the first things every Throne does is ratify their own appointment.
+
+==Marsh Commissions==
+* '''19/04/2023'''
+We've added a note to the [[commission]] page to indicate that the [[Commission#Marshes|problem of building on marshes]] has become permanent.
+
+==Dreams in the Witch House==
+* '''14/04/2023'''
+We've added a note to [[Dreams in the Witch House]] inviting players to e-mail us before the event with information about territories they intend to scry so that we are more likely to have a response ready.
+
+==Conjunctions==
+* '''12/04/2023'''
+We've updated the wiki to make it clear that characters who are nominated by the civil service to [[Sentinel_Gate#Prognostication|oversee a conjunction]] can delegate that authority to another character and that they are not expected to go on the conjunction if they don't want to do so. Any player who doesn't want to oversee a conjunction can contact plot@profounddecisions.co.uk to have the responsibility shifted to another character.
+
+==Endorsement==
+* '''08/04/2023'''
+Clarified the limits of [[endorsement|endorsing]] deals with eternals. An endorsement cannot support a deal made with an eternal that is under [[Alignment#Enmity|enmity]] ''at the time the deal is made''. Amity or Neutrality cannot be retroactively applied.
+
+==Divination Rituals==
+* '''06/04/2023'''
+We've made matching updates to [[Clear Counsel of the Everflowing River]] and [[Combing the Beach]], Both rituals now require an effigy to perform, and that the question posed be submitted the previous night. The response to the ritual now comes when it is performed, rather than some time afterwards. You can find more details about the change on the [[Rules update 2023#Divination Ritual Updates|Rules update]] page.
+
+==Shuttle Service==
+* '''06/04/2023'''
+We have taken the decision not to charge for the [[Dadford_Road_Campsite#Banbury_Shuttle_Service|shuttle service in 2023]]. We have no plans to charge for the shuttle in the future if the costs to run the service remain similar.
+
+==Regio and Portals==
+* '''05/04/2023'''
+We made some adjustments to [[detect magic]] and [[operate portal]] to lay out their functionality when it comes to detecting and identifying [[regio]] and the portals that lie within them. We included in operate portal the mechanics of accessing the Hall of Worlds (copied from the regio page), given how commonly that spell effect is used by magicians.
+
+==Military Rituals==
+* '''31/03/2023'''
+We've made several updates to rituals that involve [[Army|armies]] and [[fortification|fortifications]]. The [[Rules_update_2023#Military_Rituals|Rules Update 2023]] page goes through these changes in detail. The rituals affected are [[Knights of Glory]], [[Bound by Common Cause]], [[Frozen Citadel of Cathan Canae]], [[Forge the Wooden Fastness]], [[Dripping Echoes of the Fen]], [[The Basalt Citadel]], [[Golden Ramparts]] and [[Stone's Unyielding Defiance]].
+
+We've also modified [[Clarity of the Master Strategist]], [[Quickening Cold Meat]], and the non-Imperial ritual '''Footsteps of the Fallen''' to change the [[roleplaying effects]] experienced by the [[general]] targeted by the [[enchantment]].
+
+==Resources and Conquered Territories==
+* '''31/03/2023'''
+We've changed the way [[fleet|fleets]] and [[military unit|military units]] interact with the [[Resource#Conquered_Territories|conquered territory]] rules. Previously these two resources had been exempt from the penalty for being in a conquered territory; we've removed that exemption. You can read more about this change in the [[Rules_update_2023#Military_Units_and_Fleets|rules update]].
+
+==Venom==
+* '''31/03/2023'''
+We've clarified the [[Calls#VENOM|VENOM]] call to make it explicit that if you are [[Combat#Dying|dying]] and have less than thirty seconds to live when you are hit by venom, then you should continue with your current count - gaining the venom condition ''never'' increases the time remaining if you were already dying.
+
+==Spring Rituals==
+* '''23/03/2023'''
+The effects of [[Fan the Flame of New Life]] have been significantly changed, and we've removed the '''Midwife's Recourse''' ritual from the game. Discussion of and explanation for these changes can be found on the [[Rules_update_2023#Spring_Rituals|Rules update 2023]]page. We also added a medicine section to the [[Technology#Medicine|Technology]] page, and a section on the [[Healing in Empire#Pregnancy and childbirth|healing in Empire]] page.
+
+==COVID Safety==
+* '''14/03/2023'''
+We have updated the [[entry requirements]] and the rules for [[COVID safety]] for our events in 2023.
+
+==Bow Safety==
+* '''14/03/2023'''
+We have overhauled the rules for [[bow safety]] at Empire. Please make sure you read and understand the new rules if you use a bow or crossbow at any point at the events.
+
+==Blood of the Hydra==
+* '''14/03/2023'''
+[[Blood of the Hydra]] has been amended to make it explicit that it is intended for the treatment of limbs ruined by effects such as [[Calls#CLEAVE|CLEAVE]] or the like. It cannot be used to regrow internal or damaged organs, and is only useful for traumatic wounds when explicitly called out. Damaged internal organs are very much intended to be in the purview of the [[Surgical skills#Physick|physick]], and regenerating or replacing them magically is a much more significant use of magic than simply repairing a limb ruined by a sword. '''(23/03/2023)''' Further discussion of this change can be found [[Rules_update_2023#Reasoning:_Blood_of_the_Hydra|here]].
+
+==Chimes of Annulment==
+* '''14/03/2023'''
+We've changed the casting time on [[Chimes of Annulment]] to be 2 minutes rather than 5, to bring it in to line with other rituals.
+
+==Knight-protector Declination==
+* '''10/03/2023'''
+We've added a note to the [[Knight-protector#Appointment|Knight-protector]] [[Imperial title]] about what happens if someone wins the tourney but declines to take the title.
+
+==Vital Strength of the Earth==
+* '''09/03/2023'''
+We've corrected an error in [[Vital Strength of the Earth]] which had the increased magnitude for additional targets at 5, rather than 24.
+
+==Lineage in Play==
+* '''08/03/2023'''
+We added some material about gaining (and losing) lineage after character creation. There's a section on the [[lineage#Gaining_lineage_in_play|lineage]] page, and sections on each of the individual lineage pages in the ''Imperial (lineage)'' sections.
+
+==Liao and PLV==
+* '''08/03/2023'''
+Additional information about [[Liao#True Liao|true liao]] has been added to the [[liao]] page. We've also added a new page laying out the procedures and mechanics involved in having a [[past life vision]].
+
+==Card Wording==
+* '''02/03/2023'''
+We've added a line to the rules about [[Game_items#Cards|cards]] pointing out that when a game item card and the rules on the wiki differ, the rules take precedence. Usually this is because a card was printed during an earlier iteration of the rules.
+
+==Auras==
+* '''01/03/2023'''
+We've made a few updates to the [[aura]] page. [[Aura#Durable Auras|Durable auras]] are now auras that last indefinitely unless replaced, and we've specified [[Aura#Strong Auras|strong auras]] as being auras with a strength higher than one. We've also explicitly called out that the [[insight]] skill does [[Aura#Virtue|not reveal]] which (if any) virtue or malign spiritual presence an aura is tied to. Finally, we've added a section giving some information about [[Aura#Spontaneous Auras|spontaneous auras]] to the page.
+
+==Booking IC Spaces==
+* '''28/02/2023'''
+We've added the facility for characters to book IC spaces at the event - the Hub, Hall of Worlds, Military Council and Senate - when not in use for official business. We've added a section to the page on [[Anvil#Booking_Civil_Service_Spaces|Anvil]] to explain how this works and how to make a booking.
+
+==Dreams in the Witch House==
+* '''24/02/2023'''
+We've edited the description of the ritual effect for [[Dreams in the Witch House]] to bring it more into line with the way the ritual is actually working in the field.
+
+==Eye of the High Places==
+* '''24/02/2023'''
+We've removed the requirement for this ritual to be performed in a powerful Day [[regio]], to bring it into line with [[Eyes of the Sun and Moon]] and [[Dreams in the Witch House]].
+
+==Align the Celestial Net==
+* '''24/02/2023'''
+We've made a slight tweak to [[Align the Celestial Net]] to bring it into line with [[Wind of Mundane Silence]]. Neither ritual can be performed by a coven that is drawing on the power of the target [[regio]] to allow them to cast the ritual.
+
+==Army Enchantments==
+* '''23/02/2023'''
+We've changed the casting time of rituals that target Imperial Armies to 10 minutes, with the new rule about using the Imperial regio to reduce the casting time to 5 minutes. So far the affected rituals are [[Bound by Common Cause]], [[Brotherhood of Tian]], [[Why Sulemaine Walked Away From The Baker]], [[Eyes of the Hills]], and [[Mystic_scrolls_of_Estavus#Machines_of_Destruction|Machines of Destruction]].This brings them into line with the other army enchantment rituals.
+
+==Longer Rituals==
+*'''23/02/2023'''
+We've added an additional power to the [[Regio#The Imperial Regio|Imperial Regio]]. Any ritual with a casting time of at least 10 minutes can be cast in 5 minutes instead when using the Imperial regio. We're updating existing ritual pages to include a reminder of this effect. We've added a note to the "imperial enchantments" ([[Bright Eyes Gleam in the Depths]], [[Hallow of the Green World]], and [[Wondrous Forests of the Night]]) to indicate that they do not have their casting time reduced by the Imperial regio.
+
+==Phial of the Sun / Bloodcloak==
+* '''22/02/2023'''
+We've updated the rules text for the [[Phial of the Sun]] and [[Bloodcloak]] [[magic items]] to make it explicit that they only duplicate the effect of the five traditional magical [[herb|herbs]];  [[Bladeroot]], [[Cerulean Mazzarine]], [[Imperial Roseweald]], [[Marrowort]], and [[True Vervain]]. While other substances might be described as herbs, they are distinct from the five herbs used by [[Surgical skills#Physick|physicks]] that these magic items can replicate.
+
+==Navarr Are Not...==
+* '''15/02/2023'''
+We've added a new bullet point to [[Navarr#What_the_Navarr_are_not|What the Navarr are not]] making it clear that while the [[Navarr]] are merciless toward their enemies, they are just as law abiding as any other Imperial nation.
+
+==Conclave Changes==
+* '''11/02/2023'''
+We've made extensive changes to the [[Conclave]]. This touches on the way a [[Conclave session]] is organised, all the [[declaration|declarations]], and almost all of the [[Imperial title|titles]] associated with the Conclave, as well as [[the Throne]]. Rather than repeat them here, you can find a summary of the changes on the [[Rules_update_2023#Conclave_Changes|Rules update 2023]] page.
+
+==Advisor on the Vallorn==
+* '''11/02/2023'''
+As part of the updates to the [[Conclave]], we've removed the power of the [[Advisor on the Vallorn]] to raise a free [[Declaration]] of [[Interdiction]].
+
+==Unstoppable and Pretending to be Dead==
+* '''19/01/2023'''
+We've edited the rules for [[Heroic_skills#Unstoppable|Unstoppable]]. We haven't change the rules, but we've tried to make the intent behind the skill use clearer. We've also rolled in some points from the [[Rules FAQ]] as having information about a skill in two places can be unhelpful.
+
+At the same time, we've made the rule about pretending to be dead or dying more prominent by moving it to the section of the rules dealing with [[Combat#Dying|dying]].
+
+==Operating Portals==
+* '''11/01/2023'''
+We've made a few minor edits to [[operate portal]] and related effects (specifically the [[Ambassadorial Gatekeeper]] ritual) to make it clearer that you can't bring along additional living creatures even if they are [[combat#Dying|dying]] or [[Combat#Terminal|terminal]]. 
+
+We've also added a note to the [[Knight-protector#Banner_of_the_Season|Banner of the Season]] power of the [[Knight-protector]] [[Imperial title]] that the Summer Banner is specifically more potent than the others, as there had been some confusion around the fact the item is notably different to the other three.
+
+==Necessary Details==
+* '''27/09/2022'''
+We added a note to the [[Commission#Necessary_Details|necessary details]] section on the [[commission]] page making it explicit that in the absence of details about the cost of a commission, the civil service will always assume it is the minimum size allowed for such a commission.
+
+==Accoutrements of War==
+* '''16/08/2022'''
+We've added a boxout to the [[Mystic_scrolls_of_Estavus#Accoutrements_of_War|Accoutrements of War]] ritual making it clearer that the special production granted by the [[enchantment]] ''only'' applies to paid work, not to every action under the independent action dropdown.
+
+==Cardinals and Assemblies==
+* '''15/09/2022'''
+We've added a note to the [[cardinal]] page in the [[Cardinal#Appointment|appointment]] section reinforcing the idea that a cardinal must be a member of the [[Assembly#The_Virtue_Assemblies|assembly]] they lead. Changing assembly (perhaps through [[Congregation#Downtime_Options|preaching]] in downtime) means the cardinal forfeits their title. Likewise, someone without a [[congregation]] who gains membership of an assembly through the votes granted by a [[sinecure]] cannot become cardinal because as soon as they do, they lose their former [[Imperial title]] and no longer meet the criteria to be cardinal. Both are very edge cases, but are worth bearing in mind.
+
+==Imperial Enchantments==
+* '''15/09/2022'''
+We've adjusted the magnitude of the three [[:Category:Imperial Enchantment|Imperial enchantments]] up from 160 to 200. In-character magical scholars believe this is due to the increasing size of the Empire, and might have been heralded by a [[A_yellow_star_hung#A_Light_that_Never_Goes_Out|subtle conjunction]] of the esoteric [[Astronomancy#Constellations|constellations]] of [[the Key]] and [[the Lock]] during the Autumn Equinox. Out-of-character this is because we want to keep these rituals challenging, and the former magnitude is no longer as difficult to achieve as it was when the game began.
+
+We also took the opportunity to change how [[Hallow of the Green World]] works. Previously the coven had to choose which herb the herb gardens would create. This is because when we first created these rituals we didn't have the ability to add random herbs to resources. Now that we do, we've update the ritual to work a little bit more like [[Bright Eyes Gleam in the Depths]] and [[Wondrous Forests of the Night]] whose bonus production is set by the base resource rather than being chosen.
+
+==Cruel Quality==
+* '''06/09/2022'''
+In July, we made a change to the [[Army qualities#Cruel|Cruel]] quality which we forgot to document at the time. Rather than an army with this quality automatically revealing it to everyone in a territory, it is only noticeable when it actively takes the [[Army_qualities#Cruel|Merciless Assault]] order. This change was made to bring the description of the quality into line with how it was actually working in terms of the downtime campaign.  
+
+==Clear Lens and Shadowed Glass==
+* '''04/09/2022'''
+We've removed the line "''A detect magic spell may occasionally reveal if there is specific, additional information in a specific location''" from both [[Clear Lens of the Eternal River]] and [[Shadowed Glass of Sung]] because it was misleading; our intention was to allow some space for plot writers to create specific results from these rituals for their plots taking place on Anvil, but this has proved to be impractical. 
+
+==Parliament of Owls==
+* '''04/09/2022'''
+We've updates the [[Raven_Seer#Parliament_of_Owls|Parliament of Owls]] power of the [[Raven Seer]] to make it clear there is only one copy of this ritual text and the Raven Seer is expected to hand it to their successor.
+
+==Briar Bark==
+* '''04/09/2022'''
+We've made a slight update to [[Briar#Patches_of_bark|patches of bark]] on the [[briar]] page. "While tree bark can come in a variety of colours and textures, briar bark is rough, and predominantly brown."
+
+==Shroud of Fog and Ravens==
+* '''19/08/2022'''
+As noted in the '''[[Of_earth_and_sky#Game_Information|Of earth and sky]]''' wind of war, we're removing the ritual ''Shroud of Fog and Ravens'' from the game. Unfortunately, this ritual is completely incompatible with Empire's magic theory and was a remnant from the very first years of the game before we had nailed down all these elements. As a consequence we are removing this ritual. Any character who has it mastered will now have an empty "slot" for mastering new rituals. The in-character explanation is that the recent conjunction of the Lock has rendered the ritual unworkable, taking away whatever strange power it relied on. We will continue to reject attempts to create similar effects in this realm using arcane projections; it is not possible to enchant armies in this way with [[Night magic]].
+
+==Bright Lantern of Ophis==
+* '''11/08/2022'''
+We've added an additional line to the [[Bright_Lantern_of_Ophis#Performing_the_Ritual|performing the ritual]] section of [[Bright Lantern of Ophis]] to make it more clear that the ritual cannot be used to target other territories using the Anvil regio.
+
+==Castellan of Spiral Castle==
+* '''10/08/2022'''
+We've corrected an error around the election of [[Castellan of Spiral Castle]] which suggested it would be appointed in Winter when the text indicates the appointment is (correctly) Autumn. 
+
+==Improving Opportunities==
+* '''07/08/2022'''
+We added a section to the page on [[opportunity|opportunities]] explaining that it's rarely possible to simply [[Opportunity#Amending._Improving.2C_and_Upgrading|improve a commission]] gained via an opportunity. 
+
+==Visions==
+* '''03/08/2022'''
+We've made it explicit that the visions received from [[Infusions_of_Feathers#Goosewhisper_Infusion|Goosewhisper Infusion]] and [[Signs and Portents]] are the same. If you experience one, you get the same vision from all other incidences of these kinds of visions for the rest of the event.
+
+==Concedence==
+* '''29/7/2022'''
+The Constitutional Court have issued new guidance on the use of [[Powers_of_the_Imperial_Senate#Concedence|concedence]] by the Imperial Senate. The new guidance grants national assemblies the right to veto a motion that cedes a region or territory assigned to that nation. This new guidance does not cover any concedence already passed by the Imperial Senate, it is not a retrospective change, it applies to any motion of Concedence passed by the Imperial Senate from Summer 384YE and onwards.
+
+==Raising an Army==
+* '''29/07/2022'''
+We've amended the rules to make clear that you can only raise an army in a territory of that nation. Nobody has ever tried to raise an army somewhere else, but we wanted to be clear that that is not possible.
+
+==Consecration==
+* '''20/07/2022'''
+We've updated the [[Consecration#Performance|performance]] section of the [[consecration]] skill to make it clearer that "letting a referee know in advance" means "during an event" rather than "prior to the event."
+
+==Challenge the Iron Duke==
+* '''14/07/2022'''
+We've added a paragraph to the [[Challenge_the_Iron_Duke#OOC_Elements|out-of-character section]] of [[Challenge the Iron Duke]] to help players better manage their expectation of the kind of challenge or boon the ritual might provide.
+
+==Abrogation==
+* '''13/07/2022'''
+We've updated the [[Powers_of_the_Imperial_Senate#Abrogation|abrogation]] power of the Senate to make it clearer that when a [[commission]] is abrogated the exact effects depend on the nature of the structure affected, but generally result in the loss of any production following the summit where the motion is passed.
+
+==Preaching and Virtue==
+* '''13/07/2022'''
+The Imperial Senate [[384YE_Spring_Equinox_Senate_sessions#Amend_membership_of_virtue_assemblies|voted]] during the Spring Equinox to change how membership of a [[Assembly#The_Virtue_Assemblies|Virtue Assembly]] was determined from relying solely on [[dedication]] to use of the new ''[[Congregation#Downtime Options|preach]]'' downtime option. We've updated the [[congregation]] and [[Assembly]] pages appropriately, as well as adding additional information to [[Synod#History|history of the Imperial Synod]], [[Imperial_Orcs_religious_beliefs#Membership_of_the_Virtue_Assemblies|Imperial Orcs religious beliefs]] and [[preachers]] pages. There are also a number of minor edits to other pages talking about the Virtue assemblies to reflect the changes.
+
+==IC Tents==
+* '''12/07/2022'''
+We have discovered that the range of tents marketed as Oxford Canvas has grown to include a small number of tents that don't meet our minimum requirements for the in-character field because the colour and thickness of the material they are made from looks too much like plastic. We've clarified the [[Costume|rules]] to make clear that these types of tent are not allowed because of this.
+
+We do understand that the tents are appealing because they are cheap and light, but we have to have a cut-off at some point otherwise we would have to allow any tent in the IC area. 
+
+We've created an amnesty to allow these ultra-light sandstone bell tents to be used for the remainder of 2022 to remove any immediate need to change.
+
+==Naga Scales==
+* '''06/07/2022'''
+We've added a line to [[Naga#Scaled_Skin|scaled skin]] under naga reminding players to be sensitive to real-world considerations when choosing the colour scheme for their scales.
+
+==Artisan's Oil==
+* '''05/07/2022'''
+We've changed the time required to use [[Artisan's Oil]] to ten seconds on the wiki, to bring it in line with what the majority of the item cards say.
+
+==Ephisis' Scale==
+* '''24/06/2022'''
+We've made a few tweaks to [[Ephisis' Scale]], primarily around managing expectations and being more explicit about what will, and will not, be considered by the ritual effect.
+
+==Mage Armour Masks==
+* '''22/06/2022'''
+We've added "''mask''" to the standard pieces that count toward a suit of [[Weapons_%26_armour#Mage_Armour|mage armour]].
+
+==Plenipotentiary==
+* '''22/06/2022'''
+We've added a line to the [[archmage]] power of [[Archmage#Plenipotentiary|plenipotentiary]] to make it clearer that the more specific a message is, the more likely it is to result in [[Archmage#Parley|parley]].
+
+==Drawing the Penumbral Veil==
+* '''10/06/2022'''
+We've updated the [[Piercing Light of Revelation]] ritual to make it explicit that the ritual does not automatically reveal the magnitude of a shroud on a territory.
+
+==Fane==
+* '''03/06/2022'''
+We added a note that the new [[fane]] commission can currently be built only by the [[Senate]] or a title that can commission ''anything''. This is both because it is a specific, new kind of commission, and because it uses the Senate power of [[Powers_of_the_Imperial_Senate#Concedence|concedence]].
+
+==Penumbral Watcher==
+* '''03/06/2022'''
+We've changed the [[Penumbral_Watcher#Shadow_Well|Shadow Well]] power of the [[Penumbral Watcher]] so that it is a "magical effect" that targets an allied [[spy network]] rather than a "territory enchantment" to better reflect how it actually works. If it ''was'' an enchantment on the territory, it would be obvious to the Empire's enemies, and could be removed with any territory enchantment they cared to place themselves.
+
+==Brass Coast Tally==
+* '''01/06/2022'''
+Following on from a statement of principle in the Brass Coast National Assembly, we've [[384YE_Spring_Equinox_winds_of_fortune#Sails_of_Fire|changed]] how the [[Tally of the Votes]] is done for Brass Coast national positions appointed through the Bourse. It's no longer required that a character engage in privateering to vote for such titles; ownership of a [[fleet]] resource is sufficient.
+
+==Anointing and informed consent==
+* '''01/06/2022'''
+We've (again) updated [[anointing]]. A target does not need to be aware of what virtue they are being anointed with, but they ''must'' be aware that your ceremony is an anointing that will create a personal aura on them.
+
+==Vallornspawn Husk Insight==
+* '''29/05/2022'''
+We've added a section to the [[vallornspawn husk]] page relating to use of the [[insight]] ceremony. It talks about the [[Vallornspawn_husk#Insight|contradictory results]] received when using the ceremony on bodies animated by the vallorn.
+
+==Election Schedule==
+* '''25/05/2022'''
+We've [[New_Imperial_titles#Term|updated the wiki]] to make clear that the civil service set what event a title is elected on, if the title is reappointed each year. In practice titles have usually worked this way anyway - for example Bourse seats are all done together and so forth, but we have made clear that new Imperial titles are subject to this rule in all cases. We've done this because we need to be able to spread elections out through the year for the smooth running of the game.
+
+==Sinecure==
+* '''13/05/2022'''
+Added a small section to the [[sinecure]] page explaining how [[sinecure#production|production]] of resources works.
+
+==Titles, Tenure, and Ownership==
+* '''12/05/2022'''
+We've made some edits to the way [[tenure]] works for [[Imperial title|Imperial titles]], along with a short box-out explaining the reasons for the change. We've also added a new section called [[Imperial_title#Ownership|ownership]] which is intended to help manage the expectation of players who gain Imperial titles during the game.
+
+==Dedication==
+* '''11/05/2022'''
+We've updated the overview of the [[Dedication#Overview|dedication]] page to remove an incorrect reference to only priests who are undedicated being able to remove a dedication.
+<!-- 
+==Anointing and informed consent==
+* '''04/05/2022'''
+We've updated [[anointing]] to make it clearer that a target must be aware of what virtue they are being anointed with. -->
+
+==Imperial Orc Wayleave==
+* '''18/04/2022'''
+Fixed the error on the Imperial Orc Wayleave that had them only able to commission once a year. While the title is appointed in the Autumn Equinox it can announce one commission each season.
+
+==Foam and Trees==
+* '''17/04/2022'''
+We've added the line "The civilian population of a territory will certainly be affected by this ritual" to both [[Foam and Spittle of the Furious Sea]] and [[Thunderous Tread of the Trees]].
+
+==Mountain Remembers Its Youth==
+* '''17/04/2022'''
+We've made it clearer that [[Mountain Remembers Its Youth]] affects fortifications alongside Imperial armies as this wasn't clear from the effect text.
+
+==Rivers Run Red / Rivers of Life==
+* '''14/04/2022'''
+We've added a line "''The civilian population of a territory will certainly be affected by this ritual.''" to the [[Rivers Run Red]] and [[Rivers of Life]] rituals to make it clear that these rituals  will have an effect on the civilian population of a territory, not only the Imperial armies there.
+
+==Hand of the Maker and Stamps==
+* '''13/04/2022'''
+We've updated [[Hand of the Maker]] to make it explicit that the special message used with [[Call Winged Messenger]] can be evaluated with this ritual as it has a Profound Decisions ID number.
+
+==COVID Safety==
+* '''24/03/2022'''
+We've updated the wiki with our [[COVID safety]] measures for our events this year. Our plan is to review these measures and update many of them on the run up to each event on the basis of current conditions.
+
+==Sinecure Production==
+* '''23/03/2022'''
+We've updated the [[sinecure]] page to make it clear that you still gain the production even if you didn't attend the event.
+
+==Conduct Overhaul==
+* '''20/03/2022'''
+We have rewritten the Profound Decisions [[conduct]] policy. The page on [[conduct]] defines the rules that we expect all participants to follow, [[reporting a conduct problem]] provides information on the process for reporting any issue you have, and [[sanctions]] describes the steps we can take in response. We have also updated the text for the [[must-avoid policy]] to reflect the new changes. There is a description of the key changes and some of the reasoning on our [[Rules_update_2021#Conduct_Overhaul|rules update 2022]] page.
+
+==Sutannir==
+* '''17/03/2022'''
+We have added a new wiki page devoted to the [[sutannir]], [[archetype|archetypal]] Freeborn priest who focuses on encouraging celebration and festivities. We've also updated [[the Brass Coast religious beliefs]] page with new information to complement the updates to the sutannir page. 
+
+==Public Auction==
+* '''24/02/2022'''
+We've significantly reduced the scale and scope of the public auctions carried out by civil servants at events. From now on, the auction will be restricted to lots of bourse resources, the bourse seats themselves, and a dose of true liao. A more detailed explanation of the changes and reasoning are [[Rules update 2021|presented here]].
+
+==Sanctioned Events==
+* '''07/02/2022'''
+We've made several edits to our [[sanctioned events]] page, splitting some of the information onto a separate [[Sanctioned event advice]] page aimed at organisers. The main changes are around the definitions of sanctioned event styles, and the rule that all sanctioned events take place in the same chronological order in-character that they do out-of-character.
+
+==Downtime Roleplaying and Coronavirus==
+* '''27/01/2022'''
+We removed the relaxed rules about online roleplaying during lockdown from the wiki, and edited references to them. The normal rules about roleplaying [[online]] and in [[downtime]] are now back in full effect.
+
+==Wind of Mundane Silence==
+* '''26/01/2022'''
+We've removed the idea that the [[Wind of Mundane Silence]] can only be used to affect a powerful [[regio]]. The ritual will destroy ''any'' regio it is performed at.
+
+==Fish People==
+* '''16/01/2022'''
+We've added a note to the [[Merrow]] page under "[[Merrow#What they are not|what they are not]]" to indicate that they are not fish people.
+
+==Emphasising Agramant==
+* '''13/01/2022'''
+We’ve made a change to the setting we want to let you know about. From this point forward, the eternal who has been primarily known by the name Wendigo will be more commonly known as [[Agramant]]. Likewise we're changing the name of the Wendigo's Bargain item to [[Agramant's Bargain]]. 
+
+We are not changing anything else about the character or tendencies of this eternal, but we are de-emphasising the name Wendigo. Agramant has always been one of Wendigo's names - so we've chosen to emphasise it as the "preferred" name for the eternal on the wiki from now on.
+
+We've done this for several reasons. We've been aware for a while of some concerns about the [https://en.wikipedia.org/wiki/Wendigo origin of the name],  and what that implies for our use of the eternal. We’ve reflected on that feedback and noted that while many of the other eternals make references (at variable subtlety levels) to literary, mythological, or gaming sources, Wendigo was the only one we know of with a name that is directly featured in a real-world belief system. There are no eternals called Hades, Hel, or Balor for example.
+
+For the time being, the name Wendigo will remain one of Agramant’s less-widely used sobriquets. We'd like people to adopt this de-emphasising approach over time rather than treating this as a retcon or sudden break - for example, we know that many characters have written a lot of material about this eternal. It isn't suddenly off brief or wrong to use the original name, and there's no need to reprint IC booklets that use the name Wendigo. The name will remain one of Agramant's less widely used soubriquets. From this point forward, the eternal who has been primarily known by the name Wendigo will be more commonly known as Agramant. 
+
+==Archiving Wiki Updates==
+* '''12/02/2022'''
+We archived wiki updates prior to 2019. The page had long since become unwieldy due to the sheer volume of entries, and in several cases the page listed updates that were out of date or superseded by later updates. Wiki updates prior to 2019 are now held on the [[Archive:Wiki_updates_to_2018|previous wiki updates]] page in the Archive namespace.
+
+==Frequently Asked Questions==
+* '''11/01/2022'''
+We've made some edits to the [[General FAQ]], and deleted both the ''obscure questions'' and ''new player FAQ'' pages. Most of the questions covered by those pages have been folded into the remaining sections.
+
+==Calls and Blows==
+* '''03/11/2021'''
+We've added some words to [[Calls]] to make it clear that you can only make one call with each blow you strike.
+
+==Iron Qanat==
+* '''26/10/2021'''
+We've updated the [[Segura]] page to include the presence of the Iron Qanat; this has also required a note on the [[Construct Iron Qanat II]] Senate motion that the [[great work]] is in Sobral Grasses not Yellow Chase.
+
+==Battle Safety==
+* '''22/10/2021'''
+We've made some edits to streamline the [[Combat safety#Battle Safety|Battle Safety]] section on the [[combat safety]] page.
+
+==Heroic Skills==
+* '''22/10/2021'''
+We've added a line to the [[heroic skills]] overview reiterating that skills such as [[Heroic skills#Cleaving Strike|cleaving strike]], [[Heroic skills#Mortal Blow|mortal blow]] or [[Heroic skills#Mighty Strikedown|mighty strikedown]] cannot be used with [[Weapons_%26_armour#Implements|mage implements]].
+
+==Illegal Orders==
+* '''22/10/2021'''
+We've added a short section to the [[general]] page about [[army orders]] that are in-character illegal and how they are handled.
+
+==Orders that Break the Rules==
+* '''22/10/2021'''
+We've added a clarification to the [[army orders]] page about what happens if a general accidentally submits a set of orders that break the rules on war.
+
+==Imperial Enchantments==
+* '''13/10/2021'''
+We've made some adjustments to the [[:Category:Imperial Enchantment|Imperial enchantments]] - [[Wondrous Forests of the Night]], [[Hallow of the Green World]], and [[Bright Eyes Gleam in the Depths]]. The main change is to modify the ''effect'' of these rituals to better reflect how they actually operate - that they create powerful but unpredictable secondary effects as well as the more predictable effect on production of resources. We've also expanded their history a little in the ''description'' sections in the wake of the recent [[#Finalized Urizen Update|Urizen update]].
+
+==Finalised Urizen Update==
+* '''28/09/2021'''
+We've finalised the Urizen update. Mostly this has meant removing the stubs from the pages but we've made a small number of changes to the content based on player feedback.
+* The [[sword scholar]] section about [[Sword scholar#Costume|costume]] has been edited to remove unnecessary references and make it clearer what kind of weapons and armour the sword scholars favour.
+* We modified some of the wording on the [[Urizen look and feel]] page to hopefully make it clearer
+* We updated the [[costume]] page to make the wording around [[costume#Less Appropriate Costume|less appropriate]] and [[Costume#Inappropriate Costume|inappropriate]] costume clearer.
+* We clarified the rules on guy ropes in the [[Costume#In-Character Tents|In-Character Tents]] section of the [[costume]] page.
+* We modified the details of the [[Some_heavenly_music#Net_of_Gossamer_Chains|Net of Gossamer Chains]] ritual in the [[Some heavenly music]] wind of fortune
+* We've moved the content regarding the Urizen Spring Festival to the [[Urizen culture and customs#Spring Flower Festival|culture and customs]] page.
+
+==Privateering and Piracy==
+* '''09/09/2021'''
+We have added a note to the box-out about the privateering action on the [[fleet]] page to remind players that they cannot use this action to commit piracy against people the Empire is not at war with due to the [[Employ_Civil_Service_to_observe_Fleets|Civil Service observers]].
+
+==Armour Coverage==
+* '''09/09/2021'''
+We have updated the armour rules to make clear that a full breastplate that covers the front only is sufficient to be classed as "covering the majority of the torso". This means it will provide extra hits provided your armour also covers one other location.
+
+==Urizen Politics Update==
+* '''07/09/2021'''
+As part of our review of Urizen, we've changed the way the nation appoints [[senator|senators]]. You can read about the changes [[Urizen leadership#Leading a territory|here]] and a discussion of the reasons and in-character explanation for them can be found [[Rules_update_2021#Urizen_Elections|here]].
+
+==Urizen Culture Update==
+* '''07/09/2021'''
+We've undertaken an extensive review of the Urizen pages on the wiki. Almost all the pages that form part of the Urizen brief have been updated. You can learn more about the reasoning for this and the way the changes are being handled in the [[Rules_update_2021#Urizen_Culture|Rules Update]]. A brief summary of the changes follows here.
+* We've updated [[Urizen]], [[Urizen people]], [[Urizen culture and customs]], [[Urizen leadership]], [[Urizen economic interests]],  [[Urizen religious beliefs]], [[Urizen military concerns]] and [[Urizen magical traditions]] 
+* We've greatly expanded the [[Urizen history]] page
+* We've added significantly to the [[spire]] page and created an [[Urizen groups]] page (which will also serve as a template for similar pages in other nations)
+* We've extensively overhauled [[Urizen look and feel]] in line with our new [[costume]] guidelines
+* We've added or updated pages for all the Urizen archetypes: [[arbiter]],  [[architect]], [[illuminate]], [[mage]], [[seer]],  [[sentinel]], [[stargazer]], [[sword scholar]], [[torchbearer]], [[questor]]
+* We've added the rituals placed into [[Urizen magical traditions#urizen lore|Urizen lore]]
+* We've added a page for the historical figure [[Sulemaine]]
+Some tweaks have been made (or are in the process of being made) to various pages that are connected to these changes.
+
+==Costume==
+* '''07/09/2021'''
+We've completed rewritten the [[costume]] page to lay out clearer guidelines for the various ways costume is used at Empire.
+
+==Vallorn Miasma==
+* '''20/08/2021'''
+Added a line of OOC explanation to the [[Vallorn#Vallorn miasma|vallorn miasma]] section of the [[vallorn]] page to make it explicit how exposure to the miasma works.
+
+==Armour==
+*'''2/7/2021'''
+We have changed the [[Weapons & armour#Armour|classification and benefits provided by armour]] and introduced the [[Combat skills#Dreadnought|dreadnought]] skill. Please see the [[Rules_update_2021|2021 rules update]] for the explanation and reasoning behind the changes.
+
+==Others Languages==
+*'''28/06/2021'''
+We've added a section to [[languages]] giving guidance on languages other than those currently placed in the setting which you can find [[Languages#Other_Languages|here]].
+
+==Regio at Sanctioned Events==
+* '''28/06/2021'''
+We've added a section to the [[Sanctioned events]] guidance about [[regio]] which you can find [[Sanctioned_events#Regio|here]].
+
+==Lineage Review==
+* '''06/05/2021'''
+We've completed the first stage of a review of the [[lineage]] pages. This stage has been largely cosmetic, removing bullet points and replacing them with linkable headings on the [[briar]], [[cambion]], [[changeling]], [[draughir]], [[merrow]] and [[naga]] pages. 
+
+One more significant  change is that we have moved the "demeanour" trappings from the "physical trappings" section of each of the pages to the roleplaying section. This is in line with the requirement that to have lineage you must have a physical trapping.
+
+In the case of merrow, we have also moved [[Merrow#Blue-green Hair|blue-green hair]] from being a minor trapping to being an "[[Merrow#Other_trappings|other trapping]]".
+
+==Distil the Serpent's Stone==
+* '''21/04/2021'''
+We've corrected the magnitude on the [[Distil the Serpent's Stone]] page to match the correct magnitude on the database and in the rituals list. It should have been magnitude 100 rather than magnitude 70.
+
+==Icons and Artistry==
+* '''01/03/2021'''
+We've removed the "Icons and Artistry" pages for each nation, and rolled that information into the individual Culture and Customs pages. In some cases this has meant moving some information from Look and Feel as well, or altering the layout of the page (for example we've reordered the information about art and history on the [[Wintermark culture and customs]] page to create two new subsections of [[Wintermark culture and customs|Scops]] and [[Wintermark culture and customs|Riddles]] while moving the discussion of music to the new [[Wintermark culture and customs|Icons and Artistry]] section). 
+* [[The_Brass_Coast_culture_and_customs#Icons_and_Artistry|The Brass Coast]]
+* [[Dawn_culture_and_customs#Icons_and_Artistry|Dawn]]
+* [[Highguard_culture_and_customs#Icons_and_Artistry|Highguard]]
+* [[Imperial_Orcs_culture_and_customs#Icons_and_Artistry|Imperial Orcs]]
+* [[The_League_culture_and_customs#Icons_and_Artistry|The League]]
+* [[The_Marches_culture_and_customs#Icons_and_Artistry|The Marches]]
+* [[Navarr_culture_and_customs#Icons_and_Artistry|Navarr]]
+* [[Urizen_culture_and_customs#Icons_and_Artistry|Urizen]]
+* [[Varushka_culture_and_customs#Icons_and_Artistry|Varushka]]
+* [[Wintermark_culture_and_customs#Icons_and_Artistry|Wintermark]]
+
+==Erawayugot and Skaftafell==
+* '''23/02/2021'''
+We've corrected an error with the regions of Otkodov where we'd erroneously labelled both a region of [[Verthandi]] and a region of Nithoggir as "Erawayugot". Bringing the wiki into line with the database, we've changed the name of the Erawayugot in Verthandi to Skaftafell and will update the maps appropriately.
+
+==Military Units, Army Orders, and Enchantments==
+* '''17/02/2021'''
+We've added a line to [[Military_unit#Support_Army|Military units]] to make it more obvious how their strength interacts with orders given to, and enchantments placed on, the [[Army|armies]] they support. 
+
+==Still Waters, Running Deep==
+* '''10/02/2021'''
+We've adjusted the magnitude of the [[Still Waters, Running Deep]] ritual to be correct as near as we can tell. We have no idea why the magnitude was recorded in error.
+
+==Burning Falcon==
+* '''05/02/2021'''
+We've adjusted the date of the destruction of the [[Burning Falcon]] army from 247YE to 248YE to remove a conflict with details of the [[campaigns of Emperor Guntherm]]. In-character this correction comes as result of some research performed by [[the Brass Coast|Freeborn]] scholar Bakar i Erigo (Tomas Marchington).

@@ -1,0 +1,26 @@
+[[Category:Title]][[Category:Foreign Nations]][[Category:Senate]][[Category:Ambassador]]
+{{CaptionedImage|file=Melkior of Balthazar’s Vineyard.png|caption='''Melkior of Balthazar’s Vineyard''', Ambassador to Beoraidh|align=left|width=350}}
+==Overview==
+The Ambassador to Beoraidh is an [[Imperial title]]. It is an Imperial position appointed by the [[Senate]]. The title was [[387YE_Winter_Solstice_Senate_sessions#Create_Ambassador_to_Beoraidh|created]] by the Senate during the Winter Solstice 387YE in a motion raised by '''Pathfinder Gaddak''', the [[Mareave|Senator for Mareave]].
+==Responsibilities==
+The [[ambassador]] is expected to represent the Empire in relations with the city-state of [[Mareave#Beoraidh|Beoraidh]]. They have all the responsibilities [[Ambassador#Responsibilities|common]] to an Imperial ambassador. As such they are responsible for representing the Empire to the city-state of Beoraidh, and to a degree vice versa. They are presented as the primary contact for any official Imperial business relating to the city, so their letters carry much greater weight and importance than anyone bar [[the Throne]]. They are expected to conduct or oversee any [[Ambassador#Treaty|treaty negotiations]] with that nation, and receive official [[Ambassador#Delegation|delegations]]. The [[civil service]] will direct representatives and citizens of the foreign power to the ambassador wherever appropriate.
+{{Diplomacy|nation=[[Mareave#Beoraidh|Beoraidh]]|status=Foreigner|port=Currently none.|ambassador= Melkior of Balthazar's Vineyard of [[Highguard]]|counterpart=[[Ambassador_to_Beoraidh#Beoraidh_Ambassador|Rubhart Kaltrin]]}}
+==Powers==
+===Imperial Ambassador===
+The title has all the [[Ambassador#Powers|common powers]] of an ambassador: they can receive a formal [[Ambassador#Delegation|delegation]], and may prepare a [[Ambassador#Treaty|treaty]].
+==Appointment==
+The Ambassador to Beoraidh is an Imperial position [[Appointments_by_the_Senate#Imperial_Position|appointed by the Senate]]. Any Imperial citizen can hold this title, and the ambassador serves for a year. They can be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Ambassador_to_Beoraidh}}
+==Ambassadorial Lore==
+===Beoraidh Embassy===
+There is currently no [[embassy]] from Beoraidh, nor an Imperial embassy to the city-state. The Beoradhi seem broadly unconcerned about this, being flattered that they have received an "official ambassdor" from the Empire. There has been some talk in the past of establishing a [[Each_age_a_lens#Investment_of_Stone|consulate]], but so far nothing has come of it.
+<div style="float:right; width: 200; clear: left;">{{WingedMessenger|address=Rubhart Kaltrin, the Palace of Chains, Beoraidh, Mareave}}</div>
+===Beoraidh Ambassador===
+''Rubhart Kaltrin'' is responsible for representing the city-state of Beoraidh to the Empire. They are a fairly recent appointment, taking up the post in Spring 388YE in respone to the [[A_knock_at_the_door#Welcome_Ambassador|Senate's decision to appoint]] an official Ambassador to Beoraidh. Rubhart is one of Ehsan's (many) relatives - a great-nephew as near as the civil service can tell. They have investments across the city, having initially made their money in the salt trade but now having mostly divested their interests and focused on using money to make money.
+===Ambassadorial Briefing===
+As discussed in the 388YE Autumn Equinox wind of fortune '''[[So_little_I_wanted,_so_little_I_got#Ambassadorial_Briefings|So little I wanted, so little I got]]''', the [[civil service]] have recently reinstituted Ambassadorial briefings. At least in the short term, the civil service have resumed furnishing Imperial ambassadors ''who are supported by [[embassy]] staff'' with individual briefings where necessary and appropriate. To maintain transparency and preserve continuity, the briefings are made available to those who wish to review them ''after'' the summit where they are delivered, in a similar way to which [[historical research]] is made public. Only those elements of a briefing that are specifically personal to the ambassador may be removed, and only where they are clearly not of interest to the Empire. At the end of the year, this procedure will be reviewed again, to ensure that it is fit for purpose.
+
+In the absence of an offical [[embassy]] - and the civil service staff that support it - the Ambassador to Beoraidh is not in a position to receive official briefings. A short briefing was provided at the Autumn Equinox, but going forward it will not be possible to continue doing so. Ways to address this issue were discussed in the [[So_little_I_wanted,_so_little_I_got#Embassies|wind of fortune]].
+
+* [[388YE Autumn Beoraidh ambassador briefing]]
+{{Beoraidh links}}

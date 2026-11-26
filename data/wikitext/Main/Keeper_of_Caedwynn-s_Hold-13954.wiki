@@ -1,0 +1,25 @@
+[[Category: Title]] [[Category: Navarr]]
+==Overview==
+The Keeper of Caedwynn's Hold is an [[Imperial title]] awarded to a citizen of [[Navarr]]. The motion to construct the Caedwynn's Hold Wayhouse was [[Construct Wayhouse in the Barrens|proposed]] by '''Lady Gwendoloena de Ordraig''', as the Senator for [[the Barrens]] during the Summer Solstice 388YE, and construction was completed shortly before the Autumn Equinox 388YE. <br><br>
+{{Navarr Wayhouse Benefits|Caedwynn's Hold|the Barrens}}
+
+==Responsibilities==
+The Keeper of Caedwynn's Hold is responsible for protecting the wayhouse and the Navarr who live in [[the Barrens#Murderdale|Murderdale]]. If the wayhouse, travellers using the wayhouse, or the Navarr of the region were to be threatened in any way, it would be the responsibility of the Keeper to deal with those threats. Likewise, if any particular [[opportunity]] were to arise related to the wayhouse, the Keeper would expect to be consulted as to how that opportunity might be resolved.
+
+==Powers==
+===Wealth of the Wilds===
+The Keeper of Caedwynn's Hold receives one throne, six crowns, and eight rings each season.
+
+==Appointment==
+The Keeper of Caedwynn's Hold is appointed during the Summer Solstice each year. As a [[New_Imperial_titles#The_Imperial_Synod|national position]], it is elected by unanimous decision of the [[Navarr]] senators. 
+
+The title can only be held by a citizen of Navarr. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the Navarr Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=PHOTO.png|caption='''Holder''', Keeper of Caedwynn's Hold|align=left|width=300}}-->
+==Funding==
+Click ''Expand'' to see the list of contributions made to construct Caedwynn's Hold.
+<div class="mw-collapsible mw-collapsed">
+{{CommissionProgress|Construct_Wayhouse_in_the_Barrens}}
+</div>
+{{RecentElections|Keeper_of_Caedwynn%27s_Hold}}
+
+{{Responsibilities Expectation}}

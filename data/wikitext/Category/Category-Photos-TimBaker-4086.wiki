@@ -1,0 +1,9 @@
+
+Tim Baker<br />
+
+
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>[[Category:Photos:TimBaker]] [[:Category:Photos:TimBaker|Image by Tim Baker]]
+</nowiki>''

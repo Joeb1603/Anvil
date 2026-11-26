@@ -1,0 +1,97 @@
+---
+title: Scholars and mandarins
+source: https://www.profounddecisions.co.uk/empire-wiki/Scholars_and_mandarins
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 381YE Autumn
+- Recent History
+event: 381YE Autumn
+last_edited: '2026-02-09T17:03:07Z'
+revision: 134125
+in_character_boxes: 1
+---
+
+# Scholars and mandarins
+
+> *In-character text:*
+>
+> The three heralds maintained a polite distance from one another as they waited. The first, and tallest, brushed a tiny speck of something off the front of its beautiful samite robe, the paleness of the cloth a stark contrast to the warm golden skin of its hand.
+>
+> "Do you think they will be much longer?" asked the first of its companions, breaking the slightly awkward silence. She was bronze-skinned, her tunic and trousers brightly coloured and adorned with jewelled tassels. She adjusted her sapphir tagelmust and peered up the stairs of the great hall as if she could see round corners. Perhaps she could, at that.
+>
+> "I cannot venture an opinion," said the tallest of them. "No doubt they have procedures they must follow. People who must be informed in the correct order, and decisions that must be made by the correct individuals, before they determine what to do with our ... party."
+>
+> The bronze-skinned herald nodded absently, and walked over to one of the great arched windows, peering out into the gardens and the mountainside beyond. "The gardens are very beautiful," she mused.
+>
+> "That's neither here nor there," said her companion dismissively.
+>
+> The third figure said nothing. Lithe and slim, his skin in earthen tones and his clothing rough and uncouth next to that of his companions, he sat on a bench near the door. He had no interest in conversation with either of them, and privately questioned the wisdom of traveling together in the first place. He also privately considered the gardens a mess, laid out in a slap-dash manner he found mildly offensive. And the fact that the tallest among them had assumed that they were to take the leadership role, frankly, irritated him. Yet he kept his thoughts to himself. He had been given a task, and would discharge it. He focused on the strings, and the melody he played on his lyre, a complex cascade of notes following an obscure arithmetic progression only he was aware of, or understood, or was smart enough to understand.
+
+## Overview
+
+Two separate groups of heralds from the endless sky-ocean of the Day realm have been at large in the Empire. The Great Library Phaleron has sent one of its librarians to arrange a meeting with certain specific magicians. At the same time, a trio of heralds representing Sinokenon, Ylenrith, and Roshanwe are traveling together to speak to covens and individual practitioners who are masters of [Day magic](../../out-of-character/rules/Day_magic.md), offering boons from their masters.
+
+**Participation:** Whenever an opportunity such as this refers to heralds contacting "powerful magicians" or "scholars of Lore", a player character is always free to roleplay that they spoke with the heralds themselves within the bounds presented by the Wind of Fortune.
+
+## The Celestial Library
+
+- **The Great Library Phaleron has requested an opportunity to speak with magicians who have mastered the Celestial Library**
+
+[Phaleron, the great library](../eternals/Phaleron.md), has sent one of its librarians to speak to the civil service to arrange a meeting. The tall, otherworldly herald is painfully precise and cordial, and explains that one of the outer chambers of the *Coral Library* will be open to all those of the Empire who have mastered the ritual known as [The Celestial Library](../../mixed/magic/rituals/Celestial_Library.md). This chamber will be open from the eleventh hour of the Saturday morning of the equinox, for those who do not plan on taking the [Sentinel Gate](../world/Sentinel_Gate.md) to fight for the Empire.
+
+Phaleron would especially like to speak to Garth and Genieve of the Anvil Library; to the Archmage of Day, Gancius della Notte di Sarvos; and to [Skywise](../../out-of-character/groups/Imperial_Orcs_groups.md#skywise) Gralka and Siân Eternal. If any of those named guests, or their proxies, cannot cast the Celestial Library ritual then entry to the chamber will be made available.
+
+It seems that the "outer chamber" represents one of those places that lies part-way between a realm and the mortal world, and can be reached via the Hall of Worlds. Access has been magically barred to those who have not mastered the ritual of the Celestial Library, unless they are one of the named individuals.
+
+## The Heralds of Day
+
+Over the last month, a trio of heralds from the realm of Day have visited with prominent practitioners of [Day magic](../../out-of-character/rules/Day_magic.md) across the Empire. Each serves a different eternal. The leader of the group is a samite-clad androgynous figure with golden skin, a functionary at the court of [Sinokenon](../eternals/Sinokenon.md). It is accompanied by a being very like a [merrow](../../mixed/magic/lore/Merrow.md), but with a bronzed colouration and clad in the manner of [the Brass Coast](../nations/the-brass-coast/The_Brass_Coast.md), who speaks for [Roshanwe](../eternals/Roshanwe.md). The third is a slightly built creature similar to an [orc](../../mixed/world/Orc.md), with feathers across his head, dressed in the manner of a [Thule](../foreign-nations/Thule.md) warlock but carrying a lyte who represents [Ylenrith](../eternals/Ylenwe.md). Each one brings an offer to the Conclave.
+
+### A Gift of Binding
+
+- **Sinokenon offers a gift to the Orders to help restrict abuse of magic**
+
+The offer is straightforward enough. To help the Conclave enforce their [Declaration of Sorcery](../../mixed/government/conclave/Declaration.md#declaration-of-sorcery), Sinokenon will provide one of the [Conclave orders](../../mixed/government/conclave/Conclave_order.md) with a talisman that will significantly boost the ability to perform the ritual [All the World in a Grain of Sand](../../mixed/magic/rituals/All_the_World_in_a_Grain_of_Sand.md). Sinokenon suggests that any sorcerer could then be subjected to the [curse](../../out-of-character/rules/Curse.md), significantly reducing their ability to perform rituals – should they be inclined to break the law.
+
+Sinokenon does not have amity – and is not seeking it. Instead, it asks only that the Imperial Conclave perform a [Declaration of Endowment](../../mixed/government/conclave/Declaration.md#declaration-of-endowment) to deliver the talisman to the Grandmaster of a nominated order – either the [Celestial Arch](../../mixed/government/conclave/Celestial_Arch.md), [Sevenfold Path](../../mixed/government/conclave/Sevenfold_Path.md), or [Shuttered Lantern](../../mixed/government/conclave/Shuttered_Lantern.md) – and then its use would be an issue for that Order to oversee.
+
+If the Imperial Conclave accepts, and uses the curse to mark sorcerers, Sinokenon is prepared to have the item reforged each year and would be open to a discussion about providing the Conclave with a means to make their own talismans.
+
+If the Conclave refuses, Sinokenon's heralds make it clear that their master will not be offended – but that it will not make the offer again.
+
+### A Gift of Inquisition
+
+- **Roshanwe offers the gift of a new divination**
+
+The eternal Roshanwe appears a little disappointed that nobody has taken her
+[offer](On_wings_aspire.md#a-judgement-of-nets) to provide boons to those who acted against the supporters of the [Whisper Gallery](../eternals/Whisper_Gallery.md). She continues to be concerned about magicians flouting the edicts of the Conclave, however, but her primary concern now is with rituals that have been [interdicted](../../mixed/government/conclave/Declaration.md#declaration-of-interdiction).
+
+She offers an arcane projection, which could be codified to provide Imperial investigators with a powerful divinatory tool. Using [day magic](../../out-of-character/rules/Day_magic.md), it would divine if a specific target or targets had performed a named ritual during the last three days. Effectively, it could be used to track down sorcerers who have broken their restriction against performing ritual magic, as well as covens who have chosen to perform illegal rituals. It is her expectation that the arcane projection would be codified at a [college of magic](../../mixed/commissions/College_of_magic.md), and [made available](../../out-of-character/rules/Formulaic_ritual.md#imperial-lore-and-the-ritual-list) to any Imperial magician who wishes to perform it.
+
+As with Sinokenon, she does not require amity, all she asks is that a Declaration of Endowment be made to bestow the arcane projection she has had prepared to the master of a college of magic.
+
+### A Gift of Purity
+
+- **Ylenrith offers to help lineaged individuals purify the taint of magic form their bodies**
+
+The third herald is an agent of Ylenrith, and offers a very different gift to the Empire. In the realm of Day there is a certain pool that contains water of such purity that it can be used to wash away [lineage](../../mixed/magic/lore/Lineage.md) from a human being. The herald says that there are many in the Empire who do not embrace the magic that marks them out as different, and that Ylenrith will offer a gift of purifying water to the Empire to minister to those who would restore themselves to an untainted state.
+
+The eternal knows that being responsible for aiding others in this fashion is a serious undertaking. She wishes to make this gift to the new [Silver Chalice](../../mixed/government/conclave/Silver_Chalice.md) order so that they can heal people of the discord in themselves, and says she will make it up to the grandmaster to distribute as they wish. All the conclave has to do is pass a [Declaration of Concord](../../mixed/government/conclave/Declaration.md#declaration-of-concord) accepting the gift.
+
+Several magicians in [Highguard](../nations/highguard/Highguard.md), and a number from other nations associated with the [Sevenfold Path](../../mixed/government/conclave/Sevenfold_Path.md) have already expressed caution about accepting this gift. Without knowing how the water actually works, it is possible that such a fundamental “cleansing” might be dangerous to the spirit. Worse, it might interfere with a soul's passage through the Labyrinth – or even cleanse the outward signs of lineage taint while leaving the spiritual influence of the blood behind, hidden. Highborn magisters in particular are suspicious of Ylenrith's motives in offering this “gift” - they mutter ominously that “purity” has several meanings, at least one of them deeply unpalatable.
+
+## Participation
+
+Whenever an opportunity such as this refers to heralds contacting "powerful magicians" or "scholars of Lore", a player character is always free to roleplay that they spoke with the heralds themselves within the bounds presented by the Wind of Fortune.
+
+## Resolution
+
+A delegation of magicians met with [Phaleron](../eternals/Phaleron.md) during the Autumn Equinox. Whatever else was discussed at this time, one outcome observable by all magicians is that the [The Celestial Library](../../mixed/magic/rituals/Celestial_Library.md) ritual has ceased to function for the time being.
+
+The Conclave chose to accept the gifts of [Inquisition](#a-gift-of-inquisition) (endowed on Octavius, Provost of the Halls of Knowledge) and of [Binding](#a-gift-of-binding) ([endowed](../../mixed/government/conclave/Declaration.md#declaration-of-endowment) on the [Grandmaster](../../mixed/titles/Grandmaster.md) of the [Shuttered Lantern](../../mixed/government/conclave/Shuttered_Lantern.md)). They did not accept the gift of [Purity](#a-gift-of-purity) from [Ylenrith](../eternals/Ylenwe.md).
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [381YE Autumn](../../indexes/by-category/381YE_Autumn.md), [Recent History](../../indexes/by-category/Recent_History.md)

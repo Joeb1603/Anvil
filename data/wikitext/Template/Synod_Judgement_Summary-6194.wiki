@@ -1,0 +1,7 @@
+<div class="box" style="float: right;"> 
+<div class="box-inner">
+<p style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 14px; font-weight: bold; margin-bottom: 2px;">Synod Judgement</p>
+* [[Assembly|{{{1}}}]]
+* [[Judgement#Majority|{{{2}}}]]
+</div>
+</div>

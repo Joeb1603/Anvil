@@ -1,0 +1,35 @@
+<div {{Floatleft}}>{{CaptionedImage|file=Good Walder's Orchard.png|caption=In the [[Mitwold#Golden_Downs|Golden Downs]], just south of the town of [[Mitwold#Hay|Hay]] in Mitwold, near the Mourn border, there's an old stand of trees, mostly apples, which local legend, says is the resting place of Good Walder.|width=500|align=left}}</div>
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Marcher.png|caption=This title is appointed by the [[Assembly#The_National_Assemblies|Marcher Assembly]]|width=250px}}</div>
+The [[Senate]] [[commission|commissioned]] the [[Construct Good Walder's Orchard|construction]] of Good Walder's Orchard during the Autumn Equinox 383YE. Built near Walder's Oak in the [[Mitwold#Golden_Downs|Golden Downs]], [[Mitwold]], work was completed shortly before the Winter Solstice 383YE. Local stories suggest that Good Walder himself is buried beneath the largest and oldest apple tree in the orchard, but there is no actual evidence to support this claim.
+
+==Responsibilities==
+The Keeper of the Orchard has a responsibility to ensure the safety of both the pilgrims visiting the Orchard and that of the Orchard itself. If the Orchard were to be threatened in any way, it would be the responsibility of the Keeper to deal with those threats.
+__TOC__
+==Powers==
+===A Portion of Liao===
+The sinecure provides 15 doses of [[liao]] to the Keeper each season, to be used as they see fit. 
+
+===Bright Red Apples===
+Each season the Orchard produces four ''bright red apples''; pieces of fruit that can be used in [[Religious skills|ceremonies]] when performed by someone dedicated to [[Prosperity]]
+
+==Appointment==
+This title is appointed during the Winter Solstice. The Keeper of the Orchard is [[appointment|appointed]] by a [[judgement]] of [[Appointment]] in the [[The Marches|Marcher]] [[Assembly#The_National_Assemblies|national assembly]].  
+
+The title can be held by any Marcher citizen. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Marcher National Assembly, and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]]
+{{CaptionedImage|file=Basil Goodbeard.JPG|caption='''Basil Goodbeard''', Keeper of the Orchard|align=left|width=300}}.
+{{RecentElections|Keeper_of_the_Orchard}}
+==Good Walder's Orchard==
+In the [[Mitwold#Golden_Downs|Golden Downs]], just south of the town of [[Mitwold#Hay|Hay]] in Mitwold, near the Mourn border, there's an old stand of trees, mostly apples. There's been a local legend, an old story, an old [[The_Marches_magical_traditions#Mummers|mummers']] tale, that maybe the biggest and oldest apple tree of the lot of them marks the grave of Good Walder. Certainly the local [[The_Marches_religious_beliefs#Monks_and_Friars|friars]] have always claimed it was though to be fair dozens of villages across the Marches have a stand of trees that allegedly marks the grave of the paragon.
+
+But there is something unusual about this copse. The old tree at the heart of the copse has never given many apples, but the ones that do ripen are said to taste like none other. Good hearty Marcher apples, the best you ever did taste, for all that they're so few in number. In the summer of 382YE, there were reports of an unexpectedly big harvest from the old tree - that it literally groaned with fruit, and so did its neighbours. Inevitably - with all the rumours of Good Walder flying about at the time - local folk began calling it a miracle. The friars of Hay made representation to the nation at the following  Autumn summit, claiming that if the strange harvest was a miracle then it was a miracle of Prosperity. They presented several proposals as to how best to honour that miracle.
+
+In the end the [[Senate]] chose to build a shrine dedicated to Good Walder at the orchard, The shrine offers support and hospitality to pilgrims visiting the orchard and ensures that the ''Keeper of Good Walder's Grave'' receives the benefits of a site of pilgrimage ''in addition to any apples that blossomed.''
+
+During the Spring Equinox 386YE '''Tom Appleseed''' was chosen to [[386YE_Spring_Equinox_Synod_judgements#Judgement_74|enact]] a mandate to consecrate the orchard using true liao. The consecration of the orchard has also seen widespread enthusiasm for the [[Roll of Benefactors]].
+
+==Further Reading==
+* [[Good apples]] - Summer 382YE Wind of Fortune that introduced the opportunity to develop the orchard.
+* [[The Prosperity of Good Walder]] - Spring 386YE Wind of Fortune in response to the writ of consecration raised the previous season
+[[Category:Title]]
+[[Category:The Marches]]

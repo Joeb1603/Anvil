@@ -1,0 +1,15 @@
+{{stub}}
+[[Category:Senate Motion]][[Category:384YE Spring]]
+__NOTOC__
+<quote by="Announced by Achille di Sarvos, Bearer of an Imperial Wayleave">Self-funded to build a sinecure in Foracci known as the Pelican Tower, the custodian of which will be known as the Custodian of the Pelican Tower. Appointment as a tenure position (until death, resignation, or reallocation) by the Senators of the League.</quote>
+==Overview==
+* Commissions a [[sinecure]] in [[Sarvos#Foracci|Foracci]], [[Sarvos]].
+* Announcement by [[Bearer of an Imperial Wayleave]].
+==Date==
+* Spring 384YE
+==Cost==
+* Standard [[sinecure]] costs apply
+==Progress==
+{{CommissionProgress|Pelican_Tower}}
+==Outcome==
+Once work on the tower is completed the title of [[Custodian of the Pelican Tower]] will be available to be appointed

@@ -1,0 +1,422 @@
+---
+title: Thousands or more
+source: https://www.profounddecisions.co.uk/empire-wiki/Thousands_or_more
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 383YE Winter
+- Recent History
+event: 383YE Winter
+last_edited: '2026-08-20T00:56:19Z'
+revision: 143937
+in_character_boxes: 1
+---
+
+# Thousands or more
+
+> *In-character text:*
+>
+> Abraham eyed the plate suspiciously. Fat, hot scones spread with thick Varushkan honey. Not one, but *two* of them. They smelled delicious, they would certainly taste delicious. Clearly someone wanted him buttered up. That usually meant his apprentice was going to try and slide something past him. Again.
+>
+> "Spit it out" he said, rolling his eyes as Uras feigned ignorance. "Whatever dubious scheme you've been told to get me to sign off on. Spit it out."
+>
+> "Nothing at all Magistrate." Uras had the good grace to look a little guilty as he continued. "... But I did wonder if you had had time to review the recommendations for the Imperial Senate regarding the territory of Ossium?"
+>
+> "Hah! So that's what this is about. Since you ask, yes I've read it and no I still don't like it. What is this awful idea of making recommendations. It's not our job to be recommending anything."
+>
+> "I believe that the clerks in the Speaker's office thought the Senate might find it useful. Obviously it doesn't have any legal force, it's merely an option the Senate could take - to facilitate dealing with Ossium quickly."
+>
+> "Hmpf." Abraham's eyes narrowed and he glanced towards the papers on his desk. "Legislate in haste, repent in leisure" he intoned, voice full of the promise of doom.
+>
+> "They'll probably ignore it anyway" Uras protested, "The Senate could just as easily use one motion to make them all Senate appointments."
+>
+> Abraham snorted in derision. "It'll be interesting to see what happens if they do. Half a dozen powerful positions... and every single one requiring the unanimous approval of all five Varushkan senators. That doesn't sound like a recipe for smooth government to me... An absence for any reason, a death, or just the slightest disagreement and they'll be forced to bring it back to the Senate floor..." his voice trailed off as he eyed the buttered scones. They had stopped steaming, which was not a good sign.
+>
+> "Bring it here" he said, pointing to the desk. "And fetch me quill and ink, so I can sign it before I change my mind."
+
+## Overview
+
+The civil service have completed a survey of the wealth of Ossium, looking at the riches of the territory, assessing its potential and cataloguing what spoils of war there are to be had. As expected they have confirmed that the forests are rich in [dragonbone](../../out-of-character/rules/Materials.md#dragonbone), [ambergelt](../../out-of-character/rules/Materials.md#ambergelt), [beggar's lye](../../out-of-character/rules/Materials.md#beggar27s-lye), and [iridescent gloaming](../../out-of-character/rules/Materials.md#iridescent-gloaming) but outside of the [Crawling Depths](../../mixed/titles/Vale_of_the_Sunless_Depths.md), it seems Ossium is *very* poor in valuable minerals.
+
+They have not found any additional valuable resources that could be granted to Imperial citizens, but they have identified several larger structures that could serve as the basis for a [sinecure](../../mixed/commissions/Sinecure.md), [ministry](../../mixed/commissions/Ministry.md), or similar. They have catalogued the potential these structures offer and any options available for dealing with them. In almost all cases, the structures would need a suitable Imperial position to be created to oversee and operate the structure, so the civil service have included advice on the best way for the [Senate](../../mixed/government/senate/Senate.md) to discharge this responsibility.
+
+## Wealth of the Earth
+
+- **All forest personal resources in Ossium produce 2 additional measures**
+- **Any commission intended to increase production of metals in Ossium would be twice the normal cost**
+
+The rich groves and stretches of woodland in Ossium are unusually fertile and suitable for exploitation. As a result, any Varushkan who owns a [forest](../../out-of-character/rules/Forest.md) in Ossium can expect it to produce 2 extra measures of the appropriate material every season. This benefit reflects the natural bounty of the area, coupled with a long history of under-use and should endure for many years to come.
+
+The news is not so good when it comes to the potential mineral wealth of Ossium. Outside of the [Crawling Depths](../../mixed/titles/Vale_of_the_Sunless_Depths.md), it seems Ossium is *very* poor in [valuable metals](../../out-of-character/rules/Materials.md#materialsmetals). Indeed, it seems the Druj have not maintained *any* mines in the territory apart from the great mithril quarry at Lomaa. The civil service report that Ossium would be a poor choice for Imperial citizens to establish their own mines, and that they have been able to locate only a handful of locations where workable veins can be found. While an individual operating a [mine](../../out-of-character/rules/Mine.md) might scrape out some prosperity here, there are no obvious opportunities for creating anything larger. Any [sinecure](../../mixed/commissions/Sinecure.md), [ministry](../../mixed/commissions/Ministry.md), [great work](../../mixed/commissions/Great_work.md), or similar [commission](../../mixed/commissions/Commission.md) designed to produce [green iron](../../out-of-character/rules/Materials.md#green-iron), [weltsilver](../../out-of-character/rules/Materials.md#weltsilver), [tempest jade](../../out-of-character/rules/Materials.md#tempest-jade), or [orichalcum](../../out-of-character/rules/Materials.md#orichalcum), or which tries to improve the production of such mines, will need twice as much in terms of materials and time. This dearth of minerals would also be factored into any [opportunity](../../out-of-character/game-design/Opportunity.md) related to these kinds of commission offered in the territory.
+
+## Well Worn Paths
+
+- **In each case, the civil service have tried to identify all the well-worn paths by which an Imperial title might be appointed**
+- **In each case the civil service have provided a single recommendation for how a title could be appointed**
+- **If the structures were upgraded with a Senate motion, that could also be used to determine the responsibilities and appointment method**
+
+Taking advantage of the riches of Ossium will require the creation of several [new Imperial titles](../../mixed/titles/New_Imperial_titles.md), with people appointed to oversee the captured commission. In each case the civil service have identified the well worn paths by which a title could be appointed. There is no legal requirement to use this mechanism, but using an approach that has been used countless times before ensures that a [Senate motion](../senate-motions/Senate_motion.md) attracts far less [scrutiny](../senate-motions/Scrutiny.md). Appointments that follow these paths are far less likely to be classed as [unconstitutional](../senate-motions/Senate_motion.md#constitution) or require a [constitutional](../senate-motions/Senate_motion.md#constitutional-vote) vote to pass.
+
+The need to create so many new titles will create a considerable burden for the Imperial Senate. To try to assist the Senate, the civil service have provided a single recommendation in each case. There is no legal requirement to use the recommended path, but it provides an opportunity for the Imperial Senate to pass a legal motion to create Imperial titles for all the remaining commissions, by stating that all remaining options are to be appointed in line with all the civil service recommendations.
+
+A single Senate motion can [operate on an entire set of things at once](../senate-motions/Senate_motion.md#single-issue), provided it does so in a uniform way. Thus it is not legitimate to create a list of named commissions in Ossium to be affected, but the Senate can pass a motion to dispose of all remaining commissions in Ossium. If the Senate wishes to follow the recommended path for some commissions, but not others, then the most effective way to do that would be to deal with the individual commissions first, using a single Senate motion for each, then use one motion at the end to deal with everything that remains.
+
+In each case the civil service have outlined some recommended responsibilities that would form part of the title if it was appointed in line with the civil service recommendations. If the Senate wished to add additional responsibilities, then they would need to use a Senate motion to outline those.
+
+If the Imperial Senate determine how a title is to be appointed in time for the civil service to arrange a suitable election, then the title will be elected at that summit. This means that any title elected via the Bourse would need to be settled at the first Senate session on Friday, titles appointed by the Conclave would need to be settled by first Senate session on Saturday, titles appointed by the Synod or the Senate would need to be settled by the second Senate session on Saturday. If a title is not elected at this summit, then it will be available for election at the next summit and any income that has accrued up to that point will be immediately available to whoever is elected.
+
+Each of the structures has one or more options to expand or upgrade the existing facilities. These would require a senate motion or a [wayleave](../../mixed/economy/Bearer_of_an_Imperial_Wayleave.md) to arrange, but if a Senate motion were used then it would be constitutional to use a single motion to commission the upgrade and determine how the title is appointed and what additional responsibilities if any are included. All these titles the title would be held for a year, unless appointed by the Imperial Conclave.
+
+## The Palace of Orieb
+
+- **The [Palace of Orieb](../nations/varushka/Ossium.md#palace-of-orieb) is situated in the former Druj town of Orieb, in the [Drownbark Forest](../nations/varushka/Ossium.md#drownbark-forest)**
+
+In the depths of the [Drownbark Forest](../nations/varushka/Ossium.md#drownbark-forest) is the settlement of **Orieb**, a ramshackle former Druj settlement surrounding a sprawling and labyrinthine palace. The [Palace of Orieb](../nations/varushka/Ossium.md#the-palace-of-orieb) is believed to have been home to the [Buruk Tepel](../barbarians/Druj_lore.md#buruk-tepel) of the Bone Serpent clan, *Bleakbane*. Neither she nor her apprentices have been accounted for, although it is possible they were slain by either the Thule or the Druj orcs during the [peculiar events at Orieb during Spring 383YE](../winds-of-war/383YE_Spring_Equinox_winds_of_war.md#secrets-and-mysteries).
+
+The maze-like structure has still only been partially mapped. It is a peculiar and unsettling combination of living area, apothecary workshop, palace, political hub, and herb garden with plants growing inside the structure in internal gardens - some open to the elements and others roofed with glass or cunning wooden shutters that can be adjusted to control the amount of rain and sun that reaches them. Parts of the palace are flooded with waters from the surrounding marshes - but all the signs indicate that this is by design rather than as a consequence of any architectural failure. There are also a number of peculiar chambers focused around apparent veneration or propitiation of supernatural entities containing statues surrounded by a profusion of flourishing plants of all kinds.
+
+The "town" of Orieb is composed of makeshift hovels populated by a number of freed orc and human slaves. They have thus far cooperated fully with the liberating forces, open in their relief that the Druj have been driven away. The only real concentration of Varushkans in the region is found here - bands of [wagon raiders](../nations/varushka/Varushka_military_concerns.md#wagon-raiders-and-sell-swords) from [Karsk](../nations/varushka/Karsk.md) and southern [Volodmartz](../nations/varushka/Volodmartz.md). They have created a small enclave surrounding the *Stinking Market* where they sell valuables wrenched not only from the depths of the Drownbark Forest but also from daring raids across the border into [Farweald](../nations/varushka/Ossium.md#farweald) and the [Forest of Ulnak](../barbarians/The_Mallum.md#forest-of-ulnak). More of them later.
+
+Some of the former slaves made a spirited attempt to gut the palace before Imperial civil servants requested that they stop and allow an inventory of the contents to be completed. The civil service reports that the Palace of Orieb is not only a web of secrets and mysteries, but a labyrinthine pharmacopeia that dwarfs even the now-destroyed [Bitter Vats](Chilled_to_the_bone.md#the-bitter-vats).
+
+### Apothecary of Orieb
+
+- **The Palace of Orieb represents both a [sinecure](../../mixed/commissions/Sinecure.md) and a [ministry](../../mixed/commissions/Ministry.md), overseen by a single title**
+- **The Imperial Senate could choose to make the Apothecary an Imperial or a national position**
+- **The civil service recommendation is to make the title a national Bourse appointment by Tally of the Votes**
+- **if the Palace is not allocated by the end of the Spring Equinox 384YE, this opportunity will be lost**
+
+|  |  |
+| --- | --- |
+| Total Money Spent | Production |
+| 7 Crowns | 14 random herbs, 1 dose of Realmsroot |
+| 17 Crowns | 28 random herbs, 2 doses of Realmsroot |
+| 30 Crowns | 42 random herbs, 3 doses of Realmsroot |
+
+Custodianship of the Palace of Orieb could be used by the Senate to create an [Imperial title](../../mixed/titles/Imperial_title.md). The civil service recommendation is that the title be called the *Apothecary of Orieb*, that it have responsibility to oversee the Palace of Orieb, and be a national Bourse appointment by [Tally of the Votes](../../mixed/economy/Tally_of_the_Votes.md) (by vote of Varushkan mine and forest owners).
+Other [well worn paths](../../mixed/titles/New_Imperial_titles.md#well-worn-paths) are available however. The position could be a national or Imperial [appointment by the Senate](../../mixed/government/senate/Appointment_by_the_Senate.md) or an Imperial position appointed through the Bourse by the [Auction of the Seats](../../mixed/economy/Auction_of_the_Seats.md).
+
+At the moment the Palace is maintained by the Imperial civil service, who have employed several locals already familiar with its tricks and traps to keep the place ticking over. Time is pressing however; if it remains unallocated by the end of the Spring Equinox 384YE, this opportunity to appoint a custodian will be lost.
+
+As it currently stands the palace represents a lucrative [sinecure](../../mixed/commissions/Sinecure.md) providing 5 doses each of [True Vervain](../../out-of-character/rules/True_Vervain.md), [Marrowort](../../out-of-character/rules/Marrowort.md), [Bladeroot](../../out-of-character/rules/Bladeroot.md), [Cerulean Mazzarine](../../out-of-character/rules/Cerulean_Mazzarine.md), and [Imperial Roseweald](../../out-of-character/rules/Imperial_Roseweald.md), as well as 2 doses of [Realmsroot](../../out-of-character/rules/Realmsroot.md). It also functions as a [ministry](../../mixed/commissions/Ministry.md); in return for reasonable wages the local orcs and humans can greatly increase the bounty offered by the Palace of Orieb's specialist herb gardens.
+
+### Secrets of the Palace
+
+- **The Senate could commission an upgrade to the Palace to improve the facilities**
+- **The Senate could commission a team to carry out historical research in the Palace**
+
+|  |  |
+| --- | --- |
+| Legacy of Thorns | Production |
+| 7 crowns | 3 doses of [Oil of Blackthorn](../../mixed/magic/potions/Legacy_of_Thorns.md#oil-of-blackthorn) |
+| 7 crowns | 3 doses of [Redwillow Paste](../../mixed/magic/potions/Legacy_of_Thorns.md#redwillow-paste) |
+| 16 crowns | 4 doses of [Legionnaire's Stare](../../mixed/magic/potions/Legacy_of_Thorns.md#legionnaire27s-stare) |
+| 30 crowns | 3 doses of [Oil of Blackthorn](../../mixed/magic/potions/Legacy_of_Thorns.md#oil-of-blackthorn), 3 doses of [Redwillow Paste](../../mixed/magic/potions/Legacy_of_Thorns.md#redwillow-paste), 3 doses of [Legionnaire's Stare](../../mixed/magic/potions/Legacy_of_Thorns.md#legionnaire27s-stare) |
+
+|  |  |
+| --- | --- |
+| Double-sided Blade | Production |
+| 7 crowns | 3 doses of [Warming Armour](../../mixed/magic/potions/Double-sided_Blade.md#warming-armour) |
+| 7 crowns | 3 doses of [Weakening Sun](../../mixed/magic/potions/Double-sided_Blade.md#weakening-sun) |
+| 16 crowns | 3 doses of [Warming Armour](../../mixed/magic/potions/Double-sided_Blade.md#warming-armour), 3 doses of [Weakening Sun](../../mixed/magic/potions/Double-sided_Blade.md#weakening-sun) |
+| 30 crowns | 4 doses of [Warming Armour](../../mixed/magic/potions/Double-sided_Blade.md#warming-armour), 4 doses of [Weakening Sun](../../mixed/magic/potions/Double-sided_Blade.md#weakening-sun) |
+
+|  |  |
+| --- | --- |
+| Unshackled Gift | Production |
+| 7 crowns | 2 doses of [Ancestor's Word](../../mixed/magic/potions/Unshackled_Gift.md#ancestors-word), 2 doses of [Legionnaire's Will](../../mixed/magic/potions/Unshackled_Gift.md#legionnaires-will) |
+| 7 crowns | 2 doses of [Ancestor's Word](../../mixed/magic/potions/Unshackled_Gift.md#ancestors-word), 2 doses of [Indomitable Might](../../mixed/magic/potions/Unshackled_Gift.md#indomitable-might) |
+| 16 crowns | 4 doses of [Ancestor's Word](../../mixed/magic/potions/Unshackled_Gift.md#ancestors-word), 2 doses of [Indomitable Might](../../mixed/magic/potions/Unshackled_Gift.md#indomitable-might), 2 doses of [Legionnaire's Will](../../mixed/magic/potions/Unshackled_Gift.md#legionnaires-will) |
+| 30 crowns | 7 doses of [Ancestor's Word](../../mixed/magic/potions/Unshackled_Gift.md#ancestors-word), 3 doses of [Indomitable Might](../../mixed/magic/potions/Unshackled_Gift.md#indomitable-might), 3 doses of [Legionnaire's Will](../../mixed/magic/potions/Unshackled_Gift.md#legionnaires-will) |
+
+The apothecary facilities woven through the palace are badly damaged by a combination of fighting, Druj malice, and the fury of their former slaves. These could be restored with a [commission](../../mixed/commissions/Commission.md) at any time, either from the Senate or a [Bearer of an Imperial Wayleave](../../mixed/economy/Bearer_of_an_Imperial_Wayleave.md). Construction would require 15 wains of weirwood and 30 crowns labour costs. The project would take three months to complete. The Palace would then also provide a ministry that allowed the purchase of [potions](../../out-of-character/rules/Potion.md) drawn from the [Legacy of Thorns](../../mixed/magic/potions/Legacy_of_Thorns.md), [Double-sided Blade](../../mixed/magic/potions/Double-sided_Blade.md), and [Unshackled Gift](../../mixed/magic/potions/Unshackled_Gift.md) potion lists. The potions associated with the Double-sided Blade were [interdicted](../../mixed/government/conclave/Interdiction.md) by [declaration](../../mixed/government/conclave/Declaration.md) of the [Conclave](../../mixed/government/conclave/Conclave.md) in Autumn 382YE. It is illegal for any Imperial citizen to make, use, or own either preparation, so this option would not available while the interdiction remains in place.
+
+There seems to be more to the Palace of Orieb than just a grand herb garden but it has not been fully explored. A [historical research](../../mixed/government/senate/Historical_research.md) team could be dispatched (by the Senate or by one of the titles with the ability to commission historical research) to discover more. The specialist equipment and supplies the team would need would incur a cost of 5 Thrones for this action which would be paid from the Senate Treasury. Their report would be delivered to the person commissioning the work, with a copy provided to the *Apothecary of Orieb* (or whatever the title was called). Following the summit the research was completed, it would be made public knowledge as normal.
+
+## The Stinking Market
+
+- **The Stinking Market is at the heart of several wagon raider encampments in the former Druj town of Orieb, in the [Drownbark Forest](../nations/varushka/Ossium.md#drownbark-forest)**
+
+Orieb in the Drownbark Forest has become something of a centre for [wagon raider](../nations/varushka/Varushka_military_concerns.md#wagon-raiders-and-sell-swords) operations in southern and eastern Ossium. A makeshift commercial centre - called *the Stinking Market* has grown up in the shadow of the [Palace](#palace-of-orieb), where wagon raiders buy and sell supplies and trade valuable materials ripped out of the marshes and forests with the most ambitious traders. The market is not without it's problems, however. Wagon raiders are a rowdy lot, and there have been reports of actual armed fracas around the market. The magistrates still have a limited presence in the more isolated parts of the territory, and there is some concern that it is only a matter of time before the rivalry between the groups spills over into the town itself, potentially with destructive consequences. Most of the buildings here are wood, and as Marchers say, even damp wood burns in a hot fire.
+
+### Merchant-Boyar of the Stinking Market
+
+- **The Stinking Market represents both a [sinecure](../../mixed/commissions/Sinecure.md) and a [ministry](../../mixed/commissions/Ministry.md), overseen by a single title**
+- **The Market could only be a national appointment since it needs a Varushkan citizen to run it**
+- **The civil service recommendation is to appoint the title by Tally of the Votes**
+
+|  |  |
+| --- | --- |
+| Total Money Spent | Production |
+| 7 Crowns | 12 random measures of [forest](../../out-of-character/rules/Forest.md) resources |
+| 17 Crowns | 24 random measures of [forest](../../out-of-character/rules/Forest.md) resources |
+| 30 Crowns | 36 random measures of [forest](../../out-of-character/rules/Forest.md) resources |
+
+The market represents a lucrative opportunity, but only a Varushkan citizen will be able to command the respect of the wagon raiders. The civil service recommendation is that the title be called the *Merchant-boyar of the Stinking Market*, that it have responsibility to oversee the Stinking Market, and mediate disputes between the factions using it, and be appointed through the Bourse by the [Tally of the Votes](../../mixed/economy/Tally_of_the_Votes.md) (vote of Varushkan mine and forest owners). Alternatively, the position could be a national [appointment by the Senate](../../mixed/government/senate/Appointment_by_the_Senate.md) or given it involves guiding behaviour, by the Varushkan [National assembly](../../mixed/government/synod/Assembly.md#the-national-assemblies).
+
+The *Merchant Boyar of the Stinking Market* would control an [outpost](../nations/varushka/Varushka_economic_interests.md#outposts) that would offer both a [sinecure](../../mixed/commissions/Sinecure.md) and a [ministry](../../mixed/commissions/Ministry.md). The market is lucrative - payment from wagon raiders would provide a sinecure income of 11 Crowns each season. The Merchant-boyar could simply take the money and run, or they could instead purchase bargains from the wagon raiders, as through a ministry.
+
+### Expanding the Stinking Market
+
+- **The Senate have two options to upgrade the Stinking Market to improve the facilities**
+- **Both expansions could be authorised with a single Senate motion or wayleave**
+- **The double-sided blade would not be available while they remain interdicted**
+
+The Market is somewhat rudimentary at this time. The civil service have identified the following opportunities that would be available once the method of appointment were defined.
+
+A [commission](../../mixed/commissions/Commission.md) by either the Imperial Senate or Bearer of an Imperial Wayleave could invest in expanding the market, replacing the ramshackle hovels and encampments with sturdy stone buildings, and building a structure suitable for the civil service magistrates. This would require 10 wains of white granite, 20 crowns in labour, and take three months. At the end of it the market would become a magnet for traders from all over Ossium. The Merchant Boyar would gain an income of 16 crowns a season instead of 11, and would add a fourth level to the ministry allowing for the purchase of 48 total measures of forest resources for 46 crowns.
+
+|  |  |
+| --- | --- |
+| Herbs of Ossium | Production |
+| 7 crowns | 6 doses of [marrowort](../../out-of-character/rules/Marrowort.md), 10 random [herbs](../../mixed/magic/potions/Herb.md) |
+| 16 crowns | 13 doses of [marrowort](../../out-of-character/rules/Marrowort.md), 20 random herbs |
+| 30 crowns | 20 doses of [marrowort](../../out-of-character/rules/Marrowort.md), 30 random herbs |
+
+|  |  |
+| --- | --- |
+| Smithy | Production |
+| 7 Crowns | 1 [Oakheart Shield](../../mixed/magic/items/Oakheart_Shield.md) |
+| 9 Crowns | 1 [Wardensweave](../../mixed/magic/items/Wardensweave.md) |
+| 21 Crowns | 1 [Ironbound Axe](../../mixed/magic/items/Ironbound_Axe.md) |
+| 26 Crowns | 1 [Winterborn Warmail](../../mixed/magic/items/Winterborn_Warmail.md) |
+| 35 Crowns | 1 [Woodcutter's Axe](../../mixed/magic/items/Woodcutter-s_Axe.md) |
+
+As well as expanding the market itself, a smithy and armoury could be added, allowing the wagon raiders and sell swords to arm and armour themselves more appropriately for the dangers of the marshes and forests of eastern Ossium and the western Mallum. This would require a commission, costing 10 wains of mithril, 20 crowns in labour costs, and take three months to complete. The Merchant-boyar would gain two additional tracks for their ministry allowing them purchase some of the magic weapons and armour useful to Varushka's opportunists and mercenaries, and additional herbs gathered from the eastern forests.
+
+These two improvements could be made with a single motion which would require only a single commission slot. The overall cost would be the total combined costs of the two options but it would take only three months to complete.
+
+## Marshstand Skerry
+
+- **Marshstand Skerry stands in the marshy waters of the [Drownbark Forest](../nations/varushka/Ossium.md#drownbark-forest)**
+
+A third location in the Drownbark Forest has been appraised by the civil service - the Marshstand Skerry is a low rock that used to be tended by a [ghulai](../barbarians/Druj_lore.md#ghulai) of the Bone Serpent. It has apparently been abandoned since the territory was first invaded - allegedly since before the [Webwood](../nations/varushka/Ossium.md#webwood) fell. The rock is surrounded by decades or perhaps even centuries worth of bones from creatures - some of them clearly humans or orcs - drowned or interred in the marshy waters to rot. The place has a poor reputation - it is considered to be haunted and known to be home to especially large, viciously bloodthirsty insects similar to mosquitos with vicious barbed proboscises.
+
+The civil service have confirmed that the stone is the centre of a conflux of magical tides, and the heart of a rare dual-natured [regio](../../mixed/magic/rituals/Regio.md) that shifts between the Spring and Winter realms. In the middle of the stone - pretty much at the point where the portal at the heart of the regio could be opened - is an apparently natural hollow that slowly fills with valuable liquid over the course of a season. In Spring and Summer, when the marsh is fecund and breeds insects in disturbing profusion, the thick amber liquid that forms in the hollow takes the form of [warm honey](../../out-of-character/rules/Vis.md#warm-honey) - *[vis](../../out-of-character/rules/Vis.md)* from the Spring realm. During Autumn and Winter, however, as the weather worsens and the insects die or slip beneath the waters to hibernate, the waters become dark and chill and the viscous red liquid that fills the hollow takes the form of [Heart's Blood](../../out-of-character/rules/Vis.md#hearts-blood) - *vis* of the Winter realm.
+
+By speaking carefully with some of the former Druj slaves, the civil service are also able to determine an unpleasant wrinkle with regard to the skerry. The magic that produces the spring and winter *vis* is somehow tied to the bones that surround it, slowly sinking into the marsh. Each Summer and Autumn, an actual blood sacrifice is expected by the "spirits" that oversee the regio, If it does not take place, the *vis* does not flow in the coming season. They are keen to explain that the *ghulai* mostly sacrificed cattle or deer, but that occasionally they would "make an example" of a rival by drowning them in the waters of the stone. They rarely sacrificed slaves - allegedly they were too valuable.
+
+Dual natured regio such as this are not unknown, but they are rare within the Empire. Most regio are associated with only a single realm, and often a single [eternal](../eternals/Eternal.md). Here, it seems that the regio is somehow shared or contested between the Spring eternal [Arhallogen](../eternals/Arhallogen.md) and the Winter eternal [Agramant](../eternals/Agramant.md). Which is, to put it mildly, somewhat problematic...
+
+### Cabalist of the Hollow Stone
+
+- **Marshstand Skerry represents a problematic [sinecure](../../mixed/commissions/Sinecure.md) that provides mana and *vis***
+- **The Imperial Senate could choose to allocate custodianship of the Marshstand Skerry as either an Imperial or National title**
+- **The civil service recommendation is to make the title a national position appointed by the Senate with responsibility to oversee the hollow stone**
+- **If the title is not allocated by the end of the Spring Equinox 384YE, its production will be reduced**
+
+Leaving aside for one moment the problematic nature of the [regio](../../mixed/magic/rituals/Regio.md), and questions surrounding the sacrifice of animals to power the production of *vis*, Marshstand Skerry clearly represents a valuable [sinecure](../../mixed/commissions/Sinecure.md). The Imperial Senate would need to appoint an Imperial citizen to oversee the stone however. The civil service recommendation is that the title be called the *Cabalist of the Hollow Stone*, that it have responsibility to oversee the hollow stone - which would explicitly require a responsibility to perform an animal sacrifice twice a year. They recommend it be a [national position appointed by the Senate](../../mixed/government/senate/Appointment_by_the_Senate.md#national-position) (which allows appointment by unanimous decision of the Varushkan Senators) and suggest it would be wise to pick a cabalist where possible.
+
+As an alternative, given it's magical significance, the position could be made an Imperial, rather than Varushkan, title allowing it to be appointed by [declaration](../../mixed/government/conclave/Declaration.md) of [candidacy](../../mixed/government/conclave/Candidacy.md) in the [Conclave](../../mixed/government/conclave/Conclave.md) (a more suitably nation-neutral title would be needed in this case).
+
+Marshstand Skerry represents a unique [sinecure](../../mixed/commissions/Sinecure.md). Each season it allows 3 crystal mana and 3 measures of *vis* to be harvested. In Spring and Summer, the vis is *warm honey*, while in Autumn and Winter the vis is *heart's blood*.
+
+At the moment Marshstand Skerry is being looked after by the Imperial civil service. They caution that if the title is not appointed by the end of the Spring Equinox 384YE, there will be nobody responsible for performing the sacrifice needed to keep the vis flowing. This is not something they are prepared to undertake themselves, and this means that the vis production would dry up - possibly temporarily, possibly permanently.
+
+### A Problematic Situation
+
+- **Once a citizen has taken responsibility for the skerry, they may be able to arrange a new patron**
+
+Obviously, it is problematic that half the vis coming from Marshstand Skerry is tainted by association with [Agramant](../eternals/Agramant.md). The civil service believe that it *might* be possible to negotiate with a different Winter eternal - one that is not under [enmity](../eternals/Alignment.md#enmity) - to try and displace the *Whispering Wastewalker* as one of the regio's patrons. Their study suggests that [Sorin](../eternals/Sorin.md), [Wise Rangara](../eternals/Wise_Rangara.md) or [The Thrice-cursed Court](../eternals/The_Thrice-cursed_Court.md) might all be suitable for such an approach but it would likely require careful negotiation by whoever has been given responsibility for the skerry. The [Conclave](../../mixed/government/conclave/Conclave.md) might be able to attract the attention of candidates with a [Declaration](../../mixed/government/conclave/Declaration.md) of [Concord](../../mixed/government/conclave/Concord.md), but a [plenipotentiary](../../mixed/titles/Archmage.md#plenipotentiary) by the [Archmage of Winter](../../mixed/titles/Archmage_of_Winter.md) or an individual with a close tie to the Winter eternal in question would likely be more effective.
+
+Any negotiation around a change to the Marshstand Skerry may need to be agreed with [Arhallogen](../eternals/Arhallogen.md) as well. Again, the civil service can only suggest that the Conclave or the [Archmage of Spring](../../mixed/titles/Archmage_of_Spring.md) may be able to arrange a parley to discuss the situation.
+
+It's not clear what purpose the sacrifices at the stone involve; there doesn't seem to be any innate element of "worship" involved. It's also not clear if these sacrifices are responsible solely for the production of the vis, or whether they are somehow tied to the dual nature of the regio. Again, the most likely source of information about the sacrifices would be the eternals involved. If they are related to the vis alone, it might be possible to renegotiate them should the custodian of the hollow stone find the prospect distasteful.
+
+## The Bone Hives
+
+- **A unique insect "farm" has been located in the depths of the [Echofell](../nations/varushka/Ossium.md#echofell)**
+
+The [Echofell](../nations/varushka/Ossium.md#echofell) is currently known for two things; the [Tower of the Scorpion](../nations/varushka/Ossium.md#tower-of-the-scorpion) and the disturbing number of unpleasant insects and poisonous creatures the live there, many of them almost unnaturally keen to feast on human blood. Much of the forest is still shrouded in mystery, but a civil service exploration team led by a group of well-paid sell swords has made an extensive survey of the areas that can be reached without risking Druj counterattacks. They have located something in the woods that is either marvellous, or deeply unsettling, depending on your opinion of venomous insects. The Druj of the Amber Scorpion clan, it seems, were farming insects in much the same way a [Volodmartz](../nations/varushka/Volodmartz.md) herder might farm sheep.
+
+The great buzzing hives stand in the south-eastern Echofell, and take their name from their peculiar construction. The hives, it seems, are built of bleached weirwood and animal bone, making them stand out like eerie ghosts against the dark trees of the forbidding forest. The secretions from the insects harboured within are harvested and mixed with local plants to create substances unknown in the Empire which combine narcotic and medicinal effects that work equally well on humans and orcs. Surrounding the hives is a ring of buildings, formerly belonging to Druj apothecaries, and now occupied by their former human and orc servants. Initially suspicious of the civil servants, the presence of the Imperial Orcs Bonewall Tresshak and Bonewall Koshhok in their party helped create an initial rapport. Hungry and isolated, the former servants were able to provide an explanation for the hives, and demonstrate how they were used. Most of the orcs were fascinated to hear tales of Skarsind, and have already departed the area to join the Imperial Orcs. The remaining humans have shown a great deal of interest in becoming Varushkan, and potentially establishing a vale around the Bonehives. The Hives themselves, however, they have no interest in maintaining.
+
+### Keeper of the Bonehives
+
+- **The Bonehives represents a unique [sinecure](../../mixed/commissions/Sinecure.md)**
+- **The Imperial Senate could choose to make the Keeper an Imperial or a national position**
+- **The civil service recommendation is to make the title a national Bourse appointment by Tally of the Votes**
+- **If the title is not allocated by the end of the Spring Equinox 384YE, this opportunity will be lost**
+
+Before the Bonehives can be exploited, the Imperial Senate would first have to determine how they will be administered. The civil service recommendation is that the title be called the *Keeper of the Bonehives*, that it have responsibility to oversee the insect hives and be a national Bourse appointment by Tally of the Votes. Alternative well worn paths would include either a Varushkan or Imperial [appointment by the Senate](../../mixed/government/senate/Appointment_by_the_Senate.md) or it could be an Imperial appointment through the Bourse by the [Auction of the Seats](../../mixed/economy/Auction_of_the_Seats.md).
+
+The *Keeper of the Bonehives* receives production in the form of unique drugs produced from the ichor and venom of the insects housed at the sinecure mixed with local plants. This takes the form of three doses each of three unique substances that the locals call *Flickerbright*, *Stormspark*, and *Fireheart*. The three substances appear to have narcotic effects, in addition to having useful medicinal properties. The civil service have managed to secure a dose each of the three substances, which will be delivered to the [Senator](../../mixed/titles/Senator.md) for [Ossium](../nations/varushka/Ossium.md) to examine more closely.
+
+### Secrets of the Bonehives
+
+- **The Senate have two options to upgrade the Bonehives to improve their production**
+- **Both expansions could be authorised with a single Senate motion or wayleave**
+- **The Keeper of the Bonehives could permit new bonehives to be built in Wittal Grove, Lower Tarn Valley, and either Utterlund or Misericorde**
+
+As is typical for the Druj, even when tending a unique resource, the Bonehives are pretty rudimentary by Imperial standards. The civil service have identified the following opportunities that would be available once the method of appointment were defined.
+
+The Druj structures are ramshackle, but could be reworked by Imperial architects and animal handlers. This would require a [commission](../../mixed/commissions/Commission.md) from the Imperial Senate or a [Bearer of an Imperial Wayleave](../../mixed/economy/Bearer_of_an_Imperial_Wayleave.md). It would cost 10 wains of weirwood, 20 crowns, and take three months to complete. At the end of that time the sinecure would permanently produce an additional dose of each substance.
+
+The civil service has established cautiously friendly relations with the former Amber Scorpion slaves who are experienced at tending the Bonehives. They believe they could be persuaded to offer their expertise in return for a fair wage. The key would be providing them with somewhere safe to live, protected from the dangers of the woods - something the Varushkans have a great deal of experience with in their turn. The cost would be 16 wains of weirwood, 32 crowns, and three months of work but would add a [ministry](../../mixed/commissions/Ministry.md) to the Bonehives that would allow the *Keeper* to exchange money for additional doses, and access to a fourth, significantly rarer substance the locals call *Slumbersting*.
+
+These two improvements could be made with a single motion which would require only a single commission slot. The overall cost would be the total combined costs of the two options but it would take only three months to complete.
+
+Finally, the civil service believe that the Bonehives could be duplicated, but only in very specific circumstances. The insects require a forested environment that also provides access to marshy conditions, so new bonehives could be established in [Wittal Grove](../nations/wintermark/Kallavesa.md#wittal-grove) in [Kallavesa](../nations/wintermark/Kallavesa.md), in [Lower Tarn Valley](../nations/navarr/Therunin.md#lower-tarn-valley) in [Therunin](../nations/navarr/Therunin.md), or in either [Utterlund](../nations/the-league/Holberg.md#utterlund) or [Misericorde](../nations/the-league/Holberg.md#misericorde) in [Holberg](../nations/the-league/Holberg.md). Creating a new Bonehive in one of these locations would require a separate commission. It would cost 15 wains of weirwood, 30 crowns, and take three months. It would also require the explicit approval of the *Keeper of the Bonehives*. A new Bonehive would produce 3 doses of each substance; it would not be possible to increase that production or add a ministry without a new [opportunity](../../out-of-character/game-design/Opportunity.md).
+
+## The Field of Glory
+
+- **The ironically-named Field of Glory in Galath Fields produces an inordinate amount of marrowort**
+
+This ironic name is given to the site of one of the first significant engagements between the Imperial forces and the Druj. Some twenty thousand human and orc farmers and fishers who had fled the invading force were corralled by the Druj, given makeshift weapons and driven to engage Imperial forces. The result was a bloodbath, with barely a handful of Imperials injured or slain and thousands of farmers or fisherfolk wounded and killed. The battlefield has since been discovered to be rich in [marrowort](../../out-of-character/rules/Marrowort.md), although some reports suggest the area is now haunted by the ghosts of terrified and angry orcs and humans caught between the malice of the Druj and the zeal of the Imperial armies.
+
+### Grieftender of the Forgotten
+
+- **The Field of Glory represents a [sinecure](../../mixed/commissions/Sinecure.md) that provides 18 doses of Marrowort each season**
+- **The Imperial Senate could choose to make the Grieftender an Imperial or a national position**
+- **The civil service recommendation is to make the title a national position appointed by the Varushkan national assembly**
+
+The Field of Glory is ironically named; a haunted battlefield where thousands of farmers and fisherfolk were slain by Dawnish and Varushkan forces. The civil service recommendation is that the title be called the *Grieftender of the Forgotten*, that it have responsibility to oversee the Field itself and to deal with any problems arising from their haunted nature. They recommend it be a national position appointed by the Varushkan national assembly, but alternative well worn paths would include either a Varushkan or Imperial [appointment by the Senate](../../mixed/government/senate/Appointment_by_the_Senate.md), or an Imperial position [appointed by a Synod assembly](../../mixed/government/synod/Appointment.md) or through the Bourse by the [Auction of the Seats](../../mixed/economy/Auction_of_the_Seats.md).
+
+The title would receive a bounty of Marrowort - 18 doses of the herb each season. The civil service caution that stories of angry and confused ghosts haunting the Field on certain nights are supported by some evidence. The Varushkans have experience dealing with dark powers, and they do not believe the ghosts pose a major threat at this time, but dealing with them should they become problematic would certainly be a responsibility of the sinecure holder.
+
+### Exploiting the Field of Glory
+
+- **If the title were appointed by a Synod Assembly, an expansion could be commissioned support exorcists needed to deal with the ghosts**
+- **If the title were appointed by the Bourse or the Senate, an expansion could be commissioned to earn income and grow additional herbs**
+
+If the Senate chooses to have the title appointed through the Synod (whether national or imperial), a chapel could be commissioned on the site dedicated to the memory of the battle and the humans and orcs who died. Such a commission would cost at least 10 wains of white granite, 20 crowns, and take three months to complete, but in theory a much bigger structure could also be constructed here. The chapel would go some way toward quieting the angry dead, providing a small cadre of [exorcists](../../out-of-character/rules/Exorcism.md) with a base of operation from which to tend to the dead. The chapel would also become a place of pilgrimage, providing 5 liao and 10 votes in the Imperial Synod to the *Grieftender* (or more if a larger structure were commissioned).
+
+If the Senate chose to have the title appointed through the Bourse, or by the Senators, then there are opportunities to plant and tend other crops in the fertile soil of the battlefield. This would require a commission, and an investment of 12 wains of weirwood, 12 wains of white granite, 48 crowns, and take three months to complete. At the end of that time the sinecure would produce valuable crops worth 10 Crowns, an additional 6 marrowort each season, and 6 doses each of Bloodroot and True Vervain on top of the existing crop of Marrowort.
+
+The two commissions are exclusive, even apart from being restricted depending on the method of appointment. One cannot both exploit the Field's resources and build a chapel here.
+
+## The Vales of Ossium
+
+### A New Port
+
+- **Bittershore provides an ideal location to build a new port on [the Semmerlak](../nations/varushka/The_Semmerlak.md)**
+- **It would cost 30 wains of white granite, 30 wains of weirwood, 120 crowns, and takes six months to complete**
+- **It would remove the under-developed quality from Bittershore**
+- **It would create a title - *Merchant-boyar of Bittershore* - with access to a ministry**
+- **The port would increase the taxation provided by every Imperial territory bordering the Semmerlak by 5 thrones a season**
+- **It would spark opportunities to expand the other ports on the Semmerlak**
+
+Since the Sand Fisher [orcs](../../mixed/world/Orc.md) moved to [Misericorde](../nations/the-league/Holberg.md#misericorde) in [Holberg](../nations/the-league/Holberg.md) (where they are reportedly thriving), the land they previously occupied along the shores of [the Semmerlak](../nations/varushka/The_Semmerlak.md) is ripe for exploitation. The Civil Service has confirmed speculation that the area would make an excellent location for a port town, one that could be used to import materials more efficiently than dragging them along the roads. Ox-drawn wagons travelling on roads - even Varushkan roads - are no match for the speed of a sailing ship. There are plenty of Varushkan settlers keen to see a port on the Ossium shore. If the Senate commissions a port here, they will build a town to support it. From that town, materials and goods would stretch out into Galath Fields and Nearweald, making it a lot easier to build and expand the Varushkan vales established there.
+
+|  |  |
+| --- | --- |
+| Ossium Exports | Production |
+| 6 crowns | 12 random measures |
+| 16 crowns | 24 random measures |
+| 28 crowns | 36 random measures |
+| 45 crowns | 48 random measures |
+| 64 crowns | 60 random measures |
+
+|  |  |
+| --- | --- |
+| Ossium Imports | Production |
+| 8 crowns | 12 random ingots |
+| 18 crowns | 24 random ingots |
+| 32 crowns | 36 random ingots |
+| 48 crowns | 48 random ingots |
+| 68 crowns | 60 random ingots |
+
+A specific location has been identified - apparently the same cove that the Druj launched rafts from to attack Semmerholm during the reign of [Empress Varkula](../history/Empress_Varkula.md). Plans have been drawn up but they are not cheap. The port would require either a Senate motion or the use of an Imperial Wayleave, as well as a commission and need 30 wains of white granite and 30 wains of weirwood. The basic labour costs would be 120 crowns, but the [under-developed](../nations/varushka/Ossium.md#under-developed) status of Ossium means (as of the start of the Winter Solstice 383YE), that the actual labour cost would be 192 crowns. Construction would take six months.
+
+The motion to commission the port would also allow the town to be named - though the Civil Service suggest that the [Senator](../../mixed/titles/Senator.md) for Ossium be consulted at the very least.
+
+Once it was built, however, the port on the Bittershore would remove the *under-developed* quality from the region, making all future commissions across the whole territory that much cheaper. It would also create an Imperial title - *Merchant-boyar of Bittershore* perhaps. The well worn path to elect such a title would be either appointment by the Senate or the Bourse. The position would serve for a year, receive access to a [ministry](../../mixed/commissions/Ministry.md) allowing the purchase or measures, herbs and mana crystals, and have responsibility for ensuring the prosperity of the new port.
+
+It would also create new opportunities once work was complete, similar to those provided by the [Northern trade network](../nations/navarr/Northern_trade_network.md). Options would be presented to expand the docks at [Lacre](../nations/dawn/Semmerholm.md#lacre) in [Semmerholm](../nations/dawn/Semmerholm.md); at [Korotny](../nations/varushka/Karov.md#korotny) in [Karov](../nations/varushka/Karov.md); and at [Ivarsgard](../nations/varushka/Karsk.md#ivarsgard) in [Karsk](../nations/varushka/Karsk.md). There would even be a possibility to create a similar dock in Misericorde or [Utterlund](../nations/the-league/Holberg.md#utterlund), allowing the wealth of [Holberg](../nations/the-league/Holberg.md) to spread across the Semmerlak. Indeed, the first option - a port at Misericorde - might be of particular interest to the Sand Fisher orcs themselves, already fascinated by the concept of Prosperity.
+
+The port would also increase the taxation to the Imperial treasury by 20 thrones per season, spread between the territories on the Semmerlak.
+
+### The Swords of Nearweald
+
+- **Nearweald provides an ideal location to build a fortified barracks**
+- **It would cost 30 wains of mithril, 20 wains of weirwood, 100 crowns, and takes three months to complete. It would have an upkeep of 5 Thrones to the Imperial treasury**
+- **It would remove the underpopulated quality from Nearweald**
+- **While the upkeep was paid, it would provide an additional defending order to Varushkan armies in Ossium**
+- **While the upkeep was paid, it would allow Varushkan armies to be raised in Ossium in nine months**
+
+A particularly bloody-minded band of settlers from [Livardz](../nations/varushka/Volodmartz.md#livardz) in [Volodmartz](../nations/varushka/Volodmartz.md) have claimed an extensive section of the forests of [Nearweald](../nations/varushka/Ossium.md#nearweald). Despite some opposition from the hiding orcs have established a relatively secure vale here named **Karantzy** from which they are engaging in extensive logging. The timber from the Nearweald is being sold to other settlers, and has proved extremely popular for helping to establish vales across Bittershore and Galath Fields. Boyar *Irina Karantzy* and her allies are making money hand over fist. Not only from the trees themselves - Nearweald is particularly rich in precious [ambergelt](../../out-of-character/rules/Materials.md#ambergelt) that has a particularly vibrant crimson colouration that is already being touted as "blood amber".
+
+After extensive discussion with Irina Karantzy, the civil service have come up with a proposal that will help secure the Nearweald vales, and encourage more settlers to take advantage of the opportunities presented by the rich woodlands. The boyar of Karntzy has a sizable force of [schlacta](../nations/varushka/Varushka_military_concerns.md#schlacta) at her disposal, but the dearth of mineral wealth in Ossium makes it difficult for the newly established vales to equip their soldiers, and limits Irina's ability to keep the woodlands safe from opportunists.
+
+This problem could be addressed by building a barracks and armoury at Karantzy - a unique [commission](../../mixed/commissions/Commission.md) by the Imperial Senate. It would cost 30 wains of mithril and 20 wains of weirwood, take three months to complete, and have a basic labour cost of 100 crowns (increased as normal by the [under-developed](../nations/varushka/Ossium.md#under-developed) quality). It would also have an upkeep of 5 Thrones each season to the Imperial Senate.
+
+Once complete, it would remove the [underpopulated](../nations/varushka/Ossium.md#underpopulated) quality from Nearweald. It would also provide two special opportunities to the Varushkan military.
+
+As long as the armoury were maintained, it would allow any Varushkan armies in Ossium to take the special **Hospitality of the Boyars** [defending](../../out-of-character/rules/Army_orders.md#defending) [order](../../out-of-character/rules/Army_orders.md).
+
+> **Hospitality of the Boyars**
+>
+> - **Can be used by a Varushkan army in the territory of Ossium**
+> - **Casualties suffered by this army are decreased by a fifth**
+> - **The army receives additional [natural resupply](../../out-of-character/rules/Casualties.md#natural-resupply): 250 strength is distributed among all armies taking this order in the territory**
+>
+> The soldiers of the army are dispersed across the territory of Ossium, receiving the hospitality of the boyars of the vales. Commanders and officers are welcomed as guests at the armoury of Karantzy, given the opportunity to resupply their troops from the stock of weapons and armour sequestered there.
+
+Furthermore, for as long as the upkeep is paid, the time taken to raise any Varushkan army in Ossium would be nine months, rather than the full year they would normally take. As it currently stands the Varushkans cannot raise a new army until the *underpopulated* quality is completely removed, but it would still apply if they needed to (Paragons forefend) replace a destroyed army. Obviously, at the moment it is quite expensive to undertake any [commission](../../mixed/commissions/Commission.md) in Ossium, but again once the challenges of the under-developed territory are overcome, this could prove a useful advantage to Varushka.
+
+Obviously the latter two advantages apply only as long as the upkeep is paid by the treasury; if the Senate used a [motion](../senate-motions/Senate_motion.md) to stop paying the costs, the benefits would be lost and could *not* be reinstated merely by beginning to pay the upkeep again. Regardless, though, Nearweald would continue to be an appealing place to establish vales and would remain free of the underpopulated quality.
+
+### Roads of Iron
+
+- **Varushka has undertaken an ambitious project - building the Iron Roads**
+- **Ossium could be included in this project**
+- **Including Ossium adds 70 wains of white granite, at least 140 crowns, and increases the time to complete the project by six months**
+- **Expanding the project to Ossium does not require an additional commission**
+- **[Forests](../../out-of-character/rules/Forest.md) in Ossium would receive a share of 70 random measures each season**
+- **The production of the [Crawling Depths](../../mixed/titles/Vale_of_the_Sunless_Depths.md) would be improved by 2 wains of mithril each season**
+- **A negative quality would be removed from one of the regions of Ossium depending on the situation when the roads were completed**
+
+During the Autumn Equinox 382YE, the Civil Service presented a proposal for the [Iron Roads](Starting_at_the_end.md#the-iron-roads-of-varushka), a network of Varushkan [highways](../nations/varushka/Varushkan_Road.md) to link together the prominent vales, mines, and forests of the entire nation. The mandate of Bartimaeus, coupled with the [assignment](../../mixed/government/senate/Powers_of_the_Imperial_Senate.md#assignment) of [Ossium](../nations/varushka/Ossium.md) as a Varushkan [territory](../../out-of-character/rules/Territory.md), sparked renewed interest in this opportunity to connect mines, quarries, and forests across the nation. In Autumn 383YE, the Senate [approved the project](../senate-motions/Construct_Iron_Roads.md) and the first white granite stones were laid.
+
+With the roads underway, and Varushkan settlers flooding in to Ossium, the civil service offices at Lomaa have been able to present proposals for expanding the Iron Roads across Ossium as well. Thanks to an extensive map of the territory, and the final destruction of most of the [miasma pillars](../nations/varushka/Ossium.md#miasma-pillars), it's clear that the settlements of [Lomaa](../nations/varushka/Ossium.md#lomaa), [Ketsov](../nations/varushka/Ossium.md#ketsov), and Lanit could be connected by a great road from Karsk, running as far east as the [Tower of the Scorpion](../nations/varushka/Ossium.md#tower-of-the-scorpion) in the [Echofell](../nations/varushka/Ossium.md#echofell), and down through Nearweald. Varushkan road builders have little experience working with the extensive marshes of the south, but they are confident that stone bridges could be used to reach the former Druj settlement of Orieb in the [Drownbark Forest](../nations/varushka/Ossium.md#drownbark-forest).
+
+None of this will be cheap however; in Volodmartz, Miekarova, and Karov there is already a network of roads. Here the imperial engineers would be beginning pretty much from scratch - and the challenge of the [under-developed](../nations/varushka/Ossium.md#under-developed) nature of the territory is made even more clear by the difficulties of doing so.
+
+Spreading the Iron Roads across Ossium would increase the cost to finish the Iron Roads by 70 wains of white granite and *at least* 140 crowns. It would increase the time taken to complete the project by six months. It would not require an additional slot commission from the Senate however - the new proposal would be treated as an amendment to the existing project. The labour costs of this part of the building project would also be increased by the under-developed nature of the territory; as of Winter 383YE, the cost would be 224 crowns rather than 140.
+
+Once complete, the roads would greatly improve the prosperity of the newly settled Varushkans, who will find it much easier to access labourers, tools, raw materials, and markets for their wares. The [forest](../../out-of-character/rules/Forest.md) owners in Ossium would each get a share of 70 random measures. Furthermore, the production of the [Crawling Depths](../../mixed/titles/Vale_of_the_Sunless_Depths.md) would be improved by 2 wains of mithril each season, as long as the roads remained open.
+
+In addition, the roads would dramatically improve the infrastructure in the territory, should any regions still have the *under-developed* quality when they were completed. It would remove the quality from one region in the order Galath Fields, Nearweald, then Bittershore. If all three regions had already lost the under-developed quality, it would instead remove the under-populated penalty from a single region, either Nearweald, Echofell, or Drownbark Forest in that order.
+
+## Prior Opportunities
+
+In addition to the existing structures, and the chance to develop Nearweald, there are other opportunities that have been presented previously, but have had to be reassessed in light of Ossium's under-developed status. As a result the financial costs are considerably higher than first calculated.
+
+### Reassessing the Crawling Depths
+
+- **The Crawling Depths is A mithril Bourse resource that produces 14 wains of mithril a season**
+- **The Empire can use a Senate motion to commission the mines to be upgraded; this would cost 300 thrones and take two seasons**
+- **Once upgraded output would increase to 28 wains of mithril a season**
+- **The Civil Service warn that their initial assessment did *not* take into account the problems caused by the [lack of infrastructure](../nations/varushka/Ossium.md#under-developed) in Ossium**
+
+During the Spring Equinox 383YE, civil service assessed the [Crawling Depths](../../mixed/titles/Vale_of_the_Sunless_Depths.md) in Lomaa. They estimated that it would cost 300 Thrones and take two seasons to complete the work of bringing the mine up to its full potential. Unfortunately, they made this assessment without allowing for the paltry state of Ossium's infrastructure. While their estimate is still technically correct, the [under-developed](../nations/varushka/Ossium.md#under-developed) nature of the territory means that the actual outlay in money and labour costs as of the start of the Winter Solstice 383YE would be 480 Thrones. It would still take six months to complete, but this is a significantly higher cost than had been initially assessed.
+
+Obviously, as the challenges of Ossium are addressed - as the territory becomes more developed - the costs to import materials and money will eventually be reduced to those standard for the rest of the Empire.
+
+### Reassessing Ketsov
+
+- **Opportunities in Ketsov remain but are much less appealing**
+
+The people of Ketsov were the most eager to embrace the Varushkan egregore. During the Spring Equinox 383YE they presented several opportunities, one of which - the [Ketsov Trade Exchange](../../mixed/titles/Burgher_of_Ketsov.md) was constructed by use of an Imperial Wayleave. The town is now prospering, although many of the citizens remain concerned the Druj will surely attempt to return one day. With that in mind, they proposed that a [fortification](../../out-of-character/rules/Fortification.md) be built around their town, and a [barracks](A_strange_land.md#sharp-swords) built to further improve their security by recruiting and training guards. Neither opportunity is particularly appealing, now, and both were assessed before the full impact of Ossium's lack of development were understood.
+
+The opportunity to build the [White Walls](A_strange_land.md#white-walls) still remains. Unfortunately, the assessment of cost was made before the true scope of the situation in Ossium was clear. Given the [under-developed](../nations/varushka/Ossium.md#under-developed) nature of the territory, the actual cost in labour as of Winter Solstice 383YE would be 480 crowns. The opportunity to build [a barracks](A_strange_land.md#sharp-swords) in Ketsov is still available, but the civil service can see no advantage to the Empire in completing it. Ketsov is situated in a relatively secure part of the Galath Fields close to the border with Karsk. It is no longer directly threatened by the Druj, nor short of settlers looking to establish new vales. As such, all this expensive [folly](../../mixed/commissions/Edifice.md) would achieve would be to make the Ketsov feel better protected.
+
+## Game Design: Spoils of War
+
+Previously we've presented [spoils of war](../../mixed/government/military/Spoils_of_war.md) when the Empire has conquered new territory, or recaptured a territory conquered by the barbarians before the start of the campaign. This strategy has been interesting, but fraught with problems. As named personal resources, there has been a disconnect between the rules for [personal resources](../../out-of-character/rules/Resource.md#personal-resource) and how Empire handles plot. There are also issues if the player-character leaves the game; their named personal resource is important enough to appear on the wiki - but its ownership is in flux with nothing the Empire can do to reclaim it.
+
+As a consequence, we're trying an alternative in Ossium. Future conquests or new territories are likely to follow the route presented here - with an emphasis on claiming existing commissions belonging to the previous owners, and opportunities to upgrade them or build new ones.
+
+## Resolution
+
+The Senate [determined](../senate-sessions/383YE_Winter_Solstice_Senate_sessions.md#allocate-ossium-positions) that each of the five spoils of war would be appointed by unanimous decision of the Varushkan senators. Each of the titles are now ready for appointment.
+
+## Further Reading
+
+- [Ossium](../nations/varushka/Ossium.md)
+- [Beyond the light](Beyond_the_light.md) - a partner opportunity to this related to securing the territory
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [383YE Winter](../../indexes/by-category/383YE_Winter.md), [Recent History](../../indexes/by-category/Recent_History.md)

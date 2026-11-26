@@ -1,0 +1,48 @@
+[[Category:Rules]]
+==Overview==
+A handy archive of [[Empire_rules|rules]] reminders from the left bar.
+==List==
+*If a call is not clearly taken by the target, other than VENOM and WEAKNESS, then it has not been used. See the [[Calls]] page for more information. (25/08/2026)
+* In-character theft is prohibited except for gold-ribboned items or looting fallen enemies. See the [[Stealing]] page for more information. (12/08/2026)
+* Roleplaying effects are spiritual in origin, they represent a supernatural influence affecting your character's soul. See the [[Roleplaying_effects|Roleplaying effects]] page for more information. (06/07/2026)
+* You must not attempt to parry an arrow or bolt with a weapon. See the [[Combat safety]] page for more information. (27/06/2026)
+* You may not film or record other participants in the IC area during time-in. See the [[Photography#Filming_and_Audio_Recordings|Photography]] page for more information. (11/05/2026)
+* The use of generative AI is prohibited at Empire and in our online spaces. See the [[Playing_the_game#Artificial_Intelligence|Playing the game]] and [[Online#Do_Not_Post_AI_Content|Online]] pages for more information. (25/03/2026)
+* An existing character who wishes to move nation will need to seek out an [[egregore]] of the nation they wish to join. See the [[Nation_FAQ#Can_I_change_nation_in_play?|Nation FAQ]] page for more information. (11/02/2026)
+* You must avoid hitting the groin, neck, or head. See the [[combat safety]] page for more information. (22/08/2025)
+* When casting [[detect magic]] it is important to make clear which of the seven [[Detect_magic#Effects|effects]] you are invoking. (22/06/2025)
+* Having a [[Calls#CLEAVE|ruined leg]] does not prevent you from using [[Heroic_skills#Unstoppable|unstoppable]], but it will not fix it. (10/06/2025)
+* If you have a [[Calls#CLEAVE|ruined leg]] you must keep your backside on the floor. It is not possible to kneel whilst one or both of your legs is ruined. (11/05/2025)
+* Performing an [[Anointing]] ceremony requires a willing target, even if it is removing an aura. (27/03/2025)
+* When wielding a [[Weapons_%26_armour#Polearms|polearm]] you must hold the weapon in both hands with at least 18” separating them. (10/03/2025)
+* A [[Calls#Mass_Calls|MASS]] call affects everyone in a ninety-degree arc in front of and up to 20' (6m<!--, slightly taller than an adult giraffe,-->) away from the caster. (18/02/2025)
+* All [[Combat#Arrows|arrows and bolts]] automatically cause [[Calls#IMPALE|Impale]], ''and'' do a point of damage! (16/12/2024)
+* [[Calls#WEAKNESS|Weakness]] and [[Calls#VENOM|Venom]] are only removed by effects that remove them, if they are not removed then they will last indefinitely. (04/12/2024)
+* You should treat others with respect and assume best faith when online. See our [[Online#Treat_each_other_with_respect_and_assume_best_faith|online]] rules for more details (02/08/2024)
+* All spells require vocals clearly audible to everyone within a few metres See the [[Spellcasting#Spellcasting|Spellcasting]] page for more information. (15/07/2024)
+* You can only lose one global hit per second from multiple attacks from one enemy; you should aim to land one blow a second at most. See the [[Combat#The_One_Second_Rule|Combat]] page for more information. (10/07/2024)
+* If you play a battle then you must volunteer to monster one. See the [[Battles#Play_One,_Monster_one|Battles]] page for more information. (01/07/2024)
+* You must avoid using gendered nouns when referring to mixed groups. See the [[Conduct#Language|Conduct]] page for more information. (12/05/2024)
+* In-character theft is prohibited except for gold-ribboned items or looting fallen enemies. See the [[Stealing]] page for more information. (09/04/2024)
+* You can only send messages to [[eternal|eternals]] with rituals that explicitly allow you to do so. (29/02/2024)
+* Once you have gained the benefit of a [[magic items|magic item]], no-one else can use it for that day. Furthermore, you cannot gain the benefit of a different item of the same form ([[Magic_items#Weapons|Weapon]], [[Magic_items#Armour|Armour]], [[Magic_items#Talismans|Talisman]]) that day. (03/01/2024)
+* When using things that grant [[Magical_skills#Gaining_additional_ranks|additional ranks]] of [[Magical_skills#Realm_Lore|realm lore]] the highest you can go is triple your original skill (so you can't have more than two extra ranks if you've only bought one rank of realm lore). (04/12/2023)
+* You take damage from any [[Combat#Heroic_Blows|call]] made with a weapon or implement even if the call doesn't affect you. (12/11/2023)
+* It takes at least two free hands to [[Combat#Moving_a_dying_character|move]] someone who's dead, [[Combat#Dying|dying]], [[Combat#Terminal|terminal]], or [[Calls#PARALYSE|paralysed]] (07/08/2023)
+* You must have purchased at least one rank of a [[Magical_skills#Realm_Lore|realm lore]] skill to benefit from anything that grants [[Magical_skills#Gaining_additional_ranks|additional ranks]] in that realm. (17/07/2023)
+* [[Potion#Consuming_a_Potion|Using]] a [[potion]] or [[Potion#Philtres|philtre]] takes five seconds of appropriate roleplaying, usually involving miming drinking the potion. (10/07/2023)
+* When you're [[Combat#Dying|dying]] you aren't unconscious unless you want to be - you can still speak, shout, or scream for help. (07/07/2023)
+* You can only be under the effect of one [[enchantment]] at a time; the most recent is the [[Enchantment#Removing_Enchantments|only one]] that applies! (03/07/2023)
+* You can't use [[heroic skills#Unstoppable|Unstoppable]] if you're under the effects of a [[Calls#WEAKNESS|WEAKNESS]] or [[Calls#PARALYSE|PARALYSE]] (26/06/2023)
+* You need to [[Bow_safety#Essential_Check|check your arrows]] both when you pick them up ''and'' when you put them onto the bow! (22/06/2023)
+
+<!--
+* Please only use one email address when contacting PD
+* safety calls, FIRST AID and MAN DOWN
+* tear your cards in half and put them in your pocket
+* hand in bags - not a bank hand in stuff that you're going to use
+* rules on Execute
+* [[Photography#Filming|Filming]] other participants in the IC area during time-in isn't permitted, and you must have the consent of anyone you film.
+* Explain the non-contact gesture and how it works?
+'''STOP LOOKING AT THIS SCOTT AND MATT!'''
+-->

@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Announced by Arlen Foreman-Smith, Bearer of an Imperial Wayleave">To commission the construction of the Rhydian Sepulchre Memorial Hospital. The sinecure will create the title of "Warden of the Weary". They will provide shelter and succour to travellers in Astolat, and will be paid in cerulean mazzarine from the hospital gardens. To be built in Astolat with 10 wains of weirwood from the Castellan of Spiral Castle, to produce 18 drams each season. To be elected by tally of the votes in Autumn.</quote>
+==Overview==
+* Constructs a [[sinecure]] in Winterbourne, Astolat
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+
+==Date==
+* Spring 387YE
+==Cost==
+* Standard costs apply
+* 10 weirwood
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Construct_Rhydian_Sepulchre_Memorial_Hospital}}
+==Outcome==
+* Now complete, the [[Warden of the Weary]] will be available to be appointed by tally of the votes of the military unit captains of Dawn for the first time at the Summer Solstice 387YE for a reduced term of one season

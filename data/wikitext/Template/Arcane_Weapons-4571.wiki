@@ -1,0 +1,4 @@
+* '''Form:''' Weapon. A pair consisting of a [[Weapons & armour#one-handed Weapons|one-handed weapon]] and either a [[Weapons & armour#Rods|rod]] or a [[Weapons & armour#Wands|wand]]. You must be wielding both the weapon and the implement to use the set's magical properties.
+* '''Requirement:''' You must have both the [[Combat skills#Ambidexterity|ambidexterity]] and [[Magical skills#Magician|magician]] skills to bond to these items.
+[[Category:Magic Items]]
+[[Category:Arcane Weapons]]

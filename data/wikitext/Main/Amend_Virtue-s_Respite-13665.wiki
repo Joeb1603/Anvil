@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:388YE Spring]]
+__NOTOC__
+<quote by="Proposed: Temeschwar, Seconded: Tassato">Amend Virtue's Respite to become the Bloody Massive Pride of Temeschwar. This will cost 30 crowns and amend the associated title to be called the "Bloody Custodian of Pride". This will be appointed annually by the League National Assembly. It provides four liao and seven crowns each season
+</quote>
+==Overview==
+* Amends a [[Guardian_of_Giselle%27s_Tomb#Virtue's_Respite|sinecure]] in Hanuri, Temeschwar, as per the '''[[The_concisest_tenant#Pride_of_Temeschwar|The concisest tenant]]''' wind of fortune
+* Passed
+
+==Date==
+* Spring 388YE
+
+==Cost==
+* Costs per opportunity
+* 30 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Amend_Virtue%27s_Respite}}
+==Outcome==
+* Now complete, the [[Guardian of Giselle's Tomb]] has been renamed the [[Bloody Custodian of Pride]]
+* Citizens of Temeschwar with [[congregation|congregations]] can take the '''Preach Pride - Pride of Temeschwar''' lecture until the start of the Winter Solstice 388YE, producing no liao but increasing the number of Synod votes they receive by two.

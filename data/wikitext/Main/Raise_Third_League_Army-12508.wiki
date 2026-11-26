@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Proposed: Tassato, Seconded: Conscience of the Senate">That the Senate allows the creation of a third League army</quote>
+==Overview==
+* Raises an [[army]] in Tassato
+* Passed
+
+==Date==
+* Winter 386YE
+
+==Cost==
+* Standard costs apply
+* 200 mithril
+* 75 thrones
+* Twelve months to complete
+
+==Progress==
+{{CommissionProgress|Raise_Third_League_Army}}
+==Outcome==
+* Now complete, the [[Sparrows Reckoning]] finished [[Everything is on show|mustering]] shortly before the Summer Solstice 388YE and were [[Mud,_blood,_and_manacles|engaged]] in [[Bregasland]] over the following season.

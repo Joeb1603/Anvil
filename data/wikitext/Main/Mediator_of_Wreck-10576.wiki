@@ -1,0 +1,25 @@
+==Overview==
+The Mediator of Wreck oversees the Trading Hall at Wreck in [[Sermersuaq]]. The Trading Hall is a joint effort with the ''Warlock Asjka'', on behalf of the Thule, that sees [[Write_the_lines#Meat_for_Metal|caravans of food]] travel to the Silver Peaks in return for rings of precious [[ilium]]. It was commissioned by the Imperial Senate during the [[Construct Trading Hall at Wreck|Winter Solstice 384YE]] and completed shortly before the Summer Solstice 385YE.
+
+==Responsibilities==
+The Mediator of Wreck serves as liaison to Warlock Asjka of the Thule. In the event that the Trading Hall at Wreck, or those who travelling to trade there, were threatened, the Mediator would be expected to deal with those threats.
+
+==Powers==
+===Ministry===
+As a [[ministry]], the Mediator can purchase rings of ilium at a set price. The Mediator spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+<div style="float:right; width: 400px; clear: right; margin-left: 10px;">
+<table style="width:400px; float: right; margin-left:10px;" class="mw-collapsible"><tr><td style="background-color: LightBlue;">'''Silver Peaks Ilium'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>23 crowns</td><td>1 rings of ilium</td></tr>
+<tr><td>54 crowns</td><td>2 rings of ilium</td></tr>
+<tr><td>88 crowns</td><td>3 rings of ilium</td></tr>
+<tr><td>130 crowns</td><td>4 rings of ilium</td></tr>
+<tr><td>180 crowns</td><td>5 rings of ilium</td></tr>
+</table></div>
+==Appointment==
+This title is appointed during the Spring Equinox. The Mediator of Wreck is appointed by citizens of Wintermark who control [[military unit|military units]]. The larger the military unit an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Wintermark citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+
+{{Responsibilities Expectation}}
+{{RecentElections|Mediator_of_Wreck}} 
+[[Category:Title]][[Category:Bourse]][[Category:Wintermark]]

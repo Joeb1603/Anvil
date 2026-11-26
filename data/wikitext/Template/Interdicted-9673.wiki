@@ -1,0 +1,5 @@
+<onlyinclude><div class="box"><div class="box-inner">'''<big>Interdiction</big>'''<br>This {{{1}}} was [[Interdiction|interdicted]] by the [[Conclave|Imperial Conclave]] in {{{2}}}. It is currently illegal {{#switch: {{{1}}} | item = to own, craft, or bond someone to that item. | ritual = to perform this ritual or any [[arcane projection]] which substantially replicates its effects. It is not illegal to master the ritual or to possess a copy of its [[ritual text]]. | potion = to make, use, or own this preparation except to hand in immediately to a magistrate. | to use or possess except to hand in immediately to a magistrate.}}</div></div></onlyinclude>
+
+===Usage===
+{{{1}}} accepts '''item''', '''ritual''', or '''potion'''. Other freetext inputs yield a generic description which assume it is an object of some kind.<br>
+{{{2}}} should be the link to the relevant declaration of interdiction.

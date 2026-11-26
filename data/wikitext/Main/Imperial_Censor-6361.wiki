@@ -1,0 +1,15 @@
+[[Category:Conclave]] [[Category:Title]]
+==Overview==
+The Imperial Censor is an [[Imperial Title]] appointed by the [[Conclave]]. It was [[Create_title_of_Imperial_Censor|created]] at the Summer Solstice summit of 380YE. The intent is that the Censor works as part of the Conclave to protect Imperial citizens from dangerous magic.
+
+==Responsibilities== 
+The Imperial Censor is responsible for safeguarding the Empire from malign magical items, especially those of unknown or unacceptable provenance.
+
+==Powers==
+===Interdiction===
+{{Power of Declaration|Imperial Censor|Interdiction}}
+
+==Appointment==
+The appointment, replacement, or removal of the Imperial Censor is made by the [[Candidacy|Declaration of Candidacy]] as part of a [[Conclave session]]. The Imperial Censor serves until they are replaced by another magician using the Declaration of Candidacy. As a title in the Conclave, they cannot be [[Revocation|revoked]].
+<!--{{CaptionedImage|file=Imperial Censor.jpeg|caption='''Gaius Starfall i Riqueza''', Imperial Censor|align=left|width=250}}-->
+{{RecentElections|Imperial_Censor}}

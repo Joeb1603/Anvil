@@ -1,0 +1,46 @@
+[[Category:Title]][[Category:Foreign Nations]][[Category:Senate]][[Category:Ambassador]][[Category:Grendel]]
+{{CaptionedImage|file=Damian den Mhuir di Tassato-Mestra.jpg|caption='''Damian den Mhuir di Tassato-Mestra''' (orc), Ambassador to the Grendel|align=left|width=400}}
+==Overview==
+The Ambassador to the Grendel is an [[Imperial title]]. It is an Imperial position appointed by the [[Senate]]. The title was [[384YE_Autumn_Equinox_Senate_sessions#Create_Ambassador_to_the_Grendel|created]] by the Senate during the Autumn Equinox 384YE in a motion that also divorced the power of authority from the [[Imperial Fleet Master]] (who had previously served as ambassador). The Grendel Embassy in [[Redoubt#Cargo|Cargo]] was abrogated by the Senate in 387YE; as such the ambassador is not currently supported by a staff.
+
+The Empire and the Grendel are at war. The two nations have clashed repeatedly over the territory of [[Mareave]], but the [[navy|naval superiority]] of the Salt Lords means that any territory along the shores of the [[Bay of Catazar]] could e threatened at any time. Of all the barbarian threats to the Empire, the orcs of the Broken Shore are perhaps the most mobile. But even in times of war, diplomacy continues. 
+
+Prior to the Winter Solstice 387YE, the Ambassador was able to purchase goods from merchants and those seeking favour when not at war. This was changed when the Senate voted to [[387YE_Winter_Solstice_Senate_sessions#Abrogate_Grendel_Embassy|abrogate]] the embassy that season.
+==Responsibilities==
+The [[ambassador]] is expected to represent the Empire in relations with the [[Grendel]]. They have all the responsibilities [[Ambassador#Responsibilities|common]] to an Imperial ambassador. As such they are responsible for representing the Empire to the Grendel, and to a degree vice versa. They are presented as the primary contact for any official Imperial business relating to the Broken Shore, so their letters carry much greater weight and importance than anyone bar [[the Throne]]. They are expected to conduct or oversee any [[Ambassador#Treaty|treaty negotiations]] with that nation, and receive official [[Ambassador#Delegation|delegations]]. The [[civil service]] will direct representatives and citizens of the foreign power to the ambassador wherever appropriate.
+{{Diplomacy|nation=[[Grendel]]|status=Barbarian|port=None available|ambassador=Damian den Mhuir di Tassato-Mestra of [[the League]]|counterpart=[[Ambassador_to_the_Grendel#Grendel_Ambassador|Speaker Morna]]}}
+==Powers==
+===Imperial Ambassador===
+The title has all the [[Ambassador#Powers|common powers]] of an ambassador: they can receive a formal [[Ambassador#Delegation|delegation]], and may prepare a [[Ambassador#Treaty|treaty]].
+{{RecentElections|Ambassador_to_the_Grendel}}
+==Appointment==
+The Ambassador to the Grendel is an Imperial position [[Appointments_by_the_Senate#Imperial_Position|appointed by the Senate]]. Any Imperial citizen can hold this title, and the ambassador serves for a year. They can be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+==Ambassadorial Lore==
+===Grendel Embassy===
+There is currently no Grendel embassy in the Empire, and no Imperial embassy on the Broken Shore. For a time the [[Urizen]] town of [{Redoubt#Cargo|Cargo]] was also the site of the [[Grendel]] embassy. [[384YE_Spring_Equinox_Senate_sessions#Construct_Grendel_Embassy|Established in 384YE]], the orcs of the Broken Shore initially [[Everything_has_a_price#A_Grand_Edifice|proposed a grand edifice]] that would have overshadowed the other embassies. The [[Imperial Senate]] declined their "kind" offer and instead built a more modest structure here. Built during a [[Ratify_treaty_with_the_Grendel_Autumn_383YE|time of relative peace]], since war resumed between the two nations the embassy was reduced to only a skeletal staff. Toward the end of 387YE, the embassy was [[387YE_Winter_Solstice_Senate_sessions#Abrogate_Grendel_Embassy|shut down]] by the Senate following fears of its potential use in espionage by the barbarians.
+<div style="float:right; width: 200; clear: left;">
+{{WingedMessenger|address=Speaker Morna, House of the Seventh Forge, Dubhtraig, Tathar|align=right}}</div>
+===Grendel Ambassador===
+The Grendel ambassador to the Empire is ''Speaker Morna'' of the House of the Seventh Forge, who normally resides in [[Bay of Catazar#Dubhtraig|Dubhtraig]]. They are a canny negotiator described by one wag as being slippery as a bucket of soapy eels. They report to the Council of the Salt Lords, and while it is likely they have their own political ambitions (they are Grendel after all), they seem to take particular pride in discharging their duties to their masters with wry aplomb.
+===Ambassadorial Briefings===
+As discussed in the 388YE Autumn Equinox wind of fortune '''[[So_little_I_wanted,_so_little_I_got#Ambassadorial_Briefings|So little I wanted, so little I got]]''', the [[civil service]] have recently reinstituted Ambassadorial briefings. At least in the short term, the civil service have resumed furnishing Imperial ambassadors ''who are supported by [[embassy]] staff'' with individual briefings where necessary and appropriate. To maintain transparency and preserve continuity, the briefings are made available to those who wish to review them ''after'' the summit where they are delivered, in a similar way to which [[historical research]] is made public. Only those elements of a briefing that are specifically personal to the ambassador may be removed, and only where they are clearly not of interest to the Empire. At the end of the year, this procedure will be reviewed again, to ensure that it is fit for purpose.
+
+In the absence of an offical [[embassy]] - and the civil service staff that support it - the Ambassador to the Grendel is not in a position to receive official briefings. A short briefing was provided at the Autumn Equinox, but going forward it will not be possible to continue doing so. Ways to address this issue were discussed in the [[So_little_I_wanted,_so_little_I_got#Embassies|wind of fortune]].
+
+* [[388YE Autumn Grendel ambassador briefing]]
+{{Grendel Links}}
+<!--
+==Archive Stuff==
+===Grendel Merchants===
+<table style="width: 500px; float: right; clear: right; margin: 10px;">
+<tr><th style="background-color: LightBlue;">Grendel Merchants</th><th style="background-color: LightBlue;"></th></tr>
+<tr><td>192 rings</td><td>5 green iron, 5 tempest jade, 5 cerulean mazzarine, 4 imperial roseweald</td></tr>
+<tr><td>720 rings</td><td>15 green iron, 15 tempest jade, 14 cerulean mazzarine, 13 imperial roseweald</td></tr>
+<tr><td>1440 rings</td><td>25 green iron, 25 tempest jade, 23 cerulean mazzarine, 22 imperial roseweald</td></tr>
+</table>
+The [[embassy]] in [[Redoubt#Cargo|Cargo]] means that the Ambassador enjoys the benefits of [[Ambassador#Mercantile_Support|mercantile support]] from traders keen to curry their favour. As a [[ministry]], this allows them to purchase quantities of special materials at a set price. The Ambassador spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+Following the imposition of sanctions on trade with slaving nations in Winter 382YE the cost to benefit from the ministry increased by roughly a fifth.
+
+Due to the renewed state of war between the Grendel and the Empire, it is no longer possible for the Ambassador to trade with Grendel merchants.
+-->

@@ -1,0 +1,295 @@
+__NOTOC__
+===[[The Brass Coast]]===
+{|
+|[[Dhomiro]]
+|A dhomiro is a member of a Freeborn family who is chosen by the family to be their representative to the wider world; sometimes as a leader, sometimes as an emissary.
+|-
+|[[Kohan]]
+|Kohan are groups of volunteer and outcast warriors-without-family, who traditionally pledge loyalty to a group of hakima.
+|-
+|[[Sutannir]]
+|Sutannir perform inspiring religious ceremonies for the Freeborn, and encourage people to exemplify and celebrate Virtue.
+|-
+|[[Hakima]]
+|Hakima are highly-organised groups of magic-users whose loyalty is to the nation, not their family. They are taken to be wise.
+|-
+||[[Corsair]]
+|Freeborn corsairs are traders and privateers who deal with - and raid - barbarian shipping in the Bay of Catazar.
+|-
+|[[Scrivener]]
+|Scriveners are Freeborn contract-writers who help traders frame the terms of their deals, and then decorate them with artwork and calligraphy.
+|}
+
+===[[Dawn]]===
+{|
+|[[Earl]]
+|The Earl of a Dawnish Noble House is the House's leader, who leads the House in all its great achievements and who sets its conditions of membership.
+|-
+|[[Knight-errant]]
+|Knights-Errant are engaged in their Test of Mettle. Still technically yeofolk they are expected - and are questing - to prove themselves glorious.
+|-
+|[[Questing knight]]
+|Questing Knights are those Knights who have proved themselves worthy in their Test of Mettle and have chosen to keep on questing for ever-greater glory.
+|-
+|[[Troubadour]]
+|A Troubadour is a priest who learns all the stories of their Noble House, past and present, and tells them in poetry and song to inspire their people to greatness.
+|-
+|[[Witch]]
+|Witches are Dawnish magic-users. In noble houses, they fight alongside the House's warriors. Most others belong to Weaver Cabals, independent groups of ritual witches which accept both yeofolk and noble members.
+|-
+|[[Guiser]]
+|Itinerant entertainers who often combine magic with their performances and practice [[dramaturgy]]. They are often (sometimes justly) accused of being spies, tricksters and mountebanks as well as performers. 
+|-
+|[[Enchanter]]
+|Some Earls who have studied magic choose the title "Earl-Enchanter" or simply "Enchanter". Most learn ritual magic to benefit their people; some build relationships with powerful Summer Eternals.
+|-
+|[[Seneschal]]
+|A Noble House's Seneschal is a trusted yeofolk who oversees its financial affairs, arranging deals and trades and keeping the House solvent.
+|-
+|[[Advocate]]
+|Dawnish Advocates are yeofolk politicians who navigate the murky waters of Senate politics for their noble masters.
+|-
+|[[Retainer]]
+|A yeofolk Retainer is a Dawnish Noble's most trusted attendant, who works closely with a particular Noble, or sometimes for the whole House. 
+|}
+
+===[[Highguard]]===
+{|
+|[[Exarch]]
+|The Exarch, or Exarchs, are those who are appointed by a Highguard Chapter as their leader(s) as determined by the Chapter's creed, or by embodying its principles.
+|-
+|[[Guardian]]
+|Guardians form the core of Highborn military, taking on a range of roles in defence of their Chapters, and in prosecuting vigilant warfare.
+|-
+|[[Unconquered]]
+|The Unconquered are Highguard's elite guerrilla troops. They are prone to using ruthless tactics, even operating behind enemy lines, to destroy the enemy's capacity to make war.
+|-
+|[[Cataphract]]
+|Cataphracts are Highguard's elite heavy warriors, who once rode horses into battle but who, in modern times, represent a resolute and unbreakable wall of steel.
+|-
+|[[Wayfarer]]
+|Wayfarers are Highborn priests with a long-standing tradition of teaching the truth of [[The Way]] to the ignorant, and seeking out Exemplars and Paragons born in other lands. 
+|-
+|[[Inquisitor]]
+|Highborn Inquisitors are zealous defenders of The Way from those that would threaten it, whether mortal or supernatural.
+|-
+|[[Steward of the Dead]]
+|Stewards of the Dead dedicate their lives to preserving the legacies of the worthy. This includes the interring of remains as well as the preservation of legacies and tales.
+|-
+|[[Magister]]
+|Magisters are the master magicians of Highguard, often with an affinity for Winter Magic. They shape magic using movement, sound and the chime of bells.
+|-
+|[[Benefactor]]
+|Benefactors are affluent Highborn merchants and tradesfolk who do not pursue wealth for its own sake, but who sponsor individuals, great works and endeavours.
+|-
+|[[Archivist]]
+|Archivists are a unique class of Highborn scholar dedicated to preserving the essence, or truth, of history, over and above accounts and evidence that may seek to undermine that truth.
+|-
+|[[Grey pilgrim]]
+|Grey pilgrims are a recent phenomenon. They walk the [[trods]] in a crusade to free the souls believed to be trapped between life and death by the [[vallorn]], but they also oppose heresy and idolatry, convert foreigners to the Way, and seek to guide the other human nations of the Empire toward enlightenment.
+|}
+
+===[[Imperial Orcs]]===
+{|
+|[[Warlord]]
+|Legions chose their own commanders, called warlords, with individuals chosen for their ability to provide clear effective leadership in battle, according to the traditions of the individual legion
+|-
+|[[Pitfighter]]
+|Professional fighters of the Pits in which the Orcs hone their combat skills; trading on the reputation for skill and strength that they have built up in previous fights, pitfighters build their careers until their notoriety means that other orcs begin to seek them out and actively challenge them. 
+|-
+|[[Shamans|Shaman]]
+|Most orcs only experience communion with the ancestors when battle is upon them but a few individuals - called shamans - are able to hear the voices more frequently; they are almost incessantly surrounded by the constant input of ancestral advice much of it bearing a contradictory or even hostile message.
+|-
+|[[Preachers|Preacher]]
+|Those Imperial Orcs who embrace the Way and become priests.
+|-
+|[[Imperial_Orcs_magical_traditions#Warcasters|Warcaster]]
+|The highly physical traditions of the Wintermark runesmiths has appealed to some orcs who adopt a similar approach and become Warcasters.
+|-
+|[[Oathwright]]
+|Oathwrights believe that the bond between an item and a person affects them both, items may gain worth by being owned and bonded to the right person and the right item affects an individual’s hopes of becoming an ancestor.
+|-
+|[[Bonesetter]]
+|Usually trained apothecaries, physicks or both, Bonesetters are expected to attend to the physical needs of the legion, but their remit runs well beyond this.
+|-
+|[[Thief-taker]]
+|Working closely with Imperial Magistrates, Thief-takers earn their income by collecting bounties on criminals who have fled the law and more rarely by taking payments from private individuals looking to identify perpetrators of crimes.
+|-
+|[[Reaver]]
+|Soldiers of the Legions who become dedicated to raiding and mercenary work.
+|}
+
+===[[The League]]===
+{|
+|[[Merchant Prince]]
+|A Merchant Prince is the head of a Guild, the tight-knit mercantile organisations which define the shape of League society.
+|-
+|[[Bravo]]
+|Bravos are the members of the mercenary Free Companies, as rough and rowdy off the battlefield as they are disciplined and professional on it, and immensely proud of their Companies. 
+|-
+|[[Bishop]]
+|The Bishops of the League are its high priests, who provide Virtuous guidance to any who can afford it, and who compete using the size and influence of their congregations.
+|-
+|[[Troupe|Troupe Magician]]
+|Troupes are bands of actors who often go masked while performing, and when performing ritual magic. To them, magic is a commodity like any other. 
+|-
+|[[Mountebank]]
+|Mountebanks are street magicians whose tricks may be sleight of hand or genuine magic, many of whom skirt the edges of the law playing short-cons and rigging street games.
+|-
+| [[Cicisbeo]]
+|A Cicisbeo is an expensive professional paramour, the only exception to League culture's absolute prohibition on extramarital relations.
+|}
+
+===[[The Marches]]===
+{|
+|[[Steward]]
+|A steward is the chosen head of a [[Marcher household]]. However a steward leads their household only with the consent of the other [[Yeomen_of_the_Marches|yeoman]].
+|-
+|[[Beater]]
+|Beaters are a roaming informal police force, learning every part of the land, watching for thieves, vagrants and other ne’er-do-wells. Beaters are often instrumental in settling land disputes between neighbours and they have a vital role in the tradition of [[The Marches culture and customs#The beating of the bounds|beating the bounds]]. Most are skilled foresters or hunters. 
+|-
+| [[Yeomen of the Marches|Yeoman]]
+|The yeoman is to many the archetypal inhabitant of the Marches. They are a hard people, who own their own land and are well accustomed to a long day working it. Military service is a proud tradition in the Marches, and the majority of yeomen are also soldiers. 
+|-
+|[[Monk]]
+|Monks minister to the spiritual welfare of the folk around their monastery, largely ignoring [[Marcher household|household]] boundaries. They divide their time between study of the [[The_Way|Imperial Faith]] and working the farmlands claimed by the monastery.
+|-
+|[[Friar]]
+|Friars work their own land and provide spiritual advice and counsel to their fellow yeomen in their [[Marcher household|household]]. Many also serve as scholars for their community, acting as a chirurgeon, and teaching letters and history to young children.
+|-
+|[[Landskeeper]]
+|A landskeeper is a figure from the Marches magical tradition, who supports the territories or the nation as a whole. Landskeepers can use a variety of methods, from hearth magics and good practical advice to rituals.
+|-
+|[[Mummer]]
+|Itinerant entertainers who combine theatrical performance with magic using the techniques of [[dramaturgy]]. They attend fairs, markets and other regular gatherings performing plays and feats of skill but are often greeted with suspicion and (sometimes unfairly) accused of being tricksters and mountebanks.
+|-
+|[[Alders|Alder]]
+|Alders are the appointed leaders of [[Market Towns|market towns]], and are the rough equivalent of the yeomen. In most cases these are wealthy merchants of the town, but often they include prominent town folk such as a friar or blacksmith who lives in the village.
+|-
+|[[Smith]]
+|A skilled crafter who has used a lifetime's experience selling their wares to become a canny trader and experienced negotiator. 
+|-
+|[[Thresher]]
+|A thresher dedicates their life to tracking down those who use magic for nefarious purposes and finding ways to punish them.
+|}
+
+===[[Navarr]]===
+{|
+|[[Brand]]
+|Navarri who have dedicated themselves to the service of the community, who work tirelessly to aid others without fee. They might be from any profession - Thorn, Vate, blacksmith, tanner, it doesn't matter. They are named for the brand burned into the skin on their left cheekbone.
+|-
+|[[Dreamspeaker]]
+|Philosophers, visionaries, and activists who aspire to make dreams into reality.
+|-
+|[[Thorn]]
+|A Navarri sworn to service in battle - usually, but not necessarily, a warrior. Always tattooed, they often wear warpaint into battle.
+|-
+|[[Guide]]
+|A Navarri who follows the path of the Virtues, and takes it upon themselves to ensure that members of the Empire have found the place in society that they are best suited to.
+|-
+|[[Broker]]
+|A Navarri who serves as an intermediary between a buyer and a seller, usually claiming some sort of payment from the deal.
+|-
+|[[Vate]]
+|The magical practitioners of Navarr. Often called upon to perform rituals in service of the nation and the Empire, they are the Navarri most trusted to meet with eternals or their heralds.
+|-
+|[[Vine]]
+|A Navarr who has dedicated themselves to healing the wounds caused by the vallorn.
+|}
+
+===[[Urizen]]===
+{|
+|[[Arbiter]]
+|An arbiter is the elected leader of the spires, citadels, and temples of Urizen. They are often called on to resolve disputes within a community or to represent it to outsiders.
+|-
+|[[Architect]]
+|Architects are interested in economics and how money moves around and the influence it exerts on the world.
+|-
+|[[Illuminate]]
+|Illuminates use their understanding of the Net of the Heavens to perfect the world; focusing on building up the virtuous... and removing the unvirtuous from prominence.
+|-
+|[[Mage]]
+|Mages are magicians motivated by politics. Ambitious and potentially ruthless, a mage understands that all magic is inherently political.
+|-
+||[[Seer]]
+|Seers believe that perfect understanding is they key to unlocking the Net of the Heavens. They seek out opportunities to get the right information to the right people so they can make the right decisions.
+|-
+|[[Sentinel]]
+|Sentinels study the art of war with dedication and commitment that matches that of any magician. 
+|-
+|[[Stargazer]]
+|Stargazers are scholars of magical lore who love magic in all its forms; they are the theoreticians and debaters who push knowledge to its limit. 
+|-
+|[[Sword scholar]]
+|Sword scholars are warrior priests with a passionate commitment to reason and wisdom. They exhort others to test what they have learnt.
+|-
+|[[Torchbearer]]
+|Torchbearers are dedicated to ensuring that as many people as possible know the truth. They work to keep fellow citizens informed about current events and abhor falsehoods and secrets.
+|-
+|[[Questor]]
+|Questors consider the Way of Virtue to be an unfinished work and the Doctrines of the Faith as incomplete. Questors are radical priests who are willing to tear apart the Way in their quest for perfection.
+|}
+
+===[[Varushka]]===
+{|
+|[[Boyar]]
+|A Varushkan Boyar is the hard heart of a Varushkan community, whose first duty is as a strong protector of their people. Second to that, they arbitrate and govern their vale in council with their Wise Ones.
+|-
+|[[Warden]]
+|The Warden brotherhoods are heroic warriors who employ magical protection along with their armour and weapons to hunt down the terrors of the Varushkan wilderness, and to uphold Imperial Law.
+|-
+|[[Schlacta]]
+|The Schlacta are Varushka's well-organised bands of soldiery, who provide defence to a place or an employer.
+|-
+|[[Wise One]]
+|Wise Ones are the true hearts of Varushkan communities. They are the thinkers who deal with those problems which cannot be dealt with by strength, and who look through the appearance of things to discover the threats lurking beneath.
+|-
+|[[Volhov]]
+|A Volhov is a Varushkan who studies magic, particularly warding magic (so necessary to Varushka's safety) and divination, to uncover threats before they grow too great to deal with. They often find it necessary to deal with Eternals, and sometimes even to pacify Varushka's deadly Sovereigns with rituals or bargains.
+|-
+|[[Cabalists]]
+|Cabals are teams of ritual magic users, who often act as individual groups, independent of their vales. Each Cabal is different from each other, but their magical might grants them considerable influence.
+|-
+|[[Storytellers]]
+|Varushkan Storytellers are the nation's ragged priests, often itinerant, around whom entire communities will gather to hear news, entertaining tales, and spiritual messages told well.
+|-
+|[[Stzena]]
+|The inheritors of a tradition of night sentries, Stzena are bands of musicians who perform at local events.
+|-
+|[[Wagon raider]]
+|Opportunists who seek their fortunes by launching forays into barbarian lands to grab whatever riches can be found.
+|}
+
+===[[Wintermark]]===
+{|
+|[[Thane]]
+|The leader of a Hall in Wintermark, a Thane settles disputes that lie outside the law and provides civic and military leadership.
+|-
+|[[Banner-Bearer‎ ]]
+|Warriors whose purpose is to raise the morale and fighting spirit of their companions. Banner-bearers often literally carry their warband's banner.
+|-
+|[[Stormcrow]]
+|The ragged priests of Wintermark, who act as guides, witnesses and confessors, and who provide spiritual and moral inspiration and guidance for the Winterfolk.
+|-
+|[[Runesmith]]
+|Artisans who specialise in the magic of the old runes of Wintermark, who create engraved weapons and armour, or scribe warding marks to protect people or places.
+|-
+|[[Icewalker]]
+|The cunning mages of the Suaq, who use their magical skills and their knowledge of the Ice as part of their hunting tradition.
+|-
+|[[Mediator]]
+|A Wintermark merchant who specialises in negotiating weregild between aggrieved parties.
+|-
+|[[Maggot]]
+|A scavenger, a looter on the battlefield; "Maggots" are seen as scum by most Winterfolk.
+|-
+|[[Mystic]]
+|Deeply spiritual Kallavesi who make predictions about the future and advise their fellows on the wisest course of action. Often a magician, but some do it with hearth magic and intellect.
+|-
+|[[Scop]]
+|The professional entertainers of Wintermark, Scops are known for their mastery of saga and song, and their skill with alliterative poetry. They are responsible for granting an adult name to a child coming to adulthood.
+|-
+|[[Grimnir]]
+|The battlefield doctors and healers of Wintermark, Grimnir swear an oath to stay clear of the front lines.
+|-
+|}

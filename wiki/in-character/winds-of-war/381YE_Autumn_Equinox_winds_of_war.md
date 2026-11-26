@@ -1,0 +1,445 @@
+---
+title: 381YE Autumn Equinox winds of war
+source: https://www.profounddecisions.co.uk/empire-wiki/381YE_Autumn_Equinox_winds_of_war
+class: in-character
+topic: winds-of-war
+categories:
+- Recent History
+- 381YE Autumn
+- Military Council
+- Winds of War
+event: 381YE Autumn
+last_edited: '2026-09-05T14:53:11Z'
+revision: 144753
+in_character_boxes: 38
+---
+
+# 381YE Autumn Equinox winds of war
+
+*[Image: Wrath of the Highborn.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Wrath_of_the_Highborn.jpg)*
+
+## Overview
+
+As the Autumn Equinox 381YE approaches, the Empire continues to fight against threats both external, and internal.
+
+### OOC Context
+
+News of the Empire's victories and defeats spreads quickly across the Empire, in part thanks to the omnipresent Navarr messengers.
+
+Each Wind of War consists of a report on the campaign, delivered in reasonably in-character language. Players are encouraged to use this text as the basis for creating their own stories about what their characters, or their company of soldiers have done during the last few months. It is usually followed by a short out-of-character section which deals with absolute facts - the nitty-gritty of numbers, regions captured, and important game effects.
+
+As always, how much or how little of this information you choose to know in character is up to you. Part of the purpose of Winds of War and Winds of Fortune is to allow players to choose to be aware of things their characters "should" know based on what their roleplaying says they have been doing for the past three months
+
+## Wasting Light (Spiral)
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Move with haste to a defensible position where we will await the arrival of the Red Wind Corsairs. Not in recent years has the entire Brass Coast Military fought in the same territory, let's show the Grendel why they should fear us. We shall shatter them like thin glass, and as a flame we will reduce them to dust....
+> >
+> > General Marciel i Riqueza of the Fire of the South
+
+There are two Imperial forces in Spiral. In the west, both League armies and the [Citadel Guard](../mandates/Citadel_Guard.md) control the lion's share of Cinion. In the north-east, the [Fire of the South](../../mixed/government/military/Fire_of_the_South.md) take up defensive positions and await the arrival of the [Red Wind Corsairs](../../mixed/government/military/Red_Wind_Corsairs.md) - they secure the major pass into Zenith, and wait for reinforcements. The two forces, separated by distance and deadly foes alike, manage to maintain contact via fleet Freeborn messengers, magical winged messengers, and staccato heliopticon messages.
+
+The latter has become a little unreliable, however. For the most part, the Grendel do not destroy or loot heliopticon towers - instead they use them to try and intercept Imperial communiques, break the new codes being used to secure military information, and spread disinformation and false messages wherever they can. For now, the best Imperial codes - many devised by officers of the [Towerjacks](../../mixed/government/military/Towerjacks.md) - have remained unbreakable. As far as anyone knows...
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > With all due haste - which should be plenty after your great rest - let's get us into Spiral, Freeborn! We are helping our great friends the Urizen, and fighting the cursed Grendel! Let's make this war no longer give them profit. Let's bleed them, coin and all, until they realise the folly of their ways. All freeborn are fighting here this season. We will link with the Fire of the South in the Ankra whilst the Freeborn Storm in the South. Let's Plunder the Barbarians! For the Freeborn! For the Empire!
+> >
+> > General Estana I Mestiere I Guerra
+
+Both the Grendel and the Empire are on the offensive this season, although in both cases their focus appears uncertain. Grendel forces under the turtle banner advance carefully on Freeborn positions, probing for any sign of weakness. The Fire in the South likewise push slowly southward from their positions around the Twilight Gate (the grand pass through the mountains to the plains of [Proceris](../nations/urizen/Zenith.md#proceris)). Whenever the two forces meet one another, both sides take up defensive positions and engage in cautious skirmishes. A complex dance plays out slowly across northern Ossuary.
+
+Three weeks after the end of the Summer Solstice, the Red Wind Corsairs arrive. Dodging past [Druj](../barbarians/Druj.md) forces in [Zenith](../nations/urizen/Zenith.md), the Corsairs reach the main Freeborn encampment below the Twilight Gate, and almost immediately turn their full attention to destroying Grendel baggage trains, intercepting Grendel raiders, and wherever possible seizing stolen resources. In the west, the [Wolves of War](../../mixed/government/military/Wolves_of_War.md) take a similar approach - Varushkan wagon raiders are supported by dozens of independent captains, adept at operating independently of the main force (and yet able to integrate their tactics with the broader strategy thanks to the [potent enchantment](../../mixed/magic/rituals/Bound_by_Common_Cause.md) laid on the Wolves of War). They are not the only ones. A significant fraction of the Grendel forces are engaged in an almost identical strategy - sweeping the territory the orcs already control and striking against the baggage trains of the Imperial armies, pillaging everything that isn't nailed down. More than once the two Imperial armies clash with orc soldiers and mercenaries over control of a [mana site](../../out-of-character/rules/Mana_site.md) or a [mine](../../out-of-character/rules/Mine.md). The fighting is quick and bloody, with one side or the other retreating once it is clear who has the upper hand, and looking for other opportunities to gain wealth.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > It is a season of Reckoning. We owe our friends in Urizen for their years of Virtuous sacrifice. And we damned well owe a reckoning to the Grendel for Sarvos. They took our homes, our treasures. Now we will hit them where it hurts, in the place the Grendel feel pain - Their money pouches. Hit their supply lines - do not let them profit from the theft of the Legacy. Take back what they have stolen and take back our land.
+> >
+> > Gabriel Barossa, General of the Wolves of War
+
+All this is only part of a larger scheme, however. Messages fly thick and fast between the Freeborn captains and their opposite numbers in the Wolves of War. Once the Corsairs and the Wolves are confident they have the measure of the Grendel defences, a daring scheme is put into operation. While the Red Wind and the League [Free companies](../nations/the-league/Free_company.md) move into position, the Fire of the South distract the Brine Turtles, slowly pulling them out of position. In the west, the Towerjacks and Citadel Guard time a major offensive into Ankra to ensure that the forces the attention of the Grendel generals is focused on them ... rather than on the Legacy. When the time is exactly right, the Empire strikes.
+
+The two pillaging armies strike into northern Apstrus. Their target is not the Legacy itself, but the heavily armoured caravans that transport mithril south toward the Grendel headquarters in Apulian. The bulk of the Red Wind Corsairs actually move *past* the caravan, instead launching an assault on the baggage train of the Brine Turtles - and ensuring that no forces from Apulian will arrive in time to interfere. At the same time, the Wolves of War seize passes from Ankra to Apstrus, hold them ... and fall on the back of the Grendel caravan.
+
+Caught between a hammer and an anvil, the fighting is fierce. The Grendel almost immediately begin to pull forces from their other theatres to secure their supply lines - but they are too late to save their vital caravan. The Red Wind and the Wolves fall back to prepared positions, joining up with the Towerjacks and the Fire of the South respectively. Some of
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Soldiers of the Towerjacks, we have held the barbarians and now we will push them back. We will advance steadily into Ankra and then on to Ossuary, minimising our casualties where possible and drawing power from the Clarity of the Master Strategist.
+> >
+> > General Natalia Barossa of the Towerjacks
+
+the Grendel commanders launch futile attacks to try and recover the stolen mithril, but to no avail. There is no doubt the Imperial raid hits the Grendel where it hurts them the most - in their money pouches.
+
+The Imperials are not the only ones undertaking a complex stratagem in Spiral this season, however - although theirs is certainly the most daring and provocative. As the season draws on, the Citadel Guard and Towerjacks begin to receive reports from the south western mountains of orcs engaged in collapsing the passes into Redoubt. As near as anyone can tell, warriors of the [Kraken's Jaws](../barbarians/Elite_Grendel_troops.md#the-kraken27s-jaws) [Moridun](../barbarians/Elite_Grendel_troops.md#the-moridun) accompanying a significant force of soldiers under the Stone Gyre banner, are moving north through the western mountains. They are targeting the main passes with a combination of terrible warbeasts and [Spring magic](../../out-of-character/rules/Spring_magic.md). Not all the passes - only those large or convenient enough for an army to use without problems. A hurried communique from the Fire of the South brings news that a similar force appears to be active in the northern a mountains as well - based out of Ankra - and there is a very real possibility that the Twilight Gate is now the only remaining safe route through the mountains into Zenith.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Once again we fight for Spiral. This time, we will finish this. We will use strategy, we will use strength. The Empire learns from its mistakes. Spiral will be ours ... We bring our magical strength into our home nation because of the ground you take...
+> >
+> > General Nicassia Avicia of the Citadel Guard
+
+The Grendel seem to be looking to cut the territory of Spiral off from the Empire - at least to a degree. A heliopticon message from the [Court of the White Fountain](../nations/urizen/Redoubt.md#the-court-of-the-white-fountain) says that the *Onyx Path* is still intact at least - but it confirms that all the other major routes from south-eastern Redoubt appear to have been collapsed or otherwise made impassable.
+
+A little more than six weeks after the Summer Solstice, there is another development. The Citadel Guard provide a warning, but it is difficult to disseminate it to the entire Imperial force in time. A night of nightmares sweeps across Spiral, a storm of phantasms and hallucinations not restricted to sleeping minds. Over the next week, there are scattered reports from across the territory of madness and despair - of hardened soldiers starting awake shrieking in terror; experienced scouts losing their way in terrain they know well; disciplined warriors ignoring orders and falling on their opponents howling like mad beasts. It is not just the Imperial forces that are affected; there are clear signs that the orcs have been affected as well. The strange, infectious madness adds to the confusion and uncertainty in Spiral.
+
+The Urizen know the cause - it is not a stratagem of the Grendel that is to blame, but the very fabric of the territory itself. Roused by violence, bloodshed, and passion the Black Plateau is beginning to "wake up" again. They can't predict how bad it will get, but they are certain it will get worse.
+
+### Game Information - Spiral
+
+The Empire is winning in Spiral this season. The western forces (Wolves of War, Towerjacks, Citadel Guard) have driven the Grendel out of Cinion, and made significant headway into Ankra. The Freeborn forces in northern Ossuary have made some headway into Ankra from the eastern side, but they are still pretty much penned in on the northern side of the territory by the Grendel armies.
+
+Perhaps more significantly, the Wolves of War and the Red Wind Corsairs have plundered the Legacy. The relative generals will need to compare notes but it seems that they may have looted the entire production of the mithril mine between them. Both armies have also stolen significant amounts of wealth from the Grendel - although arguably they have merely recovered what the orcs first stole from the Urizen.
+
+At the same time, the Grendel have systematically swept across the southern regions engaging in their own campaign of plunder and pillage. After years conquered by the rapacious orcs, it is likely that there is not a huge amount of wealth left in Spiral. They are also taking large numbers of slaves. To represent this effect, we are applying an effect going forward that reduces the production of all personal resources in Spiral by 20%. This effect will remain as long as there are any regions in Spiral controlled by the Grendel, as workers are afraid to operate in the territory for fear of being taken by the Grendel.
+
+While the Empire has been looting the Legacy, the Grendel have been engaged in a significant stratagem of their own. They have been collapsing the passes through the western and the northern mountains. At this time there are only three major passes still open that are large enough to allow a campaign army to pass through them without difficulty.
+
+- The **Onyx Path** linking [Optarion](../nations/urizen/Redoubt.md#optarion) and [Ateri](../nations/the-league/Spiral.md#ateri). The western end of the pass is guarded by the Citadel of the Flame, while the eastern end emerges near the ruins of Fort Mezudan.
+- The **Crow Road** linking [Willstone](../nations/urizen/Redoubt.md#willstone) and [Cinion](../nations/the-league/Spiral.md#cinion). The western end of the pass is watched by the resourceful sentinels of Willstone spire, while the eastern end emerges in the hills above the ruins of Damakan's Forge.
+- The **Twilight Gate** linking the plains of [Proceris](../nations/urizen/Zenith.md#proceris) and the northern [Ossuary](../nations/the-league/Spiral.md#ossuary). This "pass" is wide enough that it would be extremely difficult to close it without constructing a [fortification](../../out-of-character/rules/Fortification.md).
+
+These three passes now effectively control access from Imperial territory into Spiral, and vice versa. There are several smaller, higher passes still intact of course that can be used by small groups or caravans - but these are not suitable for a campaign army to use. The full strategic implications of this situation will be made clear to the Military Council during the Muster, once the Civil Service has confirmed what they are.
+
+The Black Plateau has been upgraded from "murmuring" to "grumbling" by the Citadel Guard. This past season it has increased all casualties suffered by the armies fighting in Spiral by a small amount (not even a tenth), but the "grumbling" is slowly and steadily getting worse. Illuminates of the Citadel Guard suggest it will be bad enough to increase all casualties in Spiral by a tenth by the end of the Autumn Equinox. At the moment the relatively cautious strategies of the orc and Imperial forces are minimising the impact of the increasingly dangerous Plateau, but it is not clear how long that will continue to be the case.
+
+## Cold Day in the Sun (Weirwater)
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Charge Dawn Charge, the Golden Sun will Drive the husks before it. We will act as a shield for the People of Dawn with Iron and Fire
+> >
+> > General Zoran Orzel of the Golden Sun
+
+The [Golden Sun](../../mixed/government/military/Golden_Sun.md) launch an overwhelming assault against the abominable unliving forces in Weirwater. They do not fight alone. Over forty independent captains fight alongside the Dawnish army - primarily Dawnish knights and yeomen, but a number of League soldiers and Wintermark warriors have also heard the call to defend Weirwater.
+
+The Imperial armies are further reinforced by a grand cohort of knights from the Fields of Glory - some three thousand glorious and terrible warriors of the Summer realm, called from the demesne of Eleonaris by the combined might of the enchanters and witches of Dawn, to oppose the flesh-devouring husks inhabited by fell Winter spirits. Beneath gilded crimson banners. tall lords and ladies armoured in polished golden plate march alongside the warriors of Dawn, Wintermark, and the League. The Empire has seen the Knights of Glory before, but there is something different about these fae warriors. They are more gregarious, less arrogant... less bitter. There is a sense of true nobility about them that has been lacking before. They engage in courteous words with the Imperial soldiers they accompany. When the armies camp, the knights arrange their own pavilions of cloth-of-ruby-and-gold ... but once the tents are erected they send cordial parties to visit the camps of the Golden Sun, sometimes bearing gifts of fine wine and exotic foodstuffs. They act like allies of choice, rather than creatures bound by oaths to fight alongside anyone who calls them forth.
+
+And fight they do. The abominable invaders have slowly been driven north and east by the Golden Sun. Outnumbered perhaps three to one, they make up for their lack of numbers with supernatural tenacity - and with their unnatural ability to replace their fallen by inhabiting fresh corpses. Rather than a single great army, they split into multiple smaller groups, forcing the Golden Sun to likewise divide its forces. For the most part they seek to avoid pitched battles, preferring to try and prey on the yeofolk of Weirwater - because when they do stand and fight they are utterly outmatched by the Imperial forces.
+
+In the first month after the Summer Solstice, there are major engagements at Applefell and the Weirwater Vales. The abhorrent husks try desperately to overwhelm the defenders, forcing their way past barricades and palisades to try and slaughter the yeofolk intent on adding more corpses to their Winter host. In both cases, however, they are thwarted by a combination of the yeofolk's refusal to stop fighting, and by the glorious bravery of the local noble houses. They keep the unliving pinned down long enough for forces from the Golden Sun to arrive and catch them against the walls of the very communities they seek to annihilate.
+
+The last great engagement takes place at the rich port-town town of Culwich. The remaining husks have come together in a single host, rampaging through the farms and villages around the oldest Dawnish settlement. Again, though, they are thwarted by the nobles and the yeofolk. Larger communities bar their gates and fight tooth-and-nail against the undying attackers. Smaller communities, given sufficient warning, band together at defensible locations, or retreat in good order to Culwich. A valiant troubadour brings together several groups of knights errant and, with the aid of a circle of Weavers, creates a makeshift fortification amid the ruins of the Sentinel’s Folly - the shattered tower overlooking Culwich - which offers sanctuary to fleeing farmers and fisherfolk alike. The pattern of glorious heroism is repeated over and over again as the unliving advance. The people of Weirwater will not bow before this unnatural horde - and they know that the Golden Sun are coming.
+
+In the end, the final battle before the Autumn Equinox takes place amid the broken ruins of the farms outside Culwich. The entire Imperial host draws up, and with grim commitment falls on the abominations. Committed to victory at any cost, the glorious warriors of Dawn strike straight to the heart of their enemy, charging en masse across the blighted farmland, flanked by the Golden Host of Eleonaris. The fighting is brutal, even tragic - by this time the majority of the Winter spirits are inhabiting the bodies of fallen Dawnishfolk, still wearing the armour and wielding the weapons with which they died fighting the unliving.
+
+As night falls - the starless night with only a sliver-thin moon - the people of Culwich light great beacons along their walls. Skilled yeofolk archers, master hunters, launch burning arrows into the oil soaked thatch of farmhouses near the wall, creating roaring bonfires. The polished armour and shields of the Golden Sun and the Knights of Glory catch this light and reflect it back; and for one vital hour, it is as if the sun has never set. The burning buildings serve as a convenient way to dispose of abominations; still fighting, many are forced back into the conflagrations and burned to ash. It is a tragedy, that the bodies of Dawnish warriors who fell in glorious battle receive no proper burial, and some troubadours weep openly when they hear of it.
+
+Unable to use the darkness to their advantage, the unliving begin to break. They retreat again from Culwich, north toward [Karov](../nations/varushka/Karov.md). Even with the ability of the Winter spirits to take new corpses, their numbers are greatly depleted. Rough estimates suggest that there are only around two-and-a-half thousand remaining creatures in Weirwater - although not all of these are unliving husks. Soldiers recount engagements with dreadful creatures and even the occasional gang of living warriors among the host - servants of fell powers that have cast their lot in with the monsters ravaging Weirwater.
+
+Despite their allies, the invaders are defeated - for now. The overwhelming commitment to victory shown by the Golden Sun, the strength of their allies both magical and mundane, and the glory of the people of Weirwater have all contributed to this victory - but the war is not yet over.
+
+### Game Information - Weirwater
+
+The unliving host has been driven across Weirwater by the Golden Sun and their allies. The Imperial army has suffered some losses - four hundred or so soldiers have fallen to the unliving. Some of these fallen rise again and fight against their former allies, but for every fallen Dawnish soldier, at least two husks fall. The enemy has been soundly defeated, and seriously weakened by the season of battle.
+
+Weirwater itself is not unscathed - much of the farmland around Culwich has been destroyed for example - but for the most part the Golden Sun has been able to prevent the smaller communities being overrun - both preserving the yeofolk and the noble estates, and preventing the undead from replenishing their numbers using the bodies of the dead.
+
+A word of caution, however - not all the husks in Weirwater are part of the main force. Several smaller gangs are still at large in the territory. On a grand scale they are merely nuisances, but they are more than capable of destroying a small noble estate or slaughtering families of yeofolk farmers. There are enough to keep knights-errant busy for several seasons, even if the main force of husks is destroyed.
+
+## Another Round (Bay of Catazar)
+
+Supported by more than fifty independent fleet captains, flushed with its victory over the Grendel forces left behind in Redoubt, anticipating the first opportunity for all the Freeborn forces to be in the same campaign, the [Freeborn Storm](../../mixed/government/military/Freeborn_Storm.md) sails east to Spiral. They spread out, taking a wide formation, if the Grendel are acting to [support their armies](../../out-of-character/rules/Navy_orders.md#naval-support), then the Storm will catch them while they are engaged on land and [harry their ships](../../out-of-character/rules/Navy_orders.md#harry-shipping) all the way back to Dubhtraig. With superior tactics and daring the Freeborn can overcome the Grendel superior numbers!
+
+The wily Grendel are a match for them and more though. Perhaps someone tipped them off - perhaps they simply don't care about their armies fighting in Spiral. Whatever the reason the navy meets the Grendel armada coming in the opposite direction - all formed up for a full on [naval engagement](../../out-of-character/rules/Navy_orders.md#naval-engagement). It is clear they intend to challenge the Storm head on and with the Freeborn vessels dispersed they have a massive advantage.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The time to push in Spiral is now. As our armies, including the Red Wind Corsairs and the Fire of the South, fight bravely on the land, we must do our best to stop the Grendel Navies supporting their forces. This will not be easy, the enemy will be waiting, so we must be smart. To the end, we will harry them and keep them tied up. Make no mistake, there will be losses, but know that we will be helping keep our brothers and sisters alive. Should we need to fall back, we are to go to Redoubt. Take comfort in the Virtues, and show those bastards the Coast's true colours.
+> >
+> > Admiral Edgardo i Ruiloba i Guerra of The Freeborn Storm
+
+They meet in the waters south of [Ateri](../nations/the-league/Spiral.md#ateri), and the Grendel attack mercilessly. Their superior formation alone places the Freeborn Storm at a *serious* disadvantage. The independent fleet captains of the Empire more than double the strength of the Freeborn Storm, but they are still outnumbered by the Grendel navies. Yet the numerical disadvantage is less than it was last time they clashed - the Grendel navies have not emerged unscathed from their various battles with the Empire, nor have they been untouched by the [storms raised by Imperial magicians](../../mixed/magic/rituals/Foam_and_Spittle_of_the_Furious_Sea.md).
+
+Still, the Empire is outmatched and outnumbered, and the Grendel crews are more experienced at ship-to-ship combat on such a scale. The Empire's warships are powerful, but they are slower to react to the ebb and flow of the sea battle than their orc opposite numbers. It is a blessing that the Grendel navies still appear to consist primarily of warships - if the Grendel had brought a contingent of their own independent captains with them then the Empire would be in even more serious trouble.
+
+As the battle progresses it soon becomes clear that the Grendel ships possess the same unnerving ability to coordinate their attacks demonstrated time and again by the orc forces on land. They seem to have a natural, instinctive awareness of where their fellow vessels are and where they are going that goes beyond anything even the most experienced captains might manage. They seem to know exactly when to break off, and precisely where the Imperial ships are at their most vulnerable.
+
+Thousands of lives are lost, dozens of ships captured, sunk, or burnt to the waterline - on both sides. The Grendel do not have things entirely their own way - but the Empire loses three times as many vessels as the Grendel do. Without the presence of the independent captains - every nation save Varushka is represented - the situation would have been significantly more one-sided. Easily half the Grendel ships lost are sunk by independent captains, able to respond more quickly to the changing situation that the navy itself. Those same ships are more adept at avoiding Grendel counter-attacks - so the Grendel concentrate their attacks on the navy instead - focusing all the casualties there.
+
+In the end, the Freeborn Storm is - again - forced to retreat west back into [Redoubt](../nations/urizen/Redoubt.md). The Grendel harry their retreat, sinking several more vessels. Over the next weeks, the Freeborn storm is pushed further west, forced back time and again by the orc ships. The pattern is the same in each engagement - the orcs outnumber and outmanoeuvre the Imperial ships, and inflict three-times as many losses as the Empire manages to inflict on the Grendel.
+
+As the Autumn Equinox approaches, the Freeborn Storm has been pushed back to Rebekah's Leap ... where the Imperial and orc navies [first clashed](380YE_Autumn_Equinox_winds_of_war.md#audacity), last year.
+
+### Game Information
+
+Auditor of the Imperial Treasury, [Gerard La Salle](../senate-motions/Scrutiny.md#constitutional-court) has prepared a report for the Admiral on the strategic situation created by two rival naval forces being in the same territorial waters, to be presented during the Autumn Equinox.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Soldiers of Highguard, our brother and sisters in Urizen call for aid, and we shall answer! The Druj will not take one more step in Urizen without paying in blood.
+> >
+> > General Cuth of the Seventh Wave
+
+## Resolve (Zenith)
+
+Across Zenith, spires are winking out. The Spire of Celestial Cascade and Echostorm have both disappeared behind shrouds of Night magic, as have several of the smaller spires, even those not in immediate danger of being overrun. Others are not so lucky. There are scattered, horrifying reports from those spires the Druj now dominate - and the dreadful fates met by those who resist.
+
+The Druj invaders have taken Lustri and Occursion and they come pouring down out of the hills and woodlands to sweep across the plains of Proceris.
+
+The tide of orcs is met by a wall of dark steel. The [Valiant Pegasus](../../mixed/government/military/Valiant_Pegasus.md), the [Granite Pillar](../../mixed/government/military/Granite_Pillar.md), and the [Seventh Wave](../../mixed/government/military/Seventh_Wave.md) are waiting, offering their strength to the people of Urizen. There is a fire in many Highborn soldiers to fight the Druj - especially those who saw what they did in Reikos, and to its people.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Soldiers of the Pegasus, we will link with our brothers and sisters and hold back the Druj. We will support them and keep them fighting for Highguard, for Urizen and for the Empire.
+> >
+> > General Cayleb of The Valiant Pegasus
+
+The Pillar takes the lead, coordinating the other two armies and those forces belonging to independent captains. Along with the Wave bear the brunt of the initial attacks, holding firm against the initially disorganised Druj assault. The Pegasus serve as a firm bedrock, supporting and protecting the other two armies. The Highborn apothecaries and healers are well prepared for the venoms and poisons employed by the Druj, as well as the more usual mortal wounds and crippling blows.
+
+After the initial assaults, which are handily repulsed, the main force of the Druj is brought to bear. The Black Wind leads the way - orcs out of the Barrens once rebellious and now bound again by the Druj. They ape the other eastern orcs, but their cruelty is something to behold. It is as if they wish to prove their loyalty by being even more merciless, more ruthless, than the Druj themselves. Any Imperial that falls into their hands is crippled, tormented, and ultimately crucified left to die slowly of their wounds, of hunger, and of thirst. Several spires are turned into unspeakable charnel houses, every person within heinously butchered. They drive crippled and broken survivors before them, calmly picking them off with arrows before they reach the safety of the Imperial lines. They are cruel indeed, and once it is clear the true depths of depravity they are capable of, it shakes the confidence of all save the most resolute Imperial soldiers.
+
+Furthermore, the Black Wind possesses a supernatural strategic excellence - with a sinking feeling some of the Highborn who have fought the Grendel in Spiral recognise hints of what is occurring. Whenever the Empire accidentally leaves itself weak, the Black Wind assault them there. When the Empire seeks to trick the Druj into overextending themselves, the Black Wind pull them back. Their general - a vicious female orc - exercises iron control over her troops backed up by a potent enchantment woven of [Day magic](../../out-of-character/rules/Day_magic.md). This is not the only sign of Grendel involvement - there are reports that Grendel mercenaries may be supporting some of the other Druj armies, although details are scarce at this time.
+
+This is Urizen, so it is no surprise that this is not the only magic at work here. The magicians and sentinels of Urizen gather in [Clypion](../nations/urizen/Zenith.md#clypion) in a citadel of black ice - a great squat tower with a wall of razor-sharp granite, drawn from the realm of Summer by the *Blazing Sun* coven of Highguard. The great echoing halls provide a valuable base of operations, and a focal point for the residents of Zenith to take refuge from the invaders.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We go to defend Zenith from the Druj. The People of Urizen need our strength. Let us make a strategic defence of Zenith and halt enemy offence.
+> >
+> > General Mathayus of the Granite Pillar
+
+A second citadel squats in [Lustri](../nations/urizen/Zenith.md#lustri) - a great sprawling mass of trees woven into the rough likeness of a castle. Ghulai are said to lair here, and high-value prisoners who survive the initial Druj lust for blood and torment are sent here to have their secrets torn from them. How many Urizen magicians have been sent into the foreboding fortress, and how many have gasped out their last breaths begging to be allowed to unburden themselves of their magical knowledge, it is impossible to say.
+
+The entire territory is also wrapped in a web of powerful Autumn magic, woven by the Grape & The Grain coven of Wintermark. The magic is of great value to the people of Urizen, guiding them to safe paths clear of marauders, helping them to rest safely, and giving preternatural awareness of the location of those who wish them harm. It directly helps hundreds of people in the war-torn east of Zenith make it to the safety of the west. It also aids the Highborn defenders - alerting them to the presence of the Druj and providing valuable protection from their ambushes. Unfortunately, the magic is indiscriminate - it is just as effective at helping the Druj armies, and at forewarning the orcs against Unconquered scouts, as it is at aiding Imperial citizens.
+
+At first, the two forces - Highborn and Druj - appear relatively equally balanced. As the campaign progresses though it becomes apparent that the Druj have the upper hand. While the Black Wind seem most interested in kindling a spark of terror in Imperial hearts the rest of the Druj - the true Druj - achieve something similar simply through relentless, unstinting commitment to violence. Overwhelming assault after overwhelming assault breaks against the Highborn lines and despite their best efforts, they are slowly forced back.
+
+But their retreat is measured, and careful, and disciplined. They fall back a few miles at a time, always to new positions prepared by the Granite Pillar with the aid of the Urizen civilian population. Thanks to their resolute courage, spires that would otherwise have been washed away by the oncoming tide are able to evacuate in good order. Many have time to secure their magical lore, or carry it with them westward to the Halls of Knowledge, or to the welcome of spires in Iteri and Clypion.
+
+Over a thousand Highborn soldiers give their lives to secure this evacuation, and to hold the Druj back. If not for the Autumn magic granting protection to everyone in Zenith, this number would have been much higher. It is hard to guess at Druj losses, but the Urizen prognosticators and the Highborn scouts alike agree that the Druj have lost similar numbers of orc lives.
+
+The Druj gain some territory, it is true, in their slow advance westward - but if the Highborn had not been present they would have conquered the plains of Proceris and likely put the Halls of Knowledge in Clypion to the torch.
+
+### Game Information - Zenith
+
+The Druj have made some gains in Proceris, but not enough to claim the entire region. This may have some implications for the Freeborn in Spiral, if the Druj manage to capture the Twilight Gate.
+
+The Imperial forces are left in no doubt that the Black Wind army possesses the [Cruel](../../mixed/government/military/Army_qualities.md#cruel) quality, and has been engaged in a Merciless Onslaught. The Highborn armies will break if their military strength falls below 1,500 (or below 2,250 if they are large) before the end of the Autumn Equinox.
+
+Also causing concern - the civil service are extremely worried about what will happen if the Druj take Proceris, especially the **Golden Cascade** - a series of [terraces](https://en.wikipedia.org/wiki/Terrace_%28agriculture%29) carved into the foothills and supported with powerful ritual magic and unique polished mirrors. Along with the fertile farms on the plains, the Golden Cascade provides much of the food for the people of Zenith - and is a significant contributor to the nation's ability to support the Citadel Guard. Losing it is unlikely to cost the Urizen their ability to support their army, but it would certainly place them in a precarious position.
+
+It is expected that Auditor of the Imperial Treasury Gerard La Salle will be available to answer questions about both topics during the Muster.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Fellow Bounders, I know the sadness you feel for the death of General Farstrider. We must not let grief lessen our resolve, but nor can we let rage drive us to recklessness. This season we fight for the hearts and minds of the Mournwolders, as we steadily reconquer our land. We are not to pursue the Jorun as they flee from the Ore Hills, Greensward and Alderly; aid the Mourn yeomen in rebuilding their homes and consolidating our gains..
+> >
+> > General Rickard of Lambrook of the Bounders
+
+## Times Like These (Mournwold)
+
+There are no Jotun armies left in the Mournwold - but the territory is far from undefended. The garrisons of the Tribute, and Hillstop, continue to resist the Imperial conquest. There are also bands of Jotun champions at large in the Mournwold, still fighting a rear-guard action that seems designed solely to slow the Imperial advance.
+
+The Empire presses south and west. The first - indeed the only - major battles come in the south, in the Ore Hills. The Empire built the Tribute, and now must lay siege to it. The Jotun are given a chance to withdraw, or surrender, but they do not even bother to answer. The siege lasts the better part of a month, and would have been over even more quickly had the orcs not taken the time to shore up the defences a little so the original Imperial plans of the fort, and its weaknesses, are out of date.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Now then my merry lads and merry lasses we are in the breach, the hounds are set loose and it is time at long last for the Mourn to be returned to the Imperial fold. Take heart though for not only do we march to victory, we shall do it in **our** way, a **Marcher** way as we enact a steady conquest of the Mournwold. Let us show our people that this is not a war of extermination, but a war for Marcher land. Words are wind, so let's damned well show them how its done. First we advance upon the Ore Hills, then the Greensward and if we make it that far onto Alderly and Southmoor! Slake your bloodlust and stoke the fires of your national Pride, land is what matters above all else, with courage in your hearts and our loyal neighbours beside us we will be victorious.
+> >
+> > General Will Talbot of the Drakes
+
+When the castle gates are breached, the fighting is bitter and fierce. The orc garrison gives not one inch of ground until it has been watered profusely with orc and human blood. They fight to provide time for the thralls and the orc warbands alike to withdraw west toward Hillstop, and the fortified town of Sarcombe. In the end, the fort is gutted - ruined walls around a shattered and broken keep. Almost all the Jotun warriors are dead. Those who are taken alive spit in the faces of their captors. Under interrogation, they do not try to hide their contempt for the Imperials. They believe that the Empire has proved time and again that they are treacherous, honourless vermin no better than the Druj. They claim that no Jotun garrison will surrender, or withdraw - because they know the Empire is without mercy and will kill them as soon as they show any weakness. If their claims prove to be prophetic then the campaign in Southmoor is likely to be hard going.
+
+With the fortress fallen, Ore Hills follows quickly after. The momentum of the Imperial advance takes them into the Greensward once more. The ruins of Overton, the shattered and burnt walls of Orchard's Watch, are a mute reminder of the winter campaign and all that came with it. Some of the soldiers visit the ruins to lay tokens or look for remnants of fallen companions.
+
+North of the ruins, a massive grass-covered burial mound has been raised by the Jotun. Any fallen Imperial soldiers are likely interred there along with the Jotun who fell fighting them. Someone - perhaps surviving monks from the Abbey - has planted young apple trees at the crest. There is some talk of disinterring the mound, but the Marcher soldiers are adamant they be left to rest undisturbed. The soil may have been soured, but it is still the soil they died fighting for, whether they were Marchers or not.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Today. Today is the day thirty years in the waiting. Today, we look to our Courage to realise our Ambition. The land waits, but it need not wait any longer. Soldiers of the Strong reeds, today is the day that we take back what is ours. We WILL lead the way, and carry the day. For the Marches and for the Empire!.
+> >
+> > General Jack Flint of the Strong Reeds
+
+There is no fight left in the Greensward. It is quickly brought under Imperial control. A skeleton crew of orc thralls are captured at the Singing Caves, left behind as the Jotun retreated north and west. They seem lost, more than anything else, and raise no resistance as the Empire sweeps in and claims the mithril mine. There is no sign it has been worked this past season. The fields are largely fallow - the yeomen who might have worked them have already left. Some have gone south to Kahraman, passing beneath the walls of Fort Braydon. Some have gone east to Tassato, perhaps to join the Whittle folk in Mestra. Others have gone west with the Jotun, turning their backs on the Empire forever. The humans who remain are primarily monks and friars, tending to the dead, and seeking to offer some comfort to the ghosts that now haunt the Greensward.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We march to take the fort in the Ore Hills. Prepare pitch and ladders and bodkins - we will kill them by the bow before we crush them by the bill. From there, we will sweep the Jotun forces from the Greensward, then chase them out of Alderly. Let us force them from our lands, but remember that their unarmed thralls are the people of the Mourn - let them be unmolested..
+> >
+> > General Marius Woodville-Talbot of the Tusks
+
+The Imperial advance is steady and considered. Behind the front lines, field hospitals are set up. Here and there magicians and physicks alike already serve under the banner of the Silver Chalice - showing their allegiance even though the Order has not been formally founded yet. They put their magic in the service of preserving life, and not only the lives of the soldiers.
+
+The presence of the Imperial armies is not solely about driving the Jotun back. Some of the Imperial Orc soldiers are charged with helping to distribute Senatorial aid to the [orc](../../mixed/world/Orc.md) thralls who still remain in the liberated territories. Many of them baulk at the idea of relief efforts but the presence of those who agree - especially among the [Winter Sun](../../mixed/government/military/Winter_Sun.md) - seems to calm the orc thralls. Under the watchful, unreadable eyes of the Mournwold yeomen, those thralls prepared to accept Imperial aid receive food and other supplies. Where they are suspicious of human soldiers, even those of the Marches, they seem much quicker to accept the Imperial Orc soldiers. They are predisposed, after all, to obey the orders of orcs in armour with weapons.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We fight on in the Mourn. We salute the Mournwolders and the fallen. With the boon from spring let us show there is more to us than bloodshed. We reclaim the land and may the magic turn the earth and begin to mend the scars of war. We steadily push back the Jotun in our conquest of the Mourn.
+> >
+> > General Bloodcrow Morgur of the Winter Sun
+
+At the same time, Marcher soldiers assist the civil service in the distribution of grain, preserved food and drink, and seeds from the [Imperial Breadbasket](../nations/the-marches/The_Marches_economic_interests.md#granaries-and-storehouses---the-imperial-breadbasket) to the people of the Mournwold, regardless of species. The food is gratefully received by the liberated Marchers. These people are not starving but the Jotun were in the habit of taking the lions share of their thrall's harvest as a tax to support their armies. Now for the first time in many years, they will face the harvest without worry and be able to live well on the fruits that it brings. The seed - and the promise for the future it represents - lifts their hope.
+
+Not that the Imperial advance is universally celebrated. While the Marcher armies are given a cordial reception, for the most part, the [Golden Axe](../../mixed/government/military/Golden_Axe.md), Winter Sun, and [Summer Storm](../../mixed/government/military/Summer_Storm.md) receive a frostier welcome. The situation is tense; if there is one characteristic Mournwolders share with the Marchers of the north it is the ability to hold a grudge. There are plenty of people glad to be free of the Jotun yoke, but many who see the presence of the Imperial troops as a new yoke being prepared for their necks.
+
+The situation is clearly not improved when word comes of [the announcement by Heilyn Bronwen's Rest](../winds-of-fortune/Proud_to_serve.md), the [Imperial Warmage](../../mixed/titles/Warmage.md). The Jotun are gone for now - but the view of many is that they will be back. Knowing that further deadly curses of death and disease will be thrown at them by Imperial magicians when the Jotun return, does nothing to reassure them that the Empire has their best interests at heart.
+
+The orcs and the yeomen are not the only force in the Marches, however.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We travel to the Mourn to put an end to this war with the Jotun. Bring this front to a close.
+> >
+> > General Irontide Skar of the Summer Storm
+
+With Ore Hills and the Greensward conquered, the Imperial army turns the brunt of its attention to the north-west, to Alderly. The Empire has made slow progress in the face of stiff resistance from the [feni](../nations/the-marches/Feni.md) that dwell there. Oh, not in the form of armies, but in the shape of lighting raids from the dark, and stealthy sabotage. The depths of the woods are barred to the Imperial forces - simply too dense, too overgrown, too wound around with traps and ambushes and Night magic to permit an army to forge through. There is some suggestion of simply burning the woods, but the consensus is that that is a discussion for another time to be made by generals and senators, not honest soldiers.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Thorns, you are mighty and have time and time again thwarted the Jotun forces against you. And we shall do it again. We shall slip out right between the teeth of the iron trap that they have tried to capture us in and we will rejoin the Empire forces in the Mourn to reclaim the land that they have stolen, one more step for us to reclaim our home and to stop the vallorn that stirs.
+> >
+> > General Eira Pridestalker of the Black Thorns
+
+A welcome surprise comes in the form of the [Black Thorns](../../mixed/government/military/Black_Thorns.md). They emerge from the darkness of Liathaven without warning - thousands of Navarr simply seeming to coalesce from the shadowed woodlands. They are ... hard to see in the twilight of Alderly. In direct sunlight, they can be seen easily. Out of direct light, it becomes difficult to keep track of them, as if they become inconsistent in their location. Powerful [Night magic](../../out-of-character/rules/Night_magic.md) has rendered them inconstant and obfuscated in some way. They bring news of an umbral march through Liathaven, wrapped in living shadows, evading the ring of death that surrounded them and flowing across the woodlands in spite of orc attempts to pin them down, to stop them.
+
+They catch the Jotun forces still in Alderly completely by surprise, catch them retreating ahead of the Imperial advance. Their orderly retreat quickly becomes a rout and the Navarr remind everyone of how they deal with the enemies of the Empire. Few survive to escape to Greenmarch.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > General Nikolai has once again called on the forces of the Golden Axes, to take another step in the Mournwold, to show Loyalty to our allies of the Marches, an all out assault on the fortress in the Ore Hills, then continue to support the Marches conquest, into Greenwold, Alderly and Southmore. Now is the time to Fight with Pride, and show our enemies no fear in the ranks of the Golden Axes and to finish our fight here in the Mournwold.
+> >
+> > General Nikolai Zakharovic Prochnost of the Army of the Golden Axe
+
+In the end, the Empire conquers the land around the woods, sending a few well-armed patrols into the eaves to ensure those scattered villages of insular Mournwolders who dwell under the trees are aware that the Jotun have gone. The woodsfolk greet the message with cool equanimity - they seem largely unconcerned. Some of the Marcher soldiers emerge from the shadows shaking their heads. There is some question whether the folk of Alderly are even slightly Marcher anymore, or whether they are something else entirely. But regardless, they are Mournwolders.
+
+They are not even close to the most peculiar beings in the Mourn this season. The Winter Sun are accompanied by a cadre of quiet little beings with twisted bodies and soft voices, servants of the eternal [Llofir](../eternals/Llofir.md). Wherever the Winter Sun fight, the little heralds ensure that the bodies of the fallen are carefully buried in the soil of the Mournwold. They become quite agitated if anyone attempts to interfere with them, breathily citing the orc General as having given them permission to ensure the dead do not linger.
+
+Everywhere there are signs of the Jotun occupation that makes their absence all the more obvious. They have retreated west, to Southmoor and Greenmarch, and into Liathaven. Their retreat is slow because they move at the pace of the thralls who travel with them - orcs and humans who will not bow their head to an Empire many of them have never known. With the Tribute fallen, the centre of the Jotun forces becomes the castle of Hillstop.
+
+With Alderly secure, Imperial attention turns back to Southmoor. Initial probing attacks make some progress but soon confirm that the Jotun have focused their remaining forces at Hillstop. There is no indication the Jotun will give up the castle without a fight - they have shown no interest in parley. The Empire has made it clear they will show no mercy - so the orcs must know it can end only one way. The same way the fight for Ore Hills ended. Thousands of dead orcs, and another mute ruin standing vigil over the desolate hills of the Mourn.
+
+### Game Information - Mournwold
+
+The Empire has liberated three more regions of the Mournwold. Only Green March and Southmoor remain under Jotun control, and the Empire has made some progress in Southmoor. They may have gained even more land if not for the lingering effects of the advantage the Jotun gained during the Spring Equinox - effects that have now faded completely.
+
+The liberated regions are relatively quiet for now, and appear to have at least tentatively reached an accord with the Marcher soldiers there, but there is still anti-Imperial sentiment among many. The Black Thorns, Golden Axe, Winter Sun, and Summer Storm are not entirely welcome. Further details of this situation will be discussed in Winds of Fortune before the start of the Autumn Equinox.
+
+As such, the Empire now controls the Mournwold again. Any [senator](../../mixed/titles/Senator.md) can raise a [motion of assignment](../../mixed/government/senate/Powers_of_the_Imperial_Senate.md#assignment) to declare the Mournwold to be part of any Imperial nation. While there is a great deal of expectation that the Mournwold will be declared a Marcher territory, there is no legal requirement for them to do so - or even to immediately assign the territory at all. If they do so before Saturday evening, however, the civil service will arrange the election of a Senator for the Mournwold in the appropriate nation. The seat is traditionally elected in Spring, so any senator raised this season will serve a shortened term.
+
+In addition, the Empire has once again liberated the Singing Caves. It can be [allocated](../../mixed/government/senate/Powers_of_the_Imperial_Senate.md#allocation) by the [Senate](../../mixed/government/senate/Senate.md) as either an Imperial or National title. If it is made Imperial, it will be auctioned during the Winter Solstice for a three-season term; if it is made National it will likewise be appointed by the appropriate nation for a short term. As with all other mithril seats, the Singing Caves will be auctioned or appointed again in Autumn.
+
+A word of caution - the Jotun still control Green March and Southmoor. While they would have to conquer two regions to take the territory again, if they did so any new senator would immediately be unseated.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Thorns, we march to Tassato and thence to Kahraman, the north from Serra Damata to Beacon's Point. While the Jotun chase the tail of the Black Thorns in the north, we will make a steady advance in the south, clearing their watchposts and supply lines as we do.
+> >
+> > General Brennos Brackensong of the Quiet Step
+
+## Walk (Liathaven)
+
+The Summer Solstice ends with the Black Thorns surrounded by the might of the Jotun in [West Ranging](../nations/navarr/Liathaven.md#west-ranging). Thanks to the courageous actions of the Imperial heroes during the Solstice, the worst of the Jotun wrath was averted for a few days. A few vital days... Thousands of Navarr lives were saved, and a handful of hours gained during which the magicians of Varushka were able to weave a potent shroud over the army. Wrapped in a mysterious caul of [Night magic](../../out-of-character/rules/Night_magic.md), the entire army is hidden from the eyes of the Jotun.
+
+During the day, black ravens with amber eyes fly above them. At night, black owls roost in the trees around their camp. And when they must fight, black crows feast upon the fallen.
+
+When the Navarr move through the shadowed places beneath the trees of Liathaven, they do so as smoke and shadow. The gaze of their enemies is diverted, turned aside by trickery and coincidence. When they are stationary, thick mists and unnatural shadows guard their camp - their fires burn with peculiar dark flames that provide heat but little light. Jotun patrols are subtly misled, away from their location. When an unfortunate Jotun scouting party gets too close, they flounder in an eerie gloom through which the Navarr can see easily ... and the orc scouts die, silently.
+
+Taking advantage of this power, the Black Thorns slip out of the orc noose, and flee eastward through [Liath's Ring](../nations/navarr/Liathaven.md#liaths-ring) and [Liaven's Glen](../nations/navarr/Liathaven.md#liavens-glen), and thence into the Mournwold.When they reach Alderly, the enchantment starts to fray ... but it lasts long enough for them to take the Jotun there entirely by surprise.
+
+The shroud is not perfect - but it does not need to be. The Jotun manage to intercept some unfortunate soldiers, but the majority are able to avoid the ring of steel that threatened to destroy the entire army, and make it safely to the Mournwold.
+
+As the Black Thorns are leaving northern Liathaven, the [Quiet Step](../../mixed/government/military/Quiet_Step.md) is entering Beacon Point. The other Navarr army has marched down through Tassato, through Kahraman, and into the southern forests. They press forward carefully, steadily, wiping out any Jotun camp they encounter. More importantly, they are able to send their scouts north to harry the Jotun. Some risk the Paths of Lan Thuven, others gird themselves for war and slip through the terrible paths consumed by the vallorn. A handful here, a handful there - nothing approaching a full army - but they harass the Jotun supply lines in the north. They trick the Jotun, who must imagine that the Black Thorns have somehow found a way to hide in Liathaven from them.
+
+There is little reliable intelligence from the north, but the scouts who return safely are certain that the Jotun are chasing their own tails - jumping at shadows. They will get little rest this season, and it takes them the better part of six weeks to work out exactly what is going on. The Jotun must know the Quiet Step are in the south now, but there is little they can do about it until after the Autumn Equinox.
+
+For their part, the Quiet Step have made some gains in southern Liathaven - they are perhaps a fifth of the way towards liberating Beacon Point from the Jotun.
+
+### Game Information - Liathaven
+
+As detailed [earlier](381YE_Autumn_Equinox_winds_of_war.md#times-like-these-28mournwold29), the Black Thorns have successfully escaped Liathaven and engaged in the Mournwold.
+
+The Quiet Step have made small gains in Beacon Point, in southern Liathaven. As it currently stands, the Jotun are in northern Liathaven and no direct engagement between the Navarr and the orcs has taken place so far.
+
+## Summer's End (Semmerholm)
+
+A week after the Summer Solstice, the Druj invade [Semmerholm](../nations/dawn/Semmerholm.md). They come across the border into the wild woods of [Axmure](../nations/dawn/Semmerholm.md#axmure) under the cover of darkness. Several of the secluded manor houses there have already fallen to the orcs before a few survivors manage to escape and raise the alarm. A week later, the main body of the Druj march up the Drycastle road, pushing north and east toward the Gate.
+
+While the secluded manors fall quickly, it is the manors nearer the road that perhaps meet a more ironic fate. Many had given succour to refugees from the Barrens - only to find that following close on the heels of those refugees were the Druj themselves. Some who had escaped the fall of Dawnguard are caught by the Druj, as if fate itself had marked them for death.
+
+As in Dawnguard, the Druj do not seem to be going out of their way to slaughter the Dawnish who fall into their hands - unless they try and fight back in which case they are mercilessly dispatched. Many do try to fight back - but the scattered and disorganised nature of the noble houses of Axmure works against them. Banners are raised bearing the golden boar's head of House Rylas and the white tree of House de Lusignan, but they are utterly outnumbered by the Druj invaders. Only the locations of their manor houses deep in the wild woods provides any real protection from the orc armies, and they are soon forced to fall back.
+
+Axmure is effectively conquered in less than a month. Those manors and villages too stubborn to flee soon fall to the orcs. Those who do flee head along the road toward the Gate, toward Holberg ... with the Druj hot on their heels.
+
+The Druj do not pause - while some of their forces are consolidating their control of the southern woodlands, the bulk press into [Estmure](../nations/dawn/Semmerholm.md#estmure). There they encounter their first serious resistance - the garrison of the Gate. Supported by a single unit of men-at-arms belonging to House Cordraco, a scattering of Imperial Orcs still living in Estcastle, and a poorly organised yeoman militia raised to try and keep the orcs at bay. The militia is quickly dispatched, their agonised screams persisting over several nights before they finally, mercifully, fall silent.
+
+For the most part, the Druj are not especially cautious - but neither do they charge recklessly at the walls. Many of their weapons are envenomed with lethal poisons, and they also make use of herbal preparations to grant strength and vigour to the warriors who assault the walls. They largely ignore the manors of Estmure, for the most part focusing all their attention on the fortification.
+
+As the main force besieges the castle, raiders spread out across Semmerholm, attacking indiscriminately, sowing terror and confusion wherever they can. There are reports of Druj guerrillas as far west as Rucastle, and in the vicinity of Semmer's Rose in the north. Fear grips some of the yeofolk - made worse by the stories brought out of Dawnguard by the fleeing survivors. An Imperial orc trader is lynched in a small village near the Semmerstones, mistaken for a Druj spy. While the miscreants are immediately arrested, the woman is still dead.
+
+Like the people of Dawnguard before them, the folk of Semmerholm do their best to resist the Druj advance. The noble houses begin to rally their colours - the emerald and silver of House Devereux; the orange, gold and white of House Ossienne; the green, sable, and argent of House Tamerlaine; the green, gold, and-silver, and the red and black, of the Axmure houses. Despite their best efforts, they are scattered to be effective - although raiding parties can be turned aside or defeated, they cannot quell the irresistible force of the Druj armies.
+
+The Gate holds against the Druj for a week, then a month... hope begins to rise that it will stand long enough for the Empire to arrange a response... only to be dashed. A fortnight before the Autumn Equinox the gates are finally breached. There are confused reports of a crippling poison introduced into the well of the keep under cover of darkness - and very reliable reports that the Druj butcher every soldier who does not flee, even those who in their desperation try to surrender. They hang the bodies on the walls and along the road just as they did at the Towers of the Dawn. The head of the garrison commander is mounted on the flagpole atop the central keep, and the ruined castle set alight by the victorious orcs.
+
+Again, it seems that the Druj expected more resistance - their initial approach is much more considered than in the Barrens. While they have destroyed the Gate, and conquered Axmure, the ruins of the Gate represent the sum-total of the land they have conquered in Estmure. The fortification may have fallen, but it occupied Druj attention and forced them to deal with it - now they are free to turn their attention to the undefended settlements in the west. If nothing else changes, it is likely that both rugged Estmure and wealthy Lacuve will fall to the orcs in the coming seasons - assuming the Empire is lucky and they do not conquer even *more* territory.
+
+### Game Information
+
+With no significant military forces remaining in Semmerholm, information is confused. It is certain that the Gate has been destroyed - it is not in Druj hands but has been reduced to a ruin like the Towers of the Dawn before it. The Druj control Axmure but they have not made much progress in Estmure. Having removed all significant opposition, however, nothing now stands between them and the capture of the entire territory.
+
+Coming on the heels of the loss of Dawnguard, there is some concern about how much more land Dawn can afford to lose before it is no longer able to support all four of its armies. Gerard la Salle is expected to be able to discuss this matter with the military council at the upcoming summit. It is not clear whether he will have good or bad news.
+
+Worse, should they manage to conquer the whole of Estmure they will effectively cut the entire territory of [Holberg](../nations/the-league/Holberg.md) off from the Empire. While it may be possible to supply the city by ship via the Semmerlak, it is not clear how Holberg will fare in this state. It is also not clear what the effect is likely to be on the populace - even during the occupation by the Druj the city itself remained well supplied by merchant caravans passing through the Gate from Semmerholm. The actual passes through to the city are well fortified by the Walls of Holberg - the Druj cannot get from Estmure or Axmure into Holberg without going through the fortification there or risking the dangerous mountains between Axmure and Holmauer.
+
+### Participation
+
+The Druj have conquered Axmure, and captured or destroyed several noble houses and village. If you are roleplaying that you are based in Axmure you may assume that your holdings are far enough out of the way as to have avoided the attention of the orcs - for now. There is no penalty to production until the barbarians conquer the territory, for example. You should be aware that this situation can change - should the Druj turn their attention to rooting out the last remaining free Dawnish houses and villagers.
+
+You may alternately roleplay that your holding has been destroyed and you have fled elsewhere in Semmerholm - you do not need to contact Profound Decisions unless you want to change to a different level one resource in which case the usual 2 crown transfer fee applies. Should you wish to abandon the territory entirely, however, you may email plot@profounddecisions.co.uk and we will allow you to take a level one resource in another territory without the usual transfer fee.
+
+## Major Conjunctions
+
+The civil service has identified three [major conjunctions](../world/Sentinel_Gate.md#major-conjunctions) of the [Sentinel Gate](../world/Sentinel_Gate.md) that are expected to be available during the coming summit.
+
+There are two conjunctions on Saturday. One opens to [Sandling](../nations/dawn/Weirwater.md#sandling) in [Weirwater](../nations/dawn/Weirwater.md), close to the shores of [the Semmerlak](../nations/varushka/The_Semmerlak.md). The other opens to in northern [Proceris](../nations/urizen/Zenith.md#proceris) not far from the border with [Morrow](../nations/urizen/Morrow.md).
+
+The Weirwater conjunction presents an opportunity to strike against the army of husks that are being [driven east](381YE_Autumn_Equinox_winds_of_war.md#cold-day-in-the-sun-28weirwater29) by the Golden Sun. The Proceris conjunction presents an opportunity to engage [Druj](../barbarians/Druj.md) forces there, most likely the Black Wind army. As always, the Empire can only take advantage of one of these opportunities, and the decision is in the hands of the Imperial Military Council.
+
+There is a single conjunction on Sunday. This will open close to the mountain pass of Crow Road that connects [Cinion](../nations/the-league/Spiral.md#cinion) in [Spiral](../nations/the-league/Spiral.md) to [Willstone](../nations/urizen/Redoubt.md#willstone) in [Redoubt](../nations/urizen/Redoubt.md). This offers an opportunity to intercept a [Grendel](../barbarians/Grendel.md) force that has flanked the Imperial forces in Spiral.
+
+In addition to the major conjunctions, the civil service has also identified a more traditional conjunction that would allow a large force of Imperial heroes to pass through the Sentinel Gate to [Southmoor](../nations/the-marches/Mournwold.md#southmoor), in the [Mournwold](../nations/the-marches/Mournwold.md), close to the [Jotun](../barbarians/Jotun.md) fortress of Hillstop. (**OOC:** A skirmish against the Jotun).
+
+By the time of the Autumn Equinox summit, the civil service will have completed reports for each of these conjunctions, which will be presented to the [generals](../../mixed/titles/General.md) during the [Muster](../../mixed/government/military/Muster.md). The final decision about which major conjunctions to exploit, and who will take part in the battles, is the heavy responsibility of the generals alone.
+
+---
+
+Categories: [Recent History](../../indexes/by-category/Recent_History.md), [381YE Autumn](../../indexes/by-category/381YE_Autumn.md), [Military Council](../../indexes/by-category/Military_Council.md), [Winds of War](../../indexes/by-category/Winds_of_War.md)

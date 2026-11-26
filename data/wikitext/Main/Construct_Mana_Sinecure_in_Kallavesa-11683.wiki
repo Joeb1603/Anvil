@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Spring]]
+__NOTOC__
+<quote by="Proposed: Hahnmark, Seconded: Bregasland">This house should remain mindful of its duty to support the prosperity of hard-working citizens of this Empire. Small halls who have banded together to gather resources, yet tried and failed to afford a wayleaf should not be abandoned.</quote>
+==Overview==
+* Constructs a [[sinecure]] that produces mana crystals in [[Kallavesa]]
+* Passed
+==Date==
+* Spring 386YE
+==Cost==
+* Standard costs apply
+* 10 mithril
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Boughs_of_Blood_and_Salt}}
+==Outcome==
+* Now complete, the title of [[Remembrancer of Blood and Salt]] will be appointed by unanimous decision of the senators of Wintermark for the first time at the Summer Solstice 387YE

@@ -1,0 +1,8 @@
+[[Category:Magic]]
+==Overview==
+This table lists all the [[Day magic]] [[rituals]] that are part of [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]]. 
+{{RitualTable|Day}}
+
+This table lists all the [[Day magic]] [[rituals]] that are part of [[Urizen_magical_traditions#Urizen_Lore|Urizen lore]]
+{{UrizenRitualTable|UrizenDay}}
+{{pdf}}

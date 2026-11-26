@@ -1,0 +1,1 @@
+style="float: right; margin-left: 10px; max-width: {{{max-width|500}}}px; min-width: {{{min-width|350}}}px; clear: right;"

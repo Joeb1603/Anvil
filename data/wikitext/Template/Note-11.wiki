@@ -1,0 +1,22 @@
+{{#if: {{{1|}}}|<div class="block-note"><span class="block-contents">|<i class="icon-info-sign"></i>}} '''Note:''' {{#if: {{{1|}}}|{{{1}}}</span></div>}}<noinclude>
+
+== Usage ==
+
+=== Method 1 ===
+
+The following displays the note icon and the word 'Note:'.  You can follow this with whatever text/images/markup you like, and it works in-line, within a paragraph.
+ Monsters are green. <nowiki>{{note}}</nowiki> this is an in-line note, to remind you that some monsters are orangey-purple.
+
+Monsters are green. {{note}} this is an in-line note, to remind you that some monsters are orangey-purple.
+
+=== Method 2 ===
+The following includes the text passed to the template, and uses a table to stop the text flowing round the icon.  These always force a newline before and after the note.
+
+ <nowiki>{{note|Here is a long note, which is sufficiently wordy to run onto a second line, 
+ which would normally cause it to wrap round the icon, but because we passed it as a parameter 
+ it keeps its left alignment straight.}}</nowiki> 
+
+{{note|Here is a long note, which is sufficiently wordy to run onto a second line, which would normally cause it to wrap round the icon, but because we passed it as a parameter it keeps its left alignment straight.}}
+
+[[Category:Templates|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,197 @@
+[[Category:Senate]][[Category:Appraisal]]
+==Overview==
+The Imperial civil service support [[the Throne]] and all arms of the Imperial government, providing detailed reports for consideration by the Empire's leaders every summit. For the most part these reports entail detailed assessments of the latest developments in the Empire, outlining what is known about the situation, what options might exist, and what the implications of those options are. The bulk of these reports are reactionary - the civil servants responding to current events as they are developed between summits.
+
+However, during periods where civil service capacity to produce effective summaries is demonstrably greater than is needed to keep pace with current events, they place this additional capacity at the disposal of the Senate. Doing so allows the Senate to pass a motion of appraisal, instructing the civil service to investigate a specific area to see what opportunities if any exist for the Empire to take action.
+
+During the Winter Solstice 384YE, the Imperial Senate took advantage of an [[opportunity]] offered by the [[Watches from the Wall|consecration of the walls of Holberg]] to restructure the [[Historical research#The Department of Historical Research|Department of Historical Research]], encouraging some of the civil servants there to join the Prognosticators' Office. As such, the Senate can now commission ''two'' appraisals each season.
+
+==Commission an Appraisal==
+The power to direct the civil servants lies with the Imperial Senate. At present this must be employed by use of a [[senate motion]], although in theory there is no reason that the Senate could not delegate this authority to an Imperial title - such as [[the Throne]] - or to another house entirely if they chose. Any Imperial title that was endowed with the ability to instruct the civil service would need to make an appropriate announcement in the Senate each time the power was used.
+
+Regardless of how the power is employed, the thrust of the research should be clear. The purpose of an appraisal is to investigate a specific subject, with a view to identifying what [[opportunity|opportunities]] exist to influence the situation. It does not matter how broad the scope is, it is possible to commission broad research into a significant topic such as "fortifying the borders of the Empire" or into something very specific such as "Uses for the ruined Runeforge in Gildenheim". Provided that the wording of the motion clearly identifies a known problem or a current situation the Imperial civil service will be able to provide some insight.
+
+An appraisal is very different to [[historical research]]. Historical research unearths information on past events, so that the leaders of the Empire can be better informed about matters of history. An appraisal must be focused on current events - the civil servants who carry out an appraisal work for the Prognosticators Office, they are mathematicians, diviners, actuaries, and logisticians, ''not'' historians. Their focus is to identify options that exist today - not lost records of the past.
+{{CaptionedImage|file=ImperialOffices.jpg|align=right|width=600}}
+==Capacity==
+At present, the Imperial civil service have sufficient resources to support  '''two appraisals''' each season. If more than two are passed by the Senate, subsequent motions will be ignored unless they include explicit instruction to abrogate all earlier motions of appraisal.
+
+Prior to the [[Bloody_murder|murderous events of 379YE]], the civil service were unable to support any instructions to carry out an appraisal but some experienced researchers chose to leave the [[Historical_research#The_Department_of_Historical_Research|department of Historical Research]] for their own safety. Those with the inclination and ability joined the Prognosticators Office, significantly improving their capacity. This situation may change unexpectedly - many of these individuals are due to retire soon - but for now the capacity of the office has been increased, allowing it to carry out a single appraisal instructed by the Imperial Senate each season.
+
+==Necessary Details==
+There are no [[Motion_wording#Necessary_Details|necessary details]] with an appraisal; the civil service will only look at the actual wording of the motion as presented to the Senate.
+
+The senate motion may specify which member of the civil service will lead the appraisal, but this ''must'' be explicitly included in the wording of the motion.
+
+==The Results of the Appraisal==
+The civil service will produce a detailed report outlining every opportunity that has been identified during the course of the appraisal. This will be widely published alongside the normal reports in the weeks immediately preceding the summit to allow those planning to attend the summit to consider the matter carefully. The report will be complete, which is to say that it will identify all options that exist currently; unless the report explicitly indicates otherwise it should be understood to cover every option available. There is no benefit in instructing the civil service to carry out the same appraisal unless the extenuating circumstances have substantially altered in the meantime.
+
+The appraisal should be understood to apply ''only'' to the location and scenario laid out in the report. Unless otherwise noted, options that may exist to address the problem are not applicable elsewhere. An appraisal which identifies an opportunity to build a navy in Meade, is specific to a navy in Meade - it does not apply to Sarvos or any other location. Nor does it apply to an army or a fortification. Any options that exist to vary what can be achieved will be explicitly laid out in the report.
+
+If the appraisal identifies any opportunities which are time-limited, that is they are only valid if carried out within a limited time-frame, then this will be made clear in the report.
+{{CaptionedImage|file=Knowledgeable Citizen.jpg|align=left|width=400}}
+
+==The Prognosticators Office==
+The Prognosticators Office is ultimately overseen by the Imperial Auditor, Gerard La Salle, who is a member of the Constitutional Court. He is known to be a meticulous individual, who despises waste and inefficiency, but there is no other individual alive with a better grasp of the options available to the Empire. The day to day running of the office defaults to the most senior scholars, each of which in turn directs the remaining researchers, magicians, and bookkeepers.
+
+As of the Winter Solstice 384YE, there are four senior researchers in the department. Each is a veteran civil servant and respected scholar with a particular emphasis. The Senate may choose which civil servant will be the lead on the appraisal by including the name of the researcher in the Senate motion (along with the name of a backup researcher if the first is already employed elsewhere, if desired). Everyone from the department will work on the appraisal, but the character of the lead civil servant appointed will help to shape the nature of the opportunities. If no individual is directed to lead the research, Gerard La Salle will select whichever researcher he considers most appropriate to do the work. In the event that two appraisals both call for the same civil servant, the first raised and passed will take priority. If the second motion does not also propose an alternative researcher, Gerard La Salle will pick.
+
+Towards the end of 387YE, the Prognosticator's Office began to encounter problems responding to Senate requests. Partly this was a result of the sabbatical of Eilian Sweetwater (and his subsequent disappearance while exploring a lighthouse in [[Redoubt]] during what turned out to be a surprise [[Grendel]] invasion) and commissions taking longer than anticipated. Gerard La Salle requested support from the Senate to [[Forever_is_composed_of_nows#The_La_Salle_Stratagem|recruit additional staff]] for the Office, not only to increase the ability to perform appraisals but also to increase the pool of talents available. The Senate [[387YE_Winter_Solstice_Senate_sessions#Hire_Prognosticators|approved the required funds]] allowing the Office to permanently recruit [[#Lisane de Terresford|Lisane de Terresford]], [[#Rosemary Stockland|Rosemary Stockland]], and [[#Vainakoma Dawnstongue|Vainakoma Dawnstongue]].
+
+===Available Prognosticators===
+{{CaptionedImage|file=NBBrassCoast.jpg|align=right|width=175}}
+====Graciana i Lòpez i Guerra====
+* '''Graciana is an ideal prognosticator to look for ambitious outside-the-box solutions to complex problems'''
+* '''She is unconcerned about the costs involved in enacting her novel proposals'''
+Graciana is known for her unusual techniques and novel approaches to any problem. She is a skilled night mage, one of few who work in the prognosticators office, she is known to value imagination over industry in those who work for her. She came late to her calling, in her early days she was a wealthy merchant and corsair; she has travelled widely and spent years living abroad. When she finally returned home, she chose to join the civil service, determined to place the benefits of her wide-ranging experience at the disposal of those who lead the Empire.
+
+If the Senate instructs Graciana to carry out an appraisal then the work will be focused on seeking novel or unusual solutions to the problem. But work by Graciana will usually produce ways to tackle a problem that are as innovative as they are unorthodox. Such options are ''never'' cheap, tried and tested techniques are invariably cheaper than new ideas because of the accrued expertise that supports them, but the costs will take a completely different form to the normal channels.
+{{CaptionedImage|file=NBHighguard.jpg|align=right|width=175}}
+====Naomi of Virtue's Rest====
+* '''Naomi is an ideal prognosticator to look for diplomatic solutions to problems'''
+* '''She seeks the best results for the Empire's citizens, and is unconcerned by matters of cost or efficiency'''
+Naomi is the youngest of the lead scholars in the office. A diminutive woman with an endearing smile and an engaging personality, she is known for her charm; a quality she brings to her work. The eldest of five sisters, she joined the office at an early age, driven by a desire to help the Empire achieve the best possible results for its citizens. Though she is no great scholar of the Way she is a trained priest, skilled with all the religious rites that use liao. 
+
+If the Senate instructs Naomi to carry out an appraisal then the work will be focused on finding the most diplomatic possible solution. Naomi is adroit at identifying options that are best placed to satisfy the concerns of the people affected. The risk of such an approach is that it concentrates on the best possible solution to a problem rather than the cheapest or the most efficient.
+====Lutomysla Niegoslava====
+{{CaptionedImage|file=NightRune.jpg|align=right|width=175}}
+* '''Lutomysla is an ideal prognosticator to look for practical magical solutions to problems'''
+* '''She is unconcerned with the potential side effects of the solutions she offers'''
+Lutomysla is an experienced [[cabalists|cabalist]] from [[Karov]] who sees magic as the most effective tool to address complex situations. They served for a time as [[Archmage of Night]] during the reign of [[Emperor Hugh]], and after stepping down from the title joined the Civil Service as an aide to the [[Conclave]]. Unlike their predecessor and fellow [[Varushka|Varushkan]] [[#Mladen Escovitch|Mladen]], Lutomysla is unlikely to be concerned about efficiency or parsimony. Rather, they are interested in identifying practical magical solutions to problems - with only cursory attention paid to any additional side effects of their proposals.
+
+If the Senate instructs Lutomysla to carry out an appraisal then the work will focus on magical solutions. They are not interested solely with ritual magic; as a cabalist they are practiced at dealing with powers such as eternals or even sovereigns and have made an extensive study of esoteric magics such as [[hearth magic]], peculiar [[regio]], [[astronomancy|astronomantic]] [[Astronomancy#Tulpas|tulpas]] and even more obscure occult topics.
+{{CaptionedImage|file=Assembly Wisdom.png|align=right|width=175}}
+====Lisane de Terresford====
+* '''Lisane is an ideal prognosticator to look for virtuous solutions to problems'''
+* '''She will not pursue avenues she considers to be fundamentally unvirtuous'''
+The Terres is a narrow river that runs through [[Semmerholm]], and House Terresford is a relatively minor [[noble house]] that looks after the ford. They are not an especially old house - dating back to the time of [[Emperor Hugh]] - but they have a reputation among the yeofolk for being even-handed and loyal. ''Lisane de Terresford'' served for several decades as [[earl]] of the house, but when Gerard approached her she was in the process of retiring to embrace a new life of "keeping bees". 
+
+Before becoming earl, Lisane visited [[Anvil]] many times and was intimately involved with the doings of the [[Synod]]. She was known for her [[Wisdom]], and for her commitment to asking questions rather than taking easy answers. Gerard believes that she will add a much needed spiritual perspective to the business of the Prognosticators, being an ideal appraiser to look for specifically virtuous solutions to the problems the Senate raises. If she has a weakness it is that she will not pursue avenues she considers to be fundamentally unvirtuous, even if they might present an easier or cheaper opportunity.
+{{CaptionedImage|file=Cute and Cuddly Cows.png|width=175|align=right}}
+====Rosemary Stockland====
+* '''Rosemary is an ideal prognosticator to look for mercantile solutions to problems'''
+* '''She will pursue opportunities that involve trades in which all parties gain'''
+[[Upwold#Stockland|Stockland]] is a region of [[Upwold]] well known for its fair and for its sheep and cattle markets. For the last twenty years ''Rosemary Stockland'' has served as an [[The_Marches_economic_interests#Alder|alder]] of the town, maintaining the peace and dealing with arguments between merchants from many parts of the Empire. A former [[Bailiff of the Grand Market]], she is known for plain speaking, and cutting to the heart of any problem. She's also renowned for her patience - while she may not suffer fools gladly she still does her best to get to the bottom of what it is they are after. It's been three decades since she was last at Anvil, but reports say she still keeps an eye on the doings at the centre of the Empire, especially with regards to the Bourse. Indeed, she was heavily involved with the [[High hopes|cow bonds]] issued earlier this year, during Spring cattle drives, helping ensure that the scheme went off without any obvious hitches. 
+
+As a merchant, and more importantly perhaps a ''manager'' of merchants, she has contacts across the Empire. She's also interested in the idea of [[prosperity]] as a right of every Imperial citizen, and represents an excellent choice for any appraisal that focuses on improving the quality of life of Imperial citizens, establishing trade routes, or sorting out diplomatic snarls related to mercantile matters. If she has a weakness it is that solutions she provides are likely to be based on mercantile arrangements that reward all parties.
+{{CaptionedImage|file=GreenShields Colour.png|align=right|width=175}}
+====Vainakoma Dawnstongue====
+* '''Vainakoma is an ideal prognosticator to look for solutions to military problems'''
+* '''She will pursue opportunities that involve employing Imperial armies in novel ways'''
+A [[Suaq]] born and raised in [[Hahnmark]], Vainakoma cut her teeth as a soldier in the [[Green Shield]], serving with distinction through the reign of [[Emperor Walter]] and [[Empress Britta]]. She retired from active duty after the loss of the ''Young Empress''. Most recently she helped with the mustering and training of the [[Narwhal's Spear]], but ultimately declined to take up the military life again. La Salle describes her as a woman who is always looking for something to throw herself in to, and one who absolutely relishes a challenge. She combines the mind of an expert logistician with the instincts of a canny hunter.
+
+Vainakoma has a great deal of experience in the Imperial military and a deep familiarity with the unique talents of the Empire's armies. She would be an excellent choice for an appraisal that involved novel military problems or strategic challenges - but her solutions are likely to require the use of Imperial armies to achieve the goals.
+====Little Lantern====
+{{CaptionedImage|file=Little Lantern.png|align=right|width=175}}
+* '''Little Lantern is a herald of the Day eternal Roshanwe'''
+* '''It is unclear what problems the herald would be best suited for'''
+* '''Little Lantern will continue being available for as long as Roshanwe enjoys the amity of the Conclave'''
+A [[Inhabitants_of_the_realms#Heralds|herald]] of [[Roshanwe]], ''Little Lantern'' was [[To_seek_enlightenment#Question_the_Right_Finding|dispatched]] by the ''Navigator'' in response to the call of "her" assembly. ''Little Lantern'' may have knowledge and the means of acquiring it beyond the scope of the others. As a Day herald, they will definitely have their own eccentricities and perspective on what the important parts of the appraisal are, and an idiosyncratic way of reporting back to the Empire.
+
+During the Autumn Equinox 388YE, '''Gralka''', as the [[Archmage of Day]], raised a [[388YE_Autumn_Equinox_Conclave_sessions#Amity:_Roshanwe|Declaration of Alignment]] to grant Roshanwe the amity of the Conclave. In order for the disciple to have the access to the Empire required to help with such matters, Roshanwe will need to continue enjoying the amity of the Conclave. 
+
+The Conclave can use a Declaration of Acceptance to ask Roshanwe to withdraw their herald at any time, but they would need to word the declaration carefully if they wished to avoid distressing ''Elder Pharos''.
+
+===On Sabbatical===
+====Eilian Sweetwater====
+Eilian of Storm's Run Striding joined the prognosticator's office in 384YE following the Imperial Senate decision to [[384YE_Winter_Solstice_Senate_sessions#Retrain_Researchers|shift focus away]] from the [[Historical research]] toward appraisal.  A former researcher with the [[Historical research#Department of Historical Research|Department of Historical Research]], he is perhaps best known for his [[Terunael in Axos|in-depth report]] on the nation of [[Axos]] and its history with the ancient Terunael people. He heads up a small cadre of other former researchers, civil servants well versed in exploring archives, collecting information, and uncovering past events. He also maintains excellent relations with the remaining researchers at the Department, and with the Imperial Archivist.
+
+If the Senate instructs Eilian to carry out an appraisal then the work will be firmly grounded in the Empire's history. This might mean revisiting and reassessing historical proposals, building on past discoveries and theories, or finding inspiration in the stories and traditions of the ten nations. He's also a Navarr, and where history provides no guidance he will fall back on the most practical solution - although just like his colleague Graciana he recognises that "practical" sometimes means ''expensive''.
+
+In Summer 387YE, Eilian was [[387YE_Summer_Solstice_Senate_sessions#Grant_Sabbatical_to_Eilian_Sweetwater|granted a leave of absence]] by the Senate to pursue [[For those in peril on the sea|a surprise enthusiasm]] for the Empire's historical lighthouses. He immediately went missing when the lighthouse ruins he was exploring were overrun during the [[Grendel]] invasion of [[Redoubt]]. As of Winter 387YE, his wherabouts are unknown.
+
+==="Retired" Prognosticators===
+====Mladen Escovitch====
+Three decades ago, Mladen was one of the most brilliant [[schlacta]] of his age, a master of the two-handed axe he was not just a capable warrior but also a brilliant strategist. His ambitions were cut tragically short by the permanent loss of all mobility in his right arm to a Druj poison. Unable to fight, he rededicated his life to the prognosticator's art, rising steadily through the ranks of the civil service. He soon developed a reputation as a notorious stickler for economy, driven to examine every possible option, to find ways to save even a single ring. He [[A place on a map|retired]] shortly before the Spring Equinox 384YE, following a final appraisal - of opportunities to fortify the nation of Urizen. Prior to that his work was focused on identifying the most efficient way to resolve a problem. The options identified by an appraisal are rarely cheap - and they will usually make use of standard practices available to the Empire, but Mladen usually tried to do so in a way that would save the Empire valuable money or resources.
+<onlyinclude>
+
+==Previous Appraisals==
+<table class="wikitable">
+<tr><td>'''Appraisal'''</td><td>'''Date'''</td><td>'''Senate Decision'''</td><td>'''Civil Servant'''</td><td>'''Outcome'''</td></tr>
+
+
+<tr><td>[[388YE_Summer_Solstice_Senate_sessions#Appraise_Spreading_Way_to_Non-Wayist_Cultures|Spreading the Way to non-Wayist cultures]]</td><td>Summer 388YE</td><td>Passed</td><td>Naomi of Virtue's Rest assigned</td><td>[[Spreading the Way]]</td></tr>
+<tr><td>[[388YE_Summer_Solstice_Senate_sessions#Appraise_Suranni_Armies|Suranni Armies]]</td><td>Summer 388YE</td><td>Passed</td><td>Mladen Escovitch</td><td>Presented before the Winter Solstice 388YE</td></tr>
+<tr><td>[[388YE_Summer_Solstice_Senate_sessions#Appraise_the_Artisans_Guild|Consider the Artisans Guild]]</td><td>Summer 388YE</td><td>Announcement</td><td>Magistrate Abraham</td><td>[[Fair share of labour]]</td></tr>
+<tr><td>[[388YE_Summer_Solstice_Senate_sessions#Appraise_Imperial_Support_for_Beoraidh_Colosseum|Support for Beoraidh Colosseum]]</td><td>Summer 388YE</td><td>Failed</td><td>Rosemary Stockland</td><td>No appraisal</td></tr>
+<tr><td>[[388YE_Summer_Solstice_Senate_sessions#Appraise_Support_from_Ylenwe_to_Silver_Chalice|Ylewne support for Silver Chalice]]</td><td>Summer 388YE</td><td>Failed</td><td>None requested</td><td>No appraisal</td></tr>
+<tr><td>[[388YE_Spring_Equinox_Senate_sessions#Appraise_Interactions_with_Eternals|Sumaah Interactions with Eternals]]</td><td>Spring 388YE</td><td>Passed</td><td>Lisane de Terresford</td><td>[[Satraps of the Abyss]]</td></tr>
+<tr><td>[[388YE_Spring_Equinox_Senate_sessions#Appraise_the_Court_of_Far_Horizons|Consider Court of Far Horizons]]</td><td>Spring 388YE</td><td>Announcement</td><td>Magistrate Abraham</td><td>[[In the Court of Far Horizons]]</td></tr>
+<tr><td>[[388YE_Spring_Equinox_Senate_sessions#Appraise_Prosperity_of_River_Couros|Prosperity of River Couros]]</td><td>Spring 388YE</td><td>Announcement</td><td>Professor Immanuel Gelberg</td><td>[[Good as gold]]</td></tr>
+<tr><td>[[387YE_Winter_Solstice_Senate_sessions#Appraise_Prosperity_of_Volodmartz|Prosperity of Volodmartz]]</td><td>Winter 387YE</td><td>Passed</td><td>Graciana i Lopez i Guerra</td><td>[[Sunrise over Livardz]]</td></tr>
+<tr><td>[[387YE_Winter_Solstice_Senate_sessions#Appraise_Rebels_of_Nesustak_Forest|Rebels of Nesustak Forest]]</td><td>Winter 387YE</td><td>Passed</td><td>Naomi of Virtue's Rest</td><td>[[Your hand in mine]]</td></tr>
+<tr><td>[[387YE_Winter_Solstice_Senate_sessions#Appraise_Highborn-Commonwealth_Relations|Highborn-Commonwealth Relations]]</td><td>Winter 387YE</td><td>Announcement</td><td>Professor Immanuel Gelberg</td><td>[[Towards a common good]]</td></tr>
+<tr><td>[[387YE_Winter_Solstice_Senate_sessions#Appraise_the_Cat's_Graces|Consider Cat's Graces]]</td><td>Winter 387YE</td><td>Announcement</td><td>Magistrate Abraham</td><td>[[Arranging grace]]</td></tr>
+<tr><td>[[387YE_Autumn_Equinox_Senate_sessions#Appraise_Prosperity_of_Spiral|Prosperity of Spiral]]</td><td>Autumn 387YE</td><td>Passed</td><td>Naomi of Virtue's Rest</td><td>[[My friends are my estate]]</td></tr>
+<tr><td>[[387YE_Autumn_Equinox_Senate_sessions#Appraise_Expansion_of_Printer's_Guild|Expansion of Printer's Guild]]</td><td>Autumn 387YE</td><td>Announcement</td><td>Professor Immanuel Gelberg</td><td>[[The truth but tell it slant]]</td></tr>
+<tr><td>[[387YE_Autumn_Equinox_Senate_sessions#Appraise_Bridges_in_Brass_Coast|Bridges in the Brass Coast]]</td><td>Autumn 387YE</td><td>Passed</td><td>Lutomysla Niegoslava</td><td>[[Mermaids in the basement]]</td></tr>
+<tr><td>[[387YE_Autumn_Equinox_Senate_sessions#Appraise_Exploration_of_Tsirku|Exploration of Tsirku]]</td><td>Autumn 387YE</td><td>Withdrawn</td><td>Nobody requested</td><td>No appraisal</td></tr>
+<tr><td>[[387YE_Autumn_Equinox_Senate_sessions#Appraise_Society_of_Inspiration|Society of Inspiration]]</td><td>Autumn 387YE</td><td>Withdrawn</td><td>Nobody requested</td><td>No appraisal</td></tr>
+<tr><td>[[387YE_Summer_Solstice_Senate_sessions#Appraise_Ministries|Ministries]]</td><td>Summer 387YE</td><td>Passed</td><td>Graciana i Lòpez i Guerra assigned</td><td>[[The circle game]]</td></tr>
+<tr><td>[[387YE_Summer_Solstice_Senate_sessions#Appraise_Port_in_Utterlund|Port in Utterlund]]</td><td>Summer 387YE</td><td>Passed</td><td>Naomi of Virtue's Rest</td><td>[[Any port in a storm]]</td></tr>
+<tr><td>[[387YE_Summer_Solstice_Senate_sessions#Appraise_Food_and_Water_of_Holberg|Supplies of Holberg]]</td><td>Summer 387YE</td><td>Announcement</td><td>Professor Immanuel Gelberg</td><td>[[Threats that are to come]]</td></tr>
+<tr><td>[[387YE_Spring_Equinox_Senate_sessions#Appraise Building Lighthouses|Building lighthouses]]</td><td>Spring 387YE</td><td>Passed</td><td>Eilian Sweetwater</td><td>[[For those in peril on the sea]]</td></tr>
+<tr><td>[[387YE_Spring_Equinox_Senate_sessions#Appraise_Disruption_of_Druj_Resupply_in_Forest_of_Ulnak|Disrupting Druj resupply]]</td><td>Spring 387YE</td><td>Passed</td><td>Nobody requested; Mladen Escovitch assigned</td><td>[[Hope and fear]]</td></tr>
+<tr><td>[[387YE_Spring_Equinox_Senate_sessions#Appraise_Port_in_Utterlund|Port in Utterlund]]</td><td>Spring 387YE</td><td>Failed</td><td>Naomi of Virtue's Rest</td><td>No appraisal</td></tr>
+<tr><td>[[386YE_Winter_Solstice_Senate_sessions#Appraise_Destroying_the_Kongegőr|Destroying the Kongegőr]]</td><td>Winter 386YE</td><td>Passed</td><td>Graciana i Lòpez i Guerra</td><td>[[A bridge too far]]</td></tr>
+<tr><td>[[386YE_Winter_Solstice_Senate_sessions#Appraise_Displaced_Varushkans|Displaced Varushkans]]</td><td>Winter 386YE</td><td>Passed</td><td>Naomi of Virtue's Rest</td><td>[[Outside the wall]]</td></tr>
+<tr><td>[[386YE_Winter_Solstice_Senate_sessions#Appraise_Powers_of_the_State|Powers of the Senate]]</td><td>Winter 386YE</td><td>Failed</td><td>Nobody requested</td><td>No appraisal</td></tr>
+<tr><td>[[386YE_Autumn_Equinox_Senate_sessions#Appraise_interfering_with_Salt_Lord_relationships|Interfering with Salt Lord relationships]]</td><td>Autumn 386YE</td><td>Passed</td><td>Naomi of Virtue's Rest</td><td>[[Fake empire]]</td></tr>
+<tr><td>[[386YE_Autumn_Equinox_Senate_sessions#Appraise_Seed_Exchange|Seed Exchange]]</td><td>Autumn 386YE</td><td>Passed</td><td>Nobody requested; Graciana i Lòpez i Guerra assigned</td><td>[[Send for me]]</td></tr>
+<tr><td>[[386YE_Autumn_Equinox_Senate_sessions#Appraise_interfering_with_Mallum_supply|Interfere with Mallum supply]]</td><td>Autumn 386YE</td><td>Failed</td><td>Nobody requested</td><td>No appraisal commissioned</td></tr>
+<tr><td>[[386YE_Summer_Solstice_Senate_sessions#Appraise_Removing_Uncooperative_from_Mareave|Improve cooperation in Mareave]]</td><td>Summer 386YE</td><td>Passed</td><td>Eilian Sweetwater</td><td>[[Here to stay]]</td></tr>
+<tr><td>[[386YE_Summer_Solstice_Senate_sessions#Appraise_Peace_with_the_Jotun|Peace with the Jotun]]</td><td>Summer 386YE</td><td>Passed</td><td>Naomi of Virtue's Rest</td><td>[[A stone for a stone]]</td></tr>
+<tr><td>[[386YE_Summer_Solstice_Senate_sessions#Appraise_Armoury_of_Hercynia|Hercynian armoury]]</td><td>Summer 386YE</td><td>Failed</td><td>Eilian Sweetwater</td><td>No appraisal commissioned</td></tr>
+<tr><td>[[386YE_Spring_Equinox_Senate_sessions#Appraise_Dho'uala|Dho'uala]]</td><td>Spring 386YE</td><td>Passed</td><td>Lutomysla Niegoslava</td><td>[[Less welcome tenants]]</td></tr>
+<tr><td>[[386YE_Spring_Equinox_Senate_sessions#Appraise_Wealth of Sermersuaq|Wealth of Sermersuaq]]</td><td>Spring 386YE</td><td>Passed</td><td>Graciana i Lòpez i Guerra</td><td>[[Farm, fur, and fish]]</td></tr>
+<tr><td>[[385YE_Winter_Solstice_Senate_sessions#Appraise_Dry_Patricians|Dry Patricians]]</td><td>Winter 385YE</td><td>Passed</td><td>Lutomysla Niegoslava</td><td>[[Parched earth]]</td></tr>
+<tr><td>[[385YE_Winter_Solstice_Senate_sessions#Appraise_Fleets_in_the_Bay_of_Catazar|Fleets in the Bay of Catazar]]</td><td>Winter 385YE</td><td>Passed</td><td>Graciana i Lòpez i Guerra</td><td>[[An angry blade]]</td></tr>
+<tr><td>[[385YE_Autumn_Equinox_Senate_sessions#Appraise_Roads|Extending road networks]]</td><td>Autumn 385YE</td><td>Passed</td><td>Graciana i Lòpez i Guerra</td><td>[[Road out of nowhere]]</td></tr>
+<tr><td>[[385YE_Autumn_Equinox_Senate_sessions#Appraise_Spider.27s_Dream_Bridge|Spider's Dream Bridge]]</td><td>Autumn 385YE</td><td>Passed</td><td>Eilian Sweetwater</td><td>[[Dreaming in strands]]</td></tr>
+<tr><td>[[385YE_Summer_Solstice_Senate_sessions#Appraise_Raids_Defence|Defence against raiding]]</td><td>Summer 385YE</td><td>Passed</td><td>Nobody requested; Graciana i Lòpez i Guerra assigned</td><td>[[Restraint]]</td></tr>
+<tr><td>[[385YE_Summer_Solstice_Senate_sessions#Appraise_Urizen_in_Spiral|How the League can support Urizen in Spiral]]</td><td>Summer 385YE</td><td>Passed</td><td>Naomi of Virtue's Rest</td><td>[[A question of loyalty]]</td></tr>
+<tr><td>[[385YE_Summer_Solstice_Senate_sessions#Appraise_integration_of_septs_of_the_Barrens|Integration of Barrens septs]]</td><td>Summer 385YE</td><td>Failed</td><td>Naomi of Virtue's Rest</td><td>No appraisal commissioned</td></tr>
+<tr><td>[[385YE_Spring_Equinox_Senate_sessions#Appraise Naval Supply II|Naval Supply II]]</td><td>Spring 385YE</td><td>Failed</td><td>Lutomysla Niegoslava</td><td>No appraisal commissioned</td></tr>
+<tr><td>[[385YE_Spring_Equinox_Senate_sessions#Appraise Gardens of Pallas|Gardens of Pallas]]</td><td>Spring 385YE</td><td>Passed</td><td>Default to Lutomysla Niegoslava</td><td>[[Restoration and renewal]]</td></tr>
+<tr><td>[[385YE_Spring_Equinox_Senate_sessions#Appraise Improving Ossium|Improving Ossium]]</td><td>Spring 385YE</td><td>Passed</td><td>Nobody requested; a prognosticator will need to be assigned</td><td>[[Culling the threat]]</td></tr>
+<tr><td>[[385YE_Spring_Equinox_Senate_sessions#Appraise Naval Supply|Naval Supply]]</td><td>Spring 385YE</td><td>Failed</td><td>Graciana i Lopez i Guerra</td><td>No appraisal commissioned</td></tr>
+<tr><td>[[385YE_Spring_Equinox_Senate_sessions#Appraise_Black_Canals|Black Canals]]</td><td>Spring 385YE</td><td>Failed</td><td>Naomi requested</td><td>No appraisal commissioned</td></tr>
+<tr><td>[[384YE_Winter_Solstice_Senate_sessions#Appraise_Kahraman|Kahraman]]</td><td>Winter 384YE</td><td>Passed</td><td>Naomi requested</td><td>[[Time and time again]]</td></tr>
+<tr><td>[[384YE_Winter_Solstice_Senate_sessions#Appraise_Pilgrims_of_the_Way|Pilgrims of the Way]]</td><td>Winter 384YE</td><td>Passed</td><td>Naomi requested; Eilian Sweetwater of Storm's Run Striding was assigned</td><td>[[Blood will thicken]]</td></tr>
+<tr><td>[[384YE_Autumn_Equinox_Senate_sessions#Appraise_stabilising_Zenith|Restore Zenith]]</td><td>Autumn 384YE</td><td>Passed</td><td>Default to Naomi</td><td>[[Write your own ending]]</td></tr>
+<tr><td>[[384YE_Autumn_Equinox_Senate_sessions#Appraise_pilgrims_of_the_Way|Attract foreign pilgrims]]</td><td>Autumn 384YE</td><td>Failed</td><td>Naomi Requested</td><td>No appraisal</td></tr>
+<tr><td>[[384YE_Summer_Solstice_Senate_sessions#Appraise_Architectural_University_in_Temeschwar|Architectural University in Temeschwar]]</td><td>Summer 384YE</td><td>Passed</td><td>Graciana assigned</td><td>[[Back in the same place]]</td></tr>
+<tr><td>[[384YE_Spring_Equinox_Senate_sessions#Appraise_slave_uprising_in_Sarangrave|Incite uprising in Sarangrave]]</td><td>Spring 384YE</td><td>Passed</td><td>Graciana assigned</td><td>[[Make it happen]]</td></tr>
+<tr><td>[[384YE_Spring_Equinox_Senate_sessions#Appraisal_of_Grendel_prisoners|Identify people taken as slaves by the Grendel]]</td><td>Spring 384YE</td><td>Failed</td><td>Nobody specified</td><td>No appraisal commissioned</td>
+<tr><td>[[383YE_Winter_Solstice_Senate_sessions#Appraise fortifications in Urizen territory|Appraise Urizen fortifications]]</td><td>Winter 383YE</td><td>Passed</td><td>Defaulted to Mladen Escovitch</td><td>[[A place on a map]]</td>
+<tr><td>[[Appraise_Sign_of_Tamar|Appraise Sign of Tamar]]</td><td>Autumn 383YE</td><td>Passed</td><td>Graciana assigned</td><td>[[Signs and sigils]]</td></tr>
+<tr><td>[[Appraise_trods|Appraise Trods]]</td><td>Summer 383YE</td><td>Passed</td><td>Graciana assigned</td><td>[[Woven as a weapon]]</td></tr>
+<tr><td>[[Appraise possibility of reclamation|Reclamation]]</td><td>Summer 383YE</td><td>Failed</td><td>Graciana requested</td><td>No appraisal commissioned</td></tr>
+<tr><td>[[Appraisal_of_integration_of_Mournwold_Orcs|Mournwold Orc Integration]]</td><td>Spring 383YE</td><td>Passed</td><td>Defaulted to Naomi</td><td>[[Heart of gold]]</td></tr>
+<tr><td>[[Appraisal_of_trade_sanctions|Trade Sanctions]]<td>Winter 382YE</td><td>Passed</td><td>Defaulted to Naomi</td><td>[[The price of liberty]]</td></tr>
+<tr><td>[[Appraisal of Feni dispersion|Disperse Feni]]</td><td>Winter 382YE</td><td>Failed</td><td>Nobody requested</td><td>No appraisal commissioned</td></tr>
+<tr><td>[[Appraisal_of_Bite_legalisation|Legalize Bite]]</td><td>Winter 382YE</td><td>Failed</td><td>Nobody requested</td><td>No appraisal commissioned</td></tr>
+</table>
+</onlyinclude>
+
+
+<div style="max-width: 500px; width: 50%; float: right;"><box>
+====Appraisal Structure====
+<p>Any appraisal involves three elements - the first is the fundamental problem that the players wish to overcome or address. The second element, is the method - the way that the problem will be addressed. The final part is the outcome - the result that will occur if the methods outlined are enacted by the Empire.</p>
+
+The crucial information needed by the plot team to write a useful appraisal response is a clear outline of the problem that the Empire wants addressed. Only if we are certain what problem the players want to deal with can we be confident that the solutions we present will address those issues. We don't want to give players possible solutions to different problems.
+
+It is usually better to avoid outlining a method for the appraisal, as this can lead to disappointment if it isn't possible to solve the problem that way. However, it is also better to avoid defining the outcome you want - since that outcome may not be possible. A motion that clearly states what problem the Senate would like addressed is the best way to maximise your chances that the results achieve what the Empire wants.
+</box></div>
+
+==OOC Design==
+An appraisal is designed to allow the Imperial Senate to direct the civil service to look for a new solution to an existing problem facing it. Inline with the broad remit of the Senate, this could be economic, magical, military or religious in nature. The normal powers of the Senate allow the institute to address a wide range of problems using well-known and clearly defined powers. For instance, fortifications can be built, armies raised, navies constructed. They can disburse the contents of the Imperial treasury, make declarations of war or peace and so on. 
+
+An appraisal is different - it directs the civil service to look into a specific situation to see if there is an [[opportunity]] to address the problem in a way that either does not use the standard powers of the Senate to commission, or does so in a way that is unorthodox or unique. It will result in a Wind of Fortune that is produced for the next event which defines what is known about the problem and identifies what opportunities if any exist to take effective action to address it.
+
+Like any other Wind of Fortune, the options presented in the plot opportunity on the wiki only apply in the situation explicitly laid out in the update. An appraisal does not create new powers for the Senate, unless explicitly stated otherwise, it simply creates a unique, one-off opportunity to act in ways outside the normal rules. Any variations which are possible will be clearly and explicitly identified in the wind of fortune, the flexibility with an appraisal is in what you ask for, not how you employ it. As always with winds of fortune we will try to be absolutely explicit about what the costs and benefits of any actions are.
+
+We will treat the appraisal exactly as we would any other plot that we working on for a wind of fortune. Players should anticipate that appraisals will ''often'' identify solutions that benefit one group of Imperial citizens at the expense of another. Many will be contentious or expensive or both. Appraisal is a chance to tackle a problem in a novel way, it is not a free-lunch generator.
+
+In particular, appraisal will generate a plot opportunity focused on the problem outlined in the motion that ordered it. It does not generate a specific solution - senators should specify the problem they want examined, not the solution they want found. It is not possible to specify the nature or shape of the solution - all attempts to do so will be ignored at best. At worst they may cause the whole appraisal to fail.
+{{Senate Further Reading}}

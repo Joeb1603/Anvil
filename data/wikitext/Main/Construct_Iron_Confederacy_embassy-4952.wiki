@@ -1,0 +1,24 @@
+<ic>To grant permission to construct an embassy for the Iron Confederacy.<br><br><i>Proposed by Sarvos.</i></ic>
+
+===Overview===
+* Construct an [[Iron Confederacy]] [[embassy]] in [[Sarvos]].
+* Passed at 187 thrones.
+
+===Date===
+* Spring 379YE
+
+===Costs===
+* Materials: 25 wains of weirwood and 25 wains of white granite ([[Embassy#Costs|Standard cost]])
+* Labour: 12 thrones
+* Time: 1 season
+* Upkeep: 5 thrones
+
+===Progress===
+* 25 wains of weirwood, 25 wains of white granite and 12 thrones provided by Miroslav after the Spring Equinox 379YE.
+
+===Campaign Outcome===
+* When the embassy is complete it will automatically create the [[Imperial title]] of [[Ambassador to the Iron Confederacy]].
+
+[[Category:Senate Motion]]
+[[Category:379YE Spring]]
+__NOTOC__

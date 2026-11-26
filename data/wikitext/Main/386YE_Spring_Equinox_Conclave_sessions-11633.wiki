@@ -1,0 +1,129 @@
+[[Category: Conclave]] [[Category: Conclave Sessions]] [[Category: 386YE Spring]]
+==Precedence and the Font==
+*'''The mana distributed to the grand masters following 385YE Winter was 340 mana.'''
+*'''The mana remaining after distribution was 3 mana.'''
+*'''The mana collected via the Principle of Precedence at 385YE Winter Conclave was 187 mana.'''
+*'''The mana available in the font for Conclave at 386YE Spring is 190 mana.'''
+The members of each order in attendance at the end of the previous summit determine precedence for the following summit according to the [[Principle of Precedence]]. There was 340 mana in the font after the final Conclave session of the 385YE Winter Solstice. This was distributed to the grand masters of the Conclave according to the Principle of Proportions as per the table below.
+
+This left 3 mana, which is added to the 187 mana collected via the Principle of Proportions at the previous event to form the font for the coming summit. The Conclave has access to a font of 190 mana at the 386YE Spring Equinox.
+<table class="wikitable mw-collapsible sortable"><tr><th>Order</th><th>Precedence</th><th>Members</th><th>Mana</th><th>Ilium</th></tr>
+<tr><td>Grandmaster of the Order of the Rod and Shield</td><td>1</td><td>95</td><td>64</td><td>3</td></tr>
+<tr><td>Grandmaster of the Order of the Unfettered Mind</td><td>2</td><td>85</td><td>57</td><td>3</td></tr>
+<tr><td>Grandmaster of the Order of the Sevenfold Path</td><td>3</td><td>82</td><td>55</td><td>2</td></tr>
+<tr><td>Grandmaster of the Order of the Shuttered Lantern</td><td>4</td><td>76</td><td>51</td><td>2</td></tr>
+<tr><td>Grandmaster of the Order of the Golden Pyramid</td><td>5</td><td>58</td><td>39</td><td>1</td></tr>
+<tr><td>Grandmaster of the Order of the Celestial Arch</td><td>6</td><td>56</td><td>37</td><td>1</td></tr>
+<tr><td>Grandmaster of the Order of the Silver Chalice</td><td>7</td><td>51</td><td>34</td><td>1</td></tr>
+</table>
+__TOC__
+==Friday Session==
+===Candidacy: Hand of the Healers===
+* '''Raised by:''' [[Grandmaster]] Fausta Ankarien, on behalf of the [[Silver Chalice]]
+* '''Declaration:''' To appoint the [[Hand of the Healers]] (custodian of the House of Healing in Therunin)
+* '''Outcome:''' Passed. Raewyn Farkas claimed the title.
+===Concord: Guidance of the Sevenfold Path===
+* '''Raised by:''' [[Grandmaster]] Rafael Barossa d'Apulian, on behalf of the [[Sevenfold Path]]
+* '''Declaration:''' Wisdom calls for listening to expertise, applying what one knows, and finding practical solutions. The Sevenfold Path serves as a bridge between Conclave and Synod: we encourage Conclave to make use of that bridge, and we encourage magicians to take responsibility for their own virtue by seeking expert advice to guide their souls through choice and action.
+* '''Outcome:''' Passed.
+===Candidacy: Archmage of Day===
+* '''Raised by:''' Skywise Gralka, on behalf of the [[Shuttered Lantern]]
+* '''Declaration:''' The people of the Empire look to the magicians of the Conclave to guide them far beyond the fields of Anvil. In this action and by our words we strive to move forward and send a clear message that  conclave is not afraid to challenge its own. You lead by example and that is why Gralka raises this declaration upon themself.
+* '''Outcome:''' Passed. Skywise Gralka retained the title.
+===Candidacy: Archmage of Night===
+* '''Raised by:''' [[Grandmaster]] Eliza, on behalf of the [[Unfettered Mind]]
+* '''Declaration:''' To appoint the [[Archmage of Night]]
+* '''Outcome:''' Passed. Eliina "Realm's Visionary" Lailasdottir claimed the title.
+
+===Candidacy: Imperial War Mage===
+* '''Raised by:''' [[the Throne]]
+* '''Declaration:''' To appoint the [[Warmage]].
+* '''Outcome:''' Passed. Raficci Vicente Barossa claimed the title.
+===Concord: Wise Rangara and the Bleak Tower===
+* '''Raised by:''' [[Custodian of the Bleak Tower]] Staurakios, on behalf of the [[Celestial Arch]]
+* '''Declaration:''' I Staurakios, accept the aid of my Wise Grandmother and commit myself and my successors to protect not only the Bleak Tower buy the herb gardens of Morrow as a whole.
+* '''Outcome:''' Passed. Relates to an offer made by [[Wise Rangara]] as part of a recent [[Archmage#Plenipotentiray|plenipotentiary]]. See the ''[[Dream_to_me#The_Bleak_Tower|Dream to me]]'' wind of fortune for details.
+
+===Dissemination: Find the Best Path===
+* '''Raised by:''' [[Grandmaster]] Sakari Nightscale, on behalf of the [[Rod and Shield]]
+* '''Declaration:''' Actions have consequences. The Rod and Shield requests the dissemination of Find the Best Path (Autumn 135) to the Principalities of Jarm, in agreement with the Pact made with Prospero and bringing that bargain to completion.
+* '''Outcome:''' Passed. Payment having been provided by the Grandmaster, the [[Find the Best Path]] ritual has been [[dissemination|disseminated]] to the Principalities of Jarm.
+===Concord: Assay the Barrens===
+* '''Raised by:''' [[Grandmaster]] Arsenio Sanguineo Rezia di Tassato, on behalf of the [[Golden Pyramid]]
+* '''Declaration:''' Conclave requests the order of the Golden Pyramid undertake an expedition to the Barrens and explore the forests to discover what resources can be found and exploited there.
+* '''Outcome:''' Failed.
+==Saturday Session==
+===Sorcery : Skywise Gralka===
+* '''Raised by:''' [[Witness of Conclave]], Friar Duncan of Ashill
+* '''Declaration:''' Skywise Gralka is a sorcerer
+* '''Outcome:''' Failed.
+
+===Dissemination : Crystal Clarity of the Rational Soul===
+* '''Raised by:''' [[Arbiter of the Rogue Declaration]], Pickers Goldleaf
+* '''Declaration:''' The knowledge of ritual text for Crystal Clarity of the Rational Soul to be shared with the Great Forest Orcs.
+* '''Outcome:''' Passed. The ritual text will be disseminated to Pickers Goldleaf
+
+===Interdiction : License Chastise the Foolish===
+* '''Raised by:''' [[Imperial Censor]], Cassandra i Periera i Erigo
+* '''Declaration:''' To license the ritual "Chastise the Foolish" which is part of Urizen Lore.
+* '''Outcome:''' Passed. The ritual [[Chastise the Foolish]] is no longer interdicted
+
+===Alignment: Roshanwe===
+* '''Raised by:''' [[Archmage of Day]], Skywise Gralka
+* '''Declaration:''' Roshanwe offers the Empire a choice here tonight for truth seekers and how they apply themselves upon that journey. The Conclave accepts the offer of the Netweaver's Eye, and in doing so releases the eternal Roshanwe from their agreement that supports Combing the Beach.
+* '''Outcome:''' Passed. Accepts an offer made by the eternal [[Roshanwe]] to provide Conclave with a ritual text, in return for being released from her agreement to support the [[Combing the Beach]] ritual. Detailed in the ''[[Skeleton_key#Netweaver's_Eye_(Roshanwe)|Skeleton Key]]'' wind of fortune.
+
+===Concord: Wise Rangara and the Tower of the Fall===
+* '''Raised by:''' [[Grandmaster]] Fausta Ankarien, on behalf of the [[Silver Chalice]]
+* '''Declaration:''' The Keeper of the Tower of the Fall commits themself and their successors to the protection of Urizen from the creatures of Agramant and asks Wise Rangara for her assistance in this in return for the offered boons.
+* '''Outcome:''' Passed. Relates to an offer made by [[Wise Rangara]] as part of a recent [[Archmage#Plenipotentiray|plenipotentiary]]. See the ''[[Dream_to_me#Wise_Rangara|Dream to me]]'' wind of fortune for details. <!--This concord does not meet the requirement laid out by the eternal, that the [[Keeper of the Tower of the Fall]] raise the declaration, so it remains to be seen what effect if any the successful Concord has. -->
+
+===Concord: Direct the Shuttered Lantern Aid===
+* '''Raised by:''' [[Grandmaster]] Tyburn of House De Rondell, on behalf of the [[Shuttered Lantern]]
+* '''Declaration:''' Conclave agrees that the Shuttered Lantern should answer the call for help from the Fox and Fowl company. They are to investigate what has taken residence in Lorenzo's Deep Pockets and whether this related to what happened to the Company of the Torch. The Shuttered Lantern <u>will</u> uncover what is behind this new danger.
+* '''Outcome:''' Passed. Relates to [[They_bit_the_cats#Dweller_in_the_Depths|peculiar events]] at [[Delver_of_the_Depths#Lorenzo's_Deep_Pockets|Lorenzo's Deep Pockets]]. The cost to the Conclave was calculated at 20 crystal mana. See the ''[[They_bit_the_cats#Dweller_in_the_Depths|They bit the cats]]'' wind of fortune for details.
+
+===Concord: Direct the Unfettered Mind===
+* '''Raised by:''' [[Grandmaster]] Eliza, on behalf of the [[Unfettered Mind]]
+* '''Declaration:''' Conclave request the Order of the Unfettered Mind is sent to investigate the rat problem in Temeschwar.
+* '''Outcome:''' Passed. Relates to [[They_bit_the_cats#Rats_in_the_Walls|peculiar events]] in [[Temeschwar]] involving a plague or rats. The cost to the Conlave was calculated at 20 crystal mana. See the ''[[They bit the cats]]'' wind of fortune for details.
+
+===Concord: Seek for Relics===
+* '''Raised by:''' Ignacio i Zuhri i Erigo, [[proxy]] for the [[Imperial Magus]]
+* '''Declaration:''' We call upon all Imperial magicians to seek out relics of Emperor Frederick in particular his artefact Pauper's Key.
+* '''Outcome:''' Failed.
+
+===Endorsement: Foam and Spittle===
+* '''Raised by:''' [[Grandmaster]] Sakari Nightscale, on behalf of the [[Rod and Shield]]
+* '''Declaration:''' Our military has limited options to fight the navies of the Grendel. Conclave endorses "Foam and Spittle of the Furious Sea" across the Bay of Catazar and warns locals to take the precautions needed.
+* '''Outcome:''' Passed. It is unclear which instances of [[Foam and Spittle of the Furious Sea]] this declaration is referring to.
+
+===Concord: Recognise Asavean Sects===
+* '''Raised by:''' [[Grandmaster]] Rafael Barossa d'Apulian, on behalf of the [[Sevenfold Path]]
+* '''Declaration:''' The Sevenfold Path and Imperial Conclave recognise and support the work of the Acciai-inspired sects in Asavea, and encourage virtuous magicians to tell stories of their exploits and offer magical, spiritual, and practical support to those going to the Archipelago.
+* '''Outcome:''' Passed. Relates to recent events in the [[Asavean Archipelago]]. More details can be found in the ''[[Parts_of_speech#The_Asavean_Archipelago|Parts of speech]]'' wind of fortune.
+
+===Endowment: Westmere Anvil===
+* '''Raised by:''' [[Bursar of the Conclave]], Brynn Vision Enduring
+* '''Declaration:''' Conclave endows the Troll-made Anvil dredged from the Westmere to the eternal Estavus and calls on them to end their contract with the Marcher brightsmiths under their service.
+* '''Outcome:''' Passed. More details of this complex issue can be found in the ''[[I_already_know_you#Block_and_Dredge|I already know you]]'' wind of fortune.
+
+===Alignment: Estavus===
+* '''Raised by:''' [[Archmage of Autumn]], Edmundo of Damakhan's Forge
+* '''Declaration:''' We the conclave formally accept the services of Architects of the Iron Stone to investigate the seats named. We also reiterate Conclave's interest in maintaining the current state of trade and mutual respect with Estavus at neutrality. The seats in order are the Brilliant Star in Redoubt, the Vigilant Swan in Reikos, and the Pride of Ikka's Tears in Sermersuaq.
+* '''Outcome:''' Passed. Relates to an offer made by the eternal [[Estavus]] to examine mithril and stone Bourse seats. The cost of the arrangement is calculated at six hundred ingots and measures which were provided to the civil service. More details can be found in the ''[[Cities_of_the_Iron_Labyrinth#Metal_and_Stone|Cities of the Iron Labyrinth]]'' wind of fortune.
+
+===Candidacy: Arcane Envoy===
+* '''Raised by:''' [[Grandmaster]] Xanthippe of the Lighthouse at Nikephoros, on behalf of the [[Celestial Arch]]
+* '''Declaration:''' To appoint the Arcane Envoy.
+* '''Outcome:''' Passed. Bella Vicente d'Apulian claimed the title.
+
+===Concord: Direct Golden Pyramid===
+* '''Raised by:''' [[Grandmaster]] Arsenio, on behalf of the [[Golden Pyramid]]
+* '''Declaration:''' Conclave request the Golden Pyramid undertake an expedition to explore the Imperial controlled regions of Mareave to discover what resources can be found.
+* '''Outcome:''' Passed. Following the [[Long_shadows#A_Prosperous_Endeavour|successful prospecting]] in [[Skarsind]], the order is asked to do similar work in the [[Imperial Orcs]] territory of [[Mareave]]. Cost to the Conclave calculated at 20 crystal mana. More details can be found in the ''[[Long_shadows#A_Prosperous_Endeavour|Long shadows]]'' wind of fortune.
+
+===Imperial Lore: Surcease of Sorrow===
+* '''Raised by:''' [[Dean of the Lyceum]] Doctor Tiberias, [[proxy]]
+* '''Declaration:''' To ensure it as a legacy for Navarr to use until their founders' dance is complete enter "Surcease of Sorrow" into Imperial Lore.
+* '''Outcome:''' Passed. 10 thrones provided by '''Morwenna Witheredrose'''. [[Surcease of Sorrow]] will enter Imperial Lore.

@@ -1,0 +1,7 @@
+<div style="width: 400px; float: right; clear: right; margin-left:10px;" class="ic"><div class="ic-inner quote"><p>{{{proverb}}}</p><small>Marcher Proverb</small></div></div>
+<noinclude>
+== Usage ==
+<pre>
+{{Proverb|proverb=Some pithy text expressing an earthy idea in witty form}}
+</pre>
+</noinclude>

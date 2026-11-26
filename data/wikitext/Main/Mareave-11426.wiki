@@ -1,0 +1,144 @@
+<div style="float: left; max-width: 400px; margin-right: 10px;">{{HoverImage|Mareave.png|400x400px}}</div>
+==Overview==
+Mareave is part of the Broken Shore, conquered by the Empire at the start of 386YE and assigned to the Imperial Orcs the same season. It borders [[Spiral]], [[Ayereed]] and an unknown territory of Skoura. It has much more in common with the coast of [[Spiral]] and [[Redoubt]] than that of Attar; there are comparatively few natural harbours here, and the coastline is both rocky and raised into steep cliffs. Like the rest of the Broken Shore, it is warm and dry with little in the way of large-scale vegetation.
+
+The largest settlement is the town of Beoraidh; which also serves as the only substantial port in the territory, and is the location of Lord Ehsan's Palace of Chains.
+
+==Economics==
+* '''All mine personal resources in Mareave produce 30 additional rings each season'''
+Many of the Imperial Orcs have something of a cultural taboo against working mines, but that's not the case for the orcs of Mareave. The [[Golden Pyramid]] discovered that there are many fine quality mines in Mareave. A methodical approach from a dozen Urizen, Varushkan, and League magicians tracks any number of good quality delves in the mountains that ring Mareave to the north and east. Some of them are already in the hands of orcs who remain in the territory, others have been abandoned.
+
+The mountains here are rich in gold, silver and copper as well as the magical metals. Using the list of mine workings [[Digging_for_fire#Precious_Mines|identified by the Golden Pyramid]], any Imperial Orc who operates a [[mine]] in the territory will find that they receive an additional thirty rings each season, representing money earned by selling any precious metals recovered. They're free to roleplay that they have established a mine of their own; that they pay the local orcs to work it for them; or that the money they receive is gained by offering protection to the people who do the actual mining.
+
+==Recent History==
+At some point in the distant past, the territory of Mareave was known as ''Mahal'', named by the human settlers who drove out the [[orc|orcs]] that had previously lived there. These were not members of any Imperial nation; they were the ancestors of the [[Skoura|Skouran]] people. There is [[Mareave and Urizen|some evidence]] of a handful of [[Urizen]] [[spire|spires]] in the north but no indication the territory was ever made part of that nation even in pre-Imperial times. Eventually, the orcs reconquered the land and drove them into the mountains to the east. Much of this history can be found in the ''[[Mareave and Urizen]]'' [[historical research]] document published in late 385YE.
+
+The territory has long been the seat of one of the Salt Lords - the rulers of [[Grendel]] society, who ruled from the city of [[#Beoraidh|Beoraidh]], itself built on the ruins of a much older city. The armies that [[Spiral#Recent_History|invaded Spiral]] in 331YE came north through Mareave, through the [[Spiral#The_Passes|Apulian Gate]] that is the only reliable way to move large numbers of troops between the Broken Shore and the Empire.
+
+In 381YE, the [[Senate]] took advantage of an [[opportunity]] to [[Map_the_Bay_of_Catazar|send Imperial captains]] to [[Talking_sailor#Map_the_Bay|map the Bay of Catazar]]. Thanks to the [[How_sweet_is_the_sea#Mapping_the_Bay|enthusiasm of the Empire's mariners]], the first reliable modern map of the [[Bay of Catazar]] was produced. This included details of [[Bay_of_Catazar#The_Broken_Shore_and_Attar|Attar and the Broken Shore]] - including a [[Bay_of_Catazar#Mareave|first look]] at the coast of Mareave. This was later followed by a [[Construct_Spy_Network_in_Mareave|more extensive survey]] in 385YE.
+
+Ultimately, the map led to a raid against the city of Beoraidh following the Winter Solstice 382YE. An incredible number of Imperial [[fleet|ships]] and [[military unit|soldiers]] launched a [[383YE_Spring_Equinox_winds_of_war#Mission|surprise attack]] against the city, inflicting significant damage and liberating a large number of both slaves and soldiers who had been press-ganged by the Grendel. These orcs would form the foundation of the [[Sannite]] sept of the [[Imperial Orcs]].
+
+After the Autumn Equinox 385YE, and the end of the [[Ratify treaty with the Grendel Autumn 383YE|two year peace treaty]] with the orcs of the Broken Shore, four [[Army|Imperial armies]] passed through the Apulian Way to launch the first serious attempt to [[Between_stone_and_salt|conquer the territory of Mareave]]. They faced only token resistance, with the bulk of the Grendel forces being [[A beacon of smoke|engaged in their own attack]] on the other side of the Bay. The four armies conquered [[#Icarion|Icarion]] and [[#Nadir|Nadir]], and following a [[Between_stone_and_salt#Politics_of_Mareave_(Battle)|major conjunction of the Sentinel Gate]] during the Winter Solstice, they secured their hold on [[#Eoradal|Eoradal]] as well. 
+
+The Grendel responded by reinforcing the (somewhat disorganised) defence mounted by Salt Lord Ehsan and the Brine Turtles, but it was not enough. Imperial armies pushed south, [[Sea-wood fed with copper|capturing the wealthy region]] of [[#Clisearn|Clisearn]] and the mines of [[#Fundindelve|Fundindelve]]. By the start of the new year 386YE, the Empire had control of the territory - although that control was by no means secure. Shortly before the Spring Equinox, the (former) Salt Lord of Beoraidh sent a [[Sea-wood_fed_with_copper#Warp_and_Weft|delegation]] to speak to the leaders of the Imperial armies with a number of unexpected offers contingent upon the Imperial Senate recognising him and his people as foreigners distinct from the rest of the Grendel.
+
+==Points of Interest==
+===Beoraidh===
+The port of Beoraidh is the only major coastal settlement in Mareave. Built on a relatively accessible part of the shoreline, the town always appears to be in danger of being washed away. Much work has been done to rebuild the town in the years since the raid, though clearly, most resources have gone towards the shipyard that commands the docks. When Mareave became part of the Empire, the former [[Grendel]] Salt-lord Ehsan negotiated to keep the city, and the region of [[#Sinfoyard|Sinfoyard]] independent. Through careful maneuvering, Ehsan also arranged a neutrality pact with his former Salt Lords, allowing Beoraidh to become effectively an independent city-state on the coast of Mareave. So far they have declined to become involved in fighting between Grendel and Imperial forces in the territory.
+
+In Autumn 387YE, this arrangement went further when the [[Sarcophan Delves]] announced they were engaged in treaty negotiations with Beoraidh with an eye towards it becoming a [[All_the_night-tide#Beoraidh|defacto protectorate]] of that great nation. It seems that the ambitions of the Delves, and those of Ehsan, are aligned toward seeing the city become a valuable trade hub on the [[Bay of Catazar]].
+
+===[[Fundindelve]]===
+In northern Clisearn, deep in the mountains near the Ohwinn river, is a large village built around a wide opening cut deep into one of the mountains. This is Fundindelve; a mine with ready access to abundant veins of mithril that lie beneath Mount Finnoderi. 
+
+Fundindelve is an Imperial [[Bourse|Bourse position]] which produces 24 wains of mithril each season. Control of Fundindelve is assigned by open auction at the Autumn Equinox each year.
+===Rucraic's Redoubt===
+Once called ''Rucraic's Aeria'', this old Grendel fortification was [[Sea-wood_fed_with_copper#Ripples_in_the_Water|captured]] by the [[Seventh Wave]] during the Imperial campaign to conquer Mareave. It was renamed [[Fortify_Ruicraic%27s_Redoubt|extensively redesigned]] following proposals [[We_all_stand#Storm_Lords_Sentinel|drawn up]] by [[Tamazi]] engineers, and renamed ''Rucraic's Redoubt''. Both names reference the Grendel (and [[Sannite]]) ancestor, [[Grendel_religion#Rucraic_-_The_Storm_Lord|Rucraic the Storm Lord]].
+
+The [[fortification#Bastion|bastion]] not only defends the base of the great aqueduct in [[Mareave#Eoradal|Eoradal]], but it could also serve as an [[embassy]] to [[Skoura]] - should the mountain-folk accept the existance of an embassy as a good idea. 
+
+The fortification also went some way toward reassuring the cynical orcs of northern Mareave - especially the ''Uthni'' family - that the Imperial Orcs were here to stay. The [[fortification#garrison|garrison]] is mostly composed of a mix of Sannite and Tamazi warriors, but since early 388YE it has received increasing support from the independent orcs of the region as well.
+
+===Palace of Chains===
+To the south-east of the town of Beoraidh, the Palace of Chains squats over the river; controlling access between the north and south of the territory. A series of watchtowers run eastwards, into the mountains. The inner buildings of the fortification are used by Lord Ehsan; with marble walls that have high windows that open to allow a breeze. The city is effectively protected by a fortification of strength 6,000.
+===Great Aqueduct===
+The Great Aqueduct of Eoradal is a massive construction of [[white granite]] that links arid Eoradal with the mountains of [[Skoura]]. It was built around the remnants of an old aqueduct and irrigation system originally created when Mareave was under the control of Skouran ancestors, but fell into disuse and ruin when the Grendel seized the territory. Work on the rejuvenated structure was completed shortly before the Summer Solstice 387YE. A diplomatic agreement was reached whereby the Empire would [[Million_miles_of_water#The_Eoradal_Tunnels|purchase access to the Skouran aquifers]] high in the mountains, providing eastern Mareave with a seemingly endless supply of fresh water. Now, the aqueduct supports not only farming in the region, but with completion of [[Spiral#Curstag's_Way|Curstag's Way]] - a road linking Mareave to the wider Empire - the establishment of a sizable new settlement at Eoradal.
+
+===The Apulian Way===
+The Apulian Way links Icarion with [[Spiral#Apulus|Apulus]] in Spiral. This "pass" runs through the foothill, along the coast of the Bay of Catazar, and was widened during the peace treaty to allow Grendel caravans carrying white granite into the Spiral from the Broken Shore.
+
+===The Twinned Trading Posts===
+The Twinned Trading Posts, in Sinfoyard and Icarion respectively, were [[Construct Beoraidh Trading Post|built]] shortly after the Spring Equinox 388YE, following a [[A_knock_at_the_door#Salt_and_Beef|proposal]] put forward by ''Rubhart Kaltrin'', as the Ambassador to the Empire. The trading posts encourage the trade of salt and ores from Beoraidh for salt beef, tallow, and other cattle-based products from the [[Shepherd_of_the_Southern_Herd|southern herd]] and beyond.
+{{anchor|Lighthouse of Icarion}}
+===Lighthouse of Icarion (Destroyed)===
+[[#Icarion|Icarion]] was the site of several ruins dating back to the days when [[Urizen]] held part of Mareave. The cliff-top buildings were clearly built in the Urizen style, but were at one point converted for use by the Grendel. The Lighthouse at Icarion was the largest and most striking of these ruins - a small settlement built around a seven-sided lighthouse constructed with [[white granite]], topped by a globe of [[tempest jade]]. There was no light shining from the globe - the lightstone was presumably lost long ago. 
+
+The Lighthouse of Icarion was, unfortunately, the most prominent casualty of [[Spring magic]] unleashed in Mareave following the Summer Solstice 388YE. Along with ruins across the territory, it was [[A_wizard_did_it#Rains_in_Mareave|unmade]] by a wave of fertility and fecundity. All that remains of the lighthouse and its settlement are a few piles of rubble overgrown with orange flowers and scrubby grass.
+{{anchor|Blood River Colossi}}
+
+===Blood River Colossi (Destroyed)===
+Two giant statues once stood on the coast facing the sea, each about fifty feet tall. The weathered statues depicted humanoid figures with human faces and the remnants of what might have once been a spear of a staff. They flanked a waterfall that cascades into the Bay of Catazar with dark red-brown polluted water. The rising water level had eroded the left foot of the northern statue, putting it at risk of falling to the sea. Despite their condition, the statues remained an impressive sight.
+
+All this changed during the Winter Solstice 387YE. The [[Grendel]] used awful [[Winter magic]] to cause the Blood River Colossi to crumble and collapse, [[Scarlet_sands#Battle_Opportunity:_Rocks_Fall|accelerating]] the natural process of erosion using a relic called the ''Hawser of the Drowned''. The impact of the magic was far-reaching - destruction spread from the Colossi along the coast, bringing down the high cliffs that had once protected [[#Fleisardh|Fleisardh]] from the sea and providing southern Mareave with an entirely new [[Region_qualities#Coastal|coastline]].
+
+==Regions==
+===Icarion===
+'''Quality:''' Hills<br>
+The hills of [[Spiral#Apulus|Apulus]] extend down into Icarion and dominate the region. Icarion, like Nadir to the east, is sparsely populated - beyond a handful of mining settlements there are a few small camps making full use of the neglected ruins of the [[Mareave_and_Urizen#Before_the_Empire|former spires]] of Urizen. The mining settlements deliver wagons of iron and copper, along with crates of [[orichalcum]] and [[green iron]] down to the town of Aghnayadh in Sinfoyard. 
+
+After the Spring Equinox 388YE, a wave of [[Spring magic]] washed across Mareave, apparently created by a confluence of a [[Rivers of Life|curse]] and the ongoing [[Things go awry|magical chaos]] related in some fashion to the [[astronomancy|astronomantic]] [[astronomancy#Constellations|constellations]]. The magic wreaked havoc on the ruins of Icarion, causing them to be enshrouded with plants that ultimately tore them apart. By the time of the Summer Solstice, evidence of Urizen, Skouran, and Grendel habitation here was reduced to piles of rubble, scrubby grass, and scattered orange flowers.
+
+===Nadir===
+'''Quality:''' Hills<br>
+Much like [[#Icarion|Icarion]], the hills of Spiral continue into Nadir. The region is even less populated than Icarion to the west; there is only one village of note, Rathmonna, nestled in a lee near the mountains of [[Mountains_of_the_Moon#Borenj|Borenj]]. Rathmonna has low walls, nothing close to a [[fortification]], but serves well enough to protect the inhabitants from the packs of [[Mundane_beasts#Drakes|drakes]] that infest the area but that provide an industry for the high-risk and high-reward profession of hunter. The high mountains to the north and east are impassable; there is no access to either the Mountains of the Moon nor Skoura from Nadir.
+
+The [[Shepherd of the Southern Herd|southern herd]] was established as part of the [[Million_miles_of_water#The_Cattle_Markets|Great Beef Market of '87]], which saw hundreds of heads of cattle purchased from across the Marches and [[High_hopes#The_Southern_Herd|drove]] across the Empire.
+
+===Eoradal===
+'''Qualities:''' Hills, Ruins, Foreigners (Uthni)<br>
+Eoradal is a region of gentle foothills that slowly rise the further eastwards; the great mountains that are the border to Skoura continue southwards and dominate the horizon. There are ruins here in a style reminiscent of the [[Mountains_of_the_Moon#Zanaeti_Tunnels_and_the_Skouran_Embassy|Skouran embassy]] in the Mountains of the Moon - clearly they are all that remains of the [[Skoura|Skourans]] that held the region hundreds of years ago. The ruins are clustered around the border to Skoura and lead deeper into the mountains. The [[#Great_Aqueduct|Great Aqueduct]] that provides water and irrigation to the depths of the arid region has also helped support the founding of a new settlement amid the ruins of the old town of Eoradal, a settlement that now grows larger every day. It's likely that the industry that accompanied this growth is one reason that many of the ruins of central Eoradal survived the Spring magic that swept away the remnants of Icarion and Naris - supernatual vegetation was cleared before it could take hold - but outside of the are around the aqueduct and Rucarion's Redoubt, there are no significant ruins left in Eoradal.
+
+Prior to the Imperial invasion the folk of Eoradal were mostly orcs who did well out of offering service to the Grendel. Though they were rewarded with land and privileges for serving the Salt Lords, for the most part they had little actual ''affection'' for them. The main problem faced by the Imperial Orcs was that the Eoradal families expected the Salt Lords to return at any moment, and anticipated both great rewards for staying “true” to their former masters' ([[Grendel_religion#Fidelity|Fidelity]]), and punishment if they threw their lot in with the Empire too readily ([[Grendel_religion#Retribution|Retribution]]). Foremost among the Eoradal orcs resisting the Empire were the ''Uthni'', a widely extended family native to Eoradal who claim a strong connection to the Grendel ancestor [[Grendel_religion#Rucraic_-_The_Storm_Lord|Rucraic the Storm Lord]].
+
+The orc families of Eoradal, and the Uthni in particular, are close in temperament to the [[Sannite]] sept, but motivated by a belief that the conquest of Mareave by the Empire will prove as temporary as the Grendel conquest of Spiral has always been. They view the Imperial Orcs' presence as a disruption of the normal order of things that should soon be over, their opposition mostly grounded in a belief that it will earn them favour with the Salt Lords when they inevitably return – and because they just don't see any long-term advantage to cooperating. The cynicism of the orcs of Eoradal is discussed in more detail in the '''[[Here_to_stay#Cynicism|Here to stay]]''' wind of fortune.
+
+===Sinfoyard===
+'''Quality:''' Beoraidh<br>
+The coastline of Sinfoyard is rocky, which abruptly leads to steep cliffs that stand tall against the waves of the [[Bay of Catazar]]. The region is barren, even more so than the rest of the territory, but is heavily populated due to the salt mines of Lord Ehsan. Near the salt mine is the sprawling town of Aghnayadh; home to warehouses filled with ore from the northern regions and destined for further south, and with accommodation for those desperate enough to work the salt mines. 
+
+===Beoraidh===
+'''Qualities:''' City, Coastal, Beoraidh <br>
+Beoraidh is the most densely populated of all the regions in Mareave. It houses the town that shares its [[#Beoraidh|name]] with the region, the [[fortification|fortified]] [[#Palace of Chains|Palace of Chains]] that straddles the ''Ohwinn'' river before it meets the sea, and the [[shipyard]] to the south of the port. The walled headquarters and warehouses of the North Mareave Trading Consortium are located slightly to the north of the port.
+
+===Clisearn===
+'''Quality:''' Hills, Recalcitrant Inhabitants<br>
+The hills of Clisearn are similar to those found in [[#Eoradal|Eoradal]]; low foothills that lead into the imposing mountains to the east. The key difference is the sheer amount of wealth found in this region. The family of Lord Ehsan once resided here in extensive villas rather than in the Palace of Chains or the dilapidated port town of Beoraidh. The ''Ohwinn'' river starts in the hills, not far from the Fundindelve. There was once a small garrison of [[Elite_Grendel_troops#The_Stone_Born|Stone Born]] who guarded both the mine and the villas of Ehsan.
+<div style="float: right; max-width: 250px; margin-right: 10px;">
+{{CaptionedImage|file=Grand Lodge of Golden Pyramid.jpg|align=right|caption=The Grand Lodge of the Golden Pyramid stands as an example of Imperial wealth|title=Art by Anastasiya Lukashovna Volkov|width=250}}</div>
+The main problem facing the Empire here was that under Grendel domination these people were important, wealthy, and felt privileged. Thanks to the abundance of water, they controlled rich farms and beautiful gardens. When Imperial forces took Mareave, many of the orcs who remained here were wealthy Grendel: valued miners and engineers, privileged artisans and magicians, rich landowners or farmers. A number retreated to Beoraidh, or fled the territory entirely, and those who remained looked forward to the return of the Grendel because they saw it as the only way to restore their lost prestige. They did not oppose the Imperial Orcs directly but took every opportunity to undermine their control of Mareave. The core of the opposition was centred around the leaders of three rival families, forced to work together by the conquest of the territory. The ''Adahr'', ''Marr'', and ''Tholdie'' were are no friends to Salt Lord Ehsan and for whatever reasons they remain unwilling to join Ehsan's new city state.
+
+Their resentment was addressed in part through the establishment of the [[Golden Pyramid#Grand Lodge|Grand Lodge of the Golden Pyramid]] in Clisearn, but they remain suspicious of the Imperial Orcs, jealously hoarding what little prestige they still enjoy. More information about the independent orcs of Clisearn can be found in the '''[[Here_to_stay#Selfishness|Here to stay]]''' wind of fortune.
+
+===Fleisardh===
+'''Qualities:''' Coastal, [[Region_qualities#Uncooperative|Uncooperative]], [[Region_qualities#Under_Threat|Under threat]] (Grendel)<br>
+Fleisardh is the original home of the Brine Turtles, one of the [[Grendel_look_and_feel#Broken_Shores_Septs|major septs]] of the Broken Shore and the core of the army of the same name. Their town of Fioroult is built next to the lake that feeds the "''blood river''" and is sprawling and dangerous. The lake is fresh water, but there is something in the earth in eastern Mareave that rapidly makes the water undrinkable, tainting it with a crimson hue and making it splash sluggishly - like blood - into the Bay of Catazar. The Brine Turtles maintain a very public town watch but the town is large enough and filled with enough ramshackle dwellings that there are three times as many snickets as there are clear roads and every one of them is potentially deadly. There is a small and close-knit group of "''alleywalkers''" who serve a similar function to the [[Thief-taker|thief-takers]] of the Imperial Orcs. The [[#Blood_River_Colossi|Blood River Colossi]] stand as sentinels looking out over the Bay of Catazar.
+
+The Brine Turtles dominate Fleisardh even while the region is under Imperial Control. For years, they were one of the two dominant forces in Mareave, rivalling the power of the Salt Lords of Beoraidh. Their warriors form the army of the same name and fight proudly under the banners of the Grendel. Indeed, they would be the group most likely to take up arms against the Empire... if not for the fact that most of the people able to wield those arms are ''already'' fighting the Empire.
+
+The civilian leaders of the Brine Turtle are concentrated in and around the settlement of Fioroult and one of the few large sources of potable water in the region. As a sept, they are proud, comparatively powerful, and resentful. They control the borders between Mareave and the rest of the Broken Shore, and are keen to see the Imperial Orcs driven out. They are barely even prepared to ''talk'' to the Empire, let alone help it move through their arid lands or share their resources with it. More details of the Brine Turtles can be found in the '''[[Here_to_stay#Shells|Here to stay]]''' wind of fortune.
+
+Shortly after the Winter Solstice 387YE, the cliffs of Fleisardh were brought down by the ''Haulers of the Tide'', a [[Winter magic|Salt]] coven from Attar, using the boon of the [[Scarlet_sands#Battle_Opportunity:_Rocks_Fall|Sunken Rope]].
+{{CaptionedImage|file=Pathfinder Gaddak.jpg|caption='''Pathfinder Gaddak''', Senator for Mareave|align=left|width=300}}
+{{Senate Elections|Senator_for_Mareave|Territory=Mareave|Season=Spring}}
+
+==OOC Notes==
+* As of the start of the Winter Solstice 387YE, the city-state of Beoraidh controls Beoraidh and Sinfoyard, and the Grendel control Fleisardh. The Imperial Orcs, and thus the Empire, control the rest of the territory.
+* The Senator for Mareave receives a seasonal income of ten crowns in "gifts" and open bribes from the orcs of Beoraidh as per the '''[[Set_my_lands_in_order#Smoothing_the_Hard_Edges|Set my lands in order]]''' wind of fortune
+* Ruicraic's Redoubt is a rank one [[fortification]] in Eoradal
+* [[#Palace of Chains|The Palace of Chains]] is a rank one fortification with a particularly strong [[fortification#bastion|bastion]] in Beoraidh
+* [[Business|Businesses]] in the territory benefit from the Grand Lodge of the Golden Pyramid and produce an additional 36 rings each season
+* [[mana site|Mana sites]] in the territory benefit from the Grand Lodge of the Golden Pyramid and produce an additional mana crystal each season 
+* [[Mine|Mines]] in the territory benefit from the wealth of the northern hills and the Grand Lodge of the Golden Pyramid and produce 30 rings and two extra ingots each season.
+* The [[#Grand Aqueduct|Grand Aqueduct]] removes the ''arid'' quality from the region of Eoradal
+* The [[Shepherd of the Southern Herd|Southern Herd]] removes the ''arid'' quality from the region of Nadir
+* The Icarion Qanat removes the ''arid'' quality from Icarion
+* [[Spiral#Curstag's Way|Curstag's Way]] in [[Spiral]] removes the ''under developed'' quality from the region of Icarion
+[[Category:Imperial Orcs]][[Category:Gazetteer]][[Category:Imperial_Territory]][[Category:Grendel]]
+
+==Further Reading==
+* [[Salt lions]] - 388YE Autumn wind of war detailing the military campaign this season
+* [[A_wizard_did_it#Rains_in_Mareave|A wizard did it]] - 388YE Summer wind of fortune relating to Spring magic in Mareave
+* [[Mithril and rope]] - 388YE Summer wind of war regarding further clashes over Clisearn
+* [[Wide azure skies]] - 388YE Spring wind of war detailing the renewed Grendel efforts into Clisearn
+* [[Scarlet sands]] - 387YE Winter wind of war detailing the Imperial retaliation against the Grendel invasion
+* [[Lines of care and sorrow]] - 387YE Autumn wind of war detailing the Grendel invasion of Mareave
+* [[Million miles of water]] - 386YE Winter Wind of Fortune about steps that can be taken to remove the arid quality
+* [[Here to stay]] - 386YE Autumn wind of fortune detailing the appraisal to encourage the southern orcs to be more cooperative
+* [[We all stand]] - 386YE Autumn wind of fortune detailing opportunities presented by the [[Golden Pyramid]] and Tamazi sept in Mareave
+* [[Set my lands in order]] - 386YE Summer Wind of Fortune about the issues affecting the territory
+* [[Digging for fire]] - 386YE Summer Wind of Fortune about the [[Golden Pyramid|Golden Pyramid's]] investigation in the territory
+* [[Into the spin]] – 386YE Spring wind of fortune summarising the situation in Mareave
+* [[Sea-wood fed with copper]] - 386YE Spring Wind of War about the conquest of Mareave
+* [[Between stone and salt]] - 385YE Winter Wind of War concerning the invasion of Mareave
+* [[Mareave and Urizen]] - Historical research document concerning the history of Mareave from an Imperial perspective

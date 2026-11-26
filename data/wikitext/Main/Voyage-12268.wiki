@@ -1,0 +1,106 @@
+<div style="float:left; width: 500px; clear: right;">{{CaptionedImage|file=From out of the West.jpg|caption=Ships set sail from Imperial ports for every corner of the Known World.|align=left|width=500}}</div> 
+==Overview==
+In addition to the normal actions a [[fleet]] can take, there are also ''voyages''. These are downtime actions that have arisen through player action, often as the result of an [[opportunity]]. They are classified into one of six categories [[#Trading|trading]], [[#Campaigning|campaigning]], [[#Guarding|guarding]], [[#Raiding|raiding]], [[#Questing|questing]], or [[#Scouting|scouting]]. This gives an idea as to the kind of activity the fleet is engaging in, as well as defining which [[ritual]] [[enchantment|enchantments]] provide bonuses. Each voyage also lists the rewards a standard fleet will receive, with an [[Fleet#upgrade|upgraded]] or enchanted fleets getting proportionately more. 
+
+Some voyages are temporary; they are usually listed on the interlude page for as long as they are available. Others are permanent - or will last until a certain condition is met. Not every voyage is available to every character equally - some are much less productive for some nations, or may be available only to characters that meet a specific criteria. In each case, you're encouraged to make up stories about your downtime actions in keeping with the details here. Profound Decisions won't provide any additional information to someone whose fleet engages in one of these voyages - in that they're just like the ''[[#Privateering|privateering]]'' action.
+<br><br><big>'''The Wider Campaign'''</big><br>By default a voyage has no impact on the wider, ongoing campaign unless it is explicitly called out as doing so. These actions do not impact barbarian nations or Imperial diplomacy, influence strategies, or create opportunities by themselves. No matter how many players choose to go [[#Privateering|privateering]], it will not affect the forces of enemy nations or their attitude to the Empire unless that has been specifically called out, usually in a wind of fortune or wind of war.
+
+==Trading Voyages==
+<onlyinclude>
+Any fleet can by default engage in trade with a [[foreign ports|foreign port]]. The Empire must be at peace with the nation where the port lies, and that nation must have opened the port to Imperial merchants. Each foreign port provides different rewards to those who visit. Special trading voyages are rare; they might involve bringing important cargo to a certain location or represent the option to temporarily access unique markets in friendly nations.
+</onlyinclude>
+At the moment there are no special trading voyages.
+
+==Guarding Voyages==
+Guarding voyages involve protecting someone, something, or somewhere. It might represent guiding allied ships through dangerous waters, or defending coastal settlements from raiders or monsters. The default guarding voyage is [[#Maritime Escort|maritime escort]]. At the moment the Empire has no fortifications that can be guarded by fleet captains, but if an opportunity arose it would be a guarding voyage.
+
+===Maritime Escort===
+* '''This voyage is always available and can be undertaken by any Imperial character
+This voyage is always available and can be undertaken by any Imperial fleet captain. It involves escorting allied ships in return for payment, generally in the form of money but often including additional rewards. These might include merchant vessels, ships bearing pilgrims or missionaries dedicated to [[the Way]], or wealthy travellers concerned about pirates and dangerous sea beasts along their route.
+
+'''Rewards:''' A standard fleet undertaking this voyage receives 108 rings, and four [[Fleet#Loot|random resources]]. This represents a combination of payments received, bonus rewards, or loot taken from defeated pirates or raiders.
+
+===Escort the Fisherfolk of Westerhal===
+* '''This voyage is only available to Wintermark fleet owners.'''
+During the [[Under heaven|raid on Skallahn]] following the Summer Solstice 384YE, the folk of Westerhal in the Kallavesa West Marsh helped transport warriors into Skallahn. With Imperial domination of the Gullet, the thane of Westerhal put into operation a bold plan; with the support of Winterfolk war-vessels, their fishing boats can now fish the rich waters of the western and northern Gullet, and bring in a great deal of Prosperity to western Kallavesa. 
+
+'''Rewards:''' A standard fleet undertaking this voyage receives 90 rings and 5 random ingots of magical metals. This represents payment from Wintermark fisherfolk, and goods taken from Jotun vessels that stray too close to their fishing waters.
+
+==Questing Voyages==
+Questing voyages cover all kinds of opportunities to head out into the unknown and explore, engaging with the threats that are found there, and seeking loot and rewards. The default questing action is [[#Here be dragons|Here be dragons]] - going to dangerous places and seeing what one can find to get mixed up in. 
+
+===Here be Dragons===
+* '''This voyage is available to all Imperial fleet captains'''
+A ship that takes the ''here be dragons'' voyage sets sail for dangerous waters, seeking out new experiences and opportunities for daring. In the process, the captain also keeps a keen eye out for potentials to enrich themselves and their crew. This action might involve visiting fog-shrouded islands, gambling with cutthroats in a seedy foreign port, hunting great marine serpents, or becoming temporarily embroiled in the politics of distant nation. Regardless, it will lead to opportunities to tell stories of adventure and excitement once one returns to an Imperial harbour. 
+
+'''Rewards:''' The standard reward for taking this voyage are 10 [[Fleet#Loot|random resources]]. You're encouraged to create a story about what you did to earn these resources, based on what you receive.
+
+===Hunt the Monsters===
+* '''This voyage is only available to Wintermark, Marcher, and Freeborn fleet owners.'''
+Following the expansion of the port in Caitun it is now possible for fleets along the Gullet, or the Freeborn, to hunt the monsters that lurk in the dark, cold waters of the [[Sea of Snow]]. the western sea is [[Butterfly_in_reverse#Hunting_the_Hunters|known to be]] home to particularly dangerous creatures including cambion whales, seahemoth, and even pale-hued adolescent [[Mundane_beasts#Kraken|kraken]]. A well equipped ship may be able to successfully hunt down these monsters and harvest from them unique goods unknown within the Empire.
+
+'''Rewards:''' A starting fleet that chooses to spend the season hunting the Sea of Snow receives an ingot of [[weltsilver]] and other luxuries worth 3 crowns from the grateful Faraden fishing community. If the vessel is large and powerful enough to defeat a seahemoth (has a military strength of two hundred or more), they return with the precious ''seahemoth oil''. A ship with three hundred or more military strength can recover pieces of ''whale horn''. Adult kraken cannot be hunted, but a fleet with a military strength of four hundred or more can take on an adolescent specimen of the deadly species and return with ''kraken's ink'' as their reward.
+
+==Raiding Voyages==
+Raiding voyages involve small-scale attacks against the Empire's enemies, either at sea or along the coast. It might involve attacks against [[Jotun]] settlements along the Gullet or the [[Sea of Snow]] in the west; ship-to-ship combat with [[Grendel]], pirates, or the trading vessels of enemy nations; or even dangerous sorties along the shores and islands of the far-eastern [[the Mallum|Mallum]];.
+
+Regardless of the details, these actions always involve visiting violence directly on people who are actively trying to kill you.
+
+===Privateering===
+* '''This voyage is available to all Imperial captains'''
+Privateers raid enemy vessels at sea. It might involve hunting raiders or pirates around the Bay of Catazar, or harrying [[Asavean Archipelago|Asavean]] or [[Grendel]] merchant ships and their armed escorts anywhere on the [[The seven seas|Seven Seas]]. Imperial vessels cannot engage in piracy - they do not attack ships belonging to their allies no matter how tempting the prospect might be. The presence of civil servants, paid for by the [[Senate]] and [[Rise of the Fellowship of Purple Sails|Fellowship of Purple Sails]], ensure that the Empire's captains remain above suspicion in dealings with foreign nations. However, it is perfectly legal - even preferable - for Imperial captains to hunt and defeat not only pirate vessels, but ships belonging to nations the Empire is at war with. 
+
+'''Reward:''' A standard fleet can expect to receive valuables and luxuries worth 72 rings, and six [[Fleet#Loot|random resources]] representing a share of the cargo carried by defeated vessels.
+<!--
+===Thwart the Blockade===
+* '''This voyage is available to Imperial citizens from every nation ''except'' Urizen and Varushka'''
+The [[Sumaah Republic]] and the [[Asavean Archipelago]] have been at war for longer than the Empire has existed. The Asavean Plenum recently attempted to enact a blockade on trade with their southern neighbour, and but efforts to [[Questions_of_virtue#Rage_of_the_Corsairs|thwart their scheme]] have endeared Imperial captains to the Empire's allies in the [[liberty Pact]]. Asavean ships still bedevil Sumaah vessels, however, and combating this menace means that the ''Frieøyer'' - the descendants of those pirates [[Zemress#A_Tale_from_Sumaah|converted by Zemress]] and now the heart of Sumaah's limited naval power - are unable to do much else. A concerted Asavean push might in theory manage to get through and destroy a Sumaah city or begin a land invasion.
+
+As of the Summer Solstice 386YE, the General Assembly urged virtuous Imperial fleet captains to head west to help the Sumaah fight against Asavean ships in their waters. The opportunity to do so is available to [[fleet|fleets]] of every nation except [[Urizen]] and [[Varushka]] - the mandate did not achieve a [[greater majority]] meaning the people of those nations remain sceptical of the call to action.
+
+'''Rewards:''' A standard fleet that undertakes this action receives two doses of [[liao]] and 72 rings.
+
+'''Campaign:''' Fleets undertaking this action help to prevent the Asaveans from threatening the Sumaah coastline.
+-->
+===Raid the Broken Shore===
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Raid the Broken Shore.png|align=right|caption=The Broken Shore is rugged, harsh, and inhabited by the [[Grendel]].|width=400}}</div>
+* '''This voyage is only available to Freeborn fleet captains with the corsair archetype'''
+* '''Remains available while the Empire is at war with the Grendel'''
+The land of [[Bay_of_Catazar#The_Broken_Shore_and_Attar|Attar]], and the Broken Shore, is home to the Grendel and the septs they rule over. Arid, rocky, inhospitable, and peopled by barbarians who are as familiar with the vagaries of the Bay of Catazar as the Freeborn themselves. For centuries, though, the [[corsair]] families of [[Madruga]] and [[Feroz]] have launched daring raids against both the trading vessels of the southern barbarians, and against their coastal settlements. Such raids are risky, and a corsair must always know when to cut their losses and retreat before organised Grendel war vessels turn up to put an end to their depredations. A captain and crew who are prepared to face danger, and perhaps take advantage of the political fracturing of the Grendel nation, may still find this a swift route to considerable riches.
+
+'''Rewards:''' A standard fleet that undertakes this voyage receives 72 rings and six [[Military unit#Loot|random resources]] representing goods seized from the Grendel. Money is usually in the form of valuables and exotic trade goods that can be sold for a profit when crossing back into the Empire as often as actual coinage. A fleet that is enchanted or upgraded may also acquire some '''Grendel Luxuries''' as part of their loot, usually in the form of a rip-on-use consumable representing a rare substance or drug.
+
+===Raid Kalsea's Coastline===
+* '''This voyage is only available to Marcher fleet owners.'''
+Following their role in the [[Under heaven|raid on Skallahn]] after the Summer Solstice 384YE, Jarvey "Strongoar" Oddsboy, the steward of the small Marcher household who oversees Steward's Landing, has turned their small quayside into a base of operation from which Marcher captains can raid the Jotun coast. Oddsboy and his fellow coastal stewards heartily support such raids, seeing them as opportunities to get back at the Jotun who have wreaked so much havoc in Bregasland and Mournwold. Exploiting the well-known Jotun reticence to put to sea, and the pacifism of the orc thralls, Marcher ship captains are able to launch surprise raids on coastal settlements, steal valuable goods and metals, and either fight the warriors when they arrive or escape before the orcs even know they are there.
+
+'''Rewards:''' A standard fleet receives 90 rings and 5 random magical metals from raiding the Jotun coastline along the Gullet. Money generally represents valuables and jewellery or works of art that can be sold at a profit within the Empire. rather than actual coinage. A fleet that is enchanted or upgraded may also acquire a '''Jotun trinket''' as part of their loot (generally a [[magic items|magic item]] from the [[Magic_items#Talismans|talismans]] category that can be represented by a piece of appropriate jewellery).
+
+==Scouting Voyages==
+Scouting voyages involve stealth, speed, subterfuge, sabotage, espionage, and information gathering. By default any character can support an Imperial [[smugglers cove]], but there are also voyages that rely on providing passage through dangerous waters without attracting attention, or need a discreet captain to transport something quickly and with the minimum of fuss to or from a distant port. They almost always require the fleet to avoid danger, or to manoeuvre around enemies them until the right moment to make a swift strike.
+<div style="float:right; width: 400px; clear: left;">{{CaptionedImage|file=Discussing Travel.jpg|align=right|caption=Sometimes subterfuge serves sailors supreme.|width=400}}</div>
+===No Questions Asked===
+* '''Transport messages, personnel, or goods with an emphasis on speed and discretion'''
+This voyage involves taking commissions from individuals or organisations to transport people or goods quickly and discreetly. It might involve taking a diplomatic envoy to a foreign port, ensuring an important message reaches a dangerous location, or helping deliver valuable goods as part of a trade agreement without attracting the attention of opportunistic pirates. Speed and discretion are of the utmost importance, but this does not involve activity that is actively illegal (due to the presence of civil servants).
+
+'''Rewards:''' A standard fleet that undertakes work with no questions asked can expect to receive 108 rings and four [[#Random resources|random resources]] representing extra payment or goods secured during the voyage.
+
+===Smuggle Missionaries===
+* '''This voyage is only available to Freeborn fleet owners'''
+In Summer 386YE, a [[mandate]] [[386YE_Summer_Solstice_Synod_judgements#Judgement_73|supported by the Freeborn Assembly]] urged the ships of the Brass Coast to [[Drumbeat_of_war#Price_of_a_Soul|seek out missionaries]], and take them to the [[Asavean Archipelago]]. The Synod is involved in an ambitious project to bring the Way to the heretics and blasphemers of that far western nation. Now Freeborn captains are actively engaged in getting preachers and [[wayfarer|wayfarers]] to the distant archipelago – and not only to the easily accessible islands. With corsair audacity and skill help missionaries to reach every part of that powerful foreign nation. More importantly, their skill ensures that where possible those missionaries arrive safely, ready to avoid the Plenum and the Asavean priesthood. The cunning of the Brass Coast has gone a long way to reduce the number of lives lost to the jealous Asavean establishment, and reduced the number of people who are captured before they are able to do anything. The voyage is available as long as the Imperial Synod supports the conversion of Asavea, and the need to smuggle missionaries to the archipelago remains.
+
+'''Rewards:''' A standard fleet receives 2 ingots of orichalcum, 2 measures of iridescent gloaming, and 60 rings representing luxury goods and payment from passengers.
+
+===Patrol the Bay of Catazar===
+* '''This voyage is available to all Imperial fleet captains'''
+Following the [[Repair_Celesti_Lighthouse|repair]] of the [[Celesti_Lighthouse_Keeper#The_Celesti_Lighthouse|Celesti Lighthouse]] in Feroz, [[Kimus]] has [[For_those_in_peril_on_the_sea#Light_in_the_Storm|infused]] the lamp of the lighthouse with [[Day magic]], creating an unblinking supernatural light that is visible all over the Bay of Catazar. This has boosted the morale of the corsairs of the [[the Brass Coast|Brass Coast]], but enables Imperial fleets to work together to patrol the entire bay, keeping watch for threats, helping those in need, and identifying peculiar developments. If 1500 effective strength is applied to this action in any season, then in addition to the normal benefits from assisting Imperial shipping, it will produce a short spy report detailing any interesting events occurring across the bay.
+
+'''Reward:''' A standard fleet that takes this action receives 24 rings, 4 random herbs, and 3 random measures of forest materials. These are received as gifts and rewards from grateful captains - a share of the trade goods they have acquired as often as not.
+
+==Production Table==
+{{ProductionTable|Voyage}}
+==Further Reading==
+* [[Fleet]]
+* [[Rules_update_2025#Military_Units_and_Fleets|Rules update 2025]]
+* [[Venture]]
+[[Category:Personal Resource]][[Category:Military Council]]

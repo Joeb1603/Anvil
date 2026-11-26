@@ -1,0 +1,24 @@
+{{CaptionedImage|file=Keeper of the Garden.png|caption='''Aerowen Embercast''', first Keeper of the Garden|align=left|width=250}}
+{{Disambiguation|As of Spring 387YE, the Garden of Glory is lost to the Druj. This page reflects their status before it was lost to the Druj}}
+==Overview==
+The Keeper of the Garden is an [[Imperial title]] that grants custodianship of a [[sinecure]], requiring minimal responsibility but offering a regular income of [[liao]]. Construction was proposed to the Senate by '''Cesare Sanguineo Rezia Di Tassato''', in his position as [[Tassato|Senator for Tassato]] during the [[385YE_Spring_Equinox_Senate_sessions#Construct_Garden_of_Glory|Spring Equinox 385YE]]. The Garden of Glory is deep in the woods of Lower Tarn Valley, [[Therunin]].
+
+The Garden was once worked by the briars associated with the Great Forest Orcs, who received half the liao. Shortly before the Winter Solstice 386YE, it was discovered that the workshop had been [[Wasp_nest#In_the_Garden|abandoned]] at some point previously. Finding the workshop in good repair, the guides, apothecaries, and herbalists moved in, allowing the Keeper to receive the full production going forward.
+
+==Responsibilities==
+The Keeper of the Garden has a responsibility to protect the Garden of Glory. If the Garden were to be threatened in any way, it would be the responsibility of the Keeper to deal with those threats.
+
+==Powers==
+===Offer of Liao===
+The workshop at the Garden of Glory produces twelve doses of liao each season. The Keeper receives this liao, and they may do with it as they wish.
+
+==Appointment==
+The Keeper of the Garden is a [[New_Imperial_titles#The_Imperial_Synod|national position]] which is [[Appointment|appointed]] by [[judgement]] of the [[Assembly#The_National_Assemblies|Navarr National Assembly]]. Only a citizen of Navarr may hold the title.
+
+The Keeper has [[tenure]] and serves until they die or step down. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the National Assembly of Navarr, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=Keeper of the Garden.png|caption=Aerowen Embercast, Keeper of the Garden|align=left|width=300}}-->
+{{RecentElections|Keeper_of_the_Garden}}
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Synod]]
+[[Category:Navarr]]

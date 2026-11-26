@@ -1,0 +1,34 @@
+{{CaptionedImage|file=Magpie Sodality.png|caption=This title is appointed by the [[Magpies]]|align=left|width=300}}
+==Overview==
+The Golden Fleet Salvagemaster is a Highborn title granting rights to oversee the salvage operations over the ''Golden Fleet'', a Freeborn navy raised during the reign of [[Emperor Barabbas]] and which, alongside the Highborn ''Basilisk Arisen'' and League ''Hullbreakers'', ultimately was [[Navy#Former_Navies|destroyed]] in a failed invasion of Attar. In Spring 386YE, the Duke of [[Bay_of_Catazar#Kalino_(or_“Arbonne”)|Arbonne]] [[Burying_the_lede#A_Fleeting_Offer|auctioned off]] the salvage rights to the remains of the navy, with '''Caleb of the Cenotaph''' of Highguard placing the winning bid, securing the rights for the nation of Highguard and making the decision to focus salvage efforts on the recovery of relics and items of historical interest instead of weirwood.
+
+The Senate voted to [[387YE_Summer_Solstice_Senate_sessions#Amend_Golden_Fleet_Salvagemaster|amend the title]], during the Summer Solstice 387YE, to change the election method to be appointed by the [[Magpies]]. More information on the situation can be found in the '''[[Two_for_joy#Salvage_Rights|Two for joy]]''' wind of fortune.
+
+==Responsibilities==
+The Golden Fleet Salvagemaster has no particular responsibilities above overseeing the salvage operations at the remains of the Golden Fleet in Arbonne. If the salvage operations were to be threatened in any way, it would be the responsibility of the Salvagemaster to deal with those threats.
+
+==Powers==
+===Salvage of the Golden Fleet===
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible"><tr><td colspan="2" style="background-color: LightBlue;">'''Salvage'''</td></tr>
+<tr><td>10 thrones</td><td>2 items of historical interest<br>40 random resources</td></tr>
+</table></div>
+As a [[ministry]], the Salvagemaster can fund salvage operations at a set price. The Salvagemaster spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+Salvage from the Golden Fleet is unusual for a ministry - the returns are unpredictable. If funded, each season the Salvagemaster receives random resources similar to those [[Military_unit#Production|produced by a military unit undertaking mercenary work]]. In addition, they will receive two items of historical interest recovered from the wrecks. Any items recovered this way become the property of the citizen holding the title - they do not become property of the title.
+
+Whilst the Golden Fleet Salvagemaster bears the right to conduct salvage operations, the site of the wreckage in Arbonne remains the property of the Duke of Arbonne. In the event of war breaking out with the [[Iron Confederacy]], or a similar breakdown in diplomatic relations with the Suranni, it is highly likely that salvage operations would become more difficult or even impossible to continue.
+{{CaptionedImage|file=Caleb of the Cenotaph.jpg|align=left|caption='''Caleb of the Cenotaph''', Golden Fleet Salvagemaster|width=400}}
+==Appointment==
+The Golden Fleet Salvagemaster is appointed at the Summer Solstice each year by members of the Magpies.
+
+Only a Highborn citizen can hold this title. They can be [[revocation|revoked]] by the [[Assembly#The_National_Assemblies|Highborn Assembly]], the [[Assembly#General_Assembly|General Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+The opportunity to oversee salvage operations will only last for four full years. As a result, the ministry will no longer be available from the Summer Solstice 390YE, at which point the title of Golden Fleet Salvagemaster would likely cease to exist.
+{{RecentElections|Golden_Fleet_Salvagemaster}} 
+<!--
+==Wreckage of the Golden Fleet==
+-->
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Highguard]]

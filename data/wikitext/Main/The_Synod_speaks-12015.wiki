@@ -1,0 +1,96 @@
+[[Category:Winds of Fortune]][[Category:386YE Autumn]][[Category:Recent History]]
+<ic>"The Nine didn't pull their punches I see." Veselin said wrly as he passed the letter to his grandmother. "Do you think anyone will listen."
+
+"They'll listen. Listening is easy. Will they do more than listen? Taking action is hard." Her fingers kept working her needles as she spoke, stopping only occasionally to pull on the ball of wool. "Looks to me like the Throne put a finger on the scales. That's how I'd read it and that don't bode well. I think our "cousins" are going to have trouble ahead."
+
+Veselin pulled up a chair at the family table. "A fight between the Senate and the Synod then?" he asked. He was eager to know more, and nobody understood what went on at Anvil better than grandmother. She'd spent half her life there was she younger, according to Liubov.
+
+"Well I don't see any other way you can read that address. Well written, I'll give the Wintermarker that. That one could have been a volhov - you'd trust them to make a deal with the Charnel Lord. But as I read it they were calling on the Synod to think again..."
+
+"Do you think they will?" he asked. "Think again I mean?"
+
+"They'll have to do some hard thinking. We're stretched as it is, but we're winning right now. But the Synod seems dead set on picking a fighting with those heathen fools. And now for good measure they say, lets start a war with the trees as well. It's one thing to stand up for what's right. That's the first and last rule of Courage right there. It's another thing to pick a fight with every schlacta in the tavern."
+
+Veselin tugged on his beard pensively, weighing up what he was hearing. "Difficult choices" he muttered to himself.
+
+"They always are... unless you a White Stag!" the old woman replied, laughing at her own joke.
+</ic>
+<div style="float:left; width: 350px; clear: right;">{{CaptionedImage|file=The Synod Speaks.jpg|align=left|caption=The League and Varushkan assemblies have expressed their unequivocable support for the Navarr in their coming war against the vallorn.|width=350}}</div>{{audio|link= https://youtu.be/1vzAWCZ0icA?si=mqnHwavuJ7QT4Fet}}
+{{PDFLink|align=right|link=File:The_Synod_speaks.pdf|caption=Click for pdf version}}
+==Overview==
+The [[Navarr]] Assembly has [[The first shot|overwhelmingly backed the mandate]] to begin the final battle against the vallorn, to defeat it once and for all. But they are far from the only Assembly to speak on the matter. The [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]] was emphatic that the Empire must be willing to make this sacrifice now and called on every nation of the Empire to take up the call. Two individual nations also did so, [[the League]] and [[Varushka]], both raising clear [[statement of principle|statements of principle]] in support of the Navarr and their Assemblies backed them with a [[greater majority]]. 
+
+The response elsewhere was more ambiguous, with [[Dawn]], [[Highguard]], and [[Urizen]] all passing statements apparently in support of the Navarr's decision as well as conflicting statements calling on them to wait for a more fortuitous time, but none passed with a greater majority, possibly reflecting the mixed views on the matter.
+
+Thus it is the League and the Varushkans alone at this time who are ready to stand with the Navarr. Other nations might yet take up the call, either for or against this great [[Ambition]].
+
+==Five Cities==
+{{SOP|statement=For centuries the Navarr have sacrificed to shield our civilisation from the vallorn which seeks to subsume our lives. We the League recognise this debt and will answer this reckoning. Whatever Navarr choose to do as they stand at this momentous crossroads, the full might of the five great cities of the League supports them. Claim your destiny, Navarr: we stand with you.|vote=Greater Majority (288-48)|by=Kaspar Yakovitch von Holberg, League Assembly|when=Summer Solstice 386YE}}
+* '''The League can chose to enact a mandate to urge citizens to support the Navarr'''
+* '''The wording of the mandate will determine what aid the League aims to offer'''
+* '''If any of these mandates are passed, citizens of the League will not respond to calls to support another project for a year'''
+
+The League Assembly singled out the great debt the Empire owes the Navarr, recognising the work they have done for centuries to shield civilisation from the vallorn. Folk in the League are always [[The_League_culture_and_customs#Reckoners|keeping score]], every favour owed, every debt incurred, they must always be repaid in full, lest there be a reckoning. The statement of '''Kaspar Yakovitch von Holberg''' did not shy away from reminding the League of the debt they owed the Navarr and called on his countryfolk to stand with them whatever decision the Navarr made.
+
+The Navarr had made their position clear; now the League must confirm they want to stand with them. But as a few citizens have pointed out, what will standing with the Navarr mean? What aid do they require?
+<div style="float:right; width: 200px; clear: right;">{{CaptionedImage|file=Assembly_League.png|align=right|width=200}}</div>
+The League has only two [[Army|armies]], which will certainly be important in the battle against the vallorn but not enough to turn the tide. But they do have five [[senator|senators]]; if they throw their weight behind the Navarr it would make a potent voting block. Given the clear signal by the League Assembly, can the Navarr anticipate the support of the League in getting the Senate to authorise attempts to raise new armies? To do whatever else must be done?
+
+The League also possesses great wealth and crucial skills like engineering, with positions like the [[Master of Rings]] and the [[Chair of the Wolf]]. Will those League merchants who are masters of the [[Bourse]] lend their backing to the Navarr, and help to create a legacy as [[Lorenzo's_Legacy|Il Volpe]] once did? Could the League find a way to allow the Chair of the Wolf to work on projects needed to fight the vallorn? Could they encourage the Master of Rings to find a way to commission the Navarr wayhouses? There is a lot that could be done if the will of the nation reflects the wishes of the Assembly.
+
+The common people of the League are mindful of the debt they owe the Navarr and ready to stand with them. The question is how best to aid them? The League Assembly could enact one of the following three [[Mandate#Competing_Mandates|competing mandates]]:
+
+<div style="display:grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px;">
+{{Mandate|mandate=The greatest assets of the League are our Ambition and ingenuity. We send {named priest} with 50 liao to urge every citizen to commit everything to finding new ways to fight the vallorn. Even the most impenetrable forest may fall one tree at a time.|assembly=League Assembly}}
+{{Mandate|mandate=The greatest assets of the League are our wealth and Prosperity. We send {named priest} with 50 liao to urge every citizen to dig deep to support the fight against the vallorn. All that is worthwhile is shared with those who deserve it.|assembly=League Assembly}}
+{{Mandate|mandate=The greatest assets of the League are our Loyalty and determination. We send {named priest} with 50 liao to urge every citizen to remember where their loyalties lie. The truly virtuous are loyal even through hardship and misfortune.|assembly=League Assembly}}
+</div>
+
+If one of these mandates is enacted they will lead to one or more [[opportunity|opportunities]] to take concrete action to help the Navarr. Such actions will be expensive, but "nothing great without cost" as they say in the League. The [[Mandate#Competing_Mandates|mandates are competing]], so whichever mandate is passed with the greatest margin will determine the nature of any subsequent opportunities. The shrewd business folk of the League understand that war with the vallorn will not be a matter of a few seasons campaigning, this mandate will set the tone for the League's participation in that campaign.
+
+If any of these mandates are enacted, it will commit the League to playing the fullest possible role in the war against the vallorn. Citizens will expect their leaders to do whatever is needed to start the war - and to finish it. They will expect their Assembly to stick to the course and not get distracted by other struggles. For the next year, at least, no statement of principle raised by the League Assembly that calls on citizens to support another cause, be that civil or military, will produce an effect beyond Anvil. The mandate will focus minds on the conflict with the vallorn.
+
+==Our Navarri Cousins==
+{{SOP|statement=When Karsk was attacked our Navarri cousins stood with us. When they call us to work with them to end the vallorn threat, we will not be found wanting. One Empire in loyalty.|vote=Greater Majority (222-10)|by=Vaclav Mladenovich Kosti, Varushkan Assembly|when=Summer Solstice 386YE}}
+* '''Varushka can chose to enact a mandate to urge their people to support the Navarr'''
+* '''The wording of the mandate will determine what aid Varushka seeks to offer'''
+* '''If any of these mandates are passed, Varushkans will not respond to calls to support another project for a year'''
+
+The Varushkan assembly has taken a similar approach reminding their people of the debt owed to the Navarr for the aid they rendered when [[Karsk]] was attacked. The reference to cousins is particularly effective in a nation that places such enormous importance on [[Varushka_culture_and_customs#Family|family]]. It is common for Varushkans to use familial titles to show respect and friendship - or as in this case to remind people of how important it is to remember the support each member of a family provides. 
+<div style="float:right; width: 200px; clear: right;">{{CaptionedImage|file=Assembly_Varushkan.png|align=right|width=200}}</div>
+The Varushkans are well placed to provide help. They have three powerful armies, and like the League they have the potential to wield significant influence in the [[Senate]]. The unanimous backing of the Varushkan senators would ease the path for the Navarr to raise their new armies. And of course [[the Throne]] is Varushkan, while she must think of the Empire, but Varushkans hope she will not forget their family...
+
+As a nation, Varushka can lay claim to be as rich as the League. Their wealth comes not from commerce but from the abundant resources of the North. The Navarr will need [[mithril]], which Varushka possess in great quantities. Will the overseer of the [[Eternal Shafts of Time]] and the [[Bargainer of the Iron Tower]] help to provide what the Navarr need? No nation produces more artisan resources than Varushka - could they use those to help their cousins raise their new army in Hercynia?
+
+When a member of the family is in need of help, no stone is left unturned. But only fools rush in, the wise decide on a course of action before they fight. To choose that course, the Varushkan Assembly can enact one of the following three [[Mandate#Competing_Mandates|competing mandates]]:
+
+<div style="display:grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px;">
+{{Mandate|mandate=The greatest assets of Varushka are our Prosperity and our resources. We send {named priest} with 50 liao to urge every Varushkan to spare what they can to help our cousins. Let no coin go unspent|assembly=Varushka Assembly}}
+{{Mandate|mandate=The greatest assets of Varushka are our Wisdom and resolve. We send {named priest} with 50 liao to urge every Varushkan to use our knowledge of the dark powers to choose the lesser of two evils. The Virtuous apply what they have learned.|assembly=Varushkan Assembly}}
+{{Mandate|mandate=The greatest assets of Varushka are our Ambition and iron will. We send {named priest} with 50 liao to call on every Varushkan to do what must be done. Consequences are the price of Ambition.|assembly=Varushkan Assembly}}
+</div>
+
+If one of these mandates is enacted it will lead to one or more [[opportunity|opportunities]] to take concrete action to help the Navarr. Such actions may prove controversial; the Varushkans understand that life is about making difficult choices and sometimes one must cut down the tree to save the forest. The mandates are [[Mandate#Competing_Mandates|competing]]; whichever mandate is passed with the greatest margin will influence the nature of any subsequent opportunities, in the following season and beyond. Wise Varushkans understand that war with the vallorn will require a long and painful sacrifice - this mandate will set the tone for Varushka's role in the war against the enemy.
+
+If any of these mandates are passed, it will commit Varushka to playing the fullest possible role in the war against the vallorn. Citizens will expect their leaders to do whatever is needed to start the war - and to finish it. They will expect their Assembly to stick to the course and not get distracted by other struggles. For the next year, at least, no statement of principle raised by the Varushkan Assembly that calls on citizens to support another cause, be that civil or military, will produce an effect beyond Anvil. The mandate will focus Vaurhskan hearts and minds on the conflict with the vallorn.
+
+==The Fate of the Empire==
+{{SOP|statement=The vallorn is the Greatest Spiritual Threat to the Empire; the threat it poses to the Souls of all living beings will remain a stain on Creation till it is destroyed. With the research of the Great Library of Hacynian victory is possible as soon as we have the Courage to see it through. It will surely be difficult, but there will never come a time when it will be easy, there will never not be a cost to be paid in lives and suffering. We must be willing to make the Sacrifice now, to safeguard the souls of every generation to follow. Navarr has stood against this foe since its creation, and been joined by their Virtuous siblings in Highguard. We urge every other Nation of the Empire to take up this most Ambitious call. The time to fight is now.|vote=Greater Majority (7-1)|by=Gaelen Embercast, Assembly of Nine|when=Summer Solstice 386YE|size=small}}
+* '''The Assembly of Nine has called on every nation of the Empire to take up the fight'''
+* '''Any nation could use a statement of principle to show their support for the Navarr and the coming war'''
+* '''Any statement that passes with a greater majority will lead to one or more mandates for further action'''
+
+The Assembly of Nine have given their backing to the Navarr's decision, stating clearly the Empire must be willing to make the sacrifice now, subtly referencing to the Pride of the Navarr in the process. As a result of their unambiguous clarion call, people in the other nations remain receptive to taking a stand on the on the war with the vallorn. 
+
+That means any of the national assemblies that have not yet spoken with a clear voice could use a [[statement of principle]] to respond to this dramatic moment. Statements that are passed this season that get a greater majority that urge clear, concrete action on the vallorn - one way or the other - will lead to a mandate to commit the nation to a course of action.
+
+After this season passes, the moment will be gone and any statement of principle will be no more likely than normal to produce a response.
+
+==Second Steps==
+* '''The Navarr assembly has made a fateful decision to take the fight to the vallorn'''
+The Navarr have made their fateful decision, sending shockwaves through their nation. Two-thirds of all [[striding|stridings]] have left the [[trods]] to begin preparation for the coming war, and every war needs troops to fight it. Details of the immediate outcome of the recent decision are found in the '''[[The first shot]]''' wind of fortune.
+==Resolution==
+Both the Varushkan and League assemblies enacted mandates after the Autumn Equinox. '''Vaclav Mladenovich Kosti''' was empowered to urge every Varushkan to [[386YE_Autumn_Equinox_Synod_judgements#Judgement_156|use our knowledge of the dark powers]] against the vallorn, while '''Ortenzia di Sarvos''' was sent to urge the League to find ways to [[386YE_Autumn_Equinox_Synod_judgements#Judgement_81|use their ambition and ingenuity]] to defeat the threat.
+
+At the same time the [[Highguard|Highborn]] assembly enacted a [[The_final_countdown#A_Time_To_Sing|mandate of their own]], sending '''Hazelelponi''' to call the [[Grey pilgrim|grey pilgrims]] home to [[386YE_Autumn_Equinox_Synod_judgements#Judgement_60|prepare for war with the vallorn]].
+{{Vallorn links}}

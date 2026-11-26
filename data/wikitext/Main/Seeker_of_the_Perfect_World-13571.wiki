@@ -1,0 +1,35 @@
+__NOTOC__
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Urizen.png|caption=This title is appointed by the Urizen Assembly|width=250px}}</div>
+The Seeker of the Perfect World is an [[Imperial title]] awarded to a citizen of [[Urizen]]. The motion to construct the Gardens was raised by '''Bartimaeus''', as [[Sarangrave|Senator for Sarangrave]], and [[Construct Gardens of the Perfect World|passed]] by the [[Senate]] in Winter 387YE. The Seeker of the Perfect World has the responsibility to look after the Gardens of the Perfect World, and to help the people of Tsark trade with the Empire. The title was created as a result of an opportunity presented in the '''[[Poets_light_but_lamps#Garden_of_the_Perfect_World|Poets light but lamps]]''' wind of fortune.
+
+The title will cease to function if the Empire and Tsark are no longer on friendly terms.
+
+==Responsibilities==
+The Seeker of the Perfect World has the responsibility to help the people of [[Tsark]] trade with the Empire. In addition, if the Gardens, or those working it, were to be threatened, then it would be the responsibility of the Seeker to deal with those threats.
+
+==Powers==
+===Ministry===
+<div style="width: 350px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightYellow;">'''Wood and Stone'''</td></tr>
+<tr><td>4 weirwood</td><td>4 white granite</td></tr>
+<tr><td>6 weirwood</td><td>6 white granite</td></tr>
+<tr><td>8 weirwood</td><td>8 white granite</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightYellow;">'''Spirits and Stone'''</td></tr>
+<tr><td>40 liao</td><td>1 white granite</td></tr>
+<tr><td>90 liao</td><td>2 white granite</td></tr>
+<tr><td>150 liao</td><td>3 white granite</td></tr>
+</table></div>
+As a [[ministry]], the Seeker of the Perfect World allows the holder to purchase quantities of special materials at a set price. The Seeker makes their decision how much weirwood and/or liao to spend during downtime from their character page. Resources are removed from, and production is placed into, the character's inventory when the downtime is processed.
+
+==Appointment== 
+The Seeker of the Perfect World is [[appointment|appointed]] at the Spring Equinox by the Urizen [[National Assembly]]. 
+
+The title can be held by any Urizen citizen. The Seeker of the Perfect World serves until the next election, or until they die, step down, or are revoked. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Urizen [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=Seeker of the Perfect World.png|caption='''CHARACTER''', Seeker of the Perfect World|align=left|width=200}}-->
+{{RecentElections|Seeker_of_the_Perfect_World}}
+[[Category:Urizen]]
+[[Category:Synod]]
+[[Category:Title]]
+[[Category:Tsark]][[Category:Foreign Nations]]

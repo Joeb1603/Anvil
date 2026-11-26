@@ -1,0 +1,9 @@
+==Overview==
+There are many {{{1}}} in {{{3}}}, but only a comparative handful are involved in the affairs of the Empire (that is, attend the seasonal summits at Anvil). The influence of a {{{2}}} can wax and wane, and involvement in Imperial affairs is not always a reflection of their influence within the nation itself. This page presents in-character information about the {{{2}}}s that attend, or have attended, [[Anvil]] — the kind of thing that someone who asked about the {{{2}}} might uncover from talking to their peers. In each case, the information is provided by the players and edited before being put on the wiki.
+
+The majority of {{{2}}}s listed here represent player-character groups. You should not create a character who is part of a {{{2}}}, or has personal history with one, without first clearing it with the appropriate players. You should also check before including other players' {{{2}}}s in your background. The background team are unlikely to approve a background that significantly impacts or involves another player character {{{2}}} without their permission. There are also a handful of prominent NPC {{{2}}}s included for completeness, but they are not intended for use by player characters.
+<!-- 
+1 is the link to the group page
+2 is the unlinked version of 1
+3 is the link to the nation
+-->

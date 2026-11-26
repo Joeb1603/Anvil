@@ -1,0 +1,8 @@
+<div style="width: {{{Width|500px}}}; float: {{{Float|right}}}; clear: {{{Float|right}}}; margin-left:{{{Margin|10px}}}; margin-right:{{{Margin|10px}}};" class="ic"><div class="ic-inner quote"><p>{{{declaration}}}</p><small>Declaration of Concord, Raised by {{{by}}}, {{{when}}}</small></div>
+</div>
+<noinclude>
+== Usage ==
+<pre>
+{{Concord|declaration=Some text with exciting magical words|by=raising magician, order or title|when=Autumn Equinox 384YE|Float=right by default|Width=500px by default|Margin=10px by default}}
+</pre>
+</noinclude>

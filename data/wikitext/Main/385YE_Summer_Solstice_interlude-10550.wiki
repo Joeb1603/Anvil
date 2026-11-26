@@ -1,0 +1,138 @@
+[[Category:Winds of Fortune]][[Category:385YE Summer]][[Category:Recent History]]
+<div style="float:leftt; width: 650px; clear: leftt;">{{CaptionedImage|file=Swoonsome Egregore.jpg|align=left|caption=The Spring Equinox brings opportunities and challenges.|width=650}}</div>
+==Interlude==
+Downtime will be open shortly, allowing players to process their character's downtime choices. The Summer Solstice winds of fortune will come out shortly before the next event. However, there are a number of significant events happening in the wake of the Spring Equinox that may affect some players' Downtime actions - primarily effects on personal resources or options for characters with [[military unit]] or [[fleet]] personal resources.
+
+On this page we'll be outlining, and offering some context for, these various effects. In most cases, there will be further information in the Summer Solstice Winds of Fortune. As always, these are quick OOC summaries to explain effects such as large-scale enchantments and curses. We'll cover all these and more when we start to present the Winds of Fortune for next event.
+
+'''Downtime is due to close at midnight on Sunday 18th June.'''
+==Warfare==
+Any player whose character controls a [[military unit]] can choose from a number of downtime options. Left to their own devices, a military unit defaults to [[Military_unit#Take_Independent_Action|paid work]] guaranteeing an income of herbs, ingots or measures, money, or mana crystals. Otherwise, they may log into the downtime system and choose to support an army or fortification, or assign to a special project such as a [[spy network]] or an [[Military_unit#Adventures|adventure]]. Players who want to support one of the [[Army|Imperial armies]] can also read the [[Army_orders|orders]] issued by each [[general]] before making their decision.
+
+As always, the guidelines around discussing military matters online can be found [[Online#You_may_not_post_Military_Updates|here]].
+===Destroy the Vyig===
+*'''The League and Varushkan assemblies have enacted mandates urging the destruction of the vyig'''
+The opportunity to help [[Don%27t_blame_me#Light_the_Torches|destroy the vyig criminal organisation]] continues for one more season. The mandate creates an opportunity for [[military unit|military units]] from the League, the Imperial Orcs, and Varushka to take part in breaking the power of the Vyig. This takes the form of an [[Military_unit#Adventures|adventure]] found in the [[Military_unit#Take_Independent_Action|independent action]] dropdown menu: ''Break the Vyig''. Instead of their normal production, any military unit that takes part will receive 144 rings, and 2 random resources (ingots of metal or measures of forest materials). Military units that have been upgraded or enchanted receive commensurately higher rewards.
+===War of Whispers===
+* '''A new adventure is available to military units, to stymie the Whisper Gallery and protect scholars and places of learning'''
+A new [[Military_unit#Adventures|adventure]] for [[military unit|military units]], ''[[A_long_December#Shadow_War|War of Whispers]]'', can be found in the [[Military_unit#Scout_an_Area|scout an area]] dropdown in [[downtime]]. Any military unit that takes part in this adventure is considered to be either guarding scholars - both those with the [[Historical research#Department of Historical Research|Department of Historical Research]], and those at centres of learning threatened by the [[Whisper Gallery]] across the Empire - or else actively working to uncover and stymie the schemes of the eternals' mortal allies and twisted heralds. In place of their normal [[military unit#Production|production]], a standard military unit that undertakes this adventure receives 120 rings and 2 crystal mana, with an enchanted or [[military unit#upgrade|upgraded]] military unit receiving commensurately more.
+
+===Imperial Guerdon===
+The Imperial Guerdon is a bursary set up by the Imperial Senate primarily to reward military units that support Imperial armies, spy networks, and fortifications. The value of the Imperial Guerdon is divided between each military unit and fleet that supports an army in proportion to their effective strength. The [[Quartermaster General of the Imperial Armies]] has the power to exclude any or all Imperial armies and navies, fortifications, or special projects (such as spy networks) from the Guerdon. If they do so, then a character who supports such an army, fortification, or special project will receive nothing for doing so.  
+
+The Guerdon stands at 350 thrones.
+
+This season, the [[Quartermaster General of the Imperial Armies]] has announced that shares of the Guerdon will be shared between military units supporting the following armies or opportunities:
+* Iron Helms
+* Citadel Guard
+* Bounders
+* Fist of the Mountains
+* Summer Storm
+
+==Fleets==
+* '''Imperial fleets can trade with foreign ports and receive valuable goods'''
+* '''Some ports give special bonuses or suffer special penalties'''
+* '''They can also take special actions such as engaging in independent action, or embarking on an adventure'''
+Certain trading destinations apply special effects if a fleet visits them, summarised on the [[385YE_Spring_Equinox_winds_of_fortune#Trade_Summary|Spring Equinox]] wind of fortune. You can also read more about the Empire's foreign relations in the recent '''[[The falling sky]]''' wind of fortune.
+
+Some fleets also have the opportunity to take part in special [[Fleet#Adventures|adventures]] that provide specific rewards. These option are found in the downtime menu as dropdowns. If you don't want to do something specific, your fleet will automatically participate in [[Fleet#Take_Independent_Action|privateering]] - the default independent action available to every fleet captain.
+
+==Other Effects==
+Every season sees large-scale effects impact individuals and nations. Where possible we've summarised these effects here.
+===Dho'uala's Tithe===
+* '''Fleets from Dawn, Varushka, and Holberg suffer a 1 rank penalty to production'''
+* '''The Custodian of the Ivarsgard Docks and the Harbourmaster of the Semmerlak have had some of the prices for their ministries increased'''
+The [[Underwater_sunshine#Dho.27uala.27s_Tithe_-_Fleets|rise of the sovereign]] [[Dho'uala]] in [[the Semmerlak]] impedes [[fleet|fleets]] based in [[Dawn]], [[Varushka]], and [[Holberg]] reducing their production by one rank. Any Dawnish, Varushkan, or Holberg character is free to create their own eerie tales of brushes with the terror of the Semmerlak. The examples given above should provide enough inspiration for a ghostly tale; these are no incidents of glorious battles on the deck of a ship or hordes of horrors clawing up the side of the hull. Rather they are spooky encounters, weird lights, strange disappearances, feelings of being watched, and odd things seen in the depths.
+
+Imperial titles related to [[Underwater_sunshine#Dho.27uala.27s_Tithe_-_Ports|ports on the Semmerlak]]. The Sarcophan captains dealing with the [[Custodian of Ivarsgard Docks]] have increased the price for [[Cerulean Mazzarine]] by a fifth. The recently established [[Harbourmaster of the Semmerlak]] will find that there is less [[ilium]] available to buy and the price has gone up.
+
+===Power of Faith===
+* '''Highborn congregations receive an additional liao, 2 extra votes, and a crown of additional income'''
+* '''League congregations preaching Ambition receive an additional liao and two additional votes in the synod'''
+This season there are several circumstances that affect the production of [[congregation|congregations]] in the Empire. The ''Birthplace of the Way'' means that Highguard congregations gain an additional dose of liao, two additional votes in the Synod, and a crown of income until the end of the Winter Solstice 385YE as detailed in [[Full_of_sacred_sound#Neither_Beg_Nor_Fear|Full of sacred sound]].
+
+At the same time, congregations run by a League citizen [[Congregation#Downtime_Options|preaching]] Ambition receive an additional [[liao]] and two additional votes in the Imperial Synod until the end of the Winter Solstice 385YE. This is explored in more depth in the [[Don%27t_blame_me#The_Price_of_Dreams|Don't blame me]] wind of fortune.
+
+===Free Folk Tutelage===
+* '''Every business in Highguard experiences a -1 rank penalty to production for the rest of the year'''
+The Free Folk seek tutelage in the use of liao to perform the [[Religious skills|ceremonies]] Imperial priests take for granted, The national assembly of Highguard has urged the benefactors of their nation to help support these would-be priests, providing scholarships and bursaries. Every [[business]] in Highguard takes a -1 penalty to production until the end of the Winter Solstice 385YE. This situation is discussed in more detail in the [[Folklore#Finding_the_Way|Folklore]] wind of fortune.
+===Black Frost===
+* '''Every mana site in Dawn provides one fewer mana crystal, and every farm loses 36 rings from their production'''
+* '''In return Tharim provides aid in the conquest of the Barrens'''
+* '''Persists until the start of the Autumn Equinox 385YE'''
+At the [[384YE_Autumn_Equinox_Conclave_sessions#Concord:_Black_Frost|invitation of the Conclave]] [[Tharim]], the Bound King of [[the Thrice-cursed Court]] will [[Throw_back_the_echoes#Tharim|feast on mana sites and farms across Dawn]], sending a black frost to wither crops and draining the essence from crystals to satiate Tharim's endless hunger. All affected resources in the territory lose 36 rings or 1 mana crystal respectively until the end at the start of the Autumn Equinox 385YE. In return he will provide a cadre of steel-bound knights throughout this period to support any Dawnish army that attacks the Barrens, as determined by the enchantress '''Claudia Varkulova of House Remys'''.
+===Good Neighbours===
+* '''Navarr in Therunin, Hercynia, Miaren, and Brocéliande can improve their herb gardens for 1 wain fewer than normal'''
+Thanks to a combination of [[Make a deal|Prosperous citizens]] and a [[384YE_Summer_Solstice_Senate_sessions#Reassure_Great_Forest_Orcs|senate motion]], the [[Great Forest Orcs]] offer their expertise to their Navarr neighbours. Any Navarr with a [[herb garden]] in [[Therunin]], [[Miaren]], [[Hercynia]], or [[Brocéliande]] can improve their resource at the cost of one fewer wain of [[weirwood]] than normal (so, to upgrade a standard herb garden to rank two would cost one weirwood rather than two, and to raise a rank three herb garden to rank four would only need three wains). The effect lasts until the start of the Summer Solstice 385YE. You can learn more in the '''[[Make_a_deal#Good_Neighbours|Make a deal]]''' wind of fortune.
+===Visiting Armada===
+* '''Grendel merchants are enthusiastically trading with businesses in Necropolis'''
+The [[385YE_Spring_Equinox_Synod_judgements#Judgement_112|mandate]] enacted by Wildfyre means that Highborn business owners in Necropolis are encouraged to deal with [[Grendel]] traders visiting Necropolis. Every business in the territory will produce an additional 2 crowns each season.
+
+===Forests and Farms===
+* '''The cost to diversify a farm or forest has been waived in territories affected by Hallow of the Green World'''
+* '''A character can change an upgraded resource for a farm with the same number of upgrades by emailing Profound Decisions before downtime closes'''
+* '''Blessing of New Spring can be used to begin the process of upgrading a standard farm'''
+Following the Spring Equinox, the cost to [[farm#Diversify|diversify a farm]] or [[forest#diversify|diversify a forest]] has [[Children_in_bloom#Living_Things|been waived]]. This also applies to the special diversification option available to Marcher farmers to build monoliths that provide small amounts of mana. This effect does not apply to resources in [[the Barrens]], [[Bregasland]], [[Liathaven]], [[Brocéliande]], [[Spiral]], or [[Feroz]].
+
+Any character may choose to replace their [[Resource#Personal_Resource|personal resource]] with a [[farm]]. If they have a resource that is not upgraded, they can do so without the usual administrative costs - there is plenty of land available for Imperial citizens to set up a new concern.  A character can also exchange an upgraded resource for a farm with an equal number of upgrades, provided they have the required 2 crowns in their inventory. In each case this is done by emailing [mailto:plot@profounddecisions.co.uk plot@profounddecisions.co.uk] before [[downtime]] closes
+
+Owners of standard [[farm|farms]] - those which have not been upgraded - can use [[Blessing of New Spring]] to begin [[Rain_king#From_Stony_Soil|improving those farms]]. The process takes until the start of the Winter Solstice 385YE, and requires the ritual to be performed on the farm at every event the owner attends.
+
+===Boon of the Grimmelkint===
+* '''Every forest in the Empire receives a 1 rank boon from the Grimmelkint boggarts'''
+During the Spring Equinox, a number of [[A_murder_of_one#Threats_of_the_Grimmelkint|Grimmelkint boggarts]] arrived at [[Anvil]]. Imperial citizens managed to peacefully encourage them to depart for the Spring realm, with only minimal disruption. Until the start of the Summer Solstice, the Grimmelkint in other parts of the Empire will be friendly and helpful, rather than destructive, meaning that every [[forest]] will produce additional resources (gain an additional rank).
+===Kahraman Problems===
+* '''Several titles in Kahraman have been affected by thieving raids from orcs and humans alike'''
+The Imperial Senate has [[385YE_Spring_Equinox_Senate_sessions#Rebuild_Roads_of_Kahraman|commissioned repairs to the roads]] in [[Kahraman]], and the construction of defensive kamkrag across the territory. While work is underway, however, valuable resources in the territory remain at risk of attacks from raiders, both orc and human, as detailed in the [[Time_and_time_again#The_Kahraman_Problem|Time and time again]] wind of fortune. This means that the production of the [[Damatian Cliffs]] is reduced by 7 wains of white granite each season and the production of the [[Great Mine of Briante]] is also reduced by 6 wains each season. Not all the lost wains will be stolen by bandits or thieves; the reduction also represents the challenge of getting workers safely to and from the quarry and the mine. The [[Dhomiro of the Cinnabar Hills]] remains under pressure and will no longer have access to the two highest ranks of their [[ministry]]. Likewise, with the difficulty of safely moving metal out of the mountains the [[Mistress of the Dust Parador]] can no longer access the top two ranks of ''their'' ministry. Obviously the matter may well become moot if the Jotun successfully conquer [[Kahraman#Jade Range|Jade Range]], where the Parador stands.
+
+===Resonating Magic===
+* '''A powerful Autumn ritual has been performed across the entire Empire'''
+* '''Regrow the Lands Heart are also in effect'''
+Following the Spring Equinox, an unfamiliar magical power pours out from the Anvil regio and blankets the entire Empire with Autumn magic. The effects of this magic will be detailed in Winds of Fortune.
+
+[[Regrow the Land's Heart]] has been cast in [[Madruga]], and will help to contain the spread of the [[Enchanted#The_Thirsty_Grasses|desiccating blight]] on the Great Grasses.
+
+===Everything Costs===
+* '''Businesses in the League cost one less wain to upgrade until the start of the Winter Solstice 385YE'''
+Upgrading a [[business]] personal resource costs one less wain of [[white granite]] than usual as part of a grand competition. This effect is detailed in the '''[[The_money_goes_round#Everything_Costs|The money goes round]]''' wind of fortune.
+
+===Atalaya Harbour===
+* '''Fleets in Madruga cost one less wain to upgrade'''
+Upgrading a [[fleet]] personal resource costs one less wain of [[weirwood]] for as long as the [[Construct Atalaya Harbour|Atalaya Harbour]] remains and the Freeborn do not control [[Feroz]]. This effect is detailed in the '''[[The_power_behind_our_moves#Atalaya|The power behind our moves]]''' wind of fortune.
+
+===A gift of new talents===
+* '''Characters whose personal resource was in the Mournwold at the start of the Spring Equinox can change their skills'''
+* '''Businesses in the Mournwold receive an extra 36 rings'''
+A summer enchantment affected the Mournwold in the run-up to the Spring Equinox as detailed in the [[You_can%27t_count_on_me#A_Gift_of_New_Talents|Winds of Magic]]. Any character who personal resource was in the Mournwold at the start of the Spring Equinox can completely change their character skills between event by sending an email to plot@profounddecisions.co.uk with details of which skills they wish to change. It is fine to keep some skills and change others. This represents the fact that the Summer magic encourages people in the Mournwold to find new ways to apply their natural talents, and to take up new skills. 
+
+There is also a boon to trade across the territory as beautiful works of art, finely crafted items, excellent quality pies, ales, and spirits are very much in demand. Every business resource in the Mournwold following the event will produce an additional 36 rings.
+
+==A Contest of Imagination==
+At the Summer Solstice, the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]] will receive submissions for an [[Blood_will_thicken#A_Contest_of_Imagination|contest]] centred around a construction that will transform the city of Bastion into a beacon for pilgrims and supplant Timoj as the centre of the Way of Virtue.
+
+At the Spring Equinox 385YE, the [[Cardinal|cardinals]] presented the Civil Service with the following details as to how this contest will be held.
+
+* The Assembly of the Nine will place a box in the Civil Service Hub to receive submissions
+* Submissions may be made up until 14:00 Saturday at the Summer Solstice 385YE
+* Submissions are limited to a single sheet of A4 paper
+* One side may contain sketches, illustrations or other artwork and should clearly identify the creator
+* The other side may contain text (please ensure any text is no smaller than 14-point, and uses a clear and legible font)
+* Submissions that do not adhere to these rules will not be considered for the contest
+
+The Assembly of the Nine will judge the submissions at their leisure and make their selection by submitting a [[Statement of Principle]] in the Assembly of the Nine clearly identifying the winner, and passing the winning submission onto the Civil Service.
+
+Any questions about the contest should be directed to the Assembly of the Nine. A list of all the current cardinals is available [[Cardinal#Incumbent|here]] and will be posted on the wall of the [[Anvil#The_Hub|Hub]] throughout the event.
+
+<box>'''<big>OOC Note'''</big><br>Empire includes a large element of hard skills - the success and triumphs that your character has on the field are often down to your abilities as a player, whether that's fighting in battle, trading in the Bourse or giving a speech in the Senate. For that reason we would politely ask participants to only submit original compositions created by participants in the game. This competition is a chance for the many fantastic artists in the Empire community to achieve glory. It's fine for a player-character to hire another player-character if they pay them with in-character funds, but submitting a piece of art that was purchased out-of-character, created by someone who isn't an active participant in Empire or using AI to create a submission is outside of the spirit of this contest.</box>
+
+==Mandates==
+* '''You can find details of the mandates, along with the rest of the Synod judgements, [[385YE_Spring_Equinox_Synod_judgements#Mandate|here]].'''
+Seven mandates were successfully upheld in the Imperial Synod. All mandates have automatically been enacted as long as the named priest has sufficient liao in their inventory before downtime opens. Several mandates were upheld by their respective assemblies but not enacted.
+
+==Imperial Lore==
+Three rituals were put forward for inclusion in Imperial Lore during the Spring Equinox: The [[Grandmaster]] of the [[Rod and Shield]] [[385YE_Spring_Equinox_Conclave_sessions#Imperial Lore: Mantle of the Kriegszauberer|proposed]] [[Mantle of the Kriegszauberer]], the Grandmaster of the [[Unfettered Mind]] [[385YE_Spring_Equinox_Conclave_sessions#Imperial Lore: Dreadful Ending|presented]] [[Dreadful Ending]], and the [[Dean of the Lyceum]] [[385YE_Spring_Equinox_Conclave_sessions#Imperial Lore: Sorin's Chastising Touch|presented]] [[Sorin's Chastising Touch]]. The thrones required for each ritual have been contributed, and the rituals are now available for any Imperial magician to master.
+
+==Urizen Lore==
+No new rituals were added to Urizen lore during the Spring Equinox.
+==Runesmiths' Law==
+The schema for [[Redwall's Wrath]] was added to the collection at Runegrott, becoming part of Runesmiths' Law. the [[Icewalker's Anvil]], [[Eagle's Talon]], and [[Kingfisher's Promise]].

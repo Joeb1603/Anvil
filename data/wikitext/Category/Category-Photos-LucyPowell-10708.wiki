@@ -1,0 +1,9 @@
+Lucy Powell
+
+Lucy is on [https://ko-fi.com/lucyviolet ko-fi] if you want to support her work directly.
+
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>{{Lucy}}
+</nowiki>''

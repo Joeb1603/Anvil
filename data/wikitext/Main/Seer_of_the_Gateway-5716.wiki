@@ -1,0 +1,57 @@
+==Overview==
+{{CaptionedImage|file=Livia_played_by_Isobel_Hooper.jpg|title=Livia of the Spire of the Celestial Cascade, first Seer of the Gateway|caption=The Seer of the Gateway ensures the safety of citizens<br>experiencing a [[true liao]] vision and records their experiences.|align=right|width=300}}
+The position was [[Create_title_of_Seer_of_the_Gateway|established]] by the Senate at the Winter Solstice summit of 379YE. The Seer of the Gateway exists to ensure the safety, and record the experiences, of citizens returning from a [[past life vision]].
+
+The first Seer of the Gateway was '''Livia of the Spire of the Celestial Cascade''' of [[Urizen]], appointed in Winter 379YE by the Assembly of the Nine. No other candidates were considered. Livia is a skilled Torchbearer with years of experience helping visionaries to recall every last detail of their vision, as well as dealing with the side-effects of the process. Even before being appointed to the title, she would often approach visionaries to ask for permission before their vision, and wait for them to emerge afterwards. 
+
+When it was created, The Seer of the Gateway had the power to withdraw funds directly from the [[Rewarding|virtue fund]]. Shortly before the Summer Solstice 385YE, however, the Constitutional Court ruled that the [[Rings_and_crowns#Virtue_and_Reward|ability to withdraw funds directly from the virtue fund was unconstitutional]], and struck the power down.
+
+==Responsibilities== 
+The Seer of the Gateway has four main responsibilities. Firstly, to safeguard the well-being of visionaries and guide priests partaking in [[Liao#True Liao|True Liao]]. They are also expected to record the visions, and experiences, of visionaries and guide priests, as well as to publish and disseminate their records and any conclusions. Finally, they are expected to be able to purchase [[liao]] and other paraphernalia in support of their duties. 
+__TOC__ 
+==Powers==
+===Stipend===
+The Seer of the Gateway receives a stipend of two thrones each season from the Imperial Treasury.
+
+===Publication===
+The Seer of the Gateway is expected to compile and publish accounts of Imperial [[true liao]] visions. During the Summer Solstice 382YE, the Imperial Senate agreed to pay to [[Amend_distribution_of_Echoes_of_the_Labyrinth|distribute]] copies of these documents to every foreign nation with which the Empire trades. This decision was [[Amend_distribution_of_Echoes_of_the_Labyrinth|amended]] to exclude the [[Iron Confederacy]]. During the Spring Equinox 387YE, the Imperial Senate [[387YE_Spring_Equinox_Senate_sessions#Abrogate Distribution of Echoes of the Labyrinth|abrogated]] the motion to distribute the Echoes of the Labyrinth.
+
+==Appointment==
+The Seer of the Gateway is [[appointment|appointed]] by [[judgement]] of the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+Any Imperial citizen may hold the title. The Seer has [[tenure]], and serves until they die or step down. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the Assembly of the Nine.
+
+==Publication==
+In the Spring of 380YE Livia struck a publication deal with the Spider's Vantage Spire of Redoubt, who published her accounts of visionaries' experiences across the Empire. You can find the existing ''Echoes of the Labyrinth'' texts below; the Spider's Vantage Spire have let it be known that they intend to publish more after each Anvil summit.
+
+During the Summer Solstice 382YE, the Senate agreed to [[Disseminate_True_Liao_visions|fund the distribution]] of Echoes of the Labyrinth to foreign nations - or at least to the nations the Empire trades with. Some foreign nations have received the volumes enthusiastically, some a little less so. Details of the somewhat mixed response can be found [[Disseminate_True_Liao_visions#Distribution|here]].
+
+During the Spring Equinox 387YE, the Senate [[387YE_Spring_Equinox_Senate_sessions#Abrogate_Distribution_of_Echoes_of_the_Labyrinth|voted]] to abrogate the distribution of Echoes of the Labyrinth to foreign nations.
+{|
+|-
+|'''Dates of Visions''' || '''Volume'''
+|-
+|Winter 385YE - Autumn 386YE|| [https://www.profounddecisions.co.uk/mediawiki-public/images/6/67/Echoes_of_the_Labyrinth_10.pdf Volume 10]
+|-
+|Winter 384YE - Autumn 385YE|| [https://www.profounddecisions.co.uk/mediawiki-public/images/f/fc/EchoesoftheLabyrinth9.pdf Volume 9]
+|-
+|Winter 383YE - Autumn 384YE|| [https://www.profounddecisions.co.uk/mediawiki-public/images/a/a4/EchoesoftheLabyrinth8.pdf Volume 8]
+|-
+|Winter 382YE - Autumn 383YE|| [https://www.profounddecisions.co.uk/mediawiki-public/images/6/6d/EchoesoftheLabyrinth7.pdf Volume 7]
+|-
+|Winter 381YE - Autumn 382YE|| [https://www.profounddecisions.co.uk/mediawiki-public/images/8/87/EchoesoftheLabyrinth6.pdf Volume 6]
+|-
+|Winter 380YE - Autumn 381YE|| [https://www.profounddecisions.co.uk/mediawiki-public/images/8/87/EchoesoftheLabyrinth5.pdf Volume 5]
+|-
+|Winter 379YE - Autumn 380YE|| [https://www.profounddecisions.co.uk/mediawiki-public/images/f/f9/Echoes_of_the_Labyrinth_4.pdf Volume 4]
+|-
+|Winter 378YE - Autumn 379YE || [https://www.profounddecisions.co.uk/mediawiki-public/images/7/75/Echoes_of_the_Labyrinth_3.pdf Volume 3]
+|-
+|Winter 377YE - Autumn 378YE || [http://www.profounddecisions.co.uk/mediawiki-public/images/4/45/EchoesoftheLabyrinth2.pdf Volume 2]
+|-
+|Winter 376YE - Autumn 377YE || [https://www.profounddecisions.co.uk/mediawiki-public/images/8/8d/EchoesoftheLabyrinth1.pdf Volume 1]
+|-
+|}
+{{RecentElections|Seer_of_the_Gateway}}
+[[Category:Synod]]
+[[Category:Title]]

@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Proposed: Spiral, Seconded: Tassato">To build and cede the Chamber of Euphony, a fane to Sung in Apulus, Spiral. The associated Imperial title, the Map to the City Below, to be appointed on an annual basis by the League National Assembly, and revocable by the League or General Assemblies, or the Assembly of Nine, with the responsibility to oversee the Chamber of Euphony and encourage the spread of magic, music, and mystery in Apulian.</quote>
+==Overview==
+* Constructs a [[fane]] in Apulus, Spiral
+* Passed
+* More information on this motion can be found in the '''[[The_play_that_came_to_Apulian#Writhing_Tails,_Flashing_Wing|The play that came to Apulian]]''' wind of fortune.
+
+==Date==
+* Spring 387YE
+
+==Cost==
+* Costs as per opportunity
+* 15 mithril
+* 12 ilium
+* 5 thrones
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Chamber_of_Euphony}}
+==Outcome==
+* Now complete, the [[Map to the City Below]] will be available to appoint by the League Assembly for the first time

@@ -1,0 +1,58 @@
+{{CaptionedImage|file=EstavusArt.jpg|title="Fire and Iron" artist unknown. It depicts the burning furnaces on the slopes of Shikal, which are said to belch forth black smoke in such abundance that the entire mountain-city is cloaked in darkness at all times.|caption=''Fire and Iron'' represents the volcanic furnaces of Shikal.|align=left|width=400}}
+==Eternal of Autumn==
+===Sobriquets===
+Most commonly, she is known as ''The Forgemistress'', or the ''Sovereign Lord of the City of Fire and Stone''. 
+
+She may also be called ''The Prince of Shikal'', ''The Bronze Artisan'', ''The Towers of Calx and Coom'' and occasionally ''The Hammer of Fire and Stone''.
+
+In the [[Sumaah Republic]], she is known as ''the Anvil of Thunder and Granite''. She is popular with Sumaash magicians due to its aid being straightforward and deeply transactional.
+
+==Appearance==
+Estavus is a powerfully built female with bronze skin and curling steel horns. Her left arm appears to be made of metal, and she is usually clad in a metal breastplate wielding a two-handed hammer. She is often marked with soot either from her infernal volcanic home or from her work at her forge.
+
+The Forgemistress is often accompanied by lesser eternals and heralds who serve her as guards or assistants, but she is often found with magical metal constructs such as brass minotaurs; warriors crafted of living [[Materials#materials|dragonbone]]; or bejewelled courtiers of ivory and porcelain who converse in gentle, soothing terms and appear quite intelligent.
+
+==Concerns==
+The Prince of Shikal dwells in a great city that occupies an active volcano of immense size. The Forge of Shikal holds the immense workshop of Estavus, suspended above the living magma of the volcanic caldera. The City of Fire and Stone is inhabited by artisans and labourers, and riddled with deep delves that drop down far below the surface of the realm into great mines.
+
+Estavus is driven to build, construct and create. Her ambition is to reshape entire worlds; she seeks to encourage others to do the same by mastering nature and building great cities and fortresses. If she had her way, the wilderness would be tamed with roads and cities, and natural things would be found only in parks. She is especially driven to create artificially living things that mimic natural plants and beasts.
+{{CaptionedImage|file=EstavusConstruct.jpg|title=Estavus crafts her servitors in many shapes and forms, and is known to lend them to those who gain her favour.|caption=A bronze guardian, a typical servitor of Estavus.|align=right|width=300}}
+She constantly desires raw materials from the mortal realm; while she has access to strange metals from the mines around her domain, she has no ready source of the magical materials found in the mortal realm.
+
+While she is somewhat singleminded, she is still an eternal of Autumn. She is fascinated by, and well versed in, the ways that crafters can exert power. Being able to make something for someone else is potentially an incredible source of influence. The rarer the things a crafter can craft, the more power they wield. She supports and encourages the formation of artisan guilds that create monopolies to protect their interests and influence their fellows, and she is known to have a special interest in [[The League|League]] [[Guild|carta]], [[Dawn|Dawnish]] [[weaver cabal|weaver cabals]], and both [[The Marches|Marcher]] and [[Wintermark|Winterfolk]] smiths. She is said to have a great deal of interest in the guilds of the [[Sarcophan Delves]].
+
+It is almost unknown for Estavus to respond in person to a [[Archmage#Plenipotentiary|plenipotentiary]] missive from the [[Archmage of Autumn]]. Sometimes she will dispatch a favoured lieutenant, if the matter requires direct negotiation. More often, she seems to take plenipotentiaries as invitations to perform work - meaning she is likely to simply send some [[Inhabitants of the realms#Heralds|heralds]] to assess a situation and put forward a proposal for how she might use her assets to deal with that situation. This is commonly seen in response to requests to offer her aid in building projects such as [[Spiral#Curstag's_Way|Curstag's Way]] or the Crucible of Fate, for example. Even if heralds are dispatched, they are usually members of one of the guilds that make up the population of the ''City of Fire and Stone'' rather than creatures who report directly to the ''Mistress of the Fire Mountain''.
+
+==Boons==
+Estavus has made numerous bargains with mortal ritualists and offers her power directly to rituals such as [[The Anvil of Estavus]] and [[Before the Throne of Estavus]] and indirectly to [[Timeless Hammer Rhythm]] or [[Smooth Hands Shape the World]]. She can offer several boons related to the [[Crafting skills#Artisan|artisan]] skill. She may be called on to provide any of these boons or to craft unique weapons and armour in her forge as well as larger structures such as castles, bridges or roads.
+
+She has been known to lend her constructs to mortals for a short time, sometimes as additional troops, sometimes as labourers of grand constructions, and sometimes in a more personal capacity. She can even create unique constructs, fit for a specific purpose.
+
+What she can create she can also destroy - she can reduce anything created by crafters or artisans to its component parts. Likewise, she can destroy constructs and offer assistance in the form of things that will [[Calls#SHATTER|shatter]] weapons or shields.
+
+==Rituals that deal with Estavus==
+The following formulaic rituals are widely known to deal directly with Estavus. Rituals with an <sup>[[#1|(1)]]</sup> are part of [[Urizen lore]] rather than [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]]. Rituals that are defunct - either withdrawn by the eternal or no longer functional - have a line through them.
+
+<table class='wikitable mw-collapsed mw-collapsible sortable'><tr><th>Ritual</th><th>Eternal</th><th>Explanation</th><th>Realm</th><th>Mag.</th></tr>
+<tr><td>[[Before the Throne of Estavus]]</td><td>[[Estavus]]</td><td>Swaps raw materials for Autumn mana.</td><td>Autumn</td><td>4</td>
+<tr><td>[[Fire on the Water]]</td><td>[[Estavus]]</td><td>Draws on a contract with the House of Fire and Flame to gain their aid</td><td>Autumn</td><td>120</td>
+</table>
+====Mystic Scrolls of Estavus====
+During the Summer Solstice 384YE, in response to a [[Archmage#Plenipotentiary|plenipotentiary]] from the [[Archmage of Autumn]], Edmundo of Damakan's forge, Estavus made a quartet of ''[[Mystic_scrolls_of_Estavus|mystic scrolls]]'' available to Imperial magicians - assuming they were [[Begin_to_speak#Estavus|prepared to pay for them]]. These scrolls were temporary texts, similar to a ritual text, that allowed up to a dozen magicians to master a specific ritual drawing on Estavus' power. They were only potent for the Summer Solstice, but any magician who used one to master the magic they contained retained that knowledge just as they would any other mastered ritual. The scrolls made available included [[Mystic scrolls of Estavus#Ramparts of Ashlar|Ramparts of Ashlar]], [[Mystic scrolls of Estavus#Hammers of Fury|Hammers of Fury]], and [[Mystic scrolls of Estavus#Accoutrements of War|Accoutrements of War]]. A fourth ritual, Machines of Destruction, is no longer available and has ceased to function.
+
+==Further Reading==
+<div style="float:right; width: 350px; clear: right;">[[file:Estavus001a.png|align=right|width=350]]</div>
+* [[Has_reared_himself_a_throne#Sculptured_Ivy_and_Stone_Flowers|Has reared himself a throne]] - 387YE Autumn plenipotentiary
+* [[Hammers_and_boxes#Ceaseless_Hammers|Hammers and boxes]] - 386YE Winter Wind of Fortune detailing offers to clear Pakaanan's Pass and help build [[Spiral#Curstag's_Way|Curstag's Way]]
+* [[Secret_meeting#Endless_Ringing|Secret meeting]] - 386YE Winter plenipotentiary
+* [[Metal and stone]] - 386YE Summer Wind of Fortune detailing proposals by the ''Architects of Iron and Stone'' to improve Imperial [[Bourse]] seats.
+* [[Cities_of_the_Iron_Labyrinth#Towers_of_Calx_and_Coom|Cities of the Iron Labyrinth]] - 386YE Spring Wind of Fortune detailing boons offered by Estavus
+* [[Dream_to_me#Estavus|Dream to me]] - 386YE Spring plenipotentiary
+* [[Inkpot_gods#City_of_Fire_and_Stone|Inkpot gods]] - 385YE Summer wind of fortune detailing boons offered following the ''Bounty of the Brilliant Broker'' [[:Category:Imperial_Enchantment|Imperial enchantment]]
+* [[Fate and function]] - Summer 385YE Wind of Fortune detailing Estavus' involvement with the [[Zenith#Crucible_of_Fate|Crucible of Fate]]
+* [[Three_and_three#Estavus|Three and three]] - Summer 385YE plenipotentiary
+* [[Begin to speak#Estavus|Begin to speak]] - Summer 384YE plenipotentiary including the offer of [[Mystic scrolls of Estavus]].
+* [[A_pleasing_and_deceptive_face#Estavus|A pleasing and deceptive face]] - 383YE Autumn plenipotentiary
+* [[Hunter_of_stars#Estavus|Hunter of stars]] 382YE Spring plenipotentiary
+* [[Immortal_hand#Estavus|Immortal hand]] - 381YE Spring plenipotentiary
+[[Category:Eternals]]

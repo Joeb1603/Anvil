@@ -1,0 +1,25 @@
+[[Category:Senate Motion]][[Category:388YE Spring]]
+__NOTOC__
+<quote by="Proposed: Mournwold, Seconded: Weirwater">To commission the Mournwold expansion to the Breadbasket, along with the Keeper's Cottage in Mitwold and to ask for a disbursement of funds.
+</quote>
+==Overview==
+* Constructs a [[great work]] in Mournwold and a [[sinecure]] in Maiden Downs, Mitwold, as per the '''[[Search high and low|Search high and low]]''' wind of fortune. 
+* Passed
+
+==Date==
+* Spring 388YE
+
+==Cost==
+* Costs as per opportunity
+* 39 wains of weirwood
+* 19 wains of white granite
+* 174 crowns in labour costs
+* Six months to complete
+
+==Progress==
+{{CommissionProgress|Expand_Breadbasket_into_Mournwold}}
+==Outcome==
+Now complete, the expansion of the Breadbasket will have the following effects: 
+* Grant every farm in the Mournwold an additional 36 rings each season, starting at the Winter Solstice 388YE
+* Increases the Marcher ability to support armies by one, once Bregasland is back in Marcher hands
+Now complete, the Keeper's Cottage provides the [[Keeper of the Breadbasket]] with an income of 12 crowns a season, starting at the Winter Solstice 388YE

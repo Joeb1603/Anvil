@@ -1,0 +1,125 @@
+[[Category: Conclave]] [[Category: Conclave Sessions]] [[Category: 385YE Spring]]
+==Precedence and the Font==
+*'''The income from the Principle of Proportions was 61 mana.'''
+*'''The remainder from previous seasons was 2 mana.'''
+The members of each order in attendance at the end of the previous summit determine precedence for the following summit according to the [[Principle of Precedence]]. The income of mana following the previous summit is listed above and was distributed as per the table below. This left 4 mana, which will be added to the font of the next summit along with the income from the Principle of Proportions at this summit.
+
+There was 320 mana in the font at the start of the Spring Equinox.
+<table class="wikitable mw-collapsible sortable"><tr><th>Order</th><th>Precedence</th><th>Members</th><th>Mana</th><th>Ilium</th></tr>
+<tr><td>Grandmaster of the Order of the Rod and Shield</td><td>1</td><td>83</td><td>11</td><td>3</td></tr>
+<tr><td>Grandmaster of the Order of the Unfettered Mind</td><td>2</td><td>77</td><td>10</td><td>3</td></tr>
+<tr><td>Grandmaster of the Order of the Sevenfold Path</td><td>3</td><td>64</td><td>9</td><td>2</td></tr>
+<tr><td>Grandmaster of the Order of the Shuttered Lantern</td><td>4</td><td>61</td><td>8</td><td>2</td></tr>
+<tr><td>Grandmaster of the Order of the Silver Chalice</td><td>5</td><td>57</td><td>8</td><td>1</td></tr>
+<tr><td>Grandmaster of the Order of the Golden Pyramid</td><td>6</td><td>54</td><td>7</td><td>1</td></tr>
+<tr><td>Grandmaster of the Order of the Celestial Arch</td><td>7</td><td>49</td><td>6</td><td>1</td></tr>
+</table>
+__TOC__
+==Friday Session==
+===License: Imperial Crown===
+* '''Raised by:''' Aitana i Riqueza, Prefect of the Conclave
+* '''Declaration:''' The Imperial Crown to be no longer interdicted
+* '''Outcome:''' Passed
+
+===Candidacy: Witness to Conclave===
+* '''Raised by:''' Tyburn Weaver, Order of the Shuttered Lantern
+* '''Declaration:''' To appoint the title of Witness to Conclave
+* '''Outcome:''' Passed, Bryn Netherwatch claimed the title
+
+===Interdiction: Freedom of the Soul===
+* '''Raised by:''' Elagabala, Order of the Sevenfold Path
+* '''Declaration:''' To interdict the ritual Freedom of the Soul
+* '''Outcome:''' Failed
+
+===Candidacy: Bursar of the Conclave===
+* '''Raised by:''' Eliza, Order of the Unfettered Mind
+* '''Declaration:''' To appoint the title of Bursar of the Conclave
+* '''Outcome:''' Passed, Brynn Vision Enduring claimed the title
+
+===Alignment: Siakha===
+* '''Raised by:''' Ibiss Briarheart, Archmage of Spring
+* '''Declaration:''' To move Siakha to neutrality
+* '''Outcome:''' Passed, Siakha is no longer under enmity
+
+===Concord: Support the Crucible of Fate===
+* '''Raised by:''' Arsenio, Order of the Golden Pyramid
+* '''Declaration:''' Conclave believes that the Golden Pyramid should turn their knowledge, skill and ingenuity to supporting the artisans of the Crucible of Fate in Zenith. Let us help the artisans and their crucible reach their full potential
+* '''Outcome:''' Passed
+
+===Concord: Invite the Koboldi===
+* '''Raised by:''' Fausta Ankarien, Order of the Silver Chalice
+* '''Declaration:''' The magicians of Zenith invite those of the ''koboldi'' who helped to construct the Crucible of Fate now to dwell in the rooms they created beneath it. May they find a home may we welcome them - let us work together in our shared interests
+* '''Outcome:''' Passed
+
+===Concord: Magical Crime===
+* '''Raised by:''' Ashborn Trosk, Order of the Celestial Arch
+* '''Declaration:''' Conclave urges citizens of the Empire to come to the Celestial Arch and share their opinions on magical crime.
+* '''Outcome:''' Failed
+
+===Imperial Lore: Mantle of the Kriegszauberer===
+* '''Raised by:''' Sakari Nightscale, Order of the Rod and Shield
+* '''Declaration:''' To add Mantle of the Kriegszauberer, a gift from the Commonwealth
+* '''Outcome:''' Passed; [[Mantle of the Kriegszauberer]] is now part of [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]].
+
+==Saturday Session==
+===Concord: Empress in the Conclave===
+* '''Raised by:''' Æsa Sigeling, Imperial Magus
+* '''Declaration:''' The Empress should be fully engaged with all bodies of state. The Throne is the vital link to draw together Senate, Conclave, Synod, Bourse and the Military Council. As such, any candidates who have not made the effort to engage with Conclave should not be supported
+* '''Outcome:''' Passed
+* '''Notes:''' This Concord has inspired Imperial magicians to encourage the Conclave to offer guidance to the Imperial Senate in their choice of [[the Throne|Throne]]. Further details are provided in the [[Concord and accord]] Wind of Fortune.
+
+===Imperial Lore: Sorin's Chastising Touch===
+* '''Raised by:''' Simargl, Dean of the Lyceum
+* '''Declaration:''' To add Sorin's Chastising Touch to Imperial Lore
+* '''Outcome:''' Passed; [[Sorin's Chastising Touch]] is now part of Imperial Lore.
+
+===Imperial Lore: Dreadful Ending===
+* '''Raised by:''' Palaphon Ankarien, Order of the Unfettered Mind
+* '''Declaration:''' To add Dreadful Ending to Imperial Lore
+* '''Outcome:''' Passed; [[Dreadful Ending]] is now part of Imperial lore
+
+===Candidacy: Archmage of Winter===
+* '''Raised by:''' Lenni Voittoson, Order of the Rod and Shield
+* '''Declaration:''' To appoint the title of Archmage of Winter
+* '''Outcome:''' Passed, Ematius Ankarien remains the Archmage of Winter
+
+===Concord: Emissary to the Tchemetzi===
+* '''Raised by:''' Ashborn Trosk, Order of the Celestial Arch
+* '''Declaration:''' Conclave asks the Celestial Arch to send a diplomatic emissary to the Tchemetzi family in Faraden
+* '''Outcome:''' Passed
+
+===Reconciliation: Aethelric the Grounded===
+* '''Raised by:''' Bryn Netherwatch, Witness to Conclave
+* '''Declaration:''' Sorcery is a powerful political tool of the Conclave, and it is no longer in the Conclave's interest for Aethelric to carry this status. He has acted and continues to act to save Imperial lives and to ensure Imperial law can be upheld wherever possible
+* '''Outcome:''' Passed; Aethelric the Grounded is no longer a [[Sorcery#Prominent_Sorcerers|sorcerer]].
+
+===Concord: Approval of Sadogua===
+* '''Raised by:''' Elian i Carilla i Guerra, Rogue Declaration
+* '''Declaration:''' The Conclave approves Sadogua's actions to bring Suranni wizards into the Empire
+* '''Outcome:''' Passed
+
+===Dissemination: Circle of Gold===
+* '''Raised by:''' Rafael Barossa di Tassato, Order of the Sevenfold Path
+* '''Declaration:''' Disseminate the Circle of Gold to Rafael Barossa di Tassato
+* '''Outcome:''' Passed
+* '''Notes:''' This Declaration was raised under the Veil of Night
+
+===Candidacy: Custodian of the Lost===
+* '''Raised by:''' Fausta Ankarien, Order of the Silver Chalice
+* '''Declaration:''' To elect someone to the position of Custodian of the Lost
+* '''Outcome:''' Passed, Anthemius claimed the title
+
+===Dissemination: Delve Deep, Beneath the Mountain===
+* '''Raised by:''' Arsenio, Order of the Golden Pyramid
+* '''Declaration:''' Dissemination of Delve Deep Beneath the Mountain to Faraden magician families who requested it via the Civil Service at the embassy
+* '''Outcome:''' Passed
+
+===Concord: Rock of Bleeding Ice===
+* '''Raised by:''' Tyburn Weaver, Order of the Shuttered Lantern
+* '''Declaration:''' Conclave agrees that Agramant is the eternal of broken boundaries, cursed gifts and transgressions. We know who he is. There is always a cost . Therefore the rock of bleeding ice is a magical threat to the Empire and must be destroyed.
+* '''Outcome:''' Passed
+
+===Endowment: Wayhouse of the High Path===
+* '''Raised by:''' Brynn of Vision Enduring, Bursar of the Conclave
+* '''Declaration:''' For the Wayhouse, formerly, of Harad of the High Path to be endowed to the Custodian of the Lost in the interest of expanding the site into a hospital for the treatment of magical ailments
+* '''Outcome:''' Passed

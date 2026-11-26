@@ -1,0 +1,51 @@
+{{CaptionedImage|file=Elos Harbour.png|align=left|width=400}}
+==Overview==
+Constructed [[Construct Great Harbour of Elos|by order]] of the [[Senate]], work was completed on restoring the Great Harbour shortly before the Autumn Equinox 384YE. 
+
+==Responsibilities==
+The Elosian Architect is expected to oversee the Great Harbour of Elos, engaging in trade for foreign herbs and supporting the [[fleet]] owners of [[Redoubt]]. If the Great Harbour were to be threatened in any way, it would be the responsibility of the Architect to deal with those threats.
+
+==Powers==
+===Ministry===
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Cerulean Mazzarine'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>5 ingots of green iron</td><td>10 drams of [[Cerulean Mazzarine|cerulean mazzarine]]</td></tr>
+<tr><td>10 ingots of green iron</td><td>18 drams of cerulean mazzarine</td></tr>
+<tr><td>15 ingots of green iron</td><td>25 drams of cerulean mazzarine</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Bladeroot'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>5 ingots of orichalcum</td><td>9 drams of [[bladeroot]]</td></tr>
+<tr><td>10 ingots of orichalcum</td><td>16 drams of bladeroot</td></tr>
+<tr><td>15 ingots of orichalcum</td><td>22 drams of bladeroot</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''True Vervain'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>5 ingots of weltsilver</td><td>12 drams of [[True Vervain|true vervain]]</td></tr>
+<tr><td>10 ingots of weltsilver</td><td>20 drams of true vervain</td></tr>
+<tr><td>15 ingots of weltsilver</td><td>26 drams of true vervain</td></tr>
+</table>
+</div>
+As a [[ministry]], the title of Elosian Architect allows the holder to trade ingots of metals for set quantities of herbs. The Architect spends their ingot and makes their choices during downtime from their character page. Materials are removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+==Appointment==
+This title is auctioned during the Autumn Equinox. 
+
+Any Imperial citizen can participate in the auction and hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Elosian_Architect}}
+==Great Harbour at Elos==
+In Spring 384YE the [[Prosperity]] assembly urged virtuous citizens to find a way to build up the prosperity of [[Redoubt]]. They [[To_see_what_you_sell#Redoubt|proposed]] that the port facilities at [[Redoubt#Elos|Elos]] be [[To_see_what_you_sell#Restoring_Elos|restored to their former glory]].  Once the main port for Urizen's small navy, time had reduced it to little more than a sleepy fishing village. Yet even before the expansion work was undertaken the quayside was extensive and the harbour wall  fortified. There had been idle talk for years of bringing the port back into major use, but it had always been overshadowed by the more advanced facilities further up the river at [[Redoubt#Cargo|Cargo]].
+
+With [[Spiral]] in in the hands of the [[Grendel]], Redoubt represented the entirety of the Urizen coast, and there had been a concomitant increase in [[fleet|trade]] into the ports of Redoubt as a result. Ever since the docks at [[Spiral#Apulus|Apulus]] were destroyed, more and more vessels had been putting into port at Cargo, [[Redoubt#Optarion|Visten]], and Elos. While Cargo was the preferred destination of many captains, geographical limits made it impossible to expand that port and some of the biggest vessels struggled to navigate their way up the Couros. So with the facilities at all three ports backed up with vessels waiting to unload, it became clear that significant investment into the docks at Elos would be the best way to improve the prosperity of the entire territory. And by good fortune, it might also provide a few ''other'' benefits.
+
+It proved to be no small undertaking, but the [[Senate]] [[Construct Great Harbour of Elos|commissioned the work]] nonetheless. Six months of hard work, primarily undertaken by mortal labourers due to the difficulties related to employing [[Urizen_economic_interests#Ushabti|ushabti]] in the lowlands, and the docks were almost entirely rebuilt and refitted, doubling the capacity of Redoubt's shipyards. The effects were seen almost immediately, with a significant increase trade in on the [[Bay of Catazar]] following the [[Ratify_treaty_with_the_Grendel_Autumn_383YE|signing of the peace treaty with the Grendel]]. Ships still come from all over the world to purchase the high-quality metals produced in Redoubt's mines, to buy mana, and engage the expertise of Urizen teachers and philosophers.
+
+Today the harbour is a wonder indeed, a far cry from the previous sleepy coastal village. Raised obelisks with pristine [[Technology#Lightstones|lightstones]] mark out three [[constellations]] across the rebuilt harbour - [[the Stallion]], [[the Door]], and [[the Great Wyrm]] itself. An open plaza inlaid with hexagonal flagstones of white granite serves as a focal point, with most of the important buildings associated with the harbour built around the periphery. Between the harbour and the [[spire]] proper are the well-maintained, carefully laid out trees of a public park that is a popular place for citizens of Elos to relax and consider the day. The new harbour is, by even the most critical accounts, a thing of beauty.
+
+The only part of the harbour that is not the responsibility of the Elosian Architect is the so-called [[Quaymaster_of_the_Elosian_Docks#Elosian_Docks|Elosian Docks]], which are sometimes referred to these days as the ''Hesychian Quays''. Built a year before the work on the new harbour was undertaken, they are used by [[Axos|Axou]] traders to deliver amounts of [[white granite]] in return for [[dragonbone]] and overseen by the [[Quaymaster of the Elosian Docks]].
+
+==Further Opportunities==
+When the expansion of the harbour was commissioned, several [[To_see_what_you_sell#Additional_Benefits|additional benefits]] were identified. Such an expansion would only require 10 wains of [[white granite]], 10 wains of [[weirwood]] and 20 crowns. While it would take 3 months to complete, the existing facilities would be good enough to start work on a [[navy]] at the same time as the shipyard was being built, saving precious time. 
+
+Not only could the harbour be quickly expanded to include a [[shipyard]] capable of deploying [[navy|warships]], but the nearby presence of the [[Penumbral Watcher]] allowed for other, more magical benefits such as concealing the work of establishing a shipyard from the Grendel, or imbuing navies raised in Elos with a unique [[Night magic|Night magical]] quality. There was also some talk that the new harbour might even allow the Urizen to support a new navy of their own, despite their general limitations with regard to large-scale military matters.
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Bourse]]

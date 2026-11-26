@@ -1,0 +1,35 @@
+<ic>To create the Sinecure “Starlight Drift of Shimmering Snow”, to produce Mana in Zenith<br><br>''Proposed by Zenith, seconded by Redoubt''</ic> 
+
+===Overview===
+* '''More details forthcoming'''
+* The [[sinecure]] will produce 9 [[Game items#mana crystals|crystal mana]] each season
+* The senator has indicated this motion is self-funded
+
+===Date===
+* Passed Autumn 378YE
+
+===Cost===
+* 10 wains of mithril and 2 thrones
+* Time: 3 months
+
+===Progress===
+* 10 wains of mithril and 2 thrones supplied by Cato, senator for Zenith after Autumn Equinox 378.
+
+===Campaign Outcome===
+* When complete, the sinecure will automatically create the title of [[Custodian of the Starlight Drift]].
+
+===Constitution===
+* Sinecures are life-time appointments. 
+* The title will be a National position, appointed by unanimous decision of the Senators for [[Urizen]].
+* The title will be able to be revoked by the Urizen assembly, the General assembly and the Assembly of nine.
+
+
+<!-- From Senator: 
+I think "Custodian" is a better title for this than Seer personally if that is ok. We had no plans for an particular responsibilities other than collecting the mana produced by the Sinecure. Ideally it is for the benefit of the nation, but we're not intending to do anything to compel that to be the case.
+
+Location wise I was thinking Occursion, somewhere near Endsmeet. As for how it produces mana, I was thinking something along the lines of a cliff face with crystals that "twinkle" and "shimmer" focusing mana into a form that can be collected. I'm sure you guys can produce something far better descriptively then I can along those lines.
+
+As a quick question, what do you need from me to actually make this happen? There's no direct option in the downtime system to enact this so I assume it's just handled via email with yourselves. The required funds and material should be in my inventory.-->
+[[Category:Senate Motion]]
+[[Category: 378YE Autumn]]
+__NOTOC__

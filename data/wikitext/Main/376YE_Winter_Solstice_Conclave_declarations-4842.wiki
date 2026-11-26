@@ -1,0 +1,33 @@
+[[Category: Conclave]] [[Category: Conclave Sessions]] [[Category: 376YE Winter]]
+==Conclave Titles==
+
+{|
+| '''Realm''' || '''Archmage''' || '''Order''' || '''Grandmaster'''
+|-
+| ''Winter'' || Savik Summerstorm || ''Celestial Arch'' || Sejanus Shatterspire
+|-
+| ''Spring'' || Kallendar Stormcrow || ''Golden Pyramid'' || William Bolholt
+|- 
+| ''Summer'' || Corvus Auric Horizon || ''Rod and Shield'' || Meir Pathfinder
+|-
+| ''Autumn'' || Maurice de Gauvain || ''Sevenfold Path'' || Jessica Suns of Couros
+|-
+| ''Day'' || Callisius Quicksilver || ''Shuttered Lantern'' || Wyrda Bjornadottir
+|-
+| ''Night'' || Baba Ana || ''Unfettered Mind'' || Alexei
+|-
+|}
+
+===Other Titles===
+
+{|
+| '''Warmage'''
+|-
+| Septima Shatterspire 
+|}
+
+==Declarations==
+* No declarations recorded
+
+==Gambits==
+* No gambits recorded

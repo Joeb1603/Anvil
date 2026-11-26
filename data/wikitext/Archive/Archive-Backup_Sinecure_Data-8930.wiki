@@ -1,0 +1,135 @@
+==Recent Sinecures==
+This table includes all sinecures which have been appointed in recent times. For a full list of title holders see [[Current Imperial titles|here]]. This was last updated before the Winter Solstice 382YE. 
+{| class="wikitable sortable"
+|-
+! Name of Sinecure !! Method of Appointment !! Location !! Output !! Tenure
+|-
+| [[Azure Sutannir]] || Synod, Brass Coast || Kahraman, Braydon's Jasse || Liao (6), Votes (12) || Lifetime
+|-
+| [[Brock's Toll]] || [[Brock%27s_Toll#Appointment|Tournament]] || Miaren, ??? || Rings (324) || Year, Summer
+|-
+| [[Broken Shield Guardian]] || Senate, Imperial Orcs || Skarsind, Solvihill || Herbs (18) || Lifetime
+|-
+| [[Caretaker of New Dunhall]] || Senate, Wintermark || Hahnmark, Wood Heath || Rings (324) || Lifetime
+|-
+| [[Castellan of the Silent Sentinel]] || Synod, Highguard || Casinea, Marehom || Liao (10), Votes (20) || Lifetime
+|-
+| [[Claviger of the Basilica of Cora Holdfast]] || Synod, Loyalty || Reikos, Chalcis Mount || Liao (9), Votes (18) || Lifetime
+|-
+| [[Collector of Prosperity's Boon]] || Senate, Wintermark || Hahnmark, Wood Heath || Mana Crystals (10) || Lifetime
+|-
+| [[Crow Keeper of the Rest]] || Synod, Wintermark || Kallavesa, Kallavesa Marsh || Liao (6), Votes (12) || Lifetime
+|-
+| [[Curator of the Printers' Guild Museum]] || Synod, Cardinal of Prosperity || Tassato, Tassato Mestra || Liao (6), Votes (12)  || Lifetime
+|-
+| [[Curator of the White City Museum]] || Synod, Highguard || Bastion, Bastion Rounds || Liao (7), Votes (14)  || Lifetime
+|-
+| [[Custodian of Glass Point Cove]] || Senate, The League || Sarvos, Uccelini || Mana Crystals (9) || Lifetime
+|-
+| [[Custodian of the Claw]] || Senate, Urizen || Morrow, Ravion || Mana Crystals (10) || Lifetime
+|-
+| [[Custodian of the Imperial War Memorial]] || Synod, Highguard || Casinea, Mareholm || Liao (6), Votes (12)  || Lifetime
+|-
+| [[Dean of the First Voice Glade]] || Senate, Navarr || Miaren, ??? || Herbs (9) || Lifetime
+|-
+| [[Dean of Laroc Cathedral]] || Synod, Dawn || Astolat, Laroc || Liao (6), Votes (12) || Lifetime
+|-
+| [[Dean of Pilgrims]] || Senate, Imperial || Morrow, Ravion || Liao (18) || Lifetime
+|-
+| [[Dean of the Thorned Rose]] || Senate, Navarr || Miaren, Serenael || Mana Crystals (9) || Lifetime
+|-
+| [[Dredgemaster of Feverwater]] || Senate, Navarr || Therunin, East Ashes || Crafting Materials (4), Historical Research || Lifetime
+|-
+| [[Drusilla's Obelus]] || Bourse, Auction || Holberg, The Morass || Bladeroot (18) || Lifetime
+|-
+| [[Eternal Flame of Miaren]] || Senate, Navarr || Miaren, Serenael || Mana Crystals (9) || Lifetime
+|-
+| [[Farmer of Eastern Spring Farm]] || Senate, Imperial Orcs || Skarsind, Gildermark || Mana Crystals (9) || Lifetime
+|-
+| [[Fallsheart Guardian]] || Senate, Wintermark || Hahnmark, Wood Heath || Mana Crystals (9) || Lifetime
+|-
+| [[Friar of Honour's Rest]] || Synod, The Marches|| Mournwold, Greensward || Liao (8), Votes (16)  || Lifetime
+|-
+| [[Gatekeeper of Falling Snow]] || Senate, Wintermark || Hahnmark, ??? || Cerulean Mazzarine (12) || Lifetime
+|-
+| [[Gloaming Sentinel]] || Conclave, Declaration || Miekarova, Srodkoja || Iridescent Gloaming (20)  || Lifetime
+|-
+| [[Granger of the Golden Orchard]] || Senate, Navarr || Miaren, Serenael || Mana Crystals (9) || Lifetime
+|-
+| [[Grim Gardener]] || Senate, Varushka || Miekarova, Perumaki || Herbs (22) || Lifetime
+|-
+| [[Guardian of Britta's Shrine]] || Senate, Highguard || Necropolis, Coursmouth || N/A || Lifetime
+|-
+| [[Guardian of the Cairn]] || Senate, Wintermark || Skarsind, Skogei Glens || Mana Crystals (9) || Lifetime
+|-
+| [[Guardian of Dunfrith]] || Senate, Wintermark || Hahnmark, Wood Heath || Herbs (21) || Lifetime
+|-
+| [[Guardian of Giselle's Tomb]] || Synod, The League  || Temeschwar, Hanuri || Liao (5), Votes (10)  || Lifetime
+|-
+| [[Guardian of the Prosperity of Afal]] || Senate, The Marches  || Upwold, Ashbrook || Mana Crystals (9)  || Year, Autumn
+|-
+| [[Healer of Dawn]] || Senate, Dawn || Astolat, Laroc || Cerulean Mazzarine (18) || Lifetime
+|-
+| [[Herbalist of the Hearth]] || Senate, Wintermark || Hahnmark, Southridge || Herbs (21) || Lifetime
+|-
+| [[Jade Custodian]] || Senate, The League || Sarvos, Foracci || Mana Crystals (12) || Lifetime
+|-
+| [[Keeper of Aurelie's Garden]] || [[Keeper_of_Aurelie%27s_Garden#Appointment|Tournament]] || Astolat, Grovesyard || Herbs (18) || Year, Autumn
+|-
+| [[Keeper of Berislav's Rest]] || Senate, Varushka || Volodmartz, Suvretz || Rings (216) || Lifetime
+|-
+| [[Keeper of the Cox]] || Conclave, Declaration || Reikos, High Chalcis || Golden Apples (3) || Lifetime
+|-
+| [[Keeper of the Crystal Vale]] || Senate, Wintermark || Hahnmark, Southridge || Mana Crystals (10) || Lifetime
+|-
+| [[Keeper of the Dour Fens]] || Senate, The Marches || Bregasland, Gravenmarch || Mana Crystals (10) || Lifetime
+|-
+| [[Keeper of Emilio's Herbarium]] || Synod, Loyalty || Sarvos, Foracci || Herbs (21) || Lifetime
+|-
+| [[Keeper of the Golden Fields]] || Senate, The Marches || Mitwold, Golden Downs || Mana Crystals (9) || Lifetime
+|-
+| [[Keeper of the Imperial Menagerie]] || The Throne || Holberg, Holmauer || [[Keeper_of_the_Imperial_Menagerie#Powers|Assorted]] || Lifetime
+|-
+| [[Keeper of the Memorial Gardens of Treji]] || Senate, Imperial Orcs || Hercynia, The Glen of Shadows  || Herbs (18) || Lifetime
+|-
+| [[Keeper of the Sapphire Stair]] || Senate, The League || Tassato, Cascatas || Rings (400) || Lifetime
+|-
+| [[Keeper of the Spice Gardens]] || Senate, Brass Coast || Feroz, Morajasse || Herbs (16) || Lifetime
+|-
+| [[Marshal of the Pit of Revelations]] || Senate, Imperial Orcs || Skarsind, Skogei Glens || Mana Crystals (9) || Lifetime
+|-
+| [[Master Apothecary]] || Senate, Wintermark || Hahnmark, Kalpamark || Herbs (21) || Lifetime
+|-
+| [[Master of the School of Exorcism]] || Senate, Highguard || Reikos, Tabernacle || Liao (6) || Lifetime
+|-
+| [[Mayor of Caricomare]] || Senate, Sarvos || Sarvos, Cigno || Rings (300), Sarvos Senator Votes (25) || Lifetime
+|-
+| [[Preceptor of the Skarsind College of Warcasting]] || Senate, Imperial Orcs || Skarsind, Estermark || Mana Crystals (9) || Lifetime
+|-
+| [[Queen's Rose]] || The Throne || Semmerholm, Lacuve || Liao (12), Votes (24) || Year, Summer
+|-
+| [[Shepherd of the Great Herd]] || Senate, Imperial Orcs || Skarsind, Estermark || Rings (216) || Lifetime
+|-
+| [[Signori d'Argento Vine Tender]] || Senate, The League || Sarvos, Foracci || Rings (216) || Lifetime
+|-
+| [[Spider's Tollkeep]] || Senate, Brass Coast and The League || Madruga, Torres and Sarvos, Trivento || Rings (320) || Lifetime
+|-
+| [[Steward of Good Leaf Gardens]] || Bourse, The Marches, Farms || Upwold, Birchland || [[Steward_of_Good_Leaf_Gardens#Brokers.27_Bounty|Herbs]] (30)  || Year, Autumn
+|-
+| [[Storm Shaman]] || Senate, Imperial Orcs || Skarsind, Pakaanan's Pass || Mana Crystals (9) || Lifetime
+|-
+| [[Tender of the Hearth]] || Synod, Varushka || Miekarova, Perumaki || Liao (9), Votes (18) || Lifetime
+|-
+| [[Voice of Barbs]] || Synod, Navarr || Hercynia, Northpines || Liao (6), Votes (12) || Year, Winter
+|-
+| [[Watcher of Britta's Pool]] || Synod, Wintermark || Kallavesa, Kallavesa Marsh || Liao (9), Votes (18) || Lifetime
+|-
+| [[Watcher of the Wheel]] || Conclave, Declaration || Tassato, Madeiras || [[Watcher_of_the_Wheel#Vis|Vis]] (4) || Lifetime
+|-
+| [[Weigher of Worth]] || Senate, Imperial Orcs || Skarsind, Gildermark || Mana Crystals (9) || Lifetime
+|}
+
+===Previous Sinecures===
+* The Gardens of Pallas, overseen by the [[Head Gardener of Urizen]] were burned by the Druj shortly before the Spring Equinox 382YE.
+* The Glorious Fountain, overseen by the [[Keeper of the Glorious Fountain]] was destroyed by the Druj during their invasion of Morrow after the Summer Solstice 382YE.
+{{Senate Further Reading}}

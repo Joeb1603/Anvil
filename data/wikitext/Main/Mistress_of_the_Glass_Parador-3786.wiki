@@ -1,0 +1,40 @@
+<div style="float:left; width: 300px; clear: right;">{{CaptionedImage|file=GlassParador.jpg|title=Constanza i Kalamar i Guerra|caption='''Constanza i Kalamar i Guerra''', elected as Mistress of the Glass Parador in Summer 379YE|align=left|width=300}}</div>
+==Overview==
+The Mistress (or Master) of the Glass Parador is an [[Imperial title]]  awarded to a [[The Brass Coast|Freeborn]] citizen. It is a national position appointed through the [[Bourse]].
+
+The Mistress of the Glass Parador was initially created to help preserve the integrity and reputation of the merchants of the Brass Coast. The title granted the use of beautiful offices in [[Madruga#Siroc|Siroc]]. [[Corsair|Corsairs]] and merchants who were looking to sell their goods quickly would often approach the Mistress of the Glass Parador or one of her agents, and she was regularly consulted by the citizens of Siroc on minor matters related to good conduct and business. 
+
+The luxurious Glass Parador itself was centrally located, and constructed of beautiful white marble columns, gorgeous stained glass windows and delicate lanterns lit by fine quality lightstones imported from [[Urizen]]. It had a small permanent staff, and was a regular stop for merchants and travellers visiting Siroc from all over the Empire and beyond.
+
+Prior to the [[384YE_Spring_Equinox_winds_of_fortune#Sails_of_Fire|popular change]] prompted by the Brass Coast National Assembly, only those captains of fleets that had engaged in [[Fleet#Take_Independent_Action|privateering]] during the previous year could vote for the Mistress of the Glass Parador. This changed shortly before the Spring Equinox 383YE and now every captain of a [[fleet]] in the Brass Coast has a say in who will hold the title.
+
+The offices of the Mistress of the Glass Parador were looted by the honour guard of Governor Rahab of Feroz during the [[A_beacon_of_smoke|destruction of Siroc]] after the Autumn Equinox 385YE before the firing of the city by Asaveans. What remained was swept into the sea by the magical floods at the end of 386YE.
+
+==Responsibilities==
+The Mistress of the Glass Parador was expected to ensure that [[The_Brass_Coast_economic_interests|paradors]] and merchants operating in and around the City of a Thousand Sails are trading honestly. Many of her duties are ceremonial - she was often asked to officially launch new vessels, or to offer advice on business ventures that will travel to distant or dangerous lands. In return, Mistress received preferential treatment from many [[The_Brass_Coast_economic_interests|corsair]] and merchant [[fleet|fleets]] operating out of [[Madruga]], or who visit the Jewel of the Bay.
+
+In actuality, the Mistress of the Glass Parador is no more or less likely to be a paragon of honesty than any other Freeborn merchant. Indeed, they often encounter more opportunities to receive bribes or make disreputable deals than they would if they did not possess the title. This being the Brass Coast it is expected the Mistress will take advantage of the connections offered to enrich themselves. The role offers ample opportunity to purchase luxury goods such as vibrant [[Materials#Iridescent Gloaming|iridescent gloaming]] or polished [[Materials#Weltsilver|weltsilver]].
+<!--
+==Powers==
+<div style="display:inline-block; float: right; margin-left: 10px; max-width: 500px;">
+<table style="width:500px; float: right; margin-left:10px;" class="mw-collapsible"><tr><td colspan="2" style="background-color: LightBlue;">'''Wealth of Madruga'''</td>
+<tr><td>14 Crowns</td><td>8 measures of iridescent gloaming, 6 measures of ambergelt, and 6 ingots of weltsilver</td></tr>
+<tr><td>30 Crowns</td><td>14 measures of iridescent gloaming, 10 measures of ambergelt, 10 ingots of weltsilver, and 4 measures of dragonbone</td></tr>
+<tr><td>65 Crowns</td><td>21 measures each of iridescent gloaming and ambergelt, 17 ingots of weltsilver, and 11 measures of dragonbone
+</td></tr>
+<tr><td>120 Crowns</td><td>29 measures each of iridescent gloaming and ambergelt, 29 ingots of weltsilver, and 23 measures of Dragonbone</td></tr>
+</table></div>
+===Ministry===
+As a [[ministry]], the title of Mistress of the Glass Parador allows the holder to purchase quantities of special materials at a set price. The Mistress spends her money and makes her choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+-->
+
+==Appointment==
+This title is appointed during the Summer Solstice. The Mistress of the Glass Parador is appointed by citizens of the Brass Coast who control [[fleet]] [[Resource|personal resources]]. The voting is handled by the civil servants in the Bourse. 
+
+Only a Freeborn character may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{CaptionedImage|file=Bassim i Chort i Riqueza.jpg|caption='''Bassim i Chort i Riqueza''', Master of the Glass Parador|align=left|width=250}}
+{{RecentElections|Mistress_of_the_Glass_Parador}}
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:The Brass Coast]]
+[[Category:Bourse]]

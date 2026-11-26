@@ -1,0 +1,22 @@
+{{stub}}
+[[Category:Senate Motion]][[Category:384YE Spring]]
+__NOTOC__
+<quote by="Announced by Imperial Spymaster"> I hereby commission a spy network in Spiral, to be constructed at the Spire of Oblivion's Edge using ten mithril. This spy network will be ceded to the Night eternal Sung, and incurs no ongoing cost to the budget.</quote>
+==Overview==
+* Commissions a unique [[spy network]] in [[Spiral]], created with assistance of the [[eternal]] [[Sung]].
+* The opportunity to create this network is detailed in the '''[[The_Net_of_the_Realms#An_Aerie_for_the_Watchers|The Net of the Realms]]''' wind of fortune. 
+* During [[scrutiny]] the Constitutional Court spotted a potential problem with this commission, and have raised an [[administrative motion]] to be deliberated by the Senate during the Summer Solstice.
+* Announcement
+==Date==
+* Spring 384YE
+==Cost==
+*As detailed in the wind of fortune
+* 10 wains of [[mithril]]
+* 20 crowns in labour costs
+* Three months to construct
+==Progress==
+{{CommissionProgress|Spiral_Spy_Network}}
+==Outcome==
+* Once complete, creates a unique [[spy network]] in [[Spiral]]
+==Constitution==
+* It was brought to...

@@ -1,0 +1,14 @@
+[[Category: Conclave]] [[Category: Conclave Sessions]] [[Category: 377YE Summer]]
+==Declarations==
+{|
+| '''Nature of Declaration''' || '''Substance of Declaration''' || '''Made By''' || '''Made or Not Made?'''
+|-
+| ''Candidacy'' || Archmage of Day contested by Callisius Quicksilver, Marius Auric Horizon and Marcus Tain || Not recorded || Callisius Quicksilver declared as Archmage
+|-
+| ''Concord'' || The position of Bursar should be formally created and empowered to spend Conclave funds || Corvus Auric Horizon || Declared
+|-
+| ''Neutrality'' || Zand has apologised and should not be regarded as an enemy of the Empire || Maurice de Gauvain || Declaration made
+|-
+| ''Amity'' || The Eternal Basileus Kade and his Herald Carolinus || Maurice de Gauvain || Declaration made
+|-
+|}

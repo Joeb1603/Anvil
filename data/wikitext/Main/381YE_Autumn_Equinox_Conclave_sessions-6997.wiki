@@ -1,0 +1,87 @@
+==Overview==
+The following is a summary of Conclave proceedings during the Autumn Equinox 381YE.
+
+==Precedence==
+The precedence at the start of the summit, as determined by membership, was as follows:
+#The Golden Pyramid with 83 members.
+#The Shuttered Lantern with 72 members.
+#The Rod and Shield with 67 members.
+#The Sevenfold Path with 59 members.
+#The Unfettered Mind with 35 members.
+#The Celestial Arch with 25 members.
+
+==Titles==
+The following Imperial Titles were declared by the Conclave during the summit.
+*'''Pavel''' was appointed as the [[Imperial Magus]] following the Friday session.
+*'''Marcus Endsmeet''' was appointed as the [[Archmage]] of Autumn following the Saturday session.
+In meetings of the members of the appropriate orders, the following Grandmasters were appointed.
+*'''Gregor''' was re-appointed Grandmaster of the [[Shuttered Lantern]].
+*'''Raewynn Farkas''' was appointed Grandmaster of the [[Silver Chalice]].
+==Conclave Declarations==
+Records show that 3 declarations were made during the Friday session, and 20 were made during the Saturday session. The details of these declarations and their outcomes were as follows: when a declaration is not one of Concord, its text may have been edited for standardisation purposes.
+===Friday Session===
+{|
+|'''Speaker || '''Declaration of...''' || '''The Imperial Conclave declares''' || '''Outcome'''
+|-
+| Pavel || Candidacy || Imperial Magus || Passed
+|-
+| Helios of the Bitter Chalice || Endowment || The [[Scholars_and_mandarins#A_Gift_of_Binding|talisman offered]] by [[Sinokenon]] to be endowed to the Grandmaster of the Shuttered Lantern || Passed
+|-
+| Asenath || Reconciliation || Lady Genevieve de Vexille || Passed
+|-
+|}
+===Saturday Session===
+The Conclave made the following Declarations:
+{|
+|'''Speaker || '''Declaration of...''' || '''The Imperial Conclave declares''' || '''Outcome'''
+|-
+| Arsenio Rezia di Tassato || Concord || We formally thank lord Adamant for his [[Queens_and_kings#The_Talented_Koboldi|offer of aid]] and invite his koboldi to aid the Empire || Passed
+|-
+| Alain Shatterspire || Interdiction || [[Rivers Run Red]] || Passed
+|-
+| Aquillian || Imperial Lore || [[Aid Once More]]<br>'''10 Thrones provided after the Autumn Equinox by Aquilian''' || Passed
+|-
+| Aquillian|| Imperial Lore || [[Ride the Noble Steed]]<br>'''10 Thrones provided after the Autumn Equinox by Ioseph of Phoenix Reach''' || Passed
+|-
+| Volfe of Ashenhall || Concord || The Conclave should send magicians to the Great Forest orcs to teach them the basics of magic and help them overcome the damage done by the Druj || Passed
+|-
+| Marcus Endsmeet || Candidacy || Autumn Archmage || Passed
+|-
+| Volfe of Ashenhall || Dissemination || [[Rivers of Life]] to the orcs of the Great Forest (10 Thrones received from Volfe of Ashenhall; ritual text disseminated) || Passed
+|-
+| Azneical of Suns of Couros || Concord || Gilean herald of [[Llofir]] is invited to return to Highguard || Passed
+|-
+| Suvi Summervale || Concord || Support in Conclave to pursue the matter of the subject of horses and Medea of Urizen || Failed
+|-
+| Gancius || Concord || That the library at Mournng Holow shall be assigned to Phaleron by the Senate || Passed
+|-
+| Thomas of Hay || Concord || [[Seals_and_stars#Grateful_Dick|Richard of Holberg]] begins work on a mana sinecure in the Mournwold || Passed
+|-
+| Reawynn Farkas || Endowment || That the 7 mithril held by the bursar be given to the Silver Chalice (to aid with the building of their ministry) || Passed
+|-
+| Tiberius Stormspire || Endowment || That the divination projection [[Scholars_and_mandarins#A_Gift_of_Inquisition|offered to the Empire]] by [[Roshanwe]] be endowed to Octavius, [[Provost of the Halls of Knowledge]] || Passed
+|-
+| Helios Bitter Chalice || Interdiction || [[Mountain Remembers Its Youth]] || Passed
+|-
+| Kay Carter|| Dissemination || [[Blessing of New Spring]] to the orcs of the Great Forest<br/>'''10 Thrones provided after the Autumn Equinox by Kay Carter of Dawn.''' || Passed
+|-
+| Volfe of Ashenhall|| Concord|| The Conclave should use its power to display our Loyalty to the Great Forest orcs by upholding our treaty with them || Passed
+|-
+| Helios Bitter Chalice|| Candidacy || Autumn Archmage || Defeated
+|-
+| Gorion of Phoenix Reach || Concord || That [[Seals_and_stars#Grateful_Dick|Richard of Holberg]] design a mana sinecure in [[Morrow]] || Passed
+|-
+| Brand Sherarding || Reconciliation || For the interdicted ritual [[Hallow of the Green World]] || Passed
+|-
+| Erasmo di Tassato || Concord || That [[Seals_and_stars#Grateful_Dick|Richard of Holberg]] design a magical structure in [[Tassato]]. || Passed
+|-
+|}
+
+==Conclave Addresses==
+Records show that 5 addresses were made during the Friday session, and 11 during the Saturday session. Per protocol, the titles of addresses are not recorded.
+==Order Vaults==
+Following a number of improvements the civil service will now be providing an update on the mana obtained by each order before magicians arrive at Anvil - rather than after. The civil service records for [[381YE Winter Solstice Conclave sessions]] include the information of the distribution of mana following the Autumn Equinox and preceding the Winter Solstice.
+
+[[Category: Conclave]]
+[[Category: Conclave Sessions]]
+[[Category: 381YE Autumn]]

@@ -1,0 +1,63 @@
+__NOTOC__
+==Overview==
+* Imperial treasury during this season announced by the Civil Service at 1333 thrones.
+* The following has been donated to the Imperial treasury:
+** 80 thrones donated to the treasury by Senator Weirwater after the Spring Equinox 379YE
+** 11 thrones 4 crowns donated to the treasury by Senator Upwold after the Spring Equinox 379YE
+
+==Motions==
+
+===Passed===
+* '''[[Construct House of Barbs]]'''
+* '''[[Disburse Funds to the Quartermaster General III|Disburse Funds to the Quartermaster General]]'''
+* '''[[Raise Dawnish army II|Raise Dawnish army]]'''
+* '''[[Assign Holberg]]'''
+* '''[[Fortify Miekarova II|Fortify Miekarova]]'''
+* '''[[Amend law regarding foreign True Liao trade]]'''
+* '''[[Amend powers of Dredgemaster of Feverwater]]''' <label type="important">Info needed</label>
+* '''[[Disburse funds to add a ritual to Imperial Lore]]'''
+* '''[[Amend the powers of the Advisor on Orc Affairs]]'''
+* '''[[Amend the powers of the Imperial Magus]]'''
+* '''[[Declare peace with Barrens orcs]]'''
+* '''[[Disburse funds to the Jarmish Cartel]]'''
+* '''[[Construct Printers' Guild Museum of Wonders]]'''
+* '''[[Construct cargo dock at Caricomare]]'''
+* '''[[Create title of Crystal Architect of the Spires]]'''
+* '''[[Amend powers of the High Exorcist]]'''
+* '''[[Repair Great Pits of Ennerlund]]'''
+* '''[[Disburse further funds to the Quartermaster General]]'''
+* '''[[Abrogate Civil service observation]]'''
+* '''[[Create title of Imperial Chaplain Consular]]'''
+* '''[[Construct Hordalant spy network]]'''
+* '''[[Construct Sumaah embassy II|Construct Sumaah embassy]]''' <label type="important">Info needed</label>
+* '''[[Construct Iron Confederacy embassy]]'''
+
+===Incomplete===
+* '''[[Appoint Throne II|Appoint Throne]]''' (while the motion passed in principle, no candidate received sufficient votes to claim [[the Throne]]).
+* '''[[Create title of Dean of the Academy]]''' (while the motion passed in principle, it requires [[The_Throne#Ratification|ratification]] by The Throne).
+* '''[[Relinquish Skarsind]]''' (while the motion passed in principle, it requires [[The_Throne#Ratification|ratification]] by The Throne).
+===Vetoed===
+* '''[[Allocate the Vigilant Swan]]'''
+===Withdrawn===
+* '''[[Raise Wintermark army]]'''
+
+==Announcements==
+* '''[[379YE Spring Equinox Announcements by the Quartermaster General|Announcements by the Quartermaster General]]
+* '''[[379YE Spring Equinox Announcements by the Minister for Historical Research|Announcements by the Minister for Historical Research]]
+* '''[[379YE Spring Equinox Announcements by the Crystal Architect|Announcements by the Crystal Architect]] <label type="important">Info needed</label>
+* '''[[379YE Spring Equinox Announcements by the Advisor on the Vallorn|Announcements by the Advisor on the Vallorn]]'''
+* Announcements by the [[Imperial Master of Works]]
+
+==Administrative Motions Arising==
+* Seeking clarification regarding the [[Dredgemaster of Feverwater]] tenure
+** Was it the intention of the Senate to make this an annual position while granting the power to raise [[historical research]]?
+* Seeking clarification regarding [[Construct Sumaah embassy II|the Sumaah embassy]]
+** Where is the embassy to be built?
+* Seeking clarification regarding [[Construct Printers' Guild Museum of Wonders|the Printers' Guild Museum of Wonders]].
+** Where is the museum to be built?
+* Seeking clarification regarding the Trade envoys to Jarm and Asavea
+** With the appointment of ambassadors, should these titles be abrogated?
+ 
+[[Category:Senate]]
+[[Category:Senate Sessions]]
+[[Category:379YE Spring]]

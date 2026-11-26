@@ -1,0 +1,167 @@
+---
+title: Grendel
+source: https://www.profounddecisions.co.uk/empire-wiki/Grendel
+class: in-character
+topic: barbarians
+categories:
+- Barbarians
+- Bestiary
+- Grendel
+last_edited: '2026-04-02T16:01:17Z'
+revision: 136421
+---
+
+# Grendel
+
+*[Image: The Grendel dominate the lands to the south and south-east of the Empire](https://www.profounddecisions.co.uk/empire-wiki/File:GrimGrendel.jpg)*
+
+## Overview
+
+The Grendel are [orcs](../../mixed/world/Orc.md) who hail from Attar and the Broken Shore - lands to the south and east of the Bay of Catazar. A nation of sea-faring orcs with a love for wealth and power, they were once nothing but pirates and reavers. Over time their society has advanced to the point where they are as likely to trade as to steal what they want. Despite their riches and the luxurious lifestyle of their leaders - the Salt Lords - the Grendel are brutal, uncompromising bullies who use violence and threats of violence to get what they want. Their comparative distance from the Empire means that its citizens know relatively little about their society.
+
+Much of the current information about Grendel society comes from Angelo i Ceniza, a Freeborn civil servant who spent several months in late 378YE as a captive guest of the Salt Lord Suriad of [Dubhtraig](../world/Bay_of_Catazar.md#dubhtraig-28northern-broken-shore29).
+
+## The Nation
+
+The Grendel dominate the lands to the south and south-east of the Empire. Historically, they have threatened territories across the Bay of Catazar: [Sarvos](../nations/the-league/Sarvos.md), [Highguard](../nations/highguard/Highguard.md), [Urizen](../nations/urizen/Urizen.md), and [the Brass Coast](../nations/the-brass-coast/The_Brass_Coast.md). Before the birth of the Empire, the ancestors of the Grendel controlled much of the land that is now part of these nations, but were driven out by human settlers.
+
+At the top of Grendel society are the Salt Lords - their great wealth seems to derives from their position of power, although they claim it is the other way around. The Salt Lords control the trade into and out of the Broken Shore and their ships have been seen in most foreign ports across the world - at least those that will deign to accept orcs. Beneath the Salt Lords are the Sea Lords - the commanders of the Salt Lords warships - together they form a council which rules the Broken Shore with an iron fist.
+
+Grendel culture is inextricably linked with the sea, and all their most important settlements are large bustling ports. Their position of power and wealth in the Broken Shore comes in part from the trade that their fleets carry out across the world. The Grendel raise no armies of their own, preferring to hire mercenaries from the interior of the Broken Shore. Although they have long since outgrown their piratical roots, ownership of their own vessel is still a powerful dream for most young Grendel.
+
+The Grendel are undoubtedly the richest of the barbarian orc nations that face the Empire; the Salt Lords have wealth that would rival that of any League [Merchant Prince](../nations/the-league/The_League_leadership.md) or Freeborn [family](../nations/the-brass-coast/Family.md). More so perhaps than any other Barbarian nation the Grendel have an abundance of finely crafted items and artisans are always in great demand. However the wealth of the nation does not run deep, most Grendel are born into desperate poverty and destined to remain that way all their life. In Grendel society the victor is the one who takes the spoils.
+
+Slavery is endemic in Grendel lands, and is the natural endpoint for those who do not make the right choices in life. There are hundreds of thousands of slaves in Grendel lands; the lucky ones work as servants in the villas of wealthy Grendel captains or Salt Lords, while the threat of a short, brutal existence in the salt mines is ever present for those that attempt to rebel or escape. Those that show promise can find themselves fighting for their lives in the gladiatorial arena. Regardless of their position, the slaves of the Grendel are never allowed to forget that they are possessions - objects, rather than people.
+
+## 5 things to know about the Grendel
+
+- **Masters of the sea** - the Empire has fleets - the Grendel have navies and it has already sunk one Imperial flotilla
+- **Smarter than you** - the Grendel spend time, money and effort on being as well informed as possible
+- **Masters of the deal** - Grendel are fiercely competitive, driven to get the best from every negotiation no matter how small
+- **Richer than you** - they pride themselves on their wealth and affluence
+- **Masters of the game** - the Grendel are cunning and savvy, they seek to understand their rivals so that they can outwit them
+
+## What the Grendel are not
+
+- **Pirates** The Grendel will resort to reaving if it benefits them - but their nation has long since decided that trade and conquest offer a better route to riches than piracy.
+- **Civilised** The Grendel are rich, smart and enjoy the trappings of civilisation. But in reality their culture is like a society run by a bunch of drug cartels.
+
+*[Image: Freeborn Grendel.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Freeborn_Grendel.jpg)*
+
+## Warriors of the Grendel
+
+The bulk of most Grendel armies are bands of mercenaries hired from the many orc nations that dwell inland on the Broken Shore. From the Imperial perspective there is little to distinguish these forces from the countless minor nations that are incorporated into the armies of the Thule, Druj or the Jotun. Most own little more than a sword and a breastplate usually worn over a plain tunic or similar. In battle, they form up and fight in mobs along tribal divisions. What does make them distinct is the command and leadership of the Grendel commanders - there is none of the brutal savagery of the Druj, nor the caution of the Thule. Grendel commanders are bold risk-takers but they pride themselves on their discipline - soldiers that cannot obey orders face summary punishment.
+
+The [elite troops](Elite_Grendel_troops.md) in the Grendel's arsenal are the professional soldiers, hired from the moridun. Each moridun appears to be some kind of independent mercenary fellowship - operating from a fortress somewhere in the Broken Shore where they recruit, equip, and train Grendel soldiers. Each moridun has its own symbols and imagery and each jealously guards its own traditions and unique fighting style. Commanders will almost always deploy Grendel soldiers from a moridun where they have them available - but such troops are at most effective when engaged in pursuit of the military objectives which that moridun specializes in.
+
+## Magic
+
+The Grendel seem to view the use of ritual magic as a profoundly economic activity. The most powerful magician among the Grendel holds the rank of Wind Lord and sits in the Grendel High Council with the Salt Lords. While the Grendel might use the power of ritual magic to realise their goals, they would only do so if they couldn't achieve the same end more cheaply using mundane means. The Grendel hoard wealth and they expend their magical reserves carefully, seeking the maximum return on their investment.
+
+The Grendel do not use the same magical terminology as the Empire. Angelo reports that their most important realm is the Sky - from which information and enlightenment flows - and that they also prize the uncontrollable Sea - the source of wild storms and violent winds, the fountain of life. The realm of Sand is valued for its many economic benefits - sand is mutable and workable, ordered and measured though it can shift suddenly beneath you. The other realms are largely disdained by the Grendel.
+
+Spellcasting on the battlefield is seen as an important auxiliary role, a way to round out the fighting strength of a unit. Magicians embed themselves within the best units to provide magical healing or offensive abilities depending on their capabilities. Unlike the Thule, the Grendel do not field battle magicians by themselves, as such individuals are seen as too expensive to risk in such a way. Battlefield magicians, especially Grendel, will often carry magical items designed to protect them and boost their strength.
+
+*[Image: Disciplined Archers.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Disciplined_Archers.jpg)*
+
+## History
+
+Centuries ago, the ancestors of the modern Grendel laboured under the rule of a powerful orc nation that dominated the Bay of Catazar, but that nation was cast down by the rise of the Empire. After gaining their freedom, they survived, then prospered, by preying on fleets that passed through the Bay.
+
+Raiding came to a head in the reign of [Emperor Barabbas](../history/Emperor_Barabbas.md) who created three large [navies](../../out-of-character/rules/Navy.md) intent on destroying the Grendel and claiming the island of Attar, the largest landmass in the Broken Shore. Facing a significant Imperial threat, the rival Salt Lords came together to oppose a common enemy. The Grendel never cease their rivalry, but they know that in most times there is more to be gained from working together than apart.
+
+Over time, the Grendel nation has expanded to the point that they now lay claim to swathes of land to the south of Urizen and Highguard. Historically, their activities have been kept in check by the activities of the Freeborn corsairs, but the balance of power appears to be slowly shifting in favour of the Grendel, especially in the southern bay...
+
+## Territories
+
+The Grendel currently have six territories. To the east of Ayereed (and south of Skoura) is Claudeehl; a large territory bisected by a cove. Surrounded by the southern four territories - that is not Tathar - is Taneen. A small territory made up of an archipelago of linked islands, Taneen allows the navies of the Grendel to bypass Ayereed and Shayeel when necessary. This has most often been used in the past when rival salt lords were bickering over tariffs, taxation, and other fees.
+
+[Ayereed](Ayereed.md) is reasonably dry and barren, with a vast mountain range that runs from the northern border with Mareave to the border in the south adjacent to Claudeehl. There are an unknown number of passes through this mountain range.
+
+Claudeehl is large with lush forests. Nestled in the mountain it is the most fertile of the Grendel territories, with many settlements on the edge of the large cove.
+
+[Raineach](../world/Bay_of_Catazar.md#raineach) is dominated by Fort Kuhnaven. There is a great swirling vortex of the sea where the Temple of Tempest Jade used to stand. In the south of the territory lies Haurlatch, a settlement built in and around the bones of a true behemoth.
+
+[Shayeel](../world/Bay_of_Catazar.md#shayeel) is warm and dry, with occasional woodlands on the scattered islands. Vorlach is the wealthiest settlement in the territory, rich in mithril and other raw metals. It is ruled over by Lord Tearlag Brun, having ousted Salt Lord Moorvain.
+
+Taneen is an archipelago, made up of a number of linked islands. Ruled by Lord Garbhan from Deinath; a city that spans an entire island in a similar manner to Sarvos.
+
+If any territory could be considered the "heartland" of the Grendel it is [Tathar](../world/Bay_of_Catazar.md#tathar). Home of Dubhtraig and dozens of minor settlements, each locked in a constant power struggle for wealth and influence
+
+## Salt Council
+
+This information was originally delivered by [Basileia](../eternals/Basileia.md), Sovereign Lord of the City of Locks, to **Æsa Sigeing**, as [Imperial Magus](../../mixed/titles/Imperial_Magus.md), at the Winter Solstice 386YE. The information in the dossier has now been published by the civil service and is available to any Imperial. It was correct at the time it was delivered, but may have changed since then.
+
+### Salt Lord of Dubhtraig
+
+**Lady Meremes Dabulamanzi**  
+The Salt Lord of Dubhtraig is the most powerful member of the council, having replaced Salt Lord Suriad after the disastrous (for the Grendel) Imperial raid. Dubhtraig is the wealthiest city of the Broken Shore, and Meremes' wealth is further elevated by ownership of a massive weirwood grove. Meremes Dabulamanzi is a walking master class of manipulation. She has a hunger to see herself as the most powerful of all the Salt Lords. Meremes' servants, the Voices of the Salt, can be found at auctions across the known world making bids on her behalf. Being the wealthiest and most powerful of the Salt Lords has put something of a target on her back, but she has managed to avoid the pitfalls of Grendel politics for the past four years.
+
+**Balsagoth**  
+A large island completely covered in weirwood trees. This is the root of Lady Meremes' wealth. If this could be attacked, burnt, or claimed then it would financially ruin the Salt Lord of Dubhtraig.
+
+**Heraclien**  
+The Heraclien family of the Asavean plenum are staunch supporters of Lady Dabulamanzi. They engage in favourable trade with the Salt Lord of Dubhtraig. If they could be somehow turned away from trade with the Lady of Attar then it would harm Meremes' standing in the Salt Council
+
+### Salt Lord of Fort Kuhnaven
+
+**Lord Bara Ras Dina**  
+Lord Bara Ras Dina is the second most powerful of the council. The Salt Lord of Fort Kuhnaven is the second wealthiest, the second smartest, the second most ruthless. In a time without Meremes, or Suriad before her, he might have been lauded as the greatest of his generation. Instead, he has grown bitter over the perceived disrespect shown to him by the council. He was the only dissenting voice on the treaty with the Empire in 383YE, and
+it is rumoured that Ras Dina is responsible for how far-reaching the terms of the extension were.
+
+**Bone Beach**  
+Lord Bara Ras Dina draws a large amount of wealth from the settlement of Haurlatch and Bone Beach as a whole. Disrupting this by claiming the region would reduce the Lord of Raineach's income, preventing him from supporting the raising of more armies.
+
+**Peace**  
+Paradoxically, it would seem that the best way to interfere with the Lord of Raineach would be to agree to a peace treaty with the Grendel. The Salt Lord of Fort Kuhnaven has invested heavily into the war, and an early end would see a significant fall from grace.
+
+### Salt Lord of Voorlach
+
+**Lord Tearlag Brun**  
+Laird Tearlag Brun recently replaced Moorvain in ruling Vorlach. They are almost universally disliked amongst the rest of the Council, apparently due to the manner they used to overthrow Lord Moorvain. They have reportedly close ties with the Prince of the Argent Tontine, with common rumours of them being accompanied by a herald of the Sovereign Lord of the City of Chains at all times. Laird Tearlag was apparently able to make a fortune by funding expeditions and purchasing broken contracts from Callidus.
+
+**Callidus**  
+The clearest ally of Lord Tearlag Brun is the Sovereign-Lord of the City of Chains. If Callidus could be convinced to reduce support to the Salt Lord of Voorlach - likely with some holy relic or artefact - then it would seriously damage the ability of Lord Tearlag Brun to continue expanding his web of intrigue.
+
+**Military Defeat**  
+The surest way of forcing the downfall of Lord Tearlag Brun is to inflict a major military defeat to the Grendel. Breaking an army of theirs, or claiming dominion of another territory would massively affect the Lord of Shayeel's standing.
+
+### Salt Lord of Gainmeachdubh
+
+**Lady Azshura**  
+The newest member of the Council, Lady Azshura became a Salt Lord after (reportedly) assassinating her father. Little is known about the Lady of Gainmeachdubh beyond her name (which could be fake), her profession (which could be misdirection), and her family (which could be an excuse).
+
+**Gainmeachdubh**  
+As the largest coastal settlement, Gainmeachdubh draws a vast amount of money from docking fees and guarantees of safety nearby. Attacking and claiming the port would devastate Lady Aszura's position. Sadly, with Lady Azshura having come recently to her throne there is little other information available on her allies and assets.
+
+### Salt Lord of Deinath
+
+**Lord Garbhan**  
+Garbhan's story is well-known across the Broken Shore. Born into poverty, sold into service on a merchant vessel, paying off his freedom through shrewd financial instincts, becoming an indispensable member of the crew until he was elected captain upon his predecessor's death. From there, his endless grind to eke out even the smallest extra profit, his nose for a good bet that everyone else had written off, his instinct to surround himself with the best subordinates and secure their fidelity with lavish gifts. His eventual coup of one of the largest weirwood groves on the Shore. Rags to riches, proof that anyone can make it. It's mostly true, but Garbhan has never been shy about shamelessly exaggerating to suit his purposes. He works hard to be loved by the common workers of the Broken Shore, giving out occasional vast rewards to the most deserving and using that to motivate everyone else to try harder. In person he's a swaggering wide boy, always ready with a story of his humble origins to win over the crowd.
+
+**Ragnabe Family**  
+The Ragnabe family of the Plenum provide a vast amount of funding to Lord Garbhan. The belief is that the Salt Lord of Deinath became allies with the Ragnabe during his inspiring rise to power. They have since become reliable allies and are the cornerstone of his power.
+
+### Salt Lord of Ohdrain
+
+**Lord Soenag**  
+Soenag is not supposed to be here. Everyone knows it. She inherited her position, hasn't worked a day in her life, and probably couldn't tell mithril from tin by sight. Her control of one of the largest mithril mines on the Broken Shore has become a lightning rod for the angry and resentful, convinced that they could do better. Naturally, Seonag isn't anywhere near as incompetent as her reputation suggests. It's just that her skills lie somewhere different. Seonag is a career politician, raised from birth to navigate the hostile currents of the Council of Salt Lords. She has been acting as the unofficial chair of the Council for around half her life, has kept war from breaking out between different factions numerous times, and always seems to know someone useful to introduce her fellows on the Council to in times of need. The Broken Shore functioned before her, but noticeably less well.
+
+**Magician-Princes of Jarm**  
+The majority of the magical support from Jarm goes to the Wind Lords, but there are several families who have close financial and magical ties with Lord Soenag. It is difficult to quantify how one might break these ties, but if it is possible, it would significantly hamper the Salt Lord of Ohdrain.
+
+## Further Reading
+
+- Overview
+- [Elite Grendel troops](Elite_Grendel_troops.md)
+- [Elite Grendel characters](Elite_Grendel_characters.md)
+- [Grendel look and feel](../../out-of-character/costume/Grendel_look_and_feel.md)
+- [Grendel religion](Grendel_religion.md)
+
+- [So little I wanted, so little I got](../winds-of-fortune/So_little_I_wanted-_so_little_I_got.md#grendel) - 387YE Autumn wind of fortune about Grendel politics
+- [I wish you would](../winds-of-fortune/I_wish_you_would.md#grendel) - 387YE Summer wind of fortune about Grendel politics
+- [Fake empire](../winds-of-fortune/Fake_empire.md) - 386YE Autumn Wind of Fortune detailing an appraisal of Grendel politics
+
+---
+
+Categories: [Barbarians](../../indexes/by-category/Barbarians.md), [Bestiary](../../indexes/by-category/Bestiary.md), [Grendel](../../indexes/by-category/Grendel.md)

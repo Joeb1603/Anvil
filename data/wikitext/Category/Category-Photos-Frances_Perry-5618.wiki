@@ -1,0 +1,4 @@
+<includeonly>
+[[:Category:Photos:Frances Perry|Image by Frances Perry]]
+[[Category:Photos:Frances Perry]]
+</includeonly>

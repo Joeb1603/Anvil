@@ -1,0 +1,20 @@
+<ic>Disbursement of funds with the intent to purchase or commission a Vorpal Sword for Sen. Ywain De Gauvain in recognition of his virtuous acts on the battlefield.<br><br>Proposed by Casinea, seconded by Conscience.</ic>
+
+===Overview===
+* A request for a disbursement to be used to commission a [[Vorpal Sword]].
+* Defeated in principle
+
+===Date===
+* Winter 377YE
+
+===Voting===
+{| class="wikitable"
+|-
+! State !! Votes For !! Votes Against !! Result
+|-
+| In Principle || 3 || 21 || Failed
+|}
+
+[[Category:Failed Senate Motion]]
+[[Category: 377YE Winter]]
+__NOTOC__

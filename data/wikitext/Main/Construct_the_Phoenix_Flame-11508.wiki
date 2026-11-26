@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Proposed: Weirwater, Seconded: Astolat">To commission the Phoenix Flame in Astolat, Dawn, and create the title of Tender of the Phoenix Flame. The commission costs 30 wains of mithril, 30 wains of white granite, and 180 crowns. Once constructed the Phoenix Flame will be ceded to Meraud.</quote>
+==Overview==
+* Constructs a [[sinecure]] in [[Astolat]] as per the '''[[Back_in_town#Meraud|Back in town]]''' wind of fortune
+* Passed
+==Date==
+* Winter 385YE
+==Cost==
+* Costs as per opportunity
+* 30 wains of mithril
+* 30 wains of white granite
+* 180 crowns
+* Six months to complete
+==Progress==
+{{CommissionProgress|Phoenix_Flame}}
+==Outcome==
+* Now that work is complete, the [[Tender of the Phoenix Flame]] can be appointed by [[Declaration]] of [[Candidacy]].

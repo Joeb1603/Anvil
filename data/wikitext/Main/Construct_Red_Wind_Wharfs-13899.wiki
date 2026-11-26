@@ -1,0 +1,24 @@
+[[Category:Senate Motion]][[Category:388YE Summer]]
+__NOTOC__
+<quote by="Proposed: Eulàlia i Phovas i Riqueza, Senator for the Madruga, Seconded: Garviel i Abrira i Erigo, Senator for Feroz">To add the Red Wind Wharfs to the Municipal Docks at Calvos
+</quote>
+==Overview==
+* Adds an [[edifice]] to the [[Construct Municipal Docks|Municipal Docks]] in Calvos Sound, Madruga
+* Passed
+* More information can be found in the '''[[Mermaids_in_the_basement#The_Red_Wind_Wharfs|Mermaids in the basement]]''' wind of fortune
+
+==Date==
+* Summer 388YE
+
+==Cost==
+* Costs as per opportunity
+* 5 wains of mithril
+* 15 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Red_Wind_Wharfs}}
+==Outcome==
+Once complete, the wharfs will have the following effects: 
+* Allows any army with the Forayer quality to move normally between Free Landing and the mainland, ignoring the island quality
+* Increases the upkeep of the wharfs by one throne

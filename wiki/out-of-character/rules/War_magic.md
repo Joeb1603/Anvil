@@ -1,0 +1,129 @@
+---
+title: War magic
+source: https://www.profounddecisions.co.uk/empire-wiki/War_magic
+class: out-of-character
+topic: rules
+categories:
+- Magic Theory
+- Magic
+- Rules
+last_edited: '2026-08-21T15:47:53Z'
+revision: 144060
+---
+
+# War magic
+
+## Overview
+
+Magic is an essential tool of war in the Empire and beyond. There are powerful enchantments that can make armies more effective in battle or alter the battlefield in ways that influence the outcome of any campaign. There are also a wide range of different enchantments that can be used to empower a [fleet](Fleet.md) or a [military unit](Military_unit.md) that can prove crucial when used in large numbers.
+
+As ever though, the realms are not interchangeable. Each realm has its own strengths, its own resonances and dissonance. Trying to use the wrong realm to achieve an effect will inevitably fail. Because of the crucial role of war magic, Imperial magicians have made a careful study of this branch of magic to identify what each realm can achieve.
+
+## The Law of Scale
+
+The [Law of Scale](Laws_of_magic.md#the-law-of-scale) is crucial when creating enchantments on armies, military units and fleets. The law describes the way rituals operate on a natural scale at which they are most efficient. Trying to make the ritual much more powerful by researching a version of it is that is higher magnitude (or vice versa) produces rapidly diminishing returns that make it so much less efficient as to be near worthless.
+
+As a result of the Law of Scale almost all Imperial rituals that enchant an army, such as [Clarity of the Master Strategist](../../mixed/magic/rituals/Clarity_of_the_Master_Strategist.md) are magnitude 80. The rituals that are in Imperial lore represent the best magnitude that these effects can be achieved at. There are some notable exceptions, [Brotherhood of Tian](../../mixed/magic/rituals/Brotherhood_of_Tian.md) is an unusual case where the Law of Scale produces a different outcome. These are the exceptions that prove the rule - there is no value in creating arcane projections that attempt to produce the same effects at higher or lower magnitudes.
+
+Army enchantments that employ the assistance of an eternal, such as [Knights of Glory](../../mixed/magic/rituals/Knights_of_Glory.md) *are* much higher magnitude because these rituals work produce a very different effect - in almost all cases, the enchantments empower the eternal to send heralds to fight alongside the army. These rituals are usually magnitude 120 and the resulting benefits reflect the greater power of the ritual. All magic of this kind is governed by the rules for [eternals and rituals](Eternals_and_rituals.md).
+
+Similar rules apply to enchantments on fleets and military units. There are a few exceptions that prove the rule for existing enchantments, but the best "scale" for all new enchantments on fleets and military units is magnitude 20 that doubles the effectiveness of a starting resource. It is possible to make less powerful variations to lower the magnitude but they are less efficient. Higher magnitude versions of the ritual don't produce noticeably stronger effects.
+
+If a realm is less powerful but can still be used for that effect, then the magnitude of any new ritual would be higher for an equivalent effect - magnitude 24 to double the effectiveness of a starting military unit or fleet. It is possible to avoid this penalty by enlisting the aid of an eternal. If a realm cannot be used for that effect, then any attempt to create a ritual that does that will fail, without the explicit aid of an eternal.
+
+## Spring Magic
+
+- **Spring can enchant an army to reduce the casualties**
+- **Spring can enchant resources to make them better at raiding ventures and voyages**
+
+[Spring magic](Spring_magic.md) excels at healing and vitality - no other realm can compare with Spring magic in this regard. As a result, it is possible to create a powerful enchantment for an army that employed these effects to reduce casualties suffered while on campaign. It is never possible to create Spring rituals that allow an army to take more territory, because the control needed for such magic is dissonant with Spring.
+
+Spring magic is also resonant with effects that cause chaos, savagery and poison and disease. These strengths could be used to create rituals that would empower an army to make it cause more casualties, but such a ritual would need the aid of an eternal.
+
+The chaos and savagery of Spring magic means it excels at creating rituals that enchant military units and fleets to make them better at raiding. It is less powerful, but can still be used to enchant someone to help make adventurous voyages and ventures more rewarding. The wildness and lack of control mean Spring magic cannot be used for any enchantment that would help with campaigning, trading, guarding or scouting.
+
+## Summer Magic
+
+- **Summer can enchant armies to make them more powerful on campaign**
+- **Summer can enchant resources to make them better at campaigning and adventuring**
+
+[Summer magic](Summer_magic.md) is resonant with triumph and prowess - no other realm can compare with Summer magic for making individuals stronger. [Swords in the Noonday Sun](../../mixed/magic/rituals/Swords_in_the_Noonday_Sun.md) draws on these resonances to make an army more powerful on campaign, allowing them to capture more territory and inflict more casualties. [Knights of Glory](../../mixed/magic/rituals/Knights_of_Glory.md) achieves the same result but is even more powerful, since it summons allies from the Summer realm to fight alongside the enchanted army. Such majesty comes at a price however, it is never possible to create Summer rituals that reduce the casualties taken by an army on campaign.
+
+There are many Summer eternals who are interested in war who might be able to help create rituals that drew on the other resonances of the realm or on their personal strengths. An eternal like [Cathan Canae](../../in-character/eternals/Cathan_Canae.md) has helped with arcane projections that provided allies to an enchanted army to help them defend a territory better, while an eternal like [Jaheris](../../in-character/eternals/Jaheris.md) might be able to provide allies that would help an enchanted army inflict more casualties.
+
+The resonances of Summer magic are also useful when enchanting resources; Summer magic is best for rituals that make military units and fleets better at campaigning and questing. It is less powerful, but can still be used to enchant someone to help make raiding and guarding more effective. Sadly, the dissonance of Summer magic for contemplation of cooperation means it cannot be used for any enchantment that would help with trading or scouting.
+
+## Autumn Magic
+
+- **Autumn is flexible and can enchant armies to improve their logistics making them move faster, resupply faster or reducing upkeep**
+- **Autumn can enchant resources to make them better at campaigning and trading**
+
+[Autumn magic](Autumn_magic.md) excels with travel and communication, binding, bands and influence. It lacks the raw power of other realms when used for war magic but is flexible allowing magicians to create a range of rituals that improve logistics, like [Brotherhood of Tian](../../mixed/magic/rituals/Brotherhood_of_Tian.md) (faster resupply), [Find the Best Path](../../mixed/magic/rituals/Find_the_Best_Path.md) (faster movement) and [Bound by Common Cause](../../mixed/magic/rituals/Bound_by_Common_Cause.md) (reduced upkeep).
+
+There is no Autumn eternal interested in war as a primary concern, but Estavus is obsessed with fashioning items, many of which are weapons of war. Not just personal armaments, but siege weapons and similar.
+
+Autumn magic is the preeminent realm for creating rituals that enchant fleets to improve trading returns. It can also be used to help military units and fleets on campaign, by bolstering their ability to cooperate with an army. It is less useful, but still effective for rituals that help with scouting or guarding, but it cannot be used for rituals that aim to enchant a military unit or fleet to help with raiding or questing.
+
+## Winter Magic
+
+- **Winter could create an enchantment that would allow an army to inflict extra casualties while on campaign**
+- **Winter can be used to enchant resources to make them better at guarding**
+
+[Winter magic](Winter_magic.md) is resonant with endings and death. No other realm can compare when used to create enchantments that make armies cause extra casualties while on campaign. There are no rituals like this in Imperial law, but they can be made with arcane projections without the help of any eternal.
+
+[Quickening Cold Meat](../../mixed/magic/rituals/Quickening_Cold_Meat.md) is empowered by [Wise Rangara](../../in-character/eternals/Wise_Rangara.md), bringing a host of wicked winter spirits from the realm to possess the bodies of those who have died. They rise again to fight alongside the army helping to capture territory and kill the enemy, but the enchantment is unique in that it lasts a year. Winter magic has a natural facility for curses - which often last a long time. The wicked [Agramant](../../in-character/eternals/Agramant.md) has been known to offer an enchantment that would summon monstrous creatures from the winter realm and unleash them on campaign inflicting huge casualties on the enemy the army were fighting. Fortunately such magics are banned for as long as the Devourer of the Fallen remains under enmity.
+
+Winter magic is ideal for rituals that enchant fleets and military units to make them stronger and more powerful while guarding, due to its natural resonance with warding, preservation and survival. It is not as effective with rituals that aim to help with campaigning or raiding, but it is still useful. [Clarion Call of Ivory and Dust](../../mixed/magic/rituals/Clarion_Call_of_Ivory_and_Dust.md) exceeds these limitations, providing an effect as strong as Summer or Autumn because it relies on the help of an eternal. Unfortunately it cannot be used for rituals that try to improve scouting, questing or trading.
+
+## Day Magic
+
+- **Day can create enchantments that help an army capture more territory while on campaign**
+- **Day can be used to enchant resources to make them better at trading and scouting**
+
+[Day magic](Day_magic.md) is resonant with mastery, perfection, focus and force. [Clarity of the Master Strategist](../../mixed/magic/rituals/Clarity_of_the_Master_Strategist.md) reflects these strengths, the enchanted army makes better strategic decisions on campaign, allowing them to capture more territory.
+
+It has few other military uses at this scale, although [Cold Sun](../../in-character/eternals/Cold_Sun.md) is undoubtedly capable of providing a large number of heralds to fight alongside an army enchanted in its name - but the challenge would be stopping Cold Sun from sending its *scions* to destroy everything. [Zakalwe](../../in-character/eternals/Zakalwe.md) is called the Master Strategist and the General of Day due to his obsession with strategy and war. He despises savagery in battle however, so if he could be convinced to provide heralds to support an army, they are likely to further increase its capacity to capture territory.
+
+Day magic is ideal for rituals that enchant fleets and military units to make them more effective while scouting, but it is equally effective for rituals that enchant fleets to improve trading returns. It can be used for rituals that enchant resources to make them better at campaigning or guarding, but it cannot be used for enchantments that would help with questing or raiding.
+
+## Night Magic
+
+- **Night can enchant an army to allow it to slip past other forces**
+- **Night can be used to enchant resources to make them better at scouting**
+
+[Night magic](Night_magic.md) struggles with war, due to its dissonance with strength and destruction. Its strength lies in obfuscation, and there is a ritual, Host of Shadows, that employs that resonance to enchant an army so that it can slip through a territory without being stopped by defenders. The ritual is not in Imperial lore however, so the full details are not widely known.
+
+If there are any Night eternals that could help with empower a ritual enchantment of an army, then they have not been found. This may reflect a lack of interest on their part, or something more fundamental about the realm. Clarity, strength and discipline are all dissonant with the realm which would make any such enchantment very difficult.
+
+Night magic is relatively flexible for military units and fleets and can be used for enchantments that empower raiding, guarding, adventuring and trading. Perhaps unsurprisingly, it is most effective with rituals that boost scouting, a reflection of the realm's strengths with obfuscation and intuition. Sadly, Night magic's dissonance with destruction, strength and discipline means it cannot be used for rituals that would help with campaigning.
+
+## Further Reading
+
+- [Overview](Magic.md)
+- [Magic Items](Magic_items.md)
+- [Herbs & Potions](Potion.md)
+- [Spellcasting](Spellcasting.md)
+- [Rituals](Rituals.md)
+  - [Formulaic Rituals](Formulaic_ritual.md)
+  - [Arcane Projections](Arcane_projection.md)
+  - [Battlefield Rituals](../../mixed/magic/rituals/Battlefield_ritual.md)
+  - [Enchantments](Enchantment.md)
+  - [Curses](Curse.md)
+  - [Ilium](Ilium.md)
+- [Ritual theory](Ritual_theory.md)
+  - [Laws of magic](Laws_of_magic.md)
+  - [Limits of magic](Limits_of_magic.md)
+  - [Divination](Divination.md)
+  - War magic
+  - [Eternals and rituals](Eternals_and_rituals.md)
+  - [Spring magic](Spring_magic.md)
+  - [Summer magic](Summer_magic.md)
+  - [Autumn magic](Autumn_magic.md)
+  - [Winter magic](Winter_magic.md)
+  - [Day magic](Day_magic.md)
+  - [Night magic](Night_magic.md)
+- [Regio](../../mixed/magic/rituals/Regio.md)
+
+---
+
+Categories: [Magic Theory](../../indexes/by-category/Magic_Theory.md), [Magic](../../indexes/by-category/Magic.md), [Rules](../../indexes/by-category/Rules.md)

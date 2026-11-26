@@ -1,0 +1,20 @@
+<ic>To fund militia in Miekarova to crush the anarchy cultists there.<br><br>''Proposed by Miekarova, seconded by Volodmartz''</ic>
+
+===Overview===
+* A request for funds to help deal with the [[Anarchy_in_Miekarova|situation]] in [[Miekarova]].
+* Passed at 26 thrones
+
+==Date==
+* Winter 378YE
+
+==Progress==
+* Funds disbursed to Senator Miekarova.
+* 26 thrones paid to fund the Miekarova militia.
+
+==Campaign Outcome==
+* The disruption in Miekarova is disrupting the operation of [[military unit|military units]] based in that territory (a penalty of 6 resources if the military unit were raiding, or 60 strength if assigned to assist an Imperial army).
+* 26 thrones is sufficient to partially mitigate the disruption (a penalty of 2 resources if the military unit is raiding, or 20 strength if assigned to assist an Imperial army).
+
+[[Category:Senate Motion]]
+[[Category: 378YE Winter]]
+__NOTOC__

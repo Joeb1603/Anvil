@@ -1,0 +1,46 @@
+[[Category:Title]][[Category:Foreign Nations]][[Category:Senate]][[Category:Ambassador]]
+{{CaptionedImage|file=Asthore Autumngale.jpg|caption=''''Asthore Autumngale''', Ambassador to Axos|align=left|width=250}}
+==Overview==
+The Ambassador to [[Axos]] is an [[Imperial title]]. It is an Imperial position appointed by the Imperial Senate. The Axou embassy is one of several located in [[Redoubt#Cargo|Cargo]], in [[Redoubt]], while the Imperial embassy occupies a suite of rooms in one of the [[Axos#Towers_of_Kantor|Towers of Kantor]].
+
+Axos is enjoying a period of prosperity following the [[Victory_and_unity#Times_Change|upheaval]] prompted by the ambitious ''Grand Ilarch Kyther''. Imperial relations with the [[Axos|Citadels of Axos]] remain steady, although it might be unwise to take good relations for granted. Axos remains sensitive to anything it sees as a threat to its sovereignty, and relations could sour again very easily. There are a number of potential cracks in the relationship with the Axou. The [[Liberty Pact]] (which Axos relies on to cement its status on the world stage) continues to fracture. The exaltation of the disgraced former Ambassador Fintan, traitor and heretic, offends those who found his crimes unforgivable. The [[A_better_future#Unified_Convocation|Unified Convocation]] continues to bring together priests whose entire religion paints the Empire as footsoldiers of the hated Creator. There is still fear that the Empire plans to doom the entire nation by rousing the [[vallorn]] of [[Axos#Axou_Territories|Visokuma]]. But for now at least, things appear to be going well between the two nations. Mostly.
+
+Prior to the Winter Solstice 387YE, the Ambassador was able to purchase goods from merchants and those seeking favour. This was changed, along with the rest of the ambassadors, when the Senate voted to [[387YE_Winter_Solstice_Senate_sessions#Amend_Imperial_Embassies|amend]] the embassies to end the practice, removing mercantile support and the upkeep costs at the same time.
+==Responsibilities==
+The [[ambassador]]  is expected to represent the Empire in relations with the people of [[Axos]]. They have all the responsibilities [[Ambassador#Responsibilities|common]] to an Imperial ambassador. As such they are responsible for representing the Empire to the Citadels, and to a degree vice versa. They are presented as the primary contact for any official Imperial business relating to Axos, so their letters carry much greater weight and importance than anyone bar [[the Throne]]. They are expected to conduct or oversee any [[Ambassador#Treaty|treaty negotiations]] with that nation, and receive official [[Ambassador#Delegation|delegations]]. The [[civil service]] will direct representatives and citizens of the foreign power to the ambassador wherever appropriate.
+{{Diplomacy|nation=[[Axos]]|status=Foreigner|port=[[Foreign_ports#Towers_of_Kantor|Towers of Kantor]] and [[Foreign_ports#Chambers_of_Issyk|Chambers of Issyk]]|ambassador=Asthore Autumngale of [[Navarr]]|counterpart=[[Ambassador_to_Axos#Axou_Ambassador|Ilarch Kario Skopos of Solokha]]}}
+
+==Powers==
+===Imperial Ambassador===
+The title has all the [[Ambassador#Powers|common powers]] of an ambassador: they can receive a formal [[Ambassador#Delegation|delegation]], and may prepare a [[Ambassador#Treaty|treaty]].
+===Stipend===
+The Ambassador receives a [[Imperial_treasury#Stipends|stipend]] of four thrones each season
+{{RecentElections|Ambassador_to_Axos}}
+==Appointment==
+The Ambassador to Axos is an Imperial position [[Appointments_by_the_Senate#Imperial_Position|appointed by the Senate]]. Any Imperial citizen can hold this title, and the ambassador serves for a year. They can be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+==Ambassadorial Lore==
+<div style="float:right; width: 250px; clear: right;">{{CaptionedImage|file=Alikos Helio.jpg|caption=The Victorious Axis continue to go from strength to strength.|align=right|width=250}}</div>
+===Axos Embassy===
+After several years of wrangling, an [[embassy]] to the citadels of [[Axos]] was [[commission|commissioned]] by the [[Senate]] during the  [[Construct_Axos_Embassy|Summer Solstice 380YE]]. Built in the port-town of [[Redoubt#Cargo|Cargo]], in [[Redoubt]], construction was completed in a timely fashion and the Axou [[ambassador]] and their staff took residence shortly before the Autumn Equinox. With the opening of the embassy, the Axou in turn opened the port of [[Axos ports|Towers of Kantor]] to Imperial [[fleet|shipping]], and the slow process of securing good diplomatic relations began. 
+
+The Axou embassy itself is a six storey structure of [[white granite]], with a wide base that tapers toward the roof-garden that crowns it. It was designed with the assistance of architects from the Towers of Kantor, and in much the same way [[Urizen]] architects were extensively consulted before work began on the Imperial Embassy in Axos. Some minor controversy has been sparked by the inclusion of a half dozen mummified corpses in the chambers beneath the embassy, said variously to be deceased relatives of the ambassador... or members of the ambassadorial staff, depending on who one asks.
+
+The Imperial embassy in Axos is a somewhat more restrained affair. It occupies three entire floors of one of the Towers of Kantor that overlooks a vertiginous drop down to the docks below the high cliffs atop which the Citadel is built. Within the Civil Service, it is quietly regarded as the worst possible posting for anyone who has a fear of heights. 
+{{WingedMessenger|address=Ilarch Kario Skopos, The Towers of Kantor, Axos}}
+===Axou Ambassador===
+The Axos Ambassador to the Empire ''Ilarch Kario Skopos of Solokha'' remain cordial or even friendly. Skopos is a scion of an influential family from the [[Axos#Chambers of Ussyk|Chambers of Issyk]], who has renounced his ties to the citadel of his birth at the instruction of the Grand Council for as long as he holds the post. This is intended to signify neutrality in the politics of the citadel, to make him a worthier intermediary through which the Axou can deal with their allies in the Empire.
+===Ambassadorial Briefings===
+As discussed in the 388YE Autumn Equinox wind of fortune '''[[So_little_I_wanted,_so_little_I_got#Ambassadorial_Briefings|So little I wanted, so little I got]]''', the [[civil service]] have recently reinstituted Ambassadorial briefings. At least in the short term, the civil service have resumed furnishing Imperial ambassadors ''who are supported by [[embassy]] staff'' with individual briefings where necessary and appropriate. To maintain transparency and preserve continuity, the briefings are made available to those who wish to review them ''after'' the summit where they are delivered, in a similar way to which [[historical research]] is made public. Only those elements of a briefing that are specifically personal to the ambassador may be removed, and only where they are clearly not of interest to the Empire. At the end of the year, this procedure will be reviewed again, to ensure that it is fit for purpose.
+* [[388YE Autumn Axos ambassador briefing]]
+{{Axos Links}}
+<!--
+==Archival Stuff==
+<table style="width: 500px; float: right; clear: right; margin: 10px;">
+<tr><td colspan="2" style="background-color: LightBlue;">'''Axou Merchants'''</td></tr>
+<tr><td>8 Crowns</td><td>5 Beggar's Lye, 4 Orichalcum, 3 Tempest Jade, 3 Crystal Mana</td></tr>
+<tr><td>30 Crowns</td><td>15 Beggar's Lye, 12 Orichalcum, 9 Tempest Jade, 9 Crystal Mana</td></tr>
+<tr><td>60 Crowns</td><td>25 Beggar's Lye, 20 Orichalcum, 15 Tempest Jade, 15 Crystal Mana</td></tr>
+</table>
+
+===Axou Merchants===
+The [[embassy]] in Cargo means that the ambassador enjoys the benefits of [[Ambassador#Mercantile_Support|mercantile support]] from traders keen to curry their favour. As a [[ministry]], this allows them to purchase quantities of special materials at a set price. The ambassador spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.-->

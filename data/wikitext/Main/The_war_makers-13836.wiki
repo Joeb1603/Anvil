@@ -1,0 +1,80 @@
+[[Category:Winds of Fortune]][[Category:388YE Summer]]
+<ic>
+"''..and the anvil song''" Raelyn knew the chorus, but couldn't remember the verses for the life of her. She just kept hammering away as the rest of the group continued the song. 
+
+She was excited, truth be told. She'd only been at this for a few months, but the enthusiasm of the other artisans was infectious. She'd gotten to study with runesmiths! Soon she'd get to go on campaign and work her craft to killing barbarians and protecting Imperials. And eventually.. Eventually fight against Terunael's folly.
+
+"''And it's sparks..''"
+</ic>
+<div style="float:left; width: 300px; clear: right; margin: 15px;">{{CaptionedImage|file=Schmiedefeuer 2.jpg|align=right|width=500}}</div>
+==Overview==
+During the Spring Equinox 387YE, the Imperial Senate passed a [[Raise Third Navarr Army|motion]] to [[Army#Recruitment|raise]] a third [[Navarr]] army in [[Hercynia]]. The motion was proposed by '''Rowyn of the Waystone Path''', as the Senator for [[Hercynia]], and seconded by '''Tristan du Lac''', as the Senator for [[Weirwater]]. The army was raised around a core of artisans and runesmiths in [[Hercynia#Treji|Treji]]. The motion received the [[A_thousand_steps#Shared_Sacrifice|support]] of Dawn, the Marches, Varushka, and the Imperial Orcs through the backing of their artisans.
+
+Funding was provided from across Navarr, with over eight hundred measures and ingots provided to the artisans of Treji.
+
+Last season, Hercynia was enchanted with [[Mystic_scrolls_of_Estavus#Hammers_of_Fury|Hammers of Fury]] by [[Varushka_groups#Cabal_Lyktan|Cabal Lyktan]]. Now, fifteen months after it was first raised, the army is almost ready to take the field against the enemies of the Empire, but the army's name and essential quality remain open questions. The hardened artisans of Treji stand ready, but how they will fight, and under what banner, is still to be answered.
+
+Rowyn of the Waystone Path, as the raising senator, is responsible for choosing the new army's forte and name. They should inform one of the Speakers for the Senate of their decision during the summit.
+
+==A Name! A Name!==
+* '''The new army needs a name, and the task of determining what it will be falls to ''Rowyn of the Waystone Path'''''
+* '''The majority of the nation is keen for Isaella's Dance to be allowed time to become a legacy'''
+The new army will need a name; one that will echo along the trods and beyond, and that will join the ranks of the [[Black Thorns]], the [[Quiet Step]], and the lamented [[Isaella's Dance]]. The final decision as to that name lies with the [[Senator]] for [[Hercynia]], '''Rowyn of the Waystone Path''', but they may wish to take advice from the rest of their nation to find something suitable for the new army.
+
+With the [[Under_eastern_skies#Now_We_Are_Ready|loss of Isaella's Dance]] still fresh in the minds of many, there is a common view in the steadings and along the trods that the senator should not choose to name the new army after the lost. It is considered more appropriate to leave their legacy to be remembered and allow grief to take its course. 
+
+Elsewhere, is the conversation about the Dance of Blood. The army ''could'' be named after that historic army, but it would not change the training available - the army was raised utilising the expertise of the artisans and runesmiths of Treji. It would need an [[appraisal]] to raise an army that was able to utilise the same [[army qualities#Cruel|cruel]] tactics. That being made clear, there is also the [[Dance_of_Blood_and_Jotun_consequences|consequences]] of naming an army after the Dance of Blood to consider.
+
+==Break the Walls Down==
+* '''The new army could have the ''Siege'' quality'''
+* '''A ''Siege'' army can take the ''Storm the Walls'' order when attacking'''
+The [[Valiant Pegasus]] were first raised as [[Army_qualities#Siege|sappers]], and when the [[Towerjacks]] were once again mustered they took the field as siege experts before they received extensive training to become [[Army qualities#Engineers|engineers]]. The artisans of the new army could be put to use in constructing siege engines and trained with a focus towards conquering fortified regions. They could be encouraged to focus on strategies that lead to claiming bastions quickly, to avoid a lengthy and protracted siege. 
+
+<box>'''Storm the Walls'''
+* '''The army must be attacking a region containing a [[fortification#bastion|bastion]] or else the order defaults to [[army orders#Cautious Advance|cautious advance]]'''
+* '''The ability of this army to capture the fortified region is increased by half''' 
+* '''The ability of this army to capture a region with a temporary fort created by Frozen Citadel of Cathan Canae, the Basalt Citadel, or an army with the engineer quality, is increased by half
+* '''Casualties suffered by the army are increased by three tenths'''
+The army unleashes hell against a region that has been [[fortification|fortified]]. While catapults and trebuchets pound the walls, siege towers and ladders are deployed to allow the soldiers to take the fight to the defenders. Meanwhile, engineers work to undermine the walls, and massive covered rams are deployed against the gates. The loss of life is likely to be severe, but the region will fall much more quickly than it might in a prolonged siege.
+
+In addition to helping to capture a region containing a [[fortification#bastion|bastion]], the ''Storm the Walls'' order is also effective against certain effects that fortify a region. This includes [[Frozen Citadel of Cathan Canae]], [[the Basalt Citadel]], and the temporary forts that can be created by an army with the [[Army qualities#Engineer|engineer]] [[army qualities#quality|quality]]. It does ''not'' help to capture regions with other defences that are not forts or castles - it has no additional effect when attacking a region under the effect of [[Dripping Echoes of the Fen]] or [[Forge the Wooden Fastness]], for example.</box>
+
+==Into Viridian Hell==
+* '''The new army could have the ''Resilient'' quality'''
+* '''A ''Resilient'' army can take the ''Grinding Advance'' order when attack'''
+The [[Golden Sun]] have long proven their worth as a glorious army. Indeed, the Golden Sun were there when Isaella's Dance [[Under_eastern_skies#Game_Information|fell]]. The new army could be inspired by the Golden Sun, and the artisans of Treji encouraged to focus on heavy armour, shields, and polearms. The officers of the army could be trained in the misdirections that allow the army to quickly take up defensive positions where necessary.
+<box>'''Grinding Advance'''
+* '''Casualties suffered by this army are reduced by three-tenths'''
+* '''Casualties inflicted by this army are reduced by a fifth'''
+The army slowly advances, consolidating every gain before moving forward. The army looks to avoid direct engagements with the enemy, ceasing their advance and taking defensive positions if they are engaged.</box>
+
+==Repair and Reuse==
+* '''The new army could have the ''Resourceful'' quality'''
+* '''A ''Resourceful'' army can benefit from [[Casualties#Emergency_Resupply|emergency resupply]] regardless of what territory they are in or whether they are engaged by the enemy'''
+* '''A ''Resourceful'' army can benefit from [[Casualties#Natural_Resupply|natural resupply]] regardless of what territory they are in as long as they are not engaged by the enemy, even if they are taking an attacking order'''
+The benefits of the steadings and stridings of Navarr are readily apparent in the [[army qualities#Fast|speed]] at which the [[Black Thorns]] can traverse the Empire. The new army could draw on the resurgence in [[Navarr wayhouse|wayhouses]] to ensure that it had a steady source of supplies and goods across Imperial territories. The artisans of Treji could be encouraged to work on keeping up with repairs on the go, with funds going towards a continual supply of [[Artisan's Oil]].
+
+==Participation: Artisans==
+* '''Artisans of Navarr, and especially Hercynia, are encouraged to roleplay they have been helping the army muster over the last three months'''
+Players whose Navarr characters have the artisan skill are encouraged to roleplay that they have been helping forge and craft items for the army over the past season, especially if they are based in Hercynia. Regardless of skill, or whether you have made items in downtime, it is possible that your character will have been able to help apprentices or simply be a spare pair of hands to help measure, cut, and smith where necessary. 
+
+There is a tacit agreement amongst the artisans who have helped muster the army and its officers that they will be able to bear the symbol of the army once it has been named and a symbol decided upon.
+
+==What Next?==
+* '''The third Navarr army has finished mustering
+* '''The Navarr are expecting another Navarr army to begin raising soon
+* '''If a motion to raise another Navarr army is not passed by the start of the Summer Solstice 389YE Navarr's supply will fall by one
+Of course, this new army is only the first of those expected by the wider nation of Navarr. When the stridings were [[The first shot|called home]] and preparations started, there was always an expectation that this would just be the start. The nation is ecstatic at this new army having been raised, but the question will always be "''what next?''"
+
+==Remnants of the Iron Labyrinth==
+* '''The Hammers of Fury ritual performed on Hercynia has had unexpected side effects'''
+* '''The Chain is seen to be slightly brighter over Hercynia than other constellations'''
+* '''Artisans from Hercynia gain access to a potent ability at the coming summit'''
+As the forges of Hercynia begin to grow cold and the last effects of the [[Hammers of Fury]] start to fade, there is a [[Things_go_awry#The_Stars_are_Wrong|subtle shift]] in the air. [[The Chain]], high above, glows eerily in the night sky. Shining brightly and pulsing - almost as if fed by a heavenly bellows - the five stars can be seen across the territory. It only happens for one night, but all [[cambion|cambions]] and every [[artisan]] feels an energy in the air - as if some remnant of Autumn magic remains.
+
+During the Summer Solstice, any artisan with a personal resource in Hercynia can use a potent ability tied to the lingering effects of the ritual. Once during the summit, they can effectively "refresh" a [[Crafting_skills#Journeyman_Item|journeyman magic item]] bonded to them with thirty seconds of appropriate roleplay. All expended uses of that item are refreshed: if an [[Amberglass Chain]] had been used both times, it would replenish both uses, but if it had only been used once, then it would only replenish one use. This ability does nothing to magic items whose effect is passive, such [[Landskeeper's Oath]], or where a resource is expended, such as [[Circlet of Falling Snow]].
+
+Cambions who live in Hercynia, or who have spent time there this past season, can gain a benefit once at the upcoming summit. They can regain, or gain a temporary, [[Heroic_skills#Hero|hero point]] if they feel they have achieved a goal in some manner. This can be as simple as managing to make a deal with someone or something as complicated as gathering funds for a ritual or a [[commission]], or even passing a Senate motion. This hero point is always the first to be spent and cannot be regained once lost.
+{{ItemTable|Artisan_Slot_Two}}
+==Resolution==
+The third Navarr army was named the [[Star Forged]] and gained the Resourceful quality.

@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:387YE Autumn]]
+__NOTOC__
+<quote by="Announced by Alfred Eawulfson, Bearer of an Imperial Wayleave">To construct Rebellion's Ridge, a great work dedicated to the leaders of the Ore Hills Rebellion, exemplars of Pride. Located in Boon County, Ore Hills, Mournwold, it shall boost the congregations of the territory and serve as a memorial for friars and pilgrims to visit in study of Pride. Its cost will be 50 wains of white granite and 150 crowns of labour. Built by Alfred Eawulfson in the name of Jedediah Boon
+</quote>
+==Overview==
+* Constructs a [[great work]] in Ore Hills, [[Mournwold]]
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+
+==Date==
+* Autumn 387YE
+
+==Cost==
+* Standard costs apply
+* 50 wains of white granite
+* 150 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Rebellion%27s_Ridge}}
+==Outcome==
+* Now complete, [[congregation|congregations]] in [[Mournwold]] will receive an additional two doses of [[liao]] each season. The first doses of liao will be first received at the Autumn Equinox 388YE

@@ -1,0 +1,46 @@
+==Rules==
+{{Season|Winter|10}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Character}} The target character must possess the [[Magical skills#Magician|magician]] skill. 
+
+{{enchantment}}
+
+===Effects===
+Twice each day during the duration of the [[enchantment]] the target is able to cast the [[Paralysis]] spell with an appropriate implement, following the normal rules for casting an [[Spellcasting#Offensive_Spells|offensive spell]], without spending personal mana, as if they knew it.
+ 
+While under the effect the target experiences a [[roleplaying effect]]: ''You feel powerful and deserving of respect. You experience an urge to punish anyone who disrespects you or your authority. Forgiveness and trust are especially difficult for you to express.''
+
+{{Season Duration}}
+
+===Additional Targets===
+This ritual can affect additional magicians from the same [[Groups#Covens|coven]]. Each additional character increases the magnitude by 8. Additional characters must be present throughout.
+===Option===
+Any caster who has mastered the ritual may choose to substitute ingots of [[orichalcum]] for crystal mana when contributing to it. Every 5 ingots spent in this way counts as 3 crystal mana when contributing to the ritual. However, a magician may only use this option if they make it clear through their roleplaying that these are gifts for Tharim. It should be obvious to any observer that these ingots are a tribute. 
+
+If this option is used by any [[Rituals#Contributors|contributor]], for at least ten minutes after the ritual is complete ''all'' contributors experience a roleplaying effect: ''You feel as if your body is wrapped in heavy chains, making it difficult to move. Your limbs feel as if they are restrained, making running or fighting especially challenging.''
+==Assurance==
+This ritual draws on the power of [[Tharim]] of [[the Thrice-cursed Court]] and thus has an assurance attached to it. If the [[Archmage of Winter]] ever refuses to receive a delegation from Tharim's court in the Imperial Senate, as if they were a diplomatic envoy, the ritual loses all power.
+<div style="float:left; width: 250px; clear: right;">{{CaptionedImage|file=ArchmageEmatius.jpg|caption='''Ematius Ankarien''', Archmage of Winter, created the original enchantment the ritual is based on.|align=left|width=250}}</div>
+==Description==
+This Winter ritual was based on work originally done by '''Ematius of the Great Library of Ankarien''', Archmage of Winter. It was codified shortly before the Summer Solstice 387YE, at [[Dean_of_the_Lyceum#The_Lyceum|the Lyceum]] under the guidance of '''Palaphon Ankarien''', the [[Dean of the Lyceum]]. When it was codified, the Lyceum was still trapped inside the wards of mist raised to protect the island from the Grendel. It became part of [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]] following a [[Dean_of_the_Lyceum#Arbiter_of_Imperial_Lore|declaration]] by the new [[Navarr]] Dean, '''Syl''', and funded by the Remislavs of [[Varushka]] and the Crimson Reapers of [[the League]].
+
+Before the original projection was presented for codification, it had been [[Back_in_town#Tharim|carefully examined]] by the Bound King – Tharim of the Thrice-cursed Court – who by all accounts made some simple modifications to the magic to bind it more closely with his own cruel power. This also caused the ritual to be bound up with an [[#Assurance|assurance]] that could potentially unravel its power were it transgressed.
+
+The [[enchantment]] allows a [[Magical skills#Magician|magician]] to wield the power of the [[Realms#Winter|Winter realm]] to render a foe [[Calls#PARALYSE|completely helpless]] for a short time. It binds the victim in unbreakable chains of invisible force that echo those which keep the King of the Thrice-cursed Court bound to his throne. It draws on the resonance of [[Winter magic#Weakness|weakness]], making the target powerless and helpless. It also draws to some degree on the resonance of [[Winter magic#Punishment|Punishment]], especially under the influence of Tharim who cannot endure those who disobey his commands or treat him with disrespect. That [[Winter magic#Resonance|resonance]] bleeds into the enchantment as well, causing the one upon which it is placed to experience feelings of power and the urge to strike down anyone who does not respect that authority. 
+
+On a simplistic, practical level, the enchantment is similar to any number of magics known to the Empire that apply similar power. It is rare to see an enchantment that affects a spell of might equivalent to paralysis – only [[shatter]] draws as much mana to perform on a general basis. With enough people empowered with this enchantment, a unit of [[Magical skills#Battle Mage|battle-magicians]] could devastate an unprepared band of foes.
+
+It's perhaps worth noting that both [[Inhabitants of the realms#Heralds|heralds]] of [[Sadogua]], and magicians of the [[Commonwealth]] at the [[Dean_of_the_Lyceum#The_Lyceum_Schloss|Lyceum Schloss]], broadly declined to get involved in the codification of the ritual. The heralds of the [[Dean_of_the_Lyceum#The_Quiet_Annexe|Quiet Annexe]] claimed that they were simply too busy making sure everyone had food and drink. The Commonwealth magicians on the other hand were much more up front about their decision to not become involved; they found the enchantment distasteful in nature.
+<div style="float:right; width: 250px; clear: left;">{{CaptionedImage|file=Tharim 001.jpg|caption=The Bound King made minor modifications to the magic of the original arcane projection, causing it to acquire an assurance.|align=right|width=250}}</div>
+This reticence is likely connected to the influence of Tharim over the ritual. The Bound King is in some ways a symbol of the worst elements of power – jealous, suspicious, fearful of their position, incapable of trust or empathy. Some of these traits, as previously mentioned, may affect the target of the enchantment. As part of the codification, however, it was discovered that the arcane projection was woven with a complex set of magical theorems that were reminiscent in some ways of Tribute to the Thrice-cursed Court. It allows magicians who have properly mastered the ritual to offer a tribute to Tharim – not to the court as a whole but to the Bound King directly. It is slightly more potent than the usual method of drawing on ingots and measures to perform a ritual. Interestingly, it also inflicts a minor curse on the contributors to the ritual that is reminiscent of that which accompanies Pallid Flesh of the Bound King. Does this imply that there is more going on with this tribute than at first meets the eye?
+
+The magicians involved in preparing the ritual text also discovered that there is an [[#Assurance|assurance]] built into the magic now. The ritual loses all power if the Archmage of Winter ever refuses to attend a formal meeting with representatives of the Court of Tharim in the Imperial Senate, in the same way a delegation would be received by an [[Ambassador]]. It is likely not a coincidence that this assurance reflects the [[Can_you_hear_me%3F#The_King_on_the_Throne_of_Chains|peculiar parley]] demanded by the Bound King in response to the [[Archmage#Plenipotentiary|plenipotentiary]] of Archmage Ematius at the same summit the ritual was codified and placed into lore.
+
+Interestingly, perhaps, one of the magicians involved in the codification pondered what a ritual drawing on the same principles as Petrifying Command of the Tyrant and something like [[Unending Cascade of Blood's Fire]]. No doubt Tharim could be called upon to enhance such a ritual in the same way he has offered support to this one?
+
+==Common Elements==
+Chains resonate well with this ritual. Binding chains or ropes around the implements of those who will be enchanted, or even about the magicians themselves, strengthens the power of the ritual. Ideally they should be seated in the manner of the Bound King. Likewise, crowning the targets in the manner of an old-time monarch will allow the Winter magic to flow more easily. 
+
+As an enchantment that grants power to individuals, anointing or marking them with runes such as [[Hirmok]], [[Kyrop]], or similar sigils, is appropriate. Invocation of Tharim – and only Tharim – is resonant with the ritual even if tribute is not being offered. Interestingly, the ritual is strongly ''dissonant'' with the invocation of any other figure – eternal, paragon, or exemplar. Tharim is a jealous ruler it seems. Performances that do so may result in contributors experiencing the odd lingering effects associated with the offering of tribute even if they did not do so as part of the performance, and if they ''did'' do so the effect is likely to persist much longer than usual.
+[[Category:Winter Ritual]]
+[[Category:Rituals]]

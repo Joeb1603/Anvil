@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:386YE Spring]]
+__NOTOC__
+<quote by="Proposed: Miekarova, Seconded: Weirwater">To commission the construction of a smuggler's cove in the Salt Flats of Sanath. This construction will be fully funded and allow us to strike at the heartland of the Druj, furthering our information gathering capabilities, bringing us closer to an end to the war and liberating the subjugated peoples.</quote>
+==Overview==
+* Constructs a smuggler's cove in [[Salt Flats of Sanath]] as per '''[[An_angry_blade#Hear_More|An angry blade]]''' wind of fortune
+* Passed
+
+==Date==
+* Spring 386YE
+==Cost==
+* Standard costs apply
+* 10 white granite
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Smuggler%27s_Cove_in_Salt_Flats_of_Sanath}}
+==Outcome==
+* Now complete [[fleet|fleets]] will be able to support the cove in the same manner as a military units can support spy networks.

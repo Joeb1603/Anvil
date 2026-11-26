@@ -1,0 +1,58 @@
+==The Manifesto==
+{{CaptionedImage|file=Vallornguard sodality.png|title=Vallornguard|align=right|width=240}}
+The sodality is dedicated to ridding the Empire of the vallorn. It holds the following to be true:
+
+* They believe that the vallorn are the greatest spiritual threat the Empire has seen
+* That the threat can be dealt with via Imperial cooperation
+* That further opportunities should be sought to deal with this threat
+
+The sodality therefore exists to:
+
+*To rid the Empire of the vallorn
+*To encourage international cooperation on the matter
+*To provide opportunities to virtuous citizens to aid in the fight against the vallorn
+
+==Symbol==
+The Vallornguard's symbol is a shield wrapped in a thorny briar with a crossed spear and greatsword behind it. Members of the sodality might mark their membership of the Vallornguard using this symbol, or might simplify it a little to a shield appropriate to their nation with a thorny bough, leaving the weapons off.
+__TOC__
+==Membership==
+Any Imperial citizen can join the sodality using the [[Mark of Fellowship]] ritual.
+==Powers==
+If the title of ''Speaker of the Vallornguard'' is vacant, then the sodality can take a vote to appoint a representative to the position.
+
+The Summer 387YE wind of fortune '''[[Eight for a wish]]''' identifies a number of powers or appointments that might be granted to the Vallornguard.
+
+If an [[opportunity]] were identified where the sodality could be deployed, then the outcome of that opportunity would be decided by a vote of the members.
+
+==Endowment==
+The Vallornguard are the beneficiary of a single, significant bequest. 
+
+Each season, the sodality can choose to endow the bequest on a single citizen. The bequest can only be endowed in its entirety; it cannot be split up. A bequest rolls over each season that it is not endowed - the eligible member of the sodality receives everything accrued to date after a successful vote of endowment.
+
+To endow a bequest on a member of the sodality requires a majority vote of members who are present when the sodality is [[Imperial_sodality#Sessions|in session]]. Any member of the sodality can call for such a vote during a session - if the vote is successful, then the attending civil servant will take the appropriate records of the event and provide the endowed resources.
+
+===The Bloody Bequest===
+* '''Provides a bequest of ten thrones each season'''
+The Bloody Bequest is the seasonal proceeds from the artists, musicians, actors, and entertainers of the [[Lorenzo%27s_Legacy#The_Blood_Red_Quays_Art_Gallery|Blood Red Quays Art Gallery]], the [[Lorenzo%27s_Legacy#The_Blood_Red_River_Museum|Blood Red River Museum]], and the [[Lorenzo%27s_Legacy#The_Bloody_Great_Theatre|Bloody Great Theatre]]. These proceeds are further augmented by donations from wealthy patrons and appreciators of the arts.
+
+The bequest was established during the Summer Solstice 387YE, when the League Assembly endorsed '''Prince-Bishop Estella Lucati di Sarvos''' to enact a [[387YE_Summer_Solstice_Synod_judgements#Judgement_18|mandate]] encouraging the patrons of [[Lorenzo's Legacy]] to support the sodality.
+
+==History==
+The Vallornguard were [[387YE_Spring_Equinox_Senate_sessions#Establish_Vallornguard_Sodality|formally established]] by the [[Senate]] at the Spring Equinox 387YE. As has rapidly become traditional, the [[Civil Service]] identified a number of constitutional impacts the sodality would have, triggering a discussion around the fate of the [[Advisor on the Vallorn]] as well as putting forward some proposals for powers the Senate may wish to devolve to the new sodality. Those nations most actively involved in the war against the vallorn - [[Navarr]] of course but also [[Highguard]], [[the League]], and [[Varushka]] - also presented opportunities to throw their support behind the Vallornguard.
+<!--{{CaptionedImage|file=Percival Summerstrong.jpg|caption='''Earl Percival Summerstrong''', Speaker of the Vallornguard|align=left|width=400}}-->
+==Speaker of the Vallornguard==
+The Speaker of the Vallornguard is an Imperial title awarded to a member of the Vallornguard. The Speaker is expected to be a mouthpiece for the sodality, with the responsibility to represent their sodality's views to other parts of the Empire, to recruit new members, and to advance the sodality's goals and the members' interests.
+
+====Appointment====
+The Speaker is selected by members of the sodality. Only a member of the sodality can present themselves for the title, and only a member of the sodality can vote in the election. The candidate who gains the most votes from the members of the sodality is elected to the title.
+
+They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<div style="float: right; width=300px; margin-right:10px; margin-left: 10px; clear: right;">
+{{#lst:Archive:All_Election_Results|Speaker_of_the_Vallornguard}}
+</div>
+
+====Recent Elections====
+{{#lst:Archive:All_Election_Results|Speaker_of_the_Vallornguard_election}} The table to the right shows the citizens who have been elected to hold {{{2|this title}}} in the years since [[Empress Britta]] died.
+[[Category:Imperial Sodality]]
+[[Category:Title]]
+{{Vallorn links}}

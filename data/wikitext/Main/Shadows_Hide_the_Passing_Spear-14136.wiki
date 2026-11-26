@@ -1,0 +1,41 @@
+[[Category:Night Ritual]][[Category:Rituals]][[Category:Warfare]]
+==Rules==
+{{Season|Night|80}}
+===Performing the Ritual===
+{{Casting time|10}} {{Imperial Reduction}} This ritual targets an [[Army|Imperial army]]. The [[Military Council|general]] responsible for the army (or the [[egregores|egregore]] if the general is not at Anvil) must be present throughout.
+
+{{Regio|Night}}
+
+{{enchantment}}
+
+===Effects===
+The enchanted [[army]] is surrounded by a faint magical fog that moves with it. The fog specifically affects the [[vallorn]] and its spawn, making the army appear less threatening, and its actions less like the result of a civilised force.  
+
+Provided the enchanted army is using [[Army_orders#Cautious_Advance|Cautious Advance]] or [[Army_orders#Gibe Ground|Give Ground]] orders, it can move through [[territory#Regions|regions]] with the [[Region_qualities#Vallorn|Vallorn quality]] this season without taking casualties from doing so. The enchantment does not offer additional protection from the vallorn, its spawn, or its [[vallorn miasma|miasma]]. It just allows the army to move through regions claimed by the vallorn without impediment.
+
+The [[general]] of the enchanted army experiences a roleplaying effect: ''you feel an urge to conceal your true intentions from others, especially with regard to military matters. Anyone who attempts to probe into your plans must have sinister motives.''
+
+{{Season Duration}}
+<div style="float:right; width: 300px; clear: right;">{{CaptionedImage|file=Seren Embercast.jpg|caption='''Seren Embercast''' laid the groundwork for this subtle army enchantment.|align=right|width=250}}</div>
+
+==Description==
+This ritual was adapted from work performed by ''Seren Embercast'' of [[Navarr]], the [[Advisor on the Vallorn]]. It was codified at [[Dean_of_the_Lyceum#The_Lyceum|the Lyceum]], under the guidance of ''Syl'', the [[Dean of the Lyceum]], who also [[388YE_Autumn_Equinox_Conclave_sessions#Imperial_Lore:_Shadows_Hide_the_Passing_Spear|raised]] the [[declaration]] to make it part of Imperial lore. The declaration was funded by Seren Embercast, on behalf of the [[Vallornguard]].
+
+This ritual employs one of the few uses of Night magic that is useful in [[War_magic#Night_Magic|warfare]]. Rather than improving the ability for an army to face its foes, it misdirects them instead. Similar to the ''Host of Shadows'', it allows an army to pass through enemy lines. In this case, it allows the army to avoid the attention of the creatures that are created from the [[vallorn]].  
+
+Experimentation with this ritual was obviously challenging; it is not a simple matter to explore areas infested with the vallorn even when the Lyceum is not locked away within a wall of mists. A lot of the work here was, as a consequence, theoretical rather than practical. The magicians involved are confident it will work but the first army to actually have to rely on the magic may find the experience especially nerve wracking.
+
+The enchantment also requires a certain degree of circumspection. The enchantment will swiftly collapse if it is used to try and empower an army taking orders that encourages confrontation. Even if the intent is not to fight the vallorn, but to pass through it to fight a different force entirely, that intent undermines the power of the ritual to the point where it will collapse and leave the army at the mercy of the vallorn spawn. 
+
+This latter weakness was not identified until codification was well under way. The limitation may reduce the strategic use of the ritual but does not undermine the core intent – allowing a force at arms to pass through areas controlled by the vallorn.
+<div style="float:right; width: 300px; clear: right;">{{CaptionedImage|file=VallornMiasma.jpg|title=Vallornspawn respond violently to certain stimuli; this ritual occludes an army so it will not draw the attention of such creatures.|align=right|width=300}}</div>
+==Common Elements==
+As an enchantment that targets an entire [[army]], the obvious focal point of the ritual is the [[general]] who has dominion over that force. Symbols of the army, especially a standard, also helps support the magic as do soldiers who have fought with the army recently. [[Dawn_hearth_magic#Girding|Girding]] the general, or more correctly obscuring them with robe, mask, veil, or paint, will cause the enchantment to adhere more tightly.
+
+The rune [[Wyr]] resonates strongly with this ritual, but interestingly [[Diras]] does not. This discovery caused significant interest among the researchers, as to the difference between secret and mystery and how that interacts with the vallorn and its spawn. [[Queros]], the rune of conspiracy, also proved successful however which lead to even more discussion.
+
+The [[astronomancy|astronomantic]] constellation of [[the Lock]] binds the enchantment in place – although this is slightly more theoretical than supported by evidence. Based on examination of other rituals, the researchers believer the constellation is resonant but the recent magical chaos made actual experimentation in this regard during the codification infeasible.
+
+[[The Mountebank]], the [[dramaturgy|dramaturgical]] persona of transformation and misdirection, works perfectly with this ritual, especially when employed with [[the Cloak]] and [[the Garden]] (unsurprisingly in both cases). Plays with scenes that involve misdirection involving trees or camouflage channel the magic very effectively.
+
+Finally, [[blood magic|blood magicians]] discovered that the blood of those who have faced the vallorn without fighting its spawn – scouts, spies, people who made a point of avoiding vallornspawn rather than rousing them – have a strong symbolic resonance with the magic. Finding folk with that kind of blood, however, proves more challenging. Regrettably, it is much more common to find people who have fought the vallorn than it is people who have avoided its attention.

@@ -1,0 +1,46 @@
+{{CaptionedImage|file=SnowWhiteRoseRed.jpg|align=left|caption=The rage of the forest is deep, and slow to rouse...|width=400}}
+==Rules==
+{{Season|Spring|120}}
+===Performing the Ritual===
+{{Casting time|10}} {{Imperial Reduction}}
+
+{{Regio|Spring}} {{Target Territory}}
+
+During the performance of the ritual the casters must name a region within the target territory which has the ''forested'' quality.
+
+{{curse}}
+
+===Effects===
+The ritual targets a single territory. Over the course of the next few days a powerful [[curse]] settles over the area. Plants in the territory, especially trees, become possessed of both mobility and malign awareness. The resulting force is uncontrolled. It attacks indiscriminately within the area. 
+
+Every season 500 casualties are assessed and spread among all potential targets in the territory harming both [[Army|campaign armies]] and [[fortifications]] (the [[fortification#bastion|bastion]] and [[fortification#garrison|garrison]] are targeted separately and both take a share of the casualties). Casualties inflicted on a [[Fortification#Bastion|bastion]] are ''not'' reduced by four-fifths, bypassing the usual protections the structure enjoys. Any army in the territory does not benefit from [[Casualties#Natural_Resupply|natural resupply]] if they end their [[Army_orders#Movement|movement]] in this territory, and any garrison likewise cannot benefit from natural resupply while the curse is in effect.
+
+All [[Resource#Personal_Resource|personal resources]] belonging to characters in the territory except for [[fleet|fleets]] have their production reduced. Each [[farm]] and [[business]] provides 36 fewer rings; each [[forest]] and [[mine]] produces two fewer measures or ingots of the base material; each [[mana site]] produces one fewer crystal mana; each [[herb garden]] produces two fewer herbs; a [[congregation]] provides 2 fewer votes and 1 fewer [[liao]], and a [[military unit]] based in the territory has its effective strength reduced by 20 (or its production reduced by 1 rank). 
+
+{{Territory Effects}} Given the curse causes plants to become hostile, and grants them malign mobility, the population of a territory will certainly be affected by this ritual. Casualties are inevitable. Numbers are likely to be related both to population concentration, and the terrain (more forests and woodlands mean more trees, and likely mean more deaths). 
+
+{{Year Duration}}
+
+==Description==
+This ritual infuses the vegetation in an area with a malign life. Scholars suggest that it causes spirits of the Spring realm to infuse the vegetation, granting animation and sending them on a murderous rampage. The trees cannot be directed, and will not fight alongside other campaign armies. They are especially drawn to fortifications, which they tear asunder with reckless abandon.
+
+Attacks against the animated trees are largely fruitless. While individual trees might be burnt or hacked to pieces, the sheer amount of vegetation in most territories makes this minimally effective at best. The trees may occasionally endanger smaller settlements, but for the most part they simply ignore villages and even small towns preferring to vent their wrath on armies and castles. This is not to say there is no collateral damage from performing this ritual, and sometimes it will lead to the destruction of an unlucky town, mine or farm - but the emphasis is on large, solid fortifications and gatherings of thousands of troops.
+
+An area under the effect of ''Thunderous Tread of the Trees'' will give rise to plenty of stories of horror and heroism in the face of what amounts to an army of angry plants. Some witnesses claim that the vegetative horde unleashed through the ritual is drawn to both Spring [[regio]] and to the [[trods]], drawing strength from the one and using the other to move quickly through a territory. A plant that is not entirely burnt to ash seems to quickly repair itself at a regio and rejoin the fray, while there are also reports of previous immobile plants suddenly uprooting themselves as one or more Spring spirits, cast out of their earlier hosts, find new wood to clothe themselves in.
+
+As the curse runs its course, affected vegetation tends to move back towards the location where the plants originally grew. Many trees fail to make it all the way back, however; those that can locate places to root themselves where they can survive, but the aftermath of Thunderous ''Tread of the Trees'' often sees trees, bushes and other plants growing in peculiar or unexpected locations.
+
+Similar to curses such as [[Foam and Spittle of the Furious Sea]] and [[Winter's Ghosts]], or [[enchantment|enchantments]] such as [[Carve the Crystal Guardian]] and [[Conclave of Trees and Shadow]], the ritual clearly draws spirits from the Spring realm and causes them to possess living vegetation. This makes it likely that an [[eternal]] of that realm was involved in the original development of the ritual. Unfounded speculation suggests that the magicians who originally developed ''Thunderous Tread of the Trees'' worked with [[Yaw'nagrah]] to gain access to the spirits involved; presenting the way the trees are drawn to large structures and seek to tear them apart as evidence of this connection. Regardless of the truth, there is no sign of an assurance associated with the curse, and the ritual does not specifically draw on the power of an eternal to work its magic. Any magicians who wanted to create a similar effect, however, would need to do so with the assistance and support of an appropriate eternal; without their aid mortal magic cannot draw the spirits of the realm to the mortal world.
+
+In the early years of the Empire, the [[Navarr]] [[Navarr_religious_beliefs|guide]] [[Megan Black Blood]] observed the use of this ritual during a campaign in [[Weirwater]]. She commented primarily on its destructive nature but also remarked how many of the non-Navarri soldiers mistook the effect for the attack of a [[vallorn]]. She is said to have privately theorised that a similar effect could be achieved more easily by crafting a ritual to specifically target vallorn vegetation, but said that the results could be unpredictable. She pointed to the way the unleashed vegetation does not leave the territory in which it was created, and that the trees tended to find their way back to (or close to) their original places when the curse began to fade to suggest that such a ritual might be "''controllable - for a given definition of 'control'.''"
+
+The [[Druj]] [[orc|orcs]] of [[the Mallum]] are known to possess a similar ritual that infuses vegetation with malign cunning. Rather than simply attacking indiscriminately until destroyed, animated trees might remain stationary until unknowing prey comes close enough to ambush. Some soldiers involved in the [[Holberg]] campaign against the [[Druj]], where Imperial soldiers drove the orcs out of the marshes and forests of the League territory, still speak of nightmares where seemingly innocent trees suddenly lurched into murderous life, often hours after they had established their camp nearby. There is some speculation among scholars of the [[Unfettered Mind]] that this indicates the Druj version of the ritual specifically draws some or all of the spirits involved from the realm of [[Arhallogen]].
+
+==Common Elements==
+The performance of this ritual often involves evocations of destructive, primal forces of nature. It may include the destruction of easily broken, crafted items especially objects of pottery or clay. A map is sometimes used as an additional element, showing the target territory. Such a map is often carved into bark or wood, drenched in water or blood, and left behind at the site of the ritual when it is completed. Vocals might include an invitation to the spirits of the Spring realm to come forth, and embody the wrath of the ritualists, calling on them to smash and destroy their enemies. 
+
+The rune [[Mawrig]] is commonly used during this ritual, and the star known as [[The Wanderer]] is often invoked, perhaps in conjunction with [[the Door]] in recognition of the way the ritual opens a passage for spirits of the Spring realm to enter the mortal world. A [[dramaturgy|dramaturgist]] might set their scene in [[the Garden]], evoking natural forces, or perhaps subvert [[the Counting House]], presenting a scene that shows the destruction of that [[Dramaturgy#The_Thrones|throne]] at the hands of [[the Witch]] or [[the Mountebank]]. A practitioner of [[Aspect magic#Heraldic Magic|Heraldic magic]] may invoke the [[Legendary_beasts#Chimera|chimera]], [[Legendary_beasts#Mandowla|mandowla]], or [[Legendary_beasts#Dragons.2C_Wyverns_and_Wyrms|dragon]] (in the latter case a story of the emerald dragon Saxesangwin may be woven through the ritual; although it is a creature of the Summer realm, its drive to destroy the citadels of the ''koboldi'' and scatter their wealth has obvious resonance with a ritual that ultimately seeks to tear castles apart).
+
+[[Category:Spring Ritual]]
+[[Category:Rituals]]
+[[Category:Warfare]]

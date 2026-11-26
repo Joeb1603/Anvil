@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:388YE Summer]]
+__NOTOC__
+<quote by="Announced by Paris of Apulus, Bearer of an Imperial Wayleave">To commission the <u>WAYWARD HOUSE</u> in the city of Apulian, Apulus, Spiral. A block of apartments constructed with twelve wains of white granite, to provide hospitality to Jarmish pilgrims of the Way visiting the Empire. Constructed by the Edificer's Guild of Apulian, with funding from Damian i Martan i Erigo.
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Apulus, Spiral
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+* More information can be found in the '''[[Full_circles#Path_of_the_Spirits|Full circles]]''' wind of fortune.
+
+==Date==
+* Summer 388YE
+
+==Cost==
+* Costs as per opportunity
+* 12 wains of white granite
+* 36 crowns in labour costs 
+* Three months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Wayward_House}}
+==Outcome==
+* Once complete, the Wayward House will provide hospitality to Jarmish pilgrims of the Way visiting the Empire
+<!--This would take the form of a multi-storey urban building in the city of Apulian near the docks, where Jarmish pilgrims could stay at their leisure, be welcomed and encouraged to explore the empire from the city's docks and roads, and be free to speak to local bishops and trade liao as desired while on their way to other sites of virtue across the empire. Common areas in the foyer of the building would provide spaces for pilgrims to rest and speak to visitors, as would nearby cafes and potentially theatres, as the city of Apulian has no shortage of third spaces to socialise. A number of the bricks used in this construction are marked with the rune Hirmok, many others are stamped with the logo of the Edificer's Guild of Apulian-->

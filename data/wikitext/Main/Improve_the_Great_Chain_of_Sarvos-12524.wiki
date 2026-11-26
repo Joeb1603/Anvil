@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Announced by Dima Vasilyevna Novosad, Master of the Koboldi">To improve the fortification, the Great Chains of Sarvos</quote>
+==Overview==
+* Improves the fortification, the Great Chain in [[Sarvos]]
+* Announcement by the [[Master of the Koboldi]]
+==Date==
+* Winter 386YE
+==Cost==
+* Special costing applied
+* 100 white granite
+* 300 crowns in labour costs
+* One year to complete
+==Progress==
+{{CommissionProgress|Improve_the_Great_Chain_of_Sarvos}}
+==Outcome==
+* Now complete, [[Sarvos#The_Great_Chain|the Great Chain]] has been upgraded to a rank two [[fortification]]

@@ -1,0 +1,35 @@
+== Putting A Page In A Category ==
+
+To put a page in a category, just add a link like so:
+<pre>
+[[Category:SomeCategory]]
+</pre>
+preferably at the bottom of the page you want to put in the category. For example, this page has:
+<pre>
+[[Category:Help]]
+</pre>
+A page can be in multiple categories. The category link can be anywhere on the page (except in a <pre><pre></pre> tag or similar), but it is best practice to add category links to the bottom of the content.
+
+==Categories as Templates==
+Some categories are set up to work like templates, for example in order to automatically pull in a navigation menu (see [[:Category:Herbs]]) or add related super-categories (see [[:Category:380YE Spring Equinox winds of fortune]]). In that case, the template can be embedded as
+<pre>
+{{Category:SomeCategory}}
+</pre>
+
+[[Category:Help]]
+
+<noinclude>== Linking To A Category ==
+
+To link to a category index page, just add a link like so:
+<pre>
+[[:Category:SomeCategory]]
+</pre>
+or 
+<pre>
+[[:Category:SomeCategory|Go to a category]]
+</pre>
+(note the extra colon).
+For example, here's a link to [[:Category:Help]].
+
+[[Category:Help]]
+</noinclude>

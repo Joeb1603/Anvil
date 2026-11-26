@@ -1,0 +1,29 @@
+==Overview==
+The Eagle of Triosk was created when the Imperial Senate voted to [[385YE_Autumn_Equinox_Senate_sessions#Construct_the_Triosk_Metal_Exchange|construct the Triosk Metal Exchange]]. during the Autumn Equinox 385YE, following an [[opportunity]] presented [[Deep_forests_and_dark_hills#The_Metal_of_Triosk|that season]]. Construction was completed shortly before the Winter Solstice 385YE.
+
+==Responsibilities==
+The Eagle of Triosk is expected to seek out opportunities to build the prosperity of [[Volodmartz]]. They are expected to offer assistance, guidance, and mediation to the mine owners of Volodmartz in particular, and the northern mountains in general. If the town of Triosk or the Triosk Metal Exchange were to be threatened in any way, it would be the responsibility of the Eagle of Triosk to deal with those threats.
+
+==Powers==
+===Wealth of the Mountains===
+<div style="width: 600px; float: right; clear: right; margin-left:10px;">
+<table><tr><td colspan="2" style="background-color: LightBlue;">'''Wealth of the Mountains'''</td></tr>
+<tr><td>7 crowns</td><td>3 ingots each of green iron, orichalcum, tempest jade and weltsilver</td></tr>
+<tr><td>17 crowns</td><td>6 ingots each of green iron, orichalcum, tempest jade and weltsilver</td></tr>
+<tr><td>30 crowns</td><td>9 ingots each of green iron, orichalcum, tempest jade and weltsilver</td></tr>
+<tr><td>60 crowns</td><td>12 ingots each of green iron, orichalcum, tempest jade and weltsilver, and one ring of ilium</td></tr></table></div>
+As a ministry, the Eagle of Triosk can purchase ingots of precious metals and even potentially [[ilium]] from across Varushka at a set price. The Eagle of Triosk decides how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+===Highly Skilled Miners===
+Once each year during the [[downtime]] immediately following the title's election the Eagle of Triosk can select a single Varushkan character with a level one [[mine]] in any of the territories of Varushka and encourage the skilled miners that have flocked to the Eagle and Stag Exchange to support them. This will upgrade the mine to level 2 after downtime is processed. It is not possible to use this ability to increase a mine beyond level 2.
+
+To use this ability, the Eagle of Triosk should email [mailto:plot@profounddecisions.co.uk plot@profounddecisions.co.uk] with the CID or name and details of the character they have chosen to assist.
+
+==Appointment==
+This title is appointed during the Winter Solstice each year. The Eagle of Triosk is appointed by citizens of Varushka who control [[mine|mines]] and [[forest|forests]] [[Resource#Personal_Resource|personal resources]]. The larger the number of holders an individual has, the more votes they can allocate in support of a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Varushkan citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse, they cannot be [[revocation|revoked]] by the [[Synod]].
+<!--{{CaptionedImage|file=Eagle of Triosk.jpg|caption='''Dzik Lasov Petroski''', Eagle of Triosk|align=left|width=400}}-->
+{{RecentElections|Eagle_of_Triosk}}
+{{Responsibilities Expectation}}
+[[Category:Bourse]][[Category:Varushka]][[Category:Title]]

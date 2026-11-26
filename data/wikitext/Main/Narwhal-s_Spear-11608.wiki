@@ -1,0 +1,21 @@
+{{Army Page}}
+{{CaptionedImage|file=Narwhal's Spear.webp|align=right|width=300}}
+===Overview===
+The Narwhal's Spear was founded around a solid core of Suaq enthused by the reclamation of [[Sermersuaq]], with a focus on the recognition of heroism as demonstrated by the Suaq tradition. The motion to raise the army was passed by the Imperial Senate during the [[Raise fourth Wintermark army|Winter Solstice 384YE]] following calls by the Wintermark Assembly the previous season. The Smokehouse of Atalaq was finished shortly before the [[Construct Smokehouse of Atalaq|Summer Solstice 385YE]] and the army finished raising in time for the general to be elected for the first time at the Spring Equinox 386YE. During the raising of the army the raising senator, '''Hengest Dun''', was known to provoke [[Wintermark_culture_and_customs#Scops|scops]] by referring to the army as "''Hengest's Heroes''" in order to encourage them to present better [[Wintermark_hearth_magic#Names|names]]. Due to the core of the army being of the Suaq tradition, the ongoing upkeep cost of the army is reduced by five thrones.
+
+The fourth Wintermark general leads the Narwhal's Spear army and is appointed (or re-appointed) at the Autumn Equinox each year.
+
+===Recent History===
+TBC
+__TOC__
+===Traditions===
+TBC
+
+==Composition==
+TBC
+
+==Army Quality : [[Army_qualities#Quick-Witted|Quick-Witted]]==
+The army draws on the paths of the [[mediator]] and the [[Wintermark_magical_traditions#Icewalkers|icewalker]]; working to [[Army_qualities#Quick-Witted|uncover information]] about barbarians and ranging further afield. The army's mediators often try to encourage dealings with other nations as much as possible; it is much easier for a scout to range ahead of the main force if they can be sure of safe lodgings in foreign territories. The icewalkers use Day magic to scry their enemies but they combine it with guile and cunning to get where they need to be. 
+{{CaptionedImage|file=Determination of Ice.jpg|caption='''Determination of Ice Kaisa''', General of the Narwhal's Spear|align=left|width=300}}
+{{RecentElections|General_of_the_Narwhal%27s_Spear|the title of [[General]] of the Narwhal's Spear}}
+[[Category:Imperial Army]][[Category:Wintermark]][[Category:Military Council]]

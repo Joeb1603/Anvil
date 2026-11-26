@@ -1,0 +1,57 @@
+[[Category:Title]][[Category:Foreign Nations]][[Category:Senate]][[Category:Ambassador]]
+{{CaptionedImage|file=Thaumiel of Steeplechase Toll.jpg|caption='''Thaumiel of Steeplechase Toll''', Ambassador to Jarm|align=left|width=300}}
+==Overview==
+The Ambassador to Jarm is an [[Imperial title]]. It is an Imperial position appointed by the [[Senate]]. The Jarmish embassy is located in the town of [[Redoubt#Cargo|Cargo]] in [[Redoubt]], while the Imperial embassy to Jarm lies in the city of [[Principalities_of_Jarm_ports#Vezak_.28Southern_Principalities_of_Jarm.29|Vezak]] in the southern [[Principalities of Jarm|Principalities]].
+
+Relations between the Empire and Jarm have been rocky for at least the past decade for a number of reasons. Foremost among them is a Jarmish perception that the Empire regularly attempts to interfere in its internal politics, especially in regard to the matter of slavery. These concerns are not entirely ungrounded, of course. As recently as the Autumn Equinox 384YE, Jarm declared war on the Empire and provided considerable magical support to the [[Grendel]] in the [[Bay of Catazar]]. This support ended in Summer 385YE, apparently as the result of a [[385YE_Summer_Solstice_Conclave_sessions#Concord:_Prospero_and_the_Rod_and_Shield|significant favour]] provided to the [[eternal]] [[Prospero]] by the [[Rod and Shield]]. Relations remain tumultuous, however.
+
+Prior to the Winter Solstice 387YE, the Ambassador was theoretically able to purchase goods from merchants and those seeking favour, though was prevented in doing so by the embargo placed on the Principalities of Jarm by the Empire. This was changed, along with the rest of the ambassadors, when the Senate voted to [[387YE_Winter_Solstice_Senate_sessions#Amend_Imperial_Embassies|amend]] the embassies to end the practice. If the Principalities of Jarm were not currently being [[tariffs#Embargo|embargoed]] by the Empire, this would have also removed the upkeep costs for the embassy.
+
+==Responsibilities==
+The [[ambassador]]  is expected to represent the Empire in relations with the [[Principalities of Jarm]]. They have all the responsibilities [[Ambassador#Responsibilities|common]] to an Imperial ambassador. The [[ambassador]]  is expected to represent the Empire in relations with the [[Principalities of Jarm]]. They have all the responsibilities [[Ambassador#Responsibilities|common]] to an Imperial ambassador. As such they are responsible for representing the Empire to the Principalities, and to a degree vice versa. They are presented as the primary contact for any official Imperial business relating to Jarm, so their letters carry much greater weight and importance than anyone bar [[the Throne]]. They are expected to conduct or oversee any [[Ambassador#Treaty|treaty negotiations]] with that nation, and receive official [[Ambassador#Delegation|delegations]]. The [[civil service]] will direct representatives and citizens of the foreign power to the ambassador wherever appropriate.
+
+==Powers==
+{{Diplomacy|nation=Jarm|status=Foreigner|port=[[Principalities_of_Jarm_ports#Kavor_(Northern_Principalities_of_Jarm)|Kavor]], [[Principalities_of_Jarm_ports#Vezak_(Southern_Principalities_of_Jarm)|Vezak]], and [[Principalities_of_Jarm_ports#Rigia_(Eastern_Principalities_of_Jarm)|Rigia]] (all closed)|ambassador=Thaumiel of Steeplechase Toll of [[Highguard]]|counterpart=[[Ambassador_to_Jarm#Jarmish_Ambassador|Lord-Magister Anton Trescher of the Hidden Hook]]}}
+===Imperial Ambassador===
+The title has all the [[Ambassador#Powers|common powers]] of an ambassador: they can receive a formal [[Ambassador#Delegation|delegation]], and may prepare a [[Ambassador#Treaty|treaty]].
+===Stipend===
+The Ambassador receives a [[Imperial_treasury#Stipends|stipend]] of four thrones each season
+
+==Appointment==
+The Ambassador to Jarm is an Imperial position [[Appointments_by_the_Senate#Imperial_Position|appointed by the Senate]]. Any Imperial citizen can hold this title, and the ambassador serves for a year. They can be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Ambassador_to_Jarm}}
+==Ambassadorial Lore==
+===Jarmish Embassy===
+The [[embassy]] of the Principalities of Jarm stands in the [[Urizen|Urizeni]] town of [[Redoubt#Cargo|Cargo]], in [[Redoubt]]. Cargo is home to three separate international embassies with the [[Principalities of Jarm]], the [[Axos|Citadels of Axos]], and the merchants of the [[Sarcophan Delves]]. The first of the three, work began on the Jarmish embassy in Summer 378YE. A beautiful, airy construction of white granite and weirwood with an extensive (and expensive) gardens as well as several private apartments, it is now a recognisable feature of the Cargo skyline. 
+
+Wrangling about the Imperial embassy in the Principalities continued for several months after completion of the embassy in Jarm. The Jarmish House of Princes demanded that the Empire select one of the three primary ports - northern [[Principalities_of_Jarm_ports#Kavor_.28Northern_Principalities_of_Jarm.29|Kavor]], southern [[Principalities_of_Jarm_ports#Vezak_.28Southern_Principalities_of_Jarm.29|Vezak]], or upstart eastern [[Principalities_of_Jarm_ports#Rigia_.28Eastern_Principalities_of_Jarm.29|Rigia]] as the location for an Imperial embassy - an obvious move to entangle the Empire in the internecine internal wranglings of the Jarmish government. Then Ambassador Oswi Twice-Burned was called upon to nagivate the complex situation and the [[Define_Jarmish_embassy|decision]] was ultimately made to choose Rigia, although that would ultimately [[The_whole_world#Principalities_of_Jarm|end in tragedy]] and the [[Civil_tongue#Principalities_of_Jarm|relocation]] of the Imperial embassy to Vezak.
+
+In 386YE concerns were raised about the proximity of the [[Ambassador_to_the_Commonwealth#The Diplomatenschloss|diplomatenschloss]] - the [[Commonwealth]] embassy - across the river in [[Necropolis#Hedrossan|Hedra]]. Ships from the two rival nations must travel up and down the Couros river to reach their respective embassies and there were worries that it would only be a matter of time before fighting breaks out between the two. The establishment of the [[The_price_is_great#Matters_of_Diplomacy|Coursgard]], a Highborn operation dedicated to keeping the peace on the river, should mean that it does not come to open conflict any time soon. Hopefully.
+{{WingedMessenger|address=Lord-Magister Anton Trescher of the Hidden Hook, Who attends at the House of Princes, In the City of Jarm, Principalities of Jarm}}
+
+===Jarmish Ambassador===
+The Jarmish ambassador to the Empire is ''Lord-Magister Anton Trescher of the Hidden Hook'', who attends at the House of Princes. A canny and influential politician who has served the House of Princes for over forty years, he represents the Jarmish to the Empire and vice-versa. A potent master of Autumn magic, he is known for his sarcasm and dry wit, and for his commitment to the sovereignty of the Principalities he serves.
+===Ambassadorial Briefings===
+As discussed in the 388YE Autumn Equinox wind of fortune '''[[So_little_I_wanted,_so_little_I_got#Ambassadorial_Briefings|So little I wanted, so little I got]]''', the [[civil service]] have recently reinstituted Ambassadorial briefings. At least in the short term, the civil service have resumed furnishing Imperial ambassadors ''who are supported by [[embassy]] staff'' with individual briefings where necessary and appropriate. To maintain transparency and preserve continuity, the briefings are made available to those who wish to review them ''after'' the summit where they are delivered, in a similar way to which [[historical research]] is made public. Only those elements of a briefing that are specifically personal to the ambassador may be removed, and only where they are clearly not of interest to the Empire. At the end of the year, this procedure will be reviewed again, to ensure that it is fit for purpose.
+* [[388YE Autumn Jarmish ambassador briefing]]
+{{Responsibilities Expectation}}
+{{Jarm Links}}
+<!--
+==Archival stuff==
+===Jarmish Merchants===
+Following the [[384YE_Summer_Solstice_Senate_sessions#Amend_Liberty_Pact|amendment]] to the Liberty Pact and the [[Tariffs#Embargo|embargo]] placed on the Principalities of Jarm during the Summer Solstice 384YE it is no longer possible to for the Ambassador to trade with Jarmish merchants.
+<!--The [[embassy]] in Cargo means that the ambassador enjoys the benefits of [[Ambassador#Mercantile_Support|mercantile support]] from traders keen to curry their favour. As a [[ministry]], this allows them to purchase quantities of special materials at a set price. The ambassador spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+The production of the ministry is related to the location of the Jarmish embassy to the Empire, located in the port of [[Principalities_of_Jarm_ports#Rigia_.28Eastern_Principalities_of_Jarm.29|Rigia]] in eastern Jarm.
+
+Following the [[Ratify Liberty Pact|imposition]] of [[Tariffs#Sanctions|sanctions]] on trade with [[Principalities of Jarm]] in Winter 382YE the cost to benefit from the [[ministry]] increased by roughly a fifth.
+
+<table><tr><td style="background-color: LightBlue;">Total Money Spent</td><td style="background-color: LightBlue;">Production</td></tr>
+<tr><td>192 Rings</td><td>6 Imperial Roseweald, 3 Crystal Mana, 5 Dragonbone, 3 Green Iron</td></tr>
+<tr><td>720 Rings</td><td>18 Imperial Roseweald, 9 Crystal Mana, 15 Dragonbone, 9 Green Iron</td></tr>
+<tr><td>1440 Rings</td><td>30 Imperial Roseweald,15 Crystal Mana, 25 Dragonbone, 15 Green Iron</td></tr>
+</table>
+<!--Dragonbone, Green Iron; Secondary Ambergelt; crystal mana; imperial roseweald -->
+<!-- Bonus level is 70 crowns for sum of ranks one and rank three -->
+<!--
+{{CaptionedImage|file=Oswi.jpg|caption=The first ambassador to Jarm was appointed in Autumn 378YE|title=Oswi Twice-Burned of the Saker|align=left|width=350}}
+-->

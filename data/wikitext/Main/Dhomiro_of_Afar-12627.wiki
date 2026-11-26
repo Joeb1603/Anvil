@@ -1,0 +1,25 @@
+==Overview==
+{{CaptionedImage|file=Brahman cattle 20020320.jpg|caption=The great herds of Afarjasse are returning|align=right|width=450}}
+The Dhomiro of Afar is an [[Imperial title]] awarded to a citizen of [[the Brass Coast]]. The motion to reestablish the herds of Afar was [[Reestablish Herds of Afar|passed]] by the Imperial Senate during the Winter Solstice 386YE, and funding was completed shortly before the Spring Equinox 387YE. More information on the [[opportunity]] can be found in the '''[[Send_for_me#Herds_of_Afar|Send for me]]''' wind of fortune.
+__NOTOC__
+===Responsibilities===
+The Dhomiro of Afar is responsible for representing the interests of Afar and for ensuring that cattle trade with the Suranni on the other side of the border is untroubled. If the herd, or those driving the cattle south, were to be threatened in any way, it would be the responsibility of the Dhomiro to deal with those threats.
+
+==Powers==
+===Trade with de Hauteville===
+The Dhomiro of Afar has custodianship of a [[sinecure]]. Each season, they receive 160 rings from cattle sales to the Suranni in [[Arbonne]].
+
+==Appointment==
+The Dhomiro of Afar is appointed during the Spring Equinox. The Dhomiro is appointed by citizens of the Brass Coast who control [[fleet|fleets]]. The voting is handled by the civil servants in the Bourse. 
+
+Only a Freeborn character may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+<!--{{CaptionedImage|file=Dhomiro_of_Afar.jpg|caption='''CHARACTER''', Dhomiro of Afar|align=left|width=300}}-->
+{{RecentElections|Dhomiro_of_Afar}} 
+
+==Herds of Afar==
+The cattle herds of Afar were never as celebrated as the [[Shepherd_of_the_Great_Herd#The_Great_Herd|great herd]] of [[Skarsind]]. Established centuries ago by canny trade with [[the Marches]] and the southern cities of [[the League]], they were carefully raised to thrive in the hot and humid weather of the south. Devastated as they were by the short-sighted actions of ''Maistir Fionnula'', to whom Governor Rahab sold the herds the right to trade cattle with the Suranni, they were struggling when the Empire reclaimed the territory.
+
+In Winter 386YE an [[appraisal]] of how best to restore the prosperity of Feroz, [[Send_for_me#Fields_of_Bramar|proposed the reestablishment of the herds]]. Investment from '''Garviel i Abrira i Erigo''' among others, and the purchase of many [[High_hopes#Herds_of_Afar|head of cattle]] from [[the Marches]], means that the herds are thriving again. Afarjasse now has a booming industry in cattle, and dozens of drovers lead cattle south to trade with ''Baron de Hauteville'' and other minor houses of the Iron Confederacy.
+[[Category:Title]]
+[[Category:The Brass Coast]]
+[[Category:Bourse]]

@@ -1,0 +1,262 @@
+---
+title: 380YE Summer Solstice Synod judgements
+source: https://www.profounddecisions.co.uk/empire-wiki/380YE_Summer_Solstice_Synod_judgements
+class: in-character
+topic: synod-judgements
+categories:
+- Synod
+- Synod Results
+- Synod Judgements
+- 380YE Summer
+event: 380YE Summer
+last_edited: '2026-05-05T10:18:22Z'
+revision: 138008
+aliases:
+- 380YE Summer Solstice Synod judgments
+---
+
+# 380YE Summer Solstice Synod judgements
+
+## The Imperial Titles of the Synod
+
+At the end of the Summer Solstice, 380YE, the Imperial Titles in the Synod were held by:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Virtue** | **Cardinal** | **Gatekeeper / Conscience** | **Virtue Inquisitor** |
+| [Ambition](../religion/Ambition.md) | Serrusto Caeli Rezia di Tassato of the League | Viviane de Coeurdefer of Dawn | Robin of Swindale from the Marches |
+| [Courage](../religion/Courage.md) | Levitia of Urizen | Jorma Steelhail of Wintermark | Lady Eleanor de Rondell of Dawn |
+| [Loyalty](../religion/Loyalty.md) | Jared of the Suns of Couros, Highguard | Anna-Valeria Cascade of Urizen | Julius Cavita of the League |
+| [Pride](../religion/Pride.md) | Ozren de Orzel of Dawn | Astrid Fjellrevening Rezia di Tassato of The League | Ephrael of Highguard |
+| [Prosperity](../religion/Prosperity.md) | Ophelia Sanguineo Rezia Di Tassato of The League | Wilhemina Maryenkovich Poltova of Varushka | Vauraus Korppitkotka of Wintermark |
+| [Vigilance](../religion/Vigilance.md) | Irada von Temeschwar of the League | Alys of Highguard | Martin Orchard of the Marches |
+| [Wisdom](../religion/Wisdom.md) | Abaddon De Rondell of Dawn | Girthwynn Frythsdottir Tokling of Wintermark | Sariel of Highguard |
+| [The Way](../world/The_Way.md) | Atla of the Imperial Orcs | Maximillian of Urizen | Yarrick Ursan of Wintermark |
+
+### Other Synod-Appointed Titles
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Title** | **Held By** | **Appointed By** | **Renews** |
+| [High Exorcist](../../mixed/titles/High_Exorcist.md) | Solas of the Spire of the Waxing Sun, Urizen | Assembly of Nine | Winter Solstice |
+| [Auditor of Senatorial Accountability](../../mixed/titles/Auditor_of_Senatorial_Accountability.md) | Sargon of Felix's Watch, Highguard | Assembly of Nine | Until death, revocation or abdication |
+| [Imperial Inquisitor](../../mixed/titles/Imperial_Inquisitor.md) | Ephron of Adina’s Charge, Highguard | Assembly of Nine | Summer Solstice |
+| [Custodian of the Imperial War Memorial](../../mixed/titles/Custodian_of_the_Imperial_War_Memorial.md) | Ira of Felix's Watch, Highguard | Assembly of Nine | Sinecure; until death, revocation or abdication |
+| [Chaplain Consular](../../mixed/titles/Chaplain_Consular.md) | Hywel Summercrow, Navarr | Cardinal of The Way | Spring Equinox |
+| [Seer of the Gateway](../../mixed/titles/Seer_of_the_Gateway.md) | Livia Cascade of Urizen | Assembly of Nine | Until death, revocation or abdication |
+| [Voice of Barbs](../../mixed/titles/Voice_of_Barbs.md) | Corey Brakensong of Navarr | Navarr National Assembly | Winter Solstice |
+| [Curator of the Printers' Guild Museum](../../mixed/titles/Curator_of_the_Printers-_Guild_Museum.md) | Taddea Ginori of the League | Cardinal of Prosperity | Sinecure; until death, revocation or abdication. When a new Cardinal of Prosperity is appointed they may choose to name a replacement. |
+| [Curator of the White City Museum](../../mixed/titles/Curator_of_the_White_City_Museum.md) | Apollos of Highguard | Highguard National Assembly | Sinecure; until death, revocation or abdication. |
+| [Watcher of Britta's Pool](../../mixed/titles/Watcher_of_Britta-s_Pool.md) | Eldeen Wulfssdottir of Wintermark | Wintermark National Assembly | Sinecure; until death, revocation or abdication. |
+
+## Appointments
+
+At the Summit, the following appointments were made by the Virtue Assemblies of the Synod:
+
+### Appointment of the Cardinal of Courage
+
+|  |  |  |
+| --- | --- | --- |
+| **Candidate** | **Votes Received** | **Outcome** |
+| Levitia of Urizen | 112 votes | Appointed as Cardinal |
+| Jorma Steelhail of Wintermark | 46 votes |  |
+| Nina of Highguard | 28 votes |  |
+| Cardinal Levitia retained Jorma Steelhail of Wintermark as Gatekeeper | - | - |
+| Cardinal Levitia retained Lady Eleanor de Rondell of Dawn as [Virtue Inquisitor](../../mixed/titles/Virtue_inquisitor.md) | - | - |
+
+### Appointment of the Cardinal of Wisdom
+
+|  |  |  |
+| --- | --- | --- |
+| **Candidate** | **Votes Received** | **Outcome** |
+| Abaddon De Rondell of Dawn | 68 votes | Appointed as Cardinal |
+| Palladius of Urizen | 10 votes | - |
+| Cardinal Abaddon retained Girthwynn Frythsdottir Tokling of Wintermark as Gatekeeper | - | - |
+| Cardinal Abaddon retained Sariel of Highguard as [Virtue Inquisitor](../../mixed/titles/Virtue_inquisitor.md) | - | - |
+
+### Appointment of the [Imperial Inquisitor](../../mixed/titles/Imperial_Inquisitor.md)
+
+|  |  |  |
+| --- | --- | --- |
+| **Candidate** | **Votes Received** | **Outcome** |
+| Ephron of Adina’s Charge from Highguard | 4 votes | Appointed as the [Imperial Inquisitor](../../mixed/titles/Imperial_Inquisitor.md) |
+| Martin Orchard of the Marches | 1 vote | - |
+| Yarrick Ursan of Wintermark | 1 vote | - |
+| Vauraus Korppitkotka of Wintermark | 1 vote | - |
+| Sariel of the Shattered Tower from Highguard | 1 vote | - |
+
+### Appointment of the Conscience of the Senate
+
+Cardinal Atla appointed Maxamillian of Urizen as [Conscience of the Senate](../../mixed/titles/Conscience_of_the_Senate.md) following the death of Rawk.
+The Civil Service is not aware of any other potential candidates.
+
+### Appointment of the Symposiarch
+
+The Assembly of Nine appointed Edward Watcher of the Marches to be the [Symposiarch](../winds-of-fortune/Symposium.md#symposiarch).
+The Civil Service is not aware of any other potential candidates.
+
+## Synod Judgements
+
+At the Summit, the following judgements were made by the Assemblies of the Synod:
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Number** | **Assembly** | **Judgement** | **Raised By** | **Outcome** |
+| 1 | General | The General Assembly supports the holding of a Symposium at the Autumn Equinox 380YE, for the priests of the Synod and any guests the assemblies choose to invite to speak and debate matters of Virtue, Doctrine and spiritual ontology. | The Civil Service | Upheld 956 - 10 |
+|  |  | This relates to the [Symposium](../winds-of-fortune/Symposium.md) wind of fortune. |
+| 2 | Courage | Appointment of the Cardinal | The Civil Service | Levitia of Urizen was appointed |
+| 3 | Wisdom | Appointment of the Cardinal | The Civil Service | Abaddon De Rondell was reappointed |
+| 4 | Nine | Appointment of the Imperial Inquisitor | The Civil Service | Ephron of Highguard was appointed |
+| 5 | General | Rewarding of 5 Thrones for the purchase of liao and other accoutrements for use of the Seer of the Gateway's duties. As a power of the Seer of the Gateway this Judgement passes without a vote. | Livia Cascade | Upheld automatically |
+| 8 | Courage | The Inquisition of Senator of Kahraman: Maher i Zaydan i Riqueza and Senator for Madruga: Anwar i Del-Toro i Riqueza for the aiding and abetting of the construction of the heathen Asavean idols. To be held at House De Rondell at 1:30pm | Eleanor De Rondell | Upheld 174 - 0 |
+| 9 | Prosperity | It has been brought to my attention that Achilles of Damakan’s Forge demonstrated signs of being an Exemplar of Prosperity. I propose to call him to Inquisition to determine the Truth of this. | Vauraus Korppitkotka | Upheld 122 - 22 |
+| 10 | Nine | Condemnation of Romero di Sarvos for distributing the heretical document "The True Way" which preaches heresy against The Doctrine of Seven and blasphemy against Ambition, Wisdom and Vigilance. | Ophelia | Upheld 5 - 0 |
+| 11 | Pride | Inquisition. Horsa of Wintermark was revoked on accusations of dereliction of duty. I wish to summon him to an inquisition to establish the truth of the matter at 8pm Saturday of the summer summit 380YE at the Hub. | Ephrael | Upheld 92 - 0 |
+| 12 | General | The Chaplain Consular exercises his power of rewarding to reward Hywel Summercrow to undertake the tasks of his offices, to the value of five Thrones. | Hywel Summercrow | Upheld automatically |
+| 13 | Vigilance | The revocation of Irada von Temeschwar, Cardinal of Vigilance. | Tormund | Not Upheld 112 - 162 |
+| 15 | General | Rewarding. Tabor the Fool requests 5 Thrones from the Virtue fund with which to purchase mana and liao to continue investigations into the fate of the soul on becoming a herald or eternal. | Tabor the Fool | Upheld 623 - 111 |
+| 16 | The Way | Inquisition. The assembly calls Brother Abraham of the Constitutional Court to answer questions regarding the constitutionality of Synod Judgement 36 (of the Spring Equinox 380YE) at a time before the end of the Summer Solstice convenient for all parties. | Lucifaro Figlio del Mattino | Upheld 103 - 0 |
+|  |  | The public record of the Synod records the wording of Judgement 36 of the Spring Equinox 380YE "At present Imperial Orc Preachers cannot join a Virtue Assembly due to being unable to be dedicated. This should change to allow them to join a Virtue Assembly based on a testimony. It would be virtuous for the Senate to change the law to allow this." |
+| 19 | General | Excommunication of the Synod of the Sumaah Republic for the practice of False Virtues. Dogmatism used for politicians to defend ignorance of the world and narrow, flawed understanding of The Way of Virtue. Cowardice in refusing the request of Imperial Orc preachers to send a delegation to meet them, fearful that this would shatter their prejudices against these virtuous Imperial citizens. | Dietrich Elias der Holburghan | Not upheld 120 - 589 Greater Majority was not achieved. |
+| 20 | The Way | Inquisition of some guy in a blue shirt and black vest identified by Arkat Ishatha for being dedicated to a false virtue and who would not provide a name. | Wyn of Exile's End | Upheld 125 - 0 |
+| 22 | Loyalty | Inquisition of Asenath of Felix's Watch regarding her virtuous actions. To be held at 1pm at the Suns of Couros tent, Highguard. | Sister Meredith | Upheld 92 - 0 |
+| 23 | The Way | Escalation of Judgement 20. Condemnation of the Imperial Citizen of Reikos who gave the name of "Lisabetta" when questioned. For heresy, claiming there are not 7 virtues, but only one truth and for being unrepentant when questioned. When brought to inquisition he was under a dedication of fear, this was removed before the start of the inquisition. | Wyn | Upheld 139 - 0 |
+| 24 | General | Rewarding. A judgement to award the Marches the sum of the Virtue Fund to contribute towards The Great Works of "The Imperial Bread Basket" this would be in recognition of The Loyalty shown by the Marcher farmers to the Empire by the continued supply towards the Imperial armies despite hardship of curses and poor harvest. For more information please contact Robert Hawcombe, priest of Loyalty, or any Marcher Senator. | Robert Hawcombe | Not upheld 226 - 349 |
+| 26 | Pride | This calls Gerard de Lusignan to Inquisition at 4pm Saturday in the spoke tent (formerly known as Hub Two). | Lady Josephine Novarion | Upheld 72 - 0 |
+| 28 | Pride | Escalation of Judgement 26. Condemnation of Gerard De Lusignan for idolatry and blasphemy. | Lady Josephine Novarion | Upheld 90 - 0 |
+| 32 | General | Rewarding. To Give Bonewall Cole the sum of two Thrones in order to buy supplies for investigation of the orcish soul, working with the New Scions of Atun. | Bonewall Cole | Upheld 378 - 80 |
+| 34 | General | Recognition. To recognise Thorn, one of the founders of the Navarr nation, as an Exemplar of Ambition. In his Ambition to combat the vallorn, he displayed the following signs of the Exemplar. Legacy: The spring ritual of Dance of Navarr and Thorn, which protects the Empire still. Inspiration: The Navarr nation follows this example to this day. Benevolence: This sacrifice protected and benefited the nations that became the Empire. Pilgrimage: Thorn (alongside Navarr) were the first to walk the Trods. | Elowen of Exile's End | Upheld 484 - 40 |
+|  |  | This judgement is an escalation of Judgement 50 from the Spring Equinox 380YE raised by Madog of Exile's End before the Ambition Assembly. The Civil Service acknowledges the letter provided by Elowen that confirmed Madog's request for the Judgement to be escalated on his behalf. |
+| 36 | Wisdom | Inquisition regarding the actions of Andreas Grimani involving Cathan Canae and Eleonaris. Inquisition to be held on Sunday of the Summer Solstice at 1:30pm in the House Orzel tent in Dawn. | Sariel | Upheld 70 - 0 |
+| 44 | General | Rewarding of 20 Thrones from the Virtue Fund for labour and resource purchased to build a temple of the Way in Asavea to bring truth and counsel to followers there. | Vitor di Mestra | Withdrawn by raising priest 297 - 200 |
+|  |  | Judgement was withdrawn by the raising priest following confirmation of the theft from the Imperial Hub including the 45 Thrones raised for the Virtue Fund by the sale of the True Liao dose at the public auction. |
+| 45 | General | Inquisition. The Chaplain Consular exercises his power to call an Imperial Ambassador, to call Lukash Biessek von Temeschwar to answer questions relating to the provision of military aid provided by the Iron Confederacy during recent military operations in Sarvos. To occur at 20:45 on Saturday of the Summer Solstice 380YE. | Hywel Summercrow | Upheld automatically. |
+|  |  | Judgement 49 is left blank in respect of the unrecorded names of those who sacrifice themselves in the defence of the Empire. May their Virtue speed them through the Labyrinth. |
+| 52 | General | Rewarding of 20 Thrones towards the building of Courage Cathedral in Astolat, Dawn. This Cathedral is much needed because the prevalent malign aura which is endangering the Virtues of our nation. This is a matter of great emergency. For the Glory of the Empire. | Gawaine de Orzel | Withdrawn by raising priest 398 - 84 |
+|  |  | Judgement was withdrawn by the raising priest following confirmation of the theft from the Imperial Hub including the 45 Thrones raised for the Virtue Fund by the sale of the True Liao dose at the public auction. |
+| 53 | General | To grant 30 Thrones from the Virtue Fund towards the Empire-Wide coronation celebrations. The bulk of the costs are being met by private donations but we believe this endeavour should be supported by the Synod also. It will lead to lasting benefits for our Empire | Astrid Fjellrevening Rezia di Tassato | Upheld 480 - 70 |
+|  |  | This relates to the [Raise a glass](../winds-of-fortune/Raise_a_glass.md) wind of fortune. |
+
+## Statements of Principle
+
+The Imperial Synod made the following Statements of Principle:
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Number** | **Assembly** | **Statement of Principle** | **Priest** | **Outcome** |
+| 6 | Navarr | The Navarr National Assembly recognises the sacrifice needed by our armies to retake Liathaven and the Pride retaking Liathaven will bring to the nation. We urge the entire nation to unite behind our generals and ensure the fight is as swiftly as possible taken to the Jotun barbarians. Those who sacrificed their lives at Alwin's Stand and places unremembered must be honoured and we praise the Loyalty of Navarri who have the Courage to fight alongside the Black Thorns and the Quiet Step | Corey Brackensong | Upheld 74 - 0 |
+|  |  | This relates to [A banner of Thorns](../winds-of-fortune/A_banner_of_Thorns.md) wind of fortune. |
+| 7 | Imperial Orc | The Imperial Orcs lack a name as a nation, while we are proud citizens of the Empire and our current name would imply this, we should follow the Ambition that has driven us to find our homeland and further establish ourselves in the world by creating a name for our tribe. | Skywise Gralka | Upheld 48 - 10 |
+| 14 | Brass Coast | The citizens of Feroz should remain calm and be mindful of the virtues in this time of discord within their region. Citizens should pay particular attention to the virtues of Loyalty and Wisdom to avoid being led astray by outside influence. Duke Ferrero will travel to the region with 50 liao to administer auras to reinforce the region's Loyalty. | Soratio | Upheld 74 - 10 |
+|  |  | This relates to the [Temple of the bull](../winds-of-fortune/Temple_of_the_bull.md) wind of fortune. |
+| 17 | Wintermark | The Wintermark Assembly recognises Viekko of Sigehold as the voice of the National Assembly of Stormcrows. | Ylmiska Ferbow | Upheld 119 - 0 |
+| 18 | Varushka | Amris wishes to repopulate his old vale with the disposed and refugees of Varushka with nowhere else to go and name it The Vale of Lost Souls. | Amris Johan Merikovich | Upheld 122 - 0 |
+| 21 | General | We the Printers' Guild have cast out Guillemo De Tassato; his loyalties to the League and to the Empire have been severed. He is a thief, Oathbreaker and Heretic and will be brought to justice by the magistrates. The Printers' Guild supports all actions that will bring him to account, and we request the Synod to aid us in this. We the Printers' Guild believe that he is wholly without Virtue and unanimously and unequivocally cast him out. | Irada von Temeschwar | Upheld 530 - 47 |
+| 25 | Highguard | Gravus of the Shattered Tower volunteers to venture inside Reikos to spread a message of Isolationism against the forces of the Spring Eternal Llofir. This will require 25 liao. | Gravus | Upheld 136 - 20 |
+|  |  | This relates to the [A question of provenance](../winds-of-fortune/A_question_of_provenance.md) wind of fortune. |
+| 27 | Varushka | Call upon the Militia and Magistrates to investigate the Vale of Winter's Heart regarding their alleged collaboration with the Thule during their occupation of Karsk and other subsequent crimes. | Nikolovich Drakov | Upheld 116 - 0 |
+| 29 | Prosperity | The Assembly of Prosperity support the expansion of trade with the merchants of the Faraden throughout the Empire by the establishment of trading enclaves within the Empire. | Mazo i Zabala i Erigo | Upheld 90 - 20 |
+| 31 | League | We are informed that the Grendel follow Virtues and The Way. Despite our state of war, we therefore extend our invitation to priests and religious thinkers of the Grendel to attend the Synod's Symposium so that we may engage in comparative theology between our two ways of beliefs. | Isaac Carlino di Sarvos | Upheld 96 - 20 |
+|  |  | This relates to the [Symposium](../winds-of-fortune/Symposium.md) wind of fortune. |
+| 33 | Urizen | We, the Urizen National Assembly, would welcome our cousins from Axos in sending a delegation to discuss matters of religion at the forthcoming Symposium. | Belisarius | Upheld 92 - 0 |
+| 35 | General | The Assembly of Pride believes that Imperial citizens travelling to Faraden should seek the counsel of priests of Pride and where possible, auras of Pride. This should encourage Pride in their Faith and traditions, safeguarding their souls against those who seek to mislead them. | Rane Jorunsdottir | Upheld 614 - 67 |
+| 37 | Highguard | The human soul of Gillian, daughter of Gilliad, is welcome within the Empire. If Gillian renounces her spring heritage and rejoins the Nation of Highguard then she may continue to reside in Tamarbode. | Yael of Felix's Watch | Upheld 206 - 54 |
+| 38 | Wisdom | This Assembly invites the Day Eternal Roshanwe to the Symposium to be held at the Autumn 380YE summit. | Livia Cascade | Upheld 98 - 0 |
+|  |  | This relates to the [Symposium](../winds-of-fortune/Symposium.md) wind of fortune. |
+| 39 | General | The enslavement of sapient beings is contrary to the defining principles of the Empire, our Constitution and The Way of Virtue. | Hywel Summercrow | Upheld 732 - 15 |
+| 40 | Urizen | The Urizen National Assembly appoints Anna-Valeria Cascade to visit the spires of Zenith to create spaces of spiritual solace using virtuous auras for each spire and to teach Lucidian techniques for withstanding the effects of malign auras. I will collect liao for this purpose. | Anna-Valeria Cascade | Upheld 60 - 0 |
+| 41 | Nine | At the behest of the Symposiarch, the Symposium be delayed until Winter 380YE | Serrusto | Upheld 8 - 0 |
+|  |  | This relates to the [Symposium](../winds-of-fortune/Symposium.md) wind of fortune. |
+| 42 | Pride | We of the Pride Assembly encourage citizens of Reikos to share verbally what each one of them holds of their history. We further encourage them to make written copies of these and take them to museums, shrines, temples and churches, so that it is preserved for pilgrims to come. | Azekah | Upheld 92 - 0 |
+| 43 | Courage | The Assembly of Courage would like to recognise the Courage of Asenath in battle that she displayed this spring. With clarity of pure Courage she charged the Grendel besides generals, although she herself is a magister. She struck down the first Grendel and made another flee from her Courageous display of bravery. When the battle turned, she inspired others to Courage rallying them to the fallen Grimaldi family. Seeing the Tangled Thorns and Suns of Couros fallen, her Courage gave her the clarity of purpose to reach them and bring their bodies, living or dead, back to the Sentinel Gate. Asenath remains Courageous in retelling her tale, in sharing the image of loyalty of the dying Suns of Couros and Tangled Thorns, and inspiring a beautiful poignant work of art to capture her clear vision of the experience. | Nira of Cantiarch's Hold | Upheld 68 - 0 |
+| 46 | Nine | The "Temple of the Bull" in Oran is an idolatrous affront to The Way and threatening to seduce Imperial Souls into iniquity. To assist in its construction is to engage in, assist in spreading, and endorse idolatry. I will go to Oran to dissuade the people from this sin. | Abaddon De Rondell | Upheld 6 - 0 |
+|  |  | This relates to the [Temple of the bull](../winds-of-fortune/Temple_of_the_bull.md) wind of fortune. |
+| 47 | Nine | At the Symposium, some sessions should be open to all including the laity where discussion should be kept within normal religious laws. Others should be closed to all but Synod members and their invited guests where normally prohibited theories may be discussed. | Ozren de Orzel | Upheld 6 - 0 |
+|  |  | This relates to the [Symposium](../winds-of-fortune/Symposium.md) wind of fortune. |
+| 48 | Prosperity | The Synod would like to invite Prince Turnin of the Principalities of Jarm to speak at and attend the Symposium of The Way at the Winter Summit 380YE. He or his represenatives would be welcome to speak on an issue of their choice relating to The Way. | Marcus Drummond | Upheld 80 - 18 |
+|  |  | This relates to the [Symposium](../winds-of-fortune/Symposium.md) wind of fortune. |
+| 50 | Wintermark | The national assembly supports the creation of a third Wintermark army devoted to the Skarsind tradition of the roving army. | Ingrid | Upheld 97 - 0 |
+| 51 | General | I, Jared of the Suns of Couros and Cardinal of Loyalty, go with 100 liao to bring word of the return of the First Empress and of The Land Without Tears to the entire Empire. Rejoice all virtuous faithful for the Soul of the First Empress has chosen to return from Beyond the Labyrinth of Ages and now resides reborn within Sister Yael of Felix's Watch. All should pay heed to Yael's vision of The Land Without Tears - the place beyond the Labyrinth to which all Paragon Spirits ascend - and know that she has returned to aid our understanding of The Way of Virtue in this life. | Jared | Upheld 526 - 128 |
+|  |  | This relates to the [Rebirth in Reikos](../winds-of-fortune/Rebirth_in_Reikos.md) wind of fortune. |
+| 54 | General | The Synod of The Way would welcome representatives of Sumaah at their upcoming Symposium. | Atla | Upheld 556 - 0 |
+|  |  | This relates to the [Symposium](../winds-of-fortune/Symposium.md) wind of fortune. |
+| 55 | Marches | Deidra of Overton, Teacher of Marshcut, Bregasland, has left the Way of Virtue by teaching paranoia instead of true Vigilance of taking good measures of avoiding reasonable harm, and by subverting the Loyalty of the children of Marshcut, and by having a narrow understanding of Courage, restricting it to fighting the Jotun. She should repent and return to Doctrine; or give up her position of responsibility as teacher and friar. | James Appleseeder | Upheld 40 - 0 |
+| 56 | Brass Coast | We the Freeborn assembly recognise the inhabitants of the Isle of Zemress as descendants of the three tribes, and recognise their right to citizenship of the Brass Coast | Immeldar i Ezmara i Erigo | Upheld 48 - 0 |
+| 57 | Imperial Orcs | The Imperial Orc National Assembly invites Blutsauger Wargan of the College De Gemeinsamwohlpaladine, or his chosen representative, to represent the Commonwealth and discuss philosophy at the Symposium. | Bonewall Rek | Upheld 38 - 0 |
+|  |  | This relates to the [Symposium](../winds-of-fortune/Symposium.md) wind of fortune. |
+| 58 | Brass Coast | The Brass Coast assembly wishes to invite representatives of the priests of Faraden to attend the Symposium | Danita i Riqueza | Upheld 56 - 0 |
+|  |  | This relates to the [Symposium](../winds-of-fortune/Symposium.md) wind of fortune. |
+
+The Imperial Synod did **not** make the following Statements of Principle:
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Number** | **Assembly** | **Statement of Principle** | **Priest** | **Outcome** |
+| 30 | General | When the Senate agreed to the construction of the Temple of the Bull in Feroz, this was under the understanding that the Asaveans do not preach their false faith and idolatry. This agreement has already been broken. The Empire cannot legally prevent citizens entering the Temple. The General Assembly supports Jorma Steelhail to ensure the destruction of that heathen building. Our conviction to The Way is boundless and we will not suffer heresy, blasphemy and idolatry. | Jorma Steelhail | Not upheld 327 - 421 |
+|  |  | This relates to the [Temple of the bull](../winds-of-fortune/Temple_of_the_bull.md) wind of fortune. |
+
+## Synod Funds
+
+The following represents the Virtue Fund of the Synod:
+
+|  |  |  |
+| --- | --- | --- |
+| *Starting Value* | 43 Thrones / 5 Crowns / 7 Rings |  |
+| *Income* | 0 | The sale of the True Liao dose was for 45 Thrones, however the money raised in the public auction was subsequently stolen from the Imperial Hub. |
+| *Rewards* | 5 Thrones | Rewarding made to Livia Cascade, Seer of the Gateway. |
+|  | 5 Thrones | Rewarding made to Hywel Summercrow, the Imperial Chaplain Consular. |
+|  | 5 Thrones | Rewarding made to Tabor the Fool |
+|  | 2 Thrones | Rewarding made to Bonewall Cole |
+|  | 26 Thrones/5 Crowns/ 7 Rings | Rewarding made to Astrid Fjellrevening Rezia di Tassato for Empress Lisabetta's coronation fund. |
+| *Closing Value* | 0 Thrones / 0 Crowns / 0 Rings |  |
+
+## Visionaries
+
+The following individuals received visions of their past lives:
+
+- Cardinal Jared of the Suns of Couros, Highguard
+- General Jericho, Highguard
+- Elka Gremani, Varushka
+- Antonio di Sarvos, the League
+
+## Voting Record
+
+For this summit the Civil Service attempted to track which priests in the Synod cast at least one vote on a judgement. This is to intended to aid analysis on what proportion of members of the Synod do not vote on judgements. The Civil Service cannot guarantee the precise accuracy of these records, or that similar information will be available for any future summits.
+
+At the start of the Summer Solstice 380YE the voting total of the General Assembly was calculated to be 1552 with 131 priests.
+
+The final voting total of the General Assembly was calculated to be 1818 with 156 priests.
+
+At the end of the Summer Solstice 380YE the voting strength of the Virtue and national assemblies were estimated to be:
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Virtue Assembly** | **Voting Strength** | **Voted** | **Could Vote** | **Percentage** |
+| Ambition | 148 | 10 | 13 | 77% |
+| Courage | 216 | 13 | 15 | 87% |
+| Loyalty | 324 | 24 | 27 | 89% |
+| Pride | 132 | 11 | 13 | 85% |
+| Prosperity | 190 | 15 | 17 | 88% |
+| Vigilance | 343 | 23 | 27 | 85% |
+| Wisdom | 206 | 12 | 19 | 63% |
+| The Way | 259 | 22 | 25 | 88% |
+| General | 1818 | 130 | 156 | 83% |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **National Assembly** | **Voting Strength** | **Voted** | **Could Vote** | **Percentage** |
+| Brass Coast | 84 | 7 | 7 | 100% |
+| Dawn | 184 | 14 | 17 | 82% |
+| Highguard | 472 | 26 | 31 | 84% |
+| Imperial Orcs | 58 | 5 | 5 | 100% |
+| Navarr | 129 | 12 | 14 | 86% |
+| The League | 184 | 13 | 16 | 81% |
+| The Marches | 92 | 9 | 9 | 100% |
+| Urizen | 112 | 9 | 11 | 82% |
+| Varushka | 214 | 17 | 19 | 89% |
+| Wintermark | 289 | 18 | 27 | 67% |
+| General | 1818 | 130 | 156 | 83% |
+
+---
+
+Categories: [Synod](../../indexes/by-category/Synod.md), [Synod Results](../../indexes/by-category/Synod_Results.md), [Synod Judgements](../../indexes/by-category/Synod_Judgements.md), [380YE Summer](../../indexes/by-category/380YE_Summer.md)

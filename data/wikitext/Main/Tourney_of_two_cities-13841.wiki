@@ -1,0 +1,87 @@
+[[Category:388YE Summer]][[Category:Winds of Fortune]]
+<ic>
+The great smith was whistling to himself, a pleasant ditty of some kind, as he worked the hammer over the Anvil. The tune seemed to rise and fall to match the hammer strikes, the notes sinking into the heated metal.
+
+"He seems pleased" whispered Revel to the attendant. They nodded, struggling to say more as they frantically worked the bellows. "Any particular reason why?" he asked.
+
+"Ugh. Big. Ugh. Tourney. Ugh. In. Ugh. Anvil." the poor herald did his best to respond but it wasn't easy to do so without losing a beat.
+
+"Yes, I'm helping to organise it. It's going to be great." Revel rubbed his hands together in eager anticipation.
+
+"Ugh. No. Ugh. Academies. Ugh. Doing. Ugh. It. Ugh. Themselves." Sweat was pouring off his brow now, it was hard enough to work the bellows of the Dragon Forge, trying to talk at the same time was not making it easier.
+
+"Ahhh... " said Revel as the ring dropped. "By themselves eh? So ''that's'' why he's so happy..."
+</ic>
+<div {{floatleft}}>{{CaptionedImage|file=Roar of the crowd.jpg|align=left|width=600}}</div>
+==Overview==
+For several months now, the two great military academies of [[the League]] city of [[Tassato]] have been locked in a battle for new recruits to their respective academies. The intense rivalry between the [[Tassato#Barossa_School_of_Imperial_Strategy|Barossa School of Imperial Strategy]] of [[Tassato#Tassato_Regario|Tassato Ragario]] and the [[Tassato#Five_Cities_Military_Academy|Five Cities Military Academy]] of [[Tassato#Tassato_Mestra|Tassato Mestra]] has led to scores of duels between the two. They have remained good-natured for now, at least by local standards.
+
+Seeking to both gather new students and keen to raise up the next generation of soldiers and strategists, the two military academies have approached the [[The_Academy|Anvil Academy]], and asked them to arrange a fighting tournament at the Anvil arena that they can sponsor. The Academy has accepted, and the first Twin Cities Tourney has been announced.
+
+==Eligibility==
+* '''The tourney is aimed at young citizens who have recently passed their Test of Arms'''
+* '''Anyone may enter provided they are still young enough to be fully part of the Sun Chamber'''
+* '''Players who are aged 14 to 18 may take part in the tourney'''
+
+The military academies are looking for young students to join their schools, people they can train from an early age to become officers in Imperial armies. They are not recruiting experienced veterans - there are countless other opportunities for them. As such the tourney is limited to those citizens who have passed their [[Test of Arms]], but who are still young enough to play a full role in the [[Sun Chamber]]. ('''OOC Note:''' the tourney is for participants aged 14-18 only).
+
+==Timing==
+* '''Teams must register with the Academy before 16:00 on Saturday'''
+* '''Each team must have three people, the first eight teams to present themselves will take part'''
+* '''The tourney begins at 18:30 on Saturday at the Anvil arena'''
+* '''Teams are encouraged to have magicians and a physick in attendance to tend the wounded between rounds'''
+* '''Citizens are welcome to bet on the outcome'''
+
+The tourney begins at 18:30 on Saturday at the Anvil Arena. Teams have until 16:00 on Saturday to register with the Academy staff; they must provide a name for their team and the names of the three citizens who will be fighting under that banner. Teams will be split into brackets, with the winners of each round moving on.
+
+There are a limited number of teams that can be supported in this tourney - eight in total - as such, it is the first eight teams of three who will be able to partake. Teams must register with the Academy before 16:00 on Saturday ''at the latest''. The first teams to present themselves will be accepted; teams that arrive later risk disappointment.
+
+Each team must have three people in it to register. The three members of the team will each need to choose a different role from the five presented for the tourney. They do need to choose their role when they register, but will need to make sure they have agreed what roles to use before the first round of the tourney begins. 
+
+The Barossa School and the Five Cities Academy encourage citizens to support their favourite teams with both rousing cheers and words of wisdom. They remind all watchers that this is a contest, and ask them to honour the defeated teams as well as the victorious. Teams should ensure that they have arranged their own magicians and physicks who can tend their wounds between rounds.
+
+==Roles==
+* '''A team consists of three contestants taking to the sands together to face off against the other team'''
+* '''Each member of a team must pick a different role for the contest'''
+* '''The role a contestant embraces determines what weapons they may take onto the sands'''
+
+The contest is intended to be a challenge of strategy as much as it is of fighting skill. For this reason, contestants must form teams of three, with each member of the team picking a different role to take on. The role determines what weapons they may use in the fight. They are styled after popular Imperial fighting archetypes so that they are easy to understand and remember, though there is no need for citizens to actually be of that nation or that archetype.
+
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; gap: 10px;">
+<box>'''Beater'''<br>
+Rugged [[The_Marches_military_concerns#Beaters|beaters]] roam the borders of the Marchers hunting for barbarians and poachers alike, with their bows. If a team includes a beater, they may employ a bow in the contest.</box>
+
+<box>'''Bravo'''<br>
+The daring [[bravo]] is known for their panache. If a team includes a bravo, they may wield two weapons or use a buckler. There is, of course, no limit on how many participants may wear fine duelling cloaks if they choose.</box>
+
+<box>'''Cataphract'''<br>
+The famous [[Highguard_military_concerns#Cataphracts|elite warriors]] of the Highborn army once rode into battle against the enemy on heavy mounts. If a team includes a cataphract, they may wield a greatweapon, pole-arm or pike.</box>
+
+<box>'''Questing-Knight'''<br>
+Dawn's [[Questing_knight|glorious knights]] often favour a large shield painted with their heraldry. If a team includes a questing-knight, they may wield a shield and a one-handed weapon or spear.</box>
+
+<box>'''Warcaster'''<br>
+Imperial Orc [[Imperial_Orcs_magical_traditions#Warcasters|warcasters]] are feared on any battlefield where they appear. If a team includes a warcaster, that member may cast spells, wear mage armour and use any combination of staff, rod, wand, or weapon.</box>
+</div>
+
+==Rules==
+* '''The contest takes place under "Iron Duke" rules'''
+* '''Challengers may use heroic and magical abilities in the arena'''
+* '''Use of consumable items, including potions, herbs, and crystal mana is not permitted in the arena itself'''
+* '''Challengers may receive new or mended weapons from outside of the arena if theirs are shattered'''
+* '''Challengers may only receive healing from a warcaster on their team while the fight is in progress'''
+* '''This is a sporting event; <u>no executions, looting or eating people</u>'''
+
+Participants may not employ potions, herbs or mana crystals during a bout. They can only be healed by a warcaster on their team while a fight is in progress. This is a sporting contest; there must be no executions, looting or similar acts of barbarism.
+
+The Academy ask willing healers and physicks to attend the tournament and heal the competitors during the tourney. Healers willing to help out should wait until a challenger clearly yields and leaves the arena. Downed challengers should be removed from the Arena as soon as possible. Allies should hold a hand on their heart to indicate they should not be struck by the combatants and remove the challenger quickly so that they can be healed and return to the fray.
+
+==Rewards==
+* '''The Academy plans to make arrangements with the Artisans Guild to allow the three winners to purchase a magic item from them for up to three thrones in value'''
+* '''Every member of the team that comes second will receive a Skop's Mead or a Philtre of Heavenly Lore'''
+
+The sponsors have provided the Academy with nine thrones, which they plan to lodge with the [[Guildmaster of the Artisans]] to provide suitable rewards. As a result, every member of the winning team may purchase a single [[magic items|magic item]] from the Artisans Guild up to three thrones in cost.
+
+The intention of the Academy is that the winners will be able to seek out the Guild, discuss with them what magic item they require and then the guild can arrange for those items to be fashioned using [[Timeless Hammer Rhythm]] so that the participants may collect them the next day in time for the battle if needed. The Academy expects that three thrones will cover the cost of the materials and the ritual, and provide a comfortable profit for the artisan. If that is likely to be a problem, Hildebrand Von Holberg, the head of the Academy asks their counterpart in charge of the Guild to let them know so that they can make alternative arrangements.
+
+For the runners-up, there is a choice of a [[Philtres_of_War#Skop's_Mead|Skop's Mead]] or a [[The Philtre of Heavenly Lore|Philtre of Heavenly Lore]] potion.

@@ -1,0 +1,253 @@
+---
+title: Glass and flame
+source: https://www.profounddecisions.co.uk/empire-wiki/Glass_and_flame
+class: in-character
+topic: winds-of-war
+categories:
+- Recent History
+- 386YE Autumn
+- Military Council
+- Winds of War
+event: 386YE Autumn
+last_edited: '2026-09-05T15:08:01Z'
+revision: 144836
+in_character_boxes: 16
+---
+
+# Glass and flame
+
+*[Image: The ferocity of flame is their burning passion for life and their bright and unquenchable spirit.](https://www.profounddecisions.co.uk/empire-wiki/File:Fire_in_their_hands.jpg)*
+
+*[Image: Click for pdf version](https://www.profounddecisions.co.uk/empire-wiki/File:Glass_and_flame.pdf)*
+
+## River Rising
+
+Since the [destruction of Siroc](A_beacon_of_smoke.md), Imperial and [Grendel](../barbarians/Grendel.md) forces have striven for control of Madruga. Possession of the [territory](../../out-of-character/rules/Territory.md) has been further complicated by the rise of the [Children of Wrecks](../winds-of-fortune/Children_of_Wrecks.md), who have stolen [Free Landing](../nations/the-brass-coast/Madruga.md#free-landing), and by the presence of the Dry Patricians and the [blighted wound](../winds-of-fortune/Tread_of_dust_and_darkness.md) that was once the [Great Grasses](../nations/the-brass-coast/Madruga.md#great-grasses). After the Summer Solstice, however, the Empire's [armies](../../out-of-character/rules/Army.md) withdraw without warning, destined for very different battlefields.
+
+The Grendel, however, and the majority of their [Asavean](../foreign-nations/Asavean_Archipelago.md) allies, remain in [Siroc Plains](../nations/the-brass-coast/Madruga.md#siroc-plains). They have taken a defensive position, transforming villages and farmsteads across the region into ramshackle fortifications. The main force continues to occupy the [ruins of Siroc](../nations/the-brass-coast/Madruga.md#siroc-ruined), with the Grendel [navies](../../out-of-character/rules/Navy.md) supporting them. Two of the Asavean battleships – the newly arrived *Breath of Crimson* and *Foam Dancer* – continue to patrol the shoreline, remaining alert for any threat from the Empire, or from the pirate-followers of [Siakha](../eternals/Siakha.md). No such threat materialises – at least no threat that can be fought.
+
+Following the [hurricane](Below_the_thunders.md) that struck the territory after the Spring Equinox, the weather in Madruga remains absolutely foul, with torrential rains, rumbling thunder, roaring winds, and thick black clouds that shroud the sun. When the Scorrero river catastrophically breaks free from its channel, and pours down into the Blightheart, Grendel orc and Imperial human alike are unsurprised; even those who have not be warned of the magical working that aims to use the river to cleanse the Great Grasses are prepared for *something* to happen. Yet no amount of advance warning can prepare them for the reality of what happens.
+
+All along its length, the capricious Scorrero begins to rise, filled with dangerous energy, eager to break its banks and see new parts of the Brass Coast. The magic of [Spring](../../out-of-character/rules/Spring_magic.md) rouses the river into a roaring dragon of foam and thunder that sweeps down from the mountains towards the sea and threatens [ruin](../../out-of-character/rules/Spring_magic.md#ruin) to everything - and everyone - in its path.
+
+But the fate of Madruga, and the changes wrought by the twisting river are for the future. There are other happenings along the western shores of the [Bay of Catazar](../world/Bay_of_Catazar.md) that command our attention.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The time is now. The Empire at our back, the bond of Loyalty between us our strength. I invite Janon to witness the Freeborn Blaze! Show the Empire the Pride of True Conviction and claim our home. For Feroz.
+> >
+> > Aracelis I Erigo, General of the Burning Falcon
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Sky, I feel renewed. Gone is whatever aura was on me and replaced with the flame of virtue - A flame of ambition. Lets take this, wrap it up with a knights of Glory and multiply it by a Triumphant Charge. Fight with the same ferocity as the Heralds beside you, combine your glory - lets show them Dawn can go Toe-to-toe with the Summer realm and do the Lioness of Summer Proud. Lets bring this home for the Coast. Because I know they'd do the same for us. Charge!
+> >
+> > Dame Aurum De Castellan, General of the Eastern Sky
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We cover ourselves in muted hues as we move via Segura using Darkness as our ally. Our target Oranseri avoiding Morajasse. As the first amber lights dance on the Horizon to usher in a new day we shed our shrouds. We burst forwards, the Brilliance of our colours matched only by our fury, and loyalty to our people. A Kaleidoscope of colour burning brighter than the sun in the sky, with summer by our side we shall sweep aside the remnants of the Grendel. We, the freeborn shall not be extinguished.
+> >
+> > Vincente i Zayden i Guerra, General of the Fire of the South
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > "Freeborn! There is something new in these lashing rains. A familiar wind blows across the border. Do you feel the dusts of home? They beckon; they whip at our cheeks; they call us beyond the Scorrero and into the heart of the Grendel's greatest insult. Shoulder to Shoulder, pass through these rains, and ignite the inferno of Freeborn passion. Leave everything behind. Dedicate your glass and courage to the overwhelming assault. The hour is now. Feroz will be Freeborn. Board them!"
+> >
+> > Delora i Sol-Devorador i Erigo, General of the Red Wind Corsairs
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Mediators and scouts that form our spear, Let us fall upon Feroz like the snow from our land, Alongside the Freeborn to reclaim their lost homes, An avalanche of Snow and Sand!
+> >
+> > Determination of Ice Kaisa, General of the Narwhal's Spear
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > It is… a time of change. The red eye of the Wanderer blazes in the night sky. When the runes are cast, Evroum repeatedly shows. The tides turn against the Grendel as their spring allies turn with it. The Portents suggest that now is the time. Into them!
+> >
+> > Umarth Kannask, General of the Fist of the Mountains
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Siblings! Our victory in Kahraman was hard won, and soon we will rest, but first we strike further south into Oranseri, Feroz. We will bring to the occupiers an Overwhelming Assault! Drive them back into the sea! Grind them into the sand! As I march with you bearing the artefact Brooch of Ruth, hallowed to Courage with True Liao, let the other Imperial Armies see the Courage of true Highborn soldiers and inspire them to greatness and victory!
+> >
+> > Zadok, General of the Valiant Pegasus
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Stand to Wolves, I call upon you again to pay the cost. Kick those engineers awake. Set our sites on the fortified region of Oranseri. Break out the ladders, Draw upon your courage. With me now up the walls as we roar our loyalty to the Brass Coast.
+> >
+> > Jean d'Apulian, General of the Wolves of War
+
+## The Rains of Cerevado
+
+Perhaps the Grendel ask themselves where the Empire's armies are, given they are not fighting in Madruga. Perhaps they pretend they don't know the answer, but they must realise what is coming. Imperial forces regroup, gather in [Lucksprings](../nations/the-brass-coast/Segura.md#lucksprings) on the western banks of the Scorrero. Eight entire armies, mustering in Cerevado as the skies darken and Spring magic infused rain starts to fall.
+
+All three Freeborn armies are here – the [Burning Falcon](../../mixed/government/military/Burning_Falcon.md), the [Fire of the South](../../mixed/government/military/Fire_of_the_South.md), and the [Red Wind Corsairs](../../mixed/government/military/Red_Wind_Corsairs.md). From the North, from Wintermark come the experienced [Fist of the Mountains](../../mixed/government/military/Fist_of_the_Mountains.md) and the cunning [Narwhal's Spear](../../mixed/government/military/Narwhal-s_Spear.md). From the Eastern Empire march the [Eastern Sky](../../mixed/government/military/Eastern_Sky.md), the [Valiant Pegasus](../../mixed/government/military/Valiant_Pegasus.md), and the [Wolves of War](../../mixed/government/military/Wolves_of_War.md). A sea of banners ready to bring ruin to the Grendel now that their governor is slain.
+
+Nearly twenty thousand additional soldiers, auxiliaries commanded by [independent captains](../../out-of-character/rules/Military_unit.md) have come to join the grand host that will drive the Grendel from Feroz. Almost all fight alongside the Wolves of War, effortlessly fitting into that army thanks to the [Autumn enchantment](../../out-of-character/rules/Autumn_magic.md) that [binds each warrior to a common cause](../../mixed/magic/rituals/Bound_by_Common_Cause.md). The Wolves are further reinforced by a cadre of Tassatan siege-masters, on loan from the College of engineering and well paid for their work in the warzone. They know the Brass Coast well enough to bring great supplies of timber with them, planks and logs dragged in ox carts along the trods from the forests of Misericorde. A handful of bright-eyed Sand Fishers accompany them, eager to see more of the Empire.
+
+As well as mortal soldiers there are some eight thousand warriors of the Summer realm, golden champions and crimson warriors drawn from the [Fields of Glory](../eternals/Eleonaris.md) to fight for the Empire. Four Lords of the Pennants lead the troops, mighty nobles of the court of the Lion of Summer. Dindrayne, a proud feather-browed war-witch with a staff of adamant, commands elfin heroes in mithril chain beside the Eastern Sky. With them are a score of Eleonaris' trumpeters, charged with rousing the knights and war-witches of Dawn to [seek the greatest victory](../../mixed/government/military/Eastern_Sky.md#favour-of-eleonaris), engaging the strongest foes and embracing the risks of battle. Kore, a lion-maned warlord in scarlet armour, leads a battalion of swift-footed knights with the lower bodies of great cats, armed with lances alongside the Burning Falcon. Murmastis, a stag-horned spearmaster with a great two-handed bhuj, resplendently dressed in viridian and incarnadine scales commands a cohort of furious spear-dancers to accompany the Fire of the South into battle. A mighty warband of rune-armoured hammer-smiths, led by the herald Elodian, march alongside the Fist of the Mountains, their thunderous blows sending any who dare to face them sprawling in the mud.
+
+As before, there are emissaries of Janon alongside the Burning Falcon. The army has finally completed their transformation, and the flame of [true conviction](../../mixed/government/military/Burning_Falcon.md#army-quality-true-conviction) blazes in their hearts. The heralds urge the Freeborn warriors and the lion-knights of Eleonaris alike to embrace their fury, to seek righteous vengeance against the Grendel orcs who dared to claim the Brass Coast as their own. Against the folk who butchered the justicars and burned Shantarim, there should be no quarter asked or given. Those who heed their words fight with barely-contained frenzy against the Grendel, their passions blazing like flames in their breasts.
+
+As the Scorrero starts to rise, as the Spring magic worked in Anvil in the Summer Solstice begins to infuse the river waters, the armies leave Cerevado. The Empire marches to Feroz.
+
+## Across Oranseri
+
+Nearly three years ago, fighting between the Grendel and the Empire was [ended by paper and ink](../senate-motions/Ratify_treaty_with_the_Grendel_Autumn_383YE.md). A treaty that conceded the whole of Feroz to the orcs of the Broken Shore. With a heavy heart, the Freeborn Assembly gave voice to the sorrow of their nation and warned their people that there was no certainty that the Empire would be able to reclaim the territory any time soon. With the aid of hundreds of Imperial captains – both fleet and warband – the majority of the people of Feroz were able to escape the tyranny of the Grendel governor Rahab and find sanctuary in Madruga, Kahraman, and Segura. For many, the assumption was that it would be at least a generation before the Freeborn were able to return to Feroz.
+
+Barely a month after the Summer Solstice, the Burning Falcon lead the way across the border into Oranseri. Only the Eastern Sky is able to keep pace to them, both armies roaring into Feroz with absolute commitment to victory, to seizing triumph by the throat and making it their servant. Fires of ambition and pride blaze as the warriors of the Brass Coast and Dawn set the pace.
+
+The Fire of the South and the Red Wind Corsairs are barely a step behind them, leading the overwhelming assault that flows in the wake of the Falcon and the Sky. The Winterfolk and the Highborn are no less passionate in their advance, forming with the Freeborn a great wave of steel that sweeps across the grasslands towards Oran. Bringing up the rear, the measured tread of the Wolves of War, slowed a little by the ox-carts that carry the materials needed to craft the engines of war. They strive to keep pace with the tide of battle that sweeps eastward towards the town of Oran.
+
+They march under heavy clouds; the weather in Feroz is no better than that in Madruga. Rain, thunder, wind, all add an extra level of drama to the Imperial advance. Magicians with the armies concur grimly that this weather is not natural; it is the result of a curse laid over Feroz. Most likely by the Children of Wrecks rather than the Grendel or their Asavean allies; rumour has it that the traitors called to the banner of High Priestess Shivaarn have seized the Cazar Straits just as they did Free Landing to the north. The rain is relentless, slowing the advance of the armies a little, churning the grasslands of Oranseri into a sea of mud.
+
+When the Grendel seized the territory, they established the hateful and greedy Governor Rahab in Oran. Not a Salt Lord – for there is no mithril mine in Feroz. Not a member of the ruling council, but a servant of the Salt Lords. Bitterness easily turning to fury, the Empire taunted Rahab again and again, heedless of the consequences they drove him to the verge of apoplexy as they stole the people out of the territory from under his nose, snatching the bounty of the Scorrero Nets from his grasp, and mocking his failures at every turn.
+
+Rahab is dead now, [fallen before Imperial heroes](Below_the_thunders.md#diamonds-are-forever-battle-opportunity) in the recent battle on the Siroc Plains. News of his death has already reached Oran, with suspicious speed. A new governor has seized the rains of power, assuming control of Rahab's Palace, with surprisingly little disruption. Questions about how the new ruler will command the conquered territory are rendered utterly moot by the arrival of tens of thousands of Imperial soldiers in Feroz. The Grendel struggle to mount a defence as the armies draw near to the heart of Grendel dominance of the territory.
+
+The garrison on Mora's Rock, several thousand strong, is on the back foot. They know the Empire has crossed the borders – one cannot conceal so great a force from watchers – but they are clearly not expecting the invaders to completely bypass their fortress. Part of the garrison has already marched to support the defenders of Oran, likely expecting fighting in Madruga forcing the Grendel armies there to retreat south into Oranseri. They are likewise unprepared for the sheer scale of the force arrayed against them.
+
+*[Image: Unfortunately for the Grendel in Oran, this season the Wolves of War are accompanied by experienced Holberg engineers.](https://www.profounddecisions.co.uk/empire-wiki/File:WolvesofWar_Colour.png)*
+
+## The Siege of Oran
+
+Oran has been fortified; the jealousy of Rahab requires that his palace be at least the equal of the Salt Lords and so he has squandered the last of his fortune on Asavean stone. A fortified estate in the heart of Oran, with partially-complete white granite walls to ring the town itself. It is clear that the tyrant of Feroz is in the process of further fortifying the town, but it looks a lot as if he has run out of money. Perhaps this is why he risked the ultimately fatal decision to join the forces fighting in Madruga?
+
+There are almost no Freeborn left in Oran. Those who did not escape after the territory was ceded to the Grendel, those who were unable to arrange for the priests of Asavea to smuggle them across the bay to Siroc, have been enslaved and set to work on the farms and herb gardens. In their place are several thousand Grendel citizens. Most are soldiers; this is a garrison town dedicated to protecting their ill-gotten gains from the Empire. They seize their weapons and mount the walls, such as they are, and try to defend the town.
+
+Their efforts are almost useless. While the other Imperial armies quickly and efficiently seize Oranseri, and establish a cordon around the town, the battle-engineers accompanying the Wolves of War swiftly construct two dozen catapults, covered rams, and siege towers, and a thicket of ladders with which to mount the walls. As soon as they are ready, the assault begins with a barrage of rocks and stones against the walls providing cover for the advance of the rams and siege towers.
+
+The gates of Oran fall within the first hour. From there the fighting floods into the streets of Oran. To their credit, the Grendel warriors do their best to slow and contain the Empire. They seek to delay the Empire long enough to allow the merchants and civilians to escape via the ships that cluster at the docks. The narrowing of the battleground does a little to counter the Empire's overwhelming advantage of numbers, and their numbers are supplemented by a few hundred Asavean mercenaries eager for the fight, but it is not enough.
+
+The siege barely lasts until Sunset. The Palace of Rahab is pounded to rubble by siege engines, the soldiers who had taken refuge there flattened along with the white-granite walls. When the palace falls, the fire goes out of the Grendel. Those who have not fled by sea break through the cordon and escape south toward [Fontargenta](../nations/the-brass-coast/Feroz.md#fontargenta).
+
+It is a grievous victory, however. The fighting that raged through the town, the overwhelming assault, the barrage of catapult stones, has left many of the buildings in ruin and many more damaged. A fire breaks out at the docks, and despite the dreadful weather it threatens to spread out of control. League soldiers fight long into the night to bring it under control. It's uncertain how it started; the last Grendel merchants panickily attempting to ensure that nobody can follow them in the remaining ships, perhaps. An intention, spiteful effort by the remaining Asaveans to turn Oran into a pyre as they did with Siroc, maybe. Or just an accident; the chaos of war lends itself well to such things.
+
+*[Image: Delora i Sol-Devorador i Erigo (left), General of the Red Wind Corsairs](https://www.profounddecisions.co.uk/empire-wiki/File:GenRWC.png)*
+
+Those fleeing Oran who make it to the open waters of the Bay of Catazar discover that it is not only the Empire they should fear. A dozen pirate vessels out of the Cazar Straits fall on the fleeing ships, slaughtering and robbing. The Imperial armies are unable to do anything, even if they were tempted to do so. Barely one vessel in three makes it to the open waters, outrunning the Siakha-maddened jackals. The Red Wind Corsairs, who are the only force in Feroz who might have been able to even attempt to aid their fleeing foes, are too busy freeing nearly sixty [corsairs](../nations/the-brass-coast/Corsair.md) from their chains - slaves taken from the islands when the Grendel conquered them. That and ensuring a good showing when it comes time to reveal their *[Haul](../../mixed/government/military/Red_Wind_Corsairs.md#traditions)*: this may be a former Freeborn port but the wealth here is Grendel wealth and even without specific orders the Red Wind are not shy about helping themselves to the ill-gotten gains of their enemies.
+
+All slaves in Oran are of course freed, whether orc or human. But there is one complication; the priests of Balo and the Black Bull. When the city falls, when the Imperial forces reach the walls of the Asavean temple, the priests open the doors and surrender. They send their slaves out first, and raise no hand against the Imperial soldiers. The leader of these Asaveans, an old Asavean priest of Balo with boundless reserves of dignity, maintains that they have not only never harmed any Imperial citizen, they have in fact helped a significant number of Freeborn citizens escape Feroz over the last few years. A few Imperial soldiers have heard rumours that seem to confirm what they say, and there is evidence of a secret passage connecting the temple grounds to the nearby shore and a smugglers quay. They insist on surrendering to the commanders of the Freeborn armies, and ask to be repatriated to Asavea. There is a great deal of discussion about what to do, about the fate of the temple building, but in the end it is determined that the decision lies with the generals of the Brass Coast.
+
+*[Image: Dame Aurum De Castellan , General of the Eastern Sky](https://www.profounddecisions.co.uk/empire-wiki/File:Aurum8565.png)*
+
+## Fontargenta and Bramar and Afar
+
+With the town liberated, the Empire pushes south into Fontargenta. The Grendel garrison makes a stand at Bramar, the surviving warriors from Oran reinforced by more soldiers from Mora's Rock. When the Empire arrives, however, the town is already under attack. A rag-tag fleet of ships is attacking the docks, orcs and humans alike seemingly bent on destruction and looting the quayside. More Children of Wrecks, who scatter when the Imperial armies arrive and flee with their ill-gotten gains back to the Cazar Straits.
+
+The remaining Grendel warriors do their best but the one-two punch of pirates and Imperial soldiers leaves them no choice but to flee, the Eastern Sky and Burning Falcon close on their heels. They fall back again and again across the grasslands of Fontargenta and Afarjasse. A brief siege takes place at Afar, but the Fist of the Mountains and the Narwhal's Spear make quick work of the defenders there. Governor Rahab has established large farms in Afarjasse, with the town of Afar as his regional capital. Several hundred slaves were held here in great dormitories, forced to work the fields until they fell, with the same heedless cruelty the Grendel show to those who toil in their salt mines. The Winterfolk liberate these people, and execute the orcs responsible for their durance. Most are Imperial citizens, but maybe a hundred come from further afield, bought by Rahab from the slave markets of the Broken Shore. Those who are not already Imperial citizens are offered new homes in the Empire.
+
+*[Image: The Valiant Pegasus catch the fleeing Grendel before they can reach the border, leaving it unclear what kind of welcome they would have received from the Suranni .](https://www.profounddecisions.co.uk/empire-wiki/File:ValiantPegasus_Colour.png)*
+
+At the same time the Valiant Pegasus chase fleeing Grendel warriors south towards the border with Arbonne – the territory the Lasambrian orcs called Kalino. When they reach the hills, the orcs find an army of the Iron Confederacy camped just across the border waiting for them. Perhaps the leader of the fleeing Grendel hope the Suranni will remain neutral, that they may be able to find sanctuary among them. Or perhaps there is some truth to the rumour that the Suranni have signed a peace treaty with the orcs of the Broken Shore, a mutual defence pact against the Empire. The Grendel never find out; the Valiant Pegasus catch them still a quarter-day march from the border and not one escapes. The Iron Confederacy knights make no effort to intercede, although there are reports of scouts in watchtowers atop the hills, watching the slaughter with spyglasses.
+
+*[Image: Umarth Kannask , General of the Fist of the Mountains](https://www.profounddecisions.co.uk/empire-wiki/File:GenFistoftheMountains.jpg)*
+
+*[Image: Determination of Ice Kaisa , General of the Narwhal's Spear](https://www.profounddecisions.co.uk/empire-wiki/File:GenNarwhalsSpear.jpg)*
+
+Fontargenta and Afarjasse fall to the Empire. The territory is Imperial once again.
+
+## The Shadow of Mora's Rock
+
+The Empire's momentum finally falters as they reach Morajasse. While the Grendel have been retreating, fleeing by sea, or seeking notional sanctuary in the lands of the Suranni, the majority have gathered in the shadow of Mora's Rock. The Wolves of War have brought many of their siege engines from Oran to aid in the assault against Mora's Rock, but it is no simple matter to get close to the castle. The garrison are keen-eyed, well prepared, and know the danger of letting the League forces get too close. They launch pin-point accurate raids against the Imperial forces, targeting not only the catapults but the engineers who maintain them. The Wolves of War help to deal with some of the outlying defences – watchtowers and fortified garrisons – but even the furious energy of the Burning Falcon is starting to flag, and they do not get close enough to storm the walls of Mora's Rock.
+
+The fortification there has been significantly bolstered during Grendel tenure. It is now a match for [Our Lady of Pride](../nations/the-league/Sarvos.md#our-lady-of-pride) or [Reumah's Rest](../nations/highguard/Necropolis.md#reumah27s-rest), dominating the rolling plains in which it stands. The surviving garrison regroups here, along with several hundred Grendel driven out of their stolen homes. A makeshift village of tents surrounds the castle itself, and anyone who can hold a sword or shield is pressed into service by the commander of the fort, *Gallum Fiersach*.
+
+Fiersach is no crony of Rahab, according to those slaves liberated in Feroz. They are a veteran of a dozen battles against the Empire, known for their vigilance and their cunning. A strategist who has spent the years of peace establishing massive stocks of supplies within the walls of Mora's Rock, they have overseen the expansion of the fortification to its current size. Respected by the Salt Lords, Fiersach is an old general and knows the Empire and how it thinks. He must know he cannot win, but there is no talk of surrender.
+
+It may be that he is bluffing, or it may be that he expects a Grendel counterattack at any moment. If the forces currently in Madruga come south, the garrison of Mora's Rock will greatly bolster their ability to recapture the territory. If they don't... then the Empire will be forced to leave armies here and try to take the castle. There is a rumour that Fiersach's partner, a Wind Lord of the Grendel named *Saoirse* is in the fortress, backed up by a coven of orc wizards skilled in the rituals of war. While they could not hope to fight off the force arrayed before the castle, they can make the Empire pay dearly for doing so.
+
+## Feroz is Freed
+
+The conquest of the territory has been by no means bloodless – the Grendel soldiers have fought tooth-and-nail to keep the Imperial armies at bay. It's also clear that the Empire are not the only people assaulting the Grendel – the Children of Wrecks have launched their own opportunistic attacks against their former allies from the Broken Shore. Yet the pirates have no love for the Empire either – shortly before the Autumn Summit word reaches Anvil that the waters around the Cazar Straits, like those around Free Landing, are teeming with deadly beasts and vicious pirates making any attempt to conquer the region by Imperial armies untenable without naval support.
+
+As the Autumn Equinox dawns, the Empire has liberated Feroz. The Senate will need to decide which Imperial nation it is assigned to – the lands have long been part of the Brass Coast, but the painful truth is that few Freeborn remain here now. is also the matter of Mora's Rock – the Empire has made inroads into Morajasse, but thanks to the castle and the strategy of Gallum Fiersach it is still firmly under the thumb of the Grendel.
+
+The territory itself is in shambles. Years of ruthless domination by Rahab; three months of dreadful fighting; and the lashing destructive cursed weather raised by the Children of Wrecks has left towns ruined, fields flattened, hopes dashed. The battle to liberate Feroz may be won, for the moment at least, but the war continues.
+
+## Game Information : Feroz
+
+- **Feroz has been conquered by the Empire and may be assigned by the Imperial Senate**
+- **The territory has been run into the ground by the former Governor, Rahab**
+- **Cazar Straits has gained the *island* quality, similar to Free Landing in Madruga**
+- **The territory is under the influence of a Spring magic curse that hastens destruction and deepens the wounds of war**
+
+The Empire has conquered Oranseri, Fontargenta, and Afarjasse. They are perhaps a tenth of the way into conquering Mora's Rock. Feroz has five regions, and by controlling three of them, they have conquered the territory. The [Senate](../../mixed/government/senate/Senate.md) can [assign](../../mixed/government/senate/Powers_of_the_Imperial_Senate.md#assignment) the territory during the Autumn Equinox. If they do so a new [Senator](../../mixed/titles/Senator.md) will be appointed during the Winter Solstice.
+
+Feroz has been run into the ground by Rahab, eager to extract every drop of profit from the place. Those Freeborn who once lived there have, at the urging of the National Assembly, made new lives in other parts of the Brass Coast and most have little interest in returning at this time. Rebuilding the territory to even a fraction of its former wealth will likely require significant investment in Feroz in the coming seasons. However, if the territory is assigned to the Freeborn, it will arrest the decline of their armies for the time being at least. While the territory is in a parlous state, it is still sufficient to restore the nation's supply to full.
+
+Cazar Straits has the same **island** quality as Free Landing – it cannot be attacked by Imperial armies that are not transported by a navy. There is no sign of a great maelstrom there at this time however, suggesting that conquering the islands might be easier, but it is difficult to say with certainty what kind of forces the Children of Wrecks might be able to call on in the coming months.
+
+The territory is currently under the effect of *ruinous rains* – a curse that directly opposes [Regrow the Land's Heart](../../mixed/magic/rituals/Regrow_the_Land-s_Heart.md). Similar to [Rivers of Life](../../mixed/magic/rituals/Rivers_of_Life.md) and [Rivers Run Red](../../mixed/magic/rituals/Rivers_Run_Red.md), Regrow the Land's Heart can remove the ruinous rains, but will need to be performed a second time to have any effect. Otherwise, the curse will cause the destruction and scars created by war to worsen in the coming months. Even if the curse is removed, Regrow the Lands Heart can do little to repair the destruction caused by years of mismanagement and the recent fighting, they can only help the scars caused by such events to heal more swiftly. The rubble of a parador might be overgrown with flourishing new plants, but it cannot be rebuilt with Spring magic.
+
+Only [military units](../../out-of-character/rules/Military_unit.md) who supported the Wolves of War in Feroz [received shares](../winds-of-fortune/386YE_Autumn_Equinox_interlude.md#imperial-guerdon) of the [Imperial Guerdon](../../out-of-character/rules/Military_unit.md#imperial-guerdon). A standard military unit received five shares, with additional ranks from [upgrades](../../out-of-character/rules/Military_unit.md#upgrade) or [enchantment](../../out-of-character/rules/Enchantment.md) providing an additional share each.
+
+The palace of Rahab (a rank one [fortification](../../out-of-character/rules/Fortification.md)) has been reduced to rubble.
+
+## Game Information : Asavean Diplomacy
+
+- **The priests at the Temple of Balo and the Black Bull have surrendered to the Freeborn generals**
+
+Perhaps thirty Asavean priests and acolytes serving the gods Balo and the Black Bull have surrendered to the Freeborn generals. They are currently under guard in Oran, in the Temple where they once served. They claim that they are innocent, and have done nothing to harm the people of the Brass Coast. They ask to be repatriated to Asavea. They are barbarians, and the decision about what to do – whether to execute them as enemies of the Empire or returned to their people – lies with a majority decision of the three Freeborn generals. The [Herald of the Council](../../mixed/titles/Herald_of_the_Council.md) waits to hear the decision of the generals during the Autumn Equinox. If they are to be repatriated – or if a ransom is demanded - the Ambassador to Asavea will presumably be able to arrange as much with their opposite number in the Archipelago. This will only be necessary or possible if the generals agree to repatriate the priests, rather than execute them.
+
+Executing the priests will send a clear message to the Asaveans that they will find no mercy in their dealings with the Brass Coast. It will also likely be seen as just retribution against the Asaveans for the destruction of Shantarim and the Isle of Osseini, as well as the recent murder of Imperial missionaries in Asavea.
+
+*[Image: A Winged Messenger could be used to contact Gallum Fiersach or Wind Lord Saoirse at Mora's Rock, Morajasse, Feroz ..](https://www.profounddecisions.co.uk/empire-wiki/File:WingedMessenger.png)*
+
+## Game Information: Mora's Rock
+
+- **Mora's Rock is still in Grendel hands, under the skilled command of Gallum Fiersach**
+
+Commander Gallum Fiersach commands a garrison of several thousand Grendel in Morajasse. They are believed to be supported by a powerful Grendel magician, a master of battle-magic, and their coven. The Empire could certainly lay siege to Mora's Rock – it is a rank two fortification – but it would be costly and time consuming. Especially since spies suggest Saoirse may be capable of laying an [enchantment](../../out-of-character/rules/Enchantment.md) on the fortification with the supplies of crystal mana secured within its walls, or of drawing on a boon presented by an allied [eternal](../eternals/Eternal.md) to achieve the same effect.
+
+At the moment Commander Fiersach has shown no sign of surrendering, but diplomacy might be possible. A [winged messenger](../../mixed/magic/rituals/Call_Winged_Messenger.md) could be dispatched to Gallum Fiersach or Wind Lord Saoirse at Mora's Rock, Morajasse, Feroz. They must know that their position is untenable, and it might be possible to persuade them to give up their fight against the Empire.
+
+## Participation: Touched by Glory
+
+- **Characters whose military units fought alongside Knights of Glory may gain additional benefits from doing so**
+
+*[Image: BurningFalcon Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:BurningFalcon_Colour.png)*
+
+Four of the armies fighting in Feroz this season were accompanied by [Knights of Glory](../../mixed/magic/rituals/Knights_of_Glory.md). When the strategy of the army aligns with the glorious intent of the heralds, unpredictable side-effects may occur. In this case, a character whose [military unit](../../out-of-character/rules/Military_unit.md) was assigned to [support](../../out-of-character/rules/Military_unit.md#support-army) the Burning Falcon or the Fire of the South may choose to embrace a potent [roleplaying effect](../../out-of-character/rules/Roleplaying_effects.md) that represents the inspiration provided by the heralds. The effects fade at the end of the Autumn Equinox, or if you somehow overcome the roleplaying effect involved.
+
+*[Image: TheFireoftheSouth Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:TheFireoftheSouth_Colour.png)*
+
+The Burning Falcon not only fought with *true conviction*, but was also accompanied by heralds of Janon who whipped many of the fighters - both mortal and eternal - into blazing bonfires of wrath. If your military unit supported the army, you may choose to have fought alongside the Summer champion *Kore* and their cohort of swift-footed cat-centaurs. This allows you to embrace a roleplaying effect: *your passions burn brightly in your breast, and you find it difficult to remain silent when you hear of someone being wronged. It is difficult not to take immediate, direct action when you think someone is suffering injustice*. This effect is particularly pronounced if you have the [changeling](../../mixed/magic/lore/Changeling.md) [lineage](../../mixed/magic/lore/Lineage.md). As long as you experience the roleplaying effect, you gain an additional bonus [hero point](../../out-of-character/rules/Heroic_skills.md#hero), even if you don't possess the [hero](../../out-of-character/rules/Heroic_skills.md#hero) skill (your maximum number of hero points is increased by one), and if you are exposed to a roleplaying effect that creates fear or doubt (such as the [Druj miasma](../barbarians/Druj_miasma.md)) you can respond by becoming incandescently angry instead.
+
+The Fire of the South likewise threw themselves body-and-spirit into the liberation of Feroz, engaging in a committed *overwhelming assault*. If your military unit supported the Fire of the South, you may choose to have fought alongside resplendently stag-horned *Murmastis* and their furious spear-dancers. This allows you to embrace a roleplaying effect: *you feel driven to display your prowess and pride to others, especially those who doubt you. It is easy and joyous to engage in battle, to sing, and to dance*. As long as you experience the roleplaying effect, you have a temporary hero point which is always the first one to be spent. Once during the summit when you are exposed to a roleplaying effect that creates fear or doubt (such as the [Druj miasma](../barbarians/Druj_miasma.md)) you can respond by becoming incandescently angry instead.
+
+While the Fist of the Mountain and the Eastern Sky were also accompanied by Knights of Glory (and in the case of the Dawnish army, also drawing on the [Favour of Eleonaris](../../mixed/government/military/Eastern_Sky.md#favour-of-eleonaris)), no military units supported them so the boons granted by *Dindrayne* and *Elodian* are not relevant at this time.
+
+## A Pile of Sand (Sarvos)
+
+- **A company of Grendel are in the process of looting the Isle of the Fox**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Steward of the Sarvos Mana Exchange* is responsible for protecting the supply of mana to the exchange**
+- **This conjunction is [against barbarians](../world/Sentinel_Gate.md#imperial-law); magistrates advise that lethal force is fully justified**
+
+The Isle of the Fox lies roughly halfway between the shoreline and the [Bay of Catazar](../world/Bay_of_Catazar.md) proper. It has been rumoured to be the home to several "*legally ambiguous*" businesses. Since the Winter Solstice 381YE the Isle has instead been the location of half a dozen [mana sites](../../out-of-character/rules/Mana_site.md) focused around the trade and barter of crystal mana, especially at the Mana Exchange in Sarvos.
+
+During the sack of Sarvos the Isle of the Fox was mostly ignored, with much greater treasures at hand in the city, but now a company of ruthless Grendel have landed at the island and are in the process of looting the stockpiles of crystals. If the Grendel are not stopped then the Steward will see a significant drop in crystals available for purchase. That would mean that the exchange could only supply up to 16 mana crystals until supplies recovered by the start of the Spring Equinox. Given that this is a direct threat to the Mana Exchange of Sarvos it is the responsibility of [Steward of the Sarvos Mana Exchange](../../mixed/titles/Steward_of_the_Sarvos_Mana_Exchange.md), **Wolfgang Wilheim Von Vanderghast**, to protect the Isle of the Fox.
+
+---
+
+Categories: [Recent History](../../indexes/by-category/Recent_History.md), [386YE Autumn](../../indexes/by-category/386YE_Autumn.md), [Military Council](../../indexes/by-category/Military_Council.md), [Winds of War](../../indexes/by-category/Winds_of_War.md)

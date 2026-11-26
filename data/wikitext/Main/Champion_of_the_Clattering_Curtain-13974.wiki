@@ -1,0 +1,32 @@
+==Overview==
+The Champion of the Clattering Curtain is an [[Imperial title]] awarded to a citizen of [[The League|the League]]. Construction of Martim de Tassato's Clattering Curtain Theatre was [[Construct_Clattering_Curtain_Theatre|proposed]] by '''Cesare Sanguineo Rezia Di Tassato''', as Senator for [[Tassato]]. The theatre is in [[Tassato#Tassato Mestra|Tassato Mestra]], at the dockside end of the Street of Pleasures.
+
+Though the full name of the title is ''Martim de Tassato's Clattering Curtain Theatre Champion'', locals have taken to shortening it to ''Champion of the Clattering Curtain'', or occasionally ''Martim's Champion'', if only to save some time.
+
+==Responsibilities==
+The Champion of the Clattering Curtain has a responsibility to ensure the Prosperity of the theatrefolk of the city of Tassato. The Champion is expected to encourage those new to the theatre by encouraging rehearsals and performances whilst at Anvil. Finally, if the theatre were to be threatened in any way, it would be the responsibility of the Champion to deal with those threats.
+
+==Powers==
+===Theatrical Income===
+The Clattering Curtain is a profitable theatre, and the Champion receives an income of 252 rings in profit each season.
+
+==Appointment== 
+The Champion of the Clattering Curtain is appointed by unanimous decision of the [[senator|senators]] of [[the League]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead. 
+
+The title can only be held by a citizen of the League. The Champion has [[tenure]], and serves until they die or step down. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the League [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--
+{{RecentElections|Champion_of_the_Clattering_Curtain}}-->
+==Clattering Curtain Theatre==
+The theatre was named after Domingo Martim de Tassato, famed for his acting, scriptwriting, directing, and leadership of The Masked Jackdaws of The Clattering Curtain. Martim is also known for his enthusiastic encouragement of new theatrical talent, running the Cosmo memorial theatrical prize competition for novice writers and performers at Anvil each year. As well as the main theatre stage, featuring stalls, circle seating and four private boxes, the theatre contains a second, much smaller, theatre which is often used for rehearsals, fondly known as Lucy’s Little Theatre. Lana's green room is available to performers for aftershow parties and is often booked for small theatrical gatherings.
+
+There are several workshops run at the theatre, including Kasimir’s Puppet & Costume studio, which involves script writing and lessons on puppeteering regularly led by Kasimir; and Bianca's writing salon, charmingly styled in pale blue with a butterfly theme, featuring many mirrors, a chaise longue and a writing table by the window. The standard range of dressing rooms is available backstage.
+
+There are four private boxes; each named after patrons of the theatre. The Jackdaws Nest, the Critic's View, Cesare's Rest, and the Golden Box of Summer each come equipped with indulgent seating and a selection of snacks and fine vintages suitable for the performance being observed.
+==Funding==
+Click ''Expand'' to see the list of contributions made to construct the Martim de Tassato's Clattering Curtain Theatre.
+<div class="mw-collapsible mw-collapsed">
+{{CommissionProgress|Construct_Martim_de_Tassato%27s_Clattering_Curtain_Theatre}}
+</div>
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:The League]]

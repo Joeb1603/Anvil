@@ -1,0 +1,52 @@
+==Overview==
+Foreigners are people that are not part of the Empire, that the Empire is not currently at war with. The Empire trades with many of these foreign powers, and may host delegations from them. Within the borders of the Empire, foreigners are protected by Imperial law and expected to adhere to it. Foreigners have no ability to directly influence the future of the Empire, but may have political agendas that guide their interaction with the players. The ritual [[Call Winged Messenger]] is often used to communicate with representatives of foreign nations, and Imperial [[ambassador|ambassadors]] may be appointed to represent the Empire in negotiations with them.
+
+==Foreign Neighbours==
+* '''There are a number of smaller nations neighbouring the Empire, some of which are enemies of Imperial citizens'''
+The Empire shares a continent with a number of adjacent powers, some stronger than others. Four powerful orc nations surround the Empire, the [[Jotun]], [[Druj]], [[Thule]] and [[Grendel]]. The nations of [[Axos]], [[Skoura]], [[Tsark]], and [[Faraden]] are small, each only a few territories at most. The [[Iron Confederacy]] is much bigger however and claims to be the Empire's equal in size and prominence. It may even be true. The Empire maintains careful diplomatic relations with most of these nations, including the Thule and the Grendel.
+
+Each of these nations maintains [[Army|armies]], and in the case of the Grendel and the Iron Confederacy [[navy|navies]] of their own. Though each has their own strengths and weaknesses, with the possible exception of the Iron Confederacy, they are not as powerful as the Empire. If the orc nations ever united their armies would outnumber the Empire, but for the most part the orc nations dislike each other even more than they dislike the Empire.
+
+It takes a fast sailing [[fleet]] a few weeks to make the journey to these foreign lands. In times of peace, the journey is relatively safe, but the [[Bay of Catazar]] is regularly threatened by Grendel pirates, making it a treacherous and difficult journey. In practical terms, the distances are short enough that they present significant logistical issues for a navy or an army, but it is possible for fleets and military units of any nation to move quickly to threaten one of their neighbours. 
+===Foreign Neighbours in play===
+Nations that are not part of the Empire but which are not [[barbarian]] are sometimes called 'local foreigners'. They are smaller than the Empire, and possess a level of influence and military power roughly on par with one or more Imperial nations. They tend to share borders with the Empire, and many are threatened by the same barbarians that threaten their Imperial neighbours.
+
+These nations speak the same tongue as the Empire, and engage in limited amounts of trade. This trade does not usually involve [[fleet|fleets]]; rather it could be represented with a [[business]], or role-played. Larger scale trades may be entered into but these would be the result of politics with non-player characters from the neighbouring nations.
+
+Each season, the Civil Service publishes a current summary of the relationship with the nations, based on communications received from their ambassador, if any, along with any useful intelligence. If the power has made any official overtures to the Empire, be they diplomatic, military or economic offers they will be included. While the Senate and the other great houses may use their powers to respond to these offers, it is important to note that it is the [[ambassador]] who the foreign power will expect to hear from. Their letter to the foreign power is the primary element that will determine the tenor of any response
+
+===Friendly Neighbours===
+The primary foreign neighbours of the Empire are:
+* [[Axos]], a magocratic nation that closed its borders some time ago and is only now beginning to emerge from self-imposed isolation. It lies to the east of [[Urizen]].
+* [[Faraden]], a hilly nation of traders with a long history of cooperation with the [[The Brass Coast|Freeborn]] that lies to the west of the Empire.
+* The [[Iron Confederacy]], a nation of feudalistic warlords who worship false gods, lying to the south of the Brass Coast.
+* [[Skoura]], a mountainous nation with rich mines and introspective citizens that lies to the south of [[Urizen]].
+* The [[Thule]] are dominated by their magicians, and engage in merciless asset-stripping of any lands they invade. They are found across the mountains to the north of [[Varushka]] in an area called [[Otkodov]].
+
+==Distant Nations==
+* '''The five other great powers, equivalent to the Empire, are the Asavean Archipelago, the Principalities of Jarm, the Commonwealth, the Sumaah Republic, and the Sarcophan Delves'''
+* '''These nations are all distant to the Empire, and do not speak Imperial as their primary language'''
+Most people acknowledge that there are six ''great powers'' that truly matter on the world stage - the Empire, [[Asavean Archipelago|Asavea]], the [[Principalities of Jarm]], the [[Commonwealth]], the [[Sumaah Republic]] and the [[Sarcophan Delves]]. The other five nations are all very different to the Empire and each other. They all have their own strengths and weaknesses, but each one is every bit as powerful as the Empire. This can make diplomacy with these five powers a challenging prospect for Imperial [[ambassador|ambassadors]]. 
+
+At best, the other great powers see the Empire as a rival or peer, so any attempt to browbeat them will usually trigger a blunt response. Each of these nations also maintains a large number of [[Army|armies]] and [[navy|navies]] of their own, with military might comparable to that of the entire Empire. Furthermore, each of these grand nations is surrounded by a myriad of smaller local allies and adversaries, just like the Empire has relations with [[Axos]], [[Faraden]], the [[Iron Confederacy]], or is threatened by the [[Jotun]] and the [[Grendel]]. 
+
+It takes a fast sailing [[fleet]] several weeks to make the journey to one of these distant lands. It is a treacherous and difficult journey that puts it well outside the range of a navy or an army, but it is possible for fleets and [[military unit|military units]] to make the trip if they are determined to involve themselves in the affairs of other nations. The Empire, for example, used its fleets and warbands to take part in the recent civil war in Asavea; to assault the satrapy of [[Mosaic|Chalonsio]], and to destroy the [[Burning|aerie of the slave lords]] in the northern [[The_seven_seas#Sea_of_Steel|Sea of Steel]]. Other powerful nations have similar resources, although - just like the Empire - they are often more interested in deploying these resources at home rather than abroad.
+
+===Distant Nations in Play===
+Distant foreigners primarily exist in downtime, although their representatives may attend events or enter correspondence with Imperial citizens. They represent nations that are on par with the Empire in terms of influence and capability - and in interest in worldwide events. They are all physically within four or five weeks of hard-sailing of the Empire (meaning a [[fleet]] can reach them and return in a single downtime period; this also means it is largely unfeasible to try and invade them or for them to invade the Empire).
+
+These nations do not speak Imperial as their primary language (although many citizens there will be familiar with the language). A number of other real-world language families are assigned to represent the languages of these foreign nations, and to the smaller independent nations that surround them.
+
+Each season, the Civil Service publishes a summary of the relationship with the foreign nation, based on communications received from their ambassador, if any, along with any useful intelligence gathered through other means. If the power has made any official overtures to the Empire, be they diplomatic, military or economic offers they will be included. While the Senate and the other houses of Imperial power may respond to these offers, it is important to note that it is the appropriate [[ambassador]] that the foreign power will expect to hear from. Their communication with the foreign power is the primary element that will determine the tenor of any response.
+===Great Powers===
+* The [[Asavean Archipelago]], an old and self-satisfied nation with a taste for luxury. The Empire is currently at war with Asavea.
+* The [[Sarcophan Delves]], a ruthless mercantile nation built in the ruins of a fallen civilisation.
+* The [[Principalities of Jarm]], a fractious magocracy known for exotic wonders and cut-throat politics.
+* The [[Commonwealth]], a comparatively young society founded on the principle of the greatest good for the greatest number of people.
+* The [[Sumaah Republic]], a secretive nation that shares the [[The Way|faith]] of the Empire but rejects the [[Synod]]
+
+The list is not exhaustive - there may be other foreign nations out there but they are neither important nor active enough to be trading partners for the Empire. There are also extensive nations beyond the "known world" of the Empire campaign - too far away for regular trade to exist with them.
+[[Category:The Empire]]
+[[Category:Foreign Nations]]
+[[Category:The World]]
+{{Foreign Nation Links}}

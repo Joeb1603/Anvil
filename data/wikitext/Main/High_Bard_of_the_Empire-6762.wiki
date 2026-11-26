@@ -1,0 +1,44 @@
+<quote by="Valentin Ivarovich Orzel, Senator Weirwater">The High Bard will embody the artistic spirit of the Empire and should carry songs in passion and courage to embolden and encourage our soldiers and should deliver spirit-crushing feats of satire and rebuke against the Barbarian Generals and our hated foes! By these means we will demonstrate the power of artistic inspiration from all our nations to weave glorious legacy through the deeds and example of our bright Imperial fellowship.</quote>
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Cat's Graces Sodality.png|caption=This title is appointed by the Cat's Graces|width=250px}}</div>
+The High Bard of the Empire is an [[Imperial Title|Imperial title]] appointed by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]]. It was [[Create_title_of_High_Bard_of_the_Empire|created]] by the [[Senate]] during the Winter Solstice 380YE summit. Following some [[Create_title_of_High_Bard_of_the_Empire#Constitution|controversy]], the title was [[Amend_powers_of_the_High_Bard|granted a stipend]] during the Summer Solstice of the same year.
+
+The title as first presented passed through the Senate during the Winter 380YE session, but there was some opposition from the [[Scrutiny|Constitutional Court]]. While the discussion continued, Kaywenn du Launcet was appointed the first High Bard and the situation was resolved in Summer 381YE.
+
+The title seems to court controversy; the first address by '''Kaywenn du Launcet''' took the form of a highly political song apparently lauding convicted criminal ''Dogri Thulebane'' of [[Wintermark]], and criticising the [[Varushka|Varushkan]] army of the [[Varushka_military_concerns#The_Army_of_the_Iron_Helms|Iron Helms]] who were [[381YE_Spring_Equinox_winds_of_war#Wolf_in_the_Fold_.28Skarsind.29|instrumental]] in his capture. It remains to be seen if this will create a trend for future addresses, and for future High Bards.
+
+The title was [[388YE_Spring_Equinox_Senate_sessions#Amend_High_Bard_of_the_Empire|amended]] during the Spring Equinox 388YE to remove a one throne stipend. The title was further amended as part of the motion that [[388YE_Spring_Equinox_Senate_sessions#Establish_Cat's_Graces|established]] the [[Cat's Graces]] during the Spring Equinox 388YE. Before the amendment, the title was previously appointed by the [[Assembly#Assembly_of_the_Nine|Assembly of Nine]].
+
+==Responsibilities==
+The High Bard is expected to leave a personal composition as a legacy. They are expected to keep the Senate appraised of matters of inspiration to the Empire, and to promote and encourage excellence and passionate demonstration of artistic performance across all the nations of the Empire. 
+==Limitations==
+{{CaptionedImage|file=Making Music.jpg|caption=The Imperial Bard embodies the artistic spirit of the Empire.|title=The first High Bard, Kaewynn de Launcet (L) makes music with Vivienne de Carsenere (R).|align=right|width=350}}
+===One Year Only===
+The High Bard serves for up to one year unless removed from office early. In addition, no person may hold the title of High Bard of the Empire more than once in their lifetime.
+==Powers==
+===Address the Senate===
+The High Bard has the right to make an address to the Senate once per summit. This is intended to allow them to keep the Senate appraised of matters of inspiration to the Empire, and may commonly take the form of an artistic performance. To use this power, the High Bard informs the Civil Service that they wish to address the Senate. Their address will be added to the agenda for the next [[Senate session]].
+
+===Seasonal Income===
+The High Bard receives an income of two thrones each season from work done at the [[Weirwater#Bardic_Academy|Bardic Academy of Ozren de Orzel]].
+{{CaptionedImage|file=high_bard.jpeg|caption=Song is not the only bardic medium. Poetry can cut with the sharpest satire. |title=Song is not the only bardic medium. Poetry can carry the sharpest satire. |align=right|width=350}}
+===Luxurious Apartments===
+The High Bard has access to a suite of luxurious rooms in the Bardic Academy in [[Weirwater]]. These chambers allow the High Bard to live a rich lifestyle marked by fine food, access to luxuries and exposure to cultural excellence from across the Empire.
+
+==Compositions==
+Artistic works by the various High Bards of the Empire may be found below:
+* [[Oranseri (Song)|Oranseri]] - a song by '''Malcón i Dyrelnos i Erigo'''
+* [[Much and More (poem)|Much and More]], [[Threads (poem)|Threads]], [[The Verdict of Our Enemies (poem)|The Verdict of Our Enemies]], [[Salvation (poem)|Salvation]], and [[On Freedom (poem)|On Freedom]] - poetry by '''Protectorate Rile'''
+* [[Show us the Way]], [[A Song for Lisabetta]], [[A Million Freed]] and [[A Horn Resounding (Song)|A Horn Resounding]] - songs by '''Tiana i Zaydan i Riqueza''' as requested by Dream-Singer - a herald of [[Lashonar]], who [[The_illusion_of_majesty#A_Song_for_the_Asking|requested four songs]] of the High Bard.
+* [[Little Folk of the Empire]] - a song by '''Irina Akulinovna Kotor''' for the celebration to commemorate [[Empress Lisabetta]]’s first year on the throne.
+{{CaptionedImage|file=Pjesmina Zbirka.jpg|caption='''Pjesmina Zbirka''', High Bard of the Empire|align=left|width=200}}
+==Appointment==
+The High Bard of the Empire is an [[Imperial title]] which is [[Appointment by sodality|appointed]] by members of the Cat's Graces. The expectation is that the appointment will follow "a public tournament of song and satire" that allows participants to demonstrate their suitability to the role in fair and open competition. There is no legal requirement for the Cat's Graces to arrange or acknowledge such a tournament, however. 
+__NOTOC__
+Any Imperial citizen may hold the title. The High Bard of the Empire serves for a year from when they are appointed. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+{{RecentElections|High_Bard_of_the_Empire}}
+
+[[Category:Senate]]
+[[Category:Title]]
+{{Cat's Graces further reading}}

@@ -1,0 +1,121 @@
+---
+title: Tromsa
+source: https://www.profounddecisions.co.uk/empire-wiki/Tromsa
+class: in-character
+topic: barbarians
+categories:
+- Gazetteer
+- Jotun
+last_edited: '2026-07-06T14:38:13Z'
+revision: 141345
+---
+
+# Tromsa
+
+*[Image: The Jotun-held territory of Tromsa.](https://www.profounddecisions.co.uk/empire-wiki/File:TromsaRegions.png)*
+
+## Overview
+
+Tromsa is part of Kalsea, the northern kingdom of the Jotun, which is ruled by Yrsa Jansdóttir, Queen of Kalsea, Jarl-of-Jarls. It borders [Bryadvik](../world/Sea_of_Snow.md#bryadvik), [Skallahn](Skallahn.md), and [Sermersuaq](../nations/wintermark/Sermersuaq.md) whilst its northern limits are formed by the great ice storm of Sydanjaa, rugged mountains and vicious seas. The landscape is generally rugged and windswept, usually cold and exposed to the elements in most places, with rock glaciers jutting up across the territory.
+
+The coastline itself is rocky with intimidating fjords, composed of narrow winding inlets running between the steep cliffs, leaving precious few spots that are accessible to ships. Much of the landscape is wild pasture grazed by vast herds of long-haired cattle or sheep, tended to by thralls. Every settlement on the coastline has a watchtower built of [white granite](../../mixed/economy/White_granite.md), some of which are fifty to sixty feet high. Each of the regions is ruled by a jarl, ready to call a [fyrd](Jotun.md#warriors-of-the-jotun) if it is lost.
+
+Information on the territory was gathered by [fleet](../../out-of-character/rules/Fleet.md) captains using the [smugglers cove](../senate-motions/Construct_Smugglers_Cove_in_Tromsa.md) commissioned by **Fedelmidd Sydanjaa's Heart Floer**, senator for [Sermersuaq](../nations/wintermark/Sermersuaq.md), during the Winter Solstice 386YE.
+
+## Points of Interest
+
+### Oksenesfestsal
+
+The mountains of Tromsdalen are part of the same range as [Eyrarfell](Skallahn.md#eyrarfell), and on their eastern edge stands the *Oksenesfestsal*, a commanding [fortification](../../out-of-character/rules/Fortification.md) that also serves as the seat of the Jarl of Tromsa. The castle is massive – a match for the [Castle of Thorns](../nations/dawn/Astolat.md#the-castle-of-thorns) in [Astolat](../nations/dawn/Astolat.md) – although there are signs that it has been expanded to its current size only within the last few years. There are also signs that the structure is reinforced with [adamant](../../out-of-character/rules/Summer_magic.md#adamant) – the same almost indestructible stone of the Summer realm used in the construction of [the Adamant Gate](../nations/dawn/Semmerholm.md#the-adamant-gate) in [Semmerholm](../nations/dawn/Semmerholm.md), or the [Court of the White Fountain](../nations/urizen/Redoubt.md#court-of-the-white-fountain) in [Redoubt](../nations/urizen/Redoubt.md). Three high towers surmount a massive curtain wall; the highest fashioned after the horned head of a massive aurochs. Serpentine dragons coil around the other two towers, giving a strong indication that this fort has been constructed in part at least with the aid of the [Stone King](../eternals/Adamant.md).
+
+Oksenesfestsal has the unbreakable quality; this means that it cannot be brought below 1,000 strength by mortal means. It can be captured, but not destroyed.
+
+### Veerkarsa
+
+Veerkarsa is the largest settlement in the territory; a city in the lee of snow-capped mountains. It has no harbour or port facilities, but its lighthouse is always burning. The mountains are the highest point for miles around, and there are well-worn, guarded paths from the city up to substantial mining operations.
+
+### Skaldi's Watch
+
+In western [Nemford](#nemford) lies the white granite quarry known as Skaldi's Watch. According to local myths, the last act of Skaldi - the popular faðir worshipped by the [Skjaldir](Elite_Jotun_troops.md#skjaldir) - was to bury her axe deep in the ground. For generations, the Jotun have sought the axe, sure in the knowledge that once it is recovered, a great champion will come forward to claim it.
+
+Estimates suggest Skaldi's Watch provides 22 wains of white granite each season.
+
+### Lake Karnakadatha
+
+A massive body of water similar to those found in Sermersuaq that lies on the border between the Skyfall Wastes and Tsirku. The waters here are significantly warmer than those in the rest of the region, and numerous small settlements dot its shores. The main industry here is fishing, but that is not the reason that the Jotun maintains several watchtowers and a force of warriors here. The lake was apparently formed long ages past when the Northern Lights apparently caused a fragment of a star to fall and destroy the castle of a prideful Jarl. [Star metal](../../out-of-character/rules/Ilium.md) is commonly pulled from the depths of the lake, or found in the bellies of fish. Some of those fish are apparently very odd indeed. Both strange fish and star metal are sent south, to be used by the Jotun smiths, and are apparently the main reason Skyfall is settled at all.
+
+Estimates suggest Lake Karnakadatha provides 9 rings of ilium each season.
+
+### Faded Watchers
+
+Along the northern coast, there are stone figures carved from white granite. Each is twice the height of an orc or a human, and most are covered with moss and lichen. It is impossible to tell what the statues are meant to depict, but they look nothing like an orc or a human.
+
+## Regions
+
+*[Image: TromsaStrategic.png](https://www.profounddecisions.co.uk/empire-wiki/File:TromsaStrategic.png)*
+
+### Icewood
+
+**Quality:** Forest  
+This sprawling region runs the length of the Sermersuaq border. It is a vast wild land whose hills are covered in a cloak of ancient, black-barked trees – pine, fire, [beggarwood](../../out-of-character/rules/Materials.md#beggar27s-lye), and spruce. There are few roads, and predatory dire beasts which lurk in the depths of the forest. Scouts often find themselves in dreadful life-or-death struggles with dire wolves, a behemoth ice bear, or even stranger creatures. The population is mostly thralls in scattered villages who hunt the beasts of the forest – including the immense darkhide dire elk - or gather ambergelt and dragonbone from among the trees. The overwhelming majority are orcs - there appear to be very few human thralls in the Icewood. The weather here is very cold; even the Winterfolk are a little unprepared for just how sharp the fangs of these northern winds prove to be.
+
+There is a peculiar area in the north of the region, a fane, which is claimed as the domain of *Fiksuvaris, Raðljóst's Guide* - another name for the [eternal](../eternals/Eternal.md) [Wise Rangara](../eternals/Wise_Rangara.md).
+
+The region is ruled by *Jarl Bjørnda Bearcrusher*, a doughty Jotun who, it is said, once crushed an ice-bear's head with her bare hands.
+
+### Tromsdalen
+
+**Quality:** Hills  
+West of Rikskog lies Tromsdalen. The region is rough and hilly, with perpetually snow-capped and cloud-wrapped mountains to the west. It is nestled between these high peaks, and the great Mount Majastind that lies in the centre of Tromsa. The mountains of Tromsdalen are part of the same range as [Eyrarfell](Skallahn.md#eyrarfell), and on their eastern edge stands the *[Oksenesfestsal](#oksenesfestsal)*, a commanding [fortification](../../out-of-character/rules/Fortification.md) that also serves as the seat of the Jarl of Tromsa, *Igya Olgafsdottir.*
+
+### Majastind
+
+**Quality:** Hills  
+A mountain rises in the heart of Tromsa from a skirt of lightly wooded hills. Mount Majastind gives the entire region its name. The [Kirkja](Elite_Jotun_troops.md#the-kirkja) of Ulvenwar built on its slopes is also the hall of the Jarl - *Moltke Myhren* is said to combine the calling of a warrior and a [ghodi](Elite_Jotun_characters.md#ghodi), dedicated to the name of the eldest of the faðir, and in their youth was one of the most devastating champions of the Jotun.
+
+There are many shrines here, dedicated to the name of Ulvenwar. Every thrall settlement has an image of the Jotun ancestor at its heart, usually a monolithic stone carved to suggest a great orc or bear, or a combination of the two.
+
+One type of plant is spotted repeatedly in the wooded hills surrounding Mount Majastind. Its dark red stalks rise among the trees, as tall as an orc and wide as a Mestran thigh, that end in wide, inedible leaves. The stalks themselves are edible - if bitter and sour - and careful communication with thralls suggests that the plant is found across Kalsea, but grows better in the cold and wet of central Tromsa.
+
+### Rikskog
+
+West of Icewood and south of Skyfall Waste, lies Rikskog. Heavily forested in the east, the region becomes flatter and more open as one travels westward. Thralls tend actual farms - though a Marcher might scoff at the hardscrabble life that amounts to agriculture here. The soil is hard and cold, and most of the thralls focus on raising herd animals rather than trying to grow crops.
+
+There are also a large number of burial mounds here – noticeably more than the Imperial armies have encountered elsewhere in northern Jotun lands. The thralls barely cooperate with the Imperial soldiers, but share a few stories of the long-ago battles between the Jarls of Skallahn and Tromsa. It seems these two territories have not always been so closely allied, although the stories strongly imply that these conflicts ended before the fall of Terunael. These ancient battles may have explained the presence of Viheltavathorn; the hall of the Jarl of Rikskog was a heavily fortified tower surrounded by a small town. The fortification was destroyed by invading Imperials in their pursuit of Mathilda Fisher.
+
+### Skyfall Waste
+
+**Quality:** *Skyhaunted*  
+West of Icewood, north of Rikskog, is the Skyfall Waste. A storm-swept tundra where no trees grow, even more sparsely settled than the Icewood. At night the [northern lights](../nations/wintermark/Sermersuaq.md#northern-lights) are clearly visible in the clear skies, and it is common year-round to awaken to frost on the ground and flurries of snow. All the orcs encountered here wear sigils, marked with the rune [Diras](../../mixed/magic/lore/Diras.md) which they grudgingly explain hide them from the attention of the twisting ribbons of ice, and from the wicked spirits that sometimes come down from the north with the howling winds. Travel far enough north across the Skyfall Waste and one finds Tsirku, and the endless storm of Sydanjaa. [Lake Karnakadatha](#lake-karnakadatha) is found here and seems to be the main reason there is *any* settlement here.
+
+Jarl *Hodne Hodnesson* has a lightly fortified hall, built atop an artificial mound, in the southern part of the region. Considered something of a mystic in Jotun terms, the jarl is reportedly a keen "*wolkenseer*", who reads signs in the shape of clouds and how birds cross them.
+
+### Mjosa
+
+**Quality:** City, Hills  
+The north of Mjosa is dominated by high mountains, capped with snow even in the height of summer. In the lee of the highest mountain lies the large town of Veerkarsa, roughly equal in size to Meade or Cargo and by far the largest settlement in the territory. The rest of the region is dedicated to mining, with caravans - or skids when the snow and ice cover the land - threading through the hills carrying the wealth of the mountains.
+
+The Jarl of Veerkarsa, *Freydaer Karsarbairn*, has only recently come into their position. The former jarl and her heir fell shortly before Autumn 384YE, during the Imperial [reclamation](../winds-of-war/A_wandering_fire.md) of Sermersuaq, and *Freydaer* was chosen by the lesser jarls of the region.
+
+There is no easy access to the Sea of Snow from Mjosa. The cliffs are high, and the waters below are scattered with sharp rocks and are hunted by the monsters that make the western sea their home.
+
+### Nemfjord
+
+**Quality:** Coastal  
+The coastline of Nemfjord is thoroughly extended by the vast fjord that gives the region its name. A dozen small settlements are scattered along the fjord; small farmsteads tended by thralls who supplement their crops with fish from the fjord. To the west of the fjord, near the border with Bryadvik, lies Skaldi's Watch, a rich quarry that provides white granite and good quality stone to the Jotun.
+
+Nemfjord is ruled over by Jarl *Jorund the Watchful*, who has dominated the region for almost fifty years. The gregarious warrior is well-loved by thralls and jotun alike for his readiness to respond to threats and generosity with gifts.
+
+## OOC Notes
+
+- This information is correct as of the Summer Solstice 387YE
+- Every region of Tromsa belongs to the Jotun; this is a Jotun territory
+- [Oksenesfestsal](#oksenesfestsal) is a rank three [fortification](../../out-of-character/rules/Fortification.md)
+
+## Further Reading
+
+- [A tale told](../winds-of-war/A_tale_told.md) - 385YE Autumn wind of war about the Empire's invasion of Tromsa
+
+---
+
+Categories: [Gazetteer](../../indexes/by-category/Gazetteer.md), [Jotun](../../indexes/by-category/Jotun.md)

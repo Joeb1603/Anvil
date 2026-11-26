@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:387YE Summer]]
+__NOTOC__
+<quote by="Proposed: Astolat, Seconded: Mitwold">For the restoration of the throne room in the Castle of Thorns within Withy, Astolat, which is a fortification. The cost of the restoration will be 15 white granite and 45 crowns. This has been secured with thanks to the Castellan of Spiral Castle and houses of Dawn. When consecrated with true liao, the work will generate historical research into the early monarchs of Dawn. This work will take three months to complete</quote>
+==Overview==
+* Amends [[Astolat#The_Castle_of_Thorns|the Castle of Thorns]] in Withy, Astolat, to restore the throne room
+* Passed
+* More information can be found in the '''[[Dog_days_are_over#The_Throne_of_Glory|Dog days are over]]''' wind of fortune
+
+==Date==
+* Summer 387YE
+
+==Cost==
+* Costs as per opportunity
+* 15 white granite
+* 45 crowns 
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Restore_the_Throne_Room}}
+==Outcome==
+* Now complete, it will reduce the cost to upgrade [[Dawn|Dawnish]] [[congregation|congregations]] by one white granite for a year (to a minimum of one wain)
+* ''Hugh de Veran'' will complete and publish [[historical research]] concerning the pre-Imperial [[Dawn monarchy|monarchs of Dawn]]

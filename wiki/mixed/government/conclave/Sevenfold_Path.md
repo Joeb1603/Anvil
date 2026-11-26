@@ -1,0 +1,88 @@
+---
+title: Sevenfold Path
+source: https://www.profounddecisions.co.uk/empire-wiki/Sevenfold_Path
+class: mixed
+topic: government/conclave
+categories:
+- Conclave
+- Conclave order
+last_edited: '2026-08-25T12:07:34Z'
+revision: 144183
+---
+
+# Sevenfold Path
+
+## Motto
+
+*Let all power be guided by virtue.*
+
+## The Manifesto
+
+The Order of the Sevenfold Path holds the following to be true:
+
+- Magic should work in harmony with, and to promote, the fulfilment of the destiny of Imperial citizens.
+- The Conclave and Synod can most effectively protect the Empire from hazards, and subversive elements, by working in harmony and unison
+- The Way of Virtue binds the Empire together and should inform all use of powers, including magic
+
+The Order of the Sevenfold Path exists to:
+
+- Encourage use of magic in understanding, and supporting, human destiny and the destiny of orcs and other peoples.
+- Ensure the powers of the Conclave are deployed in line with the Way of Virtue
+- Build a bridge between the Conclave and the priests of the Synod
+
+Prior to the Spring Equinox 385YE, the wording of the Order's goals focused on human destiny only. The Senate [amended](../../../in-character/senate-sessions/385YE_Spring_Equinox_Senate_sessions.md#amend-manifesto-of-sevenfold-path) the goals, following the request of the order itself, to make it clear that they would understand and support orcs, as well as humans.
+
+*[Image: Order of the Sevenfold Path](https://www.profounddecisions.co.uk/empire-wiki/File:OrderSevenfoldPath.jpg)*
+
+## Symbol
+
+A symbol that has been used by the Order in the past has been a seven-spoked wheel with each of the triangles between the spokes coloured differently with one of the colours of the rainbow.
+
+*[Image: Virtue and power](https://www.profounddecisions.co.uk/empire-wiki/File:Sevenfold_path.jpg)*
+
+## Membership of the Order
+
+This is the order that contains the largest number of magician-priests, and many of its members also vote in the [Synod](../synod/Synod.md). Some wags have dubbed the Sevenfold Path as the "*Magicians' Assembly*". Even those members who do not also sit in the Synod tend to be politically active. Most members take their self-appointed task encouraging their fellow magicians to keep to the Way very seriously. At the very least, they have a great deal of interest in ensuring that the [archmages](../../titles/Archmage.md) and their fellow [grandmasters](../../titles/Grandmaster.md) are virtuous. With the Synod unable to revoke titles in the Conclave, the Sevenfold Path traditionally see part of their role as using the [Declaration of Candidacy](Candidacy.md) to ensure corrupt or heretical citizens do not rise to high office in the Conclave. Likewise, they take the [Declaration of Sorcery](Sorcery.md) very seriously and seldom balk at using it to remove power from those they consider to be a threat to the stability of the Empire. Finally, this is the order that has historically made the most use of the [Declaration of Interdiction](Interdiction.md) to protect the souls of their fellow citizens from dubious magic.
+
+Devout magicians are joined in this order by magicians who genuinely seek to ensure the future of the Empire. In recent years several [Imperial Orcs](../../../in-character/nations/imperial-orcs/Imperial_Orcs.md) have joined the order. This led some members to quietly agitate for a change to the manifesto; originally the first point mentioned *human destiny* rather than the *destiny of Imperial citizens.* Following a [Declaration of Concord](Declaration.md#declaration-of-concord) by the Conclave, a motion was brought before the Senate and the wording [changed](../../../in-character/senate-motions/Alter_manifesto_of_Sevenfold_Path.md) to recognise that not all Imperial citizens are humans. Most orc members appear unconcerned, both with the change and the original wording, although it has (perhaps predictably) outraged some traditional members of the Order. A vocal minority claim that with this change of emphasis, the Order is no longer concerned with the wider destiny of humanity but solely with the destiny of the Empire - a narrowing of vision that could be seen at best as cowardice and at worst as betraying the original spirit of their Order.
+
+The Order of the Sevenfold Path has traditionally chosen grandmasters who are strong in virtue and faith, usually priests. Of all the orders, the Sevenfold Path tends to have the worst access to crystal mana as many of its members are leaders of a [congregation](../../../out-of-character/rules/Congregation.md), rather than controlling a [mana site](../../../out-of-character/rules/Mana_site.md). Consequently, the order is usually more measured in the addresses and declarations raised.
+
+One particular ritual that often receives special attention from the Sevenfold Path is [Mantle of the Golden Orator](../../magic/rituals/Mantle_of_the_Golden_Orator.md). This ritual allows the Sevenfold Path to directly aid their allies in the Synod; they know the value of giving a larger voice to those priests who speak in support of the Conclave and of magicians in general.
+
+## Conclave vault
+
+Each summit, the [Conclave vault](Conclave_vault.md) of the Sevenfold Path garners a pro rata share of the [Font](Conclave_vault.md#crystal-mana) based on the [precedence](Conclave.md#principle-of-precedence) of the orders at the previous summit; a portion of [ilium](../../../out-of-character/rules/Ilium.md) based on their [position](Conclave_vault.md#ilium) among the orders as determined by precedence; and additional materials due to outstanding bequests.
+
+- Three measures of [iridescent gloaming](../../../out-of-character/rules/Materials.md#iridescent-gloaming) come from the [hakima](../../../in-character/nations/the-brass-coast/Hakima.md) of [the Brass Coast](../../../in-character/nations/the-brass-coast/The_Brass_Coast.md) as a gift which has been collected by the Silver Rivers hakima since 81YE and will continue to be delivered for as long as the order continues to encourage the use of magic in understanding, and supporting, human destiny.
+- Two measures of [beggar's lye](../../../out-of-character/rules/Materials.md#beggar27s-lye) come from the Vale of Burning Tears in thanks for breaking a [sovereign's](../../../in-character/nations/varushka/Varushkan_Monster.md#sovereigns) curse during the reign of [Empress Aenea](../../../in-character/history/Empress_Aenea.md).
+- Three measures of [dragonbone](../../../out-of-character/rules/Materials.md#dragonbone) come from the tenders of the corpse glade associated with the [Heartwood of the Great Vale](../../titles/Heartwood_of_the_Great_Vale.md) since 362YE. The dragonbone was unearthed when digging graves for the odd corpses found in the weirwood trees and according to rumour the local workers consider it to be "ill-omened".
+- Ten vials of [liao](../../religion/Liao.md) from the [Sumaah Republic](../../../in-character/foreign-nations/Sumaah_Republic.md) for the [dissemiantion](../../../in-character/conclave-sessions/386YE_Summer_Solstice_Conclave_sessions.md#dissemination-hammers-of-the-brilliant-shore) of the [Hammers of the Brilliant Shore](../../magic/rituals/Hammers_of_the_Brilliant_Shore.md) during the Summer Solstice 386YE.
+- Four [star jewels](../../economy/Trade_goods.md#star-jewels) from the [Convocation of Virtue](../../../in-character/winds-of-fortune/Full_circles.md) for as long as Jarmish pilgrims of the Way are welcome at the [Wayward House](../../../in-character/senate-motions/Construct_Wayward_House.md)
+
+*[Image: Elagabala , Grandmaster of the Sevenfold Path](https://www.profounddecisions.co.uk/empire-wiki/File:Elagabala_Preaching.jpg)*
+
+| Summit | Nation | Elected |
+| --- | --- | --- |
+| Spring Equinox 388YE | Urizen | Elagabala |
+| Spring Equinox 387YE | Urizen | Elagabala |
+| Spring Equinox 386YE | The League | Rafael Barossa d'Apulian |
+| Spring Equinox 385YE | The League | Rafael Barossa d'Apulian |
+| Spring Equinox 384YE | The League | Rafael Barossa d'Apulian |
+| Winter Solstice 383YE | The League | Rafael Barossa di Tassato |
+| Spring Equinox 383YE | Dawn | Fenoren Aleyne |
+| Spring Equinox 382YE |  | Zephaniah of Felix's Watch |
+| Spring Equinox 381YE |  | Zephaniah of Felix's Watch |
+| Spring Equinox 380YE |  | Zephaniah of Felix's Watch |
+| Spring Equinox 379YE |  | Jessica |
+| Spring Equinox 378YE |  | Jessica |
+| Spring Equinox 377YE |  | Jessica |
+| Winter Solstice 376YE |  | Jessica |
+
+## Grandmaster
+
+Each [Conclave order](Conclave_order.md) is led by a [grandmaster](../../titles/Grandmaster.md) who is elected by their members. This title is currently held by Elagabala; it will be reelected at Spring Equinox 389YE. The table to the right shows the citizens who have been elected as grandmaster of the order in the years since [Empress Britta](../../../in-character/history/Empress_Britta.md) died.
+
+---
+
+Categories: [Conclave](../../../indexes/by-category/Conclave.md), [Conclave order](../../../indexes/by-category/Conclave_order.md)

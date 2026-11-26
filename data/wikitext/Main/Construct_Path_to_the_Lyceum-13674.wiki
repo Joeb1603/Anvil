@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:388YE Spring]]
+__NOTOC__
+<quote by="Announced by Amalia Vicente, Arcane Architect">Build that Path to the Lyceum. Costs 15 weirwood, 5 rings of ilium, 45 crowns in labour costs. Self-funded by Dean of the Lyceum
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Oranseri, Feroz, as per the '''[[Sound_and_vision#A_Gate_of_Mists|Sound and vision]]''' wind of fortune.
+* Announcement by the [[Arcane Architect]]
+
+==Date==
+* Spring 388YE
+
+==Cost==
+* Costs as per opportunity
+* 15 wains of weirwood
+* 5 rings of ilum
+* 15 crowns in labour costs (reduced by the [[Region_qualities#Impoverished|impoverished]] nature of Fontargenta)
+* Three months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Path_to_the_Lyceum}}
+==Outcome==
+* Now complete, the Path to the Lyceum has restored the connection between Oranseri and the [[Dean_of_the_Lyceum#The_Lyceum|Lyceum]]

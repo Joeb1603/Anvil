@@ -1,0 +1,41 @@
+[[Category:Winds of Fortune]][[Category:388YE Autumn]][[Category:Highest Calling]]
+<ic>"Look, more money means that more people will want to do the work!" Marcelo was right about this; he was sure of it. 
+
+"That's all well and good, but you're talking about another hundred thrones in labour costs alone just from the wains provided last season!" Matthias didn't disagree that more architects and labourers would be good, but they weren't sure that Marcelo had checked the numbers.
+
+"Sure, but you have to point out that there's a fully funded army in there. Second, yes it would cost more thrones but so does anything. This is why I never take the jobs to build in marshes, by the way, I hate having to do the extra numbers to take into account hauling through the slop." Marcelo liked numbers when they made sense, like the dimensions of a room or how dig to sink foundations to keep a tower from collapsing, but Matthias had always had a better head for these kinds of numbers.
+
+"I'm not saying don't suggest it, I'm just saying don't be upset if the General Assembly don't accept it."</ic>
+<div style="float:left; width: 250px; clear: right; margin: 15px;">{{CaptionedImage|file=Assembly Prosperity.png|align=right|width=2000}}</div>
+==Overview==
+__TOC__
+When Feroz was reclaimed by the Empire, it was clear that the ruthless leadership of Governor Rahab had driven the territory to financial ruin. Some suspect that Rahab had been tasked with squeezing every ring he could from the populace, selling herds that had been raised over generations for quick money. Aided by the [[Send for me|appraisal]] proposed by '''Lizzie Stamp of Bildewold''', as then [[Bregasland|Senator for Bregasland]], the Freeborn and the rest of the Empire have already managed so much - it's hard for some to imagine now that the docks of Oran were once in such a state of disrepair that all but the smallest of ships were forced to wait for days for a berth. 
+
+But more can always be done! The Prosperity Assembly have encouraged the Prosperous to make the journey to Feroz and see what can be shared with those who need it. This has spurred its own response, ''Marcelo i Porfirio i Guerra'', a Freeborn architect argues that what the Empire really needs is further investment in the nation's labourers and architects to draw more people to these jobs.
+
+==A Fair Wage==
+{{SOP|statement=Let none in our Empire be left without! We send Katya Vasillova Reznikov with 25 doses of liao to Feroz to ensure that all that is worthwhile is shared with those who need it.|by=Ivana Petara Vodjavic, Prosperity Assembly|vote=Upheld 221-10|when=Summer 388YE|size=small}}
+* '''The Prosperous have spent the last season toiling in Feroz to provide what aid they can'''
+* '''The Prosperity Assembly can enact a mandate to encourage investors in Feroz to pay more, removing the abandoned quality from Oranseri and Afarjasse'''
+During the Spring Equinox, the Prosperity Assembly made [[the highest calling|their highest calling]] clear with a statement of principle raised by '''Heilyn Bronwen's Rest''', former [[Basilisk of the Bourse]] and [[Roll_of_Benefactors#Heilyn_Bronwen's_Rest|Benefactor of the Empire]]. Last season, the assembly upheld a [[388YE Summer Solstice Synod judgements#Judgement 74|mandate]] raised by '''Ivana Petara Vodjavic''', the [[Prelate of the Little Mother]], to send '''Katya Vasillova Reznikov''', the [[Gatekeeper|Gatekeeper of Prosperity]], to Feroz to help the territory rebuild. 
+
+The most immediate problem to face is that a large portion of the territory still feels [[Region qualities#Abandoned|abandoned]] by the Synod. Such a thing would need to be addressed, and ''Ivan Veralova Esskvich'' has drawn inspiration from the [[386YE_Winter_Solstice_Synod_judgements#Judgement_80|statement of principle]] of '''Vivane Knotes''' upheld by the Prosperity Assembly during the Winter Solstice 386YE to propose a mandate that would do just that.
+
+{{Mandate|assembly=Prosperity Assembly|mandate=Those who strive and toil deserve their just rewards. We send {named priest} with 25 doses of liao to encourage those investing in Feroz to sow the seeds of a true garden.}}
+
+If this mandate is enacted, it will immediately remove the abandoned quality from both Oranseri ''and'' Afarjasse. At the same time, it will increase the labour costs for all new commissions in Feroz to four crowns a wain starting at the Winter Solstice 388YE, until no region in the territory has the [[Region qualities#Impoverished|impoverished]] quality. This ''would'' improve the lives of those who live in Feroz; increasing the amount of money flowing through Feroz to those who stayed and those who have returned. It would steadily increase the number of people settling in the territory, but would not remove the impoverished quality from Oranseri or the Cazar Straits.
+
+==What's Good for the Goose==
+{{SOP|statement=The Prosperity Assembly wish to encourage the citizens of Feroz to not accept poverty wages. Those who can pay for services, should. The people of Feroz should not accept a lesser payment for the same works in Casinea or anywhere else.|by=Mabel, Prosperity Assembly|vote={{GM}} 225-0|when=Summer 388YE|size=small}}
+* '''One Freeborn architect has suggested that the General Assembly could encourage increasing the wages of labourers and architects across the Empire'''
+* '''The mandate would permanently increase the labour costs for all commissions to four crowns per wain'''
+* '''It would increase the number of commissions available to the Senate to fourteen'''
+One Freeborn architect, ''Marcelo i Porfirio i Guerra'', has been inspired by the [[388YE_Summer_Solstice_Synod_judgements#Judgement 112|statement of principle]] raised by '''Mabel''' during the last summit. ''Marcelo'' believes that the suggestion of Ivan Veralova Esskvich is good - that the people of Feroz are clearly deserving of more help - but it should also be true that ''<u>nobody</u>'' should accept a lesser payment for the same work in Casinea as in Feroz. 
+
+''Marcelo'' has been happily utilised by the civil service for almost a decade, brought on just before the [[Civilian commissioner|Civilian Commissioners]] were abrogated, and has enjoyed his time working on the variety of commissions passed by the Senate. The labourers and architects who work to build the Empire's commissions are not badly paid by any means but any increase in wages would be bound to attract more people to the profession.
+
+{{Mandate|assembly=General Assembly|mandate=No one knows what the morrow holds, but most can agree on the worth of investment. We send {named priest} with 200 doses of liao to those investing in the future of the Empire to share with those who deserve it.}}
+
+If this mandate is enacted, it will permanently increase the labour costs for ''all'' commissions to four crowns a wain. This would only take effect for commissions that were passed or announced starting from the Winter Solstice 388YE - those already underway would not have their costs increased, but it '''would''' affect existing opportunities that had not yet been commissioned. In addition, the increase in available funds will see a surge in enthusiastic labourers and architects, increasing the [[Commission#Maximum_Commissions_Available|number of commissions]] available to the Senate by two, to fourteen. Of course, if the mandate is not enacted with a greater majority, it won't affect commissions wholly in [[Varushka]], [[Urizen]], or [[Wintermark]] territories, but if that were the case, there would almost certainly be an opportunity in each of those three national assemblies to enact a similar mandate.
+
+Interestingly, this mandate would not affect [[Feroz]] due to its populace's feeling of being [[Region qualities#Abandoned|abandoned]], only the mandate before the Prosperity Assembly can enact change in that territory. If both mandates are enacted, then the increase in labour costs in Feroz would not decrease once all regions lost the [[Region_qualities#Impoverished|impoverished]] quality; it would also be a permanent change.

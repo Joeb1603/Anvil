@@ -1,0 +1,35 @@
+==Overview==
+The [[Senate]] can grant the authority to appoint an [[Imperial title]] to an [[Imperial sodality|sodality]] provided the responsibilities of the title align with the responsibilities of the group. In some cases, the ''only'' constitutional way to appoint a position may be election by members of a sodality. 
+
+==Election==
+* '''The civil service will schedule elections for any title due to be appointed by a sodality'''
+* '''Any member of the sodality may propose themselves or another eligible citizen for the position'''
+* '''The candidate that receives the most votes is elected to the position'''
+* '''A sodality can appoint Imperial and national positions'''
+* '''Candidates do ''not'' need to be members of the sodality'''
+
+Any Imperial office which is elected by a sodality must either have tenure or be elected on an annual basis. The civil service will automatically schedule an election at the ''following'' summit whenever a title becomes vacant for any reason. A sodality can only appoint a title at a [[Imperial_sodality#Sessions|legal session]]. This will be scheduled by the civil service whenever it is needed.
+
+At the start of an election, the civil service invite any member of the sodality to nominate a candidate if they wish. After all nominations are concluded there is a short period for any candidates present, to speak and answer questions, then the matter proceeds to a vote. Candidates do ''not'' need to be a member of the sodality - but they ''must'' be proposed by a member of the sodality. A member can propose themselves.
+
+The sodality may appoint any Imperial title, regardless if it is a national or Imperial position. Any citizen may hold an Imperial position; only citizens of the appropriate nation are legally entitled to take up a national position. Every member of the sodality is eligible to vote regardless of nationality.
+
+Each member of the sodality has a single vote to cast in each election. They may only cast their vote if they are present, a proxy cannot vote in a sodality on behalf of a citizen. Whichever candidate obtains the most votes is successfully elected to the position.
+
+Some Imperial positions are held for a year. This means that the citizen serves for up to a year from the summit where they were appointed. Such a position becomes eligible for reappointment at the equivalent summit one year later. The sodality may pass a motion of appointment at any time during that summit. The incumbent remains in position until they are replaced or the end of the summit - whichever comes sooner. 
+
+Other Imperial titles have [[Imperial_title#Term_of_office|tenure]]. The title is held until the citizen dies or steps down.
+
+==Removal==
+Imperial positions are subject to [[revocation]] by the [[Assembly#General_Assembly|General Assembly]] and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]] of the [[Synod]]. The position becomes vacant immediately.
+
+National positions are subject to revocation by the General Assembly, Assembly of Nine, and the appropriate [[The_Assemblies_of_the_Synod#The_National_Assemblies|National Assembly]] of the [[Synod]].
+
+==Speaker==
+A sodality must have someone who can be a mouthpiece for the sodality, with the responsibility to represent their views to other parts of the Empire, to recruit new members, and to advance the sodality's goals and the members' interests. The position ''must'' be elected by members of the sodality, and unlike other appointments, candidates must be members of the sodality in question.
+
+A new Imperial title is automatically created when a sodality is recognised by the Senate. By default the position would be "Speaker for the ''the sodality" but the Senate motion may explicit set a more appropriate name if they choose.
+
+The Speaker is '''not''' in charge of the sodality - the constitution prohibits the Senate from giving any member of a sodality authority over other citizens. 
+
+{{Sodality Further Reading}}

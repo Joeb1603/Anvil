@@ -1,0 +1,4 @@
+{|
+|-
+|style="color:gray; font-size:50%; text-align:center;"|''This article is about {{{1}}}. For {{{2}}}, see [[{{{3}}}]].''
+|}

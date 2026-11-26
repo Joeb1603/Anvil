@@ -1,0 +1,171 @@
+---
+title: The virtue of sharing
+source: https://www.profounddecisions.co.uk/empire-wiki/The_virtue_of_sharing
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 383YE Winter
+- Recent History
+- Mandate
+event: 383YE Winter
+last_edited: '2026-01-22T02:06:06Z'
+revision: 133554
+in_character_boxes: 13
+---
+
+# The virtue of sharing
+
+> *In-character text:*
+>
+> Noelle plucked cautiously at the third string on her lute. It was definitely out of tune. Adventuring in Brocéliande might be glorious for the knights of Dawn, but it was a terrible fate to befall a troubadour. Dank clouds of muggy fog rolled unpredictably through the trees playing havoc with her tunings. It appeared the vallorn hated good music almost as much as it hated people.
+>
+> She looked across to where her companion, Cerise was sharpening her sword with a whetstone. Glory takes many forms, but Cerise was what most folk imagined when they talked of the Dawnish. As tall as any man with shoulders broad enough to put a bear to shame, the great sword she was maintaining was so big, Noelle could barely lift it. The two had been fierce friends for years, ever since Cerise passed her Test of Mettle by defeating the Earl de Boisver's champion in single combat. They'd adventured together through Semmerholm, and the Barrens, and now they were here in this dark forest.
+>
+> "Will they come do you think? The armies?" Cerise asked, as much to make conversation as anything. She knew Noelle was working on a new piece, but there was no chance her friend would let her hear it until it was ready to be performed.
+>
+> "I thought you were planning to kill all the vallornspawn yourself?" Noelle grinned at her friend, knowing the banter would always be taken in jest and wanting to lift her friend's spirits.
+>
+> "Hah." Cerise shook her head laughing at the prospect. "Might as well take on the forest itself. I'd have to live a thousand lives to win that battle."
+>
+> "Just think of it though! You could clear the forest of trees, start your own noble house. It could be a house of giants! You wouldn't give anyone a test they could pass unless they stood 6 foot tall! Every knight who sought to join you would be challenged to drive back the vallorn and claim more lands for the house! You'd be glorious... the greatest earl in Dawn. Every noble would go weak at the thought they might be your one true love."
+>
+> Cerise snorted in derision. "It might beat marching round Dawn with a half-competent squire and a half-terrible troubadour for company." she countered. She put down the whetstone and picked up the old cloth she used to polish the blade. "We're here for the glory... not the land. This place belongs to the Navarr."
+>
+> "Says who?" said Noelle rising to her feet with an impish grin on her face. "No-one has ever claimed this forest for the Empire. Dark Ranging is no more Navarr lands than Ossium was Varushkan! Why shouldn't you rule over all this? Strive, toil, and claim the just rewards of your labours, Earl Cerise!"
+>
+> Noelle ducked as her friend hurled the polishing cloth at her friend with deadly accuracy. Both of them were still laughing about it by the time Hubert came to tell them that dinner was ready.
+
+## Overview
+
+The National Assemblies of [Dawn](../nations/dawn/Dawn.md) and [Highguard](../nations/highguard/Highguard.md) have come together around a shared appreciation of the importance of [love](../../mixed/magic/lore/Love_in_Dawn.md) and [glory](../nations/dawn/Glory.md) in bringing people to Virtue and the Way. As a result of the mandate [raised by Yarona of the Chantry](../synod-judgements/383YE_Autumn_Equinox_Synod_judgements.md#judgement-61) and enacted by the Highborn Assembly, for the next year, the [congregations](../../out-of-character/rules/Congregation.md) of each Assembly have been [paying particular attention](Love_and_rockets.md#virtue) to the [statements](../../mixed/government/synod/Statement_of_principle.md) raised by the other - Highborn celebrants are keen to hear the words of Dawnish priests in the Synod and vice versa.
+
+There is much interest in the statements of both assemblies, but at present the one issue that arouses the strongest feelings is the situation in [Brocéliande](../nations/navarr/Brocéliande.md). Both assemblies have opted to support the attempt to seize the region of [Dark Ranging](../nations/navarr/Brocéliande.md#dark-ranging) from the [vallorn](../nations/navarr/Vallorn.md) before the enemy recovers enough of its strength to make that victory impossible. Now there is an [opportunity](../../out-of-character/game-design/Opportunity.md) for both assemblies to draw inspiration from the methods used by the other.
+
+Before that happens though, there is one small matter that must be resolved first - the [inquisition](../../mixed/government/synod/Inquisition.md) of those responsible for the [Druj](../barbarians/Druj.md) [intrusion into Imperial affairs](../winds-of-war/383YE_Autumn_Equinox_winds_of_war.md#wood).
+
+## Inquisition and Betrayal
+
+- **Concerns have been raised regarding the inquisition of those responsible for the Druj involvement in Brocéliande**
+- **The Navarr Assembly has committed to holding those responsible accountable**
+
+In the months before the Autumn Equinox 383YE, *Simon of Haros* and a [Great Forest Orcs](../barbarians/Great_Forest_Orcs.md) herbalist named *Ulla Redstaff* proposed a [commission](../../mixed/commissions/Commission.md) for [Houses of Healing](Fall_of_Brocéliande.md#the-gardens-of-eleri) to be built in [Elerael](../nations/navarr/Brocéliande.md#elerael). However before either group would agree to provide the backing the Houses required they demanded an unequivocal statement of principle from the [Navarr](../nations/navarr/Navarr.md) Assembly denouncing the decision to accept the aid of the [Druj](../barbarians/Druj.md) and calling for those involved to be investigated and punished by the Synod.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Actions have consequences; those who made allies of the Druj must face the repercussions for their actions. We urge those responsible for securing this alliance to deliver themselves for judgement by the Synod, and we ask the Conclave to condemn the alliance between the eternal Arhallogen and the orcs of the Mallum. They have made themselves known to the Navarr assembly and welcome inquisition.
+> >
+> > Harwyn Hollowatcher, Autumn Equinox 383YE, Vote: Greater Majority (183 - 0)
+
+The Navarr Assembly did exactly that, with a statement raised by **Harwyn Hollowatcher** condemning the actions but also stating that those responsible for the alliance have made themselves known and welcome inquisition. The suggestion of the statement is that those involved face [inquisition](../../mixed/government/synod/Inquisition.md) by the Navarr Assembly, but neither Simon of Haros, nor Ulla Redstaff, believe that this is appropriate. On the assumption that those responsible are Navarr, both Simon and Ulla insist that any inquisition must be carried out in public and by a member of another nation.
+
+Simon of Haros argues that it should be a [Highborn inquisitor](../nations/highguard/Highguard_religious_beliefs.md#the-inquisition) who conducts the proceedings, but if not Highborn then an [Urizeni](../nations/urizen/Urizen.md) priest would be acceptable. Both nations have suffered grievous losses at the hands of the Druj in recent years - he hopes that any virtuous citizen of either nation would be eager to get to the bottom of what occurred. Indeed, Simon points out, the [Imperial Inquisitor](../../mixed/titles/Imperial_Inquisitor.md) themselves, Galene Netherwatch, is a citizen of Urizen. Perhaps they would be prepared to address this sensitive situation given their [responsibility](../../mixed/titles/Imperial_Inquisitor.md#responsiblity) to oversee and co-ordinate the use of inquisition in service of the Empire
+
+Both are disappointed that the [Conclave](../../mixed/government/conclave/Conclave.md) chose to ignore the call of the Navarr Assembly to condemn the alliance between the [eternal](../eternals/Eternal.md) [Arhallogen](../eternals/Arhallogen.md) and the [orcs](../../mixed/world/Orc.md) of [the Mallum](../barbarians/The_Mallum.md), but there is still time. Likewise Simon is eager to know which Imperial [magistrate](../../mixed/government/senate/Officers_of_the_Law.md#magistrates) has been assigned to look into the matter to see if there is [a case for treason](../../mixed/government/senate/List_of_Criminal_Offences.md#crimes-of-position).
+
+Whatever happens, both Simon and Ulla are in agreement, they are both eager to support the commission of the Houses of Healing in Brocéliande, but only if a thorough, public inquisition of those involved in the alliance is carried out by a Highborn or Urizeni inquisitor.
+
+## Glory and Treasure
+
+- **Both the Highborn and Dawnish assemblies can enact a mandate to encourage the conquest of Brocéliande**
+
+[A year ago](When_all_the_land_is_in_ruins.md#dawn-the-banners-of-rucastle), the troubadour *Noelle de Boisver*, spoke passionately about the glory to be won facing the twisted beasts of the vallorn. **Ranae de Rondell** took up the banner, and with the support of the Dawnish Assembly they [enacted a mandate](../synod-judgements/382YE_Winter_Solstice_Synod_judgements.md#judgement-3) urging the knights-errant and questing-knights of Dawn to come to Brocéliande to help the Navarr protect their homes. For a year Dawnish glory seekers worked tirelessly to slow the vallorn, encouraged by the support of the Houses of Dawn who helped to fund the knights ensuring that those who risked their life were rewarded with treasure.
+
+Having taken advantage of every opportunity to slow the vallorn, Noelle de Boisver asks how much more glorious it would now be to take land back from this terrible foe? Rather than rest on their laurels, they ask the Dawnish houses to continue their support but to focus it towards this new goal.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The victories achieved by our knights has enabled our brave Navarr allies to stem the tide of the vallorn advance. Now comes the moment for true glory, a chance to secure a permanent victory. We send {named priest} with 50 liao to urge every Dawnish noble house to reward any knight that fights to reclaim Dark Ranging from the enemy.
+> >
+> > Synod Mandate, Dawn Assembly
+
+If this mandate is enacted, then for the next year (until the start of the Winter Solstice 384YE) any Dawnish [military unit](../../out-of-character/rules/Military_unit.md) that supports a Dawnish, Highborn or Navarr [army](../../out-of-character/rules/Army.md) that is engaged in Dark Ranging will gain additional rewards - one additional crown and two random herbs.
+
+Several Highborn congregations are fascinated by this approach. Although their reputation for piety makes some assume that Highguard is a stark and frugal land, the truth is that ancient nation is rich and prosperous. The Chapters of Highguard could afford to encourage and support their guardians in the fight in Brocéliande using exactly the same approach that the Dawnish have done, rewarding those who show [Ambition](../religion/Ambition.md) and [Courage](../religion/Courage.md) in pursuit of glory.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Our enemy in Brocéliande is weak - now is the Vigilant moment to strike. Let us tear out this poison in our neighbour's field and secure a permanent victory. We send {named priest} with 50 liao to urge every Highborn chapter to reward any guardian that fights to reclaim Dark Ranging from the enemy.
+> >
+> > Synod Mandate, Highborn Assembly
+
+If this mandate is enacted, then for the next year (until the start of the Winter Solstice 384YE) any Highborn [military unit](../../out-of-character/rules/Military_unit.md) that supports a Dawnish, Highborn or Navarr army that is engaged in Dark Ranging will gain additional rewards - one additional crown and a dose of liao.
+
+## Love and Sacrifice
+
+- **The Dawnish Assembly can enact a mandate to match the congregations of Highguard in their commitment to fighting the vallorn**
+
+At the Autumn Equinox, **Hazelelponi of the Shattered Tower** [raised a mandate](../synod-judgements/383YE_Autumn_Equinox_Synod_judgements.md#judgement-16) in the Highborn Assembly urging the congregations of Highguard to continue their support for the reconquest of Dark Ranging for the year ahead. The judgement received the backing of the greater majority of the Assembly ensuring it could overcome the doubts of those who questioned the Wisdom of such an action when no Imperial armies are present to support.
+
+As a result of Hazelelponi's work, every congregation in Highguard will take onboard a heavy sacrifice. For the next year, adventurous pilgrims will travel to Brocéliande to directly fight the vallornspawn, while less martial congregations provide valuable supplies to the forces massing there. As a result, every congregation in Highguard suffers a loss of two Synod votes and one dose of liao, however, it will provide assistance equivalent to 20 strength for every congregation so affected. Over the last season this represents just over 1,400 additional strength. These effects will last until the start of Winter Solstice 384YE, a year from now.
+
+Just as the Dawnish support for their knights has inspired the Highborn, so my Dawnish congregations are questioning why they could not imitate the example of their Highborn friends and take on a similar sacrifice? To this end, Noelle de Boisver, has proposed a new mandate for the Dawnish Assembly to consider, one urging each congregation to take on the sacrifice of supporting the reconquest of Dark Ranging.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > A great life leaves a legend. The defeat of the vallorn in Dark Ranging is a legend that will echo through the ages. We send {named priest} with 50 liao to urge every Dawnish congregation to sacrifice whatever they can spare to defeat the vallorn.
+> >
+> > Synod Mandate, Dawn Assembly
+
+If this mandate is enacted, then every Dawnish congregation will experience a loss of two votes and one liao. In return, each affected congregation will provide 20 strength to support Imperial armies campaigning in Dark Ranging. Over the last season this represents just over 400 additional strength. These effects will last until the start of Winter Solstice 384YE, a year from now.
+
+If no Imperial army attacks the vallorn this season, then the congregations will focus on helping the people of the steadings recover from their losses over the last year, offering compassionate aid and support to help them rebuild.
+
+## But Nobody Came
+
+- **The Highborn assembly could enact a mandate to commit the soldiers of their nation to fight in Brocéliande**
+
+Following the Autumn Equinox, and the mandate enacted by Hazelelponi, the Highborn congregations took on the burden of supporting the Imperial armies fighting in Dark Ranging. Those congregants who could travel to fight did so, those that could not sent what provisions they could spare to support their military brethren. They came to Dark Ranging, expecting to throw their support behind the Navarr armies as they fought to reclaim the forests from the vallorn... but that army never came.
+
+The efforts of the Highborn congregations are not wasted, they are able to focus on helping the Navarr who have suffered from the vallorn attacks rebuild, and assist the [battle against the Heirs of Terunael](../winds-of-war/383YE_Winter_Solstice_winds_of_war.md#fire-and-hemlock). But now they are here, there is a growing awareness of the scale of what they are facing. Hazelelponi has strengthened their resolve to remain here for the coming seasons and they are still keen to drive human destiny forwards, to free souls trapped in the vallorn, and to face the greatest threat that faces the Empire.
+
+But they are conscious that it would require a major undertaking by Imperial armies to achieve such a goal. A single army that entered Dark Ranging would be decimated. It would need to be a major undertaking, a serious commitment of Imperial force. In simple military terms, it would be best to strike with overwhelming force, the last thing the Empire can afford right now is a protracted campaign against the vallorn under the baneful effects of the vallorn miasma. An unstoppable force that can drive the vallorn back quickly, means less Imperial lives lost and allows Imperial forces to return to the Empire's borders quicker.
+
+But that force does not have to be the Navarr - and it seems unlikely they could manage this by themselves anyway, given the scale of the threat arrayed against the Empire. The Dawnish might be persuaded to send armies here, this would surely be an opportunity for glory? Perhaps inevitably the views of the Highborn pilgrims who are martialled here is that the Highborn armies could come in force to Brocéliande. With the backing of the congregations of Highguard they could attempt to take the region in a great crusading storm. What better time, what better place than here, than now, when an enemy the Synod has repeatedly called the greatest threat the Empire faces is weakened and vulnerable to attack?
+
+A few more level headed folk point out that the Military Council is a notoriously cautious body. It may have a strategy for Brocéliande, it may even be possible that it does not intend to take the field here at all. If that is the case, then clearly some pressure needs to be applied... Morgan of Haros proposes a mandate that the Highborn Assembly could pass, or even consider passing, if that would motivate the Military Council to more virtuous action.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The monstrous infestation that is the vallorn is a danger beyond any other that now faces us. There is no sacrifice too great that we cannot meet it to defeat this terror. We send {named priest} with 25 doses of liao to urge all Highborn soldiers to put aside all other conflicts until Brocéliande is free.
+> >
+> > Synod Mandate, Highborn Assembly
+
+The Highborn are relative newcomers to the fight against the vallorn, a war the Navarr have waged for centuries. Thus **Corey Wayfarer** has asked the Navarr Assembly to consider this judgement.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The vallorn is an enemy we have fought for generations, an enemy that corrupts our own and an enemy we took an oath to combat. We send {named priest} with 25 doses of liao to remind the Navarr of the sacrifice of others and their oaths to ensure we are emboldened to fight the vallorn and put aside other conflicts until Brocéliande is free.
+> >
+> > Synod Mandate, Navarr Assembly
+
+If either mandate is enacted, then the Highborn or Navarr armies respectively, will receive a 10% penalty to take territory when fighting anywhere expect of Brocéliande. In addition all the military units of that nation will suffer a 1 rank penalty if they support any army except one that is campaigning in Brocéliande. The effects will last for two seasons, until the start of Summer 384YE.
+
+Similar mandates could be enacted by the Dawn Assembly, provided one of their priests wished to propose it in the same manner an [alternative mandate](../../mixed/government/synod/Mandate.md#alternative-mandates) might be proposed.
+
+## Resolution
+
+At the Winter Solstice [Galene Netherwatch inquisitioned Harwyn Eternal](../synod-judgements/383YE_Winter_Solstice_Synod_judgements.md#judgement-112). She submitted a judgement of total vindication for him and the Spring archmage which was upheld by the General Assembly. She has promised to provide a full report of her investigations at the next summit. Simon of Haros, and Ulla Redstaff are keen to hear the details, they are both plainly surprised by the outcome, but they are as good as their word and are now prepared to support the opportunity to build the House of Healing. Unfortunately the gardens were not commissioned, and the opportunity has passed.
+
+Following the Winter Solstice Ranae de Rondell enacted the mandate to encourage knights to fight alongside armies in Dark Ranging.
+
+## Further Reading
+
+- [Fall of Brocéliande](Fall_of_Brocéliande.md) - Autumn 383YE wind of fortune detailing opportunities in Brocéliande
+- [Whither the seed](Whither_the_seed.md) - a companion Wind of Fortune about the magical curse on Brocéliande
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [383YE Winter](../../indexes/by-category/383YE_Winter.md), [Recent History](../../indexes/by-category/Recent_History.md), [Mandate](../../indexes/by-category/Mandate.md)

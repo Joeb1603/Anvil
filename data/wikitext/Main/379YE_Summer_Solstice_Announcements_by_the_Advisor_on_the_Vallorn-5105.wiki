@@ -1,0 +1,21 @@
+<ic>
+The Advisor on the Vallorn makes the announcement that he intends to use his power of Historical Research: Origins of the Vallorn<br><br>
+''Approved by the Advisor on the Vallorn.''</ic>
+
+===Overview===
+* [[Historical research]] concerning this topics has been commissioned through the civil service.
+* Actions approved by the [[Advisor on the Vallorn]].
+* This action allows no vote, but could be [[veto|vetoed]] by the [[Synod]] [[veto]].
+
+===Date===
+* Summer Solstice 379YE
+
+===Progress===
+* Unknown
+
+===Campaign Outcome===
+* Research reports will be compiled and presented to the Advisor on the Vallorn.
+[[Category:Senate Motion]]
+[[Category:Announcements]]
+[[Category:379YE Summer]]
+__NOTOC__

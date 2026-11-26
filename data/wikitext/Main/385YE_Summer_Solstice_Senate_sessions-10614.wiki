@@ -1,0 +1,282 @@
+[[Category:Senate]] [[Category:Senate Sessions]] [[Category:385YE Summer]]
+==Overview==
+The [[Senate]] governs the Empire, and its authority extends to all areas of Imperial life not already covered by the other houses of government. Each summit the [[senator|senators]] meet several times to deliberate and vote on the [[Senate motion|motions]] they have raised. 
+
+After the summit the civil service enact those motions, and ensure a public record of each is made available to the citizens of the Empire. This page lists all the motions raised during the summit, along with the [[Senate announcement|announcements]] made by citizens with [[Imperial title|Imperial titles]]. In each case, the motion and its effects are summarised including the wording; who proposed and seconded it; whether it passed or not; whether any funds were disbursed to support it; and what the outcome of the motion will be.
+
+Many motions (especially the [[commission|commissions]]) also have a ''Further Details'' section that provides a link to a wiki page dealing specifically with that motion in more detail, any commentary from the [[Scrutiny|Constitutional Court]], progress on commissions, or expanded information about the outcome of the motion.
+==Treasury==
+* Imperial treasury during this season was announced by the civil service at 606 thrones and 6 crowns.
+* The following has been donated to the Imperial treasury: None.
+
+==Administrative Motions==
+===Amend the Keeper of the Tome===
+* '''Motion:''' Amend the Keeper of the Tome, the title associated with the Temeschwar-Otkodov Mana Exchange, to be appointed annually rather than to have tenure
+* '''Raised by:''' Speaker for the Senate
+* '''Passed'''
+* '''Outcome:''' The title of [[Keeper of the Tome]] has been amended to be elected each year.
+
+===Amend High Exorcist===
+*'''Motion:''' To determine whether the [[High Exorcist]] should receive a stipend from the Imperial treasury, and if so how much.
+*'''Raised by:''' Speaker for the Senate
+* '''Outcome:''' Stipend of the [[High Exorcist]] set to eight thrones
+
+===Amend Imperial Chaplain Consular===
+*'''Motion:''' To determine whether the [[Chaplain Consular]] should receive a stipend from the Imperial treasury, and if so how much.
+*'''Raised by:''' Speaker for the Senate
+* '''Failed'''
+
+===Amend Seer of the Gateway===
+*'''Motion:''' To determine whether the [[Seer of the Gateway]] should receive a stipend from the Imperial treasury, and if so how much.
+*'''Raised by:''' Speaker for the Senate
+* '''Outcome:''' Stipend of the [[Seer of the Gateway]] set to two thrones
+
+===Create title of Architect of the Crucible===
+*'''Motion:''' Create the Urizen title of Architect of the Crucible appointed by Tally of the Votes. They will be responsible for the security of the Crucible and the artisans who work there. They will be able to craft bespoke ushabti and purchase magical staves and ilium.
+*'''Raised by:''' Speaker for the Senate
+* '''Outcome:''' The title of [[Architect of the Crucible]] created
+
+==Senate Motions==
+===Allocate the Brilliant Star===
+*'''Motion:''' A motion to assign the Brilliant Star in Redoubt as a National Bourse Seat, elected by Tally of the Votes. Proposed: [[Temeschwar#Recent_Senate_Elections|Temeschwar]], Seconded: [[Casinea#Recent_Senate_Elections|Casinea]].
+* '''Passed'''
+* '''Outcome:''' The [[Brilliant Star]] will be available to elect as an Urizen national seat at the Autumn Equinox 385YE.
+
+===Amend Auditor of Senatorial Accountability===
+*'''Motion:''' Motion to make the following changes to the Auditor of Senatorial Accountability. Change the responsibilities to: The auditor of senatorial accountability is charged with determining whether any Senate funds disbursed or otherwise assigned to members of the Senate or to civilians via a stipend are used with virtue and for their intended purpose and with investigating any irregularities. The findings of the Auditor should be reported to Senate and the Assembly of Nine. Proposed: [[Therunin#Recent_Senate_Elections|Therunin]], Seconded: [[The_Barrens#Recent_Senate_Elections|The Barrens]].
+* '''Passed'''
+* '''Outcome:''' The responsibilities of the [[Auditor of Senatorial Accountability]] will be changed
+
+===Amend Imperial Warcaster===
+*'''Motion:''' Motion to amend the powers of the Imperial Warcaster to include the power to raise one Declaration of Endorsement before Conclave each season. So that they might further encourage the casting of magics to aid the Empire's Military. Proposed: [[Bastion#Recent_Senate_Elections|Bastion]], Seconded: [[Weirwater#Recent_Senate_Elections|Weirwater]].
+* '''Withdrawn''' 
+
+===Amend the Liberty Pact===
+*'''Motion:''' To amend the Liberty Pact to include the articles "Each member of the Liberty Pact can call a meeting once a year, with at least one season's notice. They may only do this by formally raising an issue to be discussed, and by presenting a motion they would like the pact to vote on. Each member of the Pact will ensure that they have provided information on any issues they plan to raise and provide the wording of any vote they wish the pact to discuss in advance of the meeting" and "Members of the Liberty Pact understand that the pact creates no obligation or expectation of military aid be rendered to a fellow signatory, no matter what conflict ensues. However no signatory to the pact will provide meaningful military assistance to any nation that finds itself at war with a signatory of the pact. Proposed: [[Sermersuaq#Recent_Senate_Elections|Sermersuaq]], Seconded: [[Morrow#Recent_Senate_Elections|Morrow]].
+* '''Passed''' 
+* '''Outcome:''' 
+
+===Amend the Steel Rings of Sarvos===
+*'''Motion:''' To change the name of the Steel Rings of Sarvos to the Great Chains of Sarvos and to disbursement of funds. This vital fortification excels at repelling naval assault very efficiently. Normally it would cost 683 thrones. At this summit only it is available for 200 thrones nearly 70% off. Proposed: [[Sarvos#Recent_Senate_Elections|Sarvos]], Seconded: [[Tassato#Recent_Senate_Elections|Tassato]].
+* '''Passed''' 
+* '''Outcome:''' No funds disbursed
+
+===Appraise Raids Defence===
+*'''Motion:''' To appraise how the Empire can defend itself against raids, preferably without the construction of fortifications or the commitment of armies. Proposed: [[Mournwold#Recent_Senate_Elections|Mournwold]], Seconded: [[Necropolis#Recent_Senate_Elections|Necropolis]].
+* '''Passed''' 
+* '''Outcome:''' An [[appraisal]] will be published before the Autumn Equinox 385YE
+
+===Appraise integration of septs of the Barrens===
+*'''Motion:''' We request Naomi of Virtue's Rest to conduct an appraisal in the Barrens with a view to integrating the local septs and Imperial citizens where we may lay ground work for spreading the Way and inspiring former slaves towards citizenship. Proposed: [[Weirwater#Recent_Senate_Elections|Weirwater]], Seconded: [[Hercynia#Recent_Senate_Elections|Hercynia]].
+* '''Failed''' 
+
+===Appraise Urizen in Spiral===
+*'''Motion:''' Motion to request Naomi of Virtue's Rest appraise what further the League can do so that the Urizen in Spiral can remain there peacefully while preserving their culture, ideally without suffering undue financial hardship from not being in Urizen. Proposed: [[Conscience_of_the_Senate#Recent_Senate_Elections|Conscience of the Senate]], Seconded: [[Sermersuaq#Recent_Senate_Elections|Sermersuaq]].
+* '''Passed''' 
+* '''Outcome:''' An [[appraisal]] will be published before the Autumn Equinox 385YE
+
+===Authorise supplying Dreamers of the Dark Forest===
+*'''Motion:''' To authorise the supply of weapons to the Dreamers of the Dark Forest. This is done with the sole intent that they will rise up and drive the Druj out of Echofell. Proposed: [[Ossium#Recent_Senate_Elections|Ossium]], Seconded: [[Karov#Recent_Senate_Elections|Karov]].
+* '''Passed''' 
+* '''Outcome:''' 
+* '''Further Details:''' This is related to the '''[[Culling_the_threat#The_Dreamers_of_the_Dark_Forest|Culling the threat]]''' wind of fortune
+
+===Construct Mithril Sculptures===
+*'''Motion:''' To commission a folly of two mithril statues, one in southern Proceris and one in the peaks of Optarion. This creates the Urizen national title of Oblivion Sentinel, with the responsibility to keep watch over the {{Black Plateau}} and deal with any threats associated with it. To be elected by vote of the Urizen generals. Disbursements of funds needed. Proposed: [[Holberg#Recent_Senate_Elections|Holberg]], Seconded: [[Redoubt#Recent_Senate_Elections|Redoubt]].
+* '''Passed'''
+* '''Outcome:''' Constructs a folly as per the '''[[The_fate_of_the_many#The_Serpent.27s_Edge|The fate of the many]]''' wind of fortune. 11 thrones 6 crowns disbursed to Senator for Holberg.
+* '''Further Details:''' [[Construct Mithril Sculptures|here]]
+
+===Create law criminalising Semmerlak items===
+*'''Motion:''' To create a criminal offense to own, take, or sell any object from the depths of the Semmerlak. Proposed: [[Semmerholm#Recent_Senate_Elections|Semmerholm]], Seconded: [[Reikos#Recent_Senate_Elections|Reikos]].
+* '''Passed''' 
+* '''Outcome:''' This law will be added to the [[list of Criminal Offences]]
+
+===Create title of Imperial Huntsmarshall===
+*'''Motion:''' To create the title Imperial Huntsmarshall. The title will be the liaison and head of the Gathering of Hunters to support the Empire in collecting knowledge and disposing of dangerous beasts which threaten us. Appointed by the Military Council, with right of address to Military Council. The sodality will henceforth be known as the Imperial Gathering of Hunters. Proposed: [[Karov#Recent_Senate_Elections|Karov]], Seconded: [[Ossium#Recent_Senate_Elections|Ossium]].
+* '''Passed''' 
+* '''Outcome:''' The position of [[Imperial Huntsmarshall]] will be elected for the first time during the Saturday session of the Military Council at the Autumn Equinox 385YE
+
+===Create title of Speaker of the Magpies===
+*'''Motion:''' To create the title Speaker of the Magpies an Imperial position with tenure to be held until the death, removal or resignation of the holder. Appointed by the senate through the well worn path. The holder is recognised as primary liaison between the senate and the body of artefact researchers known as the magpies, and will represent them if any of the five great Imperial houses wish to speak to the organisation formally. Proposed: [[Bregasland#Recent_Senate_Elections|Bregasland]], Seconded: [[Miaren#Recent_Senate_Elections|Miaren]].
+* '''Passed''' 
+* '''Outcome:''' The position will be up for election at the Autumn Equinox 385YE
+
+===Disburse funds for Dawnish army===
+*'''Motion:''' To disburse funds for a Dawnish army. Proposed: [[Astolat#Recent_Senate_Elections|Astolat]], Seconded: [[Kallavesa#Recent_Senate_Elections|Kallavesa]].
+* '''Passed''' 
+* '''Outcome:''' 250 thrones disbursed to the Senator for Astolat. The Speaker for the Senate raised an administrative motion to amend this motion to also raise a Dawnish army which passed.
+* '''Further Reading:''' [[Raise Dawnish army Summer 385YE|Here]]
+
+===Disburse funds for Kahraman roads===
+*'''Motion:''' To ask for a disbursement of funds to continue rebuilding the roads of Kahraman and the Kamkrag forts for Kahramans defence. Proposed: [[Kahraman#Recent_Senate_Elections|Kahraman]], Seconded: [[Astolat#Recent_Senate_Elections|Astolat]].
+* '''Passed''' 
+* '''Outcome:''' 70 thrones disbursed to the Senator for Kahraman
+
+===Disburse funds for Military resupply===
+*'''Motion:''' That there be a disbursal of funds to allow Military resupply Proposed: [[Tassato#Recent_Senate_Elections|Tassato]], Seconded: [[Sarvos#Recent_Senate_Elections|Sarvos]].
+* '''Passed''' 
+* '''Outcome:''' 275 thrones disbursed to the Senator for Tassato
+
+===Fund Guards in Kahraman===
+*'''Motion:''' To pay ten thrones in upkeep to protect the bourse seats in Kahraman from raiding to restore standard production. Proposed: [[Skarsind#Recent_Senate_Elections|Skarsind]], Seconded: [[Segura#Recent_Senate_Elections|Segura]].
+* '''Passed''' 
+* '''Outcome:''' The ''Kahraman Caravan Guards'' adventure is now available to [[military unit|military units]]
+* '''Further Details:''' This is related to the '''[[Time_and_time_again#Short_Term_Solutions|Time and time again]]''' wind of fortune
+ 
+===Recognise Karass===
+*'''Motion:''' The Imperial Empire recognise the sept of Karass as foreigners. Proposed: [[The_Barrens#Recent_Senate_Elections|The Barrens]], Seconded: [[Madruga#Recent_Senate_Elections|Madruga]].
+* '''Passed''' 
+* '''Outcome:''' This motion is receiving additional scrutiny.
+
+===Relinquish the Brilliant Star===
+*'''Motion:''' A motion to relinquish the Brilliant Star bourse seat in Redoubt so it is no longer an Imperial position. Proposed: [[Redoubt#Recent_Senate_Elections|Redoubt]], Seconded: [[Holberg#Recent_Senate_Elections|Holberg]].
+* '''Passed''' 
+* '''Outcome:''' This motion was ratified by '''Atte Arrowtongue''' using the [[Imperial Favour]] of [[Empress Lisabetta]]
+* '''Note:''' This motion required a constitutional majority
+
+===Remove sanctions from Iron Confederacy===
+*'''Motion:''' Motion to lift sanctions on the Iron Confederacy now that they are no longer a slaver nation. Proposed: [[Hercynia#Recent_Senate_Elections|Hercynia]], Seconded: [[Zenith#Recent_Senate_Elections|Zenith]].
+* '''Passed''' 
+* '''Outcome:''' [[Tariffs#Sanctions|Sanctions]] have been removed from the Iron Confederacy
+
+==Appointments==
+===Ambassador to Asavea===
+*'''Motion:''' To elect an Ambassador to Asavea. Proposed: [[Upwold#Recent_Senate_Elections|Upwold]], Seconded: [[Mitwold#Recent_Senate_Elections|Mitwold]].
+* '''Outcome:''' Asier i Elia i Guerra was appointed as [[Ambassador to Asavea]]
+
+===Imperial Advisor for the Feni===
+*'''Motion:''' To call an election for the Imperial position of the Advisor for the Feni. Proposed: [[Mitwold#Recent_Senate_Elections|Mitwold]], Seconded: [[Mournwold#Recent_Senate_Elections|Mournwold]].
+* '''Outcome:''' Watt of Lambrook was appointed as [[Imperial Advisor for the Feni]]
+
+===Imperial Consul===
+*'''Motion:''' To elect an Imperial Consul Proposed: [[Madruga#Recent_Senate_Elections|Madruga]], Seconded: [[Skarsind#Recent_Senate_Elections|Skarsind]].
+* '''Outcome:''' Jarrigk Orzel was appointed as [[Imperial Consul]]
+
+===Minister of Historical Research===
+*'''Motion:''' To elect a Minster of Historical Research. Proposed: [[Segura#Recent_Senate_Elections|Segura]], Seconded: [[Kahraman#Recent_Senate_Elections|Kahraman]].
+* '''Outcome:''' Vaclav Mladenovich Kosti was appointed as [[Minister of Historical Research]]
+
+==Commissions (Senate)==
+===Construct Abbey of Reconciliation===
+*'''Motion:''' To construct the Abbey of Reconciliation, a 10 weirwood herb sinecure in Necropolis and part of the Network of the Proffered Hand. Elected by the Highborn National Assembly. Revocable by the Highborn, General, and Assembly of the Nine. To be overseen by the Abbess of Reconciliation with the responsibility to: support ex-slaves and refugees; bring them into the Way; and provide them opportunity to work and recover in the Empire. Proposed: [[Necropolis#Recent_Senate_Elections|Necropolis]], Seconded: [[Bastion#Recent_Senate_Elections|Bastion]].
+* '''Passed'''
+* '''Outcome:''' Constructs a sinecure in [[Necropolis]]
+* '''Further Details:''' [[Construct Abbey of Reconciliation|here]]
+
+===Construct Grand Inspiration of the Way===
+*'''Motion:''' Commission the Grand Inspiration of the Way in Bastion. 1000 white granite, 250 thrones, 3 years. Proposed: [[Casinea#Recent_Senate_Elections|Casinea]], Seconded: [[Temeschwar#Recent_Senate_Elections|Temeschwar]].
+* '''Passed'''
+* '''Outcome:''' Constructs a folly in [[Bastion]] as per the '''[[Blood_will_thicken#A_Question_of_Scale|Blood will thicken]]''' wind of fortune
+* '''Further Details:''' [[Construct Grand Inspiration of the Way|here]]
+
+===Construct Guildhouse of the Artisans===
+*'''Motion:''' To create a guildhouse, title and sodality. The guildhouse includes a sinecure producing materials for artisans of the guild and shall be built close to Runegrott and the Runeforge in Hahnmark. Appoint with tenure by senators, with the expectation that the guild present their chosen Guildmaster. As a result of their Ambition, Prosperity and hard work, the guild are able to fund the creation of this house. Any additional funds that this house sees fit to provide shall be used to make this Imperial Guildhouse grander and the envy of foreign nations. Proposed: [[Hahnmark#Recent_Senate_Elections|Hahnmark]], Seconded: [[Semmerholm#Recent_Senate_Elections|Semmerholm]].
+* '''Passed'''
+* '''Outcome:''' Constructs a [[sinecure]] for the sodality of the Artisans Guild in [[Hahnmark]]
+* '''Further Details:''' [[Construct Guildhouse of the Artisans|here]]
+
+===Construct High Path to Otkodov===
+*'''Motion:''' To construct a new high path through the mountains to Otkodov, enabling ilium to be exchanged for good as a ministry, and enhancing northern trade. Proposed: [[Volodmartz#Recent_Senate_Elections|Volodmartz]], Seconded: [[Karsk#Recent_Senate_Elections|Karsk]].
+* '''Passed'''
+* '''Outcome:''' Constructs a high path as per '''[[Pride_and_prejudice#Gift_of_the_Dwindling_Star|Pride and prejudice]]''' wind of fortune
+* '''Further Details:''' [[Construct High Path to Otkodov|here]]
+
+===Construct Physician's Legacy===
+*'''Motion:''' Self funded motion to construct the Physician's Legacy, a 20 wain herb sinecure in Cantiarch's Hold, Casinea. The sinecure will be overseen by the tenured Highguard National position, Custodian of the Physician's Legacy. Appointed by our Highborn Generals.  Proposed: [[Reikos#Recent_Senate_Elections|Reikos]], Seconded: [[Therunin#Recent_Senate_Elections|Therunin]].
+* '''Failed'''
+
+===Construct Spy Network in Mareave===
+*'''Motion:''' To construct a spy network in Mareave funded by Ematius, Archmage of Winter. Proposed: [[Zenith#Recent_Senate_Elections|Zenith]], Seconded: [[Upwold#Recent_Senate_Elections|Upwold]].
+* '''Passed'''
+* '''Outcome:''' Constructs a [[spy network]] in the Grendel territory of the [[Bay_of_Catazar#Mareave|Mareave]]
+* '''Further Details:''' [[Construct Spy Network in Mareave|here]].
+
+===Construct Stones from Blood===
+*'''Motion:''' To build Stones from Blood, a mana ministry for the Navarr Vates Council. This is to support the Navarr Vates in organisation and in providing mana for national rituals such as Dance of Navarr and Thorn. It is expected the holder will take an oath. Self funded. Proposed: [[Miaren#Recent_Senate_Elections|Miaren]], Seconded: [[Bregasland#Recent_Senate_Elections|Bregasland]].
+* '''Withdrawn'''
+
+===Construct Tekkupala's Hives===
+*'''Motion:''' To commission a sinecure in Wittal, Kallavesa; Tekkupala's Hives. This sinecure will produce unique drugs and be built with the permission of the Keeper of the Bones Hives of Varushka whose bees will build the hives of Kallavesa. The sinecure will be held by the Tender of Tekkupala's Hives, appointed by the senators of Wintermark, as a national title. Proposed: [[Kallavesa#Recent_Senate_Elections|Kallavesa]], Seconded: [[Hahnmark#Recent_Senate_Elections|Hahnmark]].
+* '''Passed'''
+* '''Outcome:''' Constructs a sinecure in [[Kallavesa]] as per the '''[[Thousands_or_more#Secrets_of_the_Bonehives|Thousands or more]]''' wind of fortune
+* '''Further Details:''' [[Construct Tekkupala's Hives|here]]
+
+===Construct Tolvoli Slaughterhouse===
+*'''Motion:''' To construct the Tolvoli Slaughterhouse in Miekarova. A ministry to sate the dubik of Miekarova. Limited time opportunity, fully self-funded. Proposed: [[Miekarova#Recent_Senate_Elections|Miekarova]], Seconded: [[Volodmartz#Recent_Senate_Elections|Volodmartz]].
+* '''Passed'''
+* '''Outcome:''' Constructs a slaughterhouse in Miekarova as per the '''[[The_horror_and_the_wild#Heart_of_the_Tempest|The horror and the wild]]''' wind of fortune
+* '''Further Details:''' [[Construct Tolvoli Slaughterhouse|here]].
+
+===Improve Orieb===
+*'''Motion:''' To fully improve the town of Orieb, and the Stinking Market within, establishing the first true vale of the Drownbark Forest. Fully self funded by Varushkan prosperity, requiring a single commission slot, not two. Proposed: [[Karsk#Recent_Senate_Elections|Karsk]], Seconded: [[Miekarova#Recent_Senate_Elections|Miekarova]].
+* '''Passed'''
+* '''Outcome:''' Expands the town of Orieb as per the '''[[Thousands_or_more#Expanding_the_Stinking_Market|Thousands or more]]''' wind of fortune
+* '''Further Details:''' [[Improve the vale of Orieb|here]].
+
+===Reconstruct Gardens of Pallas===
+*'''Motion:''' To reconstruct the Gardens of Pallas in Proceris, Zenith, taking advantage of the appraisal last season. Creates the title Gardener of Pallas, appointed annually by unanimous decision of the Urizen Senators. To additionally take advantage of all additional improvements outlined in the appraisal by Lutomylsa Niegoslava, increasing the cost and benefits as stated. Total costs will be 30 wains weirwood, 12 wains mithril, and 116 crowns. Estimated total cost 235 thrones. At this time we are not looking for a dispersal of funds. It is a time limited opportunity. Proposed: [[Morrow#Recent_Senate_Elections|Morrow]], Seconded: [[Conscience_of_the_Senate#Recent_Senate_Elections|Conscience of the Senate]].
+* '''Withdrawn'''
+
+==Commissions (Announcements)==
+===Construct Garrison of the League===
+* '''Motion:''' Commission a business sinecure, The Garrison of the League, in Hanuri in Temeschwar. Appointed by League Generals annually. 
+* '''Announced:''' by Elsha Bertolf, [[Chair of the Wolf]]
+* '''Outcome:''' Constructs a sinecure in [[Temeschwar]]
+* '''Further Details:''' [[Construct Garrison of the League|here]]
+
+===Construct Golden Market of Aggido===
+* '''Motion:''' Construct the Golden Market of Aggido in Gildenheim, Skarsind. Costs 30 mithril and 60 crowns. Creates the title of Agent of the Golden Consortium.
+* '''Announced:''' by Groza, [[Legion Engineer]]
+* '''Outcome:''' This opportunity was restricted to a [[Bearer of an Imperial Wayleave]]. The Legion Engineer announced the [[#Construct Open Hand of the Ancestors|Open Hand of the Ancestors]] instead
+
+===Construct Offices of the Iron Roads===
+* '''Motion:''' Construct the Offices of the Iron Roads in Ivarsgard, Karsk; Delev, Karov; Lomaa, Ossium; Essk, Miekarova; and Ruin, Volodmartz for 30 white granite, 30 mithril, and 15 thrones, creating a Boyar of the Iron Roads elected by Tally of the Votes
+* '''Announced:''' by Dima Vasilyevna Novosad, [[Master of the Koboldi]]
+* '''Outcome:''' Constructs a folly in [[Varushka]] as per the '''[[Deep_forests_and_dark_hills#Boyar_of_the_Iron_Roads|Deep forests and dark hills]]''' wind of fortune
+* '''Further Details:''' [[Construct Offices of the Iron Roads|here]].
+
+===Construct Open Hand of the Ancestors===
+* '''Motion:''' Build sinecure (congregation) north Solvihill, Skarsind for 10 wains of white granite. The Open Hand of the Ancestors creates title Guide to the Lost. To be appointed by the Imperial Orc National Assembly.
+* '''Announced:''' by Bleakshield Groza, [[Legion Engineer]]
+* '''Outcome:''' Constructs a sinecure in Skarsind
+* '''Further Details:''' [[Construct Open Hand of the Ancestors|here]].
+
+===Construct Parador of the Kindled Flame===
+* '''Motion:''' I announce the construction of the Parador of the Kindled Flame. This will be built in Siroc, Madruga. It will cost 27 wains of white granite with 2 crowns per wain labour costs. It is a folly, an orphanage for the children of the Brass Coast to be cared for and taught our traditions by the hakima and kohan.
+* '''Announced:''' by Laughlan, [[Master of Rings]]
+* '''Outcome:''' Constructs a folly in [[Madruga]]
+* '''Further Details:''' [[Construct Parador of the Kindled Flame|here]]. 
+
+===Construct the Challenger in Waiting===
+* '''Motion:''' Challenger in Waiting liao sinecure without Tenure 10 white granite. Votes in Synod, congregation based in Weirwater. Appointed by National Assembly, with expectation that they will appoint tourneys. Position to be holdable once per lifetime (as per High Bard). Regalia to be provided proudly.
+* '''Announced:''' by Earl Valentin Orzel, [[Bearer of an Imperial Wayleave]]
+* '''Outcome:''' Constructs a sinecure in [[Weirwater]]
+* '''Further Details:''' [[Construct Challenger in Waiting|here]].
+
+===Construct Spy Network in Forest of Ulnak===
+* '''Motion:''' Construct a spy network in Forest of Ulnak. To speed destruction of the vile fear cult formerly known as the Druj. In the interest of Imperial security, stability and victory. Through virtue's illumination comes a prosperous future.
+* '''Announced:''' by Bernard Dugdale, [[Imperial Spymaster]]
+* '''Outcome:''' Constructs [[spy network]] in Forest of Ulnak
+* '''Further Details:''' [[Construct Spy Network in Forest of Ulnak|here]]. 
+
+===Reconstruct Gardens of Pallas II===
+* '''Motion:''' To reconstruct the Gardens of Pallas in Proceris, Zenith, taking advantage of the appraisal last season, as per the withdrawn motion
+* '''Announced:''' by Nikolai, [[Bearer of an Imperial Wayleave]]
+* '''Outcome:''' Constructs a sinecure in [[Zenith]] as per the '''[[Restoration_and_renewal#Restoring_the_Gardens|Restoration and renewal]]''' wind of fortune
+* '''Further Details:''' [[Reconstruct Gardens of Pallas|here]]. 
+
+==Announcements==
+===Apportion Guerdon===
+* '''Motion:''' Armies to receive the Guerdon: Iron Helms, Bloodcloaks, Strong Reeds ,Summer Storm, Gryphon's Pride
+* '''Announced:''' by Starac Sijed Orzel, [[Quartermaster General of the Imperial Armies]]
+
+===Research Isenbrad===
+* '''Motion:''' I, Jared of the Suns of Couros Lepidean Librarian, instruct the university to research into the life and signs of Isenbrad, the steinr runesmith and paragon of Wisdom. The caves under their forge has been consecrated to Wisdom with true liao and it is time to pilgrims of wisdom know more about this shining example of wisdom. In wisdom we ask questions and apply what we have learned 
+* '''Announced:''' by Jared of the Suns of Couros, [[Lepidean Librarian]]
+* '''Further Details:''' The researchers of the Lepidean Library will learn about Isenbrad
+
+===Research Urizen in Mareave===
+* '''Motion:''' To research the history of the territory of Mahal, now known as Mareave, and its inhabitants through history, with particular regard to the Urizeni
+* '''Announced:''' by Vaclav Mladenovich Kosti, Minister of Historical Research
+* '''Outcome:''' Historical research on the matter will be delivered to the Minister at the Autumn Equinox 385YE

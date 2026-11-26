@@ -1,0 +1,4 @@
+* '''Form:''' Weapon. Takes the form of a [[Magic items#Weapons|ritual staff]]. You must be holding this item in hand to use its magical properties.
+* '''Requirement:'''  You must have the [[Magical skills#Magician|magician]] skill to bond to this item.
+[[Category:Magic Items]]
+[[Category:Ritual Staves]]

@@ -1,0 +1,34 @@
+[[Category:Senate Motion]][[Category:388YE Autumn]]
+__NOTOC__
+<quote by="Announced by Galene Netherwatch">I announce the building of the Grand Lodge of the Sevenfold Path in Necropolis, including the extended basilica. We built it with the aid of Adamant, the Shaper of Mountains, via a personal boon.
+</quote>
+==Overview==
+* Constructs a grand lodge in Sanctuary Sands, Necropolis
+* Announcement by '''Galene Netherwatch'''
+* The grand lodge of the [[Sevenfold Path]] was first [[In_harmony_and_unison|presented]] shortly before the Winter Solstice 387YE.
+
+==Date==
+* Autumn 388YE
+
+==Cost==
+* Costs as per opportunity
+* 65 wains of weirwood
+* 45 wains of white granite
+* 15 wains of mithril
+* 375 crowns in labour costs 
+* 5 thrones in upkeep
+* Nine months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Grand_Lodge_of_Sevenfold_Path}}
+==Outcome==
+Once complete, the Grand Lodge of the Sevenfold Path will have the following effects:
+* Adds 15 mana crystals to the Conclave font each season
+* Incorporates a [[Edifice#Grandeur|grand basilica]] dedicated to the Way
+* Reduces the cost of mana purchases by the Grandmaster
+* Raises the level of investment of congregations in the territory by one
+* Allows Highguard to raise and support one additional navy over the current limits
+* Provides a dose of true liao to the order's vaults at the Summer and Winter Solstice
+* Provides every member of the order with a dose of liao each season for a year
+* Adds the ''Voice of the Paragons'' to Imperial lore for as long as [[Net of Gossamer Chains]] is interdicted
+* The Grandmaster of the Sevenfold Path will be able to use a Declaration of Concord to request a single relic linked to an important historical figure for the Winter Solstice after the grand lodge is complete

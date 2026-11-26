@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Proposed: Feroz, Seconded: Kahraman">To commission the Wharfage of Oran in Oran, Oranseri. At a cost of 15 weirwood and 15 crowns, fully self funded. This will remove the lawless quality from the Cazar Straits. It will also create the title of Corsair of Oran, which grants 216 rings and a base fleet upgrade once a year in the season it was elected if held by a corsair.</quote>
+==Overview==
+* Constructs a [[sinecure]] in Oranseri, Feroz
+* Passed
+* More information can be found in the '''[[Send_for_me#Wharfage_of_Oran|Send for me]]''' wind of fortune
+
+==Date==
+* Spring 387YE
+
+==Cost==
+* Costs as per opportunity
+* 15 weirwood
+* 15 crowns 
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Wharfage_of_Oran}}
+==Outcome==
+* Now complete, the [[Corsair of Oran]] will be available to appoint for the first time by tally of the votes of Freeborn fleet owners at the Summer Solstice 387YE.
+* The lawless quality has been removed from the Cazar Straits

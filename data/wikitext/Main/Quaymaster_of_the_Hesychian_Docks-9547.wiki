@@ -1,0 +1,34 @@
+<div style="float:left; width: 300px; clear: right;">{{CaptionedImage|file=Spyridonakes4692.jpg|caption='''Spyridonakes of the Lighthouse at Nikephoros''' was the first Quaymaster of the Elosian Docks back before they were the ''Hesychian Docks''. In the years since the Quaymaster has consistently been chosen from the folk of that spire.|align=left|width=300}}</div>
+==Overview==
+The ''Quaymaster of the Elosian Docks'', as it used to be known, is an [[Imperial title]] responsible for overseeing the [[#Elosian Docks|Elosian Docks]], part of the Imperial docks at [[Redoubt#Naris|Elos]] in [[Redoubt]]. It is elected by Urizen citizens that hold mana sites via [[Tally of the Votes]]. The Docks are dedicated to the use of ships from [[Axos]] involved in trading valuable Axou [[white granite]] for Imperial [[Materials#Dragonbone|dragonbone]] - a material that is in some demand in Axos. Following the [[A_mountain_of_vipers#The_Elosian_Docks|proposals submitted by Hesychia of Elos]], the Imperial Senate authorised an outfitting of the docks to welcome Axou traders - particularly those from Hesychia's family back in Axos.
+
+Around a year after the work on the Elosian Docks was completed, the Senate commissioned a major expansion of the entire waterfront, restoring Elos to its previous glory. The docks are now part of the [[Elosian_Architect#Great_Harbour_at_Elos|Great Harbour at Elos]], but remain overseen by the ''Quaymaster'' rather than falling under the remit of the [[Elosian Architect]]. To avoid confusion, some people have started to referring to them specifically as the "''Hesychian Docks''" in recognition of the source of most of the white granite that passes through them.
+
+==Responsibilities==
+The Quaymaster of the Hesychian Docks is expected to ensure that the citadels of Axos continue to exchange white granite for Imperial dragonbone. If this trade, or the Hesychian Docks, were ever directly threatened, the Quaymaster would be responsible for dealing with those threats - but also for making decisions about any opportunity related to them. The continued operation of the quays, and thus the ministry, requires that relations between the Empire and Axos remain cordial - the Quaymaster thus has a vested interest in ensuring friendship between the two nations continues.
+==Powers==
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible"><tr><td colspan="2" style="background-color: LightYellow;">'''White Granite'''</td></tr>
+<tr><td>40 dragonbone</td><td>2 wains of white granite</td></tr>
+<tr><td>80 dragonbone</td><td>4 wains of white granite</td></tr>
+<tr><td>125 dragonbone</td><td>6 wains of white granite</td></tr>
+<tr><td>170 dragonbone</td><td>8 wains of white granite</td></tr>
+<tr><td>216 dragonbone</td><td>12 wains of white granite</td></tr>
+<tr><td>264 dragonbone</td><td>14 wains of white granite</td></tr>
+</table>
+</div>
+===Ministry===
+As a [[ministry]], the title of Quaymaster of the Hesychian Docks allows the holder to purchase wains of white granite at a set price. The Quaymaster makes their decision how much dragonbone to spend during downtime from their character page. The dragonbone is removed from, and wains of white granite are placed into, the character's inventory when the downtime is processed.
+
+==Appointment==
+This title is appointed during the Summer Solstice. The Quaymaster of the Hesychian Dock is appointed by citizens of Urizen who control the [[mana site]] [[Resource|personal resources]]. The larger the mana site an individual has the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only an Urizen citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Quaymaster_of_the_Hesychian_Docks}}
+{{Anchor|Elosian Docks|Hesychian Docks}}
+==Hesychian Docks==
+Elos is a spire in Naris, Redoubt. Originally a base for what little navy Urizen retained from its time prior to joining the Empire, it slid into relative obscurity over the centuries. Before the construction of the specialist trading docks here, it was a quiet fishing village, much overlooked by merchants and traders despite its extensive quayside and fortified harbour wall. When dedicated facilities for Axou ships were constructed, it began to draw increasing attention from citizens looking to trade valuable resources, inspiring further proposals to continue to expand the dockyards even further. In Spring 384YE the work on the Hesychian docks was somewhat overshadowed by a much larger and more ambitious plan to restore the spire to its former glories; the quayside is now part of the much larger [[Elosian_Architect#Great_Harbour_at_Elos|Great Harbour at Elos]].
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Bourse]]
+[[Category:Urizen]]

@@ -1,0 +1,152 @@
+---
+title: Lineage
+source: https://www.profounddecisions.co.uk/empire-wiki/Lineage
+class: mixed
+topic: magic/lore
+categories:
+- Lineage
+last_edited: '2026-07-02T11:49:36Z'
+revision: 141081
+aliases:
+- Lineage overview
+---
+
+# Lineage
+
+*[Image: Lineage is a touch of magic in the blood.](https://www.profounddecisions.co.uk/empire-wiki/File:In_The_Blood.jpg)*
+
+## Overview
+
+Lineage represents the touch of magic on a human, and can occur in many ways. Parents with lineage often give birth to children of the same lineage. It is also common for unlineaged parents to give birth to a lineaged child for no apparent reason.
+Lineage often comes through the blood, or from exposure to a strong magical aura when very young, but can also occur for other reasons. For instance a child born in a primal forest under the influence of the realm of [Spring](../../../in-character/eternals/Realm.md#spring) might become a briar in later life, while a child born during a great famine when [Winter](../../../in-character/eternals/Realm.md#winter) holds sway might be born a draughir. Likewise, some places simply have a higher incidence of lineage among the children born there - places like [Syrene](../../../in-character/nations/highguard/Casinea.md#syrene) in [Casinea](../../../in-character/nations/highguard/Casinea.md) or [Spiral Castle](../../../in-character/nations/dawn/Weirwater.md#spiral-castle) in [Weirwater](../../../in-character/nations/dawn/Weirwater.md).
+
+## Six Lineages
+
+There are six lineages in the world of Empire, each associated with one of the [realms](../../../in-character/eternals/Realm.md) of magic: ([Spring](../../../out-of-character/rules/Spring_magic.md), [Summer](../../../out-of-character/rules/Summer_magic.md), [Autumn](../../../out-of-character/rules/Autumn_magic.md), [Winter](../../../out-of-character/rules/Winter_magic.md), [Day](../../../out-of-character/rules/Day_magic.md), and [Night](../../../out-of-character/rules/Night_magic.md)).
+
+## [Briar](Briar.md)
+
+*[Image: BriarLineage.png](Briar.md)*
+
+The briars are touched by the realm of Spring, an exuberant realm of uncontrolled natural forces dominated by green growing things that care not at all for humankind.
+[more...](Briar.md)
+
+## [Cambion](Cambion.md)
+
+*[Image: CambionLineage.png](Cambion.md)*
+
+The cambion are infused by the realm of Autumn, a realm of naked ambition and intrigue where complex webs of wealth and influence connect the eternals. [more...](Cambion.md)
+
+## [Changeling](Changeling.md)
+
+*[Image: ChangelingLineage.png](Changeling.md)*
+
+The changelings are touched by the realm of Summer, a realm of majesty and strength. They are proud, confident, individualistic people who know they are the best of the best. [more...](Changeling.md)
+
+## [Draughir](Draughir.md)
+
+*[Image: DraughirLineage.png](Draughir.md)*
+
+The draughir are touched by the realm of Winter, a nightmare realm of hunger and death that nonetheless possesses hidden wisdom. [more...](Draughir.md)
+
+## [Merrow](Merrow.md)
+
+*[Image: MerrowLineage.png](Merrow.md)*
+
+The merrow are touched by the realm of Day, a realm where sky and ocean merge. They are rational, calm, curious people who look as if they are as much at home beneath the waves as they are on land. [more...](Merrow.md)
+
+## [Naga](Naga.md)
+
+*[Image: NagaLineage.png](Naga.md)*
+
+The Naga are touched by the realm of Night, a realm of shapechanging wyrms and winged serpents. They embody both the subtle nature of the Night eternals and their powerful emotions. [more...](Naga.md)
+
+## Creating a Lineaged Character
+
+If you wish to play a character that is not fully human but you do not want to play an [orc](../../world/Orc.md) then you may select one of the [six lineages](#six-lineages) that are available to a human character. Each lineage is linked to one of the six realms - so if you wish to have lineage then you must pick one of the six shown above, you cannot create your own lineage. Only humans possess lineage; [Imperial Orcs](../../../in-character/nations/imperial-orcs/Imperial_Orcs.md) are not affected in the same way by the magic of the realms and do not become lineaged.
+
+*[Image: Lineaged people are found in all walks of life.](https://www.profounddecisions.co.uk/empire-wiki/File:Getting_Together.jpg)*
+
+Lineage has no effect on your character's skills or abilities but each lineage has a list of **trappings** - physical and mental characteristics associated with the lineage. You need to decide how much lineage you want your character to possess. It is possible to have only the slightest touch of magic in your blood or to be very strongly affected. How lineaged your character is is based solely on their appearance and the way you roleplay the character. If you choose to use most of the mental and physical trappings and to make any phys-reps large and impressive then your character is strongly lineaged (often called high lineage). If you only adopt one or two of the trappings and they are subtle or difficult to spot then your character is not strongly lineaged.
+
+If you choose a lineage then you must phys-rep the degree of lineage that your character has. Choosing whether to have lineage or not is a major decision that should not be taken lightly. There is no easy in-character way to remove lineage once a character has been played. If you later discover lineage is not for you, then you may need to retire the character.
+
+Each lineage has an iconic trapping (such as horns for [cambions](Cambion.md) or pointed ears for [changelings](Changeling.md)). This is the most common physical mark for lineaged characters but is not a required element.
+
+There is a section about attitudes to the lineages in each of the [nation](../../../in-character/nations/general/Nation_overview.md) briefs. There are individuals of every lineage in every nation in the Empire, lineaged characters are considered human, and for the most part they are fully accepted in most lands. The only exception are [briars](Briar.md), who enjoy a poor reputation as violent and confrontational individuals and suffer prejudice in most nations as a result.
+
+## Creating a Lineaged Group
+
+Individuals with lineage often feel more comfortable in the company of others who share their lineage. Because of this, and the fact that lineage has some tendency to run in the blood, it is possible to create a group of characters who share a lineage. Such characters may have been born in similar circumstances or they may have chosen to seek each other out and work together. For instance, the members of a thane's hall in Wintermark may all be briars due to the presence of a powerful Spring aura in the area. Or a band of Dawnish knights-errant may all be draughir, having chosen to quest for glory together.
+
+## Playing a lineaged character
+
+Each lineage has a description of how the touch of magic influences the personality and attitudes of a character with that lineage. These are meant to be useful hooks to help you build an iconic and interesting character as well as a way to make lineage more interesting for those who interact with them. However it is up to you how you create your character, you are free to interpret these elements as you wish. Even if your character possesses all the physical trappings of a lineage, you don't *have* to roleplay the mental trappings of a lineage, it simply means your character's personality is not affected by the magic in their blood - that they do not have high lineage.
+
+*[Image: The lineaged are still humans, but sometimes their differences set them apart from their fellow citizens.](https://www.profounddecisions.co.uk/empire-wiki/File:Resting_Briar.jpg)*
+
+**Boons**  
+Each lineage has a *boon* such as the [ability to eat spoiled food](Draughir.md#carrion-feaster) of the [draughir](Draughir.md) or the [stubborn will](Cambion.md#stubborn-will) of the [cambion](Cambion.md). These boons represent a minor ability that the character possesses as a result of their lineage. Some of these abilities provide a [limited source of spiritual strength](../../../out-of-character/rules/Roleplaying_effects.md#limitations) allowing the character to respond to specific [roleplaying effects](../../../out-of-character/rules/Roleplaying_effects.md) in a specific different way. For example, a [changeling](Changeling.md) can respond to roleplaying effects that would cause them to be afraid or filled with doubt by becoming angry. It should be obvious to those nearby that you are using this special ability. Others are more conditional - the [merrow](Merrow.md) ability to survive underwater for long periods, the [naga](Naga.md) heightened senses, or the draughir ability to eat spoiled food. These are very much about providing roleplaying opportunities for the lineaged character, rather than mechanical advantages. While they might in theory provide an advantage in a specific scenario, they are very unlikely to give any sort of consistent or persistent mechanical advantage. Situations where these boons grant a game advantage would be the exception rather than the rule.
+
+**Lineage and the Eternals**  
+The eternals are known to sometimes respond positively to approaches from individuals with high lineage of their realm. In effect they may see a character with high lineage as one of their own and a powerful and important lineaged character is more likely to be treated as an equal. This does not guarantee good treatment, it does not guarantee that the eternal will respond positively, it simply improves the likelihood of being well received, particularly at first meeting. The physical or mental trappings of high lineage are equally likely to help make a good first impression on an eternal of the appropriate realm.
+
+## Gaining Lineage in Play
+
+- **Wanting to gain lineage can provide a challenging goal for a character**
+- **You can email in to add lineage in downtime once per character**
+- **Gaining lineage is never obligatory - it is always an out-of-character choice by the player**
+
+Becoming lineaged, or removing lineage, can both be significant goals your character can strive toward, but they are likely to take time and effort to achieve. There are several ways to gain a lineage in play: some [eternals](../../../in-character/eternals/Eternal.md) are willing to offer boons in return for payment or as a reward for a service, there are a number of rituals in Imperial lore that a [recent conjunction](../../../out-of-character/rules/Wiki_Updates.md#lineage-changes) has altered so that they can result in lineage manifesting in later life, and there are six groups of NPCs in the Empire who can help in downtime.
+
+It is impossible to *change* lineage. No magic will change lineage - the only method of changing from briar to cambion would be to somehow first lose the briar lineage and then find a way to gain the cambion lineage.
+
+There is a ritual in game, [The Twilight Masquerade](../rituals/The_Twilight_Masquerade.md), that allows a character to experiment with lineage and can be used as a good trial run for determining if you are comfortable with the trappings. The Twilight Masquerade is also still the best method for a character who wants to experiment with multiple different lineages.
+
+It is important to remember that gaining lineage is always an out-of-character choice by the player. Lineage represents a serious commitment for a player, both to provide suitable phys-reps and potentially to change how they roleplay their character. Each of the methods detailed below are deliberately esoteric so there is no way of "*tricking*" another character into gaining lineage. Even if that were not the case it would always still be the choice of the *player* if they wanted their character to gain lineage.
+
+The page for each lineage includes a number of methods of pursuing lineage in play, the most common of which is interacting with an eternal's heralds. There is also a **Downtime** section that details ways that your character can gain lineage between events. These transformations are noted in-character as happening "occasionally" or "sometimes" but the explicit intention is to allow players to roleplay their characters having been one of those for whom the manifestation has taken place. If you want your character to gain lineage in downtime please [email us](mailto:admin@profounddecisions.co.uk) with your CID and which lineage you want your character to acquire. You can only do this *once* for any individual character.
+
+## Removing Lineage in Play
+
+- **The eternal Ylenwe is known to offer a way to remove lineage**
+
+One of the well known boons offered by [Ylenwe](../../../in-character/eternals/Ylenwe.md) is a method of entirely removing lineage from an individual. While the eternal has changed many of zir attitudes, zie is still assumed to be able to help people who want to remove unwanted lineage to restore themselves to a harmonious state.
+
+## Limits on Lineage
+
+*[Image: Both prosthetic and make-up effects can be used to create lineage trappings.](https://www.profounddecisions.co.uk/empire-wiki/File:Gloriously_Happy_Couple.jpg)*
+
+**Trappings**  
+There are only six lineages available and the physical trappings listed for a lineage are the only trappings that should be used. You should not mix physical trappings from different lineages or invent your own physical trappings - e.g. you cannot play a [merrow](Merrow.md) with horns or a third eye.
+
+If you want to phys-rep one of the trappings with a slightly different technique or style to the ideas suggested on the lineage pages then that is absolutely fine. If you want to use different trappings to the ones listed then you should [email us](mailto:matt@profounddecisions.co.uk) to discuss your plans. Your request must be an extension of the stylistic concepts listed for the lineage, for example there are no circumstances under which your changeling can have fiery red skin as a trapping. If the trapping you have requested is a good fit for the lineage, then we will add it to the list of minor trappings available for the lineage.
+
+Some individuals with lineage may find that their lineage grows stronger with the passage of time. If you want to do this, then your build on your phys-rep over time to increase the degree of lineage that your character has. The precise mechanisms by which your lineage grows stronger vary from character to character, it may be the passing of time, exposure to magic, etc.
+
+This process does not go in reverse, you cannot become more human over time. However if your lineage trappings are problematic, for example if you are having an allergic reaction to a prosthetic, then you can reduce or change the way your lineage manifests. Otherwise please try to keep your lineage consistent.
+
+Finally, it is not possible to play a lineaged character with no physical trappings. You may choose to have the bare minimum, but you must have at least one of your lineage's physical trappings if you possess lineage.
+
+**Backgrounds**  
+No matter the circumstances of your birth or the way you came to possess lineage, your character must have been raised in the mortal world. Humans cannot survive in the realms themselves. Mortals who claim to have visited a realm have in fact visited a [chamber](../rituals/Regio.md#portals-and-chambers) - a place that exists part way between the mundane world and the realm. Some of these chambers are very large - one might contain an entire forest for example. For this reason, your character's background cannot include a visit to a realm, you cannot have grown up in a realm or have been raised there by heralds or an eternal. You may have visited a chamber and spent time there, but even in these cases it is unlikely a background where you are raised by heralds or eternals will be approved.
+
+## Further Reading
+
+General Information
+
+- Lineage
+- [Lineage FAQ](../../../out-of-character/rules/Lineage_and_species_FAQ.md#lineage)
+
+Lineages
+
+- [Briar](Briar.md)
+- [Cambion](Cambion.md)
+- [Changeling](Changeling.md)
+- [Draughir](Draughir.md)
+- [Merrow](Merrow.md)
+- [Naga](Naga.md)
+
+---
+
+Categories: [Lineage](../../../indexes/by-category/Lineage.md)

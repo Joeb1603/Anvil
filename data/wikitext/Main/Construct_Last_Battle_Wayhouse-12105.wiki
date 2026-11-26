@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:386YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Hercynia, Seconded: Semmerholm">To construct Last Battle Wayhouse in the Bleaks, the Barrens. The Wayhouse will be a vital strategic tool in our fight against the Druj, providing crucial reconnaissance into Sarangrave. Appointed annually by Generals of Navarr. Self funded.</quote>
+==Overview==
+* Constructs a wayhouse in the Bleaks, the Barrens as per the '''[[The_way_home#The_Last_Battle|The way home]]''' wind of fortune
+* Passed
+
+==Date==
+* Autumn 386YE
+
+==Cost==
+* Costs as per opportunity
+* 18 weirwood
+* 54 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Last_Battle_Wayhouse}}
+==Outcome==
+Now complete, the [[Keeper of the Last Battle]] will be available to appoint by unanimous decision of the generals of [[Navarr]] for the first time at the Winter Solstice 386YE. Nesustak Forest and Turan Flats in [[Sarangrave]] have both gained the [[Region_qualities#Under_Threat|under threat]] quality. As a wayhouse it also allows Navarri characters to have personal resources in the Barrens, benefiting from any [[great work|great works]] in the territory and will increase seasonal taxation from the Barrens by one throne.

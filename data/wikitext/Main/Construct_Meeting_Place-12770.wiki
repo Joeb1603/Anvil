@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Proposed: Sermersuaq, Seconded: Conscience of the Senate">To build a feasting hall on Gull Island, Kallavesa. This would act as a new meeting place in matters of diplomacy between the Empire and the Jotun. The Empire will contribute 55 wains of white granite to this edifice, with <s>167</s> 198 crowns of labour costs. This construction will be a joint effort with the Jotun. They are also contributing to this build.</quote>
+==Overview==
+* Constructs an [[edifice]] in West Marsh, Kallavesa
+* Passed
+* More information can be found in the '''[[A_stone_for_a_stone#Create_A_New_Meeting_Place|A stone for a stone]]''' wind of fortune
+
+==Date==
+* Spring 387YE
+
+==Cost==
+* Standard costs apply
+* 110 white granite
+* 396 crowns (increased by being built in a [[Commission#Marshes|marsh]])
+* Nine months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Meeting_Place}}
+==Outcome==
+Now complete, [[Kallavesa#Gull's_Isle_Hall|Gull's Isle Hall]] stands in West Marsh, Kallavesa

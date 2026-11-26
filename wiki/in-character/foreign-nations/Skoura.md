@@ -1,0 +1,89 @@
+---
+title: Skoura
+source: https://www.profounddecisions.co.uk/empire-wiki/Skoura
+class: in-character
+topic: foreign-nations
+categories:
+- Foreign Nations
+- The World
+last_edited: '2026-01-15T21:29:30Z'
+revision: 132162
+---
+
+# Skoura
+
+## Introduction
+
+Skoura lies south-east of [Urizen](../nations/urizen/Urizen.md), and south of [Axos](Axos.md). They do not share a border with the Empire, but their native tongue is [Imperial](../world/Languages.md#english). The Skourans are a mountain dwelling people who may share common ancestry with the Urizen and Axou. Even more so than the Urizen, they keep to the high-places and treat the lowlands at the base of their mountains with caution - it is believed that some parts of Skoura are inhabited by hostile [orcs](../../mixed/world/Orc.md) that make travel difficult.
+
+Even more so than Axos, Skoura is an unknown quantity to the Empire. There have never been close ties, and the Skourans do not welcome Imperial visitors to their mountain fastnesses. Much of what is known about modern-day Skoura comes second-hand from the Axou, and as such should be treated with caution by Imperial travellers.
+
+## People
+
+The Skourans are described as being extremely disciplined, with "*a fetish for order that borders on the obsessive.*" They are said to be among some of the most talented miners and architects in the known world; if the Axou are to be believed, this is partly due to a cultural commitment to minimising risk. The typical Skouran is depicted as quiet, careful, stoic, and extremely cautious.
+
+While they are insular, they are not xenophobic. Participants in the 379YE campaign in Axos (the [Siege of Ipotavo](../winds-of-war/379YE_Spring_Equinox_winds_of_war.md#dusk) and the Liberation of Kaban) spoke of encountering Skouran mercenaries in the employ of the Ipotavans. One mercenary soldier described them thusly:
+
+"The dour mercenaries from southern Skoura kept mostly to themselves, occasionally shooting us suspicious glances. Gloomy warrior-artificers, clad in heavy armour and armed with large shields and hammers, their true expertise lay in the prosecution of sieges and the engineering of war. They spoke the Imperial tongue, but they always spoke slowly, using as few words as possible and obviously considering every sentence they spoke before they spoke it. It drove my quartermaster Elenza i Erigo quite mad, I think. I think she found the idea of a nation that refuses to make small talk quite abhorrent."
+
+Where the Urizen favour [spires](../nations/urizen/Spire.md) and the Axou their citadels, the bulk of the Skouran population are said to inhabit a number of reasonably fertile, extremely defensible valleys. They maintain outposts throughout their mountain ranges, but where the Urizen might build towers the Skourans prefer to delve into the mountains creating military bases which they call *deepholds*. The approach to each settlement is protected by several deepholds, from which Skouran warriors launch surprise attacks against any invaders, and these bases are said to be connected by a confusing maze of underground tunnels full of potential traps for unwary invaders.
+
+## Culture and Customs
+
+The Skourans are an introverted and disciplined people. They are said to have strict rules that govern everything they do. They are a democratic people; each of their settlements is led by an elected council, and the nation itself is apparently guided by a High Council made up of representatives from each settlement. Their councils are said by the Axou to be "*extremely tedious - they want to explore every detail of every agreement and wherever possible include clauses to cover every eventuality.*"
+
+One feature that sets them apart from their neighbours is their respect - bordering on reverence - for those who master the skills of [artifice](../../out-of-character/rules/Crafting_skills.md#artificer). The majority of their leaders are said to be skilled artisans, and it is said that everyone in the nation is trained in at least one craft. They are especially adept at working metal and stone, and even the otherwise self-absorbed Axou credit them as being among the most talented jewellers in the world.
+
+Skourans are said to have a special reverence for the elements of fire and water. These elements are seen as one of the foundations of all life and all creativity. Fire illuminates, warms, and transforms while water cleanses, quenches, and brings life. Both forces are treated with care however - either can be catastrophically destructive if it is not respected.
+
+## Abridged History
+
+The story of the Skourans is familiar to the people of the Empire. At some point in the past, they lived on the plains beneath the mountains. Then barbarian orcs spilled through the area and they were forced to take refuge in the mountain valleys. They adapted their already quite extensive mine workings to form the first deepholds, and fought a war of attrition against the orcs. Expanding their deepholds provided them not only with valuable materials that allowed them to arm their soldiers and shore up their defences, but also gave them mineral wealth that they used to secure the aid of Axou mercenaries.
+
+During the Summer Solstice, the [Department of Historical Research](../../mixed/government/senate/Historical_research.md#the-department-of-historical-research) was [charged](../senate-sessions/385YE_Summer_Solstice_Senate_sessions.md#research-urizen-in-mareave) by Vaclav Mladenovich Kosti, [Minister of Historical Research](../../mixed/titles/Minister_of_Historical_Research.md) to "*research the history of the territory of Mahal, now known as Mareave, and its inhabitants through history, with particular regard to the Urizeni*." The [subsequent report](../nations/urizen/Mareave_and_Urizen.md) touches extensively on Skouran history, both in that territory and in relation to the Empire and the nation of Urizen.
+
+## Military Concerns
+
+The Skourans are not a powerful military force. Rather, they rely on fortifications and traps to protect their valleys from invaders. Their troops tend to be extremely well armed and armoured - even the greenest infantry soldier is likely to possess one or more [magic items](../../out-of-character/rules/Magic_items.md). The Skourans allegedly have a very practical approach to warfare, and are without mercy on the battlefield - they are much more likely to collapse a tunnel or send an avalanche down onto an enemy force, or to douse them in oil and fire, than to engage in hand-to-hand combat.
+
+## Economic Concerns
+
+The mountains of Skoura supply a huge amount of ore to the deep-mining Skourans. Their deepholds in particular tend to lie on mineral veins and they are experts at digging deep into the mountains and extracting its wealth. They are said to be particularly rich in white granite and mithril, as well as [tempest jade](../../out-of-character/rules/Materials.md#tempest-jade), [green iron](../../out-of-character/rules/Materials.md#green-iron), [orichalcum](../../out-of-character/rules/Materials.md#orichalcum), and [weltsilver](../../out-of-character/rules/Materials.md#weltsilver). They have only a limited access to the bounty of the [forest](../../out-of-character/rules/Forest.md), however, and this apparently forms the bulk of their trade deals with the Axou.
+
+Their valleys are said to be fertile, and they are believed to keep herds of a hardy animal resembling a cross between a mountain goat and a sheep. These animals provide them with wool, and with a tough slightly bland meat that they supplement extensively with spices and root vegetables. "*A Skouran eats to live,*" say the Axou. "*The idea that food might be in some way enjoyable is probably a heresy.*"
+
+As near as Imperial scholars can tell, Skoura is land-locked and thus does not engage in international trade. The majority of their existing deals appear to be with the Axou.
+
+## Religious Beliefs
+
+The Axou dismiss the Skouran religion as "incomprehensible". As near as theological scholars of the [Synod](../../mixed/government/synod/Synod.md) can tell, they have a confused [idolatrous](../../mixed/government/synod/Religious_crime.md#idolatry) faith in an unnamed god or gods. Their doctrine appears to enshrine ideas of self-discipline, caution, and communal service. Their priests are apparently artisans, and teach that the act of creating magic items is in some way "holy". According to some very old and obscure texts, the Skourans appear to claim that their god is physically incarnate among them, and guides them with wise counsel. The predominant belief among those scholars who have studied Skoura is that this is a metaphor; that the Skourans in some way worship the mountains themselves.
+
+The few modern Skourans that have had contact with the Empire have been reticent to speak about their faith with outsiders.
+
+## Magic Traditions
+
+The Skourans are not believed to have strong magical traditions. As with all humans, they certainly have both [spellcasters](../../out-of-character/rules/Spellcasting.md) and [ritual magicians](../../out-of-character/rules/Rituals.md) among them, but their power appears to be unexceptional. They are much more advanced in the creation of magic items, however, and scholars theorise that the artisans of Skoura are likely to have access to at least one [runeforge](../../mixed/commissions/Runeforge.md).
+
+## Territories
+
+The Skouran [territories](../../out-of-character/rules/Territory.md) are unknown to the Empire.
+
+## Look and Feel
+
+The Skouran look is extremely practical. The majority of Skourans encountered have worn long tunics with short sleeves, trousers, and stout boots. Depending on the weather, they supplement these tunics with a heavier wool or fleece jacket; a light woollen undertunic with long sleeves; a heavy hooded wool cloak; or higher, fur-lined boots.
+
+All Skouran clothing is dour and usually uncoloured - they apparently do not bother to dye cloth at all. All Skourans wear jewellery however - even the poorest is likely to have a gold ring or two, or a silver torc inlaid with semi-precious stones. Likewise, weapons and tools are often beautifully inlaid and decorated with precious metals and stones. A wealthy Skouran may be wearing a small fortune in gold, silver, mithril, and gemstones.
+
+In battle they favour heavy metal armour (plate or chain), large square or rectangular shields, and one- or two-handed hammers. it is common for one or all of these armaments to be enchanted in some fashion.
+
+## Skourans in Play
+
+Skoura is isolated from the Empire, and does not welcome outsiders. Even their Axou trading partners do not visit their secluded valleys, being hosted instead in the deepholds on the edge of their territory. A background in which your character interacts extensively with, or visits, Skoura is unlikely to be approved.
+
+## Further Reading
+
+- [Mareave and Urizen](../nations/urizen/Mareave_and_Urizen.md) - Historical Research report that talks extensively about Skouran history
+
+---
+
+Categories: [Foreign Nations](../../indexes/by-category/Foreign_Nations.md), [The World](../../indexes/by-category/The_World.md)

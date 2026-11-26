@@ -1,0 +1,9 @@
+
+Creative Commons<br />
+
+
+
+Please include the following text in the description field when uploading files licensed under creative commons to the wiki as well as proper accreditation according to the guidelines [http://crew.profounddecisions.co.uk/Photography on the crew wiki]:<br />
+
+''<nowiki>[[Category:Photos:CreativeCommons]] [[:Category:Photos:CreativeCommons|Image licensed under Creative Commons]]
+</nowiki>''

@@ -1,0 +1,19 @@
+[[Category:Senate Motion]][[Category:387YE Summer]]
+__NOTOC__
+<quote by="Announced by Firesong Arachas, Legion Engineer">The Ashen Tears wayhouse to be built in Skogei, Skarsind for 16 wains of white granite and 6 thrones. Keeper of the Ashen Tears Wayhouse to be appointed by Navarr senators.</quote>
+==Overview==
+* Constructs a [[Navarr wayhouse|wayhouse]] in Skogei Glens, [[Skarsind]]
+* Announcement by the [[Legion Engineer]]
+
+==Date==
+* Summer 387YE
+
+==Cost==
+* Standard costs apply
+* 16 white granite
+* 48 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Construct_Ashen_Tears_Wayhouse}}
+==Outcome==
+* Now complete, the [[Keeper of the Ashen Tears]] will be available to be appointed by unanimous vote of the senators of Navarr for the first time at the Autumn Equinox 387YE

@@ -1,0 +1,11 @@
+==Description==
+The Ring of the Rainbow Sage was designed at [[Seer_of_the_Spiral_Sword#The_Spiral_Sword|the Spiral Sword]] in [[Redoubt#Cargo|Cargo]], under the guidance of '''Tisserande Griffinsbain'''. The original [[Magic_items#Schema|schema]] was shared with Imperial [[crafting skills#Artisan|artisans]] by the [[Senate]] during the Spring Equinox 387YE. The motion was raised by '''Thalia of Netherwatch''', the [[senator]] for [[Redoubt]], and funded by Tisserande themselves.
+
+The ring is named in honour of [[Meraud]], the ''Rainbow Mage'', and the gift he gave to the [[Urizen]] youth, '''Leo the Rainbow Sage'''. It resembles [[Atun's Ring]], but it has significantly more power. The ring is remarkably difficult to create, and it requires a small fortune in materials to forge one. It also provides the wearer with a sense of power and confidence, making it difficult to cause them to feel weak or inferior, and almost impossible to make them doubt their magical powers.
+
+The rings themselves, in deference to their name, often bear bands of different colours or are set with gemstones of several different colours. The connection to Meraud might be played up, incorporating a hawk or a fox into the metalwork.
+
+==Rules==
+{{Foci}}
+* '''Effect:''' Once per day you can use this ring to gain two additional ranks of any one ritual lore for the purposes of performing a single ritual, subject to the [[Magical_skills#Gaining_additional_ranks|normal rules for effective skill]]. In addition while wearing the ring you can respond to any roleplaying effect that would make you feel weak, inferior, or doubt your magical powers with a burst of confidence, arrogance, or anger. 
+* '''Materials:''' Crafting a Ring of the Rainbow Sage requires seventeen measures of [[Materials#Ambergelt|ambergelt]], seventeen measures of [[beggar's lye]], three measures of [[Materials#Dragonbone|dragonbone]], seventeen measures of [[iridescent gloaming]], seventeen ingots of [[Materials#Tempest Jade|tempest jade]], seventeen ingots of [[Materials#Orichalcum|orichalcum]], and seventeen ingots of [[weltsilver]]. It takes one month to make one of these items.

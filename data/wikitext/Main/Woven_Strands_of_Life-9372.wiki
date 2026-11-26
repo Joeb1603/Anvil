@@ -1,0 +1,30 @@
+[[Category:Spring Ritual]][[Category:Rituals]][[Category:Resource]]
+{{CaptionedImage|file=NBUrizen.jpg|caption=This ritual is part of [[Urizen magical traditions#Urizen Lore|Urizen lore]] rather than [[Imperial lore]].|align=right|width=200}}
+==Rules==
+{{Season|Spring|14}}
+{{Urizen Lore}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Resource|[[mana site]]}}
+
+{{enchantment}}
+
+===Effects===
+This ritual diverts all the flows of magic that would normally infuse a [[mana site]] into provoking the growth of valuable [[herbs]]. The target produces no crystal mana during the coming season. Instead it produces herbs as if it were a [[herb garden]] of the same rank. In addition, the magical herb garden produces an additional 14 drams of random herbs.
+
+{{Downtime buff}}
+
+===Additional Targets===
+This ritual can affect additional mana sites in the same [[territory]]. Each additional mana site increases the magnitude by 10. The character who controls each mana site must be present throughout the ritual.
+
+==Description==
+<div style="float:right; width: 500px; clear: right;"><quote by="Cassirra Greenwell of Bleak Tower Spire">There is no doubt that pure magic is the essence of life - that the same force that moves our blood gives us the power to shape the world with our will. Just as Kala demonstrated how light may be split into a rainbow of colours with a crystal prism, so we can split and recombine the raw energy of mana to weave strands of pure lifegiving essence. Think of it - all the energy that would be captured in the crystals of a mana site instead set to work driving the growth of healing herbs. What a bounty we reap thereby even in the bleakest of climes!</quote></div>
+This potent if focused ritual works with the flows of magic through a [[mana site]], weaving them with [[Spring magic]] to turn them toward the creation and sustaining of wholesome growth. Instead of crystal mana, for a whole season the site will produce healing [[herbs]]. The mana site must be tended carefully, to ensure the plants can prosper, which often involves an entirely different set of skills to those possessed by folk used to tending the growth of crystals rather than vegetation. It is not uncommon for the herbs may be touched by the [[Spring magic#resonance|resonance]] of [[Spring magic#Chaos|chaos]] - herbs that grow much larger than normal or which have odd characteristics or colouration are common. At the end of the day, however, the owner of the mana site will be able to claim a significant bounty of valuable herbs once the enchantment has run its course. 
+
+This ritual became part of [[Urizen lore]] in 383YE alongside [[A Goblet of Stars]], [[Fountain's Bounty]], and [[Wellspring of the High Peak]]. All four rituals were contained in ''[[Some_heavenly_music#The_Well_of_Nine_Stars|The Well of Nine Stars]]'', a grimoire belonging to ''Cassirra Greenwell'', a refugee from Grendel-occupied [[Spiral]]. The book was given to the founders of Fountainhome Spire in the reign of [[Empress Richilde]] and handed down from generation to generation. It contained a wealth of [[Spring magic|Spring lore]] relating to green growing plants. The survivors of Fountainhome Spire proposed that the book be entered into lore as much to reconnect their fellow Urizeni with their pasts as to swell their understanding of the realm of Spring. Arbiter Cyrus of the [[Custodian_of_the_Bleak_Tower#The_Bleak_Tower|Bleak Tower]] agreed, and worked with Cassirra and her fellows to arrange for the rituals contained within to be [[Some_heavenly_music#Beneath_a_Bleak_Spire|shared]] with the rest of Urizen. 
+
+As with the other groups with rituals to propose for Urizen lore, however, ''The Well of Nine Stars'' did not come without [[Some_heavenly_music#Focusing_the_Chalice|complications]]. As a requirement before the book can become part of Urizen lore, Cassirra Greenwell and the members of Bleak Tower wanted the then-newly formed [[Silver Chalice]] [[Conclave order]] to make a significant change to its [[Silver Chalice#Manifesto|manifesto]]. Specifically they wanted it to officially remove the statement that it existed to "''Look into supporting long term efforts to aid the infrastructure (and foundations) of the Empire''." Both were quick to make clear that they and their spiremates bear the Order no ill-will. On the contrary, they are concerned that the Silver Chalice has erred by choosing four goals rather than the traditional three. Three is an ideal number, claims Cassirra Greenwell; more than three and the order risks becoming unfocused - especially with a goal that is so open ended as to be functionally meaningless. For the order to be truly successful it must have ''focus''. The Senate ultimately [[383YE_Winter_Solstice_Senate_sessions#Amend_manifesto_of_the_Silver_Chalice|modified the manifesto]], and the ''Well of Nine Stars'' became part of Urizen lore shortly thereafter.
+
+==Common Elements==
+The ritual creates fertility and encourages supernatural growth fuelled by the currents of magic that swirl around a mana site. Performing the ritual with crystals harvested from the site that is to be enchanted is a particularly effective way to weave the enchantment. Likewise,  [[hearth magic|hearth magics]] and symbols associated with health and fertility are commonly evoked, such as shedding small amounts of blood or offering a cup or bowl of wine, ale, milk or mead to those who control the target mana sites.
+
+Ritual performances in Urizen typically include the evocation of [[the Fountain]], and the spilling of fresh water. The rune [[Bravash]] resonates strongly with the ritual, as does [[Xun]]. Likewise the [[dramaturgy|dramaturgical]] persona of [[the Witch]] and the throne of [[the Garden]] can help when working this enchantment.

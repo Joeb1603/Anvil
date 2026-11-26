@@ -1,0 +1,19 @@
+==Overview==
+<div {{float}}>{{CaptionedImage|file=Ghohlbrorn.jpg|caption=A ghohlbrorn is a fearsome sight on the battlefield.|align=right|width=600}}</div>
+__NOTOC__
+These gargantuan creatures are a recent addition to the Grendel's land forces in their war against the Empire. Imperial scholars understand them to be native to the rocky coasts of the southern Broken Shore. They live in the littoral zone, scavenging along beaches, hunting in the crashing surf and wandering among dunes and mangrove swamps. At first, opinion was divided on how to classify them - they were understood to be some sort of reptile -  and some believed they were possibly related to the drakes used by Grendel armies. It was one of the ''[[386YE_Autumn_Equinox_winds_of_fortune#Ways_and_Means|Sanguine Sands]]'', an Imperial Orc in [[Mareave]], who discovered the ghohlbray, the much smaller relative that is closer in size to an iguana, on the rocky, south-western coast of the territory.
+
+==Ghohlbrorn Capabilities==
+Ghohlbrorn are '''monstrous'''. Like all [[Calls#Monstrous_Creatures|such creatures]], they are unaffected by many spells and martial tactics. For example, they cannot be poisoned by conventional [[Legacy of Thorns|blade venoms]] nor [[Calls#STRIKEDOWN|knocked down]] with a polearm strike. However, they can be healed through the performance of rituals similar to [[Hands of Sacred Life]]. '''OOC note:''' Ghohlbrorn do not suffer the effects of calls, although they still take damage from any blows struck to deliver them. They can be the targets of specific rituals cast at higher magnitudes.
+
+Ghohlbrorn do not have any particularly obvious capabilities in battle beyond their excessive size and toughness. There are some wild sailors' tales of a ghohlbrorn unleashing a belch that [[Calls#PARALYSE|stuns]] creatures trying to flee.
+
+==Ghohlbrorn in Play==
+The ghohlbrorn is a massive, hulking reptile with a squat body, short stubby legs, and a large, armoured head. They are often ridden into battle by a Grendel equipped with a polearm, who stabs down at foes who stray too near.
+
+The ghohlbrorn and ghohlbray are both omnivores, eating shoreline grasses and seaweed when they have to but preferring meat - especially rotten fish. The ghohlbrorn have been seen to wade into the sea to attack all manner of sealife and will haul them back to shore where they can. Small packs of ghohlbray then burrow into the corpse and begin to consume the innards, leaving the tough outer flesh for their older cousins. 
+
+Hunting down a pack of meddlesome ghohlbray would make for a suitable challenge for a martial-focused character, particularly one with a focus on speed over power. It could also be a valid [[Dawn_culture_and_customs#The_Test_of_Mettle|test of mettle]] for a knight-errant who wants to travel beyond [[Dawn]] as part of their test.
+{{Grendel Links}}
+[[Category:Bestiary]]
+[[Category:Grendel]]

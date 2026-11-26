@@ -1,0 +1,457 @@
+==Overview==
+During the Autumn Equinox 381YE, the [[Synod]] raised 87 [[judgement|judgements]].
+
+The successful [[recognition]] of Navarr as an exemplar by the Wisdom Assembly will be escalated to the General Assembly at the Winter Solstice 381YE.
+
+==[[Change of doctrine]]==
+No change of doctrine was attempted during the Summit.
+
+==[[Veto]]==
+No veto was sought during the Summit.
+
+==[[Statement of principle]]==
+{|
+| '''Number''' || '''Assembly''' || '''Statement of Principle''' || '''Priest''' || '''Outcome'''
+|-
+|3 || General  || To recognise the Loyalty and Wisdom to the Empire of General Irontide Skar in the manipulation, ambushing and slaying of the Druj Magester Green Mask; and the Brackensong Coven in the recovery of the vital Spring ritual from Green Mask’s mind. || Irontide Lok ||  Upheld 648 - 65
+|-
+| 9 || Courage || Recognising the Courage of Pavel in the actions he took in retrieving the Regalia of the Archmage of Spring from the Realms, last summit. He risked his life for the safe return of valuable Imperial Property, and his Courage is recognised.  || Amahel ||  Upheld 176 - 14 <br><label type="success">Greater Majority</label>
+|-
+| 16 || Dawn || The Dawnish Assembly is appalled that one of the courageous and loyal Imperial Orcs was mistaken for a treacherous Druj. We would seek to educate our citizens of the Virtuous deeds of our fellow Imperials and would invite an orc priest to accompany a troubadour around our Nation, specifically to those places least visited by citizens of the wider Empire. || Ozren Ivarovich Severyan || Upheld 126 - 10 <br><label type="success">Greater Majority</label>
+|-
+| 17 || General || The current holder of the Blood Cloak schema will be sharing this with the Empire, in response to this display of Loyalty (something no Blood Cloak general has done before). I move that the rest of the Empire should display Loyalty in return and provide what resources and funds they can to raise this army and reduce casualties in battle for the Prosperity of the Empire. || Helka Ingesdottir ||  Upheld 807 - 136
+|-
+| 21 || General || As an Empire we made of many nations. Each nation has its own skills, hearth magic, beliefs and Bourse resources. It is working of these different traits, guided by the Virtues, together that makes the Empire strong and great. Every nation should be proud of these traditions and support them, from Urizen poise to the Heroism of Wintermark. Be proud of your place in the Empire. || Amris Johan Merikovich ||  Upheld 971 - 69
+|-
+| 22 || General || It is disloyal to deny support to the armies of the Empire. || Alderai || Upheld 497 - 473
+|-
+| 23 || General || We believe the powers of the Virtue Inquisitors should be expanded. They should be granted one additional judgement of inquisition to be raised only in their Virtue assembly and subject to the assembly’s vote. A Virtue Inquisitor is still a priest who must represent their congregation; they should not have to choose between them and their duty as an inquisitor.  || Pahkina || Upheld 804 - 126
+|-
+| 24 || Wintermark || We appreciate the actions of Iron Osric, General of the Green Shield. During military council and other meetings he has Courageously supported the interests of Wintermark even in the face of opposition. Let it be known that the Wintermark National Assembly stands behind his Virtue. || Ylmiska Ferbow ||  Upheld 207 - 0 <br><label type="success">Greater Majority</label>
+|-
+| 26 || General || Currently the Virtue Assembly Inquisitors are appointed by Cardinals. The job of an Inquisitor however, is to seek truth and question all. As such, the position of Inquisitor should not be reliant on political patronage and should instead, only be answerable to the Virtue and Virtue Assembly. In light of this, the position of Virtue Assembly Inquisitor should be an elected one - chosen by Virtue Assembly. || Ranae de Rondell of Dawn ||  Upheld 697 - 353
+|-
+| 27 || General || Many people did not listen to Rosamund Holt in life. My Loyalty to her means I want her to be heard now she is gone. Attached is a copy of the message I read for her at her funeral. The Synod agrees she lived a Virtuous life. || Tess ||  '''Not upheld''' 79 - 608
+|-
+| 31 || General || I act on what I know. As Archimandrite of the New Scions of Atun I express my profound disappointment in the newly discovered actions of my predecessor Yael. In the creation of the Golden Fragment, previously seen as evidence for her claims, she cast doubt on all her work. I can no longer support it as truth. But this does not detract from the purpose of the New Scions: our work to perfect the Way through gathered evidence continues. || Edward Novarion ||  Upheld 713 - 96
+|-
+|35|| General || It is Virtuous to celebrate victories with merriment, to remember our fallen with respect and inspiration, to learn from our losses may we continue to remember and learn. || Bucklund ||  Upheld 815 - 62
+|-
+| 38 || Marcher || The people of the Mourn are miners. The Singing Caves is their greatest achievement as miners. They have waited years to be liberated, denied their just reward by the Jotun. Prosperity demands that we return the just reward to those who have earned it. The Singing Caves should be returned to the Mournwolders. Mournwolder Land, Mournwolder Prosperity.  || Thomas of Mournwold || Upheld 72 - 0 <br><label type="success">Greater Majority</label>
+|-
+| 39 || Marcher  || To the people of Whittle. The Jotun drove you to hate. This was not your way before. This is the last chain they have on you. When you put it aside you will be free of their influence. || Brother Hugh || Upheld 72 - 0 <br><label type="success">Greater Majority</label>
+|-
+| 40 || General || As the generals of the Empire bear the weight of great responsibility on their soul, we believe that they would be better supported and the Virtue of their orders and declarations less likely to be challenged if they are Dedicated. As such, we suggest and support the Dedication of all those who stand on the military council. || Dietrich Elias der Holburghan ||  '''Not upheld''' 439 - 558
+|-
+|41 || General || “Knowledge” is not a true Virtue and cannot compel citizens into heresy, nor diminish their enjoyment of tomatoes or fruit salads. || Hawker Ringbane ||  '''Not upheld''' 281 - 286
+|-
+| 44  || Dawn || The National Assembly sends the High Bard Lady Kaywenn Du Launcet to Semmerholm to inspire the people there to fiercely resist the Druj by singing the “Song for Semmerholm” || Elayne Novarion ||  Upheld 148 - 0 <br><label type="success">Greater Majority</label>
+|-
+|45 || General ||| In being deceived there is no shame;<br> But deceivers will lie and lie again.<br> Yael’s complicity in deceit and untruth <br> Renders all her teachings moot. <br> Any value that she shared <br> Must now be proven out elsewhere. || Ser Criseyde || Upheld 812 - 104
+|-
+|46 || General || To recognise and praise the Courage of Dogri Thulebane and acknowledge his actions while criminal were also Virtuous. || Maarit Suvidottir || Upheld 594 - 275
+|-
+| 48 || Brass Coast || We were heartened by the rescue of our cousins from the Isle of Zemress and we would welcome them in settling in Segura. We are certain that their resourceful skills and work ethic will contribute greatly to the Prosperity of the province and we will be happy to smooth their full integration back into the Empire. || Mazo i Zabala i Erigo ||  Upheld 76 - 0 <br><label type="success">Greater Majority</label>
+|-
+| 49  || League  || The League feels for the orphans of the war in the Mourn. The League has a strong tradition of supporting orphans and guiding them to reach their true, Virtuous potential. The League therefore seek to provide support in the Marches for the orphans of Mournwold. || Cesare Enzo Di Trivento ||  Upheld 142 - 0
+|-
+|50 || Urizen || Removing your opponent's desire to fight is the first step to victory. This assembly applauds the Wisdom shown by the strategists of the Military Council and the General of the Wolves of War and the General of the Red Wind Corsairs in depriving the Grendel of the economic bounty of the Legacy's production. We urge all those opposing the Grendel in our territory of Spiral and at home and abroad to follow their example, to harass baggage trains and impair production. Let the Grendel know no profit while they remain in Spiral. || Maximillian of Ankarien ||  Upheld 160 - 0 <br><label type="success">Greater Majority</label>
+|-
+|52 || Urizen || We find that Storm of Curses is likely not to have strategic merit over the benefits of Cyclic Resonance, therefore we do not advocate unleashing our magical armies powers in this way. While we believe that all tools should be considered we do not advocate cruelty without justification. || Tarquinius ||  Upheld 110 - 0
+|-
+|54 || Navarr || We support the Marchers in reclaiming their lands from the Jotun as we also support reclaiming all lost Imperial territories from the Jotun. We exhort all Navarr to pursue this goal. || Corey Wayfarer ||  Upheld 110 - 0 <br><label type="success">Greater Majority</label>
+|-
+|55 || League ||  Citizens of Sarvos should not be afraid or reluctant to employ the orcs graduating from the College of the Liberated. We have invested in their Prosperity and should enjoy the rewards, and enable them to reach their full potential. || Illaria Notturno di Sarvos ||  Upheld 178 - 0 <br><label type="success">Greater Majority</label>
+|-
+|57 || Pride || The Pride Assembly recognises the hard work of the following people in making the League Theatre a success; in demonstrating Pride in their national culture and the arts, and building a platform to showcase and lift up the arts from the League and across the Empire: <br>Ephelides Sanguineo Rezia Hardfrost di Tassato - artistic director <br> Coraphine Fliore di Tassato, Idwyn Splitroot, Darnyen Volkov Von Temeschwar, Bica and Maeve from the Temeschbar || Astrid Rezia di Tassato||  Upheld 159 - 0
+|-
+|59 || General || Under normal circumstances, a priest should not perform a rite on a citizen or their property without their agreement. Consecrated areas should be marked so that citizens know that an aura exists before deciding whether to enter the area. || Eevi ||  '''Not upheld''' 413 - 459
+|-
+|61 || General || To accuse someone of a religious crime without being able to define that religious crime is not only very stupid, it is unvirtuous.* <br> *The reason I raise this is because this should be obvious but it does not appear to be. || Kerem ||  Upheld 606 - 120
+|-
+|62 || Prosperity || It has been suggested that the practice of raising husks is comparable with the keeping of slaves. We, the Prosperity Assembly, hold this to be false. Husks are bodies devoid of souls, animated by magical power. Slaves are alive, and possess souls. The use of husks in a manner does not deprive citizens of their livelihood, is not unprosperous. || Yarona of the Chantry ||  Upheld 197 - 0 <br><label type="success">Greater Majority</label>
+|-
+|63 || Varushka || That Varushka is known for its hospitality and as such will offer hospitality to all of the Empire, be they pauper or prince, single archer or entire army. || Vukomir Maryankovich Zverokaz ||  Upheld 88 - 0 <br><label type="success">Greater Majority</label>
+|-
+|65 || Courage || The Courage Assembly will decide the fate of the Courage Shield Torchbrand. || Nina of Cantiarch’s Hold || Upheld 104  - 0
+|-
+|66 || Prosperity || If 20 fleets trade with Axou every season for four seasons it is likely that Axos will recognise the Prosperity of the Empire and move to cease the use of slaves. The Assembly of Prosperity therefore recognises the Prosperity of fleet trading with the Axou and encourage citizens to do so where they are able. || Morgan Leafstalker ||  Upheld 171 - 0 <br><label type="success">Greater Majority</label>
+|-
+|67 || Prosperity ||  In recognition of the actions and intentions of the Eastern Principalities of Jarm, and the understanding that they continue, to abolish the vile institution of slavery. It would increase the Prosperity of the Empire and its citizens, as well as that of the Eastern Principalities, if Imperial fleet captains were to visit the trading ports of the Eastern Principalities and engage in trade with the traders and merchants there.  || Ezekiel of the Chantry||  Upheld 187 - 0 <br><label type="success">Greater Majority</label>
+|-
+|68 || Urizen || We commend the Ambition of Medea Ruth’s work on horses, and encourage her to consider collaboration with other interested parties, including Aloysius Sunspire.  || Medea Ruth Irremais ||  Upheld 100 - 10
+|-
+|72 || General || The General Assembly condemns the use of wanton battlefield executions of foes with personhood. As such, we urge that they only be used when generals deem them necessary and issue clear orders in this respect. Our foes lose respect for us day by day - let the Empire be judged on its official military decisions, not the whims of individuals in the heat of battle. Cleave to Virtue. || Constanza i Kalamar i Guerra ||  Upheld 621 - 156
+|-
+|73 || Pride || We recognise that the Highborn Assembly seeks to reaffirm their commitment to the Doctrine of the Synod that they founded. We recognise the Pride that inspires this action.  || Azekah  || Upheld 134 - 0
+|-
+|75 || Nine || The Assembly of Nine request the Silent Bell investigate the location of “Oath-Heart”, the legendary shield of Loyalty, once borne by Drumlin the Sworn of Wintermark. || Veikko ||  Upheld 6 - 0 <br><label type="success">Greater Majority</label>
+|-
+|76 || Nine || The schism over Yael’s vision has divided the Empire too long; what threatens the Empire ultimately threatens the Way. New evidence, corroborated by both Yael’s supporters and detractors, demonstrates that a significant document on which her philosophy relied was falsified by her hand. In Virtue, we face unwelcome truths as boldly as a barbarian charge. In Virtue, we act on what we learn, knowing our knowledge is incomplete. When new proof arises, we accept it and move forward. The Assembly of Nine calls on the Synod and the Empire to end this schism, and move forward. || Abaddon De Rondell ||  Upheld 7 - 0 <br><label type="success">Greater Majority</label>
+|-
+|77 || Loyalty || I wish to put the words and assurances of my peers into action, regarding the Iron Helms. The actions of the Iron Helms against the traitor Dogri Thulebane and their use of cruelty as a tool in the Mournwold, have shown only their Loyalty to the Empire and their actions are not unvirtuous. || Bogdan  ||  Upheld 56 - 20
+|-
+|78 || General || The trods connect the Empire and must be walked. The faithful should try to use them as often as possible. || Aneira Exiles End ||  Upheld 576 - 32
+|-
+|79 || Nine || The use of cruel tactics by any army is unvirtuous. Cruel tactics inspire fear and hatred in our enemies and allies alike. They diminish the spirit of all they touch, and we of the Nine will lead the Synod in providing spiritual governance to all Generals who employ them.<br/>'''The vote count in this judgement has been contested by Cardinal Azekah of the Assembly of Nine who wishes it noted that their vote has been incorrectly recorded.'''|| Ricardo di Tassato ||  Upheld 6 - 1 <br><label type="success">Greater Majority</label>
+|-
+|80 || Imperial Orc || The worth of our armies is not written with cruelty, our legends are not made by harming civilians. We do not need dogs and beasts to fight our wars for us. We are heroes of the Empire, we are Imperial Orcs. || Gralka ||  Upheld 36 - 0 <br><label type="success">Greater Majority</label>
+|-
+|81 || Marcher || We invite Marcher and Imperial Orc preachers to the Mourn to talk to the free orcs of the Mourn (the former Jotun thralls) and preach to them about the Way. We encourage the Virtuous folks of the Mourn to support these preachers and ensure their voices are heard. In return, we invite stewards or other leaders of the free orcs of the Mourn to come to Anvil and make their concerns heard, so that the Empire will not decide for them, but with them. || Hrodin ||  Upheld 62 - 0 <br><label type="success">Greater Majority</label>
+|-
+|83 || Marcher || All good Marcher folk should recognise and support the Virtuous acts achieved by Marcher folk in support of the Mourn. That Thomas of Hay and Asher Holt convinced Conclave to sponsor a mana sinecure built by Dicky Holberg dedicated to healing and healing magics. The Loyalty shown by Unwavering Ned Cullach in taking the stain on his soul of the evil shit what's been done to us in the Mourn by entering the Wicker Man. That Robert Dunlain, our new Mournish Senator, has invited the Whittlefolk back home. That Benedick Goodfellow and Beatrice Greenhill have given to the Mourn the Prosperity-blessed wool sheared from the last sheep in the Mourn before it fell 30 year ago. A lot good been done for the Mourn, and the Marches as a whole should recognise this.  || Robin of Swindale  || Upheld 72 - 0 <br><label type="success">Greater Majority</label> 
+|-
+|84  || Marcher || All good Marcher folk should recognise and support the Virtuous acts achieved by Imperial folk in support of the Mourn. That Long Tom and Helios Bitter Chalice got Rivers Run Red and Mountain Remembers Its Youth interdicted in Conclave. That Cesare Enzo Di Trivento is bringing missionaries from the Church of the Little Mother to build orphanages and schools. That the Winterfolk passed through the Senate to build a memorial to the heroes what died fighting for the Mourn at Overton, paid for by the kiddies of the Artisan’s Arms. That Ricardo de Tassato has, as the Assembly of Nine, started the wider condemnation of the cruelty what we been seeing in the Mourn. A lot good been done for us, and the Marches as a whole should recognise this. || Mel of Mourn ||  Upheld 72 - 0 <br><label type="success">Greater Majority</label> 
+|-
+|85 || Prosperity || We wish to publicly recognise the outstanding Prosperity of the following citizens: <br>Sirus <br> Asenath of Felix’s Watch <br>Vukomir Maryankovich Zverokaz <br> Ptolemy <br> Able of Reikos Reborn <br> Lumis of Wintermark <br> Miralek Jarek of the Vale of Sciany <br> Octavia Taziel <br> Avadon of House de Emeric  || Tabitha of the Chantry ||  Upheld 159 - 0 <br><label type="success">Greater Majority</label> 
+|-
+|86 || Prosperity || We the assembly recognise Tarquinius, ambassador to the Axou, for his work in revealing to the Axou that Prosperity may be obtained without slavery. This has opened a way to induce the Axou to denounce slavery. || Ziva of the Chantry ||  Upheld 159 - 0 <br><label type="success">Greater Majority</label> 
+|-
+|87  || Imperial Orc || At the request of those cut off from the Empire in the Mourn, and in conjunction with our statement of principle and shared understanding on the use of cruel tactics, we intend to send missionaries to bring the Way and support reintegration of the Mournwolders, led by Bloodcrow Losak.  || Atla ||  Upheld 36 - 0 <br><label type="success">Greater Majority</label> 
+|-
+|}
+
+==[[Mandate]]==
+{|
+| '''Number''' || '''Assembly''' || '''Judgement''' || '''Raised By'''  || '''Outcome'''
+|-
+|4 || Wintermark || A hero's tale ends with a good death - for us or our enemies. We send Gunnbrand Ironwill with 25 liao to urge our warriors to face the Jotun on the battlefield as heroes, and strive with every sinew for victory, not for slaughter. Thus will we let the grimnir of either side treat their fallen. <br>'''The liao for this mandate has been provided by Gunnbrand Ironwill following the Autumn Equinox.''' || Aarne Ceorling ||  Upheld 249 – 23
+|-
+|8 || Urizen || We send the named priest Lucretius of the Twisted Spire, Priest of Urizen and Sentinel of the Citadel Guard, with 100 doses of liao to inspire the Citadel Guard to unleash the full extent of our powers and rain death upon our enemies. || Lucretius  ||  Withdrawn by raising priest at 60 - 80 
+|-
+|11 || Navarr || We send Brat Umbral Path with 50 doses of liao to exhort every Imperial soldier to slaughter our Empire's enemies with ruthless abandon!<br/>'''Imperatrix Lisabetta invoked the Throne's Power of [[Throne#Custodian_of_Virtue|Custodian of Virtue]], making this judgement require a Greater Majority to pass.'''|| Brat Umbral Path || '''Not upheld''' 84 - 59
+|-
+|29 || Varushkan || We send Belakov Prochnost with 50 doses of liao to exhort every Imperial soldier to slaughter our Empire's enemies with ruthless abandon.<br/>'''Imperatrix Lisabetta invoked the Throne's Power of [[Throne#Custodian_of_Virtue|Custodian of Virtue]], making this judgement require a Greater Majority to pass.''' || Belakov Prochnost || '''Not upheld''' 46 - 0
+|-
+|36 || Highguard || We cannot prove for certain if Yael was the first Empress reborn or not. Regardless of this and no matter who Yael was, the Land without Tears is not part of doctrine and preaching it as such is Heresy. We refute the claim of the Land without Tears and encourage our citizens to look to only those Doctrines which have been debated and agreed upon by the Synod rather than allowing one figure to tear our faith and our Empire apart. We the priests of Highguard send Melchior of Adina's Charge with 250 Liao to spread this message to the citizens of Highguard.<br>'''The liao for this mandate has been provided by Melchior of Adina's Charge following the Autumn Equinox.'''
+ || Melchior of Adina's Charge ||  Upheld 418 - 0
+|-
+|37 || Navarr || The Navarr assembly send Tynan Lonestriker with 25 Liao to urge Navarr apothecaries, physicks and brokers to share what herbs they can spare with our guests and allies.<br>'''The liao for this mandate has been provided by Tynan Lonestriker following the Autumn Equinox.''' || Tynan || Upheld 151 - 0
+|-
+|51 || Urizen || The Urizen National Assembly sends Lucretius of the Twisted Spire with 50 doses of liao to exhort every Urizen Sentinel to slaughter our Empire’s enemies with ruthless abandon, should their general order it.<br/>'''Imperatrix Lisabetta invoked the Throne's Power of [[Throne#Custodian_of_Virtue|Custodian of Virtue]], making this judgement require a Greater Majority to pass.<br/>Following the death of Lucretius, Sophus nominates Zeno, Stallion’s Sibling to go in their place. Verified by the Tribunes of the Synod.<br>Despite the successful approval of this mandate by the Urizen National Assembly - Zeno has opted not to take up the mandate, therefore it will not take effect.''' || Sophus Cascade ||  Upheld 154 – 22
+|-
+| 64 || Brass Coast || All things can have a price. We send Gonzalo i Riqueza, known as “Lupo” with 25 liao to remind people of their prosperity as well as their courage and to take a ransom from those foes we defeat rather than count their bodies. We will fill our souls with virtue and our pouches with coin.<br>'''The liao for this mandate has been provided by Gonzalo i Riqueza following the Autumn Equinox.'''  || Gonzalo i Riqueza || Upheld 82 - 0
+|-
+| 71 || General || The Blood Red Roads will connect the people of the Empire and make them stronger. This project is one of the most Ambitious in Imperial history. It demonstrates the Benevolence of Lorenzo “La Volpe” Macelliao von Temeschwar, and will stand as a lasting Legacy. We send Jonah Yakovitch with 25 liao to encourage the faithful to aid in this endeavour.<br/>'''The liao for this mandate has been provided by Jonah Yakovitch following the Autumn Equinox.''' || Jonah Yakovitch ||  Upheld 508 - 165
+|-
+| 74 || League  || The works of Lorenzo “La Volpe” Macelliao von Temeschwar stand as testaments not to a single virtue, but to everything it means to be part of the League. The Imperial Synod sends Ricardo di Tassatto with 25 doses of liao to encourage individuals across the League to embrace the inspiration of the Bloody Butchers; where others build cities, we build nations. || Irada von Temeschwar ||  '''Not upheld''' 56 - 108
+|-
+|}
+
+==Evaluation==
+The Synod made the following judgements of [[excommunication]], [[inquisition]], [[revocation]], and [[sanction]].
+{|
+| '''Number''' || '''Assembly''' || '''Judgement''' || '''Raised By'''  || '''Outcome'''
+|-
+|6 || Courage || Revocation. I call for the Revocation of Cardinal Jorma Steelhail of the Assembly of Courage. My reasons are thus: <br> He is a dangerous criminal, having assaulted Aarne of Wintermark in the Hub, seemingly unprovoked. He is a danger to those around him and should not be in a position of authority. <br> His Loyalty to the Empire is in question, after showing unrepentant support for the traitor and murderer Dogri Thulebane, who refused Imperial order and led in the murder of hundreds of Proud, Noble Varushkan soldiers of the Iron Helms. <br> He is a vain, self-serving fool, who was only appointed as Gatekeeper by the late Cardinal Asher to “[shut him up and keep him busy]”.<br> Inquire at the Calf’s Head pub in Varushka if you wish to discuss this with me. || Ezys || '''Not upheld''' 52 - 131
+|-
+|7 || General || Inquisition. I hereby call to Inquisition the following who are bound in a sect in the Chantry of the Silver Skull: Tabitha, Kerem, Liora, Tova, Onan, Lilith, Yarona. Regarding their singing of songs about the Land Without Tears. Saturday 16:30  Autumn Equinox 381YE at the Highborn Chapel. || Ephron of Adina’s Charge ||  Upheld 503 - 143
+|-
+| 14 || Urizen || Revocation. The Revocation of Senator Zenith (Edmundo) based upon evidence indicating that they have neglected the military situation with Zenith and Urizen as a nation, leading to increased inefficiency and casualties. || Zeno, Stallion’s Sibling || Upheld 114 - 102
+|-
+|15 || Urizen ||  Revocation. The Revocation of Senator of Redoubt (Probus) based upon evidence indicative that they have neglected the military situation with Redoubt and Urizen as a nation, leading to increased inefficiency and casualties. || Sejanus ||  Upheld 148 - 38
+|-
+|18 || Pride || Inquisition. I call Ser Kay of House Ossienne to answer allegations of a serious nature regarding religious crimes that have been discovered in Dawn. He is summoned to the tent of Zephaniah’s Lament in the Highborn camp at 2:30 today (Saturday, Autumn Equinox 381YE)  || Ephrael || Upheld 185 - 0
+|-
+|19 || Pride || Inquisition. We wish to question Orlene De Ossienne regarding serious heresy and blasphemy that has been discovered in Dawn. This will take place at 2:30pm (Saturday, Autumn Equinox 381YE) in Zephaniah’s Lament tent. || Jaylus ||  Upheld 175 - 0
+|-
+|20 || Prosperity || Inquisition. I call Kyra of the Halcyon Spire to Inquisition at 4pm on Saturday, Autumn 381YE, at Lumis Teahouse, Wintermark to investigate the situation regarding the election of the Archmage of Day and what has occurred since. || Vauraus Korppitkotka ||  Upheld 57 - 0
+|-
+|25 || Dawn || Sanction: Condemnation. The glorious troubadours of Dawn vigorously condemn the Order of the Golden Heart for continued preaching of the false doctrine of the Land Without Tears and support of the heretic Yael. To whit: Ser Criseyde Vandale, Ser Thomas Aurelius, Ser Elayne Novarion. || The Dread Princess Orlene Ossienne ||  Withdrawn by raising priest at 40 - 52
+|-
+|28 || Wintermark || Revocation. Through no fault of Virtue, merely her inability to attend the Anvil summits. We reappoint the Watcher of Britta’s Pool. Eldeen Wulfdottir. || Veli Garwulfson ||  Upheld 185 - 0
+|-
+| 32 || General  || Sanction: Vindication. Raise Inquisition to Vindication of Thamnir Hrafnar. || Bloodcrow Ergot ||  Upheld 256 - 73
+|-
+|33 || Prosperity || Inquisition. I call Mord and Vaan of the Auric Horizon to Inquisition at 9pm of Saturday, Autumn Equinox 381YE, at Lumi’s Teahouse, Wintermark to investigate the situation regarding the election of the Archmage of Day and what has occurred since. || Krzysztof Vladovich Pultova||  Upheld 77 - 0
+|-
+|34 || Pride || Sanction: Vindication. Escalation of Judgement 82 from Summer 381YE. <br> Gully the Varushkan General has been involved in trying to solve the problem of the husk army in Weirwater. A lot of misinformation about this issue has been spread and requires more investigation but Gully has acted with common sense grounded in Vigilance and Loyalty to the Empire. || Lady Josephine Novarion ||  Upheld 123 - 0
+|-
+|42 || General || Sanction: Vindication. Escalation of Judgement 52 from Summer 381YE. <br> After inquisition I find that Gralka Skywise acted virtuously in seeking to recognise a miracle and should go forth and raise a debate in the wider Synod concerning the implication of orcish miracles in our understanding of the Way. || Ephron of Adina’s Charge || Upheld 542 - 50
+|-
+|43  || General ||  Sanction: Vindication. Escalation of Judgement 54 from Summer 381YE. <br> Following the Inquisition of Imperatrix Lisabetta, this Assembly (under the findings and guidance of the Auditor of Senatorial Accountability) finds that the funds removed from the Senate funds under the Throne’s power of Hand of the Chancellor have been and should continue to be used solely for matters that benefit the Empire directly. || Zeno, Stallion’s Sibling || Upheld 733 - 10
+|-
+| 53 || Vigilance || Inquisition. Inquisition of Heilyn Bronwen's Rest, at his request, Sunday morning (Autumn 381YE), as soon as he is free for this purpose, over his address to the Empire. || Martin Orchard ||  Upheld 88 - 0
+|-
+| 56 || General || Sanction: Penitence. Escalation of Judgement 7 <br> Following inquisition, I find that Tabitha, Kerem, Liora, Tova, Onan, Lilith and Yarona of the Chantry of Silver Skulls, by singing a song of The Land Without Tears at execution of Yael, did not pose such a risk to the souls of the Virtuous as to merit a heresy charge. But nonetheless they set an example that must be opposed. Their penance shall be to publicly reaffirm their acceptance of Doctrine and spread this message to the delegates at Anvil. They accept this judgement and their recent actions show their intent to set this right.  || Ephron of Adina’s Charge ||  Upheld 697 - 108
+|-
+|69 || General || Sanction: Vindication. Escalation of Judgement 65 from Summer 381YE. <br>  I have escalated my judgement of inquisition upon Irada von Temeschwar, raised at the Summer Solstice 381YE. I do not find Irada to have acted unvirtuously in this matter.  || Solas ||  Upheld 452 - 20
+|-
+|{{anchor|Judgement_70}}70 || Urizen || Sanction: Vindication. Escalation of Judgement 75 from Summer 381YE. <br> We the Urizen National Assembly recognise that the teachings of the Disciples of the Tempest Jade Maiden encourage Virtuous action. Consequently we believe that they and other groups of sword scholars are following teachings that promote virtue. This follows the inquisition on the Saturday of this summit. || Edmundo || Upheld 154 - 0
+|-
+| 82 || Marcher || Sanction: Penance. Escalation of Judgement 48 from Summer 381YE. <br> Jack Flint showed Courage in battle in his rescue of Galbraith Rosencrantz. He showed Courage in stating his opinion, unwelcome as it was. He was not field marshal and none had a duty to obey. Jack was found lacking in the Pride needed to take responsibility for and stand up for his choices. He has been tasked to seek a friar’s guidance. For his lack of Wisdom in not asking deeper questions over the Mourn curses, he takes the Brand of Irremais and the landskeeper’s guidance.  || Martin Orchard ||  Upheld 62 - 0
+|-
+| 88 || General || Inquisition. Raise Inquisition against Miroslav di Sarvos proxy of the Imperial Consul to appear by appointment at Winter 381YE <br>As a power of the Imperial Chaplain Consular this Judgement passes without a vote || Bloodcrow Ergot ||  Upheld automatically 
+|-
+|}
+
+==[[Recognition]]==
+{|
+| '''Number''' || '''Assembly''' || '''Judgement''' || '''Raised By'''  || '''Outcome'''
+|-
+|12 || Wisdom || Recognition. We recognise Navarr as an Exemplar of Wisdom. <br>She displayed Benevolence in spending her adult life creating the Trods. <br> She displayed Inspiration in the great numbers who flocked to hear her speak and followed her. <br> Her first journeys along the trods are already recognised as a sign of Pilgrimage in the life of Thorn. <br> Navarr’s legacy is self evident - her journeys and teachings founded a nation. || Erasmo di Tassato || Upheld 183 - 0
+|-
+|}
+
+==[[Appointment]]==
+At the Summit, the following appointments were made by the Assemblies of the Synod:
+
+{|
+| '''Number''' || '''Assembly''' || '''Judgement''' || '''Raised By'''  || '''Outcome'''
+|-
+|1 ||Loyalty || Appointment of the Cardinal. || Civil Service || Veikko was appointed
+|-
+|2|| Pride || Appointment of the Cardinal. || Civil Service || Azekah was reappointed
+|-
+| 13 || Loyalty || Appointment of the [[Quaymaster of the Black Sails]] || Civil Service ||  Illaria Notturno di Sarvos was appointed 
+|-
+|47 || Highguard || Appointment of Custodian of the Imperial War Memorial. || Civil Service ||  Magdelana of the Shattered Tower was appointed. 
+|-
+|58 || Ambition || Appointment of Cardinal following the abdication of Cardinal Severin || Civil Service || Viviane de Coeurdefer was appointed 
+|-
+| 60 || Wintermark ||  Appointment of the Watcher of Britta’s Pool following reappointment. || Civil Service || Gunnbrand Ironwill was appointed 
+|-
+|}
+
+In addition, Cardinal Abaddon appointed Galene Netherwatch of Urizen as [[Virtue Inquisitor]] of Wisdom.
+===Voting Breakdown===
+<div class="mw-collapsible mw-collapsed">
+'''[[Cardinal|Cardinal of Ambition]]'''<br>
+Following the abdication of Cardinal Severin
+
+{|
+| '''Candidate''' || '''Votes Received''' || '''Outcome'''
+|-
+|  Viviane de Coeurdefer of Dawn || 142 votes || Appointed as Cardinal
+|-
+| Dietrich Elias der Holburghan of the League|| 10 votes || -
+|-
+| The Civil Service is awaiting confirmation of the appointment of the Gatekeeper from Cardinal Viviane || - || - 
+|-
+| Cardinal Viviane retained Ranae de Rondell of Dawn as Virtue Inquisitor  || - || - 
+|}
+
+'''[[Cardinal|Cardinal of Loyalty]]'''<br>
+{|
+| '''Candidate''' || '''Votes Received''' || '''Outcome'''
+|-
+| Veikko of Wintermark || 77 votes || Appointed as Cardinal
+|-
+| Sabella of the Silent Tide, Highguard || 72 votes ||
+|-
+| Tamain of House Sepulchre of Dawn|| 66 votes ||
+|-
+| Ser Criseyde of Dawn || 40 votes ||
+|-
+| Brother Hugh of the Marches || 32 votes ||
+|-
+| Cardinal Veikko retained Tess of the Marches as Gatekeeper || - || - 
+|-
+| Cardinal Veikko retained Corwin Leafstalker of Navarr as Virtue Inquisitor || - || - 
+|-
+|}
+'''[[Cardinal|Cardinal of Pride]]'''<br>
+{|
+| '''Candidate''' || '''Votes Received''' || '''Outcome'''
+|-
+| Azekah of Zephaniah's Lament, Highguard || 154 votes || Appointed as Cardinal
+|-
+| Ephron of Adina's Charge, Highguard|| 56 votes || -
+|-
+| Lucretius of the Twisted Spire, Urizen|| 46 votes || -
+|-
+| Jaylus of Bastion, Highguard|| 20 votes || -
+|-
+| Rune Rathmore, Urizen || 10 votes || -
+|-
+| Cardinal Azekah retained Astrid Fjellrevening Rezia di Tassato of The League as Gatekeeper || - || - 
+|-
+| Cardinal Azekah retained Rane Jorunsdottir of Wintermark as Virtue Inquisitor  || - || - 
+|}
+'''[[Quaymaster of the Black Sails]]'''<br>
+{|
+| '''Candidate''' || '''Votes Received''' || '''Outcome'''
+|-
+| Illaria Notturno di Sarvos of the League || 84 votes || Appointed as the [[Quaymaster of the Black Sails]] 
+|}
+'''[[Custodian of the Imperial War Memorial]]'''<br>
+{|
+| '''Candidate''' || '''Votes Received''' || '''Outcome'''
+|-
+| Sister Magdelana of the Shattered Tower, Highguard || 142 votes || Appointed as Custodian
+|-
+| Lilian Unbound, Highguard|| 106 votes || -
+|-
+| Ezekiel of the Chantry, Highguard|| 86 votes || -
+|-
+| Ruth of the Cenotaph, Highguard || 44 votes || -
+|}
+'''[[Watcher of Britta's Pool]]'''<br>
+Following the reappointment of Eldeen Wulfssdottir
+{|
+| '''Candidate''' || '''Votes Received''' || '''Outcome'''
+|-
+| Gunnbrand Ironwill || 171 votes || Appointed as the [[Watcher of Britta's Pool]]
+|}
+
+</div>
+
+==Rewarding==
+{|
+| '''Number''' || '''Assembly''' || '''Judgement''' || '''Raised By'''  || '''Outcome'''
+|-
+|5|| General || Rewarding. In recognition of his Virtue in Courageously acting when others hesitated and the Vigilance shown by moving to cease the spread of heresy; for condemning the heretic Yael, and diligently pursuing that unto its end; the general assembly rewards Aarne Ceorling 4 Thrones. || Gunnbrand Ironwill ||  '''Not upheld''' 198 - 325
+|-
+|10 || General || Rewarding. As High Exorcist, I withdraw 7 Thrones, pursuant to my duties. This is with the expectation that this power is reverted to a Senate Stipend as soon as economically feasible. <br>''As a power of the High Exorcist this Judgement passes without a vote.'' || Solas || Upheld automatically
+|-
+|30 || General ||  Rewarding. Reward Livia with 5 Thrones from the Virtue fund for the purchase of liao for the duties of the Seer of the Gateway. <br>''As a power of the Seer of the Gateway this Judgement passes without a vote.'' || Livia Cascade ||  Upheld automatically 
+|-
+|}
+===The Virtue Fund===
+The following represents the Virtue Fund of the Synod:
+
+{|
+| ''Starting Value'' || 18 Thrones / 0 Crowns / 0 Rings ||
+|-
+| ''Income'' || 60 Thrones || The price paid in the Bourse Auction for the dose of True Liao
+|-
+| ''Rewards'' || 7 Thrones || Rewarding made to Solas of the Spire of the Waxing Sun, High Exorcist.
+|-
+| || 5 Thrones || Rewarding made to Livia Cascade, Seer of the Gateway.
+|-
+| ''Closing Value'' || 66 Thrones / 0 Crowns / 0 Rings ||
+|}
+
+==Visionaries==
+The following individuals received visions of their past lives:
+
+*Lord Vincent Vexille, Dawn
+*Grandmother Asya, Varushka
+*Achilles of Damakan's Forge, Urizen
+*Lorenzo “La Volpe” Macelliao von Temeschwar, The League
+
+==The Imperial Titles of the Synod==
+At the end of the Autumn Equinox, 381YE, the Imperial Titles in the Synod were held by:
+{|
+| '''Virtue''' || '''Cardinal''' || '''Gatekeeper / Conscience''' || '''Virtue Inquisitor'''
+|-
+| [[Ambition]] || Viviane de Coeurdefer of Dawn || Vacant || Ranae de Rondell of Dawn
+|-
+| [[Courage]] ||  Jorma Steelhail of Wintermark || Nina of Cantiarch's Hold|| Lucifer, Son of Cyrus of Highguard
+|-
+| [[Loyalty]] || Veikko of Wintermark|| Tess of the Marches || Corwin Leafstalker of Navarr
+|-
+| [[Pride]] || Azekah of Highguard || Astrid Fjellrevening Rezia di Tassato of The League || Rane Jorunsdottir of Wintermark 
+|-
+| [[Prosperity]] || Ricardo Almieda Desmondo di Tassatto of the League || Morgan Leafstalker of Navarr || Vauraus Korppitkotka of Wintermark 
+|-
+| [[Vigilance]] || Irada von Temeschwar of the League || Aarne Ceorling of Wintermark || Adamah of Highguard
+|-
+| [[Wisdom]] || Abaddon De Rondell of Dawn || Amris of Varushka || Galene Netherwatch of Urizen
+|-
+| [[The Way]] || Atla of the Imperial Orcs || Ingrid Sigeing of Wintermark || Yarrick Ursan of Wintermark
+|}
+===Other Synod-Appointed Titles===
+{|
+| '''Title''' || '''Held By''' || '''Appointed By''' || '''Renews'''
+|-
+| [[High Exorcist]] || Solas of the Spire of the Waxing Sun, Urizen || Assembly of Nine || Winter Solstice
+|-
+| [[Auditor of Senatorial Accountability]] || Vacant following the abdication of Zeno, Stallion's Sibling || Assembly of Nine || Spring Equinox
+|-
+| [[Imperial Inquisitor]] || Martin Orchard of the Marches || Assembly of Nine || Summer Solstice
+|-
+| [[Custodian of the Imperial War Memorial]] || Sister Magdalena of the Shattered Tower, Highguard|| Highguard National Assembly|| Sinecure; until death, revocation or abdication
+|-
+| [[Chaplain Consular]] || Bloodcrow Ergot of the Imperial Orcs || Cardinal of the Way || Spring Equinox
+|-
+| [[Seer of the Gateway]] || Livia Cascade of Urizen || Assembly of Nine || Until death, revocation or abdication
+|-
+| [[High Bard of the Empire]] || Kaywenn du Launcet of Dawn || Assembly of Nine || Spring Equinox
+|-
+| [[Voice of Barbs]] || Corey Brackensong of Navarr|| Navarr National Assembly || Winter Solstice
+|-
+| [[Curator of the Printers' Guild Museum]] || Taddea Ginori of the League || Cardinal of Prosperity || Sinecure; until death, revocation or abdication. When a new Cardinal of Prosperity is appointed they may choose to name a replacement.
+|-
+| [[Curator of the White City Museum]] || Apollos of Highguard || Highguard National Assembly || Sinecure; until death, revocation or abdication.
+|-
+| [[Watcher of Britta's Pool]] || Gunnbrand Ironwill of Wintermark || Wintermark National Assembly || Sinecure; until death, revocation or abdication.
+|-
+| [[Dean of Laroc Cathedral]] || Odelina de Rondell of Dawn || Dawn National Assembly || Sinecure; until death, revocation or abdication.
+|-
+| [[Crow Keeper of the Rest]] || Nils Bardstrom of Wintermark  || Wintermark National Assembly|| Sinecure; until death, revocation or abdication.
+|-
+| [[Guardian of Giselle's Tomb]] || Casimir Marcellino di Sarvos of the League || League National Assembly || Sinecure; until death, revocation or abdication.
+|-
+| [[Quaymaster of the Black Sails]] || Illaria Notturno di Sarvos of the League || Loyalty Assembly || Autumn Equinox
+|}
+
+==Assembly Strength==
+ 
+At the start of the summit the voting total of the General Assembly was calculated to be 2128
+ 
+The final voting total of the General Assembly was estimated to be 2377
+
+The Civil Service reminds citizens that determining whether a judgement has achieved a Greater Majority counts from the estimation of the assembly strength when scrutiny on the judgement closes, not the final assembly strength at the end of the summit.
+ 
+At the end of the Autumn Equinox 381YE the voting strength of the Virtue and national assemblies were estimated to be:
+ 
+{|
+| '''Virtue Assembly''' || '''Initial Voting Strength''' || '''Final Voting Strength''' || '''Final Greater Majority'''
+|-
+|Ambition	||216	||226	||114
+|-
+|Courage	||241	||263	||132
+|-
+|Loyalty	||333	||371	||186
+|-
+|Pride		||301	||366	||184
+|-
+|Prosperity	||260	||304	||153
+|-
+|Vigilance	||228	||282	||142
+|-
+|Wisdom	||243	||273	||137
+|-
+|The Way	||306	||292	||147
+|-
+| General	 ||2128	||2377	||1189
+|-
+|}
+ 
+<br/>
+ 
+{|
+| '''National Assembly''' || '''Initial Voting Strength''' || '''Final Voting Strength''' || '''Final Greater Majority''' 
+|-
+|Brass Coast	||82	||92	||47
+|-
+|Dawn		||191	||231	||116
+|-
+|Highguard	||495	||580	||291
+|-
+|Imperial Orcs	||66	||66	||34
+|-
+|Navarr 	||199	||209	||105
+|-
+|The League	||276	||288	||145
+|-
+|The Marches	||82	||112	||57
+|-
+|Urizen		||260	||270	||136
+|-
+|Varushka	||130	||162	||82
+|-
+|Wintermark	||347	||367	||184
+|-
+| General	||2128	||2377	||1189
+|-
+|}
+
+
+ 
+ 
+[[Category: Synod]]
+[[Category:Synod Results]]
+[[Category: Synod Judgements]]
+[[Category: 381YE Autumn]]

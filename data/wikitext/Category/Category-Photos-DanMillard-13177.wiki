@@ -1,0 +1,9 @@
+Dan is a photographer:
+
+* [https://danmillard.pixieset.com Website]
+* [https://danmillard.pixieset.com/prints Shop]
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>[[Category:Photos:DanMillard]] [[:Category:Photos:DanMillard|Image by Dan Millard]]
+</nowiki>''

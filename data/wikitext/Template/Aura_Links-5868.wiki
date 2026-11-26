@@ -1,0 +1,10 @@
+<table class="wikitable" style="width:220px; float: right; margin-left: 10px; margin-right: 10px;">
+<tr><th>Auras by virtue</th></tr>
+<tr><td>[[Auras of Ambition|Ambition]]</td></tr>
+<tr><td>[[Auras of Courage|Courage]]</td></tr>
+<tr><td>[[Auras of Loyalty|Loyalty]]</td></tr>
+<tr><td>[[Auras of Pride|Pride]]</td></tr>
+<tr><td>[[Auras of Prosperity|Prosperity]]</td></tr>
+<tr><td>[[Auras of Vigilance|Vigilance]]</td></tr>
+<tr><td>[[Auras of Wisdom|Wisdom]]</td></tr>
+</table>

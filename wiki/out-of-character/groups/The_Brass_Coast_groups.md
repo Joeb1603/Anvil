@@ -1,0 +1,194 @@
+---
+title: The Brass Coast groups
+source: https://www.profounddecisions.co.uk/empire-wiki/The_Brass_Coast_groups
+class: out-of-character
+topic: groups
+categories:
+- The Brass Coast
+last_edited: '2026-06-23T16:49:15Z'
+revision: 140799
+in_character_boxes: 2
+---
+
+# The Brass Coast groups
+
+This is a placeholder page for content that PD are actively working on.
+
+## Overview
+
+There are many important [families](../../in-character/nations/the-brass-coast/Family.md) and other groups in the Brass Coast. Despite the number, only a comparative handful are involved in the affairs of the Empire (that is, attend the seasonal summits at Anvil). Their influence can wax and wane, and involvement in Imperial affairs is not always a reflection of their prominence within the nation itself. This page presents in-character information about the groups that attend, or have attended, [Anvil](../../in-character/world/Anvil.md) — the kind of thing that someone who asked about them might uncover from talking to their peers. In each case, the information is provided by the players and edited before being put on the wiki.
+
+The majority of groups listed here are made up of player-characters. You should not create a character who is part of a group, or has personal history with one, without first clearing it with the appropriate players. You should also check before including other players' groups in your background. The background team are unlikely to approve a background that significantly impacts or involves another player character group without their permission. There are also a handful of prominent NPC groups included for completeness, but they are not intended for use by player characters.
+
+## Families
+
+### House Kalamar
+
+- **Location:** Madruga
+
+House Kalamar was founded by two orphans, looking to make a name for themselves with displays of skill and a thirst for profit. They are always seeking new information or opportunities to show themselves off or make a prosperous deal, with magic, art, dancing, good coffee or trade. In recent years they have been firm holders of [the Glass Parador](../../mixed/titles/Mistress_of_the_Glass_Parador.md), enjoying the trading benefits of the title. House Kalamar is the home of the Thrifty Squid, Anvil’s only daily price newsletter. Freshly scrivened every morning the Squid summarises prices gathered by the Houses' traders, reflecting the transactions they have witnessed. Its accompanying journal, the Inky Depths, covers matter political, economic and magical as well as containing a summary of historical prices.
+
+House Kalamar is the home of Constanza y Kalamar y Guerra, first artist for the new Renaissance and judge of the Pride of Holberg. A priest of Pride, Constanza is a famous force within and without her nation, and is keen to see her House prosper. The House is a powerful Autumn coven which specialises in [the Lure of Distant Shores](../../mixed/magic/rituals/Lure_of_Distant_Shores.md) to empower personal fleets for trade. All rituals performed by the coven are accompanied by music, dancing, or songs specially written for that ritual.
+
+*[Image: House Kemen.png](https://www.profounddecisions.co.uk/empire-wiki/File:House_Kemen.png)*
+
+### The Kemen Family
+
+- **Location:** Madruga
+
+The Kemen family are self-described as an odd bunch. To many outside the Brass Coast they have been seen as lunatics or fools who follow odd practises and engage in reckless endeavours. But those within the Coast who take the time to know them would say they are ambitious, courageous, and fiercely proud of their own ways. They are a modest family who follow a series of traditions and beliefs, not only those common to all Freeborn but also those unique to the Kemen family.
+
+The family spends its days having a good time and enjoying the short but bright lives they have as Freeborn. They partake in anything that would spark joy and they revel in adventure, while welcoming any who seek to join them in living life to the full.
+
+### House Sol-Devorador
+
+- **Location:** Madruga
+- **Tribe:** Erigo
+- **Dhomiro:** Florina i Sol-Devorador i Erigo.
+
+The Sol-Devorador family is made up primarily of corsairs, and was the founding family of the Krakenfire Armada. Once a large family, a large proportion of them were lost in the founding days of the Armada. They forge ahead with their determination to protect the Brass Coast and each other, despite suffering continual losses.
+
+While almost all of the family take to the seas, there is a mixture of fighters, physicks, ritualists and more within the family. The family always welcomes friends and allies, and has been known to adopt those in dire need of a new family.
+
+### House Souza
+
+- **Location:** Feroz
+
+The Souza maintain a long history of maritime warfare and gain most of their resources via constant raids upon their most hated enemy, the barbarian [Grendel](../../in-character/barbarians/Grendel.md). The House Souza saying; “No-one can bargain with the sea” reflects the family's position on the noble corsair lifestyle versus one of trade.
+
+The magical tradition of the Island is very narrow. The family hosts a small [Spring](../rules/Spring_magic.md) coven nearly entirely dedicated to enchanting their fleets to better [hunt their prey](../../mixed/magic/rituals/Blood_and_Salt.md).
+
+*[Image: House Taziel.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:House_Taziel.jpg)*
+
+### House Taziel
+
+- **Location:** Feroz
+
+House Taziel i Riqueza is a family of [corsairs](../../in-character/nations/the-brass-coast/Corsair.md) from Oran in Feroz with a sizeable fleet, looking for fun, profit, and military standing in the Empire. They recently joined with the family Ruiloba i Guerra when the two [dhomiro](../../in-character/nations/the-brass-coast/The_Brass_Coast_leadership.md) married. They are famous for hosting lavish parties, singing, music and dancing, as well as writing and performing plays. They also field a number of ferocious fighters to fight for their nation, under the banner of the Promiscuous Dodos.
+
+*[Image: Tempest Flame.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Tempest_Flame.jpg)*
+
+### The Tempest Flame
+
+- **Location:** Madruga
+
+The Tempest Flame have a deep connection to [Zemress](../../in-character/religion/Zemress.md) and her ship, the Kraken’s Bane. The Valiente family claim heritage from the crew of that ship, descending from those members who did not embark on the ship’s final voyage. They view Zemress as a spiritual grandmother figure to the family. They have a particularly strong association with the Summer realm, with the greatest of the Valiente captains usually exhibiting changeling or cambion lineage. Their ambition and exuberance is born out of the desire to be the best sailors, strongest corsairs, and emulate the storm they take as a name - above all, the Tempest Flame wishes to follow in the legacy of the Kraken's Bane. The Flame is currently one big inter-married family comprised of both a Summer coven and a banner, allowing each family to engage in trade or privateering as they deem necessary - and giving everyone an opportunity to increase their effectiveness through ritual magic. In all decisions the family comes first, and the contracts of marriage are resigned yearly to remind every partner of both their individual responsibilities and their wider support. No member of the Tempest Flame should ever have to act alone.
+
+### Casa Zabala
+
+- **Location:** Feroz
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > "First to heal and first to fight. First to break the orcish might. First to drink until first light. We Zabala"
+
+Once, the Zabala family, of the Erigo line, were large and sprawling, with travelling caravans, outposts and family holdings across Segura and beyond. When the Lasambrians invaded Segura many Zabala travelled from across the nation to hold Anduz until the end, but very few survived. After the liberation some of those who still lived - mostly those too young to fight at the time and the ones who aided the war effort in other ways - set out to Anduz to see what could be done to restore the family name. In time they decided to send a delegation to Anvil to represent the family at the highest level.
+
+In Anvil the Zabala family are noted for being involved in external and religious politics, crafting items of the finest quality, representing the Coast on the battlefield, carrying out strong Autumn magic, and bringing song, music and joy to the Freeborn camp.
+
+## Corsairs
+
+*[Image: Bloodgold Jackals.png](https://www.profounddecisions.co.uk/empire-wiki/File:Bloodgold_Jackals.png)*
+
+### Bloodgold Jackals
+
+- **Location:** Kahraman
+
+The original Bloodgold Jackals banner served with the [Red Wind Corsairs](../../mixed/government/military/Red_Wind_Corsairs.md) during the liberation of [Segura](../../in-character/nations/the-brass-coast/Segura.md). It disbanded but was reformed in Autumn 382YE by Iñez and Raza i Azul-Mar i Guerra after visiting Anvil for the first time and facing an uncomfortable shadow from their past.
+The Bloodgold Jackals don’t care about their member's pasts, only who they are now and who they want to be. A shady past doesn’t matter to them, as long as someone wants to move away from it. The name of the game is redemption, and they aim to win. They want to forge new paths for themselves and their banner mates, putting past misdeeds behind them, and help others in the process. They Jackals want to be better, more virtuous, and are ready to fight for it.
+
+### Burning Sails
+
+- **Location:** Madruga
+
+The Burning Sails Corsairs was formed by survivors of the destruction of the [Freeborn Storm](../../in-character/nations/the-brass-coast/The_Brass_Coast_military_concerns.md#the-freeborn-storm-28destroyed29) and the [sacking of Atalaya](../../in-character/winds-of-war/381YE_Winter_Solstice_winds_of_war.md#to-fool-the-crowd) in 381YE. Their main goals seem to be the establishment of the Empire as the dominant naval power in the Bay of Catazar and the total destruction of the Grendel. They are made up of several families and prominent individuals but are headed by the i Marusa i Riqueza family, venerable sea-farers who operate from one of the Jewelled Isles off of Atalaya in Free Landing. At Anvil the Burning Sails operate a strong Spring coven and also offer the services of well-regarded calligraphers and scriveners. Over the seasons they focus on countering Grendel raiding, piracy and slaving.
+
+### Sea Drake Cartel
+
+- **Location:** Madruga
+- **Motto:** *Faster alone, further together*
+
+United in loyalty and vigilance the Sea Drake Cartel support the Freeborn people exclusively: Freeborn first, last and always. Each a member of the Erigo tribe, the focus of the siblings of the cartel is to protect the Brass Coast and build on its strength. Known by their familiar Sea Drake imagery and rings, they offer safe harbour for those who share in their ambitions. Whilst pursuing the ultimate goal of protecting the Freeborn people at any cost, with no deed being too unsavoury, they have had regular run-ins with Imperial Law as they pursue the goal for a brighter future. Embracing life's pleasures, as all Freeborn are wont to do, they aim to ensure the betterment of the coast they cherish along the way.
+
+Home to several businesses, including Amador's Parador, bringing exotic foods and drinks from across the known world and the trade of unique goods liberated from the enemies of the Empire.
+
+### The Blazing Tide
+
+*[Image: Blazing Tide.png](https://www.profounddecisions.co.uk/empire-wiki/File:Blazing_Tide.png)*
+
+- **Location:** Madruga
+- **Motto:** *Fortune and fury*
+
+Leaving their home in Kahraman, two sons of Corterra answered the call to defend their nation. Along with a magician, they founded the Blazing Tide. Like the Three Sisters led the nation, this crew is led by three captains. Seeking out a new place to call home, they found an island off the coast of Madruga.
+
+From there, they called upon other corsairs to join them and build an armada. Dedicating themselves to bringing flame to slavers and seeing those in captivity freed, the Blazing Tide sweep across land and sea, with fire in their hearts and salt on their brow.
+
+## Hakima
+
+*[Image: Fires at Midnight.jpeg](https://www.profounddecisions.co.uk/empire-wiki/File:Fires_at_Midnight.jpeg)*
+
+### Fires at Midnight
+
+- **Location:** Segura
+- **Tribe:** Erigo
+
+The Fires at Midnight are a militant order of hakima believed to have been founded roughly a generation after the [exodus of the sisters](../../in-character/nations/the-brass-coast/The_Brass_Coast_history.md), in a response to banditry and other threats to the tribes’ new home. Throughout its long history in Segura, the coven has been primarily made up of battlemages who were well versed in [Winter magic](../rules/Winter_magic.md). The Fires accepted that the great power of the chill realm comes at a steep cost, which they have been prepared to pay for the Coast’s protection. The coven was massacred in battle alongside [Empress Britta](../../in-character/history/Empress_Britta.md) when the coven's leader, Anne i Erigo, sought to gain the Empress' attention in the interests of bringing Imperial armies to Segura. They were reduced to a handful of apprentices that had stayed behind, each of whom had differing views on how to best serve the Coast. They went their separate ways but were no less dedicated to the defence of the coast, its magical lore, and its stability. Now as 381YE is drawing to its end there are whispers that the Fires at Midnight may rekindle their bonds and come together once more.
+
+## Other Groups
+
+### Flames of the Coast
+
+Flames of the Coast were founded at Anvil for all kohan and hakima who wish to join it.
+
+It was made to be a common banner to enable those Freeborn without family banners to take full advantage of group enchantments, and to offer support for the causes of its members. The main focus is on preserving the old ways and traditions of the hakima and kohan. Many, both within the Coast and among other nations, have seen those ways decline since the death of Britta when many who followed them perished. This banner is a symbol of that those ways aren’t lost and to show strength in whom they are.
+
+The banner has little presence outside of Anvil. At the end of each seasonal summit, the kohan and hakima of the banner often go back to their own homes and lives. In 381YE the banner started talks about building a garrison and small fort in Kahraman as a common meeting place outside of Anvil where all kohan and hakima will be welcome.
+
+Several kohan cohorts make up the banner, including the Painted Ones, the Golden Harpies, Erigo's Masks, the Tides of Zemress, the Red Sun Scorpians, and the Tears of Flame.
+
+### Freeborn Flame Cartel
+
+*[Image: Freebornflamecartel.jpeg](https://www.profounddecisions.co.uk/empire-wiki/File:Freebornflamecartel.jpeg)*
+
+- **Location:** Madruga
+- **Motto:** Our lives for the crown, our souls for the horizon
+
+The Freeborn Flame Cartel is a group of families based out of Midport who spend their time relaxing, pursuing success, and promoting the victories and glory of the Brass Coast nation, as well as dedicating itself to the continuing strength of the Freeborn. There are several predominant families in the group namely the Radah i Guerra family and the Carno i Guerra family.
+
+In battle, they fight as corsairs under the banner of the Flame of Anduz. Outside of battles, they operate a large Spring and Night coven, Sails of the First Flame, which specialises in enhancing the potency of their fleets and various fortification rituals.
+
+### New Promise Cartel
+
+*[Image: New Promise Cartel.PNG](https://www.profounddecisions.co.uk/empire-wiki/File:New_Promise_Cartel.PNG)*
+
+- **Location:** Feroz
+
+The New Promise Cartel was founded in 342YE by two families with a long running trading relationship, the Zaydans and the Sharthas. The Zaydan i Riqueza family is a [corsair](../../in-character/nations/the-brass-coast/Corsair.md) family who operate out of Oran, transporting goods across the Bay of Catazar. The Shartha i Riqueza family is based in Joharra, and trade goods within the Empire and to its foreign neighbours. The Cartel has now grown with other members joining from outside the two core families, though they still make up the majority of Cartel members.
+
+The Cartel is still based predominantly out of Oran, but they operate throughout [Feroz](../../in-character/nations/the-brass-coast/Feroz.md) trading by both land and sea. They maintain a strong corsair fleet which has won the [Broken Shore Bounty](../../mixed/titles/Broken_Shore_Bounty.md) a number of times in recent years. In Anvil they operate the New Promise Teahouse.
+
+The Cartel’s organisation means its members are independent to follow their own Prosperity wherever it should (legally) take them, but with the support of the Cartel who are eager to invest in new ventures.
+
+The Ambition of the Cartel remains to grow its name and reputation, and to build on the Prosperity of Oran, Feroz, and the Empire.
+
+*[Image: The Saltborn Collective.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:The_Saltborn_Collective.jpg)*
+
+### Saltborn Collective
+
+- **Location:** Madruga
+
+Formed by three close friends, each a notable member of their communities, the Saltborn Collective is a banner that provides business and services of all types to the Quzar The most notable of these services is the Saltborn Surgery, run by two of the Saltborn's founders. Though small and less influential, those who bear the symbol of the sun with seven rays setting over a sea with seven waves receive respect from citizens across the territory. Their focus is primarily on honing their own skills, growing their family and influence, and doing all they can to spread health and Virtue not only within their communities but all over the Empire. Alongside their community and family-focused mindset, any of those who have lost parents via any route or find themselves at a loose end with nothing to do and nobody to turn to will almost always be welcome amongst the Collective, whether they want to become a permanent member or not-- so long as they don't mind being made useful.
+
+### Scales of the Salt-Water
+
+- **Location:** Madruga
+
+Nestled amongst the white towers of Quzar lies the dock-side temple of the Scales of the Salt-Water. A place of learning and magic, but without a hint of bookishness. The front of the house operates much like a paradour, with merchants and captains discussing business over fine foods. The rear of the house is reserved for the coven members. Specialising in [Autumn](../../in-character/eternals/Realm.md#autumn) rituals of [Ephisis](../../in-character/eternals/Ephisis.md) and [Estavus](../../in-character/eternals/Estavus.md), the many bejewelled chests and boxes are frequently changing contents.
+
+For those who leave the temple to visit Anvil, both trade and warfare are a pressing concern. Healers both magical and medicinal join the field, protected by the temple's fearsome guardians.
+
+---
+
+Categories: [The Brass Coast](../../indexes/by-category/The_Brass_Coast.md)

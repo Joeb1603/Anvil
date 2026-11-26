@@ -1,0 +1,19 @@
+==Overview==
+The Architect of the Conscious River is an Imperial title [[Construct_Nostos_Docks|created]] by the Senate during the Spring Equinox 386YE. The Nostos Docks created by this commission formed part of [[An_angry_blade#Dear_Perfection|a plan]] devised by ''[[Appraisal#Graciana_i_Lòpez_i_Guerra|Graciana i Lòpez i Guerra]]'' which could see Urizen able to support its own navy, but bring in some benefits to local trade by themselves.
+__NOTOC__
+==Responsibilities==
+The Architect has a responsibility to promote trade and investment on the River Couros. In addition, if the Docks or those trade along the River Couros were to be threatened in any way, it would be the responsibility of the Architect to deal with those threats.
+
+==Powers==
+===Portion of Trade===
+The Architect gains custodianship of a [[sinecure]]. Each season they receive 10 ingots of [[tempest jade]], and 5 ingots of [[green iron]], a portion of the trade in these valuable materials that flows through the docks.
+
+===Appointment===
+This title is appointed during the Winter Solstice each year. The Architect of the Conscious River is appointed by citizens of Urizen who control [[mana site|mana site]] [[Resource#Personal_Resource|personal resources]] through the [[Tally of the Votes]]. The more improved a mana site an individual controls, the more votes they can allocate in support of a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only an Urizen citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+
+<!--{{CaptionedImage|file=ArchitectConsciousRiver|caption='''Character''', Architect of the Conscious River|align=left|width=300}}-->
+{{RecentElections|Architect_of_the_Conscious_River}}
+{{Responsibilities Expectation}}
+[[Category:Title]][[Category:Bourse]][[Category:Urizen]]

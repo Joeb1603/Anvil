@@ -1,0 +1,17 @@
+<ic>To assign the Jarmish Embassy a remote principality to work with.<br><br><i>Proposed by the Imperial Civil Service.</i></ic>
+
+===Overview===
+* The Senate requests that the [[Principalities of Jarm]] construct their Imperial embassy in the port city of [[Principalities_of_Jarm_ports|Rigia]] in the eastern Principalities.
+
+===Date=== 
+* Winter 378YE
+
+===Campaign Outcome===
+* This decision should cause the [[Principalities of Jarm]] to recognise the [[Construct Jarmish Embassy|Imperial embassy]] in [[Redoubt#Cargo|Cargo]]. 
+* Oswi Twice-Burned was appointed [[Ambassador to Jarm]] at the Autumn Equinox 378YE
+<!--- Note: offer opportunity to "flavour" it to one of the three Jarmish ports indicating support for that IC faction within the nation. Should offer more crystal mana that other materials. Could offer dual ministry one buy list from Kavor and one from the other place --->
+
+
+[[Category:Senate Motion]]
+[[Category: 378YE Winter]]
+__NOTOC__

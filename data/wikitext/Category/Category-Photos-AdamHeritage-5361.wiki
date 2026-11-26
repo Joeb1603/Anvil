@@ -1,0 +1,6 @@
+Adam Heritage is an excellent photographer who has a ko-fi [https://ko-fi.com/yoularp here].
+
+Please use the following text in the description field when uploading files by this artist to the wiki:<br>
+
+''<nowiki>{{AdamH}}
+</nowiki>''

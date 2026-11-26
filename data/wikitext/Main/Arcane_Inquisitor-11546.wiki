@@ -1,0 +1,23 @@
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Nine.png|caption=This title is appointed by the [[Assembly#Assembly_of_the_Nine|Assembly of Nine]]|width=250px}}</div>
+{{CaptionedImage|file=Rhubarb Ironwood.jpg|caption=The first Arcane Inquisitor was appointed during the Spring Equinox 386YE|align=left|width=350}}
+The Arcane Inquisitor is an Imperial title [[385YE_Winter_Solstice_Senate_sessions#Create_title_of_Arcane_Inquisitor|created]] by the [[Senate]] during the Winter Solstice 385YE. They are appointed by the Assembly of Nine and have a responsibility to oversee the virtue of titleholders in the [[Conclave]]. Although the [[Imperial Constitution]] protects positions associated with the Conclave from [[revocation]], the titleholders are not immune to the scrutiny of the Synod, including the power of [[inquisition]].
+
+==Responsibilities==
+The Arcane Inquisitor is expected to advise Conclave titleholders about the [[The Way|Way of Virtue]]. There is some expectation that they will work alongside the [[Witness of Conclave]] and the [[Sevenfold Path]] to ensure that activity that might [[Religious_crime|constitute a religious crime]] is acted upon so that an appropriate [[sanction]] can be administered.
+
+==Powers==
+===Inquisit Conclave Titleholder===
+Once per summit, the Arcane Inquisitor may issue a [[Inquisition#Writ_of_Inquisition|writ of inquisition]] against any Conclave titleholder without the need for judgement in an Assembly. Eligible Conclave titles are the [[grandmaster]] of each [[Conclave order]] and any title appointed by [[Declaration]] of [[Candidacy]]. They must inform the [[Tribune of the Synod]] of their intention to issue a writ. The Tribune will update the judgements boards in the Hub so that other priests are aware of the action, but no vote is required. The Inquisitor is not required to use their judgement, if any, to employ this power.
+
+The additional writ of judgement is issued under the authority of the Assembly of Nine - it is escalated to a sanction in the Assembly of Nine if required.
+<!--{{CaptionedImage|file=ArcaneInquisitor.jpg|caption='''Rhubarb Ironwood''', Arcane Inquisitor|align=left|width=400}}-->
+==Appointment==
+The Arcane Inquisitor is appointed during the Autumn Equinox. They are chosen with a [[judgement]] of [[appointment]] by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]]. 
+
+The title can be held by any Imperial citizen. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and the Assembly of the Nine.
+{{RecentElections|Arcane_Inquisitor}}
+[[Category:Synod]]
+[[Category:Title]]
+[[Category:Conclave]]
+__NOTOC__

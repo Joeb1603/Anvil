@@ -1,0 +1,27 @@
+[[Category:Senate Motion]][[Category:388YE Summer]]
+__NOTOC__
+<quote by="Announced by Laughlan Vi Temeschwar, Master of Rings">To construct the Northern Way, a great work building a safe passage between the city of Apulian and the territory of Zenith. This is funded by the Crimson Reapers.
+</quote>
+==Overview==
+* Constructs a [[great work]] in Apulian, Apulus, Spiral
+* Announcement by the [[Master of Rings]]
+* More information can be found in the '''[[My_friends_are_my_estate#Northern_Way|My friends are my estate]]''' wind of fortune
+* This commission received the support of League citizens as it was announced by the Master of the Rings
+
+==Date==
+* Summer 388YE
+
+==Cost==
+* Costs as per opportunity
+* 50 wains of white granite
+* 30 wains of mithril
+* 30 thrones in labour costs 
+* Six months to construct
+
+==Progress==
+{{CommissionProgress|Construct_the_Northern_Way}}
+==Outcome==
+Once complete, the Northern Way will have the following effects:
+* Raises the level of investment in [[Zenith]] by one, providing 36 rings for each [[business]] in the territory
+* Removes the penalty to businesses in Spiral from the {{Black Plateau}}
+* Enables the Crucible of Fate to boost the output of the [[Legacy]] and upgrade personal resources

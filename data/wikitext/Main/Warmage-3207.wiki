@@ -1,0 +1,39 @@
+[[Category:Title]][[Category:Urizen]]
+<div style="float:left; width: 325px; clear: left;">{{CaptionedImage|file=Shove Army.jpg|caption=The Warmage ensures that the [[Military Council]] has specialist advice on tactical and strategic use of magic|align=right|width=325}}</div>
+==Overview==
+The Warmage is an [[Imperial title]] bestowed upon a citizen of [[Urizen]] by a majority vote of [[Magical skills#Magician|magicians]]. The Warmage used to be an Imperial position appointed by Declaration of Candidacy by the Imperial Conclave, before it was changed by the Imperial Senate during the [[386YE_Spring_Equinox_Senate_sessions#Amend_title_of_Warmage_I|Spring Equinox 386YE]]. The first Warmage was a [[Dawn|Dawnish]] warwitch named ''Jayne de Severnford'', and the witches of Dawn would often seek to emulate her by claiming this position and keeping it for as long as possible. Indeed, on several occasions, a [[Dawn culture and customs#Test of Mettle|test of mettle]] revolved around becoming Warmage. 
+
+When the position was appointed by the Conclave it was often hotly contested by members of the [[Rod and Shield]] [[Conclave order|order]]. On occasions when a Warmage that did not belong to that order was appointed, they often came under pressure to join the ranks of the Rod and Shield. A wise Warmage would often seek to cultivate good relations with the Order of the Rod and Shield, and many in the order are hopeful that such a relationship will continue with the title as an Urizen national position.
+
+==Responsibilities==
+The Warmage is expected to ensure that the [[Military Council]] has specialist advice on tactical and strategic use of magic; is appraised of the availability and effect of magical resources; and recognises opportunities to use magic on the battlefield or in pursuit of strategic aims. 
+
+The holder of the title is also expected to use their powers to liaise between the Conclave and the Military Council, and to offer advice about deploying and gathering magical resources, specific magical counters to known threats, and ways that additional magical support can be acquired or deployed.
+
+==Powers==
+===Member of the Military Council===
+The Warmage has a seat on the [[Military Council]]. This grants them a vote, identical to that possessed by an Imperial [[general]]. While they do not directly control an Imperial army, they receive all other benefits and expectations of being an Imperial general such as being permitted to speak freely.
+<div style="float:right; width: 500px; clear: left;">{{CaptionedImage|file=LastImperialWarmage.jpg|caption='''Raficci "Rafe" Vicente Barossa''' served as the last Warmage before the position was amended to become an Urizen position.|align=right|width=500}}</div>
+===Bearer of the Healing Rod===
+Since 377YE, the Warmage has been entrusted with "Merel's Rod of Healing", an [[Ilium#Creating_Artefacts|artefact]] [[Ambergelt Baton]]. The rod was made by the [[Navarr]] [[Crafting skills#Artisan|artisan]] '''Merel Pathfinder''', with [[ilium]] garnered from the [[Conclave]]. The Warmage may wield the rod themselves, but the intention was that it could be allocated to a worthy individual each day to ensure it saved the most lives possible. If the Warmage loses their position, then the item must be given to the new Warmage with all appropriate haste. The Warmage is encouraged to take all appropriate precautions to keep this item safe.
+
+===Bearer of the Staff of Judgement===
+At the Spring Equinox of 380YE, the incumbent Warmage was entrusted with "The Staff of Judgement" an [[Ilium#Creating_Artefacts|artefact]] [[Staff of Imperial Mastery]] made by a [[Marches|Marcher]] [[Crafting skills#Artisan|artisan]] as an item befitting the role of Imperial Warmage. This item is now part of the [[New_Imperial_titles#Regalia|regalia]] of the Warmage. The staff judges every action that the wielder takes so that those who take on the role will be aware of the great responsibility they have been entrusted with.
+
+===The Bounty of the Heavens===
+Major deposits of [[ilium]] in the Empire are regulated and disposed of through the Bourse for the benefit of everyone. However minor deposits - a few rings - of the kind associated with minor star falls can be claimed by any who find them. Often such bounties end up in the public auction - the best way for the lucky finder to turn their trove into rings. The Arch of the Sky in Zenith has enriched themselves considerably by this means - having developed the ability to accurately plot the passage of stars as they fall. In 332YE, the stargazers elected to provide a small bounty of ilium taken from their finds for use by the Warmage. The practice ended in 367YE after a long period without star falls left the Arch low on supplies but they have now indicated that they are in a position to resume supporting the Warmage.
+
+The Arch has committed to provide 3 rings of ilium for the Warmage each summit for the foreseeable future. This wealth is intended to be used by the Warmage in their negotiations with other magicians as they coordinate and corral the efforts of magicians to support the Military Council. Aiding the Warmage fits perfectly with the [[Net of the Heavens]] philosophy of Arch of the Sky. Their goal is to aid the Empire and they see the Warmage as the pivotal node through which to achieve that end. <!--<label type="important"> UPDATE THIS TEXT </label>-->
+
+==Appointment==
+The Warmage is appointed during the Spring Equinox each year. They are elected by vote of the [[Magical skills#Magician|magicians]] of [[Urizen]].
+
+If the Warmage is revoked, dies, or abdicates their title, then the position will automatically come due for selection by [[Imperial_elections#Extraordinary_Elections|extraordinary election]] at the next summit for a limited term until the next Spring Equinox.
+
+The title can only be held by an Urizen citizen. They can be [[revocation|revoked]] by the Urizen [[national assembly]], the [[Assembly#General_Assembly|general assembly]], or the [[Assembly of the Nine]].
+{{CaptionedImage|file=Ibiss Briarheart.jpg|caption='''Ibiss Briarheart''', Warmage|align=left|width=450}}
+{{RecentElections|Warmage}}
+
+==History==
+The Warmage was originally responsible for "''helping to arrange magical assistance for the armies of the Empire''". During the Summer Solstice 384YE, however, the Imperial Senate [[384YE_Summer_Solstice_Senate_sessions#Amend_Warmage|amended the title]] to remove this responsibility. At the same time they [[384YE_Summer_Solstice_Senate_sessions#Create_Imperial_Warcaster|created the title]] of [[Imperial Warcaster]] to oversee such rituals.
+{{Military Council Further Reading}}

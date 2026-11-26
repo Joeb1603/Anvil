@@ -1,0 +1,65 @@
+==Overview==
+{{CaptionedImage|file=The People of Highguard.jpg|title=Demons run when good people go to war|caption=Guardians, cataphracts, and unconquered fight together to protect their nation, and to safeguard human destiny.|width=500|align=right}}
+Highguard has a military heritage of which it is justly proud. Most Highborn serve with one of the three Highborn armies as part of their “coming-of-age”. This service is considered necessary to the formation of Highborn character and maintains the connection between the people of today and their warrior ancestry. Most skills can be put to use in a military context, although those serving as medics, quartermasters and ancillary troops do not earn as much respect as their more warlike colleagues.
+==Guardians==
+Most Highborn return to their [[chapter]] after leaving the army. The most skilled soldiers become part of the elite guards that protect the chapter against barbarians and other threats. These warriors, called guardians, train daily with their comrades learning to fight as a unit in close formation. Chapters outfit their guardians with weapons and armour and most provide a surcoat adorned with the chapter’s heraldic device, usually in black and white or similarly contrasting colours. Some groups of guardians choose to specialise, training to become cataphracts or unconquered, in line with the oldest martial traditions of the Highborn.
+==Cataphracts==
+In the earliest days of Highguard, the cataphracts rode into battle on mighty war horses, devastating their enemies with shield and lance. Today the horses are gone, but the cataphracts remain, embodying a warrior tradition that embraces the highest virtues of the Imperial Faith. Heavily armoured, they serve as living standards, encouraging and supporting those who fight alongside them with their commitment to achieving victory. The best of them burn with fervour, filling them with righteous fury when they face the enemies of the Empire in close combat. Likewise, when an army must fall back, it is the cataphracts who guard the retreat.
+__TOC__
+==Unconquered==
+The counterpart to the cataphracts are the [[unconquered]]. These skilled warriors undertake scouting missions, employ sabotage and terror as weapons to weaken their foes, and seek out specific targets on a battlefield. In contrast to the archers and skirmishers of many other nations, the unconquered favour medium armour and short bows, and are not shy about engaging in close combat with hand weapons if the tides of battle make retreat-and-fire an unappealing option.
+{{CaptionedImage|file=BurntForehead.jpg|align=left|width=270}}
+The unconquered are used to operating with a high level of autonomy, often behind enemy lines or in unknown territory. Despite this independence, the best of them know that they operate as one part of a larger plan, that their duty is to ensure that the forces they accompany achieve victory. Unconquered who arrogantly assume they can win the day all by themselves generally meet unpleasant ends.
+==The Vigilant War==
+Highborn generals and soldiers alike embrace the concept of a vigilant war. This principle teaches that strong defences and preemptive strikes are the most effective way to curtail an enemy’s ability to be an aggressor, minimising the impact on civilians, and making it the most practical and moral solution to the matter of war. On the battlefield their troops work together to utterly overwhelm their enemies as quickly as possible, cataphracts driving them from the field while the unconquered deny them any chance to regroup and counter-attack.
+
+==Imperial Armies==
+Highguard fields four [[army|armies]]: the ''Granite Pillar'', the ''Seventh Wave'', the ''Valiant Pegasus'', and the recently raised ''Pilgrim's Defiance''. 
+{{CaptionedImage|file=GranitePillar.jpg|align=right|width=100}}
+===The Granite Pillar===
+The guardians of the [[Granite Pillar]] are usually arrayed in heavy armour with shield and sword, supported by cataphracts and martially inclined [[magister|magisters]]. They practice tactics designed to emphasise their [[Army qualities#Disciplined|discipline]], and are always accompanied by military chaplains who dedicate themselves to supporting and blessing the soldiers, helping them to remain focused on the battlefield and highlighting the virtues of [[Loyalty]], [[Courage]] and [[Pride]]. 
+
+The first Highborn general leads the [[Granite Pillar]] army, and is appointed (or re-appointed) at the Summer Solstice each year.
+{{CaptionedImage|file=SeventhWave.jpg|align=right|width=100}}
+===The Seventh Wave===
+While the core of the [[Seventh Wave]] is heavily armoured guardians, it is supported by a number of unconquered, scouts, skirmishers and magicians. The army makes great use of mixed-arms tactics, supporting shield-and-sword with bow, or bow with polearm and pike. They are adept [[Army qualities#Scouting|scouts]], capable of quickly sizing up their enemies and giving clear reports on all elements of the military campaigns in which they are involved. Shortly before the Summer Solstice 383YE, the Seventh Wave [[Enlargement_of_the_Seventh_Wave|became a large army]].
+
+The second Highborn general leads the [[Seventh Wave]], and is appointed (or re-appointed) at the Autumn Equinox each year.
+{{CaptionedImage|file=ValiantPegasus.png|align=right|width=100}}
+===The Valiant Pegasus===
+The [[Valiant Pegasus]] has served for almost a decade; mustering was completed in 378YE. Initially, the force incorporated some of the finest Highborn siege architects and was well prepared both to take advantage of Imperial [[fortifications]] and bring down barbarian strongholds. Following the [[Iron_and_wine#Opportunity: The Quality of Mercy|opportunity]] offered by the celebration of [[Empress Lisabetta]], the Valiant Pegasus refocused its efforts to the [[Army_qualities#Physick|preservation of life]] on the battlefield, supported by many apothecaries. As a new army, it has yet to establish a particular identity or reputation for itself.
+
+The third Highborn general leads the [[Valiant Pegasus]], and is appointed (or re-appointed) at the Spring Equinox each year.
+{{CaptionedImage|file=PilgrimsDefiance.webp|align=right|width=100}}
+===The Pilgrim's Defiance===
+The [[Pilgrim's Defiance]] were raised during the Spring Equinox 387YE. Raised from the grey pilgrims who had [[The_war_of_thorns_and_flowers#Highguard|returned]] to Highguard following the call of the Highborn Assembly, the mustering of the army was quickened by the [[387YE_Spring_Equinox_Senate_sessions#Assign_Regalia_to_Generals_of_Highguard|assigning of regalia]] to the generals of Highguard. [[Banners_and_bells|Mustering]] completed in just six months, shortly before the Autumn Equinox 387YE. The army was named for the return of the [[grey pilgrim|grey pilgrims]], and endorsed the army's focus on [[Banners_and_bells#Devotion_To_Virtue|devotion to virtue]]. 
+
+The fourth Highborn general leads the [[Pilgrim's Defiance]], and is appointed (or re-appointed) at the Winter Solstice each year.
+
+<div style="float:right; width: 450px; clear: right;"><quote>“We are the thunder on the earth, we are the steel tide that drowns the foe.”</quote></div>
+===The Thundering Tide (Defunct)===
+The venerable Thundering Tide was composed of the descendants of the old Highborn light cavalry units. They adapted their mounted tactics as best they could, becoming experts in [[Army_qualities#Skirmishing|manoeuvrable]], fluid tactics designed to outflank their opponents. Many soldiers of the Thundering Tide were trained to fight with [[Weapons_%26_armour#Polearms|pole-arms]] - an echo of the lances they once used to ride down the enemies of Highguard.
+
+The army was disbanded by [[Empress Mariika]] as part of the sweeping changes she made in pursuit of saving the Empire from bankruptcy. The last general of the Thundering Tide, Abishai of Judah's Evasion, took his own life after. Many of the unconquered and cataphracts that used to belong to this army would go on to join the Seventh Wave.
+
+==Army Orders==
+* '''Highborn armies can take the ''Protect the Innocent'' order when attacking'''
+
+Following the [[Banners_and_bells#A_Last_Crusade|end of the final crusade]], the [[387YE_Summer_Solstice_Synod_judgements#Judgement_6|Highborn Assembly embraced]] the [[opportunity]] to protect the innocent.
+<box>'''Protect the Innocent'''
+* '''Casualties inflicted by this army are reduced by a tenth'''
+* '''The ability of this army to capture territory is reduced by a tenth'''
+* '''Any orders to an allied army in the same territory that increase casualties are changed to balanced attack'''
+* '''The presence of an army fighting to protect the innocent in a territory is always obvious to other armies in the same territory'''
+
+Any Highborn army instructed to protect the innocent will still push forward, but they will do so cautiously and with a focus to ensure that innocent bystanders are not to be harmed. The general's orders will identify who the army is seeking to protect, but provided they are clear, then the force will do everything it can to save the lives of those the general ordered spared - even if that means stopping an allied Imperial army from attacking. This will inflame tensions between the two forces, but they will not come into armed conflict. Imperial discipline will be sufficient to prevent one Imperial soldier cutting down another - just.
+
+Progress will be slow, because of the sacrifice needed to ensure that the innocent on all sides are protected. The army and their allies will kill less of the enemy, simply because of the abundant caution shown by the soldiers. Any allied force in the same territory that submits the following orders [[Army_qualities#Cruel|Merciless Onslaught]], [[Army_qualities#Cunning|Whatever it Takes]], [[Army_qualities#Glorious|Triumphant Charge]], 
+[[Army_qualities#Hard_Bitten|Make them Pay]], [[Army_qualities#Relentless|Cut Them Down]], [[Army_qualities#Thornbound|Poison Thorns]],  [[Army_qualities#Venomous|Fire in the Blood]] or any similar order that increases casualties inflicted will be replaced with a balanced attack.
+
+Trying to protect the innocent does not prevent ''enemy'' forces from issuing orders to spread bloodshed and mayhem, but it will help to mitigate some of the worst effects.</box>
+
+{{Highguard Links}}
+
+[[Category:Highguard]]
+[[Category:Archetype]]

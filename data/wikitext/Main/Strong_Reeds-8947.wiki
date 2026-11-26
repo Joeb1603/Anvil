@@ -1,0 +1,25 @@
+{{Army Page}}
+{{CaptionedImage|file=StrongReeds_Colour.png|align=right|width=300}}
+===Overview===
+Initially raised from the people of [[Bregasland]], there is still a strong territorial bias in the soldiers of this army. The Strong Reeds is notorious for the dour, stubborn nature of the soldiers who serve under its banner. The Strong Reeds have a long history of resisting [[Jotun]] aggression against the marshes, and have several times in their history fought alongside the [[Wintermark]] armies in [[Kallavesa]].  In recent years they have embraced much older, [[Army qualities#Secretive|secretive stratagems]], relying on skills honed by years in the fens to perfect the art of scattering into a territory and lay low in appropriate [[territory]].
+
+The second Marcher general leads the Strong Reeds army, and is appointed (or re-appointed) at the Winter Solstice each year.
+===History===
+TBC
+__TOC__
+TBC
+====Recent History====
+TBC
+
+===Traditions===
+TBC
+==Composition==
+TBC
+==Army Quality: [[Army_qualities#Secretive|Secretive]]==
+The Strong Reeds were a notoriously [[Army_qualities#Hard_Bitten|hard bitten]] army, making their enemies pay in blood for every inch of land ceded. In recent years, however, they have embraced much older, [[Army_qualities#Secretive|secretive]] stratagems, relying on skills honed by years in the fens to perfect the art of scattering into a territory and laying low in appropriate territory.
+===Oathsworn===
+* '''The Strong Reeds fight with an additional thousand strength when in Bregasland'''
+As a result of a [[New_port,_old_wine#New_Oaths,_Old_Boots|mighty oath]] sworn in 386YE by [[General]] Amberlain, when the Strong Reeds fight in [[Bregasland]] they operate as if they had an additional thousand strength. However, should there ever be an enemy force in Bregasland, and the army ''not'' be in place defending the territory by the start of the following downtime, the oath will be broken with major consequences for the army. 
+{{CaptionedImage|file=Amberlain7869.jpg||caption='''Amberlain P. Black''', General of the Strong Reeds|align=left|width=250}}
+{{RecentElections|General_of_the_Strong_Reeds|the title of [[General]] of the Strong Reeds}}
+[[Category:Imperial Army]][[Category:The Marches]][[Category:Military Council]]

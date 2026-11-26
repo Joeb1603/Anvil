@@ -1,0 +1,229 @@
+===Precedence and the Font===
+
+*'''The income from the Principle of Proportions was 268 mana.'''
+*'''The remainder from previous seasons was 3 mana.'''
+The members of each order in attendance at the end of the previous summit determine precedence for the following summit according to the [[Principle of Precedence]]. The income of mana following the previous summit is listed above and was distributed as per the table below. This left 4 mana, which will be added to the font of the next summit along with the income from the Principle of Proportions at this summit.
+<table class="wikitable mw-collapsible sortable"><tr><th>Order</th><th>Precedence</th><th>Members</th><th>Mana</th><th>Ilium</th></tr>
+<tr><td>Grandmaster of the Order of the Rod and Shield</td><td>1</td><td>85</td><td>50</td><td>3</td></tr>
+<tr><td>Grandmaster of the Order of the Sevenfold Path</td><td>2</td><td>75</td><td>44</td><td>3</td></tr>
+<tr><td>Grandmaster of the Order of the Unfettered Mind</td><td>3</td><td>73</td><td>43</td><td>2</td></tr>
+<tr><td>Grandmaster of the Order of the Shuttered Lantern</td><td>4</td><td>65</td><td>38</td><td>2</td></tr>
+<tr><td>Grandmaster of the Order of the Silver Chalice</td><td>5</td><td>62</td><td>37</td><td>1</td></tr>
+<tr><td>Grandmaster of the Order of the Golden Pyramid</td><td>6</td><td>59</td><td>35</td><td>1</td></tr>
+<tr><td>Grandmaster of the Order of the Celestial Arch</td><td>7</td><td>35</td><td>20</td><td>1</td></tr>
+</table>
+__TOC__
+==Friday Session==
+===Concord: True Love===
+* '''Raised by:''' Morien de Carsenere
+* '''Declaration:''' To convey the message of the Champion of Love "to encourage those who believe they have found true love not to let divide in nation separate".
+* '''Outcome:''' Passed.
+===Concord: Condemn Thunderous Deluge===
+* '''Raised by:''' Quay Stone
+* '''Declaration:''' Conclave condemns the casting of Thunderous Deluge on Casinea and thus the Empire, an unconscionable act that has endangered the Prosperity of the Empire and for which no Senate approval was given.
+* '''Outcome:''' Failed
+
+===Concord: Support the Assault===
+* '''Raised by:''' Abel the Bursar
+* '''Declaration:''' Conclave calls upon the grandmasters and mages in Anvil to support the raid upon the slave lords of Rachensgrab with their magics and mana.
+* '''Outcome:''' Passed.
+===Concord: Senate Apology===
+* '''Raised by:''' Eli of the Cenotaph
+* '''Declaration:''' This Conclave apologises to Senate for making demands of it. History shows us the Empire prospers when the houses of power pro-actively cooperate instead of falling into conflict with one another.
+* '''Outcome:''' Failed
+===Concord: Grandmaster Proxies===
+* '''Raised by:''' Tyburn Weaver
+* '''Declaration:''' Conclave believes the grand master's proxy should be able to collect the font if the grand master cannot attend the summit. 
+* '''Outcome:''' Passed.
+===Concord: Gift of Kaela===
+* '''Raised by:''' Ematius Ankarien
+* '''Declaration:''' That we encourage the Synod to reassure the virtuous that the gift of Kaela represents no magical threat to their souls.
+* '''Outcome:''' Passed.
+===Concord: Fanes===
+* '''Raised by:''' Aleksandr Novosad
+* '''Declaration:''' This conclave requests that the Senate not construct a fane without a suitably worded declaration passing in Conclave.
+* '''Outcome:''' Passed.
+===Concord: Tharim's Offer===
+* '''Raised by:''' Enchantress Claudia Varkulova Remys
+* '''Declaration:''' The mages and farmers of Dawn accept the arrangement offered by Tharim for the benefit of Dawn and the destruction of our enemies.
+* '''Outcome:''' Withdrawn
+===Concord: Invitation to Tharim===
+* '''Raised by:''' Enchantress Claudia Varkulova Remys
+* '''Declaration:''' The Imperial Conclave invites representatives of the Bound King to inspect the Hall of Worlds with the intent of helping to strengthen the bonds of the portals etc
+* '''Outcome:''' Withdrawn
+===Concord: Mana for the Suranni===
+* '''Raised by:''' Brother Luke
+* '''Declaration:''' The Conclave encourage mages to provide crystal mana to the Archmage of Summer to help those who seek to flee persecution from the Iron Confederacy.
+* '''Outcome:''' Failed.
+===Concord: Recognition===
+* '''Raised by:''' Rafe Barossa
+* '''Declaration:''' This Conclave believes that mages should be recognised, thanked, and rewarded by the houses of state for their labour supporting our military units and fleets.
+* '''Outcome:''' Passed.
+===Concord: Witness of the Conclave===
+* '''Raised by:''' Heilyn Bronwen's Rest
+* '''Declaration:''' The Conclave supports the creation of a  new position, the Witness of the Conclave, empowered to inquisit Conclave title holders and bring their deeds to the eyes of the Synod and wider Empire.
+* '''Outcome:''' Passed.
+===Candidacy: Gloaming Sentinel===
+* '''Raised by:''' Finn Pridetalker, Vas Radovanovna Esskivik, and Sovica Martova Kovar
+* '''Declaration:''' Candidacy for [[Gloaming Sentinel]] title
+* '''Outcome:''' Passed. Vas Radovanovna Esskivik claimed the title.
+===Candidacy: Arcane Architect===
+* '''Raised by:''' Aleksander Zoravih Novosad ''and'' Lyonne Weaver
+* '''Declaration:''' Candidacy for [[Arcane Architect]] title
+* '''Outcome:''' Passed. Aleksander Zoravih Novosad claimed the title
+===Candidacy: Imperial Magus===
+* '''Raised by:'''  Æsa Sigeling
+* '''Declaration:''' Candidacy for [[Imperial Magus]] title
+* '''Outcome:''' Passed.  Æsa Sigeling claimed the title
+===Candidacy: Master of Ice and Darkness===
+* '''Raised by:'''  Brother Martin Orchard
+* '''Declaration:''' Candidacy for [[Master of Ice and Darkness]] title
+* '''Outcome:''' Failed
+===Candidacy: Archmage of Spring===
+* '''Raised by:'''  Cynekendra of Yrhara ''and'' Ibiss Netherwatch
+* '''Declaration:''' Candidacy for [[Archmage of Spring]] title
+* '''Outcome:''' Passed. Ibiss Netherwatch claimed the title.
+==Saturday Session==
+===Concord: Black Frost===
+* '''Raised by:''' Enchantress Claudia Varculova Remys
+* '''Declaration:''' That Dawn accepts the bargain offered by Tharim - one less mana crystal from sites, 36 less rings less from a farm for a year in exchange for 1000 knights.
+* '''Outcome:''' Passed.
+* '''Notes:''' This related to [[Throw_back_the_echoes#Tharim|Tharim's offer]] of assistance in [[the Barrens]], as detailed in the '''[[Throw_back_the_echoes#Tharim|Throw back the echoes]]''' wind of fortune.
+
+===Concord: Tharim's Bond===
+* '''Raised by:''' Enchantress Claudia Varculova Remys
+* '''Declaration:''' Conclave invites the Heralds of Tharim to come and visit the Hall of Words with a view to strengthening the Bonds of the Portal.
+* '''Outcome:''' Passed.
+
+===Concord: Cost of Thunder===
+* '''Raised by:''' Quay Stone
+* '''Declaration:''' Conclave reflects that the casting of Thunderous Deluge on Casinea and thus then Empire has a cost that heavily outweighed the benefits. Conclave resolves to learn from this mistake born of miscalculation and miscommunication.
+* '''Outcome:''' Failed.
+
+===Concord: Consequential Actions===
+* '''Raised by:''' Quay Stone
+* '''Declaration:''' Conclave, when requesting action from the Senate, should ensure that the consequences of action and inaction are clearly specified in a declaration, and calls upon all mages to hold to this process when addressing each situation.
+* '''Outcome:''' Fail.
+
+===Concord: Losses and Compensation===
+* '''Raised by:''' Quay Stone
+* '''Declaration:''' When Imperial citizens will unwillingly pay the price of Conclave's actions, Conclave must have a plan to compensate them for their losses.
+* '''Outcome:''' Fail.
+
+===Concord: Steadfast Lore===
+* '''Raised by:''' Ezekiel of Adina's Charge
+* '''Declaration:''' The Great Forest Orcs have proven themselves and made prosperous use of those rituals already shared with them. Imperial lore should be shared in full with such steadfast allies.
+* '''Outcome:''' Fail.
+
+===Interdiction: Thunderous Deluge===
+* '''Raised by:''' Nicholas Reaper
+* '''Declaration:''' To [[Interdiction|interdict]] Thunderous Deluge.
+* '''Outcome:''' Fail.
+
+===Interdiction: Foam and Spittle of the Furious Sea===
+* '''Raised by:''' Nicholas Reaper
+* '''Declaration:''' [[Interdiction|interdict]] Foam and Spittle of the Furious Sea.
+* '''Outcome:''' Fail.
+
+===Concord: Chronicles of the Magus===
+* '''Raised by:''' Geoffrey Orchard
+* '''Declaration:''' The declarations raised by the Imperial Magus' power, votes therein, and addresses by the Imperial Magus to Senate must be chronicled by the Civil Service.
+* '''Outcome:''' Passed.
+
+===Concord: Valued Labours===
+* '''Raised by:''' Scarrow Dawnbreak
+* '''Declaration:''' This Conclave appreciates and values the work done by Adamant and the koboldi
+* '''Outcome:''' Passed.
+
+===Concord: Silence the Masters===
+* '''Raised by:''' Heilyn Bronwen's Rest
+* '''Declaration:''' Conclave agrees that the power of the Grandmasters to recognise mages to speak should be applied on a minute-by-minute basis with silence from the Grandmaster taken as continual recognition.
+* '''Outcome:''' Passed.
+
+===Concord: Attempted rewording===
+* '''Raised by:''' Heilyn Bronwen's Rest
+* '''Declaration:''' Conclave calls upon the Constitutional Court to enact a means by which a declaration may be re-worded during a session.
+* '''Outcome:''' Failed.
+
+===Concord: Conclave Orders===
+* '''Raised by:''' Winter Guest
+* '''Declaration:''' All motions shall be numbered in the order they shall be presented to Conclave, this number to be announced before the relevant motion.
+* '''Outcome:''' Passed.
+
+===Dissemination: Eyes of the Soul's Past===
+* '''Raised by:''' Leif Arnbjorn
+* '''Declaration:''' Eyes of the Soul's Past
+* '''Outcome:''' Passed. Payment provided.
+
+===Dissemination: Secrets of the Soul's Desire===
+* '''Raised by:''' Leif Arnbjorn
+* '''Declaration:''' Secrets of Soul's Desire
+* '''Outcome:''' Passed. Payment provided.
+
+===Concord: Mourning the Dead===
+* '''Raised by:''' Zephaniah of Felix's Watch
+* '''Declaration:''' The Mourn has been enchanted. This season, it will be easier to understand and assist unquiet ghosts in passing on, Winter magicians and others who have expertise in the spirits of the dead are invited to share their expertise in the most haunted regions of the Mournwold.
+* '''Outcome:''' Passed.
+===Concord: Brevity===
+* '''Raised by:''' Sister Keziah of the Suns of Couros
+* '''Declaration:''' Brevity is virtuous and mages' time is valuable. A minute should be sufficient time to make your point. We condemn lengthy grandstanding.
+* '''Outcome:''' Failed.
+
+===Concord: Year of Hunger===
+* '''Raised by:''' Lutobor Branislavovich Glinka
+* '''Declaration:''' It is more than a year since Conclave encouraged Imperial magicians to cast Hunger of the Draughir. We invite Sorin to discuss his offer to aid the Empire's herb gardens in return.
+* '''Outcome:''' Passed.
+
+===Interdiction: Unwound Coil===
+* '''Raised by:''' Imperial Censor Bacauda Netherwatch
+* '''Declaration:''' Unwound Coil.
+* '''Outcome:''' Failed.
+===Concord: Challenge de Gauvain===
+* '''Raised by:''' Bryce Griffonsong
+* '''Declaration:''' The Knight Protector of Summer will set a challenge to hold Lady Rosalynne de Gauvain, Lady Solene D'Alba, Lord Sidlore, Edric Charge of Gauvain accountable for their recent actions against the eternal Hayaak.
+* '''Outcome:''' Passed.
+
+===Sorcery: House De Gauvin===
+* '''Raised by:''' Bryce Griffonsong (Girded as Orzen Ivarovich Severvan)
+* '''Declaration:''' Conclave believes the behaviour of House De Gauvin in <u>deliberately</u> provoking Hayaak and <u>refusing</u> to discuss their plans with the Archmage of Summer before hand warrants Lady Solene d'Alba, Lady Rosalynne de Gauvin, and Lord Sidlore Edric Charge de Gauvin being declared sorcerers.
+* '''Outcome:''' Failed/Passed.
+* '''Notes:''' This represents three declarations. Lady Solene d'Alba was ''not'' declared a sorcerer; Lady Rosalynne de Guavin and Lord Sidlore Edric Charge de Gauvin ''were'' declared sorcerers.
+
+===Dissemination: Eyes of Soul's Past===
+* '''Raised by:''' Rafael Barossa di Tassato
+* '''Declaration:''' That [[Eyes of the Soul's Past]] be shared with the Axou so that they may better understand and accept the truth of True Liao visions.
+* '''Outcome:''' Passed; 10 Thrones provided
+* '''Notes:''' A ritual text of Eyes of the Soul's Past will be shared with the Axou, on guidance from the embassy there.
+===Concord: Thunderous Consensus===
+* '''Raised by:'''  Rafael Barossa di Tassato
+* '''Declaration:''' Conclave did indeed form a broad consensus at Summer Solstice 384YE that casting thunderous deluge on the whole empire was desirable.
+* '''Outcome:''' Passed
+* '''Constitution:''' Following [[Rules_update_2023#Conclave_Changes|recent changes]] to the Conclave, the Constitutional Court is minded to treat this declaration as an [[endorsement]].
+
+===Concord: Archmage Rituals===
+* '''Raised by:''' Lucius Ankarien Willstone 
+* '''Declaration:''' Conclave encourages citizens with rituals they want publicly available but not put in Imperial Lore, to donate them as regalia for the appropriate archmage via the civil service.
+* '''Outcome:'''  Passed
+===Concord: Conclave Vaults===
+* '''Raised by:''' Vitus 
+* '''Declaration:''' The contents of an Order's Vault should not be sold for personal profit. It should be used for the Prosperity of the Order and the Empire. 
+* '''Outcome:''' Withdrawn
+===Concord: Sadogua Plan===
+* '''Raised by:''' Clérabéla Vicente de Metri 
+* '''Declaration:''' Support for Sadogua's plan to aid persecuted magicians.
+* '''Outcome:''' Passed 
+===Concord: Support Suranni Wizards ===
+* '''Raised by:''' Clérabéla Vicente de Metri
+* '''Declaration:''' Support to welcome persecuted magicians who flee to the Empire even if they do not follow the Way.
+* '''Outcome:''' Passed
+===Concord: Shroud===
+* '''Raised by:''' Raficci Vicente Barossa
+* '''Declaration:''' Conclave applauds the Celestial Eclipse, Culto Nocturno, and Pietro Aldini for the 110 magnitude shroud they cast upon Sarvos.
+* '''Outcome:''' Passed
+===Concord: Spire of Twisting Shadows===
+* '''Raised by:''' Hammare
+* '''Declaration:''' Saque Magique will take the responsibility from the Spire of Twisting Shadows for those suffering magical ailments.
+* '''Outcome:''' Passed
+[[Category: Conclave]]
+[[Category: Conclave Sessions]]
+[[Category: 384YE Autumn]]

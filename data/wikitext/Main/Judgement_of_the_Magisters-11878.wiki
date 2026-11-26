@@ -1,0 +1,32 @@
+==Rules==
+{{Season|Winter|9}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Character}} The target character must possess the [[Religious skills#Exorcism|exorcism]] skill.
+
+{{enchantment}}
+===Effects===
+This ritual targets a character with the [[exorcism]] skill who must be present throughout.
+
+Once per day, when they perform or cooperate in the performance of the exorcism skill, they may spend up to three additional [[liao]] to increase the strength of the ceremony by the same amount.
+
+They also experience a roleplaying effect: ''when you make a decision, you are filled with certainty that it is the right one. Anyone challenging or doubting the decision you have made are wrong to do so. If they persist, they should face the full force of your wrath''.
+{{Season Duration}}
+
+===Additional Targets===
+This ritual can affect additional characters from the same [[Groups#Sects|sect]]. Each additional character increases the magnitude by 6. Additional characters must be present throughout.
+
+==Description==
+This ritual was codified at the [[Master_of_Ice_and_Darkness#The_Icy_Crag_of_the_Eternal_Sun|Icy Crag of the Eternal Sun]] following the Spring Equinox 386YE, under the guidance of '''Ceinwen Eternal''' the [[Master of Ice and Darkness]]. The ritual was based on work done by the Highborn [[magister]], '''Zephaniah of Felix's Watch''' as a response to the [[Questions_of_virtue#Last_of_the_Justicars|destruction]] of the Sanctuary of the Justicars on the [[Feroz#Isle_of_the_Osseini|Isle of Osseini]]. It was [[386YE_Summer_Solstice_Conclave_sessions#Imperial_Lore:_Judgement_of_the_Magisters|entered]] into [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]] during the [[386YE_Summer_Solstice_Conclave_sessions|Summer Solstice 386YE]] under the guidance of the [[Dean of the Lyceum]].
+
+Elements of the ritual echo some of the power of the Summer enchantment [[Chasuble of Majesty]], but arguably bears more resemblance to the [[Silence of the Bronze Bell]] ritual that is part of [[Urizen lore]]. Three [[Winter_magic#Resonance|resonances]] of the [[Winter magic|Winter realm]] work together to empower this [[enchantment]]. [[Winter magic#Wisdom|Wisdom]] (as it is understood in the Wasteland, rather than the [[Wisdom|virtue]] familiar to Imperial priests) helps to provide understanding of the nature of the threat being faced, that will be unwoven or unbound by the exorcist. It also enhances the priest's facility with traditional methods of facing malign spirits, ghosts, and haunts. Lore regarding death and curses is particularly relevant to the ceremonies of exorcism after all.
+<div style="float:right; width: 500px; clear: right; margin-left: 10px;"><quote by="Zephaniah of Felix's Watch">The "judgement" of the ritual refers both to judgement as understanding and judgement as proclamation, punishment - wisdom and power, in terms of the Winter realm. It strengthens the exorcist's ability to assert: "''I '''am'''; you are '''not'''''".</quote></div>
+Winter magic also likes to bring things to an [[Winter magic#Ending|end]]. The obvious powers of destruction the realm wields, such as those that bring down towers or shatter weapons and shields are overshadowed. The power to end things resonates with the exorcism ceremony twice – a ghost or haunting is generally held to arise because of a death which mortals consider to be a profound form of ending. The ceremony itself breaks the ties between ghosts and their anchors, or subjects them to whatever annihilation awaits when their anchors are gone.
+
+Finally, of course, the resonance of [[Winter magic#Death|death]]. Exorcism deals with the trappings of those who refuse to allow death to claim them. The creatures of Winter see death not as an ending but a transformation from one state to another, especially when it results in a ghost or haunting. Exorcism, perhaps, brings an absolute end to the existence of a being.
+
+==Common Elements==
+Given the purpose – and title – of the ritual it is only appropriate that the ritual incorporate the imagery of the Imperial Virtues, especially symbols of [[Wisdom]] and [[Vigilance]]. Some [[magical skills#Magician|magicians]], especially in [[Wintermark]] might use the seven so-called “[[Runes#Runes_and_the_Imperial_Faith|runes of the faith]]”. Obviously the rune [[Yoorn]], which brings endings, is particularly resonant with the ritual – perhaps even in the form of shears, scissors, or knives that even more symbolically represent the purpose of the enchantment. 
+
+A spoken oath or solemn undertaking, to use the power granted by the enchantment virtuously, made by the subjects also resonates, drawing on another of the aspects of Winter magic that many of the virtuous find more palatable.
+[[Category:Winter Ritual]]
+[[Category:Rituals]]

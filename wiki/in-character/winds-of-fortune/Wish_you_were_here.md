@@ -1,0 +1,246 @@
+---
+title: Wish you were here
+source: https://www.profounddecisions.co.uk/empire-wiki/Wish_you_were_here
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 387YE Spring
+- Recent History
+event: 387YE Spring
+last_edited: '2026-01-15T15:22:08Z'
+revision: 131282
+in_character_boxes: 3
+---
+
+# Wish you were here
+
+*[Image: People come to Anvil for all sorts of reasons. To make money, to see the sights, to take in the many distractions and amusements, to participate in debates and disagreements, to grab a lever with both hands and use it to move the world...](https://www.profounddecisions.co.uk/empire-wiki/File:Wish_you_were_here.png)*
+
+## Overview
+
+It is not just the great and the good of the Empire who come to [Anvil](../world/Anvil.md) each equinox and solstice. The tent-city that springs up around the [Senate](../../mixed/government/senate/Senate.md) and [the Forge](../world/Anvil.md#the-forge) attracts visitors from all over the known world, and beyond. Some are drawn by the promise of wealth, some by the need to find the wisest and the bravest to help them resolve their dilemmas, some seek to influence those who wield true power in the Empire, others come to celebrate and forge new relationships with those drawn to the heart of Imperial power.
+
+Some who plan to visit Anvil are at pains to conceal their arrival, or their intentions. Others, though, make no secret of their intentions - indeed they often choose to send word ahead to ensure that those they hope to make contact with are prepared for them. Here, we talk about some of those who have been most public in their desire to meet those who throng to Anvil, as the new year begins and the old fades into the shadows.
+
+## Friday Arrivals
+
+### A Celebration of the Sea
+
+- **The Fellowship of Purple Sails invites all who regularly travel the seas to join them to share songs and stories of the sea in all its forms.**
+- **They will be throwing a party at 20:15 in the Fijadoz family camp in the Brass Coast.**
+- **There will be entertainment paid for by the Fellowship but others are invited to contribute.**
+- **Those who have participated in Rhianos's race are especially welcome**
+- **A Grendel Wind Lord is sending a delegate to meet with the *Ambassador to the Grendel* and *Vossk of Zenith Ascendant* at this party.**
+
+As part of their lobbying efforts, the Fellowship of Purple Sails have arranged with the Fleetmaster for several professional entertainers to attend Anvil on their behalf. They have planned to throw a small party on Friday evening of the summit. This "Festival of Nautical Life" will be a chance for storytellers, poets, actors, and songsmiths from across Anvil to come together and share songs and stories of life on the seas.
+
+The Fellowship have splashed out on their hiring of performers. *Miguel i Flores i Riqueza*, an experienced sutannir of some renown in his home of Calvos, will be acting as the master of ceremonies. The Sarvossan [troupe](../nations/the-league/Troupe.md) known as the *Sailor-Players*, who specialise in nautically-themed improvisational comedy, have been hired to perform some of their unique humour that relies on audience participation and quick thinking. *Izyaslav of the Empty Heart*, a Varushkan cabalist from Korotny, has volunteered his services as a storyteller telling uneasy tales of the sea. The Fellowship have been working with *Tiny* of the Three Refrains, who will be attending to share some of his songs. Miguel will also have some money available to reward other performances. Tales from the participants in Rhianos' Great Race are also particularly welcome.
+
+All of this will take place from 20:15 in the Fijadoz family camp. The Fellowship would like to encourage everyone who attends to use the time between performances to discuss what a nautically-focused sodality might seek to achieve and hold as its highest principles.
+
+There is one small addendum: the festival has received some interest from an unexpected quarter. Several days before the Spring Equinox, a solitary Grendel vessel, bearing a flag of parley, arrives at the docks of Sarvos. A Grendel magician, dressed in characteristically clashing colours, introduces himself to the guards as Hamish, apprentice to the Wind Lord Morath.
+
+He says he has travelled here under a flag of peace and as the representative of the Wind Lord. Hamish explains that he is visiting Anvil to meet with **Vossk of Zenith Ascendant** and the [Ambassador to the Grendel](../../mixed/titles/Ambassador_to_the_Grendel.md), **Finna**, and hopes that the three of them can have a private conversation at the soiree.
+
+It is clear he is very familiar with the Empire's laws regarding safe passage for barbarians who come under a flag of peace and as official representatives, and he is *scrupulously* polite and conciliatory to those who interrogate him. The magistrates confirm that he has the protection of Imperial law - as long as he does indeed go to meet the people he has mentioned at the time and place they have suggested, and then immediately leave when the business is concluded - and so he is allowed on his way - albeit under a watchful eye. The ship, having discharged its passenger, returns to the waters of the bay.
+
+> *In-character text:*
+>
+> The Ballad of Leohanr Gildaryn  
+>
+> All hail to the great protector!  
+> Weirwater's saviour's near  
+> Ignore the dead beneath his feet  
+> The graves he carries here
+>
+> He tells me he will stand against  
+> The husks that I call forth  
+> Oh you should look closer to home  
+> Fore looking to the north
+>
+> Ser Emrys, was the name I hear?  
+> The Druj he fought in vain  
+> Without your vaunted protection  
+> He died alone - in pain
+>
+> Mercy? I do not practise much  
+> But you and yours held claim  
+> Did you try fight those Druj brutes too?  
+> He fell all the same
+>
+> No husks will walk Weirwater  
+> A bold, audacious call  
+> That Glory will not shield you from  
+> Your Pride before the fall
+>
+> You live, and yet, upon the path  
+> My feet and words do tread  
+> Your Glory counts for nothing  
+> When raised against the dead
+
+### Stzena of Tears
+
+- **The wicked Stzena of Tears is travelling to Anvil with a deadly plaguewulf in tow**
+- **They apparently wish to speak to senators and wise ones, respectively**
+- **They are expected at Anvil around 20.00 on Friday**
+
+The *Stzena of Tears* [visited Anvil last season](Mistaken_for_strangers.md#deaths-reprise), on the business of their mistress the awful sovereign known as the Howling Queen. They have been sent south again, to the Spring Equinox to negotiate with the Senators (or representatives) of Varushka on matters related to patronage. They have not been idle since their last visit; several times they have been seen in northern Weirwater, demanding hospitality from travellers. If they are given a spot by the fire, they invariably sing dire songs of foreboding and dread, and one particular sticks in the memories of those who hear it - *The Ballad of Leohanr Gildaryn* is very hard to shake. Indeed, it has been taken up by some of the travelling singers and musicians in Dawn and is slowly spreading out of Weirwater into the rest of the Empire.
+
+The Stzena would be bad enough, but with them travels a monstrous beast, a [plaguewulf](../world/Plaguewulf.md) of dreadful aspect and fell power - rumour suggests they may be *Dravec the Hunter* itself, a true [elder](../world/Plaguewulf.md#elder-plaguewulfs) of the species. It is unlikely, but not impossible. If it *is* Dravec the Hunter they must be treated carefully, and given no excuse to unleash their terrible breath on the innocent people of Anvil. The plaguewulf, whoever they are, wishes to speak with the wise ones of Varushka about matters related to their upcoming ceremony dedicated to the paragon [Zoria](../religion/Zoria.md).
+
+The pair have travelled slowly - they eschew roads and prefer to travel overland - but are expected to arrive at the Varushkan enclave at eight in the evening on Friday and are unlikely to be able to actually enter the camp without an invitation - presuming the wards have been raised.
+
+### The Go-between
+
+- **A professional go-between, Etienne di Sarvos, has sent ahead that he is delayed and will not be able to reach Anvil until late on Friday**
+- **They wish to speak to representatives of Lula and Bernhard Kleist on a business matter**
+- **He is expected no earlier than ten in the evening and will seek the League camp when he arrives**
+
+It is a little late notice, but thanks to a ridiculous conflux of affairs involving a broken cart wheel, a goat, and a band of travelling guisers, *Etienne di Sarvos* has been forced to send news ahead that he will not be arriving at Anvil until late Friday night - perhaps as late as ten in the evening. Etienne is a professional go-between, and as a consequence, this unlucky state of affairs is particularly galling. Employed for his reliability and discretion, he is apparently expecting to meet with representatives of **Lula and Bernhard Kleist von Ennerlund** in the League camp (he anticipates that the two will most likely be far too busy to talk to him). It relates to a business matter, but discretion prevents him saying any more. He is confident they will know what this concerns - a discussion about some building work? He is hopeful that someone in the League camp will be able to direct him, never having met either of this Holberg luminaries before.
+
+### Kaisa's Invitation
+
+- **A strange figure named *Kaisa of the Sewn Tongue* invites a small number of people to an audience with the Falconer**
+- **They have not specified who should attend, but indicated that some folk will be given priority**
+- **Those who wish to meet the Falconer should arrive at the Imperial Regio at 00:20 on Friday**
+
+*Kaisa the Sewn Tongue, Chosen of the Falconer* is most likely of Wintermark, but they do not speak very much either to confirm or deny this. They paid a Navarr messenger to go ahead of them and make their words known; an invitation to speak with the Falconer. Whoever that is. The invitation is good for five people - any five people - who are prepared to meet at the Imperial Regio at a little after midnight on Friday night. Anyone who considers themselves "powerful and influential" is apparently welcome, but priority will be given to those who have weight to their claim. [The Throne](../../mixed/titles/The_Throne.md) obviously will have pride of place should they wish to attend. Then those who speak for the Empire, be they [Senator](../../mixed/titles/Senator.md), [Archmage](../../mixed/titles/Archmage.md), [Cardinal](../../mixed/titles/Cardinal.md) or the like. Then whoever else is there. But only five can make the journey to meet the Falconer and if more than five arrive they will need to decide among themselves who will accept the invitation.
+
+**Accessibility:** This is a [Combat Possible](../../out-of-character/rules/Accessibility.md#combat-possible) situation, and there will be a walk of around a hundred yards to reach the location of the audience with the Falconer. Once the audience begins, though, it is designed to take place in a reasonably contained area.
+
+## Saturday Arrivals
+
+### The Beetle Fellow
+
+- **A Marcher insect-studier is returning to Anvil to seek romantic advice**
+- **He hopes to speak with the Champion of Love, and some adepts of Spring magic who can help him out**
+- **Charlie is expected around 11.00 on Saturday**
+
+*Charlie Stinger* is apparently something of a veteran visitor to Anvil, having made the trek from his native Marchers to the summit on a couple of previous occasions. A fellow who apparently makes a living studying beetles, wasps, and other forms of insects, he is trying to locate the Champion of Love, and some adepts of Spring lore who can give him some counsel of a... romantic nature. He is intending to start in the Dawnish camp, in the Glory square, where hopefully the Champion will have no difficulty locating him. After that it will depend where the advice he is looking for takes him. He is expected around eleven o'clock in the morning on Saturday - which may mean that the Champion is not available due to battles and similar, but he hopes a suitable proxy can be arranged?
+
+### Those Who Sail The Sea
+
+- **The Fellowship of Purple Sails is looking to those citizens who attend Anvil to form their next generation of leaders**
+- **They are interested to see what a sodality that aims to promote foreign trade and support the activity of fleet-owners might look like**
+- **They will be sending a scrivener to the Fleetmaster's office hours at 11:00 on Saturday to discuss the details of what they would and would not be willing to throw their support behind**
+
+The Fellowship of Purple Sails is a relatively young sodality. It was founded in 379YE by a group of primarily merchants and ship-captains from the League and the Brass Coast, supported by several Highborn benefactors. It is made up of a large number of minor trading houses with an interest in foreign trade, as well as independent ship captains. They have generally taken an arms-length approach to Anvil politics - they were founded to support and pay for the posting of civil servants on Imperial vessels to prevent piracy. This has been a dramatically effective tool in the last decade against captains who would abandon the law in search of profit. They have also never really been represented by those who attend Anvil, which goes hand in hand with explaining why their voice has been limited.
+
+In light of the decision by the Senate to recognise the [Imperial Apothecaries Guild](../../mixed/titles/Imperial_Apothecaries_Guild.md), the Fellowship has held a meeting of their most influential members and benefactors. They have come to a decision: they would like to actively support a new Imperial sodality with a focus on maritime affairs: in particular, of course, they would like to see such a sodality support prosperous trade. The Fellowship are not fools, they expect that there will be other interest groups who will attempt to shape such a sodality, in the same way that the newly-founded Apothecary's Guild has different groups vying for influence. They essentially see it as prudent to "get in at the opening" - to push for the formation of some kind of sodality, and make clear what kind of principles it would have to commit itself to for the Fellowship to throw the weight of their influence and income behind them.
+
+They have reached out to the current [Imperial Fleet Master](../../mixed/titles/Imperial_Fleet_Master.md) to encourage them to lobby the Senate towards this end. Of course, the Fleet Master only has a responsibility for arranging the support of navies, but informally they are reckoned to be the head of a network of "fleet hubs" in Anvil. The Fleet Master position is due to be elected this season, so they're interested in talking to both the incumbent and any prospective successors. They are sending a hired scrivener, *Maria i Garcia i Guerra*, to attend the Fleetmaster's open hours at 11:00 in the Senate tent. Maria will be able to outline in more detail what kind of Imperial sodality the Fellowship would like to put their name and support behind.
+
+### A blue raven this way comes
+
+- **A Kallavesi hermit-artisan travels to Anvil from the vicinity of Pakaanan's Pass**
+- **They are looking to meet Derowen of the Forge, from Sigehold Hall**
+- **They are expected to reach the summit around 13:00 on Saturday**
+
+News has reached Anvil that a Kallavesi [artisan](../../out-of-character/rules/Crafting_skills.md#artisan) by the name of *Bal Blueraven* is on their way to Anvil. The old crafter hasn't been seen in public in a fair few years. They lived somewhere around Pakaanan's Pass - even after Skarsind was granted to the Imperial Orcs, they stubbornly refused to move away. Part of the year they spent in Sermersuaq, the rest in the hills above the pass. They kept themselves to themselves, occasionally coming into a settlement for supplies then disappearing again. It's not clear what they did when the Jotun broke the pass, but it may not be a coincidence that with the pass reopened they have chosen to depart their hidden hermitage and come all the way to Anvil. They're apparently expected to arrive at the summit around one in the afternoon on Saturday, and have let it be known that they're hoping to meet with **Derowen of the Forge**, from [Sigehold Hall](../../out-of-character/groups/Wintermark_groups.md#sigehold)
+
+### The Wise Test What They Know
+
+- **A Freeborn Wisdom sect is coming to discuss Judgement 42**
+- **They will be at *The Spilled Tea* in the Brass Coast from 13:00 on Saturday**
+
+A [Freeborn](../nations/the-brass-coast/The_Brass_Coast.md) [sect](../../out-of-character/rules/Bands.md#sects) by the name of *Sular's Spyglass* are apparently sending representatives to [Anvil](../world/Anvil.md) for the Spring Equinox. Currently based in [Feroz](../nations/the-brass-coast/Feroz.md), they are known to particularly appreciate the virtue of [Wisdom](../religion/Wisdom.md). According to those who have encountered them on the road, they are especially keen to discuss the implications of [Judgement 42](../synod-judgements/386YE_Winter_Solstice_Synod_judgements.md#judgement-42) in the General Assembly last summit, and its ramifications for the study of so-called "*[False Virtues](../../mixed/magic/lore/Malign_spiritual_presences.md)*". As well as their fellow travellers, they are apparently keen to talk to priests and layfolk alike once they reach the beating heart of the Empire - so long as all are willing to engage with them in the true spirit of Wisdom (however they might define it).
+
+The members of Sular's Spyglass have let it be known that they will be visiting *The Spilled Tea*, in the Brass Coast camp on Saturday from around one in the afternoon. They welcome anyone who wants to join them for a refreshing drink (ideally purchased on the premises), a sit down, and a discussion on the merits of [auras](../../mixed/magic/lore/Aura.md) as a tool for understanding the Way of Virtue. They will also be bringing some items of interest to religious scholars, which may be available to study - albeit for an honest price given they are Freeborn through-and-through.
+
+### Ketsov Business
+
+- **A representative of the Ketsov has remained in Anvil for the past season.**
+- **They intend to address citizens interested in becoming the Burgher of Ketsov on what the position entails.**
+- **They will arrive in the Varushkan camp at 14:30 on Saturday**
+
+Those leaving Anvil in the past season, or arriving early in the coming one might encounter *Oligu Predborvana Ketsov* who has remained in [Casinea](../nations/highguard/Casinea.md) over the last two months. Not given to conversation, and a frequent customer of local apothecaries (she explains that the southern air does not agree with her), she only explains her presence when directly asked. This representative of the [Ketsov](../nations/varushka/Ossium.md#ketsov) family of [Ossium](../nations/varushka/Ossium.md) has stayed in Anvil to brief the next of her fellow [Varushkans](../nations/varushka/Varushka.md) intending to become [Burgher of Ketsov](../../mixed/titles/Burgher_of_Ketsov.md) next season on the current difficulties her family has been experiencing. She also intends to help any candidates understand the Ketsov's hope for the title going forward. She will make herself known in the Varushkan camp an hour before the [Tally of the Votes](../../mixed/economy/Tally_of_the_Votes.md) is due to take place - around half-past two in the afternoon on Saturday - and hopes to speak with those planning to put themselves forward as the one with the [responsibility](../../mixed/titles/Burgher_of_Ketsov.md#responsibilities) for promoting the [Prosperity](../religion/Prosperity.md) of her family.
+
+### The Trapped and the Trappers
+
+- **Two trappers are bringing an unknown creature to Anvil from the far north**
+- **They intend to seek out the experts at the Anvil Hospital**
+- **Unless something goes wrong they expect to arrive around 15.00 on Saturday**
+
+A pair of trappers from the north of the Empire have been spotted dragging a cart on the back of which is an oversized cage. The contents of the cage are not clear, but the noises and smells, and the reaction of the ox pulling the card, suggest it is some kind of dangerous beast. The pair are apparently skilled hunters and trappers, and all they will say is that they are bringing a dangerously and unusually aggressive creature to the summit. Their reasons for doing so are by no means clear, but they have indicated that on reaching Anvil they will be heading directly to the Anvil Hospital to speak to the experts there. Unless something goes horribly wrong - like a rampaging beast escaping an over-sized cage - they hope to be at the hospital around three in the afternoon on Saturday.
+
+### A Friar of Upwold
+
+- **Friar Aube Warren and a member of their community is planning to visit Anvil during the Equinox**
+- **They hope to meet members of the National Assembly, and especially Kennet the Mummer**
+- **They are expected at Anvil around 16:00 on Saturday and will be making for the Marcher camp**
+
+The [friars](../nations/the-marches/The_Marches_religious_beliefs.md#monks-and-friars) of [the Marches](../nations/the-marches/The_Marches.md) live amongst the households and the market towns, tending to their spiritual needs and exerting gentle but far-reaching influence. Friar *Aube Warren* is generally considered an unassuming priest by those who know them, who gives useful but sometimes painful advice, and is considered one of the great listeners of [Upwold](../nations/the-marches/Upwold.md). They have sent ahead to let the Marcher Assembly know that they are planning to visit Anvil along with one of the members of their community to discuss matters relating to loyalty and the Silver Chase. In particular, they are hoping to speak with **Kennett the Mummer** - although what exactly is meant by "loyalty and the Silver Chase" is by no means clear. The two travellers - presumably both Marchers - are expected around four in the afternoon on Saturday and will be making their way to the Marcher camp.
+
+### Pretty In Pink
+
+- **A number of pink & purple clad orcs from the independent city state of Beoraidh have been wandering the southern Empire between Mareave and Anvil**
+- **They say they are members of the *Diamant Drakes*, a gladiator and gambling venture who are looking for connections in the Empire**
+- **Some members of the group will be visiting Anvil late Saturday evening, around 21:30**
+- **They intend to visit the League, then move on to Dawn, then spend some time visiting the sights of Anvil**
+
+The sight of purple-clad orcs within the Empire's borders has become much less common since the end of the [Grendel Peace Treaty](../senate-motions/Ratify_treaty_with_the_Grendel_Autumn_383YE.md). It's thus something of a surprise to the citizens of [Spiral](../nations/the-league/Spiral.md), [Redoubt](../nations/urizen/Redoubt.md), and [Bastion](../nations/highguard/Bastion.md) to see an entourage of [orcs](../../mixed/world/Orc.md) in summery purple garb wandering from place to place. When stopped by [vigilant](../religion/Vigilance.md) citizens, they calmly point out their new *pink* accessories which they believe make it clear indicate that they are *not* in fact [Grendel](../barbarians/Grendel.md). Well not anymore; they are now residents of the independent city of [Beoraidh](../nations/imperial-orcs/Mareave.md#beoraidh) in [Mareave](../nations/imperial-orcs/Mareave.md), and are looking to establish closer ties with their neighbours to the north.
+
+For all their flamboyant garb, their mission is clearly one of business, not pleasure. The orcs say they are members of a consortium called the "Diamant Drakes", who focus on making money through entertainment. In their terms, that means gambling, gaming, and gladiators, with a healthy dose of luxury sprinkled through. They intimate they have already met some of the "Anvil crowd", and are on their way to the Spring Equinox summit with hopes of conducting some business, and making some connections. They mention to anyone who they encounter along the road that they hope to be "*in the League around half-past nine and Dawn around ten on Saturday evening. After that we will see where the night takes us!*" They are looking forward to making the acquaintance of anyone who shares their interests, and to seeing the sights of Anvil after their visits to the League and Dawn are completed.
+
+## Sunday Arrivals
+
+### The Stars, Their Destination
+
+- **Several [Stargazers](../nations/urizen/Stargazer.md) are heading to Anvil to debate on the topic of the constellations and other celestial objects.**
+- **They are pursuant of the [Astral Arcanist](../../mixed/magic/lore/Astral_Arcanist.md) and hope to meet with practitioners of [Astronomancy](../../mixed/magic/lore/Astronomancy.md) from many nations.**
+- **The eclectic group will arrive in Urizen at 11:30 on Sunday.**
+
+A group of [Urizeni](../nations/urizen/Urizen.md)  [Stargazers](../nations/urizen/Stargazer.md) may be encountered as they follow the westward roads down from their [arcane spires](../nations/urizen/Spire.md#arcane-spires) and put their faces towards Anvil. The somewhat dishevelled group seems unusually gregarious for Urizeni - or at the very least, they seem eager to talk the ears off anyone unfortunate to fall in with them on their journey. Between effusive debates about the nature of the heavens, the group reveal that they are heading to Anvil to discuss a series of revelations they each have divined through their shared research.
+
+The group is not making amazing speed, pausing often to visit intriguing distractions along the road, but they are still keen to catch the end of the festivities. As such they anticipate arriving on Sunday morning at around half past eleven. When they get there, they're hoping to chat with those who look to develop "mastery through the stars" - and intend to make **Serenus Starsong**, the [Astral Arcanist](../../mixed/magic/lore/Astral_Arcanist.md), their first port of call upon arrival at the Urizen encampment.
+
+### Savra Struggles In
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Let us welcome our neighbours, the Great Forest Orcs who have settled in Hercynia and those beyond. Spread the word that our hearths are open to them. Let us share our stories of heroism and hear their own. At the Autumn Equinox, Elik and Savra of the Great Forest Orcs met with the Ravenseer and a small number of Kallavesi mystics, in a meeting facilitated by Navarr. I had the privilege to sit in attendance. We spoke of our swamps, of Wintermark's heroism, and of our weirwood groves. We all left with more questions than answers and it was clear we could learn more from each other if we have the courage to ask. In this storm of conflict and treachery in the wider Empire, let us seize this opportunity to forge a new bond - To build up our fellows so that we may both benefit from each other's culture and knowledge.
+> >
+> > Eevi of the Gadrai, Wintermark Assembly, Winter Solstice 386YE, Vote: 266-0
+
+- **A small number of Great Forest Orcs will be visiting Wintermark to share stories**
+- **They expect to arrive at around 13:30 on Sunday**
+
+During the Autumn Equinox *Savra* and several other Great Forest Orcs visited the Navarr in Anvil and met with representatives of Wintermark. That season, Savra and her friends made a promise that the Great Forest Orcs would offer a cultural sharing with the 'Mark, if a statement of principle was raised showing that the nation truly wished for this friendship. Savra is tired following the retreat from [Therunin](../nations/navarr/Therunin.md), and her people are struggling, but they also insist on keeping their oaths, and so they will come to Anvil. They will do their best to share something of the stories and songs they have told over time. They hope that the people of the 'Mark will understand that this may not be the vibrant occasion it might have been were events in the world not what they are.
+
+They also have some things they hope to speak of beyond the sharing:
+
+- How, in time, with their strength regained, they might be able to help with the defences of Kallavesa, and what Wintermark might offer in return
+- The legend of the tree of swords
+- What reason did the Wintermark Assembly have to decide against rallying against the vallorn
+
+### Corsairs Seek Solidarity
+
+- **Najih and Timoa i Malazine i Guerra are corsair siblings coming to speak to corsairs from Feroz on Sunday**
+- **They'll head to the Freeborn camp around 13:30 on Sunday**
+
+The Malazine siblings are proud corsairs of Feroz who remained behind when the Freeborn Assembly called on the population to evacuate. The siblings have sent a letter to the civil service that they are hoping to meet with other corsairs of Feroz to discuss the [Wharfage in Oran](Send_for_me.md#wharfage-of-oran), and that they are as incredulous as everyone else at the intervention of the Grendel, and want to know what it means. Their real interest is in talking with other corsairs about the heart of their traditions and beliefs. They mention a need to make sure that the Wharfage, when it is built, represents the true spirit of Freeborn corsairs.
+
+They haven't picked a particular hostelry; instead, they hope to find corsairs from Feroz already gathered somewhere - trusting that their counterparts are interested in what they have to say and will organise a meeting place.
+
+## Enigmatic Arrivals
+
+### Dreams from the Deep Woods
+
+- **Several owners of herb gardens in the Brass Coast, the League, and Varushka have reported strange dreams of being hunted**
+- **Players whose characters are in one of these three nations and have a herb garden can opt to receive one of these dreams - and an accompanying curse**
+- **There is an enigmatic messenger coming to Anvil to talk about the dreams but their time and place of arrival is not common knowledge**
+
+In [Varushka](../nations/varushka/Varushka.md), [the League](../nations/the-league/The_League.md), and [the Brass Coast](../nations/the-brass-coast/The_Brass_Coast.md) a number of people who oversee [herb gardens](../../out-of-character/rules/Herb_garden.md) speak of disturbing dreams that have wracked their sleep since shortly after the end of the Winter Solstice. The dreams are different in their specifics, but have several features in common. Those prepared to talk of their odd dreams faintly remember dark forests, and a feeling of profound separation from a place of safety. Even awake, they seem more skittish than usual, and there are a few wise folk and arcane scholars who wonder if they have somehow become [cursed](../../out-of-character/rules/Curse.md) with something akin to [Dreamscape of the Endless Hunt](../../mixed/magic/rituals/Dreamscape_of_the_Endless_Hunt.md). As the Spring Equinox draws closer, the dreams escalate and become more vivid, more powerful, and more unsettling.
+
+At the same time, the civil servant *Jorgen* who often accepts messages from supernaturally inclined beings on behalf of the Empire reports that they’ve found barely legible messages written on scraps of paper turning up on their desk, and in one memorable occasion stuffed into their shoes while they slept, telling them that a messenger is intending to come to Anvil to talk of the "dreams of the wild forest" which presumably are to do with this odd occurrence. it's not clear who this messenger is, and the messages are in a number of different hands and written with different implements. Jorgen tentatively suggests the messenger is *probably* a [herald](../eternals/Inhabitants_of_the_realms.md#heralds) but he can't be sure, and if they are has no idea who they might represent.
+
+#### Participation
+
+Any Freeborn, Varushkan, or League character whose [personal resource](../../out-of-character/rules/Resource.md#personal-resource) is a [herb garden](../../out-of-character/rules/Herb_garden.md) may be one of those who have experienced the dream. If you choose to be one of those suffering, you will need to email [plot@profounddecisions.co.uk](mailto:plot@profounddecisions.co.uk) and request a copy of the dream and the [curse](../../out-of-character/rules/Curse.md) that goes with it, along with your CID. The email will need to reach us by midnight on Wednesday 4th June, so the window to participate is short.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [387YE Spring](../../indexes/by-category/387YE_Spring.md), [Recent History](../../indexes/by-category/Recent_History.md)

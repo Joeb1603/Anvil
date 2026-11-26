@@ -1,0 +1,99 @@
+==Overview==
+These Imperial titles were established by [[385YE_Autumn_Equinox_Senate_sessions#Create_titles_of_National_Strategos|a vote]] of the [[Senate]] during the Autumn Equinox 385YE. There are ten strategos in total - one for each of the Imperial nations.
+
+==Responsibilities==
+Each strategos is responsible for protecting the legal rights of the citizens within their nation who have been recognised by the Civil Service as being responsible for conjunctions through the Sentinel Gate; to work within their nations, and nominated citizens, and each other to maximise the odds of the Empire's success beyond the Sentinel Gate; to provide tactical, logistical, and personnel support to nominated citizens; to coordinate and provide material support in the form of [[herb|herbs]], [[Game_items#Mana_Crystals|mana crystals]], [[potion|potions]], equipment, or other specialist items; and to serve as a point of contact for the fighters of their nation intending to take the battlefield. Whilst the strategos has a responsibility to coordinate and support those venturing through the Sentinel Gate there is no expectation that they themselves would need to.
+
+==Appointment==
+The ten strategos are appointed according to a schedule over the course of a year. They are selected by unanimous decision of each nation's [[general|generals]]. If a unanimous decision cannot be reached, the title may be appointed by the [[Military Council]] instead.
+
+The title can be held by any citizen of the respective nation. The strategos serves until the next scheduled election. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the appropriate [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+===Schedule===
+The schedule for annual appointments is:
+* Winter - [[Dawn]], [[Highguard]], and [[Navarr]]
+* Spring - [[The Brass Coast]], [[Imperial Orcs]], and [[Urizen]]
+* Summer - [[The League]] and [[The Marches]]
+* Autumn - [[Varushka]] and [[Wintermark]]
+
+===Incumbent===
+The current Strategos are summarised below - the full election history for each title is listed in the [[#Election History|election history]] section.
+* [[The Brass Coast]] - {{#lst:Archive:All_Election_Results|Strategos_of_the_Brass_Coast_occupant}}
+* [[Dawn]] - {{#lst:Archive:All_Election_Results|Strategos_of_Dawn_occupant}}
+* [[Highguard]] - {{#lst:Archive:All_Election_Results|Strategos_of_Highguard_occupant}}
+* [[Imperial Orcs]] - {{#lst:Archive:All_Election_Results|Strategos_of_the_Imperial_Orcs_occupant}}
+* [[The League]] - {{#lst:Archive:All_Election_Results|Strategos_of_the_League_occupant}}
+* [[The Marches]] - {{#lst:Archive:All_Election_Results|Strategos_of_the_Marches_occupant}}
+* [[Strategos of Navarr|Navarr]] - {{#lst:Archive:All_Election_Results|Strategos_of_Navarr_occupant}}
+* [[Urizen]] - {{#lst:Archive:All_Election_Results|Strategos_of_Urizen_occupant}}
+* [[Varushka]] - {{#lst:Archive:All_Election_Results|Strategos_of_Varushka_occupant}}
+* [[Strategos of Wintermark|Wintermark]] - {{#lst:Archive:All_Election_Results|Strategos_of_Wintermark_occupant}}
+
+<gallery heights=300 mode="packed">
+Erykson of House De Vere.jpg|'''Erykson of House De Vere
+HighbornStrategos.jpg|'''Arlandria of the Sentinels Tower
+<!--StrategosImpOrcs.jpg|'''Bloodcrow Ruk-->
+<!--Gabrieli di Tassato.jpg|'''Gabrieli di Tassato-->
+Mouse Ddawnswraig.jpg|'''Mouse Ddawnswraig
+Verdehil.jpg|'''Verdehil'''
+<!--StrategosVarushka.jpg|'''Doubravka Nadjaovna Vanek-Vessely-->
+</gallery>
+
+===Election History===
+<row-fluid>
+<span6>
+'''The Brass Coast'''
+{{#lst:Archive:All_Election_Results|Strategos_of_the_Brass_Coast}}
+</span6>
+<span6>
+'''Dawn'''
+{{#lst:Archive:All_Election_Results|Strategos_of_Dawn}}
+</span6>
+</row-fluid>
+
+<row-fluid>
+<span6>
+'''Highguard'''
+{{#lst:Archive:All_Election_Results|Strategos_of_Highguard}}
+</span6>
+<span6>
+'''Imperial Orcs'''
+{{#lst:Archive:All_Election_Results|Strategos_of_the_Imperial_Orcs}}
+</span6>
+</row-fluid>
+
+<row-fluid>
+<span6>
+'''The League'''
+{{#lst:Archive:All_Election_Results|Strategos_of_the_League}}
+</span6>
+<span6>
+'''The Marches'''
+{{#lst:Archive:All_Election_Results|Strategos_of_the_Marches}}
+</span6>
+</row-fluid>
+
+<row-fluid>
+<span6>
+'''Navarr'''
+{{#lst:Archive:All_Election_Results|Strategos_of_Navarr}}
+</span6>
+<span6>
+'''Urizen'''
+{{#lst:Archive:All_Election_Results|Strategos_of_Urizen}}
+</span6>
+</row-fluid>
+
+<row-fluid>
+<span6>
+'''Varushka'''
+{{#lst:Archive:All_Election_Results|Strategos_of_Varushka}}
+</span6>
+<span6>
+'''Wintermark'''
+{{#lst:Archive:All_Election_Results|Strategos_of_Wintermark}}
+</span6>
+</row-fluid>
+
+[[Category: Title]]
+[[Category: Military Council]]

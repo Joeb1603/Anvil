@@ -1,0 +1,29 @@
+__NOTOC__
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Vigilance.png|caption=This title is appointed by the [[Assembly#The_Virtue_Assemblies|Assembly of Vigilance]]|width=250px}}</div>
+The Watcher of the Semmerlak is an [[Imperial title]] [[386YE_Autumn_Equinox_Senate_sessions#Create_title_of_Watcher_of_the_Semmerlak|created]] by the [[Senate]] in Autumn 386YE. The Watcher of the Semmerlak is responsible for ensuring that the nations surrounding [[the Semmerlak]] ensure they act with Vigilance and to act to counter threats from the Semmerlak and they receive bequests from volhovs of Varushka, guisers of Dawn, and mountebanks of Holberg to support their work. The title was created as a result of an opportunity presented in the '''[[Less_welcome_tenants#Wards_and_Bargains|Less welcome tenants]]''' wind of fortune.
+
+==Responsibilities==
+The Watcher of the Semmerlak is responsible for ensuring that the nations surrounding the Semmerlak ensure they act with Vigilance and counter threats from the Semmerlak. If a threat from the Semmerlak were to threaten Imperial citizens it would likely be the responsibility of the Watcher of the Semmerlak to deal with the threat.
+
+==Powers==
+<div style="float:right; width: 350px; clear: right;"><box><big>'''Suitability'''</big><br>The Watcher of the Semmerlak is intended to be held by a magician who is either a volhov, guiser, or mountebank; the ''Wavewatchers'' sodality is formed of these and they are reluctant to trade with someone who is not of the same tradition. If the title is held by a character who is not a magician and one of these archetypes, or they change their archetype or lose the magician skill whilst they have the title, then the player must email admin@profounddecisions.co.uk to let us know.</box></div>
+===Gifts of Crystal===
+The Wavewatchers sodality has committed to providing the Watcher of the Semmerlak with seven mana crystals a season from donations made by Varushkans merchants, Dawnish yeofolk, and Holberg sailors for as long as the Watcher maintains their watch of the Semmerlak.
+
+===Gifts of Potions===
+The [[Holberg]] mountebanks of the Wavewatchers have pledged to provide three [[potion|potions]] to the Watcher of the Semmerlak each season; a [[Mageblood]], and a dose each of [[The Barren Watchtower|Barren Watchtower]] and [[Effulgent Primessence]] (or their equivalents for another realm). The title holder can email [mailto:plot@profounddecisions.co.uk plot@profounddecisions.co.uk] to change the realm before downtime closes.
+
+===Gifts of Ring and Robe===
+The Varushkan volhovs have pledged to provide a ''Ring of Warding'' (a magical focus that significantly increases the power of a ritualist to perform warding magic) to the Watcher of the Semmerlak at the Winter Solstice each year.
+
+The guisers of Dawn have pledged to provide an [[Opaline Coat]] to help the Watcher perform personal magic in pursuit of maintaining their watch over the Semmerlak. The Opaline Coat is also delivered in time for the Winter Solstice each year.
+
+==Appointment==
+The Watcher of the Semmerlak is a [[New_Imperial_titles#The_Imperial_Synod|virtue position]] which is [[Appointment|appointed]] by [[judgement]] of the [[Assembly#The_Virtue_Assemblies|Vigilance Assembly]] each Autumn Equinox.
+
+The title can be held by any Imperial citizen. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Assembly of Vigilance, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=TITLE.jpg|caption='''CHARACTER''', Watcher of the Semmerlak|align=left|width=300}}-->
+{{RecentElections|Watcher_of_the_Semmerlak}} 
+{{Responsibilities Expectation}}
+[[Category:Title]][[Category:Vigilance]]

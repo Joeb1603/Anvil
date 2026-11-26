@@ -1,0 +1,20 @@
+<ic>The Brilliant Shore is a national bourse resource in Skarsind.
+
+Should the position stay with the current seat holder until next up for election, or should it pass to the Imperial Orcs to elect now?
+
+<i>Administrative motion </i></ic> 
+
+===Overview===
+* The Senate's decision was that the seat should remain with the current holder until next up for election
+
+===Date===
+* Winter 379YE
+
+===Campaign Outcome===
+* The Brilliant Shore bourse seat will be available for election by the Imperial Orcs at the Summer Solstice 380YE
+
+===Constitution===
+* 
+
+[[Category: Senate Motion]]
+[[Category:379YE Winter]]

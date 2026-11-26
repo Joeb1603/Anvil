@@ -1,0 +1,24 @@
+==Overview==
+<div style="float:right; width: 250px; clear: right;">{{CaptionedImage|file=OssegrahnArt.jpg|align=right|width=350|caption=Ossegrahn once supported the Greenwatcher in their efforts, but he has since turned his back on the Empire.}}</div>
+The Greenwatcher is an [[Imperial title]] that serves as custodian of the Greenwatch in [[Casinea]]. The motion to construct the Greenwatch was passed during the [[385YE_Autumn_Equinox_Senate_sessions#Construct_the_Greenwatch|Autumn Equinox 385YE]]. 
+
+The Greenwatch was once supported by the followers of [[Ossegrahn]], and indeed, the original opportunity for the construction was presented by heralds of the ''Cupbearer'' during the Spring Equinox 385YE. More information on the opportunity can be found in the '''[[Rain_king#The_Greenwatch|Rain king]]''' wind of fortune.
+
+Since ''Lord Rain'' turned away from the Empire shortly before the Autumn Equinox 387YE, the Greenwatcher has been without a patron. The title still retains its responsibilities as before: to strive to prevent the vallorn from harming people of any nation, whether Imperial or not, and defend the Greenwatch.
+__NOTOC__
+==Responsibilities==
+The Greenwatcher has a number of responsibilities; they are charged to strive to prevent the vallorn from harming people of any nation, whether Imperial or not. They are also expected to actively work to warn others of the danger presented by the vallorn and ensure they take its threat seriously. Finally, if the Greenwatch were to come under threat, it would be the responsibility of the Greenwatcher to deal with those threats. 
+
+The title technically also has the responsibility to use the tools provided by Ossegrahn to help destroy the [[vallorn]], but that responsibility is no longer relevant, given that they no longer receive tools from the eternal.
+
+==Powers==
+As of the Spring Equinox 388YE, the Greenwatcher has no legal powers.
+
+==Appointment== 
+The Greenwatcher is appointed during the Spring Equinox each year by unanimous decision of the [[senator|senators]] of [[Highguard]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may been appointed]] by the [[Senate]] instead. 
+
+The title can only be held by a citizen of Highguard. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Highborn [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{UnconstitutionalTitle|sodality=Vallornguard}}
+{{RecentElections|Greenwatcher}}
+[[Category:Title]]
+[[Category:Highguard]]

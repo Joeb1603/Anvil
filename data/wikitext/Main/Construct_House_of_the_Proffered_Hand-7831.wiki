@@ -1,0 +1,43 @@
+[[Category:Senate Motion]][[Category:382YE Summer]]
+__NOTOC__
+<ic>Motion: to commission the House of the Preferred Hand (liao sinecure). Cost: 10 white granite, 20 crowns (self funded.) Territory: Winterbourne, Astolat. Appointed by Dawn National Assembly for life.<br>''Proposed by Semmerholm, seconded by the Conscience.''</ic>
+==Overview==
+* Creates a [[sinecure]] in [[Astolat]]
+* Passed
+==Date==
+* Summer 382YE
+==Cost==
+* This commission uses [[Sinecure#Costs|standard costs]].
+* 10 wains of white granite
+* 20 crowns in labour
+* Three months to build
+==Progress==
+* 10 wains of white granite and 20 crowns provided by Lady Eleanor Novarion after the Spring Equinox 383YE
+
+==Campaign Outcome==
+* The sinecure creates an [[Imperial title]] with tenure, appointed by the [[Dawn]] [[Assembly#The National Assemblies|National Assembly]].
+* The title [[Lady of the Proffered Hand]] was created.
+
+==Consitution==
+Immediately after the summit had ended, the Imperial civil service were informed that this motion was in error on the specific region where the House of the Proferred Hand was to be built. As the work had not yet begun on the commission, the civil service have indicated that they would raise an administrative motion to confirm that the Imperial Senate will approve the construction at Caer Faucon (a small town in southern Astolat near the Highguard border).
+
+The administrative motion was raised during the [[382YE_Autumn_Equinox_Senate_sessions#Administrative|Autumn Equinox]], and the Senate confirmed the construction of the House of the Proferred Hand at Caer Faucon.
+
+
+<!--
+Does the imperial title that goes with the sinecure get generated automatically to be voted on at E3, or do I need to do that with the civil service on the field? (I would like it to be called ‘Guardian of The House of the Proffered Hand). I really, really want to run this one myself as it is so important for my character and her grand vision of building one in every nation of the Empire (am making good progress on 3 in other nations atm too!).
+
+I hope this description is ok:
+
+This is the formal description of the sinecure’s mission:
+
+An institution established to help liberated slaves. We aim to provide shelter, sanctuary and physical and emotional healing to anyone who has been recently liberated from slavery. We will provide ongoing support and comfort to former slaves by giving them a safe place to stay while they recover, come to terms with their experiences and build themselves a new future. This will include guidance and teaching in the Way for any who have been deprived, or never had the opportunity to learn about it.
+
+For the Empire as a whole, we will provide outreach and education, giving advice on how to help and support family and friends who have been rescued from slavery.
+
+A description for flavour:
+--
+Situated in a small village on the edge of Astolat, just a stone’s throw from the border of Weirwater, The House of the Proffered Hand is a sinecure that has made use of an abandoned manor house and several smallholdings which had fallen into ruin since heavy losses in battle struck the village more harshly than many others. There are also many tents set up in the grounds, ready for an anticipated influx of liberated people.
+
+There are gardens, both ornamental and those growing produce to feed the residents, tended by both staff and those in recovery, along with a hospital building to treat those who arrive badly hurt and also those with ongoing chronic conditions caused by captivity and torture. It is a peaceful place in a sheltered valley, employing many of the village residents and helping to rejuvenate the local economy.
+-->

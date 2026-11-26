@@ -1,0 +1,79 @@
+---
+title: Imperial law
+source: https://www.profounddecisions.co.uk/empire-wiki/Imperial_law
+class: mixed
+topic: government/senate
+categories:
+- The Law
+- The Empire
+last_edited: '2026-01-15T22:22:10Z'
+revision: 132425
+aliases:
+- Imperial Law
+- Law
+- The Law
+---
+
+# Imperial law
+
+*[Image: A magistrate of the Empire at work](https://www.profounddecisions.co.uk/empire-wiki/File:Empire_E4_2015_-_5191_-_Copy.jpg)*
+
+## Overview
+
+Imperial Law is the body of law which has been created by the [Senate](Senate.md) and which extends the principles laid down in the [Imperial Constitution](Imperial_Constitution.md). The law is prosecuted by magistrates, members of the [Civil Service](Civil_service.md) who are trained in Imperial jurisprudence. Magistrates act as judges during trials, determining guilt and sentencing and are able to deputise individuals to help them enforce the laws. The Throne and members of the [Synod](../synod/Synod.md) may appeal for clemency on behalf of the accused to obtain a reduced sentence.
+
+## Magistrates and trials
+
+The implementation of the Law is overseen by the magistrates. They instigate an investigation into any potential crimes they are aware of; any character who believes a crime has been committed may bring the matter to the attention of a magistrate. The magistrates have far-reaching legal powers to allow them to go anywhere in the Empire and demand an audience with any citizen, similar to those possessed by the Synod. The magistrates may also deputise citizens to act on their behalf, either to gather evidence or to arrest a suspect.
+
+Trials are [inquisitorial](http://en.wikipedia.org/wiki/Inquisitorial_system) rather than [adversarial](http://en.wikipedia.org/wiki/Adversarial_system). There are no juries and no barristers. Trials are conducted by the magistrate who weighs the evidence and determines guilt and the accused is expected to speak in their own defence. The magistrate has the authority to silence anyone from speaking in their court and will use this power to ensure that trials remain short and dramatic.
+
+Modern legal frameworks do not apply. There is no right to silence; if the accused refuses to answer a question, the magistrate may make an adverse inference about their guilt. Hearsay and circumstantial evidence are admissible. If a person has been murdered late at night, reports that the accused is known to dislike the victim may be weighted as evidence.
+
+If the magistrate finds the accused guilty then they will proceed to sentencing. If the accused has pleaded guilty, a member of the [Synod](../synod/Synod.md) may submit a plea for clemency on their behalf. The plea must be based on Virtuous grounds; that is they must establish that the accused was acting virtuously, albeit illegally, when they committed their actions.
+
+Magistrates have considerable power but are known to be bound by powerful magical oaths to uphold the spirit of the Law. As such they are considered to be above reproach. Their decisions may be incorrect - they are not infallible - but they are known to be absolutely impartial and honest.
+
+## Purpose
+
+The point of the Law is to attempt to create a game in which there is a strong effective legal sanction against theft and murder. The goal is to create a convincing, compelling and original setting and also to encourage the majority of player-vs-player activity in the game to remain political rather than murderous. By making murder difficult to get away with, we hope to ensure that it is the least attractive option open to a player in dealing with their political enemies, rather than the most attractive option. The goal of Empire is to focus on a high degree of political interaction between players but have the balance of combat take place between players and monsters.
+
+All magistrates are NPCs; they work solely towards the goal of making the law be trustworthy and effective. Any player character in this role would be minded to have other in-character considerations, other than to promote the game. The magistrates are also briefed to ensure that trials remain short and sweet, rather than running on interminably which is common in situations where they are not rigorously controlled.
+
+Because the magistrates' primary role is to make the law effective, they will *never* be used to run plot around corruption or other themes. They can be swayed by clever or charismatic testimony but they cannot be bribed, blackmailed or browbeaten.
+
+## Not About Conduct
+
+Imperial law is purely in-character - it is part of the setting and breaking the law naturally leads to in-character consequences, such as pursuit by the militia and a potential trial. The legal system is designed to make some activities - like murder - dangerous - to try to build the sense of a functioning society, but that doesn't mean that those activities fall outside the out-of-character purview of the game.
+
+However Empire also has a set of out-of-character rules for [conduct](../../../out-of-character/rules/Conduct.md) that describe how players are expected to behave at events. These rules are categorically not part of Imperial law, because they are out-of-character - for example in-character bigotry (such as hating Highborn or despising the Dawnish) is perfectly acceptable in Empire, is encouraged in the game and is not illegal. Out-of-character discrimination against members of real-world minority groups is not permitted - players who witness a breach of the out-of-character game rules should refer the matter to Profound Decisions, the incident will be dealt with out-of-character means, not via the militia and the magistrates.
+
+## Further Reading
+
+Core Brief
+
+- [Imperial law overview](Imperial_Law_Overview.md)
+- Imperial law
+- [List of Criminal Offences](List_of_Criminal_Offences.md)
+  - [Religious crime](../synod/Religious_crime.md)
+- [Civil Claims](Civil_Claims.md)
+  - [Will](Will.md)
+- [Criminal trial](Criminal_trial.md)
+
+Additional Information
+
+- [Court Reports](Court_Reports.md)
+- [Intent](Intent.md)
+- [Crime and Criminality](../../../out-of-character/game-design/Crime_and_criminality.md)
+- [Officers of the Law](Officers_of_the_Law.md)
+  - [Magistrates](Officers_of_the_Law.md#magistrates)
+- [Conclave](../conclave/Conclave.md)
+  - [Alignment](../../../in-character/eternals/Alignment.md)
+  - [Sorcery](../conclave/Sorcery.md)
+  - [Interdiction](../conclave/Interdiction.md)
+- [Imperial Constitution](Imperial_Constitution.md)
+- [Clemency guidance](Clemency_guidance.md)
+
+---
+
+Categories: [The Law](../../../indexes/by-category/The_Law.md), [The Empire](../../../indexes/by-category/The_Empire.md)

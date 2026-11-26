@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Proposed: Semmerholm, Seconded: Temeschwar">To commission the construction of a Prosperous Counting House in Semmerholm.</quote>
+==Overview==
+* Constructs a [[folly]] in [[Semmerholm]] that increases the Virtue Fund as per the '''[[Forwards and Rewards]]''' wind of fortune
+* Passed
+==Date==
+* Winter 385YE
+==Cost==
+* Costs as per opportunity
+* 5 wains of weirwood
+* 5 wains of white granite
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Semmerholm_Counting_House}}
+==Outcome==
+* Now that work is complete the [[Rewarding|Virtue Fund]] receives 11 crowns each summit in donations from citizens of Semmerholm

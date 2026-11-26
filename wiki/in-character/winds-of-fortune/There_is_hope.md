@@ -1,0 +1,96 @@
+---
+title: There is hope
+source: https://www.profounddecisions.co.uk/empire-wiki/There_is_hope
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 388YE Autumn
+- Winds of Magic
+event: 388YE Autumn
+last_edited: '2026-09-11T19:24:53Z'
+revision: 145537
+---
+
+# There is hope
+
+*[Image: It might not feel like it sometimes, but there is always hope.](https://www.profounddecisions.co.uk/empire-wiki/File:There_is_hope.png)*
+
+## Magical Chaos
+
+- **The astronomantic constellations have returned to their normal places in the sky**
+- **Territory-scale magic is no more likely to have additional unlooked for effects than normal**
+
+The magical chaos that [began](What_regulates_the_wheel.md) shortly before the Winter Solstice, and [continued through](Things_go_awry.md) the Spring Equinox, has finally abated. The last of its power seems to have been [expended at the Summer Solstice](A_wizard_did_it.md#magical-chaos) and it is notable that while odd things have happened - the [disappearance of the Drakes](When_something_is_lost.md) for example - those are explainable by perfectly normal magical strangeness that has nothing to do with the stars.
+
+There is, however, one final little inexplicable sparkle. In the days and nights following the Summer Solstice, an odd awareness ripples outward from [Casinea](../nations/highguard/Casinea.md), from [Anvil](../world/Anvil.md). From the [Imperial regio](../../mixed/magic/rituals/Regio.md#imperial-regio) in fact. It concerns something absolutely unprecedented. There is a new star in the sky.
+
+## The Beacon
+
+That is of course a massive oversimplification. There isn't *literally* a new star in the sky. Rather, a star that has always been there has taken on a whole new significance. It is an unassuming little star, one that has entirely avoided attention in the past. Now, though, eyes are drawn to it, some revelation makes it take on a whole new significance. It is not just another light in the sky. It is *the Beacon*. The nineteenth [constellation](../../mixed/magic/lore/Astronomancy.md), the last of the tools the Creator used to fashion Creation (if one ascribes to that particular obscure mystical philosophy).
+
+Its law is also known - each of the constellations have laws. Nobody needs to be told it either - like the fact the star itself has achieved a new prominence what it represents is also quickly becoming common knowledge among star-watchers. Knowledge of that law brings with it a certain amount of consternation, because it is expressed as *there is hope*. [Hope](../../mixed/magic/lore/Malign_spiritual_presences.md#hope) is of course a [malign spiritual presence](../../mixed/magic/lore/Malign_spiritual_presences.md) and the idea that there is now visible in the sky a star that seems to say... well it's not clear what it says. But the laws represented by the constellations are taken to somehow be fundamental to Creation and what does that say about Creation? Is it possible that the law has been misinterpreted in some way? Arguments continue.
+
+The Beacon is a steady point of light, currently visible from Anvil low in the western sky in fact. It appears clear and white, but anyone who stares it it and contemplates it for a long period of time finds that it takes on a distinct bluish tinge. Like [the Wanderer](../../mixed/magic/lore/The_Wanderer.md), it seems to move and like the Wanderer its movements are not entirely predictable. This raises immediate questions - the Wanderer is the constellation most likely to lead to a conjunction of the stars that has magical effect - or to rouse the stars to reflect events in the world depending on who one asks. Is it possible that this new star can do the same?
+
+Knowledge of its presence is not restricted to the Empire either. Imperial visitors to other lands - whether nearby countries like [Axos](../foreign-nations/Axos.md) or [Faraden](../foreign-nations/Faraden.md), or further destinations like [Commonwealth](../foreign-nations/Commonwealth.md) or the [Asavean Archipelago](../foreign-nations/Asavean_Archipelago.md) - find their magicians buzzing with news of this new astronomantic presence. As Autumn gets closer, these magicians will certainly be consulting their sources of esoteric knowledge. [Leviathan](../eternals/Leviathan.md) talks to anyone prepared to present even a modicum of politeness - and will soon know that this has happened because of the actions of Imperial magicians. Although, to be fair, even a lot of Imperials aren't entirely sure what has happened...
+
+### Astronomantic Consequences
+
+- **Embodied tulpas have vanished; it is no longer possible to create one using ritual magic**
+- **A star cannot be connected directly to a mortal being through intentional ritual magic**
+- **The influence of a constellation can still be used with ritual magic to shape a personal enchantment through a powerful roleplaying effect**
+
+The chaos that has been running rampant in the Empire for the last year started as a result of a long series of experiments and investigations by the Empire's [astronomancers](../../mixed/magic/lore/Astronomancy.md). Their divinations somehow set in motion a sequence of events, the precise nature of which nobody could have predicted. Three paths were identified through the chaos - destroy the Imperial regio, retreat from the stars, or forge ahead and see where the road led. It seems Imperial magicians chose the latter and the result is this new star in the sky. It is not the *only* consequence however.
+
+It takes a time for astronomancers to notice but it seems that there are no more embodied [tulpas](../../mixed/magic/lore/Astronomancy.md#tulpas) anywhere within the borders of the Empire. Masters of astronomancy know that tulpas come in two essential "flavours". Embodied tulpas are constructs of magical energies somehow given existence by the constellations. In the past they have been compared to eternals but their nature is actually not well understood. Even heralds have urges, and a sense of self, which embodied tulpa lacked. Now, though, it seems they have *all* vanished and preliminary experiments indicate that it is no longer possible to summon (or create) them with mortal magic.
+
+The other kind of tulpas were the immaterial ones that generally resulted from a magician making unwise decisions when performing [astronomancy](../../mixed/magic/lore/Astronomancy.md). These entities could influence a magician but nine times out of ten their impact was powerful but limited. On a handful of occasions over the last few years, mortals became so entangled with the concepts a constellation represented that they were to all intents and purposes "possessed" by that constellation - their personalities changed and in some cases they gained unique powers. This can still happen, but it is impossible to do it intentionally. An arcane projection cannot "channel the power of a constellation" into someone in a controlled fashion.
+
+It *is* possible to draw on the power of an astronomantic constellation to make an arcane projection to create an enchantment, but the standard form of such an enchantment is a powerful roleplaying effect that provides a source of spiritual strength related to the constellation. Any realm of magic might be used in this way, depending on the themes and resonances of the constellation used. It might also be possible to construct a location aura, similar to [Chamber of Pallas](../../mixed/magic/rituals/Chamber_of_Pallas.md), using the symbols of a constellation, again creating a roleplaying effect.
+
+What isn't possible - and indeed might never have actually been possible - is using the constellations as a source of magical power. Ritual magic uses the six realms, and at the end of the day astronomancy is a magical tradition that shapes that ritual magic, it is not a separate system of magic in and of itself.
+
+### A New Start
+
+- **Astronomancers are still coming to terms with the changes their magic has unleashed**
+- **The entire body of astronomantic lore is shifting**
+
+One other thing is clear. As the constellations settle back into their positions in the night sky, Imperial magicians have a much closer understanding of them than they did before. Some magicians have had personal experiences of the power of a given constellation, heard its impossible music, touched for a brief moment the incredible flow of ideas and concepts that the constellation embodies. They have understood that, previously, mortal magicians had only a limited understanding of what the constellations represented - not as just part of a magical theory but perhaps as profound indications of cosmic laws that mortal minds can barely touch on.
+
+Through a combination of Autumn, Day, and Night divinations there's no doubt the astronomancers of the Empire have pushed the boundaries of mortal understanding forward, and the Empire has been at the heart of it.
+
+## The End Is Nigh
+
+- **It is still not possible to enhance ritual lore using the Imperial regio**
+- **It is still possible for covens to work together as in previous seasons**
+- **Other properties of the Imperial regio are unchanged**
+- **Magicians expect that the coming Winter Solstice will finally see a settled state**
+
+Depending on how you look at it, the Imperial regio at Anvil remains "[broken](What_regulates_the_wheel.md#broken-regio)". At least for now, it still still does not improve the [realm lore](../../out-of-character/rules/Magical_skills.md#ritual-lores) of magicians working a ritual there. Covens are still able to cooperate freely - at least those of the same nation are - so it is not all bad. Interestingly, there continue to be reports of a few powerful regio *outside* Anvil that provide the ability to draw strength for performing rituals of a single realm.
+
+In other respects, the regio continues to function as normal. It still allows rituals that in other circumstances would require ten minutes to cast to instead be performed in five minutes. It is still a "strong regio", connected to all six realms of magic. Rituals that must be performed at a strong regio can still be performed using the Imperial regio, and it still remains connected to every Imperial territory. It can still be used in conjunction with the [Citadel Guard](../mandates/Citadel_Guard.md) to focus magic and channel rituals through the Urizen [army](../../out-of-character/rules/Army.md). Bargains with [eternals](../eternals/Eternal.md) that allow magicians to use [operate portal](../../out-of-character/rules/Operate_portal.md) to send or receive boons function normally although its not clear exactly *how* they are working. Rituals that specifically require the Imperial regio to work such as [Whispers through the Black Gate](../../mixed/magic/rituals/Whispers_through_the_Black_Gate.md) still operate normally.
+
+Any ritual that targets a [territory](../../out-of-character/rules/Territory.md) or the Empire as a whole performed during the Autumn Equinox could still have unexpected effects. All magic used on the territory scale can have unlooked-for side effects - circumstances constantly influence what happens and all such rituals are mentioned in the winds of fortune or the winds of war (or both). But as the stars begin to settle back into quietude, magic is growing more predictable again. Still, for one last season, magicians should be careful. The side effects will never prevent the ritual having its mechanical effects; that will always happen as described in the appropriate ritual, but beyond that, all bets are off.
+
+It is now certain that effects are settling down. Once the Autumn Equinox is over, before the Winter Solstice, Imperial magicians should be able to say with certainty what is now fixed in place. Any lingering effects that are going to end, will have ended by then.
+
+### Light in the Dark
+
+- **Magicians using the Imperial regio find a peculiar source of spiritual strength**
+
+Magicians who perform a ritual at the Imperial regio during the Autumn Equinox experience a roleplaying effect: *You sense that what you are doing is important, and that as long as you continue to believe in yourself and embrace action, you can succeed even though the way may be hard.*
+
+While contributing to a ritual, this sensation provides a source of spiritual strength that allows a magician to overcome any other roleplaying effect, if they wish to use it. The strength fades within a few minutes of the ritual being completed, and any roleplaying effect that was overcome will reassert itself, but for the duration of the performance and a short time thereafter, negative roleplaying effects are suppressed. There is however, a lingering effect.
+
+Until the next sunset or sunrise, whichever comes first, any magician who contributed to a ritual at the Imperial regio can expend a point of personal mana at any time to justify remaining calm and collected when exposed to a roleplaying effect (as if they had spent a hero point). The ability to use mana in this way has the same restrictions as casting a spell.
+
+### Working Together
+
+During the Autumn Equinox any number of covens from the same nation can work together to perform a ritual as if they were using the [Belt of Stars](../../mixed/titles/Archmage.md#belt-of-stars). Cooperative rituals count as a daily ritual use by every coven involved. While they may be performing a ritual together, they are still treated as separate covens for all other purposes (for example, a ritual that affects an entire coven will only affect one target coven). Each coven can use their own paraphernalia while performing this joint ritual. The effects of the [Volhov's Robe](../../mixed/magic/items/Volhov-s_Robe.md) seem to be unchanged; they still allow a magician who is not part of a coven to work with any other coven without difficulty.
+
+Anyone cooperating in this fashion experiences a notable sense of connection to members of the other coven, along with a strong sense of being bound together or united by a common cause. It is hard to put this sensation into words and it takes many different forms. Early experimenters spoke of feeling a familial bond to strangers they barely new, as if they were cousins or siblings they had not seen in many years. Others felt an almost physical connection, their breathing and heartbeats synching up so it felt as if they were many people with one body. Still others talk of an almost precognitive sense, as if they instinctually knew what another contributor to the ritual was going to say or do moments before they did it.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [388YE Autumn](../../indexes/by-category/388YE_Autumn.md), [Winds of Magic](../../indexes/by-category/Winds_of_Magic.md)

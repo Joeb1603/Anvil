@@ -1,0 +1,25 @@
+<ic>
+Commission research into the runeforge at Gildenheim in Skarsind<br>
+Commission research into the Claw of the Heavens ancient Urizen spire<br>
+Commission research into Emperor Barabbas' invasion plans against the Grendel<br>
+Commission research into the origins of the Hallowing ceremony<br>
+''Approved by the Minister of Historical Research.''</ic>
+
+===Overview===
+* [[Historical research]] concerning these topics has been commissioned through the civil service.
+* Actions approved by the [[Minister of Historical Research]].
+* The actions are grouped together, but each would count as a separate announcement for purposes of the [[Synod]] [[veto]].
+
+===Date===
+* Winter Solstice 378YE
+
+===Progress===
+* Unknown
+
+===Campaign Outcome===
+* Research reports will be compiled and presented to the Minister for Historical Research
+
+[[Category:Senate Motion]]
+[[Category: 378YE Winter]]
+__NOTOC__
+[[Category:Announcements]]

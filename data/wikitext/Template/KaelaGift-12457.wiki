@@ -1,0 +1,8 @@
+<big>'''Kaela's Gift'''</big><br>
+Secured through a bargain with the Winter Archmage, the gift allows any Imperial citizen in the hands of the [[Druj]] to choose to die painlessly. No corpse remains for the Druj to defile, to impale, or to use to taunt the living - the body turns to dust and ashes. This gift extends across the entire eastern Empire, into the Mallum, [[Brocéliande]], and [[Therunin]].
+
+The gift allows any Imperial citizens fighting in the [[Vallorn#Vallorn_Miasma|vallorn miasma]] to choose death and ''dissolution'' before their bodies could be infested with the vallorn's sick version of immortality.
+
+'''OOC Note:''' Using the gift requires thirty seconds of appropriate roleplaying. This ability may be used by player characters captured by the Druj during an event or who is [[Combat#Dying|dying]] in an area of vallorn miasma; if you do so you should ensure that you mark your character as dead as soon as you can so that your egregore is aware of your death. There is, however, one drawback to this, as Imperial magicians may soon discover: anyone who takes advantage of this ability cannot be contacted with [[Whispers through the Black Gate]].
+
+This ability is an exception to the normal rules on using abilities while [[Combat#Terminal|terminal]]; a terminal character ''can'' use this ability if they are captured by the Druj or fallen in vallorn miasma.

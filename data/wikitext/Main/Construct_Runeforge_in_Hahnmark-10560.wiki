@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:385YE Spring]]
+__NOTOC__
+<quote by="Proposed: Hahnmark, Seconded: Sermersuaq">To build a runeforge in Hahnmark</quote>
+==Overview==
+* Constructs a [[runeforge]] in Hahnmark, as detailed in the '''[[Snow_might_fall#Five_Tasks|Snow might fall]]''' wind of fortune
+* Passed
+
+==Date==
+* Spring 385YE
+==Cost==
+* Costs as per wind of fortune
+* 45 wains of weirwood
+* 30 wains of white granite
+* 30 wains of mithril
+* One year to construct
+
+==Progress==
+{{CommissionProgress|Runeforge_of_Hahnmark}}
+==Outcome==
+* Now completed, the [[Keeper of the Runegrott]] will be first appointed by [[Tally of the Votes]] of the [[military unit]] captains of [[Wintermark]] at the Spring Equinox 386YE

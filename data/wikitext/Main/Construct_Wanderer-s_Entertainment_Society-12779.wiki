@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Announced by Lucrezia Corvinascura, Chair of the Wolf">To commission the structure of the Wanderer's Entertainment Society. A self funded sinecure requiring 10 wains of weirwood, 3 thrones, and 6 crowns in labour using standard costings. The sinecure will provide wealth. The Wanderer's Entertainment Society will be supervised by the Mistress of Festivities appointed by Judgement by the League Assembly and will be built in Hanuri, Temeschwar. This project has been organised by Red Ravens Holding, the premier building society in the Empire.</quote>
+==Overview==
+* Constructs a [[sinecure]] in Hanuri, Temeschwar
+* Announcement by the [[Chair of the Wolf]]
+==Date==
+* Spring 387YE
+==Cost==
+* Standard costs apply
+* 10 weirwood
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Construct_Wanderer%27s_Entertainment_Society}}
+==Outcome==
+* Now complete, the ''Mistress of Festivities'' will be available to appoint for the first time by the League Assembly at the Summer Solstice 387YE
+* The powers and responsibilities of the ''Mistress of Festivities'' were granted to the [[Mistress of Ceremonies]] by the Senate during the [[387YE_Autumn_Equinox_Senate_sessions#Amend_Mistress_of_Ceremonies|Autumn Equinox 387YE]]

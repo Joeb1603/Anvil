@@ -1,0 +1,193 @@
+---
+title: Combat
+source: https://www.profounddecisions.co.uk/empire-wiki/Combat
+class: out-of-character
+topic: rules
+categories:
+- Rules
+last_edited: '2026-08-20T09:23:54Z'
+revision: 143949
+aliases:
+- Heroic call
+- Terminal
+---
+
+# Combat
+
+## Global Hits
+
+- **You start with two global hits**
+- **Every time you are struck in combat you lose one hit**
+- **On zero hits you cannot act and are dying**
+- **You regain all lost global hits after at least two hours of rest and relaxation**
+
+Every character has a number of global hits to represent the injuries they can endure before becoming wounded so badly that they start to die. Most characters start with two global hits, but can gain more by buying the [endurance skill](Combat_skills.md#endurance) or by [wearing armour](Weapons_-_armour.md#armour) and a [helmet](Weapons_-_armour.md#armour).
+
+For the purposes of global hits it does not matter where you have been struck. You lose one hit every time you are struck in combat. If you lose all your hits then you are [dying](#dying) and can take no further action until appropriately healed.
+
+You automatically regain all lost global hits after at least two hours of rest, so you always start each day with all your hits. Healing from a [chirurgeon](Surgical_skills.md#chirurgeon), [potions](Potion.md), and magic can be used to restore lost hits.
+
+## Fighting without Skills
+
+- **You do not need a skill to use a melee weapon between 8" and 42” (106 cm) long**
+- **You do not need a skill to use a shield up to 15” in diameter**
+- **You do not need a skill to wear armour**
+
+All weapons must be at least 8” (20 cm) long, but you do not need a skill to wield a weapon up to 42” long, either to attack or to parry. You do not need a skill to wear [armour](Weapons_-_armour.md#armour) or to use a small shield up to 15" in diameter to block attacks.
+
+You must purchase the [Weapon Master skill](Combat_skills.md#weapon-master) to use a [larger weapon](Weapons_-_armour.md#weapons). You must purchase the [shield skill](Combat_skills.md#shield) to use a [larger shield](Weapons_-_armour.md#shield). You must purchase the [Thrown skill](Combat_skills.md#thrown) to use thrown weapons, or the [Marksman skill](Combat_skills.md#marksman) to use a bow or crossbow.
+
+## The One Second Rule
+
+- **You can only lose one global hit per second from multiple attacks from one enemy**
+- **You should aim to land one blow a second at most**
+
+A flurry of swift blows is not as dangerous as a full swing. To represent this, if a single character hits you more than once in a single second then you lose one global hit to that flurry of blows. This rule is not meant to be measured with a stopwatch, it exists to give you a rule of thumb to decide how much damage to take from a swift flurry of blows.
+
+Attackers should avoid rapid flurries of blows (often called 'drum rolling') that could confuse the opponent about how many blows they have taken. If you are attacking one or more opponents you should aim to land one blow a second at most.
+
+This rule applies to all attacks from a single target including any [calls](Calls.md) and regardless of how many weapons they have - [ambidexterity](Combat_skills.md#ambidexterity) does not allow you to cause more than one hit every second. Attacks from multiple opponents do damage normally.
+
+## Heroic Blows
+
+- **You can buy skills to inflict one of three heroic blows**
+- **You must purchase hero points to power heroic blows**
+- **Each time a heroic blow is used you expend one hero point**
+- **Hero points recharge overnight**
+- **All heroic calls delivered with a weapon or implement also cause the target to lose one global hit**
+
+*[Image: All arrows and bolts do IMPALE automatically](https://www.profounddecisions.co.uk/empire-wiki/File:Archers.jpg)*
+
+If you purchase [hero points](Heroic_skills.md) and an appropriate heroic skill then you can inflict one or more heroic blows in combat. These are indicated using the appropriate [heroic calls](Calls.md#heroic-calls) which lets the target know what they have been hit with and how to react. Every time you make a heroic blow your character expends one hero point from their daily allowance. Your character’s hero points replenish overnight.
+
+If the target does not visibly respond to your heroic call then your blow has not affected them and the hero point is not spent. You only expend a hero point if the target is affected by the call.
+
+## Arrows
+
+- **All arrows and bolts do IMPALE automatically**
+
+There is no call shouted when using a bow or crossbow, but if you are hit by an arrow or a bolt then you are affected by the [IMPALE](Calls.md#impale) call.
+
+*[Image: When you reach zero hits you are dying.](https://www.profounddecisions.co.uk/empire-wiki/File:Death_is_not_the_end.jpg)*
+
+## Dying
+
+- **When you reach zero global hits you fall over and start dying**
+- **You stop dying if you regain a global hit for any reason**
+- **You become terminal after three minutes**
+- **You are automatically unresisting while you are dying**
+- **You must roleplay that you are dying**
+- **You must not take any action other than talking or screaming**
+
+If you are reduced to zero global hits then you are so badly wounded that you fall over and start dying. You can sense what is happening around you and you can talk or scream but you cannot take any other action. You cannot attack or defend, and you cannot use any skill or magical item unless it explicitly says that it can be used while dying. You may not drink a potion by yourself, but may be fed a potion by another character. You must roleplay the fact that you are dying of your wounds.
+
+You must fall to the ground at most two steps from where you were last struck. This rule allows you to avoid having to fall over in unsafe or particularly wet areas; it does not allow a tactical retreat from combat. Once you have fallen over you must not move from that spot unless you need to for reasons of OOC safety.
+
+*[Image: Executing a character involves spending five seconds of appropriate roleplaying , delivering a fatal blow to the target with the EXECUTE call.](https://www.profounddecisions.co.uk/empire-wiki/File:ExecuteHim.jpg)*
+
+A character who is dying can be executed, killing them immediately. To execute a character you must spend at least five seconds appropriate roleplaying delivering a fatal blow to execute your target and then call [EXECUTE](Calls.md#execute).
+
+A character that is dying will become [terminal](#terminal) after three minutes. The [fortitude](Combat_skills.md#fortitude) skill and some [magical items](Magic_items.md) increase the time it takes to bleed to death in this way.
+
+While being treated with the [chirurgeon](Surgical_skills.md#chirurgeon) skill, your 'death count' is paused, you are still dying, and subject to all the other rules associated with the state. If the chirurgeon does not complete at least 30 seconds of roleplay to restore you to one hit, then your 'death count' will resume with the same time remaining.
+
+You may pretend to be dead or dying, but you follow the normal rules for [disguise](Playing_the_game.md#disguises). If another participant asks OOC if you are dead or dying, then you must answer the OOC question truthfully.
+
+If your character dies, you must register your [character death](Characters.md#character-death) as soon as possible on the system. This can be done using either your personal device and using the PD wifi or by using one of the [player computers](GOD.md#player-computers). Once you have created a new character on the system you should go to GOD to get your new [character pack](GOD.md#character-packs).
+
+## Terminal
+
+- **A character who is terminal is dying and cannot be saved**
+- **You must roleplay that you are dying**
+- **You can choose the point in the event for your character to die**
+
+*[Image: A terminal character cannot be saved, but can choose the moment of their death.](https://www.profounddecisions.co.uk/empire-wiki/File:CM-140524-7237.jpg)*
+
+A character becomes terminal after they have been bleeding to death for three minutes or more. A character who is terminal is so badly wounded that they are beyond any magical or medical help. The character is covered by all the rules for dying but they can no longer be saved by any method.
+
+You can choose the point during the event at which your character dies, provided you continue to roleplay the fact that they are mortally wounded. There is a limit to how long your character can survive, your character dies before the start of the next PD Empire event, at the very latest.
+
+## Traumatic Wounds
+
+- **You may receive a traumatic wound in battle**
+- **Traumatic wounds can only be healed using the [physick skill](Surgical_skills.md#physick)**
+- **You must keep the traumatic wound card and give it to your physick**
+
+In battle, your character is at risk of receiving a traumatic wound. Traumatic wounds represent things like broken bones, internal bleeding, punctured lungs and the like. These wounds are particularly difficult to treat and cannot be healed magically, you must receive the aid of another character using the physick skill to treat your wound.
+
+If you receive a traumatic wound you will be given a wound card by a referee or crew member. This card will state the approximate nature of your wound. You must keep hold of the card - if a physick attempts to heal your character then you will need to give them the card so that they know what resources are needed to heal your wound.
+
+A referee or crew member may assign you a traumatic wound card if your character is soundly beaten while fighting. Some large or magical monsters are notable for causing traumatic wounds when they connect solidly with an opponent.
+
+*[Image: Some spiritual wounds make it difficult to tell friend from foe.](https://www.profounddecisions.co.uk/empire-wiki/File:Spiritual_trauma.jpg)*
+
+### Spiritual Wounds
+
+- **You may receive a spiritual wound in battle or from another supernatural cause.**
+- **Spiritual Wounds affect the soul and require the [insight](Religious_skills.md#insight) ceremony to diagnose.**
+
+Spiritual wounds affect the soul of the target and are often associated with noticeable changes to behaviour or personality, in the form of [roleplaying effects](Roleplaying_effects.md). These wounds are spiritual in nature and cannot be treated in the same way as physical injuries, such as by a physick or using healing magic.
+
+If you receive a spiritual wound, you will be given a card by a referee or crew member. This card will detail the symptoms you experience. If a priest performs the [insight](Religious_skills.md#insight) ceremony on you, they will know what is needed to treat the wound. Some may require [exorcism](Religious_skills.md#exorcism) to cleanse.
+
+A referee or crew member may assign you a spiritual wound if your character has an appropriate supernatural experience. Some supernatural entities, such as wraiths, are notable for inflicting both spiritual and physical damage when they strike.
+
+## Moving a dying character
+
+- **Moving a dying character requires both hands to be free**
+
+*[Image: Dead Dawn Walking.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Dead_Dawn_Walking.jpg)*
+
+You may move any unresisting character unassisted if you have both hands free, or with another person if you both have a hand free. You can move a dead, dying, terminal or [paralysed](Calls.md#paralyse) character in this way. You cannot move a character who has been [entangled](Calls.md#entangle) until the spell effect has worn off.
+
+## Searching a character
+
+- **You must not touch another participant while searching**
+- **You must use appropriate roleplaying searching for at least 30 seconds**
+- **You can always take any in-character item that you can point to from an unresisting character**
+
+You can always take any in-character item that you can point to from an unresisting character. You can search an unresisting character to attempt to find any valuable items that they are carrying on their person that are not visible. You can only do this if you have both hands free. To search a character you must use appropriate roleplaying for at least thirty seconds. You can mime patting a person down, while keeping your hands well away so you don't come close to touching them. If you complete the count without interruption then the target must give you every IC item that they are carrying.
+
+## Capturing a character
+
+- **You can automatically capture any character who cannot resist your attacks**
+- **You can escape any bonds with five minutes of obvious roleplaying**
+- **Make sure you have a referee present if you are planning to capture another character**
+
+*[Image: Die this day.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Die_this_day.jpg)*
+
+If you wish to capture another character while they are at an event, then you must reduce them to zero global hits. If a character is not able to participate in combat because they are non-contact, or need to drop OOC for a first-aid incident or emergency then you require a referee if you wish to capture them. We strongly advise that you get a referee before attempting to capture any character.
+
+You may then roleplay taking steps to secure the character with ropes or similar while another character treats their wounds. You should not phys-rep any method of restraint until you have made certain that the other player is comfortable with it.
+
+If you are not on zero hits then you may automatically escape any bonds after a count of at least 300 seconds regardless of the method used to restrain you. You must use appropriate roleplaying in a way that is obvious to everyone who is watching that you are escaping your bonds. If your attempt to escape is interrupted then you must restart your count. Your character also automatically escapes if they are taken outside the IC site boundary.
+
+If you are held prisoner at time-out at night or at the end of an event then you are assumed to be in the custody of your captors and should resume play as a captive at the next time in. If this is likely to be difficult for any reason then consult a referee. It is not possible to force a captive to hand over any resources they gain in downtime.
+
+## Sparring and Tourneys
+
+- **If all parties agree it is fine to have weapons deal no damage while sparring**
+- **Any disagreement means all blows should be taken as real and damaging**
+- **If you use calls, hero points, personal mana, or similar they are expended as normal**
+
+We're aware that players are going to want to fight each other, be it for practice or for fun or whatever. When you are sparring with someone else, if all parties are in clear agreement, it's fine to have your weapons deal no damage, to represent you using blunted weapons and pulling your blows. If there's any disagreement whatsoever, then all blows should be taken as real and damaging. This includes if someone else jumps in and, say, attempts to assassinate one of the participants.
+
+For tournaments and similar in-character competitions of skill, the default is that all blows should be taken as real and damaging. If all parties explicitly agree out of character, they can run the tourney under the Sparring rules above.
+
+In any situation, if you make a [call](#calls), use an ability with a limited number of uses, spend [hero points](Heroic_skills.md#hero) or personal mana, or anything similar, then those uses are expended. You cannot use super powers without expending resources.
+
+## Further Reading
+
+- Combat
+- [Calls](Calls.md)
+- [Weapons & Armour](Weapons_-_armour.md)
+- [Game Items](Game_items.md)
+- [Stealing](Stealing.md)
+- [Roleplaying Effects](Roleplaying_effects.md)
+- [Rules FAQ](Rules_FAQ.md)
+- Rules Summary in [A5](https://www.profounddecisions.co.uk/mediawiki-public/images/b/b6/Rules_Guide_A5.pdf) and [A4](https://www.profounddecisions.co.uk/mediawiki-public/images/9/9e/Rules_Guide_A4.pdf)
+- [Combat safety](Combat_safety.md)
+
+---
+
+Categories: [Rules](../../indexes/by-category/Rules.md)

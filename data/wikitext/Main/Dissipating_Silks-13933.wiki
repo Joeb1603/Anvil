@@ -1,0 +1,13 @@
+==Description==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Dissipating Silks.png|caption=Bolstered by this armour, a battlemage can push aside the pain of a serious injury until they have time to deal with it.|width=360|align=right}}</div>
+Dissipating Silks are most commonly crafted as a set of pauldrons, vambraces, and a circlet and often see extensive use [[runes]]. The schema was originally added to Runesmith's law by ''Arethas of the Spire of the Stallion's Volition'', following the [[388YE_Summer_Solstice_Synod_judgements#Judgement_8|consecration]] of Elos Harbour in recognition of the [[Fist of the Mountains|Fist of the Mountains']] sacrifice. 
+
+Arethas rallied dozens of Urizen magicians to work together to create a copy of the rare schema, making use of the [[Zenith#Crucible_of_Fate|great foundries in Zenith]]. This powerful [[Weapons_%26_armour#Mage_Armour|mage armour]] can be worn by magicians taking the battlefield to provide them with a measure of protection from deadly blows.
+
+Different runesmiths naturally favour different runes, but the most common is the rune of [[Cavul|Purity]], similar to its use in [[Bloodfeather Harness]]. Likewise, the rune of [[Jotra|Battle]], for its more clearly physical nature. An artisan crafting a set for a [[dramaturgy|dramaturgist]] might draw inspiration and use representations of [[the Blade]] or [[the Cloak]].
+
+==Rules==
+{{Mage Armour}}
+* '''Effect:''' You may ignore the ''roleplaying effects'' of any single [[Combat#Traumatic_Wounds|traumatic wound]] until the end of the battle.
+* '''Materials:''' Crafting a suit of Dissipating Silks requires no special materials. It takes two months to make one of these items.
+{{Runesmith's Law}}

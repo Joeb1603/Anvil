@@ -1,0 +1,56 @@
+[[Category:Title]][[Category:Foreign Nations]][[Category:Senate]][[Category:Ambassador]]
+{{CaptionedImage|file=Kindra Surefoot.jpg|caption='''Kindra Surefoot''', Ambassador to Otkodov|align=left|width=300}}
+==Overview==
+The Ambassador to the Thule orcs of [[Otkodov]] is an [[Imperial title]] It is an Imperial position appointed by the [[Senate]]. The [[Miekarova#Embassy_to_Otkodov|Thule embassy]] is located in one of the most northerly points of the Empire, across an often-frozen lake from Wendell's Hope in [[Miekarova#Mieriada|Mieriada]], [[Miekarova]]. The Imperial embassy to [[Otkodov]] is part of a repurposes watchtower in [[Otkodov#Skuld|Kógur]], in southern Sküld.
+
+The [[Thule]] of [[Otkodov]] share a long mountainous border with [[Wintermark]], [[Imperial Orcs|the Unshackled]], and [[Varushka]]. Their magocratic nation is ruled by the five Dragons; allegedly immortal orc sorcerers. For much of Imperial history, they were at war with the Empire. In recent years, a series of treaties have secured peace - mostly by ceding parts of the northern Imperial nations. It is not a universally popular peace. For now, though, that peace endures. [[Dawn]] and [[Navarr]] send shipments of food north to help feed the people of Otkodov and support their armies. It is illegal to preach [[the Way]] of Virtue in Otkodov to their citizens. For their part the Thule agree to share the white granite of the [[Night Quarry]]; pay for the food delivered to them; and ensure Imperial access to the [[Tolvoli_Butcher#Tolvoli_Slaughterhouse_and_the_Heart_of_the_Tempest|Tolvoli Slaughterhouse]] and the [[Guardian_of_the_Maze_of_Zoria#The_Maze_of_Zoria|Maze of Zoria]] (while sending their own warlocks to study at the [[Master_of_Ice_and_Darkness#The_Icy_Crag_of_the_Eternal_Sun|Icy Crag of the Eternal Sun]]). And, of course, to maintain their current policies for the reasonable treatment of Imperial citizens choosing to remain and live in ceded lands.
+
+Prior to the Winter Solstice 387YE, the Ambassador was able to purchase goods from merchants and those seeking favour. This was changed, along with the rest of the ambassadors, when the Senate voted to [[387YE_Winter_Solstice_Senate_sessions#Amend_Imperial_Embassies|amend]] the embassies to end the practice, removing mercantile support and the upkeep costs at the same time.
+==Responsibilities==
+The [[ambassador]]  is expected to represent the Empire in relations with the [[Thule]] of [[Otkodov]]. They have all the responsibilities [[Ambassador#Responsibilities|common]] to an Imperial ambassador. As such they are responsible for representing the Empire to the [[orc|orcs]] of Otkodov, and to a degree vice versa. They are presented as the primary contact for any official Imperial business relating to the Thule, so their letters carry much greater weight and importance than anyone bar [[the Throne]]. They are expected to conduct or oversee any [[Ambassador#Treaty|treaty negotiations]] with that nation, and receive official [[Ambassador#Delegation|delegations]]. The [[civil service]] will direct representatives and citizens of the foreign power to the ambassador wherever appropriate.
+{{Diplomacy|nation=[[Thule]]|status=Foreigner|port=None|ambassador=Kindra Surefoot of [[Wintermark]]|counterpart=[[Ambassador_to_Otkodov#Thule_Ambassador|Runa Who-Speaks-For-The-Dragons-Undivided]]}}
+==Powers==
+===Imperial Ambassador===
+The title has all the [[Ambassador#Powers|common powers]] of an ambassador: they can receive a formal [[Ambassador#Delegation|delegation]], and may prepare a [[Ambassador#Treaty|treaty]].
+
+===Stipend===
+The Ambassador receives a [[Imperial_treasury#Stipends|stipend]] of four thrones each season.
+
+===Heating Provision===
+During Spring 383YE, the ambassador of the time, '''Yevgeni Katzev''', liaised with the civil service to arrange additional supplies for the embassy. This allows the ambassador to spend 1 crown to provide firewood to the Thule who live there. Apart from possibly improving the mood of Rak Who-Speaks-For-The-Dragons-Undivided in the colder months (which for Wendell's Hope is essentially every month except the very height of Summer), there is no tangible benefit for doing this.
+{{RecentElections|Ambassador_to_Otkodov}}
+==Appointment==
+The Ambassador to Otkodov is an Imperial position [[Appointments_by_the_Senate#Imperial_Position|appointed by the Senate]]. Any Imperial citizen can hold this title, and the ambassador serves for a year. They can be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+==Ambassadorial Lore==
+===Thule Embassy===
+Work on an embassy for the [[Thule]] [[orc|orcs]] was [[commission|commissioned]] in Summer 381YE by [[Construct_Embassy_to_the_Thule|order]] of the [[Senate]], and completed just before the Autumn Equinox that year. This followed on from some disagreements with the northern orcs about [[Spear_of_the_stars#Ambassador_to_the_Thule|how an ambassador might be appointed]] - they made clear that a uniquely [[Varushka|Varushkan]] [[ambassador]] would be particularly appealing to them, to the point where a physical embassy would be unnecessary. The Imperial Senate declined their offer. By the time the embassy was completed the [[Varushka|Varushkan]] '''Juha the Cave Spider''' of the Circle of Zulgan Tash was [[Appoint_Thule_Ambassador|already serving]] as ambassador for several seasons. As the Thule became more comfortable dealing with other Imperial nations, their insistence on a Varushkan ambassador softened, leading to the appointment of the [[Wintermark|Winterfolk]] '''Kindra Surefoot''' in Spring 386YE.
+
+The Otkodov embassy itself stands in [[Miekarova]], just across the lake from Wendell's Hope in [[Miekarova#Mieriada|Mieriada]]. The building is isolated, and often snowed under for as much as half the year. There is a tradition of the Imperial ambassador providing additional funds for the heating of the place, established in the time of '''Yevegeni Katzev''' and Rak Who-Speaks-For-The-Dragons-Undivided.
+
+The Imperial embassy to Otkodov is located in a small outpost high in the mountains of Kógur. A repurposed watchpost, it is a draughty and foreboding place and civil servants are forbidden to leave the embassy to travel into Sküld without an escort.
+{{WingedMessenger|address=Runa Who-Speaks-For-The-Dragons-Undivided, Embassy to Otkodov, Mieriada, Miekarova}}
+===Thule Ambassador===
+The official ambassador to the Empire is ''Runa Who-Speaks-For-The-Dragons-Undivided''. He is still somewhat new to his post, and something of an unknown quantity, but he speaks with confidence as the voice of the rulers of Otkodov.
+
+His predecessor was ''Rak Who-Speaks-For-The-Dragons-Undivided'' who sadly passed away while travelling to [[Anvil]] in late 387YE. He was known for dry sarcasm, and an enduring perception that the Empire was simply too chaotic and disorganised to survive. He occasionally mentioned that the fact it has lasted as long as it has is a sign that the universe has a sense of humour.
+===Ambassadorial Briefings===
+As discussed in the 388YE Autumn Equinox wind of fortune '''[[So_little_I_wanted,_so_little_I_got#Ambassadorial_Briefings|So little I wanted, so little I got]]''', the [[civil service]] have recently reinstituted Ambassadorial briefings. At least in the short term, the civil service have resumed furnishing Imperial ambassadors ''who are supported by [[embassy]] staff'' with individual briefings where necessary and appropriate. To maintain transparency and preserve continuity, the briefings are made available to those who wish to review them ''after'' the summit where they are delivered, in a similar way to which [[historical research]] is made public. Only those elements of a briefing that are specifically personal to the ambassador may be removed, and only where they are clearly not of interest to the Empire. At the end of the year, this procedure will be reviewed again, to ensure that it is fit for purpose.
+* [[388YE Autumn Thule ambassador briefing]]
+{{Thule links}}
+
+<!--
+==Archive Stuff==
+
+{{CaptionedImage|file=Juha the Cave Spider.jpg|width=400|align=left|caption=The first Ambassador to Otkodov was appointed by the Imperial Senate in Spring 381YE.|title=Juha the Cave Spider}}
+
+<div style="display:inline-block; float: right; margin-left: 10px;">
+<table><tr><td style="background-color: LightBlue;">Total Money Spent</td><td style="background-color: LightBlue;">Production</td></tr>
+<tr><td>12 Crowns</td><td>10 mana crystals</td></tr>
+<tr><td>36 Crowns</td><td>24 mana crystals</td></tr>
+<tr><td>80 Crowns</td><td>40 mana crystals</td></tr>
+<tr><td>144 Crowns</td><td>54 mana crystals</td></tr>
+</table></div>
+===Thule Merchants===
+The [[embassy]] in Miekarova means that the ambassador enjoys the benefits of [[Ambassador#Mercantile_Support|mercantile support]] from traders keen to curry their favour. As a [[ministry]], this allows them to purchase quantities of special materials at a set price. The ambassador spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+Following the [[Ratify Liberty Pact|imposition]] of [[Tariffs#Sanctions|sanctions]] on trade with [[Otkodov]] in Winter 382YE the cost to benefit from the [[ministry]] was increased by roughly a fifth.-->

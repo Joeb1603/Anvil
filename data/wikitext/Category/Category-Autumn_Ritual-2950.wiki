@@ -1,0 +1,10 @@
+[[Category:Magic]]
+==Overview==
+This table lists all the [[Autumn magic]] [[rituals]] that are part of [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]]. 
+{{RitualTable|Autumn}}
+
+This table lists all the [[Autumn magic]] [[rituals]] that are part of [[Urizen_magical_traditions#Urizen_Lore|Urizen lore]]
+{{UrizenRitualTable|UrizenAutumn}}
+{{pdf}}
+==Gifts of Estavus==
+In Summer 384YE, the eternal Estavus made certain rituals drawing on her power [[Begin_to_speak#Estavus|available to the Empire]]. The [[mystic scrolls of Estavus]] detail three rituals - [[Mystic scrolls of Estavus#Ramparts of Ashlar|Ramparts of Ashlar]], [[Mystic scrolls of Estavus#Hammers of Fury|Hammers of Fury]], and [[Mystic scrolls of Estavus#Accoutrements of War|Accoutrements of War]]. They are not part of Imperial lore, and cannot be mastered by Imperial citizens, but their capabilities are reasonably common knowledge.

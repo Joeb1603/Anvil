@@ -1,0 +1,19 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Proposed: Feroz, Seconded: Kahraman">Commission to reestablish the herds of Afar in Feroz at a cost of 300 crowns and establish the Dhomiro of Afar to oversee them, outlined by the civil service. Fully self funded.</quote>
+==Overview==
+* Creates a [[sinecure]] in Afarjasse, Feroz as per the '''[[Send_for_me#Herds_of_Afar|Send for me]]''' wind of fortune
+* Passed
+
+==Date==
+* Winter 386YE
+
+==Cost==
+* Costs as per opportunity
+* 300 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Reestablish_Herds_of_Afar}}
+==Outcome==
+* Now complete, the [[Dhomiro of Afar]] will be available to appoint by Tally of the Votes of Freeborn [[fleet]] owners for the first time at the Spring Equinox 387YE

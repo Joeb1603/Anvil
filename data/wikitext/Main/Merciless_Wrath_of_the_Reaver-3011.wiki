@@ -1,0 +1,34 @@
+==Rules==
+{{Season|Spring|8}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Resource|[[military unit]]}}
+
+{{enchantment}}
+
+===Effects===
+The military unit gains a significant boost to its effective rank, provided it takes a [[Military unit#raiding|raiding]] action.  {{Military Unit Strength|60|3}}
+
+When the ritual is complete, the character who controls the target resource experiences a [[roleplaying effect]] that persists for at least ten minutes; ''You feel aggressive and ready to solve any problem with violence; you have little patience for anything that gets in the way of your immediate gratification.''
+
+{{Season Duration}} {{Downtime buff}}
+
+===Additional Targets===
+This ritual can affect additional military units belonging to characters in the same [[Groups#Banners|banner]]. Each additional military unit increases the magnitude by 6. The character who controls each military unit must be present throughout the ritual.
+
+==Description==
+This [[enchantment]] grants a [[military unit]] vigour and primeval strength, and heightens their aggression. The more bloodthirsty they are, the more the [[Spring magic|magic of Spring]] encourages them and strengthens them. It encourages the members of the unit to deal with problems directly, and with violence, and their willingness to "get stuck in" often takes their opponents by surprise. If they operate in more restrained activity such as [[Military_unit#Campaigning|fighting alongside a campaign army]], or [[Military unit#guarding|garrisoning a fortification]] the enchantment proves unhelpful or in some cases is an active impediment.
+
+It is common for those who receive the benefit of the spell to offer a portion of any plunder they gain in the coming season to the ritualists, although this is by no means mandatory - not least because some ritualists prefer to be paid in advance rather than trust to the short memories of raiders.
+
+The ''Merciless Wrath of the Reaver'' can be a little risky. The soldiers in a military unit are unlikely to direct their violence inwards unless they are already on the verge of turning on each other, but there are stories of bloodthirsty warriors who completely lose control under the influence of this enchantment. Whether raiding barbarians or bandits, soldiers under the effect of this enchantment are much more likely to attack ferociously to kill or cripple their opponents as quickly as they can, showing little mercy. They also tend to be keen to secure loot from those they've defeated, and without strong leadership can naturally fall into a "might makes right" mentality that might cause further disruption if they are operating within Imperial borders. 
+
+This ritual is sometimes called ''Across the Boundary'', especially in [[The Marches]], where they have a well-developed sense of 'their' land as opposed to barbarian lands - as well as a nod to the potential for the enchantment to cause the military unit to "cross a line" socially or morally. In [[The League]] and [[Highguard]] it is commonly called ''Bloodthirsty Blades'' because of the way it encourages soldiers to fight mercilessly against their opponents.
+
+==Common Elements==
+The ritual fills a fighting force with both vigour and bloodlust. Ritual performances often include the evocation of [[Mawrig|the rune of storms]] or the constellation of [[The Claw]]. Blood is often shed during this ritual, often mixed with a cup or bowl of water or spirits and shared by the targets. Sometimes the ritual involves the targets cutting themselves with a blade and swearing oaths to be merciless in pursuit of their prey. There are often invocations of wolves or other predatory animals, especially [[Mundane beasts#Dire Beasts|dire beasts]]  and occasionally [[Legendary beasts#Manticore|manticores]] during the performance of ''Merciless Wrath of the Reaver''. 
+
+The [[magic items|magic item]] known as the [[Corsair's Bloody Mask]] can be used to make this ritual easier to perform.
+[[Category:Spring Ritual]]
+[[Category:Rituals]]
+[[Category:Warfare]]
+[[Category:Resource]]

@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:386YE Autumn]]
+__NOTOC__
+<quote by="Announced by Konstantin Rabovich Bolotnikov, Mistress of Monuments">I announce the construction of a monument to celebrate the work of Brother Olyvar of Esther's Sanctum, Lady Josephine of Adina's Charge, and Hazelelponi of the Shattered Tower, as well as countless others, to eliminate discrimination against lineaged people within Highguard and the wider Empire. To be constructed in Sybella, Sybella's Cross, Bastion following the design by Lady Josephine. One mithril, seven white granite, 24 crowns, with thanks to the exceptional generosity of Livia of the Spire of the Celestial Cascade.</quote>
+==Overview==
+* Constructs a [[folly]] in [[Bastion]]
+* Announcement by the [[Mistress of Monuments]]
+==Date==
+* Autumn 386YE
+==Cost==
+* Standard costs apply
+* 7 white granite
+* 1 mithril
+* 24 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Monument_in_Bastion}}
+==Outcome==
+* Once complete, details of the monument will be added to the [[Bastion]] page.

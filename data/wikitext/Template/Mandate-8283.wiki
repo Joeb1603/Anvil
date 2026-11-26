@@ -1,0 +1,8 @@
+<div class="ic"><div class="ic-inner quote"><p>{{{mandate}}}</p><small>Synod Mandate, {{{assembly}}}</small></div></div>
+[[Category:Mandate]]
+<noinclude>
+== Usage ==
+<pre>
+{{Mandate|mandate=Some text with exciting words and how much liao.|assembly=Varushkan National Assembly}}
+</pre>
+</noinclude>

@@ -1,0 +1,9 @@
+<noinclude>Oliver Facey has a [http://gallery.oliverfacey.co.uk website] and is on [https://www.facebook.com/oliver.facey facebook]
+
+Oliver is also on [https://ko-fi.com/oliverfacey Ko-Fi] if you want to support his work directly.
+
+Please include the following text in the description field when uploading files by this photographer to the wiki:<br />
+
+''<nowiki>{{Oli}}
+</nowiki>''
+</noinclude><includeonly>[[Category:Photos:OliverFacey]] [[:Category:Photos:OliverFacey|Image by Oliver Facey]]</includeonly>

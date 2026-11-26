@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:387YE Autumn]]
+__NOTOC__
+<quote by="Announced by Lucrezia Corvinascura, Chair of the Wolf">I call upon the Holberg College of Engineering to plan the construction of Adelaarskade, a series of dykes costing 30 weirwood and 90 crowns, which will drain the wetlands of Rebeshof and Utterlund. Once the land is suitable, the Rebeshof Roadwarden, Lia Adelaar van Holberg, shall fund the establishment of pig markets in the Marches and encourage the Sand Fishers to farm Rebeshof and Utterlund as foreigners. The edifice has been commissioned at the behest of Otmar von Holberg of Adelaarsgilde</quote>
+==Overview==
+* Constructs an [[edifice]] in Holberg
+* Announcement by the [[Chair of the Wolf]]
+* More information can be found in the '''[[Threats that are to come]]''' wind of fortune
+
+==Date==
+* Autumn 387YE
+
+==Cost==
+* Costs as per opportunity
+* 30 wains of weirwood
+* 90 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Adelaarskade}}
+==Outcome==
+* Once complete, the penalty to [[farm|farms]] in Holberg will be removed
+* One year after completion, Rebeshof and Utterlund will lose the marsh quality, which will make it more appealing for people to farm those regions

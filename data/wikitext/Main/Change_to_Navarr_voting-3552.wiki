@@ -1,0 +1,20 @@
+<ic>Alteration to internal Navarr voting protocols regarding those who have no formal territory.<br><br>
+''Proposed by Therunin, seconded by Tassato.''</ic>
+
+===Overview===
+* Change [[Navarr]] [[Navarr_leadership#Leading a territory|voting protocols]] regarding those who have no formal territory
+* Passed unanimously.
+* Struck down by the Magistrates.
+
+===Date===
+* Passed Winter 376YE (Easter 2013).
+
+===Cost===
+* None
+
+===Legal Ramifications===
+Changing the voting is a constitutional issue. This was struck down by the Magistrates.
+
+[[Category:Senate Motion]]
+[[Category: 376YE Winter]]
+__NOTOC__

@@ -1,0 +1,26 @@
+{{Army Page}}
+{{CaptionedImage|file=Bounders_Colour.png|align=right|width=300}}
+===Overview===
+This adaptable army attracts many [[The Marches military concerns#Beaters|beaters]] who support a solid core of [[Upwold]] soldiers and a small cadre of dedicated battlefield magicians. They are skilled skirmish fighters, able to quickly learn the lay of the land and [[Army qualities#Relentless|relentless in their pursuit]] of their enemies. Some of the best military archers in the Empire are part of the Bounders adept at bringing down their opponents with a combination of clever placement and withering storms of arrows. They are also adept scouts and trackers - unsurprising perhaps given the number of [[#Beaters|beaters]] who serve or have served under their banner. Since the Spring of 383YE, they have focused their efforts on [[Army qualities#Watchful|guarding the borders]] of the Empire.
+
+The third Marcher general leads the Bounders army, and is appointed (or re-appointed) at the Autumn Equinox each year.
+===History===
+TBC
+
+TBC
+====Recent History====
+TBC
+__TOC__
+===Traditions===
+TBC
+==Composition==
+TBC
+==Army Quality : [[Army_qualities#Watchful|Watchful]]==
+The Bounders were once known for their [[Army qualities#Relentless|relentless]] pursuit of their foes. In recent years, however, they have [[Bills or bows#Bounders|embraced]] a more [[Army_qualities#Watchful|watchful]] approach to their campaigns.
+
+==Oathsworn==
+* '''The Bounders fight with an additional thousand strength when in Upwold'''
+As a result of a [[I_already_know_you#Reeds,_Drakes,_Tusks,_Bounders|mighty oath]] sworn in 386YE by [[general]] Birchsmith, when the Bounders fight in [[Upwold]] they operate as if they had an additional thousand strength. However, should there ever be an enemy force in Upwold, and the army ''not'' be in place defending the territory by the start of the following downtime, the oath will be broken with major consequences for the army. 
+{{CaptionedImage|file=Fitzwilliam Thorn.jpg|caption='''Fitzwilliam Thorn''', General of the Bounders|align=left|width=300}}
+{{RecentElections|General_of_the_Bounders|the title of [[General]] of the Bounders}}
+[[Category:Imperial Army]][[Category:The Marches]][[Category:Military Council]]

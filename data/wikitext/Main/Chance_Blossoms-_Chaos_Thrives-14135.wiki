@@ -1,0 +1,37 @@
+[[Category:Spring Ritual]][[Category:Rituals]][[Category:Resource]]
+==Rules==
+{{Season|Spring|8}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Resource|[[herb garden]]}}
+
+{{enchantment}}
+
+===Effects===
+This enchantment increases adds an additional 10 random [[herbs]] to the production of a [[herb garden]]. The herb garden experiences a burst of enthusiastic growth, but collecting the herbs may take longer as it also fills the garden with other, less useful, plants and flowers. 
+
+{{Downtime buff}}
+
+===Additional Targets===
+This ritual can affect additional herb gardens in the same territory. Each additional herb garden increases the magnitude by 6. The character who controls each herb garden must be present throughout the ritual. 
+<div style="float:right; width: 300px; clear: right;">{{CaptionedImage|file=Fausta Ankarien.jpg|caption='''Fausta Ankarien''', who undertook the initial research that lead to the codification of the ritual.|align=right|width=300}}</div>
+==Description==
+This ritual was based on work performed by ''Fausta Ankarien'', then-[[Grandmaster]] of the [[Silver Chalice]]. It was codified at the [[Master_of_Ice_and_Darkness#The_Icy_Crag_of_the_Eternal_Sun|Icy Crag of the Eternal Sun]] shortly before the Autumn Equinox 388YE, under the auspices of ''Alexander Tallstag'' of [[Dawn]] (the [[Master of Ice and Darkness]]. The [[declaration]] that added it to [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]] was [[388YE_Autumn_Equinox_Conclave_sessions#Imperial_Lore:_Chance_Blossoms,_Chaos_Thrives|raised]] by ''Yarvi Swiftwind'' on behalf of the [[Silver Chalice]] and funded by the [[Apparently_with_no_surprise#A_Decrepit_Flower|Wise Flower chapter]]. The funding is notable because it was offered as part of an [[opportunity]] relating to a desire by certain herbalists to be less reliant on [[Ruthless Vigilance, Healthy Crop]], a ritual of [[Winter magic]] that they saw as unneccessarily cruel and wasteful.
+
+This ritual draws on the resonance of [[Spring magic#Fertility|fertility]], but is also coloured by certain other resonances of the [[Realms#Spring|Primal Forest]]. [[Spring magic]] is a study in discord and opposition. The same healing energies that will [[heal|restore]] a wounded warrior or [[purify|cleanse venom]] empower the [[vallorn]]. The same wild zest for life that fills the spirit with enthusiasm and joy can, in a different context, drive a warrior to the edge of madness in the lust for blood and slaughter. So it is with the resonance of [[Spring magic#Chaos|chaos]] drawn on through this enchantment. More than any other realm of magic, invocation of a Spring ritual often result in unlooked for and unpredictable side effects. It also makes Spring magic difficult to control, and often when it is unleashed the exact form it settles into cannot be guided.
+
+Sometimes this chaos is wildly destructive – but other times the chaos is aligned with life and infinite diversity. So it is with this ritual – it harnesses the more wholesome aspects of chaos to cause a [[herb garden]] to blossom with life of all kinds. Some of this life takes the predictable form of [[herbs]] – although which herbs will grow in a wild riot cannot be controlled by the coven performing the rituals. The ritual also encourages the growth of all other plants – weeds and wild flowers, vines and thornbushes. This can paradoxically make it a little harder to actual harvest the bounty the ritual performs, but those who garden know that the work is always going to be hard.
+
+There is still a danger that the chaotic growth may take on malignant forms, as there is with any Spring magic, but it does seem that the innate healing resonances of magical herbs and the places they grow mitigate this risk. Even Spring chaos does not create something from nothing – it is a magic of change after all. It might produce [[marrowort]] with red petals, or a single massive [[bladeroot]] plant, but it will not lead to the creation of carnivorous monster plants such as [[Yaw'nagrah]] favours. Even in chaos, there are natural channels that magic will follow, and this fine ritual makes use of those channels.
+
+In addition to the magicians of the Icy Crag, the codification was supported by magically-inclined herbalists from several nations. They were not shy about sharing their opinions on the value of herbs. "It is an understatement to say that healing herbs are vital to the preservation of life," wrote one. "Without [[marrowort]], [[bladeroot]], [[Imperial Roseweald|Imperial roseweald]], [[Cerulean Mazzarine|cerulean mazzarine]], and especially [[True Vervain]], there would be a great many fewer Imperial citizens than there are today. In some ways, herbs are superior to magical rituals, They require significantly less time to use, for example, and can be stored indefinitely whereas a ritual such as [[Hands of the Healer]] must be re-invoked each season. Even a spell such as healing or purification can only be cast so many times before the magician must rest."
+
+Others waxed lyrical about the creation of [[potion]]s. "Herbs also unlock a deeper level of power, in the form of the potions crafted by [[surgical skills#Apothecary|apothecaries]]. While some forms of magic can create useful materials, they generally do so at great cost and in limited amounts. This ritual increases the bounty of healing herbs, and does so using the positive, life-affirming aspects of Spring magic rather than the more common, cruel magic of Ruthless Vigilance, Healthy Crop. It is assumed that many herbalists will welcome this innovative new ritual, simply because it aligns their garden with life rather than death."
+
+==Common Elements==
+This ritual encourages healthy plants to grow in great profusion in a herb garden. Ritual performances that celebrate life and diverse change are particularly resonant, as is an acceptance of the reality that the ritual also causes other plants to prosper at the same time, leading to harder work. 
+
+The runes [[Bravash]] and [[Xun]] are both resonant with this ritual, as are [[heath magic]]s and symbols related to life, healing, hard work, and prosperity. Shedding small amounts of blood, or consuming wholesome food and drink as part of the ritual will help the magic flow in the right ways as will the presence of herbs harvested by the herbalists who are to benefit from the enchantment.
+
+The eternal [[Ossegrahn]] might be invoked in this ritual, as might [[Llofir]]. [[Wise Rangara]] might also be invoked, even though the ritual uses Spring rather than Winter magic – the eternal is a patron of herbal lore after all and there are arguably lessons to be learned from filling a garden with transformative life, just as there are from wielding the scalpel to cut out weak plants.
+
+[[The Witch]], [[the Cup]], and the throne of [[the Garden]] are all fine dramaturgical symbols to invoke with this enchantment, and [[the Fountain]] resonates strongly with the enchantment for practitioners of [[astronomancy]].

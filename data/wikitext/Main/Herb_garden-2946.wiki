@@ -1,0 +1,44 @@
+{{CaptionedImage|file=Canny Businessman.jpg|caption=Herb gardens provide vital supplies to [[Surgical skills#Physick|physicks]] and [[Surgical skills#Apothecary|apothecaries]].|width=300|align=left}}
+==Definition==
+A herb garden represents an area of land where [[herb|herbs]] grow. A herb garden can be of almost any size - it could be a tiny personal garden in an Urizen spire, meticulously tended and cared for, or it could be a vast forest in Wintermark or Varushka that a character scours in search of wild herbs.
+
+==Production==
+A herb garden produces 6 drams of [[True Vervain|true vervain]], 2 drams of [[Cerulean Mazzarine|cerulean mazzarine]], 2 drams of [[bladeroot]], 2 drams of [[Imperial Roseweald|imperial roseweald]], and 2 drams of [[marrowort]].
+
+==Downtime Options==
+It is possible to obtain a higher yield from a herb garden. You may spend 6 crowns to have the herb garden produce an additional 3 true vervain, 1 cerulean mazzarine, 1 Imperial roseweald, 1 bladeroot and 1 marrowort in that season.
+
+==Upgrades==
+A herb garden can be upgraded using [[weirwood]] obtained from the Bourse. Each time a herb garden is upgraded, the owner chooses a single herb from the list. The herb garden produces 2 additional drams of that herb from then on.
+
+To upgrade a herb garden requires Imperial wains of weirwood equal to the level the herb garden is being upgraded to. So the first upgrade of a starting level 1 herb garden costs 2 Imperial wains of weirwood, from 2 to 3 costs 3 Imperial wains, etc.
+
+The [[Wise Arborist|Feldspar Distillery]] in [[Skarsind]] allows herb gardens owned by Imperial Orcs to be upgraded to produce a single dram of [[realmsroot]] each season rather than one of the standard herbs.
+
+==Rituals==
+The table below shows a list of the rituals in Imperial lore which can affect the production of a herb garden.
+{| class="wikitable sortable"
+! Ritual
+! Effect
+! Realm
+! Magnitude
+|-
+|[[Ruthless Vigilance, Healthy Crop]] || Produces an additional 2 drams of each herb over the next season || Winter || 8
+|-
+|[[Withering Touch of Frost]] || Reduces production by a quarter for a year || Winter || 6
+|-
+|[[Anathemic Call of Bug and Briar]] || Reduces production by a half for a year || Spring || 16
+|-
+|[[Vale of Shadows]] || Protects the resource from suffering the [[Resource#Conquered_Territories|conquered territory]] penalty for a year || Night || 20
+|-
+|[[Like Water Through Your Fingers]] || Reduces production by three quarters for a year || Autumn || 30
+|-
+|[[Winter's Ghosts]]<sup>[[#1|(1)]]</sup> || Reduces production by 2 true vervain over the next season || Winter|| 50
+|-
+|}
+<small>
+#{{anchor|1}} This curse affects an entire territory
+</small>
+
+[[Category:Rules]]
+[[Category:Personal Resource]]

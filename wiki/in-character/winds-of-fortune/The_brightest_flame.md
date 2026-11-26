@@ -1,0 +1,192 @@
+---
+title: The brightest flame
+source: https://www.profounddecisions.co.uk/empire-wiki/The_brightest_flame
+class: in-character
+topic: winds-of-fortune
+categories:
+- 388YE Summer
+- Winds of Fortune
+- Peerless Kinship
+event: 388YE Summer
+last_edited: '2026-07-19T17:07:16Z'
+revision: 142105
+in_character_boxes: 17
+---
+
+# The brightest flame
+
+> *In-character text:*
+>
+> "Look at Chalonsio, look at Rachensgrab!" Diraz's voice was rising as he warmed to his favourite subject.
+>
+> "A triumph of the Ambitious and the Vigilant, to be sure." replied Anselm calmly.
+>
+> "So you say, and yet both raids produced scores of spontaneous auras. Many of those auras were neither Ambitious nor Vigilant in nature."
+>
+> "It is impossible to tell what Virtue a spontaneous aura is formed from. Miriam of the Cobalt Shield argues that spontaneous auras don't distinguish between the Virtues at all."
+>
+> Anselm's host was in no mood to back down. "It's impossible to tell which Virtue an aura is part of with *liao*. But it's as plain as your nose if you experience it. Many of those who went experienced auras of Freedom."
+>
+> "Perhaps," Anselm conceded, "but we freed thousands of slaves. Perhaps it would be surprising if no aura of Freedom arose as a result."
+>
+> "Right!" Diraz pounced on on the point. "So here is my question. Freeing the slaves of Chalonsio and Rachensgrab was, inarguably, the right thing to do. In that moment we were worthy to stand in Ahraz' shadow. If you had the chance to do it all over again, would you take it?"
+>
+> "Without a moment's thought", replied Anselm, "slavery is a perversion of Virtue, it violates *every* tenet of Prosperity."
+>
+> "And would you do it again knowing it would create auras of Freedom?" Diraz paused to let his point in sink in. "The Synod has proscribed Freedom. But if you free those people you will knowingly create scores of Freedom auras that the Synod has banned. Would you still do it, knowing your actions were spreading Freedom in their wake?"
+>
+> Anselm paused for a moment to consider his reply, but Diraz didn't wait.
+>
+> "You must consider, my learned friend, what is heterodoxy but the cradle of orthodoxy? What was the Revelation of the First Empress but heterodoxy to the Patricians that is now our orthodoxy"
+
+*[Image: Nim of Ebon's Hall has called or Highguard to offer their peerless kinship to the people of the Brass Coast.](https://www.profounddecisions.co.uk/empire-wiki/File:Nim_of_Ebon%27s_Hall.jpg)*
+
+## Overview
+
+In the tradition of the founding nation, the [Highborn](../nations/highguard/Highguard.md) have once again expressed their [peerless kinship](../nations/highguard/Highguard_religious_beliefs.md#peerless-kinship), this time under the leadership of **Nim of Ebon's Hall** to their cousins in [the Brass Coast](../nations/the-brass-coast/The_Brass_Coast.md). More specifically, they have identified the [ascendant Firebrand movement](On_the_road_ahead.md#city-of-passions) whose embers have been stoked by the [mandate](../../mixed/government/synod/Mandate.md) of **Isario i Riqueza** and the commissioning of the [City of Wonders](On_the_road_ahead.md#city-of-wonders) as a potential cause for concern.
+
+The arrival of the Highborn is preceded by the words of **Lita i Nadir i Riqueza**. They spread across the nation, calling for unity in the shared pursuit of driving the empire forward in virtue, morality and the ever-changing Way. As a result, the [famously hospitable Freeborn](../nations/the-brass-coast/The_Brass_Coast_culture_and_customs.md#hospitality) throw open their doors and welcome their guests to [Anduz](../nations/the-brass-coast/Segura.md#anduz). The Highborn [wayfarers](../nations/highguard/Highguard_religious_beliefs.md#wayfarers) and pilgrims who engage in peerless kinship have a warm temperament and an open mind. Centuries dedicated to spreading the Way has made them effective interlocutors. Their commitment to the Way is uncompromising but they embrace the idea that if you want to be heard, then first you have to listen. They are skilled at getting others to talk and patient enough to wait for the quiet before they speak their own mind.
+
+Some fear the worst however; Lita suggested the Freeborn look to the example set by [Guerra](../nations/the-brass-coast/Guerra.md), one of the three founders of the Brass Coast. It is a brave choice! Arguably the first firebrand, Guerra famously turned her back on the Highborn [chapters](../nations/highguard/Chapter.md), accusing them of moral cowardice. She left [early Highguard](../nations/highguard/Highguard_history.md#the-diaspora) in part because she wanted nothing to do with the chapters or their beliefs.
+
+Still that was centuries ago and times have changed dramatically since then. Provided people have changed with them, everything should be fine.
+
+> *In-character text:*
+>
+> The Freeborn have a great opportunity ahead of them. By building the burning agora, the Firebrands will be revived and vigorous debate will begin in Anduz. This will spell a great era of discovery among the Freeborn, but they must remain Vigilant. The Highborn Assembly are well-posed to support the Firebrands in pushing the Way to excellence. There are no better partners in debate. In this, we provide our Peerless Kinship
+>
+> Nim, of Ebon's Hall, Highborn National Assembly, Spring 388YE, Vote: 250-12
+
+> *In-character text:*
+>
+> As we look to the foundation of the Burning Agora, and the rekindling of the Firebrands of our nation. Look to Guerra as your example. We urge our Firebrands to use their forum to push for social change, build bridges, and speak on how to drive the Coast and the Empire forward together in virtue, morality, and the ever-changing Way. We welcome our Highborn siblings to join our debate in Peerless Kinship
+>
+> Lita i Nadir i Riqueza, Freeborn National Assembly, Spring 388YE, Vote: Upheld with a **Greater Majority** 158-0
+
+*[Image: Along with Dust and Glass, Fire is one of the three mystical pillars of Freeborn spirituality.](https://www.profounddecisions.co.uk/empire-wiki/File:NBBrassCoast.jpg)*
+
+## The Nature of Fire
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We prize freedom and disdain arrogance. We send Isario i Riqueza with 50 doses of liao to encourage the citizens of Segura to create a place to discuss doctrine and encourage free thinkers. Every being deserves to live the life they want in the manner they wish.
+> >
+> > Isario i Riqueza, Freeborn National Assembly, Spring 388YE, Vote: Upheld with a **Greater Majority** 154-0
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > ...it is fitting they call themselves firebrands, for I might as well try to influence the fire itself. I could feed this fire and watch the world burn, or smother it and embrace the cold darkness. The one thing I cannot do is change them. The flames will not part for me if I plunge my hands into the fire. These flames will not part for anyone.
+> >
+> > Hosea of the Winter's Lament
+
+The visiting Highborn are made welcome throughout Anduz, including at the hearths of the firebrands. Most are charged little for a meal and a seat at a table; it is clear their hosts welcome the opportunity to debate virtue and faith. Their guests are as eager to listen as they are to talk, but even so the talk goes long into the night, with both groups embracing the opportunity to discuss their favourite topics. Conversation flows like [syrah](../nations/the-brass-coast/The_Brass_Coast_culture_and_customs.md#syrah), with matters of Virtue, faith and doctrine discussed, alongside Imperial politics. In fact, many firebrands are more interested in the declarations of the Conclave and the motions of Senate than they are in [the Doctrines of the Faith](../religion/The_Doctrines_of_the_Faith.md), more concerned with the actions of the [Military Council](../../mixed/government/military/Military_Council.md) and the decisions of [the Throne](../../mixed/titles/The_Throne.md) than [the paths of Virtue](../world/The_Way.md#the-paths-of-virtue).
+
+These debates are charged and passionate; the wise would expect nothing less of the Freeborn, but their fervour stands out in a crowded room. The firebrands are as committed to their ideals, as any [grey pilgrim](../nations/highguard/Grey_pilgrim.md) who gave up everything to walk the [trods](../nations/navarr/Trod.md). As zealous in their beliefs as any [wayfarer](../nations/highguard/Highguard_religious_beliefs.md#wayfarers) risking everything to bring the Way to the world. They are possessed of a surplus of self-belief that provides a bottomless well of confidence and a determination to fight for their cause that would impress any [cataphract](../nations/highguard/Highguard_military_concerns.md#cataphracts). It is clear they agree with their guests on many things - and they disagree on just as many. Without the inspiring words of Lita i Nadir i Riqueza, the debates would have quickly turned to arguments and worse.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > ...I fear if they come into their own, they will set the world on fire. Not out of wickedness, but out of righteousness. And woe betide what is wrong, for they will burn it from our Empire, like a surgeon cauterizing the wound. Just like their beloved Ahraz did, they will risk everything in their determination to make the Empire a better place.
+> >
+> > Felix of the Far Tower
+
+The conversations are revealing. The people of the Coast are [notoriously candid](../nations/the-brass-coast/The_Brass_Coast.md), and urged on by their assembly, the firebrands have little reason to hold back. In that way the attempt to express peerless kinship has been a tremendous success - it paints a detailed picture of the firebrands to their Highborn guests and to their neighbours all across the Brass Coast.
+
+What emerges is a group profoundly committed to their ideals. Their principles are as varied as their syrah, but there are some common strands woven into every rug in Anduz. What matters to these descendants of Guerra is not Virtue or doctrine. Most follow the seven Virtues of the Way, but they use Virtue to drive them to action, few of them see it as a goal in itself. There are precious few firebrands interested in encouraging [Ambition](../religion/Ambition.md) or building up [Pride](../religion/Pride.md). They appreciate [Wisdom](../religion/Wisdom.md), but they don't value it for its own sake. Some of them are likely blasphemers; it's hard to avoid the signs that more than a few firebrands are dedicated to [Freedom](../../mixed/magic/lore/Malign_spiritual_presences.md#anarchy) or worse, but they are not interested in spreading auras or dedicating others to a false virtue.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > ...the danger is not that they are committed to Freedom, though some undoubtedly are. But even they don't care about the malign aura of Freedom. What they care about is freedom, and for that they are willing to risk anything to achieve it.
+> >
+> > Anselm of the Broken Mill
+
+What drives them, what animates most of them is *politics*. There is no conformity - there are firebrand corsairs outraged by the Asavean and Jarmish practices of slavery who are convinced that the Senate should outlaw any contact with these people. But there are firebrand merchants furious at the decision of the Senate to damage their [Prosperity](../religion/Prosperity.md) by restricting their right to trade freely with anyone they meet. There are firebrand [kohan](../nations/the-brass-coast/Kohan.md) outraged at what they see as the failure of [Loyalty](../religion/Loyalty.md) by the [Military Council](../../mixed/government/military/Military_Council.md) to protect their lands from the Lasambrians and firebrand [hakima](../nations/the-brass-coast/Hakima.md) who think the Council should leave the nations of the West to their own [Vigilance](../religion/Vigilance.md) against the [Jotun](../barbarians/Jotun.md) while they concentrate their resources wiping out the wicked [Druj](../barbarians/Druj.md).
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > ...just imagine if our leaders had the same fire in their belly as the firebrands? Would a firebrand have allowed Feroz to fall? They would sooner burn it to the ground than see our home in Grendel chains. We will not rise until we put that passion in service to our nation.
+> >
+> > Aban i Darez i Guerra
+
+If the spirit of the firebrands could be harnessed by the nation without taming it, then it might serve the Brass Coast well. Many firebrands argue that the Coast has lost more than any other nation in recent times, with Feroz languishing under Grendel control for years and Madruga drowned in salt, an easy target for the Wreckers and the Asaveans. It is easy to blame events, but the firebrands blame the decisions of the Military Council and the Senate, arguing that is has been Imperial strategy to sacrifice the Coast to achieve victory elsewhere. [Emperor Ahraz](../religion/Emperor_Ahraz.md) was a firebrand and while he famously didn't put the Freeborn nation first, he definitely did put Freeborn priorities first. Some would claim that it was his refusal to compromise those priorities that ultimately brought him down.
+
+If the Highborn and Freeborn Assemblies had hoped to influence the burgeoning firebrand movement, then the peerless kinship has been an abject failure. The one thing the firebrands are *not*, is people looking for guidance. They are driven by a passionate commitment to their ideals, they believe that the Empire is deeply imperfect and they are certain that they know how to fix it. They are every bit as utopian as an [Urizeni](../nations/urizen/Urizen.md) [architect](../nations/urizen/Architect.md), and just as confident that they are right, but they cleave to their ideals with a fervour that is rarely matched anywhere in the Empire. Peerless kinship is subtle and powerful, and together the Highborn and Freeborn assemblies can achieve a lot; but it is helpless in the face of a group whose certainty and conviction armour them against any argument.
+
+Those who talk to the firebrands are at pains to stress there is no wickedness here, not even among those who likely bear false auras. They don't denigrate the Way, but they dislike the idea of being constrained by it. The risks that some see might never come to pass, at least not in the current generation. But sooner or later another Ahraz will emerge... and when that happens, they and their followers would throw caution to the fire in their desire to rid the Empire of wrongdoing. Nobody now denies that the first Freeborn Emperor [changed the Empire for the better](../../mixed/government/synod/The_Courage_of_Ahraz.md), but he [brought it to the brink of destruction to do it](../nations/imperial-orcs/The_Orc_Rebellion.md). That legacy is who the firebrands are and *nothing* will ever change that.
+
+*[Image: Most fires can be quenched, at least a little, by the application of water.](https://www.profounddecisions.co.uk/empire-wiki/File:Fire_on_Water.png)*
+
+## Cooling Off
+
+- **If the Burning Agora is built, the firebrands will be restored to prominence in Freeborn society**
+- **The Highborn could help build a bathhouse in Anduz to cool the spirits**
+
+The peerless kinship of the Highborn has shone a light on the views of the firebrands, but it can do nothing to change their nature. These are the heirs of Guerra, who led her people out of Highguard away from the corruption of the Patricians *and* the virtue of the chapters because she believed it was the right thing to do. Ahraz and his allies were the first to call themselves firebrands and whatever else he did, Ahraz is the only Throne in Imperial history to march on Anvil with a barbarian army at his back. It is the essential nature of a firebrand to be committed to their cause and there is little in this world that can shake them from it.
+
+Right now the Freeborn are equally committed. Building the City of Wonders means creating the Burning Agora and that means raising the profile of the firebrands and restoring them to prominence in Freeborn society. The influence of the firebrands died with Ahraz and the bitter divisions that his fall from the Throne wrought. Building the City of Wonders means building the Agora and that means welcoming the firebrands back into public life, for better or for worse. The only way to change that now would be to abandon the plans for the new city of Anduz and pursue a different course. Perhaps a strongly worded statement by the General Assembly or the Assembly of the Way might convince the Freeborn to jump ship, but failing that, the outcome is inexorable.
+
+Having talked with them at length, few people believe that the firebrands will be *"pushing the Way to excellence"*. They will undoubtedly try to push *the Empire* to excellence, but few firebrands would be content to restrict their discussions to matters of Virtue and the Way. Frustrated that they are unable to find more ways to help, the Highborn pilgrims who have come to Anduz search for something that *might* offer. There is no way to restrain the spirits of the firebrands, but might there be a way to cool their tempers?
+
+|  |
+| --- |
+| **The Anduz Pools** |
+| **Commission Type:** Sinecure |
+| **Location:** Anduz, Segura |
+| **Cost:** 12 white granite and 36 crowns |
+| **Time:** 1 season |
+| **Effect:** Creates the title Keeper of the Anduz Pools |
+| **Special:** Does not require one of the Senate's limited commissions |
+| **Availability:** Opportunity ends if not commissioned before the end of Summer Solstice 388YE |
+
+|  |
+| --- |
+| **Keeper of the Anduz Pools** |
+| **Type:** Freeborn |
+| **Appointment:** National Assembly |
+| **Powers:** Receives 7 doses of liao and 7 crowns each season |
+| **Responsibilities:** To oversee the pools and tend to the spiritual needs of those who visit them |
+
+*Felix of the Far Tower*, a modest chapterhouse dedicated to Prosperity and Ambition newly established in [Reikos](../nations/highguard/Reikos.md) includes a number of skilled engineers in their ranks. They propose to construct a bathhouse in Anduz, a traditional Highborn affair with steam rooms, heated baths and cold plunge pools. Somewhere to wash off the dust from the road, but also a place to relax and let the heat of the day drain out of you. It won't put out the fire but who knows what good it might do?
+
+The engineers are prepared to oversee the work, so it would not require one of the Senate's limited commissions provided it passed the Senate before the end of the coming Autumn Equinox. After that point, the engineers will have returned to Reikos and it will be too late. If it were built, the Freeborn National Assembly could the Keeper of the Anduz Pools each year. The Keeper would produce an income of 7 doses of liao and 7 crowns each season, from the grateful patrons of the pools.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > False virtues must be rejected in all their forms. They bring destruction to our lives, souls and homes. I reject these malign forces, the synod rejects these malign forces, and so should you.
+> >
+> > Emperor Vesna Borkovna Prochnost
+
+*[Image: Assembly Highborn.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Highborn.png)*
+
+## Participation: Highborn
+
+Any Highborn character can roleplay that they were part of the group the came to visit and debate with the firebrands. You must decide how you feel about this nascent movement, it is clear that their passion could serve the interests of the Brass Coast well, but the risks are apparent. The firebrands have no commitment to the Doctrines of the Way; they openly question the foundations of the faith and some propose radical changes that could split the Empire apart. They are largely unconcerned with consequences, if something is the right thing to do, then the firebrands believe it should be done and no matter if everything burns as a result. It is easy to enjoy the company of the firebrands, their passion and enthusiasm is infectious, but they are fixated on what could be and have little concerned for what might be lost to achieve it.
+
+In both cases, you will have come away with the impression that the Firebrands are a disparate group of passionate idealists, who are likely to have increasing influence and impact on the Brass Coast in the coming years. Ultimately, those who came expecting a cult of anarchists left disappointed, or pleased, as the case may be. The modern Firebrands are certainly open to discussing the spiritual force of [Freedom](../../mixed/magic/lore/Malign_spiritual_presences.md#anarchy), but they are more interested in discussing how the Empire might bring freedom to the world. There are many firebrands with novel takes on the seven true paths, their auras and the actual doctrines of the Synod, but in the end, most of them are actually more interested in the politics of the Empire than they are in matters of faith.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Ahraz shows us the necessity of Courage in facing wickedness and corruption not just in external foes to Humanity, but when it has become entrenched in our own societies ... Courage means to stand without quaking before evil, even when that evil is inside us and our allies.
+> >
+> > Isaac di Sarvos
+
+## OOC Design Note
+
+The firebrand is an archetype that ultimately anyone can play. We will add it to the wiki after the burning agora is finished, at which point Freeborn players can officially update their characters if they want to do so. The archetype is intended to appeal to players who enjoy political conflict, who like to play characters that cause trouble, whether that is to fight for a cause or just to set the world on fire and watch it burn. Firebrands will usually find it easy to rally popular support in the Brass Coast, but how much impact that has will be down to the players who choose to play firebrands. We are confident that the more players embrace the ethos of the firebrand - to try to change the world and damn the consequences, the greater impact they will have. Ultimately it will come down to how players portray the archetype, if indeed anyone chooses to do so, and how other players react to them. As such, it is almost entirely beyond the capacity of a wind of fortune to influence that in the slightest.
+
+---
+
+Categories: [388YE Summer](../../indexes/by-category/388YE_Summer.md), [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [Peerless Kinship](../../indexes/by-category/Peerless_Kinship.md)

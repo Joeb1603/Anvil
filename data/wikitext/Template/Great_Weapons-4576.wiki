@@ -1,0 +1,4 @@
+* '''Form:''' Weapon. Takes the form of a [[Weapons & armour#Great weapons|great weapon]]. You must be wielding this weapon to use its magical properties.
+* '''Requirement:'''  You must have the [[Combat skills#Weapon Master|Weapon Master]] skill to bond to this item.
+[[Category:Magic Items]]
+[[Category:Great Weapons]]

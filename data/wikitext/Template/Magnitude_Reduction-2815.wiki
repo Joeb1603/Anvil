@@ -1,0 +1,1 @@
+The ritualists may consume up to 20 {{{1}}} of {{{2}}} as part of the ritual. Every {{{3}}} consumed in this way reduces the magnitude of the ritual by 1.

@@ -1,0 +1,4 @@
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>{{KatieKF}}
+</nowiki>''

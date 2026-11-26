@@ -1,0 +1,33 @@
+==Rules==
+{{Season|Summer|32}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Group|up to five characters from the same banner}}
+
+{{enchantment}} 
+
+===Effects===
+This ritual targets up to five characters from the same [[Groups#Banners|banner]]. Each character may make a total of two [[calls]] each day. They can choose freely between [[Calls#CLEAVE|CLEAVE]] using any melee weapon save a pike; [[Calls#IMPALE|IMPALE]] using any great weapon; or [[Calls#STRIKEDOWN|STRIKEDOWN]] using any polearm. They must be able to wield the weapon (meaning they must have the [[Combat_skills#Weapon_Master|weapon master]] skill to make calls with a great weapon or polearm). When doing so they must also call out the names of their fallen in an inspiring speech for all around to hear.
+
+While under this enchantment the characters experience a roleplaying effect: ''you are reminded of those who have fallen in battle, especially family, friends, or battle comrades. Speaking their names, or shouting them as you fight, fills you with a sense of clarity, strength, and certainty.''
+
+{{Season Duration}}
+===Additional Targets===
+This ritual can affect additional characters from the same [[Groups#Banners|banner]]. Every additional character increases the magnitude by 6. Additional characters must be present throughout. 
+<div style="float:right; width: 500px; clear: left;">{{CaptionedImage|file=Tower of Reikos.png|align=right|caption=The ritual was created in memory of heroes of the Shattered Tower who fell in Reikos fighting the Druj.|width=500}}</div>
+<!-- I found it surprisingly challenging to find a group shot of the Shattered Tower in which Scott is not grinning inappropriately -->
+==Description==
+This ritual was based on work performed by the renowned Summer magician '''Brother Luke, Exarch of the Navigators'''. It was codified at the [[Master of Ice and Darkness#Icy Crag of the Eternal Sun|Icy Crag of the Eternal Sun]] by the [[Master of Ice and Darkness]] '''Alexander Tallstag''' shortly before the Autumn Equinox 387YE. The Crag had at that time just come under the patronage of [[Hayaak]]. The herald Ernreik had only recently moved into the nearby woodlands, and so was not involved in the codification, although he did comment that it seemed to be an acceptable enchantment before disappearing back into the woods again.  The ritual was created in memory of the Nine of the [[Highguard_groups#The_Shattered_Tower|Shattered Tower]] of [[Highguard]] who fell "fighting for the Empire, fighting for Reikos, fighting for their home." 
+
+The enchantment uses the power of speeches and wise words to move people and infuses them with magic. Certain words spoken by the recipients have a degree of otherworldly inspiration to them, filling them with strength, triumph and conviction. Those that are under this enchantment are encouraged to remember those that have fallen in the past, especially their friends and family and those who fell defending them or their home. Highborn are urged to remember the singing voices of their fallen siblings, Dawnish knights remember the great deeds of their fellows, orcs remember the call of their ancestors and so on.
+
+Those that remember, and call to others to remember, are infused with a powerful sensation of untapped strength and capability. It is as if, through remembering the dead, Summer magic takes up these memories and uses them to send power and inspiration coursing through those fighting. They are urged onwards, encouraged, filled with strength of untapped capability, a power and passion drawn from deep inside and lingering on inspiring memory. This strength can be used in one fell burst, able to call forth a heroic moment, pushed on by the [[Summer magic]] aiding the inspiring memories to allow one to fight and push harder one final time.
+
+There are comparatively few rituals in the Empire that are specifically designed to empower multiple individuals at a time. Like [[Splendid Panoply of Knighthood]], Remember the Fallen is woven in such a way that it enchants up to five warriors who are all comrades in arms – members of the same banner. The ritual is an example of an enchantment whose magnitude is quite high – due to the number of champions it targets – but has a significantly lower cost to add additional targets provided they are all members of the same banner.
+
+==Common Elements==
+The key theme of the enchantment is the remembrance and honouring of those who fell in battle. Any performance of the ritual is likely to involve the names of the dead, especially those who have special meaning for the targets themselves. Those who died fighting with them are the most resonant, as are any who fell fighting to defend places of importance. This element is more resonant the more personal it is.
+Individual nations have different ways to commemorate their fallen, or celebrate [[courage]] and [[loyalty]]. Tailoring the performance to the traditions and especially hearth magic of the recipients makes it easier to weave the magic required. [[Dawn_hearth_magic#Girding|Girding]] is very appropriate when this magic is used to empower warriors of [[Dawn]] for example.
+
+[[Dramaturgy]] rituals involving [[the Captain]], that take place in [[the Tomb]], resonate well with this enchantment. Evocations of paragons and exemplars of a heroic nature, the constellation of [[the Mountain]], of historical figures who fell in battle, and of creatures such as the [[Legendary beasts#Unicorn|unicorn]] and the [[Legendary beasts#Yale|yale]] are also ideal accompaniments to the magic of Remember the Fallen.
+[[Category:Summer Ritual]]
+[[Category:Rituals]]

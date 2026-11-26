@@ -1,0 +1,58 @@
+[[Category:Title]][[Category:Foreign Nations]][[Category:Senate]][[Category:Ambassador]]
+<div style="display:inline-block; float: left; width: 400px">{{CaptionedImage|file=Mina6596.jpg|caption='''Mina i Yashum i Riqueza''', Ambassador to Faraden|align=left|width=400}}</div>
+==Overview==
+The Ambassador to Faraden is an [[Imperial title]]. It is an Imperial position appointed by the [[Senate]]. The Faraden embassy lies in [[Segura#Anduz|Anduz]], in western [[Segura]], while the Imperial embassy to Faraden is incoporated into a suite of rooms and offices at the Palace of the Five Winds - the heart of Faraden government and culture.
+
+Relations between the Empire and Faraden have always been a little tense, primarily due to disagreements around religion. In recent years, with the ascension of the pro-Imperial Tchinua Ganbatar as Liege of Five Winds, they have improved significantly. Faraden is a mercantile nation, which trades extensively with its larger neighbour to the east. Despite depressingly regular upsets - mostly related to the Faraden practice of [[Malign spiritual presences#Vengeance|Vengeance]] - this trade remains reasonably consistent. Recent years have seen additional tension as a result of [[Asavean Archipelago|Asavean]] attempts to interfere in Faraden, but for the moment the western nation seems more inclined towards the Empire than its many rivals.
+
+Prior to the Winter Solstice 387YE, the Ambassador was able to purchase goods from merchants and those seeking favour. This was changed, along with the rest of the ambassadors, when the Senate voted to [[387YE_Winter_Solstice_Senate_sessions#Amend_Imperial_Embassies|amend]] the embassies to end the practice, removing mercantile support and the upkeep costs at the same time.
+==Responsibilities==
+The [[ambassador]]  is expected to represent the Empire in relations with the people of [[Faraden]]. They have all the responsibilities [[Ambassador#Responsibilities|common]] to an Imperial ambassador. As such they are responsible for representing the Empire to Faraden, and to a degree vice versa. They are presented as the primary contact for any official Imperial business relating to the western nation, so their letters carry much greater weight and importance than anyone bar [[the Throne]]. They are expected to conduct or oversee any [[Ambassador#Treaty|treaty negotiations]] with Faraden, and receive official [[Ambassador#Delegation|delegations]]. The [[civil service]] will direct representatives and citizens of the foreign power to the ambassador wherever appropriate.
+==Powers==
+{{Diplomacy|nation=[[Faraden]]|port=[[Foreign ports#Caitun|Caitun]]|ambassador=Mina i Yashum i Riqueza of [[the Brass Coast]]|status=Foreigner|counterpart=[[Ambassador to Faraden#Faraden Ambassador|Mistress Singua Karadragha]]}}
+===Imperial Ambassador===
+The title has all the [[Ambassador#Powers|common powers]] of an ambassador: they can receive a formal [[Ambassador#Delegation|delegation]], and may prepare a [[Ambassador#Treaty|treaty]].
+===Stipend===
+The Ambassador receives a [[Imperial_treasury#Stipends|stipend]] of four thrones each season
+
+==Appointment==
+The Ambassador to Faraden is an Imperial position [[Appointments_by_the_Senate#Imperial_Position|appointed by the Senate]]. Any Imperial citizen can hold this title, and the ambassador serves for a year. They can be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Ambassador_to_Faraden}}
+==Ambassadorial Lore==
+===Faraden Embassy===
+The Faraden embassy is found in [[Segura#Anduz|Anduz]], in [[Segura]]. [[Construct_Faraden_embassy|Proposed]] before the [[Senate]] in Winter 378YE, it was completed shortly after the Summer Solstice 379YE. The founding of an official [[embassy]] was contingent on the liberation of [[Segura]], and the repair of the [[Segura#The Towers of Anduz|Towers of Anduz]]. Without these two achievements, the Empire had no ability to protect trade routes (and avenues for diplomatic envoys) through [[Reinos]]. Ironically, barely three years after completion of the embassy (shortly before the Winter Solstice 382YE), Anduz was conquered by the Lasambrian [[Jotun]]. The embassy was in their hands until Anduz was retaken shortly before Spring Equinox two years later. 
+
+Providing an official residence for Faraden representatives, the structure is a fine example of Faraden architecture; sturdy, but beautiful, surrounded by a formally laid out garden mixing plants common to both the Empire and the western hills. In many ways, its design is similar to that of the [[Segura_spoils_of_war#Kabalai_Palace|Kabalai Palace]], but on a grander scale. 
+
+The Imperial embassy to Faraden is part of the Palace of the Five Winds in Faraden, and is apparently quite luxurious. It is seen as a plum posting by many civil servants. 
+{{WingedMessenger|address=Mistress Singua Karadragha, Advisor on Imperial Trade to the Liege of the Five Winds, The Court of the Five Winds, Faraden}}
+===Faraden Ambassador===
+The Faraden ambassador to the Empire is ''Mistress Singua Karadragha''. Mistress Singua advises the Court of the Five Winds on all diplomatic matters, and speaks on their behalf to foreign ambassadors. Her attitude to the Empire appears to be cool but professional, and heavily informed by the wishes of the Liege and their court, who seek more opportunities to trade with the Empire.
+===Ambassadorial Briefing===
+As discussed in the 388YE Autumn Equinox wind of fortune '''[[So_little_I_wanted,_so_little_I_got#Ambassadorial_Briefings|So little I wanted, so little I got]]''', the [[civil service]] have recently reinstituted Ambassadorial briefings. At least in the short term, the civil service have resumed furnishing Imperial ambassadors ''who are supported by [[embassy]] staff'' with individual briefings where necessary and appropriate. To maintain transparency and preserve continuity, the briefings are made available to those who wish to review them ''after'' the summit where they are delivered, in a similar way to which [[historical research]] is made public. Only those elements of a briefing that are specifically personal to the ambassador may be removed, and only where they are clearly not of interest to the Empire. At the end of the year, this procedure will be reviewed again, to ensure that it is fit for purpose.
+* [[388YE Autumn Faraden ambassador briefing]]
+
+{{Faraden Links}}
+<!-- 
+==Archive Stuff==
+The Faraden do not have much in the way of forest resource, so they are often willing to trade for weirwood and especially the iridescent gloaming that they use to make their richest dyes. In return they trade the fruits of their western mines (especially orichalcum and weltsilver). 
+
+12+15+12+9 = 48 points
+36 + 45 + 36 + 27 = 144 points
+60 + 75+60+45 = 240 points
+
+Top level is usually the sum of the middle level + (2x) the bottom level
+
+<div style="display:inline-block; float: left; width: 350px">{{CaptionedImage|file=RicardoDiTasetto.jpg|title=The Ambassador to Faraden represents the Empire in dealings with the Faraden. Quick wits and a sincere manner prove valuable qualities when dealing with ambassadors from that notoriously touchy western nation.|caption=Ricardo Almieda Desmondo di Tasetto (R) was appointed the first Ambassador to Faraden in Autumn 379YE.|align=left|width=400}}</div>
+
+===Faraden Merchants===
+<table style="width: 500px; float: right; clear: right; margin: 10px;"><tr><th style="background-color: LightBlue;">Total Money Spent</th><th style="background-color: LightBlue;">Production</th></tr>
+<tr><td>8 Crowns</td><td>4 True Vervain, 2 Imperial Roseweald, 5 Weltsilver, 3 Orichalcum, 2 Tempest Jade, 2 Green Iron</td></tr>
+<tr><td>30 Crowns</td><td>12 True Vervain, 6 Imperial Roseweald, 15 Weltsilver, 9 Orichalcum, 6 Tempest Jade, 6 Green Iron</td></tr>
+<tr><td>60 Crowns</td><td>20 True Vervain, 10 Imperial Roseweald, 25 Weltsilver, 15 Orichalcum, 10 Tempest Jade, 10 Green Iron</td></tr>
+</table>
+The [[embassy]] in Segura means that the ambassador enjoys the benefits of [[Ambassador#Mercantile_Support|mercantile support]] from traders keen to curry their favour. As a [[ministry]], this allows them to purchase quantities of special materials at a set price. The ambassador spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+The production of the ministry is related to the operation of the [[Segura#The Towers of Anduz|Towers of Anduz]] in [[Segura]].
+
+Following the [[Ratify Liberty Pact|imposition]] of [[Tariffs#Sanctions|sanctions]] on trade with [[Faraden]] in Winter 382YE the cost to benefit from the [[ministry]] increased by roughly a fifth. During the Autumn Equinox 384YE the Imperial Senate [[384YE_Autumn_Equinox_Senate_sessions#Ratify_Faraden_Treaty|ratified a treaty]] with the Faraden that saw the Faraden returned to a [[Tariffs#Mercantilist|mercantilist]] trading standards.-->

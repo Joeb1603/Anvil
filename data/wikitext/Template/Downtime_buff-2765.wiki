@@ -1,0 +1,1 @@
+If the owner of the resource does not attend the next event, then the ''additional'' production provided by the resource is still added to that character's inventory.

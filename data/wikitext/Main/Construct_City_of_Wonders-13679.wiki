@@ -1,0 +1,38 @@
+[[Category:Senate Motion]][[Category:388YE Spring]]
+__NOTOC__
+<quote by="Announced by Firesong Arachas, Legion Engineer">The Legion Engineer will follow the example of Dust, Glass, and Flame and construct the city of wonders in Anduzjasse, Segura. This is an edifice that costs 50 white granite, 35 weirwood, 5 mithril, 30 ilium, 270 crowns and takes six months. It requires a foundational piece of artwork and will provide wealth, adventure and the novelty of new ideas
+</quote>
+==Overview==
+<div style="float:right; width: 300px; clear: left;">
+[[File:City of Wonders.jpg|City of Wonders.jpg]]</div>
+* Constructs an [[edifice]] in Anduzjasse, Segura, as per the '''[[On_the_road_ahead#City_of_Wonders|On the road ahead]]''' wind of fortune
+* Announcement by the [[Legion Engineer]]
+* This announcement received support from citizens of the Brass Coast through a [[388YE_Spring_Equinox_Synod_judgements#Judgement_58|mandate]] enacted by '''Ignacio i Zuhri i Erigo''' following the Spring Equinox 388YE
+* This announcement received support from citizens of the Brass Coast through a [[388YE_Spring_Equinox_Synod_judgements#Judgement_65|mandate]] enacted by '''Isario i Riqueza''' following the Spring Equinox 388YE
+* This announcement received support from citizens of the Brass Coast through a [[388YE_Spring_Equinox_Synod_judgements#Judgement_108|mandate]] enacted by '''Val''' following the Spring Equinox 388YE
+* A piece of art was provided by the [[Cat's Graces]], created by '''Karrak'''
+
+==Date==
+* Spring 388YE
+
+==Cost==
+* Costs as per opportunity
+* 50 wains of white granite
+* 35 wains of weirwood
+* 5 wains of mithril
+* 30 rings of ilium
+* 270 crowns in labour costs
+* Six months to construct
+
+==Progress==
+{{CommissionProgress|Construct_City_of_Wonders}}
+==Outcome==
+Once complete, the edifice have the following effects:
+* Creates the Burning Agora, a torchlit public space dedicated to the passionate exchange of ideas
+* Erects a new propylaeum on the south side of the city
+* Restores the Market of a Thousand Sails to its former glory
+* Enchants the Fountain of Wonders at the centre of the city
+* Creates a new Freeborn archetype, the Firebrand
+* Creates a new Freeborn archetype, the Hawker
+* Creates a new Freeborn archetype, the Trailblazer
+* Changes the fate of Anduz, to become the City of Wonders

@@ -1,0 +1,73 @@
+<row-fluid> 
+
+<span4>
+== [[The Brass Coast]] ==
+{{ThreeColIconImage|file=BrassCoastNation.png|link=The Brass Coast}}
+The rolling pampas breeds a people driven by a hunger for life. Never be afraid to speak your mind, be bold and adventurous and take joy in life and the wealth that daring brings. [[The Brass Coast|more...]]
+</span4>
+
+<span4>
+== [[Dawn]] ==
+{{ThreeColIconImage|file=DawnNation.png|link=Dawn|}}
+Land of knights, war-wizards and yeofolk, where nobility comes from a proud spirit not a fortunate birth. Live for glory, die for love and seek immortality in the tales of the troubadour-priests. [[Dawn|more...]]
+</span4>
+
+<span4>
+== [[Highguard]] ==
+{{ThreeColIconImage|file=HighguardNation.png|link=Highguard}}
+The birthplace of the Imperial Faith and the First Empress, where virtue drives action in pursuit of the highest goals. Rise to the challenge and lead the Empire towards its manifest destiny. [[Highguard|more...]]
+</span4>
+</row-fluid>
+
+<row-fluid>
+<span4>
+== [[Imperial Orcs]] ==
+{{ThreeColIconImage|file=ImperialOrcNation.png|link=Imperial Orcs}}
+With land for the first time in history and a burning drive to rise above the legacy of the past. Grasp your opportunity and carve out a future for your legion, for your people and for your Empire. [[Imperial Orcs|more...]]
+</span4>
+
+<span4>
+== [[The League]] ==
+{{ThreeColIconImage|file=LeagueNation.png|link=The League}}
+People find their true home in the cities, ruled by the ruthless servants of the Empire. Turn every situation to your advantage, and remember that wealth is just a means to an end. [[The League|more...]]
+</span4>
+
+<span4>
+== [[The Marches]] ==
+{{ThreeColIconImage|file=MarchesNation.png|link=The Marches}}
+Stubborn as stone, the Marches are the guts of the Empire. Nature is their servant, bound with looming menhirs and iron ploughshares, a hound tamed and set to lie before their doors. [[The Marches|more...]]
+</span4>
+
+</row-fluid>
+
+<row-fluid>
+<span4>
+== [[Navarr]] ==
+{{ThreeColIconImage|file=NavarrNation.png|link=Navarr}}
+The fierce Navarr travel the Empire binding its people together and watching everywhere for signs of danger. Scions of an ancient line, they have lost one empire - they will not lose another. [[Navarr|more...]]
+</span4>
+
+<span4>
+== [[Urizen]] ==
+{{ThreeColIconImage|file=UrizenNation.png|link=Urizen}}
+High mountains grant unmatched perspective and let the wise see what should, what can, what ''must'' be done. Wield reason and magic in the pursuit of excellence and the perfect world. [[Urizen|more...]]
+</span4>
+
+<span4>
+== [[Varushka]] ==
+{{ThreeColIconImage|file=VarushkaNation.png|link=Varushka}}
+A rich land of dark tales and darker beasts where the past lies uneasy in its grave. Stake your claim to the wealth beneath the hills, but always be prepared to make the hardest choices. [[Varushka|more...]]
+</span4>
+
+</row-fluid>
+
+<row-fluid>
+<span4>
+== [[Wintermark]] ==
+{{ThreeColIconImage|file=WintermarkNation.png|link=Wintermark}}
+A harsh and unforgiving land, home to warriors, mystics and hunters. Stand fast against the cold, strong in body and spirit, and choose to live and die as a glorious hero. [[Wintermark|more...]]
+</span4>
+</row-fluid>
+
+[[Category:Nations]]
+<!--fix-->

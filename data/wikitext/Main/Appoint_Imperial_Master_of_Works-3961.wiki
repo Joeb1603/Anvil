@@ -1,0 +1,22 @@
+<ic>Approve Richard Tunstall of the Marches as the Imperial Master of Works.<br><br>''Procedural Motion.''</ic>
+
+===Overview===
+* First appointment of the [[Imperial Master of Works]].
+
+===Date===
+* Winter 377YE
+
+===Constitution===
+The Imperial Master of Works is normally appointed during the Autumn Equinox, but the position was vacant. It will be appointed again at the Autumn Equinox 377YE.
+
+===Voting===
+{| class="wikitable"
+|-
+! State !! Votes Against !! Votes For !! Result
+|-
+| Appoint Richard Tunstall. || 0 || 25 || Passed
+|}
+
+[[Category:Senate Motion]]
+[[Category: 377YE Winter]]
+__NOTOC__

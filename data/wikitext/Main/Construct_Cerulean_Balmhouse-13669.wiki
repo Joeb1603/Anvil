@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:388YE Spring]]
+__NOTOC__
+<quote by="Proposed: Kahraman, Seconded: Zenith">A commission for the building of the Cerulean Balmhouse; a fully funded herb sinecure in the Fontargenta region of Feroz. This position will be elected by the Freeborn National Assembly and have tenure. This commission comes with the request for aid from the Sumaah Republic as part of ongoing co-operation
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in Fontargenta, Feroz. This motion calls on the aid of the Sumaah Republic from the '''[[Forging_links#One_Link_at_a_Time|Forging links]]''' wind of fortune
+* Passed
+
+==Date==
+* Spring 388YE
+
+==Cost==
+* Standard costs apply
+* 20 wains of weirwood
+* 20 crowns in labour costs (reduced by the [[Region_qualities#Impoverished|impoverished]] nature of Fontargenta)
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Cerulean_Balmhouse}}
+==Outcome==
+* Now complete, the [[Herb Tender of the Cerulean Balmhouse]] will be appointed by the Freeborn Assembly for the first time at the Summer Solstice 388YE

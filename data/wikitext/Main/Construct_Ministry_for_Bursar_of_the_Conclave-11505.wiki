@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Announced by Aleksandr Zoravich Novosad, Arcane Architect">To improve the Bursar of the Conclave's ministry to allow them to purchase crystal mana at standard costs. It will cost 12 wains of mithril and 36 crowns and will be constructed in Moresvah, Karsk.</quote>
+==Overview==
+*  Improves the [[ministry]] of the [[Bursar of the Conclave]] 
+* Announcement by the [[Arcane Architect]]
+==Date==
+* Winter 385YE
+==Cost==
+* Standard costs apply
+* 12 wains of mithril
+* 36 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Improve_Bursar_of_the_Conclave%27s_Ministry}}
+==Outcome==
+* Now that work on the ministry is complete, the Bursar of the Conclave is able to purchase mana crystals at the [[Ministry#20_Wains|standard costs]]

@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Autumn]]
+__NOTOC__
+<quote by="Announced by Edmund Forster, Bearer of an Imperial Wayleave">As the holder of an Imperial Wayleave, this is to announce the construction of the Hartford Brewery. This money sinecure will be appointed by Marcher senators and the position held in tenure. This sinecure will be built in Hartford (Stockmarch, Upwold). Name of Sinecure: Hartford Brewery. Title of Holder: Hartford Brewmaster. Type of Sinecure: Money producing sinecure of 16 wains. Election: Tenure, appointed by Marcher senators.</quote>
+==Overview==
+* Constructs a sinecure in Stock March, [[Upwold]]
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+==Date==
+* Autumn 386YE
+==Cost==
+* Standard costs apply
+* 16 white granite
+* 48 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Hartford_Brewery}}
+==Outcome==
+* Now complete, the [[Hartford Brewmaster]] will be available to appoint for the first time at the Summer Solstice 387YE by the senators of the Marches

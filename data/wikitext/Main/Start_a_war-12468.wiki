@@ -1,0 +1,263 @@
+[[Category:Winds of Fortune]][[Category:386YE Winter]][[Category:Recent History]]
+<ic>
+"Check." Her voice was calm but firm, belying the excitement she felt. She rarely got the upper-hand at the table and she was rather enjoying this.
+
+Percivel eyed the board warily, studying it. He contemplated tipping his throne, he'd been losing steadily for the last ten minutes and he was running out of ideas faster than he was running out of pieces. 
+
+"I see you're wearing a gryphon." he said to Yvaine. He desperately needed time to come up with a gambit. If he got her talking then she wouldn't press him for his move. "You support Archavion then?" he asked.
+
+The lady leaned back in her chair and fingered the material of her houppelande on either side of the silver brooch. The hawkers were peddling similar pieces at the fayre, two for a ring. This one was sterling silver and had cost considerably more than that. "Yes of course!" she responded. "He's served Dawn well. He deserves our Loyalty. "
+
+Percivel kept his head down studying the board but he glanced up as he responded. "Not everyone agrees" he said still playing for the time.
+
+"Since when did everyone in the Empire agree on anything?" Yvaine retorted, fired up now. "People want to save the Rahvin... it's laudable, but we don't have that luxury. The Druj have just murdered two armies in Therunin! That's what happens when we take the pressure off them for a second. We ''need'' the Barrens, we ''need'' that mithril. Building up our armies is the fastest way to defeat the Druj once and for all."
+
+Percivel sat up, the board forgotten for a moment. The passion of her response had surprised him. Yvaine's great love was music and dance. She ''hated'' politics, it was why she'd never tried for earl, even though everyone in the House adored her. "The Assembly said we should liberate their slaves - that we could defeat them that way?" he suggested. He was no unicorn but this was a new side of his old friend and he wanted to see more of it.
+
+"Fuck the Assembly!" she said grinning as he laughed at her outburst. "Look - the generals should set out strategy - not the troubadours. They conquered the Barrens and they would have defeated the Druj too by now if the Assembly had left well alone."
+
+"I don't know Yvaine," he said shaking his head. He'd been baiting her before but now he was genuinely feeling conflicted. "We've been fighting the Druj centuries, maybe it was past time we tried something new? There's more paths that lead to glory than there are stars in the sky." he said quoting the old Dawnish aphorism. "Maybe diplomacy and deals are a better way to beat the Druj rather than sword and spell?"
+
+"Maybe," his opponent said reluctantly, "But one thing is for certain. We can't go to war with the orcs and try to make allies of them at the same time. That is never going to work. Maybe you're right and either strategy ''could'' have given us victory but it has to be one or the other. We can't do both at the same time."
+
+There was certainly no arguing with that, so Percivel returned his gaze to the board. He'd gained a few extra minutes, for all the good it was going to do him. He reached out and pushed his piece over. Hopefully it wasn't an omen.
+</ic>
+<div style="float:left; width: 400px; clear: right;">{{CaptionedImage|file=Sea_Stack_by_Breigeo.jpg|caption=The Fangs are a mithril mine still marked by the cruelty that seems to taint everything the Druj touch.|align=right|width=400}}</div>
+{{PDFLink|align=right|link=File:Start a war.pdf|caption=Click for pdf version}}
+==Overview==
+As the dust settles [[By_northern_shores|over the dramatic events in the Barrens]], people begin to take stock of what has happened. The extraordinary events are unprecedented; in almost four hundred years of Imperial history, there has never been a situation quite like this. The magistrates have indicated that they will investigate the [[General|General]] of the [[Gryphon's Pride|Gryphon's Pride]] and those who supported the army's nighttime assault on the [[Not_to_conquer#Rahvin|Rahvin]]. [[The Throne]] has [[I_am_easy_to_find|very publicly denounced]] the general, and the [[By_northern_shores#Participation|legal situation looks dire]]. 
+
+Meanwhile, the wheels of state roll on. [[The Barrens#The Fangs|The Fangs]] are now in Imperial possession. They can now be [[Powers_of_the_Imperial_Senate#Allocation|allocated]], either as a national position for Dawn appointed by [[Tally of the Votes]], or an Imperial position chosen by [[Auction of the Seats]]. The civil service is making the relevant preparations, deliberately blind to the intense drama surrounding the fate of the Empire's newest [[mithril]] mine. They have also produced an [[Senate_motion#Administrative_Motions|administrative motion]] for the [[Senate]] to consider potential responses to events such as these in the future, should they ever happen again.
+
+The attack has polarised views across Dawn, setting houses - even siblings - against each other. There are many who support '''General Archavion Wolfborne''' and argue that he has put his life on the line for Dawn. Others oppose the attack, criticising the latest in a line of atrocities that have taken place since Dawn was given stewardship of [[the Barrens]].
+
+==The Disposal of the Fangs==
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightGreen;">'''The Fangs'''</tr>
+<tr><td>'''Type:''' Dawnish or Imperial</td></tr>
+<tr><td>'''Appointment:''' Tally of the Votes or Auction of the Seats</td></tr>
+<tr><td>'''Powers:''' Receives 16 wains of mithril each season</td></tr>
+<tr><td>'''Ukeep:''' 20 thrones per season</td></tr>
+<tr><td>'''Responsibilities:''' To oversee the Fangs and keep those who work here safe</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Rebuild the Fangs'''</tr>
+<tr><td>'''Commission Type:''' None</td></tr>
+<tr><td>'''Location:''' Bitter Strand, The Barrens</td></tr>
+<tr><td>'''Cost:''' 300 thrones, 6 months</td></tr>
+<tr><td>'''Effect:''' 
+* Increases production to 32 wains of mithril 
+* Decreases upkeep to 10 thrones a season</td></tr>
+</table>
+</div>
+* '''The Fangs can be allocated to Dawn or made an Imperial Bourse seat'''
+* '''The civil service will raise an administrative motion for the seat's allocation at 21:00 on Saturday'''
+* '''At present, the Fangs can produce sixteen wains of mithril each season and have an upkeep of 20 thrones a season'''
+* '''The mines could be significantly upgraded to double production and halve running costs'''
+* '''There are arms and armour equivalent to nineteen wains of mithril in the mine that could be put towards raising an army'''
+* '''The Military Council chooses what to do with the mithril arms and armour'''
+
+[[The_Barrens#The_Fangs|The Fangs]], the mithril mine on the edge of the Barren Sea, is now in Imperial hands. The "mine" is actually a series of thirteen rocks that emerge from the water, the biggest of which is several hundred feet high. Rope bridges connect them, one rock to another, and the last to the mainland. Traversing one of the bridges requires a feat of [[Courage]] in bad weather, as storm winds lash them and the sea below churns.
+
+There are grim signs of the [[Druj|Druj's]] legacy here - the Fangs are more than just a mine. Played out chambers served as cells where those forced to slave in the mines could be kept when not at work. The Rahvin have been trying to rebuild the mines and to fortify them in the process. This location might have served as the basis for a powerful [[The_war_of_thorns_and_flowers#All_Along_the_Watchtower|citadel]], but the Rahvin had no access to the [[white granite]] that such a fortress would require.
+
+The Druj are long gone, and now the Rahvin too have been forced to flee. Their tools lie abandoned, along with indisputable evidence of their industry. It appears that the Gryphon's Pride attack came as the Rahvin were attempting to [[Army#Senate_Commissions|muster an army]]. What they could, they took with them when they fled, but there is mithril which has been shaped and worked, ready to be turned into weapons and armour to equip an army. It is too late to use it for anything else now, but there are the equivalent of nineteen wains of mithril here, which could be used to [[Army#Resupply|resupply]] an army or even contribute toward arming a new one. The mithril is part of the extraordinary spoils of war, its disposition is now a matter for the [[Military Council]].
+
+The mines themselves are in a poor state. Those familiar with the state of the [[Vale of the Sunless Depths|Sunless Depths]] in [[Ossium]] when they were claimed recognise the cruelty of Druj rule. The mines are poorly constructed; tight, narrow passages with little to shore them up. Only the truly desperate would choose to work these mines, or those given no choice in the matter. The poor state of repairs limits the mine's productivity - it will produce only sixteen wains of mithril each season as it stands. And it will cost twice as much to run - twenty thrones a season would be needed to pay people to work in these conditions.
+
+The civil service is confident that a major investment in the mine could overhaul them, to bring them up to the standards of Imperial mines. It would be expensive, it would cost three hundred thrones and take six months to complete, during which time the mine would not be operational (and would have no upkeep). Once the work was complete, the output would double and the upkeep would halve.
+
+The mines cannot be used until they are [[Powers_of_the_Imperial_Senate#Allocation|allocated by the Imperial Senate]]. They could be allocated as national, meaning they would be owned by Dawn and elected by [[Tally of the Votes]], allocated Imperial and assigned by [[Auction of the Seats]], or the motion could be rejected. Any other means of disposal would require a senator to raise an appropriate [[Senate motion]].
+
+==The Retreat of the Rahvin==
+* '''The Rahvin have fled to the Carmine Fields with the aid of Irra Harah'''
+* '''There is a conjunction at midnight on Friday that would allow those Imperial heroes who helped the Rahvin flee to meet with the orcs'''
+* '''The Rahvin are determined to retake the Fangs soon, they have a military strength of around five hundred'''
+With the help of the Empire, the Rahvin have fled west to the [[The Barrens#Carmine Fields|Carmine Fields]]. As soon as they reach the Fields they encounter a herald called ''Fleon'' who claims to be a child of the ''[[Irra_Harah|Prince with a Thousand Foes]]''. ''Papa Otec'' has a long-standing interest in the Barrens and it seems he has taken a personal interest in helping the Rahvin escape. Fleon guides the surviving Rahvin, and their Imperial allies, to a set of caves near the border with Holberg and assures them that they will be safe there for as long as they remain within. The orcs have been suspicious and mistrusting of all offers of help from the Empire, but is clear that they know and trust ''Shackle Smasher''.
+<div style="float: right; clear: right; margin-left: 10px; max-width: 500px; width: 40%;">
+<table class='wikitable mw-collapsed mw-collapsible sortable'><caption>Supported the Rahvin</caption><tr><th>Military Unit</th><th>Nation</th><th>Banner</th></tr>
+<tr><td>	Líovani í Erigo	</td><td>	The Brass Coast	</td><td>	Flames of the Coast	</td></tr>
+<tr><td>	Francisco I Cervantes-Alvera I Riqueza	</td><td>	The Brass Coast	</td><td>	The Seaglass Tide	</td></tr>
+<tr><td>	Reynard of house De Gauvain	</td><td>	Dawn	</td><td>	Winged Lions	</td></tr>
+<tr><td>	Percival Summerstrong	</td><td>	Dawn	</td><td>		</td></tr>
+<tr><td>	Siegfriede	</td><td>	Dawn	</td><td>	House Fawnwood	</td></tr>
+<tr><td>	Jarrigk Orzel	</td><td>	Dawn	</td><td>	Order of the Wolf and Sun	</td></tr>
+<tr><td>	Tristan du Lac	</td><td>	Dawn	</td><td>	House duLac	</td></tr>
+<tr><td>	Willow	</td><td>	Dawn	</td><td>	House Cordraco	</td></tr>
+<tr><td>	Sabine Fawnwood	</td><td>	Dawn	</td><td>	House Fawnwood	</td></tr>
+<tr><td>	Alexander Tallstag	</td><td>	Dawn	</td><td>	Order of Crimson Circle	</td></tr>
+<tr><td>	Don Tonberry	</td><td>	Dawn	</td><td>	House Tonberry	</td></tr>
+<tr><td>	D'Eon	</td><td>	Dawn	</td><td>	Anvil Lance	</td></tr>
+<tr><td>	Éamon Ashenmourn de Cordraco	</td><td>	Dawn	</td><td>	House Cordraco	</td></tr>
+<tr><td>	Matthias the Returned	</td><td>	Dawn	</td><td>	Emerald Lance	</td></tr>
+<tr><td>	Lord Commander Leohnar Gildaryn	</td><td>	Dawn	</td><td>	Knights of the Golden Mane	</td></tr>
+<tr><td>	Veridan Silva	</td><td>	Dawn	</td><td>	House Tallstag	</td></tr>
+<tr><td>	Percival Tallstag	</td><td>	Dawn	</td><td>	House Tallstag	</td></tr>
+<tr><td>	Duncan Weaver	</td><td>	Dawn	</td><td>	House Goldvein	</td></tr>
+<tr><td>	Lady Ione Castellan	</td><td>	Dawn	</td><td>	Amber Lance	</td></tr>
+<tr><td>	Reynard Forester	</td><td>	Dawn	</td><td>		</td></tr>
+<tr><td>	Valour de Gauvain	</td><td>	Dawn	</td><td>		</td></tr>
+<tr><td>	Perfidious	</td><td>	Dawn	</td><td>		</td></tr>
+<tr><td>	Arlen Foreman-Smith	</td><td>	Dawn	</td><td>	House Tallstag	</td></tr>
+<tr><td>	Marguerite	</td><td>	Dawn	</td><td>		</td></tr>
+<tr><td>	Faith Fellborn	</td><td>	Dawn	</td><td>		</td></tr>
+<tr><td>	Aneira Cadwalon	</td><td>	Dawn	</td><td>	Amber Lance	</td></tr>
+<tr><td>	Jared Embar	</td><td>	Dawn	</td><td>		</td></tr>
+<tr><td>	Mirella of the Twisted Rose	</td><td>	Dawn	</td><td>	Amber Lance	</td></tr>
+<tr><td>	Ser Guy of the Twisted Rose	</td><td>	Dawn	</td><td>	Amber Lance	</td></tr>
+<tr><td>	Lord Edmund the Enchanter of House Torawyr	</td><td>	Dawn	</td><td>	Amber Lance	</td></tr>
+<tr><td>	Ser Drayvana of Lucentia	</td><td>	Dawn	</td><td>	House Lucentia	</td></tr>
+<tr><td>	Lady Soleil-Jolie de Castellan	</td><td>	Dawn	</td><td>	Amber Lance	</td></tr>
+<tr><td>	Bertrand Gardener	</td><td>	Dawn	</td><td>	Amber Lance	</td></tr>
+<tr><td>	Flexi Yevgeny	</td><td>	Highguard	</td><td>	Saker Chapter	</td></tr>
+<tr><td>	Barachel of Adina's Charge	</td><td>	Highguard	</td><td>	Daintree Survivors	</td></tr>
+<tr><td>	Zachariah	</td><td>	Highguard	</td><td>		</td></tr>
+<tr><td>	Achseh	</td><td>	Highguard	</td><td>	The Sentinels Tower	</td></tr>
+<tr><td>	Silus	</td><td>	Highguard	</td><td>	The Sentinels Tower	</td></tr>
+<tr><td>	Melkior of Balthazar’s Vineyard	</td><td>	Highguard	</td><td>		</td></tr>
+<tr><td>	Solomon	</td><td>	Highguard	</td><td>	Shattered Tower Banner	</td></tr>
+<tr><td>	Unbroken Nezzak	</td><td>	Imperial Orcs	</td><td>	The Unbroken Legion	</td></tr>
+<tr><td>	Sand Viper Ikk	</td><td>	Imperial Orcs	</td><td>	Sand Vipers	</td></tr>
+<tr><td>	Gaddak	</td><td>	Imperial Orcs	</td><td>		</td></tr>
+<tr><td>	Udoo	</td><td>	Imperial Orcs	</td><td>	Bloodcrows	</td></tr>
+<tr><td>	Ashborn Trosk	</td><td>	Imperial Orcs	</td><td>	Ashborn	</td></tr>
+<tr><td>	Bloodcrow Kren	</td><td>	Imperial Orcs	</td><td>	Bloodcrows	</td></tr>
+<tr><td>	Brog	</td><td>	Imperial Orcs	</td><td>		</td></tr>
+<tr><td>	Protectorate Thenrik	</td><td>	Imperial Orcs	</td><td>	Legion Protectorate	</td></tr>
+<tr><td>	Skywise Karrak	</td><td>	Imperial Orcs	</td><td>	Skywise	</td></tr>
+<tr><td>	Vana	</td><td>	Imperial Orcs	</td><td>	Ashborn	</td></tr>
+<tr><td>	Bloodcrow Na'grul	</td><td>	Imperial Orcs	</td><td>	Bloodcrows	</td></tr>
+<tr><td>	Skod	</td><td>	Imperial Orcs	</td><td>		</td></tr>
+<tr><td>	Frith	</td><td>	Imperial Orcs	</td><td>		</td></tr>
+<tr><td>	Bloodcrow Gol	</td><td>	Imperial Orcs	</td><td>	Bloodcrows	</td></tr>
+<tr><td>	Flamineo Lodovico Barossa	</td><td>	The League	</td><td>	Company of The Red Fox	</td></tr>
+<tr><td>	Gabriel Barossa	</td><td>	The League	</td><td>	Company of The Red Fox	</td></tr>
+<tr><td>	Merlof Von Temeschwar	</td><td>	The League	</td><td>	Crimson Reaper Cartel	</td></tr>
+<tr><td>	Conrad Der Wildhuter	</td><td>	The League	</td><td>	Holsburger Haudegen	</td></tr>
+<tr><td>	Karoly van Temeschwar	</td><td>	The League	</td><td>		</td></tr>
+<tr><td>	Shauni di Vergo	</td><td>	The League	</td><td>	Carta di Vergo	</td></tr>
+<tr><td>	Finch Hawthorne	</td><td>	The Marches	</td><td>	Hartell Household	</td></tr>
+<tr><td>	Alfred Houtman Fella	</td><td>	The Marches	</td><td>	Hartell Household	</td></tr>
+<tr><td>	Edmund Forster	</td><td>	The Marches	</td><td>	Hartell Household	</td></tr>
+<tr><td>	Logan Lonestrider	</td><td>	Navarr	</td><td>		</td></tr>
+<tr><td>	Kale	</td><td>	Navarr	</td><td>	The Thornborn of Entwined Paths	</td></tr>
+<tr><td>	Coeden Oaktear	</td><td>	Navarr	</td><td>	Deadfall	</td></tr>
+<tr><td>	Meirion Scattered Step	</td><td>	Navarr	</td><td>		</td></tr>
+<tr><td>	Keelia Scorched Pine	</td><td>	Navarr	</td><td>	The Barbed-Eye	</td></tr>
+<tr><td>	Cledwyn Rose River	</td><td>	Navarr	</td><td>		</td></tr>
+<tr><td>	Towlen	</td><td>	Navarr	</td><td>	Deadfall	</td></tr>
+<tr><td>	Artur Winterbuilt	</td><td>	Navarr	</td><td>	The Winter-Built Steading	</td></tr>
+<tr><td>	Corwyn Silvercloud	</td><td>	Navarr	</td><td>		</td></tr>
+<tr><td>	Derwyn Sparrowflight	</td><td>	Navarr	</td><td>		</td></tr>
+<tr><td>	Hugh Ravenspire	</td><td>	Urizen	</td><td>		</td></tr>
+<tr><td>	Quintus	</td><td>	Urizen	</td><td>		</td></tr>
+<tr><td>	Nero Southshore	</td><td>	Urizen	</td><td>		</td></tr>
+<tr><td>	Arus Glowmain	</td><td>	Urizen	</td><td>	The Wise Citadel	</td></tr>
+<tr><td>	Skandavitz Iskander Kastrioti	</td><td>	Varushka	</td><td>	Vale of Yarizov	</td></tr>
+<tr><td>	Vojsuli Cherenkov	</td><td>	Varushka	</td><td>	Cherenkov Outpost	</td></tr>
+<tr><td>	Doubravka Nadjaovna Vanek-Vessely	</td><td>	Varushka	</td><td>	Vale of Kvyat	</td></tr>
+<tr><td>	Fania Vessely-Vanek	</td><td>	Varushka	</td><td>	Vale of Kvyat	</td></tr>
+<tr><td>	Ostrik Vulpe	</td><td>	Varushka	</td><td>	The Fox Fangs of Vaslyuk	</td></tr>
+<tr><td>	Yuri Mirkovich Vasiliev	</td><td>	Varushka	</td><td>	The Fox Fangs of Vaslyuk	</td></tr>
+<tr><td>	Sasha Dragonivich Pretchniva	</td><td>	Varushka	</td><td>		</td></tr>
+<tr><td>	Jaromir Ostrovyn Kostka	</td><td>	Varushka	</td><td>	Wardens of the Grateful Hearth	</td></tr>
+<tr><td>	Sławomir Rabovich Bolotstrazh	</td><td>	Varushka	</td><td>		</td></tr>
+<tr><td>	Romand Reinetova Remislav	</td><td>	Varushka	</td><td>		</td></tr>
+<tr><td>	Twig' Milos Durenovich Brekhunova	</td><td>	Varushka	</td><td>		</td></tr>
+<tr><td>	Dindrane Matushkova	</td><td>	Varushka	</td><td>		</td></tr>
+<tr><td>	Rane Shardbearer	</td><td>	Wintermark	</td><td>	Sigehold Hall	</td></tr>
+<tr><td>	Guthelm Fleetfoot	</td><td>	Wintermark	</td><td>	Ursus	</td></tr>
+<tr><td>	Bronn Dunwolf	</td><td>	Wintermark	</td><td>	Dunhearth Hall	</td></tr>
+<tr><td>	Leif Dreambinder	</td><td>	Wintermark	</td><td>	Sussivari Oathsworn Fyrd	</td></tr>
+<tr><td>	Theodric	</td><td>	Wintermark	</td><td>		</td></tr>
+<tr><td>	Atte Arrow-Tongue Metsastajason	</td><td>	Wintermark	</td><td>	Sussivari Oathsworn Fyrd	</td></tr>
+<tr><td>	Kaisa Denmother	</td><td>	Wintermark	</td><td>	Fellowship of the Broken Willow	</td></tr>
+<tr><td>	Asch-Fortae Shalder the Wise Reviver	</td><td>	Wintermark	</td><td>	Stormspire	</td></tr>
+<tr><td>	Adamah	</td><td>	Highguard</td><td>	</td></tr>
+</table></div>
+The last thing the Rahvin say to the citizens who helped them escape is that their plan is to retake the Fangs - and to make the attempt immediately. The Rahvin are absolutely clear that they are going to attack the Fangs as soon as the Winter Solstice has passed. If they die making the attempt, then they will stand shoulder to shoulder with Rahvin on the other side of the [[Imperial_Orcs_religious_beliefs#The_Howling_Abyss|Abyss]]. They do not fear that outcome, and they cannot be persuaded to delay. All arguments that time will bring a better outcome produce nothing but cynicism. The Empire makes many promises and many demands, they say, but Rahvin makes only one. Fight for your freedom no matter how high the cost, and you will cross over the Abyss.
+
+The civil service estimates that the total military strength of the Rahvin is, at best, equal to five hundred Imperial soldiers. Given the presence of a large Imperial fortification in the area, the outlook for the Rahvin is dire. If the Empire does ''nothing'' then the Rahvin are doomed. They will attack the Fangs, the garrison of [[The_Barrens#Houndsgate|Houndsgate]] will intercept the attack, and the Rahvin will be finished. Those that are not killed in the fighting will not survive the winter.
+
+Imperial military procedures require the garrison to defend the Fangs unless the Senate has ceded the Fangs to the Rahvin. If that doesn't happen, then the Rahvin are finished. They will attack, the garrison will move to stop the attack, and that will be the end of them.
+
+If the Empire decides to let them reclaim their home, then they won't need any aid. If the Empire decides to stop them, then there is no power in this world that can save them.
+===Meeting in the Dark===
+<div style="float:right; width: 500px; clear: right;"><box>'''Conjunction Details'''<br>This is a [[Accessibility#Combat_Unlikely_or_Contained|combat unlikely]] encounter, which will involve some walking and there'll be little availability of seating or lighting that players don't bring themselves. There will be a referee on the other side of the gate who will check if a character supported the action - that is assigned their military unit and (is on the list included here). Anyone who didn't will be unable to find the meeting and can roleplay being lost in the woods for as long as they like before returning to Anvil.</box></div>
+* '''There is a conjunction to ''Blackwood Copse'' at 00:05 on Friday
+* '''A meeting with one of the Rahvin leaders has been arranged under the auspices of Irra Harah'''
+* '''Heralds have made it clear that only those who supported the Rahvin in their fight against the Gryphon's Pride are welcome'''
+* '''Anyone who did not take the downtime action to support the Rahvin with a military unit will become lost in the woods if they pass through the Sentinel Gate'''
+The Rahvin are too exhausted to discuss the situation further, but ''Papa Otec'' is determined to provide further help. Fleon tells the citizens who have gone with the Rahvin that servants of ''The Golden Hare'' at Anvil have found a conjunction of the [[Sentinel Gate]] to ''Blackwood Copse'' in the Carmine Fields at midnight on Friday at the coming summit. If those Imperial citizens who moved to support the Rahvin - and ''only'' those citizens - wish to discuss the situation further, then Fleon will guide one of the leaders of the Rahvin to Blackwood Copse to meet with them. They insist that only those who supported the Rahvin - the ninety-eight citizens who came to help them escape - may attend. Fleon is very clear that ''Shackle Smasher'' does not trust the Empire not to make another attempt to kill the orcs. Anyone who tries to visit the copse will be misdirected and unable to find the meeting.
+<div style="float:right; width: 300px; clear: left;">{{CaptionedImage|file=Silver-Gold_Griffin_Supporter_(Heraldry).png|caption=The Gryphons support the actions of General Archavion.|align=right|width=300}}</div>
+
+==The Fate of the Gryphons==
+* '''Support for the attack on the Rahvin is strongest in the Barrens'''
+* '''Some Dawnish have taken to wearing a symbol of the gryphon in a show of support for the general'''
+* '''The Gryphons would like to see the Rahvin declared barbarians'''
+The people of Dawn have dreamed of conquering the Barrens since before the Empire began. The defeat of the remaining Druj in the last year has been the conclusion of a military campaign that has taken centuries to achieve. Few Dawnish knights are particularly concerned with the Fangs, they leave such matters to their [[Yeofolk of Dawn|yeofolk]] to arrange. For those who do pay attention to such things, [[seneschal|seneschals]], and those rare [[earl|earls]] concerned with the nation's [[Prosperity]], it has not escaped their attention that, having finally triumphed over their enemies, they have been denied the spoils of war. The [[weirwood]] groves in the [[The Barrens#The_Barrens#Heart_of_Peytaht|Heart of Peytaht]] have gone to [[Navarr|Navarr's]] stalwart allies, the [[Great Forest Orcs]]. 
+
+And the Senate appeared content to let the Rahvin squat in the Fangs for as long as they wanted, indeed it passed [[386YE_Spring_Equinox_Senate_sessions#Ratify_Treaty_with_the_Rahvin|a treaty]] that would have [[Powers_of_the_Imperial_Senate#Concedence|ceded]] land to the ''sept'', stopped at the last moment by the [[The Throne#Power of Veto|veto]] of '''[[Empress Vesna]]'''. Dawnish blood was spilt in a river to conquer the Barrens, and then at the end... the prizes they had fought for were awarded to others. More than a few point to the example of [[Holberg]] - a territory that should have been Dawnish by right, but went to [[the League]]. What General Archavion did was refuse to allow the sordid politics of Anvil to soil Dawn's glorious triumph in the Barrens. He refused to let the pettiness and lack of vision get in the way of Dawn's virtuous [[Ambition]].
+
+More importantly... the Gryphon's Pride have finished what the [[Hounds of Glory]] started - they have removed the last of Dawn's enemies from the Barrens. The Karass have accepted the rule of the Dawnish with humility - the Great Forest Orcs understand how utterly hopeless their position is, now that all their allies have been broken. It is clear that the Rahvin sept was raising an army, and Archavion moved to crush them before they could attack the Empire. The general has done everything that [[Vigilance]] demanded; he sought out the poison in the fields of the Barrens, and he tore it out.
+
+Emperor Vesna has disavowed the general now, but it was barely a year ago that they were declaring that Dawnish rule in the Barrens was eternal and claiming that the Empire would be ''"the thunder that strikes fear into the hearts of our enemies."'' And besides, Emperor Vesna is ''not'' the [[Dawn_monarchy|monarch of Dawn]]. They might sit on the Throne, but they have no claim on Dawnish hearts. The general might have disobeyed the Throne, but his Loyalty to Dawn is unquestionable, his supporters say - Archavion knows his heart and what commands it.
+
+Some of those who support Archavion have taken to wearing a [[Legendary_beasts#Gryphon|Gryphon]] emblem somewhere on their person - a token of their gratitude for his Ambition, [[Loyalty]], and Vigilance. They understand that he faces trial for his actions, and it is unlikely that he will survive. They understand that his enemies will rally against him to denounce him. And they imagine that the general probably knew all this too and, yet he gave the orders anyway...
+
+What could ''possibly'' be more [[glory|glorious]] than that?
+
+The Gryphons would like to see the Rahvin [[Powers_of_the_Imperial_Senate#Declaration_of_War|declared barbarians]] by the Imperial Senate [[The_Throne#Declaration_of_War|or the Throne]]. While that won't officially affect the legal status of any trial of the General of the Gryphons Pride and those who supported him, it would send a clear signal to the magistrates that the Empire considered the attack to be in the interests of the Empire, and they entertain the dim hope that it might influence the magistrates when they are passing sentence on Archavion and his supporters.
+<div style="float:right; width: 300px; clear: left;">{{CaptionedImage|file=Unicorn Supporter (Heraldry).png|caption=The Unicorns want a reconciliation with the Rahvin.|align=right|width=300}}</div>
+
+==The Song of the Unicorns==
+{{SOP|statement=Pride exalts and uplifts those who have been laid low by the wicked; we come to the Barrens not to conquer, but to liberate and restore those who have been trod underfoot by the Druj. We send Ser Dindrane with 50 doses of liao to urge Dawnish citizens not to settle beyond Dawnguard, but to rather put their words, steel, and coin to the cause of protecting and aiding the many inhabitants of the Barrens who have thrown off the yoke of the Buruk Tepel.|by=Ser Dindrane, Dawn Assembly|vote=Greater Majority 233-46|when=Summer Solstice 385YE}}
+* '''Opposition to the attack on the Rahvin is strongest in Weirwater'''
+* '''Some Dawnish have taken to wearing a symbol of a unicorn to show their outrage at the attack'''
+* '''The Unicorns want the Fangs ceded to the Rahvin'''
+Support for the Dawnish general might have been higher, were it not for the actions of the Dawnish Assembly. The Assembly have spent years encouraging the armies to hold back, spreading a vision not of conquest but of liberation. The Synod talked of freeing people from the cruel tyranny of the Druj and, together with the [[Highguard|Highborn]] armies, they seemed to be set on a crusade to bring freedom to the Barrens. The clear, consistent voice with which the Assembly has spoken for many years has slowly but surely moved hearts and minds.
+
+The bloodshed that has followed Dawn's victory in the Barrens has left a sour taste in the mouths of those who believed in the Assembly's dream. And now the Gryphon's Pride have gone, ''under cover of darkness'', to slaughter the Rahvin. What glory is there in an attack the enemy doesn't see coming? A hero of Dawn would at least have blown the trumpets to call their enemy to the battlefield!
+
+They refuse to believe that this attack was warranted and point to [[I_am_easy_to_find|the latest words of the Throne]] to support their claim. It is true that the Throne promised the Barrens to Dawn, but in that same speech they declared that ''"We will act in virtue to all who inhabit the Barrens and extend the hand of friendship to those who wish to live amongst our citizens..."'' 
+
+The crusade to liberate the Barrens was supposed to be the key to destroying the Druj. Freeing the orcs of the Barrens from the rule of the Druj would spread a message that would sound throughout [[the Mallum]]. Slavery is the eastern orcs Achilles' Heel; if the Empire could convince the Druj slaves to rise up, the enemy would quickly fall.
+
+Instead, the opposite has happened. The Druj have spread news of the Empire's [[Ripples_and_shadows#Hope's_Rest|massacres of the Montanians]] to every human in their lands. Members of the Black Wind have fled into Druj lands bearing tales of the [[Ripples_and_shadows#Black_Wind|horrific murders]] committed by the [[Iron Helms]]. Orcs that dreamed of breaking free of the rule of the Druj have been lectured on the fate that [[Ripples_and_shadows#Saltmarsh_Redux|befell the Vendarri]]. The Druj may decimate those who oppose them, but the Empire murders ''everyone'', they are told. It is hard to imagine how the Empire's reputation with the subjects of the Druj might recover from this, but the only possible hope is find an accommodation with the Rahvin. If they were to die, then any hope of freeing the slaves of the Mallum dies with them. The Druj will already fight the Empire to the bitter end, but the very people who should welcome Imperial armies as a force of liberation will fight beside them convinced that only death or a different form of slavery awaits them.
+
+Some of those who oppose the attack on the Rahvin have taken to wearing an emblem of a [[Legendary_beasts#Unicorn|unicorn]] somewhere on their person - a promise to protect the innocent and come to the aid of those who have been wronged. The Rahvin refused to bow their heads to the Druj, even though they knew it would mean destruction; they didn't flee like the orcs of Peytaht, and they didn't join their enemy like the Black Wind, refused to abandon their belief in a united Barrens. Whatever else they did they showed [[Courage]], [[Loyalty]], and [[Ambition]]. Those wearing the unicorn call for peace in the Barrens, alliance with the Rahvin, and remind their fellow Dawnish that the harps and lutes of the troubadour are every bit as glorious as the sword and shield of a knight. 
+
+Peace with the Rahvin looks impossible now - but that only makes it all the ''more'' glorious to try!
+
+The Unicorns would like to see the Fangs ceded to the Rahvin, rather than being made Imperial or national. The Montanians are dead, the Black Wind united against the Empire by hatred, but there might yet be time to save the Rahvin.
+
+==The Rules of War==
+* '''The Houndsgate was powerless to prevent the Imperial attack on the Fangs due to the unprecedented nature of the assault'''
+* '''The Imperial civil service has prepared an administrative motion for consideration by the Empire that will remove the uncertainty'''
+
+When news came that the general of the Gryphon's Pride had issued orders to attack the Rahvin at the Fangs, the garrison at [[The_Barrens#Houndsgate|Houndsgate]] was unable to decide how to respond. If a barbarian or foreign army were to attack any region in the Barrens that was under Imperial control, then the garrison would do their best to mount a defence. But there are no existing rules on how to respond if an Imperial army attacks an Imperial territory. Technically, an attack is an attack, but mounting a defence would mean killing soldiers following orders legitimately issued by an Imperial general.
+
+This particular situation has never happened in the nearly four hundred years of Imperial history, but despite this, the civil service is absolutely ''desperate'' to ensure that it is able to respond promptly and correctly, should it ever happen again. To that end, they have prepared the following Senate motion, which the [[Speaker for the Senate]] has agreed to raise as an administrative motion on the evening [[Senate session]] on Saturday.
+
+<quote by="Administrative  Senate Motion">Fortifications must mount the most effective defence possible of the land under their control, regardless of the source of the attack.</quote>
+
+If this Senate motion passes, then in an identical situation in the future, the fortification would move to oppose the attack on the Rahvin. Any Imperial heroes commanding military units could support the fortification as normal.
+
+If this Senate motion fails (or is vetoed), then the civil service will take that as an indication that the Senate does not want Imperial fortifications to oppose attacks from Imperial armies, and they will update the guidance provided to garrison commanders accordingly. In an identical situation in the future, the fortification would provide no resistance to an attack against the Rahvin, and it would not be possible for ''any'' Imperial heroes commanding military units to intervene.
+
+The [[Scrutiny#Constitutional Court|Constitutional Court]] have indicated that it is '''not''' possible to update Imperial law to command fortifications to defend against attacks by Imperial armies against Imperial citizens, but to ignore attacks by Imperial armies on foreigners. Foreigners are entitled to the full protection of Imperial law and so could not be made the legitimate subject of an attack in this way.
+
+==Participation==
+* '''Players are encouraged to adopt the gryphon or the unicorn if it reflects their character's beliefs'''
+* '''Everyone is reminded to abide by the conduct rules when discussing events in the Barrens'''
+The gryphon and the unicorn factions presented here are intended to encourage player characters to consider embracing one symbol or the other to show their opinion on the Barrens. Obviously it's short notice in terms of acquiring emblems of these [[Aspect_magic#Heraldic_Magic|heraldic beasts]], but the terms are also intended to be used to quickly sum up in-character opinions. It's not our intention to put non-player characters on the field at [[Anvil]] to embody these positions, but rather to help player characters identify others who share their opinions. It is also entirely appropriate ''not'' to pick one of these sides if your character has no strong opinions about the Rahvin, the Fangs, or the Barrens either way.
+
+The use of the two symbols does not need to be exclusive to Dawn; it's equally appropriate for characters from other nations with an interest in this situation to use the language and icons of the two factions in their own discussions.
+
+As laid out in the wind of war, it's also important for everyone to remember our conduct rules when discussing this contentious subject. You can find our earlier note, which remains relevant, on the '''[[By_northern_shores#OOC_Note|By northern shores]]''' wind of war.
+
+==Resolution==
+Archavion Wolfborne and those who supported the Gryphon's Pride in the attack on the Fangs were sentenced to death. The Senate voted to [[386YE_Winter_Solstice_Senate_sessions#Cede_Bitter_Strand_to_the_Rahvin|cede the Bitter Strand]] to the Rahvin. A veto was subsequently [[386YE_Winter_Solstice_Synod_judgements#Judgement_209|raised]] in the Dawnish Assembly but was not upheld.
+
+==Further Reading==
+* [[Hard to find]] - 386YE Winter wind of fortune about other things going on in the Barrens
+* [[By northern shores]] - 386YE Autumn Wind of War about the fight in the Barrens

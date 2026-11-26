@@ -1,0 +1,38 @@
+==Overview==
+The Reeve of Boar's Market is an [[Imperial title]] awarded to a citizen of [[Dawn]]. The Boar's Hollow Market-fayre was [[Construct_Boar%27s_Market|commissioned]] by the Imperial Senate during the Autumn Equinox 384YE following a [[Good_old_smooth_red_wine#Boar.27s_Market|opportunity]] created by the [[Prosperity|Prosperous]] citizens of the Empire.
+
+==Responsibilities==
+The Reeve of Boar's Market is responsible for working with the seneschals and retainers of Dawn's noble houses, and working to ensure the prosperity of the nation by helping them to get their hands on [[weirwood]], [[white granite]], [[mithril]], and even [[ilium]]. If the market-fayre were to be threatened, it would be the responsibility of the Reeve to face those threats; likewise should any [[opportunity]] related to the market-fayre arise they would decide how to respond.
+
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''White Granite'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>45 crowns</td><td>2 wains of white granite</td></tr>
+<tr><td>100 crowns</td><td>4 wains of white granite</td></tr>
+<tr><td>165 crowns</td><td>6 wains of white granite</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Mithril'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>46 crowns</td><td>2 wains of mithril</td></tr>
+<tr><td>102 crowns</td><td>4 wains of mithril</td></tr>
+<tr><td>170 crowns</td><td>6 wains of mithril</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Weirwood'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>40 crowns</td><td>2 wains of weirwood</td></tr>
+<tr><td>90 crowns</td><td>4 wains of weirwood</td></tr>
+<tr><td>150 crowns</td><td>6 wains of weirwood</td></tr>
+<tr><td>220 crowns</td><td>8 wains of weirwood</td></tr>
+<tr><td>300 crowns</td><td>10 wains of weirwood</td></tr>
+</table></div>
+==Powers==
+===Ministry===
+As a [[ministry]], the title of Reeve of Boar's Market allows the holder to purchase quantities of special materials at a set price. The Reeve makes their decision on how much to spend during downtime from their character page. Resources are removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+Unlike a standard ministry, the Reeve of Boar's Market deals with a number of different groups of traders from across the [[Northern trade network]] .  As such, the Reeve has not one but ''three'' streams from which they can purchase material. The Reeve can spend differing amounts on each stream - for example, they could spend 40 crowns on 2 wains of weirwood, 102 crowns on 4 wains of mithril, and 165 crowns on 6 wains of white granite.
+<div style="float:right; width: 500px; clear: right;"><box><big>'''Suitability'''</big><br>The Reeve of the Boar's Market is intended to be held by a [[Yeofolk of Dawn|yeofolk]], the task of haggling over coins and wains is unsuitable for a noble. If the title is held by a character who is a noble, or they become one during their tenure, then the player must email admin@profounddecisions.co.uk to let us reduce the production of the ministry.</box></div>
+==Appointment==
+This title is appointed during the Autumn Equinox. The Reeve of Boar's Market is appointed by citizens of Dawn who control a [[military unit]] [[Resource|personal resource]]. The larger the military unit an individual has the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Dawnish citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+
+{{RecentElections|Reeve_of_Boar%27s_Market}}
+{{Responsibilities Expectation}}
+[[Category:Dawn]][[Category:Bourse]][[Category:Title]]

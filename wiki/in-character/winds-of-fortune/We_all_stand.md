@@ -1,0 +1,333 @@
+---
+title: We all stand
+source: https://www.profounddecisions.co.uk/empire-wiki/We_all_stand
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 386YE Autumn
+- Recent History
+- Mandate
+event: 386YE Autumn
+last_edited: '2026-10-08T11:31:11Z'
+revision: 146101
+in_character_boxes: 13
+---
+
+# We all stand
+
+> *In-character text:*
+>
+> Not for the first time, Mazzar Tulk cursed herself for believing the old orc. They'd met in some nowhere town in the foothills quite by chance, and initially she had been very sceptical. Hallbran had pointed out, however, that this might not actually be a chance meeting but one driven by the forces of synchronicity wriggling and weaving through the whole of Mareave as Summer aged into Autumn. If that was the case then the enchantment obviously thought they had something in common. That last had prompted an enjoyable discussion about the motive force behind this kind of effect, and an argument about whether it was possible to use magic to detect if a meeting was due to an enchantment or not. It'd also lead her to seek the fellow out the next day and take him up on his offer.
+>
+> Now, in return for a handful of crowns, her guide was apparently taking her to "an impressive herb garden better than anything in your Empire." Having lived her entire life in Ossium and Skarsind, Mazzar Tulk had not been prepared for the heat, and the dust, and the sheer *monotony* of their trip. She drank another mouthful of water turned brackish by the warm weather, and splashed a little on her face.
+>
+> "Not far now," said the old orc. Her guide didn't bother to conceal his amusement, and she resented how little the heat seemed to be effecting him. She couldn't see anything to indicate they were approaching a garden - the bleached grasses stretched in all directions as far as she could see, the only landmarks the mountains to the north and east, the dark horizon to the west. She wondered again about the faded old tattoos on his wrinkled weather beaten face. Snorri said they marked him as having once served with the Kraken's Jaws, and she wondered again if this was a trap, if he was leading her into an ambush. She tightened her grip on her staff.
+>
+> Then, without warning, the land ahead fell away. She realised she was stood on the lip of a shallow depression, nearly a mile across, spotted with what she initially took to be large pools of water. She let out an unexpected noise of surprise, and then a moment later did it again as she realised it wasn't *water* she was looking at - which would have been a valuable fine by itself - but *flowers*. Fields of beautiful blue flowers, with what looked a lot like peculiar butterflies fluttering in the still, thick air above them. Half a dozen orcs in broad-brimmed hats paused at their work, to glance up at the pair of them outlined against the sky above them, then went back to tending the delicate blooms.
+>
+> The guide was pleased with her response, gestured for her to follow him, and started down the steep-sloped side of the bowl.
+
+*[Image: The Imperial Orcs are slowly strengthening their control of Mareave with the aid of their fellow Imperial citizens.](https://www.profounddecisions.co.uk/empire-wiki/File:Slow_Motion_Walk.jpg)*
+
+*[Image: Click for pdf version](https://www.profounddecisions.co.uk/empire-wiki/File:We_all_stand.pdf)*
+
+## Overview
+
+While Eilian Sweetwater has been busy performing their [appraisal](../appraisals/Appraisal.md) (as detailed in the **[Here to stay](Here_to_stay.md)** wind of fortune), he is far from the only person exploring [Mareave](../nations/imperial-orcs/Mareave.md) in the last season. [Magicians](../../out-of-character/rules/Magical_skills.md#magician) from the [Golden Pyramid](../../mixed/government/conclave/Golden_Pyramid.md) [conclave order](../../mixed/government/conclave/Conclave_order.md) are enthusiastically seeking out [opportunities](../../out-of-character/game-design/Opportunity.md) to build the [Prosperity](../religion/Prosperity.md) of the arid land, both for the [Imperial Orcs](../nations/imperial-orcs/Imperial_Orcs.md) and (hopefully) for themselves. [Orcs](../../mixed/world/Orc.md) from the [Tamazi](../nations/imperial-orcs/Tamazi.md) sept heed the words of their national assembly, looking for ways they can use their expertise in stonecraft or magic to help secure the newest Imperial territory. At the same time, there are discussions in [the Brass Coast](../nations/the-brass-coast/The_Brass_Coast.md) and [the Marches](../nations/the-marches/The_Marches.md) about how to help make the dry plains bloom, and to the north a chance meeting between [the League](../nations/the-league/The_League.md), and [Urizen](../nations/urizen/Urizen.md) gives rise to an [Ambitious](../religion/Ambition.md) plan to deal with the challenges represented by Mareave's comparative disconnection from the rest of the Empire.
+
+## Serendipity
+
+- **An Imperial enchantment has both helped uncover opportunities, and stored up trouble for the future**
+
+As mentioned in the **[Here to stay](Here_to_stay.md#bonds-and-bargains)** wind of fortune, this season Mareave is under the influence of [Autumn magic](../../out-of-character/rules/Autumn_magic.md). The enchantment is subtle, but noticeable by any [magician](../../out-of-character/rules/Magical_skills.md#magician) capable of casting the [detect magic](../../out-of-character/rules/Detect_magic.md) spell. Nudging coincidence and weaving serendipity, it brings people together with other people who share their attitudes and opinions, making it easier for them to make new friends.
+
+Like all such magic, however, its influence is entirely indiscriminate and unpredictable. As well as helping Imperial citizens to make contact with local inhabitants, it also hinders efforts to strengthen the Imperial hold over Mareave. People hostile or resistant to the Imperial Orcs presence find it as easy to meet each other as - say - [Autumn magicians in the inns of Beoraidh](#black-sand-circle).
+
+## Auric and Blue
+
+- **The magicians of the Golden Pyramid continue working in Mareave**
+- **The order gains 10 random ingots, 7 crystal mana, and 7 doses of cerulean mazzarine each season for the duration**
+
+*[Image: OrderGoldenPyramid.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:OrderGoldenPyramid.jpg)*
+
+At the [urging](../conclave-sessions/386YE_Spring_Equinox_Conclave_sessions.md#concord-direct-golden-pyramid) of [Grandmaster](../../mixed/titles/Grandmaster.md) **Arsenio Sanguineo Rezia di Tassato**, the [Golden Pyramid](../../mixed/government/conclave/Golden_Pyramid.md) descended on Mareave after the Spring Equinox, eager to explore and find opportunities to bolster the prosperity of the territory (and perhaps the [Conclave order](../../mixed/government/conclave/Conclave_order.md) as well). Last season they uncovered [several opportunities](Digging_for_fire.md); a [unique](Digging_for_fire.md#the-bronze-bowls-of-the-three-seasons) source of [vis](../../out-of-character/rules/Vis.md); a [roster of mines](Digging_for_fire.md#precious-mines) ripe for exploitation; an excellent location for a [grand lodge](Digging_for_fire.md#a-place-to-lodge) to grant numerous benefits to the order itself. With much of the new territory unexplored by Imperials, and indications that the [Grendel](../barbarians/Grendel.md) focus on the sea meant that the eastern mountains were largely unknown even by the local residents, Arsenio chose to urge the order to [continue to explore](../conclave-sessions/386YE_Summer_Solstice_Conclave_sessions.md#concord-exploring-mareave) for the next year. The [Conclave](../../mixed/government/conclave/Conclave.md) agreed, and [magicians](../../out-of-character/rules/Magical_skills.md#magician) of the Conclave continue to flock to the south-east.
+
+The benefits to the Order itself are not insignificant; each season until the end of the Summer Solstice 387YE will receive 10 [random ingots](../../out-of-character/rules/Materials.md#metals), 7 crystal mana, and 7 doses of [Cerulean Mazzarine](../../out-of-character/rules/Cerulean_Mazzarine.md) into the [Conclave vault](../../mixed/government/conclave/Conclave_vault.md), to be distributed as the Grandmaster sees fit. This represents finds donated by individual members, and gifts from residents of Mareave (Imperial or otherwise) who are grateful for the aid of the Pyramid magicians.
+
+This last season has seen Golden Pyramid magicians working with the [Prognosticator's Office](../appraisals/Appraisal.md#the-prognosticators-office) to support [Eilian Sweetwater](../appraisals/Appraisal.md#eilian-sweetwater) in their [appraisal](../appraisals/Appraisal.md) of the [orcs](../../mixed/world/Orc.md) in the southern [regions](../../out-of-character/rules/Territory.md#regions) (as detailed in the **[Here to stay](Here_to_stay.md)** wind of fortune). Several members, especially Imperial Orcs magicians aligned with the order, have been helping or participating in the [Tamazi](../nations/imperial-orcs/Tamazi.md) sept exploration of the arid territory.
+
+### Beoraidh
+
+- **Golden Pyramid magicians are actively pursuing opportunities in Beoraidh**
+- **So far negotiations have not achieved anything concrete but they remain optimistic**
+
+The Golden Pyramid has also been continuing to explore [Beoraidh](../nations/imperial-orcs/Mareave.md#beoraidh), which surely represents a gold mine of opportunities for those members of the 'Pyramid more interested in trade than valuable resources. In the wake of the [treaty with the former Salt Lord](../senate-sessions/386YE_Spring_Equinox_Senate_sessions.md#amend-treaty-with-beoraidh), there is certainly appetite for trade with the Empire, but there's caution on both side about formalizing it in case something goes wrong and sinks the treaty. One matter of note is that the former Salt Lord's offer to purchase [dragonbone](../../out-of-character/rules/Materials.md#dragonbone) is still open (as detailed in last season's **[Set my lands in order](Set_my_lands_in_order.md#trade-goods)** wind of fortune).
+
+*Xavier of the Spire of the Astral Torrent* and several fellow [Urizen](../nations/urizen/Urizen.md) [architects](../nations/urizen/Architect.md) of the 'Pyramid continue to explore options. There is apparently a great deal of interest in rumours of the *Greater Apulian Way* proposed in [Spiral](../nations/the-league/Spiral.md) - the traders and merchants of Beoraidh can see the advantage of a secure land route into the Empire or even just as far as [Apulian](../nations/the-league/Spiral.md#apulian). Several members of the Pyramid - a mixture of [Freeborn](../nations/the-brass-coast/The_Brass_Coast.md), [League](../nations/the-league/The_League.md), and [Highborn](../nations/highguard/Highguard.md) - are pursuing access to the docks of Beoraidh but the discussions are bogged down by frankly ridiculous [tariffs](../../mixed/government/senate/Tariffs.md). Given the amount the former Salt Lord is paying to the Empire in "rent" there's no way they can turn away Imperial traders with such unreasonable practices, but so far negotiations are at a deadlock.
+
+*[Image: Mannun Amahuz , the leader of the Circle of Black Sand in Beoraidh, leads a coven of Sand wizards . They are keen to hear from the Grandmaster of the Golden Pyramid or the Celestial Arch about trade in magical rituals and a Winged Messenger can be sent to them at Execution Hill, Beoraidh, Mareave .](https://www.profounddecisions.co.uk/empire-wiki/File:WingedMessenger.png)*
+
+### Black Sand Circle
+
+- **The Golden Pyramid has made contact with the wizards of the Black Sand Circle**
+- **They wish to purchase the *Gift of the Wily Broker* ritual and offer an enchantment of their own in exchange**
+- **The leaders of the coven is interested in hearing from Golden Pyramid magicians who might help them pursue their ambitions**
+
+One area of success in Beoraidh is that some of the Golden Pyramid have made cautious contact with their magical peers among the former Grendel. This includes some members of the group previously known as the [Circle of Black Sand](Pebbles_drawn_from_a_heap.md#the-circle-of-black-sand). Having split from those members who chose to join [the League](../nations/the-league/The_League.md) in Apulian, they now call themselves the *Black Sand Circle*, under *Manuun Amahuz*. They have taken over the old tower on Execution Hill (neither a hill, nor a home to executioners, the origin of the name is lost to the mists of time), and are still eager to benefit from contact with the Empire. Expert practitioners of [Sand wizardry](../../out-of-character/rules/Autumn_magic.md), they are particularly interested in discussing the [serendipitous enchantment](#serendipity) woven over the whole territory, fascinated by the apparent ease with which Imperial magicians work such magic and intrigued by its effects and implications.
+
+> **Inspiration and Challenge**
+>
+> - **While Icarion has the under-developed quality all labour costs are increased by a fifth**
+> - **The inspiration of Thrace removes the basic labour cost if something is commissioned before the end of the Winter Solstice 386YE**
+> - **If the Legion Engineer commissions one of these projects the wain cost is reduced by a fifth**
+>
+> The infrastructure in the territory is highly variable, sometimes the equal of the Empire, but elsewhere the roads are barely adequate by Imperial standards. Materials are hard to import - the port of [Beoraidh](../nations/imperial-orcs/Mareave.md#beoraidh) imposes steep tariffs, and the route through Spiral faces the oppression of the Black Plateau. These problems are reflected by the [under-developed](Set_my_lands_in_order.md#under-developed) quality in [Icarion](../nations/imperial-orcs/Mareave.md#icarion), so all commissions built in the territory have their labour costs increased by a fifth.
+>
+> The [true liao consecration](../../out-of-character/rules/Consecration.md#true-liao) of the Legion's Rookery as an [inspirational location](../../mixed/government/synod/Inspirational_location.md#memorials) dedicated to [Thrace](../../mixed/government/synod/Known_exemplars.md#thrace) affects these [commissions](../../mixed/commissions/Commission.md), if they are commissioned before the end of the Winter Solstice 386YE. The basic labour costs of anything built in Mareave before that time is paid entirely by Imperial Orc volunteers. This benefit is included in each of the descriptions, but this benefit does *not* cover the extra funds needed due to the [Under-developed](Set_my_lands_in_order.md#under-developed) quality, or extra funds required to secure the aid of the Eoradal orcs.
+>
+> If the [Legion Engineer](../../mixed/titles/Legion_Engineer.md) commissions one of these projects, the amount of wains needed is reduced by a fifth.
+
+Last time members of the Circle spoke to the Empire, they were [Grendel](../barbarians/Grendel.md). The [Conclave](../../mixed/government/conclave/Conclave.md) made it clear that anyone who traded magic with them was at risk of being declared a [sorcerer](../../mixed/government/conclave/Sorcery.md). Now the Imperial Senate has signed a treaty saying they're foreigners, so there should be no impediment to making an exchange. Right?
+
+The Black Sand Circle is keen to acquire a [ritual text](../../out-of-character/rules/Formulaic_ritual.md#ritual-texts) of the ritual the Empire calls [Gift of the Wily Broker](../../mixed/magic/rituals/Gift_of_the_Wily_Broker.md). In the break-up with the Circle of Black Sand, *Manuun* and his faction have retained custody of the covens arcane library. If the Imperial Conclave will use a [declaration](../../mixed/government/conclave/Declaration.md) of [dissemination](../../mixed/government/conclave/Dissemination.md) to provide the ritual text they seek, they will hand over a ritual text to the magician who raised the successful declaration. There are two ritual they are prepared to share, both examples of [Sand wizardry](../../out-of-character/rules/Autumn_magic.md). The first is *Sigil of the White Sands*, an [enchantment](../../out-of-character/rules/Enchantment.md) that allows a [fleet](../../out-of-character/rules/Fleet.md) to secure lucrative deals when they [trade](../../out-of-character/rules/Fleet.md#trade) with foreign ports. The second ritual, the *Eye of Ruby and Sapphire* enchants a [mine](../../out-of-character/rules/Mine.md) so that the workers can more easily locate valuable deposits of precious gems, causing it to produce a great deal of money and a small amount of additional [tempest jade](../../out-of-character/rules/Materials.md#tempest-jade) over the season. The declaration will need to specify which of the two rituals the magician wants in return, and the Circle does not care what happens to it after it is handed over. It might go into Imperial lore, into Urizen lore, or remain the unique property of whoever secures it (the latter being what *Manuun* assumes will happen to it).
+
+The Golden Pyramid magicians who meet *Manuun* and his coven describe them as confident, slightly cynical mages not entirely dissimilar to their peers in the Conclave Order. They clearly support Ehsan's successes in securing neutrality for the city, although they feel little [fidelity](../barbarians/Grendel_religion.md#fidelity) to the former Salt Lord personally. They're aware that they and the inhabitants of Beoraidh walk a knife-edge - either the Grendel or the Empire could likely snuff them out if the treaties Ehsan and his court have arranged fall apart. They also make no secret of the fact that what they would *really* like is access to powerful [Autumn magic](../../out-of-character/rules/Autumn_magic.md) enchantments that support fortification or [warbands](../../out-of-character/rules/Military_unit.md) but for now they are well aware they have little to offer of equivalent value. They're also open to [Winged Messengers](../../mixed/magic/rituals/Call_Winged_Messenger.md) from members of the Golden Pyramid order interested in further exchange of knowledge or magical resources - *Manuun* is very interested in discovering how one might go about getting access to the [Doyen of the Spires](../../mixed/titles/Doyen_of_the_Spires.md) or one of the other Imperial [magical colleges](../../mixed/commissions/College_of_magic.md) and what it might cost to purchase the codification of an arcane projection. He is also very interested in any news of his cousin Rahuun Amahuz and the rest of the Circle who remained in Spiral: they want to know if they're getting on alright, and if they've heard anything at all from their Uncle Mó.
+
+### The Lazuline Bowl
+
+|  |
+| --- |
+| **Lazuline Bowl** |
+| **Commission Type:** Sinecure |
+| **Location:** Nadir, Mareave |
+| **Cost:** 24 weirwood, 288 rings, three months |
+| **Special:** Base labour costs would normally be 72 crowns, but are reduced to 0 by the ongoing inspiration of Thrace; the remaining 288 rings are due to the [Under Developed](Set_my_lands_in_order.md#under-developed) quality and are not reduced by that opportunity |
+| **Effect:** Creates the title of Lazuline Bonetender |
+
+|  |
+| --- |
+| **Lazuline Bonetender** |
+| **Type:** Imperial Orc |
+| **Appointment:** Tally of the Votes |
+| **Powers:** Receive 21 drams of cerulean mazzarine each season |
+| **Responsibilities:** Oversee the Lazuline Bowl sinecure, support the physicks of Mareave |
+| **Special:** The Tender can purchase from the orcs living in the Lazuline Bowl |
+
+|  |  |
+| --- | --- |
+| **Bounty of the Bowl** |  |
+| 7 crowns | 10 drams of cerulean mazzarine and 6 drams of true vervain |
+| 17 crowns | 21 drams of cerulean mazzarine and 12 drams of true vervain |
+| 30 crowns | 32 drams of cerulean mazzarine and 18 drams of true vervain |
+
+- **Mareave has an excellent climate for growing cerulean mazzarine**
+- **The Lazuline Bowl is an area of Nadir that presents an opportunity to produce large amounts of the valuable herb**
+
+[Mareave](../nations/imperial-orcs/Mareave.md) is an [arid](Set_my_lands_in_order.md#arid) [territory](../../out-of-character/rules/Territory.md), where fresh water is at a premium. The expectation would be that such a place is hostile to [herb gardens](../../out-of-character/rules/Herb_garden.md) but that turns out to be a misconception. While exploring the plains of northern Mareave - [Icarion](../nations/imperial-orcs/Mareave.md#icarion) and [Nadit](../nations/imperial-orcs/Mareave.md#nadir) particularly - the Golden Pyramid make peaceful contact with several groups of orcs that make a respectable living growing [Cerulean Mazzarine](../../out-of-character/rules/Cerulean_Mazzarine.md). The conditions here are actually ideal for growing a magical herb that prospers in a warm, dry climate. While the herbal arts are not especially common among the magicians of the Golden Pyramids, they are well aware that there are markets for the delicate blue-blossoming herb in the Empire, especially in the chilly northern nations ([Wintermark](../nations/wintermark/Wintermark.md), [Varushka](../nations/varushka/Varushka.md), and of course [Skarsind](../nations/imperial-orcs/Skarsind.md)).
+
+*Mazzar Tulk* is a Golden Pyramid [orc](../../mixed/world/Orc.md) and a member of the [Yerende](../nations/imperial-orcs/Yerende.md) sept and her family are in the process of moving to Mareave. In answering the grandmaster's call she has used the opportunity to explore the territory to find the perfect place to settle. In the process has been talking to some of the local orcs - those who don't have any particular reason to be [uncooperative](Set_my_lands_in_order.md#uncooperative). Following discussion she has become aware of the *Lazuline Bowl* - a depression in central Nadir, sheltered from the harsh winds and positioned over a deep aquifer, presenting ideal conditions to cultivate valuable cerulean mazzarine. There are already several families of Broken Shore orcs based around the Bowl, growing their own herbs. With the aid of her order, she has negotiated with the orcs to support the establishment of a garden on her own dedicated to producing the valuable herb, promising that the nearby families will share in her prosperity.
+
+By building a garden in the Lazuline Bowl, the Imperial Orcs could establish the title of *Lazline Bonetender*. *Mazzar Tulk* suggests that the title be charged with helping supply orc apothecaries and physicks, and expanding access to herbs in Mareave. They would receive a [bounty of cerulean mazzarine](../../mixed/commissions/Sinecure.md), and be able to [purchase even more](../../mixed/commissions/Ministry.md) from the Nadiri orcs whose cheerful self interest does not disincline them to deal with the Empire. That latter raises a minor fly in the ointment. As [laid out by Eilian Sweetwater](Here_to_stay.md#the-problem-of-peace) in their [appraisal](../appraisals/Appraisal.md), at the moment the non-Imperial inhabitants of Mareave are considered barbarians for all that they may not be particularly acting like it. The ministry Mazzar Tulk proposes is illegal while that is the case, and indeed she warns that until that matter is sorted out it might be better not to build the sinecure as creating something so valuable in close proximity to people who the Empire is at war with feels unwise.
+
+The Imperial Orcs assembly asked representatives of the Tamazi to explore opportunities in Mareave. *Mazzar Tulk* suggests that if [the assembly ask the Yerende](Set_my_lands_in_order.md#six-septs) to explore the possibilities offered by the ideal climate here there might be able to identify other ways to grow cerulean mazzarine - a [great work](../../mixed/commissions/Great_work.md) for example, or more opportunities to work with the comparatively small number of local herbalists. Focusing on cerulean mazzarine, rather than general opportunities, would likely cause any resulting opportunities to be more focused and impactful.
+
+*[Image: Tamazi.png](https://www.profounddecisions.co.uk/empire-wiki/File:Tamazi.png)*
+
+## Stone Lasts
+
+- **Members of the Tamazi sect have visited Mareave to seek opportunities to build**
+- **Charged with protecting, they are looking at castles**
+
+The Tamazi have also looked for other opportunities to help contribute to the Imperial Orc development of Mareave. As well as their proposal regarding the [fortified settlement](Here_to_stay.md#not-going-anywhere) they have identified two other locations that they think would make excellent forts - helping to protect the people of Mareave and ensure that the land is not an inviting target for the Grendel.
+
+### Storm Lords Sentinel
+
+|  |
+| --- |
+| **Storm Lords Sentinel** |
+| **Commission Type:** Fortification |
+| **Location:**Rucraic's Redoubt, Eoradal |
+| **Cost:** 50 white granite, 30 weirwood, 48 crowns in labour, six months construction |
+| **Special:** Base labour costs would normally be 240 crowns, but are reduced to 0 by the ongoing inspiration of Thrace; the remaining 48 crowns are due to the [Under Developed](Set_my_lands_in_order.md#under-developed) quality and are not reduced by that opportunity |
+| **Effect:** Serves as a rank one [fortification](../../out-of-character/rules/Fortification.md), but would also serve as a Skouran [embassy](../../mixed/commissions/Embassy.md) once they agreed to one |
+| **Upkeep:** 8 throne |
+
+- **A fortification at Ruicraic's Redoubt could serve double purpose as an embassy to Skoura**
+
+The first is at *Ruicraic's Aerie*, a minor fortification [captured](../winds-of-war/Sea-wood_fed_with_copper.md#ripples-in-the-water) more or less intact by the [Seventh Wave](../../mixed/government/military/Seventh_Wave.md) thanks to [intelligence](../winds-of-war/Between_stone_and_salt.md#objective-recover-a-map-to-rucraics-aerie) recovered by Imperial heroes. The Tamazi propose adapting the [Commonwealth](../foreign-nations/Commonwealth.md) idea to build something similar to a *[diplomatenschloss](For_the_Common_Good.md#fighting-talk)* for the [Skourans](../foreign-nations/Skoura.md). By all accounts the Skourans do not currently want an [embassy](../../mixed/commissions/Embassy.md), but that doesn't mean the Imperial Orcs shouldn't build them one! They know from their time in [Axos](../foreign-nations/Axos.md) that the Skourans are traders. The Tamazi believe it is a matter of time before the people of the mountains see the benefits of trading with the Empire, and the Imperial Orcs should be at the forefront of that trade. When that happens, the embassy will be already built, merely waiting on a delegation of Skourans to leave their mountains and establish offices there.
+
+Given Rucraic's Redoubt is already a castle, the Tamazi are confident that converting it to a full fortification with the opportunity for trade would require less white granite than building something from scratch, and take only six months to complete. Once complete, the place could be "activated" as a Skouran embassy at any time, likely as part of a [treaty](../../mixed/titles/Ambassador.md#treaty) with that nation.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > One nation, woven from six strong strands. Each of these septs has its own expertise, that will help us to show the people of Mareave we are not their enemies. We send Skywise Gralka with 25 doses of liao to urge the Tamazi to seek ways we may make Mareave a home for our people by using their skill in stone masonry and magical defences to aid against the Grendel threat let the first sept we send be one to protect these new lands and people.
+> >
+> > Skywise Tulva, Imperial Orcs Assembly, Summer Solstice 386YE, Vote: Greater Majority 44-0
+
+The Tamazi plan is to build the fortified embassy at the base of the mountains, and then have the Senator for Mareave (currently **Gaddak**) send a [Winged Messenger](../../mixed/magic/rituals/Call_Winged_Messenger.md) to Skora to politely ask if they would like to trade with their neighbours - not as representatives of the Empire but as the Imperial Orcs nation. The Tamazi are confident that the Skourans will consider the proposal, and, at the very least, agree to establish a trade ministry in Eoradal. From this start, the Empire would be better positioned to build stronger trade ties - and all thanks to the Imperial Orcs.
+
+The *other* reason the Tamazi propose their version of a *diplomatenschloss* is the existence of the ruined aqueduct in Eoradal. Their examination of the structure indicates that if it were rebuilt, and with the cooperation of the Skourans who live in the mountains above Mareave, it might be the answer to at least some of the problems Mareave has getting access to fresh water - and the Tamazi are excited at the prospect of such a significant and impactful construction for obvious reasons.
+
+### High Mountain Home
+
+|  |
+| --- |
+| **High Mountain Home** |
+| **Commission Type:** Fortification |
+| **Location:**Eastern Peaks, Fleisardh |
+| **Cost:** 150 white granite, 30 weirwood, 108 crowns in labour, a year to construct |
+| **Special:** Base labour costs would normally be 540 crowns, but are reduced to 0 by the ongoing inspiration of Thrace; the remaining 108 crowns are due to the [Under Developed](Set_my_lands_in_order.md#under-developed) quality and are not reduced by that opportunity |
+| **Effect:** Serves as a rank two [fortification](../../out-of-character/rules/Fortification.md), removes the under threat quality, may cow the Brine Turtles |
+
+|  |
+| --- |
+| **Storm Wards** |
+| **Commission Type:** Special |
+| **Location:**Eastern Peaks, Fleisardh |
+| **Cost:** 20 mithril, 20 ilium |
+| **Special:** Can only be included when the High Mountain Home is commissioned |
+| **Effect:** Increase casualties to armies attacking the fortification in Fleisardh by half |
+
+- **This opportunity has expired; any benefits and commissions associated with it are [no longer available](../../out-of-character/game-design/Opportunity.md#availability)**
+- **A large fortification could be established in Fleisardh to remove the under threat quality there**
+
+The other target of the Tamazi is in Fleisdardh. They do not find much welcome among the Brine Turtles sept, and quickly decide to give them a wide berth. During their exploration of the hills and mountains here, however, some of them come up with an ambitious plan. The Brine Turtle claim the plains, and the coast, and mostly ignore the eastern fifth of the region. As a consequence the mountains are largely unexplored and unexploited save for a few die hard miners who seem broadly unaware that Mareave has changed hands and largely disinterested when they discover otherwise.
+
+The initial plan is that the Imperial Orcs should "hollow out" a mountain, and build a massive citadel overlooking Fleisardh. After further discussion, they settle on something a little less impressive at least to start with. Dubbing it *High Mountain Home*, the Tamazi plan to use divination magic to locate an aquifer and reshape the side of the mountain into a mighty [fortification](../../out-of-character/rules/Fortification.md). Visible across the region it would be a clear sign to the Brine Turtles that the Imperial Orcs are not messing about - they are the new masters of Mareave.
+
+Using their expertise, the fortification would take a year to build, but would provide significant protection to Mareave. The Tamazi also plan to include a number of features familiar from the citadels of Axos such as mushroom farms and grand storehouses that would allow a garrison to endure as much as five years of siege. More than that, once garrisoned, the Tamazi are confident there would be sufficient strength here to remove the [under threat](Set_my_lands_in_order.md#under-threat) quality from the region if it were still there. It would not by itself make the Brine Turtles any more accepting of the Empire, but it could still prove a powerful aid to diplomacy with them, an unmissable reminder of Imperial ambition and power.
+
+Some of the Tamazi are members of the Golden Pyramid order, and along with their peers they report that there is a small amount of [ilium](../../out-of-character/rules/Ilium.md) in the mountains above Fleisardh. Not really enough, and not really concentrated sufficiently, to make a mine viable unfortunately. But one of the younger Tamazi has a better idea. Adapting some of the warding symbols the Tamazi traditionally use in their constructions, along with some elements she has uncovered about the [Lyceym Storm Regio](../winds-of-war/A_beacon_of_smoke.md#objective-raise-the-lyceums-wards), *Deepdrummer Kattak* proposes to capture and channel the storms that swirl around the high peaks of Mareave and further bolster the defences of the High Mountain Home.
+
+Her plan would add 20 wains of mithri and 20 rings of ilium to the cost of the fortification, but not increase either labour costs or time to build. Woven into the fabric of the fortification, they would mean that any attacking army assaulting Fleisardh would need face poor weather and occasional devastating thunderbolts. The casualties suffered from attacking the fortification would be increased by a half. As their placement and implementation is integral to the design of the castle, the decision about whether to include Kattak's wards would need to be made when the structure was commissioned.
+
+*[Image: Assembly Marcher.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Marcher.png)*
+
+*[Image: Assembly Freeborn.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Freeborn.png)*
+
+## Farming and Water
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The Marcher Assembly calls on all those adept at farming arid land. Take up your tools and head to Mareave for our Imperial Orc friends have need for your skills to remove the arid quality and make the land grow.
+> >
+> > Sister Meredith, Marches Assembly, Summer Solstice 386YE, Vote: Greater Majority 204-0
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The farmers of the Brass Coast are known far and wide as experts in farming arid lands. We have had a request from our friends in the Imperial Orcs, Mareave needs a lot of work, and as such they ask our aid in teaching them how to farm their new lands. We call upon the farmers of the coast to travel to Mareave and help cultivate a prosperous new territory.
+> >
+> > Maria i Espiri i Guerra, Freeborn Assembly, Summer Solstice 386YE, Vote: Greater Majority 166-0
+
+- **Both the Marches and Freeborn assembly encourage their people to help in Mareave**
+- **Doing so would be costly to the two nations**
+
+During the Summer Solstice, two [statements of principle](../../mixed/government/synod/Statement_of_principle.md) were proposed, one in the [Marcher](../nations/the-marches/The_Marches.md) assembly, and one in the [Freeborn](../nations/the-brass-coast/The_Brass_Coast.md) assembly. They both asked the people of their nation to look into the possibility of helping the Imperial Orcs address the problems presented by the [arid conditions](Set_my_lands_in_order.md#arid) in Mareave - and the difficulty of establishing farms there. Both nations have something to offer; the Marchers are unparalleled experts at the agricultural arts, while the Freeborn have centuries of experience teasing crops and beautiful gardens alike from dry, waterless soil.
+
+However, the people of both nations also know the value of their expertise. While there are some who might feel a kinship or debt to the Imperial Orcs - their armies have selflessly defended the Western empire time and again - others are more practical. The majority are prepared to make an assessment of the situation in the east, to see if they might be able to help, but they will *not* do so for free. The Freborn now that everything can have a price, and while the Marchers know that land matters above all else, Mareave is [a very long way away](Set_my_lands_in_order.md#far-frontier) and it is not *their* land. Both nations farmers also know that [Prosperity](../religion/Prosperity.md) means that while the virtuous are not selfish, they also expect to receive just recompense for their labours. Also, as some are quick to point out, there is a war on, with Mournwold invaded and both [Feroz](../nations/the-brass-coast/Feroz.md) and [Madruga](../nations/the-brass-coast/Madruga.md) very much in need of rebuilding. Perhaps the farmers of these two nations should be looking closer to home?
+
+Bearing all that in mind, the Marcher National Assembly could pass the following mandate:
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Our mastery of farming is unsurpassed in the Empire, but we know our worth We send (named priest) with 50 doses of liao to urge the virtuous and prosperous farmers of the Marches to visit Mareave and see how the land there might be made green.
+> >
+> > Synod Mandate, Marches National Assembly
+
+If the mandate is enacted it will persuade virtuous farmers to visit Mareave. This would mean that there were fewer pious farmers in the Marches during the coming season, and apply a 1 rank penalty to every [congregation](../../out-of-character/rules/Congregation.md) in [Mitwold](../nations/the-marches/Mitwold.md) and [Upwold](../nations/the-marches/Upwold.md). Farmers of Mournwold have more pressing matters on their mind, and those in [Bregasland](../nations/the-marches/Bregasland.md) perhaps rightly believe they have nothing to offer when it comes to farming in the arid grasslands of Mareave. The Marchers who travelled to Mareave would present an opportunity to help build up agriculture there, but part of their opportunity would require they be repaid in some way for their efforts.
+
+Likewise the Brass Coast Assembly could pass the following mandate.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The Freeborn are experts in drawing forth prosperity from arid lands. We send (named priest) with 75 doses of liao to ask Freeborn farmers to go to Mareave, to aid our friends in the Imperial orcs to make their lands flower.
+> >
+> > Synod Mandate, Freeborn National Assembly
+
+If enacted, this mandate would encourage experts in dealing with the kind of conditions found in Mareave to travel to the far side of the Bay of Catazar to see what aid they could offer in dealing with the arid conditions in the northern parts of the territory. In particular, the [Zemress islanders](../nations/the-brass-coast/Zemress_islander.md) would be encouraged to visit the Broken Shore for the first time since they were brought home to the Brass Coast. As with the Marchers, though, such aid would come at a price. Every [congregation](../../out-of-character/rules/Congregation.md) in the Brass Coast would experience a 1 rank penalty to production in the coming season, and the Freeborn farmers would expect suitable recompense before they would put any solution into action.
+
+*[Image: Assembly League.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_League.png)*
+
+*[Image: Assembly Urizen.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Urizen.png)*
+
+## Trade Routes
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We applaud the assignment of Mareave to the Imperial Orcs and reach out in prosperity and friendship to our new neighbours. We encourage and promote the movement of people, material, goods, and fine things through Spiral, across the Apulian Way, and into Mareave by way of Prosperous trade. Raised by Fabio, Bishop of Apulian.
+> >
+> > Fabio Costas de Sarvos, League Assembly, Summer Solstice 386YE, Vote: Greater Majority 376-0
+
+- **The League could build a safe route through Spiral connecting Mareave to the rest of the Empire**
+
+One final statement of principle was raised at the Summer Solstice that received a greater majority. **Fabio Costas de Sarvos, Bishop of Apulian** called on the nation to promote the movement of people and materials through Spiral, and down the Apulian Way into Mareave. At first, there was little interest in the proposal - the League is after all busy [supporting](../senate-motions/Construct_Grand_Inspiration_of_the_Way.md#outcome) the [Grand Inspiration of the Way](Blood_will_thicken.md#a-question-of-scale) in [Bastion](../nations/highguard/Bastion.md) and has little time for other projects at the moment.
+
+However... not *everyone* thinks that the Grand Inspiration of the Way is the most important thing they could be building. **Bishop Fabio** is known in some circles for [speaking out](../synod-judgements/385YE_Spring_Equinox_Synod_judgements.md#judgement-68) about the construction in Bastion, and urging "*citizens of the League not to assist in the aggrandisement of the White City, except when through fair trade their own Prosperity might grow.*" As a consequence, some people who couldn't give two figs for Bastion and the overarching plans of the Way are interested in the suggestion and decide to see what can be done about it. As it happens two of those interested in Fabio's words ends is an ambitious engineer named *Lucia Calumo di Apulian*, originally from Holberg, and a former Grendel entrepreneur now named *Sheeva di Apulian*. Perhaps due in some unidentifiable way to the magic sloshing around in Mareave at the moment, they end up in a long and detailed conversation with a pair of [Urizen](../nations/urizen/Urizen.md) [architects](../nations/urizen/Architect.md) (*Tressida Nightshadow* and *Croilus Nightshadow*) returning to their spire after [spending time in the Marches](Thresher-s_summer.md). The four of them end up lamenting the fact that travel through the Black Plateau haunted territory is slow and painful. Together, over dark coffee, they put together a proposal.
+
+### Extending the Apulian Way
+
+|  |
+| --- |
+| **Greater Apulian Way** |
+| **Commission Type:**Great Work |
+| **Location:** Apulus, Spiral |
+| **Cost:** 50 wains of white granite, 20 wains of mithril, 210 Crowns, six months |
+| **Special:** If the Master of Rings commissions the road 6 wains of white granite will be provided by League citizens |
+| **Special:** If the Urizen Assembly supports the road, 4 wains of mithril will be provided by Urizen spires |
+| **Special:** This commission is built in Spiral rather than Mareave and so the [Under Developed](Set_my_lands_in_order.md#under-developed) quality does not change its costs. The [Legion Engineer](../../mixed/titles/Legion_Engineer.md) could not reduce its costs by commissioning it |
+| **Effect:** Raises the level of investment in Spiral by one providing 36 rings for each business, and removes the under-developed quality from Icarion |
+
+- **Extending the Apulian way through the city and connecting it to the Court of the White Fountain would solve Mareave's under-developed problem**
+- **It would also provide benefits to both League and Urizen businesses in Spiral**
+- **If the Master of Rings commissions the road, 6 wains of white granite will be provided by League citizens**
+- **If the Urizen Assembly support the road, 4 wains of mithril will be provided by Urizen spires**
+
+The *Calumo-Sheeva-Nightshadow Road* - or the *Greater Apulian Way* as it is immediately christened - would involve repairing and fixing up the road that once connected the port of Apulian with Redoubt, via the [Court of the White Fountain](../nations/urizen/Redoubt.md#the-court-of-the-white-fountain) and the now flattened Fort Mezudan. Repairing the road is simple if laborious, but the real aim of the proposal is to establish a series of mithril-infused rest stops along the route. Patterned after [Navarr](../nations/navarr/Navarr.md) wayhouses, and built with traders and ox-caravans in mind, they would make it significantly less stressful to travel through Spiral to the city in the south. It's a simple matter to extend the road through the Apulian Way pass into Mareave, and build a nice big inn and some warehouses in [Icarion](../nations/imperial-orcs/Mareave.md#icarion), a stones throw from the old lighthouse ruins there. The Nightshadow architects believe that once complete, it could inspire more interest in the roads of Spiral, and certainly the pattern of mithril-infused roadhouses would spread ensuring that people all over the territory would find it easier to get and sell goods, and travel despite the horror that squats in the centre of [Screed](../nations/the-league/Spiral.md#screed).
+
+The proposal is expensive, but it will immediately benefit both the inhabitants of Spiral - whether they are League or Urizen - and the people of Mareave. In Spiral, it would establish a [great work](../../mixed/commissions/Great_work.md) that benefitted [businesses](../../out-of-character/rules/Business.md), while in Mareave it would remove the [under-developed](Set_my_lands_in_order.md#under-developed) quality from Icarion and provide a reliable method to transport building materials, food, travellers, and workers through the miasmic oppression of Spiral.
+
+The two Leaguers have put their heads together and have a plan they think would work. At the moment, Apulian can feel a little like the "smallest sibling" in [the League](../nations/the-league/The_League.md). If the would very much like the [Master of Rings](../../mixed/titles/Master_of_Rings.md) to do it. Their [responsibility](../../mixed/titles/Master_of_Rings.md#responsibilities) after all is to make "as much money as possible" for the Merchant-Princes of the League. If the Master (currently **Laughlan Vi Temeschwar**) commissions the Greater Apulian Way, then Lucio Calumo, Shiva, and their friends will stump up 6 wains of white granite to support the project.
+
+Tressida and Croilus are of the opinion that it might be possible to build on it to further enhance the Prosperity of Spiral, or at the very least to find a way to counter the negative effects the Black Plateau still has on [fleets](../../out-of-character/rules/Fleet.md), [military units](../../out-of-character/rules/Military_unit.md), and [farms](../../out-of-character/rules/Farm.md). They also feel that work on the road could prosper a spirit of cooperation in Spiral, building on the [recent mandate](The_city_below.md) enacted by  **Lepidina**. If the Urizen national assembly passes a suitably worded [statement of principle](../../mixed/government/synod/Statement_of_principle.md) encouraging people to support the Greater Apulian Way, then Nightshadow spire will contribute 4 wains of mithril to the project in the hope of encouraging other Urizen still living in Spiral to consider doing the same.
+
+Finally, all four believe that this could just be the start of grander projects in Mareave. A firm road connection to the rest of the Empire would be an ideal start to building up the roads the Grendel left behind - or establishing a lucrative trade route between Apulian and [Beoraidh](../nations/imperial-orcs/Mareave.md#beoraidh).
+
+## Participation
+
+- **Any character is free to roleplay they have spent time in Mareave, and encouraged to create a story about a chance encounter**
+
+Any character who roleplays having spent time in Mareave this season is encouraged to make up a story about a coincidental meeting that helped them make a new friend, or find a new contact who shared their interests. This is especially appropriate for members of the [Golden Pyramid](../../mixed/government/conclave/Golden_Pyramid.md) [conclave order](../../mixed/government/conclave/Conclave_order.md) or the [Tamazi](../nations/imperial-orcs/Tamazi.md) sept (or both), but anyone might be visiting the arid territory for any number of reasons.
+
+## Resolution
+
+The [Conclave](../../mixed/government/conclave/Conclave.md) chose to take advantage of [the offer from the Black Sand Circle](#black-sand-circle). [Grandmaster](../../mixed/titles/Grandmaster.md) **Arsenio Sanguineo Rezia di Tassato** [proposed to disseminate](../conclave-sessions/386YE_Autumn_Equinox_Conclave_sessions.md#dissemination-gift-of-the-wily-broker) the [Gift of the Wily Broker](../../mixed/magic/rituals/Gift_of_the_Wily_Broker.md) to them, and the Conclave concurred. The Grandmaster will take ownership of a ritual text of *Eye of Ruby and Sapphire* at the Winter Solstice.
+
+The Senate also [assigned the Bronze Bowls of the Three Seasons](../senate-sessions/386YE_Autumn_Equinox_Senate_sessions.md#assign-bronze-bowls-of-the-three-seasons) to the Imperial Orcs as a national position. The Bowls had been discovered in northern Mareave shortly before the Summer Solstice, as detailed in the **[Digging for fire](Digging_for_fire.md#the-bronze-bowls-of-the-three-seasons)** wind of fortune.
+
+Both [the Marches](../nations/the-marches/The_Marches.md) and [the Brass Coast](../nations/the-brass-coast/The_Brass_Coast.md) offered aid to the Imperial Orcs in Mareave with regard to their farming problems. **Grey Stone** proposed [Marcher farmers](../synod-judgements/386YE_Autumn_Equinox_Synod_judgements.md#judgement-97) would visit the territory, while **Annalaya del-Toro** suggested that **Maria I Espiri I Guerra** should [urge Freeborn farmers](../synod-judgements/386YE_Autumn_Equinox_Synod_judgements.md#judgement-110) to do the same. Both assemblies agreed.
+
+Lasty, **Laughlan Vi Temeschwar**, the [Master of Rings](../../mixed/titles/Master_of_Rings.md), commissioned [Curstag's Way](../senate-sessions/386YE_Autumn_Equinox_Senate_sessions.md#construct-curstags-way), a [trade road](#trade-routes) that will connect Redoubt, Spiral, and Mareave.
+
+## Further Reading
+
+- [Mareave](../nations/imperial-orcs/Mareave.md)
+- [Here to stay](Here_to_stay.md) - 386YE Autumn wind of fortune detailing the appraisal to encourage the southern orcs to be more cooperative
+- [Digging for fire](Digging_for_fire.md) - 386YE Summer wind of fortune detailing the Golden Pyramid contribution in Mareave
+- [Into the spin](Into_the_spin.md) – 386YE Spring wind of fortune summarising the situation in Mareave
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [386YE Autumn](../../indexes/by-category/386YE_Autumn.md), [Recent History](../../indexes/by-category/Recent_History.md), [Mandate](../../indexes/by-category/Mandate.md)

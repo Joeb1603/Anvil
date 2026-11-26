@@ -1,0 +1,21 @@
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Navarr.png|caption=This title is appointed by the Navarr Assembly|width=250px}}</div>
+The Dreamspeaker of Seren is an [[Imperial title]] awarded to a citizen of [[Navarr]]. The Dreamspeaker oversees the [[Miaren#Temple_of_the_Waking_Dream|Temple of the Waking Dream]], the great work that transformed Seren into the ''City of Dreams'', which was [[Construct_City_of_Dreams|commissioned]] by the Senate at the Summer Solstice 386YE and was [[Dream_on|finally completed]] just before the Autumn Equinox 388YE.
+__NOTOC__
+==Responsibilities==
+The Dreamspeaker of Seren is responsible for overseeing the Temple of the Waking Dream and looking to the prominence and prosperity of the city of Seren and its pilgrims. In addition, if the Temple were to be threatened in any way, it would be the responsibility of the Dreamspeaker to deal with those threats.
+
+==Powers==
+===Liao, Tea and Masks===
+As a [[sinecure]], the Dreamspeaker receives a regular income of 15 doses of liao each season. They also receive 5 doses of an unusual preparation called ''asphodel tea'' - this potent concoction made with vinum functions in a similar way to liao for the purposes of providing [[Dedication#Dreams|dreams]].
+
+Additionally, the Dreamspeaker is presented with a ''Dreamer's Mask'' each Winter Solstice. This magical item, not known to Imperial artisans, allows a priest to guide a target's spiritual dreams using the dedication of the target instead of their own.
+
+==Appointment==
+This title is appointed during the Autumn Equinox. The Dreamspekear of Seren is [[appointment|appointed]] by a [[judgement]] of [[Appointment]] in the [[Navarr]] [[Assembly#The_National_Assemblies|national assembly]]. 
+
+The title may only be held by a Navarr citizen. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the Navarr Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Dreamspeaker_of_Seren}}
+{{Responsibilities Expectation}}
+[[Category: Title]]
+[[Category: Navarr]]

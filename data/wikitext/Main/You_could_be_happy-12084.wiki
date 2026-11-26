@@ -1,0 +1,58 @@
+[[Category:Winds of Fortune]][[Category:386YE Autumn]][[Category:Recent History]]
+<ic>"Well I for one am not a fan." Decius moved his temple up the board, it would be in a position to threaten Iuliana's mage in a few turns.
+
+"Aye, and that's all fine, but this is t'chance to do something about 'em. Imagine a world without Druj, that's worth walkin' for!" Iuliana moved her sentinel across to counter the temple.
+
+"Yes, but think about the risks involved, the Senate will suffer tens of thrones in losses!" Decius' arbiter was moved across to counter the sentinel. A risky move, but it should eventually leave his partner's mage open.
+
+"Aye, they can manage. And it'll be less than if t'Druj invaded. Look at Morrow an' Zenith." Iuliana's citadel moved down now, to threaten Decius' mage and force a response.
+
+The conversation lulled as full attention was paid to the board set before them, pieces moved across it without comments or asides.
+
+"Look, I'm not askin' you to help, I'm just sayin' you should get ready to manage the business on yer own for a bit. Because I'm definitely walkin' that border if asked." Iuliana placed her questor down next to Decius' mage and smiled kindly. "I'll miss yer, but it'll only be for a few months. Others'll come and take me place after that."</ic>
+<div style="float:left; width: 250px; clear: right;">{{CaptionedImage|file=Druj Flag.png|caption=The Druj threaten territories across the eastern Empire.|align=left|width=250}}</div>
+{{PDFLink|align=right|link=File:You could be happy.pdf|caption=Click for pdf version}}
+==Overview==
+Last season the General Assembly upheld a [[386YE_Summer_Solstice_Synod_judgements#Judgement_7|judgement]] with a greater majority by '''Herminius of the House of the Wanderer''' calling on the citizens of the Empire to be proactive in the threat presented by the Druj. This was supported by a [[386YE_Summer_Solstice_Synod_judgements#Judgement_109|judgement]] raised by '''Tuuli''' in the Wisdom Assembly, also upheld with a greater majority. This has struck a chord with the people of the Empire; for simply too long have the Druj been allowed to attack the eastern territories. The chord becomes a song as the message is spread across the Empire, but it resonates most in those nations that border the hated orcs of the Mallum.
+
+Meanwhile the Varushkan Assembly spoke with one voice on the matter of the Iron Helms, long a contentious subject in the Empire. Now there is a chance for the nation to consider if they wish to change direction.
+
+==Proactive Measures==
+* '''Any National Assembly that shares a border with the Druj could enact a mandate to encourage citizens to walk the border'''
+* '''This would increase the number of victory points needed by the Druj to claim a beachhead to 25''' 
+* '''If enacted each territory that borders the Druj would see an immediate loss of taxation of five thrones'''
+The people of the eastern Empire have long suffered under the whims of the Druj; over the last ten years they have laid claim to [[Reikos]], [[Holberg]], [[the Barrens]], [[Zenith]], and [[Morrow]], and launched invasions into more besides. Even as the Empire pushes back their armies in Therunin they seek to unleash devastation in the territory. The damage they did to the Barrens and [[Ossium]] will take a generation to truly undo. The Druj are cruel and they are wicked, but they are also cunning; their use of overwhelming force concentrated on a single point proves that.
+{{SOP|by=Herminius of the House of the Wanderer, General Assembly|statement=The Druj have returned! They are active in Therunin, the Barrens, and Morrow. They threaten our Eastern border from Ossium to Zenith. I call on all citizens to be proactive, report suspicious activity, check in on your neighbours, and be prepared to fight. Remember! You do not stand alone, Sword Scholars will be active in your territory, seek their protection, aid and Wisdom where needed.|vote=Greater Majority (2478-74)|when=386YE Summer Solstice}}
+There are many things that could be done by the various houses of power in the Empire: the [[Senate]] could [[commission]] more [[fortification|fortifications]]; the [[Military Council]] could position more [[Army|armies]] in the territories, or even launch attacks into the Mallum; the [[Conclave]] could focus on calling forth citadels of the realms; the holders of [[Bourse|Bourse seats]] could choose to sell at a discounted rate to those projects aimed against the Druj.
+
+But the Synod can move the hearts and minds of the people, encouraging them to act in Virtue and Vigilance to guard their homes. They can urge people to volunteer to patrol the borders of the territory, looking for signs of incursion and reporting anything they see. That would make it harder for enemy scouts to operate when spearheading an invasion of a territory. It won't if the Druj managed to claim a beachhead; but it would make that more difficult. It would also come with a cost, as hard-working citizens, farmers, labourers, and others, would significantly cut down the amount of time they could devote to toiling on farms, mines, forests and others businesses in the area. Inevitably some would close down completely - resulting in a loss of five thrones to taxation from ''each'' territory affected.
+
+If any of the four nations that share a border with the Druj wish to then they can enact the following mandate:
+
+{{Mandate|mandate=Be alert to all dangers; within and without. We send {named priest} with 50 liao to encourage the Vigilant to watch for the evil that seeks to enter our lands. Let us thwart malice before it strikes against us.|assembly=Dawnish, Navarr, Urizen, and Varushkan Assembly}}
+
+If enacted this mandate will see groups of citizens arrange patrols along the border with the Druj so as to sound alarms and give warning if they invade. This will increase the number of [[Campaign_outcome#Victory_Points|victory points]] required by the Druj to claim a [[War#Beachheads|beachhead]] by a quarter to 25. It will not inflict casualties to any Druj armies, increase the strength of any Imperial force in the territory, nor have any effect on subsequent regions claimed by the Druj. 
+{{SOP|by=Tuuli, Wisdom Assembly|statement=The Druj are active in Therunin, the Barrens and Morrow. They threaten the Eastern border from Ossium to Zenith. We call upon dedicants of Wisdom to investigate, question and report suspicious activity to the Assembly. The sword scholars have stated they will aid and protect you. See them out and act with vigilance and caution in your questioning.|vote=Greater Majority (356-0)|when=386YE Summer Solstice}}
+If enacted by the Dawnish Assembly it will protect the Barrens and reduce taxation to the treasury by five thrones. If enacted in Navarr then it will protect [[Therunin]] (once the territory is reclaimed and if it is assigned to Navarr) and reduce taxation to the treasury by five thrones. If enacted in Urizen with a greater majority it will protect [[Morrow]] and [[Zenith]] and reduce taxation to the treasury by a total of ten thrones. If enacted in Varushka with a greater majority it will reduce taxation to the treasury by five thrones and protect Ossium but it will not help the Thule held region of Webwood.
+
+If the Druj claim more territory, increasing the number of borders shared with a nation that has enacted the mandate, then the National Assembly could use the same mandate again to ask the people of that nation to take up the patrol in the new territory. If a territory affected by this mandate ceases to share a border with the Druj then the citizens will stop their patrols, removing the penalty to taxation from that territory.
+
+This mandate will continue until either the Druj have been destroyed or the Empire declares a ceasefire or peace with the Druj.
+
+==Old Ways==
+{{SOP|statement=The Iron Helms have been shunned and slandered for years by many of the citizens they have protected. They have shown Courage, Loyalty, Pride and Vigilance in doing whatever their Generals and Military Council ask of them. All things grow and change and it is time for the Iron Helms to change. Based on their history and victories we believe they should now focus on their mastery of the dark magics & curses of Varushka. They have a strong magical heritage and would use such abilities Virtuously to advance the cause of our Empire.|by=Amris Johan Merikovich, Varushkan Assembly|vote=Greater Majority 350-10|when=Summer Solstice 386YE}}
+* '''The Varushkan Assembly has passed a judgement encouraging the Iron Helms to change and find a new focus on their mastery of the dark magics & curses of Varushka'''
+* '''The Assembly could enact a mandate to affirm this change'''
+* '''It is not possible to know in advance what the outcome of such a change would be, but if the army changes then it would no longer be able to take a merciless onslaught'''
+
+The very existince of the Iron Helms has long been controversial, breeding conflict between Varushka and other nations who have looked on in horror at the cruel actions of the army. The Iron Helms have never been needlessly cruel, their violence and brutality has always been in service to a larger goal, but the methods have been too much for some. The Assembly have always defended the army, but after the latest atrocities in the Barrens, where the army executed the leaders of the Black Wind, it seems that the Assembly may now be ready to change tack.
+
+Last season they passed a statement of principle with a greater majority praising the Iron Helms, but calling on them to change and suggesting they focus on their mastery of the dark magics & curses. The Assembly could now affirm this decision by enacting a mandate that would force the Iron Helms to change.
+
+{{Mandate|mandate=Know your heart and what commands its devotion above all else. We send {named priest} with 50 liao to urge the Iron Helms to abandon cruelty and focus on the dark magics and curses of Varushka. Embrace your past; never be ashamed of it.|assembly=Varushkan Assembly}}
+
+It is impossible to know exactly what will happen if this mandate is enacted (with a greater majority as this is Varushka). What is certain is that the Iron Helms will cease to be cruel, and immediately cease to be able to carry out merciless onslaughts or any similar orders designed to break the enemies will. They will not be able to carry out that order this season or in the future, if the order is submitted it will be treated as a balanced attack.
+
+Next season, they will gain the opportunity to embrace one or another new qualities that focus on dark magics and curses, but there is no way to know in advance what those qualities might be. If Varushka is serious in wishing to set aside the brutal but effective approach long employed by the Iron Helms then they must leap in the unknown.
+==Resolution==
+The Urizen, Dawn, Navarr, and Varushkan assemblies all enacted mandates to urge their citizens to protect their borders from the Druj. The Varushkan assembly also discussed a mandate raised by '''Amris Johan Merikovich''', urging the [[Iron Helms]] to [[386YE_Autumn_Equinox_Synod_judgements#Judgement_80|eschew cruelty]] in favour of dark magic; the Eyes of Loyalty were [[386YE_Autumn_Equinox_Synod_judgements#Judgement_131|turned on this mandate]] at the request of '''Anastasiya Lukashovna Volkov'''.

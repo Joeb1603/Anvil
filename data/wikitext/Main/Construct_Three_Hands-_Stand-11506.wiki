@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Announced by Laughlan Vi Temeschwar, Master of Rings">To commission the weirwood bourse seat sinecure in Holberg at the request of the Sand Fishers and to create the Imperial title of the Red-Eyed Reaper of Three Hands' Stand to be appointed by League National Auction</quote>
+==Overview==
+* Creates a bourse seat in [[Holberg]] producing [[weirwood]] as per '''[[The_greatest_city_in_the_world#Flaxen_Pillars|The greatest city in the world]]''' wind of fortune
+* Announcement by the [[Master of Rings]]
+==Date==
+* Winter 385YE
+==Cost==
+* Cost as per opportunity
+* 20 wains of mithril
+* 60 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Flaxen_Pillars}}
+==Outcome==
+* Now that work is complete, the [[Flaxen Pillars|Red-Eyed Reaper]] will be [[Auction_of_the_Seats#Additional_Titles|auctioned]] as a national Bourse seat of [[the League]] for the first time at the Spring Equinox 386YE for a reduced term

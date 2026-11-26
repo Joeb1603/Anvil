@@ -1,0 +1,3 @@
+<div style="width: 500px; float: right; clear: right; margin-left:10px;" class="box">
+<div class="box-inner">
+'''Conjunction'''<br>The information presented here details the background and objectives for one or more [[Sentinel Gate#Conjunctions|conjunctions]] of the [[Sentinel Gate]]. Details relating to the day, timing, gate size, and any additional information will be summarised on the [[{{{1}}}|Wind of War page for the event]].</div></div>

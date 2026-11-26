@@ -1,0 +1,19 @@
+[[Category:Senate Motion]][[Category:386YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Redoubt, Seconded: Zenith">Convert the Temple of the Four Winds to the Monastery of the Four Winds as detailed by the civil service opportunity. Position to be elected by the Urizen National Assembly. Fully funded by Urizen. Requires a commission.</quote>
+==Overview==
+* Converts the [[Arbiter_of_the_Four_Winds#Temple_of_the_Four_Winds|Temple of the Four Winds]] as per the '''[[Thresher%27s_summer#A_New_Monastery|Thresher's summer]]''' wind of fortune
+* Passed
+
+==Date==
+* Autumn 386YE
+
+==Cost==
+* Costs as per opportunity
+* 30 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Temple_of_the_Four_Winds}}
+==Outcome==
+Now complete, the [[Arbiter of the Four Winds]] will be available to appoint for the first time by the Urizen Assembly at the Winter Solstice 386YE

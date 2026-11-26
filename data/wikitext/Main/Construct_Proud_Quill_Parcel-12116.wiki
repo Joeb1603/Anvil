@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Autumn]]
+__NOTOC__
+<quote by="Announced by Cormack Dun, Bearer of an Imperial Wayleave">The Proud Quill Parcel in Kalpaheim, Hahnmark. 16 wains of weirwood. A herb sinecure to be planted in open land behind the Proud Quill Ale Hall by unanimous agreement of Wintermark senators, title to have <u>tenure</u></quote>
+==Overview==
+* Constructs a sinecure in Kalpamark, [[Hahnmark]]
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+==Date==
+* Autumn 386YE
+==Cost==
+* Standard costs apply
+* 16 weirwood
+* 48 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Proud_Quill_Parcel}}
+==Outcome==
+Now construction is complete, the [[Guard of the Proud Quill Parcel]] will be available to appoint by unanimous decision of the senators of [[Wintermark]] for the first time at the Spring Equinox 387YE

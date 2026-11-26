@@ -1,0 +1,1 @@
+<div class="captioned-image captioned-image-{{{align|right}}}" style="clear: {{{align|right}}};">[[File:PDF Icon.png|124x150px|link={{{link}}}]]<div class="caption">{{{caption}}}</div></div>

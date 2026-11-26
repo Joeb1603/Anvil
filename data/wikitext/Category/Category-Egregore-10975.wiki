@@ -1,0 +1,3 @@
+<div style="float:right; width: 700px; clear:left;">{{CaptionedImage|file=Egregang.png|align=left|caption=Every nation has an egregore spirit, which bonds with one or more citizens of that nation and offers supporta nd guidance.|width=700}}</div>
+==Overview==
+Each nation has a single egregore spirit, created through ritual magic to represent the personification of the nation. The spirit may be present in more than one host body at any time. The ritual was created by the Brass Coast to ensure that the nations of the Empire retained their independent character and culture. In the game they act to encourage the players to maintain the visual and thematic identity of their nation. They are occasionally able to tell if a member of their nation is dead or alive.

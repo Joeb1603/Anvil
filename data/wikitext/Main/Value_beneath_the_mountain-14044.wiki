@@ -1,0 +1,102 @@
+[[Category: 388YE Autumn]][[Category:Winds of Fortune]]
+<quote by="Clytemnestra of the House of the Wanderer, General of the Argent Sword">By the grace of Conclave, this season we train our new recruits! A mortal army would rest and recover, tell the stories of their actions and their virtue, and prepare for the seasons to come. Virtue is the Ambition of the soul, the currency of the exemplar, and the eternity of the paragon. A season of virtuous discussion would see me well fed - but children of the Autumn realm, you are not like me! This season, while we are not fighting, we will be doing something you will enjoy. Under Mount Polus, the great mountain we call Kaspoena's Reach, there are riches to be found! This season let us sniff out the value beneath the mountain, within the crevasse at its feets. My foxes, lead the way! My minotaurs bring your picks! My spiders, be ready to evaluate what we find! We are bound by common cause - to seek the unspent coin of our mountain, to rejoice in the Prosperity of our industry, to enrich our tomorrows with the work of today.</quote>
+<div style="float:left; width: 300px; clear: right;">{{CaptionedImage|file=Cavern's Edge.jpg|align=left|width=500}}</div>
+==Overview==
+During the Spring Equinox 387YE, the Golden Chalice received an arcane projection from [[Meraud]], the ''King of the Twilight Sun'', that would dramatically and permanently elevate one of the largest peaks in a region. The ''Hand that Shakes the Heavens'' was performed by the '''Ashen Flame''' coven of [[Urizen]], targeting [[Zenith#Occursion|Occursion]] in Zenith. Tremors began to be felt across the territory as one of the mountains, Mount Polus, [[Sound_and_vision#A_Mountain_Rises_(Zenith)|began to rise]]. Shortly before the Summer Solstice, an overwhelming crunch was heard as a crevasse opened at the base of the mountain, beckoning those seeking adventure. Preliminary investigation by the ''Citadel of the Empty Sword'' suggested that an army could be used to explore the crevasse. 
+
+Last season, the [[Argent Sword|General of the Argent Sword]], '''Clytemnestra of the House of the Wanderer''', issued orders to the heralds of her army to "''sniff out the value beneath the mountain''", and they have done so with all the propensity expected of creatures of the [[Realm#Autumn|Iron Labyrinthe]]. They have found a previously undiscovered vein of [[mithril]] in the series of caverns, which go even deeper than previously believed. 
+
+Unfortunately, the crevasse and the caverns it leads to are dark, and there are strange, hostile creatures that dwell in the depths.
+==The Treasure of Kespoena's Reach==
+<div {{Float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Kespoena's Nadir'''</tr>
+<tr><td>'''Commission Type:''' Bourse Seat</td></tr>
+<tr><td>'''Location:''' Occursion, Zenith</td></tr>
+<tr><td>'''Cost:''' 300 thrones in labour</td></tr>
+<tr><td>'''Upkeep:''' 10 thrones a season</td></tr>
+<tr><td>'''Time:''' Six months</td></tr>
+<tr><td>'''Effect:''' Creates the ''Kespoena's Nadir'' bourse seat that produces 12 wains of mithril a season</td></tr>
+<tr><td>'''Availability:''' Until the end of the Summer Solstice 389YE</td></tr>
+<tr><td>'''Special:''' Can be announced by the [[Master of the Koboldi]]</td></tr>
+</table></div>
+* '''The General of the Argent Sword has received three wains of mithril from the expedition'''
+* '''The mithril vein could be worked, establishing a new mithril seat in Occursion'''
+* '''Further exploration will uncover more of the vein, leading to an opportunity for the mine to be expanded'''
+The mithril vein could be established as a bourse seat, ''Kespoena's Nadir'', by either Senate motion or by an announcement from an appropriate title. Interestingly, the ''koboldi'', heralds of [[Adamant]], have expressed an interest in being the ones to work on the project and have made clear they consider it to be of appropriate [[Master_of_the_Koboldi#Commission_stone_construction|grandeur]] even if it doesn't involve white granite. 
+
+What's more, once complete, an appropriate army could explore even deeper into the cavern. Either the [[Boyar's Hasta]] (hiring the appropriate sell swords), the [[Narwhal's Spear]], the [[Seventh Wave]], the [[Wolves of War]] (employing the appropriate mercenaries), or a different army enchanted with [[Bound by Common Cause]] could take a defensive order to uncover more of the vein, leading to an opportunity for the mine to be expanded.
+
+==Under Kespoena's Reach==
+<div {{float}}><quote by="Gancio di Catazar, Citizens' Voice">To rename Mount Polus in Zenith, the highest mountain in the Empire, to "Kespoena's Reach", after the astronomancer for whom that mountain was raised. Her dream, to rebuild her spire atop the tallest mountain in Zenith, was rendered impossible by the Arch of the Sky quarry - but with Ambition, and love, nothing is beyond our reach. Dare to do the impossible. Dare to dream.</quote></div>
+* '''There are six conjunctions to various pockets in the chasm under Kespoena's Reach'''
+* '''Each successful conjunction will reduce the cost of establishing ''Kespoena's Nadir'' by eight thrones if commissioned this season'''
+* '''If all six are successful, then it will reduce the time to establish ''Kespoena's Nadir'' to three months if commissioned this season'''
+The caverns that the crevasse leads to are long and winding; it will cost three hundred thrones to establish routes to and from the vein and establish all the necessary equipment within. There are six opportunities to reduce the cost of the work, and potentially even speed it up if the 
+
+The creatures are unknown. The reports from the soldiers of the army have been that they are humanoid, but beyond that it is anybody's guess. Certainly, they are aggressive; one golden spider of the [[Prospero|City of Bridges]] was bludgeoned in the back of their cephalothorax whilst carefully checking the width of a tunnel.
+<div {{float}}><box>
+'''OOC Note:''' The following restrictions apply for all participants in these encounters for safety reasons:
+*It is not possible to use bows or crossbows
+*It is not possible to use a weapon or implement over three feet
+*It is not possible to use a shield other than a buckler
+</box></div>
+One word of warning the prognosticators have been able to provide is that the caverns and tunnels are far too small for shields or long weapons or implements. Anyone who attempts to take such an item into the caverns risks quickly becoming stuck, making themselves and their colleagues vulnerable. As a result, they have advised that nobody take a weapon or implement longer than three feet into the cavern nor any shield larger than a buckler.
+
+===Dismal Pit===
+* '''This is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''A small band of Disciples of Sulemaine ventured into the cavern when it first opened'''
+* '''''Herminius of the House of the Wanderer'' is responsible for killing the Disciplies''' 
+{{NoInnocentsPresent}}
+Disciples of Sulemaine, those who clung to the teachings of the [[Sulemaine|Paragon of Blades]] have been encountered in the tunnels of the cavern. Nothing suggests that these Disciples of Sulemaine are the [[To_fight_aloud#Fallen_Hero|widely known]] disciples. Indeed, scouts suggest that this band ventured into the cavern when it first opened and have eked out an ascetic existence ever since. They missed the call to action from the Urizen Assembly and the subsequent war in the mountains that followed. Now, they have found out what happened and have taken to launching ambushes on the Autumn soldiers of the Argent Sword as they pass through winding tunnels, and there is nothing to suggest that they would not do the same to mortal labourers. If they can be dealt with, then it will reduce the need for guards for the labourers passing through this part of the caverns.
+
+If successful, '''Herminius of the House of the Wanderer''' will receive ten crowns from grateful families of the few citizens who lost their lives to the Disciples of Sulemaine before the Winter Solstice 388YE.
+
+===Fuliginous Burrow===
+* '''This is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''A small band of bandits fled ahead of the heralds into the cavern and are holed up'''
+* '''The burrow has the potential to be harvested for lightstones for the efforts'''
+* '''The ''Architect of Illumination'' is responsible for defeating the bandits'''
+{{NoInnocentsPresent}}
+Some loathsome folks choose to spend their lives taking from others and denying them the [[Prosperity|fruits of their labour]]. A small band of bandits, "''The Nightwoven''", were forced to flee ahead of the army into the caverns and are now holed up. As luck would have it, the burrow the bandits have chosen to make camp in has high potential to be harvested for [[Technology#Lightstones|lightstones]]. If the bandits can be defeated, then keen crafters will journey to the burrow to claim some of the lightstone.
+
+If successful, both the [[Architect of Illumination]], '''Felix of the Wise Citadel''', and whoever is appointed as the [[Merchant Boyar of the Light Market]] at the upcoming summit will receive six crowns in thanks from merchants keen to make use of the influx before the Winter Solstice 388YE.
+
+===Mirksome Tunnel===
+* '''This is a [[Accessibility#Combat_Unlikely_or_Contained|combat unlikely]] encounter'''
+* '''Sentinels who supported the efforts are injured'''
+* '''They will need to be treated so they can map their way out'''
+* '''The ''Gardener of Pallas'' is responsible for ensuring the sentinels are treated'''
+{{InnocentPeoplePresent}}
+There are several routes from the foothills of Occursion through to the discovered mithril vein. Sentinels from the ''Citadel of the Empty Sword'' were travelling to patrol along the borders of Zenith when the enthusiasm of the Argent Sword led to them joining the efforts to explore the crevasse. The sentinels have done well, but two of their number have been injured, and they face a perilous slog back through the tunnels. Word from the heralds suggests that the sentinels may have uncovered a more efficient route to the vein; if they can be treated, they will be able to map their way out, allowing the labourers to take the much more expedient path.
+
+If successful, the [[Gardener of Pallas]], '''Arephanes of Tropaion Citadel''', will receive a bounty of sixteen herbs from the grateful families of the sentinels before the Winter Solstice 388YE.
+
+===Caliginous Pocket===
+* '''This is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''Creatures are in the way of an underground lake which could be used for supplies'''
+* '''If the creatures in the pocket can be defeated, the labourers will be able to use it for water and food'''
+* '''The ''Arbiter of the Four Winds'' is responsible for defeating the creatures to make use of the underground lake'''
+{{NoInnocentsPresent}}
+The discovery of the underground lake was perhaps more surprising than the mithril vein. Strange luminescent shapes have been spotted moving under the water, and the bones of fish were found before the golden spiders that stumbled upon the lake were driven away by creatures. The Caliginous Pocket serves as a key chokepoint between wherever the creatures came from and the lake. If the creatures can be defeated, then a cache could be established, allowing the efforts to make full use of the lake.
+
+If successful, both the [[Arbiter of the Four Winds]], '''Donato of the Crucible''', and the [[Keeper of the Study]], '''Annie Webster''', will receive six crowns in thanks from curious gourmands before the Winter Solstice 388YE.
+
+===Tenebrous Cave===
+* '''This is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''Creatures in the cave are preventing a herald from claiming a cache of gemstones'''
+* '''If the creatures in the cave can be defeated, the herald can retrieve the valuable gemstones'''
+* '''The ''General of the Argent Sword'' is responsible for defeating the creatures'''
+{{NoInnocentsPresent}}
+One of the fox-like scouts of the army has uncovered a cache of valuable gemstones. Unfortunately, there is a small pack of the strange creatures in the way of the herald of [[Callidus|Callidus of the Coin]]. The herald has no way of defeating the creatures, and time is running out for the vulpine herald to get its fill of precious gemstones. If they can be recovered, then <s>all</s> <s>most</s> some of them will be put towards the establishing of Kespoena's Nadir.
+
+If successful, the [[Argent Sword|General of the Argent Sword]], '''Clytemnestra of the House of the Wanderer''',  will receive gemstones worth ten crowns from the herald before the Winter Solstice 388YE.
+
+===Twilight Cavern===
+* '''This is a [[Accessibility#Combat_Unlikely_or_Contained|combat unlikely]] encounter'''
+* '''A scout has uncovered the ideal place to place a location aura to restore heroic will'''
+* '''''Herthfire's Hospitality'' or ''Leonine Pavilion'' could be performed in the area to steady the will of labourers'''
+* '''The ''Oblivion Sentinel'' is responsible for seeing one of the rituals performed and helping the malaised sentinels'''
+{{InnocentPeoplePresent}}
+If the choice is made to begin establishing Kespoena's Nadir this season, then one of the two rituals that allow the restoration of [[Heroic skills|heroic will]] would be excellent for the work in the Twilight Cavern; an enclosed area near the mithril vein. Unfortunately, those who spend too long in the Twilight Cavern are beset by a strange malaise; some form of [[Roleplaying_effects|miasma]] that saps the sufferer's will and encourages them to simply rest. If that can be dealt with, the cavern will serve as an excellent intermediate resting point; performing either [[Herthfire's Hospitality]] or [[Leonine Pavilion]] here would allow the labourers to rest and recuperate without falling to the miasma. There are a small band of weakened sentinels who will need to be treated, either with an appropriate [[anointing]], or by talking them through the situation whilst the ritual is performed. 
+
+One of the heralds of [[Sung]], ''Singer of the Silent Melody'' has asked whoever is appointed as the [[Oblivion Sentinel]] by the Urizen generals this season to intercede and ensure that the ritual, preferably the [[Herthfire's Hospitality|better one]] is performed. If successful, the Oblivion Sentinel will receive three pawns of [[Vis#Crystal_Fire|crystal fire]] from the herald of the Rainbow Serpent before the Winter Solstice 388YE.

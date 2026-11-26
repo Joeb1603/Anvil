@@ -1,0 +1,27 @@
+==Overview==
+The Oblivion Sentinel is an [[Imperial title]] awarded to a citizen of [[Urizen]]. Construction of the Mithril Sculptures was [[Construct_Mithril_Sculptures|passed]] by the Imperial Senate during the Summer Solstice 385YE [[The_fate_of_the_many#The_Serpent.27s_Edge|following an opportunity presented]] by the Night eternal [[Sung]]. 
+==Responsibilities==
+The Oblivion Sentinel is responsible for maintaining a watch over the {{Black Plateau}} and deal with any threats associated with it, at the very least this means taking charge of any quests or skirmishes involving the broken ones attracted to [[Spiral#Screed|Screed]], but could also involve more esoteric threats. In addition if the mithril sculptures were to be threatened in any way, it would be the responsibility of the Oblivion Sentinel to deal with those threats.
+==Powers==
+===Alert to the Plateau===
+The Oblivion Sentinel benefits from a unique gift from [[Sung]]; the eternal will ensure that the Sentinel is always alerted to any significant change in the {{Black Plateau}}.
+===Gift from Sung===
+The Oblivion Sentinel receives a single ''feather talisman'' each season, a simple magical trinket that smooths the way towards [[Clear Counsel of the Everflowing River|seeking her counsel on matters of mystery]].
+==Appointment==
+The Oblivion Sentinel is appointed during the Autumn Equinox each year. It is selected by unanimous decision of the [[Urizen]] [[general]]. If a unanimous decision cannot be reached, the title may be appointed by the [[Military Council]] instead.
+
+The title can be held by any Urizen citizen. The Sentinel serves until the next scheduled election. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Urizen [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+==Oblivion's Edge==
+The spire of Oblivion's Edge in Screed was originally created to watch over the {{Black Plateau}}, to monitor its dangers and its phenomena. It was ruined when Spiral fell to the Grendel in 331YE, and remained vacant for nearly fifty years. It has been rebuilt since, but its location made it uninhabitable once the dark power  was roused to wakefulness. Then in 383YE, the eternal [[Sung]] made [[The_Net_of_the_Realms#An_Aerie_for_the_Watchers|an offer]] to the people of Urizen. She would enfold Oblivion's Edge in her wings (metaphorically?), concealing it from the eyes of the enemies of Urizen. 
+
+With the permission of '''Cato of Scarlet Guard''', she consumed the magic of the [[Spiral_Spoils_of_War#The_Night_Arbour|Night Arbour]] and made the tower vanish. It continued to serve as a base of operations for Urizeni sentinels to [[spy network|keep a close eye]] on the territory, and the {{Black Plateau}} with a promise that the protective ward would remain in perpetuity - or at least until Sung was placed under [[Alignment#Enmity|enmity]].
+
+Then in 385YE, the ''Lord of Illusions'' proposed a transformation of her own centred around the hidden spire. The eternal claimed there was symbolic connection between the people of the spires and the darkness below Oblivion's Edge. "''The time of the sun glass is done; now it is time for a shadow pharos to keep the ship of destiny from the rock.''" 
+
+The spire of Oblivion's Edge had already been [[Powers_of_the_Imperial_Senate#Concedence|ceded]] to Sung, but now she proposed to go further. By ending the tower's use as a spy network, she allowed any Urizen in Spiral to use [[Vale of Shadows]] to draw on its obfuscating power to help hide their home and create a mystical connection with the rest of their nation. To do this required the creation of two mithril sculptures, one at the northern end of the [[Spiral#The_Three_Passes|Twilight Gate]] in southern [[Zenith#Proceris|Proceris]] and one above the [[Brilliant Star]] in the peaks of [[Redoubt#Optarion|Optarion]] in [[Redoubt]]. Once they were in place they aligned with Oblivion's Edge focussing the mysterious [[Night magic]] Sung was already employing there.
+
+To ensure that the Urizeni remained alert to any threats posed by the {{Black Plateau}}, Sung asked the Imperial Senate to create the position of ''Oblivion Sentinel''. They were charged with keep a close watch on the {{Black Plateau}} and deal with any threats that emanate from it. In return, Sung would ensure that they are always alerted to any significant change in the {{Black Plateau}} . She would also provide them with a single feather talisman each season, a simple magical trinket that smooths the way towards [[Clear Counsel of the Everflowing River|seeking her counsel on matters of mystery]].
+{{CaptionedImage|file=OblivionSentinel.png|caption=Floria Sunshaper, Oblivion Sentinel|align=left|width=250}}
+{{RecentElections|Oblivion_Sentinel}}
+[[Category: Title]]
+[[Category: Urizen]]

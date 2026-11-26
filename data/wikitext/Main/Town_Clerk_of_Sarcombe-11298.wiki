@@ -1,0 +1,18 @@
+==Overview==
+The Town Clerk of Sarcombe is an [[Imperial title]] awarded to a citizen of [[the Marches]]. Construction of the Townsend Treasury was [[Construct Townsend Treasury|announced]] by '''Bertrand''' as [[Bearer of an Imperial Wayleave|Bearer of the Second Imperial Wayleave]] during the Autumn Equinox 385YE.
+
+==Responsibilities==
+The Town Clerk of Sarcombe has very little responsibility; the majority of work done in running the town and its budget is organised by a council. If the Townsend Treasury or the merchants who were visiting the town who were not trading in metal were to be threatened in any way, it would be the responsibility of the Town Clerk of Sarcombe to deal with those threats.
+
+==Powers==
+===Market Fees===
+The Town Clerk of Sarcombe receives a stipend of 1 throne, 2 crowns, and 16 rings raised by fees levied from traders using the town markets, as described in the [[Charter Sarcombe market town|Sarcombe Town Charter]] granted by [[Empress Lisabetta]] in 381YE.
+{{CaptionedImage|file=Calder Marwood.png|caption='''Calder Marwood''', Town Clerk of Sarcombe|align=left|width=350}}
+==Appointment==
+The title is selected by unanimous decision of the [[Marches|Marcher]] [[senator|senators]] at the Winter Solstice. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by any Marcher citizen. The Town Clerk serves until the next scheduled election. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Marcher [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+{{RecentElections|Town_Clerk_of_Sarcombe}}
+[[Category: Title]]
+[[Category: The Marches]]

@@ -1,0 +1,17 @@
+==Overview==
+* Request for funds to be used to [[Casualties#Resupply|resupply]] the [[Army|Imperial armies]].
+
+==Progress==
+* Autumn 378YE, 400 Thrones disbursed to Orrick, Senator Bregasland
+* Summer 378YE, 200 Thrones disbursed to Orrick, Senator Bregasland
+
+==Autumn 378YE==
+<ic>Motion to provide funds with the intention of resupplying the Imperial Armies, either though future motions or the Imperial Quartermaster.<br><br>''Proposed by Bregasland, seconded by Hahnmark''</ic>
+
+==Summer 378YE==
+<ic>To distribute funds to Bregasland with the intention of resupplying the armies. The Quartermaster General will be called as an expert witness.<br><br>''Proposed by Bregasland, seconded by Mitwold''</ic>
+
+[[Category:Senate Motion]]
+[[Category: 378YE Summer]]
+[[Category: 378YE Autumn]]
+__NOTOC__

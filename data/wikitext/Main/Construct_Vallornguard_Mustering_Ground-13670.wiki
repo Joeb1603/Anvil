@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:388YE Spring]]
+__NOTOC__
+<quote by="Proposed: Ossium, Seconded: Hercynia">To commission the Vallorn Mustering Ground at a cost of 10 weirwood, 10 mithril, and 60 crowns. It will take 3 months to construct, with no additional upkeep costs required. Self-funded.
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in Holtford, Miaren, as per the '''[[Every_path_you_know#Green_Eyed_Monster|Every path you know]]''' wind of fortune
+* Passed
+
+==Date==
+* Spring 388YE
+
+==Cost==
+* Costs as per opportunity
+* 10 wains of weirwood
+* 10 wains of mithril
+* 60 crowns in labour costs 
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Vallornguard_Mustering_Ground}}
+==Outcome==
+* Now complete, the [[First Thorn of the Vallornguard]] will be available to appoint by the [[Vallornguard]] at the Summer Solstice 388YE for a shortened term of nine months

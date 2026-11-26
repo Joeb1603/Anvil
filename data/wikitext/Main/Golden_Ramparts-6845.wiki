@@ -1,0 +1,40 @@
+==Rules==
+{{Season|Summer|80}}
+===Performing the Ritual===
+{{Casting time|10}} {{Imperial Reduction}}
+
+This ritual targets a [[fortification]], and must be performed in a strong Summer [[regio]] in the [[territory]] containing the fortification. If the territory is part of the Empire, then it may instead be performed from the [[Regio#The_Imperial_Regio|Imperial regio]]. 
+
+{{enchantment}}
+
+===Effects===
+This ritual summons a contingent of several dozen large golden lions in service to the [[eternal]] [[Meraud]] and binds them to protect the area around the target [[fortification]]. The lions are as intelligent as humans or orcs, capable of speech, and fight alongside any garrison of friendly soldiers. They attack mercilessly, and their echoing thunderous roars inspire the defenders alongside whom they fight.
+
+The bastion is supported by a defensive force of 1,500, similar to that provided by [[military unit|military units]] taking a [[military unit#Guarding|guarding]] action to support it. This means that if the fortification has an intact [[fortification#Garrison|garrison]], its fighting strength is increased. If there is no active garrison, the force will instead defend the walls of the [[fortification#Bastion|bastion]] associated with the fortification providing 1,500 defensive force in that [[Territory#Regions|region]] which helps defend it and will inflict casualties against a force attacking the region containing the bastion.
+
+{{Season Duration}}
+
+===Options===
+{{Ritual Substitution|orichalcum|ingots}}
+
+===Assurance===
+Following the Spring Equinox 385YE, a scholar at the [[Master_of_Ice_and_Darkness#The_Icy_Crag_of_the_Eternal_Sun|Icy Crag of the Eternal Sun]] helpfully pointed out that the ritual has an assurance that had been overlooked. If the [[Senate]] ever dissolves the [[Conclave order]] of the [[Rod and Shield]], or alters their [[Rod and Shield#Manifesto|manifesto]] to remove the idea that ''Magic can determine the outcome of battles and wars'', the ritual loses all power.
+==Description==
+This ritual was given as a gift to the [[Rod and Shield]] by the [[eternal]] [[Meraud]]. Raewynn Farkas, then [[Grandmaster]] of the Rod and Shield, attempted to have the ritual added to Imperial lore in Spring 380YE, but due to a number of bureaucratic problems the ritual was not actually made available to the magicians of the Empire until Autumn on the following year.
+
+''Golden Ramparts'' infuses a [[fortification]] with the power of the Summer eternal Meraud. The most obvious sign of the [[enchantment]] is the appearance of several dozen magical golden lions - denizens of Meraud's realm. These lions are intelligent, and articulate, creatures,  generally referring to themselves as "knights". They savagely attack anyone who seeks to damage the fortification, or the people of the [[territory]] wherein it stands. Their roars echo like thunder over quite a wide distance, and they glow visibly when exposed to sunlight. They are very occasionally accompanied by a cadre of Meraud's apprentices - heralds with powers comparable to those employed by Imperial [[Magical_skills#Battle_Mage|battle mages]] who fight alongside the garrison.
+
+The [[fortification#Bastion|bastion]] of the fortification is also enchanted with Summer magic. At sunrise, noon, and sunset, the ramparts and towers shimmer with a perceptible golden aura. Soldiers who garrison the fortification feel confident and capable when in contact with the structure itself, and certain that they can resist any attacker if they simply stand firm and fight bravely. This effect is particularly pronounced if the defender is a [[changeling]] or a [[Magical skills#Magician|magician]] - indeed a changeling magician may find the experience dangerously [[Changeling#Overcome|overwhelming]].
+
+During the ritual, the coven must clearly indicate the fortification they wish to affect – the name of the target, and both the territory and region it occupies, are the bare minimum required. The biggest restriction on performing the ritual is the requirement that it be performed in a [[regio]]. While it can be performed at the [[Regio#The_Imperial_Regio|Imperial Regio]] at [[Casinea#Anvil|Anvil]], this is of no help if the fortification that is to be enchanted is not in an Imperial [[territory]].
+
+The ritual itself has something of a shadowy reputation. There are rumours that it was a bribe used to encourage the Rod and Shield to attack the [[regio]] associated with the [[Master_of_Ice_and_Darkness#The_Icy_Crag_of_the_Eternal_Sun|Icy Crag of the Eternal Sun]], bringing the [[Castle_of_wind_and_sky|frozen wrath]] of [[Cathan Canae]] to bear on that [[College of Magic|college of magic]]. The source of the rumour is believed to be the eternal [[Jaheris]], and as such should be taken with a pinch of salt. Following the contribution of [[Might of Vstaive]] to [[Urizen lore]], however, this concern about the provenance of the ritual once again became a topic of discussion. Especially given that Jaheris was again apparently involved in seeing that magic made available to the magicians of Urizen.
+
+==Common Elements==
+Performance often uses a map of the territory where the fortification stands - or of the fortification itself. Images or effigies of the castle may also be involved. References to the enduring majesty of the stars – or the [[astronomancy|astronomantic]] constellation of [[the Mountain]] - resonate strongly with its performance. The runes [[Tykonus]] and [[Feresh]], which represent victory and majesty, are another obvious component to use. In a [[dramaturgy|dramaturgical]] context, [[the Bishop]] or [[the Captain]] would both be appropriate [[Dramaturgy#The Personae|Personae]] to use.
+
+An evocation of [[Meraud]] is a standard component of this ritual; indeed leaving it out could in theory offend the eternal whose power it draws on. 
+
+[[Category:Summer Ritual]]
+[[Category:Rituals]]
+[[Category:Warfare]]

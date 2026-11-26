@@ -1,0 +1,43 @@
+==Overview==
+The Volhov of the Wyrding Tower is an [[Imperial title]] awarded to a citizen of [[Varushka]]. Construction of the Wyrding Tower was [[Construct Wyrding Tower|announced]] by '''Borys Vardovich Straskovich''', as the [[Boyar of the Iron Roads]], during the Summer Solstice 388YE, and construction was completed shortly before the Autumn Equinox 388YE.
+
+The tower serves to end the threat of the [[Sunrise_over_Livardz#The_Ashen_Wind|ashen wind]], and initial plans were drawn up in response to an [[Sunrise over Livardz|appraisal]] proposed by '''Ostrik Vulpe''', as Senator for Volodmartz, to restore the Prosperity of [[Volodmartz]]. 
+==Responsibilities==
+The Volhov of the Wyrding Tower has the responsibility to keep watch over the Wyrding Pond, and to deal with any threat to it. In addition, in the event that the tower, or those trading or working there, were threatened, the Volhov would be expected to deal with those threats.
+
+==Powers==
+===Volhov's Expertise===
+If the titleholder is a [[volhov]], then they can exchange [[beggar's lye]] and [[tempest jade]] for splinterstars and pouches of sunbleach, respectively. As a [[ministry]], the Volhov of the Wyrding Pond can exchange measures for these at a set price. The Volhov of the Wyrding Pond spends their materials and makes their choices during downtime from their character page. Resources are removed from, and commodities are placed into, the character's inventory when the downtime is processed.
+
+===Sunbleach===
+<div style="width: 350px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightYellow;">'''Sunbleach'''</td></tr>
+<tr><td>20 measures of beggar's lye </td><td>2 pouches of sunbleach</td>
+<tr><td>44 measures of beggar's lye </td><td>4 pouches of sunbleach</td>
+<tr><td>72 measures of beggar's lye </td><td>6 pouches of sunbleach</td>
+</table></div>
+Sunbleach is a lumpy, powdery residue created from beggar's lye exposed to the wan radiance of the region in the Wyrding Pond. It can cause mild burns if it touches naked skin, and is normally sealed in leather pouches and handled with gloves. It contains captured [[Day magic]], however, allowing it to be used during the performance of any ritual of that realm. The magician dusts their cheeks and hands with the caustic residue (which counts as the use of a tonic), and they gain a +2 bonus to their Day lore for the next ritual they perform within ten minutes, subject to the [[Magical_skills#Gaining_additional_ranks|normal rules]] for additional ranks. Unfortunately, after thirty minutes, they suffer an unpleasant malady, similar to a [[Combat#Traumatic_Wounds|traumatic wound]], which must be treated by a [[surgical skills#Physick|physick]] using [[marrowort]] before they can perform ''any'' magic again.
+
+===Splinterstars===
+<div style="width: 350px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightYellow;">'''Splinterstars'''</td></tr>
+<tr><td>9 ingots of tempest jade</td><td>3 splinterstars</td>
+<tr><td>20 ingots of tempest jade</td><td>6 splinterstars</td>
+<tr><td>33 ingots of tempest jade</td><td>9 splinterstars</td>
+</table></div>
+Splinterstars are the result of tempest jade being exposed to the odd radiance of the regio, making it opaque and prone to splintering. When enough are gathered together, they can be used as a kind of [[Game_items#Mana_Crystals|mana crystal]], albeit with different capabilities. Given the somewhat optimistic, euphemistic moniker of ''Splinterstars'', a small pouch of the residue can be used as if it were crystal mana, but only for casting [[Spellcasting#Offensive_Spells|offensive spells]] or rituals using [[Day magic]]. These splinterstars appear to be attuned to the Day [[Day magic#Resonance|resonance]] of [[Day magic#Force|force]] and if used to perform either [[repel]] or [[shatter]], it allows the caster to use it on two targets instead of one in a similar manner to the [[Kimus' Glaring Eye]] enchantment. They have only 10 seconds to deliver the second call of [[Calls#REPEL|REPEL]] or [[Calls#SHATTER|SHATTER]]. 
+
+<!--{{CaptionedImage|file=Character.jpg|caption='''CHARACTER''', Volhov of the Wyrding Tower|align=left|width=250}}-->
+==Appointment==
+This title is appointed during the Autumn Equinox each year. The Volhov of the Wyrding Tower is appointed by citizens of Varushka who control [[mine|mines]] and [[forest|forests]] [[Resource#Personal_Resource|personal resources]] through the [[Tally of the Votes]]. The more improved a mine or forest an individual controls, the more votes they can allocate in support of a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Varushkan citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Volhov_of_the_Wyrding_Tower}}
+
+==Funding==
+Click ''Expand'' to see the list of contributions made to construct the Wyrding Tower.
+<div class="mw-collapsible mw-collapsed">
+{{CommissionProgress|Construct_Wyrding_Tower}}
+</div>
+{{Responsibilities Expectation}}
+[[Category:Title]][[Category:Bourse]][[Category:Varushka]]

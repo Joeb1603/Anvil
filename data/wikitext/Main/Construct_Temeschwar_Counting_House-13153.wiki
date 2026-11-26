@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:387YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Temeschwar, Seconded: Kallavesa">To construct a prosperous counting house in Temeschwar. This will add 14 crowns to the Virtue Fund per summit. Self funded
+</quote>
+==Overview==
+* Constructs an [[edifice]] in [[Temeschwar]]
+* Passed
+* More information can be found in the '''[[Forwards and Rewards]]''' wind of fortune
+
+==Date==
+* Autumn 387YE
+
+==Cost==
+* Costs as per opportunity
+* 5 wains of weirwood
+* 5 wains of white granite
+* 30 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Temeschwar_Counting_House}}
+==Outcome==
+* Now complete, the [[Rewarding|Virtue Fund]] will gain an additional 14 crowns each season from donations to [[Temeschwar#The_Bloodied_Rose|the Bloodied Rose]] in Temeschwar, starting at the Summer Solstice 388YE

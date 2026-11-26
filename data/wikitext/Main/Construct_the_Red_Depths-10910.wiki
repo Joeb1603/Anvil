@@ -1,0 +1,19 @@
+[[Category:Senate Motion]][[Category:385YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Segura, Seconded: Weirwater">To commission the Red Depths in Kahraman as a Brass Coast National Bourse seat, self funded by the virtuous citizens of the Brass Coast.</quote>
+==Overview==
+* Creates a [[mithril]] seat in [[Kahraman]] as per the '''[[Landscape#The_Red_Depths|Landscape]]''' wind of fortune
+* Passed
+==Date==
+* Autumn 385YE
+==Cost==
+* Costs as per the wind of fortune
+* 50 thrones
+* Three months to complete; due to the [[Against_the_Jotun#Hill|disruption caused by the Lasambrian Orcs]] after the Autumn Equinox, completion on the Red Depths has been delayed.
+* 10 thrones seasonal upkeep
+
+==Progress==
+{{CommissionProgress|Red_Depths}}
+==Outcome==
+* Due to the [[Against_the_Jotun#Hill|disruption caused by the Lasambrian Orcs]] after the Autumn Equinox, completion on the Red Depths has been delayed until at least the start of the Spring Equinox 385YE at the earliest.
+* Once complete [[the Red Depths]] will be elected by [[Tally of the Votes]] by the [[fleet|fleets]] of the Brass Coast.

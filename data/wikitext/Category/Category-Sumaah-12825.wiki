@@ -1,0 +1,2 @@
+<div style="float:right; width: 300px; clear: left;">{{CaptionedImage|file=IconSumaah.jpg|align=right|width=300}}</div>
+{{:Sumaah Republic}}

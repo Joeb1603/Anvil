@@ -1,0 +1,37 @@
+[[Category:Title]] [[Category:Conclave]]
+{{CaptionedImage|file=Iago Melfizzi.jpg|caption=Iago Melfizzi, first Bursar of the Conclave|align=left|width=250}}
+==Overview==
+The Bursar of the Conclave is an [[Imperial title]] bestowed on a [[Magical skills#Magician|magician]]. It is appointed through the [[Conclave]].
+
+The position was [[Create_title_of_Bursar|established]] by unanimous vote of the [[Senate]] in Summer 377YE. The vote followed extensive political manoeuvring within the Conclave, and a [[Concord|Declaration of Concord]] laying out the responsibilities and powers the magicians wished the Bursar to possess. During Autumn 380YE, the Bursar's ability to participate in the gambits of the Conclave was rendered moot when [[Rules_update_2017#IC_Explanation_5|certain errors]] that had crept into the Conclave procedures were corrected. 
+
+At the same time as the previous errors were being corrected, new opportunities to acquire crystal mana from magicians who did not attend Anvil were presented, offering the Bursar an alternative way to increase the supply of mana crystals for Imperial magicians who attend Anvil. During the Winter Solstice 385YE '''Aleksandr Zoravich Novosad''', the [[Arcane Architect]], announced a new commission, a [[Construct Ministry for Bursar of the Conclave|market for mana]] in [[Karsk]] that would decrease the cost to the Bursar for purchasing mana crystals - though reducing the overall amount available. This was completed shortly following the Winter Solstice 386YE.
+
+==Responsibilities==
+The purpose of the Bursar is to help the Conclave raise money to acquire resources for Conclave members and to arrange the purchase of materials and items that the Conclave wishes to acquire. They are expected to liaise closely with the [[archmage|archmages]] and the [[grandmaster|grandmasters]] of the [[Conclave order|orders]] to identify what is available and what is required.
+
+==Powers==
+===Assayer of the Font===
+{{Power of Declaration|Bursar of the Conclave|Endowment}}
+
+In theory this declaration is intended to allow the Bursar to distribute mana from the Font, but in practice can be used in any way they wish.
+
+===Funding the Conclave===
+<div {{float}}>
+<table class="mw-collapsible"><tr><td colspan="2" style="background-color: LightYellow;">'''Market for Mana'''</td></tr>
+<tr><td>7 Dragonbone</td><td>8 mana crystals</td></tr>
+<tr><td>10 Dragonbone<br>6 Beggar's Lye</td><td>16 mana crystals</td></tr>
+<tr><td>10 Dragonbone<br>10 Beggar's Lye<br>7 Ambergelt</td><td>24 mana crystals</td></tr>
+<tr><td>10 Dragonbone<br>10 Beggar's Lye<br>10 Ambergelt<br>10 Iridescent Gloaming</td><td>32 mana crystals</td></tr>
+<tr><td>20 Dragonbone<br>15 Beggar's Lye<br>10 Ambergelt<br>10 Iridescent Gloaming</td><td>40 mana crystals</td></tr>
+</table></div>
+The Bursar has the ability to exchange measures for mana crystals. They can provude measures each season as if they controlled a [[ministry]]. Measures used in this manner are used to buy from the Halls of Maykop who have access to crystal mana, with the assistance of several civil servants. The mana is provided to the Bursar at the start of the next summit. 
+
+The Bursar is the sole arbiter of how this mana is to be used, within the remit of their [[#responsibilities|responsibilities]]. 
+{{CaptionedImage|file=Rashid i Hayim i Riqueza.webp|caption='''Rashid i Hayim i Riqueza''', Bursar of the Conclave|align=left|width=250}}
+
+==Appointment==
+The appointment, replacement, or removal of the Bursar is made by the [[Candidacy|Declaration of Candidacy]] as part of a [[Conclave session]]. A candidate can be presented for the post of Bursar only once a season.
+
+The Bursar serves until they are replaced by another magician using the Declaration of Candidacy. As a title in the Conclave, the Bursar cannot be [[Revocation|revoked]].
+{{RecentElections|Bursar_of_the_Conclave}}

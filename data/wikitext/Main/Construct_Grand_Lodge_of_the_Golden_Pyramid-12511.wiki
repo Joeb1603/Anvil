@@ -1,0 +1,31 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Proposed: Mareave, Seconded: Reikos">A commission to build the Grand Lodge of the Golden Pyramid within Clisearn, Mareave. To create the Imperial Orc title "Bonesetter of the Delving Market" appointed by Tally of the Votes. Construction cost 50 mithril, 50 white granite of which 60% is funded. I am requesting funds to cover the remaining amount.</quote>
+==Overview==
+* Constructs a [[great work]] in Clisearn, Mareave as per the '''[[Lit_up#Golden_Opportunity|Lit up]]''' wind of fortune
+* Passed
+
+==Date==
+* Winter 386YE
+
+==Cost==
+* Costs as per opportunity
+* 50 white granite
+* 50 mithril
+* 60 crowns
+* Six months to complete
+
+==Progress==
+{{CommissionProgress|Grand_Lodge_of_the_Golden_Pyramid}}
+==Outcome==
+Now complete, the Grand Lodge has had the following benefits:
+* Adds 15 mana crystals to the Conclave font each season
+* Provides resplendent apartments for the Order's Grandmaster
+* Reduces the cost of mana purchases by the Grandmaster
+* Raises the level of investment of mines, businesses, and mana sites in the territory by one
+* Boosts the personal income of members of the order by 12 rings for one year
+* Provides 2 wains of mithril to the order's vaults each season
+* Boosts the production of the [[Fundindelve]] by 2 wains each season
+* Boosts taxation from the territory by 10 thrones a season
+* Removes the Uncooperative quality from the region of Clisearn
+* The [[Bonesetter of the Delving Market]] is available to appoint by Tally of the Votes of Imperial orcs for the first time at the Autumn Equinox 387YE

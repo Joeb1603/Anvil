@@ -1,0 +1,120 @@
+[[Category:Winds of Fortune]][[Category:387YE Summer]][[Category:Recent History]]
+<ic>The Tribune stared at the chief magistrate as the old man paced up and down. "I agree, I think we should do that," they said quietly, their attention still partly on the papers on the desk.
+
+Abraham didn't seem to notice that the Tribune was agreeing with him and continued to argue with himself. "I'm just not happy with it! If we're going to call it a judgement of appointment, then it should ''appoint'' something. This is a judgement of ''rewarding''. Words matter."
+
+"No, you're right. We should change it," responded Leonardo a little more forcefully this time. They looked down with just the slightest look of despair at the growing pile of Synod paperwork that was even now mounting up in front of them. 
+
+Abraham continued to implore the long-suffering Tribune to accept his argument. "It's confusing - having two different voting mechanisms for the same judgement. But it's ''less'' confusing than using the wrong name. The method is right, it's the name that's wrong."
+
+"I'm not sure why we're still discussing this Abraham?" asked Leonardo as politely as possible. This time it seemed the old man had finally heard them.
+
+"It's important!" he blurted out by way of justification. "If we're going to change this, I want to make sure it's ''right''. I want to be certain that this is the right way to do this. And I don't think it is at the moment..." The magistrate ran out of words, clearly frustrated that he felt he was failing to find the right argument to convince his colleague.
+
+"Sorry Abraham, I'm not sure I've made myself clear. I agree with you. You should change it. That's why I'm not sure why we're still discussing it." 
+
+"Oh. Right. I see." The old magistrate looked oddly crestfallen to have won the debate, though it may have been the disappointment of discovering that he had been the only person arguing. "I'll go and do that then..." he said as he headed for the door.
+
+"Thank you, Abraham." The Tribune shook their head, smiled wryly and returned to their beloved paperwork.
+</ic>
+<div style="float:left; width: 450px; clear: left;">{{CaptionedImage|file=LeoSecGen.jpg|align=left|caption=Leonardo i Del'Toro i Riqueza puts up with a lot, including meetings with eccentric members of the Constitutional Court.|width=450}}</div>
+==Overview==
+{{audio|link=https://www.youtube.com/watch?v=PucvUd25xa4}}
+The [[The_hard_way|inspiring sermon]] delivered by the [[Archbishop of Capodomus|Archbishop of the Capodomus]] Cathedral presented the [[General Assembly]] of the [[Synod]] with a unique opportunity to identify the greatest threat facing the Empire, the highest [[Ambition]] to which the Virtuous should ascribe.
+
+'''Estella Lucati’s''' stirring words singled out the vallorn as the goal above all others and in isolation many would agree. The Synod has repeatedly called the [[vallorn]] the greatest single threat facing the Empire. But nothing exists in a vacuum and to say that defeating the vallorn is the single most important Ambition is to also say that other Ambitions - defeating the Druj, [[Drumbeat_of_war#A_Fulcrum|anchoring the Way in Asavea]], completing the [[Blood_will_thicken#A_Question_of_Scale|Grand Inspiration of the Way]]... were all less important.
+
+The only way the Synod could unite the Empire behind a single great Ambition is to persuade people to give up those other plans. They could do that - people would unite behind the Synod if it spoke with a single voice. All it would take would be for the priests of the Synod to persuade each other.
+==Many Votes, Many Ambitions==
+* '''The Synod has not united behind a single grand spiritual ambition for the Empire
+That, as it transpired, proved too high a hurdle. The Synod considered the [[mandate]] that arose from the sermon, and it also considered three other judgements - all presenting alternatives for the greatest Ambition of the Empire. Alongside these were some noble attempts to consider them all very important but to be done in order (which would of course beg the same question of which one to do first). There was even one judgement that called on the Synod to attempt them all at the same time which was definitely Ambitious, but ultimately a call to focus on many things is the same as a call to focus on none.
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px;">
+{{SOPInner|statement=I hear the inspiring words of Estella Lucati and thank her for them. However, we must not turn away from breaking the Druj’s ability to wage war on us. Whilst the Navarr have stated that the vallorn should be removed from this plane of existence now that we have the method to do so, we cannot undertake the largest military offensive in history with the poisoned blades of the most treacherous folk in Creation at our backs. Navarr is at its weakest ebb for a decade. Liathaven is long lost. Therunin under the heel of the Druj and the Isaella’s Dance shattered. We call for aid from our Imperial kin in rebuilding Navarr’s strength, and ask that we defeat the Druj and stabilise the other fronts before turning the Empire’s full might against the vallorn.|size=small|vote=1726-290|when=387YE Spring Equinox|by=Harwyn Eternal, General Assembly}}
+{{SOPInner|statement=We believe that the faithful should focus on spreading The Way to Asavea above all other ambitions. If we try to pursue everything, then we risk achieving nothing. Let the Synod vote for the objective they favour most and vote against the objective they favour least.|vote=Failed 480-1344 ([[The_Throne#Custodian_of_Virtue|Custodian of Virtue]])|when=387YE Spring Equinox|by=Jules von Holberg, General Assembly}}
+{{SOPInner|statement=We believe that the faithful should focus on completing the Grand Inspiration of the Way above all other Ambitions. If we try to pursue everything, then we risk achieving nothing. Let the Synod vote for the objective they favour most and vote against the objective they favour least.|vote=Failed 376-1370 ([[The_Throne#Custodian_of_Virtue|Custodian of Virtue]])|when=387YE Spring Equinox|by=Novella di Sarvos, General Assembly}}
+{{SOPInner|statement=Even the most impenetrable forest may fall one tree at a time. We send Corey Wayfarer with 250 liao to urge the faithful to focus on destroying the vallorn above all other ambitions. No price is too high.|vote=Failed 800-1275|when=387YE Spring Equinox|by=Corey Wayfarer, General Assembly}}
+{{SOPInner|statement=We believe the faithful should focus on the ambitious task to defeat one enemy at a time. If we try to pursue everything we achieve nothing. Let the Synod vote to defeat the Druj first, before seeking other long term challenges.|vote=Failed 818-538 ([[The_Throne#Custodian_of_Virtue|Custodian of Virtue]])|when=387YE Spring Equinox|by=Val, General Assembly}}
+{{SOPInner|statement=We choose all four! Enlighten Asavea! Kill the Druj! Destroy the vallorn! Renovate Bastion! No price is too high. We will wage no other wars: negotiate what we can, cede what we must. We will build no other commissions: pause what we can, abandon what we must. We will pursue no other projects: adapt what we can, redirect what we must. Fight no other battle, study no other topic, sing no other song. We choose these four!|vote=Failed 191-1176|when=387YE Spring Equinox|by=Yosephus Morningson, General Assembly|size=small}}
+</div>
+<div style="float:right; width: 100px; clear: right;">[[file:Assembly_Freeborn.png|align=right|width=100]]
+[[file:Assembly_Dawnish.png|align=right|width=100]]
+[[file:Assembly_Highborn.png|align=right|width=100]]
+[[file:Assembly_ImperialOrc.png|align=right|width=100]]
+[[file:Assembly_League.png|align=right|width=100]]
+[[file:Assembly_Marcher.png|align=right|width=100]]
+[[file:Assembly_Navarr.png|align=right|width=100]]
+[[file:Assembly_Urizen.png|align=right|width=100]]
+[[file:Assembly_Wintermark.png|align=right|width=100]]
+[[file:Assembly_Varushkan.png|align=right|width=100]]
+</div>
+The statement to take the fight to the Druj very clearly had the majority of the support of the General Assembly, but it was telling that it did not get a [[greater majority]]. Faced with the prospect of failing to unite around the only viable choice, priests stuck to their principles. However tempting it might be to try to fashion a bold vision for the Empire for years to come, priests refused to compromise their ideals. The fight against the [[Druj]] might be important but it was ''not'' the greatest Ambition of the Empire.
+
+At ''first'' there is disappointment - particularly from those who visited Capodomus and heard the inspirational sermon, but also from any who had dared to dream that their preferred choice might be the one elevated by the Synod. That frustration doesn't last long, but the idea of the Empire unifying behind one grand Ambition, putting everything else aside to achieve that one thing - was such an inspiring idea that people are initially disappointed when it doesn't happen. The choice seemed to offer the prospect of achieving something truly extraordinary, something monumental, something to echo down the ages. That was appealing and of course everyone who watches the Synod had naively hoped that it was their preferred option that would win. They were looking to the Synod to validate their goals - and when that didn't happen they were unsurprisingly disappointed.
+
+At first there is anger, a perception that this is a failure. There is a brief moment when some suggest that the Synod ought to be reformed - with folk imagining that a different formulation might have produced the "right" answer. There are a few who try to suggest that the Synod has failed the Empire, or at least that their leadership has. How could they look at this moment and fail to make a choice about what the greatest Ambition of the Empire should be (by which they really mean, how could the Synod have failed to agree with ''them'' on what the most important thing was).
+
+==Many Nations, Many Virtues==
+* '''The General Assembly could enact a mandate urging citizens to look to their national and virtue assemblies'''
+* '''If passed citizens would no longer follow statements of principle that did not get a greater majority'''
+* '''It would allow each nation and virtue assembly to make a single prominent appeal to their constitutions every four seasons'''
+* '''This appeal would be guaranteed to get a response'''
+Slowly though, a new consensus begins to emerge. Sofia i Tiera i Riqueza, a passionate [[sutannir]] from [[Feroz]] claims that it is wrong to view the judgements of the General Assembly as a failure to speak clearly. According to Sofia, the General Assembly ''has'' spoken - and while it needs a little Wisdom to understand it, the meaning they see is clear. There is ''no'' one single Ambition that the Empire should be pursuing. There is no single cause the Empire should unite behind. The General Assembly didn't ''fail'' to pick a single Ambition to pursue above all others - instead they ''chose'' to ''show'' that there is no one single Ambition so important that the whole Empire should support it.
+
+While some argue that's a generous way to view the Synod's actions, it suits Sofia's position. She points out that Dawn, Urizen and Highguard might well believe that defeating the Druj is more important than any other goal, but as a Loyal Freeborn she would rather her congregants devoted their energies to defeating the Grendel. The Navarr may want to destroy the [[vallorn]] but Sofia would rather see her home reclaimed.
+
+This plurality of Ambitions is not a weakness, but a strength. It is something the [[The_Brass_Coast_history#Three_Sisters_of_Highguard|Three Sisters]] would have implicitly understood. The Empire shouldn't even try to claim that there is one thing that unites everyone unless that is really true. Trying to unite ten disparate nations behind a single common cause is worse than a fool's errand, it is ''dangerous''. It seductively and seditiously urges nations to put aside their own Ambitions in pursuit of a higher cause. Rather than look to the General Assembly for guidance, the faithful should look to their national assemblies and to their virtue assemblies. That way they will be encouraged to pursue their own Ambitions rather than those of other nations.
+
+If the General Assembly agrees, they could pass the following mandate.
+
+{{Mandate|mandate=Aim high; pursue ''your'' dreams. We send (named priest) to urge every citizen to find common cause with those pilgrims of the Way with whom they share bonds of nation and virtue. Trust your heart and follow that which commands its devotion.|assembly=General Assembly}}
+<div style="float:right; width: 100px; clear: right;">
+[[file:Assembly_Ambition.png|align=right|width=100]]
+[[file:Assembly_Courage.png|align=right|width=100]]
+[[file:Assembly_Loyalty.png|align=right|width=100]]
+[[file:Assembly_Pride.png|align=right|width=100]]
+[[file:Assembly_Prosperity.png|align=right|width=100]]
+</div>
+If this mandate is enacted - and it requires no liao - it will fundamentally weaken the authority of the General Assembly. Statements of principle that get a greater majority will remain important to everyone in the Empire - as they demonstrate common purpose and unity. But statements of principle that do ''not'' get a greater majority will be ''completely ignored'' by everyone - the judgement will be assumed to be irrelevant to priests and pilgrims of other nations and other virtues.
+
+The counterpoint is that people will be more likely to take an interest in the judgements of their national and virtue assembly. If that happens, it will be easier for the national assemblies and the Virtue assemblies to ensure that their followers respond to a statement of principle provided it is identified as something of significant importance. People's lives are busy with many things, even the virtuous are not going to respond to claims that ''this'' particular issue is the most important thing ever, if it is the second time they've heard that this year... But if the assembly used the power sparingly - picking and choosing when to emphasise that something was truly crucial - then it would be guaranteed to have an effect, just as a greater majority in the General Assembly does now.
+
+That would mean that each national and virtue assembly could use a judgement to explicitly pick one thing that their particular brand of virtuous should care about. The judgement would still need to achieve a greater majority, but provided it did it would prove especially inspirational to the nation or those dedicated to the virtue. If such a statement had been made in the last twelve months then the judgement would have no effect at all, but if it was a year or more since the Assembly last passed such a judgement then people in that nation - or people of that Virtue across the Empire - would be guaranteed to respond.
+
+Of course they might not do what the Assembly wants... The Synod is the beating heart of the Empire, people look to it for inspiration and leadership - but it can't control ''how'' people respond. As more than one nation Assembly can attest, sometimes they don't like what they hear.
+
+The actual mandate in the General Assembly to create this opportunity does not require a greater majority - but if it fails to get one, it will not have an effect in the nations that have rejected the authority of the general assembly - [[Varushka]], [[Urizen]] or [[Wintermark]]. Those nations will remain as sceptical of the General Assembly as they currently are, and citizens there won't be moved to pay closer attention to their national assembly or the virtue assemblies.
+
+'''Rhubarb Ironwood''' has provided the wording for an alternate mandate:
+
+{{Mandate|mandate=The Empire has been the light of revelation since its founding, and strongest when we all stand together. Let us send (named priest) to remind citizens of our common destiny, as enshrined in the constitution - to spread across the face of Creation together in unity, not disparate and lost.|assembly=General Assembly}}
+<div style="float:right; width: 100px; clear: right;">
+[[file:Assembly_Vigilance.png|align=right|width=100]]
+[[file:Assembly_Wisdom.png|align=right|width=100]]
+[[file:Labyrinth.jpg|align=right|width=100]]
+</div>
+If this mandate is enacted with a greater majority, - and it requires no liao - it will cause the citizens of the Empire to pay less attention to statements of principle in the virtue and national assemblies. It would be rare for statements of principle in those assemblies to lead to a response. The focus of the Empire's virtuous citizens would instead be on the General Assembly.
+
+It is important to note that this mandate will '''only''' have an effect if it is upheld with a greater majority. These two mandates are, unsurprisingly, [[Mandate#Competing_Mandates|competing]].
+
+==One Empire==
+* '''The Virtue fund will gain 8 wains of white granite, 8 wains of weirwood and 6 wains of mithril each season'''
+* '''The fund has also received a one time donation of 82 thrones from the estate of a wealthy Freeborn dhomiro who recently passed'''
+* '''The judgement of rewarding has been updated to allow citizens to submit judgements to cover the wains'''
+* '''It is not possible to donate materials other than true liao, money or wains to the Virtue fund'''
+Not everyone agrees with Sofia's conclusion that people should look to their nation and virtue assemblies for inspiration. Saul, exarch of the Stone Cliffs argues the opposite - that people across the Empire should look to the General Assembly first, for inspiration. He claims that the failure to agree on a single great Ambition is no failure at all, that in fact '''Yosephus Morningson''' was ''right'' and the Empire should focus on those four great goals. While the notion of a single overriding Ambition might be appealing it fails because the Empire doesn't have one single Ambition that unites everyone. But it does appear to have definite goals that enjoy popular support. Surely it is better for the Empire to come together behind a small number of shared goals rather than split into ten nations and seven virtues and pursue things separately?
+
+It is impossible to inspire people with the grand vision of unifying around a whole list of different Ambitions. The mortal soul does not soar to the rhetoric of compromise and committee. But the exarch and chapter are undeterred by this impediment - and Saul points to the example set by the Benefactors' Council - showing what can be achieved when Virtue is yoked to Ambition. What the General Assembly needs is not to be weakened, by people prioritising it in favour of the other Assemblies, but to be empowered by the support of the faithful across the Empire.
+
+The Stone Cliffs are a chapter dedicated to Loyalty and their fundamental message soon reverberates - the General Assembly should build up their fellows. The Virtuous should build up the General Assembly. If the Synod were more powerful then it could direct support directly to those Ambitions that struck everyone as important, rather than trying to find a single Ambition everyone could unite behind. The Ambition of the faithful should be to build up the Synod, then the Synod could decide what to do with that support.
+
+After lengthy discussions with the [[Tribune of the Synod]] and correspondence with various Loyalty priests across the Empire, Saul is able to put a plan into action. The civil service announce that changes to the structure of the judgement of [[rewarding]] that make it possible to support more than just money and [[liao#True Liao|true liao]]. They have been planning these changes for some time anyway, as they believe they will improve the smooth running of the Synod, but they are essential now Saul is petitioning the faithful to donate wains of [[mithril]], [[white granite]], and [[weirwood]] ''directly to the Virtue fund''.
+
+The amounts are small so far. The scores of letters Saul and his colleagues have written to fellow priests have resulted in donations of six wains of mithril, eight wains of white granite, and eight wains of weirwood. It's not a great deal compared to the amounts needed to defeat the Druj or anchor the Way in Asavea, but Saul is determined to keep up the letter-writing for as long as needed so that this stream of donations continues each season.
+
+It's a small start perhaps - but Saul's efforts also open the door for wealthy citizens to donate wains if their Virtue compels them to do so. The Tribune is hasty to stress that they do not have the resources to manage donations of lesser materials, mana crystals or liao. But from this point forward they will track the true liao, mithril, white granite, weirwood and money available in the Virtue fund. Any priest can raise a judgement of rewarding to nominate an important project that should be supported, or a Virtuous citizen that should be rewarded. If it passes the General Assembly then the priest who raises it will be given the resources if they are available.
+
+It is not the only unusual donation this season. A wealthy [[the Brass Coast|Freeborn]] dhomiro, called ''Ishman i Lora i Guerra'' passed away this season. In his lengthy yet entertaining will, he has left the bulk of his estates, a sum equalling 82 thrones, to the virtue fund, after the expenses set aside for the [[scrivener]]. Ishman's reason for the donation, somewhat unusual among the Freeborn who often take a dismal view of charity, are unknown, but are rumoured to involve a penance for past indiscretions. Unlike the donations of wains being secured by Saul and his fellow priests, this bequest is a one-off donation.
+==Further Reading==
+* [[Statement of principle]]
+* [[Rewarding]]
+* [[The hard way]] - 387YE Spring wind of fortune relating to grand ambitions

@@ -1,0 +1,88 @@
+---
+title: College of magic
+source: https://www.profounddecisions.co.uk/empire-wiki/College_of_magic
+class: mixed
+topic: commissions
+categories:
+- Senate
+- Commission
+last_edited: '2026-06-01T11:44:16Z'
+revision: 139622
+aliases:
+- College of Magic
+---
+
+# College of magic
+
+*[Image: NightLight.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:NightLight.jpg)*
+
+## Overview
+
+A college of magic allows the creation of new [formulaic rituals](../../out-of-character/rules/Formulaic_ritual.md). A formulaic ritual can take decades to complete, requiring extensive resources and many dangerous experiments. A college of magic speeds this process up dramatically by providing a forum for expert magicians and magical theorists to collaborate, providing them with good quality equipment and the guidance of a single individual who directs their research.
+
+There were three colleges of magic in the Empire: the [Lyceum](../../in-character/nations/the-brass-coast/Madruga.md#the-lyceum) and the [Halls of Knowledge](../../in-character/nations/urizen/Zenith.md#the-halls-of-knowledge) in [Urizen](../../in-character/nations/urizen/Urizen.md) were joined in early 380YE by the [Icy Crag of the Eternal Sun](../../in-character/nations/varushka/Miekarova.md#the-icy-crag-of-the-eternal-sun). The Lyceum is overseen by the [Dean of the Lyceum](../titles/Dean_of_the_Lyceum.md), a powerful position appointed by the [Conclave](../government/conclave/Conclave.md); the Halls of Knowledge were directed by the [Provost of the Halls of Knowledge](../titles/Provost_of_the_Halls_of_Knowledge.md), an Urizen appointed by the people of Urizen; and the Icy Crag is guided by the [Master of Ice and Darkness](../titles/Master_of_Ice_and_Darkness.md). With the destruction of the Halls of Knowledge in 382YE and [the wards](../titles/Dean_of_the_Lyceum.md#the-wards) drawn up over the Lyceum during the 385YE however, the Empire currently boasts only two functioning colleges.
+
+## Senate Commissions
+
+The [Senate](../government/senate/Senate.md) may pass a motion for the construction of a college of magic allowing the Empire to increase the number of new rituals that they can create. The Senate must select a [territory](../../out-of-character/rules/Territory.md) and region where the college is to be built.
+
+When the construction is complete a new Imperial title is automatically created. The title may be either an [Imperial or National position](../titles/New_Imperial_titles.md#imperial2c-national2c-and-virtue-positions). The Senate motion should state what the title is called, and how it will be appointed. The [well worn path](../titles/New_Imperial_titles.md#well-worn-paths) is for an Imperial position to be appointed by [declaration of candidacy](../government/conclave/Candidacy.md) before the [Conclave](../government/conclave/Conclave.md) while a national position would be appointed by the people of that nation [through the Imperial Bourse](../titles/New_Imperial_titles.md#the-imperial-bourse).
+
+### Benefits
+
+#### Ritual Texts
+
+The magicians of a college can be directed to research the [formula](../../out-of-character/rules/Formulaic_ritual.md) of a new ritual so that it can be mastered. The ritual must already exist in the form of an  *[arcane projection](../../out-of-character/rules/Arcane_projection.md#arcane-projection)*, but there is no requirement to select one they have personally commissioned. A college can work on formalising one ritual at a time, and the research may take anywhere from a season to several years depending on the complexity and the resources available. The amount of time it takes to complete research into a ritual depends on the magnitude of that ritual.
+
+It requires three months (one season) for every 10 ranks of magnitude the final ritual would have. It's not unknown for the magnitude of a magical effect to change during codification, but the time to codify is always based on that of the arcane projection. A common reason this happens is when a projection intended for a specific territory results in a ritual text that can be cast on any territory.
+
+If research is not completed, the college keeps notes on their work so far, and may resume it at a later date from where it was left off.
+
+At the completion, the master of the college receives a [ritual text](../../out-of-character/rules/Formulaic_ritual.md#ritual-texts) suitable for use in mastering the ritual. They may keep the knowledge of the ritual restricted to themselves and their allies, or through a [declaration of Imperial lore](../government/conclave/Imperial_lore.md) the [Conclave](../government/conclave/Conclave.md) can have that ritual added to the wider body of [Imperial lore](../../out-of-character/rules/Formulaic_ritual.md#imperial-lore-and-the-ritual-list), making it available to any ritual magician in the Empire.
+
+**OOC Note:** The player whose character is responsible for guiding a college of magic selects the [arcane projection](../../out-of-character/rules/Arcane_projection.md#arcane-projection) they wish to [formulate](../../out-of-character/rules/Formulaic_ritual.md) by e-mail to Profound Decisions at [plot@profounddecisions.co.uk](mailto:plot@profounddecisions.co.uk) before downtime closes. The final magnitude of the ritual text is not guaranteed to be the same as that of the arcane projection.
+
+#### Specialisation
+
+A college may be created with a speciality in one of the six realms of magic. This specialisation is free, and is almost always declared when the college is commissioned. When the college is directing research towards a project that is part of the speciality lore, the work proceeds at the rate of 15 ranks of magnitude each season.
+
+Furthermore, when working in the speciality realm, the master of the college can increase the rate at which the ritual is researched by spending money to purchase rare materials, esoteric tomes and exceptional equipment, and to secure the temporary assistance of reclusive or avaricious experts.
+
+The first five ranks of additional research in a season cost 2 thrones. The next five ranks cost a further 5 thrones. The next five ranks cost a further 10 thrones, and so on doubling the price for each additional five ranks of research within the same season.
+
+A college can have only one specialisation; changing a specialisation once it has been declared would be extremely expensive.
+
+## Costs
+
+- Materials: 60 wains of [mithril](../economy/Mithril.md), 60 wains of [weirwood](../economy/Weirwood.md), 60 wains of [white granite](../economy/White_granite.md), and 540 crowns
+- Time: 1 year
+
+## Upkeep
+
+An Imperial college of magic employs large numbers of wizards drawn from the nation where it is stationed. These wizards are paid handsomly for their work, but much of the upkeep costs are defrayed by the costs of magical services that the college provides to local businesses. Each college costs 12 thrones per season, paid for from the [Senate](../government/senate/Senate.md) budget.
+
+### Maximum numbers of Colleges
+
+The Empire cannot sustain an unlimited number of colleges of magic. In addition to the significant drain on the treasury of the [Senate](../government/senate/Senate.md), each individual nation can only provide so many magicians. There is a maximum number of colleges of magic that a nation can sustain at any given time. The Senate cannot build a new college of magic in that nation unless there are enough magicians present to support it.
+
+At present three nations are supporting colleges of magic: [Urizen](../../in-character/nations/urizen/Urizen.md), [the Brass Coast](../../in-character/nations/the-brass-coast/The_Brass_Coast.md) and [Varushka](../../in-character/nations/varushka/Varushka.md). As of the start of the Spring Equinox 387YE, the following nations could all support a **new or additional** college of magic: [the Brass Coast](../../in-character/nations/the-brass-coast/The_Brass_Coast.md), [Dawn](../../in-character/nations/dawn/Dawn.md), [Highguard](../../in-character/nations/highguard/Highguard.md), [the League](../../in-character/nations/the-league/The_League.md), and [Urizen](../../in-character/nations/urizen/Urizen.md).
+
+Gaining or losing territory has less impact on a nation's ability to support a college of magic, unless that territory is home to a particularly large number of magicians. It is possible for an [opportunity](../../out-of-character/game-design/Opportunity.md) to enable a nation to create a college of magic even if they couldn't normally support one - if that happens then the existing ability to support a college of magic is used.
+
+We have updated the existing opportunities to build colleges of magic in [Lightsea, Madruga](../titles/Hakima_of_Salt_and_Sand.md#expansion); [Crucible, Madruga](../../in-character/winds-of-fortune/Made_anew.md#the-enigmatic-tower); and [Dawnguard, The Barrens](../../in-character/winds-of-fortune/Poetry_and_prose.md#the-towers-of-enchantment). If any of these colleges were built, the nation in question could not then build another college (the Brass Coast cannot support two new colleges at this time).
+
+A college of magic operated by an external power - such as an eternal or a foreign nation - has no effect on a nation's ability to support a college of magic as it is not staffed by Imperial magicians.
+
+## Current Colleges
+
+This table lists all current colleges of magic in the Empire. For a full list of title holders see [here](../titles/Current_Imperial_titles.md). This list was last updated following the Autumn Equinox 388YE.
+
+| College | Location | Appointment | Eligibility | Election | Occupant |
+| --- | --- | --- | --- | --- | --- |
+| [Doyen of the Spires](../titles/Doyen_of_the_Spires.md) |  | Not A Well Worn Path | Urizeni Position | Once ritual completed | Able the Taller of Sarangrave Reforged |
+| [The Icy Crag of the Eternal Sun](../titles/Master_of_Ice_and_Darkness.md) | [Srodkoja, Miekarova](../../in-character/nations/varushka/Miekarova.md#srodkoja) | Declaration Of Candidacy | Imperial Position | By [candidacy](../government/conclave/Candidacy.md) | Alexander Tallstag |
+| [The Lyceum](../titles/Dean_of_the_Lyceum.md) | [Siroc Bayou, Madruga](../../in-character/nations/the-brass-coast/Madruga.md#siroc-bayou) | Declaration Of Candidacy | Imperial Position | By [candidacy](../government/conclave/Candidacy.md) | Syl |
+
+---
+
+Categories: [Senate](../../indexes/by-category/Senate.md), [Commission](../../indexes/by-category/Commission.md)

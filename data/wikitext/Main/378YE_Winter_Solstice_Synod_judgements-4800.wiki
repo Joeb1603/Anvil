@@ -1,0 +1,219 @@
+
+==The Imperial Titles of the Synod==
+At the end of the Winter Solstice, 378YE, the Imperial Titles in the Synod were held by:
+
+{|
+| '''Virtue''' || '''Cardinal''' || '''Gatekeeper / Conscience'''
+|-
+| [[Ambition]] || Bishop Olek of the League || Silent John of the Marches
+|-
+| [[Courage]] || Asher of Felix's Watch in Highguard || Agnieszka Katrinova Prochnost of Varushka
+|-
+| [[Loyalty]] || Jared of the Suns of Couros, Highguard || Oberon Caeli Rezia di Tassato
+|-
+| [[Pride]] || Elka Nadyanova Gremani of Varushka || Samson of Cantiarch's Hold, Highguard 
+|-
+| [[Prosperity]] || Peter Keeper of Kingstoke, the Marches || Edythe Dunne of Wintermark
+|-
+| [[Vigilance]] || ''Vacant following the demise of Marrok de Carsenere of Dawn'' || Abraham of the Shattered Tower, Highguard
+|-
+| [[Wisdom]] || Abaddon De Rondell of Dawn || Livia Cascade of Urizen
+|-
+| [[The Way]] || Beodun Snowlock of Wintermark || Lisabetta Giacomi von Holberg of the League
+|}
+
+===Other Synod-Appointed Titles===
+
+{|
+| '''Title''' || '''Held By''' || '''Appointed By''' || '''Renews'''
+|-
+| [[High Exorcist]] || Solas of Urizen || Assembly of Nine || Winter Solstice
+|-
+| [[Auditor of Senatorial Accountability]] || ''Vacant following the demise of Autocephalous Tolya Orbardenko of the League'' || Assembly of Nine || Until death, revocation or abdication
+|-
+| [[Imperial Inquisitor]] || Petra Petrivna Melikov of Vauruska || Assembly of Nine || Summer Solstice
+|-
+| [[Custodian of the Imperial War Memorial]] || Ira of Felix's Watch, Highguard || Assembly of Nine || Sinecure; until death, revocation or abdication
+|-
+|}
+
+==Appointments==
+At the Summit, the following appointments were made by the Virtue Assemblies of the Synod:
+
+
+===Appointment of the Cardinal of The Way===
+
+{|
+| '''Candidate''' || '''Votes Received''' || '''Outcome'''
+|-
+| Beodun Snowlock || 108 votes || Appointed as Cardinal
+|-
+| Atla || 40 votes || -
+|-
+| Shadorak || 30 votes || - 
+|-
+| Harald Johnson || 10 votes || -
+|-
+| Lucifero Figlio || 10 votes || - 
+|-
+| Cardinal Snowlock appointed Lisabetta Giacomi von Holberg of the League as Conscience of the Senate || - || - 
+|-
+|}
+
+===Appointment of the Cardinal of Prosperity===
+
+{|
+| '''Candidate''' || '''Votes Received''' || '''Outcome'''
+|-
+| Ynez di Caricomare  || 62 votes || Ynez reappointed as Cardinal
+|-
+| Soratio || 16 votes || -
+|-
+| Ynez retained Peter Keeper as Gatekeeper || - || - 
+|}
+
+'''Regrettably, Cardinal Ynez died on Saturday evening and it was necessary to carry out the appointment process again'''
+
+{|
+| '''Candidate''' || '''Votes Received''' || '''Outcome'''
+|-
+| Peter Keeper || 30 votes || Peter Keeper appointed as Cardinal
+|-
+| Soratio || 20 votes || - 
+|-
+| Bertolli || 10 votes || - 
+|-
+| Edythe Dunne || 10 votes || - 
+|-
+| Peter Keeper appointed Edythe Dunne as Gatekeeper || - || -  
+|}
+
+==Synod Judgements==
+At the Summit, the following judgements were made by the Assemblies of the Synod:
+
+{|
+| '''Number''' || '''Assembly''' || '''Judgement''' || '''Raised By'''  || '''Outcome'''
+|-
+| 1 || The Way || Appointment of the Cardinal || The Civil Service || Beodun Snowlock of Wintermark was appointed
+|-
+| 2 || Vigilance || Condemnation of Thelonius Kade for rejection of the Doctrine of Human Destiny || Jon || Upheld 130 - 0
+|-
+| 3 || General || Rewarding of 10 thrones to Landan of Applewood Arms for the great personal expense incurred in recovering holy items for the benefit of the Synod || Helena || Not upheld 220 - 216
+|-
+| 4 || Assembly of Prosperity || Appointment of the Cardinal || The Civil Service || Ynez di Caricomare was appointed
+|-
+| 5 || General || Inquisition of Thulun Silent Step of the Navarr, and his Coven || Yarrick Ursan || Upheld 450 - 10
+|-
+| 5a || General || Escalation of Thulun's Inquisition to Condemnation for Idolatry || Yarrick Ursan || Upheld 322 - 0
+|-
+| 7 || General || Veto of the Senate Motion to repeal the ban on the use of the Scorpion Sting || Thaddeus || Did not achieve the majority required
+|-
+| 8 || The Nine || Inquisition of Syn Truth-Walker Nighthaven || Marrok de Carsenere|| Upheld 6 - 0
+|-
+| 9 || Ambition || Inquisition of the Architects of the Law of Delegate protection passed Autumn 378YE || Severin Von Holberg || Upheld 79 - 0
+|- 
+| 10 || - || Judgement was withdrawn by the raising priest || - || - 
+|-
+| 13 || Highguard National || Inquisition of Lucifer, son of Cyrus, at his behest, to show purity of purpose in seeking the Mask of the Visionary, and show that none should fear inquisitions. || Lucifer || Upheld 218 - 0
+|-
+| 15 || General Assembly || Rewarding of 15 thrones from the Virtue Fund to assist in the raising of a new army for Dawn in recognition of their ceaseless support of the other nations in reclaiming lost territory || Veli Gar Wulfson || Upheld 73 - 56
+|-
+| 22 || Prosperity || Election of the Cardinal || Civil Service || Peter Keeper was appointed
+|-
+| 24 || Varushka || The Revocation of Senator Dusan, Senator for Miekarova. It is the finding of the Imperial Inquisitor that he is grossly unworthy of his position due to a fundamental lack of Virtue, specifically Wisdom || Petra || Not upheld 42 - 28
+|-
+| 32 || Vigilance || The Condemnation of the four Anarchy Cultists, captured and returned from Miekarova, for the crime of Heresy || Vitomir Vardov || Upheld 136 - 0
+|-
+| 33 || The Nine || The Revocation of General Olaf of Varushka for disloyal and unwise conduct in the execution of his duties as General || Elka Gremani || Upheld 6 - 0
+|-
+| 34 || General || A Rewarding as per the dying wishes of Almerich Metri von Temeschwar to reward Arsenio of the Gilded Horn with the sum of three thrones in recognition of his donation of ilium towards the Banner of the Three Rings to help the people of Wintermark overcome the curse affecting them || Tancred De Rondell || Upheld 323 - 148
+|-
+| 35 || Highguard || The Inquisition of Abraham of the Shattered Tower for teaching non-Doctrine principles; to take place in Spring on Saturday 3pm, Highguard Chapel || Naomi || Upheld 194 - 0
+|-
+|-
+|-
+|}
+
+==Statements of Principle==
+The Imperial Synod made the following Statements of Principle:
+
+{|
+| '''Number''' || '''Assembly''' || '''Statement of Principle''' || '''Priest''' || '''Outcome'''
+|-
+| 6 || General || As Followers of The Way, we have a duty to save souls even at the cost of lives. We support the actions of Urizen in Spiral. || Upheld 393 - 78
+|-
+| 11 || Highguard National || Providing the grave goods of Empress Britta to an inhuman entity within the Kallavesi Swamp goes against the Doctrine of Human Destiny, insults Imperial Pride, questions Imperial Courage, lacks Prosperity in the waste of Britta's tomb, and lacks Vigilance in agreeing to the demands of an inhuman and unknown entity || Esau of Felix's Watch || Upheld 196 - 0
+|-
+| 12 || Highguard National || The Nation of Highguard owes thanks to all those who assisted in the safe recovery of Permion the Navigator, Exemplar of Courage. || Asher of Felix's Watch || Upheld 208 - 0
+|-
+| 14 || Imperial Orc || When I see the Winter Sun battle, it is something for the entire nation to be proud of. I see in the heat of combat, every virtue displayed and it fills my heart with Pride. I feel the Winter Sun are a fine example of orc battle tactics and warfare and that it would be good to share this experience, wisdom, courage and vigilance with others so that our nation, our Empire, can prosper from our Loyalty. Our Ambition should be for all to benefit from our strength and ability, for what is knowledge if it is not used or shared. || Atla || Upheld 10 - 0
+|-
+| 16 || Pride || The Assembly of Pride would like to recognise the success of the Brass Coast in reclaiming their lost territory || Lilian || Upheld 47 - 10
+|-
+| 17 || General || Statements of Principle should only make one single point || Wyr of the Navarr || Upheld 196 - 96
+|-
+| 18 || General || When any person stands for a Synod position, on the judgement form where they put themselves forward for election, they must clearly state any condemnations that have been passed against them || Irada-Catchie Von Temeschwar || Upheld 367 - 70
+|-
+| 19 || General || The Denigration of a Relic is to be treated as equal to the denigration of the Paragon and is therefore blasphemy || Yael of Felix's Watch || Upheld 186 - 138
+|-
+| 20 || General || That which is good for the true pursuit of The Way of Virtue is good for the Empire. If revelations on the nature of The Way should come into conflict with the principles of the Empire, it is the Empire that must change || Isaac Carlino di Sarvos || Upheld 319 - 36
+|-
+| 21 || General || The claiming of souls by the Eternal Kaela must be acted upon by the Conclave || Harald Johnson || Upheld 259 - 56
+|-
+| 23 || General || In the interests of wisdom and vigilance within the Synod, experimental theologians are encouraged to inform the General Assembly of the results of their experiments || Noah || Upheld 245 - 23
+|-
+| 25 || Marcher Assembly || It is commonly held that some briar burials taint the land, yet a Marcher must be buried in Marcher soil. These conflict. We declare that this taint is not inherent to briar nature. Instead, it is the product of malign spiritual presences of Hatred and Vengeance, which are encouraged through life as a Marcher Briar. A Virtuous briar can overcome this and, as guardians of Marcher souls, it is our duty to aid them in this. Priests of the Marches must ensure that briars have an appropriate resting place, with dignity. Dependent on local circumstances, suggestions are within the hedgerows, in an orchard surrounded by flowing water, a normal orchard or burial of ashes || Edward Watcher || Upheld 62 - 0
+|-
+| 27 || General || High Inquisitor Petra stated that "Senator Dusan, Senator for Miekarova, has been found unworthy of their position due to a fundamental lack of virtue", at 2.30pm on Sunday in a document circulated by Falstino Toliccu von Tassotto, upon her request and payment, before the Synod vote on the matter closed. Three others were named also; some of which were not inquisited directly || Fr Drakov || ''Outcome needs checking''
+|-
+| 28 || Loyalty || We the Assembly of Loyalty wish to recognize the Loyalty displayed by the fighting citizens of Dawn, the Marches, Navarr, the League and the Imperial Orcs for their successful and valiant defence pf the vulnerable and besieged ritualists at the Battle of Reikos || Oberon Caeli di Rezia || Upheld 113 - 0 
+|-
+| 29 || Courage || Lazarus of Cantiarch's Hold and all our departed brothers and sisters who have fallen in Reikos and have been unable to enter the Labyrinth due to the actins of the barbarian orcs: You have not been forgotten. Have Courage || Nina || Upheld 94 - 0
+|-
+| 36 || General || The General Assembly does not intend to veto the Senate Motion to address the boggart issue in Morrow || Hector de Rondell || Upheld 350 - 10
+|-
+| 37 || Vigilance || Naming Vitomir Vardov of Varushka as the priest responsible for coordinating consecrations and exorcisms across Miekarova to act against the Anarchy cultists in that area || Abraham || Upheld 94 - 0
+|-
+|}
+
+
+The Imperial Synod did '''not''' make the following Statements of Principle:
+
+{|
+| '''Number''' || '''Assembly''' || '''Statement of Principle''' || '''Priest''' || '''Outcome'''
+|-
+| 30 || General || The Synod supports the creation of more priest sinecures to enable long serving priests who have armed their congregations in support of the Empire to continue functioning as priests. || Tarquinius Ankarien || Not upheld 242 - 211
+|-
+| 31 || General ||  The role of High Inquisitor is to initially offer recommendations to '''only''' the parties that could '''act''' on the findings, e.g. a recommendation of revocation of a senator to be given to the relevant National Assembly || Agnieszka Katrinova Prochnost || Not Upheld 330 - 138
+|}
+
+==Synod Funds==
+The following represents the Virtue Fund of the Synod:
+
+{|
+| ''Starting Value'' || 56 thrones / 3 crowns / 2 rings / 5 liao ||
+|-
+| ''Income'' || 80 thrones || The price paid in the Bourse Auction by Dr Ferrero
+|-
+| || 5 Crowns || Donation of proceeds from Private Bourse Auction by Xepicotl, Sumaah Priest of Ambition
+|-
+| ''Rewards'' || 15 thrones || Rewarding made to Dawn
+|-
+| || 3 thrones || Rewarding made to Arsenio of the Gilded Horn
+|-
+| ''Closing Value'' || 119 thrones / 2 rings / 5 liao ||
+|}
+
+==Visionaries==
+The following individuals received visions of their past lives:
+* Nicassia of Phoenix Reach, Urizen
+* Archmage Iulian Shatterspire, Urizen
+* Twyll of the Eternal Family, Navarr
+* Senator Henry Ward, The Marches
+* Mordecai of the Suns of Couros, Highguard
+* Captain Vraalbuka Straskovich, Varushka
+
+[[Category: Synod]]
+[[Category:Synod Results]]
+[[Category: Synod Judgements]]
+[[Category: 378YE Winter]]

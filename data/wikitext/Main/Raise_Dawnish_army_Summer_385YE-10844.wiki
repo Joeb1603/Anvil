@@ -1,0 +1,19 @@
+[[Category:Senate Motion]][[Category:385YE Summer]]
+__NOTOC__
+<quote by="Proposed: Astolat, Seconded: Kallavesa"> To disburse funds for a Dawnish army.</quote>
+==Overview==
+* Raises a fourth Dawnish [[Army|army]] in [[Astolat]]
+* Passed at 250 thrones
+* An administrative motion was raised by the [[Speaker for the Senate]] to amend this motion to also raise a Dawnish army which passed
+==Date==
+* Summer 385YE
+==Cost==
+* Standard costs apply
+* 200 wains of mithril
+* 50 thrones
+* One year to complete
+==Progress==
+{{CommissionProgress|Raise_fourth_Dawnish_army}}
+==Outcome==
+* 250 thrones disbursed to the Senator for Astolat
+* Now complete, the [[Lions of Adelmar]] have taken their place as the fourth Dawnish army

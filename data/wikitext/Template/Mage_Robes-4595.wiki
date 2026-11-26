@@ -1,0 +1,4 @@
+* '''Form:''' Armour. Takes the form of a [[Magic items#Armour|robe]]. You must be wearing this robe to use its magical properties.
+* '''Requirement:'''  You must have the [[Magical skills#Magician|magician]] skill to bond to this item.
+[[Category:Magic Items]]
+[[Category:Mage Robes]]

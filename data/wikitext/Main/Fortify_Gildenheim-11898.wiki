@@ -1,0 +1,19 @@
+[[Category:Senate Motion]][[Category:386YE Summer]]
+__NOTOC__
+<quote by="Announced by Groza, Legion Engineer">To fortify Gildenheim in Skarsind with a rank one fortification and the runic wards offered by the Tamazi.</quote>
+==Overview==
+* Constructs a [[fortification]] in Gildermark, [[Skarsind]] as per the '''[[Standing_in_the_sun#Warded_Walls|Standing in the sun]]''' wind of fortune
+* Announcement by the [[Legion Engineer]]
+* This motion benefited from the [[386YE_Spring_Equinox_Synod_judgements#Judgement_5|mandate]] enacted by '''Viviane Barossa de Coeurdefer'''
+==Date==
+* Summer 386YE
+==Cost==
+* Costs as per opportunity
+* 48 white granite
+* 16 mithril
+* 240 crowns (paid in full by the [[Tamazi]])
+* One year to complete
+==Progress==
+{{CommissionProgress|Fortify_Gildenheim}}
+==Outcome==
+* Once complete, Gildenheim will be protected with a rank one fortification of 3000 strength that takes only half the normal damage from magical attacks such as [[Thunderous Tread of the Trees]].

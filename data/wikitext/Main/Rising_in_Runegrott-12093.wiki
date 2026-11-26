@@ -1,0 +1,101 @@
+[[Category:Winds of Fortune]][[Category:386YE Autumn]][[Category:Recent History]]
+<ic>"How do you put up with him?" The young energetic Navarri spoke out of the side of her mouth, addressing the tall Urizeni who looked like she should have been cold in her delicate, classic flowing robes in pale yellow. They were in Runegrott after all, and it was rarely warm away from the fires.  The gentleman in question was flamboyantly, fashionably dressed. A magician, perhaps a mountebank, judging by the amount of time he was spending, admiring the masks at the very first stall, using mirrors that he withdrew from about his person. 
+
+Rayna, the Navarri, was not interested in masks, and pressed on her way between the stalls, that had been set out - hard to believe as it was - for the benefit of herself and her colleagues. She knew what she was looking for. Craftsfolk who had magical items for sale yes - but beyond that they must be makers of more mundane wears. Mundane, yet unique - the kind of thing that could be in high demand, but might be challenging to craft - needing one of the materials that Imperial artisans also put to use in magical workings.
+
+The hall was lit by candles in large sconces suspended on thick ropes from the ceiling. A door opened, a cold wind rushed in, and the sconce at the end of the hall swung, momentarily. As it swung, Rayna caught an unfamiliar gleam on a suit of carved leather armour suspended awkwardly at the end of the line. She caught up a lantern from the stall she was passing, ignoring the protestations of its owner, and carried it quickly across.  
+
+Callonia followed, gesturing to the irate steinr that she would return with the lantern momentarily. Careful not to hurry, she bit back a gasp as she arrived at the badly set out stall, where no item was displayed well and every item was similarly glowing - polished in a way she hadn't known leather and bone could be polished. 
+ 
+"I don't suppose you'll tell us the secret" Rayna smiled at the stallholder. "I might, if you're going to help us make more" the trader replied, handing over a small piece of paper, marked with a simple map and the words Hapea's Hall.</ic>
+<div style="float:left; width: 300px; clear: right;">{{CaptionedImage|file=Pallas.png|title=Rune: Pallas|align=right|width=300}}</div>
+{{PDFLink|align=right|link=File:Rising in Runegrott.pdf|caption=Click for pdf version}}
+==Overview==
+At the last Winter Solstice, the Empire saw the would-be sodality called the Rising Tide work with the [[Basilisk of the Bourse]],  on shared goals of Prosperity of the Empire as a whole. They turned their attention to [[Canterspire Circle]] where they were introduced to some of the finest dye-makers in the world. The outcome of that season’s focused attention was a proposal that ultimately led to the creation of the [[Gloaming Merchant]].
+
+At the same summit, Judgement 148 raised by '''Heilyn Bronwen’s Rest''', praised the work of the Rising Tide. Taking that as a reason to continue their efforts, the 'Tide have sought out more opportunities of their own. At the Summer Solstice, Gethyn Blood-and-Sweat headed to Anvil, and in the comfort of Lumi's teahouse, spoke to many Wintermarkers involved in positions related to the Bourse. Together, they were invited to discuss paths to economic gain. 
+
+Of all the ideas they heard, there are two that made Gethyn Blood-and-Sweat nod, and in his characteristic lilt say 'that feels like the 'Tide's work'.  
+
+===The Tide lifts Artisans===
+* ''' The Rising Tide have visited Runegrott and shown a particular interest in the artisans that have gathered there, and opportunities for them to increase their wealth'''
+* '''The Grimnir of Wittal Grove has the option to trade orichalcum for Bloodcloaks'''
+* '''The Grandmaster of the Rod and Shield has the option to trade orichalcum for certain mage armours'''
+* '''The Benefactor of Regalia has the option to make an announcement that will let The Rising Tide know who should be given an option to trade orichalcum for a Cowl of Ashes'''
+* '''The Guardian of Apfal can trade ambergelt for Paupers Keys'''
+* '''The Seer of the Spiral Sword can trade ambergelt for a Bloodfire Periapt'''
+
+Shortly after the Spring Equinox, a number of the ‘Tide’s keen tradesfolk joined the pilgrims heading to Isenbrad's shrine in Runegrott. Soon after their arrival, they made their interests clear. It was not the legendary artisan that interested them most, but the work, both magical and mundane, of those who have set up their forges and workshops, their dyeing vats and hide stores in the ice cold hills around the shrine. It soon became clear to the seekers of Prosperity that there are opportunities here similar to some of those in Canterspire. Many of these artisans could do more, much more if only they had greater supplies of natural resources.
+
+<div style="width: 500px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightYellow;">'''Grimnir of Wittal Grove'''</td><td style="background-color: LightYellow;"></td></tr>
+<tr><td>45 Orichalcum</td><td>[[Bloodcloak]]</td></tr>
+<tr><td>80 Orichalcum</td><td>2 Bloodcloaks</td></tr>
+</table>
+
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightYellow;">'''Grandmaster of the Rod and Shield'''</td><td style="background-color: LightYellow;"></td></tr>
+<tr><td>10 Orichalcum</td><td>[[Warmage's Belt]]</td></tr>
+<tr><td>32 Orichalcum</td><td>[[Twilight Pauldrons]]</td></tr>
+<tr><td>55 Orichalcum</td><td>[[Mountainfall Bracers]]</td></tr>
+</table>
+
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightYellow;">'''Benefactor's Beneficiary'''</td><td style="background-color: LightYellow;"></td></tr>
+<tr><td>30 Orichalcum</td><td>[[Cowl of Ashes]]</td></tr>
+</table>
+
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightYellow;">'''Guardian of Afal'''</td><td style="background-color: LightYellow;"></td></tr>
+<tr><td>22 Ambergelt </td><td>[[Pauper's Key]]</td></tr>
+</table>
+
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightYellow;">'''Seer of the Spiral Sword'''</td><td style="background-color: LightYellow;"></td></tr>
+<tr><td>13 Ambergelt </td><td>[[Lodestone Shears]]</td></tr>
+<tr><td>28 Ambergelt </td><td>2 Lodestone Shears</td></tr>
+</table>
+</div>
+
+And so Gethyn has a suggestion to make in two parts. The first would spread prosperity in the form of items to the Empire as a whole. Second, if those trades go well, then they plan to work with the Keeper of the Runegrott, to try to ensure they benefit from this increase in trade.
+
+They've identified a number of items they think could sell well, and set prices in the two resources most sorely needed by the artisans - [[orichalcum]] and [[ambergelt]]. They plan to make each one of the items available to a specific Imperial title - their hope is that these Prosperous individuals will either buy the items to use them, or better yet, sell them to wealthy residents in Anvil for a profit. 
+
+The Rising Tide hope that this will facilitate trade with artisans as a whole. Perhaps the titleholders will be moved to make sure they also know of other sources of items. So that when visitors across Anvil approach them with resources, hoping to acquire any of these items, then they will also have other routes of supply. Some of the titleholders, Gethyn expects, will manage this on their own - others may of course choose instead to appoint a proxy to do the work of planning in Anvil, and then simply take care of the contracts themselves, between summits.
+
+They have offered several different items. For some of these, The Rising Tide describe themselves as confident in choosing where to make the offer. They have taken all the legwork, administration and minor costs with making the trade possible themselves, as they offered before in Canterspire. 
+
+Gethyn believes that the [[Rod and Shield|Grandmaster of Rod and Shield]] is best placed to purchase mage armour - as the order is well known for its desire to see battle mages shine. He doesn’t give any particular logic of his own for offering the [[Grimnir of Wittal Grove]] Bloodcloaks to purchase - but there is a natural affinity between Grimnir’s and these healing foci. 
+
+For the embroidered ritual foci that have been offered, The Rising Tide are unsure where best to direct them. Gethyn notes that the new [[Benefactor of Regalia]] post was created to deal with the assignment of items themselves among the holders of Imperial Office. They have formally asked the Benefactor to identify which title should gain the right to purchase the Cowls of Ashes they have arranged as part of any announcement they make to the Imperial Senate. They acknowledge that this approach may not entirely fit with the role, but they hope that is close enough and that the Benefactor will be open to helping them in this way. Some might wonder if they are seeking to make sure that any offence that the Imperial Necromancer feels that someone else may have access to a Cowl of Ashes falls upon the Benefactor and not the ‘Tide.
+
+Gethyn was not forthcoming about the reason, but the talk around the fireside is that his colleague Adalina Eriksdottir has a particular love of apples. In choosing the [[Guardian of the Prosperity of Afal]], perhaps she hopes some of the additional bounty that titleholder has access to will come her way, in exchange for the Paupers Keys they have offered. Finally, Gethyn plans to make one or two Lodestone Shears available to the [[Seer of the Spiral Sword]], as a possible route to forge closer cooperation between the runeforge keepers of the Empire.
+
+In all but one of these cases, no action is needed - the titleholders will find the option to buy the items is available as part of their downtime options for their title after the summit, due to the arrangements made by the Rising Tide. To purchase the items, they must ensure they have enough ambergelt or orichalcum in their inventory. They will then receive the items at the next event they attend.
+
+The Cowl of Ashes will only become available if the Benefactor of Regalia chooses a suitable recipient for the arrangement and includes the details with any announcement in the Imperial Senate. All these details will remain available for the next year before they end.
+
+====Coins are not forged====
+* '''The Keeper of the Runegrott could see a future opportunity, if enough of these items are purchased.
+If these opportunities are taken up, then the Gethyn Blood-And-Sweat explains, that there will be enough extra profit circulating in the area, that a temporary opportunity could open up for the Keeper of the Runegrott to trade. This will allow for the trade of raw materials for coin if the take up in trade is significant enough.
+
+Ministries of this type are rare, and can be unstable, due to the constantly fluctuating values of resources across the Empire, in Anvil and in the Wider World.  So it is hard to predict exactly what the outcome will be, the 'Tide hope to make recommendations, depending on what has been bought by next year's Spring Equinox, although final decisions will await the Autumn Equinox.  Any ministry will be temporary, but may offer the Keeper of the Runegrott significant opportunity to profit if enough items have been bought through the trades the Tide have made available.
+
+===Masters of Weirwood===
+*'''The Raven Seer is asked to choose 5 representatives of Wintermark to meet with a very small delegation of Great Forest Orcs 
+*'''The Senator for Hercynia, the former Senator for Therunin, and the Inquisitor of Loyalty have been asked to organise Navarri mediation of the meeting by Gethyn of the Rising Tide 
+*'''Elik and Savra from the Great Forest Orcs will head to the heart of the Navarr camp in the woods at 11:45 on Saturday of the summit
+
+"''When folk talk to each other, like it is that plans for wealth are easier to come by, and when folk feel safe, prosperity flows''" Gethyn Blood-and-sweat sounds like his is quoting someone. Possibly himself.
+
+One of the situations that was brought to the attention of the Rising Tide, over the convivial chat in the autumn glow at Lumi's last Equinox, was the question of defence of the Kallavesi swamps.  Gethyn fully acknowledges that none of the company assembled had any kind of knowledge of building, engineering, or other relevant skills. But the conversation on Prosperity did turn to the need for safety, and the need for safety turned to forts, and the swamps, and then to weirwood and its particular properties, and then to the Great Forest Orcs, and their knowledge of Weirwood.
+
+Gethyn is clear that neither he nor any other members of the Rising Tide have any idea if Weirwood is likely to be any use at all to protecting the Kallavesi swamps, but he is enamoured of starting conversations.  His colleague, Rayna Swiftongue, another Navarri member of the Rising Tide, has walked the trods alongside Great Forest Orcs often in the past and this season past he sent her to ask of them what they and their friends think of the 'Mark. 
+
+The answer she got back was 'nothing much'. But she was able, through her friends, to convice two of the tribe with reasonable status Elik and Savra that they would be interested in knowing more, if their friends among the Navarr would facilitate a meeting. 
+
+Elik is free to come to Anvil, only due to a healing wound, gained fighting in Peakedge Song. Alongside them will be Savra, who has agreed perhaps out of an interest to learn more from the Kallavesi about their swamp, and what it means to them. Savra, is one of the tribe most willing to speak of the Great Forest itself, and what it means to them. 
+
+They will be travelling to Anvil, to meet with either of the Senator for Hercynia, the former Senator for Therunin, or Kellin Embercast, whichever of them can be spared from their other duties for the time of a short visit. They are willing to speak to a small number of the 'Mark.
+
+How should those be chosen? Gethyn and Rayna might have been stuck for ideas. But as they tell it, a choice was made for them.  In the small tavern near Runegrott, where Rayna brought Gethyn word from her friends, they were eating, when they noticed heavily feathered Kallavesi mystics at a nearby table watching them with intent. Rayna returned their gaze and found herself invited to a reading.  The bones cast fell, and the mystics spoke not of her fortune or the dreams of the Rising Tide, but of a root, tasting the waters of a swamp, of five pools, each rich with its own secret sounds, and the whole surrounded by spears headed by leaves. At the end, the mystics gave Rayna an instruction. "Trust the Ravenseer to choose the drums that when struck ring out in the best and most mellow notes, each one layering with the other"
+
+When the mystics had gone, locals told Rayna and Gethyn that they'd been visited by the Birds of Ishal. There were some that seemed to pity them for it, and others to regard it as a kind of honour. But for lack of other suggestions  on how to choose a small delegation from a nation that attends Anvil in such numbers, The Rising Tide have decided to follow the mystics advice and place the problem in the hands of the Ravenseer.
+
+It's a beginning, not a solution, and it feels 'a might far from having actual answers' as Gethyn puts it, but it is a start.

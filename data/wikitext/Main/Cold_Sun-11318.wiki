@@ -1,0 +1,76 @@
+{{CaptionedImage|file=Cold Sun Art.jpg|align=left|width=400}}
+==Eternal of Day==
+===Sobriquets===
+Given that Cold Sun seems to be a relatively new eternal with no previous history of having interacted with the Empire, it is not known to have any other names within the Empire.
+
+The [[Sumaah Republic]] have taken to calling it ''Oblivion'', declaring it anathema - the only outstanding debate being whether criminals seeking to contact it should be excommunicated prior to their execution.
+
+==Appearance==
+There has been no confirmed meeting with the eternal known as Cold Sun so its physical appearance is a matter of wild hypothesis. Some imagine that its physical form might be that of a single flame smaller than that of a candle to represent the singular perfection that it represents and wishes to impress upon the world. Others suggest that it may be the source of all the light that shines in the Day realm or that it somehow infuses all the light that shines there.
+
+==Concerns==
+Cold Sun represents the search for order and perfection, at any cost. The eternal appears to have some existential hatred of art and free will and its heralds claim that the inherent chaos of life, particularly art, music, and other creative endeavours represent a fundamental flaw. Cold Sun seeks to eliminate this flaw; it is determined to bring perfection to the mortal realm by killing every single sapient creature, starting with the citizens of the Empire.
+<div style="float: right; max-width: 600px; margin-left: 10px;">
+{| class="wikitable sortable"
+|+'''Armies of Cold Sun <br>as of Summer 386YE'''
+! Army
+! Territory
+|-
+| <s>The Winnowers</s> || [[Eclipse#Winnowers|Destroyed]]
+|-
+| <s>The Ending Tide</s> || [[Things_that_burn#The_Ending_Tide|Destroyed]]
+|-
+| <s>The Silence Arc</s> || [[Last_rays_of_the_sun#Tower_of_the_Eagle|Destroyed]]
+|-
+| <s>The Still Walkers</s> || [[Eclipse#Still_Walkers|Destroyed]]
+|-
+| <s>The Exigent Span</s> || [[Eclipse#Exigent_Span|Destroyed]]
+|-
+| <s>The Blade of Skies</s> || [[Eclipse#Blade_of_Skies|Destroyed]]
+|-
+| <s>The Empty Hands</s> || [[Last_rays_of_the_sun#Rhonwen's_Fall|Destroyed]]
+|-
+| <s>The Fire Beacon</s> || [[Eclipse#Fire_Beacon|Destroyed]]
+|-
+| <s>The Shepherds of Ash</s> || [[Eclipse#Shepherds_of_Ash|Destroyed]]
+|-
+|}</div>
+
+==History==
+Very little is actually known about Cold Sun. The earliest recorded instance of Cold Sun interacting with the Empire was a week before the Summer Solstice 385YE when a peculiar translucent monolith [[Three_and_three#Unknown|appeared at the Imperial regio]] at dawn with a message engraved on each of its eight sides: "''A formal parley is agreed at eleven hours after noon, on Saturday during the Summer Solstice, in the Hall of the Worlds, with the Archmage of Day''". The monolith disappeared at sunset the same day, and a few days later word came from Astolat, Kallavesa, and Miaren, [[Ruin#Battle_and_Sorrow|reporting]] divisions of strange soldiers marching on targets in the area. At the Summer Solstice these divisions were defeated - with many Imperial losses - and the targets saved.
+
+Even as the Archmage of Day and magicians of the Conclave met with representatives of this new eternal in [[Archmage#Parely|formal parley]], news began to spread of further attacks across the Empire. These assaults targeted locations as diverse as the [[Tassato#The_Blood_Red_River_Museum|Blood Red River Museum]] in [[Tassato]], the [[Jade_Custodian#The_Wellspring_of_Jade|Wellspring of Jade]] in [[Sarvos]], the [[Skarsind_spoils_of_war#The_Wells_of_Janon|Wells of Janon]] in [[Skarsind#Gulhule|Gulhule]], the farmlands of the [[Reikos_Spoils_of_War#Grey_Watch_Grasses|Grey Watch Grasses ]] in [[Reikos]], [[Hahnmark#Gulnar.E2.80.99s_Deeps|Gulnar's Deeps]], the [[Redoubt#Grand_Conservatory (Ruined)|Grand Conservatory of Music]] and the [[Penumbral_Watcher#Tower_of_Light_and_Shadow|Tower of Light and Shadow]] in [[Redoubt]], the [[Patron_of_the_Pavilion#Pavilion_on_Looking_Glass_Lake|Pavilion on Looking Glass Lake]] in [[Holberg]].
+
+The ''scions'' of Cold Sun [[To the last syllable|invaded]] the Empire in force after the Summer Solstice. A full eight armies, later joined by the <span style="color: #696969;">''Ending Tide''</span> in [[Bregasland]], marched through the potent regios that had been opened by the casting of [[Bright Eyes Gleam in the Depths]]. The [[385YE_Autumn_Equinox_Conclave_sessions#Alignment_:_Cold_Sun|first order]] of business for the Imperial Conclave at the Autumn Equinox 385YE was the [[Declaration]] of [[Alignment]] to place Cold Sun under [[Alignment#Enmity|enmity]].
+
+Shortly after the Autumn Equinox 385YE the first season of campaign against the ''scions'' [[Things that burn|began]]. Imperial ritualists had placed dozens of fortifications summoned from the realms in an attempt to block the armies of Cold Sun. Four of Cold Sun's armies were met with Imperial armies: in [[Bastion]], the heart of the Way, the <span style="color: #696969;">''Winnowers''</span> were blocked by the Highborn of the [[Granite Pillar]] and seven and a half thousand independent soldiers; in [[Hercynia]] the steadings were protected by the [[Black Thorns]] marching all the way from Madruga to hold off the <span style="color: #696969;">''Still Walkers''</span>; in [[Segura]] a combined force of the [[Burning Falcon]] and the [[Fist of the Mountains]] attacked the <span style="color: #696969;">''Fire Beacon''</span>; and in Bregasland the <span style="color: #696969;">''Ending Tide''</span> were slaughtered as they entered into the mortal realm by the [[Bounders]], [[Drakes]], [[Strong Reeds]], and [[Isaella's Dance]].
+
+==Boons==
+The only "boon" Cold Sun offers mortal beings is a swift and efficient, if painful, death.
+
+==Heralds==
+<div style="float:right; width: 500px; clear: right;"><box>'''Marks and Channelling'''<br>What sets the heralds of Cold Sun apart from many other enemies faced by Imperial heroes is that they are the direct beneficiaries of the eternal's power. When the text speaks of marks, or channelling, it is often using in-character language to describe effects ''equivalent'' to the [[enchantment|enchantments]] created by Imperial magicians. Cold Sun's heralds are rarely equipped with [[magic items]], but all of them are empowered with an enchantment that draws on one or more of the [[Day magic#resonance|resonances]] of the Day realm. For example, a ''scion'' might be empowered with effects reminiscent of [[Horizon's Razor Edge]], [[Blades of Clear Sight]], [[Alignment of Mind and Blade]], [[Kimus' Glaring Eye]], [[Irresistible Stance of Force and Focus]], [[Arete and the Fields of War]], or other unfamiliar (but equivalent) abilities.<br><br>Not all the scions' abilities can be reproduced with ritual magic. The ''archon'' leaders of a Cold Sun contingent in particular, can have unique powers that draw on the resonance of the Day realm, but don't directly replicate existing skills or enchantments.</box></div>
+
+Collectively the heralds of Cold Sun refer to themselves as ''scions'', with different groups of heralds having their own name based on their role. They are all highly disciplined however, and absolutely zealous in their pursuit of the eternal's goals. They are clearly individuals but they seem to value their existence less than they value the eradication of life in the mortal realm and are capable of an unsettling degree of self-sacrifice in pursuit of their aims. They don't engage in insults or threats in the way a mortal might; if anything their calm commitment to the total eradication of their foes is one of the most upsetting things about them.
+
+All of the heralds so far encountered appear capable of channelling the power of Cold Sun. Some of them are empowered directly - [[enchantment|bearing marks of Cold Sun]] that enhance their ability to pursue its aims or grants them the ability to deliver blows supported by [[Day magic#Force|magical force]]. 
+
+The bulk of Cold Sun's forces in the Empire are made up of heavily armoured soldiers, divided into three classes. The first wield mighty great weapons with which they inflict [[Calls#IMPALE|devastating blows]] capable of hewing limbs and slicing through light armour, flesh and bone alike. These so-called '''''juggernauts''''' have also been observed channelling the power of Cold Sun into their weapons to [[Calls#SHATTER|shatter]] shields and weapons although they are clearly only capable of doing so a limited number of times. '''''Winnowers''''' are armed with polearms, and are as skilled as any [[the Marches|Marcher]] when it comes to [[Calls#STRIKEDOWN|sending their foes sprawling]]. These heralds channel the power of the Day realm to [[Calls#REPEL|hurl enemies away]] forcing open gaps in enemy lines. The final group are less commonly encountered, these '''''clerists''''' are heavily-armoured archers who serve as the eyes of a Cold Sun force. They try to avoid melee where possible, and can draw on the power of the eternal to [[Calls#ENTANGLE|hold in place]] anyone who gets too close. They occasionally dive into a skirmish to offer support to their fellow scions, restoring their ability to fight.
+
+Supporting the warrior-''scions'' are heralds whose focus is on channelling Cold Sun's power more directly. The '''''ardents''''' are armed with shields and rods and wear garb reminiscent of [[Weapons_%26_armour#Mage_Armour|mage armour]]. Indeed, some of those who have faced them have commented on their superficial similarity to the entities that can be [[Carve the Crystal Guardian|drawn from mana sites]] by Imperial magicians. They fight using magical force to [[Repel|hurl]] or [[entangle|impede]] their foes, and sometimes to [[Calls#PARALYSE|freeze them in place]], as well as using a fraction of their energy to [[empower]] their allies.
+<div style="float:right; width: 500px; clear: right;"><box>'''Seed of Fire'''<br>''Scions'' of Cold Sun may make use of the [[Calls#CURSE|CURSE]] call. CURSE does not immediately affect your character; you are aware that you have been cursed but may continue to fight and act normally. You should see a referee for more details once you are able to do so without interrupting your roleplaying (or fighting). Unless the referee indicates otherwise at the start of the skirmish, it's fine to wait until you are heading back through the Sentinel Gate to check in and find out what the results of the curse will be.</box></div>
+A '''''channeler''''' by contrast bears a staff, and uses the energy of Cold Sun in a different manner. They repair and restore their allies, not only healing and purifying their bodies, but also mending their weapons. Indeed, they seem not to differentiate between the two, doing whatever is needed to ensure their fellows are capable of serving the eternal's aims most efficiently. What makes them frightening, and sets them apart somewhat from being mere healers, is their ability to come together in groups and direct the raw power of Cold Sun directly at their enemies. Several times a trio has been observed working together to [[Calls#Mass_Calls|unleash destructive power]] that plants a "[[Calls#CURSE|seed of flame]]" inside warriors who get too close - flames that blossom into a violent conflagration a short time later leaving only ashes. This seems to be an attack aimed at the will-to-fight of their opponents.
+
+Whatever its makeup, a unit of ''scions'' is usually led by an '''''archon''''' - a champion or captain. They often bear a standard marked with symbols of their master, and rather than engaging directly with their enemies they seem empowered to motivate and direct their fellow ''scions''. These ''archons'' seem to evidence more diversity and individuality than other servants of Cold Sun, and their abilities are unpredictable. One encountered in [[Hahnmark]] demonstrated the ability to restore the health of other scions within a short distance by leading a chant in the name of Cold Sun. Another was able to strike blows that mimicked the malediction created by the ''channelers'' with every strike of their great spear.
+
+Whatever the specific capabilities of the scion, they are united by their absolute commitment to bringing Cold Sun's version of perfection to the mortal world. They do not balk at slaughtering any human or orc who comes within reach of their weapons. There are rarely any bodies left behind, however. Some of the ''scions'' have been observed calling on the power of Cold Sun whilst near a [[Combat#Dying|dying]] or [[Combat#Terminal|terminal]] enemy, and within a few moments their victim simply [[Calls#EXECUTE|crumbles to ash]]. It is assumed that they use a similar ability to destroy the corpses of those who have fallen to them. In large numbers, they seem capable of even more destructive feats using the power of their master to burn, break, and shatter buildings and perhaps even fortifications given enough time.
+
+==Further Reading==
+* [[Cold war]] - 387YE Winter wind of fortune 
+* [[Last rays of the sun]] - 386YE Summer Solstice wind of war about the third season of campaigns against the heralds of Cold Sun
+* [[Eclipse]] - 386YE Spring Equinox wind of war about the second season of campaigns against the heralds of Cold Sun
+* [[Things that burn]] - 385YE Winter Solstice wind of war about the first season of campaigns against the heralds of Cold Sun
+* [[To the last syllable]] - 385YE Autumn Equinox wind of war detailing the initial invasion
+* [[Ruin#Battle_and_Sorrow|Ruin]] - 385YE Summer Solstice wind of fortune with the first confirmed attacks by heralds of Cold Sun
+* [[Three_and_three#Unknown|Three and three]] - 385YE Summer Solstice plenipotentiary response which set the timing for the parley with Cold Sun
+[[Category:Eternals]]

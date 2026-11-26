@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:386YE Spring]]
+__NOTOC__
+<quote by="Proposed: Spiral, Seconded: Astolat">To build the Arch of the Sky, Southern Skyways, and Bridge of the Air – creating a white granite seat and roads throughout Spiral and Urizen.</quote>
+==Overview==
+* Establishes skyways across Urizen as per the '''[[Road_out_of_nowhere#Southern_Skyways|Road out of nowhere]]''' wind of fortune
+* Passed
+==Date==
+* Spring 386YE
+==Cost==
+* Costs as per opportunity
+* 225 mithril
+* 675 crowns
+* Fifteen months to complete
+==Progress==
+{{CommissionProgress|Roads_of_the_Sky}}
+==Outcome==
+* Now complete, the [[Arch of the Sky]] bourse resource was allocated as a national seat during the Autumn Equinox 387YE
+* The level of [[great work|investment]] for [[business|businesses]] and [[mana site|mana sites]] in Morrow, Zenith, Redoubt, and Spiral has increased by one.

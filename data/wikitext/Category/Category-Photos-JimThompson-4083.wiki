@@ -1,0 +1,7 @@
+Jim Thompson<br />
+
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>[[Category:Photos:JimThompson]] [[:Category:Photos:JimThompson|Image by Jim Thompson]]
+</nowiki>''

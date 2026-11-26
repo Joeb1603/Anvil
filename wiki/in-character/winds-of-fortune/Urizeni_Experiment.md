@@ -1,0 +1,159 @@
+---
+title: Urizeni Experiment
+source: https://www.profounddecisions.co.uk/empire-wiki/Urizeni_Experiment
+class: in-character
+topic: winds-of-fortune
+categories:
+- 388YE Summer
+- Winds of Fortune
+event: 388YE Summer
+last_edited: '2026-07-28T17:13:55Z'
+revision: 142625
+in_character_boxes: 8
+---
+
+# Urizeni Experiment
+
+> *In-character text:*
+>
+> Stargazers, we call for your expertise in the Sarangrave. The vallorn there is unique because of the warding and containment. It is possible it may be susceptible to unique methods and have unique weaknesses. We have learnt all we can through the existing knowledge from the library of Hacynian so we look to you for new paths. A commitment has been made to end the vallorn in our lifetime. Go forth, but take caution in Nesustak and Bloodwater Marsh
+>
+> Theodora, Urizen National Assembly, Spring 388YE, Vote: Upheld with a **Greater Majority** 240-14
+
+## Overview
+
+The Stargazers of Urizen have been hard at work trudging through the fetid swamps of Urizen's newest territory to see what might be done to put something in place to defend against the vallorn of Béantal Dol should it ever be roused, relishing the call to engage in their [favourite pastime](../nations/urizen/Stargazer.md#interests) studying magic.
+
+Their plan was to study the Terunael wards to see what could be done to improve them. Unfortunately, the last act of the Tainted Basilisk was to shatter the wards and allow the vallorn to pour out into Nesustak Forest and Bloodwater Marsh. The actions of Imperial heroes at the Spring Equinox defanged the threat to Bloodwater Marsh, and the [Boyar's Hasta](../../mixed/government/military/Boyar-s_Hasta.md), the [Granite Pillar](../../mixed/government/military/Granite_Pillar.md) and the [Black Thorns](../../mixed/government/military/Black_Thorns.md) were able to [save the rebels of Nesustak Forest](../winds-of-war/Thorn_and_bone.md).
+
+Having spent months studying the remains of the wards, the stargazers have identified some opportunities to make use of them to help secure the area. They have divined a series of conjunctions of the [Sentinel Gate](../world/Sentinel_Gate.md) that they believe will allow Imperial magicians to move to the right location at the right time - the best kind of magic is that which is actually cast. Having salvaged a scant number of the remaining wards from Bendol, they Stargazers have taken it upon themselves to "*Consider the Lock*", as General **Andronikos of the Lighthouse-That-Was** might say.
+
+### Stronger than Blood
+
+- **Stargazers have found dilapidated warding stones in northern Bloodwater Marsh**
+- **There are ettercaps and vallornspawn around the stones**
+- **These skirmishes are both [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounters**
+- ***Theodora* is [responsible](../world/Sentinel_Gate.md#prognostication) for performing Wardens of the Black Waste in the east**
+- **The *Spear of the Seven* is [responsible](../world/Sentinel_Gate.md#prognostication) for performing Wardens of the Black Waste in the west**
+- **There are [no innocents present](../world/Sentinel_Gate.md#imperial-law) on this conjunction; magistrates advise that lethal force is fully justified**
+
+There are two key locations at opposite ends of Bloodwater Marsh that could form a metaphysical barrier against the Vallorn, and by placing the remaining wards in the design of the lock in each location, combined with a permanent casting of [Wardens of the Black Waste](../../mixed/magic/rituals/Wardens_of_the_Black_Waste.md) would allow for a large area to be warded against vallorn miasma. That could be crucial when the time comes.
+
+Ordinarily, this would require an extremely expensive mass of ilium; however, the salvaged warding stones will need only a single ring of ilium to be worked into them to form an anchor to make the enchantment permanent. The bad news is that, while the full strength of the vallorn was successfully contained, there are still vallornspawn and ettercaps in the area who will interfere with the casting if not driven back.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > There is no riddle that cannot be answered by magic, provided you know how to reframe the question
+> >
+> > Suplicia of Calator
+
+[Urizen](../nations/urizen/Urizen.md) is a nation of [Ambition](../religion/Ambition.md), and the Stargazers went further to find additional ways to secure their new home. [Sorin](../eternals/Sorin.md) was consulted via the visiting *Sepulchral Pontifex*, who has a known interest in fortifying one's domain against any who would challenge their rulership of it. The *Lord of the Monolith* approves of the Stargazers' plan, and if both wards are set up, then he will be able to use them as anchor points to allow the Empire to summon a [Basalt Citadel](../../mixed/magic/rituals/The_Basalt_Citadel.md) in Bloodwater Marsh, should they wish. Should they only achieve one of the Wards, the *Tomb King* will wait for the [Archmage of Winter](../../mixed/titles/Archmage_of_Winter.md) to raise the topic of the Sarangrave the next time they are inclined to treat with him via plenipotentiary.
+
+### An Open Gate
+
+- **A throng of vallornspawn and ettercaps have amassed around the Turbulent Wellspring**
+- **The first part of the skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Warmage* is [responsible](../world/Sentinel_Gate.md#prognostication) for clearing the way to the Spring regio**
+- **The second part of the skirmish is a [combat possible](../../out-of-character/rules/Accessibility.md#combat-possible) encounter**
+- **The *Archmage of Spring* is [responsible](../world/Sentinel_Gate.md#prognostication) for casting Dance of Navarr and Thorn**
+- **There are [no innocents present](../world/Sentinel_Gate.md#imperial-law) on this conjunction; magistrates advise that lethal force is fully justified**
+
+A third conjunction has also been detected. This one is to the Turbulent Wellspring, a Spring regio in Bendol itself, infested as it is with all manner of horrors near to its heart. This represents an opportunity to connect the vallorn heart in Bendol to the rest of the trods.
+
+The consequences of such an act should not be understated; the connection of a new heart to the network always results in a pulse of chaotic energy to be transmitted to the hearts already connected, which can spur a resurgence of activity. As a lesser but still relevant consequence, it would also allow the recently proposed [Eastern Citadel](Cup_of_choices.md#in-sickness-and-in-hell) to be constructed.
+
+It is the responsibility of the [Warmage](../../mixed/titles/Warmage.md), **Ibiss Briarheart**, to drive off - or more likely kill - the vallornspawn and ettercaps in the area and clear the way to the Turbulent Wellspring. It is then the responsibility of the [Archmage of Spring](../../mixed/titles/Archmage_of_Spring.md), **Arwydd Clearbramble**, to make use of the opportunity and perform [Dance of Navarr and Thorn](../../mixed/magic/rituals/Dance_of_Navarr_and_Thorn.md), connecting Sarangrave to the trods.
+
+**Kaela's Gift**  
+Secured through a bargain with the Winter Archmage, the gift allows any Imperial citizen in the hands of the [Druj](../barbarians/Druj.md) to choose to die painlessly. No corpse remains for the Druj to defile, to impale, or to use to taunt the living - the body turns to dust and ashes. This gift extends across the entire eastern Empire, into the Mallum, [Brocéliande](../nations/navarr/Brocéliande.md), and [Therunin](../nations/navarr/Therunin.md).
+
+The gift allows any Imperial citizens fighting in the [vallorn miasma](../nations/navarr/Vallorn.md#vallorn-miasma) to choose death and *dissolution* before their bodies could be infested with the vallorn's sick version of immortality.
+
+**OOC Note:** Using the gift requires thirty seconds of appropriate roleplaying. This ability may be used by player characters captured by the Druj during an event or who is [dying](../../out-of-character/rules/Combat.md#dying) in an area of vallorn miasma; if you do so you should ensure that you mark your character as dead as soon as you can so that your egregore is aware of your death. There is, however, one drawback to this, as Imperial magicians may soon discover: anyone who takes advantage of this ability cannot be contacted with [Whispers through the Black Gate](../../mixed/magic/rituals/Whispers_through_the_Black_Gate.md).
+
+This ability is an exception to the normal rules on using abilities while [terminal](../../out-of-character/rules/Combat.md#terminal); a terminal character *can* use this ability if they are captured by the Druj or fallen in vallorn miasma.
+
+**Vallorn miasma**  
+These skirmishes take place in [vallorn miasma](../nations/navarr/Vallorn.md#vallorn-miasma). Anyone in vallorn miasma is affected by [VENOM](../../out-of-character/rules/Calls.md#venom) unless they are bonded to an [Abraxus Stone](../../mixed/magic/items/Abraxus_Stone.md) or are under the effect of [Vitality of Rushing Water](../../mixed/magic/rituals/Vitality_of_Rushing_Water.md). Anyone affected by the VENOM from the vallorn miasma will eventually begin to suffer from symptoms of nausea or mild feverishness The short length of these conjunctions means that in this instance there is no chance of anyone developing [green lung](../world/Vallornspawn_husk.md#green-lung)
+
+## Nesustak Forest
+
+*[Image: Halyx Fire-Eyes, Healing Post, Nesustak Forest, The Sarangrave.](https://www.profounddecisions.co.uk/empire-wiki/File:WingedMessenger.png)*
+
+*[Image: Agoska, Raftweft, Nesustak Forest, The Sarangrave.](https://www.profounddecisions.co.uk/empire-wiki/File:WingedMessenger.png)*
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We name Sławomir Rabovich Bolotstrazh as responsible for the conjunction to discuss with the Nesustak Forest rebels in Sarangrave. The Senate also appoints: Ser Guy of the Twisted Rose and Bartimaeus of Sarangrave Reforged. The remaining two spaces on the conjunction are the responsibility of Sławomir to assign. The rebels of Sarangrave have shaken off their shackles of the buruk tepel with their own strength, we should take every opportunity to work with them in good faith. We do this in memory of Catalina Barossa, the citizen who first made contact with a now-rebel sept - the Waterwalkers.
+> >
+> > Proposed: Conscience of the Senate, Seconded: Sarangrave
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Nesustak Forest was never Imperial. The Nesustak Forest rebels rose against the Druj of their own strength. We recognise the region as their home and our ambition in moving into the region is solely for the purpose of defeating the vallorn and protecting the living souls who reside there. It is our intention to return the region once it is safe from the threat.
+> >
+> > Proposed: Hercynia, Seconded: Ossium, Precedence of Virtue invoked by Conscience of the Senate
+
+> *In-character text:*
+>
+> The vallorn comes for Nesustak, home of the Bloodwater Spears and the Waterwalkers. The Military Council is charged with defending the Empire; these septs are not Imperial. We cannot guarantee their safety in Nesustak, but can offer them succour elsewhere if they wish to take it. Nesustak may fall, but the children of the spires can take in its people - offer them food and shelter; show them the lies of the buruk tepel, our new homes in the Sarangrave may be sparse and tenuous, but actions such as these reinforce more than they risk. Offer an open hand, but offer no mercy to those who show treachery.
+>
+> Solas of the Waxing Sun, Urizen Assembly, Spring 388YE, Vote: Upheld with a **Greater Majority** 234-0
+
+- **Halyx Fire-Eyes claims to have been injured fighting the vallorn**
+- **Halyx and Agoska have indicated that they will attend Anvil for the Autumn Equinox**
+- **They have asked for confirmation that a servant of their ally - Irra Harah - may attend with them**
+- **Agoska has asked the Conclave to disseminate the Dreadful Ending ritual so that the rebels can destroy the miasma pillar in the Nesustak Forest**
+
+Following the recent delegation sent by the Senate to [meet with figureheads](Your_hand_in_mine.md#the-solution-to-the-problem) of the rebels of Nesustak Forest, Agoska of the Waterwalkers and Halyx Fire-Eyes of the Bloodwater Spears agreed that, should they survive the season, they would send a formal delegation to Anvil to discuss the possibility of a treaty articulating between them and the Empire.
+
+Unfortunately, Halyx was injured fighting alongside the Cataphracts of the [Granite Pillar](../../mixed/government/military/Granite_Pillar.md) and Agoska is an old orc exhausted by the events of the season and repeatedly casting [Wardens of the Black Waste](../../mixed/magic/rituals/Wardens_of_the_Black_Waste.md) which was [donated by the Conclave](../conclave-sessions/388YE_Spring_Equinox_Conclave_sessions.md#dissemination-wardens-of-the-black-wastes-to-agoska). They pass on their gratitude for the efforts of the Empire to hold back the vallorn, but reality demands that their visit to Anvil is postponed until the Autumn Equinox.
+
+A seasons delay will give them time to take stock of their situation and discuss their position with their allies. There is one point that will need to be settled first. The eternal [Irra Harah](../eternals/Irra_Harah.md) has been an unstinting ally of the rebels since before their fight against the Druj began. The Prince with a Thousand Foes has given without limits to help them, otherwise they would never have had the strength to throw off the yoke of the Druj. They are aware that the eternal is the sworn enemy of the Empire, but still they ask leave to bring their ally with them to Anvil.
+
+It is clear that they do not wish to attend Anvil without their ally there with them. Whether that is the reason for the delay is unclear, but either way the Empire will need to respond with a suitable winged messenger to one or the other before then, otherwise they will bring the the herald of Papa Otec with them and that will brew a hot pot of trouble. Of course it is hardly diplomatic to tell them that they can't bring their ally with them, but the last time a herald of the Prince with a Thousand Foes attended Anvil with a group of orc rebels it ended in the most bitter recriminations and thousands slain.
+
+In the meantime however, they have their own plans to free the [Sarangrave](../nations/urizen/Sarangrave.md) from the taint of the Druj. If the Conclave is willing to share another ritual with Agoska, [Dreadful Ending](../../mixed/magic/rituals/Dreadful_Ending.md), he and his aides will deal with the miasma pillar in Nesustak Forest themselves. Agoska is said to have gotten rather emotional when discussing that he might have the opportunity to fell this brutal symbol of Druj rule that has oppressed his people for generations. Should this occur, there will only be [one key pillar](The_poisoned_air.md#geography) left to destroy to counteract the [insipid effect](The_poisoned_air.md#magic-participation) on the Urizeni who have already moved there (and presumably any Axou who have already moved to Thornfen).
+
+The Grynbor are one with the Vallorn now, perhaps the only people of the Sarangrave who have managed to find some measure of contentment. But there remains the elusive third sept that are yet to reveal themselves, a mishmash of other rebels not affiliated with *any* known sept. While progress has been made, there is still a long way to go to untangle the complicated political situation in the Empire's newest territory.
+
+## The Caves of the Hungry Earth
+
+- **A representative of the Severed Hornet sept of the Whisperwood has approached the Empire**
+- **They have a troubling tale about a cave network in the cliffs at the south of the region**
+- **There is an opportunity for the Sun Chamber to take action to investigate in the coming season**
+- **There a conjunction for five members of the Sun Chamber to journey into a small portion of the caves during the summit**
+
+It is often hard to remember that the Sarangrave is a territory that holds the weight of many dark years inside it and about which the Empire knows little. One such unknown reveals itself just before the Summer Solstice.
+
+The town of Uklead in the Whisperwood is a curious place. The palace of the Thornwasp sept, its erstwhile rulers, squats like a leering hive in the centre of the settlement, towers jutting out of the thick trees in the middle part of the region. This is the place where the Tainted Basilisk was founded, for the Thornwasp sept were the backbone of its supply - and ultimately, the anchor around the neck of the army which kept it in the Sarangrave to meet its demise.
+
+Since then the settlement has been mostly underpopulated. Those that remain appear to be of a single sept - they are notable for the bleached sashes they each wear across their chest, and the livid scarring around their eyes. So far they have not made formal introductions to the Empire - but this is the sept of the Severed Hornets.
+
+Shortly before the Summer Solstice, one of these orcs approaches the Empire with a message for their new rulers. They want to know if the Empire knows of "the hungry earth"? This is not a phrase that is familiar to anyone there to speak to, and after gathering a little crowd, the orc - whose name is apparently Servadi - begins to explain further, drawing a map on the ground for the curious soldiers.
+
+The Whisperwood, Servadi explains, rises in its southern part, the paths through the woods getting steeper and steeper until it becomes a scramble, and then a climb. The rise gets steeper and steeper, trees clinging to what is eventually a mountain rise. Far, far above, there is a plateau - where the Sarangrave meets the Mountains of the Moon. Here, they say, is the entrance to a cave - a network of caves known as the Hungry Earth. An entrance - but not, they say, an exit. There is an exit, but Servadi does not know it - because to venture into the Hungry Earth and find the exit is something reserved only for the Thornwasp's elite.
+
+The Hungry Earth has long been used as a training ground for the Thornwasp clan, to evaluate the potential of aspiring youths to be initiated into the highest circles of the sept. Every year, the most promising youths, those that show the most potential - venture into the caves - in most cases fewer than half return. Those who undergo the Rite of the Hungry Earth and live to tell the tale were considered suitable for the highest leadership of the sept.
+
+The Buruk Tepel of the clan were said to know the caves extremely well - perhaps even of other entrances. The Severed Hornets were used on occasion by the leaders of the Thornwasp as labour, to mine this mithril. The operation they describe sounds not unlike the practices that took place in the [Crawling Depths](../../mixed/titles/Vale_of_the_Sunless_Depths.md) in Ossium, but on a smaller scale. Fifty young and able members of the Severed Hornets would be taken into the dark tunnels each year by trusted members of the Buruk Tepel's inner circle. There they would be worked to death - even if they survived the gruelling labour, none were permitted to leave. The mithril was removed through one of the secret exits known only to those of the Thornwasp who had survived the Rite of the Hungry Earth.
+
+Servadi says that their motivation for telling the Empire this is simple. The sept hope that by getting the Empire interested in a potential source of mithril, they might themselves be allowed access to the caves - and thus begin to hunt for the bones of their lost children. They are prepared to assist the Empire in mining the mithril in return. Servadi seems somewhat aware that the Empire is not accustomed to using the same brutal methods of resource extraction that the Druj are, even if it is clear they and the other Severed Hornets do see the Empire as just another set of rulers.
+
+The problem is that the caves of the Hungry Earth are clearly *extremely* narrow. This entrance was only ever used by children or young adults - if there are more accessible entrances to the caves, they are well-hidden and a secret of the Thornwasp. It simply isn't possible for most Imperial citizens to even begin to enter.
+
+However the Empire possesses a sodality dedicated to the idea that youth is an asset the Empire cannot afford to squander. It has been a year since the [Sun Chamber](../../mixed/titles/Sun_Chamber.md) called upon their Door of Hidden Possibilities to scout in Sermersuaq - which means it is available for use. If the Door were directed towards the Hungry Earth of the Sarangrave, the Eternal [Barien](../eternals/Barien.md) would offer his aid to young citizens who were willing to brave the trial that the Hungry Earth represents. This wouldn't remove the risk - it is still very possible that some young citizens would die valiantly in the attempt - but it would at least make it a realistic possibility.
+
+The Sentinel Gate works in mysterious ways - and it seems to have acted to give the Sun Chamber a chance to learn a little more about the Hungry Earth before deciding whether this risk is really worth the potential cost. Imperial diviners have identified a conjunction to the Depths of the Hungry Earth in the Whisperwood, opening at 23:00 on the Saturday of the summit. The conjunction is for only 5 people. This would be enough to go and investigate a small portion of the tunnels - perhaps to cast Clear Lens of the Eternal River or Shadowed Glass of Sung, or otherwise investigate what lies beneath the cliffs of the Whisperwood. Given the story of Servadi, perhaps it may be best to also bring at least one person capable of exorcism - and a physick, just in case.
+
+(**OOC Note:** This is a conjunction for members of the Sun Chamber sodality. It involves an encounter set which depicts a narrow cave network. The set could be triggering for anyone who is claustrophobic or nyctophobic as we are striving to create an experience that is challenging and which evokes strong emotions. Obviously, this means that this encounter will not be suitable for everyone who might otherwise wish to participate.)
+
+---
+
+Categories: [388YE Summer](../../indexes/by-category/388YE_Summer.md), [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md)

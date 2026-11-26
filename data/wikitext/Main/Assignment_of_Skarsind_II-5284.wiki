@@ -1,0 +1,21 @@
+<ic>Allocation of the territory of Skarsind<br><br><i>Proposed by Hahnmark, seconded by Temeschwar.</i></ic> 
+
+===Overview===
+* Assigned to the [[Imperial Orcs]].
+
+===Date===
+* Autumn 379YE.
+
+===Campaign Outcome===
+* [[Skarsind]] has been assigned to the Imperial Orcs, and can elect a [[Senator]].
+* Skarsind is no longer a [[Wintermark]] territory, which has [[Resource#Resources_in_other_Nations|significant implications]] for any Winterfolk still living there.
+* Many of the implications of this move are covered [[Land fit for heroes|here]].
+
+===Constitution===
+* A method whereby the Imperial Orcs appoint a senator has been determined.
+* This has directly affected the method whereby the Imperial Orcs appoint their [[general|Generals]] and similar titles.
+
+
+[[Category: Senate Motion]]
+[[Category:379YE Autumn]]
+__NOTOC__

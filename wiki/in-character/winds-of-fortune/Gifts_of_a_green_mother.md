@@ -1,0 +1,272 @@
+---
+title: Gifts of a green mother
+source: https://www.profounddecisions.co.uk/empire-wiki/Gifts_of_a_green_mother
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 386YE Winter
+- Recent History
+event: 386YE Winter
+last_edited: '2026-06-27T16:07:24Z'
+revision: 140938
+in_character_boxes: 1
+---
+
+# Gifts of a green mother
+
+> *In-character text:*
+>
+> The herald listened to the wind as it blew through the trees and nodded its head. It had been given a task, and working in its little garden could wait. It left its garden, perfect and overgrown and wild, and took up a satchel made of hide and sinew. The Watcher set off along the path that wasn't always there, leaving scattered leaves in its wake.
+>
+> First, towards the great Black Oak to claim one of its mighty boughs. Along the way - plodding along the path that wasn't always there in the Forest that was the Queen - it would sing. Sing to the multitudes of beasts and plants, sing of the turning of the tide, of a time when broken hearts would be mended. It would sing and it would gather fruits and herbs, nuts and leavings.
+>
+> Then, onto the circle that wasn't a circle near the border of the forest. The Watcher would sing no more once it had claimed a bough of the Black Oak instead, it would watch. The herald would watch the perfect multitudes of beasts and plants as they grew and changed, as they overwhelmed their neighbours and clawed upwards for the sunlight that wasn't in the realm of the Green Mother.
+>
+> It would come to the circle that wasn't a circle and it would pass through and deliver the greetings and offers of the Queen. Then it would return to its garden and see what might be done to encourage it to grow wilder still.
+
+[Image: GreenMother001.png](https://www.profounddecisions.co.uk/empire-wiki/File:GreenMother001.png)
+
+[Image: Yawnagrah002.png](https://www.profounddecisions.co.uk/empire-wiki/File:Yawnagrah002.png)
+
+*[Image: Click for pdf version](https://www.profounddecisions.co.uk/empire-wiki/File:Gifts_of_a_green_mother.pdf)*
+
+## Overview
+
+- **A herald of Yaw'nagrah brings news of boons offered by their mistress**
+- **Yaw'nagrah is under the enmity of the Conclave so each of these boons come with serious legal ramifications**
+
+As described in the [Secret meeting](Secret_meeting.md#forest-queen) wind of fortune, not long after the Autumn Equinox magistrate **Nihm Farkas** is called to the [Imperial regio](../../mixed/magic/rituals/Regio.md#imperial-regio) to deal with an [emissary](../eternals/Inhabitants_of_the_realms.md#heralds) of the [Green Mother](../eternals/Yaw-nagrah.md). Named *Watcher of Fragrant Leaves*, the little herald has apparently come as a response to the [plenipotentiary](../../mixed/titles/Archmage.md#plenipotentiary) missive of the [Archmage of Spring](../../mixed/titles/Archmage_of_Spring.md), **Ibiss Briarheart**. While disinterested in several of the points the Archmage raised with her, the *Verdant Queen* offers a number of boons to Imperial citizens prepared to accept them. While some may address points the Spring Archmage raised, others appear to be more spontaneous.
+
+They include an offer to secure her aid in uniting the [vallorn](../nations/navarr/Vallorn.md) hearts - but at the cost of performing an [interdicted](../../mixed/government/conclave/Interdiction.md) ritual; a boon that would allow the [malign curse](../../mixed/magic/rituals/Wither_the_Seed.md) over [Brocéliande](../nations/navarr/Brocéliande.md) to be removed - with significant consequences for the Empire and potentially further aid; the ability to brew a potent magical substance in a [churning cauldron](../../mixed/magic/rituals/Churning_Cauldron_of_Bravash.md); a chance for owners of [farms](../../out-of-character/rules/Farm.md), [forests](../../out-of-character/rules/Forest.md), and [mana sites](../../out-of-character/rules/Mana_site.md) to receive some of the eternal's largesse in the coming season; and additional potence for certain [enchantments](../../out-of-character/rules/Enchantment.md) used on [orcs](../../mixed/world/Orc.md) and those with the [briar](../../mixed/magic/lore/Briar.md) [lineage](../../mixed/magic/lore/Lineage.md) - or humans who might wish to gain that lineage.
+
+As *Rootwinder* is under [enmity](../eternals/Alignment.md#enmity), following several attempts to harm the Empire, there are considerable challenges for anyone who wishes to partake of these offers. Unless the Imperial Conclave chooses to change her [alignment](../eternals/Alignment.md) - something that may lead to further problems with this unpredictable eternal of the [Spring realm](../eternals/Realm.md#spring) - it is against the law to accept any of the Green Mother's gifts.
+
+## The Green Mother Problem
+
+- **Yaw'nagrah is under the enmity of the Imperial Conclave**
+- **Bargaining with an eternal under enmity is a serious crime**
+- **Interacting in any way with Yaw'nagrah is an additionally serious crime for any sorcerer**
+
+The *Lady of Bark and Bramble* is a declared [enemy of the Empire](../eternals/Alignment.md#enmity). She was initially placed under enmity after evidence came to light that her agents were attempting to rouse the [vallorn](../nations/navarr/Vallorn.md) of [Therunin](../nations/navarr/Therunin.md), and it soon became clear she was heavily involved with the efforts of the [Heirs of Terunael](Rise_of_Terunael.md) to unleash *Doom*. Her heralds fought alongside the Heirs, and gave their magical support to the traitors whose meddling might in theory at least have destroyed the Empire. She is also known to offer her patronage to the [Druj](../barbarians/Druj.md), although to what degree is not certain.
+
+The offers made by Yaw'nagrah are not secret, however. While the magistrate, **Nihm Farkas**, who spoke with *Watcher of Fragrant Leaves* cautions every Imperial magician to respect the law, the civil service are not permitted to conceal the offers that have been made. It is possible that the Imperial Conclave may choose to remove enmity from Yaw'nagrah, in which case there would be no legal restriction on accepting these boons unless one were a sorcerer (it is illegal for sorcerers to interact with eternals or their heralds regardless of their [alignment](../eternals/Alignment.md)).
+
+Magistrates are at pains to remind the magicians of the Empire that unless Conclave removes enmity anyone, including the archmage themselves, who takes one of Yaw'nagrah's boons is committing a serious crime. They will seek to prosecute anyone who can be shown to have accepted one of these boons, and that the repercussions of doing so are likely to be severe. They also remind Imperial magicians that when one calls directly on the power of an eternal, that eternal generally knows who has done so and what that power is used for. Anyone who accepts her magical boons risks attracting the attention of the Green Mother.
+
+With regard to one of the offers made by *Bloodbark*, the magistrates point out that [enchantments cast on the entire Empire](../conclave-sessions/385YE_Autumn_Equinox_Conclave_sessions.md#interdiction-empire-wide-enchantments) are also illegal. While the Conclave might [endorse](../../mixed/government/conclave/Endorsement.md) the plan to waken the trees of Brocéliande, doing so with the use of an object provided by an enemy eternal would still be a crime and would lead to an investigation of those involved.
+
+The Watcher of Fragrant Leaves makes it clear to Magistrate Farkas that these legal problems are no concern of the Queen of the Forest. If mortal beings want to complicate their own lives with such inane restrictions, that is their own lookout.
+
+## Viridian Hallows
+
+*[Image: Yaw'nagrah seems to possess an ambition to see the vallorn spread across the Empire.](https://www.profounddecisions.co.uk/empire-wiki/File:VallornMiasma.jpg)*
+
+- **Yaw'nagrah is intrigued by Imperial interest in uniting the vallornhearts**
+- **If the Empire demonstrates their sincerity, she offers her aid in this endeavour**
+- **Performance of Madyn's Gift with dragonbone causes the ritual to provide *glomsbark* rather than *realmsroot***
+- **This substance originates with Yaw'nagrah and is subject to interdiction due to enmity**
+- **This opportunity has expired; any benefits and commissions associated with it are [no longer available](../../out-of-character/game-design/Opportunity.md#availability)**
+
+According to the herald of *Barkspawner*, the Spring Archmage has claimed that the Empire intends to connect the [vallornhearts](../nations/navarr/Vallorn.md) and complete the "great work of the Terunael". Yaw'nagrah is apparently intrigued that the Empire seems to have experienced a change of heart. Only recently, they fought hard to prevent the Heirs of Terunael from achieving just this goal, and in the process even killed one of the Queen of the Wild's [favoured children](../winds-of-war/One_last_song.md#rage-and-ruin). However, the nature of life is change, and ultimately the *One Who Sways and Stands* is pleased that the Empire has come to terms with the nature of the vallorn and is ready to consummate the gift of endless bounty the Terunael sought. The *Green Mother* is not a fool, but is willing to aid to the Empire as long as their goals are in parallel. But in light of recent events, she requires action from the magicians of the Empire if they are to earn her gifts.
+
+In return for her aid, the Green Mother requires that a coven use [Hallow of the Green World](../../mixed/magic/rituals/Hallow_of_the_Green_World.md) to flood the Empire with the power of the [Spring realm](../eternals/Realm.md#spring-realm) *and* allow her children to roam the Empire. It must be done during the Winter Solstice, but Yaw'nagrah has no doubt Imperial magicians can manage the feat - it has been done twice before in recent memory after all, during the [Spring Equinox 380YE](The_prime_colour_of_the_world.md) and the [Winter Solstice 384YE](Children_in_bloom.md).
+
+The Imperial Conclave have used their [warding magic](../eternals/Alignment.md#enmity), to prevent Yaw'nagrah's offspring from entering the Empire. Even if *Hallow of the Green World* were cast, the ward that enmity creates would keep her, and her children, from bringing their green blessing to the lands within Imperial borders that so keenly require it. As such, the Imperial Conclave must either remove the [enmity](../eternals/Alignment.md#enmity) they have placed on her, or the magicians performing the ritual must explicitly invite her in with ritual magic.
+
+Yaw'nagrah has little patience for the Conclave and its strictures. As such, she presents a boon to the magicians of the Empire who seek communion with the Primal Forest. During the Winter Solstice, she will allow any coven that performs the clever ritual called [Madyn's Gift](../../mixed/magic/rituals/Madyn-s_Gift.md) to gain a tiny amount of her power. If the magicians performing the ritual place a measure of [dragonbone](../../out-of-character/rules/Materials.md#dragonbone) in the container alongside each dram of [realmsroot](../../out-of-character/rules/Realmsroot.md), Yaw'nagrah will exchange them both with a portion of *glomsbark* - one dram of this rare material for each measure of dragonbone and dram of realmsroot that the magicians have sacrificed. If there are any leftover dragonbone or realmsroot after the exchange then they will be returned.
+
+> **Glomsbark**  
+> If you plan to take the boon Yaw'nagrah is offering, you will need a suitably phys-rep for the resultant *glomsbark*. A pouch containing woodshavings, moss, or even just grass is ideal. The glomsbark itself is provided in the form of a typical rip-on-use card. The only way to find out exactly what it does is to use it.
+
+According to the Watcher of Fragrant Leaves, *glomsbark* can be used to empower Spring [enchantments](../../out-of-character/rules/Enchantment.md). Not only does it provide an amount of mana toward the casting of certain Spring magic enchantments (including *Hallow of the Green World*), but it empowers a magician who uses it to work such enchantments more easily. In addition, and more importantly from the point of view of the eternal, if one or more doses of *glomsbark* is used to support a casting of Hallow the Green World it will allow her servants to bypass the warding provided by enmity, allowing them to walk freely within Imperial bounds.
+
+If this is done during the Winter Solstice, then *Treecaller* will provide aid to the Empire in their efforts to join the vallornhearts. If they do not, she will offer Imperial magicians no assistance in their endeavour; the hearts will be joined in time one way or another. They have waited over a thousand years, they can wait a little longer.
+
+*[Image: Ibiss Briarheart, Archmage of Spring, bears the regalia of the Archmage](https://www.profounddecisions.co.uk/empire-wiki/File:Ibiss8557.jpg)*
+
+## Strangling Blight
+
+- **Yaw'nagrah wishes to see the *Wither the Seed* curse removed from Brocéliande**
+- **She offers a boon to the Spring Archmage that she says will help remove the curse**
+- **It requires a performance of Thunderous Tread of the Trees**
+- **Removing the curse with the aid of Yaw'nagrah presents serious dangers**
+- **This offer of the bough is only available during the Winter solstice but the opportunity it provides lasts as long as the bough does**
+
+The Watcher of Fragrant Leaves claims that Archmage Ibiss' missive spoke of "blight" (alongside talk of an ending of other realms which the *Verdant One* has no interest in). There is a blight that Yaw'nagrah cares about and that is the one that strangles lush [Brocéliande](../nations/navarr/Brocéliande.md). Just over three years ago the monstrous [Wither the Seed](../../mixed/magic/rituals/Wither_the_Seed.md) curse was laid over that ancient woodland. The *Queen of the Forest* is capable and willing to offer her aid, but it would still require a powerful coven of Spring ritualists to remove the curse.
+
+The Watcher has brought the boon, a bough from the *Black Oak*, for the Empire to examine. It looks innocuous, appearing to be nothing more than a fallen tree branch, but Magistrate Farkas is able to examine the power it contains with [detect magic](../../out-of-character/rules/Detect_magic.md). The bough contains a power similar to a [Cartographer's Eye](../../mixed/magic/items/Cartographer-s_Eye.md), but more powerful. To use it, a coven must lay [Thunderous Tread of the Trees](../../mixed/magic/rituals/Thunderous_Tread_of_the_Trees.md) on one of [Semmerholm](../nations/dawn/Semmerholm.md), [Astolat](../nations/dawn/Astolat.md), [the Barrens](../nations/dawn/The_Barrens.md), [Reikos](../nations/highguard/Reikos.md), or [Casinea](../nations/highguard/Casinea.md). If the boon is activated by shattering the fallen branch during the ritual, then the magic of the Spring realm will empower the ritual. That will cause the rampaging trees to spread into Brocéliande *as well*, where the servants of the *Green Mother* would empower them to remove the cursed blight from the ancient forest.
+
+The Watcher informs the magistrate that if the Empire *does* use the power of the Black Oak to remove *Wither the Seed* from Brocéliande, Yaw'nagrah will send her servants to [Sarangrave](../nations/urizen/Sarangrave.md) and find a way to help the Navarr, specifically, free the [vallorn of Béantal Dol](../nations/urizen/Sarangrave.md#béantal-dol) from its captivity. The [Druj](../barbarians/Druj.md) are unwilling to do so, and the Queen of the Forest is losing patience with them. She is aware however that the Navarr have recently launched their own expedition [into Béantal Dol](../nations/navarr/Into_Béantal_Dol.md) and if the Empire truly wishes to unite the vallornhearts they must include the Sarangrave as well.
+
+The boon Yaw'nagrah offers is not without cost however. The awoken trees would ravage whatever territory the curse was cast on, but inevitably, they would also rouse the vallorn in Brocéliande. The presence of [the Broch](../nations/navarr/Brocéliande.md#the-broch) would help to blunt this attack, but there would still be a risk of losing [Boar's Dell](../nations/navarr/Brocéliande.md#boars-dell) or [Elerael](../nations/navarr/Brocéliande.md#elerael) to the vallorn, depending on which way the vallorn went. It would require Imperial heroes to put their lives on the line to help defend the steadings of Brocéliande if the curse was removed in this way. If the boon is taken, and the ritual cast, then further information would be presented in the winds for the Spring Equinox.
+
+If the [Archmage of Spring](../../mixed/titles/Archmage_of_Spring.md), or one of their heralds wants the boon, then they can request it at any time during the Winter Solstice by casting [operate portal](../../out-of-character/rules/Operate_portal.md) at the Imperial regio and explicitly asking Yaw'nagrah's for their gift. She will provide only a single burgeon of the great tree in this manner - but she will give it to first magician in possession of any of the three parts of the [Archmage's regalia](../../mixed/titles/Archmage_of_Spring.md#regalia-of-spring) who asks for it.
+
+## Cauldron of Pale Honey
+
+- **The Green Mother offers a boon to any magician prepared to invoke her power while performing *Churning Cauldron of Bravash***
+- **A measure of ambergelt included in the ritual allows seven true vervain to be transformed into *milksap***
+- **Any amount of true vervain can be transformed by a single ritual**
+- **Unlike the normal casting of Churning Cauldron of Bravash the herbs used are not returned**
+- **Accepting this boon and owning or using milksap is illegal**
+- **This opportunity is only available during the Winter Solstice but the milksap remains viable until it is used**
+
+The Watcher of Fragrant Leaves speaks with a whispery, but sincere tone, of other matters. Yaw'nagrah is saddened that a gulf has grown between the children of the Empire and her own children. She loves life in all its infinite variety and strangeness, and it brings her sorrow that the magicians of the Empire are separated from her by the jealously of the Navarr and the ignorance of the Imperial Conclave. She is a fount of life and energy, and offers a little of that to the Spring magicians of the Empire.
+
+> **Milksap**  
+> If you plan to take the boon Yaw'nagrah is offering, you will need a suitably phys-rep for the resultant *milksap*. The obvious way to create one is to put a little bit of milk or white paint into tap water and mix it up a little. The milksap itself is provided in the form of a typical rip-on-use card. The only way to find out exactly what it does is to use it.
+
+During the Winter Solstice, any coven that performs [Churning Cauldron of Bravash](../../mixed/magic/rituals/Churning_Cauldron_of_Bravash.md) can use their magic to contact the Green Mother. The performance of the ritual must include invocations of Yaw'nagrah by at least three of her common names, and each contributor must willingly sacrifice a drop of blood into the container that is the target of the ritual, dripped onto [ambergelt](../../out-of-character/rules/Materials.md#ambergelt) which is placed in the container; one measure for every seven drams of [true vervain](../../out-of-character/rules/True_Vervain.md). The cauldron will churn as usual, but at the completion the herbs and ambergelt placed in the cauldron will have been transformed into a dose of *milksap* - a milky white liquid with an intensely sweet, floral scent. It provides similar benefits to [vital honey](../../out-of-character/rules/Vis.md#vital-honey), but it is apparently important not to *drink* it - it is effective when smeared on the face and palms.
+
+This boon is available to the magicians of the Empire during the Winter Solstice only. Magistrate Farkas points out that while Yaw'nagrah is under enmity it is a crime to accept this boon, and given that the substance is broadly unknown in the Empire the magistrates must assume than any that is found at Anvil is the result of someone having undertaken this ritual.
+
+## Chaos
+
+> **Donahorti**  
+> *Milksap* and *Glomsbark*, already mentioned, are examples of *donahorti*. These boons come in a myriad of different shapes and flavours, but they always take the form of natural substances - fruit, juice, sap, flakes of moss, shavings of bark, shredded leaves and so on. Some other familiar *donahorti* include: *Ornsap*, a dark red juice with the consistency of blood that provides a great boost to physical stamina and fortitude; *mornsalve*, a thick light green sap that treats many ailments of the body; *thornsting*, a vicious waxy honey-like substance that inflames violence and grants combat prowess; *queensleaf*, oddly shaped leaves that when crushed and the juice applied to the wrists and throat grants magical healers a reserve of inner power; *sallamoss*, a kind of moss that heartens the body and is particularly effective when used by briars (and in sufficient quantity can sometimes cause someone to take on briar lineage); various forms of *magepetal*, gathered from flowers of various colours that provide additional facility when performing certain kinds of Spring ritual depending on their shade; and *sunfoil*, a unique flowering herb that possesses all the qualities of those herbs familiar to herbalists and apothecaries.
+
+- **Yaw'nagrah offers a *bloodamber boon* to the casting of certain enchantments**
+- **If the boon is used with Blessing of New Spring, Rampant Growth, Fountain's Bounty, or Woven Strands of Life the targeted resource will produce strange products from the Spring realm itself**
+- **Several of these boons can be made permanent using ilium for significantly fewer rings than usually required**
+- **This opportunity has expired; any benefits and commissions associated with it are [no longer available](../../out-of-character/game-design/Opportunity.md#availability)**
+
+Yaw'nagrah is an eternal who embodies the [fecundity](../../out-of-character/rules/Spring_magic.md#fertility) and [savagery](../../out-of-character/rules/Spring_magic.md#savagery) of the Spring realm, but she is equally a creature of [chaos](../../out-of-character/rules/Spring_magic.md#chaos). Her gifts often have unforeseen consequences, or provide unpredictable boons. The Primal Forest is a wellspring of wonderful plants and beasts, and those that dwell in the vast demesne of the *Great Gardener* are said to be the most magical and variable of all. Taking the form of juice, fruit, sap, bark, or other natural substances, these boons are often referred to as *[donahorti](../eternals/Yaw-nagrah.md#donahorti)*. The term comes from the old Asavean name for the boons of Yaw'nagrah used by scholars of Spring Magic - the *donahorti mirabilis*, or the Marvellous Gifts of the Garden.
+
+During the Winter Solstice, Yaw'nagrah intends to share her largesse with the Empire on a scale rarely seen before - provided Imperial magicians are prepared to reach out to her and request those boons. She will not give these gifts directly, but allow them to grow "naturally" in the fertile soil of the Empire's [farms](../../out-of-character/rules/Farm.md), [forests](../../out-of-character/rules/Forest.md), and even [mana sites](../../out-of-character/rules/Mana_site.md).
+
+### Bloodamber Boon
+
+- **Yaw'nagrah's boon relates to several rituals but the method of asking for it remains the same in each case**
+- **During the Winter Solstice, a combination of ambergelt, invocation of Yaw'nagrah, and spilled blood draws the power of the eternal**
+- **If even one contributor uses this boon, the entire ritual and the resulting enchantments, are changed**
+- **The ritual Netweaver's Eye can determine if a magician participated in a ritual using Yaw'nagrah's boon even if they didn't use the ambergelt themselves ([see below](#an-eye-for-chaos))**
+
+In each case, the boon begins with a substitution. To take advantage of the boon, a contributor who has the appropriate ritual mastered must name Yaw'nagrah by at least three common names, and shed a few drops of blood. They then may substitute [ambergelt](../../out-of-character/rules/Materials.md#ambergelt) for crystal mana when contributing to the casting. Every 2 measures of ambergelt spent counts as 1 crystal mana toward the ritual. The usual limit of how many crystal mana a character can contribute (equal to their ranks in [Spring lore](../../out-of-character/rules/Magical_skills.md#realm-lore)) applies.
+
+If even one contributor does this, the entire ritual is altered - *every* target experiences the altered effect. It's possible to do this even when using a covenstone such as an [Amberglass Orb](../../mixed/magic/items/Amberglass_Orb.md) - the invocation of Yaw'nagrah and the shedding of blood make it clear you are using the eternals' boon rather than the [magic item](../../out-of-character/rules/Magic_items.md). **OOC Note:** You should make sure the referee knows you've cast the ritual to take advantage of the boon so it can be recorded in the notes section for that ritual.
+
+*[Image: The donahorti of Yaw'nagrah take many forms, and possess many wondrous qualities. Some are beautiful... others significantly less so.](https://www.profounddecisions.co.uk/empire-wiki/File:Flowering_kudzu.jpg)*
+
+### Chaos on the Farm
+
+- **Yaw'nagrah offers to empower castings of Blessing of New Spring**
+- **Doing so requires using ambergelt in the ritual, and invoking the eternal specifically by three of her names**
+- **The enchantment reduces the amount of money produced by a farm but provides a bonus *donahorti***
+- **Accepting this boon would be a crime while Yaw'nagrah is under enmity**
+
+The Green Mother dislikes the farms of the Empire, it seems. They are too regimented, too keen to remove anything they see as lacking value. During the Winter Solstice, it's traditional for the Empire's magicians to invoke the enchantment of [Blessing of New Spring](../../mixed/magic/rituals/Blessing_of_New_Spring.md) on their farms. During the Solstice, Yaw'nagrah will provide a boon to any farm owner who wishes to accept her blessing - assuming they can find a coven to assist them.
+
+The boon applies to [Blessing of New Spring](../../mixed/magic/rituals/Blessing_of_New_Spring.md). If even one contributor uses ambergelt in the casting, each target farm will receive Yaw'nagrah's boon. The resultant enchantment will shift and change; farms enchanted in this way will grow wild and strange, with peculiar crops or animals possessing odd characteristics. Instead of receiving 10 additional rings each season for the rest of the year, each farm so enchanted will provide 26 *fewer* rings, but also a *donahorti* - a consumable item infused with Spring magic. This change persists even if the enchantment is later superseded by [Strong Ox, Golden Sun](../../mixed/magic/rituals/Strong_Ox-_Golden_Sun.md) and [Gathering the Harvest](../../mixed/magic/rituals/Gathering_the_Harvest.md). Those rituals will have their usual effect, but the farm will produce 26 fewer rings and one random *donahorti* each season.
+
+### Chaos in the Forests
+
+- **Yaw'nagrah offers to empower castings of Rampant Growth**
+- **Taking this boon requires using ambergelt in the ritual and invoking the eternal specifically by three of her names**
+- **The enchantment provides peculiar *donahorti* rather than the normal production**
+- **Accepting this boon is a crime while Yaw'nagrah is under enmity**
+
+There is a wildness in even the most regimented orchard, and Yaw'nagrah is as interested in forests as she is in farms. During the Winter Solstice she offers her boon to the Empire's tenders of forests as well as their farm owners. This boon requires the casting of [Rampant Growth](../../mixed/magic/rituals/Rampant_Growth.md).
+
+If ambergelt is used in the casting, the transformation will be significant; all the energy of the ritual will go toward making the chosen forest wilder and more chaotic, infusing much of its production with Spring magic. A forest will produce two fewer measures of its usual material, but *six* unpredictable *donahorti* (that is, they will be of several different types). The effect will last for a single season, but may leave the forest marked with a spark of chaos ever after (**OOC Note:** This "spark of chaos" has no game effect - the forest owner is encouraged to roleplay that they sometimes find odd fruit or peculiar moss in their forest after the enchantment fades).
+
+### Chaos in Urizen
+
+- **Two rituals of Urizen Lore allow the magic of mana sites to be specifically directed towards producing food and herbs**
+- **Yaw'nagrah offers to empower castings of Fountain's Bounty and Woven Strands of Life**
+- **The enchantment provides *donahorti* instead of the normal bonus production**
+- **Accepting this boon is a crime while Yaw'nagrah is under enmity**
+
+Yaw'nagrah offers a final boon, but one that relies on the complicity of the notoriously strait-laced Urizen. Their national lore contains two rituals that use Spring magic to bring growing, vibrant bounty to [mana sites](../../out-of-character/rules/Mana_site.md) - [Fountain's Bounty](../../mixed/magic/rituals/Fountain-s_Bounty.md) and [Woven Strands of Life](../../mixed/magic/rituals/Woven_Strands_of_Life.md). During the Winter Solstice, she offers her magical aid in performance of both rituals. Any magician who takes advantage of the boon will find the enchantment altered by Yaw'nagrah's power. The exact effect depends on which ritual was cast.
+
+- *Fountain's Bounty:* Instead of the usual production, the enchanted mana site provides one fewer crystal mana, but also provides five *donahorti* and a measure of *milksap*.
+- *Woven Strands of Life* Transforms the mana site into a wild, magically infused garden of bushes, creepers, and even trees. Instead of producing herbs, the transformed site provides three *milksap* and six *donahorti* to the owner.
+
+### Harnessing Chaos
+
+- **During the Winter Solstice, enchantments warped by Yaw'nagrah can be made permanent more easily**
+- **Making one of these enchantments permanent costs one ilium per magnitude rather than three**
+- **This is a risky act that may have legal, spiritual, and magical consequences down the line**
+
+Yaw'nagrah is providing significant boons to the forests and mana sites of the Empire by applying her chaotic touch to mundane magics. She has placed no restriction against those who wish to permanently receive her boons. Any one of the rituals described here, as long as they are cast using Yaw'nagrah's [bloodamber boon](#bloodamber-boon), may be made permanent with ilium. Rather than costing ilium equal to three times the magnitude of the ritual, however, during the Winter Solstice the ritual can be made permanent with ilium equal to the magnitude of the ritual. The ilium must be included in the casting.
+
+Bear in mind that this is a criminal act while Yaw'nagrah is under enmity, and that the *donahorti* are illegal items while the eternal is an enemy of the Empire. The target forest or mana site will be permanently warped and mutated by the chaotic magic of Spring and as well as the mundane legal and spiritual consequences this may incur, it will also provide a foothold for the *Green Mother* in the mortal realm that she may exploit later.
+
+It's not possible to use this benefit for Blessing of New Spring because of the peculiar way that enchantment works.
+
+### Law Amid Chaos
+
+- **The Silent Bell could be charged to seek out those who had taken Yaw'nagrah's boons in one or more nations**
+- **It would cost 50 thrones to order the Imperial magistrates to investigate which farms, forests and mana sites had taken one of the boons**
+
+These boons alter farms, forests, and mana sites. It would not be immediately apparent who had taken advantage of the boons, and their power does not linger on the owner of the resource sufficiently to be divined with [detect magic](../../out-of-character/rules/Detect_magic.md). The effects of the ritual fade within the season, so a [statement of principle](../../mixed/government/synod/Statement_of_principle.md) would be insufficient to find out if anyone had taken advantage of them - unless they were made permanent. There are a few options for the agents of law and order to acquire evidence one of these enchantments has been cast.
+
+If the [Silent Bell](../../mixed/magic/items/Silent_Bell.md) is specifically instructed to investigate, they will provide a list of every farm, forest, or mana site that is touched by Yaw'nagrah to the Cardinal at the Spring Equinox. What the Cardinal chose to do with this list would be at their discretion. The Cardinal may pick a single nation for the Silent Bell to assess, and for each additional nation they will need to provide 4 thrones to help support the action. (**OOC Note:** The money would need to be in the Cardinal's pack, and they would need to email [plot@profounddecisions.co.uk](mailto:plot@profounddecisions.co.uk) after the event. If there were insufficient funds, the Silent Bell would work in the order the nations were mentioned by the Cardinal).
+
+The [Senate](../../mixed/government/senate/Senate.md) might instruct the magistrates to prioritise providing a list of farms, forests, and mana sites affected by these warped rituals. This would incur a one-time fee to the [Imperial treasury](../../mixed/economy/Imperial_treasury.md) of 50 thrones, and result in a list delivered to [the Throne](../../mixed/titles/The_Throne.md) at the start of the Spring Equinox. It might also result in the initiation of legal proceedings against anyone who received one of these boons, depending on the status of Yaw'nagrah during the Winter Solstice.
+
+### An Eye For Chaos
+
+- **Netweaver's Eye can be used to determine if a magician suspected of using Yaw'nagrah's ritual boons has done so**
+
+Several of the boons of Yaw'nagrah involve warping rituals by invoking her power. During the Winter Solstice, the ritual [Netweaver's Eye](../../mixed/magic/rituals/Netweaver-s_Eye.md) can divine the touch of Yaw'nagrah on a magician who has participated in such a transformed ritual. The caster of Netweaver's Eye must select "Spring magic" as the target of their divination, and if the magician has contributed to a warped ritual the referee will provide that information (only that they bear the "touch of Yaw'nagrah" not how many or precisely what rituals were performed; the number of Spring rituals they have cast is learned as normal). Bear in mind that it does not matter if the ritualist themselves used the boon of Yaw'nagrah - everyone who contributed to the performance of the ritual is equally marked.
+
+This *specifically* identifies if a ritualist has taken part in a [Blessing of New Spring](../../mixed/magic/rituals/Blessing_of_New_Spring.md), [Rampant Growth](../../mixed/magic/rituals/Rampant_Growth.md), [Fountain's Bounty](../../mixed/magic/rituals/Fountain-s_Bounty.md), [Woven Strands of Life](../../mixed/magic/rituals/Woven_Strands_of_Life.md), [Hallow of the Green World](../../mixed/magic/rituals/Hallow_of_the_Green_World.md), or [Thunderous Tread of the Trees](../../mixed/magic/rituals/Thunderous_Tread_of_the_Trees.md) that invoked a boon of Yaw'nagrah. Possessing such a boon, using *milksap* in a ritual, casting a personal enchantment in which someone consumed vital honey or milksap to gain additional power, or using other items or rituals related to Yaw'nagrah do not mark the ritualist as having drawn on Yaw'nagrah's power.
+
+*[Image: Yaw'nagrah is believed to favour those of the briar lineage, and some old stories tentatively try to draw a connection between her and those whose skin is marked with bark.](https://www.profounddecisions.co.uk/empire-wiki/File:Briar_Attitude.jpg)*
+
+## Favoured Children
+
+- **Yaw'nagrah offers a gift specifically to those with the briar lineage, or who wish to gain it, and to those of the orc species**
+- **She also offers a way for an unlineaged human to take on the briar lineage**
+- **These boons require a dose of vital honey or milksap to be consumed by the target as the ritual is cast on them**
+- **Milksap or vital honey used in this way does not contribute toward the casting of the ritual directly**
+- **These opportunities are only available during the Winter Solstice**
+
+Yaw'nagrah has a particular affection for those touched by the realm of Spring - those with the [briar](../../mixed/magic/lore/Briar.md) [lineage](../../mixed/magic/lore/Lineage.md). She also appreciates the strength and vitality of those who cannot bear briar lineage but can still embrace the power of Spring - the [orcs](../../mixed/world/Orc.md). During the Winter Solstice, Yaw'nagrah offers her boon to those who have been marked by the [Spring realm](../eternals/Realm.md#spring) - or by those who feel their true nature is best reflected in seeking a closer alignment with the *Primal Forest*.
+
+### Briar Boon
+
+- **Yaw'nagrah offers strength and vitality to those touched by the Spring realm**
+- **During the Winter Solstice use of vital honey or *milksap* while receiving *Skin of Bark, Blood of Amber* will provide additional benefits**
+- **The nature of these benefits can be detected with the *detect enchantment* function of *detect magic*.**
+
+The ritual [Skin of Bark, Blood of Amber](../../mixed/magic/rituals/Skin_of_Bark-_Blood_of_Amber.md) provides a powerful [enchantment](../../out-of-character/rules/Enchantment.md) to a subject, granting them great reserves of endurance. It is also known to strengthen the impact of briar lineage, at least for a time. During the Winter Solstice, the following additional power is granted by this ritual.
+
+- If a human with no lineage consumes a pawn of [vital honey](../../out-of-character/rules/Vis.md#vital-honey) or *milksap* while being targeted by a performance of *Skin of Bark, Blood of Amber* the ritual may have an additional effect. Over the coming season that human may be transformed into a [briar](../../mixed/magic/lore/Briar.md). This cannot be done by force - the magical transformation will fail if someone is tricked or out-of-character does not wish to become a briar. The ritual has all its other effects, and the only way to complete the transformation is to end the event still under the effect of the enchantment.
+
+> **A Reminder About Enchantments**  
+> It's important to note that an enchantment *cannot* be removed prematurely without casting a different enchantment, or allowing the duration (until the start of the next Profound Decisions event) to expire. It's not possible to just give up the enchantment - meaning it is much more likely that someone with one of these boons will be detected if anyone has reason to suspect them.
+
+- If a human character who already has briar lineage consumes a pawn of *vital honey* or *milksap* while being targeted by the ritual, they may drawn on the power of Yaw'nagrah. Instead of the usual three ranks of [endurance](../../out-of-character/rules/Combat_skills.md#endurance) it normally provides, the briar receives *four* ranks of endurance. If they have [hero points](../../out-of-character/rules/Heroic_skills.md#hero) they gain an additional benefit. With 10 seconds of appropriate roleplaying they can spend a hero point to remove the VENOM condition from themselves. The bonus lasts as long as the enchantment does. In addition, they can choose to permanently increase the amount of bark, thorns, or flowers they have.
+
+There is a drawback to taking this boon. As long as the enchantment lasts, the lingering mark of Yaw'nagrah can be determined through use of the [detect magic](../../out-of-character/rules/Detect_magic.md) spell - if anyone uses [discern enchantment](../../out-of-character/rules/Detect_magic.md#discern-enchantment) on a target of one of these rituals, it will reveal that they bear a "*mark of the Primal Forest*" as well as whatever personal enchantment they might be under (if any).
+
+### Orc Blood
+
+- **Yaw'nagrah offers a reserve of power to orcs of the Empire**
+- **During the Winter solstice an orc targeted by *irrepressible Monkey Spirit* can consume a dose of vital honey or milksap to gain an additional boon**
+- **The nature of these benefits can be detected with the *detect enchantment* function of *detect magic***
+
+Yaw'nagrah offers a slightly different boon to [orc](../../mixed/world/Orc.md) citizens of the Empire. Rather than *Skin of Bark, Blood of Amber*, her boon can be gained through use of the ritual [Unfailing Resilience of the Kudzu](../../mixed/magic/rituals/Irrepressible_Monkey_Spirit.md) (perhaps better known to Imperial magicians as *Irrepressible Monkey Spirit*). If an orc consumes a dose of *vital honey* or *milksap* while being targeted by the ritual, they gain an additional benefit. If they have any of the skills [Cleaving Strike](../../out-of-character/rules/Heroic_skills.md#cleaving-strike), [Mortal Blow](../../out-of-character/rules/Heroic_skills.md#mortal-blow), [Mighty Strikedown](../../out-of-character/rules/Heroic_skills.md#mighty-strikedown), [Relentless](../../out-of-character/rules/Heroic_skills.md#relentless), or [Unstoppable](../../out-of-character/rules/Heroic_skills.md#unstoppable) then once per day they can use one of those skills without spending a hero point. This is on top of the benefits granted by the ritual with regard to *relentless* and *unstoppable*, but only if they already have the skills (methods such as using the [potions](../../out-of-character/rules/Potion.md) [Indomitable Might](../../mixed/magic/potions/Unshackled_Gift.md#indomitable-might) or [Skar's Strength](../../mixed/magic/potions/Unshackled_Gift.md#skars-strength) will work fine with this ritual).
+
+As with the boon offered to humans, there is a drawback to accepting the power of Yaw'nagrah. As long as the enchantment lasts, the lingering mark of the eternal can be determined through use of the [detect magic](../../out-of-character/rules/Detect_magic.md) spell - if anyone uses [discern enchantment](../../out-of-character/rules/Detect_magic.md#discern-enchantment) on a target of one of these rituals, it will reveal that they bear a "*mark of the Primal Forest*" as well as whatever personal enchantment they might be under (if any).
+
+## A Panoply of Presents
+
+- **Yaw'nagrah has used the opportunity presented by the Plenipotentiary to present an array of offers to Imperial magicians**
+- **The bounteous extent of these offers probably reflects something of the nature of Yaw'nagrah, but any eternal could respond to a plenipotentiary in this way**
+
+By its very nature, the power of plenipotentiary opens the possibility for an eternal to communicate with the Empire, even if that eternal is under enmity. It is not possible to maintain a watertight ward against an eternals minions and messages, whilst simultaneously inviting them to meet with the Empire for parley. Yaw'nagrah has chosen to make an array of offers, not just to the Archmage of Spring but to all the magicians of the Empire. The extensive number of offers, may be a reflection of the nature of Yaw'nagrah - she is, after-all, *concerned with life, in infinite diversity and infinite combinations*. In practice, careful historical study by the civil service has confirmed that any eternal could chose to respond to a plenipotentiary in this way, just most of them chose not to - usually.
+
+It is notable however, that all these offers require Imperial magicians to proactively accept the Queen of the Forest's offers while performing rituals that actively invoke her by name. Despite the plenipotentiary, the power of enmity remains firmly in place - Barkspawner *cannot* affect rituals performed in the Empire without this invitation, nor can their heralds enter the Empire freely.
+
+## Further Reading
+
+- [Yaw'nagrah](../eternals/Yaw-nagrah.md)
+- [Secret meeting](Secret_meeting.md#forest-queen) - 386YE Winter wind of fortune detailing plenipotentiary responses
+- [Whither the seed](Whither_the_seed.md) - 383YE Winter wind of fortune about removing the blight on Brocéliande
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [386YE Winter](../../indexes/by-category/386YE_Winter.md), [Recent History](../../indexes/by-category/Recent_History.md)

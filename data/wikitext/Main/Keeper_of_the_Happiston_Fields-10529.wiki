@@ -1,0 +1,27 @@
+<div style="float:left; width: 350px; clear: right;">{{CaptionedImage|file=Happiston crystals.jpg|caption=The crystals from the Happiston Fields are known for their dark colouration|align=left|width=400}}</div>
+==Overview==
+The Keeper of the Happiston Fields is a [[the Marches|Marcher]] [[Imperial title]] [[Construct Potato Fields of Happiston|created]] by the Senate in Autumn 384YE. The position of Keeper is a [[sinecure]], requiring minimal responsibility but offering a regular income of crystal mana.
+
+Following the Autumn Equinox 385YE '''Tilly of Chalkdown''' funded a series of designs incorporating [[weltsilver]] to track the flow of the currents of mana flowing through the Happiston Fields as part of the opportunity presented in the '''[[Shining_like_fire#Asymmetrical_Curves|Shining like fire]]''' wind of fortune.
+ 
+The Keeper of the Happiston Fields was [[387YE_Winter_Solstice_Senate_sessions#Amend_Landskeeper_Titles|amended]], along with five other Marcher titles, during the Winter Solstice 387YE to make clear it should be held by a landskeeper. The motion also made it a responsibility of the title to look after the land and people of the Marches.
+
+==Responsibilities==
+The Keeper has a responsibility to look after the land and people of the Marches. In addition, if the [[#Happiston Fields|fields]] in the [[Mournwold]] were to be threatened in any way, it would be the responsibility of the Keeper to deal with those threats.
+
+==Powers==
+===Bounty of Mana===
+The Keeper of the Happiston Fields gains custodianship of a [[sinecure]]. They receive an income of 12 crystal mana each season.
+
+===Landskeeper's Due===
+If they are a [[landskeeper]], the Keeper of the Happiston Fields receives eight crowns each season. This represents seasonal gifts of food, warm clothing, second-hand boots, wicker baskets, ironmongery, small chairs and side-tables, and similar marks of approval.
+
+==Appointment== 
+The Keeper is elected by unanimous decision of the Marcher [[senator|senators]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead. 
+
+The title can be held by a Marcher citizen. The Keeper has [[tenure]], and serves until they die or step down. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Marcher [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Keeper_of_the_Happiston_Fields}}
+==Happiston Fields==
+Entitled in the Senate motion as the ''Prosperous Potato Fields of Happiston'' (pronounced Haze-tun), the fields are known to most simply as the Happiston Fields, located as they are near the recently refurbished settlement of Happiston in the [[Mournwold#Chalkdowns|Chalkdowns]] of the Mournwold. Whilst these fields are planted with a potato crop each year, it is the scarecrows scattered across them that bring the more valuable harvest. Each of these scarecrows features sturdy mithril rods as part of their construction, and their careful placement harnesses the flow of ambient magic to cause mana crystals to crystallise from the soil itself. These crystals - often darker and more earthy in appearance than others, though just as functional - are harvested by the folk that tend the fields almost as if they were regular crops, albeit with a degree more care.
+
+[[Category:Title]][[Category:The Marches]]

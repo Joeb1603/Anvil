@@ -1,0 +1,29 @@
+{{Army Page}}
+{{CaptionedImage|file=PilgrimsDefiance_Colour.webp|align=right|width=300}}
+===Overview===
+The Pilgrim's Defiance were raised by [[Raise Fourth Highborn Army|Senate motion]] proposed by '''Solomon''', as Senator for [[Casinea]], during the Spring Equinox 387YE. Raised from the grey pilgrims who had [[The_war_of_thorns_and_flowers#Highguard|returned]] to Highguard following the call of the Highborn Assembly, the mustering of the army was quickened by the [[387YE_Spring_Equinox_Senate_sessions#Assign_Regalia_to_Generals_of_Highguard|assigning of regalia]] to the generals of Highguard. [[Banners_and_bells|Mustering]] completed in just six months, shortly before the Autumn Equinox 387YE. The army was named for the return of the [[grey pilgrim|grey pilgrims]], and endorsed the army's focus on [[Banners_and_bells#Devotion_To_Virtue|devotion to virtue]]. 
+
+The fourth Highborn general leads the army of the Pilgrim's Defiance, and is appointed (or re-appointed) at the Winter Solstice each year.
+
+===History===
+TBC
+
+TBC
+====Recent History====
+__TOC__
+TBC
+
+===Traditions===
+TBC
+
+====Ever Forward====
+The General of the Pilgrim's Defiance bears ''Ever Forward'', an artefact [[Banner of the Bold]]. It is the legal property of the title. If the general loses their position, then the item must be given to the new general with all appropriate haste. The general is encouraged to take all appropriate precautions to keep this item safe.
+
+==Composition==
+TBC
+{{CaptionedImage|file=Eli of the Cenotaph.jpg|caption='''Eli of the Cenotaph''', General of the Pilgrim's Defiance|align=left|width=300}}
+==Army Quality : [[Army_qualities#Devoted|Devoted]]==
+The Pilgrim's Defiance is able to draw on the pilgrims' devotion to Virtue, and their long experience facing many terrible threats as they travelled the length and breadth of the Empire. Armoured by their faith, their commitment will never waver, even in the face of terrifying monsters, overwhelming odds, or unimaginable cruelty.
+
+{{RecentElections|General_of_the_Pilgrim%27s_Defiance|the title of [[General]] of the Pilgrim's Defiance}}
+[[Category:Imperial Army]][[Category:Highguard]][[Category:Military Council]]

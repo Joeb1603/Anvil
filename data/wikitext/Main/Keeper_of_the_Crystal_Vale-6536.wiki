@@ -1,0 +1,11 @@
+ This title has been abrogated as the sinecure attached was added to the [[Strategos of Wintermark]]
+==Overview==
+The Keeper of the Crystal Vale was a [[Wintermark]] [[Imperial title]] created following an [[Construct_Vales_Might|announcement]] in Winter 380YE by the [[Civilian Commissioner]]. The Vale was completed shortly before the 381YE Spring Equinox. The position of Keeper was a [[sinecure]], requiring minimal responsibility but offering a regular income of crystal mana. 
+==Responsibilities==
+The Keeper had no particular responsibilities; they simply received a bounty of [[Game_items#Mana_Crystals|crystal mana]] from the [[#Vale's Might|Vale's Might]] in [[Hahnmark]]. If the vale were to be threatened in any way, it would have been the responsibility of the Keeper to deal with those threats.
+==Appointment== 
+The Keeper of the Crystal Vale was appointed by unanimous decision of the [[Wintermark]] [[senator|senators]]. If a unanimous decision could not be reached, the title [[Appointments_by_the_Senate#National_Position|could have been appointed]] by the [[Senate]] instead. 
+
+The title could only be held by a Wintermark citizen. The Keeper had [[tenure]], and served until they died or stepped down. They could be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Wintermark [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Keeper_of_the_Crystal_Vale}}
+[[Category:Wintermark]]

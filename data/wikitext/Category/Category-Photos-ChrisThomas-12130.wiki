@@ -1,0 +1,5 @@
+Chris Thomas Photography is on facebook [https://www.facebook.com/profile.php?id=61553158244856 here]
+
+Please include the following text in the description field when uploading files by this author to the wiki:
+
+<nowiki>{{ChrisT}}</nowiki>

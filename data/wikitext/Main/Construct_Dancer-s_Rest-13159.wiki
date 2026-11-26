@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:387YE Autumn]]
+__NOTOC__
+<quote by="Announced by Firesong Arachas, Legion Engineer">Build a money sinecure in Seren, Miaren with 10 wains of weirwood. The Dancer's Rest creates the title of Hand to the Dance to be appointed by the Navarr National Assembly with tenure. This is a centre of education and rehabilitation for refugees and ex-slaves, part of the Proffered Hand Network. Fully funded by the Network.
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in Serenael, [[Miaren]]
+* Announcement by the [[Legion Engineer]]
+
+==Date==
+* Autumn 387YE
+
+==Cost==
+* Standard costs apply
+* 10 wains of weirwood
+* 30 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Dancer%27s_Rest}}
+==Outcome==
+* Now complete, the [[Hand to the Dance]] will be available to appoint by the Navarr Assembly for the first time at the Winter Solstice 387YE

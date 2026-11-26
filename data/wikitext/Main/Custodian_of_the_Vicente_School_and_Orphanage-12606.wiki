@@ -1,0 +1,25 @@
+{{Disambiguation|This title was [[388YE_Autumn_Equinox_Senate_sessions#Abrogate_Vicente_School_and_Orphanage|abrogated]] by the Senate during the Autumn Equinox 388YE. This page reflects its status before it was abrogated.}}
+==Overview==
+The Custodian of the Vicente School and Orphanage is an [[Imperial title]] awarded to a citizen of [[the League]]. The construction of the Vicente School and Orphanage was [[Construct Vicente School and Orphanage|announced]] by ''' Heliodoro Vicente''' as the [[Bearer of an Imperial Wayleave]] at the Summer Solstice 386YE.
+
+==Responsibilities==
+The Custodian is responsible for ensuring the education of the students and residents of the Vicente School and Orphanage. They are expected to arrange a consistent and expansive curriculum on the nature of reckoning and mountebanks, as well as inviting troupe magicians and others as befits the situation. In the event that the School and Orphanage was threatened, the Custodian would be expected to deal with those threats.
+
+==Powers==
+===Crystal Curriculum===
+<div style="float:right; width: 400px; clear: right; margin-left: 10px;">
+<table style="width:400px; float: right; margin-left:10px;" class="mw-collapsible"><tr><td colspan="2" style="background-color: LightYellow;">'''Mana Crystals'''</td></tr>
+<tr><td>7 Crowns</td><td>8 mana crystals</td></tr>
+<tr><td>17 Crowns</td><td>16 mana crystals</td></tr>
+<tr><td>30 Crowns</td><td>25 mana crystals</td></tr>
+</table>
+</div>
+The Vicente School and Orphanage is a [[ministry]]. The Custodian can purchase quantities of crystal mana at a set price. The Custodian makes their decision how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+==Appointment== 
+The Custodian of the Vicente School and Orphanage is appointed by unanimous decision of the [[senator|senators]] of [[the League]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead. 
+
+Unlike with most ministries, this appointment has [[tenure]]. The Custodian retains the position until they die or step down. They can be [[Revocation|revoked]] by a lesser majority of the [[Assembly#General_Assembly|General Assembly]], the Assembly of the Nine, or by the League National Assembly.
+
+{{RecentElections|Custodian_of_the_Vicente_School_and_Orphanage}}
+[[Category:The League]][[Category:Senate]]

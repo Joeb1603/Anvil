@@ -1,0 +1,1 @@
+Any caster who has mastered the ritual may choose to substitute [[{{{1}}}]] for crystal mana when contributing to it. Every 2 {{{2}}} of {{{1}}} spent counts as 1 crystal mana when contributing to the ritual.

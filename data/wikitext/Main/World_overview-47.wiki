@@ -1,0 +1,37 @@
+The Empire is the primary focus of the game, but it is not the only place that exists in the wider world.
+
+<row-fluid>
+<span4>
+==[[Maps]]==
+{{ThreeColIconImage|file=Empire-map-illus.gif|link=Maps}}
+A number of different maps of the Empire and its environs exist.
+</span4>
+<span4>
+==[[Gazetteer]]==
+{{ThreeColIconImage|file=Tactical Master Map.png|link=Gazetteer}}
+The Empire is made up of many [[territory|territories]], each of which has its own page.
+</span4>
+<span4>
+==[[Barbarian|Barbarians]]==
+{{ThreeColIconImage|file=OrcsCharging.jpg|link=Barbarian}}
+The enemies of the Empire are classified as [[barbarian|barbarians]], including the [[Jotun]] and the [[Druj]] [[orc|orcs]].
+</span4>
+</row-fluid>
+<row-fluid>
+<span4>
+==[[Foreign nations]]==
+{{ThreeColIconImage|file=Bay_of_Catazar.png|link=Foreign nations}}
+Not every nation outside the Empire is an enemy. A number of smaller nations, and a handful of large nations equal in power to the Empire, maintain diplomatic relations.
+</span4>
+<span4>
+==[[Realms]]==
+{{ThreeColIconImage|file=AutumnRune.jpg|link=Realms}}
+Beyond the mundane world exist six magical [[realms]] infused with the power of magic.
+</span4>
+<span4>
+==[[Eternal|Eternals]]==
+{{ThreeColIconImage|file=JoDevine.jpg|link=Eternal}}
+The eternals are the inhabitants of the [[realms]] - supernatural entities with an interest in the Empire and its citizens.
+</span4>
+</row-fluid>
+[[Category:The World]]

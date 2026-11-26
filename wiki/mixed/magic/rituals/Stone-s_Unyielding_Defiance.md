@@ -1,0 +1,79 @@
+---
+title: Stone's Unyielding Defiance
+source: https://www.profounddecisions.co.uk/empire-wiki/Stone's_Unyielding_Defiance
+class: mixed
+topic: magic/rituals
+categories:
+- Summer Ritual
+- Rituals
+- Warfare
+- Urizen Lore
+- Enchantment
+last_edited: '2026-10-20T16:13:22Z'
+revision: 146335
+in_character_boxes: 2
+---
+
+# Stone's Unyielding Defiance
+
+*[Image: This ritual is part of Urizen lore rather than Imperial lore .](https://www.profounddecisions.co.uk/empire-wiki/File:NBUrizen.jpg)*
+
+## Rules
+
+### Summer Magnitude 120
+
+### Urizen Lore
+
+This ritual is part of [Urizen lore](../../../in-character/nations/urizen/Urizen_magical_traditions.md#urizen-lore) rather than Imperial lore. Any Urizen character with the appropriate lore can master or [perform](../../../out-of-character/rules/Rituals.md#performing-a-ritual) this ritual. A character from another nation who mastered the ritual before it became part of Urizen lore may still perform it, but does so under the [usual rules](../../../out-of-character/rules/Formulaic_ritual.md#ritual-texts) for performing a ritual learned from a ritual text.
+
+### Performing the Ritual
+
+Performing this ritual takes at least 10 minutes of roleplaying. If the ritual is cast using the [Imperial Regio](Regio.md#the-imperial-regio) it requires at least 5 minutes of roleplaying instead.
+
+This ritual targets a [fortification](../../../out-of-character/rules/Fortification.md), and must be performed in a strong Summer [regio](Regio.md) in the [territory](../../../out-of-character/rules/Territory.md) containing the fortification. If the territory is part of the Empire, then it may instead be performed from the [Imperial regio](Regio.md#the-imperial-regio).
+
+This ritual is an [enchantment](../../../out-of-character/rules/Enchantment.md). A target may only be under one enchantment effect at a time.
+
+### Effects
+
+Over the coming season, the target [fortification](../../../out-of-character/rules/Fortification.md) is infused with the power of the [eternal](../../../in-character/eternals/Eternal.md) [Adamant](../../../in-character/eternals/Adamant.md). The fortification is supported by a defensive force of 1,500, similar to that provided by [military units](../../../out-of-character/rules/Military_unit.md) taking a [guarding](../../../out-of-character/rules/Military_unit.md#guarding) action to support it. This means that if the fortification has an intact [garrison](../../../out-of-character/rules/Fortification.md#garrison), its fighting strength is increased. If there is no active garrison, the force will instead defend the walls of the [bastion](../../../out-of-character/rules/Fortification.md#bastion) associated with the fortification providing 1,500 defensive force in that [region](../../../out-of-character/rules/Territory.md#regions) which helps defend it and will inflict casualties against a force attacking the region containing the bastion.
+
+In addition the defensive force provided by the ritual, the [bastion](../../../out-of-character/rules/Fortification.md#bastion) is repaired for 250 points of integral strength over the coming season. This is similar to the repair provided by the [Hammers of the Brilliant Shore](Hammers_of_the_Brilliant_Shore.md) ritual except that it cannot be increased by raising the magnitude of the ritual.
+
+The effect lasts until the start of the next Profound Decisions Empire event.
+
+### Assurance
+
+This ritual uses the power of Adamant and while it can still be performed if the eternal is placed under [enmity](../../../in-character/eternals/Alignment.md#enmity) doing so will both have legal repercussions and risk angering the eternal. The ritual loses all power if the [Court of the White Fountain](../../../in-character/nations/urizen/Redoubt.md#the-court-of-the-white-fountain) in [Redoubt](../../../in-character/nations/urizen/Redoubt.md) is ever destroyed.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > This is certainly the most valuable of the three rituals contained in *A Year of Perfect Stillness*. It infuses an entire fortification with the spirit of Adamant - every brick and stone - repairing damage and transforming it into a true bastion of defence. While the strengthening effect of the enchantment should not be discounted, if the citadel comes under attack behemothic earthen figures with gemstone eyes emerge from the stone and smash flat those foolish enough to assail the walls. Breathtaking.
+> >
+> > Sentinel Valensa of Delving
+
+## Description
+
+This ritual became part of Urizen lore during Winter 383YE along with [Raise the Dragonsworn Cohort](Raise_the_Dragonsworn_Cohort.md) and [Vital Strength of the Earth](Vital_Strength_of_the_Earth.md). All three rituals were contained in *A Year of Perfect Stillness*, a tome of magic owned by the magicians of [Delving](../../../in-character/nations/urizen/Redoubt.md#delving), a spire known for their expertise in working stone, in engineering, and in mining. They are also on good terms with [Adamant](../../../in-character/eternals/Adamant.md), and *Raise the Dragonsworn Cohort* draws on that [eternal's](../../../in-character/eternals/Eternal.md) power. By all accounts the *King Under the Mountain* is inclined to help the people of Urizen. The creation of the [Three Watchers](../../../in-character/nations/urizen/Morrow.md#the-three-watchers) and the [public thanks](../../../in-character/synod-judgements/383YE_Summer_Solstice_Synod_judgements.md#judgement-49) issued by the Urizen [assembly](../../government/synod/Assembly.md), as well as the [mandate](../../government/synod/Mandate.md) encouraging Urizeni to [work with eternals](../../../in-character/synod-judgements/383YE_Autumn_Equinox_Synod_judgements.md#judgement-24) all apparently factored in to the architects of Delving receiving his blessing to share the magic he helped to create.
+
+*[Image: Arbiter Severus resides in Delving , Tomari , Redoubt in the event that anyone who wishes to contact them by Call Winged Messenger following the Winter Solstice.](https://www.profounddecisions.co.uk/empire-wiki/File:WingedMessenger.png)*
+
+Home to a number of respected [architects](../../../in-character/nations/urizen/Architect.md), they were among the first to see the potential benefits of sharing some of their personal lore with their fellow Urizeni. [Arbiter](../../../in-character/nations/urizen/Arbiter.md) **Severus** presented the [opportunity to gain access to the book's rituals](../../../in-character/winds-of-fortune/Some_heavenly_music.md#the-architects-of-stone) in return for an [appraisal](../../../in-character/appraisals/Appraisal.md) commissioned by the [Senate](../../government/senate/Senate.md) to [identify sites for new fortifications in Urizen](../../../in-character/winds-of-fortune/A_place_on_a_map.md). When the Senate did so, representatives of the Spire delivered the scrolls that make up *A Year of Perfect Stillness* to [Anvil](../../../in-character/world/Anvil.md) and it was duly added to Urizen lore.
+
+The ritual [enchants](../../../out-of-character/rules/Enchantment.md) a [fortification](../../../out-of-character/rules/Fortification.md) with the essence of Adamant; the eternal's presence infuses the stone, wood, and metal of the structure for the duration. A portion of this power also infuses the garrison, granting them greatly enhanced endurance, strengthening their armour and weapons, and helping them make the most of their defences at all times. The initial burst of power will also repair a damaged structure, albeit in a slightly more limited fashion than [Hammers of the Brilliant Shore](Hammers_of_the_Brilliant_Shore.md) does. When the fortification is assaulted, the stone itself rises up against the attackers. Sometimes crude limbs and faces temporarily form in otherwise solid walls, floors, and ceilings. At other times, massive rough-shaped humanoid figures drawn from the stone itself will rise up, with glittering gemstone eyes, and lay about themselves with their massive rocky fists.
+
+There is some speculation that rather than drawing on Adamant directly, the ritual might embody one or more mighty heralds of the *King Under the Mountain*, fusing their essence with the stone for a time. This theory is somewhat supported by reports that there is some variance both in the "aura" of the ritual and in the shapes taken by the animated stone. One story tells of six-limbed serpents of stone and rock that emerged from a curtain wall to both tear attackers apart with their deadly talons and crush them in their irresistible coils, while the defenders were driven into a cold fury by any attempt to invade their territory. Another speaks not of figures but of stone and earth becoming liquid, causing attackers to sink without a trace, before returning to solidity, and a powerful urge to remain constantly vigilant against the approach of any enemy.
+
+## Common Elements
+
+Unsurprisingly, the text strongly advises that an evocation of Adamant be made as part of the ritual, inviting him to infuse the fortification with his essence. A note in the margins of the text mentions that finishing the ritual by thanking him for his aid is "*both good mannered and wise*."
+
+Performance of this ritual often uses a map of the territory where the fortification stands - or of the fortification itself. Images or effigies of the castle may also be involved, especially those made of stone or clay. The ritual has a strong [astronomantic](../lore/Astronomancy.md) feel, and the original text references invoking enduring majesty of the constellation of [the Mountain](../lore/The_Mountain.md), [the Oak](../lore/The_Oak.md), and [the Great Wyrm](../lore/The_Great_Wyrm.md) which all resonate with the ritual for different reasons. Calculating the location and influence of these stars over the location where the fortification stands might play a key role in the ritual, as might carefully drawing or painting them onto a map or effigy.
+
+The text makes a cursory reference to the runes [Verys](../lore/Verys.md) and [Feresh](../lore/Feresh.md), which represent strength and majesty, but also to the way the [rune of transformation](../lore/Xun.md#the-wyrm2c-rune-of-transformation) resonates both with the idea of changing a fortress and with the more dragon-like aspects of Adamant himself.
+
+---
+
+Categories: [Summer Ritual](../../../indexes/by-category/Summer_Ritual.md), [Rituals](../../../indexes/by-category/Rituals.md), [Warfare](../../../indexes/by-category/Warfare.md), [Urizen Lore](../../../indexes/by-category/Urizen_Lore.md), [Enchantment](../../../indexes/by-category/Enchantment.md)

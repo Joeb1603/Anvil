@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:387YE Autumn]]
+__NOTOC__
+<quote by="Announced by Ada Droon, Mistress of Monuments">I announce the construction of a memorial in Bulgakov to commemorate those Varushkan citizens who were killed in the attacks by the Cold Sun, and those brave knights-errant who gave their lives against the scions to allow many citizens of the vale to escape. The monument will be designed by Triska Markova of the Druzhba Karova. Bulgakov; Duzekani; Karov
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Duzekani, [[Karov]]
+* Announcement by the [[Mistress of Monuments]]
+
+==Date==
+* Autumn 387YE
+
+==Cost==
+* Standard costs apply
+* 4 wains of weirwood
+* 1 wain of white granite
+* 15 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Bulgakov_Memorial}}
+==Outcome==
+Now complete, the warding stakes stand around Bulgakov, in [[Karov#Duzekani|Duzekani]], Karov

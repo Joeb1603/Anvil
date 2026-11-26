@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Announced by Dima Vasilyevna Novosad, Master of the Koboldi">To commission the House of Illumination and Light Market in Cargo in Redoubt and Essk in Miekarova respectively, creating two Imperial titles: the Architect of Illumination and Merchant Boyar of the Light Market. In the spirit of partnerships and prosperity this commission was designed for, I profusely thank Bledri and Siân of the Eternal Family in Navarr, who have pledged 10 wains to this construction.</quote>
+==Overview==
+* Creates two sinecures in [[Redoubt]] and [[Miekarova]] as per the '''[[Out_of_the_abyss#Illumination|Out of the abyss]]''' wind of fortune
+* Announcement by the [[Master of the Koboldi]]
+==Date==
+* Winter 385YE
+==Cost==
+* Costs as per opportunity
+* 75 wains of white granite
+* 225 crowns
+* Six months to complete
+==Progress==
+{{CommissionProgress|House_of_Illumination_and_Light_Market}}
+==Outcome==
+* Now complete, the [[Architect of Illumination]] will be available to elect by [[Tally of the Votes]] of Urizen [[mana site]] owners for the first time at the Winter Solstice 387YE.
+* Now complete, the [[Merchant Boyar of the Light Market]] will be available to elect by [[Tally of the Votes]] of Varushkan [[forest]] and [[mine]] owners for the first time at the Winter Solstice 387YE for a shortened term of three seasons.

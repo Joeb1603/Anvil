@@ -1,0 +1,138 @@
+---
+title: Ice on the snow
+source: https://www.profounddecisions.co.uk/empire-wiki/Ice_on_the_snow
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 387YE Summer
+- Recent History
+event: 387YE Summer
+last_edited: '2026-09-07T14:53:51Z'
+revision: 145095
+in_character_boxes: 2
+---
+
+# Ice on the snow
+
+> *In-character text:*
+>
+> "Aren't you going to write it down?" the creature demanded.
+>
+> The fetid visitor grinned at the Jorgen, revealing a mouth filled with too many incisors and a breath that smelled worse than an open sewer. Their baleful golden-green eyes glinted from the behind the sockets of their snarling wolf mask, as a clawed hand played with Anushak's empty bowl. The bird had visited only the day before and conspicuously emptied the container. Jorgen realised then that Anushak had done that deliberately just to spite the Howler's servant. How the bird had known he couldn't say since the laws of magic said all of this was impossible.
+>
+> Never taking his eyes off the thing, Jorgen reached for his quill with an exaggerated flourish and then dipped it in the well. He pointedly looked left and right, to where the two silent guards were standing, before taking his eyes off the stinking herald so that he could put quill to paper. He wrote the eternal's name, underlined it twice, and then started to write down it's message.
+>
+> "Concerning the battle for dominion of the Icy Crag of the Eternal Sun, I make this offer to any magician who competes in my name." He looked up, expectantly at the herald.
+>
+> The creature grinned again, it's long tongue flopping around in its mouth like a fish out of water. "One boon for every competitor they kill, and two if it's one of their own team."
+>
+> Jorgen stared at the herald, in what he hoped was a look of stern disapproval, but he could feel cold sweat on his neck. He was almost certain that this was completely illegal, but it seemed unwise to mention it.
+>
+> "And if they win, my master will give them whatever their heart desires." The creature grinned again "And I will give them a pony."
+>
+> "A pony?" Even terrified Jorgen managed to give voice to his confusion.
+>
+> "A small horse", the herald explained and then the stench of its breath enveloping him as it leaned forwards to leer "They're... delicious..."
+>
+> Jorgen's blood ran cold and he shuddered himself awake. It took him a moment to realise he was sat in a chair in the Forge at Anvil.
+>
+> "You drifted off there... that nightmare again?" enquired Robin sympathetically.
+>
+> Jorgen nodded and reached for the drink in front of him. It was a year to the day since the bloody thing had turned up and it still haunted his nightmares.
+
+*[Image: The Unicorn Prince serves as patron of the Icy Crag, and his influence has set the nature of the competition to see if he will be replaced.](https://www.profounddecisions.co.uk/empire-wiki/File:JaherisArt.jpg)*
+
+## Overview
+
+[Three years ago](Our_thumping_hearts.md), the [battle mages](../../out-of-character/rules/Magical_skills.md#battle-mage) of the Empire came together in the Glory Square of [Dawn](../nations/dawn/Dawn.md), to meet in ritual combat. The prize; the chance to choose which [eternal](../eternals/Eternal.md) would be invited to be the patron of the Empire's premiere [college of Summer magic](../../mixed/titles/Master_of_Ice_and_Darkness.md#the-icy-crag-of-the-eternal-sun). Three years ago, the combatants fighting on behalf of [Jaheris](../eternals/Jaheris.md) came out victorious. Now, the eternals of [Summer](../eternals/Realm.md#summer) have come together, and the time has come to find out if the *Unicorn Prince* will be invited to remain patron, or the Empire chose another route. Whoever wins, the citizens of the Empire can hope for a grand spectacle of fighting between the best spellslingers of the Empire.
+
+During the Spring Equinox, thirteen battlemages sent missives to the Unicorn Prince to throw their hat into the ring, to fight on behalf of an eternal of their choice. Each of these fighters indicates that they will lead a team of three into the fray, meaning in the region of forty fighters will be fighting with spell and stave for the entertainment of eternal and mortal alike.
+
+In addition, Jaheris has indicated that some on the field may have been given additional invites - though, in his usual mercurial fashion, does not tell the civil service 'who' exactly has these. Anyone wishing to take part who does not already have a place will need to seek out an existing team or invitation in order to be a competitor as the option available in Spring to declare yourself a leader of a team is no longer available.
+
+The great climax of the tourney will be the winning team declaring which eternal (if any) is invited to be patron of the college. The Unicorn Prince has declared that none may say *who* they are fighting for until the final dramatic moment. Jaheris has made mention of trying to emulate the Dawnish tradition of the black knight, in deference of the tourney's host at Anvil. In reality, he hopes to keep everyone in the dark about who they are fighting for because of his love for guile and the opportunity for unbridled ambition to triumph by any means.
+
+## The Icy Unicorn Tourney
+
+- **The tourney will begin at 17:00 on Saturday, in the Glory Square in Dawn**
+- **It will be officiated by heralds of the summer eternal Barien**
+- **Competitors should present themselves to the heralds at 16:45, 15 minutes before the tourney starts**
+- **Each team may have up to three magicians, and must present their invitation to take part**
+- **Each team should provide an announcer to introduce themselves to the crowd before the tourney begins**
+- **The heralds encourage healers and physicks who are watching to assist in moving downed competitors from the field**
+
+Invitations have been sent out to every magician who rose to the challenge in Spring. Competitors should arrive at the Glory Square in Dawn 4:45pm on Saturday with their invitation to be guaranteed a chance to take part. Each team should consist of up to three magicians. Revel has asked for each team to also provide an announcer (who can be one of the team members) to *briefly* introduce the team to the crowd, so the assembled spectators know who they are cheering on.
+
+The tourney itself will begin at 5:00pm. As is traditional, the eternal [Barien](../eternals/Barien.md) has been asked to adjudicate and has sent heralds to oversee the contest. The tourney will employ much the same rules as the previous tournament, reiterated above the heralds of Barien.
+
+The heralds of Barien ask for volunteers to help remove yielded fighters from the square and heal them. Assistants should not enter the ring until called for by a yielding warrior, and **should put one or both hands on their heart while entering the square to denote they are not a fighter.** Revel advises that the details will be covered again prior to the start of the bout itself.
+
+### The Rules
+
+The heralds of Barien have presented a list of the rules they intend to employ for the grand melee.
+
+> *In-character text:*
+>
+> The tourney will take the form of a "tag team grand melee": each team will start with one champion on the field, and as each falls they will be carried to safety and another team member take their place.
+>
+> - Each team will consists of up to three magicians.
+> - Champions may only be armed with implements, and may only use mage armour or robes. No weapons of war or warriors armour will be used.
+> - Only one member of each team may bear a shield.
+> - Enchantments, eternal boons, tonics, magic items and the like may all be employed before the tourney, but none may be used once the tourney begins. This means that no potions or herbs may be used, and no crystal mana or vis may be employed by the champions in the ring.
+> - Only one member of each team will be permitted to be in the arena at the start of the tourney.
+> - A magician is defeated when they yield, and once they are off the field they will be healed. This is not a fight to the death. Bystanders may enter the square and heal or help the wounded to leave. Once a magician has yielded and accepted outside help they can no longer participate in the tourney.
+> - When a competitor has yielded one of their teammates must enter the square to replace them without delay. A team may have no more than one active magician in the square at any one time.
+> - If a magician's implements are shattered, they may have them repaired or obtain a like for like replacement from outside the arena if someone is willing to donate one. Magicians cannot leave the arena and may be attacked while this is happening.
+> - The last team with magicians remaining wins.
+> - There shall be no killing, executions, or eating people.
+
+## To The Victors
+
+- **The victors may choose which eternal will serve as patron of the college**
+- **They may pick *any* eternal, not just those of the Summer realm**
+- **They may also choose to pick no eternal at all leaving the Icy Crag without an eternal patron**
+
+While the eternals of Summer orchestrated this tourney, and it might be assumed that one of them will become the new patron of the Summer college, the option *is* open for the winning team to declare for an eternal of another realm (or indeed no eternal at all). The eternals of Summer are quite blasé about this; it just means none of their bitter rivals get to be patron, and they couldn't care less about any other realm. This possibility *does* raise an interesting question though. A recent [opportunity](../../out-of-character/game-design/Opportunity.md) arose to [convert the Icy Crag of the Eternal Sun](The_war_of_thorns_and_flowers.md#the-dark-nights-of-winter) to a college of *Winter* magic, instead of Summer. While this option has not been taken up by the magicians of the Empire so far, were an eternal of Winter chosen as the patron, it would breathe new life into this angle going forward.
+
+The Iron Duke's heralds advise that a modest prize will be given at the time to the victorious team to celebrate their win. Of course, whichever Summer eternal the winner invites to become patron of the [college of magic](../../mixed/commissions/College_of_magic.md) would be bound by the laws of the realm to reward their champion accordingly. If the winner chooses to ask an eternal of a different realm to be the patron then that would be down to them - in theory an eternal could even refuse to take the patronage, or to honour their champions, although that is unlikely.
+
+The winners could choose not to invite an eternal to be patron for the college if they wished, though of course then there would be no-one to offer a reward.
+
+In respect to Jaheris' rules, no Summer eternal has thus far publicly announced what prize they would offer mortals in exchange for patronage of the college. Each intends to see if one of their champions wins and then look to find a suitable reward for them in the Autumn.
+
+- [Image: Prospero](https://www.profounddecisions.co.uk/empire-wiki/File:ProsperoArt.jpg)
+
+  [Prospero](../eternals/Prospero.md)
+- [Image: Basileia](https://www.profounddecisions.co.uk/empire-wiki/File:BasileusArt.jpg)
+
+  [Basileia](../eternals/Basileia.md)
+- [Image: Sadogua](https://www.profounddecisions.co.uk/empire-wiki/File:SadoguaArt.jpg)
+
+  [Sadogua](../eternals/Sadogua.md)
+- [Image: Wise Rangara](https://www.profounddecisions.co.uk/empire-wiki/File:WiseRangara.jpg)
+
+  [Wise Rangara](../eternals/Wise_Rangara.md)
+- [Image: Zakalwe](https://www.profounddecisions.co.uk/empire-wiki/File:ZakalweArt.jpg)
+
+  [Zakalwe](../eternals/Zakalwe.md)
+- [Image: Agramant, Predictably](https://www.profounddecisions.co.uk/empire-wiki/File:Agramant.jpg)
+
+  [Agramant, Predictably](../eternals/Agramant.md)
+
+The heralds of the *Iron Duke* are known for their studious neutrality, however, while arranging matters with the Civil Service, the herald Revel *does* discretely point out that the victorious mortals of the Empire *could* nominate Barien as patron of the college. Of course, they would not *advocate* for such a position, but Revel feels they would be remiss not to point it out.
+
+As with the tourney that took place three years ago, [six eternals](Our_thumping_hearts.md#other-realms) of other [realms](../eternals/Realm.md) have indicated they would be interested in becoming patron should any team wish to battle on their behalf: [Sadogua](../eternals/Sadogua.md) (unsurprisingly), [Zakalwe](../eternals/Zakalwe.md), [Prospero](../eternals/Prospero.md), [Basileia](../eternals/Basileia.md), [Wise Rangara](../eternals/Wise_Rangara.md), and of course [Blood-on-the-snow](../eternals/Agramant.md).
+
+The legal problems should the *Wastewalker* be named patron of the college don't bear thinking about, but the Summer realm at least will accept that decision should it be made by the victors.
+
+## Further Reading
+
+- [Icy Crag of the Eternal Sun](../../mixed/titles/Master_of_Ice_and_Darkness.md#the-icy-crag-of-the-eternal-sun)
+
+- [Is there anybody out there?](Is_there_anybody_out_there.md#tourney-fit-for-a-prince-jaheris-again) - 387YE Spring wind of fortune laying out the new tourney
+- [Our thumping hearts](Our_thumping_hearts.md) - 384YE Summer Wind of Fortune detailing the last tourney for the Icy Crag
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [387YE Summer](../../indexes/by-category/387YE_Summer.md), [Recent History](../../indexes/by-category/Recent_History.md)

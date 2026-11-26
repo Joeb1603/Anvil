@@ -1,0 +1,74 @@
+---
+title: Keeper of the Tower of the Fall
+source: https://www.profounddecisions.co.uk/empire-wiki/Keeper_of_the_Tower_of_the_Fall
+class: mixed
+topic: titles
+categories:
+- Title
+- Urizen
+last_edited: '2026-08-09T20:06:59Z'
+revision: 143270
+---
+
+# Keeper of the Tower of the Fall
+
+## Overview
+
+The Keeper of the Tower of the Fall is an [Urizen](../../in-character/nations/urizen/Urizen.md) [Imperial title](Imperial_title.md) created following an [announcement](../../in-character/announcements/379YE_Spring_Equinox_Announcements_by_the_Crystal_Architect.md#construct-the-tower-of-the-fall) in Autumn 378YE by the [Crystal Architect of the Spires](Crystal_Architect_of_the_Spires.md). The position of Custodian is a [sinecure](../commissions/Sinecure.md), requiring minimal responsibility but offering a regular income of crystal mana.
+
+During the Spring Equinox 380YE, a plague of crystal-eating vermin saw the Senate commission [white granite wards](../../in-character/senate-motions/Construct_Urizen_Sinecure_Outposts.md) to help protect the Tower, which had the unexpected outcome of adding additional production to the sinecure.
+
+During the 381YE [Druj invasion](../../in-character/winds-of-war/381YE_Summer_Solstice_winds_of_war.md#valley-of-darkness-28zenith29) of Zenith, the Tower of the Fall was [destroyed](../../in-character/winds-of-war/381YE_Winter_Solstice_winds_of_war.md#hunting-by-the-rivers) by orc invaders.
+
+During the Autumn Equinox 385YE, the Senate voted to [reconstruct the Tower of the Fall](../../in-character/senate-sessions/385YE_Autumn_Equinox_Senate_sessions.md#reconstruct-the-tower-of-the-fall) following the [appraisal](../../in-character/winds-of-fortune/Write_your_own_ending.md#the-lost-sinecures) presented during the Winter Solstice 384YE that saw it take advantage of the damage done by the Druj, including harnessing the stable Winter regio. Work was completed shortly before the Winter Solstice 385YE. The Senate motion to reconstruct the Tower also established the Keeper as part of the Proffered Hand Network.
+
+Shortly before the Spring Equinox 386YE, [Wise Rangara](../../in-character/eternals/Wise_Rangara.md) made an [offer](../../in-character/winds-of-fortune/Dream_to_me.md#wise-rangara) to **Sabina**, the incumbent Keeper: if a [Declaration](../government/conclave/Declaration.md) of [Concord](../government/conclave/Concord.md) was raised that summit asking for the eternal's assistance, whilst committing the Keeper and their successors to the protection of Urizen from the creatures of Agramant, she would provide a white raven. The [declaration](../../in-character/conclave-sessions/386YE_Spring_Equinox_Conclave_sessions.md#concord-wise-rangara-and-the-tower-of-the-fall) was proposed and passed, and the white raven arrived at the Tower of the Fall shortly after the summit, increasing the flow of heart's blood by three pawns, but reducing the amount of crystal mana by the same amount.
+
+## Responsibilities
+
+The Keeper of the Tower of the Fall is responsible for the safety and well-being of those who visit the Tower. In addition, if the Tower were to be threatened in any way, it would be the responsibility of the Keeper to deal with those threats.
+
+## Powers
+
+### Bounty of Mana
+
+The Keeper of the Tower of the Fall receives an income of 7 crystal mana and 9 [heart's blood](../../out-of-character/rules/Vis.md#heart27s-blood) each season.
+
+## Appointment
+
+The Keeper of the Tower of the Fall is appointed by unanimous decision of the [senators](Senator.md) of [Urizen](../../in-character/nations/urizen/Urizen.md). If a unanimous decision cannot be reached, the title [may be appointed](../government/senate/Appointment_by_the_Senate.md#national-position) by the [Senate](../government/senate/Senate.md) instead.
+
+The title can only be held by citizen of Urizen. The Keeper has [tenure](Imperial_title.md#term-of-office), and serves until they died or stepped down. They can be [revoked](../government/synod/Revocation.md) by the [General Assembly](../government/synod/Assembly.md#general-assembly), the Urizen [National Assembly](../government/synod/Assembly.md#the-national-assemblies), and by the [Assembly of the Nine](../government/synod/Assembly.md#assembly-of-the-nine).
+
+| Summit | Elected |
+| --- | --- |
+| Winter Solstice 385YE | Sabina |
+| Spring Equinox 381YE | Elyssian of Endsmeet |
+| Summer Solstice 379YE | Elyssiathain of Endsmeet |
+
+## Recent Elections
+
+This title is currently held by Sabina. This title has tenure, the occupant may hold the title until it is revoked, they die or they relinquish the position. The table to the right shows the citizens who have been elected to hold this title in the years since [Empress Britta](../../in-character/history/Empress_Britta.md) died.
+
+## The Tower of the Fall
+
+Set high on the slopes of a snow-capped mountain, this lonely tower stood on the cliff-edge of a cliff next to one of the tallest waterfalls in Urizen. It was almost certainly built as a place for meditative [Illuminates](../../in-character/nations/urizen/Urizen_religious_beliefs.md#illuminates) to ponder the relationship between the body, the spirit, and magical talent - but that was before the discovery of the magical bounty of the pools below. The icy waterfall cascades down the mountain into a plunge pool far below, creating a churning vortex of swirling water. Incongruously, at the centre of the vortex it was just possible to make out crystal formations - the kind of formation associated with the natural formation of crystal mana.
+
+There had been several attempts in the past to harvest these crystals, but each had met with failure. The exposed crystal formation was dangerously close to a fast moving wall of freezing water that strikes anyone nearby with the force of a dozen charging oxen. More than one tragic tale tells of would-be mana harvesters swept away and battered to death on the rocks below the plunge pool while trying to collect the crystals. The stories have grown with the telling, and the Pool of the Fall is often used as a metaphor for how [courage](../../in-character/religion/Courage.md) in the pursuit of [prosperity](../../in-character/religion/Prosperity.md) is sometimes not enough, and dangerous if not tempered with a little [wisdom](../../in-character/religion/Wisdom.md). The nature of the pool was also seen as having a strong resonance with [Summer magic](../../out-of-character/rules/Summer_magic.md); at least once the eternal [Barien](../../in-character/eternals/Barien.md) has challenged an Urizen [petitioner](../magic/rituals/Challenge_the_Iron_Duke.md) to recover crystals from the depths of the lake.
+
+Over the years several plans had been suggested as to a safe and effective solution to collecting crystals, but it was only relatively recently that a practical solution was found. Realising that a solution that involved stopping the water flow would simply lead to flooding the crystal formation and probably damaging them in the process (assuming that the falling water was not integral to their formation in the first place), an innovative solution was proposed - a series of vanes and baffles down the length of the fall that rather that stopping the water flow, serve primarily to accelerate the vortex - both increasing its rate of magical convergence, and creating enough space at the middle to allow safer access to the crystals.
+
+A mithril structure raised across the pool and delving into the centre proved to be sufficient to allow harvesting when most normal materials have been insufficient to survive being occasionally caught by the vortex. The workers at the Tower of the Fall ensured that the tower was maintained (and available as a residence for the Keeper should they wish to visit the site), as well as being charged with adjusting the vanes and baffles to maintain the flow rate and vortex velocity through the year. The actual task of harvesting crystals was still dangerous, but not as lethally so as it was when brave (or foolhardy) people attempted to simply swim through the churning water to claim their prize.
+
+When the Druj came, they stole the mana and then burnt the tower, sending its ruins tumbling down the cliff into the pools below, shattering the crystal formation. They tore the mithril structure apart, leaving only twisted wreckage around the broken mana site. Rather than loot the ruins, the precious materials were dumped into the waters below. The Druj clearly intended to ensure that nobody could ever make use of the flows of magic contained in the rushing waters, but it to a degree they miscalculated. It proved expensive to clear the waters, but once the task was complete more of the materials used in the original construction were available to be repurposed. The real problem was not the cost so much as the presence of a malign spirit in the area. As the Empire was preparing to drive the Druj from Zenith they found some way to [unleash](../../in-character/winds-of-war/The_darkest_road.md#rift-in-the-veil-28conjunction29) the Endless Stalker, a terrible servant of [Agramant](../../in-character/eternals/Agramant.md). Further investigation by *Frumence the Retainer of House Vonsesse*, the young and somewhat bookish Winter [mage](../../in-character/nations/urizen/Mage.md) who had a chance encounter with the beast, revealed that the Druj were able to perform this feat of magic by calling on the power released by the destruction of the Tower of the Fall. With the aid of *The Howler* they were able to create a stable Winter regio.
+
+With a proper structure of [mithril](../economy/Mithril.md) built around it to siphon off the magic, ten crystal mana and six doses of [heart's blood](../../out-of-character/rules/Vis.md#heart27s-blood) could be produced each season. The problem is that Agramant's monster is still out there in Zenith somewhere. There's no *obvious* sign that it was using the Tower as a lair but... a Winter regio... created by Agramant... tied to the summoning of a dreadful beast? It doesn't exactly portend well...
+
+## Further Reading
+
+- [Dream to me](../../in-character/winds-of-fortune/Dream_to_me.md#wise-rangara) - 386YE Spring wind of fortune with the offer made by Wise Rangara
+- [The darkest road](../../in-character/winds-of-war/The_darkest_road.md#rift-in-the-veil-28conjunction29) - 384YE Autumn wind of war detailing the ceremony that unleashed the Endless Stalker
+
+---
+
+Categories: [Title](../../indexes/by-category/Title.md), [Urizen](../../indexes/by-category/Urizen.md)

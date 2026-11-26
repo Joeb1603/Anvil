@@ -1,0 +1,118 @@
+==New Player Schedule==
+For a list of all New Player Meetings, please see [[New player schedule|this page]].
+<div style="width: 500px; float: right; clear: left; margin-right:10px;"><table class="wikitable sortable">
+<tr><th>Nation</th><th>Time</th><th>Territories with Senator elections</th></tr>
+<tr><td>[[The Brass Coast leadership|Brass Coast]]</td><td>2:00pm</td><td>[[Segura]]</td></tr>
+<tr><td>[[Dawn leadership|Dawn]]</td><td>2:45pm</td><td>[[The Barrens]]</td></tr>
+<tr><td>[[Highguard leadership|Highguard]]</td><td>2:00pm</td><td>[[Reikos]]</td></tr>
+<tr><td>[[The League leadership|League]]</td><td>2:30pm</td><td>[[Holberg]]<br>[[Sarvos]]<sup>[[#1|(1)]]</sup></td></tr>
+<tr><td>[[The Marches leadership|Marches]]</td><td>1:30pm</td><td>[[Mournwold]]</td></tr>
+<tr><td>[[Varushka leadership|Varushka]]</td><td>1:45pm</td><td>[[Karsk]]</td></tr>
+</table></div>
+==Senator Elections==
+Each summit, a number of nations will elect [[Senator|senators]] for one or more of their territories to serve in the [[Senate]]. Each nation has a unique method of electing its senators. At the Spring Equinox 386YE, the following nations will elect Senators at the listed times inside the nation's camp:
+
+<small>
+#{{anchor|1}} The next regular election for this senatorial title will take place at the Summer Solstice 386YE
+</small>
+
+==Tally of the Votes==
+Each summit, a number of national titles are elected via [[Tally of the Votes]]. At the Spring Equinox 386YE, elections for such titles will take place at the following times for the nations listed, in the order shown:
+<table>
+<tr><th>Time</th><th>Nation</th><th>Location</th><th>Titles in order of election</th></tr>
+<tr><td>3:30pm</td><td>Highguard</td><td>Chapel</td><td>[[Bursar of the House of Spirits]]</td></tr>
+<tr><td>3:30pm</td><td>Wintermark</td><td>Tree of Names</td><td>[[Keeper of the Runegrott]]<sup>[[#2|(2)]]</sup><br>[[Talon of Kauppahall]]<br>[[Mediator of Wreck]]<br>[[Mediator of Fisk]]</td></tr>
+<tr><td>4:00pm</td><td>Varushka</td><td>Central Hearth</td><td>[[Gift of the Dwindling Star]]<br>[[Merchant Boyar of the Bittershore]]<br>[[Custodian of Ivarsgard Docks]]</td></tr>
+<tr><td>4:30pm</td><td>Brass Coast</td><td>Waypoint</td><td>[[Cerevado Nets]]<br>[[The Red Depths]]<sup>[[#2|(2)]]</sup><br>[[Marracossa Sendito]]<br>[[Vizier of the Incarnadine Satchel]]</td></tr>
+<tr><td>4:30pm</td><td>Marches</td><td>Community Hall</td><td>[[Alder of Meade]]<sup>[[#2|(2)]]</sup></td></tr>
+<tr><td>5:00pm</td><td>League</td><td>The Plaza</td><td>[[Tassatan Hills]]<br>[[Custodian of the Assayer's Guild]]</td></tr>
+<tr><td>5:30pm</td><td>Imperial Orcs</td><td>Fire Pit</td><td>[[Steel Fist]]<br>[[Preceptor of the Skarsind College of Warcasting]]<br>[[Bonesetter of Torfast Trading Post]]<br>[[Steward of the Mines of Gulhule]]</td></tr>
+<tr><td>5:30pm</td><td>Urizen</td><td>Near Net of Heaven</td><td>[[Gloaming Merchant]]<sup>[[#3|(3)]]</sup><br>[[Quaymaster of the Elosian Docks]]<sup>[[#4|(4)]]</sup></td></tr>
+</table>
+
+<small>
+#<li value="2">{{anchor|2}} The next regular election for this title will take place at the Autumn Equinox 386YE</li>
+#{{anchor|3}} The next regular election for this title will take place at the Winter Solstice 386YE
+#{{anchor|4}} The next regular election for this title will take place at the Summer Solstice 386YE
+</small>
+
+==Timetable==
+This timetable and much more information can be seen on the notices that get pinned up all around the Hub after time-in. <br />
+For any queries regarding the IC timetabling at events you can talk to the civil service staff in the Hub.
+
+=== Citizen Bookings ===
+Citizens can request to book Civil Service spaces, as detailed [[Anvil#Booking_Civil_Service_Spaces|here]]. Official meetings organised by the Civil Service are listed in darker shading, whilst such citizen-organised meetings are shown in a lighter colour, as below.
+
+<table>
+<tr><td style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Official Meeting</td><td style="background-color: #85ae85; text-align: center; vertical-align: middle;">Official Meeting</td></tr>
+<td style="background-color: #d4afd4; text-align: center; vertical-align: middle;">Citizen-Organised Meeting</td><td style="background-color: #aaddaa; text-align: center; vertical-align: middle;">Citizen-Organised Meeting</td>
+</table>
+
+===Friday===
+<table>
+<tr><th style="width: 4%;">Friday</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Senate</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Military Council</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Conclave</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Bourse</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Synod</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Academy</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Elections</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Militia</th></tr>
+<tr><td>6pm</td><td></td><td rowspan="3" style="background-color: #aaddaa; text-align: center; vertical-align: middle;">[[Imperial Seer]] Scrying<br />In the Military Council tent</td><td></td><td></td><td rowspan="7" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Synod open for [[Judgement]]<br />In the Civil Service Hub</td><td rowspan="6" style="background-color: #85ae85; text-align: center; vertical-align: middle;">Parent's evening (including classes sign up)<br />In the Academy tent</td><td style="background-color: white; text-align: center; vertical-align: middle; border-top: 6pt solid #b48fb4;">Generals' [[General#Appointment | selection]] starts 6pm</td><td></td></tr>
+<tr><td>6.30pm</td><td></td><td rowspan="2" style="background-color: #d4afd4; text-align: center; vertical-align: middle;">[[Celestial Arch]] meeting<br />In the Hall of Worlds</td><td></td><td></td><td></td></tr>
+<tr><td>7pm</td><td style="background-color: #d4afd4; text-align: center; vertical-align: middle;">Liaison Meeting<br />In the Senate Building</td><td></td><td></td><td rowspan="2" style="background-color: #85ae85; text-align: center; vertical-align: middle;">Militia meeting<br />In the Magistrates' Tent</td></tr>
+<tr><td>7.30pm</td><td style= "text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for Senate motions: 8pm</td><td></td><td style= "text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for Conclave [[Declaration|Declarations]]: 8pm</td><td></td><td></td></tr>
+<tr><td>8pm</td><td rowspan="2" style="background-color: #d4afd4; text-align: center; vertical-align: middle;">[[Vigilance]] Assembly Meeting<br />In the Senate Building</td><td rowspan="4" style="background-color: #85ae85; text-align: center; vertical-align: middle;">[[Muster]]<br />In the Military Council tent</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>8.30pm</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>9pm</td><td style="background-color: #d4afd4; text-align: center; vertical-align: middle;">[[Ambassador]] Meeting<br />In the Senate Building</td><td rowspan="4" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">[[Conclave]]<br />In the Hall Of Worlds</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>9.30pm</td><td></td><td></td><td style="text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for voting in Synod Judgements: 10pm</td><td></td><td></td><td></td></tr>
+<tr><td>10pm</td><td rowspan="2" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">[[Senate session]]<br />In the Senate</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>10.30pm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11pm</td><td></td><td style="background-color: #85ae85; text-align: center; vertical-align: middle;">Field Marshal Briefing<br />In the Military Council tent</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11.30pm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 midnight</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12.30am</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+===Saturday===
+<table>
+<tr><th style="width: 4%;">Saturday</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Senate</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Military Council</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Conclave</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Bourse</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Synod</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Academy</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Elections</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Militia</th></tr>
+<tr><td>10am</td><td></td><td rowspan="2" style="background-color: #aaddaa; text-align: center; vertical-align: middle;">Office Hours of the [[Arcane Architect]] and the [[Master of the Koboldi]]<br />In the Military Council tent</td><td></td><td></td><td rowspan="7" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Synod open for [[Judgement]]<br />In the Civil Service Hub</td><td></td><td></td><td></td></tr>
+<tr><td>10.30am</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11am</td><td style="background-color: #d4afd4; text-align: center; vertical-align: middle;">[[Imperial Fleet Master]] Office Hours<br />In the Senate Building</td><td rowspan="3" style="background-color: #85ae85; text-align: center; vertical-align: middle;">[[Battles | Battle]]<br />Off Anvil</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11.30am</td><td></td><td style="background-color: #d4afd4; text-align: center; vertical-align: middle;">[[Shuttered Lantern]] meeting<br />In the Hall of Worlds</td><td></td><td rowspan="2" style="background-color: #85ae85; text-align: center; vertical-align: middle;">Cadets Council<br />In the Military Council tent</td><td></td><td></td></tr>
+<tr><td>12 midday</td><td></td><td></td><td></td><td rowspan="5" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">[[#Senator Elections|Senatorial elections]]<br />In the field of Anvil</td><td></td></tr>
+<tr><td>12.30pm</td><td rowspan="2" style="background-color: #d4afd4; text-align: center; vertical-align: middle;">Calling all Orphanages<br />In the Senate Building</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1pm</td><td style="background-color: #aaddaa; text-align: center; vertical-align: middle;">Burning Rose Meeting<br />In the Military Council tent</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1.30pm</td><td style="text-align: center; vertical-align: bottom; border-bottom: 6pt solid #b48fb4;">Deadline for Senate motions: 2pm</td><td></td><td rowspan="2" style="background-color: #d4afd4; text-align: center; vertical-align: middle;">Mage's Forum<br />In the Hall of Worlds</td><td></td><td style="text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for voting in Synod Judgements: 2pm</td><td></td><td></td></tr>
+<tr><td>2pm</td><td></td><td rowspan="4" style="background-color: #85ae85; text-align: center; vertical-align: middle;">[[Council session]]<br />In the Military Council tent</td><td rowspan="2" style="background-color: #85ae85; text-align: center; vertical-align: middle;">[[Auction of the Seats|Auction for Imperial Bourse positions]]<br />in the Senate Building</td><td></td><td></td><td rowspan="2" style="background-color: #85ae85; text-align: center; vertical-align: middle;">Militia meeting<br />In the Magistrates' Tent</td></tr>
+<tr><td>2.30pm</td><td></td><td></td><td></td><td></td><td style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Election of the [[Doyen of the Spires]]<br />In the [[Hall of Worlds]]</td></tr>
+<tr><td>3pm</td><td></td><td rowspan="4" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">[[Arcane Colloquium]]<br />In the Hall of Worlds</td><td></td><td rowspan="5" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Synod open for [[Judgement]]<br />In the Civil Service Hub</td><td></td><td></td><td></td></tr>
+<tr><td>3.30pm</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>4pm</td><td rowspan="2" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">[[Senate session]]</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>4.30pm</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>5pm</td><td></td><td></td><td style="background-color: #d4afd4; text-align: center; vertical-align: middle;">[[Sevenfold Path]] meeting<br />In the Hall of Worlds</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>5.30pm</td><td rowspan="2" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Druj [[Ambassador#Delegation|Delegation]]<br />in the Senate Building</td><td></td></td><td style= "text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for Conclave [[Declaration|Declarations]]: 6pm</td><td></td><td style="text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for voting in Synod Judgements: 6pm</td><td></td><td></td><td></td></tr>
+<tr><td>6pm</td><td style="background-color: #85ae85; text-align: center; vertical-align: middle;">Field Marshal Briefing<br />In the Military Council tent</td><td rowspan="2" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Grandmaster elections<br />In the Hall of Worlds</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>6.30pm</td><td style= "text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for Senate motions: 7pm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>7pm</td><td></td><td rowspan="6" style="background-color: #aaddaa; text-align: center; vertical-align: middle;">Unofficial Generals' Meeting<br />In the Military Council tent</td><td rowspan="4" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">[[Conclave]]<br />In the Hall Of Worlds</td><td></td><td rowspan="5" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Synod open for [[Judgement]]<br />In the Civil Service Hub</td><td></td><td></td><td rowspan="2" style="background-color: #85ae85; text-align: center; vertical-align: middle;">Militia meeting<br />In the Magistrates' Tent</td></tr>
+<tr><td>7.30pm</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>8pm</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>8.30pm</td><td><td></td><td></td><td></td><td></td></tr>
+<tr><td>9pm</td><td rowspan="2" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">[[Senate session]]</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>9.30pm</td><td></td><td></td><td style="text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for voting in Synod Judgements: 10pm</td><td></td><td></td><td></td></tr>
+<tr><td>10pm</td><td></td><td rowspan="4" style="background-color: #aaddaa; text-align: center; vertical-align: middle;">[[Atun#The_New_Scions_of_Atun|New Scions of Atun]] meeting<br />In the Military Council tent</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>10.30pm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11pm</td><td rowspan="3" style="background-color: #d4afd4; text-align: center; vertical-align: middle;">[[Senate Motions]] dance<br />In the Senate Building</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11.30pm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 midnight</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12.30am</td><td style="background-color: #d4afd4; text-align: center; vertical-align: middle;">The Moon-Lute Society<br />In the Senate Building</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+===Sunday===
+<table>
+<tr><th style="width: 4%;">Sunday</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Senate</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Military Council</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Conclave</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Bourse</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Synod</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Academy</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Elections</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Militia</th></tr>
+<tr><td>10am</td><td rowspan="3" style="background-color: #d4afd4; text-align: center; vertical-align: middle;">Astronomancy Symposium<br />In the Senate Building</td><td></td><td></td><td></td><td rowspan="7" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Synod open for [[Judgement]]<br />In the Civil Service Hub</td><td></td><td></td><td></td></tr>
+<tr><td>10.30am</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11am</td><td rowspan="3" style="background-color: #85ae85; text-align: center; vertical-align: middle;">[[Battles | Battle]]<br />Off Anvil</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11.30am</td><td style= "text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for Senate motions: 12pm</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 midday</td><td></td><td></td><td></td><td style="background-color: #85ae85; text-align: center; vertical-align: middle;">Student Council<br />In the Senate</td><td></td><td></td></tr>
+<tr><td>12.30pm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1pm</td><td></td><td rowspan="4" style="background-color: #85ae85; text-align: center; vertical-align: middle;">[[Council session]]<br />In the Military Council tent</td><td rowspan="2" style="background-color: #d4afd4; text-align: center; vertical-align: middle;">The Unfettered Ledger<br />In the Hall of Worlds</td><td></td><td rowspan="2" style="background-color: #85ae85; text-align: center; vertical-align: middle;">Graduation<br />In the Academy tent</td><td></td><td></td></tr>
+<tr><td>1.30pm</td><td></td><td></td><td style="text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for voting in Synod Judgements: 2pm</td><td></td><td></td></tr>
+<tr><td>2pm</td><td rowspan="2" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">[[Senate session]]<br />In the Senate</td><td></td><td></td><td></td><td></td><td></td><td rowspan="2" style="background-color: #85ae85; text-align: center; vertical-align: middle;">Militia meeting<br />In the Magistrates' Tent</td></tr>
+<tr><td>2.30pm</td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>

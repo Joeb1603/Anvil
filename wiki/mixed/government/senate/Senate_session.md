@@ -1,0 +1,137 @@
+---
+title: Senate session
+source: https://www.profounddecisions.co.uk/empire-wiki/Senate_session
+class: mixed
+topic: government/senate
+categories:
+- Senate
+last_edited: '2026-01-16T09:37:10Z'
+revision: 132715
+in_character_boxes: 2
+---
+
+# Senate session
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Bugger off! No-one wins when the judge has a dog in the race. She can't sit on the bloody throne **and** chair the sodding thing. That's daft talk. A big house needs a servant to clean it. And they need to keep a calm tongue in their head. Only a civil tongue buys cheap apples.
+> >
+> > Walter Brewer, senator for Upwold
+
+## Overview
+
+Like the [Conclave](../conclave/Conclave.md) and the [Military Council](../military/Military_Council.md), the [Senate](Senate.md) conducts its official business at formal sessions, where matters are discussed and votes are cast. Although members of the Senate meet to discuss business throughout the day (the [Speaker for the Senate](../../titles/Speaker_for_the_Senate.md) encourages all members to discuss Senate in advance of the session), the sessions are the best chance to address the entire Senate and the only time that motions can be raised and voted upon.
+
+Traditionally, the Senate aims to have two sessions each full day of an Imperial summit and one session each half-day.
+
+## Member of the Senate
+
+Under normal circumstances Imperial citizens are not permitted to enter the Senate chamber while it is in session. They may view the proceedings, but only from the viewing gallery built for that purpose, and only if they remain in good order and keep the noise to a minimum. Citizens and others may be invited to speak in support of a specific [motion](../../../in-character/senate-motions/Senate_motion.md) by its proposer, and may speak if that invitation is deemed by a Speaker to be useful.
+
+Only members of the Senate and key civil servants may attend Senate sessions. A member of the Senate is not automatically eligible to vote or raise a motion - but they can speak on any motion or [announcement](Senate_announcement.md) that is brought before the chamber. The current Imperial titles that are classed as a member of the Senate are:
+
+- [The Throne](../../titles/The_Throne.md)
+- [Senator](../../titles/Senator.md)
+- [Conscience of the Senate](../../titles/Conscience_of_the_Senate.md)
+- [Master of the Imperial Mint](../../titles/Master_of_the_Imperial_Mint.md)
+- [Imperial Magus](../../titles/Imperial_Magus.md)
+- [Advisor on Orc Affairs](../../titles/Advisor_on_Orc_Affairs.md)
+- [Speaker for the Senate](../../titles/Speaker_for_the_Senate.md)
+- [Imperial Consul](../../titles/Imperial_Consul.md)
+
+In 383YE, the Constitutional Court [issued legal advice to the Imperial Senate](../../../in-character/senate-motions/Amend_powers_of_Imperial_Consul.md) to indicate that they would not approve the creation of any further titles with the power of Member of the Senate unless one of the existing titles was amended or abrogated first. They also ruled that granting a title this power required a [constitutional majority](../../../in-character/senate-motions/Senate_motion.md#constitutional-vote) and [ratification](Powers_of_the_Imperial_Senate.md#ratification) by [the Throne](../../titles/The_Throne.md). It is also a constitutional matter to add the power to an existing title, but it is not a constitutional matter to remove the power, or to abrogate a title that has it.
+
+## Speaking before the Senate
+
+Every member who wishes to attend a Senate session must arrive before the session begins. Once a session is in progress, nobody, not even [The Throne](../../titles/The_Throne.md) may join the session.
+
+Each session is chaired by a [Speaker for the Senate](../../titles/Speaker_for_the_Senate.md). To maintain order, members and civil servants may only speak once invited to do so by the Speaker. Those who wish to speak must catch the Speaker's eye and then wait their turn. The stated goal of the Speaker is to keep sessions brisk and on topic. Like all civil servants their oath binds them to strict neutrality. As Speaker they must balance the need to give every member of the Senate a chance to speak with a demanding time-table for Imperial business.
+
+### Expert Witness
+
+Any citizen raising a [motion](../../../in-character/senate-motions/Senate_motion.md) in the Senate may request that a single expert witness be permitted to speak in support of it. These witnesses are technically permitted at discretion of the Speaker for the Senate, but it is rare that the request is refused. However, it is important to note that  [senators themselves](../../titles/Senator.md#limitations) may not serve as expert witnesses.
+
+It is expected that expert witnesses be individuals with recognised authority or specialist knowledge relevant to the motion, but some senators choose instead to call citizens with a personal connection to deliver a brief and impassioned plea. Expert witnesses will always be allowed to speak briefly at the start of the motion, except when time is pressing during the Sunday session where tighter restrictions apply. The citizen proposing the motion may choose to defer responding to questions to the expert witness.
+
+The civil service has issued [guidance](https://www.profounddecisions.co.uk/mediawiki-public/images/f/f9/Expert_Witness_guidance.pdf) to help citizens prepare when they are called as expert witnesses.
+
+### Addressing Senate
+
+Any individual who is due to [address](Senate_address.md) the Senate, make an [announcement](Senate_announcement.md), or be an expert witness must wait outside the chamber until called. They may only enter when called and must leave once their speech is complete and they have answered any questions from members of the Senate. There is no legal requirement for truth on the floor of the Senate: anyone speaking in the Senate is within their legal rights to choose whatever words they feel will suit their cause best.
+
+### Discretion of the Speakers
+
+In exceptional circumstances, the Speaker may permit someone without the [requisite power](Senate_address.md) to address the Senate. Requests lodged well before a session begins and with a clear purpose that cannot be achieved by any existing title are more likely to be granted.
+
+## Civil Service
+
+In addition to the Speaker, there are usually one or more civil servants present in the chamber during a Senate session to provide the benefit of their legal and civil expertise to the senators. Civil servants have the legal right to enter the Senate at any time but may only speak if they are recognized by the Speaker. John of Meade in particular is known to be particularly determined on this point and has expelled civil servants from the chamber for attempting to speak without being recognized.
+
+In practice civil servants will only speak out to present the material facts as they are known to the civil service to the Senate. This will usually be because key facts known to the civil service which are pertinent to the subject are being misrepresented or omitted. Civil servants will not attempt to speak if they are not certain of the relevant facts, so silence cannot be taken as implicit support for claims made on the floor. If a member of the Senate wishes to clarify this point they may ask the civil servants present to confirm if something is known to be true or is not known.
+
+## Setting the Agenda
+
+The mainstay of the agenda for a session are the motions. The right to raise a motion is one of the most important powers of senators, shared only with the [Conscience of the Senate](../../titles/Conscience_of_the_Senate.md). Motions can be presented to a Speaker at any time, but the civil service usually reject a motion brought to them less than two hours before a session is due to begin, unless there is a very good reason for it.
+
+[Announcements](Senate_announcement.md) occur when the holder of an Imperial title exercises legal powers of the Senate on their behalf. These powers would normally require a Senate motion to use - and thus are subject to veto by the [Synod](../synod/Synod.md). The Senate may delegate these powers to one or more Imperial titles - but the citizen exercising those powers must then announce them during a Senate session to ensure that they remain subject to the appropriate oversight. Announcements are not voted on - but the Speaker will sometimes allow a short debate by members of the Senate.
+
+Any citizen that holds an Imperial title that confers the right to address the Senate may do so by informing the Speaker of their intent. The Speaker will add the address to the agenda and call the citizen to speak at the relevant moment.
+
+The order of motions is set by the Speaker - the aim of the civil service is to ensure that the most important motions are dealt with last.
+
+### Sunday session
+
+The Sunday Senate session is often pressed for time. As a result, the Speakers strongly encourage senators to bring their motions at earlier sessions, particularly if they expect extended discussion. While they always try to make time for important debates, the Civil Service must manage the agenda to conclude the session promptly.
+
+To support this, the Speakers will use their existing discretion more actively during Sunday Senate. If the docket is substantial, they will use any or all of the following means to ensure the session ends well before 3pm:
+
+- Restricting questions in elections. Each candidate for the position may give a brief speech, then move directly to elect.
+- Restricting questions from the floor. From about 2:15pm, Speakers will permit only a brief speech by the citizen raising the motion and their chosen expert witness, then move directly to vote.
+- Restricting all speeches. From about 2:30pm, the Speaker will read the motion, then move directly to vote.
+
+Senators are urged to plan their use of time accordingly and raise their motions before the Sunday session if they wish to ensure their motion gets the full discussion it deserves.
+
+## Concluding the Agenda
+
+Once all agenda items are dealt with, the Senate session ends. If a session ends prematurely for any reason, remaining agenda items are added to the agenda of the next Senate session.
+
+### Curtailment
+
+A senator may call for a Vote of Curtailment in an attempt to bring the current session to an end early. This is often proposed because an important decision must be made but those present feel there is insufficient information available to vote on the matter, however a senator is under no obligation to provide a reason.
+
+When a Vote of Curtailment is called, the Speaker will conduct a [majority vote](../../../in-character/senate-motions/Senate_motion.md#majority-vote). Those present who are eligible to vote will be asked to vote "Aye" if they wish to close the session early; otherwise the session continues as normal. If the votes passes then the session comes to a premature end. Any motions that have not yet been voted upon are automatically added to the agenda for the following session by the Speaker.
+
+Curtailment is not a motion, and does not need to be seconded. It is not subject to veto by the Imperial Synod, but it *is* subject to veto by The Throne. Only a senator may call for a Vote of Curtailment - no other member of the Senate may do so.
+
+## Further Reading
+
+### Core Brief
+
+- Senate session
+- [Senate motion](../../../in-character/senate-motions/Senate_motion.md)
+- [Senate powers](Powers_of_the_Imperial_Senate.md)
+- [Senator](../../titles/Senator.md)
+
+### Additional Information
+
+- [Commission](../../commissions/Commission.md)
+- [Senate address](Senate_address.md)
+- [Senate announcement](Senate_announcement.md)
+- [New Imperial titles](../../titles/New_Imperial_titles.md)
+- [Appointment by the Senate](Appointment_by_the_Senate.md)
+- Appointments to the Senate
+  - [The Throne](../../titles/The_Throne.md)
+  - [Master of the Imperial Mint](../../titles/Master_of_the_Imperial_Mint.md)
+  - [Conscience of the Senate](../../titles/Conscience_of_the_Senate.md)
+  - [Imperial Consul](../../titles/Imperial_Consul.md)
+  - [Imperial Magus](../../titles/Imperial_Magus.md)
+  - [Advisor on Orc Affairs](../../titles/Advisor_on_Orc_Affairs.md)
+  - [Speaker for the Senate](../../titles/Speaker_for_the_Senate.md)
+- [Imperial treasury](../../economy/Imperial_treasury.md)
+- [OOC design](../../../out-of-character/game-design/Senate_design.md)
+
+---
+
+Categories: [Senate](../../../indexes/by-category/Senate.md)

@@ -1,0 +1,9 @@
+Steph Heath<br />
+
+
+
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>[[Category:Photos:StephHeath]] [[:Category:Photos:StephHeath|Image by Steph Heath]]
+</nowiki>''

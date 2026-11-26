@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Announced by Borys Vardovich Straskovich, Boyar of the Iron Roads">The Boyar of the Iron Roads, Borys, announces the building of the Leshun Market</quote>
+==Overview==
+* Creates a ministry in [[Karsk]] as per the '''[[Pride_and_prejudice#The_Orcs_of_Branoc|Pride and prejudice]]''' wind of fortune
+* Announcement by the [[Boyar of the Iron Roads]]
+==Date==
+* Winter 385YE
+==Cost==
+* Costs as per opportunity
+* 16 wains of weirwood
+* 3 thrones
+* Three months to complete
+==Progress==
+{{CommissionProgress|Leshun_Market}}
+==Outcome==
+* Now that work is complete, the [[Speaker to the Leshun]] will be available to appoint by [[Tally of the Votes]] of Varushkan [[mine]] and [[forest]] owners for the first time at the Winter Solstice 386YE.

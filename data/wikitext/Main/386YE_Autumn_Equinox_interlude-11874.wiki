@@ -1,0 +1,116 @@
+[[Category:Winds of Fortune]][[Category:386YE Autumn]][[Category:Recent History]]
+<div style="float:left; width: 500px; clear: left;">{{CaptionedImage|file=Notice Board E2-2024.jpg|align=left|width=500}}</div>
+==Interlude==
+downtime has now closed. The Autumn Equinox winds of fortune will come out shortly before the next event. However, there are a number of significant events happening in the wake of the Summer Solstice that may affect some players' Downtime actions - primarily effects on personal resources or options for characters with [[military unit]] or [[fleet]] personal resources.
+
+On this page we'll be outlining, and offering some context for, these various effects. In most cases, there will be further information in the Autumn Equinox winds of fortune. As always, these are quick OOC summaries to explain effects such as large-scale enchantments and curses. We'll cover all these and more when we start to present the winds of fortune for next event.
+
+'''Downtime has now closed. The deadline for Downtime submissions was midnight on Sunday the 4<sup>th</sup> of August.'''
+
+==Warfare==
+Any player whose character controls a [[military unit]] can choose from a number of downtime options. Left to their own devices, a military unit defaults to [[Military_unit#Take_Independent_Action|paid work]] guaranteeing an income of herbs, ingots or measures, money, or mana crystals. Otherwise, they may log into the downtime system and choose to support an army or fortification, or assign to a special project such as a [[spy network]] or an [[Military_unit#Adventures|adventure]]. Players who want to support one of the [[Army|Imperial armies]] can also read the [[Army_orders|orders]] issued by each [[general]] before making their decision.
+
+As always, the guidelines around discussing military matters online can be found [[Online#You_may_not_post_Military_Updates|here]].
+
+===Hunt the Cannibal Butchers of Holberg===
+* '''Military units of the League can take on work hunting Agramant followers in Holberg
+* '''A starting military unit will receive 120 rings and 1 mana crystal from this action
+Following a mandate enacted by '''Kanute Adelaar van Holberg''' military units of the League are able to take part in a hunt to seek out the followers of [[Agramant]] in [[Holberg]]. If at least one thousand strength supports this adventure then it will create an opportunity to try and bring down the Agramant Cannibal Conspiracy in Holberg at the Autumn Equinox. More information can be found in the [[How_the_sausage_is_made#Spies_and_Pies|How the sausage is made]] wind of fortune.
+
+===Root out the Feasters===
+* '''Military units can take on work hunting Agramant followers across the Empire
+* '''A starting military unit will receive 90 rings and a pawn of heart's blood from this action
+Following a mandate enacted by '''Jared of the Sentinels Tower''' any military unit can take part in an Empire-wide hunt to seek out the followers of [[Agramant]]. If at least three thousand strength supports this adventure then it will create an opportunity to deal with Agramant cults or cannibals before they can cause further trouble. More information can be found in the [[How_the_sausage_is_made#Spies_and_Pies|How the sausage is made]] wind of fortune.
+
+===Imperial Guerdon===
+The Imperial Guerdon is a bursary set up by the Imperial Senate primarily to reward military units that support Imperial armies, spy networks, and fortifications. The value of the Imperial Guerdon is divided between each military unit and fleet that supports an army in proportion to their effective strength. The [[Quartermaster General of the Imperial Armies]] has the power to exclude any or all Imperial armies and navies, fortifications, or special projects (such as spy networks) from the Guerdon. If they do so, then a character who supports such an army, fortification, or special project will receive nothing for doing so. 
+
+This season the Imperial Senate voted to change the value of Guerdon to 250 thrones.
+
+This season, the [[Quartermaster General of the Imperial Armies]] has announced that shares of the Guerdon will be shared between military units supporting the following armies or opportunities:
+* [[Wolves of War]]
+
+==Fleets==
+* '''Imperial fleets can trade with foreign ports and receive valuable goods'''
+* '''Some ports give special bonuses or suffer special penalties'''
+* '''They can also take special actions such as engaging in independent action, or embarking on an adventure'''
+Certain trading destinations apply special effects if a fleet visits them, summarised on the [[386YE_Summer_Solstice_winds_of_fortune#Trade_Summary|Summer Solstice]] wind of fortune page. 
+
+Some fleets also have the opportunity to take part in special [[Fleet#Adventures|adventures]] that provide specific rewards. These options are found in the downtime menu as dropdowns. If you don't want to do something specific, your fleet will automatically participate in [[Fleet#Take_Independent_Action|privateering]] - the default independent action available to every fleet captain.
+
+===Into the Unknown===
+* '''Fleets with the Golden Voyage enchantment can take place in the first leg of a grand race
+* '''It is unknown what a starting fleet will receive from this action
+[[Rhianos]] has set a challenge to any fleet that is under the [[Golden Voyage]] enchantment to take place in a great race to visit the four corners of the world. More information can be found in the [[Famine_and_feast#Rhianos|Famine and feast]] wind of fortune. 
+
+===Smuggle the Way to Asavea===
+* '''Fleets of the Brass Coast can smuggle missionaries into Asavea
+* '''A starting fleet will receive two ingots of orichalcum, two measures of iridescent gloaming, and 60 rings from this action
+Following a mandate enacted by '''Pacheco i Shartha i Guerra''' any fleet of the Brass Coast can choose to smuggle missionaries into Asavea in their quest to convert the country to the Way. More information can be found in the [[Drumbeat_of_war#Price_of_a_Soul|Drumbeat of war]] wind of fortune.
+
+===Thwart the Blockade===
+* '''Fleets from all nations bar Urizen and Varushka can contribute towards disrupting the Asavean blockade of Sumaah
+* '''A starting fleet will receive two doses of liao and 72 rings from this action
+Following a mandate enacted by '''Isolde Hannasdottir''' any fleet in the Empire - bar those in Urizen and Varushka - can choose to attack Asavean ships that are blockading the Sumaah Republic. More information can be found in the [[Guide_the_spirit#Oceans_and_Ships|Guide the spirit]] wind of fortune.
+
+==Other Effects==
+Every season sees large-scale effects impact individuals and nations. Where possible we've summarised these effects here.
+
+===Demand for Imperial Goods===
+* '''Every fleet in the Empire benefits from a one rank bonus when trading with ports in the Commonwealth, the Sarcophan Delves, and the Sumaah Republic
+The Asavean Plenum has funded privateers to target Imperial fleets and those who trade with the Empire. Perversely this means that there is a spike in demand for Imperial goods. More information can be found in the '''[[Drumbeat_of_war#Hoist_Sails|Drumbeat of war]]'''.
+
+===A Distant Pilgrimage===
+* '''Every farm in the Marches gains an additional 12 rings until the start of the Autumn Equinox 386YE
+* '''The speed at which the Doyen of the Spires can codify rituals is halved until the start of the Autumn Equinox 386YE
+Following the [[386YE_Summer_Solstice_Synod_judgements#Judgement_8|mandate]] enacted by '''Clytemnestra''' a large number of Urizen citizens have abandoned their work for the season to travel to the Marches to do what they can to help bring in the harvest. More information can be found in the '''[[Peaks_and_planes#A_Distant_Pilgrimage|Peaks and planes]]''' wind of fortune
+
+===A Friar Exchange===
+* '''Every congregation in Urizen gains an additional one dose of liao and two votes in the Synod until the start of the Autumn Equinox 386YE
+* '''Every congregation in the Marches receive four fewer votes in the Synod and two fewer liao until the start of the Autumn Equinox 386YE
+Following the [[386YE_Summer_Solstice_Synod_judgements#Judgement_67|mandate]] enacted by '''Jedediah Boon''' a large number of Marcher priests have travelled to Urizen to engage in spiritual debate with the virtuous there. The exchange of views is likely to be lively, to say the least.  More information can be found in the '''[[Peaks_and_planes#A_Friar_Exchange|Peaks and planes]]''' wind of fortune
+
+===Disruptive Searching===
+* '''Every business and farm in the Empire will produce 18 less rings until the start of the Autumn Equinox 386YE
+Across the Empire there is disruption [[business]] and [[farm]] owners due to the mandate enacted by '''Jared of the Sentinels Tower'''. More information can be found in the '''[[How_the_sausage_is_made#Spies_and_Pies|How the sausage is made]]''' wind of fortune.
+
+===Cold Winters===
+* '''Every personal resource in Sermersuaq will produce an extra 22 rings until the start of the Winter Solstice 386YE
+Across the territory of Sermersuaq the people have come together in defiance of the harsh winter and the machinations of Agramant. As the first signs of Spring emerge from the ice, people are more enthused than ever to work together and ensure that everyone in Sermersuaq is helped and defended. What has kept the wolf from the door during the harsh seasons of winter, is now more than enough to provide for all, and heralds a bounty to come.
+
+===Unblinking Eyes===
+* '''Priests with congregations who preach Vigilance receive an additional dose of liao and 2 additional Synod votes until the start of the Winter Solstice 386YE
+Following the [[385YE_Winter_Solstice_Synod_judgements#Judgement_64|mandate]] enacted by '''Irada van Temeschwar''' to consecrate the damaged basilica of [[Berechiah]] using true liao there has been a surge of people attending congregation where the virtue of Vigilance is preached.
+
+===Look to the Way===
+* '''Priests with congregations who preach the Way receive 2 additional Synod votes until the start of the Autumn Equinox 386YE
+Following the change in doctrine that was upheld at the Autumn Equinox 385YE there has been a [[Part_of_this_together#Look_to_the_Way|renewal of faith]]. Until the start of the Autumn Equinox 386YE the congregations of priests who [[Congregation#Downtime_Options|preach the Way]] will gain 2 additional votes at the next summit - assuming nothing changes in the meantime.
+
+===Serpent's Curse===
+* '''Congregations in Urizen receive two fewer votes and one fewer liao
+* '''The effect lasts until the start of the Winter Solstice 386YE
+Following the [[385YE_Autumn_Equinox_Synod_judgements#Judgement_40|repudiation of Sulemaine]] by the Urizen national assembly, in the light of their [[383YE_Autumn_Equinox_Synod_judgements#Judgement_100|prior endorsement]] of the so-called "Paragon of Blades", their moral authority has been significantly undermined. For the next year, every congregation in Urizen receives two fewer votes and one fewer liao. As detailed in the [[Broken_sword#Serpent's_Curse|Broken Sword]] wind of fortune.
+
+===Dho'uala's Tithe===
+* '''Fleets from Dawn and Varushka continue to suffer a one rank penalty to production
+* '''The Custodian of the Ivarsgard Docks and the Harbourmaster of the Semmerlak have had some of the prices for their ministries increased
+The [[Underwater_sunshine#Dho.27uala.27s_Tithe_-_Fleets|rise of the sovereign]] [[Dho'uala]] in [[the Semmerlak]] once again impedes [[fleet|fleets]] based in [[Dawn]] and [[Varushka]]; reducing their production by one rank. Any Dawnish or Varushkan character is free to create their own eerie tales of brushes with the terror of the Semmerlak. The examples given in the '''[[Underwater sunshine]]''' wind of fortune should provide enough inspiration for a ghostly tale; these are not glorious battles on the deck of a ship or hordes of horrors clawing up the side of the hull. Rather they are spooky encounters, weird lights, strange disappearances, feelings of being watched, and odd things seen in the depths.
+
+Imperial titles related to [[Underwater_sunshine#Dho.27uala.27s_Tithe_-_Ports|ports on the Semmerlak]] continue to be affected. The price for [[Cerulean Mazzarine|cerulean mazzarine]] from the Sarcophan captains dealing with the [[Custodian of Ivarsgard Docks]] is still increased by a fifth. The [[Harbourmaster of the Semmerlak]] continues to be unable to purchase [[ilium]] but they are still able to purchase wains of weirwood, albeit at increased prices.
+
+As of the Summer Solstice 386YE, and the [[386YE_Summer_Solstice_Synod_judgements#Judgement_103|mandate]] enacted by '''Ivana Petara Vodjavic''', the penalty to production no longer applies to fleets from [[Holberg]].
+
+==Further Reading==
+* [[Downtime]]
+* [[Resource#Personal_Resource|Personal resource]]
+
+==Imperial Lore==
+Two rituals were put forward for inclusion in Imperial Lore during the Summer Solstice:
+
+* [[Judgement of the Magisters]] by '''Sagua i Ezmara''' - funded by '''Zephianiah'''
+* [[Netweaver's Eye]] by '''Gralka''' - funded by '''Gralka'''
+
+* [[Piranhas Devour the Kraken]] from the [[385YE_Winter_Solstice_Conclave_sessions#Imperial_Lore:_Pirahnas_Devour_the_Kraken|Winter Solstice 385YE]] was funded by '''Carlos'''
+
+==Urizen Lore==
+One ritual became part of [[Urizen lore]] thanks to a performance of [[Gift of Knowledge]]: [[Chalice of Callidius]].

@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:388YE Summer]]
+__NOTOC__
+<quote by="Proposed: Lady Gwendoloena de Ordraig, Senator for the Barrens, Seconded: Mel Bleak, Senator for Mournwold">To construct a wayhouse for Navarr in Murderdale, the Barrens
+</quote>
+==Overview==
+* Constructs a [[Navarr wayhouse|wayhouse]] in Murderdale, the Barrens
+* Passed
+
+==Date==
+* Summer 388YE
+
+==Cost==
+* Standard costs apply
+* 16 wains of white granite
+* 6 thrones in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Wayhouse_in_the_Barrens}}
+==Outcome==
+* Now complete, the [[Keeper of Caedwynn's Hold]] will be available to appoint for a term of three seasons by the senators of Navarr for the first time at the Autumn Equinox 388YE
+<!--produces money - Caedwynn's Hold-->

@@ -1,0 +1,47 @@
+[[Category:Title]][[Category:Foreign Nations]][[Category:Senate]][[Category:Ambassador]]
+{{CaptionedImage|file=Herminius of the House of the Wanderer.png|caption='''Herminius of the House of the Wanderer''', Ambassador to Asavea|align=left|width=300}}
+==Overview==
+The Ambassador to Asavea is an [[Imperial title]]. It is an Imperial position appointed by the [[Senate]]. The Asavean embassy to the Empire stands in [[Sarvos]], maintained by a skeletal staff who keep themselves very much to themselves. Likewise, only a handful of civil servants are posted to the Imperial embassy in Nemoria, where morale is apparently quite low.
+
+For years, relations between the Empire and Assavea had been a little rocky but broadly positive. Both nations traded regularly with one another, and while there were serious philosophical differences between the two, diplomatic relations were maintained. Accusations of excessive piracy from [[Asavean_Archipelago_ports#Nemoria|Nemoria]] in 378YE, for example, almost led to a minor international incident, but a [[Reparations_to_the_Asavean_Archipelago|sizeable gift]] organised by the Senator for [[Temeschwar]] helped smooth over the growing conflict. This relative detente came to an end in 384YE when the [[Liberty Pact]] launched a devastating raid against the Asavean town of [[Mosaic|Chalonsio]] as part of a joint effort with the [[Sumaah Republic]] and [[Commonwealth]] aimed at ending the international slave trade. In the wake of the attack, Asavea immediately declared war on the Empire, and withdrew most of its diplomats. Since then, they have been actively opposing the Empire whether by providing open aid to the [[Grendel]] or exerting influence over anti-Imperial factions in neighbouring nations. 
+
+Prior to the Winter Solstice 387YE, the Ambassador was able to purchase goods from merchants and those seeking favour when not at war. This was changed, along with the rest of the ambassadors, when the Senate voted to [[387YE_Winter_Solstice_Senate_sessions#Amend_Imperial_Embassies|amend]] the embassies to end the practice, removing mercantile support and the upkeep costs at the same time.
+==Responsibilities==
+The [[ambassador]] is expected to represent the Empire in relations with the [[Asavean Archipelago]]. They have all the responsibilities [[Ambassador#Responsibilities|common]] to an Imperial ambassador. As such they are responsible for representing the Empire to the Asaveans, and to a degree vice versa. They are presented as the primary contact for any official Imperial business relating to Asavea, so their letters carry much greater weight and importance than anyone bar [[the Throne]]. They are expected to conduct or oversee any [[Ambassador#Treaty|treaty negotiations]] with that nation, and receive official [[Ambassador#Delegation|delegations]]. The [[civil service]] will direct representatives and citizens of the foreign power to the ambassador wherever appropriate.
+==Powers==
+{{Diplomacy|nation=[[Asavean Archipelago]]|status=Barbarian|port=[[Asavean_Archipelago_ports|Nemoria]] (closed)|ambassador=Herminius of the House of the Wanderer|counterpart=[[Ambassador_to_Asavea#Asavean_Ambassador|Lady Madrianna of the Blue Stones]]}}
+===Imperial Ambassador===
+The title has all the [[Ambassador#Powers|common powers]] of an ambassador: they can receive a formal [[Ambassador#Delegation|delegation]], and may prepare a [[Ambassador#Treaty|treaty]].
+===Stipend===
+The Ambassador receives a [[Imperial_treasury#Stipends|stipend]] of four thrones each season
+==Appointment==
+The Ambassador to Asavea is an Imperial position [[Appointments_by_the_Senate#Imperial_Position|appointed by the Senate]]. Any Imperial citizen can hold this title, and the ambassador serves for a year. They can be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Ambassador_to_Asavea}}
+==Ambassadorial Lore==
+===Asavean Embassy===
+The Asavean Embassy stands in [[Sarvos]], maintained by a skeletal staff of Asaveans who keep themselves very much to themselves. According to Lady Madrianna of the Blue Stones, it exists mostly to ensure a line of communication remains open for the inevitable surrender of the Empire to the Plenum.
+
+The embassy was [[commission|commissioned]] by the Senate in [[Construct Asavean Embassy|Winter 377YE]] following a serious diplomatic incident related to levels of Imperial piracy in Asavean territorial waters. Work was not actually completed until shortly before the Summer Solstice 378YE. At one point the [[Sarvos#Asavean_Embassy|Asavean embassy]] was a fixture of the [[Sarvos]] social whirl and led to an influx of Asavean traders which in turn led to luxurious goods from the far west becoming more freely available on the streets of the city. Since the Empire [[385YE_Spring_Equinox_Senate_sessions#Declare_War_on_Asavea|declared war]] on the Asavean Archipelago the embassy has become a stark reminder of the dangers of international diplomacy.
+
+There is still an Imperial embassy in Nemoria, the Asavean capital, but only a handful of civil servants are actually stationed there. All comings and goings are carefully monitored, and morale is reportedly quite low.
+{{WingedMessenger|address=Lady Madriannia of the Blue Stones, Nemoria, Asavean Archipelago}}
+===Asavean Ambassador===
+The Asavean Ambassador to the Empire is ''Lady Madrianna of the Blue Stones''. An important member of one of ruling families of Asavea, she advises the Plenum on diplomatic matters, especially relations with the Empire and their close neighbours. It is Lady Madrianna who has encouraged the Asaveans to make common cause with the [[Grendel]] and who is ultimately behind efforts to suborn the [[Faraden]].
+===Ambassadorial Briefings===
+As discussed in the 388YE Autumn Equinox wind of fortune '''[[So_little_I_wanted,_so_little_I_got#Ambassadorial_Briefings|So little I wanted, so little I got]]''', the [[civil service]] have recently reinstituted Ambassadorial briefings. At least in the short term, the civil service have resumed furnishing Imperial ambassadors ''who are supported by [[embassy]] staff'' with individual briefings where necessary and appropriate. To maintain transparency and preserve continuity, the briefings are made available to those who wish to review them ''after'' the summit where they are delivered, in a similar way to which [[historical research]] is made public. Only those elements of a briefing that are specifically personal to the ambassador may be removed, and only where they are clearly not of interest to the Empire. At the end of the year, this procedure will be reviewed again, to ensure that it is fit for purpose.
+* [[388YE Autumn Asavean ambassador briefing]]
+{{Asavean Links}}
+<!--
+==Archive Stuff==
+<div style="float: left; width: 250px;">{{CaptionedImage|file=CamiliaDiSarvos.png|caption=The first Ambassador to Asavea was appointed in Summer 378YE|title=Camilia di Traviciana di Sarvos|align=left|width=250}}</div>
+
+<table style="width: 500px; float: right; margin-left:10px;><tr><td style="background-color: LightBlue;">Total Money Spent</td><td style="background-color: LightBlue;">Production</td></tr>
+<tr><td>192 Rings</td><td>6 Cerulean Mazzarine, 5 Orichalcum, 4 Iridescent Gloaming, 3 Tempest Jade</td></tr>
+<tr><td>720 Rings</td><td>18 Cerulean Mazzarine, 15 Orichalcum, 12 Iridescent Gloaming, 9 Tempest Jade</td></tr>
+<tr><td>1440 Rings</td><td>30 Cerulean Mazzarine, 25 Orichalcum, 20 Iridescent Gloaming, 15 Tempest Jade</td></tr>
+</table>
+===Asavean Merchants===
+The [[embassy]] in Sarvos means that the ambassador enjoys the benefits of [[Ambassador#Mercantile_Support|mercantile support]] from traders keen to curry their favour. As a [[ministry]], this allows them to purchase quantities of special materials at a set price. The ambassador spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+Following the [[Ratify Liberty Pact|imposition]] of [[Tariffs#Sanctions|sanctions]] on the [[Asavean Archipelago]] during the Winter Solstice 381YE, the costs for benefiting from this ministry increased by roughly a fifth
+-->

@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:385YE Summer]]
+__NOTOC__
+<quote by="Announced by Nikolai, Bearer of an Imperial Wayleave">To reconstruct the Gardens of Pallas in Proceris, Zenith, taking advantage of the appraisal last season, as per the withdrawn motion</quote>
+* Constructs a sinecure in [[Zenith]] as per the '''[[Restoration_and_renewal#Restoring_the_Gardens|Restoration and renewal]]''' wind of fortune
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+==Date==
+* Summer 385YE
+==Cost==
+* Costs as per the wind of fortune
+* 30 wains of weirwood
+* 12 wains of mithril
+* 116 crowns in labour costs
+* 3 months to construct
+==Progress==
+{{CommissionProgress|Gardens_of_Pallas}}
+==Outcome==
+* Now complete, the [[Gardener of Pallas]] will be available to appoint by the senators of Urizen for the first time at the Autumn Equinox 386YE

@@ -1,0 +1,27 @@
+[[Category:Senate Motion]][[Category:387YE Winter]]
+__NOTOC__
+<quote by="Announced by Firesong Arachas, Legion Engineer">The Legion Engineer is to build the way less taken and construct the dam in Apstrus to direct water into Icarion. This will cost 30 white granite and the labour of an Imperial army. As part of this, we will relocate the books of Solen's Doubt which will cost 5 thrones. This is self-funded.
+</quote>
+==Overview==
+<div style="float:right; width: 180px; clear: left;">
+[[File:TowerJacks_Colour.png|link=387YE_Winter_Solstice_Military_Council_orders#Towerjacks]]</div>
+* Constructs an [[edifice]] in Apstrus, Spiral
+* Announcement by the [[Legion Engineer]]
+* More information can be found in the '''[[Million_miles_of_water#The_Way_Less_Taken|Million miles of water]]''' and '''[[Damming the Doubt]]''' winds of fortune
+* This motion received support from the [[Towerjacks]] following the Winter Solstice 387YE
+
+==Date==
+* Winter 387YE
+
+==Cost==
+* Costs as per opportunity
+* 30 wains of white granite
+* 5 thrones to carve the names of the dead into the stones
+* 5 thrones to move the books of Solen's Doubt
+
+==Progress==
+{{CommissionProgress|Construct_Apstrus_Dam}}
+==Outcome==
+Now complete, the dam will have the following effects:
+* [[Mareave#Icarion|Icarion]] will become an oasis
+* Taxation produced by the territory will increase by 6 thrones a season

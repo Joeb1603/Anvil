@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:387YE Summer]]
+__NOTOC__
+<quote by="Proposed: The Barrens, Seconded: Semmerholm">To construct the Wordes, Numbers, Figures and Knotes Carmine Fields Trading Post and create the position of Envoy to the Karass</quote>
+==Overview==
+* Constructs a [[ministry]] in Carmine Fields, [[The Barrens]]
+* Passed
+* More information can be found in the '''[[Little_mercy#Trading_at_Carmine_Field|Little mercy]]''' wind of fortune
+
+==Date==
+* Summer 387YE
+
+==Cost==
+* Costs as per opportunity
+* 12 weirwood
+* 36 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Carmine_Fields_Trading_Post}}
+==Outcome==
+* Now complete, the title of [[Envoy to the Karass]] will be available to appoint by [[Tally of the Votes]] of Dawnish [[military unit]] captains for the first time at the Autumn Equinox 387YE for a shortened term of three seasons.

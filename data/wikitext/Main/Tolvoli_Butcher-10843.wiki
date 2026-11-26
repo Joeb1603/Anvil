@@ -1,0 +1,52 @@
+==Overview==
+The Tolvoli Butcher is an [[Imperial title]] responsible for overseeing a distasteful "trade" with monstrous creatures that lair in the ruins of the [[Miekarova#Heart_of_the_Tempest|Heart of the Tempest]] in [[Miekarova]]. In return for helping to secure animals to feed the dubik near Tolvoli, the butcher is able to buy some of the potions the wagon raiders who visit the site bring back. They're also responsible for keeping an eye on the situation, and making sure that if the dubik become a problem they are dealt with. 
+
+The title was created when the Imperial Senate voted to [[385YE_Summer_Solstice_Senate_sessions#Construct_Tolvoli_Slaughterhouse|construct the Tolvoli Slaughterhouse]]. during the Summer Solstice 385YE, following an [[opportunity]] presented [[The_horror_and_the_wild#Heart_of_the_Tempest|that season]]. Construction was completed shortly before the Autumn Equinox 385YE.
+
+==Responsibilities==
+The Tolvoli Butcher is responsible for ensuring that the dubik near Tolvoli do not become a problem. If the slaughterhouse were to be threatened in any way, it would be the responsibility of the Butcher to deal with those threats. Likewise, if any particular [[opportunity]] were to arise related to the slaughterhouse, the Butcher would expect to be consulted as to how that opportunity might be resolved.
+
+It is perhaps worth noting that the point of the ministry is to provide beasts that can be fed to the ''dubik'' resident at the Heart of the Tempest. If the Butcher does not operate the ministry, then a significantly smaller number of beasts are available that season. The longer such a situation persists, the more likely it is that the ''dubik'' will go looking for blood by themselves.
+
+==Powers==
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightYellow;">'''Bloodvine Liquor'''</td></tr>
+<tr><td>6 crowns</td><td>1 Bloodvine Liquor</td></tr>
+<tr><td>13 crowns</td><td>2 Bloodvine Liquor</td></tr></table>
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightYellow;">'''Blackblood Thorn'''</td></tr>
+<tr><td>6 crowns</td><td>1 Blackblood Thorn</td></tr>
+<tr><td>13 crowns</td><td>2 Blackblood Thorn</td></tr></tr></table>
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightYellow;">'''Darkwine'''</td></tr>
+<tr><td>70 rings</td><td>1 Darkwine</td></tr>
+<tr><td>142 rings</td><td>2 Darkwine</td></tr>
+<tr><td>216 rings</td><td>3 Darkwine</td></tr></table>
+</div>
+===The Red Harvest===
+As a [[ministry]], the Tolvoli Butcher can exchange animal blood for unique consumables at a set price. The Tolvoli Butcher spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+The grove near Tolvoli produces three different types of elixir depending on the quality and quantity of the blood provided. ''Bloodvine Liquor'' is a sweet, thick, gloopy substance that provides additional power to a magician working [[Spring magic]], provided they spill copious amounts of their own blood in the casting. A ''Blackblood Thorn'' is razor-sharp and must be thrust into the skin when performing [[Winter magic]] to provide a burst of additional power, but leaves a stinging wound that may take some time to heal completely. ''Darkwine'' is a euphemistic name for a bitter alcoholic infusion that looks like blood and smells of honey, and grants vigorous health for a time. All three are [[Potion#Tonics|tonics]].
+
+==Appointment==
+This title is appointed during the Autumn Equinox each year. The Tolvoli Butcher is appointed by citizens of Varushka who control [[mine|mines]] and [[forest|forests]] [[Resource#Personal_Resource|personal resources]]. The larger the resource an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Varushkan citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Tolvoli_Butcher}}
+
+==Tolvoli Slaughterhouse and the Heart of the Tempest==
+Once upon a time, a [[college of magic]] stood in [[Miekarova]]. It's not clear that anyone ever uncovered the true story of what happened with it. As near as most people can tell, it started out as the "Hearth of the Tempest" and had a connection to [[Yaw'nagrah]], or perhaps [[Irra Harah]] or maybe even [[Arhallogen]]. The name changed to [[Miekarova#Heart_of_the_Tempest|Heart of the Tempest]], and a little more than a year after it was built the forest around the Heart [[The_flood_and_the_storm#Heart_of_the_Tempest|started to expand]] and there were rumours of creatures of the realm that sound to most people a lot like [[Varushkan_Monster#Wolves|dubik]] pressing beyond its bounds and harming people. The forest abruptly ceased expanding, and everyone assumed someone had done something and that was it all dealt with and moved on with their lives. The people at the vale of Tolvoli, in particular, breathed a heavy sigh of relief and went back to hunting, trapping, and drawing [[beggar's lye]] from the woods.
+
+By all accounts, however, the area remained soaked in fecund [[Spring magic]], and that kind of thing attracts attention. Stories began to percolate out of the magically woven woods that actual ''dubik'' were gathering there, slipping into the forest and nesting among the trees. A few ventured a near the vale of Tolvoli, and had to be dealt with, but for the most part they seemed content simply to gather in the forest far from prying eyes.
+{{CaptionedImage|file=Misha Klubnika Alexandrovich Petrov.jpg|caption='''Misha Klubnika Alexandrovich Petrov''', Tolvoli Butcher|align=left|width=400}}
+The mandate enacted by the Varushkan assembly in Spring 385YE, urging people to [[385YE_Spring_Equinox_Synod_judgements#Judgement_146|seek out deals with dark powers]], sent an enterprising gang of wagon raiders set out from Tolvoli to see if they could gain anything from the haunted groves around the Heart of the Tempest. They weren't fools; they took plenty of precautions and loaded themselves down with both wards and sharp axes. Of the dozen who set out, nine returned, and they would give no indication as to what happened to their three missing siblings beyond stating emphatically that it was important that no [[changeling]] ventured into the twisted, magical woods. They also came back on foot, without their wagons, but with samples of unique dark red liquor that they were able to sell for fairly large amount of money.
+
+It is well known that dubik feast on blood. It seems that while the dubik up near Tolvoli prefer human blood, they are prepared to accept animal blood as long as it is fresh and steaming. The wagon raiders bought up a lot of sheep, goats, and oxen, transported them into the depths of Miekarova, and handed them over to the dubik. They say that the creatures used the blood to water a garden, and paid with unique magical potions and winter-infused thorns. Unfortunately, after only a couple of such trips, the wagon raiders had stripped Tolvoli and the surrounding vales of every spare animal. 
+
+So they [[The_horror_and_the_wild#Heart_of_the_Tempest|reached out]] to their neighbours, to the National Assembly that encouraged them to make contact with the dubik in the first place, and asked that a slaughterhouse and stockyard be built at Tolvoli. This would allow more animals to be brought in and more magical potions to be acquired. 
+
+The slaughterhouse itself was [[Construct Tolvoli Slaughterhouse|commissioned]] by the [[senator]] for Miekarova, and work quickly completed. The stockyards that surround it rarely want for cattle to be bought not only by the wagon raiders who deal with the grove but by the people of the vale as well. Trade is booming.
+
+This creates a problem all its own, of course. The dubik in the woods near Tolvoli have been fed a lot of blood, and no doubt have a taste for it. In the event their supply of animal blood were cut off, it is entirely possible they would leave their grove and seek out the much more potent, much more desirable blood of humans and [[orc|orcs]]. 
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Bourse]]
+[[Category:Varushka]]

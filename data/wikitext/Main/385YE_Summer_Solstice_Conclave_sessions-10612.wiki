@@ -1,0 +1,131 @@
+[[Category: Conclave]] [[Category: Conclave Sessions]] [[Category: 385YE Summer]]
+
+==Precedence and the Font==
+*'''The mana distributed to the grandmasters following the summit was 324 mana.'''
+*'''The mana remaining after distribution was 4 mana.'''
+*'''The mana collected at the summit via the Principle of Precedence was 153 mana.'''
+*'''The mana available in the font for this summit is 157 mana.'''
+The members of each order in attendance at the end of the previous summit determine precedence for the following summit according to the [[Principle of Precedence]]. There was 324 mana in the font after the final Conclave session. This was distributed to the grandmasters of the Conclave according to the Principle of Proportions as per the table below.
+
+This left 4 mana, which is added to the 153 mana income from the Principle of Proportions at this summit to form the font for the next summit.
+<table class="wikitable mw-collapsible sortable"><tr><th>Order</th><th>Precedence</th><th>Members</th><th>Mana</th><th>Ilium</th></tr>
+<tr><td>Grandmaster of the Order of the Rod and Shield</td><td>1</td><td>84</td><td>57</td><td>3</td></tr>
+<tr><td>Grandmaster of the Order of the Unfettered Mind</td><td>2</td><td>78</td><td>53</td><td>3</td></tr>
+<tr><td>Grandmaster of the Order of the Shuttered Lantern</td><td>3</td><td>72</td><td>49</td><td>2</td></tr>
+<tr><td>Grandmaster of the Order of the Sevenfold Path</td><td>4</td><td>69</td><td>47</td><td>2</td></tr>
+<tr><td>Grandmaster of the Order of the Golden Pyramid</td><td>5</td><td>64</td><td>43</td><td>1</td></tr>
+<tr><td>Grandmaster of the Order of the Silver Chalice</td><td>6</td><td>56</td><td>38</td><td>1</td></tr>
+<tr><td>Grandmaster of the Order of the Celestial Arch</td><td>7</td><td>49</td><td>33</td><td>1</td></tr>
+</table>
+
+__TOC__
+
+==Friday Session==
+===Candidacy: Master of the Koboldi===
+* '''Raised by:''' Cassia Apulian Silkweaver, on behalf of the [[Sevenfold Path]].
+* '''Declaration:''' To appoint the title of [[Master of the Koboldi]]
+* '''Outcome:''' Passed. Dima Vasilyevna Novosad of Varushka claimed the title
+
+===Imperial Lore: Stag Knight's Glory===
+*'''Raised by:''' Simargl, the Empty One, as [[Dean of the Lyceum]]
+* '''Declaration:''' To add the ritual [[Stag Knight's Glory]] to [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]]
+* '''Outcome:''' Passed. Funds were provided by the [[Dawn|Dawnish]] [[witch]] '''Alexander'''.
+
+===Concord: Ornate Wyrmlings===
+* '''Raised by:''' [[Grandmaster]] Tyburn of House De Rondell, on behalf of the [[Shuttered Lantern]]
+* '''Declaration:''' Conclave thanks the ornate wyrmlings, Scribble, Odd, and Thumbs for their hospitality and gifts. We accept their offer. We nominate the nation of the Thule, Please provide the items recovered to Tyburn Weaver, Grandmaster of the Shuttered Lantern.
+* '''Outcome:''' Passed.
+
+===Candidacy: Imperial Censor===
+* '''Raised by:''' Eliza, on behalf of the [[Unfettered Mind]].
+* '''Declaration:''' To appoint the title of [[Imperial Censor]].
+* '''Outcome:''' Passed. Cassandra i Periera i Erigo of the Brass Coast claimed the title.
+
+===Concord: Approve Raficci Vicente Barossa ===
+* '''Raised By:''' Raficci Vicente Barossa, on behalf of the [[Golden Pyramid]].
+* '''Declaration:''' That this conclave approved Raficci Vicente Barossa as a candidate for the Imperial Throne.
+* '''Outcome:''' Passed. Conclave [[Concord_and_accord#Support|supports]] Raficci Vicente Barossa for [[Throne]].
+
+===Alignment: Yelenwe===
+* '''Raised By:''' Skywise Gralka, as [[Archmage of Day]].
+* '''Declaration:''' Just as a rough stone is polished, just as an instrument is tuned a transformation has happened. A journey has begun by the Pure Morning, the Conclave moves to recognise this and sets the alignment of Ylenwe to Neutrality.
+* '''Outcome:''' Passed. The eternal [[Ylenwe]] has been moved to [[Alignment#Neutrality|Neutrality]].
+
+===Concord : Approve Veikko Bondforger===
+* '''Raised By:''' [[Grandmaster]] Sakari Nightscale, of the [[Rod and Shield]].
+* '''Declaration:''' That this Conclave approved Veikko Bondforger as a Candidate for the Imperial Throne.
+* '''Outcome:''' Passed. Conclave [[Concord_and_accord#Support|supports]] Veikko Bondforger for [[Throne]].
+
+===Candidacy: Dean of the Lyceum===
+* '''Raised By:''' [[Grandmaster]] Ashborn Trosk of the [[Celestial Arch]].
+* '''Declaration:''' Candidacy for the Dean of the Lyceum.
+* '''Outcome:''' Passed. Palaphon Ankarien claimed the title [[Dean of the Lyceum]].
+
+===Endowment: Potion Chest===
+* '''Raised By:''' [[Grandmaster]] Fausta Ankarien of the [[Silver Chalice]].
+* '''Declaration:''' The Conclave endows the chest of potions (given to us by the Suranni magicians) to the Silver Chalice for study and potential use to benefit citizens of the Empire.
+*'''Outcome:''' Passed. The [[Possibility_days#A_Gift_for_the_Conclave|chest of potions]] was delivered to the Grandmaster the following morning.
+
+==Saturday Session==
+===Concord: Imperial Enchantments===
+* '''Raised By:''' Aesa Sigeling, the [[Imperial Magus]].
+* '''Declaration:''' Conclave would see the magical effects being felt across the Empire by the Empire-wide rituals that have been cast, investigated. And investigation into how the detrimental results could be mitigated.
+* '''Outcome:''' Passed.
+
+===Candidacy: Penumbral Watcher===
+* '''Raised By:''' Clérabéla Vicente deMetri,as [[Arbiter_of_the_Rogue_Declaration|Arbiter of the Rogue Declaration]].
+* '''Declaration:''' Candidacy for the Penumbral Watcher
+* '''Outcome:''' Passed. Izora Highwind claimed the title of [[Penumbral Watcher]].
+{{CaptionedImage|file=Lann.png|title=Rune: Lann|align=right|width=100}}
+
+===Concord: Prospero and the Rod and Shield===
+* '''Raised By:''' [[Grandmaster]] Sakari Nightscale of the [[Rod and Shield]].
+* '''Declaration:''' The Conclave accepts the bargain between Prospero of the Autumn realm and the Order of the Rod and Shield.'''
+* '''Outcome:''' Passed. [[Prospero]] will [[Inkpot_gods#The_Shield_and_the_Staff|intercede]] with the [[Principalities of Jarm]] on behalf of the Empire, but the [[Rod and Shield]] will owe him a favour of equivalent value.
+
+===Concord : Study Rituals===
+* '''Raised By:''' [[Grandmaster]] Eliza of the [[Unfettered Mind]].
+* '''Declaration:''' Send representatives from the Unfettered Mind to investigate the ritual "Dripping Echoes of the Fen".
+* '''Outcome:''' Passed. The [[Unfettered Mind]] will [[Culling_the_threat#Dripping_Echoes|investigate]] the provenance of the ritual [[Dripping Echoes of the Fen]], and publish their findings, along with any additional information they uncover about [[Night magic]] rituals.
+
+===Concord: Espionage===
+* '''Raised By:''' [[Grandmaster]] Tyburn Weaver of the [[Shuttered Lantern]].
+* '''Declaration:''' Conclave asks the Shuttered Lantern to tear the veil and reveal the hidden hand of the Grendel and any other threat to the Empire in the territory of Sarvos. We will expose the espionage rings, spy networks, and other information gathering tools of our enemies. Where possible we hope to neutralise the threat.
+* '''Outcome:''' Passed. The [[Shuttered Lantern]] will send agents to [[Sarvos]] to [[Rings_and_crowns#Be_Alert_to_Dangers|discover]] if there is a Grendel espionage ring in the [[territory]].
+
+===Alignment : Sadogua===
+* '''Raised By:''' Elyssiathain, [[Archmage of Night]].
+* '''Declaration:''' The Brother of Wizards has Amity, and Elyssiathain would like to move Damakan's Forge from Spiral to a location next to the Crucible in Zenith.
+* '''Outcome:''' Passed. Sadogua's [[alignment]] with the Conclave has not changed, but the [[eternal]] will now [[The_fate_of_the_many#The_Wyrm.27s_Bottle|move]] the remains of Damakan's Forge to [[Zenith]] with a unique, irreplaceable boon.
+
+===Concord: Prospero and the Arch===
+* '''Raised By:''' [[Grandmaster]] Ashborn Trosk of the [[Celestial Arch]].
+* '''Declaration:''' The order of the Celestial Arch asks Prospero to bring a delegation from Skoura to Anvil at the next summit.
+* '''Outcome:''' Passed. [[Prospero]] will [[Inkpot_gods#The_Arch_and_The_Web|arrange a meeting]] with a delegation from the nation of [[Skoura]], in return for a favour of equivalent magnitude.
+
+===Concord : Omnihedron===
+* '''Raised By: '''Ariadne of Auric Horizon on behalf of the [[Sevenfold Path]].
+* '''Declaration:''' That we should complete the omnihedron sequence of rituals.
+* '''Outcome:''' Passed. The [[Stargazer#Resonance_and_the_Omnihedron|omnihedron]], and the [[Align the Celestial Net|proposed sequence]] will be a topic of interest to Imperial magicians.
+
+===Alignment : Siakha===
+* '''Raised By:''' Ibiss Briarheart, [[Archmage of Spring]].
+* '''Declaration:''' That the eternal Siakha is an enemy of the Empire, and a baddy.
+* '''Outcome:''' Passed. [[Siakha]] once again has the [[Alignment#Enmity|enmity]] of the Conclave.
+
+===Concord: Tharim's Feast===
+* '''Raised By:''' Izarra i Riqueza on behalf of the [[Golden Pyramid]]
+* '''Declaration:''' Conclave invites the Bound King to feast upon the herb gardens and mana sites of the Brass Coast for the next year, in thanks for providing the assistance of his knights to the Fire of the South.
+* '''Outcome:''' Passed. [[Tharim]] will [[Questions_of_virtue#Touch_of_Winter|feast]] on [[herb garden|herb gardens]] and [[mana site|mana sites]] in [[the Brass Coast]] until the start of the Summer Solstice 386YE.
+===Endowment: Ring of the Newborn Sun===
+* '''Raised By:''' Brynn Vision Enduring the [[Bursar of the Conclave]].
+* '''Declaration:''' That the Ring of Atun gifted by the Hall of the Newborn Sun be endowed to Caleb of the Cenotaph, found to be the most instrumental in the destruction of the Druj Miasma pillars in Zenith.
+* '''Outcome:''' Passed. The [[Magic_items#Artefacts|artefact]] [[Atun's Ring|ring]] gifted by the [[Rings_and_crowns#Glare_of_the_Noonday_Sun|Hall of the Newborn Sun]] was endowed upon Caleb of the Cenotaph.
+===Interdiction : Curse of Gangrenous Flesh===
+* '''Raised By:''' Cassanda i Periera i Erigo, as the [[Imperial Censor]].
+* '''Declaration:''' Interdiction against Curse of Gangrenous Flesh as requested by the eternal Ossegrahn to thank them for the aid they have provided to the Empire.
+* '''Outcome:''' Failed. [[Curse of Gangrenous Flesh]] remains legal to perform.
+===Concord: Silver Chalice and Sickness===
+* '''Raised By:''' [[Grandmaster]] Fausta Ankarien of the [[Silver Chalice]].
+* '''Declaration:''' The Imperial Conclave directs the Silver Chalice to head into the Barrens to investigate sites of Druj experimentation with novel diseases and the Karass and Yerende septs (with a particular interest in diseases similar to the Reikos flux).
+* '''Outcome:''' Passed. Members of the [[Silver Chalice]] will travel to the howling wilderness of [[the Barrens]].

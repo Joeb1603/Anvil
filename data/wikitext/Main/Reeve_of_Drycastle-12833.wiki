@@ -1,0 +1,17 @@
+==Overview==
+The Reeve of Drycastle is an [[Imperial title]] awarded to a citizen of [[Dawn]]. The motion to rebuild Drycastle was [[Rebuild Drycastle|passed]] by the [[Senate]] in Summer 386YE. The Reeve of Drycastle is responsible for seeing to the Prosperity of the town.
+
+==Responsibilities==
+The Reeve of Drycastle has a responsibility to ensure the prosperity of the town. They are expected to meet with visiting merchants, help settle disputes, and deal with any rowdiness that comes from trade.
+==Powers==
+===Sizeable Income===
+The Reeve of Drycastle receives a seasonal income of 25 crowns from rents on buildings in the town and fees paid by visiting merchants.
+<div style="float:right; width: 500px; clear: right;"><box><big>'''Suitability'''</big><br>The Reeve of Drycastle is intended to be held by a [[Yeofolk of Dawn|yeofolk]]; the task of haggling over coins and ensuring good trade is unsuitable for a noble. If the title is held by a character who is a noble, or they become one during their tenure, then the player must email admin@profounddecisions.co.uk to let us know to turn off production.</box></div>
+==Appointment== 
+This title is appointed during the Summer Solstice. The Reeve of Drycastle is appointed by citizens of Dawn who control a [[military unit]] [[Resource|personal resource]]. The larger the military unit an individual has the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Dawnish citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+<!--{{CaptionedImage|file=FILE.png|caption='''NAME''', Reeve of Drycastle|align=left|width=400}}-->
+{{RecentElections|Reeve_of_Drycastle}}
+[[Category:Title]] 
+[[Category:Dawn]]

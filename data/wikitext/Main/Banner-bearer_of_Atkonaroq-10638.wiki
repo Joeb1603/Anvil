@@ -1,0 +1,34 @@
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Wintermark.png|caption=This title is appointed by the Wintermark Assembly|width=250px}}</div>
+The Banner-bearer of Atkonaroq is an [[Imperial title]] awarded to a citizen of [[Wintermark]]. The Hall of the Hunters was [[Construct Hall of the Hunters|announced]] by '''Groza''', the [[Legion Engineer]] during the Spring Equinox 385YE as part of an [[Watching_my_mistakes#A_Beacon_in_the_North|opportunity]] to deal with the monsters loose in [[Sermersuaq]].
+
+The responsibilities were [[388YE_Spring_Equinox_Senate_sessions#Amend_Banner-bearer_of_Atkonaroq|amended]] during the Spring Equinox 388YE following on from a [[Snap_rope_and_pass_foil#Tsirku_is_the_Wasteland|request made]] from the people of Wintermark.
+__TOC__
+==Responsibilities==
+The Banner-bearer of Atkonaroq has a responsibility to ensure that the heroes who come to the Hall are adequately provisioned to brave the dangers of the Suaq wastes. They are also expected to support and aid those who fight the horrors of Tsirku. In addition, if the Hall were to be threatened in any way, it would be the responsibility of the Banner-bearer to deal with those threats.
+==Powers==
+===Lake Bounty===
+The Banner-bearer of Atkonaroq gains custodianship of a [[sinecure]]. They receive an income of 9 mana crystals each season.
+
+===Support for Tsirku===
+The Banner-bearer of Atkonaroq receives four mana crystals each season so long as they retain the responsibilities to support and aid those who fight the horrors of Tsirku
+
+==Appointment==
+The Banner-bearer of Atkonaroq is a national position appointed by the Synod. It is elected by [[judgement]] of the [[Assembly#The_National_Assemblies|National Assembly]] of Wintermark each year during the Summer Solstice.
+
+The title can be held by any citizen of Wintermark. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Wintermark National Assembly, and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+==Hall of the Hunters==
+When the Jotun conquered [[Sermersuaq]], the Ability of the [[Conclave]] to [[Alignment#Enmity|protect the territory]] from malign influences faltered. Specifically, its ability to keep [[Agramant|Blood-on-the-Snow]] at bay was removed. The Jotun erected blood-red stone markers around the main settlements, carved with runes and decorated with [[weltsilver]] and [[ambergelt]] to try and contain the malice of the howling beast. Either they don't work, or there weren't enough of them, but whatever the case, they weren't enough to stop the Howler releasing all manner of beasts and monsters into the wilds of Sermersuaq. A few of these creatures were twisted heralds of Wastewalker. Most are simply monsters, released by Agramant from the Winter realm, these horrifying beasts with snarling jaws and bloody teeth pose a terrifying danger even without the Howler's hand to guide them.
+
+Sadly, these horrors are not alone. ''[[Hayaak]]'', the Griffon-King, [[A_wandering_fire#Lions_and_Song_.28Battle.29|unleashed his vengeance]] on the [[Thule]] warlocks gathered at [[Sermersuaq#Tanikipari|Tanikipari]] in Autumn 384YE. The Empire tried to prevent the massacre, but they were too late to stop an army of Hayaak's followers from descending on the warlocks and ripping them limb from limb. Bad news for the Thule maybe... but not just for them. After the Thule were dealt with, Hayaak's monsters did not return to the Summer realm. Instead they scattered across the land. And unlike Agramant's twisted offspring, the instruments of Hayaak's bloody vengeance seem only to eager to prey on unwary travellers. 
+
+Fortunately such threats are meat and drink to the heroes of Wintermark. With somewhere suitable to stay they can hunt down these monsters and curtail the danger they pose indefinitely. The Hall of Hunters serves as a haven for bands of heroes venturing into Sermersuaq to hunt down the beasts of ''Icesnap'' and Hayaak. Built on the edge of Lake Atkonaroq in the [[Sermersuaq#Suaq Wastes|Suaq Wastes]], it offers welcome respite to those who test themselves against the might of the monsters loose in the territory. 
+
+Wintermark heroes and their [[military unit|warbands]] base themselves here when [[Venture#Hunt_the_Suaq_Wastes|hunting the Suaq wastes]], slaying the beasts of Hayaak and Blood-on-the-Snow wherever they find them. Inevitably some [[Dawn|Dawnish]] [[Glory]] hounds turned up as well from time-to-time - drawn by the promise of desperate battles against terrible monsters - but the general consensus is the more heroes that come to protect Sermersuaq the better. 
+
+The existence of the Hall, and the presence of the heroes who use it as a base for their adventures, are enough to keep the monstrous heralds of Winter and Summer at bay indefinitely. The slavering beasts that Blood-on-the-Snow and Hayaak have set on Sermersuaq will surely be a danger for years to come, threatening individual lives and posing a risk to travellers. But thanks to the Hall of Hunters, they should never become a coherent force that could threaten the safety and security of the territory. Imperial heroes might have to travel by sentinel gate to deal with an individual monster, but they won't become a danger that needed the attention of the Senate or the Military Council.
+<div style="float:left; width: 300px; clear: right;">{{CaptionedImage|file=Ceolmund Bloodtusk.jpg|caption='''Ceolmund Bloodtusk''', Banner-bearer of Atkonaroq|align=left|width=500}}</div>
+{{RecentElections|Banner-bearer_of_Atkonaroq}}
+==Further Reading==
+* [[Venture#Hunt_the_Suaq_Wastes|Hunting the Suaq wastes]] - The adventure available to [[military unit|military units]] of Wintermark and Dawn
+[[Category:Title]][[Category:Wintermark]]

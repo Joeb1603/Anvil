@@ -1,0 +1,33 @@
+==Overview==
+The Chef of Sergio's is an [[Imperial title]] awarded to a citizen of [[the League]]. The [[Construct Sergio's Kitchen|announcement]] to establish the restaurant was made by '''Lucrezia Corvinascura''', as [[Chair of the Wolf]], in Winter 386YE. The Chef of Sergio's is responsible for ensuring the prosperity of the kitchenfolk of the city. Whilst Sarvos chose not to embrace its potential as the [[The_DOOM_that_came_to_Sarvos#The_City_of_Spices|City of Spices]], the city is still famous for the bewildering array of food and drink on offer.
+
+==Responsibilities==
+The Chef of Sergio's has a responsibility for ensuring the Prosperity of the kitchenfolk of the city of Sarvos. In addition, if Sergio's Kitchen, its workers, or its patrons were to be threatened in any way, it would be the responsibility of the Chef of Sergio's to deal with those threats.
+
+==Powers==
+===Profitable Delicacies===
+The Chef of Sergio's has custodianship of a [[sinecure]]. Each season, they receive 216 rings in profits from the kitchen.
+
+==Appointment== 
+The Chef of Sergio's is a [[New_Imperial_titles#The_Imperial_Synod|national position]] appointed by unanimous decision of the senators of the League.
+
+The Chef of Sergio's has [[tenure]] and serves until they die or step down. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the League Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=FILE.png|caption='''NAME''',  Chef of Sergio's|align=left|width=400}}-->
+{{RecentElections|Chef_of_Sergio%27s}}
+==Sergio's Kitchen==
+Tucked away in [[Sarvos]] where Cigno gives way to the reconstructed Caricomare, Sergio's Kitchen offers a sanctuary of elegance. Secreted down a dangerous-looking cobbled back alley, a deliberate detour from the main thoroughfare at the edge of the City of Masks, the entrance itself is a study in understated intimidation - a heavy, unadorned door beneath a single, stark plaque declaring simply, "SERGIO'S."
+ 
+The secluded interior was once a hideout for the city's less reputable figures, and later a bustling, if somewhat rough-around-the-edges, warehouse receiving shipments from the Sarvos docks, but the space has since been wholly revitalised. The layout is now subtly partitioned into a series of private booths, where heavy drapes hang between them, absorbing sound and creating individual islands of intimacy. Soft light spills from ornate sconces, casting long, gentle shadows that dance along golden silverware and the prisms of heavy glassware.
+ 
+What began as a clandestine space for the owner to impress clients slowly bloomed into a poorly kept secret among wealthier citizens. It is not merely a meal served in Sergio's, but an experience: the freshest, most exquisite ingredients, transformed into a culinary delight infused with masterful technique and bold tradition. To secure a table at Sergio's is to gain access to a world of unforgettably exquisite taste.
+ 
+At the forefront of Sergio’s Kitchen is the Executive Chef. They are the orchestrators of the restaurant’s success, their duties stretching from the meticulous design of ever-evolving menus that showcase the finest that Sarvos has to offer, to the careful management of a dedicated staff, and maintaining the restaurant’s financial ledgers with the same precision they employ in seasoning a delicate pasta sauce.
+
+==Funding==
+Click ''Expand'' to see the list of contributions made to construct Sergio's Kitchen.
+<div class="mw-collapsible mw-collapsed">
+{{CommissionProgress|Construct_Sergio%27s_Kitchen}}
+</div>
+{{Responsibilities Expectation}}
+[[Category:Title]] 
+[[Category:The League]]

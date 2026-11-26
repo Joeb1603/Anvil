@@ -1,0 +1,117 @@
+*'''A starting character has 8 points to spend on skills'''
+
+<table>
+    <tr>
+        <td colspan="2" style="color: white; background-color: LightGray;">[[Combat skills|Combat Skills]]</td>
+        <td colspan="2" style="color: white; background-color: LightGray;">[[Magical skills|Magical Skills]]</td>
+        <td colspan="2" style="color: white; background-color: LightGray;">[[Surgical skills|Surgical Skills]]</td>
+    </tr>
+    <tr>
+        <td>[[Combat skills#Thrown|Thrown]]</td><td>1</td>
+        <td>[[Magical skills#Magician|Magician †]]</td><td>2</td>
+        <td>[[Surgical skills#Chirurgeon|Chirurgeon †]]</td><td>1</td>
+    </tr>
+    <tr>
+        <td>[[Combat skills#Ambidexterity|Ambidexterity]]</td><td>1</td>
+        <td>[[Magical skills#Extra Mana|Extra Mana]]</td><td>1*</td>
+        <td>[[Surgical skills#Physick|Physick]]</td><td>3</td>
+    </tr>
+    <tr>
+        <td>[[Combat skills#Weapon Master|Weapon Master]]</td><td>2</td>
+        <td>[[Magical skills#Extra Spell|Extra Spell]]</td><td>1**</td>
+        <td>[[Surgical skills#Apothecary|Apothecary]]</td><td>2</td>
+    </tr>
+    <tr>
+        <td>[[Combat skills#Marksman|Marksman]]</td><td>4</td>
+        <td>[[Magical skills#Battle Mage|Battle Mage]]</td><td>2</td>
+        <td>[[Surgical skills#Extra Recipe|Extra Recipe]]</td><td>1**</td>
+    </tr>
+    <tr>
+        <td>[[Combat skills#Shield|Shield]]</td><td>2</td>
+        <td>[[Magical skills#Realm Lore|Spring Lore]]</td><td>1*</td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td>[[Combat skills#Endurance|Endurance]]</td><td>2*</td>
+        <td>[[Magical skills#Realm Lore|Summer Lore]]</td><td>1*</td>
+        <td colspan="2" style="color: white; background-color: LightGray;">[[Religious skills|Religious Skills]]</td>
+    </tr>
+    <tr>
+        <td>[[Combat skills#Fortitude|Fortitude]]</td><td>1*</td>
+        <td>[[Magical skills#Realm Lore|Autumn Lore]]</td><td>1*</td>
+        <td>[[Dedication|Dedication †]]</td><td>2</td>
+    </tr>
+    <tr>
+        <td>[[Combat skills#Dreadnought|Dreadnought]]</td><td>1</td>
+        <td>[[Magical skills#Realm Lore|Winter Lore]]</td><td>1*</td>
+        <td>[[Anointing]]</td><td>1</td>
+    </tr>
+    <tr>
+        <td colspan="2"></td>
+        <td>[[Magical skills#Realm Lore|Day Lore]]</td><td>1*</td>
+        <td>[[Consecration]]</td><td>1</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="color: white; background-color: LightGray;">[[Heroic skills|Heroic skills]]</td>
+        <td>[[Magical skills#Realm Lore|Night Lore]]</td><td>1*</td>
+        <td>[[Excommunication]]</td><td>1</td>
+    </tr>
+    <tr>
+        <td>[[Heroic skills#Hero|Hero †]]</td><td>2</td>
+        <td>[[Magical skills#Extra Ritual|Extra Ritual]]</td><td>1**</td>
+        <td>[[Exorcism]]</td><td>1</td>
+    </tr>
+    <tr>
+        <td>[[Heroic skills#Extra Hero Points|Extra Hero Points]]</td><td>1*</td>
+        <td colspan="2"></td>
+        <td>[[Hallow]]</td><td>1</td>
+    </tr>
+    <tr>
+        <td>[[Heroic skills#Cleaving Strike|Cleaving Strike]]</td><td>1</td>
+        <td colspan="2" style="color: white; background-color: LightGray;">[[Crafting skills|Crafting Skills]]</td>
+        <td>[[Insight]]</td><td>1</td>
+    </tr>
+    <tr>
+        <td>[[Heroic skills#Mortal Blow|Mortal Blow ‡]]</td><td>1</td>
+        <td>[[Crafting skills#Artisan|Artisan †]]</td><td>4</td>
+        <td>[[Testimony]]</td><td>1</td>
+    </tr>
+    <tr>
+        <td>[[Heroic skills#Mighty Strikedown|Mighty Strikedown ‡]]</td><td>1</td>
+        <td>[[Crafting skills#Extra Item|Extra Item]]</td><td>1**</td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td>[[Heroic skills#Relentless|Relentless]]</td><td>2</td>
+        <td colspan="4"></td>
+    </tr>
+    <tr>
+        <td>[[Heroic skills#Unstoppable|Unstoppable]]</td><td>2</td>
+        <td colspan="4"></td>
+    </tr>
+    <tr>
+        <td>[[Heroic skills#Stay With Me|Stay With Me]]</td><td>1</td>
+        <td colspan="4"></td>
+    </tr>
+ <tr>
+        <td>[[Heroic skills#Get it Together|Get it Together]]</td><td>1</td>
+        <td colspan="4"></td>
+    </tr>
+</table>
+
+<nowiki>*</nowiki> You may buy this skill multiple times. The cost increases by 1 point each time.
+
+<nowiki>**</nowiki> You may buy this skill multiple times. The cost is the same each time.
+
+† This skill is a pre-requisite for all other skills in this section. You must buy this skill before buying any of the skills listed in the section below it.
+
+‡ Weapon master is a prerequisite for these two skills.
+
+You gain 1 additional xp (experience point)  every other event you attend in the same year.
+
+You do not have to spend all your xp, any unspent xp is saved. Characters who have not purchased any skills can use the [[apprentice Ability|apprentice ability]].
+
+{{Character Creation Links}}
+
+[[Category:Rules]]
+<!--fix-->

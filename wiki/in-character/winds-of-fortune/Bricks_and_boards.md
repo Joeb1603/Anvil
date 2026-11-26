@@ -1,0 +1,113 @@
+---
+title: Bricks and boards
+source: https://www.profounddecisions.co.uk/empire-wiki/Bricks_and_boards
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 388YE Spring
+- Challenge
+event: 388YE Spring
+last_edited: '2026-07-14T14:50:12Z'
+revision: 141769
+in_character_boxes: 1
+---
+
+# Bricks and boards
+
+> *In-character text:*
+>
+> The coals of the forge glowed bright, blood-red light spilling out of the open mouth to brighten the otherwise dark room. The illumination curled lazily around the smith as he worked tirelessly at the anvil, leaving him trapped in a web of shadows at its centre. Still, the near darkness couldn't slow him down despite its best efforts. The heavy hammer kept up its steady drum rhythm, climbing steadily to release, like a kingfisher hurtling towards the surface of the pond.
+>
+> In his other hand, the smith held the thin metal strip by the tang, fighting to keep it in place on the anvil, as the rise and fall of the hammer slowly carved a fine edge from the dull steel. Once the half-finished blade became too cold to work, the half-finished smith took a clumsy step towards the heat. He plunged the cooling steel into the tender embrace of the glowing coals, and held it there, heedless of the heat stealing its way up the sword to his bare hand.
+>
+> Outside, dawn was starting to break. The first rays of sun were pulling themselves over the horizon, hunting for darkness to illuminate on the ground below. The smith had been working all night, a not uncommon occurrence in these times. There would be time for feasting and revelry later. After the success of the Drottningbjotha, there was much work to do for Iron Duke to do before the next challenge could begin...
+
+*[Image: Barien exemplifies meeting, setting, and overcoming challenges.](https://www.profounddecisions.co.uk/empire-wiki/File:BarienArt.jpg)*
+
+## Overview
+
+Each season, the [heralds](../eternals/Inhabitants_of_the_realms.md#heralds) of the [Iron Duke](../eternals/Barien.md) come to Anvil to issue new [challenges to the mortals of the Empire](../../mixed/magic/rituals/Challenge_the_Iron_Duke.md). The *Lord of the Crossroads* is eternally eager to test the skills and the wits of those brave enough to step forward, aiming to challenge the Courageous heroes of the Empire.
+
+Every person who has [Challenge the Iron Duke](../../mixed/magic/rituals/Challenge_the_Iron_Duke.md) cast upon them will be *guaranteed* entry to a challenge. Depending on the challenge, they *may* be able to bring a certain number of attendants with them to assist. The exact number will depend on the nature of the challenge and the number of challengers. The [civil service](../../mixed/government/senate/Civil_service.md) will publish exact numbers in [the Hub](../world/Anvil.md#the-hub) on Saturday morning for all to see.
+
+Challengers will need to choose a reward from one of the [items found in the Dragonforge](../../mixed/magic/rituals/Challenge_the_Iron_Duke.md#rewards-and-the-dragonforge). Challengers who have been victorious in the past year may not take part in another challenge until a year has passed.
+
+## Challenging the Duke
+
+|  |  |
+| --- | --- |
+| **Last Season's Covens** | |
+| Phoenix Rising | Dawn |
+| The Cabal of Nevezamzer | Dawn |
+| The Coven of Golden Wings | Dawn |
+| Voices of the Unbound Storm | Wintermark |
+
+- **To formally enter, a challenger must be the recipient of the Challenge the Iron Duke ritual**
+- **A challenger can only enter a single challenge each summit; if they win, they may not enter again for a year**
+
+To formally enter one of the Iron Duke's contests, a citizen must be the target of the Summer ritual [Challenge the Iron Duke](../../mixed/magic/rituals/Challenge_the_Iron_Duke.md). The ritual is magnitude 30, and only a handful of [covens](../../out-of-character/rules/Bands.md#covens) have it mastered. It is possible to cast the ritual without mastery, but it is harder and more expensive, so anyone who is interested in entering a challenge would be best advised to seek out a coven known to be able to cast the ritual. According to the heralds of the *Traveller*, four covens successfully performed the ritual last season. The heralds advise those interested in taking part to seek out these covens first.
+
+Even for those covens who have the ritual mastered, it is expensive. Champions who seek to prove themselves will need to find some way to convince a coven to put them forward. Just being able to pay the ritual's cost might not be enough, though it is likely the minimum price that will be asked.
+
+### Challenge of the Boards
+
+- **Barien has arranged for a tourney of abstract strategy for the Spring summit**
+- **Competitors will play four fifteen-minute rounds of a variety of two-player competitive games decided by Barien's heralds**
+- **The matchups for the first round will be determined randomly - after this, the heralds of the Iron Duke will choose pairings with the aim to match up similar records in the tournament**
+- **Once paired up, competitors should choose the game they wish to play for the round**
+- **Competitors must choose to play a different game each round, if possible**
+- **At the end of the fourth round, competitors in the top half of records (rounding down) will be considered victorious in the challenge**
+- **At least one herald of the Summer realm will also be competing in the challenge**
+- **Paper copies of the rulesets will be available in the Hub**
+- **A herald will be at the hub between 10:00 and 11:00 on Saturday to go through the rules if anyone has questions**
+- **The tournament will take place at 16:00 at the House of the Wanderer camp in Urizen, on the Saturday of the summit**
+
+*[Image: Click for Boardgame rules](https://www.profounddecisions.co.uk/empire-wiki/File:Challenge_of_the_Boards_Game_Rules.pdf)*
+
+The travelling brocade pavilions of the Iron Duke and his heralds are the site of many a grand tourney across the Summer realm. At whichever crossroad they stake their tents, be it the Fields of Glory, the Forest of Arden, the foothills of the mountains or elsewhere, it is almost inevitable that some colourful battle between heralds will break out, to the amusement of all involved. While the duels of the tourney ring are most common, Barien and his heralds enjoy all sorts of challenges and competition, whatever shape or size they come.
+
+While the grand tourney of the Drottningbjotha was a great success, Barien has decreed a more cerebral battle for his next challenge. And so, he and his heralds invite those of the Empire who consider themselves skilled at games, strategy and quick thinking to take part in a tourney of the mind. Competitors will be pitted against each other in games of abstract strategy gathered by heralds of the Iron Duke. There will be four rounds, each fifteen minutes long, with competitors ranked on their wins, draws and losses. Those in the top half of the table will be considered victorious in the challenge; those in the bottom half earn a consolation prize only. At least one herald of the Summer realm will also be competing in the challenge.
+
+The first pairings will be done at random; for the second, third and fourth rounds, the heralds of Barien present will aim to pair up competitors with similar records. As time is limited, the Master of Challenges asks all players to strive to win, rather than play for a draw. The tourney is for competitors to show off their talent at a breadth of games, not just mastery of one, and so challengers must play a different game each round if possible.
+
+The list of games and their rules is available here, and paper copies will be available at the hub from 10:00 on the second day of the summit. One of the Iron Duke's heralds will make an appearance at the regio, between 10:00 and 11:00, in case there are questions before the tournament begins, but competitors don't need to attend if they feel comfortable with the rules. The heralds do note that there will not be time to explain rules in the tournament itself!
+
+For those taking up this challenge, or any who would like to watch and applaud the competitors, it will take place at the camp of the House of the Wanderer, in Urizen, at 16:00 on the Saturday, after prior arrangement by Revel.
+
+### Challenge of the Oaken Bricks
+
+- **Barien invites willing citizens of the Empire to participate in a competitive game of skill and dexterity called Kubb**
+- **There will be a team of Thule and Jotun kubb players, who are playing as part of their own challenge**
+- **Imperial challengers will be divided into teams by the heralds of Barien so that no more than four players are opposing the foreign team at once**
+- **Each team of challengers will win or lose the challenge as a team**
+- **Challengers will get a chance for some practice throws before the challenge begins**
+- **The challenge will take place in the arena at 14:00 on the Saturday of the summit**
+
+*[Image: Click for Kubb rules](https://www.profounddecisions.co.uk/empire-wiki/File:Kubb_English.pdf)*
+
+The Iron Duke takes a great interest in all the corners of the mortal realm, looking for new games and contests to learn to employ at new challengers halfway across the world. Recently, the heralds have encountered one such new game in the lands of the Empire's neighbours. Called [kubb](https://en.wikipedia.org/wiki/Kubb), it is played by members of both the Jotun and Thule in their winter homelands.
+
+The game is a team game of dexterity, skill and strategy. Two teams must throw wooden batons at wooden blocks of the other team several meters away, on a marked-out pitch - in this case, in the sands of the arena at Anvil. When a team's blocks are knocked over, they must be thrown back into the field of play, and then knocked over with the batons before the other team's blocks can be knocked over again. Once all of the opponents' blocks are gone, teams can knock over the central "king" block. The first team to do this is the winner, but there is a twist - if a team accidentally knocks over the king block before knocking over all of their opponents' blocks, they immediately lose.
+
+Barien's heralds are staging games of Kubb as the challenge for the next summit. Challengers who wish to compete will be arranged into teams of no more than four - if more than four challengers present themselves, then several games will be played. Their opponents will be challengers of the Iron Duke themselves, but not of the Empire. An assembled team from Otkodov, Kalsea, and Narkyst will be making their way to Anvil to challenge, under the escort of Barien's heralds, in the case of the Jotun. Each game will be a winner-takes-all situation; the Imperial challengers will be considered victorious if they win, the foreign challenger victorious if they win.
+
+For those who wish to take part or spectate, the game will take place at the Anvil Arena at 14:00 on the Saturday of the summit. All competitors will get a chance to do some practice throws before the games proper start.
+
+## Further Reading
+
+- [Barien](../eternals/Barien.md)
+- [Challenge the Iron Duke](../../mixed/magic/rituals/Challenge_the_Iron_Duke.md)
+
+- Bricks and boards - Spring 388YE wind of fortune detailing the challenges for the summit
+- [Locked runes](Locked_runes.md) - Winter 387YE wind of fortune detailing the lone challenge for the summit
+- [An iron feast](An_iron_feast.md) - Autumn 387YE wind of fortune detailing the challenges for the summit
+- [Build it up](Build_it_up.md) - Summer 387YE wind of fortune detailing the challenges for the summit
+- [Doing it](Doing_it.md) - Spring 387YE wind of fortune detailing the challenges for the summit
+- [The long road](The_long_road.md) - Winter 386YE wind of fortune introducing the new Challenge the Iron Duke
+
+- [Game Design](../../mixed/magic/rituals/Challenge_the_Iron_Duke.md#game-design) - a few notes discussing the new version of Challenge the Iron Duke
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [388YE Spring](../../indexes/by-category/388YE_Spring.md), [Challenge](../../indexes/by-category/Challenge.md)

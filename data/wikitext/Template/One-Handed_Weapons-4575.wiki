@@ -1,0 +1,4 @@
+* '''Form:''' Weapon. Takes the form of a [[Weapons & armour#One-handed Weapons|one-handed weapon]]. You must be wielding this weapon to use its magical properties.
+* '''Requirement:''' Any character can bond to this item.
+[[Category:Magic Items]]
+[[Category:One-handed Weapons]]

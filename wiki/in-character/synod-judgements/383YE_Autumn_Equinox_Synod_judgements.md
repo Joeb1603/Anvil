@@ -1,0 +1,1088 @@
+---
+title: 383YE Autumn Equinox Synod judgements
+source: https://www.profounddecisions.co.uk/empire-wiki/383YE_Autumn_Equinox_Synod_judgements
+class: in-character
+topic: synod-judgements
+categories:
+- Synod
+- Synod Results
+- Synod Judgements
+- 383YE Autumn
+event: 383YE Autumn
+last_edited: '2026-04-11T15:28:27Z'
+revision: 136757
+---
+
+# 383YE Autumn Equinox Synod judgements
+
+*[Image: The sword scholars judge each mandate in turn.](https://www.profounddecisions.co.uk/empire-wiki/File:Autumn_Synod_383YE.jpg)*
+
+## Overview
+
+During the Autumn Equinox 383YE Summit, the [Synod](../../mixed/government/synod/Synod.md) raised 140 [judgements](../../mixed/government/synod/Judgement.md).
+
+## Change of doctrine
+
+No [change of doctrine](../../mixed/government/synod/Change_of_doctrine.md) was proposed during the Autumn Equinox summit.
+
+## Veto
+
+The [veto](../../mixed/government/synod/Veto.md) was not sought during the Autumn Equinox 383YE.
+
+## Statement of principle
+
+The following [statements of principle](../../mixed/government/synod/Statement_of_principle.md) were presented to the assemblies of the Imperial Synod. Those statements which achieved a [Greater Majority](../../mixed/government/synod/Judgement.md#greater-majority) will be distributed to appropriate assemblies.
+
+### Judgement 4
+
+- **Assembly:** General
+- **Raised By:** Rafael Barossa di Tassato
+- **Judgement:** The Virtuous apply what they have learned: the Sword Scholars undermine this with their ruthless and indiscriminate opposition to the expressed will of the Synod. Their founder, Sulemaine i Taziel, taught them to browbeat, silence, and murder any who raised a dissenting voice. They would rather strike down a soul seeking the right question than face an unwelcome truth. We should stand against such narrow minded and dogmatic behaviour. Those of scholarly inclination should look to the Exemplars Kala Windward and Avigliana di Sarvos, not to Sulemaine i Taziel. Above all, we should not let the will of the Synod be stymied by followers of a lawless sect whose philosophy promotes silence, shame, and inaction.
+- **Outcome:** Upheld with a Greater Majority (1535 - 321)
+
+### Judgement 9
+
+- **Assembly:** Dawn National
+- **Raised By:** Chauntecleer Words
+- **Judgement:** The telling of tales within Dawn is one of our cherished traditions for instruction of the virtues. Dawn thanks all those who took part in the Summer contest of words for continuing this; in particular Claude Cutter, Roland Singer, and Tristaine Tiller for their joint entry that won the contest by the acclaim of our children.
+- **Outcome:** Upheld with a Greater Majority (206 - 0)
+
+### Judgement 11
+
+- **Assembly:** League National
+- **Raised By:** Aureliana di Sarvos
+- **Judgement:** We are one Empire and should act as such, particularly in light of the provenance of the curse on Holberg. The Memorial Orchard is a symbol of the Loyalty of the Marchers and should be recognised and celebrated as such.
+- **Outcome:** Upheld with a Greater Majority (255 - 0)
+
+### Judgement 18
+
+- **Assembly:** General
+- **Raised By:** Erasmo di Tassato
+- **Judgement:** We know from a past life vision that Unveiling is a practice of Hatred, known as Purity. With love, we seek out the poison in our neighbour's fields. We call on Highguard not to be complacent, to root out this blasphemous remnant of the past from their culture, and eradicate the seed of corruption growing in their nation.
+- **Outcome:** Upheld (1407 - 351)
+
+### Judgement 19
+
+- **Assembly:** Highguard National
+- **Raised By:** Sister Tabitha of the Shattered Tower
+- **Judgement:** The General Assembly has agreed that human souls may be reincarnated into trees. Being unable to move, trees are unable to perform virtuous deeds, leaving these souls trapped in a state of inaction that is through its passive nature unvirtuous and preventing their progression through the Labyrinth. It is an affront to the teachings of the Way and an impediment to human destiny to leave these souls trapped, and action should be taken to free them.
+- **Outcome:** Upheld (207 - 186)
+
+### Judgement 20
+
+- **Assembly:** Highguard National
+- **Raised By:** Elkiah
+- **Judgement:** As so eloquently put by Tabitha in Summer 383, it is time for the Highborn nation to show our Prosperity to the world. We call on the Highborn people to consider how best to re-purpose the structure of Britta's Tomb into a memorial of the virtuous dead, those who gave their lives for our destiny, but could not be brought home and properly buried. Many brothers and sisters have been lost abroad, beyond proper burial rites, and a structure would exalt the virtue of memorialised and pilgrim both. This is a better memorial to Britta's memory than a forgotten, disused tomb.
+- **Outcome:** Upheld with a Greater Majority (546 - 12)
+
+### Judgement 21
+
+- **Assembly:** Brass Coast National
+- **Raised By:** Comus i Zemress
+- **Judgement:** The Freeborn assembly invites the people of Urizen and their sword scholars to consider our shared tradition of questioning the Way. To this goal we invite the Urizen to celebrate the Broken Wheel with us this summit, and to hold it in their hearts for the following year. Through vigilant questioning, the Way remains true.
+- **Outcome:** Upheld with a Greater Majority (214 - 0)
+
+### Judgement 22
+
+- **Assembly:** Brass Coast National
+- **Raised By:** Finna i Fijadoz i Guerra
+- **Judgement:** When the Grendel tried to raise the restless spirits of the Isle of Osseini, they were thwarted by Justicars. With the loss of Feroz, many of these priests have been killed or enslaved, and their unique knowledge and expertise in exorcism is in danger of being lost. We call upon the Freeborn to support the remaining Justicars to gather to rebuild and expand them into a force dedicated to laying the unquiet dead to rest.
+- **Outcome:** Upheld with a Greater Majority (282 - 0)
+
+### Judgement 25
+
+- **Assembly:** Urizen National
+- **Raised By:** Octavia
+- **Judgement:** In these times of hardship, we must look to our future prosperity. We call upon the ambitious architects of Urizen to submit proposals for the improvement of the city of Cargo, that we might cement its place as a jewel of the Empire and a hub of international diplomacy and commerce.
+- **Outcome:** Upheld with a Greater Majority (157 - 0); Primacy
+
+### Judgement 26
+
+- **Assembly:** Urizen National
+- **Raised By:** Hastatus of Risen Sun
+- **Judgement:** The Highguard national assembly has invited priests from across the Empire to share how the Way is followed in other nations. We call upon the rational and virtuous scholars of Urizen to accept this invitation. Let us demonstrate to the world that only through free debate and rational enquiry can we truly perfect our understanding of virtue.
+- **Outcome:** Upheld with a Greater Majority (132 - 0); Primacy
+
+### Judgement 27
+
+- **Assembly:** Urizen National
+- **Raised By:** Livia of the Spire of the Celestial Cascade
+- **Judgement:** The assembly commends Galene Netherwatch for her excellent work as convener of the national assembly. We do not intend to create the position as an Imperial title, as this would be incompatible with her existing duties but do not want her Virtue to go unrecognised.
+- **Outcome:** Upheld with a Greater Majority (126 - 0); Primacy
+
+### Judgement 28
+
+- **Assembly:** Wintermark National
+- **Raised By:** Saavi Araasdottir
+- **Judgement:** Heroism and stories of heroism are a key part of Wintermark culture. We, the Wintermark Assembly, encourage our scops and scholars to meet and share stories in our oral tradition. A hero has a name and their stories should not be forgotten.
+- **Outcome:** Upheld with a Greater Majority (307 - 0)
+
+### Judgement 34
+
+- **Assembly:** Pride Virtue
+- **Raised By:** Mael Donjeon of House Remys
+- **Judgement:** *And though the foe may beat you down / And crush with fist a-clenched / Beneath the stars, that heavenly net / May your light shine unquenched.* We laud the armies of the League and Highguard for their unyielding loyalty, but our Pride swells greater that Urizen itself chose to be part of this Empire. They have borne the tearing apart of their elegant spires and ancient libraries by barbarian paws with grace and poise, never ceasing to stand resolute against a tide of terror. Names like Tanwyn Ankarien, Achilles of Damakan's Forge, and Nicassia of Phoenix Reach should be sung down the generations.
+- **Outcome:** Upheld with a Greater Majority (294 - 0); Closed early
+
+### Judgement 35
+
+- **Assembly:** Highguard National
+- **Raised By:** Brother Vashti of the Shattered Tower
+- **Judgement:** We recognise the importance of the Sign of Tamar in Reikos and the need to preserve and research it. We call upon any citizens who can aid with this to do so.
+- **Outcome:** Upheld with a Greater Majority (573 - 42)
+
+### Judgement 36
+
+- **Assembly:** Navarr National
+- **Raised By:** Harwyn Hollowatcher
+- **Judgement:** Actions have consequences; those who made allies of the Druj must face the repercussions for their actions. We urge those responsible for securing this alliance to deliver themselves for judgement by the Synod, and we ask the Conclave to condemn the alliance between the eternal Arhallogen and the orcs of the Mallum. They have made themselves known to the Navarr assembly and welcome inquisition.
+- **Outcome:** Upheld with a Greater Majority (183 - 0)
+
+### Judgement 46
+
+- **Assembly:** Wintermark National
+- **Raised By:** Vauraus Korppitkotka
+- **Judgement:** A strong Wintermark goes hand in hand with a strong Empire. For Loyalty, for Prosperity, the citizens of Wintermark should make use of all of the goods we have available. We call upon the citizens of Wintermark to build a trading hall in Valashal, Hahnmark and then for all Wintermark citizens, and traders from across the Empire, to bring their white granite and ilium for trade so that Wintermark and the Empire can prosper.
+- **Outcome:** Upheld with a Greater Majority (330 - 0)
+
+### Judgement 47
+
+- **Assembly:** Wintermark National
+- **Raised By:** Rafe
+- **Judgement:** Very soon those that have been in bondage to the Thule will be coming home. We must be ready to welcome them back to Wintermark. We must be ready to feed and shelter them so they can find work and build new lives amongst the Winterfolk.
+- **Outcome:** Upheld with a Greater Majority (290 - 0)
+
+### Judgement 48
+
+- **Assembly:** Navarr National
+- **Raised By:** Raewyn Eternal
+- **Judgement:** We, the Navarr National Assembly, denounce any who seek to work to the interests of the eternal Yaw'nagrah. Their words and actions have been to spread the wicked soul-trapping vallorn, and to have any part in this is the religious crimes of idolatry and heresy. None may call themselves Navarr who assist in Yaw'nagrah's intent. Those who do are to be pursued and persecuted; they are to be rooted out and brought before the magistrates.
+- **Outcome:** Upheld with a Greater Majority (160 - 0)
+
+### Judgement 51
+
+- **Assembly:** Ambition Virtue
+- **Raised By:** Ranae de Rondell
+- **Judgement:** *Do you see the star? / It's the light of Ambition / And it shines for all.* The bracelet - Arete's Promise - was crafted by Nicassia of Urizen for Adelmar the Lion as a mark of his Ambition and so it stands. And as Ambition seeks to raise all about it, so shall its regalia. In order to facilitate this, we support the passing of Arete's Promise from one chosen holder to another to better share Ambition's flame. Each holder should then take the opportunity to use this honour to exalt and inspire other citizens, as Adelmar did with the creation of the Academy of Arms.
+- **Outcome:** Upheld with a Greater Majority (124 - 0)
+
+### Judgement 52
+
+- **Assembly:** General
+- **Raised By:** Josephine of Adina's Charge
+- **Judgement:** "Pride inspires others, it does not demean them." People all over the Empire judge and demean briars for what they are rather than what they do. This is a massive failing of Pride and we encourage everyone to challenge any who would demean or condemn Briars based on lineage alone. (There are solutions found and being worked on for historical issues. For more details see the extra sheet).
+- **Outcome:** Upheld with a Greater Majority (1555 - 222)
+
+### Judgement 56
+
+- **Assembly:** Navarr National
+- **Raised By:** Ranulf Farkas
+- **Judgement:** After a historical research request we the Navarr National Assembly as a matter of national Pride ask for citizens who have information regarding the Abraxus Stone known as "The Vate's Shelter". This was worn by a vate known as Roswen Doublestep and was lost during the reign of Brannan.
+- **Outcome:** Upheld with a Greater Majority (180 - 0)
+
+### Judgement 57
+
+- **Assembly:** Urizen National
+- **Raised By:** Clytemnestra of the House of the Wanderer
+- **Judgement:** The House of the Wanderer encourage all sword scholars to act within Imperial law in the prosecution of their virtuous challenges. With our increased responsibilities comes increased obligation to virtue.
+- **Outcome:** Upheld with a Greater Majority (168 - 0)
+
+### Judgement 58
+
+- **Assembly:** Brass Coast National
+- **Raised By:** Luca i Taziel i Riqueza
+- **Judgement:** Feroz is not lost. It is waiting.
+- **Outcome:** Upheld with a Greater Majority (204 - 16)
+
+### Judgement 63
+
+- **Assembly:** League National
+- **Raised By:** Irada von Temeschwar
+- **Judgement:** The Mellfort should be a place of pilgrimage for those who are burdened by sorrow and prevented from virtuous action by that sorrow. The aura there is neither virtuous nor unvirtuous but can aid those who need it by helping them put their sorrow aside.
+- **Outcome:** Upheld with a Greater Majority (202 - 22)
+
+### Judgement 64
+
+- **Assembly:** Imperial Orc National
+- **Raised By:** Chainbreaker Snark
+- **Judgement:** The Imperial orcs are soldiers with a greater cause. We urge them to look towards the same inspiration that Highguard have, and take their matters of warfare with utmost virtue. With Pride we wish to become a new Imperial crusading storm. It shall strike awe into the hearts of the unvirtuous.
+- **Outcome:** Upheld with a Greater Majority (53 - 27)
+
+### Judgement 65
+
+- **Assembly:** Urizen National
+- **Raised By:** Palladius
+- **Judgement:** The Druj are the greatest threat to Urizen, and should be driven from Zenith.
+- **Outcome:** Upheld with a Greater Majority (130 - 0)
+
+### Judgement 66
+
+- **Assembly:** Imperial Orc National
+- **Raised By:** Bloodcrow Udoo
+- **Judgement:** We, the Imperial Orcs, declare our ambition to claim the Barrens. With vigilance we know when to strike and as such we shall not abandon our allies within the Empire! Upon every battlefield, no matter the cause, and with every action we commit ourselves to in service to the Empire we do mark our intent, reaffirm our Loyalty, and fortify our Ambition to claim the Barrens.
+- **Outcome:** Upheld with a Greater Majority (100 - 0)
+
+### Judgement 68
+
+- **Assembly:** General
+- **Raised By:** Constanza i Kalamar i Guerra
+- **Judgement:** The greatest achievement of Empress Lisabetta is her bureaucratic reform of the Empire. The systems she put in place for greater communication between bodies of state and circulation of information have instituted a system of operation very much underpinned by the principles of Wisdom and Vigilance. Other notable projects worthy of Pride such as the fortification of the Empire, constitutional changes, and the Liberty Pact could not have occurred without the foundations she laid down. I hereby name her Lisabetta the Bureaucrat.
+- **Outcome:** Not Upheld; Withdrawn by Tribune at the request of the Priest (630 - 203)
+
+### Judgement 70
+
+- **Assembly:** Highguard National
+- **Raised By:** Ruth of the Cenotaph
+- **Judgement:** We are sad to hear of renowned architect Frederick di Sarvos' intention to renounce Imperial citizenship. We feel his loss keenly. The Highborn chapter of the Cenotaph and Empress's Guild the House of Seven Mirrors petition him to reconsider his decision. In her will, Empress Lisabetta desired for a beautiful and useful structure "such that lessons of the past may be remembered by those who are yet to come." As a pilgrim of Wisdom, the Twentieth Empress was much taken with Frederick di Sarvos' plans for the Garden of Atun. We ask him to apply his inspiration and vision to her memorial so that it may stand equal to the tombs of the other august individuals who have held the Imperial Throne. If Frederick di Sarvos wishes to speak to the Cenotaph and the House of Seven Mirrors in Anvil, he would be most welcome. His costs and (??) would be recompensed in accordance with the rarity of his great skills.
+- **Outcome:** Upheld (339 - 16)
+
+### Judgement 72
+
+- **Assembly:** Varushka National
+- **Raised By:** Belakov, Wolf of Echofell
+- **Judgement:** We the national assembly of Varushka call for all Varushkans look to their vigilance and wisdom in remembering the Ways of the Nation's Hearth, from wolves to wards. And that like the Mora, all are not as they seem. Look to the roads, wards, and hospitality of their own hearth, this message must be spread to all Varushkans in the new territory of Ossium.
+- **Outcome:** Upheld with a Greater Majority (154 - 0); Primacy
+
+### Judgement 73
+
+- **Assembly:** Varushka National
+- **Raised By:** Witold Petrous
+- **Judgement:** We the national assembly call for the Wagon Raiders of Varushka to come and protect Varushkans and foreigners in Ossium and hunt the Druj in the territory.
+- **Outcome:** Upheld with a Greater Majority (198 - 0); Primacy
+
+### Judgement 74
+
+- **Assembly:** Imperial Orc National
+- **Raised By:** Irontide Lok
+- **Judgement:** Imperial orcs, be vigilant. No evidence of reincarnation has ever been presented for our kind. Orcs have but one life. To think otherwise will invite apathy and the Howling Abyss. Stay vigilant in our ways. Guide those orcs new to our nation in our ways.
+- **Outcome:** Upheld with a Greater Majority (63 - 18)
+
+### Judgement 75
+
+- **Assembly:** Varushka National
+- **Raised By:** Anastasiya Volkov
+- **Judgement:** The virtuous build up their fellows, not tear them down. Varushka has a Preceptor who leads the national assembly. This is a gruelling and difficult task that Yevanshka does well and we the national assembly intend to provide her a new sinecure of their own as per the current opportunity. The role of Tender of the Hearth is not that person. Instead they train the next generation of priests in the use of liao ceremonies and how to use their power as members of the National, Virtues, and General assemblies.
+- **Outcome:** Upheld with a Greater Majority (196 - 0); Primacy
+
+### Judgement 76
+
+- **Assembly:** Wintermark National
+- **Raised By:** Edythe Dunne
+- **Judgement:** Wintermark is three people one nation. It is our ability to work together to build strength for all of Witnermark and the Empire. Look at our example for how we bring Wintermark together. Tyr Brenna, Lumi Warmthbringer, Bron of Hyrst Hall, have all worked for the good of Wintermark. We urge all Wintermarkers to work together so that Wintermarkers and the Empire can be more prosperous.
+- **Outcome:** Upheld with a Greater Majority (383 - 0)
+
+### Judgement 77
+
+- **Assembly:** Dawn National
+- **Raised By:** The Earl of Fools
+- **Judgement:** Dawn's Champions of Virtue, Love and Glory; Vigilance - Lord Corvyn de Coeurdefer; Prosperity - Lord Bors de Carsenere; Ambition - Knight-errant Tilly Thorn; Loyalty - Ser Armand Remys; Pride - Enchantress Vivienne d'Acier; Courage - Lord Thomas Aurelius; Wisdom - Knight-errant Claud Cutter; the Way - Kay Griffinsbane; Love - Ladies Catalina and Clarice Novarion; Glory - Enchantress Morien de Carsenere.
+- **Outcome:** Upheld with a Greater Majority (108 - 0)
+
+### Judgement 78
+
+- **Assembly:** Dawn National
+- **Raised By:** Iaqua
+- **Judgement:** In the interests of the Prosperity of Dawn, the Dawnish national assembly supports the construction of Applefel market in Weirwater with funds supplied by the Glory purse.
+- **Outcome:** Upheld (58 - 8)
+
+### Judgement 79
+
+- **Assembly:** Wintermark National
+- **Raised By:** Alfmund Fordwinsson
+- **Judgement:** The notion of honour is a Jotun one. It is not heroic, and it is not virtuous. Ambition teaches us that no price is too great to achieve our goals, and adhering to the Jotun idea of honour stands as an obstacle to the path of heroism. Reject honour and embrace our hearth magic.
+- **Outcome:** Upheld (178 - 50)
+
+### Judgement 81
+
+- **Assembly:** Ambition Virtue
+- **Raised By:** Arna von Lecke
+- **Judgement:** The Mellfort contains an aura from pre-Imperial times. I believe this aura is ambitious in nature. This subtle but virtuous aura allows those burdened with grief, loss, betrayed by the power to grieve and come to terms healthy and then strive for their goals that they were held back from. This place should be made a place of pilgrimage.
+- **Outcome:** Upheld (62 - 0)
+
+### Judgement 83
+
+- **Assembly:** Wintermark National
+- **Raised By:** Ursa
+- **Judgement:** The priests of Wintermark encourage ex-thralls of the Jotun to return to the nation and re-affirm their bond with Sulkavaris. We assure them that Wintermark has not forgotten them and that for those who feel that their skein has frayed, there will be a stormcrow waiting to guide them back to the way of Virtue and heroism.
+- **Outcome:** Upheld with a Greater Majority (201 - 0)
+
+### Judgement 84
+
+- **Assembly:** Highguard National
+- **Raised By:** Lilith of the Chantry
+- **Judgement:** When the empire's heroes pass through the Sentinel Gate they represent their nation, Empire, and the Way itself. We must show those humans enslaved by our enemies that the Empire offers them the possibility of a virtuous life, and make every effort to save them, body and soul.
+- **Outcome:** Upheld with a Greater Majority (486 - 0)
+
+### Judgement 85
+
+- **Assembly:** General
+- **Raised By:** Kerem of the Chantry
+- **Judgement:** To contribute virtuously to the reckoning between Highguard and the League, the Holberg Suite will be performed in various locations around the Empire. To balance the books is a virtuous act. This undertaking will be led by the Chantry of the Silver Skull.
+- **Outcome:** Upheld (1280 - 52)
+
+### Judgement 86
+
+- **Assembly:** Prosperity Virtue
+- **Raised By:** Gilah of the Chantry
+- **Judgement:** Prosperity seeks a fair reward for fair work. A requirement to work without fair pay and without the right to withdraw labour is akin to slavery. The prosperity assembly supports the Grand Militia Officers Union in seeking fair pay and the right to strike.
+- **Outcome:** Upheld with a Greater Majority (257 - 14)
+
+### Judgement 87
+
+- **Assembly:** Wintermark Assembly
+- **Raised By:** Elvar Vulfson
+- **Judgement:** That Thane Raknar Ravenstorm of Stormspire shall have their name added to the Book of Heroes for their pivotal role in warden of the raid of Ikka's Tears, calling upon the aid of the other nations and achieving great success against the Jotun and moving forward the war to regain Sermersuaq.
+- **Outcome:** Upheld with a Greater Majority (210 - 0); Closed early
+
+### Judgement 88
+
+- **Assembly:** Wintermark National
+- **Raised By:** Pahkina
+- **Judgement:** Asny of Stormspire, the head healer of the Mark, does great work supporting our warriors and keeping them alive, but there are not enough herbs to go with all of our warriors. We recognise this good work that she is doing and call on all of the Wintermark, but especially those who live in the lush green marshes of Kallavesa, to gather all the herbs they can, to harvest from the hidden herb groves, to be able to provide more herbs to the head healer so that they can save more lives.
+- **Outcome:** Upheld with a Greater Majority (223 - 0)
+
+### Judgement 89
+
+- **Assembly:** Dawn National
+- **Raised By:** Yvaine Vexille
+- **Judgement:** The Dawnish national assembly celebrates the victory of the knights of Dawn and encourages them to continue the virtuous fight against the vallorn.
+- **Outcome:** Upheld (68 - 0)
+
+### Judgement 90
+
+- **Assembly:** Varushka National
+- **Raised By:** Irina Vasillova Dukov
+- **Judgement:** We the Varushkan national assembly recognise the Ambition of Yevanshka, our preceptor, to transform the Varushkan national assembly into an example of unity and effectiveness and the courage to see it through to fruition. Yevanshka's vigilance saw that the national assembly was failing their congregations and used Wisdom to work decisively to stir the Loyalty of the national assembly to give focus to their duty. They encourage the Prosperity of their assembled priests to go out and share their skills and knowledge to take action to ensure that Varushkans follow the path of virtue. Yevanshka is the Pride of our assembly and the devotion to their duty has made the national assembly the pride of Varushka and an example to the Empire.
+- **Outcome:** Upheld with a Greater Majority (156 - 0)
+
+### Judgement 93
+
+- **Assembly:** Urizen National
+- **Raised By:** Menander Seaspire
+- **Judgement:** People of the Urizen, the Citadel Army is starving. At the current rate of decline we can only expect to lose more spires and territories, to this end, I urge you all to search your stores for supplies to provide the army with.
+- **Outcome:** Upheld with a Greater Majority (170 - 0)
+
+### Judgement 95
+
+- **Assembly:** Highguard National
+- **Raised By:** Tabris, Son of Armisael
+- **Judgement:** From their earliest days Highborn children are taught that those who bear the touch of the realms are to be considered lesser and that those who carry lineage are to pitied. The virtuous build up their fellows, they do not tear them down. The virtuous inspire others to greatness, the do not demean them. This mistreatment tends to self-hatred among many of our people. Challenge yourself to consider actions you may consider second nature, or whether they can prevent others from becoming truly virtuous.
+- **Outcome:** Upheld (260 - 31)
+
+### Judgement 96
+
+- **Assembly:** Dawn National
+- **Raised By:** Pelleas Montrose
+- **Judgement:** We embrace our history as those who left Asavea to forge our future and go on to adopt the Way. Let us exalt those houses who open their doors to Asavean followers of the Way who are inspired by our great deeds.
+- **Outcome:** Upheld with a Greater Majority (100 - 0)
+
+### Judgement 97
+
+- **Assembly:** Brass Coast National
+- **Raised By:** Soratio Seseet i del Torro i Riqueza
+- **Judgement:** The scholars of the Brass Coast should visit the newly built seminary of Zemress, and work to translate, transcribe, and organise the texts provided by the Sumaah republic.
+- **Outcome:** Upheld (156 - 0)
+
+### Judgement 98
+
+- **Assembly:** Vigilance Virtue
+- **Raised By:** Lochias
+- **Judgement:** Vigilance teaches us to guard against known threats as much as to seek them out. The spire of Oblivion's Edge was built to watch over the Black Plateau, but has fallen into ruin. The threat of the plateau has strengthened and so must our defence. We the Vigilance Assembly support efforts to rebuild the spire.
+- **Outcome:** Upheld (139 - 0)
+
+### Judgement 99
+
+- **Assembly:** Wintermark National
+- **Raised By:** Arhan of Ashenhall
+- **Judgement:** With Iron Osric in the military council and as general of the Greenshields, we held out against the greatest enemy force to have invaded the Empire since Britta's Death. With Iron Osric as field marshal, we scored the fastest major victory ever recorded - a decisive defeat of the Jotun in Atalaq. Wintermark stands resolutely with Osric, inspired to match this exemplary courage and Loyalty as we strive to reclaim Sermersuaq for the Empire.
+- **Outcome:** Upheld with a Greater Majority (256 - 0)
+
+### Judgement 101
+
+- **Assembly:** Imperial Orc National
+- **Raised By:** Skywise Tulva
+- **Judgement:** The Imperial Orc assembly accepts the invitation of Varushka. We encourage Imperial Orc preachers to seek out the orcs of Ossium to help in teaching them the way of Virtue.
+- **Outcome:** Upheld with a Greater Majority (54 - 0)
+
+### Judgement 102
+
+- **Assembly:** Navarr National
+- **Raised By:** Neala Blackhawk
+- **Judgement:** Eirwen Brackensong single-handedly cast Merciless Wrath of the Reaver over 140 times during the last 3 seasons. In defence of Brocéliande she personally set the equivalent 4,260 troops to fight the vallorn. The Navarr national assembly recognises her tireless efforts on behalf of the Empire which shows extreme Loyalty and Pride in her nation.
+- **Outcome:** Upheld (124 - 0)
+
+### Judgement 103
+
+- **Assembly:** Marches National
+- **Raised By:** Mel Bleak
+- **Judgement:** The magic of Spring is a strength to be yoked by Marchers, Landskeepers harness it in farming rituals - and Marcher briars use it every day of their lives. Ambition despises pettiness; prosperity despises waste. To leave briar strength unwanted is to give in to the false virtue of hatred which despises only for difference. The Marcher assembly calls for the nation to lift up our briar neighbours in Pride; to encourage greatness in their works. And to stop being dickheads to 'em.
+- **Outcome:** Upheld (92 - 0)
+
+### Judgement 104
+
+- **Assembly:** Wisdom Assembly
+- **Raised By:** Leah of the Shattered Tower
+- **Judgement:** Given that the Temple of the Black Bull is not under our control, and our building in Asavea is in disrepair, it would be in the interests of the Empire to not renew, and to destroy (in a controlled manner) both buildings given our commitment to building stronger relations with non-slaving nations.
+- **Outcome:** Upheld with a Greater Majority (266 - 10)
+
+### Judgement 106
+
+- **Assembly:** Highguard Assembly
+- **Raised By:** Lev Unbound
+- **Judgement:** Our territories were cursed this summit and last summit. This was done by the League as part of their reckoning for the tragedy in Sarvos and Holberg. Debts must be paid by our nation and we must endure this curse. Remember, we are an example to the rest of the Empire, in hardship we can shine brighter in virtue.
+- **Outcome:** Upheld (257 - 0)
+
+### Judgement 108
+
+- **Assembly:** Urizen Assembly
+- **Raised By:** Faber Aerarius
+- **Judgement:** The spires, temples and citadels of Urizen commend the soldiers of the Citadel Guard for their service and offer those disbanded from the army to join the House of the Wanderer, and any other temples, spires or citadels in lieu of their lost homes.
+- **Outcome:** Upheld with a Greater Majority (155 - 0)
+
+### Judgement 109
+
+- **Assembly:** Urizen National
+- **Raised By:** Cato Hypation
+- **Judgement:** The title "Paragon of Blades" is exactly that, a title. The Synod does not currently recognise Sulemaine i Taziel as a paragon of virtue. The Urizen assembly do not contest this.
+- **Outcome:** Upheld (124 - 0)
+
+### Judgement 110
+
+- **Assembly:** Urizen National
+- **Raised By:** Alcuin Shatterspire
+- **Judgement:** Both poise and arete are Aesh and Zorech combined - the power of unstoppable passion guided by the calm hand of reason. We in Urizen celebrate the arete of those whose skills and pursuits involve the evocation of passion.
+- **Outcome:** Upheld (109 - 76)
+
+### Judgement 111
+
+- **Assembly:** General
+- **Raised By:** Amris
+- **Judgement:** The Synod have repeatedly raised judgements condemning slavery and idolatry. Despite this, some citizens are still foolishly aiding and assisting those who promote these crimes. All nations should hunt these fools down and harshly chastise them in order to bring them back to virtue.
+- **Outcome:** Upheld (954 - 178)
+
+### Judgement 112
+
+- **Assembly:** Imperial Orc National
+- **Raised By:** Skywise Fal
+- **Judgement:** We the preachers of Skarsind welcome the former subjugated tribes of the Druj residing in Ossium to travel to Skarsind to begin new lives in the legions as Imperial citizens.
+- **Outcome:** Upheld with a Greater Majority (55 - 0)
+
+### Judgement 113
+
+- **Assembly:** Imperial Orc National
+- **Raised By:** Skywise Gralka
+- **Judgement:** Reavers long have you shown your worth in supplying our legions but now your preachers come to you with a plea, those orcs in Axos who have gained their freedom own little and are restricted greatly. Supply them where you can when you visit this foreign nation, show your prosperity, but if they wish to leave Axos show them the way to our Empire.
+- **Outcome:** Upheld with a Greater Majority (54 - 0)
+
+### Judgement 114
+
+- **Assembly:** Ambition Virtue
+- **Raised By:** Lady Eve Orzel
+- **Judgement:** We intend to sanctify with true liao the first Academy of Arms in order to remind all citizens that regardless of their situation they are capable of great things and should work realise their ambition as Adelmar did.
+- **Outcome:** Upheld (86 - 0)
+
+### Judgement 115
+
+- **Assembly:** Wisdom Virtue
+- **Raised By:** Illya Nikovitch Volkov
+- **Judgement:** All virtuous citizens of the Empire are encouraged to make pilgrimage to the shrine of Zoria at Zoria's Maze in Miekarova. There to share stories of Zoria so that all can benefit from Zoria's wisdom.
+- **Outcome:** Upheld (200 - 18)
+
+### Judgement 117
+
+- **Assembly:** Vigilance Virtue
+- **Raised By:** Severi Jarlmarison
+- **Judgement:** We, the Vigilance assembly, recognise that Volfe Stormchaser has completed their penance through heroism and sacrifice in battle against the vallorn.
+- **Outcome:** Not upheld (71 - 80)
+
+### Judgement 118
+
+- **Assembly:** General Assembly
+- **Raised By:** Friar Jack Reed
+- **Judgement:** Recent targeting against briars and lineaged folk has seen some citizens regard them as non-humans. Since lineaged folk are able to experience true liao visions and reincarnate this is false and spreading such teachings contradicts Doctrine, technically heresy and our congregations must be reminded of this.
+- **Outcome:** Upheld (1117 - 80)
+
+### Judgement 119
+
+- **Assembly:** General Assembly
+- **Raised By:** Kaspar Yakovitch von Holberg
+- **Judgement:** The greatest achievement of Empress Lisabetta was her ambitious reform and rebuilding of the mechanisms of state, ensuring that the decisions of the great councils were taken in wisdom. The systems she put in place for the greater communication between bodies of state and circulation of information laid the foundations for other notable projects such as the fortification of the Empire, constitutional changes, and the Liberty pact. It was her ability to inspire citizens of the Empire to act and create that raised the entire Empire up. I hereby name her Lisabetta the Patron.
+- **Outcome:** Withdrawn by request (517 - 106)
+
+### Judgement 121
+
+- **Assembly:** Prosperity Assembly
+- **Raised By:** Cesare Enzo di Trivento
+- **Judgement:** The children and orphans of Urizen require their chance to become Prosperous. The Little Mother spent her life teaching orphans the Way of Virtue. The Church of the Little Mother calls for a school to be built in the nation specifically to aid the orphans of the recent fighting in the region.
+- **Outcome:** Upheld with a Greater Majority (239 - 0)
+
+### Judgement 122
+
+- **Assembly:** General
+- **Raised By:** Lysimachus
+- **Judgement:** The virtue fund is for the virtue of the Empire, as such every donation helps, even a single ring, if any citizen can spare a ring, it would aid the fund.
+- **Outcome:** Upheld (734 - 115)
+
+### Judgement 126
+
+- **Assembly:** Assembly of Nine
+- **Raised By:** Onan of the Chantry
+- **Judgement:** The Nine call upon the people of the Empire to show their Prosperity by helping the Asavean refugees who have reached our shores. Open your hearts to those who have escaped from the cruelties of the Plenum, who would make them slaves and force them to bow down before false gods. Help them to learn of the Way so that they may go forward in virtue.
+- **Outcome:** Upheld with a Greater Majority (8 - 0); Primacy
+
+### Judgement 127
+
+- **Assembly:** Assembly of Nine
+- **Raised By:** Clarice Novarion
+- **Judgement:** Debate is necessary and laudable, but obstructing the Synod's capacity to act and guide our citizens on the Way is not. If the sword scholars truly wish to improve and influence the quality of Imperial thinking let them do so by participating in the business and processes of the Imperial Synod, not by obstructing its ability to act.
+- **Outcome:** Upheld with a Greater Majority (8 - 0); Primacy
+
+### Judgement 128
+
+- **Assembly:** Assembly of Nine
+- **Raised By:** Hywel Summer Crow
+- **Judgement:** The Synod has a responsibility to guide each individual to grow in greater virtue. It also has a responsibility to preserve and nurture the Empire as an enduring cradle of the Way that our individual future lives may be guided in virtue in their turn. Success requires both of them. If we neglect either one, we have failed in both.
+- **Outcome:** Upheld with a Greater Majority (8 - 0); Primacy
+
+### Judgement 129
+
+- **Assembly:** Assembly of Nine
+- **Raised By:** Astrid Rezia di Tassato
+- **Judgement:** The greatest achievement of Empress Lisabetta was the systems she put in place for the greater communication between bodies of state and circulation of information, which ensured the decisions of the Great Councils were taken in Wisdom. These laid the foundation for other notable projects such as the fortification of the Empire, and the Liberty Pact. it was her ability to inspire citizens of the Empire to act and create that raised the entire Empire up. I hereby name her Lisabetta the Patron.
+- **Outcome:** Upheld with a Greater Majority (8 - 0); Primacy
+
+### Judgement 130
+
+- **Assembly:** Assembly of the Nine
+- **Raised By:** Viviane de Coeurdefer
+- **Judgement:** Feroz is not lost. It is waiting. Spiral is not lost. The spires are eternal. Sermersuaq is not lost. The storm will survive. We support the ceasefire with the Grendel, and know we pay Ambition's price for this our Empire and all our Nations. We will come back.
+- **Outcome:** Upheld with a Greater Majority (8 - 0); Primacy
+
+### Judgement 131
+
+- **Assembly:** Brass Coast National
+- **Raised By:** Sagremar i Zayden
+- **Judgement:** Remember Kethry. It is a virtuous act when conquered to hold proudly to your traditions and faith. It is an act of virtue to face your foe and refuse to cede your identity or culture. Remember Kethry. The waves erode the strongest rock, and no force can stop the tides turning.
+- **Outcome:** Upheld with a Greater Majority (236 - 0)
+
+### Judgement 132
+
+- **Assembly:** Brass Coast National
+- **Raised By:** Rocia i Fijadoz i Guerra
+- **Judgement:** We have been presented with a terrible choice. However, the National Assembly acknowledge that ceding Feroz to the Grendel to buy two years of peace is the less terrible option. We recognise the Courage of the senators and generals in making the unpleasant choice. But! We commit to hold our senators and generals accountable to ensure that this time is spent Prosperously in preparation and not squandered in order that the day after the treaty expires we will have armies ready to march into Feroz and take back our home!
+- **Outcome:** Upheld with a Greater Majority (242 - 0); Primacy
+
+### Judgement 133
+
+- **Assembly:** Brass Coast National
+- **Raised By:** Efenia i Maristella i Riqueza
+- **Judgement:** If the treaty with the Grendel does not pass Senate, we call upon the rallied corsairs to attack the shipyard at Drake Island and destroy their ships and docks. If however the treaty with the Grendel does pass in Senate, we urge the corsairs to focus their efforts on aiding the evacuation of the citizens of Feroz during the agreed season of evacuation as stated in the treaty.
+- **Outcome:** Upheld with a Greater Majority (246 - 0)
+
+### Judgement 134
+
+- **Assembly:** Brass Coast National
+- **Raised By:** Dayanara i Cabeza i Erigo
+- **Judgement:** The Brass Coast strive to be vigilant, eyes open to the best deal, the fairest wind and the low sitting hull of a ship full of cargo to raid. We call upon these virtuous Freeborn to use their vigilance to identify those who would seek to avoid paying Imperial Tariff - the price for slaving - and who would question our Pride in our ability to uphold Imperial law, by identifying and exposing dishonest smugglers for what they are. Life is short - never let it be dull.
+- **Outcome:** Uphold with a Greater Majority (256 - 0)
+
+### Judgement 135
+
+- **Assembly:** Navarr National
+- **Raised By:** Enis Splinterspear
+- **Judgement:** We of the Navarr assembly urge everyone to remain vigilant for any briar with new trappings and flowers and get them to seek medical aid urgently.
+- **Outcome:** Upheld with a Greater Majority (166 - 0); Primacy
+
+### Judgement 137
+
+- **Assembly:** Marches National
+- **Raised By:** Brother Hugh
+- **Judgement:** We urge Marchers to take up arms and take advantage of Will Talbot's Imperial Levy to defend Marcher lands. Only a fool cuts hay in a burning field.
+- **Outcome:** Upheld with a Greater Majority (142 - 0); Primacy
+
+### Judgement 138
+
+- **Assembly:** Marches National
+- **Raised By:** Friar John of the Mourn
+- **Judgement:** We, the Marcher National assembly, recognise the virtues shown by those Marchers who have put aside their farms and trades to take up arms in defence of Bregasland. We call upon those who remain on their lands to defend the Prosperity of the Marches. We ask that they spare their labour to help maintain the farms, the farms of their neighbours, who leave to fight for defence of our nation. In conclusion bear in mind what example has begun. What today you do you in kind has power for everyone.
+- **Outcome:** Upheld with Greater Majority (122-0); Primacy
+
+### Judgement 139
+
+- **Assembly:** Marches National
+- **Raised By:** Sister Elspeth
+- **Judgement:** Jotun are on Marcher land in the Bregas swamps, so we're gonna fuck them up. Jotun are scaredycats who don't like water and are afeared of boats and suchlike, so why were they in Bregasland anyhow? We can privateer just as well as any Freeborn. Marchers with boats raid the crap out of the Jotun. Make them fear the sea.
+- **Outcome:** Upheld with a Greater Majority (122 - 0)
+
+### Judgement 140
+
+- **Assembly:** Marches National
+- **Raised By:** Will Oswinson
+- **Judgement:** The warbands that raided the Singing Caves in the summer are still at large in the Marches, they may look like Feni by they are (??) monsters in service to dark forces. We ask workers to be vigilant to danger, reporting relating rumours, sightings, and strange goings on. If these (??) come for your village the (??) assailants can be stopped by removing the head or destroying the brain.
+- **Outcome:** Upheld with a Greater Majority (122 - 0); Primacy
+
+## Mandate
+
+The following [mandates](../../mixed/government/synod/Mandate.md) were passed during the Autumn Equinox. Where there are [competing mandates](../../mixed/government/synod/Mandate.md#competing-mandates), the one that passes with the largest margin is successful and all other competing mandates are considered to have failed.
+
+Some mandates were upheld by their respective assemblies but failed due to the [intervention](../winds-of-fortune/Mercy_is_weakness.md) of the Wisdom assembly and the [sword scholars](../nations/urizen/Sword_scholar.md). [Judgement 7](#judgement-7) (encourage Imperial citizens to find opportunities for cooperation with the [eternals](../eternals/Eternal.md)), [Judgement 17](#judgement-17) (encourage citizens to travel to [Zenith](../nations/urizen/Zenith.md) and offer aid there), and [Judgement 53](#judgement-53) (encourage Marcher pilgrims to make a pilgrimage to Holberg) were all ineffective as a consequence.
+
+### Judgement 3
+
+- **Assembly:** General Assembly
+- **Raised By:** Genoveva Barossa di Tassato
+- **Judgement:** The Imperatrix called on all her subjects to consider undertaking a pilgrimage - either physical, mental, or spiritual. We send Genoveva Barossa di Tassato with 50 liao to urge every citizen who is able to commit themselves to a pilgrimage of devotion and revelation found in the mandates endorsed by the Synod.
+- **Outcome:** Upheld with a Greater Majority (1624 - 310). ***Enacted***. It will be easier for the Synod to pass mandates following the Winter Solstice.
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/Crowned_in_rose_and_heather.md#the-journey-of-the-soul).
+
+### Judgement 7
+
+- **Assembly:** General Assembly
+- **Raised By:** Galene Netherwatch
+- **Judgement:** We must not subsume our will to inhuman forces, but nor should we fear to act where cooperation with an eternal can support a virtuous endeavour. We send Galene Netherwatch with 100 doses of liao to reassure the people of the Empire that working with an eternal to achieve virtuous end is not idolatry.
+- **Outcome:** Upheld (1367 - 151). ***Not Enacted***. This mandate would have encouraged citizens across the Empire to seek out opportunities to cooperate with eternals toward virtuous ends. As the mandate did not achieve a greater majority, however, the Wisdom assembly and the [sword scholars](../nations/urizen/Sword_scholar.md) [prevented it being enacted](../winds-of-fortune/Mercy_is_weakness.md).
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/Something_must_break.md#toward-virtuous-ends).
+
+### Judgement 10
+
+- **Assembly:** Navarr Assembly
+- **Raised By:** Corey Wayfarer
+- **Judgement:** The people of Brocéliande stand guard against the vallorn, but they should not sacrifice their future to do so. The curse can be removed, but it will require a great working of magic to do so. We send Corey Wayfarer with 50 liao to urge all the people of the nation to identify ways that we might raise the magical might we need.
+- **Outcome:** Upheld with a Greater Majority (190 - 0). ***Enacted***. This mandate encourages Navarr citizens to seek out ways to help remove [Wither the Seed](../../mixed/magic/rituals/Wither_the_Seed.md) from [Brocéliande](../nations/navarr/Brocéliande.md).
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/Desolation_of_Yoorn.md#withered-brocc3a9liande).
+
+### Judgement 12
+
+- **Assembly:** Prosperity Assembly
+- **Raised By:** Bartimaeus of the Shattered Tower
+- **Judgement:** The Prosperity assembly believes that it is vital that not only the Sand Fishers but all who deal with them respect the first tenet of Prosperity. We send Bartimaeus with 50 doses of liao to urge both foreign orc and Imperial citizen to set prosperous prices and trade fairly so that all may claim the just rewards of their labours
+- **Outcome:** Upheld with a Greater Majority (271 - 0). ***Enacted***. This mandate encourages not only the Sand Fishers but those Imperial citizens dealing with them to engage in "fair" trading practices.
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/The_blessing_way.md#a-dream-of-prosperity).
+
+### Judgement 13
+
+- **Assembly:** Highguard Assembly
+- **Raised By:** Lina of Felix's Watch
+- **Judgement:** We the Highborn National Assembly will not allow this stain to mar the beauty of Holberg, as such we send Lina of Felix's Watch with 25 doses of liao to convince business owners of Highguard to support the efforts to clean the waters of Holmauer
+- **Outcome:** Upheld with a Greater Majority (748 - 32). ***Enacted***. Every [business](../../out-of-character/rules/Business.md) in each territory of Highguard will see a penalty equivalent to one rank in the following season, but the fouled waters of Holberg will be purified.
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/In_the_garden_of_defiance.md#the-foul-waters-of-regret).
+
+### Judgement 15
+
+- **Assembly:** General Assembly
+- **Raised By:** Severin Teyhard von Holberg
+- **Judgement:** The Imperatrix called on all her subjects to consider undertaking a pilgrimage - either physical, mental, or spiritual. We send Severin von Holberg with 50 liao to urge every citizen who is able to devote themselves to a pilgrimage of investigation and study to discover what we can about the Howling Abyss.
+- **Outcome:** Upheld (981-676). Margin 305. **Not enacted**. This is a *pilgrimage of the mind*, in competition with [Judgement 82](#judgement-82), which received a greater margin. The mandate would have encouraged people to pursue insight into the Howling Abyss.
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/Crowned_in_rose_and_heather.md#the-journey-of-the-mind).
+
+### Judgement 16
+
+- **Assembly:** Highguard Assembly
+- **Raised By:** Hazelelponi of the Shattered Tower
+- **Judgement:** The vallorn of Brocéliande remains a threat, as do the vallorn that lay throughout the Empire. The Highborn National assembly applauds the Courage of our Pilgrims and calls upon all the faithful to redouble our efforts to destroy the greatest spiritual threat faced by the Empire. We send Hazelelponi of the Shattered Tower with 50 doses of liao to encourage the priests of Highguard to continue aiding in the fight against the vallorn.
+- **Outcome:** Upheld with a Greater Majority (752 - 0). **Enacted**. This mandate encourages Highborn congregations to continue supporting the efforts against the vallorn.
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/Fall_of_Brocéliande.md#the-blade-of-the-pilgrims).
+
+### Judgement 17
+
+- **Assembly:** General Assembly
+- **Raised By:** Cimeies of Felix's Watch
+- **Judgement:** The Imperatrix called on all her subjects to consider undertaking a pilgrimage - either physical, mental, or spiritual. We send Cimeies of Felix's Watch with 50 liao to urge every citizen who is able to devote themselves to a pilgrimage of travel and exploration following the trods to Zenith.
+- **Outcome:** Upheld (813 - 442). **Not enacted**. This mandate would have encouraged Imperial citizens to make pilgrimage to Zenith. As the mandate did not achieve a greater majority, however, the Wisdom assembly and the [sword scholars](../nations/urizen/Sword_scholar.md) [prevented it being enacted](../winds-of-fortune/Mercy_is_weakness.md).
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/Crowned_in_rose_and_heather.md#the-journey-of-the-body).
+
+### Judgement 24
+
+- **Assembly:** Urizen Assembly
+- **Raised By:** Maximillian
+- **Judgement:** We must not subsume our will to inhuman forces, but nor should we fear to act where cooperation with an eternal can support a virtuous endeavour. We send Maximillian with 50 doses of liao to reassure all the people of Urizen that working with an eternal to achieve a virtuous end is not idolatry.
+- **Outcome:** Upheld with a Greater Majority (122 - 20). Margin 371. **Enacted**. This mandate encourages citizens of Urizen to seek out opportunities for virtuous cooperation with eternals.
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/Something_must_break.md#toward-virtuous-ends).
+
+### Judgement 40
+
+- **Assembly:** Vigilance Assembly
+- **Raised By:** Aneira Exiles End
+- **Judgement:** Vigilance teaches us to seek out the poison in our neighbour’s fields, lest your own crops be blighted. We send Aneira Exiles End with 50 liao to urge every vigilant citizen to remain alert for signs of idolatrous worship of Yaw'nagrah, or reverence of the monstrous vallorn and bring their suspicions to the attention of their priests.
+- **Outcome:** Upheld with a Greater Majority (241- 0). **Enacted**. This mandate encourages virtuous citizens to actively seek out followers of Yaw'nagrah or those they suspect might have connections to the Heirs of Terunael.
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/Rise_of_Terunael.md#further-vigilance).
+
+### Judgement 41
+
+- **Assembly:** Highguard Assembly
+- **Raised By:** Able the Taller
+- **Judgement:** The empire is our manifest destiny. We send Able of the Shattered Tower with 75 doses of liao to urge every citizen serving in the Highborn armies to be filled with the zeal to virtuously drive the enemy before them
+- **Outcome:** Upheld with a Greater Majority (610- 14). Margin 596, in competition to [Judgement 43](#judgement-43). **Enacted**. This mandate gives the Highborn armies the [Crusading Storm](../winds-of-fortune/Three_soldiers.md#crusade) special order.
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/Three_soldiers.md#crusade).
+
+### Judgement 43
+
+- **Assembly:** Highguard Assembly
+- **Raised By:** Jada
+- **Judgement:** The Druj are motivated only by their own vile wickedness. We send Jada with 75 doses of liao to urge every citizen serving in the Highborn armies to be filled with the zeal to put these barbarians to the sword
+- **Outcome:** Upheld with a Greater Majority (391- 217). Margin 174, in competition to [Judgement 41](#judgement-41). **Not enacted**. This mandate would have given the Highborn armies the [Put them to the sword](../winds-of-fortune/Three_soldiers.md#punishment) special order.
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/Three_soldiers.md#punishment).
+
+### Judgement 53
+
+- **Assembly:** Marches Assembly
+- **Raised By:** Landon of Longridge
+- **Judgement:** The miraculous preservation of the Memorial Garden and the Apple Grove are a testament to the [virtue](../world/The_Way.md) of General Flowers. We send Landon with 25 doses of liao to encourage Marchers to undertake a pilgrimage to Holberg to view this wonder for themselves.
+- **Outcome:** Upheld (94 - 74). **Not enacted**. No liao provided. This mandate would have encouraged a Marcher pilgrimage to Holberg. As the mandate did not achieve a greater majority, however, the Wisdom assembly and the [sword scholars](../nations/urizen/Sword_scholar.md) [prevented it being enacted](../winds-of-fortune/Mercy_is_weakness.md).
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/In_the_garden_of_defiance.md#trees-and-flowers).
+
+### Judgement 61
+
+- **Assembly:** Highguard Assembly
+- **Raised By:** Yarona of the Chantry
+- **Judgement:** All laudable human qualities have their roots in the seven Virtues. We send Yarona of the Chantry with 50 doses of liao to show people that love and glory are to be celebrated for the ways in which they drive the faithful to greater acts of Virtue.
+- **Outcome:** Upheld with a Greater Majority (522 - 42). **Enacted**. This mandate immediately removes the penalty affecting Dawnish congregations; Grants one additional liao and two additional votes to Highborn and Dawnish congregations for the next two seasons; for the next year the priests of both nations may gain the chance to support, oppose, or otherwise react to statements and mandates of importance to the other nation.
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/Love_and_rockets.md#virtue).
+
+### Judgement 69
+
+- **Assembly:** League Assembly
+- **Raised By:** Ophelia Sanguineo Rezia di Tassato
+- **Judgement:** The people of Whittle are not evil, they are misguided. Their hatred of orcs is founded on decades of fighting the Jotun and not just their faith. Their embrace of hatred is no more problematic for civilised folk than the false idols of the Asaveans. As such the League assembly sends Ophelia Sanguineo Rezia di Tassato with 50 doses of liao to offer the Whittle folk sanctuary in Tassato, in the Little Mournwold district that they helped to found. While the people of Tassato accept orcs as citizens of the Empire, there are no orcs vying to become citizens of the League and so the Whittle folk may live peacefully in Tassato Mestra without compromising their beliefs - as long as they accept that preaching the false virtue of Hatred will not be tolerated.
+- **Outcome:** Not upheld (114 - 142). **Not Upheld**.
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/All_the_news_from_Twin_Town.md#little-mournwold).
+
+### Judgement 82
+
+- **Assembly:** General Assembly
+- **Raised By:** Veikko Bondforger
+- **Judgement:** The Imperatrix called on all her subjects to consider undertaking a pilgrimage - either physical, mental, or spiritual. We send Veikko Bondforger with 50 liao to urge every citizen who is able to commit themselves to a pilgrimage of dreaming, to reveal the truths found in their own soul and beyond.
+- **Outcome:** Upheld (719 - 342). Margin 377. **Not Enacted**. No liao provided. This is a *pilgrimage of the mind* was in competition with [Judgement 15](#judgement-15), but received a greater margin. It would have encouraged pilgrims to seek out inspiration in magical dreams. As the mandate did not achieve a greater majority, the Wisdom assembly and the [sword scholars](../nations/urizen/Sword_scholar.md) would have [prevented it being enacted](../winds-of-fortune/Mercy_is_weakness.md).
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/Crowned_in_rose_and_heather.md#the-journey-of-the-mind).
+
+### Judgement 100
+
+- **Assembly:** Urizen National
+- **Raised By:** Aurum of the Nightingale Temple
+- **Judgement:** The Paragon of Blades is the perfect epitome of the Urizeni spirit - pure calculating reason unhindered by emotion or pity. We send Aurum of the Nightingale Temple with 50 doses of liao to encourage every Urizeni to embrace her teachings. Let us bring strength against weakness and victory will be ours.
+- **Outcome:** Upheld with a Greater Majority (154 - 65). **Enacted**. This mandate further solidifies support for the sword scholars. It will create the opportunity for the Empire to fund the creation of more sword scholar temples across Morrow. In addition their implacable opposition to the influence of the Imperial Synod would make it harder for statements of principle passed by the Assembly of the Nine or the General Assembly to affect Urizen. It would not be impossible - but the impact of any statements would be attenuated.
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/Mercy_is_weakness.md#the-soul-is-a-blade).
+
+### Judgement 124
+
+- **Assembly:** Assembly of Nine
+- **Raised By:** Sariel
+- **Judgement:** In Wisdom the Synod judges liao trade with the Axos to be an acceptable activity that is neither virtuous nor unvirtuous. We send Sariel of the Shattered Tower with 25 liao to reassure the citizens of the Empire that selling or trading liao with the people of Axos is as virtuous and Prosperous as any other trade.
+- **Outcome:** Upheld with a Greater Majority (8 - 0). Primacy. **Enacted**. This mandate makes it clear it is acceptable to sell liao to the Axou.
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/A_mountain_of_vipers.md#the-liao-trade).
+
+### Judgement 125
+
+- **Assembly:** Assembly of Nine
+- **Raised By:** Ser Ancél Watcher
+- **Judgement:** The practice of Hatred in the Mournwold cannot be tolerated any longer. We send Sister Meredith Stellamaris with 25 doses of liao to lead the Silent Bell in tracking down those whose heart has turned to Hate with the aid of the Grey Pilgrims.
+- **Outcome:** Upheld with a Greater Majority (7 - 1). Primacy. **Enacted**. This mandate sends the Silent Bell to look into the Whittle situation and report their findings.
+- **Notes:** The opportunity is detailed [here](../winds-of-fortune/In_the_flat_field.md#vigilance-thwarts-malice).
+
+## Evaluation
+
+The Synod made the following judgements of [excommunication](../../out-of-character/rules/Excommunication.md), [inquisition](../../mixed/government/synod/Inquisition.md), [revocation](../../mixed/government/synod/Revocation.md), and [sanction](../../mixed/government/synod/Sanction.md).
+
+### Judgement 5
+
+- **Assembly:** General Assembly
+- **Raised By:** Galene Netherwatch
+- **Judgement:** **Inquisition**. I call Solas of the Waxing Sun to Inquisition at 2pm Saturday in the Hub regarding his use of Excommunication without a Writ.
+- **Outcome:** [Automatically upheld](../../mixed/titles/Imperial_Inquisitor.md#inquisitor).
+
+### Judgement 6
+
+- **Assembly:** General Assembly
+- **Raised By:** Galene Netherwatch
+- **Judgement:** **Sanction: Vindication**. I hereby vindicate Edmundo and Marcus of the Concordium of Pallas coven. Their actions surrounding the treaty with the Thule and the ritual text the Immaculate Architect were not unvirtuous. This entire situation has shown the dangers of miscommunication and misunderstanding between parties. I ask all involved to reflect on their clarity of words and to never accept hearsay as truth. See the Synod board for my full report.
+- **Outcome:** Upheld (1431 - 69)
+
+### Judgement 14
+
+- **Assembly:** General Assembly
+- **Raised By:** Aethelric the Grounded
+- **Judgement:** **Inquisition**. Liissa Sigeing has been accused of being a vitalist heretic. I therefore summon her to Inquisition so that the truth of the matter might be known. This will take place at the Autumn summit, Friday, at 10:30pm in the Artisan's Arms.
+- **Outcome:** Upheld (284 - 0)
+
+### Judgement 23
+
+- **Assembly:** Highguard National
+- **Raised By:** Sela of the Suns of Couros
+- **Judgement:** **Sanction: Penance**. Following the Inquisition of the banner of Zephaniah's Lament at the Summer Solstice 383YE, we declare a sanction of Penance to make amends for their actions. Although they acted out of Loyalty to their chapter, Zephaniah's Lament performed actions that damaged the hearth magic of the League in the name of Skathe. They did not act in Loyalty to the Empire and have sown the seeds of Vengeance. That is the opposite of what a Reckoning is about. They acted without Vigilance and Wisdom in not understanding what they were being tasked to do and the harm that it would cause. And without Pride, as they refused an alternative action, and instead chose to enact Skathe's tasks against the League. As Penance, each member of the banner of Zephaniah's Lament shall receive a testimony of "Skathe's Pawn". In addition, they must perform a task (within the bound of Imperial law) for each Guild from Holberg and Sarvos that attend Anvil as a form of Reckoning.
+- **Outcome:** Upheld with a Greater Majority (522 - 49); [Further scrutiny](../../mixed/titles/Cardinal.md#further-scrutiny) required by Veikko, Cardinal of Loyalty
+
+### Judgement 30
+
+- **Assembly:** General Assembly
+- **Raised By:** Maarit Suvidottir
+- **Judgement:** **Inquisition**. I call Martin Orchard to Inquisition 10:00 am, Saturday, the Hub. About last summit’s events on Friday with regard Medea Ruth.
+- **Outcome:** Upheld (1014 - 0)
+
+### Judgement 31
+
+- **Assembly:** General Assembly.
+- **Raised By:** Rafael Barossa di Tassato
+- **Judgement:** **Sanction: Penance**. The Auditor of Senatorial Accountability has Inquisited Nessetta Constanta. I find that it is most likely that Faraden ne'er-do-wells hallowed her ring to vengeance without her knowledge or consent. She was unaware of its presence or influence until the following day. I do not believe it led her too far astray and as such I charge her to seek restitution between Highguard and Sarvos as Penance.
+- **Outcome:** Upheld (773 - 0)
+
+### Judgement 38
+
+- **Assembly:** Highguard National
+- **Raised By:** Jared of the Suns of Couros
+- **Judgement:** **Inquisition**. An Inquisition of Sister Kerem of the Chantry of the Silver Skull in her role in establishing the Grey Pilgrims. To be held Sunday 1pm at the Highguard Chapel.
+- **Outcome:** Upheld with a Greater Majority (429 - 0)
+
+### Judgement 42
+
+- **Assembly:** Loyalty Virtue
+- **Raised By:** Tarquinius Ankarien
+- **Judgement:** **Sanction: Vindication**. Escalation. The non-Urizen Loyalty priests witnessing the Urizen Lore inquisition unanimously support escalating to vindication. The creation of Urizen lore does not violate any tenet of Loyalty, especially for those whose heart desires to serve the wider Empire. The Loyalty assembly supports the creation of this new body of lore and encourages citizens to nurture its growth.
+- **Outcome:** Upheld with a Greater Majority (254 - 0)
+
+### Judgement 50
+
+- **Assembly:** General Assembly
+- **Raised By:** Aethelric the Grounded
+- **Judgement:** **Sanction: Vindication**. Escalation. Following Inquisition, Liissa Sigeing is vindicated on the charge of being a vitalist heretic. She shows a clear understanding of the primacy of virtue over vitalism, and her personal pursuit of virtue is satisfactory. Moreover, her work is research focused and is not investigative theology. I am available for any related and relevant questions and queries.
+- **Outcome:** Upheld (433-0)
+
+### Judgement 59
+
+- **Assembly:** Highguard National
+- **Raised By:** Yarona of the Chantry
+- **Judgement:** **Sanction: Vindication**. Following a probing inquisition, Yarona of the Chantry finds that Azael of Highguard is to be vindicated regarding their actions as a Benefactor. We offer the Testimony "Indefatigable Philanthropist". Long may they inspire Prosperity in others.
+- **Outcome:** Upheld with a Greater Majority (385 - 0)
+
+### Judgement 60
+
+- **Assembly:** Highguard National
+- **Raised By:** Yarona of the Chantry
+- **Judgement:** **Sanction: Vindication**. Following a probing and enlightening Inquisition, Yarona of the Chantry finds that Ehud of Highguard is vindicated in his actions as a Benefactor. We offer the following testimony "Indefatigable Philanthropist" .
+- **Outcome:** Upheld (371 - 0)
+
+### Judgement 62
+
+- **Assembly:** Way Virtue
+- **Raised By:** Chaplain Atla
+- **Judgement:** **Revocation**. We revoke Bridget Talbot as newly appointed Conscience of the Senate as she is not here to take up the post and we do not wish the Senate to be without the virtuous guidance of a Conscience.
+- **Outcome:** Not Upheld by a Greater Majority (56 - 196); [Further scrutiny](../../mixed/titles/Cardinal.md#further-scrutiny) required by Hywel, Cardinal of the Way.
+
+### Judgement 67
+
+- **Assembly:** Pride Virtue
+- **Raised By:** Genoveva Barossa
+- **Judgement:** **Sanction: Penance**. Having conducted an Inquisition of the Withering Gaze coven regarding the appearance of a Vengeance aura in their tent, and a hallowing on an item in their possession, I find they took no deliberate action to create the auras, which were most likely created by priests from Faraden. However, they took no action to understand their vengeful impulses and have them removed, which is a lack of virtue. As such I assign them penance, to establish and maintain friendly relations with any Highborn they encounter.
+- **Outcome:** Upheld with a Greater Majority (321 - 0)
+
+### Judgement 71
+
+- **Assembly:** Brass Coast National
+- **Raised By:** Tiana i Zaydan i Riqueza
+- **Judgement:** **Inquisition**. We call Estaban i Del Rio Blanco i Guerra to Inquisition regarding his actions in relation to being ambassador to the Grendel. Tanith i Fizodoz i Guerra will be the inquisitor, on the virtue of Pride. 1pm Sunday the Hub.
+- **Outcome:** Upheld (152 - 0)
+
+### Judgement 80
+
+- **Assembly:** Prosperity Virtue
+- **Raised By:** Rhaego i Zemress
+- **Judgement:** **Inquisition**. I call Edd Souza to Inquisition to settle the matter of the Souza inheritance. Location: hub. Time: 1pm Sunday.
+- **Outcome:** Upheld (141 - 0)
+
+### Judgement 91
+
+- **Assembly:** Prosperity Virtue
+- **Raised By:** Cormack of Mustard
+- **Judgement:** **Inquisition**. I call Ramos i Nemen to inquisition to settle a matter of the Sousa inheritance. Location: hub. Time: 1pm Sunday.
+- **Outcome:** Upheld (19 - 0)
+
+### Judgement 92
+
+- **Assembly:** Pride Virtue
+- **Raised By:** Genoveva Barossa
+- **Judgement:** **Inquisition**. Dan Brackensong has requested to be inquisited regarding the virtue of his actions during his time as Quartermaster General. At 5:30pm, Saturday, in the Hub.
+- **Outcome:** Upheld with a Greater Majority (241 - 0); Closed Early
+
+### Judgement 94
+
+- **Assembly:** General Assembly
+- **Raised By:** Albert Fugglestone-Copperhill
+- **Judgement:** **Sanction: Penance**. Regarding the inquisition of Brat Umbral Path regarding his statement ("Due to their connection to the vallorn Navarr briars should not be given the freedom to interfere with the war against our great enemy. As such the nation should not vote for them to assume Imperial positions") I find that he did not act completely unvirtuously, as penance I ask him to travel to the camps of all nations and inform the people of his reasons.
+- **Outcome:** Upheld (785 - 126)
+
+### Judgement 116
+
+- **Assembly:** General Assembly
+- **Raised By:** Galene Netherwatch
+- **Judgement:** **Sanction: Vindication**. I vindicate Solas of the Waxing Sun for his use of Excommunication on Medea Ruth without a Writ. In this situation it was the correct and virtuous action.
+- **Outcome:** Upheld (546 - 299)
+
+### Judgement 120
+
+- **Assembly:** Marches National
+- **Raised By:** Nicholas Reaper
+- **Judgement:** **Inquisition**. Ciaphas "Black Jack" Dekar to discuss Arhallogen at Merricks, Winter Solstice, 2pm Saturday.
+- **Outcome:** Upheld (56 - 0)
+
+### Judgement 123
+
+- **Assembly:** General Assembly
+- **Raised By:** Rafael Barossa di Tassato
+- **Judgement:** **Inquisition**. The Auditor of Senatorial Accountability calls Skywise Fal, Imperial Consul, to Inquisition at 11:30pm on Friday of the Winter Solstice in relation to his ambitions for the Throne.
+- **Outcome:** [Automatically upheld](../../mixed/titles/Auditor_of_Senatorial_Accountability.md#inquisit-member-of-the-senate).
+
+## Recognition
+
+There were no judgements of [recognition](../../mixed/government/synod/Recognition.md) during the Autumn Equinox.
+
+## Appointment
+
+At the Summit, the following [appointments](../../mixed/government/synod/Appointment.md) were proposed by the Assemblies of the Synod. You can find the names of citizens who currently hold Imperial titles in the Synod [here](../../mixed/titles/Current_Imperial_titles.md).
+
+### Judgement 1
+
+- **Assembly:** Loyalty Virtue
+- **Raised by:** Tribune
+- **Judgement:** Appointment of the [Cardinal](../../mixed/titles/Cardinal.md).
+- **Outcome:** **Veikko Bondforger** was appointed with 129 votes. Sabella of the Silent Tide received 116 votes. Raewyn Eternal received 65 votes. Eurybia "Blue" Mecampus received 30 votes.
+
+### Judgement 2
+
+- **Assembly:** Pride Virtue
+- **Raised by:** Tribune
+- **Judgement:** Appointment of the [Cardinal](../../mixed/titles/Cardinal.md)
+- **Outcome:** **Astrid Fjellrevening Rezia di Tassato** was appointed with 192 votes. Rafael Barossa di Tassato received 145 votes.
+
+### Judgement 29
+
+- **Assembly:** Highguard National
+- **Raised by:** Tribune
+- **Judgement:** Appointment of the [Speaker of the Highborn Assembly](../../mixed/titles/Speaker_of_the_Highborn_Assembly.md).
+- **Outcome:** **Asher of the Shattered Tower** was appointed with 315 votes.
+
+### Judgement 32
+
+- **Assembly:** Vigilance Virtue
+- **Raised by:** Tribune
+- **Judgement:** Appointment of the [Virtue Inquisitor](../../mixed/titles/Virtue_inquisitor.md).
+- **Outcome:** **Vindictus** was appointed with 110 votes. Lochias of Oblivion's Edge received 18 votes.
+
+### Judgement 37
+
+- **Assembly:** Ambition Virtue
+- **Raised by:** Tribune
+- **Judgement:** Appointment of the [Virtue Inquisitor](../../mixed/titles/Virtue_inquisitor.md).
+- **Outcome:** **Severin von Holberg** withdrew. The judgement was withdrawn.
+
+### Judgement 44
+
+- **Assembly:** Wisdom Virtue
+- **Raised by:** Tribune
+- **Judgement:** Appointment of the [Virtue Inquisitor](../../mixed/titles/Virtue_inquisitor.md)
+- **Outcome:** **Palladius of Urizen** was appointed with 172 votes. Cimeies of Felix's Watch received 48 votes.
+
+### Judgement 45
+
+- **Assembly:** Loyalty Virtue
+- **Raised by:** Tribune
+- **Judgement:** Appointment of the [Quaymaster of the Black Sails](../../mixed/titles/Quaymaster_of_the_Black_Sails.md)
+- **Outcome:** **Able the Taller** was appointed with 189 votes.
+
+### Judgement 49
+
+- **Assembly:** Varushka National
+- **Raised by:** Tribune
+- **Judgement:** Appointment of the [Guardian of the Maze of Zoria](../../mixed/titles/Guardian_of_the_Maze_of_Zoria.md)
+- **Outcome:** **Illya Nikovitch Volkov** was appointed with 144 votes by a Greater Majority.
+
+### Judgement 54
+
+- **Assembly:** Courage Virtue
+- **Raised by:** Tribune
+- **Judgement:** Appointment of the [Champion of Courage](../../mixed/titles/Champion_of_Courage.md).
+- **Outcome:** **Alfred Sherading** was appointed with 62 votes. Thomir of the Cenotaph received 26 votes.
+
+### Judgement 55
+
+- **Assembly:** Ambition Virtue
+- **Raised by:** Tribune
+- **Judgement:** Appointment of the [Virtue Inquisitor](../../mixed/titles/Virtue_inquisitor.md)
+- **Outcome:** **Alfmund Fordwinsson** was appointed with 33 votes. Brat Umbral Path received 20 votes.
+
+## Rewarding
+
+The following judgements of [rewarding](../../mixed/government/synod/Rewarding.md) were proposed during the Autumn Equinox.
+
+### Judgement 8
+
+- **Assembly:** General Assembly
+- **Raised By:** Rane Sherarding
+- **Judgement:** A rewarding of 30 thrones to Rane Sherarding on behalf of the chapter of Zephaniah's Lament to go towards the 300 throne fine imposed for acts that brought solace and liberty to a thousand souls. Their acts have been proven to be virtuous and worthy of clemency and the assembly is asked to recognise this by contributing to the fine. If the full amount cannot be raised, the 30 Thrones will be returned to the virtue fund. Vote in wisdom, not in rumour.
+- **Outcome:** Not Upheld (573 - 577)
+
+### Judgement 33
+
+- **Assembly:** General Assembly
+- **Raised By:** Franco i Erigo
+- **Judgement:** The general assembly would disburse 10 Thrones to Franco i Erigo in pursuit of repairing the Temple of the Way in Nemoria.
+- **Outcome:** Upheld (653 - 380); 10 Thrones provided by the Tribune.
+
+### Judgement 39
+
+- **Assembly:** General Assembly
+- **Raised By:** Meredith Nighthaven
+- **Judgement:** In recognition of their actions in elevating Seren and increasing national Pride, we reward Pod and Ennis 2 thrones each (was upheld last season but the virtue fund was empty).
+- **Outcome:** Upheld (713 - 165); 4 Thrones provided by the Tribune.
+
+### Judgement 105
+
+- **Assembly:** General Assembly
+- **Raised By:** Solas
+- **Judgement:** As High Exorcist I withdraw 7 Thrones from the Virtue Fund pursuant to my duties. This is on the understanding that this reverts to a senate stipend as soon as is economically feasible.
+- **Outcome:** [Automatically upheld](../../mixed/titles/High_Exorcist.md#withdraw-funds). 7 Thrones provided by the Tribune.
+
+### Judgement 107
+
+- **Assembly:** General Assembly
+- **Raised By:** Livia of the Celestial Cascade
+- **Judgement:** Reward Livia Cascade with 5 Thrones for purchase of liao and other accoutrements.
+- **Outcome:** [Automatically Upheld](../../mixed/titles/Seer_of_the_Gateway.md#withdraw-funds); 5 Thrones provided by the Tribune.
+
+### Judgement 136
+
+- **Assembly:** General Assembly
+- **Raised By:** Aureliana di Sarvos
+- **Judgement:** The rewarding of 5 Thrones from the Virtue Fund for the Imperial Chaplain Consular to fund further assistance of the Sand Fishers.
+- **Outcome:** [Automatically Upheld](../../mixed/titles/Chaplain_Consular.md#withdraw-funds); 5 Thrones provided by the Tribune.
+
+## The Virtue Fund
+
+The following represents the Virtue Fund of the Synod:
+
+|  |  |  |
+| --- | --- | --- |
+| *Starting Value* | Nil |  |
+| *Income* | 1 Ring | Donation by Lysimachus. |
+| *Income* | 1 Crown | Donation by John of Meade. |
+| *Income* | 70 Thrones | The price paid in the Bourse Auction for the dose of True Liao. |
+| *Rewarding* | 7 Thrones | Rewarding to Solas of the Spire of the Waxing Sun following Judgement 105 being automatically upheld. |
+| *Rewarding* | 5 Thrones | Rewarding to Livia Cascade following Judgement 107 being automatically upheld. |
+| *Rewarding* | 10 Thrones | Rewarding to Franco i Erigo following Judgement 33 being upheld. |
+| *Rewarding* | 4 Thrones | Rewarding to Meredith Nighthaven following Judgement 39 being upheld. |
+| *Income* | 1 Crown | Donation by Tarquinius Ankarien. |
+| *Rewarding* | 5 Thrones | Rewarding to Aureliana Perpetua Nicasia Saverio di Sarvos following Judgement 136 being automatically upheld. |
+| *Closing Value* | 39 Thrones, 2 Crowns, 1 Ring |  |
+
+## Doses of True Liao
+
+Four doses of [True Liao](../../mixed/religion/Liao.md#true-liao) were disbursed this summit:
+
+- One dose to Nessetta Constanta by purchase in the [Public Auction](../../mixed/economy/Auction_of_the_Seats.md)
+- One dose to Viviane de Coeurdefer by decision of the [Gatekeepers](../../mixed/titles/Gatekeeper.md)
+- One dose to Tarquinius Ankarien by decision of the Gatekeepers
+- One dose to Asher Holt by decision of the Gatekeepers
+
+## Assembly Strength
+
+---
+
+Categories: [Synod](../../indexes/by-category/Synod.md), [Synod Results](../../indexes/by-category/Synod_Results.md), [Synod Judgements](../../indexes/by-category/Synod_Judgements.md), [383YE Autumn](../../indexes/by-category/383YE_Autumn.md)

@@ -1,0 +1,20 @@
+[[Category:Title]][[Category:Synod]]
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Ambition.png|caption=This title is appointed by the Ambition Assembly|width=250px}}</div>
+<!--{{CaptionedImage|file=VoiceAmbition.jpg|caption='''Ser Purslane Artorigus''', Voice of Ambition|align=left|width=450}}-->
+The Voice of Ambition is an [[Imperial title]] that was [[386YE_Spring_Equinox_Senate_sessions#Create_titles_of_Voices_of_Virtue|a vote]] of the [[Senate]] during the Spring Equinox 386YE. During the [[386YE_Winter_Solstice_Senate_sessions#Assign_Regalia_to_Voice_of_Ambition|Winter Solstice 386YE]], the title was amended by '''Jacob''', the [[Benefactor of Regalia]], to grant it regalia.
+__NOTOC__
+==Responsibilities==
+The Voice of Ambition is responsible for acting as an inspiration to the pilgrims of the faith and laity as to what it means to be virtuous.
+
+==Powers==
+===Regalia of the Voice===
+The Voice of Ambition has been bestowed the Cup of Adelmar as regalia. If the Voice of Ambition loses their position, then the item must be given to the new Voice with all haste. The Voice is encouraged to take all appropriate precautions to keep this item safe, and is expected to do everything within their power to recover it if it is lost.
+
+The civil service is unaware of what exactly the Cup of Adelmar is, though clearly it is a reference to [[Adelmar the Lion]], the exemplar of Ambition. There is no legal obligation for the owner of the Cup of Adelmar to provide it to the Voice of Ambition.
+
+==Appointment==
+The Voice of Ambition is chosen every Winter Solstice by a [[judgement]] of [[appointment]] by the [[Assembly#The Virtue Assemblies|Assembly of Ambition]].
+
+Any Imperial citizen may hold this title. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the Ambition Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Voice_of_Ambition}}

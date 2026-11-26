@@ -1,0 +1,71 @@
+==Timetable==
+This timetable and much more information can be seen on the notices that get pinned up all around the Hub after time-in. <br />
+For any queries regarding the IC timetabling at events you can talk to the civil service staff in the Hub.
+
+==Friday==
+<table>
+<tr><th style="width: 4%;">Friday</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Senate</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Military Council</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Conclave</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Bourse</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Synod</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Academy</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Elections</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Militia</th></tr>
+<tr><td>6pm</td><td></td><td></td><td></td><td></td><td rowspan="7" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Synod open for [[Judgement]]<br />In the Civil Service Hub</td><td rowspan="6" style="background-color: #85ae85; text-align: center; vertical-align: middle;">Parent's evening (including classes sign up)<br />In the Academy tent</td><td style="background-color: white; text-align: center; vertical-align: middle; border-top: 6pt solid #b48fb4;">Generals' [[General#Appointment | selection]] starts 6pm</td><td></td></tr>
+<tr><td>6.30pm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>7pm</td><td></td><td></td><td></td><td></td><td></td><td rowspan="2" style="background-color: #85ae85; text-align: center; vertical-align: middle;">Militia meeting<br />At the Magistrates Tent</td></tr>
+<tr><td>7.30pm</td><td style= "text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for Senate motions: 8pm</td><td></td><td style= "text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for Conclave addresses and declarations: 8pm</td><td></td><td></td></tr>
+<tr><td>8pm</td><td style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Trials of the Pallid Charm Meeting</td><td rowspan="4" style="background-color: #85ae85; text-align: center; vertical-align: middle;">[[Muster]]<br />In the Military Council tent</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>8.30pm</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>9pm</td><td></td><td rowspan="4" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">[[Conclave]]<br />In the Hall Of Worlds</td><td></td><td></td><td></td></tr>
+<tr><td>9.30pm</td><td></td><td></td><td style="text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for voting in Synod Judgements: 10pm</td><td></td><td></td><td></td></tr>
+<tr><td>10pm</td><td rowspan="2" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">[[Senate session]]<br />In the Senate</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>10.30pm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11pm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11.30pm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 midnight</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12.30am</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+<h2>Saturday</h2>
+<table>
+<tr><th style="width: 4%;">Saturday</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Senate</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Military Council</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Conclave</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Bourse</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Synod</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Academy</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Elections</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Militia</th></tr>
+<tr><td>10am</td><td></td><td></td><td></td><td></td><td rowspan="7" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Synod open for [[Judgement]]<br />In the Civil Service Hub</td><td></td><td></td><td></td></tr>
+<tr><td>10.30am</td><td></td><td></td><td></td><td style="color: #85ae85; background-color: white; text-align: center; vertical-align: middle; border-top: 6pt solid #85ae85;">[[Tally of the Votes|Voting for Bourse national positions]] starts: 10.30am</td><td></td><td></td><td></td></tr>
+<tr><td>11am</td><td></td><td rowspan="3" style="background-color: #85ae85; text-align: center; vertical-align: middle;">[[Battles | Battle]]<br />Off Anvil</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11.30am</td><td></td><td></td><td></td><td rowspan="2" style="background-color: #85ae85; text-align: center; vertical-align: middle;">Cadets Council<br />In the Military Council tent</td><td></td><td></td></tr>
+<tr><td>12 midday</td><td></td><td></td><td></td><td rowspan="6" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Senatorial elections<br />In the field of Anvil</td><td></td></tr>
+<tr><td>12.30pm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1pm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1.30pm</td><td style= "text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for Senate motions: 2pm</td><td></td><td></td><td></td><td style="text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for voting in Synod Judgements: 2pm</td><td></td><td></td></tr>
+<tr><td>2pm</td><td></td><td rowspan="2" style="background-color: #85ae85; text-align: center; vertical-align: middle;">[[Council session]]<br />In the Military Council tent</td><td></td><td style="background-color: #85ae85; text-align: center; vertical-align: middle;">[[Auction of the Seats|Auction for Imperial Bourse positions]]<br />in the Senate Building<td></td><td></td><td rowspan="2" style="background-color: #85ae85; text-align: center; vertical-align: middle;">Militia meeting<br />At the Magistrates Tent</td></tr>
+<tr><td>2.30pm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3pm</td><td></td><td></td><td></td><td></td><td rowspan="5" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Synod open for [[Judgement]]<br />In the Civil Service Hub</td><td></td><td></td><td></td></tr>
+<tr><td>3.30pm</td><td></td><td></td><td></td><td style="text-align: center; vertical-align: middle; border-bottom: 6pt solid #85ae85;">Deadline for voting for Bourse national positions: 4pm</td><td></td><td></td><td></td></tr>
+<tr><td>4pm</td><td rowspan="2" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">[[Senate session]]</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>4.30pm</td><td></td><td style= "text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for Conclave addresses and declarations: 6pm</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>5pm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>5.30pm</td><td rowspan="2" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">The reading of the will of Lorenzo of the Butchers' Bank</td><td></td><td></td><td><td style="text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for voting in Synod Judgements: 6pm</td><td></td><td></td><td></td></tr>
+<tr><td>6pm</td><td></td><td rowspan="2" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Grandmaster elections<br />In the Hall of Worlds</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>6.30pm</td><td style= "text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for Senate motions: 7pm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>7pm</td><td></td><td></td><td rowspan="4" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">[[Conclave]]<br />In the Hall Of Worlds</td><td></td><td rowspan="5" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Synod open for [[Judgement]]<br />In the Civil Service Hub</td><td></td><td></td><td rowspan="2" style="background-color: #85ae85; text-align: center; vertical-align: middle;">Militia meeting<br />At the Magistrates Tent</td></tr>
+<tr><td>7.30pm</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>8pm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>8.30pm</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>9pm</td><td rowspan="2" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">[[Senate session]]</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>9.30pm</td><td></td><td></td><td></td><td style="text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for voting in Synod Judgements: 10pm</td><td></td><td></td><td></td></tr>
+<tr><td>10pm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>10.30pm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11pm</td><td rowspan="4" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">[[Senate Motions]] dance</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11.30pm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 midnight</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12.30am</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<h2>Sunday</h2>
+<table>
+<tr><th style="width: 4%;">Sunday</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Senate</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Military Council</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Conclave</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Bourse</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Synod</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Academy</th><th style="background-color: #b48fb4; width: 12%; text-align: center; vertical-align: middle;">Elections</th><th style="background-color: #85ae85; width: 12%; text-align: center; vertical-align: middle;">Militia</th></tr>
+<tr><td>10am</td><td></td><td></td><td></td><td></td><td rowspan="7" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">Synod open for [[Judgement]]<br />In the Civil Service Hub</td><td></td><td></td><td></td></tr>
+<tr><td>10.30am</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11am</td><td></td><td rowspan="3" style="background-color: #85ae85; text-align: center; vertical-align: middle;">[[Battles | Battle]]<br />Off Anvil</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11.30am</td><td style= "text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for Senate motions: 12pm</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 midday</td><td></td><td></td><td></td><td style="background-color: #85ae85; text-align: center; vertical-align: middle;">Student Council<br />In the Senate</td><td></td><td></td></tr>
+<tr><td>12.30pm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1pm</td><td></td><td rowspan="4" style="background-color: #85ae85; text-align: center; vertical-align: middle;">[[Council session]]<br />In the Military Council tent</td><td></td><td></td><td rowspan="2" style="background-color: #85ae85; text-align: center; vertical-align: middle;">Graduation<br />In the Academy tent</td><td></td><td></td></tr>
+<tr><td>1.30pm</td><td></td><td></td><td></td><td style="text-align: center; vertical-align: middle; border-bottom: 6pt solid #b48fb4;">Deadline for voting in Synod Judgements: 2pm</td><td></td><td></td></tr>
+<tr><td>2pm</td><td rowspan="2" style="background-color: #b48fb4; text-align: center; vertical-align: middle;">[[Senate session]]<br />In the Senate</td><td></td><td></td><td></td><td></td><td></td><td rowspan="2" style="background-color: #85ae85; text-align: center; vertical-align: middle;">Militia meeting<br />At the Magistrates Tent</td></tr>
+<tr><td>2.30pm</td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>

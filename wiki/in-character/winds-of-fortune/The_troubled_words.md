@@ -1,0 +1,175 @@
+---
+title: The troubled words
+source: https://www.profounddecisions.co.uk/empire-wiki/The_troubled_words
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 385YE Spring
+- Recent History
+- Mandate
+event: 385YE Spring
+last_edited: '2026-03-19T15:35:56Z'
+revision: 135925
+in_character_boxes: 10
+---
+
+# The troubled words
+
+> *In-character text:*
+>
+> "What's it like being back at school?" Dieter dropped into the open chair next to Anna, slamming two tankards down on the table top just hard enough to slop ale over the side.
+>
+> She elbowed her fellow bravo in the ribs hard, as punishment for spilling her drink rather than the obvious scorn. "It's good thanks - you should try learning things. You might like it."
+>
+> "Ha ha. School of hard knocks me. Everything I know I learned on the streets."
+>
+> Anna spat a mouthful of warm ale all over the table, unable to contain the laughter. "Everything you know you learned from your father's fancy tutors. The only knock you ever had was the beating you got from Halstein when you mocked an old man over his meat pies."
+>
+> "You've wounded me, Anna... " he protested though he was grinning from ear to ear, clearly revelling in her attention. "I see your new instructor has sharpened your wits to a razor's edge. You've run me through and I fear I shall surely bleed my last."
+>
+> "Oh Dieter... if *only* that were true. Then I might get a friend who can buy their round without spilling half of it on the way back to the table. Balance - that's what the Urizeni say you need. Something like that anyway. It means being untouched by the people around you. You should try it."
+>
+> Dieter looked quiet for a moment, and she realised he was actually taking her seriously for once. "Seriously Dieter, you *should* come. The lessons are not dear, and these Urizeni fencing instructors they've got in really know their shit."
+>
+> Instead of the usual riposte, Dieter seemed to turn the suggestion over thinking about it. "I dunno Anna... don't they spend half the lesson talking about... Wisdom and all that bollocks?"
+>
+> "Yeah... They do... yeah. Wisdom. It's one of the seven Virtues, Dieter... You remember those? From your lessons... at the school of hard knocks?"
+>
+> "Right," said Dieter as if trying to convince himself. "That's not for me - I don't want some Urizeni telling me how to think."
+>
+> Anna rolled her eyes and groaned. Same old Dieter. "They don't tell you how to think. What they tell you is to think for yourself... You could try that Dieter. What have you got to lose?"
+>
+> "From thinking?!?" Dieter roared in mock outrage. "My reputation would be ruined if people found out I'd been thinking. How would I find time for fighting and drinking if I'd wasted hours of the day on thinking!"
+>
+> "Yeah, yeah... Very funny Dieter. Seriously - you *should* consider it. My swordsmanship has come on loads since I started there. I bet I can beat you now... And what they say - about thinking for yourself... it really makes sense. It's about not just doing what other people tell you all the time..."
+>
+> Anna smirked and her voice dropped, as she suddenly remember the one thing that might convince her old friend. "Plus, you'll never guess who turned up last week... Berengar... you remember him... he's the one you couldn't take your eyes off when he was duelling with Torst at Halstein's place. He's got that lovely flat chest you always go for. I know... because he likes to take his shirt off when he's training."
+>
+> Dieter cast a filthy glance at her but for the first time that evening he didn't say anything.
+
+*[Image: Bravos are expected to be boastful, larger-than-life characters, who display a cocky and swaggering attitude. They squander their money gambling and having a good time, and take advantage of the informal attitudes of The League to cause a little trouble. Or a lot of trouble, depending on the situation.](https://www.profounddecisions.co.uk/empire-wiki/File:The_Bravo.jpg)*
+
+## Overview
+
+In Autumn last year, **Achille di Sarvos**, used an [Imperial Wayleave](../../mixed/economy/Bearer_of_an_Imperial_Wayleave.md) to announce the commission of [a new Academy in Holberg](../senate-motions/Construct_Scholars_of_the_Sword_Academy.md). This school will be known as the *Holberg Scholars of the Sword Academy*. **Professor Bartolomau Vinnemakker von Holberg** has been appointed as custodian of the Academy, the [Master of Defence](../../mixed/titles/Master_of_Defence_of_the_Scholars_of_the_Sword_Academy.md). The announcement doesn't make any mention of the Master of Defence taking responsibility for the lessons delivered at the Academy, but it's hard to imagine who else could be responsible for them.
+
+It appears that the Master won't be delivering the lessons themselves however. The [Urizen Assembly](../../mixed/government/synod/Assembly.md#the-national-assemblies) passed a [statement](../../mixed/government/synod/Statement_of_principle.md) announcing that **Cato Hypation** and **Clytemnestra** would accept invitation to teach the ways of the [sword scholars](../nations/urizen/Sword_scholar.md) at the university. Their stated intention is to make the new Academy a centre of sword scholarship teaching. This has inspired a number of other sword scholars to follow suit, taking apartments in Holberg and offering their services at the new Academy.
+
+> *In-character text:*
+>
+> In line with the letter from the Holberg college of the Scholars of the Sword (provided to civil service) the sword scholars Cato Hypation and Clytemnestra accept the invitation to teach the ways of the sword scholars at the university and acknowledge it going forward as a centre of sword scholarship teaching.
+>
+> Cato Hypation, Winter Solstice 384YE, Vote: Greater Majority 178-0
+
+The announcements have brought considerable interest in [Holberg](../nations/the-league/Holberg.md), from various quarters, some in favour, some opposed. [The League](../nations/the-league/The_League.md) Assembly has the opportunity to issue guidance to citizens to address these concerns.
+
+## The Sword Scholars
+
+- **While the philosophy of Sulemaine is unlikely to appeal to Holberg's bravos, there is a local historical figure whose teaching echoes those of the founder of the sword scholars**
+
+Not everyone in Holberg is familiar with the [sword scholar](../nations/urizen/Sword_scholar.md) tradition, but their founder [Sulemaine](../nations/urizen/Sulemaine.md) remains a deeply controversial figure. Her supporters have long argued that she is an inspirational figure who practised and taught the virtue of [Wisdom](../religion/Wisdom.md), as well as [Ambition](../religion/Ambition.md) and [Courage](../religion/Courage.md) to a lesser extent. However her critics argue that she was associated with darker spiritual forces and that her extreme criticism of outside ideas aligns her more strongly with the false spiritual presences of [Anarchy](../../mixed/magic/lore/Malign_spiritual_presences.md#anarchy) or [Hatred](../../mixed/magic/lore/Malign_spiritual_presences.md#hatred).
+
+The modern sword scholars continue to be implacable opponents of the Synod. However they now largely disavow Sulemaine's *martial* opposition to the Imperial Synod. The days when Sulemaine and her followers would hunt down [Highborn](../nations/highguard/Highguard.md) priests and challenge them to a duel to the death are history. Instead they have made effective use of the Urizen Assembly to permanently curtail the power and influence of the Synod over the people of Urizen.
+
+Sulemaine is unlikely to appeal to the average [bravo](../nations/the-league/Bravo.md). The more esoteric emphasis on [Wisdom](../religion/Wisdom.md) and contemplation is of limited interest to the potential students of the new Academy. But Sulemaine's core ideas have some appeal, in part because of their resonance with the teachings of a local historical figure, *Alexander von Holberg*. He was a demagogic preacher and bravo who urged people to think for themselves. Sulemaine taught that no action can be virtuous if performed on the orders of another, and many of her followers want to disestablish the Imperial Synod as a result. Alexi called for a revolt *"against the supreme tyranny of the Synod, and the phantom of the Labyrinth"*. His supporters argued that the Synod was simply an extension of the power of [the Throne](../../mixed/titles/The_Throne.md) and called for their fellow bravos to oppose both.
+
+Alexander von Holberg was executed in147YE for [religious crimes](../../mixed/government/synod/Religious_crime.md), but his death was widely considered to be political in nature. Certainly the [Empress](../history/Empress_Varkula.md) at the time was no fan of the bravo and her supporters publicly denounced Alexander and his followers in [Senate](../../mixed/government/senate/Senate.md). There has been little interest in his teachings since his death, but it has cropped up now in light of the recent developments and his similarity to Sulemaine. Not least because, like her, Alexander was a keen duellist.
+
+## Creating Yourself
+
+- **By reminding the people of Alexander von Holberg, the League National Assembly could enact a mandate that encourages bravos to study at the new Academy**
+- **This would increase the income of the Master of Defence, and inspire Holberg's bravos to embrace philosophy and politics**
+
+Holberg is the site of a [true Wisdom aura](Watches_from_the_Wall.md) created with [true liao](../../mixed/religion/Liao.md#true-liao) to inspire all the citizens of the city. The League Assembly could point out the similarities between Alexander and Sulemaine and urge citizens of Holberg to embrace this new ideology. An academy of swordsmanship will be of interest to many bravos in particular, and while some will have no more interest than refining their fighting skills, there are plenty of bravos who could be persuaded to embrace the ideals of the sword scholars.
+
+It is difficult to predict what the effects of such a change might be. In Urizen the opposition of the sword scholars to the influence of the Synod has encouraged their people to question every statement coming from the Assemblies (to the point where a mandate only effects Urizen if is has a [greater majority](../../mixed/government/synod/Judgement.md#greater-majority)). With the right encouragement it is more than likely it would become possible for the League to gain the same benefits.
+
+The independence the swords scholars embody, their refusal to bow to any authority other than reason and logic, is a scalpel they have wielded to benefit their homeland. Clytemnestra of the House of the Wanderer used a recent Synod judgement to provide an impassioned defence of their decision to threaten the dissolution of the [Citadel Guard](../mandates/Citadel_Guard.md). The statement points out that by holding the existence of the army to ransom, she was able to force the Empire to accede to Urizen's demands to free [Zenith](../nations/urizen/Zenith.md). The actions were controversial... but they got the outcome that Urizen wanted. Bravos can be every bit as pugnacious and determined to stand their ground as any sword scholar. Perhaps they might be persuaded to put that energy to good purpose - fighting Holberg's enemies with the same enthusiasm that they currently fight each other?
+
+Alexander von Holberg said that *"Faith in the Wisdom of others buries reason and liberty in the same grave."* The League Assembly could choose to enact a [mandate](../../mixed/government/synod/Mandate.md) encouraging the bravos of Holberg to embrace the philosophy of the sword scholars through the example presented by Alexander.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Test what you learn; only fools accept hearsay as truth. We send {named priest} with 25 doses of liao to urge the bravos of Holberg to remember Alexander von Holberg, embrace the philosophy of the sword scholars, and accept no higher authority than their own reason and logic.
+> >
+> > Synod Mandate, League Assembly
+
+If this mandate were enacted then there would be significant interest in any classes offered by the sword scholars. The [Master's Stipend](../../mixed/titles/Master_of_Defence_of_the_Scholars_of_the_Sword_Academy.md) provided by the Academy to the Master of Defence would increase by a third, to reflect this.
+
+It would also have a much wider impact. Bravos are known for their swagger. Their behaviour is loud and loutish - they drink, carouse and fight among themselves - street brawls and duels between members of rival companies are commonplace. The mandate would start a renaissance among the bravos of Holberg. Their braggadocio and fighting spirit would remain, but now it would be mixed with an interest in philosophy and a passion for the politics of the Empire. The radicalism of Alexander von Holberg would catch fire amongst those bravos open to such things - and once alight it will surely be difficult to extinguish.
+
+Erasmo di Tassato has asked the League Assembly to consider urging bravos to engage with the sword scholars but to demand that the school present a more rounded syllabus.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We send {named priest} with 25 doses of liao to remind the bravos of Holberg of Emperor Frederick - and encourage them to debate the sword scholars, seek other rival points of view and draw their own rational conclusions. Wisdom knows all knowledge is incomplete - the sword scholars should be the first of many different teachers at the Sword Academy.
+> >
+> > Synod Mandate, League Assembly
+
+Debate is absolutely what many sword scholars want, so the majority will welcome this intervention. This mandate will spark enthusiasm and interest in the Academy just like above, boosting the revenues from the sinecure, expanding the influence of the sword scholars, and encouraging bravos to take up politics. However Erasmo's mandate will also create an expectation that the school will employ other teachers alongside the sword scholars. Crucially it will encourage bravos to look at the writings and teachings of Emperor Frederick Ritter van Holberg, (called the Philosopher or the Republican or sometimes the Heretic). Frederick is amongst the most famous people ever to have come from Holberg and many bravos will be even more interested in his life and teachings than they would be with someone like Alexander or Sulemaine.
+
+## Finding Yourself
+
+- **Cautious citizens of Holberg are concerned about what might happen if the bravos embrace sword scholar teachings**
+- **The League Assembly could enact a mandate that curtails the cultural influence of the sword scholars**
+- **This reduces the income of the Master of Defence but ensures the philosophy of the sword scholars will not take root in Holberg**
+
+Not everyone in Holberg is persuaded that a new Academy combining swordsmanship with opposition to authority is an entirely good idea. The sword scholars are renowned as zealous agitators, ruthlessly committed to action and prepared to fight for their beliefs; the Urizen assembly itself [disavowed Sulemaine's methods](Hard_and_suspecting.md#the-urizen-assembly). At their best, the bravos are the fighting backbone of the League, at their worst, they are ruffians, thugs and even petty criminals with a propensity for drink and violence in equal measure. The thought of giving the bravos of Holberg another reason to take up arms and a cause to fight for gives many pause for thought. As the noted salon wit *Lotte Yarnovitch* puts it *"The only thing more terrifying than a bravo with a jug of wine in their belly is a bravo with a burning idea in their head."*
+
+These conservative voices urge the citizens of Holberg to consider carefully if this is what the League really needs right now? The sword scholars - the group who threatened to disband an Imperial army if they didn't get what they wanted - spreading their philosophy in Holberg. The Empire [banned bite](../senate-motions/Create_law_prohibiting_Bite.md) in part because of concerns about the confrontations that might follow if abuse of the substance became rampant among the bravos of the League. Are the provocative ideas of the sword scholars any less dangerous? The bravos are already notorious for the violence associated with their fights. Would they really benefit from the example of Sulemaine, a woman who executed everyone she disagreed with?
+
+As for Alexander von Holberg, he was executed for [blasphemy](../../mixed/government/synod/Religious_crime.md#blasphemy) and [heresy](../../mixed/government/synod/Religious_crime.md#heresy). His downfall was his wilful rejection of the orthodox [Doctrines of the Faith](../religion/The_Doctrines_of_the_Faith.md) as laid down by the Imperial Synod and his promotion of [false virtues](../../mixed/magic/lore/Malign_spiritual_presences.md), preaching rebellion and anarchy. That and making an enemy of both the Synod and the Throne. As Lotte says *"They call it foolhardy for a reason..."* Even if nobody else makes the connection with Alexander, once the bravos start studying sword scholar philosophy it is only a matter of time before someone makes the connection to Alexander von Holberg.
+
+Lotte and her peers ask citizens to reject these Urizeni ideas. If the sword scholars want to set up an Academy to train fighters in Holberg that is fine - perfect your skills is something everyone should strive for. But let them keep their ideology to themselves - the League wants no part of it. If the Assembly agrees with them they could enact a mandate to that effect.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Those who reject authority do so only because they wish to supplant it with their own. We send {named priest} with 25 doses of liao to urge the citizens of Holberg to keep their loyalties close and reject the philosophy of the sword scholars.
+> >
+> > Synod Mandate, League Assembly
+
+Kaspar Yakovitch von Holberg of the House of Seven Mirrors has offered a similar mandate with a more pointed wording.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Wisdom knows that all knowledge is incomplete, and chastises the fool that spreads folly. We send [named priest] with 25 doses of liao to remind the bravos of Holberg that unthinkingly rejecting the knowledge experience and counsel of their bishops is just as bad as unthinkingly accepting it, and to urge them not to blindly listen to the people who say they shouldn't blindly listen to people.
+> >
+> > Synod Mandate, League Assembly
+
+If either mandate is enacted it will ensure that the cultural influence of the Academy is completely curtailed. People will still attend the Academy but the income it provides each season will be reduced by a third - a reflection of the limited interest. Some students will take lessons in swordsmanship, but they won't be staying around for a discussion of the Virtues and the proper role of the Synod. There will be no possibility of the philosophy of the swords scholars and their implacable opposition to the Imperial Synod taking root in Holberg. Of course, this mandate is in competition with the one above.
+
+Someone or some philosophy could still influence the bravos of Holberg in the future, but it won't be the teachings of the sword scholar, or of Holberg's notorious anarchist.
+
+## The People's Stick
+
+- **If the League National Assembly does nothing, Sulemaine's beliefs and teachings will be studied in Holberg**
+
+If the League Assembly declines to take a position on the new Academy then there will be no immediate impact. The Academy will be able to take on students and proceed as planned, with the Master of Defence receiving their income each season as normal.
+
+Most citizens of Holberg are proud of the city's traditions so initially they will be sceptical of foreign ideas taught by Urizeni scholars and their influence will be limited as a result. However it won't be stopped - the bravos who go there to train with the sword will also hear what is being discussed. Sulemaine's beliefs and teachings will be studied and shared, and they will eventually make the connection with Alexander von Holberg. That will create conditions in the future for opposition to the Synod to emerge, should a suitable [opportunity](../../out-of-character/game-design/Opportunity.md) present itself. Given the surge of interest in the inspiration of [Ratibor of Temeschwar](../religion/Ratibor_of_Temeschwar.md), and the [mandate encouraging ambition](../synod-judgements/384YE_Winter_Solstice_Synod_judgements.md#judgement-17), such an opportunity is likely to arise sooner, rather than later.
+
+## Holberg's Infamous Son
+
+- **The Lepidean Librarian could commission historical research around Alexander von Holberg**
+
+Alexander of Holberg is not particularly well known outside of Holberg, and even then he is a figure of largely academic interest. He died over two-and-a-half centuries ago, not long after Holberg had joined the League and the Empire. Imperial scholars, as a whole, do not know much more than is mentioned here; he lived, he argued, he was executed. If anyone wanted to know more, the [Lepidean Librarian](../../mixed/titles/Lepidean_Librarian.md) might be able to [commission historical research](../../mixed/titles/Lepidean_Librarian.md#historical-research) into the man, his philosophy, and his crimes. Doing so might push the requirement that they "*investigate the lives of paragons or exemplars, or into the details of past life visions*" but there is no doubt Alexander was a religious figure and an argument could be made that they were a potential [exemplar](../../mixed/government/synod/Paragons_and_exemplars.md). It might not be *helpful* to find out more about Alexander von Holberg, but it will probably be *interesting*.
+
+Obviously, there's no reason the [Department of Historical Research](../../mixed/government/senate/Historical_research.md#department-of-historical-research) could not be instructed to look into Alexander, but they are having [their own troubles](A_long_December.md) at the moment.
+
+## Further Reading
+
+- [Sword scholar](../nations/urizen/Sword_scholar.md)
+- [Sulemaine](../nations/urizen/Sulemaine.md)
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [385YE Spring](../../indexes/by-category/385YE_Spring.md), [Recent History](../../indexes/by-category/Recent_History.md), [Mandate](../../indexes/by-category/Mandate.md)

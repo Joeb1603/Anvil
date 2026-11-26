@@ -1,0 +1,1 @@
+This ritual targets {{{1}}}. Each character must be present throughout.

@@ -1,0 +1,263 @@
+[[Category:Winds of Fortune]][[Category:388YE Autumn]][[Category:Highest Calling]]
+<ic>"You know the problem with some people?" Gavyn was once again in a mood. The new boots he had just finished embroidering with sigil of the Black Thorns as a present for his wife had just been completely vaporised by the scales of a coiled shrike. Myfanwy was also in a mood having just had an unpleasant encounter with a coiled shrike.
+
+"That all they do is moan?", she snarked.
+
+"Yes, that", replied Gavyn, missing the sarcasm completely. "People think that putting someone in charge of something is as good as solving the problem."
+
+"Having people working on a problem ''is'' usually a requirement", sighed Fan.
+
+"Yes, but I mean, giving someone a fancy title is all well and good, but without the actual, you know, power to do something they couldn't do before, how it can make a difference?"
+
+"Things take time," Fan countered, "you can't walk a trod in an afternoon. You need to be patien-"
+
+"I'm sick of being patient! There are folk dying in Therunin right now! We should be there - fighting the vallorn, fighting to save our people. Instead we've got Conclave interdenting rituals meant for fighting the enemy!"
+
+"Inter-dicting, and don't interrupt me, dickhead."
+
+"Sorry love. I just don't understand why we're not doing anything. Why we seem to be going backwards instead of forwards. It makes my blood boil."
+
+"Sounds like ''you'' should run for something then, if you'd do such a good job"
+
+"Fuck no, do you know how much they charge for a slice of cake at Anvil? I've got boots to buy."</ic>
+<div {{floatleft}}>{{CaptionedImage|file=Blood for Poppies.jpg|caption=The final battle against the vallorn looms ever closer.|align=left|width=600|alt=""}}</div>
+==Overview==
+{{audio|link=https://www.youtube.com/watch?v=60Cge3EeBT0}}
+Two nations have chosen to use their [[The highest calling|highest calling]] to focus their people on the coming final war against the [[vallorn]]. The [[Dawn|Dawnish]] are developing the skills and resources to prepare themselves, while [[Navarr]] are looking for ways to support the nascent [[Vallornguard]] by sharing centuries of accumulated wisdom with other nations.
+==Glorious Blossom==
+{{SOP|statement=The Virtuous build up their fellows. We send Lord Reynard Griffinsong with 75 liao to urge citizens of the Empire to come to Greenwood Manor to venture forth against the enemy. Let the Vallornguard lead us to glory!|by=Earl of Fools, Dawnish Assembly|vote=242-118|when=Summer 388YE}}
+The Dawnish Assembly have chosen to [[Love_and_monsters#Unicorns|throw open the doors of Greenwood Manor]] to all comers who might seek to quest against the Vallorn, rather than focusing Dawnish efforts. If the [[388YE_Autumn_Equinox_Senate_sessions#Amend_Knight_of_the_Greenwood|administrative motion]] is passed by the Senate, then military units from across the Empire will be able to undertake the '''Quest Against the Vallorn''' [[Venture#Quest_Against_the_Vallorn|venture]].
+
+More remains to be done, however, and thanks to the skilled negotiation of Dawnish enchanters and their enthusiastic patrons, new opportunities have been negotiated with ''The Lone Swordsman'' while the weavers of Astolat have identified a way to help Dawnish magicians take the fight to the vallorn.
+
+===Silverfire Steam===
+<div {{Float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Effervescent Brook'''</tr>
+<tr><td>'''Commission Type:''' Ministry </td></tr>
+<tr><td>'''Location:''' Grovesyard, Astolat</td></tr>
+<tr><td>'''Cost:''' 4 weirwood, 4 ilium and 12 crowns in labour</td></tr>
+<tr><td>'''Time:''' One season</td></tr>
+<tr><td>'''Effect:''' Provides an additional ministry to the Tender of the Phoenix Flame</td></tr>
+<tr><td>'''Availability:''' One year </td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color:LightYellow;">'''Vials of Whitesmoke'''</td></tr>
+<tr><td>12 tempest jade</td><td>1 vial</td></tr>
+<tr><td>30 tempest jade</td><td>2 vials</td></tr>
+<tr><td>50 tempest jade</td><td>3 vials</td></tr>
+</table></div>
+* '''Whitesmoke Brook could be diverted to flow through the regio upon which the Flame of the Phoenix is built'''
+* '''Doing so would allow the Tender of the Phoenix Flame to purchase vials of Whitesmoke'''
+[[Meraud]], or more specifically his herald ''Gwinthav who speaks with Majesty'' has come forward with an offer to the Dawnish in order for them to better combat the threat of the Vallorn. ''Gwinthav'' has an interest in rituals that turn the tide of battle, and knows how to create consumables that boost those that unleash devastating effects on multiple enemies, such as [[Thundering Roar of the Lion-bound Horn]]. The herald is keen to support their friends in Dawn in getting more of these rituals cast and seizes this opportunity to reach out. They note that [[Fetid Breath of Teeming Plague]] and [[Grave's Treacherous Edge]] are rituals of this kind that are extremely potent when facing the ''Green Tide'', and ''Gwinthav'' is willing to provide vials of the dense mist that rise from the waters of Meraud's lake that can empower magicians to make it easier for them to perform the rituals. 
+
+In order to enable the agreement, Whitesmoke Brook would need to be diverted to pass through the regio upon which the [[Astolat#Flame_of_the_Phoenix|Flame of the Phoenix]] is built. The Brook is well known for its natural effervescence, but it is not large. It's much smaller than a river, so diverting it isn't difficult, but it does require some engineering and a touch of magic to bind it all in place. Once done, that would allow ''Gwinthav'' and their apprentices to help the staff of the [[Tender of the Phoenix Flame]] harvest the effervescent water into a strange potion that would boost a magician's ability to cast rituals that invoked the venomous properties of Spring over a large area. 
+<div style="max-width: 900px;">
+<box>'''Vial of Whitesmoke'''<br>
+If inhaled, a vial of whitesmoke provides three additional ranks to the next ritual that performed within ten minutes that allows the target to call [[Calls#Mass_Calls|MASS VENOM]] ([[The Grave's Treacherous Edge]] or [[Fetid Breath of Teeming Plague]]), subject to the normal rules for effective skill. The caster regains all expended hero points and mana if they perform an appropriate ritual in the time allowed. This is a tonic, so the effect of any other tonic the magician has drunk immediately ends. Anyone who consumes whitesmoke will experience a heady rush of energy and confidence that leaves most eager to test their ability to push the limits of magic to see how much they could accomplish.</box></div>
+
+===The Outlaw Prince===
+<div {{Float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: #C994FF;">'''Swear to oppose oppressors'''</tr>
+<tr><td>'''Declaration Type:''' Acceptance</td></tr>
+<tr><td>'''Necessary Details:''' The wording must be as follows: "Tyrants can never know Love or Glory. The Eastern Sky swears to overthrow tyrants wherever they are and oppression wherever it may appear."</td></tr>
+<tr><td>'''Effect:''' Allows the Eastern Sky to call upon Hayaak's aid when fighting monstrous enemies such as the vallorn</td></tr>
+<tr><td>'''Availability:''' Autumn 388YE</td></tr>
+<tr><td>'''Special:''' Regardless of who raises the declaration, the oath must be sworn by Dame Aurum or the new General of the Eastern Sky before the Conclave</td></tr>
+</table></div>
+* '''Hayaak has offered to support the Eastern Sky to help them to fight the vallorn'''
+* '''The General of the Eastern Sky would need to swear a sacred vow before Conclave to oppose tyranny to gain the benefits'''
+* '''The general could embrace the eternal to the exclusion of one or more existing patrons of the army'''
+The [[Eastern Sky]] is [[Army qualities#Favoured|favoured]] by five eternals of Summer Realm, but not [[Hayaak]], the ''Peregrine Knight''. At one time the ruler of the Forest of Arden, the ''Outlaw Prince'' is now a lone warrior who has made a home of the Badlands. No longer one of the Monarchs of Summer, ''Sharptalon'' now prefers to focus his attention on those individuals who catch his eye, those with promise and the fire to better themselves in their belly.
+
+The ''Hawk Lord'' remains defiant and Proud in his new role, and quick to act over any perceived injustice. He resents that he was unable to offer the Eastern Sky a chance to win his favour as a patron, as if that might imply that he is somehow ''less'' important an ally than those tyrants in their gilded castles. Thus he is eager to take his rightful place as one of the army's patrons, and demonstrate his strength. What's more, while he has changed, his desire to hunt monsters endures, and the great aberrations of the vallorn seem like a worthy challenge for those who would seek his favour.
+
+Thus, he makes an offer to the General of the Eastern Sky. Should they swear an oath to commit themselves to standing against the acts of tyrants wherever they may appear, he will offer them his aid in fighting the Vallorn. This will allow the Eastern Sky to take a new attacking order called '''Slay the Monsters'''.
+
+<box>'''Slay the Monsters'''
+* '''Casualties inflicted by this army against the vallorn are increased by three tenths'''
+* '''Casualties suffered by this army is increased by one tenth'''
+
+The strength and fury of Hayaak flows through the soldiers of the army, driving them to risk everything to defeat monstrous foes such as the Vallorn. The army's discipline breaks down somewhat, as individuals gloriously engage the largest and most dangerous beasts they can find. The soldiers of the Sky are driven to seek out and test themselves against the greatest fecund creatures that the vallorn's twisted chaos has spawned. Taking down these creatures quickly reduces the strength of any force of the vallorn present, but increases the risk to the soldiers taking on the most dangerous fights.
+
+If a general issues an order to Slay the Monsters while not engaging the Vallorn (the only monstrous threat the Empire faces at this time), then the army will instead make an [[Army orders#Overwhelming Assault|overwhelming assault]].</box>
+<div style="float:right; width: 175px; clear: left;">[[file:EasternSky_Colour.png|link=Eastern Sky]]</div>
+Hayaak demands that this oath be sworn publicly by one whom people will know can speak with the voice of the Sky - either the current general of the Eastern Sky, '''Dame Aurum De Castellan''', or their successor. Their most recent [[388YE_Summer_Solstice_Military_Council_orders#Eastern_Sky|orders]] imply that they do not intend to stand again as general, but Hayaak will accept either them as the long-standing general, trusted by the nation to be the voice of the people's army, or their successor, to start a new chapter in the army's story. Should that oath ever be broken in the eyes of the ''Hunter of Beasts'', however, not only will this support be withdrawn, but his wrath will fall on the Eastern Sky and whoever leads them.
+
+Hayaak does still wish to be clear that he stands ''against'' the Tyrants of the Summer Lands, and so makes a further offer. The General of the Eastern Sky can draw on each of their patrons but once a year - that would include the Peregrine Knight, so they can only use an order to slay the monsters once a year. However, if the Eastern Sky ''renounces'' their patrons by name when they take their vow, the ''Masterless Warrior'' will grant them an additional annual use of this order for each patron renounced.
+
+===The Fool's Council===
+<div {{float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td>'''Earls and Enchanters Attending Anvil'''''</tr>
+<tr><td>	Adela	</td></tr>
+<tr><td>	Adrianna Lysander	</td></tr>
+<tr><td>	Aenar de Forteair	</td></tr>
+<tr><td>	Aeron Rhoswen	</td></tr>
+<tr><td>	Aiva Vortekar	</td></tr>
+<tr><td>	Alara Me'drazi	</td></tr>
+<tr><td>	Alaric Primrose	</td></tr>
+<tr><td>	Alexander Tallstag	</td></tr>
+<tr><td>	Althea Lacvaugn	</td></tr>
+<tr><td>	Amaranth	</td></tr>
+<tr><td>	Aneira Cadwalon	</td></tr>
+<tr><td>	Barbus Hart	</td></tr>
+<tr><td>	Beorn Alaric Valkonen	</td></tr>
+<tr><td>	Cain Culrose Veridaine	</td></tr>
+<tr><td>	Caladain de Renard	</td></tr>
+<tr><td>	Caspian de Sirènne</td></tr>
+<tr><td>	Cedric Of Camris	</td></tr>
+<tr><td>	D'Eon	</td></tr>
+<tr><td>	Don Tonberry	</td></tr>
+<tr><td>	Dorian Gryphontale	</td></tr>
+<tr><td>	Earl Adel de Òrdraig	</td></tr>
+<tr><td>	Earl Beauregard Summersend	</td></tr>
+<tr><td>	Earl Ector of House Medwood	</td></tr>
+<tr><td>	Earl Slava Goranin Du Beste	</td></tr>
+<tr><td>	Earl Temperance of the Groves	</td></tr>
+<tr><td>	Earl Xaden Hammerfall	</td></tr>
+<tr><td>	Earl-Enchanter Ciagan de Rhys	</td></tr>
+<tr><td>	Earl-Enchanter Englebert R Angleburr	</td></tr>
+<tr><td>	Edvin	</td></tr>
+<tr><td>	Enchantress Areloe Larmallevés	</td></tr>
+<tr><td>	Guissart Vexille	</td></tr>
+<tr><td>	Gwendoline de Morvae	</td></tr>
+<tr><td>	Lady Ailsa Tamerlaine	</td></tr>
+<tr><td>	Lady Griffinsbain	</td></tr>
+<tr><td>	Lady Renata de Lagriffe	</td></tr>
+<tr><td>	Lamorak Lacvaugn	</td></tr>
+<tr><td>	Lilian Goldvein	</td></tr>
+<tr><td>	Logan Olivia de Havilland	</td></tr>
+<tr><td>	Logan Tallstag	</td></tr>
+<tr><td>	Lord Dorian De Licorne	</td></tr>
+<tr><td>	Lord Edmund the Enchanter of House Torawyr	</td></tr>
+<tr><td>	Loria Sepulchre	</td></tr>
+<tr><td>	Lucien Belmont	</td></tr>
+<tr><td>	Lyr du Charlataine	</td></tr>
+<tr><td>	Lyra de Stanton	</td></tr>
+<tr><td>	Mal` Lassal Scethos of House Cordraco	</td></tr>
+<tr><td>	Marrianne of House Elyan	</td></tr>
+<tr><td>	Martin De Rondell	</td></tr>
+<tr><td>	Mirella of the Twisted Rose	</td></tr>
+<tr><td>	Morien de Carsenere	</td></tr>
+<tr><td>	Olivier du Stanier	</td></tr>
+<tr><td>	Perrin Syrenus	</td></tr>
+<tr><td>	Reynard Du Vulpe	</td></tr>
+<tr><td>	Rillian De Gauvain	</td></tr>
+<tr><td>	Rosalind du Alle	</td></tr>
+<tr><td>	Ruskin Maddox	</td></tr>
+<tr><td>	Sabine Angleburr	</td></tr>
+<tr><td>	Seidon Kendaii	</td></tr>
+<tr><td>	Seraphine De Sarroi	</td></tr>
+<tr><td>	Sir Eggbert Ovum	</td></tr>
+<tr><td>	Sir Valstrax Crimsonglow	</td></tr>
+<tr><td>	Sophia Ivarovich Orzel	</td></tr>
+<tr><td>	Sotha Me'drazi	</td></tr>
+<tr><td>	The Earl of Fools	</td></tr>
+<tr><td>	Torag Meliora	</td></tr>
+<tr><td>	Tristan Donatien Nicholas Reynauld	</td></tr>
+<tr><td>	Tristan duLac	</td></tr>
+<tr><td>	Tulpin de Boarwood	</td></tr>
+<tr><td>	Valentin Ivarovich Orzel	</td></tr>
+<tr><td>	Valgrim Ursandir Du Vol	</td></tr>
+<tr><td>	Vesenia Hall	</td></tr>
+<tr><td>	Vesper Lucentia	</td></tr>
+</table></div>
+* '''If the Earl's Council officially supports the highest calling it will create a further opportunity to prepare for the fight against the vallorn'''
+* '''If the Earl's Council backs a different cause then people will look for an opportunity to advance that goal instead'''
+* '''One of the hosts of the Dawnish egregore will be on hand to record if a vote is upheld'''
+It was the Earl of Fools who put forward the judgement to the Dawnish Assembly to make the fight against the vallorn Dawn's highest calling. That focus [[Love and monsters|produced a slew of opportunities]] to devote resources to fight the vallorn, which remain available until the end of the Spring Equinox next year. There is more that might be done, potentially, but it's not fully clear that everyone is committed to this cause.
+
+During the conquest of the Barrens, the Dawnish Assembly took a very different view of the struggle than that of some Dawnish generals. It's impossible to know how deep those differences ran, but to many outside Anvil it seemed like the Assembly and their generals were not always on the same page. Perhaps as a result, some nobles and yeofolk, particularly those less inclined to follow the guidance of their Assembly, haven't committed to this cause as strongly as they might.
+
+What would help now would be for the Earl's Council to put their own voice behind that of the Assembly. If they stood shoulder-to-shoulder with the Assembly and officially agreed that the fight against the vallorn was the nation's highest calling, then that would be bound to generate at least one additional [[opportunity]] for Dawn to prepare for the coming war.
+
+Of course, such a decision implies that Dawn would be making the war with the vallorn a priority over other conflicts, such as the current war with the [[Druj]], or even the battles in the west and the south against the [[Jotun]] and the [[Grendel]]. If you decide something is your ''highest'' calling, then by extension, everything else is less important. The Council could ask those who look to their earls for leadership to make a different issue their priority and find some [[opportunity]] to pursue that cause instead.
+
+To help the council with their determinations, the civil service has provided a list of earls and enchanters who have indicated they are attending Anvil this season.
+{{SOP|statement=The Virtuous raise up their fellows. Any nation willing to raise arms and join the Vallornguard shall have our full support. We send Corey Wayfarer with 50 doses of liao to lead our people in sharing everything we have with the Highborn to prepare to finish the fight.|by=Corey Wayfarer, Navarr Assembly|vote=126-50|when=Summer 388YE}}
+
+==Vows==
+It is Highguard's turn to receive visiting Navarr, eager to share everything they know that can help undo ''Terunael's Folly'' and provide opportunities for the Vallornguard to prosper across the Empire. Many Navarr are well known to the grey pilgrims from their time walking the trods together in recent years, and they receive a warm welcome in chapter houses across the nation.
+
+The grey pilgrims are eager to discuss the Vallornguard and the fight against the enemy, even as they encourage the Navarr to take advantage of the nation's hospitality. Weary Navarr who have been travelling the Empire are encouraged to [[Navarr_culture_and_customs#Unburdening|unburden]] themselves so that they can put aside old responsibilities and prepare to take on new ones as they lead the Empire to war against the vallorn.
+
+===Convergence===
+<div {{Float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Vallornguard Office'''</tr>
+<tr><td>'''Commission Type:''' Sinecure</td></tr>
+<tr><td>'''Location:''' Riverwatch, Reikos</td></tr>
+<tr><td>'''Cost:''' 16 wains of white granite and 48 crowns </td></tr>
+<tr><td>'''Time:''' Three months</td></tr>
+<tr><td>'''Availability:''' Until the end of the Summer Solstice 389YE</td></tr>
+<tr><td>'''Effect:''' 
+* Establishes a central headquarters for the Vallornguard
+* Grants an income of 15 crowns to the Speaker of the Vallornguard</td></tr>
+<tr><td>'''Availability:''' One year, until the end of the Summer Solstice 389YE</td></tr>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: #C994FF;">'''Appraise Vallornguard Chancery'''</tr>
+<tr><td>'''Motion Type:''' Appraisal</td></tr>
+<tr><td>'''Effect:''' Appraise the construction of a chancery in Reikos or Casinea for the Vallornguard</td></tr>
+<tr><td>'''Availability:''' One year, until the end of the Summer Solstice 389YE</td></tr>
+</table>
+</table></div>
+* '''The Empire could commission offices for the Vallornguard in Tabernacle in Reikos'''
+* '''The Senate could appraise the possibilities to build a grand chancery for the sodality in either Reikos or Casinea'''
+* '''If the resulting commission was successful, then the Senate could order similar appraisals for the other sodalities'''
+The Highborn have looked to what new support they might offer the Vallornguard, and they note that there is no central headquarters as yet for the sodality. The [[Vallornguard#Speaker_of_the_Vallornguard|Speaker]] has no offices to occupy, no place to receive delegations, no home to house supporting staff - somewhere those across the Empire can come to offer other aid. The Highborn would be honoured to host the Vallornguard in Highguard, and believe the [[Reikos#The_Unbound_Steel_Hall_(Ruined)|Unbound Steel Hall]] in [[Reikos#Riverwatch|Tabernacle]] would be ideal. It has remained a ruin since the ''scions'' of the [[Cold Sun]] razed it some years ago. The foundations remain, however, and it could be rebuilt as a formidable chapter house for '''Corwyn Heartsbane''' and his successors to situate themselves. The estates in the grounds of the chapter house would provide a valuable income to help the fund of the office of Speaker, helping them to lead the sodality.
+
+The proposal is fine, but they don't go far enough to satisfy everyone. With the backing of the Senate, a much more ambitious structure in Highguard would facilitate a deep well of support for the Vallornguard, which could be transformational for the sodality. ''Exarch Solomon of the Epistemological Architects'', who has recently been helping out with the plans for the Sevenfold Path in the Necropolis, points to the example set by the [[Golden_Pyramid#Grand_Lodge|grand lodge]] of the [[Golden Pyramid]] or the [[In_harmony_and_unison|proposal for the Sevenfold Path]] as examples of what can be achieved when the Empire invests the necessary time and resources to create something extraordinary. The Vallornguard is a sodality; in theory, it is as important in its own right as the Conclave - it is every bit as significant as the Golden Pyramid. Why shouldn't support for it match theirs?
+
+Of course that begs the question of what this "chancery" might do and how big it would need to be? The grander the scale, the more impact it will have; such is the way of things. To answer either of those questions, the Empire would need to appraise the possibilities of constructing a chancery for the Vallornguard in Highguard. The appraisal would have to explicitly instruct the prognosticators to look at the others in either Reikos ''or'' Casinea to see what possibilities exist.
+
+If the appraisal was a success and the Senate adopted the commission, then similar appraisal options would be available for the other sodalities - looking to find a suitable chancery to provide a firm base of support for each extension of the Imperial government and to help them uphold their responsibilities and further their goals.
+
+===Reinforcement===
+<div {{Float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: #C994FF;">'''Elect Pilgrim's Defiance via Vallornguard'''</tr>
+<tr><td>'''Motion:''' Change the title of General of the Pilgrim's Defiance to be elected by a simple vote of the Vallornguard</td></tr>
+<tr><td>'''Effect:'''
+* The General of the Pilgrim's Defiance is elected by vote of the Vallornguard rather than Highborn Senators
+* The title would remain a Highborn position open to any member of the nation</td></tr>
+<tr><td>'''Availability:''' Indefinite</td></tr>
+</table></div>
+* '''The Senate could amend the Pilgrim's Defiance to have it be elected by the Vallornguard'''
+* '''With the support of the Vallornguard, the army would gain the ability to preach the end of the vallorn while resupplying, generating liao for the general'''
+The Highborn have been committed to the fight against the vallorn for much of the last decade. First, those who felt the calling to be a [[grey pilgrim]] joined the stridings of Navarr to walk the trods. Then, when the call went out for the pilgrimage to end, they came home and formed the core of the [[Pilgrim's Defiance]]. An army whose core purpose is to stand against any horrors the vallorn they may face and now be cowed. Surely, say many grey pilgrims, the general of this army should be elected by the Vallornguard?
+
+Virtue is shown by the unity of word and deed, and so if the Senate show their commitment to the cause by changing the election method of the Defiance to be done by vote of the Vallornguard, the army will be able to spend its time while resupplying preaching and encouraging the citizens of the territory they find themselves in to believe that the Empire is all-in and that the centuries old foe can be defeated in this lifetime. As a consequence, the civil service would supply the general with a commensurate amount of liao as they would for any congregation.
+
+Changing the title to be appointed by the Vallornguard wouldn't change the nation of the title - it would still be a Highborn national position. That means it would be elected by a simple vote of members of the sodality, but the title would be open to any Highborn citizen (even if they weren't a member of the sodality).
+
+<box>'''Preach the end of the Vallorn'''
+* '''The army generates liao based on the number of victory points generated'''
+* '''Does not change army strength, casualties inflicted or casualties suffered'''
+The army spends the the season bolstering the faith of Imperial citizens to stand against the Vallorn, and that the ultimate achievement of its destruction is soon to pass. If the army is not attacked during the season, then a regular army will generate thirty-five liao at full strength, or proportionally less if the army is depleted.</box>
+
+===Cursed Tool===
+The Stewards of the [[Necropolis]] have spent the season with the aid of Navarri historians looking through their collections and the various tombs of figures from shortly after the founding of the Empire. After much effort, they have recovered and analysed a relic that appears to have been the property of Rhonwen, the archmage who famously sacrificed herself as part of the [[Reclamation of Seren|reconquest of Seren]]. Seren was recently reborn, but this piece of history may give the Navarri one last look at where that story began, and the Vallornguard some insight into the killing of the first heart.
+
+After careful recovery (and a little restoration), this wand has been found to be capable as acting as a focus for [[Whispers through the Black Gate]] to speak with the shade of Rhonwen herself; however, there are some "small" issues that need to be resolved.
+*It's cursed. Really, really cursed. This makes it a truly ''awful'' item to handle, but also means that using it for a person who died over three centuries ago is an incredibly volatile and frankly, outright dangerous undertaking. The Stewards are ''pretty'' sure it will call forth the shade of Rhonwen, but cannot vouch for the state of her shade or if anything else might try to come through with her.
+*Who should they give it to? The [[Imperial Necromancer]]? The Senator for [[Miaren]]? The Speaker of the [[Vallornguard]]? The [[Archmage of Winter]]? The Stewards ask that the Highborn Assembly guide them as to who, if anyone, care of this item should be given to, in order to arrange the casting. The judgement with the highest margin will tell them who to deliver it to for the Winter Solstice.
+
+The Stewards advise that there was a rather excellent [[On_Rhonwen%27s_Fall|piece]] of [[historical research]] done recently that would be a worthwhile read for any who take an interest in the matter.
+
+==Restriction==
+<div {{Float}}>
+{{SOP|statement=The Great Forest Orcs see Surut as the Ancestor Slayer - the one who burns down their family in Weirwood Groves. We swear an oath to not use Surut's power in the Vallorn War for deforesting of their ancestral groves. The weirwood protects against the Vallorn. Remember your oaths for the Great Forest Orcs, Navarr. We do not burn our familys souls.|by=Brynmor Rootround, Navarr Assembly|vote=146-80|when=Summer 388YE}}
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: #C994FF;">'''Interdict Magical Deforestation'''</tr>
+<tr><td>'''Declaration Type:''' Interdiction</td></tr>
+<tr><td>'''Effect:''' Makes it illegal for Imperial magicians to deforest regions using magic</td></tr>
+<tr><td>'''Availability:''' Open-ended</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: #C994FF;">'''Declare Enmity on Surut of the Thrice-Cursed-Court'''</tr>
+<tr><td>'''Declaration Type:''' Alignment</td></tr>
+<tr><td>'''Effect:''' 
+* Places Surut under Enmity, making it illegal for Imperial citizens to make deals with the eternal
+* The raising order or the Archmage will gain a bequeathment from the Great Forest Orcs while Surut remains under enmity
+* If the declaration is raised by the Arbiter of the Rogue Declaration, the bequeathment will go to the individual while Surut remains under enmity</td></tr>
+<tr><td>'''Availability:''' Open-ended</td></tr>
+</table>
+</div>
+* '''The Imperial Conclave could interdict the practice of destroying areas of forest with magic to improve relations with the Great Forest Orcs'''
+* '''If the Conclave places Surut under enmity, the Great Forest Orcs will bequeath three wains of weirwood each season to the order or the archmage that raised the declaration'''
+'''Brynmor Rootround''' took it upon themselves to action the [[Survival#Hercynia|request]] made by the orcs of the Great Forest, offering to help defend Imperial infrastructure from the vallorn with regard to their great foe; the [[Surut|Ancestor Slayer]]. It did not achieve a greater majority and thus did not circulate far beyond the priests of Anvil, but the orcs have been in discussion with the vates of Navarr to learn how the Imperial powers of state might be used to achieve their aims. The aegis to determine the fit and proper use of magic falls to the Conclave after all, not the Synod.
+
+This season, the orcs have made an appeal to any who have influence in the Conclave to [[Interdiction|interdict]] the act of magical deforestation. If done, they will follow through with their offer of aid to help fortify the heartwood. Instead, if the Conclave are willing to [[Alignment#Enmity|turn away]] from the ''Silencing Flame'' completely, they will offer a bequeathment of three wains of [[weirwood]] for the order that raises it, or to the office of the [[Archmage of Winter]] if they use their declaration to do so for as long as the declaration stands.

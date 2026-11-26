@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:388YE Autumn]]
+__NOTOC__
+<quote by="Announced by Berrak of The Phoenix Reach, Crystal Architect of the Spires"> Build mana sinecure in Urizen in Whisperwood, Sarangrave. Building - The Spark of Ignition. Title - Lighter of the Forge. Memorial to those who fell defending Sarangrave. Costs 16 wains of mithril and 48 crowns - self funded by Sarangrave Reforged
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in Whisperwood, Sarangrave
+* Announcement by '''Berrak of The Phoenix Reach''', [[Crystal Architect of the Spires]]
+* The labour cost is increased by the presence of [[Region_qualities#Outlaw_Druj|outlaw Druj]] in the territory
+
+==Date==
+* Autumn 388YE
+
+==Cost==
+* Standard costs apply
+* 16 wains of mithril
+* 76 crowns and 16 rings in labour costs 
+* Three months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Spark_of_Ignition}}
+==Outcome==
+* Once complete, the ''Lighter of the Forge'' will be available to be appointed by the Senators of Urizen

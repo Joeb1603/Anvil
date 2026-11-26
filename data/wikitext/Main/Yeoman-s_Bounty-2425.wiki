@@ -1,0 +1,32 @@
+==Description==
+The ''Yeoman's Bounty'' is a serviceable rod usually made of wood from the yew tree (a tree associated with burial grounds), engraved with [[runes]] such as [[Kyrop]], the rune of weakness. It is sometimes called a ''Lover's Grave'', a ''Last-Ditch Baton'' or occasionally a ''Weapon of Last Resort'' - all references to the fact that invoking its magic prevents the target from being able to use magic or other [[Heroic skills|heroic abilities]]. Several magicians would sooner cast this spell through this rod than learn it themselves, simply due to the nature of severing an opponent from the source of their power unsettling, especially if they derive great [[pride]] from defeating powerful foes. Using the rod is occasionally frowned upon in [[Dawn]] since the [[weakness]] spell can be seen as reducing the [[glory]] of a battle by robbing an opponent of their most impressive abilities.
+
+Wintermark magicians who become [[Wintermark religious beliefs#The Frayed|Frayed]] occasionally arm themselves with these rods and seek out powerful barbarian magicians and warlords during battle to strike down with it, as an act of self-sacrifice. This tactic, and the rod itself, are sometimes known as ''Mouse's Bite'', as a weak or civilian magician robs a much more potent foe of their might. Obviously, such gambits are extremely dangerous for the magician in question; thus acquiring and bonding to this rod is sometimes taken as a sign of despair or desperation by close confidantes, but also a display of [[Courage]]. 
+
+Another unfavourable association with this rod is its usage in thefts and muggings, where a weaker member of the gang will begin by using the rod against a wealthy, well-equipped target before their colleagues subdue and rob the victim. Some of the more notorious bands of bandits lurking in [[the Barrens]] employ these rods against the noble-born [[Questing knight|questing knights]] who wear the wealth of their order.
+
+==Rules==
+{{Rods}}
+* '''Effect:''' You can cast the [[weakness]] spell as if you knew it.
+* '''Materials:''' Crafting a Yeoman's Bounty requires no special materials. It takes two months to make one of these items.
+
+<ic>
+The Yeoman's Bounty he did claim<br>
+An aching back his treasure<br>
+To toil relentless was his aim<br>
+No rest, respite or leisure<br>
+In blazing sun and driving rain<br>
+He sowed and ploughed and scattered<br>
+His every muscle felt the strain<br>
+But his will was never shattered.<br>
+<br>
+A Prouder man you will never meet;<br>
+Prosperity defines him<br>
+Ambition guides his aching feet<br>
+And Vigilance stands behind him<br>
+The Wisdom of the land he knows<br>
+His Loyalty never does waver<br>
+The Courage of a Yeoman true<br>
+Is the Bounty he must savour.<br>
+<br>
+- Ode to the Marcher Yeoman, author unknown</ic>

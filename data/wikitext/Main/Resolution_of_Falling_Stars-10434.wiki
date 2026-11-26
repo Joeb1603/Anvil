@@ -1,0 +1,20 @@
+[[Category:Day Ritual]]
+{{CaptionedImage|file=NBUrizen.jpg|caption=This ritual is part of [[Urizen magical traditions#Urizen Lore|Urizen lore]] rather than [[Imperial lore]].|align=right|width=200}}
+{{stub}}
+==Rules==
+{{Season|Day|6}}
+===Performing the Ritual===
+{{Casting time|2}}  The ritual targets the caster only; it cannot be performed by a [[Groups#Coven|coven]].
+
+{{enchantment}} 
+===Effects===
+The [[enchantment]] provided by the ritual grants the caster the ability to spend a point of personal mana at any time to justify remaining calm and collected when exposed to a roleplaying effect (as if they had spent a hero point). This expenditure of mana has the same restrictions as casting a spell.
+
+While under the effect of the enchantment the character experiences a [[roleplaying effect]]: ''you are centred and focussed and feel empowered to master your emotions rather than be mastered by them regardless of their source.''
+
+{{Season Duration}}
+==Description==
+TBC
+
+==Common Elements==
+TBC

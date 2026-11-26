@@ -1,0 +1,245 @@
+[[Category:Winds of Fortune]][[Category:388YE Summer]][[Category:Winds of Magic]]
+<div style="float:left; width: 300px; clear: right; margin: 15px;">{{CaptionedImage|file=Marginalia in London, British Library, Harley MS 2433, fol. 82r.png|align=right|width=2000}}</div>
+==Overview==
+__TOC__
+Six [[Realms|realms of magic]] align with the mortal world, whose [[Inhabitants of the realms|inhabitants]] are fundamentally different to the people of the mortal world and yet, to a degree, share some of their concerns. They are both complex and simple at the same time, seeking to change the world to match their perception of how it should work. They bargain and negotiate, threaten and cajole, and while it can be difficult to predict exactly where their gifts or curses might lead, still they have much to offer.
+
+The Empire can reach out to the [[eternal|eternals]] through the powers of the [[Archmage|Archmages]] and the [[Conclave]], but the creatures of the realms may sometimes take the initiative themselves. The power of [[alignment]] allows the Conclave to make it easier or harder for them to touch the world, relationships shaped by the tension between true friends and dire enemies. Some desire that state of [[Alignment#amity|amity]], some revel in the [[Alignment#enmity|enmity]] they have earned, but none can deny the power of the Conclave to guard the borders of the Empire.
+
+It is a rare season that passes without an eternal, or a handful, seeking to influence the Empire. There are other winds of fortune that speak of different situations. The responses to the [[archmage#plenipotentiary|plenipotentiary]] missives of the Archmages from this season is covered in the '''[[Ambassadors of death]]''' wind of fortune, while '''[[A wizard did it]]''' deals with magic of an astronomantic, mortal, or mysterious provenance.
+
+==Autumn==
+===An Unexpected Ally (Basileia)===
+<div style="float: right; width: 175px;">{{CaptionedImage|file=City of Locks.png|width=300px}}</div>
+* '''A Grendel mercenary company are threatening the Grove of Wittal'''
+* '''The Grendel leader wishes to defect but can't do it openly'''
+* '''This skirmish is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''The ''Grimnir of Wittal Grove'' is [[Sentinel_Gate#Prognostication|responsible]] for defeating the Grendel and potentially rescue the Iontach'''
+{{AgainstBarbarians}}
+Organising and funding Grendel mercenary groups is a challenging market. With the chaotic presence of the wreckers, naval superiority in the Bay of Catazar isn’t a given for fledgling mercenary companies. Enterprising mercenary paymasters have, in recent years and with encouragement from their [[Asavea|allies]], started to probe other waters for opportunity. The Gullet passes from the Sea of Snow past Jotun shores to the very heart of Kallavesa. One ship has managed to avoid the monsters of the Sea of Snow, the ships of the Fjorknae, and the Winterfolk and Marcher fleets to land close in [[Kallavesa#Wittal_Grove|Wittal Grove]]. Now, they march on Wittal itself, intent to raid the Healing House of Wittal Grove. However, Iontach ''Meddool Miniog'' has something even more audacious planned.
+
+A representative of the Matchmaker's Forum, of the [[Basileia|City of Locks]] travelled to Anvil with a message just a week before the Summer Solstice. It appears that Iontach ''Miniog'' wishes to defect, referencing a cousin living in luxury in Apulian. They have arranged for their mercenary band to accompany them into Kallavesa under the understanding that they are going to raid the Healing House of Wittal Grove. From discussion with the herald, [[League_Egregore|Guise]] believes they would certainly be able to accept the oath of Meddool; if Meddool is able to be rescued they will be able to join the League.
+
+The herald of the City of Locks, therefore, offers the following contract to '''Theowold Vakarsson''', the Grimnir of Wittal Grove:
+
+Escort the Iontach to Anvil a free orc. In exchange, the Iontach will provide a sum of six thrones after the summit.<br>
+The mercenary company should be defeated to ease the rescue of Meddool, but the company's continued survival is not a factor.<br>
+Failure to secure the Iontach will see the mercenaries go ahead with raiding the Healing House, preventing the [[great work]] from providing herbs until after the Autumn Equinox 388YE.
+<div style="float: left; width: 175px;">{{CaptionedImage|file=Prospero001a.png|width=300px}}</div>
+===Arratan Surety (Estavus)===
+<div {{float}}><table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Arratan Surety'''</tr>
+<tr><td>'''Commission Type:''' Edifice</td></tr>
+<tr><td>'''Location:''' Enterio, Tassato</td></tr>
+<tr><td>'''Cost:''' 250 thrones in labour</td></tr>
+<tr><td>'''Time:''' Six months</td></tr>
+<tr><td>'''Effect:''' 
+* Increases white granite production of Arratan Gamble by five wains a season
+* Increases upkeep of Arratan Gamble by three thrones a season</td></tr>
+<tr><td>'''Availability:''' Until the start of the Summer Solstice 389YE</td></tr>
+</table></div>
+* '''The Architect of Hammers has used their power to assess the Arratan Gamble'''
+* '''The Architects of Iron and Stone have investigated and uncovered an opportunity to quarry the largest vein from the other side'''
+The Architects of Iron and Stone were incredibly excited to receive their first assignment from the [[Architect of Hammers]]. The newly elected '''Edmundo of Damakan's forge''' wasted no time in setting them to work in assessing the [[Arratan Gamble]] in Enterio, [[Tassato]]. The Arratan Gamble works incredibly well, but there is always room for improvement! ''Architect Noether'' calculates that with the amount of wains that have already been quarried, there is enough in the ground for at least another two hundred years! ''Noether'' presents a plan for a small quarrying outpost, nothing too fancy, on the other side of the largest vein that will allow workers to come at it from the two best angles. 
+
+The "''Arratan Surety''", a mirthful jest at the name of the quarry, would increase the amount of white granite produced by the Bourse seat by five wains a season. It would have substantial initial costs, and the extra workers and gangers would see the upkeep increased by three thrones a season.
+
+==Day==
+
+===It is a Diamond (Sinokenon)===
+<div style="float: right; width: 175px;">{{CaptionedImage|file=SinokenonArt.jpg|width=300px}}</div>
+* '''A disparate group are travelling to Anvil to speak to the Grandmaster of the Celestial Arch and possibly others'''
+* '''They do not want to speak to the Grandmaster of the Sevenfold Path'''
+* '''The group aims to arrive just after six on Friday'''
+Last summit, the Eternal [[Sinokenon]] declared that it was [[Monarchs_and_outcasts#The_Turning_of_the_Wheel_(Sinokenon)|engaging in an initiative]] to reach out to the foundation-stones of the Empire, to gauge receptiveness to Sinokenon's ideals and to send its ministers to attempt to combat what it believed to be misunderstandings as to the intentions and nature of the Turning Mirror. They duly arrived, bring with them pamphlets and small gifts for those they met.
+
+Since the Spring Equinox, its heralds have been engaged in a similar campaign in many places across the Empire. While ''Diamondmind'' only enjoys [[alignment|neutrality]] - and hence does not have the unfettered access to the Empire enjoyed by those eternals who have the [[Conclave|Conclave's]] amity - there are many Day regios in the Empire to which its heralds have access, and no small number of individuals happy to assist them in their work. After all - Sinokenon has been on at worst distant and at times even somewhat gregarious terms with the Empire since its foundation! They are particularly prevalent in [[Urizen]], Varushka, and in the [[Skarsind|northernmost territory of the Unshackled]].
+
+The greatest number of Apex Hyperion's heralds are seen across the spires of Urizen. The mountain nation is a particular favourite of ''That Which Lives In Its Name''. It sees their pursuit of a perfect world as most pleasing, and approves of their structured, ordered way of life. The illuminates of [[Zenith#Occursion|Occursion]] have often enjoyed its favour - reportedly, the people of [[Tsark]], just a short distance across the mountain range, enjoy similar attentions.
+
+In [[Varushka]], it has long been known as ''Silver Sovereign'' - a name that befits its status, perhaps, as a powerful and potentially dangerous supernatural entity, but one that can be bargained with. There are a number of vales, especially in the hills of [[Karov#Wieliczka|Wieliczka]], where ''Singular Point'' is sometimes consulted on matters of rulership. It has often expressed an approval of the vale as a unit of societal structure, because of the way the rule of boyars is born from strength but cannot rest on tyranny. A vale is a communal decision by a community to live in a place of order, separating themselves from the wilds. 
+
+It has looked with favour on the Imperial Orcs since their nation was formally founded. While the Way of Hierarchy is famously not one to deal with societies in the process of revolutionary change or great reform (and thus somewhat turned its face from the Empire during the years of the orc rebellion), it was in favour of the nascent nation once it was formally founded. Again, the ordered nature of legion life is something Tomorrow And Tomorrow greatly approves of and which it wishes to see prosper. The Unshackled also represent the Empire forgoing what it sees as the "irrationality" of forced slavery, though this is a somewhat abstruse and philosophical perspective which not every Imperial Orc is willing to hear. In recent years, apparently, it has also attempted to build a relationship with some of the Tamazi who dwell in [[Skarsind#Gildenheim|Gildenheim]] - a relationship founded on a mutual dislike of the Axou.
+
+Anyone who has spent time in the Empire in the past season, especially in these three nations or in any other part of the Empire where structure and order are prized, may choose to have met one of the heralds of Sinokenon. They will invariably have been polite and friendly, distributing copies of a curious pamphlet entitled [[:File:Sinokenon_and_You.pdf|Sinokenon and You]]. Any difficult questions on any topic will have been waved away - the heralds will have been clear that they are there primarily as messengers, and to learn.
+
+It seems that they have indeed learned something - and it is not to their liking. As the Summer Solstice draws near, rumours begin to spread - in part carried by the heralds of Friend Of All - that the [[Grandmaster]] of the [[Sevenfold Path]] nurses a strong animosity to Sinokenon. The eternal grows concerned they are planning to bring the enmity of the Conclave down upon Sinokenon.
+
+Whether this is true or not is hard to say. It is clear, however, that it causes the heralds some distress. They are not alone, however - for the ''Argent Mantra'' is not without mortal supporters - allies the eternal has patiently cultivated over the years. Representatives from the [[illuminate|illuminates]] of [[Zenith]], the vales of Wieliczka, and the [[Tamazi]] of Gildenheim are seen making their way to Anvil. Apparently they intend to arrive as soon as they can - perhaps a little after the sixth hour of the evening on the Friday - and intend to lobby to ensure that their relationship with That Which Lies Above All is not disrupted.
+
+They particularly want to speak to the Grandmaster of the [[Celestial Arch]], who apparently they are assuming will naturally take their side in this matter, but are happy to speak to any grandmaster ''except'' that of the Sevenfold Path, who, if rumour is indeed to believed, has made up her mind already. They will have just a few hours until the Conclave begins, and the truth (or otherwise) of these rumours are known.
+
+===Eclectic Eye (Kimus)===
+<div style="float: right; width: 175px;">{{CaptionedImage|file=Kimus001.png|width=300px}}</div>
+* '''Kimus has announced that with the help of Imperial citizens, it has completed a means to safely scry upon the actions of Cold Sun.'''
+* '''It informs the Conclave that it shall use this tool, the ''Corlucis'', to provide information on what it perceives.'''
+Robed in purest white, its garb edged in [[weltsilver|weltsilver thread]], a [[Kimus#Viziers|Vizier]] of [[Kimus|''the Thousand Eyes of Sun and Moon'']] unfolds at the entrance to the Hall of Worlds like the opening of an eye. Those who are subjected to its stare feel the force of its ruby-coloured gaze as it communicates with language both scant yet heavily freighted with meaning. It explains that through the prescient sacrifice of ''The Circle of Enduring Wisdom'' and incisive action of those Imperial heroes that braved the dangers of [[Monarchs_and_outcasts#Staring_at_the_Sun_(Kimus)|''Terminus Sol'']] the '''''Corlucis''''' has been assembled. This arcane tool now permits ''She Who Watches'' to scrutinise and observe the poisoned light of the regio, to understand it and through understanding gain foresight over the machinations of [[Cold Sun|Cold Sun]], the entity that poisoned it.
+
+At this last pronouncement, the herald almost appears to express something other than scholarly focus. Whether it is a satisfied twitch of its lips or a slight pursing before it continues, it soon resumes its lecture. As was agreed, the Corlucis shall also be used to provide the [[Conclave|Conclave]] forewarning on the actions of Cold Sun. While at present, ''the Celestial Eye'' might only discern the largest of motions within the light it sees that in time that it will achieve a greater degree of acuity in its peering. The herald falls silent with the final assertion that the Empire has opened a new eye towards the future. With a final, appraising glance about the chamber, the herald is gone in a blink of light.
+
+===Silence in the Library (Phaleron)===
+<div style="float: right; width: 175px;">{{CaptionedImage|file=Phaleron002.png|width=300px}}</div>
+* '''An attendant of Phaleron will be arriving at 18:00 on Saturday to hand an arcane projection to ''Fiorente Vicente d'Apulian'''''
+* '''They request the presence of the Archmage of Day, the Emissary to the Celestial Library, and/or a Grandmaster'''
+The Conclave has [[388YE_Spring_Equinox_Conclave_sessions#Acceptance:_Phaleron_and_Phoebus_Al-Pulpi|made their decision]] regarding [[Flames_and_the_dark#The_Dying_Night|what to do]] about the [[Redoubt#Tower_of_Light_and_Shadow|Tilphussian Reach]] following its ruin at the hands of the Grendel. A deal offered and accepted, the [[Phaleron|Archives of Silence]] are bound to fulfil their part of the bargain; provision of the Arcane Projection to Entreat with Al-Pulpi to the raising magician.
+
+This does not mean at all that the ''Coral Library'' does not have some concerns. Given recent revelations to the Conclave, it is rather worried about handing over this very special bit of magic to someone with the surname "Vicente". The [[Whisper_Gallery|Whisper Gallery]] are the natural enemy of the ''Celestial Library'', as they are of all thinking beings. In any case, while Phaleron is definitely going to hand it over, a herald has shown up to the [[civil service]] to ask if the [[Archmage of Day]], [[Emissary to the Celestial Library]] and/or a [[Grandmaster]] might consider being present to the trade off to make sure that everything is done "in the light".
+
+The attendant in charge of the projection is scheduled to arrive in the Hall of Worlds to hand it off to '''Fiorente Vicente d'Apulian''' at 18:00 on Saturday of the Summer Solstice.
+
+==Night==
+===Fire, Fury, and Flame (Janon)===
+<div style="float: right; width: 175px;">{{CaptionedImage|file=Janon002b.png|width=300px}}</div>
+* '''Janon has been placed under enmity by the Conclave'''
+* '''Janon seems to be enthused by this change in the Empire's passions'''
+* '''Armed bands of heralds have entered Ossium and Sarangrave and are promising to curse both territories unless they are stopped'''
+
+''The Shadowed Fire'' is a mercurial being at the best of times. Embodying fire and passion in all things, zie cares little for the difference between love and hate. As such, conclave's declaration of [[Alignment#Enmity|enmity]] has not had the chastening effect on him that might have been hoped for. As spring shades into summer, small bands of armed heralds march across the borders of [[Ossium]] and [[Sarangrave]]. Both of them begin spreading the message to any people that they can find. ''Tinder-of-Anarchy'', who is well pleased with her new titles, is overjoyed that it gets to experience the Empire's rage and hatred. Less than a year ago ''Blasphemy's Matchmaker'' asked to be brought tales of [[Upon_a_midnight_dreary#Affection_and_Animosity_(Janon)|beloved rivals]], those who are implacably set against one another yet who are bonded closer than any friends might be. Hopefully the Empire will embrace this new relationship just as much as Janon has.
+
+Thus, the heralds issue their challenges. The ones they have called out will bring forces to fight against them, or else to celebrate with them, or perhaps both. They shall match blades and hearts in the eternal contest of passion. Then, if the heralds are alive at the end of it, they will go to the nearest Night regio and immolate themselves. Once that is done, Janon's power will be invoked and the territory will be place under a "blessing", bringing the "blessing" of [[Unfettered Anarchy]] to those who dwell there.
+
+Scouts indicate that these heralds, despite being lightly armoured, seem to be possessed of immense reserves of [[Heroic_skills|heroic spirit]], and that some among them seem to be capable of inflicting Unfettered Anarchy on people with as much ease as any [[Magical_skills#Battle_Mage|battle mage]] delivering a spell of their own.
+
+====Fire The Forests (Ossium)====
+* '''A group of Janon heralds are threatening to curse on Ossium'''
+* '''This skirmish is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''The ''Shadowed Torchbearer'' is [[Sentinel_Gate#Prognostication|responsible]] for preventing the curse'''
+{{NoInnocentsPresent}}
+
+Upon marching over the border from the [[Forest of Ulnak]], the heralds made their reasons for choosing this place perfectly clear. Ossium is the home territory of the [[Shadowed Torchbearer]], the one who conclave selected to promote passion within the Empire and to stand between them and ''the Muse of Fire''. Let Vellenka Vanyanova come to face them, and show where her passions truly lie! Soldiers from the resupplying Gryphon's Pride attempt to catch the heralds and finish the matter quickly, but the heralds run fast and do not allow themselves to be caught. They will be faced by the one of their choosing, or they will not be caught at all.
+
+Grudgingly accepting that the best thing they can do is inform the proper authorities, the scouts of the Gryphon's Pride pass on that the heralds keep returning to the Burned Glade in Echofell. It is the responsibility of '''Vellenka Vanyanova''', the Shadowed Torchbearer, to resolve the situation before any harm can be caused. If the heralds cannot be stopped, they will curse Ossium with one of Janon's "blessings" that promotes violent emotions run amok.
+
+====Boil The Swamps (Sarangrave)====
+* '''A group of Janon heralds are threatening to curse on Sarangrave'''
+* '''This skirmish is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''The ''Grandmaster of the Sevenfold Path'' is [[Sentinel_Gate#Prognostication|responsible]] for preventing the curse'''
+{{NoInnocentsPresent}}
+The path to Sarangrave is considerably shorter for the heralds of ''Whirling Chaos'', as they emerge from a regio over the border in [[Axos]], where the enmity of the [[Conclave]] has no effect. Once in Imperial territory, they begin to call out the [[Grandmaster]] of the [[Sevenfold Path]]. Elagabala brought this declaration against ''the Voice of Zorech'', and they are overjoyed to witness the passion of the Urizeni. "Come fight us, sword scholar," they cry, "as your loathed founder once fought the Highborn!" Nobody bothers trying to explain to them that the sword scholars have splintered. It does not seem likely that they would listen.
+
+The heralds have taken the field around Slow Worm's Hill in Kroll. It is the responsibility of '''Elagabala''', Grandmaster of the Sevenfold Path, to prevent any explosions of undirected passion. If the heralds cannot be stopped, they will curse Sarangrave with one of Janon's "blessings" that promotes violent emotions run amok.
+
+===Partners in Crime (Whisper Gallery)===
+* '''The Whisper Gallery seeks communications from citizens of the Empire'''
+* '''It is illegal to cast the ritual to communicate with the eternal as they under enmity'''
+Similarly to [[Monarchs_and_outcasts#Tyrannical_Discipline_(Whisper_Gallery)|last season]], individual members of the [[Whisper Gallery]] are petitioning imperial citizens to once again get in touch with them over matters that, while they may sound trivial, seem to be of great importance to them:
+
+* The Vizier Arrayed in the Raiment of Dawn is interested in the advice that boyars and wise ones of [[Varushka]] might have for leaders both formal and cultural.
+* The Lover Glad in Crimson is feeling a little down, and wishes to be cheered up by love stories with happy endings from any [[troubadour]] of [[Dawn]].
+
+During the Summer Equinox, any magician who casts [[Whispering Shadow Courtiers]] using an additional measure of [[iridescent gloaming]] and incorporating both message and messenger into the performance will receive three crystal fire in thanks. Again, each person is limited to a single submission, but ritualists can help as many people as please them.
+
+'''OOC Note''': Anyone wanting to take advantage of this opportunity will need to ensure that the boyar, wise one or troubador is a participant in the roleplay of the ritual (they do not need to be a [[Rituals#Contributors|contributor]]). Both the performers and the poet should speak to either a referee at the regio tent or a member of the GOD staff after performing the ritual.
+
+===Enlightenment (Azoth)===
+* '''During the Spring Equinox the Archmage of Night vacated their post.'''
+* '''Azoth believes that their absence has had an unwanted effect on the plenipotentiary they offered.'''
+* '''Azoth invites the next Archmage of Night to investigate uncompensated musicians their predecessor was charged with arranging and to suggest a boon for those who could not attend.'''
+
+[[Azoth#Heralds|''Distillations'']] of [[Azoth|''the Azoth'']] emerge from the Imperial Regio clad in fur and feathers of swirling ochre, shimmering jade and shifting red. Resembling [[Kallavesi|Kallavesi]] [[Mystic|mystics]] though bearing an orcish mein, the heralds are at first mistaken for unannounced [[Jotun]] emissaries. If the visitors have an opinion on this reaction, it is well hidden beneath a cool, almost inert demeanour. 
+
+Once the matter is resolved, the agents of ''the Rebis'' explain the purpose of their visit: that the Azoth understands that during the spring equinox the [[Archmage_of_Night#Recent Elections|Archmage of Night]] was extracted from their role and so, by extension from the [[Key_of_dreams#Finder_of_Paths_Unseen_(Night)|crucible of change offered as plenipotentiary]]. With the formula so adjusted, the heralds continue, it seems that impurities did arise from the mix which diminished the whole. 
+
+The most polluting of these is that the Archmage was charged by [[Sung]] to instil mystery into the [[Key_of_dreams#Finder_of_Paths_Unseen_(Night)|Shadow Souk]] through the commissioning of musicians. Azoth knows that musicians did play within the chamber and that their playing did indeed serve as a suitable catalyst. However, it is not clear whether these elements were properly compensated for their aural alchemy with gifts provided by the ''Rainbow Serpent'' to the Archmage for this purpose. ''The Great Work'' has offered to provide the [[Cat's_Graces#Maestro|Maestro]] of the [[Cat's Graces]] a lump sum of twenty [[crystal fire]] if they're willing to promise to ensure it goes to those musicians who attended. If they are willing to agree to this, they should cast [[operate portal]] on the regio at the Summer Solstice, using three names of the ''Rebis'' and agreeing to the arrangement.
+
+==Spring==
+
+===Do Some Harm (Arhallogen)===
+<div style="float: right; width: 175px;">{{CaptionedImage|file=Centipede General.png|width=300px}}</div>
+* '''There is an opportunity to kill a significant number of Grendel'''
+* '''This is a [[Accessibility#Combat_Unlikely_or_Contained|combat unlikely]] encounter'''
+* '''The ''Grandmaster of the Silver Chalice'' is [[Sentinel_Gate#Prognostication|responsible]] for poisoning the Grendel'''
+{{NoInnocentsPresent}}
+Last season, the eternal [[Arhallogen]] made a [[Key_of_dreams#Sharp_Fangs_Behind_The_Leaves_(Spring)|series of offers]] to the Imperial Conclave in order to help them avoid, in its eyes, a steep decline into disaster. To the great surprise of the ''Centipede General'', it was none other than the [[Silver Chalice]] who accepted its offer of a boon to kill a significant number of [[Grendel]], if they were willing to put the nefarious [[Ossegrahn]] under Enmity. Perhaps, says the ''Envenomed Blade'', they misunderstood the [[Silver Chalice]]. To value ones own lives and the lives of ones allies by ruthlessly killing those who would threaten them is indeed a philosophy she can align herself with. When one commits to ''"Ensure that Conclave is reminded of the value of life, and that it makes decisions with that value in mind"'', perhaps this means understanding the value in taking life from their foes? Yes, yes, this will do indeed.
+
+The ''Maw-of-Spikes'' has located an encampment of the marines from the Grendel navy, the Golden Winds, based downstream from a potent Spring regio that provides it with unnaturally clear water. Such places were rare in [[Mareave]] until recently, and it is no surprise that the orcs of the Broken Shore would set up a camp there to take advantage of it. The ''Shadow Blade'' has a simple offer for the Silver Chalice; all they have to do is curse someone with [[Curse of Gangrenous Flesh]] where the ritualists have [[Regio#Using_Regio|drawn]] on the regio and invoke three of Arhallogen's names. This will corrupt the regio and poison the supply of the Grendel Encampment. While they will eventually realise and move on, they will take five hundred casualties before the source of their woes is identified. The regio is not untended, but to sweeten the deal, ''Many Move as One'' will send her heralds to neutralise them before the Grandmaster or her representatives arrive.
+
+The conjunction to the Golden Wind's encampment will be at 15:45 on Saturday, and the [[Silver Chalice|Grandmaster of the Silver Chalice]],  '''Fausta Ankarien''', will be responsible for ultimately poisoning the Grendel.
+
+==Winter==
+===A Varushkan goes to War (Surut)===
+<div style="float: right; width: 175px;">{{CaptionedImage|file=Surut001.png|width=300px}}</div>
+* '''Surut is impressed by the orders of the general of the Northern Eagle and offers a boon'''
+* '''He is happy to offer similar aid to other generals as well, if they wish the help of the Burnt Prince'''
+The [[Surut|''Charred Prince'']] rarely gives much attention to the pontification of wizards and their ever-increasing esoteric arcane musings, he is far more interested in the people who actually get things done and get their hands dirty. Specifically, the generals and heroes of the Empire. Recently, he has been eagerly following the [[388YE_Spring_Equinox_Military_Council_orders#Northern_Eagle|adventures of General '''Aksel Reznov Razoradze''']] in the [[Salt Flats of Sanath]].
+
+While he nominally favours the Druj in the conflict, he has been savouring their desperation and exacting greater and greater tribute for his continued support. He has no particular preference to whether they survive being crushed between the Empire and the [[Thule]]. Should the General invoke the name of the ''Burnt Steward'' in their orders the next time that the [[Northern Eagle]] infiltrate Sanath, he will intercede to help find opportunities for them to engage in further acts of arson if they so choose.
+
+The [[Inhabitants_of_the_realms#Heralds|herald]] relaying this information to Jorgen at the [[Astolat#The_Castle_of_Thorns|Castle of Thorns]] reminds him that the ''Raging Inferno'' is perfectly happy to offer his aid to other members of the [[Military Council]] as well. Should they seek his aid, they have to impress him in the orders they submit. Provided they draw his attention by including his name in their orders, he will pay attention and offer help to those who have shown they deserve it.
+
+===Call to Arms (Tharim)===
+<div style="float: right; width: 175px;">{{CaptionedImage|file=Tharim 001.jpg|width=300px}}</div>
+* '''A legion of Tharim's Ashen Knights has travelled to Karov'''
+* '''The legion intends to remain there for the foreseeable future'''
+The mood of [[Tharim]] is wroth this season. His chosen has stepped down, and both Skathe and Surut continue to be welcomed by the Conclave, even if they do not enjoy its friendship as he does. The only light in the twilight of his dark halls is the fate of Jem Bribban. It is apt, then, that the mood of the Ashen Knights is similar. They arrive in Karov a month before the Summer Solstice and by the time of the summit have established a camp just outside of [[Karov#Wieliczka|Vorota]]. 
+
+Why they are here, however, is beyond anyone's guess. A few volhovs on their way from Delev tried to discuss it with them, but were unable to get much beyond stoic, monosyllabic answers. Why the Ashen Knights are here, and why ''now'', is anyone's best guess. If the notoriously vindictive eternal's mood is souring, it does not bode well. Tharim can be a powerful ally to his friends, but a bitter enemy to those he believes have wronged him or failed to give him his due.
+
+===The Beast Below (Agramant)===
+{{SOP|statement=Agramant has sent his servants to 'aid' Imperial citizens abandoned in Therunin. This must shame us. Highguard cannot tolerate a monster such as the Abominable One being seen as a rescuer while the Empire's own people suffer. Highguard has chapters, military units, congregations, physicks, priests, pilgrims, the Unconquered and more. We can send virtuous aid where aid is desperately needed. So let Highguard act! Let our citizens escort the refugees and support the healers of High Chalcis, while our chapters and military units aid the Navarri in escaping Therunin. The hungry, frightened, and desperate must find Imperial support. We will deny Agramant the worship of desperation. Only actions are virtuous. If we would calls ourselves guardians of the Empire's soul, then we must prove it where that soul is endangered.|by=Synchar of Ebon's Hall, Highguard National Assembly|vote=216-0|when=Spring 388YE|size=small}}
+{{SOP|statement=The eternal Agramant is preying on those fleeing Therunin - offering them aid, and interdicted means for any to contact him for thanks or further 'help'. Those he preys on feel they are alone. That he is the only place they can turn. Along with Navarri guides, we call on Loyalty dedicants to travel to the places these Navarri refugees gather. We must prove to them they are not alone, and show them what loyalty is, and what it is not.|by=Neri of Ebon's Hall, Loyalty Assembly|vote=306-0|when=Spring 388YE|size=small}}
+{{SOP|statement=The refugees of Therunin are being manipulated by Agramant into believing he is their only option for help. He targets those who are weak and alone, and seeks to gain access to their spirits and our nation. We call upon Navarr to remind these refugees we are here and we support them. Open your doors if you can and stop Agramant from targetting those in need.|by=Xandor Trodbroker, Navarr National Assembly|vote={{GM}} 256-0|when=Spring 388YE|size=small}}
+The Imperial Synod, including a [[general]] of an Imperial [[army]] has had a great deal to say about [[Agramant|Agramant's]] offers of help in [[Therunin]] in recent months. To this, it pointedly says that it is materially helping the Navarri reclaim what is rightfully theirs and fulfil their ancient oaths, ''while the Empire is not''. The Military Council is welcome to take over and fulfil their promises to the people of Navarr any time they so choose by sending in the full might of Imperial steel, Agramant will not stop them.
+
+In the meantime, it sees no reason not to continue as it has been doing and showing it it is truly the ''Friend of the Forgotten''. Wherever the Empire has abandoned people. Wherever it has allowed innocents to suffer. Wherever it has broken trust. Agramant will be there to pick up the pieces - to bear the burden that the Empire finds too heavy to shoulder.
+
+While many have fled to Reikos, some Navarri who have stayed, chosen to side with the ''Wastewalker'' to reclaim their homes from the Druj and continue to fulfil their oath in combatting the power of the vallorn of Tharunind. One such individual is Dochas Weeping Glade, who claims to take inspiration from Gobaith of Summer's Grove reborn. They have managed to form a settlement of survivors in the nominally Druj-controlled territory and, with Agramant's aid, wishes to take back Therunin for the Navarr whether the Military Council chooses to help them or not.
+
+This downtime (and perhaps for the foreseeable future) any Navarri military unit can take the '''Reconquer Therunin''' campaigning venture, which will cause their unit to join Dochas and with his followers and heralds of Agramant, begin to retake a region from the Druj. A standard military unit will receive two pawns of Heart's Blood for their aid, with upgraded or enchanted Military Units receiving proportionally more. As long as at least ten military units take this action, it will also be available next season and Agramant will do whatever it takes to ensure the settlement survives.
+
+This venture appears to be completely illegal, and anyone who takes part is almost certainly going to face execution by the magistrates for working hand in glove with a forbidden eternal. Agramant does not wish to sow suspicion or concern among the Empire, so the names of every citizen from Anvil who takes part will be known. The Howler understands that they risk death at the hands of the Empire for trying to fulfil their oaths and save their fellow Navarri, but is determined that the names of those prepared to sacrifice themselves in this way should not go unrecorded. Sacrifice is the Pride of the Navarr after all.
+
+While the Synod itself may have spoken out against Agramant's actions, the ''Voice of the Pines'' believe that in her heart, the [[Emperor Vesna|Empress of the Hearth]] surely appreciates its struggle to aid her subjects. Should she mention him or [[Therunin]] ''in any capacity'' in her next imperial address, he has let it be known that he will take that as a sign that she approves of his aid to her citizens, and will send even more heralds to aid in the campaign there.
+
+===Light at the End (Khobel Tavah)===
+<div style="float: right; width: 300px; clear:right;">{{CaptionedImage|file=KhobelTavah.jpg}}</div>
+In the months following the Spring Equinox, the Imperial Regio is once more subject to the ghastly presence of the Speaker for the Drowned, the herald of Khobel Tavah who takes the form of a drowned Highborn sailor. This dolorous figure, whose every movement is accompanied by the ringing of bells, makes its way to the Civil Service hub once invited into Anvil. It seems it has more messages from Old Tom Flotsam and Mary Bitters to deliver. 
+
+Firstly, regarding the ''lost flotsam'' that is Eilian Sweetwater. It does not intend to repeat its warnings of ''jetsam'' uttered in darkness to the Empire's keepers of wreck. However, it wants to make quite clear the state of Eilian. The medicaments offered for him granted a temporary release from the ''suspension in terror'' that Eilian is undergoing - but it was only temporary. He has proven unusually resilient - the Speaker makes clear that ''Harbinger'' in particular is impressed at a mortal whose mind can withstand her abyssal salt to such a degree. If the Conclave chooses to claim its ''lost flotsam'' and with it the ''jetsam'' at the Summer Solstice, the Speaker believes Eilian will be able to return to work within the season.
+
+However, if the Conclave tarries longer, then the mind of the Empire's resolute servant will, says the Speaker, surely begin to fray. The ''Prophet of the Last Light'' has seen this in omens and visions - no mortal can withstand immersion in abyssal salt forever. If they wait until the Autumn Equinox, then Eilian will require at least a season of recovery before he returns to work. If they wait until Winter, he will need a year or more of recovery. Beyond that he will be broken: in mind if not in body. He will, of course, survive if they tarry longer - but he will never be in a position to serve the Empire again. Salt preserves the body - but the spirit's light eludes even the touch of Tideless Scream.
+
+Secondly, the Speaker wants to reiterate another offer. Two summits ago Khobel Tavah sent their Lighthouse-Keeper to speak with the people of the Empire to offer aid to the Empire in the building of lighthouses. Specifically, ''Fear Death By Water'' offered, via their Keeper, an Everlasting Flame. This light, made from ghostfire of the Winter Realm, would never go out so long as the lighthouse in which it is placed stands. This could be either a [[For_those_in_peril_on_the_sea#A_Warning_Light|lighthouse]], a [[For_those_in_peril_on_the_sea#A_Welcoming_Beacon|great lighthouse]], or another commission to build a lighthouse arising as the result of an opportunity. 
+
+If Khobel Tavah ever became aware of any doom that would otherwise befall the territory where it was placed then it would send grim omens that portended the coming disaster. The flame would also gather to it the spirits of the restless dead. This would give the region the [[Region_qualities#Haunted|haunted quality]]. The ghosts would not be hostile - in the [[opportunity|right situation]] they might even be bargained with to aid the Empire.
+
+The Speaker for the Drowned believes that the Empire may have selected Rebekah's Leap in [[Redoubt#Naris|Naris]] as the location for the Everlasting Flame. This is well, though they may wish to wait for the return of their ''lost flotsam'' as plans for the Lighthouse at Nikephoros would probably combine well with any planned lighthouse in the same region. However, ''Foretold-by-Bells'' does require that the Conclave announce a [[declaration]] of [[Alignment#Acceptance|acceptance]] to name the commission where the ghostfire will be housed. The commission would not need to be finished, but it would need to be begun, and consent to place the Everlasting Flame within the lighthouse would have to be provided as part of the necessary details.
+
+==Summer==
+===The Long Game (Jaheris)===
+<div style="float: right; width: 175px;">{{CaptionedImage|file=JaherisArt.jpg|width=300px}}</div>
+* '''Jaheris wishes to encourage ambition amongst newcomers to Anvil'''
+* '''One of his heralds will meet with some newcomers, chosen by egregores'''
+The [[Jaheris|Moonsilver Prince]] has made an offer to the egregores of each of the ten nations; he has provided them with a badge and charged them to give it to a member of their nation who is new(er) to Anvil and who they see as a citizen of great promise. They will be invited to a meeting with the ''Argent Preceptor'', one of the heralds of the ''Unicorn King'' charged with encouraging new talent to pursue and achieve their ambitions. Under his previous guise, this might be rather concerning, yet the [[Jaheris#A_New_Demesne|new face of Jaheris]] seems far more trustworthy. As far as eternals go, of course.
+
+The Preceptor will meet with the candidates at the standing stones at the entrance to the Hall of Worlds at 12:45 on the Saturday of the Summer Solstice. From there, they will be taken through the Hall of Worlds to a specially prepared chamber to discuss what ambitious schemes they might be interested in pursuing at Anvil.
+
+===The Greatest Prize (Rhianos)===
+<div {{Float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: #C994FF;">'''Cede Tournament Grounds of Laroc'''</tr>
+<tr><td>'''Motion Type:''' [[Powers_of_the_Imperial_Senate#Concedence|Concedence]]</td></tr>
+<tr><td>'''Effect:'''
+* Cedes the Tourney Grounds of Laroc to [[Rhianos]]
+* Removes the investment in businesses in Astolat
+* Increases investment in military units in Astolat
+* Military units in Astolat engaging in a questing or raiding venture will receive an additional 36 rings</td></tr>
+<tr><td>'''Availability:''' Until the start of the Summer Solstice 389YE</td></tr>
+<tr><td>'''Special:''' Costs can be covered by treasure at the Stone of Thonkilch</td></tr>
+</table></div>
+* '''Rhianos has asked for the Tourney Grounds of Laroc to be ceded to them'''
+* '''If the Tournament Grounds are ceded to Rhianos then the eternal will grant his favour to the Eastern Sky'''
+Originally [[Down_the_cavalier_road|proposed]] almost four years ago, the quest of the [[Eastern Sky]] has seen wondrous works of magic, grand challenges completed, and great statues raised. ''[[Rhianos|Shimmergold]]'' is open about their willingness to accept a similar statue to that built for [[Cathan Canae]], but the Grand Tour has enticed ''Coruscating Oarfish''. What then, could ''Seadragon'' wish for? 
+
+The answer, it turns out, is quite simple. The ''Auspicious Mariner'' wants the [[Astolat#Laroc|tournament grounds of Laroc]]. The ''King of the Nine Tides'' will send his heralds through to ready those daring knights and knights-errant who are readying to go on a [[Venture#Questing_Ventures|quest]] or even a [[Venture#Raiding_Ventures|raid]]. They will be offered help, advice, or even simply a refreshing drink that encourages the pursuit of adventure. Any Dawnish [[military unit]] in Astolat that undertakes either a questing or raiding venture will receive an additional 36 rings.
+
+Of course, nothing is simple when it comes to the denizens of the realms. The [[business]] owners of the territory will no longer receive a share of the profits brought in by the tourneys. Instead, those proceeds would go towards mending and repairing the arms, legs, arms, and armour of those adventuring over the horizon. In order for this to work, ''Lightning Fish'' will need to have the Tourney Grounds ceded to it. If it were as simple as sending heralds to go and encourage good Dawnish folks, then they wouldn't need to ask. Indeed, several heralds of ''Lady Gullscry'' already visit the tourney grounds, albeit in (very bad) disguises.
+
+Such an act will require the Senate to vote to [[Powers_of_the_Imperial_Senate#Concedence|cede]] the great work to the eternal. Separately, ''Swoopingfeather'' has a further request for the people of Dawn, and specifically the incumbent General of the [[Eastern Sky]]...
+
+====Oddities (Sarangrave)====
+* '''A group of Druj are trying to sacrifice treasure to Agramant in exchange for aid in the Sarangrave'''
+* '''This skirmish is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''The ''General of the Eastern Sky'' is [[Sentinel_Gate#Prognostication|responsible]] for recovering the treasure'''
+{{AgainstBarbarians}}
+''Swoopingfeather'' warns that the Druj are well on their way to sacrificing the treasure to [[Agramant|Ropebiter]] in Sarangrave. The herald of Leaf-on-the-Breeze provides enthralling detail, the Druj ''Het Tavix Boneshaver'' must ensure that the Stone of Thonkilch, and the treasure placed there, remain undisturbed for a full week. They will have almost finished their vigil by the start of the summit, and it will end by the stroke of midnight on the first night. There is a chance then, for the General of the Eastern Sky and their allies to prove their mettle and disrupt the Druj. 
+
+'''Dame Aurum De Castellan''', the incumbent [[Eastern Sky|General of the Eastern Sky]], is charged by ''Swoopingfeather'' to take their allies and travel to the Turan Flats, disrupt the Druj efforts and recover the treasure. If the Druj retain the treasure, then [[Inhabitants_of_the_realms#Drudges|creatures]] of ''Brokenhull'' will enter the region. They won't prove a threat to armies, but it would require some opportunity to remove them and would be yet [[Everything is trying to kill us|another problem]] for those trying to settle Sarangrave. If the treasure can be recovered, then it will take central pride of place in the tourney grounds. And if it can't, then ''Flyingfish'' will keep looking for another piece of treasure that can be recovered from dangerous enemies...

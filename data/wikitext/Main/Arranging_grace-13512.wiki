@@ -1,0 +1,177 @@
+[[Category:Winds of Fortune]][[Category:388YE Spring]][[Category:Appraisal]]
+<ic>
+"It's a lovely idea Genia, I'm all for it ''in theory''... but you've no reason to imagine that the Senate will approve this... what did you call it?"
+
+"Cat's Graces," the elderly prince answered, deliberately cutting in before her host could continue. "And you're quite right of course Wilhelm. There's every chance our parsimonious Senate will run a mile when they see the results of their appraisal. But," she said, raising her finger to ensure Wilhelm understood she was still talking. "I take heart from the fact that the Throne chose to appraise the Cat's Graces first... doesn't that rather suggest something?"
+
+Wilhelm's goblet of wine was half way to his lips when he realised Genia was giving him an opportunity to get a word in edgeways. "Maybe all it suggests is that the Throne thought this idea would be the least bother?" he responded.
+
+"Maybe," conceded his guest, "but surely Emperor Vesna can't help but be moved when people start drawing comparisons between the new Throne and Empress Richilde? Why even the paragon herself never attempted something so bold." Genia Bourné stood up and spread her arms imploringly. "What happens" she demanded, "when people point out that there has never been a Throne, before or since, who did as much for Imperial culture... until now?"
+
+"Are people pointing that out?" asked Wilhelm, looking unconvinced.
+
+Genia draw her hands together, "Well they are now.." she grinned.
+</ic>
+<div style="float:left; width: 40%; clear: right;">{{CaptionedImage|file=Faces of the Empire.jpg|align=left|caption=The Cat's Graces would be an Imperial sodality dedicated to spreading and supporting Imperial art of all kinds, to all nations.|width=2000}}</div>
+==Overview==
+{{audio|link=https://youtu.be/wmx-j0mSzQ4?si=njov54Togah5JnLc}}
+Following from the [[Forever_is_composed_of_nows#The_Abraham_Gambit|suggestions of Magistrate Abraham]] last season, [[The Throne]] has instructed the [[Civil Service]] to [[appraisal|appraise]] the constitutional implications of the creation of a new [[Imperial sodality]] each season for the coming year. [[Emperor Vesna]] has instructed them to [[387YE_Winter_Solstice_Senate_sessions#Appraise_the_Cat's_Graces|review the manifesto of the ''Cat's Graces'']], a potential Imperial sodality concerned with the promulgation of the arts across the Empire. By all accounts the group has strong backing across [[Anvil]] but a [[Senate motion|motion]] to [[387YE_Summer_Solstice_Senate_sessions#Establish_the_Cat's_Graces|formalise the Cat's Graces as an Imperial sodality]] narrowly failed to pass the [[Senate]]. In the opinion of many observers, this failure was due to concerns over the potential constitutional implications that creating any new sodality might have.
+
+This is not an unreasonable fear given the massive constitutional headaches caused by the creation of the [[Imperial Apothecaries Guild]] sodality. There are innumerable organisations and fellowships that span the Empire; nobody needs the permission or approval of the Imperial Senate to meet with friends to discuss common goals. An Imperial sodality is different. They exist as extensions of the Imperial government, a way to grant a body real legal powers so that they can directly contribute to the running of the Empire. Creating a sodality always requires a [[Senate_motion#Constitution|constitutional vote]] - just as the [[Imperial Constitution]] recognises the role of the [[Conclave]] to govern magic, an Imperial sodality of herbalists or artisans would be expected to have an equivalent remit.
+
+[[Scrutiny#Constitutional_Court|Magistrate Abraham]] has done as promised and, in conjunction with his peers, provided his best analysis for what it would mean if the Senate were to go ahead and approve the Graces based on their manifesto. News of the Throne's decision to look into the creation of a sodality dedicated to the arts inevitably provokes considerable interest from groups around the Empire whose priorities align, to a greater or lesser extent, with the Cat's Graces. Several come forward with provisional offers of support, should the sodality get approval in the Senate. Of course some these groups have agendas of their own that they are keen to push.
+
+==Consequences==
+* '''Empress Vesna has asked the Civil Service to assess the constitutional implications of the Cat's Graces'''
+* '''The symbol and manifesto have been provided and Magistrate Abraham has delivered their analysis'''
+Empress Vesna announced that the symbol of the Cat's Graces would be a cat holding a scroll of paper and that a Maestro would be appointed to speak for the sodality. The announcement referred to them as the "leader" of the sodality, which Magistrate Abraham is quick to rule out. Any attempt to put someone "in charge" of the new sodality would be as unconstitutional as an attempt to put someone "in charge" of the [[Conclave]] or the [[Synod]]. The sodality can be represented by a Maestro - but not led by them. This minor criticism aside, the manifesto is otherwise described as being "elegant and concise" - qualities the magistrate appears to rank just below the seven Virtues.
+
+<quote by="Manifesto of the Cat's Graces"> This sodality is dedicated to art and music, it holds the following to be true: 
+* Arts are for everyone to enjoy, no matter their skill; 
+* Virtue demands that we give space for joy as well as for work; 
+* The value of a nation is judged by its culture as much as its might.
+
+The sodality therefore exists to: 
+* Support and promote creatives, providing opportunities to exhibit their talents; 
+* Share learning through the arts, fostering understanding between peoples and traditions; 
+* Ensure creators are valued, and that their work is recognised and fairly rewarded.
+</quote>
+
+In the view of the Court, the proposed manifesto lays out a clear role for the Cat's Graces to take responsibility for promoting the arts across the Empire. Abraham notes that it avoids common problems such as making lists of activities the sodality will be responsible for, or specific arts that they will be the patrons of. The Court encourages ''any'' sodality to look to the language employed in the Constitution. Statements like ''"The Conclave shall ensure the fit and proper use of magic in the service of the Empire"'' don't attempt to lay out what a fit and proper use of magic is, nor say how the Conclave will achieve that objective. That is a matter for [[Imperial law]]. Instead the constitution establishes the key principle of ''what the Conclave is for''.
+
+Abraham in particular notes that it is important for Imperial citizens to understand that when a manifesto says "The sodality therefore exists to", that should be understood as the direction laid down by the Imperial Senate and the Throne. These instructions are for the sodality and its members to let them know what is expected of them, for the Civil Service so that they know what support to offer, and for the Constitutional Court so that they know what role the new sodality will play.
+
+The most natural interpretation of the manifesto laid down by the Senate would be to make the new sodality responsible for the promotion of the arts across the Empire, with the aim that they foster understanding between different nations and ensure that the Prosperity of artists is recognised and fairly rewarded. The manifesto also has international implications - the word "nation" does not only refer to the ten nations that make up the Empire after all - but only on matters directly related to art and artistry.
+
+Fine as a principle then; what would it mean in practice?
+===Appointments===
+* '''The well worn path for any Imperial title with responsibility for culture or the arts would be election by the Cat's Graces'''
+* '''There are seven extant titles that would change appointment method to election by the Cat's Graces'''
+<div style="width: 350px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Affected Titles'''</td></tr>
+<tr><td>[[Azure Sutannir]]</td></tr>
+<tr><td>[[Curator of Memories]]</td></tr>
+<tr><td>[[Curator of the Blood Red River]]</td></tr>
+<tr><td>[[Dean of the First Voice Glade]]</td></tr>
+<tr><td>[[High Bard of the Empire]]</td></tr>
+<tr><td>[[Voice of the Twin Roses]]</td></tr>
+</table>
+</div>
+There are several Imperial titles whose responsibilities are concerned with culture and the arts. The most obvious example is the [[High Bard of the Empire]], an important position whose responsibility includes the need ''"to promote and encourage excellence and passionate demonstration of artistic performance across all the nations of the Empire"''. Currently this position is elected by the [[Assembly of the Nine]]. Music does have an important role in Virtue, as demonstrated by [[:Category:Musical_Instruments|magic items like]] the [[Celebrant's Fiddle]], but the High Bard's [[High Bard of the Empire#Responsibilities|responsibilities]] make it clear their remit extends to art rather than matters of spirituality.
+
+With the creation of the Cat's Graces, the only constitutionally valid path for the appointment of titles with responsibilities of this kind - supporting and promoting art and artists - would be via vote of the Cat's Graces sodality.
+
+The Civil Service have conducted a preliminary review of all current Imperial titles to identify those that would be affected. If the Senate approves the Cat's Graces in the current form, each of the listed positions would change - going forwards it would be elected by vote of members of the sodality. No other details would change; titles with tenure like the [[Azure Sutannir]] or the [[Dean of the First Voice Glade]] would only come up for election by the sodality at the point where the incumbent died, stepped down, or was [[revocation|revoked]]. National positions would be voted on by all members of the sodality, but only citizens of the relevant nation would be eligible to hold the title. The unusual limitation on the [[High Bard of the Empire]], which prohibits any person from holding the title more than once in their lifetime, would continue unchanged, and so on.
+
+The constitutional implications of the sodality's existence would also impact any [[New Imperial titles|new Imperial title]]. The [[New_Imperial_titles#Well_Worn_Paths|well worth path]] for any position whose primary responsibilities included the creation or promotion of culture or the arts, would be appointment by simple vote of members of the Cat's Graces sodality.
+
+===Mistress of Monuments===
+* '''The current responsibilities of the Mistress of Monuments would see the title changed to election by the Cat's Graces'''
+* '''The Senate could refine the responsibilities of the title to keep it elected by the Imperial Synod'''
+
+Members of the Constitutional Court have been unable to completely agree on the matter of the [[Mistress of Monuments]]. Leontes argues for a literal interpretation of the position's responsibilities, which demands the title ''"work with Imperial artists to commemorate inspirational actions and significant events with monuments and statues"''. The emphasis on working with Imperial artists with a goal to commemorate significant events the position firmly with the remit of the new sodality, according to the Imperial Archivist. Leontes insists it must be updated accordingly - if the sodality is approved.
+
+In contrast, Magistrate Abraham argues that the responsibilities include an emphasis on inspiration - a term widely used in the context of the paragons and exemplars - collectively referred to as "inspirations". If the responsibilities of the title were to create statues of paragons and exemplars, to inspire Virtue or to celebrate Virtuous actions, then it could be appointed by the Synod or the new sodality. 
+
+Unable to agree on a definitive solution, the two scholars settle on a compromise. If the Imperial Senate approve the creation of the Cat's Graces but do not make any changes to the title's responsibilities, then the title will be appointed by the new sodality henceforth. If the Senate change the responsibilities of the title to make it clear that it is primarily concerned with creating statues and monuments of the "inspirations" and commemorating Virtuous events, then it will appointed by the Assembly of the Way.
+
+===Powers===
+{{CaptionedImage|file=Magistrate Abraham.jpg|caption=Magistrate Abraham, a constitutional scholar and part of the<br>[[Scrutiny#Constitutional Council|Constitutional Council]]|align=right|width=300}}
+* '''At present there are no legal powers that would be automatically delegated to the Cat's Graces'''
+* '''Any new legal powers created by the Senate that were ''solely'' concerned with culture and the arts would be delegated to the new sodality'''
+* '''Any existing legal powers that could be used to promote the arts ''could'' be delegated to the sodality'''
+
+At present there is no branch of the Imperial government that is explicitly concerned with the promotion of the arts. Perhaps because of that, there are no legal powers whose primary purpose is concerned with culture and the arts. The Constitutional Court have reviewed the various areas of government, and have not identified any power of the five great houses that would be automatically transferred to the sodality, other than the appointment of the titles listed above.
+
+The creation of a new sodality has profound implications for the Constitutional basis of the Empire, even if no existing powers are transferred to the new body of state. The argument could be made that the Imperial government does not currently have any legal powers that serve to promote culture and the arts precisely because there is no body of state to wield those powers. That would change if the new sodality were approved by the Senate - if that happened then the well-worn path for any new legal powers whose '''sole''' remit was to promote culture and the arts would be vote of the sodality. For example, if the Senate elected to create a book of songs, to be updated with a new contribution each season, then the well worn path for that power would be a vote of the Cat's Graces.
+
+Any legal powers that ''could'' be used to promote the arts, but were not solely concerned with such matters, could be delegated to the Cat's Graces, provided they did not impinge on the Constitutionality protected roles of the other houses. For example, the Cat's Graces could be given the power to compile, maintain, and promote knowledge of the [[music of the spheres]] or [[dramaturgy]]. Without the sodality, that power would have to be vested in the Conclave - but if the sodality existed, then it would be constitutional for the Cat's Graces to wield the power or the Conclave, depending on the decision made by the Senate. However, the sodality could ''not'' be given the power to control the use of [[music of the spheres]] or [[dramaturgy]] to perform magic. The Constitution is clear that that power to ensure the fit and proper use of magic ''must'' lie with the Conclave.
+
+A number of the existing legal powers of other houses ''could'' be delegated to the sodality, if they could be used to promote the arts. The Senate could grant the sodality the ability to announce one or more commissions each season. They might include [[Edifice|edifices]], [[sinecure|sinecures]], and even [[great work|great works]] in theory. They might be given the ability to commission [[historical research]], given the amount of history that resides in the form of songs, poems, and stories (although the Empire's current ability to perform historical research is sorely limited). Likewise it would be constitutional for the Senate to grant the sodality the power to perform an [[appraisal]].
+
+===Singular===
+<div style="float:right; width: 350px; clear: left;">{{CaptionedImage|file=Story Circle.jpg|align=left|caption=Stories and songs bring the past to life and offer hope for the future.|width=450}}</div>
+* '''It would not be possible to create a second sodality concerned with culture or the arts'''
+Imperial Sodalities are also "singular", and the Cat's Graces are no exception. Once approved by the Senate, a sodality forms part of the Imperial government, with a clearly defined constitutional role. That role must be unique and singular - there cannot be two sodalities in the Empire with overlapping concerns. If the Imperial Senate approves the manifesto of the Cat's Graces, then it would not be possible to create a new Imperial sodality charged with the promotion of culture and the arts without first abrogating the existence of the Cat's Graces.
+
+==Possibilities==
+There are many powers that the Imperial Senate could grant the new sodality. News of the sodality and the the new possibilities it presents attract the interest of three distinct groups who are all keen to offer their support if the Senate approves the sodality and provides it with the legal powers it will need to discharge its responsibilities.
+
+===A Fresh Coat of Paint===
+<div style="float:right; width: 350px; clear: left;">{{CaptionedImage|file=Grand Endeavours.png|caption=Imperial artists provide inspiration for grand projects.|align=right|width=600}}</div>
+* '''The Senate could give the Cat's Graces the ability to refine existing commissions'''
+* '''The support of the songbirds would let the sodality deploy artists to improve structures for without requiring a commissions or costs'''
+* '''A refined structure would increase in grandeur, and the work of the artists might unlock an opportunity related to it'''
+
+While some [[commission|commissions]] are themselves works of art, since time immemorial artists have been employed to brighten up gloomy old castles, or breathe new inspiration into a dour church. The Cat's Graces are ideally positioned to organise artists - painters, sculptors, artisans using stained glass and light to create breathtaking arrangements - to turn their talents to just such a purpose.
+
+The Senate would need to grant the sodality the power to [[Commission#Altering_an_Existing_Commission|alter existing commissions]]. This would allow them to redesign the appearance of an existing commission, recent or historical ('''OOC Note:''' historical commissions are structures canonically constructed before the game began such as the many basilicas in Bastion, the walls of [[Kahraman#Serra_Damata|Damata]] and the like). By itself this power would likely be of limited use - it would consume one of the Senate's dwindling supplies of commissions, and require significant investment of funds to beautify even the most minor commission.
+
+A small delegation of [[Empress Richilde#The Songbirds|songbirds]] - dedicated artists and patrons who look to the inspiration of the [[paragons and exemplars|paragon]] [[Empress Richilde|Richilde]], come to the Castle of Thorns with a proposal to help the new sodality. The songbirds includes many wealthy backers of the arts among their numbers. The informal collective, inspired by the efforts of their patron Empress to shape the Empire through her patronage of art and beauty, are roused to take a more active part on the Imperial stage by news of the potential new sodality. They see the Cat's Graces as being very much in line with the lessons of the Sun Queen.
+<div style="float:right; width: 350px; clear: left;">{{CaptionedImage|file=Black-naped Oriole.jpg|caption=The songbirds, an informal calling associated with Empress Richilde, use birds to demonstrate their membership and one of the most popular is the brightly coloured oriole, known for its fluting calls.|align=right|width=350}}</div>
+If the Senate will grant the sodality the power to alter at least one recent or historical commission each season, then the songbirds and their allies will provide the funds and help organise the artists required. Each season the sodality could choose a single commission and ask the Empire's artists to look at altering the appearance and character of of the commission. Such work would take three months - but would not cost the treasury any money, nor cut into the Senate's limited number of commissions each season.
+
+The Maestro would be responsible for providing a thorough description of what the sodality ''wants'' the artists to do. Provided they have a clear artistic brief which is ambitious and inspirational, then they're ''likely'' to get roughly what was asked for. However, the Civil Service caution that engaging with artists does come with some risk: if those working on the commission don't feel inspired by the brief then they will complement or supplant them with their own ideas. Thus, the results are guaranteed to be ''impressive'', they're just not guaranteed to be exactly what was requested. Such is the nature of art.
+
+The work of talented folk could have unlooked for benefits however. Having scores of imaginative artists examining a commission may just result in improved [[edifice#Grandeur|grandeur]] - or it might reveal an [[opportunity]] to make further improvements to it. If this happened, the Civil Service would present the option for improving the work discovered by the artists, for consideration by the Empire, once the alterations were complete.
+
+===Art for Art's Sake===
+<div style="float:right; width: 60%; clear: left;">{{CaptionedImage|file=Virtue Banners.jpg |caption=The seven Virtues serve as an inspiration to many artists across the Empire.|width=2000}}</div>
+* '''The sodality could be granted the legal power to define great works of art worthy of preservation and honour'''
+* '''Each season they could select a piece of art which would be lauded and recorded for future generations to enjoy'''
+* '''If the sodality were granted this power they would need to select a central location to house the artworks'''
+While artists create art for many reasons, a common drive is to seek the recognition and approval of their peers. The [[Synod]] has several ways to recognise exceptionally virtuous individuals - the [[Heroism#Chronicle_of_Heroism|Chronicle of Heroism]] and the [[Roll of Benefactors]] for example. The Senate could grant the Cat's Graces the legal power to find the finest artists in the Empire, promote their work across the Empire, and invite the accolades of their peers, just as the Synod currently does for the virtuous.
+
+If granted this ability, the sodality could select a single piece of art each season for promotion across the Empire. The form of the art would not matter, as long as it could be recorded in some way. It could be a painting, or sculpture, a new song or musical composition, a story, a play, or a poem. In some cases copies would be made and distributed; in others news of the art would be spread across the Empire and patrons of the art encouraged to visit. 
+
+The sodality could pick the finest piece of art produced that season, using the power as a way to recognise and reward artistic merit, or they could pick the most worthy, acknowledging that art is for everyone. After the sodality votes to choose which piece of art to honour, the Maestro could create a short summary of why the piece was chosen, why it is important and worthy of being honoured, and why it should be preserved. ('''OOC Note:''' We would look to add each song, story, poem or art to the wiki, along with the description of why it was chosen. The piece would be added to the sodality page, similar to how the [[Roll of Benefactors]] or the [[Heroism#Chronicle_of_Heroism|Chronicle of Heroism]] work).
+
+One of the first things the new sodality would need to do would be to identify a central repository of art that would serve specifically to contain copies of artistic endeavours and wherever possible house the artworks recognised by the sodality. There are a number of potential candidates including [[Dean_of_the_First_Voice_Glade#First_Voice_Glade|First Voice Glade]], [[Sarvos#Diora_University|Diora University]] in [[the League]], the scops' halls of [[Hahnmark#Kalpaheim|Kalpaheim]], among others.
+
+===Money for God's Sake===
+<div style="float:right; width: 350px; clear: left;">{{CaptionedImage|file=Instructors.jpg|align=right|width=400|caption=[[Senate Motions]] celebrates the art of dance in the Empire, meeting every summit in the Senate building.}}</div>
+* '''The Cat's Graces could operate a fund to provide grants to artists'''
+* '''The Civil Service would publish lists of notable donations to the fund by citizens at Anvil'''
+* '''Highborn benefactors and League princes commit to donate three thrones each season to the fund'''
+* '''These patrons would also match any funds the Senate provides up to six thrones a season'''
+
+Artists create for many reasons, but with few exceptions, every artist needs to eat and keep a roof over their head. The Synod has the [[Rewarding#Virtue_Fund|Virtue fund]] to reward the virtuous, the Cat's Graces could employ a similar mechanic to reward those who create art. Members of the sodality could seek out worthy artists, musicians, performers, writers, sculptors - anyone who has produced beautiful works of art. If a piece met with the approval of the sodality, they could vote to reward the artist for their endeavours and contribution to Imperial culture.
+
+As well as patronising artists directly, the sodality could use the money to support the many competitions that often taken place at Anvil, using the funds to pay for one or more prizes for the winners to claim. Ensuring such contests are well run and attract the most [[Ambition|Ambitious]] artists to take part should be part of the new sodality's remit in the view of the merchant-princes and benefactors. These funds might even be used to negotiate with the Empire's [[crafting skills#Artisan|artisans]] to secure the finest magical [[:Category:Musical Instruments|musical instruments]], or with magicians to create suitably enchanted performance spaces. They could even be used in theory to support [[commission|commissions]] for projects that support artists - such as the famous galleries and theatres of the League built by '''Lorenzo Macelliao "Il Volpe" von Temeschwar''' over the years. 
+
+The Senate could support the Cat's Graces by providing a [[New_Imperial_titles#Stipend|stipend]] to the Imperial sodality. If that happened, the Civil Service would provide the support required to allow the sodality to distribute those funds. They could also process donations to the fund from civic-minded citizens, maintaining and publishing a public record of benefactors. If the sodality voted to disburse money from the fund, the amount would be given to the Maestro in accordance with the sodalities wishes (The Senate could establish an office of the sodality to receive these disbursements). 
+
+An informal alliance of patrons of the arts - [[the League|League]] [[Merchant Prince|merchant princes]] and [[Highguard|Highborn]] [[benefactor|benefactors]] - are keen to help the sodality promote the arts. The group's spokesperson is [[Dressed_in_smoke_and_fire|Genia Bourné di Sarvos]], the merchant-prince of the influential Bourné fashion house. Familiar with the ways of Anvil from her youth, she suspects the Senate will not willingly dip into the treasury to fund the sodality and has come armed with a plan to try to pry open the Senate's purse.
+
+If the Senate grant any stipend to the sodality (even if the stipend is zero), then they will donate three thrones a season to the Cat's Graces to fund their work. Not a massive sum perhaps but not to be sneezed at - potentially it could change the career trajectory of artists rich in talent but poor in funds. Crucially this would ensure Civil Service support for the fund - ensuring there was a public list of notable benefactors in Imperial records. [[Prosperity|Prosperous]] individuals might enjoy seeing their donations immortalised in permanent record - if ''il Volpe'' taught nothing else, says Genia wryly, it is that those who consider themselves wealthy and cultured are always susceptible to the flattery of formal validation of their role as patrons. 
+
+However, the group are prepared to go further. Genia Bourné and her allies commit to ''match'' any stipend provided by the Senate, up to a maximum of six Thrones a season (Genia is enthusiastic about the arts but she is not stupid). All that is required to secure this investment is that the sodality commit to being public and transparent with how they disburse their grants. The benefactors want to be confident their monies are going to the arts and not (for example) paying for armies or funding extravagant dinners.
+
+==What's In A Name?==
+<div style="float:right; width: 350px; clear: left;">{{CaptionedImage|file=Music and joy.jpg|align=left|caption=Music brings joy, and rouses powerful emotions in the people of the Empire.|width=450}}</div>
+* '''Some potential supporters have questioned the name of the sodality'''
+It would be unusual for anything involving the arts to receive unleavened positivity from artists, and the Cat's Graces is no exception. Supporters are eager to offer their support for the new sodality, but many of them have one request. They argue that the proposed name of the sodality doesn't successfully convey its status or importance. The point of a sodality, they argue, is to found an institution, an extension of the Imperial government. Simply by existing, the sodality conveys the importance of the arts, it demonstrates that the Empire takes the arts as seriously as it does war, economics or magic. Or at least it would do that if it bore the right name.
+
+The Cat's Graces, they complain, is too ''parochial''. It doesn't sound like some grand extension of the Imperial government: the Conclave, the Bourse, the Military Council and ''the Cat's Graces''? Their concern is that the Empire often fails to take the arts seriously, and while they would welcome the creation of the new Imperial sodality whatever name it bears, they would clearly prefer something that they feel would convey the importance of the sodality and by extension of the arts themselves.
+
+A more practical complaint is that Cat's Graces is a very evocative name for a sodality devoted to music and especially dance - but a numbers of artists question if it is the right name to attract painters, sculptors, writers, actors, playwrights, poets and the like. Of course that immediately raises the question of what that name might be - and it is very clear that nobody has a better suggestion... (which is to say ''everybody'' thinks they have a better suggestion, but none that anyone can agree on). The Academy is the word that most reach for, as a word that implies a grand institution, but that name is already taken. The Sun Chamber would have been equally acceptable to Richilde's followers, but of course there is already a sodality with that name also.
+
+Whatever the final choice, it is clear that the name of the sodality will be important in ensuring its legacy.
+==Resolution==
+The [[Cat's Graces]] sodality was [[388YE_Spring_Equinox_Senate_sessions#Establish_Cat's_Graces|established]].  It received the powers of refining a commission, of preserving works of art which it [[388YE_Summer_Solstice_Sodality_resolutions#Other_business|chose]] to be stored in [[Dean_of_the_First_Voice_Glade#First_Voice_Glade|First Voice Glade]], and its stipend was set by the Senate at 1 throne, creating a Patron's Fund starting at 5 thrones per season.
+
+==Further Reading==
+* [[Imperial sodality]]
+* [[Empress Richilde#Empress Richilde in Play|Songbirds]]
+* [[Forever_is_composed_of_nows#The_Abraham_Gambit|Forever is composed of nows]] - 387YE Winter wind of fortune introducing the opportunity to appraise Imperial sodality manifestos
+* [[Senate Motions]] - An informal group that meets each season to celebrate the art of dance
+
+<quote by="Magistrate Abraham, Excerpted from the ruling on the Cat's Graces">
+Citizens of the Empire neither require, nor benefit from, the approval of the Imperial Senate to gather together with a common purpose. The Imperial Constitution guarantees dignity, freedom, and prosperity. That seemingly simple statement, precludes any possibility that the Senate might interpose itself into the right of citizens to congregate and pursue their legitimate ambitions. If the function of the Cat's Graces were ''merely'' to support the arts and promote culture it would have no business at all being an Imperial sodality. To permit that would be to entertain the possibility that the approval of the Senate and the Throne were in some way a requirement for the Cat's Graces to exist. That cannot stand.
+
+It is the constitutional vote required to enact its creation, that grants a sodality its significance. That it requires a two thirds majority of the Imperial Senate and the approval of the Throne places the creation of a sodality infinitely beyond a motion of mere intent. Passing a motion to create a sodality must be properly understood as a change to the Constitution itself. When interpreted properly, it creates a new body of state, and charges it with duties and responsibilities, which on the face of it, we must regard as the equal of the other houses of power. If the Senate approves the proposed wording of the Cat's Graces, then it is laying down the responsibilities of that body, in exactly the same way the founders laid down the responsibilities of the Military Council, the Conclave, the Bourse and the Synod.
+
+The Imperial Constitution tolerates no hierarchy of power - it permits no vassalage. The Military Council shall ensure the rigorous defence of the Empire - and so the orders of generals are not subject to the approval of the Senate. While the power to create new laws and amend the Constitution is vested in the Senate, it is the Synod that may strike down a motion and thereby ensure the virtuous behaviour of the Empire. Of course such an arrangement creates conflicts between the rights and privileges of the houses of power - that is undeniable and unavoidable. It is the solemn duty of this Court to settle those conflicts and in doing so ensure the Constitution retains its integrity and purpose. In resolving those dilemmas, this Court begins with the view that the rights of each house of power is transcendent, ''within its own dominion''.
+
+As it is with the Bourse or the Conclave, so it would be with any sodality. It is vital that senators understand that the Senate <u>cannot</u> approve members of the Cat's Graces to meet with the purpose of promoting the arts. What they <u>can do</u> is change the understanding of the Constitution such that it can be plainly read that the Empire vests responsibility for the promotion of the arts in the Cat's Graces - ''with all due seniority thereby implied''.
+</quote>

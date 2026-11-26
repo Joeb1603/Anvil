@@ -1,0 +1,19 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Proposed: Kahraman, Seconded: Segura">To re-design the currently unused Pallas Docks ministry to allow the purchase of weirwood from the Sarcophan Delves, as per the proposal in Autumn by the Debruin Family of the House of the Bear. The name is to be changed to the Debruin Docks (as per the details in the opportunity) to be overseen by the Prime Factor of the Pallas Docks, which is to continue to be appointed as an Imperial Bourse position to bolster the Senate's funding. The Ambassador to the Delves is in support. To be self funded</quote>
+==Overview==
+* Amends the ministry in Limus, Redoubt as per the '''[[Hyenas_and_herbs#Cargo_for_Cargo|Hyenas and herbs]]''' wind of fortune
+* Passed
+
+==Date==
+* Winter 386YE
+
+==Cost==
+* Costs as per opportunity
+* 90 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Redesign_Pallas_Docks}}
+==Outcome==
+* Once complete, the Pallas Docks will be reopened as the Debruin docks, amending the Custodian of the Pallas Docks as the Custodian of the Debruin Docks

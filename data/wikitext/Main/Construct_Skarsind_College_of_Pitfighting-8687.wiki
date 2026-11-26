@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:383YE Autumn]]
+__NOTOC__
+<ic>To commission a business sinecure, the Skarsind College of Pitfighting, creating the title Pitmaster. 10 wains of white granite, in Skogi, Skarsind.
+<br>''Announced by Palerictus Dura, Bearer of an Imperial Wayleave''</ic>
+==Outcome==
+* Construct a [[sinecure]] in [[Skarsind]]
+* Announcement
+==Date==
+* Autumn 383YE
+==Cost==
+* Standard costs apply as detailed [[Sinecure#Costs|here]].
+* 10 wains of [[white granite]]
+* 20 crowns in labour costs
+* three months to construct
+==Progress==
+{{CommissionProgress|Skarsind_College_of_Pitfighting}}
+==Campaign Outcome==
+* Once completed this commission will be overseen by the title [[Pitmaster]]

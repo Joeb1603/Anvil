@@ -1,0 +1,19 @@
+{{CaptionedImage|file=KennelMaster of Hay.png|caption=The kennels of Hay is home to fine hounds.|align=left|width=200}}
+==Overview==
+The Kennelmaster of Hay is a [[the Marches|Marcher]] [[Imperial title]] created by a [[Construct Kennels of Hay|motion]] raised by '''Sally B-Baker''', [[Mitwold|Senator for Mitwold]], and passed by the Senate in Autumn 387YE. The position of Kennelmaster is responsible for ensuring good practice by the kennelmasters of the Golden Downs and protecting the Kennelmaster of Hay's Home for Wayward Dogs.
+ 
+==Responsibilities==
+The Kennelmaster of Hay has a responsibility to ensure that good practices are met by the kennelmasters of the [[Mitwold#Golden Downs|Golden Downs]]. If any kennelmasters from the Golden Downs, or their customers, had an issue with standards or practices, then they would turn to the Kennelmaster of Hay in the first instance. In addition, if the Kennelmaster of Hay's Home for Wayward Dogs, its workers, its hounds, or its customers were to be threatened in any way, it would be the responsibility of the Kennelmaster to deal with those threats.
+
+==Powers==
+===Profitable Reputation===
+The Kennelmaster of Hay receives a total of one throne, two crowns, and sixteen rings each season from the kennels.
+
+==Appointment== 
+The Kennelmaster of Hay is appointed by unanimous decision of [[the Marches]] [[senator|senators]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead. 
+
+The title can be held by a Marcher citizen. The Kennelmaster has tenure and serves until they die, step down, are successfully [[challenge|challenged]], or are revoked. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Marcher [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=FILE.png|caption='''NAME''', Kennelmaster of Hay|align=left|width=400}}-->
+{{RecentElections|Kennelmaster_of_Hay}}
+[[Category:Title]]
+[[Category:The Marches]]

@@ -1,0 +1,103 @@
+---
+title: Cetratus and the sword scholars
+source: https://www.profounddecisions.co.uk/empire-wiki/Cetratus_and_the_sword_scholars
+class: in-character
+topic: nations/urizen
+categories:
+- Urizen
+- History
+last_edited: '2025-09-07T13:01:16Z'
+revision: 127770
+---
+
+# Cetratus and the sword scholars
+
+*[Image: Cetratuswas by all accounts a sentinel in pre-Imperial Urizen who had multiple encounters with Sulemaine and her sword scholars .](https://www.profounddecisions.co.uk/empire-wiki/File:NBUrizen.jpg)*
+
+## Overview
+
+During the Spring Equinox 384YE, the [Minister of Historical Research](../../../mixed/titles/Minister_of_Historical_Research.md), **Severin Teyhard von Holberg** commissioned the [Department](../../../mixed/government/senate/Historical_research.md#the-department-of-historical-research) "to conduct historical research into the actions of General Cetratus and their involvement with the "*Claw of the Dragon*" with specific reference to the history of the [sword scholars](Sword_scholar.md)." The Department researchers consulted a number of historical and literary sources, both those held in sword scholar [temples](Spire.md#temples) and the [citadels](Spire.md#citadels) of the [sentinels](Sentinel.md) to find out as much as they could about the so-called general.
+
+## The Story of Cetratus
+
+Cetratus is a character who appears in a sword scholar history referred to as "renowned general Sentinel Cetratus" and is presented as a being especially power-hungry. According to the tale, Cetratus sought to use them to create a new government in [Urizen](Urizen.md), to rule over the [spires](Spire.md), potentially expanding an Urizen Empire into the lowlands beyond the peaks - most likely [Highguard](../highguard/Highguard.md). [Sulemaine](Sulemaine.md) questions Cetratus' commitment to his ideals by telling him that if his cause is truly worthy, he will be prepared to die for it. Cetratus proves to be a hypocrite, and leaves chastened. He then proceeds to persecute the sword scholars are every opportunity.
+
+The most common version of the tale is reproduced here. As near as we can determine the tale in this form dates from a period around fifty years after the death of Sulemaine. While the exact provenance of the tale is not clear, the dialogue attributed to Sulemaine certainly "rings true" - some of the things she says to the general appear to be actual quotes from her lessons regarding the dangers of bowing to authoritarianism. By contrast. sources tend to agree that the Cetratus depicted here is more like a caricature of a sentinel - quite possibly a composite figure created specifically to present arguments for Sulemaine to dispute.
+
+## Cetratus and the Claw of the Dragon
+
+After the disciples of Sulemeine had slaughtered a great number of orcs and bandits in the southern mountains, the renowned general Sentinel Cetratus sought out the scholar.
+
+“Your students are skilled warriors,” he said.
+
+“My students are skilled scholars,” she replied. “Their strength comes from their mind.”
+
+“Your students have come to the aid of many Spires,” he said.
+
+“My students saw actions that needed taking,” she replied. “They do not hesitate from acting in the way they believe is right, no matter who it may upset.”
+
+“Such a force, so unbound to the stifling will of the Spires, could be turned to greatness,” he said.
+
+“Such a force is already great,” she replied. “But you already know that. You are here because you want power.”
+
+Cetratus nodded.
+
+“The scholars of the sword could be a part of the transformation of Urizen,” he said. “We can forge a new government to rule over the Spires, unify our soldiers, together seize control over all the mountain lands, and bring the lowlanders to heel. A nation ruled by learned warriors, finally using Urizen’s magic to its full potential to forge a military power unparalleled by the petty nations around us.”
+
+“The scholars of the sword are part of the transformation of Urizen,” Sulemeine replied. “It is not a transformation of governance or armies. It is one of spirit. It is a transformation that takes the best of your peoples’ culture and celebrates it as a tool for achieving truth. There is nothing wrong with desiring power to achieve one’s goals, but what you truly want is for my students to be the blade that can be swung freely where you are held back by the very consensus and culture you want to stamp upon those you would conquer.”
+
+Cetratus said nothing and waited for her next words, for he saw that she did indeed perceive his purpose.
+
+She stood and drew her sword. “If your cause is truly worthy, then doubtless you will be willing to die for it.”
+
+She watched as Cetratus flinched back, knowing her willingness to kill to be true and honest, and saw plainly the cowardice in his placatory stance.
+
+“I thought not,” she said. “You will only spend the lives of others, but you have no desire to lose your own. I would sooner burn these mountains clean and salt every terrace and valley than I would see this land turned to a throne for your would-be tyranny, and I am willing to die to achieve that.”
+
+Cetratus retreated, his pride wounded. He travelled then among the Citadels, and gathered accomplices, and thus the Claws of the Dragon were born. They could not brook a rival power within the nation, and thereafter sought to persecute the scholars of the blade at every opportunity.
+
+## Historical References
+
+While the version of Cetratus presented in the tale may be fiction, the man himself certainly existed. There are few references to the sentinel leader *Cetratus of Waveswatch* in the documents the Department of Historical Research have been able to uncover, but they paint a picture of a man who considered himself committed to the ideals of Urizen as he saw them. He was raised at the citadel of Waveswatch in [Naris](Redoubt.md#naris), a spire that dedicated itself to keeping an eye on the Highborn across the river in [Necropolis](../highguard/Necropolis.md). When he came of age, he travelled extensively in [Redoubt](Redoubt.md) and [Morrow](Morrow.md), visiting the Black City, and allegedly spending some time in the [White City of Bastion](../highguard/Bastion.md#bastion2c-the-white-city) as an emissary of the spires.
+
+It is generally agreed that he was a contemporary of Sulemaine. By the time Sulemaine was gathering the students that would eventually become the sword scholars to her, his was a well respected name among the spires. It's widely believed that during his time in Bastion he converted to the Way, although there is no evidence from the few remaining records that he allowed this to influence his actions. Certainly none of his remaining correspondence references it.
+
+He was however an outspoken opponent of the sword scholars, going so far as to urge his fellow sentinels to serve as bodyguards to the Highborn wayfarers coming to Urizen, to protect them from Sulemaine and her followers. He apparently believed that Urizen would be better served by having friends and allies among the Highborn, and that any such alliance was fundamentally undermined by the murder and harassment of their priests. It's not clear whether he actually encountered Sulemaine during this time - there are no extant records that put the pair of them in the same place at the same time.
+
+On the other hand, there is some circumstantial evidence that may link Cetratus to the death of Sulemaine. One such account says that Sulemaine was executed by sentinels in Redoubt after the murder of a Highborn missionary visiting a spire in [Limus](Redoubt.md#limus). This account - which is not well supported by any complementary evidence - suggests that Cetratus was one of the sentinels present at her death. A fanciful account of the death, written in 28YE by a [Sarvosan](../the-league/Sarvos.md) "chronicler of history" claims that Cetratus wielded the sword that ended her life himself, and wept because the two were former lovers. This tale is typical of the kind of fantasy dreamt up by would-be historians that muddies the waters of actual scholarship.
+
+## The Story of the Dragon's Claw
+
+The story of Cetratus suggests he was part of a conspiracy of sentinels whose intention was to take control of Urizen, and whose opposition to the sword scholars was motivated by their opposition to authoritarianism in all forms. This kind of accusation surfaces all over the Empire all of the time, and due to the nature of conspiracies it's hard to say one way or another if it is true. There's no documentary evidence of such a conspiracy, but as Vaanes of the Citadel of Mezudan demonstrates there has never been a lack of ambitious magicians in Urizen who sought to unite the spires in pursuit of their specific vision of the future. So it is possible that there was a conspiracy of sentinels aimed at controlling Urizen and opposed by Sulemaine and the sword scholars, but one of the problems with any conspiracy is the more successful it is, the less evidence there is that indicates it ever existed.
+
+The sword scholars *were* opposed by the sentinels, however. The sentinels *have* been instrumental in scattering the temples of Sulemaine's followers. But it is impossible to say whether this is due to a conspiracy, or to a fundamentally opposed idea of what service to the ideals of the Urizen nation entail.
+
+## Further Reading
+
+- [Sword scholar](Sword_scholar.md)
+- [Sulemaine](Sulemaine.md)
+
+**History**
+
+- [Return of the sword scholars](../../history/Return_of_the_sword_scholars.md) is a history page summarising winds of fortune and recent history relating to sword scholars
+- Cetratus and the sword scholars - [Historical research](../../../mixed/government/senate/Historical_research.md) into a pre-Imperial sentinel and their relationship with Sulemaine and the sword scholars
+
+**Winds of Fortune**
+
+- [To fight aloud](../../winds-of-fortune/To_fight_aloud.md) - 387YE Winter wind of fortune about the war with the disciples
+- [Climb every mountain](../../winds-of-fortune/Climb_every_mountain.md) - 387YE Autumn wind of fortune concerning the disciples of Sulemaine
+- [Broken sword](../../winds-of-fortune/Broken_sword.md) - 385YE Winter wind of fortune about the sundering of the sword scholars
+- [A wisdom of questions](../../winds-of-fortune/A_wisdom_of_questions.md) - 385YE Autumn wind of fortune about the schism of the sword scholars
+- [The price of wisdom](../../winds-of-fortune/The_price_of_wisdom.md) - 383YE Winter wind of fortune
+- [Mercy is weakness](../../winds-of-fortune/Mercy_is_weakness.md) - 383YE Autumn wind of fortune
+- [An ideal for living](../../winds-of-fortune/An_ideal_for_living.md) - 382YE Summer wind of fortune
+
+**Titles (defeunct)**
+
+- [Arbiter of the Four Winds](../../../mixed/titles/Arbiter_of_the_Four_Winds.md)
+
+Click *Expand* to see a list of other pages related to the sword scholars.
+
+---
+
+Categories: [Urizen](../../../indexes/by-category/Urizen.md), [History](../../../indexes/by-category/History.md)

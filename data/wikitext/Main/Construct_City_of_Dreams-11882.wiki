@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:386YE Summer]]
+__NOTOC__
+<quote by="Proposed: Miaren, Seconded: Bastion">Navarr marches to war with the vallorn. What will we be when it is destroyed? Here is an answer. To commission the Seren City of Dreams project. Self funded.</quote>
+==Overview==
+* Constructs the City of Dreams in Serenael, [[Miaren]] as per the '''[[Comes_a_time#The_City_of_Dreams|Comes a time]]''' wind of fortune.
+* Passed
+
+==Date==
+* Summer 386YE
+
+==Cost==
+* Costs as per opportunity
+* 90 weirwood
+* 30 white granite
+* 360 crowns
+* Nine months to complete
+
+==Progress==
+{{CommissionProgress|City_of_Dreams}}
+==Outcome==
+Once complete the City of Dreams will increase [[great work|investment]] in the congregations of Miaren by one, providing a vial of liao and a dose of [[Goosewhisper Infusion]] each season; the archetype of Dreamspeaker will be established in Navarr; and the title of ''Dreamer's Guide'' will be available to appoint by the National Assembly of Navarr.

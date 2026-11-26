@@ -1,0 +1,51 @@
+==Overview==
+{{CaptionedImage|file=Vallornguard sodality.png|title=Vallornguard|align=right|width=240}}
+The First Thorn of the Vallornguard is an [[Imperial title]] appointed by the [[Vallornguard]]. Construction of Vallornguard Mustering Ground was [[Construct Vallornguard Mustering Ground|proposed]] by '''Bronimir''', as the [[Ossium|Senator for Ossium]], during the Spring Equinox 388YE, and construction was completed shortly before the Summer Solstice 388YE.
+
+Plans for the Vallornguard Mustering Ground were first [[Every_path_you_know#Green_Eyed_Monster|presented]] before the Winter Solstice 387YE, in response to the Navarr Assembly's highest calling to support the burgeoning sodality.
+
+==Responsibilities==
+The First Thorn of the Vallornguard is responsible for overseeing the training of new recruits to the Vallornguard and contributing to Imperial preparedness against the military threat of the vallorn. Finally, if mustering ground, or its inhabitants, were to be threatened, it would be the responsibility of the First Thorn to respond to the threat.
+
+==Powers==
+===Essential Oils===
+The First Thorn receives two doses of [[Oil of Blackthorn]] each season from the apothecaries at the mustering ground.
+
+===Tools for the Task===
+The First Thorn receives a [[Barbed Spear]], a [[Bloodfire Periapt]], and a [[Death's Door]] each year during the Summer Solstice. 
+
+===Uproot the Abomination===
+Any Imperial [[army]] that receives [[Casualties#Natural_Resupply|natural resupply]] in [[Miaren]] can recruit from the training grounds, as well as secure useful anti-vallorn tonics and blade venoms. As a result, that army can take the attacking order, '''Uproot the Aberration''', the following season. 
+
+If multiple armies resupply in Miaren, the First Thorn should email {{plot}} before the end of downtime in order to choose which army will gain the benefit.
+
+<div style="max-width:800px;"><box>'''Uproot the Aberration'''
+* '''The ability of this army to conquer vallorn-held territory is increased by one tenth'''
+* '''Casualties inflicted by this army against the vallorn are increased by one tenth'''
+* '''Casualties suffered by this army from vallorn are reduced by one tenth'''
+Bolstered by the fresh recruits trained by the Vallornguard, the army can employ a supply of potions useful for fighting the vallorn provided by the Mustering Ground against the enemy. These potions are quickly consumed, but can prove vital when used at the decisive moment, to turn the tide against ''Terunael's Folly''.</box></div>
+
+==Appointment==
+The First Thorn is appointed during the Spring Equinox each year by members of the Vallornguard.
+
+The First Thorn will be elected for a shortened term of three seasons during the Summer Solstice 388YE. 
+
+Any Imperial citizen can hold this title. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{CaptionedImage|file=Kevan Heartsbane.jpg|caption='''Kevan Heartsbane''', First Thorn of the Vallornguard|align=left|width=350}}
+{{RecentElections|First_Thorn_of_the_Vallornguard}}
+[[Category:Title]][[Category:Vallorn]]
+__NOTOC__
+{{CaptionedImage|file=Banner of the Vallornguard.jpg|align=right|width=240}}
+==Mustering Ground==
+The grounds themselves, in Holtford, [[Miaren]], are an open drill yard large enough to run formation exercises, as well as containing military obstacle courses and an archery range. A tall hedge runs alongside the rectangular perimeter; at each corner stands a statue of a Navarri, with names etched into the pedestal.
+
+The barracks are relatively plain and functional, with plenty of weapon racks for spears, staves, shields and bows. Outside the front door of the barracks, the Vallornguard banner is proudly displayed.
+
+As the Vallornguard is an Imperial body of state, the drill instructors working at the mustering grounds come from all over the Empire. Some notable ones include wagon raiders from the [[Varushka_groups#The_Pinewheels|Pinewheels]], nobles from houses such as [[Dawn_groups#House_Summerstrong|Summerstrong]] and Griffinsong, as well as thorns from the Heartsbane steading and Twin Wreath striding.
+
+==Funding==
+Click ''Expand'' to see the list of contributions made to construct the Vallornguard Mustering Ground.
+<div class="mw-collapsible mw-collapsed">
+{{CommissionProgress|Construct_Vallornguard_Mustering_Ground}}
+</div>
+{{Responsibilities Expectation}}

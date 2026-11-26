@@ -1,0 +1,38 @@
+This section is (hopefully) designed to guide and advise anyone with aspirations to do some form of leatherworking. For some many parts will be teaching you to suck eggs, but for others it may be just the knowledge they are looking for.
+
+Making any kit or costume yourself, it can be very rewarding, but sometimes rather daunting to start off with. Though in its very early stages, as this section grows it will build on itself, with the ultimate aim that every skill required to undertake any of the (eventual) projects can be found and referred to here. So whether you have some skills already and wish to push yourself further, have never even picked up a mallet in your life or simply have a particular problem with a project of your own, hopefully, some help can be found here.
+Maybe I can even save you making some of the (many) mistakes I've made over the years, and possibly even save you from gaining some of the (again, many) scars I have on my fingers!
+
+Regards
+
+Kate Lee
+
+[[Totally Leathered]]
+
+<row-fluid> 
+
+<span4>
+== [[Basic Skills]] ==
+{{ThreeColIconImage|file=Fig12.jpeg|link=Basic Skills}}
+A guide to basic leatherworking skills such as punching, riveting etc. [[Basic Skills|more...]]
+</span4>
+
+<span4>
+== [[Tooling & Embossing]] ==
+{{ThreeColIconImage|file=ToolingCover.jpeg|link=Tooling & Embossing}}
+A step by step guide to tooling and embossing leather. [[Tooling & Embossing|more...]]
+</span4>
+
+<span4>
+== [[Projects]] ==
+{{ThreeColIconImage|file=ProjectsCover.jpeg|link=Projects}}
+Step by step leatherworking projects. [[Projects|more...]]
+</span4>
+</row-fluid>
+
+==Suppliers and Resources.==
+* [http://www.facebook.com/pages/Lyon-Leathers-Ltd/117579284934647?sk=photos_stream Lyon's Leathers] Wide range of leathers, suedes and buckles.
+* [http://www.tandyleather.eu/en-gbp/home/home.aspx Tandy Leather Factory] Leather and leatherworking supplies.
+* [http://www.leprevo.co.uk/ Le Prevo] Leather, dyes and other leatherworking supplies.
+
+[[Category:Leatherworking]]

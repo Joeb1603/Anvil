@@ -1,0 +1,19 @@
+This is a logistics reference for anyone setting out to write plot at Empire. There's quite a lot to cover so it's been split up into several pages, as most plots will only touch on a few bits.
+
+It is NOT a definitive guide - many systems behind-the-scenes at Empire are fluid and evolving. Trying to cover every detail would make certain parts eye-wateringly long. If in doubt, ask Jon Fry over facebook or discord.
+
+Above all, know this: Approval from the game team doesn’t necessarily mean the idea is viable in terms of resources. It’s up to us plot writers to check in with the relevant team, and for the best results to do so as soon as possible. They won’t always be able to get exactly what you want, but can work with you for the best results within their limitations. 
+
+We usually set a deadline of two weeks before the event to get everything up on the plotmatron so other departments can take a look. If you miss that deadline your plot can probably still run, but other departments will be limited in what they can achieve. 
+
+*[[Crew:The Plotmatron|Plotmatron]] - the database where plot information is stored
+*[[Crew:NPCs|NPCs]]
+*[[Crew:Costume, Props, Make-up, SFX|Costume, Props, Make-up, and SFX]]
+*[[Crew:Refs|Refs]]
+*[[Crew:Game Resources|Game resources]]
+*[[Crew:Ribbons|Ribbons]]
+*[[Crew:Curses and Traumatic Wounds|Curses and traumatic wounds]]
+*[[Crew:Plot_Guide_Conjunctions|Conjunctions]]
+*[[Crew:A handy check-list|A handy checklist]]
+
+{{Crewing Links}}

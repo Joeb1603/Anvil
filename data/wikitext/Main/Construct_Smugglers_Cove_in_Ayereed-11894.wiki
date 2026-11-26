@@ -1,0 +1,35 @@
+[[Category:Senate Motion]][[Category:386YE Summer]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Announced by Rahmah i Darwisj i Erigo, Imperial Spymaster">To commission a smugglers cove in Ayereed and decommission the spy network in Sarangrave</quote>
+==Overview==
+* Constructs a [[smugglers cove]] in Ayereed
+* Announcement by the [[Imperial Spymaster]]
+* This follows an earlier announcement [[#Summer 386YE Announcement|below]]
+==Date==
+* Spring 387YE
+==Cost==
+* Standard costs apply
+* 10 white granite
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Construct_Smugglers_Cove_in_Ayereed}}
+==Outcome==
+* Once complete, fleets will be able to support the smugglers cove in the same manner as military units can support spy networks.
+
+==Summer 386YE Announcement==
+<quote by="Announced by Bernard Dugdale, Imperial Spymaster">We are the true masters of the Bay of Catazar. We will wrestle it from the Grendel yoke. We see you, we know you. As all things will be Imperial, the Way is clear. The time of the Salt Lord is over. Small waves belie strong, irresistible tides, I announce a Smugglers Cove to be constructed in Ayereed.</quote>
+==Overview==
+* Constructs a [[smugglers cove]] in the Grendel territory of [[Ayereed]]
+* Announcement by the [[Imperial Spymaster]]
+==Date==
+* Summer 386YE
+==Cost==
+* Standard costs apply
+* 10 white granite
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Smugglers_Cove_in_Ayereed}}
+==Outcome==
+* Work on the smugglers cove had to be abandoned shortly after the Winter Solstice 386YE, when mercenaries under the pay of ''[[On_southern_sands#Hill_of_the_Golden_Dawn_(Ayereed)|Maistir Varden]]'' overran the area.

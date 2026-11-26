@@ -1,0 +1,4 @@
+<includeonly>
+[[:Category:Photos:Judith Taylor|Image by Judith Taylor]]
+[[Category:Photos:Judith Taylor]]
+</includeonly>

@@ -1,0 +1,23 @@
+<ic>Assignment of conquered territory of Karsk to an Imperial nation.<br><br>Procedural vote.</ic> 
+{{CaptionedImage|file=Karskregions.png|title=A war-torn land|caption=Regions of Karsk|align=right|width=400}}
+===Overview===
+* The territory of [[Karsk]] was conquered following a heroic opportunity in the region of [[Karsk#Lestasny|Lestasny]]
+
+===Date===
+* Spring 378YE
+
+===Campaign Outcome===
+* The territory of Karsk is now part of the nation of Varushka.
+* It was noted that the territory is not secure; the [[Thule]] still control three of the seven regions. The loss of a single region would result in the loss of this Imperial territory.
+
+===Voting===
+{| class="wikitable"
+|-
+! State !! Varushka !! Imperial Orcs !! Result
+|-
+| Vote || 26 || 0 || Varushka
+|-
+|}
+[[Category:Senate Motion]]
+[[Category: 378YE Spring]]
+__NOTOC__

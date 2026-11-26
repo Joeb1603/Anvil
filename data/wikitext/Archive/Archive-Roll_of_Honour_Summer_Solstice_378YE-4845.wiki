@@ -1,0 +1,111 @@
+<table class="wikitable sortable"><tr><th>Army</th><th>Citizen</th><th>Nation</th><th>Territory</th><th>Banner</th></tr>
+<tr><td>Fist of the Mountains</td><td>Cigydd Summer Crow</td><td>Navarr</td><td>Therunin</td><td>The Summer Crows</td></tr>
+<tr><td>Fist of the Mountains</td><td>Vihtori Emberling</td><td>Wintermark</td><td>Hahnmark</td><td>Emberholt</td></tr>
+<tr><td>Fist of the Mountains</td><td>Aedred 'Firebird' apMagor</td><td>Wintermark</td><td>Hahnmark</td><td>Renwaerd</td></tr>
+<tr><td>Fist of the Mountains</td><td>Skardi</td><td>Wintermark</td><td>Hahnmark</td><td>Renwaerd</td></tr>
+<tr><td>Fist of the Mountains</td><td>Bjarvoc Bjornson</td><td>Wintermark</td><td>Hahnmark</td><td>Vesalligr</td></tr>
+<tr><td>Fist of the Mountains</td><td>Harald</td><td>Wintermark</td><td>Hahnmark</td><td>Vesalligr</td></tr>
+<tr><td>Fist of the Mountains</td><td>Wulfric</td><td>Wintermark</td><td>Sermersuaq</td><td>Fjellreven</td></tr>
+<tr><td>Fist of the Mountains</td><td>Rheged Redspear</td><td>Wintermark</td><td>Sermersuaq</td><td>Saker</td></tr>
+<tr><td>Fist of the Mountains</td><td>Paavo</td><td>Wintermark</td><td>Sermersuaq</td><td>Sussivari Oathsworn Fyrd</td></tr>
+<tr><td>Fist of the Mountains</td><td>Leofric 'The Hound'</td><td>Wintermark</td><td>Skarsind</td><td></td></tr>
+<tr><td>Fist of the Mountains</td><td>Bruin Dunning</td><td>Wintermark</td><td>Skarsind</td><td>Dunhearth Hall</td></tr>
+<tr><td>Fist of the Mountains</td><td>Stanmaer</td><td>Wintermark</td><td>Skarsind</td><td>Holt Hyrde</td></tr>
+<tr><td>Fist of the Mountains</td><td>Wulfric Ukkosson</td><td>Wintermark</td><td>Skarsind</td><td>Holt Hyrde</td></tr>
+<tr><td>Fist of the Mountains</td><td>Ragnar</td><td>Wintermark</td><td>Skarsind</td><td>Renwaerd</td></tr>
+<tr><td>Golden Axe</td><td>Nadezhda Nadyovna Gremani</td><td>Varushka</td><td>unknown</td><td>Family Gremani</td></tr>
+<tr><td>Golden Axe</td><td>Vilkas Antonovich Prochnost</td><td>Varushka</td><td>Karov</td><td>Grimhold Schlacta</td></tr>
+<tr><td>Golden Axe</td><td>Magnus Anatolyvich Prochnost</td><td>Varushka</td><td>Karov</td><td>The Embers of Ivarsgard</td></tr>
+<tr><td>Golden Axe</td><td>Hubert Annanovich Volchytravni</td><td>Varushka</td><td>Karsk</td><td></td></tr>
+<tr><td>Golden Axe</td><td>Pavel Gregorivitch Milyukov</td><td>Varushka</td><td>Miekarova</td><td></td></tr>
+<tr><td>Golden Axe</td><td>Tomislav Straskovic</td><td>Varushka</td><td>Miekarova</td><td></td></tr>
+<tr><td>Golden Axe</td><td>Ravenka Nadyovna Gremani</td><td>Varushka</td><td>Miekarova</td><td>Family Gremani</td></tr>
+<tr><td>Golden Axe</td><td>Branislav Vuk Strascovich</td><td>Varushka</td><td>Miekarova</td><td>Grimhold Schlacta</td></tr>
+<tr><td>Golden Axe</td><td>Olaf Gregorson |Strascovich</td><td>Varushka</td><td>Miekarova</td><td>Grimhold Schlacta</td></tr>
+<tr><td>Golden Axe</td><td>Senghir Vorbarra Strascovian</td><td>Varushka</td><td>Miekarova</td><td>Grimhold Schlacta</td></tr>
+<tr><td>Golden Axe</td><td>Vasiliy Krenyenkov Valeskai Strascovich</td><td>Varushka</td><td>Miekarova</td><td>Grimhold Schlacta</td></tr>
+<tr><td>Green Shield</td><td>Raedmund Bjornling</td><td>Wintermark</td><td>Hahnmark</td><td>Bjornholt</td></tr>
+<tr><td>Green Shield</td><td>Cynwulf Ashburh</td><td>Wintermark</td><td>Hahnmark</td><td>Darkwolves of Argonne</td></tr>
+<tr><td>Green Shield</td><td>Bucklund</td><td>Wintermark</td><td>Hahnmark</td><td>The Hunters Of The Mark</td></tr>
+<tr><td>Green Shield</td><td>Ranulf Six-Lives</td><td>Wintermark</td><td>Hahnmark</td><td>Vesalligr</td></tr>
+<tr><td>Green Shield</td><td>Joakim</td><td>Wintermark</td><td>Sermersuaq</td><td></td></tr>
+<tr><td>Green Shield</td><td>Kye Knife-Born</td><td>Wintermark</td><td>Sermersuaq</td><td>Saker</td></tr>
+<tr><td>Green Shield</td><td>Svipul Stormdancer</td><td>Wintermark</td><td>Sermersuaq</td><td>Saker</td></tr>
+<tr><td>Green Shield</td><td>Aerdon Korpisson</td><td>Wintermark</td><td>Sermersuaq</td><td>Sussivari Oathsworn Fyrd</td></tr>
+<tr><td>Green Shield</td><td>Aethelstan Korping</td><td>Wintermark</td><td>Sermersuaq</td><td>Sussivari Oathsworn Fyrd</td></tr>
+<tr><td>Green Shield</td><td>Vanhe Korppi</td><td>Wintermark</td><td>Sermersuaq</td><td>Sussivari Oathsworn Fyrd</td></tr>
+<tr><td>Green Shield</td><td>Ognuk Olanssen</td><td>Wintermark</td><td>Sermersuaq</td><td>The Rangers of Nanuk</td></tr>
+<tr><td>Green Shield</td><td>Rolo Tostiggssen</td><td>Wintermark</td><td>Sermersuaq</td><td>The Rangers of Nanuk</td></tr>
+<tr><td>Green Shield</td><td>Osric</td><td>Wintermark</td><td>Skarsind</td><td></td></tr>
+<tr><td>Green Shield</td><td>Volk</td><td>Wintermark</td><td>Skarsind</td><td></td></tr>
+<tr><td>Green Shield</td><td>Oslyn Ulfricson</td><td>Wintermark</td><td>Skarsind</td><td>Holt Hyrde</td></tr>
+<tr><td>Green Shield</td><td>Aelfric Nose-Biter</td><td>Wintermark</td><td>Skarsind</td><td>Sigehold Hall</td></tr>
+<tr><td>Green Shield</td><td>Ardith</td><td>Wintermark</td><td>Skarsind</td><td>Sigehold Hall</td></tr>
+<tr><td>Green Shield</td><td>Jussi</td><td>Wintermark</td><td>Skarsind</td><td>Sigehold Hall</td></tr>
+<tr><td>Green Shield</td><td>Ulwen</td><td>Wintermark</td><td>Skarsind</td><td>Sigehold Hall</td></tr>
+<tr><td>Hounds of Glory</td><td>D'Eon</td><td>Dawn</td><td>Weirwater</td><td>House Novarion</td></tr>
+<tr><td>Northern Eagle</td><td>Stanislav Borodin Havel</td><td>Varushka</td><td>Volodmartz</td><td>Vale of Triosk</td></tr>
+<tr><td>Summer Storm</td><td>Valentin Ivarovich Severyan</td><td>Dawn</td><td>Astolat</td><td>House Orzel</td></tr>
+<tr><td>Summer Storm</td><td>Amoret d'Acier</td><td>Dawn</td><td>The Barrens</td><td></td></tr>
+<tr><td>Summer Storm</td><td>Johann Rookwood</td><td>Dawn</td><td>The Barrens</td><td>House Martel</td></tr>
+<tr><td>Summer Storm</td><td>Barachel of Adina's Charge</td><td>Highguard</td><td>Casinea</td><td>Daintree Survivors</td></tr>
+<tr><td>Summer Storm</td><td>Cayleb</td><td>Highguard</td><td>Casinea</td><td>Felix's Watch Banner</td></tr>
+<tr><td>Summer Storm</td><td>Lilith</td><td>Highguard</td><td>Casinea</td><td>Felix's Watch Banner</td></tr>
+<tr><td>Summer Storm</td><td>Ruth</td><td>Highguard</td><td>Casinea</td><td>Felix's Watch Banner</td></tr>
+<tr><td>Summer Storm</td><td>Aaron Storm</td><td>Highguard</td><td>Casinea</td><td>Storm's Fury</td></tr>
+<tr><td>Summer Storm</td><td>Jericho</td><td>Highguard</td><td>Reikos</td><td>Drusilla’s Resolve</td></tr>
+<tr><td>Summer Storm</td><td>Mordecai 'The Bitter'</td><td>Highguard</td><td>Reikos</td><td>Drusilla’s Resolve</td></tr>
+<tr><td>Summer Storm</td><td>Kale Stormcrow</td><td>Imperial Orcs</td><td>unknown</td><td>Stormcrow</td></tr>
+<tr><td>Summer Storm</td><td>Braka</td><td>Imperial Orcs</td><td>Summer Storm</td><td>The Irontide</td></tr>
+<tr><td>Summer Storm</td><td>Bruk</td><td>Imperial Orcs</td><td>Summer Storm</td><td>The Irontide</td></tr>
+<tr><td>Summer Storm</td><td>Rek</td><td>Imperial Orcs</td><td>Summer Storm</td><td>The Irontide</td></tr>
+<tr><td>Summer Storm</td><td>Vio</td><td>Imperial Orcs</td><td>Summer Storm</td><td>The Irontide</td></tr>
+<tr><td>Summer Storm</td><td>chibz</td><td>Imperial Orcs</td><td>Winter Sun</td><td></td></tr>
+<tr><td>Summer Storm</td><td>Garad</td><td>Imperial Orcs</td><td>Winter Sun</td><td></td></tr>
+<tr><td>Summer Storm</td><td>Emjin</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+<tr><td>Summer Storm</td><td>Gor</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+<tr><td>Summer Storm</td><td>Gralka</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+<tr><td>Summer Storm</td><td>Kalindar</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+<tr><td>Summer Storm</td><td>Karr</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+<tr><td>Summer Storm</td><td>Krell Stormcrow</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+<tr><td>Summer Storm</td><td>Saru</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+<tr><td>Summer Storm</td><td>Skar</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+<tr><td>Summer Storm</td><td>Stormcrow Dren</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+<tr><td>Summer Storm</td><td>T'onk</td><td>Imperial Orcs</td><td>Winter Sun</td><td>Stormcrow</td></tr>
+<tr><td>Summer Storm</td><td>Brennos Brackensong</td><td>Navarr</td><td>Broceliande</td><td></td></tr>
+<tr><td>Summer Storm</td><td>Kestrel</td><td>Navarr</td><td>Broceliande</td><td>Brackensong Steading (Banner)</td></tr>
+<tr><td>Summer Storm</td><td>Carr Foxden</td><td>Navarr</td><td>Hercynia</td><td>Foxden</td></tr>
+<tr><td>Summer Storm</td><td>Bleddyn Eternal</td><td>Navarr</td><td>Hercynia</td><td>The Wind Striders</td></tr>
+<tr><td>Summer Storm</td><td>Cormac Farkas</td><td>Navarr</td><td>Liathaven</td><td></td></tr>
+<tr><td>Summer Storm</td><td>Rowyn Realms Reach</td><td>Navarr</td><td>Miaren</td><td>Open Skies</td></tr>
+<tr><td>Summer Storm</td><td>Merel</td><td>Navarr</td><td>Therunin</td><td>Pathfinders</td></tr>
+<tr><td>Summer Storm</td><td>Merryn Farkas</td><td>Navarr</td><td>Therunin</td><td>Ruis Farkas</td></tr>
+<tr><td>Summer Storm</td><td>Beltran I Ezmara I Erigo</td><td>The Brass Coast</td><td>Segura</td><td></td></tr>
+<tr><td>Summer Storm</td><td>Isandro i Sotero i Riqueza</td><td>The Brass Coast</td><td>Segura</td><td></td></tr>
+<tr><td>Summer Storm</td><td>Jager Von Vinterhosen</td><td>The League</td><td>Holberg</td><td>Compagnia De Rossi</td></tr>
+<tr><td>Summer Storm</td><td>Tybalt Von Ungeist</td><td>The League</td><td>Holberg</td><td>The Holberg Hawks</td></tr>
+<tr><td>Summer Storm</td><td>Armand Vittori</td><td>The League</td><td>Sarvos</td><td>Banner of the Cup</td></tr>
+<tr><td>Summer Storm</td><td>Vigo Orlando Scarlatti de Sarvos</td><td>The League</td><td>Sarvos</td><td>Carta Bellamarina</td></tr>
+<tr><td>Summer Storm</td><td>Antonio Renzi Di Sarvos</td><td>The League</td><td>Sarvos</td><td>The Printers' Guild</td></tr>
+<tr><td>Summer Storm</td><td>Gabriel Barossa</td><td>The League</td><td>Tassato</td><td>Company of The Red Fox</td></tr>
+<tr><td>Summer Storm</td><td>Ivan von Rigo</td><td>The League</td><td>Temeschwar</td><td>Banner of the Cup</td></tr>
+<tr><td>Summer Storm</td><td>Lann</td><td>The League</td><td>Temeschwar</td><td>The Brotherhood of the Ashen Tower</td></tr>
+<tr><td>Summer Storm</td><td>Leo Alexio</td><td>The League</td><td>Temeschwar</td><td>The Brotherhood of the Ashen Tower</td></tr>
+<tr><td>Summer Storm</td><td>Michael</td><td>The League</td><td>Temeschwar</td><td>The Brotherhood of the Ashen Tower</td></tr>
+<tr><td>Summer Storm</td><td>Nicolo Sanguedolce  Di Sarvos</td><td>The League</td><td>Temeschwar</td><td>The Brotherhood of the Ashen Tower</td></tr>
+<tr><td>Summer Storm</td><td>Carlov Izmon de Temeschwar</td><td>The League</td><td>Temeschwar</td><td>The Brotherhood of Torn Banners</td></tr>
+<tr><td>Summer Storm</td><td>John of Meade</td><td>The Marches</td><td>Mitwold</td><td></td></tr>
+<tr><td>Summer Storm</td><td>Doomack.</td><td>The Marches</td><td>Upwold</td><td></td></tr>
+<tr><td>Summer Storm</td><td>Alfred Dægan</td><td>The Marches</td><td>Upwold</td><td>Emerald Order</td></tr>
+<tr><td>Summer Storm</td><td>Athalger Rowen</td><td>The Marches</td><td>Upwold</td><td>Emerald Order</td></tr>
+<tr><td>Summer Storm</td><td>Edward Isambard</td><td>The Marches</td><td>Upwold</td><td>Emerald Order</td></tr>
+<tr><td>Summer Storm</td><td>Sarus Auricspire</td><td>Urizen</td><td>unknown</td><td>Horizon's Edge</td></tr>
+<tr><td>Summer Storm</td><td>Augustus</td><td>Urizen</td><td>Morrow</td><td></td></tr>
+<tr><td>Summer Storm</td><td>Vitellius</td><td>Urizen</td><td>Morrow</td><td>Banner of the Phoenix</td></tr>
+<tr><td>Summer Storm</td><td>Tanwyn Ankarien</td><td>Urizen</td><td>Zenith</td><td>Ankarien's Revenge</td></tr>
+<tr><td>Summer Storm</td><td>Elysia Cascade</td><td>Urizen</td><td>Zenith</td><td>Spire of the Celestial Cascade</td></tr>
+<tr><td>Valiant Pegasus</td><td>Ardon</td><td>Highguard</td><td>Casinea</td><td>Cantiarch's Hold</td></tr>
+<tr><td>Wolves of War</td><td>Gereke Delfholter</td><td>The League</td><td>Holberg</td><td>Holsburger Haudegen</td></tr>
+</table>
+{{Template:HonourLinks}}
+[[Category:Roll of Honour]]

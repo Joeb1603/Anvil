@@ -1,0 +1,86 @@
+---
+title: Gardener's Wheel
+source: https://www.profounddecisions.co.uk/empire-wiki/Gardener's_Wheel
+class: mixed
+topic: magic/rituals
+categories:
+- Night Ritual
+- Rituals
+last_edited: '2025-07-18T23:13:12Z'
+revision: 125006
+in_character_boxes: 1
+---
+
+# Gardener's Wheel
+
+## Rules
+
+### Night Magnitude 10
+
+### Performing the Ritual
+
+Performing this ritual takes at least 2 minutes of roleplaying. The ritual targets up to five drams of one of the five magical [herbs](../potions/Herb.md) which must be present throughout. The herbs must all be of the same type, and it only works on [true vervain](../../../out-of-character/rules/True_Vervain.md), [marrowort](../../../out-of-character/rules/Marrowort.md), [Imperial roseweald](../../../out-of-character/rules/Imperial_Roseweald.md), [cerulean mazzarine](../../../out-of-character/rules/Cerulean_Mazzarine.md), and [bladeroot](../../../out-of-character/rules/Bladeroot.md).
+
+The ritual requires a receptacle such as a bowl or cauldron into which the target herbs are placed.
+
+### Effects
+
+The ritual transforms the herbs in the receptacle into an equal number of herbs of a different type. The ritual will not turn any herb into any other; rather it follows a fixed progression.
+
+- Imperial Roseweald turns to True Vervain
+- True Vervain turns to Marrowort
+- Marrowort turns to Cerulean Mazzarine
+- Cerulean Mazzarine turns to Bladeroot
+- Bladeroot turns to Imperial Roseweald
+
+It may take up to an hour for the herbs to finish their transformation, and the referee may offer a prompt when the change is complete. If the herbs are removed prematurely, the ritual may fail or result in fewer herbs being transformed.
+
+The transformation is permanent. All drams of herbs transformed must be of the same type, and will all be transformed into the same type of herb.
+
+This ritual is *not* supported by the [Mask of Gold and Lead](../items/Mask_of_Gold_and_Lead.md).
+
+## Description
+
+This ritual was codified at the *Loom of Spells*, while it was in the hands of the church of the [Little Mother](../../../in-character/religion/The_Little_Mother.md). The original [arcane projection](../../../out-of-character/rules/Arcane_projection.md) was written by **Gareth Miller** of [Dawn](../../../in-character/nations/dawn/Dawn.md). **Lucius Ankarien Willstone** paid to have the projection codified, and work was completed between the Winter Solstice 386YE and Spring Equinox 387YE. Lucius also arranged for the ritual to become [part of Imperial lore](../../../in-character/conclave-sessions/387YE_Spring_Equinox_Conclave_sessions.md#imperial-lore-gardeners-wheel).
+
+While lacking the obsequious and convoluted language of [rituals codified under the guidance of Sanvar Isk](Silver_Tongue_of_Virtue.md#description), the text had a certain "rough hewn" flavour, having been created by the work of orphans working with the Church of the Little Mother. It bears some comparison to the [Eight-spoked Wheel](../../../out-of-character/game-design/Eight-spoked_Wheel.md) and the [Retrograde Wheel](../../../out-of-character/game-design/Retrograde_Wheel.md) rituals that transform ingots and measures. Indeed, there is speculation that it would be possible to create a specific ritual to transform one herb into another herb, or research a variant that transformed herbs in the "other direction". The text also included discussion of *why* the wheel turns in the way that it does.
+
+## Common Elements
+
+The tools of cookery and apothecary - mundane ways to "transform" herbs - are resonant with this ritual. Likewise, ingredients used in cooking and baking are useful, especially honey. The rune [Xun](../lore/Xun.md), unsurprisingly, is useful for performing the ritual. Practitioners of [astronomancy](../lore/Astronomancy.md) might invoke [the Great Wyrm](../lore/The_Great_Wyrm.md), [the Chalice](../lore/The_Chalice.md), or [the Fountain](../lore/The_Fountain.md) while [blood magicians](../lore/Blood_magic.md) might use the blood of a [briar](../lore/Briar.md), healer, apothecary, or a gardener. In [dramaturgy](../lore/Dramaturgy.md), performances evoking [the Witch](../lore/The_Witch.md) or [the Mountebank](../lore/The_Mountebank.md), especially when including [the Cup](../lore/The_Cup.md) or [the Chamber](../lore/The_Chamber.md), empower the magic.
+
+## Original Text
+
+The original text is included here for those with an interest in what is happening at the Loom of Spells.
+
+> *In-character text:*
+>
+> **Where it came from**  
+> The original arcane projection that this ritual is made out of was written by Gareth Miller who was from Dawn. They had a mana site that was in a windmill. They are now dead. They were helped by Elka Sun-Mad of the Marchers.
+>
+> Lucius Ankarien Willstone paid us to turn the magic into a ritual text. They wrote a book that helped the people who made the arcane projection. We finished the work at the start of the three-hundredth and eighty-seventh year since the First Empress made the Empire with her Ambition and virtue.
+>
+> **What it does**  
+> This ritual turns things into other things. It is like the rituals some alchemists use to turn ingots and measures into other measures and ingots but it is made to work on herbs instead. Each herb can only be turned into one other herb but there is a kind of wheel – like with the alchemy wheel – that says which herb becomes which other herb.
+>
+> Imperial Roseweald can be made into True Vervain which heals people. True Vervain can be turned into Marrowort which preserves life, treats serious injuries, and helps repair the soft bits inside people when they pop. Marrowort is turned into Cerulean Mazzarine that knits bones and sinews together like wool. Cerulean Mazzarine becomes Bladeroot which is a little bit poisonous but gets rid of sicknesses of the spirit. Bladeroot turns into Imperial Roseweald which is also a bit poisonous but gets rid of sicknesses of the body.
+>
+> There's probably a whole load of separate rituals you could have instead that only turned one herb into the next but that would be really wasteful; this is a better way to do this magic. They say there is another ritual that turns it the other way called the herbalist's wheel. It's like the gardener's wheel but instead of being named after the gardeners who grow the herb, it is called after the herbalists who make potions or treat sick people. That ritual has not been codified yet and Lucius Ankarien Willstone would have to pay us again if they were going to do that.
+>
+> The herbs are put in a pot, and the magic takes a little while to work. This is because transformation is a slow process, like the way children turn into adults. Nobody can say exactly what kind of adult a child will turn into, and this is one way that people are different from herbs.
+>
+> **Making the ritual work**  
+> This ritual is about transforming things. It's common to turn herbs and plants into other things either like the apothecary does, or like the cook does. The tools people use to turn herbs into things are resonant with this ritual. They include pots, pans, pestles (the little bowl), mortars (the little club), kitchen knives, scales, spoons, forks, hot water, milk, flour, eggs, and honey. Honey is made by bees, which are a symbol of Prosperity especially in Varushka.
+>
+> The rune of changing, which is called Xun the Dragon, is a good bet for this ritual. You could sketch it in the air, or paint it on the side of a bowl or cauldron. It is specially good because Xun is very good at major changes that last, rather than little changes that fade quickly, and this ritual changes things for good. It does not use star metal even though we were taught that you need star metal to change things permanently and so that makes the ritual make no sense.
+>
+> If you were an astronomancer you might use the Great Wyrm but that is a powerful constellation that is hard to use, so you might be better off using one of the healing constellations like the Chalice, or maybe the Fountain. In Varushka they call the Fountain the Tree of Ice which is odd.
+>
+> Blood magicians might use the blood of a briar, who has Spring magic in them in the same way someone has red hair. The blood of a healer, or an apothecary, or a gardener are all good too. It is important to make sure the blood is given over willingly or the ritual might do something really bad like create another vallorn out of the herbs. The vallorn was made in Terunael and ate them all.
+> The best way to use this magic though is to use dramaturgy which is the best kind of magic. You could dress up as the Witch who is good at potions, or the Mountebank who is good at changing things with clever fingers. You would do a play that had a Cup in it because cups are good at changing things like when you add a squeeze of lemon and some sugar to some water to make lemonade. You might do your play in the Chamber, which is a secret place of mysteries (like how things are transformed) and is very good when you do a play with the Witch or the Mountebank in it.
+>
+> You could also ask the paragons and exemplars who are good at Prosperity to help you but Sister Julia doesn't like that kind of magic and says it's almost as bad as idolatrously calling on eternal names.
+
+---
+
+Categories: [Night Ritual](../../../indexes/by-category/Night_Ritual.md), [Rituals](../../../indexes/by-category/Rituals.md)

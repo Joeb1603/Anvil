@@ -1,0 +1,19 @@
+[[Category:Senate Motion]][[Category:386YE Summer]]
+__NOTOC__
+<quote by="Proposed: Reikos, Seconded: Hercynia">To improve the Vigilant Swan, a White Granite bourse seat in Riverwatch, Reikos, with the aid of Manse of the Lionsmith. This will create a 3000 strong fort to defend the region, with no upkeep, and does not take a commission. Costing 20 mithril, 20 ilium and 120 crowns.</quote>
+==Overview==
+* Constructs a fortification at the [[Vigilant Swan]] as per the '''[[Metal_and_stone#Alabaster_and_Onyx_Swans|Metal and stone]]''' wind of fortune.
+* Passed
+
+==Date==
+* Summer 386YE
+==Cost==
+* Costs as per opportunity
+* 20 mithril
+* 20 ilium
+* 120 crowns
+* six months to complete
+==Progress==
+{{CommissionProgress|Swans_of_Alabaster_and_Onyx}}
+==Outcome==
+Now complete, the region of [[Reikos#Riverwatch|Riverwatch]] is defended by the ''Swans of Alabaster and Onyx'' fortification.

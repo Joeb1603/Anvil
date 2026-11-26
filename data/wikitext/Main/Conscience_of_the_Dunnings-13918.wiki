@@ -1,0 +1,25 @@
+[[Category:Title]][[Category:Wintermark]]
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Wintermark.png|caption=This title is appointed by the Wintermark Assembly|width=250px}}</div>
+The Conscience of the Dunnings is an [[Imperial title]] awarded to a citizen of [[Wintermark]]. Construction of Spooner's Rest was [[Construct_Spooner%27s_Rest|announced]] by '''Eldrid 'Phoenix Flame' Vestardottir''', as the [[Bearer of an Imperial Wayleave]], during the Spring Equinox 388YE, and construction was completed shortly before the Summer Solstice 388YE.
+
+==Responsibilities==
+The Conscience of the Dunnings is responsible for providing advice and support for the Dunning family. Given the widespread nature of the family, they are also responsible for the spiritual health of the residents of [[Caretaker_of_New_Dunhall#New_Dunhall|New Dunhall]]. They are also responsible for Hall of Spooner's Rest. If the Hall, or those who visit it, were to be threatened, it would be the responsibility of the Conscience of the Dunnings to deal with those threats.
+__NOTOC__
+==Powers==
+===A Portion of Liao===
+The sinecure provides 12 doses of [[liao]] to the Conscience of the Dunnings each season, to be used as they see fit.
+
+==Appointment==
+The Conscience of the Dunnings is a national position which is [[Appointment|appointed]] by [[judgement]] of the [[Assembly#The_National_Assemblies|Wintermark Assembly]]. 
+
+The Conscience is appointed during the Autumn Equinox each year. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the Wintermark Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{CaptionedImage|file=Tuuli.png|caption='''Tuuli''', Conscience of the Dunnings|align=left|width=350}}
+{{RecentElections|Conscience_of_the_Dunnings}}
+
+==Funding==
+Click ''Expand'' to see the list of contributions made to construct Spooner's Rest.
+<div class="mw-collapsible mw-collapsed">
+{{CommissionProgress|Construct_Spooner%27s_Rest}}
+</div>
+{{Responsibilities Expectation}}

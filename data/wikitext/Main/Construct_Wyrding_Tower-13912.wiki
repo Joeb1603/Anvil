@@ -1,0 +1,24 @@
+[[Category:Senate Motion]][[Category:388YE Summer]]
+__NOTOC__
+<quote by="Announced by Borys Vardovich Straskovich, Boyar of the Iron Roads">I commission the Wyrding Tower, a volhov tower proposed in an appraisal by Graciana i Lopez i Guerra. The Vale of the Verdant Promise will bring prosperity to the ruins left by the Cold Sun and will fund this ministry
+</quote>
+==Overview==
+* Constructs an [[ministry]] in Livardz, Volodmartz
+* Announcement by the [[Boyar of the Iron Roads]]
+* More information can be found in the '''[[Sunrise_over_Livardz#The_Wyrding_Pond|Sunrise over Livardz]]''' wind of fortune
+
+==Date==
+* Summer 388YE
+
+==Cost==
+* Costs as per opportunity
+* 12 wains of mithril
+* 36 crowns in labour costs 
+* Three months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Wyrding_Tower}}
+==Outcome==
+Now complete, the Wyrding Tower has had the following effects:
+* The title [[Volhov of the Wyrding Tower]] will be available to appoint by tally of the votes of Varushkan mine and forest owners for the first time at the Autumn Equinox 388YE
+* The threat of the [[Sunrise_over_Livardz#The_Ashen_Wind|ashen wind]] has been removed

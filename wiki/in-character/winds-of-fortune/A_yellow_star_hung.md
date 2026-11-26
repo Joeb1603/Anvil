@@ -1,0 +1,137 @@
+---
+title: A yellow star hung
+source: https://www.profounddecisions.co.uk/empire-wiki/A_yellow_star_hung
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 384YE Autumn
+- Recent History
+- Winds of Magic
+event: 384YE Autumn
+last_edited: '2026-02-10T23:01:13Z'
+revision: 134173
+---
+
+# A yellow star hung
+
+*[Image: Those who understand magic sometimes see its signs writ large in the heavens.](https://www.profounddecisions.co.uk/empire-wiki/File:A_yellow_star_hung.jpg)*
+
+## Citadels, Shrouds and Trods
+
+- **Magical fortifications have been raised in Ossium, Operus, Kahraman and Zenith**
+- **There are shrouds over the territories of Madruga, Kahraman, Ossium, Zenith, and the Barrens**
+
+During the Summer Solstice, magical fortifications were raised by Imperial magicians across the Empire. The [Dripping Echoes of the Fen](../../mixed/magic/rituals/Dripping_Echoes_of_the_Fen.md) rose in the [Drownbark Forest](../nations/varushka/Ossium.md#drownbark-forest) in [Ossium](../nations/varushka/Ossium.md), helping to [protect the territory](../winds-of-war/Beyond_this_dark_house.md) from the [Druj](../barbarians/Druj.md). Four [Frozen Citadels](../../mixed/magic/rituals/Frozen_Citadel_of_Cathan_Canae.md) were summoned from the Summer realm in [Operus](../nations/urizen/Morrow.md#operus), [Caeli](../nations/urizen/Morrow.md#caeli), in [Serra Briante](../nations/the-brass-coast/Kahraman.md#serra-briante) and (with the aid of the [Citadel Guard](../mandates/Citadel_Guard.md)) in [Clypion](../nations/urizen/Zenith.md#clypion) in [Zenith](../nations/urizen/Zenith.md).
+
+Magical [Penumbral Veils](../../mixed/magic/rituals/Drawing_the_Penumbral_Veil.md) still hang over the Varushkan territory of [Ossium](../nations/varushka/Ossium.md), the Freeborn territories of [Madruga](../nations/the-brass-coast/Madruga.md) and [Kahraman](../nations/the-brass-coast/Kahraman.md), and the Druj territories of [the Barrens](../nations/dawn/The_Barrens.md) and [Zenith](../nations/urizen/Zenith.md). Rituals that try to divine information about, or scry into, these territories will first need to overcome the power of the veil. There may be other veils in place - news of shrouds only comes from places where the Empire has a notable presence.
+
+Finally, during the Solstice the [Navarr](../nations/navarr/Navarr.md) worked with the [General](../../mixed/titles/General.md) of the [Citadel Guard](../mandates/Citadel_Guard.md) to channel the power of [Spring magic](../../out-of-character/rules/Spring_magic.md) into Zenith. [The Dance of Navarr and Thorn](../../mixed/magic/rituals/Dance_of_Navarr_and_Thorn.md) has been successfully performed, restoring the [trods](../nations/navarr/Trod.md) of the territory.
+
+## Rain Gentle and Savage
+
+- **Zenith has experienced gentle rejuvenating rains brought about by the Regrow the Land's Heart ritual**
+- **The Barren Sea has been roused to violence, and caused extensive damage in the north-eastern Barrens**
+
+[Regrow the Land's Heart](../../mixed/magic/rituals/Regrow_the_Land-s_Heart.md) was performed on the territory of Zenith, again with the assistance of the Citadel Guard. Unlike the enchantment [woven over the rest of the Empire](Light_upon_the_water.md), the ritual had its normal effect in Zenith. Sadly, that effect is somewhat muted. The ritual helps to accelerate recovery from the scars of war - physical and spiritual - but much of the territory is still riven by fighting. Its effects are mostly felt in Iteri and western Clypion, areas where the hold of the Druj invaders has been weakened. In those places at least, healthy new growth is encouraged and the remaining Urizen population are given a much-needed infusion of hope for the future. In the rest of the territory, unfortunately, the effects have apparently been quite limited - although there are reports that the enchantment has definitely encouraged a burst of growth across the marshes of [Proceris](../nations/urizen/Zenith.md#proceris), bringing forth a riot of brightly coloured flowers in between the deep octopus-haunted pools and ruined cisterns.
+
+News from [the Barrens](../nations/dawn/The_Barrens.md) is that the territory has been rocked by dreadful storms. While not on the same scale as those striking the Empire proper, there are reports of thunder, lighting, and tumultuous rain. The worst of the storms strike [Bitter Strand](../nations/dawn/The_Barrens.md#bitter-strand) and [Saltmarsh](../nations/dawn/The_Barrens.md#saltmarsh), but by all accounts every region bordering the Barren Sea is pummelled by mighty waves and even the occasional waterspout. The extent of the damage is not clear, but it is likely that [the Fangs](../nations/dawn/The_Barrens.md#the-fangs) have been blunted, and Saltmarsh flooded, at the very least. This tempestuous assault is widely believed to be the result of a [visit to the Barrens](../winds-of-war/Into_the_valley.md#a-sudden-flood-28conjunction29) paid by the [Archmage of Spring](../../mixed/titles/Archmage_of_Spring.md) **Ser Fabienne De Miel** and some friends during the Summer Solstice.
+
+> **Covid Restrictions**  
+> We often have players come to the make up department for help with wounds and lineage trappings when they're being the subject of Whispers Through the Black Gate.
+> Due to covid restrictions around providing make up for players at this event we will not be able to assist with this. Players will have to do any make up themselves using their own supplies, in a space that is not our make up area.
+
+## Whispering Gate
+
+- **During the Autumn Equinox it will be possible to perform [Whispers through the Black Gate](../../mixed/magic/rituals/Whispers_through_the_Black_Gate.md) between 19:00 - 20:00**
+- **The current Imperial Necromancer is Enchantress Claudia Varkulova Remys**
+
+The [Black Gate](../../mixed/magic/rituals/Whispers_through_the_Black_Gate.md) can be opened to allow masters of [Winter magic](../../out-of-character/rules/Winter_magic.md) to commune with the spirits of the dead. For reasons that have never adequately been explained, the Gate can only be opened at twilight when it is neither quite day nor quite night. Imperial magicians prognosticate that this means that during the Summer Solstice the ritual can be performed between the hours of seven and eight in the evening. This information is, of course, of particular relevance to the [Imperial Necromancer](../../mixed/titles/Imperial_Necromancer.md) given their powers and responsibilities.
+
+## Feast of Want
+
+- **Herb gardens in Zenith have been cursed**
+
+While the restorative enchantment has been providing some succour to the people of beleaguered Zenith, a cruel [curse](../../out-of-character/rules/Curse.md) has also fallen on the territory following the Summer Solstice. All [herb gardens](../../out-of-character/rules/Herb_garden.md) in the territory are plagued by a lacklustre harvest of crops, and no amount of tending seems to be able to restore them to their full glory. As a consequence, every herb garden has provided three fewer [true vervain](../../out-of-character/rules/True_Vervain.md) than normal and one fewer does of each other herb. The effect appears to have run its course, with a notable improvement in the health of the plants as the Autumn Equinox approaches.
+
+it is unlikely - but not impossible - that the curse was placed by the [Druj](../barbarians/Druj.md). While there are certainly herb gardens belonging to Urizeni citizens that have been ravaged by the magic. the effect is greatly amplified on the invader orcs simply because of their reliance on healing herbs and the fact that many more gardens are controlled by the Druj than by the remaining Urizen. Still, the surviving Imperial citizens in the territory will be feeling the pinch - especially when it comes to treating the kind of envenomed wounds the orcs of [the Mallum](../barbarians/The_Mallum.md) favour.
+
+## Weirwater Horses
+
+- **Everyone in Weirwater who is interested in horses has a peculiar horse dream**
+
+Following the Summer Solstice, every person in [Weirwater](../nations/dawn/Weirwater.md) who has previously felt even a mild affinity for or curiosity about horses experiences vivid dreams about riding a galloping horse on an unknown shore on a moonless night. As well as the presence of the horse and the shore, every dream also involves powerful storms and rain, lightning, lashing winds, and open water. Many of those who experience the dream report fantastical elements as well - riding a flying mount or a half-fish half-horse creature that dives deep beneath the waters of [the Semmerlak](../nations/varushka/The_Semmerlak.md) to explore sunken ruins. Only those who would welcome such a dream experience it. The dreamer learns nothing about horses they did not already know, but awakes feeling exhilarated and full of wonder.
+
+There is some speculation that this enchantment may somehow be connected somehow to the [strange treasures](Light_upon_the_water.md#semmerlak-flotsam) left on the shores of the Semmerlak - although nobody in the other territories bordering the lake reports any such dream.
+
+## A Dream of Vibrant Connections
+
+- **Visual artists across the Empire have experienced peculiar dreams**
+
+There is a dream that has disturbed the sleep of many across the whole of the Empire in this season. Not often, just once or twice, but they begin to talk about it, those who have had it, in the taverns and the towns. Some things seem to be the same for whoever dreams it. It begins with swirling colours spinning and then coloured feathers soaring up into the sky. As the dreamer looks up they feel themselves weightless, fall backwards and then the scene shifts and other images appear before them.
+
+From this point the tales of the images seen fragment. Each dreamer sees themselves - yet all describe themselves sitting alone in a room thinking. The thoughts that arise galvanise quickly into urgency. A driven need to make others understand, to bring connection, illuminate meaning, convince someone of something. And each of them rushes, in their own way to pick up a paintbrush or pencil, a lump of clay or a chisel and stone and begin to create. Each of them wakes, before their masterpiece is done, inspired to try again by day.
+
+Three more things are said to be the same among all the dreamers. First, they are all already artists. Not one of them has been heard to imagine themselves taking up a new medium in this dream or starting to create where they did not before. Second, they all wake from the dream with a truth in their heart. Art can do this. It can bridge gaps and ease misunderstandings, and this is a truth that they yearn to discuss with others who know it too. Third, there is a name whispered light as a feather that stays with them on waking. That name is **Farren Silver Streams**.
+
+**OOC Note:** Any player who considers their character to be a visual artist may decide they have heard this dream. There is no need for the character to believe that they are a skilled visual artist, just that they have already been doing art in some visual medium - whether for themselves or for others. You are free to roleplay your response to the message and name the dream leaves behind in any way that feels appropriate to you.
+
+## A Light that Never Goes Out
+
+- **Shifting as part of some cosmic choreography, the [Key](../../mixed/magic/lore/The_Key_and_The_Lock.md#the-key) burns brightly against the [Lock](../../mixed/magic/lore/The_Key_and_The_Lock.md#the-lock).**
+- **A predisposition towards truth, revelation and understanding is set to reach an apex at the next summit.**
+
+[The Key](../../mixed/magic/lore/The_Key_and_The_Lock.md#the-key) - also known as the Torch, the Lantern and the Wand is a constellation of discovery, revelation and the conquering of mystery. As [the conjunction](Every_time_it_rains.md#glow-in-the-dark) of the [Lock](../../mixed/magic/lore/The_Key_and_The_Lock.md#the-lock) have faded and the seasons have changed, a reciprocative shift in the Key has followed - as if connected by an unseen thread of causality. This minor shift in the prominence of *The Seeking Stars* has been felt only subtly across the Empire following the truism of ['As Above, So Below'](../../mixed/magic/lore/Astronomancy.md#as-above2c-so-below): the truth seems easier to speak, secrets lie more heavily upon the hearts of their keepers and the wonder of discovery and understanding effervesces beneath the surface of every sensation. More keenly experienced by the young, the Key's influence has only grown. It is moving towards an apogee that coincides with the approaching equinox. As this date has approached, incidence of spellcasters being *ridden* - or touched by the Key have increased - as well as reports of strange visions and snatches of odd music interfering with rituals cast at [Imperial Regio](../../mixed/magic/rituals/Regio.md#the-imperial-regio).
+
+Once per day, while standing at the [Imperial regio](../../mixed/magic/rituals/Regio.md#imperial-regio), any character with the [Magician](../../out-of-character/rules/Magical_skills.md#magician) skill may evoke the constellation of *the Lock* to perform [detect magic](../../out-of-character/rules/Detect_magic.md) without expending any personal mana. If they do so, they experience the following [roleplaying effect](../../out-of-character/rules/Roleplaying_effects.md): *You feel a strong urge to apply yourself - to use what makes you unique in the service of overcoming ignorance and secrecy.* This effect lasts for an hour, or until [overcome](../../out-of-character/rules/Roleplaying_effects.md#overcoming-roleplaying-effects) in the usual way.
+
+Furthermore, any ritualist who evokes *the Key* while performing a [divination](../../mixed/magic/rituals/Crystalline_Focus_of_Aesh.md#divination-rituals) ritual or performing [detect magic](../../out-of-character/rules/Detect_magic.md) at the Imperial regio may choose to experience the following [roleplaying effect](../../out-of-character/rules/Roleplaying_effects.md): *Gaps in your understanding are opportunities to discover and reveal. You experience a powerful sense of achievement when you discover - or help others discover - new things.* Once experienced, the effect will remain until the start of the Winter Solstice, but can be [overcome](../../out-of-character/rules/Roleplaying_effects.md#overcoming-roleplaying-effects) in all the usual ways. Once overcome, however, it will not return.
+
+## After the Game is Over
+
+- **Zakalwe invites his champions from the Summer Tourney to meet with him on Friday at 22:00 in a chamber reached via the Hall of Worlds**
+
+During the Summer Solstice a team of Imperial heroes [represented](Our_thumping_hearts.md) [Zakalwe](../eternals/Zakalwe.md) as the eternal competed to become patron of the [Icy Crag](../../mixed/titles/Master_of_Ice_and_Darkness.md#the-icy-crag-of-the-eternal-sun). Now the *Hunter of Tides* issues an invitation to the three participants and their advisors to attend an audience in which they can discuss what they have learned, what went well and what they could have done differently. The meeting will take place at ten in the evening on Friday night, in a chamber reached through the Hall of Worlds. The herald who delivers the invitation makes clear that this is *only* for the three contestants and their three advisors - there is no intent to snub the [Archmage of Day](../../mixed/titles/Archmage_of_Day.md) but this is a personal matter between the eternal and their allies rather than anything that bears on the relationship of the realm of Day and the Empire.
+
+## Ash and Dust (Conjunction)
+
+> **Accessibility**
+> This encounter is expected to involve fighting and is classed [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely). It will take place upon the field and will involve free-ranging movement around that area. This encounter is likely to involve themes relating to body horror and corrupting influences on the mind. Further details can be obtained by a referee prior to embarking on the encounter.
+
+- **A group of Grendel magicians are exploring the vicinity of the Black Plateau**
+- **Scouts in the region have tracked groups of [Sky Mages](../barbarians/Elite_Grendel_characters.md#sky-mages), escorted by mercenaries as they explore [Screed](../nations/the-league/Spiral.md#screed).**
+- **Civil Service prognosticators have identified a conjunction to a place known as "Kephalos' Delve" that will place Imperial heroes near the point they appear to be exploring**
+- **They have asked the *Archmage of Night* to arrange an expedition to discover what the Grendel are up to in Screed if they judge it appropriate**
+
+[Sky Mages](../barbarians/Elite_Grendel_characters.md#sky-mages) - the magical backbone of many elite [Grendel](../barbarians/Grendel.md) military units. They are as enamoured with their nation's unique perspective of [Prosperity](../religion/Prosperity.md) as any other Grendel and being at the forefront of military actions. they are perhaps the best placed to 'acquire' and exploit the magical esoterica of their conquered foes. This is a dire mixture in a land such as [Screed](../nations/the-league/Spiral.md#screed), stained as it is by the accursed malignancy of the Black Plateau - where the unwary, the insolent and the arrogant will find their match in chaotic forces whose disturbance may bring fell consequences for the Spires neighbouring the plateau - if not the wider Empire.
+
+Sensible Grendel are definitely avoiding the area. However, scouts keeping an eye on the region from Oblivion's Edge - almost all [Cambion](../../mixed/magic/lore/Cambion.md) owing to that lineage's [capacity](../../mixed/magic/lore/Cambion.md#stubborn-will) for enduring the malign atmosphere in Spiral outside the spires - indicate that one particular group of orc magicians and their entourage has pressed beyond where even these veterans of the black, glassy landscape can tolerate to travel. They have pressed into the stark, rugged portions of the Plateau where ash sluices like water and even plant life seems to grow twisted and disturbed. What they are doing there is not clear, but they have certainly not returned.
+
+Urged by the news from the scouts, the Civil Service prognosticators have discovered a conjunction to the area of *Kephalos' Delve* which is where the Grendel have been spotted. There is some controversy around the conjunction - the Urizen magician who divined it reports a powerful interaction with both the [Lock and Key](../../mixed/magic/lore/The_Key_and_The_Lock.md) that threatened to overwhelm her senses. A tentative attempt to repeat their divination confirmed the conjunction, but did not bring with it any unexpected results. Given the nature of the conjunction, its location, and the uncertainty about precisely what is going on there, the Civil Service have asked the [Archmage of Night](../../mixed/titles/Archmage_of_Night.md) to arrange for a group to travel there and see what the Grendel are doing if they think it appropriate - perhaps after ascertaining if anyone knows anything about this place or why some Grendel sky mages might be interested in it.
+
+## All is Fair, All is Permitted (Conjunction)
+
+> **Accessibility**
+> This encounter is expected to involve fighting and is classed [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely). It will take place in a far portion of the forest and will involve free-ranging movement around that area. This encounter is likely to involve themes relating to body horror, monsters and the use of darkness to create atmosphere. Further details can be obtained by a referee prior to embarking on the encounter.
+
+- **A conjunction leading to deepest, darkest [Volodmartz](../nations/varushka/Volodmartz.md) has been identified by Civil Service prognosticators at 20:45 on Saturday Night to Udoli's Fall in Brez**
+- **The time, location and distance of the conjunction from the nearest [road](../nations/varushka/Varushkan_Road.md) strongly suggest the travellers are at risk from [Monsters](../nations/varushka/Varushkan_Monster.md)**
+- **This conjunction may be of interest to [Wardens](../nations/varushka/Warden.md) - particularly those from [Volodmartz](../nations/varushka/Volodmartz.md)**
+- **The civil service have asked Vladimir Sasha Volkov, the *Boyar of the Sovereign's Head* to arrange a group to investigate**
+
+As Autumn continues, the most northerly reaches of [Varushka](../nations/varushka/Varushka.md) will begin to fall beneath a thick coat of ice and snow that will deepen throughout winter, only to recede when it has worn out all [hospitality](../../mixed/magic/lore/Varushka_hearth_magic.md#hospitality) and is asked to leave by Spring. One location where Mother Winter will rest her heels longest is [Brez](../nations/varushka/Volodmartz.md#brez), in the far north of [Volodmartz](../nations/varushka/Volodmartz.md) where there are reports that a little snow has already begun to fall on the pine-blanketed foothills and crags. In such conditions the [roads](../nations/varushka/Varushkan_Road.md) can quickly become impassable for the unwary.
+
+One such group of the unwary as been identified by civil service prognosticators - though their divinations and scrying has allowed little more than the impression that the [Sentinel Gate](../world/Sentinel_Gate.md) will deliver heroes from Anvil to long-forgotten ruins and the presence of travellers. It has identified a curious twist in fate that connects the travellers with some aspect of the ruins in which it can be assumed they are sheltering. However, those civil service members drawn from the remote regions of Varushka themselves are quick to remind those planning to enter this conjunction that beyond the roads one is entirely at the mercy of the [monsters](../nations/varushka/Varushkan_Monster.md) that stalk such remote locations and will make quick work of the lost and the unprepared. The civil service have asked the Boyar of the Sovereign's Head to arrange a group of wardens and other interested parties to go on the expedition.
+
+## A Gift of Lore
+
+- **The *Concordance of Earthbound Stars* has become part of Urizen Lore**
+- **A ritual called *Treacher's Quill* has become part of Urizen Lore**
+
+During the Summer Solstice, *[Olic the Wanderer](Some_heavenly_music.md#song2c-mirror-and-flame)* [promised](Every_time_it_rains.md#diplomatic-considerations) that if the Empire was ravaged by what he referred to as "*an Imperial curse*" then he would place the [Concordance of Earthbound Stars](Some_heavenly_music.md#concordance-of-earthbound-stars) into [Urizen lore](../nations/urizen/Urizen_magical_traditions.md#urizen-lore). With almost the entire Empire [ravaged by storms](Light_upon_the_water.md), he has proved to be as good as his word. A week ago, four new rituals became available to Urizen ritual magicians: [Mirror of Perfection](../../mixed/magic/rituals/Mirror_of_Perfection.md), [Flame and the Flood](../../mixed/magic/rituals/Flame_and_the_Flood.md), [An Echo of Songs](../../mixed/magic/rituals/An_Echo_of_Songs.md), and [The Stargazer's Astrolabe](../../mixed/magic/rituals/The_Stargazer-s_Astrolabe.md) can now all be mastered and performed by those with access to Urizen lore.
+
+Three days before the Autumn Equinox, another ritual becomes part of Urizen Lore. It is called [Treacher's Quill](../../mixed/magic/rituals/Treacher-s_Quill.md), and it apparently comes from a book entitled *Ceremonies of the Black Drop Society*. It allows anyone with even a rudimentary grasp of [Winter magic](../../out-of-character/rules/Winter_magic.md) and a knife to send a special missive to the eternal [Agramant](../eternals/Agramant.md).
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [384YE Autumn](../../indexes/by-category/384YE_Autumn.md), [Recent History](../../indexes/by-category/Recent_History.md), [Winds of Magic](../../indexes/by-category/Winds_of_Magic.md)

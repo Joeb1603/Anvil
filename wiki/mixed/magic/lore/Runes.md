@@ -1,0 +1,148 @@
+---
+title: Runes
+source: https://www.profounddecisions.co.uk/empire-wiki/Runes
+class: mixed
+topic: magic/lore
+categories:
+- Runes
+- Magic
+- Magic Theory
+last_edited: '2026-09-12T11:25:44Z'
+revision: 145538
+aliases:
+- Rune
+in_character_boxes: 1
+---
+
+# Runes
+
+*[Image: Runes](https://www.profounddecisions.co.uk/empire-wiki/File:Runes-With-Names.png)*
+
+## Overview
+
+Empire does not use Futhark or other traditional real-world rune systems. Rather it uses a series of twenty-six mystical runes that originated in [Wintermark](../../../in-character/nations/wintermark/Wintermark.md). While the Winterfolk discovered them, they are used by magicians and crafters all over the Empire.
+
+Each rune is associated with a concept, usually a single word that sums up its magical meaning. They are each tied thematically to one of the [realms](../../../in-character/eternals/Realm.md) of magic. Runes also have names, which can be invoked, and are believed to physically resemble an iconic item or creature. Many magicians keep a scroll or a notebook containing information about the runes, as memorizing all of them is quite a feat.
+
+The runes are also used as a simple alphabet by several magicians; each rune stands for a single letter in a typical substitution cipher. Many magicians consider this to be a risky and foolish activity; if the runes have power, then using them to write things invites unexpected and uncontrollable forces to intrude on the life of anyone who handles them.
+
+### Performing Magic
+
+Runes can be used as a method of performing magic. A magician might trace a rune in the air or while touching a target of a spell, or might use a permanent or temporary design that incorporates a rune. Runes are commonly painted or carved onto the targets of any magic that has a duration, but may also be traced or invoked while performing almost any ritual.
+
+There are no magical functions that are unique to runes, they are an aid to roleplaying when performing a ritual and can be replaced with other aids as appropriate to the character, but the magical associations of each rune can be used in rituals where the hearth magic properties of the runes may provide a bonus to the effect of the ritual if used correctly.
+
+### Divining with the Runes
+
+A diviner may have a set of runestones (or occasionally runic cards) which they use for divination. The diviner selects several of the runes at random, and tries to interpret their meaning. Some diviners write a word using a runic substitution cipher and then interpret the resulting runes as a means to gain insight about the thing the name applies to. This practice is largely discredited; magicians in [Urizen](../../../in-character/nations/urizen/Urizen.md) and [Highguard](../../../in-character/nations/highguard/Highguard.md) alike point out that it is based on an arbitrary connection between the runes and the letters of the Imperial alphabet, and has no divinatory value.
+
+### Crafting the Runes
+
+Runes are often incorporated into crafted items, especially in Wintermark. In the setting they help to enhance the properties of items made - a sword is less likely to rust or shatter, a cloak is less likely to tear - but when used in this way the runes have no rules-based game effect, they are intended purely for roleplaying purposes.
+
+An item may be marked with one or two runes that define or support its purpose - for example, a sword may have the runes for "[warfare](Jotra.md)" and "[victory](Tykonus.md)" engraved on either side of the blade.
+
+### Realm Affiliations
+
+The Runes can be combined together in many different ways, but magicians agree that there is a strong connection between the runes and the [realms](../../../in-character/eternals/Realm.md). The majority of the runes are symbolic of concepts or themes closely tied to one of the supernatural realms. This does not mean that a rune can only be used with workings tied to the affiliated realm; for example, the rune of Purity [Cavul](Cavul.md) is associated with the Day realm and may be used to purify a poison, but the rune of Blood [Rhyv](Rhyv.md) might be used instead or as well, despite being associated with the Spring realm. Collecting the runes into groups based on their realm affiliation is a useful shorthand for magicians when they are constructing a ritual. Crafters are aware of the distinction, but are usually much more interested in the meanings of the individual runes than their esoteric connections.
+
+#### Runes of Spring
+
+The Spring runes are associated with life, the natural world, youth and beginnings. They are [Bravash](Bravash.md) the Rune of Fertility; [Evrom](Evrom.md) the Rune of Beginning; [Mawrig](Mawrig.md) the Rune of Storms; and [Rhyv](Rhyv.md) the Rune of Blood.
+
+#### Runes of Summer
+
+The Summer runes are associated with strength, confidence, majesty, adulthood and energy. They are a common sight on weapons and armour, especially in Wintermark and Dawn. They are [Feresh](Feresh.md) the Rune of Majesty; [Jotra](Jotra.md), the Rune of Battle; [Tykonus](Tykonus.md), the Rune of Victory; and [Verys](Verys.md), the Rune of Might. The runes of Summer are sometimes called "the [Gryphon](../../../in-character/world/Legendary_beasts.md#gryphon) runes" after the heraldic beast popular in [Dawn](../../../in-character/nations/dawn/Dawn.md).
+
+> *In-character text:*
+>
+> The gryphon is a heraldic beast that combines the aspect of an eagle and a lion, the union of Majesty and Might. It has razor-sharp claws that cleave through armour like the Rune of Swords, and possesses wings that bring to mind the Banner Rune. It exemplifies all that is best in the four runes, and is an enduring symbol of victory, prowess, pride and potency. It is little wonder that it is so popular among the Dawnish.
+
+#### Runes of Autumn
+
+The Autumn runes are associated with wealth, influence, power, maturity and skill. They are [Queros](Queros.md), the Rune of Plots; [Hirmok](Hirmok.md), the Rune of Dominion; [Lann](Lann.md), the Rune of Bargains; and [Pallas](Pallas.md), the Rune of Wealth.
+
+#### Runes of Winter
+
+Several of the Winter runes have a bad reputation, as might be expected. They are associated with fear, death, suffering, curses and ending, but they are also associated with wisdom and old age. They are [Naeve](Naeve.md), the Rune of Hunger; [Irremais](Irremais.md), the Rune of Wisdom; [Yoorn](Yoorn.md), the Rune of Ending; and [Kyrop](Kyrop.md), the Rune of Weakness.
+
+#### Runes of Day
+
+The Runes of Day are associated with thought, reason, truth, light and purity. They are [Cavul](Cavul.md), the Rune of Purity; [Ophis](Ophis.md), the Rune of Revelation; [Sular](Sular.md), the Rune of Discovery; and [Aesh](Aesh.md), the Rune of Thought.
+
+#### Runes of Night
+
+The Runes of Night are associated with secrecy, illusion, emotions, instinct and change. They are [Diras](Diras.md), the Rune of Secrets; [Wyr](Wyr.md), the Rune of Mystery; [Xun](Xun.md), the Rune of Transformation; and [Zorech](Zorech.md), the Rune of Passion.
+
+#### The Mystic Runes
+
+There are two runes that fall outside the realm groupings. (or perhaps three, depending who you ask). They are [Gralm](Gralm.md), Rune of Destiny and [Ull](Ull.md), Rune of Chance. Some magicians leave them out of the runeset altogether; they are closely tied up with the Wintermark concept of the [skein](../../../in-character/nations/wintermark/Wintermark_culture_and_customs.md#skein). The twenty-seventh rune, called [The Unnamed](../../../uncategorised/unsorted/The_Unnamed.md), is the esoteric blank rune that represents the unknown, the concept of things that are outside creation.
+
+### Runes and the Imperial Faith
+
+While the practice is not universal, certain runes are closely connected with certain of the Virtues of the Imperial Faith. The practice of using the runes in this fashion is most common in Wintermark, but it is also popular in Urizen and among the Navarr. At various times the Synod has attempted to introduce specific sigils to represent the Virtues, but they have generally failed to gain much traction. In almost all cases, the runes are seen as an adjunct to, rather than a replacement for, the more generally accepted iconography of the Virtues.
+
+While there is no universally accepted connection between runes and Virtues, the most common runic affiliations are:
+
+- [Ambition](../../../in-character/religion/Ambition.md) is represented by [Naeve](Naeve.md), Rune of Hunger
+- [Courage](../../../in-character/religion/Courage.md) is represented by [Jotra](Jotra.md), Rune of Battle
+- [Loyalty](../../../in-character/religion/Loyalty.md) is represented by [Lann](Lann.md), Rune of Bargains
+- [Pride](../../../in-character/religion/Pride.md) is represented by [Feresh](Feresh.md), Rune of Majesty
+- [Prosperity](../../../in-character/religion/Prosperity.md) is represented by [Pallas](Pallas.md), Rune of Wealth
+- [Vigilance](../../../in-character/religion/Vigilance.md) is represented by [Ophis](Ophis.md), Rune of Revelation
+- [Wisdom](../../../in-character/religion/Wisdom.md) is unsurprisingly represented by [Irremais](Irremais.md), Rune of Wisdom.
+- While not corresponding directly to an Imperial Virtue, the runes [Yoorn](Yoorn.md) and [Evrom](Evrom.md) are sometimes used together to represent the concept of reincarnation; in this case Yoorn represents the end of one life, and Evrom the beginning of another.
+
+These correspondences are mostly symbolic, used as decoration or divination rather than working magic. The runes seem to lack any ability to directly interact with or influence the Imperial Virtues in the way that Liao Ceremonies do. While [Irremais](Irremais.md) may be evoked to grant wisdom, it has no special ability to interact with a shrine Consecrated to the Imperial Virtue of Wisdom. The exact relationship between magic and Virtue is a topic of much debate among scholars from all walks of life.
+
+### Runes and Lineage
+
+A strong connection exists between certain runes and the nature of those with lineage. While this set of connections is not universally accepted, five of the six lineages have a natural affiliation for six of the runes. As with the correspondences with the Imperial Virtues, these connections are most commonly used during divination.
+
+- The blood of the [Briar](Briar.md) lineage is said to have a correspondence with the Rune of Blood, Rhyv.
+- The [Cambion](Cambion.md) lineage is said to correspond with the Rune of Bargains, Lann.
+- The [Changeling](Changeling.md) lineage is said to correspond with the Rune of Majesty, Feresh.
+- The [Draughir](Draughir.md) lineage is said to correspond with the Rune of Hunger, Naeve.
+- The [Merrow](Merrow.md) lineage has an affiliation for the Rune of Discovery, Sular.
+- The [Naga](Naga.md) lineage has no single runic correspondence; Kallavesi mystics claim that this is simply because their nature defies easy categorisation, and as a consequence any or all of the four Runes of Night are used to represent them.
+
+### Commercial Use
+
+Use of the runes is free for all non-commercial projects for Empire. So if you're making something for yourself for Empire, it's fine to use any of the art here or the supporting files. For all other projects please see the [fair use policy](../../../out-of-character/site/Terms_and_conditions.md#fair-use-policy) in our terms and conditions.
+
+### Rune downloads
+
+You can download an installable [Wintermark runes windows font file](http://www.profounddecisions.co.uk/resources/downloads/Wintermark-Regular.ttf) which contains all the Wintermark runes coded by the first letter of the name of each rune.
+
+You can download a [LaTeX style file](https://github.com/Beornwulf/TeXEmpireRunes/) for using the runes.
+
+You can download an illustrator [Wintermark runes vector file](http://www.profounddecisions.co.uk/resources/downloads/wintermark_runes.ai) which contains all the Wintermark runes as scalable vectors. There is a similar file for the [magic runes](http://www.profounddecisions.co.uk/resources/downloads/magic_runes.ai).
+
+You can download each of the runes as a .jef file suitable for machine embroidery on a 7x5 hoop or larger, linked off the individual rune pages.
+
+## Further Reading
+
+- [Traditions](Magical_tradition.md)
+  - [Astronomancy](Astronomancy.md)
+  - [Blood Magic](Blood_magic.md)
+  - [Dramaturgy](Dramaturgy.md)
+  - Rune Magic
+  - [Music of the Spheres](Music_of_the_spheres.md)
+  - [Aspect Magic](Aspect_magic.md)
+- [Ritual Theory](../../../out-of-character/rules/Ritual_theory.md)
+- [Spellcasting](../../../out-of-character/rules/Spellcasting.md)
+
+Runes
+
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Image: Aesh.png](Aesh.md) | [Image: Bravash.png](Bravash.md) | [Image: Cavul.png](Cavul.md) | [Image: Diras.png](Diras.md) | [Image: Evrom.png](Evrom.md) | [Image: Feresh.png](Feresh.md) | [Image: Gralm.png](Gralm.md) | [Image: Hirmok.png](Hirmok.md) | [Image: Irremais.png](Irremais.md) |
+| [Aesh](Aesh.md) | [Bravash](Bravash.md) | [Cavul](Cavul.md) | [Diras](Diras.md) | [Evrom](Evrom.md) | [Feresh](Feresh.md) | [Gralm](Gralm.md) | [Hirmok](Hirmok.md) | [Irremais](Irremais.md) |
+| [Image: Jotra.png](Jotra.md) | [Image: Kyrop.png](Kyrop.md) | [Image: Lann.png](Lann.md) | [Image: Mawrig.png](Mawrig.md) | [Image: Naeve.png](Naeve.md) | [Image: Ophis.png](Ophis.md) | [Image: Pallas.png](Pallas.md) | [Image: Queros.png](Queros.md) | [Image: Rhyv.png](Rhyv.md) |
+| [Jotra](Jotra.md) | [Kyrop](Kyrop.md) | [Lann](Lann.md) | [Mawrig](Mawrig.md) | [Naeve](Naeve.md) | [Ophis](Ophis.md) | [Pallas](Pallas.md) | [Queros](Queros.md) | [Rhyv](Rhyv.md) |
+| [Image: Sular.png](Sular.md) | [Image: Tykonus.png](Tykonus.md) | [Image: Ull.png](Ull.md) | [Image: Verys.png](Verys.md) | [Image: Wyr.png](Wyr.md) | [Image: Xun.png](Xun.md) | [Image: Yoorn.png](Yoorn.md) | [Image: Zorech.png](Zorech.md) |  |
+| [Sular](Sular.md) | [Tykonus](Tykonus.md) | [Ull](Ull.md) | [Verys](Verys.md) | [Wyr](Wyr.md) | [Xun](Xun.md) | [Yoorn](Yoorn.md) | [Zorech](Zorech.md) | [The Unnamed](../../../uncategorised/unsorted/The_Unnamed.md) |
+
+---
+
+Categories: [Runes](../../../indexes/by-category/Runes.md), [Magic](../../../indexes/by-category/Magic.md), [Magic Theory](../../../indexes/by-category/Magic_Theory.md)

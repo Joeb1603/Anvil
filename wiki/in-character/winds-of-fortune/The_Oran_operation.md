@@ -1,0 +1,254 @@
+---
+title: The Oran operation
+source: https://www.profounddecisions.co.uk/empire-wiki/The_Oran_operation
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 388YE Summer
+- Appraisal
+- Mandate
+event: 388YE Summer
+last_edited: '2026-08-24T08:01:50Z'
+revision: 144126
+in_character_boxes: 5
+---
+
+# The Oran operation
+
+> *In-character text:*
+>
+> "I've heard some of your people complain about the Senate and, let me tell you, they do not know how good they have it."
+>
+> Lutomysla quirked an eyebrow.
+>
+> "They should try dealing with a Salt Lord." Grayune shook her head. "If we were trying this back on the Shore... Every time we suggested building a bridge to help move armies, some Salt Lord would look at the weirwood we needed and suggest building another navy instead. So we end up with shitty bridges that keep falling down, and then everyone just falls back on ferries and boats and its the soldiers that get shafted because they have to pay the boat owners for the privilege of getting to where the war is. And of course if we don't pay, the Grendel blame the 'landbound' and... Anyway it's a nightmare."
+>
+> "Wait, aren't *you* Grendel Grayune?" Lutomsyla's tone was mild but she was very interested in the answer. The orc sighed.
+>
+> "It depends who you ask," she said bitterly. "We call ourselves Grendel - called ourselves Grendel I mean." The engineer shot the prognosticator a quick look from under furrowed brows. "We're the Protectorate of Morajasse now, obviously."
+>
+> "Obviously," nodded Lutomysla. The Protectorate was *probably* a political fiction but it was difficult to be *entirely* sure of that, which made exchanges like this fascinating to the Varushkan.
+>
+> "We called ourselves Grendel but the Commander, he's a soldier. Not a sailor. There are people on the Shore who think that you're only a *real* Grendel if you own a boat, or sail on a boat, or build boats or... 'Soldiering' is what the septs do. No true Grendel, and so on. You know?"
+>
+> Lutomysla wasn't sure she *did* know but nodded sympathetically nonetheless.
+>
+> "It must be quite frustrating," she said encouragingly. It was rare for the normally taciturn Protectorate orcs to speak so candidly and she wanted to get the most out of it.
+>
+> "Not that the Empire's much better," Grayune added hastily. "So many people in the mix means everything takes forever. When a Salt Lord decides they want something, they just... do it. Not so much of this arguing, and voting, and all this thing with your priests. The septs are the same - as long as they come when the Salt Lords call, they're pretty much left alone to get on with it in their lands."
+>
+> The orc stared off into the distance, clearly seeing something other than the marshy northern bank of the Scorrero.
+>
+> "It's the army that wins the wars," she said half to herself. "It's the soldiers that die in the mud, die with swords in their hands. The Moridun have it better, fair enough, but only because they fought tooth and nail for their recognition. And when you're locked down by a bunch of Urizen sentinels you can't just... sail away. It wasn't the damn sailors that died at Solen's Doubt, let me tell you."
+>
+> Grayune shook herself, and straightened up. She raised her spyglass, studying the shores of the Siroc Bayou.
+>
+> "Anyway, I'm sure things aren't all coffee and cream in the Imperial armies, either. It's a soldier's lot to slog over hot sand and spill blood because some silk-wearing arsehole five hundred miles away tells them to. "
+>
+> She barked a laugh.
+>
+> "'The soldier's lot is to fight and die, to fall on far sands and never know why'."
+>
+> Lutomysla wondered who she was quoting. The uncomfortable silence stretched, becoming more awkward. Grayune broke it.
+>
+> "Right! See that? I mean obviously you can't see that because I have the spyglass, but trust me. The road there? It's a bit battered but I think it'd be easier to bank and shore it than to try building a new one, most of the stone is still there it's just under the mud. Wide enough for two wagons I'd judge, so if the bridge makes landfall *there* it'll link your trade routes quite nicely."
+>
+> Lutomysla let the talk of salvage, stone, and swamps wash over here, making a mental note to send a note about this exchange to Gerard once they were back in Oran.
+
+*[Image: The transformation of southern Madruga cut the connection between the wider Empire and Feroz, and restoring the link will be a major undertaking.](https://www.profounddecisions.co.uk/empire-wiki/File:Atchafalaya_Basin.jpg)*
+
+## Overview
+
+In Autumn 386YE, as part of the solution to the incursion of the *dry patricians*, the river Scorrero was infused along its length with Spring magic resulting in [violent flooding](Where_the_river_rises.md). The damage caused by the withering presence of the patricians was washed away, and when the waters subsided [Madruga](../nations/the-brass-coast/Madruga.md) was transfigured. The gentle farmlands of the south and west were replaced with marsh and haunted grass - [Crucible](../nations/the-brass-coast/Madruga.md#crucible), [Siroc Bayou](../nations/the-brass-coast/Madruga.md#siroc-bayou), and [Quiet Grasses](../nations/the-brass-coast/Madruga.md#quiet-grasses). In the process, the bridges crossing the river were swept away. Only the Sobral Bridge north of the eponymous town survived.
+
+Last season, the Senate accepted [an offer](An_arrow_nocked_and_in_flight.md#a-garden-proposal) from the Protectorate of Morajasse to work with their military engineers. They would apply their expertise to the challenge of creating new bridges to reconnect the eastern Brass Coast, and restore easy movement between [Feroz](../nations/the-brass-coast/Feroz.md) and Madruga. This project is also of interest to the [Iron Confederacy](../foreign-nations/Iron_Confederacy.md), whose merchants used to pass along the eastern coast road via [Bramar](../nations/the-brass-coast/Feroz.md#fontargenta) to reach the wider Empire.
+
+[Lutomysla Niegoslava](../appraisals/Appraisal.md#lutomysla-niegoslava) was selected to lead the appraisal and liaise with the Protectorate. The project definitely does not play to her strengths as a magician who seeks magical solutions to problems, but her familiarity with the magical strangeness of the Siroc Bayou may be useful. Her main contribution, however, comes from her understanding of the Imperial civil service and bureaucracy, and smoothing interactions between the Protectorate engineers and the people of the Brass Coast.
+
+## Bridges
+
+- **Bridging the Scorrero between Feroz and Madruga is challenging because the river has become so tumultuous**
+- **Building in the Siroc Bayou or Crucible is difficult because of the marshy terrain**
+- **Siroc Bayou and Crucible are not under Imperial control**
+
+The main challenge in bridging the Scorrero is that the wild river has become even more dangerous since the powerful ritual that caused it to flood the wasteland created by the dry patricians. Its waters are impregnated with [ilium](../../out-of-character/rules/Ilium.md) that flows down from the [Kahraman](../nations/the-brass-coast/Kahraman.md) peaks. Star metal in sufficient concentration is known to have unexpected effects on magical [enchantments](../../out-of-character/rules/Enchantment.md) or [curses](../../out-of-character/rules/Curse.md) often causing them to linger considerably longer than might be expected. The *Bay of Oran* - the wide waters between Feroz and Madruga into which the Scorrero empties - is nowhere near as wild but is by no means untouched by the strangeness of the west. There is talk of mats of swampweed entangled with bright yellow flowers that seem to move against the tides, their long fronds trailing deep into the waters like floral jellyfish; reports of peculiarly-coloured and inquisitive shoals fish; distressingly large crabs; and gulls who stare at sailors in a way that makes them uncomfortable. So far these phenomena haven't caused any problems, but the folk of northern Feroz have learned to be a little pessimistic about such things.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Corsairs, this season we commit to a Daring Raid upon the Siroc Bayou. Keep your weather eyes open for the lost wealth of the families displaced by the magical upheaval in these territories. What we can return we will, what we cannot, we return to the nation. Suffer no Suranni insult, but spill no foreigner blood. From the Bayou we will begin to retake the Crucible. For the Freeborn!
+> >
+> > Joaquim i Erigo, General of the Red Wind Corsairs
+
+The other problem is that the northern banks of the Scorrero are now trackless marshland. The roads that used to run along the Scorrero, and cross the Sobral Bridge, were washed away by the magically spreading waters. Until this very season, the Bayou and Crucible were wild and untamed lands that were not even officially part of the Empire. The [Red Wind Corsairs](../../mixed/government/military/Red_Wind_Corsairs.md) launch a [daring raid](../../mixed/government/military/Army_qualities.md#daring) into the Bayou to bring it under Imperial control, but there is still much work to be done.
+
+## Bridging Over Troubled Water
+
+- **The Protectorate engineers have examined the situation and put together a proposal to build a bridge near Oran**
+
+The first step for the Protectorate is to make a proper assessment of the river - on both banks. Lutomysla secures Freeborn assistance, hiring a couple of boats for the use of the [orc](../../mixed/world/Orc.md) engineers. A [recent statement](../synod-judgements/388YE_Spring_Equinox_Synod_judgements.md#judgement-133) in the Freeborn assembly by **Malaki** fell just short of the [greater majority](../../mixed/government/synod/Judgement.md#greater-majority) it needed to be widely distributed, but in the absence of any encouragement *not* to deal with the Protectorate the traditional Freeborn entrepreneurialism seems to be taking precedence. Especially given the Senate decision to accept Commander Gallum's [offer to restore](An_arrow_nocked_and_in_flight.md#a-garden-proposal) the [Spice Gardens of Feroz](../nations/the-brass-coast/Feroz.md#the-spice-gardens-of-feroz) to Freeborn control.
+
+*[Image: RedWindCorsairs Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:RedWindCorsairs_Colour.png)*
+
+There is a little excitement when the engineers run across patrols from the Red Wind Corsairs. Soldiers on both sides have grudges against their former enemies - but the experienced prognosticator is able to defuse the situation with some careful diplomacy and Varushkan honeywine. It takes a couple of weeks, but the assessment is completed and the true extent of the challenge is made clear. Bridging the wild Scorrero itself, with a magical marsh on the northern bank, is likely to prove infeasible. It would also need a new road to be built along the northern banks of the river, through the shifting marshes.
+
+Instead the engineers propose building a long road bridge across the western end of the bay, downstream from where the wild river empties into the sea. One end would be anchored near Oran, the other on the coast east of where the city of [Siroc](../nations/the-brass-coast/Madruga.md#siroc-ruined) once stood. The bridge would employ [Grendel](../barbarians/Grendel.md) techniques for crossing deep water using [caissons](https://en.wikipedia.org/wiki/Caisson_(engineering)). A frame of [weirwood](../../mixed/economy/Weirwood.md) reinforced with [mithril](../../mixed/economy/Mithril.md) is constructed, and pumps mounted on pontoons are used to remove the water from within the frame, which is then filled with a mixture of cement, aggregate, mithril and steel rods, and a [white granite](../../mixed/economy/White_granite.md) core. This creates a line of stable pylons across which a road can run.
+
+### Mother of Invention
+
+|  |
+| --- |
+| **Oran Bridge** |
+| **Commission Type:** Edifice |
+| **Location:** Oranseri, Feroz and Siroc Bayou, Madruga |
+| **Cost:** 50 white granite, 15 mithril, 15 weirwood, 96 crowns |
+| **Time:** Six months |
+| **Effect:** • Allows armies to pass between Madruga and Feroz <br> • Removes the impoverished quality from Oranseri <br> • Restores the benefits of the Sunset Roads to Segura |
+| **Special:** • Senate can permit Protectorate engineers to salvage the Salt Guard increasing labour costs by 80 crowns but reducing white granite required by 15 <br> • Senate can permit Protectorate engineers to salvage the Asavean Temple in Oran increasing labour costs by 45 crowns but reducing mithril and weirwood required by 5 each <br> • The labour costs may be voluntarily increased from 96 crowns to 288 crowns, ensuring everyone working on the project receives the standard wage for doing so |
+| **Availability:** One year - until the end of the Spring Equinox 389YE |
+
+- **A bridge across the Bay of Oran would be expensive**
+- **The Protectorate engineers are adept at repurposing existing architecture to create new structures**
+- **With Senate permission they can salvage the Salt Guard or the Temple of Balo and the Black Bull to reduce the costs of the bridge project**
+
+*[Image: The disciplined "former" Grendel engineers are adept at scavenging and salvaging the materials they need to support their work.](https://www.profounddecisions.co.uk/empire-wiki/File:Crab-traced-2.png)*
+
+The project will require 50 wains of white granite, 15 wains of mithril, and 15 wains of weirwood. Normally, the labour costs would be significant - especially given one end of the bridge [terminates in a marsh](../../mixed/commissions/Commission.md#marshes), but there is no shortage of cheap labour in [impoverished](../../mixed/economy/Region_qualities.md#impoverished) Feroz. As such, the final cost of the project would be a mere 96 crowns, even taking into account the difficulties of working with marshland. Work would take six months to complete.
+
+Once the bridge was completed, it would once again be possible to move armies directly from [Siroc Bayou](../nations/the-brass-coast/Madruga.md#siroc-bayou) to [Oranseri](../nations/the-brass-coast/Feroz.md#oranseri). The position the Protectorate engineers have assessed incorporates the remnants of the white granite road that once ran along the northern banks of the Scorrero into Segura. This means the bridge also restores connections vital to overland trade between Feroz and Madruga and by extension between the Iron Confederacy and the Empire. This would be a major boon to the paradors and other businesses in the town of Oran, allowing them to reclaim at least a fragment of their former glory, removing the [impoverished](../../mixed/economy/Region_qualities.md#impoverished) quality from Oranseri.
+
+Another positive is that the roads of Feroz are still relatively intact. Even Rahab wasn't stupid and greedy enough to destroy the arteries that allowed his soldiers - and the wealth of the Brass Coast - to flow across the territory. Thanks to the road running between Oran and [Cerevado](../nations/the-brass-coast/Segura.md#cerevado), once Imperial merchants were able to cross from Madruga to Feroz freely it would reconnect the [Sunset Roads](../nations/the-brass-coast/Segura.md#sunset-roads), restoring to Segura the prosperity that was lost when the Scorrero broke its banks. Unfortunately, they won't help Feroz - at least not at the moment - given the impoverished and [abandoned](../../mixed/economy/Region_qualities.md#abandoned) state of the territory.
+
+Lutomysla also believes it could be a potent symbol of Feroz's reconnection to the wider Empire, literally and metaphorically building bridges between the south-western Empire and the heartlands. There is still some way to go before Feroz recovers anything like its former prosperity, but along with the recently completed [Wharfage of Oran](Send_for_me.md#wharfage-of-oran), it represents progress toward recovering from the ruin left by Governor Rahab.
+
+The sheer cost of the project appears daunting, but the Protectorate engineers have a pragmatic proposal. As former Grendel soldiers, they are adept at scavenging and repurposing materials to meet their strategic goals. Lutomysla reports that there is a degree of bitterness from the orcs - although they try to hide it - when they speak of this need for salvage. Reading between the lines and asking some carefully probing questions, it appears that units such as Commander Gallum's are constantly underfunded and undersupplied by the Salt Lords. Most of the [armies](../../out-of-character/rules/Army.md) of the Broken Shore are supported by their septs; those that are not have to skimp and save. It seems that there is significant rivalry between "professional" soldiers such as Gallum and the naval officers who receive the lion's share of the support from the Salt Lords. Necessity being the mother of invention, it has given the engineers of the Protectorate a keen eye for opportunities to repurpose existing materials.
+
+> **Salvage**
+>
+> Under normal circumstances, it is not possible to recover the materials used in a commission. Only an [opportunity](../../out-of-character/game-design/Opportunity.md) can allow such a thing. In this case, as part of the [appraisal](../appraisals/Appraisal.md), the expertise of the Protectorate engineers has identified just such an opportunity. If the Empire no longer has diplomatic ties with the Protectorate, the salvage opportunity is not available.
+>
+> Any opportunity is unique and cannot be easily altered. This opportunity only applies to the construction of the bridge across the Bay of Oran - the wains represent materials scavenged specifically for that project. The Senate could *not* simply instruct that these buildings be salvaged to recover some of the wains spent to build them. This opportunity does not provide a way for the Empire to reclaim materials used on any other commission for any other reason outside of a plot opportunity that specifically offers that potential.
+
+### Ruins and Salt
+
+- **Protectorate engineers could salvage the flooded ruins of the Salt Guard to reduce the amount of white granite required**
+- **It would increase labour costs by 80 crowns**
+- **There is a risk of angry spirits**
+
+The ruins of Siroc are drowned in the mud of the marshes and the waters of the bayou. By employing divers and salvagers, some of the materials used to build the [Salt Guard](../nations/the-brass-coast/Madruga.md#the-salt-guard-ruined) could be repurposed to help build the caissons. This would involve recruiting and organising teams to break the stone and transport it to where it could be added to the massive labour project. Again, the hunger for paying work of the people of Feroz would play into the Empire's hands here. Lutomysla looks at the engineers' proposals and estimates that a further 80 crowns in labour costs would allow the ruined Salt Guard to be salvaged. This would effectively provide 15 wains of white granite toward the construction of the bridge.
+
+There are risks however; a lot of people died in the fall of the Salt Guard. Freeborn, [Commonwealth](../foreign-nations/Commonwealth.md), Grendel, and [Asavean](../foreign-nations/Asavean_Archipelago.md) remains still lie in the flooded ruins. As a Varushkan, Lutomysla knows better than most the dangers of disturbing a burial ground, and with the [Isle of the Osseini](../nations/the-brass-coast/Feroz.md#isle-of-the-osseini-ruined) no longer attracting and containing the spirits of those lost at sea there is a chance that salvaging the Salt Guard in this fashion will incur the wrath of the dead. There are not believed to be any ghosts haunting the ruins of Siroc at the moment, but salvaging the Salt Guard might be one way to change that.
+
+Lutomysla has looked at the risk separately and believes that a drop of prevention will remove the need for an entire bucket-load of cure.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Those who fell in the battle of Siroc rest still beneath the waters of the Bay of Oran. There is a chance for the ruined fortress to once more protect the Freeborn people, but we must ensure no disrespect is offered to the dead. We send (named priest) with 75 doses of liao to ensure that the salvage of the Salt Guard does not dishonour those who sacrificed everything to defend the Brass Coast.
+> >
+> > Synod Mandate, Freeborn National Assembly or Assembly of the Way
+
+If this mandate is passed, then the salvage of the Salt Guard will proceed without incident. It must be passed and enacted at the Summer Solstice, as with any mandate, but even if the commission of the Oran Bridge is delayed it will still have full effect. If the named priest is the [High Exorcist](../../mixed/titles/High_Exorcist.md); the [Custodian of the Imperial War Memorial](../../mixed/titles/Custodian_of_the_Imperial_War_Memorial.md); the [Master of the School of Exorcism](../../mixed/titles/Master_of_the_School_of_Exorcism.md); **Iñez i Azul-Mar i Riqueza**, who was the only one to support the garrison when it fell; or the former *Justicar of Osseini*, **Maria i Espiri i Guerra**, then the liao required for the mandate is reduced to 50. It is not common for a mandate to name someone who is not part of the assembly, but in each case, the title in question is empowered to deal with restless spirits and able to bring additional resources to bear on this problem. If the mandate is not enacted, then salvaging the Salt Guard will result in some ghostly troubles in the Bay of Oran.
+
+The mandate can be raised in either the Freeborn National Assembly or the Assembly of the Way, and both could be upheld and enacted. In this case, it will mean a very large number of exorcists, ghost-whisperers, and occultists will descend on the Bay of Oran.
+
+### Foam and the Bull
+
+*[Image: Balo and the Black Bull are two of the Asavean "gods" patrons of sailors and guards respectively.](https://www.profounddecisions.co.uk/empire-wiki/File:The_Black_Bull.png)*
+
+- **The Temple of Balo and the Black Bull has been abandoned**
+- **Protectorate engineers could be permitted to salvage the temple to reduce the amount of weirwood and mithril required**
+- **Doing so raises the labour costs by a further 45 crowns**
+
+Since the liberation of Oran, and the [surrender](../winds-of-war/Glass_and_flame.md#game-information-asavean-diplomacy) of the priests serving at the [Temple of Balo and the Black Bull](../nations/the-brass-coast/Feroz.md#temple-of-balo-and-the-black-bull), the structure has stood empty. [Constructed](../senate-motions/Construct_Asavean_Temple.md) by the [Asaveans](../foreign-nations/Asavean_Archipelago.md) nearly a decade ago, the place has always been controversial. During the occupation of the Grendel, though, it served as something of a place of sanctuary for Freeborn friendly to the priests and operated a covert way for those fleeing the grasp of Governor Rahab to reach safety in Madruga. The Governor could not afford to risk angering the Asavean priests and they used that protection to help many Freeborn evade the cruel tyrants grasp.
+
+Since the repatriation of the priests, the temple has stood empty. The proposal from the engineers is that unless the Empire is planning to convert it to some other use, it could be torn down to support the bridge building effort. There's some white granite available - although nowhere near as much as there is in the drowned [fortification](../../out-of-character/rules/Fortification.md) - but more importantly the gardens that once surrounded the temple incorporated wains of weirwood, and the roof is partially supported by mithril bars. A second team could rip the building apart to get at some of the materials inside, and contribute them to the building effort. It would increase the labour cost of the project by a further 45 crowns, but provide 5 wains each of weirwood and mithril for the production.
+
+Tearing down the Temple is somewhat controversial. In theory the building is the legal property of the Asaveans, but since the Empire is currently at war with them, there are no legal obstacles to the action. And most Freeborn who remember the sack of Siroc by the Asavean forces see the destruction of this heretical and blasphemous Temple as right and proper. However [the Kanza family, who only evaded capture due to the Temple of Balo and the Black Bull](Wild_blue_yonder.md#balos-guests) protest that this is a poor way for the Freeborn to repay the priests for the risks they took to shelter the helpless from the Grendel.
+
+### Fair Prices
+
+- **The labour costs for the bridge are very low thanks to the impoverished quality of Feroz**
+- **The commission may instruct the civil service to pay higher wages to the labourers recruited**
+
+At the moment, the impoverished nature of Feroz means that any commission built in, or partly in, the territory benefits from significantly reduced labour costs. People in Feroz are poor and desperate enough to work for a fraction of what citizens elsewhere might demand for their labour. Perhaps inspired by the [judgement](../synod-judgements/386YE_Winter_Solstice_Synod_judgements.md#judgement-80) from **Vivane Knotes** during the Winter Solstice 386YE, there are some who question the [Prosperity](../religion/Prosperity.md) of the situation. Constructing caissons is dangerous, back-breaking work, after all. Is it right for the wealthy citizens of Anvil to take advantage of the people of Feroz by paying less than the work is normally worth?
+
+There is nothing to stop whoever commissions the bridge from stipulating that everyone employed receive the standard payment for working on the bridge. If this were done, the labour costs for the bridge would be increased from 96 crowns to 288 crowns. This increase would not have any game effect, but it would at least send a clear message to the Freeborn, and to [prosperous](../religion/Prosperity.md) folk across the Empire, that the construction was not taking advantage of the reduced circumstances of those living in Feroz.
+
+## Taking a Toll
+
+|  |
+| --- |
+| **Oran Tollkeeper** |
+| **Type:** Freeborn |
+| **Appointment:** Senate or Tally of the Votes |
+| **Powers:** Receives 10 crowns each season |
+| **Responsibilities:** Maintain and defend the Oran Bridge |
+| **Special:** • If the impoverished quality is removed from Morajasse, income increases by 6 crowns <br> • Removes the symbolic benefits of the bridge as a reconnection of Feroz and Madruga |
+
+- **The Protectorate has included plans for a tollhouse at either end of the bridge**
+- **It is up to the commissioner whether to include this title**
+
+The final element the Protectorate includes in its proposal is included as a matter of course - provision for the tollkeepers to live near and control access to the bridge. The engineers are actually surprised when Lutomysla points out that this is not standard practice for Imperial commissions; apparently almost nothing big gets built on the Broken Shore unless someone, somewhere sees an opportunity to increase their wealth, prestige, or influence. The engineers just assumed the Empire would appoint someone to maintain the bridge - and gouge a healthy income from those who need to pay to use it. After all, anyone who doesn't want to pay to use the only bridge connecting Feroz and Madruga could still take the long-way-round to Segura or hire a boat to ferry them across.
+
+This in itself, however, presents a reason *not* to incorporate the toll gates. The bridge has a greater symbolic meaning, building it would restore the direct connection between Feroz and the rest of the Brass Coast - it would make the nation whole again. Local merchants and travellers won't balk at paying to use the bridge, more than any other nation, the Freeborn are [accustomed to paying for things](../nations/the-brass-coast/The_Brass_Coast_culture_and_customs.md#hospitality). However, a toll will inevitably mean less traffic on the bridge. Charging Freeborn citizens to move from Feroz to Madruga means that the two territories will remain separated by the river and the tolls that are needed to pay to cross it. It won't have a measurable effect; but it will mean that the gap between Feroz and Madruga becomes a permanent divide.
+
+After careful consideration Lutomysla leaves it in place. She points to the inspiration of the [Spider's Tollkeep](../../mixed/titles/Spider-s_Tollkeep.md) as one way an expensive bridge might be made a more appealing prospect. Whoever commissions the bridge may choose to stipulate that it will be a toll bridge, and create the title of *Oran Tollkeep*. This would be a [sinecure](../../mixed/commissions/Sinecure.md) that receives a portion of the tolls collected from merchants passing over the bridge, and in return would be responsible for ensuring the bridge is maintained and protected when necessary. Lutomysla calculates that it would provide an initial income of 10 crowns each season, but if the *impoverished* qualities were removed from Morajasse, then it would increase the income by another 6 crowns a season.
+
+The commission could choose to have the title appointed by the Brass Coast senators, with or without tenure. Alternatively, the commission could specify that the position be appointed by [Tally of the Votes](../../mixed/economy/Tally_of_the_Votes.md). In either case, it would need to be a Freeborn national position.
+
+## The Adamant Connection
+
+*[Image: King Under the Mountain.png](https://www.profounddecisions.co.uk/empire-wiki/File:King_Under_the_Mountain.png)*
+
+- **Lutomysla proposes speaking to Adamant about making the bridge particularly sturdy**
+
+Lutomysla doesn't have a great deal of work to do with the bridges. She is at her best when dealing with magical matters, and the Protectorate engineers use only mundane methods in their proposal. However, after some discussion with the Freeborn magicians at the [Parador of Salt and Sand](../../mixed/titles/Hakima_of_Salt_and_Sand.md#parador-of-salt-and-sand), and following her own work with bridges in Madruga, the prognosticator does have a proposal of her own.
+
+The design of the bridge is sturdy enough to weather storms or endure all but the most concerted attempt to damage it from hostile forces. With the aid of the eternal [King Under the Mountain](../eternals/Adamant.md) however, it would be possible to ensure the bridge stands despite anything wreckers might throw at it. The *koboldi* of the *Stone Dragon* could add their own expertise, and infuse portions of the structure with adamant. The eternal would need to be petitioned for their help *before* construction began, and doing so would fall to the [Archmage of Summer](../../mixed/titles/Archmage_of_Summer.md), but Lutomysla has no doubt that *Shiraz on the Granite Throne* would be amenable to assisting if requested as part of a formal [plenipotentiary](../../mixed/titles/Archmage.md#plenipotentiary).
+
+## Inkworks
+
+- **The Inkworks of Joharra opportunity is available until the end of the Autumn Equinox 388YE**
+
+|  |
+| --- |
+| **Inkworks of Joharra** |
+| **Commission Type:** Great Work |
+| **Location:** Oranseri, Feroz |
+| **Cost:** 60 white granite and 60 crowns |
+| **Time:** Six months |
+| **Availability:** Start of Winter Solstice 388YE - or until another great work increases investment in businesses is commissioned in the territory |
+| **Effects:** • Increases the level of investment of businesses in Feroz by one <br> • Removes the impoverished quality from Oranseri <br> • Increases the seasonal income of scriveners by 22 rings for a year <br> • Creates the title of *Scrivener of the Inkworks* |
+| **Special:** Removes the abandoned quality from Oranseri if the Oran Bridge is built |
+
+|  |
+| --- |
+| **Scrivener of the Inkworks** |
+| **Type:** Brass Coast National |
+| **Appointment:** [Tally of the Votes](../../mixed/economy/Tally_of_the_Votes.md) or Senate |
+| **Powers:** • Receives 15 measures of iridescent gloaming each season. <br> • Receives a Therasia's Chain each year. <br> • Can make an announcement in the Senate to redirect the Inkworks if there is a [opportunity](../../out-of-character/game-design/Opportunity.md) that explicitly allows it. |
+| **Responsibilities:** To direct the inkworks as needed, to support the scriveners of Feroz, and to ensure contracts are being kept in the Brass Coast |
+| **Restriction** This title will only receive a Therasia's Chain if the holder is a scrivener |
+
+Lutomysla's colleague, [Graciana i Lòpez i Guerra](../appraisals/Appraisal.md#graciana-i-lòpez-i-guerra) has already reviewed the proposed [Inkworks at Joharra](The_circle_game.md#inkworks-at-joharra) in her [recent assessment](The_circle_game.md) of Imperial ministries. Lutomysla notes that if the Oran Bridge were built, and removed the impoverished quality from Oranseri, then there would still be value in building the Inkworks - instead of removing impoverished in conjunction with the bridge it would remove the *abandoned* quality from the region, bringing in a new wave of settlers. The same would be true if the commissions were completed in the other order - between them they would remove both qualities.
+
+## Resolution
+
+Mandates to call upon exorcists to assist with the salvage of the Salt Guard were upheld in both the Assembly of the Way with a lesser majority ([naming Maria i Espiri i Guerra](../synod-judgements/388YE_Summer_Solstice_Synod_judgements.md#judgement-72)) and in the Freeborn Assembly with a greater majority ([naming Iñez i Azul-Mar i Riqueza](../synod-judgements/388YE_Summer_Solstice_Synod_judgements.md#judgement-102)).
+
+## Further Reading
+
+- [Feroz](../nations/the-brass-coast/Feroz.md)
+- [Madruga](../nations/the-brass-coast/Madruga.md)
+- Protectorate of Morajasse
+
+- [An arrow nocked and in flight](An_arrow_nocked_and_in_flight.md) - 388YE Spring wind of fortune regarding Protectorate diplomacy
+- [Send for me](Send_for_me.md) - 386YE Winter wind of fortune about restoring Feroz
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [388YE Summer](../../indexes/by-category/388YE_Summer.md), [Appraisal](../../indexes/by-category/Appraisal.md), [Mandate](../../indexes/by-category/Mandate.md)

@@ -1,0 +1,27 @@
+==Overview==
+The Broker of Thorns receives weirwood from the [[The_Barrens#Eaves_of_Peytaht|Eaves of Peytaht]] on the northern border of the [[The_Barrens#Heart_of_Peytaht|Heart of Peytaht]], which is controlled by the [[Great Forest Orcs]], in the [[Dawn|Dawnish]] [[territory]] of [[the Barrens]]. The Broker of Thorns grants an [[Imperial title]]; a seat on the [[Bourse]]; and a seasonal bounty of valuable weirwood. 
+
+==The Resource==
+On the northern borders of the [[The Barrens#Heart of Peytaht|Heart of Peytaht]], lies the Eaves of Peytaht, a massive grove of weirwood trees cultivated by the Great Forest Orcs. Part of the [[Great Forest of Peytaht|Great Forest]], the Eaves of Peytaht are controlled by the [[Great Forest Orcs]]
+
+Shortly before the Winter Solstice 387YE, ''Chief Vallack'', leader of the Great Forest Orcs, [[Quietude#Eaves_of_Peytaht|announced]] that his people had reached a decision about what to do with the surplus weirwood harvested from the Eaves of Peytaht. '''Asthore Autumngale''', as [[Miaren|Senator for Miaren]], raised the motion to [[387YE_Winter_Solstice_Senate_sessions#Create_Broker_of_Thorns|create]] the title during the summit, and the first election took place at the Spring Equinox 388YE for a shortened term.
+
+==The Bourse Seat==
+===Responsibilities===
+The Seat has the responsibility to work with the Great Forest Orcs if the Eaves of Peytaht is ever threatened. If any particular [[opportunity]] were to be presented by the Great Forest Orcs related to the Eaves of Peytaht, the Seat would expect to be consulted as to how that opportunity might be resolved.
+
+===Powers===
+====Seat on the Bourse====
+The Broker of Thorns comes with a seat on the Imperial Bourse. For the most part, this Seat comes with no additional responsibilities, aside from those specific to the seat. It is an Imperial title that grants the right to participate on the rare occasion when the Imperial Bourse as a body is required to [[Bourse#Role within the Empire|make a decision]].
+
+====Bounty of weirwood====
+The Seat receives wains of weirwood each season from the Great Forest Orcs. They can dispense this resource as they choose. Production is 11 Imperial wains of weirwood every season.
+{{CaptionedImage|file=Vick Dagger.jpg|caption='''Vick Dagger''' (centre), Broker of Thorns|align=left|width=450}}
+===Appointment===
+As with all weirwood Bourse seats, the holder of the title is determined during the Winter Solstice. Control of the Broker of Thorns is assigned to whichever Navarr candidate receives the most support from Navarr owners of [[herb garden|herb gardens]] via the [[Tally of the Votes]]. The voting is handled by the civil servants of the Bourse.
+
+The Broker of the Thorns is retained for a year, or until the citizen holding the seat dies, or steps down. An Imperial Bourse seat cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Broker_of_Thorns}}
+[[Category:Title]]
+[[Category:Bourse]]
+[[Category:Navarr]]

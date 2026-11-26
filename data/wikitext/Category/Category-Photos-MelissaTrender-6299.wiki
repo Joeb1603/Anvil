@@ -1,0 +1,7 @@
+More of Melissa's work can be found at [www.melissatrender.com]
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>
+[[Category:Photos:MelissaTrender]] [[:Category:Photos:MelissaTrender|Image by Melissa Trender]]
+</nowiki>''

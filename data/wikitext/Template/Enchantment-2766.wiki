@@ -1,0 +1,1 @@
+This ritual is an [[enchantment]]. A target may only be under one enchantment effect at a time. [[Category:Enchantment]] {{#if: {{{1|}}} | [[Category:Enchantment:{{{1}}}]] }}

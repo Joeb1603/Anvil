@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:387YE Winter]]
+__NOTOC__
+<quote by="Proposed: Kallavesa, Seconded: Reikos">To construct a great lighthouse, Trencher's Shining Ambition, in West Marsh, Kallavesa; a great work benefitting fleets. Let us restore Westerhal as a hub of commerce in the west!
+</quote>
+==Overview==
+* Constructs a [[Great_work#Great_Lighthouses|great lighthouse]] in West Marsh, Kallavesa
+* Passed
+
+==Date==
+* Winter 387YE
+
+==Cost==
+* Standard costs apply
+* 20 wains of white granite
+* 20 wains of weirwood
+* 10 wains of mithril
+* 180 crowns in labour costs (increased by being built in a marsh)
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Trencher%27s_Shining_Ambition}}
+==Outcome==
+* Now complete, all [[fleet|fleets]] in [[Kallavesa]] will gain an additional rank when engaging in [[Fleet#Trading|trade]]

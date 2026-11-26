@@ -1,0 +1,26 @@
+[[Category:Senate Motion]][[Category:388YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Fedelmidd Sydanjaa's Heart Floer, Senator for Sermersuaq, Seconded: Mel Bleak, Senator for Mournwold">To construct the Atalaq Tradehall, a great work in Sealtoq to help the investment of businesses in Sermersuaq. 50 weirwood, 150 crowns. Lapses this season. Seeking funds.
+</quote>
+==Overview==
+* Constructs a [[great work]] in Sealtoq, Sermersuaq
+*The tradehall was most recently suggested as part of the [[The_circle_game#Fish_and_Fur_in_Sermersuaq|appraisal]] to identify alternate trades that ministries could make that would not involve paying coin. The appraisal diverted slightly into previous opportunities to increase the funds flowing into the Anvil economy.
+* Passed
+
+==Date==
+* Autumn 388YE
+
+==Cost==
+* Costs as per opportunity
+* 50 wains of weirwood
+* 150 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Atalaq_Tradehall}}
+==Outcome==
+Once complete, the Atalaq Tradehall will have the following effects:
+* Increases investment in businesses in Sermersuaq by one.
+* Increase taxation from Sermersuaq by 4 thrones.
+* Increases the income of the [[Custodian of the Bloody Great Sausage]] by 7 crowns
+* Boosts income of Wintermark fleet owners by 36 rings for one year whenever they engage in trade with foreign nations

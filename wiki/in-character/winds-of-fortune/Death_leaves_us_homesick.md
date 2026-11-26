@@ -1,0 +1,278 @@
+---
+title: Death leaves us homesick
+source: https://www.profounddecisions.co.uk/empire-wiki/Death_leaves_us_homesick
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 387YE Winter
+- Recent History
+- Foreign Nations
+- Axos
+event: 387YE Winter
+last_edited: '2026-08-20T22:14:34Z'
+revision: 144029
+in_character_boxes: 5
+---
+
+# Death leaves us homesick
+
+> *In-character text:*
+>
+> "The issue, as I think Theodosia would put it, is that Imperial priests deny the Creator's care for the world, which is worse than their nominal reverence. The Creator does care deeply about the world - that is why the world is full of misery. And good people like Fintan Nighthaven are doomed to die, caught in cruel traps. The Empire's Synod denies this possibility and so is able to be used by the Creator in subtle and malicious ways such as..."
+>
+> "I didn't ask what Theodosia thought," Andronicus interrupted, rudely. "I asked what *you* thought."
+>
+> "I... well," Demetrius stumbled. He reached for his training, touching the ivory token on his belt, and letting its gentle reminder of the importance of seeing other peoples' points of view bring him clarity. "I agree with Theodosia. Fintan Nighthaven was a good person, and by reaching out to him we were able to show him a new way of seeing the world that helped him to align himself with our interests."
+>
+> Andronicus continued to pick at the bark on the back of his hand. Despite that calm clarity, Demetrius had to admit that the studied rudeness was getting on his nerves.
+>
+> "And that's why we've come to ask for your support." Demetrius was on firmer ground here. "The more sects come together in the Grand Convocation the more..."
+>
+> "No." Andronicus still hadn't looked up.
+>
+> "What?" Demetrius stumbled over his words, and cursed himself. He was a negotiator and diplomat chosen for this role because of his long experience dealing with foreign nations, even before he had understood the importance of Understanding.
+>
+> "I said no. We won't be joining your Grand Convocation."
+>
+> "Can I ask why?" He didn't like the way the briar tended to speak in absolutes without elaboration, without leaving any opportunity for discussion.
+>
+> "Because you've learned nothing from Fintan Nighthaven." Andronicus looked up at last, and Demetrius was taken aback to see fury in the briar's eyes. Despite his hallow, he took a step back and swallowed. He tried to say something but found himself stuttering. Andronicus just shouldered on, not giving him chance to reply.
+>
+> "You look at this Imperial priest and see a success because you showed him Understanding and he thanked you? That doesn't matter! It's nothing! Theodosia thinks it matters because she tries to see everything from the other point of view. She thinks that if we just *understand* the Creator, we can reason with it. And that's just bullshit. Worse, it's heresy and it's blasphemy and it is *everything* wrong with your Grand Convocation."
+>
+> Andronicus clenched his fists. A trickle of blood fell from the raw patch he had picked on himself, but quickly stopped as the bark scabbed over his knuckles.
+>
+> "You lot -" the briar made an expansive gesture. "You make the same mistake as the Empire. You think its the spirits that matter. And it isn't! The spirits are our weapons against the Creator and they're not there to help us understand it. They're there to help us *kill* it!"
+>
+> Demetrius was genuinely afraid for his life, for the first time in years. He looked around and saw that the other members of the Fellowship of the Light of Truth had closed ranks behind Andronicus. Some of them had knives, although they hadn't drawn them yet.
+>
+> "I'm sorry I don't..." Demetrius tried to defuse the situation but Andronicus was not interested.
+>
+> "Get out," he gritted through clenched teeth. "And don't come back. We reject your Convocation, just as we reject the idea that Fintan Nighthaven was anything special. An enemy of the Creator? Why? Because he embraced Understanding? What use will Understanding be when you face the tyrant of the Labyrinth? Theodosia has blinded your eyes to the unwelcome truth. Wisdom? Peace? Vigilance? Just words to justify inaction. Inaction that shames you, and all your Convocation. Just other names for cowardice, other ways for you to succumb to doubt. In the face of the greatest threat to the souls of humanity you look to *compromise*. Get out of my sight! Go back and tell your Convocation that the next weasel messenger they send to us will go back to them in an *urn*."
+>
+> Demetrius knew better than to argue. He could see the light of truth in Andronicus' face, mirrored and reflected on those of his followers. he fled back through the doors of the shrine, and did not stop running until he had reached his lodgings again, where he sat on his bed and wept.
+
+*[Image: As a former Ambassador to the Sarcophan Delves the new Ambassador to Axos, Thane Thanmir Hrafnar, is no stranger to the trials and tribulations of being an Imperial representative.](https://www.profounddecisions.co.uk/empire-wiki/File:Thane_Thanmir_Hrafnar.jpg)*
+
+## Overview
+
+Each season the [civil service](../../mixed/government/senate/Civil_service.md) prepares a summary of the Empire's relationship with foreign nations, based on communications received from their ambassador, along with any useful intelligence gathered from other sources. While the [Senate](../../mixed/government/senate/Senate.md) and the other houses of Imperial power may respond to these offers, it is important to note that it is the appropriate [ambassador](../../mixed/titles/Ambassador.md) that the foreign power will expect to hear from. Their communication with the foreign power is the primary element that will determine the tenor of any response.
+
+Imperial relations with the [Citadels of Axos](../foreign-nations/Axos.md) have significantly improved over the last year or so, in part due to the [Synod's](../../mixed/government/synod/Synod.md) work during the [reclamation of Solokha](It_never_happened.md#solokha). Their internal politics are slowly settling down into a new status quo following the [upheaval](Victory_and_unity.md#times-change) partly caused by the ambitions of *Grand Ilarch Kyther*. A new Grand Council guides the nation, and the new [Unified Convocation](A_better_future.md#unified-convocation) works to bring Axos' disparate religious [sects](../../out-of-character/rules/Bands.md#sects) together in a similar way.
+
+The ambassador cannot become complacent however; the little country to the south-east of Urizen is still very touchy about its independence and relations could sour again very easily.
+
+For the moment, though, the new Axos Ambassador to the Empire *Ilarch Kario Skopos of Solokha* remain cordial or even friendly. Skopos is a scion of an influential family from the [Chambers of Issyk](../foreign-nations/Axos.md#chambers-of-ussyk), who has renounced his ties to the citadel of his birth at the instruction of the Grand Council for as long as he holds the post. This is intended to signify neutrality in the politics of the citadel, to make him a worthier intermediary through which the Axou can deal with their allies in the Empire.
+
+> **[Axos](../foreign-nations/Axos.md)**
+>
+> - **Status: Foreigner**
+> - **Ports: [Kantor](../../mixed/economy/Foreign_ports.md#towers-of-kantor) and [Issyk](../../mixed/economy/Foreign_ports.md#chambers-of-issyk)**
+> - **Ambassador: Thanmir Hrafnar of [Wintermark](../nations/wintermark/Wintermark.md)**
+
+## War
+
+- **Axos is reassured the Empire has no ill intention toward the libraries at the Halls of Maykop**
+- **The military treaty that sees the Axou fight in Sarangrave has been well received**
+- **There is possibly a misunderstanding about the status of the orcs living in Sarangrave however**
+
+The Imperial Senate [reassured](../senate-sessions/387YE_Autumn_Equinox_Senate_sessions.md#affirm-relations-with-axos) the citadels of Axos that the Empire values its relations with the nation. The [Shuttered Lantern](../../mixed/government/conclave/Shuttered_Lantern.md) - and by extension the [Conclave](../../mixed/government/conclave/Conclave.md) - would never risk that relationship for a mere ritual text! A companion letter from *Tyburn Weaver* the [Grandmaster](../../mixed/titles/Grandmaster.md) of the [Shuttered Lantern](../../mixed/government/conclave/Shuttered_Lantern.md) apparently put the plote cherry on the diplomatic cake - while the Senate's words are important to the Grand Council of Citadels, the words of a Conclave grandmaster are even more significant to the scholars and magicians of Maykop.
+
+*[Image: The Axou Helios is an ancient symbol of the Axou people, adopted by the Nikitis Axou movement.](https://www.profounddecisions.co.uk/empire-wiki/File:Alikos_Helio.jpg)*
+
+The [ratification of a military treaty](../senate-motions/Ratify_Axos_Treaty_Autumn_387YE.md) sees the [Gates of Ipotavo](../foreign-nations/Axos.md#gates-of-ipotavo) fighting in the [Sarangrave](../nations/urizen/Sarangrave.md) [alongside the Empire](../winds-of-war/Fire_and_the_flood.md#shield-of-our-ancestors) (well not precisely alongside given there is a massive fortress between them and the Imperial armies but the thought is there). Both diplomatic measures have been very well received, reassuring the Grand Ilarch of the [Halls of Maykop](../foreign-nations/Axos.md#halls-of-maykop) that their concerns were groundless and potentially establishing a slew of new opportunities when the Axou take charge of the [Tower of the Skink](../nations/urizen/Sarangrave.md#tower-of-the-skink).
+
+There are some internal matters within Axos regarding the Tower apparently - specifically *who* will take charge of it once the Druj are defeated. The Axou have not created a new citadel since their nation was formed, and have no particular method for doing so, but likewise they don't have any tradition of a Grand Ilarch controlling more than one citadel. That's for the Axou to worry about, however.
+
+One matter that might cause some worry for the Empire however is the response of Ambassador Skopos to point four of the treaty: *Axos shall commit to the safety of the Bloodwater Spears, Waterwalkers, and the Free People of Sarangrave following the Empire's lead as to the diplomatic status of these people, including those residing in Sephals in Thornfen.* It seems there may be some misunderstanding somewhere along the line, but the Grand Ilarchs are quite happy with this provision specifically because they intend to have as little to do with the orcs as possible, and are assuming the Empire will assist in relocating the population of Sephals in particular. It's explicit in the Axou missives that once they have the Tower of the Skink, the first thing they will do is evict any orcs living in Thornfen. What happens to them after they leave the [region](../../out-of-character/rules/Territory.md#regions) is of absolutely no concern to the Axou. The implication is that, just as they took in the [Tamazi](../nations/imperial-orcs/Tamazi.md), the Empire will simply sort it out.
+
+This doesn't seem to be any particularly sharp statecraft at work - the Axou simply assume that "follow the Empire's lead as to the diplomatic status of these people" just means they'll have to treat them like foreigners or Imperial citizens after they've been removed from Thornfen and if they complain then, as with point five (*In the event of a dispute between Axos and the Bloodwater Spears, Waterwalkers, or the Free People of Sarangrave, then the Empire shall be called on as mediator*), the Empire will sort it out.
+
+For now though, the Grand Council of Citadels and the Citadel of Ipotavo in particular, are very pleased with the situation. The only thing that would make things even better would be some response about the matter of Axou soldiers visiting the [Five Cities Military Academy](../nations/the-league/Tassato.md#five-cities-military-academy) and the [Barossa School of Imperial Strategy](../nations/the-league/Tassato.md#barossa-school-of-imperial-strategy). The Ambassador did not mention anything about the situation in their missive, so its unclear to Ilarch Skopos what is going on. While there *was* a [statement in the League assembly](../synod-judgements/387YE_Autumn_Equinox_Synod_judgements.md#judgement-143) about the matter, the Axou are broadly unaware of it and it lacks legal backing. Further information about this [opportunity](../../out-of-character/game-design/Opportunity.md) can be found in autumn's  **[Troop of echoes](Troop_of_echoes.md#along-the-ramparts)** wind of fortune.
+
+## Waking the Vallorn
+
+- **The Axou are absolutely disinterested in any plan that involves rousing the vallorn of Visokuma**
+
+Ilarch Kario Skopos extends their thanks to Ambassador Thanmir for their words about the [vallorn](../nations/navarr/Vallorn.md) and the [Empire's plans regarding it](A_thousand_years_of_longing.md). The Grand Council of the Citadels has been briefed, and has delivered a response. They categorically do not welcome any intrusion into Visokuma and want no part of the Imperial plan to wake the vallorn. The ambassador has, according to Kario, said that "*the Empire's plans are complex and require cooperation from many foreign powers, including Axos*." Axos wants to be absolutely clear from the get go that they do not, and will not, be involved in any such endeavour. The vallorn of Visokuma abides and there is no interest in waking that sleeping behemoth and unleashing it against the citadels. The *necromantia* of Axos have spoken with actual eye witnesses who saw what the vallorn did to Cavan, and that alone was enough to see the Halls of Maykop advise that any investigation of the vallorn cease forthwith.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The Empire must face an unwelcome truth. If we seek to rouse the vallorn, we must accept we will raze Axos in the process. They will not survive. That is a decision we can accept, with the responsibility it entails, or it is a catastrophe we can make plans to avert, but it is not something we can simply ignore.
+> >
+> > Cardinal Lenarius Ankarien, Assembly of the Nine, Autumn Equinox 387YE, Vote: Greater Majority 8-0
+
+Mistress Isephenia of Maykop has [already expressed interest](Troop_of_echoes.md#wit-and-wisdom) at visiting the [Great Library of Hacynian](../religion/Great_Library_of_Hacynian.md) to learn more about the vallorn. The Grand Council throws their weight behind her; they formally request that [Bursar](../../mixed/titles/Bursar_of_the_House_of_Spirits.md) **Rinnah** or [Singer](../../mixed/titles/Singer_of_the_Silence.md) **Siân Eternal** provide access to the Axou scholar and her students. Mistress Isephenia acknowledges the kind suggestion that she and her students might visit Anvil before the invitation so that Rinnah and Siân can ensure that she has "*a full context surrounding the situation before their study*" but she reassures them that she is capable of determining context herself and is no stranger to a big library. The time to discuss matters is surely *after* she and her charges have finished their research at the library. She has, apparently, read a copy of [The Dance of Navarr and Thorn](../../mixed/magic/rituals/Dance_of_Navarr_and_Thorn.md) - presumably the one that was [disseminated](../../mixed/government/conclave/Dissemination.md) to Axos [in 381YE](../conclave-sessions/381YE_Winter_Solstice_Conclave_sessions.md#conclave-declarations) by **Raewynn Farkas** - and so has *some* grounding in the significance of the threat.
+
+Nobody has said it out loud within earshot of the Axou of course but there is no actual requirement that the citadels cooperate with an attempt to destroy the vallorn. The Empire controls [Sarangrave](../nations/urizen/Sarangrave.md); if the [trods](../nations/navarr/Trod.md) are extended to [Kabanja](../foreign-nations/Axos.md#axou-territories) and Visokuma the vallorn will wake whether they like it or not.
+
+Some members of the [civil service](../../mixed/government/senate/Civil_service.md) are of the opinion that the virulence and speed of the Axou response (both with regard to the Empire and, as we will see in a moment, at home) speaks of other factors at work. There is guarded speculation that some or all of the Grand Ilarchs may have been briefed separate to the advice delivered by the ambassador. The response of Isephenia of Maykop may point to instructions from the halls, perhaps guided by concerns other than those of the Grand Council.
+
+### The Scions of Cavan
+
+> **Who are the Scions of Cavan?**  
+> The heirs are a group of Axou who claim to be cousins of the Navarr. They believe they are descendants of those Terunael who escaped the fall of Cavan, the city that lies in the heart of the [Visokuma](../foreign-nations/Axos.md#axou-territories) vallorn. Initially enslaved in Kaban, they eventually won their freedom but did not enjoy much prestige in Axou society. In early 384YE some of them visited the Empire, initially in small numbers but then in a [much larger contingent](Received_with_a_strange_delight.md#dust-and-bones). They walked the [trods](../nations/navarr/Trod.md) alongside their distant Navarr cousins, and sought to create deeper ties with their long lost relatives.
+>
+> During their visits to the Empire they brought with them a relic of their ancestors - apparently a traditional Axou "lekythos" containing a bound ghost. While there they spoke with several [vates](../../mixed/magic/lore/Navarr_magical_traditions.md#vates), as well as **Madra Brittlebone**, **Drefa Brackensong**, **Eleri Bronwen's Rest** - and of course the disgraced former Ambassador **Fintan Nighthaven**. According to rumour they received support and encouragement from the Navarr they spoke to, and then returned to Axos.
+>
+> It is believed some degree of communication has persisted over the last few years, but if it has there's no public awareness of it.
+
+- **There is some concern about an alleged plan to rouse the vallorn of Visokuma undertaken by citizens of Axos**
+- **The Axou of Kaban have arrested a group called the Scions of Cavan who claim to be distant cousins of the Navarr**
+- **They have been accused of planning serious crimes against the people of Axos**
+
+On a related note... a month before the Winter Solstice, news reached the offices of the Imperial Ambassador of a series of arrests in the [Tunnels of Kaban](../foreign-nations/Axos.md#tunnels-of-kaban) in western Axos. A group called the "Scions of Cavan", targeted as enemies of the citadel and of the Axou people as a whole, have been taken into custody. Warrants have been issued for several people associated with the Scions in other Axou citadels.
+
+Under normal circumstances this would have been of minimal interest to the Empire, but the *nature* of those imprisoned and the crimes of which they are accused make them relevant. The *Scions of Cavan* claim to be cousins of the [Navarr](../nations/navarr/Navarr.md), descended from survivors of the [Terunael city Cavan](../nations/navarr/Terunael_in_Axos.md#of-cavan-and-its-fall) that now lies deep within the vast vallorn of [Visokuma](../nations/navarr/Terunael_in_Axos.md#venturing-into-visokuma) at the heart of Axos. They have been accused of conspiring with "foreign influences" to unleash that vallorn on the citadels. Stockpiles of crystal mana and [Vital Honey](../../out-of-character/rules/Vis.md#vital-honey) have been uncovered along with a caches of [potions](../../out-of-character/rules/Potion.md) used to [empower](../../mixed/magic/potions/Balms_of_the_Fountainhead.md) workings of [Spring magic](../../out-of-character/rules/Spring_magic.md). There is no evidence that these things have come from the Empire, and Axos is a nation of magicians after all, but speculation in the citadels runs rampant.
+
+These Scions of Cavan face serious charges. The Grand Council itself has been called on by *Grand Ilarch Kyther* to render a judgement in what amounts to a landmark case. There is some suspicion of this in a few quarters - under normal circumstances each citadel would deal with its own criminals without recourse to the others. Here, though, Kyther argues that the Scions threatened *every* Axou citadel on a scale heretofore unseen in the nation's history and only the Grand Ilarchs of the citadels are in a position to make a decision. Grandstanding, surely, but there is little argument from either Kaban or from the Council.
+
+The civil service advise that if the evidence is even mildly convincing, the Scions are likely to face the death penalty - the worst possible fate for any Axou. In theory it is possible that their sentence could be commuted to exile - the old punishment of slavery is no longer practicable for obvious reasons - but there's no suggestion that the Grand Ilarchs are minded to be so lenient.
+
+As mentioned there is apparently no evidence of Imperial involvement in the "crimes" of which the Scions of Cavan are accused. It's not clear if the Scions of Cavan actually possessed the power to rouse the vallorn - no indication that [the Dance of Navarr and Thorn](../../mixed/magic/rituals/Dance_of_Navarr_and_Thorn.md) has been [disseminated](../../mixed/government/conclave/Dissemination.md) to them for example. They are not influential enough to have access to a [college of magic](../../mixed/commissions/College_of_magic.md) to create their own rituals. It's possible they could have made some kind of accommodation with an [eternal](../eternals/Eternal.md) for their aid - likely [Yaw'nagrah](../eternals/Yaw-nagrah.md) - but again there's no suggestion of that in the accusations against them. As competent magicians, they could have created an [arcane projection](../../out-of-character/rules/Arcane_projection.md) to allow them to interfere with the vallorn of Visokuma - and if they have spent time among the Navarr they may well have insight into how best to go about that.
+
+*[Image: ChildPrimer2.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:ChildPrimer2.jpg)*
+
+*[Image: ChildPrimer3.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:ChildPrimer3.jpg)*
+
+### A Desperate Plea
+
+- **The Scions of Cavan beg for Imperial intervention**
+- **Several options face the Ambassador and the Senate but all risk inciting some element of Axos society**
+- **The Ambassador will have more success on their chosen path if backed by the Senate**
+
+Ilarch Skopos is not the only person to have written to the ambassador on the matter of the Scions of Cavan, however. *Bronnan Cavanya of Kaban* is one of the leaders of the Scions, and is apparently styling himself as a [brand](../nations/navarr/Brand.md). His missive was sent from Axos by an unnamed ally with the ability to [call a winged messenger](../../mixed/magic/rituals/Call_Winged_Messenger.md). In his letter he begs the ambassador to intercede on behalf of his family, and the Scions of Cavan as a whole. He appeals to the ambassador to speak to those among the Navarr who met with his kin, and who spoke to them of their heritage. They will surely vouch for their virtue and commitment to lifting the burden of [Terunael](../world/Imperial_history.md#terunael). Yes, they planned to help defeat the vallorn and to extend the trods into Axos, but they did so in the [Courageous](../religion/Courage.md) belief it was the right thing to do if they wished to be [Loyal](../religion/Loyalty.md) to the dream of Navarr and Thorn, of a world without the vallorn.
+
+The thorny question is whether the Empire wishes to be involved in this matter at all. If they do intervene, it risks confirming the suspicions of any Axou factions looking for an excuse to decry Imperial involvement in their nation. Unless very carefully handled, attempting to interfere on behalf of the Scions of Cavan will be taken as "proof" that they had Imperial backing.
+
+The Ambassador has the power to [communicate](../../mixed/titles/Ambassador.md#communication) with the Axou on behalf of the Empire, but their words alone might not be sufficient to influence the Grand Ilarchs - their candidness about the vallorn stands them in good stead but they are still relatively untested in their position. A statement from the Senate however, raised as a [motion](../senate-motions/Senate_motion.md), would provide them with significant backing and strengthen their position greatly, regardless of what approach the Empire chooses to take.
+
+Condemning the Scions of Cavan and reassuring the Grand Ilarchs that the Empire is not going to rouse the Visokuma vallorn will reassure the Grand Council. The scions will be executed, and while the citadels will remain alert for, and opposed to, attempts to interfere with Visokuma they will not take the matter any further for the moment. Showing solid support for the rule of law in Axos will help to improve the Empire's relations with the nation.
+
+If the Empire asks for clemency for the Scions of Cavan, the outcome will depend on how skilful the diplomacy is. It will result in some executions for the "ringleaders" of the families and exile for the rest no matter what. They will cease to be a factor in Imperial-Axou relations and will scatter to the four winds, but how many live and how many die will depend on the ambassador's ability to eloquently manipulate the Axou's desires and fears. This approach will inevitably damage relations with Axos, how much they are harmed will depend on how carefully the ambassador chooses their words.
+
+The final option would be to condemn the arrests, insist on the innocence of the Scions, and demand their release. It is clear that Axos intends to execute the Scions, but the very fact that they have made sure the Empire is aware of their plans suggests that they might be anticipating that the Empire will protest. The Empire is much bigger and much stronger than Axos, it would not be difficult for them to threaten the smaller nation - they could use diplomatic muscle to force the Axos to let the Scions go. If that happens, the Scions will be aware that they owe their survival to the Empire, and would likely come en masse to join the Navarr. Doing so cannot fail to sour relations with the Axou, however.
+
+Whatever choice is taken, a significant degree of skill will be needed to manage relations in this case. Relations with the Empire soured over the [Tsark](../foreign-nations/Tsark.md) incident. They have been improving slowly since then, careful handling of the relationship is required to maximum the benefits of this opportunity - or to minimise the costs.
+
+The window for any intervention is short; the Scions of Cavan will likely be executed before the Spring Equinox. Obviously the Citadels have not arrested everyone who claims descent from Cavan - only the heads of their families, those close to them, and all their magicians face execution. But if the sentence is carried out that will be the end of the Scions of Cavan as a factor in the politics of Axos, or as a force that might be of use to the Empire or the Navarr.
+
+*[Image: NBNavarr.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:NBNavarr.jpg)*
+
+Incidentally, the letter sent by "brand" Brannon Cavanya would be taken by the Grand Ilarchs as evidence that the Scions of Cavan *were* plotting against the citadels. The Ambassador could instruct the civil service to share that missive with Grand Ilarch Kyther and the fate of the Scions of Cavan would be sealed. Doing so would go a long way to quieting concerns that the Empire wishes to destroy Axos with the vallorn, but would do little to alleviate their concerns about the Navarr.
+
+### The Navarr Threat
+
+- **Suspicion has been directed at the Navarr**
+- **Navarr fleets visiting Axou ports receive a 2 rank penalty to their production**
+
+Fuelled by the recent arrests, concern about the vallorn grows in Axos. Ambassador Kario has sent a cautious missive to their opposite number. They recommend that, for the time being, Navarr ships might wish to avoid visiting Axou ports, for their own safety. There are some groups who believe that the Imperial nation has somehow been working to undermine their country with the intention of unleashing the vallorn. The fact that the previous Ambassador, *Fintan Nighthaven*, was Navarr has led to some virulent conspiracy theories (although not among the [priests of the Grand Convocation](#regarding-fintan) who take an entirely different view of the former Imperial ambassador).
+
+Neither Issyk nor Kantor are prepared at this time to take the extreme measure of denying berths to Navarri vessels - such a thing would complicate relations with the Empire far too much. Yet at the same time any Navarr visiting those two ports will receive a cold shoulder. Following the Winter Solstice, and until this situation is resolved one way or another, Navarr [fleets](../../out-of-character/rules/Fleet.md) visiting Axos suffer a penalty of -2 ranks to their production.
+
+*[Image: Assembly Navarr.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Navarr.png)*
+
+### The *Other* Navarr Threat
+
+- **Stridings and some steadings who met the Scions of Cavan propose that the Navarr take the matter into their own hands**
+- **They look to the Navarr National Assembly to stand behind a raid into Axos to rescue as many Scions as possible**
+- **Doing so would be a crime despite the best efforts of the Navarr to avoid unnecessary bloodshed**
+
+When Brannon Cavanya's letter to the ambassador becomes publicly known about, it incites a visceral reaction from some of the Navarr who walked the [trods](../nations/navarr/Trod.md) alongside the Scions of Cavan when they visited the Empire. Some of them are absolutely outraged to see their well-meaning cousins treated in this way and appeal to the Navarr Assembly to take a stand. Actions have consequences, they say, and you cannot betray your enemies. If the Axou are prepared to think the worst, and to execute people for their belief in a world without the vallorn, they are no friends of the Navarr.
+
+Rather than rely on diplomatic means, the Navarr should take immediate action. The pragmatic thing to do would be to stage a jail break - something akin to what the Imperial Orcs did to free the [Tamazi](../nations/imperial-orcs/Tamazi.md) from the oppression of the citadels. If the Navarr national assembly passes a [statement of principle](../../mixed/government/synod/Statement_of_principle.md) with a [greater majority](../../mixed/government/synod/Judgement.md#greater-majority) that unequivocally calls on the people of Navarr to come to the aid of their cousins, the Scions of Cavan, then many [thorns](../nations/navarr/Thorn.md) stand ready to act.
+
+If such a statement passes, it will create a new [raiding](../../out-of-character/rules/Military_unit.md#raiding) [venture](../../mixed/economy/Venture.md) following the Winter Solstice for Navarr [captains](../../out-of-character/rules/Military_unit.md). *Free our cousins* will see those Navarr warbands who undertake the action launch a raid over the border from Sarangrave into Kabanja. The Scions of Cavan are being held in the Tunnels of Kaban, and the Axou are likely not expecting such a response from the Empire (because they underestimate the courage of the Navarr). The thorns are not barbarians - or worse, [Druj](../barbarians/Druj.md) - and will take every opportunity to avoid bloodshed... but the Axou will have brought any harm or death on their own heads by imprisoning allies of the Navarr. The Scions of Cavan are not wealthy, but any military unit that takes part in the raid will receive three crystal mana at the Spring Equinox, regardless of their number of [upgrades](../../out-of-character/rules/Congregation.md#upgrades) or degree of [enchantment](../../out-of-character/rules/Enchantment.md).
+
+If at least 5,000 strength of Navarr military units commit to this action, then in conjunction with those thorns who have travelled with the Scions, they will successfully liberate their cousins from the Tunnels and get them to safety within the Empire. If fewer than five thousand go, the raid will broadly be a failure. While some Scions will be rescued the majority will be left behind to face the "justice" of the Axou, or killed while attempting to escape.
+
+Regardless of whether the raid succeeds or fails, the raid will at least show their nation and the Empire that they are serious about their bonds of loyalty and their commitment both to their allies and to the fight against the vallorn. It will definitely lead to Navarr fleets being barred from Axou ports, and worsen relations between that nation and the Empire. Fortunately the unpredictable violence of the Navarr - a well-known stereotype in Axos - will shield the Empire from some of the fallout which will instead drop squarely on the heads of the nation. If the Ambassador leans into it, and those involved face even a token punishment, the damage to Imperial-Axos relations could be mitigated at least a little.
+
+The magistrates are unlikely to be able to identify and prosecute the warbands responsible for the raid. The Navarr are adept at moving quickly through enemy territory, and at taking precautious against being identified. The priest who raises the statement of principle, however, is likely to face charges of inciting attacks against a foreign nation and may well face serious consequences. Which, as the thorns calling for this action say, are both the cost for taking action. "What would Isaella do?" ask those who favour the raid. What indeed.
+
+## On Liberty
+
+- **Axos are signatories to the Liberty Pact**
+- **They are convening a meeting of the Pact in the Caucus Forum of Lashonar**
+
+The ripples of [scandal](A_better_future.md#school-and-scandal) caused by [Jarmish](../foreign-nations/Principalities_of_Jarm.md) involvement with the [Halls of Maykop](../foreign-nations/Axos.md#halls-of-maykop) have not entirely settled. The Axou role in the [Liberty Pact](../../mixed/titles/Voice_of_Liberty.md#liberty-pact) - a position they know they owe to the Empire's support - is fragile and their recent announcement of a convocation of the treaty has not gone over well with the [Commonwealth](../foreign-nations/Commonwealth.md) or with the [Sumaah Republic](../foreign-nations/Sumaah_Republic.md). The unification of Axos' priests is not necessarily going to make their relations any smoother either - both Axou and Imperial priests broadly perceive their opposite numbers as blasphemers and heretics - their beliefs will infuriate the orthodox Sumaah even more. For that matter, it will also cause problems for Axos itself; their participation in the Liberty Pact offends many of the Axou religious sects almost as much as it offends the Sumaah Republic.
+
+Regardless, they have convened the Liberty Pact and a meeting will take place during the Winter Solstice. They have prevailed on the [eternal](../eternals/Eternal.md) [Lashonar](../eternals/Lashonar.md) to host the gathering (which presents challenges of its own due to Lashonar's recent [enmity](../eternals/Alignment.md#enmity)). An agenda has been prepared, although Ambassador Skopos is a little surprised that the Empire has not apparently submitted any matters of their own they wish to discuss. As the [pact lays out](../../mixed/titles/Voice_of_Liberty.md#1a) any member of the Pact with something to discuss "*will ensure that they have provided information on any issues they plan to raise and provide the wording of any vote they wish the pact to discuss in advance of the meeting*." The window to do so has now closed.
+
+Further details of the Liberty Pact meeting can be found in the **[My soul at liberty](My_soul_at_liberty.md)** wind of fortune.
+
+*[Image: Labyrinth.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Labyrinth.jpg)*
+
+*[Image: Fintan Nighthaven, former Ambassador to Axos, executed by the Empire but exalted in Axos.](https://www.profounddecisions.co.uk/empire-wiki/File:Fintan_Enemy_of_the_Creator.jpg)*
+
+## Regarding Fintan
+
+- **Theodosia of Ipotavo leads the Unified Convocation in condemning the Imperial Synod**
+- **They have asked that they be allowed to collect the remains of Fintan Nighthaven for interment in the catacombs of Solokha**
+- **The Assembly of the Way have been asked to offer guides to Axou priests who will come to collect the remains**
+
+During the Autumn Equinox the former Ambassador to Axos, *Fintan Nighthaven*, was tried and executed for serious crimes. When news of his death reached the [Unified Convocation](Troop_of_echoes.md#a-unified-convocation) of Axou priests, it sparked sorrow and more than a little outrage. Fintan had been declared an [enemy of the Creator](Troop_of_echoes.md#robes-of-sorrow), apparently a high honour among traditional [sects](../../out-of-character/rules/Bands.md#sects) not dissimilar to being recognised as an exemplar or perhaps more likely the newly created Imperial status of [exalted](../../mixed/government/synod/Exaltation.md). In the eyes of the Unified Convocation, Fintan was someone who through spiritual or philosophical means opposed [the Creator's wicked plans](../foreign-nations/Axos_religion.md#the-malign-creator) and encouraged other mortals to resist the curse of death and the torments of the Labyrinth. And now he is dead, condemned by the Synod and executed by the magistrates.
+
+According to some of the Convocation, this is simply further proof that the [Imperial Synod](../../mixed/government/synod/Synod.md) truly are tools of the Creator whether they believe it or not. They offered their aid in Solokha, and that cannot be ignored, but fundamentally the Way exalts the Creator and his [spiritual torture chamber](../foreign-nations/Axos_religion.md#the-eternal-torture-chamber) in a manner that is fundamentally incompatible with the spiritual truths the Axou hold as self evident. The Unified Convocation broadly agrees with her assessment. There is apparently a great deal of discussion going on among those sects who have joined the Convocation about whether it is worth trying to enlighten the people of the Empire as to the folly of the Way, or to simply leave them to dissolution in their Labyrinth.
+
+One matter that they are apparently unified on, however, is a desire to see Fintan Nighthaven suitably honoured. From her time in the Empire she is aware of [Navarr customs](../nations/navarr/Navarr_culture_and_customs.md#funerals) and knows that the body will presumably have been placed in a funerary glade. As an *Enemy of the Creator* however, she and her supporters would like to put him in pride of place in the newly established catacombs beneath the nascent citadel of reclaimed Solokha. On behalf of the Unified Convocation, *Theodosia of Ipotavo* asks that Axou priests be allowed to collect the physical remains of Fintan Nighthaven.
+
+She has reached out to the Synod, and asked that the Assembly of the Way uphold a [statement of principle](../../mixed/government/synod/Statement_of_principle.md) inviting the priests of the Grand Convocation to retrieve Fintan's remains. The statement does not need a [greater majority](../../mixed/government/synod/Judgement.md#greater-majority) it merely needs to pass. Obviously, this might send something of a mixed message to Imperial pilgrims - given that Fintan died a heretic and blasphemer and the Axou plan to honour him - but any fallout is likely to be minor.
+
+One other thing Theodosia does is share part of a letter she claims was written by Fintan Nighthaven before his execution. Her reasons for doing so are opaque; perhaps she seeks to shame the Synod; perhaps she genuinely hopes Imperial priests may see some value in his final words.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > I want to thank you for giving me the language to better speak of Virtue. Of Understanding, and through Understanding of Freedom, Judgement, and Purity. Of myself. I have spent so long couching my words in Vigilance it clouds my mind. I claim a wide net of what I protect but think that I truly act with an open heart. Whichever it is, I know it feels right. Perhaps I shall find out in the Labyrinth; or learn that you were right.  
+> >  
+> > I face a difficult decision at the next summit. My Synod lashes out in fear as glimpses beyond the Seven are seen and attempts to reaffirm their stance against ‘false’ Virtues. I could plead the Virtue in my actions but I am unconvinced it will change the outcome. Or I could not - there is controversy within my Synod and I stand able to, perhaps falsely, claim responsibility for some and hope it ends with me. Still more, the external drive may be gone but I wish to spread compassion. With infamy comes interest; my writings of theology, Virtue, and other faiths will be read more earnestly and plant understanding in their minds if I die in controversy. I do not know which path I shall take, but it is this possible final Sacrifice which keeps me from accepting your offer of sanctuary.
+> >
+> > Fintan Nighthaven, according to Theodosia of Ipotavo
+
+## Resolution
+
+The Scions of Cavan were [executed](Wise_and_measured.md#treason-and-the-vallorn), Navarr did not back the raid into [Axos](../foreign-nations/Axos.md) to save them. The Assembly of the Way [invited](../synod-judgements/387YE_Winter_Solstice_Synod_judgements.md#judgement-100) Axou priests to collect the remains of **Fintan Nighthaven**.
+
+## Axos Further Reading
+
+- [Axos](../foreign-nations/Axos.md)
+- [Axos religion](../foreign-nations/Axos_religion.md)
+- [Ambassador to Axos](../../mixed/titles/Ambassador_to_Axos.md)
+- [Axos ports](../../mixed/economy/Foreign_ports.md#axos)
+
+Winds of Fortune
+
+- [Those memories of you](Those_memories_of_you.md#axos) - 388YE Autumn wind of fortune about Axou diplomacy
+- [Seeds of Discord](Seeds_of_discord.md#axos) - 388YE Summer wind of fortune regarding diplomatic relations with Axos (among others)
+- [Wise and measured](Wise_and_measured.md) - 388YE Spring wind of fortune regarding diplomatic relations with Axos
+- Death leaves us homesick - 387YE Winter wind of fortune regarding diplomatic relations with Axos
+- [Troop of echoes](Troop_of_echoes.md) - 387YE Autumn wind of fortune about diplomacy and a little bit of espionage
+- [A better future](A_better_future.md) - 387YE Summer wind of fortune detailing the establishment of the Grand Council and the Unified Convocation
+- [What shall we do now?](What_shall_we_do_now.md) - 387YE Spring wind of fortune regarding diplomatic relations with Axos
+- [It never happened](It_never_happened.md) - 386YE Winter wind of fortune regarding diplomatic relations with Axos
+- [Victory and unity](Victory_and_unity.md) - 386YE Autumn wind of fortune about the political upheaval in Axos
+- [In the hills, the cities](In_the_hills-_the_cities.md) – 386YE Summer wind of fortune about Axou diplomacy
+- [A mountain of vipers](A_mountain_of_vipers.md) - 383YE Autumn wind of fortune introducing numerous Axou opportunities
+
+Axos Related Titles
+
+- [Quaymaster of the Black Sails](../../mixed/titles/Quaymaster_of_the_Black_Sails.md)
+- [Bursar of the House of Spirits](../../mixed/titles/Bursar_of_the_House_of_Spirits.md)
+- [Quaymaster of the Elosian Docks](../../mixed/titles/Quaymaster_of_the_Hesychian_Docks.md)
+- ~~[Eastern Broker](../../mixed/titles/Eastern_Broker.md)~~
+
+History
+
+- [Terunael in Axos](../nations/navarr/Terunael_in_Axos.md) - A travelogue visiting Axos in pursuit of information about the Terunael
+- [Andretti of Phoenix Rising](../foreign-nations/Andretti_of_Phoenix_Rising.md) - Historical research regarding a controversial painter
+
+Click *Expand* to see a summary of various pages related to Axos.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [387YE Winter](../../indexes/by-category/387YE_Winter.md), [Recent History](../../indexes/by-category/Recent_History.md), [Foreign Nations](../../indexes/by-category/Foreign_Nations.md), [Axos](../../indexes/by-category/Axos.md)

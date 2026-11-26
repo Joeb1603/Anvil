@@ -1,0 +1,60 @@
+__NOTOC__
+==Overview==
+* Imperial treasury during this season announced by the Civil Service at 1534 thrones and 4 crowns.
+* The following has been donated to the Imperial treasury: None.
+
+==Motions==
+===Passed===
+* [[Create title of Seer of the Gateway]]
+* [[Construct mithril mine]]
+* [[Fortify the Ore Hills]]
+* [[Disburse funds for strategic military magic]]
+* [[Disburse funds to settle Freeborn debts]]
+* [[Assign Reikos]]
+* [[Disburse funds for Iron Helms]]
+* [[Disburse funds for resupply II|Disburse funds for resupply]]
+* [[Allocate Vigilant Swan II|Allocate Vigilant Swan]]
+* [[Abrogate Asavean trade ban]]
+* [[Declare war on the Barrens orcs]]
+* [[Create title of Trade Envoy to the Sarcophan Delves]]
+* [[Construct the Tassato Mana Exchange]]
+* [[Allocate Great Pits of Ennerlund]]
+* [[Create titles of Civilian Commissioners]]
+* [[Construct Mines of Gulhule]]
+* [[Increase the Imperial Guerdon II|Increase the Imperial Guerdon]]
+* [[Construct Pilgrim's Trail]]
+* [[Construct Golden Orchards of Miaren]]
+* [[Construct Torfast Trading Post]]
+* [[Construct Glen of Shadows Trading Office]]
+* [[Construct shrine to Britta]]
+* [[Construct folly in Afarjasse]]
+* [[Construct College of the Liberated]]
+* [[Appoint Minister for Historical Research]]
+
+===Failed===
+* [[Disburse funds to Senator Sarvos]]
+
+===Withdrawn===
+* [[Construct Ministry for Jarmish Slaves]]
+
+===Announcements===
+* [[379YE Winter Solstice Announcement by the Advisor on the Vallorn]]
+* [[379YE Winter Solstice Announcement by the Dredgemaster of Feverwater]]
+* [[379YE Winter Solstice Announcement by the Quartermaster General]]
+* There were no announcements by the [[Crystal Architect of the Spires|Crystal Architect]], the [[Minister of Historical Research]], or the [[Imperial Master of Works|Minister for Imperial Works]] (the latter two titles are currently vacant).
+
+===Administrative===
+* [[Clarification on the Brilliant Shore]]
+
+==Administrative Motions Arising==
+* During their first session the Senate will appoint the first [[Appoint_Sumaah_ambassador|Sumaah ambassador]].
+* The [[Brilliant Shore]] was a [[Wintermark]] national Bourse resource. Now that [[Skarsind]] is an [[Imperial Orcs]] [[territory]], the Brilliant Shore automatically becomes an Imperial orc national bourse seat. However, the seat is currently held by the Steinr Joakim. This is a unique position that has not arisen before and the civil service is looking to the Senate for advice on how to proceed. Should the seat be re-appointed by the Imperial orcs during the Winter Solstice, or should it remain with Joakim until next time it would normally arise for re-appointment (Summer 380YE, or the death of Joakim whichever comes first).
+
+* The civil service ''may'' raise an [[Senate_motion#Administrative_Motions|administrative motion]] to confirm the details of the title [[Curator of the Printers' Guild Museum]] once they have been made compatible with the Constitution.
+
+* The civil service ''may'' raise an [[Senate_motion#Administrative_Motions|administrative motion]] to confirm the location of the proposed [[Construct_Sumaah_embassy_II|Sumaah embassy]] if the senator who raised the motion cannot do so.
+<!-- Administrative motion relating to the Admiral title the PCs have made - conflicts with the name of the Naval position -->
+ 
+[[Category:Senate]]
+[[Category:Senate Sessions]]
+[[Category:379YE Winter]]

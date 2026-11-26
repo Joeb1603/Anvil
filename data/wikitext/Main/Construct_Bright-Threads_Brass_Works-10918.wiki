@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:385YE Autumn]]
+__NOTOC__
+<quote by="Announced by Groza, Legion Engineer">Bright-Threads Brass works. Hahnmark. Valasmark. Sinecure – orichalcum.</quote>
+==Overview==
+* Constructs a [[sinecure]] in [[Hahnmark]]
+* Announcement by the [[Legion Engineer]]
+==Date==
+* Autumn 385YE
+==Cost==
+* Standard costs apply
+* 10 wains of mithril
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Bright-Threads_Brass_Works}}
+==Outcome==
+* Now completed, the position of [[Bright Threadweaver]] - a tenured Wintermark title elected by unanimous decision of the senators of Wintermark - was first appointed at the Winter Solstice 385YE

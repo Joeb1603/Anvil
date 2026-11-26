@@ -1,0 +1,26 @@
+[[Category:Senate Motion]][[Category:388YE Summer]]
+__NOTOC__
+<quote by="Announced by Taddea Ginori, Chair of the Wolf">As Chair of the Wolf I invite the inestimable Holberg College of Engineering to bring Katarzyna von Carstein's designs to life as the Great Publishers' Clearing House. Thanks to funding from the six great guilds of Tassato: the Camorra Barossa, the Gilded Horn, Jolly Jackdaws, Oathwright Press, the Silver Rivers Casino, and my own carta, the Printers' Guild. This great work in Tassato Mestra shall assure the illuminated city of Tassato as the printing capital of the world. Its custodian, Printmaster of the Publishers' Exchange, shall be appointed by League Bourse Auction
+</quote>
+==Overview==
+* Constructs a [[great work]] in Tassato Mestra, Tassato
+* Announcement by the [[Chair of the Wolf]]
+* More information can be found in the '''[[The_truth_but_tell_it_slant#The_Publishing_Clearing_House|The truth but tell it slant]]''' wind of fortune
+* This announcement is seeing extended scrutiny due to the election method of the associated title
+
+==Date==
+* Summer 388YE
+
+==Cost==
+* Standard costs apply
+* 50 wains of white granite 
+* 150 crowns in labour costs 
+* Three months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Publishing_Clearing_House}}
+==Outcome==
+Once complete, the Publishing Clearing House will have the following effects:
+*Provides a level of investment in [[business|businesses]] in Tassato, increasing their income by 36 rings
+*Increases the income of the [[Printmaster of Cevia]] to two thrones
+*Cements Tassato as the centre of printing across the Empire and nearby nations

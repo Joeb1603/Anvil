@@ -1,0 +1,259 @@
+[[Category:Winds of Fortune]][[Category:386YE Winter]][[Category:Recent History]][[Category:Appraisal]]
+<ic>"Another drink for my guest, Crake" she ordered, pointing to her orc-servant who was waiting on. 
+
+"No, honestly, I'm fine" Naomi hastily replied, frantically trying to cover the top of her goblet with her hand. "Honestly, it's delicious, but I haven't finished the first one."
+
+The orc lounged back on her divan beaming at her guest. "It is exquisite isn't it? It's Dawnish, of course. From a delightful little vineyard called Glory's End in Murderdale. I've got three more bottles laid down in the cellars - I just need some good company to share it with!"
+
+"Honestly, no, it is wonderful, but I do need to keep my head." Best to change the subject Naomi thought. "You were saying... about the salt lords... that they all have to have a salt mine?"
+
+"Was I? Oh yes - well that's how it used it work. But that was... centuries ago... I'm not even sure it was ever actually true. It's just what everyone says, which is sort of what history is I suppose. But yes, according to the record keepers, the first salt lords got their wealth and power from the trade in salt. So you can just imagine how awful that must have been."
+
+In fact, Naomi could not imagine why that would be particularly awful. "Paint me a picture?" she suggested innocently.
+
+"Oh!" Her host looked genuinely surprised. "Well it's hot you see, terribly terribly hot. And of course you're digging the salt out of the ground. So it's back-breaking work in all that heat... but it's the salt that makes it murder. It gets in your hair, your eyes, everywhere. You can taste it in the air, you ''breathe'' it in with every gasp. Did you know a slave working in a salt mine needs two additional litres of water every day - otherwise they don't survive more than a week or two at most."
+
+"No..." Naomi shook her head and trying to keep her tone diplomatic, "I did not know that."
+
+"Well yes, so there's the problem you see. The salt trade made them fabulously wealthy, but it created this terrible need. You can't pay people to work in a salt mine, well you could I suppose, but nobody does. The salt lords needed slaves, and huge numbers of them, to work their mines. So they used the profits from the salt trade to build up their military power so that they could acquire more slaves. Simple economics really."
+
+Naomi ground her teeth together, imagining what a benefactor might say in response to such an unvirtuous statement, but her host didn't seem to notice and pressed on.
+
+"What is it the Prosperous say? Wealth is power! Eventually they banded together, formed a Council and inevitably conquered the Broken Shore. The rest is history."
+
+"But they don't all own salt mines any more?" Naomi queried.
+
+"Noooo... that was years ago. We still have salt mines of course, but they're very old fashioned now. Turns out there is a lot more money in mithril than there ever was in salt! To hold a seat on the Council, to lead the Grendel, you have to be ''rich''. And for that, you have to have a source of real wealth. The salt is just for show these days, it's mithril, white granite and most all weirwood, that makes a salt lord."
+</ic>
+<div style="float:left; width: 500px; clear: right;">{{CaptionedImage|file=GrimGrendel.jpg|caption=The Grendel dominate the lands to the south and south-east of the Empire.|align=left|width=500}}</div>
+{{PDFLink|align=right|link=file:Fake empire.pdf|caption=Click for pdf version}}
+==Overview==
+During the Autumn Equinox, the [[Senate]] commissioned [[Appraisal#Naomi_of_Virtue's_Rest|Naomi of Virtue's Rest]] to undertake an [[appraisal]] on how the Empire might disrupt relations between each [[Grendel]] salt lord. She was asked to find ways to not only disrupt relations between the salt lords but also their allies, both internal and external. 
+
+The [[Highguard|Highborn]] prognosticator is the youngest of the lead scholars in the [[Appraisal#The_Prognosticators_Office|office]] and looks, where possible, to find the most diplomatic possible solution. With the problem of the salt lords, she has looked at where the Empire can make use of its extant resources - people that can be negotiated with or pressured to reveal information that might be useful. Elsewhere, she has made overtures to foreign nations to see what avenues might be open to Imperial citizens.
+
+Although this appraisal falls squarely within Naomi's expertise, its vast scope means that her response has been limited in application. The nature of appraisal is such that the more tightly focussed the request is, the more tightly focused the response is. The Prognosticators Office are capable of providing specific solutions to very specific problems when asked. But when given a completely open brief like this one, especially in an area where the Empire has little or no prior experience to build on, their response is, by necessity, more abstract.
+
+Naomi has split her appraisal into two parts - the first is designed to provide a description of the current situation, providing an overview of the Salt Lords Council, how it is made up and how it functions. The second part of her appraisal lays out what is known about the Grendel's allies and presents some ideas for how they might be approached.
+
+==The State of Play==
+Most of this information has come from Kaliact and the other Apulians who have been only too happy to share any information about the Grendel that they can be certain of.
+<div style="float:right; width: 500px; clear: right;">{{CaptionedImage|file=ApulianOrc.jpg|width=500|align=right|caption=Many League orcs are cautious about talking too much about Grendel politics because acting on out-of-date information can often be more dangerous than acting on no information.}}</div>
+===The Salt Lords Council===
+* '''With Ehsan disowned, the Council now contains six salt lords, four storm lords and one wind lord'''
+* '''Each salt lord controls at least one bourse resource'''
+* '''A storm lord controls a Grendel navy'''
+* '''The most powerful wind lord in Grendel lands is chosen to sit on the Council'''
+The intricate politics of the Salt Lords Council are difficult to understand from the outside, but former Salt Lord Kaliact has been a mine of useful information. The turncoat has liquidated all her assets in Spiral, selling many of them to League citizens moving to the territory. She has taken her fortune and settled in Sarvos, having purchased a resplendent waterfront property in Cigno. Although much of her information is already out of date, she was more than happy to share what she knew with Naomi.
+
+According to Kaliact, the Council is large and layered. There are at least six salt lords who sit on the council who hold the balance of power between them. Below them are the four storm lords, each of whom leads a single Grendel navy. A single seat is reserved for one of the wind lords, the most powerful magicians in Grendel lands. 
+
+To reach the rank of salt lord, a Grendel ''must'' control a bourse resource - a significant supply of weirwood, mithril or white granite. Weirwood is considered by far the most valuable of the three bourse resources, and mithril the least. Ilium is valuable in Grendel lands, but not valuable enough to raise you to the rank of salt lord. Maintaining control of a bourse resource is a constant struggle, every salt lord faces the constant risk of being attacked by their rivals or betrayed by their allies.
+
+The most powerful salt lords control more than one bourse resource, but that is rare. There is an unspoken agreement among the salt lords that no individual should ever be allowed to control too many bourse resources, otherwise, they might try to rule outright. Most Grendel believe that a state of continuous competition between the salt lords is best for the nation as a whole. The chaotic infighting that results is seen as the only way to ensure that the sharpest, most audacious, and brilliant Grendel wield power. The knowledge that one misstep will see you torn down by your enemies is seen as a good thing - a way to replace those who have made mistakes.
+
+Most salt lords control land, often including a city, and in some cases a shipyard. In their lands, their rule is absolute; individual salt lords have autonomy, ruling over their own lands as they please without interference from the rest of the Council. The salt lords meet to decide common policy, to build navies and appoint storm lords, to raise armies and appoint generals, to raise and spend taxation and to agree on diplomatic and military ventures that affect the whole Grendel nation.
+
+In practice, beneath this calm surface, the Grendel are wracked with infighting, with individual salt lords jockeying for advantage as they seek ways to advance their own cause and undermine their rivals. Raiding of other Grendel's lands was once commonplace, but the practice has almost completely died out in favour of more subtle methods of opposition - subterfuge, treachery and trickery. It's considered crass these days to directly attack your enemies; those who win the respect of their peers do so by wielding force like a stiletto, overlooked until the moment it slips between your ribs.
+<div style="float:right; width: 500px; clear: left;">{{CaptionedImage|file=Broken Shore.jpg|caption=The Broken Shore is a large, often arid, stretch of land along the eastern and southern Bay of Catazar, dominated by the Grendel.|align=right|width=500}}</div>
+
+===Influencing a Salt Lord===
+* '''The Empire faces several problems in disrupting relations between salt lords'''
+* '''The salt lords band together against the threat posed by the Empire, they know the Empire would pick them off one-by-one if they let them'''
+* '''Any member of the Council whose actions threatened the whole group would be torn down by the others'''
+* '''The Grendel don't trust the Empire to keep their word'''
+* '''Without authorisation from the Imperial Senate, any deal that tried to bribe a salt lord might be illegal'''
+
+In theory there is the capacity for the Empire to play one salt lord against another. Kaliact is in no doubt at all, that any salt lord the Empire approached in a credible way would give consideration to a plan that would clearly advance their own position. There are, however, several significant problems. The first is that the salt lords are not fools; they understand that if they don't band together at some level, the Empire will pick them off one by one. That loyalty won't go far, they abandoned Ehsan the moment he looked done for. But they're not so foolish as to imagine that the Empire is ever going to be anything other than their enemy.
+
+The second problem is that the salt lords would be certain to unify against any salt lord whose actions were clearly a threat to the rest of them. The Empire might be able to pay one salt lord to inform on another, but anyone who was clearly siding with the Empire against the other salt lords would be torn to pieces. A particularly audacious salt lord might edge close to the line, but they won't go over it - they're too smart for that.
+
+The final problem is trust. For the Grendel, their word is their bond because they have nothing else. They learned long ago that people who lie and steal have no future other than to cheat others in the future. But since they adopted the Virtue of Fidelity, they've tried to cleave to a more honest path. Doing so is what allows Grendel ships to dock in distant lands like Asavea, Sarcophan and Jarm. The salt lords have few scruples, but they won't lie to the Empire - or to each other. However, they don't currently trust the Empire. Things have improved considerably in recent years, but they are not yet at the point where they trust the Empire to keep its word. That means any deal has to be good enough to incentivise them to take the risk of trading with someone they think might break their word.
+
+If anyone were to try negotiating with a salt lord, then the best approach might be to approach them as one individual to another. Focusing on how the proposal will make both parties richer (and explicitly how it would benefit that salt lord). Trying to make vague overtures will likely end in disappointment. Unfortunately, without a clear legal mandate from the Imperial Senate to proceed, such an offer would likely be treated as treason under Imperial law. Anyone interested in pursuing this would be well advised to take careful legal advice from a magistrate first.
+
+Great care would be needed, even if the Senate took action to make an offer legal. Unless planned carefully, any offer might end up making the Grendel stronger rather than weaker. After all, unless the proposal seems to offer a clear advantage for the salt lord, they are not going to agree to it.
+
+===A Word of Warning===
+* '''Kaliact claims that the Council may be a nest of vipers but they will cling to each other like barnacles to a hull'''
+* '''A salt lord would never contemplate taking the Empire's side unless their position was absolutely doomed if they didn't'''
+
+Nothing would make Kaliact happier than for her former fellow Grendel to follow her lead and join the Empire, but she is at pains to advise that such an outcome is vanishingly unlikely. Her position in Spiral was uniquely weak - at least by the standards of the salt lords. She was the newest member of the Council, and her position was hopelessly compromised from the outset.
+
+The territory was widely considered to be a poisoned chalice by the Council. Their plan was to use Feroz to distract the Empire. They appointed Rahab as Governor, in the sure knowledge that he would infuriate the Empire due to his inevitable mismanagement of the territory. They hoped that would focus the Empire's efforts on defeating him rather than retaking Spiral when the peace treaty ended. But the plan was never considered to have more than a fifty-fifty chance of success at best - there was a widespread view on the Council that they might get five years in control of Spiral - at best.
+
+There was still considerable riches to be had from the territory due to the presence of the mithril resource. Grendel military strategy is focused on taking and holding as many bourse resources as they can. But the presence of the {{Black Plateau}} made life there almost unbearable. Grendel armies are largely made up of orcs drawn from the interior - they go where they are ordered to go. By contrast, only the most ''desperate'' Grendel were prepared to accept a position in Spiral, even with the riches on offer.
+
+Kaliact took a position that no wealthy or powerful Grendel wanted - but she still had to call in every favour she could to be appointed by the Council as the Salt Lord of the [[Legacy]]. She used her position to make money, but much of that wealth inevitably had to be repaid to the salt lords whose votes she had to buy to get the position. Because she was so dependent on the other salt lords for support and for protection from the Empire, much of the mithril from the Legacy was claimed by the Council. Significant portions were traded with Urizen for weirwood, which was used to build the new Grendel navy. Kaliact never saw a ring from that trade. 
+
+That meant that the money Kaliact was able to squeeze from Spiral would never be enough to enable her to build up the territory's defences. She didn't have the wealth or influence needed to hire mercenaries from the interior, nor the weirwood required to build a navy. Crucially, the Grendel were absolutely ''desperate'' not to fight in the territory. No storm lord would ''ever'' agree to move their navy there, and armies ordered to the territory would suffer an appalling toll from the {{Black Plateau}}. The cost in mithril would be absolutely ruinous. The Council ordered Kaliact to do everything possible to defend the territory, at points providing wagonloads of white granite and support from their Jarmish allies, but they were never likely to provide the support needed to hold the Empire at bay.
+
+The point of Kaliact's story is that there was no credible possibility of defending the territory once the Empire attacked. In hindsight, she now appreciates that the Grendel overestimated the Empire's willingness to fight there, just as the Empire did the same for the Grendel. But even so, she believes she was inevitably going to lose everything when Spiral fell one way or another ''and she knew that before she ever took the seat.'' Kaliact's strategy from the outset was to find a way to solve that Gordian Knot. She might not be a salt lord anymore, but she was never going to retain that position for long anyway. What she does have now is more than enough money to live out her days in a life of luxury far away from the {{Black Plateau}}.
+
+Kaliact is keen to stress that the Empire should ''not'' expect other salt lords to change sides just because she did. The other salt lords firmly believe that their future lies in working together. As proof, she points to the example set by Ehsan - he was abandoned by the other Grendel, about which he was enormously bitter, but that was nowhere near enough to make him contemplate joining the Empire.
+<div style="float:right; width: 300px; clear: left;">{{CaptionedImage|file=Master of Locks.png|caption=Basileia has negotiated a dossier of information with the Imperial Conclave|align=right|width=300}}</div>
+===Basileia's Dossier===
+* '''Two dossiers from Basileia Brazen will be received by ''Æsa Sigeing'' at the upcoming summit'''
+* '''One dossier will contain information on the Grendel as a whole, focussing on the lands they rule'''
+* '''The other one is specifically on the Salt Lords themselves, their identity and what is known about them'''
+
+Last summit, the [[Basileia|Sovereign Lord of the City of Locks]] made an offer to the Conclave: information on the Grendel in exchange for [[tempest jade]]. The [[Imperial Magus]], '''Æsa Sigeing''', raised a Declaration of Concord to [[386YE_Autumn_Equinox_Conclave_sessions#Concord:_City_of_Locks_Dossier|request a dossier]] on the Salt Lords and the Grendel in general. The dossier should have - amongst other things - the most up-to-date information on the Salt Lords, with detail on each member of the Council, and a list of potential assets to target. It is expected to be delivered to the [[Steinr]] mediator during the upcoming summit.
+
+None of the Apulians can provide better information than Naomi expects the Empire to receive from the ''Carver of Cliques''. They know the identity of the other salt lords, but even Kaliact does not know them well. They have helped Naomi enormously, speaking fulsomely on the subjects they are certain about, but they prefer to stick to subjects they can be absolutely certain of, wary of saying anything that is incorrect or simply out-of-date, concerned that some people might question their loyalties if they prove to be wrong.
+
+With the knowledge that the Empire will shortly receive a very thorough briefing on the Grendel lands and their leaders, Naomi has focused her work on initial steps the Empire might take to complement Basileia's contribution. The civil service expects to publish copies of the information provided by the ''Patron of Spies and Traitors'' after the summit. Anyone who feels they urgently need access to the information should attempt to speak with Æsa Sigeing at the summit.
+
+==Allies of the Grendel==
+Naomi has done her best to ensure that all of the following information on the Grendel's allies is accurate and up-to-date.
+<div style="float:right; width: 300px; clear: right;">{{CaptionedImage|file=AmbassadorIronConfederacy.png|caption='''Tethros i Zuhri i Erigo''', Ambassador to the Iron Confederacy|align=left|width=300}}</div>
+===The Suranni Connection===
+* '''The Suranni hate the Grendel, but they have a truce with them currently'''
+* '''The Suranni could be negotiated with for permission to construct a spy network or smugglers cove in Tathar'''
+* '''The titles best suited to initiate discussion would be the Ambassador to the Iron Confederacy or the Imperial Spymaster'''
+* '''Sending any Conclave order would be disastrous'''
+
+Elsewise Naomi engaged in some gentle, probing discussion with the Suranni residing at the [[embassy]] in Sarvos. The Grendel and the [[Iron Confederacy]] have a détente, some ongoing agreement, which keeps the two nations from open warfare at present. They are not allies, and certainly not friends: the Grendel's focus on dominance of the Bay of Catazar puts them in direct competition with the Suranni who believe that their gods have promised them that they will eventually conquer the entire continent. Mostly, what keeps the peace appears to be the fact that the Grendel have many more navies than the Suranni, while the latter have vastly more armies than the orcs of the Broken Shore.
+
+The two groups could hardly be called natural allies, and the possibility clearly exists for the Empire to exploit the fragile nature of the relationship. Naomi urges caution however - while the Iron Confederacy have never been at war with the Empire, the relationship might be described as frosty at best. They don't like the Grendel, but they don't like the Empire very much either. In particular, the Suranni are highly sensitive to any perceived slights or suggestions that their nation is not as strong as they claim. One of the chief things they loathe about the Grendel is their arrogance and sense of smug superiority. The embassy makes very pointed remarks about the fact that the Grendel are far from the only people to take such an approach.
+
+The Iron Confederacy have no interest in directly assisting the Empire against the Grendel. The fact that two powerful nations they see as jumped-up rivals are fighting each other is the perfect outcome as they see it. If they thought they could invade the Broken Shore and seize those lands without the Empire gaining more than they did, they would jump at the chance, but they are not willing to do anything that might risk the Empire completely defeating the Grendel. They clearly regard the existence of the Grendel as an effective check on Imperial ambitions to expand across the Bay of Catazar.
+
+That doesn't mean they couldn't be persuaded to provide some assistance to the Empire, provided it was something they could disavow. At the moment, the Suranni will not make any overt moves against the Grendel, but they might be bribed to provide indirect assistance. After long discussions with the embassy, Naomi has identified one concrete step the Empire could take to exploit the peace between the Grendel and the Suranni.
+
+The Suranni don't share a land border with the Grendel, but the territories of [[Bay_of_Catazar#Shavronne|Shavronne]] and [[Bay_of_Catazar#Veroigne|Veroigne]] lie on the other side of the Cazar Straits from the Grendel territory of [[Bay_of_Catazar#Tathar|Tathar]]. In some places, they are close enough that you can clean across the waters on a good day. The [[Bay_of_Catazar#Maligaro Islands|Maligaro Islands]] suffer from repeated incursions from the Grendel that slip across the waters under cover of darkness to build a [[spy network]] or establish an espionage ring there every few years.
+
+What is sauce for the goose is sauce for the gander. The Suranni are completely disdainful of the Grendel, they consider spying on the orcs to be completely beneath their dignity. But they wouldn't object to the Empire doing it, and they ''might'' be persuaded to let the Empire enter their lands to set it up. If they could be convinced to permit it, then a select group of Imperials could journey through Arbonne and Shavronne to engage in observing Tathar.
+
+It would require incredibly delicate discussion; the Suranni are - as of yet - unaware of the Empire's capability to construct [[smugglers cove|smugglers coves]], but if an agreement could be reached, it would allow the Empire to gain potentially invaluable information. 
+
+There is no certainty what the Suranni might ask for in exchange for such an arrangement. The Empire would need to fund every aspect of construction and find a way to convince the Suranni that it was in their interests to allow this.
+
+In her conversations with the embassy staff, Naomi discovered one other thing of note. One [[Suranni pantheon|priest]] she spoke never explicitly confirmed it, but they suggested that many years ago it was common for the Grendel to make the same request of the Iron Confederacy - asking permission to send people through their lands to spy on the Empire in territories near the border. The woman categorially denies that any such request was ever granted, but Naomi considers that denial to be unconvincing. Of course, the Empire has experience with the Grendel trying to spy on them, but what strikes Naomi as noteworthy is that the priest comments that ''the Grendel haven't made that same request for years now.''
+
+It seems unlikely that the Grendel have suddenly lost interest in spying on the Empire. Naomi considers it more likely that the orcs of the Broken Shore stopped asking the Iron Confederacy for help because they discovered some other way of getting the information they wanted.
+<div style="float:right; width: 300px; clear: left;">{{CaptionedImage|file=Bladeroot.jpg|align=left|width=300}}</div>
+===The Sarcophan Trade===
+* '''The Sarcophan pride themselves on being completely neutral in world affairs'''
+* '''Grendel trade vessels enjoy the same access to Sarcophan ports as Imperial shipping'''
+* '''The Imperial Ambassador might be able to bully the Sarcophan into taxing Grendel trade'''
+
+The [[Sarcophan Delves|Sarcophan]] would never call themselves allies of the Grendel - they regard their neutrality in international politics to be crucial to their success as a trading nation. They might be persuaded to call them friends, but only when they were sure there were no Imperial ears around to hear it. In practice, it is not clear whether they like the Grendel or not, but they certainly do like trading with them. They used to do regular business with Grendel slave traders - they've stopped that trade now, thanks to the [[Liberty Pact]], but it has been replaced with trade in mithril and ilium, which the Grendel sell to the Sarcophan in exchange for weirwood, mana crystals and herbs. Loot taken from Imperial lands and shipments pirated from Imperial vessels often finds its way to the Sarcophan.
+
+It is clear that trade with the Sarcophan is very important to the Grendel, and the Salt Lords Council go to great lengths to ensure it is protected. Grendel captains that have free license to attack Imperial ships know they face a terrible fate in the salt mines if they raise a sail against a Sarcophan ship. The supplies of weirwood they acquire from the Sarcophan play a crucial role in keeping the Grendel navies afloat and ensuring their dominance of the seas. Disrupting that trade could provide the Empire with an advantage in the long term.
+
+The Sarcophan are unlikely to even confess to the scale of their trade with the Grendel or the importance that it has to the orcs of the Broken Shore. It would be far too expensive to pay them to turn Grendel vessels away - but they might be bullied into it. It would be an exceptionally high-risk strategy that would sour relations with the Sarcophan, but Imperial trade and access to Imperial ports is worth more to them than the trade with the Grendel. They would hate the Empire for it, but if it was a case of them or us, if the Empire put a knife to their throat and gave them no choice, Naomi believes they would cut off their trade with the Grendel if that was the only way to maintain links with the Empire.
+
+It is a high-risk strategy however. It would permanently damage relations with the Delves whatever happened, but there is a chance it could backfire. Naomi is certain that the balance of profits favours the Empire, but if the ambassador handled negotiations badly then there is a small risk that the Delves choose the Grendel rather than the Empire, just to demonstrate that they won't be pushed around.
+<div style="float:right; width: 300px; clear: left;">{{CaptionedImage|file=IconJarm.jpg|align=right|width=300}}</div>
+
+===The Jarmish Link===
+* '''The Golden Prince used a favour to ensure the Jarmish princes officially stay neutral'''
+* '''Grendel merchants and envoys enjoy a ready welcome in Jarm but are getting no substantial assistance'''
+* '''Too much overt aid to the Commonwealth in their war with Jarm would quickly tip that balance'''
+* '''If the Jarmish cut off trade with the Grendel that would reduce the number of powerful rituals they could cast each season'''
+
+Relations with the [[Principalities of Jarm|Jarmish]] remain fraught following the creation of the Liberty Pact. Fortunately for the Empire, the ongoing war between Jarm and the [[Commonwealth]] is occupying the full attention of the magician-princes. As a result, it was not too onerous for the ''[[Prospero|Golden Prince]]'' to [[Inkpot_gods#The_Shield_and_the_Staff|call in a favour]] to ensure that the Jarmish remain officially neutral in the conflict between the Empire and the Grendel. Grendel merchants enjoy a warm welcome in Jarmish ports where they buy mana crystals, [[Better_world#The_White_Seed|white seed]], enchanted jewellery and clothing, magical foci, and other essential supplies for their war with the Empire, but they have to pay taxes on everything they sell. Their envoys are welcome in the Jarmish palaces, but they don't go away with anything more than warm words of support.
+
+That is likely to remain the status quo unless the Empire provides too much overt aid to the Commonwealth. The Jarmish are confident that they can win the war due to their enemy's magical shortcomings, but the one thing they know that could change the course of the war is if the Empire were to provide substantial support to the Commonwealth. It would have to be substantial - a bag of mana crystals or a few rings of ilium are not going to turn the tide in their war any more than the same aid would turn the tide of the Empire's conflict with the Grendel, the Jotun and the Druj. But if the assistance was significant enough to make a material difference, that would shift the Jarmish magician-princes' calculations.
+
+At the moment, the current situation with the Grendel suits Jarm perfectly. The more pressure the Empire are under, the more likely they are to keep their noses out of other people's business. That correction is one many Jarmish magician-princes regard as long overdue and is broadly welcome. The magician-princes have turned down repeated requests by the Grendel for them to declare on the Empire following Prospero's intervention, but if the Empire were seen to be providing material support to the Commonwealth, then Jarm would seek to do the same with the Grendel.
+
+In theory, it ought to be possible to improve diplomatic relations with the Jarmish princes to the point where they could be persuaded to cut ties with the Grendel. Losing access to Jarmish mana markets would reduce the number of powerful rituals the Grendel could use on the armies and navies that are actively fighting the Empire. That looks impossibly difficult, however, given the terrible state of relations with the Jarmish. Diplomatic relations used to be excellent; some Jarmish still talk fondly of when '''Oswi Twice-burned''' was the Imperial ambassador to Jarm as the high point in their relations with the Empire. Those days appear to be gone for good though - the only person who ''might'' know a way to improve relations with the Empire is probably Oswi, but Naomi suspects that even he would find it impossible while the Empire remains firmly committed to the Liberty Pact.
+<div style="float:right; width: 300px; clear: left;">{{CaptionedImage|file=IconAsavea.jpg|align=left|width=300}}</div>
+===The Asavean Allies===
+* '''The Asaveans are providing crucial military assistance to the Grendel'''
+* '''The relationship with the Grendel was badly damaged by the actions of the Children of Wrecks'''
+* '''Destroying the Children of Wrecks might create an opening for an olive branch to the Asaveans'''
+* '''It would need to be combined with a grovelling apology for the attack on Chalonsio to get them to withdraw'''
+The [[Asavean Archipelago|Asaveans]] are providing crucial military assistance to the Grendel. There are at least three massive Asavean warships in Imperial waters, actively supporting Grendel navies and even conducting attacks on Imperial ports independently of their allies. These warships fall short of an actual navy - thus far the Asaveans have not got ''that'' far - but their fighting strength is several times the size and power of an Imperial [[fleet]]. The support they are giving to the Grendel is very real - and that is despite the fact that they are openly fighting the Sumaah. If they somehow made peace with the Sumaah, then it is likely that their support for the Grendel would dramatically increase. Fortunately for the Empire, that outcome doesn't look even remotely likely any time soon.
+
+The warships are far from the only support the Asaveans are offering. There are Asavean mercenaries fighting on campaign alongside Grendel forces, and there is certain to be considerable trade between them and the Grendel. There are even rumours that the two nations are looking at an [[opportunity]] to share shipbuilding techniques that would allow both sides to build or upgrade more powerful navies.
+
+Disrupting this new alliance would provide an immediate military benefit to the Empire if Asavean troops and warships were withdrawn. That would be difficult, but it is not impossible. The alliance between the Asaveans and the Grendel was badly damaged by the [[Siakha]] cultists. It appears that the Asaveans were collaborating with the [[Children of Wrecks]] to [[A_beacon_of_smoke#Save_the_Shining_Pillar_(Battle)|attack a lighthouse]] in [[the Brass Coast]]. ''High Priestess Shivaarn'' intended to ravage the coast by feeding Imperial heroes to the Mother of Wrecks. When the Empire refused to take the bait, the Grendel were left with no one to sacrifice to their hungry deity, so they did the next best thing and fed the Asaveans to the Maelstrom instead.
+
+Not surprisingly, the Plenum was outraged when they discovered what had happened. The Salt Lords Council were able to smooth over the diplomatic incident, but only by very publicly severing all ties with the Siakha cult. In truth, nobody was particularly sorry to see them go - they are regarded as dangerous sociopaths by most civilised Grendel. They were tolerated only while they were useful and didn't go too far.
+
+Still, their continued existence presents an opportunity for the Empire to turn over a new page with the Asaveans. If the Empire could destroy the Children of Wrecks and deliver Shivaarn's head to the Plenum along with a grovelling apology for the [[Mosaic|attack on Chalonsio]], then it would be enough to persuade the Asaveans to withdraw their forces. Asavean tempers have cooled a little, following their destruction of Siroc; burning the city to the ground has created room for the Asaveans to climb down from their war with the Empire with their Pride intact. They still regard the attack on Chalonsio as an outrage, but they are satisfied that they have given as good as they got. If Shivaarn's head was accompanied by genuine diplomatic attempts to deliver a grovelling apology for the original attack, and a solemn promise that there would be no further actions against Asavean interests, then they could agree to end the war with the Empire and withdraw their forces.
+
+===The Jotun and the Druj===
+* '''Neither the Jotun nor the Druj coordinate their actions with the Grendel'''
+* '''The Grendel occasionally provide information to both orc nations'''
+
+The Grendel appear to have no diplomatic links with the [[Thule]], but the Council do exchange communications with the [[Jotun]] and the [[Druj]]. Getting information on these links is very difficult, but as far as Naomi can tell, the Grendel don't enjoy close relations with either nation. While they may occasionally engage in one-off arrangements with the Druj they don't trust the orcs of the Mallum because they know they will break any deal they make with them eventually - an attitude that outrages the Grendel. They conduct some trade with the Jotun, but they find the western orcs too strait-laced, while the Jotun find them smug, self-serving and entirely without honour. There is no little love lost on either side and no basis for a lasting alliance.
+
+Despite this, the Jotun have confirmed in the past that the Grendel do provide them with information on Imperial military movements, often freely given, which they gain from their extensive spy networks and espionage rings. It seems likely that they do the same with the Druj. It's not clear what the Grendel get from this arrangement, but it could just be an effort to manipulate the other orc nations to their own advantage. At the very simplest level, the Druj have no reliable way to know if the Empire are currently at war with the Jotun, ''unless the Grendel tell them''. The Jotun certainly believe that the information passed to them by the Grendel is tailored to try to convince them to take up the fight against the Empire.
+
+The Jotun trust the Grendel to keep their word, and the Druj don't trust anyone, so it would be difficult to shift either side's perception of the Grendel one way or the other. But if the Empire could staunch the flow of information that the Grendel draw from their spy networks, it could help in their fight against the Grendel, and it might also reduce the intelligence received by the Empire's other enemies.
+
+Trade with the Jotun and the Druj is useful to the Grendel, but it isn't large enough to make a material difference to their war effort against the Empire, even if it were cut off completely. It might be an utter disaster if the Grendel ever formed a formal military alliance with the Jotun or the Druj, but that outcome looks vanishingly unlikely. The only way it might happen, in Naomi's view, is if the Empire ever came close to finally defeating the Druj or the Jotun. If that happened, Naomi suspects the Grendel might try to offer what military support they could to the failing nation for no other reason than they would to help them continue their fight with the Empire.
+
+==Other Leads==
+* '''There are several Grendel and former Grendel who might be willing to discuss the matter with particular Imperial titles or groups'''
+If the Empire wishes to uncover more information on specific Salt Lords or their allies, then there are several avenues that could be explored. Currently, there are at least five groups of Grendel - or recently Grendel - living in territories controlled by the Empire. Where possible, Naomi has identified which Imperial titles or Conclave orders would be best suited to instigate discussion. This is not an exhaustive list; there is always a chance that letters from others might be welcomed, nor is it guaranteed; a diplomatic misstep from one of the listed titles would be judged in a much harsher light than others.
+
+Naomi wants to make clear that each of the listed groups will ''want'' something for any information they have. Whether that be diplomatic concessions, ritual texts, wains, or something else. All of these were born and raised as Grendel and ''nothing'' should be expected for free.
+
+===Lord Ehsan===
+{{WingedMessenger|address=Lord Ehsan, the Palace of Chains, Beoraidh, Mareave}}
+* '''Lord Ehsan rules over the nation of Beoraidh in Mareave'''
+* '''The title best suited to initiate discussion would be the Cardinal of Prosperity'''
+Lord Ehsan, ruler of the tiny independent nation of [[Mareave#Beoraidh|Beoraidh]], is the only living former salt lord with any deep experience of the Council. Kaliact was only a salt lord for a few years, and she spent most of that time trying to shore up her position in Spiral. Ehsan, by contrast, was a member of the Council for many years and likely knows some of them personally. He may have information on which members of the Council would be most susceptible to which inducements or who might be convinced to put their own interests before that of the Council.
+
+Although Ehsan is furious with the Council for not doing more to defend [[Mareave]] from the Imperial assault, he still wants to keep his options open so that he can resume his seat on the Council if the Grendel can retake the territory. For that reason, he is never going to do anything that might openly threaten the Council, but he will be confident he can get away with providing the Empire with information provided he has some plausible deniability.
+
+He won't do it unless he is well paid however. He is - or was - a salt lord after all so wealth and power are everything to him. He is likely to seek amendments to the ongoing treaty to reduce the seasonal fees he pays to the Senate or to want significant quantities of weirwood.
+
+===Black Sand Circle===
+{{WingedMessenger|address=Mannun Amahuz, Execution Hill, Beoraidh, Mareave}}
+* '''The Black Sand Circle are a coven of Sand ritualists who remain in Beoraidh''' 
+* '''The Golden Pyramid or the Celestial Arch could be guided to begin negotiations with the coven'''
+* '''The title best suited to initiate discussion would be the Archmage of Autumn'''
+The Black Sand Circle are the remnants of a coven that, at one point, lived in Spiral but chose not to join the Empire alongside the Apulians of the Circle of Black Sand. Instead, they have [[We_all_stand#Black_Sand_Circle|established themselves]] in Beoraidh as independent ritualists who offer their services to the greatest bidder. The Black Sand Circle are likely the Empire's best chance at acquiring information on individual Wind Lords; the most powerful and influential of the Grendel's magicians.
+
+The Black Sand Circle would likely seek further ritual texts [[Dissemination|disseminated]] from Conclave, an ongoing endowment from the Conclave, or help to construct their own [[College of Magic]] in Beoraidh.
+
+===North Mareave Trading Consortium===
+{{WingedMessenger|address=Trader Athok, Warehouse of Wine and Wains, Sinfoyard, Mareave}}
+* '''The North Mareave Trading Consortium are a collective of traders in Beoraidh and northern Mareave'''
+* '''The Celestial Arch or the Golden Pyramid could be guided to begin negotiations with the consortium'''
+* '''Anyone with a title that gives them a seat on the Bourse would be well suited to initiate discussion'''
+The North Mareave Trading Consortium have a long history of trade with the Empire, having [[Pebbles_drawn_from_a_heap#North_Mareave_Trading_Consortium|first offered]] to purchase weirwood and white granite at the Spring Equinox 384YE. Now, they have purchased land from Ehsan in Sinfoyard and are in the process of establishing trade links with the residents of Beoraidh, Mareave, and further afield. They are the group most susceptible to bribery who would have information on the individual assets - the mithril mines, weirwood groves, and ongoing trade deals - of the Salt Lords.
+
+The North Mareave Trading Consortium would likely seek an ongoing trade deal with the Empire, preferential trade rights, or possibly a specific commission built and ceded to them.
+
+===Gallum Fiersach===
+{{WingedMessenger|address=Gallum Fiersach, Mora's Rock, Morajasse, Feroz}}
+* '''Gallum Fiersach is the capable Grendel commander of Mora's Rock'''
+* '''The Quartermaster General or any of the Freeborn generals would be well suited to initiate discussion'''
+''Gallum Fiersach'' came to the Empire's attention when Feroz was [[Glass_and_flame#Game_Information:_Mora's_Rock|reclaimed]]. The commander of [[Feroz#Mora's Rock|Mora's Rock]] is apparently a decorated and respected military commander of the Grendel with decades of experience fighting the Empire and other enemies of the Grendel. If the Empire wants to try gaining further information on the armies of the Grendel, then Commander Fiersach represents the best chance for that. Unfortunately, Gallum Fiersach is currently well protected - he is walled up in Mora's Rock and has extensive supplies needed to wait out a siege.
+
+As a relative unknown to the Empire, it is not clear what Gallum Fiersach might wish for.
+
+===Children of Wrecks===
+{{WingedMessenger|address=High Priestess Shivaarn, the Temple of Thunder, Cazar Straits, Feroz}}
+* '''The Children of Wrecks have split from the Grendel and claimed land in Feroz, Madruga, and Raineach'''
+* '''The Shuttered Lantern or the Celestial Arch could be guided to begin negotiations with the "''free nation''"'''
+* '''The Archmage of Spring would be well suited to initiate discussion'''
+* '''The Imperial Senate could create an ambassadorial position to open relations with them'''
+It is not an understatement to say that the Children of Wrecks are well known to the Empire. Over the last six months they have been responsible for numerous raids and attacks on Imperials, have taken part in a conspiracy to attack Elos Harbour (and are planning on using the [[Redoubt|Ribbon of Salt]]), and have called Siakha cultists from across the Empire and the world to their banner. Negotiation with the Children of Wrecks would be fraught with danger; the wreckers are as prone to violence as one would expect from a nation that sprung up from a cult of the [[Siakha|Maelstrom]]. Tied to that risk is opportunity though, they have been an informal part of the Grendel military for decades and would have valuable information on the Storm Lords; the leaders of the [[navy|navies]] of the Broken Shore.
+
+The Children of Wrecks are likely to have a wide array of requests for such information, including - but not limited to - land, mana crystals, ritual texts, coin, ilium, realm vis (not just Spring), or any of a number of other things.
+
+In ''theory'' they might even accept a peace negotiation, to allow them to focus their attacks on the Grendel. Their demands for such a thing would be eye-watering, but it's not impossible that the Senate might consider it worth the price.
+
+==Paid Informants==
+* '''An office of the Regario Dossier could be established in Vorlach'''
+* '''Establishing the office would cost twenty thrones and increase the ongoing upkeep by eight thrones a season'''
+* '''Support from the Shuttered Lantern would produce a report for the grandmaster and remove the initial cost'''
+The number of orcs willing to risk their lives for the Empire has never been higher. From the Apulians joining [[the League]] and the pacifist orcs of the Mournwold joining [[the Marches]], to the five [[sept|septs]] joining the Sunstorm in the Imperial Orcs, there is an overwhelming number of courageous orcs who are willing to support the expansion of the [[Regario Dossier]]. Having spoken (thirdhand) with [[Regario_Dossier#Agents_of_the_Regario_Dossier|Agent Catazar]], Naomi is certain that the manoeuvres of the dossier could be extended into the Broken Shore and has drawn up plans to support such an expansion. 
+
+Once the office was established, the Regario Dossier would receive a report on the foreign allies of the Salt Lords - both individual and collective - with a focus on economic aid. The Shuttered Lantern are capable of offering support in such an endeavour; the Grandmaster could guide the order to assist in establishing the office in Vorlach. The grandmaster would likewise receive a report - focused instead on magical support - and the presence of the order would remove the initial cost of twenty thrones.
+
+Naomi is of the belief that Vorlach would be best suited for such an office; Tearlag Sun is not as entrenched as Meremes in Dubhtraig, and the traders and companies of Gainmeachdugb have been ''very'' quick to fall in line behind Lady Azshur.
+==Further Reading==
+* [[Grendel]]
+* [[Bay of Catazar]]
+* [[Spy network]]
+* [[Smugglers cove]]
+* [[Call Winged Messenger]]
+* [[Lit up]] - 386YE Winter wind of fortune relating to diplomatic opportunities in Mareave.

@@ -1,0 +1,30 @@
+<ic>To construct a magical College aligned with the realm of Summer within the territory of Morrow. The Dean of the College to be appointed by vote of the Conclave<br><br>''Proposed by Redoubt, seconded by Kallavesa''</ic> 
+
+===Overview===
+* Permission to create a [[College of Magic]] in [[Morrow]], specialising in [[Summer magic]].
+* Corvus, Archmage of Summer, was called as an expert witness.
+<!--* The college will be constructed with the aid and patronage of the eternal [[Meraud]], and thus does not use the [[College of Magic#Costs|standard costs]].
+* At completion, a powerful ritual would be used to create a Summer [[regio]] in the grounds of the new college.-->
+* No funding was sought
+
+===Date===
+* Winter 378YE
+
+===Cost===
+* Materials: 90 wains of White Granite, 30 wains of Mithril, 20 wains of Weirwood
+* Time: 1 year
+* Labour: 35 Thrones
+* Upkeep: 25 Thrones (this number is dependent on the number of other colleges in the Empire)
+* Special: This college of Summer magic is being built to designs provided by the [[Eternal]] [[Meraud]]; as such it differs from the [[College_of_Magic|standard cost]] to build a [[College of Magic]].
+
+===Progress===
+* This commission has lapsed
+
+===Campaign Outcome===
+* When complete, the college will automatically create the [[Imperial title]] of "Dean".
+* Dean of the college will be appointed through the [[Declaration#Declaration of Candidacy|Declaration of Candidacy]].
+
+<!-- It is likely they are planning to use a variant costing on it, but there's no reference to that in the motion and I don't want to jump to conclusions.-->
+[[Category:Senate Motion]]
+[[Category: 378YE Winter]]
+__NOTOC__

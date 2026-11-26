@@ -1,0 +1,19 @@
+==Overview==
+The Steward of the Ossuary is an [[Imperial title]] awarded to a citizen of [[Highguard]]. The motion to create the title was raised by '''Kish of the Flame Beneath the Earth''', [[387YE_Spring_Equinox_Senate_sessions#Amend_Grand_Ossuary|passed]] by the [[Senate]] in Winter 386YE. The Steward of the Ossuary is responsible for directing the bounty of the [[Reikos#The_Grand_Ossuary|Grand Ossuary]] of [[Reikos]] when necessary. More information on the creation of this title can be found in the '''[[Send for me]]''' wind of fortune.
+
+==Responsibilities==
+The Steward of the Ossuary has a responsibility to oversee the Grand Ossuary in Reikos and to represent the affairs of the congregation owners of Reikos. In addition, if the Ossuary, the mourners who visit it, or its tenders were to be threatened in any way, it would be the responsibility of the Steward to deal with those threats.
+
+==Powers==
+===Distribution of the Grand Ossuary===
+The Steward of the Ossuary can make an announcement in the Imperial Senate to distribute the bounty of the great work in response to an [[opportunity]] presented in a wind of fortune. This will almost always result in the production of the great work being removed from the congregation owners of Reikos for as long as the support continues.
+
+No voting is possible by the Senate at this point, as the power had been delegated to the bearer. The General Assembly of the [[Synod]] may choose to exercise their [[veto]] over the Steward's announcement.
+{{CaptionedImage|file=Vardas Sentinels Tower.png|caption='''Vardas Sentinels Tower''', Steward of the Ossuary|align=left|width=300}}
+==Appointment==
+This title is appointed during the Spring Equinox. The Steward of the Ossuary is appointed by citizens of Highguard who control [[congregation]] [[Resource|personal resources]]. The larger the congregation an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Highborn citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Steward_of_the_Ossuary}}
+[[Category:Title]] 
+[[Category:Highguard]]

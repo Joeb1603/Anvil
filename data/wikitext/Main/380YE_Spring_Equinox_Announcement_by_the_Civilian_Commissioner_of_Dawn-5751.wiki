@@ -1,0 +1,27 @@
+<ic>Gardens of Tiberius' Bequest.
+
+Building a small sinecure in Laroc, Astolat for the production of Cerulean Mazzarine.
+
+This is to create the position of Healer of Dawn, to be assigned by the Dawnish Senators.
+
+<i>Approved by the Dawnish Civilian Commissioner</i></ic> 
+
+===Overview===
+* A sinecure in Laroc, Astolat which produces Cerulean Mazzarine.
+* This motion was approved by the Dawnish Civilian Commissioner using the legal power to commission constructions delegated to them by the Senate.
+
+===Date===
+* Spring 380YE
+
+===Cost===
+* The announcement does not specify the size of the sinecure, but standard costs apply.
+
+===Progress===
+* 10 wains of white granite and 20 crowns provided by Morien after Spring Equinox 380YE.
+
+===Campaign Outcome===
+* When completed, this sinecure will automatically create the Dawnish [[Imperial title#national title|national title]] of [[Healer of Dawn]]
+
+[[Category: Senate Motion]]
+[[Category:380YE Spring]]
+__NOTOC__

@@ -1,0 +1,207 @@
+[[Category:388YE Spring]][[Category:Winds of Fortune]][[Category:Winds of Magic]]
+<div style="float:left; width: 450px; clear: left;">{{CaptionedImage|file=Ripple effect on water.jpg|caption=Ripples spread from a single drop of water, as consequences spread from a single decision.|align=left|width=450}}</div>
+==Overview==
+Magic fills the known world. It rides the winds, it rises with the sun and the stars, it flows in great currents through the forests and the seas and the sky. It is part of the rivers and the forests, the seas and the skies. It is studied, mastered, examined, and debated. It is mysterious, enigmatic, unpredictable, and yet follows its own strange laws. All mortals practice magic, and yet they are not the only sources of magic in the world. It comes from rattling runes, from the heavens, from the wellspring of blood, from the shapes and symbols of creation, and while it can be bidden it cannot always be restrained. Wonder is all around, an endless wordless tune that winds and weaves around all things.
+
+This wind of fortune rounds up a roundup of assorted strange events, some arising from mortal actions some with less explicable causes. There are several companion pieces to this wind. '''[[Monarchs and outcasts]]''' deals with things relating specifically to the [[eternal|eternals]] of the [[Realms|six realms]] while '''[[Key of dreams]]''' addresses the [[Archmage#plenipotentiary|plenipotentiary]] messages of the [[Archmage|archmages]]. '''[[Things go awry]]''' deals specifically with the ongoing chaos relating to the [[Astronomancy|astronomantic]] [[Astronomancy#Constellations|constellations]], and also talks of several territory-wide [[enchantment|enchantments]] that have had unexpected results as a consequence.
+==Mulch Ado About Nothing==
+{{CaptionedImage|file=Marrowort.jpg|align=right|width=200}}
+<div {{Float}}">
+<table class="mw-collapsible mw-collapsed">
+<tr><td style="background-color: LightBlue;">'''Freya's Legacy'''</td></tr>
+<tr><td>'''Commission Type:''' [[Sinecure]]</td></tr>
+<tr><td>'''Location:''' [[Hahnmark#Woodheath|Woodheath, Hahnmark]] and/or [[Ossium#Echofell|Echofell, Ossium]]</td></tr>
+<tr><td>'''Cost:''' 16 wains of [[weirwood]], 48 crowns, three months</td></tr>
+<tr><td>'''Availability:''' One year (until the end of the Winter Solstice 388YE)</td></tr>
+<tr><td>'''Effect:''' 
+* Creates the title ''Tender of Freya's Legacy''
+</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightGreen;">'''Tender of Freya's Legacy'''</tr>
+<tr><td>'''Type:''' National Wintermark or Imperial</td></tr>
+<tr><td>'''Appointment:''' Tally of the Votes, Senate, or Imperial Apothecaries Guild</td></tr>
+<tr><td>'''Powers:''' Receives 2 doses of whisperspore and 3 magical mushrooms drawn from Llofir's realm </td></tr>
+<tr><td>'''Responsibilities:''' Tend the Legacy, and ensure that the influence of Llofir does not spread</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed">
+<tr><td style="background-color: LightBlue;">'''Fellsting Grave'''</td></tr>
+<tr><td>'''Commission Type:''' [[Sinecure]]</td></tr>
+<tr><td>'''Location:''' [[Ossium#Echofell|Echofell, Ossium]]</td></tr>
+<tr><td>'''Cost:''' 16 wains of [[weirwood]], 48 crowns, three months</td></tr>
+<tr><td>'''Availability:''' One year (until the end of the Winter Solstice 388YE)</td></tr>
+<tr><td>'''Effect:''' 
+* * Creates the title ''Warden of Fellsting Grave''
+</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightGreen;">'''Warden of Fellsting Grave'''</tr>
+<tr><td>'''Type:''' National Varushka or Imperial</td></tr>
+<tr><td>'''Appointment:''' Tally of the Votes, Senate, or Imperial Apothecaries Guild</td></tr>
+<tr><td>'''Powers:''' Receives 2 doses of whisperspore and 3 magical mushrooms drawn from Llofir's realm </td></tr>
+<tr><td>'''Responsibilities:''' Tend the Grave, and ensure that the influence of Llofir does not spread</td></tr>
+</table></div>
+* '''Regrow the lands heart has been cast in Ossium and in Hahnmark, empowered by the eternal Llofir
+Last season, Llofir offered a number of boons to the Empire following its return to [[Alignment#Neutrality|neutrality]] by the hand of the [[Archmage of Spring]]. One of these was to [[Mushroom,_mushroom,_mushroom#Regrow_the_Land's_Heart|empower castings]] of the ritual [[Regrow the Land's Heart]], to promote the blooming of new life from mulch and putrefaction. The boon was accepted, and as a consequence the power of Llofir spreads across [[Hahnmark]] and [[Ossium]]. Wrecked, damaged things are overgrown or consumed, replaced with fresh growth. Cemeteries and burial grounds, battlefields and ruined castles, all burst with life. There are any number of little unexpected extra effects as well - fermentation results in markedly potent brews. The mortal remains of everyone who has died under the influence of the enchantment almost immediately bloom with fungal life, or less identifiable plants rooted in their corpses. This effect extends to places where the dead lie respectfully, as well as those who die over winter. Whether they are in burial mounds, interred in ossuaries, or left lying by the side of the road, the dead are renewed with new life. Something that is not universally welcomed.
+===Legacy and Grave===
+* '''Freya's Garden and the Tower of the Scorpion are no more
+* '''There is an opportunity to harness the sites where these commissions once stood and gain access to some of Llofir's donahorti
+All remnants of both [[Hahnmark#Freya's_Garden_(Ruined)|Freya's Garden]] and the old [[Ossium#Tower_of_the_Scorpion_(Ruined)|Tower of the Scorpion]] have been removed from the land, leaving rich fields of fungal growth where they once were. The land they stood upon has been reclaimed by nature in the wake of this destruction, healthy new growth springing up where the ruins once stood. This change, however, provides an unexpected [[opportunity]]. With the approval of the [[Senate]], it would be possible to cultivate the miraculous growth in each territory to create a [[sinecure]]. A [[commission]] could be built on either site - or both of them - designed not only to contain the rampant growth but to harness the bounty of fungus growing there. ''Freya's Legacy'' or ''Fellsting Grave'' would provide a supply of ''donahorti'' from Llofir's realm - 2 doses of [[Mushroom,_mushroom,_mushroom#Rot_and_the_Magic|whisperspore]] and three [[Mushroom,_mushroom,_mushroom#Blessing_of_Old_Winter|magical mushrooms]] each season. Llofir is unconcerned whether these "gardens" are tended or not, but certainly has no objection to the Empire welcoming his gifts. The ''Tender of Freya's Legacy'' and ''Fellsting Warden'' would be responsible for overseeing their respective sinecure, but also for ensuring that the magical growth there does not get too out of hand. The titles could be national or Imperial, and after some discussion the [[New_Imperial_titles#Well_Worn_Paths|well worn path]] for appointing them would be via Senate appointment, Tally of the Votes, or by the Imperial Apothecaries Guild. The latter is no mandated - there is an obvious correlation between Llofir's gifts, healing and potions but the sinecures themselves do not specifically create such things.
+
+===Barrow Plant===
+<div {{Float}}>
+<table class="mw-collapsible mw-collapsed">
+<tr><td style="background-color: LightBlue;">'''Capture Llofir's Boon'''</td></tr>
+<tr><td>'''Commission Type:''' [[Great work]]</td></tr>
+<tr><td>'''Location:''' [[Hahnmark#Valasmark|Valasmark]], Hahnmark or [[Ossium#Galath_Fields|Galath Fields]], Ossium</td></tr>
+<tr><td>'''Cost:''' at least 50 wains of [[weirwood]], 150 crowns, three months</td></tr>
+<tr><td>'''Availability:''' Spring Equinox 388YE</td></tr>
+<tr><td>'''Effect:''' 
+* provides a level of investment in herb gardens in the appropriate territory that provides each garden with 3 marrowort each season
+</td></tr>
+</table>
+</div>
+* '''The herb marrowort has grown in great profusion across Ossium and Hahnmark
+* '''Several titles will receive additional bounties of herbs at the Summer Solstice
+* '''There are opportunities to create great works in the two territories to capture some of this growth
+As Spring draws closer in Ossium, the charnel pits and mass graves left by the fight against the [[Druj]] are overgrown by fields of gently bobbing [[marrowort]]. The [[Ossium#The_Field_of_Glory|Field of Glory]] bursts at the seams, almost. After the Spring Equinox the new [[Grieftender of the Forgotten]] '''Miroslav Dainovitch Temnavoda''' will receive a rare bounty of the herb - 27 drams as opposed to their usual 18 drams. This profligacy of the white-flowered herb is felt across the territory, and following the Spring Equinox every herb garden will receive two additional doses of marrowort. During the Spring Equinox, the enchantment [[Ruthless Vigilance, Healthy Crop]] will have an unlooked-for effect - any Ossium herb garden will provide a dozen marrowort in place of the usual reward of two drams of each of the five herbs.
+
+In Hahnmark, the effect is just as pronounced. White flowers cover the hillsides, and after the Spring Equinox there will be a grand harvest indeed. The [[Guardian of Dunfrith]], the [[Gatekeeper of Falling Snow]], the [[Herbalist of the Hearth]], the [[Master Apothecary]], and the [[Guard of the Proud Quill Parcel]], will all receive an additional four drams of marrowort at the Summer Solstice. As in Ossium, performance of ''Ruthless Vigilance, Healthy Crop'' will produce a glut of the valuable medicinal plant.
+
+There is another opportunity here if the Senate chooses to embrace it. If they act swiftly - during the Spring Equinox - they could take advantage of the renewal and fresh growth that has spread across Hahnmark and Ossium. If a [[great work]] is commissioned in either [[hahnmark#Valasmark|Valasmark]], near Valashal where the heroic defenders faced down the ''scions'' of [[Cold Sun]] and were victorious, or at [[Ossium#Galath Field|Galath Field]] on the battlefields there, once that great work is complete it will provide three drams of marrowort to every herb garden in the territory each season rather than the usual 2 herbs. It is a minor boon at best, but all five of the known medicinal herbs are valuable in their own way and marrowort in particular is vital for helping those with serious injuries survive their wounds. This opportunity is only available at the Spring Equinox; after that the last of the magical energy will have departed the fields regrown by Llofir.
+
+==Wisdom of New Spring==
+* '''Wise Flower Chapter apologise for failing to reach Anvil last season'''
+* '''They are concerned by overuse of Winter magic to enchant herb gardens
+* '''They urge that the Apothecaries' Guild or the Silver Chalice instead find a way to use Spring magic to achieve this effect
+* '''If a ritual can be found or codified, the Highborn will pay to enter it into Imperial lore
+* '''They will also provide a bequest to either the Guild or the Chalice, whichever is responsible for the ritual
+Last season, a group of [[Highguard|Highborn]] herbalists from the ''Wise Flower Chapter'' expressed their [[Apparently_with_no_surprise#A_Decrepit_Flower|intention to visit Anvil]]. They have concerns with the focus on [[Winter magic]], and its use to enchant [[herb garden|herb gardens]] across the Empire. They were unable, due to the weather, to actually reach Anvil during the summit, to their great regret. They had intended to speak to the [[Imperial Apothecaries Guild]] and the [[Silver Chalice]] about their perception that [[Ruthless Vigilance, Healthy Crop]] is slowly but surely harming Imperial herb gardens with its focus on killing weak plants rather than instead granting health and hardiness to ''all'' the plants in a garden and trusting the tender to remove anything they don't want. They believe that [[Woven Strands of Life]], for all that it coaxes herbs forth from [[mana site|mana sites]] rather than enchanting herb gardens directly, is an example of what could be achieved with a little research. They don't say it, but it is clear that the [[magister|magisters]] of their chapter think that Winter magic is best kept away from ''anything'' green and growing, and that it would be preferable to be able to use [[Spring magic]] - which has its own problems but at least it doesn't kill plants that otherwise might be coaxed to healthiness.
+
+Long story short; the ''Wise Flower Chapter'' has committed themselves to supporting the search for a new ritual. It may need to be [[College_of_magic#Ritual_Texts|codified]], or it might be possible to locate a ritual that has simply never been added to Imperial lore. If such a ritual is presented as part of [[Imperial lore]] by the [[Conclave]], and the magician who raises the declaration calls on the chapter to do so, they will pay the 10 thrones needed to enter a ritual that enchants herb gardens to improve their production of healthy healing herbs. If the declaration further indicates that this ritual was found or created with the aid of members of the Guild, or the Chalice, they will commit to granting four drams of true vervain, and two drams each of the other four herbs, to either of these august bodies each season for the foreseeable future.
+
+==Follow You Home==
+* '''Miekarova and Volodmartz seem to be afflicted by a growing sense of foreboding that lurks beyond the light'''
+* '''Storytellers in the Varushkan territories find their stories seem to take on a life of their own'''
+* '''Mine owners in Miekarova and Volodmartz can use An Echo of Songs to ally themselves with the Night Below and gain an additional deep stone each season'''
+* '''Mine owners can use Revelation of the Jewel's Sparkling Heart to oppose the spreading influence of the Night Below'''
+
+<ic>A miner one evening came into an inn in Brez and sat with a bottle of mead and explained to the bartender he needed to talk. He needed to try and remember the names and faces of those he met on the Perumaki path the evening before. They held some importance to him, but he wasn't sure what; he knew it might have been, love? He just had to tell someone before losing those memories. Even if he forgot, another could tell the story, he hoped.
+
+He was on his way to work, up in the mines with his two brothers, Hrabr & Miloš. They mined Tempest Jade as a family business. One the way he met another group - he could tell they were travellers, as they were dressed in finery and matching tabards. They, however, agreed to share the day's toil, to travel into the mountains and work together. As the miner tells his tale, he keeps squeezing a lightstone between his fingers, as if willing it to glow brighter.
+
+The day started as normal, singing the song of their family, one of Prosperity and Pride. They'd found a new tunnel and agreed to travel downwards. He'd sensed something as they walked, he said. As if their songs and chatter had grown more distant... replaced by a growing feeling of wanting to run as far away as possible. But the others said they felt fine and they'd argued to keep going. The people in tabards and finery also said they felt fine and so he followed them down. 
+
+Soon the tunnel opened into a vast cavern and it was filled with beautiful stones and metals. The others began to mine but he stood there and fear held him in place. Then there was a moment, where something felt like it let him go and he ran for it.
+
+He sits at the bar and stares at the light stone. Drinks a long swig of mead and then puts the it back in his pocket and asks the innkeeper where he is. He reaches for a far purse, bulging with metal and crystal, to pay for his drink. A look of confusion flashes across his face and then, he smiles and says "I'm sorry friend, I don't who you are but, I have work tomorrow and apparently I'm a long way from home."
+
+As he pays up and leaves, the bartender calls, "What will you do about your brothers?" The man gives a confused look and responds "You must have me confused, I never had any brothers." as he turns and heads out into the night. </ic>
+
+As Winter gives way to Spring, days get longer - to the relief of many people in Volodmartz and Miekarova. The more daylight the better as far as most people were concerned. There had been strange tales of late. People spoke of odd folks who wandered the roads in the dark, a foolish idea at the best of times. Many mentioned an odd sense that their lights didn't shine quite as bright as they once had. It was almost as if Volodmartz and Miekarova were being beset by a darkness which wanted to consume, and only the daylight was keeping it at bay. The Light Market was busier than it had been. There was a whisper that something stirred in the deep chamber, but when asked, nobody could quite recall what it was that had made them so uneasy.
+
+The folks working at the [[Merchant Boyar of the Light Market|Light Market]] have had to work overtime to keep up with demand. People are eager to purchase new lightstones, suddenly convinced that their old ones are about to give out. It seems others have also taken note of this hubbub. [[Bredavoi_Emissary#The_Deep_Chamber|The Deep Chamber]] seems to whisper offers of helping people forget painful memories when the darkness gets a little too much.
+
+Reports of strange stories have surfaced here and there across [[Volodmartz]] and [[Miekarova]]. Most of them are fanciful and clearly exaggerated, but a few have more than a grain of truth in them. People find themselves drawn to tell the stories of those who have been lost and forgotten. A few drunk stzena even claim they ended up trying to tell the stories of people they never knew. Some of the tales seem to refer to [[Night Below|Blackdamp]], with terrifying accounts of a thing that eats the memories of loved ones and leaves beds unmade with no-one even remembering who once slept there.
+
+It was just as the days light vanished when a young girl walked up to a civil service desk in [[Volodmartz]] and delivered a letter. It is an offer to all [[Mine]] owners in [[Volodmartz]] and [[Miekarova]]. If they want to gain the aid of the Night Below, they should have [[An Echo of Songs|Echo of Songs]] cast on their mine.  ''Fly-the-light'''s help would mean there would be no need for the [[ilium]] and would only require the usual mana. If that happens, it will be acknowledged by the Night Below as a request for their aid and acceptance of their boon. ''Blackdamp'' will reach out to permanently mark the mine, so that it will produce a single additional [[Farewell_wanderlust#Treasures_of_the_Earth|deep stone]]. Such aid is only available if the ritual is cast this season.
+
+However, if the Varushkan Mine owners in [[Volodmartz]] and [[Miekarova]] cast [[Revelation of the Jewel's Sparkling Heart]], it would be an acknowledgement that the mine owner opposes the Night Below. This ritual will function as normal but it may also help fight the growing influence of the Night Below.
+
+===Spooky Stzena===
+* '''Any character with the stzena archetype can benefit by spreading chilling or disturbing tales'''
+* '''A stzena can regain all lost hero points after ten minutes of appropriate roleplaying'''
+For the Spring summit, any player whose character has been in [[Volodmartz]] or [[Miekarova]] can roleplay having met one or more storytellers who has told stories of forgetting others. You may also have experienced a sense of the darkness gnawing at the light, or heard storytellers talk of it.
+
+Any player can tell their own stories of when the darkness has encroached upon them - you might believe afterwards that it was nothing more than your imagination, but if you've experienced this, it definitely felt real at the time. Lightstones still work to keep the darkness at bay, but they seem weaker somehow. Players are welcome to create stories of how Varushkan traditions of hospitality and wards have staved off the pressing darkness concerns and helped protect their homes. Or of stories of travelling along roads after dark and seemingly normal encounters that had an underlying sense of inexplicable dread.
+
+Any [[stzena]] or other professional storyteller who has visited [[Volodmartz]] or [[Miekarova]] this season, may find the traditional stories they tell suddenly contain new elements, accounts of those who have been lost or forgotten about. You might even have find yourself recounting the story of someone's life only to realise that the story is about someone you never met. 
+
+If you have the stzena archetype then you can benefit from this strange phenomena. If you tell a story that is particularly chilling or disturbing, especially if it touches on the horrors of being lost or forgotten then after ten minutes of appropriate roleplaying, you may regain any expended hero points.
+
+==Wrapping up the Roots ==
+<quote by="A note found at Starwood Roots Steading">
+We thank you for the hospitality and the warning, so we have moved home. But we wish you the best. If we ever meet again, hospitality is again offered to all of you. With love to those who open their minds to the curious thoughts we think when we hope no-one is watching too closely.</quote>
+* '''A nest of cannibals has been exposed in Hercynia
+* '''Unfortunately it seems the Navarr murderers have escaped
+* '''There are suggestions Blood-on-the-Snow is involved somehow
+Last season the [[Archmage of Winter]] was involved in [[The_tune_without_the_words#Over_the_Hills_(Hercynia)|an investigation]] of a place called ''Starwood Roots Steading'' in [[Hercynia]]. It appeared that the family, previously noted for their vigilance, who lived in the little steading had gone missing some time before the Winter Solstice. Sudden snowfall had prevented mundane authorities from investigating, but the [[Sentinel Gate]] provided access to the steading for a small number of Imperial heroes.
+
+Their shocking report to the militia at Anvil caused word to be sent, urgently, to the magistrates in Hercynia. As soon as it was possible to do so, the Navarr magistrates led a body of soldiers up the mountain to arrest and where necessary execute the folk of Starwood Roots Steading. It seemed that at some point, these Navarr had embraced the foul practice of cannibalism, apparently influenced and encouraged by the one they called "Whispers on Wind". By the time the magistrates had gathered a force to travel to the steading, however, Spring was thawing and a lot of the snow was becoming that horrible slush like sleet, interspaced with patches of treacherous black ice that the weak sun had not yet found. It made the journey treacherous and two of the party suffered brutal falls that left them with broken bones.
+
+Eventually they reached the steading, but by then it was obvious the old mountain watch had fled, obviously expecting a second uninvited visit. The only sign of their passing was a note and a small wicker box, placed neatly on the table, addressed to the [[Senator]] of [[Hercynia]]. Cannibalism is of course a crime in the Empire now, but worse there are strong hints that this "Whispers on the Wind" is very likely a mask for [[Agramant]]. Anyone wishing to know more may wish to speak to either the Senator, or the Archmage.
+
+==Queen Igraine's Regio==
+* '''A strange curse is emanating from the regio in the grounds of the Castle of Thorns'''
+* '''There is a conjunction to the regio at 3.30pm on Saturday for a small number of people'''
+* '''The Senator for Astolat is responsible for dealing with the recalcitrant regio'''
+
+The roses that enshroud [[Astolat#The_Castle_of_Thorns||the Castle of Thorns]] are widely believed to be the remnants of a magical defence created in pre-Imperial times by the enchanter Queen Jessamy. Cynics consider the tale to be little more than a fanciful troubadours ballad, but there is some evidence for it being true. There is dense rose garden in the grounds of the Castle that grows around a Summer [[regio]] - the very thing Jessamy would have needed to perform her magic.
+
+The roses themselves may be even older however. The Castle of Thorns was raised by [[Dawn_monarchy#Pre-Imperial_History|Queen Igraine]], a brilliant gardener who bred and grew exotic roses. According to legend, the young Igraine created an impenetrable tower of roses to pass her [[Dawn_culture_and_customs#The_Test_of_Mettle|Test of Mettle]]. There's no evidence at all to suggest that she did that at the same spot where she later built the Castle of Thorns, but troubadours rarely worry about such details. As a result, it is sometimes called Igraine's Regio.
+
+The regio is rarely used these days. Over the years the thorn bushes that surround it have grown thicker and thicker, resisting all efforts to cut them back. Recently, the few mages brave enough to have made it inside report difficulty in using the Summer regio to do magic, describing it 'resisting', as if the regio somehow doesn't want to be used and is pushing back against them.
+
+Now the recalcitrant regio appears to be the source of a strange curse. The Castle of Thorns is struggling to shrug off the grip of winter, and there is still snow which does not melt in the rose garden. The thorns themselves seem to grow ever more hostile as if trying to prevent someone from reaching the regio. In places, they are hard as iron. In others, they grow faster and more aggressively than they should, with some thorns coated in a kind of poison which envenoms the blood. Most gardeners employed at the castle have given up trying to do their springtime work in the frozen and hostile garden.
+
+There is a conjunction to the regio at 3.30pm on Saturday, and the [[Senator]] of [[Astolat]] is responsible. It is unknown what will happen if the garden is left to itself, but whatever happens bodes ill for the Castle of Thorns if it is not resolved.
+
+==Where There’s Muck==
+* '''A number of Suaq businesses have mentioned handling a higher number of curse coins than usual.
+* '''There are no obvious consequence or causes for the increase at this stage.
+It's probably nothing but - actually, its almost never "nothing" when the story starts to spread as far as this one does. "It's probably nothing" is increasingly code for "something is definitely up." This case seems to be no exception. Gossip from [[Suaq]] traders and [[mediator|mediators]] they have started encountering a disproportionate number of [[Wintermark_hearth_magic#Coins|curse coins]] over the last several months. For the most part, they deal with the coins in the traditional manner, but it is still something worth noting.
+
+Usually curse coin hearth magic is invoked because of a specific grudge, but there seems to be a consensus that some curse coins are now turning up without explanation - and in many cases seemingly without serious consequence. Are they a new ''kind'' of curse? Could they just have ''coincidentally'' become blackened or warped? Is there any chance Blood-on-the-Snow isn't involved in this somewhere along the line.
+
+Either way, it’s difficult to get much more information of consequence out of most merchants. They seem broadly either unaware or unwilling to share any further information about the nature of any sooty coins in their possession. Yet there's enough talk to make people a little nervous, and for the [[Vigilance|Vigilant]] folk of Wintermark to keep their eyes open for anything untoward trying to slip into their money pouches.
+
+==Can't Stop The Music==
+{{SOP|statement=From the very heartlands of this Empire, to the furthest lands touched by Virtue. We are the blood of the Empire, we are Shepherds of the Great Dance and we find ourselves entwined with our fellow Nations as never before. Paths in the dance braided together in these moments. Bring our voice through the veins of the trods that cross the lands while they resonate with our song. In the midst of winter we gather at the hearth, at home. At Wayhouse, Stead, and Tarry. We trade Song and Story with one another, and regales our history, our tale, our culture. Take heed these words, commit to memory these songs, and as winter turns to spring, bring them as a chord along these resonant trods. Bring them to our closest allies and the furthest reaches of our Empire both, so that all know that even when this magic has faded. As sure as the seasons do change. Where Navarr go, music follows.|vote = {{GM}} 265-0|by=Nathair Autumngale, Navarr National Assembly|when=387YE Winter Solstice}}
+* '''Dreams of the song 'Painted', composed by Idwynn Splitroot, continue to spread across the Empire'''
+* '''The Navarr Assembly committed to spreading art and music across the Empire'''
+* '''There is an opportunity to construct a special wayhouse dedicated to the musical arts in Astolat'''
+* '''If built, it will encourage the people of Dawn to embrace the fight against the vallorn'''
+In Autumn of last year [[Upon_a_midnight_dreary#A_Peculiar_Opportunity_(Lashonar)|an arcane projection was cast]] in [[Brocéliande]] under the supervision of Nathair Autumngale and with the blessing of [[Lashonar]]. Throughout Winter [[The_tune_without_the_words#An_Ode_To_Blood_And_Sacrifice|dreams of a beautiful song]] began to spread throughout the Empire in a form of benign magical contagion. As the song continues to spread, the Navarri National Assembly [[387YE_Winter_Solstice_Synod_judgements#Judgement_36|passed the judgement raised by Nathair Autumngale]] with a greater majority, lauding the central role of music in Navarri culture. Eskah Swift Hart [[387YE_Winter_Solstice_Synod_judgements#Judgement_117|raised a second judgement]] naming Idwynn Splitroot, the [[Dean of the First Voice Glade]], as the composer of the song and even made claims that those who performed the initial casting of the arcane projection have heard Navarr and Thorn themselves singing along in their dreams.
+
+Many expected the dreams to fade naturally with time, yet as the blossoms of Spring start to bud, the song continues unabated. From [[Sermersuaq]] to [[Spiral]], from [[Segura]] to [[Volodmartz]], the echo continues. But this season, it is in [[Dawn]], in [[Astolat]], that the song really takes root.
+
+<div {{Float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''The Nightingale Chorus Wayhouse'''</tr>
+<tr><td>'''Commission Type:''' [[Wayhouse]]</td></tr>
+<tr><td>'''Location:''' Brightway, [[Astolat#Grovesyard|Grovesyard]], Astolat</td></tr>
+<tr><td>'''Cost:''' 25 white granite, 10 weirwood, and 105 crowns in labour</td></tr>
+<tr><td>'''Time:''' 1 season</td></tr>
+<tr><td>'''Effect:''' 
+* Increases investment in Astolat for military units engaged in the [[Venture#Quest_Against_the_Vallorn|Quest Against The Vallorn]]
+* Increases the taxation of Astolat by 1 throne per season
+* Creates a new [[Imperial title]], the Thorn Singer
+* Also increases investment in Weirwater and Semmerholm for the [[Venture#Quest_Against_the_Vallorn|Quest Against The Vallorn]], if the Dawnish Assembly names the fight against the vallorn to be their highest calling.
+</td></tr>
+<tr><td>'''Availability:''' Opportunity ends if not commissioned before the end of Summer Solstice 388YE</td></tr>
+<tr><td>'''Special:''' Navarr characters whose resource was in Astolat would vote in the Miaren election</td></tr>
+</table>
+
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightGreen;">'''Thorn Singer'''</tr>
+<tr><td>'''Type:''' Navarr</td></tr>
+<tr><td>'''Appointment:''' Vote of Cat's Graces or Navarr national appointment</td></tr>
+<tr><td>'''Powers:''' 
+* Gains five ambergelt, five beggar's lye and five iridescent gloaming each season
+* Gains an additional five ambergelt, five beggar's lye and five iridescent gloaming each season if the Dawnish Assembly names the fight against the vallorn to be their highest calling.
+</td></tr>
+<tr><td>'''Responsibilities:''' To oversee the Nightingale Chorus Wayhouse and encourage Dawnish nobles and yeofolk to fight the vallorn</td></tr>
+</table></div>
+
+[[Astolat]] is noted for its thriving community of [[Troubadour|troubadours]], and has long been a popular destination for those who love music. The [[Empress_Richilde#The_Songbirds|Nightingale Chorus]] Wayhouse is a truly venerable institution, tracing its origins back to the reign of [[Empress Richilde]] and boasting a reputation as a gathering-place for Navarri bards and Dawnish troubadours to gather and share songs and stories. Their fortunes have waxed and waned over the years, but the spread of the musical dreams has led to a proposal to invest in the Wayhouse and potentially reap future rewards. Few things inspire the pursuit of Glory as much as a good song, and a magical song that echoes across the whole Empire has a mighty power to move people's hearts.
+
+Expanding the Nightingale Chorus Wayhouse would be a major endeavour requiring 25 wains of [[white granite]], 10 wains of [[weirwood]] and 105 crowns, but if it was commissioned then it would become the hub of a Navarri-Dawnish coalition devoted to the completion of a story centuries in the making - an end to the vallorn. The wayhouse would raise the level of investment of all military units based in Astolat engaged in the [[Venture#Quest_Against_the_Vallorn|Quest Against The Vallorn]], as the artists of the Nightingale Chorus inspired witches, knights and other Dawnish heroes to take up arms against the ancient foe.
+
+The Chorus propose the title Thorn Singer be appointed to oversee the wayhouse and encourage Dawnish nobles and yeofolk to commit to the glorious struggle with the vallorn. The position would be a Navarr national appointment but it would need to be appointed by vote of members of the [[Arranging grace|Cat's Graces]] if that sodality is confirmed by the Senate. If that doesn't happen, then the Navarr national assembly could be tasked with appointing the title instead. Regardless of who elects the position, the title holder would receive five measures of [[iridescent gloaming]], five measures of [[beggar's lye]] and five measures of [[ambergelt]] each season - donations from wealthy nobles eager to support the Wayhouse's mission with the intention that the Thorn Singer use the materials to commission a [[:Category:Musical_Instruments|magical musical instrument]] each year.
+
+Should the Dawnish National Assembly declare the fight against the vallorn to be their nation's [[The_highest_calling#The_Highest_Calling|Highest Calling]], the impact of the Wayhouse would be considerably enhanced. The benefits of the Wayhouse to military units questing against the vallorn would spread to [[Semmerholm]] and [[Weirwater]] and the Thorn Singer's income of valuable resources would double.
+
+====Song for the Road====
+* '''Any character may have heard the echoes of the song'''
+* '''Navarr characters who embrace the song may choose to experience a roleplaying effect'''
+Any Navarr character may choose to have heard the song, experienced the dreams of singing voices either directly or via half-remembered echoes, or to have seen what appears to be Lashonar. Those who do experience a roleplaying effect during the Spring Equinox: You feel a sense of immense pride in the oaths that you have sworn and the tattoos and other marks you wear to commemorate them. It feels good and right to celebrate this element of your culture, and to encourage others to follow suit.
+
+If you are Navarr and you choose to embrace the roleplaying effect, then during the Spring Equinox you possess a single additional hero point, even if you do not have the hero skill. This hero point can be spent in the normal fashion, depending on your skills, but once gone it is not recovered. The roleplaying effect and the additional hero point are lost by the end of the Spring Equinox.
+
+Characters who are not Navarr, but who feel a personal connection to that nation, to the trods, or to the fight against the vallorn are also free to roleplay having had the dream or heard the echoes of the music. They do not receive the roleplaying effect or the additional hero point however.

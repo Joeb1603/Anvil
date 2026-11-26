@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:388YE Spring]]
+__NOTOC__
+<quote by="Announced by Ada Droon Drifting Bough, Mistress of Monuments">As Mistress of Monuments, I announce the building of a likeness of Umbar Elba Stado in Madruga, as a demonstration of his Pride, and a commemoration to his virtuous acts as verified by individuals across the Brass Coast
+</quote>
+==Overview==
+* Constructs an [[edifice]] in the Lightsea, Madruga
+* Announcement by the [[Mistress of Monuments]]
+
+==Date==
+* Spring 388YE
+
+==Cost==
+* Standard costs apply
+* Nine wains of white granite
+* 27 crowns in labour costs
+* Three months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Statue_of_Umbar}}
+==Outcome==
+*Now complete, a statue has been raised in the Lightsea, Madruga

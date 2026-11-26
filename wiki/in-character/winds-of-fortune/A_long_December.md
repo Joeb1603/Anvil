@@ -1,0 +1,170 @@
+---
+title: A long December
+source: https://www.profounddecisions.co.uk/empire-wiki/A_long_December
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 385YE Spring
+- Recent History
+event: 385YE Spring
+last_edited: '2025-07-19T11:03:01Z'
+revision: 125055
+in_character_boxes: 9
+---
+
+# A long December
+
+> *In-character text:*
+>
+> "It's been a long December," said Rosalind.
+>
+> "A long year. Still, there's reason to believe that this year will be better than the last," replied Peter. He raised his glass to his old friend and colleague, and they chinked them together. The muted sounds of what was technically their retirement party drifted in from the other room. The Imperial Archivist had insisted on holding a party to "celebrate" half the department shifting to support the Prognosticator's Office. When Rosalind and Peter had both, separately and without being aware of the others plans, announced their retirement he'd insisted on having one party to celebrate three partings. Given the recent troubles, it wasn't a particularly jolly party and nobody was sad to be missing it.
+>
+> "Well, it'll be better for youse two at least." The Imperial Archivist had been in a sour mood all week, and the party had done nothing to lighten his mood. "You're well out of it."
+>
+> "Don't be like that," began Rosalind, a warning note in her voice. She'd never had any patience for Leontes' moods, and she wasn't about to start now she was retiring.
+>
+> "It's fine, it's fine," he waved her away. "I'm surprised you stayed as long as you did. I'd not have blamed either of youse if you'd gone after... well you know. After."
+>
+> He trailed off, raised his mug. "To absent friends," he said.
+>
+> A mumbled chorus of "to absent friends" rippled round the room, and then an awkward silence fell
+>
+> The other guests busied themselves with their plates or drinks. None of the younger ones had been present during that murderous Spring and Summer of 379YE when the eternals of the Whisper Gallery had tried to bring its long rivalry with the Department of Historical Research to a decisive close. None of them - including Rosalind and Peter - knew why they were here, why the Imperial Archivist had asked them to join him in the private dining room that was mostly, these days, used for document storage.
+>
+> Octavia resented the fact that these kinds of affairs - not that they happened often at the Department - dragged her away from her studies. Marko Siwarsbairn just wanted to be back out in the field, poking around old ruins and haunted libraries. Snowstorm Henk hated them because he was always happiest when he had a mystery to unravel or an obscure reference to chase up.
+>
+> "Anyway," Leontes' voice was jovial again, but there was an edge to it. "I suppose we should get down to't afore some bastard comes to find out where we've disappeared off to. I've asked youse all here cause I have a big meeting with the bloody Dawnishman in the morning. Before I go in there, there's two questions I want answering, and you're the best people I can think of to help me find them answers."
+>
+> People shuffled in their seats, sat up. Even Octavia stopped doing mental mathematical exercises and paid attention.
+>
+> "So." He looked around, studying them each in turn. He took a deep draught from his mug, emptying it, and slapped it down on the table for emphasis. "The first question is; should we shut down the Department of Historical Research."
+>
+> There was a lot of blinking and frowning.
+>
+> "Can you do that?" asked Snowstorm Henk.
+>
+> "Aye." He did not elaborate. "That brings me to my second, and rather more pressing question."
+>
+> He rested his elbows on the table, and clasped his hands together, as if he were about to assign one of them a research project. He looked over Henk, Octavia and Marko in turn, holding their gaze for a moment, and when he spoke it was through gritted teeth.
+>
+> "What the *fuck* we going t'do about t'Whisper Gallery?"
+
+*[Image: The Imperial Archivist, a Marcher named Leontes the Scribe, is an irascible curmudgeon at the best of times.](https://www.profounddecisions.co.uk/empire-wiki/File:Imperial_Archivist.jpg)*
+
+## Overview
+
+At the Winter Solstice, the Imperial Senate chose to take advantage of an opportunity offered by the [consecration of the Walls of Holberg](Watches_from_the_Wall.md#test-what-you-know) to [retrain civil servants](../senate-sessions/384YE_Winter_Solstice_Senate_sessions.md#retrain-researchers) from the [Department of Historical Research](../../mixed/government/senate/Historical_research.md#department-of-historical-research) as [prognosticators](../appraisals/Appraisal.md#the-prognosticators-office) capable of performing an [appraisal](../appraisals/Appraisal.md). Unfortunately, following a different opportunity in which members of the Department were committed to [collecting and organising information](The_bones_of_what_you_believe.md#historical-research) about the [vallorn](../nations/navarr/Vallorn.md) to support the [expansion of the Great Library of Hacynian](../senate-motions/Construct_Great_Library_of_Hacynian.md), this left nobody to actually perform [historical research](../../mixed/government/senate/Historical_research.md).
+
+After the summit, it became apparent that the sinister [eternals](../eternals/Eternal.md) of the [Whisper Gallery](../eternals/Whisper_Gallery.md) had resumed their campaign of destruction and murder aimed at silencing the Department's scholars and researchers. Worse, they had expanded their interests to include a number of other individuals and organisations, using mortal agents armed with blades and burning oil to try and put a stop to the practice they describe as "*murdering secrets*." In fact, three of the most egregious attacks took place at around the same time the magicians of the Conclave were [attempting diplomacy](I_knew_you_were_trouble.md#whisper-gallery) with representatives of the Night eternals. Even as the [Archmage of Night](../../mixed/titles/Archmage_of_Night.md) strove to reason with them, their agents attempted to murder the Imperial Archivist, and set fire to both the [Lepidean University](../../mixed/titles/Lepidean_Librarian.md#lepidean-university) and the [Great Library of Hacynian](../religion/Great_Library_of_Hacynian.md). They were stopped, but it seems they've extended their attentions beyond just the Department. While the civil servants are protected, it's increasingly not feasible to protect *every* scholar in the Empire.
+
+The future of the Department of Historical Research is in doubt - indeed, if the Whisper Gallery continue to expand their operations in the Empire the very future of Imperial scholarship may be in danger.
+
+## A Long Year
+
+- **The historical research commissioned by Vaclav Mladenovich Kosti *will* take place**
+- **The Senate must consider whether it wants the Department to continue to support the Library at Hacynian or not**
+
+During the Autumn Equinox last year, the curmudgeonly Imperial Archivist proposed that his Department could help to [collect information about the vallorn](The_bones_of_what_you_believe.md#historical-research). This reduced the number of historical research proposals that could be researched by one, until the research was complete. The [Great Library](../senate-motions/Construct_Great_Library_of_Hacynian.md) will not even be able to *begin* the research until the library is built, and work will not be completed until the start of the Autumn Equinox. Fortunately, thanks to the [support of the League](../synod-judgements/384YE_Autumn_Equinox_Synod_judgements.md#judgement-12), and [the scholars of Highguard](../synod-judgements/384YE_Autumn_Equinox_Synod_judgements.md#judgement-102), as well as the [information recovered](../winds-of-war/One_last_song.md#game-information-how-far-you-go) from [Brocéliande](../nations/navarr/Brocéliande.md), the actual research itself should take only six months. This would leave the Empire unable to commission the Department to perform Historical Research until the Spring Equinox 386YE.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > I'm not sentimental, but when a talented scholar says to me he'll quit and go and join the warscouts if I don't let him research the names of his peoples' heroes, I shut up and listen. Not least cause given his history, the lad'd last five minutes as a war scout before he gets caught by the Jotun, and I don't want that on my conscience.
+> >
+> > Imperial Archivist
+
+When the Imperial Archivist made his offer, the Empire could commission *two* teams of researchers at a time. That has changed now. Rather than withdraw support from the Great Library of Hacynian - especially given the import of the work being done there to the entire empire - Leontes intends to ensure that there are still at least some researchers available at all times. The [Imperial Orc](../nations/imperial-orcs/Imperial_Orcs.md) scholar *Snowstorm Henk* in particular has no real interest in the vallorn. He has insisted on being given permission to perform the research commissioned at the Winter Solstice by the [Minister of Historical Research](../../mixed/titles/Minister_of_Historical_Research.md), to [explore the identities and fates](../senate-sessions/384YE_Winter_Solstice_Senate_sessions.md#research-orc-guards-of-ahraz) of the orcs who guarded the tomb of [Emperor Ahraz](../religion/Emperor_Ahraz.md), arguing that he wasn't really helping collate vallorn research anyway. Leontes has agreed, meaning that Vaclav Mladenovich Kosti will receive a report after all.
+
+With the reduction in resources, however, the Imperial Archivist is very clear that they cannot continue to fully support the Great Library at Hacynian project, and still have the capacity to perform historical research. The offer to support the Great Library was made when the situation was different. After a lot of frank discussions with other members of the Department, he believes he can operate a skeleton crew, and still provide some aid to assembling the Navarr archives.
+
+This will mean that the investigation of the vallorn will instead conclude at the Summer Solstice 386YE - still three months earlier than it would have without their help - but that the department is still able to provide one opportunity for historical research each season during the process.
+
+## Hold On To These Moments
+
+- **The Department of Historical Research can no longer support three Imperial titles**
+- **An Administrative motion has been raised to determine who will use the power to direct the department in the future**
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The reality is we've been struggling, but you can't quote me on that. Afore we lost so many good people we'd've kept up with owt anyone wanted to throw at us. Now? We've been running ourselfs ragged and it has to stop. It's no wonder folk'd rather take their chances at that Axos library than work here. We need time to catch a breath, or we're all going to drown.
+> >
+> > Imperial Archivist
+
+There are other matters to consider, which will require the Senate to make a decision about the future of historical research. There are currently three [Imperial titles](../../mixed/titles/Imperial_title.md) who can instruct the Department of Historical Research to perform [research](../../mixed/government/senate/Historical_research.md) on their behalf; the [Minister of Historical Research](../../mixed/titles/Minister_of_Historical_Research.md), the [Advisor on the Vallorn](../../mixed/titles/Advisor_on_the_Vallorn.md), and the [Imperial Advisor for the Feni](../../mixed/titles/Imperial_Advisor_for_the_Feni.md). After assessing the new arrangements, and meeting with the Auditor of the Imperial Treasury, *Gerard La Salle*, Leontes the Scribe is clear that the Department can only support *one* of these three. The staff are simply spread too thin, and the number of Civil Servants keen to join the Department has pretty much dried up over the last two or three years. Recruitment is possible, but it will take time and require careful handling.
+
+That being the case, regretfully, the Imperial Archivist is asking the Senate to choose one of the three titles that can currently instruct the Department to undertake historical research on their behalf. The other two will lose that power. The Imperial Senate itself will still have the power to [commission its own research](../../mixed/government/senate/Powers_of_the_Imperial_Senate.md#historical-research), of course. The Imperial Archivist has asked for an [administrative motion](../senate-motions/Senate_motion.md#administrative-motions) to be raised during the first Senate session on the Saturday of the Spring Equinox. This will allow the Senators to decide which of the three titles will keep the power, and which of them will lose it. They may even decide to strip the power from all three titles - voting for "none of the above" - returning it to the sole purview of the Senate. If no clear decision is reached *none* of the titles will be able to commission historical research until the deadlock is broken through a [Senate motion](../senate-motions/Senate_motion.md).
+
+Unlike a normal administrative motion, the Imperial Archivist has requested that the [Speaker for the Senate](../../mixed/titles/Speaker_for_the_Senate.md) raise this motion at the start of the second Senate session on Saturday, the evening session, rather than at the Friday evening session. This is to give the Senators sufficient time to discuss the issue, and for the three affected titles to share their own opinions on the matter. Consequently, the Office of the Speaker has requested that the three affected title holders come to speak with them at [the Hub](../world/Anvil.md#the-hub) on Friday evening to sort out how best to proceed.
+
+They also ask that no Senate motions or announcements that instruct the Department to perform historical research be submitted until the matter is resolved, but this is a polite request rather than any hard-and-fast rule.
+
+Whatever the outcome, unless the situation changes, the Senate will only be able to maintain one title at a time with the power to direct the Department of Historical Research. This will not effect the [Lepidean Librarian](../../mixed/titles/Lepidean_Librarian.md) - their powers come from dedicated scholars who are not part of the Department, and already do not count against the limited number of commissions.
+
+### A Lot of Oysters
+
+- **The Senate could remove the power for all three titles and auction the right to direct the Department of Historical Research**
+- **In this case, the Senate would lose the power to direct historical research itself**
+
+Gerard La Salle has an alternative proposal for the Senate to consider, however. They may choose to use the administrative motion requested by the Imperial Archivist to strip the ability to perform historical research from *all three* titles, by selecting "none of the above." If they did this, then it would be possible to use a Senate motion to redefine the relationship with historical research. The ability to direct the Department could become a commodity to be purchased through the Imperial Bourse. The research would still become public knowledge after the fact, but any Imperial citizen prepared to pay would gain the ability to determine what was researched.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > As long as everyone understands that they don't own the actual words, just the right to tell us what to write about, everything'll be fine. We're reputable scholars not spies, la Salle. We're not in the business of keeping secrets.
+> >
+> > Imperial Archivist
+
+In the same manner as an [Imperial Wayleave](../../mixed/economy/Bearer_of_an_Imperial_Wayleave.md), the ability to [announce](../../mixed/government/senate/Senate_announcement.md) historical research would be auctioned and any funds raised go into the [Imperial treasury](../../mixed/economy/Imperial_treasury.md). In this case, as with the [commissions](../../mixed/commissions/Commission.md) the Senate already auctions, they would be giving up the power to commission such research themselves, as well as stripping it from the three titles.
+
+## Changing Historical Research
+
+- **The Imperial Archivist has created three teams, one of which can undertake research**
+- **Anyone commissioning the Department can specify a researcher they want to use or leave the choice to the Imperial Archivist**
+
+Given the reduced resources with which the Department is now working, Leontes has made some changes to how it operates. He has selected three of the most keen researchers still remaining - Snowstorm Henk, Octavia of Stream's Source Spire, and Marko Siwarsbairn. Each has their own speciality, and heads up a small team of remaining researchers. Going forward, whenever anyone commissions Historical Research, they will be able to request that one of the three researchers takes charge of the project. If they don't have a preference, the Imperial Archivist will assign the one they think best suits the proposal.
+
+## The Fucking Whisper Gallery
+
+- **Ris, an orc thief-taker, has a plan to resolve the Whisper Gallery problem**
+
+At one point the Department for Historical Research could handle *five* Historical Research requests each season. Those days are long gone, in part thanks to the depredations of the Whisper Gallery. The eternals view secrets as their purview, and resent the fact that the Department insists on not only investigating matters they would rather see untouched but publishing those results publicly. A number of veteran civil servants died, before the Senate [provided funds](../senate-motions/Assign_guards_to_historical_researchers.md) to pay for bodyguards for everyone attached to the Department. While there were some [proposals made in 382YE](Stings_like_the_truth.md#shine-a-light-into-the-shadows) to try and reduce the threat of mortal agents of the Whisper Gallery, they're likely to only have temporary impact. The Whisper Gallery is just too efficient at recruiting agents, as they bragged [during the recent parley](I_knew_you_were_trouble.md#whisper-gallery) with the [Archmage of Night](../../mixed/titles/Archmage_of_Night.md).
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > They *will not stop*. This isn't about me being angry that they butchered a bunch of my friends. This is about the fact that they *will not stop* because they *cannot stop*. So if we *want* them to stop, we are going to have to *make* them stop. Preferably with hammers. You can't talk a rabid dog out of biting, as they say in Hay.
+> >
+> > Imperial Archivist
+
+Diplomacy will not work, as has been demonstrated by both [the most recent parley](I_knew_you_were_trouble.md#whisper-gallery) and the [parley before it](Bury_the_hatchet.md#whisper-gallery), and most likely [the parley before that](Immortal_hand.md#the-whisper-gallery).
+
+One of the bodyguards paid for by the Senate - an orc thief-taker called Ris Steelfist - has come up with a proposal to fix the problem for good. The eternals primarily work through mortal agents - being barred from sending heralds to the Empire by the [enmity](../eternals/Alignment.md#enmity) of the Conclave. They have made it clear they consider *every* Imperial scholar and place of study to be fair game, so rather than passively protect the civil servants, he proposes to engage the Whisper Gallery on their own terms. The civil service have secured the support of several wealthy Highborn [chapters](../nations/highguard/Chapter.md), [Urizen](../nations/urizen/Urizen.md) [spires](../nations/urizen/Spire.md), [Varushkan](../nations/varushka/Varushka.md) [cabalist](../../mixed/magic/lore/Varushka_magical_traditions.md#cabalists) circles, and places of learning. A fund has been established, sufficient to pay a number of Imperial heroes to not only protect the learned and the places they frequent, but also to actively seek out and deal with threats before they manifest.
+
+It's legal to kill monsters and heralds associated with the Whisper Gallery under Imperial law. Dealing with mortal agents requires more restraint, but a thief-taker like Ris is experienced at working with the magistrates and militia to apprehend anyone who deals with the Night eternals - which is of course illegal while they are under enmity. In return, the wealthy patrons concerned about the threat to Imperial scholarship will provide payment to these mercenary heroes without needing to drain the Imperial treasury any further. Not only would the civil servants at the Department be safe, but Leontes believes the ability of the Whisper Gallery to hurt *anyone* would be dramatically reduced - meaning no more attacks on the [Minister of Historical Research](../../mixed/titles/Minister_of_Historical_Research.md); the [Imperial Advisor for the Feni](../../mixed/titles/Imperial_Advisor_for_the_Feni.md); the [Seer of the Gateway](../../mixed/titles/Seer_of_the_Gateway.md); the [Imperial Seer](../../mixed/titles/Imperial_Seer.md); the [Advisor on the Vallorn](../../mixed/titles/Advisor_on_the_Vallorn.md); the [Lepidean Librarian](../../mixed/titles/Lepidean_Librarian.md), or the Anvil Library. Or at least, no more casual attacks. The Whisper Gallery may be able to suborn agents, but their ability to send their assassins after people at Anvil would be curtailed. (**OOC:** We will no longer be running plots in which members of NPC crew hunt down the enemies of the Whisper Gallery on the field; instead we will focus our efforts on recruiting PC agents and getting *them* to do the eternals' dirty work)
+
+The 22 Thrones the Senate has been paying each season is no longer required. The Imperial Archivist thanks them for their support over the last several years but now that the problem is larger than just one Civil Service department, it falls to the scholars to start protecting themselves.
+
+### Shadow War
+
+- **A new adventure is available to military units, to stymie the Whisper Gallery and protect scholars and places of learning**
+
+A new [adventure](../../out-of-character/rules/Military_unit.md#adventures) for [military units](../../out-of-character/rules/Military_unit.md) has been created called *War of Whispers*. It can be found in the [scout an area](../../out-of-character/rules/Military_unit.md#scout-an-area) dropdown in downtime. Any military unit that takes part in this adventure is considered to be either guarding scholars - both those with the Department of Historical Research, and those at centres of learning threatened by the Whisper Gallery across the Empire - or else actively working to uncover and stymie the schemes of the eternals' mortal allies and twisted heralds. The ritual [enchantments](../../out-of-character/rules/Enchantment.md) that help a military unit support a [spy network](../../out-of-character/rules/Spy_network.md) apply to this adventure because it relies on stealth and cunning as much as bodyguarding acumen. In place of their normal [production](../../out-of-character/rules/Military_unit.md#production), a standard military unit that undertakes this adventure receives 120 rings and 2 crystal mana, with an enchanted or [upgraded](../../out-of-character/rules/Military_unit.md#upgrade) military unit receiving commensurately more.
+
+All this assumes that the Imperial Conclave continues to uphold their stance that the Whisper Gallery are enemies of the Empire. If that changed, the situation would quickly escalate and this adventure would no longer be enough to protect people by itself.
+
+### Participation
+
+- **Mortal agents of the Whisper Gallery have been targeting scholars and librarians across the Empire**
+
+If you are one of the people the Whisper Gallery has targeted - any of those listed above or anyone who works with the Anvil Library - you are free to roleplay that you have been targeted by mortal agents of the Whisper Gallery between events. These agents would be lone assassins (masked of course) who would use daggers, crossbows, or poison to try and murder you. You are encouraged to explain how you managed to survive without the protection of the bodyguards employed to support the Civil Service.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [385YE Spring](../../indexes/by-category/385YE_Spring.md), [Recent History](../../indexes/by-category/Recent_History.md)

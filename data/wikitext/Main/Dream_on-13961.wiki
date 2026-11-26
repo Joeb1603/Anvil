@@ -1,0 +1,201 @@
+[[Category:Winds of Fortune]][[Category:388YE Autumn]]
+<ic>
+"They're calling it the City of Dreams now," Rhys said as she sat down, tankard in one hand and a bowl of freshly prepared cawl in the other. The broker had asked Kenda to meet her at the Turning Tide, her favourite wayhouse in Seren, because she wanted to get her old friend's thoughts on the latest developments. "Reckon it'll catch on?"
+
+"Reckon it already has, if people are saying it." said Kenda drily, between two mouthfuls of stew. 
+
+"I don't suppose it'll make much difference?" suggested Reese.
+
+If the broker's plan was to get their companion to sit up and take notice it worked. Kenda put their spoon down and stared at their friend with a look halfway between outrage and horror.
+
+"Well if it did, they'd change the names of things all the time, wouldn't they?" he said, presenting his argument to fend off the vate's indignation.
+
+Kenda shook her head and smiled at her friend's ignorance. "You can't just change the name of something like that. Names are important, they reflect the nature of a thing, they define it, a name is like a set of clothes, it has to fit. Otherwise, as you point out, it won't "catch on". A name only sticks if it adheres to the true nature of something."
+
+"Well then how come the name has changed now? Folks used to call Seren the Garden City, when they called it anything at all. If the name is what the thing is, how can you change the name?"
+
+"Simple" said Kenda, "You just have to change the nature of something. Change Seren, change its nature, and its name will change to match. That's why it's important - it means something has changed."
+
+"But Seren changes all the time - there are always stridings coming through, people arriving, people leaving. Surely, the city is always changing." Rhys often struggled to understand hearth magic, but he always found it fascinating to have it explained, hence why he was paying for dinner.
+
+"But that's not real change," explained Kenda. "You can change every part of something and still not change the thing itself. It's like the old riddle of the axe where you change the handle, and then you change the head, and then you change the shaft. But it's still the same axe, even though every part that makes it up has changed. Seren, the city of Seren is made up of thousands of people - and those people are changing all the time. But that doesn't change Seren, any more than it would any other great city."
+
+"Ok, but then why is it important? Why does it matter?" challenged Rhys. "It's just a name." 
+
+Kenda laughed "Tell that to the Wintermarkers! They know the importance of naming something. A name reflects a thing's fate, it shapes the nature of something, just as the nature of something shapes the name it takes on. Fate can be powerful and dramatic like a crack of lightning, and it can be as subtle as a silverfish slipping through a net. You might never notice the effects of our home becoming the City of Dreams, sure as eggs are eggs they'll be there. Maybe not this week, maybe not this year, maybe not in our lifetimes. But this is the City of Dreams now... and that ''matters''..."
+</ic>
+<div style="float:left; width: 300px; clear: left;">{{CaptionedImage|file=Rising Smoke.jpg|caption=The "Dream Harvest" - referring to the vivid dreams experienced by many involved in refining vinum sap into liao - has drawn the dreamspeakers together in Seren, City of Dreams.|align=right|width=300}}</div>
+==Overview==
+{{audio|link=https://www.youtube.com/watch?v=46uQ9Kmxfv4}}
+While much of the focus in the Empire has been on the construction of the [[Construct_Grand_Inspiration_of_the_Way|Grand Inspiration of the Way]], the [[Navarr]] have been quietly working to complete an inspiration of their own. 
+
+In 383YE a judgement [[383YE_Spring_Equinox_Synod_judgements#Judgement_88|was presented]] was presented to the General assembly by '''Enis''', calling for [[Miaren#Seren|Seren]] in [[Miaren]] to be recognised as a city of equal standing to those of any other nation. To achieve that [[Ambition]], the construction of the serene [[Miaren#Temple of the Waking Dream|Temple of the Waking Dream]] was [[Comes a time|proposed]], but work didn't actually begin until [[386YE_Summer_Solstice_Senate_sessions#Construct_City_of_Dreams|three years later]] in Summer 386YE. The [[great work]] was huge, and for many years it looked like it might never be completed.
+
+But all things that have a beginning have an ending, and all things that have an ending have a beginning, and so it is with the Temple. Now, with the encouragement of Seren's ''[[dreamspeaker|dreamspeakers]]'', the city has become a haven for those who dare to imagine a new future. The success of the Temple has inspired Navarr all across the Empire by demonstrating what can be achieved when dreams are made real. People with hopes and aspirations, with the imagination to perceive what is needed to achieve them and the determination to try, have flocked to Miaren.
+
+Seren has become the ''City of Dreams''.
+{{SOP|statement=While the Ambition of the Navarr may seem to be mainly focused on eradicating the vallorn, we are also a people of great culture, history, and virtue. We move to recognise Seren, in Miaren, as a city of worth equal to those in other nations.|by=Enis, General National Assembly|when=383YE Spring Equinox|vote=587 - 238}}
+==Sing With Me==
+* '''The Navarr National Assembly can now appoint the Dreamspeaker of Seren'''
+* '''The Temple provides every congregation in Miaren with a dose of Goosewhisper Infusion and one extra liao'''
+* '''The Dreamspeaker archetype is now available to any Navarr character'''
+* '''Seren has become the City of Dreams'''
+The grand Temple of Waking Dreams is an impressive structure. Large enough to house great workshops where vinum sap is converted into [[liao]], the intoxicating aroma of which permeates everything and gives the Temple a strange dream-like quality. The building may not be as tall as [[Sarvos#Capodomus_Cathedral|Capodomus Cathedral]], nor as physically imposing as the grand stone basilicas in [[Bastion#The White City|Bastion]], but the designers accept no rival for its majesty. They have taken full advantage of the space available in Seren to create something extraordinary - designing exquisite gardens that extend in every direction with the temple at their hub.
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Navarr.png|width=250px}}</div>
+Those who walk the gardens find it hard not to be inspired. Those who breathe in the mellifluous aroma that scents the air find their minds wandering, as their thoughts open to imagine new possibilities. The simple elegance of the Temple soothes the troubled mind, settling fears and making worldly concerns either feel like they are distant or filling the heart with the certainty that they can be overcome. The priests who have taken up residence there work to embolden visitors, encouraging them to embrace this unique opportunity to dream of what might be possible. These dreamspeakers seek to foster the imagination and the confidence of their audience, encouraging them to believe that they can achieve anything.
+
+Once the new [[Dreamspeaker of Seren]] is appointed by the Assembly, they will be expected to take [[Dreamspeaker of Seren#Responsibilities|responsibility]] for the Temple, ministering to the needs of pilgrims who come to visit as well as ensuring that production of liao at the Temple is not interrupted. It will also fall to them to encourage the hopes and aspirations of the city and all who visit the Temple.
+
+The new Temple has had a profound affect on the City of Seren, drawing visionaries and dreamers from across the nation to its doors. With the encouragement of the dreamspeakers, the city has become a haven for those who refuse to give up their dreams. Seren has become the ''City of Dreams'', a place where people dare to imagine what the world could become once it is free of the [[vallorn]]. The beauty of Miaren is a testament to what is possible. Freed of the taint of Spring's corruption the surrounding forests invite visitors to explore what it means to be Navarr once they are free of their responsibility to make restitution for the mistakes of the past. 
+<div style="float:right; width: 500px; clear: right;"><box><big>'''Becoming a Dreamspeaker'''</big><br>Any Navarr character who'd like to embrace the new [[archetype]] can email {{plot}} or [mailto:admin@profounddecisions.co.uk admin@profounddecisions.co.uk] and request the change. It is important to read the [[dreamspeaker]] page first, to see what you are signing up for!</box></div>
+===True Majesty===
+* '''The Temple could be consecrated with True Liao'''
+* '''This would require a writ of consecration sponsored by one of the virtue assemblies and support of the general assembly'''
+Impressive as the Temple is, it won't rival the influence of the Capodomus Cathedral without a [[Consecration#True_Liao|true aura]]. The completion of the Temple has had a profound effect on Seren, and the wider territory, but if it were consecrated with [[liao#True Liao|true liao]], then it would become one of the foremost sites of pilgrimage in the Empire. Thousands would travel here to experience the Temple's grandeur and be exalted by its serene majesty, bolstering the importance of the site and its guardian.
+
+To do that, the Navarr would need to acquire a dose of [[true liao]], arguably the rarest and most expensive substance in the Empire. Crucially they would also need the support of one of the seven assemblies of Virtue - to be allowed to perform a true liao consecration a citizen must have a [[writ of consecration]] from the [[Synod]]. The first step would be to determine which virtue assembly to approach to raise the writ, and then secure enough support in that assembly and in the general assembly to allow the writ to pass. The virtue chosen will affect the nature of the Temple, and of the inspiration it provides.
+
+==The Past is Gone==
+* '''The dreamspeaker archetype is now available to Navarr characters
+* '''The dreamspeakers encourage the people of their nation to look to the future
+There have been dreamers in Miaren for centuries, ever since the vallorn was driven out leaving the tranquil forests to became a haven. Now the completion of the Temple has encouraged the most passionate among them to come forth, eager to share their philosophy with others in the nation. These dreamspeakers are passionate advocates of the importance of aspiration and determination - they believe that the best way to follow the Way is to imagine everything that you might accomplish and to set yourself on the path to achieving that.
+
+The dreamspeakers of Seren want to encourage all Navarr to dream of all the things ''they'' could accomplish. The banishment of the vallorn is a crucial element of that, but so is the destruction of the [[Druj]], the defeat of the [[Jotun]], or victory over the [[Grendel]]. For the dreamspeakers, the work done to free slaves in [[Axos]] and other lands is an example of a dream that is every bit as important as freeing [[Brocéliande]] from the taint of Spring magic run amok. The recent endeavours to free the [[Great Forest Orcs]] from the brutal grip of the Druj is a perfect example of what such a dream might look like. Something that looks impossible on the face of it, becomes possible when enough people pull together.
+
+Many of them argue that the nation falls short of everything they could achieve because they focus too much on the vallorn and because they view it as a uniquely Navarr problem to deal with. They argue that the Navarr's true goal is ''not'' the destruction of the vallorn but the triumph of civilisation. According to the Navarr history, the [[Navarr_history#Origins_of_Navarr|oath sworn by Navarr and Thorn]] was to restore civilisation. For the dreamspeakers, the Empire is the true legacy of the Navarr - the vallorn is simply one problem of many that threatens its future.
+
+Two amongst their number are not content only to dream. ''Deryn of Vision's End'' argues that the Navarr nation has suffered because they have become too focused on the vallorn and are losing crucial battles as a result. Contrarywise, ''Eirwen of Mountains Slumber'' in [[Hercynia]] seeks to encourage the Navarr to look for ways they could take up the legacy of their founders, not by destroying the vallorn but by building civilisation.
+===Know How To Win===
+* '''Deryn Vision's End says that the Navarr have sacrificed too much and should remind the rest of the Empire of their contributions'''
+* '''The Navarr could cease to carry messages the length and breadth of the Empire'''
+''Deryn Vision's End'' once lived in Liathaven, but since the loss of Vision's End steading has been in constant motion cross the Empire with the other survivors. His vision is that the Navarr be more proactive in engaging with the Empire, to fight for their dreams. He believes that the Navarr nation has sacrificed its own ambitions too often for the benefit of others. He cites recent events in [[Therunin]], where he says the [[Military Council]] made choices that ''allowed'' the territory to fall to the Druj and the vallorn. Thousands of Navarr died, Thornsong House and [[Therunin#Peakedge_Stead|Peakedge Stead]] were destroyed, the [[Thimble]] was lost first to the orcs and then to the vallorn. All the work that went into clearing the vallorn from [[Therunin#Eastring|Eastring]] was undone in a way that cannot be resolved without [[A thousand years of longing|uniting the vallornhearts]]. Deryn doesn't downplay the sacrifices made - the [[Under_eastern_skies|loss]] of [[Isaella's Dance]] and the [[Iron Helms]], the undoubted [[A_bright_cerulean_flame|courage]] of the [[Pilgrim's Defiance]] - but he expresses bitterness that the Navarr armies always seem to be somewhere else when their lands are threatened.
+
+Other nations have been much more successful at defending their interests. Deryn points to the example of the [[The Marches|Marcher]] [[general|generals]] who swore [[I_already_know_you#Reeds,_Drakes,_Tusks,_Bounders|mighty oaths]] to ''always'' stand ready to defend their home territory. Some might say that such oaths are madness - that they sacrifice strategic flexibility for uncertain gains - but Deryn disagrees. Marcher generals are forced by their oaths to stand and fight for their land... and every time they do, the Military Council and the people of the Marches stand with them. What might the world look like if the Navarr generals had sworn to die in the defence of [[Liathaven]]? Of [[Therunin]]? Why is there no drive to recover Liathaven, the way the Empire threw themselves into the fray every time the Jotun threaten Mitwold, Mournwold, or Bregasland? 
+
+Indeed, how might the future look if the Navarr people took inspiration from the Marchers and brought their own flavour of [[The_Marches_culture_and_customs#Rough_Music|rough music]] to bear when the Military Council disregards their interests? What if the Navarr, instead of sacrificing themselves every time, were inspired by those [[Varushka|Varushkans]] who refused to allow the Senate to take the Iron Roads from them? The Urizen prepared to tear the [[Citadel Guard]] apart if the Empire abandoned [[Zenith]]?
+
+Does there not come a point, argues Deryn, where you have sacrificed so much that people simply take it for granted you will continue to do so without even being asked?
+====Messages====
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed">
+<tr><th style="background-color: White;">Brand</th><th style="background-color: White;">Banner</th></tr>
+<tr><td>Amdyn Flint Kin</td><td></td></tr>
+<tr><td>Angela RavensOak</td><td>Ravens Oak</td></tr>
+<tr><td>Avery Farkas</td><td></td></tr>
+<tr><td>Broderik</td><td>Driftwood</td></tr>
+<tr><td>Brynmor Rootround</td><td></td></tr>
+<tr><td>Brynn Tendfallen</td><td></td></tr>
+<tr><td>Buck Tri'fol</td><td></td></tr>
+<tr><td>Cadfael Silentwatch</td><td>Sea Weasels</td></tr>
+<tr><td>Cadoc Thornwatch</td><td>Pathfinders</td></tr>
+<tr><td>Cadwell Waystone</td><td>The Waystone Path</td></tr>
+<tr><td>Caedria</td><td>Deadfall</td></tr>
+<tr><td>Dryn</td><td>Embercast</td></tr>
+<tr><td>Drysfa Broken Bough</td><td></td></tr>
+<tr><td>Eleri Bronwen's Rest</td><td>Bronwen's Rest</td></tr>
+<tr><td>Eosffair Farwalker</td><td></td></tr>
+<tr><td>Esper Edgestalker</td><td>The Edgestalkers of Hercynia</td></tr>
+<tr><td>Eurion "Mr Cambion" Firekeeper</td><td>The Hearth Guard</td></tr>
+<tr><td>face</td><td>Sea Weasels</td></tr>
+<tr><td>Fallow</td><td>Whispering Leaves</td></tr>
+<tr><td>Gaius Baranis</td><td></td></tr>
+<tr><td>Gavynn Bellwood</td><td>The Stormwall</td></tr>
+<tr><td>Genrick Nayvar</td><td>Embersworn</td></tr>
+<tr><td>Geraint Bronwen's Rest</td><td>Bronwen's Rest</td></tr>
+<tr><td>Grundfos Thorn's Rest</td><td>Thorn's Rest</td></tr>
+<tr><td>Ioan Longshadow</td><td>Long Shadow</td></tr>
+<tr><td>Jora Miroslava Rayne</td><td></td></tr>
+<tr><td>Juro</td><td>WinterSuns</td></tr>
+<tr><td>Kale Nightgrove</td><td>	The Thornborn of Entwined Paths</td></tr>
+<tr><td>Kelia Drifting Bough</td><td>Drifting Bough</td></tr>
+<tr><td>Kiàine Thistleseeker</td><td>Sea Weasels</td></tr>
+<tr><td>Kyffin Thornfield</td><td></td></tr>
+<tr><td>Madyn Bitterbark</td><td>Bitterbark Wayhouse</td></tr>
+<tr><td>Malakili</td><td></td></tr>
+<tr><td>Mawb Strangers Song</td><td>The Thornborn of Entwined Paths</td></tr>
+<tr><td>Morgoth SweetBlood</td><td>The Stormwall</td></tr>
+<tr><td>Neasa</td><td>Silverhawks</td></tr>
+<tr><td>Neirin Daggersbond</td><td>Thornfang Thornborn</td></tr>
+<tr><td>Niamh</td><td>Splintered Oaks</td></tr>
+<tr><td>Nos Umbral Path</td><td></td></tr>
+<tr><td>Orinn Embracing Fold</td><td></td></tr>
+<tr><td>Olwyn Curlyute Mossglade</td><td>Pathfinders</td></tr>
+<tr><td>Rhian Brighteyes</td><td></td></tr>
+<tr><td>Rhianon Waystone</td><td>The Waystone Path</td></tr>
+<tr><td>Shiavek of Miaren</td><td></td></tr>
+<tr><td>Sorrel</td><td></td></tr>
+<tr><td>Syn Truth-Walker Returned</td><td>Nighthaven</td></tr>
+<tr><td>Taliesyn Songweaver</td><td></td></tr>
+<tr><td>Taren Summergleam</td><td>Summergleam</td></tr>
+<tr><td>Tavvik Splintered Oak</td><td>The Stormwall</td></tr>
+<tr><td>Tomos Foxden</td><td>Foxden</td></tr>
+<tr><td>Torin Swift Hart</td><td>Deadfall</td></tr>
+<tr><td>Tudalen</td><td></td></tr>
+<tr><td>Vaal</td><td>Thorn's Rest</td></tr>
+<tr><td>Valeska Pathfinder</td><td>Pathfinders</td></tr>
+<tr><td>Wren Embercast</td><td></td></tr>
+<tr><td>Wynn</td><td></td></tr>
+<tr><td>Yana Balmwood</td><td>
+<tr><td>Ynyr Rootround</td><td></td></tr>
+</table></div>
+* '''Dreamspeaker Deryn argues that the Navarr must remind the rest of the Empire that the nations are meant to be equal
+* '''He has asked the brands to make a decision about the shape of the future
+Deryn's point is that the ''true'' fight against the vallorn is not a battle against horrors spawned by out-of-control [[Spring magic]]. Rather, it is a fight to convince the rest of the Empire of the ''need'' for that fight, of the dangers of taking the goodwill of the Navarr for granted. One day the war against the vallorn will be a matter for the [[thorn|thorns]], but that day cannot come until the political fight inside the Empire is won. To win that war, the Navarr must get better at fighting it. Political compromise is essential to the functioning of the Empire, says Deryn. Someone must always make a sacrifice, but it shouldn't be the Navarr ''every time''. 
+
+Deryn isn't blaming the Military Council or the Navarr generals for this situation. Rather he suggests that too many Navarr think in terms of what ''they'' can do to achieve an outcome. They think of their problems as ''Navarr'' problems, instead of thinking of them as ''Imperial'' problems. According to Deryn, what the Navarr need is some ''leverage''. Like the Marchers and the Urizeni before them, they need a weapon they can wield to fight for their dreams.
+
+Two years ago, the Marchers [[Sound_the_bells#Turn_the_Other_Field|contemplated what would happen]] if their farmers stopped producing the grain that the Empire relied on to feed their armies. Many argued that it was foolish to even put words to such thoughts, given how significant the impact would be for the Empire. Indeed the Marchers soundly voted against the idea - but Deryn argues that they only sheathed their weapon, they did not throw it away, and there is power in knowing that weapon exists. And in ensuring the rest of the Empire is ''also'' aware of that weapon. It reminded everyone what the Marchers do for their fellow citizens that no other nation can. It sent a powerful message that the Empire should not take Marcher grain for granted.
+
+Of course, the nation might not ''want'' such a weapon. The Navarr know better than anyone the danger of dreaming of weapons, and what happens when they are made real without thought to the consequences. With that in mind he has prevailed on the egregores of the nation to put his question to those he considers the best people to make the decision about whether to open a box of trouble or not. The [[Brand|brands]] have sworn oaths of service to their steadings, their stridings, their nation, and indeed the Empire. 
+
+The Navarr egregore has agreed to host a meeting at the Songs and Stories Henge in the Navarr camp on Saturday evening at 6:00pm. The question Deryn puts to them is whether they wish the Navarr to explore the ways they could show how important they are to the Empire if it were needed. If there is any support for the idea, then at the end of the meeting, the brands can take a simple vote on it and the egregores will make sure the nation knows of their decision. If this happens, then at the Winter Solstice there will be a wind of fortune detailing [[opportunity|opportunities]] for the Navarr to demonstrate why the Empire needs the Navarr, and to give voice to those angry at the way they feel they have been mistreated by their fellow Imperial nations.
+
+'''OOC Note:''' Anyone who emails {{plot}} to change their archetype before 16:00 on Tuesday 8th of September will be added to the list of brands and eligible to vote in the meeting.
+
+===Where It Goes===
+* '''Eirwen Mountain's Slumber argues that the true destiny of the Navarr is to build up the Empire
+* '''She dreams of a time when the Navarr are at the forefront of building connections between the Imperial nations
+The [[Highguard|Highborn]] may claim that the Empire is their destiny, but ''Eirwen of Mountains Slumber'' argues that Navarr and Thorn swore to this cause centuries before the [[First Empress]] was born. The Empire is the legacy of the Navarr every bit as much as it is the Highborn. The focus on fighting the vallorn has blinded the Navarr to the fact that the founders of the nation didn't swear an oath to destroy the vallorn... they swore an oath ''to restore the civilisation of Terunael''. There is plenty of evidence it wasn't Terunael that Navarr and Thorn cared about - they were not blind to that nation's flaws - it was the idea of civilisation itself that they were pledging themselves to. Her point is that the fundamental focus of Navarri aspirations should be the Empire itself. She doesn't deny that the Navarr would benefit from fighting harder for their own cause, but they would also gain by proactively engaging with other nations, seeking out ways to work together and collaborate to achieve shared goals.
+
+The Empire would simply not exist without the Navarr, says Eirwen. It was Navarr messengers who brought the leaders of the nations together at Anvil, who brought the First Empress to her first allies, helped her build her crucial alliance with Dawn. The Navarr created the [[trods]] that are so vital to allowing the Empire to grow and supporting its armies. It is the Navarr who to this day continue to bind the nations together, ensuring that even the most far-flung outposts still feel connected to the heart of the Empire. Without the Navarr, and their continued tending of the fire of civilisation, the Imperial dream would have guttered and gone out centuries ago.
+
+Eirwen points to the Navarr's [[Every path you know|highest calling]] as an example where the Navarr nation has demonstrated such leadership recently. The Assembly embraced the dream to help other nations prepare for the coming war with the vallorn. Engaging with those nations that were ready to face the coming conflict enabled people to identify ways they could grow stronger together. The Navarr advanced their dream of finally defeating the vallorn not by strengthening the nation directly, but rather by strengthening the Empire itself. 
+
+The immediate effects of that highest calling may be coming to an end, but the Navarr have already established another way to collaborate with the other nations. At present there are five substantial [[Navarr_wayhouse|Navarr wayhouses]] in various parts of the Empire. The [[Keeper_of_the_Last_Battle#Last_Battle_Wayhouse|Last Battle]] in built in [[the Barrens#The Bleaks|the Bleaks]] in [[the Barrens]] on lands that the [[Not_to_conquer#Karass|Karass]] claim as their own. The other four are on firmer ground, [[Keeper_of_the_Stand#Micah's_Stand_Wayhouse|Micah's Stand]] in [[Reikos#Chalcis Mount|Chalcis Mount]], [[Reikos]]; [[Strategos_of_Navarr#Awstin's_Rest|Awstin's Rest]] in [[Ossium#Nearwald|Nearweald]] in [[Ossium]]; the [[Keeper_of_the_Ashen_Tears#Ashen_Tears_Wayhouse|Ashen Tears]] in the [[Skarsind#Skogei Glens|Skogei Glens]] in [[Skarsind]] and the [[Keeper_of_the_Splintered_House#The_Splintered_House|Splintered House]] in [[Holberg#Utterlund|Utterlund]], in [[Holberg]]. The number of stridings might be reduced, but there are still thousands of Navarr who pass through these wayhouses every year. Together they give the Navarr a unique opportunity to benefit from the relationship with the nation in question.
+====Dreams====
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed">
+<tr><th style="background-color: White;">Citizens operating a Navarr Wayhouse</th></tr>
+<tr><td>Angela RavensOak</td></tr>
+<tr><td>Ciapek SplinteredOak</td></tr>
+<tr><td>Dax</td></tr>
+<tr><td>Mouse Ddawnswraig</td></tr>
+<tr><td>Muse Ashen Tears</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed">
+<tr><th style="background-color: White;">Navarr Wayhouse Groups</th></tr>
+<tr><td>Bronwen's Rest</td></tr>
+<tr><td>Dreamsreach</td></tr>
+<tr><td>Society of the Lute and Moon</td></tr>
+<tr><td>Red Star</td></tr>
+<tr><td>The Hearth Guard</td></tr>
+</table></div>
+* '''The nation can build on the success of the wayhouses to bring strength to the Empire'''
+* '''During the Autumn Equinox the wayhouses of Navarr can choose a single Navarr wayhouse to benefit from their combined efforts'''
+The Navarr could take advantage of that to help strengthen a territory or nation hosting one of their wayhouses. They could dream up some way to work together to tackle common problems, or some aspiration to achieve something great together. At the moment, many Navarr are simply passing through these territories; Eirwen wants them to bring something to the table when they arrive.
+
+A dream requires two things - it needs unity of effort and clarity of purpose. The Navarr will need to pick a single territory that contains one or more wayhouses and focus their efforts there. Vague notions of making things better are not something that people can aspire to; they are not a goal that people can strive to accomplish. To make the most of this [[opportunity]], the Navarr need to clearly identify what it is they want to achieve in that territory - what problem are they hoping to solve, or what goal are they seeking to accomplish. What is the dream?
+
+If the Navarr can choose a single territory and define what their dream would be then it is guaranteed to create an [[opportunity]] to do something to pursue that goal. The only limitation is that this goal must be something other than "defeating the vallorn". That noble goal is already the highest calling of the Navarr and the [[Dawn|Dawnish]] - this is a chance for the Navarr to work with the other nations to identify some ''other'' dream that they have in common. Some other way that the Navarr can fulfil their oaths to restore civilisation.
+
+Of course such high-minded ideas are all well and good, but someone is going to have to decide where and when and who and how. Eirwen has asked the Navarr egregore to host a meeting at the Songs and Stories Henge in the Navarr camp on Saturday evening at 17:00. This meeting will allow the assembled wayhouses to discuss which [[Navarr wayhouse]] to select and what the dream should be. Once that decision is made, then Eirwen and her colleagues will look to see what they can do to enable that dream. Given that this ambition depends on the wayhouses, Eirwen has asked those Navarr who have been appointed to run a [[Navarr wayhouse]], or who are from a [[steading]] that is a Navarr [[wayhouse]], to attend and decide the matter. If needed, a simple vote of those attending can take place.
+
+A new wayhouse has recently been [[Construct_Wayhouse_in_the_Barrens|constructed in the Barrens]]. The [[Keeper of Caedwynn's Hold]] is due to be appointed by the Navarr senators at the coming summit. If a new Keeper is in place by 17:00 on Saturday, then they would be eligible to take part in the meeting with the other wayhouses.
+
+===Many Dreams===
+* '''Eirwen and Deryn's paths are not exclusive of each other'''
+These two dreamspeakers are inspired by very different visions of the future for their nation and the Empire. Yet neither approach is exclusive of the other. The brands could vote to at least consider what lengths the Navarr might go to to force the Empire to take the nation's concerns more seriously, and the wayhouse keepers work to build ties with the other nations. There is no "one true vision" of the future - only the question of which ambitions will be made real and which will fade like dew in the morning sun.
+
+==Further Reading==
+* [[Miaren#Seren, City of Dreams|Seren, City of Dreams]]
+* [[Dreamspeaker]]

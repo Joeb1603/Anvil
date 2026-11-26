@@ -1,0 +1,25 @@
+{{Stub}}
+{{CaptionedImage|file=NBUrizen.jpg|caption=This ritual is part of [[Urizen magical traditions#Urizen Lore|Urizen lore]] rather than [[Imperial lore]].|align=right|width=200}}
+==Rules==
+{{Season|Night|30}}
+{{Urizen Lore}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Resource|[[forest]]}} 
+
+Performing this ritual requires a number of rings of [[ilium]] equal to the level the forest will be upgraded to.
+
+{{enchantment}}
+
+===Effects===
+This ritual [[enchantment|enchants]] a forest. It requires a number rings of ilium equal to the level the forest will be upgraded to (one more than the current rank of the forest). When the ritual is complete the ilium is consumed and over the next few weeks the power of the forest is increased - it is permanently [[forest#upgrades|upgraded]] one level. 
+
+The enchantment does not prevent a character from upgrading their forest during downtime using the normal rules.
+
+The owner of the forest experiences a [[roleplaying effect]] while their forest is enchanted: ''you feel an urge to challenge traditional understanding and hearsay, and to pick apart the "accepted truths" that people take for granted.''
+
+{{Season Duration}}
+==Description==
+TBC
+==Common Elements==
+TBC
+[[Category:Rituals]][[Category:Night Ritual]]

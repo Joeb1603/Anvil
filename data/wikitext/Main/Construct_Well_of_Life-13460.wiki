@@ -1,0 +1,33 @@
+[[Category:Senate Motion]][[Category:387YE Winter]]
+__NOTOC__
+<quote by="Announced by Dima Vasilyevna Novosad, Master of the Koboldi">To commission the Well of Life, a grand lodge of the Silver Chalice in Lightsea, Madruga. This hospital is self-funded by the order (40 white granite, 40 weirwood, 20 mithril, and 60 crowns) and will create the title Hakima of the Rippling Marshes
+</quote>
+==Overview==
+* Constructs the grand lodge of the [[Silver Chalice]] in Lightsea, Madruga
+* Announcement by the [[Master of the Koboldi]]
+* More information can be found in the '''[[The_shape_of_things_to_come#The_Well_of_Life|The shape of things to come]]''' wind of fortune
+
+==Date==
+* Winter 387YE
+
+==Cost==
+* Costs as per opportunity
+* 40 wains of white granite
+* 40 wains of weirwood
+* 20 wains of mithril
+* 60 crowns in labour costs
+* Six months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Well_of_Life}}
+==Outcome==
+Once complete, the Well of Life will have the following effects:
+*Adds 15 mana crystals to the Conclave font each season
+*Creates a large well-furnished hospital to treat the sick and the wounded
+*Reduces the cost of mana purchases by the Grandmaster
+*Allows the Grandmaster to purchase vital honey from Crucible
+*Raises the level of investment of herb gardens (2 true vervain and 1 cerulean mazzarine) in the territory by one
+*Provides every member of the order with a single dose of true vervain for a year
+*Provides 2 rings of ilium to the order's vaults each season
+*All casualties suffered by Imperial armies fighting in [[Madruga]], [[Kahraman]], [[Segura]], or [[Feroz]] are reduced by a tenth
+*Creates the Freeborn position ''Hakima of the Rippling Marshes''

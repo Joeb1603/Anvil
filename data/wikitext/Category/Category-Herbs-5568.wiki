@@ -1,0 +1,12 @@
+<table class="wikitable" style="width:250px; float: right; margin-left: 10px; margin-right: 10px;">
+<tr><th>Common Herbs</th></tr>
+<tr><td>[[Bladeroot]]</td></tr>
+<tr><td>[[Cerulean Mazzarine]]</td></tr>
+<tr><td>[[Imperial Roseweald]]</td></tr>
+<tr><td>[[Marrowort]]</td></tr>
+<tr><td>[[True Vervain]]</td></tr>
+</table>
+<includeonly>
+[[Category:Herbs]]
+</includeonly>
+[[Category:Potions]]

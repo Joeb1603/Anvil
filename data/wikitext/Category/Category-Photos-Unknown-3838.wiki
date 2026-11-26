@@ -1,0 +1,9 @@
+{{Stub}}
+
+These images currently have no attribution. PD are actively working through this list to resolve.
+
+
+Please include the following text in the description field for an image with no attribution:<br />
+
+''<nowiki>[[Category:Photos:Unknown]] [[:Category:Photos:Unknown|Author Unknown]]
+</nowiki>''

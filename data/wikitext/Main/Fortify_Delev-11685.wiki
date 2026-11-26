@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:386YE Spring]]
+__NOTOC__
+<quote by="Proposed: Karov, Seconded: Volodmartz">To build a fortification in Delev, to complete the fortified walls surrounding it.</quote>
+==Overview==
+* Constructs a [[fortification]] in Duzekani, [[Karov]]
+* This fortification takes advantage of the [[Fortify_multiple_towns|work started]] in the Spring Equinox 377YE
+* Passed
+==Date==
+* Spring 386YE
+==Cost==
+* Standard costs apply
+* 70 white granite
+* 210 crowns
+* Nine months to complete
+==Progress==
+{{CommissionProgress|The_Little_Boyar%27s_Welcome}}
+==Outcome==
+* Now complete, the town of [[Karov#Delev|Delev]] will be protected by ''The Little Boyar's Welcome''

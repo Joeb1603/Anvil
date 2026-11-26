@@ -1,0 +1,98 @@
+[[Category:388YE Summer]][[Category:Winds of Fortune]]
+{{SOPInner|statement=At the Autumn Equinox 387YE, the League National Assembly recognised the Great Chain of Sarvos as an Inspirational Location for it had repelled repeated assaults by idolatrous pirates. I beseech the Assembly to grant a Writ of Consecration so that the Great Chains may be blessed by the True Liao that was provided by the Sun Chamber for this purpose. The Great Chain stands as a marvel of ingenuity and engineering whilst embodying the tenet of 'Prepare for Malice, Yet Thwart Malice Before It Strikes Against You'.|by=Estella Lucati,Vigilance Assembly|vote={{GM}} 396-0|when=Spring 388YE}}
+<div style="float:left; width: 350px; clear: left;">{{CaptionedImage|file=Rusty chain segments.jpg|align=left|width=350}}</div>
+==Overview==
+The Vigilance Assembly have seen the [[Sarvos#The_Great_Chain|Great Chain of Sarvos]] as an inspiration to all those who prepare for malice, as is a long tradition for the Synod dating back to the recognition of [[the Sentinel]]. Now, with a dose of true liao secured from the [[Sun Chamber]], the Assembly seeks to make it a true place of pilgrimage.
+
+Many Vigilant Sarvosi have come forward with proposals and support for their great chain. More than a few are keen to use this opportunity to try to edge the city back into a position where they could begin to contest for the title of "Greatest City in the League".
+
+==Preparation==
+* '''The Great Chain can be consecrated with a dose of true liao creating a powerful aura of Vigilance that inspires every citizen entering or leaving the city via the sea'''
+* '''The aura would permanently double the benefits of any wains spent to resupply the Great Chain, to repair the bastion or resupply the garrison'''
+[[Sarvos]] is, appropriately, already very well fortified. But the inevitable concern then becomes the ability to hold out a prolonged siege by the [[Grendel]] (or potentially even [[Iron Confederacy|Suranni]]) if Imperial armies are spread to the far east and west as they are at the moment. A constant steam of pilgrims, especially the local wealthy merchant princes, might be encouraged to put their hands in their pockets or even take up arms to help in a time of great need.
+{{Mandate|mandate=Prepare for Malice! We send (named individual) with a dose of true liao to consecrate the Great Chain of Sarvos to remind all of the importance of preparation, in the inspiring legacy of the Sentinel.|assembly=General Assembly}}
+If this mandate is enacted, then it will create a powerful spiritual aura that settles over the chains of Sarvos, reminding every vessel that sails into the harbour of the importance of Vigilance. It will inspire every inhabitant of the city who takes a promenade along the sea front where the huge blocks that support the chain are visible rising out of the water. 
+
+If that happens then in future, any wains used for emergency resupply on the Great Chain will provide twice the normal benefit. Pilgrims and locals alike will dig deep to provide their own resources to support efforts to rebuild the bastion, while bravos and free companies will be driven to put aside their dissolute ways and sign up with the local garrison to replenish its strength.
+
+==Prestige==
+<div {{float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Cathedral of Links'''</tr>
+<tr><td>'''Commission Type:''' Sinecure</td></tr>
+<tr><td>'''Location:''' Cigno, Sarvos</td></tr>
+<tr><td>'''Cost:''' 20 white granite, and 60 crowns in labour</td></tr>
+<tr><td>'''Time:''' 3 months</td></tr>
+<tr><td>'''Effect:''' Creates the title Bishop of the Links</td></tr>
+<tr><td>'''Availability:''' One year, until the start of the Summer Solstice 389YE</td></tr>
+<tr><td>'''Special:''' 
+* Requires the Great Chain to be consecrated with true liao
+* Any number of additional wains can be spent on the [[Edifice#Grandeur|grandeur]] of this building
+* Labour costs increase by 3 crowns for each additional wain of white granite, mithril or weirwood spent to construct the Cathedral of Links
+* Citizens of Sarvos will provide their own wains to match those spent on the ''grandeur'' of the new Cathedral
+</td></tr>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightGreen;">'''Bishop of Links'''</tr>
+<tr><td>'''Type:''' Imperial or League National</td></tr>
+<tr><td>'''Appointment:''' Vigilance Assembly</td></tr>
+<tr><td>'''Powers:''' Receives in income of 18 liao per season</td></tr>
+<tr><td>'''Responsibilities:''' 
+* To guide the Pilgrims visiting the great Chain of Sarvos
+* To see to the defence of the Cathedral and the Great Chain itself
+* To ensure that the people of Sarvos remain vigilant against all threats</td></tr>
+<tr>
+</table>
+</div>
+* '''A grand cathedral would help to restore the prestige of the city'''
+* '''If the Great Chain is consecrated, residents will support the grandeur of a new place of worship'''
+Sarvos is home to the awe-inspiring [[Sarvos#Capodomus_Cathedral|Capodomus Cathedral]], the most stunning cathedral outside of Bastion and in the minds of many Sarvosi, the most beautiful cathedral anywhere in the world. Richly decorated and adorned with beautiful art, it celebrates one of the things that makes Sarvos so special. Holberg can ''currently'' claim to be the greatest city in the world, but the inhabitants of Sarvos would argue that their city is far and away the most beautiful. Capodomus Cathedral is consecrated to [[Ambition]] and serves to inspire the faithful all over the Empire. Followers of the Way from across the Empire come here to see its awe-inspiring majesty and experience the uplifting power of Ambition. 
+
+Dedicating the Great Chain to Vigilance would mean a second public site in the city with a true liao dedication. Pilgrims won't exactly be able to linger near the Great Chain, but why not knock down some of the older buildings on the main dock and build a grand new cathedral there? It would be the first thing that sailors putting into port would see and ideally placed as the last site to visit for anyone getting ready to depart.
+
+A simple church could be built there that would suffice to minister to the needs of the Vigilant arriving or departing from the city. That would create a title the Bishop of Links that would be appointed by the Vigilance Assembly, but the building would not really be suitable to be called a ''cathedral''. To make that claim it would need to be a much larger, more grand edifice, something that would be truly inspirational.
+
+To that end, the building could be as grandiose as the League chooses to make it. Any number of ''additional'' wains could be added to the commission to make it larger, purely to add to it's [[Edifice#Grandeur|grandeur]]. That would drive up the labour costs, requiring an additional three crowns for every extra wain employed, but the building could make use of weirwood, white granite or mithril. Sarvosi architects consider themselves just as capable as their rivals in Holberg and are confident that they can work ''anything'' into the structure to make something truly stunning.
+
+If the Great Chain was consecrated and a grandiose new cathedral built then it would inspire the wealthy inhabitants of Sarvos to ''also'' contribute. Rich merchant princes and other wealthy patrons looking to leave a legacy would purchase their own wains to donate to the building. The grandeur of the final construction would be approximately double the number of wains employed by the players to build it.
+
+The consecration must be done this season or the moment will be lost, but work could begin on the cathedral at any time up to a year afterwards. If the city employed that time to prepare, then a few Sarvosi are openly asking if such a point might not be used to trigger a new contest between the cities of the League. It would be nice to get a head start on the boastful Holbergers once people are good and ready for a rematch and might not a grand cathedral part funded by the inhabitants of the city be just the edge Sarvos needs to knock those braggarts off their perch?
+
+==Precaution==
+<div {{float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Expand the Chain of Sarvos'''</tr>
+<tr><td>'''Commission Type:''' Fortification</td></tr>
+<tr><td>'''Location:''' Cigno, Sarvos</td></tr>
+<tr><td>'''Cost:''' 60 wains of white granite and 180 crowns</td></tr>
+<tr><td>'''Time:''' 2 seasons</td></tr>
+<tr><td>'''Special:''' Requires the Great Chain to be consecrated with true liao</td></tr>
+<tr><td>'''Effect''' 
+* Allows fleets to take the guarding action to support the fortification
+</td></tr>
+<tr><td>'''Availability:''' One year, until the start of Summer Solstice 389YE</td></tr>
+</table></div>
+* '''If the Great Chain is consecrated, the defences could be upgraded to allow fleets to guard the fortification'''
+If the mandate to consecrate the Great Chain is enacted, it will inevitably generate interest in additional investment in the defences of the city. Vigilant architects have been spurred on to consider designs to connect the fortification to the shoreline, in ways that would allow Imperial [[fleet|fleets]] to contribute to the defence of the city by guarding the Great Chain the next time Sarvos inevitably draws the attention of pirates on the Bay of Catazar.
+
+It's not cheap, and unprecedented in recent times, but the ingenious builders are only encouraged by the idea to be the ''first'' to manage it. At the very least, the ambitious and profoundly competitive Sarvosi can't let the Highborn one territory over [[The_last_assignment#White_Sails|outdo them]] in the noble pursuit of a Vigilant defence of the Bay of Catazar.
+
+==Provocation==
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=Skathe001.webp|align=left|width=300}}</div>
+* '''Skathe has offered to help secure the city in the most spiteful way she can'''
+* '''If the League embrace her offer and provide 1000 measures, she will add a cruel curse to the Great Chain to increase the casualties caused if the regions protected by the Great Chain are attacked'''
+
+In a move that shocks many, a haggard and seemingly partially melted herald of [[Skathe|The Maiden of Broken Mirrors]] approaches a gathering of bishops discussing the matter in the shadow of one of the battlements. Apparently, given that the Empire recognises [[Speak_to_me#Pale_Empress|how small a part she played]] in the whole matter with a certain troublesome coven of [[Highguard]] a few years ago, she is inclined to offer her aid to the Sarvosi.
+
+To be clear, she understands that there are still likely many citizens of the League who hold a seething, bitter resentment towards her, as is right and proper. Those who forgive and forget too easily need to be constantly reminded of how hard life can be. But there is a bitter canker in the minds of many Sarvosi, which the ''Lady of Laments'' appreciates. She has long approved of the traditions of the [[The_League_culture_and_customs#Dead_Reckoning|dead reckoning]] and the spite that fills the hearts of those who are outplayed in the cut-throat politics of the five cities.
+
+If the League National Assembly are willing to pass a [[statement of principle]] with a greater majority, declaring her a worthy player of the Great Game, then she would be prepared to contribute her own spiteful addition to the defences of the City. She doesn't expect them to acknowledge that she won the last round of their exchanges, merely applaud her efforts to participate in the Great Game with them.
+
+If that happens, she will send two of her heralds to help increase its efficacy. If provided with a suitable sum of 500 [[tempest jade]] and 500 [[beggar's lye]], a coating of sticky bile can be placed down the entire length of the chain to channel the power and despite of the ''Baroness of all Pains''. That will increase its ability to cause casualties by an equivalent strength of 2,000 when a region protected by the Chains is attacked. She will have her heralds maintain this power until she is either put under [[Alignment#Enmity|Enmity]] of the Conclave, or she is asked to stop, whichever happens first.
+
+Should the League decide to accept this offer from ''Her Imperial Majesty of Cares'', then she will make the appropriate arrangements so that any citizen of the Empire can donate the costs just as they would with any normal commission ('''OOC Note:''' players could transfer tempest jade or beggars lye from their inventory to the curse).
+
+<ic>
+"Skathe? The eternal of spite? The one who shattered the mirrors of Sarvos. Not everyone has forgotten how the Hag Queen attacked our beautiful city. Sensible folk ''hate'' her. We ''loathe'' her. If there were any good sense in the Conclave they would slam the door in her face" Gianmarco, Bishop of the Stevedores Taphouse was struggling for words caught between shock and anger.
+
+"Yes", hissed the misshapen herald who had approached the group. "Precisely so... And the ''Giver of Gifts'' applauds your righteous indignation. Your fury is a balm to her constant pain. Please never change. My mistress seeks not to bury our feud but to cherish it."
+</ic>
+<!--==Resolution==
+* The Great Chains of Sarvos were consecrated by [[388YE_Summer_Solstice_Synod_judgements#Judgement_73|Shauni di Vergo]]
+-->

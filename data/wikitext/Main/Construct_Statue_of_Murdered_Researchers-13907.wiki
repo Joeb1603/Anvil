@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:388YE Summer]]
+__NOTOC__
+<quote by="Announced by Ada Droon Drifting Bough, Mistress of Monuments">As Mistress of Monuments, I announce the building of an edifice in Apulian to honour the researchers killed by the Whisper Gallery in the search for the truth. This will be fully funded by Ignacio i Zuhri i Erigo. The Senator for Apulian has consented
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Apulus, Spiral
+* Announcement by the [[Mistress of Monuments]]
+
+==Date==
+* Summer 388YE
+
+==Cost==
+* Standard costs apply
+* 3 wains of mithril
+* 1 wain of weirwood
+* 1 wain of white granite
+* 15 crowns in labour costs 
+* Three months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Statue_of_Murdered_Researchers}}
+==Outcome==
+* Once complete, a statue will be raised in Apulus, Spiral

@@ -1,0 +1,47 @@
+[[Category:Title]][[Category:Foreign Nations]][[Category:Senate]][[Category:Ambassador]]
+{{CaptionedImage|file=AmbassadorSarcophanDelves.jpg|caption='''Dino i Riqueza''', Ambassador to the Sarcophan Delves|align=left|width=300}}
+==Overview==
+The Ambassador to the [[Sarcophan Delves]] is an [[Imperial title]]. It is an Imperial position appointed by the Imperial Senate. The Sarcophan Embassy stands in the port-town of [[Redoubt#Cargo|Cargo]], in [[Redoubt]], while the Imperial embassy to the Delves is located in the ''Buitenlandsewijk'', an area of the Delves where foreign investment is welcomed and encouraged.. 
+
+Political relations with the Delves have remained relatively untroubled for several decades. The Sarcophan passion is trade, the freer the better, and they have enthusiastically embraced opportunities to invest in the Empire wherever possible. They provide wains of [[white granite]] and [[weirwood]], and import large amounts of medicial [[herbs]] for sale to Imperial [[surgical skills#apothecary|apothecaries]] and [[surgical skills#Physick|physicks]]. They also maintain an independent enclave at the [[Sarvos#Sarcophan_Enclave|Alivetti estates]] in [[Sarvos]], where they have established a bustling and prosperous centre for trade with Imperial citizens - although one that is no stranger to controversy. 
+
+Prior to the Winter Solstice 387YE, the Ambassador was able to purchase goods from merchants and those seeking favour. This was changed, along with the rest of the ambassadors, when the Senate voted to [[387YE_Winter_Solstice_Senate_sessions#Amend_Imperial_Embassies|amend]] the embassies to end the practice, removing mercantile support and the upkeep costs at the same time.
+==Responsibilities==
+The [[ambassador]]  is expected to represent the Empire in relations with the [[Sarcophan Delves]]. They have all the responsibilities [[Ambassador#Responsibilities|common]] to an Imperial ambassador. As such they are responsible for representing the Empire to the Delves, and to a degree vice versa. They are presented as the primary contact for any official Imperial business relating to Sarcophan, so their letters carry much greater weight and importance than anyone bar [[the Throne]]. They are expected to conduct or oversee any [[Ambassador#Treaty|treaty negotiations]] with that nation, and receive official [[Ambassador#Delegation|delegations]]. The [[civil service]] will direct representatives and citizens of the foreign power to the ambassador wherever appropriate.
+==Powers==
+{{Diplomacy|nation=[[Sarcophan Delves]]|status=Foreigner|port=[[Sarcophan_Delves_ports#Sarcophan|Sarcophan]], [[Sarcophan_Delves_ports#Betovering|Betovering]], and (temporarily) [[All_the_night-tide#Jakhalsmarkt|Jakhalsmarkt]].|ambassador= Dino i Riqueza of [[the Brass Coast]]|counterpart=[[Ambassador_to_the_Sarcophan_Delves#Sarcophan_Ambassador|Bedelaar Huisbaas Annike]]}}
+===Imperial Ambassador===
+The title has all the [[Ambassador#Powers|common powers]] of an ambassador: they can receive a formal [[Ambassador#Delegation|delegation]], and may prepare a [[Ambassador#Treaty|treaty]].
+===Stipend===
+The Ambassador receives a [[Imperial_treasury#Stipends|stipend]] of four thrones each season.
+==Appointment==
+The Ambassador to the Sarcophan Delves is an Imperial position [[Appointments_by_the_Senate#Imperial_Position|appointed by the Senate]]. Any Imperial citizen can hold this title, and the ambassador serves for a year as standard. They can be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Ambassador_to_the_Sarcophan_Delves}} 
+==Ambassadorial Lore==
+===Sarcophan Embassy===
+The [[embassy]] to the merchants of the [[Sarcophan Delves]] was [[commission|commissioned]] by the [[Senate]] during the  [[Construct_Sarcophan Delves_Embassy|Summer Solstice 380YE]], and work began almost immediately in [[Urizen]]. Built in the port-town of [[Redoubt#Cargo|Cargo]], in [[Redoubt]], it is composed of three squat towers connected by covered walkways surrounding a central garden. The garden in particular is notable for its riotous profusion of exotic herbs and the glass roof that covers it, allowing the often-delicate plants to prosper in the otherwise inhospitable climate of western Urizen. 
+
+Unlike other nations, there does not appear to be a single ambassador - instead representatives of five of the ''Bedelaar Huisbaas'' share the residence and the responsibilities of diplomacy with the Empire. Each of these ambassadors has brought their own staff, meaning the embassy is quite crowded.  As a consequence, the embassy has spilled over into ''Moonfall Square'', an open area previously used by musicians and artists, which is now increasingly dominated by an impromptu market as merchants from all over the Empire (and beyond) come to bargain with the traders from Sarcophan. Many of the buildings around the square have also been bought up by Sarcophan citizens leading to one Marcher wag dubbing it "Little Delving". The garrulous Sarcophan enthusiasm for trading and street-culture has already made some of the Urizen citizens in the area a little uneasy - an unease that can only grow thanks to the presence of the [[Custodian_of_the_Concordium_Dock#The_Concordium_Dock|Vandersaar Dok]] and the [[Prime_Factor_of_the_deBruin_Docks#deBruin_Docks|DeBruin docks]] and the concomitant increase in the number of Sarcophan merchants coming to Cargo.
+
+The Imperial embassy to the Sarcophan Delves is, perhaps unsurprisingly, in the city of Sarcophan itself. The civil servants assigned to the structure occupy a sprawling mess of interconnected buildings and towers in the ''Buitenlandsewijk'', an area of the Delves where foreign investment is welcomed and encouraged.
+{{WingedMessenger|address=Bedelaar Huisbaas Annike, The Tower of Crows, Sarcophan, Sarcophan Delves}}
+===Sarcophan Ambassador===
+The Sarcophan ambassador to the Empire is ''Bedelaar Huisbaas Annike'', of the Tower of Crows. She reports to the beggar-landlords of Sarcophan, and is known to be a wily and subtle diplomat. No stranger to the murkier waters of espionage and intelligence-gathering, she constantly seeks opportunities to expand the influence of the Sarcophan mercantile Empire across the Known World. She has no particular loyalty to any one faction; her main concern appears to be the prosperity of the nation as a whole.
+===Ambassadorial Briefings===
+As discussed in the 388YE Autumn Equinox wind of fortune '''[[So_little_I_wanted,_so_little_I_got#Ambassadorial_Briefings|So little I wanted, so little I got]]''', the [[civil service]] have recently reinstituted Ambassadorial briefings. At least in the short term, the civil service have resumed furnishing Imperial ambassadors ''who are supported by [[embassy]] staff'' with individual briefings where necessary and appropriate. To maintain transparency and preserve continuity, the briefings are made available to those who wish to review them ''after'' the summit where they are delivered, in a similar way to which [[historical research]] is made public. Only those elements of a briefing that are specifically personal to the ambassador may be removed, and only where they are clearly not of interest to the Empire. At the end of the year, this procedure will be reviewed again, to ensure that it is fit for purpose.
+* [[388YE Autumn Sarcophan ambassador briefing]]
+{{Responsibilities Expectation}}
+{{Sarcophan Links}}
+
+<!--
+===Sarcophan Merchants===
+<div style="display:inline-block; float:right;  width: 500px; margin-left: 10px;">
+<table><tr><td colspan="2" style="background-color: LightBlue;">'''Sarcophan Merchants'''</td></tr>
+<tr><td>8 Crowns</td><td>5 beggar's lye, 5 weltsilver, 5 marrowort, 4 Imperial roseweald</td></tr>
+<tr><td>30 Crowns</td><td>15 beggar's lye, 15 weltsilver, 15 marrowort, 12 Imperial roseweald</td></tr>
+<tr><td>60 Crowns</td><td>25  beggar's lye, 25 weltsilver, 25 marrowort, 20 Imperial roseweald</td></tr>
+</table></div>
+The [[embassy]] in Cargo means that the ambassador enjoys the benefits of [[Ambassador#Mercantile_Support|mercantile support]] from traders keen to curry their favour. As a [[ministry]], this allows them to purchase quantities of special materials at a set price. The ambassador spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+<div style="display:inline-block; float: left; width: 300px; margin-right: 10px;">{{CaptionedImage|file=Thane Thanmir Hrafnar.jpg|caption=The first ambassador to the Sarcophan Delves was appointed in Autumn 380YE|title=Thanmir Hrafnar|align=left|width=300}}</div>
+-->

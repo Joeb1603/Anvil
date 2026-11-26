@@ -1,0 +1,7 @@
+<div style="max-width: 500px; min-width: 350px; float: right; clear: right; margin-left:10px;" class="ic">{{SOPInner|statement={{{statement}}}|by={{{by}}}|when={{{when}}}|size={{{size}}}|vote={{{vote}}}}}</div>
+<noinclude>
+== Usage ==
+<pre>
+{{SOP|statement=Some text with exciting words.|by=raising priest|vote=Greater Majority 192-0|when=Summer Solstice 387YE|size=small or leave out}}
+</pre>
+</noinclude>

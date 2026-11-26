@@ -1,0 +1,40 @@
+==Overview==
+The Bredavoi Emissary was created when the Imperial Senate voted to [[385YE_Autumn_Equinox_Senate_sessions#Construct_the_Deep_Place|construct the Deep Place]] during the Autumn Equinox 385YE, following an [[opportunity]] presented [[The_horror_and_the_wild#Speakers_of_the_Void|that season]]. Construction was completed shortly before the Winter Solstice 385YE.
+
+==Responsibilities==
+The Bredavoi Emissary is responsible for providing aid to the cabalists of Void, primarily by ensuring that people are prevented from poking into their business, and for maintaining vigilance over their doings. If the cabalists of Void were to be threatened in any way, it would be the responsibility of the Emissary to deal with those threats. 
+
+==Powers==
+===Ministry===
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table style="width:400px; float: right; margin-left:10px;" class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;" colspan="2">'''Deep Jade'''</td>
+<tr><td>10 crowns</td><td>12 [[tempest jade]]</td></tr>
+<tr><td>18 crowns</td><td>24 tempest jade</td></tr>
+<tr><td>25 crowns</td><td>36 tempest jade</td></tr>
+<tr><td>35 crowns</td><td>60 tempest jade</td></tr></table>
+</div>
+As a [[ministry]], the Bredavoi Emissary can purchase quantities of [[tempest jade]] at a set price. The Emissary spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+==Appointment==
+The Bredavoi Emissary is selected by unanimous decision of the [[Varushka|Varushkan]] [[senator|senators]] at the Winter Solstice. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by any Varushkan citizen. The Bredavoi Emissary serves until the next scheduled election. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Varushkan [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+==The Deep Chamber==
+The Deep Chamber is a mystery; the Bredavoi Emissary benefits from it but has no more idea what exactly it is than anyone else. 
+
+The mountains of [[Volodmartz#Brez|Brez]] are draped in snow even at the height of summer, and even the Iron Roads have not rendered the foothills of the mountains entirely accessible. They are known to be riddled with tunnels, caves, and passages, some of which are said to delve down to the very heart of the world, while others are home to a darkness so thick it pools like water.
+
+This is, of course, Varushka, and where there is dark magic and eerie caves there is also wealth and opportunity. Down through the centuries many [[Varushka_magical_traditions#Cabalists|cabalists]] have settled vales here, secure from the observation of suspicious neighbours. The best known are probably those who live in the vale of [[Volodmartz#Void|Void]] in the western foothills. Most cabalists are happy to deal with "dark powers" at the best of times, and those of Void are no exception. With the [[385YE_Spring_Equinox_Synod_judgements#Judgement_146|explicit approval]] of the National Assembly, they felt encouraged to push even further into the hidden places of the mountains. 
+
+Stories have long held that there is something [[Varushkan_Monster#Sovereigns|old and malignant]] in the darkness under the peaks - perhaps the same thing that is sometimes sensed at the [[Granites of Veltsgorsk]]. By all accounts, the cabalists have made contact with it or its servants. As is also the wont of many cabalists, they refuse point blank to tell anyone anything about what they are doing, what the creature is, or what bargain they have made with it. However, one of the outcomes is that they are now apparently sitting on quite a large supply of [[tempest jade]], a material that is very valuable for the creation of [[:Category:Paraphernalia|covenstones]] and many other items of interest to magicians. The magicians of Void are wealthy, but they don't have bottomless pockets and there is a limit to what they can achieve by themselves. 
+
+When the cabalists needed assistance establishing what they described as a "deep chamber, down in the dark places" they approached the Civil Service. They needed miners and builders, ones prepared to ask no questions, to do they work in pitch blackness, and to be blindfolded on their way there and back. They were extremely shifty about what it was they were doing, but reassured those who raise concerns that it is unlikely to cause trouble for anyone else even if it goes wrong. Quite unlikely, anyway.
+
+Even with the aid of the Senator for Volodmartz, there were not ''many'' people enthusiastic about operating under such conditions. But the money was good, and in the end the labour was done. Something has been built in the dark beneath the mountain near Void. Only the cabalists know what it is. 
+
+In return for all this assistance, they recognised the ''Bredavoi Emissary''. Its responsibilities are to serve as an emissary for the cabalists of Void when they need one, and to prevent anyone else nosing around in their business. In return, they give the Emissary first refusal on all the tempest jade brought out from under the mountains. It's pretty clear the jade is not the main motivation for the cabalists' excavations, but the wealth it represents allows the cabalists to buy things that will help with their ''real'' interests.
+
+All of this raises a lot of questions, but the cabalists of Void are profoundly disinterested in answering any of them. {{RecentElections|Bredavoi_Emissary}}
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Varushka]]

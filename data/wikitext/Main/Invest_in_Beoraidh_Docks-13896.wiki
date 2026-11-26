@@ -1,0 +1,26 @@
+[[Category:Senate Motion]][[Category:388YE Summer]]
+__NOTOC__
+<quote by="Proposed: Bloodcrow Rasp, Senator for Skarsind, Seconded: Rane Shardbearer, Senator for Kallavesa">To invest in the docks of Beoraidh (commission an edifice) so that the fleet owners of the Empire can engage in Prosperous trade with the port and raise 10 thrones a season in tariffs and tax. Seeking a disbursement of funds for 75 thrones
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Beoraidh, Mareave
+* Passed at 75 thrones
+* 75 thrones disbursed to Senator for Skarsind
+* More information can be found in the '''[[Each_age_a_lens#Investment_of_Sea|Each ages a lens]]''' wind of fortune
+
+==Date==
+* Summer 388YE
+
+==Cost==
+* Standard costs apply
+* 30 wains of weirwood
+* 90 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Invest_in_Beoraidh_Docks}}
+==Outcome==
+Once complete, the docks will have the following effects: 
+* Opens the port of Beoraidh to Imperial fleet captains
+* Raises taxation in Mareave by three thrones
+* Raises taxes from tariffs by seven thrones

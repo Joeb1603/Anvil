@@ -10,13 +10,16 @@ from .common import DATA, WIKI, page_url, read_json, safe_name
 from .render import Site, front_matter
 
 CLASS_ORDER = ["in-character", "mixed", "out-of-character", "uncategorised"]
-CHRONO = [  # (file stem, heading, topics)
-    ("winds-of-war", "Winds of War", {"winds-of-war"}),
-    ("winds-of-fortune", "Winds of Fortune", {"winds-of-fortune"}),
-    ("winds-of-magic", "Winds of Magic", {"winds-of-magic"}),
-    ("trade-winds", "Trade Winds", {"trade-winds"}),
-    ("senate-motions", "Senate motions", {"senate-motions"}),
-    ("mandates", "Mandates", {"mandates"}),
+CHRONO = [  # (file stem, heading, wiki categories that define membership)
+    ("winds-of-war", "Winds of War", {"Winds of War"}),
+    ("winds-of-fortune", "Winds of Fortune", {"Winds of Fortune", "Wind of Fortune", "Wiands of Fortune"}),
+    ("winds-of-magic", "Winds of Magic", {"Winds of Magic"}),
+    ("trade-winds", "Trade Winds", {"Trade Winds"}),
+    ("senate-motions", "Senate motions", {"Senate Motion", "Failed Senate Motion", "Vetoed Senate Motion"}),
+    ("mandates", "Mandates", {"Mandate"}),
+    ("military-council", "Military Council", {"Military Council"}),
+    ("synod", "Synod judgements and results", {"Synod Judgements", "Synod Results"}),
+    ("conclave", "Conclave sessions", {"Conclave Sessions"}),
 ]
 
 
@@ -101,13 +104,14 @@ def build_indexes() -> dict:
     # --- chronological indexes
     here = "indexes"
     chrono_counts = {}
-    for stem, heading, topics in CHRONO:
-        rows = [i for i in content if i["topic"] in topics]
+    for stem, heading, cats in CHRONO:
+        rows = [i for i in content if cats & set(i["categories"])]
         chrono_counts[heading] = len(rows)
         dated = collections.defaultdict(list)
         for i in rows:
             dated[i["event"]].append(i)
-        text = f"# {heading}\n\n{len(rows)} pages, oldest event first.\n"
+        text = (f"# {heading}\n\n{len(rows)} pages in the wiki's {' / '.join(sorted(cats))} "
+                f"categor{'y' if len(cats) == 1 else 'ies'}, oldest event first.\n")
         for ev in sorted((e for e in dated if e), key=event_key):
             text += f"\n## {ev} ({len(dated[ev])})\n\n" + "\n".join(f"- {link(i, here)}" for i in dated[ev]) + "\n"
         if dated.get(None):
@@ -115,7 +119,7 @@ def build_indexes() -> dict:
         write(f"{here}/{stem}.md", text)
 
     # --- per-class indexes grouped by topic
-    for cls in CLASS_ORDER:
+    for cls in CLASS_ORDER[:3]:  # unsorted pages get their own list below
         rows = [i for i in content if i["class"] == cls]
         if not rows:
             continue
@@ -180,10 +184,10 @@ def build_indexes() -> dict:
             + "".join(f"- **{by_class[c]}** {c}\n" for c in CLASS_ORDER if by_class[c]) +
             "\n## Indexes\n\n"
             "- [All pages A–Z](indexes/all-pages.md)\n"
-            + "".join(f"- [{c} pages by topic](indexes/{c}.md)\n" for c in CLASS_ORDER if by_class[c])
+            + "".join(f"- [{c} pages by topic](indexes/{c}.md)\n" for c in CLASS_ORDER[:3] if by_class[c])
             + "".join(f"- [{h}](indexes/{s}.md) ({chrono_counts[h]})\n" for s, h, _ in CHRONO) +
             "- [By event](indexes/by-event/README.md)\n- [By category](indexes/by-category/)\n"
-            "- [Redirects](indexes/redirects.md)\n- [Uncategorised](indexes/uncategorised.md)\n\n## Topics\n\n"
+            "- [Redirects](indexes/redirects.md)\n- [Unsorted pages](indexes/uncategorised.md)\n\n## Topics\n\n"
             "| Class | Topic | Pages |\n|---|---|---|\n"
             + "\n".join(f"| {c} | [{t}]({c}/{t}/) | {n} |" for (c, t), n in
                         sorted(tally.items(), key=lambda kv: (CLASS_ORDER.index(kv[0][0]), kv[0][1]))))

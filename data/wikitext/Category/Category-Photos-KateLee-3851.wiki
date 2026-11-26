@@ -1,0 +1,7 @@
+Kate Lee
+
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>[[Category:Photos:KateLee]] [[:Category:Photos:KateLee|Image by Kate Lee]]
+</nowiki>''

@@ -1,0 +1,138 @@
+---
+title: Sjördeyr of Xanoch
+source: https://www.profounddecisions.co.uk/empire-wiki/Sj%C3%B6rdeyr_of_Xanoch
+class: mixed
+topic: government/synod
+categories:
+- Sumaah
+- History
+- Synod
+last_edited: '2026-11-18T13:53:48Z'
+revision: 146461
+---
+
+# Sjördeyr of Xanoch
+
+*[Image: Hazelelponi of the Shattered Tower is the Lepidean Librarian , who guides the research of the Lepidean University .](https://www.profounddecisions.co.uk/empire-wiki/File:Hazelelponi.jpg)*
+
+## Introduction
+
+On behalf of Hazelelponi of the Shattered Tower, the [Lepidean Librarian](../../titles/Lepidean_Librarian.md), [Ambassador Accalon](../../titles/Ambassador_to_the_Sumaah_Republic.md) extended an invitation to [Sumaah](../../../in-character/foreign-nations/Sumaah_Republic.md) scholars to visit the [Lepidean University](../../titles/Lepidean_Librarian.md#lepidean-university). Expecting a couple of visitors, the [Heirs of Lepidus](../../../in-character/religion/Lepidus.md#heirs-of-lepidus) were a little surprised to play host to a full dozen scholars, led by Präster of the High House of [Prosperity](../../../in-character/religion/Prosperity.md). As well as spending time sharing their insight into the Sumaah paragon Sjördeyr, they toured the Lepidean University, marvelled at the work being done to transform [Bastion](../../../in-character/nations/highguard/Bastion.md#bastion-the-white-city) into the [Grand Inspiration of the Way](../../../in-character/senate-motions/Construct_Grand_Inspiration_of_the_Way.md), and made a pilgrimage to [Necropolis](../../../in-character/nations/highguard/Necropolis.md#the-necropolis) to visit assorted monuments, and view the tombs of several [Thrones](../../titles/The_Throne.md) including [Empress Mariika](../../../in-character/history/Empress_Mariika.md), [Empress Aenea](../../../in-character/history/Empress_Aenea.md), and [Empress Deanne](../../../in-character/history/Empress_Deanne.md). After their time in Bastion was complete, they departed by ship for [Madruga](../../../in-character/nations/the-brass-coast/Madruga.md) to visit the *[Kraken's Bane](../../../in-character/religion/Zemress.md)* before taking passage back to the Republic.
+
+The Heirs of Lepidus thank the Librarian for helping arrange this visit. The Sumaah scholars brought gifts of fine food and even finer drink, and proved to be engaging and enjoyable company. Their stories of Sjördeyr demonstrated a sincere and personal affection for the man and his inspirations. The leader of the little delegation was one *Imotama*, a representative and student of the influential *Präst of the Full Moon*. The Präst is a figure similar in some ways to the [Keeper of the Orchard](../../titles/Keeper_of_the_Orchard.md), and Imotama discussed plans to extend her stay in the Empire specifically to visit the shrine of [Good Walder](../../../in-character/religion/Good_Walder.md) and learn more about his inspiration.
+
+Without ever wishing to appear critical, the opportunity to speak about a figure of obvious virtue with people who take both quiet pride, and every opportunity to celebrate that inspiration, was a delightful change of pace for many of us.
+
+## Historical Context
+
+Sjördeyr lived before [the Way](../../../in-character/world/The_Way.md) was embraced in Sumaah, but as we know there were "embers" of that faith when the wayfarers first came there. The Sumaah themselves acknowledge this; their histories say that while Sjördeyr did not think of the virtues in the way modern followers of the Way do, he was certainly one of those who had an understanding of their spirit, if not their words. The belief in a "good way of life" is one that underpins some parts of Sumaah long before the first [wayfarers](../../../in-character/nations/highguard/Highguard_religious_beliefs.md#wayfarers) visited, and it is taught that Sjördeyr and his family were among those who practiced that way. In some cases his ancestors might have done so alongside the reverence for the spirits of the forest, but by Sjördeyr's time these "old ways" had largely fallen by the wayside.
+
+Some of the visiting scholars point to the [Asaveans](../../../in-character/foreign-nations/Asavean_Archipelago.md) as, paradoxically, having driven the Satrapy-era Sumaah away from their acknowledgement of spirits and toward the nascent spiritual teachings of the Way thanks to their syncretic practices. One of the first things the Asaveans do when they extend their influence over a place is to equate the local religion with their own gods. By doing that, argued some of the scholars, they hastened the process whereby the "old religion" was supplanted by more internally consistent spiritual beliefs about the "good way of life" (virtue). Despite several nights of fascinating discourse on this topic it is a little beyond the scope of our investigation, and so we return to the matter at hand.
+
+There is no doubt among the Sumaah that Sjördeyr was a historical figure, one of those responsible for bringing about the end of the Asavean Satrapy and laying the foundations for the Republic as it stands today. He was a clear inspiration to the people of the nation even before his eventual formal recognition as a [Paragon](Paragons_and_exemplars.md) of Prosperity. He is also known for his [Pride](../../../in-character/religion/Pride.md), [Courage](../../../in-character/religion/Courage.md), and [Loyalty](../../../in-character/religion/Loyalty.md) - indeed there was much debate among the early Präster as to which of his spiritual qualities was the most important, narrowly "won" by the High House of Prosperity.
+
+Apparently no images of Sjördeyr survive from when he was alive; the earliest that has been unequivocally identified is a religious painting made seven decades after his death. He is generally depicted as a thick bodied man with a broad smile, wearing white flowers in his hair, and holding a red clay goblet. He is usually garbed in a rainbow cloak and wearing a traditional multi-hued skirt, with gold anklets and bracelets. His torso and arms are tattooed in an old style, with symbols representing Prosperity - fruiting vines, flowers, and occasionally broken chains. Where some Sumaah paragons are depicted "crowned with the sun" - with the sun above their head - Sjördeyr is more one of the few who is regularly "crowned" with the full moon in religious iconography. He is never shown armed.
+
+## Details of His life
+
+Sjördeyr was born in the town that is today the city of Xanoch. A child of farmers, from a young age he exemplified the idea of hard work being the precursor to celebration and never avoided either. In his late teens, he began to clash with Romus Tiberius, the Asavean governor assigned to oversee Xanoch and ensure a steady supply of food to the occupying Asavean armies. The more Romus attempted to grind the Asavean people down, to force them to work longer and harsher hours in the fields, the more Sjördeyr spoke out against him and the Satrapy. As the governor increased the tithes demanded from the farmers more and more, literally stealing the food from the mouths of the people, Sjördeyr was part of a small band of angry youths who engaged in raids on warehouses and caravans transporting "stolen" food. The youths wore brightly painted masks depicting various jungle spirits, and used their superior knowledge of the forests to threaten Romus' dominion over Xanoch. Sjördeyr himself was not much of a fighter, but he was talented at determining the best times and places to strike for maximum effect - a planner rather than a warrior.
+
+Much of the recovered food was redistributed to the farmers, but Sjördeyr ensured that the remainder was used to maintain the Sumaah traditions of celebration and festivity. The Sumaah had dozens of feast days and observances related to key moments in their lives, from celebrating births, deaths, and marriages to planting or bringing in the harvests, to more esoteric things such as the first full moon of each season. The Asaveans initially turned a blind eye to these feasts - which served a secondary purpose of binding communities together. Romus however began to increasingly crack down on these celebrations - the governor wanted a people who were cowed and broken in spirit. After all, if folk had the energy to celebrate they had the energy to work.
+
+Romus implemented increasingly draconian measures that used indentured servitude as punishment for increasingly petty crimes - ultimately it was clear he wanted to enslave all the Sumaah in Xanoch. The Asavean Plenum had decreed that the people of the Sumaah satrapy would not be enslaved as long as they respected the Satraps, but Romus exploited legal loopholes to have more and more Sumaah citizens seized, their assets stripped, and their liberty removed.
+
+Even before Romus' plan became clear, Sjördeyr had notably different attitudes to the Asavean slaves the Satraps had brought with them than many of his peers. Many Sumaah viewed the slaves as being just as much intruders and trespassers as the Asaveans who had brought them here. Lands seized from the Sumaah were worked by slaves after all, with their entire produce being stolen by the Asaveans. Sjördeyr took a different view, seeing the Asavean slaves and the oppressed Sumaah people as siblings in suffering. The chains on the slaves were obvious, but the chains on the conquered Sumaah people were no less real for being metaphorical. His opinion was that it did not matter where someone came from; those who shared your suffering were your family and deserved the fruits of their labour no less than the Sumaah did.
+
+In the end things came to a head when Romus sent a contingent of Tiberian soldiers to break up the celebration of the first full moon of Autumn. The governor had decreed that this celebration was an affront to the [Gods of Asavea](../../../in-character/foreign-nations/Asavean_gods.md). In defiance of the governor, the people went ahead with their celebration - and again food taken back from the Asaveans served as a centre-point. Things quickly spiralled out of control and the Tiberian commander of the Asavean legion struck down one of the would-be revellers. This blow triggered a violent response from the farmers that quickly spread through the entire town.
+
+The Satraps immediately sent an [army](../../../out-of-character/rules/Army.md) to suppress the uprising but found Xanoch deserted by everyone except those few Asaveans and Sumaah collaborators who had survived the rebellion. They also found the body of governor Romus, who had been hanged from the roof of one of his own warehouses, adorned with the white flowers that the Sumaah wore in their moon celebrations.
+
+## Inspiration
+
+The rebellion in Xanoch was only one of several that took place towards the end of the Asavean occupation of Sumaah. The Plenum became increasingly concerned with suppressing news of these actions, and the Satraps followed the same pattern as Romus - passing increasingly draconian laws that simply inspired more people to resist.
+
+During this time Sjördeyr began his transformation into one of the leading voices of the Sumaah revolution. Unlike some of his peers, he focused not on day-to-day survival but on the future. He became known as a master planner, always preparing contingencies for when things went wrong. He created stockpiles of weapons and supplies in hidden locations in the jungles, and worked to convince the leaders of various insular movements that they would be better off sharing resources with one another than jealously keeping themselves apart and competing over supplies.
+
+He also fought to ensure that the Sumaah did not forget themselves in their resistance to the Asaveans. He urged his fellows to observe the festivals and celebrations that marked Sumaah life, even when times were hard. He was often very clear that it would do the Sumaah no good to win their fight against Asavea but stop being Sumaah in the process. This is one of the reasons that he was very nearly recognised as a Paragon of Pride by the first Sumaah synod.
+
+Sjördeyr also made a point of recruiting Asavean slaves, something that caused friction with his allies. The Satraps would occasionally try to insert spies into the ranks of the rebels by planting agents among their slaves. For the most part this strategy was self-defeating simply because the slaves themselves knew who the spies were and as soon as they were liberated they turned them over to the Sumaah. There were some tragic consequences though, as not every spy or traitor was uncovered in time. Sjördeyr refused to accept the argument that this meant his convictions were incorrect. Everyone deserved the same right to the fruits of their labour, slave or Sumaah. This is one reason he was nearly recognised as a Paragon of Courage.
+
+As the rebellion gathered speed, Sjördeyr became more and more concerned with securing support and supplies. This led to him dealing with unsavoury sorts - thieves and pirates, as well as corrupt officials within the Asavean satrapy who valued money over any loyalty to the Plenum. The stories of this time say that, so charismatic was Sjördeyr that he was regularly able to convince hard-bitten professional criminals to embrace the cause of the rebellion, and that he convinced a few Asaveans to support the rebels against their own people.
+
+## War of the Republic
+
+Sjördeyr continued to operate behind the scenes throughout the last days of the Satrapy. As the scale of the rebellion grew, so too did the need for a cadre of people to keep track of the logistics and make sure people had the weapons they needed. His was the uncontested voice that drove the logistics of the rebellion, ensuring the fighters were armed and armoured and had access to [potions](../../../out-of-character/rules/Potion.md) and [enchantments](../../../out-of-character/rules/Enchantment.md) to help them go toe-to-toe to the better equipped, better trained Asavean soldiers.
+
+The logistical support Sjördeyr and his colleagues put together eventually allowed the Sumaah to field entire armies against the Asaveans, something that had been impossible since the Plenum first crushed the scattered nation. While he never fought on the front lines, he is still named alongside the commanders of the rebellion who helped free Sumaah and break the Satrapy.
+
+## After the War
+
+With the fall of the Satraps, Sjördeyr continued his work. Now, though, he turned his legendary charisma and attention to detail on his fellow Sumaah. He threw his support behind the faction that wanted a strong, unified nation built on principles of justice and equality. He worked to ensure that those Asaveans who had supported the rebels were recognised and either helped to find safety elsewhere, or given the same respect the born-Sumaah were. In particular he opposed every move to reinstitute slavery - even for the former Asavean oppressors. Better to execute or exile them than for Sumaah to become the very thing it had fought against. Everyone deserved the right to celebrate their hard work and their hard won successes.
+
+It's likely that some of the stories around this period have been edited over time by the Sumaah. Reports of Sjördeyr's speeches often use phrases that are almost word-for-word taken from the guidance of Prosperity. The evidence is that while the actual words might be fictional, the intent seems to be grounded in historical fact. Sjördeyr was a key part of the rebellion but arguably he was an even more important part of the peace that followed.
+
+His arguments for enjoying the rewards of labour were not purely literal. His support for the republican model of government that the Sumaah would later embrace were based on solid ideas of "society" and "civilisation" being a reward for the hard work of the people whose labour was the foundation of that society. His peers did not entirely agree with him, and his somewhat convoluted attempt to weigh the value of each individuals opinion based on the quality and quantity of work they had done in the previous year proved too divisive and too complicated for Sjördeyr to ever make it work. More effective perhaps was his blanket opposition to anything resembling the Asavean way of running a country - where a privileged few isolated from the people around them made all decisions without recourse to the people they ruled over. A lot of his theories would be familiar to scholars of Imperial history - Sjördeyr was a proponent of many of the ideas that brought the traditions of [Wintermark](../../../in-character/nations/wintermark/Wintermark.md) together and underpin the [Imperial Senate](../senate/Senate.md) to this day.
+
+Another lasting legacy of Sjördeyr's work is the calendar of celebrations and festivals that the Sumaah still follow today. Some of the festivals have shifted their emphasis a little - unsurprising in a nation so rooted in Virtue. The seasonal festivities of the first night of the full moon in particular are still observed, but now they are more clearly a time to celebrate a season of hard work behind one, and to set goals and refocus on the season of hard work yet to come.
+
+*[Image: The white flowers of the moonvine , used in lunar celebrations, are strongly associated with Sjördeyr. Combined with resinous tree-sap they are used to create the bouncing rubber balls very popular with Sumaah children.](https://www.profounddecisions.co.uk/empire-wiki/File:Moonvine.jpg)*
+
+## Death and Legacy
+
+Sjördeyr died in his sixties, and his remains were interred in a fine tomb of [white granite](../../economy/White_granite.md) near Xanoch. The tomb is surrounded by a garden and orchard where examples of every wholesome plant found in the Sumaah Republic are cultivated. To this day, when the Sumaah discover a new crop, fruit, or vegetable a section of land will be put aside near his tomb to grow them. The gardens also include glass-houses where the interior conditions can be maintained for some of the more exotic plants. Several of the plants that grow here are quite rare and their fruits have valuable properties. Distributing these fruit is part of the responsibility of the *Präst of the Full Moon*, appointed each year during the Winter Solstice by the High House of Prosperity.
+
+He is also a figure that inspires many of those who actively fight against slavery. For example it was then Präst of the Full Moon, Zimenet, who raised the original [statement of principle](Statement_of_principle.md) urging the Sumaah to support the [attack on Chalonsio](../../../in-character/winds-of-fortune/There_is_thunder.md#chalonsio) (and ultimately the formation of the [Liberty Pact](../../titles/Voice_of_Liberty.md#liberty-pact)). The *White Flower Warriors* are a sect of enthusiastic Prosperity [dedicates](../../../out-of-character/rules/Dedication.md) who embrace the inspiration of Sjördeyr and put their talents to work supporting both anti-slavery movements in various parts of the world, and encouraging workers of all creeds to demand to enjoy the fruits of their labours.
+
+The first Sumaah Synod recognised Sjördeyr as a paragon of Prosperity, someone who exemplified the virtue in every aspect of his life and whose inspiration and legacy persist to this day. As mentioned previously there were strong arguments about whether he was a Paragon of Pride or an Exemplar of Courage or Loyalty, but in the end the day was won by Prosperity. To this day, his example is still sometimes referenced by präster dedicated to those three virtues, as someone whose Pride, Courage, and Loyalty are still inspirational even though he is a paragon of Prosperity.
+
+## Signs of the Paragon
+
+Much as with the Empire, the Sumaah Synod requires six signs of the paragon and exemplar before someone can be recognised with that status.
+
+- **[Liberation](Signs_of_the_paragon_and_exemplar.md#liberation)** - As of 248YE (in Imperial reckoning), Sjördeyr officially demonstrates the sign of Liberation. There has been no past-life vision in which someone is Sjördeyr reborn, although accounts speak of his *appearance* in a small number of visions related to the rebellion and the fall of the Satrapy.
+- **[Benevolence](Signs_of_the_paragon_and_exemplar.md#benevolence)** - There is no doubt that Sjördeyr illustrated the virtue of Prosperity in a way that benefitted all his people. He fought to ensure that everyone had the right to pursue the fruits of their labour, that they celebrate today rather than tomorrow, and that they share all that is worthwhile with those who deserve it.
+- **[Inspiration](Signs_of_the_paragon_and_exemplar.md#inspiration)** - Sjördeyr inspired others like him who supported his words or worked alongside him. His work among criminals, and in recruiting a small number of Asaveans to support the rebellion, is also taken as a clear sign of his inspiration. Organisations such as the White Flower Warriors are a modern example of those still inspired by his deeds.
+- **[Miracles](Signs_of_the_paragon_and_exemplar.md#miracles)** - This sign is contentious among the Sumaah today, and has largely been superseded by the sign of Liberation. According to some stories, Sjördeyr did not need to sleep when there was work to be done. These stories say that as long as there was a task that needed completing, he would simply keep working without flagging until the task was done and then sleep. In 247YE, this sign was questioned by the Sumaah Assembly of Wisdom, who argued that it might simply be a reference to Sjördeyr having the [briar](../../magic/lore/Briar.md) [lineage](../../magic/lore/Lineage.md) (although there is no evidence in stories or in historical sources that he had any lineage at all). Ultimately the matter was dropped, although a year later the Assembly of Prosperity recognised that Sjördeyr displayed the sign of Liberation in what might well have been a politically inspired move. Of note to Imperial scholars - there was never any question of simply opening the tomb of Sjördeyr to check if he possessed lineage. The idea of doing something so fundamentally taboo as disturbing the remains of a paragon just to satisfy idle curiosity would have outraged the Sumaah Synod.
+- **[Pilgrimage](Signs_of_the_paragon_and_exemplar.md#pilgrimage)** - While Sjördeyr never made a pilgrimage to [Timoj](../../../in-character/foreign-nations/Sumaah_Republic.md#timoj), this was mostly because the city did not exist in his time. However, as with several pre-Revelation Sumaah paragons, he journeyed throughout the nation as it was then, spreading his teachings and urging others to pursue a virtuous path even before the virtues were entirely understood.
+- **[Salvation](Signs_of_the_paragon_and_exemplar.md#salvation)** - Again there is no doubt that Sjördeyr reduced the number of unvirtuous in the world. He brought people raised to believe in the false gods of Asavea to take the first steps on what would eventually be the paths of virtue people recognise today. In particular, there are Sumaah who trace their roots back to the Asaveans Sjördeyr brought to the Republic - primarily the former slaves but also a few whose ancestors belonged to other classes.
+- **[Legacy](Signs_of_the_paragon_and_exemplar.md#legacy)** - Although they are not solely responsible for the formation of the Sumaah Republic, Sjördeyr is one of those whose legacy it is considered to be. In a more traditional interpretation of the sign of Legacy, there is also a garland of white *moonvine* flowers worn by Sjördeyr that continues to be as fresh and vital today as it was centuries ago when the paragon wore it. It is part of the regalia of the Präst of the Full Moon and bears a verifiably [True](../../religion/Liao.md#true-liao) [spontaneous aura](../../magic/lore/Aura.md#spontaneous-auras).
+
+As noted above, there has been some controversy about Sjördeyr. In particular, modern theologians in the Sumaah Republic do not teach the miracle associated with him (the ability to complete any task no matter how long it took without sleeping) as a literal fact, but rather refer to it as an example of his commitment to Prosperity.
+
+## Conclusions
+
+Imotama, the representative of the Präst of the Full Moon, hopes that the Empire will find some inspiration in the stories they have shared. She is interested to know if the Assembly of Prosperity finds enough worth in the information they have shared to consider how their story might help Imperial citizens understand the virtue. The Signs of the Paragon, after all, with the possible exception of Pilgrimage, are as relevant in the Empire as they are in the Republic.
+
+There is no expectation here - a short report about the historical nature of an individual is no substitute for a profound understanding of a figure and their impact on the Republic - but it would be interestingly extraneous to see if this brief cultural exchange might lead to [recognition](Recognition.md).
+
+## Sumaah Further Reading
+
+- [Sumaah Republic](../../../in-character/foreign-nations/Sumaah_Republic.md)
+- [Ambassador to the Sumaah Republic](../../titles/Ambassador_to_the_Sumaah_Republic.md)
+- [Sumaah Republic ports](../../economy/Foreign_ports.md#sumaah-republic)
+- [Satraps of the Abyss](../../../in-character/winds-of-fortune/Satraps_of_the_Abyss.md) - 383YE Summer Wind of Fortune delving into Sumaah attitudes to magic and eternals
+
+Winds of Fortune
+
+- [So little I wanted, so little I got](../../../in-character/winds-of-fortune/So_little_I_wanted-_so_little_I_got.md#sumaah-republic) - 388YE Autumn diplomatic wind of fortune
+- [Keys of Enlightenment](../../../in-character/winds-of-fortune/Keys_of_Enlightenment.md) - 388YE Summer wind of fortune about diplomacy
+- [Forging links](../../../in-character/winds-of-fortune/Forging_links.md) - 388YE Spring diplomatic wind of fortune
+- [Poets light but lamps](../../../in-character/winds-of-fortune/Poets_light_but_lamps.md#sumaah-republic) - 387YE Winter diplomatic wind of fortune
+- [Drowned in tears](../../../in-character/winds-of-fortune/Drowned_in_tears.md#sumaah) - 387YE Autumn wind of fortune
+- [Talking to friends](../../../in-character/winds-of-fortune/Talking_to_friends.md#sumaah) - 387YE Summer wind of fortune relating to diplomacy with Sumaah
+- [Two suns in the sunset](../../../in-character/winds-of-fortune/Two_suns_in_the_sunset.md) - 387YE Spring Wind of Fortune about breaking the blockade on Sumaah
+- [Friend of mine](../../../in-character/winds-of-fortune/Friend_of_mine.md) - 386YE Winter Wind of Fortune relating to Sumaah diplomacy
+- [The tale that speaks to your heart](../../../in-character/winds-of-fortune/The_tale_that_speaks_to_your_heart.md) - 386YE Autumn wind of fortune relating to Sumaah diplomacy
+- [Guide the spirit](../../../in-character/winds-of-fortune/Guide_the_spirit.md) - 386YE Summer wind of fortune relating to Sumaah diplomacy
+- [Parts of speech](../../../in-character/winds-of-fortune/Parts_of_speech.md) – 386YE Spring Wind of Fortune relating to rivalry between Sumaah and Asavea
+
+Sumaah History
+
+- Sjördeyr of Xanoch - [Historical research](../senate/Historical_research.md) relating to a Sumaah paragon of Prosperity
+- [Tales of Amma the Wanderer](../../../in-character/history/Tales_of_Amma_the_Wanderer.md) - Historical research related to the exemplar of Ambition who may be [Adelmar the Lion](../../../in-character/religion/Adelmar_the_Lion.md)
+
+Click *Expand* to see a summary of various pages related to the Sumaah Republic.
+
+---
+
+Categories: [Sumaah](../../../indexes/by-category/Sumaah.md), [History](../../../indexes/by-category/History.md), [Synod](../../../indexes/by-category/Synod.md)

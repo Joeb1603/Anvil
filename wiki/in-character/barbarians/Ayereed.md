@@ -1,0 +1,106 @@
+---
+title: Ayereed
+source: https://www.profounddecisions.co.uk/empire-wiki/Ayereed
+class: in-character
+topic: barbarians
+categories:
+- Gazetteer
+- Grendel
+last_edited: '2025-09-26T03:16:39Z'
+revision: 128689
+---
+
+# Ayereed
+
+[Image: Ayereed regions.png](https://www.profounddecisions.co.uk/empire-wiki/File:Ayereed_regions.png)
+
+[Image: Ayereed borders.png](https://www.profounddecisions.co.uk/empire-wiki/File:Ayereed_borders.png)
+
+## Overview
+
+Ayereed is part of the Broken Shore, controlled by the [Grendel](Grendel.md), and ruled over by *Salt Lord Azshura*. It borders [Mareave](../nations/imperial-orcs/Mareave.md), Shayeel, Claudheel, and an unknown territory of Skoura. There are several natural harbours, and the coastline is littered with small fishing settlements. Like the rest of the Broken Shore, it is warm and dry with little in the way of large-scale vegetation. To the east lies a vast mountain range that stretches from the northern border to the southern border. There are several ways through the mountain range, but only two passes are capable of supporting armies moving through.
+
+The main settlement is the city of Gainmeachdubh, which also contains a shipyard and the grand palatial estate of Salt Lord Azshura.
+
+## Points of Interest
+
+### Amphitheatre of Salt and Sand
+
+The Amphitheatre of Salt and Sand is on the north side of the river Gainmeachdubh, in southern Cornaghan. When Mareave and [Spiral](../nations/the-league/Spiral.md) were controlled by the Grendel, it was the site of a vast market, endorsed by several of the [Sovereign Lords of the Iron Labyrinth](../eternals/Realm.md#autumn), for goods coming south and going north from along the Broken Shore. Now, it is altogether changed; where traders rubbed shoulders with heralds of the Autumn realm, gladiators and their masters speak of survival and tenacity with heralds of the [Wasteland](../eternals/Realm.md#winter). Where precious metals and coins were wagered - and few died - now, the games held every fortnight see lifeblood spilt.
+
+### Ayelintane
+
+Ayelintane is a small village, similar in size to Cevia in [Tassato](../nations/the-league/Tassato.md). Built around the top of a vast mountain - which shares the name of the town - confirmed to be a long-dormant volcano. Ayelintane is one of two settlements which is the home of the Bone Nautilus sept, twinned with another village in Shayeel. Several boats are kept in a small cove around the base of the mountain.
+
+### Coulport
+
+Coulport is a fishing town which wouldn't look out of place on the coast of Sarvos. Home to the remnants of the Sand Pipers sept, whose army was lost in Spiral when the Black Plateau was [unleashed](../winds-of-war/382YE_Spring_Equinox_winds_of_war.md#leviathan-wakes-spiral) by the [Iron Helms](../../mixed/government/military/Iron_Helms.md). Coulport serves as a focal point for the many scattered villages in Dorghcoul, and the maistir of the town is treated with an unusual amount of respect from the rest of the residents.
+
+### Gainmeachdubh
+
+Gainmeachdubh is the largest coastal settlement on the Broken Shore. Controlled by the recently elevated *Salt Lord Aszura*, it is a rough settlement where the orcs of the Broken Shore vastly outnumber the Grendel. On the docks are reinforced warehouses owned by a dozen different consortiums, each vying for wealth and influence, and each of them paying docking fees to the Salt Lord.
+
+Here too is the [shipyard](../../mixed/commissions/Shipyard.md) of the territory. Controlled by Salt Lord Aszura, it often has ships in dock being repaired and improved upon.
+
+### Giant Heads
+
+South of Gainmeachdubh, the land rises sharply. On the cliffs stand peculiar sculptures - great stone heads with orcish features. They are weather-beaten, and each one is slightly different to the next. There are two dozen of these heads in total, spread out along twenty miles of clifftop.
+
+### Ironhold
+
+The Ironhold is a set of a dozen squat towers, nestled in the mountains of Montbeghal. According to folktales, the Ironhold used to be ten times bigger and served as the centre of an "Iron Kingdom" that ruled over the rest of Ayereed, before the rise of the Grendel. Now, it serves as the home of the Iron Gulls sept, who also dwell in the mountain pass through to Claudeehl.
+
+### The Whispers
+
+The Whispers - or the "Quarry of a Thousand Voices" to use the name preferred by the Grendel who oversees it - is the deep quarry in the southern mountains of Ayereed that produces white granite with a persistent black vein running through. Nobody is entirely sure how deep the quarry actually goes; the labourers speak of hearing sibilant whispers if they spend too long toiling in its depths.
+
+Estimates suggest that the Whispers produces around 18 wains of [white granite](../../mixed/economy/White_granite.md) each season.
+
+## Regions
+
+### Cornaghan
+
+**Quality:** Arid  
+South of the Petrified Forest is Cornaghan. Here, the land is dry, with the only body of water being the great river in the south that runs from the foothills of Montbeghal. The Amphitheatre of Salt and Sand is here, a grand arena that once also served as a market for goods in the Broken Shore, but with the loss of Spiral and Mareave, it has been reduced to a shadow of its former self.
+
+### Dorghcoul
+
+**Quality:** Coastal  
+Dorghcoul is the south-western region of Ayereed, and is home to Coulport. Coulport is ruled over by *Maistir Jahmas*, a well-respected Grendel who turned the fishing town's fortunes around over the last decade. Scattered along the coast are a number of smaller villages, again with a focus on fishing, and there is a thriving market of pearls held every month.
+
+### Gainmeachdubh
+
+**Qualities:** Coastal, City  
+Gainmeachdubh is the home of the city of the same name, largest of the Broken Shore. There are no specific septs that reside here, but the fortification of Beynagahoyne is garrisoned by the household troops of the enigmatic *Salt Lord Aszura*. There are several smaller villages with farms further inland that provide food to the city. Vast fields of wheat are the most common sight, followed by olive groves and vineyards.
+
+### Lainteen Strait
+
+**Qualities:** Coastal, Volcanic, Shallows  
+The shattered islands of the Lainteen Strait are home to countless, disparate, familial groups. A few of them are empty, abandoned when their inhabitants joined the Children of Wrecks. The largest by far is Ayelintane, which is the location of an enormous mountain - confirmed to be a dormant volcano. Several of the islands are close together, most being able to be travelled between with river boats at a push - but there are points where it is too dangerous in anything other than a seafaring vessel.
+
+### Montbeghal
+
+**Quality:** Hills  
+The foothills of eastern Ayereed make up Montbeghal. Here, the land is harsh, with almost as many dire beasts as in Weirwater. Entire merchant companies make their fortune in hunting down these monsters - some simply for the thrill of the hunt. Here too is the [Ironhold](#ironhold); the home of the Iron Gulls.
+
+### Petrified Forest
+
+**Quality:** Arid, Petrified  
+The Petrified Forest is covered from shore to mountain by trees that have been transformed to stone by some unknown cause. The soil is loose and dangerously dry, and walking through the area is dangerous as it throws up clouds of dust and ash. Where the ash manages to get into wounds, the victim suffers a horrific infection: the skin, flesh, and bone around the wound begins to petrify. There are few, if any, permanent settlements here. Instead, there are work gangs who are willing to risk infection to gather the precious reagents within the petrified trees, believed by some Imperials to be "*petrified ambergelt*".
+
+### Skillahg Hills
+
+**Quality:** Arid, Hills  
+Skillahg Hills is the south-eastern region of Ayereed and the location of both the Whispers and Stormlord's Rise. There is a pass through the mountains here, Stormlord's Path, which leads to Claudeehl. There are few settlements here; the combination of a lack of easy access to fresh water, and poor fishing available on the coast, means that most who live in the Skillahg Hills work either in the Whispers, are part of the garrison at Stormlord's Rise, or hunt the wild beasts that prey on the travellers in Stormlord's Path.
+
+## OOC Notes
+
+- Every region of Ayereed belongs to the Grendel; this is a Grendel territory
+- Beynagahoyne is a rank two fortification in [Gainmeachdubh](#gainmeachdubh)
+- Stormlord's Rise is a rank one fortification in [Skillahg Hills](#skillahg-hills)
+- Lanteen Strait has the Shallows quality. An army cannot pass through a region with the Shallows quality unless there is a shipyard in a region controlled by an ally, or it is moved by a navy - like the Island quality.
+- It is not possible to pass east from the Petrified Forest. It is only possible to move into Claudeehl from [Montbeghal](#montbeghal) and [Skillahg Hills](#skillahg-hills).
+
+---
+
+Categories: [Gazetteer](../../indexes/by-category/Gazetteer.md), [Grendel](../../indexes/by-category/Grendel.md)

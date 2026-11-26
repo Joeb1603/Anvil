@@ -1,0 +1,74 @@
+<div style="float:left; width: 550px; clear: left;">{{CaptionedImage|file=Summer archmage with staff.png|caption=The Summer archmage supports Imperial magicians and serves as a diplomat to the realm of Summer.|title=Archmage Brother Luke of the Shattered Tower|align=left|width=550}}</div>
+==Overview==
+[[Archmage]] is an Imperial title bestowed upon a [[Magical skills#Magician|magician]] by the members of the [[Conclave]]. There are six archmages; one for each of the magical realms. They serve as a focal point for [[rituals|ritualists]] of that realm, as well as helping to guide the use of the Conclave's resources. The six archmages match the six realms into which magic is divided. Where the influence of a [[grandmaster]] is primarily political, the archmages are responsible for attending to the magical business of the Conclave. They are assumed by the [[Senate]], the [[Military Council]], foreign dignitaries and [[eternal|eternals]] alike to be well-versed in the capabilities and lore of their realm. The archmages are often seen as the public faces of the Conclave; they are the individuals most likely to be consulted by other Imperial bodies when they wish to know what magical possibilities exist.
+
+Each archmage is addressed by their title and the name of the realm of magic they stand for - commonly in the form ''Luke, Archmage of Summer'' or ''Archmage Corvus of Summer''. The title archmage comes originally from [[Urizen]], a development of the title [[Urizen magical traditions#Magi|mage]].
+<div style="float:right; width: 500px; clear: right;">{{CaptionedImage|file=Summer Archmage 2.png|caption=A Summer Archmage may find themselves involved in all kinds of dangerous enterprises.|title=Archmage Solomon of the Shattered Tower|align=right|width=500}}</div>
+==Responsibilities==
+The Archmage of Summer is responsible for attending to the magical business of the Conclave, and bears [[#Regalia_of_Summer|powerful tools]] to help them do so. They represent the Empire to the eternals of the Summer realm, and vice versa. They also work with magicians versed in the lore of [[Summer magic]] to expand the Empire's understanding and power in that realm, and employ it to the advantage of Imperial citizens.
+
+==Powers==
+Each archmage position is an [[Imperial title]] in the [[Conclave]].
+===Archmage of Summer===
+The Archmage of Summer has the legal powers common to the Archmages. They can participate in the [[Arcane Colloquium]]; accept a formal [[Archmage#Parley|parley]] with Summer eternals; raise a [[Declaration]] of [[Alignment]] for a Summer eternal once each summit; and advise the magistrates as the recognised [[Archmage#Master_of_Magic|master of Summer magic]].
+
+===Regalia of Summer===
+In common with the other archmages, the Archmage of Summer has legal ownership of three powerful [[magic items]] that make up the [[Archmage#Regalia_of_the_Archmage|regalia of the archmage]]. These include the [[Archmage#Staff of the Archmage|Staff of Summer]] which greatly enhances the bearer's prowess with Summer ritual magic; the [[Archmage#Chain of Aesh|Crimson Chain of Aesh]] that can reduce the magnitude of a Summer ritual; and the [[Archmage#Belt of Stars|Belt of the Oak]] which can allow multiple [[coven|covens]] from the same nation to cooperate in the performance of a single Summer ritual.
+
+===Tower of the Dragon===
+<table style="width: 400px; float: right; clear: right; margin-left:10px;"><tr><td colspan="2" style="background-color: LightBlue;">'''Jewels from the Deep Mountain'''</td></tr>
+<tr><td>15 ingots of tempest jade</td><td>1 Stonedragon's Eye</td></tr>
+<tr><td>18 ingots of tempest jade</td><td>1 Deepglimmer</td></tr>
+<tr><td>36 ingots of tempest jade</td><td>2 Deepglimmer</td></tr>
+<tr><td>42 ingots of tempest jade</td><td>1 Mountainheart Stone</td></tr>
+</table>
+The Tower of the Dragon, [[Construct Tower of the Dragon|announced]] by '''Dima Vasilyevna Novosad''' as [[Master of the Koboldi]], is built of unbreakable adamant with windows of reinforced [[tempest jade]]. It contains comfortable living chambers, offices, and a sealed vault specifically for use by the Archmage to protect their valuables. The tower is served by two gates; one flanked by statues of Archmage '''Corvus of Auric Horizon''' of Urizen and Archmage '''Andreas Gremani''' of Varushka, and the other by the Highborn Archmages '''Solomon''' and '''Exarch Luke'''.
+
+The Archmage of Summer can purchase beautifully crafted magical jewels at a set price from the ''koboldi'' of the tower. The Archmage makes their decision on how many ingots of tempest jade to spend during downtime from their character page. Ingots are removed from, and ribbons are placed into, the character's inventory when the downtime is processed.
+<div class="mw-collapsible mw-collapsed">
+====Mountainheart Stone====
+* '''Description:''' A fist-sized multi-faceted orb of crystal, usually deep red in colour.
+* '''Form:''' Paraphernalia. Takes the form of a piece of ritual [[Magic_items#Paraphernalia|paraphernalia]]. The item must be present in the ritual to use its magical properties.
+* '''Effect:''' Twice per day the coven may perform a Summer ritual that does not count towards their daily limit of rituals performed.
+* '''Roleplaying Effect:''' When this covenstone is used, each contributor feels an urge to acquire beautiful and valuable things - fine clothes and jewels, masterwork weapons and armour, expensive food and drink. The effect fades over the course of the hour following the ritual.
+
+====Deepglimmer====
+* '''Description:''' A large gemstone, usually a dark colour such as cobalt blue or deep purple, often set into a ring or amulet.
+* '''Form:''' Foci. Takes the form of a piece of [[Magic_items#Talismans|jewellery]]. You must be wearing this item to use its magical properties.
+* '''Requirement:''' Any character can bond to this item.
+* '''Effect:''' Once per day gain 1 rank of Summer lore for the purposes of performing a ritual, subject to the normal rules for effective skill.
+* '''Roleplaying Effect:''' While wearing this item, you find it easy to get lost in the beauty of gems, jewels, and polished metal.
+
+====Stonedragon's Eye====
+* '''Description:''' An orb of crystal or glass, usually golden or emerald in colouration, sometimes with a vertical flaw in the centre reminiscent of a cat's eye
+* '''Form:''' Paraphernalia. Takes the form of a piece of ritual [[Magic_items#Paraphernalia|paraphernalia]]. The item must be present in the ritual to use its magical properties.
+* '''Effect:''' Members of the coven who are performing a Summer ritual they have mastered may use tempest jade in place of crystal mana. Every two measures of tempest jade spent count as one crystal mana.
+* '''Roleplaying Effect:''' After this covenstone is used, each contributor feels an urge to create or build something, using whatever they can lay their hands on. The effect fades over an hour.
+</div>
+Click ''Expand'' to see details of the items that can be created by the koboldi for the Archmage.
+
+==Appointment==
+The appointment, replacement, or removal of the Archmage of Summer is made by [[declaration]] of [[candidacy]] as part of a [[Conclave session]]. A candidate can be presented for the post of archmage only once a season, and the title can be held by any Imperial citizen.
+
+The Archmage of Summer serves until they are replaced by another magician using the Declaration of Candidacy. As a title in the Conclave, an archmage cannot be [[Revocation|revoked]].
+<div style='float:right; width: 450px; clear: right; margin-left:10px;'><table class='wikitable sortable'><tr><th>Summer Eternal</th><th>Concerns</th></tr>
+<tr><td>[[Adamant]]</td><td>Stone, beauty, treasure, construction</td></tr>
+<tr><td>[[Barien]]</td><td>Challenges, worth, tests</td></tr>
+<tr><td>[[Cathan Canae]]</td><td>Might, winter, durability</td></tr>
+<tr><td>[[Eleonaris]]</td><td>Majesty, nobility, victory</td></tr>
+<tr><td>[[Hayaak]]</td><td>Wrath, vengeance, ferocity</td></tr>
+<tr><td>[[Jaheris]]</td><td>Power, adversity, empowerment</td></tr>
+<tr><td>[[Meraud]]</td><td>Magic, enchantment, splendour</td></tr>
+<tr><td>[[Rhianos]]</td><td>Adventure, the sea, seafarers</td></tr>
+</table></div>
+==The Eternals of Summer==
+The Archmage of Summer is the Empire's formal representative to the inhabitants of the Summer realm, and often serves as a go-between when those eternals wish to communicate with the Empire. Most eternals will treat the archmage as a peer - although that can mean very different things for different eternals. One of the most potent abilities the Archmage of Summer possesses is the power of [[Archmage#Plenipotentiary|plenipotentiary]], allowing them to communicate with eternals from their realm and potentially arranging a [[Archmage#Parley|parley]]. A list of previous plenipotentiary results can be found [[:Category:Plenipotentiary|here]]
+
+Of all the archmages, the Archmage of Summer may be said to have the most difficult job when dealing with the eternals. The Summer eternals style themselves as powerful monarchs, ruling over shifting domains, and their character is such that they regularly clash with one another. For example, [[Eleonaris]] and [[Cathan Canae]] are bitter rivals, and gaining the support of one can sometimes risk worsening relations with the other. A wise Summer archmage either seeks to avoid being drawn into their conflicts and rivalries, or else commits entirely to one or two of the eternals without caring about the opinions of the others. 
+
+The Archmage of Summer is often in a good position to present declarations of [[amity and enmity]] to the Imperial conclave when relations between the Empire and an eternal need to be formalised. Indeed, more than any other [[Imperial title]], the archmage benefits from staying abreast of the relationships between the inhabitants of the Summer realm and Imperial citizens. The current status of the Summer eternals with an interest in the Empire can be found [[Amity_and_enmity#Summer|here]].
+{{CaptionedImage|file=ArchmageSummer.jpg|caption='''Mirella of the Twisted Rose''', Archmage of Summer|align=left|width=400}}
+{{RecentElections|Archmage_of_Summer}}
+
+[[Category:Conclave]]
+[[Category:Title]]

@@ -1,0 +1,92 @@
+---
+title: Nation FAQ
+source: https://www.profounddecisions.co.uk/empire-wiki/Nation_FAQ
+class: out-of-character
+topic: rules
+categories:
+- FAQ
+last_edited: '2025-06-26T15:32:41Z'
+revision: 122439
+aliases:
+- Nations FAQ
+---
+
+# Nation FAQ
+
+## Introduction
+
+The following is a list of frequently asked questions that players have sent us. If you have any queries about Empire then it is worth checking the FAQs first, to see if the answer to your question is here. Otherwise email us at [rules@profounddecisions.co.uk](mailto:rules@profounddecisions.co.uk) with any questions about the rules or [empire@profounddecisions.co.uk](mailto:empire@profounddecisions.co.uk) with any other questions about the game. We'll answer as quickly as we can and we'll add your question to our FAQ if we think it is likely to be of interest to other players.
+
+This section of the FAQ contains questions about [nations](../../in-character/nations/general/Nation_overview.md). For questions about other parts of the game, please see the [General FAQ](General_FAQ.md).
+
+## Can I change nation in play?
+
+To be a member of an Imperial nation you must be accepted by the [egregore](../crew/Egregores.md) of that nation. In effect, this means that an existing character who wants to change nation will need to seek out the egregore of the nation they wish to join and convince them to accept you into their nation. You should make sure you read the page on [nationality](../../in-character/nations/general/Nationality.md) so that you understand the implications of joining a new nation.
+
+If your character changes nation, after the egregore has accepted them into the new nation, you will need to make sure your character's updated nationality is recorded. The egregore may be able to do this for you, but normally you will need to go to [GOD](GOD.md) and ask one of the crew there to update your character data.
+
+Changing your nation does not automatically move your character's [resource](Resource.md). Your resource is not moved but a new one can be allocated to you in your chosen territory by the Civil Service. If you wish your character to have a resource located in the new nation and territory, you will need to [get a new resource in the new nation](Resource.md#changing-resources). If you do not do this, the resource will be subject to a [production penalty](Resource.md#resources-in-other-nations). Some [rituals](Rituals.md) and some [elections](../../mixed/titles/Senator.md#appointment) will also be affected by your character having a resource that is not located in their nation. There is an in character admin fee of 2 crowns for this. Any rituals, effects or upgrades on your resource will not be carried across to the new one.
+
+## Can I play a mixed-nation character?
+
+All players must choose a single nation for their character. Although a character may have changed nation, the nature of the setting means that they should use the culture, costume and characterization of the nation they are a member of now. This page about [nationality](../../in-character/nations/general/Nationality.md) gives more information about why characters in Empire are from a single nation.
+
+## Can we play a mixed-nation group?
+
+At the event, the main field will be split into ten distinct camping areas, one for each of the nations and one for the Imperial Orcs. Nation is your primary source of identity and the key route into all the politics of the game, so any Marcher character that spends their time hanging around in the Dawnish camp is likely to be cut out of a significant portion of the game. For this reason alone we are actively discouraging mixed-nation groups and asking players to focus on creating a group that draws from one nation.
+
+There are significant rules penalties for mixed-nation groups. Characters take the battlefield by nation, so you cannot take the battlefield and fight together as a group. You can't be part of the same sect and gain any religious benefits and you can't be part of the same coven and work together to perform rituals. In addition you cannot participate in the politics together as the politics of Empire is segregated on national lines.
+
+All of these elements of the game have been deliberately designed to discourage players from playing in mixed nation groups, because we believe it is much more likely that players in mixed nations groups will have a very bad time. In addition to the significant rules penalties described above, you may be ostracised by your fellow players. If that happens you risk being cut out of the roleplaying of the camp, along with your inability to participate in the battles, rituals and politics of the Empire.
+
+It is important to point out that the nations are all part of a single Empire - they might have political differences on many issues but they are fundamentally on the same side. As such it is perfectly reasonable to begin the game having existing alliances and contacts with groups in other nations. If half of your friends want to come from Varushka and half want to play Winterfolk then we would advise you make two groups - one from each nation - and put links between them in your respective backgrounds. It's normal to have close friends and allies from other nations.
+
+## Can I play an Imperial orc in the Marches?
+
+Imperial orcs are a nation - they have their own camp, their own armies, their own generals and so on. Anyone planning to play an Imperial Orc should be based out of the Imperial Orc camp. Orcs can't join most Imperial nations (except for the League) as the egregore is not able to bond an orc to the nation.
+
+While we appreciate that this would make the character unique and be a point of interest for everyone who interacted with you - what it would do ultimately is undermine the unique nature of the Marches and of the Imperial Orcs - because each camp would become less and less distinct. We have taken the decision to say no to all these requests because otherwise the game would lose all identity, the character and flavour of each camp would be lost and the net result would be that the game became more bland for everyone.
+
+## Can Imperial Orcs change nation?
+
+It is not possible for a human character to join the Imperial orcs - or for an orc to join a nation other than the Imperial Orcs or the League. The reason for this decision is to preserve the character and flavour of each nation - the orc nation would quickly be watered down by the presence of any significant number of humans in their camp. Likewise, the unique character of the Imperial Orcs would quickly be lost if there were Imperial orcs in every nation.
+
+The in-character reason why this is not possible is that the magic of the egregore rejects any attempt for an individual, or small group, of a different species to join the nation. Regardless of the views of the individual egregore - and no matter how closely they attempt to follow that nation's customs - it is not possible for them to form a bond with the egregore. It is possible for larger groups to join a previously human nation - such as the Apulian orcs joining the League - but that is a major undertaking and under the purview of plot.
+
+## Can I be a Dawnish knight without being Dawnish?
+
+No. To be knighted is to be a member of a [Dawnish](../../in-character/nations/dawn/Dawn.md) [noble house](../../in-character/nations/dawn/Noble_house.md) - which means being a member of a Dawnish group - for which you must be Dawnish.
+
+## Can a Steinr be a Stormcrow?
+
+Yes, any Wintermark character, whether [Steinr](../../in-character/nations/wintermark/Steinr.md), [Suaq](../../in-character/nations/wintermark/Suaq.md), or [Kallavesi](../../in-character/nations/wintermark/Kallavesi.md) can be a [Stormcrow](../../in-character/nations/wintermark/Wintermark_religious_beliefs.md).
+
+## Can I be more than one archetype?
+
+When you create your character you can choose a single character archetype from those described for the nation on the wiki. Archetypes are completely optional, you don't have to have one but it tells us a lot about what you consider to be the main role of your character, and we use them when writing **some** plots. For instance, if we are going to write some plot involving combat in Urizen - then we might aim that plot at players who have told us they are playing a [sentinel](../../in-character/nations/urizen/Sentinel.md). If we're writing plot involving ritual magic in Dawn then we'll look at who is playing an [enchanter](../../in-character/nations/dawn/Earl.md#enchanters).
+
+It is difficult for a character to fulfil more than one role at once, though not impossible. At character creation we ask you to pick the archetype that is *most* relevant for your character. We *may* then use that information when looking for characters to involve in new plot we are writing. However archetypes are also about the setting and your characterisation, there are no game rules for them, it is simply a shorthand for how you present your character and what you tell the world about yourself. A [Wintermark thane](../../in-character/nations/wintermark/Wintermark_political_leadership.md) might also be a [grimnir](../../in-character/nations/wintermark/Wintermark_military_concerns.md#grimnir). However the social role, the vows involved, or simply the time required will often make it difficult to fully portray, or even be accepted, as more than one archetype at once.
+
+See also a longer answer on this [here](../game-design/Writing_about_Empire.md#on-archetypes).
+
+## What if my nationality or archetype is disputed?
+
+Only members of a nation may vote in that nations senatorial elections - and in some cases only members of certain archetypes or characters with elevated social status may vote. For instance in Dawn, only nobles who have passed the Test of Mettle may participate in the senatorial tourney. In most cases who is or is not a Dawnish noble is obvious to everyone present - and the assumption is that all characters will react accordingly. If however there is some genuine doubt, then characters present may dispute an individuals nationality or status.
+
+If that happens, then the civil service will look to the nation's egregore to make a ruling on the matter. An egregore is best placed to know if a character is genuinely or who they claim to be. The election will be halted while the egregore talks privately to the character in question. If the character is able to convince the egregore that they are who they claim to be then they will be allowed to participate in the election. If the *player* is uncertain, perhaps because they are new to the game, then the egregore will take the time to help them to understand what is involved and work out what the correct answer is.
+
+## What happens when different nationalities marry?
+
+In Empire, most marriages are assumed to be between members of the same nation. Marriages between characters from different nations are not that unusual but most weddings involving NPCs will usually see one party join the nation of the other. This isn't a requirement - but the average Navarr citizen who joins a Marcher household - stops travelling, starts working the land - is going to become a Marcher over time simply because of the way nationality works in Empire. Of course it's possible for a Navarr to marry a Marcher and carry on travelling with their striding - only seeing their spouse for a few days each season or less. But that sort of arrangement would seem as difficult and unusual to Imperial citizens as it would to us today. There are no phones in Empire, and travel takes days or weeks. So a Highborn citizen married to a Varushkan, each living in their own lands, will only be able to see each other rarely and at great cost.
+
+For PCs, who only actually play their characters for a few days of the year when they are all together at Anvil, these issues are less obvious. None-the-less, a player should really think about what happens to their character if they get married. They have three basic options, they can roleplay that their married characters live apart but meet at Anvil and perhaps other times. A player who [wants their character to move to live in another territory](Resource.md#changing-territories), can do so by contacting PD to request a new resource (note that it is very expensive for an Imperial citizen to live in lands other than their own). Finally a character who wishes to change nation can speak to the egregore who will advise them on what they need to do.
+
+## Can I play a foreigner?
+
+No. All player characters must be Imperial and live within the Empire. If you are *fluent* in one of the languages spoken in a foreign nation then you can create a character who was originally from there but who has now become a citizen of the Empire if you wish.
+
+A character may also have foreign connections in their past, or have been born or lived for a time in a foreign country, but at time of play must be an Imperial citizen belonging to, and resident in, an Imperial nation and bonded to an egregore. If you choose to play a character with foreign connections there is no further information available to you than that which is already on the wiki. It would be sensible to take this lack of knowledge into consideration when creating your character and to find reasons for your lack of knowledge and understanding of the language to the level of your out of character ability.
+
+---
+
+Categories: [FAQ](../../indexes/by-category/FAQ.md)

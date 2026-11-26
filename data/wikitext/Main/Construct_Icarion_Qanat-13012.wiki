@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:387YE Summer]]
+__NOTOC__
+<quote by="Proposed: Mareave, Seconded: Zenith">To construct the Icarion Qanat. Self Funded.</quote>
+==Overview==
+* Constructs an [[edifice]] in Icarion, [[Mareave]]
+* Passed
+* More information can be found in the '''[[Million_miles_of_water#A_New_Qanat|Million miles of water]]''' wind of fortune
+
+==Date==
+* Summer 387YE
+
+==Cost==
+* Costs as per opportunity
+* 40 weirwood
+* 144 crowns (increased by the [[Region_qualities#Under-developed|under-developed]] nature of Icarion)
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Icarion_Qanat}}
+==Outcome==
+* Now complete, the arid quality has been removed from [[Mareave#Icarion|Icarion]]

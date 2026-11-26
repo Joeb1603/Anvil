@@ -1,0 +1,5 @@
+<div style="float: right; width=300px; margin-right:10px; margin-left: 10px; clear: right;">
+{{#lst:Archive:All_Election_Results|{{{1}}}}}
+</div>
+==Recent Senate Elections==
+As an Imperial territory, {{{Territory}}} {{{Controlled|is}}} represented by a [[senator]] elected in the {{{Season}}}. {{#lst:Archive:All_Election_Results|{{{1}}}_election}} The table to the right shows the citizens who have been elected to hold {{{2|this title}}} in the years since [[Empress Britta]] died.

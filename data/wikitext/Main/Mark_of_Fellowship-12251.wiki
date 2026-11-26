@@ -1,0 +1,43 @@
+==Rules==
+===Autumn Magnitude 2===
+===Performing the Ritual===
+{{Casting time|2}} {{Target Character}} The target character must be willing to receive the mark of fellowship. The performance must include a solemn promise by the target to uphold the principles and goals of the Imperial sodality they are joining.
+
+===Effects===
+This ritual places an enduring magical mark on the target character which can be perceived only with magical detection. The mark created by this spell takes the form of the symbol for one of the current [[Imperial sodality|Imperial sodalities]], as chosen by the target. If an Imperial sodality is [[Powers_of_the_Imperial_Senate#Imperial Sodalities|dissolved]], its associated mark of fellowship vanishes from every individual who possesses it.
+
+A mark of fellowship can be detected by a [[detect magic]] spell cast on the character for that ''specific purpose'' (a detect magic spell cast for any other purpose does not reveal the mark). If the caster of the detect magic bears the same mark of fellowship as the target they discover that their marks are the same; otherwise they only discover that the target has a mark of fellowship.
+
+A character can have only one mark of fellowship at a time - subsequent casting of the ritual replaces a previous mark. It ''is'' possible to perform this ritual with the intent of creating "no mark" to remove an existing mark of fellowship without replacing it. The character can still bear magical marks created by other rituals such as the [[Arcane Mark]] of a [[Conclave order]] or the wicked [[Mark of Agramant]].
+
+The mark of fellowship is not restricted to any part of the target's body; it cannot be hidden from detection by covering it up.
+
+The mark of fellowship remains until it is replaced; it may persist even through death.
+
+===Additional Magnitude===
+This ritual can affect additional characters from the same [[Groups#Bands|band]] (the same coven, sect, or banner). Each additional character increases the magnitude by 1. Additional characters must be present throughout, and all characters targeted by the ritual must make their own solemn promise, and receive the same mark of fellowship.
+
+==Description==
+This ritual is used when joining an [[Imperial sodality]]. The ritual shares many similarities with the [[Arcane Mark]] adapted in the first years of the Conclave by [[Urizen]] magicians. Through clever use of hearth magics involving identity and the nature of being an Imperial citizen, a ritual that allowed any Imperial citizen to mark any other Imperial citizen as a member of a recognised sodality was created.
+
+As with Arcane Mark, the purely political decisions of the [[Senate]] directly affect it. When a new Imperial sodality is formally created or dissolved, the marks available change appropriately. The general consensus is that this has some unexplored interaction with the [[Laws_of_magic#The_Law_of_Dominion|Law of Dominion]] and the [[Laws_of_magic#The_Law_of_Bonds|Law of Bonds]]. Experimentation by the [[Unfettered Mind]] has conclusively proved that it is not possible to use the ritual to create a Mark of Fellowship for anything other than a recognised Imperial sodality, nor to perform the ritual without the participants being cognisant of the sodality they wish to join and the nature of its precepts and goals. The promise required as part of the casting is a major requirement for the ritual to work - it aligns the target with the symbol that represents the sodality and allows the magic to create a durable mark.  
+
+Magical detection only allows a Mark of Fellowship to be seen if the caster specifically uses the spell in that fashion, and when they do, no other information is uncovered by their detection. It is notable that, like Arcane Mark, one cannot simply detect which sodality an Imperial citizen belongs to (if any), only that they are a member of a sodality and whether it is the same as the caster's or not.
+
+Any mark has a wider context than just showing a person to be a member of an order; divination magic grounded in the lore of Day can be used to discover basic information about people who bear the same Mark of Fellowship as one of the [[Rituals#Contributors|contributors]] in the nearby vicinity. The civil service perform this ritual at the start of each summit as part of their task to provide the sodality a list of members.
+
+One perceived "weakness" of the ritual is that it prevents an Imperial sodality from restricting who can become a member. In theory any Imperial magician who knows of an Imperial sodality can use the ritual to induct themselves or any other citizen into that sodality, and the organisation itself has no say over the matter.
+
+===OOC note===
+It is not possible to 'falsify' a Mark of Fellowship, or to induct someone into a sodality against their will or while they are ignorant of the nature of the sodality. This means it is also impossible to use the ritual to kick someone out of a sodality unless they consent - the "no mark" effect still requires the target to be willing.
+
+It is important to note that this ritual does not create any sort of [[create_bond|bond]] - effects such as [[Black Iron Blade]] can't be used to remove a Mark of Fellowship.
+
+==Performing the ritual==
+The ritual is often performed in the presence of other members of the Imperial sodality. The target often makes a point of touching or associating themselves with a physical symbol of the sodality; it's common for [[Navarr]] to cut or trace a stylised version of the symbol onto the skin of the target, while many [[Urizen]] and [[Highguard|Highborn]] prefer to receive the ritual from someone who is already a member of their preferred sodality, strengthening bonds of connection and loyalty. [[Lann]] is often evoked during the performance, as are the virtues of [[Loyalty]], [[Pride]] and [[Ambition]] (and the associated paragons and exemplars).
+
+The ritual requires the target to make a solemn promise to uphold the principles and goals of the sodality. Sometimes this involves reciting a common catechism, or reciting the tenets from memory, but all that is required is a sincere statement that one wishes to join and promises to support the sodality. 
+
+[[Category:Autumn Ritual]]
+[[Category:Rituals]]
+[[Category:Imperial Sodality]]

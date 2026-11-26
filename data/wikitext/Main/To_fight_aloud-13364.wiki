@@ -1,0 +1,195 @@
+[[Category:Winds of Fortune]][[Category:387YE Winter]][[Category:Recent History]]
+<ic>"Listen carefully Aquila: they are ''right'' to cast us out, we are unwelcome visitors in their land, as we have always been. The tragedy is that they do not understand why they are right, they have found the right conclusion from the wrong reasoning. They have come to possess a beautiful painting yet display it facing the wall."
+
+The soft-spoken Acolyte looked up from their whetstone; "But if they're right, why must we be at such odds?"
+
+The old teacher smiled and shook his head. "The Way of Virtue does not lead to harmony. Two warriors can choose the same path, yet still fight when their paths cross."
+
+Aquila looked confused "Yes master, but what of the other sword scholars? Are we not to unite our own community? You were alive to remember before we rejoined the Empire and our friends ascended the ranks of the Imperial hierarchy. Why did they turn on us?"
+
+"Tolerance is the crack in the foundation of a strong society. Remember the words of Sulemaine: If you love a thing, be prepared to destroy it. Only then are you strong enough to protect it. Our fellow scholars turned to the Empire. They've compromised their beliefs, made their lives easier, and in so doing dulled the edge of their souls."
+
+"And the suffering of those souls?"
+
+Phocas hardened his gaze "Attend your work, Aquila. That is not our problem. The only soul you should concern yourself with right now is your own."
+
+Aquila did not resume. Sharpening his blade was dull work, especially when compared with discussing the teachings. "And...and if they kill us all?"
+
+"They may try. So too did General Cetratus, so too did the Druj at the Fall of the Four Winds. How quickly some forget the old lessons." The old Sword Scholar pressed his acolyte's sword back to the stone. "And if they succeed, that is alright too. We few shall walk in a straight line through the Labyrinth, slicing through its walls and return with renewed determination. Alas, if I do not survive this, I will not leave our former homes with no record of who we were."
+
+"You mean ... you intend to use it?"
+
+"Perhaps, Aquila. Perhaps."
+
+Swordsinger Phocas stroked the pouch strapped tightly to his chest, a small vial with a purple sparkling substance barely visible in the darkness of the cellar where they had taken refuge for the night.</ic>
+<div style="float:left; width: 300px; clear: left;">{{CaptionedImage|file=Sword.jpg|align=left|caption=Unwholesome influences must be eliminated if the innocent are to be protected.|width=300}}</div>
+==Overview==
+{{audio|link=https://www.youtube.com/watch?v=PuIMDzczHuI}}
+The re-integration of the [[sword scholar|sword scholars]] to [[Urizen]] and the wider Empire has never failed to be eventful. In the most recent development, the sword scholars split into two factions; one group who decided to forgo the teachings of Sulemaine that some claimed invoked the [[Malign_spiritual_presences#Hate|malign spiritual force of Purity]], and stay aligned with the Empire. Many of these scholars now hold high office in the Imperial bodies of state.
+
+The other group, under the ''nominal'' leadership of [[The_deepest_cut#Interred_With_Their_Bones|Severus of the Blinding Sun]], chose to withdraw from the Empire and remained committed to what they believe are the true teachings of [[Sulemaine|Sulemaine]] i Taziel. Facing the risk of execution should Imperial law catch up with them, most have gone into hiding in the Urizen mountains.
+
+A tension had grown in the mountains, one that could only last so long before something broke it. Last summit, a decisive blow was made that has completely unravelled the Disciples.
+
+==Judgement==
+*'''The Disciples of Sulemaine have been driven out of Urizen'''
+*'''Some have gone down fighting, unwilling to surrender their beliefs to the Empire's edicts'''
+*'''Those who have not been killed have been forced to flee'''
+*'''Several hallowed items have been recovered from the defeated Disciples'''
+
+In the Autumn of 387YE, three bodies of state spoke with a single voice. In the [[Senate]], '''Herminius of the House of the Wanderer''' and '''Thalia of Netherwatch''' brought forward the [[387YE_Autumn_Equinox_Senate_sessions#Criminalise_Disciples_of_Sulemaine|motion to criminalise membership of the Disciples of Sulemaine]]. At the same time, through the arguments of '''Elagabala''' as [[Grandmaster]] of the [[Sevenfold Path]], [[387YE_Autumn_Equinox_Conclave_sessions#Concord:_Hunt_Disciples_of_Sulemaine|the Conclave declared]] that all magicians should ''render aid by blade, spell, or mind to the people of Urizen as they hunt and kill the Disciples of Sulemaine and Severus of the Blinding Sun.'' Unsurprisingly, the Imperial [[Synod]] passed multiple statements with a greater majority urging the faithful to take action:
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 10px;">
+{{SOPInner|statement=Captains of Urizen! There is a poison in our fields. The Disciples of Sulemaine threaten by spreading the Blasphemy of Hatred, an idea long since tested and discarded as lacking. We send Herminius of the House of the Wanderer with 50 doses of liao to urge all to go forth and excise this pestilence from our home.|by=Solas of the Spire of the Waxing Sun, Urizen National Assembly|vote=216-0|when=Autumn 387YE}}
+
+{{SOPInner|statement=On behalf of the Urizen National Assembly, and I, a sentinel of Sunshaper Citadel. We recognise the Vigilance and Courage of captains sending their military units to kill Severus' Followers of Sulemaine. We recognise that military action taken against fellow Urizen is not a decision taken lightly, but that it remains a necessary one. Thanks to the recent developments in the Imperial Senate, it is now a legal one, too.|by=Leyna, Urizen National Assembly|vote=216-0|when=Autumn 387YE}}
+</div>
+
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="width:500px; float: right; margin-left: 10px;"
+|-
+! Military Captains who Drove out the Disciples
+|-
+| Alcuin
+|-
+| Athenus
+|-
+| Atreus
+|-
+| Boagrius Stillwater
+|-
+| Caius stillwaters
+|-
+| Camilla Stillwater
+|-
+| Cincinnatus
+|-
+| Clytemnestra of the House of the Wanderer
+|-
+| Cyrus Stillwater
+|-
+| Delara i Fijadoz i Guerra
+|-
+| Demicius Stillwater
+|-
+| Elagabala
+|-
+| Erebus Kentigern Highwind
+|-
+| Floria Sunshaper
+|-
+| Gavynn
+|-
+| Herminius of the House of the Wanderer
+|-
+| Hugh Ravenspire
+|-
+| Magnus
+|-
+| Marcus
+|-
+| Nicassia Avicia of Phoenix Reach
+|-
+| Scipio
+|-
+| Tancred de Coeurdefer
+|-
+| Valens Leos
+|-
+| Valerius
+|-
+| Varrus
+|}
+
+Over half an Imperial [[army|army's]] worth of Urizeni military captains sweep methodically across [[Redoubt]], [[Morrow]] and then [[Zenith]] visiting known temples and investigating leads provided by local spires. Many citadels are keen to lend aid in the form of information and supplies to the roving groups. When found, most Disciples resolutely unsheathe their eponymous weapons and make their final stand. They are quickly overwhelmed, even those scholars who are exceptional individual combatants are no match for a squad of sentinels acting in unison. A handful have attempted to flee with varying degrees of success, but there is no doubt that the Disciples of Sulemaine as any kind of identifiable group has been completely demolished. 
+
+{{SOP|statement=Vigilance teaches us to seek out the poison in your neighbour's fields, let your own crops be blighted. This assembly requests the writings of the Disciples of Sulemaine are preserved so they can be studied at a later date in order to prevent similar groups forming and to aid in detecting followers of the false virtue of hate.|by=Theodora, Vigilance Assembly|vote=256-30|when=Autumn 387YE}}
+The Vigilance Assembly requested that the writings of the Disciples be preserved, a call which some felt ran counter to the spirit of the the [[387YE_Spring_Equinox_Synod_judgements#Judgement_7|recent mandate]] enacted by long-time Cardinal Viviane Barossa which warned of the dangers all malign spiritual presences pose. As it was, the mandate did not get a greater majority in the General Assembly, and so many in Urizen openly question it, ironically a recent practice very much spear-headed by the sword scholars themselves and their open hostility to the Synod's authority.
+ 
+As it is, this excursion was one of a military nature, rather than a delegation of [[seer|seers]] looking to gather information and little is discovered about Sulemaine that is [[Sulemaine|not already known]]. However those involved ''have'' managed to recover several hallowed items. (Anyone who took part in the Hunt the Disciples downtime action will receive a ribbon to attach to an appropriate item, ideally a weapon or piece of jewellery. If your character would have destroyed or disposed of the item, just hand the ribbon back in to GOD).
+
+You can read more about opportunities for the Urizen National Assembly to capitalise on this Vigilant fervour in the '''[[Everything is trying to kill us]]''' wind of fortune.
+
+==Fallen Hero==
+<div style="float:right; max-width: 500px; width: 50%; margin-left: 10px;"><box>
+<p>'''Surviving Disciples'''<br>
+The military action has been a resounding success, breaking the power of the Disciples of Sulemaine. Everyone who could pose a threat to the Empire at this time is dead or captured. Only three groups are known to have escaped and none of them possess the power to cause any trouble for the Empire at this time.</p>
+
+<p>We've presented details here about those groups to foreshadow any ''new'' plot that we ''might'' create in the future. Nothing will happen with these groups until that happens - the only way to track one of them down would be to use a plenipotentiary to [[Kimus]] to find where they have gone.
+</box></div>
+*'''The leader of the Disciples of Sulemaine ''Severus of the Blinding Sun'' has been captured and will be brought to Anvil for trial on 13:30 on Sunday'''
+*'''Severus of the Blinding Sun will travel to Anvil at 15:00 on Saturday to face a potential inquisition'''
+*'''Remaining groups who survived the purge have splintered into a multitude of sub-factions who are primarily focused on survival'''
+Severus of the Temple of the Blinding Sun has been captured. Commonly regarded as the defacto leader of the Disciples of Sulemaine. It is undeniable that he was their most prominent scholar and teacher, the best known by far, and widely respect by other Disciples. He is being brought to Anvil to face trial and presumably execution at the Winter Solstice as an unrepentant member of the Disciples of Sulemaine.
+
+Despite his membership of the recently outlawed order, the Synod are yet to pass judgement on whether he has committed any crimes against the faith. [[385YE_Summer_Solstice_Synod_judgements#Judgement_87|Aspar's request]] for a [[Writ of Excommunication]] received heavy support, but did not get the legally required greater majority. In some ways, the timing of his arrival at Anvil is poor, since it coincides with the release of new guidance for magistrates on how to apply Imperial law when prosecuting a [[religious crime]]. Given the circumstances, the magistrates have indicated that they will make Severus available to the Synod for inquisition, should they wish to do so, before the trial is conducted. 
+
+Severus has consented to face an inquisition by the National Assembly if any priest is brave enough to challenge him. The only condition is that it must be the raising priest, and only the raising priest that he will engage with. It must be a true duel. 
+
+If multiple priests manage to successfully pass a call to inquisition by the time he arrives at the Urizen Camp in Anvil on Saturday at 15:00, he will only recognise the authority of the priest whose inquisition passed with the highest margin, legal requirements of the Synod be damned.
+
+Severus's Trial will take place on Sunday at 13:30 in the Sodality Chamber. Chief Magistrate ''[[Civil_Service#Imperial_Magistracy|Cosme i Zuhri i Guerra]]'' is scheduled to preside over proceedings. Severus has not made any comment on whether he intends to seek a member of the Synod to plead [[clemency]] on his behalf, though it seems astonishingly unlikely.
+
+With Severus captured, and the majority of the Disciples of Sulemaine slain, some groups have attempted to flee or go into hiding. The refugees from the ''Temple of the Inviolate Spirit'' attempted to seek refuge with the Silver Flame in Cinion, Spiral, but were turned away and summarily captured. Either Caela and her people have no sympathy for blasphemers, or perhaps they are just aware of the precarious nature of their independence. The ''Last Word'' sect attempted to flee into the Mountain of The Moon, but by the time Imperial forces arrived they were found tied up with a brief note attached to their [[arbiter]] - "In reciprocity, the people of Tsark shall not intrude into Imperial matters."
+
+A handful of those who were once Disciples have managed to escape Imperial justice. A lone survivor from the ''Fellowship of the Door'', a [[stargazer]] named Valeria, was seen being escorted by a Herald of Hayaak to a Summer regio. A dozen members of the ''Wayfarer's Answer'' temple have definitely hidden somewhere in Spiral, possibly by taking advantage of the statues offered by [[Sung]] to support Urizeni still living there. Finally the ''Ten Echoes'', a small coven from Lustri, fled north apparently heading for the Sarangrave or even further.
+
+Urizen is second perhaps only to Dawn in prevalence of Heralds of the Eternals being seen among citizens, some fear that there will have been Disciples who will have used a [[Treacher%27s_Quill|certain ritual]] from Urizen Lore to turn to the one eternal who is [[Agramant|always willing to help]]. So far there is no evidence of that happening, but nobody can completely rule it out.
+
+==The Forge==
+{{SOP|statement=Damakhan's Wisdom, the blade intended for Sulemaine is reforged and her riddle solved by its wielder Clytemnestra of the House of the Wanderer. It would not have been possible without the following: Esteban of Zenith Ascendant; Athenus, Cato, and Orania Neofoti of the House of the Wanderer; Kindra Surefoot of Wintermark; Xenia of Urizen; Edmundo of Damakhan's Forge; Members of the Wise Citadel and the Magpies. Your virtuous efforts are recognised.|by=Delara of the Wanderers, Urizen National Assembly|vote=264-0|when=Autumn 387YE|size=small}}
+*'''News of the sword originally intended for Sulemaine has spread far and wide across the High Peaks'''
+*'''The words of the Synod have provoked interest in the fate of such an important piece of Urizeni history'''
+The Urizen National Assembly have let it be known that ''Damakhan's Wisdom'', the blade crafted for Sulemaine by the legendary Urizeni artisan has been reforged. Had the Disciples of Sulemaine endured, they might have sought to reclaim the false paragon's heirloom, but now they are scattered and broken, that threat is gone. With the sword scholars [[385YE_Autumn_Equinox_Synod_judgements#Judgement_40|turning their back on Sulemaine]], this relic has lost some of its religious importance to the people of the High Peaks. That said, it is still a masterwork sword created by Damakhan herself, a link to Urizeni history from a time before the Empire was even forged. As a result, people are interested to know what will become of the Damakhan's legacy, now that the Disciples of Sulemaine are dealt with.
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=Esteban Ezmara of Zenith Ascendant.jpg|caption='''Esteban Ezmara of Zenith Ascendant''', Architect of the Crucible|align=left|width=200}}</div>
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=Clytemnestra.jpg|align=left|caption='''Clytemnestra of the House of the Wanderer''', General of the Argent Sword|width=250}}</div>
+Damakhan's Forge was recently moved by the [[Sadogua|Brother of Wizards]] and has become part of the [[Zenith#Crucible_of_Fate|Crucible of Fate]]. If Damakhan's Wisdom were made part of the [[New_Imperial_titles#Regalia|regalia]] of the [[Architect of the Crucible]], it would boost the prestige of the Architect and make it clear that they were Damakhan's heir. It would ensure the importance of the Crucible as an ideal location for a [[Inspirational_location#Memorials|memorial]], if Damakhan were ever to be [[Recognition|recognised]] by the Imperial Synod and make it easier to [[historical research|research Damakhan's life]]. One enthusiastic young Architect suggests that one day, it might be expanded into a full [[Runeforge]], however they were quickly chided for getting far too ahead of themselves.
+
+Of course the sword could be made the regalia of any Urizeni national position - it might even be better to create a new title, one specially designed to bear the sword and preserve Damakhan's legacy. However it is not just the Urizeni who are interested in the sword. Two [[eternal|eternals]] have both shown interest upon hearing the true sword has been recovered.
+
+''[[Leviathan|She Who Counts the Ripples]]'' is a noted collector of items of historical significance, liking to keep such artefacts safe from the erosion of time. The ''Abyssal Lord'' notes with approval that the sword's wielder is part of the ''Eye of the Wanderer'', a Coven more than capable of casting her ritual. Should they do so and submit the question "What might Leviathan offer us for Damakhan's Wisdom?" and include a few suggestions of what they might be interested in, ''The Deepest One'' will make an exception to her usual rule in order to briefly discuss what Boon he might offer in exchange for allowing him to become the sword's custodian.
+
+On the other hand, the ''[[The_Thrice-cursed_Court#Surut|Ashen Knight]]'' has also expressed an interest in acquiring this artefact that was meant for "one of the great haters of Imperial history." The [[Inhabitants_of_the_realms#Heralds|herald]] relaying this information notes that the Court were apparently rather fond of the previous [[general]] of the [[Citadel Guard]]; '''Nicassia Avicia of Phoenix Reach''' and would be more than happy to be friends with a new Urizeni general of similar temperament. If '''General Clytemnestra''' joins the party going to the [[Ourselves_and_immortality#Civility|parley with the Thrice-Cursed-Court]] and offers the sword to the ''Burnt Steward'' as a gift, he will provide the ritual text for ''Bond of Thorn and Razor'' in return, as a gift for her people. Imperial records make no mention of what this ritual does, only that [[Zakalwe|Zakalwe]] clearly [[Carve the Crystal Guardian#Assurance|takes some issue with it]].
+
+Whatever happens, the Sword currently belongs to Clytemnestra. Unless she had stolen it from someone protected by Imperial law, the [[Imperial Constitution|constitution]] grants her freedom to do with it as she wishes, be it to take advantage of any of these opportunities, continue to bear it as a personal weapon, or indeed mount it on her mantlepiece as [[Pride_of_the_Marches#The_Blade_of_Tom_Drake|Tom Drake famously did]] with his forebear's heirloom. The act of the national assembly has aroused a great deal of interest in the heirloom, but only Clytemnestra has the power to decide what happens to it now.
+
+==Fight or Flight==
+* '''Three conjunctions of the Sentinel Gate have been identified that involve the disciples of Sulemaine
+The War Scout has informed the civil service of several conjunctions Imperial Heroes may wish to take advantage of to eliminate some of the fleeing groups of Disciples.
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=Elagabala.jpg|align=left|caption='''Elagabala''', Grandmaster of the Sevenfold Path|width=250}}</div>
+===Unexpected (Spiral)===
+* '''A group of Disciples are attempting to flee into Mareave'''
+* '''This skirmish is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''The ''Grandmaster of the Sevenfold Path'' is [[Sentinel_Gate#Prognostication|responsible]] for intercepting them'''
+{{NoInnocentsPresent}}
+A tall, thin creature in sparkling robes with sharp eyes and feathered brow, ''Pythia of the Silver Fields'' emerges from the Imperial [[regio]], somehow managing to ''saunter'' through the portal. They bear a message following the [[declaration]] of [[concord]] of the Grandmaster of the [[Sevenfold Path]]. Apparently, the ''[[Jaheris|Arbiter of the Ardent Spire]]'' is keen to help '''Elagabala''' hunt down the members of her former 'lawless sect whose philosophy promotes silence, shame, and inaction' and is willing to share the location of one such group who are attempting to flee across the border of [[Spiral]] into [[Mareave]] where they may be able to get lost in the rocky hills of this new Imperial land. The ''Silverbrow'' does not ask for any formalities such as a declaration of [[Alignment#Acceptance|acceptance]], any payment or anything so transactional and gauche as that; they merely wish to continue improving their relationship with the magicians of the Conclave by helping out where they can. That said, a token of the Grandmaster's gratitude the next time they receive a plenipotentiary from the Archmage of Summer wouldn't go amiss, of course.
+
+As this is a direct offer to the Grandmaster, those interested in catching these criminals before they escape should seek '''Elagabala''' to venture through the [[Sentinel Gate]].
+
+<box><big>'''{{Black Plateau}}'''</big><br>
+All characters on the ''Unexpected'' skirmish will be under the effect of [[Calls#WEAKNESS|WEAKNESS]] that cannot be removed whilst on the skirmish and experience heightened emotions unless they:
+* Expend a hero point upon entering the area
+* Are subject to an anointing
+* Overcome the oppression using their [[Cambion#Roleplaying_Cambion|cambion]] lineage
+* Are bonded to a magical item or have a ritual enchantment that mitigates effects like these
+</box>
+
+===Borderland (Redoubt)===
+* '''A fleeing band of Disciples is attempting to take refuge with the Grendel'''
+* '''This skirmish is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* '''The ''Champion of Loyalty'' is [[Sentinel_Gate#Prognostication|responsible]] for dealing with them'''
+{{NoInnocentsPresent}}
+One group of Disciples of Sulemaine who are attempting to flee south to throw themselves upon the mercy of the Grendel are the members of the ''Temple of the Stinging Blade'' of [[Redoubt#Limus|Limus]], [[Redoubt]], famous for using blade oils to make certain that only one well-placed strike is needed to fell any given foe. They have a [[Magic_items#Schema|schema]] they are hoping to barter for safe passage away from Imperial persecution. 
+
+The civil service has determined that whoever is appointed as the [[Champion of Loyalty]] is the best person to arrange the expedition to catch these betrayers before they sell such a powerful resource to barbarians.
+
+===Precious Cargo (Morrow)===
+* '''A band of Disciples are planning something with a dose of true liao'''
+* '''This skirmish is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter'''
+* ''' The ''Polemarch of Highwatch'' is [[Sentinel_Gate#Prognostication|responsible]] for stopping them'''
+{{NoInnocentsPresent}}
+
+Finally, there have been reports from sharp-eyed sentinels in [[Morrow]] of a band of Disciples who are said to be in possession of a rare errant dose of [[Liao#True_Liao|true liao]]. They appear to be making their way towards [[Morrow#Highwatch|Highwatch]], but the conjunction found by prognosticators opens in their path. What's most concerning is that they might be intending to use the dose of true liao to create a permanent aura of the malign force of Purity there, the site where Urizen committed to the Empire over three centuries ago. The effects of such a thing are impossible to predict, but at the worst, it could send shockwaves through the very bones of the nation. 
+
+The sentinels have sent a request to whoever is elected as the [[Polemarch of Highwatch]] at the upcoming summit to send reinforcements to defend the historic site. Traditionally speaking, Sentinels ''are'' the way one deals with Sulemaine's followers, after all.
+
+{{Sword Scholar Links}}

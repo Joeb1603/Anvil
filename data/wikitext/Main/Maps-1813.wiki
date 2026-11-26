@@ -1,0 +1,138 @@
+__NOTOC__
+==The Wider World==
+<row-fluid> 
+<span4>
+{{ThreeColIconImage|file=Four Continents.jpg|caption=A fabric map of four of the continents in the known world|width=1000|link=file:Four Continents.jpg|align=center}}
+</span4>
+<span4>
+{{ThreeColIconImage|file=Map-illustrated-detailed.png|caption=Detailed map of the Empire and some of the territories surrounding it|link=file:Map-illustrated-detailed.png|width=1000|align=center}}
+</span4>
+<span4>
+{{ThreeColIconImage|file=WorldSmallThumb.png|link=Map - Outside The Empire|caption=Outside the Empire}}
+</span4>
+</row-fluid>
+
+==The Empire==
+<row-fluid> 
+<span5>
+{{CaptionedImage|file=Map-illustrated-superdetailed-MASTER-colour-e4-2017.png|link=https://www.profounddecisions.co.uk/empire-wiki/File:Map-illustrated-superdetailed-MASTER-colour-e4--2017.png|caption=Superdetailed colour Empire Map|width=500|align=center}}
+</span5>
+<span5>
+{{CaptionedImage|file=Map-illustrated-superdetailed-e3-2017.png|link=https://www.profounddecisions.co.uk/empire-wiki/File:Map-illustrated-superdetailed-e3-2017.png|caption=Superdetailed Empire Map|width=500|align=center}}
+</span5>
+</row-fluid>
+
+<row-fluid> 
+
+<span4>
+{{ThreeColIconImage|file=Empire-map-woodcut-hollow.gif|link=Map - Empire Overview Woodcut|caption=Empire Overview (Woodcut)}}
+</span4>
+
+<span4>
+{{ThreeColIconImage|file=Empire-map-illus.gif|link=Map - Empire Overview|caption=Empire Overview}}
+</span4>
+
+<span4>
+{{ThreeColIconImage|file=EmpireDetailedMapThumb.jpg|link=Map - Detailed Empire|caption=Empire Detailed}}
+</span4>
+</row-fluid>
+==Imperial Nations==
+
+<row-fluid> 
+
+<span4>
+{{ThreeColIconImage|file=MapBrassCoastThumb.png|link=Brass Coast Maps|caption=The Brass Coast}}
+</span4>
+
+<span4>
+{{ThreeColIconImage|file=MapDawnThumb.png|link=Dawn Maps|caption=Dawn}}
+</span4>
+
+<span4>
+{{ThreeColIconImage|file=MapHighguardThumb.png|link=Highguard Maps|caption=Highguard}}
+</span4>
+
+</row-fluid>
+
+<row-fluid> 
+
+<span4>
+{{ThreeColIconImage|file=MapLeagueThumb.png|link=League Maps|caption=League}}
+</span4>
+
+<span4>
+{{ThreeColIconImage|file=MapMarchesThumb.png|link=Marches Maps|caption=The Marches}}
+</span4>
+
+<span4>
+{{ThreeColIconImage|file=MapNavarrThumb.png|link=Navarr Maps|caption=Navarr}}
+</span4>
+
+</row-fluid>
+
+<row-fluid> 
+
+<span4>
+{{ThreeColIconImage|file=MapUrizenThumb.png|link=Urizen Maps|caption=Urizen}}
+</span4>
+
+<span4>
+{{ThreeColIconImage|file=MapVarushkaThumb.png|link=Varushka Maps|caption=Varushka}}
+</span4>
+
+<span4>
+{{ThreeColIconImage|file=MapWintermarkThumb.png|link=Wintermark Maps|caption=Wintermark}}
+</span4>
+
+</row-fluid>
+==Foreign Nations==
+===Thule===
+<gallery heights=400 mode="packed">
+Otkodov-simple.png|link=Otkodov
+</gallery>
+
+==Barbarians==
+===Jotun===
+<gallery heights=300 mode="packed">
+Hordalant.png|link=Hordalant
+Skallahn-map.png|link=Skallahn
+ReinosRegions.png|link=Reinos
+TromsaRegions.png|link=Tromsa
+</gallery>
+
+===Druj===
+<gallery heights=300 mode="packed">
+Salt_Flats_of_Sanath_Regions.png|link=Salt Flats of Sanath
+Forest of Ulnak regions.png|link=Forest of Ulnak
+</gallery>
+
+===Grendel===
+<gallery heights=300 mode="packed">
+Ayereed regions.png|link=Ayereed
+</gallery>
+
+==Tactical Maps==
+<row-fluid> 
+
+<span4>
+{{ThreeColIconImage|file=Tactical Master Map.png|link=Map - Coloured Territories|caption=Empire and close nations}}
+</span4>
+
+<span4>
+{{ThreeColIconImage|file=Map-tactical-region-keyword-better.jpg|link=Map - Regions with Keywords|caption=Regions with Keywords}}
+</span4>
+
+<span4>
+{{ThreeColIconImage|file=Map-tactical-ic-watercolour-small.jpg|link=Map - Coloured Territories|caption=Coloured Territories}}
+</span4>
+
+</row-fluid>
+
+Maps by Daisy Abbott.
+
+Important note, control of territories and even regional keywords can change from event to event. Please try to make sure you are using the most recent version of the map that is available. There is no guarantee that the maps will be updated every event.
+
+The [[Gazetteer]] tells you all about the places on the map.
+
+[[Category:The Empire]]
+[[Category:Maps]]

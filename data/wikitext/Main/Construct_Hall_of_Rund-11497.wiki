@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Proposed: Kallavesa, Seconded: Kahraman">To commission the Hall of Rund in Rundhal, Kallavesa, a sinecure giving liao. To be held by the Speaker of the Crows who will lead and guide the National Assembly, appointed by the Wintermark National Assembly.</quote>
+==Overview==
+* Constructs a [[sinecure]] in [[Kallavesa]] as per the '''[[Old_ways#The_Hall_of_Rund|Old ways]]''' wind of fortune
+* Passed
+==Date==
+* Winter 385YE
+==Cost==
+* Costs as per opportunity
+* 10 wains of weirwood
+* 6 wains of white granite
+* 48 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Hall_of_Rund}}
+==Outcome==
+* Now that work is complete, the [[Speaker of the Crows]] will be able to be appointed by the National Assembly of Wintermark for the first time at the Spring Equinox 386YE

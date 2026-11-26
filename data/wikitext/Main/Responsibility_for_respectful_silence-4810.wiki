@@ -1,0 +1,17 @@
+<ic>After emergency supplies are voted for, that there is a moment of silence for the dead.<br><br>''Proposed by Conscience of the Senate, seconded by Morrow.''</ic>
+
+===Overview===
+* Amend the responsibilities of every Imperial title with the right to raise a motion for [[Casualties#Emergency_Resupply|emergency resupply]] to include the responsibility to call for a moment of silence after the motion is voted on.
+
+===Date===
+* Winter 378YE
+
+===Campaign Outcome===
+* This motion amends the [[Imperial_title#Responsibilities|responsibilities]] of every [[senator]] and the [[Quartermaster General of the Imperial Armies|Quartermaster General]] to include the expectation that they will call for a moment's silence after voting on a motion of emergency resupply.
+* Ignoring this responsibility may bring censure from the [[Synod]].
+
+[[Category:Senate Motion]]
+[[Category: 378YE Winter]]
+__NOTOC__
+
+<!-- If this motion is later overturned, edit all places where it is referenced which currently means [[Casualties#Emergency Resupply]], [[Senator#Responsibilities]] and [[Quartermaster of the Imperial Armies]] -->

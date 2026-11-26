@@ -1,0 +1,134 @@
+[[Category:Winds of Fortune]][[Category:386YE Summer]][[Category:Recent History]]
+<div style="float:left; width: 350px; clear: left;">{{CaptionedImage|file=News in Spring.jpg|align=left|caption=Keeping track of everything that happens at summits is hard work.|width=350}}</div>
+==Interlude==
+Downtime is now open, allowing players to process their character's downtime choices. The Summer Solstice winds of fortune will come out shortly before the next event. However, there are a number of significant events happening in the wake of the Spring Equinox that may affect some players' Downtime actions - primarily effects on personal resources or options for characters with [[military unit]] or [[fleet]] personal resources.
+
+On this page we'll be outlining, and offering some context for, these various effects. In most cases, there will be further information in the Summer Solstice winds of fortune. As always, these are quick OOC summaries to explain effects such as large-scale enchantments and curses. We'll cover all these and more when we start to present the winds of fortune for next event.
+
+'''The deadline for Downtime submissions is Midnight on Tuesday 25th June.'''
+
+==Warfare==
+Any player whose character controls a [[military unit]] can choose from a number of downtime options. Left to their own devices, a military unit defaults to [[Military_unit#Take_Independent_Action|paid work]] guaranteeing an income of herbs, ingots or measures, money, or mana crystals. Otherwise, they may log into the downtime system and choose to support an army or fortification, or assign to a special project such as a [[spy network]] or an [[Military_unit#Adventures|adventure]]. Players who want to support one of the [[Army|Imperial armies]] can also read the [[Army_orders|orders]] issued by each [[general]] before making their decision.
+
+As always, the guidelines around discussing military matters online can be found [[Online#You_may_not_post_Military_Updates|here]].
+
+===Provide Prosperity to Rachensgrab===
+* '''Imperial military units can send aid to the people of Rachensgrab
+* '''There is no production associated with this action
+* '''This action will be available until the start of the Autumn Equinox 386YE
+Following the addition of '''Eska Crowspeaker''' to the Chronicle of Heroism there has been a wave of enthusiasm for [[Say_her_name#Far_From_These_Shores|travelling]] across the Sea of Steel to Rachensgrab. Any military unit can take this action - which can be found under the independent action section - and it provides no production.
+
+If the Empire manages to send a force with a military strength of at least a thousand then that would be enough to get a short report of what was there, and if it was double that then it would make some meaningful impact.
+
+===Hunting Rats in Temeschwar===
+* '''Military units of the League can take on work hunting rats in Temeschwar
+* '''A starting military unit will receive 180 rings from this action
+Military units of the League are able to take advantage of the increase in demand for guards - both bodyguards and custodians of all kinds - and people prepared to wade through shit and hunt rats in the sewers.
+
+===Hunt for Maarik the Golden Tongue===
+* '''Military units of Wintermark can hunt down Maarik the Golden Tongue
+* '''There is no production associated with this action
+Following the election of one of the Winterfolk as Ambassador to Otkodov the Thule have allowed the military units of Wintermark to hunt for ''Maarik the Golden Tongue'' in the Silver Peaks of Sermersuaq. If at least a thousand force is assigned to this action then there will be an opportunity for Wintermark heroes to bring ‘’Maarik’’ to justice.
+
+===Slaughter the Weak===
+* '''Military units that accepted the boon of Siakha can go on a special adventure
+* '''It is not known what production this action will produce
+Following the boons offered by Siakha some military units enchanted with Merciless Wrath of the Reaver are able to take part in a special adventure to slaughter civilians of the Druj, Grendel, or Jotun. If at least twelve characters take this action then during the Summer Solstice 386YE there will be skirmish opportunities to slaughter barbarian orcs and take their wealth.
+
+===Clear Crimson Peak Mining===
+* '''Imperial Orc and Golden Pyramid military units can take part in clearing Crimson Peak Mining of trogoni
+* '''A starting military unit will receive 10 ingots of orichalcum from this action
+* '''This action will be available until the mine is cleared of trogoni
+Any [[Imperial Orcs]] or [[Golden Pyramid]] military unit play a part in regaining the mine. If the combined military strength of the units assigned to clear the mines is at least five hundred, then they will be able to kill all the trogoni and the mines can be claimed by the prospectors.
+
+===Imperial Guerdon===
+The Imperial Guerdon is a bursary set up by the Imperial Senate primarily to reward military units that support Imperial armies, spy networks, and fortifications. The value of the Imperial Guerdon is divided between each military unit and fleet that supports an army in proportion to their effective strength. The [[Quartermaster General of the Imperial Armies]] has the power to exclude any or all Imperial armies and navies, fortifications, or special projects (such as spy networks) from the Guerdon. If they do so, then a character who supports such an army, fortification, or special project will receive nothing for doing so. 
+
+This season the Imperial Senate voted to change the value of Guerdon to 150 thrones.
+
+This season, the [[Quartermaster General of the Imperial Armies]] has announced that shares of the Guerdon will be shared between military units supporting the following armies or opportunities:
+* [[Valiant Pegasus]]
+* [[Wolves of War]]
+
+==Fleets==
+* '''Imperial fleets can trade with foreign ports and receive valuable goods'''
+* '''Some ports give special bonuses or suffer special penalties'''
+* '''They can also take special actions such as engaging in independent action, or embarking on an adventure'''
+Certain trading destinations apply special effects if a fleet visits them, summarised on the [[386YE_Spring_Equinox_winds_of_fortune#Trade_Summary|Spring Equinox]] wind of fortune page. 
+
+Some fleets also have the opportunity to take part in special [[Fleet#Adventures|adventures]] that provide specific rewards. These options are found in the downtime menu as dropdowns. If you don't want to do something specific, your fleet will automatically participate in [[Fleet#Take_Independent_Action|privateering]] - the default independent action available to every fleet captain.
+
+===Provide Prosperity to Rachensgrab===
+* '''Imperial fleets can send aid to the people of Rachensgrab
+* '''There is no production associated with this port
+* '''This action will be available until the start of the Autumn Equinox 386YE
+Following the addition of '''Eska Crowspeaker''' to the Chronicle of Heroism there has been a wave of enthusiasm for travelling across the Sea of Steel to Rachensgrab. Any fleet can take this action - which can be found under the trade section - and it provides no production.
+
+If the Empire manages to send a force with a military strength of at least a thousand then that would be enough to get a short report of what was there, and if it was double that then it would make some meaningful impact.
+
+===Slaughter the Weak===
+* '''Fleets that accepted the boon of Siakha can go on a special adventure
+* '''It is not known what production this action will produce
+Following the boons offered by Siakha some fleets enchanted with Blood and Salt are able to take part in a special adventure to slaughter civilians of the Druj, Grendel, or Jotun. If at least twelve characters take this action then during the Summer Solstice 386YE there will be skirmish opportunities to slaughter barbarian orcs and take their wealth.
+
+==Other Effects==
+Every season sees large-scale effects impact individuals and nations. Where possible we've summarised these effects here.
+===Unleash the Maelstrom===
+* '''Madruga is under the effect of both ''Foam and Spittle of the Furious Sea'' and ''Thunderous Deluge'''''
+During the Spring Equinox the heroes of Anvil journeyed through the Sentinel Gate to [[Madruga]] in an attempt to [[The_cry_of_gulls#Siakha's_Maw_(Battle)|stop the cults]] of [[Siakha]]. The Empire was unable to prevent the cults from performing either [[Foam and Spittle of the Furious Sea]] or [[Thunderous Deluge]]; both of which were performed drawing on the power of [[Siakha]]. Now, storms wrack Madruga as both [[Hurricane_party#Unleash_the_Maelstrom|empowered curses]] begin to take their toll.
+
+===Bishops and Navigators===
+* '''Congregations preaching Ambition or Prosperity in Karsk, Necropolis, Redoubt, Sarvos, and Tassato receive an additional 18 rings this season
+Every congregation preaching Prosperity or Ambition in [[Tassato]], [[Sarvos]], [[Necropolis]], [[Redoubt]], and [[Karsk]] (thanks to the [[Custodian_of_Ivarsgard_Docks#The_Sarcophan_Mooring|Sarcophan Mooring]]) will receive an additional 18 rings income in the coming season due to visitors from the Sarcophan Delves keen to see what all the excitement is about.
+
+===Cold Winters===
+* '''Every personal resource in Sermersuaq will produce an extra 22 rings until the start of the Winter Solstice 386YE
+Across the territory of Sermersuaq the people have come together in defiance of the harsh winter and the machinations of Agramant. As the first signs of Spring emerge from the ice, people are more enthused than ever to work together and ensure that everyone in Sermersuaq is helped and defended. What has kept the wolf from the door during the harsh seasons of winter, is now more than enough to provide for all, and heralds a bounty to come.
+
+===Riding it Out===
+* '''Farms in Temeschwar will receive an additional 18 rings over the coming season
+* '''Congregations do not benefit from the Bloody Great Theatre, nor do businesses benefit from Lorenzo’s Great Game
+* '''Military units in Temescwhar that take the paid work action receive an additional 18 rings
+* '''The Chatelaine of the Reapers' Repose will receive an additional throne
+The Temeschwar Chamber of Commerce voted to take no immediate action, instead allowing the Unfettered Mind to investigate the problem of the rats and uncover what they can. Large numbers of people have left the city or avoid large gatherings for at least the coming season. Businesses are not directly affected, but they have lost the benefits provided by Lorenzo's Great Game. Likewise, the Bloody Great Theatre provides no benefits to congregations. 
+
+At the same time every farm in Temeschwar receives an additional 18 rings as they host visitors from the city, and every military unit based in Temeschwar that takes the paid work action will receive an additional 18 rings. It has also increased the profits of places of refuge such as Reaper's Repose, increasing their income by an additional throne each season while the crisis continued.
+
+===Unblinking Eyes===
+* '''Priests with congregations who preach Vigilance receive an additional dose of liao and 2 additional Synod votes until the start of the Winter Solstice 386YE
+Following the [[385YE_Winter_Solstice_Synod_judgements#Judgement_64|mandate]] enacted by '''Irada van Temeschwar''' to consecrate the damaged basilica of [[Berechiah]] using true liao there has been a surge of people attending congregation where the virtue of Vigilance is preached.
+
+===Eyes on Loyalty===
+* '''Priests with congregations who preach Loyalty receive an additional dose of liao and 2 additional Synod votes following the Spring Equinox 386YE
+Following the [[Fighting_fish#Eyes_on_Loyalty|judgement]] raised by '''Brother Luke of the Navigators of Virtue''' and upheld by the Loyalty Assembly which recognised the Loyalty showed by ''Bushel Sykes'' there has been a surge of people attending congregation where the virtue of Loyalty is preached.
+
+===Look to the Way===
+* '''Priests with congregations who preach the Way receive 2 additional Synod votes until the start of the Autumn Equinox 386YE
+Following the change in doctrine that was upheld at the Autumn Equinox 385YE there has been a [[Part_of_this_together#Look_to_the_Way|renewal of faith]]. Until the start of the Autumn Equinox 386YE the congregations of priests who [[Congregation#Downtime_Options|preach the Way]] will gain 2 additional votes at the next summit - assuming nothing changes in the meantime.
+
+===Serpent's Curse===
+* '''Congregations in Urizen receive two fewer votes and one fewer liao
+* '''The effect lasts until the start of the Winter Solstice 386YE
+Following the [[385YE_Autumn_Equinox_Synod_judgements#Judgement_40|repudiation of Sulemaine]] by the Urizen national assembly, in the light of their [[383YE_Autumn_Equinox_Synod_judgements#Judgement_100|prior endorsement]] of the so-called "Paragon of Blades", their moral authority has been significantly undermined. For the next year, every congregation in Urizen receives two fewer votes and one fewer liao. As detailed in the [[Broken_sword#Serpent's_Curse|Broken Sword]] wind of fortune.
+
+===Feast and Frost===
+* '''Every mana site in the Brass Coast provides one fewer mana crystal, and every herb garden loses three drams of true vervain from their production until the start of the Summer Solstice 386YE
+* '''In return Tharim provides support to the Fire of the South
+Following a [[declaration]] of [[concord]] by the [[Golden Pyramid]] during the [[385YE_Summer_Solstice_Conclave_sessions#Concord:_Tharim.27s_Feast|385YE Summer Solstice]], the [[eternal]] [[Tharim]], the Bound King of [[the Thrice-cursed Court]] is [[Questions_of_virtue#Touch_of_Winter|free to feast]] on [[mana site|mana sites]] and [[herb garden|herb gardens]] across [[the Brass Coast]]. A terrible black frost will wither plants and drain the essence from crystals to satiate Tharim's endless hunger. All affected resources in the territory lose 1 mana crystal or 3 drams of true vervain as appropriate until the start of the Summer Solstice 386YE. In return, the Bound King will provide a cadre of steel-bound knights throughout this period to support the [[Fire of the South]] [[Army|army]].
+
+===Dho'uala's Tithe===
+* '''Fleets from Dawn, Varushka, and Holberg continue to suffer a one rank penalty to production
+* '''The Custodian of the Ivarsgard Docks and the Harbourmaster of the Semmerlak have had some of the prices for their ministries increased
+The [[Underwater_sunshine#Dho.27uala.27s_Tithe_-_Fleets|rise of the sovereign]] [[Dho'uala]] in [[the Semmerlak]] once again impedes [[fleet|fleets]] based in [[Dawn]], [[Varushka]], and [[Holberg]] reducing their production by one rank. Any Dawnish, Varushkan, or Holberg character is free to create their own eerie tales of brushes with the terror of the Semmerlak. The examples given in the '''[[Underwater sunshine]]''' wind of fortune should provide enough inspiration for a ghostly tale; these are not glorious battles on the deck of a ship or hordes of horrors clawing up the side of the hull. Rather they are spooky encounters, weird lights, strange disappearances, feelings of being watched, and odd things seen in the depths.
+
+Imperial titles related to [[Underwater_sunshine#Dho.27uala.27s_Tithe_-_Ports|ports on the Semmerlak]] continue to be affected. The price for [[Cerulean Mazzarine|cerulean mazzarine]] from the Sarcophan captains dealing with the [[Custodian of Ivarsgard Docks]] is still increased by a fifth. The [[Harbourmaster of the Semmerlak]] continues to be unable to purchase [[ilium]] but they are still able to purchase wains of weirwood, albeit at increased prices. 
+===Memorial of Flowers===
+* '''Contributions can be made to the memorial for Imperatrix Lisabetta
+Resources [[The_greatest_city_in_the_world#Memorial_of_Flowers|can be donated]] to the creation of the memorial for Imperatrix Lisabetta in Necropolis. The memorial will be completed by the Summer Solstice. Any significant contribution - wains of mithril, weirwood, or white granite, or thrones of money - will make the final memorial larger and more imposing. If at least ten wains total are contributed, the memorial will effectively be a [[folly]]. Contributions are made in the usual way for any other commission.
+
+==Further Reading==
+* [[Downtime]]
+* [[Resource#Personal_Resource|Personal resource]]
+
+==Imperial Lore==
+A ritual was put forward for inclusion in Imperial Lore during the Spring Equinox by a [[proxy]] for the [[Dean of the Lyceum]] - [[Surcease of Sorrow]].

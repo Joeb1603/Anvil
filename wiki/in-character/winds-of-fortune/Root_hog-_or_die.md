@@ -1,0 +1,147 @@
+---
+title: Root hog, or die
+source: https://www.profounddecisions.co.uk/empire-wiki/Root_hog,_or_die
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 381YE Winter
+- Recent History
+event: 381YE Winter
+last_edited: '2026-03-19T01:21:46Z'
+revision: 135766
+in_character_boxes: 4
+---
+
+# Root hog, or die
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Deana whacked the last pig through the gate on the arse with her stick.
+> >
+> > "Root hog or die," she muttered under her breath as the creature squealed and scurried after the rest of the herd.
+> >
+> > Tom leant his elbows on the dry stone wall, and sucked on his pipe.
+> >
+> > "What was that?" he asked. Deana shrugged and began to pull the wide gate closed.
+> >
+> > "Something my gran used to say when she was driving the pigs out to root is all," she said. "It means that you have to do the things you have to do or you die. Something like that. For a while I thought it was a charm. She knew a lot of charms, my gran."
+> >
+> > "I remember she was terrifying," said Tom absently. He frowned. His pipe had gone out.
+> >
+> > "Damn fog," he grunted. "Gets into everything, makes it all damp. We never used to have fogs like this."
+> >
+> > Deana rolled her eyes. Tom had been making the same complaint every morning for the past month. The gate closed and the latch dropped, she leant back against the wall near him and the pair watched the pigs rooting around on the edge of the forest for a time as the sun slowly climbed in the east. After a few minutes, something caught Deana's eye. Something moving through the trees - a flash of red. She stood up, stiffly, her bony hands shifting on her stout stick.
+> >
+> > "What's that." she said. "Is that Jotun?" She pointed. Tom squinted.
+> >
+> > "Jotun after the pigs!" growled Tom. "We'll not stand for it!"
+> >
+> > He pulled himself upright with a great creaking and popping of bones. Deana rolled her eyes again.
+> >
+> > "Silly old fool! What are you going to do if it is Jotun? They'll chop you in two without breaking a sweat. What would Jotun want with my pigs anyway? They've got pigs of their own. I think that's a person, not an orc."
+> >
+> > She stamped forward a few paces, shaded her eyes.
+> >
+> > "Two people in fact, there look. There's a Navarr. I think... yes I think that's a Varushkan. In fact I'd wager apples to pears its one of them Varushkans that came through the other month heading down into the forest to look for orcs."
+> >
+> > "What are they running for?" asked Tom. He'd been trying to pull himself over the wall, like he used to when he was a boy, but his arms were not up to it. "If they're after the pigs..."
+> >
+> > "Nobody is after the pigs you old duffer," snapped Deana. "I can't see what they're running from, on account of that fog."
+> >
+> > She waved her hand suddenly in the air and shouted to attract the attention of the two running figures. They swerved immediately without breaking step, and began to zero in on the old couple by the low stone wall, dodging between the pigs.
+> >
+> > "Ha!" barked Tom. "Perhaps the fog is what they are running from!"
+> >
+> > Deana opened her mouth to remonstrate with him and closed it again. A cold shiver ran through her, and she whispered one of her gran's old charms under her breath. As the figures came closer, she could see that both of them had been in the wars.
+> >
+> > "I have... a bad feeling." She said, quietly.
+> >
+> > The pigs didn't care. They continued to root and snuffle around the trees on the edge of the forest, enjoying treats they could not find in the damp fields of Bregasland. Here and there among the roots, green shoots began to unfurl as the light touched them, visibly growing as the hogs fought over acorns and pinecones. One by one, pale yellow flowers unfurled and unfolded from their stems, glistening in the early morning sun, as if each petal were brushed with honey.
+
+## Overview
+
+The plan of the Navarr has always been one of two parts. The Navarr who walk, the [stridings](../nations/navarr/Striding.md) draw the power of the vallorn with them along the [trods](../nations/navarr/Trod.md), slowly draining away the unnatural life and the magic that keeps it wild and hungry. Those who stay, the [steadings](../nations/navarr/Steading.md), watch the vallorn and cut its questing tendrils back whenever it tries to grow beyond the confines of the land it infests.
+
+In Liathaven, the trods still channel the energy of the vallorn away from its heart; they are still walked. In the last few years, they are walked further than ever - with [Reikos](../nations/highguard/Reikos.md) an [Karsk](../nations/varushka/Karsk.md) and [Holberg](../nations/the-league/Holberg.md) restored to the web of paths, more power is drawn further away. Slowly, slowly the Navarr are weakening the vallorn, eventually it will become vulnerable.
+
+But the stridings and the trods are only part of the system that keeps the vallorn at bay. In Liathaven, the steadings are empty. What the Jotun have not slaughtered and burned, they have driven out of the forest. For the most part, the western orcs stayed away from the vallorn, marking its boundaries with peculiar totems. When it stirred, they cut it back, just like the steadings. But the Jotun have had their eyes turned elsewhere, their fury spent on the Navarr and withdrawn westward. It has been several seasons since *anyone* was standing guard over [Westwood](../nations/navarr/Liathaven.md#westwood) and [Liath's Heart](../nations/navarr/Liathaven.md#liaths-heart).
+
+And now the vallorn stirs. A surge of power ripples through the trees of Westwood and Liath's Heart. The [miasma](../nations/navarr/Vallorn.md#vallorn-miasma) flows out, seeping between the trees like a river overflowing its banks. Tendrils of vegetation - leaf-green and blood-red and bone-white unfurl and reach north and south into the land the [Jotun](../barbarians/Jotun.md) have vacated. The bodies of those who fell near the ceaseless fecundity of the forest's heart - orc and human alike - stir and rise, vines and briars rippling across their pallid skin. The beasts of the vallorn's heart, aberrant creatures woven from the madness of Spring and the chaos of the Great Mistake twitch and scuttle and begin to move.
+
+| Citizen Supporting Spy Network | Nation |
+| --- | --- |
+| Owyn | Navarr |  |
+| Maarit | Varushka |  |
+| Magdelena Alanga Di Sarvos | The League |  |
+| Kaspar Yakovich von Holberg | The League |  |
+| Lleu Tarw | Navarr |  |
+| Lord Merbrid the Stork | Dawn |  |
+| Dynion Stormpine | Navarr |  |
+
+While the Jotun may not be watching, the vallorn is not unobserved. Imperial scouts and spies move cautiously through the forest, and it is from them that the warning comes. As they have withdrawn, the Jotun have smashed their totems. Whether these peculiar structures had any real effect on the vallorn is not clear - it seems just as likely they were simply markers so that the orcs could tell if the terror of Liath's Heart was growing or not. But their destruction is a symbol that nobody is guarding against the vallorn any more.
+
+The scouts and spies in Liathaven have yet to submit full reports - some of them have been caught up in the vallorn's incipient expansion while others are already engaged in the long trek from Liathaven to Anvil. It's likely they may know more about what is happening.
+
+## The Vallorn Stirs
+
+The vallorn in Liathaven is stirring. A swelling power is rippling through Westwood and Liath's Heart, as the vegetable menace flexes and begins to expand into the empty regions that surround it. There are only a very few scattered reports about what is happening - between the fury of the Jotun and the raising of the banner of the Black Thorns, there are almost no Navarr left in Liathaven.
+
+These bursts of explosive growth are unusual but not unknown. The most similar recent event was in Summer 379YE when the vallorn of [Brocéliande](../nations/navarr/Brocéliande.md) [began to expand](Lonely-_dark_and_deep.md) into [Elerael](../nations/navarr/Brocéliande.md#elerael) after the [Druj](../barbarians/Druj.md) there withdrew. That excursion was [dealt with](../winds-of-war/379YE_Autumn_Equinox_winds_of_war.md#angry-ettercaps) by the Black Thorns, pushing through [the Barrens](../nations/dawn/The_Barrens.md) with the aid of the orcs of the Great Forest. This time, the Black Thorns are in [no fit state](../winds-of-war/381YE_Winter_Solstice_winds_of_war.md#to-fool-the-crowd) to deal with a stirring vallorn.
+
+If nothing is done by the Spring Equinox then the vallorn in Liathaven will have expanded to consume [West Ranging](../nations/navarr/Liathaven.md#west-ranging). That expansion will see its current growth spent and it will then return to its fitful slumber The ongoing work of the Navarr is still effective, this spasm by the vallorn is only happening now because nobody is cutting it back anymore. There is no danger that the vallorn is going to suddenly expand to claim the territory or even more. But if the vallorn is allowed to claim West Ranging then it will soon be entrenched there and removing it will be as difficult as removing it from Liath's Heart. It could be attacked and rooted out of the region, but not this year - at the earliest. Worse, this would swallow the northern end of the [Paths of Lan Thúven](../nations/navarr/Liathaven.md#the-paths-of-lan-thc3baven), most likely rendering them useless.
+
+The alternative is for a significant force of Imperial soldiers to engage the vallorn this coming season to push it back. How much force would be required is hard to say - but with the Winter Solstice upcoming it may be possible to get a better idea of the extent of the threat through rituals such as [Eyes of the Sun and Moon](../../mixed/magic/rituals/Eyes_of_the_Sun_and_Moon.md), the [Eye of the High Places](../../mixed/magic/rituals/Eye_of_the_High_Places.md), and perhaps even [Dreams in the Witch House](../../mixed/magic/rituals/Dreams_in_the_Witch_House.md). It is also likely that the scouts and spies working with the Liathaven spy network may have some idea of the strength of the vallorn's expansion. Any such action would need to be done this coming season - once the vallorn becomes established in West Ranging it will become significantly more difficult to remove it.
+
+Whatever happens, as long as the people walk, as long as the stridings maintain their oaths, the vallorn will not spread beyond West Ranging. There may be some overspill - after all when the Brocéliande vallorn began to expand, the miasma crept into [Casinea](../nations/highguard/Casinea.md), [Astolat](../nations/dawn/Astolat.md) and [Semmerholm](../nations/dawn/Semmerholm.md) - but even then the effects were very minor. A few mutated crops, and the occasional plant rich with a natural form of Spring [vis](../../out-of-character/rules/Vis.md).
+
+> **Fighting the vallorn**  
+>
+> Under normal circumstances, it is fruitless to fight the vallorn. Where it is established, the fountainhead of Spring magic grants vallorn vegetation and vallornspawn unnatural vitality. Burn it out in one place, and it comes back twice as strong and twice as fast. Only when a vallorn is weakened is it possible to break its hold over a region, clear the twisted vegetation and deadly beasts, and reclaim the land.
+>
+> In OOC campaign terms, the vallorn in Liathaven is effectively attacking, attempting to claim land in the territory. It will generate victory points, as if it were an attacking army, but requires only a single victory point to expand into West Ranging. If the empire commits sufficient force that the vallorn does not generate a single victory point then it will be unable to spread.
+>
+> Imperial forces attempting to stop the vallorn's expansion *will* take casualties, but they will not deplete the vallorn as it is not fielding an army in the conventional sense - a significant part of its effective fighting strength comes from unnatural plants, foul miasma, and the like. If the Imperial forces generate sufficient victory points they will still be able to capture additional territory in Liathaven.
+
+## In Strength Lies Weakness
+
+This new threat from the vallorn presents a rare opportunity for the Navarr to fight back. In its rush to devour West Ranging, the vallorn is depleting its own energy. In conjunction with the trods, which push farther east now than they have in decades, there is a chance that the Navarr might be able to turn this situation to their advantage. If the expansion can be stopped, if Imperial forces can absorb the hungry wrath of the vallorn for a time, then the vallorn will weaken itself beyond the point it can quickly recover. That would make it *vulnerable*.
+
+There is no chance that the Navarr can yet strike against Liath's Heart - the core of the vallorn will always be where it is strongest. It is not yet weakened enough to be attacked there. But if the Empire can absorb the strength of the vallorn as it pushes into West Ranging, if they can stop that expansion then that would drain the forest enough that the Navarr could sally forth to strike into the [Westwood](../nations/navarr/Liathaven.md#westwood). If that was successful then they could permanently clear the vallorn from the entire region.
+
+This will not be an easy fight - and the normal problems with [supply lines and support](../../out-of-character/rules/War.md#supply-lines) will need to be addressed. Without a neighbouring region belonging to Imperial forces any attack into the Westwood would count as a new beachhead. There would also be the risk that the Jotun might attack Imperial forces engaged with the vallorn - [Hordalant](../barbarians/Hordalant.md) is very close after all. There are several possible strategies - the [Paths of Lan Thúven](../nations/navarr/Liathaven.md#the-paths-of-lan-thc3baven) for example would allow Navarr armies in either of the adjoining regions to benefit from a beach head in the other - but until the current expansion is dealt with there is no way to be sure.
+
+But *if* the vallorn's current flood of expansion can be dammed, and *if* sufficient Imperial force can be brought to bear to conquer West Ranging or Western Scout before the end of the year then there is a chance to save West Ranging and take Westwood back from the vallorn permanently.
+
+## Unforeseen Consequences
+
+The expansion of the vallorn is not completely confined to West Ranging in Liathaven. Strange mists travel north bearing dark seeds. The cold fog drifts along the trod that travels north from Liath's Ring until it emerges from the eaves of the forest near the Grey Rushes and the Fens in Bregasland. From there is spreads out across the marshes that occupy much of Bregasland before it reaches the Westmere and the Gullet.
+
+> **Vallorn Seeds**  
+> Every farm in Bregasland has gained the equivalent of a single piece of vital honey - made by harvesting the seed pods of the strange plants - in addition to the normal production. This benefit will continue each season for as long as the vallorn remains in West Ranging.
+
+Fogs are nothing new in Bregasland, and nobody pays this one much attention. Frankly a few wisps of cold mist is the least of your worries when you're tracking through the marshes of Bregasland. When the fog rolls in from the sea, real fog, not this thin misty stuff, it is so thick you can barely walk through it, let alone see through it. It's certainly strange for the fog to come in the other way - from inland and the forests, but even that doesn't merit much mention.
+
+But the strange black seeds that float on the mist are something else. Scattered across the marshes they are quickly sucked down into the bogs... but days later a peculiar new bloom springs up. It is a tenacious plant, a tough reed with a thick core of grey pulp with a violent red seed pod on the top. It doesn't take folk very long to discover that these crimson seed pods are valuable. Harvesting the seeds and grinding them into a fine paste mixed in with a little syrup, produces a sticky substance indistinguishable from [vital honey - the powerful Spring vis](../../out-of-character/rules/Vis.md#vital-honey).
+
+Unfortunately the plants don't live long, they seem to bloom and die fairly quickly and there is no sign of them taking root and all attempts to cultivate them fail. But fortunately there are more seeds coming in on the mists all the time to replace them. If it lasts then it looks like this could be a reliable source of new mana for the Empire - and most especially for the yeoman of Bregasland.
+
+## Conjunction
+
+The civil service has already identified a [significant conjunction](../world/Sentinel_Gate.md#conjunctions) of the [Sentinel Gate](../world/Sentinel_Gate.md) that opens in [Liathaven](../nations/navarr/Liathaven.md) during the Winter Solstice. As [detailed elsewhere](../winds-of-war/381YE_Winter_Solstice_winds_of_war.md#major-conjunctions), it will allow heroes to visit a location at Mournstead in [Liath's Ring](../nations/navarr/Liathaven.md#liaths-ring), on Saturday during the summit. It is not clear whether this relates to the current situation in the forests; the old [steading](../nations/navarr/Steading.md) lies close to an area of [vallorn miasma](../nations/navarr/Vallorn.md#vallorn-miasma) and was visited from Anvil at the Autumn Equinox, and [the Brass Coast](../nations/the-brass-coast/The_Brass_Coast.md) [egregore](../../out-of-character/crew/Egregores.md) has noted that the conjunction has relevance to the Freeborn as well.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Big pig or little pig, Root, hog, or die
+
+## Resolution
+
+Following the Winter Solstice, the Navarr army of the Quiet Step, along with the Marcher armies the Tusks and the Bounders, [fought the vallorn expansion](../winds-of-war/382YE_Spring_Equinox_winds_of_war.md#immolation-28liathaven29) in Liathaven. The attempted expansion was blunted, meaning that West Ranging was not infested. This means that no more seeds are floating into Bregasland, meaning no more spring vis is being produced.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [381YE Winter](../../indexes/by-category/381YE_Winter.md), [Recent History](../../indexes/by-category/Recent_History.md)

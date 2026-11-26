@@ -1,0 +1,230 @@
+---
+title: Speak to me
+source: https://www.profounddecisions.co.uk/empire-wiki/Speak_to_me
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 387YE Spring
+- Recent History
+- Plenipotentiary
+event: 387YE Spring
+last_edited: '2026-04-06T22:34:33Z'
+revision: 136526
+in_character_boxes: 1
+---
+
+# Speak to me
+
+> *In-character text:*
+>
+> Jorgen pulled his cloak more tightly around him as the rain pounded and the thunder growled, and thanked the paragons for its waterproof coating. His companion raised a lightstone lantern - few fully mundane lamps could survive weather like this - casting a wedge of dim light between the stones of the Imperial regio. The Wintermark civil servant suppressed a shudder.
+>
+> The creature that stood in the midst of the monolith-bounded circle was clearly inhuman. It towered over the two civil servants before it, even hunched over. It had impossibly long limbs, impossibly thin and bone-like, and the tattered black dress that clung to its frame did little to reduce the horror it radiated. If not for the mobility of its features, set in a milk-white face as round as the full moon, it would have been easy to mistake it for a disturbing mannikin or piece of art abandoned in the regio. As it was, there was no doubt as to the thing's animation - she moved like an insect shifting between absolute stability and insect-like flurry of action without warning. Jorgen did his best to suppress the insistent shouting from his legs, both of whom seemed keen on the idea of running away and not looking back.
+>
+> He cleared his throat. And then cleared it again. "And is that the full message from your mistress, Madame Baroness?"
+>
+> The thing moved, jerking forward, and suddenly its great dinner-plate face was barely six inches from Jorgen's. It did not blink, its eyes fixed on those of the civil servant. Its thin lips split into a broad smile, revealing dozens of tiny little teeth like those of a child.
+>
+> "Yes," it said, voice like cracking ice. "except perhaps to remind you that obviously the Pale Empress expects total honesty and sincerity in this matter, just as the Archmage would expect of Her."
+>
+> Jorgen swallowed, and nodded his head jerkily.
+>
+> The Baroness, having delivered her message, bowed her great luminous head and turned to leave. The winds whipped the sodden cloth of her ragged garb around her, and she paused for a moment. Her head, impossibly, began to move, swivelling independently of her spindly neck and body to face the Wintermarker. Its face was locked in a grotesque grimace and a strange greenish light had ignited behind its pale eyes.
+>
+> "Oh." she said, as if just remembering some minor matter of trivial concern. "It is just possible that the Archmage has begun hearing things in his sleep. Bells at sea, perhaps, Haunting his dreams. Given the fall of the Lighthouse at Nikephoros and its implications, you understand. He is not to worry, or be afraid, or indeed pay it any mind. It will only... encourage them... you see?"
+>
+> With his final cryptic remark, she took her leave fading away into the darkness without moving, grinning visage still facing the civil servants, her stick-thin body facing the other way. The last things to fade were her eyes, which flared once like dreadful lamps just before she disappeared completely.
+>
+> "Well that was bloody awful," said Jorgen's companion flatly after a few moments.
+>
+> Jorgen didn't reply, just wrapped himself in his cloak and slipped his damp notebook into the satchel he wore beneath. As they turned back toward the hub, and the hot tea awaiting them, Jorgen once again gave silent thanks for the fact that he was not the Winter Archmage, and so did not need to deal with any of... this.
+>
+> But it was some time before he slept a whole night in which his dreams not troubled by the distant sound of tolling bells and cracking ice.
+
+[Image: width=200](https://www.profounddecisions.co.uk/empire-wiki/File:CathCane001b.webp)
+
+## Overview
+
+- **Six eternals have responded to plenipotentiary messages from the Imperial archmages**
+- **4 of them have agreed to some sort of meeting at the Spring Equinox, while 2 have taken other steps**
+
+Every season, each of the six [archmages](../../mixed/titles/Archmage.md) is empowered to send a single [plenipotentiary](../../mixed/titles/Archmage.md#plenipotentiary) message to an [eternal](../eternals/Eternal.md) of their realm. The eternals are bound to respond, although not always in a way the archmage may wish. Sometimes they will arrange personal meetings; often they will send their own emissaries to treat with the Empire in the form of the archmage; occasionally they take direct action in response to the requests contained in the missive; rarely they decline formally although even then they will tend to communicate the reasons for their unhappiness.
+
+Following the Winter Solstice, as the new year dawns, six eternals have responded to invitations to [parley](../../mixed/titles/Archmage.md#parley) via their emissaries.
+
+## Pale Empress
+
+[Image: width=250](https://www.profounddecisions.co.uk/empire-wiki/File:Skathe001.webp)
+
+- **Skathe of the Thrice-cursed Court offers parley in a suitable chamber at 21.55 on Saturday**
+- **Along with the Archmage, the Grandmaster of the Celestial Arch and the Custodian of the Bleak Tower are invited to attend the parley**
+- **The Archmage of Winter is Ematius of the Great Library of Ankarien**
+
+It is a dark and stormy night when a towering figure emerges from the [Imperial regio](../../mixed/magic/rituals/Regio.md#imperial-regio). Dressed in a striking tattered black dress and nearly nine feet tall, she introduces herself as the *Baroness of All Pains*, a member of the cursed court of the *[Hag Queen](../eternals/The_Thrice-cursed_Court.md#skathe)*. She speaks in a voice that cracks like ice to relay the word of the Witch of the Thrice-Cursed Court to the civil servants at the Hub.
+
+Apparently *Her Imperial Majesty of Cares* would be *delighted* to welcome the [Archmage of Winter](../../mixed/titles/Archmage_of_Winter.md) to formal parley at the Spring Equinox, at five to ten on Saturday night in a chamber she is already preparing for just this very purpose. The *Lady of Laments* is grateful for the Archmage's admission that events that transpired in [the League](../nations/the-league/The_League.md), (in [enlightened Holberg](In_the_garden_of_defiance.md) and [beautiful Sarvos](The_DOOM_that_came_to_Sarvos.md)), were down to the actions of Zephaniah's Lament and not she, the *Giver of Gifts*. The Baroness explains that her mistress would be happy to clear up any lingering doubts or questions about that sorry affair, which was of course initiated by members of that unlamented [Highborn](../nations/highguard/Highguard.md) chapter when they reached out to the *Painted Mirror* for help - help that was freely offered and accepted at a known price. She would be happy to continue the general conversation that was begun in the halls of the *Charred Prince* so recently, as well, though she intends to be discreet on the matter.
+
+Having delivered this preamble, the Baroness of All Pains begins to cackle at the thought of what follows, and she begins once more to relay her queen's words. The *Hexenkönigin* would be happy to have the [Grandmaster](../../mixed/titles/Grandmaster.md) of the [Celestial Arch](../../mixed/government/conclave/Celestial_Arch.md) and the [Custodian of the Bleak Tower](../../mixed/titles/Custodian_of_the_Bleak_Tower.md) join the Archmage as his right and left hand, as the [masters of the High Peaks](../nations/urizen/Urizen.md) have always been her most favourite and brilliant companions in the long and constant years she has been a friend to the Empire. She is excited to hear of the well of bitterness towards the [Druj](../barbarians/Druj.md) that the Archmage claims swells within the heart of the [heirs of Alderei the Fair](../nations/varushka/Varushka.md) and the [scions of Terunael](../nations/navarr/Navarr.md).
+
+She has, at great effort, prepared a smattering of generous gifts to assist in bringing weal to the many inhabitants of the [Sarangrave](../nations/urizen/Sarangrave.md). This will, however, depend on whether the Archmage and his companions can weave a suitably delightful and sincere picture of the Empire's blackened heart and their committed, spiteful, hateful intent to strike back at the wicked Druj. If it seems their heart is not in it in the moment, then she is sure someone else can make use of her gifts, so the Archmage needn't worry on her account. The tall figure sneers as she remarks that, of course, the *Pale Empress* expects total honesty and sincerity in this matter, just as the Archmage would expect of her, and then departs.
+
+## Invisible Hand
+
+[Image: width=250](https://www.profounddecisions.co.uk/empire-wiki/File:Ephisis001.webp)
+
+- **Emissaries of the City of Gold and Lead have responded to the Autumn archmage by interceding directly**
+- **They present proposals in the [Louder than words](Louder_than_words.md) wind of fortune**
+- **The current Archmage of Autumn is Edmundo of Damakan's forge**
+
+The trade envoy who emerges from the Imperial regio shortly after the Winter Solstice is swathed in silken veils. This is not the first time they (or someone very like them) has visited [Anvil](../world/Anvil.md) on behalf of the [City of Gold and Lead](../eternals/Ephisis.md). In answer to the plenipotentiary of the Autumn Archmage, the City chooses to take direct action. Specifically, a number of assessors, brokers, and long-term planners have been dispatched from the City, not only to the Empire but also into [Otkodov](../barbarians/Otkodov.md). The City has good relations with the [Thule](../foreign-nations/Thule.md) in general, and has agreed to draw on their relationship to see what can be done about the request of the redoubtable Edmundo. The herald offers a personal plaudit to **Vossk of Zenith Ascendant**, thanking her for writing such a commendably concise and informative missive that leaves little doubt as to what the Archmage desires.
+
+Obviously, the City of Gold and Lead cannot deliver its findings immediately - they will need time to talk to mortals in both the north and the south - but they offer assurances that the agents of the *Invisible Hand* will return shortly before the Spring Equinox to share their findings with their Imperial customers. The herald notes that there will be no additional charge for this service at this time; the City is well pleased with the Empire's commitment to trade and commerce at all levels from the remarkable response to the markets taking greater control of the [Ephisis' Scale](../../mixed/magic/rituals/Ephisis-_Scale.md) ritual all the way down to the constant flow of money and goods that swirls through Anvil during a summit.
+
+In due course, detailed proposals are presented to the hub, as well as to a number of universities and the offices of respected builders and traders, a few weeks before the Spring Equinox. The details of their efforts are included in the **[Louder than words](Louder_than_words.md)** wind of fortune.
+
+## Mistress of Ice and Darkness
+
+[Image: width=250](https://www.profounddecisions.co.uk/empire-wiki/File:CathCane002.webp)
+
+- **Cathan Canae will send her favoured lieutenant Volstann the Eater of Boars to take counsel with the Archmage**
+- **The boisterous messenger is expected to meet the Archmage in their hall at 20.00 on Friday**
+- **The Archmage can bring up to four additional people - Cathan Canae has suggested one of these be the Legion Engineer**
+- **The current Archmage of Summer is Mirella of the Twisted Rose**
+
+Midway between Winter and Spring, with a thick layer of frost on the ground in the Imperial Regio, a massive dog-like creature emerges without fanfare and plods down to the civil service hub. It is a stout hound, similar to a St Bernard but built on a much larger scale. Five feet at the shoulder, with rolls of thick skin that shift as it stomps about its business, the only other sign that it is not a mundane beast is that it wears a suit of boiled leather or hide barding tooled with the runes of [strength](../../mixed/magic/lore/Verys.md) and [victory](../../mixed/magic/lore/Tykonus.md). It has fierce fangs, but those who encounter it describe it as having "gentle eyes" - whatever that means. When it reaches the Hub, it plonks down with a tired sigh in the middle of the entrance and refuses to budge. When one of the civil servants musters the courage to approach, they find that hung around its neck is a carved ivory scroll tube. The beast stares impassively as numb fingers work the catch to retrieve the scroll and then, without a backward glance, the massive creature heads back to the Imperial regio and returns whence it came.
+
+The message scroll bears greetings from the court of the [Mistress of Blizzards](../eternals/Cathan_Canae.md) in response to the missive from **Mirella of the Twisted Rose**. The Queen on the Throne of Ice requests parley, and intends to send her trusted servant *Volstann Eater of Boars* to speak on her behalf. The meeting cannot take place in Kalpaheim, but rather will take place in the Hall of Heroes, a part of Volstann's personal hall that sits between the [Summer realm](../eternals/Realm.md#summer) and the mortal world. The primary topic of conversation will be the terms regarding Imperial access to the [frozen citadels](../../mixed/magic/rituals/Frozen_Citadel_of_Cathan_Canae.md). The [assurance](../../mixed/magic/rituals/Frozen_Citadel_of_Cathan_Canae.md#assurance) of the ritual is not up for discussion, but there is an opportunity here for the Archmage to make their case with regard to the Empire's cowardly ceding of its territory to satisfy their enemies.
+
+On the matter of Eoradal, Cathan Canae has an interest in the Imperial Orcs' new territory and how they intend to hold it. As such she proposes that the Archmage bring along the [Legion Engineer](../../mixed/titles/Legion_Engineer.md) to make their own case to Volstann as to how the *Immovable One* might offer her aid. Why she should be interested, what they will offer in return, and why they seek her aid instead of that of the [Dragon Beneath the Mountain](../eternals/Adamant.md).
+
+While the defenders of Redoubt are clearly heroes, the *Great Bear* wishes to know why the Archmage considers the three she has mentioned worthy of especial note ahead of all the other protectors of the Empire who fight and shed blood to keep their enemies at bay. Why these three, why this conflict? Furthermore, there will be no talk of Sydanjaa. It is not a matter that the *Crown of Black Ice* has any interest in, and neither does her retainer. Indeed, the matters to be discussed - citadels, the Empire's dominion, and the building in Eoradal - are clear and significant digression is unwelcome.
+
+The message ends by saying that the Archmage is invited to bring no more than four other individuals with her to speak with Volstann - which can include the Legion Engineer if they wish The meeting will take place at eight o'clock on Friday evening, and Vosltann's hall will be reached via the Hall of Worlds - which may mean the Archmage will need to secure means for those who are not magicians to accompany them.
+
+## Father of Bats
+
+[Image: width=250](https://www.profounddecisions.co.uk/empire-wiki/File:Sadogua001d.webp)
+
+- **The Night eternal Sadogua agrees to a parley but intends to send some of his heralds to meet with the magicians of the Empire on his behalf**
+- **They are expected to arrive in the Hall of Worlds at around 21.30 on Saturday**
+- **At the same time Sadogua wishes to speak with some members of the Unfettered Mind in a more private setting about the Lyceum**
+- **The meeting with the Unfettered Mind will take place at the same time as the more celebratory meeting in the Hall of Worlds**
+- **The current archmage of Night is Eliina "Realm's Visionary" Lailasdottir**
+
+Shortly before the Spring Equinox, a pompous little figure in a remarkable red and black coat that drags along the ground behind them, appears at the hub and delivers a message from their lord and master, the redoubtable *[Brother of Wizards](../eternals/Sadogua.md)*. *Globbersnotch* thanks the Archmage of Night for proposing an inspirational banquet, and as such requests what he refers to as "informal parley" - everyone agrees not to hit each other but the daft rule about who can speak when is ignored. In return he will send some of his most favoured children, agents, emissaries, apprentices, and friends to visit with Imperial magicians, and enjoy the music, poetry, stories, art, and dance on his behalf. Some of those [heralds](../eternals/Inhabitants_of_the_realms.md#heralds) will be in a position to speak on his behalf on various topics, such as the *Cup of Dreams*, and potentially even provide a new burst of power to the trinkets he has given to Imperial magicians in the past. He is particularly hopeful that a certain *imp of magic* might be in attendance, with tales of the sorceries the little frog has helped support since last he spoke to it.
+
+He also invites the [Arcane Architect](../../mixed/titles/Arcane_Architect.md) to seek counsel with some of his heralds, so that the *Father of Bats* might consider if there are other ways he could help them discharge their duties. Also any magicians of [the Marches](../nations/the-marches/The_Marches.md) might seek his apprentices and discuss matters of magic - the *Toad King* is interested in where their magical studies will take them next. He wishes to remind them that this is the last season they will have easy access to the [Well of Shadows](../nations/the-marches/Upwold.md#well-of-shadows) - when the Summer Solstice dawns he will be seeking a new scholar in the well to enjoy its gifts. Hopefully the magicians of Wintermark responsible for the recent [splendid enchantment](Stars_and_sigils.md#feast-for-kallavesa) will also be there - some of his heralds are keen to learn more about this excellent piece of magic. Finally, the magicians of Navarr might discuss the magical places they consider to be under threat in Therunin and what they think *Wyrmwynd* can do about it. It would also be ideal if whoever was... ah... *honouring* a certain wyrm-like creature in the Hall of Worlds during the last summit found a suitable herald to speak to about it. Quietly given how much trouble it might get people into.
+
+And of course anyone else who would normally attend these things - he hopes that even if they don't speak to one of his emissaries the magicians of Anvil take this opportunity offered by the Archmage of Night to relax a little during trying times.
+
+The heralds of Sadogua intend to arrive in the hall of worlds around half-past-nine on Saturday evening, and hope that will not cause too many difficulties for the Archmage of Night following so closely on the heels of Conclave.
+
+At the same time his chosen servants are celebrating with Imperial magicians, the *Brother of Wizards* wishes to meet with some members of the [Unfettered Mind](../../mixed/government/conclave/Unfettered_Mind.md) to discuss the matter of the [Lyceum](../../mixed/titles/Dean_of_the_Lyceum.md#the-lyceum). **Palaphon Ankarien** is of course invited to attend this meeting, but he requests that the [Archmage of Night](../../mixed/titles/Archmage_of_Night.md) remain to ensure nothing goes wrong with his heralds. He hopes to meet at most half a dozen Unfettered Mind magicians to hear their suggestions as to how to handle the wards he has placed around the island of the Lyceum - how to get Imperial magicians in and out without risking enemies gaining access - given that after he put [his guardian beasts](Patterns_of_fairytales.md#the-hidden-lyceum) into the mists he pretty much ran out of ideas. The hypnotic *Wyrm of Sleggoth* and the deadly *Nightwing* may in fact have made matters slightly worse as it turns out they are not brilliant at differentiating attacking ships from friendly ships. The *Toad-King* is adamant however that *only* members of the Unfettered Mind are invited to attend - he is still in *a bit of a difficult mood*, confides the short herald.
+
+That *difficult mood* probably goes some way to explaining two appendices to the message. First, [Varushkan](../nations/varushka/Varushka.md) members of the Unfettered Mind should probably be very cautious about attending the meeting to discuss the Lyceum, and be prepared for things to "*go tits up*" when the *Brother of Wizards* loses his temper. And secondly, Sadogua has apparently rather snippily suggested that the Archmage of Night make sure nobody kidnaps any of his beloved heralds and carries them off to start new lives as Varushkan lawn adornments, or whatever.
+
+It seems the *Globbersnoth* is *still* very unhappy about the [Towers of Zulgan Tash](../nations/varushka/Ossium.md#towers-of-zulgan-tash).
+
+## Zie of the Morning
+
+[Image: width=250](https://www.profounddecisions.co.uk/empire-wiki/File:Ylenwe001.webp)
+
+- **Ylenwe offers zir assistance in dealing with the matter of the white forest**
+- **Zie has also offered aid in the matter of damming the Doubt in Spiral**
+- **The current Archmage of Day is Skywise Gralka**
+
+On a day of gentle Spring showers, a quiet herald with mottled silver and indigo scales arrives at the Hub. they carry a lyre of beautiful blue wood, and quietly ask for a stool to sit on. While they pluck harmonious notes from the strings of their instrument they deliver a message from *[the Dove](../eternals/Ylenwe.md)*, the *Mistress of Music*. Zie has heard the words of the [Archmage of Day](../../mixed/titles/Archmage_of_Day.md) but must decline formal parley at this time. That is not to say zie cannot offer aid in the matters requested - far from it - only that zie does so from arm's reach. The herald-musician plays quietly on their lyre as they provide further details, allowing the civil servants plenty of time to make notes.
+
+The goal of bringing fresh water to [Mareave](../nations/imperial-orcs/Mareave.md) is laudable, although Ylenwe hopes that the Empire has considered that they are disrupting the natural order in pursuit of a transformation that might, ultimately, prove costly to maintain. Bringing water into an environment where it does not naturally flow can be challenging indeed, and may of course bring unexpected consequences. The recent inundation of [the Brass Coast](../nations/the-brass-coast/The_Brass_Coast.md) is perhaps a case in point. Yet zie judges that the proposals put forward are likely gentler and more harmonious than those which unleashed the unconstrained fury of the Scorrero. The damning of the Doubt is a fascinating project; even as zir messenger comes to Anvil zie has dispatched [heralds](../eternals/Inhabitants_of_the_realms.md#heralds) to [Solen's Doubt](../nations/the-league/Spiral.md#apstrus) to see what could be done about the dangers there. This matter is addressed in more detail in the **[Damming the Doubt](Damming_the_Doubt.md)** wind of fortune.
+
+There is nothing Ylenwe has to say about the churning chaos of Sydanjaa - zie does not believe zie has anything to add about that mournful place and the sad traditions associated with it. The other matter that is worthy of discussion, however, is that of the warped white wood in [Skarsind](../nations/imperial-orcs/Skarsind.md), and zie believes that there are real possibilities for zir help. As the Archmage has provided music, so *Zie of the Morning* will provide notes of zir own.
+
+#### Song of the White Wood
+
+- **Ylenwe presents an opportunity to use the Music of the Spheres to cleanse the white wood of Skarsind**
+- **Completing the cleansing requires a complex ritual using magical notes, and a sapling taken from the tainted woods**
+
+The situation at the white wood in Skarsind is quite different to Bulgakov, and as such requires its own approach. Whereas in Bulgakov the area could simply be cleansed of Cold Sun's influence, the wood is said to be in "dissonance" with its surroundings - though what this claim actually means, neither Ylenwe nor any herald has explained. This dissonance, apparently, is where the danger lies. Bringing the wood into harmony with itself and the wider [Southpines](../nations/imperial-orcs/Skarsind.md#southpines) would not return it to its original form, but would render the dangerous [Day magic](../../out-of-character/rules/Day_magic.md) remaining in the area inert. It’s not known what the precise effects of the transformed but harmonised wood would be, but its harmonization can be achieved through the [Music of the spheres](../../mixed/magic/lore/Music_of_the_spheres.md).
+
+> **Out of Character info:**  
+> Some players who have ranks of Day Lore and whose resource is a [mana site](../../out-of-character/rules/Mana_site.md), will find a chime ribbon in their pack at the start of E2. A chime represents a mana crystal which has been infused with particular day magic. It can be phys repped in the same way as you normally phys rep your mana crystals.  
+> To extract the melody from a chime, cast [Distillation of Diverse Parts](../../mixed/magic/rituals/Distillation_of_Diverse_Parts.md) on it at the regio. Please process the ritual with a referee before doing the roleplay. The ritual will destroy the chime.  
+> To use a chime before performing a melody ritual as part of aligning the white tree to a particular mode of [Music of the spheres](../../mixed/magic/lore/Music_of_the_spheres.md), simply hand the ribbon to the referee overseeing the white wood ritual before beginning to perform.
+
+To harmonise the white wood, Ylenwe asks that a single tree from the edge of the forest be brought to the Imperial regio in Anvil. Musicians of the Empire could then wash this tree in melodies of powerful resonance which, once the tree is planted back at the edge of the wood, will sing from tree to tree and transform the resonances of the area into perfect harmony.
+
+Since receiving the archmage’s correspondence, Ylenwe has considered the state of discordance currently affecting the Southpines. During this season of contemplation, zie claims to have spent a moment singing to the crystalline mana structures being grown at the mana sites of certain Day mages throughout the Empire. Zir songs have embedded in a small number of crystals like a seed, and grown into melodies of balance and consonance. Zie calls these transformed crystals ‘chimes’.
+
+Even Ylenwe zirself does not know what form the chimes’ melodies have taken, but advises that their musical form reflects the Empire’s understanding of music of the spheres. As such, there are 7 different melodies hidden inside the crystals, one for each mode used within music of the spheres, each able to harmonise the tree to their associated realm.
+
+Extracting the melodies from the chimes is a delicate procedure, but it can be achieved through casting Distillation of Diverse Parts with Ylenwe’s oversight. Until 23:00 on the Saturday of the spring equinox, casting the ritual on a chime whilst using the Imperial regio will result in the extraction of the melody.
+
+On the Saturday of the spring equinox, Ylenwe will align the Imperial regio to zirself from 23:00-23:30, making it possible to harmonise a tree from the white wood within this time period. For this to succeed, the tree must be placed within the Imperial regio. Up to six musicians must then step inside the regio, crush a chime of the relevant mode and spend two minutes performing the associated melody. This process should be repeated in sequence through each mode of the music of the spheres, from Ionian to Locrian.
+
+> **Accessibility info:**  
+> When casting Distillation of Diverse Parts on a chime, a sheet music transcription of the melody will be provided. It will also be possible to opt out of the transcription for any players who would prefer to use memorisation or transcribe it themselves.
+> For further accessibility information, please email plot@profounddecisions.co.uk before the event or find a ref during the event.
+
+For example, the sequence of rituals should begin with up to six musicians entering the regio, crushing an Ionian chime and spending two minutes performing music in the Ionian mode and incorporating the Ionian melody previously extracted from a chime.
+
+Zie does warn that this process will not only transform the tree, but that any musician participating in the rituals will find their very self resonating in harmony with the mode they perform - with unknown, and possibly unpleasant consequences. If they were to then attempt to step inside the regio for a further ritual, they would produce a discordance which would disrupt the entire process. Each ritual will need a unique group of musicians to perform its melody.
+
+## Brother Harvest
+
+[Image: width=250](https://www.profounddecisions.co.uk/empire-wiki/File:Ossegrahn001a.webp)
+
+- **Ossegrahn has agreed to parley with the Archmage of Spring during the Spring Equinox**
+- **The meeting will take place in a chamber at 15.00 on Saturday**
+- **The Archmage can bring up to five additional people and Ossegrahn has suggested some whose presence might be useful**
+- **The current Archmage of Spring is Ibiss Briarheart**
+
+It is raining when the messenger of [Lord Rain](../eternals/Ossegrahn.md) arrives at [Anvil](../world/Anvil.md). They are a lithe, green skinned figure with long dark-blue hair wearing little more than a homespun tunic of blue wool that quickly becomes sodden. They appear supremely unconcerned by this, any more than they are worried about the mud churned up by the early spring downpour and the passage of Anvil's travellers. In a voice like water splashing over rocks they ask for directions to "the servants of the people" and eventually end up at the Hub where they reportedly drip over some quite important paperwork while delivering their message.
+
+*Lord Rain* welcomes the request for parley from **Ibiss Briarheart**, the [Archmage of Spring](../../mixed/titles/Archmage_of_Spring.md). He requests parley, and will speak directly to the archmage and a small number of others who wish to accompany him - no more than five additional people please. A chamber is being made ready, and will open from the Hall of Worlds at three in the afternoon on Saturday. *Tarnfather* is aware that this clashes with the [Arcane Colloquium](../../mixed/government/conclave/Arcane_Colloquium.md) and will entirely understand if the Archmage and their party are slightly late.
+
+The matter of bringing fresh water to Mareave is something *Greenfount* is eager to discuss, and has been following developments in the arid eastern territory with interest. He asks the Archmage ensure they bring several [Imperial Orcs](../nations/imperial-orcs/Imperial_Orcs.md) along with them to speak of what they think they need and how they think Ossegrahn can help. To make arid land like Mareave bloom and burst with life would be a grand project, one that he thinks might help the Empire better understand the [renewal and life-affirming power](../../out-of-character/rules/Spring_magic.md#healing-and-vitality) of [Spring magic](../../out-of-character/rules/Spring_magic.md). There are some founts of water in north-eastern Mareave in particular he may be able to help with, perhaps supplementing the progress the Imperial Orcs have made already with some aid of his own, if there are any suggestions as to how he might best offer his aid. With that in mind he suggests the Archmage may also wish to bring a representative of Spiral along with him, someone who can speak about the plans to release the waters of Solen's Doubt and to help channel them into Icarion. He is also eager to discuss the chances of peaceful resolution between the Brine Turtles and the Imperial Orcs - if he can help in any way he stands ready to do so.
+
+Other matters are less appealing *Llomon* is prepared to talk about are this matter of a [fane](../eternals/Fane.md) in [Redoubt](../nations/urizen/Redoubt.md), and why the [Urizen](../nations/urizen/Urizen.md) think that he would desire such a thing, but does not entirely understand why they would want other eternals involved. [The Chalice](../../mixed/magic/lore/The_Chalice.md) is something that the eternal knows about only through discussion with mortal magicians, and understands there is nothing gentle about it, nothing of *true* healing. He is prepared to listen, nonetheless, but the herald does not hide how sceptical the *Rainkeeper* is about it. Likewise mention of needing help to grow wholesome food on [mana sites](../../out-of-character/rules/Mana_site.md) perplexes Ossegrahn. [Fountain's Bounty](../../mixed/magic/rituals/Fountain-s_Bounty.md) is already known by the Urizen, and does just that. *Brother Harvest* is not opposed to helping if the problem can be properly explained to him because in the ideal world nobody should go hungry or thirsty. Perhaps it is a matter the Archmage can explain when they meet?
+
+One matter that is *not* raised is that of the [Declaration](../../mixed/government/conclave/Declaration.md) of [Concord](../../mixed/government/conclave/Concord.md) raised [during the Winter Solstice](../conclave-sessions/386YE_Winter_Solstice_Conclave_sessions.md#concord-ossegrahn-and-the-brass-coast) by the [Imperial Magus](../../mixed/titles/Imperial_Magus.md), **Izarra i Riqueza**. Directed primarily to the people of [the Brass Coast](../nations/the-brass-coast/The_Brass_Coast.md), relating to [decisions made](Patterns_of_fairytales.md#injuries-of-the-soul) during the [flooding of the Scorrero](Where_the_river_rises.md#lamentable-loss-of-life) it does touch on boons offered by *Healing Hand* and apparent unhappiness that they were not used. As such it is notable that there is no talk of this in the plenipotentiary response - perhaps it is something the eternal plans to discuss in the parley?
+
+There is however one other serious matter to discuss, but the herald carefully explains the details of their master's request so that it can be discussed before the parley. Time is short for Therunin, and the moment where the *Leafbeard* can help is fading fast.
+
+#### Regarding Peakedge Stead
+
+- **Ossegrahn will continue to protect Peakedge Stead and the Houses of Healing, potentially permanently, against not only the Druj but any other threat**
+- **In return he wishes the Imperial Conclave to permanently remove Rivers Run Red and Mountain Remembers Its Youth from Imperial lore**
+- **This will require the Senate to reconsider the power of *Remorse* discussed several times previously**
+- **Without this sacrifice, Ossegrahn cannot commit to protecting the ancient hospital from the Druj in Therunin**
+
+As the archmage has no doubt [already seen](../winds-of-war/To_hold_death-s_hand_in_mine.md#rainfall), *Coomarta of the Rains* has taken direct action in [Therunin](../nations/navarr/Therunin.md) against the [Druj](../barbarians/Druj.md) and protected both [Peakedge Stead](../nations/navarr/Therunin.md#peakedge-stead) - its healers, patients, and defenders - and his [Houses of Healing](../../mixed/titles/Hand_of_the_Healers.md#houses-of-healing). The protection cannot last, however, and maintaining it against the spite of the Druj will require a significant sacrifice from the eternal himself. If he is to do this, he must be certain that the Empire is moving in the correct direction to justify this commitment. If the Empire can satisfy his request, he will do whatever it takes to ensure that Peakedge Stead and the Houses remain protected as long as they are under threat - not only by the Druj but also by the [vallorn](../nations/navarr/Vallorn.md). If the Empire is sincere in its desire to destroy the *folly of Terunael* then Peakedge Stead will be threatened by old Tharunind, even if the current threat is neutralised. Ossegrahn believes that the ancient hospital, coupled with his own houses of healing, will provide a powerful sanctuary for those who fight the vallorn in Therunin and perhaps even Sarangrave.
+
+But before he is prepared to commit to this, he wants the Empire to make a commitment of their own. He asks that the Imperial Conclave remove [Rivers Run Red](../../mixed/magic/rituals/Rivers_Run_Red.md) and [Mountain Remembers Its Youth](../../mixed/magic/rituals/Mountain_Remembers_Its_Youth.md) from Imperial Lore. *Bogfearthan* knows this is not a power the Conclave has - but it is one that could be given to them by the [Senate](../../mixed/government/senate/Senate.md). The so-called power of [Remorse](../../mixed/government/conclave/Interdiction.md#remorse), the ability to permanently remove a ritual from the body of Imperial Lore. It will be a challenge for the Senate to both provide this power and for the Conclave to use it, but *Willowbraid* believes that if they are truly committed they can achieve it.
+
+In addition to continuing to protect Peakedge Stead and the Houses of Healing, when the current protection fades from [Thornsong House](../../mixed/titles/Thornsinger.md#thornsong-house), *Beckburn* will be happy to discuss enfolding it in his ring of protection also, although that will require a further expenditure of his power it will be much less than what is needed to establish the permanent ring of protection. Finally, if the Archmage wishes, Ossegrahn is prepared to discuss a way for Imperial magicians to gain access to his children that create these walls of impenetrable thorns and water, with an eye toward codifying it and adding it to Imperial Lore to protect other threatened places. Backed by Ossegrahn's power the protection offered would rival a [Wooden Fastness](../../mixed/magic/rituals/Forge_the_Wooden_Fastness.md), although it would be restricted to defending a single region rather than warding a whole territory. The Archmage says that the Empire is in more danger than it has been before, and so Ossegrahn can offer at least a little assistance if they choose to accept it.
+
+If the Senate and the Conclave are not in agreement, then the protection around Peakedge Stead will fail within a day of the Spring Equinox, and there will be nothing further Ossegrahn can do to preserve the hospital, its patients, or its brave defenders from the murderous impulses of the Druj. Even if they retreat immediately, they will do so after they have destroyed the ancient steading.
+
+The civil service have issued guidance on the matter of timings around Remorse. If the Imperial Senate pass a motion to create the power on the Friday evening or Saturday afternoon session, then it would be possible for a Declaration of Remorse to be raised at the Saturday evening session of Conclave, provided that the declaration is submitted before 18:00. If a Declaration of Remorse is passed at the same summit as a Declaration of [Dissemination](../../mixed/government/conclave/Dissemination.md) for the same ritual, then no funds will be taken for the latter and a ritual text will not be created regardless of in what order each declaration is passed in.
+
+## Plenipotentiary in Public
+
+- **The opportunity to allow archmages to make their plenipotentiary messages public remains available**
+
+Last season the [prefects of the Conclave](../../mixed/titles/Prefect_of_the_Conclave.md) presented a potential additional power to be used with plenipotentiary - the ability to make the wording of the missive public knowledge. The [Conclave](../../mixed/government/conclave/Conclave.md) has not chosen to embrace this power, but given it is simply a procedural change the opportunity to do so remains available to the magicians of the Empire for the foreseeable future - unless something significantly changes. The change is discussed in detail in the **[Secret meeting](Secret_meeting.md#have-a-little-faith)** wind of fortune.
+
+## Timetable
+
+These meetings are taking place in a number of places; in chambers reached via the Hall of Worlds. The times, and the eternals involved, are summarised here.
+
+| Day | Time | Eternal | Realm | Note |
+| --- | --- | --- | --- | --- |
+| Friday | 20.00 | Cathan Canae | Summer | Meeting with Volstann, in a chamber |
+| Saturday | 15.00 | Ossegrahn | Spring | Formal parley, in a chamber |
+| Saturday | 21.30 | Sadogua | Night | Informal meeting in the hall of worlds, and a chamber |
+| Saturday | 21.55 | Skathe | Winter | Formal parley, in a chamber |
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [387YE Spring](../../indexes/by-category/387YE_Spring.md), [Recent History](../../indexes/by-category/Recent_History.md), [Plenipotentiary](../../indexes/by-category/Plenipotentiary.md)

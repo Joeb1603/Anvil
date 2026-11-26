@@ -1,0 +1,21 @@
+==Overview==
+The Keeper of the Bronze Bowls is an [[Imperial title]] awarded to a citizen of the [[Imperial Orcs]]. The title was [[386YE_Autumn_Equinox_Senate_sessions#Assign_Bronze_Bowls_of_the_Three_Seasons|created]] by the Imperial Senate at the Autumn Equinox 386YE. The Keeper of the Bronze Bowls is responsible for a sinecure that grants them a seasonal supply of [[vis]]. More information on the opportunity that led to the creation of the title can be found in the '''[[Digging_for_fire#The_Bronze_Bowls_of_the_Three_Seasons|Digging for fire]]''' wind of fortune.
+
+Salt water placed in the easternmost of the bowls is slowly purified and seems to nourish the tree despite the arid environment. At the same time, in the western bowl, small amounts of [[vis]] form over the course of a season. Further investigation indicates that the regio is connected in some fashion to [[Ossegrahn|Lord Rain]], [[Ylenwe]], and [[Wise Rangara]].
+
+==Responsibilities==
+The Keeper of the Bronze Bowls is expected to ensure the safekeeping of the Bronze Bowls of the Three Seasons. If the safety of the bowls, or those visiting the esoteric site, were to be threatened in any way it would be the responsibility of the Keeper to deal with those threats.
+
+==Powers==
+===Power of the Three Seasons===
+The Keeper of the Bronze Bowls gains custodianship of a [[sinecure]]. They receive three pawns of [[vis]] each season: [[vis#Prismatic Ink|prismatic ink]] at the Spring and Autumn Equinoxes; [[Vis#Vital Honey|vital honey]] at the Summer Solstice; and [[Vis#Heart's Blood|heart's blood]] at the Winter Solstice. 
+
+==Appointment==
+This title is appointed during the Winter Solstice. The Keeper is appointed by Imperial Orcs who control [[military unit]] [[Resource|personal resources]] who [[Military_unit#Supporting_an_Army|supported]] an [[Army]] during the previous year. The larger the military unit an individual has, and the more often they supported the Imperial armies, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only an Imperial Orc may hold this title. They do not receive a seat on the Bourse. As an Imperial title appointed through the Bourse, they cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Keeper_of_the_Bronze_Bowls}}
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Imperial Orcs]]
+[[Category:Bourse]]

@@ -1,0 +1,19 @@
+{{CaptionedImage|file=Serenus Starsong.jpg|caption='''Serenus Starsong''', first and last Astral Arcanist|align=left|width=250}}
+==Overview==
+The Astral Arcanist is an [[Imperial title]] appointed by the [[Conclave]]. The [[386YE_Summer_Solstice_Senate_sessions#Create_title_of_Astral_Arcanist|motion]] to create the title was brought by '''Thalia of Netherwatch''', as Senator for [[Redoubt]], to the Imperial Senate during the Summer Solstice 386YE. The Astral Arcanist is a position in the Conclave with an expectation to support the magicians of the Empire with information about [[Astronomancy#Constellations|constellations]] and tulpas.
+__NOTOC__
+The title was [[388YE_Spring_Equinox_Senate_sessions#Abrogate_Astral_Arcanist|abrogated]] by the Senate during the Spring Equinox 388YE. This decision followed the apparent death of the Arcanist themselves, '''Serenus Starsong''', and the [[388YE_Spring_Equinox_Conclave_sessions#Concord:_Abrogate_Astral_Arcanist|formal request]] of the [[Conclave]] to have the title abrogated. There is speculation that this may in part have been motivated by the [[What regulates the wheel?|developing crisis]] relating to the [[Regio#The_Imperial_Regio|Imperial regio]].
+{{CaptionedImage|file=RelativePositionslores.JPG|align=right|width=300}}
+
+==Responsibilities==
+The Astral Arcanist had a responsibility to disperse knowledge about the constellations to Imperial magicians. They are also expected to guide and advise [[Astronomancy|astronomancers]] through the Astronomancy Symposium. The Astral Arcanist did not have the legal power to prevent any interaction between citizens and constellations or tulpas.
+
+==Appointment==
+The appointment, replacement, or removal of the Astral Arcanist was made by the [[Declaration#Declaration_of_Candidacy|declaration of candidacy]] as part of a [[Conclave session]]. Any Imperial citizen could hold the title.
+
+The Astral Arcanist served until they were replaced by another magician using the Declaration of Candidacy. As a title in the Conclave, they could not be [[Revocation|revoked]]. 
+
+{{RecentElections|Astral_Arcanist}}
+{{Responsibilities Expectation}}
+[[Category:Conclave]]
+[[Category:Astronomancy]]

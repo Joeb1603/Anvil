@@ -1,0 +1,94 @@
+---
+title: Met a pilgrim shadow
+source: https://www.profounddecisions.co.uk/empire-wiki/Met_a_pilgrim_shadow
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 387YE Autumn
+- Recent History
+event: 387YE Autumn
+last_edited: '2026-01-15T14:58:58Z'
+revision: 131130
+in_character_boxes: 2
+---
+
+# Met a pilgrim shadow
+
+*[Image: Anvil offers many diversions to those who make the trek to the heart of the Empire - both wholesome and... not so wholesome.](https://www.profounddecisions.co.uk/empire-wiki/File:Conspicuous_Offerings.jpg)*
+
+## Overview
+
+It is not just the great and the good of the Empire who come to [Anvil](../world/Anvil.md) each equinox and solstice. The tent-city that springs up around the [Senate](../../mixed/government/senate/Senate.md) and [the Forge](../world/Anvil.md#the-forge) attracts visitors from all over the known world, and beyond. Some are drawn by the promise of wealth, some by the need to find the wisest and the bravest to help them resolve their dilemmas, some seek to influence those who wield true power in the Empire, others come to celebrate and forge new relationships with those drawn to the heart of Imperial power.
+
+Some who plan to visit Anvil are at pains to conceal their arrival, or their intentions. Others, though, make no secret of their intentions - indeed they often choose to send word ahead to ensure that those they hope to make contact with are prepared for them. Here, we talk about some of those who have been most public in their desire to meet those who throng to Anvil, as the new year begins and the old fades into the shadows.
+
+## Friday
+
+### Knocking at the Door
+
+- **Kozma the Stranger is visiting the Varushkan camp to have frank discussions about the future of the nation with those interested**
+- **Kozma will arrive at the Varushkan camp at 22:00 with his attendants**
+- **Kozma has asked to be met at the threshold of the camp and invited inside**
+
+Rumours that a man with a very strange bearing dressed in the manner of a volhov with a small delegation has been travelling through [Highguard](../nations/highguard/Highguard.md) are confirmed when 'Kozma the Stranger' requests an audience at the [Varushkan camp](../nations/varushka/Varushka.md) in [Anvil](../world/Anvil.md) on Friday. He has asked that suitable arrangements be made for a meeting with anyone who considers themselves a "*true and loyal Varushkan*", although he warns that lovers of the [Thule](../foreign-nations/Thule.md), those who encourage the sale of Varushkan land to its enemies, and friends of **Gisli the Provider** would not be welcome.
+
+He has particularly asked for the presence of ambitious magicians and those of a military mind, and has specifically invited "*the worthy inheritor of the name Alderei*" to attend as a guest of honour. It has been indicated that the hosts of the meeting will "*rewarded appropriately*".
+
+## Saturday
+
+### A Marcher Mystery
+
+- **Two strange Marchers are coming to the Academy at 10:00**
+- **The Marchers are suffering from *something* that prevents them from talking to anyone other than young people**
+
+Two peculiar [Marchers](../nations/the-marches/The_Marches.md) are travelling to Anvil. Anyone who meets them on the road and tries to talk to them is met with only frustrated motions and movements. These farmers appear to have been struck by something that leaves them unable to speak to adults. There have been reports from younger citizens of the Empire that the farmers are going to [the Academy](../../out-of-character/events/The_Academy.md) at Anvil for help.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > I call Teodore duSesna of the Camorra DuSesna to Inquisition at the Autumn Summit 387YE, at a time and place to be arranged, that their accusations against Genoveva Barossa d’Apulian, Sofonisba Amilcara, Cesare Sanguineo Rezia di Tassato and Rafael Barossa d’Apulian may be thoroughly examined.
+> >
+> > Kaspar Yakovitch von Holberg, League Assembly, Summer Solstice 387YE, Vote: 292-0
+
+### Answering Accusations
+
+- **Teodore duSesna is visiting Anvil to be inquisited by *Kaspar Yakovitch von Holberg***
+- **Teodore, and an associate, are expected to arrive at 18:00**
+
+*Teodore duSesna*, noted critic, master [reckoner](../nations/the-league/The_League_culture_and_customs.md#reckoners), and appreciator of the arts, is coming to Anvil to answer the inquisition laid down by **Kaspar Yakovitch von Holberg** last season. Teodore is not coming alone and is instead bringing an associate, *"in case they have need of a duellist"*.
+
+The duo expect to arrive in Anvil at around six in the evening on the second day of the summit, and will head for the League camp first to look for Kaspar Yakovitch von Holberg.
+
+## Sunday
+
+### A Casinean Funeral
+
+- **A Sarcophan undertaker is travelling to Anvil, planning an exclusive funeral for an extremely rich client**
+- **Bastiaan van Krommemuil aims to arrive at the Highguard chapel at 12:00 and is interested in meeting with a range of Highborn citizens who may help them craft an appropriate memorial**
+
+It was extremely unfortunate that *Hester van de Moerassen* died on the morning she would have taken her seat at the great table of the palace of beggars. Especially unfortunate, since her amassed fortune, which had bought the seat as the highest bid, now rests uneasily as her family and friends squabble over each individual trinket.
+
+Luckily, *Bastiaan van Krommemuil* is on hand to ensure Hester receives only the best treatment in death, as she did in life. Hester was a member of a religious sect known as [the Collectors](Can-t_give_everything_away.md#the-art-of-the-tomb) and had a strict set of requirements surrounding the circumstances of her funeral. Bastiaan is the best undertaker any money could buy, and has promised her mourning relatives the grandest funeral the nation has ever seen.
+
+And that nation? Not the [Delves](../foreign-nations/Sarcophan_Delves.md) - no, for there have been historic Sarcophan funerals that even Bastiaan knows better than to compete with. No, that nation is the Casinean Empire! After all, with Highborn funerary monuments taking the Delves by storm, why not go one step further?
+
+But a funeral like this takes planning. Bastiaan van Krommemuil is en route to Anvil to speak to Imperials about the possibilities available for a funeral on Casinean soil at the coming Winter Solstice. They are especially keen to speak with priests, winter covens, artists, musicians and cooks - all from Highguard.
+
+### Master and Apprentice
+
+- **Ursula Starhammer is coming to Anvil to meet with those who accepted her challenge to become her new apprentice**
+- **Ursula expects to arrive at 13:30 and will head to the Tree of Names in the Wintermark camp**
+
+*Ursula Starhammer*, [forgemistress of Aflhal](As_it_is_when_it_was.md#rune-and-tale), is returning to Anvil once again. Last year, she set a challenge to artisans who wished to become her apprentice: find a prospective hero and forge them into something great. To aid in this, she gave each of them a vial of stardust - a powerful reagent.
+
+Now, she is looking to hear the tale of the last year from the artisan, and asks them to bring both the hero and a scop to testify on their heroism. Every artisan who has managed to do that will receive another vial of stardust from Ursula.
+
+One of the artisans will be offered the chance to become her apprentice, whichever one has been able to "*forge a hero to the greatest extent*", and will discuss with them what such an apprenticeship might mean.
+
+*Starhammer* will have a small number of vials of stardust that she is willing to sell to interested parties, but only after the contest is concluded.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [387YE Autumn](../../indexes/by-category/387YE_Autumn.md), [Recent History](../../indexes/by-category/Recent_History.md)

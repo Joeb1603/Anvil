@@ -1,0 +1,25 @@
+[[Category:Senate Motion]][[Category:388YE Spring]]
+__NOTOC__
+<quote by="Announced by Taddea Ginori, Chair of the Wolf">I, Taddea Ginori, Chair of the Wolf, announce with Great Pride the Commissioning of the Grand Guildhouse of The Printers' Guild in Tassato Mestra, to cement the legacy of the Printers' Guild as the Torchbearers of Truth throughout the world.
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Tassato Mestra, Tassato, as per the '''[[The_truth_but_tell_it_slant#The_Printers'_Guild|The truth but tell it slant]]''' wind of fortune
+* Announcement by the [[Chair of the Wolf]]
+
+==Date==
+* Spring 388YE
+
+==Cost==
+* Costs as per opportunity
+* 30 wains of white granite
+* 90 crowns in labour costs
+* Three months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Grand_Guildhouse_of_the_Printers%27_Guild}}
+==Outcome==
+Once complete, the guildhouse will have the following effects:
+*The income of the [[Curator of the Printers' Guild Museum]] will become 20 crowns per season
+*The income of the [[Custodian of the Printers' Guild Mausoleum]] will become 3 thrones per season
+*Allows a key member of the Printers' Guild to spread a single publication across the Empire each season at a cost of one throne
+*Allows a merchant-prince of the Printers' Guild to create a single address to the Empire in the period following its completion

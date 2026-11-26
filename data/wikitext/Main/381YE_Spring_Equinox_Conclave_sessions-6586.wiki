@@ -1,0 +1,126 @@
+The following is a summary of Conclave proceedings during the Spring Equinox 381YE.
+
+==The Imperial Titles of the Conclave==
+The full list of Imperial Titles held in the Conclave at the end of the summit can be found [[Archive:381YE_Spring_Equinox_Imperial_titles|here]].
+
+The following Imperial Titles were declared by the Conclave during the summit.
+
+*'''Helios Bitter Chalice''' was appointed the [[Imperial Censor]] following the Saturday session.
+*'''Heilyn Bronwen's Rest''' was appointed the Imperial [[Warmage]] following the Saturday session.
+
+In meetings of the members of the appropriate orders, the following Grandmasters were appointed.
+
+*'''Zephaniah of Highguard''' was re-appointed Grandmaster of the Sevenfold Path.
+*'''Arsenio Sanguineo Rezia di Tassato''' was appointed Grandmaster of the Golden Pyramid.
+
+==Precedence==
+The precedence and size of each order at the start of the summit were as follows:
+#The Golden Pyramid had 66 members.
+#The Rod and Shield had 65 members.
+#The Shuttered Lantern had 65 members.
+#The Sevenfold Path had 48 members.
+#The Unfettered Mind had 32 members.
+#The Celestial Arch had 28 members.
+
+==Conclave Addresses==
+Records show that 11 addresses were made during the Friday session, and 15 during the Saturday session. Per protocol, the titles of addresses are not recorded.
+
+==Conclave Declarations==
+Records show that 6 declarations were made during the Friday session, and 10 were made during the Saturday session. The details of these declarations and their outcomes were as follows: when a declaration is not one of Concord, its text may have been edited for standardisation purposes.
+
+===Friday Session===
+{|
+|'''Speaker || '''Declaration of...''' || '''The Imperial Conclave declares''' || '''Outcome'''
+|-
+| Raewyn Eternal || Concord || that the library in Mourning Hollow should be rebuilt. || Passed 
+|-
+| Simargl, the Empty One || Imperial Lore || that the ritual "Mountain Remembers Its Youth" shall be accepted into Imperial Lore. 
+ || Passed 
+|-
+| Raewyn Farkas || Dissemination || that a ritual text for "Skein of Years" shall be disseminated to Raewyn Farkas. [[#Clarification|<sup>1</sup>]] || Passed 
+|-
+| Raewyn Farkas || Dissemination || that a ritual text for "All the World in a Grain of Sand" shall be disseminated to Raewyn Farkas. || Failed
+|-
+| Merlot || Concord || that as a body they wish the civil service to investigate and institute (if possible) a Sunday session of Conclave at each equinox and solstice. || Failed 
+|-
+| Kaspar Yakovitch von Holberg || Reconciliation || that Ancel Steward shall be reconciled with the Empire and no longer considered a sorcerer. || Failed 
+|}
+
+===Saturday Session===
+The Conclave made the following Declarations:
+{|
+|'''Speaker||'''Declaration of...''' || '''The Imperial Conclave declares''' || '''Outcome'''
+|-
+| Rosamund, Archmage of Spring || Concord || that "Anathemic Call of Bug and Briar" is a stupid and inaccurate name and we should get rid of it. || Passed
+|-
+| Rosamund, Archmage of Spring || Enmity || a state of Enmity shall exist between Siakha and the Empire. || Passed
+|-
+| Helios Bitter Chalice || Candidacy || that Helios Bitter Chalice shall be appointed as Imperial Censor. || Passed
+|-
+| Martin Orchard || Sorcery || that Barthol de Rondell is a Sorcerer. || Failed
+|-
+| Eudaemon of Halcyon || Sorcery || that Drefa Brackensong is a Sorcerer || Failed
+|-
+| Drefa Brackensong || Sorcery || that Rosamund Holt is a Sorcerer. || Failed
+|-
+| Heilyn Bronwen's Rest || Candidacy || that Heilyn Bronwyn's Rest shall be appointed as Imperial Warmage. || Passed
+|-
+| Vaan || Concord || that assault upon a Herald at Parley is a betrayal of the Empire and the Conclave. || Passed
+|-
+| Elyssiathain, Archmage of Night || Concord || agents of Soghter and Murit to cast a ritual to erase the traces of Death in the Mournwold to assist in the creation of the Azoth. || Failed
+|-
+| Zephaniah, Grandmaster of the Sevenfold Path || Concord || to all magicians of the Empire: remember Virtue and use magic with care.
+#Remember the side effects of rituals on recipients
+#Beware the costs and potential costs of rituals - if you summon external forces this has consequences. Your actions may be virtuous or unvirtuous.
+#Consider not only the efficacy of a magical work, but also its consequences. Choose your course and take responsibility for that outcome with Wisdom.
+ || Passed
+|}
+
+==Income to the Order Vaults==
+The income detailed below will be given to each Grandmaster at the beginning of the next summit, along with any mana purchases they choose to make using their powers of funding.
+
+===Endowments===
+There were no endowments at this summit.
+
+===The Font===
+The income of mana at this summit was as follows.
+*The basic font at this summit was 122 mana.
+*The income from the Principle of Proportions was 166 mana.
+*The income from lawful confiscation was 0 mana.
+*The remainder from previous seasons was 0 mana.
+
+
+This gives a total font of 288 mana, which was divided thus:
+*The Golden Pyramid received 62 mana.
+*The Rod and Shield received 61 mana.
+*The Shuttered Lantern received 61 mana.
+*The Sevenfold Path received 45 mana.
+*The Unfettered Mind received 30 mana.
+*The Celestial Arch received 26 mana.
+
+
+This left 3 mana, which will be added to the font to be divided at the end of the next summit.
+
+===The Ilium Reserve===
+The details of ilium divided among the orders was as follows.
+*The Golden Pyramid received 3 ilium.
+*The Rod and Shield received 3 ilium.
+*The Shuttered Lantern received 3 ilium.
+*The Sevenfold Path received 2 ilium.
+*The Unfettered Mind received 2 ilium.
+*The Celestial Arch received 1 ilium.
+
+===Income from Gifts and Bequests===
+The total income from the order's regular gifts and bequests was as follows:
+*The Golden Pyramid received 3 measures of ambergelt, 3 measure of beggar's lye, 2 measures of green iron and 3 measures of orichalcum.
+*The Rod and Shield received 2 measures of ambergelt, 3 measures of green iron, 2 measures of orichalcum and 2 measures of tempest jade.
+*The Shuttered Lantern received 3 measures of tempest jade and 3 measures of weltsilver.
+*The Sevenfold Path received 2 measures of beggar's lye, 3 measures of iridescent gloaming and 3 measures of dragonbone.
+*The Unfettered Mind received 4 measures of iridescent gloaming, 3 measures of tempest jade and 2 measures of weltsilver.
+*The Celestial Arch received 2 measures of dragonbone, 3 measures of iridescent gloaming and 2 measure of tempest jade.
+
+==Clarifications==
+{{anchor|Clarification}}<sup>1</sup> This was disseminated at the summit.
+[[Category: Conclave]]
+[[Category: Conclave Sessions]]
+[[Category: 381YE Spring]]

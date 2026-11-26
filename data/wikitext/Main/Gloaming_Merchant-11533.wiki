@@ -1,0 +1,26 @@
+==Overview==
+The Gloaming Merchant is an Imperial title [[Construct_The_Gloaming_Forum|created]] by '''Zorya Swietoslawa Przewalski''' as the [[Bearer of an Imperial Wayleave|Bearer of the second Imperial Wayleave]] during the Winter Solstice 385YE. The Gloaming Forum was originally suggested by the Rising Tide - a would-be sodality focused on Prosperity and assisting the [[Basilisk of the Bourse]] - after they were directed to the Canterspire Circle at the direction of '''Heilyn Bronwen's Rest'''. Following their visit to the region they presented an [[Bright_yellow_blooms#A_Tide_of_Dyes|opportunity]] to formalise trade with the spires of the area to allow the purchase of precious weirwood for [[iridescent gloaming]].
+
+==Responsibilities==
+The Gloaming Merchant has a responsibility to use the weirwood they purchase to improve the Prosperity of [[Morrow]]. In addition, if the Gloaming Forum or the spires that deal with it were to be threatened in any way, it would be the responsibility of the Gloaming Merchant to deal with those threats.
+
+==Powers==
+<div style="width: 500px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible "><tr><td style="background-color: LightBlue;">'''Gloaming Market'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>30 iridescent gloaming</td><td>2 wains of weirwood</td></tr>
+<tr><td>50 iridescent gloaming</td><td>3 wains of weirwood</td></tr>
+<tr><td>75 iridescent gloaming</td><td>4 wains of weirwood</td></tr>
+</table></div>
+===Ministry===
+As a [[ministry]], the title of Gloaming Merchant allows the holder to purchase quantities of weirwood at a set price. The Gloaming Merchant makes their choice during downtime from their character page. Iridescent gloaming is removed from, and wains of weirwood are placed into, the character's inventory when the downtime is processed.
+
+===Appointment===
+This title is appointed during the Winter Solstice each year. The Gloaming Merchant is appointed by citizens of Urizen who control [[mana site|mana sites]] [[Resource#Personal_Resource|personal resources]] through [[Tally of the Votes]]. The larger the holder an individual has, the more votes they can allocate in support of a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only an Urizen citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{CaptionedImage|file=GloamingMerchant.png|caption='''Spyridonakes of the Lighthouse at Nikephoros''', Gloaming Merchant|align=left|width=300}}
+{{RecentElections|Gloaming_Merchant}}
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Bourse]]
+[[Category:Urizen]]

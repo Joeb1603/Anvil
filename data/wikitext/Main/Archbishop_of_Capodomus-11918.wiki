@@ -1,0 +1,34 @@
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly League.png|caption=This title is appointed by the League Assembly|width=250px}}</div>
+The Archbishop of Capodomus is a League title created by the proxy [[Master of Rings]], '''Estella Lucati di Sarvos''', via the repairs to [[#Capodomus Cathedral|Capodomus Cathedral]] commissioned at the Summer Solstice 386YE. The Cathedral is widely regarded as the first major site dedicated to the study of the Way within any of the five cities that would go on to become the [[League]], and the Archbishop is vested with appropriate responsibility for the nation's National Assembly.
+
+==Responsibilities==
+The Archbishop of Capodomus is responsible for coordination and support of the League [[Assembly#The_National_Assemblies|National Assembly]] and serving as a point of contact for it when needed. If anything were to threaten the safety of the Cathedral or the pilgrims and scholars it attracts, it would be the responsibility of the Curator to address those problems.
+
+==Powers==
+__TOC__
+===A Portion of Liao===
+The sinecure provides 20 doses of [[liao]] to the Archbishop each season, to be used as they see fit. 
+
+===Donations for the Cathedral===
+The Capodomus Cathedral draws scholars and priests of the Way from across the Empire, especially from the other cities of the League, many of whom make donations towards the running of the Cathedral in exchange for studying there. In addition, the breathtaking art, architecture, and surroundings of the Cathedral make it a highly prestigious place for marriages and funerals to be held, attracting further donations from the wealthy citizens of Sarvos. As a result, the Archbishop of Capodomus receives 24 crowns each season from various donations.
+
+==Appointment==
+The Archbishop is a national position which is [[Appointment|appointed]] by [[judgement]] of the [[Assembly#The_National_Assemblies|League Assembly]]. 
+
+The Archbishop is appointed during the Summer Solstice each year. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the League Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{CaptionedImage|file=Archbishop of Capodomus.jpg|caption='''Estella Lucati''' (right), Archbishop of Capodomus|align=left|width=300}}
+{{RecentElections|Archbishop_of_Capodomus}}
+
+==Capodomus Cathedral==
+The grand Capodomus Cathedral was built centuries ago, before the formation of the Empire, and for many years it stood as the largest and most prestigious of all the buildings across any of the first eight nations. Larger even than the Basilica of Seven Doors, it is a towering edifice of white granite and stained glass. A monument to the seven virtues, its halls are encrusted with precious materials and objets d’art. Capodomus was built in part in the image of the Basilica of the Seven Doors - intended as a place for the bishops of Sarvos to meet and explore the virtues. After the formation of the League, it became a place of pilgrimage and was widely recognised as one of the foremost places to learn about the Way in the Empire.
+
+During [[the sack of Sarvos]] in 380YE, many of the beautiful paintings and sculptures that celebrated the Pride, Ambition, and Loyalty of the League were stolen. Over the following years, several of the beautiful artworks were recovered - via [[Asavean Archipelago|Asavean]] dealers, or stolen back during the [[382YE_Winter_Solstice_winds_of_war#The_Turning_Tide|raid on Dubhtraig]] - but the damage done to the cathedral and its reputation was not addressed until the proxy Master of Rings turned their attention to the matter in Summer 386YE, three years after the [[Old_ways#Capodomus_Cathedral_and_the_League_Assembly|assessment]] on the refurbishment of the Cathedral was presented.
+
+The Cathedral has now been restored to its full prominence, both as a building of beauty and art, and also as a centre of scholarly pursuits. Priests from across the League, and indeed further afield, have begun to flock to the great edifice as a hub to discuss the practice of the Way and the pursuit of Virtue. 
+
+The final resting place of [[Empress Giselle]] lies in a courtyard with mature trees and chessboard-style marble paving stones of pale pink and pale grey. The sixteenth Empress rests in a large marble tomb with her name and titles carved and gilded on the side. There is space remaining on the tomb's sides for depictions of the Empress's life, if a future Archbishop felt it appropriate. For some years, Empress Giselle lay in state in [[Temeschwar]], but her remains were [[Golden_light#The_Woman's_Work|relocated here]] following some unpleasantness [[Temeschwar#Rat Plague|involving rats]]. She was "brought home" to Sarvos mostly due to diligent work by Archbishop Estella Lucati, and it is to be hoped that this will close the book on her tumultuous post mortem peregrinations.
+
+The Lucati Gallery is well-curated and takes up the northern side of the cathedral. Replete with well-cushioned benches, excellent lighting, and legibly-sized plaques. The art depicts scenes which are recognisable and beautiful, with a focus on being vivid and moving. The featured artists are '''Ehud''', '''Enchantress Rosalynn Asterion''', and the three artists of the Looking Glass; '''Leonora Albertina van Holberg''', '''Magdelena Alanga Di Sarvos''', and '''Sorcha di Apulian'''. ('''OOC Note:''' The artists in question are welcome to {{plot}} us with copies of any art they would like to add to the page).
+{{CaptionedImage|file=Capodomus Adelmar.png|align=left|width=400}}
+[[Category:Title]][[Category:The League]][[Category:Synod]]

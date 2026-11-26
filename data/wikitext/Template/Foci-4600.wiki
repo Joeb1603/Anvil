@@ -1,0 +1,4 @@
+* '''Form:''' Talisman. Takes the form of a [[Magic Items#Talismans|ritual focus]]. You must be wearing this item or holding it in hand to use its magical properties.
+* '''Requirement:''' You must have the [[Magical skills#Magician|magician]] skill to bond to this item.
+[[Category:Magic Items]]
+[[Category:Foci]]

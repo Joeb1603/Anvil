@@ -1,0 +1,74 @@
+[[Category:Faraden]][[Category:Religion]][[Category:Foreign Nations]]
+<div style="float:left; width: 400px; clear: left;">{{CaptionedImage|file=Fire Whirl.jpg|align=left|caption=While the [[Faraden]] embrace four true virtues - what they call "flames" - their spiritual beliefs are very different to those of their Imperial neighbours.|width=400}}</div>
+==Introduction==
+During the Spring Equinox 385YE, the Assembly of Pride [[Tooth_by_tooth#Pride_and_Prejudice|discussed opportunities]] to send missionaries and [[wayfarer|wayfarers]] to other nations that did not share their understanding of the Way. Not to convert them, but to increase the Empire's understanding of their beliefs. The first [[mandate]] raised in support of this approach was enacted by Ubarius of Tropaion Citadel, and encouraged priests versed in Pride to visit [[Faraden]] and discuss their religion with representatives of the priestly families there. Serendipitously, the delegation of priests coincided with a [[Two_minutes#Emissary_to_the_Tchemetzi|similar delegation]] of the [[Celestial Arch]] on behalf of the [[Conclave]], and both groups were warmly welcomed by their Faraden counterparts. 
+
+This report mostly consists of a transcription of a letter composed by one of the priests who took part in the visit to Faraden, a version of which was sent to Ubarius at the Summer Solstice 385YE. As such, the reader should be alert for signs of personal bias in the words that follow.
+==Visiting Faraden==
+First let me thank you for this challenging opportunity! Visiting the Faraden has been sometimes exhausting, but it has never been dull. While it seems the divides between our religions are deeper than we'd previously believed, we also have enough similarities that there is hope for some sort of understanding between us.
+
+It will take some time to collate all our notes together; it takes more than a week or two to try and sum up an entire people. But I'm hoping this preliminary report into a few topics of interest may still prove valuable.
+
+==An Interesting People==
+Faraden is a compartmentalised society. The families are specialists; the merchants are the most well known in the Empire, and probably the most powerful. The warriors, wizards, and priests all come in a close second but they wield their influence over their society in different ways. For the most part the priests serve as advisors to their peers, helping them to embrace the Faraden version of the virtuous path.
+
+Priests also regularly serve as mediators between other families, and while authority is vested in whichever High Lord claims dominion over an area, they are regularly deferred to in matters of law and justice.
+
+The Faraden faith has been around for as long as their people. Their priests have preached the power of what we both today recognise as [[Courage]], [[Loyalty]], [[Prosperity]], and [[Pride]]. Before meeting the Empire, the Faraden spoke of these powers as “flames” which they believed burned inside each human being. When someone acts in line with a flame, it burns brighter. When they act against the flame, it dims. After someone dies, these flames provide protection against the trials and travails of the howling waste. 
+
+Today they use “flame” and “virtue” interchangeably, the influence of centuries of trade with the Empire.
+
+As I'm sure you know, they also have a fifth “flame” or “virtue” which they call “justice” and we know as the [[Malign spiritual presences|false spiritual presence]] of [[Malign_spiritual_presences#Vengeance|vengeance]]. While some of their families are violent zealots who look for the slightest reason to create an excuse for conflict, the majority of Faraden priests take a much more philosophical view of this fifth “flame”. We're busy putting together as much information about “justice” as we can, but as I'm sure you can appreciate there is a lot of information to sift through and evaluate. 
+
+One thing I did find interesting is that one of the Faraden explained the core of justice to me as the idea that “''If you do not punish those who wrong you, you will be further wronged''.“ There almost seem to be parallels with [[Vigilance]] here, perhaps. Yet it also illustrates one of the problems – “Justice” is neither proportionate or balanced, as the practitioner tries to ensure that someone who has transgressed against them never does so again by taking ''more'' than they have lost. Perhaps it might be more truthful to call it “Punishment”?
+
+It's been very interesting to see a society where Vengeance is seen as being important as Pride. The reputation the Faraden have for being “touchy” is not undeserved. When someone insults or offends a Proud Faraden, Justice tells them they should immediately retaliate. Faraden society as a whole is very mannered; people who have grown up in this environment have a much more nuanced natural ability to know what they can and cannot say or do without incurring the wrath of a stranger or family member. As outsiders, we regularly gave accidental offense to our hosts and on more than one occasion things came to blows or harsh words were exchanged.
+
+This is also a nation where [[Wisdom]], Vigilance, and [[Ambition]] are not seen as virtuous. That is not to say these people are stupid, or that they are not alert for threats, or that they do not set themselves goals and try to better their lives. Cleverness is respected, people watch for signs of treachery, they strive to improve their lot. The difference is that these things are seen as less important than being Loyal, Proud, Courageous, Prosperous, and quick to punish.
+
+It has contributed to a nation where people often find it difficult to cooperate. The nation is fractious, it easily closes ranks against outsiders, but when there are no outside pressures the families are constantly rubbing up against one another, vying for power, looking for ways to gain advantage without causing simmering resentment to boil over into open warfare. Like taking the very worst elements of the Marches, the League, and the Brass Coast and throwing them into a sack together,
+==Howling Wastes==
+As I'm sure you know, the Faraden do not believe in the Labyrinth. They believe that after death, the soul passes to a place they call the ''howling wastes''. The name is of course very interesting to anyone who has spoken with [[Imperial Orcs]]. They visualise it as a terrible endless, arid, rocky plain beneath a sky scattered with cruel stars, dotted with dead trees and bleached bones.
+
+As well as the dead, there are apparently other spirits there who seek to harm the deceased. The more virtuous a person is in life – the brighter the flames of their spirit burn – the more friendly those spirits are and the more aid they offer the wanderer to find their way back to life.
+
+Unfortunately, the longer a human spirit spends in the howling waste, the dimmer the flames they kindled in life become, and the easier it is for them to listen to the temptation of the dark spirits that also lurk in there. If their flames are extinguished, they will never leave the howling waste instead being transformed into malign spirits themselves. There is some disagreement here over what happens to the spirits of people who are not Faraden; some say they are doomed to become monsters but a more progressive belief is that they are capable of escaping the howling wastes if they are sufficiently virtuous in life, whether they know it or not.
+
+(One regrettable exception is [[orc|orcs]]. Most Faraden priests do not believe orcs have souls. To be fair this is less about any inherent prejudice than it is about the fact Faraden religion gives almost no thought to orcs at all).
+
+They labour under one significant misapprehension, but one that we as Imperial citizens are perhaps not unfamiliar with. They teach that once a dead spirit escapes the howling wastes that wait beyond life, they are ''always'' reincarnated as a member of the same family. How familiar from the short-sighted views of our own peoples, before the [[First Empress]]' revelation!
+
+This is one of the reasons that the Faraden have very strong rules regarding what is and is not acceptable when it comes to violence between their great families. One of the roles played by priests here is to mediate disputes, and as much as possible to prevent families making actual war on each other. If a family is wiped out, they will be unable to reincarnate. Their spirits will be trapped in the howling waste, eventually becoming malignant spirits that prey on the mortal souls who wander there, making it more likely they will be lead astray. 
+
+I genuinely believe that if the Faraden only had access to enough [[Liao#True Liao|true liao]] to be able to perform their own [[Past life vision|past life visions]] they would be able to overcome this misapprehension. Mind you, I couldn't say what undermining this belief which seems so integral to Faraden society might mean in the long run.
+
+==The Priest Families==
+We have been welcomed by representatives of several of the larger priestly families, and treated like respected guests. I was slightly crushed to discover, quite by chance, that our hosts were ''actually'' treating us more like children than adults. Children are treated much more leniently when they transgress against the many unwritten laws of Faraden society, which is after all infused with a spirit of Vengeance.
+
+We've always known that the Faraden have no real access to [[liao]] beyond what their merchants purchase in the Empire, but I had certainly never considered what effect his might have on them. [[Religious skills|Liao ceremonies]] that we take for granted in the Empire are viewed as generous rewards, and receiving a [[Hallow|hallowed]] item or an [[anointing]] is seen as a powerful sign of respect or recognition of truly virtuous acts. 
+
+Many priests are not even [[dedication|dedicated]], unable to perform ceremonies at all, until they prove that they are worthy of the honour – and are properly committed to preserving the position and strength of their family.
+
+Some priests make use of alternatives; there is apparently a pale milk-like substance that can be refined from certain rare orchids and provide a priest with the power to create an anointing but it's jealousy guarded and we were unable to actually acquire some. It seems to be much more expensive to produce than liao, and there's no suggestion that it can be used in place of true liao ever.
+
+Merchants with access to the Empire have been using their relatively ready supply of liao to effectively milk the priestly families dry over the last hundred years or so. It's notable that in the mercantile society of the Faraden, the priest families are almost always among the poorest.
+
+While they may not be wealthy, the spiritual advice of a priest is regularly sought. Almost every significant figure in Faraden society has a priestly advisor, and such positions are highly sought after by young priests. It's not common for a family to focus on a single virtue with the exception of the small number of families who make a point of dealing exclusively with matters of justice. 
+
+We've seen signs that the majority of the priest families are dissatisfied with those dedicated followers of Justice and it does not seem to be a new thing. Justice is important to the Faraden, but the priests who exclusively push it are often seen as zealots who cause more trouble than they solve. The Liege of the Five Winds has taken steps to significantly reduce their influence, something that has offended some of the more traditional families, especially among the warriors. On the other hand, its left space for more progressive priests to step in and exert a calming influence on the volatile politics of Faraden.
+
+==Faraden Synod==
+There is, realistically, no Faraden synod. Representatives of the priestly families meet at the Court of the Five Winds, and attempt to achieve some level of consensus on religious matters, but really they have nothing approaching “judgements”. Their “assemblies” are simply groups who are aligned with the same virtue, who try to ensure the tenets of that “flame” are accorded due respect by their peers.
+
+They are capable of exerting influence, but it is in the form of advising and guiding members of the other families rather than through mandates or even statements of principle.
+
+In some ways, each priestly family is their own national assembly. What I mean by that is that they decide among themselves what their stance on a topic is, and then try to use weight of numbers and rhetoric to convince other priestly families to agree with them. The more priests support an idea, the more likely it is they will be able to persuade merchants, warriors, and wizards to agree with their stance.
+
+So perhaps not that different to our own assemblies after all.
+==Coda==
+In closing, let me say that I have enjoyed my time in Faraden, seeing another nation's culture close up and immersing myself in it. I've spent many satisfying nights talking with my hosts about what it means to be Proud. It is fascinating how closely we both understand the meaning of “Pride”, yet how different out applications of that understanding are, and how nuanced those differences prove to be.
+
+I'd very much like to return to Faraden at some point in the near future, to spend more time among them, showing them how an Imperial priest practices virtue, and gaining new insight into Pride from a people who are at least our equals in zeal for their beliefs.
+==Resources==
+* [[File:The_True_Way.pdf|On the True Way]] - a dubious pamphlet published in 381YE claiming to explain the "virtue" of Justice written by a League citizen later [[Dusty_old_dust#Faraden_religion|executed for blasphemy and heresy]]
+{{Faraden Links}}

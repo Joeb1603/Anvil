@@ -1,0 +1,28 @@
+{{Army Page}}
+{{CaptionedImage|file=Drakes_Colour.png|align=right|width=300}}
+===Overview===
+First led by the legendary [[Life of Tom Drake|Tom Drake]], this army is [[Army qualities#Resourceful|extremely well-supplied]] and has an excellent corps of quartermasters, allowing it to recover casualties much more swiftly than normal. Many of the soldiers in this army come from [[Mitwold]], and this has led to a reputation for dogged determination and occasional internal conflict away from the battlefield. Its ranks have been swelled in recent years with soldiers displaced from the [[Mournwold]], which has helped exacerbate the situation. The army started the process of enlargement following the [[Enlargement_of_the_Drakes|Winter Solstice 382YE]]  and were [[Bills_or_bows#The_Drakes|relying on the support of their people]]. As of the Summer Solstice 384YE the Drakes are the first [[Army#Enlargement|large]] Marcher army.
+
+During the Spring Equinox 386YE the Senate voted to reinstate [[386YE_Spring_Equinox_Senate_sessions#Fund_the_Drummers_of_the_Drakes|Drake's Due]] that saw the army supported by Drake's Drummers. More information can be found in the [[Pride_of_the_Marches#Drake's_Due|Pride of the Marches]] wind of fortune.
+
+The first Marcher general leads the Drakes army and is appointed (or re-appointed) at the Summer Solstice each year.
+
+===History===
+TBC
+__TOC__
+TBC
+====Recent History====
+TBC
+
+===Traditions===
+TBC
+==Composition==
+TBC
+==Army Quality : [[Army_qualities#Pride_of_the_Marches|Pride of the Marches]]==
+The Drakes are beloved across the Marches, seen as exemplars of the nation's Pride and Loyalty. They have expert logistical support, able to quickly distribute resources and assign new soldiers, even while under attack. The Marchers who join the army are doggedly committed to their cause, so that soldiers who are so badly hurt they would normally be decommissioned fight to be allowed to rejoin their units. Young folk from across the Marches want to join the Drakes, and with the aid of the Drummers, they are given every opportunity to do so. Indeed, even while resting in other nations, the Drakes attract young people who want to fight in Tom Drake's army, and ultimately become Marchers themselves.
+==Oathsworn==
+* '''The Drakes fight with an additional thousand strength when in Mitwold'''
+As a result of a [[I_already_know_you#Reeds,_Drakes,_Tusks,_Bounders|mighty oath]] sworn in 386YE by [[General]] Tancred, when the Drakes fight in [[Mitwold]] they operate as if they had an additional thousand strength. However, should there ever be an enemy force in Mitwold, and the army ''not'' be in place defending the territory by the start of the following downtime, the oath will be broken with major consequences for the army. 
+{{CaptionedImage|file=Alfred Houtman Fella.jpg|caption='''Alfred Houtman Fella''', General of the Drakes|align=left|width=300}}
+{{RecentElections|General_of_the_Drakes|the title of [[General]] of the Drakes}}
+[[Category:Imperial Army]][[Category:The Marches]][[Category:Military Council]]

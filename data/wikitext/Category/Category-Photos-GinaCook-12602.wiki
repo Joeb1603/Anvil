@@ -1,0 +1,7 @@
+Gina is on [https://ko-fi.com/gina3101 Ko-Fi] if you want to support their work directly.
+
+Please include the following text in the description field when uploading files by this photographer to the wiki:<br />
+
+''<nowiki>{{GinaC}}
+</nowiki>''
+</noinclude><includeonly>[[Category:Photos:GinaCook]] [[:Category:Photos:GinaCook|Image by Gina Cook]]</includeonly>

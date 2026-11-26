@@ -1,0 +1,84 @@
+==Spring==
+<section begin=UrizenSpring/>
+<table class="wikitable sortable">
+<tr><th>Ritual</th><th>Explanation</th><th>Magnitude</th></tr>
+<tr><td style="white-space:nowrap;">[[Good Green Oak]]</td><td>Grants one rank of endurance for a season</td><td style="text-align: center;">6</td></tr>
+<tr><td style="white-space:nowrap;">[[Wellspring of the High Peak]]</td><td>Trades measures of ambergelt with an eternal to produce Spring vis</td><td style="text-align: center;">6</td></tr>
+<tr><td style="white-space:nowrap;">[[A Goblet of Stars]]</td><td>Enchants a physick with the ability to use any healing herb as if it were true vervain</td><td style="text-align: center;">8</td></tr>
+<tr><td style="white-space:nowrap;">[[Blood-dimmed Tide]]</td><td>With Siakha's aid, adds five ranks to a military unit that takes a raiding action during the next season.</td><td style="text-align: center;">10</td></tr>
+<tr><td style="white-space:nowrap;">[[Fountain's Bounty]]</td><td>Enchants a mana site to produce additional herbs, forest materials, and money</td><td style="text-align: center;">12</td></tr>
+<tr><td style="white-space:nowrap;">[[Woven Strands of Life]]</td><td>Transforms a mana site into a herb garden for a season that receives additional production</td><td style="text-align: center;">14</td></tr>
+<tr><td style="white-space:nowrap;">[[Rhythm of the Tempest]]</td><td>With Siakha's aid, grants a battle mage the ability to repeatedly repel their foes with a staff</td><td style="text-align: center;">16</td></tr>
+<tr><td style="white-space:nowrap;">[[Shark's Rampage]]</td><td>With Siakha's aid, fills the target with bloodthirsty prowess</td><td style="text-align: center;">24</td></tr>
+</table>
+<section end=UrizenSpring/>
+==Summer==
+<section begin=UrizenSummer/>
+<table class="wikitable sortable">
+<tr><th>Ritual</th><th>Explanation</th><th>Magnitude</th></tr>
+<tr><td style="white-space:nowrap;">[[Heaven's Spear Sunders the Mountain]]</td><td>Enchants a magician allowing them to spend mana to call CLEAVE with a staff.</td><td style="text-align: center;">8</td></tr>
+<tr><td style="white-space:nowrap;">[[Aspect of the Mountain]]</td><td>Grants a significant increase to the strength of a military unit when taking a guarding action.</td><td style="text-align: center;">20</td></tr>
+<tr><td style="white-space:nowrap;">[[Raise the Dragonsworn Cohort]]</td><td>Provides a powerful military unit for a season in return for a mine.</td><td style="text-align: center;">20</td></tr>
+<tr><td style="white-space:nowrap;">[[Vital Strength of the Earth]]</td><td>Grants additional power to uses of the unstoppable and relentless skills while touching earth or stone</td><td style="text-align: center;">28</td></tr>
+<tr><td style="white-space:nowrap;">[[Crown of Phoenix Fire]]</td><td>Grants two ranks of endurance to a group for a season</td><td style="text-align: center;">32</td></tr>
+<tr><td style="white-space:nowrap;">[[Hook of the Hoarfrost Guardian]]</td><td>Grants four strikedowns a day with a pole-arm for a season</td><td style="text-align: center;">40</td></tr>
+<tr><td style="white-space:nowrap;">[[Pillars of Adamant]]</td><td>Reduces damage to bastions and other structures of white granite and mithril in the territory</td><td style="text-align: center;">50</td></tr>
+<tr><td style="white-space:nowrap;">[[Might of Vstaive]]</td><td>Strengthens a fortification</td><td style="text-align: center;">80</td></tr>
+<tr><td style="white-space:nowrap;">[[Swords in the Noonday Sun]]</td><td>Enchants a campaign army granting soldiers supernatural prowess</td><td style="text-align: center;">80</td></tr>
+<tr><td style="white-space:nowrap;">[[Stone's Unyielding Defiance]]</td><td>Enchants a fortification increasing the strength of the garrison by 1,500 and repairing the bastion over the coming season.</td><td style="text-align: center;">120</td></tr>
+</table>
+<section end=UrizenSummer/>
+
+==Autumn==
+<section begin=UrizenAutumn/>
+<table class="wikitable sortable">
+<tr><th>Ritual</th><th>Explanation</th><th>Magnitude</th></tr>
+<tr><td style="white-space:nowrap;">[[Ethereal Courier]]</td><td>Send a specially prepared package to a named individual in a known location</td><td style="text-align: center;">10</td></tr>
+<tr><td style="white-space:nowrap;">[[Net of Gossamer Chains]]</td><td>Enchants a congregation to provide 3 autumn [[vis]]</td><td style="text-align: center;">14</td>
+<tr><td style="white-space:nowrap;">[[Quick Study]]</td><td>Enchants a college of magic to speed codification of rituals</td><td style="text-align: center;">42</td>
+<tr><td style="white-space:nowrap;">[[Bells of Silver and Brass]]</td><td>Restores the garrison of a target fortification over the coming season</td><td style="text-align: center;">60</td>
+<tr><td style="white-space:nowrap;">[[Eyes of the Hills]]</td><td>Enchants a campaign army changing its quality and granting supernatural ability to defend a territory with hills</td><td style="text-align: center;">80</td></tr>
+</table>
+<section end=UrizenAutumn/>
+
+==Winter==
+<section begin=UrizenWinter/>
+<table class="wikitable sortable">
+<tr><th>Ritual</th><th>Explanation</th><th>Magnitude</th></tr>
+<tr><td style="white-space:nowrap;">[[Treacher's Quill]]</td><td>Sends a message to the eternal Agramant</td><td style="text-align: center;">2</td></tr>
+<tr><td style="white-space:nowrap;">[[Mark of Agramant]]</td><td>Places an enduring magical mark on a target that can only be detected with detect magic</td><td style="text-align: center;">4</td>
+<tr><td style="white-space:nowrap;">[[Silence of the Bronze Bell]]</td><td>Grants a character with the dedicate skill the ability to remove auras with additional potency</td><td style="text-align: center;">12</td>
+<tr><td style="white-space:nowrap;">[[Chalice of Callidius]]</td><td>Allows a magician to gain extra personal mana when consuming something that restores mana..</td><td style="text-align: center;">14</td>
+<tr><td style="white-space:nowrap;">[[The Crimson Feast]]</td><td>With Agramant's aid, target gains three ranks of endurance for a season.</td><td style="text-align: center;">15</td>
+<tr><td style="white-space:nowrap;">[[Unleash the Beasts Within]]</td><td>With Agramants aid, grants an additional three ranks to a military unit that takes a campaigning action.</td><td style="text-align: center;">16</td>
+<tr><td style="white-space:nowrap;">[[Chastise the Foolish]]</td><td>Curses a target making them unable to use religious skills for a year</td><td style="text-align: center;">20</td></tr>
+<tr><td style="white-space:nowrap;">[[Thirst of the Devourer]]</td><td>With Agramant's aid, grants a target the ability to heal themselves when they successfully deliver an IMPALE</td><td style="text-align: center;">24</td>
+<tr><td style="white-space:nowrap;">[[Loosen the Shackles]]</td><td>Summons the power of Agramant to enchant a campaign army, granting murderous hunger.</td><td style="text-align: center;">120</td></table>
+<section end=UrizenWinter/>
+
+==Day==
+<section begin=UrizenDay/>
+<table class="wikitable sortable">
+<tr><th>Ritual</th><th>Explanation</th><th>Magnitude</th></tr>
+<tr><td style="white-space:nowrap;">[[Resolution of Falling Stars]]</td><td>Grants a magician the ability to overcome roleplaying effects by spending personal mana</td><td style="text-align: center;">6</td></tr>
+<tr><td style="white-space:nowrap;">[[Peregrine and Ichimos]]</td><td>Enchants a military unit to grant additional two additional ranks when taking a guarding action.</td><td style="text-align: center;">10</td></tr>
+<tr><td style="white-space:nowrap;">[[Blades of Clear Sight]]</td><td>Enchants a character who has the Weapon master skill to call IMPALE three times per day</td><td style="text-align: center;">14</td></tr>
+<tr><td style="white-space:nowrap;">[[Irresistible Stance of Force and Focus]]</td><td>Enchants a magician to allow them to cast REPEL four times a day</td><td style="text-align: center;">14</td></tr>
+<tr><td style="white-space:nowrap;">[[Arete and the Fields of War]]</td><td>Enchants a warrior with various abilities dependent on weapons and armour</td><td style="text-align: center;">16</td></tr>
+<tr><td style="white-space:nowrap;">[[A Light That Moves]]</td><td>Enchants a congregation for a season so that it provides additional votes and liao at the next summit</td><td style="text-align: center;">18</td></tr>
+<tr><td style="white-space:nowrap;">[[A Perfect Moment]]</td><td>Enchants a character granting them the marksman skill for a season</td><td style="text-align: center;">22</td></tr>
+<tr><td style="white-space:nowrap;">[[Guardian Gate]]</td><td>Enchants a fortification to gather information about a territory and impede spy networks</td><td style="text-align: center;">80</td></tr>
+</table>
+<section end=UrizenDay/>
+==Night==
+<section begin=UrizenNight/>
+<table class="wikitable sortable">
+<tr><th>Ritual</th><th>Explanation</th><th>Magnitude</th></tr>
+<tr><td style="white-space:nowrap;">[[The Stargazer's Astrolabe]]</td><td>Grants a magician the ability to repeatedly use detect magic</td><td style="text-align: center;">8</td></tr>
+<tr><td style="white-space:nowrap;">[[The Certainty of Doubt]]</td><td>Curses a character so that any congregation they control provides half as much liao and votes for a year</td><td style="text-align: center;">16</td></tr>
+<tr><td style="white-space:nowrap;">[[Hero's Journey]]</td><td>Enchants a character with the hero skill with two additional hero points and grants them a vision</td><td style="text-align: center;">20</td></tr>
+<tr><td style="white-space:nowrap;">[[Mirror of Perfection]]</td><td>Upgrade a mana site with ilium</td><td style="text-align: center;">30</td></tr>
+<tr><td style="white-space:nowrap;">[[Flame and the Flood]]</td><td>Upgrade a forest with ilium</td><td style="text-align: center;">30</td></tr>
+<tr><td style="white-space:nowrap;">[[An Echo of Songs]]</td><td>Upgrade a mine with ilium</td><td style="text-align: center;">30</td></tr>
+</table>
+<section end=UrizenNight/>

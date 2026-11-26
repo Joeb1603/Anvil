@@ -1,0 +1,189 @@
+[[Category:388YE Spring]][[Category:Winds of Fortune]][[Category:Highest Calling]]
+<ic>
+"..so of course, it was the obvious choice for the Navarri to choose the people of the High Peaks to join us in the great dance"
+
+"To be your pivotal node in the net of heavens, yes. Now, please understand vate Arwydd, I mean no offence to your centuries of trials and suffering, but if i may make one small suggestion?"
+
+"Of course, Arbiter?"
+
+"What if, and bear with me here, we used ''even more magic''?"
+</ic>
+<div style="float:left; width: 250px; clear: left;">{{CaptionedImage|file=Assembly Navarr.png|align=left|caption=The garden long-tended by the Navarr begins to bear fruit.|width=400}}</div>
+===Overview===
+Last season, the Navarr national assembly chose that Urizen should be the first nation they share their centuries of knowledge with in order to support the growth of the nascent [[Vallornguard]], and better prepare them for the fight that is to come. Not only did the Urizen national assembly welcome this with open arms, but the Loyalty assembly urged all those who know that this cause commands the devotion of their heart above all else to rise up and lend their aid.
+
+The Navarr descended upon, or rather ascended to the Urizen territories with an unprecedented enthusiasm whether they were warmly welcomed by spires, citadels and temples across the south west. They have spent the last four months in deep discussions and constructive debate on how the masters of the high peaks might best be prepared and utilised in the war against the vallorn.
+
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; margin-bottom: 10px;">
+{{SOPInner|statement=The Virtuous raise up their fellows. Any nation willing to raise arms and join the Vallornguard shall have our full support. We send Brynn Tendfallen with 50 doses of liao to lead our people in sharing everything we have with Urizen to prepare to finish the fight.|by=Teleri Thornweaver, Navarr National Assembly|vote=267-0|when=Winter 387YE}}
+
+{{SOPInner|statement=We seek to deploy the Eyes of Loyalty to embolden the following mandate: The Virtuous raise up their fellows. Any nation willing to raise arms and join the Vallornguard shall have our full support. We send Halkyon of the Myriad Stream with 25 liao to lead our people in sharing everything we have with Urizen to prepare to finish the fight|by=Veikko Bondforger, Loyalty Assembly|vote=316-28|when=Winter 387YE}}
+
+{{SOPInner|statement=We recognise and welcome the statement by the Navarr National Assembly (Judgement 71) and its highest calling to assist in defeating the vallorn. Urizen welcomes their aid and expertise.|by=Lepidina, Urizen National Assembly|vote=162-0|when=Winter 387YE}}
+</div>
+===Lifeblood===
+<div {{Float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Mithril Woven Nets'''</tr>
+<tr><td>'''Commission Type:''' Great Work</td></tr>
+<tr><td>'''Location:''' Ventosi, Redoubt</td></tr>
+<tr><td>'''Cost:''' 75 mithril, 225 crowns, and six months</td></tr>
+<tr><td>'''Availability:''' Until the start of Spring Equinox 389YE or another great work that increases investment in mana sites is built in Redoubt</td></tr>
+<tr><td>'''Effect:''' 
+* Increases investment of mana sites in Redoubt by one
+* Creates the title of ''Woven Architect of Crystal''
+* Ensures that Ventosi will not suffer unduly from flooding in the future, if the territory is cursed with [[Foam and Spittle of the Furious Sea|Foam and Spittle]]</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightGreen;">'''Woven Architect of Crystal'''</tr>
+<tr><td>'''Type:''' Imperial</td></tr>
+<tr><td>'''Appointment:''' Vallornguard</td></tr>
+<tr><td>'''Powers:''' Receives support from Spire of the Wealdawn to purchase mana crystals and sunfruit from spires in Redoubt</td></tr>
+<tr><td>'''Responsibilities:''' To gather supplies of mana to fight the vallorn.</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightYellow;">'''Wealth of the Wealds'''</td></tr>
+<tr><td>17 crowns</td><td>14 mana crystals and 1 sunfruit</td></tr>
+<tr><td>30 crowns</td><td>21 mana crystals and 2 sunfruits</td></tr>
+<tr><td>46 crowns</td><td>27 mana crystals and 3 sunfruits</td></tr>
+</table></div>
+* '''A great work could be built to boost mana production in Redoubt and allow the Vallornguard to buy large quantities of crystal mana'''
+* '''The plan repurposes an old idea to create mithril nets in Ventosi'''
+
+Just as the Marches supplies the Empire with food, so the nation of Urizen provides the Empire with mana crystals. It has long been hypothesised that there is something in the rarefied air that makes it easier to distil mana here. As if the currents of magic were being distorted by a thousand eddies as they are forced to wind their way between the tall mountain peaks.
+
+This is fortune, for there is no doubt that the war against the vallorn will require casting ''quite a lot'' of magic. Great skill will be needed, of course, but skill alone is not enough; a ritual magician must have mana crystals to perform their work. Spurred on by the enticing possibility of actually defeating the vallorn, a chance to build a better tomorrow for everyone, people dust off old plans first looked at two years ago to increase mana production in Urizen.
+
+''Claudius Nightstricken'', a [[stargazer]] who used to work at the [[Penumbral_Watcher#Tower_of_Light_and_Shadow|Tower of Light and Shadow]] before it was destroyed [[Sound_the_bells#Sodden_Plains|drew up the original plans]]. The plan involved a series of thinly woven mithril nets that could be installed in key points across the steep Ventosi cliffs. They would help to dissipate energy from any future storms, preventing the risk of damage from storms if the curses are needed to attack the Grendel. They would also help to strengthen the flows of magic in the territory, raising the level of investment in every [[mana site]] across [[Redoubt]]. 
+
+Best of all, the nearby Spire of the Wealdawn will offer support to whoever is appointed to oversee the delicate mithril nets. The Spire of the Wealdawn will arrange for the title, ''Woven Architect of Crystal'', to be able to purchase mana crystals from across the territory and will even sell them their rare ''sunfruit''. If properly distilled, a single ''sunfruit'' can be used to restore the personal mana of a group similarly to [[Tranquil Nostrum]].
+
+The plans have been examined and the costs updated to reflect recent changes in the territory, but they would definitely still work. It's a lot of investment, of course, and it would need funds to pay for all that mana, which would have to come from somewhere. The wind blowing through the Senate in recent times suggests that [[The circle game|markets and the like have fallen out of favour]]. But that can't apply to mana surely? Everybody needs more mana - it is ultimately more important than money.
+
+===Coming home===
+<div {{float}}>
+<table class="mw-collapsible mw-collapsed">
+<tr><td style="background-color: LightBlue;">'''Sunspire'''</td></tr>
+<tr><td>'''Commission Type:''' Sinecure</td></tr>
+<tr><td>'''Location:''' Peregro, Morrow</td></tr>
+<tr><td>'''Cost:''' 10 wains of [[white granite]], 3 wains of [[weirwood]], 3 wains of [[mithril]] 48 crowns, three months</td></tr>
+<tr><td>'''Availability:''' Until the start of Spring Equinox 389YE</td></tr>
+<tr><td>'''Special:''' Income of prismatic ink is dependent on continued good relations with Zakalwe</td></tr>
+<tr><td>'''Effect:''' 
+* Creates the title Arbiter of Sunspire
+* Creates a sinecure producing 4 prismatic ink
+* Results in supportive Urizen adding a new ritual to Urizen lore
+</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightGreen;">'''Arbiter of Sunspire'''</tr>
+<tr><td>'''Type:''' Urizen National</td></tr>
+<tr><td>'''Appointment:''' Vallornguard</td></tr>
+<tr><td>'''Powers:''' Receives an income of four [[prismatic ink]] each season
+<tr><td>'''Responsibilities:''' 
+* Coordinate efforts to eradicate the vallorn by Urizen magicians
+* Should the Spire ever come under threat, the Arbiter would be in charge of defending it</td></tr>
+</table>
+</div>
+*'''Sunspire could be rebuilt to resume its role as the centre for knowledge about the vallorn in Urizen'''
+*'''Enthusiastic spires would donate a new ritual text to Urizen lore if it were completed'''
+* '''The new Arbiter would receive a seasonal income of four vials of prismatic ink'''
+It was [[Morrow#Sunspire_(ruined)|Sunspire]] that served as the centre for learning about the vallorn in Urizen. It was said that if any outside Navarr understood the vallorn, it was the Urizen of Sunspire. Navarri vates were known to visit here to exchange news and knowledge. That all changed after the Summer Solstice 386YE when a [[Ashes#Twilight_(Morrow)|force of Druj]] from Therunin looted what books and scrolls they could before burning the rest of the spire to the ground.
+
+With the upswell of support within Urizen for the Vallornguard however, there is a newfound interest in rebuilding it so the spire can resume its rightful place in co-ordinating Urizen's response to the threat of the vallorn. If those at Anvil were willing to follow through on their words and manage to raise Sunspire again, ''Arbiter Sophia'' of one of the spires who managed to save one of Sunspire's ritual texts before its destruction would be willing to submit it to [[Urizen lore]], to see the work of her slain cousins be continued. Heralds of the eternal Zakalwe have pledged to provide a seasonal bounty of six vials of prismatic ink to the Arbiter, if they are charged to coordinate efforts to eradicate the vallorn by Urizeni magicians.
+
+====Chalice fills from the Fountain====
+<box>'''Day ritual: Magnitude 14;''' ''Enchants a character who has the magician skill to cast the Purify spell four times per day''<br><br>
+This enchantment targets a character with the [[Magical_skills#Magician|Magician]] skill. Four times each day they may cast the Purify spell as if they knew it without expending any reserves of personal mana. They also experience a roleplaying effect that encourages them to root out all impurities of themselves and others of the mind, body and soul. As with similar enchantments, any effect that restores all someone's personal mana in one go will also restore uses of this ability.</box>
+
+===A Change of Season===
+*'''The Citadel Guard could take a season to refocus its application of Spring magic'''
+*'''Until the end of 388YE, the General could use specific orders when on resupply to make it more effective at causing casualties'''
+*'''This would replace its existing Spring magic order with a new attacking order'''
+
+One of the very first things that the vates and thorns of Navarr teach when discussing how to kill vallorn is its susceptibility to poisons and venoms. The sentinels and stargazers meeting with them started grinning and looking at each other, and quickly discussed just how much [[Spring_magic#Venom|venom]] could theoretically be channelled through the [[Citadel Guard]] at any given moment. After significant calculations and experiments performed by the stargazers and vates working together, a new technique is distilled for consideration.
+
+The current Technique of the Transcendent Claw could be replaced, at any point before the start of Spring 389YE, with the Technique of the Immanent Claw. Ritualists and battlemages would train with vates and thorns to learn how to blanket any enemy they face in waves of venom, poisoning supplies, and choking the lungs. The sickly sweet aroma of poison would trail in their path wherever they went. The practical conviction of the Urizeni, that they seek the most efficient path to the desired outcome, and can wield magic to do so like no other people would be on display for all to see.
+
+====Technique of the Immanent Claw====
+<box>'''Fire in the Blood'''<br>
+* '''All casualties inflicted by this army are increased by a tenth'''
+* '''All casualties suffered by this army are increased by a tenth'''
+* '''All casualties inflicted by allied armies in the same territory who have issued attacking orders are increased by a tenth'''
+The magicians of the Citadel Guard focus on realigning the arcane reverberations of the army with that of poison and venom, massively increasing the casualties they inflict to their foes which will be especially effective when fighting the vallorn. They focus on the resonances of [[Spring_magic#Venom|venom]] and [[Spring_magic#savagery|savagery]] to focus purely on the task of killing.
+</box></div>
+
+===In Sickness and in Hell===
+<div {{float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''The Eastern Citadel'''</tr>
+<tr><td>'''Commission Type:''' [[Navarr wayhouse|Wayhouse]]</td></tr>
+<tr><td>'''Location:''' Whisperwood, Turan Flats, or Bloodwater Marsh, Sarangrave</td></tr>
+<tr><td>'''Cost:''' 10 rings of ilium, 15 wains of weirwood, 35 wains of mithril, 150 crowns, and three months</td></tr>
+<tr><td>'''Upkeep:''' 10 thrones</td></tr>
+<tr><td>'''Requirement:''' Trods are placed in Sarangrave</td></tr>
+<tr><td>'''Effects:
+* Creates the title Bulwark of the East
+* Creates a 3000 strength garrison to protect Sarangrave
+* Creates a guarding action to patrol the borders of [[Sarangrave#Béantal_Dol|Béantal Dol]] 
+* Increases taxation in Sarangrave by one throne a season
+* Allows for the targeting of the Sarangrave from the Imperial regio as long as the region the wayhouse is in remains in Imperial control</td></tr>
+<tr><td>'''Availability:''' Until the start of Spring Equinox 389YE</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightGreen;">'''Bulwark of the East'''</tr>
+<tr><td>'''Type:''' Navarr</td></tr>
+<tr><td>'''Appointment:''' Any</td></tr>
+<tr><td>'''Income:''' 11 mana crystals</td></tr>
+<tr><td>'''Responsibilities:'''
+* To protect the citadel and its guests and support the garrisons and their allies
+* To respond to threats from the vallorn in Sarangrave
+* To support the Urizen defence of the territory</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed" style="float: right; margin-left:10px; width=50%; max-width:500px;">
+<tr><td style="background-color: HotPink;">'''Patrol Béantal Dol'''</td></tr>
+<tr><td>'''Venture Type:''' Guarding Action</td></tr>
+<tr><td>'''Location:''' Sarangrave</td></tr>
+<tr><td>'''Availability:''' Urizeni, Navarr, Dawn</td></tr>
+<tr><td>'''Rewards:''' Same as [[Venture#Quest_Against_the_Vallorn|Quest Against the Vallorn]]</td></tr>
+<tr><td>'''Special:''' If the garrison is involved in a campaign, the military unit applies its strength to support the garrison instead of gaining any rewards</td></tr>
+</table></div>
+*'''The Navarr could construct a unique fortified wayhouse near the vallorn in the Sarangrave'''
+*'''It would serve as a home for a garrison to protect the territory from the vallorn (or anyone else) attacking the territory'''
+*'''Urizen, Navarr, and Dawnish military units could take a guarding action to patrol the vallornheart and protect the territory if needed'''
+While the Urizen may be struggling with their swooping robes and reliance on Ushabti to make the swamps of the Sarangrave work for them, the Navarr are no stranger to living in conditions where nature is fundamentally opposed to your continued existence. After length discussions with the Urizeni, they draw up plans for a unique commission that combines the best of both national traditions, a wayhouse to protect and shelter people on the trods, but built in the style of a fortified Urizeni citadel. It could be built in Whisperwood, Turan Flats, or Bloodwater Marsh, at least as long as there were no other fortifications in those regions.
+
+In addition to the normal benefits of a wayhouse, would serve as a staging ground a garrison of three thousand Urizeni and Navarr warriors. Sentinels and thorns, training to fight side-by-side against the vallorn so that both nations are ready to face Béantal Dol when it is awoken. Sarangrave is the only territory containing a vallorn that the Empire has ever controlled which hasn't been assigned to the Navarr - building the Eastern Citadel would be a way to ensure there oathsworn brands be on hand the moment they are need them. 
+
+Military units from Navarr, Urizen, and Dawn could take an action to support the garrison patrolling the eaves of Béantal Dol. It would be dangerous work fighting the spawn of the vallorn, but provided the garrison wasn't engaged in battle, the military units would have a chance to claim valuable herbs and forest resources. They would gain the same returns as those that took quest against the vallorn. The Citadel would be a valid target for any rituals that can target garrisons normally.
+
+The architects loved this plan, and added their own ideas; using the trods not only to supply people, but magic too. By using a spiral of ilium nodes to create a grounded magical target in conjunction with the energy being leached via the vallorn-adjacent trods, and staffing it with a series of experienced seers, it would be possible to anchor Urizen's magical dominion over the territory. This would mean that, as long as the Empire held the region that the Citadel was built in, they would still be able to target it with magic from the Imperial regio, even if the Empire lost dominion over the territory. Naturally, this would require the Imperial regio to be able to target territories which they understand had been malfunctioning as of late, but the architects are sure their colleagues who visit Anvil will have no trouble realigning the regio as necessary, if they haven't done so already.
+
+===Keep Your Friends Close===
+<div {{float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''The Venom Den'''</tr>
+<tr><td>'''Commission Type:''' Fane</td></tr>
+<tr><td>'''Location:''' Whisperwood, Sarangrave</td></tr>
+<tr><td>'''Cost:''' 10 rings of [[ilium]], 20 wains of [[weirwood]], 60 crowns, and three months</td></tr>
+<tr><td>'''Effects:
+* Creates the campaign title the Spider Prince
+* As long as there is a resident Spider Prince, heralds will aid Imperial armies to do a total of 500 more casualties when fighting the vallorn in [[Sarangrave]] and [[Therunin]]
+</td></tr>
+<tr><td>'''Availability:''' Until the start of Spring Equinox 389YE</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightGreen;">'''Spider Prince'''</tr>
+<tr><td>'''Type:''' Non-Imperial</td></tr>
+<tr><td>'''Appointment:''' Chosen by Arhallogen</td></tr>
+<tr><td>'''Income:''' 9 vital honey</td></tr>
+<tr><td>'''Responsibilities:''' 
+* To protect the Venom Den from any threats
+* To represent Arhallogen and promote their interests across the Empire
+* To encourage the Empire to hunt down and slay their enemies
+</td></tr>
+</table>
+</div>
+* '''Arhallogen has offered to support a fane in the Sarangrave to aid the fight against the Vallorn, for the last time'''
+* '''This will support Imperial efforts to fight the vallorn in both Sarangrave and Therunin'''
+* '''It is illegal to build this fane, while service to an eternal is proscribed'''
+
+Despite the saga with the [[Navarr]] in [[Brocéliande]], [[Arhallogen|the Scorpion Queen]] is willing make this offer one last time to the [[Archmage of Spring]]. The ''Scorpion Queen'' is clear however that if this offer is not taken, it shall be the last of its kind on this scale. If the Empire turns up its nose at this gift and the Spider King is approached again for significant boons to combat the vallorn then the Archmage and the whole Empire will get a profoundly adverse response. ''Sharp-Fangs'' is patient, but eventually every hunter must ''eat''.
+
+Once the Venom Den was complete, the ''Maw-of-Spikes'' would provide a bounty of 9 vital honey to the citizen they chose to become the Spider Prince. The eternal would also grant a [[Scorpion's Sting]] to whoever they allowed to assume the position each year. 
+
+The den itself would be a nexus of interweaving branches that would dig into the ground and rise into the treeline across a wide area. The den would allow huge spiders to lair in the area from where they could be called forth if suitably commanded. The idea of the heralds of the Spider-King fighting alongside Imperial armies to slaughter the vallorn offers clear military benefits. Specifically, all Imperial armies fighting the vallorn in both [[Sarangrave]] and [[Therunin]] would inflict 500 total extra casualties.
+
+There's just one problem - the proposal is currently proscribed - forbidden by judgement of the Synod that condemns all such titles as unvirtuous since they sublimate mortal will and destiny to an inhuman entity. Philosophers can argue the nature of free will but is hard to argue that there are many beings in all six realms more inhuman than the ''Centipede General''.

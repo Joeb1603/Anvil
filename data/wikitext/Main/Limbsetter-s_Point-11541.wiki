@@ -1,0 +1,10 @@
+==Description==
+The Limbsetter's Point is a tool useful to [[Physick|physicks]] who often deal with broken limbs. The [[Magic_items#Schema|schema]] was given as a reward from the eternal [[Barien]] as part of [[Conduit_to_destiny#The_Half-Handed_Lord|his offer]] to support the construction of the Runeforge. Originally known as the ''Grimnir's Bistoury'' the focus was renamed when the schema was given to [[Wintermark_Egregore#Sulkavaris|Sulkavaris]] by '''Derowen''' to be added to Runesmith's Law.
+
+===Limbsetter's Point===
+{{Tool}}
+*'''Requirements:''' You need the Physick skill to bond to this item.
+*'''Effect:''' You may use this tool twice per day to restore the use of a limb as if you were treating it with a dose of [[Cerulean Mazzarine|cerulean mazzarine]]. This takes 30 seconds.
+*'''Materials:''' Crafting a Limbsetter's Point requires four measures of [[ambergelt]] and two ingots of [[weltsilver]]. It takes one month to make one of these items.
+
+{{Runesmith's Law}}

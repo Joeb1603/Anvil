@@ -1,0 +1,133 @@
+{{CaptionedImage|file=DawnAndUrizen.jpg|caption=Sturdy castles and great stone walls protect the Imperial heartlands.|align=left|width=350}}
+==Overview==
+The world of Empire is littered with walled settlements, fortresses, keeps, castles and fortified bridges. These lesser structures may be the target of a quest or skirmish but they are not important for the calculation of army strength present in a territory. Only mighty fortifications are notable - networks of carefully positioned forts; great stone walls with sentinel towers and the like. All these bastions boast powerful garrisons, which will fight to support allied military campaigns but may be depleted in the process.
+
+==Benefits==
+* '''All fortifications provide two key benefits that help to protect the territory and the people who live there'''
+* '''A fortification includes a garrison of soldiers that will defend the territory if is attacked'''
+* '''A fortification includes a bastion that makes the region where it is built harder to conquer'''
+* '''Military units can help defend a fortification'''
+
+Fortifications provide two key benefits. First, every fortification includes a [[#garrison|garrison]], a body of troops that will intercept opposing armies, or support friendly armies, anywhere in the [[territory]]. For as long as the garrison is still standing, they protect the entire territory.
+
+Second, each fortification also includes a [[#bastion|bastion]] that directly protects the [[territory#regions|region]] they are in, making it more difficult for opposing armies to conquer it. This also helps to protect the people who live in the region and other [[commission|commissions]] built there. Even the [[Druj]] are not so foolish to attempt to destroy property in a region where there is a powerful bastion opposing them.
+
+[[#Military_Units|Military Units]] can support a fortification, aiding the garrison if it is active and defending the bastion if it is attacked.
+
+===Garrison===
+* '''A starting fortification includes a garrison of 3,000 fighting strength that takes part in any battle in the territory'''
+* '''Garrisons suffer casualties in the same way that armies do'''
+* '''If the fighting strength of the garrison is reduced to zero it takes no further action or casualties'''
+* '''A garrison in a territory with no opposing forces present during the season naturally resupplies up to 300 casualties'''
+* '''A garrison can receive emergency resupply with mithril or weirwood in any territory where no opposing forces are present'''
+A garrison represents a body of soldiers connected to a fortification. They take part in a military campaign in the territory, applying their fighting strength against invading enemies or fighting alongside friendly armies.
+
+Garrisons suffer [[casualties]] in the same way as an Imperial army would. If its fighting strength is reduced to zero, the garrison becomes inactive - it takes no further action or casualties, and [[military unit|military units]] taking an action no longer add their strength to its effectiveness. The garrison can be rebuilt as long as the fortification it is attached to still exists.
+
+When a fortification is upgraded, each level of fortification increases the strength of the garrison by 3,000.
+
+Garrisons benefit from [[Army#Resupply|resupply]] like an [[Imperial army]]. A garrison will [[Casualties#Natural_Resupply|recover a tenth of their maximum strength each season]] that there are no enemy forces in their territory. They can also receive [[Casualties#Emergency_Resupply|emergency resupply]] provided the garrison is not engaged in a campaign that season. If the garrison takes part in a campaign - either attacking, being attacked or being part of a larger force that attacks - then any attempt to use emergency resupply fails. 
+
+Emergency resupply of a garrison requires an appropriately worded Senate motion (or a title using a power devolved from the Senate, such as the [[Quartermaster General of the Imperial Armies]]), using either [[mithril]] or [[weirwood]] at the same rates as an army. As with an army, the first 20 wains of weirwood or mithril in a single season restore 25 strength for each wain allocated. The next 20 wains provide an additional 20 strength each an so on, up to a maximum of 100 wains in a single season. In addition to materials, emergency resupply costs 2 crowns per wain. The rate of emergency resupply resets each season so the mithril and weirwood spent in a subsequent season is not affected by earlier actions.
+{{CaptionedImage|file=ThatWay.jpg|caption=Sturdy castles and great stone walls protect the Imperial heartlands.|align=right|width=350}}
+===Bastion===
+* '''A starting bastion increases the number of victory points required to take the region it is built in by 10'''
+* '''A bastion does not defend the territory or cause casualties - the garrison does that'''
+* '''The bastion takes a share of the casualties if the region is attacked'''
+* '''A starting bastion starts with 3000 integrity, it collapses into ruin if this number is reduced below 1000'''
+* '''Damage caused by armies is reduced by 80%'''
+* '''A bastion can only be restored with emergency resupply using wains of white granite'''
+A bastion is a physical structure such as a castle, tower, or citadel. It makes the [[territory#regions|region]] it is built in harder to take. Each level of fortification increases the number of victory points required to take the region the bastion is in by 10.
+
+A bastion does not defend the territory or cause casualties, but it does take a share of casualties if the region is attacked. A starting bastion has an integral strength of 3000, it will collapse if this [[Campaign_outcome#Casualties|number is reduced below 1000]]. The damage suffered by a bastion during a military campaign by opposing forces is reduced by four-fifths. Damage from other sources may not be reduced in this way - for example [[Thunderous Tread of the Trees]] does full damage to the integrity of any bastions in the territory.
+
+Any damage to the integrity of a bastion ''must'' be repaired with the expenditure of white granite, and requires an appropriately worded Senate motion (or a title using a power devolved from the Senate such as the [[Imperial Master of Works]]). The costs are the same as for [[Casualties#Emergency_Resupply|emergency resupply]] for armies - in a single season, the first 20 wains of white granite restore 25 integrity for each wain allocated and so on.
+
+Any surviving members of the garrison will always fight to defend the bastion if it is attacked. The garrison is automatically lost if the bastion is destroyed.
+
+==Senate Commission==
+The [[Imperial Senate]] can pass motions to create new fortifications, or to improve or repair existing ones. Every fortification occupies a [[territory#Regions|single region]]; a given region may only contain one fortification.
+
+In addition to a Senate motion, there are five Imperial titles able to announce the construction of a new fortification: the [[Master of the Koboldi]], [[Legion Engineer]], [[Master of Works]], [[Chair of the Wolf]] and [[Master of Rings]]. The Master of Works, Legion Engineer, Master of the Koboldi, and [[Architect of Hammers]] are able to announce the [[#Improvement|improvement]] of a single fortification each season.
+
+The Legion Engineer can, when announcing the construction of a new fortification or upgrade of an existing fortification, call upon the expertise of the [[Tamazi]]. They can instruct the Tamazi to implement designs from Axos, with walls thick enough to conceal passages and hidden chambers within them. Some of these passages would conceal traps, others would protect hidden sally ports used to bedevil any enemy foolish enough to attempt a siege. All casualties inflicted by the garrison during an attack on the region containing the bastion would be increased by a fifth. This increases the cost of the fortification by 20 wains of mithril and 60 crowns. Alternatively, they can instruct the Tamazi to work mithril runes into the walls. The bastion would be protected from certain kinds of malign magic. The bastion would take half the normal damage from magical attacks such as [[Thunderous Tread of the Trees]]. This also increases the cost of the fortification by 20 wains of mithril and 60 crowns.
+
+===Costs===
+* Materials: 80 [[white granite]] and 30 thrones
+* Time: 1 year to construct
+* Upkeep: 10 thrones per season
+
+===Improvement===
+* '''Fortifications can be upgraded to increase the size of the garrison and the bastion by 3000 each'''
+* '''Increasing the strength of an existing fortification is cheaper than building a new one'''
+<div style="width:400px; float: right; margin-bottom: 10px; margin-left: 15px;"><table class="wikitable">
+<tr><th>Fortification Level</th><th>Cost</th></tr>
+<tr><td>1</td><td>80 wains, 240 crowns</td></tr>
+<tr><td>2</td><td>70 wains, 210 crowns</td></tr>
+<tr><td>3+</td><td>60 wains, 180 crowns</td></tr>
+</table></div>
+
+The Imperial Senate can pass a motion to upgrade the defences of an existing fortification. Improving a fortification takes one year to complete. The fortification must be controlled by the Empire throughout. Increasing the level of fortification increases the strength of the garrison by 3,000, increases the amount of damage the bastion can take by 3,000, and increases the number of VPs needed to take the region by 10.
+
+Strengthening an existing fortification is cheaper than building a new one - the table shows the costs to raise the level of a fortification from one to level two and the cost to raise it to level three or above. There are no further discounts in cost above level 3.
+
+===Upkeep===
+* '''Each level of fortification requires 10 thrones a season in upkeep'''
+
+Fortifications require less money to pay for their upkeep than an Imperial army - but they are still not free. A basic fortification costs 10 thrones per season; upgraded fortifications have an upkeep of 10 thrones per level of fortification.
+
+If there is insufficient income in the Imperial treasury to pay for the upkeep of a fortification, then the fortification provides no benefits of any kind that season - the garrison will not fight and the bastion does not make the region harder to take.
+
+===Decommission===
+* '''A fortification can be decommissioned with a Senate motion'''
+If the Senate pass a motion to decommission a fortification, then it no longer costs upkeep; the garrison is immediately stood down; and the bastion no longer impedes attempts to claim a region. Without upkeep, the bastion will begin to degrade; losing a tenth of its maximum integrity each season until it reaches 1000 and collapses. 
+
+A decommissioned fortification can be recommissioned by a Senate motion, or any title which is able to announce the construction of a new fortification. The upkeep resumes; a garrison of 0 strength begins raising, resupplying at its normal rate; and the bastion can receive emergency resupply as normal.
+
+==Military units==
+* '''Military units can be assigned to support a fortification
+* '''If the garrison is still standing, the military unit supports the garrison
+* '''If the garrison has been destroyed, the military unit supports the fortification
+Some wealthy or powerful citizens maintain their own independent [[military unit]]. These units can use the [[military unit#Guarding|guarding]] action to support a fortification. The unit supports the [[#garrison|garrison]] in any campaign that season, provided it has not been destroyed (it has an effective strength greater than zero). If the garrison has been wiped out, the soldiers defend the [[#bastion|bastion]] instead. They apply their military strength against a force attacking the bastion, both resisting attempts to conquer the region and causing casualties, but obviously this only applies if the region containing the bastion is attacked.
+
+The experienced and capable troops in a military unit provide an advantage out of proportion to their numbers. A starting military unit adds the equivalent of 100 soldiers to the strength of any fortification they support. [[Military unit#Upgrades|Improved]] military units provide additional strength, and there are [[enchantment|enchantments]] such as [[Aspect of the Mountain]] or [[Peregrine and Ichimos]] that can further bolster the ability of a military unit to support a fortification.
+
+==Rituals==
+The table below shows a list of the rituals in both Imperial lore and Urizen lore which can affect a fortification.
+
+{| class="wikitable sortable"
+! Ritual
+! Effect
+! Realm
+! Magnitude
+|-
+|[[Bells of Silver and Brass]]<sup>[[#1|(1)]]</sup> || The garrison of the target fortification restores 250 strength over the next season || Autumn || 60
+|-
+|[[Golden Ramparts]] || The garrison of the target fortification's effective strength is increased by 1,500 over the next season || Summer || 80
+|-
+|[[Guardian Gate]]<sup>[[#1|(1)]]</sup> || Any [[spy network]] operating in the territory finds it harder to gain information. Any [[military unit|military units]] supporting the fortification will receive a report on hostile armies in the territory at the next event. || Day || 80
+|-
+|[[Hammers of the Brilliant Shore]] || The bastion of the target fortification restores 250 strength over the next season || Summer || 60
+|-
+|[[Might of Vstaive]]<sup>[[#1|(1)]]</sup> || The garrison of the target fortification's effective strength is increased by 1,500 over the next season || Summer || 80
+|-
+|[[Mountain Remembers Its Youth]]<sup>[[#2|(2)]]</sup> || All bastions, garrisons, and armies in the territory suffer a share of 500 casualties over the next season. Casualties suffered by bastions in this way are reduced by 80% || Spring || 60
+|-
+|[[Mystic_scrolls_of_Estavus#Ramparts_of_Ashlar|Ramparts of Ashlar]]<sup>[[#3|(3)]]</sup> || The garrison of the target fortification's effective strength is increased by 3,000 over the next season || Autumn || 120
+|-
+|[[Stalwart Stand on Solid Ground]] || The bastion of the target fortification will not be destroyed over the next year unless it is reduced to 0 strength || Summer || 60
+|-
+|[[Stone's Unyielding Defiance]]<sup>[[#1|(1)]]</sup> || The target fortification's bastion restores 250 strength, and its garrison's effective strength is increased by 1,500 over the next season || Summer || 120
+|-
+|[[Thunderous Tread of the Trees]]<sup>[[#2|(2)]]</sup> || All bastions, garrisons, and armies in the territory suffer a share of 500 casualties over the next year. || Spring || 120
+|-
+|}
+<small>
+#{{anchor|1}} This ritual is in [[Urizen_magical_traditions#Urizen_Lore|Urizen lore]]
+#{{anchor|2}} This curse affects an entire territory
+#{{anchor|3}} This ritual is a [[Mystic_scrolls_of_Estavus|mystic scroll]] of [[Estavus]]
+</small>
+{{#lst:Archive:All_Commissions|fortifications}}
+{{War Further Reading}}
+[[Category: Senate]]
+[[Category:Commission]]

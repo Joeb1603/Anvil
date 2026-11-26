@@ -1,0 +1,178 @@
+There are a number of Paragons and Exemplars identified in [[Paragons and exemplars]] and [[Known exemplars]]
+
+===Paragons and Exemplars===
+{| class="wikitable sortable" style = "text-align:center"
+! style="width: 20%"|Name 
+!! style="width: 10%"| Virtue 
+!! style="width: 10%"|Status 
+!! style="width: 30%"|Recognised 
+!! style="width: 10%"|[[Paragons and exemplars#Renown|Renown]]
+|-
+| style = "text-align:left"|Achilles of Damakan's Forge ||Prosperity|||Exemplar|||[[382YE Summer Solstice Synod judgements#Judgement 18|382YE Summer Judgement 18]] ||No
+|-
+| style = "text-align:left" | [[Adelmar the Lion]] || Ambition || Exemplar || 176YE || Yes
+|-
+| style = "text-align:left" | [[Aldones di Sarvos]] || Ambition || Paragon || 23YE || Yes
+|-
+| style = "text-align:left" | [[Atuman]] || Ambition || Exemplar || Pre-Imperial paragon ratified 3YE <br> Exemplar 23YE|| Yes
+|-
+| style = "text-align:left" | [[Atun]] || Wisdom || Paragon || Pre-Imperial ratified3YE || Yes
+|-
+| style = "text-align:left" | [[Avigliana di Sarvos]] || Wisdom || Exemplar || 76YE || Yes
+|-
+| style = "text-align:left" | [[Berechiah]] || Vigilance || Exemplar || 302YE || Yes
+|-
+|style = "text-align:left" | [[Bolstering Bill (Exemplar)|Bolstering Bill]] || Loyalty || Exemplar || Undocumented || Yes
+|-
+| style = "text-align:left" | Chernobog of the Vor’azi || Loyalty || Exemplar || [[380YE Spring Equinox Synod judgements|380YE Spring Judgement 11]] || No
+|-
+|style = "text-align:left"| [[Cora Holdfast]] || Loyalty || Exemplar || [[379YE Summer Solstice Synod judgements|379YE Summer Judgement 8]] || Yes
+|-
+|style = "text-align:left" | Damaris of Cantiarch’s Hold || Courage || Exemplar || [[377YE Summer Solstice Synod judgements|377YE Summer]] || No
+|-
+| style = "text-align:left" | [[Elayne Silverlark|Lady Elayne Silverlark]] || Loyalty || Exemplar || Pre-Imperial ratified18YE || Yes
+|-
+| style = "text-align:left" | [[Emperor Ahraz]] || Courage || Exemplar || [[378YE Summer Solstice Synod judgements| 378YE Summer Judgement 18]] || Yes
+|-
+| style = "text-align:left" | [[Empress Richilde]] || Pride || Paragon || 219YE (72YE Exemplar)|| Yes
+|-
+| style = "text-align:left" | Gerallt Brackensong || Pride || Exemplar || [[382YE Winter Solstice Synod judgements#Judgement 6|382YE Winter Judgement 6]] || No
+|-
+| style = "text-align:left" | [[Gilda Ashwine]] || Courage || Exemplar || Undocumented <br> Revoked 106YE <br> Recognised again 186YE || Yes
+|-
+|style = "text-align:left" | [[Good Walder]] || Prosperity || Paragon || 0YE - 22YE || Yes
+|-
+| style = "text-align:left" | [[Inga Tarn]] || Courage || Exemplar || 308YE || Yes
+|-
+| style = "text-align:left" | [[Isaella]] || Courage || Exemplar || 213YE || Yes
+|-
+| style = "text-align:left" | [[Isenbrad]] || Wisdom || Paragon || Undocumented || Yes
+|-
+| style = "text-align:left" | Joshua Benson || Vigilance || Exemplar || [[379YE Spring Equinox Synod judgements|379YE Spring Judgement 5]] || No
+|-
+| style = "text-align:left" | Juha the Cave Spider || Loyalty || Exemplar || [[384YE Autumn Equinox Synod judgements#Judgement 3|384YE Autumn Equinox Judgement 3]] || No
+|-
+| style = "text-align:left" | [[Kala]] || Wisdom || Exemplar || 28YE || Yes
+|-
+| style = "text-align:left" | [[Kethry]] || Pride || Paragon || Undocumented || Yes
+|-
+| style = "text-align:left" | [[Korl]] || Courage || Paragon || Undocumented || Yes
+|-
+| style = "text-align:left" | [[Lepidus]] || Pride || Paragon || Pre-Imperial ratified 18YE || Yes
+|-
+|style = "text-align:left" |  [[Long Tom Goodfellow]] || Prosperity || Exemplar || 56YE || Yes
+|-
+|style = "text-align:left" |  Mani of the Scions of Atun || Wisdom || Exemplar || [[379YE Summer Solstice Synod judgements| 379YE Summer Judgement 16]]  <br> Initially rejected [[378YE Spring Equinox Synod judgements|37YE Spring Judgement 19]]. || No
+|-
+| style = "text-align:left" |  Margaret of Meade || Ambition || Exemplar || [[Old_ways#Margaret_of_Meade|272YE]] || No
+|-
+| style = "text-align:left" |  Mother Od also known as [[Mitwold#Oddmire|Odd of Odd's End]] || Pride || Exemplar || [[376YE Winter Solstice Synod judgements| 376YE Winter]]  || No
+|-
+| style = "text-align:left" | Navarr || Wisdom || Exemplar || [[381YE Winter Solstice Synod judgements| 381YE Winter Judgement 35]] || No
+|-
+| style = "text-align:left" | [[Nicolo Barossa]] || Prosperity || Exemplar || [[377YE Winter Solstice Synod judgements|377YE Winter]] <br>Failed revocation [[378YE Spring Equinox Synod judgements| 378YE Spring Judgement 9]] || Yes
+|-
+| style = "text-align:left" | Olga of Miekarova || Vigilance || Exemplar || [[377YE Autumn Equinox Synod judgements|377YE Autumn]] || No
+|-
+| style = "text-align:left" | Olwyn the Witness || Pride || Exemplar || [[376YE Winter Solstice Synod judgements|376YE Winter]] || No
+|-
+| style = "text-align:left" | [[Permion]] || Courage || Exemplar || Highborn Civil War || Yes
+|-
+| style = "text-align:left" | [[Ratibor of Temeschwar]] || Ambition || Exemplar || [[379YE Summer Solstice Synod judgements|379YE Summer Judgement 14]] || Yes
+|-
+|style = "text-align:left" |  Skywise Rykana || Wisdom || Exemplar || [[382YE Autumn Equinox Synod judgements#Judgement 17|382YE Autumn Judgement 17]] || No
+|-
+|style = "text-align:left" |  [[The Little Mother]] || Prosperity || Exemplar || 50BE || Yes
+|-
+| style = "text-align:left" | [[The Marked]] || Loyalty || Paragon || Undocumented || Yes
+|-
+| style = "text-align:left" | [[The Sentinel]] || Vigilance || Paragon || Pre-Imperial ratified1YE || Yes
+|-
+|style = "text-align:left" |  Thorn || Ambition || Exemplar || [[380YE Summer Solstice Synod judgements| 380YE Summer Judgement 34]] || No
+|-
+| style = "text-align:left" | Thrace || Ambition || Exemplar || [[379YE Spring Equinox Synod judgements|379YE Spring Judgement 30]] || No
+|-
+| style = "text-align:left" | [[Tian]] || Ambition || Paragon || 1YE || Yes
+|-
+|style = "text-align:left" |  [[Vardas]] || Vigilance || Paragon || 34BE || Yes
+|-
+|style = "text-align:left" |  [[Zemress]] || Prosperity || Exemplar || 223YE || Yes
+|-
+|style = "text-align:left" |  [[Zoria]] || Wisdom || Paragon || Undocumented || Yes
+|}
+
+===Renown Paragons===
+{| class="wikitable sortable" style = "text-align:center; width:50%"
+! style="width: 30%"|Name 
+!! style="width: 10%"| Virtue 
+!! style="width: 30%"|Recognised 
+|-
+| style = "text-align:left" | [[Aldones di Sarvos]] || Ambition || 23YE
+|-
+| style = "text-align:left" | [[Atun]] || Wisdom || 3YE
+|-
+| style = "text-align:left" | [[Empress Richilde]] || Pride || 219YE (72YE Exemplar)
+|-
+|style = "text-align:left" | [[Good Walder]] || Prosperity ||  0YE - 22YE
+|-
+| style = "text-align:left" | [[Isenbrad]] || Wisdom ||  Undocumented
+|-
+| style = "text-align:left" | [[Kethry]] || Pride ||  Undocumented
+|-
+| style = "text-align:left" | [[Korl]] || Courage ||  Undocumented
+|-
+| style = "text-align:left" | [[Lepidus]] || Pride ||  Pre-Imperial ratified 18YE
+|-
+| style = "text-align:left" | [[The Marked]] || Loyalty ||  Undocumented
+|-
+| style = "text-align:left" | [[The Sentinel]] || Vigilance ||  Pre-Imperial ratified 1YE
+|-
+| style = "text-align:left" | [[Tian]] || Ambition ||  1YE
+|-
+|style = "text-align:left" |  [[Vardas]] || Vigilance ||  34BE
+|-
+|style = "text-align:left" |  [[Zoria]] || Wisdom ||  Undocumented
+|}
+
+===Renowned Exemplars===
+{| class="wikitable sortable" style = "text-align:center; width:50%"
+! style="width: 30%"|Name 
+!! style="width: 10%"| Virtue 
+!! style="width: 50%"|Recognised 
+|-
+| style = "text-align:left" | [[Adelmar the Lion]] || Ambition || 176YE
+|-
+| style = "text-align:left" | [[Atuman]] || Ambition ||  Pre-Imperial paragon ratified 3YE <br> Exemplar 23YE
+|-
+| style = "text-align:left" | [[Avigliana di Sarvos]] || Wisdom ||  76YE
+|-
+| style = "text-align:left" | [[Berechiah]] || Vigilance ||  302YE
+|-
+|style = "text-align:left" | [[Bolstering Bill (Exemplar)|Bolstering Bill]] || Loyalty ||  Undocumented 
+|-
+|style = "text-align:left"| [[Cora Holdfast]] || Loyalty ||  [[379YE Summer Solstice Synod judgements|379YE Summer Judgement 8]]
+|-
+| style = "text-align:left" | [[Elayne Silverlark|Lady Elayne Silverlark]] || Loyalty || Pre-Imperial ratified18YE
+|-
+| style = "text-align:left" | [[Emperor Ahraz]] || Courage ||  [[378YE Summer Solstice Synod judgements| 378YE Summer Judgement 18]]
+|-
+| style = "text-align:left" | [[Gilda Ashwine]] || Courage ||  Undocumented <br> Revoked 106YE <br> Recognised again 186YE 
+|-
+| style = "text-align:left" | [[Inga Tarn]] || Courage || 308YE
+|-
+| style = "text-align:left" | [[Isaella]] || Courage ||  213YE
+|-
+| style = "text-align:left" | [[Kala]] || Wisdom ||  28YE
+|-
+|style = "text-align:left" |  [[Long Tom Goodfellow]] || Prosperity ||  56YE
+|-
+| style = "text-align:left" | [[Nicolo Barossa]] || Prosperity ||  [[377YE Winter Solstice Synod judgements|377YE Winter]] <br>Failed revocation [[378YE Spring Equinox Synod judgements| 378YE Spring Judgement 9]]
+|-
+| style = "text-align:left" | [[Permion]] || Courage ||  Highborn Civil War
+|-
+| style = "text-align:left" | [[Ratibor of Temeschwar]] || Ambition ||  [[379YE Summer Solstice Synod judgements|379YE Summer Judgement 14]]
+|-
+|style = "text-align:left" |  [[The Little Mother]] || Prosperity ||  50BE
+|-
+|style = "text-align:left" |  [[Zemress]] || Prosperity ||  223YE
+|}

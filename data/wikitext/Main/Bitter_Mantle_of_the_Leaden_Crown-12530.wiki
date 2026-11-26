@@ -1,0 +1,34 @@
+==Rules==
+{{Season|Winter|14}}
+===Performing the Ritual===
+{{Casting time|2}}  At the end of the ritual one of the [[Rituals#Contributors|contributors]] is chosen to deliver the curse with a [[curse#Pronouncement of Doom|pronouncement of doom]].
+
+{{curse}} 
+
+===Effects===
+This ritual creates a [[curse]] that is delivered to a target with a [[curse#Pronouncement of Doom|pronouncement of doom]]: one of the [[Rituals#Contributors|contributors]] is chosen to deliver the curse, and they must do so within fifteen minutes or it falls on their own head. 
+
+While under the curse the target cannot recover [[Heroic skills#Extra Hero Points|hero points]] or [[Magical skills#Extra Mana|personal mana]] naturally, or through the use of a [[Dragonbone Symbol]], or an enchanted [[aura]] such as [[The Chamber of Delights]]. They recover any used mana and hero points at the start of each month, and other effects that restore hero points or mana points, such as the [[Philtres of War]], [[Philtres of the High Peaks]], and [[Crystaltender's Vestment]] work normally.
+
+In addition, while awake, the target experiences a roleplaying effect: ''You feel the weight of the decisions you have made weighing like a physical burden, heavy on your head and shoulders. The more weighty the decision, the heavier the burden feels. When faced with matters of great significance, you may choose to see visions of terrible outcomes showing suffering and destruction. It feels like there are choices you can make which will avert this fate, if you can just choose wisely.''
+
+While sleeping, the target experiences an additional roleplaying effect: ''Your sleep is plagued by dreams of decisions you have made that have gone awry. Shattered fleets, burning villages, slaughtered armies; excommunication, abandonment, exile. These dreams portray the worst possible outcomes of decisions that you have taken or are weighing currently. The dreams suggest there is a better path to take, but give no clues as to what it might be.'' 
+
+The target should feel free to create details of their vivid, lucid dream using the information presented here as a starting point.
+
+{{Season Duration}}
+
+==Description==
+This [[Winter magic|Winter]] [[curse]] was based on work originally done by '''Cassia Apulian Silkweaver''', an [[Urizen]] [[seer]] associated with the Spire of Auric Horizon. It was codified shortly before the Autumn Equinox 386YE at the [[Master_of_Ice_and_Darkness#The_Icy_Crag_of_the_Eternal_Sun|Icy Crag of the Eternal Sun]] under the guidance of '''Ceinwen Eternal''' but there was difficulty delivering the final text to the [[Master of Ice and Darkness]] that delayed it until the Winter Solstice of that year.
+
+The ritual creates a curse, which draws strongly on the Winter resonance of [[Winter magic#Fear|fear]]. Fear of failure is understandable but also fear of success. As virtue teaches, consequences are all too often the price of ambition. The fear this ritual plays upon is that which all too often paralyses those whose choices have great impact on the lives of others. When one's decision can mean death or suffering for others, perhaps even friends or family, it is comparatively easy for this curse to take root.
+
+As with the [[Dreamscape of the Endless Hunt]], the ''Bitter Mantle of the Leaden Crown'' saps the will of the one who suffers under its untender ministrations. When one is second-guessing one's every move it is hard to relax for more than a few moments. Worse, the curse warps and twists the dreams of the victim, filling them with images of disaster and suffering caused by their choices and decisions. It is a cruel fare indeed.
+
+Fortunately, unlike the Endless Hunt, the Leaden Crown is comparatively merciful in that it lasts no more than a few months. Perhaps just as well, for too much exposure to this kind of torment would be painful indeed for all save the most icy of spirits.
+
+==Common Elements==
+ TBC
+
+[[Category:Winter Ritual]]
+[[Category:Rituals]]

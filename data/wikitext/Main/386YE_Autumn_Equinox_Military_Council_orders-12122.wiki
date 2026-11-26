@@ -1,0 +1,316 @@
+==Overview==
+The Military Council is the gathering of Imperial [[general|generals]] and [[General#Admiral|admirals]]. Individually, the generals have responsibility for the [[army orders|orders]] given to the [[Army]] under their command, while the admirals provide the [[navy orders|orders]] for the [[navy|navies]]. A general commands a single [[Army|Imperial army]], drawn from volunteers from their nation. Once a general is given their command, they have sole authority to [[army orders|order]] the army to [[army orders#Movement|move]] or [[army orders#Issuing Orders|attack]] as they choose. After each summit, the Civil Service quickly circulate the orders each general has given among Imperial citizens, allowing [[military unit]] captains to decide if they wish to commit their own force to [[Military_unit#Support_Army|support an army]], and if so which army to support.
+
+With the Autumn Equinox ending, the Empire remains engaged with barbarians in several locations, summarised in an in-character way in the mini-wind of war''' [[#After the Harvest|After the Harvest]]'''. It's important to note that it ''only'' takes into account the orders of Imperial generals; it doesn't predict what the barbarian armies will do. It's our intention to provide a similar summary going forward after each event, to help lend context to the orders submitted by the generals.
+
+Following that, there is a list of the orders that were submitted by Imperial generals, as well as where they are deployed, and whether the [[Quartermaster General of the Imperial Armies]] has decided that military units supporting them will receive the guerdon or not. We'll be doing this after every event going forward as well, bringing the Imperial Military Council into line with the Senate, Synod, and Conclave in terms of making their decisions public.
+
+==After the Harvest==
+As the last flames lit at the Autumn Equinox flicker and die, we look across an [[386YE Autumn Equinox winds of war|Empire at war]], battle-horns echoing from one side to another. 
+
+In the Mournwold, an immense force of Jotun seem set to bring the whole Marcher territory under their command. As the Equinox dawned, tens of thousands of Jotun warriors had [[The_wild_wind_rises|seized]] [[Mournwold#Southmoor|Southmoor]], [[Mournwold#Greensward|Greensward]], [[Mournwold#Ore Hills|Ore Hills]], and [[Mournwold#Chalkdowns|Chalkdowns]], reinstating Jarl Haakon as ruler of the Mourn. Now a dozen Imperial armies stand against them, the oath-bound [[Tusks]] at the fore. The people of the Mourn, human and orc alike, rise to meet the challenge of the Jotun, inspired by the [[The_wild_wind_rises#Sixty_Years_Gone_(Battle_Opportunity)|victory]] of Imperial heroes in the Ore Hills. If the Jotun press their claim or stand their ground, the dour hills will again be steeped in blood. Can the Empire hold their line, or force the Jotun back?
+
+Further south, the future of the Brass Coast remains uncertain, but for the moment Imperial forces have pulled out, armies needed elsewhere. In their absence, Madruga remains split between multiple factions, a great force of Grendel camped along the coast of what were once the Siroc Plains now [[Where the river rises|transformed]] by cataclysmic magic into mysterious fens. Feroz has been freed, but Commander Gallum Fiersach still [[Glass_and_flame#Game_Information:_Mora's_Rock|commands]] the fort of [[Feroz#Mora's_Rock|Mora's Rock]]. The Children of Wrecks have [[The_gathering_storm#Objective:_Stop_the_Wrecks_forming_a_navy|raised their navy]] and stand poised to spread their power beyond scattered islands; where will their first furious hammer-blow fall?
+
+Along the south-eastern coast [[Redoubt]] is [[Foam and Spittle of the Furious Sea|wracked with storms]]. Amid tumultuous rumour of an attack by the Children of Wrecks, 
+three Imperial armies hurry to defend the Urizeni coast, to reinforce the garrison at the [[Redoubt#The_Court_of_the_White_Fountain|Court of the White Fountain]]. A force of that size should be more than enough to see off the Wreckers, perhaps the Council has reason to believe something worse is on the way? The Empire's probing strike into Ayereed has fallen back, and only the [[Winter Sun]] remains to defend [[Mareave]]. Will the Grendel armies they [[Steel and salt|fought in the petrified forest]] follow them, and can they stand against them if they do?
+
+And then [[Therunin]]. During the Autumn Equinox, the heroes of the Empire fought the [[Druj]] here, a desperate battle to [[Blood_and_mire#All_Along_the_Lakeside_(Battle_Opportunity)|prevent the ghulai]] from not only destroying Feverwater Steading but rousing the vallorn of Sweetglades. They succeeded, but at what cost? The cursed woodlands are scattered with the flower of Dawnish nobility, cut down amidst the [[Vallorn#Vallorn_Miasma|seeping miasma]]. As the [[Rivers Run Red|corrupting rot]] of [[Spring magic]] creeps and pools across a territory already [[Ashes#Objective:_Prevent_the_use_of_the_Sephals_Cauldron|scarred]] by the malice of the [[Druj_lore#Buruk_Tepel|Buruk Tepel]], Navarr armies and their Varushkan and Dawnish allies make a desperate strike. The stakes could not be higher; the orcs of the Mallum are without virtue or conscience and have already shown they are prepared to unleash the vallorn against the Empire. If their presence in Therunin goes unchecked, who knows what else they may have in store?
+
+And in [[the Barrens]], the [[Gryphon's Pride]] slip the bonds of law and march to attack the Rahvin. The [[Senate]] declared the orcs of the Barrens to be foreigners promising them the full protection of the law; but that same law gives General Archavion Wolfborne sole command of their army, and he has ordered the 'Pride to seize the mines and kill anyone who fights back. The Rahvin have sworn to defend the mine, so left unchecked, the sept will be destroyed, and show that the Senate's will is naught but a paper shield. There is a chance for Imperials to [[386YE_Winter_Solstice_interlude#In_the_Barrens|intercede]] so that some of the Rahvin are spared. The general and any captains who fight with them, will face the full force of the law but that will be too late for the Rahvin, and too late for any hope of peace with the other slaves of the Druj for a generation to come. Who will trust an Empire that speaks of liberation after this?
+
+Of course, all this is the present, the moment between breathing in and breathing out. Where the Imperial Military Council has put their strategies into effect, so their enemies have made their own decisions. Neither side knows with any certainty what the other is planning. Will the Druj stay in Therunin and fight or will they withdraw and strike like the assassins' blade elsewhere? Do the Children of Wrecks really threaten Redoubt; how reliable is rumour? Will the Jotun stand and fight in Mournwold or sweep away into Bregasland where their [[Only_forward#Object:_Halt_the_Burhfæst!|enchanted castle]] rises over Gravenrock, and only the Strong Reeds stand against them? Or perhaps rampage east toward the rich city of [[Tassato]], and the three armies recuperating there? Where else might the flames of war kindle, unlooked for, in the months to come? 
+
+The winds of war shift and twist, and nobody can speak with certainty of what the winter may bring, but what is certain is that the choices made by Imperial captains will help to shape the outcome.
+
+==The Brass Coast==
+The Brass Coast have three armies: [[Burning Falcon]], [[Fire of the South]] and [[Red Wind Corsairs]]. They can support two armies.
+
+===Burning Falcon===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=BurningFalcon Colour.png|align=right|width=150}}</div>
+* '''General:''' Aracelis I Erigo
+* '''Orders:''' Normally a flame burns low and extinguishes. We are not a normal flame. I call the Kohan to rest but we do not rest quietly. We do not rest and sleep. We live our lives for the thrill of battle but when  we stop, we celebrate those not with us and the fight to come! I call on Janon and their heralds. Witness the fire in celebration that you have seen in battle!
+* '''Action:''' Desperate Reinforcement of [[Astolat]]
+* '''Enchantment:''' Concordium of Pallas enchanted the Burning Falcon with [[Brotherhood of Tian]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Fire of the South===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=TheFireoftheSouth Colour.png|align=right|width=150}}</div>
+* '''General:''' Vincente i Zayden i Guerra
+* '''Orders:''' With the support of our cousins and friends, Feroz is once again in Imperial Hands. We have done all we can to secure the safety and security of the brass coast at this time and now we rest, replenish and celebrate our victory. The power of Autumn spurs us north as we travel to Astolat. Take pride in your actions and prepare for the battles ahead as we restore our strength
+* '''Action:''' Desperate Reinforcement of [[Astolat]]
+* '''Enchantment:''' Concordium of Pallas enchanted the Fire of the South with [[Brotherhood of Tian]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Red Wind Corsairs===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=RedWindCorsairs Colour.png|align=right|width=150}}</div>
+* '''General:''' Delora i Sol-Devorador i Erigo
+* '''Orders:''' Freeborn! Hear the words of your adjutant, Joaquim I Erigo - Corsairs, cousins. We leave Feroz for Tassato to rest and resupply. You have fought hard, long and well for our home but, as you take your ease, look ahead, to days of plunder, adventure and a restored brass coast.
+* '''Action:''' Solid Defence of [[Tassato]]
+* '''Enchantment:''' Concordium of Pallas enchanted the Red Wind Corsairs with [[Brotherhood of Tian]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+==Dawn==
+Dawn have three armies: [[Eastern Sky]], [[Golden Sun]] and [[Gryphon's Pride]]. They can support five armies.
+
+===Eastern Sky===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=EasternSky Colour.png|align=right|width=150}}</div>
+* '''General:''' Dame Aurum De Castellan
+* '''Orders:''' Eastern Sky, I too long to return to the East to defend our homes, but our cousins in the Marchers need our aid. So with Loyalty in our hearts let us give the Jotun the flame of Virtue and wage a glorious battle that will be sung of long after we are gone.
+* '''Action:''' Steady Conquest in [[Mournwold]]
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Golden Sun===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=GoldenSun Colour.png|align=right|width=150}}</div>
+* '''General:''' Zoran De Orzel
+* '''Orders:''' Glorious knights of the Golden Sun, we continue our grinding advance through Therunin. We avoid the poisonous lower tarn valley. We continue to defend the Navarr territory from the onslaught of the Druj. Dawn have lost much of late, All stories must end, keep your love and loyalty for them in your hearts. In the name of their glory.
+* '''Action:''' Grinding Advance into [[Therunin]]
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Gryphon's Pride===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=GryphonPride Colour.png|align=right|width=150}}</div>
+* '''General:''' Archavion Wolfborne
+* '''Orders:''' Too long have we watched as others decide the fate of our homelands; they give land to those who stood against us and spit in the face of the way. They give aid to those who hate us whilst Imperial citizens suffer with wars engaged in all our lands with the coffers running dry. The Throne speaks of virtue and vigilance, yet no others are prepared to act. We will not stand by idle while these atrocities continue. We will not fear to act! I stood before priests and swore my dedication to vigilance, and on that very same night I had a Profound Dream. In the Barrens I saw a great beast wreathed in shadow, it's eyes were the darkest sickening green and its breath writhed with plague and poison. As I steeled my resolved and stepped towards the fouled shadow it receeded into the Fangs. Berechiah's life taught us that though some may frown on our actions, the truly virtuous do not fear to do what must be done. We will be decisive and do what we know to be right, and remove the taint from the Barrens. We will liberate the Fangs for the good of the Empire and Dawn so we may prosper and survive the onslaught coming at us from all sides. For only we are prepared to give our all for the Empire. We will set on the Rahvin of the Fangs in the dead of night, and tear them from the mine. Those who stand against our steady conquest will meet with steel and death. Glory to Dawn and to the Empire!
+* '''Action:''' Steady Conquest in [[The Barrens]]
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+==Highguard==
+Highguard have three armies: [[Granite Pillar]], [[Seventh Wave]] and [[Valiant Pegasus]]. They can support three armies.
+
+===Granite Pillar===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=GranitePillar Colour.png|align=right|width=150}}</div>
+* '''General:''' Sychar of Ebon's Hall
+* '''Orders:''' Granite Pillar! The mourn calls for aid, and we shall answer. For generations, the Marchers have laboured with loyalty,  feeding the Empire. Now we repay that debt with the steel of our virtue in a strategic defence. Let the words of our synod and the swords of our armies ring with one voice. As written in statement  117, the synod marches with us in spirit, let us be united! We march not just to reclaim land, but to defend the soul of the Empire. With courage and vigilance, we shall be an unconquerable fortress. Let us bring the warmth and light of the way to those who shiver in darkness. To the Jotun, I say: Jarl Haakon! The Mournwold is the Empire's and we will never forsake it. Yet the Jotun are a people of honour meet us openly on the field of battle with Courage and Pride as true warriors should. This war will end in our victory for we fight for the salvation of souls. we are inevitable. Crusade! Crusade!
+* '''Action:''' Strategic Defence of [[Mournwold]]
+* '''Enchantment:''' Ashen Flame enchanted the Granite Pillar with [[Knights of Glory]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Seventh Wave===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=SeventhWave Colour.png|align=right|width=150}}</div>
+* '''General:''' Melkior of Balthazar’s Vineyard
+* '''Orders:''' March now with the winds of Autumn at your back. March to the Mourn and attack into Southmoor with a Triumvirate of Highborn armies in a crusade of Loyalty through unity. Let us be united with the people of the Mourn and warm their hearths with virtues caring light. Show them that the Empire's arrival need not herald the death of family and friends, but the healing and anointing of a fractured Empire. Let us bring the  warmth and light of the way to those who shiver in darkness. Follow statement 117  of the synod and let our words and swords speak with one voice. Crusade! Crusade and bring judgement to the mourn! Scouts of the Wave, endeavour to approach the Jotun command with a flag of parley and present them with our poetic statement of intent: "Saga's Birth through virtues dawning light; Warming hearts and hearths, Fuelled through the dawning light of virtue. Birthing Sagas."
+* '''Action:''' Forced March to [[Mournwold]]
+* '''Enchantment:''' Lyktan enchanted the Seventh Wave with [[Find the Best Path]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Valiant Pegasus===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=ValiantPegasus Colour.png|align=right|width=150}}</div>
+* '''General:''' Zadok
+* '''Orders:''' From Feroz we march north to Sourthmoor in the Mournwold. We seek to liberate Southmoor from Jotun Domination, but you will not fight alone. The whole of Highguard marches with you. You will see the Granite Pillar marching in from Casinea, shining in the sun, and the seventh wave sped by great ritual magics from the distant front of Ayereed will join us in a unified highborn crusade against the tyrant Jotun! The Synod marches with us in Spirit: Judgement 117 calls  for a united crusade of loyalty to aid the people of the Mourn. The people of the Mourn, Human and Orc, have laboured and toiled alone for too long. They are part of this Empire and our bond of Loyalty should be forged in the Iron of the Ore Hills. Bring the healing arts of the Valient Pegasus, both body and spirit, to these worthy souls and trust they will respond in kind. Foster the bonds of loyalty wherever you go. "Let us bring the warmth and light of the Way to those who Shiver in Darkness" - Judgement 117
+* '''Action:''' Steady Conquest in [[Mournwold]]
+* '''Enchantment:''' Ashen Flame enchanted the Valiant Pegasus with [[Knights of Glory]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+==Imperial Orcs==
+Imperial Orcs have three armies: [[Autumn Hammers]], [[Summer Storm]] and [[Winter Sun]]. They can support three armies.
+
+===Autumn Hammers===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=AutumnHammers colour.png|align=right|width=150}}</div>
+* '''General:''' Vana
+* '''Orders:''' Autumn Hammers, we march to Mournwold through Mitwold and avoid Graven Rock where the Jotun walls are high. Our eyes turn to the Jotun armies and the land they have taken in the Mourn. Form up and push the Jotun back in Steady Conquest. Reinforce the shields. Force them Back.
+* '''Action:''' Steady Conquest in [[Mournwold]]
+* '''Enchantment:''' Coven of Barabbas enchanted the Autumn Hammers with [[Clarity of the Master Strategist]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Summer Storm===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=SummerStorm Colour.png|align=right|width=150}}</div>
+* '''General:''' Irontide Skorr
+* '''Orders:''' Legionaires of the Summer Storm. We have been called to aid in the Mournwold. With the clarity of the Day Realm, we go on a Steady conquest to fight the Jotun once again. Be vigilant and Wise. Be Courageous and Loyal. Watch out for each other.
+* '''Action:''' Steady Conquest in [[Mournwold]]
+* '''Enchantment:''' Coven of Barabbas enchanted the Summer Storm with [[Clarity of the Master Strategist]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Winter Sun===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=WinterSun Colour.png|align=right|width=150}}</div>
+* '''General:''' Skywise Rykana
+* '''Orders:''' Heroes of the Winter Sun, we have pushed far into Grendel Lands but now has come the time to rest. Let the powers Autumn wash through us and bind us together in Kinship. Light the legion fires across Mareave and settle in our new land, share hospitality and tales of worth with any who come to greet us in peace. Make them welcome but keep eyes to the south. The Grendel stir jealously to reclaim what we have earned and if they dare to tread into our home then we will defend the land and all of its people.
+* '''Action:''' Give Ground in [[Mareave]]
+* '''Enchantment:''' Concordium of Pallas enchanted the Winter Sun with [[Brotherhood of Tian]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+==The League==
+The League have two armies: [[Towerjacks]] and [[Wolves of War]]. They can support two armies.
+
+===Towerjacks===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=TowerJacks Colour.png|align=right|width=150}}</div>
+* '''General:''' Marcus Barossa Di Tassato
+* '''Orders:''' The Fall of general Barossa signals a loss not only for us, but for our Empire. Our enemies will take no more. Travel to Redoubt and build your defences high, that their waves will break on your walls. Show them the strength of your loyalty.
+* '''Action:''' Dig In in [[Redoubt]]
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Wolves of War===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=WolvesofWar Colour.png|align=right|width=150}}</div>
+* '''General:''' Jean d'Apulian
+* '''Orders:''' The Morn is Imperial, this Empire will reclaim it. I Invite Janon's Heralds to witness professionals at work. Captains let the chains that binds and the promised pay see you join us. Take to the streets of Sarcombe, clear our these "honourable" tyrants. Nothing Fancy, let's get to work.
+* '''Action:''' Balanced Attack on [[Mournwold]]
+* '''Enchantment:''' The Gilded Horn Carta enchanted the Wolves of War with [[Bound by Common Cause]].
+* '''Guerdon:''' Military units supporting this army will receive a share of the Guerdon.
+
+==The Marches==
+The Marches have four armies: [[Bounders]], [[Drakes]], [[Strong Reeds]] and [[Tusks]]. They can support five armies.
+
+===Bounders===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=Bounders Colour.png|align=right|width=150}}</div>
+* '''General:''' Mary Birchsmith
+* '''Orders:''' Marchers, we steadily Advance into Southmoor area of the Mourn against the Jotun. We fight with Loyalty to our nation and our Empire. Our Imperial friends stand with us, we are not alone, we will work together, we will regain our land, together.
+* '''Action:''' Steady Conquest in [[Mournwold]]
+* '''Enchantment:''' Voices of the Unbound Storm enchanted the Bounders with [[Knights of Glory]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Drakes===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=Drakes Colour.png|align=right|width=150}}</div>
+* '''General:''' Tancred of Meade
+* '''Orders:''' Drakes, you smashed the ships that come up the river meade but the Marches still bleed. I know that you are tired but until Marcher land is safe, we cannot step. You've proven your loyalty to Mitwold, now, show the rest of the nation how loyal you are to them. Tancred will lead us to another victory into the Mourn, where we will crush the Jotun and give the Mournwolders back their land.
+* '''Action:''' Balanced Attack on [[Mournwold]]
+* '''Enchantment:''' Voices of the Unbound Storm enchanted the Drakes with [[Knights of Glory]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Strong Reeds===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=StrongReeds Colour.png|align=right|width=150}}</div>
+* '''General:''' Amberlain P. Black
+* '''Orders:''' Folks heroes of the Reeds! With Loyalty in our hearts we answered  the call of our folk. Our actions have Inspired Loyalty in the hearts and souls of the marcher armies and for the first time ever our neighbours are bound together, oathbound in the defence of our land. But before we rise to the aid of our neighbours. We must lay low and root out in our own fields. So to ground Reeds! To ground in Loyalty! To ground and haunt their steps!
+* '''Action:''' Lay Low in [[Bregasland]]
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Tusks===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=Tusks Colour.png|align=right|width=150}}</div>
+* '''General:''' Stanley Of Chalkdown
+* '''Orders:''' Jacks of the Tusks! The ground shakes with the tread of 60 thousand boots, yet is still between our braced feet. We stand stalwart with the Granite Pillar in our disciplined defence of our land, our hearts filled with the loyalty shown by the Imperial host that even now sweeps into Southmoor and traps the Jotun onto our bills. Jarl Hakkon claims dominion over our fields and hills, yet here we stand defiant! Twice he has failed and thrice he shall fail again! The peerless kinship of the Empire will be the blow that breaks the Jotun!
+* '''Action:''' Strategic Defence of [[Mournwold]]
+* '''Enchantment:''' Voices of the Unbound Storm enchanted the Tusks with [[Knights of Glory]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+==Navarr==
+Navarr have three armies: [[Black Thorns]], [[Isaella's Dance]] and [[Quiet Step]]. They can support six armies.
+
+===Black Thorns===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=BlackThorns Colour.png|align=right|width=150}}</div>
+* '''General:''' Rhisiart Dancewalker
+* '''Orders:''' Blackthorns, we fight for our homes, our people, our land. Fight for the future and one step closer to destroying the Druj, to the vallorn. I call the pines and our kin of the Great Forest Orcs. Bring fury to the Druj and burn them to Ashes
+* '''Action:''' Balanced Attack on [[Therunin]]
+* '''Enchantment:''' Voices of the Unbound Storm enchanted the Black Thorns with [[Knights of Glory]].
+* '''Guerdon:''' Military units supporting this army will receive a share of the Guerdon.
+
+===Isaella's Dance===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=Isaellas Dance Colour.png|align=right|width=150}}</div>
+* '''General:''' Cadwell Waystone
+* '''Orders:''' My Poison Thorns, the Empire has bled in Therunin while we healed. The Magic of Autumn bound our wounds and now we are ready. The Druj have tortured and slaughtered their way through our lands. We will bring a swift death with our poison thorns. We attack via the Barrens into Eastring
+* '''Action:''' Poison Thorns in [[Therunin]]
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Quiet Step===
+* '''General:''' Vesna Borkovna Prochnost
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=QuietStep Colour.png|align=right|width=150}}</div>
+* '''Orders:''' The Representatives of the people of Navarr have asked me to take this army for the good of her soldiers and the nation. I have answered the call. We will take a solid defence. Rest and guard your hearth.
+* '''Action:''' Solid Defence of [[Miaren]]
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+==Urizen==
+Urizen have one army: [[Citadel Guard]]. They can support a single army.
+
+===Citadel Guard===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=CitadelGuard Colour.png|align=right|width=150}}</div>
+* '''General:''' Andronikos of the Lighthouse at Nikephoros
+* '''Orders:''' Sentinels, consider the Mountain. The servants of Siakha come to Redoubt bringing storm and fang and savagery. The mages of Urizen have met storm with storm. Fey knights will meet fang with Summer steel. You will meet savagery with discipline. You are the rock on which our foes shall break. You are the Mountain.
+* '''Action:''' Solid Defence of [[Redoubt]]
+* '''Enchantment:''' Voices of the Unbound Storm enchanted the Citadel Guard with [[Knights of Glory]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+==Varushka==
+Varushka have three armies: [[Golden Axe]], [[Iron Helms]] and [[Northern Eagle]]. They can support four armies.
+
+===Golden Axe===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=GoldenAxe Colour.png|align=right|width=150}}</div>
+* '''General:''' Belakov Zakharovich Prochnost
+* '''Orders:''' Axe! 3 terms - 3 territories, Ossium, Barrens, Mareave even Ayereed felt our work. I'm proud of our time together. But with this my last orders as your general. We move to Zenith, prepare to give ground if needed. But let us gather our numbers, drink and celebrate our achievements together. Wisdom and vigilance keep AXE to hand. Wards on our borders and embrace our past to rest for the future. So AXE it's time for my leaving drinks. It has been an honour.
+* '''Action:''' Give Ground in [[Zenith]]
+* '''Enchantment:''' Concordium of Pallas enchanted the Golden Axe with [[Brotherhood of Tian]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Iron Helms===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=IronHelms Colour.png|align=right|width=150}}</div>
+* '''General:''' Alderei the Fair
+* '''Orders:''' These are times of great change cousins. Even in death we will finish the work in Therunin, with cold flesh quickened we eradicate the Druj on Imperial soil. This shall mark our rebirth. The dark of winter holds no terror over us. Onwards through the snow.
+* '''Action:''' Balanced Attack on [[Therunin]]
+* '''Enchantment:''' Wolves of the Pale Raven enchanted the Iron Helms with [[Quickening Cold Meat]].
+* '''Guerdon:''' Military units supporting this army will receive a share of the Guerdon.
+
+===Northern Eagle===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=NorthernEagle Colour.png|align=right|width=150}}</div>
+* '''General:''' Jaromir Ostrovyn Kostka
+* '''Orders:''' Redoubt's beacons are alight and so we shall raise our banners in its defence. Hold the mountains and the valleys, the cliffs and the coast, the Spires and the cities. We shall be the hunting bird that haunts the heights, diving upon unwary prey. Vigilant as Sentinels, swift as Wardens, the Imperial Eagle shields all homes.
+* '''Action:''' Hit and Run in [[Redoubt]]
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+==Wintermark==
+Wintermark have four armies: [[Bloodcloaks]], [[Fist of the Mountains]], [[Green Shield]] and [[Narwhal's Spear]]. They can support four armies.
+
+===Bloodcloaks===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=BloodCloak Colour.png|align=right|width=150}}</div>
+* '''General:''' Lofyn Blood-cloak
+* '''Orders:''' My Cloaks, my heart, my pride. Tend the fallen. Virtues know, we have enough of them. Near 700 lives you spared last season. We will do more, but a grimnir knows our oath. We save more lives by safeguarding our own and sacrificing a heroic martial death. We step back, we regroup. We return. Your loyalty inspires me.
+* '''Action:''' Tend the Fallen in [[Tassato]]
+* '''Enchantment:''' Concordium of Pallas enchanted the Bloodcloaks with [[Brotherhood of Tian]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Fist of the Mountains===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=FistoftheMountains Colour.png|align=right|width=150}}</div>
+* '''General:''' Umarth "Winter's Flame" Kannask
+* '''Orders:''' Heroes assemble for war, a courageous charge for the Empire. As they smash against our enemies, we wait for our moment. In flights of birds we see Kryop, momentary weakness, and so we prepare. Sharpen your blades, fill your bellies. We resupply and then we strike. Our moment will come, and we will relieve those heroes. Rest, reflect, we will return.
+* '''Action:''' Read the Signs in [[Tassato]]
+* '''Enchantment:''' Concordium of Pallas enchanted the Fist of the Mountains with [[Brotherhood of Tian]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Green Shield===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=GreenShields Colour.png|align=right|width=150}}</div>
+* '''General:''' Iron Osric
+* '''Orders:''' Green shieldbearers, stalwart, strong and sure. Make ready for fresh, real-merlund war. Swords and spears, sharpened and bright, shadowed fire fill our hearts with might. General Flowers, fallen, yet her spirit soars, Inspiring us all forevermore. Her legacy a beacon in the night. Driving us forwards to morning light. Witness my words and join me Janon.
+* '''Action:''' Billet in [[Upwold]]
+* '''Enchantment:''' Concordium of Pallas enchanted the Green Shield with [[Brotherhood of Tian]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+===Narwhal's Spear===
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=Narwhal's Spear.webp|align=right|width=150}}</div>
+* '''General:''' Determination of Ice Kaisa
+* '''Orders:''' Spears, the Mourn needs aid! Let us be a swift strike in the Jotun's advance. Icewalkers find our path through the enemy, mediators learn of your foe. Take forth the story of your General to tell as you find respite; how Determination of Ice defeated one of Cathan Canae's Jotun champions and forged a bond of Heroism and honour. Let them know we have come to fight and add to our heroic tale. Jarl Haakon, we are coming!
+* '''Action:''' Seek the Foe in [[Mournwold]]
+* '''Enchantment:''' Coven of Barabbas enchanted the Narwhal's Spear with [[Clarity of the Master Strategist]].
+* '''Guerdon:''' Military units supporting this army will not be rewarded by the Imperial Senate.
+
+==Summary==
+<table class='wikitable sortable BourseTable'>
+<tr><th class='headersort' tabindex='0' role='columnheader button' title='Sort ascending'>Army</th><th class='headerSort' tabindex='0' role='columnheader button' title='Sort ascending'>Nation</th><th class='headerSort' tabindex='0' role='columnheader button' title='Sort ascending'>Start</th><th class='headerSort' tabindex='0' role='columnheader button' title='Sort ascending'>Destination</th><th class='headerSort' tabindex='0' role='columnheader button' title='Sort ascending'>Action</th></tr>
+<tr><td>[[#Burning Falcon|Burning Falcon]]</td><td>The Brass Coast</td><td>Feroz</td><td>Astolat</td><td>Desperate Reinforcement</td></tr>
+<tr><td>[[#Fire of the South|Fire of the South]]</td><td>The Brass Coast</td><td>Feroz</td><td>Astolat</td><td>Desperate Reinforcement</td></tr>
+<tr><td>[[#Strong Reeds|Strong Reeds]]</td><td>The Marches</td><td>Bregasland</td><td>Bregasland</td><td>Lay Low</td></tr>
+<tr><td>[[#Winter Sun|Winter Sun]]</td><td>Imperial Orcs</td><td>Ayereed</td><td>Mareave</td><td>Give Ground</td></tr>
+<tr><td>[[#Quiet Step|Quiet Step]]</td><td>Navarr</td><td>Mournwold</td><td>Miaren</td><td>Solid Defence</td></tr>
+<tr><td>[[#Eastern Sky|Eastern Sky]]</td><td>Dawn</td><td>Feroz</td><td>Mournwold</td><td>Steady Conquest</td></tr>
+<tr><td>[[#Granite Pillar|Granite Pillar]]</td><td>Highguard</td><td>Casinea</td><td>Mournwold</td><td>Strategic Defence</td></tr>
+<tr><td>[[#Seventh Wave|Seventh Wave]]</td><td>Highguard</td><td>Ayereed</td><td>Mournwold</td><td>Forced March</td></tr>
+<tr><td>[[#Valiant Pegasus|Valiant Pegasus]]</td><td>Highguard</td><td>Feroz</td><td>Mournwold</td><td>Steady Conquest</td></tr>
+<tr><td>[[#Autumn Hammers|Autumn Hammers]]</td><td>Imperial Orcs</td><td>Bregasland</td><td>Mournwold</td><td>Steady Conquest</td></tr>
+<tr><td>[[#Summer Storm|Summer Storm]]</td><td>Imperial Orcs</td><td>Upwold</td><td>Mournwold</td><td>Steady Conquest</td></tr>
+<tr><td>[[#Wolves of War|Wolves of War]]</td><td>The League</td><td>Feroz</td><td>Mournwold</td><td>Balanced Attack</td></tr>
+<tr><td>[[#Bounders|Bounders]]</td><td>The Marches</td><td>Bregasland</td><td>Mournwold</td><td>Steady Conquest</td></tr>
+<tr><td>[[#Drakes|Drakes]]</td><td>The Marches</td><td>Mitwold</td><td>Mournwold</td><td>Balanced Attack</td></tr>
+<tr><td>[[#Tusks|Tusks]]</td><td>The Marches</td><td>Mournwold</td><td>Mournwold</td><td>Strategic Defence</td></tr>
+<tr><td>[[#Narwhal's Spear|Narwhal's Spear]]</td><td>Wintermark</td><td>Feroz</td><td>Mournwold</td><td>Seek the Foe</td></tr>
+<tr><td>[[#Towerjacks|Towerjacks]]</td><td>The League</td><td>Therunin</td><td>Redoubt</td><td>Dig In</td></tr>
+<tr><td>[[#Citadel Guard|Citadel Guard]]</td><td>Urizen</td><td>Morrow</td><td>Redoubt</td><td>Solid Defence</td></tr>
+<tr><td>[[#Northern Eagle|Northern Eagle]]</td><td>Varushka</td><td>Therunin</td><td>Redoubt</td><td>Hit and Run</td></tr>
+<tr><td>[[#Red Wind Corsairs|Red Wind Corsairs]]</td><td>The Brass Coast</td><td>Feroz</td><td>Tassato</td><td>Solid Defence</td></tr>
+<tr><td>[[#Bloodcloaks|Bloodcloaks]]</td><td>Wintermark</td><td>Mournwold</td><td>Tassato</td><td>Tend the Fallen</td></tr>
+<tr><td>[[#Fist of the Mountains|Fist of the Mountains]]</td><td>Wintermark</td><td>Feroz</td><td>Tassato</td><td>Read the Signs</td></tr>
+<tr><td>[[#Gryphon's Pride|Gryphon's Pride]]</td><td>Dawn</td><td>Therunin</td><td>The Barrens</td><td>Steady Conquest</td></tr>
+<tr><td>[[#Golden Sun|Golden Sun]]</td><td>Dawn</td><td>Therunin</td><td>Therunin</td><td>Grinding Advance</td></tr>
+<tr><td>[[#Black Thorns|Black Thorns]]</td><td>Navarr</td><td>Therunin</td><td>Therunin</td><td>Balanced Attack</td></tr>
+<tr><td>[[#Isaella's Dance|Isaella's Dance]]</td><td>Navarr</td><td>Astolat</td><td>Therunin</td><td>Poison Thorns</td></tr>
+<tr><td>[[#Iron Helms|Iron Helms]]</td><td>Varushka</td><td>Therunin</td><td>Therunin</td><td>Balanced Attack</td></tr>
+<tr><td>[[#Green Shield|Green Shield]]</td><td>Wintermark</td><td>Mournwold</td><td>Upwold</td><td>Billet</td></tr>
+<tr><td>[[#Golden Axe|Golden Axe]]</td><td>Varushka</td><td>Ayereed</td><td>Zenith</td><td>Give Ground</td></tr>
+</table>
+
+[[Category:Military Council]]
+[[Category:Recent History]]
+[[Category:386YE]]

@@ -1,0 +1,38 @@
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Cat's Graces Sodality.png|caption=This title is appointed by the Cat's Graces|width=250px}}</div>
+The Dean of the First Voice Glade is an Imperial title [[Construct First Voice Glade|created by the Imperial Senate in Autumn 382YE]]. The First Voice Glade School was destroyed by the [[Things_that_burn#The_Empty_Hands|Empty Hands]] shortly before the Winter Solstice 385YE. The Dean lost their seasonal income of herbs, but the title remained and retained its responsibilities. Shortly before the Winter Solstice 387YE, a new school was built in the glade and became an [[inspirational location]] dedicated to the teachings of the exemplar [[Gerallt Brackensong]]. It currently serves as a [[great work]] supporting the [[herb garden|herb gardens]] of [[Miaren]].
+
+The title was amended as part of the motion that [[388YE_Spring_Equinox_Senate_sessions#Establish_Cat's_Graces|established]] the [[Cat's Graces]] during the Spring Equinox 388YE. Before the amendment, the title was previously appointed by the unanimous decision of the Senators of Navarr.
+
+==Responsibilities==
+__TOC__
+The Dean of the First Voice Glade is expected to uphold the musical and cultural traditions of the Navarr. These responsibilities include encouraging emerging and potential talent, ensuring Navarr musical traditions and history is honoured. 
+
+They have little in the way of administrative responsibilities to the school, but it is assumed that they will frequently lecture or run workshops, and so should be at least somewhat familiar with Navarr musical traditions and are expected to be passionate about furthering Navarr culture. If the Glade were to be threatened in any way, it would be the responsibility of the Dean to deal with those threats.
+<!--==Powers==
+===Bounty of Herbs===
+The Dean  of the First Voice Glade gains custodianship of a [[sinecure]]. They receive an income of 27 herbs each season.-->
+
+==Appointment==
+The Dean of the First Voice Glade is a [[Imperial_title#National_Position|national position]] which is [[Appointment by sodality|appointed]] by members of the Cat's Graces. Only a citizen of Navarr may hold the title.
+
+The Dean has [[tenure]], and serves until they die or step down. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Navarr [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Dean_of_the_First_Voice_Glade}}
+{{Anchor|First Voice Glade (Ruined)}}
+==First Voice Glade==
+{{CaptionedImage|file=Visitors from the Forest of Arden.png|caption=Artist's impression of the glade's visitors|title=Art by Pjesmina Zbirka|align=right|width=300}}
+There have been two schools built at First Voice Glade. The original stood in a glade in [[Miaren#Oakways|Oakways]] that was chosen to mark the memory of the exemplar [[Known_exemplars#Gerallt_Brackensong|Gerallt Brackensong]], a Navarr bard who fell battling the [[vallorn]] at [[Therunin#Upper_Tarn_Valley|Return]]. [[Navarr_groups#Splitroot_Striding|Splitroot Striding]], the [[Navarr_groups#Splinterspears|Splinterspears]] and the Twisted Tree Tradehouse funded and built the small school at the location as part of an effort to ensure that Gerallt continued to provide a lasting legacy for future generations. The school quickly became a gathering place for members of several [[striding|stridings]]. The music school was strictly focused on Navarr traditions, training students in the musical traditions of that nation as well as other performing arts skills such as dancing, juggling, and fire performance. 
+
+When the [[eternal]] known as [[Cold Sun]] sent its ''scions'' to attack the Empire in 385YE, one of its armies - the Empty Hands - [[Things_that_burn#The_Empty_Hands|appeared in Miaren]]. All the armies of Cold Sun are drawn to places of beauty, art, and culture, and this brought their devastating attention down on First Voice Glade. The grand archon of the Empty Hand itself led the force that burned the school, and while most of the staff and students made it to safety, the structure itself was torn apart. The beautiful trees and gardens that surrounded the school were transformed into cursed stone effigies, a painful symbol of the damage being done to the heart of the Navarr nation.
+
+Then in Spring 386YE, Gerallt Brackensong was the subject of one of the first [[Writ of consecration|writs of consecrations]] issued by the [[Synod]]. Among the locations proposed for an [[inspirational location]] dedicated to his life, the ruins of First Voice Glade were preeminent. Doing so would require that the school be rebuilt; however, a task that took over a [[387YE_Autumn_Equinox_Senate_sessions#Rebuild_First_Voice_Glade|year to complete]]. Shortly before the Winter Solstice 387YE, however, a new school building was built in First Voice Glade. Brodi Brackensong was [[386YE_Spring_Equinox_Synod_judgements#Judgement_70|entrusted]] by the General Assembly with the solemn task of [[consecration|consecrating]] the new inspirational location.
+
+The new structure stands as a monument to the [[Pride]] Gerallt inspired in performers and storytellers across his nation. Pilgrims leave with a greater appreciation for Navarr music, and many are inspired to celebrate and explore the songs and stories of their own people. The location also celebrates the kind of [[Watercolours_in_the_rain#With_Tomorrow_in_Mind|celebration of culture and beauty]] the Pride Assembly proposed as a response to the hateful destruction of [[Cold Sun]]. While the site remains primarily of interest to the Navarr, it also serves as a place of pilgrimage for those who have seen the things they love ruined by the forces of [[Cold Sun|Oblivion]], providing reassurance that the beauty of the [[orc]] and human spirit can never truly be burnt away. The twisted petrified trees created by the scions of Cold Sun still stand in the grounds of the school, but their austerity is counterbalanced by a profusion of brightly coloured flowers and new growth trees that blossom in the surrounding areas.
+
+Shortly after the Summer Solstice 388YE, the glade became home to strange [[Inhabitants of the realms|creatures]] from the [[Jaheris|Forest of Arden]]. A pair of immense spiders have spun webs in the highest boughs between trees to catch resting birds, and at least one feral unicorn has been spotted within the twisted, petrified glade.
+
+==Opportunity : Botanical Gardens==
+{{:Every path you know}}
+[[Category:Navarr]]
+[[Category:Title]]
+{{Cat's Graces further reading}}

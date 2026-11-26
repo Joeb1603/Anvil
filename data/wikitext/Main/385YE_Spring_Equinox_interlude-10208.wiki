@@ -1,0 +1,98 @@
+[[Category:Winds of Fortune]][[Category:385YE Spring]][[Category:Recent History]]
+<div style="float:leftt; width: 650px; clear: leftt;">{{CaptionedImage|file=League Musicians.jpg|align=left|caption=Winter will be here soon, but for now let us enjoy the lingering warmth of the Autumn sun.|width=650}}</div>
+==Interlude==
+Downtime will be open shortly, allowing players to process their character's downtime choices. The Spring Equinox winds of fortune will come out shortly before the next event. However, there are a number of significant events happening in the wake of the Winter Solstice that may affect some players' Downtime actions - primarily effects on personal resources or options for characters with [[military unit]] or [[fleet]] personal resources.
+
+On this page we'll be outlining, and offering some context for, these various effects. In most cases, there will be further information in the Winter Solstice Winds of Fortune. As always, these are quick OOC summaries to explain effects such as large-scale enchantments and curses. We'll cover all these and more when we start to present the Winds of Fortune for next event.
+
+'''Downtime is due to close at midnight on Sunday 30th April.'''
+
+==Warfare==
+Any player whose character controls a [[military unit]] can choose from a number of downtime options. Left to their own devices, a military unit defaults to [[Military_unit#Take_Independent_Action|paid work]] guaranteeing an income of herbs, ingots or measures, money, or mana crystals. Otherwise, they may log into the downtime system and choose to support an army or fortification, or assign to a special project such as a [[spy network]] or an [[Military_unit#Adventures|adventure]]. Players who want to support one of the [[Army|Imperial armies]] can also read the [[Army_orders|orders]] issued by each [[general]] before making their decision.
+
+As always, the guidelines around discussing military matters online can be found [[Online#You_may_not_post_Military_Updates|here]].
+===Destroy the Vyig===
+*'''The League and Varushkan assemblies have enacted mandates urging the destruction of the vyig'''
+The League national assembly have roused their people to bring an end to the Vyig once and for. Some will take part directly, by tracking them to their lairs whether in Varushka or further afield. Others will provide funds to pay bounty hunters, [[Imperial Orcs]] [[Thief-taker|thief-takers]], League [[bravo|bravos]], and Varushkan [[Varushka_military_concerns#Wagon_Raiders_and_Sell_Swords|sell-swords]] to engage on their behalf. The mandate creates an opportunity for [[military unit|military units]] from the League, the Imperial Orcs, and Varushka to take part in breaking the power of the Vyig. 
+
+This takes the form of an [[Military_unit#Adventures|adventure]] found in the [[Military_unit#Take_Independent_Action|independent action]] dropdown menu: ''Break the Vyig'' following the Winter Solstice and Spring Equinox. Instead of their normal production, any military unit that takes part will receive 144 rings, and 2 random resources (ingots of metal or measures of forest materials). Military units that have been upgraded or enchanted receive commensurately higher rewards.
+===Adventure in Varushka===
+*'''Monsters are stirring, and the boyars of Varushka will pay monster hunters well'''
+There are [[Mime each lonely word| reports from Varushka]] that the [[Varushkan_Monster#Wolves|Wolves]] there are becoming more active. The boyars have a tried and tested way to deal with such threats, sending their schlacta to clear the roads with steel axes and burning torches. As such the threat is not yet sufficient to cause significant problems for Varushka, but it most assuredly will do so if it continues to grow. The best efforts of the boyars to combat the growing danger mean that there is now a significant amount of new work available all across Varushka. There are opportunities for bands of mercenary schlacta and warden fellowships to be well paid in return for fighting these monsters; there are opportunities for Dawnish knights-errant in search of glory to make a name for themselves by dashing over the northern border of their nation and laying into the beasts of Varushka. 
+
+This takes the form of an [[Military_unit#Adventures|adventure]] that involves traveling to Varushka to confront monsters, protect vales, and escort travellers through dangerous territory. ''[[Military_unit#Adventure_in_Varuhska|Adventure in Varushka]]'' is found on the independent action dropdown for Dawnish and Varushkan players. In place of their normal production they will receive a mixture of money, forest, and mine resources from the boyars, merchant-boyars, and wise ones.
+
+===Imperial Guerdon===
+The Imperial Guerdon is a bursary set up by the Imperial Senate primarily to reward military units that support Imperial armies, spy networks, and fortifications. The value of the Imperial Guerdon is divided between each military unit and fleet that supports an army in proportion to their effective strength. The [[Quartermaster General of the Imperial Armies]] has the power to exclude any or all Imperial armies and navies, fortifications, or special projects (such as spy networks) from the Guerdon. If they do so, then a character who supports such an army, fortification, or special project will receive nothing for doing so.  
+
+The Guerdon stands at 350 thrones.
+
+This season, the [[Quartermaster General of the Imperial Armies]] has announced that shares of the Guerdon will be shared between military units supporting the following armies or opportunities:
+* Strong Reeds
+* Wolves of War
+* Hounds of Glory
+* Seventh Wave
+* Citadel Guard
+* Winter Sun
+
+==Fleets==
+* '''Imperial fleets can trade with foreign ports and receive valuable goods'''
+* '''Some ports give special bonuses or suffer special penalties'''
+* '''They can also take special actions such as supporting spy networks, engaging in independent action, or embarking on an adventure'''
+Certain trading destinations apply special effects if a fleet visits them, summarised on the [[384YE_Winter_Solstice_winds_of_fortune#Trade_Summary|Winter Solstice]] wind of fortune. You can also read more about the Empire's foreign relations in the recent '''[[We are never ever getting back together]]''' wind of fortune.
+
+Some fleets also have the opportunity to take part in special [[Fleet#Adventures|adventures]] that provide specific rewards, or support the Osseini spy network in Feroz. These option are found in the downtime menu as dropdowns. If you don't want to do something specific, your fleet will automatically participate in [[Fleet#Take_Independent_Action|privateering]] - the default independent action available to every fleet captain.
+
+==Other Effects==
+Every season sees large-scale effects impact individuals and nations. Where possible we've summarised these effects here.
+===A Season of Congregations===
+* '''Every congregation in the Empire receives an additional 36 rings of income'''
+* '''Highborn congregations receive an additional liao, 2 extra votes, and a crown of additional income'''
+* '''League congregations preaching Ambition receive an additional liao and two additional votes in the synod'''
+This season there are several circumstances that affect the production of [[congregation|congregations]] in the Empire. Thanks to the mandate of the General assembly relating to the Free Folk, every [[congregation]] in the Empire benefit from their visits. While they don't swell congregations directly, they make donations to the priests they meet with. Every congregation in the empire gains a bonus of 36 rings in the form of either actual donations, gifts made by the Free Folk, or the benefit of their hard work. The effect lasts until the start of the Spring Equinox 385YE. Thanks to the greater majority the mandate received, this benefit applies to Varushka and Urizen as well. One side effect of this mandate is the [[Folklore#A_Little_Disagreement_About_Idols|removal of the additional liao and votes]] in Redoubt, Temeschwar, Tassato, Karsk, and Hahnmark gained from an earlier judgement. 
+You can learn more in the [[Folklore#Study_and_Spirituality|Folklore]] wind of fortune.
+
+The ''Birthplace of the Way'' means that Highguard congregations gain an additional dose of liao, two additional votes in the Synod, and a crown of income until the end of the Winter Solstice 385YE as detailed in [[Full_of_sacred_sound#Neither_Beg_Nor_Fear|Full of sacred sound]].
+
+At the same time, congregations run by a League citizen [[Congregation#Downtime_Options|preaching]] Ambition receive an additional [[liao]] and two additional votes in the Imperial Synod until the end of the Winter Solstice 385YE. This is explored in more depth in the [[Don%27t_blame_me#The_Price_of_Dreams|Don't blame me]] wind of fortune,
+
+===Free Folk Tutelage===
+* '''Every business in Highguard experiences a -1 rank penalty to production for the rest of the year'''
+The Free Folk seek tutelage in the use of liao to perform the [[Religious skills|ceremonies]] Imperial priests take for granted, The national assembly of Highguard has urged the benefactors of their nation to help support these would-be priests, providing scholarships and bursaries. Every [[business]] in Highguard takes a -1 penalty to production until the end of the Winter Solstice 385YE. This situation is discussed in more detail in the [[Folklore#Finding_the_Way|Folklore]] wind of fortune.
+
+===Great Forest Steadings===
+* '''The Great Forest Orcs are settling in Miaren and Hercynia'''
+* '''The Golden Trees of Seren and the Heartwood of the Great Vale each have access to a special ministry'''
+Thanks to the welcome of the Navarr national assembly, some of the Great Forest Orcs are establishing settlements in Miaren and Hercynia. While some work as herbalists, cultivate forests, or trade, others seek employment at the [[weirwood]] groves. This provides immediate benefits to the holders of the [[Golden Trees of Seren]] and the [[Heartwood of the Great Vale]] Bourse seats. Provided they are prepared to pay money to hire Great Forest Orcs to work the groves, their expertise will help boost production of the Bourse seats. This is further discussed in the [[You_belong_with_me#A_Home_in_the_Empire|You belong with me]] Wind of Fortune,
+
+===Black Frost===
+* '''Every mana site in Dawn provides one fewer mana crystal, and every farm loses 36 rings from their production'''
+* '''In return Tharim provides aid in the conquest of the Barrens'''
+* '''Persists until the start of the Autumn Equinox 385YE'''
+At the [[384YE_Autumn_Equinox_Conclave_sessions#Concord:_Black_Frost|invitation of the Conclave]] [[Tharim]], the Bound King of [[the Thrice-cursed Court]] will [[Throw_back_the_echoes#Tharim|feast on mana sites and farms across Dawn]], sending a black frost to wither crops and draining the essence from crystals to satiate Tharim's endless hunger. All affected resources in the territory lose 36 rings or 1 mana crystal respectively until the end at the start of the Autumn Equinox 385YE. In return he will provide a cadre of steel-bound knights throughout this period to support any Dawnish army that attacks the Barrens, as determined by the enchantress '''Claudia Varkulova of House Remys'''.
+===Good Neighbours===
+* '''Navarr in Therunin, Hercynia, Miaren, and Brocéliande can improve their herb gardens for 1 wain fewer than normal'''
+Thanks to a combination of [[Make a deal|Prosperous citizens]] and a [[384YE_Summer_Solstice_Senate_sessions#Reassure_Great_Forest_Orcs|senate motion]], the [[Great Forest Orcs]] offer their expertise to their Navarr neighbours. Any Navarr with a [[herb garden]] in [[Therunin]], [[Miaren]], [[Hercynia]], or [[Brocéliande]] can improve their resource at the cost of one fewer wain of [[weirwood]] than normal (so, to upgrade a standard herb garden to rank two would cost one weirwood rather than two, and to raise a rank three herb garden to rank four would only need three wains). The effect lasts until the start of the Summer Solstice 385YE. You can learn more in the '''[[Make_a_deal#Good_Neighbours|Make a deal]]''' wind of fortune.
+
+===Spring Magic===
+* '''Hallow of the Green World has been performed'''
+* '''Thunderous Tread of the Trees and Regrow the Lands Heart are also in effect'''
+Following the Winter Solstice, as the earth starts to reawaken and the weather slowly improves, waves of [[Spring magic]] pour out from the [[Regio#Imperial Regio|Imperial Regio]] in [[Anvil]], and from regio aligned to Spring across the Empire. The [[Hallow of the Green World]] has been cast. This potent Imperial enchantment has [[Hallow of the Green World#Effects|several effects]]. The most immediate is that every [[herb garden]] in the Empire will produce three additional random [[herbs]] over the next season
+
+[[Thunderous Tread of the Trees]] has been cast in [[Liathaven]]. Malign spirits drawn from the Spring realm possess plants across the territory and move to attack armies and fortifications there. The few remaining steadings of Liathaven in particular will be attacked, and there will certainly be some loss of life, but the brunt of the effects will be faced by the Jotun.
+
+[[Regrow the Land's Heart]] has been cast in [[Madruga]], and will help to contain the spread of the [[Enchanted#The_Thirsty_Grasses|desiccating blight]] on the Great Grasses.
+
+===Sand Fisher Tithe===
+* '''Farms in Holberg receive 2 random herbs each downtime'''
+The Sand Fisher orcs are providing herbs to farm owners of Holberg. This effect is detailed in the '''[[A_dream_that_can_last#Green_Shoots|A dream that can last]]''' wind of fortune.
+
+==Mandates==
+* '''You can find details of the mandates, along with the rest of the Synod judgements, [[384YE_Winter_Solstice_Synod_judgements#Mandate|here]].'''
+Seven mandates were successfully upheld in the Imperial Synod. All mandates have automatically been enacted as long as the named priest has sufficient liao in their inventory before downtime opens.
+
+==Imperial Lore==
+Two rituals were put forward for inclusion in Imperial Lore during the Winter Solstice: The [[Dean of the Lyceum]] [[384YE_Winter_Solstice_Conclave_sessions#Imperial_lore:_The_Flower_is_Withered_on_the_Stalk|proposed]] [[The Flower is Withered on the Stalk]], while the [[Grandmaster]] of the [[Shuttered Lantern]] [[384YE_Winter_Solstice_Conclave_sessions#Imperial_lore:_Fire_on_the_Water|presented]] [[Fire on the Water]]. The Thrones required for each ritual have been contributed, and the rituals are now available for any Imperial magician to master.
+
+==Urizen Lore==
+Some new rituals were added to Urizen lore during the Autumn Equinox. Details will be made available in the Winds of Fortune.

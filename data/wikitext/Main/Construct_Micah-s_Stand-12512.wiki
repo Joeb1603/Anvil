@@ -1,0 +1,24 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Proposed: Hercynia, Seconded: Miaren">To construct Micah's Stand wayhouse in High Chalcis, Reikos as described in the civil service records. Title to be appointed by unanimous decision of Navarr senators. Cost: 12ww, 12wg, 72cr. Self funded.</quote>
+==Overview==
+* Constructs a [[wayhouse]] in High Chalcis, Reikos as per the '''[[Wasp_nest#Stand_for_a_Dream|Wasp nest]]''' wind of fortune
+* Passed
+
+==Date==
+* Winter 386YE
+
+==Cost==
+* Costs as per opportunity
+* 12 weirwood
+* 12 white granite
+* 72 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Micah%27s_Stand}}
+==Outcome==
+Now complete, Micah's Stand has had the following effects:
+* Increases the production of the [[Benefactor of High Chalcis]] to eight of each herb.
+* Increases the great work production of the Gardens of High Chalcis by one Imperial roseweald
+* The [[Keeper of the Stand]] will be available to appoint by unanimous decision of Navarr senators for the first time at the Spring Equinox 387YE

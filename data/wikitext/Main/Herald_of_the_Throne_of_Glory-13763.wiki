@@ -1,0 +1,13 @@
+[[Category:Title]][[Category:Dawn]]
+==Overview==
+<div style="float: right; width: 200px;">{{CaptionedImage|file=Assembly Dawnish.png|caption=This title is appointed by the Dawnish Assembly|width=200px}}</div>
+The Herald of the Throne of Glory is an [[Imperial title]] awarded to a citizen of [[Dawn]]. The [[388YE_Spring_Equinox_Senate_sessions#Create_Herald_of_the_Throne_of_Glory|motion]] to create the title was proposed by '''Tristan duLac''', as the [[Weirwater|Senator for Weirwater]], during the Spring Equinox 388YE. 
+__NOTOC__
+==Responsibilities==
+The Herald of the Throne of Glory is ultimately responsible for supporting the Dawnish National Assembly. They are responsible for chairing the meetings of the National Assembly, encouraging Dawnish members of the Synod to vote on [[judgement|judgements]], and also for crowning the [[Dawn monarchy|Monarch of Dawn]]. The Herald also serves as custodian of the [[Restore the Throne Room|Throne Room]] of the [[Astolat#The_Castle of Thorns|Castle of Thorns]]. If the Throne Room were to be somehow threatened, or more likely those who visit it, it would be the responsibility of the Herald to deal with those threats. 
+{{CaptionedImage|file=Edward Watcher.jpg|caption='''Edward Watcher''', Herald of the Throne of Glory|align=left|width=400}}
+==Appointment==
+The Herald is a national position which is [[Appointment|appointed]] by [[judgement]] of the [[Assembly#The_National_Assemblies|Dawnish Assembly]]. 
+
+The Herald is appointed during the Summer Solstice each year. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the Dawnish Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Herald_of_the_Throne_of_Glory}}

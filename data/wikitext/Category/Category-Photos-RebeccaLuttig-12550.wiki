@@ -1,0 +1,7 @@
+<noinclude>Rebecca Luttig is on [https://www.flickr.com/photos/201137324@N03/ flickr] and has a [https://ko-fi.com/rebeccalg ko-fi] if you want to support their work directly.
+
+Please include the following text in the description field when uploading files by this photographer to the wiki:<br />
+
+''<nowiki>{{RebeccaL}}
+</nowiki>''
+</noinclude><includeonly>[[Category:Photos:RebeccaLuttig]] [[:Category:Photos:RebeccaLuttig|Image by RebeccaLuttig]]</includeonly>

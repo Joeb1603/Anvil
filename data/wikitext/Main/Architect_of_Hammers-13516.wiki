@@ -1,0 +1,33 @@
+==Overview==
+<div style="width: 275px; float: right; clear: right; margin-left:10px;">{{CaptionedImage|file=Estavus001a.png|align=right|caption=The Architect of Hammers is able to call upon the services of two of the guilds of the City of Fire and Stone.|width=300}}</div>
+The Architect of Hammers is an Imperial title [[Construct Office of Fire and Stone|created]] by '''Edmundo of Damakan's Forge''', as [[Bearer of an Imperial Wayleave]] during the Winter Solstice 387YE. The opportunity to build the Office of Fire and Stone was [[The_thing_with_feathers#Fire_and_Stone_(Estavus)|presented]] by the ''Architects of Iron and Stone'' shortly before the Winter Solstice 387YE, following a plenipotentiary sent by '''Vossk of Zenith Ascendant''' as the factotum of then [[Archmage of Autumn]], Edmundo of Damakan's Forge.
+__NOTOC__
+==Responsibilities==
+The Architect has a responsibility to liaise with heralds of [[Estavus]] on behalf of Urizen. If the Office of Fire and Stone or either guild of the City of Fire and Stone, working on behalf of the Architect of Hammers, were threatened in any way, it would be the responsibility of the Architect to deal with those threats.
+
+==Powers==
+===Employ Heralds of Estavus===
+<div style="width: 350px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: White;">'''Investigated resource'''</td><td style="background-color: White;">'''Result'''</td></tr>
+<tr><td>[[Arch of the Sky]]</td><td>[[A_friend_like_you#Arch_of_the_Sky_(Estavus)|A friend like you]]</td></tr>
+<tr><td>[[Arratan Gamble]]</td><td>[[The_keys_of_blood#Arratan_Surety_(Estavus)|The keys of blood]]</td></tr>
+<tr><td>[[Brilliant Star]]</td><td>[[Metal_and_stone#Brilliant_Star|Metal and stone]]</td></tr>
+<tr><td>[[Pride of Ikka's Tears]]</td><td>[[Metal_and_stone#Pride_of_Ikka's_Tears|Metal and stone]]</td></tr>
+<tr><td>[[Vigilant Swan]]</td><td>[[Metal_and_stone#Vigilant_Swan|Metal and stone]]</td></tr>
+</table></div>
+Having completed their consultation, the expanded proposal for the Architect's powers is as follows. Once per season, the Architect will be able to [[Senate announcement|announce]] either of the following to the Senate:
+
+They may invite the ''Coalition of Stone and Struggle'' to repair or upgrade an existing commission. This will not count against the existing limitation on commissions as the labour will be provided by the Coalition, one of the greatest collections of [[Inhabitants_of_the_realms#Drudges|labourers]] in the ''City of Fire and Stone''. This can be any upgrade - either a standard one or one available due to an opportunity - with the exception that the Coalition refuse to work on projects sponsored or designed by eternals of other realms. Labour costs will need to be provided at the ordinary rate, though it is possible that the Coalition might occasionally request alternate forms of payment.
+
+They may invite the ''Architects of Iron and Stone'' to assess a bourse resource that produces [[mithril]] or [[white granite]], which has not already been assessed in this manner, and at the cost of five thrones. The Architects of Iron and Stone will send their representatives to investigate how the resource might be improved. The following season, the heralds will present plans for an upgrade of that resource. This could be a [[Metal_and_stone#Expand_the_Quarry|straightforward plan]] to improve production, or the [[Metal_and_stone#Actual_Ambition|discovery]] of a hitherto-unexploited opportunity for side profit. It is even possible that, on rare occasions, there may be unexpected [[Metal_and_stone#Tempest_Miners|additional opportunities]] associated with the resource. The cost per assessment is set at five thrones until at least the Winter Solstice 388YE. The Architects will assess what profits they have made from the relationship after that point, and may change the price. The Architect of Hammers should email {{plot}} after the event to ensure the five thrones is removed from their inventory.
+
+No voting is possible by the Senate at this point, as the power has been delegated to the Architect of Hammers. The [[Synod]] may, however, choose to exercise their [[veto]] over the Architect's decision.
+<!--{{CaptionedImage|file=Character.jpg|caption='''Character''', Architect of Hammers|align=left|width=400}}-->
+
+==Appointment==
+This title is appointed during the Autumn Equinox each year. The Architect of Hammers is appointed by citizens of Urizen who control [[mana site|mana site]] [[Resource#Personal_Resource|personal resources]] through the [[Tally of the Votes]]. The more improved a mana site an individual controls, the more votes they can allocate in support of a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only an Urizen citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Architect_of_Hammers}}
+{{Responsibilities Expectation}}
+[[Category:Title]][[Category:Bourse]][[Category:Urizen]]

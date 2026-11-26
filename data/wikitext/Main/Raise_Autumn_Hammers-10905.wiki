@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:385YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Skarsind, Seconded: The Barrens">To raise an army in Skarsind from the Ethengraw sept. The Legion will be called the “Autumn Hammers” in deference to their heritage.</quote>
+==Overview==
+* Raises a third Imperial Orcs army from the [[A_lost_king#Second_To_None|Ethengraw]] sept in the territory of [[Skarsind]]
+* Passed
+==Date==
+* Autumn 385YE
+==Cost==
+* Standard costs apply
+* 200 wains of mithril
+* 75 thrones
+* One year to complete
+==Progress==
+{{CommissionProgress|Autumn_Hammers}}
+==Outcome==
+* Now that all necessary funds have been provided, and thanks to [[Mystic_scrolls_of_Estavus#Hammers_of_Fury|Hammers of Fury]], the third army of the Imperial Orcs will finish raising in time for the [[Autumn Hammers|General of the Autumn Hammers]] to be elected for the first time at the Spring Equinox 386YE. Due to it being raised early it will not immediately have an [[Army qualities|army quality]] and will only be able to take the standard [[army orders]].

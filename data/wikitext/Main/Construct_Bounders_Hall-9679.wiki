@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:384YE Spring]]
+__NOTOC__
+<quote by="Proposed Mournwold, Seconded Bregasland">To construct a Bounders Hall in Sarcombe to be overseen by a Bailiff of the Downs. This will costs twelve wains of white granite to build.</quote>
+==Overview==
+* Commissions the construction of a Bounder's Hall in Sarcombe, in the Mournwold, as proposed in the '''[[Tend_to_the_Flame#Meet_All_Their_Needs|Tend to the flame]]''' Wind of Fortune.
+* Passed at 13 Thrones
+==Date==
+* Spring 384YE
+==Cost==
+* As detailed in the wind of fortune
+* 12 wains of [[white granite]]
+* 24 crowns in labour costs, 
+* Three months to construct
+==Progress==
+{{CommissionProgress|Bounders_Hall}}
+==Outcome==
+* Once work on the hall is completed the title of [[Bailiff of the Downs]] will be available to be appointed.

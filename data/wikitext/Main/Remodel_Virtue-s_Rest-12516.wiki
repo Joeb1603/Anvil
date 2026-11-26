@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Proposed: Reikos, Seconded: Spiral">Commission to remodel Virtue's Rest as detailed by the civil service. Position of Exarch of Virtue's Rest is to be elected annually by the Highborn National Assembly. Requires a commission. Citizens of Highguard have been proud to offer these Hostels to pilgrims of the faith. Now we will welcome soldiers to recover during this War of Thorns and Flowers. May the city at the centre of our faith uplift their souls.</quote>
+==Overview==
+* Restructures the great work in Bastion into an [[edifice]] as per the '''[[The_war_of_thorns_and_flowers#Salvation_of_Souls|The war of thorns and flowers]]''' wind of fortune
+* Passed
+
+==Date==
+* Winter 386YE
+
+==Cost==
+* Costs as per opportunity
+* 120 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Remodel_Virtue%27s_Rest}}
+==Outcome==
+* Completely removed the level of investment and returns provided by Virtue's Rest
+* Allows eligible Imperial armies - those of Navarr, Highguard, Varushka, and the League - to take the '''Resupply in Virtue's Rest''' order in Bastion, increasing resupply
+* The [[Exarch of Virtue's Rest]] will be available to appoint for the first time at the Summer Solstice 387YE by tally of the votes of Highborn congregation owners

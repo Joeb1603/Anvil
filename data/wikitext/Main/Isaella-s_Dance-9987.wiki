@@ -1,0 +1,31 @@
+{{Army Page}}
+{{CaptionedImage|file=Isaellas Dance Colour.png|align=right|width=300}}
+===Overview===
+The army of Isaella's Dance was founded around a solid core of thorns with a reliance on vates adept at manipulating the power of the [[Spring magic|Spring realm]], and supported by some of the finest masters of [[Surgical skills#Apothecary|herb lore]] in the Empire.
+
+The Isaella's Dance were lost following the Autumn Equinox 386YE during the [[Under eastern skies|campaign]] in [[Therunin]] against the [[Druj]].
+
+The third Navarr general led the Isaella's Dance, and was appointed (or re-appointed) at the Spring Equinox each year.
+
+===History===
+TBC
+__NOTOC__
+<div style="float:right; width: 500px; clear: right;"><quote by="Cadwell Waystone, General of the Isaella's Dance, Autumn Equinox 386YE">My Poison Thorns, the Empire has bled in Therunin while we healed. The Magic of Autumn bound our wounds and now we are ready. The Druj have tortured and slaughtered their way through our lands. We will bring a swift death with our poison thorns. We attack via the Barrens into Eastring</quote></div>
+====Recent History====
+The army of Isaella's Dance finished mustering just before the Summer Solstice 384YE. The army was able to use their mastery of Spring magic and their expertise with herbs to create powerful blade venoms to apply to their weapons. These poisons were designed to kill quickly and without suffering, ensuring that the enemy did not linger in pain. The [[Army_qualities#Thornbound|thornbound]] army was founded following an [[Comes_a_time#Without_Fear_or_Favour|opportunity]] presented by critics of the Spider King.
+
+ TBC
+
+Isaella's Dance fought in campaigns across the Empire, especially against the [[Jotun]] in the west. Following the Autumn Equinox 386YE, however, the army was involved in vicious fighting in [[Therunin]], where the Druj had laid a [[Under eastern skies|carefully crafted trap]]. They were able to lead the other armies fighting beside them out of the magical snare the orcs of the Mallum had created, but in the process they were [[Under_eastern_skies#Now_We_Are_Ready|cut to pieces]] and ultimately disbanded.
+
+ TBC
+
+===Traditions===
+TBC
+==Composition==
+TBC
+==Army Quality : [[Army_qualities#Thornbound|Thornbound]]==
+The army was able to use their [[Army_qualities#Thornbound|mastery of Spring magic]] and their expertise with herbs to create powerful poisons to apply to their weapons. These poisons are designed to kill quickly and without suffering, ensuring that the enemy do not linger in pain.
+{{CaptionedImage|file=GenIsaella'sDance.jpg|caption='''Cadwell Waystone''', last General of Isaella's Dance|align=left|width=400}}
+{{RecentElections|General_of_Isaella%27s_Dance|the title of [[General]] of Isaella's Dance}}
+[[Category:Imperial Army]][[Category:Navarr]][[Category:Military Council]]

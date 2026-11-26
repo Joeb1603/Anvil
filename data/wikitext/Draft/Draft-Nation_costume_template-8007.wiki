@@ -1,0 +1,75 @@
+==Overview==
+The overview should introduce the costume for the nation, describing the inspirations for it and trying to convey the themes and ideals that good costume for the nation evokes. 
+It should start with a handful of key adjectives that summarize the feel of the nation. Ideally we should have two short to medium length paragraphs that let you ''read'' about the national costume. Where appropriate it should convey the in-character ethos for the costume (i.e. hard-wearing practicality in the Marches, the city lifestyle in the League etc).
+
+It should finish with a paragraph making clear that the page presents the ideal costume for the nation - that it represents something that we expect everyone who plays a member of the nation to aim for, but within the context of continuous improvement. It should link back to the general page on costume (to be written) that lays out basic ideals for costume in Empire (including the concepts of aspiration and improvement).
+{{CaptionedImage|file=Emilio di Sarvos.jpg |width=200|align=left}}
+
+===Costume Pieces===
+This section should provide a short list of the ideal costume elements, including variations where appropriate. The format should consist of a short paragraph dedicated to each costume piece, starting with the technical name of the piece of costume in bold, followed by a sentence explaining what the item is, how and when it is worn. There is an example below:
+
+'''Tight Trousers''' Joined hose are the historical option, and modern thick leggings or tight trousers will also work. For the modern options, covering visible belt loops or an elasticated waist will improve the look. The trousers should fit in with the rest of the outfit, but tend not to be a focal point. 
+
+The section should include inline pictures, floating left and right, chosen to illustrate as best as possible, one or more iconic pieces of kit. It should include a link to wikipedia or other sources for specific historical terms.
+
+===Materials===
+This section should describe the colours and fabrics that are best for the nation. It should use language that makes clear that these things are aspirational ideals, not requirements. It should include a visual colour palette for the nation, with advice on how to use it, but the actual image should only take up a portion of the screen, not fill it. 
+
+==Variations/Gallery==
+Three nations, Wintermark, Dawn and the League feature significant meaningful costume variations based on characterisation, tradition in Wintermark, nobility in dawn and city in the League. Nations with a variation should replace the gallery below with a "Variation" section that explains the basis for the variation and then introduces level 3 subsections for each of the variations. Each variation section should be followed by it's own gallery of pictures (formatted as below for gallery).
+
+Nations with no divergent costume variation should be followed by a single gallery that pulls together evocative examples of costume for that nation. All images should be cropped/stretched to occupy the same height.
+
+Images should be laid out in complete horizontal rows designed to fill the width of the screen, and css formatted to provide a sensible number of photos for full-width display for screen, tablet and mobile and small mobile (likely 5, 3, 2 and 1 respectively).
+
+Gallery photos choice should make a conscientious effort to show all genders and ethnicities as much as possible. 
+
+===Military===
+A section on the military costume for the nation. Introductory text should discuss the weapons and armour thematically but using correct technical terms. Links to wikipedia or other sources for specific historical terms. If the nation includes specific military archetypes that have their own specific costume then include a text link to that page in the text.
+
+Do '''not''' break down into subheadings for weapons, armour, etc. Describe the pieces in a block of text, then show ensemble images in the gallery.
+
+A short gallery of image showing characters with the right armour, weapons and shields, formatted as per the gallery above. One or two rows at most, not six.
+
+===Religion===
+A section on the religious costume for the nation. This will likely include the kind of costume that priests and similar characters wear, but should take a broader approach where possible, attempting to lay out how characters of that nation embody their religious beliefs in their costume. It should describe the use of religious symbols where appropriate for the nation, for example the virtuous animals in Varushka. 
+
+A short gallery of image showing characters with the right armour, weapons and shields, formatted as per the gallery above.
+
+===Magic===
+A section on the magic costume for the nation. This will likely include the kind of costume that magicians and similar characters wear, but should take a broader approach, attempting to lay out how characters of that nation incorporate the existence and practice of magic in their culture into their costume. For example, the use of poppets in the Marches. It should describe the use of magical symbols where appropriate for the nation, for example the use of runes in Wintermark. A description of mage armour and images of it are ideal where available and appropriate.
+
+A short gallery of image showing characters with the right armour, weapons and shields, formatted as per the gallery above.
+
+===Jewellery===
+Most nations include specific thematic elements based on jewellery, e.g. circlets in Dawn. Describe the ideals for bling for the nation - then follow with a gallery of images showing it off.
+
+This is especially important for nations that people often assume don't have bling - e.g. the Marches. 
+
+===Hats and Outerwear===
+A section dedicated to hats and outerwear. Talk about the importance of hats, how they improve any costume, describe the kind of hats that are best for the nation. Also describe the kind of things you need to make a costume practical and effective and warm - but still look good for the nation. Reiterate a point (for inclusion on the costume page) that events are frequently wet and cold and stress the value of having a cloak or other appropriate costume that you can throw over your costume.
+
+Gallery of images to follow.
+
+==Things to Avoid==
+
+===Similar Nations===
+A short paragraph discussing the points of cross-over between the nation and similar costume for other nations. Give positive advice on how to keep the look iconic for this nation, but describe potential pitfalls of costume elements that fit another nation better. 
+
+Include standard rubric explaining that all costume is aspirational - so it's fine to use costume that fits another nation if that's the best piece of costume you have available for your overall look - but explain politely that the way to handle this is to simply not mention it rather than making it part of your character background. (This may be better for the main page on costume).
+
+===Less Appropriate===
+Some nations include specific advice on things which are acceptable in-game - but which are not the ideal. Good examples of this are 16th-century costume for the League. If the majority of "costume don'ts" are things that are acceptable but less appropriate then include them in a section titled less appropriate and use the standard language for that. Include images left and right-aligned as appropriate to illustrate the text.
+
+===Inappropriate===
+Some nations include specific advice on things which are not acceptable in-game. This is a much stronger prohibition than "less appropriate", it is simply not a good idea to use the White Hand on any kit in the Imperial Orcs for example. If the kit is something we do not wish someone to use at the event, then we should use language that is honest about that, an use this section rather than a "less appropriate" section.
+
+==Useful Links==
+===Tutorials===
+A set of bullet point links to good tutorials on how to make a good costume, or how to make specific costume pieces. 
+
+===Traders===
+A set of bullet point links to traders websites who produce iconic kit for that nation. We ''must'' exercise judgement here and also avoid including links for the sake of it. If we can't find a trader that sells iconic Urizen costume, then skip this section, don't link to a website of stuff that is "ok-ish".
+
+==Further Reading==
+The standard Further reading boiler plate which appears at the bottom of every nation, that provides links to related pages for the nation.

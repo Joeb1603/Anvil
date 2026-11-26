@@ -1,0 +1,7 @@
+Jessica Townshend<br />
+
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>[[Category:Photos:JessicaTownshend]] [[:Category:Photos:JessicaTownshend|Image by Jessica Townshend]]
+</nowiki>''

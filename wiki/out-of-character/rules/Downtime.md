@@ -1,0 +1,139 @@
+---
+title: Downtime
+source: https://www.profounddecisions.co.uk/empire-wiki/Downtime
+class: out-of-character
+topic: rules
+categories:
+- Rules
+last_edited: '2026-04-16T13:04:03Z'
+revision: 137090
+---
+
+# Downtime
+
+## Hand-in Baggies
+
+- **Put anything that you wish to use in downtime in your baggy at the end of the event**
+- **Make sure you complete a hand-in slip listing the materials**
+- **You can post resources to our head-office if you forget to hand them in at the event**
+
+If you want to make use of any money, materials or items during downtime then you must hand them in to GOD at the end of the event. Plastic bags are available in GOD for everyone handing in resources. Hand-in slips are also available from GOD. You should list everything that you are handing in on the slip and put it in the bag together with any items you are handing in.
+
+Any money or resources handed in will be available for use automatically for standard downtime actions such as crafting magical items or upgrading a resource. If your character is taking an unusual action - such as enacting a mandate then we will remove the resources before downtime is opened. If anything is removed from your inventory by us that you did not wish to use in this way then please let us know as quickly as possible.
+
+If you forget then you can [post them to our head office address](../site/Contact_Profound_Decisions.md#address). Make sure you include your name, character name and CID as well as a list of what resources you are posting. Please appreciate that it always takes a few days for parcels to reach us.
+
+## Income
+
+- **Every character receives 18 rings at the start of every event they attend**
+
+Characters attending an event automatically receive eighteen rings. This represents the wealth the character has accumulated in the months leading up to the event. It is up to the player to interpret how they have earned this money in a way that is appropriate to the setting and their character.
+
+Character with personal or campaign resources that produce money, receive this in addition to their 18 rings.
+
+|  |
+| --- |
+| **Personal Resource** |
+| [Business](Business.md) |
+| [Congregation](Congregation.md) |
+| [Farm](Farm.md) |
+| [Fleet](Fleet.md) |
+| [Forest](Forest.md) |
+| [Herb garden](Herb_garden.md) |
+| [Mana site](Mana_site.md) |
+| [Military unit](Military_unit.md) |
+| [Mine](Mine.md) |
+
+## Operating a Resource
+
+- **Every character can operate a single personal resource after each event they attend**
+
+You should choose a personal [resource](Resource.md) for your character when you create them. Your resource will automatically produce money or materials for your character to use at each event they attend.
+
+Some personal resources, such as a [fleet](Fleet.md) or a [military unit](Military_unit.md) always provide you with some very simple options that you can choose from each downtime. To access these options you should log on to [the Profound Decisions website](http://www.profounddecisions.co.uk/account/characters) and choose your current character from the list of characters shown. If you attended the last event, then your character screen will display a "submit downtime" button that allows you to choose one or more options for your resource.
+
+All resources can be improved, if you [hand in the right materials](#hand-in-baggies), white granite, weirwood, or mithril. You can also hand in money to pay to make a resource such as a [herb garden](Herb_garden.md), [mine](Mine.md) or [forest](Forest.md) provide even more materials than usual. These options are all accessed by pressing the "submit downtime" button on your character details screen.
+
+## Making Items
+
+- **Artisans can make up to three magic items after each event they attend**
+
+A character who has purchased the [artisan skill](Crafting_skills.md#artisan) has three months each downtime to make items. There is no monetary cost to make items, but the character must have the rare [materials](Materials.md) needed to make the item. Most enchantments take a month to complete but some weak enchantments require two months to make rather than using any materials. A character can continue to operate their [personal resource](Resource.md#personal-resource) while crafting items.
+
+Enchanted items last for a single year from the day of creation. This means that they can be used at the following four events before the magic is lost. If an artisan has access to enough [ilium](Ilium.md) then they can use it to [make a permanent magic item](Ilium.md#creating-artefacts).
+
+## Retraining
+
+- **Every character can retrain a single skill, crafting option or two rituals at any time after each event they attend**
+- **New players can retrain any skills after their first Empire event**
+
+After each event you attend you have the option to retrain a single skill that your character knows. You can choose one skill your character knows to drop. You can only retrain a skill if it's not a prerequisite for another skill you know. For example if you have the [hero skill](Heroic_skills.md#hero) and the [mortal blow](Heroic_skills.md#mortal-blow) skill - then you won't be able to drop hero because it is a prerequisite for mortal blow. If you want to retrain hero then you will need to drop mortal blow first; you will then be able to retrain hero after the next event you attend.
+
+If you retrain a skill, then you will be refunded whatever the skill cost to buy. The refunded experience points are locked to that character, so they can only be used to buy new skills for that character. If you retrain an [extra recipe skill](Surgical_skills.md#extra-recipe) or [extra spell](Magical_skills.md#extra-spell) then the appropriate recipe or spell will be dropped at the same time. If you retrain a [realm lore skill](Magical_skills.md#realm-lore) or a [crafting skill](Crafting_skills.md) then you may have to drop one or more rituals or crafting options as appropriate. The website will inform you which options are being dropped or ask you to pick which options to drop as appropriate.
+
+As an alternative, if you are an artisan, you can retrain a single crafting option after each event instead of any other retraining. If you are a ritualist then you can retrain two rituals after each event instead of any other retraining.
+
+There is a special option for brand new players - if you are checking your character after the very first Empire event that you have attended then you may retrain any or all of your skills and options. This benefit is only available after the first event you attend - it is not available after subsequent events even if you take a new character.
+
+You can retrain a skill at any point between events - you don't have to wait for downtime to open. Once you select the skill you want to drop, it will be permanently removed from your character as you soon as you click save.
+
+## Roleplaying Between Events
+
+### Keeping the game live
+
+- **We want the important IC discussions and decisions to happen live at the events**
+
+Profound Decisions are very keen for the key IC activity of the Empire world to take place at events. We believe your game will be busier and better if everything that can happen in the field, does happen in the field. Trade negotiations, religious debates, military planning, magical discourse and political discussions and appointments are all examples of activities that should happen at events.
+
+While it would be logical to expect some decisions and interactions to take place between Imperial summits, Empire is a live-roleplaying game not a real-time simulation. Every IC communication you have between events is one you cannot have face to face.
+
+### Social Media and IC roleplaying
+
+- **No in-character social media spaces for nations or Imperial political bodies**
+- **Social media spaces for groups, in-character advertisements and in-character emails to individuals are fine**
+
+Our core goal is to ensure that important game decisions are taken at events, rather than between events. For this reason we prohibit social media spaces that are intended for roleplaying between members of one of the [ten nations](../../in-character/nations/general/Nation_overview.md) or for any of the core Imperial political bodies - the [Senate](../../mixed/government/senate/Senate.md), [Synod](../../mixed/government/synod/Synod.md), [Bourse](../../mixed/economy/Bourse.md), [Military Council](../../mixed/government/military/Military_Council.md) and the [Conclave](../../mixed/government/conclave/Conclave.md) are not allowed. Please do not use social media spaces like Facebook, Discord, or similar to roleplay online with members of your nation or a political body of the Empire.
+
+It is permissible to use social media spaces to roleplay with the friends you come to the event with. It's also fine to advertise in-character services on the Empire Facebook group and elsewhere, provided you don't then get drawn into in-character negotiations with other players for those services. You can send in-character communications by email, provided they represent a letter or the equivalent that you are sending to an individual - but don't mass-send a communication to an email list if it is promoting an in-character agenda or pushing a controversial point of view. Please keep this for when everyone is in-character at the event.
+
+### Communication with NPCs
+
+- **You cannot send winged messengers between events**
+- **We ask our NPCs not to send IC communications between events**
+
+You are welcome to send IC communications to egregores and Anvil civil servants between events but all our staff have been asked **not** to respond until the next event. They may *choose* to bring such IC communications with them to the next event and act on them there.
+
+Rituals cannot be performed in downtime so you cannot perform [Call Winged Messenger](../../mixed/magic/rituals/Call_Winged_Messenger.md) unless you are at an event.
+
+Please also appreciate that our crew are all volunteers. While they may choose to respond to questions, Profound Decisions do not expect crew to handle any OOC communications between events. If you need a response, please email Profound Decisions instead.
+
+### OOC Design
+
+At its heart Empire is a game of politics that is quite deliberately [player versus player](../game-design/The_game.md#character-driven) (PvP). Each event we create new winds of fortune as part of our goal to stir the political pot and keep the game intriguing, but the primary protagonists who might oppose your in-character agendas will be other players.
+
+In a game like Empire, it is possible to use the ubiquitous nature of the internet to push your character's agendas between events. We know from bitter experience with previous games we've run that if we allow that, then the game degenerates in two ways. The first is that a lot of roleplaying and interaction that could have taken place at the event occurs between it. That means the events themselves become less active, less busy, and ultimately less enjoyable.
+
+The second issue is equity of access. We've been very clear with Empire that there are four events a year run by Profound Decisions. That's a deliberate choice on our part so that people know how much of a time commitment Empire might represent. Some of our players have near-limitless enthusiasm for Empire – and want to devote more time than that. For that reason we encourage and support players to create their own sanctioned events set in the Empire world. But lots of players simply do not have the time or the inclination to devote so many hours to Empire – especially not to online forums and communications.
+
+The more we allow the game to be played online between events, the more that players with limited time are cut-out of Empire. They come to events hoping to engage in the politics that the game was built for, only to find that the major issues have already been agreed upon by participants communicating between events. That is a very serious concern for us – and is the reason we've always asked players not to push IC agendas on mass-participants forums between events.
+
+We've tried to strike a balance with these rules. We let participants advertise their IC wares online, but we ask everyone to then pursue any negotiation at the events. That compromise makes it easier for players to be aware of characters and organisations they can seek out at an event which hopefully creates more opportunities for roleplay when everyone is in costume. We also allow letters between individual participants for similar reasons. And we're fine with groups creating forums for their group – since we want people to get together and froth about the game and their plans with their close friends and allies.
+
+But what we don't want is people campaigning for titles online – or pushing for political outcomes through posts on Facebook, Discord or other social media spaces. That violates the letter of our rules that say not to use those kind of public access internet forums to push IC agendas – and it's very much against the spirit of the rules – that sort of campaigning should be done IC at events.
+
+We don't want to make hard and fast rules that involve checking everything that happens online – that way lies madness. What we tried to create is simple guidelines so that people can easily understand the rules. More importantly, we want folks to appreciate why the rules exist and what they are trying to achieve and to respect them accordingly. If that happens then we don't have to get involved in ruling on IC conversations happening online – but the events can remain exciting to play and accessible to as many players as possible who wouldn't otherwise have the time to get involved.
+
+## Further Reading
+
+- [Characters](Characters.md)
+- [Playing the Game](Playing_the_game.md)
+- [Referees](Referee.md)
+- [GOD](GOD.md)
+- [Safety](Safety_overview.md)
+- [Conduct](Conduct.md)
+- Downtime
+- [FAQ](Rules_FAQ.md#downtime)
+
+---
+
+Categories: [Rules](../../indexes/by-category/Rules.md)

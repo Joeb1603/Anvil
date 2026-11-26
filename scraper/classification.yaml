@@ -8,6 +8,9 @@
 ignore_categories: [Pages with broken file links, Noindexed pages, Hidden categories, Templates]
 ignore_category_prefixes: ["Photos:", "Photo:", "PhotosJ"]
 
+# Namespaces whose pages always take the namespace default, whatever their categories.
+namespace_forced: [Help, Crew, Draft]
+
 namespace_defaults:
   Help: {class: out-of-character, topic: help}
   Crew: {class: out-of-character, topic: crew}
@@ -21,7 +24,52 @@ default: {class: uncategorised, topic: unsorted}
 # wiki/ as a title and a link only; their full text goes to local-only/ (never committed).
 not_openly_licensed_topics: [music]
 
-title_rules: []
+# Pages with a song block and no category that matches a rule are treated as music.
+song_pages: {class: mixed, topic: music}
+
+# Individual pages with no useful category, placed by hand.
+page_overrides:
+  Main Page: {class: out-of-character, topic: site}
+  "Imperial:Breadcrumbs": {class: out-of-character, topic: site}
+  "Imperial:Footer": {class: out-of-character, topic: site}
+  "Imperial:LeftBar": {class: out-of-character, topic: site}
+  "Imperial:TitleBar": {class: out-of-character, topic: site}
+  Contact Profound Decisions: {class: out-of-character, topic: site}
+  Feedback: {class: out-of-character, topic: site}
+  "Forums & Facebook": {class: out-of-character, topic: site}
+  FreeToUseImageLinks: {class: out-of-character, topic: site}
+  Photography: {class: out-of-character, topic: site}
+  Streaming: {class: out-of-character, topic: site}
+  Style guide: {class: out-of-character, topic: site}
+  Terms and conditions: {class: out-of-character, topic: site}
+  Sanctioned event advice: {class: out-of-character, topic: events}
+  Summer Solstice 2013: {class: out-of-character, topic: events}
+  Cantina El Burrito: {class: out-of-character, topic: events}
+  Routes Coffee: {class: out-of-character, topic: events}
+  Tangled Vine: {class: out-of-character, topic: events}
+  Appropriate roleplaying: {class: out-of-character, topic: rules}
+  Coif: {class: out-of-character, topic: costume}
+  Cotehardie: {class: out-of-character, topic: costume}
+  Kirtle: {class: out-of-character, topic: costume}
+  Look and feel new highguard: {class: out-of-character, topic: costume}
+  Look and feel new navarr: {class: out-of-character, topic: costume}
+  The Brass Coast look and feel2: {class: out-of-character, topic: costume}
+  Orc: {class: mixed, topic: world}
+  Region qualities: {class: mixed, topic: economy}
+  Trade goods: {class: mixed, topic: economy}
+  Register of civil service gifts: {class: mixed, topic: government/senate}
+  Senate Motions: {class: mixed, topic: government/senate}
+  Clemency guidance: {class: mixed, topic: government/senate}
+  Dramaturgy Archive: {class: mixed, topic: magic/lore}
+
+# Checked before the category rules (first match wins).
+title_rules:
+  - {pattern: 'Announcements? (by|of) ', class: in-character, topic: announcements}
+  - {pattern: 'Military Council orders$', class: in-character, topic: military-council-orders}
+  - {pattern: 'Sodality resolutions$', class: in-character, topic: conclave-sessions}
+  - {pattern: 'Imperial elections$', class: in-character, topic: elections}
+  - {pattern: '(?i)look and feel', class: out-of-character, topic: costume}
+  - {pattern: ' groups$', class: out-of-character, topic: groups}
 # Used only when a page has no category that matches a rule below.
 fallback_title_rules:
   - {pattern: 'event schedule$', class: out-of-character, topic: events}
@@ -49,7 +97,7 @@ rules:
   - {topic: costume, class: out-of-character, categories: [Costume, Pieces of Costume]}
   - {topic: rules, class: out-of-character, categories: [Rules, FAQ, Conduct, Safety, Accessibility]}
   - {topic: events, class: out-of-character, categories: [Events, Monstering, Children]}
-  - {topic: game-design, class: out-of-character, categories: [Game Design, Review, Inspirations, The Game, Introduction, Guide]}
+  - {topic: game-design, class: out-of-character, categories: [Game Design, Review, The Game, Introduction, Guide]}
   - {topic: help, class: out-of-character, categories: [Help]}
   - {topic: crew, class: out-of-character, categories: [Crew]}
   - topic: groups
@@ -87,14 +135,14 @@ rules:
   - {topic: government/military, class: mixed, categories: [Military Council, Imperial Army, Warfare, Challenge]}
   - {topic: government/synod, class: mixed, categories: [Synod, Imperial Synod, Writ of Consecration, Scrutiny]}
   - {topic: government/conclave, class: mixed, categories: [Conclave, Conclave order, Sodality, Imperial Sodality]}
-  - {topic: government/senate, class: mixed, categories: [Senate, The Throne, The Law, Civil Service]}
+  - {topic: government/senate, class: mixed, categories: [Senate, The Law, Civil Service]}
   - {topic: religion, class: mixed, categories: [Ceremonies]}
 
   # --- In-character lore
   - topic: religion
     class: in-character
     categories: [Religion, The Way, Ambition, Courage, Loyalty, Pride, Prosperity, Vigilance, Wisdom,
-                 Highest Calling, Peerless Kinship, Great Library]
+                 Highest Calling, Peerless Kinship, Great Library, Grand Inspiration, Inspirations]
   - {topic: nations/navarr, class: in-character, categories: [Navarr, Navarr Wayhouse]}
   - {topic: nations/varushka, class: in-character, categories: [Varushka]}
   - {topic: nations/the-league, class: in-character, categories: [The League]}
@@ -109,12 +157,12 @@ rules:
   - topic: foreign-nations
     class: in-character
     categories: [Foreign Nations, Foreign Nation, Foreigners, Sarcophan, Axos, Asavea, Asavean Archipelago,
-                 Commonwealth, Faraden, Iron Confederacy, Sumaah, Jarm, Tsark, Skoura, Otkodov]
+                 Commonwealth, Faraden, Iron Confederacy, Sumaah, Jarm, Tsark, Skoura, Otkodov, Beoraidh]
   - topic: barbarians
     class: in-character
     categories: [Barbarians, Grendel, Thule, Jotun, Druj, Great Forest Orcs, The Mallum, Orc Affairs]
   - topic: world
     class: in-character
     categories: [The World, The Empire, Gazetteer, Imperial Territory, Maps, Sentinel Gate, Bestiary, Vallorn,
-                 Traders, Merrow, Free Folk, Monster]
-  - {topic: history, class: in-character, categories: [History, Recent History]}
+                 Traders, Merrow, Free Folk, Monster, Karass, Rahvin]
+  - {topic: history, class: in-character, categories: [History, Recent History, Saga, The Throne]}

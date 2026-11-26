@@ -1,0 +1,11 @@
+<div style="float:right; width: 500px; clear: right;">
+<div class="box">
+<div class="box-inner">
+'''Law of Scale'''<br>This ritual represents the best {{{realm}}} army [[enchantment]] ritual that can be created without the involvement of an [[eternal]]. Centuries of experimentation have shown that it is not possible to improve on this ritual with the magic of this realm. An [[arcane projection]] that creates a more powerful version of this effect, one that creates a lower-magnitude version that grants less enhancement to the army, or one that provides a different bonus to the army is not possible due to the [[Laws_of_magic#The_Law_of_Scale|law of scale]]. It might be possible to create a version of the effect that had differently flavoured roleplaying effects, but the mechanical qualities would remain the same. For further notes about this see [[war magic]]
+</div></div></div>
+<noinclude>
+== Usage ==
+<pre>
+{{Army Scale|realm=Appropriate realm}}
+</pre>
+</noinclude>

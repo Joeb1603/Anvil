@@ -1,0 +1,33 @@
+==Overview==
+The title was created in Summer 382YE when the Imperial Senate voted to [[Reallocate_an_Imperial_Wayleave_to_the_Imperial_Orcs|reallocate]] one of the [[Bearer of an Imperial Wayleave|Imperial Wayleaves]] auctioned by the Bourse to the exclusive use of the Imperial Orcs. There were some initial [[Reallocate_an_Imperial_Wayleave_to_the_Imperial_Orcs|Constitutional Court issues]] around the appointment of the title, but they were quickly resolved.  
+
+At the Winter Solstice 383YE, the title was [[383YE_Winter_Solstice_Senate_sessions#Amend_Imperial_Orc_Wayleave|amended]], following clarification of its appointment method and usage of its power to [[#Commission|commission]] new construction. At the same time, the Constitutional Court changed the name of the title to "Legion Engineer" to better reflect the fact that it was significantly different to the existing Wayleave titles. It was later [[385YE_Winter_Solstice_Senate_sessions#Amend_Legion_Engineer|amended]] during the Winter Solstice 385YE to allow it to commission and upgrade [[fortification|fortifications]], and [[387YE_Summer_Solstice_Senate_sessions#Amend_Titles_Commissioning_Sinecures|during Summer 387YE]] to include the ability to commission [[Navarr wayhouse|wayhouses]] and [[edifice|edifices]]. It was further amended during the [[387YE_Winter_Solstice_Senate_sessions#Amend_Construction_Titles|Winter Solstice 387YE]] to have the power to announce the construction of any commission that creates a structure.
+
+==Responsibilities== 
+The Legion Engineer has no particular responsibilities and may use the authority granted by the title to order any commission they choose. 
+
+==Powers==
+===Commission===
+Once during each summit, the Legion Engineer can announce the construction of any [[commission]] that creates a structure. The Legion Engineer can commission a [[college of magic]], [[edifice]], [[embassy]], [[fane]], [[fortification]], [[great work]], [[ministry]], [[runeforge]], [[sinecure]], [[shipyard]], [[smugglers cove]], [[spy network]], or [[Navarr wayhouse|wayhouse]]. The materials and money required for construction must be provided by the Engineer or their agents.
+
+If the Legion Engineer announces the commission of a college of magic, runeforge, sinecure, or ministry, then an [[Imperial title]] to oversee the commission is automatically created. The location and size of the commission and the method of appointment and tenure of any associated title are all part of the [[Motion_wording#Necessary_Details|necessary details]] and may be included in the announcement made by the Engineer or determined later by them.
+
+The Legion Engineer can upgrade existing fortifications, but cannot [[Commission#Altering_an_Existing_Commission|alter any other existing commissions]].
+
+To use their power of commission, the Legion Engineer must make an [[Senate_announcement|announcement]] in the Imperial Senate. No voting is possible by the Senate at this point, as the power has been delegated to the Legion Engineer. The [[Synod]] may choose to exercise their [[veto]] over the Legion Engineer's announcement. The [[Throne]] may choose to exercise their [[veto]] over the Engineer's announcement.
+===Tamazi Expertise===
+The Legion Engineer can, when announcing the construction of a new fortification or upgrade of an existing fortification, call upon the expertise of the [[Tamazi]]. They can instruct the Tamazi to implement designs from Axos, with walls thick enough to conceal passages and hidden chambers within them. Some of these passages would conceal traps; others would protect hidden sally ports used to bedevil any enemy foolish enough to attempt a siege. All casualties inflicted by the garrison during an attack on the region containing the bastion would be increased by a fifth. This increases the cost of the fortification by 20 wains of mithril and 60 crowns. Alternatively, they can instruct the Tamazi to work mithril runes into the walls. The bastion would be protected from certain kinds of malign magic. The bastion would take half the normal damage from magical attacks such as [[Thunderous Tread of the Trees]]. This also increases the cost of the fortification by 20 wains of mithril and 60 crowns.
+{{CaptionedImage|file=Firesong Arachas.jpg|caption='''Firesong Arachas''', Legion Engineer|align=left|width=300}}
+==Limitations==
+The Legion Engineer can only commission a college of magic, edifice, embassy, fane, fortification, great work, ministry, runeforge, sinecure, shipyard, smugglers cove, or spy network.
+
+Unlike a [[civilian commissioner]], the Engineer is '''not''' prohibited from using their power to commission anything that provides liao in the [[Synod]]. However, the appointment of such a title is still subject to [[Motion_wording#Necessary_Details|the normal constitutional restrictions]].
+
+They are not required to build their commission in their own nation and may use any method of appointment (for example, through the Bourse, the Conclave, Military Council, or Synod). The civil service is on hand to offer legal advice or support to the Engineer just as they are to a senator, and they may wish to submit their commission for scrutiny before it is announced to ensure there are no problems with their design.
+
+==Appointment==
+As a national position, it is appointed by vote of Imperial Orc [[military unit]] captains with the assistance of the Bourse civil servants. The position is appointed annually at the Autumn Equinox.
+
+Only an Imperial Orc may hold this title. They do not receive a seat on the Bourse. As a title in the Bourse, they cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Legion_Engineer}}
+[[Category:Senate]][[Category:Bourse]][[Category:Title]][[Category:Imperial Orcs]]

@@ -1,0 +1,20 @@
+==Overview==
+{{CaptionedImage|file=Vallornguard sodality.png|title=Vallornguard|align=right|width=240}}
+The Emerald Arcanist is an [[Imperial title]] appointed by the [[Vallornguard]]. Construction of Jonas' Legacy was [[Construct_Jonas%27_Legacy|announced]] by '''Bertrand''', as the [[Bearer of an Imperial Wayleave]], during the Summer Solstice 387YE, and construction, at Elvette in [[Semmerholm]], was completed shortly before the Autumn Equinox 387YE.
+
+==Responsibilities==
+The Emerald Arcanist is responsible for advising the Vallornguard on magical matters. In addition, the Arcanist is expected to defend the border between [[Brocéliande]] and [[Semmerholm]]. Finally, if Jonas' Legacy, or its inhabitants, were to be threatened, it would be the responsibility of the Emerald Arcanist to respond to the threat.
+
+==Powers==
+{{CaptionedImage|file=Viridian duLac.jpg|caption='''Llŷr Viridian duLac''', Emerald Arcanist|align=left|width=200}}
+===Cache of Crystals===
+The Emerald Arcanist has custodianship of a sinecure. They receive nine mana crystals each season
+
+==Appointment==
+The Emerald Arcanist is appointed during the Autumn Equinox each year by members of the Vallornguard.
+
+Any Imperial citizen can hold this title. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+{{RecentElections|Emerald_Arcanist}}
+[[Category:Title]][[Category:Vallorn]]
+__NOTOC__

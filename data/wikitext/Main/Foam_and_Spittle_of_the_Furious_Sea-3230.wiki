@@ -1,0 +1,41 @@
+==Rules==
+{{Season|Spring|40}}
+===Performing the Ritual===
+{{Casting time|10}} {{Imperial Reduction}}
+
+{{Regio|Spring}} {{Target Territory}} During the performance of the ritual the casters must name at least one region within the target territory which has the ''coastal'' quality.
+
+{{curse}}
+
+===Effects===
+The ritual affects a single territory that contains at least one region with the ''coastal'' quality. Over the course of the next few days a powerful curse settles over the area. Terrible weather appropriate to the time of year pounds the coast with treacherous waves, gale-force winds and torrential rain. At the same time destructive energies drawn from the Spring realm itself are unleashed to attack ships moving through the area battering the coast and ships at sea. Sometimes there are reports of spirits or creatures from the Spring realm associated with storms and gales issuing forth from [[regio]] in the territory to indiscriminately attack ships or boats, or even coastal, river, or lakeside settlements. 
+
+Any [[fleet]] based in the target territory has its production reduced by two ranks for the coming season (which also reduces their [[Fleet#Military_Strength|military strength]] by 40).
+
+In addition, a total of 500 casualties are spread out over all [[navy|navies]] in the territory. If this damage would be sufficient to cause a navy to sink, then the navy will automatically withdraw from the territory rather than taking damage. A navy will not benefit from natural resupply if they end their movement in this territory, even if they have taken the [[Navy_orders#Put_to_Port|put to port]] [[Navy orders|order]]. Navies that move through the territory are not affected; only those who undertake an order in the target territory.
+
+{{Territory Effects}} The curse is likely to impact anyone in the territory whose livelihood depends on the sea; coastal settlements are at risk of flooding; and foreign vessels seeking to trade in the territory might founder, or seek more welcoming harbours elsewhere. It may also prove difficult for pirates or ship-based raiders to effectively attack the territory.
+
+{{Season Duration}}
+<div style="float:right; width: 200px; clear: right;">{{CaptionedImage|file=Mawrig.png|Caption=The [[Rune of Storms]], which often presages ruin, is a powerful adjunct to this destructive magic.|width=200|align=right}}</div>
+==Description==
+This ritual was used historically for discouraging [[Grendel]] war-fleets, and the occasional harassment by organised pirates or [[Iron Confederacy]] raiders. Prior to the reign of [[Empress Britta]], the ritual fell out of common use, due to the fact that there had been no serious aggression from the [[Bay_of_Catazar#The_Broken_Shore_and_Attar|Broken Shore]] in decades. This situation came to an end during the reign of [[Empress Lisabetta]], with the threat of renewed aggression from the navies of the Broken Shore.
+
+With sufficient mana, the curse can be used to protect large swathes of coastline - provided the Empire is prepared to accept the consequences for its own fleets. Since the time of [[Emperor Barabbas]], until the founding of the [[Freeborn Storm]], the Empire had no navies of its own to be impeded by the curse. Still, its use has never been popular among those who owe their livelihood to the sea, those who live on the coast, and those who live near rivers, marshes, or lakes in coastal territories.
+
+The forces unleashed bear some resemblance to the forces employed by the powerful [[Thunderous Tread of the Trees]] curse. Sailors in the area have often described brief encounters with barely-corporeal shapes composed of mist, fog, and animated water that attack the ships themselves, or somehow direct lightning bolts to strike vessels caught in the area. There have also been occasional reports of odd creatures of the Spring realm, emerging from regio to assault ships and coastal communities. Some magicians speculate that it is only the enduring state of [[Alignment#enmity|enmity]] that prevents the [[eternal]] [[Siakha]] enthusiastically sending her servants to the mortal realm whenever this curse is brought to bear, and some speculation that the magicians who originally formulated the ritual did so with her assistance. 
+
+There is no ''assurance'' associated with the ritual however, and no evidence that it draws specifically on the power of any Spring eternal. Regardless, Siakha is known to provide boons that empower it and encourage its performance. Among other things, she is known to occasionally provide a favoured minion with a ''Stormglass Mask'', a [[:Category:Foci|magical focus]] of [[tempest jade]] that make both this curse and [[Thunderous Deluge]] easier to perform. Such masks are said to bear a curse of their own, one that drives anyone who uses it to seek out more and more destructive uses for their magic.
+
+Of possible interest to magical scholars, the members of the [[Unfettered Mind]] charged with uncovering the [[eternal]] patrons of certain rituals recently uncovered references in some early ''Foam and Spittle of the Furious Sea'' texts to a ritual called the ''Dolor of Gulls''. This curse - it's not clear from the context whether it is a ritual of [[Autumn magic]] or [[Winter magic]] - brings shadows of misfortune that haunt all fleets that call a given territory their home anchorage. It greatly impacts their effectiveness, no matter how far they move from their port of origin, including their ability to support naval forces. A historical note mentions that it was cast on [[Sarvos]] in pre-Imperial times following a dispute with the merchants of neighbouring [[Tassato]], and that an attempt to introduce it into [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]] in the early years of the [[Conclave]] failed due to extensive opposition from [[the Brass Coast|Freeborn]] and [[the League|League]] magicians. If there are any texts remaining, it's not clear where they are now. In any event, a curse that leaves navies untouched and focuses entirely on independent ships will likely prove little more than a curiosity for modern magicians with access to the dramatic power represented by ''Foam and Spittle''.
+
+In 386YE, as war with the [[Grendel]] was further complicated by the rise of the [[Children of Wrecks]], the ritual saw extensive use by both Imperial magicians and followers of [[Siakha]] in the [[Bay of Catazar]]. Indeed, the Spring [[eternal]] offered a [[Hurricane_party#Typhoon_Breath|powerful boon]], seemingly indiscriminately, to any prepared to empower the ritual using small amounts of [[ilium|star metal]]. In conjunction with [[Thunderous Deluge]], the ritual had a particularly cataclysmic effect in [[Madruga]], wracking the contested territory even as the Empire and the Grendel [[Below_the_thunders#Game_Information_:_The_Storms|fought over its future]]. Indeed, the devastating storms may have further empowered the [[Where the river rises|magical flooding]] of the Scorrero river that ultimately transformed southern Madruga beyond all recognition.
+
+==Common Elements==
+A map of the target territory is often a focus for performing this ritual. It is often drenched during the casting in fresh water or wine, sometimes mixed with blood. Sometimes the map is created by pouring liquid onto dry sand, quickly tracing the rough contours of the coastline of the target territory, then washing it away.
+
+The rune [[Mawrig]] is commonly used during this ritual, as are dangerous marine beasts such as [[Mundane beasts#Kraken|kraken]], or legendary personalities such as the Old Man of the Sea. Some texts refer to a Spring Eternal called [[Siakha]], lady of storms and blood - but there are few remaining Imperial records describing this entity.
+
+[[Category:Spring Ritual]]
+[[Category:Rituals]]
+[[Category:Warfare]]

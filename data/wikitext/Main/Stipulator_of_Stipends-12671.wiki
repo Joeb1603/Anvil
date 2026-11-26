@@ -1,0 +1,20 @@
+==Overview==
+The Stipulator of Stipends is an [[Imperial title]] appointed by the [[Senate]]. It was established by the Senate in [[386YE_Winter_Solstice_Senate_sessions#Create_title_of_Stipulator_of_Stipends|Autumn 386YE]] with the power to amend [[New_Imperial_titles#Stipend|stipends]] of Imperial titles.
+
+==Responsibilities==
+The Stipulator of Stipends is responsible for managing the stipends of Imperial titles that receive them. There is some expectation that they work alongside the [[Auditor of Senatorial Accountability]], but there is no requirement to do so.
+
+==Power==
+===Set Stipend===
+The Stipulator has the power to announce a change in the stipend awarded to an Imperial title once each season. 
+
+To use this power, the Stipulator provides an [[Senate_announcement|announcement]] to the Civil Service, who present the decision to the [[Senate]]. No voting is possible by the Senate at this point, as the power has been delegated to the Stipulator. The [[Synod]] may, however, choose to exercise their [[veto]] over the Stipulator's decision.
+
+Every Imperial title is considered to have a stipend, though most of them have a stipend of zero thrones. The Stipulator of Stipends is therefore able to amend ''any'' Imperial title to receive a stipend. There is a season delay, the titleholder does not receive their stipend until the start of the next summit.
+
+==Appointment==
+The Stipulator of Stipends is an Imperial position [[Appointments_by_the_Senate#Imperial_Position|appointed by the Senate]]. Any Imperial citizen can hold this title. The Stipulator serves for a year, and they can be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=Stipulator of Stipends.jpg|caption='''HOLDER''', Stipulator of Stipends|align=left|width=300}}-->
+{{RecentElections|Stipulator_of_Stipends}}
+[[Category:Title]]
+[[Category:Senate]]

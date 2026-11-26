@@ -1,0 +1,10 @@
+<noinclude>
+== Usage ==
+<pre>
+{{pdf}}
+
+or
+
+{{pdf|title=PageTitle}}
+</pre>
+</noinclude><includeonly><div class="alert alert-success">This selection of articles can be '''[{{fullurl:{{{title|{{FULLPAGENAMEE}}}}}|action=pdfbook}} downloaded as a PDF book]''' <small>(or as [{{fullurl:{{{title|{{FULLPAGENAMEE}}}}}|action=pdfbook&format=html}} html only])</small></div></includeonly>

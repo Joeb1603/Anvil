@@ -1,0 +1,54 @@
+ The Halls of Knowledge were destroyed by the Druj during their [[Morrow#Recent_History|invasion of Morrow]] after the Autumn Equinox 382YE.
+==Overview==
+{{CaptionedImage|file=Octavius.jpg |title=Provost Octavius of the Auric Horizon disappeared when the college moved from Zenith to Morrow.|caption=The Provost guides the magicians to formulate new rituals.|align=left|width=300}}
+The Provost of the Halls of Knowledge was an [[Imperial title]] bestowed upon a [[Magical skills#Magician|magician]] by the people of [[Urizen]]. It was a national position appointed through the [[Bourse]].
+
+The Provost oversaw the Halls of Knowledge, a centre of learning that once stood high in the peaks of [[Zenith]]. Shortly after the Autumn Equinox 381YE, however, [[Foggy_mountain_top#The_Halls_of_Knowledge|the college disappeared]] and reappeared by the largest of the hot springs of [[Morrow#Peregro|Peregro]] in [[Morrow]]. It was ultimately destroyed by the Druj, burned to the ground shortly before the Autumn Equinox 382YE.
+
+There was a great deal of rivalry between the scholars of the [[Morrow#The_Halls_of_Knowledge|Halls of Knowledge]] and those of the [[Madruga#Lyceum|Lyceum]]. The Provost guided the magicians of the Halls, and by extension some of the finest minds among the Urizen magicians, in researching new rituals. Under their guidance, magicians co-operated to formulate new rituals in a matter of months rather than decades.
+
+When the Lyceum was established during the reign of [[Empress Aenea]], many Urizen expected it to be built in their nation. To their surprise, the [[Senate]] instead chose to build it on an island off the coast of [[Madruga]]. Records suggest that the Urizen were outmanoeuvred by a coalition of [[The Brass Coast|Freeborn]] and [[The League|League]] Senators, but the Urizen themselves admit their inability to focus their support around a single location almost certainly weakened their position. The spires of [[Morrow#The Weave|Weave]] in [[Morrow]] and [[Spiral#Ankarien|Ankarien]] in [[Spiral]] (among others) both put forward strong cases and divided the Urizen Senators. The Urizen made an effort to support the Lyceum, being gracious in defeat, but there is no doubt that they considered the centre of magical learning in the Empire being anywhere other than their nation to be an affront.
+
+When the territory that is now [[Zenith]] was added to the Empire during the reign of [[Empress Varkula]], the Urizen proposed a second magical academy. They made their approach carefully and suggested that, rather than threaten the Lyceum, the new academy would help unite the magicians of Urizen and allow them to pool their magical lore for the benefit of the Empire. Rather than use an existing spire, they created an entirely new one and called it the Halls of Knowledge. The new Provost was responsible for directing research, and ensuring that Halls of Knowledge were protected and supported by the Empire. A number of respected theorists and seers travelled to the new academy, and it soon became known as the place to go for prognostication and the study of Day magic.
+
+==Responsibilities==
+While the Provost had the final say in the research agenda of the Halls of Knowledge, it was common for other magicians to approach them and suggest areas which might benefit the nation or the Empire. There was usually less pressure on the Provost to ensure that the magic they are researching is "useful" - and less emphasis on sharing that knowledge with the Empire (as opposed to using it constructively to advance the cause of Urizen or the Empire). Some Provosts made healthy profits from their post, researching rituals that the Dean of the Lyceum had refused to develop or trading the rituals they formulate for political or monetary gain. Most preferred to focus their researches to the benefit of Urizen or the Empire, aware that they hold their position at the discretion of the magicians of their nation.
+
+Not all the magicians of the Halls of Knowledge lived within its walls; many remained in their home spires and correspond by letter or (rarely) through short messages sent via the Heliopticon. Unlike the Lyceum, there were few magicians associated with the Halls who were not Urizen, and those who were would invariably be practitioners of Day magic. Still, it was common for magicians from all corners of the Empire to spend some time studying at the Halls, and to offer their services to whatever research is underway there. It was also common for the best Civil Service prognosticators to study at the Halls of Knowledge, and a proportion of all mana paid to the spire for its services was used directly for the casting of divinations useful to the Empire
+
+Needless to say, the Halls of Knowledge had a great deal of interest in the identity of the [[Archmage]] of Day is; the Provost was often encouraged to try and ensure that the holder of that title is well disposed towards Urizen, when they were not from the mountains themselves.
+
+==Powers==
+The Provost of the Halls of Knowledge had the ability to direct the research of the magicians who live at the spire; with the destruction of the [[college of magic]] these powers were lost.
+<!--
+===Guidance===
+Ritual magicians from across Urizen come to study, debate, discuss and pursue arcane mastery at the Halls of Knowledge, and meet with their peers from across the Empire. In return for maintaining a good standard of living, and access to the researches of previous generations, these magicians are expected to perform ritual research and study for the betterment of the nation and the Empire as a whole. The Provost is responsible for setting the direction that research takes.
+
+The Provost can direct research towards [[Formulaic ritual|formalizing]] a new ritual so that it can be mastered. The ritual must already exist in the form of an ''[[Spontaneous_magic#Arcane_Projection|arcane projection]]'', but there is no requirement to select one they have personally commissioned. It is important to note that [[Formulaic_ritual#Creating_a_New_Formulaic_Ritual|creating a new formulaic ritual]] is an art not a precise science - the final ritual may differ from the spontaneous magic described in the arcane projection. The Halls of Knowledge can work on formalising one ritual at a time, and the research may take anywhere from a season to several years depending on the complexity and the resources available. The amount of time it takes to complete research into a ritual depends on the magnitude of that ritual.
+
+It requires three months (one season) for every 10 ranks of magnitude the final ritual will have.
+
+At the completion of the research, the Provost receives a copy of the ritual suitable to use in mastering it. The Provost may keep the knowledge of the ritual restricted to themselves and their allies, or convince the [[Conclave]] to make it part of [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]] through a [[Imperial lore|declaration of Imperial lore]].
+
+If research is not completed, the Halls of Knowledge keep notes on their work so far, and may resume it at a later date from where it was left off.
+
+'''OOC Note:''' The Provost selects the [[Spontaneous_magic#Arcane_Projection|arcane projection]] they wish to [[Formulaic_ritual|formulate]] by e-mail to Profound Decisions (empire.rules@profounddecisions.co.uk) prior to the next event. The final magnitude of the ritual text is not guaranteed to be the same as that of the arcane projection.
+
+===Mastery of the Lore of Day===
+The Halls of Knowledge lack the resources available to the Lyceum, but they excel at the study of the magic of Day. When the Provost directs research towards a project that is part of the lore of Day, the work proceeds at the rate of 15 ranks of magnitude each season. 
+
+The Provost can increase the rate at which a ritual of the lore of Day is researched by spending money to purchase rare materials, esoteric tomes and exceptional equipment.
+
+The first five ranks of additional research in a season cost 2 Thrones. The next five ranks cost a further 5 Thrones. The next five ranks cost a further 10 Thrones, and so on doubling the price for each additional five ranks of research within the same season.
+
+===The Provost's Apartment===
+The Provost has spacious apartments at the pinnacle of the Halls of Knowledge; in some circles it is reckoned that the Provost lives at the highest point in the Empire, with the clearest view of the night sky. The great circular chambers have windows of shaped crystal that are said to allow the Provost to gaze over great distances without the use of ritual magic.
+-->
+==Appointment==
+This title was appointed during the Winter Solstice. The Provost of the Halls of Knowledge was appointed by Urizen citizens who controlled [[mana site]] [[Resource|personal resources]]. The larger the mana site an individual had, the more votes they could allocate in support of a candidate. The voting was handled by the civil servants in the Bourse. 
+
+Only an Urizen citizen could hold the title. They did not receive a seat on the Bourse. As a title appointed through the Bourse they could not be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Provost_of_the_Halls_of_Knowledge}}
+[[Category:Title]]
+[[Category:Urizen]]
+[[Category:Bourse]]

@@ -1,0 +1,51 @@
+__NOTOC__
+==Overview==
+* Imperial treasury during this season announced by the Civil Service at 1304 thrones and 4 crowns.
+* The following has been donated to the Imperial treasury: None.
+==Motions==
+===Passed===
+These motions are still being [[scrutiny|scrutinised]] by the constitutional scholars, and additional information may be added to them.
+* '''[[Disburse_funds_to_Mr_Tyke|Disburse funds to Mr Tyke]]'''
+* '''[[Disburse funds for The Towerjacks|Disburse funds for the Towerjacks]]'''
+* '''[[Disburse_additional_funds_for_Dawnish_Army|Disburse funds for Dawnish Army]]'''
+* '''[[Expand_the_Regario_Dossier|Expand Regario Dossier]]'''
+* '''[[Outlaw_Asavean_bourse_material_trade|Outlaw bourse material trade with Asavean Archipelago]]'''
+* '''[[Invite Grendel delegation]]'''
+* '''[[Disburse funds for resupply]]'''
+* '''[[Disburse funds for Commonwealth Embassy]]''' 
+* '''[[Construct the Hearth of the Tempest]]'''
+* '''[[Appoint Jarmish ambassador]]'''
+* '''[[Appoint General of the Wolves of War]]'''
+* '''[[Appoint Faraden ambassador]]'''
+* '''[[Appoint Quartermaster General]]'''
+* '''[[Appoint Sumaah ambassador]]'''
+* '''[[Appoint a Captain of the Senate Guard]]'''
+* '''[[Appoint Throne IV|Appoint Throne]]'''
+* '''[[Rebuild the roads of Karsk]]'''
+* '''[[Raise Varushkan army]]'''
+* '''[[Change the level of the Guerdon]]'''
+* '''[[Construct Reckoners Reward]]''' <label type="important">Info needed</label>
+* '''[[Issue an apology to Jarm]]'''
+* '''[[Create title of Arcane Architect]]'''
+* '''[[Create title of Imperial Seer]]'''
+* '''[[Assign Skarsind]]'''
+* '''[[Provide aid to the Hierro Clan]]'''
+
+===Defeated===
+* '''[[Amend powers of Warmage]]'''
+
+==Announcements==
+* '''[[379YE Autumn Equinox Announcements by the Quartermaster General|Announcements by the Quartermaster General]]
+* '''[[379YE Autumn Equinox Announcements by the Minister for Historical Research|Announcements by the Minister for Historical Research]]
+* '''[[379YE Autumn Equinox Announcements by the Dredgemaster of Feverwater|Announcements by the Dredgemaster of Feverwater]]'''
+* There were no announcements by the [[Crystal Architect of the Spires]]
+* There were no annoucements by [[Advisor on the Vallorn]]
+* There were no announcements by the [[Imperial Master of Works]]; the title has lapsed
+
+==Administrative Motions Arising==
+* The civil service ''may'' raise an [[Senate_motion#Administrative_Motions|administrative motion]] to confirm the details of the title [[Curator of the Printers' Guild Museum]] once they have been made compatible with the Constitution.
+* The civil service ''may'' raise an [[Senate_motion#Administrative_Motions|administrative motion]] to confirm the location of the proposed [[Construct_Sumaah_embassy_II|Sumaah embassy]] if the senator who raised the motion cannot do so.
+ 
+[[Category:Senate]]
+[[Category:Senate Sessions]]
+[[Category:379YE Autumn]]

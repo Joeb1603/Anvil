@@ -1,0 +1,201 @@
+[[Category:Winds of Fortune]][[Category:387YE Spring]][[Category:Recent History]]
+<ic>Metella shifted her quill and ink to the side of her desk, as she mentally rifled though her thoughts for the umpteenth time. The parchment in front of her had been sat here on the desk for three days now, despite which it remained stubbornly blank.
+
+"I don't know why you're bothering Metella, you're retired remember?" 
+
+That had been yesterday's interruption. Ancius, one of her spiremates at the Hollows, always liked to help with writers block. An hour long debate had followed, in which Metella had explained three times how the foundational principle of good law was that it was readily understandable. To which Ancius' only counter was to say "But you're not a magistrate any more, so why does it matter?" as if ''that'' had anything to do with anything. Sometimes the former sword scholar could be so exasperating.
+
+Still, he had a point. She'd been having these arguments with her colleagues for years. A career as a rather successful magistrate, if she did say it herself, prosecuting religious crimes. In twenty years her one notable defeat had been the failure to persuade the other magistrates that there was as many shortcomings in religious law as there were in the people breaking them.
+
+"It matters, because people must ''know'' if they are breaking the law. They must know if the law has been broken. It can't be a matter for debate!" she had responded. Ancius didn't much care for the law, but he never turned down an opportunity for an argument.
+
+People were fond of saying that ignorance was no defence in law - altogether too fond in Metella's opinion. Nobody should ever tolerate ignorance as far as she was concerned. Blaming the student was the easy answer. To banish ignorance is first and foremost the responsibility of the teacher.
+
+Hmmm... now that was not a bad line. Not... teacher... but...
+
+Metella smiled to herself for the first time in days as she picked up her quill, dipped it in the well and put the nib to the paper.
+
+"To banish ignorance is - first and foremost - the responsibility of the writer. The law must elucidate! Clear wording can bring the light of understanding to illuminate the lives of everyone who reads it."
+
+A little poetic perhaps, but it was a strong start. Her pen began to race across the parchment as the words flew out of her. It had been a few years now since she'd last written to Karkovich; perhaps his views had mellowed in that time.
+
+And if not... well the only real defeat is the one in your own mind, as Ancius liked to say.
+</ic>
+{{CaptionedImage|file=CardWisdom.jpg|width=250|caption=Silas of the Cenotaph, Cardinal of Wisdom|align=left}}
+==Overview==
+At the Autumn Equinox 386YE, four citizens publicly swore an oath to bear an [[aura]] of [[Malign spiritual presences#Peace|Peace]] for the coming year. Three of the citizens were [[cardinal|cardinals]] of the [[Synod]], and the fourth was acting as [[proxy]] to the [[Cardinal of Prosperity]]. In the history of the Empire, there has never been a successful [[judgement]] of condemnation against a member of the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]] elected by the Virtue assemblies. Despite this, all four were quickly [[Sanction#Condemnation|condemned]] as [[Religious_crime#Heresy|heretics]] and [[Religious_crime#Blasphemy|blasphemers]] by the [[Assembly#The_Virtue_Assemblies|Assembly]] of [[Vigilance]] and a trial was scheduled to happen at the subsequent summit.
+
+While preparations were made for the trial of the four, the Synod passed several judgements, all of which related to the trial, the underlying issues and the conduct of those involved. Several judgements passed by various assemblies decried the accusations of blasphemy and heresy, and called for a much narrower definition of the crime than is typically understood. The civil service had issued some guidance to the [[Synod]] on how the General Assembly might use a [[judgement]] of [[Sanction#Vindication|vindication]] to clear the accused, but every judgement stopped short of that - and it was clear that many priests were unhappy with the actions of those involved.
+
+The trial itself collapsed in dramatic fashion following a [[statement of principle]], the now infamous ''[[386YE_Winter_Solstice_Synod_judgements#Judgement_42|Judgement 42]] of the General Assembly'', that laid out new guidelines on how religious crimes should be judged. The judgement made it impossible for the magistrates to continue with the proceedings, and they ruled that if any trial was to take place then it would be necessary for a new judgement of condemnation to be raised.
+
+Imperial law is surprisingly ambiguous on what actually constitutes blasphemy and heresy. In the years immediately following the death of Empress Britta, the Synod generally adopted a punitive approach, condemning anyone who was dedicated to a false virtue. In situations where auras of false virtues arose spontaneously on items, they were routinely gathered up and destroyed. But in the last few years there has been a less dogmatic approach with a [[386YE_Summer_Solstice_Synod_judgements#Judgement_179|Highborn general, '''Achseh of the Sentinels Tower''', being absolved]] after they were found to be dedicated to the false virtue of Hate.
+
+Now the actions of these four members of the Assembly of Nine have cut the Synod in two.
+
+==Four Judgements==
+* '''Judgements were passed that decried the use of condemnation against those involved'''
+
+At the last summit, the Imperial Synod passed a number of judgements that decried the condemnations in strong terms. The judgements referred to the definitions of the religious crimes of heresy and blasphemy laid out in Imperial law. These definitions are surprisingly ambiguous and do appear to leave considerable room for subjective interpretation.
+
+<quote by="Imperial Law">The crime of blasphemy is defined as: ''The denigration of the paragons and the paths of virtue. This includes promoting false virtues and the teachings of false exemplars or false paragons.''</quote>
+
+<quote by="Imperial Law">The crime of heresy is defined as: ''The wilful rejection, or perversion of, the orthodox Doctrines of the Faith as laid down by the Imperial Synod, or actively teaching and promoting false doctrines.''</quote>
+
+A number of [[judgement|judgements]], including one passed by the General Assembly were explicit that the actions of the four did not meet these definitions. In some cases the very notion that anyone should be condemned for these actions was itself denounced.
+
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 10px;">
+{{SOPInner|statement=Condemning the study of false virtues undermines the foundation of the Way. Ours is a practice of investigation and learning, not of blind dogma. If such study is found unbecoming of Cardinals then let them be revoked, <u>NOT</u> condemned.|when=Winter Solstice 386YE|by=Brynn Tendfallen, Navarr Assembly|vote=176-10}}
+
+{{SOPInner|size=small|statement=Penance: Following inquisition I do not hold that the actions of INISKA ASHWOOD rise to the crimes of Blasphemy or Heresy. That their acceptance of the Hallowed Aura of the False Virtue of Peace was motivated not by an intent to denigrate the Way, but a Wise desire for deeper understanding of the formation of the Way and a Loyal push to improve the Empire. The failing was in not making those Virtuous Reasons clear as such I task Iniska to create and distribute a clear and in-depth publication outlining their reasoning for taking the Aura and an idea of what they have and could learn.|vote=94-46|by=Maximillian, Assembly of the Way|when=Winter Solstice 386YE}}
+
+{{SOPInner|statement=Auras are tools of teaching and inspiration. It is blasphemy to teach false virtue. It is <u>not</u> blasphemy to be taught false virtue. We should condemn the fools so dedicated to lesser qualities that they create auras of malign inspiration. Those who come under their influence should be granted opportunity to turn back to virtue. <u>Condemn</u> the dedicated teachers.|when=Winter Solstice 386YE|by=Ilai, General Assembly|vote=656-308}}
+
+{{SOPInner|statement=To declare the act of agreeing to experience and study an aura for a year, without the intent or expectation to promote it, as blasphemy or heresy is an attack on the nature of the Way. It declares knowledge complete, defangs the counsel of doctrinal reform, and makes investigative theology illegal.|when=Winter Solstice 386YE|by=Caoimhe Tendfallen, Assembly of the Way|vote=120-36}}
+</div>
+
+A number of priests beyond [[Anvil]] have disagreed with these judgements. '''Brynn Tendfallen''' claims that condemning the study of false virtues undermines the Way, but the four weren't condemned for studying false virtues - they were condemning for embracing [[Malign spiritual presences#Peace|Peace]]. It seems to be true that the purpose of embracing the virtue of Peace was to study it - but that defence assumes that the purpose of the action is all that matters in determining whether it is a crime or not (which Imperial law makes clear is not the case).
+
+Likewise '''Maximillian''' found Iniska Ashwood not guilty of the charges of blasphemy and heresy on the grounds that it was not their intent to commit either crime. But Imperial law lays out an explicit framework for dealing with [[intent]] in a trial; an action is still a crime if it breaks the law, even if that was not the actors intent.
+
+'''Ilai's''' judgement states that it is blasphemy to teach the false virtues, and that it is ''not'' blasphemy to ''be taught'' a false virtue. But there is no evidence that the four were condemned for teaching false virtues or for being taught them. The definition of blasphemy also includes the promotion of false virtues. '''Caoimhe Tendfallen''' states emphatically that there was no intention to promote the false virtues, and thus far nobody has suggested that such promotion was the ''intention'' of those accused. 
+
+But the promotion of false virtues may well have been the motivation of the [[Axos|Axou]] priests when they responded to the request to provide the hallows. If they wanted to spread acceptance of Peace in the Empire, what better way to do that than to ask the Assembly of Nine to embrace the auras? Are the four responsible for the promotion of Peace in the Empire if that outcome is the direct result of their decision to swear an oath to bear auras of the false virtue?
+
+==Condemnation and Penance==
+* '''Judgements were also passed that agreed with the condemnation and instructed penance for one of those involved'''
+
+The General Assembly also passed a judgement that appeared to confirm that the original condemnation of at least one of the four, '''Viviane Barossa de Coeurdefer''', Cardinal of Ambition, was appropriate. The judgement did not get a [[greater majority]], but it might have done, had the Cardinal not resigned before it closed.
+
+{{SOP|statement=Penance: Viviane Barossa de Coeurdefer, Cardinal of Ambition, willingly and knowingly took upon herself a hallowed object of the false virtue of "understanding" (also known as peace). They refuse to set this aside for a year. A cardinal is an example of Virtue to, and for, the Empire, and as such Viviane has shown themself to set a dangerous example, that we should condemn and revoke.|vote=812-288|by=Callista of the Dark Shard, General Assembly|when=Winter Solstice 386YE}}
+But like the previous arguments, some priests beyond Anvil have found cause to disagree with this judgement. Nobody is disputing that the four took upon themselves hallowed objects of Peace and refused to set them aside for a year. But it is arguable whether that meets the legal definition of blasphemy or heresy.
+
+Crucially the judgement then goes on to suggest that the Cardinal has set a dangerous example, with the implicit suggestion that this action is wrong because they are a Cardinal. However the Imperial constitution states that Imperial law must be applied ''without prejudice or favour regardless of wealth, nationality or title''.
+
+That is normally understood to mean that nobody is above the law regardless of their title, but it implies that the fact that three of the four were Cardinals should have no influence one way or the other on the application of Imperial law. A Cardinal should not be exempt from the law, but nor can they be held to a higher standard by it. It is the responsibility of the Synod to revoke those who set a dangerous example, but ''being a dangerous example to others is not illegal''.
+
+What is very clear to across the Empire is that there are legitimate arguments that can be made for and against the condemnation. The ambiguity in the law has led to a situation in which the lives of the four might hang in the balance, yet it is not clear if their actions constitute religious crimes or not. What actually constitutes "promotion" of the false virtues? Is it denigrating the true Virtues to openly carry a item hallowed to Peace?
+
+This controversy has raised a plethora of questions, but three are now pressing.
+
+==Questions for the Synod==
+* '''People beyond Anvil are demanding answers from the Synod on the way to respond to false virtues'''
+
+The Imperial Synod has upheld a number of statements and judgements related to the four, but they have in some cases been contradictory and simply helped increase the confusion felt by the virtuous folk of the Empire. This confusion risks causing citizens to question the moral authority of the Synod, coming as it does on the heels of the still-largely-unresolved [[True faith|Vardas Crisis]]. There was an opportunity to vindicate, or further condemn, the four but that was not entirely achieved but only one of the four remains a member of the Assembly of Nine.
+{{CaptionedImage|file=Assembly_Vigilance.png|align=right|width=200}}
+As such, the discourse beyond Anvil is currently focussed elsewhere. Rather than concern themselves with the rights and wrongs of individuals, it is matters of Virtue, false and true, that people are demanding answers on. Sadly, it has escalated to the point that the only body that can bring clarity to the faithful of the Empire is a clear mandate from the General Assembly.
+
+There are, as a result of the statements and other judgements over the last six months or so, two mandates on the table.
+===Be Alert To All Dangers===
+* '''The General Assembly can enact a mandate urging citizens to reject false virtues'''
+
+There are clearly priests at Anvil who believe that the [[malign spiritual presences|malign spiritual presence]] of [[Malign spiritual presences#Peace|Peace]] is a threat to the Empire and the Imperial Synod. [[The_Doctrines_of_the_Faith#The_Doctrine_of_Seven|Doctrine]] says "''There are seven Virtues that guide the spirit through the Labyrinth of Ages. These are Ambition, Courage, Loyalty, Pride, Prosperity, Vigilance and Wisdom. Other qualities may benefit humanity, but lend no aid through the passage of death to rebirth, and some may hinder it.''" There have been discussions about what a "quality that may benefit humanity" might be, and what a quality that may hinder its passage from death to rebirth might looks like. Generally, the "malign spiritual presences" - Peace, Vengeance, Hatred and the rest, as held to be dangerous to the soul and its quest for rebirth. Or, presumably, its passage across the Howling Abyss.
+
+The four have been roundly condemned by the Vigilance assembly. Other priests have directly questioned the decision to partake of auras of peace.
+
+{{Mandate|mandate=The malign spiritual presences are a direct threat to the Empire. We send (named priest) with 75 doses of liao to warn the virtuous folk of the Empire that their vigilance must continue. For nearly four hundred years we have kept these dangerous forces at bay and we must not drop our guard now.|assembly=General Assembly}}
+
+If this mandate is enacted, it will resolve this issue of peaceful hallows, and align the General Assembly with the Vigilance assembly. It will make it clear that there are Seven Virtues, and that the malign spiritual presences are so-called because they are dangerous to the Empire and hinder the quest for [[The_Doctrines_of_the_Faith#The_Doctrine_of_Enlightenment|enlightenment]].
+
+The Virtuous will be vigilant against the teachings or influence of Peace, Hatred, Vengeance, Anarchy, Hope, and Fear. They will recognise spiritual powers other than the Seven Virtues as dangerous and malign and act appropriately - bringing them to the attention of their priests or taking action themselves where appropriate. Existing cults dedicated to so-called "false virtues" will continue to keep a low-profile trying to avoid drawing attention to themselves as they have been since the [[Splitting the pot|destruction of Whittle]].
+
+It will still be possible to learn more about these malign spiritual presences, but it will involve directing the [[Historical research#Department of Historical Research|Department of Historical Research]] or the [[Silent Bell]] to do so, and be based on the understanding that these powers are dangerous. There will also, unfortunately, likely be further questions about why Silas remains Cardinal of Wisdom and what that means for the Assembly of Nine and the Wisdom Assembly.
+
+It will also send a message to the magistrates involved in the rework of religious law, making it clear that the Synod considers these powers to be blasphemous and heretical, and encourage them to make decisions appropriately. This may make it untenable for anyone to bear a hallow of Peace - meaning that the hallowed items will need to be seized and destroyed by the militia.
+{{CaptionedImage|file=Assembly_Wisdom.png|align=right|width=200}}
+
+===Find the Right Question===
+* '''The General Assembly can enact a mandate urging citizens to learn more about false virtues'''
+
+The one remaining member of the four who still holds the title of Cardinal, '''Silas of the Cenotaph''', has been very clear that they believe in the necessity of exploring spiritual presences other than the familiar seven virtues. That without this kind of exploration [[the Way]] cannot learn and grow. Their supporters, in both the [[Wisdom]] Assembly and the Assembly of Nine, continue to endorse the decision made. Indeed the only relevant judgement to achieve a [[greater majority]] of an assembly in this matter appears to be that raised by the Assembly of Nine - although there, also, it seems that two of those eligible to vote did not support the judgement.
+
+The General Assembly can choose to endorse and support this stance - that the virtuous should explore the so-called false virtues.
+
+{{Mandate|mandate=Wisdom knows all knowledge is incomplete. We cannot take hearsay at face value, but must explore the nature of these unfamiliar spiritual powers so we can better understand them. We send (named priest) with 75 doses of liao to urge the virtuous not to be afraid of increasing their understanding.|assembly=General Assembly}}
+
+If this mandate is enacted, it will resolve this issue of the peaceful hallows, and align the General Assembly with the Wisdom Assembly on the need to explore spiritual powers other than the Seven Virtues. The Virtuous will be open to the idea that Peace, Hatred, Vengeance, Anarchy, Hope, and Fear might be forces that benefit humanity, or even in theory be equal in importance to the accepted Seven Virtues.
+
+Over the next year there will be further opportunities for priests of the Synod to experience and explore false virtues, to increase their understanding by personally engaging with them. It will, however, also make it clear to the virtuous of the Empire that it is acceptable for them to explore these powers. Since the destruction of Whittle, those secretly dedicated to Hatred, Anarchy, Vengeance and Peace in particular have been keeping their heads down, trying to avoid drawing attention to themselves. This mandate will encourage some of these pre-existing hidden sects dedicated to these so-called "false virtues" to become more bold. 
+
+The mandate will also send a message to the magistrates, even before the full review of religious law. They will take the view that it is clearly not blasphemy or heresy to bear items hallowed with false auras, nor to be dedicated to other powers or bear their auras. There will be no further attempt to separate the four from their hallowed items.
+
+<div style="float:right; width: 500px; clear: left;"><box>'''<big>Peace and its Cousins</big>'''<br>While this crisis has developed as a result of items hallowed to "Peace", the controversy surrounding it has widened to include other malign spiritual presences as well. If it is appropriate to experience Peace, then it is surely appropriate to experience Hatred or Vengeance? If it is blasphemy to bear a hallow of Peace, then surely it is also blasphemy to bear a hallow of Hope or Anarchy? Neither of these mandates prevent the Synod potentially exploring a more granular approach in the future, perhaps even a change of doctrine relating to the malign spiritual presences. For now, however, they make it clear one way or another what the Synod believes, generally, about so-called "false virtues".</box></div>
+
+===Competition and Unity===
+* '''These mandates are in competition with each other'''
+* '''If a mandate is not upheld with a greater majority, it will not affect Urizen or Varushka'''
+
+[[Varushka]], [[Urizen]], and now potentially [[Wintermark]] all take issue with [[mandate|mandates]] enacted by the General Assembly that do not achieve a greater majority. If one of these mandates is upheld and enacted without that majority, it will have no impact in those nations critical of such things. This risks causing further disruption, as the majority of the Empire's virtuous citizens follow the guidance of the Synod but those other nations continue to argue, their concerns in no way mollified. It's not possible to predict what form this might take, but it will certainly mean more disruption for the Synod.
+
+As such the [[Tribune of the Synod]] has advised that if one of these mandates is raised, it might be prudent for the Cardinal of Vigilance or the Cardinal of Wisdom (as appropriate) to request that [[Cardinal#Further_Scrutiny|further scrutiny]] be applied, ensuring as many Synod members as possible have time to discuss and make their opinions known. If both mandates are raised and upheld, the Tribune notes that as with all competing mandates it is the one with the greater margin that will be enacted - meaning that it is just as important for priests to vote against a mandate they do not support as it is to vote in favour of one they do support.
+
+===No Clear Decision===
+* '''The Imperial Synod may choose to uphold or enact neither mandate'''
+* '''This will cause the situation to continue to escalate'''
+It is possible the General Assembly will not choose to uphold or enact either of these mandates during the Spring Equinox. In that case, the situation will continue to develop unpredictably. The likely outcome will be that there will be no opportunities to learn more about the malign spiritual presences, but that some of those who follow them in secret will still feel empowered to take advantage of the confusion to begin recruiting or putting their dangerous schemes into operation. Nothing will be resolved, and this particular crisis, along with the already existing crisis created by the [[Life of Vardas]] will continue.
+
+===Complex Questions===
+* '''The faithful of the Empire are eager to read any Statements of Principle on this subject that pass their virtue assembly with a greater majority'''
+Regardless of what the General Assembly chooses to do, the virtuous pilgrims of the Empire are watching their own assemblies with interest. Several - both national and virtuous - have spoken out one way or another, but those statements have tended not to achieve greater majorities. Following the Spring Equinox there cannot help but be additional scrutiny by both priests and [[congregation|congregations]] of any statement of principle that discussed malign spiritual presences - provided it gets a greater majority and thus receives widespread attention. The virtuous are very keen to hear from their assemblies, one way or another.
+
+==Questions for Wintermark==
+* '''The Wintermark Assembly can use a mandate to urge members of the nation to ignore the words of priests from outside the nation'''
+{{SOP|by=Ingrid Talon-of-the-Mark, Wintermark Assembly|when=Winter Solstice 386YE|statement=The Assembly of Nine have dabbled with malign spiritual forces in an irresponsible way. The General Assembly continues to act with reckless disregard for the finite resources in of the Empire. While this chaos continues we, your stormcrows, urge the people of Wintermark to heed the guidance of the National Assembly over the poor example set by the rest of the Synod.|vote=Greater Majority (180-34)}}
+
+The [[Wintermark]] Assembly has openly criticised the decisions of the Assembly of Nine to dabble with malign spiritual forces. They passed a judgement, with a greater majority, calling them irresponsible and criticising the decisions of the General Assembly to act with reckless disregard for the Empire's wellbeing. The judgement concluded with a collective plea from the [[Stormcrow|Stormcrows]] at Anvil for the people of Wintermark to turn their backs on the other assemblies.
+
+A dramatic and controversial statement like this is bound to cause a reaction. By itself, such a plea might not be enough to convince people that they should stop listening to the Synod. In light of the controversy surrounding the decisions taken by members of the Assembly of Nine, people are open to the idea that the rest of the Synod can no longer be trusted. If the Wintermark Assembly are serious about their statement they could use a mandate to encourage people to do as they have suggested.
+
+{{Mandate|mandate=Despise folly and chastise the fool that spreads it. We send {named priest} with 50 doses of liao to encourage Wintermark citizens to heed the guidance of the stormcrows and ignore the judgements of other assemblies. Cold cannot compromise.|assembly=Wintermark Assembly}}
+
+If this mandate is enacted, then it will encourage people in Wintermark to treat the words of the Synod with suspicion. They will judge harshly any statement of principle passed or mandate enacted, aware of the corruption in the Assembly of Nine at the heart of the Synod.
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=Assembly_Wintermark.png|width=3200px|align=right}}</div>
+If that happens, then any mandate that does not pass with a [[greater majority]] will have limited or no effect on Wintermark, unless that mandate were passed by the Wintermark Assembly itself. No amount of [[liao]] will persuade the people of the 'Mark to listen to the mandate unless the Synod is able to speak with the resounding clarity produced by a greater majority.
+
+Such a decision is not to be taken lightly, for it would not be easy to reverse. It would need more than just a compelling statement of principle in the Wintermark Assembly to convince the people of the Mark to regain their trust in the Synod. It would have to be accompanied by clear evidence that the Assembly of Nine are no longer dealing with malign spiritual auras and the General Assembly are making more responsible decisions.
+
+==Questions for the Magistrates==
+* '''The judgements passed by the Synod made it impossible for magistrates to determine the basis on which the trial should take place'''
+* '''The Constitutional Court plan to update Imperial doctrine to make it easier for the Synod to make clear what constitutes a religious crime'''
+* '''The Court have asked the Imperial Senate not to amend Imperial law on religious crimes until they have had time to publish new guidance for the magistrates'''
+* '''Until that happens, the magistrates will assume that a judgement of condemnation meets the definition of a religious crime unless it is overwhelmingly clear that it does not'''
+* '''Any judgements of condemnation raised by the Synod will be tried on this basis'''
+{{SOP|statement=Accurate information on false virtues has benefited us militarily and diplomatically as well as making it easier to oppose cultists within the Empire. Engagement with false virtue auras alone should not be prosecuted as a religious crime where the following are true:
+<p>
+# The action was motivated by true virtue. 
+# The action was taken in full view of the synod. 
+# The false virtue was intended to be removed in reasonable time.
+# There was no preaching against doctrine. 
+# There was no intent to denigrate a true virtue, exemplar, or paragon.
+</p>|by=Tarquinius Ankarien|vote=814-166|when=Winter Solstice 386YE}}
+According to legal doctrine, it is for the [[Imperial_law#Magistrates_and_trials|magistrates]] to decide whether someone's actions meet the definitions of a religious crime or not. In ''practice'' it has been customary for a magistrate to place great weight on the deliberations on the Imperial Synod. Magistrates aim to ensure there is no miscarriage of justice taking place, to satisfy themselves that a condemnation is not vexatious or simply wrong on the facts of what occurred. But most magistrates assume they do not need to make an assessment of whether or not the actions constitute heresy or blasphemy - taking the view that that assessment has ''already been made'' by the Imperial Synod when they passed their judgement.
+
+It is not explicit whether the judgement submitted by '''Tarquinius Ankarien''' and passed by the General Assembly contains conditions by which the Synod might judge whether an action constitutes heresy or blasphemy or whether it was intended to be used by the magistrate conducting the trial. The judgement passed shortly before the trial began, causing a hasty convention of senior magistrates outside the trial room.
+
+The magistrate in charge of the trial, '''Cosme i Zuhri i Guerra''', took the view that the Synod intended them to follow the guidance in the judgement. As legal doctrine gives the magistrate the right to determine how they conduct a trial, the magistrate indicated that they intended to do so in accordance with the judgement. After a short but fractious conference with '''Abraham''' and '''Karkovich''', Cosme announced the trial would proceed on the basis laid out in the judgement, but would be delayed until the next day to allow the priests who raised the original judgements time to reframe their prosecution. However, after subsequent discussion the [[Scrutiny#Constitutional Court|Constitutional Court]] announced that the implications of the judgement were so far-reaching that it was not possible to continue with the trial. 
+
+If magistrates are to use a set of criteria to assess if actions constitute a religious crime then it is not entirely clear what the purpose of a [[Condemnation|Judgement of Condemnation]] is. Crucially, the fact that the judgement passed raises serious questions about the basis used by the Vigilance Assembly when they raised the original judgements of condemnation. Did the Vigilance Assembly intend the magistrates to assess whether the actions of the four met the legal definition of heresy and blasphemy or had they already concluded that that bar had been met? In the view of the Constitutional Court it was impossible for the trial to proceed without absolute clarity from the Synod on what basis such a trial should be conducted.
+
+Since the summit concluded, the Constitutional Court have spent considerable time assessing the impact of judgement 42, along with the other judgements passed by the Imperial Synod. While it is theoretically possible for a magistrate to make the assessment, the view of the Court is that to do so would fundamentally impinge on the constitutionally appointed role of the Synod. The relevant sections of the [[Imperial Constitution]] state that ''"The Synod will ensure the behaviour of individual citizens does not debase the Empire."'' This role is so fundamental to the purpose of the Synod that after lengthy consideration, the Constitutional Court believe there are major constitutional hurdles in any attempt to shift this responsibility to the magistrates.
+
+The view of the Constitutional Court is that Tarquinius' judgement has exposed fundamental shortcomings in the way [[Imperial law]] is applied by the magistrates, by highlighting the distinction between Imperial doctrine and practice. The basis for Imperial law is that the law should lay out what practices are proscribed and what are not - and then magistrates should determine whether those rules have been broken. The fact that the Synod has felt the need to issue additional guidance - whether that was intended for the Synod or the magistrates - coupled with the fact that different assemblies have taken strikingly different views on the matter in question raises fundamental issues of justice. If the magistrates can't determine if someone is guilty of blasphemy or heresy, if the Synod can't agree what constitutes a religious crime, how can any citizen be expected to observe the law?
+
+As a result, the Court has resolved to update Imperial legal doctrine at the earliest opportunity. Imperial law states that heresy and blasphemy are illegal, and the constitution dictates that Synod should determine what constitutes a religious crime. But how that determination is made, and how the decisions are communicated to the magistrates, can be amended. The Court are going to study the historical records, going back as far as [[Empress Teleri]], to see if there is a better alternative that they can adopt.
+<div style="float: right; margin-left: 10px; max-width: 500px; width: 50%;">
+<box>
+===Design Notes===
+<p>The extraordinary events of the last summit has exposed some of the shortcomings of this part of the game so we plan to update the published rules for religious crimes in the Empire. We want to give the Synod much better tools to preserve the integrity of the Way and to determine what actions constitute religious crimes. This is likely to take some time, as we would rather get it right, than rush it, but we'll try to get it done as quickly as we can. The current system remains in place until the rules are updated - on the basis laid out in this section.</p>
+
+<p>We are going to redesign this part of the game to make it work better. Players are welcome to send feedback at any time, but please don't attempt to change this part of the game in-character using the Senate. Once we've completed a review and made any changes, the Senate will be free to change religious laws as usual.</box>
+</div>
+Such a review will take time. Until that happens, they ask the Imperial Senate not to make any changes to Imperial law on the matter of religious crimes, lest that make the job more difficult. In the meantime, the Court has confirmed that the correct legal procedure is for the Synod to determine to the best of its ability an individual has committed a religious crime. If that happens, then they can use a judgement of condemnation to condemn them and a magistrate will then conduct the trial, based on the assumption that the Synod has correctly determined that the actions constitute a religious crime.
+
+This means that the role of the magistrate is limited to ensuring that no miscarriage of justice is being enacted. The prosecution must still meet basic evidential standards - they must present reasoning that shows why the actions the suspects are accused of are broadly compatible with the legal definition of blasphemy or heresy. Provided they meet that very basic standard, the magistrate will ''not'' try to assess whether actions constitute a religious crime or not - because that determination has already been made by the Synod. They will restrict their judgement to assessing whether or not the individual committed the actions they are accused of.
+
+If an assembly determines that one or more or the four has committed a religious crime, then they can pass a new judgement condemning them. If that happens then a magistrate will conduct the trial with the view that an assessment of the actions in question have already taken place and that the Synod has determined that they constitute a religious crime.
+
+As per [[A_little_understanding#The_Synod_Judges|the guidance issued previously]], the ''only'' way that the Synod could influence or prevent the ensuing trial would be if the General Assembly passed a judgement of ''vindication''. If that was worded appropriately, then it would override any previous judgement of condemnation by the Synod.
+
+==Further Reading==
+* [[A little understanding]] - 386YE Winter wind of fortune discussing the initial repercussions of the peaceful decision
+* [[Malign spiritual presences]]

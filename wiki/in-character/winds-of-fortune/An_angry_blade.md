@@ -1,0 +1,185 @@
+---
+title: An angry blade
+source: https://www.profounddecisions.co.uk/empire-wiki/An_angry_blade
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 386YE Spring
+- Recent History
+- Appraisal
+event: 386YE Spring
+last_edited: '2026-10-19T15:16:27Z'
+revision: 146316
+in_character_boxes: 3
+---
+
+# An angry blade
+
+> *In-character text:*
+>
+> Graciana watched the corsairs as they moved swiftly round the vessel, quickly and skilfully furling the main sail as the Red Dawn glided towards the jetty. It was a dangerous manoeuvre, especially at the speed the vessel was moving. Safer to come in slower and safer by far to have a pilot vessel bring the ship in. Slower meant less risky, but also less exhilarating... And, if you needed to reach a hostile quayside quickly then slower could also mean dead. The corsair families practiced these skills for a reason, you never knew when you might need them.
+>
+> In a matter of moments, there were a dozen Freeborn soldiers swarming onto the dock, hauling on the thick hawsers to help guide the vessel into its berth. The rest of the crew didn't wait for them to tie off, throwing out the gangplanks as soon as the dock was close enough to reach. It was an impressive and elegant feat of coordination and skill, and just what Graciana had been hoping to see.
+>
+> She fought the urge to push forwards, to walk up the gangplank, to feel the deck beneath her feet. Ten years on land now, had done nothing to diminish her love of the sea. But this was not her ship, that was long gone. If she wanted to make a good impression on captain Salvada, she would need to do them the courtesy of waiting for them to disembark. So she waited patiently as they secured the vessel and began unloading the cargo.
+>
+> Finally, as the last amphora of wine were moved to the quayside, she stepped forward to approach the ship, put one foot on the gangplank and then stopped. "May I have your permission to come aboard Captain?" she asked. She might have marched onboard a normal ship, but the Red Dawn was still a military vessel, a part of the detachment of ships that supported the Red Wind Corsairs.
+>
+> Still, she was up on the deck in the blink of an eye, as soon as she got the nod. Partly because she couldn't wait to be back on deck, and partly because she knew it wouldn't hurt to let those watching she her move confidently board. She smiled as the captain came over with a quizzical look on his face.
+>
+> "I have a proposal to discuss with you" she explained. And then she smiled again "One I hope will be to your advantage..."
+
+*[Image: Many corsairs pride themselves on being mobile and unpredictable.](https://www.profounddecisions.co.uk/empire-wiki/File:FreebornMobileCorsair.jpg)*
+
+## Overview
+
+The Imperial Senate has instructed [Graciana i Lòpez i Guerra](../appraisals/Appraisal.md#graciana-i-lòpez-i-guerra) to appraise options to deploy Imperial Fleet captains to disrupt enemy naval and logistical operations in the Bay of Catazar. With the Empire facing four Grendel navies, there is a pressing need to find a way to counter that threat, and the recent attack on Madruga has created a burning need for Vengeance in the hearts of many Freeborn.
+
+Graciana is an excellent choice for the appraisal, more than her reputation for novel and imaginative solutions, she was once a successful corsair herself. Surely if anyone can find a way for Imperial fleets to take the fight to the Grendel, it is Graciana?
+
+Unfortunately, the short answer appears to be no - despite her best efforts Graciana is unable to achieve the ideal - to find a way for Imperial fleets to directly counter the threat posed by the Grendel. There is a long answer, of course, she does have four proposals the Senate to consider that hew as close as possible to the Senate's instructions.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The Senate request Graciana to conduct an appraisal of methods to deploy Imperial Fleet captains to disrupt enemy naval and logistical operations in the Bay of Catazar.
+> >
+> > Proposed: Miaren, Seconded: The Barrens
+
+## By Any Other Name
+
+- **Imperial fleets can only directly oppose a Grendel navy if they unite to support an Imperial navy**
+- **It is debatable whether the Empire could ever fully defeat the Grendel without building a substantial navy of their own**
+
+It seems like the most useful outcome would be for Imperial fleet captains to band together to try and oppose a Grendel navy directly. Graciana spends weeks looking at options for that, but it is clear that there is one, and only one, effective way to do that, and that is to construct an Imperial navy. When the Freeborn Storm fought the Grendel, the Empire routinely saw scores of fleet captains choosing to support them. There is every reason to think that would happen again, it is clear that corsairs and others are keen to take the fight to the Grendel directly. Building a new navy would enable hundreds of fleet captains to take the fight directly to the Grendel.
+
+But it's not possible without an Imperial navy to support. Fleets are simply too small to directly oppose an entire navy, they lack the central coordination needed to bring them together as an effective military force. They are potent when acting in support of an Imperial navy, but without that, they would be quickly scattered or sunk. It is the same reason military units cannot directly oppose a barbarian army - they are powerful in support of an Imperial army, but alone they would be quickly driven off or destroyed.
+
+Graciana notes that this is not a consequence of the Empire's limited experience with naval warfare. She points out that the three Asavean warships are in some ways similar to a very large and powerful Imperial fleet. But even the Asaveans, with all their expertise and long history with naval warfare were unable to use their warships directly. They had to wait for the Grendel to attack, so they could offer their support.
+
+If the Empire want naval fleets to be able to directly oppose the Grendel, the only really effective way to do that is to raise a navy. Navies are as expensive, they need as much weirwood as an army needs mithril and they take just as long to raise. They also require the Empire to possess a [shipyard](../../mixed/commissions/Shipyard.md), which is a significant investment and immediately becomes a strategic target for the Empire's enemies. But given the Grendel's huge naval advantage over the Empire - they have at least four navies that the Empire knows of - it is debatable whether the Empire could ever fully defeat them without building a substantial navy of their own. In theory it might be possible to fortify the Bay of Catazar to hold them off long enough for armies to reach Dubhtraig, but that is a very sheer cliff to climb.
+
+|  |
+| --- |
+| **Elos Shipyards** |
+| **Commission Type:** Shipyard |
+| **Cost:** 10 white granite, 10 weirwood, 60 crowns, and three months to construct |
+| **Effect:** Allows navies to be raised at Elos. A Navy could be commissioned here at the same time the shipyard is being built |
+
+|  |
+| --- |
+| **Cargo Cranes** |
+| **Commission Type:** Great Work |
+| **Cost:** 25 mithril, 75 crowns, and three months to construct |
+| **Effect:** Raises the level of investment in businesses in Redoubt |
+
+|  |
+| --- |
+| **Nostos Docks** |
+| **Commission Type:** Sinecure |
+| **Cost:** 18 white granite, 54 crowns, and three months to construct |
+| **Effect:** Creates the Architect of the Conscious River |
+| **Special:** Raises Urizen supply by one for navies only if all three of these commissions are built. |
+
+|  |
+| --- |
+| **Architect of the Conscious River** |
+| **Title:** Imperial position |
+| **Appointment:** Urizen Tally of the Votes |
+| **Powers:** Gains 10 tempest jade and 5 green iron each season |
+| **Responsibilities:** Promote trade and investment on the River Couros. |
+
+## Dear Perfection
+
+- **This opportunity has expired; any benefits and commissions associated with it are [no longer available](../../out-of-character/game-design/Opportunity.md#availability)**
+- **Graciana proposes to build a shipyard at Elos to take advantage of the skilled Night mages there**
+- **She has added plans to upgrade the cranes at Cargo and build a new docks at Nostos in Morrow**
+- **If all three commissions are completed, it would raise Urizen's supply by one for navies**
+
+The most obvious solution to the problem would be for the Empire to raise a navy. Of course that solution is incredibly expensive, but that doesn't remotely concern Graciana, costs are the Senate's problem. Given her reputation for producing expensive solutions she often takes the view that the Empire wouldn't ask her to do an appraisal if cost were an issue. The traditional place to raise a navy would be the Brass Coast, they are the pre-eminent sailors in the Empire, there are more fleets in the Coast than any other nation by far. Unfortunately launching a navy here would be very difficult. The Grendel burned the Atalaya shipyards, and then [when the Empire rebuilt them](The_power_behind_our_moves.md#atalaya), the Grendel quickly moved to capture them. It is clear that any navy raised on the Brass Coast would be exceptionally vulnerable right now.
+
+One place that might be able to provide a safe harbour from which to launch a navy is the port of Elos. The docks were only recently upgraded, and while they aren't yet big enough to allow the Empire to build a navy there, they could be quickly upgraded. What is more, the existing facilities are sufficiently impressive that [the Empire could begin work raising the navy at the same time that the work was being done to upgrade the docks](To_see_what_you_sell.md#additional-benefits). (The shipyards were completed before the navy was launched). Perhaps most importantly of all, the [Penumbral Watcher](../../mixed/titles/Penumbral_Watcher.md) could direct the Night mages under their authority to weave enchantments to shroud the docks, hiding what was taking place from Grendel spies. That could prove crucial in allowing the Empire to complete the docks and the navy before the Grendel could get wind of what was going on.
+
+While studying the previous proposals, Graciana is fascinated to learn that it might be possible for Urizen to commission a navy, to operate alongside the Citadel Guard. The nation is notoriously short of soldiers, the Citadel Guard is one of the most famous Imperial armies with good reason, but there is only one of them. An opportunity to build a new Urizeni navy might solve two of the Empire's problems with one stone.
+
+Graciana's plans are not cheap, involving a large expansion of the Urizen's naval capabilities starting with building a shipyard at Elos. That expansion would require 10 wains of white granite, 10 wains of weirwood and 60 crowns and take three months to complete. That would be sufficient to allow Imperial navies to be built there. In addition, her plans involve new upgraded cranes at Cargo, which would need 25 wains of mithril and 75 crowns. That would raise the level of investment for businesses in Redoubt by one.
+
+Finally, Graciana's plan involves a new facility at the Conscious River near Canterspire in Morrow. This small spire is built on the banks of the Nostos, a tributary that flows from Canterspire down to the River Couros. The Conscious River is mostly populated by [architects](../nations/urizen/Architect.md) who study river economics, despite the fact that there is relatively little trade down the Nostos. However together they have devised a proposal to construct new docks here to make a burgeoning river port. The commission would require 18 wains of white granite and 54 crowns and would boost trade in tempest jade and green iron. That would create a sinecure, the Architect of the Conscious River, that would benefit from 10 Tempest Jade and 5 Green Iron each season.
+
+More importantly, the docks would facilitate the production and distribution of weirwood from nearby Canterspire raising output from the bourse seat by 4 wains to a total of 26 wains of weirwood each season. The wood is crucial for building fleets and navies, so if all three commissions were built, and Graciana accepts that that is an expensive proposition, then the combined benefits would be sufficient to enable Urizen to support a single navy alongside the Citadel Guard. Each of the three commissions would require a commission slot, but they could all be built independently at any time.
+
+|  |
+| --- |
+| **Free Docks** |
+| **Commission Type:** Fortification |
+| **Cost:** 50 white granite, 50 weirwood, 300 crowns, and one year to construct |
+| **Effect:** Creates a basic fortification in Free Landing that can be supported by Imperial fleets. |
+
+## For That Name
+
+- **This opportunity has expired; any benefits and commissions associated with it are [no longer available](../../out-of-character/game-design/Opportunity.md#availability)**
+- **Graciana has presented proposals to fortify Free Landing in such a way that Imperial fleets could support the fortification**
+
+One of the factors that has made the Brass Coast so vulnerable to attack from the Grendel is the complete lack of any fortifications in the nation. Empress Lisabetta's bold plan to fortify the coastline of the Bay of Catazar, saw a fortification raised at [Mora's Rock](../nations/the-brass-coast/Feroz.md#mora27s-rock) in Feroz, but that fortification was traded to the Grendel years ago, to buy two more years of peace. A more impressive fortification, [The Salt Guard](../nations/the-brass-coast/Madruga.md#the-salt-guard-ruined) that protected Madruga was supposed to make a naval assault impossible, but apparently nobody told the Grendel. It was ruined when they attacked the city in overwhelming numbers.
+
+Graciana is keen to improve on Menno's design and fix what she sees as a crucial flaw, the reliance of Imperial armies to adequately defend any fortification. Rather than a single great stone structure at Siroc, Graciana proposes to build small fortified jetties and docks throughout the many islands of Free Landing. Her Free Docks would require 50 wains of white granite, 50 wains of weirwood, 300 crowns and take a year to construct, but once complete, they would make it more difficult to attack Madruga by effectively serving as a basic fortification in Free Landing.
+
+More importantly, Corsairs and other Imperial fleets could make extensive use of the Free Docks to help counter any attack on Free Landing or Madruga that came from the sea. That would mean that fleet captains could chose to commit themselves to the defence of Free Landing by supporting the Free Docks, in the same way that military captains can choose to help defend an Imperial fortification. They would only provide any benefit if Madruga was attacked by a navy, the fleets wouldn't be effective against an army. But if the Grendel did attack Madruga by sea, then Imperial Fleet captains would be able to disrupt enemy naval and logistical operations as requested.
+
+The commission could be built at any time in Free Landing - but of course the Empire would have to control the area. It would be foolish beyond belief to attempt to raise the Free Docks while the Grendel hold Madruga.
+
+## Hear More
+
+- **Graciana has found a way for the Empire to build smugglers coves, spy networks for fleets like the one they constructed in Feroz**
+- **These coves have been added to the list of standard commissions that the Empire can arrange**
+
+One way that the Empire has been able to utilise fleets to help with military efforts is to employ them to spy on the Grendel. Information can be crucial to victory in war, and the Empire were able to develop [an effective network in Shantarim](Bones_in_the_ocean.md#a-cuckoos-egg) that allowed captains to support the network, allowing it to gather crucial information, just as military units will support a regular spy network.
+
+That spy network is gone now, destroyed when the Asaveans razed the Isle of Osseini, but Graciana is convinced that the techniques employed there could be reused. She spends time liaising with the war scouts to discuss what might be involved and after a lot of work they produce a set of plans that would allow the Empire to create smugglers coves, effectively spy networks for fleets.
+
+Each cove would need to commissioned in a territory adjacent to a region controlled by the Empire. It would require a commission slot and take 10 wains of white granite and 30 thirty crowns. The smugglers cove wouldn't need to be built in a coastal region, but it could only be commissioned in a territory that had a coastline that Imperial fleets could reach.
+
+Building a smugglers cove would be a standard commission that requires an appropriately worded Senate motion. Alternatively the Imperial Senate could use a Senate motion to grant the Imperial Spymaster the power to commission a smugglers cove instead of a spy network each season.
+
+*[Image: RedWindCorsairs Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:RedWindCorsairs_Colour.png)*
+
+|  |
+| --- |
+| **Corsairs Reborn** |
+| **Commission Type:** Army |
+| **Cost:** 80 weirwood, 240 crowns, and six months to complete |
+| **Effect:** Upgrade the Daring quality to the Foraying quality. |
+
+## Speak At This
+
+- **Graciana has a proposal to upgrade the Red Wind Corsairs to allow them to take to the sea to act as a navy for a time**
+
+Graciana devotes some a significant chunk of her time to discussions with the corsair families of the Brass Coast with whom she shares kinship and a long affiliation, convinced that if anyone can find a way to achieve the Senate's goals it is them. They are unable to turn up anything new, but when their discussion shifts to the Freeborn armies, a novel does emerge.
+
+The [Red Wind Corsairs](../../mixed/government/military/Red_Wind_Corsairs.md) takes its name from the many corsairs who serve in the army. For many years it was the closest thing the Empire had to a naval force. Many of the Red Wind soldiers already have experience serving as sailors, more than enough to teach those amongst their ranks who do not yet have their sea legs. The force also enjoys the support of a number of boats and ships, and with the connections to the Corsair families of the Coast, it could quickly call on many more. If the Empire really needs a navy, then perhaps what they need is already in front of their eyes?
+
+To make the plan a reality would require some investment, enough to build a trio of large powerful ships that could form the core of the force when it was at sea. That would need 80 weirwood and 240 crowns and take six months to complete, but it could be done at any time, even when the Corsairs are on active engagement. Once the work was complete, the Corsairs would gain a new quality, Forayers, which in addition to their ability to plunder the enemy in battle would allow them to submit a new order to change from being an army to a navy - or back.
+
+**Forayer**
+
+- **Can use the *Take to the Sea* or *Take to the Land* order when [defending](../../out-of-character/rules/Army_orders.md#defending) a coastal region in the Bay of Catazar**
+- **Can use the *daring raid* order when [attacking](../../out-of-character/rules/Army_orders.md#attacking)**
+
+A foraying army is made up of soldiers with extensive experience of fighting in naval battles, such as the corsairs of the Brass Coast. They also have access to the kind of powerful fighting ships that are needed to fight effectively at sea. This allows them to operate in either domain, switching between the two as needs must. Embarking or disembarking takes a season and the force is vulnerable while that happens, but they can move off as normal in the following season, once the change is complete. The Red wind Corsairs could only use this ability in the Bay of Catazar at present.
+
+In addition, the Red Wind Corsairs embrace their instinct to treat their defeated enemies with respect and take their money not their lives. The general can submit the daring raid order. Although some Wintermark armies find fighting alongside a foraging army distasteful - many Wintermark heroes prefer the idea of ransoming defeated enemies to butchering them and have no reason to dislike a daring army.
+
+> **Take to the Sea**
+>
+> - **Casualties inflicted by this army are reduced by two fifths.**
+> - **The ability of this army to defend territory is reduced by a fifth.**
+> - **Casualties suffered by the army are increased by two fifths.**
+> - **At the end of the season the army converts into a navy (or vice versa).**
+>
+> The army retains access to numerous ships and vessels that are powerful enough to make a difference in naval battles. Either vessels that are directly part of the army or aid from the Corsair families of the Brass Coast that they can call on. By spending a season in a coastal region, changing the operation and arrangement of the force, they can embark on these ships to become a navy at the start of the following season. If the force are not attacked during this time, then they can resupply as normal - if they are attacked, their ability to defend the region will be compromised and they will suffer higher casualties. The Corsairs can use the same order to return to land-based operations, spending a season to cease being a navy and become an army once more.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [386YE Spring](../../indexes/by-category/386YE_Spring.md), [Recent History](../../indexes/by-category/Recent_History.md), [Appraisal](../../indexes/by-category/Appraisal.md)

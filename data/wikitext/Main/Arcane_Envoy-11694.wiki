@@ -1,0 +1,15 @@
+[[Category:Conclave]] [[Category:Title]]__NOTOC__
+==Overview==
+The Arcane Envoy is an [[Imperial Title]] appointed by the [[Conclave]]. It was originally [[385YE_Winter_Solstice_Senate_sessions#Create_title_of_Arcane_Envoy|created]] during the Winter Solstice 385YE but was the subject of an [[386YE_Spring_Equinox_Senate_sessions#Amend_title_of_Arcane_Envoy|administrative motion]] to amend its election method during the Spring Equinox 386YE. The Arcane Envoy serves as part of the Conclave to facilitate the proper endorsement of works of magic and agreements with [[eternal|eternals]].
+
+==Responsibilities== 
+The Arcane Envoy is responsible for ensuring that acts endorsed by the Conclave are properly considered and protected against throughout means both in and out of the Imperial Conclave.
+
+==Powers==
+===Endorsement===
+{{Power of Declaration|Arcane Envoy|Endorsement}}
+
+==Appointment==
+The appointment, replacement, or removal of the Arcane Envoy is made by the [[Candidacy|Declaration of Candidacy]] as part of a [[Conclave session]]. The Arcane Envoy serves until they are replaced by another magician using the Declaration of Candidacy. As a title in the Conclave, they cannot be [[Revocation|revoked]].
+{{CaptionedImage|file=Jeziah i Radah.jpg|caption='''Jeziah i Radah i Guerra''', Arcane Envoy|align=left|width=350}}
+{{RecentElections|Arcane_Envoy}}

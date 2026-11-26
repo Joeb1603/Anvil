@@ -1,0 +1,8 @@
+Lisa Curtis
+
+Lisa has a website which you can find [http://www.lisacurtisphotography.co.uk/events/ here]
+
+Please include the following text in the description field when uploading files by this author to the wiki:
+
+''<nowiki>[[Category:Photos:LisaCurtis]] [[:Category:Photos:LisaCrutis|Image by Lisa Curtis]]
+</nowiki>''

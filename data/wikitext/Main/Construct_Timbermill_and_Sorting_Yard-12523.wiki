@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Announced by Laughlan Vi Temeschwar, Master of Rings">Construct the Temeschwar Drovers' Guild Timbermill and Sorting Yard in Vardstein Vale, Temeschwar. This requires: 40 wains of white granite; 20 wains of mithril; and 180 crowns in labour. This creates 10 thrones of taxation per season. This creates the position of "Vardstein Vandal" who oversees a forest ministry. The Vardstein Vandal is elected each Autumn by Tally of the Votes of League business owners. They are responsible for overseeing the prosperous use and vigilant care of Vardstein Vale's natural resources, especially the wolves who embody so much of Temeschwar's character. Special thanks to Laszlo Gulyas von Temeschwar, who died before he saw this ambition fulfilled.</quote>
+==Overview==
+* Constructs a [[great work]] in [[Temeschwar]] as per the '''[[Don%27t_blame_me#Log_the_Vardstein_Vale|Don't blame me]]''' wind of fortune
+* Announcement by the [[Master of Rings]]
+==Date==
+* Winter 386YE
+==Cost==
+* Costs as per opportunity
+* 40 white granite
+* 20 mithril
+* 180 crowns
+* Six months to complete
+==Progress==
+{{CommissionProgress|Construct_Timbermill_and_Sorting_Yard}}
+==Outcome==
+* Now complete, the [[Vardstein Vandal]] will be available to appoint for the first time at the Summer Solstice 387YE by the Tally of the Votes of League [[business]] owners
+* Increases investment in businesses in the territory to provide two random measures each season
+* Increases taxation from the territory by ten thrones a season

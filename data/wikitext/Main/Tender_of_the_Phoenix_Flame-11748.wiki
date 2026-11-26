@@ -1,0 +1,32 @@
+<div style="float:right; width: 300px; clear: right;">{{CaptionedImage|file=MeraudArt.jpg|caption=The Flame of the Phoenix has been ceded to [[Meraud|the Summer Enchanter]].|align=right|width=300}}</div>
+==Overview==
+The Tender of the Phoenix Flame is an [[Imperial title]] that grants custodianship of a [[sinecure]] and potentially a [[ministry]]. The motion to [[Construct the Phoenix Flame|begin construction]] was passed during the Winter Solstice 385YE following an [[Back_in_town#Meraud|opportunity]] presented by [[Meraud]]. The Flame of the Phoenix is in Grovesyard, [[Astolat]]; over a small regio close to the '''Larmallevés''' estate. 
+==Responsibilities==
+The Tender of the Phoenix Flame has a responsibility to oversee the Flame of the Phoenix, to ensure that the mana produced by it is used in grand works of magic, and to explain the magic that the mana was used in to [[Meraud]] if asked. In addition, if there were ever a threat to either the Flame of the Phoenix or anyone visiting it then it would be the responsibility of the Tender to ensure such threats were dealt with.
+==Powers==
+===Bounty of Crystals===
+The Tender of the Phoenix Flame receives custodianship of a [[sinecure]]. The Tender receives an income of 26 [[Game_items#Mana_Crystals|mana crystals]] each season.
+
+===Songs of the Phoenix===
+The Flame of the Phoenix can theoretically also function as a ministry. If the title holder is an Enchanter of [[Dawn]] then the heralds of Meraud will guide the Tender in the method of burning certain expensive woods in the flame and singing magical songs about the glory of the Summer stars, and the old Monarchs of Dawn that will enhance the flame's power, focusing its energy to produce additional mana. As a [[ministry]], the Tender can purchase mana crystals at a set price. The Tender spends their money and makes their choices during downtime from their character page. Money is removed from, and mana crystals are placed into, the character's inventory when the downtime is processed.
+<div style="width: 400px; float: right; clear: left;">
+<table class="mw-collapsible"><tr><td style="background-color: LightBlue;">'''Songs of the Phoenix'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>17 crowns</td><td>16 mana crystals</td></tr>
+<tr><td>30 crowns</td><td>25 mana crystals</td></tr>
+<tr><td>46 crowns</td><td>32 mana crystals</td></tr>
+<tr><td>65 crowns</td><td>42 mana crystals</td></tr>
+</table></div>
+==Appointment==
+The appointment, replacement or removal of the Tender of the Phoenix Flame is made by the [[Declaration]] of [[Candidacy]] as part of a [[Conclave session]].
+
+The Tender of the Phoenix Flame serves until they are replaced by another magician using the Declaration of Candidacy. The Tender cannot be [[Revocation|revoked]] by the [[Synod]].
+
+===Suitability===
+If the title is held by a character who is Dawnish and has the [[enchanter]] archetype, or they somehow become one during their tenure, then the player must email [mailto:plot@profounddecisions.co.uk plot@profounddecisions.co.uk] to let us know.
+{{CaptionedImage|file=TenderofthePhoenixFlame.jpg|caption='''Enchantress Areloe Larmallevés''', Tender of the Phoenix Flame|align=left|width=300}}
+{{RecentElections|Tender_of_the_Phoenix_Flame}}
+==Flame of the Phoenix==
+Not far from the estate of [[Dawn_groups#House_Larmallevés|House Larmallevés]] in [[#Grovesyard|Brightway]], [[Astolat]], stands the Flame of the Phoenix. A massive [[mithril]] basin that burns with an eternal flame granted by [[Meraud]] that sits atop an imposing two-storey plinth made of [[white granite]]. Every season dozens of [[Game_items#Mana_Crystals|mana crystals]] form on the sides of the basin and heralds of the ''Summer Enchanter'' stand by to offer advice on the correct method of burning certain expensive woods in the flame and singing magical songs about the glory of the Summer stars, and the old [[Dawn monarchy|Monarchs of Dawn]] that enhance the flame's power, focusing its energy to produce additional crystal mana.
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Conclave]]

@@ -1,0 +1,24 @@
+[[Category:Senate Motion]][[Category:387YE Summer]]
+__NOTOC__
+<quote by="Announced by Alexnadro von Temeschwar, Bearer of an Imperial Wayleave">Opportunity to build the Silver Fox Mines, to support businesses and mines in Temeschwar. It is a great work and costs 50 weirwood, 50 white granite, and 25 thrones. It increases taxation by 5 thrones. Named the Silver Fox Mines and sponsored by the Crimson Reapers.</quote>
+==Overview==
+* Constructs a [[great work]] in Locul, [[Temeschwar]]
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+* More information can be found in the '''[[Don%27t_blame_me#Tear_Out_the_Earth's_Heart|Don't blame me]]''' wind of fortune
+* This commission has lapsed as of the start of the Summer Solstice 388YE
+
+==Date==
+* Summer 387YE
+
+==Cost==
+* Costs as per opportunity
+* 50 weirwood
+* 50 white granite
+* 300 crowns
+* Six months to complete
+==Progress==
+{{CommissionProgress|Construct_Silver_Fox_Mines}}
+==Outcome==
+* Once complete, the mines and businesses of the territory will provide 36 rings and two random ingots, respectively
+* The [[Custodian of the Assayer's Guild]] will gain two additional ranks to their ministry
+* Taxation from Temeschwar will increase by five thrones a season

@@ -1,0 +1,150 @@
+==Overview==
+Records show that 15 addresses were made during the Friday session, and 14 during the Saturday session. Per protocol, the titles of addresses are not recorded.
+
+Records show that seventeen [[declaration|declarations]] were raised before the Friday session, with one motion withdrawn before it reached the floor of Conclave, and that nine were made during the Saturday session. Other than declarations of [[concord]], precise wording of a declaration may be modified for standardization purposes.
+
+==Precedence and the Font==
+*'''The basic font at this summit was 122 mana.'''
+*'''The income from the Principle of Proportions at the previous summit was 204 mana.'''
+*'''The remainder from previous seasons was 5 mana.'''
+The members of each order in attendance at the end of the previous summit determine precedence for the following summit according to the [[Principle of Precedence]]. The income of mana following the previous summit is listed above and was distributed as per the table below. This left 3 mana, which will be added to the font to be divided at the end of the next summit along with the income from the Principle of Proportions at this summit.
+<table class="wikitable mw-collapsible sortable"><tr><th>Order</th><th>Precedence</th><th>Members</th><th>Mana</th><th>Ilium</th></tr>
+<tr><td>Grandmaster of the Order of the Golden Pyramid</td><td>1</td><td>77</td><td>69</td><td>3</td></tr>
+<tr><td>Grandmaster of the Order of the Rod and Shield</td><td>2</td><td>73</td><td>65</td><td>3</td></tr>
+<tr><td>Grandmaster of the Order of the Shuttered Lantern</td><td>3</td><td>69</td><td>61</td><td>2</td></tr>
+<tr><td>Grandmaster of the Order of the Sevenfold Path</td><td>4</td><td>63</td><td>56</td><td>2</td></tr>
+<tr><td>Grandmaster of the Order of the Unfettered Mind</td><td>5</td><td>31</td><td>27</td><td>1</td></tr>
+<tr><td>Grandmaster of the Order of the Celestial Arch</td><td>6</td><td>28</td><td>25</td><td>1</td></tr>
+<tr><td>Grandmaster of the Order of the Silver Chalice</td><td>7</td><td>28</td><td>25</td><td>1</td></tr>
+</table>
+__TOC__
+
+==Friday Declarations==
+===Candidacy: Imperial Seer===
+* ''Raised By:'' Olle Markusson for themselves; Drake de Coeurdefer for themselves; Finn Finnson as incumbent
+* ''Outcome:'' Drake de Cordefeur was appointed as [[Imperial Seer]].
+
+===Endowment===
+* ''Raised By:'' Simargl, the Empty One
+* ''Stating:'' The Lyceum Improvement Plans offered by Sadogua should be provided to the Dean of the Lyceum
+* ''Outcome:'' Passed. Plans will be provided to Simargl at the beginning of the Autumn Equinox.
+* ''Notes:'' Under normal circumstances, an endowment requires an item to be endowed already in the possession of the conclave.
+
+===Candidacy: Gloaming Sentinel===
+* ''Raised By:'' Serge i Fisadoz i Guerra for themselves; Sister Terah of the Shattered Tower for themselves; no incumbent
+* ''Outcome:'' Sister Terah of the Shattered Tower appointed as [[Gloaming Sentinel]].
+
+===Concord 1===
+* ''Raised By:'' Palaphon Ankarien
+* ''Stating:'' The Conclave believes that the Senate should not create a Declaration of Endorsement as the existing mechanisms are sufficient if used wisely.
+* ''Outcome:'' Passed
+
+===Concord 2===
+* ''Raised By:'' Solomon, Archmage of Summer
+* ''Stating:'' The Conclave has assessed the risks associated with constructing the College of Architecture. It recommends to Senate the commission of this building.
+* ''Outcome:'' Passed
+
+===Imperial Lore===
+* ''Raised By:'' Brother Luke, Master of Ice and Darkness
+* ''Stating:'' The ritual ''Sutannir's Promise'' should be added to [[Imperial lore]].
+* ''Outcome:'' Passed. The Civil Service has received this [[Formulaic_ritual#Ritual_Texts|ritual text]]. 10 Thrones payment still pending from Brother Luke.
+
+===Concord 3===
+* ''Raised By:'' Abel, Bursar of Conclave
+* ''Stating:'' The Conclave believes that the ending of Llofir's occupation of Tamarbode requires Military Force. it calls upon the Generals of the Empire to act soon as practical as the risk only grows with each season. Conclave offers magical assistance to this goal.
+* ''Outcome:'' Passed
+
+===Enmity for Llofir===
+* ''Raised By:'' Solomon, Exarch of the Shattered Tower
+* ''Stating:'' The eternal [[Llofir]] should be subject to [[Amity and enmity#Enmity|enmity]]
+* ''Outcome:'' Failed
+
+===Concord 4===
+* ''Raised By:'' Solomon, Archmage of Summer
+* ''Stating:'' The Conclave has, belatedly, assessed the risks of the Golden Causeway. Its construction is a gross breach of Vigilance and Conclave calls for Senate to abrogate as soon as possible. 
+* ''Outcome:'' Failed
+
+===Concord 5===
+* ''Raised By:'' Juliano di Tassato
+* ''Stating:'' The Imperial Conclave declares that this body accepts the offer of Prospero's assistance with the opportunity to access the Hall of Cerebral Trials and agrees to owe him a commensurate favour in return.
+* ''Outcome:'' Failed
+
+===Concord 6===
+* ''Raised By:'' Argi Guerra
+* ''Stating:'' The Imperial Conclave believes it should be illegal to place auras on the Imperial Regio.
+* ''Outcome:'' Passed.
+
+===Concord 7===
+* ''Raised By:'' Pavel
+* ''Stating:'' The Conclave believes that it should not encourage citizens to break the law, when the well-worn path of virtue defence has existed for centuries.
+* ''Outcome:'' Passed
+
+===Concord 8===
+* ''Raised By:'' Darian Numbers
+* ''Stating:'' The Conclave wishes to acknowledge that the casting of Rivers of Life by Sherard Coven was one of the virtuous uses of magic last summit.
+* ''Outcome:'' Failed
+
+===Concord 9===
+* ''Raised By:'' Leif
+* ''Stating:'' Magicians with Signs + Portents or similar information of interest should contact Leif Arnbjorn of Wintermark.
+* ''Outcome:'' Passed
+
+==Saturday Declarations==
+===Dissemination to Great Forest Orcs===
+* ''Raised By:'' Cybi Farkas
+* ''Stating:'' The ritual [[Vitality of Rushing Water]] should be disseminated to the [[Great Forest Orcs]].
+* ''Outcome:'' Passed. 10 Thrones received from Cybi Farkas after the Summer Solstice.
+
+===Concord 10===
+* ''Raised By:'' Grandmaster Reichard
+* ''Stating:'' The Imperial Conclave declares that the Civil Service investigate the possibility of a third Conclave session.
+* ''Outcome:'' Failed
+
+===Concord 11===
+* ''Raised By:'' Romande Remys
+* ''Stating:'' The Imperial Conclave declares that the time has come for an additional magical army and encourages Imperial witches to take pride in their power and heed this call.
+* ''Outcome:'' Passed
+
+===Amity for Sinokenon===
+* ''Raised By:'' Gancius, Archmage of Day
+* ''Stating:'' The eternal Sinokenon should be given [[Amity and enmity#Amity|amity]].
+* ''Outcome:'' Failed
+
+===Candidacy: Winter===
+* ''Raised By:'' Willa for themselves; Zastyt, Grandmaster of the Shuttered Lantern, under the Veil of Night for Talkicani; Emilia as incumbent
+* ''Outcome:'' Emilia remained [[Archmage]] of Winter.
+
+===Amity for Skathe===
+* ''Raised By:'' Romande Remys
+* ''Stating:'' The eternal [[The_Thrice-cursed_Court#Skathe|Skathe]] should be given [[Amity and enmity#Amity|amity]].
+* ''Outcome:'' Failed
+
+===Neutrality for Surut===
+* ''Raised By:'' Kali
+* ''Stating:'' The eternal [[The_Thrice-cursed_Court#Surut|Surut]] should be declared [[Amity_and_enmity#Declaration_of_Neutrality|neutral]].
+
+* ''Outcome:'' Passed
+===Candidacy: Summer===
+* ''Raised By:'' Bronwyn for themselves; Solomon as incumbent
+* ''Outcome:'' Solomon remained [[Archmage]] of Summer.
+
+==Changes of Title==
+* A new [[Gloaming Sentinel]], Sister Terah of the Shattered Tower, was appointed.
+* A new [[Imperial Seer]], Drake de Coeurdefer, was appointed.
+* A new [[Grandmaster]] of the [[Unfettered Mind]], Severin de Rondell, was appointed by that [[Conclave order]].
+The full list of Imperial Titles held in the Conclave at the end of the summit can be found [[Archive:382YE_Spring_Equinox_Imperial_titles|here]].
+
+==Changes of Sorcery==
+* No changes of sorcery occurred.
+
+==Changes of Amity and Enmity==
+* The eternal [[The_Thrice-cursed_Court#Surut|Surut]] was returned to a position of neutrality.
+
+==Principle of Proportions==
+During the Summer Solstice summit, 180 mana was collected in accordance with the Principle of Proportions. The breakdown was as follows - on Friday, 11 mana from addresses, 17 from declarations, and 48 from the meeting. On Saturday, 11 mana from addresses, 8 from declarations, and 75 from the meeting.
+
+This means that, including the remainder of 3 mana and the basic font of 122 mana, 305 mana will be distributed at the next summit in accordance with the Principle of Precedence.
+
+[[Category: Conclave]]
+[[Category: Conclave Sessions]]
+[[Category: 382YE Summer]]

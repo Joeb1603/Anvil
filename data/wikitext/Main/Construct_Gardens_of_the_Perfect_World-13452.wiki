@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:387YE Winter]]
+__NOTOC__
+<quote by="Proposed: Sarangrave, Seconded: Conscience of the Senate">To commission the Gardens of the Perfect World in Occursion, Zenith. This will create a ministry that allows trade with Tsark, trading weirwood and/or liao for white granite. This offers the choice for further trade with the hermit kingdom. This position is approved by the National Assembly. Self-funded.
+</quote>
+==Overview==
+* Constructs a [[ministry]] in Occursion, Zenith
+* Passed
+* More information can be found in the '''[[Poets_light_but_lamps#Garden_of_the_Perfect_World|Poets light but lamps]]''' wind of fortune
+
+==Date==
+* Winter 387YE
+
+==Cost==
+* Costs as per opportunity
+* 15 wains of weirwood
+* 45 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Garden_of_the_Perfect_World}}
+==Outcome==
+* Now complete, the [[Seeker of the Perfect World]] will be available to appoint by the Urizen Assembly for the first time at the Spring Equinox 388YE

@@ -1,0 +1,60 @@
+{{CaptionedImage|file=GreenTrod.jpg|align=left|caption=The trods hum with life.|width=400}}
+==Overview==
+The trods are magically enchanted paths that weave and wind their way across the majority of the Empire. They have special significance to the [[Navarr]], but they are also invaluable to Imperial [[Technology#Trods, Roads, and Ox-carts|travellers]], merchants, and soldiers. People who use trods - some of which see more travel than the Imperial roads - feel refreshed each morning as if they had spend a night in the finest beds. They are able to walk for many miles without becoming tired, allowing them to cover great distances.
+
+Trods rarely form in straight lines - they meander across the landscape in complex patterns. Travellers who use the trods to speed their movement often do so only sporadically as part of a more direct journey.
+
+The trods also nurture the land through which they pass - plants of all kinds grow more freely near trods, and prove to be more hardy.
+
+==Trods and the Navarr==
+As a [[striding]] migrates along the trods the unconstrained [[Spring]] Magic which is the heart of the [[vallorn]] is slowly leached away.  The longer the trod and the larger the striding the greater the effect. However, this magic is not just bled into the ether but is returned to the land and in some small way the people that travel the trod. 
+
+A trod starts and ends at a [[vallorn]]. As a vallorn grows more powerful as the [[Navarr]] advance closer to its heart, successive generations have needed to travel further to weaken it sufficiently before any attack is attempted. The most potent users of the trods are those who begin their journey within an area claimed by the vallorn, and then travel as far away as possible using the trods. Only the Navarr do this on anything approaching a regular basis.
+
+Stridings routinely move from trod to trod, to ensure as much of the vallorn's life-force is depleted before they attempt the dangerous journey back towards the vallorn.
+At the fall of Terunael the unstoppable advance of the [[orc]] foe made this task virtually impossible. The founding of the Empire was the beginning of a sea-change in the Navarr ability to fight the vallorn.
+
+In addition the land near a trod is often noticeably fertile and the crops on land through which a trod passes seems much less prone to disease.
+
+New trods can be created; however, it takes a great ritual. With the recovery in 378YE of [[The Dance of Navarr and Thorn]] - a powerful ritual from pre-Imperial times - the Navarr once again have access to the potent tool necessary to create trods. The [[Formulaic_ritual#Ritual_Texts|ritual text]] also laid out several of the theories behind the trods, how they worked and their ultimate effect. The [[Conclave]] [[Declaration#Declaration of Imperial Lore|agreed]] to place the ritual into [[Formulaic ritual#Imperial lore|Imperial lore]], ensuring that it would not be lost as long as the Empire lasted.
+{{CaptionedImage|file=Dark and Deep.jpg|align=right|caption=Every trod starts and ends with a vallorn.|width=400}}
+
+==Benefits of the Trods==
+The trods provide a boon to [[Technology#Trods, Roads, and Ox-carts|transportation and travel]] within the Empire. 
+
+In addition, everyone moving along the trods helps contribute to their magical effect, but the Navarr stridings are the most significant, moving long distances in large numbers along the trods from season to season. Traders and other travellers do make use of the trods, but in smaller numbers and their movements are focused on their destination. The trods are circuitous so traders moving between cities of [[the League]] (for example) will use a trod only as long as it takes them in the direction they wish to travel.
+
+As a trod sees more traffic its effectiveness at drawing off the power of the vallorn increases - but only the Navarr make the effort to spread their movements out over many trods, rather than take the shortest route to their destination.
+==Current Trods==
+{{CaptionedImage|file=VallornTrods.png|align=right|caption=[[Sarangrave|Béantal Dol]] and [[Axos#Axou_Territories|Visokuma]] remain unconnected to the trods|width=400}}
+* '''All Imperial-controlled territories except Sarangrave contain working trods'''
+* '''There are trods in the Thule territory of Sküld'''
+* '''There are trods in the Jotun territories of Bregasland and Ashvale'''
+* '''There are trods in the Druj territory of Therunin'''
+* '''There are still trods in Brocéliande'''
+* '''There are no trods in any other territories'''
+At present every Imperial-controlled territory, except [[Sarangrave]], has trods. In addition to these territories, the trods of [[Brocéliande]], [[Otkodov#Sk.C3.BCld|Sküld]], and [[Liathaven|Ashvale]] remain active at this time. While it is possible for the Empire to create a trod network outside the Empire's boundaries, the Empire would need access to a suitable ritual site in the territory to perform the ritual, or they would need to persuade whichever power controlled the territory to perform the ritual for them.
+
+===Damaged Trods===
+As of the start of Winter 378YE, the trods in [[Reikos]] were seriously damaged by the actions of [[Druj]] magicians. Swift action by the Navarr allowed them to use a [[regio]] associated with the [[Reikos#The_Sign_of_Tamar|Sign of Tamar]] to repair the trods during a battle there. The trods in [[Segura]] and [[Holberg]] also suffered damage under barbarian orc occupation, but were recently repaired by the combined efforts of the Navarr nation.
+
+The trods in the [[Mournwold]] had suffered extensively due to neglect; during the Winter Solstice 381YE Navarr magicians rewove and repaired the damage. Also during the Winter of 381YE, a courageous band of Navarr accompanied by [[the Brass Coast|Freeborn]] allies made a dangerous sortie into the woods of [[Liathaven]], and performed the Dance of Navarr and Thorn, repairing the tattered trods surrounding the vallorn there. Unfortunately, this repair was comparatively short lived. The Liathaven trods were [[The_scars_from_tomorrow#The_Trods_of_Liathaven|again sundered]] in the run up to the Autumn Equinox 382YE, torn apart by unknown means. During the Winter Solstice 384YE, a major conjunction of the [[Sentinel Gate]] allowed the Navarr to make use of [[In_each_line_lies_another_line#Objective:_Make_use_of_Broker.27s_Wynd|Broker's Wynd]] - a potent Spring regio in the now Jotun-controlled territory. In addition to unleashing the [[Thunderous Tread of the Trees]], they were able to restore the trods and reconnect Liathaven to the network - at least for now.
+
+The trods in [[Spiral]] had severely deteriorated due to long-term barbarian dominance of that territory, and were in need of repair. During the Spring Equinox 382YE, following the conquest of the territory by the Imperial armies, the Navarr were able to [[Mean_what_you_say#Spiral_Trods|completely restore the Spiral trods]] - albeit in new places most likely due to certain subtle shifts in the terrain (such as the destruction of certain forests, and perhaps the awakening of the {{Black Plateau}}). The trods suffered no deterioration under the [[Grendel]] occupation, probably due to the fact they were walked and maintained during the détente attendant on the dominion of Salt Lord Kaliact.
+
+Before the Autumn Equinox 385YE the scions of [[Cold Sun]] inflicted significant [[To_the_last_syllable#In_Therunin|damage to the trods]] of [[Therunin]]. During the summit an attempt to [[To_the_last_syllable#Shadow_in_the_Night|stop a force of heralds]] from doing the same to the trods in [[Hercynia]] failed. The scions repeated that destruction in Miaren prior to the Winter Solstice, [[Things_that_burn#The_Empty_Hands|unmaking the trods]] in the territory. During that summit the [[Spear of the Seven]] led a force through the Sentinel Gate into Therunin to distract vallornspawn clustered around a potent Spring regio. The Wildfire's Ever Shifting Dance, supported by a few members of the Voice of the Quiet Forest, were able to follow minutes later and perform the ritual to [[386YE_Spring_Equinox_winds_of_war#A_Missing_Leaf|restore the Therunin trods]]. Since then, the trods in Miaren and Hercynia have also been repaired.
+
+After the Winter Solstice 386YE, as Spring Equinox approached, the Druj [[To_hold_death%27s_hand_in_mine|conquered Therunin]]. Worse, their [[Druj lore#Ghulai|Ghulai]] of the army of the ''Tainted Basilisk'' used wicked sorcery to rouse the vallorn there [[To_hold_death%27s_hand_in_mine#Tainted_Vengeance|to wakefulness]]. In the process, they overwhelmed the trods and severed the territory from the webwork; that was a matter for concern, but was dealt with swiftly by the Voice of the Quiet Forest during the Autumn Equinox 387YE.
+
+===New Trods===
+In the past few years, the Navarr have been working to actively expand the trod network. In Summer 382YE, in a rare example of cooperation with the [[orc|orcs]] of [[Otkodov]], the Navarr came together with a Thule warlock-general to channel the power of [[the Dance of Navarr and Thorn]] into distant [[Otkodov#Sküld|Sküld]]. For the first time ever, the vallorn surrounding the ancient Terunael city of Emrys was made part of the network. The Navarr have had limited access to the territory to actually ''walk'' those trods - the Thule do not encourage visitors - but it is still a major success for the nation.
+
+In Autumn 382YE, the Voice of the Quiet Forest were able to expand the network to cover the newly conquered territory of [[Ossium]] - once part of [[the Mallum]] but now part of [[Varushka]]. The trod network now covers a greater area than ever before; a situation that may go some way to explaining both the recent rise of the Heirs of Terunael and the opportunities to free [[Liathaven#Westwood|Westwood]] in [[Liathaven]] and [[Brocéliande#Dark_Ranging|Dark Ranging]] in [[Brocéliande]].
+
+In Summer 385YE, the Verdant Glade coven of [[Dawn]] expanded the network to the newly Imperial territory of [[the Barrens]].
+
+===Other Territories===
+The magical researchers at the Towers of Maykop in [[Axos]] are believed to have a copy of [[the Dance of Navarr and Thorn]] given to them by the Conclave at the behest of Navarr vates. They ''could'' use this ritual to create a trod network of their own around the massive vallorn that lies at the heart of their nation, but so far they have shown no inclination to do so.
+
+{{Vallorn links}}
+[[Category:Navarr]][[Category:Highguard]]

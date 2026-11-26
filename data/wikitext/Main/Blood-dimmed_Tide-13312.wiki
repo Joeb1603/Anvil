@@ -1,0 +1,40 @@
+{{Disambiguation|This page contains details of a Spring ritual that enchants a military unit; for the rod that allows you to cast swift cast heal see [[Blood-dimming Tide]]}}
+<box>'''<big>Interdiction</big>'''<br>While [[Siakha]] is subject to the [[Amity and enmity#Enmity|enmity]] of the [[Conclave]], it is illegal to perform this ritual.</box>
+{{CaptionedImage|file=NBUrizen.jpg|caption=This ritual is part of [[Urizen magical traditions#Urizen Lore|Urizen lore]] rather than [[Imperial lore]].|align=right|width=200}}
+==Rules==
+{{Season|Spring|10}}
+{{Urizen Lore}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Resource|[[military unit]]}} The performance must include invocations of [[Siakha]] by at least three of her well-known names.
+
+{{enchantment}}
+
+===Effects===
+This enchantment draws on the power of [[Siakha]], calling up bloodthirsty [[Siakha#Servants_of_Siakha|warriors]] from the [[Realms#Spring|Spring realm]] to fight alongside a [[military unit|warband]] while filling its mortal members with an unquenchable thirst for plunder and bloodshed. The military unit gains a significant boost to its effective rank, provided it takes a [[Military unit#raiding|raiding]] action. {{Military Unit Strength|100|5}}
+
+When the ritual is complete, the character who controls the target resource experiences a [[roleplaying effect]] that persists for at least ten minutes; ''You feel unrestrained and unconcerned about the consequences of your actions. It is easy to give in to the urge to take what you want and you feel uninhibited about using violence against anyone who gets in your way.''
+
+{{Season Duration}} {{Downtime buff}}
+
+===Options===
+{{Ritual Substitution|tempest jade|ingots}}
+
+===Additional Targets===
+This ritual can affect additional military units belonging to characters in the same [[Groups#Banners|banner]]. Each additional military unit increases the magnitude by 8. The character who controls each military unit must be present throughout the ritual.
+<div style="float:right; width: 275px; clear: left;">{{CaptionedImage|file=SiakhaArt.jpg|caption=Siakha's bloodthirsty power inspires both her servants, and those they fight alongside, to merciless reaving.|align=right|width=275}}</div>
+
+===Assurance===
+Given that the ritual calls warriors from the Spring realm, it uses the power of an [[eternal]], in this case [[Siakha]]. The ritual loses all power and ceases to function if the Senate ever makes it illegal to raid the Empire's enemies (that is, there is no [[Venture#Raiding_Ventures|venture]] or [[Voyage#Raiding_Voyages|voyage]] available that involves raiding).
+==Description==
+Along with [[Rhythm of the Tempest]] and [[Shark's Rampage]], this ritual [[The_tune_without_the_words#Quivering_and_Chill|became part]] of [[Urizen lore]] after the Autumn Equinox 387YE. The original ritual was part of a water-damaged ship's logbook, filled with cryptic poems in praise of the unceasing sea, the power of the storm, and the admirably simple life of the shark. Interspersed between the poems were crude drawings of sea monsters, and what seemed to be actual prayers in praise of the ''Mother of the Maelstrom'' asking for her to send her children to torment the unknown author's enemies, or begging her to fill them and their crew with the power of the tempest. These sections become increasingly difficult to read, and the last few pages are almost entirely obscured by old blood splatter. Scrawled across the cover - carved into the thick leather with a knife - was the message “at the mother’s command, a gift for Ibiss Briarheart.”
+
+The ritual is an [[enchantment]] that calls for [[Siakha#Servants_of_Siakha|servants]] of [[Siakha]] to fight alongside a warband when [[Military_unit#Raiding|raiding]]  their enemies. This might include the shark-like ''carcharodons'' as well as the nexuses of destructive magical power known as ''tempests''. They are constrained not to harm the warriors they fight alongside, but keeping their bloodthirsty urges under control may prove to be too great a challenge for many captains. The presence of these creatures also exacerbates the violent tendencies of those they support, and it is all too easy for soldiers enchanted with this ritual to give in to the desire to kill and loot without mercy. Even if it were not illegal due to [[interdiction]], argue some of the magicians who have made a study of it, it would not be a ritual for any Urizeni to deploy without careful thought.
+
+==Common Elements==
+The original text detailed only one method of performance - invoking the "goddess" of the Maelstrom and asking her to fill the targets with her bloodthirsty and ruthless strength. The text also called for vicious bleeding cuts on the forearms of the warband's captain, to be collected in a bowl and used to draw a crude spiral on the forehead of the recipient with the remainder of the liquid being mixed with salt water and used to anoint their weapons or their hands. It is difficult to see this method of performance as anything short of the most egregious [[Religious_crime#Idolatry|idolatry]]
+
+The Urizen magicians who have studied the ritual since it became part of their lore - cautiously given the various reasons as to why it is entirely illegal - have theorised that the constellation of [[the Claw]] would also resonate with the magic invoked here. The runes [[Mawrig]] and perhaps [[Verys]] might also work, as might the use of [[the Mountebank]] in those aspects that relate to primal forces unleashed and physical strength. They note however that while these elements might prove useful in raising and corralling the magic invoked, it is impossible to perform the rite without calling openly on Siakha and quite apart from the other reasons to be cautious of this magic, that also makes its performance problematic.
+[[Category:Spring Ritual]]
+[[Category:Rituals]]
+[[Category:Warfare]]
+[[Category:Resource]]

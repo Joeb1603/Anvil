@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:386YE Summer]]
+__NOTOC__
+<quote by="Proposed: Bregasland, Seconded: Upwold">To commission a sinecure 'Reed's Roost' in Bildewold Bregasland, Self-funded. Sinecure to produce mana per season. Sinecure to create the national position 'Roost's Reeve' to be appointed by the marcher senators annually.</quote>
+==Overview==
+* Constructs a [[sinecure]] that produces mana crystals in North Fens, [[Bregasland]]
+* Passed
+
+==Date==
+* Summer 386YE
+==Cost==
+* Standard costs apply
+* 10 mithril
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Reeds_Roost}}
+==Outcome==
+Now complete, the position of [[Roost's Reeve]] will be available to appoint by unanimous decision of the senators of the Marches.

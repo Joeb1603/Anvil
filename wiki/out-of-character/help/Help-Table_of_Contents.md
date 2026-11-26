@@ -1,0 +1,39 @@
+---
+title: Help:Table of Contents
+source: https://www.profounddecisions.co.uk/empire-wiki/Help:Table_of_Contents
+class: out-of-character
+topic: help
+categories: []
+last_edited: '2020-10-13T12:52:01Z'
+revision: 81627
+---
+
+# Help:Table of Contents
+
+## Overview
+
+Mediawiki will automatically add a table of contents (TOC) to any page which has more than a couple of headings on it. There are various options you can take to adjust this and the way it is presented.
+
+## Position
+
+You can force the TOC to appear by putting `__TOC__` on the page. The table will then appear at the point where that command appears in the page.
+
+## Suppression
+
+You can prevent the TOC from appearing by adding `__NOTOC__` to any page. That will suppress the table of contents from appearing anywhere on the page.
+
+## Levels
+
+The wiki is set up so that it only creates two "levels" of table of contents - that is it will produce entries and sub-entries - but nothing more than that.
+
+Do not confuse this with the level of the heading! If you only use heading level 3 and heading level 4 on your page - then both will appear in the TOC - heading level three will be entries in the TOC and heading level 4 will be sub-entries. But if you include a single level 2 heading in the above page - then all the level 4 headings would disappear from the TOC - because it only goes to two levels.
+
+## Suppressing Heading Levels
+
+If you want to eliminate specific heading levels from the TOC - then you can do that by putting the TOC in an html "div" wrapper and setting an appropriate class on the wrapper. For instance if you want to prevent level 4 headings from appearing in the TOC then you put the table on the page instead a class that is toclimit-3. The example of the code is below.
+
+```
+<div class="toclimit-3">
+__TOC__
+</div>
+```

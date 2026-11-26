@@ -1,0 +1,343 @@
+[[Category:Senate]] [[Category:Senate Sessions]] [[Category:386YE Spring]]
+{{scrutiny}}
+==Overview==
+The [[Senate]] governs the Empire, and its authority extends to all areas of Imperial life not already covered by the other houses of government. Each summit the [[senator|senators]] meet [[Event schedule|several times]] to deliberate and vote on the [[Senate motion|motions]] they have raised. 
+
+After the summit the civil service enact those motions, and ensure a public record of each is made available to the citizens of the Empire. This page lists all the motions raised during the summit, along with the [[Senate announcement|announcements]] made by citizens with [[Imperial title|Imperial titles]]. In each case, the motion and its effects are summarised including the wording; who proposed and seconded it; whether it passed or not; whether any funds were disbursed to support it; and what the outcome of the motion will be.
+
+Many motions (especially the [[commission|commissions]]) also have a ''Further Details'' section that provides a link to a wiki page dealing specifically with that motion in more detail, any commentary from the [[Scrutiny|Constitutional Court]], progress on commissions, or expanded information about the outcome of the motion.
+
+Following the mandate [[385YE_Winter_Solstice_Synod_judgements#Judgement_127|enacted]] by '''Luca i Taziel i Riqueza''' after the Winter Solstice 385YE the number of commissions available has been reduced as the faithful have been convinced to withdraw their labour. This will continue until either the Imperial Senate uses a motion to assign fines from the magistrates to the Virtue fund or the [[Assembly#The_Virtue_Assemblies|Prosperity Assembly]] uses a clearly worded [[Statement of Principle]] upheld with a greater majority to encourage the faithful to once again take up their tools. More information can be found in the [[Forwards_and_Rewards#Fines_and_Funds|Forwards and Rewards]] wind of fortune.
+
+==Treasury==
+* Imperial treasury during this season was announced by the civil service at 1406 thrones.
+* The following has been donated to the Imperial treasury:
+** 200 thrones donated to the treasury by '''Empress Vesna Borkovna Prochnost''' after the Spring Equinox 386YE
+
+==Administrative Motions==
+===Amend title of Arcane Envoy===
+*'''Motion:''' To amend the election method of Arcane Envoy so that it is elected by Declaration of [[Candidacy]] in the Conclave.
+* '''Raised by:''' Speaker for the Senate
+* '''Passed'''
+* '''Further Details:''' The [[Arcane Envoy]] was created by the Senate during the [[385YE_Winter_Solstice_Senate_sessions#Create_title_of_Arcane_Envoy|Winter Solstice 385YE]]. The original motion stated that it was to be appointed yearly, which is not a valid well-worn path available for new titles in the [[Conclave]].
+
+===Amend title of Warmage I===
+*'''Motion:''' To amend the title of Warmage, to be a national Urizen position appointed by a simple majority vote of Urizen magicians present in the Hall of Worlds.
+* '''Raised by:''' Speaker for the Senate
+* '''Passed and ratified by Emperor Vesna Borkovna Prochnost'''
+* '''Further Details:''' More information on this motion can be found in the [[The_three_pillars#Conciliation|The three pillars]] wind of fortune
+
+===Amend title of Warmage II===
+*'''Motion:''' To amend the title of Warmage, to be a national Urizen position appointed by the Senate.
+* '''Raised by:''' Speaker for the Senate
+* '''Failed'''
+* '''Further Details:''' More information on this motion can be found in the [[The_three_pillars#Conciliation|The three pillars]] wind of fortune.
+
+===Assign Mareave===
+*'''Motion:''' To assign the territory of Mareave
+* '''Raised by:''' Speaker for the Senate
+* '''Passed:''' The territory of [[Mareave]] was assigned to the [[Imperial Orcs]]
+* '''Further Details:''' More information can be found in the '''[[Into_the_spin#The_Fine_Art_of_Assignment|Into the spin]]''' wind of fortune.
+
+==Senate Motions==
+===Abrogate Temple of the Four Winds===
+*'''Motion:''' To abrogate the construction of the Temple of the Four Winds and the associated title. Proposed: [[Kahraman#Recent_Senate_Elections|Kahraman]], Seconded: [[Zenith#Recent_Senate_Elections|Zenith]].
+* '''Passed'''
+* '''Outcome:''' The position of [[Arbiter of the Four Winds]] is no longer active. More information on the circumstances around this motion can be found on the '''[[Broken_sword#Shadow_of_the_Temple|Broken sword]]''' wind of fortune.
+
+===Amend title of Keeper of the Cox===
+*'''Motion:''' To empower a role, to be appointed by the Conclave, who arranges the supervision of the Imp. Regio; in order that inappropriate misuses are prevented. They will hold the sinecure formerly: 'The Keeper of the Cox'; now called: 'The Keeper of the Watch'. Proposed: [[Conscience of the Senate#Recent_Senate_Elections|Conscience of the Senate]], Seconded: [[Casinea#Recent_Senate_Elections|Casinea]].
+* '''Passed'''
+* '''Outcome:''' This motion is receiving additional scrutiny
+* '''Further reading:''' [[Amend title of Keeper of the Cox]]
+
+===Amend Lepidean University True Liao===
+*'''Motion:''' To amend the method of assigning the dose of true liao produced by the Lepidean University. It will be assigned by election of the General Assembly. To be raised by the Tribune at the start of a summit and end at 6pm Saturday. Proposed: [[Kallavesa#Recent_Senate_Elections|Kallavesa]], Seconded: [[Reikos#Recent_Senate_Elections|Reikos]].
+* '''Passed'''
+* '''Outcome:''' The method of allocating the dose of [[true liao]] from the [[Lepidean_Librarian#Lepidean_University|Lepidean University]] has been changed to judgement of [[Appointment#True_Liao|appointment]].
+
+===Appraise Dho'uala===
+*'''Motion:''' To instruct the prognosticator's office to send Lutomysla Niegoslava to appraise solutions to the problem of Dho'uala killing Imperial citizens and interfering with matters on and around the Semmerlak. If possible, Lutomysla should ensure as part of the appraisal to speak with the Sand Fisher orcs of Misericorde. Proposed: [[Holberg#Recent_Senate_Elections|Holberg]], Seconded: [[Semmerholm#Recent_Senate_Elections|Semmholm]].
+* '''Passed'''
+* '''Outcome:''' An appraisal will be published before the Summer Solstice 386YE
+
+===Appraise Wealth of Sermersuaq===
+*'''Motion:''' It is the ambition of Wintermark to increase the prosperity of Sermersuaq and its people. We seek not only to pay our own way in the Empire, but to take Pride in our Prosperity by making a positive contribution to the economy of the Empire. We request Graciana i Lopez i Guerra appraises who we can take advantage of the untapped natural wealth of Sermersuaq and its people to achieve these ends. Proposed: [[Sermersuaq#Recent_Senate_Elections|Sermersuaq]], Seconded: [[Bastion#Recent_Senate_Elections|Bastion]].
+* '''Passed'''
+* '''Outcome:''' An appraisal will be published before the Summer Solstice 386YE
+
+===Create Throne Power of Face of the Empire===
+*'''Motion:''' Create the power of the Throne: 'Face of the Empire'. This would allow the Throne to revoke an Ambassador from their position and take on the burden of their office until an ambassador is re-elected in their usual season. This power would work in the same way as 'Defender of the Empire' and be separate from it. Proposed: [[Temeschwar#Recent_Senate_Elections|Temeschwar]], Seconded: [[Miaren#Recent_Senate_Elections|Miaren]].
+* '''Passed with a constitutional majority'''
+* '''Outcome:''' If this motion is ratified by the Throne then the power can be used at the same summit. An administrative motion will be presented to the Senate at the Summer Solstice to confirm whether or not this power is intended to apply to the [[Imperial Consul]]
+* '''This motion has been ratified by the Throne'''
+
+===Create title of Mistress of Monuments===
+*'''Motion:''' To create the Imperial title of "Mistress of Monuments" as described in the opportunity last season. <u>Responsibilities:</u> To work with Imperial artists to commemorate inspirational actions and significant events with monuments and statues. <u>Powers:</u> The ability to commission a folly of up to nine wains each season. Commissions by this title would not count against the Senate's limited number of commissions. Title appointed annually by the Assembly of the Way. Revocable by the General Assembly, Assembly of Nine, and the Assembly of the Way. Proposed: [[Citizens%27_Voice|Citizens' Voice]]
+* '''Passed'''
+* '''Outcome:''' The title of [[Mistress of Monuments]] has been created and will be available to elect by the Assembly of the Way for the first time at the Summer Solstice 386YE. More information on this opportunity can be found in the '''[[Forwards_and_Rewards#Small_Monuments|Forwards and Rewards]]''' wind of fortune
+
+===Create title of Shadowed Torchbearer===
+*'''Motion:''' To create the title of Shadowed Torchbearer. To be appointed through Declaration of Candidacy, by Conclave. Proposed: [[Ossium#Recent_Senate_Elections|Ossium]], Seconded: [[Karsk#Recent_Senate_Elections|Karsk]].
+* '''Passed'''
+* '''Outcome:''' The title of [[Shadowed Torchbearer]] is available to appoint by the Conclave. As detailed in the '''[[Skeleton_key#Shadowed_Torchbearer_(Janon)|Skeleton key]]''' wind of fortune.
+
+===Create titles of Voices of Virtue===
+*'''Motion:''' To create the titles of "Voices of Virtues". To be appointed by the appropriate assembly, responsible for inspiring undedicated citizens to follow the virtue best suited to them; helping those who feel uncertain in their dedication; preaching and inspiring all citizens to understand the expression of their virtue. Stipend to be determined by the Senate. Proposed: [[Casinea#Recent_Senate_Elections|Casinea]], Seconded: [[Conscience of the Senate#Recent_Senate_Elections|Conscience of the Senate]].
+* '''Passed'''
+* '''Outcome:''' The titles of [[Voice of Virtue]] will be available to appoint by vote of the appropriate assembly. The elections will be spread across the year.
+
+===Develop Flood Defences in Caricomare===
+*'''Motion:''' A motion to develop flood defences in Sarvos with the aid of the Vandersaar. Does not require a commission. Costs are 60 thrones. The defences are to be decorated with an elegant letter B and a rose in honour of those who supported their creation. Proposed: [[Sarvos#Recent_Senate_Elections|Sarvos]], Seconded: [[Spiral#Recent_Senate_Elections|Spiral]].
+* '''Passed at 40 thrones'''
+* '''Outcome:''' 40 thrones disbursed to Senator for Sarvos. The Vandersaar family oversees this construction; it is not possible for the motion to specify certain details without the agreement of the Sarcophans. More information can be found in the '''[[Sound the bells#Flooding_of_Caricomare|Sound the bells]]''' wind of fortune.
+* '''Further reading:''' [[Construct Flood Defences in Caricomare]]
+
+===Disburse Funds for Thornsong===
+*'''Motion:''' Dispersal of funds for the construction of Thornsong, the Empire's potion research college. As the risks from our enemies escalate, we must remain vigilant and ready for attacks in all its forms. Completing Thornsong will provide the Empire a vital tool to respond with potions and poison. Proposed: [[Therunin#Recent_Senate_Elections|Therunin]], Seconded: [[Kahraman#Recent_Senate_Elections|Kahraman]].
+* '''Passed'''
+* '''Outcome:''' 50 thrones disbursed to Senator for Therunin. 
+
+===Disburse Funds for Five Cities College of War===
+*'''Motion:''' That there be a dispersal of funds for purchase of materials for the construction of the [[Tassato#Five_Cities_Military_Academy|5 Cities College of War]] in Tassato. This motion does not require a civilian commission. Proposed: [[Tassato#Recent_Senate_Elections|Tassato]], Seconded: [[Holberg#Recent_Senate_Elections|Holberg]].
+* '''Passed'''
+* '''Outcome:''' 100 thrones disbursed to Senator for Tassato.
+
+===Fund the Drummers of the Drakes===
+*'''Motion:''' A motion to pay the Drakes their due. Funding drummers to drum up support for the army when resupplying in Marcher and Imperial territory. This will increase the army's upkeep by 5 thrones per season. Proposed: [[Mitwold#Recent_Senate_Elections|Mitwold]], Seconded: [[Upwold#Recent_Senate_Elections|Upwold]].
+* '''Passed'''
+* '''Outcome:''' The quality of the [[Drakes]] will change to ''Pride of the Marches'' as per the '''[[Pride_of_the_Marches#Drakes_Drummers|Pride of the Marches]]''' wind of fortune.
+
+===Set the Imperial Guerdon===
+*'''Motion:''' That the Senate set the Guerdon. Proposed: [[Semmerholm#Recent_Senate_Elections|Semmerholm]], Seconded: [[Tassato#Recent_Senate_Elections|Tassato]].
+* '''Passed at 150 thrones'''
+* '''Outcome:''' The [[Military_unit#Imperial_Guerdon|Imperial Guerdon]] has been set to 150 thrones.
+
+===Ratify Treaty with the Rahvin===
+*'''Motion:''' To pass the treaty with the Rahvin. Proposed: [[Upwold#Recent_Senate_Elections|Upwold]], Seconded: [[Skarsind#Recent_Senate_Elections|Skarsind]].
+* '''Passed but vetoed by Emperor Vesna Borkovna Prochnost'''
+Click ''Expand'' to see the wording of this treaty
+<div class="mw-collapsible mw-collapsed">
+* The Empire will cede the regions of Bitter Strand and the Carmine Fields in the Barrens.
+* The Empire will make the Black Wind foreigners.
+* The Rahvin will trade mithril with Dawn.
+</div>
+
+===Ratify Treaty with Druj===
+*'''Motion:''' To pass a peace treaty with the Druj. Proposed: [[Segura#Recent_Senate_Elections|Segura]], Seconded: [[Mournwold#Recent_Senate_Elections|Mournwold]].
+* '''Failed'''
+Click ''Expand'' to see the wording of this treaty
+<div class="mw-collapsible mw-collapsed">
+To agree a peace treaty for one season only with the Druj. In return, the Druj commit to releasing the Great Forest Orcs, Rahvin, and Urizen prisoners unmolested. This will allow the Black Wind to leave the Barrens.</div>
+
+===Ratify Treaty with Urizen of the Silver Flame===
+*'''Motion:''' This treaty is between the Casinean Empire and the Non-Imperial Urizen led by Caela of the Silver Flame. Proposed: [[Morrow#Recent_Senate_Elections|Morrow]], Seconded: [[Mitwold#Recent_Senate_Elections|Mitwold]].
+* '''Passed'''
+* '''Outcome:''' The Urizen of the Silver Flame are now considered foreigners
+Click ''Expand'' to see the wording of this treaty
+<div class="mw-collapsible mw-collapsed">
+Both parties are at peace and agree not to attack a region held by the other.<br>
+Both parties condemn political assassination and will cooperate to bring any guilty parties to justice<br>
+The Urizen commit to:<br>
+Reject any offer from the Druj or Grendel and make the Empire aware of them<br>
+Cooperate to maintain defences against the {{Black Plateau}}<br>
+Provide plans for a trade ministry within one year<br>
+Assist in the mutual defence of Spiral from any Druj or Grendel attack<br>
+</div>
+===Ratify Treaty with Beoraidh===
+*'''Motion:''' To ratify a treaty with Jarrek of Beoraidh. Proposed: [[Reikos#Recent_Senate_Elections|Reikos]], Seconded: [[Kallavesa#Recent_Senate_Elections|Kallavesa]].
+* '''Passed'''
+* '''Outcome:''' This treaty was later [[#Amend Treaty with Beoraidh|amended]]
+Click ''Expand'' to see the wording of this treaty
+<div class="mw-collapsible mw-collapsed">
+This is a declaration of peace between the Empire and the nation of Beoraidh, recognising Beoraidh as a foreign nation.<br>
+Ehsan and successors retain Sinfoyard and Beoraidh, agreeing to pay the Empire 50 crowns per season to retain both regions for a minimum of 5 years.<br>
+The Empire will retain trade by land and sea<br>
+Both parties agree to operate by the terms of the Liberty Pact<br>
+Beoraidh will lay no claim to Fleisardh<br>
+Negotiations will occur in respect to buying land for constructing a build to the Way in the Beoraidh regions<br>
+Both parties agree to inform the other of any planned removal of any spy networks in the territory<br>
+Beoraidh guarantee full access to the river, subject to trade tariffs<br>
+Beoraidh agrees that neither the Empire or the Grendel will have access to their shipyard.<br>
+Beoraidh agree to no direct funding of war either of the Empire or the Grendel<br>
+A notice period of one year is required to end the contract for both parties<br>
+The contract is void if the Empire loses dominion of Mareave<br>
+Representing the Empire: Finna i Guerra<br>
+Representing the Beoraidh: Jarrek<br>
+</div>
+
+===Amend Treaty with Beoraidh===
+*'''Motion:''' To amend the treaty with Beoraidh. The text in last night's motion was not the text agreed to by either side. The motion amends the previous motion to use the correct text. Proposed: [[Miaren#Recent_Senate_Elections|Miaren]], Seconded: [[Temeschwar#Recent_Senate_Elections|Temeschwar]].
+* '''Passed'''
+* '''Outcome:''' The nation of Beoraidh is now considered to be foreigners
+Click ''Expand'' to see the wording of this treaty
+<div class="mw-collapsible mw-collapsed">
+This is a declaration of peace between the Empire and the nation of Beoraidh, recognising Beoraidh as a foreign nation.<br>
+Ehsan and successors retain Sinfoyard and Beoraidh, agreeing to pay the Empire 50 crowns per season per region to retain both regions for a minimum of 5 years; whilst the Empire maintains trade by sea and land <br>
+Beoraidh will lay no claim to Fleisardh<br>
+Beoraidh guarantee full access to the river, subject to trade tariffs<br>
+Beoraidh agrees that neither the Empire or the Grendel will have access to their shipyard.<br>
+Negotiations will occur in respect to buying land for construction of a building to the Way<br>
+Both parties agree to operate by the terms agreed in the Liberty Pact<br>
+Beoraidh agree to no direct funding or support of the war for either the Empire or the Grendel<br>
+Both parties agree to inform the other of any planned removal of any spy networks in the territory<br>
+A notice period of one year is required to end the contract for both parties<br>
+The contract is void if the Empire loses dominion of Mareave<br>
+Representing the Empire: Finna<br>
+Representing the Beoraidh: Jarrek<br>
+</div>
+==Appointments==
+===Ambassador to Otkodov===
+*'''Motion:''' To elect the Ambassador to Otkodov. Proposed: [[Karsk#Recent_Senate_Elections|Karsk]], Seconded: [[Miekarova#Recent_Senate_Elections|Miekarova]].
+* '''Outcome:''' '''Kindra Surefoot''' of [[Wintermark]] was elected as the [[Ambassador to Otkodov]]
+
+===Ambassador to the Sumaah Republic===
+*'''Motion:''' To appoint an Ambassador to the Sumaah Republic. Proposed: [[Bastion#Recent_Senate_Elections|Bastion]], Seconded: [[Sermersuaq#Recent_Senate_Elections|Sermersuaq]].
+* '''Outcome:''' '''Accalon''' of [[Highguard]] was elected as the [[Ambassador to the Sumaah Republic]]
+
+===Ambassador to Jarm===
+*'''Motion:''' To elect an Ambassador to Jarm. Proposed: [[Redoubt#Recent_Senate_Elections|Redoubt]], Seconded: [[The Barrens#Recent_Senate_Elections|The Barrens]].
+* '''Outcome:''' '''Nikita Teanga Volkov''' of [[Varushka]] was elected as the [[Ambassador to Jarm]]
+
+===Ambassador to the Commonwealth===
+*'''Motion:''' To elect an Ambassador to the Commonwealth. Proposed: [[Skarsind#Recent_Senate_Elections|Skarsind]], Seconded: [[Sarvos#Recent_Senate_Elections|Sarvos]].
+* '''Outcome:''' '''Lucia Sanguineo Rezia di Tassato''' of [[the League]] was elected as the [[Ambassador to the Commonwealth]]
+
+===Ambassador to Faraden===
+*'''Motion:''' To elect an Ambassador to Faraden. Proposed: [[Mournwold#Recent_Senate_Elections|Mournwold]], Seconded: [[Hercynia#Recent_Senate_Elections|Hercynia]].
+* '''Outcome:''' '''Ebenezer''' of [[the Marches]] was elected as the [[Ambassador to Faraden]]
+* '''Note:''' This election was [[Appointment_by_the_Senate#Escalation|escalated]] and received ratification by Empress Vesna
+
+==Commissions (Senate)==
+===Construct Mana Sinecure in Kallavesa===
+*'''Motion:''' This house should remain mindful of its duty to support the prosperity of hard-working citizens of this Empire. Small halls who have banded together to gather resources, yet tried and failed to afford a wayleave should not be abandoned. Proposed: [[Hahnmark#Recent_Senate_Elections|Hahnmark]], Seconded: [[Bregasland#Recent_Senate_Elections|Bregasland]].
+* '''Passed'''
+* '''Outcome:''' 5 thrones disbursed to Senator for Hahnmark.
+* '''Further reading:''' [[Construct Mana Sinecure in Kallavesa]]
+
+===Construct Smuggler's Cove in Salt Flats of Sanath===
+*'''Motion:''' To commission the construction of a smuggler's cove in the Salt Flats of Sanath. This construction will be fully funded and allow us to strike at the heartland of the Druj, furthering our information gathering capabilities, bringing us closer to an end to the war and liberating the subjugated peoples. Proposed: [[Miekarova#Recent_Senate_Elections|Miekarova]], Seconded: [[Weirwater#Recent_Senate_Elections|Weirwater]].
+* '''Passed'''
+* '''Further reading:''' [[Construct Smuggler's Cove in Salt Flats of Sanath]]
+
+===Fortify Delev===
+*'''Motion:''' To build a fortification in Delev, to complete the fortified walls surrounding it. Proposed: [[Karov#Recent_Senate_Elections|Karov]], Seconded: [[Volodmartz#Recent_Senate_Elections|Volodmartz]].
+* '''Passed'''
+* '''Further reading:''' [[Fortify Delev]]
+
+===Construct Eels Landing===
+*'''Motion:''' To develop the docks at Eels Landing in the North Fens, Bregasland. Ceding these docks to House Greywater in recognition of their service during the occupation of Bregasland. To grant the town of Eels Landing a market charter as funded by House Bolholt and the Black Vigil. Proposed: [[Bregasland#Recent_Senate_Elections|Bregasland]], Seconded: [[Therunin#Recent_Senate_Elections|Therunin]].
+* '''Passed'''
+* '''Outcome:''' Charter ratified by '''Emperor Vesna Borkovna Prochnost'''. More information on this opportunity can be found in the '''[[New_port,_old_wine#Eel's_Landing|New port, old wine]]''' wind of fortune
+* '''Further reading:''' [[Construct Eels Landing]]
+
+===Fortify Spider's Dream Bridge===
+*'''Motion:''' To fortify Spider's Dream Bridge. Request disbursement of funds (not much). Proposed: [[Necropolis#Recent_Senate_Elections|Necropolis]], Seconded: [[Segura#Recent_Senate_Elections|Segura]].
+* '''Passed'''
+* '''Outcome:''' More information on this opportunity can be found in the '''[[Dreaming_in_strands#Old_Precautions|Dreaming in strands]]''' wind of fortune
+* '''Further reading:''' [[Fortify Spider's Dream Bridge]]
+
+===Construct Nostos Docks===
+*'''Motion:''' To construct the Nostos Docks. Self funded. Proposed: [[Zenith#Recent_Senate_Elections|Zenith]], Seconded: [[Necropolis#Recent_Senate_Elections|Necropolis]].
+* '''Passed'''
+* '''Further reading:''' [[Construct Nostos Docks]]
+
+===Construct Inn of the Granite Stag===
+*'''Motion:''' To commission the Inn of the Granite Stag in Veltsgorsk, a folly establishing a ministry that will allow the holder of the Granites of Veltsgorsk to purchase additional white granite, up to a maximum of 12 wains a season. Fully self funded by the seat holder. Proposed: [[Volodmartz#Recent_Senate_Elections|Volodmartz]], Seconded: [[Ossium#Recent_Senate_Elections|Ossium]].
+* '''Passed'''
+* '''Outcome:''' More information on this opportunity can be found in the '''[[Deep_forests_and_dark_hills#Granites_of_Veltsgorsk|Deep forest and dark hills]]''' wind of fortune
+* '''Further reading:''' [[Construct Inn of the Granite Stag]]
+
+===Construct Roads of the Sky===
+*'''Motion:''' To build the Arch of the Sky, Southern Skyways, and Bridge of the Air – creating a white granite seat and roads throughout Spiral and Urizen. Proposed: [[Spiral#Recent_Senate_Elections|Spiral]], Seconded: [[Astolat#Recent_Senate_Elections|Astolat]].
+* '''Passed'''
+* '''Outcome:''' 25 thrones disbursed to Senator for Spiral. More information on this opportunity can be found in the '''[[Road_out_of_nowhere#Southern_Skyways|Road out of nowhere]]''' wind of fortune
+* '''Further reading:''' [[Construct Roads of the Sky]]
+
+===Construct Prosperous Counting House in Karsk I===
+*'''Motion:''' To commission the construction of a Prosperous Counting House in Karsk. Proposed: [[Ossium#Recent_Senate_Elections|Ossium]], Seconded: [[Hercynia#Recent_Senate_Elections|Hercynia]].
+* '''Withdrawn'''
+
+===Construct Court of the Spider King===
+*'''Motion:''' To commission a fane, the Court of the Spider King, in Elerael in Brocéliande. This will allow open communication with Arhallogen and allow the purchase of vital honey. To create the position of Emissary to Arhallogen to be appointed by Declaration of Candidacy in the Conclave. This will be self funded and will be ceded to Arhallogen. Proposed: [[Hercynia#Recent_Senate_Elections|Hercynia]], Seconded: [[Karov#Recent_Senate_Elections|Karov]].
+* '''Failed'''
+
+===Amend Spires of Dusk===
+*'''Motion:''' To amend the fortification, Spires of Dusk, remodelling to remove Druj elements and make a monument to the sacrifice paid by the Hounds of Glory. Does not require a commission and will be self funded by Castellan of Spiral Castle, Mortarion Carver. Proposed: [[The Barrens#Recent_Senate_Elections|The Barrens]], Seconded: [[Redoubt#Recent_Senate_Elections|Redoubt]].
+* '''Passed'''
+* '''Outcome:''' More information can be found in the '''[[Three_keys#The_Last_Hound|Three keys]]''' wind of fortune
+* '''Further reading:''' [[Amend Spires of Dusk]]
+
+==Commissions (Announcements)==
+===Construct City of Flowers===
+*'''Motion:''' To commission the work to transform Holberg into the City of Flowers
+* '''Announced:''' by Dima Vasilyevna Novosad, [[Master of the Koboldi]]
+* '''Outcome:''' Continues the work started in [[385YE_Winter_Solstice_Senate_sessions#Construct_Garden_City_in_Holberg|Winter 385YE]]. As per the '''[[The_greatest_city_in_the_world#Flower_Gardens|The greatest city in the world]]''' wind of fortune.
+* '''Further reading:''' [[Construct Garden City in Holberg]]
+
+===Construct Shchaslyvyy Outpost Sappery===
+*'''Motion:''' Borys Vardovich Strascovich, Boyar of the Iron Roads, announces the building of the Shchaslyvyy Outpost Sappery a (12 mithril) mana ministry in Varushka to be assigned by Tally of the Votes.
+* '''Announced:''' by Borys Vardovich Straskovich, [[Boyar of the Iron Roads]]
+* '''Outcome:''' Creates a ministry in Drownbark Forest, [[Ossium]]. 
+* '''Further reading:''' [[Construct Shchaslyvyy Outpost Sappery]]
+
+===Construct Printers Guild Mausoleum===
+*'''Motion:''' I announce the commission of the Printers Guild Mausoleum, to be constructed in Tassato. This commission will take 20 wains of mithril to construct. All provided in Pride by the Printers Guild to create a legacy for its members. This commission will create the title of Custodian of the Printers Guild Mausoleum. The title is to be appointed by League senators. The title is to be a tenured position.
+* '''Announced:''' by Gustavus Tolski van Temeschwar, [[Chair of the Wolf]]
+* '''Outcome:''' Creates a sinecure in [[Tassato]]. Work cannot be started until the Chair of the Wolf indicates which region of Tassato the mausoleum is to be built in.
+* '''Further reading:''' [[Construct Printers' Guild Mausoleum]]
+
+===Construct Iron Grove===
+*'''Motion:''' To commission "The Iron Grove", a herb garden sinecure in Kallavesa with the title "Keeper of the Iron Grove". It will be appointed by the Wintermark senators with tenure.
+* '''Announced:''' by Wren Ironclaw, [[Bearer of an Imperial Wayleave]]
+* '''Outcome:''' Creates a sinecure in Skymark, [[Kallavesa]].
+* '''Further reading:''' [[Construct Iron Grove]]
+
+===Construct Happiston Mana Exchange===
+*'''Motion:''' As bearer of the First Imperial Wayleave, I hereby announce the commission of a 16 wain mana ministry in Happiston in the Marches. This will create a Marcher National title called "The Reeve of the Happiston Mana Exchange" to be annually elected by a Tally of the Votes. Costs to be covered in entirety by "Morgan Townsend" through the Prosperity of Happiston Bakes.
+* '''Announced:''' by Vivane Knotes, [[Bearer of an Imperial Wayleave]]
+* '''Outcome:''' Creates a ministry in Chalkdowns, [[Mournwold]]. 
+* '''Further reading:''' [[Construct Happiston Mana Exchange]]
+
+===Construct Prosperous Counting House in Karsk II===
+*'''Motion:''' To commission the construction of a Prosperous Counting House in Karsk. Self funded by Wolfs Hearth and Embers of Iversgaard. Costing 5 weirwood, 5 white granite, and 30 crowns.
+* '''Announced:''' by Laughlan, [[Master of Rings]]
+* '''Outcome:''' More information can be found in the '''[[Forwards and Rewards]]''' wind of fortune
+* '''Further reading:''' [[Construct Prosperous Counting House in Karsk]]
+
+===Construct Feldspar Distillery===
+*'''Motion:''' To build Herbsheart/Feldspar Distillery in Skarsind. Creates the title 'Wise Arborist'. This is a type of herb garden sinecure. The title holder must be of the Yerende sept.
+* '''Announced:''' by Groza, [[Legion Engineer]]
+* '''Outcome:''' More information can be found in the '''[[Standing_in_the_sun#Herbsheart|Standing in the sun]]''' wind of fortune
+* '''Further reading:''' [[Construct Feldspar Distillery]]
+
+==Announcements==
+===Research Sorrowful Tunnels===
+*'''Motion:''' To send Snowstorm Henk to the Sorrowful Tunnels in Skarsind to lead a year-long investigation into the troll ruins. The ministry will supply a quantity of liao to counter the effects of that place.
+* '''Announced:''' by Vaclav Mladenovich Kosti, [[Minister of Historical Research]]
+* '''Outcome:''' [[Historical research]] on the matter will be delivered to the Minister at the Summer Solstice 386YE. Draws on an opportunity presented in the '''[[Long_shadows#The_Sorrowful_Tunnels|Long shadows]]''' wind of fortune.
+
+===Research Stories of Vardas and Mikkal===
+*'''Motion:''' The teachings of Vardas tell us to "seek out falsehoods and expose the truth" and it would be remiss of us to deny his own story this scrutiny. We must be prepared to challenge what we know and take joy in new possibilities. As such, I ask the Heirs of Lepidus to research further in the story of Vardas and his investigation surrounding Mikkal. May the findings give us new insight into identifying poisons in our own fields.
+* '''Announced:''' by Hazelelponi of the Shattered Tower, [[Lepidean Librarian]]
+* '''Outcome:''' [[Historical research]] on the matter will be delivered to the Librarian at the Summer Solstice 386YE
+
+===Hand of the Chancellor===
+*'''Motion:''' The Throne uses Hand of the Chancellor to disburse a third of the Senate's budget
+* '''Announced:''' by Vesna Borkovna Prochnost, [[the Throne]]
+* '''Outcome:''' 468 thrones disbursed to Empress Vesna Borkovna Prochnost
+
+===Dismantle Spy Network in Mareave===
+*'''Motion:''' The spy network in Mareave has done their virtuous work well. Knowledge is power, as is hard cash. Therefore, I announce the deconstruction of the Mareave spy network so our prosperity can be better invested elsewhere. Stand ready agents, for the prize that awaits.
+* '''Announced:''' by Bernard Dugdale, [[Imperial Spymaster]]
+* '''Outcome:'''
+
+===Amend Custodian of the Imperial War Memorial===
+*'''Motion:''' The permanently hallowed Book of the Dead is to be made regalia for the Highborn position of the Custodian of the Imperial War Memorial. This position is currently held by Jericho of the Suns of Couros. The book records the names of all heroes who died at Anvil, through the Sentinel Gate, and is kept by the Scribes of the Book of the Dead, representatives of all nations.
+* '''Announced:''' by Athiel Westernborn of the Cenotaph, [[Benefactor of Regalia]]
+* '''Outcome:''' The Book of the Dead has been added to the regalia of the [[Custodian of the Imperial War Memorial]]
+
+===Imperial Guerdon===
+*'''Motion:''' The Valiant Pegasus and the Wolves of War to receive the Guerdon
+* '''Announced:''' by Hector Smith, [[Quartermaster General of the Imperial Armies]]
+* '''Outcome:''' Military units supporting the two armies will receive shares in the [[Military_unit#Imperial_Guerdon|Imperial Guerdon]]

@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Announced by Bernard Dugdale, Imperial Spymaster">I, Bernard Dugdale, Imperial Spymaster announce that out of Loyalty to the General of the Red Wind Corsairs, honouring a previous agreement, that a new spy network will be constructed in Reinos, so to speed closure of the Jotun war. May the information finally be the first step in hamstringing Lasambrians and ending the western front.</quote>
+==Overview==
+* Creates a [[spy network]] in Reinos
+* Announcement by the [[Imperial Spymaster]]
+==Date==
+* Winter 385YE
+==Cost==
+* Standard costs apply
+* 10 wains of weirwood
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Reinos_Spy_Network}}
+==Outcome==
+* Once the work is complete, [[military unit|military units]] will be able to support this spy network to uncover information about Reinos

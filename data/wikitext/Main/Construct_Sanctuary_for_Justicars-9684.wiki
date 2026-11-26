@@ -1,0 +1,19 @@
+{{stub}}
+[[Category:Senate Motion]][[Category:384YE Spring]]
+__NOTOC__
+<quote by="Proposed Kahraman, Seconded Bastion">To build a sanctuary for justicars on the isle of Osseini. This will create the title "Justicar of Osseini" and be ministry for exorcism, cost 15 wains of white granite and 30 crowns. 30 crowns to be provided by High Exorcist.</quote>
+==Overview==
+* Creates a sanctuary for the [[Bones_in_the_ocean#Game_Information_:_Justicars|justicars]] on the [[Feroz#Isle_of_the_Osseini|Isle of the Osseini]] in [[Feroz]]. 
+* Details of this opportunity are provided in the '''[[Bones_in_the_ocean#The_Sanctuary_of_the_Justicars|Bones in the ocean]]''' wind of fortune. 
+* Passed at 70 Thrones
+==Date==
+* Spring 384YE
+==Cost==
+* As detailed in the wind of fortune
+* 15 wains of [[white granite]]
+* 30 crowns in labour costs
+* Three months to construct
+==Progress==
+{{CommissionProgress|Sanctuary_of_the_Justicars}}
+==Outcome==
+* Once complete the sanctuary would allow the [[Imperial title|title]] [[Justicar of Osseini]] to be appointed.

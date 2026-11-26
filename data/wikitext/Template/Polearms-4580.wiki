@@ -1,0 +1,4 @@
+* '''Form:''' Weapon. Takes the form of a [[Weapons_%26_armour#Polearms|polearm]]. You must be wielding this weapon to use its magical properties.
+* '''Requirement:'''  You must have the [[Combat skills#Weapon Master|weapon master]] skill to bond to this item.
+[[Category:Magic Items]]
+[[Category:Polearms]]

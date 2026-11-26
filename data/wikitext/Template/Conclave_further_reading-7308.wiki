@@ -1,0 +1,22 @@
+==Further Reading==
+<p style="font-size: 1.2em; font-weight: bold; margin: 10px 0 0 0;">Core Brief</p>
+* [[Conclave|Conclave Overview]]
+* [[Arcane Colloquium]]
+* [[Conclave order]]
+* [[Conclave session]]
+* [[Declaration|Declarations]]
+** [[Alignment]]
+** [[Candidacy]]
+** [[Concord]]
+** [[Dissemination]]
+** [[Endorsement]]
+** [[Endowment]]
+** [[Imperial lore]]
+** [[Interdiction]]
+** [[Sorcery]]
+<p style="font-size: 1.2em; font-weight: bold; margin: 10px 0 0 0;">Additional Information</p>
+* [[Conclave vault]]
+* Key Appointments to the Imperial Conclave
+** [[Archmage]]
+** [[Grandmaster]]
+** [[Prefect of the Conclave]]

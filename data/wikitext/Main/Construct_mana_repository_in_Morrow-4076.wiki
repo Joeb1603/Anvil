@@ -1,0 +1,24 @@
+<ic>To develop the mana crystal capacity of Morrow.<br>The creation of a Sinecure: The Phoenix Caverns, a mana crystal facility in Morrow, Urizen.<br>
+The owner of the Sinecure, the Augur of the Phoenix Caverns, whose duties will be to manage the caverns, will be appointed by Urizen Senators in unanimity, falling back to a greater majority nomination by the senate. <br><br>Proposed by Morrow, seconded by Karov.</ic>
+
+===Overview===
+* To create a [[sinecure]] providing a bounty of [[Game_items#Mana_Crystals|crystal mana]].
+* Defeated
+
+===Cost===
+* 10 wains of mithril
+
+===Date===
+* Spring Equinox 378YE
+
+===Voting===
+{| class="wikitable"
+|-
+! State !! Votes For !! Votes Against !! Result
+|-
+| In Principle || 8 || 18 || Failed
+|-
+|}
+[[Category:Failed Senate Motion]]
+[[Category: 378YE Spring]]
+__NOTOC__

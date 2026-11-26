@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Proposed: Reikos, Seconded: Casinea">To construct the prosperous counting house in Reikos for seven white granite and seven weirwood. Fully funded by Highguard benefactors. This creates the title of Benefactor of High Chalcis, a Highguard national title appointed by our assembly. Giving herbs as well as the virtue funding, and allows the title to address Senate in response to certain opportunities. The title is responsible for using the herbs of High Chalcis' gardens to virtuously benefit the Empire and oversees these gardens.</quote>
+==Overview==
+* Constructs a [[sinecure]] in [[Reikos]] responsible for using the [[Benefactor_of_High_Chalcis#Gardens_of_High_Chalcis|Gardens of High Chalcis]] to heal the virtuous throughout the Empire as per the '''[[Forwards_and_Rewards#High_Benefits|Forwards and Rewards]]''' wind of fortune
+* Passed
+==Date==
+* Winter 385YE
+==Cost==
+* Costs as per opportunity
+* 7 wains of weirwood
+* 7 wains of white granite
+* 42 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Reikos_Counting_House}}
+==Outcome==
+* Now that work is complete, the [[Benefactor of High Chalcis]] will be able to be appointed by the National Assembly of Highguard for the first time at the Spring Equinox 386YE. In addition the [[Rewarding|Virtue Fund]] will receive 10 crowns each summit in donations from citizens of the territory, starting at the Summer Solstice 386YE

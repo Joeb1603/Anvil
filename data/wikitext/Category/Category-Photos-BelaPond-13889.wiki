@@ -1,0 +1,3 @@
+Bela has a ko-fi which you can find [https://ko-fi.com/belapond here]
+
+When adding photos by this artist, please use <nowiki>{{BelaPond}}</nowiki>

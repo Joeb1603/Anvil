@@ -1,0 +1,4 @@
+* '''Form:''' Talisman. Takes the form of a [[Weapons & armour#Shields|full-sized shield]]. You cannot make a magic buckler. You must be wielding this shield to use its magical properties.
+* '''Requirement:''' You must have the [[Combat skills#Shield|shield]] skill to bond to this item.
+[[Category:Magic Items]]
+[[Category:Shields]]

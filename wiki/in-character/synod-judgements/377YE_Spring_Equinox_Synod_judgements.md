@@ -1,0 +1,92 @@
+---
+title: 377YE Spring Equinox Synod judgements
+source: https://www.profounddecisions.co.uk/empire-wiki/377YE_Spring_Equinox_Synod_judgements
+class: in-character
+topic: synod-judgements
+categories:
+- Synod
+- Synod Results
+- Synod Judgements
+- 377YE Spring
+event: 377YE Spring
+last_edited: '2026-05-05T10:21:26Z'
+revision: 138021
+---
+
+# 377YE Spring Equinox Synod judgements
+
+## The Synod as of Spring, 377yE
+
+At the Spring Summit, 377YE, the General Assembly stood at an estimated 124 priests.
+
+## Appointments
+
+At the end of the Spring Equinox, 377YE, the Imperial Titles in the Synod were held by:
+
+|  |  |  |
+| --- | --- | --- |
+| **Virtue** | **Cardinal** | **Gatekeeper / Conscience** |
+| *Ambition* | Bishop Olek of the League | Serrusto Caeli Rezia di Tassato of the League |
+| *Courage* | Lazarus of Highguard | Asher of Felix's Watch, Highguard |
+| *Loyalty* | Bishop Julius Cavita of the League | Friar Alan Young of the Marches |
+| *Pride* | Josephine of Dawn was appointed Cardinal of Pride | Meurig Tystwarden of the Navarr |
+| *Prosperity* | Bishop Alexandru Vintla of the League | Darius i Esmara i Erigo of the Brass Coast |
+| *Vigilance* | Petra Petrivna Melikov of Varushka | Silas of the Suns of Couros, Highguard |
+| *Wisdom* | Guide Tockryn Nighthaven of the Navarr | Abaddon de Rondell of Dawn |
+| *The Way* | Bishop Antonnio Vanetti of the League | Gralka, an Imperial Orc |
+
+## Synod Funds
+
+The following is a summary of the Synod's Virtue Fund:
+
+|  |  |  |
+| --- | --- | --- |
+| *Starting Value* | 3 Crowns / 1 Ring |  |
+| *Income* | 22 Crowns | All from the auction of [pure liao](../../mixed/religion/Liao.md#true-liao). |
+| *Rewards* | - |  |
+| *Closing Value* | 25 Crowns / 1 Ring |  |
+
+## Synod Judgements
+
+- Yitzhak of the Highguard National Assembly raised a judgement relating to the creation of a National Choirmaster defeated 102 to 50.
+
+- Marrok de Carsenere, through a greater majority of the Assembly of Vigilance, ensured members of the Collegiate of the Archmage Nicovar faced Inquisition
+
+- Cardinal Julius Cavita, through a greater majority of the Assembly of Nine, delivered a judgement of condemnation against Igor Borison and Ivanna Martina Denisovitch of Varushka for the religious crime of Heresy.
+
+- Tancred of Dawn, through the Dawnish National Assembly, revoked the title of General held by Erik Rykker.
+
+- Torsch, an Imperial Orc, through a lesser majority of 50 to nothing in the Assembly of the Way, required Griski of Temeschwar face Inquisition. Griski did not present themselves.
+
+- Cardinal Petra, through a greater majority of the Assembly of Nine, required the representatives of the Spire of the Celestial Cascade at Anvil face Inquisition.
+
+- Cardinal Petra, through a greater majority of the Assembly of Nine, escalated the judgement of inquisition to a condemnation of Sophus Cascade for the religious crime of blasphemy.
+
+- Asher of Felix’s Watch, through a greater majority of the Assembly of Courage, sought the reappointment of the Assembly’s Cardinal.
+
+- Cardinal Lazarus, through a greater majority of the Assembly of Nine, condemned Xavier Cascade for the religious crimes of blasphemy and heresy.
+
+- Darius I Ezmara I Erigo failed to obtain a greater majority of the General Assembly for the recognition of Zemress the Exemplar as a Paragon of Prosperity.
+
+- Lady Josephine of Dawn, through a greater majority of the Assembly of Pride, sought the reappointment of the Cardinal of that Assembly
+
+- Abraham of Highguard, through a lesser majority of the Assembly of Vigilance, required that Abraham of Highguard face inquisition.
+
+- Xavier of the Spire of the Celestial Cascade in Urizen, through a lesser majority of the Urizen National Assembly, revoked the title of Senator from Hector of the Spire of the Celestial Cascade in Urizen.
+
+- Antonio Raoul Calgone, through a lesser majority of the League National Assembly, declared the belief that there should be, at Anvil, a location consecrated to each of the Imperial Virtues.
+
+## Visionaries
+
+The following individuals were selected by the Gatekeepers to receive pure liao visions of their past lives at the Spring Equinox:
+
+- Gatekeeper Asher of Highguard
+- Master of the Mint, Nicolo Barossa of the League
+- General Floree de Rondell of Dawn
+- Cardinal Tockrynn Nighthaven of the Navarr
+- General Ed of the Marches
+- Senator Bohemond de Rondell of Dawn
+
+---
+
+Categories: [Synod](../../indexes/by-category/Synod.md), [Synod Results](../../indexes/by-category/Synod_Results.md), [Synod Judgements](../../indexes/by-category/Synod_Judgements.md), [377YE Spring](../../indexes/by-category/377YE_Spring.md)

@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:385YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Holberg, Seconded: Segura">To commission the Lakesedge Highway connecting the Holmauer Gate to Misericorde through Rebeshof in Holberg. This creates the Imperial title Rebeshof Roadwarden, to be elected annually by the senators of the League.</quote>
+==Overview==
+* Constructs a sinecure in [[Holberg]] as per the '''[[Schools_and_sawmills#The_Lakesedge_Highway|Schools and sawmills]]''' wind of fortune
+* Passed
+==Date==
+* Autumn 385YE
+==Cost==
+* Standard costs apply
+* 30 wains of white granite
+* 54 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Lakesedge_Highway}}
+==Outcome==
+* Now completed, the position of [[Rebeshof Roadwarden]] will be available for the senators of the League to appoint for the first time at the Winter Solstice 385YE for a limited term.

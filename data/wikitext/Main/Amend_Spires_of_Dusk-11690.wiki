@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Spring]]
+__NOTOC__
+<quote by="Proposed: The Barrens, Seconded: Redoubt">To amend the fortification, Spires of Dusk, remodelling to remove Druj elements and make a monument to the sacrifice paid by the Hounds of Glory. Does not require a commission and will be self funded by Castellan of Spiral Castle, Mortarion Carver.</quote>
+==Overview==
+* Remodels the [[The_Barrens#Spires_of_Dusk|Spires of Dusk]] as per '''[[Three_keys#The_Last_Hound|Three keys]]''' wind of fortune
+* Passed
+==Date==
+* Spring 386YE
+==Cost==
+* Costs as per opportunity
+* 10 white granite
+* 50 thrones
+* Three months to complete
+==Progress==
+{{CommissionProgress|Amend_Spires_of_Dusk}}
+==Outcome==
+* Now complete, the Spires of Dusk (or Houndsgate) have been remade; the last traces of Druj power have been removed and replaced with an imposing symbol of Imperial rule that sends a clear signal to the Empire and every sept in the Barrens, that the territory is Dawnish, now and for the future.

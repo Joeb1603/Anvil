@@ -1,0 +1,84 @@
+---
+title: The League magical traditions
+source: https://www.profounddecisions.co.uk/empire-wiki/The_League_magical_traditions
+class: mixed
+topic: magic/lore
+categories:
+- Magic
+- The League
+- Nations
+last_edited: '2025-07-12T10:20:25Z'
+revision: 123553
+aliases:
+- League magical traditions
+---
+
+# The League magical traditions
+
+*[Image: Troupes of magicians compete for the patronage of the most powerful guilds.](https://www.profounddecisions.co.uk/empire-wiki/File:Gancius.jpg)*
+
+Theatre is a vital part of League society, and theatrical groups called [troupes](../../../in-character/nations/the-league/Troupe.md) are common. From the most bombastic performances in lavish theatre houses to the simplest productions performed in the streets themselves – the citizens love spectacle and little is more spectacular than League theatre. In part this is due to the common use of magic by a troupe’s performers. Some of this magic is simple stage tricks, but skilled performers use can weave quite literally enchanting performances. Quite how many members of a troupe can perform formal magic is a closely kept secret. A troupe demands every bit as much loyalty as any guild and discretion about the abilities of the members is considered just another part of the rules. Whether producing a performance of Scillio’s "*The Fallen Herald*" or attempting a dangerous ritual by command of a Merchant Prince, every member of a troupe plays a part.
+
+To the League, magic is a commodity like any other. Although Urizen lays claim to the secrets of grand power and treat it with great dignity, in the League it is the money of a wealthy patron that pays for that dignity. As such, the show a troupe puts on is as important to their reputation as the results they produce. The performers weave knots in time as well as space, drawing influences from the past to spread their patron’s influence in the future. They must make a show of invoking symbols of ambition, loyalty and prosperity, as much because a merchant prince enjoys watching a bravura performance as because of their importance to the ritual.
+
+Most troupes wear masks when they perform ritual magic, and guard these masks carefully. The notion of taking on a character for the purposes of ritual is well established. When one knots the ties on a mask in order to perform enchantment, one does not simply wear a piece of cloth or leather or paper, one is wearing the combined weight of all the stories told about that character - and all the stories that can yet be told. The most famous masks in the League are in the Armetto Theatre house, in [Sarvos](../../../in-character/nations/the-league/Sarvos.md). These masks are old and, in some cases, nothing special to look at, but they are exceptionally potent in the hands of a skilled performer.
+
+There is also a belief that these masks not only empower the ritual, but also ensure that any malign influences or backlash will fall on the mask, rather than the wearer because they conceal the identity of the magician. As a consequence, some masks are believed literally to be cursed items - items that cannot be destroyed because to do so is to cause the weight of the malign energies contained within to be released. Several stories - and indeed plays - tell of cursed masks and the trickery that causes their wickedness to be released on the undeserving. (see also [masks](The_League_hearth_magic.md#masks) in Hearth Magic).
+
+*[Image: Artwork by Joanna Bendle](https://www.profounddecisions.co.uk/empire-wiki/File:League.png)*
+
+Rivalry between troupes is famously intense, and long-standing feuds are commonplace. Troupes compete for the patronage of the most powerful guilds, and performers have even been murdered for changing troupe or giving a bad performance. Open violence is rare, but public duels between performers are an important part of advertising and promoting a troupe's plays - especially when an opening night is approaching. Such matches always draw a fine crowd as performers are expected to retort and riposte while they fight; the eventual victor will be the one who most entertains the crowd the most rather than the one who strikes the winning blow.
+
+## Mountebanks
+
+The troupes of the League would like to believe that there is no other tradition of magic in the cities, but this is far from true. There is an underclass of street-mage known as [mountebanks](../../../in-character/nations/the-league/Mountebank.md) - a derogatory term first used by the troupes that many of these street mages have claimed for themselves as a badge of pride. Their rough magic is more immediate and improvised, rarely for the benefit of a patron, and often performed on street corners. Many mountebanks are part conjurer, part con-artist, with a widely-held reputation for being crooks and scoundrels - or so the troupes would have you believe. While not all mountebanks are confidence tricksters, enough of them are that their entire profession is viewed with some suspicion.
+
+Many mountebanks combine an understanding of incantations with a little ritual magic, and supplement their understanding with trinkets and even potions and elixirs. They tread a fine line between entertainer and criminal, and those who step over the line are in danger of the serious repercussions that face anyone who cannot follow the rules in League society.
+
+The archetypal example of the mountebank con is the [shell game](http://en.wikipedia.org/wiki/Shell_game), playing on the greed and hopefulness of their victims to trick them into making a wager they cannot win.
+
+## Realms
+
+| Grendel Realms | |
+| --- | --- |
+| [Day](../../../out-of-character/rules/Day_magic.md) | Sky |
+| [Spring](../../../out-of-character/rules/Spring_magic.md) | Sea |
+| [Autumn](../../../out-of-character/rules/Autumn_magic.md) | Sand |
+| [Winter](../../../out-of-character/rules/Winter_magic.md) | Salt |
+| [Summer](../../../out-of-character/rules/Summer_magic.md) | Stone |
+| [Night](../../../out-of-character/rules/Night_magic.md) | Fog |
+
+The Apulians have their own names for the realms and most have refused to drop them. Using the correct names for the realms helps to better understand what they do, and in their view, their names *better* capture the essence of a realm's power. Winter magic isn't actually about the season of *Winter* after all, so many Apulian orcs see the name as somewhat foolish. Nobody imagines that Salt magic is about salt either, but Salt much more accurately conveys what the realm does. Salt corrodes and destroys, but it can also be used to preserve. Most traditional human magicians in the League regard these new names with some disdain, but a few mountebanks and troupe magicians claim they have been useful when performing magic.
+
+The Apulians present the six realms as a hierarchy, a practice that definitely hasn't caught on. They claim the most important realm is the Sky - from which information and enlightenment flows. They also prize the uncontrollable Sea, the source of wild storms and violent winds, and the fountain of life. The realm of Sand is valued for its many economic benefits, sand is mutable and workable, ordered and measured, though it can shift suddenly beneath you. Apulians disagree on whether Salt is more important than Stone or vice versa, but most agree that Fog is the least significant of all the realms.
+
+The most common of the [magical traditions](Magical_tradition.md) practised by the Apulians are [Goetia](Aspect_magic.md#goetia) and [Astronomancy](Astronomancy.md). They have long engaged in the practice of paying lip service to any belief or religious ceremony that will grant them even the slightest advantage; they would happily pour out wine for *Lord Isso Mãos de Ouro* in the morning before a trade discussion and then offer a prayer to one of the *Seven Crowns* in the evening. This readiness to accept the power of anything that might tip the scales has led to a willingness to take on the aspects of certain eternals when performing rituals. Eternals such as the [Mother of Wrecks](../../../in-character/eternals/Siakha.md) and the [Unblinking Eye](../../../in-character/eternals/Kimus.md) are often beseeched for aid when performing rituals that align with their interests. The other common tradition is Astronomancy, which is unsurprising given their history as a naval power and the use of stars in navigation. Certain constellations are invoked more often than others; [the Key](The_Key_and_The_Lock.md#the-key), [the Door](The_Door.md), and [the Stallion](The_Stallion.md) are three of the most commonly called upon.
+
+## Further Reading
+
+Core Brief
+
+- [Introduction](../../../in-character/nations/the-league/The_League.md)
+- [The people](../../../in-character/nations/the-league/The_League_people.md)
+- [Culture and customs](../../../in-character/nations/the-league/The_League_culture_and_customs.md)
+- [Look and feel](../../../out-of-character/costume/The_League_look_and_feel.md)
+- [Hearth magic](The_League_hearth_magic.md)
+
+Additional Information
+
+- [History](../../../in-character/nations/the-league/The_League_history.md)
+- [Leadership](../../../in-character/nations/the-league/The_League_leadership.md)
+- [Economic interests](../../../in-character/nations/the-league/The_League_economic_interests.md)
+- [Military concerns](../../../in-character/nations/the-league/The_League_military_concerns.md)
+- [Religious beliefs](../../../in-character/nations/the-league/The_League_religious_beliefs.md)
+- Magical traditions
+- [Territories](../../../in-character/nations/the-league/The_League_territories.md)
+- [Children](../../../out-of-character/events/The_League_children.md)
+- [Music](../../music/The_League_music.md)
+- [Archetypes](../../../indexes/by-category/Archetype.md#the-league)
+- [Groups](../../../out-of-character/groups/The_League_groups.md)
+- [Egregore](../../../in-character/nations/the-league/League_Egregore.md)
+
+---
+
+Categories: [Magic](../../../indexes/by-category/Magic.md), [The League](../../../indexes/by-category/The_League.md), [Nations](../../../indexes/by-category/Nations.md)

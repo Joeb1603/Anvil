@@ -1,0 +1,23 @@
+<ic>Permission to raise a fortress in the territory of Miekarova to defend against possible threats from the Northern Barbarians<br><br>''Proposed by Volodmartz, seconded by Zenith''</ic> 
+
+===Overview===
+* The creation of a new [[fortification]], currently unnamed, in [[Miekarova]].
+* This motion was defeated.
+
+===Date===
+* Winter 378YE
+
+===Costs===
+* Materials: 80 [[Bourse#White_Granite|white granite]] and 20 Thrones. ([[Fortification#costs|Standard costs]]).
+* Time: 1 year to construct
+* Upkeep: 10 Thrones per season.
+
+===Progress===
+None
+
+===Campaign Outcome===
+This would have allowed the construction of a rank one fortification in Miekarova.
+
+[[Category:Failed Senate Motion]]
+[[Category: 378YE Winter]]
+__NOTOC__

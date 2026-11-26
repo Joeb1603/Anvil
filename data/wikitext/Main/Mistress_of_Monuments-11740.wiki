@@ -1,0 +1,22 @@
+[[Category:Synod]][[Category:Title]][[Category:The Way]]
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Labyrinth.jpg|caption=This title is appointed by the Assembly of the Way|width=250px}}</div>
+The Mistress of Monuments is an [[Imperial title]] appointed by the [[Assembly#The_Virtue_Assemblies|Assembly of the Way]]. The title was [[386YE_Spring_Equinox_Senate_sessions#Create_title_of_Mistress_of_Monuments|created]] by the [[Senate]] during the Spring Equinox 386YE following a proposal to [[Forwards_and_Rewards#Small_Monuments|create a monument to Jonathon Piper of Cockscroft]] in the Mournwold. The responsibilities of the title were [[388YE_Spring_Equinox_Senate_sessions#Amend_Mistress_of_Monuments|amended]] during the Spring Equinox 388YE to make clear that the title was intended to create virtuous inspirations.
+
+==Responsibilities== 
+The Mistress of Monuments is responsible for working with Imperial artists to commemorate virtuous inspiration with monuments and statues. 
+
+==Powers==
+===Commission Edifices===
+Once per summit, the Mistress of Monuments can [[commission]] the construction of a single [[edifice]] up to nine wains in size. This commission does not count towards the [[Commission#Maximum_Commissions_Available|limit]] on the number of commissions available each season.
+__NOTOC__
+To use this power, the Mistress of Monuments provides an [[Senate_announcement|announcement]] to the Civil Service, and then presents the announcement to the Senate. No voting is possible by the Senate at this point, as the power has been delegated to the Mistress of Monuments. The [[Synod]] may, however, choose to exercise their [[veto]] over the Mistress of Monuments' commission.
+
+The Mistress of Monuments can email [mailto:plot@profounddecisions.co.uk plot@profounddecisions.co.uk] with a description of the edifice they have commissioned. A description of a nine wain commission should be around 50 words.
+
+==Appointment==
+The Mistress of Monuments is appointed during the Summer Solstice each year by a [[Judgement]] of [[Appointment]] in the [[Assembly#The_Virtue_Assemblies|Assembly of the Way]]. 
+
+The Mistress of Monuments can be revoked by the Assembly of the Way, the [[Assembly#General_Assembly|General Assembly]], and the [[Assembly#Assembly_of_the_Nine|Assembly of Nine]].
+<!--{{CaptionedImage|file=MistressMonuments.jpg|caption='''CHARACTER''', Mistress of Monuments|align=left|width=250}}-->
+{{RecentElections|Mistress_of_Monuments}}

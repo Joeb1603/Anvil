@@ -1,0 +1,46 @@
+[[Category:Title]][[Category:Foreign Nations]][[Category:Senate]][[Category:Ambassador]]
+{{CaptionedImage|file=Accalon5901.jpg||caption=Accalon of Felix's Watch, Ambassador to the Sumaah Republic|align=left|width=350}}
+==Overview==
+The Ambassador to the [[Sumaah Republic]] is an [[Imperial title]]. It is an Imperial position appointed by the Imperial Senate. The Sumaah embassy to the Empire stands in the [[Highguard|Highborn]] city of [[Necropolis#The Necropolis|Necropolis]], while the Imperial embassy to the Republic is built in the port-city of [[Foreign_ports#Zemeh|Zemeh]].
+
+As a nation that in theory at least shares the Empire's faith, relations with the Sumaah Republic have been subject to significant ups and downs over the years. Indeed, [[Trade_winds#The_Sumaah_Republic|increasing dissatisfaction]] with the Empire culminated in a [[Price_of_prosperity#War_with_Sumaah|declaration of war]] by the Republic in late 379YE. That declaration was rescinded during the Summer Solstice 382YE, but at the same time the Sumaah declared themselves the custodians of the Way and denounced Imperial claims to authority over the religion. In recent years, relations with the Republic have significantly improved, partly due to their shared interest in the [[Liberty Pact]] but also due to a cordial agreement to separate the Imperial Synod and the Sumaah Synod. At the moment, relations are quite positive.
+
+Prior to the Winter Solstice 387YE, the Ambassador was able to purchase goods from merchants and those seeking favour. This was changed, along with the rest of the ambassadors, when the Senate voted to [[387YE_Winter_Solstice_Senate_sessions#Amend_Imperial_Embassies|amend]] the embassies to end the practice, removing mercantile support and the upkeep costs at the same time.
+==Responsibilities==
+The [[ambassador]]  is expected to represent the Empire in relations with the [[Sumaah Republic]]. They have all the responsibilities [[Ambassador#Responsibilities|common]] to an Imperial ambassador. As such they are responsible for representing the Empire to the Republic, and to a degree vice versa. They are presented as the primary contact for any official Imperial business relating to the Sumaah, so their letters carry much greater weight and importance than anyone bar [[the Throne]]. They are expected to conduct or oversee any [[Ambassador#Treaty|treaty negotiations]] with that nation, and receive official [[Ambassador#Delegation|delegations]]. The [[civil service]] will direct representatives and citizens of the foreign power to the ambassador wherever appropriate.
+{{Diplomacy|nation=[[Sumaah Republic]]|status=Foreigner|port=[[Sumaah_Republic_ports#Zemeh|Zemeh]]|ambassador=Accalon of [[Highguard]]|counterpart=[[Ambassador_to_the_Sumaah_Republic#Sumaah_Ambassador|Oxtitocszin]]}}
+==Powers==
+===Imperial Ambassador===
+The title has all the [[Ambassador#Powers|common powers]] of an ambassador: they can receive a formal [[Ambassador#Delegation|delegation]], and may prepare a [[Ambassador#Treaty|treaty]].
+===Stipend===
+The Ambassador receives a [[Imperial_treasury#Stipends|stipend]] of four thrones each season.
+{{RecentElections|Ambassador_to_the_Sumaah_Republic}} 
+==Appointment==
+The Ambassador to Sumaah is an Imperial position [[Appointments_by_the_Senate#Imperial_Position|appointed by the Senate]]. Any Imperial citizen can hold this title, and the ambassador serves for a year. They can be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+==Ambassadorial Lore==
+===Sumaah Embassy===
+The [[embassy]] of the Sumaah Republic is found in the [[Highguard|Highborn]] city of [[Necropolis#The_Necropolis|Necropolis]] in the territory of the [[Necropolis|same name]]. After a [[Construct Sumaah embassy|false start]] in Winter 378YE, the [[Senate]] eventually [[commission|commissioned]] the embassy in [[Construct Sumaah embassy II|Spring 379YE]]. The project was dogged by problems, and not completed until shortly before the Spring equinox 380YE. This delay exacerbated [[Trade_winds#The_Sumaah_Republic|the growing fury of the Sumaah Republic]] towards the Empire, which culminated in the [[Price_of_prosperity#War_with_Sumaah|declaration of war]] by the Republic in late 379YE.
+
+The white granite compound is built after the Sumaah style - a central five-tiered ziggurat surrounded by several single-story buildings nestled in extensive gardens. The embassy staff are primarily representatives of the High House of Pride, although the other assemblies and the House of the People are also represented. Dressed in the white robes the Sumaah favour when travelling abroad, they are a regular site at the various sites of spiritual importance around the city and regularly engage in pilgrimages to [[Inspirational location|inspirational locations]] around the Empire.
+
+The Imperial embassy to the Republic is built in the coastal city of [[Foreign_ports#Zemeh|Zemeh]], and much like its counterpart is constructed in a distinctly Imperial style that owes much to Highborn tradition. The civil servants posted there report a great deal of attention from the High House of [[Vigilance]], but also suggest that the obviousness of their interest is actually a nod toward the good relations between the two nations - they don't attempt to hide the fact they are keeping an eye on the embassy.
+
+{{WingedMessenger|address=Oxtitocszin, Censor of wood, metal and stone, of the High House of Pride, Sumaah Republic}}
+===Sumaah Ambassador===
+The Sumaah ambassador to the Empire is ''Oxtitocszin'', who holds the rank of Censor of wood, metal and stone and is a member of the High House of Pride (the Sumaah equivalent of the Pride Assembly, but with significantly more responsibility and leeway to pursue foreign diplomacy). They advise not just the Sumaah ''präster'', but the House of the People (the Sumaah equivalent of the Imperial Senate). By all accounts they are an even-handed, level-headed individual, and a devout practitioner of the Way.
+===Ambassadorial Briefings===
+As discussed in the 388YE Autumn Equinox wind of fortune '''[[So_little_I_wanted,_so_little_I_got#Ambassadorial_Briefings|So little I wanted, so little I got]]''', the [[civil service]] have recently reinstituted Ambassadorial briefings. At least in the short term, the civil service have resumed furnishing Imperial ambassadors ''who are supported by [[embassy]] staff'' with individual briefings where necessary and appropriate. To maintain transparency and preserve continuity, the briefings are made available to those who wish to review them ''after'' the summit where they are delivered, in a similar way to which [[historical research]] is made public. Only those elements of a briefing that are specifically personal to the ambassador may be removed, and only where they are clearly not of interest to the Empire. At the end of the year, this procedure will be reviewed again, to ensure that it is fit for purpose.
+* [[388YE Autumn Sumaah ambassador briefing]]
+{{Sumaah Links}}
+<!--
+==Archive Stuff==
+===Sumaah Merchants===
+<div style="display:inline-block; float: right; width: 600px; margin-left: 10px;">
+<table><tr><td style="background-color: LightBlue;">Total Money Spent</td><td style="background-color: LightBlue;">Production</td></tr>
+<tr><td>8 Crowns</td><td>6 Liao, 5 Orichalcum, 5 Dragonbone, 3 Imperial Roseweald</td></tr>
+<tr><td>30 Crowns</td><td>18 Liao, 15 Orichalcum, 15 Dragonbone, 9 Imperial Roseweald</td></tr>
+<tr><td>60 Crowns</td><td>30 Liao, 25 Orichalcum, 25 Dragonbone, 15 Imperial Roseweald</td></tr>
+<!--<tr><td>120 Crowns</td><td>42 Liao, 35 Orichalcum, 35 Dragonbone, 21 Imperial Roseweald</td></tr>-->
+</table></div>
+<!-- Based on the production of a trade fleet dealing with [[Sumaah_Republic_ports#Zemeh|Zemeh]]
+The [[embassy]] in [[Necropolis]] means that the ambassador enjoys the benefits of [[Ambassador#Mercantile_Support|mercantile support]] from traders prepared to deal with the Imperial citizens. As a [[ministry]], this allows them to purchase quantities of special materials at a set price. The ambassador spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.-->

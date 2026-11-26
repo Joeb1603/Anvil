@@ -1,0 +1,62 @@
+==Overview==
+These preparations originate with the [[Yerende]], now one of the septs of the [[Imperial Orcs]]. These recipes were preserved for generations amongst the sept whilst they served under the [[Druj]] in [[Ossium]]. Once the [[Construct_Palace_of_Flowers|Palace of Flowers]] was constructed, and the sept joined the nation, work was put into disseminating the recipes across the Empire. The project was completed after the Winter Solstice 385YE, and following the completion of the [[Wise Arborist|Feldspar Distillery]], they became available for all Imperial apothecaries to learn shortly before the Winter Solstice 386YE. These potions and tonics share a property with the recipes that make up the [[Unshackled Gift]] in that they are effective only when consumed by [[orc|orcs]]; humans who try to use one of these preparations merely suffer from potentially unfortunate side effects. 
+
+The Yerende kept this knowledge from the Druj for several reasons, but one is that their apothecaries and shamans share a belief that the potions help an orc, especially an orc magician, draw on the strength of their ancestors who urge them to create [[Yerende#The_Great_Garden|the Great Garden]]. According to some of their number, they feared that if the orcs of the Mallum gained access to this lore, it would help their [[Arkad#Vikari|Vikari]] and [[Druj_lore#Ghulai|Ghulai]] make contact with the malicious and corrupt magicians of their own septs, helping them to find the magical power to reshape the world into a dark mirror of the Great Garden, a place of endless suffering and fear.
+{{CaptionedImage|file=Flax's Potions.jpg|title=These potions allow an orc to temporarily strengthen their connection to an ancestor|align=right|width=300}}
+==Greenmaster's Reach==
+According to stories of the Yerende, the first Greenmaster's Reach was brewed by a long-dead Greenmaster whose name is lost to history, in far off [[Ossium#Drownbark_Forest|Drownbark Forest]]. This Greenmaster supplied their warrior-king, Brandicar, with enough doses to turn the tide in a great battle with the hated Druj. The Druj were defeated, but Brandicar died of a poisoned wound she suffered in the battle, having pushed too hard and too far to win victory at any cost.
+
+Now, this potion serves not only as a useful tool for controlling a fight in a pinch but as a way for orcs to momentarily strengthen their connection to the ancestors. It is sometimes employed by Yerende who know they will face a great test of their commitment and dedication. The effects of the potion can be overwhelming for an unsuspecting orc, and many older Yerende caution against overuse, lest it become a dependence.
+* '''Form:''' Liquid.
+* '''Description:''' This thick, orange liquid leaves streaks on the inside of the container. It has a consistency similar to honey with a strong, meaty taste.
+* '''Roleplaying Effects:''' If you are an orc, you feel a surge of conviction of your past actions; you are strongly aware of the voices of those ancestors that encourage you to strengthen yourself or improve your status, urging you to surpass what you have achieved so far. If you are a human, you feel a dizzying sense of euphoria that slowly builds. At the same time you feel your senses becoming keener until any strong sensory stimulation becomes almost painful.
+* '''Mechanical Effects:''' If you are an orc and you have the [[magician]] skill, you can cast either [[Repel]] or [[Entangle]] once without expending personal mana or crystal mana within 10 seconds. You do not need to be able to cast either spell to benefit from this effect. If you are a human, or an orc who does not have the magician skill, the potion has no mechanical effect. 
+* '''Recipe:''' One dram each of [[realmsroot]] and [[Imperial Roseweald|Imperial roseweald]].
+
+==Brokendraught==
+The Yerende teach that Brokendraught puts the drinker briefly in contact with Maren, a Yerende ancestor, who possessed powerful magic and held life and death in their hands. They claim it is Maren who guides the hands of those who use the potion to cast spells and some Yerende herbalists consider it inappropriate to share the 'draught with those who haven't been taught how to hear Maren's words.
+
+Regardless of the truth of these beliefs, any orc that drinks the potion can use its power to perform limited feats of [[spellcasting]], to mend broken limbs or break the weapons of an enemy. The sensations that come with Brokendraught can be overwhelming for some, and young Yerende magicians are encouraged to be cautious about resorting to the elixir.
+
+* '''Form:''' Liquid.
+* '''Description:''' This green liquid has tiny pale flecks floating within it. It smells strongly of blood, and a tiny droplet on your tongue reveals it tastes strongly of liquorice.
+* '''Roleplaying Effects:''' If you are an orc, you feel a sense of power surge through you that quickly becomes almost overwhelming. You feel empowered to take action, doubts and worries feel distant and indistinct. Taking action to reduce or prevent suffering or pain feels righteous and empowering, and after the effect ends you may experience a craving to feel it again. If you are human, you become increasingly certain that you can "smell" magic around you as your senses shift and become unreliable. You quickly become disoriented and confused, unsure of what is real and what is a hallucination. 
+* '''Mechanical Effects:''' If you are an orc and you have the [[magician]] skill, you can swift cast either [[Restore Limb]] or [[Shatter]] once without expending personal mana or crystal mana within 10 seconds. You do not need to be able to cast either spell to benefit from this effect. If you are a human, or an orc that does not have the magician skill, the potion has no mechanical effect. 
+* '''Recipe:''' One dram each of [[realmsroot]] and [[Cerulean Mazzarine|cerulean mazzarine]].
+
+==Runa's Whisper==
+This potion is difficult to stomach without preparation; an orc who perseveres and drinks a draught of Runa's Whisper is reminded of the fragility of life; of the [[Calls#VENOM|poisons]] and diseases that can see the most powerful brought low. This can be unsettling for some, especially if used without time to prepare.
+
+The name is a clear reference to [[Yerende#Beliefs|Runa]], the Soft-Speaker, and an orc who perseveres through the sickeningly sweet taste can use magic to clear the weeds or demonstrate diligence in supporting their allies. The Yerende claim that Runa stolen the recipe was from the Druj, so completely, that the Druj no longer know of its existence. That seems improbable, but it remains a widely held belief by many.
+
+* '''Form:''' Liquid.
+* '''Description:''' This gloopy, brown concoction adheres to the inside of the container. It has a strong earthy scent, but a drop on your tongue reveals it to be cloyingly sweet.
+* '''Roleplaying Effects:''' If you are an orc, you are reminded of the fragility and value of life; seeing loved ones at risk can feel physically painful. It is easy for you to see the importance of life for strangers and even enemies; whatever your spiritual beliefs it is hard to escape the knowledge that once ended a life can never be regained. If you are human, you feel numbed to grief, sorrow, and suffering, and may experience moments of intense introspection. You may lose all interest in the outside world for a time, focusing entirely on your own feelings and thoughts. 
+* '''Mechanical Effects:''' If you are an orc and you have the [[magician]] skill, you can swift cast either [[Venom]] or [[Purify]] once without expending personal mana or crystal mana within 10 seconds. You do not need to be able to cast either spell to benefit from this effect. If you are a human, or an orc who does not have the magician skill, the potion has no mechanical effect. 
+* '''Recipe:''' One dram each of [[realmsroot]] and [[bladeroot]].
+
+==Tender's Path==
+For the Yerende, the name serves as a metaphor for [[Yerende#The_Great_Garden|the Great Garden]]. The experience of drinking this potion can be potentially quite overwhelming for an unprepared orc. The burst of knowledge on their place in the world and the supporters they have can be simply too much, and some Yerende suggest having someone the orc is close to nearby to provide assurance helps with the use of this potion.
+
+Yerende apothecaries teach their apprentices to use this potion sparingly, claiming it is easier to learn to mix the potion than it is learn to use it wisely and diligently. When misused, the potion is often referred to as Hemby's Folly, after an infamous apothecary whose foolish actions wrought nothing but violence and death.
+
+* '''Form:''' Liquid.
+* '''Description:''' This sticky, orange liquid smells strongly of overripe mango. A drop on your tongue reveals it to taste unbelievably spicy.
+* '''Roleplaying Effects:''' If you are an orc, you feel invigorated by the bonds of connection to your closest supporters. You are keenly aware of the connections you share with others and how they affect your life. It is easy to become overwhelmed by an awareness of your place in the world. If you are human, you initially feel exhilarated and full of energy, each new experience is incredibly exciting. This quickly becomes overwhelming, making it hard to speak coherently or focus on anything for more than a few moments.
+* '''Mechanical Effects:''' If you are an orc and you have the magician skill, you can swift cast either [[Heal]] or [[Empower]] once without expending personal mana or crystal mana within 10 seconds. You do not need to be able to cast either spell to benefit from this effect. If you are a human, or an orc who does not have the magician skill, the potion has no mechanical effect.
+* '''Recipe:''' One dram each of [[realmsroot]] and [[True Vervain|true vervain]].
+
+==Clodden Earth==
+This greasy ointment is quickly absorbed through the skin. It is often mixed with soil - the richer and healthier the better - and used to draw or paint long, intricate, looping designs on the skin of the face and hands prior to the start of a fight. While the salve itself is absorbed, the soil remains behind. It is usually applied after the skin is washed with fresh, cold water - a holdover from Yerende traditions that date back to the earliest years of their domination by the Druj. This feeling can overwhelm an unsuspecting orc, and many older Yerende caution against overuse, lest it become a dependence. Repeated use can lead to a numbing of the extremities - for both orcs and humans - but that can be resolved with a simple salve of [[Imperial Roseweald|Imperial roseweald]].
+
+Some Yerende will paint designs to symbolise different flowers and blooms, looking to invoke the strength of these plants in the recipient. The most common is the Shire Rose, a traditional symbol representing dignity and courage. Poppies, lilies and sometimes stylised images of precious herbs like true vervain and bladeroot are also common.
+
+* '''Form:''' Salve.
+* '''Description:''' This greasy, pale ointment has an odour of rotting wood. It is quickly absorbed into the skin, and it tastes of rancid fruit.
+* '''Roleplaying Effects:''' If you are an orc, you become aware of a reservoir of magical power that lies just out of reach. If you push yourself, if you can gather sufficient power, you could achieve anything, change anything, create anything. If you are human, you are vividly reminded of times when you feel you failed yourself or others, and times when other people let you down. It is easy to feel guilty, or lash out at others, but the idea that anyone might be able to make amends for their mistakes feels alien and naïve.
+* '''Mechanical Effects:''' If you are an orc with the magician skill, you gain two additional [[Magical_skills#Extra_Mana|personal mana]]. Whether you are a magician or not, this counts as a [[Roleplaying_effects#Overcoming_Roleplaying_Effects|source of spiritual strength]] to overcome [[roleplaying effects]]. If you are a human, the potion has no mechanical effect. The effects - mechanical and roleplaying - last until the end of the next skirmish, quest, or battle, or until sunrise, whichever comes first. This is a [[Potion#Tonics|tonic]]; the effect of any other tonic you have drunk immediately ends.
+* '''Recipe:''' Two drams of [[Imperial Roseweald|Imperial roseweald]], and one dram each of [[True Vervain|true vervain]] and [[realmsroot]].
+
+{{PotionTable|Runa's Gift}}
+[[Category:Potions]]
+[[Category:Tonics]]

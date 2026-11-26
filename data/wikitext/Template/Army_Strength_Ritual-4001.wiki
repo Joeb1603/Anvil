@@ -1,0 +1,1 @@
+As with any enchantment on an army or navy, the additional army strength granted by this enchantment may be reduced by the [[War#Orders|orders]] issued by the [[general]]. While the effect is expressed as being equivalent to additional soldiers, this enchantment never reduces [[Casualties#Calculating_casualties|casualties]] suffered by the army.

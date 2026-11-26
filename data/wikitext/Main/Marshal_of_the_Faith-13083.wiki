@@ -1,0 +1,21 @@
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Nine.png|caption=This title is appointed by the [[Assembly#Assembly_of_the_Nine|Assembly of Nine]]|width=250px}}</div>
+The Marshal of the Faith is an Imperial title [[387YE_Spring_Equinox_Senate_sessions#Create_Marshal_of_the_Faith|created]] by the [[Senate]] during the Spring Equinox 387YE, and ratified by '''Emperor Vesna Borkovna Prochnost''' the following summit. They are appointed by the Assembly of Nine and have a responsibility to provide spiritual guidance to the Military Council, with insights into Synod concerns. 
+
+==Responsibilities==
+The Marshal of the Faith is expected to provide spiritual guidance to the Military Council, with specific emphasis on insight into Synod concerns. The Marshal is also responsible for providing guidance on using Virtue as a weapon of war, where that is possible.
+
+==Powers==
+===Member of the Military Council===
+The Marshal of the Faith has a seat on the [[Military Council]]. This grants them a vote, identical to that possessed by an Imperial [[general]]. While they do not directly control an Imperial army, they receive all other benefits and expectations of being an Imperial general, such as being permitted to speak freely.
+{{CaptionedImage|file=Mael-rshal of the Faith.jpg|caption='''Mael''', Marshal of the Faith|align=left|width=300}}
+==Appointment==
+The Marshal of the Faith is appointed during the Summer Solstice. They are chosen with a [[judgement]] of [[appointment]] by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]]. 
+
+The title can be held by any Imperial citizen. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and the Assembly of the Nine.
+{{RecentElections|Marshal_of_the_Faith}}
+[[Category:Synod]]
+[[Category:Title]]
+[[Category:Military Council]]
+__NOTOC__
+{{Military Council Further Reading}}

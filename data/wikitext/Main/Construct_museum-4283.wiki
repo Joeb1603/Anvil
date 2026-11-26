@@ -1,0 +1,21 @@
+<ic>That the museum in Tabernacle (of Riverwatch, Reikos) has been destroyed in the recent fighting, that it be rebuilt in the lands of Bastion.<br>A museum for the storage and display of Imperial relics and artefacts.<br>Proposer is willing to self fund, but would like to ask the senate and the senators for contributions.<br><br>Proposed by Bastion, seconded by Necropolis.</ic>
+
+===Overview===
+* Construct an Imperial museum in [[Bastion]].
+* Passed at 8 Thrones
+
+===Date===
+* Summer 378YE
+
+===Cost===
+* 10 wains of white granite
+
+===Progress===
+* 10 wains of white granite supplied by Jada of Highguard after Winter Solstice 378YE.
+
+===Campaign Outcome===
+* The [[Curator of the White City Museum]] title was created.
+<!---Effects: 10 votes in the Synod. Would not be eligible for liao, but should produce money from donations from visitors. Additional antiquities stored in the museum may increase the prestige of the museum, providing a small increase in donations from visitors.--->
+[[Category:Senate Motion]]
+[[Category: 378YE Summer]]
+__NOTOC__

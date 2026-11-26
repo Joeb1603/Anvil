@@ -1,0 +1,20 @@
+==Overview==
+Farmer of Eastern Spring Farm is an [[Imperial Orcs|Imperial Orc]] [[Imperial title]] created following an [[Construct Eastern Spring Farm|announcement]] in Autumn 382YE. The construction was completed shortly before the 382YE Winter Solstice. The position of Farmer of Eastern Spring Farm is a [[sinecure]] in [[Skarsind]], requiring minimal responsibility but offering a regular income of crystal mana. 
+==Responsibilities==
+The Farmer of Eastern Spring Farm has no particular responsibilities; they simply receive a bounty of [[Game_items#Mana_Crystals|mana crystals]] from the farm. If the farm itself were to be threatened in any way, it would be the responsibility of the Farmer to deal with those threats  - but also to deal with any opportunity to expand the sinecure, or to make any decisions about its operation.
+==Powers==
+===Bounty of Mana===
+The Farmer has custodianship of a sinecure and receives an income of 9 crystal mana each season.
+==Appointment==
+The Farmer of Eastern Spring Farm is appointed by unanimous decision of the [[Imperial Orcs|Imperial Orc]] [[senator|senators]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by a Imperial Orc citizen. The Farmer has [[tenure]], and serves until they die or step down. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Imperial Orc [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--==Eastern Spring Farm==
+something about even orcs with little to no farming knowledge finding farming in this area easy and maybe often finding fragments of mana crystals in the soil and the farther away from the water inlet to the field the less power the crystals have left in them as if the magic is feeding the land a bit.
+
+Through better management of the waters coming down from the spring small streams that often soaked into the rock or lead of into untamed outcrops are channelled using a series of mithril lined water chutes directed into various large suspended mithril pans and sifting  platforms some of the magic can be drawn out of the waters and solidified into usable mana crystals that shine with a gentle, golden glow. In Winter when the spring sometimes freezes
+over mana can be harvested from soil its self by The process of cooking the soil in the mithril pans over a fire then panned in the same way that gold of often found-->
+{{RecentElections|Farmer_of_Eastern_Spring_Farm}}
+{{Responsibilities Expectation}}
+[[Category:Title]] 
+[[Category:Imperial Orcs]]

@@ -1,0 +1,17 @@
+==Overview==
+The Keeper of the Crystal Fruit is an [[Imperial title]] awarded to a citizen of [[Navarr]]. The commission of the Crystal Fruit Garden was [[Construct Crystal Fruit Garden|passed]] by the Imperial Senate at the Summer Solstice 387YE. The Keeper of the Crystal Fruit is responsible for supporting the prosperity of farm owners in Navarr.
+ 
+==Responsibilities==
+The Keeper of the Crystal Fruit has a responsibility for supporting the prosperity of the farmers of Navarr through helping arrange enchantments, trade, and supplies of weirwood for [[Farm#Upgrades|expansion]]. In addition, if the Crystal Fruit Garden, or its tenders, were to be threatened in any way, it would be the responsibility of the Keeper to deal with those threats.
+
+==Powers==
+===Bounteous Crystals===
+The Keeper of the Crystal Fruit gains custodianship of a [[sinecure]]. Each season, they receive ten mana crystals.
+{{CaptionedImage|file=Grundfos Thorn's Rest.jpg|caption='''Grundfos Thorn's Rest''', Keeper of the Crystal Fruit|align=left|width=400}}
+==Appointment== 
+The Keeper of the Crystal Fruit is selected by unanimous decision of the [[Navarr]] [[senator|senators]] at the Spring Equinox. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by any Navarri citizen. The Keeper serves until the next scheduled election. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Navarr [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+{{RecentElections|Keeper_of_the_Crystal_Fruit}}
+[[Category:Title]][[Category:Navarr]]

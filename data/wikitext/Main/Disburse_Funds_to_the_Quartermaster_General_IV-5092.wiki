@@ -1,0 +1,16 @@
+<ic>
+A disbursement with the intention of funding emergency resupply by the quartermaster.<br><br>''Proposed by Bregasland, seconded by Hercynia''</ic>
+
+===Overview===
+* This motion is to disburse funds with the intention supplying the [[Quartermaster General of the Imperial Armies]] with sufficient funds to purchase materials to perform [[Casualties#Emergency resupply|emergency resupply]] of as-yet unnamed Imperial armies.
+* Passed at 100 Thrones
+
+==Date==
+* Summer 379YE
+
+==Progress==
+* 100 Thrones disbursed to senator Bregasland
+
+[[Category:Senate Motion]]
+[[Category:379YE Summer]]
+__NOTOC__

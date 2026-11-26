@@ -1,0 +1,39 @@
+==Rules==
+{{Season|Autumn|6}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Resource|[[mine]]}}
+
+{{enchantment}}
+
+===Effects===
+At the start of the next event, the target [[mine]] produces an additional six [[Materials#Metals|ingots]] of material. The additional materials are always of the same type as the basic mine, regardless of any improvements.
+
+When the ritual is cast, the owner of the mine experiences a short-lived [[roleplaying effect]]; ''for at least the next hour you become very focused on any task you undertake, and feel an urge to involve as many nearby people as possible in whatever endeavour it is they are undertaking.''
+
+{{Downtime buff}}
+
+===Additional Targets===
+This ritual can affect additional [[mine|mines]] in the same territory. Each additional mine increases the magnitude by 4. The character who controls each mine must be present throughout the ritual.
+
+==Description==
+This ritual was codified in 383YE at the [[Master_of_Ice_and_Darkness#The_Icy_Crag_of_the_Eternal_Sun|Icy Crag of the Eternal Sun]], under the guidance of '''Ceinwen''' of the Eternal Family, the [[Master of Ice and Darkness]]. It was based on work originally performed by the late [[the Marches|Marcher]] magician '''Quay Stone''' of House Stone. It [[387YE_Summer_Solstice_Conclave_sessions#Imperial_Lore:_Bulging_at_the_Seams|became part]] of [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]] during the Summer Solstice 387YE following a [[declaration]] by '''Arsenio Sanguineo Rezia di Tassato''', [[Grandmaster]] of the [[Golden Pyramid]].
+
+The magic infuses a mine with the power of the [[Realms#Autumn|Autumn realm]]. The main focus of the [[enchantment]] is on the miners themselves rather than the tunnels and galleries where they work. They find it easy to focus their minds on the task at hand, and become supernaturally aware of their fellow miners. A team can work together in complete silence, each member instinctively anticipating the needs and intent of those they work beside. This greatly increases efficiency, as well as reducing the risks of working underground. 
+
+As the workers bond together, they also gain a serendipitous capacity to strike out in just the right direction to find new veins of metal, and adept at following existing veins until they are completely worked out. 
+
+The enchantment is reasonably subtle, but those working the mine will become aware of the magic sporadically. They might scent smoke, ash, hot metal, or hear the sound of thumping machinery just on the edge of hearing. They will occasionally spot flickering flames out of the corners of their eyes, or imagine there are more people working alongside them than there actually are.
+
+There may even be occasional encounters with minor spirits of the Autumn realm – especially from the [[Estavus|Mountain of Shikal]] – who might provide helpful warnings of potential collapses or (very rarely) suggestions of the best direction to start new tunnels.
+
+Regardless of the exact experience the ritual evokes, the end result of the enchantment is that significantly more ore will be extracted from the mine over the coming months.
+
+==Common Elements==
+The main focus of the ritual is, perhaps unsurprisingly, the people who own the mines to be enchanted. The ritualists might anoint them with oil or ash, or mark them with the [[Pallas|Rune of Wealth]] or the [[Hirmok|Rune of Dominion]]. Samples of the metal that their mine produces may be used as an additional focus – attuning the magic to the ore that will be recovered over the coming months.
+
+[[Hearth magic|Hearth magics]] and symbols associated with good fortune and [[Prosperity]] are also resonant with the ritual, such as shedding small amounts of blood or offering a cup or bowl of wine or mead to the targets - especially when this involves one or more coins or polished gemstones. 
+
+The names of figures associated with mining may be invoked – in the Marches in particular the name of [[Jonah Gold]] would resonate with the power of this ritual.
+[[Category:Autumn Ritual]]
+[[Category:Rituals]]
+[[Category:Resource]]

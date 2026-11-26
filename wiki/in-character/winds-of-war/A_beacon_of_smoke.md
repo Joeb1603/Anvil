@@ -1,0 +1,332 @@
+---
+title: A beacon of smoke
+source: https://www.profounddecisions.co.uk/empire-wiki/A_beacon_of_smoke
+class: in-character
+topic: winds-of-war
+categories:
+- Recent History
+- 385YE Winter
+- Military Council
+- Winds of War
+event: 385YE Winter
+last_edited: '2026-09-05T15:06:40Z'
+revision: 144824
+---
+
+# A beacon of smoke
+
+*[Image: The Freeborn philosophy is that society is best served when every individual is responsible for themselves and to themselves.](https://www.profounddecisions.co.uk/empire-wiki/File:A_beacon_of_salt.png)*
+
+*[Image: Alternate audio version](https://youtu.be/vjwH_Nqs1Aw)*
+
+## City of Sails
+
+The [City of a Thousand Sails](../nations/the-brass-coast/Madruga.md#siroc) is always enumerated alongside [Meade](../nations/the-marches/Mitwold.md#meade), [Kalpaheim](../nations/wintermark/Hahnmark.md#kalpaheim), and the cities of the League. Billowing Siroc, the Sapphire. The hakima say that it was founded by [Guerra](../nations/the-brass-coast/Tribe.md#embracing-guerra), that passionate opponent of slavery, driven to build a better world.
+
+Brightly coloured tents extend Siroc out far beyond the small cluster of stone buildings that make up the heart of the city. Sails of all shapes and sizes fill the sheltered bay, guarded by twin towered keeps on either side of the bay along the approach to the harbour. The Salt Guard, [designed](../winds-of-fortune/The_same_bed.md#the-salt-guard) by Menno van Ritsjhof, and part of the legacy of [Imperatrix Lisabetta's](../history/Empress_Lisabetta.md) plan to armour the [Bay of Catazar](../world/Bay_of_Catazar.md) against the Grendel.
+Each of the two halves of the Salt Guard is equipped with powerful engines of war, and garrisoned by skilled mariners and corsairs who ensure the towers are always ready to respond to any threat. Between the towers, the iron chains and nets that have guarded the harbour for centuries, since they were first imported at great expense from the forges of [Wintermark](../nations/wintermark/Wintermark.md). Menno van Ritsjhof believed the Salt Guard would make it impossible to assault the City of Rainbow Canvas by sea.
+
+But he was wrong.
+
+## Vengeance As A Burning Flame
+
+The first watchers to spy the Grendel Armada approaching assume they must be seeing things. Mistaking a great wave, or a bank of fog, for the wall of masts and sails. Red, green, yellow, and blue, the sails and the mast-banners announce what must surely be the entire Grendel navy speeding from the south-east toward the Madrugan coast. They are low in the water; their holds are packed but presumably with warriors rather than trade goods.
+
+Some of those ships have been seen recently, in other ports across the Bay. Through spyglasses, increasingly panicked watchers make out ships from the yellow-sailed Golden Winds and the green-sailed Tempest. Both navies have [anchored off Imperial cities](../winds-of-fortune/Shallow_days.md#visiting-armadas) in the last year, escorting merchants, their crew coming ashore to eat and drink in the paradors of Siroc, laughing and joked with the Freeborn, frequenting the markets of the Sapphire, all under the aegis of the [two-year peace treaty](../senate-motions/Ratify_treaty_with_the_Grendel_Autumn_383YE.md). The treaty that has just run its course.
+
+There are not only Grendel ships among the armada. As they get closer, as the warning bells echo across the city, the glasses pick out the Asavean warships flanking the main force. Balo's Grace, Leaping Bull and Wind Tamer. The warships that destroyed the Isle of the Justicars, that slaughtered the people of Shantarim. With them a scattering of other war-vessels, far from their home in the distant west.
+
+It's clear why they are here, and were it the Grendel alone it would be bad enough. But the presence of the Asaveans fills those who have an inkling of what is to come with a terrible foreboding.
+
+| Captain | Nation | Territory | Banner |
+| --- | --- | --- | --- |
+| Iñez i Azul-Mar i Erigo | The Brass Coast | Kahraman | Bloodgold Jackals |
+
+## Salt Stone, Iron Net
+
+Massive as the armada is, it must contend with the Salt Guard. Trebuchet and catapult are armed and ready, launching great chunks of stone toward the attacking ships. A cheer goes up as one of the lead Grendel ships, a green-sailed vessel of the Tempest, is smashed to flotsam by the first stone.
+
+Bronze sigils shimmer and flicker across the walls of the twin towers. Imperial magicians have used the potent [Autumn magic](../../out-of-character/rules/Autumn_magic.md) to [magically reinforce](../../mixed/magic/rituals/Mystic_scrolls_of_Estavus.md#ramparts-of-ashlar) the Salt Guard, with power acquired from the realm of the [Forge Mistress](../eternals/Estavus.md). The siege engines are loaded by towering bronze constructs drawn from the City of Fire and Stone, the volcano-smithy of Shikal. The magical sigils of fire, stone, strength ripple across the chains and nets as they are raised across the harbour mouth. The marines themselves wait nervously, the sweat that beads their skin not only due to the supernatural warmth the [enchantment](../../out-of-character/rules/Enchantment.md) has brought with it.
+
+A single warband of Freeborn soldiers has come to Siroc to protect the city, taking up places on the walls. They are not the only unexpected defenders. When runners are sent into the city proper, to warn the people, the Commonwealth Embassy responds by sending it's entire garrison to support the Salt Guard. It is hard it imagine that fifty grim-faced warriors dedicated to the common good will make much of a difference in the face of an entire Grendel armada – but they come anyway. They march through the streets as the bells ring and people hurry to gather their families, and maybe a few people take heart from their willingness to defend the Billowing City.
+
+While the people are afraid, they are Freeborn. They do not bow their heads to tyrants, be they human or orc. Those with battle-experience grab weapons kept in cupboards, and strap on old pieces of battered armour. Corsairs and sailors take to their own ships, ready to try and engage any invading vessel that might somehow breach the defences. The doors of the Parador of the Kindled Flame are thrown wide, to any who want to take refuge beside the children behind their walls of white granite.
+
+The Grendel don't know any of this of course – or perhaps they do. There has been [talk for some time](../winds-of-fortune/Rings_and_crowns.md#be-alert-to-dangers) of an espionage ring in Madruga, sponsored by some spymaster of the Broken Shore. Surely no Freeborn would sell their loyalty to the Brass Coast to the Grendel, no matter how much they were offered. Surely.
+
+It's clear the Armada is prepared, though, for the Salt Guard and the harbour defences. Several of the leading ships of the Tempest have great serrated metal rams attached to the prow, just on the waterline, designed to tangle and rip at the port defences. There are ballistae and catapults on the invading ships that counter the hail of stone and javelins with missiles of their own.
+
+The Asaveans in particular hold back, maintaining a barrage against the two Salt Guard towers, chipping away at even the magically reinforced stone. The Balo's Grace, the Leaping Bull, the Wind Tamer. Named in honour of the blasphemous gods of the [Archipelago](../foreign-nations/Asavean_Archipelago.md), they are massive compared to the Grendel vessels that surround them, but still surprisingly manoeuvrable, with triple banks of oars that let them evade all save the luckiest hit.
+
+Then, without any warning, fighting erupts across the harbour itself. Confused reports begin to spread of both humans and orcs making pinpoint strikes at the winches and pulleys that control the web of steel keeping the invading ships from the harbour. Treachery, from within Siroc itself.
+
+Out at sea, perfectly timed to coincide with the attacks against the nets and chains, dozens of smaller boats – rowboats – are launched. They strive for the harbour, hard to target directly, manoeuvrable, swift. Some are sunk; many more manage to reach the harbour walls and join the attack on the defences. The fighting spills across the docks themselves.
+
+Many of the warriors attacking the harbour are Naguerro, a former sept of the Lasambrian Orcs with a particular hatred for the Empire. Others raise the unfamiliar banner of a shark, ringed by lightning. Both forces seem almost unhinged in their zeal to slaughter the Freeborn defenders and capture the docks, break the defences, leave the city vulnerable.
+
+Step by step the defenders are forced to retreat back toward the fortress-keeps of the Salt Guard. The nets and chains fall. There are Grendel vessels in the harbour itself, more Naguerro and Storm Sharks spilling out across the quayside, spilling out into the city, spilling Freeborn blood with mad abandon.
+
+## Canvas Makes a Poor Shield
+
+Not all the Grendel ships storm the harbour. While the green-sailed Tempest and the blue-sailed Simoom take the forefront in the attack, the Golden Wind are busy on the coast outside the city, unloading orc soldiers, covered by the vessels of the red-sailed Shamal.
+
+The banners of the Iron Gulls are raised. The Empire knows the 'Gulls, veterans of dozens of engagements. They survived the [Battle of Solen's Doubt](382YE_Spring_Equinox_winds_of_war.md#leviathan-wakes-28spiral29). They were at the forefront of the [invasion of Feroz](383YE_Autumn_Equinox_winds_of_war.md#bronze). They are known to be masters of [siege warfare](../../mixed/government/military/Army_qualities.md#siege), and the warships of the Golden Wind unload rams and catapults alongside the soldiers themselves.
+
+Beside them, the Black Eels raise their own standards. They, too, were at Solen's Doubt. They, too, are veterans of the war against the Empire. They enter the city from the south, but where the Iron Gulls are more interested in probing the defenders of the Salt Guard, the Black Eels seem to be here for [plunder](../../mixed/government/military/Army_qualities.md#foraging) and mayhem.
+
+In the midst of the two armies a few hundred Grendel soldiers raise the slightly tattered banner of Governor Rahab, who rules over the conquered territories of Feroz to the south. There is a particular grimness to these orcs (and a handful of human mercenaries with them). Some of the Gulls and Eels mock them behind their backs, as they make haste toward the city ahead of the two armies. They seem especially eager to engage the Freeborn defenders.
+
+While the rest of the armada is busy invading the harbour, the Shamal and the Tempest switch positions. Judging by the number of crimson sails the Shamal is smaller than the Tempest, their ships are newer, showing fewer of the marks of war. So too are the army they disgorge from their holds and decks. The standard of the Bone Nautilus, a white-and-gold tentacled spiral beast, are raised. This army is made up primarily of orcs, but there are a significant number of humans in their midst. Some are clearly hard bitten veteran mercenaries, some are keen-eyed youths, but there are also a number of Asavean footsoldiers, in distinctive helms, with spears and shields. They follow the other land troops in an assault against the south side of the city.
+
+Menno van Ritsjhof was reportedly incensed when he discovered that Siroc has little in the way of defence against an attack from the shore. Perhaps the Freeborn felt that their position made it inconceivable that there would be a threat from the ground, rather than the sea. There are walls, but they are nearly as old as the city itself, and they surround the heart of the Sapphire not its borders. Siroc is a city of traders and merchants, that welcomes visitors. There are defences of course, but the Salt Guard is at the heart of them. There are defenders, but again they are focused around the Salt Guard. The three armies approaching by land are quickly in among the tents and palanquins, and canvas offers little protection against the rapacious invaders.
+
+## Falling Salt
+
+The Salt Guard falls. Great metal-bound catapult stones chip away at the walls, and smash the towers. Under the cover of a seemingly random assault, a squad of Naguerro battle-magicians unleash [Spring magic](../../out-of-character/rules/Spring_magic.md) against the gates of first one keep, and then barely ten minutes later the other. Rending vines erupting across the wood and stone, ripping it to pieces. The attackers pour inside. Commonwealth and Freeborn soldiers back-to-back, using every trick that the League architects could think of to make it harder for them to seize the fort. One by one the engines of destruction on both sides of the Salt Guard fall silent. The garrison is too busy fighting to survive to focus on the Grendel armada.
+
+Those ships of the Broken Shore who are equipped to do so launch barrage after barrage of missiles against the two towers of the Salt Guard. Those without siege engines on their decks either turn the captured harbour defences against the fortress, or disembark, joining the fighting in the docks and inside the Guard.
+
+At this point, the Asavean vessels move closer. They join the bombardment but their target is not the Salt Guard but the city of Siroc itself. They are seemingly unconcerned about crushing Grendel troops beneath their iron shot. It's not clear what happens but suddenly after a half hour of smashing tents and buildings and fleeing Freeborn and small groups of Grendel, the Asavean weapons still for a few minutes, then open fire against the Salt Guard along with the others. But the damage is done – swathes of the markets and paradors clustered around the quayside, flattened, burning. Dozens of ships, of quays, shattered to splinters. Columns of smoke begin to rise. Fire flickers in some of the windows of the Salt Guard.
+
+With an almighty groan, one of the two Salt Guard keeps begins to collapse in on itself, transformed suddenly into a chimney that sends roaring flames up through the interior. Barrels of oil join the rocks being hurled toward Menno von Rijshof's masterpiece. Those defenders still trapped inside are no longer battling the invading orcs, but fighting to breathe as the smoke rises, fighting to escape as the fire spreads.
+
+As the sun drops towards the eastern horizon, the second tower catches. Those defenders who manage to make it out of the collapsing fortification, coughing, gasping, wheezing, are swiftly dealt with by the invaders.
+
+## Fire Spreads
+
+With the Salt Guard shattered, the city is easy prey for the immense force ranged against it. The Grendel have not had it all their own way; the courage of the Salt Guard has purchased vital hours for those who can see what is coming to flee the city, north toward [Lightsea](../nations/the-brass-coast/Madruga.md#lightsea) or west to one of the bridges across the Scorrero, toward [Segura](../nations/the-brass-coast/Segura.md).
+
+The Grendel follow. Over the next few months, the invaders spread north along the coast into Lightsea. Quzar falls before the Iron Gulls, despite the best efforts of the [hakima](../nations/the-brass-coast/Hakima.md) and masters of [Autumn magic](../../out-of-character/rules/Autumn_magic.md) supporting the defenders. The [Parador of Salt and Sand](../../mixed/titles/Hakima_of_Salt_and_Sand.md#parador-of-salt-and-sand) is torn apart by the Naguerro, who loot many of the treasures within, treasures carried out of Feroz by fleeing magicians.
+
+At the same time, the Black Eels loot and raid the port towns freely, killing any who try to resist, but seemingly unconcerned about those who wish to flee – unless they try to take their wealth with them.
+
+Three of the Grendel navies, supported by the Bone Nautilus and the Asavean warships, assail [Free Landing](../nations/the-brass-coast/Madruga.md#free-landing), assaulting the port towns of the corsairs. These islands were the first proper home for the Freeborn – and for the second time the Grendel seize Atalaya, the fount from which the entire Brass Coast flowed. Midport falls to the Shamal and the Golden Sails. The Tempest seizes the Shining Pillar – that great white-and-gold tower familiar to every sailor along the [Bay of Catazar](../world/Bay_of_Catazar.md), sometimes used as a symbol for the Brass Coast itself. When a sailor can see the beacon of the Shining Pillar, they know they are home. After the Grendel take the island on which it stands, the beacon falters, and goes out, for the first time in centuries the Shining Pillar does not shine.
+
+Meanwhile the Simoom concerns itself with besieging the [Isle of the Lyceum](../nations/the-brass-coast/Madruga.md#the-lyceum). The magicians there fight back, supported by their Commonwealth allies at the Lyceum Schloss. Contact with the island has been sporadic at best; it is not clear if the entire island has been conquered or what the state of the grand libraries, arcane academics, or students is. There is little hope that they may be able to hold out against the Grendel and their allies. There is a great deal of worry about what the Grendel might do with the vast stores of lore contained within the Lyceum.
+
+As the Winter Solstice approaches... but wait. That's in the future. We aren't done with Siroc yet.
+
+## The Last Sight
+
+Before the Grendel sweep across the rest of Madruga, on land and sea, they finish the conquest of Siroc. The offices of the [Mistress of the Glass Parador](../../mixed/titles/Mistress_of_the_Glass_Parador.md) are looted, by the honour guard of Governor Rahab of Feroz. Perhaps the wealth they manage to steal here will make up for the fortune Rahab lost when the Scorrero Nets collapsed?
+
+The Bone Nautilus surround the Parador of the Kindled Flame, eager to capture those who have sought sanctuary within, eager to carry away the children whose home it is to a life of slavery. When they finally breach the heavy oak doors, they find the place deserted. No sign of anyone hiding.
+
+They have no way of knowing, but the children, their guardians, and those who accepted the offer of safety within the walls, are long gone. As the flames consumed the Salt Guard, two dozen friends of the [Prince of a Thousand Foes](../eternals/Irra_Harah.md) revealed themselves, and the sewer entrance, and lead those who would otherwise have been trapped in the orphanage to safety. They are already well on their way to Segura.
+
+The same story unfolds across Siroc. Guardian angels – most mortal, some decidedly not – reveal themselves and help people escape what is to come. Without their unexpected – and mostly invisible - aid, a great many more people would have died when the city fell. If anyone bothers to ask – and most people are simply grateful for the aid – they say that they are discharging a service for the Archmage of Spring. They run when they can, they fight when they must, but they never try to hide. They discourage hiding, for some reason.
+
+While many escape, many more do not. The Grendel take a few slaves but once the city falls they seem more interested in bearing away its loot rather than its people. The same cannot be said for the Asaveans. Now that the Salt Guard has fallen, the warships and mercenaries of the far west join in the conquest of the city. They are absolutely without mercy, killing anyone who comes within spear-reach or sword-reach.
+
+It is they who lead the attack against the House of the Way, one of the oldest congregations in the Brass Coast. They smash the doors, shatter beautiful windows that have blazed in the setting sun for two hundred years, slaughter the priests and sutannir. Even the Naguerro seem a little taken aback by their zeal for slaughter, these human warriors from far away across the sea.
+
+The Asaveans are also the ones who set the fires. Despite the chaos, the Grendel are careful to make sure that the city of tents does not burn. For a day and a night, they rampage through Siroc, taking everything they can find, everything they can carry. Then as the sun sets on the second day after the fall, as the armies regroup on the plains outside the city for the march north and west, as the navies withdraw to anchorages along the coast, the Asavean warships launch barrels of burning oil into the city. Another, and another, and another. The sky turns red, the glow growing like a baleful promise.
+
+Asavean captains, more than a dozen cold-eyed scions of the patrician families - and it seems all the major families are represented – watch from the shoreline. They are not alone. Their soldiers have taken carefully selected prisoners. Where possible they are [sutannir](../nations/the-brass-coast/Sutannir.md), or priests of the Way, or [dhomiro](../nations/the-brass-coast/The_Brass_Coast_leadership.md#dhomiro) of one family or other. Two dozen, no more, dragged in manacles to the waterline south of the city.
+
+As the barrels of oil fly, as burning brands are touched to the kindling piled all across the city, as Siroc burns, these prisoners are forced to watch. And then, as the fire stretches across the horizon, the final cruelty.
+
+The last priests of the God of Chains are with the Asaveans and at a nod form the captains, they murder each of the prisoners. The last thing they see as they are hurled untimely into the Labyrinth is the jewel of Madruga, the Sapphire, their Billowing City, burning as the first stars of evening glitter in the uncaring sky.
+
+All save three. These last three - one Erigo, one Riqueza, one Guerra - are released once the fires start to die down. Pushed into the surf, discarded like refuse, like jetsam on the coast of Brass, the last words of their captors echoing in their ears.
+
+“We were an Empire before any of your petty kingdoms existed; we have no more lessons to learn about vengeance. But we can teach.”
+
+## Game Information: Madruga
+
+The Grendel armada has seized three regions of Madruga: Siroc Plains, Lightsea, and Free Landing. As detailed in the [Not a drop to drink](../winds-of-fortune/Not_a_drop_to_drink.md#not-a-drop-to-drink) Wind of Fortune, the blight of the [Great Grasses](../nations/the-brass-coast/Madruga.md#great-grasses) remains contained thanks to the enchantment that has been diligently cast each prior season. As predicted however it has also stabilised in a way that means the region is no longer under Imperial control. As a consequence, with the Freeborn only controlling Calvos Sound and Torres, they have lost control of the territory. The Grendel have not, however, taken control of the territory; they only control three of the six regions. The territory is thus considered contested – although the [Senator](../../mixed/titles/Senator.md) for Madruga loses their seat in the Senate regardless.
+
+The Salt Guard was overwhelmed and destroyed, but it provided sufficient defence to slow the Grendel invasion. Without it, and its enchantment, the armada may have had sufficient strength to launch a significant attack on Calvos Sound as well as the three regions it captured.
+
+## Losses: Imperial Titles
+
+A number of Imperial titles have lost powers and sources of income.
+
+Madruga no longer has a Senator.
+
+The [Mistress of the Glass Parador](../../mixed/titles/Mistress_of_the_Glass_Parador.md) and the [Hakima of Salt and Sand](../../mixed/titles/Hakima_of_Salt_and_Sand.md) no longer have ministries. The titles still exist, however, and still have any appropriate responsibilities.
+
+The [Commonwealth Embassy](../nations/the-brass-coast/Madruga.md#the-commonwealth-embassy) has been destroyed. The [Ambassador to the Commonwealth](../../mixed/titles/Ambassador_to_the_Commonwealth.md) has lost their [ministry](../../mixed/titles/Ambassador_to_the_Commonwealth.md#commonwealth-merchants) but maintains their other powers. The [Commonwealth](../foreign-nations/Commonwealth.md) is likely to have a strong opinion about the destruction of its embassy in the Empire.
+
+[Freeborn Flame Marina](../nations/the-brass-coast/Madruga.md#freeborn-flame-marina) is in Grendel hands. The benefits it provided, allowing [fleets](../../out-of-character/rules/Fleet.md) of the Brass Coast to be [upgraded more easily](../winds-of-fortune/The_power_behind_our_moves.md#atalaya) have been lost to the Freeborn, although it might be possible to regain the benefit if it were liberated.
+
+The Empire no longer controls the [Lyceum](../nations/the-brass-coast/Madruga.md#the-lyceum). This means the [Dean of the Lyceum](../../mixed/titles/Dean_of_the_Lyceum.md) has lost their ability to [codify ritual texts](../../mixed/titles/Dean_of_the_Lyceum.md#guiding-the-magicians-of-the-lyceum), the benefits of the [Quiet Annexe](../../mixed/titles/Dean_of_the_Lyceum.md#the-boon-of-the-black-sloth), and access to [their apartments](../../mixed/titles/Dean_of_the_Lyceum.md#apartments-at-the-lyceum). They remain [Arbiter of Imperial Lore](../../mixed/titles/Dean_of_the_Lyceum.md#arbiter-of-imperial-lore) however. Unfortunately, one of the things they have also lost is the work on the ritual text they were codifying; it is still on the island itself.
+
+The Parador of the Kindled Flame has been ruined, along with the city of Siroc itself. The devastation is sufficient to give Siroc Plains the *ruins* quality.
+
+## Losses: Military
+
+The loss of Siroc has struck a devastating blow to the Brass Coast. The wealth of the Sapphire has been taken by the Grendel and the city itself comprehensively burnt. Furthermore, the Grendel have captured the wealthy ports of Lightsea and Free Landing. Coupled with the loss of the entire territory of Feroz, this means that The Brass Coast [can no longer support their three armies](../../mixed/commissions/Commission.md#maximum-numbers-of-imperial-forces). If not for the Iron Qanat, they would only be able to support a single army. Regardless the outcome is the same; following the Winter Solstice, they will begin to decline due to [insufficient supply](../../out-of-character/rules/Army.md#insufficient-supply).
+
+Assuming nothing else significant changes, the Freeborn will reclaim their ability to support armies once they are again in control of two of the prosperous coastal regions of the Brass Coast - Free Landing, Lightsea, [Cazar Straits](../nations/the-brass-coast/Feroz.md#cazar-straits), [Oranseri](../nations/the-brass-coast/Feroz.md#oranseri), or [Fontargenta](../nations/the-brass-coast/Feroz.md#fontargenta). This presumes they remain in control of Calvos Sound and the port-town of Calvos; if they lose that they will need to reconquer three regions.
+
+The only silver lining is that the situation will not get worse - a nation is either "out of supply" or it is not. So even if the Brass Coast loses further territory their armies will not decline any faster - but it might mean that they have further to go before they can reclaim their ability to supply their armies.
+
+## Intercede at the Lyceum (Battle)
+
+The Grendel's assault into Madruga has been a hammer blow to the Brass Coast. The Broken Shore's navies and armies have secured a solid foothold in the territory - almost claiming dominion in a single season of campaigning. Siroc has been razed and large swathes of the coast up through Free Landing are under the heel of the Salt Lords. Now the Grendel moridun troops and mercenary forces are securing the many islands offshore.
+
+Principle among these is the isle on which the Lyceum has stood for nearly 300 years. This is an incredible prize for the Grendel, an asset of extraordinary value, however it is not so easily taken. Over the centuries, the magicians of the isle have spent considerable resources erecting potent magical wards that can protect the [college](../../mixed/commissions/College_of_magic.md) if is attacked. However those wards need powerful magical rituals to be performed to invoke them - no easy task.
+
+The heroes of the Empire have an opportunity to strike against Grendel forces at the **Field of Aenea**. There, they can attempt to recover a ritual text of strategic importance; kill the "*Seeker of the Sky*" who is seeking the very same ritual; and take up the eternal Sadogua's offer to "[keep the Lyceum safe](../winds-of-fortune/Begins_where_it_ends.md#sadogua)". There is also an unexpected and unusual opportunity to deploy powerful magic to aid the protection, defence and obfuscation of the entire island.
+
+Prognosticator Atraxes notes that a conjunction of [the Web](../../mixed/magic/lore/The_Spider_and_The_Web.md#the-web) and [the Great Wyrm](../../mixed/magic/lore/The_Great_Wyrm.md) offers the Empire the unique window during the solstice to intercede in Madruga and potentially protect the Lyceum from the Grendel. The alignment of stars above the contested territory will enable rituals cast at two linked regio to behave in strange and more powerful ways than normal.
+
+### Objective: Raise the Lyceum's wards
+
+- **Cast rituals at the two regio to raise the islands powerful wards**
+- **Each regio requires three potent rituals to invoke and power the ancient wards**
+- **Failure will allow the Grendel to loot the Lyceum**
+
+The reason the Lyceum was located in Free Landing was the presence of twin regio that had an unusual property; they shifted the realm to which they were aligned after each ritual that was cast. They provided an excellent opportunity to research how ritual magic would interact with regio without risking accidentally cursing an entire territory. The regio shift according to a set pattern - something Imperial magicians have built the Lyceum's wards to exploit. The wards are difficult to raise, partly because of the magical energy need to power the wards and partly because they make using the Lyceum well nigh impossible, so it requires a major effort by Imperial magicians to trigger them.
+
+The defensive wards of the Lyceum are tuned to the *Shadow regio*. To raise these wards the Empire would need to perform an Autumn ritual of at least 20 magnitude, then Winter ritual of at least 20 magnitude and then finally perform [Drawing the Penumbral Veil](../../mixed/magic/rituals/Drawing_the_Penumbral_Veil.md) at magnitude 40. That is no easy feat, but if they are successful, the Lyceum will be plunged into impenetrable darkness for a year, making it utterly impossible for the Grendel to loot it, its books, or to carry away the researchers as slaves.
+
+The offensive wards of the Lyceum are turned to the *Storm regio*. To raise these wards the Empire would need a Day ritual of at least 20 magnitude, then a Summer ritual of at least 20 magnitude and then finally perform [Foam and Spittle of the Furious Sea](../../mixed/magic/rituals/Foam_and_Spittle_of_the_Furious_Sea.md). If the final ritual is completed then the area around the Lyceum will be ravaged by storms for a year, hammering the Empire's enemies. The wards would serve as a strength 3000 fortification in the region that could not be conquered or removed. The magical storms would target the [Grendel](../barbarians/Grendel.md) forces any time they undertook military action in the territory.
+
+None of the rituals used in this way have their usual effect; their power is directed entirely toward the wards. Likewise, the Shadow regio and the Storm regio do not fulfil the requirement of a "strong regio" for purposes of ritual casting.
+
+### Alternative: Respond to Sadogua's offer
+
+- **Cast Align the Celestial Net in the presence of the *Glutton's* herald**
+- **Casting the ritual will see the college spirited to the Night realm**
+- **Rejecting the offer will leave the Lyceum in the Grendel's hands**
+
+Sadogua has made it abundantly clear that he is *very angry indeed* with the Empire. If the wards cannot be raised, one alternative might be to try and win round the *Wyrm-King* by travelling to the Lyceum and giving the college to the eternal. *Jubbjibbaglob*, an apprentice of Sadogua's, has been sent to the isle to make sure the Grendel don't run off with the statue of Simargl, the Empty One, in the [Quiet Annex](../../mixed/titles/Dean_of_the_Lyceum.md#the-quiet-annexe), and will be around should the Empire wish to placate the eternal in this matter.
+
+To cede the Lyceum a night coven will need to take *Jubbjibbaglob* to either the *Shadow regio* or the *Storm regio* and perform [Align the Celestial Net](../../mixed/magic/rituals/Align_the_Celestial_Net.md) on it. Once completed the herald will confirm that the necessary steps have been taken to allow the *Globbersnotch* to swallow the Lyceum, putting it beyond the reach of the Grendel, and anyone else. It is understood that there will be ample time for anyone in the locale to escape, as Sadogua knows the importance of not rushing a big meal.
+
+Of course if the Black Sloth devours the Lyceum, there's no going back from that, but at least it prevents it falling into the hands of the Grendel. However even the Glutton can't eat a whole library at once, so he'll save some of the tastiest books for later. Assuming the Empire wanted to build a replacement, then it can ask the Globberslotch to return whatever texts are still left to help with that. Once he's calmed down, of course.
+
+### Objective: Find the *Final Dance of the Immobile*
+
+- **Recover the ritual text of the Winter ritual that was codified this season**
+- **Success will return the ritual text to the Empire and allow it to be mastered or added to Imperial lore**
+- **Failure will result in the Grendel being able to utilise the enchantment**
+
+Since their election at the last Summer Solstice, **Palaphon Ankarien**, the Dean of the Lyceum had the college work upon the codification of *Final Dance of the Immobile*. The ritual seems to hold out some promise of weakening or warding against the Dry Patricians. The researchers of the Lyceum had all but completed the codification of the ritual and were finishing the presentation of the text when the armada of the Grendel swept into sight. In the ensuing panic, the text was taken by a Navarri vate in an attempt to get it off the island. However, the vate never reached safety and is presumably still on the island.
+
+The scholar is believed to have been injured or possibly captured by the Grendel. Imperial heroes should aim to find and rescue the mage, who should still have the text. If the ritual has been taken from them, the Navarri will be able to indicate who took it. Should the ritual text be recovered then it could either be kept, added to Imperial lore through an appropriate [Declaration](../../mixed/government/conclave/Declaration.md), or added to Urizen lore through [Gift of Knowledge](../../mixed/magic/rituals/Gift_of_Knowledge.md).
+
+### Objective: Ransom Sky Mage Faireoir
+
+- **Ransom the powerful ritualist of the Sky realm who has an unknown connection with the magicians of the Schloss**
+- **Success would give the Empire opportunity to claim a powerful strategic ritual text from the Grendel**
+
+*Faireoir, Seer of the Sky and Diviner of Ophis*, is a well-connected and influential Sky ritualist among the bickering courts and mercantile chambers of the Broken Shore. The Sky Mage was instrumental in directing the Grendel's attack against the Lyceum, planning to use the wealth of magical lore to gain further favour and influence for themselves. While clearly there for the opportunity to enrich themselves and their coven, Faireoir is also looking for something specific. It's not clear what it is, but there's little likelihood that it's anything *good*.
+
+Strangely, this figure appears to be known to the magicians of the [Lyceum Schloss](../../mixed/titles/Dean_of_the_Lyceum.md#the-lyceum-schloss) - the fortified annexe where the [Commonwealth](../foreign-nations/Commonwealth.md) magicians studying at the Lyceum. They have taken refuge along with a number of students and several Imperial citizens, but they recognised Sky Mage Faireoir and have pointed him out to Imperial scouts.
+
+How they know Sky Mage Faireoir is a fascinating question, one the normal candied Commonwealth have declined to answer at this time. However they have said his coven is powerful and have access to potent war rituals, some of which the Empire does not possess. If the Empire could capture the powerful Sky Mage, they are bound to agree to a ransom in return for this life. His captors could demand a ritual text from him, in return for letting him leave the field alive.
+
+It would best if any contract were enforced with a [Scrivener's Bloodmark](../../mixed/magic/rituals/Scrivener-s_Bloodmark.md) but if they've captured him the Empire could invoke the [Lictors](../eternals/Lictors.md) for any ransom. Provided they take reasonable means to enforce the contract, the Sky Mage would be bound to send a copy of the ritual text to the Empire once they returns to Dubhtraig.
+
+## Save the Shining Pillar (Battle)
+
+In the wake of the Grendel's invasion of Madruga there are others who wish to make the most of the opportunity; using it as a way to make their personal fortunes, strengthen their grip on the mortal realm, or strike against the Empire in their own way. Just before the Winter Solstice a force of Grendel moridun soldiers arrives at Atalaya Heights in Free Landing. With them come a small party of Asavean soldiers and a dignitary of some import.
+
+The Plenum has dispatched *The Priest of Wrecks* accompanied by several "*Guardians of the Black Bull*" to assist and observe the Grendel's first strike against the Empire. Soon after landing on the shores of Atalaya, *Barquentius Iyandeus* the Asavean ecclesiast began preparations for a large supplication that is expected to be completed shortly after the Winter Solstice. This act is intended to serve as a symbolic blow against the Freeborn and the wider Empire and to ensure good fortune for the Grendel's ongoing campaign. It will involve the ritual killing of a number of Imperial citizens and the destruction of the Shining Pillar.
+
+The ten attendants of the Shining Pillar known as **The Beacon's Watch** refused to abandon the tower, claiming that they must ensure the flame remains lit and the lighthouse is still seen out in the Bay. They have all been captured and are in the custody of the Grendel. This conjunction offers a chance to rescue them from potential sacrifice and to ensure that the skills and knowledge required to maintain and operate the Shining Pillar are preserved.
+
+In the days before the Winter Solstice *High Priestess Shivaarn*, she who praises the [Mother of Monsters](../eternals/Siakha.md), arrived at one of the islands of Free Landing. Shivaarn performed some form of rite - calling on the Salt-born Devourer and the Mother of Wrecks and the Maelstrom. From dawn until dusk she chanted and gave offerings of trinkets claimed from corsairs, of the [lucky coins](../../mixed/magic/lore/The_Brass_Coast_hearth_magic.md#coins) of a score of dhomiro, and finally mithril. Chest after chest filled with mithril ore was thrown into the shores and swiftly swept out to sea. And then the sea boiled and foamed as heralds of Siakha emerged. Not just the carcharodons that so many Imperials are familiar with, but something new. Tempests in human form drawn to join with the Grendel forces massing at the Shining Pillar to overwhelm it. And if they are able to claim enough lives to create some monstrosity of surf and squall in service of Siakha.
+
+### Objective: Kill the Priest of Wrecks
+
+- **Eliminate the Priest of Wrecks and the Guardians of the Black Bull**
+- **Failure would result in the desecration and ultimate destruction of the Shining Pillar**
+
+Iyandeus is a loud and passionate orator, not a fighter, and the Plenum has dispatched a guard of warriors who have received blessings of their idolatrous god to ensure the priest is kept safe, or doesn't inadvertently wander into harms way. Marching in heavy chain and tall helms these soldiers are devotees of The Black Bull, the protector soldier spirit-god. These grizzled veterans are sworn into servitude to fight and die to protect Iyandeus, and can be expected to be well-prepared for battle.
+
+Killing the Guardians and Iyandeus will ensure that the Asavean supplication cannot go ahead. Besides being an opportunity to take revenge on the Asaveans for Siroc, it will also put a stop to his plans to desecrate and destroy the Shining Pillar.
+
+### Objective: Rescue the Beacon Watch
+
+- **Free at least five members of the Beacon Watch from the Grendel**
+- **Success will ensure a future legacy for the Shining Pillar**
+- **Failure will see the attendants sacrificed to an Asavean god**
+
+The heroes of Anvil will need to track down and locate the members of the Beacon Watch in the area. They are under heavy guard by Grendel forces, rather than in the custody of the small Asavean delegation. The barbarians have split them to avoid any escape attempts and once it is clear that the Sentinel Gate has opened then they will move the lighthouse attendants during the battle to prevent potential rescue attempts.
+
+If at least five members of the Beacon Watch are returned safely to Anvil, then the Asavean's rite to their Red God will not be possible. These attendants will return to the Brass Coast to pass on their knowledge and train others to operate the beacon once Madruga is liberated. This will mean that even if the Grendel destroys the edifice, it could be rebuilt to shine out again across the Bay once more.
+
+### Objective: Deny the Carcharodons
+
+- **Prevent the shoals of Siakha from murdering twenty or more Imperial heroes**
+- **Success will diminish the influence of the eternal in the area**
+- **Failure would see a fortified fane to Siakha form off the coast**
+
+The bloodlust rising from Atalaya's cove has drawn the fearsome carcharadon heralds of Siakha ashore to the Shining Pillar. When battle commences they will come ashore in greater numbers, drawn to bloodshed like wolves on the trail of their quarry. Heedless of their survival, the heralds will patrol the lines of contact seeking out those misfortunate enough to have been laid low. Anyone set upon by one of their number can expect a [swift and brutal death](../../out-of-character/rules/Calls.md#execute).
+
+If the heralds are able to murder twenty or more Imperial citizens, then Siakha's thirst for death and destruction will be fixed on the locale of the Shining Pillar. This would manifest as a raging Spring regio just off the Atalayan coast, forming a roiling gyre of tempest waves, fuming spray, and a sucking maelstrom of magic that would draw nearby ships down to certain death. Merchant shipping would be forced to give the area a wide berth until it could be dealt with, but the immediate threat would the monstrous heralds of Spring that would spew forth. The presence of the fane would be a dangerous new threat for the Military Council to contend with, serving as a two thousand strength [fortification](../../out-of-character/rules/Fortification.md).
+
+### Battlefield Environment: Blood in the Air
+
+- **The land near the Shining Pillar is under the effect of a powerful Spring miasma**
+- **All characters experience a feeling of rising bloodlust**
+- **Any character who does not resist the effect has a single use of CLEAVE with an appropriate melee weapon whilst in the location**
+
+*A coppery tang fills the nose and the mouth fills slick with thick saliva; the magic of savagery, blood, and destruction pulses through the veins.*
+
+Anyone who travels to this location will experience a strong roleplaying effect of rising violence and bloodlust, unless they:
+
+- Expend a hero point upon entering the area
+- Draw on the spiritual strength of an anointing
+- Draw on their Merrow lineage and assume a calm demeanour
+- Are bonded to a magical item or have a ritual enchantment that mitigates effects like these
+
+Whilst in the location any character can make a **single** [CLEAVE](../../out-of-character/rules/Heroic_skills.md#cleaving-strike) call with any melee weapon other than a pike without the need to expend a hero point or the need to have the [Cleaving Strike](../../out-of-character/rules/Heroic_skills.md#cleaving-strike) skill. This ability is lost if the character resists the roleplaying effect at any point, or upon their return to Anvil.
+
+## Opportunities and Dangers (Conjunctions)
+
+There are smaller attacks from the Grendel across the Bay of Catazar. Probing attacks, with individual Grendel captains leading their fleets against specific targets in an attempt to recover what they can. Each of these fleets can potentially be claimed - if the Grendel who own them are defeated - but they will likely require extensive repair to get them to the high standard of the Empire. The civil service has agreed to an arrangement with the Sarvos Shipwrights Syndicate that where possible the League guild will salvage the ships of the Grendel and, in return, offer deeds to fleets to those recognised as responsible for the conjunction.
+
+### News From the Plain (Necropolis)
+
+- **A force of Grendel are seeking information on the bridge that spans the Couros**
+- **The Sentinel Gate will open at 18:45 on Friday to Hedra's Meadow, Coursmouth**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Champion of Courage* is responsible for defeating the Grendel**
+
+*Ranald*, an influential Sky Mage of the Grendel, remained hidden in Necropolis as the peace treaty ran its course and the Imperial Senate [declared war](../senate-sessions/385YE_Autumn_Equinox_Senate_sessions.md#declare-war-on-the-grendel) on the Grendel. Barely escaping ahead of the purge once the espionage ring there was [uncovered](../winds-of-fortune/Rings_and_crowns.md#eyes-of-the-basilisk), they've been hiding out with a much reduced force along the banks of the river. Now, with the focus of the Highborn and the garrison of [Reumah's Rest](../nations/highguard/Necropolis.md#reumahs-rest) on the coast awaiting an attack from the sea, the company under *Ranald* are making their way through Coursmouth towards Ada's Plain.
+
+On Ada's Plain not far from the river, and the Courspan Bridge that crosses it, stands the [chapter](../nations/highguard/Chapter.md) of Ethan's Respite. The [stewards of the dead](../nations/highguard/Highguard_religious_beliefs.md#stewards-of-the-dead) there repeatedly refused to allow the Grendel permission to visit the area over the last two years. The chapter cited tales about a secret, or a historical incident, that would allow the orcs to threaten the Courspan if they uncovered it. It's not clear if this is an item or a piece of information, but it's obvious that curiosity has gotten the better of Sky Mage Ranald.
+
+The chapter of Ethnan's Respite have called for aid, asking that the [Champion of Courage](../../mixed/titles/Champion_of_Courage.md), **Thomir, Son of Astion**, take responsibility for preventing the Grendel from finding out... whatever it is they are trying to find out. Dispatching the Sky Mage and their guards before they can become a problem will likely head off future threats from the magician. There's also a chance the Champion might potentially uncover the secrets the Grendel are seeking themselves, of course. Especially if they chose to take magicians capable of using [Day magic divinations](../../mixed/magic/rituals/Clear_Lens_of_the_Eternal_River.md) or [Night magic visions](../../mixed/magic/rituals/Shadowed_Glass_of_Sung.md) to explore the area.
+
+### The First Ship (Redoubt)
+
+- **A force of Grendel are threatening the Great Harbour of Elos**
+- **The Sentinel Gate will open at 14:30 on Saturday to The Elosian Grove, Naris**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Elosian Architect* is responsible for defeating the Grendel**
+
+*Maistir Dorcas* has landed their ships on the gentle coast of [Naris](../nations/urizen/Redoubt.md#naris). The Grendel were observed by a small patrol of sentinels from the [Court of the White Fountain](../nations/urizen/Redoubt.md#court-of-the-white-fountain), and they are accompanied by creatures that bear all the hallmarks of being servants of the *[Mother of Wrecks](../eternals/Siakha.md)*. The Grendel left a small guard at their ships and made all haste toward Elos. It's unknown what exactly Maistir Dorcas thinks they might achieve if they are left, unchallenged, to reach the harbour. They might plan to fire the shipyard, loot the warehouses and their stockpiles of ingots and herbs, or even simply slaughter the workers on behalf of Siakha. The presence of the heralds makes those aware of them nervous, however. It's unfortunately doubtful the Court of the White Fountain can reach Elos in time to stop Dorcas doing... whatever they are planning to do.
+
+The [Elosian Architect](../../mixed/titles/Elosian_Architect.md), **Talia Seaboar**, is responsible for threats to the harbour there, and may want to gather a band of heroes to intercept the Grendel. There is another incentive, perhaps. The Sarvos Shipwrights Syndicate - who are arguably more salvagers than they are shipwrights these days - would relish the opportunity to claim the Grendel ships refurbish them and sell them on, or rip them apart for parts. They have agreed to give the Elosian Architect the deed to *The Impulse*, an impressive [ship](../../out-of-character/rules/Fleet.md), its fine structure [upgraded](../../out-of-character/rules/Fleet.md#upgrade) with five wains of [weirwood](../../mixed/economy/Weirwood.md), to do with as they see fit. Should Maistir Dorcas be dealt with, of course.
+
+### Behind A Lock (Sarvos)
+
+- **A force of Grendel are threatening Glass Point Cove**
+- **The Sentinel Gate will open at 15:00 on Saturday to Isle of Quiet, Uccelini**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Custodian of Glass Point Cove* is responsible for defeating the Grendel**
+
+*Quartermaster Ewan* has landed their ships on one of the heavily wooded islands of [Uccelini](../nations/the-league/Sarvos.md#uccelini). A passing fishing boat, by chance, brought news of their presence along with a warning that they are accompanied by servants of the *[Salt-born Devourer](../eternals/Siakha.md)*. Now the quartermaster has sent a small force ahead - under the guise of a fishing boat - to the secretive [Glass Point Cove](../../mixed/titles/Custodian_of_Glass_Point_Cove.md#glass-point-cove). They clearly plan to establish a presence there, perhaps as an advance guard of the Grendel forces. There is a chance to strike at the Grendel on the wooded island before they move to reinforce the vanguard - claiming the precious mana and likely doing extensive damage to the mithril netting.
+
+There is an opportunity to benefit from the cunning of the Grendel though. If the Grendel are defeated then not only will the delicate netting be protected, but the ships they arrived on will be left abandoned. The Sarvos Shipwrights Syndicate will waste little time in confiscating the vessels and either selling them on, or breaking them down for parts. They have offered the deed to *Dance of Victory*, a fleet of ships that have had their hulls upgraded with five wains of weirwood, to the current [Custodian of Glass Point Cove](../../mixed/titles/Custodian_of_Glass_Point_Cove.md), **Dalibor Marek van Temeschwar** to do with as they will - if they deal with the threat posed by Quartermaster Ewan.
+
+### Following the Craft (Madruga)
+
+- **A force of Grendel are fleeing with an heirloom stolen from the Parador of Salt and Sand**
+- **The Sentinel Gate will open at 15:30 on Saturday to Ezmara's Thicket, Lightsea**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Hakima of Salt and Sand* is responsible for reclaiming the heirloom**
+
+*Nechtan*, a wealthy Sand Mage of the Grendel, has withdrawn north of Quzar in [Lightsea](../nations/the-brass-coast/Madruga.md#lightsea). The Grendel are accompanied by several heralds of *[the Mother of Monsters](../eternals/Siakha.md)* and are waiting on their fleet to collect them with their ill-gotten gains. One of these is a valuable heirloom stolen from the [Parador of Salt and Sand](../../mixed/titles/Hakima_of_Salt_and_Sand.md#parador-of-salt-and-sand). The item was used in teaching those who came to learn from the [hakima](../nations/the-brass-coast/Hakima.md), and has come to symbolise the hope of regaining the parador and re-establishing such classes. Several of the surviving hakima, forced to flee when the parador fell, have pledged to pool their resources and support the Hakima of Salt and Sand with four mana crystals each season until the parador is regained... provided the heirloom is returned and shown to one of the Freeborn egregores.
+
+There is an additional opportunity to benefit from the retribution of the Grendel though. If the Grendel are defeated then the fleet will be easy to overcome; something that the Sarvos Shipwrights Syndicate are more than willing to attempt. The Syndicate have offered the deed to *The Blade of Freedom*, a fleet of ships that have had their hulls upgraded with five wains of weirwood, to the current [Hakima of Salt and Sand](../../mixed/titles/Hakima_of_Salt_and_Sand.md), **Bakar i Riqueza** to do with as they see fit - provided the Sand Mage and their entourage is dealt with.
+
+---
+
+Categories: [Recent History](../../indexes/by-category/Recent_History.md), [385YE Winter](../../indexes/by-category/385YE_Winter.md), [Military Council](../../indexes/by-category/Military_Council.md), [Winds of War](../../indexes/by-category/Winds_of_War.md)

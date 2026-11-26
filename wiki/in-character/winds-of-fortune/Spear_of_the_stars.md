@@ -1,0 +1,148 @@
+---
+title: Spear of the stars
+source: https://www.profounddecisions.co.uk/empire-wiki/Spear_of_the_stars
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 381YE Spring
+- Recent History
+event: 381YE Spring
+last_edited: '2026-04-04T15:03:49Z'
+revision: 136462
+in_character_boxes: 5
+---
+
+# Spear of the stars
+
+> *In-character text:*
+>
+> "In Wintermark they call it Rhyv, the bleeding wound, or the bloody dagger" said Dalbor, touching the runestone carefully. "The rune of blood - healing and harming like the double-edged knife."
+>
+> Rak nodded. "We also call it Rhyv, obviously -"
+>
+> "Obviously, that is its name" Dalbor interjected, emptying his glass.
+>
+> " - but my mother called it the spear, not the dagger. It is still bloody, but it is the hunter's spear. It kills, it sheds blood and in doing so brings life to the tribe." The orc leaned back from the runes scattered across the table, his eyes a little distant as he finished his own drink.
+>
+> "Was your mother a hunter?" asked Dalbor.
+>
+> "Yes, I seem to recall it. We were separated quite early of course - as soon as my abilities became apparent. The Dragons are careful to ensure that the testing and training of those who can wield true power begins early."
+>
+> "Tell me about the dragons," the old Varushkan asked, directly. The warlock stared at him, expressionless, blinking slowly.
+>
+> "It's interesting that this is the first time you have asked," he said, speaking slowly as if choosing his words carefully.
+>
+> "For a while I was worried it would be rude," Dalbor shrugged. "But the Winter night is dark and long, and neither of us is tired, and we have hours to fill until dawn ..."
+>
+> Rak raised his eyebrows, slipping the runestones back into his belt. Dalbor refilled their glasses. Slowly, the orc opposite him reached up and lifted the orichalcum medallion that lay against his chest. He ran his fingers over its five serpentine heads, their gemstone eyes glinting in the candle light.
+>
+> "The Dragons are the Thule. They are living ancestors," he said without preamble, a tone in his voice as if he were reciting. "Five of them, as old as our people - older. If they were born at all it was before the first humans came to this place. We were not the Thule then - it was they that *made* us Thule. They taught us to be hard. They taught us true power. They guided us to conquer, to wield magic, and to take what is our due."
+>
+> He looked at Dalbor then, from under furrowed brows. "Do you understand? They are so much more than leaders; they are the absolute certainty of our lives. They watched over me before I was born and if I am hard, and wield power without weakness, they will shelter me with their wings when I am dead. I knew their names before I could talk, I learned to read by studying them and their aspects."
+>
+> The orc's finger lingered on each dragon's head as he named them.
+>
+> "Caridis Runebinder, speaker of the truth. Orobus the Chained, who brings and binds. Night-Dark Fraynir, the one who waits. Hinodir of the Bright Orb, who sees all. Tahenon the Gyre, great in his wrath. Five-and-one-and-five at the heart of us all."
+>
+> Dalbor began to become uneasy. Normally, the orc diplomat seemed on the verge of openly laughing, taking delight in wordplay and discussion. He had never seen him so serious, and focused, and distant. His eyes were hooded, his voice rough, all hint of self-assurance melted away and replaced by something else. Awe. Or dread. The old Varushkan was reminded that the warlock was not some jovial Imperial Orc, some fellow citizen, but a member of an ancient and inhuman people who had been at war with humans since before there was an Empire.
+>
+> And Dalbor was alone with him, and everyone else in the house was asleep. He felt a sudden urge to change the subject.
+>
+> "You know I never noticed before," he said, as casually as he could muster. "All the orcs I have ever known or heard tell of are uncomfortable when they aren't around their own kind, but you seem to have no problem with being alone."
+>
+> Rak considered him, his face again blank and unreadable.
+>
+> "That is very true, Dalbor. " he said lightly as he slipped his medallion back inside his shirt. "But then ... I am *never* alone."
+>
+> And his face broke into a broad smile that did not quite reach his eyes.
+
+## Overview
+
+The [Thule](../foreign-nations/Thule.md) are content.
+
+Dogri Thulebane has been [taken into custody](../winds-of-war/381YE_Spring_Equinox_winds_of_war.md#wolf-in-the-fold-28skarsind29) by the [Iron Helms](../nations/varushka/Varushka_military_concerns.md#the-army-of-the-iron-helms), Crow's Keep is in ruins, and [Crow's Ridge](../nations/imperial-orcs/Skarsind.md#crowe28099s-ridge) under the control of the [Imperial Orcs](../nations/imperial-orcs/Imperial_Orcs.md). The passes from western [Otkodov](../barbarians/Otkodov.md) into [Skarsind](../nations/imperial-orcs/Skarsind.md) are open, and a threat to the Thule has been removed from their borders.
+
+On the other side of the Empire, the [Senate](../../mixed/government/senate/Senate.md) has [allocated](../senate-motions/Allocate_Gift_of_the_Dwindling_Star.md) the [Gift of the Dwindling Star](../../mixed/titles/Gift_of_the_Dwindling_Star.md) as a [Varushkan](../nations/varushka/Varushka.md) National Bourse Seat, in accordance with the wishes of the Northern [orcs](../../mixed/world/Orc.md). The orc warlock known as Rak Who Speaks for the Dragons United is a seemingly permanent fixture in the offices associated with the new Bourse Seat - if you can call three rooms above an inn (previously the *Red Lamb*, now the *Red Lantern*) "offices", serving as a de facto Thule ambassador.
+
+The Thule continue to extend the cautious hand of friendship to the Empire - or the northern parts of it at least. There are rumours of secret meetings with Varushkans, private negotiations between agents of the Dragons and emissaries of the [Navarr](../nations/navarr/Navarr.md), cautious overtures to the [Imperial Orcs](../nations/imperial-orcs/Imperial_Orcs.md), and even some guarded gossip that some of the halls of [Wintermark](../nations/wintermark/Wintermark.md) are interested in opening a dialogue with their former barbarian enemies.
+
+This détente is fragile, however. The Thule have been at war with the Empire for centuries, and during that time they have shed a lot of Imperial blood. The Wintermark National Assembly in particular has raised concerns about the nature of the relationship between northern orcs and Imperial citizens, and it seems likely that unless their concerns are addressed in some fashion the wounds they have left will continue to fester.
+
+## Significance
+
+### Opportunities
+
+The Thule present several [opportunities](../../out-of-character/game-design/Opportunity.md) to the Empire. These opportunities all rely on the current good - if cautious - détente between the Empire and the orcs of Otkodov. Already the Empire has a slightly better understanding of the orcs - the cabalists of Void have confirmed the number and at least some details of the identities of the Thule dragons for example - and presumably the Thule now have a slightly better understanding of the Empire (or at least Varushka) in their turn.
+
+#### The Northern Trade Network
+
+With Dogri Thulebane removed, and Crow's Keep ruined, *Gar the Trader* has again expressed interest in participating in the [Northern trade network](../nations/navarr/Northern_trade_network.md). With the Wintermark loyalists removed, the only thing preventing the Thule connecting their internal trading routes to the [central hub](../../mixed/titles/Bonesetter_of_Torfast_Trading_Post.md) in [Torfast](../nations/imperial-orcs/Skarsind.md#southpine) is the availability of roads. The Thule can create a suitable road on their side of the mountains, but it falls to the Empire to connect Torfast with one of the passes in Crow's Ridge.
+
+The immediate effect of allowing the Thule to participate in the northern trade network would be to allow each of the existing [Imperial titles](../../mixed/titles/Imperial_title.md) associated with the network to trade specific raw [materials](../../out-of-character/rules/Materials.md) (representing the exports they add to the trade network) for crystal mana.
+
+Specifically, the Bonesetter would be able to trade significant amounts of [orichalcum](../../out-of-character/rules/Materials.md#orichalcum) for crystal mana in a manner comparable (if not identical) to a 16 wain [ministry](../../mixed/commissions/Ministry.md). At the same time, the [Broker of Treji Wayhouse](../../mixed/titles/Broker_of_Treji_Wayhouse.md) would be able to trade [Dragonbone](../../out-of-character/rules/Materials.md#dragonbone), the [Overseer of the Westward Road](../../mixed/titles/Overseer_of_the_Westward_Road.md) to trade [ambergelt](../../out-of-character/rules/Materials.md#ambergelt), and the [Northbound Trademaster](../../mixed/titles/Northbound_Trademaster.md) to trade [Beggar's Lye](../../out-of-character/rules/Materials.md#beggars-lye), also for crystal mana, although at a lower maximum rate (comparable to a 12 wain ministry).
+
+The Civil Service estimate that such a road would need to be [commissioned](../../mixed/commissions/Commission.md) by the Senate. It would require 30 wains of white granite, 60 crowns in labour costs, and take six months to complete. The benefit to the four ministries would accrue once the road was completed.
+
+As part of the agreement, the Thule will establish a trading post in southern [Urdur](../barbarians/Otkodov.md#urdur) open to Imperial merchants, and guarantee the safety of Imperial traders travelling to this trade hub. In addition to the Thule merchants visiting the northern Empire, Imperial merchants would be able to visit southern Urdur, potentially providing additional information about the Kvanatals, Neeyukir, and possibly Boras regions, depending on where the Thule choose to build their own central trading outpost.
+
+Without such a road, the Thule are still interested in trading with the Imperial Orcs in Skarsind, but such trade would be limited and sporadic. (**OOC:** would fall below the abstraction layer).
+
+#### Ambassador to the Thule
+
+Rak, the warlock who serves as a diplomatic envoy from the Dragons of Otkodov, has overseen the first [delivery of starfallen](Lantern-s_light.md#accepting-the-offer) [ilium](../../out-of-character/rules/Ilium.md) to the Empire - the new seat is due to be appointed by the [mine](../../out-of-character/rules/Mine.md) and [forest](../../out-of-character/rules/Forest.md) owners of [Varushka](../nations/varushka/Varushka.md) during the coming Spring Equinox. His main interest, apart from continuing to enjoy the [hospitality](../nations/varushka/Varushka_culture_and_customs.md#hospitality) of the cabalists at [Void](../nations/varushka/Volodmartz.md#brez) - seems to lie in securing closer diplomatic ties between the Thule and the Empire. There has been talk of an [embassy](../../mixed/commissions/Embassy.md), but Rak has recently changed tack significantly.
+
+The Thule are no longer expecting the Empire to construct an embassy; Rak has reportedly said that such a construction would be a waste of time given that any significant business will always come down to two people in a room (or tent) arguing - and one room (or tent) is very much like another. With that in mind, he has suggested that the only thing required to maintain good relations with the Dragons and ensure more opportunities for trade and mutual understanding, is the appointment of an ambassador.
+
+All that would be required would be for the Imperial Senate to pass a motion creating the title of Ambassador to the Thule; there would be no requirement to construct anything. Even without a formal embassy, the recognition of the Thule would be sufficient to ensure that the ambassador could wield the usual [powers](../../mixed/titles/Ambassador.md#powers) of [Ambassador to the Thule](../../mixed/titles/Ambassador.md).
+
+*However*, the Thule have not relaxed one specific requirement. The Dragons would very much prefer that the ambassador be a Varushkan, appointed as a national rather than Imperial title. The Varushkans the Thule have been dealing with have demonstrated that they are capable of the pragmatism that they appreciate in their allies. They prefer to deal with people who have demonstrated their ability to work with the orcs, rather than risk an incident with someone from another nation. They do not seem to be concerned *how* it is appointed as long as it is appointed by Varushkans (the [well worn path](../../mixed/titles/New_Imperial_titles.md#well-worn-paths) would equally support appointment through the Bourse (by vote of Varushkan mine or forest owners), by unanimous decision of the Varushkan [senators](../../mixed/titles/Senator.md), or even the Varushkan [National Assembly](../../mixed/government/synod/Assembly.md#the-national-assemblies)).
+
+The Imperial Senate is under no obligation to concede to the Thule "request", but as always with [international relations](../../mixed/commissions/Embassy.md#limitations), an Imperial ambassador is only as influential as the foreign nation allows them to be.
+
+#### An interest in relics
+
+In addition to this discussion about embassies and trade networks, Rak has passed on a single further opportunity to the Empire. During the occupation of [Skarsind](../nations/imperial-orcs/Skarsind.md), the Thule discovered the [Gildenheim runeforge](Forge_of_sorrows.md). Before they could do much more than begin their explorations, they were driven out of the territory to the Imperial armies in late 377YE. The northern orcs are still interested in the ruins, apparently, more for its historical value and for insights it may offer into the history of the Thule, as for the value of the relics as ancient curios of the distant past.
+
+As a consequence, Rak has presented a preliminary offer to the Empire. In return for free access to the ruins under Gildenheim, and permission to remove the relics, the Thule will offer the Imperial Senate 30 wains of white granite. They have no objection to observers from the Imperial Orcs overseeing their limited excavation to ensure everything remains on the level, given absolute guarantees that there will be no damage to Gildenheim, and reassured the notoriously prickly Empire that they will break no Imperial laws in the process.
+
+Giving formal permission to the Thule to claim the relics of the runeforge would require a motion passed by the Imperial Senate; the payment the Thule provide would automatically go to the Senator who raised the successful motion. There will be no cost to the Empire, and it will take the Thule no more than a couple of months to complete their work.
+
+### Concerns
+
+#### Judgements 41 and 42
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We the Wintermark Assembly demand the return of all Imperial citizens currently held as slaves by the Thule.
+> >
+> > Ylmiska Ferbow, Wintermark National Assembly
+
+The détente with the Thule is fragile, and not everyone welcomes it. During the Autumn Equinox 380YE, Ylmisa Ferbow of the [Wintermark](../nations/wintermark/Wintermark.md) [national assembly](../../mixed/government/synod/Assembly.md#the-national-assemblies) raised a [Statement of Principle](../../mixed/government/synod/Statement_of_principle.md) demanding the return of all Imperial citizens currently held as slaves by the Thule. At the same time, Veikko raised a statement demanding reparations be secured from the Thule for Winterfolk murdered by the Thule. Both statements secured a [greater majority](../../mixed/government/synod/Judgement.md#greater-majority).
+
+In the six months since, and in the wake of Dogri Thulebane's removal, these demands have been discussed and repeated several times by priests in Wintermark, and by their allies. If the [General Assembly](../../mixed/government/synod/Assembly.md#general-assembly) were to echo the Wintermark assembly's demands with a strongly worded statement of principle that likewise secured a greater majority, this would publicly demonstrate Synod concerns in a manner that would be hard to ignore.
+
+Alternatively, the [Senate](../../mixed/government/senate/Senate.md) could make a formal approach to the Thule. This would initiate formal negotiations about the return of these alleged slaves, or an investigation into the alleged crime involving the green iron mine (and the concept of reparations for breaches of law is at least tacitly supported by the [Thule peace treaty](../senate-motions/Accept_Thule_peace_treaty.md) paragraph concerning raiding). Such an approach from the Senate would certainly have some effect, but the more formal authority the person responsible for sending such a message has the more effective it is likely to be. Ideally, such an approach would come from a newly appointed [Ambassador](#ambassador-to-the-thule) to have the best effect. The [Imperial Consul](../../mixed/titles/Imperial_Consul.md) certainly possesses the legal authority to initiate such contact in the absence of an ambassador, and in theory the [Advisor on Orc Affairs](../../mixed/titles/Advisor_on_Orc_Affairs.md) would also be a suitable individual to begin this discussion.
+
+One element that will need to be borne in mind during any negotiation is a recent [change to the law](../senate-motions/Amend_crime_of_slavery.md) with regard to slavery. The law makes it illegal to pay for or purchase slaves for any reason - except with regard the repatriation of Imperial citizens. While this law would not obstruct paying a ransom for recently captured slaves, it might prove a significant impediment to any deal that involved the children or grandchildren of Imperial citizens. It may be wise to seek clarification from the magistrates before any agreement is finalised.
+
+Any such negotiation would ideally begin with a [winged messenger](../../mixed/magic/rituals/Call_Winged_Messenger.md) dispatched to Rak Who Speaks For The Dragons United, at the rooms he occupies above the Red Lantern, in Void.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We the Stormcrows of Wintermark demand reparations from the Thule for the murdered Wintermarkers found in the green iron mines in Crow's Ridge.
+> >
+> > Veikko, Wintermark National Assembly
+
+## Resolution
+
+The Imperial Senate appointed Juha the Spider as the first [Ambassador to Otkodov](../../mixed/titles/Ambassador_to_Otkodov.md) during the Spring Equinox, but declined the Thule offer to make the post a national Varushkan title. They began work on an [embassy to Otkodov](../nations/varushka/Miekarova.md#embassy-to-otkodov) shortly after the Summer solstice, and work was completed just before the Autumn equinox.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [381YE Spring](../../indexes/by-category/381YE_Spring.md), [Recent History](../../indexes/by-category/Recent_History.md)

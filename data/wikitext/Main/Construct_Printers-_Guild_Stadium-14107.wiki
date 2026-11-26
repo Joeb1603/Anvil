@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:388YE Autumn]]
+__NOTOC__
+<quote by="Announced by Taddea Ginori, Chair of the Wolf">A huge upset! Here at the founding of the Casinean League, Mestra is nowhere to be seen! Regario walks it in with 12 white granite and 12 weirwood to establish the Printers' Guild Stadium sinecure in Tassato Regario. From its' top box one might glimpse the Printers' Guildhouse across the river in Mestra, which later this season will host many of Anvil's great and good at the Printers' Guild Ball and Pledge Awards. Whilst down on the pitch, one can witness the <u>Regario Byliners</u>, resplendent in iridescent teal, ready for whenever the Mestrans finally show up.
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in Tassato Regario, Tassato
+* Announcement by '''Taddea Ginori''', [[Chair of the Wolf]]
+* The [[Out_of_these_convertites#The_Sport_Is_at_the_Best|recent pilgrimage]] of Apulian orcs to the Mournwold led to a renewed interest in foot-the-ball and other sports. Once complete, the Regarian Stadium will host matches against Marcher teams and, potentially, the Mestrans.
+
+==Date==
+* Autumn 388YE
+
+==Cost==
+* Costs as per opportunity
+* 12 wains of white granite
+* 12 wains of weirwood
+* 3 thrones in labour costs 
+* Three months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Printers%27_Guild_Stadium}}
+==Outcome==
+* Once complete, the Captain of the Regario Byliners will be available to be appointed by Tally of the Votes of  the [[business]] owners of [[the League]]

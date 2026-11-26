@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Announced by Zorya (Zosia) Swietoslawa Przewalski, Bearer of an Imperial Wayleave">To construct a self-funded ministry called the Gloaming Forum in Operus, Morrow, to be assigned by Tally of the Votes as an Urizen national position. The Gloaming Merchant to be able to purchase weirwood as per the opportunity presented by the Basilisk of the Bourse and the Spire of Golden Wood. </quote>
+==Overview==
+* Creates a bourse seat in [[Morrow]] as per the '''[[Bright_yellow_blooms#The_Tide_Still_Rises|Bright yellow blooms]]''' wind of fortune
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+==Date==
+* Winter 385YE
+==Cost==
+* Costs as per opportunity
+* 12 wains of white granite
+* 36 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|The_Gloaming_Forum}}
+==Outcome==
+* Once the work is complete, the ''Gloaming Merchant'' will be available to elect by [[Tally of the Votes]] of the [[mana site]] owners of [[Urizen]]

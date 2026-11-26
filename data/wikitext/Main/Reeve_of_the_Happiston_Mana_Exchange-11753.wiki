@@ -1,0 +1,30 @@
+==Overview==
+The Reeve of the Happiston Mana Exchange is an [[Imperial title]] awarded to a [[Marches|Marcher]] citizen. [[Construct_Happiston_Mana_Exchange|Commissioned]] by '''Vivane Knotes''', [[Bearer of an Imperial Wayleave]] in Spring 386YE in Chalkdowns, [[Mournwold]]. The ''Happiston Mana Exchange'' enables the Reeve to purchase mana crystals.
+
+==Responsibilities==
+The Reeve has a responsibility to protect those who trade at the Mana Exchange. If the Exchange were to be threatened in any way, or those venturing to the Exchange, it would be the responsibility of the Reeve to deal with those threats.
+__NOTOC__
+==Powers==
+===Ministry===
+<div style="float:right; width: 400px; clear: right; margin-left: 10px;">
+<table class="mw-collapsible"><tr><td style="background-color: LightBlue;">'''Mana crystals'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>7 Crowns</td><td>8 mana crystals</td></tr>
+<tr><td>17 Crowns</td><td>16 mana crystals</td></tr>
+<tr><td>30 Crowns</td><td>25 mana crystals</td></tr>
+<tr><td>46 Crowns</td><td>33 mana crystals</td></tr>
+</table>
+</div>
+As a [[ministry]], the title of Reeve of the Happiston Mana Exchange allows the holder to purchase quantities of mana crystals a set price. The Reeve makes their decision on how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+==Appointment== 
+This title is appointed during the Summer Solstice. The Reeve of the Happiston Mana Exchange is appointed by citizens of the Marches who control [[farm|farms]]. The larger the farm an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a citizen of the Marches may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+<!--{{CaptionedImage|file=ReeveHappiston|caption='''Character''', Reeve of the Happiston Mana Exchange|align=left|width=300}}-->
+{{RecentElections|Reeve_of_the_Happiston_Mana_Exchange}}
+
+==Happiston Mana Exchange==
+The Happiston Mana Exchange operates out of the town's old Jarl's hall, a relic of the recent Jotun occupation of the Mournwold. The hall was left in considerable disrepair following the Imperial campaign, and considerable works were needed to shore up its foundations. This included the addition of several heavy solid mithril rods enchanted with magic from the Autumn realm encouraging Prosperity and the exchange of goods and ideas. The hall functions also as a space for the [[Keeper of the Happiston Fields]] and other local landskeepers to meet and exchange ideas, magical theories, and crystal mana supplies. Local threshers use the space to hold meetings and organise themselves to better seek out threats of sorcery in the area. As payment for the space, these groups allow the provision of crystal mana to the Reeve of the Happiston Mana Exchange at a reasonable rate.
+
+{{Responsibilities Expectation}}
+[[Category:Title]][[Category:The Marches]][[Category:Bourse]]

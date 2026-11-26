@@ -1,0 +1,7 @@
+==Overview==
+A [[Navarr wayhouse]] is a large well-established [[wayhouse]] that has been built in a territory outside the Navarr nation. A wayhouse supports the stridings, serving as a place to rest and resupply. Its presence makes travel safer, boosting trade in the territory and allowing Navarr who live in that territory to benefit from communication, trade and support from the many stridings passing through.
+
+As a result of the strengthened connections to the nation, Navarr resources in territories with a working wayhouse do not suffer the [[Resource#Resources_in_other_Nations|usual penalty for being located in a foreign territory]]. They benefit from any great works in the territory.
+
+In addition, the Imperial civil service will formally identify the nearest Navarr territory to the wayhouse. Navarr citizens are eligible to [[Navarr_leadership#Leading_a_territory|vote for a senator]] as if their resources were in the linked territory.
+{{:Navarr wayhouse}}

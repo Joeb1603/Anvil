@@ -1,0 +1,27 @@
+==Overview==
+The Arch of the Sky is found in the mountains of [[Zenith#Proceris|Proceris]], in the [[Urizen]] [[territory]] of [[Zenith]]. Custodianship of the Arch of the Sky grants an [[Imperial title]]; a seat on the [[Bourse]]; and a seasonal bounty of valuable white granite.
+
+==The Resource==
+Deep in the mountains of [[Zenith#Proceris|Proceris]] stands the Arch of the Sky. Once the site of a beautiful collection of spires on the Stairstair, at the time the tallest mountain in Zenith, it was captured and looted by the Druj in 381YE. 
+
+Shortly before the Winter Solstice 385YE, ''Graciana i Lòpez i Guerra'' laid out  [[Road_out_of_nowhere#Southern_Skyways|plans]] on how the territories of the southern Empire might be connected by building new road networks. The Starstair was the focal point of the southern skyways, with geomancers and stone-watchers visiting the mountain, suggesting that it presented an opportunity to produce precious white granite, safely transported down the mountain by ushabti-powered mithril cables. 
+
+The Senate voted to [[387YE_Autumn_Equinox_Senate_sessions#Allocate_the_Arch_of_the_Sky|allocate]] the Arch of the Sky as a national position by the Senate at the Autumn Equinox 387YE. 
+
+==The Bourse Seat==
+===Responsibilities===
+The Seat has no particular responsibilities; they simply receive a bounty of white granite, which is theirs to do with as they will. If the Arch of the Sky were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular [[opportunity]] were to arise related to the Arch of the Sky, the Seat would expect to be consulted as to how that opportunity might be resolved.
+
+===Powers===
+====Seat on the Bourse====
+Custodianship of the Arch of the Sky comes with a seat on the Imperial Bourse. For the most part, this Seat comes with no additional responsibilities. It is an Imperial title that grants the right to participate on the rare occasion when the Imperial Bourse as a body is required to make a decision.
+
+====Bounty of white granite====
+The Seat has control of a source of white granite and receives Bourse certificates to represent that control. They can dispense this resource as they choose. Production is 18 Imperial wains of white granite every season.
+{{CaptionedImage|file=Cassilda of the Wise Citadel.jpg|caption='''Cassilda of the Wise Citadel''', Custodian of the Arch of the Sky|align=left|width=300}}
+===Appointment===
+As with all white granite Bourse seats, the holder of the title is determined during the Summer Solstice. It is assigned to whichever Urizen candidate receives the most support from Urizen owners of [[mana site|mana sites]]. Votes are recorded in private in conjunction with the civil servants who support the Bourse.
+
+Custodianship of the Arch of the Sky is retained for a year, or until the citizen holding the seat dies, or steps down. An Imperial Bourse seat cannot be [[revocation|revoked]] by the [[Synod]]. 
+{{RecentElections|Arch_of_the_Sky}}
+[[Category:Urizen]][[Category:Bourse]][[Category:Title]]

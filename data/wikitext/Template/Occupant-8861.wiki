@@ -1,0 +1,1 @@
+{{#lst:Template:AllElectionResults|{{{1}}}_occupant}}

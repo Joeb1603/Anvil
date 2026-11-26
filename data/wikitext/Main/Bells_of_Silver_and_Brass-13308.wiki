@@ -1,0 +1,28 @@
+[[Category:Autumn Ritual]] [[Category:Rituals]] [[Category:Warfare]]
+{{CaptionedImage|file=NBUrizen.jpg|caption=This ritual is part of [[Urizen magical traditions#Urizen Lore|Urizen lore]] rather than [[Imperial lore]].|align=right|width=200}}
+==Rules==
+{{Season|Autumn|60}}
+{{Urizen Lore}}
+===Performing the Ritual===
+{{Casting time|10}} {{Imperial Reduction}}
+
+This ritual targets a [[fortification]], and must be performed in a strong Autumn [[regio]] in the [[territory]] containing the fortification. If the territory is part of the Empire, then it may instead be performed from the [[Regio#The_Imperial_Regio|Imperial regio]]. 
+
+{{enchantment}}
+
+===Effects===
+Over the coming season, the [[fortification#garrison|garrison]] of the target fortification is restored, regaining 250 points of strength. This is in addition to any other resupply the garrison receives. The garrison is still restored even if it is engaged in a campaign during the season.
+
+{{Season Duration}}
+
+==Description==
+This ritual became part of [[Urizen lore]] following the Autumn Equinox 387YE by members of the ''Shield of Thought'' coven from [[Redoubt#Willstone|Willstone Citadel]] in [[Redoubt]]. The [[Formulaic_ritual#Ritual_Texts|ritual text]] was codified during the reign of [[Emperor James]] at the [[Morrow#The_Halls_of_Knowledge_(ruined)|Halls of Knowledge]]. The enchantment builds on the work of an [[Urizen|Urizeni]] [[questor]] called ''Ingerina of the Bells'', and the text mentions that part of their inspiration lay in the eight brass spheres created by ''Eudokia of the Spheres''. According to the ''Shield of Thought'', they were persuaded to contribute their rituals by representatives of the [[Jaheris|Moonsilver King]], who gave them unspecified boons in return. The threat of the [[Grendel]], whose ongoing invasion [[Blood-red blooms|potentially threatened]] the eastern regions of Redoubt, may also have been a factor. Regardless, the magicians claimed that the heralds of the ''Lord of the Forest of Arden'' was motivated by a simple desire to help Urizen protect itself from its many, many enemies and expected nothing in return.
+
+When it was originally codified, ''Bells of Silver and Brass'' was used to inspire soldiers to come to the defence of their neighbours, but the ritual seems to have other, more practical applications. Through subtle Autumn magics it subtly draws volunteers to take up weapons, and improves the process of turning a raw recruit into a seasoned soldier. Equipment is sourced and transported more efficiently, the organisation of new recruits runs more smoothly, and the replenishment of supplies happens with less friction even if the land the fortification stands in are actively under attack. Blacksmiths, fletchers, leatherworkers, and other craftsfolk may find previously overlooked caches of materials for their work. Soldiers who might otherwise have been lost or separated find it easy to regroup, and while injuries [[Autumn_magic#Healing|do not heal any more swiftly]] than normal, the hospitals and [[Surgical skills#Physick|physicks]] who tend to wounded soldiers enjoy the same benefits of improved efficiency and access to materials as the crafters and recruiters. 
+
+The bells themselves are audible throughout the territory, but only to those who share a political affiliation with the fortification targeted by the enchantment. Invaders, and even peaceful settlers from other Empires, remain oblivious to the pealing noise that spills out from the bastion every day at noon. The tolling bells inspire a potent but short-lived urge in all who can hear them to defend their homes, to work with their neighbours to resist invaders, and to be alert to all dangers, both within and without.
+
+==Common Elements==
+Bells, or percussion instruments such as cymbals or chimes, are a common feature of this ritual. Performance often includes a map of the territory where the fortification stands - or of the fortification itself. Images or effigies of the castle may also be involved, especially delicate and precise images that exemplify the technical approach favoured by Urizen artists. The ritual has a strong [[astronomancy|astronomantic]] feel, and the original text references invoking the binding power of [[the Chain]] and [[the Phoenix]] as an icon of learning and experience. Calculating the location and influence of these stars over the location where the fortification stands might play a key role in the ritual. It is also resonant, given the use of [[Autumn_magic#Bands|bonds of neighbourhood]] and [[Autumn_magic#Binding|bringing people together]], to include citizens who live in the territory where the fortification stands as part of the focus of the magic. 
+
+A significant portion of the text is given over to discussions of [[Vigilance]] as well, and notes that [[Aspect_magic#Theurgy|theurges]] can effectively incorporate the [[Vigilance#Symbols_of_Vigilance|symbols of that virtue]]. Significantly less time is spent discussing [[dramaturgy]], but it suggests that [[the Bishop]] and [[the Captain]] can both play a key role in a performance, especially in conjunction with [[the Ring]] and [[the Battlefield]].

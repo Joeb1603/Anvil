@@ -1,0 +1,30 @@
+{| class="wikitable" style="font-size:small;"
+|+ align="top"| Constellations
+|-
+|[[The Chain]] (Things hold together)
+|[[The Chalice]] (Things heal; things apart come together)
+|[[The Claw]] (Things bleed)
+|-
+|[[The Door]] (Things move and change)
+|[[The Drowned Shepherd]] (Things end)
+|[[The Fountain]] (Things live)
+|-
+|[[The Great Wyrm]] (Things change and transform)
+|[[The Key and The Lock#The Key|The Key]] (Things are revealed)
+|[[The Key and The Lock#The Lock|The Lock]] (Things can be hidden)
+|-
+|[[The Mountain]] (Things are not easy)
+|[[The Oak]] (Things endure)
+|[[The Phoenix]] (Things learn)
+|-
+|[[The Spider and The Web#The Spider|The Spider]] (Things are watched by a hidden eye)
+|[[The Stallion]] (Things procreate)
+|[[The Stork]] (Things matter)
+|-
+|[[The Spider and The Web#The Web|The Web]] (Things are connected)
+|[[The Three Sisters]] (Things are connected by blood)
+|[[The Wanderer]] (Things are not what you think ''or'' Things go awry)
+|}
+<includeonly>
+[[Category:Constellations]]
+</includeonly>

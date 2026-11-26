@@ -1,0 +1,156 @@
+During the Winter Solstice, 377YE there were three Conclave Sessions: [[#Friday Session|Friday]], [[#Saturday Session|Saturday]] and [[#Sunday Session|Sunday]]
+==Friday Session==
+===Proportions===
+Celestial Arch 20<br/>
+Sevenfold Path 38<br/>
+Rod and Shield 52<br/> 
+Golden Pyramid	40<br/>
+Shuttered Lantern 27<br/>
+Unfettered Mind	21<br/>
+===Addresses===
+# Archmage of Spring Stormcrow Kalindar – Assistance on a plan to ensure the forces of [[Llofir]] attack [[Thule]] forces not Imperial forces.
+# Archmage of Autumn Maurice de Gauvain – [[ilium]].
+# Arkat of the Mlitia – the Militia.
+# Archmage of Summer Corvus – [[Eleonaris]] and the realm of Summer.
+# Dean of the Lyceum Simargl – Fund raising for the [[Dean of the Lyceum|Lyceum]].
+# Archmage of Day Darius of Auric Horizon – Update on the position
+
+===Declarations===
+# Dean of the Lyceum Simargl – [[Declaration#Declaration_of_Imperial_Lore|Declaration of Imperial Lore]] – The Cuckoo's Egg ritual (allows the passage of non-citizens through the Sentinel Gate). PASSED, ritual added to [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial Lore]]
+# [[Declaration#Declaration_of_Candidacy|Declaration of Candidacy]] for [[Warmage]]
+##Mara of Cantiarchs Hold – Candidacy – Warmage
+## Irontide Gust – Candidacy – Warmage
+## Rust – Candidacy – Warmage
+## Kahendrin of Seventeen Stars  – Candidacy – Warmage
+## '''Vaan of Auric Horizon – Candidacy – Warmage. APPOINTED'''
+## Aife of Realms Reach – Candidacy – Warmage
+## Emilie de Rondella – Candidacy – Warmage
+## Stain Raske – Candidacy – Warmage
+
+===Gambits===
+{| class="wikitable"
+|-
+! Proposer !! Resources !! CA !! GP !! RS !! SP !! SL !! UM !! Pri !! Use !! Deadline !! Approved
+|-
+| Archmage of Winter Savik Summerstorm || 75 Mana ||   || 20 || 25 || 20 || 10 ||  ||  ||Casting [[Quickening Cold Meat]] || Summit || Yes
+|-
+|Archmage of Night Baba Ana || 37 Mana || || 0 || 8 || 7 || 20 || 2 ||  || Cast [[Drawing the Penumbral Veil]] on 3 territories and [[Shroud of Mist and Shadow]] on 2 [[military unit|military units]]|| Summit || Yes
+|-
+|Archmage of Autumn Maurice de Gauvain || 18 Mana || 3 || 3 || 3 || 3 || 3 || 3 || || Casting [[Splendid Panoply of Knighthood]] twice on 11 people each time || Summit || Yes
+|-
+|Archmage of Day Darius the Black || 30 Mana ||  || 0 || 5 || 5 || 20 || || || Scrying to aid the military council || Summit || Yes
+|}
+
+==Saturday Session==
+===Proportions===
+Celestial Arch 11<br/>
+Sevenfold Path	13<br/>
+Rod and Shield	32<br/>
+Golden Pyramid	19<br/>
+Shuttered Lantern 23<br/>
+Unfettered Mind	10<br/>
+
+===Addresses===
+# Evander Slack - a poor reputation does not a sorcerer make
+# Archmage of Summer Corvus - [[Eleonaris]] and recent events
+# Nithyn Realms Reach - [[vallorn]] new behaviours
+
+===Declarations===
+# Tatiana Olya Vikentivch – [[Declaration#Declaration_of_Sorcery|Declaration of Sorcery]] – Evander Slack is a Sorcerer. PASSED
+# Bron Holdfast – [[Declaration#Declaration_of_Sorcery|Declaration of Sorcery]] - Alex Lansdale of Bregasland is a sorcerer. PASSED
+# Dean of the Lyceum Simargl  - [[Declaration#Declaration_of_Interdiction|Declaration of Interdiction]] – [[Vallorn]] Ritual.  PASSED (Secured in the Conclave vaults)
+# Concordia – [[Declaration#Declaration_of_Candidacy|Declaration of Candidacy]] – Conclave Liaison to the Senate. APPOINTED
+
+===Gambits===
+{| class="wikitable"
+|-
+! Proposer !! Resources !! CA !! GP !! RS !! SP !! SL !! UM !! Pri !! Use !! Deadline !! Approved
+|-
+| Archmage of Winter Savik Summerstorm ||24 Mana||3 ||4 ||8 ||4 ||4 ||1 || || Casting [[Inevitable Collapse into Ruin]] on the Sunday Battlefield ||Summit || Yes
+|-
+|Archmage of Summer Corvus ||30 Mana ||5 ||5 ||0 ||5 ||3 ||4 || ||Raising of a [[Frozen Citadel of Cathan Canae]] in [[Karsk]]|| Summit || Yes
+|-
+|Archmage of Day Darius the Black ||36 Mana ||9 ||5 ||6 ||4 ||6 ||6 || || |To perform a custom ritual to scry out the heart of Bas Celik and [[Swim Leviathan's Depth]] to discover why she desired the head of [[Empress Britta]]||Summit ||Yes
+|-
+|Archmage of Autumn Mairice de Gauvain ||20 Mana ||2 ||0 ||2 ||7 ||5 ||3 || ||Perform [[Winter's Ghosts]] on [[Reikos]]|| Summit || Yes
+|-
+|Warmage Vaan ||45 Mana ||5 ||5 ||5 ||3 ||2 ||3 ||22 ||To be given to the Warmage to see the casting of [[Clarity of the Master Strategist]]||Summit || Yes
+|-
+|Archmage of Spring Stromcrow Kalindar ||45 Mana ||7 ||7 ||10 ||7 ||3 ||7 ||4 ||Casting [[Bound by Common Cause]] upon the army of the General's choosing ||Summit || Yes
+|-
+|Archmage of Night Baba Ana ||30 Mana ||0 ||5 || || ||3 || ||18 ||Battlefield healing for tomorrow's engagement against the [[Druj]] in [[The Barrens]] || Summit || Yes
+|}
+
+==Sunday Session==
+===Proportions===
+Celestial Arch 12<br/>
+Sevenfold Path	20<br/>
+Rod and Shield	38<br/>
+Golden Pyramid	23<br/>
+Shuttered Lantern 14<br/>
+Unfettered Mind	16<br/>
+===Addresses===
+# Ifan Nighthven – Rituals regarding lineage.
+# Grandmaster of the Golden Pyramid Edmundo – Money from the Senate to spend on Mana.
+# Heilyn of Bronwen's Rest – Tournament at the Spring Summit.
+# Archmage of Winter Savik Summerstorm – [[Mundane_beasts#Drakes|Drake's]] eggs.
+# Warmage Vaan – The war.
+# Archmage of Summer Corvus – Summer matters.
+# Archmage of Night Baba Ana – the subject of [[varushka|Varushkan]] [[Varushkan_Monster#Sovereigns|sovereigns]]
+# Archmage of Day Darius – Regarding the heart of [[Volodny|Bas Celik]].
+
+===Declarations===
+# Valentin Brossa – [[Declaration#Declaration_of_Enmity|Declaration of Enmity]] – [[Basileus Kade|Carolinos Kade]]. FAILED
+# Archmage of Winter Savik – [[Declaration#Declaration_of_Interdiction|Declaration of Interdiction]] – Drake's eggs. PASSED
+
+===Gambits===
+{| class="wikitable"
+|-
+! Proposer !! Resources !! CA !! GP !! RS !! SP !! SL !! UM !! Pri !! Use !! Deadline !! Approved
+|-
+| Archmage of Night Baba Ana ||18 Mana || ||3 ||1 ||2 || ||12 || ||Summer Crows to use Day magic to discover specific iformation vital to the defence of Brocéliande ||Summit ||Yes
+|-
+|Archmage of Day Darius the Black ||6 Weltsilver || ||2 ||1 ||1 || ||2 || ||To appease [[Kimus]] and build our relationship. || Summit ||Yes
+|-
+|Archmage of Spring Stromcrow Kalindar ||5 Mana || || ||3 ||2 || || || || Casting [[Shadowed Glass of Sung]] to investigate Spring Herald in [[Dawn]]||Summit ||
+Yes
+|}
+
+==Summary==
+===Proportions===
+{| class="wikitable"
+|-
+! Day !! Celestial Arch !! Sevenfold Path  !! Rod and Shield !! Golden Pyramid!! Shuttered Lantern !! Unfettered Mind !! Total Attendance !!
+|-
+| Friday || 20 || 38 || 52 || 40 || 27 || 21 || 192 
+|-
+| Saturday || 11 || 19 ||32 ||13 || 23 || 10 || 108 
+|-
+| Sunday  || 12 || 23 || 38 || 20 ||14 || 16 || 123
+|-
+| Summit || 43 || 71 || 122 || 82 || 64 || 47 || 429
+|-
+| Percentage || 10.0 || 18.6 || 28.4 || 17.1 || 14.9 || 11.0 || 100
+|}
+===Appointments===
+[[Warmage]] - Vaan of Auric Horizon<br/>
+Conclave Liaison to the Senate - Concordia<br/>
+
+===[[Declaration#Declaration of Interdiction|Interdictions]]===
+Vallorn Ritual<br/>
+Drake's Eggs<br/>
+
+===Imperial Lore===
+* [[The Cuckoo's Egg]] ritual
+
+===Sorcerers===
+Evander Slak<br/>
+Alex Lansdale of Bregasland<br/>
+
+==Notes==
+* There is a Drake's Egg in the secure interdiction vault.
+* There is the body of a Yatak (hooked horror) in the Unfettered Mind vault, it has been ritually preserved.
+
+[[Category:Conclave]]
+[[Category:Conclave Sessions]]
+[[Category:377YE Winter]]

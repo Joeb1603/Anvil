@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:385YE Autumn]]
+__NOTOC__
+<quote by="Announced by Dima Vasilyevna Novosad, Master of the Koboldi">In times of great hardship, we must be vigilant of unused wealth and unnecessary spending. With this in mind, I commission Kurstrozi's Lumbermill in Drownbark, Ossium. A great work costing 40 white granite which will increase the prosperity of Ossium's forests. This is fully funded by Krasivit Buhkova.</quote>
+==Overview==
+* Constructs a [[great work]] in [[Ossium]]
+* Announcement by the [[Master of the Koboldi]]
+==Date==
+* Autumn 385YE
+==Cost==
+* Standard costs apply
+* 40 wains of white granite
+* 15 thrones
+* Three months to complete
+==Progress==
+{{CommissionProgress|Kurstrozi%27s_Lumbermill}}
+==Outcome==
+* The [[great work]] will distribute a share of 20 random materials to the Varushkan [[forest]] owners of [[Ossium]]

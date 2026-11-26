@@ -1,0 +1,27 @@
+==Overview==
+The Bonesetter of the Delving Market is an [[Imperial title]] awarded to a citizen of the [[Imperial Orcs]]. The title was [[Construct Grand Lodge of the Golden Pyramid|created]] by the Imperial Senate at the Winter Solstice 386YE. The Bonesetter is responsible for the Market of the Delvers, and supporting the miners of northern Mareave. More information on the opportunity that led to the creation of the title can be found in the '''[[Lit_up#Golden_Opportunity|Lit up]]''' wind of fortune.
+
+==Responsibilities==
+The Bonesetter of the Delving Market is expected to work with the miners in northern Mareave to ensure their prosperity. In addition, they are responsible for the protection of the Market of the Delvers. If the Market, or those trading or journeying there, were to be threatened in any way, it would be the responsibility of the Bonesetter to deal with those threats.
+
+==Powers==
+===Market Dues===
+The Bonesetter of the Delving Market receives a seasonal income of ten crowns from fees and dues paid by the merchants and traders using the Market of the Delvers.
+
+===Wealth of the Northern Hills===
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table><tr><td colspan="2" style="background-color:LightBlue;">'''Ingot Purchases'''</td></tr>
+<tr><td>7 Crowns</td><td>3 ingots each of green iron, orichalcum and weltsilver</td></tr>
+<tr><td>17 Crowns</td><td>8 ingots each of green iron, orichalcum and weltsilver</td></tr>
+<tr><td>35 Crowns</td><td>13 ingots each of green iron, orichalcum and weltsilver</td></tr>
+</table>
+</div>
+As a [[ministry]], the Bonesetter of the Delving Market can purchase quantities of metals at a set price. The Bonesetter decides how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+==Appointment==
+This title is appointed during the Autumn Equinox. The Bonesetter is appointed by Imperial Orcs who control [[military unit]] [[Resource|personal resources]] who [[Military_unit#Supporting_an_Army|supported]] an [[Army]] during the previous year. The larger the military unit an individual has, and the more often they supported the Imperial armies, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only an Imperial Orc may hold this title. They do not receive a seat on the Bourse. As an Imperial title appointed through the Bourse, they cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Bonesetter_of_the_Delving_Market}}
+{{Responsibilities Expectation}}
+[[Category:Title]][[Category:Imperial Orcs]][[Category:Bourse]]

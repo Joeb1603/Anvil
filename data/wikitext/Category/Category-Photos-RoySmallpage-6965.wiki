@@ -1,0 +1,5 @@
+Photographs by Roy Smallpage.
+
+Include this text on each photo:
+
+<nowiki>[[Category:Photos:RoySmallpage]] [[:Category:Photos:RoySmallpage|Image by Roy Smallpage]]</nowiki>

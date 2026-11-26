@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:385YE Summer]]
+__NOTOC__
+<quote by="Proposed: Kallavesa, Seconded: Hahnmark">To commission a sinecure in Wittal, Kallavesa; Tekupala's Hives. This sinecure will produce unique drugs and be built with the permission of the Keeper of the Bones Hives of Varushka whose bees will build the hives of Kallavesa. The sinecure will be held by the Tender of Tekupala's Hives, appointed by the senators of Wintermark, as a national title. </quote>
+==Overview==
+* Constructs a sinecure in [[Kallavesa]] as per the '''[[Thousands_or_more#Secrets_of_the_Bonehives|Thousands or more]]''' wind of fortune
+* Passed
+==Date==
+* Summer 385YE
+==Cost==
+* Costs as per the wind of fortune
+* 15 wains of weirwood
+* 30 crowns in labour costs
+* 3 months to construct
+==Progress==
+{{CommissionProgress|Tekupala%27s_Hives}}
+==Outcome==
+* Now completed the Wintermark national title of [[Tender of Tekupala's Hives]] will be appointed annually each Autumn Equinox by the Senators for Wintermark

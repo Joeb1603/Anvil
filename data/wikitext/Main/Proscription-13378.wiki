@@ -1,0 +1,45 @@
+{{Synod Judgement Summary|General Assembly|Lesser Majority}}
+<div style="float:left; width: 300px; clear: left;">{{CaptionedImage|file=CardWisdom.jpg|width=300|caption=The Synod determines what constitutes heresy, blasphemy, desecration, and abuse of powers with the judgement of proscription}}</div>
+==Overview==
+Under the Imperial Constitution, the [[Synod]] is responsible for ensuring the virtuous behaviour of the Empire. Blasphemy, heresy and idolatry have been [[religious crime|religious crimes]] since the time of [[Empress Teleri]]. To carry out their duties, the Synod employed the judgement of [[condemnation]], to indicate that someone was guilty of religious crimes. The magistrates would then examine the evidence and conduct a trial as appropriate.
+
+Following the [[The_final_cut|crisis brought on by the acceptance of peace hallows]] by four members of the Assembly of Nine, the Constitutional Court overhauled the methods by which religious crimes would be defined. Rather than have the Synod stand in judgement on individual cases, the Court created the judgement of proscription to allow the Synod to specify how the existing religious laws should be applied. The judgement allows the Synod to make clear what actions are forbidden.
+
+<quote by="Imperial Constitution">The Synod shall ensure the virtuous behaviour of the Empire.</quote>
+==Judgement==
+Any judgement of proscription ''must be clear and concise'', since the magistrates will base the changes to Imperial law on the actual text. The ideal judgement proscribes a single status, activity or group of activities, forbidding the practice.  It is not possible to proscribe ideas or opinions, but it is possible to forbid any attempt to preach, convert or proselytise a set of heretical beliefs. For example it is possible to proscribe being dedicated to Freedom, or preaching Freedom, but it is not possible to proscribe the belief that Freedom is beneficial.
+
+Proscription must explicitly reference the single religious crime under which the action falls. Imperial law recognises five different [[religious crime|religious crimes]], abuse of powers, blasphemy, desecration, heresy, and idolatry. A proscription cannot invoke two or more different laws, the priest raising the judgement must identify the single law that they feel is most relevant.
+
+Proscription can also be used to reverse or remove a previous proscription. If the Synod wish to permit something under Imperial law that had previously been proscribed, then they would need to submit and pass a new judgement of proscription that made that clear.
+
+Proscription may only be raised in the General Assembly. It require a lesser majority to pass.
+
+<div style="float: right;"><quote by="Marcher Proverb">Say what you mean and mean what you say.</quote></div>
+
+==Limitations==
+* '''All judgements of proscription must be scrutinised by the Constitutional Court before they become part of Imperial law'''
+* '''Each judgement must be consistent with the wording of the specific Imperial law it applies to'''
+* '''Any judgement which fails scrutiny will be struck down by the Court'''
+* '''Priests may request advice from members of the Court before submitting a judgement but it is not possible to tell for certain if a judgement will pass scrutiny until it passes'''
+
+Part of the role of the Constitutional Court is to consider all changes to Imperial law to ensure that they are consonant with the principles of the [[Imperial Constitution]]. To conduct their duties, the Court carefully examine most Senate motions, some Conclave declarations, and Synod judgements, to ensure that any changes to the legal system stated, or implied, are compatible with the Constitution and the rest of the legal system.
+
+Any successful judgement of proscription which fails scrutiny will be struck down by the Court. Where possible the Court will issue guidance to explain why the judgement was struck down. They may raise an administrative judgement of proscription if it the Synod's aims are clear and it is apparent that different wording would pass scrutiny and have a similar effect.
+
+The Court will strike down any judgement which fails to meet the basic requirements. Judgements that fail to state which Imperial law is being invoked to proscribe the action will fail, even if it seems obvious. However the judgement will also fail if the action or status being proscribed does not fall within the purview of the Imperial law being cited. A proscription that forbids the dedication of temples to the [[Night Below]] as heresy will fail scrutiny because that is idolatry, not heresy. 
+
+Proscription is used to lay out what is, and by extension what is not, covered by the existing Imperial laws that forbid [[religious crime]]. The Synod ''cannot'' use the judgement to create new religious crimes. The Synod cannot write new laws - that is the job of the Imperial Senate. The court will fail any proscription that clearly exceeds the boundaries of what is credibly laid down by the law in question.
+
+The Constitutional Court have a long history of jealously guarding the powers and responsibilities of each body of state - attempts by the Synod to use proscription to encroach on the powers of other bodies such as the [[Bourse]], the [[Conclave]], or an [[Imperial sodality]], will be firmly rebutted.
+
+As an extension of Imperial law, a proscription must not violate the principles laid down in the Imperial Constitution. Proscriptions that violate the dignity, freedom, and prosperity of Imperial citizens or transgress the Constitution's principles will be struck down. Imperial law always applies equally to all inhabitants of the Empire, so it is not possible to limit who is proscribed - for example, you can't allow members of the Synod to do something but prohibit it for others.
+
+Any priest may ask the Constitutional Court for [[Scrutiny#Advice|guidance and advice]] on the wording of a judgement before submitting it. The court will do everything they can to help ensure a judgement is valid, but they can never guarantee the outcome. It is not possible to tell if a judgement will pass scrutiny until it is passed into law by the Court.
+
+==Outcome==
+If the judgement is successful, Imperial law will be updated to include the proscription laid out in any successful judgement once it has passed scrutiny. Imperial law is not retroactive - a proscription only becomes part of Imperial law at the point where it passes the Synod - magistrates will not prosecute citizens for actions that clearly finished before that time.
+
+If a judgement of proscription fails to gain a majority in the General Assembly then it has no legal impact. A failed proscription leaves the law in the state it was in before it was submitted, it does not make something legal that was previously proscribed. If the law previously said nothing on the issue in question, it still says nothing after the judgement fails.
+
+{{Synod Further Reading}}

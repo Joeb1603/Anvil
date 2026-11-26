@@ -1,0 +1,27 @@
+{{Army Page}}
+{{CaptionedImage|file=Clytemnestra of the House of the Wanderer.jpg|caption='''Clytemnestra of the House of the Wanderer'''<br>General of the Argent Sword|align=left|width=300}}
+{{CaptionedImage|file=ArgentSword_Colour.png|align=right|width=250|caption=The "''official''" emblem of Callidus' Argent Sword}}
+===Overview===
+__NOTOC__
+The Argent Sword were raised by [[Raise Second Urizen Army|Senate motion]] proposed by '''Herminius of the House of the Wanderer''', then Senator for [[Zenith]], during the Spring Equinox 387YE as a result of an [[A_box_for_a_sword#The_Blade_of_Finest_Silver|offer]] made by [[Callidus]]. Mustering completed in a single season, shortly before the Summer Solstice 387YE. 
+
+The second Urizen general leads the Argent Sword army, and is appointed (or re-appointed) at the Winter Solstice each year.
+
+===Recent History===
+TBC
+
+===Traditions===
+TBC
+<div style="float:right; width: 250px; clear: left;">{{CaptionedImage|file=CallidusArt.jpg|caption=The Argent Sword is made up of mercenaries under the employ of Callidus|align=right|width=250}}</div>
+==Composition==
+TBC
+
+==Army Quality : [[Army_qualities#Foraging|Raiders]]==
+The soldiers of the [[Realm#Autumn|Iron Labyrinth]] are rough and ready, with an eye for potential profit. The Argent Sword can be unleashed to focus on coin over conquest to make the general wealthy.
+
+===Bound to the Argent Tontine===
+The Argent Sword is a part of an ongoing contract with [[Callidus]], the Sovereign-Lord of the City of Chains. The army can only benefit from [[Army#Resupply|resupply]], natural or otherwise, whilst the eternal enjoys the [[Alignment#Amity|amity]] of the Conclave. In addition, due to its nature, it is only possible to [[Army#Rituals|enchant]] the army with Autumn magic.
+
+Should Callidus be placed under [[Alignment#Enmity|enmity]], there may be some legal complications, but given the mercenaries are not from any one city, it would only pose a problem if the Conclave were to place a significant number of Autumn eternals under enmity.
+{{RecentElections|General_of_the_Argent_Sword|the title of [[General]] of the Argent Sword}}
+[[Category:Imperial Army]][[Category:Urizen]][[Category:Military Council]]

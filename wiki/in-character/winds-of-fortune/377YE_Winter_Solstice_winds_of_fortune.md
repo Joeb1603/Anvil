@@ -1,0 +1,115 @@
+---
+title: 377YE Winter Solstice winds of fortune
+source: https://www.profounddecisions.co.uk/empire-wiki/377YE_Winter_Solstice_winds_of_fortune
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 377YE Winter
+event: 377YE Winter
+last_edited: '2026-07-02T20:52:15Z'
+revision: 141120
+in_character_boxes: 2
+---
+
+# 377YE Winter Solstice winds of fortune
+
+## OOC Introduction
+
+Before we did Winds of Fortune, we did the occasional post on social media that "foreshadowed" things happening during the upcoming event. These four mini-Winds of Fortune were among the first such posts we ever did. They are very primitive compared to later winds of fortune, but for the sake of completeness we've created this page and copied the text across from the original posts.
+
+Winds of Fortune - and Winds of War for that matter - have come a long way since these initial, early efforts.
+
+## The Day of the Dead
+
+It is the day of the dead when the year too dies …
+
+The Highborn invite the people of the Empire in joining them in celebrating one of their oldest traditions, that of the [Day of the Dead](../nations/highguard/Highguard_culture_and_customs.md#day-of-the-dead).
+
+In contrast to the brittle humour and fantasies of the League, the Day of the Dead is marked with sober reflection. It is time to remember the fallen, and honour their memory and the good they have done. Light candles and lanterns, and drive away the darkness for a time in memoriam of lives lived, now passed.
+
+On Saturday night the Highborn will be remembering the fallen of the Empire. Beginning with a candle and lantern-lit procession, and ending with stories and celebration of those who have returned to the Labyrinth over the previous year. A night of reflection is followed by the celebration of the Day of Rebirth, when new lives and bonds are celebrated with the giving of gifts and (for many traditional Highborn) the new year marked.
+
+Citizens of every nation are welcome in the Highborn camp; indeed, they extend an invitation to anyone who wishes to join them in sincere remembrance of those who have passed into the Labyrinth in the proceeding year.
+
+Anyone wishing to know more should seek out Escon, the Highborn Egregore, who will no doubt be able to answer any questions about this annual tradition.
+
+## The Masquerade of the Reaper
+
+In ancient times past it is said that at as winter reached its heights the Reaper would visit the land bringing both death and renewal. In the cities it became common place to wear masks in order to seek to avoid unwanted attention and from these traditions was born the festival which the League is once more reviving, [the Masquerade of the Reaper](../nations/the-league/The_Masquerade_of_the_Reaper.md).
+
+This winter [the League](../nations/the-league/The_League.md) will be in festive mode with competitions such as 'Bridge Fighting' and the Hunt of Ambition and a merry schedule of music and entertainment.
+
+The second evening of the gathering will see the actual Masquerade itself where the Reaper will walk the streets of the League and all are asked to wear masks in public areas of the League camp. The League Cartas will gather to remember their dead and renew vows before entering a grand parade with the Burning effigy. Following short speeches and awards there will follow a grand party in the League plaza with courtly dancing, feasting with the Butchers, drinking at the League's bars and salons and generally making merry.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We extend the hand of welcome to the Empty Throne.
+> >
+> > At the Winter Solstice we will come among you desiring counsel and greater understanding.  
+> > We send to you one who speaks with the voice of the Grand Ilarch of the Citadel.  
+> > We seek friendship and the bounty it brings.  
+> > We seek trade and the wealth that flows from it.  
+> > We hope for the freedom to walk among you in peace.  
+> > We hope for tolerance as we learn your laws and customs.  
+> > We hope that we will find the open hand of amity and not the raised fist of war.
+> >
+> > We trust that fate will favour us with concord between your empire and the Nikitis Axou.Grand Ilarch Restes of the Chambers of Issyk, Citadel of the Throne of Night
+
+Come and see a play, drink a beer, take part in a competition and eat great food.
+
+Oh and bring a mask ...
+
+## Axou Delegation
+
+A trade delegation from Axos has given advance warning that they intend to visit Anvil during the coming summit.
+
+Their crimson-sailed ship is docked at Crown Quay in Necropolis. The delegation makes its way to Anvil over-land, under a scarlet flag, bent on parley.
+
+They represent one of the great Citadels of Axos – the Chambers of Issyk, known to have trading partners across most of the Known World. They do not speak for all the Axou, but at least one influential ambassador is reportedly traveling with them along with a small cadre of bodyguard and – allegedly – at least one high ranking military officer.
+
+The Imperial Magistrates remind the Empire that, unless the Senate rules otherwise, the people of Axos are not barbarians. Their ways may be foreign, but they are extended the full protection of the law and expected in turn to abide by it. It is not illegal to speak or trade with them. It is as much a crime to kill or steal from one as it is to kill or steal from any Imperial citizen.
+
+## The Three Sisters
+
+As the Winter Solstice draws closer, the heavens turn slowly towards spring. The Wanderer pauses a moment in his fateful journey; three distant stars grow just a little brighter, down near the horizon. They shift a little, a tiny distance imperceptible to the untrained eye. A conjunction unfolds.
+
+The College of Astronomancers of the Lyceum; the House of the Heavens in the high Halls of Knowledge; the starwatchers of Void in snow-dusted Volodmartz all agree. A conjunction of the Three Sisters will coincide with the coming summit. This erratic event occurs perhaps once in thirty years. The last such major conjunction occurred shortly before the death of Empress Giselle, before the final retreat from Holberg.
+
+The influence of a constellation is difficult to quantify or explain to anyone – even magicians – who has not made a study of astronomancy. Do the stars move events in the mortal world, or do events in the mortal world cause the stars to move? Each astronomancer thinks they know the answer, but it is impossible to prove either way.
+
+What they can agree on is that events will tend to turn towards the fundamental rule presented by the conjunction. The Sentinel Gate will tend to open more readily to certain places rather than others; the influence of the stars will be felt a little more strongly on certain forms of hearth and ritual magic.
+
+This winter, say the sky watchers, will be marked by blood-ties and sorrow.
+
+### Game Information : The Three Sisters
+
+An astronomantic conjunction of this nature is uncommon, but not rare. The influence of astronomancy is weak, subtle and pervasive – it doesn't present a fundamental change to the game and it won't change the costs to perform spells or rituals for example. Many players might not even notice there is a conjunction taking place. Others may choose to view this as an opportunity to focus some of their role-playing around blood-relationships and family sorrows, or to flavour their spellcasting with themes appropriate to the constellation.
+
+What it means is that you are a little more likely to encounter themes relating to family and family ties during the event. There will also be some plots that reference or include the IC fact that the Three Sisters and the Wanderer are in conjunction – some events that happen only during a conjunction of the Three Sisters, for example.
+
+You can find out more about the Three Sisters [here](../../mixed/magic/lore/The_Three_Sisters.md).
+
+## The Iron Raptors
+
+The Iron Raptors have resurfaced at Anvil after several years absence. Despite their lack of formal Imperial backing, this mercenary sodality still manages to maintain a comfortable existence on the margins of the Empire. They specialise in bringing cash-strapped heroes together with rich patrons with problems to solve, taking a percentage of the money offered for serving as middle-men.
+
+During the coming summit their current leader Master Aryton Scalmere in Anvil looking to do business. He has boldly staked a claim to a prime spot in the marketplace, opposite the Hub and it is likely he will have a handful of highly dangerous, poorly paid contracts that need fulfilling by people whose thirst for violence and risky activities outstrips their common sense.
+
+### Game Information : The Iron Raptors
+
+We're running a number of plots at the next event through the Iron Raptor enterprise. The Empire setting describes many dangers - raids into barbarian lands, attacks on bandit strongholds and battles with the creatures that lurk in the dark recesses of the Empire. The Raptors will help to bring this aspect of the setting to the fore by giving players - especially new players - a chance to risk life and limb in the dangerous wilds of the Empire. It is a chance for high adventure, for glory and for the more worldly - for some rings and crowns that will help you pay for your way in Anvil.
+
+You will be able to find the Raptors in the market place, or possibly in the tavern. The Iron Raptors are effectively mercenaries though they have nothing to do with the battles and wars of the Empire leaving that work to the League Free Companies. The kind of plots accessible through the Raptors are especially designed to appeal to new players who have not yet got involved with the politics of the Empire where a chance for adventure and reward appeals. For those with everything to gain - or nothing to lose - the Raptors offers a chance for adventure and glory.
+
+We're hoping that if the Iron Raptors are a success we'll be able to create some more of these on-the-field groups that offer plot opportunities directly to characters on the field.
+
+```
+As on the Autumn Equinox 383YE, the Iron Raptors are no longer active at Anvil.
+```
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [377YE Winter](../../indexes/by-category/377YE_Winter.md)

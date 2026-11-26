@@ -1,0 +1,82 @@
+---
+title: Intent
+source: https://www.profounddecisions.co.uk/empire-wiki/Intent
+class: mixed
+topic: government/senate
+categories:
+- The Law
+- The Empire
+last_edited: '2024-04-15T20:43:51Z'
+revision: 109298
+---
+
+# Intent
+
+## Overview
+
+The Imperial Law is intended to be simple to understand without being an expert. Therefore we generally try to avoid spelling out legalistic terms and principles and abstract as much as we can to the magistrates. However, in the interests of better understanding, this page sets out out what role intent plays in the sentencing of a crime. While the concept of intent is not new (it is integral to a murder charge for example) it is not always clear to what extent intent is relevant, nor what consequences it may have for punishment, and we want to both make this clearer and spell out one specific change.
+
+## Intent and Definitions
+
+When magistrates consider the culpability of the accused they should take into account the intent of the accused. The 'result' in each of these definitions below is the act which is deemed to be criminal (although in some cases, such as an accident, this would not be judged to be criminal).
+
+**Intent**
+The accused intended the action which led to the result. If the foreseeability of the result is in question then it must be a natural consequence of the act.
+
+**Recklessness**
+The accused ignored the danger and acted anyway, leading to the result. For example, taking an act that a reasonable person would know will likely lead to that result.
+
+**Negligence**
+The accused failed to exercise reasonable care, which led to the result. This will normally mean civil not criminal liability, although magistrates may still prosecute cases of negligence against the state – such as for example negligently submitting a motion to the Senate that has been seconded by someone who is unable to legally do so.
+
+**Accident**
+The actions of the accused led to a result that no one could have reasonably foreseen and for which no one should be held responsible. This leads to neither criminal nor civil liability.
+
+## Key Consequences for Sentencing
+
+- Only those who the magistrates believe acted with intent will face the possibility of execution. This is already an explicit component of murder/manslaughter and a few other crimes but the principle applies to all crimes.
+- If the magistrate gives you a fine or some other punishment and you do not pay the fine or submit to the punishment by the deadline, it is still within the magistrate’s discretion to escalate the punishment to execution. This happens extremely rarely in practice, but it does remain an option for magistrates in all cases, including where there is no intent.
+- Note that for the purposes of intent, it does not matter how bad the consequences of your criminal acts were. The magistrate will take this into account in sentencing, bearing in mind that execution is not an option without intent.
+- Ignorance of the law is still not a defence. In any case, it is the intention to commit the act (which is criminal) that matters, not knowing that the act is a crime.
+- If the crime for which you are being prosecuted is not a “serious crime” (i.e. it does not normally carry the death penalty) then even with intent, you will not be executed, unless there are exceptional circumstances.
+- Even if the crime is a “serious crime” and you are found to have intent, that does not make execution certain, just very likely. If there are exceptional circumstances or a very persuasive clemency plea, this fate might still be avoided.
+
+## OOC Design
+
+The primary purpose of the Empire legal system is to strongly discourage PvP murder (and theft) in the field and to maintain the idea of Anvil being a reasonably safe and well-ordered place. As such we always punish PvP murder very hard, and murderers who are caught are invariably executed. Intent to kill is a very important element of the crime of murder and it is also important from an OOC perspective because one player has made the choice to murder another player's character. They have "bought in" to committing the crime, so they have also bought into the consequences. We do of course extend our legal remit well beyond this; we try to create a cohesive and consistent set of laws that are impartially-enforced and that reinforce the setting. And of course people do get executed for other crimes, too.
+
+But whether a character should potentially face the death penalty should be determined by how the player chooses to play the game. If someone committed a serious crime, intending to do it, this lies on the other side of the line from someone who made reckless or poor choices that were judged to be criminal because they resulted in bad consequences. These are both very different kinds of players’ choices.
+
+We have always been up front about the fact that the Empire legal system is constrained by the fact it is a LRP-based legal system. This means we make a number of significant decisions about how things work based on the fact that we want to provide a good player experience to those who interact with the law. This is why we don't hold people prisoner, even though it means it is trivially easy for them to escape the field if they want (albeit they will miss out on all the drama). This is why we try to hold trials in ten minutes or less, to create drama and avoid excessive constraints on player's time, even though this is clearly not conducive to justice. All of these things take precedence over what would happen in a truly realistic legal system, because this is a LRP game that we want to be enjoyable, and that would be no fun for anyone.
+
+In a similar vein, we don't want players to be so scared of consequences they never take any risks or create any game. We want to run a consistent and believable IC legal system which reserves the most severe consequences for those who intentionally chose to commit the crime.
+
+## Further Reading
+
+Core Brief
+
+- [Imperial law overview](Imperial_Law_Overview.md)
+- [Imperial law](Imperial_law.md)
+- [List of Criminal Offences](List_of_Criminal_Offences.md)
+  - [Religious crime](../synod/Religious_crime.md)
+- [Civil Claims](Civil_Claims.md)
+  - [Will](Will.md)
+- [Criminal trial](Criminal_trial.md)
+
+Additional Information
+
+- [Court Reports](Court_Reports.md)
+- Intent
+- [Crime and Criminality](../../../out-of-character/game-design/Crime_and_criminality.md)
+- [Officers of the Law](Officers_of_the_Law.md)
+  - [Magistrates](Officers_of_the_Law.md#magistrates)
+- [Conclave](../conclave/Conclave.md)
+  - [Alignment](../../../in-character/eternals/Alignment.md)
+  - [Sorcery](../conclave/Sorcery.md)
+  - [Interdiction](../conclave/Interdiction.md)
+- [Imperial Constitution](Imperial_Constitution.md)
+- [Clemency guidance](Clemency_guidance.md)
+
+---
+
+Categories: [The Law](../../../indexes/by-category/The_Law.md), [The Empire](../../../indexes/by-category/The_Empire.md)

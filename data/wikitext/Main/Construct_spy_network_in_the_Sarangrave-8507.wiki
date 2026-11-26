@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:383YE Summer]]
+__NOTOC__
+<ic> A motion to commission a spy network in the Sarangrave. Costing 10 weirwood, 2 thrones 4 crowns to build, funded by Cyrus of Felix’s Watch. Upkeep costs will be 2 thrones per season.<br>Proposed by Temeschwar, seconded by Karsk</ic>
+
+==Overview==
+* Commissions a [[spy network]] in the [[The_Mallum#The_Sarangrave|Sarangrave]] in [[the Mallum]]
+* Passed at 40 thrones.
+
+==Date==
+* Passed Summer Solstice 383YE.
+
+==Costs==
+* [[Spy_network#Costs|Standard costs apply]]
+* 10 weirwood
+* 20 crowns
+* Upkeep: 2 crowns 
+
+==Progress==
+* 10 wains of weirwood and 20 crowns provided by Giuseppe Sanguineo von Temeschwar after Summer Solstice 383YE.
+
+==Outcome==
+* Once complete, Imperial [[military unit|military units]] will be able to support the spy network.

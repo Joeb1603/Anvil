@@ -1,0 +1,38 @@
+==Rules==
+{{Season|Winter|50}} 
+
+===Performing the Ritual===
+{{Casting time|10}} {{Imperial Reduction}}
+
+{{regio|Winter}} {{Target Territory}}
+
+{{curse}}
+===Effects===
+The ritual unleashes a potent curse on a territory. Malignant spirits emerge from Winter [[regio]] to torment people. Crops fail, animals sicken and die; human and [[orc]] inhabitants suffer malaise and nightmares; unseasonable weather causes floods and droughts. Preserved foodstuffs are ravaged by rot and mould, as are buildings; pit props and support beams alike weaken or collapse; parasites and diseases bedevil trees and plants. Misfortune, weakness, hunger, and dread run rampant. Tempers fray, and everything goes wrong at once.
+
+All [[Resource#Personal_Resource|personal resources]] belonging to characters in the territory except for [[congregation|congregations]] have their production reduced. Each [[farm]] and [[business]] provides 36 fewer rings; each [[forest]] and [[mine]] produces two fewer measures or ingots of the base material; each [[mana site]] produces one fewer crystal mana; each [[herb garden]] provides two fewer herbs; and each [[fleet]] and [[military unit]] based in the territory loses one rank from its production (which also reduces its effective strength by 20). 
+
+{{Territory Effects}} 
+
+{{Season Duration}}
+
+==Description==
+This potent curse channels the worst [[Winter magic#Resonance|resonances]] of [[Winter magic]] to bring misery to an entire territory. While it takes its name from the way it unleashes minor entities from the [[Realm#Winter|Wasteland]], freeing them to bedevil and harass mortals as they see fit, these creatures are not actually ghosts as priests understand them. On rare occasions where there is a chance to examine them, the [[insight]] ceremony makes it clear they are creatures of the realms rather than lingering spirits of humans or orcs.
+
+The curse also brings with it an oppressive malaise that encourages hopelessness, and spreads misfortune and subtle destruction wherever it goes. When cast on an Imperial territory, it often encourages those exposed to its effects to seek out spiritual support - while everything else is breaking down, priests of [[the Way]] often find their services in particular demand. While [[liao]] ceremonies provide no particular protection from the misfortune caused by the curse, [[consecration|consecrated]] areas or personal [[anointing]] can give much needed assistance in enduring the oppressive malaise that often accompanies it.
+
+The spirits unleashed by this ritual are rarely visible, nor entirely material; they sometimes appear as emaciated shapes, sometimes skeletal, sometimes with obvious unnatural features such as twisted horns or glowing eyes. Others manifest as nothing more than howling winds and whispered threats, or looming presences that surprise lone travellers. They never actually attack anyone, but where they pass misfortune follows.
+
+Rarely, a more potent denizen of the Winter realm might appear as part of the curse, and such entities may remain behind once the effects of the ritual end. Likewise, while the tormenting spirits usually return to their homes when the curse has run its course, there have been incidents where they have battened on to particularly potent sources of magic. In both cases, Imperial heroes may be called on to directly deal with the threat - before it gets even worse.
+
+Some scholars believe that these are similar kinds of spirits that [[Quickening Cold Meat]] binds into corpses to create undead. Others argue that the spirits are individually quite weak, and show little interest in inhabiting dead bodies; they are much closer in character to ''boggarts'' (minor denizens of the realms often analogous to vermin, but magically potent). The precise source of the spirits is unclear; creating a ritual that allows denizens of the realms to be called to the mortal world invariably requires the assistance of an [[eternal]] of that realm. The ritual texts that detail ''Winter's Ghosts'' don't make any reference to such a bargain: there is no indication of an ''assurance'' that would cause the magic to fail, and there is no indication that it is directly drawing on an eternal's power. Scholars of the [[Unfettered Mind]] cautiously suggest that while the ritual must have been created with the aid of an inhabitant of the Wasteland, once that assistance was secured the eternal was not required to let the ritual work. In this, it is similar to rituals such as [[Foam and Spittle of the Furious Sea]] and [[Thunderous Tread of the Trees]].
+
+That said, several Winter eternals are known to favour the curse and may offer boons to make it easier to perform. [[Agramant]], the members of [[the Thrice-cursed Court]], and [[Sorin]] are all said to provide such boons, although their reasons for encouraging its use vary significantly. In the event that an Imperial magician wanted to make a more potent version of this [[curse]], they are the obvious entities to speak to.
+
+==Common Elements==
+The ritual releases uncontrolled spirits across a territory. Grim, throbbing musical rhythms, slow threatening movement, and invocations of dread and hunger are all used to raise and direct this malign power. Focusing the desire for retribution, or feelings of hatred and malice towards those who live in the territory may help empower the magic; a recitation of grievances is particularly appropriate. Destroying or damaging a symbol of the target's prosperity - literal or metaphorical - works well with this ritual. A curse against [[Tassato]] may involve contemptuously trampling coins into the mud, for example, as a reference to the presence of the [[Tassato#The_Imperial_Mint|Imperial Mint]] in the city; a curse against [[Upwold]] or [[Mitwold]] might involve the careful, malicious wasting food raised in the territory.
+
+The [[astronomancy|constellations]] of [[the Wanderer]] and [[the Drowned Shepherd]] are both useful adjuncts to the magic of the curse, although some magicians favour [[the Three Sisters]] especially when considering the low-level harm the misery the curse causes may inflict on families and communities. It is common to evoke the Rune of [[Naeve|Hunger]] for obvious reasons, but [[Ull]], [[Gralm]], or [[Mawrig]] also resonate with the ritual. A [[dramaturgy|dramaturgist]] may find [[the Doctor]] to work well with the ritual, especially if the [[coven]] include elements of retribution or "just desserts" as part of their performance.
+
+[[Category:Winter Ritual]]
+[[Category:Rituals]]

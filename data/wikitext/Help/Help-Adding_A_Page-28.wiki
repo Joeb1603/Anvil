@@ -1,0 +1,30 @@
+Roughly, follow this procedure:
+
+== Create A Link ==
+Find a page you want to link from, edit it, and put the desired page name in link brackets e.g. 
+<pre>[[My New Page Title]]</pre>
+Think about the title as it will appear on the page itself, not as it should be in a link. If you want to change the link text, you can do so by separating it from the title with a pipe (|) character, e.g.
+<pre>[[My New Page Title|Link to my new page]]</pre>
+
+Now when you reload that page, you should see a red link to your new page. Click on it, and you will be editing your new page.
+
+== Add Content ==
+Put in whatever content you want.
+
+<label type="info">Note</label> It's good to get into the habit of sprinkling double-square brackets around the first use of a new term, it encourages people to make new pages.
+For example:
+<pre>
+The Alam regularly consult with their top magicky people, the [[Hakima]]...
+</pre>
+That way, even if you don't make the page about the Hakima yourself, someone will be encouraged to.
+
+== Make It Navigable ==
+When you're done, consider adding it to a [[Help:Categories|category]] (or categories), so that it'll play nicely with the rest of the site. If it's a new category, you might want to consider updating the [[Help:Editing Breadcrumbs|Breadcrumbs]] file. And you might conceivably want to add it to any of the [[Help:Editing Empire Navigation|menus]].
+
+If, for example, it's an article relevant to a particular nation, it should be put in two categories - Nations, and the nation itself. e.g. add this text to the bottom of the document.
+<pre>
+[[Category:Nations]]
+[[Category:Alam]]
+</pre>
+
+[[Category:Help]]

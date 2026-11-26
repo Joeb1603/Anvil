@@ -1,0 +1,172 @@
+==Overview==
+Every year we carry out a review of some part of the game looking to see what we improve. This process of continuous review allows us to keep the game fresh and ensures we remain happy that we're running the very best game we can. We don't have many updates this year, but the ones we do have are important for the players who are affected. This page summarises and explains the changes so that players can identify and understand the changes easily. 
+
+We try to include a section after each update to explain the reasoning behind the change, as well as providing an in-character rationale for what has changed where appropriate. As ever, it is important to remember that the rationale is there purely to provide a way for characters to explain any changes, it's not an actual plot development.
+
+==Sun Chamber==
+We have added a new sodality to the game, the [[Sun Chamber]]. This ancient [[Imperial sodality]] was founded during the reign of [[Empress Richilde]] with a manifesto to help young citizens of the Empire gain positions of power and influence in the Empire. Membership of the sodality is restricted to players who are aged 14-18 years old - while other citizens are welcome to petition the Chamber for aid, only members can take part in the sessions or vote.
+
+===Reasoning===
+We've created the Sun Chamber sodality because we want to directly address the fact that Empire can be a very inaccessible game for players before they turn twenty. We have always tried to provide a range of options to actively engage younger players and we've had some fantastic feedback on the successes of that, but once players past their Test of Citizenship and either take their Test of Arms or choose not to, that framework falls away. 
+
+The hope was always that players in would be able to engage with the political game of Empire, getting involved in Conclave, the Synod and the other parts of the game as they try for Imperial titles. In practice, that assumption was hopelessly naive. While the setting asserts that anyone who has passed their Test of Citizenship has all the rights and responsibilities of an Imperial citizen, in practice, that doesn't always happen. A player who looks young will often have to deal with ageism, with people unconsciously assuming that they're not old enough or not mature enough or not experienced enough simply because of their apparent age.
+
+We want our game design to support our conduct rules and push back where practical on out-of-character prejudicial assumptions. For example, we will not tolerate someone saying that another player or character shouldn't be in the military council because of their gender or whether or not they take the battlefield. We've had some conversations with younger players about their experiences playing the game. Drawing on their feedback, we've created a powerful sodality with some significant in-character abilities to help address the barriers faced by players in this age group.
+
+Our goal is three-fold; first of all, we want to create a degree of equity for players who are under twenty. We want to directly bolster their political power to make the PvP game accessible on a more equal footing with other players. The sodality is aimed at players aged fourteen to eighteen, but includes the potential for players a little older and a little younger to interact with it.
+
+Secondly, we want to create a forum where players in our target group can engage in politics with each other - the sodality is deliberately set up in such a way as to make its inherent operation political. Deciding how and when to deploy its powers will require the same kind of politics and compromise that underpins the rest of the game. Our goal is to give members of the sodality difficult decisions to wrestle with - exactly the same as other players - but in an environment where almost nobody but them has any hard power to determine what happens.
+
+Finally, we wanted to create reasons that other players might want to interact with the sodality. We hope that senators, grandmasters, cardinals and characters without titles will want to approach the sodality and seek their help and support, just as they might with other political bodies in the game. Likewise, members of the sodality will have to approach these titles to advance their own goals. We really want to avoid interactions where people either give them everything they want because they're perceived as children, or else write them off and ignore them for the same reason. Instead, we hope that players will treat them as significant characters who have powers they can wield that can be employed to their advantage if they can persuade enough of them to go for it - that is to treat them as peers in the player-vs-player and player-with-player political game of Empire.
+
+We'll watch the development of the sodality carefully - and listen to all feedback as always, but we hope that the Sun Chamber will serve to make the political game of Empire more accessible to more players.
+
+===IC Reasoning===
+The Sun Chamber was created centuries ago, but most current members died during the reign of [[Empress Britta]] sacrificing their lives to try and save their beloved Empress. Following the recent work to restore the power and status of sodalities, '''Zoria of the Zulgan Tash''' pushed the [[Civil Service|civil service]] to look into the status of the Sun Chamber. Having identified that the sodality's powers were never abrogated, the Constitutional Court have confirmed that the Chamber is still a viable legal body with a number of important powers that it can now utilise.
+
+==Colleges and Runeforges==
+{{CaptionedImage|file=NightLight.jpg|align=right|width=400}}
+We have updated the rules for the creation and upkeep of a [[college of magic]] or a [[runeforge]]. The standard upkeep of both commissions is now fixed at 12 thrones a season, regardless of how many the Empire builds. The non-standard upkeep of a unique college of magic, like the [[Doyen of the Spires]], is not affected by this change, so it remains at 12 thrones + 5 thrones per territory in Urizen.
+
+In addition to the change to upkeep we have introduced limits on the number of colleges and runeforges the Empire can support. Each nation only has so many wizards and artisans who can operate a college. Most nations can only support a single college of magic or runeforge depending on their culture. Each nation has its own unique limits, but as ever, plot may offer an [[opportunity]] to exceed these limits on occasion.
+
+Finally, we have taken the decision to add information on ritual texts and schemas to the page once they are completed. This brings them in line with the Doyen of the Spires.
+
+* [[Doyen of the Spires]]
+* [[Master of Ice and Darkness]]
+* [[Seer of the Spiral Sword]]
+* [[Keeper of the Runegrott]]
+* [[Dean of the Lyceum]]
+
+===Reasoning===
+Under the old rules, each college of magic had an ever-increasing upkeep, so the more colleges the Empire built, the greater the cost of each college. These rules were designed to limit the number of colleges (and runeforges) that the Empire built to a level that Profound Decisions could support.
+
+Unfortunately the rules made the upkeep of colleges incomprehensible - especially when plot made any changes to the upkeep of any college. At the point where we had no idea what the upkeep of a college should be, it was clear that the rules were too complicated. At the same time, our ability to support more colleges of magic has improved as our systems for processing arcane projections have slowly improved. As a result we have changed the rules to simply the upkeep and make it easier for the Empire to build more colleges and runeforges.
+
+We've put limits on the number, partly to prevent there being more than we could ever support, partly to reflect the natural strengths of different nations and in part to create the potential for future plot for the Empire to explore ways to increase those limits if they choose to.
+
+The Imperial budgets will be adjusted so that the change in total upkeep of all the Empire's ''existing'' colleges and runeforges does not affect the money available to players at events. These rules will only affect new colleges or runeforges that are built.
+
+===IC Reasoning===
+The Imperial civil service have increasingly found it easier to hire magicians (or artisans) living in a country to operate a college of magic or runeforge. Provided the nation can support a new college or runeforge, the Empire can now build such a commission and know that the upkeep will be 12 thrones a season.
+
+==Territory Enchantments==
+We have updated the rules on [[enchantment|enchanting territories]] and nations of the Empire. It is not possible to create arcane projections that enchant a nation with the magic of a realm, nor possible to do so on a specific region. (There is an outstanding ritual enchantment on Dawn which we will still honour and write a wind for). 
+
+It is possible to create enchantments on a territory level but any enchantment of this kind must create some kind of physical change in the world. An enchantment might cause plants to bloom or gentle rains to fall, it might cause tremors, storms or angry tides. There might be lights in the sky or the stars might disappear - any physical change that could happen naturally can be caused, but it must do something. This requirement is for a narrative physical effect not a rules effect - territory enchantments ''cannot'' provide additional benefits to resources by enchanting the territory.
+
+This is especially important for rituals that try to "flood" a territory with magic. If you draw on magic from a realm, you must try to direct it to achieve something. The roleplaying effects of most rituals are side-effects of the presence of magic - any ritual that tries to provoke roleplaying effects at the territory level will only work if the magic is trying to make a physical change in the world. Creating a Summer ritual that encourages the inhabitants of a territory to be bold in their actions is possible - but only if is a consequence of the presence of magic attempting to do something else. Roleplaying effects on this scale are a consequence of the use of ritual magic to create an effect in the world, they cannot produce a roleplaying effect and nothing else.
+
+It is possible to "''invite''" an [[eternal]] into a nation, allowing the eternal and its heralds to influence the territories, but that always requires the prior agreement with the specific eternal who will provide the arcane projection. Such agreements rarely last longer than a season and often involve clauses on the heralds leaving the nation.
+
+A ritual that enchants a territory will usually have a magnitude of around eighty. Anyone creating an AP must name the territory in the projection - it is likely that if the effect is codified then the limitation on the territory will be removed - as with [[Regrow the Land's Heart]]. The normal outcome of such an magnitude 80 enchantment on a territory is that it will produce the game effect and be mentioned in the interlude and have an entry in the next wind of magic. Such magic is unpredictable however and in rare cases they may produce unlooked for effects or benefits.
+
+===Reasoning===
+Rituals to flood a territory with magic of the realm have been increasingly popular, but we have struggled to be consistent with the rules for them. Some arcane projections have been rejected when similar rituals have been passed at other times. Some have had very significant responses, when others have less impact. It is not always easy to keep up with the demand for these rituals, especially as they become more popular.
+
+We've updated the rules so that we can be more consistent and clear with the responses that we give players submitting arcane projections. We've also tried to set expectations so that we can ensure that we can meet the demand and players will get what they expect.
+
+===IC Justification===
+Arcane projections are always fickle by their nature, but an evolving conjunction of [[the Mountain]] and [[the Great Wyrm]] continues to influence the way magic works.
+
+==League Look and Feel==
+We have completely overhauled [[the League look and feel]] page to bring it up to the standard of the new [[Urizen look and feel]] page we produced two years ago. This has been a huge piece of work that has required collaboration with a large team of skilled costumiers as well as League players. I'd like to thank everyone who helped us produce the new page.
+
+One of our core goals for the new page was to move beyond from the more restrictive costume options presented by the original brief. We do want the League to have a really clear visual look that defines the nation, but we want to ensure that it includes garments that everyone can feel confident wearing.
+
+We're aware that the new page is long and quite dense. Please don't feel intimidated, it is a reference, not a checklist! Our [[Costume#Minimum_Standards|minimum standards for costume]] have not changed; the new page is there as a resource for all League players to provide the best inspiration and information possible when you want to improve your costume.
+
+We are planning to overhaul all our look and feel pages eventually - Empire is an aspirational game! We ask everyone to get the best costume they can and then improve on it over time when possible, so it's only fair that we do our best to improve the wiki when possible. These kind of updates are a huge piece of work however; this one has taken years to complete, so please be patient with us as we work through them.
+
+==Combat==
+We are going to trial a change to the combat safety rules at our four Empire events in 2025. Throughout this year, the head will be treated the same way as the face or neck - that means your character will still take a hit if they are hit in the head, but you and your opponents must not aim for the head in combat. If you accidentally hit someone in the head, you should proffer a quick apology, just as you might with any other slip-up on the battlefield. 
+
+This is a trial for 2025. We don’t normally trial rules, we either implement rules changes or we don’t, but in this special case we felt it was crucial to base a final decision on real data. We are doing this because we are confident it will make our battles measurably safer and we are hopeful that the impact on battles will be less than people fear. We don’t know that either of those will be true, nobody can really say for certain. Hence why we are going to try it for one year and then make a final decision at the end of 2025.
+
+A trial gives us an opportunity to test this out, to see what impact it has on fights. It will give us a chance to run events on this basis before we make any final decision – and it will give players a chance to give us feedback based on their actual experiences of the fights.
+
+We appreciate that this rule will make large shields more powerful in Empire. We understand that a lot of players will be concerned that it makes combat less enjoyable. Those are clear downsides.
+
+The potential benefit is improved safety for everyone. That is very important to us. We are responsible for the safety of our players at our events – the only way we can enjoy running the events is if we feel we’ve taken all the appropriate steps to get the balance of safety right. We know this trial won’t please everyone, but we want to enjoy running events and we can’t do that if we don’t take the right steps to keep people safe.
+
+We understand we can't make battles perfectly safe - that isn't possible while we retain any element of larp fighting and people running around a woodland. There will always be mistakes and accidents that happen and people will get cuts and bruises when something goes wrong. This trial is about trying to improve protection for the most important and vulnerable part of the body to get the risks of serious injury as low as they can be for a larp fight.
+
+We've also introduced in [[Weapons_%26_armour#Helmet|a new rule to make robust helmets]] provide one additional body hit. A good helmet can look incredibly cool in combat but it can also reduce the risks involved with an accidental head-hit on the battlefield. Our existing rules did not provide enough incentive to wear a helmet, so we wanted to give more encouragement for players to get a good helmet and wear it when they go to battle. Players are encouraged to wear a helmet while monstering if they have one and we’re going to look at what we can do to provide more helmets for monsters to use over time. We're continuing to work on improving our look and feel guides to give more guidance to players on the best helmets to wear on the battlefield for their nation - but a good in-character helmet is always better than no helmet.
+
+==Military Rituals==
+* '''We have updated the details of most rituals that affect armies, military units, and fleets in Empire'''
+* '''It is no longer possible to cast a ritual that gives an army a quality or a special order that it can take'''
+We have updated the details of most of the rituals in Empire that affect armies and navies. We've adjusted the game effects of enchantments, altering some of the durations, game effects and ritual magnitudes. The changes make the rituals more consistent with each other in terms of game effects and benefits and consistent with the individual capabilities of the realms. Crucially we have removed the ability of ritual magic to allow an army to take a unique order - those rituals now provide additional military strength in one form or another, but don't provide additional order options.
+
+We've added additional guidance to the wiki on what is possible with ritual magic to make it easier for players to create arcane projections that are likely to succeed.
+===Breakdown===
+* '''Swords in the Noonday Sun has been changed to provide 1000 points for determining victory and casualties inflicted'''
+* '''Find the Best Path has been changed to provide +1 speed and the magnitude reduced to 80'''
+* '''Bound by Common Cause has been changed to provide a reduction in the upkeep on an army by 20 thrones'''
+* '''Why Sulemaine Walked Away from the Baker now also provides a 10% reduction in all casualties suffered that season by the army'''
+* '''Footsteps of the Fallen has been removed'''
+* '''Host of Shadows, a ritual not in Imperial lore, now allows an army to benefit from the effects while using another order'''
+* '''Quickening Cold Meat provides 1000 points for determining victory and casualties inflicted, lasts one year, and its magnitude reduced to 120'''
+* '''Loosen the Shackles provides 4000 points for casualties inflicted and is magnitude 120'''
+* '''Eyes of the Hills and Fire on the Water cannot currently be cast, we are still deciding how to address them'''
+
+===Reasoning===
+Over a decade of play, the number of enchantments that can be cast on armies has grown considerably, with new rituals created by players alongside those introduced in plot lines. These rituals tended to vary significantly, with different magnitudes, durations and game effects. Having one or two rituals be noticeably better to the alternatives in terms of play balance and game effects means there are less meaningful choices for military magicians as they make their plans. 
+
+Worse, there were a number of rituals introduced to the game during a period when the design team mistakenly decided that army enchantments that granted access to a quality or special order was a positive for the game. Having seen the effects of such rituals, it is clear that they were a mistake and should never have been introduced to the game, as their existence undermines the unique nature of each Imperial army. The fact that the [[the Brass Coast|Freeborn]] [[The_Brass_Coast_military_concerns#The_Fire_of_the_South|Fire of the South]] and the [[Navarr]] [[Navarr_military_concerns#The_Black_Thorns|Black Thorns]] can make a [[Army qualities#Fast|forced march]] from one side of the Empire to the other makes those armies distinctive and different, in a way that a ritual enchantment does not.
+
+Adjusting all the enchantments that target armies allows us to have a clean set of rituals that have all been constructed and designed at the same time and have a consistent approach to magnitude, game effect and play balance. Where possible, we've shifted existing rituals that used to allow a special order to be taken to provide a boost to the effectiveness of the army instead. Where that wasn't possible, we've removed two rituals from play.
+
+===IC Justification===
+Imperial astronomers have attributed these changes to a rare conjunction of [[the Great Wyrm]] and [[the Mountain]]. The changes in these magics have been carefully checked and rechecked by the magicians of the Unfettered Mind as part of their ongoing research on rituals in Imperial lore that might have an eternal assurance underpinning them.
+
+==Must-avoid Policy==
+We have updated our [[must-avoid policy]], to better define the in-character actions available to both parties. We have been having issues setting boundaries to limit contact in existing IC conflicts. The update makes it explicit that we will check if there are any ongoing IC conflicts, so that we can assess them and look at what additional restrictions are appropriate to limit physical contact in the future. Players under a must avoid can't initiate new conflicts with each other, but if characters have an ongoing competition for an in-character title, we want to know so that we can discuss how it must by managed by both parties for that to continue.
+
+==Military Units and Fleets==
+We have overhauled the way [[military unit|military units]] and [[fleet|fleets]] act in [[downtime]]. The focus has been on streamlining the actions that can be taken by a player with that resource, and how they interact with [[enchantment]] rituals. We've introduced several new actions that any military unit can take (such as mercenary work or seeking glory) as well as a small number of adventures available to specific nations or archetypes. These changes will take effect in the downtime following the Winter Solstice.
+
+There are now six core types of action that can be undertaken - campaigning (primarily supporting an army or navy), guarding (usually defending a fortification), scouting (such as from a spy network), trading (with foreign ports), raiding (stealing loot from barbarians) and questing (going on adventures). Henceforth, any ritual that boosts a military unit or fleet will only benefit one type of action - but it will benefit every option for that action.
+
+The main change to rituals has been to better define which action each ritual supports, and to remove rituals that supported multiple actions. Some magnitudes have shifted up or down as well. One of our goals has been to ensure that each ritual affects only one kind of action, and where possible to strengthen the themes of the individual realms as part of a wider update.
+
+Military unit rituals affected include [[Merciless Wrath of the Reaver]] (supports raiding), [[Raise the Standard of War]] (supports campaigning), [[Clarion Call of Ivory and Dust]] (supports campaigning and has also gained an [[#Assurances|assurance]]), [[Shroud of Mist and Shadow]] (supports raiding, magnitude lowered), [[Clad in Golden Raiment]] (supports campaigning and the magnitude has increased to 6), [[Sharp Eyes of the Corsair]] (supports scouting), [[Lions of Phoenix Reach]] (supports campaigning), [[Carve the Crystal Guardian]] (supports campaigning), and [[Conclave of Trees and Shadow]] (supports scouting).
+
+Fleet rituals affected include [[Blood and Salt]] (supports raiding), [[Winds of Fortune]] (supports trading), [[The Lure of Distant Shores]] (supports trading), [[Sular's Promise]] (supports trading), [[Golden Voyage]] (supports questing), [[Muffled Oar]] (supports scouting), and [[Piranhas Devour the Kraken]] (supports campaigning). The ritual ''Shroud of Rolling Fog'', which is not in Imperial lore, has likewise been adjusted to support a single category of fleet action. 
+
+As well as rituals in Imperial Lore, there have also been changes to these [[Urizen lore]] rituals: [[Aspect of the Mountain]], [[Peregrine and Ichimos]], and [[Raise the Dragonsworn Cohort]] (all now explicitly support the guarding action), [[Unleash the Beasts Within]] (the magnitude has increased to 16, and the enchantment now supports the campaigning action). 
+
+These changes have also affected a few rituals that are not in either Imperial lore or Urizen lore. Specifically, [[Accoutrements of War]] (supports campaigning, no longer provides green iron), and ''Weaver at the Web'' (supports scouting actions).
+
+We've also introduced a new ritual, [[Feast of Heroes]], a [[Summer magic]] enchantment that supports military units taking a [[Military unit#Questing|questing]] action.
+
+As always, if your character has mastered a ritual that has changed you can email [mailto:admin@profounddecisions.co.uk admin@profounddecisions.co.uk] and we'll free up the mastered ritual slot for you.
+
+===Reasoning===
+The original options for military units and fleets have expanded considerably over time, with new options added to support fortifications, spy networks, navies and chances to take various different plot actions. There was a bewildering array of different ''types'' of action that military unit and fleets could take, and it was unclear how the different rituals interacted with the different options. Each time a plot presented a new option we had to list which rituals would benefit it.
+
+The haphazard way the system had developed meant that there were also problems with some rituals providing benefits to a wider range of different types of action than others. There were also inconsistencies with the campaign metaphysics, with some rituals providing a benefit despite being from a realm that had little affiliation for those kind of effects.
+
+By redesigning the system from the ground up, we can ensure better consistency between the various different rituals, and the realms. This improves the play balance of the various different rituals and makes it easier to communicate what options will be affected by what rituals.
+
+===IC Justification===
+The changes to the rituals are the result of an unusual conjunction of [[the Door]] and [[the Chalice]].
+
+==Imperial Sodalities==
+We have completely rewritten the rules for [[Imperial sodality|Imperial Sodalities]]. Under the new rules, an Imperial sodality can be given the power to elect Imperial titles and to employ other legal powers if the Senate wishes. Because of the new political power that these sodalities can wield, to be a full member of the sodality will require an appropriate Autumn ritual - a [[Mark of Fellowship]], which we have added to Imperial lore. In addition the sodality must have a clearly expressed legal purpose and a simple symbol or sigil that they can be recognised by. Each Imperial sodality will have an upkeep of four thrones a season.
+
+===Reasoning===
+Sodalities didn't exist when Empire was created - we created the idea to encapsulate things players were making in the game, but there was never any clearly designed framework to govern how they worked. The rules for how to make a sodality were crude and caused more problems than they solved because they hadn't been designed the ground up to work well with the other parts of the game.
+
+One of the most significant problems was that the Imperial titles being created by the Senate that were associated with a sodality couldn't then be elected by the sodality. Part of this was because we had no way to tell who was a member of the sodality and the rest of the game had not been built to allow players to create new ways to elect new titles. So the Military Council were being asked to appoint titles they had no involvement with, simply because nobody could think of a better way to do it.
+
+To resolve the situation we have gone back to the drawing board and written a set of completely new rules for Imperial sodalities that are designed from the ground up to make work in harmony with the rest of Empire. The Mark of Fellowship is essential to that rewrite - by constraining players to being members of a single sodality - we make the choice of which sodality to be part of a deeply significant one. That enables us to empower membership and allow it to be the basis for voting on Imperial titles and potentially utilising legal powers in the Imperial Senate wishes. Crucially the new rules represent a framework that players can use to create new structures in the game that can wield power in their own right in the game.
+
+The new rules won't be a good fit for some existing sodalities. Those groups can continue to exist without anything changing for them. We've made the distinction of an "Imperial sodality" to underline that anyone can call their organisation a sodality if they wish - the new rules only apply to Imperial sodalities that have been approved by a successful Senate motion. If an existing sodality does want to be part of the new framework, then we'll do what we can to support the transition this year with appropriate administrative motions for the Imperial Senate.
+
+The ability to limit who can join an Imperial sodality exists to allow our plot team to create a single specific sodality - it is very unlikely that any attempt to limit who can join an Imperial sodality would be approved under any other circumstance. This is part of the design of sodalities - the compromise of becoming an Imperial sodality is that you gain the potential for more political power and prominence, but you lose the ability to control the sodality and control who can join.
+
+===IC Justification===
+To assist and empower the Imperial Senate, the civil service have spent the winter period researching the historical records for the treatment of sodalities and similar groups in the years prior to the Emperor Nicovar. They have identified rules that were used extensively during this period but fell into disuse afterwards. They have dusted them off, and having checked with the Constitutional Court that such rules would still be compatible with the current understanding of the Constitution, they have presented them for use by the Senate should they wish to do so.
+
+{{Rules Updates}}

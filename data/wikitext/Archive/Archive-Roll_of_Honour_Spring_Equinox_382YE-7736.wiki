@@ -1,0 +1,232 @@
+<table class="wikitable sortable"><tr><th>Support</th><th>Citizen</th><th>Nation</th><th>Territory</th><th>Banner</th></tr>
+<tr><td>Barrens Spy Network</td><td> Zadkiel de Coeurdefer</td><td>Dawn</td><td>Astolat</td><td></td></tr>
+<tr><td>Barrens Spy Network</td><td>Clarence Oswald</td><td>Dawn</td><td>Astolat</td><td>House Arwood</td></tr>
+<tr><td>Barrens Spy Network</td><td>Tomyric</td><td>Dawn</td><td>Astolat</td><td>House Cordraco</td></tr>
+<tr><td>Barrens Spy Network</td><td>Adhemar</td><td>Dawn</td><td>Astolat</td><td>House De Rondell</td></tr>
+<tr><td>Barrens Spy Network</td><td>Jacob</td><td>Highguard</td><td>Bastion</td><td>Felix's Watch Banner</td></tr>
+<tr><td>Barrens Spy Network</td><td>Sir Kay de Ossienne</td><td>Dawn</td><td>Semmerholm</td><td>House Ossienne Banner</td></tr>
+<tr><td>Barrens Spy Network</td><td>Guy Grimbold the Elder</td><td>Dawn</td><td>The Barrens</td><td>House Cordraco</td></tr>
+<tr><td>Barrens Spy Network</td><td>Guillaume</td><td>Dawn</td><td>The Barrens</td><td>House Vexille</td></tr>
+<tr><td>Barrens Spy Network</td><td>Gwynhwyfar</td><td>Dawn</td><td>Weirwater</td><td>House Orzel</td></tr>
+<tr><td>Barrens Spy Network</td><td>Ilya Damirovich Severyan</td><td>Dawn</td><td>Weirwater</td><td>House Orzel</td></tr>
+<tr><td>Blood Cloaks</td><td>Olivier du Stanier</td><td>Dawn</td><td>Astolat</td><td>House De Montrose</td></tr>
+<tr><td>Blood Cloaks</td><td>Bohemond De Rondell</td><td>Dawn</td><td>Astolat</td><td>House De Rondell</td></tr>
+<tr><td>Blood Cloaks</td><td>Eadric Fjellrevening</td><td>Dawn</td><td>Astolat</td><td>House De Rondell</td></tr>
+<tr><td>Blood Cloaks</td><td>Roland De Rondell</td><td>Dawn</td><td>Astolat</td><td>House De Rondell</td></tr>
+<tr><td>Blood Cloaks</td><td>Roger Du Soleil</td><td>Dawn</td><td>Astolat</td><td>House Du Soleil</td></tr>
+<tr><td>Blood Cloaks</td><td>Valentin Ivarovich Severyan</td><td>Dawn</td><td>Astolat</td><td>House Orzel</td></tr>
+<tr><td>Blood Cloaks</td><td>Owain Sepulchre</td><td>Dawn</td><td>Astolat</td><td>House Sepulchre Banner</td></tr>
+<tr><td>Blood Cloaks</td><td>Lucien d'Alba</td><td>Dawn</td><td>Astolat</td><td>Winged Lions</td></tr>
+<tr><td>Blood Cloaks</td><td>Solene d'Alba</td><td>Dawn</td><td>Astolat</td><td>Winged Lions</td></tr>
+<tr><td>Blood Cloaks</td><td>Aethalstan Halvarson</td><td>Wintermark</td><td>Hahnmark</td><td></td></tr>
+<tr><td>Blood Cloaks</td><td>Dunn Stoneshower</td><td>Wintermark</td><td>Hahnmark</td><td></td></tr>
+<tr><td>Blood Cloaks</td><td>Jackdaw</td><td>Wintermark</td><td>Hahnmark</td><td></td></tr>
+<tr><td>Blood Cloaks</td><td>Ulf</td><td>Wintermark</td><td>Hahnmark</td><td></td></tr>
+<tr><td>Blood Cloaks</td><td>Volk</td><td>Wintermark</td><td>Hahnmark</td><td></td></tr>
+<tr><td>Blood Cloaks</td><td>Magnus</td><td>Wintermark</td><td>Hahnmark</td><td>Baldorbrand</td></tr>
+<tr><td>Blood Cloaks</td><td>Wulfric</td><td>Wintermark</td><td>Hahnmark</td><td>Baldorbrand</td></tr>
+<tr><td>Blood Cloaks</td><td>Brynjar Bjorning</td><td>Wintermark</td><td>Hahnmark</td><td>Bjornholt</td></tr>
+<tr><td>Blood Cloaks</td><td>Reidarr Solvisson</td><td>Wintermark</td><td>Hahnmark</td><td>Byrchenhal</td></tr>
+<tr><td>Blood Cloaks</td><td>Ethelwulf Argonning</td><td>Wintermark</td><td>Hahnmark</td><td>Darkwolves of Argonne</td></tr>
+<tr><td>Blood Cloaks</td><td>Finngard</td><td>Wintermark</td><td>Hahnmark</td><td>Darkwolves of Argonne</td></tr>
+<tr><td>Blood Cloaks</td><td>Kindra Edasdottir</td><td>Wintermark</td><td>Hahnmark</td><td>Darkwolves of Argonne</td></tr>
+<tr><td>Blood Cloaks</td><td>"sword hind" Leofric Dunning</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Cvor Dunning</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Daegheard Dunning</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Eahlstan Yarricson</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Elva</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Hadand Dunwulf</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Horst Dunning</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Osbert dunning</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Raeden</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Raknar Dunning</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Sylvi</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Theoderic Ulfarsson</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Tobrytan Dunning</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Ubbe Dunning</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Wolfrik</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Yared Dunn</td><td>Wintermark</td><td>Hahnmark</td><td>Dunhearth Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Nerian Ordulfsson</td><td>Wintermark</td><td>Hahnmark</td><td>Holt Hyrde</td></tr>
+<tr><td>Blood Cloaks</td><td>Skegg</td><td>Wintermark</td><td>Hahnmark</td><td>Hunters Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Faolan</td><td>Wintermark</td><td>Hahnmark</td><td>Sigehold Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Jana</td><td>Wintermark</td><td>Hahnmark</td><td>Sigehold Hall</td></tr>
+<tr><td>Blood Cloaks</td><td>Morcar Sigvardssson</td><td>Wintermark</td><td>Hahnmark</td><td>Vesalligr</td></tr>
+<tr><td>Blood Cloaks</td><td>Raknar</td><td>Wintermark</td><td>Hahnmark</td><td>Vesalligr</td></tr>
+<tr><td>Blood Cloaks</td><td>Rasmus Beppeson</td><td>Wintermark</td><td>Hahnmark</td><td>Vesalligr</td></tr>
+<tr><td>Blood Cloaks</td><td>Tuuli</td><td>Wintermark</td><td>Hahnmark</td><td>Vesalligr</td></tr>
+<tr><td>Blood Cloaks</td><td>Cadoc Artair  Skölsson</td><td>Wintermark</td><td>Hahnmark</td><td>Wargs of Winter</td></tr>
+<tr><td>Blood Cloaks</td><td>Erkenbrand</td><td>Wintermark</td><td>Hahnmark</td><td>Wyvern's Watch</td></tr>
+<tr><td>Blood Cloaks</td><td>Loghar</td><td>Wintermark</td><td>Hahnmark</td><td>Wyvern's Watch</td></tr>
+<tr><td>Blood Cloaks</td><td>Lorrin the Outrunner</td><td>Wintermark</td><td>Hahnmark</td><td>Wyvern's Watch</td></tr>
+<tr><td>Blood Cloaks</td><td>Orran</td><td>Wintermark</td><td>Hahnmark</td><td>Wyvern's Watch</td></tr>
+<tr><td>Blood Cloaks</td><td>Skarvald</td><td>Wintermark</td><td>Hahnmark</td><td>Wyvern's Watch</td></tr>
+<tr><td>Blood Cloaks</td><td>Ulmar Raedrigsson</td><td>Wintermark</td><td>Hahnmark</td><td>Wyvern's Watch</td></tr>
+<tr><td>Blood Cloaks</td><td>Garstan</td><td>Wintermark</td><td>Kallavesa</td><td>Wyvern's Watch</td></tr>
+<tr><td>Blood Cloaks</td><td>Yani</td><td>Wintermark</td><td>Kallavesa</td><td>Wyvern's Watch</td></tr>
+<tr><td>Blood Cloaks</td><td>Kalas Realm Reach</td><td>Navarr</td><td>Miaren</td><td>Realms Reach</td></tr>
+<tr><td>Blood Cloaks</td><td>Ophelius</td><td>Highguard</td><td>Necropolis</td><td></td></tr>
+<tr><td>Blood Cloaks</td><td>Feroce Lupo</td><td>Dawn</td><td>Semmerholm</td><td>Tour De Cendres</td></tr>
+<tr><td>Blood Cloaks</td><td>Aldwyn Fjellrevening</td><td>Wintermark</td><td>Sermersuaq</td><td>Fjellreven</td></tr>
+<tr><td>Blood Cloaks</td><td>Kali</td><td>Wintermark</td><td>Sermersuaq</td><td>Saker</td></tr>
+<tr><td>Blood Cloaks</td><td>Ulric Stenning</td><td>Wintermark</td><td>Sermersuaq</td><td>Stenstorp</td></tr>
+<tr><td>Blood Cloaks</td><td>Aethelstan Korping</td><td>Wintermark</td><td>Sermersuaq</td><td>Sussivari Oathsworn Fyrd</td></tr>
+<tr><td>Blood Cloaks</td><td>Kellua Itsepainen</td><td>Wintermark</td><td>Sermersuaq</td><td>Sussivari Oathsworn Fyrd</td></tr>
+<tr><td>Blood Cloaks</td><td>Arda Andriksson</td><td>Wintermark</td><td>Sermersuaq</td><td>The Children of Winter</td></tr>
+<tr><td>Blood Cloaks</td><td>Jere Akkison (Liska)</td><td>Wintermark</td><td>Sermersuaq</td><td>The Children of Winter</td></tr>
+<tr><td>Blood Cloaks</td><td>Kinder</td><td>Wintermark</td><td>Sermersuaq</td><td>The Children of Winter</td></tr>
+<tr><td>Blood Cloaks</td><td>Oak</td><td>Imperial Orcs</td><td>Skarsind</td><td></td></tr>
+<tr><td>Blood Cloaks</td><td>Shawtax</td><td>Imperial Orcs</td><td>Skarsind</td><td>Gaterender</td></tr>
+<tr><td>Blood Cloaks</td><td>Grokk</td><td>Imperial Orcs</td><td>Skarsind</td><td>Redhands</td></tr>
+<tr><td>Blood Cloaks</td><td>Thanmir Hrafnar</td><td>Wintermark</td><td>Skarsind</td><td>Sussivari Oathsworn Fyrd</td></tr>
+<tr><td>Blood Cloaks</td><td>Vulpes</td><td>Dawn</td><td>The Barrens</td><td></td></tr>
+<tr><td>Blood Cloaks</td><td>Leon</td><td>Dawn</td><td>The Barrens</td><td>House de Carsenere</td></tr>
+<tr><td>Blood Cloaks</td><td>Joffrey du lance</td><td>Dawn</td><td>The Barrens</td><td>House Du Soleil</td></tr>
+<tr><td>Blood Cloaks</td><td>Sir Andred Gravaine</td><td>Dawn</td><td>Weirwater</td><td></td></tr>
+<tr><td>Blood Cloaks</td><td>Hennan de Gideon</td><td>Dawn</td><td>Weirwater</td><td>House Gideon</td></tr>
+<tr><td>Blood Cloaks</td><td>Maryc</td><td>Dawn</td><td>Weirwater</td><td>House Orzel</td></tr>
+<tr><td>Blood Cloaks</td><td>Vasily ubiytsa chudovishch Orzel</td><td>Dawn</td><td>Weirwater</td><td>House Orzel</td></tr>
+<tr><td>Blood Cloaks</td><td>Vulgaris Vicarious</td><td>Dawn</td><td>Weirwater</td><td>House Orzel</td></tr>
+<tr><td>Drakes</td><td>John a Woode</td><td>The Marches</td><td>Mitwold</td><td></td></tr>
+<tr><td>Drakes</td><td>John of Meade</td><td>The Marches</td><td>Mitwold</td><td></td></tr>
+<tr><td>Fire of the South</td><td>Gregor De Rondell</td><td>Dawn</td><td>Astolat</td><td>House De Rondell</td></tr>
+<tr><td>Fire of the South</td><td>Lord Colwynn de Rondell</td><td>Dawn</td><td>Astolat</td><td>House De Rondell</td></tr>
+<tr><td>Fire of the South</td><td>Leone di Sarvos</td><td>The League</td><td>Holberg</td><td>The Belladonna Brigade</td></tr>
+<tr><td>Fire of the South</td><td>Aracelis</td><td>The Brass Coast</td><td>Kahraman</td><td>Flames of the Coast</td></tr>
+<tr><td>Fire of the South</td><td>Dana i Erigo</td><td>The Brass Coast</td><td>Kahraman</td><td>Flames of the Coast</td></tr>
+<tr><td>Fire of the South</td><td>Santana i Guerra</td><td>The Brass Coast</td><td>Madruga</td><td>Flames of the Coast</td></tr>
+<tr><td>Fire of the South</td><td>Isandro i Sotero i Riqueza</td><td>The Brass Coast</td><td>Segura</td><td></td></tr>
+<tr><td>Fire of the South</td><td>Armand i Erigo</td><td>The Brass Coast</td><td>Segura</td><td>Flames of the Coast</td></tr>
+<tr><td>Fire of the South</td><td>Eliane Du Maurisol</td><td>Dawn</td><td>Semmerholm</td><td></td></tr>
+<tr><td>Fire of the South</td><td>Dominiq Sword</td><td>Dawn</td><td>Semmerholm</td><td>House Aurelius</td></tr>
+<tr><td>Fire of the South</td><td>Escalados de Carsenere</td><td>Dawn</td><td>The Barrens</td><td>House de Carsenere</td></tr>
+<tr><td>Fire of the South</td><td>Rhydian Lovegrove</td><td>Dawn</td><td>Weirwater</td><td></td></tr>
+<tr><td>Fire of the South</td><td>Zoran De Orzel</td><td>Dawn</td><td>Weirwater</td><td>House Orzel</td></tr>
+<tr><td>Fist of the Mountains</td><td>Freya</td><td>Wintermark</td><td>Hahnmark</td><td></td></tr>
+<tr><td>Fist of the Mountains</td><td>Artis Nifar</td><td>Wintermark</td><td>Hahnmark</td><td>Nifar</td></tr>
+<tr><td>Fist of the Mountains</td><td>Helgi</td><td>Wintermark</td><td>Hahnmark</td><td>Nifar</td></tr>
+<tr><td>Granite Pillar</td><td>Levitia</td><td>Urizen</td><td>Morrow</td><td>Nocturnal Fall</td></tr>
+<tr><td>Granite Pillar</td><td>Andronikos</td><td>Urizen</td><td>Redoubt</td><td>The Heroes of Nikephoros</td></tr>
+<tr><td>Holberg</td><td>Malachi Notturno Di Sarvos</td><td>The League</td><td>Holberg</td><td>Crimson Reaper Cartel</td></tr>
+<tr><td>Holberg</td><td>Otto Freidrich Von Holsberg</td><td>The League</td><td>Holberg</td><td>Holsburger Haudegen</td></tr>
+<tr><td>Iron Helms</td><td>Arkann Shatterhorn</td><td>Navarr</td><td>Hercynia</td><td>Shatterhorn Striding</td></tr>
+<tr><td>Iron Helms</td><td>Maddoc</td><td>Navarr</td><td>Hercynia</td><td>Wolf's Bone</td></tr>
+<tr><td>Iron Helms</td><td>Jarka Bratkova Vjekoslav</td><td>Varushka</td><td>Karsk</td><td></td></tr>
+<tr><td>Iron Helms</td><td>Kaan Shatterhorn</td><td>Navarr</td><td>Miaren</td><td>Shatterhorn Striding</td></tr>
+<tr><td>Iron Helms</td><td>Phaedra Anakerien</td><td>Urizen</td><td>Spiral</td><td></td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Brendan</td><td>Navarr</td><td>Broceliande</td><td>Brackensong Steading (Banner)</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Barachel of Adina's Charge</td><td>Highguard</td><td>Casinea</td><td>Daintree Survivors</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Xalvadora i Riqueza</td><td>The Brass Coast</td><td>Feroz</td><td>Flames of the Coast</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Scota</td><td>Navarr</td><td>Hercynia</td><td>Pathfinders</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Merionnen the Relentless</td><td>Navarr</td><td>Hercynia</td><td>The Longest Path</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Kaspar Yakovich von Holberg</td><td>The League</td><td>Holberg</td><td>House of Seven Mirrors</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Vito Guerra</td><td>The Brass Coast</td><td>Kahraman</td><td>Flames of the Coast</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Odhran</td><td>Navarr</td><td>Liathaven</td><td></td></tr>
+<tr><td>Liathhaven Spy Network</td><td> Ieuan Fallow Deer</td><td>Navarr</td><td>Liathaven</td><td>Pathfinders</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Danza Pathfinder</td><td>Navarr</td><td>Liathaven</td><td>Pathfinders</td></tr>
+<tr><td>Liathhaven Spy Network</td><td> Lleu Tarw</td><td>Navarr</td><td>Liathaven</td><td>The Companions of Tarw</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Gwirionedd</td><td>Navarr</td><td>Liathaven</td><td>The Feyerd</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Maarit</td><td>Varushka</td><td>Miekarova</td><td></td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Marco</td><td>The League</td><td>Temeschwar</td><td>The Brotherhood of the Ashen Tower</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Geraint Broad-Backed</td><td>Navarr</td><td>Therunin</td><td>Open Skies</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Rodric Worldscribe</td><td>Navarr</td><td>Therunin</td><td>Open Skies</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Squirrels aka, Mikiah Ruis Farkas</td><td>Navarr</td><td>Therunin</td><td>Ruis Farkas</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Daine</td><td>Navarr</td><td>Therunin</td><td>The Feyerd</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>Teyrnon</td><td>Navarr</td><td>Therunin</td><td>The Longest Path</td></tr>
+<tr><td>Liathhaven Spy Network</td><td>D'Eon</td><td>Dawn</td><td>Weirwater</td><td>House Novarion</td></tr>
+<tr><td>Quiet Step</td><td>Nif</td><td>Navarr</td><td>Therunin</td><td></td></tr>
+<tr><td>Summer Storm</td><td>Taal</td><td>Imperial Orcs</td><td>Skarsind</td><td>Skywise</td></tr>
+<tr><td>Summer Storm</td><td>Irontide Skar</td><td>Imperial Orcs</td><td>Skarsind</td><td>The Irontide</td></tr>
+<tr><td>Summer Storm</td><td>Rokk</td><td>Imperial Orcs</td><td>Skarsind</td><td>The Irontide</td></tr>
+<tr><td>The Tusks</td><td>Jack Flint</td><td>The Marches</td><td>unknown</td><td>House Bolholt</td></tr>
+<tr><td>The Tusks</td><td>Garravaine De Rondell</td><td>Dawn</td><td>Astolat</td><td>House De Rondell</td></tr>
+<tr><td>The Tusks</td><td>Tancred</td><td>Dawn</td><td>Astolat</td><td>House De Rondell</td></tr>
+<tr><td>The Tusks</td><td>Willam</td><td>The Marches</td><td>Bregasland</td><td></td></tr>
+<tr><td>The Tusks</td><td>Piper Archer</td><td>The Marches</td><td>Bregasland</td><td>House Bolholt</td></tr>
+<tr><td>The Tusks</td><td>Edwin de Warrenne</td><td>The Marches</td><td>Bregasland</td><td>Order of the Forgotten Word</td></tr>
+<tr><td>The Tusks</td><td>Osric</td><td>Wintermark</td><td>Hahnmark</td><td></td></tr>
+<tr><td>The Tusks</td><td>Cynwulf Ashburh</td><td>Wintermark</td><td>Hahnmark</td><td>Darkwolves of Argonne</td></tr>
+<tr><td>The Tusks</td><td>Siward</td><td>Wintermark</td><td>Hahnmark</td><td>Hendal Hearth</td></tr>
+<tr><td>The Tusks</td><td>Tristan Lothbrok</td><td>Wintermark</td><td>Hahnmark</td><td>Hendal Hearth</td></tr>
+<tr><td>The Tusks</td><td>Æthelric</td><td>Wintermark</td><td>Hahnmark</td><td>Sigehold Hall</td></tr>
+<tr><td>The Tusks</td><td>Herette</td><td>Wintermark</td><td>Kallavesa</td><td></td></tr>
+<tr><td>The Tusks</td><td>Waegmund 'Toothless'</td><td>Wintermark</td><td>Kallavesa</td><td>The Aesclings</td></tr>
+<tr><td>The Tusks</td><td>Vuk The Wolfeater</td><td>Varushka</td><td>Miekarova</td><td>Wulfen Reavers</td></tr>
+<tr><td>The Tusks</td><td>William Talbot</td><td>The Marches</td><td>Mitwold</td><td>The Talbots</td></tr>
+<tr><td>The Tusks</td><td>Robert Dunlain</td><td>The Marches</td><td>Mournwold</td><td>House Dunlain</td></tr>
+<tr><td>The Tusks</td><td>Bernard Dugdale</td><td>The Marches</td><td>Mournwold</td><td>Mournwold Sappers</td></tr>
+<tr><td>The Tusks</td><td>Famished Jack</td><td>The Marches</td><td>Mournwold</td><td>Mournwold Sappers</td></tr>
+<tr><td>The Tusks</td><td>Amulius</td><td>Urizen</td><td>Redoubt</td><td>The Heroes of Nikephoros</td></tr>
+<tr><td>The Tusks</td><td>Guthelm</td><td>Wintermark</td><td>Sermersuaq</td><td></td></tr>
+<tr><td>The Tusks</td><td>Rheged Redspear</td><td>Dawn</td><td>Sermersuaq</td><td></td></tr>
+<tr><td>The Tusks</td><td>Govannan Seppa</td><td>Wintermark</td><td>Sermersuaq</td><td>Sussivari Oathsworn Fyrd</td></tr>
+<tr><td>The Tusks</td><td>Bloodcrow Drost</td><td>Imperial Orcs</td><td>Skarsind</td><td>Bloodcrows</td></tr>
+<tr><td>The Tusks</td><td>Bloodcrow T'Kor</td><td>Imperial Orcs</td><td>Skarsind</td><td>Bloodcrows</td></tr>
+<tr><td>The Tusks</td><td>Bloodcrow Yargol</td><td>Imperial Orcs</td><td>Skarsind</td><td>Bloodcrows</td></tr>
+<tr><td>The Tusks</td><td>Na'grul</td><td>Imperial Orcs</td><td>Skarsind</td><td>Bloodcrows</td></tr>
+<tr><td>The Tusks</td><td>Rurik</td><td>Imperial Orcs</td><td>Skarsind</td><td>Palerictus</td></tr>
+<tr><td>The Tusks</td><td>Dura</td><td>Imperial Orcs</td><td>Skarsind</td><td>Redhands</td></tr>
+<tr><td>The Tusks</td><td>Irontide Jarn</td><td>Imperial Orcs</td><td>Skarsind</td><td>The Irontide</td></tr>
+<tr><td>The Tusks</td><td>Irontide Kragg</td><td>Imperial Orcs</td><td>Skarsind</td><td>The Irontide</td></tr>
+<tr><td>The Tusks</td><td>Irontide Vio</td><td>Imperial Orcs</td><td>Skarsind</td><td>The Irontide</td></tr>
+<tr><td>The Tusks</td><td>T'onk</td><td>Imperial Orcs</td><td>Skarsind</td><td>The Irontide</td></tr>
+<tr><td>The Tusks</td><td>Gwill Fenwarden</td><td>Navarr</td><td>Therunin</td><td>The Companions of Tarw</td></tr>
+<tr><td>The Tusks</td><td>Aelfric Woodson</td><td>The Marches</td><td>Upwold</td><td></td></tr>
+<tr><td>The Tusks</td><td>Ciaphas "Black Jack" Dekar</td><td>The Marches</td><td>Upwold</td><td></td></tr>
+<tr><td>The Tusks</td><td>'green' jack woodruff</td><td>The Marches</td><td>Upwold</td><td>The Applewood Levy</td></tr>
+<tr><td>Valiant Pegasus</td><td>Jeconiah</td><td>Highguard</td><td>Reikos</td><td>Banner of the Cenotaph</td></tr>
+<tr><td>Wolves of War</td><td>Solomon of the Silent Tide</td><td>Highguard</td><td>unknown</td><td>The Steel Tide</td></tr>
+<tr><td>Wolves of War</td><td>Balin</td><td>Dawn</td><td>Astolat</td><td>House De Rondell</td></tr>
+<tr><td>Wolves of War</td><td>Adam Sepulchre</td><td>Dawn</td><td>Astolat</td><td>House Sepulchre Banner</td></tr>
+<tr><td>Wolves of War</td><td>Danica Mala Severyan</td><td>Dawn</td><td>Astolat</td><td>House Vandale</td></tr>
+<tr><td>Wolves of War</td><td>Katrina Gardner</td><td>Dawn</td><td>Astolat</td><td>Winged Lions</td></tr>
+<tr><td>Wolves of War</td><td>Sagramore</td><td>Dawn</td><td>Astolat</td><td>Winged Lions</td></tr>
+<tr><td>Wolves of War</td><td>Abathar</td><td>Highguard</td><td>Bastion</td><td>Cohort of the Winter Bear</td></tr>
+<tr><td>Wolves of War</td><td>Enoch</td><td>Highguard</td><td>Bastion</td><td>Cohort of the Winter Bear</td></tr>
+<tr><td>Wolves of War</td><td>Issac Arctos</td><td>Highguard</td><td>Bastion</td><td>Cohort of the Winter Bear</td></tr>
+<tr><td>Wolves of War</td><td>Lucifer</td><td>Highguard</td><td>Bastion</td><td>Cohort of the Winter Bear</td></tr>
+<tr><td>Wolves of War</td><td>Iscah Knilus</td><td>Highguard</td><td>Bastion</td><td>Jachin's Legacy</td></tr>
+<tr><td>Wolves of War</td><td>Roman Aleksander Alinyova</td><td>Highguard</td><td>Bastion</td><td>Reumah's Redoubt</td></tr>
+<tr><td>Wolves of War</td><td>Cuth</td><td>Highguard</td><td>Bastion</td><td>Shattered Tower Banner</td></tr>
+<tr><td>Wolves of War</td><td>Solomon</td><td>Highguard</td><td>Bastion</td><td>Shattered Tower Banner</td></tr>
+<tr><td>Wolves of War</td><td>Torr Splitroot</td><td>Navarr</td><td>Broceliande</td><td></td></tr>
+<tr><td>Wolves of War</td><td>Kaleb</td><td>Highguard</td><td>Casinea</td><td>Cohort of the Winter Bear</td></tr>
+<tr><td>Wolves of War</td><td>Cayleb</td><td>Highguard</td><td>Casinea</td><td>Felix's Watch Banner</td></tr>
+<tr><td>Wolves of War</td><td>Tager Defender of the Fallen Tyrshalt</td><td>Wintermark</td><td>Hahnmark</td><td>Renwaerd</td></tr>
+<tr><td>Wolves of War</td><td>Leofric</td><td>Wintermark</td><td>Hahnmark</td><td>Sigehold Hall</td></tr>
+<tr><td>Wolves of War</td><td>Magdelena Alagna Di Sarvos</td><td>The League</td><td>Holberg</td><td></td></tr>
+<tr><td>Wolves of War</td><td>Othello di Severio von Holberg</td><td>The League</td><td>Holberg</td><td></td></tr>
+<tr><td>Wolves of War</td><td>Reinhardt Schwarzmane</td><td>The League</td><td>Holberg</td><td>The Brotherhood of the Ashen Tower</td></tr>
+<tr><td>Wolves of War</td><td>Baddon Red Oaks</td><td>Navarr</td><td>Liathaven</td><td></td></tr>
+<tr><td>Wolves of War</td><td>Bran Holm</td><td>Navarr</td><td>Liathaven</td><td></td></tr>
+<tr><td>Wolves of War</td><td>Yulia Kasimirova Voronov</td><td>Varushka</td><td>Miekarova</td><td>Company of the Red Raven</td></tr>
+<tr><td>Wolves of War</td><td>Lycier</td><td>Urizen</td><td>Morrow</td><td>Banner of the Phoenix</td></tr>
+<tr><td>Wolves of War</td><td>Valerian</td><td>Urizen</td><td>Morrow</td><td>Banner of the Phoenix</td></tr>
+<tr><td>Wolves of War</td><td>Sarus Auricspire</td><td>Urizen</td><td>Morrow</td><td>Horizon's Edge</td></tr>
+<tr><td>Wolves of War</td><td>Seraph</td><td>Highguard</td><td>Necropolis</td><td></td></tr>
+<tr><td>Wolves of War</td><td>Tiberius</td><td>Highguard</td><td>Necropolis</td><td></td></tr>
+<tr><td>Wolves of War</td><td>Thomir</td><td>Highguard</td><td>Necropolis</td><td>Banner of the Cenotaph</td></tr>
+<tr><td>Wolves of War</td><td>Isaac</td><td>Highguard</td><td>Necropolis</td><td>The Steel Tide</td></tr>
+<tr><td>Wolves of War</td><td>mathayus</td><td>Highguard</td><td>Necropolis</td><td>The Steel Tide</td></tr>
+<tr><td>Wolves of War</td><td>Laurentius Julianus Netherwatch</td><td>Urizen</td><td>Redoubt</td><td></td></tr>
+<tr><td>Wolves of War</td><td>Antimedes of Invidia</td><td>Urizen</td><td>Redoubt</td><td>Banner of the Phoenix</td></tr>
+<tr><td>Wolves of War</td><td>Abaddon</td><td>Highguard</td><td>Reikos</td><td>Shattered Tower Banner</td></tr>
+<tr><td>Wolves of War</td><td>Beltran I Ezmara I Erigo</td><td>The Brass Coast</td><td>Segura</td><td></td></tr>
+<tr><td>Wolves of War</td><td>John Sigma</td><td>Wintermark</td><td>Sermersuaq</td><td></td></tr>
+<tr><td>Wolves of War</td><td>Ashborn Rauur</td><td>Imperial Orcs</td><td>Skarsind</td><td>Ashborn</td></tr>
+<tr><td>Wolves of War</td><td>Vade</td><td>Imperial Orcs</td><td>Skarsind</td><td>Redhands</td></tr>
+<tr><td>Wolves of War</td><td>Irontide Rus</td><td>Imperial Orcs</td><td>Skarsind</td><td>The Irontide</td></tr>
+<tr><td>Wolves of War</td><td>Philostrate</td><td>Urizen</td><td>Spiral</td><td></td></tr>
+<tr><td>Wolves of War</td><td>Uriel Ventris</td><td>Urizen</td><td>Spiral</td><td></td></tr>
+<tr><td>Wolves of War</td><td>Aquillian Effugere</td><td>Urizen</td><td>Spiral</td><td>Ankarien's Revenge</td></tr>
+<tr><td>Wolves of War</td><td>Tanwyn Ankarien</td><td>Urizen</td><td>Spiral</td><td>Ankarien's Revenge</td></tr>
+<tr><td>Wolves of War</td><td>Belisarius Blackheart</td><td>Urizen</td><td>Spiral</td><td>Banner of the Phoenix</td></tr>
+<tr><td>Wolves of War</td><td>Vincentius</td><td>Urizen</td><td>Spiral</td><td>Banner of the Phoenix</td></tr>
+<tr><td>Wolves of War</td><td>Natalia "The Falcon" Barossa</td><td>The League</td><td>Tassato</td><td>Company of The Red Fox</td></tr>
+<tr><td>Wolves of War</td><td>Silvio de Tassato</td><td>The League</td><td>Tassato</td><td>The Printers' Guild</td></tr>
+<tr><td>Wolves of War</td><td>Morris</td><td>The Marches</td><td>Upwold</td><td>The Applewood Levy</td></tr>
+<tr><td>Wolves of War</td><td>Trevor Woodsman</td><td>The Marches</td><td>Upwold</td><td>The Applewood Levy</td></tr>
+<tr><td>Wolves of War</td><td>Iskra Ratimiryn</td><td>Varushka</td><td>Volodmartz</td><td></td></tr>
+<tr><td>Wolves of War</td><td>Lady Claudia Varkulova Remys</td><td>Dawn</td><td>Weirwater</td><td>House Remys</td></tr>
+</table>
+{{Template:HonourLinks}}
+[[Category:Roll of Honour]]

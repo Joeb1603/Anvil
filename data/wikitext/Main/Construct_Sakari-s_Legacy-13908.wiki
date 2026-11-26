@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:388YE Summer]]
+__NOTOC__
+<quote by="Announced by Dima Vasilyevna Novosad, Master of the Koboldi">I call on Adamant's Aid in constructing Sakari's Legacy, a fortification in Anduzjasse, Segura. With this boon, the fortification will be of rank two, take only four seasons to construct, and will be unbreakable. Costing 180 white granite and labour costs.
+</quote>
+==Overview==
+* Constructs a [[fortification]] in Anduzjasse, Segura
+* Announcement by the [[Master of the Koboldi]]
+* More information can be found in the '''[[Sound_and_vision#A_Gate_of_Mists|Sound and vision]]''' wind of fortune.
+
+==Date==
+* Summer 388YE
+
+==Cost==
+* Costs as per opportunity
+* 180 wains of white granite
+* 540 crowns in labour costs 
+* Twelve  months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Sakari%27s_Legacy}}
+==Outcome==
+* Once complete, a level two fortification, Sakari's Legacy, will be established with its [[fortification#Bastion|bastion]] in Anduzjasse, [[Segura]]

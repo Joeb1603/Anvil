@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Autumn]]
+__NOTOC__
+<quote by="Announced by Tiberius Echostorm, Crystal Architect of the Spires">Commission a 10 wain of mithril mana sinecure. Location; Peregro, Morrow. Name: Cascade of Living Fire. Self funded. Appointed by Urizen senators</quote>
+==Overview==
+* Constructs a [[sinecure]] that produces mana crystals in [[Morrow]]
+* Announcement by the [[Crystal Architect of the Spires]]
+==Date==
+* Autumn 386YE
+==Cost==
+* Standard costs apply
+* 10 mithril
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Cascade_of_Living_Flame}}
+==Outcome==
+* Now complete, the position of [[Custodian of Living Flame]] will be available to appoint by unanimous vote of the senators of [[Urizen]] for the first time at the Winter Solstice 386YE.

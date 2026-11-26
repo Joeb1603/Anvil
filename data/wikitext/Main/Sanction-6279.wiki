@@ -1,0 +1,24 @@
+{{Synod Judgement Summary|Any Assembly|Lesser Majority}}
+==Overview==
+{{CaptionedImage|file=JormaSteelhail.jpg|align=left|width=250|caption=Jorma Steelhail, [[Wintermark]] [[Wintermark_religious_beliefs|stormcrow]]}}
+The [[Synod]] is responsible for ensuring the virtuous behaviour of the Empire and its citizens. The judgement of [[inquisition]] allows priests in the Synod to investigate the actions of their Imperial citizens (including their fellow priests) - once complete, a priest can use one of three judgements of sanction to publicize the outcome of their inquisition, either [[vindication]], [[penance]], or [[castigation]].
+
+For many years the only option available to the Synod was to condemn an individual for their invidious actions - criminal or unvirtuous. However following the work of [[Wintermark_religious_beliefs|stormcrow]] '''Jorma Steelhail''' from 379YE to 380YE, the Senate finally agreed to [[Amend_power_of_Inquisition|expand the scope of the Synod's powers]] to allow a range of different edicts to be issued - in accordance with the judgement of the Synod.
+
+As a result the rules were ultimately amended to allow the Synod to choose one of three different judgements - whether to vindicate, castigate or demand penance.
+
+===Vindication===
+A judgement of [[vindication]] is used by the Synod to demonstrate that they view the target as innocent of any accusations of unvirtuous acts that have been levelled against them.  It may also be used to formally laud the subject's virtuous disposition.
+
+===Penance===
+[[Penance]] is used where the assembly believes the subject to have engaged in both virtuous and unvirtuous behaviour. The judgement recommends how the target can correct their unvirtuous behaviour.
+<div style="float: right;"><quote by="Marcher Proverb">It is easy to defend the innocent.</quote></div>
+===Castigation===
+A judgement of [[castigation]] indicates that the target is believed by the assembly to be guilty of unvirtuous deeds and nature and is formally rebuked for them. 
+
+==Escalation==
+A priest who conducts an [[inquisition]] may choose to escalate the inquisition to a single judgement of [[vindication]], [[penance]] or [[castigation]] if they believe it is appropriate. This escalation is considered to be an extension of the original inquisition, it will be submitted by the [[Tribune of the Synod]] on behalf of the priest who raised the original judgement at their request. As a result, this judgement does not count against the limit of one judgement per priest per summit. The Tribune will only escalate a judgement if it does not name a new target not named in the inquisition. An escalated judgement may use fewer names than the original inquisition, but it may not add a new name to the list.
+
+A member of the Synod may only submit a single judgement per summit. Inevitably inquisition can cause the shadow of suspicion to fall over those who are called to testify for their actions. The Tribune will use their authority to escalate an inquisition to allow the Synod to act quickly to publish the outcome of their investigation - unless there are extenuating circumstances, a priest who has called a judgement is expected to escalate the inquisition to a sanction speedily. If deeds were unvirtuous then people might need to know that quickly so that they can act accordingly - and if those who were inquisited were vindicated then they deserve to have their names cleared.
+
+{{Synod Further Reading}}

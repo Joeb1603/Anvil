@@ -1,0 +1,7 @@
+Paul Baker
+
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>[[Category:Photos:PaulBaker]] [[:Category:Photos:PaulBaker|Image by Paul Baker]]
+</nowiki>''

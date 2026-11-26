@@ -1,0 +1,23 @@
+[[Category: Title]] [[Category: Navarr]]
+==Overview==
+The Keeper of the Ashen Tears is an [[Imperial title]] awarded to a citizen of [[Navarr]]. Construction of the Ashen Tears Wayhouse was [[Construct Ashen Tears Wayhouse|announced]] by '''Firesong Arachas''', the [[Legion Engineer]], during the Summer Solstice 387YE, and construction was completed shortly before the Autumn Equinox 387YE. <br><br>
+{{Navarr Wayhouse Benefits|Ashen Tears|Skarsind}}
+
+==Responsibilities==
+The Keeper of the Ashen Tears is responsible for protecting the wayhouse and the Navarr who live in [[Skarsind]]. If the wayhouse, travellers using the wayhouse, or the Navarr of the territory were to be threatened in any way, it would be the responsibility of the Keeper to deal with those threats. Likewise, if any particular [[opportunity]] were to arise related to the wayhouse, the Keeper would expect to be consulted as to how that opportunity might be resolved.
+
+==Powers==
+===Wealth of the Wilds===
+The Keeper of the Ashen Tears has custodianship of a [[sinecure]]. They receive one throne, six crowns, and eight rings each season.
+
+==Appointment==
+The Keeper of the Ashen Tears is appointed during the Autumn Equinox each year. As a [[New_Imperial_titles#The_Imperial_Synod|national position]], it is elected by unanimous decision of the [[Navarr]] senators. 
+
+The title can only be held by a citizen of Navarr. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the Navarr Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=PHOTO.png|caption='''Holder''', Keeper of the Ashen Tears|align=left|width=300}}-->
+{{RecentElections|Keeper_of_the_Ashen_Tears}}
+==Ashen Tears Wayhouse==
+Ashen Tears wayhouse lies deep within the alpine forests of [[Skarsind#Skogei Glens|Skogei Glens]]. It is reached by a winding trod that runs north out of the [[Hercynia#Glen of Shadows|Glen of Shadows]] in [[Hercynia]] and eventually curves east into [[Miekarova#Miechernya|Miechernya]] in [[Miekarova]]. Unlike many Navarr wayhouses, the Ashen Tears has a distinctly martial aspect - it was designed and construction overseen by the [[Imperial Orcs|Unshackled]] under the guidance of the [[Legion Engineer]], meaning that it is more a fortified compound than a more traditional inn. It is no less welcoming for all that, with the first thing most people see on entering the wayhouse being a massive central hearth that quickly banishes the chill of the cold northern forests.
+
+As well as its blazing hearth. Ashen Tears attracts storytellers and musicians from both the Unshackled and the Navarr. Every Solstice and Equinox, entertainers and lorekeepers from both nations travel here to share their tales as part of an unofficial two-day festival. Along with the obvious benefits, this has helped foster bonds between the Navarr and the Unshackled, built in part on a shared history of nomadic travel without homelands of their own.
+{{Responsibilities Expectation}}

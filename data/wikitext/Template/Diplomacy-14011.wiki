@@ -1,0 +1,14 @@
+<div style="max-width: 350px; float: right; clear: right; margin-left:10px;" class="box">
+<div class="box-inner">
+<big>'''{{{nation}}}'''</big>
+* '''Status: {{{status}}}'''
+* '''Ports: {{{port}}}'''
+* '''Ambassador: {{{ambassador}}}
+* '''Counterpart: {{{counterpart}}}
+</div></div>
+<noinclude>
+== Usage ==
+<pre>
+{{Diplomacy|nation=short nation name|status=foreigner or barbarian|port=names of ports|ambassador=ambassador name|counterpart=foreign ambassador link}}
+</pre>
+</noinclude>

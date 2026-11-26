@@ -1,0 +1,28 @@
+==Overview==
+The Vardstein Vandal is an [[Imperial title]] awarded to a citizen of [[the League]]. The [[Construct Timbermill and Sorting Yard|announcement]] to build the Temeschwar Drovers' Guild Timbermill and Sorting Yard was announced by '''Laughlan Vi Temeschwar''', as [[Master of Rings]], in Winter 386YE. The Vardstein Vandal is responsible for overseeing the prosperous use and vigilant care of Vardstein Vale's natural resources. More information on the opportunity to create this title can be found in the '''[[Don%27t_blame_me#Log_the_Vardstein_Vale|Don't blame me]]''' wind of fortune.
+
+==Responsibilities==
+The Vardstein Vandal has a responsibility to oversee the prosperous use and vigilant care of Vardstein Vale's natural resources, especially the wolves who embody so much of Temeschwar's character. In addition, if the timbermill, or its labourers, were to be threatened in any way, it would be the responsibility of the Vandal to deal with those threats.
+
+==Powers==
+<div style="float:right; width: 300px; clear: right; margin-left: 10px;">
+<table style="width:300px; float: right; margin-left:10px;"><tr><td colspan="2" style="background-color: LightBlue;">'''Bounty of the Forest'''</td>
+<tr><td>7 crowns</td><td>12 random measures</td></tr>
+<tr><td>17 crowns</td><td>24 random measures</td></tr>
+<tr><td>30 crowns</td><td>36 random measures</td></tr>
+<tr><td>46 crowns</td><td>48 random measures</td></tr>
+</table></div>
+===Bounty of the Forest===
+As a [[ministry]], the Vardstein Vandal can purchase quantities of special materials at a set price. The Vandal makes their decision on how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+===Great Wealth===
+The Timbermill and Sorting Yard also serves as a [[great work]] in Temeschwar, increasing the investment in the businesses of the territory and granting each two random [[Materials#Natural_Materials|measures]] a season.
+
+==Appointment==
+This title is appointed during the Autumn Equinox. The Vardstein Vandal is appointed by citizens of the League who control [[business]] [[Resource|personal resources]]. The larger the business an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a League citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+<!--{{CaptionedImage|file=FILE.png|caption=NAME, Vardstein Vandal|align=left|width=400}}-->
+{{RecentElections|Vardstein_Vandal}}
+[[Category:Title]] 
+[[Category:The League]]

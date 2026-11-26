@@ -1,0 +1,4 @@
+* '''Form:''' Armour. Takes the form of a suit of [[Weapons & armour#Light Armour|light armour]]. You must be wearing this armour to use its magical properties.
+* '''Requirement:''' Any character can bond to this item.
+[[Category:Magic Items]]
+[[Category:Light Armour]]

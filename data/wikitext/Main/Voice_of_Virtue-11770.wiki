@@ -1,0 +1,77 @@
+__NOTOC__
+{{stub}}
+==Overview==
+These Imperial titles were established by [[386YE_Spring_Equinox_Senate_sessions#Create_titles_of_Voices_of_Virtue|a vote]] of the [[Senate]] during the Spring Equinox 386YE. There are seven voices in total - one for each of the Imperial Virtues.
+
+==Responsibilities==
+Each voice is responsible for acting as an inspiration to the pilgrims of the faith and laity as to what it means to be virtuous. 
+
+==Appointment==
+The seven Voices are appointed according to a schedule over the course of a year. They are [[Appointment|appointed]] by [[judgement]] of the appropriate Virtue Assembly. 
+
+The title can be held by any citizen. The voice serves until the next scheduled election. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the appropriate [[Assembly#The_Virtue_Assemblies|Virtue Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+===Schedule===
+The schedule for annual appointments is:
+* Winter - [[Ambition]] and [[Vigilance]]
+* Spring - [[Courage]] and [[Wisdom]]
+* Summer - [[Loyalty]] and [[Pride]]
+* Autumn - [[Prosperity]]
+
+===Incumbent===
+The current Voices are summarised below - the full election history for each title is listed in the [[#Election History|election history]] section.
+* [[Voice of Ambition]] - {{#lst:Archive:All_Election_Results|Voice_of_Ambition_occupant}}
+* Voice of Courage - {{#lst:Archive:All_Election_Results|Voice_of_Courage_occupant}}
+* Voice of Loyalty - {{#lst:Archive:All_Election_Results|Voice_of_Loyalty_occupant}}
+* Voice of Pride - {{#lst:Archive:All_Election_Results|Voice_of_Pride_occupant}}
+* Voice of Prosperity - {{#lst:Archive:All_Election_Results|Voice_of_Prosperity_occupant}}
+* Voice of Vigilance - {{#lst:Archive:All_Election_Results|Voice_of_Vigilance_occupant}}
+* Voice of Wisdom - {{#lst:Archive:All_Election_Results|Voice_of_Wisdom_occupant}}
+
+<gallery heights=300 mode="packed">
+Ada of Meliora.jpeg|'''Ada of Meliora'''
+</gallery>
+
+===Election History===
+<row-fluid>
+<span6>
+'''Ambition'''
+{{#lst:Archive:All_Election_Results|Voice_of_Ambition}}
+</span6>
+<span6>
+'''Courage'''
+{{#lst:Archive:All_Election_Results|Voice_of_Courage}}
+</span6>
+</row-fluid>
+
+<row-fluid>
+<span6>
+'''Loyalty'''
+{{#lst:Archive:All_Election_Results|Voice_of_Loyalty}}
+</span6>
+<span6>
+'''Pride'''
+{{#lst:Archive:All_Election_Results|Voice_of_Pride}}
+</span6>
+</row-fluid>
+
+<row-fluid>
+<span6>
+'''Prosperity'''
+{{#lst:Archive:All_Election_Results|Voice_of_Prosperity}}
+</span6>
+<span6>
+'''Vigilance'''
+{{#lst:Archive:All_Election_Results|Voice_of_Vigilance}}
+</span6>
+</row-fluid>
+
+<row-fluid>
+<span6>
+'''Wisdom'''
+{{#lst:Archive:All_Election_Results|Voice_of_Wisdom}}
+</span6>
+</row-fluid>
+
+[[Category: Title]]
+[[Category: Synod]]

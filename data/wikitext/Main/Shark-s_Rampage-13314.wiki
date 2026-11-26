@@ -1,0 +1,35 @@
+==Rules==
+{{CaptionedImage|file=NBUrizen.jpg|caption=This ritual is part of [[Urizen magical traditions#Urizen Lore|Urizen lore]] rather than [[Imperial lore]].|align=right|width=200}}
+<box>'''<big>Interdiction</big>'''<br>While [[Siakha]] is subject to the [[Amity and enmity#Enmity|enmity]] of the [[Conclave]], it is illegal to perform this ritual.</box>
+{{Season|Spring|24}}
+{{Urizen Lore}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Character}} {{enchantment}} The performance must include an invocation of [[Siakha]] by at least three of her known names. During the casting the target must receive cuts sufficient to cause them to lose at least one [[Combat#Global_Hits|hit]].
+
+===Effects===
+The target gains the ability to call [[Calls#CLEAVE|cleave]] four times each day with any [[Weapons_%26_armour#Weapons|melee weapon]] except a pike. In addition, they may react to any [[roleplaying effect]] that attempts to make them calm or contemplative by violently lashing out at the perceived source of that effect instead.
+
+While under the [[enchantment]] they also experience a roleplaying effect: ''You find it difficult to tolerate anyone threatening or disrespecting you, and easy to see any resistance to your wishes as an insult. When you fight, it is hard for you to stop until all your opponents are down and ideally dying.''
+
+{{regain heroics}}
+
+{{Season Duration}}
+<div style="float:right; width: 275px; clear: left;">{{CaptionedImage|file=Siakha001.webp|caption=Drawing on the bloodthirsty might of Siakha can empower a warrior to shed blood, but also heightens their desire to kill.|align=right|width=275}}</div>
+
+===Additional Targets===
+This ritual can affect additional characters from the same [[Groups#Banners|banner]]. Each additional character increases the magnitude by 18. Additional characters must be present throughout, and each must receive a wound that causes them to lose a hit.
+
+===Assurance===
+This ritual loses all power and stops working if the ''Tempest Stone'' is ever destroyed. From contextual clues in the ritual text, the Tempest Stone is believed to have once stood in the [[Bay_of_Catazar#Temple_of_Tempest_Jade|Temple of Tempest Jade]], but was removed before the temple was destroyed.
+==Description==
+Along with [[Rhythm of the Tempest]] and [[Blood-dimmed Tide]], this ritual [[The_tune_without_the_words#Quivering_and_Chill|became part]] of [[Urizen lore]] after the Autumn Equinox 387YE. The original ritual was part of a water-damaged ship's logbook, filled with cryptic poems in praise of the unceasing sea, the power of the storm, and the admirably simple life of the shark. Interspersed between the poems were crude drawings of sea monsters, and what seemed to be actual prayers in praise of the ''Mother of the Maelstrom'' asking for her to send her children to torment the unknown author's enemies, or begging her to fill them and their crew with the power of the tempest. These sections become increasingly difficult to read, and the last few pages are almost entirely obscured by old blood splatter. Scrawled across the cover - carved into the thick leather with a knife - was the message “at the mother’s command, a gift for Ibiss Briarheart.”
+
+The enchantment fills the recipient with power drawn directly from Siakha, giving them the ability to inflict terrible bleeding wounds on their enemies. Most effective against those in light armour, mage armour, or no armour at all, these blows can also prove deadly when wielded by a warrior skilled at targeting the weaknesses in an opponent's defences. As with other enchantments that draw on the power of Siakha, the ritual also fills the recipient with the desire to prove their mastery over others - in this case by killing them or at least beating them until they are incapacitated. This urge is strong enough that it allows those enchanted with ''Shark's Rampage'' to turn aside attempts to calm or soothe their savage breast, driving them to attack the source of such powers. Those who rely on such effects, especially when treating injured patients, should beware of inadvertently using them when dealing with someone under the influence of this enchantment.
+
+According to the text, those who experience the "blessing" of Siakha also experience "wonderful dreams" granted by the "goddess." Those enchanted will dream of swimming through the depths of the ocean hunting for prey, or else engaging in frenzied feeding on animals, humans, and orcs as part of blood-filled rites in praise of the ''Mother of Wrecks''. Urizen magicians who've examined the ritual suggest these might be quite disturbing, and are another reason to deploy this ritual cautiously - should it ever be legal to do so.
+
+It's interesting to note that the original text made reference to other "blessings of Siakha" clearly intended to grant warriors martial prowess. The only one mentioned by name is ''Jaws of the Abyss'' which apparently functions much like Shark's Rampage but is used to empower the wielders of [[Weapons_%26_armour#Great_weapons|great weapons]] to strike [[Calls#IMPALE|even more devastating blows]]. 
+==Common Elements==
+The original text detailed only one method of performance - invoking the "goddess" of the Maelstrom and asking her to fill the targets with her bloodthirsty strength. The text also called for vicious bleeding cuts on the forearms of the recipients, to be collected in a bowl and used to draw a crude spiral on the forehead, with the remainder of the liquid being mixed with salt water and used to anoint their weapons or their hands. It is difficult to see this method of performance as anything short of the most egregious [[Religious_crime#Idolatry|idolatry]]
+
+The Urizen magicians who have studied the ritual since it became part of their lore - cautiously given the various reasons as to why it is entirely illegal - have theorised that the constellation of [[the Claw]] would resonate with the magic invoked here as would the runes [[Mawrig]] and perhaps [[Verys]]. Use of [[the Mountebank]] in those aspects that relate to primal forces unleashed and physical strength, or [[the Captain]] in their most ruthless guises, would also help wield the magic of ''Shark's Rampage''. They note however that while these elements might prove useful in raising and corralling the magic invoked, it is impossible to perform the rite without calling openly on Siakha and quite apart from the other reasons to be cautious of this magic, that also makes its performance problematic.

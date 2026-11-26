@@ -1,0 +1,19 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Announced by Konstantin Rabovich Bolotnikov, Mistress of Monuments">I announce the construction of a monument to celebrate the virtuous work of the late Lady Eleanor Novarion in founding the Proffered Hand network. "Compassion Without Expectation" shall be a restful garden built in Applefell, Weirwater at a cost of 4 white granite, 4 weirwood, 1 mithril, and 27 crowns.</quote>
+==Overview==
+* Constructs an [[edifice]] in Garthmoor, [[Weirwater]]
+* Announcement by the [[Mistress of Monuments]]
+==Date==
+* Winter 386YE
+==Cost==
+* Standard costs apply
+* 4 white granite
+* 4 weirwood
+* 1 mithril
+* 27 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Construct_Compassion_Without_Expectation}}
+==Outcome==
+<!--A beautiful terraced garden is cut into the hills near Applefell. Created to celebrate Lady Eleanor Novarion's efforts building people up from hardship, its pergolas and secluded nooks embrace those seeking refuge. Several small statues dot the garden, celebrating in turn the deeds of those aided by the Proffered Hand.-->

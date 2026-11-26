@@ -1,0 +1,19 @@
+[[Category:Senate Motion]][[Category:386YE Summer]]
+__NOTOC__
+<quote by="Announced by Konstantin Rabovich Bolotnikov, Mistress of Monuments">I, Konstantin Rabovich Bolotnikov as the first Mistress of Monuments announce the construction of a statue to commemorate the liberation of Ossium and the bringing of the Way to the first new Imperial territory in 300 years. Location: Lomaa, Galath Fields, Ossium. Costs: 3 white granite, 1 weirwood, 1 mithril, 15 crowns. Fully funded by prosperous Ossian citizens</quote>
+==Overview==
+* Constructs a [[folly]] in Galath Fields, [[Ossium]]
+* Announcement by the [[Mistress of Monuments]]
+==Date==
+* Summer 386YE
+==Cost==
+* Costs as per the motion
+* 3 white granite
+* 1 weirwood
+* 1 mithril
+* 15 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Statue_Commemorating_Conquest_of_Ossium}}
+==Outcome==
+Now complete, the Pride of Ossium stands in [[Ossium#Lomaa|Lomaa]]

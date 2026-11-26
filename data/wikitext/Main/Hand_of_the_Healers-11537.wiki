@@ -1,0 +1,92 @@
+{{Disambiguation|As of the Autumn Equinox 387YE, this title is no longer active following Ossegrahn turning away from the Empire}}
+
+{{Disambiguation|This page contains details of a title that serves as custodian of the Houses of Healing; for the Spring ritual that enchants a target to swift cast heal for 1 mana see [[Hands of the Healer]]}}
+
+<div style="float:left; width: 400px; clear: left;">{{CaptionedImage|file=Rain King.png|align=left|caption=Spring brings flowers, gentle rains, and the heralds of the Tarnfather.|width=400}}</div>
+==Overview==
+The Hand of the Healers was an [[Imperial title]] that served as custodian of the [[#Houses of Healing|Houses of Healing]] at [[Therunin#Peakedge Song|Peakedge Song]] in [[Therunin]], constructed with the aid of the eternal [[Ossegrahn|Lord Rain]], and intended to support the healers of the Empire. They had several responsibilities, and in return received access to powerful [[magic items]] that aid healing, including some that are unknown to Imperial lore. These gifts were dependent on Ossegrahn continuing to have a good relationship with the Empire and the [[Conclave]].
+
+The motion to construct the House of Healing was passed during the [[385YE_Spring_Equinox_Senate_sessions#Construct_House_of_Healing|Spring Equinox 385YE]]. The House of Healing is supported by the followers of [[Ossegrahn]] and the original opportunity for the construction was presented by heralds of the Cupbearer during the Spring Equinox 385YE. More information on the opportunity can be found in the [[Rain_king#Houses_of_Healing|Rain king]] wind of fortune.
+
+==Responsibilities==
+The Hand of the Healers had a number of responsibilities; they were charged with striving to support healers throughout the Empire, both magical and mundane, helping them overcome sickness and heal injuries wherever possible. They were expected also to actively work to reduce suffering in the world, especially through the use of murderous curses or unnecessary violence. Finally, if the House of Healing or any who work there or visit as patients were to come under threat, it was to be the responsibility of the Hand to deal with those threats.
+
+==Powers==
+===Offerings of Lord Rain===
+<div style="width: 500px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Healing Implements'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>14 crowns</td><td>1 [[Ambergelt Baton]]</td></tr>
+<tr><td>17 crowns</td><td>1 [[Boneweaver]]</td></tr>
+<tr><td>18 crowns</td><td>1 [[Bloodwoven Braid]]</td></tr>
+<tr><td>22 crowns</td><td>1 [[Staff of Life]]</td></tr>
+<tr><td>30 crowns</td><td>1 [[Woundbinder]]</td></tr>
+<tr><td>32 crowns</td><td>1 [[Grimnir's Hearthfire]]</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Healing Attire'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>18 crowns</td><td>1 [[Trollsweave Vest]]</td></tr>
+<tr><td>25 crowns</td><td>1 [[Robe of Blood and Bone]]</td></tr>
+<tr><td>41 crowns</td><td>1 [[Moonsilver Doublet]]</td></tr>
+<tr><td>50 crowns</td><td>1 Lifetender's Shawl</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Healing Foci'''</td><td style="background-color: LightBlue;"></td></tr>
+<tr><td>7 crowns</td><td>1 [[Escharotic Cauldron]]</td></tr>
+<tr><td>10 crowns</td><td>1 [[Phial of the Sun]]</td></tr>
+<tr><td>11 crowns</td><td>1 Cupbearer's Mask</td></tr>
+<tr><td>12 crowns</td><td>1 Doctor's Mask</td></tr>
+<tr><td>16 crowns</td><td>1 [[Chrysalis Pendant]]</td></tr>
+<tr><td>23 crowns</td><td>1 Vine Mask</td></tr>
+<tr><td>30 crowns</td><td>1 Chirurgeon's Ring</td></tr></table></div>
+The House of Healing functioned as a [[ministry]] - the Hand of the Healers had access to three different purchase tracks that allowed them to purchase implements, attire, and foci useful for healing from the followers of Ossegrahn. The Hand of the Healers made their decision on how much money to spend during downtime from their character page. They could only purchase one item from each of the three collections. Money was removed from, and ribbons were placed into, the character's inventory when downtime was processed. 
+<!--
+If Ossegrahn were ever subject to a [[Declaration]] of [[Alignment#Enmity|Enmity]] by the Conclave the ministries would cease to function.-->
+
+===Gift of Rainfather===
+Ossegrahn provided the Hand of the Healers with a unique amulet for their personal use that increased their personal healing abilities. The details of this amulet are not widely known.
+
+==Appointment==
+The appointment, replacement or removal of the Hand of the Healers was made by the [[Declaration]] of [[Candidacy]] as part of a [[Conclave session]].
+
+The Hand of the Healers served until they are replaced by another magician using the Declaration of Candidacy. The Hand cannot be [[Revocation|revoked]] by the [[Synod]].
+{{RecentElections|Hand_of_the_Healers}}
+==Houses of Healing==
+<div style="float:right; width: 500px; clear: right;"><quote by="Dreekbourne, Herald of the Cupbearer">I'm not sure I understand what you are asking. Healing herbs... heal. They do what they do? You can find new things to heal with them but you cannot find new things for them to do .</quote></div>
+These gentle houses stand amidst tranquil and restful gardens near [[Therunin#Peakedge Stead|Peakedge Stread]] in [[Therunin]]. There are half a dozen primary lodges, built in a manner reminiscent of a Navarr [[wayhouse]], along with another half dozen smaller structures intended to house contagious patients or visiting artisans. The burgeoning gardens contain examples of every plant with healing properties that can grow in Therunin, as well as large numbers of aromatic or simply beautiful flowering plants that contribute to the restful atmosphere. At the heart of the settlement is a quiet spring of pure water that is also a Spring regio tied to the domain of the [[Ossegrahn|Tarnfather]], which allows gentle heralds to visit the Houses and assist the healers there. 
+
+The Houses of Healing were constructed as a result of an [[Rain king#Do_Least_Harm|offer]] made by the servants of [[Ossegrahn|Lord Rain]] at the Spring Equinox 385YE. The [[Archmage of Spring]] at the time, Ibiss Briarheart, asked if Ossegrahn would sponsor a college to study herb lore and the [[Surgical skills#Physick|healer's arts]], but while the heralds appreciated the sentiment, they did not believe such a thing was possible. Certainly they didn't know of any way for a physick to use herbs in a way the Empire doesn't. The Archmage also asked whether Ossegrahn might provide aid to Imperial healers, and the followers of the Spring eternal were very much more enthusiastic about the possibility of offering direct, practical aid to those who work to keep people alive (even if they do sometimes do it on a battlefield).
+
+After some discussion, among themselves and with the Cupbearer himself, the heralds put forward a proposal. There are a number of [[Crafting skills#Artisan|artisans]] in the Empire and elsewhere who are friends and allies to Ossegrahn who will craft [[magic items|magical tools]] for the benefit of the Empire's healers. Thus, the ''Houses of Healing'' were proposed, to be built either near [[Therunin#Peakedge Stead|Peakedge Stead]] in [[Therunin]], or at the [[Benefactor_of_High_Chalcis#Gardens_of_High_Chalcis|Gardens of High Chalcis]] in [[Reikos]]. There are apparently Spring regio near both locations that would serve as the foundation for their construction. 
+
+In addition to providing a safe and tranquil location for the artisans to work, they allow for the study of [[Surgical skills#Chirurgry|chirurgery]], [[Surgical skills#Physick|physick]], [[Surgical skills#Apothecary|herblore]], and healing magic, as well as providing healing to any who visit. Ossegrahn proposed that a single individual would be appointed to oversee the Houses, called the ''Hand of the Healers'', and they would bear additional responsibilities both to the doctors and healers of the Empire and to the friends of Ossegrahn who support them. In return, the eternal would serve as a patron, guiding and inspiring healers to find ways to reduce the suffering in the world.
+
+The ''Hand of the Healers'' has access to ministries that allow them to purchase [[magic items]] intended to assist mundane and magical healers. Some of these items are unknown to Imperial crafters, being either secrets unique to a small group of artisans, or secured from sources outside the Empire. In each case, the artisans and merchants are individuals who have a good personal relationship with the Rainfather or one of his heralds. In addition, once each year, the Rainfather himself agrees to provide the ''Hand of the Healers'' with a unique amulet for their personal use that would increase their personal healing abilities.
+
+These powers are contingent on good relationship with Ossegrahn. In the event the Conclave declared [[alignment#Enmity|enmity]] against him, they would be lost. There is no guarantee they would automatically be recovered if the Conclave later changed their mind. Without the support of Ossegrahn the Houses of Healing would simply revert to being a hospital (it would essentially be an [[edifice]]).
+
+==Tools of Healing and Protection==
+Click ''Expand'' to see a summary of the items that the Houses of Healing can provide which are not common knowledge among Imperial artisans.
+<div class="mw-collapsible mw-collapsed">
+====Lifetender's Shawl====
+* '''Form:''' Armour. Takes the form of a [[Magic_items#Armour|robe]]. You must be wearing this robe to use its magical properties.
+* '''Requirement:''' You must have the [[Magical skills#Magician|magician]] skill to bond to this item.
+* '''Effect:''' Three times per day you can [[Spellcasting#Swift casting|swift cast]] the [[heal]], [[purify]], or [[restore limb]] spell on another character without spending any mana. You must be able to cast the appropriate spell to use this power, and cannot use it on yourself. 
+* '''Roleplaying Effect:''' While wearing this robe your empathy for other people is greatly enhanced. When you see a living creature in pain, you feel an urge to alleviate that pain, regardless of how you feel about that person.
+
+====Doctor's Mask====
+* '''Form:''' Talisman. Takes the form of a [[Magic_items#Talismans|ritual focus]]. You must be wearing this item or holding it in hand to use its magical properties.
+* '''Requirement:''' You must have the [[Magical skills#Magician|magician]] skill to bond to this item.
+* '''Effect:''' Gain 1 rank for the [[Blood of the Hydra]], [[Hands of Sacred Life]], and [[Hearthfire Circle]] rituals, subject to the [[Realm_Lore#Gaining_additional_ranks|normal rules for effective skill]].
+====Cupbearer's Mask====
+* '''Form:''' Talisman. Takes the form of a [[Magic_items#Talismans|ritual focus]]. You must be wearing this item or holding it in hand to use its magical properties.
+* '''Requirement:''' You must have the [[Magical skills#Magician|magician]] skill to bond to this item.
+* '''Effect:''' Gain 1 rank for the [[Chirurgeon's Healing Touch]], [[Fountain of Life]], and [[Hands of the Healer]] rituals, subject to the [[Realm_Lore#Gaining_additional_ranks|normal rules for effective skill]]. When contributing to a performance of one of these rituals, you may choose to substitute [[weltsilver]] for crystal mana. Every 2 measures of weltsilver spent counts as 1 crystal mana, up to the normal limit determined by your effective rank of spring lore.
+====Vine Mask====
+* '''Form:''' Talisman. Takes the form of a [[Magic_items#Talismans|ritual focus]]. You must be wearing this item or holding it in hand to use its magical properties.
+* '''Requirement:''' You must have the [[Magical skills#Magician|magician]] skill to bond to this item.
+* '''Effect:''' Gain 2 ranks for the [[Regrow the Land's Heart]], and [[Rivers of Life]] rituals, subject to the [[Realm_Lore#Gaining_additional_ranks|normal rules for effective skill]]. When contributing to a performance of one of these rituals, you may choose to substitute [[ambergelt]] for crystal mana. Every 2 measures of ambergelt spent counts as 1 crystal mana, up to the normal limit determined by your effective rank of spring lore.
+====Chirurgeon's Ring====
+* '''Form:''' Talisman. Takes the form of a tool. You must be holding this item in hand to use its magical properties.
+* '''Requirements:''' You must have the [[Surgical skills#Chirurgeon|Chirurgeon]] skill to bond to this item.
+* '''Effect:''' Twice per day you can use the [[Heroic skills#Stay with me|stay with me]] skill as if you knew it without spending any [[heroic skills#hero|hero points]].
+* '''Roleplaying Effect:''' Whenever someone nearby is injured, you feel an echo of that injury. It is easy to be overwhelmed with grief when someone dies, even a total stranger.</div>
+[[Category:Title]]
+[[Category:Conclave]]

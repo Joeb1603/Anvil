@@ -1,0 +1,27 @@
+[[Category:Senate Motion]][[Category:388YE Autumn]]
+__NOTOC__
+<quote by="Announced by Dima Vasilyevna Novosad, Master of the Koboldi">To commission Dima's Light of Ossium, a great work on the Bittershore, costing 40 white granite, 10 mithril, 5 ilium, and 150 crowns. Fully self-funded. Many thanks to King-under-the-Mountain and his dependable forekoboldi Drageer for this boon.
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Bittershore, Ossium
+* Announcement by '''Dima Vasilyevna Novosad''', [[Master of the Koboldi]]
+* The [[Is_there_anybody_out_there%3F#Beacon_in_Ossium|plans]] for the grand beacon were first presented by one of the  ''koboldi'' shortly before the Spring Equinox 387YE
+
+==Date==
+* Autumn 388YE
+
+==Cost==
+* Costs as per opportunity
+* 40 wains of white granite
+* 10 wains of mithril
+* 5 rings of ilium
+* 150 crowns in labour costs 
+* Six months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Dima%27s_Light_of_Ossium}}
+==Outcome==
+Once complete, Dima's Light of Ossium will have the following effects:
+* Warns of threats against Kostjyas Respite
+* Establishes a beacon in Bittershore, increasing investment of fleets in Ossium by one
+** Any fleet in Ossium undertaking a [[Fleet#Trading|trading]] action does so with a bonus rank

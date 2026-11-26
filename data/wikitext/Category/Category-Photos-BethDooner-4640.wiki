@@ -1,0 +1,11 @@
+<noinclude>My website is: www.bethdooner.co.uk<br>
+My tumblr is: bethdooner.tumblr.com<br>
+My twitter is @Doonerphotos<br>
+Beth is also on [https://ko-fi.com/bethdooner Ko-Fi] if you want to support her work directly
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+<nowiki>{{Beth}}</nowiki></noinclude>
+<includeonly>
+[[Category:Photos:BethDooner]] [[:Category:Photos:BethDooner|Image by Beth Dooner]]
+</includeonly>

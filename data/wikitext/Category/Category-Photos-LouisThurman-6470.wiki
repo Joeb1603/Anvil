@@ -1,0 +1,3 @@
+Please include the following text in the description field when uploading files by this author to the wiki
+
+<nowiki>{{LouisT}}</nowiki></noinclude>

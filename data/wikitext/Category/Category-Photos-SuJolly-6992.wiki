@@ -1,0 +1,7 @@
+Photographs by Su Jolly
+
+Su also creates costume with Kate DIcey as part of Jolly Dicey. They can be contacted through Facebook [https://www.facebook.com/JollyDicey/?ref=br_rs here]
+
+Include this text on each photo:
+
+<nowiki>[[Category:Photos:SuJolly]] [[:Category:Photos:SuJolly|Image by Su Jolly]]</nowiki>

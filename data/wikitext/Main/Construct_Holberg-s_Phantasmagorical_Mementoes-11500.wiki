@@ -1,0 +1,16 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Announced by Bernhard Kleist von Ennerlund, Bearer of an Imperial Wayleave">To complete the restoration of Holmauer Park we announce the legitimisation of the entrepreneurial souvenir stall operated by Claude of Holberg. Formerly known as 'The Rickety Stall' an investment of coin and wains by Kleists of Holberg create "Holberg's Phantasmagorical Mementoes" a standard business sinecure in Holmauer Park, to be appointed unanimous decision of the League's senators. </quote>
+==Overview==
+* Creates a sinecure in [[Holberg]] as per the '''[[In_the_garden_of_defiance#The_Rickety_Stall|In the garden of defiance]]''' wind of fortune
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+==Date==
+* Winter 385YE
+==Cost==
+* Costs as per opportunity
+* 5 thrones
+* Three months to complete
+==Progress==
+{{CommissionProgress|Holberg%27s_Phantasmagorical_Mementoes}}
+==Outcome==
+* Now that work is complete, the [[Financier of Holberg's Phantasmagorical Mementoes]] will be available to appoint by the unanimous decision of the League's senators

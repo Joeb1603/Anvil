@@ -1,0 +1,24 @@
+<div style="float:right; width: 350px; clear: right;">{{CaptionedImage|file=A well-fed bull in Kuno WS AJTJ P1070807.jpg|align=left|caption=The southern herd has alleviated the [[Region_qualities#Arid|aridity]] of Nadir.|width=500}}</div>
+==Overview==
+The Shepherd of the Southern Herd is an [[Imperial title]] awarded to a citizen of the [[Imperial Orcs]]. The title was [[386YE_Winter_Solstice_Senate_sessions#Establish_Cattle_Markets|created]] by the Imperial Senate at the Winter Solstice 386YE. The Shepherd of the Southern Herd is responsible for a sinecure that grants them a seasonal income of coin. More information on the opportunity that led to the creation of the title can be found in the '''[[Million_miles_of_water#The_Cattle_Markets|Million miles of water]]''' wind of fortune.
+
+During the Spring Equinox 388YE, '''Pathfinder Gaddak''', as [[Mareave|Senator for Mareave]], raised a motion to [[Construct Beoraidh Trading Post|construct a trading post]] for the trade of salt beef, tallow, and other cattle-based products from the southern herd in exchange for salt and ores from Beoraidh. 
+__TOC__
+==Responsibilities==
+The Shepherd of the Southern Herd is responsible for looking after the southern herd, protecting it from the wild drakes around [[Mareave#Nadir|Rathmonna]], and helping it grow to rival the size of the [[Shepherd of the Great Herd|Great Herd of Skarsind]]. If the safety of the herd, or its workers, were threatened, then it would be the responsibility of the Shepherd to deal with those threats.
+
+A total of five Imperial Orcs provided cattle bonds towards the formation of the southern herd. '''Bloodcrow Pip''' and '''Gralka''' each provided two cattle bonds; '''Ashborn Trosk''' provided twenty-eight cattle bonds; and '''Sandviper IDRA''' and '''Bloodcrow Rasp''' each provided one hundred and twenty cattle bonds. Sixteen different military unit captains helped drove the herd to Mareave, as detailed in '''[[387YE_Summer_Solstice_winds_of_fortune#Southern_Herd_Drive_(Cattle_Bonds)|Southern Herd Drive]]''' and '''[[387YE_Autumn_Equinox_winds_of_fortune#Home_is_Where_the_Herd_Is|Home is Where the Herd Is]]'''.
+
+==Powers==
+===Substantial Income===
+The Shepherd of the Southern Herd gains custodianship of a [[sinecure]]. They receive 43 crowns a season from the ongoing cattle trade in Nadir and trade at the [[Mareave#The_Twinned_Trading_Posts|Twinned Trading Posts]].
+
+==Appointment==
+This title is appointed during the Winter Solstice. The Shepherd is appointed by Imperial Orcs who control [[military unit]] [[Resource|personal resources]] who [[Military_unit#Supporting_an_Army|supported]] an [[army]] during the previous year. The larger the military unit an individual has, and the more often they supported the Imperial armies, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only an Imperial Orc may hold this title. They do not receive a seat on the Bourse. As an Imperial title appointed through the Bourse, they cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Shepherd_of_the_Southern_Herd}}
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Imperial Orcs]]
+[[Category:Bourse]]

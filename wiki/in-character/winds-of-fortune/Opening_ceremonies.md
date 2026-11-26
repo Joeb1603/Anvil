@@ -1,0 +1,250 @@
+---
+title: Opening ceremonies
+source: https://www.profounddecisions.co.uk/empire-wiki/Opening_ceremonies
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 387YE Winter
+- Recent History
+event: 387YE Winter
+last_edited: '2026-10-05T14:36:09Z'
+revision: 146057
+in_character_boxes: 2
+---
+
+# Opening ceremonies
+
+> *In-character text:*
+>
+> Caroline had been volunteered to talk to the heralds again, given she had fought alongside them during the delve into the depths to install the Red Iron Door. They were in the middle of erecting a truncated pillar of blue-white stone that looked extremely heavy. A dozen little scaled *koboldi* straining on ropes to bring it vertical in the deep hole they had dug for it. The League bravo noted that the column was covered in runes, but had no idea what they might mean.
+>
+> "Hold! Hold!" The *koboldi* surveyor had a piercing high pitched voice that cut through the hubbub like a greatsword through leather. The *koboldi* labourers did indeed hold, while the surveyor quickly examined the site with an oversized loupe and several references to a scrunched up parchment. Caroline peered over their shoulder (easily done given the stature of the *koboldi*) and saw that it was an esoteric, arcane diagram of a structure of columns, a foundation, and some low walls. She was not an architect herself, of course. For all she knew the surveyor was holding it upside down and it was actually a roof.
+>
+> "Perfect! Perfect!" piped the surveyor excitedly, and the workers released their ropes with a great cheer that nearly drowned out the sound of the stone column dropping into place. There was a certain amount of backslapping and yipping at what Caroline assumed was a job well done. The surveyor didn't waste any time on congratulations, but turned all their attention on the League citizen behind them.
+>
+> "Can I help you?" Normally when Caroline was asked this kind of question there was an undertone of suspicion or challenge, but the *koboldi* seemed genuinely to be offering assistance.
+>
+> "I hope so," she said, hunkering down slightly. "We were just wondering what was going on here?"
+>
+> There were some more cheers and cries at the other end of the structure as another column was expertly guided into place. The *koboldi* surveyor nodded several times.
+>
+> "Oh we're just building a frame," they piped. "It's nothing to worry about. It's perfectly safe."
+>
+> As if to cast doubt on their words, there was an outbreak of yipping and shouting over the surveyor's shoulder as a vital rope snapped and a rod of blue-white stone nearly sheared through the middle of a group of labourers into one of the pillars. The labourers managed to get control just in time. The surveyor noticed that Caroline was staring aghast and followed her eyeline.
+>
+> "Oh don't worry," they said chuckling. "All the stone is infused with adamant. It's almost impossible to damage."
+>
+> "I was more worried about the workers," said Caroline. The surveyor frowned and blinked, then chuckled again and just looked expectant.
+>
+> "Is all this approved then?" Caroline tried again. "Only there are rules about building things in Anvil..."
+>
+> "Oh no need to worry about that either." The *koboldi* beamed at her. "The site's been carefully chosen, right on the edge of Anvil where the restrictions end."
+>
+> "And the Master knows all about this then?"
+>
+> "Oh absolutely, it was the master who instructed us to put this in place, very prestigious commission you know. Serious magic involved. Why, if one of the anchor pillars is more than a finger's width out of place the whole thing might collapse. Or explode, you know? Ha! I wouldn't want to be nearby if that was happening, let me tell you."
+>
+> One of the other *koboldi* leaned in and whispered to the surveyor, who frowned again.
+>
+> "Oh, you mean the Imperial Master! Dima Vasilyevna Novosad! Wonderful person, very proud to work with them. No, they don't know anything about this. This has come from the Master himself, The King Under the Mountain. Some arrangement with the Iron Duke, you know? But don't worry - the Conclave is friends with both of them so I assume they've sorted out all the permissions and things you people worry about so much!"
+>
+> All the *koboldi* were smiling at her now, and a woman who had fought all four of the barbarian nations in her time found herself taking a step backward from all those on-display sharp ivory teeth. After a moment of consideration, she decided this was very much above her pay grade, and that she'd found out as much as she was going to find out, and so just nodded and muttered something about that all making sense before beating a hasty retreat.
+>
+> Several of the *koboldi* waved goodbye as she departed and one of them called out "Have a lovely afternoon!" without the slightest hint of sarcasm.
+
+*[Image: Camock.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Camock.jpg)*
+
+## Overview
+
+Barely a week after the Autumn Equinox, a gang of *koboldi* pass through the Hall of Worlds and emerge at [Anvil](../world/Anvil.md). They carry large numbers of surveying tools and spend a cheerful afternoon exploring, taking measurements, and avoiding direct questions. Over the next month, they set to work pinning out a sizable area of ground; more and more *koboldi* arrive and bring with them building materials and construction tools of all kinds. Working at remarkable speed, over the next fortnight, they begin to raise a sizable structure on the edge of [Anvil](../world/Anvil.md). Several wagonloads of [white granite](../../mixed/economy/White_granite.md) and [weirwood](../../mixed/economy/Weirwood.md) are delivered to the site from Casinean warehouses, as the *koboldi* overseer *Molibolt* redeems a stack of very old wains some dating back as far as the reign of [Empress Mariika](../history/Empress_Mariika.md). More and more *koboldi* arrive, swelling their numbers until some local residents are concerned an actual invasion from the [Summer realm](../eternals/Realm.md#summer-realm) may be underway.
+
+At first it is assumed this is some sort of arrangement with the [Conclave](../../mixed/government/conclave/Conclave.md), the [Archmage of Summer](../../mixed/titles/Archmage_of_Summer.md), or the [Master of the Koboldi](../../mixed/titles/Master_of_the_Koboldi.md) but the [heralds](../eternals/Inhabitants_of_the_realms.md#heralds) themselves cheerfully explain that it is nothing of the sort. They are here on a commission directly from the [King Under the Mountain](../eternals/Adamant.md) themselves. A commission they describe as "ever so exciting" to the worry of many.
+
+## Barien's Gift
+
+- **Adamant and Barien have collaborated to deliver a gift to the people of the Empire**
+- **A new structure has been created on the margins between Anvil and Outer Anvil**
+
+With supernatural skill and speed, the servants of the *Stone Dragon* complete their work and, despite worries, return through the [Imperial regio](../../mixed/magic/rituals/Regio.md#imperial-regio). It isn't at first clear what they have built - it seems to be less a building and more the skeleton of such. A large open space outlined by a series of support pillars. It looks incomplete, but when questioned Molibolt smiles secretively and says that they weren't commissioned to build the whole thing, only to construct "somewhere to put it."
+
+The very next morning, the guards set to watch over the construction find ten heralds bearing the owl banners of the [Lord of the Crossroads](../eternals/Barien.md) have arrived. They encircle the *koboldi*-work building site and as the sun rises, they raise their banners high. Among their number are familiar faces - *Revel*, *Temper*, *Flute*, and *Bellows* - and several who have never been seen at Anvil before including one clearly of [orc](../../mixed/world/Orc.md) appearance and draped in crimson and steel. It is clear from the exertion on their faces that whatever they are doing is no easy task, and they ignore all attempts to question them. Molibolt and her gang do their best, but their very technical explanation about what is happening leaves most who speak to them none the wiser.
+
+> **The Tourneyground of Camock**  
+> Scholars among the [Celestial Arch](../../mixed/government/conclave/Celestial_Arch.md) are aware of the *Resounding Deep* - a great chamber between the Summer realm and the mortal world where Barien is known to bring those who would challenge great beasts of the wilderness. The tourneygrounds there have been used in the past for several [magical challenges](../../mixed/magic/rituals/Challenge_the_Iron_Duke.md) between Imperial citizens and the *Lord of the Crossroads*. The *koboldi* overseer Molibolt mentions in part of their explanation of what is happening that the arena was "easier to move" because it was already quite close to the mortal realm, but that the logistics were still "a proper headscratcher"
+
+At midday, there is a sound like all the strings of a great harp being plucked simultaneously and between one moment and the next under the late Autumn sun, a building appears. An arena, marked with age, but formed around the pillars and supports the *koboldi* provided. Beaded with sweat, the heralds of Barien lower their banners and in some cases practically collapse from exhaustion. It falls to Revel to explain what has happened here.
+
+This, it seems, is a gift from Barien to the Empire in recognition of the challenges they have faced and those yet to come. A place for them to celebrate, to practice arts of war and peace alike, and for new challenges to be set under the watching eyes of Imperial citizens. In much the same way that the [Lady of the Blizzard](../eternals/Cathan_Canae.md) allows her great citadels to be called to the mortal world, Barien has moved the *Tourneyground of Camock* from his demesne to the mortal world. From its place on the edge of the Resounding Deep where the [icewalker](../../mixed/magic/lore/Wintermark_magical_traditions.md#icewalkers) *Saara Vartiainen* once bested the terrible emerald dragon *Saxesangwin* in a contest of riddles, and *Ser Cadacus* moved Barien to tears with their bittersweet music, the tourneygrounds are now in Anvil. A sign that the *Master of Revels* recognises and exalts the enduring prowess of the Empire, and its heroes.
+
+## The Anvil Arena
+
+- **There is a new arena in Anvil, a gift from Barien to the people of the Empire**
+- **The civil service have been lumbered with sorting out the details of how it will be used**
+- **Barien intends to use the space for challenges but the rest of the time it is free for use by Imperial citizens**
+
+*[Image: King Under the Mountain.png](https://www.profounddecisions.co.uk/empire-wiki/File:King_Under_the_Mountain.png)*
+
+When the heralds depart, the arena remains behind. Temper and Flute formally hand the structure over to the nonplussed members of the civil service, on the understanding that they will be able to "handle the paperwork". Bellows is the last to depart, and mentions in an off-hand way that some of Barien's reeves will be in touch before the Winter Solstice with a proposal of how to best celebrate the creation of the new arena. The only thing that the *Iron Duke* asks in return for his gift is recognition that the civil service give priority to the Summer realm when it comes to the use of the space - on the understanding that they will receive plenty of advance warning when such things are to take place.
+
+Imperial magicians are quick to explore the structure. They are able to confirm that it is *physically there* - not the result of an ongoing enchantment. The foundations and several of the supports are imbued with something akin to adamant - the indestructible stone of the Summer realm - and while it is not impossible to harm the structure it would take profoundly potent magic to do so in any meaningful way. Ritual divinations are deployed by members of the [Unfettered Mind](../../mixed/government/conclave/Unfettered_Mind.md). [Night magic](../../mixed/magic/rituals/Shadowed_Glass_of_Sung.md) suggests that there is an enigma regarding the place - "*What does it mean to be victorious, to triumph? What is the value of a contest with rules? What is the reward for those who do not win?*". Not precisely illuminating, but perhaps a riddle for mystics and philosophers to debate. [Day magic](../../mixed/magic/rituals/Clear_Lens_of_the_Eternal_River.md) is more forthcoming - "*This is the tourney ground of Camock that once stood in the Resounding Deep, where Imperial heroes bested and were bested by the powers of the Summer realm, given as a gift to the Empire by the* Lord of the Crossroads *at the end of 387YE in recognition of the willingness of Imperial champions to challenge themselves and the world.*"
+
+The structure itself is relatively simple - a flat open space surrounded by tiered rows of seats with some small offices attached. It is sparsely decorated - many of the impossibly bright banners and standards hung here when it arrived dissolve into mist and seafoam as the sun sets. As well as having room for martial contests, it's clear that with a little projection and a willing audience it would also serve well as a performance venue for music and drama. The seating area might also work reasonably well as a place for passionate debate, reasonable discussion, or the delivery of studious lectures.
+
+The civil servants entrusted with looking after the place have confirmed that they plan to operate a system similar to that which already exists with regard to other "Imperial" spaces - to schedule its use by Imperial citizens.
+
+## Calling the Drottningbjotha
+
+- **The rulers of the Summer realm have called the Drottningbjotha**
+- **It will take the form of a grand tourney of the Imperial nations**
+
+It's been some eight years or more since the last time one of the monarchs of the Summer realm [called the Drottningbjotha](Calling_the_Drottningbjotha.md) (*Drott-ning-BEE-yo-thar*). As the Winter Solstice approaches, heralds of the monarchs of the Summer realm - of [Adamant](../eternals/Adamant.md), [Cathan Canae](../eternals/Cathan_Canae.md), [Eleonaris](../eternals/Eleonaris.md), [Jaheris](../eternals/Jaheris.md), [Meraud](../eternals/Meraud.md), and [Rhianos](../eternals/Rhianos.md) - let it be known that they intend to do so once again, to celebrate Imperial victories and the strong bond between the courts of Summer and the Empire. It falls to heralds of Barien to deliver the details of the challenge, which they do in discussion with the civil service.
+
+The last time the Drottningbjotha was called, by the *Queen of Ice and Darkness*, it was a test of endurance and fortitude as well as military prowess. This time, it is to be a test not of individuals but of bands of champions. Each nation of the Empire is invited to present a ten-strong warband of heroes, seasoned warriors and veterans of the Empire's battles against their enemies. They will contend against one another until only one remains and the warband - and the nation they represent - will receive the accolades of Summer. All who participate, however, will be granted a gift, commensurate with how far through the contest they get.
+
+*[Image: BarienArt.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:BarienArt.jpg)*
+
+Shortly before the Winter Solstice, Revel and the heralds of Barien return to Anvil. This time they are here to deliver the rules of the tourney to be held at the coming summit.
+
+## Friday Evening
+
+- **Opening ceremonies for the Drottningbjotha will take place on Friday evening in the arena, at 6:30pm**
+- **The [strategos](../../mixed/titles/Strategos.md) of each Imperial nation is invited to attend, and to be responsible for assembling their nation's team**
+- **Each strategos will be given a symbol of authority - they can pass the symbol to another if they prefer**
+- **Each strategos will have a chance to address the crowd**
+- **Enchanter Vesper Lucentia has also been invited to take part by the heralds'**
+
+At **6:30pm**, after the opening of the summit, the heralds of Barien will invite the strategos' of the ten nations of the Empire to come before them, and open the festivities of the Drottningbjotha. Where a nation currently has no strategos, Barien assumes that the [generals](../../mixed/titles/General.md) of the nations involved will expedite the [appointment](../../mixed/titles/Strategos.md#appointment). If they aren't able to, Revel will attend the nation afterwards to try and ensure an organiser is in place.
+
+Each nation that wishes to take part must field a single team of ten contestants; no more, no less. Barien is asking the strategoi to choose their nation's champions. The Drottningbjotha will be as much a test of the strategos' skill and management as the champions themselves. They can choose whatever combination of steel clad fighters, archers and battlemages they prefer, but the ten they select are the only ones who can take part at each stage of the tournament.
+
+Revel will provide each strategoi with a symbol of their authority. This denotes that they have final say over who gets to take part in the tourney; the heralds will defer to the holder if there are any disputes. If a strategos does not wish to take on the responsibility for any reason, they may pass the symbol to another in their nation to act in their stead.
+
+The heralds don't offer any restrictions on how teams should be chosen; that is left entirely up to the strategos themselves. Of course the heralds would be delighted if some kind of tourney or challenge was implemented, but the ultimate decision lies with the organisers. Each strategos is welcome to include themselves as one of the ten champions, if they so wish, but there is no requirement to do so.
+
+Once Barien's tokens have been distributed, each strategos will be free to address the crowd for a minute, in order to set the right tone for the rest of the weekend, of course. If for some reason the strategos isn't there, the heralds of Barien will seek them out later and deliver their mark of authority.
+
+## Mustering the Warbands
+
+- **The ten champions chosen for each nation must present themselves at the area at 4:00pm on Saturday**
+- **Those who bear Barien's symbol of authority will have the final say on who is chosen to represent their nation**
+- **An 11th team will also participate, comprising one champion selected by each of nine covens chosen by the Iron Duke**
+- **Enchanter Vesper Lucentia is invited to lead Barien's team**
+
+The Drottningbjotha will open at **4pm on the Saturday of the summit**. The teams should present themselves to the heralds at that time, so they can ensure everything is in order. If there are any doubts who a nation's ten champions will be, then the strategos or whoever they have given Barien's symbol of authority to, will have the final say.
+
+In addition to ten nations, an 11th team will enter the contest. At this summit, [Barien has invited nine favoured covens to each choose a champion](Locked_runes.md) to take part in the tourney. The Lord of the Crossroads has offered **Enchanter Vesper Lucentia** the opportunity to lead this motley team, as the leader of **The Coven of Golden Wings**, the coven with the most successful Iron Duke challengers of the last year. If fewer than nine champions are chosen by Barien's covens, Vesper will be free to choose additional contestants to add to their team in order to bring the total to ten.
+
+Once all 110 champions are accounted for, the tourney proper will begin with the first round. All rounds of the tourney will be fought under the same rules of engagement.
+
+## Rules of Engagement
+
+- **Champions may benefit from enchantments, boons, magical items, and similar**
+- **Consumable items including potions, herbs, and crystal mana are not permitted in the arena**
+- **Champions may not receive aid from anyone outside their team once a bout begins**
+- **A contestant is defeated when they can no longer rise, or they yield**
+- **A contestant may not return to the fight once they are healed or leave the arena**
+- **Enterprising citizens are welcome to take bets on the outcome or to sell refreshments to the crowd**
+- **These rules apply to every round of the Drottningbjotha**
+
+The rules of this Drottningbjotha are straightforward. Contestants can bring with them as many enchantments or magic items as they wish but once the engagement starts there must be *no use* of consumables (including but not limited to potions, herbs, and crystal mana) until the bout is over. There must be no interference from outside the field itself; supporters must not provide spells, potions, herbs or similar to their team once their bout begins. Only the champions may affect the outcome of the challenge, and they must do so with their wits and prowess not with endless sacks of healing potions. In the event of any dispute about the rules the heralds of Barien will adjudicate, with advice from the [Archmage of Summer](../../mixed/titles/Archmage_of_Summer.md) (or their proxy) if they are present.
+
+Contestants are welcome to bring spare weapons and shields into the area to be used if their arms are shattered. These should be left at the edge of the fighting area; champions may only use spares their own team has brought in. This is not a fight to the death, a champion is defeated when they yield or cannot rise. Once a champion yields, leaves the arena or is healed after falling, they cannot return to that fight. They may participate in later rounds if their team is victorious.
+
+A herald of Adamant has suggested that the [Imperial Apothecaries Guild](../../mixed/titles/Imperial_Apothecaries_Guild.md) provide sufficient healers to ensure that wherever possible nobody actually dies. They will be the sole exception to the rule that only the contestants will be on the field - Healers may enter the field to get the fallen to safety and ensure their wounds are not fatal. They should place one hand on their heart to indicate they are not participating and should not be struck. Fallen contestants should be removed from the field and healed on the sidelines. Healers are free to use whatever resources they desire, but anyone healed in this way cannot return to the fray in this bout. They may rejoin their team in the next round if their team are victorious.
+
+A query from a respected member of the [Golden Pyramid](../../mixed/government/conclave/Golden_Pyramid.md) order, about whether it is acceptable to take bets on the outcome, or to sell sausages on sticks to the audience, is met with polite incomprehension. The heralds of the Summer realm see no reason that what happens in the stands should be of interest to them or the participants in the Drottningbjotha. It seems that anyone with services to offer is more than welcome to make what coin they can from the assembled crowds.
+
+### The Opening Round
+
+- **The opening round of the Drottningbjotha begins at the arena at 4:15pm on Saturday**
+- **It consists of five bouts, each pairing two nations against each other**
+- **Pairings will be drawn randomly before the start of the bouts**
+- **A team wins if their opponents have no champions left standing**
+- **If both teams are still fighting after five minutes, the team with the most champions remaining wins**
+
+The opening round will consist of 5 bouts, each pitting one nation's warband against another. The heralds of Barien will draw lots randomly at the start of the round to determine pairings. Once underway, the fight ends when only one team has contestants remaining. If both sides are still in the fray after five minutes, the team with the most champions remaining is the winner. In the event of a tie, the heralds will call for the bout to continue, but whichever team loses the next champion, loses the bout.
+
+### The Heroes' Round
+
+- **After the first round is complete, a single hero from the five losing teams may enter the arena**
+- **They will take part in a grand melee between these five heroes**
+- **The winning hero's team will advance to the second round**
+- **The round will be followed by a brief interlude to allow the winning hero to recover**
+- **Barien invites the High Bard to arrange entertainment in the arena during this period**
+
+Once all the bouts in the first round are complete, Barien's heralds will invite each of the five losing teams to nominate a single hero to face off against the others. The decision of the strategos will settle any arguments. The five champions will enter the arena at the same time to fight in a grand melee. The team of whichever champion is left standing at the end will proceed to the next round, the others will be eliminated.
+
+There will be a short interlude after the heroes round to allow the winner to rest and recuperate. Barien invites the High Bard to entertain the crowd during the interlude, or else nominate someone who can do so if they prefer.
+
+### The Victors' Round
+
+- **The victors' round will consist of 3 bouts between the 6 teams that won a bout previously**
+- **Pairings will be drawn randomly before the start of the bouts**
+- **It will be followed by a short interlude**
+
+The six winners from the first two rounds will be paired off in three bouts in the next round. Barien's heralds will draw lots again, but will make sure there no repeats of pairings from the first round. It will employ the same rules as the previous bouts.
+
+The three winners will go forwards to the final round after another short interlude.
+
+### The Final Round
+
+- **The final round will be a single grand melee**
+- **It will feature the three winners from the previous round and the team of the Iron Duke's champions**
+- **The final bout will continue until only one team has champions remaining**
+- **The final team with champions still standing in the arena will be crowned the victors of the Drottningbjotha**
+
+The three winning teams from the previous round will go enter the final round of the Drottningbjotha. They will be joined by the team of the Iron Duke's champions.
+
+The final round will be a grand melee between the 4 teams, with no time limit. One team wins once all their opponents have no champions left standing. The winning team will be crowned the victors of the Drottningbjotha.
+
+## Spoils of the Contest
+
+- **Every champion eliminated in the opening round will receive a dose of Skop's Mead**
+- **Champions eliminated in the victors round will each receive a dose of Troubadour's Glory**
+- **The losers in the final round will each receive a dose of Champion's Honey**
+- **Every member of the winning team will each receive an Iron Owl**
+- **The nation that wins the contest will receive a boon from those kings and queens of the Summer realm who have amity**
+
+As befits such a grand occasion, those who demonstrate their skills will be rewarded according to their success. Each individual champion who takes part but is eliminated in the opening round will receive a single dose of [Skop's Mead](../../mixed/magic/potions/Philtres_of_War.md#skops-mead) in recognition of their brave efforts. Those eliminated in the victors round will be given a flask of *Troubadour's Glory*, a heady brew prepared by servants of the *[Lady of Pennants](../eternals/Eleonaris.md)* which apparently has the same benefits as Skop's Mead but also restores three lost body hits to the imbiber.
+
+Each of the brave champions eliminated in the final round will be granted a snifter of *Champion's Honey*, a rare brew from the cellars of the [Moonsilver King](../eternals/Jaheris.md#brews-of-silverbrow) with effects comparable to those of the [Elixir of Exalted Puissance](../../mixed/magic/potions/Philtres_of_War.md#elixir-of-exalted-puissance). Each of the ten winners will instead receive an Iron Owl, a powerful talisman enchanted by Barien themselves, which grants [one additional hero point](../../out-of-character/rules/Heroic_skills.md#extra-hero-points) to anyone bonded to it.
+
+Perhaps just as importantly, a nation that wins the contest will also receive the boons of the Summer realm. Each of the [monarchs of the Summer realm](../eternals/Alignment.md#summer) who has [amity](../eternals/Alignment.md#amity) at the end of the Winter Solstice summit will find a way to bless the lands of the winning nation.
+
+If Barien's champions are defeated in the final round, they will receive a dose of Champion's Honey like the other champions. If they are victorious, they will claim the Iron Owls, and the nation's prize will be claimed by Enchanter Vesper Lucentia on behalf of Dawn.
+
+With that, the curtain will fall on the Drottningbjotha, though not on the arena. It might take another 8 years for the next Drottningbjotha to be called, but the Tourneygrounds of Camock will play host to many more scenes of challenge and spectacle at the summits in between.
+
+## Resolution
+
+During the Winter Solstice 387YE, the team captained by **Enchanter Vesper Lucentia** of [Dawn](../nations/dawn/Dawn.md) won the Drottningbjotha at the invitation of [Barien](../eternals/Barien.md). The next season, four of the Monarchs of Summer laid down their rewards for the nation: a [favour](Monarchs_and_outcasts.md#a-boon-for-all-seasons-various) to each of the [Knights-protector](../../mixed/titles/Knight-protector.md) that allowed them to call on their patron for a boon.
+
+## Out of Character
+
+- **Our new site includes a large covered grandstand**
+- **This is now part of the IC location of Anvil and can be booked by players for their use through liaison with the civil service**
+
+Our new site features a large grandstand, which we're keen to integrate into the field at Anvil. Our set team are hard at work already, adapting that to make it look as impressive as possible for the first event. We don't have any plans to run a grand tourney like this every event, but it will be the natural place for plots like this to run in the future. Having the grandstand means we won't have to take over the Dawnish Glory Square every time we need to run a large set piece of plot in the future - so that location can remain for the exclusive use of the Dawnish and for plot aimed at the Dawnish.
+
+The space will be a normal part of Anvil, managed by the civil service, so players are welcome to [book the arena](../world/Anvil.md#booking-civil-service-spaces) for anything they are planning that would benefit from open space and tiered seating.
+
+> *In-character text:*
+>
+> The great warrior shifted, wheeling in the sand, his spear spinning in his hands.
+>
+> "Hiyaa!" He lunged forwards, the weapon a blur as it darted through the air, left then right. An orc went down clutching his midriff. The crowd gasped, as three more enemies leapt forward to take his place. "Booooooo!" the people in the stands catcalled the villains for daring to attack him three to one.
+>
+> "Yeaarrgh!" He yanked the pole-axe back, loading the heavy head behind his head, then brought it forwards with devastating speed. It struck the sand with a boom so loud, the shockwave hurled everyone from their feet.
+>
+> An arrow came flying out of the distance, a deadly needle aimed directly for his head. Stumbling back, he pulled the quarterstaff up, just in time to knock the arrow from the air before it tore his throat out. Triumphant, he spun the weapon in one hand, then snapped it back, the haft behind his back, the point of the bhuj held out to the side to meet the rays of the setting sun.
+>
+> "Carlos i Diez! Stop messing around and get on with it!"
+>
+> The voice of the great warrior's mum cut through the cheers from the grandstand. Carlos turned his back on the shout and screwed up his face in anger before the moment of truculence gave way to inevitable defeat. There was an hour of daylight left and he'd miss everything if the job wasn't done by then. He lowered the head of the rake, until the tines sank in to the sand. Resigned to the defeat, he dragged it backwards, smoothing out the very same marks that his own heels had left a moment ago.
+>
+> People would be here soon. Mum reckoned it was a day, two at most. If he helped her get the arena ready in time, she said he could watch it. A great big battle, a real one... with proper weapons and everything... all the mightiest heroes in Anvil...
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [387YE Winter](../../indexes/by-category/387YE_Winter.md), [Recent History](../../indexes/by-category/Recent_History.md)

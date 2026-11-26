@@ -1,0 +1,195 @@
+---
+title: 382YE Autumn Equinox Conclave sessions
+source: https://www.profounddecisions.co.uk/empire-wiki/382YE_Autumn_Equinox_Conclave_sessions
+class: in-character
+topic: conclave-sessions
+categories:
+- Conclave
+- Conclave Sessions
+- 382YE Autumn
+event: 382YE Autumn
+last_edited: '2026-03-16T16:41:54Z'
+revision: 135480
+---
+
+# 382YE Autumn Equinox Conclave sessions
+
+## Overview
+
+Records show that 10 addresses were made during the Friday session, and 11 during the Saturday session. The titles of addresses are not recorded.
+
+Records show that 8 [declarations](../../mixed/government/conclave/Declaration.md) were made during the Friday session, and 17 were made during the Saturday session. Other than declarations of [concord](../../mixed/government/conclave/Concord.md), precise wording of a declaration may be modified for standardisation purposes.
+
+## Precedence and the Font
+
+- **The basic font at this summit was 122 mana.**
+- **The income from the Principle of Proportions at the previous summit was 180 mana.**
+- **The remainder from previous seasons was 3 mana.**
+
+The members of each order in attendance at the end of the previous summit determine precedence for the following summit according to the [Principle of Precedence](../../mixed/government/conclave/Conclave.md#principle-of-precedence). The income of mana following the previous summit is listed above and was distributed as per the table below. This left 4 mana, which will be added to the font to be divided at the end of the next summit along with the income from the Principle of Proportions at this summit.
+
+| Order | Precedence | Members | Mana | Ilium |
+| --- | --- | --- | --- | --- |
+| Grandmaster of the Order of the Golden Pyramid | 1 | 77 | 59 | 3 |
+| Grandmaster of the Order of the Rod and Shield | 2 | 76 | 58 | 3 |
+| Grandmaster of the Order of the Shuttered Lantern | 3 | 73 | 56 | 2 |
+| Grandmaster of the Order of the Sevenfold Path | 4 | 67 | 51 | 2 |
+| Grandmaster of the Order of the Unfettered Mind | 5 | 39 | 30 | 1 |
+| Grandmaster of the Order of the Celestial Arch | 6 | 31 | 24 | 1 |
+| Grandmaster of the Order of the Silver Chalice | 7 | 30 | 23 | 1 |
+
+## Friday Declarations
+
+### Concord 1
+
+- *Raised By:* Asenath
+- *Stating:* Recognising a unique set of opportunities for the Empire to strike back at its enemies, free slaves and secure the future wellbeing of its citizens and the spreading of the Way, the Imperial Conlave calls upon the magicians of the Empire to lend what support they can to the magical strengthening of military units and fleets for the season between Autumn and Winter 382YE.
+- *Outcome:* Passed
+
+### Imperial Lore : Sulemaine and the Baker
+
+- *Raised By:* Simargl, the Empty One
+- *Ritual*: Why Sulemaine Walked Away From The Baker
+
+### Concord 2
+
+- *Raised By:* Raquel Saverio di Mestra
+- *Stating:* Following advice from the Imperial Magistrates that it lacks Wisdom to rely on clemency defence when it is deemed necessary to cast an interdicted ritual, Conclave requests that the Senate create a Declaration of Endorsement to create a legal route for these occasions.
+- *Outcome:* Failed.
+
+### Candidacy: Imperial Magus
+
+- *Raised By:* Juha, the Cave Spider, for himself.
+- *Outcome:* Passed.
+
+### Candidacy: Keeper of the Cox
+
+- *Raised By:* Gideon, for himself.
+- *Outcome:* Passed.
+
+### Reconciliation
+
+- *Raised By:* Ser Ancel Watcher
+- *Reconciling*: Earl Guissart Vexille
+- *Outcome:* Passed.
+
+## Saturday Declarations
+
+### Concord 3
+
+- *Raised By:* Brynn Lorerock
+- *Stating:* The conclave has assessed the risks associated with the title of emissary of Phaleron, and recommends to the Senate the creation of this title. The Conclave agrees that the Anvil library is a beacon of light, and must be preserved, We ask the Archive of Phaleron to enfold the library to protect it, its contents, and its staff from the attentions of those Eternals who would harm them.
+- *Outcome:* Failed
+
+### Candidacy: Winter
+
+- *Raised By:* Syn Truth-Walker Returned, for herself. Palaphon Ankarien, for himself. The incumbent, Emilia Ankarien, resigned before the election.
+- *Outcome*: Syn Truth-Walker Returned appointed Archmage of Winter
+
+### Concord 4
+
+- *Raised By:* Solomon
+- *Stating:* Conclave calls on the Senate to amend the powers of the Bursar such that they have responsibility for financing the Warmage, Imperial Seer and other appointed positions, and they are assigned a stipend to undertake these duties.
+- *Outcome:* Passed.
+
+### Concord 5
+
+- *Raised By*: Solomon
+- *Stating:* Conclave calls on the Senate to create a set of Imperial positions, 'Imperial Preceptors', who will have the responsibility to organise and co-ordinate with the Field Marshals the deployment of large-scale battlefield resources.
+- *Outcome:* Failed.
+
+### Interdict Hungry Key
+
+- *Raised By:* Abel
+- *Interdicting*: all items called the Hungry Key.
+- *Outcome*: Passed
+
+### Imperial Lore : Find the Best Path
+
+- *Raised By:* Marcus
+- *Ritual*: Find The Best Path
+- *Outcome:* Passed, text received, payment made by Marcus. [Find the Best Path](../../mixed/magic/rituals/Find_the_Best_Path.md) added to Imperial lore.
+
+### Amity: Kaela
+
+- *Raised By:* Palaphon Ankarien
+- *Outcome*: Passed
+
+### Concord 6
+
+- *Raised By:* Lady Claudia Varkulova Remys
+- *Stating*: That there should be an Imperial Position created to monitor and manage the casting of Whispers Through the Black Gate - the 'Imperial Necromancer'.
+- *Outcome*: Failed
+
+### Amity: Eleonaris
+
+- *Raised By:* Brother Luke
+- *Outcome*: Failed
+
+### Concord 7
+
+- *Raised By:* Brother Luke
+- *Stating*: We would like to thank Eleonaris for the offer of her boon to the Summer College.
+- *Outcome*: Passed
+
+### Candidacy: Ice and Darkness
+
+- *Raised By:* Ceinwen Eternal Navarr, for herself.
+- *Outcome*: Ceinwen Eternal Navarr was appointed as the Master of Ice and Darkness. Brother Luke was the incumbent and stood against her.
+
+### Candidacy: Summer
+
+- *Raised By:* Brother Luke, for himself. Solomon was the incumbent: it is not recorded if he stood against Brother Luke.
+- *Outcome*: Brother Luke was appointed as the Archmage of Summer.
+
+### Neutrality: Irra Harah
+
+- *Raised By:* Kesa Algarsdottir of Dunhearth Hall
+- *Outcome*: Failed
+
+### Imperial Lore : Silver and Gold
+
+- *Raised By:* Ifan
+- *Ritual*: Amalgamation of Silver and Gold
+- *Outcome*: Passed. The ritual text (...or at least, something which appears to act as one) was given to the Civil Service. Payment received from Ifan. [Amalgamation of Silver and Gold](../../mixed/magic/rituals/Amalgamation_of_Silver_and_Gold.md) added to Imperial lore.
+
+### Interdict Potion of Oakenshield
+
+- *Raised By:* Ingar Ironreaker
+- *Interdicting*: Potion of Oakenshield
+- *Outcome*: Passed
+
+### Interdict Two-bladed Knife
+
+- *Raised By:* Ingar Ironbreaker
+- *Interdicting*: Recipe of the Two-Bladed Knife
+- *Outcome*: Passed
+
+## Changes of Title
+
+- A new [Imperial Magus](../../mixed/titles/Imperial_Magus.md), Juha, the Cave Spider, was appointed.
+- A new [Keeper of the Cox](../../mixed/titles/Keeper_of_the_Cox.md), Gideon, was appointed.
+- A new [Archmage](../../mixed/titles/Archmage.md) of [Winter](../eternals/Realm.md#winter), Syn Truth-Walker Returned, was appointed.
+- A new [Master of Ice and Darkness](../../mixed/titles/Master_of_Ice_and_Darkness.md), Ceinwen Eternal, was appointed.
+- A new [Archmage](../../mixed/titles/Archmage.md) of [Summer](../eternals/Realm.md#summer), Brother Luke, was appointed.
+- A new [Grandmaster](../../mixed/titles/Grandmaster.md) of the [Silver Chalice](../../mixed/government/conclave/Silver_Chalice.md), Livarot De Montrose, was appointed by that [Conclave order](../../mixed/government/conclave/Conclave_order.md).
+
+The full list of Imperial Titles held in the Conclave at the end of the summit can be found [here](../../mixed/titles/Archive-382YE_Autumn_Equinox_Imperial_titles.md).
+
+## Changes of Sorcery
+
+- Earl Guissart Vexille was reconciled to the Conclave and is no longer a sorcerer.
+
+## Changes of Amity and Enmity
+
+- The eternal [Kaela](../eternals/Kaela.md) was granted amity.
+
+## Principle of Proportions
+
+During the summit, 223 mana was collected in accordance with the Principle of Proportions. The breakdown was as follows - on Friday, 7 mana from addresses, 6 from declarations, and 64 from the meeting. On Saturday, 8 mana from addresses, 16 from declarations, and 122 from the meeting.
+
+This means that, including the remainder of 3 mana and the basic font of 122 mana, 348 mana will be distributed at the next summit in accordance with the Principle of Precedence.
+
+---
+
+Categories: [Conclave](../../indexes/by-category/Conclave.md), [Conclave Sessions](../../indexes/by-category/Conclave_Sessions.md), [382YE Autumn](../../indexes/by-category/382YE_Autumn.md)

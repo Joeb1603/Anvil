@@ -1,0 +1,38 @@
+{{Army Page}}
+{{CaptionedImage|file=WolvesofWar_Colour.png|align=right|width=300}}
+===Overview===
+The Wolves of War are an extremely versatile fighting force. Many of the soldiers in this army are [[bravos]] from the roughest parts of [[Temeschwar]] and [[Tassato]], supported by talented engineers from [[Holberg]] and [[Sarvos|Sarvosian]] scouts. They are also adept at working with [[Army qualities#Mercenary|mercenary]] troops, taking advantage of the great wealth of the League to employ specialist units to help them on campaign.
+
+In Autumn 378YE, the [[Dawn|Dawnish]] [[Archmage of Autumn]], Maurice de Gauvain, took clever advantage of a rare conjunction to gather the [[ilium]] needed to place a permanent [[Bound by Common Cause]] [[enchantment]] on the Wolves of War. This enchantment greatly enhanced the ability of the army to work with Imperial [[military unit|military units]]. It coincidentally meant that the General of the Wolves of War was subject to a [[roleplaying effects|powerful magical influence]]. During the Winter Solstice 386YE, this enchantment was sold to a representative from the [[Realm#Autumn|Autumn realm]].
+
+The first League general leads the Wolves of War army, and is appointed (or re-appointed) at the Autumn Equinox each year.
+
+The General of the Wolves of War receives eight pawns of [[prismatic ink]] from each season from the [[Tassato#Barossa_School_of_Imperial_Strategy|Barossa School of Imperial Strategy]].
+
+===History===
+TBC
+__TOC__
+TBC
+====Recent History====
+ TBC
+
+In Summer 383YE, along with the [[Towerjacks]], the Wolves were instrumental in driving the [[eternal]] [[Llofir]] out of [[Reikos]]. The ''Lord of Rot'' had claimed the region of [[Reikos#Tamarbode|Tamarbode]], transforming it into a "garden" of mushrooms, fungus, and less identifiable things. They claimed they were content with that garden, taken as payment for helping remove [[Druj]] taint from the territory, but there were suspicions the eternal had more insidious plans. In the end, the Wolves were called on to help destroy the magical citadel raised by the ''Ender of Empires''. With the aid of the [[Highguard|Highborn]] garrison of [[Reikos#Remember Exile|Remember Exile]], the League armies were victorious and Llofir forced to withdraw its presence back to the [[Realm#Spring realm|Spring realm]]. This campaign is further detailed in the '''[[383YE_Summer_Solstice_winds_of_war#Destroying_Angels|Destroying angels]]''' wind of war. 
+
+ TBC
+
+<div style="float:right; width: 300px; clear: left;">{{CaptionedImage|file=The Late Maurice.png|caption=Archmage of Autumn Maurice de Gauvain, tragically slain while fighting to protect the people of Dawn.|align=right|width=300}}</div>
+For a long time the Wolves of War were the only [[Army|Imperial army]] to bear a [[Ilium#Using_ilium_in_ritual|permanent]] enchantment. Created in Autumn 378YE by then [[Archmage of Autumn]], '''Maurice de Gauvain''', it took advantage of a [[As_above,_so_below|specific conjunction]] that made permanent enchantments easier to create. Legend has it that the archmage was only able to acquire half of the still-considerable amount of ilium needed for the ritual, but managed to broker a deal with the ''[[Prospero|Sovereign Lord of the City of Bridges]]'' to borrow the outstanding amount. Wisely, the archmage found a way to pay the loan back before he defaulted it, much to the displeasure of the ''Lord of the Loom'', who by all accounts may have had designs on the army itself. Maurice died under tragic circumstances while fighting alongside the heroes of the Empire against unliving horrors invading Dawn. The enchantment remained part of his legacy for nearly a decade.
+
+The ritual more than paid for itself. It helped make the Wolves of War an obvious choice for [[Military_unit#Campaigning|support]] by the Empire's [[military unit|independent captains]], who were regularly front-and-centre in some of the most bitter conflicts during the time it was enchanted. It was not without drawbacks - there were certainly times when other enchantments such as [[Brotherhood of Tian]] would have proved more strategically useful, but the permanent enchantment prevented that. The enduring magic also reportedly weighed heavily on the minds of several generals - the subtle influence of [[Autumn magic]] seeping gently into their thoughts in ways that could prove difficult to ignore.
+
+During the Winter Solstice 386YE, however, the enchantment was apparently sold to a representative of the [[Realm#Autumn realm|Autumn realm]]. Following an [[Hammers_and_boxes#High_Value_Trade|offer]] from the [[Ephisis|City of Gold and Lead]] apparently negotiated with the [[The_League_groups#The_Crimson_Reapers|Crimson Reapers]] [[guild]], an agent of the ''Street of Gains'' secured the ritual. It was removed from [[General]] Jean d'Apulian and apparently stored in some kind of "magical container". Its final destination is unclear, but it means that not only can the Wolves now receive other enchantments, but also that the general no longer experiences the subtle influence of the Autumn magic that was, anecdotally at least, endangering the sanity of some of those who led the army.
+
+===Traditions===
+TBC
+==Composition==
+TBC
+==Army Quality: [[Army qualities#Mercenary|Mercenary]]==
+The Wolves of War make extensive use of [[Army qualities#Mercenary|mercenaries]] recruited from across the Empire, making them one of the most versatile of the [[Army|Imperial armies]].
+{{CaptionedImage|file=Jean d'Apulian.png|caption='''Jean d'Apulian''', General of the Wolves of War|align=left|width=350}}
+{{RecentElections|General_of_the_Wolves_of_War|the title of [[General]] of the Wolves of War}}
+[[Category:Imperial Army]][[Category:The League]][[Category:Military Council]]

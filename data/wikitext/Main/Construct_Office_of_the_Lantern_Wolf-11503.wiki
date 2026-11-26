@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Announced by Gustavus Tolski van Temeschwar, Chair of the Wolf">To commission the Office of the Lantern Wolf within the walls of Tassato as fully described in the opportunity.</quote>
+==Overview==
+* Creates a sinecure in Tassato Regario, [[Tassato]] as per the '''[[Battle_cries#A_Lantern_for_Wolves|Battle cries]]''' wind of fortune
+* Announcement by the [[Chair of the Wolf]]
+==Date==
+* Winter 385YE
+==Cost==
+* Standard costs apply
+* 10 wains of weirwood
+* 10 wains of white granite
+* 60 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Office_of_the_Lantern_Wolf}}
+==Outcome==
+* Now that work is complete, the [[Lantern Wolf]] is available to elect by the National Assembly of the League as a yearly appointment for the first time at the Winter Solstice 386YE.

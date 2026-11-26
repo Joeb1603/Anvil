@@ -1,0 +1,90 @@
+---
+title: Walls of Holberg
+source: https://www.profounddecisions.co.uk/empire-wiki/Walls_of_Holberg
+class: in-character
+topic: nations/the-league
+categories:
+- The League
+last_edited: '2026-06-25T14:34:37Z'
+revision: 140898
+---
+
+# Walls of Holberg
+
+## The Walls Today
+
+The Walls of Holberg are undoubtedly one of the wonders of the known world: more commanding than the Star-fort of the Commonwealth, more beautiful than the Palace of the Electrum Prince in Jarm; stronger than Tsark’s Wall of the Luge. Within extended walls, gantries, portcullises and more, the engineering genius of Holberg can be felt. A generation under siege led to efficiencies everywhere, from the routes the troops take to food and weapon storage. The fortification is utterly peerless and without rival, and is possessed of not one but two [true liao](../../../mixed/religion/Liao.md#true-liao) consecrations.
+
+Along the battlements, the guilds, cartas, and individuals who gave the most to the more recent additional constructions are engraved. Images of the Printers’ Guild, the Holberg Haudagen and the House of Seven Mirrors overlook the walkways and a full list of all those who contributed to the Walls is etched under each engraving. There is also at least one ‘official’ gift shop not far from each of the covered entrances to the Walls. Some visitors notice that each promotes a slightly different version of who was responsible for the projects.
+
+### Trading Ventures at the Walls
+
+At the completion of the embankment in 387YE, six shops have been outfitted in a plaza near the main barbican, so that tourists who descend into the entrenchment to view the curtain walls may avail themselves of wares and services from Holberg’s most prestigious merchants:
+
+**Kleist’s Emporium at the Walls** sells their signature Spiced Biscuits, other delicious comestibles and especially the famed ‘Anvil Mud’ - the delicious and vitalist-friendly chocolate hazelnut cream liqueur that funded much of the excavation and led to the saying “The Walls of Holberg are built on Mud”.
+
+**Happiston Bakes shoppe** is run like well-oiled machinery by Merchant Prince Morgan Townsend von Holberg, where award-winning gourmet pies and exquisite savoury baked goods virtually fly off the shelves into the grasping hands of eager customers. Indeed, their famous scotch egg is said to be worth its weight in gold!
+
+Within the labyrinthine workshop of **The Worst Cees Scenario** dramaturgists and curious citizens alike can find a wide selection of puppets that combine the best of Holberg’s engineering prowess with the most eccentric aspects of Leaguish Mountebanks. If you can imagine it, Cees (pronounced “case”) Van Holberg will make it.
+
+Always lively, the relocated **Great Debarcle** coffee house has brought a scholarly air to the new plaza. Priests and academics alike flock to enjoy Adelaarsgilde’s herby meatless Siege Rolls and sweet gevulde speculaas, while engaging in dramatic and energetic debate. Patrons can also invest in Adelaarsbank’s latest ingenious schemes.
+
+Situated alongside the storefronts, **The Printers’ Guild Gallery of Wonders and History** displays pieces from the Wunderkind and the Museum of Wonders, alongside which the gallery hosts rotating installations from like-minded luminaries such as the Holberg Historical Press and The Magpies Imperial Sodality.
+
+**Magda’s Hospital** stands out from the purveyors of food and souvenirs, selling herbs, basic potions and other medical equipment while standing ready to help sufferers of anything - from minor injuries from bridge-fighting, to hangovers. Treatment is provided free of charge, although prosperous donations are always welcome, of course.
+
+[Image: TowerJacks Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:TowerJacks_Colour.png)
+
+## Origin of the Walls
+
+The city of Holberg has had strong walls since the earliest days of its pre-Imperial existence. At that time, despite the surrounding lands being under the control of barbarian orcs, the ‘dozen high walls’ of Holfried held fast. During the reign of Empress Varkula, a Dawnish campaign finally cleared the surrounding lands of barbarian control and then laid siege in a bid to conquer the city itself - but the Walls were a sufficient defence to keep Dawn out for an extended period of time. Famously, Holberg joined the League shortly thereafter in 136YE, thus beginning its Imperial journey to further wealth, prosperity, a culture of ingenuity and ultimately to be acknowledged as the Greatest of the League’s five cities.
+
+One of the key reasons that the Walls were so successful at withstanding the 30-year Druj siege, which began in 346YE, is that the League’s second army, the Towerjacks, disbanded as an army to commit completely to the defence of Holberg. Their engineering expertise significantly improved the Walls, extending some measure of protection to the outlying territory of Holmauer as well as the main city of Holfried. With the final liberation of Holberg in 376YE, the Empire was able to commission the Towerjacks as an army once again.
+
+## Recent History
+
+### 377YE - Repairs
+
+By the late stages of the Thirty-Year Siege, the walls of Holberg were in a sorry state. The Senate passed a motion to supply emergency aid to the citizens of the city, which included emergency repairs to be made to the walls. Despite the fact that the city was under siege, heroic action meant that the defences were restored to full strength.
+
+The Walls held fast in one of the most decisive battles of the Empire’s campaign to liberate Holberg. Following the occupation of the outer walls of Holmauer, there followed a significant engagement in Holfried that saw thousands of Druj perish in a failed attempt to breach the Walls. In the following season, Winter 378YE, Holberg was liberated by the Empire, its walls never having been breached.
+
+### 382YE - Building Higher
+
+In Winter 381YE, the true liao consecration of the Silent Sentinel in Casinea inspired citizens of the Empire to contribute to the construction of new defences and fortifications. Between Winter 381YE and Summer 382YE, two hundred wains of white granite were used to double the Wall’s strength, making Holberg a rank 4 fortification. Much of the material for this first improvement to the Walls was provided personally by Empress Lisabetta von Holberg, whose great love for her city has become a matter of historical record. These improvements to Holberg’s defences are considered to have prevented the establishment of a a Druj beachhead in Utterlund in Autumn 383YE; and after a comprehensive defeat by the heroes of the Empire during a major conjunction at the following Anvil Summit, the Druj abandoned their campaign in Holberg shortly thereafter.
+
+*[Image: Assembly Wisdom.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Wisdom.png)*
+
+### 384YE - Consecration to Wisdom
+
+In 384YE, the Holmauer Gate and the Holmauer Gallery above it became sacred sites following the consecration of the gallery to Wisdom, using two doses of true liao. In particular, the Gallery became a favoured meeting place for students of the university, scholars, doctors, philosophers and others. It is a stimulating place to be, with a thriving community of independent-minded thinkers debating new ideas and sharing new knowledge. Regular salons are held there by some of the city's scholastic and philosophical societies.
+
+However, the placement of the consecrations meant that it is impossible to reduce the size of the Holberg walls below rank 4 without destroying the consecrated aura.
+
+### 385YE - Higher Still
+
+Following this realisation, students from the University of Holberg proposed a further expansion of the city’s defences to ensure that people would be free to visit the highly popular Holmauer Gallery even if the city came under further attack or suffered damage. The additional barbicans outside each city gate, with walled roads linking them back to the city itself, would further solidify the city's defences, and it would only become unsafe to visit the gallery if the outer defences had been penetrated. It would still be impossible to lower the city's defences without destroying the aura on the gallery, but it would mean that any damage to the city if it were attacked would be much less likely to affect the aura.
+
+The plan required one hundred wains of white granite, but without any increase in upkeep. A commission was passed by the Imperial Senate in Summer 384YE and was completed in Winter 385YE, increasing the Walls to a rank 5 fortification.
+
+[Image: Actuallythebest001.png](https://www.profounddecisions.co.uk/empire-wiki/File:Actuallythebest001.png)
+
+### 387YE - Embankment
+
+In 385YE, work started on a charmingly simple plan which would further strengthen the walls by the excavation of a deep embankment in front of the walls - taking a great deal of labour, but costing the Imperial budget nothing extra in upkeep. Commissioned as the first use of [Citizens' Voice](../../../mixed/titles/Citizens-_Voice.md), this extraordinary endeavour - known at Anvil as ‘the Big Dig’ - cost 500 thrones and raised the Walls to rank 6.
+
+Holberg’s Walls thereby became a Wonder - the highest, strongest and greatest fortification in the known world.
+
+## Further Reading
+
+- [Repair Holberg defences](../../senate-motions/Repair_Holberg_defences.md) - Spring 377YE motion to restore the Walls to level three
+- [Sing your name](../../winds-of-fortune/Sing_your_name.md) - Winter 381YE wind of fortune with an opportunity to consecrate the Silent Sentinel with true liao
+- [Construct walls of Holberg](../../senate-motions/Construct_walls_of_Holberg.md) - Winter 381YE motion to expand the Walls to level four
+- [Watches from the Wall](../../winds-of-fortune/Watches_from_the_Wall.md) - Spring 384YE wind of fortune detailing the effects of a true liao consecration on the Walls
+- [Improve Walls of Holberg](../../senate-motions/Improve_Walls_of_Holberg.md) - Summer 384YE motion to expand the Walls to level five
+- [The greatest city in the world](../../winds-of-fortune/The_greatest_city_in_the_world.md#high-walls) - Winter 385YE wind of fortune with an opportunity to improve the Walls by removing the embankment
+- [Excavate Holberg Embankment](../../senate-motions/Excavate_Holberg_Embankment.md) - Winter 385YE motion to remove the embankment and increase the Walls to level six
+
+---
+
+Categories: [The League](../../../indexes/by-category/The_League.md)

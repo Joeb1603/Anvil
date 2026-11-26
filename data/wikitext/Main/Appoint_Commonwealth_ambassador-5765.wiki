@@ -1,0 +1,18 @@
+{{Senate Motion}}
+<ic>To appoint an Imperial Citizen to the position of Ambassador to the Commonwealth
+<br>
+<i>Administrative Motion</i></ic> 
+
+===Overview===
+* First appointment of the Ambassador to the [[Commonwealth]]
+* This motion appoints someone to be responsible for the [[Embassy|Commonwealth Embassy]], and to represent the Empire in dealings with the Commonwealth
+
+===Date===
+* Spring 380YE
+
+===Campaign Outcome===
+* Beatrix Amalia Novarian Zu Holberg was appointed ambassador to the Commonwealth
+
+[[Category: Senate Motion]]
+[[Category:380YE Spring]]
+__NOTOC__

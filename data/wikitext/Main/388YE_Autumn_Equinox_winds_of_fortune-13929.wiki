@@ -1,0 +1,581 @@
+[[Category:Winds of Fortune]][[Category:388YE Autumn]]
+<div {{floatleft}}>{{CaptionedImage|file=Lights in the Dark.jpg|align=left|caption=Change is the law of life. And those who look only to the past or present are certain to miss the future. |width=2000}}</div>
+==Overview==
+<div {{float}}>
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! Wind of Fortune !! Order Released !! Last Updated || Note
+|-
+| [[The wolves tempt you]] || 1 || data-sort-value="2026/08/15"| 15/08 || Imperial Address
+|-
+| [[Dream on]] || 2 || data-sort-value="2026/08/17"| 17/08 || Seren
+|-
+| [[Come together]] || 3 || data-sort-value="2026/08/17"| 17/08 || Apothecary college
+|-
+| [[Fair share of labour]] || 4 || data-sort-value="2026/08/19"| 19/08 || Artisans Guild
+|-
+| [[Hidden inventory]] || 5 || data-sort-value="2026/08/29"| 29/08 || Banner-bearers
+|-
+| [[A fork in the path]] || 6 || data-sort-value="2026/08/27"| 27/08 || Mystics 
+|-
+| [[Outreach across the marshes]] || 7 || data-sort-value="2026/08/27"| 27/08 || Sand Fishers & League highest calling
+|-
+| [[Stand proud, you're strong]] || 8 || data-sort-value="2026/08/27"| 27/08 || Brass Coast highest calling
+|-
+| [[Here you come again]] || 9 || data-sort-value="2026/08/31"| 06/09 || Plenipotentiary
+|-
+| [[Accomplices]] || 10 || data-sort-value="2026/09/04"| 04/09 || Agramant is still in Therunin
+|-
+| [[Metamorphosis]] || 11 || data-sort-value="2026/09/04"| 04/09 || Dealing with Kroll
+|-
+| [[Out of these convertites]] || 12 || data-sort-value="2026/09/07"| 07/09 || League visit to the Marches
+|-
+| [[Goodwill]] || 13 || data-sort-value="2026/09/05"| 05/09 || Dawn, Navarr, Highguard, Vallornguard
+|-
+| [[Not from the benevolence]] || 14 || data-sort-value="2026/09/05"| 05/09 || Offers from Ephisis
+|-
+| [[Wayfaring strangers]] || 15 || data-sort-value="2026/09/10"| 07/09 || Visitors
+|-
+| [[Value beneath the mountain]] || 16 || data-sort-value="2026/09/07"| 07/09 || Kespoena's Reach
+|-
+| [[Domain expansion]] || 17 || data-sort-value="2026/09/07"| 07/09 || Imperial Breadbasket
+|-
+| [[Islands in the dream]] || 18 || data-sort-value="2026/09/08"| 08/09 || Imperial Orc Highest Calling
+|-
+| [[Shadowed boughs of twilight]] || 19 || data-sort-value="2026/09/08"| 08/09 || Ossium
+|-
+| [[When something is lost]] || 20 || data-sort-value="2026/09/08"| 08/09 || Madruga
+|-
+| [[A friend like you]] || 21 || data-sort-value="2026/09/10"| 10/09 || Eternal Winds of Magic
+|-
+| [[Spreading the Way]] || 22 || data-sort-value="2026/09/09"| 09/09 || Appraisal
+|-
+| [[This old house]] || 23 || data-sort-value="2026/09/09"| 09/09 || Prosperity in Feroz
+|-
+| [[Rebellion's Ridge]] || 24 || data-sort-value="2026/09/09"| 09/09 || Trouble in the Mournwold
+|-
+| [[A habit I can't break]] || 25 || data-sort-value="2026/09/09"| 09/09 || Mortal Magic
+|-
+| [[Towers of the sun]] || 26 || data-sort-value="2026/09/09"| 09/09 || Offers from Meraud
+|-
+| [[Towers of the moon]] || 27 || data-sort-value="2026/09/09"| 09/09 || Offers from Sadogua
+|-
+| [[The bargain store]] || 28 || data-sort-value="2026/09/09"| 09/09 || Offers from the Lictors
+|-
+| [[Loud and proud]] || 29 || data-sort-value="2026/09/09"| 09/09 || The Grand Inspiration
+|-
+| [[Roses in the snow]] || 30 || data-sort-value="2026/09/09"| 09/09 || Adventures in Tsirku
+|-
+| [[There is hope]] || 31 || data-sort-value="2026/09/09"| 09/09 || Astronomancy update
+|-
+| [[It's my time]] || 32 || data-sort-value="2026/09/10"| 10/09 || Peerless kinship in Wintermark
+|-
+| [[Good as gold]] || 33 || data-sort-value="2026/09/10"| 10/09 || Gelberg's Last Appraisal
+|-
+| [[In the presence of you]] || 34 || data-sort-value="2026/09/10"| 10/09 || Paragons, Exemplars, and the Exalted
+|-
+| [[Twelfth of never]] || 35 || data-sort-value="2026/09/10"| 10/09 || An unexpected message
+|-
+|}</div>
+Over the past three months, events have taken place which are of significance to the Empire and may require a response from her champions. These are the winds of fortune, counterparts to the winds of war that detail the Empire's military campaigns. They lay out situations and usually include things that characters can do to take advantage of [[opportunity|opportunities]] or to resolve problems. In almost every case, they start with a piece of flavour text. This fiction helps introduce the wind of fortune or draws out a particular theme or element. Often, it represents a viewpoint that one or more NPCs might have in-character. In all cases, these pieces are intended to help create an atmosphere and provide a little entertainment. Where they contain opinions, those are the opinions of the fictional people depicted - and where they contain information or rumours, the assumption is that the reader will create their own context for that information or gossip if they want to use it in character. 
+
+The body of the wind of fortune describes situations and lays out ways players can engage with them. Except where we explicitly talk about something being "rumoured" or use a phrase like "some might say..." the details of a wind of fortune are factual. They represent briefing material presented by the civil service or similar authoritative sources and represent something the average educated citizen would acknowledge as a reliable truth. Unless we specify otherwise, we're also being as thorough as possible. This information doesn't need further checking in-character. It's not an opinion, and we're not trying to trick you.
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="width:350px; float: left; margin: 10px;"
+|-
+! Nation !! Wind !! Briefing
+|-
+| General Diplomacy || [[So little I wanted, so little I got]]
+|-
+| [[Asavean Archipelago|Asavea]] || [[So_little_I_wanted,_so_little_I_got#Asavean_Archipelago|So little I wanted, so little I got]] || [[388YE Autumn Asavean ambassador briefing|Asavean Ambassador briefing]]
+|-
+| [[Axos]] || [[Those_memories_of_you#Axos|Those memories of you]] || [[388YE Autumn Axos ambassador briefing|Axos Ambassador briefing]]
+|-
+| [[Mareave#Beoraidh|Beoraidh]] || [[All I can do]] || [[388YE Autumn Beoraidh ambassador briefing|Beoraidh Ambassador briefing]]
+|-
+| [[Commonwealth]] || [[If_we_never_meet_again#Commonwealth|If we never meet again]] || [[388YE Autumn Commonwealth ambassador briefing|Commonwealth Ambassador briefing]]
+|-
+| [[Madruga#Trajadoz|Marracossa]] || [[So_little_I_wanted,_so_little_I_got#Marracossa|So little I wanted, so little I got]]
+|-
+| [[Faraden]] ||  [[It%27s_all_wrong,_but_it%27s_all_right#Faraden|It's all wrong, but it's all right]] || [[388YE Autumn Faraden ambassador briefing|Faraden Ambassador briefing]]
+|-
+| [[Grendel]] || [[So_little_I_wanted,_so_little_I_got#Grendel|So little I wanted, so little I got]] || [[388YE Autumn Grendel ambassador briefing|Grendel Ambassador briefing]]
+|-
+| [[Iron Confederacy]] ||  [[It%27s_all_wrong,_but_it%27s_all_right#Iron Confederacy|It's all wrong, but it's all right]] || [[388YE Autumn Iron Confederacy ambassador briefing|Iron Confederacy Ambassador briefing]]
+|-
+| [[Otkodov]] ||  [[The little things]] || [[388YE Autumn Thule ambassador briefing|Thule Ambassador briefing]]
+|-
+| [[Principalities of Jarm|Jarm]] || [[If_we_never_meet_again#Principalities_of_Jarm|If we never meet again]] || [[388YE Autumn Jarmish ambassador briefing|Jarm Ambassador briefing]]
+|-
+| [[Sarcophan Delves]] || [[Those_memories_of_you#Sarcophan Delves|Those memories of you]] || [[388YE Autumn Sarcophan ambassador briefing|Sarcophan Ambassador briefing]]
+|-
+| [[Sumaah Republic]] || [[So_little_I_wanted,_so_little_I_got#Sumaah_Republic|So little I wanted, so little I got]] || [[388YE Autumn Sumaah ambassador briefing|Sumaah Ambassador briefing]]
+|-
+|}
+
+As always, how much or how little of this information you choose to know in character is up to you. Part of the purpose of Winds of Fortune is to maintain the illusion of the Empire as a living, breathing place where things happen - and to make players aware of things their characters could know based on what their roleplaying says they have been doing for the past three months. It's perfectly acceptable to turn up to Empire having read only a few Winds of Fortune that directly interest your character; part of the fun on the field can come from learning about situations and opportunities in other parts of the game.
+__TOC__
+In each case, we've tried to tag the Winds of Fortune entry with the nations or political bodies to which it is most relevant. We've done this to help people who are interested only in events that are especially relevant to them. In no way are these tags intended to be exhaustive; the Empire is a complex place, and very little happens in isolation. We are also adding the dates that they were last updated (other than typos and correcting [[red links]]) in an attempt to make it easier to keep track of the newest releases.
+
+==Winds of Fortune==
+===The Wolves Tempt You (Imperial Address)===
+* '''Imperial citizens; Navarr;'''
+[[Emperor Vesna]] has used their power to [[The_Throne#Address_the_Empire|address the Empire]] to present a personal reminder to all citizens that the road to salvation is hard, but everyone is walking it together.
+
+The message has been distributed across the Empire by the civil service, and you can read it in the '''[[The wolves tempt you]]''' wind of fortune.
+<div style="float:left; width: 150px; clear: left;">{{CaptionedImage|file=Assembly_Navarr.png|align=left|width=150}}</div>
+===Dream On===
+* '''Navarr'''
+In [[Miaren]], [[Miaren#Seren|Seren]] is now become the ''City of Dreams'' in truth. People with hopes and aspirations, with the imagination to perceive what is needed to achieve them and the determination to try, have flocked to Miaren. With the completion of the Temple of the Waking Dream, the [[dreamspeaker]] calling has coalesced as a distinct [[archetype]] among the [[Navarr]] people, one dedicated to making dreams become reality. This has perhaps predictably amplified arguments about what exactly that means, and which dreams should be pursued, and how.
+
+You can learn about competing arguments, and the changes to the city of Seren, in the '''[[Dream on]]''' wind of fortune.
+===Come Together===
+{{CaptionedImage|file=NBNavarr.jpg|align=right|width=100}}
+{{CaptionedImage|file=Apothecaries Guild.png|align=right|width=150}}
+* '''Imperial Apothecaries Guild; Navarr; Benefactor of High Chalcis; Highguard, the League, Imperial Orcs, and Varushka; Senate
+When [[Therunin]] fell to the [[Druj]] [[Thornsinger#Thornsong_House|Thornsong House]] was lost. Despite the valiant efforts of the Navarr and the aid of [[Ossegrahn|Lord Rain]], the college of herb mastery could not be saved. While the house itself burned, many of those who studied there were able to escape to the safety of [[Reikos]]. Some stayed behind on [[Reikos#Chalcis Mount|Chalcis Mount]], but others chose to put as much distance between themselves and the horrors of the Druj as possible. Drawn to the Temple of the Waking Dream, some of these apothecaries and physicks have taken the path of the dreamspeaker themselves, and inspired by the City of Dreams, they have put their ambition to rebuild what was lost into words.
+
+A proposal for a new college of the apothecary arts, and ways various nations may be involved, can be found in the '''[[Come together]]''' wind of fortune.
+===Fair Share of Labour===
+* '''Artisan's Guild; Throne; Senate; Artisans of all kinds; Golden Pyramid; Pride Assembly; Navarr; Guildmaster of the Artisans, Dean of Runesmith's Caution, Keeper of the Runegrott, Seer of the Spiral Sword, and potentially several other titles associated with magic item crafting'''
+At the recent summit, [[Emperor Vesna]], requested that the [[Scrutiny#Constitutional_Court|Constitutional Court]] [[Forever_is_composed_of_nows#The_Abraham_Gambit|appraise the implications]] of a new [[Imperial sodality]], the ''Imperial Guild of Artisans''. The Artisans Guild has technically been in existence for some time, with the Senate [[Construct_Guildhouse_of_the_Artisans|ordering the construction of Guildhouse]] in 385YE, creating the position of [[Guildmaster of the Artisans]]. Now the Senate is in a position to consider the full implications of making the Guild into an official Imperial sodality.
+
+You can learn more about the potential Imperial Sodality, as well as proposals from some people very excited by the opportunity it represents, in the '''[[Fair share of labour]]''' wind of fortune.
+===Hidden Inventory===
+{{CaptionedImage|file=Cat's Graces Sodality.png|align=right|width=150}}
+{{CaptionedImage|file=NBWintermark.jpg|align=right|width=150}}
+* '''Wintermark, especially banner bearers; Cat's Graces; Minister of Historical Research; Mediator of Hyljehal; Senate
+When the tides of fate seem to turn against the Empire, to be able to look and see over the battle lines, the colours of your warband or your nation still [[Pride|Proudly]] flying can help to rally the [[Courage]] and turn the tide. In [[Wintermark]] the [[Wintermark_military_concerns#Banner-bearers|position of banner-bearer]] is seen as vital to the success of any battle. [[Empress Britta]] was a banner-bearer, and bore [[Three Tears|Foe-Slayer]], the legendary war-banner of [[Emperor Guntherm]] onto the field. The great flag was lost when Britta died and it has been near two decades since Wintermark could bear its equal into battle. The artisans and craftspeople of [[Hahnmark#Runegrott|Runegrott]] have a proposal to try to remedy this shortfall, involving the construction of a grand [[edifice]] to house banners and paintings of the great banners of the Empire as well as the creation of a new [[Magic_items#Artefacts|artefact]] [[:Category:Magic Standards|banner]] for Wintermark.
+
+You can read more about this plan, and learn a little of the mighty banner Foe-Slayer, in the '''[[Hidden inventory]]''' wind of fortune.
+{{CaptionedImage|file=KallevesiMystic.jpg|align=right|width=200}}
+===A Fork in the Path===
+* '''Wintermark, especially the Mystics; Raven Seer of Ishal; would-be champions; Keeper of Oaths; friends of Sung
+The [[mystic|Mystics]] of Ishal sought to work more closely with the wider nation of Wintermark. They have since decided [[Flight_of_birds#The_Witan|to approach the Witan]] directly, and do what they can to support the goals of the nation itself. The decision to help with the [[Warriors' Gate|exploration of Tsirku]] has made it impossible for the Mystics of Ishal to offer their usual council and support to the [[Raven Seer]] and to that end they have made several changes to the Aviary, and to the support they offer the Raven Seer and the nation. At the same time, there has been a great deal of discussion of the [[Crown of Three Tears]] and the role of the ''Champion of Wintermark'' within the nation - the appointment of who has traditionally been the responsibility of the mystics. 
+
+You can read about the changes at Ishal, and the situation of the Crown of Three Tears, in the '''[[A fork in the path]]''' wind of fortune.
+===Outreach Across the Marshes===
+<div style="float:right; width: 200px; clear: right;">{{CaptionedImage|file=Assembly League.png|align=left|width=200}}</div>
+* '''The League, especially the Bishops and Princes; Merchant Prince of Misericorde Market; Senate
+[[The League]] Assembly [[388YE_Spring_Equinox_Synod_judgements#Judgement_57|has declared]] that their [[The_highest_calling#The_Highest_Calling|highest calling]] is to bring new peoples to join the Empire. A Virtuous endeavour to be sure, but even the League cannot move the whole world at once. To be effective the nation needs to [[Any_dream_will_do#Partners_within|focus their efforts]] on one group at a time. Diplomacy is a complicated matter, so they also need to decide who among them would be best to take the lead with each such group. This past season the Princes of the League have reached out to the [[Holberg#Misericorde|Sand Fishers]] of [[Holberg#Misericorde|Misericorde]], the [[orc|orcs]] who once lived on the southern shores of [[Ossium]] as slaves of the [[Druj]] but who have found a new lease of life on the northern shores of [[Holberg]].
+
+Ultimately, the egregore decides who can or cannot join a nation - the nature of the bond is that it can only be formed with someone an egregores recognises as having the potential to be a member of the nation. But the League has already embraced the Apulian Orcs, why not the Holberg Orcs as well?
+
+You can read about how the outreach is going, and what it might take to bring the Sand Fishers into the Empire, in the '''[[Outreach across the marshes]]''' wind of fortune.
+===Stand Proud, You're Strong===
+<div style="float:right; width: 200px; clear: right;">{{CaptionedImage|file=Assembly Freeborn.png|align=left|width=200}}</div>
+* '''The Brass Coast, especially the Freeborn assembly;
+After several seasons of deliberation (and funding a [[Construct_City_of_Wonders|whole new city]]), the Freeborn National Assembly has decided that the [[the highest calling|highest calling]] of their people should be on defending their lands. The sentiment resonates with people across [[the Brass Coast]]. It was not long ago that both [[Madruga]] and [[Feroz]] fell under barbarian control, [[Kahraman]] has faced constant invasion from the Lasambrians over the past few years and [[Segura]] has only recently enjoyed a prolonged period of quiet after nearly two decades of constant warfare. Is it a surprise that the people of the Brass coast feel a little vulnerable, given recent history?
+
+There is so much work that could be done, people are at a loss to know where to start. The Assembly will have to consider the options carefully - they have a year to take advantage of the nation's highest calling, but that won't be enough time to pursue every possibility raised by a people as inventive as the Freeborn...
+
+You can find out how the nation can begin to defend its lands, and the proposals put forward toward that aim, in the '''[[Stand proud, you're strong]]''' wind of fortune.
+===Here You Come Again (Plenipotentiary)===
+* '''Imperial Conclave; magicians; Synod; Brass Coast especially Sutannir; ''Alazhar i Taziel i Erigo'', ''Velasco i Guerra'', the Imperial Warcaster; Marcher beaters, Unshackled thief-takers, Varushkan wardens; ''Berilo i Erigo'';  ''Jaromir Ostrovyn Kostka'' and some dead generals'''
+* This wind was updated on 06/09/2026 to add some additional paragraphs to the end of the [[Here_you_come_again#End_of_Empire|End of Empire]] section
+Each [[archmage]] is empowered to send a [[Archmage#Plenipotentiary|plenipotentiary]] message to a single [[eternal]] of their [[Realms|realm]] each season. Bound to respond, the recipients are however free to choose precisely what form that response takes. Following the Summer Solstice, six eternals have responded to what are presumed to be missives from the respective archmages. Some have agreed to [[archmage#Parley|parley]], but not all of them.
+
+You can find out about the eternals, and the nature of their responses, in the '''[[Here you come again]]''' wind of fortune.
+<div style="float:right; width: 175px; clear: left;">{{CaptionedImage|file=BarienArt.jpg|align=right|width=175}}</div>
+
+===Arrows and Clay (Challenge)===
+* '''Challengers of the Iron Duke'''
+Each season, the eternal ''[[Barien]]'' presents opportunities to those prepared to [[Challenge the Iron Duke]]. For the Autumn Equinox he offers two challenges: a game of speed and grace, and a game of creativity and imagination. As ever, the rules of the ritual apply. Each person who receives the ritual will be ''guaranteed'' entry to a challenge. Depending on the challenge, they ''may'' be able to bring a certain number of attendants with them to assist. The exact number will depend on the nature of the challenge and the number of challengers. The [[civil service]] will publish exact numbers in [[Anvil#The_Hub|the Hub]] on Saturday morning for all to see.
+
+You can find details of the challenges issued by Barien this season in the '''[[Arrows and clay]]''' wind of fortune.
+<div style="float:right; width: 175px; clear: left;">{{CaptionedImage|file=AgramantArt.jpg|align=right|width=175}}</div>
+===Accomplices===
+* '''Navarr; Military Council; Military unit captains; ''Eskah Swift Hart, Vosjuli Cherenkov, Towlen Nighthaven'' and ''Mirella of the Twisted Rose'''''
+Another season, another message from [[Agramant]], delivered by his heralds from the depths of [[Therunin]]. The eternal's efforts were roundly refuted last season, with the [[Golden Axe]] reclaiming Lower Tarn Valley. This season, Twigsnapper has a much more pointed offer to make to aid the reconquest of Therunin.
+
+You can find out what Agramant and his heralds are up to in the '''[[Accomplices]]''' wind of fortune.
+
+<div style="float:left; width: 175px; clear: left;">{{CaptionedImage|file=NBUrizen.jpg|align=right|width=175}}</div>
+===Metamorphosis===
+* '''Urizen, particularly the captains of military units or residents of Sarangrave; Keeper of the Breadbasket and farm owners of the Marches; Imperial Consul; ''Frith, Ser Guy of the Twisted Rose, Fausta Ankarien,'' and people interested in the rebel septs; ''Solas of the Spire of the First Light'' and the Warmage'''
+It has been a tumultuous time in the Sarangrave. First the Druj, then the vallorn, and now husks. All while the Empire has been endeavouring to make diplomatic inroads with the rebels of Nesustak Forest. Sadly, troubles abound; the eviction of so many from Thornfen by the Axou has raised the spectre of famine in the territory. And now the Druj scattered through the territory, alongside the rampaging husks, threaten to raise a third dark spectre - the beast that lurks beneath the waters of the Sarangrave, the dark and terrible Kroll.
+
+You can find out what's happening in Sarangrave this season in the '''[[Metamorphosis]]''' wind of fortune.
+<div style="float:right; width: 200px; clear: right;">{{CaptionedImage|file=Assembly General.png|align=left|width=200}}</div>
+===A Little at a Time===
+* '''Members of the Synod, especially Cardinals; Members of the Senate; Members of the Vallornguard and people interested in the fate of Pilgrim's Defiance'''
+Last season, eight judgements of [[proscription]] were raised, and half of them were upheld by the General Assembly. Similar to their previous efforts, the [[Scrutiny#Constitutional_Court|Constitutional Court]] has asked the civil service to publish not just guidance on the outcome of these proscriptions, but also details from the minutes of their discussions in the hopes of providing clarity to interested citizens. This includes detailed guidance on the three changes to religious law enacted by the Senate.
+
+You can find out the outcome of the Constitutional Court's meeting on the proscriptions and changes to religious law last season, in the '''[[A little at a time]]''' wind of fortune.
+{{CaptionedImage|file=Assembly League.png|align=right|width=150}}{{CaptionedImage|file=Assembly Marcher.png|align=right|width=150}}
+===Out of These Convertites===
+* '''The League, particularly orcs and members of the Synod; The Marches; People with an interest in foot-the-ball or duelling'''
+* This wind was updated on 07/09/2026 to change the time of the [[Out_of_these_convertites#And_So_Am_Come_Abroad|Am So Am Come Abroad]] encounter to 18:30 on Saturday
+Last season, the [[The League|League]] and [[The Marches|Marcher]] Assemblies both passed statements of principle encouraging a pilgrimage of Apulian orcs and League members of the Synod to the [[Mournwold]]. Citizens from all five cities of the League have taken up the call to travel, and the orcs of the Mourn have welcomed them with open arms and farm tools. It's not just the harvest that's discussed, but ancestors and sports.
+
+You can find out what happened when the League visited the Marches this season in the '''[[Out of these convertites]]''' wind of fortune.
+
+===Goodwill===
+{{CaptionedImage|file=Vallornguard sodality.png|title=Vallornguard|align=right|width=100}}{{CaptionedImage|file=Assembly Dawn.png||align=right|width=180}}{{CaptionedImage|file=Assembly Highborn.png||align=right|width=150}}{{CaptionedImage|file=Assembly Navarr.png||align=right|width=150}}
+* '''Dawn, Navarr; Highguard; Vallornguard'''
+Two nations have chosen to use their [[The highest calling|highest calling]] to focus their people on the coming final war against the [[vallorn]]. The [[Dawn|Dawnish]] are developing the skills and resources to prepare themselves, while [[Navarr]] are looking for ways to support the nascent [[Vallornguard]] by sharing centuries of accumulated wisdom with other nations. Surprising progress has been made: the Dawnish have chosen to [[Love_and_monsters#Unicorns|throw open the doors of Greenwood Manor]] to all comers. The Navarr have spent the last year offering their unique expertise to their Imperial cousins, their eye turned at last to their allies in [[Highguard]]. Even the denizens of the [[eternal]] [[realms]] have heard the call to war, and have been encouraged to offer their aid as the Empire prepares for the war that will, if it is successful, bring to an end the Doom of Terunael.
+
+You can find out about the highest callings of Navarr and Dawn, and the opportunities they provide, in the '''[[Goodwill]]''' wind of fortune.
+<div style="float:right; width: 250px; clear: left;">{{CaptionedImage|file=Ephisis.jpg|align=left|width=300}}</div>
+===Not From the Benevolence===
+* '''Entrepreneurs and traders; Members of the Senate, particularly the Senators for Reikos and Bastion; People interested in contracts available, particularly ''Dorys Delgorokov'', ''Damiàn i Martàn i Erigo'' and ''Terentia of Sarangrave Reforged''; Citizens of Kallavesa, the Barrens, and Hercynia; and the ''Freeborn Flame Cartel'''''
+Following the relative success of the new scheme to offer large contracts for fulfilment, the heralds of the [[Ephisis|Sovereign Lady of the City of Gold and Lead]] have returned with new offers for the coming summit. As always, the [[Inhabitants of the realms#Heralds|heralds]] will set up shop in the [[Hall of Worlds]] on the final day of the summit, where they will look to settle any sales offered to the City via the [[Ephisis' Scale]] ritual. 
+
+You can learn about the offer for a fortification, the contracts available from the City of Gold and Lead, and the counting houses requested by the Conclave, in the '''[[Not from the benevolence]]''' wind of fortune.
+
+===Wayfaring Strangers (Visitors)===
+* '''Senators for Tassato and Holberg, and the League Assembly; Envoy to the Karass; Magpies; People that enjoy cursing others; Shadowed Torchbearer; Robert Von Holberg and whoever is appointed the Ambassador to Axos; the Magpies again'''
+People visit Anvil for all kinds of reasons. Trade, wonderment, and a chance to meet with the movers and shakers of the Empire. It is no surprise that Anvil is seen as the place to be if you want to get anything of importance done.
+
+You can find out more about some of the folk coming to Anvil this season in the '''[[Wayfaring strangers]]''' wind of fortune.
+<div style="float:right; width: 200px; clear: right;">{{CaptionedImage|file=ArgentSword_Colour.png|align=left|width=200}}</div>
+
+===Value Beneath the Mountain===
+* '''General of the Argent Sword; ''Kespoena Archsky''; Members of the Senate and those able to announce commissions; people who like mithril; ''Herminius of the House of the Wanderer''; Architect of Illumination; Gardener of Pallas; Arbiter of the Four Winds; Oblivion Sentinel; and people who like the idea of fighting in caves'''
+Almost eighteen months ago, an arcane projection raised Kespoena's Reach (formerly known as Mount Polus) to be the highest mountain in the Empire. This, unexpectedly, led to a crevasse opening at the base of the mountain. Last season, the [[Argent Sword|General of the Argent Sword]], '''Clytemnestra of the House of the Wanderer''', ordered the heralds of her army to "''sniff out the value beneath the mountain''". 
+
+You can find out what they found, and what lies beneath Kespoena's Reach, in the '''[[Value beneath the mountain]]''' wind of fortune.
+===Domain Expansion===
+{{CaptionedImage|file=Assembly Marcher.png|width=150|align=right}}
+* '''The Marches; Imperial Orcs; Senate and Military Council; Singing Caves seat; and Quartermaster of the Imperial Armies; Imperial diviners and cartographers; anyone with an interest in Liathaven/Ashvale'''
+While other nations struggle on, the [[the Marches|Marchers]] have got their harvest in. Their assembly has completed their [[The highest calling#Highest calling|highest calling]] and successfully [[Expand_Breadbasket_into_Mournwold|expanded]] the [[The_Marches_economic_interests#The_Imperial_Breadbasket|Imperial Breadbasket]] into [[Mournwold]]. There's no time for rest however... as ever Marcher knows, the reward for a good job is more work. Keen not to let the grass grow under anyone's feet, Marchers look to make good use of the remaining time now the Breadbasket is properly sorted. There are a few ideas knocking around about what Marchers could be doing next, as a tidal wave of Imperial Steel sweeps through [[Mitwold]] and into [[Bregasland]] - time to build on that success. After-all - you don't own it unless you can defend it...
+
+You can learn about suggestions for how the Marches can own and defend land, and a mildly irritating development with a former Imperial territory, in the '''[[Domain expansion]]''' wind of fortune.
+===Islands in the Dream===
+<div style="float: right; max-width: 150px; margin-left: 10px;">[[File:Illarawm.png]]</div>
+* '''Imperial Orcs, Varushka, Highguard; Military Council'''
+Bloodcrow Knott declared the [[the highest calling#Highest Calling|highest calling]] of the [[Imperial Orcs|Unshackled]] assembly to be [[Every_day_of_your_life#Spanning_the_Abyss|seeking the ancestors of other septs]], and at the Summer Solstice, Bloodcrow Meep was chosen to [[388YE_Summer_Solstice_Synod_judgements#Judgement_93|lead an approach]] to the [[Culling_the_threat#The_Dreamers_of_the_Dark_Forest|Dreamers of the Dark Forest]] in eastern [[Ossium]]. This time the [[orc|orcs]] have additional support in the form of advisors from [[Varushka]] and [[Highguard]] familiar with the sept, who helped arm and train the orcs to fight the [[Druj]] a few years back. The delegation of [[shamans]] and [[Illarawm|mystagogues]] braves the haunted woods and finds a guarded welcome, some mystical beliefs about spirits, and another dilemma for the Empire...
+
+You can learn about the Dreamers of the Dark Forest, their spiritual beliefs, and their pressing concerns, in the '''[[Islands in the dream]]''' wind of fortune.
+{{CaptionedImage|file=NBNavarr.jpg|align=right|width=150}}
+{{CaptionedImage|file=NBVarushka.jpg|align=right|width=300}}
+===Shadowed Boughs of Twilight===
+* '''Citizens of Ossium, Navarr and Varushkan alike; Ossium forest owners; Senate, Military Council; Varushkan and Dawnish military units; Grieftender of the Forgotten, Map to the City Below, Singer of Silence, Ceslev of the Circle of Zulgan Tash; People who like having a fortification in Ossium; Apothecary of Orieb; people angry about idolatry; Agramant watchers; Watcher of the Semmerlak; Guardian of the Maze of Zoria; Dedicates of Wisdom; Ambassador to Otkodov'''
+[[Ossium]] has been part of [[Varushka]] for six years now, and what was once a wretched place clenched in the iron fist of the [[Druj]] is rapidly becoming one of the most prosperous territories in the Empire. Alongside the Varushkans live a few scattered septs of [[orc|orcs]], while the [[Thule]] control the northern forests in uneasy alliance. For the last few years it has also been home to families of Navarr drawn by Awstin's Rest. After the Summer Solstice, though, magic drawn from the [[Realms#Night|Wondrous Forest]] washes over the territory, bringing with it the unmistakable blessings of Night magic - blessings that have a regrettable tendency to be somewhat mixed. Especially given the presence of the monsters that have been here since well before the Empire drove the Druj out, who still lurk in the depths of the wild forests.
+
+You can learn about the effects the Night magic has had, on dreams and on the forest, as well as details about eternals and monsters, in the '''[[Shadowed boughs of twilight]]''' wind of fortune.
+{{CaptionedImage|file=Drakes_Colour.png|align=right|width=200}}
+{{CaptionedImage|file=Star Forged colour.webp|align=right|width=200}}
+
+===When Something Is Lost===
+* '''Inhabitants of Madruga; Generals of the Drakes and Star Forged; military units; Marcher folk; Conclave orders; Military Council; magicians interested in ill-advised experiments; Archmages of Night, Spring, and Winter; Stone Smith'''
+Once [[Madruga]] was grassy plains, rich coastline, and prosperous islands. Now it is something else, thanks in part to the transfiguration of its southern coast by magically-infused river waters. This is [[the Brass Coast]] and there are plenty of Freeborn who welcome the excitement, unpredictability, and wonder each day promises. After the Summer Solstice, magic started to settle over Madruga, bringing with it vibrant dreams of vanished forests and heralds of the [[Realms#Night|Night realm]]. At first it seemed to be just a gentle piece of [[Night magic]]... but as the Autumn got closer it became clear it had done more than just evoke dreams. Two Imperial armies were also in Madruga, busy claiming the wild marshes of the Siroc Bayou and Crucible for the Empire. ''One'' of these two armies has come back out of the marshes and the other one... has not.
+
+You can learn about the gentle enchantment, and the disappearance of an entire Imperial army, in the '''[[When something is lost]]''' wind of fortune.
+
+===A Friend Like You (Eternals)===
+* '''Knight-protector of Summer; Captain of the Throne Guard; Dauntless Warrior; ''William Guildenstern''; Architect of the Hammers; Arch of the Sky; Business owners in Zenith; Quartermaster of the Hanuri Garrison; General of the Burning Falcon; Maestro of the Cat's Graces; Azure Sutannir; Dawnish magicians; ''Lady Aletheia of the Twisted Rose'', ''Catena'', and magicians who perform curses; ''Claudia Varkulova Remislav, Eevi of the Gadrai'', and the Conclave; ''Artreus D'Fauntine, Catrina Words The Unbelievably Magical, Leo the Rainbow Sage,'' the <s>Order of the</s> Golden Chalice, the Tender of the Phoenix Flame, and the Churnspire Adjutor; those who met with Argent Preceptor; Night ritualists, and those who like the Whisper Gallery; Archmage of Day, Warcaster, Warmage, Polemarch of Highwatch, and those interested in strategy '''
+Some magic comes from outside the Empire, from the creatures of the [[Realm|realms]], the [[eternal|eternals]] and their [[Inhabitants of the realms#Heralds|heralds]]. Sometimes they have boons to offer, sometimes they have demands to make. Here we learn of the doings of the realms, with something that could be relevant to any number of folk, including some meetings, some odd opportunities, and eerie happenings. 
+
+You can learn about the doings of various eternals, and the repercussions of their former doings, in the '''[[A friend like you]]''' wind of fortune.
+
+===Spreading the Way (Appraisal)===
+<div style="float:right; width: 150px; clear: right;">[[file:Labyrinth.jpg]]</div>
+* '''Members of the Senate; People interested in spreading the Way'''
+Last season, the Senate called for an appraisal on how non-Wayist cultures and communities residing within the Empire can be brought into the [[The Way|Way of Virtue]]. Naomi of Virtue's Rest was assigned, and her [[appraisal]] of the situation has been submitted. Naomi has had to rely on a very broad-strokes approach to the question, but she is confident that it will leave the Empire as a whole better off with the understanding that it brings.
+
+You can learn about the results of Naomi's work in the '''[[Spreading the Way]]''' wind of fortune.
+<div style="float:right; width: 150px; clear: right;">[[file:Assembly Prosperity.png]]</div>
+===This Old House===
+* '''Prosperity Assembly; Inhabitants of Feroz; General Assembly; Members of Senate; People interested in commissions'''
+During the Spring Equinox, the Prosperity Assembly upheld a [[388YE_Spring_Equinox_Synod_judgements#Judgement 138|judgement]] that made clear their highest calling: to look for opportunities that will help to bring Prosperity to the damaged territories of the Empire and the people within them. The first territory chosen by the assembly was [[Feroz]], still suffering from the ravages it suffered under Governor Rahab. The Prosperous have identified what they consider the best option for helping the people of Feroz, and one Freeborn architect has a pitch for how it might potentially help the rest of the Empire. 
+
+You can learn about how the Prosperity Assembly might help the people of Feroz feel less [[Region_qualities#Abandoned|abandoned]] in the '''[[This old house]]''' wind of fortune.
+
+===Rebellion's Ridge===
+* '''General Assembly; Inhabitants of the Mournwold, particularly farm and mine owners'''
+During the Spring Equinox, the Pride Assembly upheld a [[388YE Spring Equinox Synod judgements#Judgement 13|writ of consecration]] to consecrate [[Mournwold#Rebellion's Ridge|Rebellion's Ridge]] as a memorial to the exemplars of Pride, the [[Known_exemplars#Leaders_of_the_Ore_Hills_Rebellion|Leaders of the Ore Hills Rebellion]]. The writ has brought things to a head in the Mourn, and now it comes down to the decision of the General Assembly.
+
+You can learn about the potential consecration of Rebellion's Ridge as a memorial to the Ore Hills Rebels in the '''[[Rebellion's Ridge]]''' wind of fortune.
+
+===A Habit I Can't Break (Mortal Magic)===
+* '''Keeper of the Imperial Menagerie, Financier of Holberg's Phantasmagorical Mementoes, and Conclave; Freeborn ritualists; Navarr; Keeper of the Dour Fens, Raven Seer, and Remembrancer of Blood and Salt'''
+Not all magic is performed by the denizens of the realms; mortals are just as, if not more, capable of causing all kinds of trouble when left alone with too much free time and mana crystals.
+
+You can read about goings-on across the Empire in the '''[[A habit I can't break]]''' wind of fortune.
+<div style="float:right; width: 200px; clear: right;">[[file:Meraud001a.png|align=right|width=200]]</div>
+
+===Towers of the Sun===
+* '''Conclave, Senate; Imperial magicians; Churnspire Adjutor; Francisco i Alvera i Riqueza, Olivier, Ioseph of Summer's Apex, Carlos of Phoenix Reach, Mercurio Ankarien, Lord Tobias De Gauvain, Enchanter Vesper Lucentia, Kaapo Kingfishering, Lord Morgann de Vere, Beatrice Keeper, Ibiss Briarheart, Enchantress Areloe Larmallevés, Catrina Words The Unbelievably Magical'''
+The ''[[Meraud|Summer Enchanter]]'' has been through some things recently, but it seems he is [[Ambassadors_of_death#Apples_and_Oranges_(Summer)|even more enthusiastic]] about helping out his friends in the Empire than usual. As Summer fades, his messengers are dispatched to various points around the Empire with boons and plans and proposals a plenty. Whether it is wizards towers, appreciation for the [[Churnspire Adjutor]], or final decisions regarding communication with the ''Lord of the Lake'', they have been full of the fire of enthusiasm and relentlessly upbeat. Only when the ''[[Sadogua|Toad King]]'' is brought up in polite conversation does their eager demeanour slip a little and a few choice words of criticism get voiced.
+
+You can learn about offers from Meraud, and an opportunity to restore channels of communication, in the '''[[Towers of the sun]]''' wind of fortune.
+<div style="float:right; width: 150px; clear: right;">[[file:Sadogua001d.webp|align=right|width=150]]</div>
+===Towers of the Moon===
+* '''Conclave; People of Kallavesa; Brat Umbral Path; anyone who wants a stab at running the Well of Shadows; Vigilance Assembly; Arcane Architect, Dean of the Lyceum; Marcher magicians and wassailers; Varushkans who are not the Circle of Zulgan bloody Tash'''
+The [[Sadogua|Brother of Wizards]] has become a little more active of late, after a period of somnolence. His heralds have enthusiastically accepted invitations to [[When something is lost|visit Madruga]] and while they deny it, they've also been actively [[Shadowed boughs of twilight|fighting spider monsters in Ossium]]. Following an unexpected appearance in the [[Hall of Worlds]] during the Summer Solstice in which Imperial magicians apparently helped him "get a spider out of his ear" (whatever ''that'' means), he has also apparently made a concerted effort to [[Missive for Sadogua|answer all this mail]]. But it doesn't stop there! It seems someone has lit a fire under the backside of the perennially slothful ''Toad King'', and he is busily trying to catch up on his obligations to his friends in the Empire.
+
+You can learn about his meandering offers to assorted Imperial magicians, and what he ''really'' thinks of the Circle of Zulgan Tash, in the '''[[Towers of the moon]]''' wind of fortune.
+
+===The Bargain Store===
+<div style="float:right; width: 150px; clear: right;">[[file:Ephisis001.webp|align=right|width=150]]</div>
+* '''Ephisis' Scale practitioners'''
+The [[Ephisis|City of Gold and Lead]] deals with the Empire through the use of a unique ritual - [[Ephisis' Scale]] - that allows trade in all kinds of valuable items drawn from all over the world. As well as general deals for familiar goods, the [[Inhabitants of the realms#Heralds|heralds]] of the eternal market sometimes serve as go-betweens for specific offers. These often come from mortal magicians, but the ''Eternal Bazaar'' is equally happy to represent the other cities of the [[Realms#Autumn|Iron Labyrinth]]. This season there are four distinct sets of "bargains" offered to the Empire's traders - from the [[Lictors|City of Bar and Bond]]; from Prince Mila of [[Principalities of Jarm|Jarm]]; from the tailors of [[Faraden]]; and from a scholar with dangerous intersts the [[Sarcophan Delves]].
+
+You can learn about the bargains offered, and how to claim any that interest you, in the '''[[The bargain store]]''' wind of fortune.
+
+===Loud and Proud===
+* '''Highguard, particularly the National Assembly; Cat's Graces; Assembly of Ambition; Assembly of the Way; People interested in Zemress and people interested in the Sumaah's opinion on Zemress'''
+The Highborn Assembly have made clear its stance on the Grand Inspiration of the Way. At the same time, the Assembly of Ambition has committed to the completion of the Grand Inspiration. The Assembly of the Way called on the Sumaash to answer their challenge on the recognised signs of [[Zemress]].  
+
+You can learn about the ramifications of all these things, and more, in the '''[[Loud and proud]]''' wind of fortune.
+
+===Roses in the Snow===
+* '''People interested in scouting Tsirku; Wintermark; Varushkan Assembly; Dawnish military units; People interested in the fate of Wemba the Bloody; Vigilant Assembly; Friends of the Silent Bell; Enemies of the Whisper Gallery; ...people who might accept deals with Agramant'''
+The heroes of Wintermark and their allies have pressed north, exploring the mysterious and uncharted wilderness of Tsirku. [[Warriors' Gate|Last season]] they made several alarming discoveries, the worst of which was the presence of at least one of Agramant's followers in this frozen land. Long suspected, now confirmed, Wemba the Bloody is loose in Tsirku... but not for long. However, just as everyone is finding their feet, they discover that these lands hold more surprises than just ''the Howler'' and his followers.
+
+You can learn about how scouting Tsirku went last season, in the '''[[Roses in the snow]]''' wind of fortune.
+
+===There is Hope (Astronomancy)===
+* '''Magicians; Ritualists; Practicioners of Astronomancy'''
+The magical chaos that began shortly before the Winter Solstice, and continued through the Spring Equinox, has finally abated. The last of its power seems to have been expended at the Summer Solstice and it is notable that while odd things have happened - the disappearance of the Drakes for example - those are explainable by perfectly normal magical strangeness that has nothing to do with the stars. There is, however, one final little inexplicable sparkle. In the days and nights following the Summer Solstice, an odd awareness ripples outward from Casinea, from Anvil. From the Imperial regio in fact. It concerns something absolutely unprecedented. There is a new star in the sky.
+
+You can find out about this means in the '''[[There is hope]]''' wind of fortune.
+
+===It's My Time===
+* '''Wintermark; Highguard, specifically the Highborn Assembly'''
+As is now their custom, the Highborn have expressed their peerless kinship, this time under the leadership of '''Jared of the Suns of Couros''' to their cousins in Wintermark. The statement responds to the judgement of the Wintermark Assembly, one submitted by '''Yrkja Riansson Sigeing''' that looks to inspire Wintermark for the future.
+
+You can read the results of the peerless kinship to Wintermark in the '''[[It's my time]]''' wind of fortune.
+
+===Good as Gold===
+* '''''Nekoda of the Shattered Tower''; People in Bastion, Morrow, Necropolis, or Redoubt with congregations; People interested in the fate and wellbeing of Professor Gelberg'''
+The delayed appraisal of ''Professor Immanuel Gelberg'' is complete (with a tiny little asterisk). Find out what Gelberg's team were working on and managed to develop on using the River Couros to strengthen the bonds and uplift Prosperity.
+
+You can find the results of Professor Gelberg's work (and what that tiny little asterisk might mean) in the '''[[Good as gold]]''' wind of fortune.
+
+===In the Presence of You===
+* '''Synod; People with an interest in exemplars; ''Skywise Rykana'''''
+The General Assembly of the Imperial [[Synod]] elected to uphold a [[388YE_Summer_Solstice_Synod_judgements#Judgement_27|single statement of principle]] this past season. It was submitted for judgement by '''Nekoda of the Shattered Tower''', and elevated for consideration by the General Assembly by '''Dagon Barossa''', the [[Cardinal of Loyalty]]. 
+
+You can read the results of '''Nekoda of the Shattered Tower's''' judgement in the '''[[In the presence of you]]''' wind of fortune.
+
+===Twelfth of Never===
+* '''The Empire'''
+A last-minute message from an unexpected source is delivered just before the start of the summit. 
+
+You can read the message, and what it might mean for the Empire, in the '''[[Twelfth of never]]''' wind of fortune.
+
+==Diplomatic Winds==
+Each season, the Civil Service prepares a summary of the Empire's relationship with the foreign nations. This is usually based on communications received from their ambassador, along with any useful intelligence gathered from other sources. While the [[Senate]] and the other houses of Imperial power may respond to these offers, it is important to note that it is the appropriate [[ambassador]] that the foreign power will expect to hear from. Their communication with the foreign power is the primary element that will determine the tenor of any response. While these winds revolve around international matters, their focus is still on the Empire and what its citizens can do to influence diplomatic matters, so they're as likely as any other wind to contain something of interest to characters from all walks of life.
+
+===All I Can Do (Beoraidh)===
+* '''Ambassador to Beoraidh; Cat's Graces; Benefactors Council; Steward of the Ossuary; Members of Senate; Apothecaries Guild; Regario Dossier'''
+[[Mareave#Beoraidh|Beoraidh]] was once the stronghold of the [[Grendel]] ''Salt-Lord Ehsan'' and his supporters. When the Empire moved to invade Mareave, Ehsan declared independence and sued for peace with the Empire. The city itself and the neighbouring region of [[Mareave#Sinfoyard|Sinfoyard]] are recognised as a neutral state by the Senate; a free port where both merchants of all nations are welcome. They actively seek investment from both Imperial and Grendel sources, and have allied themselves with the powerful [[Sarcophan Delves]]. One opportunity that has been under discussion for a while now is the creation of a temple dedicated to the Way, a monument to cooperation welcomed by the former Grendel. After the Summer Solstice it appears that some movement has been made towards making intention into reality.
+
+You can learn about diplomatic relations with Beoraidh, and the opportunity to build a temple there, in the '''[[All I can do]]''' wind of fortune.
+
+===It's All Wrong, But It's All Right===
+* '''Ambassador to Faraden; Ambassador to the Iron Confederacy; Synod, Senate; fleet captains; Alder of Meade, Mediator of Fisk, Azure Sutannir, Cat's Graces; military unit commanders, especially mercenaries'''
+The merchants of [[Faraden]] and the militarist [[Iron Confederacy]] lie to the west and south of the Empire respectively - to the west and south of [[the Brass Coast]] more specifically. Relations with the two nations have been tumultuous in the past but in the last year or two there has been a slow sanding-off of harsh edges. A feeling that lasting détente may be possible, although what it might cost is another matter entirely...
+
+You can learn about diplomatic affairs regarding Faraden and the Suranni, and some pressing problems regarding both, in the '''[[It's all wrong, but it's all right]]''' wind of fortune.
+
+===So Little I Wanted, So Little I Got===
+* '''Ambassador to Asavea; Ambassador to Sumaah; Ambassador to the Grendel; Marracossa Sendito; Members of the Senate; fleet captains; Ambassadors in general; Loyalty Assembly, particularly ''Dagon Barossa''; Senator for Mareave, Imperial Consul, and Advisor on Orc Affairs'''
+* '''This wind of fortune was updated on 10/09 to add the [[So_little_I_wanted,_so_little_I_got#On_the_Subject_of_Turtles|On the Subject of Turtles]] and [[So_little_I_wanted,_so_little_I_got#Morajasse|Morajasse]] sections'''
+The orthodox [[Sumaah Republic]] and the declining [[Asavean Archipelago]] lie far to the west of the Empire. The two great nations remain locked in war. Closer to home, the [[Grendel]] compete with the Empire for dominance of the Bay of Catazar. Even closer to home, the Marracossan exiles live in their town of [[Madruga#Trajadoz|Trajadoz]], Madruga. The [[ambassador|ambassadors]], the [[Imperial Consul]], and other individuals invested in diplomacy have their work cut out keeping abreast of what is happening, as each nation has agendas no less complex than those of the nations that make up the Empire.
+
+You can learn about the ongoing diplomatic situation with the Asavean Archipelago, the Sumaah Republic, the Marracossans of Trajadoz, and the Grendel in '''[[So little I wanted, so little I got]]''' wind of fortune.
+
+===Those Memories of You===
+* '''Ambassador to the Sarcophan Delves; Ambassador to Axos; Senate; Wintermark farmers, herb garden owners, and apothecaries; Imperial Apothecaries Guild; collectors of vallorn relics; fleet captains trading with Issyk; Navarr traders'''
+The [[Sarcophan Delves]] are a great power, a cosmopolitan nation centred around an immense city that sprawls out across the banks of the Umshalla river. [[Axos]] is tiny nation on the outskirts of the Empire, controlling a little over two territories. For all their differences they have similarities, though. Both are a people of cities, and both have an uneasy relationship to death. The Axou ''necromantia'' are acknowledged masters of the cold magic of the grave, while the Sarcophan base much of their industry on the use of the ''ongelukkig'' living-corpses. They are both nations made more powerful through trade, and both would like to see themselves as friends to the Empire... and in both cases that friendship can prove to be something of a mixed blessing.
+
+You can learn about Sarcophan and Axou diplomacy, and some trade opportunities, in the '''[[Those memories of you]]''' wind of fortune.
+===If We Never Meet Again===
+* '''Ambassador to Jarm; Ambassador to the Commonwealth; Senate; Imperial mercenary soldiers (especially the League, Dawn, Urizen, and Highguard); Imperial fleet captains; Celestial Arch and Sevenfold Path; Rod and Shield and Golden Pyramid; Granite Pillar; friends of Professor Emmanuel Gelberg'''
+The [[Commonwealth]] and the [[Principalities of Jarm]] had been at war, fighting for control of the borderlands between their two great nations. When the tiny country of Lantir was annihilated by [[Cold Sun]], a major incursion began that saw armies of [[Cold_Sun#Heralds|scions]] pouring through a breach in what remained of the capital city. Now they have a common enemy, but it has given them little ''else'' in common. Revelations as to the cause of the incursion have set the balance of power in the east swinging wildly - and not just between the two nations. The Empire is in the middle of a war of words and recriminations, and a long-term friendship seems to be on the verge of collapse while the attitude of bitter rivals appear to be improving.
+
+You can learn about the chaos in the east, and its significant to Imperial citizens, in the '''[[If we never meet again]]''' wind of fortune.
+===The Little Things===
+* '''Ambassador to Otkodov; Senate; Military Council; Folk of Ossium'''
+The [[Thule]] of [[Otkodov]] share a long mountainous border with [[Wintermark]], the [[Imperial Orcs|the Unshackled]], and [[Varushka]]. A magocratic nation is ruled by five allegedly immortal orc wizards called the Dragons they were at war with the Empire for much of its history. Now though, they are at peace. An uneasy peace to be sure, secured with the concedence of northern regions claimed as part of Otkodov. But peace nonetheless. For the last year or so, the Thule have been waging war on [[the Mallum]], conquering western [[Forest of Ulnak|Ulnak]] and occupying the northern Druj. They have also been engaging in active negotiations with the representatives of the Empire, arranging deals and agreements that might against all the odds so this peace last longer than perhaps it has any right to.
+
+You can read about recent diplomatic developments, and in particular some upcoming events in [[Ossium]], in the '''[[The little things]]''' wind of fortune.
+
+==Other Events==
+===Rumour Control===
+* '''Rumours of heads on pikes in the Upwold have been investigated by the magistrates'''
+* '''The magistrates have found no evidence to suggest that this has happened'''
+The Empire is wide and complicated. It's easy for a rumour to get out of control and become potentially damaging misinformation. If a misunderstanding spreads far and wide enough, there is a chance that it might provoke mistakes at the highest level. To avoid that, the civil service steps in to correct these misconceptions when they become aware of them.
+
+Since the Winter Solstice, there has been a rumour circulating that caught the eyes of officials when it passed into [[judgement]] in the Synod. A claim that an Imperial citizen had [[388YE_Summer_Solstice_Synod_judgements#Judgement_12|put heads on spikes]] is the sort of claim that warrants investigation. The magistrates duly do their duty, in part because if such a thing had happened, then it could easily be evidence of a crime.
+
+They are pleased to report that it has ''not''. Whatever else '''Brother Orchard''' may or may not be guilty of, one thing he definitely has not done is put heads on spikes along the road - of a consecrated tomb or anywhere else, for that matter. There have been no public displays of such, and such an obvious display of barbarism would have been known about and discussed throughout the territory.
+
+The points discussed during the inquisition remain between those present.
+
+'''OOC Note:''' We don't feel step in to correct misconceptions or misinformation very often, and we make a concerted effort to try to do so only when it would be obvious to people in the world that something is incorrect. Here, the putting of heads on spikes is something that would be widely known about and reported across the territory and beyond. We want to correct this detail, so we can leave players free to argue about everything else that may or may not have happened in Empire.
+
+We want to be clear that the things discussed during the inquisition still happened, just that this particular point - that heads were left on pikes in Upwold - did not occur.
+
+===Strange Currencies===
+* '''The Silver Flame ask for ritual texts for ''Strong Ox, Golden Sun'' and ''Gathering the Harvest'''''
+* '''In return, they pledge their sentinels to defend Spiral as needed'''
+The [[A_question_of_loyalty#Spiral|Tribunal of the Silver Flame]] controls the region of [[Spiral#Cinion|Cinion]], in [[Spiral]] - and is home to several hundred former Urizeni mages at most. Nearly a [[Mirror_and_the_flame|year ago]], they announced grand plans to make a formal alliance with the [[eternal]] [[Sinokenon]], declaring their intent to build a [[fane]] in their territory so as to allow the eternal to give them more extensive support. Aware that the risks would be shared by the Empire, they wrote to inform them of their intentions, and tried to sweeten the deal with two powerful rituals in exchange for access to Imperial Lore, assuming that the offer would land favourably.
+
+It did not. The [[Conclave]] rejected the offer outright, seemingly incensed at the repeated request for access to Lore and having deep misgivings about the nature of ''Diamondmind's'' offer. The Flame sent a delegation to Anvil to try and understand why their strategy had landed so badly. Eager to demonstrate their worth to their neighbours, they sent their sentinels to aid in the [[This_is_the_end#Never_follow_me|quixotic but ultimately successful effort to free Apulian]] from the [[Whisper Gallery|Whisper Gallery's]] grasp. Last season, the Conclave agreed to disseminate [[Blessing of New Spring]] to them - a sign that there is diplomatic willing there, yet.
+
+Now the [[civil service]] have been sent word from Alexius, who acts as the representative of the Tribunal to the Empire. His missive strikes a somewhat contrite note. The Tribunal have abandoned their plans to build a fane for Sinokenon - for now. It seems that someone made a generous donation of liao to the faction within the Tribunal who were most opposed towards any form of eternal alliance, and they have spent the last three months pressing their point. They have convinced many, but in particular they have convinced Caela, the Grand Arbiter of the Tribunal, who has asked the heralds of Sinokenon to leave.
+
+This has not come without cost, it seems. While they have the stocks and stores to get through winter, it will be hard without outside assistance. Their need is pressing, and so they write to ask if their friends in Anvil could see to the dissemination of the other two rituals in the cycle of farm rituals. This would aid the rebels greatly - especially if this happens in time for the rituals to be cast in the Summer and Autumn of next year. Beyond that, the Flame would benefit from any personal enchantments, especially ones like [[Gift of the Wily Broker]] which allow for careful economic stewardship. In return, the Tribunal are prepared to guarantee that their sentinels will continue to support efforts in Apulian or be sent to assist in Spiral's defence in any way they can - whether it is simply to act as swords against the darkness of the wilds or to defend some fortification. They have four groups of sentinels with a combined military strength of a little under five hundred.
+
+===All the Right Friends===
+{{CaptionedImage|file=Assembly Prosperity.png|width=150|align=right}}
+* '''Efforts to share the virtue of Prosperity with the people of Tsark have met with some success.'''
+* '''There is an opportunity to bring word of inspirational figures of Prosperity to Tsark.'''
+* '''Eleven Imperials have been invited at 18:35 on the Saturday of the equinox to visit the Tsarkoi in Zenith.'''
+The isolated nation of [[Tsark]] is famously slow to change and resistant to outside influence or visitors of any kind. In the last decade, as the Empire has become aware of Tsark's existence yet remained neutral, even friendly towards the tiny sagocracy, there has been a slow but perceptible thawing of relations on behalf of the Sage's Council. [[Seeds_of_discord#Tsark|Last season]] they sent ''Camilla'', one of the adepts who play some kind of role in day-to-day spiritual guidance of the lives of the Tsarkoi, to visit the Empire to learn more about the virtue of [[Prosperity]]. It seems that the [[Seeker of the Perfect World]] made the case that there could be a place for Prosperity within the worldview of the sages, and they were not so horrified at the suggestion as to refuse it out of hand.
+
+Camilla solicited letters on the subject of Prosperity and has made herself and her fellow adepts available this last season for members of the Urizen Assembly to discuss Prosperity with her. As the equinox approaches, the Imperial diplomatic corps, through the office of the Seeker of the Perfect World, receive word that the initiative has been a success: at least from Camilla's point of view. She has learned much about Prosperity from all she has read and heard - yet she feels there is yet more to learn. In particular, she understands that the Empire set great stock by inspirational figures of the past who exemplify their virtues - a practice the people of Tsark understand well. The great sages and adepts of the past all have shrines built into the [[Mountains_of_the_Moon#Wall_of_the_Luge_and_the_East_and_West_Rising|Wall of the Luge]], the mighty fortified wall that surrounds the sacred plateau of Visoko. She would like to learn more about the inspirational prosperous figures that the Empire holds dear to its heart. If the Empire's representatives can impressively preach of an inspirational figure of Prosperity in a way that resonates with the spirituality of Tsark, then it could well lead to further such opportunities, as the Tsarkoi believe that inspirational figures are the ''most'' important way to find spiritual enlightenment.
+
+She has asked Sage Kristoph, the well-established representative of the Sage's Council to the "People of the Horse", to make the trip to Zenith. She would like to host a discussion on the premises of the Garden of the Perfect World, with Sage Kristoph to attend, and an invitation is extended to each person who wrote to her or visited. These are, in no particular order: '''Farren Silver Streams, Abel the Rounder, Isaac of the Reaching Vine, Berilo i Erigo, Heilyn Bronwen's Rest, Catena of Tropaion, Galene Netherwatch, Able the Taller, Lord Augur Gryphontale, Eleri Bronwen's Rest''', and '''Solas of the First Light'''. They are invited to speak about three inspirational figures of Prosperity, with ten minutes (allowing time for questions) allocated for each figure. Who actually presents and on which figures Camilla defers to the visitors - she trusts them to collectively come to an understanding in an efficient manner that respects the time of others, as - she has learnt - the Prosperous are wont to do.
+
+This is clearly a fateful occasion, and on such occasions the Sentinel Gate obliges. There is a conjunction for eleven people at 18:35 on the Saturday of the Equinox, to attend the Gardens of the Perfect World, Occursion, Zenith. The civil service has asked the [[Seeker of the Perfect World]], '''Abel the Rounder of Sarangrave Reforged''', to be responsible for the conjunction and for the other arrangements Camilla has mentioned.
+
+===Blades of the Semmerlak (reprise)===
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Blades of the Semmerlak'''</tr>
+<tr><td>'''Commission Type:''' [[Edifice]]</td></tr>
+<tr><td>'''Location:''' 
+*Sandling in Weirwater ''or'' Lacuve in Semmerholm
+'''and'''
+*Malimorzi in Karov ''or'' Bittershore in Ossium
+</td></tr>
+<tr><td>'''Cost:''' 24 weirwood and 72 crowns in labour</td></tr>
+<tr><td>'''Time:''' Three months</td></tr>
+<tr><td>'''Availability:''' One year, until the start of Autumn Solstice 389YE</td></tr>
+<tr><td>'''Effects:''' 
+* Creates title of ''Knight-Warden of the Semmerlak''
+* Creates the '''Blades in the Semmerlak''' venture for questing knights, knights-errant, and wardens 
+* Removes the threat to ships on the Semmerlak and establishes a sodality to deal with threats from Dho'uala</td></tr>
+<tr><td>'''Special:''' Counts as a single commission</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightGreen;">'''Knight-Warden of the Semmerlak'''</tr>
+<tr><td>'''Type:''' Dawnish and Varushkan</td></tr>
+<tr><td>'''Appointment:''' Senate or Test of Arms </td></tr>
+<tr><td>'''Special:''' This is a [[martial title]]</td></tr>
+<tr><td>'''Powers:''' 
+* Receives 10 crowns a season
+* Receives a [[Duelist's Scales]], a [[Troubadour's Ring]], and a set of [[Goldentide Mail]] once a year</td></tr>
+<tr><td>'''Responsibilities:''' To counter the influence of Dho'uala and deal with threats coming from the Semmerlak</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed">
+<tr><td style="background-color: HotPink;">'''Blades in the Semmerlak'''</td></tr>
+<tr><td>'''Venture Type:''' Guarding</td></tr>
+<tr><td>'''Location:''' Territories bordering the Semmerlak</td></tr>
+<tr><td>'''Availability:''' Questing knights, knights-errant, and wardens</td></tr>
+<tr><td>'''Duration:''' Open-ended</td></tr>
+<tr><td>'''Rewards:''' Six crowns and four [[Military_unit#Production|random resources]]</td></tr>
+</table></div> 
+* '''''Tristan Ramson von Holberg'', the Master of the Mint, announced the reappraisal of the Blades of the Semmerlak'''
+* '''A wardenhouse in Varushka and a knightly estate in Dawn would provide a base of operations for heroes to protect the Semmerlak'''
+Last season, the [[Master of the Mint]], '''Tristan Ramson von Holberg''', announced the [[388YE_Summer_Solstice_Senate_sessions#Reappraise_Blades_of_the_Semmerlak|reappraisal]] of the Blades of the Semmerlak in Dawnish and Varushkan territories surrounding the [[the Semmerlak|Semmerlak]]. Originally [[Less_welcome_tenants#Blades_of_the_Semmerlak|suggested]] shortly before the Summer Solstice 386YE, the wardenhouse and knightly estate were part of a larger appraisal into the problem of [[Dho'uala]] killing Imperial citizens and interfering with matters on and around the Semmerlak. 
+
+A motion to construct the [[Less_welcome_tenants#Wards_and_Bargains|Journeymage Towers]] was [[386YE_Summer_Solstice_Senate_sessions#Construct_Journeymage_Towers|proposed]] by '''Amicia of the Semmerlak''', as Senator for Semmerholm, and the [[Watcher of the Semmerlak]] has been active, appointed by the Assembly of Vigilance, and tasked with ensuring the nations surrounding the Semmerlak act with Vigilance and countering threats from the Semmerlak. 
+
+Lutomysla's suggestion that the Senate establish a small sodality dedicated to protecting the people around the Semmerlak still holds true, and has the same enthusiastic support from the merchant-boyars, earls, and merchant-princes keen to see people protected from the depredations of the sovereign. A knightly order focused on protecting the communities along the lake, and a warden fellowship to travel on ships crossing the Semmerlak to protect the crew; both would actively seek out the creatures of Dho'uala and fight them. Supported by Imperial heroes, the sodality would remove the threat to the people living along the edge of the lake. Instead, it would fall to questing knights, knights-errant, and wardens to serve as the '''Blades in the Semmerlak''', 
+
+They will need places to operate from - an estate in Dawn for the knights and a wardenhouse in Varushka for the wardens. Lutomysla identified that the best locations would be either [[Weirwater#Sandling|Sandling]], in the vicinity of [[Weirwater#Culwich|Culwich]], or [[Semmerholm#Lacuve|Lacuve]] in [[Semmerholm]] near the bustling port of [[Semmerholm#Lacre|Lacre]] for the knights, and the port of Korotny in [[Karov#Malimorzi|Malimorzi]] in [[Karov]] and the [[Merchant_Boyar_of_the_Bittershore#Kostjyas_Respite|Kostjyas Respite]] in [[Ossium#Bittershore|Bittershore]] in [[Ossium]] and those still hold true. Although they involve work in two regions, the actual project itself requires only a single commission, and the building of the wardenhouse and the estates will take place in parallel. Once construction is complete, any threat to the people who live along the banks of the lake will be met by enthusiastic warriors. It will also create a new guarding [[venture]] available to questing knights, knights-errant, and wardens - '''Blades in the Semmerlak'''. This will allow a [[military unit]] to spend their time actively defending the Semmerlak and the ships that traverse it. A starting military unit undertaking the venture would receive 120 rings and four [[Military_unit#Production|random resources]]. 
+
+There would need to be a title to oversee the efforts and support the sodality; the ''Knight-Warden of the Semmerlak'' would be a [[martial title]] of Dawn and Varushka who was appointed by either unanimous agreement of the senators of those two nations, or a [[Martial_title#Creating_Martial_Titles|test of arms]] between members of those two nations.  The title-holder would be responsible for protecting the communities around the Semmerlak from threats mundane and magical, and to stand ready to oppose the depredations of Dho'uala whenever they raise their head. In return, they would receive an income of 10 crowns each season with which to equip allies and maintain their sodality.
+
+They would also be the beneficiaries of several magic items provided by Dawnish, Varushkan, and League donors. A [[Duelist's Scales|Duelist's Scales]] weapon from the Varushkan merchant-boyars to weaken corrupt horrors; a set of [[Goldentide Mail]] from League merchant-princes to protect them from venom; and a [[Troubadour's Ring]] from Dawnish earls to help them support their allies. These items would be received once each year, and while the expectation is that the Knight-Warden of the Semmerlak would use them themselves, there is no reason they could not pass them to other warriors fighting against Dho'uala or similar monstrous threats.
+
+===Dusk===
+{{:Autumn Equinox 2026}}
+
+===Husky Business (Volunteers)===
+* '''There is an opportunity for player volunteers to portray their characters who died during the Saturday battle at the last event'''
+* '''Eligible characters must have died during the battle, but not have been killed as a husk'''
+* '''Volunteers will need to have their own costume and appropriate weapons'''
+* '''The role will last around twenty minutes, starting at 18:30 on Friday'''
+* '''The role will involve fighting alongside the skirmish team in an encounter against player characters'''
+* '''Please email before 18:00 on Wednesday 26th of August if you are interested in volunteering'''
+
+There is an opportunity for players to portray the husk of their fallen characters at the upcoming event. Anyone whose character died during the battle of the [[Thorn_and_bone#Battle:_Harvester_of_Graves|Fens of Varreth]], raised as a husk but was not subsequently killed again as that husk is welcome to email to register interest in volunteering for an encounter on the Friday. This will be a combat [[Accessibility#Combat_Highly_Likely|highly likely]] encounter through the Sentinel Gate and will involve fighting against player characters alongside members of our [[Plot_crew#Skirmish|skirmish team]].
+
+If you are interested and would like more information, please email {{plot}} with your PID and the subject line "Husk Volunteer E4", and you will be given more details.
+
+==Summer Conjunctions==
+
+===Major Conjunctions===
+<table><tr><td style="background-color: LightGray;">'''Location'''</td><td style="background-color: LightGray;">'''Opportunity'''</td><td style="background-color: LightGray;">'''Opposition'''</td><td style="background-color: LightGray;">'''Link'''</td><td style="background-color: LightGray;">'''Outcome'''</td></tr>
+<tr><td>[[Sarangrave|Sarangrave, Turan Flats, ''Fens of Varreth'']]</td><td>Contain the dead</td><td>Druj</td><td>[[Thorn_and_bone#Battle:_Harvester_of_Graves|Harvester of Graves]]</td><td>[[Field Marshal]] was '''Sigismund Vladislav Kestovia''' of [[Varushka]]; The spirits were not trapped and the husks remain a problem in eastern Sarangrave; The tortured souls of Het Trakaa remain in Turan Flats; Het Trakaa and Sul Maggotgnaw remain alive</td></tr>
+
+<tr><td>[[Mareave|Mareave, Clisearn, ''Ruins of Sinat'']]</td><td>Open the Vaults</td><td>Grendel</td><td>[[Mithril_and_rope#Battle:_Salt_and_Stone|Salt and Stone]]</td><td>[[Field Marshal]] was '''Joaquim i Erigo''' of [[the Brass Coast]]; Saltbound Stone recovered and claimed by '''Terentia of Sarangrave Reforged'''; Ilium Jackals negotiated with and readying support of [[Boyar's Hasta]]; Iontach Leagsaidh remains in possession of their [[Grimnir's Hearthfire]]; Maistir Guaidre remains in possession of the Spiteri necklace</td></tr>
+
+<tr><td>[[Forest of Ulnak|Forest of Ulnak, Ghul'thak Forest, ''Fetid Heart'']]</td><td>Raid the Druj</td><td>Druj</td><td>[[Who_can_you_trust%3F#Battle:_Claim_the_Prize|Claim the Prize]]</td><td>Not taken; Status of the black lotus unclear; Status of the treasures of Taramid Skinwreath unclear</td></tr>
+
+</table>
+
+===Minor Conjunctions===
+{|table class="wikitable sortable"
+|-
+! # !! Location !! Responsibility !! Overview !! Result
+|-
+|	1	||	Sarangrave, Whisperwood, Halfweir Grove	||	[[Fingers of the Devourer|Custodian of the Fingers of the Devourer]]	||	[[Thorn_and_bone#A_Testing_(Conjunction)|Destroy the heralds of Surut]]	|| Heralds of Surut killed; production of Fingers of Devourer has increased by two wains per season for as long as the Great Forest Orcs remain foreigners
+|-		
+|	2	||	Astolat, Withy, Igraine's Regio	||	[[Astolat|Senator for Astolat]]	||	[[A_wizard_did_it#Rants_and_Roses|Find out why the regio keeps shifting back to Spring, and resolve it]]	|| Unclear, but '''Éamon Ashenmourn de Cordraco''' might know more
+|-		
+|	3	||	Mitwold, Maiden Downs, Maiden Stone	||	[[Champion of Prosperity]]	||	[[Pride_in_the_Marches#Apples_First_(Mitwold)|Stop Jyll Longleys from cursing the Maiden Stone]]	|| ''Jyll Longleys'' and allies killed
+|-		
+|	4	||	The Barrens, Dawnguard, Troubadour's Glade	||	[[Knight of Dawnguard]]	||	[[388YE Summer Solstice winds of war#A Vow (The Barrens)|Kill ''Prilak Gutdredger'']]	|| ''Prilak Gutdredger'' and almost all allies were killed
+|-		
+|	5	||	Mitwold, Maiden Downs, Golden Fields	||	[[Keeper of the Golden Fields]]	||	[[Pride_in_the_Marches#The_Right_Thing_(Mitwold)|Stop Dusty Cobb setting Golden Fields alight]]	|| ''Dusty Cobb'' and rebels killed
+|-		
+|	6	||	The Barrens, Saltmarsh, The Dredging Flats	||	[[Knight-protector|Knight-protector of Winter]]	||	[[388YE Summer Solstice winds of war#A Call to Stand (The Barrens)|Kill the Servants of the Burnt]]	|| All but one ''Servants of the Burnt'' survived
+|-		
+|	7	||	Ossium, Echofell, Burned Glade	||	[[Shadowed Torchbearer]]	||	[[The_keys_of_blood#Fire_The_Forests_(Ossium)|Prevent the cursing of Ossium]]	|| Heralds killed and Ossium was not cursed
+|-		
+|	8	||	Therunin, Lower Tarn Valley, Rotwood Croft	||	'''Andronikos of the Lighthouse-That-Was'''	||	[[388YE Summer Solstice winds of war#After the Taint (Therunin)|Destroy the miasma pillar]]	|| Miasma pillar successfully consecrated
+|-		
+|	9	||	Madruga, Free Landing, Hart's Cove	||	[[Hand of Guerra]]	||	[[Keys_of_Enlightenment#Barren_Waters_(Conjunction)|Aid the stranded ship from Sumaah]]	|| Unclear, but Hand of Guerra should know more
+|-		
+|	10	||	Sarangrave, Kroll, Slow Worm's Hill	||	[[Sevenfold Path|Grandmaster of the Sevenfold Path]]	||	[[The_keys_of_blood#Boil The Swamps (Sarangrave)|Prevent the cursing of Sarangrave]]	||  Heralds killed and Sarangrave was not cursed
+|-		
+|	11	||	Sarangrave, Turan Flats, The Breakteeth dais	||	[[Eastern Sky|General of the Eastern Sky]]	||	[[The_keys_of_blood#The_Greatest_Prize_(Rhianos)|Recover the treasure]]	|| Treasure successfully recovered
+|-		
+|	12	||	The Barrens, Bitter Strand, Saltshore	||	[[Merchant of the Fangs]]	||	[[A_horn_blast_of_victory#Fangs_for_the_Memories_(Conjunction)|Answer General Utmar's call for aid]]	|| Vassals of the manticore killed
+|-		
+|	13	||	Madruga, The Crucible, Talpses Plat	||	[[Champion of Vigilance]]	||	[[Phantasms_and_foam#A_Terrible_Feeling_(Madruga)|Claim the ''Snapping Face'']]	|| Snapping Face retrieved and heralds killed
+|-		
+|	14	||	The Barrens, Carmine Fields, Trading Way	||	'''Rhydian de Rondell'''	||	[[A_horn_blast_of_victory#Taste_of_Mettle_(Conjunction)|Remove the failed knights-errant of House Courcillion as a threat]]	|| Named knights have accepted justice from local magistrates
+|-		
+|	15	||	Necropolis, Coursmouth, The Veiled Garden	||	[[Guardian of Britta's Memorial]]	||	[[Phantasms_and_foam#The_Strength_of_This_Place_(Necropolis)|Spill the waters of Siakha]]	|| Bucket recovered and returned to Anvil
+|-		
+|	16	||	The Barrens, The Untrod Groves, Glade of the Good Knight	||	[[Knight-protector|Knight-protector of Winter]]	||	[[A_horn_blast_of_victory#A_Hearty_Meal_(Conjunction)|Thwart the schemes of Ser Gawain Amboise]]	|| Schemes of ''Ser Gawain Amboise'' thwarted
+|-		
+|	17	||	Mareave, Fleisardh, Spring Regio near Golden Wind's Encampment	||	[[Silver Chalice|Grandmaster of the Silver Chalice]]	||	[[The_keys_of_blood#Do_Some_Harm_(Arhallogen)|Poison the Grendel]]	|| Grendel poisoned, Grandmaster of the Silver Chalice should know more
+|-		
+|	18	||	Tassato, Cascatas, Campo Verdenta	||	[[Keeper of the Sapphire Stair]]	||	[[Phantasms_and_foam#For_What_Has_Been_Wrought_(Tassato)|Kill the heralds of Siakha]]	|| Heralds of Siakha and wreckers killed
+|-		
+|	19	||	Spiral, Apstrus, Alba's Lea	||	[[Legacy|Custodian of the Legacy]]	||[[Mithril_and_rope#A_Backhanded_Request_(Spiral)|Intercept the mercenaries pay]]	|| Raid launched on the Legacy and ten wains of mithril claimed by the Haurlatch Iron Consortium
+|-		
+|	20	||	Reikos, Haros Water, Couros Field	||	'''Nekoda of the Shattered Tower'''	||	[[388YE_Summer_Solstice_winds_of_fortune#A_Sudden_Threat_(Reikos)|Save Professor Gelberg from Grendel assassins]]	|| Imperials pushed out by Grendel; Professor Gelberg has been kidnapped
+|-		
+|	21	||	Redoubt, Naris, Isaac's End	||	'''Telemachus of the Lighthouse-That-Was'''	||	[[Seeds_of_discord#An_Empty_Bottle_(Conjunction)|Leave no more than a dozen Grendel alive]]	|| All Grendel killed
+|-		
+|	22	||	Kallavesa, West Marsh, The Meeting Place	||	'''[[388YE_Spring_Equinox_Synod_judgements#Judgement_32|Erlend]]''' || [[Myth_makers#The_Unity_Of_Deed_And_Word|Consecrate the Meeting Place]] || The Meeting Place successfully consecrated with true liao
+|-		
+|	23	||	Kallavesa, Wittal Grove, Frithstan's Fen	||	[[Grimnir of Wittal Grove]]	||	[[The_keys_of_blood#An_Unexpected_Ally_(Basileia)|Defeat the Grendel (and potentially rescue the Iontach)]]	|| Ionatch Meddool Miniog successfully rescued and returned to Anvil
+|-		
+|	24	||	Forest of Ulnak, Grimfen Mire, Moss End	||	[[Warmage]]	||	[[All_I_ask_of_you#Wild_Things_Run_Fast|Take advantage of a recent scouting discovery]]	|| [[Forge the Wooden Fastness]] successfully cast with eight rings of [[ilium]]
+|-		
+|	25	||	Sarangrave, Bloodwater Marsh, Eastern Ward	||	'''Theodora'''	||	[[Urizeni_Experiment#Stronger_than_Blood|Cast the permanent ward]] || Ward successfully performed
+|-		
+|	26	||	The Barrens, Saltmarsh, Gardenway	||	[[Envoy to the Karass]]	||	[[Who_can_you_trust%3F#Protect_Lenna_Karass_%28The_Barrens%29|Prevent Druj raiders from kidnapping Lenna Karass]]	|| Lenna Karass was successfully rescued and returned to Anvil
+|-		
+|	27	||	Sarangrave, Bloodwater Marsh, Western Ward	||	[[Spear of the Seven]]	||	[[Urizeni_Experiment#Stronger_than_Blood|Cast the permanent ward]] || Ward successfully performed
+|-		
+|	28 & 29	||	Forest of Ulnak, Gloomsea, Islet of Calm	||	[[Archmage of Day]]	||	[[Who_can_you_trust%3F#Who's_the_Thief?_(Forest_of_Ulnak)|Prevent the Eyes of the Dragon from using a boon of Kimus]]	|| [[Wind of Mundane Silence]] performed on regio and bodies successfully destroyed
+|-		
+|	30	||	Sarangrave, Bendol, Spring Regio	||	[[Warmage]]	||	[[Urizeni_Experiment#An_Open_Gate|Drive the vallorn from the regio]]	|| Imperial casualties suffered, vallornspawn remain around the regio
+|-		
+|	31	||	Sarangrave, Bendol, Spring Regio	||	[[Archmage of Spring]]	||	[[Urizeni_Experiment#An_Open_Gate|Cast Dance of Navarr and Thorn]]	|| [[Dance of Navarr and Thorn]] was not performed 
+|-		
+|	32	||	Sarangrave, the Whisperwood, Depths of the Hungry Earth	||	[[Counsel of the Sun Chamber]]	||	[[Urizeni_Experiment#The_Caves_of_the_Hungry_Earth|Investigate the Hungry Earth]]	|| Depths investigated, Counsel of the Sun Chamber should know more
+|-		
+|	33	||	Volodmartz, Livardz, Sumisev Peegel	||	'''[[388YE_Spring_Equinox_Synod_judgements#Judgement_167|Auntie Armand Mariyavich Remislav]]'''	||	[[Sunrise_over_Livardz#Blow_It_Up|Destroy the Sumisev Peegel]]	|| Sumisev Peegel was successfully destroyed by [[Wind of Mundane Silence]]
+|-		
+|}

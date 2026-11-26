@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Proposed: Conscience of the Senate, Seconded: Tassato">Motion to commission and that there be a disbursal of funds to construct a Counting House in Tassato.</quote>
+==Overview==
+* Constructs a [[folly]] in [[Tassato]] that increases the Virtue Fund as per the '''[[Forwards and Rewards]]''' wind of fortune
+* Passed
+==Date==
+* Winter 385YE
+==Cost==
+* Costs as per opportunity
+* 5 wains of weirwood
+* 5 wains of white granite
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Tassato_Counting_House}}
+==Outcome==
+* Once the work is complete, the [[Rewarding|Virtue Fund]] will receive 16 crowns each summit in donations from citizens of the territory

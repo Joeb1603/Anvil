@@ -1,0 +1,27 @@
+==Overview==
+The Corsair of Oran is an [[Imperial title]] awarded to a citizen of [[the Brass Coast]]. The motion to construct the Wharfage of Oran was [[Construct Wharfage of Oran|passed]] by the [[Senate]] in Spring 387YE. The Corsair of Oran is responsible for representing the interests of Oran and the corsairs of Feroz. More information on the opportunity to create this title can be found in the '''[[Send_for_me#Wharfage_of_Oran|Send for me]]''' wind of fortune.
+
+==Responsibilities==
+The Corsair of Oran has a responsibility to represent the interests of Oran and the corsairs of Feroz. In addition, if the wharfage, its shipwrights, or traders who had docked there were to be threatened in any way, it would be the responsibility of the Corsair of Oran to deal with those threats.
+
+==Powers==
+<div style="float:right; width: 500px; clear: right;"><box><big>'''Suitability'''</big><br>The Corsair of Oran is intended to be held by a corsair: the corsairs who visit, trade, and accept bounties at the wharfage expect one of their own to be responsible for overseeing it. If the title is held by a character who does not have the [[corsair]] archetype then the player must email admin@profounddecisions.co.uk to let us know.</box></div>
+===Docking Fees===
+The Corsair of Oran receives a total of one throne, two crowns, and sixteen rings each season, drawn from docking fees, a portion of rewards from claimed bounties, and gifts from grateful traders.
+
+===Skilled Shipwrights===
+Once each year, during the [[downtime]] immediately following the title's election, the Corsair of Oran can select a single Freeborn character with a level one [[fleet]] in Feroz and encourage the skilled shipwrights of the wharfage to support them. This will upgrade the fleet to level 2 after downtime is processed. It is not possible to use this ability to increase a fleet beyond level 2.
+
+To use this ability, the Corsair of Oran should email {{plot}} with the CID or name and details of the character they have chosen to assist.
+
+==Appointment==
+This title is appointed during the Summer Solstice. The Corsair of Oran is appointed by citizens of the Brass Coast who control a [[fleet]] [[Resource|personal resources]]. The larger the fleet an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Freeborn citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+<!--{{CaptionedImage|file=FILE.png|caption='''NAME''', Corsair of Oran|align=left|width=400}}-->
+{{RecentElections|Corsair_of_Oran}}
+
+==Expansion==
+While the Wharfage stands, it can be upgraded to a [[shipyard]] at any time for a cost of 15 wains of weirwood, 20 wains of white granite, and 105 crowns. It would require a commission and either a motion or an announcement by a title permitted to construct a shipyard. The Corsair of Oran would retain their powers if the wharfage was expanded.
+[[Category:Title]] 
+[[Category:The Brass Coast]]

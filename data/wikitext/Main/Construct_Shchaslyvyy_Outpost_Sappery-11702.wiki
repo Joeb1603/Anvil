@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Spring]]
+__NOTOC__
+<quote by="Announced by Borys Vardovich Strascovich, Boyar of the Iron Roads">Borys Vardovich Strascovich, Boyar of the Iron Roads, announces the building of the Shchaslyvyy Outpost Sappery a (12 mithril) mana ministry in Varushka to be assigned by Tally of the Votes. </quote>
+==Overview==
+* Creates a ministry in [[Ossium]] that allows the purchase of mana crystals
+* Announcement by the [[Boyar of the Iron Roads]]
+==Date==
+* Spring 386YE
+==Cost==
+* Standard costs apply
+* 12 mithril
+* 36 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Shchaslyvyy_Outpost_Sappery}}
+==Outcome==
+* Now complete, the [[Custodian of the Shchaslyvyy Spile]] will be appointed by Tally of the Votes of the Varushkan mine and forest owners for the first time at the Summer Solstice 386YE.

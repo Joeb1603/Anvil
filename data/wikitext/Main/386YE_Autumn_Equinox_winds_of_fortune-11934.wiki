@@ -1,0 +1,306 @@
+[[Category:Winds of Fortune]][[Category:386YE Autumn]][[Category:Recent History]]
+<div style="float:left; width: 600px; clear: left;">{{CaptionedImage|file=Talking in Anvil.jpg|align=left|caption=News spreads through word of mouth as fast as it does through broadsheets and posters, and is sometimes more reliable. Or at least, unreliable in more amusing ways...|width=600}}</div>
+==Overview==
+Over the past three months, events have taken place which are of significance to the Empire and may require a response from her champions. These are the winds of fortune, counterparts to the [[386YE_Summer_Solstice_winds_of_war|Winds of War]] which detail the Empire's military campaigns. They lay out situations, and usually include things that characters can do to take advantage of [[opportunity|opportunities]] or to resolve problems. In almost every case, they start with a piece of flavour text. This fiction helps introduce the wind of fortune, or draws out a particular theme or element. Often, it represents a viewpoint that one or more NPCs might have in-character. In all cases, these pieces are intended to help create an atmosphere and provide a little entertainment. Where they contain opinions, those are the opinions of the fictional people depicted - and where they contain information or rumours the assumption is that the reader will create their own context for that information or gossip if they want to use it in character. 
+
+The body of the wind of fortune describes situations and lays out ways players can engage with them. Except where we explicitly talk about something being "rumoured" or use a phrase like "some might say..." the details of a wind of fortune are factual. They represent briefing material presented by the civil service or similar authoritative sources and represents something the average educated citizen would acknowledge as a reliable truth. Unless we specify otherwise, we're also being as thorough as possible. This information doesn't need further checking in-character. It's not opinion, and we're not trying to trick you.
+
+As always, how much or how little of this information you choose to know in character is up to you. Part of the purpose of Winds of Fortune is to maintain the illusion of the Empire as a living, breathing place where things happen - and to make players aware of things their characters could know based on what their roleplaying says they have been doing for the past three months. It's perfectly acceptable to turn up to Empire having read only a few Winds of Fortune that directly interest your character; part of the fun on the field can come from learning about situations and opportunities in other parts of the game.
+
+In each case, we've tried to tag the Winds of Fortune entry with the nations, or political bodies, to which it is most relevant. We've done this to help people who are interested only in events that are especially relevant to them. In no way are these tags intended to be exhaustive; the Empire is a complex place and very little happens in isolation.
+__TOC__
+==Winds of Fortune==
+===Signal Fire===
+* '''Imperial citizens'''
+In previous seasons [[the Throne|Throne]], [[Emperor Vesna]], has used their power to [[The_Throne#Address_the_Empire|address the Empire]] to present a personal message to all Imperial citizens. This season, however, she has chosen to allow someone else to make that address on their behalf - Rane Shard-Bearer, the [[Senator]] for [[Kallavesa]]. 
+
+The message has been distributed across the Empire by the civil service, and you can read it in the '''[[Signal fire]]''' wind of fortune.
+===The Fayre Fight===
+* '''Dawn, especially those who completed all four stages of the Grand Tour'''
+The [[Dawn_egregore|Knight of Roses]] has invited all those who have completed the [[Dog_days_are_over#The_Grand_Tour|Grand Tour]] to take part in a special tourney to be held at [[Anvil]], in the heart of the Empire. The Reeve has gone further, proposing that the nation present a fayre at Anvil, to celebrate all that is best in Dawnish life, and to show the other nations the splendour and glory of their nation. Two other tourneys are also due to take place - to determine the new 
+[[knight-protector]] of Autumn, and as part of the selection of the [[Challenger in Waiting]] - and there are interesting developments with both those titles that might add extra frisson to the autumn fayre.
+
+You can read about the fayre and the tourneys, and the various opportunities related to each, in the '''[[The fayre fight]]''' wind of fortune.
+===Beneath Mithril Spires===
+* '''Ambassador to the Commonwealth; Imperial Senate; Dean of the Lyceum; Voice of Liberty; Imperial fleet captains'''
+The [[Commonwealth]] is perhaps the closest thing to an ally the Empire has among the six [[Foreign_nations#Great_Powers|great powers]] of the known world. Committed to the principles of the greater good, they disagree with the Empire on any number of things but actively seem to seek points of agreement and common ground over dissent and difference. One day the two nations will fight - it is inevitable given both seek to bring the entire world under the aegis of what the believe is right - but for now there is space for discourse and even cooperation.
+
+You can learn about diplomatic relations and political complications relating to the Commonwealth, as well as several opportunities, in the '''[[Beneath mithril spires]]''' wind of fortune.
+
+===Hyenas and Herbs===
+* '''Ambassador to the Sarcophan Delves; Imperial Senate; Custodian on the Concordium Docks; High Herbalist of Sybella; Master of the Root and Stem; Wintermark farmers; Imperial fleet captains'''
+The ''Bedelaar Huisbaas'' of the [[Sarcophan Delves]] always seek to maintain a level of neutrality, the better to ensure their ships are welcome at every port. They are enthusiastic trade partners, both with the Empire and the Empire's enemies. Their refusal to pick a side between the nations that make up the [[Liberty Pact]] and the so-called "Freedom Accord" is being tested however, thanks to the Asavean Plenum. Yet they're not ready to give up on the Empire just yet, and indeed some of them seem interested in increasing their investment in Imperial markets - conflict breeds opportunity after all.
+
+You can learn about the state of diplomatic relations with the Delves, as well as a couple of opportunities to trade with them, in the '''[[Hyenas and herbs]]''' wind of fortune.
+===Houses of Silence===
+* '''Sarvosans, especially the Chamber of Commerce; Imperial Synod; Ambassador to the Sarcophan Delves; Artists; Anyone with an interest in recreational narcotics or the law'''
+Three years ago the Imperial Senate ceded the Alivetti estates near [[Sarvos]] to the [[Sarcophan Delves]], so that they could create a trading enclave. Under the sponsorship of the powerful Vandersaar family, that enclave has flourished; but not always in ways palatable to every Imperial citizen. As the Autumn Equinox approaches, the matter of the Alivetti estates receives additional scrutiny - not only because of concerns about the Sarcophan enforcing their own laws there, but of plans to build a blasphemous cathedral on what was until recently Imperial soil. At the same time, the Vandersaar are looking to invest further in Sarvos, setting the stage of a great deal of discussion about the presence of the 'Delves merchants on the southern border of the Empire.
+
+You can read about the controversy, and a rare opportunity for the Sarvosan Chamber of Commerce, in the '''[[Houses of Silence]]''' wind of fortune.
+===Victory and Unity===
+* '''Ambassador to Axos; Regario Dossier; Assembly of Nine; Shuttered Lantern, Celestial Arch, and Sevenfold Path; Imperial Synod'''
+The Empire and [[Axos]] have never been friends, and are at best allies of convenience perhaps. The only signatory to the [[Liberty Pact]] that is not a Great Power, Axos seeks to make it's mark on the world stage - even though it covers less land than many Imperial nations. Relations are always a little volatile - the Axou are prickly at best - but there is talk of a rising movement that seeks to secure the legacy of the sorcerer-kings in a way that is making some observers a little nervous.
+
+You can learn about the current situation, and a few opportunities to engage with the unpredictable Axou, in the '''[[Victory and unity]]''' wind of fortune.
+
+===Where Five Winds Meet===
+* '''Ambassador to Faraden; Azure Sutannir and Freeborn Assembly; Shuttered Lantern and Celestial Arch; Master of the Regario Dossier; Gloaming Road; Imperial Senate; people with Weirwood and Iridescent Gloaming to trade; Holbergians'''
+The lifeblood of [[Faraden]] is trade, and their caravans criss-cross the Empire even though the Lasambrian [[Jotun]] charge them a steep price for doing so. Relations between the Empire and the smaller nation to the west vary from year to year, warm one moment, cool the next, but it has never come to open warfare. Unfortunately, it seems the Faraden are caught between a rock and a hard place - with the [[Asavean Archipelago|Asavean]] Plenum one one side ant the Empire on the other. Faraden involvement in the recent [[Harvest of infamy|attack on Meade]], the situation appears to be escalating.   
+
+You can read about the diplomatic complexities of Imperial relations with Faraden, as well as opportunities to trade with merchants from the western nation, in the '''[[Where five winds meet]]''' wind of fortune.
+===A Victory for Diplomacy===
+* '''Ambassador to Iron Confederacy; Imperial Fleet Captains; Sianu of Navarr and Caesar of Urizen; anyone who might be expecting a visit from representatives of Baron Bestel'''
+The [[Iron Confederacy]] sees itself as a potential rival to the Empire in size and strength and their claims are difficult to prove or disprove. No nation appreciates being threatened or intimidated, but the Iron Dukes react especially badly to perceived slights, and thanks to their peculiar beliefs it is all too easy to offend them – they despise both the [[Conclave]] and the [[Synod]] for example. They seem to respect the [[Military Council]] and [[the Throne]] at least, but it is a narrow bridge to build a shared understanding on. The [[Senate]] has just [[386YE_Summer_Solstice_Senate_sessions#Ratify_Treaty_with_the_Iron_Confederacy|ratified a treaty]] intended to try just that - and now it's time to see how successful they have been.
+
+You can read about the diplomatic relationship with the Iron Confederacy, both officially and unofficially, in the '''[[A victory for diplomacy]]''' wind of fortune.
+===The Tale That Speaks To Your Heart===
+* '''Ambassador to the Sumaah Republic; Rafe of Wintermark; Imperial fleets; Imperial Conclave especially Sevenfold Path and Rod and Shield; Emperor Vesna'''
+Among the six great powers, the [[Sumaah Republic]] are simultaneously rivals to, and uneasy allies of, the Empire. Their shared practice of the Way both unites them through virtue, and divides them through disagreements about how the faith should be practiced and spread. Right now they are allies via the [[Liberty Pact]] and engaged in open warfare with the heretical blasphemous idolators of the [[Asavean Archipelago]]. The Empire offers what aid it can, and the Sumaah in turn show their appreciation as best they can with so many resources committed to protecting their coast from Asavean navies.
+
+You can read about the current situation with the Sumaah, and some of the opportunities they present, in the '''[[The tale that speaks to your heart]]''' wind of fortune.
+===Thresher's Summer===
+* '''Urizen magicians, sentinels, sword scholars, and priests; Marcher friars and landskeepers; Imperial Senate'''
+Determined to bury the hatchet and bring to an end the rumbling conflict between their nations, the [[the Marches|Marcher]] and [[Urizen]] Assemblies have urged people to travel to the lands of their opposite number and engage with them. Urizen has asked [[Magical skills#magician|magicians]], [[sentinel|sentinels]] and [[sword scholar|sword scholars]] to help the Marches bring their harvest home. Meanwhile the Marches have asked their [[friar|friars]] to share their understanding of virtue with the folk of the [[spire|spires]]. After a long Summer, the results of this unprecedented exchange are being felt by folk of both nations.
+
+You can learn about the effects of Urizen helping bring in the Marcher harvest, and Marchers speaking to the virtuous of Urizen, in the '''[[Thresher's summer]]''' wind of fortune.
+===Healing Waters===
+* '''Imperial Conclave; Imperial Senate; Spring magicians and magical healers'''
+At the [[386YE_Summer_Solstice_Conclave_sessions#Concord:_Ossegrahn_and_a_College_of_Magic|behest of the Conclave]], and following a [[Famine_and_feast#Ossegrahn|request]] by the [[Archmage of Spring]], [[Ossegrahn|Lord Rain]] has agreed to help the Empire establish a [[College of Magic|college]] dedicated to the study and practice of [[Spring magic]]. Only too happy to help, the [[eternal]] offers more aid than merely sponsorship or patronage. Provided his requirements are met, he will help the Empire create a place steeped in healing magic that will serve as a place not only of scholarship and magical study, but also of healing for all the people in the place where it is built.
+
+You can find out about the proposal, and the restrictions Ossegrahn places on its operation, in the '''[[Healing waters]]''' wind of fortune.
+
+===A Stone for a Stone (Appraisal)===
+* '''Imperial Senate; Imperial Military Council; Imperial Consul; Wintermark, Brass Coast, Marches, Navarr; those interested in the Jotun; veterans with stories to tell'''
+The Imperial Senate has instructed [[Appraisal#Naomi_of_Virtue's_Rest|Naomi of Virtue's Rest]] to [[386YE_Summer_Solstice_Senate_sessions#Appraise_Peace_with_the_Jotun|appraise what might make peace more appealing for the Jotun]]. Naomi is a skilled diplomat, but few expect her to be able to deliver peace with the [[Jotun|Western orcs on request]]. She has done what work she can in the Empire, and made a short trip under a flag of truce to speak with the Jotun in [[Mournwold]]. Now, she is ready to present her findings - both a summation of what has led to the current situation and a series of things that could be done to make a ceasefire with the Jotun more likely.
+
+You can learn about the proposals Naomi has made, and perhaps learn some history, in the '''[[A stone for a stone]]''' wind of fortune.
+===True Faith===
+* '''Imperial Synod'''
+Following the recent summit, the [[Lepidean Librarian]] gave instructions for the library to [[Life_of_Vardas|publish in full their research]] on [[Vardas]], the paragon of [[Vigilance]]. The extraordinary and controversial findings say that Vardas was not a paragon; that he never existed; that he was little more than a collection of stories, penned by [[The_League_magical_traditions#Mountebank|a League mountebank]]. The news has hit Imperial pilgrims of the way very hard indeed, and a major crisis of faith is brewing. During the Autumn Equinox the Imperial Synod has an opportunity to try and head off that crisis before it deepens sufficiently to tear the faith apart.
+
+You can learn about the crisis, and potential ways to deal with it, in the '''[[True faith]]''' wind of fortune.
+===The First Shot===
+* '''Navarr; Wintermark and the Imperial Orcs; eventually the whole Empire'''
+At the Summer Solstice, the [[Navarr]] took the pivotal decision to [[The final countdown|begin the final battle against the vallorn]]. There can be no going back from such a decision, in [[Wintermark]] they would say that the Navarr have forked their [[Wintermark_culture_and_customs#Skein|skein]]. The [[striding|stridings]] are coming home, and the nation mobilizes for war, but if Navarr faces that war along they will surely fail. Before the final [[trods]] are put into place, the nation - and the Empire - must be ready.
+
+You can find out about the change to the nation, and opportunities to raise three new armies, in the '''[[The first shot]]''' wind of fortune.
+===The Synod speaks===
+* '''League and Varushkan assemblies; other national assemblies'''
+The [[Navarr]] Assembly has [[The first shot|overwhelmingly backed the mandate]] to begin the final battle against the vallorn. But they are far from the only Assembly to speak on the matter. The [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]] was emphatic that the Empire must be willing to make this sacrifice now and called on every nation of the Empire to take up the call. Two individual nations also did so, [[the League]] and [[Varushka]], both raising clear [[statement of principle|statements of principle]] in support of the Navarr and their Assemblies backed them with a [[greater majority]]. These statements have given rise to not one but three mandates in each assembly, giving an opportunity to guide exactly ''how'' those two nations will rise to the challenge of the vallorn.
+
+You can learn about these mandates, and what it means for the other national assemblies, in the '''[[The Synod speaks]]''' wind of fortune.
+===Here to Stay (Appraisal)===
+* '''Imperial Orcs; Imperial Senate'''
+The second [[appraisal]] the [[Senate]] commissioned in Summer sent [[Appraisal#Eilian_Sweetwater|Eilian Sweetwater]] to the newly conquered [[territory]] of [[Mareave]]. He was asked to find ways to deal with the [[Set_my_lands_in_order#Uncooperative|uncooperative]] inhabitants of the southern regions - [[Mareave#Fleisardh|Fleisardh]],  [[Mareave#Clisearn|Clisearn]] and [[Mareave#Eoradal|Eoradal]]. Aided and impeded by [[Autumn magic]], the Navarr [[Appraisal#The_Prognosticators_Office|prognosticator]] has delivered his findings and the good news is that they've found opportunities to deal with at least two of them. The bad news is that they are ''not cheap''.
+
+You can read about the appraisal findings, as well as get some insight into ''why'' the orcs in those three regions are so recalcitrant, in the '''[[Here to stay]]''' wind of fortune.
+===We All Stand===
+* '''Imperial Orcs, especially the Tamazi and Yerende septs; Imperial Conclave especially the Golden Pyramid conclave order; Imperial Senate; Freeborn, Marches, League, and Urizen assemblies'''
+Eilian Sweetwater has not been the only one exploring [[Mareave]] in the last season. Between the [[Golden Pyramid]] magicians and representatives of the [[Tamazi]] sept, and suggestions from [[the Brass Coast]], [[the Marches]], [[the League]], and [[Urizen]], there are plenty of additional opportunities to invest in the new [[Imperial Orcs]] [[territory]], or attempt to combat some of the challenges arising from this arid. comparatively isolated, land.
+
+You can read about the opportunities, and gain some further insight into conditions in Mareave, in the '''[[We all stand]]''' wind of fortune.
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=BarienArt.jpg|align=left|width=200}}</div>
+===A Challenging Time===
+* '''Archmage of Summer; Barien's champions of Dawn and Wintermark; warriors without Imperial titles; Summer magicians'''
+For almost a year now, the [[Barien|Seneschal of the Road]] has been unable to respond to the ritual named for him, [[Challenge the Iron Duke]]. Determined not to neglect one of his favoured lands, the heralds of the ''Keeper of Challenges'' bring three pieces of news. Firstly, a grand melee to be fought between the absolute best the Empire has to offer the Summer realm, in quest of ''Pinnacle'', a sword of unparalleled quality. Secondly, those from the nations of [[Dawn]] and [[Wintermark]] who have already bested the Iron Duke's challenge once are called forth to take on a second challenge, and finally answer a question long asked in the annals of Imperial history. Finally, an offer to the [[Archmage of Summer]] to identify a competition, contest, or challenge worth of Barien's attention.
+
+You can find out about these challenges and contests, and some notes about Challenge the Iron Duke. in the '''[[A challenging time]]''' wind of fortune.
+===When the River Rises===
+* '''The Brass Coast; Cerevado nets; Imperial military commanders; Silver Chalice, Rod and Shield, and Unfettered Mind; Imperial Senate; Imperial Military Council; scriers'''
+[[Madruga]] has suffered parching blight, pounding rain, vengeful fire, war, death. Now in response to powerful Imperial magic. the river rises, the wild Scorrero. Sweeping down from [[Kahraman]], through [[Segura]], to [[Madruga]]. A maelstrom of [[Spring magic#Chaos|chaos]], [[Night_magic#Transformation|transformation]], and [[ilium|star metal]] the both destroys, and cleanses, and brings new life. The horror of the Blight, and the Dry patricians, is washed away... but is the cure as bas as the sickness? Only time will tell.
+
+You can learn about disastrous developments on the Brass Coast, along with some discussion of the newly liberated [[Feroz]], in the '''[[Where the river rises]]''' wind of fortune.
+===Authority and Acceptance===
+* '''Ambassadors to Otkodov, Jarm, Asavea, and the Grendel; Imperial Consul; Imperial Conclave; Artisans Guild; anyone dealing with the Five Fang Consortium; Urizeni, especially the House of the Wanderer; Legion Engineer, Senator for Mareave, Friar John of the Mourn; Leage, Wintermark mediators, Navarr guides (among others)'''
+Each season the civil service put together a summary of the Empire's relationship with other nations, large and small, near and far. These reports are composed from communications received from their ambassadors, useful intelligence, the words and offers of merchants and traders. While the Senate and the other great houses may use their powers to respond to these offers, it is the ambassador who a foreign power expects to hear from. Sometimes the reports are long and detailed, sometimes for whatever reason they are shorter and more to the point. 
+
+You can find summaries of reports from [[Otkodov]], [[Skoura]], [[Tsark]] (!), the [[Principalities of Jarm]], [[Asavean Archipelago|Asavea]], and the [[Grendel]], in the '''[[Authority and acceptance]]''' wind of fortune.
+===Seven Locks (Plenipotentiary)===
+* '''Archmages; cadets investigating the Tomb of Achism; Unshackled Winter, Circle of the Drowned, Heralds of the Reaper, Wolves of the Pale Raven, Black Garden, Nation's Guard, The Winter Wolfborn, Hraefnhall, and an Imperial Orc named Frith; Imperial Magus, Warmage, Conclave Grandmasters; Bloodcrow Udoo and Quay Stone; Master of the Koboldi; Adelaarscoven, Convocation of the Mistral, Coven of Barabbas, Las Brujahs de Zuhri, Lyktan coven, Saque Magique, Song of Taniki, Spire of the Auric Horizon, the Scrying Pool, the Sphinx's Sage, and Wings of Skywise covens; Navarr'''
+Six [[archmage|archmages]], but what seem to be ''seven'' responses to [[archmage#plenipotentiary|plenipotentiary]] messages, so something is off. The eternals are bound by ancient compact to respond in some way to such a missive, although precisely ''how'' they respond is up to them. There might be to a formal [[Archmage#parley|parley]], or something more informal. Or nothing at all. Responses to each archmage's (presumed) plenipotentiary messages have been received, and arrangements made for the Autumn Equinox. Four meetings, and three sets of messages.
+
+You can read about the responses of the eternals, and their various requests and offers, in the '''[[Seven locks]]''' wind of fortune.
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=Assembly General.png|align=left|width=200}}</div>
+===Irreconcilable Differences===
+* '''Imperial Synod; Imperial Senate; Sevenfold Path'''
+During the Summer Solstice, the [[Senate]] made it [[386YE_Summer_Solstice_Senate_sessions#Criminalise_Preaching_the_Way_in_Asavea|illegal to preach the Way in Asavea]]. Following the vote, the [[Cardinal of Loyalty]], indicated to the Civil Service that they intended to [[Veto#Timing|seek the veto]] in the [[Synod]]. The Assemblies have already passed a number of mandates urging missionaries and [[Highguard|Highborn]] [[wayfarer|wayfarers]] to travel to make contact with virtuous [[Bands#Sects|sects]], and preach the Way, but the Asaveans have responded by increasing their support for the Empire's enemies and striking against Imperial citizens directly. During the coming Summit, the Synod must decide whether to uphold the veto, or accept the prohibition against further action in Asavea - with potentially painful consequences for either decision.
+
+You can read about the veto, and the ongoing efforts to spread the Way in Asavea, in the '''[[Irreconcilable differences]]''' wind of fortune.
+<div style="float:right; width: 200px; clear: right;">{{CaptionedImage|file=RhianosArt.jpg|align=left|width=200}}</div>
+===Roaring Plenty===
+* '''Fleet captains engaged in Rhianos' race'''
+Last season the ''[[Rhianos|Regent of the Eternal Sea]]'', announced the beginning of a great race - to visit the four corners of the known world. Having been challenged by the [[Archmage of Summer]], the ''Lightning Fish'' agreed to hold a contest, but one unlike any other. Rhianos has no interest in seeing who can be the fastest, so this race is one filled with peril and calamity where nobody know where they are going, how they are going to get there, or even if they will survive. That hasn't stopped hundreds of [[fleet|fleets]] taking part in the first leg of the race and sailing "Into the Unknown". Now, it is time for the second leg, and when dealing with ''Waverider'' means things are going to get ''weird''.
+
+You can learn about the first leg of the race, and how the next leg will be run, in the '''[[Roaring plenty]]''' wind of fortune.
+===How To Be Dead===
+* '''Rod and Shield; adventurers who delved into the Depths; Delver of the Depths, Imperial Huntsmarshall'''
+Something is festering in the depths of [[Delver_of_the_Depths#Lorenzo's_Deep_Pockets|Lorenzo's Deep Pockets]]. Following investigations by the [[Shuttered Lantern]], the [[Grandmaster]] of the [[Rod and Shield]] chose to take action, directing their order to deal with the growing threat. Battle mages and war-witches have made the journey to the north-western Empire, to beard the creature in its lair, and uncover the true horror lurking in the deeps; the ''Braying Lord'', an [[Plaguewulf#Elder_Plaguewulfs|elder plaguewulf]], the same creature whose malice led to the [[Delerium#Canker|destruction of Isember]], and whose wicked corruption has subverted dozens of Imperial citizens to its will.
+
+You can find out about the situation at Lorenzo's Deep Pockets, and opportunities to deal with the threat before it gets even worse, in the '''[[How to be dead]]''' wind of fortune.
+===Unspoken Words===
+* '''Dawn; Imperial Orcs; Navarr; those interested in the Barrens'''
+Despite the apparent peace, the situation in [[the Barrens]] remains febrile beneath the surface. Like the calm before the storm, there is a nervous energy in the air, a sense of unfinished business that is yet to be resolved. Torn between the rival directions of the [[Dawn|Dawnish]] Assembly and the Dawnish [[senator|senators]], the fate of the Barrens twists in the wind.
+
+You can learn more about the situation in the Barrens, and questions of where everyone goes next, in the '''[[Unspoken words]]''' wind of fortune.
+===All the Way to Anvil===
+* '''Among others... Rozjenca Vokovitch von Temeschwar, League national assembly; those interested in weird mushroom products; willing test subjects; tombola participants; friends of Melissa (whatever ''that'' means); discreet physicks; Navarr; Grieftender of the Forgotten'''
+The powers of the Empire gather at [[Anvil]] for the Autumn Equinox, drawn to the heart of the nation to talk, to argue, to trade, to laugh and cry together and to plan for the future. To engage in the complex unending dance whereby the skein of the Empire is woven. Where the wealthy and the powerful gather, their presence draws others as well - those with goods to sell, secrets to trade, or business of their own to arrange. They may come in secret, or they may be ostentatious in their approach making it clear to everyone their intent to come to the pulsing heart of the Casinean Empire to ply their wares. Of the many folk coming to Anvil this season, here are a handful whose intentions - at least on the surface - are known by rumour, whispered word, or in a few cases, nicely printed posters.
+
+You can learn about some of the peculiar people (of all kinds) coming to Anvil in the '''[[All the way to Anvil]]''' wind of fortune.
+
+===Graveyard Rats===
+* '''Citizens of Temeschwar, especially priests; Imperial Senate; Guardian of Giselle's Tomb; Grandmaster of the Unfettered Mind; Senator for Temeschwar'''
+For the better part of a year, [[Temeschwar]] has been suffering a [[Pitter patter|plague of rats]]. After extensive investigations by the [[Unfettered Mind]], the city's Chamber of Commerce chose to retain the services of one of the oldest, but least wealthy, guilds in the city - the Ratkings. Experts in vermin control, and veterans of the sewers and underground tunnels that flow under any [[the League|League]] city, the problem seems to be under control. Under control... but not ended. There is still something malign in Temeschwar, but perhaps the Autumn Equinox presents an opportunity to address it more directly?
+
+You can learn about the situation in Temeschwar, and some opportunities arising from the chaos, in the '''[[Graveyard rats]]''' wind of fortune.
+
+===You Could Be Happy===
+* '''Citizens and priests of Dawn, Urizen, and Varushka; Imperial Senate'''
+Last season the General Assembly upheld a judgement with a greater majority by Herminius of the House of the Wanderer calling on the citizens of the Empire to be proactive in the threat presented by the Druj. This was supported by a judgement raised by Tuuli in the Wisdom Assembly, also upheld with a greater majority. This has struck a chord with the people of the Empire; for simply too long have the Druj been allowed to attack the eastern territories. The chord becomes a song as the message is spread across the Empire, but it resonates most in those nations that border the hated orcs of the Mallum.
+
+You can learn about what this could mean for nations that border the Druj in the '''[[You could be happy]]''' wind of fortune.
+===Tourney of the Damned===
+* '''Dawn and Varushka, especially citizens of Weirwater and Karov; those interested in the Deadwood Knight or the Schlacta of Rot; Imperial Military Council'''
+For the past year an unliving abomination called variously the Deadwood Knight and the Schlacta of Rot has been gathering strength in the wild places of northern [[Weirwater]] and southern [[Karov]]. The creature is a cadaverous warrior and a lieutenant of the Varushkan [[Varushkan_Monster#Sovereigns|sovereign]] known as the ''Howling Queen''. This is not the first time he has emerged, but on this occasion, however, something went wrong with his challenge. He apparently intends to conquer Dawn and turn it into a hollow mockery of life as a kingdom of the dead with himself as its master. He is about to launch his first attack...
+
+You can learn about the situation on the borders of [[Dawn]] and [[Varushka]], and about the faint hope of heading off disaster, in the '''[[Tourney of the Damned]]''' wind of fortune.
+===Nightcall===
+* '''Wintermark mystics; Imperial Senate'''
+Having consulted the omens, the [[mystic|mystics]] of Ishal have come to believe that the best way they can put their skills at the service of the nation is to travel [[Wintermark]] and beyond, seeking signs or omens that might offer some [[opportunity]] for the nation to advance their interests. Their plan is for the [[Raven Seer]] to provide them with guidance on whatever problem most vexes the nation currently and then armed with their knowledge they will go in search of [[Wisdom]]. This season the Raven Seer asked the mystics to seek out new ways for Wintermark's magicians to protect [[Kallavesa]], particularly that at the moment [[Dripping Echoes of the Fen]] is no longer as effective as it once was. 
+
+You can learn about what the mystics propose, and an opportunity provided by one of them, in the '''[[Nightcall]]''' wind of fortune.
+===As It Is When It Was (Winds of Magic)===
+* '''Citizens of Casinea, Imperial Censor; Wintermark Artisans; Navarr herb garden owners, and apothecaries everywhere; Imperial Spymaster and Advisor on the Feni; Vigilance assembly, and guisers, mountebanks, volhov; Thule watchers; those sending letters to Lashonar; Keeper of Happiston fields; the Academy, the Archmage of Autumn, Erasmo di Tassato, and anyone planning on bidding on the Loom of Spells this season; Grim Gardener'''
+Not every strange event is magic, not every magical thing is strange. Magic isn't always the purview of magicians either - there is magic in all kinds of places from the herbs favoured by physick and apothecary to the materials drawn from mines and forests. One thing is sure though, from the most mundane [[hearth magic]] to the strange influence of [[Astronomancy|the stars]], to the vagaries of fate and chance, it changes what it touches. And, as the philosophers say, you cannot cross the same river twice. Here we learn about magic that arises from the actions of mortals, or which has unknown provenance.
+
+You can learn about magical events around the Empire, as well as opportunities for all kinds of people, in the '''[[As it is when it was]]''' wind of fortune.
+===Hey Now How You Doing? (Winds of Magic)===
+* '''Imperial Conclave; Ignacio I Zuhri I Erigo; Dean of the Lyceum, magicians of Navarr; friends of Flavio i Flav i Riqueza; Summoners of the Loquacious Birds, people of Varushka and Dawn especially those who dislike the orcs of the Barrens; visionaries; anyone with a struggle; Polemarch of Highwatch; people living in Madruga'''
+Some magic comes from outside the Empire, from the creatures of the realms. Here we read about boons offered, and boons removed. Here we learn about the search of [[Kimus]] for a missing dolphin; boons from [[Sadogua]] for scholars and mage-warriors; the search of [[Ephisis]] for a legendary Freeborn corsair; the disgruntlement of [[Lashonar]]; the visionary interest of [[Sung]]; the little gifts of [[Irra Harah]]; a deal broken with [[Zakalwe]]... and also [[Tharim]] is here. And [[Agramant]] too!
+
+You can learn about the doings of these eternals, and the boons they grant and remove, in the '''[[Hey now how you doing?]]''' wind of fortune
+
+===Rising in Runegrott===
+* '''Keeper of the Runegrott; Grimir of Wittal Grove, Grandmaster of Rod and Shield, Benefactor of Regalia, Guardian of Apfal, Seer of the Spiral Sword; Basilisk of the Bourse; Senators for Hercynia and Therunin, Inquisitor of Loyalty''' 
+At the last Winter Solstice, the Empire saw the would-be sodality called the Rising Tide work with the [[Basilisk of the Bourse]] on shared goals of [[Prosperity]]. They turned their attention to [[Canterspire Circle]] where they were introduced to some of the finest dye-makers in the world and the [[Gloaming Merchant]]. This season the 'Tide have sought out more opportunities of their own, following a visit to Anvil in the Summer. They have new proposals to make, and new opportunities to present. 
+
+You can hear about what the Rising Tide suggest, especially with regard to Wintermark, in the '''[[Rising in Runegrott]]''' wind of fortune.
+
+==Other Events==
+===Sing of Eagles===
+<div style="float:right; width: 200px; clear: right;">{{CaptionedImage|file=Assembly Pride.png|align=right|width=200}}</div>
+* '''Last season the General Assembly chose to create an inspirational location in memory of Ozren de Orzel at Sandling, Weirwater'''
+* '''The academy that is to be the anchor of the consecration has yet to be commissioned or paid for'''
+* '''The crisis of faith provoked by the revelations about Vardas will prevent any profound effects of the consecration until it is resolved'''
+* '''The High Bard has provided a list of eighty-one names to the Witches of Culwich at their request'''
+{{:An eagle in song}}
+===Ways and Means===
+<div style="float:right; width: 200px; clear: right;">{{CaptionedImage|file=Assembly Wisdom.png|align=right|width=200}}</div>
+* '''Citizens across the Bay of Catazar are learning what they can about the monsters of the Grendel and Children of Wrecks'''
+* '''They will present their findings as soon as they are ready'''
+Last season the Wisdom Assembly upheld a [[386YE_Summer_Solstice_Synod_judgements#Judgement_44|judgement]] by '''Maelfaisance Remys''' with a greater majority that called on citizens to seek Imperial veterans and hear their tales of shark-slaying and kraken-killing. To find out about the soft underbelly, the armour-chink, and the weaknesses of the monsters of the [[Grendel]]. This has seen a slow but steady take up and, though they haven't much to show for it yet, the ball is now rolling on the project. The ''Sanguine Shields'', the sodality that has sprung up around it, are keen to continue their work and will present it to the wider Empire once they have managed to talk to veterans and catalogue enough information.
+
+'''OOC Note:''' We will add pages for the various monsters that the Grendel and the Children of Wrecks field on battles.
+
+===Hands Open===
+{{SOP|by=Aliss Thorn, Marcher Assembly|statement=Wisdom knows all knowledge is incomplete. We send Aliss Thorn with 15 liao to encourage artisans to travel to Oakwood to help the smiths recover and rediscover the lost art. The Virtuous apply what they have learned.|vote=Greater Majority (244-0)|when=386YE Summer Solstice}}
+* '''The Marcher smiths have been reconciled with the nation'''
+* '''The archetype will be available after the Autumn Equinox'''
+The mandate to integrate the [[Rock_and_a_hard_place|Marcher smiths]] was passed and enacted by '''Aliss Thorn''' during the Summer Solstice. Artisans have travelled from all over the Marches to Oakwood to speak with the smiths. The Marcher nation will be reconciled with the lost tradition of their forebears. Those who have integrated have meshed with the nation and been accepted by the egregore, but there are likely to be potential "''teething issues''" as they come to terms with a fundamentally changed world.
+
+'''OOC Note:''' the ''smith'' archetype will be added to the list of Marcher archetypes after the Autumn Equinox 386YE. It is not possible to play one of the original smiths as a character.
+
+<big>'''Participation'''</big><br>
+Any artisan or crafter of any kind can have gone to Oakwood Monastery to support the integration of the smiths into the nation. The smiths are by and large mostly confused but are fundamentally Marchers and have been accepted into the nation by the egregore. Stories around them would involve hard working and hearty folk who want to prove themselves the best at what they do, whilst being appreciative to both those that helped them leave whatever they were in and those who have supported them since.
+
+==Trade Summary==
+Rather than spread this information out around the various foreign nations, we've collected it here for ease of reference.
+* '''Asavean Archipelago:''' The port of [[Asavean_Archipelago_ports#nemoria|Nemoria]] is closed to Imperial trading vessels. 
+* '''Axos:''' The Axos continue to be annoyed about revelations relating to Imperial involvement in the failure of their [[Roll and fall|joint venture with the Grendel]] into the Mountains of the Moon. Consequently, Imperial fleets suffer penalties to trade with Axos. A fleet captain trading at the [[Axos_ports#Towers_of_Kantor|Towers of Kantor]] suffers a -2 rank penalty.
+* '''Commonwealth:''' The ports of [[Commonwealth_ports#Leerdam_.28Eastern_Commonwealth.29|Leerdam]] and [[Commonwealth_ports#Volkavaar_.28Western_Commonwealth.29|Volkavaar]] welcome Imperial traders. Fleets trading with either Commonwealth port benefit from a 1 rank bonus due to the [[Authority_and_acceptance#Red_Sails|Asavean bounty]] on fleets trading with the Empire.
+* '''Principalities of Jarm:''' The ports of [[Principalities_of_Jarm_ports#Kavor_.28Northern_Principalities_of_Jarm.29|Kavor]] and [[Principalities_of_Jarm_ports#Vezak_.28Southern_Principalities_of_Jarm.29|Vezak]] remain closed to Imperial fleets.
+* '''Sarcophan Delves:''' Imperial captains continue to be welcomed in the Delves. Fleets trading with the great port-city of [[Sarcophan_Delves_ports#Sarcophan|Sarcophan]] receive an additional dose of [[Marrowort]] and an additional dose of [[Imperial Roseweald]] on top of their normal production. The port of [[Sarcophan Delves ports#Betovering|Betovering]] is open to Imperial fleets. Fleets trading with either Sarcophan port benefit from a 1 rank bonus due to the [[Authority_and_acceptance#Red_Sails|Asavean bounty]] on fleets trading with the Empire.
+* '''Sumaah Republic:''' There is no penalty to trade with Zemeh and Imperial fleets are welcomed. Be aware that the amount of liao offered has been reduced as per the '''[[Guide_the_spirit#The_Liao_Trade|Guide the spirit]]''' wind of fortune. Fleets trading with Zemeh benefit from a 1 rank bonus due to the [[Authority_and_acceptance#Red_Sails|Asavean bounty]] on fleets trading with the Empire.
+* '''Grendel:''' The port of [[Everything_has_a_price#A_New_Destination|Oran]] is closed to Imperial fleets.
+* '''Iron Confederacy:''' The port of [[Iron_Confederacy_ports#Robec|Robec]] is available for Imperial fleets but suffers a -1 rank penalty due to sanctions from the Suranni.
+* '''Faraden:''' The port of [[Butterfly_in_reverse#Trade_with_the_Faraden|Caitun]] is available for Imperial fleets. Fleets from the Marches and Wintermark benefit from a +1 rank bonus due to close proximity.
+
+==Mandates==
+* '''You can find details of the mandates, along with the rest of the Synod judgements, [[386YE_Summer_Solstice_Synod_judgements#Mandate|here]].'''
+A number of [[mandate|mandates]] were successfully upheld in the Imperial Synod last season. As long as the named priest provided sufficient liao, those mandates have been [[Mandate#Implementing_a_Mandate|automatically enacted]].
+
+==Summer Conjunctions==
+* '''Last event there were a number of conjunctions of the Sentinel Gate; their known outcomes are listed here'''
+During the Summer Solstice, there were a number of [[Sentinel_Gate#Conjunctions|conjunctions]] of the [[Sentinel Gate]] identified by the Imperial prognosticators. In each case a band of Imperial heroes used that conjunction to travel to a location far from Anvil and intervene in an ongoing situation. These are the known outcomes of those conjunctions. In the case of battles, it is important to remember that the [[Military Council]] can only make use of ''two'' of the major conjunctions each summit, choosing which to take advantage of during the Muster.
+===Major Conjunctions===
+<table><tr><td style="background-color: LightGray;">Location</td><td style="background-color: LightGray;">Opportunity</td><td style="background-color: LightGray;">Opposition</td><td style="background-color: LightGray;">Link</td><td style="background-color: LightGray;">Outcome</td>
+<tr><td>[[Therunin|Therunin, Lower Tarn Valley, Tarn Bend]]</td><td>Prevent the Slaughter</td><td>Druj</td><td>[[Ashes#Poison_and_Ashes_(Battle_Opportunity)|Ashes]]</td><td>Field Marshal was '''Lofyn Blood-cloak''' of [[Wintermark]]; the Druj advance was slowed; the concoctions within the Sephals Cauldron was unleashed on Lower Tarn Valley. </td></tr>
+<tr><td>[[Madruga|Madruga, Siroc Plains, Sabadellano]]</td><td>Assassinate Governor Rahab</td><td>Grendel</td><td>[[Below_the_thunders#Diamonds_are_Forever_(Battle_Opportunity)|Below the thunders]]</td><td>Field Marshal was '''Zoran De Orzel''' of [[Dawn]]; ''Governor Rahab'' was assassinated; the Asavean plan was discovered and [[Harvest_of_infamy|foiled]]; the Dùthcha-Éadrom was recovered; the Star of Attar was claimed; the fate of ''Maistir Rígbarddán Dubh'' is unclear.</td></tr>
+<tr><td>[[Bregasland|Bregasland, Gravenmarch, Rock Foot Wood]]</td><td>Stop the Burhfæst</td><td>Jotun</td><td>[[Only_forward#Shadow_of_the_Rock_(Battle_Opportunity)|Only forward]]</td><td>Not taken; the Burhfæst has been established in [[Bregasland#Gravenmarch|Gravenmarch]]; ''Svynna of Ldansk'' still lives.</td></tr>
+</table>
+
+===Normal Conjunctions===
+{|table class="wikitable sortable"
+|-
+! # !! Location !! Responsibility !! Overview !! Result
+|-
+| 1 || Skallahn, Iron Stand, Auguaard's Bluff || [[Champion of Ambition]] || [[Children_of_Wrecks#Heading_West_(Skallahn)|Kill the Jotun]] || Jotun defeated and 14 wains of weirwood delivered to '''Eldrid Vestardottir'''
+|-
+| 2 || Madruga, Great Grasses, Broken Plain || [[Burning Falcon|General of the Burning Falcon]] || [[Tread_of_dust_and_darkness#Dry_Falcons,_Dry_Drakes_(Conjunctions)|Defeat the Dry Patricians]] || All Dry Patricians and Ashwalkers defeated. The Burning Falcon have been reinforced by fifty kohan
+|-
+| 3 || Mitwold, Meade March, Jenny's Copse || [[Bailiff of the Grand Market]] || [[Only_forward#Choices_(Mitwold)|Slay Urse Longarm]] || ''Urse Longarm'' successfully killed and rest of Jotun defeated
+|-
+| 4 || Temeschwar, Hanuri, Terrier's Roar || [[Temeschwar|Senator for Temeschwar]] || [[Pitter_patter#The_Terrier's_Roar_(Conjunction)|Meet with the Rat Kings guild]] || Unknown but '''Giuseppe Sanguineo von Temeschwar''' the Senator for Temeschwar should know more
+|-
+| 5 || Madruga, Great Grasses, The Arid Pass || '''Tancred of Meade''' || [[Tread_of_dust_and_darkness#Dry_Falcons,_Dry_Drakes_(Conjunctions)|Defeat the Dry Patricians]] || All Dry Patricians and Ashwalkers defeated. The Drakes have been reinforced by fifty yeofolk
+|-
+| 6 || Hahnmark, Wood Heath, Dun's Reach || '''Tobrytan Dunning''' || [[Last_rays_of_the_sun#Fading_Words_(Hahnmark)|Stop the ''scions'']] || ''Scions'' defeated 
+|-
+| 7 || Spiral, Screed, South-East of Harrier's Nest || '''Estella Lucati''' || [[The_city_below#A_Marvelous_View_(Conjunctions)|Rescue the citizens]] || All citizens rescued successfully
+|-
+| 8 || Redoubt, Naris, Tilphussian Pass || [[Penumbral Watcher]] || [[Last_rays_of_the_sun#A_Message_Sent_(Redoubt)|Stop the ''scions'']] || ''Scions'' defeated with some Imperial casualties
+|-
+| 9 || Spiral, Screed, South-West Harrier's Nest || [[Mistress of Medicine]] || [[The_city_below#A_Marvelous_View_(Conjunctions)|Rescue the citizens]] || All citizens rescued successfully
+|-
+| 10 || Miekarova, Srodkoja, Biljana's Sward || [[Master of Ice and Darkness]] || [[Last_rays_of_the_sun#Pale_Shadows_(Miekarova)|Stop the ''scions'']] || ''Scions'' defeated
+|-
+| 11 || Madruga, Free Landing, The Baleen Cave || [[Champion of Vigilance]] || [[Children_of_Wrecks#Uncharted_Waters_(Madruga)|Find out what is going on]] || Unknown but '''Jared''' the Champion of Vigilance should know more
+|-
+| 12 || Brocéliande, Boar's Dell, Starstrand Steading || [[Spear of the Seven]] || [[Tales_of_mystery#Starstrand_(Conjunction)|Resolve the mystery of Starstrand steading]] || Unknown but '''Corwyn Heartsbane''' the Spear of the Seven should know more
+|-
+| 13 || Madruga, The Great Grasses, Villa of Aldea di Tutamen || [[Hakima of Salt and Sand]] || [[Tread_of_dust_and_darkness|Deal with ''Aldea di Tutamen'']] || Unknown but '''Bakar i Riqueza''' the Hakima of Salt and Sand should know more
+|-
+| 14 || Madruga, Calvos Sound, Orchard of Tabhorios || [[Strategos|Strategos of the Brass Coast]] || [[Children_of_Wrecks#Glowing_Embers_(Madruga)|Find out what is going on]] || ''Tabhorios'' revealed to have joined the Children of Wrecks. All wreckers killed
+|-
+| 15 || Mitwold, Oddmire, Halebale Farm || [[Champion of Prosperity]] || [[Kith_and_kin#Raiders_Returning_(Conjunction)|Ensure the ghosts are exorcised]] || All ghosts exorcised
+|-
+| 16 || Sarvos, Bocche, Ferocity's Stand || [[ Jade Custodian]] || [[Children_of_Wrecks#After_the_Storm_(Sarvos)|Stop the wreckers]] || Ritual prevented and all wreckers killed
+|-
+| 17 || Mournwold, Southmoor, Glen of Red Shadow || [[Friar of Honour's Rest]] || [[Standards#Tribute_(Conjunction)|Track down the source of the ghosts]] || All ghosts exorcised
+|-
+| 18 || Necropolis, Longbeach, Grove of Silence || [[Ambassador to the Sumaah Republic]] || [[Guide_the_spirit#Ripped_Away_(Necropolis)|Stop the wreckers]] || Wreckers defeated and ''Kauitalic'' rescued
+|-
+| 19 || Temeschwar, Hanuri, The Old Priory || [[Unfettered Mind|Grandmaster of the Unfettered Mind]] || [[Pitter_patter#King_of_Rats_(Conjunction)|Speak with ''Brinton von Temeschwar'']] || Unknown but the Grandmaster of the Unfettered Mind should know more
+|-
+| 20 || Sermersuaq, Suaq Wastes, The Howling Steppe || '''Liv Tidgaring''' || [[Farm,_fur,_and_fish#Out_of_the_Storm_%28Conjunctions%29|Kill the Jotun and deal with ''Big Icebarn'']] || ''Big Icebarn'' dealt with and Jotun killed
+|-
+| 21 || Redoubt, Siluri, Lucia's Holt || [[Prelate of Adelmar's Shrine]] || [[Drumbeat_of_war#Other_Weapons_(Conjunction)|Defeat the Grendel]] || Grendel and Asaveans defeated
+|-
+| 22 || Madruga, Siroc Plains, Road to Sabadellano || '''Nicassia Avicia of Phoenix Reach''' || [[Below_the_thunders#Gift_of_a_Blade_(Madruga)|Assassinate Questioner Polh]] || Grendel defeated and '''Nicassia Avicia of Phoenix Reach''' should know more
+|-
+| 23 || Sermersuaq, Suaq Wastes, Desolate Tarn || [[Keeper of the Runegrott]] || [[Farm,_fur,_and_fish#Out_of_the_Storm_%28Conjunctions%29|Kill the Jotun and deal with ''Little Icebarn'']] || ''Little Icebarn'' dealt with and Jotun killed
+|-
+| 24|| Ayereed, Gainmeachdubh, Dunreagh's Brush || [[Red Wind Corsairs|General of the Red Wind Corsairs]] || [[Children_of_Wrecks#To_Teach_and_Learn_(Ayereed)|Kill the Grendel]] || Grendel and Asaveans defeated and 12 wains of mithril delivered to '''Delora i Sol-Devorador i Erigo'''
+|-
+| 25 || Sermersuaq, Silver Peaks, Aino's Rest || [[Ambassador to Otkodov]] || [[The_price_of_peace#A_Hound_of_Darkness_(Sermersuaq)|Kill Maarik the Golden Tongue]] || ''Maarik the Golden Tongue'' killed
+|-
+| 26 || The Barrens, The Bleaks, The Hollow Tree || [[Knight-protector|Knight-protector of Winter]] || [[Ashes#Fanning_the_Sparks_(The_Barrens)|Stop the Druj and the heralds of Surut]] || Heralds of Surut and Druj defeated
+|-
+| 27 || Forest of Ulnak, Grimfen Mire, Varnalis' Cache || [[Champion of Prosperity]] || [[Children_of_Wrecks#The_Thread_Burns_(Forest_of_Ulnak)|Claim the stockpile]] || Heralds of Surut and Druj defeated and 16 wains of white granite delivered to '''Hugh Farrier'''
+|-
+| 28 || Karsk, Moresvah, Gorek's Hollow || [[Custodian of the Lost]] || [[Tales_of_mystery#The_Lesser_Sadness_(Conjunction)|Find out what is going on in the vale of Gorek's Reach]] || Unknown but '''Anthemius Netherwatch''' the Custodian of the Lost should know more
+|-
+| 29 || Morrow, Peregro, The Still Glade || [[Advisor on the Vallorn]] || [[Ashes#Twilight_(Morrow)|Kill the Druj and rescue ''Megaris'' if possible]] || Significant Imperial casualties. ''Megaris Sunspire'' was not recovered
+|-
+| 30 || Sarvos, Foracci, Solare Estate || '''Constanza i Kalamar i Guerra''' and '''Marta i Guerra''' || [[Tales_of_mystery#Best_in_the_World_(Jaheris_and_Eleonaris)|Engage in and observe a debate between the self-professed best in the world]] || Unknown but '''Constanza i Kalamar i Guerra''' and '''Marta i Guerra''' should know more
+|}

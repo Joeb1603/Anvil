@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:387YE Summer]]
+__NOTOC__
+<quote by="Announced by Lucrezia Corvinascura, Chair of the Wolf">To celebrate two years of friendship, prosperity, and the completion of the League's reckoning with Urizen, our premier building society - Red Raven Holdings - commissions this gift to our neighbours in Spiral: to build <u>The Dreaming Spire</u> upon Mount Cinnius, Ankra, Spiral. It will serve as a home for the Omphalos of Urizen, the Library of Solen's Doubt, and all Urizen Spiralites, wherever they may be. Irrespective of political boundaries, the Omphalos is the heart of Urizen's people, with whom we are proud to live, side by side. This edifice costs 26 wains of white granite and 30 thrones. It will create the title "Custodian of the Omphalos", with responsibility to epitomise and maintain Urizen culture in Spiral, to be appointed by the Urizen Assembly.</quote>
+==Overview==
+* Constructs an [[edifice]] in Ankra, [[Spiral]]
+* Announcement by the [[Chair of the Wolf]]
+* More information can be found in the '''[[Daybreak_in_Spiral#The_Omphalos|Daybreak in Spiral]]''' wind of fortune
+
+==Date==
+* Summer 387YE
+
+==Cost==
+* Costs as per opportunity
+* 26 white granite
+* 78 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_the_Dreaming_Spire}}
+==Outcome==
+* Now complete, any Urizen can take a new personal resource in Spiral for free until the close of downtime after the Spring Equinox 388YE
+* The title of [[Custodian of the Omphalos]] will be available to appoint for the first time by the Urizen Assembly at the Spring Equinox 388YE

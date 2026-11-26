@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:388YE Autumn]]
+__NOTOC__
+<quote by="Announced by Wistan Goodledger, Bearer of an Imperial Wayleave"> Of the commission on behalf of Enchantress Areloe. The Effervescent Brook, a new ministry in Groves Yard, Astolat, available to the Tender of the Phoenix Flame. The cost of 4 Wains of Weirwood, 4 rings of Ilium and 12 crowns will be provided by the Tender and the Vallorn Guard. By diverting the Whitesmoke Brook to the Phoenix Flame it provides tonics to fight the vallorn in exchange for Tempest Jade. There is no upkeep cost.
+</quote>
+==Overview==
+* Constructs a [[ministry]] in Grovesyard, Astolat
+* Announcement by '''Wistan Goodledger''', [[Bearer of an Imperial Wayleave]]
+* The effervescent brook was [[Goodwill#Silverfire_Steam|suggested]] by ''Gwinthav who speaks with Majesty'', herald of [[Meraud]].
+* The [[Tender of the Phoenix Flame]] was later [[388YE_Autumn_Equinox_Senate_sessions#Amend_Tender_of_Phoenix_Flame|amended]] to have custodianship of the Effervescent Brook
+==Date==
+* Autumn 388YE
+
+==Cost==
+* Costs as per opportunity
+* 4 wains of weirwood
+* 4 rings of ilium
+* 12 crowns in labour costs 
+* Three months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Effervescent_Brook}}
+==Outcome==
+Once complete, the Tender of the Phoenix Flame will be able to purchase ''Vials of Whitesmoke'' for [[tempest jade]]

@@ -1,0 +1,24 @@
+<div style="float:left; width: 250px; clear: right;">
+{{CaptionedImage|file=Ira of Felix's Watch.jpg |caption=The first Custodian of the Imperial War Memorial was appointed during the Winter Solstice 378YE|align=left|width=300}}</div>
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Highborn.png|caption=This title is appointed by the [[Assembly#The_National_Assemblies|Highborn Assembly]]|width=250px}}</div>__NOTOC__
+==Overview==
+The Custodian is an [[Imperial title]] in the [[Synod]]. It grants custodianship of a [[sinecure]]. The position was [[Construct memorial at Anvil |established]] by a motion of the [[Senate]] during the Summer Solstice 378YE. Following some confusion, the appointment method of the title was [[Amend_title_of_Custodian_of_the_Imperial_War_Memorial|clarified]] by the Imperial Senate in Summer Solstice 381YE.
+
+==Responsibilities==
+The Custodian of the Imperial War Memorial is responsible for ensuring the good maintenance of the war memorial itself. Traditionally, individuals who look after such monuments are called on to speak on behalf of the dead especially during memorial services.
+
+==Powers==
+===A Portion of Liao===
+The Custodian receives 9 doses of [[liao]] to the Custodian each season
+
+===Point of Pilgrimage===
+The Imperial War Memorial draws visitors from across the Empire. Some visitors, especially those who have lost loved ones, wish to make donations to help support the Custodian as someone who is traditionally called on to speak on behalf of the dead during memorial services. The Custodian of the Imperial War Memorial receives 4 crowns each season from these donations.
+
+==Appointment==
+The Custodian is a [[Highguard|Highborn]] [[appointment]] made by a [[judgement]] of the Highguard [[Assembly#The_National_Assemblies|National Assembly]]. This is a national title and can only be held by a Highborn citizen.
+
+The Custodian is appointed during the Spring Equinox each year. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the Highborn Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{CaptionedImage|file=Sarah of the Suns of Courous.jpg|caption='''Sarah''', Custodian of the Imperial War Memorial|align=left|width=400}}
+{{RecentElections|Custodian_of_the_Imperial_War_Memorial}}
+[[Category:Title]]
+[[Category:Highguard]]

@@ -1,0 +1,33 @@
+[[Category:Senate Motion]][[Category:388YE Spring]]
+__NOTOC__
+<quote by="Proposed: Holberg, Seconded: Sarvos">To commission the Lisabetta docks in Utterlund in Holberg. This great work will bring new prosperity not just to Holberg but to the other territories surrounding the Semmerlak, that the whole Empire may benefit from the GREATEST CITY IN THE WORLD. Senate invites the Sand Fisher orcs to build their trade enclave in the new port to trade weirwood. Senate thanks the Lijkkever family of the Sarcophan Delves for their expertise but regrets it does not grant them exclusivity at this time.
+</quote>
+==Overview==
+* Constructs a [[great work]] in Utterlund, Holberg, as per the '''[[Any_port_in_a_storm#A_New_Port|Any port in a storm]]''' wind of fortune
+* This commission received the support of the Lijkkever family, removing the increased cost for building in a marsh
+* Passed
+
+==Date==
+* Spring 388YE
+
+==Cost==
+* Costs as per opportunity
+* 75 wains of white granite
+* 50 wains of weirwood
+* 375 crowns in labour costs
+* Twelve months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Lisabetta_Docks}}
+==Outcome==
+Once complete, the Lisabetta Docks will have the following effects:
+* Raises the level of investment in businesses in Holberg
+* Raises the level of investment in fleets in Holberg engaging in trade
+* Boosts taxation from the territories bordering the Semmerlak by a total of 15 thrones a season
+* Establishes a new town on the Holberg coast
+* Establishes a ferry across the Nameless River allowing easy travel from Holberg to Ossium boosting trade between the two territories
+* Reduces the cost for Holberg characters to upgrade businesses by one white granite for a year after completion
+* Creates the League position [[Prince of the Imperatrix Docks]] 
+* Allows Holberg businesses access to purchase up to two wains of one type of bourse resource set by the Merchant-Prince of the Docks each season
+* Increases purchase prices for the [[Merchant Boyar of the Bittershore]] and the [[Harbourmaster of the Semmerlak]] by one tenth (rounded down)
+* Includes extensive offices for the Prince and their staff

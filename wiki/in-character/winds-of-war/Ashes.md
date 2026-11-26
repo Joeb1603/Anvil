@@ -1,0 +1,215 @@
+---
+title: Ashes
+source: https://www.profounddecisions.co.uk/empire-wiki/Ashes
+class: in-character
+topic: winds-of-war
+categories:
+- Recent History
+- 386YE Summer
+- Military Council
+- Winds of War
+event: 386YE Summer
+last_edited: '2026-09-05T15:07:42Z'
+revision: 144834
+in_character_boxes: 4
+---
+
+# Ashes
+
+*[Image: When the fire has passed, all that is left is ash.](https://www.profounddecisions.co.uk/empire-wiki/File:Ashen_Campfire.jpg)*
+
+## From Darkness to Darkness
+
+The [Eastern Sky](../../mixed/government/military/Eastern_Sky.md) have left, but the [Golden Sun](../../mixed/government/military/Golden_Sun.md) remain to watch over the people of [the Barrens](../nations/dawn/The_Barrens.md), and shortly after the Spring Equinox they are joined by the [Gryphon's Pride](../../mixed/government/military/Gryphon-s_Pride.md). On the far side of the wild territory are the army of the Black Wind, barbarian warriors from the sept of the same name. [Last season](../winds-of-fortune/Little_mercy.md#rahvin-and-the-black-wind) they were drawn here by the Empire's threat to exterminate their people. They are out of position, out of supply, exposed, in enemy territory. Yet they do not attack; they set up an encampment in sodden [Saltmarsh](../nations/dawn/The_Barrens.md#saltmarsh), and they wait.
+
+During the Spring Equinox a delegation of [Mallum](../barbarians/The_Mallum.md) [orcs](../../mixed/world/Orc.md) [came to Anvil](../winds-of-fortune/Little_mercy.md#poisoned-words) to negotiate the release of the Black Wind sept. A [treaty](../senate-sessions/386YE_Spring_Equinox_Senate_sessions.md#ratify-treaty-with-druj) was presented to the [Senate](../../mixed/government/senate/Senate.md), but rejected. A [second treaty](../senate-sessions/386YE_Spring_Equinox_Senate_sessions.md#ratify-treaty-with-the-rahvin), in which the orcs of the Rahvin sept, offered to reach out to their former sept-mates in the Black Wind and persuade them to turn against the Druj, was [vetoed](../../mixed/titles/The_Throne.md#power-of-veto) by [the Throne](../../mixed/titles/The_Throne.md) at the urging of [Dawnish](../nations/dawn/Dawn.md) [senators](../../mixed/titles/Senator.md).
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Soldiers of the Sun, we stay in the Barrens. We will provide a Solid Defence of our lands against any invading Druj force. The Black Wind are not to be classed as Druj. But should they attack we stand ready to defeat them.
+> >
+> > Zoran De Orzel, General of the Golden Sun
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Nobles and Yeofolk of the Gryphon's Pride, we are going home. Joining with the Golden Sun, we will resupply in Hope's Rest in the Barrens, and provide a solid defence against any incursion from the Druj
+> >
+> > Archavion Wolfborne, General of the Gryphon's Pride
+
+As the sun set on the Spring Equinox, the situation in the Barrens remained uncertain. An army of barbarians in the Barrens, who hate the Empire and the people of Dawn in particular, along with two Imperial armies. A sept of people leaving their homes in [Murderdale](../nations/dawn/The_Barrens.md#murderdale) and the [Carmine Fields](../nations/dawn/The_Barrens.md#carmine-fields) to go to their warriors and escape the threat of destruction.
+The Golden Sun stand guard, but they do not engage the Black Wind. The Gryphon's Pride follow their example. The Black Wind remain where they are. A few small bands issue forth to meet their people as they arrive from the west, to usher them to the relative safety of the fens and bogs, and then north into the [Forest of Ulnak](../barbarians/Forest_of_Ulnak.md), into the [Gult'thak Forest](../barbarians/Forest_of_Ulnak.md#ghulthak-forest).
+
+*[Image: EasternSky Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:EasternSky_Colour.png)*
+
+*[Image: QuietStep Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:QuietStep_Colour.png)*
+
+It takes almost the entire season for the sept of the Black Wind to cross the Barrens. Their leaders – their elders, their chiefs, their wise counsellors – were executed by the Iron Helms, and now they must feel their way east as best they can. A mass of frightened people moving slowly, terrified that at any moment the Dawnish knights might fall on them. Knowing that what awaits them is little better than what they leave behind, that they exchange the murderous rule of Imperial hegemony for the miasmic oppression of the Mallum.
+
+There are no incidents. The Black Wind hate the Empire only a little more than they hate the Druj; but they love their people more. A week before the Summer Solstice, the last of the refugees reach Saltmarsh, and the Black Wind decamp, following their sept across the Nameless River into the Mallum.
+
+The fragile peace of the Barrens persists. The Rahvin are still encamped around the Teeth, still in control of the [mithril](../../mixed/economy/Mithril.md). While a small number of Black Wind chose to join them rather than risk the dubious sanctuary of the Mallum, the sept as a whole has fled their homes in the eastern Barrens. The Karass remain in the [Untrod Groves](../nations/dawn/The_Barrens.md#untrod-groves) and [the Bleaks](../nations/dawn/The_Barrens.md#the-bleaks), perhaps chastened by the Imperial response to their slaughter of the Vendarri. The Great Forest Orcs continue to rebuild their homes in the [Eaves of Peytaht](../nations/dawn/The_Barrens.md#eaves-of-peytaht), repairing their fractured relationship with their friends in Navarr...
+
+… and then the first refugees begin to arrive from the south...
+
+## Ring of Ashes
+
+While the Dawnish armies are keeping a careful watch on the army of the Black Wind, the [Vigilant](../religion/Vigilance.md) in [Therunin](../nations/navarr/Therunin.md) notice something unsettling. Boats dredging [the Feverwater](../nations/navarr/Therunin.md#the-docks-at-feverwater) are going missing. Only a handful, and paragons know that the lake is dangerous at the best of times. By the time people realise that it is not only boats trawling the northern banks that are vanishing, it is too late.
+
+*[Image: The Thorns of Navarr swear to always be ready to fight in defence of their people.](https://www.profounddecisions.co.uk/empire-wiki/File:Thorns_in_the_Wood.jpg)*
+
+A massive host of the Druj cross into Therunin from the Sarangrave. Seven entire armies of Mallum orcs, pour out of the [Nesustak Forest](../nations/urizen/Sarangrave.md#nesustak-forest) into [Eastring](../nations/navarr/Therunin.md#eastring). Hidden Snake and Poison Crane. Hunting Scorpion and Jagged Claws. Flame Beetle and Red Lizard. And bringing up the rear, the corrupt magicians and sorcerers of the Tainted Basilisk. Their strategy is straightforward, for the Druj; to [smash the defence](../../out-of-character/rules/Army_orders.md#overwhelming-assault) of Therunin as quickly and as thoroughly as they possibly can.
+
+It's been a very long time since any Druj attacked the lands of the Navarr. There's been a rumour for a while, scandalous scuttlebutt, of some sort of agreement to protect Therunin and [Brocéliande](../nations/navarr/Brocéliande.md). If there is any truth to those tales, that arrangement is very clearly no longer in place.
+
+It is always difficult to assess Druj numbers but a conservative estimate suggests at least thirty-five thousand warriors, perhaps as many as fifty. They are moving quickly, recklessly, striking fast and decisively at key objectives. They face immediate resistance – Eastring has some of the best-defended [steadings](../nations/navarr/Steading.md) in the territory, and the Thorns maintain a vigilant watch against the marshes of the east knowing an attack may come at any time. They fight valiantly, courageously, desperately, but they cannot stand against the force the Druj have brought to bear. Steading after steading falls, and only the sacrifice of the people of the easternmost settlements allows news of the attack to reach those in the west of the region, giving some of them chance to escape into the Tarn Valley.
+
+The Druj do not take many prisoners in this attack. They kill as many people as they can, and while the stories coming from Eastring are confused and garbled, there is a common thread. They are not wasting time torturing the Navarr warriors; they just execute them quickly and horribly, and move on. Very few Navarr are being taken as slaves; a horrible suspicion begins to spread that this is the Druj showing their *respect* for the Navarr.
+
+While the bulk of the Druj invading forces wash over the steadings, seeking to overwhelm the defenders before they can properly respond to the onslaught, the forces of the Hidden Snake and the Red Lizard seize the [Thimble](../../mixed/titles/Thimble.md). The vast weirwood forest falls quickly despite the best efforts of the defenders. Once they are slain, the Hidden Snake defile the corpse glades where generations of Navarr and Imperial heroes have been laid to rest, nailing the most intact cadavers to the weirwood trees alongside the bodies of thorns and lumberjacks alike. Only the Great Forest Orcs who work the Thimble are spared; in a gruesome ceremony those taken alive – and there are few enough of those as many of the orcs choose to fight alongside the Thorns and share their fate – are wickedly branded on the chest and belly. Kept alive by Druj “medicine” each one is sent east in chains, their facility with weirwood trees a valuable commodity for the Druj attackers.
+
+As the Thimble is defiled, and most of the steadings overwhelmed, the Druj forces turn their attention to East Ashes. Stretching along the shores of the Feverwater, East Ashes is a twisted maze of great mangrove trees and murky water. The Druj run afoul of some of the [awful beasts](../world/Legendary_beasts.md#hydra) that lurk along the shores of the Feverwater, but they do not pause as they press south. Word has reached the steadings here that the invasion is underway, and the Druj face further stiff resistance. Again, though, the Navarr cannot stand for long against the hammerblow of the orc forces arrayed against them.
+
+Their target is the [Docks at Feverwater](../nations/navarr/Therunin.md#the-docks-at-feverwater), from which so many little boats set sail in recent years. Stealthily gathering the bounty of the lake, and ferrying scouts across the dark waters to the Sarangrave. The fortified steading holds against the orcs for four days before succumbing.
+
+A hundred or so refugees flee with [stridings](../nations/navarr/Striding.md) from southern East Ashes, making it across the border into northern [Zenith](../nations/urizen/Zenith.md) and then... no more. An eerie silence settles over the region. There is real fear in Urizen that the Druj will continue to press south into [Lustri](../nations/urizen/Zenith.md#lustri); the [fortification there](../senate-motions/Fortify_Lustri.md) is nowhere near completion. Yet such fears prove ungrounded. For now.
+
+## Blinded Eye
+
+As the Druj are moving in Therunin, they are also moving in Sarangrave. The last few scouts who make it across the Feverwater before the Druj seize the port bring harrowing tales of a last minute escape. The Druj have become aware of the [spy network](../../out-of-character/rules/Spy_network.md) operating in the marshes of the Mallum, and they have moved decisively to destroy it. The Arrow Vipers, the cunning army of [scouts and spies](../../mixed/government/military/Army_qualities.md#scouting) has unexpectedly come down from the north, and with the support of the Druj garrison at the [Tower of the Skink](../nations/urizen/Sarangrave.md#tower-of-the-skink) launched an all-out offensive against those keeping an eye on the dismal territory.
+
+Those Navarr engaged in [exploring the Mallum](../../out-of-character/rules/Military_unit.md#explore-the-sarangrave) bring horror stories of their own. Ambushes, traps, vicious fighting knee-deep in the waters of the Sarangrave and beyond. The Druj have turned their eyes inward, as well as outward, it seems. They have become aware of Imperial heroes making incursions into their lands and moved decisively to bring an end to them.
+
+One by one the shelters and caches in Sarangrave are identified and destroyed. One by one, the nodes in the Spy Network fall silent, contact with the remaining scouts lost. A few weeks before the Summer Solstice, the last stragglers emerge from the marshes into Lustri, and then nothing. It is assumed those left behind have been killed - or worse, taken alive by the Druj.
+
+| Captain | Nation | Territory | Banner |
+| --- | --- | --- | --- |
+| Geraint Bronwen's Rest | Navarr | Therunin | Open Skies |
+
+## The Shelter of the Oak
+
+The momentum of the Druj attack is beginning to ebb a little, but they are by no means done with Therunin. A month before the Summer Solstice, the Flame Beetle lead the bulk of the Hunting Scorpion and the Jagged Claws into the [Lower Tarn Valley](../nations/navarr/Therunin.md#lower-tarn-valley). To the [Holt of the Oak](../nations/navarr/Therunin.md#holt-of-the-oak). Built and garrisoned by the [Great Forest Orcs](../barbarians/Great_Forest_Orcs.md), the warriors here have not been idle. They gathered their spears as soon as word reached them that the Druj were coming and they marched out to Eastring to bolster the steadings there. They fought along the borders of East Ashes, doing their best to slow the Druj advance. As the Mallum invaders crush steading after steading, more and more folk fleeing the slaughter pass beneath the shadow of the Holt, and the orc spear-fighters and the Navarr thorns do their best to help them get to safety.
+
+Then the army comes. The garrison is already exhausted, depleted, but it fights. Sheltered by a great wall topped with living thorns, from the ramparts of the majestic weirwood towers within, the orcs prepare to stop the Druj advance. They do not fight alone – as well as handfuls of battered thorns driven out of the eastern regions, a lone Navarr warband joins the orcs of the Great Forest on the walls.
+
+As those who were there when [the Tower of the Scorpion Fell](Delirium.md#banner-of-the-burning-beetle) well know, the Flame Beetle are among the most destructive forces the Druj wield. They revel in ruin, exulting in the devastation of anything that seeks to stand against their tyranny and hate. The warriors that fight beneath the banner of the flame-wreathed beetle bear burning brands even during the day, bringing agonising burning death to any who fall into their hands. Many of these cruel orcs bear the lick of fire themselves, their skin scarred by awful burns. A corrupt badge of honour that, perhaps, serves as a twisted mirror to the graceful tattoos and brands the Navarr themselves favour.
+
+There is nothing graceful about the Flame Beetle. Their blind slaves, yoked like beasts, drag ramshackle siege engines and makeshift wagons through the mud, beaten and whipped when the catapults and ballistae inevitably founder in the waters of the marsh.
+
+They reach the towers of the Holt of the Oak as the sun is setting, through the night, the wet woodlands are alight with torches and bonfires – the Flame Beetle do not let a little thing like damp wood stop them. There is the sound of awful hammering and sawing and the shouts of slaves, and the thunderous drumming of the Druj warriors. As the sun rises, the Flame Beetle drag out two dozen captured Navarr thorns and brands, and a handful of surviving orc warriors. Their bodies are wracked with signs of torture as they are lashed to crude stakes before the siege engines. Then they douse them in oil, and set them alight, and their agonised screams signal the first barrage of burning missiles and barbed iron balls launched towards the fortification walls.
+
+Behind the barrage come the ladders. The Druj have not bothered with the siege towers and the fortified rams they have used in the past. The terrain here does not favour them. Instead, even as the assault against the tower continues, the Druj pour up the walls and through the living thorns that top them. The first wave are made up of lightly-armoured orcs with axes and even a few saws, who help clear areas of the thorns to make it easier for the rest of the warriors to overwhelm the walls. These warriors die by the dozen, but seem able to withstand incredible punishment before they die. A [potion master](../../out-of-character/rules/Surgical_skills.md#apothecary) could no doubt mark the symptoms of [Warming Armour](../../mixed/magic/potions/Double-sided_Blade.md#warming-armour) or [Weakening Sun](../../mixed/magic/potions/Double-sided_Blade.md#weakening-sun) on these poor fools who throw their lives away to preserve those of the Druj vanguard.
+
+The fighting on the walls spreads into the courtyard between the towers. The desperate defenders of the eastern gate are overwhelmed, the doors thrown open, and the Druj under the scorpion banners join the fray. Still the defenders do not give in. Every minute they can hold the Druj here is another minute that their families and friends have to find safety, to put another minute of distance between them and the orcs who will do worse than kill them.
+
+The end begins when the western tower finally collapses, burning rubble and debris raining down on the defenders. Then the other towers one by one begin to crumble. The wall, battered and broken by the relentless pounding of rocks and stones, cracks and breaks and it is all over. The Holt of the Oak – a symbol of the cooperation between the orcs of the southern Barrens and their Navarr allies – burns. The garrison is shattered – almost two thousand Great Forest Orcs and Navarr die in the fighting, their bodies consumed by the resultant conflagration.
+
+## Tread Carefully
+
+The Battle of the Oak, the sacrifice of the defenders, is not in vain. Months of fighting have blunted the Druj advance, at least for the moment. The great host of Mallum orcs regroups and regathers. Warbands fan out over Eastring and East Ashes, seeking to capture or kill, to locate the remaining steadings and lay siege to them. Others move up to join the Flame Beetle camped near the ruins of the Holt of the Oak, preparing no doubt to sweep up the Tarn Valley toward Peakedge Song – to secure the whole of the territory.
+
+Refugees are fleeing east, and north into the Barrens where the Great Forest Orcs offer sanctuary to their sept and their friends. The advance of the Druj into the Lower Tarn Valley has left several of the communities – Navarr and Great Forest Orc alike – cut off. Most are making preparations to try and leave, but it is uncertain if they will manage it before the Druj warbands reach them.
+
+As the Summer Solstice draws close, the gentle touch of Spring Magic begins to fall across Therunin. The Tainted Basilisk have been silent until now – their warriors busy supporting the armies of the Mallum on conquering the east, but their ghulai barely glimpsed. The waters of the marshes begin to [tingle with life](../../mixed/magic/rituals/Rivers_of_Life.md), with a kind of wholesomeness. At first, the folk of the western regions take the healing waters as a blessing – and in a way they are. But those who have studied the recent [reports out of the Sarangrave](../nations/navarr/Into_Béantal_Dol.md), from the scouts who explored [Béantal Dol](../nations/urizen/Sarangrave.md#béantal-dol), do not share their relief. And as the potent curse floods the territory with vitality and fertility, as the magic begins to take hold, the vallorn of Therunin begins to stir in its fitful slumber...
+
+## Game Information
+
+The Druj have conquered Eastring and East Ashes, and are two fifths of the way toward conquering the Lower Tarn Valley. As a consequence, with Navarr only controlling Peakedge Song, Upper Tarn Valley and Lower Tarn Valley, they have lost control of the territory. The Druj have not, however, taken control of the territory; they only control two of the seven regions. The vallorn controls Sweetglades and Greenheart. The territory is thus considered contested – although the [Senator](../../mixed/titles/Senator.md) for Therunin loses their seat in the Senate regardless. It is no longer possible to target Therunin from Anvil using the Imperial regio. The [supply](../../out-of-character/rules/Army.md#maximum-numbers-of-imperial-forces) of Navarr has not been affected by the loss of Eastring and East Ashes.
+
+The Holt of the Oak has been destroyed. The Thimble and the Feverwater Docks have been captured but are (currently) believed to be intact. The Sarangrave [spy network](../../out-of-character/rules/Spy_network.md) has been destroyed by the Druj; it will provide its final report at the Summer Solstice.
+
+The Druj have laid [Rivers of Life](../../mixed/magic/rituals/Rivers_of_Life.md) over Therunin. The curse brings healing, but it also brings a burst of vitality and fertility that risks rousing the attention of the vallorn in [Sweetglades](../nations/navarr/Therunin.md#sweetglades) and [Greenheart](../nations/navarr/Therunin.md#greenheart). Removing the curse requires the casting of [Rivers Run Red](../../mixed/magic/rituals/Rivers_Run_Red.md) – and doing so would be a serious crime as the ritual is [interdicted](../../mixed/government/conclave/Interdiction.md) by the [Conclave](../../mixed/government/conclave/Conclave.md).
+
+The [Dredgemaster of Feverwater](../../mixed/titles/Dredgemaster_of_Feverwater.md) has lost access to both their [ministry](../../mixed/titles/Dredgemaster_of_Feverwater.md#ministry) and their [income of ingots](../../mixed/titles/Dredgemaster_of_Feverwater.md#wreckage-of-the-past). Likewise, the Thimble will not provide [weirwood](../../mixed/economy/Weirwood.md) after the Summer Solstice unless it is recovered. The associated titles still exist, and still have responsibilities to protect and deal with threats to the commissions they oversee.
+
+The lone [military unit](../../out-of-character/rules/Military_unit.md) supporting the Holt of the Oak did not [receive a share](../winds-of-fortune/386YE_Summer_Solstice_interlude.md#imperial-guerdon) of the [Imperial Guerdon](../../out-of-character/rules/Military_unit.md#imperial-guerdon).
+
+## Participation: Therunin and the Mallum
+
+If your military unit undertook the [Explore the Sarangrave](../../out-of-character/rules/Military_unit.md#explore-the-sarangrave) adventure, or supported the Sarangrave spy network, you are encouraged to create stories of desperate fighting against the Arrow Viper and last-minute escapes back into Imperial territory. You will receive the normal production for the adventure as appropriate, but the *Explore the Sarangrave* adventure is no longer available, as the Docks at Feverwater and Mudlark's Haven are both in the hands of the Druj. Any Navarr character whose personal resource is in Therunin is welcome to create their own story of resistance against the Druj, within the parameters above.
+
+Any character whose military unit took the *Explore the Sarangrave* adventure, garrisoned the Holt of the Oak, or supported the spy network in the territory can email [plot@profounddecisions.co.uk](mailto:plot@profounddecisions.co.uk) before the 19th of July with their CID to request a lingering [traumatic wound](../../out-of-character/rules/Combat.md#traumatic-wounds) in their character pack at the event representing damage sustained escaping the Mallum. The [Custodian of the Thimble](../../mixed/titles/Thimble.md) and the [Dredgemaster of Feverwater](../../mixed/titles/Dredgemaster_of_Feverwater.md) can also choose to email plot@profounddecisions.co.uk if they wish to receive a lingering wound in their character pack.
+
+## Poison and Ashes (Battle Opportunity)
+
+The Druj have stormed into Therunin and slaughtered all who opposed them. Their savage onslaught has left the Holt of the Oak a charred ruin, and key steadings across the east of the territory similarly burn or are strewn with the corpses of the Navarr who tried to stop the Druj advance. Currently, there is no apparent safe haven among the deep forests and trackless swamps that blanket East Ashes, Eastring, and the Lower Tarn Valley. A stream of refugees has begun making their way north, out of the barbarians' path and away from the perhaps greater danger of the vallorn in Greenheart. Those fleeing are making their way to the Barrens and the safety of the Great Forest of Peytaht.
+
+A conjunction of the Sentinel Gate will allow the heroes of Anvil to reach the forests around *Tarn Bend*. Here a great loop of the murky river is forcing the Druj through an expanse of near impassable swampland, and into an area that will slow their progress over the days of the Summer Solstice. A chance to intervene can be made on either day as the orcs move through the area.
+
+### Objective: Slow the Druj advance
+
+- **Engage the Druj in two strategic locations and hold ground for sixty minutes**
+- **Force the barbarians to battle and distract them from the fleeing Navarr and Great Forest Orcs**
+- **Not taking the battle, or failing to stop the Druj will see a massive slaughter of innocents**
+
+The Great Forest Orcs who have escaped the destruction of their homes and the groves of the Thimble, along with many Navarr citizens are fleeing north. The fast-footed arkad fighters of the Druj are several miles behind them. It is certain that the pursuit will be over by the end of the solstice, one way or another. Thankfully, the barbarians have yet to ascertain how close they are to their quarry, so a strike against them will divert their attention from the pursuit and onto the more present threat of the Empire's heroes appearing in their midst.
+
+The war scouts have identified several key areas across Tarn Bend that provide excellent locations to attract and tie up the Druj. On either opportunity, two civil servant scouts will direct the Empire towards two strategic locations and advise the Field Marshall in bringing the barbarians to battle. Once the orcs are engaged, Imperial forces will need to hold ground, rotate troops, and resist Druj assaults until a full hour has passed. By this point, the Druj forces on the field will either have claimed victory or exhausted their troops to the point they abandon the wider chance and retreat to their armies to lick their wounds.
+
+Success will see the fleeing citizens of Navarr and the streaming columns of the Great Forest Orcs reach the protection of the Heart of Peytaht in the Barrens, safe from the Druj's pursuit, at least for now.
+
+### Objective: Prevent the use of the Sephals Cauldron
+
+- **Locate and then investigate the contents of the tepel's cauldron**
+- **Apothecaries will need to examine the nature of the poisons in the container to determine an effective counter**
+- **If the battle is not taken, or the cauldron remains in Druj hands, then it will be used to poison the swamps of the Lower Tarn Valley and Hopes Rest**
+
+In the wake of the barbarian assault has come the Druj tepel, *Thyla Handsplitter*, understood to be a learned apothecary from the citadel of Sephals in the Sarangrave. With them they bring a giant iron cauldron that brims with a noxious mix of toxins, venoms, poisons, and brews. Known as the Sephals Cauldron, it is rumoured to be a relic from the time of the original Druj ancestors, when the Buruk Tepel first mastered the arts of brewing and distilling to create the first potions and poisons.
+
+The concoctions within the container pose a serious threat to the wider Tarn Valley basin from the steading of Return to the lake below the ruins of Dourfell Keep in the Barrens. This area has a maze of connected aquifers and springs that the Druj now aim to taint with the cauldron, contaminating the very land beneath the Empire's feet. The tepel have already begun to poison the land they control with similar foul brews, steeping the waters of the swamps with poison, but the work is not yet complete. To get the maximum effect they need to pour the waters of the cauldron into the Tarn to unleash the poison. If this happens it will cause the regions of the Lower Tarn Valley and Hope's Rest to gain the [Poisoned](../../mixed/economy/Region_qualities.md#poisoned) quality as the ground waters are tainted.
+
+Should the cauldron be spilt during the battle then it will still poison the Tarn Valley, but Hope's Rest will be saved. To save both the Empire must find a way to neutralise the liquids within the Sephals Cauldron. The civil service propose the following course of action to render the cauldron's contents inactive:
+
+- Apothecaries will need to gain access to the cauldron
+- A volunteer will need to test the liquid by sampling it
+- The apothecaries will need to identify the poison from the volunteer's symptoms
+- Identify the antidote, then prepare it and pour it into the cauldron
+- Repeat the process until all the poisons are dealt with
+
+### Battlefield threat: The Beasts of Eastring
+
+- **The Druj have taken control of some of the monstrous insects found in Therunin**
+
+Therunin is famed for the plethora of insects that inhabit the forests and swamps of the territory. Crucially they grow *big* here, some of the dire insects can end up bigger than an adult human.
+
+During their assault into East Ashes the warriors of the Druj were able to capture a number of monstrous creatures that they are now driving alongside their forces. Among them are numerous scuttling purple beetles known as Dire Elytra that can [shatter shields and weapons](../../out-of-character/rules/Calls.md#shatter) with their great claws, and at least one hulking Dire Canthon bug twice the size of a human and capable of flinging ranks of soldiers with sweeping blows of its forelimbs.
+
+The creatures are a monstrous threat that the Druj will employ against any Imperial force they encounter.
+
+### Battlefield assistance: Zakalwe's Heralds
+
+- **Zakalwe will provide two of his myrmidons to help the Empire coordinate their forces on the battlefield if they wish**
+
+Heralds of the *[Master Strategist](../eternals/Zakalwe.md)* have informed the civil service of Zakalwe's desire to assist the Empire in combating the orcs of the Mallum, and he is offering the assistance of two of his Myrmidons during this venture to Tarn Bend. These warriors are able to commune with one another over distance, greatly enhancing the ability of forces alongside them to coordinate and tactically respond to happenings on the battlefield. One will remain with the Field Marshal, whilst the other Myrmidon will shadow another citizen chosen by the Field Marshal.
+
+## Conjunctions
+
+### Fanning the Sparks (The Barrens)
+
+- **A group of Druj are moving to the *Hollow Tree* to grant dominion to Surut**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Knight-protector of Winter* is responsible for stopping the Druj and the heralds of Surut**
+
+The *Hollow Tree* is a relatively weak, though persistent, Winter regio in [the Bleaks](../nations/dawn/The_Barrens.md#the-bleaks) that resonates with [cruelty](../../out-of-character/rules/Winter_magic.md#cruelty). Its longstanding connection to the territory allows a coven to use it to target the Barrens using Winter rituals, but doesn't allow a Winter ritualist to contribute more to rituals. It was a curio, a strange oddity that has mostly been ignored since the Empire took control of the Barrens. It could have easily continued being ignored for the next decade had it not been for the warning delivered by Chainwright; a herald of [the Bound King](../eternals/The_Thrice-cursed_Court.md#tharim).
+
+A group of Druj have entered the Barrens from [Sarangrave](../nations/urizen/Sarangrave.md) and are making their way through the Bleaks towards the Hollow Tree. Accompanying the Druj are a number of heralds of [the Burnt Steward](../eternals/The_Thrice-cursed_Court.md#surut) who - if not stopped - will claim the Hollow Tree for the Charred Prince. Chainwright asks that the Knight-protector of Winter demonstrate their prowess by defeating the Druj and the heralds of Surut and stopping dominion of the regio being given away. Given that this is a direct request it is the responsibility of the [Knight-protector of Winter](../../mixed/titles/Knight-protector.md), **Lady Nymeria Mortére**, to stop the Druj and the heralds of Surut. To assist with this task, and as a preemptive reward for completing the task set out, Tharim has sent Lady Nymeria Mortére a weapon "suitable for the knight of the finest realm". (**OOC Note:** The Knight-protector of Winter will find a ribbon for a [one-handed weapon](../../indexes/by-category/One-handed_Weapons.md) in their pack.)
+
+### Twilight (Morrow)
+
+> **Content Warning**  
+> This encounter will contain depictions of torture and could potentially involve depictions of assisted suicide. These themes are integral to the encounter and we would recommend players exercise caution if they are not comfortable experiencing them.
+
+- **A group of Druj have captured *Megaris*; a stargazer of Sunspire**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Advisor on the Vallorn* is responsible for killing the Druj and rescuing the stargazer if they can**
+
+The [Sunspire](../nations/urizen/Morrow.md#sunspire-ruined) is well known for its keen interest in the vallorn; it is a common stop for Navarri ritualists and brokers who often trade knowledge and news here. It also lies perilously close to the border with the recently lost East Ashes. Most of the Druj remain focused on Therunin, with most of them concentrated on hunting the Great Forest Orcs and the Navarr who fled north with them. Some Druj looked elsewhere for prey instead and managed to capture several [stargazer](../nations/urizen/Stargazer.md) on their way to loot the spire. All but one of them have passed away, either by the depredations of the Druj or by accepting the [Gift of Kaela](../eternals/Kaela.md#the-gift-of-kaela), leaving just *Megaris*.
+
+If the Druj are not stopped then Sunspire will be looted for anything worthwhile to the Druj and left a wreck. The fate of *Megaris* will likely be death, or some other [worse fate](../barbarians/Druj_lore.md#tortured-souls). If the Druj manage to loot Sunspire then they will no doubt uncover more information on the vallorn, as such the [Advisor on the Vallorn](../../mixed/titles/Advisor_on_the_Vallorn.md), **Nathair Autumngale**, is responsible for killing the Druj and rescuing Megaris if they can.
+
+---
+
+Categories: [Recent History](../../indexes/by-category/Recent_History.md), [386YE Summer](../../indexes/by-category/386YE_Summer.md), [Military Council](../../indexes/by-category/Military_Council.md), [Winds of War](../../indexes/by-category/Winds_of_War.md)

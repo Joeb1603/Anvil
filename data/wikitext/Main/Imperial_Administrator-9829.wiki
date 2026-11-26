@@ -1,0 +1,19 @@
+==Overview==
+The Imperial Administrator was an [[Imperial Title|Imperial title]] appointed by the [[Senate]]. It was [[384YE_Summer_Solstice_Senate_sessions#Create_Imperial_Administrator|created]] by the Senate during the Summer 384YE summit. The title was [[386YE_Winter_Solstice_Senate_sessions#Abrogate_Imperial_Administrator|abrogated]] during the Winter 386YE summit.
+
+==Responsibilities==
+The Imperial Administrator was expected to support the bodies of state in efficient and effective diplomatic, trading, and military efforts.
+
+==Powers==
+===Right of Address===
+The Imperial Administrator had the right to make a [[Senate address]] once per summit. This was intended to allow them to present important information for the senators' consideration. To make an address, the Administrator had to inform the [[Speaker for the Senate]] of their intention, so that the Speaker could add the address to the agenda for the next [[Senate session]].
+
+===Stipend===
+The Imperial Administrator received a stipend of 5 thrones each season from the [[Imperial treasury]].
+
+==Appointment==
+The Imperial Administrator was an Imperial position [[Appointments_by_the_Senate#Imperial_Position|appointed by the Senate]]. Any Imperial citizen could hold this title, and the Administrator served for a year. They could be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+{{RecentElections|Imperial_Administrator}}
+{{Senate Further Reading}}
+[[Category:Senate]]

@@ -1,0 +1,42 @@
+===Overview===
+The Quaymaster of the Municipal Docks is an [[Imperial title]] awarded to a citizen of [[the Brass Coast]]. Construction of the Municipal Docks was [[Construct Municipal Docks|proposed]] by '''Eulàlia i Phovas i Riqueza''', as the Senator for [[Madruga]], during the Winter Solstice 387YE. Construction of the docks, which also function as a [[shipyard]], was completed shortly before the Autumn Equinox 388YE, hastened by an [[388YE_Summer_Solstice_interlude#Hammers_of_Industry_(Madruga)|arcane projection]] being performed on the territory during the Spring Equinox 388YE.
+
+===Responsibilities===
+The Quaymaster of the Municipal Docks is responsible for overseeing the operation of the docks and protecting them from attack. Traders at the docks, especially from the Commonwealth, will likely look to the Quaymaster for aid in the first instance. If the docks were to be threatened in any way, it would be the responsibility of the Quaymaster to deal with those threats.
+
+==Powers==
+===Commonwealth Traders===
+<div style="float:right; width: 350px; clear: right; margin-left: 10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color:LightYellow;">'''Trade Purchases Volkavaar'''</td></tr>
+<tr><td>50 rings</td><td>1 Hero Stones</td></tr>
+<tr><td>6 crowns</td><td>2 Hero Stones</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color:LightYellow;">'''Trade Purchases Leerdam'''</td></tr>
+<tr><td>36 rings</td><td>1 draught of Clear Headedness</td></tr>
+<tr><td>4 crowns</td><td>2 draughts of Clear Headedness</td></tr>
+</table>
+</table></div>
+The Quaymaster of the Municipal Docks has access to a [[ministry]]. The Quaymaster can purchase [[Trade_goods#Hero_Stone|hero stones]] and [[Trade_goods#Draught_of_Clear_Headedness|Draughts of Clear Headedness]] from the Commonwealth traders of [[Foreign_ports#Volkavaar|Volkavaar]] and [[Foreign_ports#Leerdam|Leerdam]] respectively, for set prices. The Quaymaster makes their decision on how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+===Redirect the Wealth===
+The Municipal Dock serves as a [[great work]] that increases investment in [[fleet|fleets]] which undertake trading, questing, or raiding [[voyage|voyages]], and [[business|businesses]] in Madruga.
+
+If an appropriate [[opportunity]] has been identified by the Civil Service, the Quaymaster may redirect the wealth of the Municipal Docks towards a specific situation in which the wealth would be of use. To use this power, the Quaymaster provides an [[Senate_announcement|announcement]] to the Civil Service, who present the decision to the [[Senate]]. No voting is possible by the Senate at this point, as the power has been vested in the Quaymaster. The [[Synod]] may, however, choose to exercise their [[veto]] over the Benefactor's decision.
+
+If the bounty of the docks is redirected, then it will provide no benefit to the fleets and businesses of Madruga, nor will the Quaymaster be able to purchase goods from the Commonwealth traders for as long as the redirection is in place.
+
+==Appointment==
+The Quaymaster of the Municipal Docks is appointed during the Spring Equinox. The Quaymaster of the Municipal Docks is appointed by citizens of the Brass Coast who control [[fleet|fleets]]. The voting is handled by the civil servants in the Bourse. 
+
+Only a Freeborn character may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+
+{{RecentElections|Quaymaster_of_the_Municipal_Docks}}
+==Funding==
+Click ''Expand'' to see the list of contributions made to construct the Municipal Docks.
+<div class="mw-collapsible mw-collapsed">
+{{CommissionProgress|Construct_Municipal_Docks}}
+</div>
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:The Brass Coast]]
+[[Category:Bourse]]

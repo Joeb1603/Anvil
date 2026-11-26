@@ -1,0 +1,39 @@
+==Rules==
+{{Season|Spring|8}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Character}} The target character must have the [[Magical skills#Battle Mage|battle mage]] skill.
+
+{{enchantment}}
+
+===Effects===
+{{CaptionedImage|file=Viridian duLac.jpg|caption='''Llŷr Viridian duLac''', a powerful witch|align=right|width=200}}
+The target gains the ability to call [[Calls#CLEAVE|CLEAVE]] when wielding a [[Weapons_%26_armour#Staff|staff]]. The target must follow all the rules for casting an [[Spellcasting#Spellcasting#Offensive_Spells|offensive spell]], including spending a point of personal mana.
+
+They also experience a roleplaying effect: ''You feel an urge to use the power granted by this enchantment as your first response to any given threat. You feel a rush of excitement at the prospect of getting to use this ability. It is also especially exciting and enjoyable to observe nonmagical fires.''
+
+{{Season Duration}}
+
+===Additional Targets===
+This ritual can affect additional characters from the same [[Groups#Banner|banner]]. Each additional character increases the magnitude by 6. Additional characters must be present throughout.
+
+==Description==
+This ritual was based on work performed by [[Dawn|Dawnish]] [[witch]] Llŷr Viridian duLac. It was codified at the [[Master of Ice and Darkness|Icy Crag of the Eternal Sun]] shortly before the Winter Solstice 387YE.
+
+This [[enchantment]] draws on the [[Spring#Resonance|Spring resonances]] of [[Spring#Savagery|Savagery]], [[Spring#Ruin|Ruin]], and [[Spring#Chaos|Chaos]]. It allows a [[Magical skills#Magician|magician]] trained [[Magical skills#Battle mage|with the staff]] to unleash barely contained magic against an opponent, tearing flesh and splintering bone. The blow sometimes leaves burn marks on light armour or exposed skin, and the magician wielding the staff is advised to wear sturdy gloves as their implement may become painfully hot in the moments they are channelling and unleashing the destructive energies of Spring.
+
+''Viridian's Wildfire Emberstrike'' is very similar in its construction to the enchantment [[Call Down Lightning's Wrath]]. Both draw on the more violent powers of the Spring realm, and both channel those energies through a staff to deliver powerful blows. Where one [[Calls#STRIKEDOWN|hurls a foe away]] with the power of a tempest, the other [[Calls#CLEAVE|shatters the body]] with the energies of wildfire and earth.
+
+Despite its name, the enchantment does not actually cause a staff to set fire to anything. Rather, it uses the ruinous power of the [[Realms#Spring|Spring realm]], directed by the violent will of the magician, to create a conduit for wild energies that run rampant through the foe when the staff strikes them. The energy is most potent at the point where the staff makes contact with their body, and it is here that most of the damage is concentrated. It's notable that the energies used are not powerful enough to significantly impede much larger creatures – great beetles, landsharks, [[Wintermark_magical_traditions#Artok|artok]] and the like will still be hurt but their sturdy frames absorb the Spring magic sufficiently to prevent a limb being wrecked.
+
+It is not uncommon for a staff that has been used liberally with this enchantment to evidence scorch marks, or to remain warm to the touch for several minutes after it has been employed. The more it is used, the longer the staff stays warm and the hotter it gets. In theory if the power were used enough times in a short enough window it might end up shattering the staff into burning splinters but so far those involved in the codification have not determined where that destructive threshold lies.
+
+There is some speculation that the magic – which is most effective against unarmoured or lightly armoured foes – would be particularly useful against many kinds of unliving husks. While husks are often quite hard to harm with weapons designed to injure living beings through pain and blood loss, actually breaking their arms or legs can quickly render the creature much less effective, and able to be [[Calls#EXECUTE|executed]] at the leisure of those fighting it. There's also some cautious speculation that this might also be a good weapon for fighting many kinds of [[vallorn|vallornspawn]]; other than [[ettercap|ettercaps]] it is rare for these creatures to have much in the way of armour. A shattered leg will allow even the slowest or most heavily armoured knight to outpace and avoid their grasp. Anyone undertaking experiments in this regard should be alert for the presence of [[Vallornspawn_husk#Vallornspawn_Husks_and_Briars|vallornspawn briars]], sometimes called ''dryads'', whose healing magic could quickly [[Restore limb|restore]] an enemy that had previously been discounted as downed and no longer a threat.
+
+==Common Elements==
+The key theme of the enchantment is wildfire, and so incorporating flames into the performance is especially resonant. While few magicians can match the expertise of [[the Brass Coast|Freeborn]] fire dancers with their ritual performance, more contained flames such as torches may serve a similar purpose in empowering the ritual.
+
+Passionate and discordant music, especially beating drums and unaccompanied chants, can also help channel the resonance of savagery and chaos. A fight celebrating physical prowess, especially between targets of the ritual, will help the enchantment take hold more easily. Obviously a ''staged'' fight is somewhat less effective - even a [[dramaturgy|dramaturge]] may wish to encourage improvisation where the characters "go at it" hammer and tongs and the performance continues based on which of the [[Dramaturgy#The Personae|personae]] wins the bout.
+
+Other elements include the rune [[Mawrig]], the evocation of [[the Claw]], a violent [[the Battlefield|Battlefield]] scene, or invocation of dragons and similar destructive fiery beasts.
+[[Category:Spring Ritual]]
+[[Category:Rituals]]

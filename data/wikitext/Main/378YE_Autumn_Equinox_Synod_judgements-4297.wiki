@@ -1,0 +1,173 @@
+
+==The Imperial Titles of the Synod==
+At the end of the Autumn Equinox, 378YE, the Imperial Titles in the Synod were held by:
+
+{|
+| '''Virtue''' || '''Cardinal''' || '''Gatekeeper / Conscience'''
+|-
+| [[Ambition]] || Bishop Olek of the League || Silent John of the Marches
+|-
+| [[Courage]] || Asher of Felix's Watch in Highguard || Agnieszka Katrinova Prochnost of Varushka
+|-
+| [[Loyalty]] || Jared of the Suns of Couros, Highguard || Tancred De Rondell of Dawn
+|-
+| [[Pride]] || Elka Nadyanova Gremani of Varushka || Samson of Cantiarch's Hold, Highguard 
+|-
+| [[Prosperity]] || Ynez di Caricomare of the League || Enoch of the Shattered Tower in Highguard
+|-
+| [[Vigilance]] || Marrok de Carsenere of Dawn || Abraham of the Shattered Tower, Highguard
+|-
+| [[Wisdom]] || Abaddon De Rondell of Dawn || Livia Cascade of Urizen
+|-
+| [[The Way]] || Beodun Snowlock of Wintermark || Gideon of the Suns of Courous, Highguard
+|}
+
+===Other Synod-Appointed Titles===
+
+{|
+| '''Title''' || '''Held By''' || '''Appointed By''' || '''Renews'''
+|-
+| [[High Exorcist]] || Solas of Urizen || Assembly of Nine || Winter Solstice
+|-
+| [[Auditor of Senatorial Accountability]] || Autocephalous Tolya Orbardenko of the League || Assembly of Nine || Until death, revocation or abdication
+|-
+| [[Imperial Inquisitor]] || Petra Petrivna Melikov of Vauruska || Assembly of Nine || Summer Solstice
+|-
+| [[Custodian of the Imperial War Memorial]] || Ira of Felix's Watch, Highguard || Assembly of Nine || Sinecure; until death, revocation or abdication
+|-
+|}
+
+==Appointments==
+At the Summit, the following appointments were made by the Virtue Assemblies of the Synod:
+
+
+===Appointment of the Cardinal of Loyalty===
+* Jared of the Suns of Courous, Highguard, stood unopposed and was appointed Cardinal of the Assembly
+* Cardinal Jared chose to retain Tancred De Rondell as Gatekeeper of Loyalty
+
+===Appointment of the Cardinal of Pride===
+
+{|
+| '''Candidate''' || '''Votes Received''' || '''Outcome'''
+|-
+| Samson of Cantiarch's Hold ||  22 votes ||
+|-
+| Elka Nadyanova Gremani || 72 votes || Appointed as Cardinal
+|-
+| Cardinal Elka appointed Samson of Cantiarch's Hold as Gatekeeper || ||
+|-
+|}
+
+===Appointment of the Cardinal of The Way===
+
+{|
+| '''Candidate''' || '''Votes Received''' || '''Outcome'''
+|-
+| Adoramus of the Shattered Tower, Highguard || 30 votes ||
+|-
+| Hywel Summercrow of the Navarr || 30 votes ||
+|-
+| Atla, an Imperial Orc ||  60 votes || 
+|-
+| Beodun Snowlock of Wintermark || 66 votes || Appointed as Cardinal
+|-
+| Cardinal Beodun retained Gideon of the Suns of Courous as Conscience of the Senate || || 
+|}
+
+===Appointment of the Custodian of the Imperial War Memorial===
+* The Assembly of Nine appointed Ira of Felix's Watch, Highguard, as Curator of the Imperial War Memorial by Decisive Majority
+
+===Appointment of the [[Auditor of Senatorial Accountability]]===
+* The Assembly of Nine appointed Autocephalous Tolya Orbardenko of the League by Decisive Majority
+
+===Appointment of the Gatekeeper of Ambition===
+* Cardinal Olek of the League appointed Silent John of the Marches after Gatekeeper Serrusto stepped down
+
+
+==Synod Judgements==
+At the Summit, the following judgements were made by the Assemblies of the Synod:
+
+{|
+| '''Number''' || '''Assembly''' || '''Judgement''' || '''Raised By'''  || '''Outcome'''
+|-
+| 1 || Loyalty || Appointment of the Cardinal || The Civil Service || Jared of the Suns of Couros was appointed
+|-
+| 2 || Pride || Appointment of the Cardinal || The Civil Service || Elka Gremani was appointed
+|-
+| 3 || The Way || Appointment of the Cardinal || The Civil Service || Beodun Snowlock was appointed
+|-
+| 4 || Assembly of Nine || Appointment of the Curator of the Imperial War Memorial || The Civil Service || Ira of Felix's Watch in Highguard was elected by Decisive Majority
+|-
+| 5 || Assembly of Nine || Revocation of the current Auditor of the Senate || Jared of the Suns of Courous, Highguard || Upheld by Decisive Majority (5-0) and Tolya Ordenko appointed Auditor by the same Decisive Majority
+|-
+| 6 || Highguard || The Revocation of General Mathyus of The Granite Pillar for lack of virtue. Vigilance in losing the last of Reikos. Courage in failing to act. Prosperity in losing the Vigilant swan. Pride in failing to retake Reikos. Loyalty to citizens of Reikos. || Abraham of the Shattered Tower, Highguard || Defeated 203 - 42
+|-
+| 7 || Ambition || Appointment of Gatekeeper || Civil Service || Cardinal Olek appointed Silent John of the Marches
+|-
+| 8 || Prosperity || Inquisition of Senator Henry Ward of Upwold || Rurik Von Linden || Upheld 92 – 0 
+|-
+| 9 || Prosperity || Inquisition of former Senator Valentin of Volodmartz || Auditor Tolya Ordenko || Upheld 92 - 0
+|-
+| 14 || General Assembly || Veto of the Senate Motion to provide protection to visiting barbarian delegates || Adoramus of the Shattered Tower, Highguard || Failed to achieve Greater Majority (Defeated 307 – 220)
+|-
+| 16 || - || Judgement withdrawn by raising priest || - || -
+|-
+| 17 || Prosperity || Condemnation of Senator Bridget of Mitwold for lying during inquisition. || Auditor Tolya || Upheld 92 - 0
+|-
+| 18 || General || The Doctrine of Excommunication – The rite, excommunication, severs the soul’s connection to the Labyrinth || Yael of Felix’s Watch, Highguard || Failed to achieve Greater Majority (Upheld 210 to 114)
+|-
+| 19 || Varushkan National || Revocation of General Olaf, following discussions of the Assembly and the evidence given by its members and the Inquisitor of Wisdom || Inquisitor Petra Melikov || Defeated 78 – 62
+|-
+|}
+
+==Statements of Principle==
+The Imperial Synod made the following Statements of Principle:
+
+{|
+| '''Number''' || '''Assembly''' || '''Statement of Principle''' || '''Priest''' || '''Outcome'''
+|-
+| 11 || Pride || The Pride Assembly will be awarding the Beacon of Pride medal every Equinox to the most deserving citizen. Further details will follow in time. || Eadred Oswinson || Upheld 94 - 0
+|-
+| 12 || Highguard || The Actions of the Highborn ''Virtue Crusaders'' in seeking to reclaim Reikos were both courageous and loyal. Their sacrifice will not be forgotten by Highguard. || Caleb of the Silent Tide Chapter || Upheld 197 - 30
+|-
+| 15 || Vigilance || The stipend of the High Exorcist should be increased in order that the Empire is adequately protected from developing spiritual threats || Cardinal Marrok de Carsenere || Upheld 74 – 0
+|}
+
+The Synod chose '''not''' to make the following Statements of Principle:
+
+{|
+| '''Number''' || '''Assembly''' || '''Statement of Principle''' || '''Priest''' || '''Outcome'''
+|-
+| 10 || General || The Senate should pass a motion granting the following: ''Each gathering the civil service will deposit a number of liao from their supply into the Virtue Fund''. This would allow priests to undertake liao-intensive theological projects without expending their personal supply. It would also encourage engagement in activities such as experimental theology. || Noah of Cantiarch’s Hold, Highguard || Defeated 314 - 305
+|-
+| 13 || General || Romance & Virtues are interlinked. ''Ambition:'' Aim high with your genitals and woo whomever you may choose. ''Courage:'' Do not fear rejection, it is part of the journey you and your genitals make together. ''Wisdom:'' Learn from using your genitals. ''Pride:'' Never be ashamed of your genitals, let them inspire you. ''Prosperity:'' A prosperous trade is one that leaves both parties better off, if you know what I mean. ''Loyalty:'' Despise the cheat, they show a lack of virtue. ''Vigilance:'' Take no foolish risks with your genitals. || Shem of the Shattered Tower || Defeated 483 - 104
+|-
+|}
+
+==Synod Funds==
+The following represents the Virtue Fund of the Synod:
+
+{|
+| ''Starting Value'' || 34 Thrones / 3 Crowns / 2 Rings ||
+|-
+| ''Income'' || 5 Liao || A donation from Noah of Cantiarch’s Hold, Highguard
+|-
+| || 22 Thrones || The price paid in the Bourse Auction
+|-
+| ''Rewards'' || None || Not applicable
+|-
+| ''Closing Value'' || 56 Thrones / 3 Crowns / 2 Rings / 5 liao ||
+|}
+
+==Visionaries==
+The following individuals received visions of their past lives:
+* General Vahne of Wintermark
+* Hywel Summercrow of the Navarr
+* Luke of the Shattered Tower in Highguard
+* Tancred De Rondell, Gatekeeper of Loyalty
+
+
+[[Category: Synod]]
+[[Category:Synod Results]]
+[[Category: Synod Judgements]]
+[[Category: 378YE Autumn]]

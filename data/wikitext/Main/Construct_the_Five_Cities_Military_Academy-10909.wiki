@@ -1,0 +1,19 @@
+[[Category:Senate Motion]][[Category:385YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Tassato, Seconded: Astolat">That there be a disbursement of funds and construct the “Five Cities Military Academy” in Tassato.</quote>
+==Overview==
+* Constructs a folly in Tassato Mestra, [[Tassato]] as per the '''[[Schools_and_sawmills#Tassato:_Five_Cities_Military_Academy|Schools and sawmills]]''' wind of fortune
+* Passed
+==Date==
+* Autumn 385YE
+==Cost==
+* Costs as per the wind of fortune
+* 30 wains of white granite
+* 30 wains of mithril
+* 180 crowns
+* Six months to complete
+==Progress==
+{{CommissionProgress|Five_Cities_Military_Academy}}
+==Outcome==
+* Now complete, the number of armies the League can [[Army#Maximum_numbers_of_Imperial_Forces|support]] has increased to three
+<!--can link it in with the fortifications there maybe? Something about officer cadets being sent up the hill to do stuff at the Redotta or something like that?-->

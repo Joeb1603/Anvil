@@ -1,0 +1,28 @@
+[[Category:Senate Motion]][[Category:387YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Feroz, Seconded: Segura">To restore the Celesti Lighthouse to its former glory as per the appraisal carried out by Eilian Sweetwater in Summer 387. The Lighthouse shall again be the responsibility of the Celesti Lighthouse Keeper. The construction is to include a magically infused lamp empowered by Kimus. Self-funded by prosperous citizens of the Brass Coast.
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Oranseri, [[Feroz]]
+* Includes the creation of a ''watchstone'' with aid from [[Kimus]]
+* Passed
+* More information can be found in the '''[[For_those_in_peril_on_the_sea#The_Celesti_Lighthouse|For those in peril on the sea]]''' wind of fortune
+
+==Date==
+* Autumn 387YE
+
+==Cost==
+* Costs as per opportunity
+* 16 wains of mithril
+* 10 rings of ilium
+* 60 ingots of weltsilver
+* 40 ingots of tempest jade
+* 48 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Repair_Celesti_Lighthouse}}
+==Outcome==
+* Now complete, the [[Celesti Lighthouse Keeper]] is once again available to appoint by senators of [[the Brass Coast]]
+* The '''[[Voyage#Escort_Imperial_Shipping|Escort Imperial Shipping]]''' voyage has been replaced with '''Patrol the Bay of Catazar'''
+* Allows the Senate to restore the [[Broken Shore Bounty]]

@@ -1,0 +1,24 @@
+[[Category:Senate Motion]][[Category:387YE Winter]]
+__NOTOC__
+<quote by="Announced by Edmundo of Damakan's Forge, Bearer of an Imperial Wayleave">Self funded construction of "Office of Fire and Stone", an edifice in Iteri, Zenith. Urizen national position elected by Tally of the Vote. 
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Iteri, Zenith
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+* More information can be found in the '''[[The_thing_with_feathers#Fire_and_Stone_(Estavus)|The thing with feathers]]''' wind of fortune
+
+==Date==
+* Winter 387YE
+
+==Cost==
+* Costs as per opportunity
+* 20 wains of mithril
+* 10 wains of white granite
+* 10 rings of ilium
+* 90 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Office_of_Fire_and_Stone}}
+==Outcome==
+* Now complete, the [[Architect of Hammers]] will be available to appoint by [[Tally of the Votes]] of Urizen owners of [[mana site|mana sites]] for the first time at the Spring Equinox 388YE for a shortened term until the Autumn Equinox 388YE.

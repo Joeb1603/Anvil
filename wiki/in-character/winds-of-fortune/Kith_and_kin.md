@@ -1,0 +1,226 @@
+---
+title: Kith and kin
+source: https://www.profounddecisions.co.uk/empire-wiki/Kith_and_kin
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 386YE Summer
+- Recent History
+- Peerless Kinship
+- Mandate
+event: 386YE Summer
+last_edited: '2026-07-19T00:27:39Z'
+revision: 142082
+in_character_boxes: 14
+---
+
+# Kith and kin
+
+> *In-character text:*
+>
+> "Isn't this a bit too easy?" asked Gideon. The others looked at him with confusion. "This solution just feels a bit... facile."
+>
+> "It's exactly what the Marcher Assembly asked us to do." protested Reuben. We should "aid the beaters of the Mourn in patrolling our borders" he said almost quoting Nigel Hornbeam's statement of principle. "That's what this idea does."
+>
+> "Yeah, but they were already beating the bounds." countered Gideon unwilling to let it go. He tried again to explain what was bothering him. "I just expected it to be harder than this."
+>
+> "If we want to fight the Jotun directly, that's a decision our generals can take. They can send the armies here to help push the Jotun back. What we can do is highlight the beater's Virtue. If we help the Bailiff talk to the yeofolk, help them see how much hard work the beaters are doing, then they'll reward their Prosperity. If that happens, there will be more beaters to "beat the bounds" - hopefully enough to make a difference."
+>
+> "But..."
+>
+> Reuben cut in before Gideon could continue. "Wisdom is finding the right question." he intoned. "The Marchers didn't ask us to come here to do things for them. That's the last thing any Proud nation wants. What they wanted us to do was help them improve the things they were already doing."
+>
+> "I guess..." said Gideon, still not quite convinced "But isn't there more we could do?".
+>
+> Reuben pondered for a moment and then smiled broadly. "That" he said emphatically "is definitely the right question."
+
+*[Image: The beaters of the Marches protect the bounds of the nation.](https://www.profounddecisions.co.uk/empire-wiki/File:Archer_in_a_Hat.jpg)*
+
+## Overview
+
+At the Winter Solstice, the [Highborn](../nations/highguard/Highguard.md) Assembly declared their [peerless kinship](Full_of_sacred_sound.md#a-peerless-kinship) with the Marches. The desire was there to help strengthen their kin and do what they could to support their fellow nation. However they were held back by a lack of direction from the Marches and a nagging fear that the current situation in Bregasland might mean that instead of helping they could just make things worse. The Marcher Assembly has allayed those fears, by using a [Synod](../../mixed/government/synod/Synod.md) [judgement](../../mixed/government/synod/Judgement.md) to identify what would help most to their fellow priests.
+
+> *In-character text:*
+>
+> We the Marcher Assembly accept the peerless kinship of Highguard and their unconquered to aid the beaters of the Mourn and the rest of the Marchers in patrolling our borders against the many incoming threats. We encourage the Beaters to report any sightings of peril to the Bailiff of the Downs.
+>
+> Nigel Hornbeam, Marcher Assembly, 386YE Spring Equinox, Vote: Upheld (150-0)
+
+Nigel Hornbeam's judgement did not get a greater majority, but it was unanimous and left nobody in any doubt about what was needed. The borders of the Mournwold are under threat from the Jotun - what is needed now is for folk to roll up their sleeves and do something about it.
+
+## Small Things
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Pride in small things, loyalty to great ones.
+> >
+> > Marcher Proverb
+
+- **The Marcher Assembly can pass a mandate encouraging beaters to hunt down the traitor Dalton Royse**
+- **The Highborn Assembly can pass a mandate encouraging the unconquered to spoil the Jotun caches in Southmoor**
+
+The Jotun have brought a small exploratory force into the Mournwold. The longer they remain, the more land they will take, but what eased the path of the advancing armies are the stores of food, caches of weapons, and makeshift palisades that Jarl Haakon [set up recently](../winds-of-war/Shallows_and_miseries.md#choices-conjunction). Those supplies have created a weakness in the Mourn's defences that the Jotun are now exploiting, but they didn't have to attack in Southmoor. The Jotun could have taken advantage of the [intelligence provided by Dalton Royse](../../mixed/government/military/Under_the_firelight.md#objective-thwart-dalton-royse) just as easily.
+
+After some discussion, there is an agreement that the best way to deal with the problem might be to split their forces. Dalton Royse used to beat the bounds, and his treachery sticks in the craw of many beaters. It would not take much for the Marcher Assembly to encourage the beaters of the Mourn to hunt this traitor down and give him his just deserts.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Despise that which threatens what you watch over. Dalton Royse has betrayed the Marchers - we send {named priest} with 15 liao to urge all Vigilant beaters to thwart this malice before it strikes.
+> >
+> > Synod Mandate, Marcher Assembly
+
+If this mandate is enacted then it will encourage beaters to hunt down Dalton Royse and do what must be done to bring him to justice. Royse could be forced to surrender and brought back to Anvil for trial, or should the situation demand it he could be executed on the field as a traitor to the Empire and the Marches. Currently he is somewhere in Jotun occupied Southmoor, so this is a very dangerous mandate to enact. It would be prudent for the Marcher Assembly to pick a priest who is physically able to take the fight to the Jotun.
+
+The Highborn Unconquered know a thing or two about operating behind enemy lines. They are experts at creating caches of food and supplies to let them survive without support. They know those caches are vulnerable to disruption if you have the experience to know where to look for them. Eliminating the Jotun's supplies may not be as emotive as hunting down a traitor but it's just as important.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Let us seek out the poison in our neighbour’s fields. We send {named priest} with 15 liao to urge all Vigilant unconquered to root out the threat in Southmoor before it is too late.
+> >
+> > Synod Mandate, Highborn Assembly
+
+If this mandate is enacted then it will encourage the unconquered to root out and spoil the caches of supplies the Jotun have hidden in Southmoor. There are Jotun armies in control of much of this region, so this is a very dangerous mandate to enact. Again, it would be prudent for the Highborn Assembly to pick a priest who is physically able to take the fight to the Jotun.
+
+## Hard Work
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Hard work wins wars..
+> >
+> > Marcher Proverb
+
+- **If Bounders Hall is retaken it will create a new military action for Marcher beaters to patrol the borders of Mournwold**
+- **The Empire could build Bounders Halls in other Marcher territories to extend the protection provided by the beaters**
+
+The Highborn make progress working with the [Bailiff of the Downs](../../mixed/titles/Bailiff_of_the_Downs.md) to help them secure the Mournwold's borders, but they are forced to shelve their plans before they can put them into practice when Bounders Hall in Sarcombe falls to the Jotun advance. The poor timing halts what otherwise might have been one of the most promising ways to help secure the Mournwold. The Bailiff protects Marcher farms and settlements, coordinating with stewards, and beaters to drive off outlaws and bandits.
+
+It is clear that they are an ideal choice to organise the beaters and equally clear that the beaters have a crucial role to play in the defence of the land. The beaters roam the Mourn, watching for thieves, vagrants and other ne’er-do-wells and watching the boundaries for signs of trespass. All they need is a little organisation.
+
+The problem is that in recent years some of the larger more organised groups of beaters, those large enough to form a military unit, have abandoned the traditional defence of the land and gone off to fight alongside Imperial armies on campaign. How much of this is a consequence of the guerdon is impossible to say, but Prosperity demands that people can claim the just rewards of their labours. Is it unreasonable that beaters defending the bounds should expect to be paid just as those who leave the land to go on campaign are sometimes paid?
+
+> **Beating the Bounds**  
+> This action is available to characters with the beater archetype who have a military unit personal resource. A standard military unit will receive payment of 100 rings, from grateful Marcher landowners in the Mourne; one that is enchanted or upgraded receives proportionately more. Military units that are beating the bounds will contribute to the defence of the territory against any attack from an invading force.
+
+The visiting Highborn priests think not. The problem is that there is little chance that the [Military Council](../../mixed/government/military/Military_Council.md) might agree to assign the guerdon to those beaters who are beating the bounds, and currently they can't because the civil service have no records of who is doing it anyway. But the Bailiff of the Downs already has a role in organising the beaters so they could keep the records, what is needed is a way to ensure that these hard working Marchers are reliably paid for their efforts.
+
+|  |
+| --- |
+| **Bounders Hall** |
+| **Commission Type:** Sinecure |
+| **Location:** Bregasland, Upwold or Mitwold |
+| **Cost:** 12 white granite, 36 crowns in labour |
+| **Effect:** Creates an imperial position of *Bailiff of X*, and extends the protection provided by military units taking Beat the Bounds to this territory |
+
+Nobody understands the importance of a hard day's work more than the Marchers. Rather than rely on the Military Council for that, the Bailiff could make the case to the yeomen of the Mournwold - asking them to pay for the work done to defend their land. It's a simple plan, there's no reason it can't work, it just needs the Bailiff to be able to get their offices back.
+
+If Bounders Hall is retaken, it will create a new action for military units led by Marchers with the beater archetype to **Beat the Bounds**. The Bailiff's office will organise contributions from grateful farmers in the territory, to ensure there are sufficient funds to pay those doing the hard work of defending the borders. And their organised presence means that the Marchers will have an additional line of defence - should any force invade the territory then the beaters would be there to oppose it. While a few military units won't stop an army, any help, no matter how small will help to slow it. And if enough beaters got behind the effort...
+
+In theory there is no reason why the same approach could not be used in Bregasland, Upwold and Mitwold. But it does require a Bailiff with suitable offices who is responsible for the organisation and remuneration. But if the Empire built a Bounders Hall in other Marcher territories (or expanded the modest offices of the [Bailiff of the Grand Market](../../mixed/titles/Bailiff_of_the_Grand_Market.md) with that in mind), and created a new Imperial position of Bailiff for those territories that didn't already have one, then it would extend the beaters' remit to cover all the affected territories. If any territory were attacked, then the beaters would move to intercept it. Of course the Jotun attacked Bregasland and Mournwold this time - if that happened again then any defence the beaters put up would be split equally, as they did what they could to delay each attack.
+
+And since the civil service would have a list of every military unit that was beating the bounds, there would be nothing to stop the Military Council assigning the guerdon to the activity as well, if they wished.
+
+## Good Apples
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Good cider takes good apples.
+> >
+> > Marcher Proverb
+
+|  |
+| --- |
+| **Sarcombe Pie** |
+| **Commission Type:** Fortification |
+| **Location:** Southmoor, Mournwold |
+| **Cost:** 30 weirwood, 50 white granite, and 30 thrones |
+| **Effect:** Fortifies Sarcombe, removes the under threat quality from Greenmarch, makes it impossible to apply under threat to Mournwold, and counters specific attacking orders |
+
+- **The Empire could build the Third Pie to secure the defences of the Mournwold**
+- **The Highborn priests suggest fortifying Fisher's Rock to protect Bregasland**
+
+The idea of building a fortification at Southmoor was first mooted more than five years ago in 381YE. At the time the project may have been deemed too expensive. With strong keeps completed at Freemoor and Greensward, did the Mourn really need a third fortification? The idea was popular with locals who nicknamed it [the Third Pie](This_land_is_your_land.md#the-third-pie) - something that would turn the good - the line of defences across the Mourn - into something great - defences so strong they would intimidate all but the most determined attacker.
+
+The idea resurfaced in 385YE when the eternal [Zakalwe](../eternals/Zakalwe.md) worked with Marchers from the [Rod and Shield](../../mixed/government/conclave/Rod_and_Shield.md) to [create plans to establish a series of towers and hidden sanctuaries](Three_keys.md#the-third-pie) around the borders of the Mourn, supported by armouries at the new fortress, [Farstrider's Watch](../nations/the-marches/Mournwold.md#farstriders-watch), and [Landskeeper's Bulwark](../nations/the-marches/Mournwold.md#landskeepers-bulwark). Once complete, the new fortress and the two established ones would support beaters and local folk in scouring the territory for Jotun incursions, ending them where possible, and escalating the problem to someone who can deal with it where they can't. By working together it would be impossible for the Jotun to put a region anywhere in the Mournwold “under threat” while the three fortresses were in Imperial hands.
+
+The Third Pie looks like a good investment now that the Jotun have done exactly as they threatened and invaded the Mournwold. The Third Pie would require 50 wains of white granite, 30 wains of weirwood, and 240 crowns. Thanks to existing structures and investment in Sarcombe, the work would take nine months to complete - but it could not be started until the Jotun were pushed out of the region.
+
+Building the Third Pie is a challenge - fortifications are expensive - but it would be the most effective way to secure the Mourne's borders. There are two obvious things the Highborn could do to help - they could use their influence in the Senate to support the commission of the new fortification. Once commissioned the thing will need to be paid for - Highborn benefactors could help the Marchers find the white granite and weirwood needed.
+
+While the Highborn were asked to help the Marchers find way to secure the borders of the Mournwold, the Jotun invasion has made it impossible to ignore the fact that Bregasland is relatively unprotected. There is no Imperial fortification anywhere in the territory. The extensive marshlands make it possible to ask [Sadogua](../eternals/Sadogua.md) for aid [summoning defensive magic](../../mixed/magic/rituals/Dripping_Echoes_of_the_Fen.md) to ward the land, but many Highborn magisters take a dim view of that as a solution. Relying on an eternal to save you seems like a good way to define subsuming human destiny to an inhuman entity. Also the so-called *Brother of Wizards* has demonstrated exactly how reliable he is in such matters with his recent threats.
+
+|  |
+| --- |
+| **The Sentinels Repose** |
+| **Commission Type:** Fortification |
+| **Location:** Fishers Rock, Bregasland |
+| **Cost:** 100 white granite, and 300 crowns |
+| **Effect:** Fortifies Fishers Rock, gives the region the haunted quality and creates the title Friar of the Dead Marshes |
+
+|  |
+| --- |
+| **Friar of the Dead Marshes** |
+| **Type:** Marcher |
+| **Appointment:** National Assembly |
+| **Powers:** Receives 5 doses of liao |
+| **Responsibilities:** To oversee the haunted marshes surrounding Fishers Rock |
+
+A better solution altogether would be to build a solid fortification that could anchor an effective defence of the territory. It is hard to survey the area at the moment, with Jotun forces threatening to take the territory, but even a brief foray is enough to identify the [ruined tower at Fishers Rock](../nations/the-marches/Bregasland.md#fishers-rock) could be quickly repaired. The tower is a poor state of repair but it never seems to fall down no matter how badly it is damaged - something that has led locals to claim it was built by [the Sentinel](../religion/The_Sentinel.md). If a fortification were built around the tower then the fortification would be **unbreakable**. This means that damage to the fortification cannot reduce it to below 1,000 military strength. It can be captured, but it cannot be destroyed.
+
+The tower is haunted, in fact the entire area is plagued with restless spirits of the dead. There are glowing lights that appear hovering over the marshes at night that lead people astray. Building a fortification here will inevitably stir up those ghosts, making the region haunted.
+
+Fortunately the Highborn have more experience dealing with ghosts than anyone, and they can share that experience and learning with the local friars and monks to help them take advantage of the situation. If the fortification is built, the Senate could order the creation of a new Imperial title - the Friar of the Dead Marshes. They would receive a small income of five liao each season - to help them deal with the restless spirits in the area. They would be expected to be responsible for the defence of the fort any problems caused by the ghosts. Very occasionally, odd treasures are recovered from the Marshes - old cups, coins, and sometimes more significant artefacts. Such treasures are usually considered the property of whoever finds them, but if someone were looking to dispose of something they found in the Marshes they would bring it to the Friar of the Dead Marshes first.
+
+## The Right Question
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Wisdom is finding the right question.
+> >
+> > Marcher Proverb
+
+- **The Highborn have two more seasons in which they can offer peerless kinship to a receptive nation of the Empire**
+- **This peerless kinship can be shown to any nation of the Empire**
+- **The Highborn Assembly can state what problem would be best addressed in the statement of principle raised to invoke peerless kinship**
+
+Thus far the Highborn have been able to find ways to user their peerless kinship to help many of their fellow nations. Not everyone has welcomed the support, but in the majority of cases the Highborn have been able to find ways to provide valuable assistance. By following the Way, by encouraging the Virtues, they have worked with priests and others from the nations of the Empire to find ways to benefit everyone.
+
+The impetus to help others in this way arose following the flush of victory in Zenith and Rachensgrab and was only expected to last a year. But many Highborn followers of the Way are reluctant to stop here and argue there is more work they can do - they are eager to continue. Eli, the ageing custodian of Walter's Tomb whose encyclical helped to create the peerless kinship suggests that the process could be improved. He notes that Highborn efforts to help protect the Mournwold were delayed a season by the need to wait for guidance from the Marcher Assembly. If that delay hadn't happened, then Highborn and Marcher might have been able to start work sooner and done more to stop the Jotun.
+
+So, rather than relying on the nation receiving the support to guide the assistance, Eli suggests that Highborn priests at Anvil could talk to their counterparts in the nation they wish to help. Once the Highborn priests discover what help they think would be most useful, they can include those details in a short statement of principle urging the nation to help and invoking their peerless kinship. The other assembly could still do a statement if they wanted to. If they did then any Highborn who went to the nation to help would follow that guidance rather than anything provided by their own Assembly. But this change would mean the Highborn wouldn't have to wait for that guidance to come direct from the other nations' assembly.
+
+*[Image: Hugh Farrier , Champion of Prosperity](https://www.profounddecisions.co.uk/empire-wiki/File:Hugh8337.jpg)*
+
+As a result of the success of the movement for Highguard to show peerless kinship to their fellow nations, then the ability to do so has been extended by two more seasons. The Highborn Assembly can invoke peerless kinship this season and the next. In addition, this time they need not wait for the other nation's assembly to state what aid would be most useful, they can talk to members of that assembly, find out what is needed from them and state what problem would be best addressed in their statement of principle.
+
+## Raiders Returning (Conjunction)
+
+- **A band of Jotun ghosts have appeared at Halebale Farm in Oddmire**
+- **This skirmish is a combat highly likely encounter**
+- **The *Champion of Prosperity* is responsible for ensuring the ghosts are exorcised**
+
+A group of farmers from a small patch of land in [Oddmire](../nations/the-marches/Mitwold.md#oddmire) were recently seen going round the local taverns boasting about an ancient relic they had dug up while ploughing the fields. However, in the past few days they have suddenly gone quiet, and there are reports of spectral figures resembling [Jotun](../barbarians/Jotun.md) gathering around their land.
+
+Though these farmers are likely stout enough to hold off a few ghosts for a little longer, their neighbours are keen to get this bad business dealt with soon. There is widespread insistence that the [Champion of Prosperity](../../mixed/titles/Champion_of_Prosperity.md) take responsibility for gathering a group of fighters and exorcists to go and clear out Halebale Farm - perhaps because the community wishes to see a fellow Marcher take the lead, or are inspired by the plans to create a true consecration at Good Walder's Orchard.
+
+## Resolution
+
+- **A Wayleave was used to commission a Bounders Hall in Bregasland at the Summer Solstice 386YE**
+
+Work began on the first of the new Bounders Halls immediately after the summit, with James Forrester using a Wayleave to [announce the commission in the Senate](../senate-motions/Construct_Bounders_Hall_in_Bregasland.md). Once the work is complete, it will allow Marcher Bounders with military units to Beat the Bounds, to protect the borders of the Marches.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [386YE Summer](../../indexes/by-category/386YE_Summer.md), [Recent History](../../indexes/by-category/Recent_History.md), [Peerless Kinship](../../indexes/by-category/Peerless_Kinship.md), [Mandate](../../indexes/by-category/Mandate.md)

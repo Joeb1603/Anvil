@@ -1,0 +1,3 @@
+* '''Form:''' Talisman. Takes the form of a [[Magic Items#Talismans|tool]]. You must be holding this item in hand to use its magical properties.
+[[Category:Magic Items]]
+[[Category:Tools]]

@@ -1,0 +1,142 @@
+---
+title: All laudable qualities
+source: https://www.profounddecisions.co.uk/empire-wiki/All_laudable_qualities
+class: in-character
+topic: winds-of-fortune
+categories:
+- Wind of Fortune
+- 388YE Summer
+event: 388YE Summer
+last_edited: '2026-07-19T00:25:58Z'
+revision: 142076
+aliases:
+- All laudible qualities
+in_character_boxes: 7
+---
+
+# All laudable qualities
+
+> *In-character text:*
+>
+> "You could not go?" Jack could see his friend was clearly worried. He'd been moidering over this invitation ever since it had arrived. "I know you feel you've got to... but what if we say we lost the letter?"
+>
+> Hap gave a wan smile, part appreciation for the attempt to help and part amusement at the idea of just pretending this wasn't happening. "Lost time is never found," he responded but even so he couldn't deny the prospect was appealing.
+>
+> "Nah, I reckon you can. I'll go and tell them that the letter fell into the fire before we could read it."
+>
+> "They're Dawnish Jack, they're not stupid. You can stick wings on a pig but it won't fly.."
+>
+> Jack pointed to the roaring fire with a conspiratorial look that made it plain that they could just make it true, but Hap only shook his head. "No, there's nothing for it, I'll have to go to Anvil." he responded.
+>
+> Now it was Jack's turn to look concerned.
+
+*[Image: Wulfric of the Marches has been delegated the task of leading the symposium.](https://www.profounddecisions.co.uk/empire-wiki/File:Wulfric_Leonard_Mourn.png)*
+
+## Overview
+
+At the Winter Solstice 387YE, the [General Assembly](../../mixed/government/synod/Assembly.md#general-assembly) [supported a call](Stones_in_the_wellspring.md#a-convocation-of-condemnation) for a symposium to discuss [proscriptions](../../mixed/government/synod/Proscription.md). The [Assembly of the Nine](../../mixed/government/synod/Assembly.md#assembly-of-the-nine) subsequently confirmed that **Wulfric of the Marches**, the Member of the [Synod](../../mixed/government/synod/Synod.md) who originally called for the symposium, would be charged with leading it. He has apparently sworn an oath, and though the wording of that oath is not common knowledge, it was good enough for the Nine.
+
+The [civil service](../../mixed/government/senate/Civil_service.md) has received and published a timetable of proceedings to allow interested parties to prepare. The [Marcher Assembly](../synod-judgements/388YE_Spring_Equinox_Synod_judgements.md#judgement-8) and [Assembly of the Way](../synod-judgements/388YE_Spring_Equinox_Synod_judgements.md#judgement-62) both issued invitations to the Marcher Orcs and to notable Lucidians within the Empire to attend.
+
+All the proceedings will take place in the [sodality chamber](../world/Anvil.md#the-sodality-chamber) in central [Anvil](../world/Anvil.md).
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The Assembly of Nine appoints Wulfric of the Marches to lead the Proscription Symposium. We are satisfied with the oath sworn in our presence and the intent of this symposium. We will continue to observe this with keen interest.
+> >
+> > Silas of the Cenotaph, Spring Equinox 388YE, Vote: Upheld with a **Greater Majority** 6-0
+
+## Legal Guidance
+
+- **It is not a crime to debate what should or should not be a religious crime**
+- **Citizens who appear to encourage others to embrace a false Virtue are taking a legal risk but this should not be a concern at the Symposium**
+
+The magistrates have published guidance around the potential for religious crimes to be committed while discussing the issues involved with proscription. In general, it is not a crime for anyone to discuss what should and should not be a religious crime. However, there is a line between intellectual arguments advocating in favour of or against proscription of a specific act and an attempt to proselytise a false virtue or otherwise persuade people to engage in heretical acts. The former is perfectly legal; the latter is not in most cases, so citizens should take care accordingly.
+
+The Synod is expected to engage in such discussions - otherwise it would be unable to fulfil its constitutional duty. As a result, citizens actively involved with the Symposium have considerable leeway to debate the issues without fear of prosecution. Magistrates are unlikely to investigate any discussions at that Symposium given its purpose. However, if anyone were to go a step further and actively commit a proscribed act - for example, creating an aura of a false virtue - that would definitely be criminal. If that happened, it would be prosecuted as normal.
+
+The magistrates are based in a tent in central Anvil and are always happy to provide further advice to citizens in person.
+
+| Day & time | Topic / event |
+| --- | --- |
+| Friday 9pm-9:45pm | Invited guests |
+| Friday 9:45pm-10:30pm | Opening ceremony, introduction and address by Assembly of Nine |
+| Saturday 1:30pm-2:15pm | [Heresy](../../mixed/government/synod/Religious_crime.md#heresy) |
+| Saturday 2:15pm-3pm | [Idolatry](../../mixed/government/synod/Religious_crime.md#idolatry) |
+| Saturday 7:30pm-8:15pm | [Blasphemy](../../mixed/government/synod/Religious_crime.md#blasphemy) |
+| Saturday 8:15pm-9pm | [Abuse of Powers](../../mixed/government/synod/Religious_crime.md#abuse-of-powers) |
+| Sunday 10:30am-11:15am | [Desecration](../../mixed/government/synod/Religious_crime.md#desecration) |
+| Sunday 11:15am-12 midday | Other matters |
+
+## Timetable
+
+- **The civil service has published the timetable provided by the Symposiarch**
+- **All sessions will take place in the sodality chamber in the centre of Anvil**
+
+At the request of the Symposiarch, the civil service have published the draft timetable for the symposium on proscription. All sessions will take place in the sodality chamber tent in the centre of Anvil.
+
+## Visitors
+
+Three groups have been invited to attend the Symposium. A block of time has been allocated for guests to speak at the start of the Symposium.
+
+### The Constitutional Court
+
+- **The Constitutional Court have been asked to attend the Symposium if possible**
+- **Magistrate Abraham has indicated that he will attend the opening session if he is free**
+- **Chief Magistrate Karkovich and Chief Magistrate Cosme i Zuhri i Guerra will make time for the Symposium where possible**
+
+Given that [proscription](../../mixed/government/synod/Proscription.md) is a crucial part of Imperial law, the Constitutional Court have been asked to make themselves available to the Symposium so that they can provide advice and guidance. The hope was that members of the Court might be available towards the end of the Symposium to provide a legal opinion on any discussions. Sadly, that has not proved possible, but Magistrate Abraham has indicated that they will attend the opening session provided they are free. They don't intend to address the Symposium or speak unless asked to do so, but will be available to answer any questions that the attendees have.
+
+The sodality chamber is not far from the magistrates office. Chief Magistrate Karkovich and Chief Magistrate Cosme i Zuhri i Guerra have indicated that they will try to make themselves available to the Symposium where possible, to answer any specific questions that come up during the course of the sessions.
+
+### A Marcher, A Marcher
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The Marcher Assembly extends a hand to our brethren, offering an invitation to Hap the Soft and any Marcher Orcs who wish to attend the Symposium of Proscriptions. They have shown Pride in their beliefs. Their voices firm and loud. Our duty is to further uplift Marcher voices to a cacophony that the Empire cannot ignore. They shall be heard and we shall endure it.
+> >
+> > Brother Luke, Spring Equinox 388YE, Vote: Upheld with a **Greater Majority** 192-0
+
+- **The Mournwold Orcs have been invited to send a representative to the Symposium**
+- **The Mournwold Orcs believe they reincarnate, which is clearly at odds with the doctrines of the Way**
+- **This view is central to their beliefs and is not one they will give up**
+- **Hap the Soft has indicated they will try to reach Anvil in time for the start of the Symposium**
+
+The [Mournwold](../nations/the-marches/Mournwold.md) orcs claim that they reincarnate. This belief is a fundamental part of their religious beliefs and [they react badly to being told otherwise](../world/Mournwold_Orcs.md#religion). The former thralls have no evidence to back up their claim, indeed it is not clear what proof might even look like given that orcs cannot benefit from liao or true liao. Still, they have always been clear that they will not give up this belief, most would choose death rather than renounce their beliefs.
+
+[The Doctrines of the Faith](../religion/The_Doctrines_of_the_Faith.md) are clear that orcs live only once; it is an explicit part of the Doctrine of the Howling Abyss that states that "Orcs live only one life. After death, the orcish soul either is lost to the Howling Abyss or crosses it to become an Ancestor who can guide and advise living orcs." While the Mournwold orcs don't usually foist their beliefs on non-Marcher orcs, their views are still very clearly heretical.
+
+To date, the Empire has been meticulously ignoring the problem. The Marchers encouraged the Mournwold orcs to join the nation with an assurance that this conflict of faith could be resolved later, but a solution has to yet to be found. But their existence forces the Synod to tackle a fundamental question - if the Synod cannot reconcile their beliefs with the Doctrines, then they either proscribe the belief in orc reincarnation - an outcome that can only end in bloodshed - or the moral and legal authority of the Synod will be hopelessly undermined. Heresy can't be a crime, legally enforceable by law, while simultaneously there are hundreds of people living in the Mournwold who everyone knows reject one of the Doctrines of Faith.
+
+It would be foolish for any priest to imagine that the problem might be resolved by persuading the Marcher orcs that their views are wrong. They may have been Jotun once, but they are Marchers now and they're every bit as stubborn as their human neighbours. The only way they could be persuaded to abandon their views would be if they were shown incontestable proof that they were wrong.
+
+A formal invitation has been sent to the Mournwold orcs asking them to attend the Symposium. Hap the Soft has responded to let people know that they will try to attend the start of the Symposium in time with the other guests. Brother Luke has made clear that the Symposium intends to hear what the Marcher orcs have to say - it seems the Synod has decided that the issue can be ducked no longer.
+
+### Lucidians
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The assembly invites the Raboviches of False Hopes and Arbiter Aphroias of the Hall of the Newborn Sun to represent lucidianism at the upcoming symposium.
+> >
+> > Darian Numbers, Spring Equinox 388YE, Vote: 134-0
+
+- **The Assembly of the Way has invited two groups of Lucidians to address the Symposium**
+- **The Raboviches of False Hopes are a Varushkan banner based in Ossium**
+- **The Hall of the Newborn Sun is an Urizen citadel based in Morrow**
+- **Phocas of the Hall of the Newborn Sun plans to arrive for the start of the Symposium**
+
+The Assembly of the Way have invited two noted groups to attend the Symposium to represent [Lucidianism](../religion/Schisms_and_Heresies.md#the-lucidian-blasphemy-auran-idolatry). Founded in the spires of Urizen, Lucidians claim that the creation of virtuous auras, through means such as consecration and anointing, actually interferes with the objective and rational pursuit of a Virtue. Some Lucidians go so far as to claim that such auras represent a form of idolatry and are as inclined to remove a virtuous aura as a malign spiritual presence. To date, Lucidians have always been a minority in the Synod, but a Lucidian approach is the mainstay of the [Commonwealth](../foreign-nations/Commonwealth.md) view of the Common Good.
+
+False Hopes is an outpost built from the bones of an old Druj logging camp in south-east Drownbark in [Ossium](../nations/varushka/Ossium.md). There are two notable members of the banner, both of whom regularly attend Anvil, **Konstantin Rabovich Bolotnikov** and **Sławomir Rabovich Bolotstrazh**. At least one of the Raboviches is currently expected at Anvil at the coming summit but they have not yet indicated if they intend to take up the invitation.
+
+The Hall of the Newborn Sun are an [Urizen](../nations/urizen/Urizen.md) [citadel](../nations/urizen/Spire.md#citadels) based in [Morrow](../nations/urizen/Morrow.md). According to the records the [arbiter](../nations/urizen/Arbiter.md), Aphroias, [attended Anvil in Winter 383YE](Some_heavenly_music.md#hall-of-the-newborn-sun), to propose adding the *Book of the Restless Spirit* to [Urizen lore](../nations/urizen/Urizen_magical_traditions.md#urizen-lore) if the General Assembly would pass a statement of principle confirming that Lucidian views were not heretical. A [sufficient judgement](../synod-judgements/384YE_Autumn_Equinox_Synod_judgements.md#judgement-27) passed the General Assembly in Autumn 384YE and the Book was ultimately added to Urizen lore. The Hall also provided a [powerful artefact](Rings_and_crowns.md#glare-of-the-noonday-sun) to [Caleb of the Cenotaph](../conclave-sessions/385YE_Summer_Solstice_Conclave_sessions.md#endowment-ring-of-the-newborn-sun) in gratitude for his efforts to rid Urizen lands of the Druj miasma.
+
+---
+
+Categories: [Wind of Fortune](../../indexes/by-category/Wind_of_Fortune.md), [388YE Summer](../../indexes/by-category/388YE_Summer.md)

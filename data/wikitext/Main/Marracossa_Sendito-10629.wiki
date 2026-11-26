@@ -1,0 +1,33 @@
+==Overview==
+The Marracossa Sendito is an [[Imperial title]]  awarded to a [[The Brass Coast|Freeborn]] citizen. It is a national position appointed through the [[Bourse]]. The position was created part of the [[Cede_Trajadoz|motion]] to cede the town of [[Madruga#Trajadoz|Trajadoz]] to the Marracossans.
+
+==Responsibilities==
+The Marracossa Sendito serves as the representative from the Empire to the Marracossans, and in turn represents the Marracossans to the Empire. If anything were to threaten Trajadoz they would be responsible for ensuring the safety of those who live there.
+
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightBlue;">'''Pavlus' Mirror of the Night'''</td></tr>
+<tr><td>46 crowns</td><td>1 Pavlus' Mirror of the Night</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightBlue;">'''Raptis Hook'''</td></tr>
+<tr><td>12 crowns</td><td>1 Raptis Hook</td></tr>
+<tr><td>24 crowns</td><td>2 Raptis Hook</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightBlue;">'''Ichos' Fork'''</td></tr>
+<tr><td>12 crowns</td><td>1 Ichos' Fork</td></tr>
+<tr><td>24 crowns</td><td>2 Ichos' Fork</td></tr>
+</table>
+</div>
+==Powers==
+===Marracossan Artisans===
+As a [[ministry]], the title of Marracossa Sendito allows the holder to purchase [[magic items]] at a set price. The Sendito spends their decision about how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed. 
+
+==Appointment==
+This title is appointed during the Winter Solstice. The Marracossa Sendito is appointed by citizens of the Brass Coast who control [[Fleet|fleet]] [[Resource|personal resources]]. The voting is handled by the civil servants in the Bourse. 
+
+Only a Brass Coast character may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse, they cannot be [[revocation|revoked]] by the [[Synod]].
+
+{{RecentElections|Marracossa_Sendito}}
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:The Brass Coast]]
+[[Category:Bourse]]

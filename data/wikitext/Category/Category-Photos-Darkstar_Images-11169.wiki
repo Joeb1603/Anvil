@@ -1,0 +1,6 @@
+You can find more excellent photo by Darkstar Images at their [https://www.instagram.com/darkstar_image/ instagram]
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br>
+
+''<nowiki>{{Darkstar}}
+</nowiki>''

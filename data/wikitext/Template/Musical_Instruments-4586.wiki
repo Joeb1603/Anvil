@@ -1,0 +1,4 @@
+* '''Form:''' Weapon. Takes the form of any kind of musical instrument. You must be performing music with this item to use its magical properties.
+* '''Requirement:'''  You must have the [[Religious skills#Dedication|dedication]] skill to bond to this item.
+[[Category:Magic Items]]
+[[Category:Musical Instruments]]

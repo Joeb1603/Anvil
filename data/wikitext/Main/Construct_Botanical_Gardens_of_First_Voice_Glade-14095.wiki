@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:388YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Rhisiart Heartsbane, Senator for Miaren, Seconded: Bronimir Ranedzkah Pinewheel, Senator for Ossium">To commission the restoration of the Botanical Gardens at the First Voice Glade School in Miaren. Self-funded, raised to the benefit of all who seek to study with the Navarr as masters of herb-lore. The restoration of the gardens will empower the Dean of the First Voice Glade to upgrade a member of the Vallornguard's herb garden without cost each summit, strengthening prosperity and the health of the Empire
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Oakways, Miaren
+* Passed
+
+==Date==
+* Autumn 388YE
+
+==Cost==
+* Standard costs apply
+* 30 wains of weirwood
+* 90 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Botanical_Gardens_of_First_Voice_Glade}}
+==Outcome==
+Once complete, the botanical gardens will have the following effects:
+*The [[Dean of the First Voice Glade]] will once again receive 27 drams of herbs each season.
+*The Dean of the First Voice Glade will be able to upgrade a single basic [[herb garden]] belonging to a member of the [[Vallornguard]] each season

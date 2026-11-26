@@ -1,0 +1,53 @@
+{{CaptionedImage|file=Carpentry.jpg|align=left|title=A Varushkan artisan hard at work at his lathe.|caption=A runeforge allows an [[Crafting skills#Artisan|artisan]] to create unique [[magic items]].|width=500}}
+==Overview==
+A runeforge allows the Empire to create new [[magic items]]. Creating a new magic item is normally a process that can take generations of refinement and experimentation - combining the magical [[materials]] in the right way and the right proportions is an art, not a science. A runeforge greatly speeds up this process, focusing the skills of dozens of master [[Crafting skills#Artisan|artisans]] into experimentation and research, and providing both extensive materials and expensive books or examples of existing magic items with which they can work.
+
+A runeforge is an expensive proposition, and once complete is likely to cover an extensive area. In addition to the work areas, the runeforge will incorporate apartments for the artisans and their assistants, as well as the infrastructure needed to support them. It is also likely to include warehouses for supplies and stores, and more than likely at least one library where books and scrolls can be referenced. A place to preserve and display failed, depleted or partially-successful magic items will also prove useful.
+
+Despite being called a "forge" it is equally possible to create any type of magic item here. A skilled tailor from a [[Dawn|Dawnish]] [[weaver cabal]] will rub shoulders with a gruff [[the Marches|Marcher]] smith, while an [[Urizen|Urizen]] weaponsmith argues the finer points of the use of [[Materials#Dragonbone|dragonbone]] with a [[The League|League]] mask-maker.
+
+==Senate Commissions==
+The [[Senate]] may pass a motion for the construction of a runeforge. The Senate must select a [[territory]] and region where the runeforge is to be built. 
+
+When the construction is complete a new Imperial title is automatically created. The title may be either an Imperial or National position. The Senate motion should state what the title is called, and how it will be appointed. The most likely path is for an Imperial or National position to be appointed by the Imperial Senate, or through the Imperial Bourse.
+
+In the opinion of the Constitutional Court, the power to appoint the title could '''not''' be given to the [[Conclave]], unless that body was altered to allow the full participation of artisans. Such a change would be complex and difficult, not least because artisans cannot reach the Hall of Worlds, and would certainly require the authority of [[The Throne]] to ratify.
+
+===Benefits===
+====Unique Crafting====
+The runeforge can be used to create a single copy of a unique magic item. It takes six months to research a new item, which can require up to 40 materials to create. If the finished item requires more than 40 materials, it requires one extra season of work for every 20 extra materials. When the research is completed, the master of the forge is presented with a standard magic item that, as with all such items, will last for one year. 
+
+At this time, the master of the forge may choose to learn the ability to make that item for the usual experience point costs. However, the character will be unable to teach anyone else how to make the item - the ability to do so will remain theirs alone.
+
+====Forge Schema====
+Instead of constructing a single copy of a magic item, the master of the forge may choose to make a [[Magic items#Schema|schema]]. It takes six months to research a schema, which can require up to 40 materials to create. If the finished item requires more than 40 materials, it requires one extra season of work for every 20 extra materials. 
+
+Creating a schema requires ten rings of [[ilium]], regardless of how many materials are needed to create the item. A schema is permanent unless destroyed with [[Words of Ending]].
+
+A schema is a "pattern" for the new crafted item that anyone can use to learn the method of creating the item. It can also be expended with the assistance of the Imperial Senate to spread the knowledge of how to make the new item throughout the Empire.
+<box>
+'''Unique items'''<br>
+A unique item is one that does not already exist in the magic item lists. It is likely that such an item will need to be [[magic items#Bonded items|bonded]], and will be a [[Magic_items#Weapons|weapon]], [[Magic_items#Armour|armour]], [[Magic_items#Talismans|talisman]] or [[Magic_items#Group_Magic_Items|group magic item]]. Magic items tend to do one thing, rather than multiple types of things, and creating an item that does more than one thing is increasingly more expensive that creating an item that does one thing well. Not every ability of a magic item is equally appropriate to every kind of item, and more powerful items may prove to be prohibitively expensive in terms of time or materials required - or flat out impossible. It is worth talking to Profound Decisions about the kind of item you wish to create so that we can work together to come up with something possible that is as close as we can get to your original idea.
+</box>
+
+==Costs==
+* Materials: 60 wains of [[mithril]], 60 wains of [[weirwood]], 60 wains of [[white granite]], and 540 crowns
+* Time: 1 year
+
+==Upkeep==
+An Imperial runeforge employs large numbers of artisans drawn from the nation where it is stationed. These craftspeople are paid handsomly for their work, but much of the upkeep costs are defrayed by the costs of items that the runeforge provides to locals. Each runeforge costs 12 thrones per season, paid for from the [[Senate]] budget.
+
+===Maximum Numbers of Runeforges===
+The Empire cannot sustain an unlimited number of runeforges. In addition to the significant drain on the treasury of the [[Senate]], each individual nation can only provide so many artisans. There is a maximum number of runeforges that a nation can sustain at any given time. The Senate cannot build a new runeforge in that nation unless there are enough artisans present to support it.
+
+At present, two nations are supporting runeforges: [[Urizen]] and [[Wintermark]]. As of the start of the Autumn Equinox 388YE, the following nations could all support a '''new or additional''' runeforge: [[Wintermark]], [[Navarr]], [[Dawn]], [[the Marches]], and [[Varushka]]
+
+Gaining or losing territory has less impact on a nation's ability to support a runeforge, unless that territory is home to a particularly large number of artisans. It is possible for an [[opportunity]] to enable a nation to create a runeforge even if they couldn't normally support one - if that happens then the existing ability to support a runeforge is still used. 
+
+A runeforge operated by an external power - such as an eternal or a foreign nation - has no effect on a nation's ability to support a runeforge as it is not staffed by Imperial artisans.
+{{#lst:Archive:All_Commissions|runeforges}}
+
+==OOC Note==
+The runeforge is used during downtime. The player who controls the runeforge should email {{plot}} before downtime closes with the details of the item they wish to try and create. If they want to make a schema, they will need the appropriate number of rings of ilium in their inventory. Profound Decisions will let the player know before the next event the number and type of materials required to make the new item.
+[[Category:Senate]]
+[[Category:Commission]]

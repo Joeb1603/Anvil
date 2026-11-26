@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Spring]]
+__NOTOC__
+<quote by="Proposed: Volodmartz, Seconded: Ossium">To commission the Inn of the Granite Stag in Veltsgorsk, a folly establishing a ministry that will allow the holder of the Granites of Veltsgorsk to purchase additional white granite, up to a maximum of 12 wains a season. Fully self funded by the seat holder.</quote>
+==Overview==
+* Constructs an inn to support the [[Granites of Veltsgorsk]] as per '''[[Deep_forests_and_dark_hills#Granites_of_Veltsgorsk|Deep forests and dark hills]]''' wind of fortune
+* Passed
+==Date==
+* Spring 386YE
+==Cost==
+* Costs as per opportunity
+* 10 weirwood
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Inn_of_the_Granite_Stag}}
+==Outcome==
+* Now complete, the Custodian of the Granite of Veltsgorsk is able to directly fund storytellers and miners to visit the inn - represented by a [[ministry]].

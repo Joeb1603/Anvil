@@ -1,0 +1,210 @@
+---
+title: Site safety
+source: https://www.profounddecisions.co.uk/empire-wiki/Site_safety
+class: out-of-character
+topic: rules
+categories:
+- Rules
+- Safety
+last_edited: '2026-09-01T11:08:19Z'
+revision: 144515
+---
+
+# Site safety
+
+## Overview
+
+Please read all the following safety rules carefully. If you plan to take part in combat there are additional [combat safety](Combat_safety.md) rules that you will need to read. Likewise, if you plan to use a bow or crossbow, you must read the [bow safety](Bow_safety.md) rules. You must contact us in advance for permission before you engaging in any fire performance - and read the [fire performance](Fire_performance.md) safety rules carefully.
+
+## Vehicle Safety
+
+- **Please update your vehicle registration and contact number on your account and display your PID in your windscreen**
+- **You must observe the 10mph speed limit at all times once you leave the public road**
+- **Use indicators as normal to indicate direction of travel, do not use hazard lights**
+- **No vehicles are permitted on the IC field during the hours of time-in**
+
+If you are coming to the event by car, please update your vehicle registration and contact number on your PD account, so that we can find you to move your vehicle if needed for any reason. You must also display your PID in your windscreen while your car is on site. The gate team have paper slips available if you need one to write your PID on.
+
+There is a 10mph speed limit in place all across the site. You must reduce your speed to 10mph or less as soon as you turn off the road. Use indicators as normal to indicate direction of travel on site, do not use hazard lights.
+
+There are roads that go through the out-of-character camp, through Anvil and back. Vehicles are allowed to leave the road provided the conditions are acceptable, please check with a member of crew for further details when you are on site. No vehicles are allowed into the IC area while the game is running. See the site map for the [event](../events/Events.md) for a map of which parts of the site are accessible when. If you require vehicle access on the IC field, for example to leave site due to an emergency, go to GOD or speak to a member of crew with a radio who will arrange an official escort for you and your vehicle.
+
+### Parking
+
+- **Form straight rows when pitching and parking in designated camping areas**
+- **No overnight parking in short stay parking**
+- **No sleeping in long stay or short stay parking**
+
+To improve safety and security, please form straight rows when pitching and parking in designated OC areas. The traffic team will be on hand to assist at the beginning of the event. If you have any questions about where to pitch your tent or park your vehicle, please speak to the Traffic team who can direct you.
+
+Please do not park in short stay overnight. This area is designated for people who are coming and going each day. We understand there may be exceptions as plans may change. Do not move your vehicle if you are intoxicated; your safety is more important. You are welcome to sleep in your vehicle in the pitch and park areas if you wish to do so. You must not sleep in the short or long stay parking areas.
+
+## Tent Safety
+
+- **Your tent must be securely pegged and guyed down**
+- **You must follow tent safety instructions given by the site crew**
+- **If your tent is unsafe, you may be asked to remove it**
+- **If your tent presents an immediate danger, our crew will take necessary steps to secure it**
+- **These rules apply to tents on both OC and IC fields**
+- **Ensure your tent is a safe distance from other tents**
+
+All tents pitched at a Profound Decisions event must be pitched safely. Unsafe tents can be a danger to other participants as well as their occupants. Our team will always act, if needed, to remedy any situation where they deem a tent to be unsafe. Our tent team can provide advice and help to ensure your tent is secure and pitched safely if you need any assistance on the day. The [costume](Costume.md) page has guidance on [what tents are appropriate for the in-character field](Costume.md#in-character-tents).
+
+Before travelling to the event, check that you have all the parts of your tent, including pegs, poles, and ropes, and that your tent canvas is intact. Replace or repair any damaged or missing parts in advance. If, once you are on site, you discover that your tent is missing parts, or not in usable condition, please first try to seek help or borrow materials from other players, before asking crew. Our team will do our best to help if necessary, but be aware that we have a very limited supply of spare tent materials. We will offer what assistance we can, but in most cases we only have parts which are interchangeable between different styles of tents, such as pegs.
+
+*[Image: Make sure your tent is secure.](https://www.profounddecisions.co.uk/empire-wiki/File:Campstatue.jpg)*
+
+You must make sure that you pitch your tent carefully and safely. This includes pegging and guying down your tent securely to the ground. For most commercial out-of-character sleeping tents and in-character bell tents, all the materials you need to secure it will be provided by the manufacturer. You must use the guy-ropes supplied with your tent, or equivalent, even if you do not think the event will be windy.
+
+Large tents such as marquees and garage tents must be appropriately secured and may require additional guys or storm-lashings. Garage and frame tents with solid metal structures can be very dangerous in high winds if not secured. We will usually ask that you secure these tents with storm-lashings which pass over the entire body of the tent and are secured with sturdy ground anchors.
+
+Very lightweight tents, including some gazebos with aluminium frames, may require additional fixtures to keep them secure and prevent them blowing away in high winds. This may require pegs and guys beyond those provided by the manufacturer.
+
+If you have been given a tent that has been erected by our site team, you must not alter the location of the guy lines without speaking with a member of the site crew first, as these may impact the stability of the tent.
+
+An incorrectly pitched tent can present a danger to everyone. If our site crew (including camp planners) ask you to make any alterations to your tent, including taking it down or adding additional support, then you must follow the instructions given. If your tent cannot be made safe, we may need you to take it down.
+
+In an emergency, if your tent presents an immediate danger (for example: we assess it is about to collapse or blow away), our crew will take necessary steps to secure it. This could involve adding additional supports, or partially or completely dismantling your tent. We will make best efforts to do this without damage, but we have to prioritise safety in these circumstances. If we need to make an alteration to your tent for safety reasons and we cannot find you, we will leave a note on your tent or at GOD explaining what we have done and why.
+
+Tents should be far enough apart from each other that flames cannot easily spread from one to the next. The [camp planners](../events/Camp_planner.md) can advise you when pitching your tents to support this.
+
+All these rules apply to tents on both the out-of-character and in-character fields.
+
+*[Image: Make sure your tent does not obscure paths.](https://www.profounddecisions.co.uk/empire-wiki/File:Pathway.jpg)*
+
+### Pathways
+
+- **Do not stretch guy ropes into, or across, pathways**
+
+Whether you are camping IC or OOC please ensure that the location of your tent and the guy ropes do not stray into pathways as this can cause injuries, especially at night. If you are camping IC and are not sure of the location of pathways in your nation, speak with your [camp planner](../events/Camp_planner.md).
+
+### Mould
+
+- **Treat any mould on your tent with a fungicidal wash**
+
+Mould can develop on tents if they are not carefully maintained. Mould is not just unsightly, it can lead to ill health and can damage the fabric of the tent.
+
+You are strongly recommended to check your tent before the event and if there is any mould present to properly treat it with a fungicidal wash
+
+### Fighting
+
+- **Do not fight near tents**
+
+You must not attempt to fight near a tent. More details are on the [combat safety page](Combat_safety.md#general-safety).
+
+## Fire Safety
+
+- **All campfires must be raised off the ground and in a suitable container**
+- **You must make sure it is well away from flammable objects and has plenty of clear space around it free of trip hazards**
+- **Take extra care when cooking at events**
+
+All campfires at PD events must be raised off the ground, in a suitable container - the container should be positioned away from flammable objects, trip hazards, and so that any thoroughfare is possible without getting unduly close to it. Remember that wheelchair users and event attendees with large costumes might require more space than you to move past an area.
+
+Similarly, candles and lanterns should be held in suitable fixtures or containers, and placed so they neither risk being knocked onto something flammable, nor brushed into by accident. LED lights are always an acceptable alternative, and [need not look like flame](../game-design/Technology.md#lightstones).
+
+If the fire is to be in or around your tent, consider having the canvas treated with fire retardant (you can apply it yourself with paintbrushes or a cheap garden sprayer), and keeping fire fighting equipment nearby. At the very least, a good pair of boots can let you stamp out sparks before they spread.
+
+Any naked flame close to tent fabric increases the risk of an inadvertent fire. Please be aware of your surroundings when using cooking equipment and this includes understanding routes of escape if cooking inside a tent.
+
+### Supervision
+
+- **If you light a fire, it is your responsibility to ensure it is supervised and not left unattended**
+- **Don't use oil or similar on any open fires**
+- **Any fire with a visible flame, or which is producing sparks or has unignited fuel on it must be extinguished before you leave it unattended**
+- **Any fire you are responsible for must be completely extinguished each night**
+
+A fire with visible flame, one which is producing sparks, or one which has a hot bed of coals and unignited fuel on it, is a fire which presents an increased risk of igniting things around it. Such a fire should be supervised - that means having someone mature and sober enough to recognise danger and raise the alarm, that they should be within clear sight of the fire near-constantly, and that they should be aware they have responsibility for it. Any fire you are responsible for must be completely extinguished each night.
+
+By igniting a fire, you are committing to the idea that someone will be available to supervise it until it is extinguished or dampened. Don't use oil or similar on any open fire. It is always acceptable to declare yourself [Non-Contact](Combat_safety.md#non-contact) if combat or the threat thereof, would otherwise oblige you to leave a fire unattended. Always keep a bucket of water or fire fighting equipment, nearby to ensure that the fire can be put out at any time, if needed.
+
+To make a fire safe, remove as much unignited fuel from it as possible, and then spread the burning material as widely as possible within the container it has been laid in. This will leave a bed of very hot ashes, but you will generally find it quickly stops having any visible flame, or emitting any sparks, which vastly reduces the risk of it spreading outside its container. At the end of the evening, douse the ashes with water, or put a suitable airtight lid on the container, to extinguish the fire completely.
+
+Similarly, candles and lanterns should not be left alone when lit.
+
+### Disposal Of Ashes
+
+- **Hot ash disposal points are provided at multiple points around the site**
+- **Do not put hot ashes in the normal waste disposal under any circumstances**
+
+Ashes remain hot far longer than you might expect. It is common for Saturday night's ashes to still be hot enough to melt straight through bin bags after time-out on Sunday.
+
+It is not acceptable to put hot ashes in the normal waste disposal, nor to dump ash on the ground anywhere at PD events.
+
+Instead, hot ash disposal points are provided for your use at multiple points on the site - before lighting a fire, know how you are going to get the ash to one of them. Ask at GOD if you are unable to locate an ash disposal point.
+
+### Carbon Monoxide
+
+- **Do not use a BBQ or similar solid fuel heater inside a tent**
+- **Do not sleep in a tent with the remains of any sort of fire - this is a serious health hazard**
+
+Carbon monoxide is a colourless, odourless and toxic gas produced when burning fuels such as charcoal briquettes, wood or coal. It is not dangerous when properly ventilated but burning these fuels inside a tent increases the risk of carbon monoxide poisoning.
+
+Carbon monoxide poisoning kills, and one source for it is fires and barbecues that appear extinguished. Do not use a BBQ or similar solid fuel heater inside a tent.
+
+There have been tragic cases of campers at other events who have brought a "used" disposable barbecue into their tent overnight, and perished. Do not sleep in a tent with the remains of any sort of fire. The only exception to this would be a properly installed, enclosed, stove - with a flue that vents outside the tent. In that case, please ensure that you have a carbon monoxide detector located inside the tent.
+
+### Candles
+
+- **We strongly encourage the use of LED lights in Empire rather than candles**
+- **Do not use a candle in any tent where people are sleeping**
+
+[Lightstones](../game-design/Technology.md#lightstones) are cheap and common in Empire - we encourage everyone to use LED lights rather than candles. Candles cannot be used in any tent where people are sleeping or in any modern fabric tents. They should not be used where young children are present, they should be placed away from children. They should be held in a sturdy non-flammable candle holder suitable for the task. Where candles are used in a tent the person in charge of that tent must ensure a suitable method of extinguishing fire is available. A bucket of water or sand is suitable. They must be extinguished when not supervised.
+
+### Pyrotechnics
+
+- **You may not use pyrotechnics at Empire without prior permission**
+- **The only exception is for coloured flame effects**
+
+We don't permit participants to use loud pyrotechnics explosives or pyrotechnics with significant safety issues at Empire. Our crew may use pyrotechnics at times for special effects, but they cannot be used by players or any crew member who is not approved by our SFX team to use them.
+
+There are a selection of commercial preparations intended to give a coloured flame effect in a campfire - they are often branded as "magic flames", "coloured flames" or "fire salts", and generally give a greenish-blue colour to the fire. The most common contain a mixture of Cupric Sulfate, Cupric Chloride and Polyvinyl Chloride. While these are technically pyrotechnics, you may use commercial preparations of this nature, so long as you follow the manufacturer's instructions. This means that if you pass them to other event attendees, you must make sure they also have access to a copy of the manufacturer's instructions. You must only use these preparations with the knowledge and consent of the person who is currently responsible for the fire in question.
+
+There are a range of small pyrotechnic devices such as smoke pellets, chimney testers, flash paper, vape-based 'smoke' effects which you can ask for permission to use in a personal capacity at the event. You can [email us](mailto:fire@profounddecisions.co.uk) to discuss your request. If you are given permission to use a small pyrotechnic device of this kind, then only you may use it, you cannot give it to another participant to operate.
+
+### If There is a Problem
+
+- **Please report any problem to the first member of crew with a radio that you can find**
+- **Do not tackle a fire unless you have suitable equipment available and it is clearly safe to do so**
+- **If a fire has become a danger then shout FIRE! loudly to draw the attention of the nearest member of crew**
+- **Withdraw from the area and stop shouting once a crew member arrives**
+
+Profound Decisions will never introduce any plot or encounter involving a fire spreading in Anvil, as such, treat reports of fire spreading as OC information, and react accordingly.
+
+If you see a fire that is clearly in danger of spreading outside of its intended container, immediately take action to move yourself and anyone near it out of immediate danger, and then alert someone with a radio. The site crew will have access to firefighting equipment, and the local fire service will be alerted if the situation is severe enough. The event first aid team has specialist burns training and equipment available. If there is suitable equipment available and you are certain it is safe to do so, consider tackling the fire yourself, but err on the side of caution. Tents can be replaced; people cannot.
+
+If you see a fire in a state that you believe presents an immediate danger to people or property, or that you think will develop into one, calmly and politely alert the person supervising the fire to that situation. If you cannot identify that person, or you do not believe their response has mitigated the danger, then do not take any further action yourself, or engage in protracted discussion - alert PD crew instead (by way of anyone with a radio), and let them handle the situation.
+
+Do not attempt to fight a fire that has become well established - instead alert our crew as soon as possible. Alert the crew by shouting fire! as loudly as possible. Continue to do this until a member of crew equipped with a radio arrives on the scene. At that point stop shouting and withdraw from the area. The crew will respond to the fire.
+
+## If You Need Help
+
+- **Help is available throughout the event**
+- **If you're not sure where to ask a question, GOD is the best place to start**
+
+If you require medical assistance - go to first aid, or ask anyone with a radio to contact first aid on your behaviour.
+
+If you have site safety concerns- go to GOD, or ask anyone with a radio to contact GOD who will contact the appropriate team to respond.
+
+If you find yourself feeling overwhelmed, anxious or distressed - speak to any member of crew, if they cannot assist you, they will contact [participant welfare](../events/Participant_welfare.md).
+
+If you have a conduct problem to report - go to GOD, or ask anyone with a radio to contact [conduct](Conduct.md). Or if you prefer, you can email the conduct team after the event.
+
+If you have administrative or general queries - go to GOD and they will resolve them for you.
+
+## Further Reading
+
+- [Characters](Characters.md)
+- [Playing the Game](Playing_the_game.md)
+- [Referees & GOD](Referee.md)
+- Safety
+  - Site Safety
+  - [Combat Safety](Combat_safety.md)
+  - [Bow Safety](Bow_safety.md)
+  - [Weapon Checking](Weapon_checking.md)
+  - [Fire Performance](Fire_performance.md)
+- [Conduct](Conduct.md)
+- [Downtime](Downtime.md)
+
+---
+
+Categories: [Rules](../../indexes/by-category/Rules.md), [Safety](../../indexes/by-category/Safety.md)

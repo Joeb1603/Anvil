@@ -1,0 +1,153 @@
+[[Category:Winds of Fortune]][[Category:387YE Autumn]][[Category:Recent History]][[Category:Appraisal]]
+<ic>"The dowsers reports are in sir." said the young woman, holding up a set of paper sheaves. She extended her hand forwards as if to hand them to the sombre man sat behind the dark wooden desk, but at the last minute she changed her mind and placed them on top of the smooth mahogany.
+
+Startled by the intrusion, Professor Gelberg looked up from the letter he was reading. He leaned forwards so that he could peer over the top of his spectacles at his student and eyed them for a moment, silently pondering what to say next. It was a bad habit that made his students nervous and he knew it, but somehow he couldn't seem to shake it. "Can you tell me what they say?" he asked at last, as much to break the silence.
+
+"They've confirmed what we suspected from the measurements we took from the two unconfined wells on the east side of the city. They're both relatively shallow, but there is a much larger aquifer beneath it. It's covered by a thick layer of rock... it will take time to drill through it, but it's eminently possible. There's a report with them from the local engineers, they've confirmed they can make the drills we need."
+
+"Excellent. Excellent work Carina. You've been very thorough."
+
+Immanuel's student nodded her head quickly in acknowledgement of the praise, the faintest hint of a smile visible on her lips. "We're still waiting on the other locations, but we're cautiously optimistic. Two of the remaining sites look equally promising."
+
+"Excellent - thank you. I'm sure our hosts will be very pleased. With luck, this is exactly what they're hoping for. You can leave these," he said pointing at the papers on the desk, "I'll read through them when I'm done here. Let me know when you hear more."
+
+The dismissal was subtle, but Carina immediately acknowledged it and turned to leave. She was a smart woman, she'd make an excellent researcher one day, he thought to himself. That was, if she didn't end up training to be an officer like her uncle. He frowned at that thought, reminded of just how much was at stake right now.
+
+He looked back down at the letter he'd received from Professor Schmidt and frowned again. A colleague writing him to ask him his views was nothing unusual, but something about this magic proposed by Schmidt was preying on his mind...
+</ic>
+<div style="float:left; width: 300px; clear: right;">{{CaptionedImage|file=Actuallythebest001.png|caption=Holberg is regarded by some as the greatest city in the entire world, but that is not to say that it is a stranger to problems and protracted sieges.|align=left|width=300}}</div>
+==Overview==
+At the Summer Solstice '''Lula''' and '''Bernhard Kleist von Ennerlund''' and '''Cees van Holberg''' won the [[Patron of the Beurteilung|patronage of the Beurteilung]] at [[387YE_Summer_Solstice_Imperial_elections#Bourse_Auction|auction]] for twenty thrones. This gave them the right to request that the scholars of the Commonwealth appraise a pressing matter, much as if it were an [[appraisal]] being carried out by the prognosticator's office. The work is led by ''Professor Immanuel Gelberg'', a studious [[Commonwealth]] scholar whose work emphasises the [[Commonwealth#Religion|Common Good]]. This season, Die Beurteilung is set the task of assessing "''any innovative mechanisms to secure and bolster Holberg's food and water supplies against threats that are to come''."
+
+In truth, the city is currently well-provisioned by supplies coming from Dawn and the rest of the Empire, so boosting the food supply doesn't provide much in the way of immediate returns. There are concrete steps the nation could take to lay in supplies in Holberg against a siege and increase the amount of viable farmland beyond Holberg's walls, but without an urgent need, there are few benefits now.
+
+Of course it might be invaluable in the future - if events change. After all, who can who can say what threats are to come?
+<div style="float:right; width: 500px; clear: left;"><quote by="Instructions to Professor Immanuel Gelberg">In vigilant preparation, direct the scholars of the Commonwealth to assess any innovative mechanisms to secure and bolster Holberg's food and water supplies against threats that are to come; whether for a protracted siege, or especially to feed an influx of significant numbers of refugees. We do this in acknowledgement that our Common Good is an admirable goal, and to protect the current and future inhabitants of Holberg, the Greatest City in the Empire.</quote></div>
+
+==Greatest City in the Empire==
+* '''Professor Gelberg and his team are keen to get to work exploring opportunities in Holberg
+The professor and his team are happy to be working in Holberg; they seem very taken with the city. The Commonwealth has a pair of [[fortification|fortifications]] which are ''near'' the size of the vast defences that protect the city, but both these fortifications are stand-alone affairs built on the Commonwealth's borders with [[Principalities of Jarm|Jarm]], well away from any conurbation. Commonwealth cities and large towns are usually walled to protect against bandits and opportunistic raids, but they have nothing like the gigantic fortress-city of Holberg.
+{{SOP|statement=Citizens of Holberg, it is our virtuous duty to increase provisions for our great city and the armies who resupply here. We urge you to look to your ingenuity in making the fertile lands of Utterlund more productive, and welcome any Sand Fishers who wish to aid you.|by=Lia Adelaar, League Assembly|vote=Greater Majority 240-0|when=Summer Solstice 387YE|size=small}}
+They are also pleased with the warm welcome they receive, and the enthusiastic cooperation of many of the Holburghers with an interest in their work. This collaborative spirit is of course further bolstered by the words of '''Lia Adelaar''' and the League Assembly, who urged them to offer their own ingenious suggestions as to how to make the lands of [[Holberg#Utterlund|Utterlund]] more productive, and to welcome any Sand Fishers who might wish to become involved in the project.
+
+After a few days of settling back in following their [[Beat_of_your_drum#Sun_and_Gold|recent visit]] to the [[Great Library of Hacynian]], the professor judges it prudent to consider the supplies of food and drinking water. Getting enough of both is ''always'' a problem for a city and while Holberg manages, it would struggle if there was any kind of substantial siege. Given the scale of the defences, a protracted siege could well be the easiest way to take the city. Once the invaders had seized control of [[Holberg#Holmauer|Holmauer]] and [[Holberg#Rebeshof|Rebeshof]] they could cut the supply lines to the city and starve it out.
+
+After some consideration, the Professor presents his conclusions in two parts - improving the food supplies to the city from the outlying regions and making provisions against the prospect of a siege or of the city needing to take in a great number of refugees.
+==Siege and Refugees==
+* '''Professor Gelberg proposes drilling three deep wells and building seven storehouses spread around the city'''
+* '''The proposals would protect against the effects of a siege for two seasons and allow the city to support any number of refugees'''
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Seven Stores'''</tr>
+<tr><td>'''Commission Type:''' Edifice</td></tr>
+<tr><td>'''Location:''' Holfried, Holberg</td></tr>
+<tr><td>'''Cost:''' 20 white granite, 5 weirwood, 5 mithril and 30 thrones in labour and set-up costs</td></tr>
+<tr><td>'''Time:''' 1 season</td></tr>
+<tr><td>'''Upkeep:''' 3 thrones</td></tr>
+<tr><td>'''Effect:''' 
+* Provides enough provisions to completely protect the city against a siege for two seasons
+* Provides enough provisions to feed any number of refugees that come to Holberg (they might still need shelter)
+* Provides enough supplies to keep two armies in Holberg in supply for two seasons</td></tr>
+<tr><td>'''Option:''' Double the upkeep to 6 thrones to provide subsidised food to reduce hunger among the poor of Holberg</td></tr>
+<tr><td>'''Availability:''' Unlimited</td></tr>
+</table></div>
+
+The city of Holberg already benefits from extraordinarily good protection against a siege. The region of [[Holberg#Holfried|Holfried]] is hilly and the bulk of the city abuts the mountains of neighbouring [[Semmerholm#Estmure|Estmure]] in [[Semmerholm]]. There is a narrow mountain pass that leads from the city to Estmure - which the Druj were not able to close during their thirty year campaign to take the city. As long as that pass remains open any siege of Holberg is certain to fail.
+
+If a military force were able to take Estmure, then they could close the pass. At that point if [[Holberg#Holmauer|Holmauer]] and [[Holberg#Rebeshof|Rebeshof]] had been taken, the city would be cut off. Such a siege could quickly become devastating. Fortunately, Estmure is protected by [[Semmerholm#The_Adamant_Gate|the Adamant Gate]] a large fortification that is quite literally unbreakable! Nobody in Holberg would ever refer to Estmure and the Adamant Gate as an actual [https://en.wikipedia.org/wiki/Barbican barbican], but in effect it serves a similar purpose - to besiege Holberg proper, attackers would need to first capture the Gate.
+
+Still, what is good can always be made better. The commission for the Commonwealth scholars mentions the possibility of a large influx of refugees and that could quickly become a problem. It is always a challenge supplying a city with enough victuals and the city's wells could quickly run dry if there was a massive influx of people.
+
+It isn't practical to try and store large amounts of drinking water. Huge volumes would be required and the risk of it fouling would be too high. There are several [https://en.wikipedia.org/wiki/Well unconfined wells] that have been built over the years, but the Professor proposes to drill three new deep wells - digging shafts all the way down through the limestone to reach the confined aquifers far below the city. The work would be expensive and difficult, but once complete, there would be more than enough water to ensure the city never ran short, even if there was a huge influx of refugees, or the city was completely cut off.
+
+As part of the work, the Professor also proposes the creation of seven huge food stores situated around the city. These would hold grain, salted and cured meat, dried fish, and so on. It is important to keep them apart; a single store is at risk from fire, vermin or sabotage. After discussion with the city elders, the team suggest one large store for each of the seven Virtues. The work is challenging - drilling wells is expensive and time-consuming work. It is also dangerous and requires a highly skilled team. Fortunately the engineers of Holberg are a match for anything in the Commonwealth - there is nothing here that couldn't be handled at any time now that the Professor's team has done their work - if the whole edifice was commissioned.
+
+The stores would incur some running costs - grain needs to be purchased to fill the stores, and it can't be kept indefinitely. The best way to keep the food from spoiling is to sell a fraction of it each season and buy new to replace it - hence the costs. As a result, the stores would need three thrones each season in upkeep to keep them operating, reflecting the difference between the price of food purchased and the food sold.
+
+The civil service can easily manage the stores and arrange to dispose of any grain before it spoils by selling it in Holberg's markets, but the Commonwealth professors propose an alternative. Holberg is a powerful and wealthy city, but it still has its share of impoverished citizens, the poorest of whom struggle to find enough to eat. Rather than sell the grain for the best price, a portion of it could be distributed to the poor of Holberg. Such beneficence would be expensive - it would double the upkeep of the stores from three thrones a season to six - but it would mean that everyone had enough to eat. Such a commitment to the Common Good would improve the health of the poorest people in Holberg, helping the city grow faster and freeing the poorest from the need to spend their waking hours securing enough wealth simply to eat. 
+<div style="float:right; width: 300px; clear: left;">{{CaptionedImage|file=NBLeague.jpg|align=right|width=300}}</div>
+It's hard to assess if the benefits are worth the costs, given how well protected Holberg already is, but the combination of wells and grain stores would ensure that Holberg would be ''completely'' protected against the effects of any siege for two entire seasons after Estmure was taken. Only ''after'' that would supplies start to run out and the siege become a problem. Finally the storehouses would mean that an Imperial army could take refuge within the boundaries of the city for up to two seasons, without risk of running out of supplies. The army would not go [[Army#Out_of_Supply|out of supply]] for two seasons, despite their supply lines being cut. The general of an army wishing to take advantage of this would need to be in the territory and specify in their [[Army orders|orders]] that they were accepting the sanctuary of Holberg; if more than one army attempted this in the same season ''none'' would gain the benefit. While taking advantage of this opportunity, the army would ''not'' benefit from [[Casualties#Natural_Resupply|natural resupply]] (unless they were a League army), although they ''could'' benefit from [[Casualties#Emergency_Resupply|emergency supply]]. It would also not prevent other armies from the same nation being out of supply.
+
+The stores would also mean Holberg could support any number of refugees within the walls, or in nearby Holmauer, without suffering from starvation. Of course a large influx of people would need to be housed somewhere, so the stores wouldn't resolve all the problems that refugees might cause, but they would be enough to ensure there was no problem finding enough food for people to eat.
+
+'''OOC Note: ''' There are no rules for sieges in Empire at the moment, but in the event that we add rules for sieges, these defences would provide protection from any attempt to starve the city by cutting off supplies for two complete seasons.
+
+==Land and Ditches==
+* '''Professor Gelberg has rehashed the old civil service proposals for draining some of the wetlands of Holberg'''
+* '''The commission would remove the marsh quality from Rebeshof and Utterlund and the penalty to farms in Holberg'''
+* '''There are few people in Holberg interested in farming the new land so the benefits are minimal'''
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Seven Dykes'''</tr>
+<tr><td>'''Commission Type:''' Edifice</td></tr>
+<tr><td>'''Location:''' Holberg</td></tr>
+<tr><td>'''Cost:''' 30 weirwood, 90 crowns</td></tr>
+<tr><td>'''Time:''' 1 season</td></tr>
+<tr><td>'''Effect:''' 
+* One year after completion, Rebeshof and Utterlund would lose the marsh quality
+* The current penalty to farms in Holberg would stop
+* Makes it appealing for people to farm the new regions which would increase the supply of food to Holberg</td></tr>
+<tr><td>'''Availability:''' Unlimited</td></tr>
+</table></div>
+The other half of the appraisal was a request to increase the supply of food to Holberg. It doesn't take long for Professor Gelberg and his team to locate the issue. Most of the territory of Holberg has slowly surrendered to the spreading waters of the Nameless River. Decades of painstaking work to drain the marshes to create fertile farmland have been defeated by Druj malice as they destroyed the dykes designed to keep the waters out. There are people who live outside the city and eke out a living from farming what dry land remains, but they are few and far between. Most of Holberg has simply adapted to the loss of the drained land by buying more victuals from the Dawnish [[yeofolk of Dawn|yeofolk]] and merchants of Semmerholm.
+
+The most obvious way to improve the food supply of Holberg is clearly to drain the marshes of [[Holberg#Rebeshof|Rebeshof]], [[Holberg#Ennerlund|Ennerlund]], [[Holberg#Utterlund|Utterlund]] and [[Holberg#The_Morass|the Morass]]. Years ago, the civil service put forwards [[380YE_Autumn_Equinox_winds_of_fortune#The_Creeping_Morass|various proposals]] to rebuild the damaged dykes but at the time they were all too expensive to contemplate. The fact that there are so few [[farm|farms]] and [[herb garden|herb gardens]] in Holberg is probably why there was never enough support to save the land from the encroaching flood waters.
+
+Professor Gelberg brushes off the old plans and examines them carefully, with a view to looking at what parts of the proposals might be pared back to reduce the costs. The original proposal was put together with ambition to boost herb production in the territory - dropping those elements significantly reduce the costs. The slimmed down proposal is nicknamed the Seven Dykes - to match the proposal for the store houses in the city itself. In fact it would entail an extensive series of groundworks reinforced with [[weirwood]] timbers to hold the dykes in place at key locations towards the Nameless River but the name seems to stick no matter how misleading it is.
+
+It would take time to drain the land, Professor Gelberg calculates that Rebeshof and Utterlund would lose the marsh quality one year after completion of the dykes. But the current penalties to farms in the territory would end as soon as the work was completed, as the waters would leave behind fertile land as they receded. That would provide a lasting benefit to the food supply of Holberg, making farms here more productive and drawing more farmers to the area as the land becomes more viable. Ensuring adequate supplies of food are available is always challenging for any city but Holberg would be guaranteed to have no food supply problems for years to come if the work was completed, unless the city somehow managed to double in size.
+
+Sadly the benefits of the work are still marginal at best. At present there are few significant problems with food supply in Holberg; the city is able to import much of what it needs from nearby Dawn. Ever since Holberg joined the Empire, it has increasingly relied on importing large amounts of fresh food from the rest of the Empire - in many ways, that is actually part of what has made the city so successful. If the occupants of Holberg spent their time growing their own food, they would be far fewer successful businesses in the city. Holberg is known for its chefs, bakers, and victuallers not for its farmers - it does after all require an entirely different level of expertise to take raw ingredients and turn them into something wonderful than to dig those ingredients out of the ground in the first place. 
+
+Arguably though the problem is not the lack of farms, so much as the lack of ''farmers''. Most League citizens are simply not that interested in working the land, not when there is more gainful employment to be had elsewhere. Once the regions of Utterlund and Rebeshof are drained then people ''could'' set up profitable farms there - but why would Holbergers give up life in the city for that?
+
+==The Common Good==
+* '''It may be possible to persuade the Sand Fishers to farm the regions as foreigners'''
+* '''Doing so would increase taxation and make the Sand Fishers more prosperous'''
+* '''It would provide a modest increase in supply for League armies'''
+* '''Nothing could happen until the regions are drained'''
+Professor Gelberg discusses the problem with his Imperial counterpart - [[Appraisal#Naomi_of_Virtue's_Rest|Naomi of Virtue's Rest]] - who is also [[Any port in a storm|conducting an appraisal in Holberg]]. Both believe that the ideal solution is to persuade the Sand Fishers to set up farms in the newly drained regions. That option would provide potential benefits to both parties. Any new farms would be subject to taxation, increasing revenue to the Imperial coffers, but they would also increase the supply of produce, helping to ensure a surfeit of food available in the City.
+
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Seven Farms'''</tr>
+<tr><td>'''Commission Type:''' Amendment to the Seven Dykes</td></tr>
+<tr><td>'''Requirements:''' 
+* Rebeshof and Utterlund are drained by the construction of the Seven Dykes
+* Outreach to the Sand Fishers to persuade them to farm Rebeshof and Utterlund as foreigners
+* Herds of swine delivered from the Marcher markets, in the manner of the recent cattle markets
+</td></tr>
+<tr><td>'''Costs:''' 5 thrones to establish pig markets in appropriate Marcher towns</td></tr>
+<tr><td>'''Effect:''' 
+* Boosts Imperial taxation in the territory by up to 6 thrones a season
+* Increases League army supply - but not by enough to support an additional army at this time
+</td></tr>
+<tr><td>'''Availability:''' Unlimited</td></tr>
+</table></div>
+And the Sand Fishers should benefit as well. With access to all that land, they could establish substantial farms allowing them to make significant profits. At the moment the Sand Fishers are mostly running subsistence farming in Misericorde, focussed on gathering fish, eels, whelks, snails, crabs, lobsters, frogs and other "delicacies". The Sand Fishers consider their land to be an abundant paradise, and they're making good profits selling their goods in Holberg's markets where they are considered to be exotic speciality foods. But the methods they are employing will never result in a major increase in food supply to the city.
+
+And even if they could, it's not clear that the city would buy that much Sand Fisher food. Holberger's favourite food is sausage of every variety. From simple pork and beef sausages made with herbs and spices to enormously spicy cured meats, the city has an insatiable appetite for it. There's a limit to how much eel the folk of Holberg want to eat, but the city would cheerfully buy all the sausage the Sand Fishers could supply, provided the quality was there.
+<div style="float:right; width: 500px; clear: left;"><quote by="Personal Motto of Kanute Adelaar van Holberg, Custodian of the Bloody Great Sausage">Victory is like a good Sausage - You don't want to know how its made.</quote></div>
+There are a number of political and economic challenges involved. The Sand Fishers made discreet enquiries about the prospects for the region of Utterlund, but they assumed that the land would need to be ceded to them for them to own and work it. That simply isn't the case - there is no reason at all that the Sand Fishers couldn't own and operate very successful farms in Rebeshof and Utterlund, ''just like any other foreigner might''. The problem is their lack of vision - they were given Misericorde by the League, and they've prospered there - so now they're stuck thinking in those terms.
+
+To succeed the League would need to ''persuade'' the Sand Fishers to set up farms in the adjacent regions, not as ''rulers'' of the land, but simply as ''owners'' of it. The Sand Fishers should have few problems adjusting to Imperial law - they already follow it while visiting or studying in Holberg after all - and there is ample evidence that they are adopting a simplified version of it in Misericorde more out of expediency than anything else.
+
+The bigger problem is taxes. The Sand Fishers are currently choosing to give "taxes" to Holberg, making a donation of one throne a season. It's a token gesture, given the huge number of tiny farms and herb gardens they've set up in the region. If any of them moved their current operation to Imperial territory, they'd have to pay Imperial taxes, which would be a heavy burden for the small, inefficient farms the Sand Fishers run. They can't prosper in Imperial territory spending their days collecting eels, crabs and whelks by hand from coastal waters and river banks.
+<div style="float:right; width: 300px; clear: left;">{{CaptionedImage|file=NBMarches.jpg|align=right|width=300}}</div>
+But if they set up large prosperous pig farms, they could make a ''lot'' more money - at which point the taxes would be moot. They'd need to be persuaded to abandon traditional Sand Fisher hunter-gatherer approaches for more intensive farming techniques... and they'd need to acquire huge herds of pigs to set the new farms up. Those would need to come from [[the Marches]] - they're the only Imperial nation that could provide enough pigs to form new herds in the time available.
+
+Recent success with the [[Million_miles_of_water#The_Cattle_Markets|cattle markets at Stockford and Wayland]] have demonstrated that Marcher farmers can spare the livestock - but who would pay for it? The Sand Fishers are surprisingly resistant to the idea of accepting charity from the Empire, their understanding of [[Prosperity]] prohibits them from simply taking things without giving back. 
+
+To really produce meaningful benefits, the League would need to find a way to persuade the Sand Fishers to move to Rebeshof and Utterlund after the land was drained, convince them to set up large pig farms there, get them to accept the financial support needed to establish the new pig herds and convince Marcher [[yeomen of the Marches|yeofolk]] to make arrangements to provide the livestock. It's a tall order - but doing so would see taxes in Holberg rise, food supplies to the city increase, and see the Sand Fishers grow closer to the city of Holberg, even as they become more prosperous. Professor Gelberg is so excited by the idea, which he believes represents a perfect example of the Common Good, that he intends to author a paper on the subject that he hopes to submit to the ''Zeitschrift für strukturierte Ökonomie'' when he returns home.
+
+Of course at the moment it's little more than a theory. Since the implementation is primarily diplomatic in nature - finding ways to approach the Sand Fishers to engage them with the idea - the Professor has left that part to Imperial diplomats.
+
+However the early signs are promising - the Professor's team was overheard discussing the idea by his Sand Fisher guide, ''Swift-Fisher'', and she let them know that not all Holberg citizens eat sausages. She claims to know "for a fact" that the [[Merchant Prince of Misericorde Market]], is a [[Schisms_and_Heresies#Vitalism|vitalist]] who eschews meat and similar, and there are presumably other Holbergers who do likewise. However she then points out that she learned at school in Holberg that pigs can be trained to find truffles, which are a rare delicacy considerably more valuable than whelks. The professor recounts the story merely to illustrate that the idea was clearly not unappealing to her...
+
+Nothing could happen until the regions of Rebeshof and Utterlund were drained. The Sand Fishers are not worldly, but they're no fools - they're not about to set up new farms in the middle of a swamp. And the costs and benefits are hard to prognosticate because it would be dependent on the Marchers and the size of the herds of pigs acquired. The Professor is aware that large sums of money changed hands over cattle bonds recently, but he has no idea precisely how much was involved. However he estimates that if the League acquired every pig the Marchers could spare in a season, that would be enough to enable the Sand Fishers to set up scores of farms across the territory raising overall taxation by a maximum of 6 thrones a season (the returns would be less if some of the bonds were acquired by any potential competitors).
+
+The success of the project would also improve the League's ability to [[Army#Maximum_numbers_of_Imperial_Forces|support armies]]. It wouldn't be enough ''by itself'' to allow them to [[Army#Recruitment|raise]] a fourth [[army]], but it would be a valuable milestone on the way to reaching that ambitious goal.
+
+==Further Reading==
+Other winds about die Beurteilung and the amazing adventures of Professor Gelberg and his team of daring appraisers.
+
+* [[Germinating a city]]
+* [[Beat_of_your_drum#Die_Beurteilung|Beat of your drum]]
+* [[According_to_principle#die_Beurteilung|According to principle]]

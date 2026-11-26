@@ -1,0 +1,126 @@
+---
+title: 377YE Winter Solstice Synod judgements
+source: https://www.profounddecisions.co.uk/empire-wiki/377YE_Winter_Solstice_Synod_judgements
+class: in-character
+topic: synod-judgements
+categories:
+- Synod
+- Synod Results
+- Synod Judgements
+- 377YE Winter
+event: 377YE Winter
+last_edited: '2026-05-05T10:19:50Z'
+revision: 138014
+---
+
+# 377YE Winter Solstice Synod judgements
+
+## Appointments
+
+At the end of the Winter Summit, 377YE, the Imperial Titles in the Synod were held by:
+
+|  |  |  |
+| --- | --- | --- |
+| **Virtue** | **Cardinal** | **Gatekeeper / Conscience** |
+| *Ambition* | Olek of the League | Serrusta Caeli Rezia di Tassato of the League |
+| *Courage* | Asher of Felix's Watch in Highguard | Cyrus Cascade of Urizen |
+| *Loyalty* | Jared of the Suns of Courous, Highguard | Tancred De Rondell of Dawn |
+| *Pride* | Samson of Cantiarch's Hold, Highguard | Meurig Tystwarden of the Navarr |
+| *Prosperity* | Ynez di Carcomare of the League | Darius i Ezmara of the Brass Coast |
+| *Vigilance* | Petra Melikov of Varushka | Silas of Highguard |
+| *Wisdom* | Abaddon De Rondell of Dawn | Hywel Summercrow of Navarr |
+| *The Way* | Antonnio Vanzetti of the League | Gideon of the Suns of Courous, Highguard |
+
+## Appointments
+
+At the Summit, the following appointments were made by the Virtue Assemblies of the Synod:
+
+### Selection of the Cardinal of Prosperity
+
+- Enoch of the Shattered Tower in Highguard received 50 votes
+- Ynez di Carcomare of the Church of the Little Mother in the League received 76 votes and remained Cardinal
+- Cardinal Ynez retained Darius i Ezmara of the Brass Coast as Gatekeeper
+
+### Selection of the Cardinal of The Way
+
+- Maximillian Endsmeet, of Urizen, received 10 votes
+- Torsch, an Imperial Orc, received 20 votes
+- Antonio Vanzetti of the League received 102 votes and remained Cardinal
+- Antonio Vanzetti appointed Gideon of the Suns of Couros, in Highguard, as Conscience of the Senate
+
+### Selection of the High Exorcist
+
+- The Assembly of Nine elected Solas of the Waxing Sun as High Exorcist by Greater Majority; no other alternatives were considered
+
+### Selection of the Gatekeeper of Loyalty
+
+- Following the courageous passage of Friar Alan Young into the Labyrinth, Cardinal Jared appointed Tancred De Rondell of Dawn as Gatekeeper.
+
+## Synod Judgements
+
+At the Summit, the following judgements were made by the Assemblies of the Synod:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Assembly** | **Judgement** | **Raised By** | **Outcome** |
+| Assembly of Loyalty | Inquisition of General Stanislav of Varushka | Ester Cenotaph, Highguard | Upheld 75 - 0 |
+| Assembly of Loyalty | Inquisition of Olaf of the Vor'Azi | Anna-Valeria Cascade, Urizen | Upheld 75 - 0 |
+| Assembly of Loyalty | Inquisition of Valentin of House Orzel | Julius Cavita, League | Upheld |
+| Assembly of Prosperity | Recognition of Nicolo Barossa, Master of the Mint, as an Exemplar of Prosperity. | Cardinal Ynez di Caricomare, League | Upheld 84 - 0, the required Greater Majority |
+| Assembly of Nine | Inquisition of Gabriel Barossa de Tassato Regario | Cardinal Antonnio Vanzetti, League | Upheld 83 - 0, a Greater Majority |
+| Assembly of Nine | Inquisition of Ybasdon Striding of Navarr | Cardinal Petra Melikov, Varushka | Upheld 83 - 0, a Greater Majority |
+| General Assembly | Rewarding Ira of Felix's Watch in Highguard with Seventy Crowns from the Virtue Fund for the purchase of five wains of white granite to help build the memorial to the Imperial dead here at Anvil, for which he has the support of a General Assembly Statement of Principle | Cardinal Jared, Suns of Courous, Highguard | Upheld 438 - 278 |
+| General Assembly | Rewarding Aquaillion of Endsmeet with Three Crowns from the Virtue Fund to reimburse him for mana used to send a book about the virtue of Wisdom to the Celestial Library | Palladius of Urizen | Defeated 401 to 236 |
+| General Assembly | Rewarding Dietrich Von Elias with Five Thrones from the Virtue Fund for the purpose of financing into organising Virtuous Missionaries to be sent to the Iron Confederacy | Dietrich von Elias of the League | Defeated 368 - 278 |
+| General Assembly | Rewarding General Erkenbrand of Wintermark with Three Crowns from the Virtue Fund for his inspirational speech to the troops before battle and his virtuous conduct in that battle against the Druj. | Chaplain Torsch, Imperial Orc | Defeated 440 - 95 |
+| General Assembly | Rewarding Pete Keeper of Kingstoke with Five Thrones from the Virtue Fund for Acts of Courage, Wisdom, Prosperity and Vigilance and the saving of many lives in Saturday's Battle | Aelfpyrd de Couluvre of the Marches | Defeated 250 to 160 |
+| Assembly of Navarr | Revocation of the title of General held by Ulrich Ybasdon | Carwynn of the Navarr | Upheld 72 - 50 |
+| Assembly of Nine | Inquisition of Navarri Generals called Cerunnos and Gwyd Summercrow | Cardinal Abaddon de Rondell, Dawn | Upheld by 49 - 0 |
+| Assembly of Nine | Inquisition of Guillmero di Tassato of the League | Cardinal Asher, Felix's Watch, Highguard | Upheld 50 - 0, a Greater Majority |
+| Assembly of Prosperity | Inquisition of Angel Jannat of the Brass Coast | Darius i Ezmara | Upheld 48 - 10 |
+| Assembly of the Imperial Orcs | Revocation of the title of Advisor of Orc Affairs held by Kessek Irontide | Atla of the Imperial Orcs | Upheld by unanimous assent; 20 - 0 |
+| Assembly of The Way | Inquisition of Evander Slak | Adoramus of the Shattered Tower, Highguard | Upheld 62 - 0 |
+
+## Statements of Principle
+
+The Imperial Synod was asked to make the following Statements of Principle:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Assembly** | **Statement of Principle** | **Priest** | **Outcome** |
+| General Assembly | Imperial Citizens should not trade liao with the Axos Confederacy until such time as the Synod recognises the virtue of their religions. | Valimir Bashnya of the Red Tower, Varushka | Upheld 368 - 0 |
+| Assembly of Highguard | The proposed Cursing of the whole territory of Reikos is a barbaric practice, that is unacceptable because it would indiscriminately kill, not only Druj, but also our own fellow citizens of Highguard. | Lilian of the Unbound Chapter | Defeated 147 - 43 |
+| General Assembly | This Statement of Principle calls for the removal of the word Freedom from the Senate Building; Freedom is the false virtue of Anarchy, and is unvirtuous | Abraham of the Shattered Tower, Highguard | Defeated |
+| General Assembly | This House believes that there should be land consecrated to each of the Virtues at every meeting here at Anvil. | Antonio Raul Calogne di Trivento, League | Defeated 209 to 208 |
+| General Assembly | Each National Assembly should convene at least once every festival | Morgan Brokenbone, Navarr | Defeated 222 to 138 |
+| General Assembly | As the Empire has expanded in influence and Virtue, so too has the way in which we should recognise the Sign of Pilgrimage. Any journey with enough spiritual meaning can change the soul. Therefore when appropriate conjunctions arise, future opportunities ought to be created for pilgrims to journey out from Anvil. | Helena di Sarvos, League | Defeated 320 to 281 |
+| General Assembly | The Synod invites those Senators who wish to formally ally their works with those of the Imperial Priesthood to create a political band of Senators - The Bannerpeople of Virtue. | Rurik Von Linden | Defeated 456 to 111 |
+| Assembly of Courage | An Open List of aspirants to the Throne should be created through the appropriate channels to allow aspirants to publicly and widely show their Courage and Ambition as such. | Isaac di Sarvos | Upheld by Greater Majority, 74 to 34 |
+| Assembly of Loyalty | This Statement of Principle recognises the actions of Diego i Guerra in the battle fought in Karsk; his assistance rendered to the soldiers of the Marches show his return towards walking the Virtuous path | Tancred de Rondell, Dawn | Upheld 74 - 0 |
+
+## Synod Funds
+
+The following represents the Virtue Fund of the Synod:
+
+|  |  |  |
+| --- | --- | --- |
+| *Starting Value* | 10 Thrones / 1 Crowns / 2 Rings |  |
+| *Income* | 6 Thrones and 4 Crowns | Raised by auction of Pure Liao |
+|  | 15 Rings | Donated by Linden Endsmeet in memory of Acherus Overwatch |
+| *Rewards* | 70 Crowns | Given to Ira of Felix's Watch at the behest of Cardinal Jared |
+| *Closing Value* | 7 Thrones / 2 Crowns / 17 Rings |  |
+
+## Visionaries
+
+The following individuals received visions of their past lives:
+
+- Jonah of Cantiarch's Hold, Highguard
+- Livia Cascade, Urizen
+- Rosamund Holt, Marches
+- Cora Holdfast, Navarr
+- Solomon of the Shattered Tower, Highguard
+- Valentin Orisin Brossa, Varushka
+
+---
+
+Categories: [Synod](../../indexes/by-category/Synod.md), [Synod Results](../../indexes/by-category/Synod_Results.md), [Synod Judgements](../../indexes/by-category/Synod_Judgements.md), [377YE Winter](../../indexes/by-category/377YE_Winter.md)

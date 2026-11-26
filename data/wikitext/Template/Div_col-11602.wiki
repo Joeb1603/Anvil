@@ -1,0 +1,1 @@
+<div class="div-col {{{class|}}}" style="{{#if:{{{colwidth|30em}}}|column-width:{{{colwidth|30em}}};}}{{#if:{{{gap|}}}|column-gap:{{{gap}}};}}{{#if:{{{style|}}}|{{{style}}}}}">{{#if:{{{content|}}}|{{{content}}}</div>}}

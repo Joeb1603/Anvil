@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:388YE Summer]]
+__NOTOC__
+<quote by="Proposed: Merari Navigators of Virtue, Senator for the Bastion, Seconded: Pathfinder Gaddak, Senator for Mareave">To commission the Archives of the Advisor, to be built in Solvihill, Skarsind. This sinecure will produce 12 iridescent gloaming a season. This sinecure will be attached to the already existing title of Advisor on Orc Affairs
+</quote>
+==Overview==
+* Constructs a [[sinecure]] in Solvihill, Skarsind and amends the title of [[Advisor on Orc Affairs]]
+* Passed
+
+==Date==
+* Summer 388YE
+
+==Cost==
+* Standard costs apply
+* 10 wains of white granite
+* 30 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Archives_of_the_Advisor}}
+==Outcome==
+* Now complete, the [[Advisor on Orc Affairs]] will receive 12 measures of [[iridescent gloaming]] each season starting at the Winter Solstice 388YE

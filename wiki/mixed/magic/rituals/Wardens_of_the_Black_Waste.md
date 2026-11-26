@@ -1,0 +1,70 @@
+---
+title: Wardens of the Black Waste
+source: https://www.profounddecisions.co.uk/empire-wiki/Wardens_of_the_Black_Waste
+class: mixed
+topic: magic/rituals
+categories:
+- Enchantment
+- Winter Ritual
+- Rituals
+last_edited: '2026-03-27T19:33:41Z'
+revision: 136240
+---
+
+# Wardens of the Black Waste
+
+*This page contains details of a Winter ritual that wards an area from vallorn until the next event; for the Winter ritual that wards an area from vallorn until the next sunrise see [Ward of the Black Waste](Ward_of_the_Black_Waste.md)*
+
+## Rules
+
+### Winter Magnitude 23
+
+### Performing the Ritual
+
+Performing this ritual takes at least 2 minutes of roleplaying. The area to be enchanted with this ward must be clearly apparent to those within, and without, its bounds.
+
+This ritual is an [enchantment](../../../out-of-character/rules/Enchantment.md). A target may only be under one enchantment effect at a time.
+
+### Effects
+
+This ritual targets a building or well defined, walled area. It must be performed inside that location.
+
+At the completion, the area is warded against [vallorn](../../../in-character/nations/navarr/Vallorn.md) creatures. Such a creature approaching the boundary is always aware that the area is warded; if it enters it is immediately [weakened](../../../out-of-character/rules/Calls.md#weakness) for as long as they remain in the area. Even creatures that are larger-than-human-sized will be weakened by the power of the ward if they enter it.
+
+The ward creates a peculiar [roleplaying effect](../../../out-of-character/rules/Roleplaying_effects.md): *the air within the ward is always cooler than the surrounding environment, and all shadows are deeper and darker. Anyone spending more than an hour in the area begins to feel as if they are not alone, and may eventually start to see shadowy figures out of the corner of their eye. These often have a distinctly Navarri or Varushkan aspect. They never speak, and are rarely visible for more than a few moments, but maintain constant vigilance.*
+
+When used inside a building, the ward protects the entire structure. Any openings in the structure - doors and windows especially - must be clearly marked with runes or symbols of warding. The building must be a reasonably permanent structure, preferably of wood or stone; the ritual will not work on a tent or other entirely similar structure.
+
+For purposes of this ritual, a walled area must be composed of solid posts, preferably wooden. Posts must be placed between three and five paces apart, and protrude out of the ground at least three feet. The posts should be clearly visible, and ideally clearly marked as 'special' - carved or painted with runes for example.
+
+As with anything you might be taking onto a battlefield, or that is likely to have people fighting around or near it, the phys-reps should be as safe as possible (no sharpened points, for example). Please do not tie rope between the posts; if it is not clear where the boundary is, you will need to use more posts.
+
+The ward can be taken down by moving, removing or defacing the warding signs, but vallornspawn cannot do so themselves. Assuming it is not interfered with, the ward stays in place until the duration expires.
+
+The effect lasts until the start of the next Profound Decisions Empire event.
+
+### OOC Note
+
+If you are planning on performing this ritual on a battle, skirmish or quest you must let a referee with a radio know before you pass through the [Sentinel Gate](../../../in-character/world/Sentinel_Gate.md).
+
+You must check the safety of the posts you plan to use with refs before you go through the Sentinel Gate.
+
+## Description
+
+This ritual was codified at the beginning of 384YE at the [Lyceum](../../titles/Dean_of_the_Lyceum.md#the-lyceum), under the guidance of Simargl the Empty One, the [Dean of the Lyceum](../../titles/Dean_of_the_Lyceum.md). The Dean had this ritual codified following a bargain between themselves and a [Navarr](../../../in-character/nations/navarr/Navarr.md) [Vate](../lore/Navarr_magical_traditions.md#vates), Valeska Pathfinder. The original work on the project was undertaken by the [Varushkan](../../../in-character/nations/varushka/Varushka.md) [warden](../../../in-character/nations/varushka/Warden.md) Kalista Svetlanova Ubiystvonoch. It was made part of [Imperial lore](../../../out-of-character/rules/Formulaic_ritual.md#imperial-lore-and-the-ritual-list) by a [declaration](../../government/conclave/Imperial_lore.md) from Simargl the same season it was completed. The magicians of the Lyceum were able to complete the formulation of the ritual in only a single season thanks to use of the [Quiet Annexe](../../titles/Dean_of_the_Lyceum.md#the-quiet-annexe), the magical garden where iridescent gloaming can be used to secure the assistance of servants of Sadogua in mastering arcane lore. It is possible that the involvement of these entities is the reason the Wardens of the Black Waste appear to have picked up a peculiar resonance, although the agents of the Black Toad deny that they are responsible.
+
+The Wardens of the Black Waste draw on the same principles as the ritual that shares a nearly identical name – the [Ward of the Black Waste](Ward_of_the_Black_Waste.md) – which is a key part of the Empire's magical protection against the [vallorn](../../../in-character/nations/navarr/Vallorn.md) and already part of Imperial Lore. The main difference is that the Ward of the Black Waste lasts only until the next sunrise, whereas the newly formulated ritual is much more durable. The Ward of the Black Waste is a potent ritual that wards an area against intrusion by creatures spawned or touched by the vallorn. It is equally effective against corpses possessed by vallorn growth, living plant horrors, and chitinous ettercaps.
+
+Cunning vallornspawn – few magicians are prepared to countenance the idea that the creatures of the vallorn might possess true intelligence – hesitate at the edge of the area and withdraw rather than enter it. More primitive creatures will barrel forward regardless, and then discover that the ward greatly weakens them. One of the most effective qualities of the Ward of the Black Waste is that it prevents many vallorn creatures from healing themselves or their companions. Used to having near endless vitality, such creatures may become confused or frightened once they realise that they are unable to regenerate their health and try to flee the area.
+
+If the ward has a weakness, it is that it provides little protection from the [vallorn miasma](../../../in-character/nations/navarr/Vallorn.md#vallorn-miasma) – at least at first. There has been chance for only a single experiment – a particularly plucky Highborn Magister and their Navarri vate partner accompanied some of the scouts entering Liathaven in the weeks leading up to the Spring Equinox. They were able to maintain a prototype Wardens of the Black Waste enchantment for a fortnight before having to leave and reported that the air inside slowly became more wholesome. They theorised that after a month or so the Wardens of the Black Waste might be sufficient to create a safe haven free from the envenoming effects of vallorn tainted air. Unfortunately, as soon as the ward failed, the miasma rushed back in meaning it is likely a temporary solution at best. Still, while it will not clear the miasma entirely, it does seem to offer the chance that small areas where those who live within the miasma might be able to get at least some sanctuary from the constant venom. With sufficient ilium, though, it might be possible to ward an area permanently against the miasma.
+
+## Common Elements
+
+As with the original ritual, the warding posts can be marked with the Wintermark runes Yoorn and Kyrop or the common tower symbol associated with Vigilance. The original framework of the ritual made repeated use of the Varushkan tradition of using staring humanoid faces or the heads of geese (traditionally associated with vigilance) and suggested supplementing these symbols with intricate swirling patterns of green, red and blue paint following very precise instructions.
+
+When performing any warding ritual, the ritualists often walk the boundaries of the warded area, invoking protective talismans. They often burn incense, or scatter ashes, and check that all the warding symbols are intact. Some ritualists place bowls of blood at each entry point; blood magic suggests that donated by wardens, by Navarr thorns or brands, or from those with briar lineage is especially potent in this regard. A dramaturge might enact a short play involving the Prince and the Garden, representing command over primal forces. Fire is often a key part of the ritual as well, especially when the ritual is performed at night.
+
+---
+
+Categories: [Enchantment](../../../indexes/by-category/Enchantment.md), [Winter Ritual](../../../indexes/by-category/Winter_Ritual.md), [Rituals](../../../indexes/by-category/Rituals.md)

@@ -1,0 +1,29 @@
+<ic>Resupply the Red Wind Corsairs<br>Resupply the Drakes<br>Resupply the Strong Reeds<br>Resupply the Fire of the South<br><br>''Approved by the Quartermaster General of the Imperial Armies.''</ic>
+
+===Overview===
+* Resupply the [[The Brass Coast|Freeborn]] army of the [[Brass_Coast_military_concerns#The Red Wind Corsairs|Red Wind Corsairs]].
+* Resupply the [[The Brass Coast|Freeborn]] army of the [[Brass_Coast_military_concerns#The Fire of the South|Fire of the South]].
+* Resupply the [[The Marches|Marcher]] army of the [[The_Marches_military_concerns#The Strong Reeds|Strong Reeds]].
+* Resupply the [[The Marches|Marcher]] army of the [[The_Marches_military_concerns#The Drakes|Drakes]].
+* The actions are grouped together, but each would count as a separate announcement for purposes of the [[Synod]] [[veto]].
+* This motion was approved by the Quartermaster General using the legal power to resupply armies granted by the [[Senate]].
+
+===Date===
+* Summer Solstice 378YE
+
+===Progress===
+* 112 wains of Mithril and Weirwood provided by Janusz Dalibor von Temeschwar, Quartermaster General of the Imperial Armies, after Summer Solstice 378YE
+** 49 wains for the Red Wind Corsairs
+** 43 wains for the Strong Reeds
+** 20 wains for the Drakes
+** 0 wains for the Fire of the South (this army is engaged by [[Thule]] forces in [[Sermersuaq]])
+
+===Campaign Outcome===
+* [[Casualties#Emergency_Resupply|Resupply]] an army using 49 wains restores fighting strength equal to 980 soldiers to the army.
+* Resupply an army using 43 wains restored fighting strength equal to 860 soldiers to the army.
+* Resupply an army using 20 wains restored fighting strength equal to 400 soldiers to the army.
+
+[[Category:Senate Motion]]
+[[Category: 378YE Summer]]
+__NOTOC__
+[[Category:Announcements]]

@@ -1,0 +1,29 @@
+{{Synod Judgement Summary|Any Assembly|Lesser Majority}}
+<div style="float:left; width: 300px; clear: left;">{{CaptionedImage|file=JormaSteelhail.jpg|align=right|width=300|caption=Vindication shows that an assembly feels the actions someone has taken are virtuous in nature.}}</div>
+==Overview==
+The [[Synod]] is responsible for investigating and revealing behaviour the Synod considers to be virtuous or unvirtuous. For many years the only option available to the Synod was to condemn an individual for their invidious actions - criminal or unvirtuous. However following the work of [[Wintermark_religious_beliefs|stormcrow]] '''Jorma Steelhail''' from 379YE to 380YE, the Senate finally agreed to [[Amend_power_of_Inquisition|expand the scope of the Synod's powers]] to allow a range of different edicts to be issued - in accordance with the judgement of the Synod.
+
+A judgement of vindication is used by the Synod to demonstrate that they view the target as innocent of any accusations of unvirtuous acts that have been levelled against them. It may also be used to formally laud the subject's virtuous disposition.
+
+==Judgement==
+A judgement of vindication must state who is being vindicated and what action or actions they are being vindicated for. The judgement must individually name each person being vindicated. A judgement may only name more than one individual if they are members of the same oathsworn band - either a  [[bands#banner|banner]], [[bands#Sect|sect]], or [[bands#coven|coven]] at the time the judgement is raised. Vindication should only be used in this way where members of the band acted together in unison on the thing they are being vindicated for.
+
+A vindication may be raised by any assembly of the [[Synod]]. When the judgement is raised in a national assembly, it may only be used to vindicate members of that nation. The virtue assemblies may vindicate anyone - but they are expected to focus their judgement on matters concerning their virtue.
+
+Any vindication requires a lesser majority to pass.
+
+<div style="float: right;"><quote by="Marcher Proverb">It is easy to defend the innocent.</quote></div>
+
+==Outcome==
+A successful judgement of vindication will be noted and recorded in the official Synod records, but it is the responsibility of the priest who brought the judgement to ensure that all are aware of the outcome.
+
+==Legal Consequences==
+Vindication has no impact on any related legal trial - but it can bolster a plea of [[clemency]]. A judgement of vindication by a national assembly can easily be seen as partisan and is unlikely to have a great deal of impact on the magistrates. A vindication by a virtue assembly is much more significant - provided the defendant pleads that Virtue in their clemency plea. If a virtue assembly vindicates someone with a greater majority, that will inevitably buttress any claim to have acted in virtue. A successful judgement by the General Assembly is likely to carry at least as much weight, if not more so.
+
+Any clemency plea must still meet key criteria - a plea of clemency that fails to meet the [[clemency guidance]] will fail no matter how many priests publicly support it.
+
+==Inquisition==
+A priest who conducts an [[inquisition]] may ask the Tribune to [[Sanction#Escalation|escalate]] the inquisition to vindication if they believe it is appropriate. If that happens, the Tribune will submit a new judgement of vindication for consideration by the same Assembly. The Tribune will only escalate a judgement if it does not name a new target not named in the inquisition. An escalated judgement may use fewer names than the original inquisition, but it may not add a new name to the list.
+
+The existence of escalation makes it common to assume that no priest should request a judgement of [[vindication]] without first completing a corresponding inquisition. Despite this expectation, there is no legal requirement to do so - it is perfectly legal to submit a judgement of vindication without performing any inquisition.
+{{Synod Further Reading}}

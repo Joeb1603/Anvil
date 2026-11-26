@@ -1,0 +1,289 @@
+---
+title: Blood and mire
+source: https://www.profounddecisions.co.uk/empire-wiki/Blood_and_mire
+class: in-character
+topic: winds-of-war
+categories:
+- Recent History
+- 386YE Autumn
+- Military Council
+- Winds of War
+event: 386YE Autumn
+last_edited: '2026-09-05T15:08:13Z'
+revision: 144838
+in_character_boxes: 14
+---
+
+# Blood and mire
+
+*[Image: War comes to Therunin, to the land of willow and mangrove, marsh and swamp.](https://www.profounddecisions.co.uk/empire-wiki/File:Blood_and_mire.jpg)*
+
+## Shadow of the Mallum
+
+> A PDF file of this wind is available [here](https://www.profounddecisions.co.uk/empire-wiki/File:Blood_and_mire.pdf)
+
+Following the Spring Equinox, the [Druj](../barbarians/Druj.md) launched a terrible assault against the [Navarr](../nations/navarr/Navarr.md) territory of [Therunin](../nations/navarr/Therunin.md). Tens of thousands of orc warriors poured over the border from the marshes of [Sarangrave](../nations/urizen/Sarangrave.md) into [Eastring](../nations/navarr/Therunin.md#eastring). From there they spread south and west, conquering the lakeside regions of [East Ashes](../nations/navarr/Therunin.md#east-ashes) and seizing the [Feverwater Docks](../nations/navarr/Therunin.md#the-docks-at-feverwater) and the fortified [steading](../nations/navarr/Steading.md) there.
+
+Despite a valiant effort, they smashed the [Holt of the Oak](../nations/navarr/Therunin.md#holt-of-the-oak), and set about slaughtering every Navarr and especially every [Great Forest Orcs](../barbarians/Great_Forest_Orcs.md) that fell into their hands. Only the [Gift of Kaela](../eternals/Kaela.md#the-gift-of-kaela) offered any escape from a tormented, torturous death. Those who embrace that tragic boon are gone forever; their bodies will not rest in the funeral groves of the Navarr and their spirits will not return as ghosts. It is to be hoped that their souls at least are safe in the Labyrinth, or in the [embrace of the Great Forest](../religion/Beliefs_of_the_Great_Forest.md#spirits-and-trees).
+
+Tens of thousands of Druj, and among them the wicked sorcerers of the Tainted Basilisk – powerful ritual magicians whose mastery of the arts of Night and Spring allows them to raise wards and defences in East Ashes and Eastring, to try and stamp the dominion of the Druj on the Navarr lands. At the same time, the [Rivers of Life](../../mixed/magic/rituals/Rivers_of_Life.md) are called and merge into the waters of Therunin – and there is a *lot* of water in Therunin – ensuring that any warrior who is not slain by the defenders will be [whole of body](../../mixed/magic/rituals/Rivers_of_Life.md) by the next dawn. And, as such unconstrained [Spring magics](../../out-of-character/rules/Spring_magic.md) so often do, causing the [vallorn](../nations/navarr/Vallorn.md) to stir in its fitful centuries-long slumber...
+
+Then, during the Summer Solstice, Imperial heroes used the [Sentinel Gate](../world/Sentinel_Gate.md) to [launch a desperate assault](Ashes.md#poison-and-ashes-battle-opportunity) against Druj forces passing through the [Lower Tarn Valley](../nations/navarr/Therunin.md#lower-tarn-valley). The [orcs](../../mixed/world/Orc.md) of [the Mallum](../barbarians/The_Mallum.md) bore with them a deadly weapon-of-war, the [Sephals Cauldron](Ashes.md#objective-prevent-the-use-of-the-sephals-cauldron), which contained a terrible cursed brew of poison and venom intended to seep into the waters of Therunin and spread north to taint the lake at [Hope's Rest](../nations/dawn/The_Barrens.md#hopes-rest) in [the Barrens](../nations/dawn/The_Barrens.md). Despite brave efforts, it proved impossible to capture the cauldron, but Imperial heroes were able to overturn it during the battle. Its abominable tincture sank into the earth, vile tendrils creeping out in all directions to bring ruin to the Tarn Valley. At least Hope's Rest is safe, for now.
+
+## Venom and Spite
+
+When they came as a terrible tide, the Druj swept into Therunin with remorseless fervour. A wave of warriors, smashing everything in their path. Now, their strategy has changed. They must know that Imperial forces will not allow them to claim Therunin – that the Navarr alone would stop at nothing to protect their steadings. Where their initial assault was overwhelming in its nature, the armies of the Mallum now shift to a more considered, careful approach. Not falling back onto the defensive – not while there are still lands to seize and Navarr to slaughter – but more measured. More prone to retreat, regroup, and attack from a different direction rather than surge forward to drown those who stand against them.
+
+*[Image: A great host of Druj seeks to dominate the marshy forests of Therunin.](https://www.profounddecisions.co.uk/empire-wiki/File:Druj1.jpg)*
+
+It is always difficult to assess the numbers of the Druj. They are masters of stealth and skirmish, adept at misdirection and deception. Yet they are also proud, and their banners give some hint as to which forces are present. There are signs that there are more Druj in Therunin than there were last season – the serpent-and-sword banners of the Deadly Blade, the twining brambles of the Thorn Born, the plain green-or-yellow fields of colour that herald the arrival of the treacherous warriors of the Hidden Widow. At least three more armies than were here last season, perhaps more.
+
+The bulk of the Druj forces assay a careful, probing strategy. Warbands of scouts press forward through the Tarn Valley, some even reaching the eastern steadings of [Peakedge Song](../nations/navarr/Therunin.md#peakedge-song). Where they encounter resistance they strike swiftly, trying to kill their opponents before they realise they are being attacked, and if that initial assault fails, they fade back into the trees and marshes. Every warrior wields envenomed weapons, and they make great use of potions and philtres to seize the advantage over those they fight.
+
+There are exceptions however. The Hunting Scorpion, true to their name, are everywhere. Swift [skirmishers](../../mixed/government/military/Army_qualities.md#skirmishing), they identify steadings with stronger-than-normal defences and without warning fall on them from all directions seeking to overwhelm their walls. The Poison Crane, beneath their predatory marsh-bird standards, fight beside them actively seeking out defenders who might prove to be a challenge to the Druj advance and focusing all their efforts on killing as many warriors as they can, clearly less concerned with conquering Therunin than they are with murdering as many of its inhabitants as they can.
+
+Great use is made of the wards the Tainted Basilisk have raised – the forests of Eastring and the marshes of East Ashes alike conspire to aid the orcs in their attack. It is no surprise to see the heralds of [Arhallogen](../eternals/Arhallogen.md) alongside a Druj force – although there seem to be fewer than before – but there are also grim masked shadows that emerge from the darkness under the trees to fight with the Druj armies before fading away once the fighting is done.
+
+Several of the armies are also clearly [enchanted](../../out-of-character/rules/Enchantment.md), bearing boons that help them to find and slay those trying to flee their advance or hide from their forces. Relentless, ruthless, merciless. Spring magic at odds with the *Rivers of Life* that nonetheless leaves a trail of blood and sorrow in the wake of the Mallum armies.
+
+*[Image: Rhisiart Dancewalker, General of the Black Thorns](https://www.profounddecisions.co.uk/empire-wiki/File:BlackThornsGeneral.jpg)*
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Blackthorns! We march east to the smoke pillars of Therunin. To the steading of Eastring then East Ashes via the Barrens. I call upon the spear of the Pines. To our banners as we retrace our home via steady reconquest. Invoke the flame of Khol to burn back the Druj with extreme prejudice, leave nothing but silence in your wake.
+> >
+> > Rhisiart Dancewalker, General of the Black Thorns
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Our allies fight to drive the Druj from their home. Both our peoples have suffered the malice of the Druj. They fought beside us to reclaim the Eaves of Peytaht. Who would we be, if we did not raise our spears to fight alongside them?
+> >
+> > Vallack, War-Chief of the Great Forest Orcs
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Towerjacks, the Druj have returned to Imperial lands. We shall prove that the very land rejects their presence. Take the trees and build great walls, use the earth to ensure they cannot advance. Do as only the Towerjacks can, steel guard our bodies, virtue guard our souls!
+> >
+> > Marcus Barossa Di Tassato, General of the Towerjacks
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Glorious Knights of the Golden Sun. We march to Therunin to support the Navarri. We will make a grinding advance through the territory avoiding the now poisonous Lower Tarn Valley. We have pushed the Druj out of our home. Now out of Loyalty. Let us push them out of Therunin.
+> >
+> > Zoran De Orzel, General of the Golden Sun
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Gryphon's Pride, the Druj have returned as we predicted. This plague on Imperial citizens and threat to our faith cannot go unanswered, so I call upon you to march with me with loyalty to aid Navarr. I command you to protect Imperial Lives, the families, the children, the weak & those who cannot defend themselves. We will charge into the horde and remind the Druj why they fear us. courage and Glory to you all!
+> >
+> > Archavion Wolfborne, General of the Gryphon's Pride
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Loyal Schlacta of Varushka, the Drums of war never cease. We march on Therunin with steady conquest to reclaim the land & remind the Druj why they run from our dogs & hide from our fury
+> >
+> > Alderei the Fair, General of the Iron Helms
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Ancient boughs and murderous beasts; Therunin welcome us just as the forests of home would. Advance boldly, Northern Eagle, for the Druj blight our Empire once more. Hold dear your oaths and fear no malice, for we are the Pride of Varushka and our banner is held ever high. Aid our Navarr Cousins and show their fearful allies that we stand between them and the Druj, no matter how they might see us. Not for thanks, not for glory; we march for Imperial hearths, Imperial homes, and Imperial destiny.
+> >
+> > Jaromir Ostrovyn Kostka, General of the Northern Eagle
+
+## No Mercy
+
+They know the Empire is coming, and come it does. Six Imperial armies from across the Empire, with the [Black Thorns](../../mixed/government/military/Black_Thorns.md) as their vanguard. The [Golden Sun](../../mixed/government/military/Golden_Sun.md) and the [Gryphon's Pride](../../mixed/government/military/Gryphon-s_Pride.md) come south from the Barrens; the [Northern Eagle](../../mixed/government/military/Northern_Eagle.md) and the [Iron Helms](../../mixed/government/military/Iron_Helms.md) close on their heels come down from [Ossium](../nations/varushka/Ossium.md); and the [Towerjacks](../../mixed/government/military/Towerjacks.md) making good time as they push up through [Altis](../nations/urizen/Morrow.md#altis) into Peakedge Song. Thirty thousand soldiers, give or take.
+
+Twelve thousand warriors led by the heroes of the Empire, [warbands](../../out-of-character/rules/Military_unit.md) predominantly of the Navarr, rally to the banners of the Black Thorns, ready to drive the Druj from Therunin whatever the cost. Another thousand are scattered between the other armies, answering the call to fight for the Empire.
+
+Out of the Barrens, a great force of [orcs](../../mixed/world/Orc.md) come to fight alongside the Black Thorns. A thousand Great Forest Orcs, the Spears of the Pines, raised to aid their neighbours, their allies and friends. They are as merciless as any Varushkan, as any Navarr, when it comes to fighting the Druj. They have a thousand years of debt to be repaid, quite apart from the more recent slaughter of their people at the hands of the current invasion. It would be easy for their presence to cause friction between the armies, given the presence of Dawnish and the Varushkans, but the orcs are scrupulous in simply avoiding them. They stick with the Black Thorns, and follow their lead.
+
+Three champions of the Summer realm, lieutenants of [Eleonaris](../eternals/Eleonaris.md), have been called forth by Imperial magic, brought to the eastern marshes to face the Druj. They are eager for the battle; Lady Moriamis, golden-eyed warrior-poet and her cohort of warsingers join the Golden Sun, inspiring their fellow knights to acts of heroism and glory. With the Northern Eagle comes Ser Gaspare, wearing the head and skin of a great white bear as a cloak over her crimson plate, whose proud *schlacta* lock their adamant shields into an unbreakable bulwark against spears and arrows. And with the Black Thorns, Mistress Malachie, a relentless war-witch huntress who once served Hayaak and now fights under the lion banners of Eleonaris. Six thousand [Knights of Glory](../../mixed/magic/rituals/Knights_of_Glory.md), who it seems despise the cowardly, treacherous Druj even more than the Empire does.
+
+The Empire is no stranger to the strategies of the Druj, to the traps they lay and the ambushes they prepare for the unwary. Their tactics match those of the Mallum – steady, careful, cautious, considered. This is not a battlefield for reckless charges or risky gambits. The Black Thorns and the Iron Helms set the tempo for the fight, paying close attention to the advice of their [physicks](../../out-of-character/rules/Surgical_skills.md#physick) and battlefield healers. Even with the *Rivers of Life*, a poisoned or tainted wound might still cripple a warrior, still bring unexpected death from an injury dismissed as minor.
+
+The Northern Eagle move more quickly, eager to fight the Druj and push them out of Therunin. Yet even these doughty Varushkan warriors know not to take too many risks – there are veterans of the war in Ossium among them who keep keen eyes peeled for signs of flanking attacks or opportunities that are too good to be true.
+
+Dawn's armies focus their efforts on securing the land the Druj have taken. The Gryphon's Pride [push forward](../../mixed/government/military/Army_qualities.md#conquering) into lands where the orcs are known to have set up their command posts, aided by the [Day magic](../../out-of-character/rules/Day_magic.md) [enchantment](../../out-of-character/rules/Enchantment.md) that lets them [anticipate](../../mixed/magic/rituals/Clarity_of_the_Master_Strategist.md) even the obfuscated strategies of the stealthy orcs and adjust their tactics to match. The Golden Sun spread out behind the Imperial lines, [rooting out the hidden Druj](../../mixed/government/military/Army_qualities.md#resilient) planning to attack from behind, ensuring that the land *behind* the front is safe.
+
+While the majority of the Imperial force is on the attack, the Towerjacks are more concerned with fortifying and bolstering the steadings. If things go wrong, and the Druj not only face the Imperial attack but turn it back, thousands of people will be endangered. They [dig in](../../mixed/government/military/Army_qualities.md#engineer), turning their engineering expertise to the task of building temporary defences. A great spiked palisade is thrown up around the hospital-steading of Peakedge Stand. They prepare traps, and build barricades, around the settlements of the Tarn Valley, both orc and human, and establish supply caches and watchposts wherever they can. Moving with remarkable speed and acuity, they seem to know exactly where to apply their genius to the best effect. Their fortifications are temporary but will provide an invaluable advantage in the months to come.
+
+## Clash and Fray
+
+Two great forces facing each other across the Lower Tarn Valley. Both sides eager to fight. The orcs pushing west to take the rest of Therunin. The Empire pushing east, seeking to drive them out.
+
+There is no one great landmark battle in the months the two sides battle over the marshes of lower Therunin. The war is too fluid, the strategies at play too shifting. It would be hard to map where the line of battle is on any given day, even with a map, even with the omniscient view of a great eye in the sky. When the Druj assail a steading *here*, the Empire destroys a major encampment *there*. Where the Poison Crane butcher a scouting party in the north, the Gryphon's Pride encircles and annihilates a band of skirmishers in the south. There is a very real fear that a season of fighting will see thousands dead and neither side victorious.
+
+But little by little, the Empire gains the upper hand. Slowly, slowly, the Druj begin to fall back further than they advance. Inch by inch the Druj cede more of the Tarn valley to the Empire, slipping back into Eastring, toward the Sarangrave. Eventually the last major Druj camp is located and broken, their presence in the Lower Valley excised. It is something of a pyrrhic victory – the poison that has seeped into the land here is already beginning to make its presence felt, killing trees, befouling pools and streams, only the ongoing power of the Rivers of Life slowing its spread through the waters of the region.
+
+Terrible as this is, it is a problem for the future. The challenge now is to try and drive the Druj out of Therunin altogether.
+
+If anything the fighting in Eastring is even more vicious, more brutal, more unforgiving than the fighting in the Lower Tarn Valley. The Druj must know that if they lose control of the eastern forests, they will be left with only two choices; to withdraw east into Sarangrave or south into East Ashes. In the latter case, they will be trapped in Therunin, between the vallorn and the Feverwater, unable to escape without pushing south into the forests of [Lustri](../nations/urizen/Zenith.md#lustri), and there is no guarantee that if they do so they will be victorious. The Druj are cruel, and savage, but they are also cowardly. Most likely they will abandon their attempts to seize Therunin rather than risk another trap like the one that saw their numbers decimated during the liberation of Zenith.
+
+*[Image: Even the battle-hardened Varushkans are not entirely prepared for the creeping horror as Eastring becomes a charnel ground.](https://www.profounddecisions.co.uk/empire-wiki/File:Alderei2855.jpg)*
+
+## The Horror
+
+The [ghulai](../barbarians/Druj_lore.md#ghulai) have wrapped the marshes of Eastring with [Night magic](../../out-of-character/rules/Night_magic.md) wards. There is talk of sucking quagmires, that eagerly embrace those who stumble or fall, sucking them down into lightless crushing depths with unnatural speed. Of glowing mists that rise without warning, flooding through the trees like an oncoming tide, muffling all sound and reducing visibility to barely an arm's length, but which do not impede the bloodthirsty orc ambushers who move silently through them to kill and maim. Of people getting lost barely a dozen feet from their own camp. Of flitting figures with razor-smiles and razor-knives. It is nothing new to encounter odd beasts with too many legs in the marches of Therunin, but never in the past have they spoken with human voices, mocking and threatening, or possessed such facility for laying deadly ambushes.
+
+Eastring becomes charnel ground, the waters turning red with spilled blood. The sun itself turns its face away, heavy clouds rolling in from the east and presaging a thunderous downpour that lasts nearly a week as if the sky itself is weeping to see the slaughter. All told, nearly two thousand Imperial soldiers die in Eastring alone, more than three times as many brave souls as fell to clear the invaders from the Tarn Valley. So many bodies, fallen in the densely wooded marshes, lost in the poisoned waters of the lower valley, never to be found by either side. Denied the rites and ceremonies their sacrifice earned, it is no surprise that an aura of dread begins to settle over Eastring as the season draws on, something beyond the strangeness of Night magic wound around the region like a choking noose.
+
+Scouts talk of encountering lost patrols, sheltering from the rains in bloodied canvas. Of spending a night at cold campfires speaking with knights, and thorns, and warriors strangely dazed and confused, scared and afraid, and in the morning finding no sign of them save their empty tents. Of dead orcs whose gnashing teeth chatter and snap at any who come near; even removing their heads does nothing to silence them and in the end half-mad soldiers have to bury them in the thick mud to quiet their terrible cacophony. Of steadings abandoned by the orcs but hung with the bones and bodies of those who gave their lives to try and defend them, their corpses so decayed and flyblown as to make mundane identification impossible yet still somehow showing the signs of their excruciation. A reminder that there are those who do not trust the gifts of Kaela, perhaps.
+
+Two thousand dead Imperials, and perhaps as many again dead orcs. A harvest of blood and terror. The ghosts of those who fall fighting join those who were killed during the first months of the invasion, and even when the Druj are gone their presence will linger beneath the still pools, beneath the dark boughs, of Eastring. Imperial and Druj ghosts, haunting the battlefield where they fell to darkness, bitter and hateful.
+
+While many feel the horror sinking into their blood, the cold dread nestling in their breasts, others embrace the fear. This is a reminder of what the Druj are. Of why they must be stopped, of why their hold over the Mallum must be broken. In a way, the marshy woodlands of Eastring become a warning of how the Druj would remake the world, if the Empire does not stop them, does not turn back their tide.
+
+## Clouds Break
+
+In the end, all the horror and the dread does not save the Druj. The Empire continues to press them. Their own strategies in a way betray them – too eager perhaps to fall back in the face of strong defence, too quick to favour ambush and skirmish over pitched battles. Sometimes they are able to come back to a steading in force, but other times Imperial forces have time to dig in, prepare their defences, receive reinforcements, and turn them back when they return. When the season began the Druj dominated Eastring entirely; as the Autumn Equinox nears their control is almost entirely broken. One last push, and the battle of Therunin might be won.
+
+But for now the fighting continues, and while the Empire and the Druj have contested Eastring, there has been precious little fighting in East Ashes. Between the shores of the lake and the horror of the vallorn, there has been an eerie silence. Scouts who have pushed south, and probed the edges of the Druj presence there, encounter significant difficulties. The orc magicians have given cruel awareness and mobility to many of the plants, have drawn on [Spring magic](../../out-of-character/rules/Spring_magic.md) to choke well-trod paths, to wrap walls of poison thorns around Druj-controlled steadings. They can discover very little of what is going on here, but what little they do learn is cause for alarm.
+
+The Tainted Basilisk have, again, been oddly absent from the battlefields of Therunin. Oh, there have been vikari aplenty, but the twisted lizard banners have not really been seen except by scouts. Their attention is elsewhere, it seems. A powerful coven of Druj ghulai including several commanders of the magical army - have gathered at the Feverwater Docks, and are preparing for some terrible working. Imperial spies cannot get close enough to determine exactly what is going on, and many die to gather what little intelligence the Empire is able to glean. They are planning to unleash Spring magic – which is to be expected. If the Druj think they are losing, they will surely seek to [curse](../../out-of-character/rules/Curse.md) Therunin as they cursed the Barrens – to [set the trees walking](../../mixed/magic/rituals/Thunderous_Tread_of_the_Trees.md) most likely, or to bring down [punishing storms](../../mixed/magic/rituals/Thunderous_Deluge.md). Yet there is more at work here than the familiar maledictions; a slave liberated from the Druj brings news of a planned “cataclysm” - something to mark Therunin forever, to punish the Navarr, to show the might of the ghulai. The vates who hear of this exchange glances. Could the Druj be planning to wake the vallorn, to set it to do what they have failed to do – to destroy what they cannot control?
+
+## Game Information: Therunin
+
+- **The Empire has pushed the Druj back but the fighting continues**
+- **Lower Tarn Valley has gained the *poisoned* quality and Eastring has gained the *haunted* quality**
+- **The Towerjacks have established temporary forts in Peakedge Song**
+
+The Druj have been driven out of the Lower Tarn Valley, and the Empire is nine-tenths of the way towards forcing them out of Eastring. Their control of East Ashes and the Feverwater Docks is currently uncontested.
+
+The presence of the Tainted Basilisk means that the Druj can target territory-wide effects on Therunin, including the ability to raise wards and lay curses.
+
+The region of Lower Tarn Valley has gained the **[poisoned](../../mixed/economy/Region_qualities.md#poisoned)** quality as a consequence of the Sephals Cauldron being spilled there. This will have unpleasant consequences for the armies currently engaged in Eastring should they need to retreat through that region.
+
+The region of Eastring has gained the *[haunted](../../mixed/economy/Region_qualities.md#haunted)* quality. The unquiet dead of both Navarr and the Druj walk beneath the trees, and haunt the marshes here. Those steadings where the Druj committed their most terrible crimes against the Navarr people are particularly haunted. While the priests of the nation will do their best to deal with the worst of the hauntings, the nature of the wild marshes means it will be extremely difficult to find and deal with all the spirits abroad here.
+
+Through the use of their [Engineer](../../mixed/government/military/Army_qualities.md#engineer) quality, the Towerjacks have established temporary fortifications in Peakedge Song with a strength of 1000. The fort will slowly decay; by the start of the Winter Solstice its strength will have dropped to 500, and by the start of the Spring Equinox 386YE it will no longer be useful.
+
+*[Image: The crimson and gold pennants of Queen Eleonaris flutter over the Fields of Glory in the Summer realm](https://www.profounddecisions.co.uk/empire-wiki/File:EleonarisArt.jpg)*
+
+## Participation: Touched by Glory
+
+Three Imperial armies were supported by [Knights of Glory](../../mixed/magic/rituals/Knights_of_Glory.md), and a character whose [military unit](../../out-of-character/rules/Military_unit.md) was assigned to [support](../../out-of-character/rules/Military_unit.md#support-army) the Black Thorns, Golden Sun, or Northern Eagle may choose to have been inspired by fighting alongside the warriors of Mistress Malachie, Lady Moriamis, or Ser Gaspare.
+
+Any such character can choose to embrace a [roleplaying effect](../../out-of-character/rules/Roleplaying_effects.md): *You feel an urge to ensure that those who have wronged you, or harmed those you love, receive neither mercy nor forgiveness. It is easy to take action against such people, and hard to stop short of ending their lives.* As long as you experience this roleplaying effect you can also respond to any other roleplaying effect that would make you afraid, or fill you with doubt, by becoming angry instead.
+
+In addition, each of Eleonaris' lieutenants offers a different boon to those who fought with them.
+
+If your military unit fought with the Golden Sun and you possess the [stay with me](../../out-of-character/rules/Heroic_skills.md#stay-with-me) skill or [get it together](../../out-of-character/rules/Heroic_skills.md#stay-with-me) skill, the inspiration of Lady Moriamis allows you to use one of those two skills once during the Autumn Equinox without needing to expend a hero point to do so.
+
+If your military unit supported the Northern Eagle and you possess the [relentless](../../out-of-character/rules/Heroic_skills.md#relentless) skill or [unstoppable](../../out-of-character/rules/Heroic_skills.md#unstoppable) skill, then the inspiration of Ser Gaspare allows you to use one of those two skills once during the Autumn Equinox without needing to expend a hero point to do so.
+
+Finally, if your military unit supported the Black Thorns, then the inspiration of Mistress Malachie means that once during the Autumn Equinox when you regain hits thanks to any kind of healing effect, you are also purified of any venom or weakness affecting you, provided you spend a few moments of appropriate roleplaying bringing to mind the majesty and terrible splendour of Eleonaris' war-witches.
+
+These effects last until you overcome the roleplaying effect for some reason, or until the end of the Autumn Equinox, whichever comes first.
+
+## All Along the Lakeside (Battle Opportunity)
+
+*[Image: Druj Flag.png](https://www.profounddecisions.co.uk/empire-wiki/File:Druj_Flag.png)*
+
+The campaign in Therunin has suddenly swung back against the Druj this season, with the Empire quickly recovering lost land in the Lower Tarn Valley, and pushing most of the way through Eastring. However, where the Druj retreat, the pain and misery they have inflicted on the Navarr is all too clear. Steadings and waystations are charred ruins, evidence of ambushes and tortured killings on the trods, despoiled mana sites and forest groves abound. The war in the territory has not been one of conquest, but a brutal and crushing psychological message from the eastern barbarians.
+
+However, it is evident that the Druj are not done with Therunin yet, they have pulled back and consolidated their forces, carefully preparing their plans. From the mass of the armies in Eastring, a force has headed south-west into East Ashes. Initially, the war scouts and prognosticators were in the firm belief that the Druj were committing to the direct destruction of the Feverwater Docks, preparing to deny the Empire access to the inland sea.
+
+At the last moment, it became clear that this assault, terrible though it is, may only be a ruse to disguise their true goals. The orcs have pushed west, into the foreboding vallorn-infested woods at **Ashborder** in Sweetglades, where they intend to commit their greatest atrocity yet.
+
+### Objective: Stop the Blood Drainers coven
+
+- **Siakha has gifted the *"Blood Drainers"* coven a powerful spring magic boon to empower Thunderous Deluge**
+- **If the empowered ritual is cast at a regio in Therunin, then East Ashes will become impassable for a year and the Feverwater Docks will be destroyed**
+
+The war scouts have identified a Druj spring coven named the *Blood Drainers*, whose ghulai curry favour with Siakha. This is the first known association between the eastern barbarians and the eternal they know as *Depths of the Dark Marsh*. It is however no surprise that the Druj would court with such a ferocious and deadly entity. The *Blood Drainers* are believed to hail from the far east of the Salt Flats of Sanath. *The Maelstrom* has offered the coven a powerful boon that they plan to use to bring cascading rains across the territory.
+
+Should Thunderous Deluge be cast in Therunin with [Siakha's boon](../winds-of-fortune/Hurricane_party.md#roaring-deluge) then over the coming weeks the skies will darken and the clouds will stream with an unceasing torrent of rain. The marshes flood often but East Ashes is different, it lies surrounded on two sides by the towering peaks of Morrow and Zenith, massive barriers of rock that will contain and direct any forming storm clouds, funnelling the true wroth of the rain back down on the region. The languid backwaters of East Ashes are certain to swell with the rain coming from the peaks and this will raise the level of the swamps to new heights. Over the coming season the swamps will deepen, the few dry areas will turn to quagmires, and the foundations of tracks, bridges and docks will sink into the dark murk.
+
+The ritual's impact will result in the region of East Ashes becoming impassable for army movement. It would no longer be possible for an army to move between East Ashes in Therunin and Peregro in Morrow, or Lustri in Zenith. Transit would still be possible from Morrow into Therunin via Peakedge Song. This dire situation will last a year, unless a solution can be found to lower the water in the swamps.
+
+The floods will be a disaster for the Feverwater Docks, which will be completely destroyed, sucked down into the rising waters.
+
+### Objective: Stop Cintra Blackstaff
+
+- **The mysterious ghulai Cintra Blackstaff is with the Druj forces at Sweetmarsh**
+- **Blackstaff's coven intends to rouse the vallorn by casting a powerful spring ritual in the Sweetglades**
+
+The Druj ghulai known as Cintra Blackstaff has been a thorn in the Empire's side for years. She looted the ruined spires of Zenith for knowledge of spring magic, and tortured two Navarri vates to extract information on the vallorn. Where she has been since the Empire last encountered her is unknown, but she has strong connections at the [Palace of the Sleepers](../nations/urizen/Sarangrave.md#palace-of-the-sleepers) in Sarangrave. She has spent years developing her extensive understanding of the vallorn, always seeking a way to use it as a weapon against the Empire. Now at last she is ready to strike.
+
+An escaped slave, a broken and half-starved stevedore from the Feverwater Docks, was able to provide war scouts with a vital warning. The expedition, including her coven and a guard of elite fighters, plan to enter the vallorn in Sweetglades and cast an arcane projection that will rouse the creatures of the vallorn in the region. Such magics are known to be possible - rituals like [Rivers of Life](../../mixed/magic/rituals/Rivers_of_Life.md) can affect the vallorn and the [Heirs of Terunael](../winds-of-fortune/Rise_of_Terunael.md) have used Spring magic to directly stir the vallorn into life. Blackstaff has spent years preparing for this moment, she wouldn't be risking her life in this way, unless she was sure of her magic.
+
+Unless the ritual is interrupted, the coven waylaid, or the resources they require to cast it are captured then Blackstaff will stir the vallorn to life. Should this happen, then swarms of vallornspawn husks, ettercaps, vallornspawn briars, and twisted aberrations will issue forth from the depths of the forests and pour out into [Peakedge Song](../nations/navarr/Therunin.md#peakedge-song). The vallorn won't be unstoppable - but the region will be threatened by a force of at least fifteen thousand strength, requiring a huge effort to hold it back. The vallorn would be vulnerable and weakened if that happened, but by then it might be too late.
+
+### Battlefield threat: The Beasts of Sweetglades
+
+- **The Druj have taken control of some of the monstrous insects found in Therunin**
+
+Therunin is famed for the plethora of insects that inhabit the forests and swamps of the territory. Crucially, they grow *big* here, with some of the dire insects growing larger than an adult human.
+
+As the Druj have rampaged through the east of Therunin they goaded a number of monstrous creatures against the citizens of the Empire. The situation is no different here in Sweetglades, with the barbarians driving forth scuttling Dire Elytra that can [shatter shields and weapons](../../out-of-character/rules/Calls.md#shatter) with their great claws, and a hulking Dire Canthon bug twice the size of a human and capable of flinging ranks of soldiers aside with sweeping blows of its forelimbs.
+
+The creatures are a monstrous threat that the Druj will employ against any Imperial force they encounter.
+
+### Battlefield environment: Miasma of the Sweetglades
+
+- **A vallorn miasma reaches through the woodlands of Ashborder**
+- **Any creatures - human or orc - that enters the woodland will be affected by the miasma**
+
+The woodland at Ashborder lies along the edges of Sweetglades, one of the vallorn-infested regions of Therunin that has existed since the fall of the Terunael. The spore-filled air will make anyone who encounters it feel feverish or sick, suffering in short time from an envenomed blood.
+
+A venture of this scale into the vallorn miasma comes with many risks, especially for those who die of their wounds in its cloying depths. Citizens are reminded that The Gift of Kaela and the winter ritual [Surcease of Sorrow](../../mixed/magic/rituals/Surcease_of_Sorrow.md) can be used ensure that if the worst happens, ones corpse will not be able to rise as a vallornspawn. Likewise, the spring ritual [Turns the Circle](../../mixed/magic/rituals/Turns_the_Circle.md) can be cast upon a fallen citizen to prevent their inevitable reanimation.
+
+> **[Vallorn miasma](../nations/navarr/Vallorn.md#vallorn-miasma)**  
+>
+> - **The woodland at Ashborder is under the effect of a vallorn miasma**
+> - **Anyone in the miasma is affected by [VENOM](../../out-of-character/rules/Calls.md#venom) unless they are bonded to an [Abraxus Stone](../../mixed/magic/items/Abraxus_Stone.md) or are under the effect of [Vitality of Rushing Water](../../mixed/magic/rituals/Vitality_of_Rushing_Water.md)**
+> - **Anyone affected by the VENOM from the vallorn miasma will eventually begin to suffer from symptoms of nausea or mild feverishness**
+>
+> The limited exposure time during this battle means that there is no chance of anyone developing [green lung](../world/Vallornspawn_husk.md#green-lung)
+
+## Conjunctions
+
+### Dreams and Nightmares (The Barrens)
+
+- **Druj ritualists and their guards plan to unleash Thunderous Deluge on the Barrens**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Knight-protector of Spring* is responsible for preventing the Druj ritualists from cursing the territory**
+- **This conjunction is [against barbarians](../world/Sentinel_Gate.md#imperial-law); magistrates advise that lethal force is fully justified**
+
+The Swirling Cavern is a young Spring regio in the Untrod Groves that resonates with [chaos](../../out-of-character/rules/Spring_magic.md#chaos). It was found at the bottom of a deep gulley a few days' walk into the Untrod Groves by *Cara Tanner*, a yeofolk who had been foraging for herbs. It would have been easy to ignore it - the most powerful ritualists of the nation can use Imperial regio in Anvil to cast enchantments and shrouds on the territory - except that *Cara* found a tattered bag of worn, green leather containing several doses of [Warming Armour](../../mixed/magic/potions/Double-sided_Blade.md#warming-armour). Inspired by the exemplar [Berechiah](../religion/Berechiah.md) and the recent [consecration](../synod-judgements/385YE_Winter_Solstice_Synod_judgements.md#judgement-64) of his basilica by **Irada von Temeschwar** the yeofolk decided to investigate further and managed to overhear two Druj scouts talking of a plan to use the regio to unleash [terrible storms](../../mixed/magic/rituals/Thunderous_Deluge.md) on the territory.
+
+A week before the Autumn Equinox a group of knights-errant arrived at [Houndsgate](../nations/dawn/The_Barrens.md#houndsgate) with word of a group of Druj accompanying a coven of [ghulai](../barbarians/Druj_lore.md#ghulai) towards the Untrod Groves. It is too late for anyone dispatched from the fortification to catch the Druj before they make it to the regio - judged to be a few days after the summit. If the [Knight-protector of Spring](../../mixed/titles/Knight-protector.md), **Doctor Henri**, can intercept, and kill the ritualists, then that would protect the territory from suffering terrible cursed storms.
+
+### Unexpected Laughter (Morrow)
+
+- **Druj ritualists and their guards are moving to destroy Churnspire**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Churnspire Adjutor* is responsible for stopping the Druj**
+- **This conjunction is [against barbarians](../world/Sentinel_Gate.md#imperial-law); magistrates advise that lethal force is fully justified**
+
+Last season a group of Druj were able to cross the border and [raze](Ashes.md#twilight-morrow) the [Sunspire](../nations/urizen/Morrow.md#sunspire-ruined). Now the *Shuddering Wrast* are advancing into Peregro to target a different place of learning and magic. The [Churnspire](../../mixed/titles/Churnspire_Adjutor.md#churnspire) was built shortly after the [Spring Equinox 384YE](../senate-sessions/384YE_Spring_Equinox_Senate_sessions.md#construct-churnspire) overlooking the Churn; one of the most volatile geysers located in Peregro. Its majesty had drawn attention to it in the past; it was one of the [first targets](To_the_last_syllable.md#what-might-be) when the armies of [Cold Sun](../eternals/Cold_Sun.md) were unleashed on the Empire.
+
+The *Shuddering Wrast* are a clear and direct threat to Churnspire with their mastery of [Inevitable Collapse into Ruin](../../mixed/magic/rituals/Inevitable_Collapse_into_Ruin.md), as such it is the responsibility of the [Churnspire Adjutor](../../mixed/titles/Churnspire_Adjutor.md), **Sejanus of the Scarlet Guard**, to stop them. The Druj are still a few days out from the Churn, and the Sentinel Gate is expected to open a short way from the orcs of the Mallum. The coven, which specialises in the Winter resonance of [weakness](../../out-of-character/rules/Winter_magic.md#weakness), are likely to use mass battle magic against the heroes on the conjunction if they get the opportunity.
+
+### Colour of Trust (Therunin)
+
+- **The Black Wind are attacking Axou traders threatening the business of the Eastern Broker**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- **The *Eastern Broker* is responsible for stopping the Druj**
+- **This conjunction is [against barbarians](../world/Sentinel_Gate.md#imperial-law); magistrates advise that lethal force is fully justified**
+
+It is not only in East Ashes and Eastring that the Druj are active this season in Therunin. An orc of the Black Wind is leading a group of heavily armoured [Pakkad](../barbarians/Arkad.md#pakkad) deep into the west of the territory and moving to intercept traders from the Khiklotu Khrysoú. The pace set by *Yekath the Swift* lends itself well to a potential ambush by Imperials, and would see the Axou traders protected. If the Druj are not stopped then the Axou will be butchered, sending a message to the rest of the loose alliance of the Khiklotu Khrysoú. If that happens, then it will reduce the goods available to the Eastern Broker - no more than 16 mana crystals and 8 measures and ingots of materials will be available each season. It is the responsibility of the [Eastern Broker](../../mixed/titles/Eastern_Broker.md), **Lith**, to stop the Druj.
+
+---
+
+Categories: [Recent History](../../indexes/by-category/Recent_History.md), [386YE Autumn](../../indexes/by-category/386YE_Autumn.md), [Military Council](../../indexes/by-category/Military_Council.md), [Winds of War](../../indexes/by-category/Winds_of_War.md)

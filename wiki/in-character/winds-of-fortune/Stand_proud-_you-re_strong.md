@@ -1,0 +1,173 @@
+---
+title: Stand proud, you're strong
+source: https://www.profounddecisions.co.uk/empire-wiki/Stand_proud,_you're_strong
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 388YE Autumn
+- Highest Calling
+event: 388YE Autumn
+last_edited: '2026-10-23T18:00:14Z'
+revision: 146373
+in_character_boxes: 3
+---
+
+# Stand proud, you're strong
+
+> *In-character text:*
+>
+> The commander looked out over the ramparts of Mora's Rock, his gaze flying southwards towards the Spice Gardens, Afarjasse and beyond. News of the conquest of Free Landing had reached the Rock more than a week ago, and he'd been in a fell mood ever since. He paced, wondering to himself how the fuck his life choices had brought him here - trapped inland in the Empire and forced to make nice with a bunch of Freeborn who just wanted them dead. Still, at least Mora's Rock wasn't cursed again by that bloody hakima Bakar. Be grateful for small mercies he told himself.
+>
+> If him or Saoirse had more friends in high places, they'd have been allowed to surrender the Rock to the Empire and him and his soldiers could have been on the first boat back home. Of course if either of them had any friends in high places at all, he wouldn't have been posted here in the first place. Instead the only orders they had were to hold the Rock against all attackers. Typical fucking salt lords, they talked about Fidelity, but they'd sell their own mother for a wain of weirwood. Still it could be worse, he told himself, he could be surrounded by the fucking Suranni instead of the bloody Empire. That's what being the commander was all about - working out how any situation you were in could get worse.
+>
+> Whichever way you cut it, it was bad news that the bloody fanatics were now holding the islands all along the Coast. Suddenly home felt that much further away than it had yesterday. He ran through all the ways that could get worse for him and Saoirse in his head and stopped after the first half a dozen different ways they both ended up dead. The chances of the Suranni stopping at the Cazar Straits seemed slim at best. When did the Iron Confederacy ever stop at anything?
+>
+> He pondered the prospect of the Suranni taking Afarjasse with growing dismay. If the Empire attacked the Rock, he'd have to make the best showing of it he could and half the men and women under his command would likely end up dead. Storming a castle never ends well for the attacker, but if they win, it always ends up a lot worse for the defenders. Still, he had high hopes that they'd done enough that when, inevitably, that did happen, the Empire would let the rest of them find a way back to the Broken Shore. Hopefully.
+>
+> But if the Suranni attacked the Rock... well then any chance of any of them getting out of here alive would be gone. Without support, he couldn't possibly hold the Rock and when it fell... well the ones who died defending the walls would be the lucky ones. The Iron Confederacy hated them even more than they hated the Empire, if such a thing were possible. Still, at least the Jotun weren't threatening the region, so things could always be worse.
+>
+> "Stop pacing" - a woman's voice cut through the cool morning air. "You're only making things worse and you're wearing me out".
+>
+> "Making things worse is my job" he responded, but he spoke the words under his breath. Such thoughts were best kept to himself.
+
+*[Image: Few in the Brass Coast would deny that their lands have been easy prey for barbarians in the past; there is certainly a will to see that change.](https://www.profounddecisions.co.uk/empire-wiki/File:NBBrassCoast.jpg)*
+
+## Overview
+
+After several seasons of deliberation (and funding a [whole new city](../senate-motions/Construct_City_of_Wonders.md)), the Freeborn National Assembly has decided that the focus of their people should be on defending their lands. The sentiment resonates with people across the Coast. It was not long ago that both [Madruga](../nations/the-brass-coast/Madruga.md) and [Feroz](../nations/the-brass-coast/Feroz.md) fell under barbarian control; [Kahraman](../nations/the-brass-coast/Kahraman.md) has faced constant invasion from the Lasambrians over the past few years, and [Segura](../nations/the-brass-coast/Segura.md) has only recently seen a prolonged period of quiet after nearly two decades of constant warfare. The completion of the Grand Lodge of the [Silver Chalice](../../mixed/government/conclave/Silver_Chalice.md), the [Well of Life](The_shape_of_things_to_come.md#the-well-of-life) in Madruga, means that there will be fewer Imperial casualties for armies fighting in any of the territories of the Coast, but there is much more that could be done to fortify the lands of the three tribes and bring some semblance of stability to the Coast.
+
+In fact, there is so much work that could be done, people are at a loss to know where to start. The Assembly will have to consider the options carefully - they have a year to take advantage of the nation's [highest calling](The_highest_calling.md#the-highest-calling), but that won't be enough time to pursue every possibility.
+
+> *In-character text:*
+>
+> The Freeborn Assembly declares that out highest calling is to defend our borders from attack. The Freeborn have endured invasion, occupation and the loss of Feroz and Madruga. We know the cost of complacency. To safeguard our people, caravans and our future, we must commit ourselves to vigilance, readiness and unity in the face of threat. We should aim to secure our borders through strength, alliance, and wise negotiation. Don't let the Freeborn flame be extinguished.
+>
+> Maria i Espiri i Guerra, Freeborn National Assembly, Summer 388YE, Vote: Upheld with a **Greater Majority** 216-0
+
+As the Freeborn has raised their highest calling, the Pride Assembly has [one more season](Lay_the_foundations.md#let-the-call-ring-out) to consider their options. Technically, the Vigilance Assembly could do likewise, but they have rejected the premise of the highest calling, determined not to focus on a single threat at the expense of all the others.
+
+## Gambare
+
+- **Over a dozen different paths have been identified that could bring benefits to the Brass Coast**
+- **There is only time for the national assembly to pursue four of them**
+
+Spurred on and focused by their national assembly, the Freeborn people are keen to improve the defence of their lands. After studying the issue, the hakima have identified over a dozen different paths that could be taken. Each approach will yield benefits but will undoubtedly come with costs that will have to be borne by someone. For the following year, the Freeborn National Assembly can direct the efforts of Freeborn citizens to one of the options listed below each season, using an appropriately worded statement of principle. At most, that means they could pursue up to four of these options. In each instance, at least one [opportunity](../../out-of-character/game-design/Opportunity.md) will be identified and presented by the Freeborn working in conjunction with the Civil Service.
+
+*[Image: Sturdy castles and great stone walls protect the Imperial heartlands.](https://www.profounddecisions.co.uk/empire-wiki/File:DawnAndUrizen.jpg)*
+
+### Fortifications
+
+- **Any of the territories of the Brass Coast would benefit from fortification**
+- **Fortifications are dependable and effective but expensive to build and maintain**
+
+The simplest and most effective way to defend a territory is to [fortify](../../out-of-character/rules/Fortification.md) one or more regions in the territory. Fortifications are tried and tested; they are dependable and effective, but they are usually very expensive, both to build and maintain. Any [opportunity](../../out-of-character/game-design/Opportunity.md) that arises might present ways to make a fortification more effective, but it is rare for an opportunity to be cheaper to build than a standard [commission](../../mixed/commissions/Commission.md).
+
+- **Fortify Kahraman** - Since the fall of Fort Braydon, Kahraman has been largely undefended against the incessant raids of the Lasambrians. Fortunately, their armies have been somewhat busy in [the Marches](../nations/the-marches/The_Marches.md) and [Reinos](../barbarians/Reinos.md) more recently, but it is likely only a matter of time before they or other enemies return to the territory that contains not one but three bourse seats.
+
+- **Fortify Feroz** - There are already efforts being made to restore the livelihoods of the peoples of Feroz, but it will also need to be fortified against the inevitability that the Grendel will one day return to their shores. A precautionary line of defence on the southern border of Feroz may not be a bad idea either.
+
+- **Fortify Segura** - With the City of Wonders completed, the Freeborn are [already taking advantage](../senate-sessions/388YE_Summer_Solstice_Senate_sessions.md#construct-sakaris-legacy) of an offer from Adamant to protect the territory from invasion, as the most remote territory in the south-west of the Empire. Far-flung as it is, a single fortification may not be enough to secure Segura; is there more that could be done?
+
+- **Fortify Madruga** - The [Municipal Docks](../senate-motions/Construct_Municipal_Docks.md), once they are completed, will already serve to defend Feroz from attackers from the sea. Yet one only has to ask the former [residents of Siroc](../winds-of-war/A_beacon_of_smoke.md) if one fortification on the coast should put peoples minds at ease against the threat of the [Grendel](../barbarians/Grendel.md) armada. More can and must be done to properly defend against further naval encroachments, and more than one hakima has raised concerns about what threats might emerge from [Crucible](../nations/the-brass-coast/Madruga.md#crucible).
+
+[Image: King Under the Mountain.png](../eternals/Adamant.md)
+[Image: CathCane001b.webp](../eternals/Cathan_Canae.md)
+[Image: Janon001a.png](../eternals/Janon.md)
+[Image: Sorin001.png](../eternals/Sorin.md)
+[Image: Ephisis001.webp](../eternals/Ephisis.md)
+
+### Eternal Allies
+
+- **There are several allies that *could* help with the defence of the Brass Coast**
+- **Eternals can be fickle and their help often comes with strings attached**
+
+If it exists, there is probably an eternal who cares about it. This is definitely true of fortifications and defences, and the hakima could approach various contacts they have with heralds from the realms to see what bargains might be struck for their aid. Unlike fortifications, eternals can be fickle, and their help often comes with strings attached. Still, that can sometimes make it cheaper than fortifications; the Coast might need to find less white granite if they're paying with some other coin.
+
+The list of eternals that won't help is long - the [*Regent of the Eternal Sea*](../eternals/Rhianos.md) might cherish their friendship with the corsairs, but they have no interest in "defending" anything. Likewise, the [*Queen of the Fields of Glory*](../eternals/Eleonaris.md) would help the Brass Coast attack their enemies, but she doesn't care for those who want to protect what they already have. Fortunately, the hakima have identified five eternals they would definitely be willing to help, if the Coast could meet their price. The Assembly doesn't have to restrict themselves to this list of course, but they had best be certain of an eternal's nature if they pick another.
+
+- **Approach Adamant** - The [*King Under the Mountain*](../eternals/Adamant.md) encourages mortals to build immense, inspiring structures, and his koboldi are known to be able to create fortifications that are almost impossible to destroy. Of course any fortification is expensive, so this option won't end up being any cheaper than the Assembly directing efforts to fortify a territory themselves.
+
+- **Approach Cathan Canae** - The [*Queen of Ice and Darkness*](../eternals/Cathan_Canae.md) respects only might and resilience. She resents the loss of any territory she jealously defends her own lands and expects her mortal allies to share her determination never to cede land to her enemies. She would be a natural ally for anyone looking to protect their home, were it not for her infamous temper.
+
+- **Approach Janon** - The [*Muse of Fire*](../eternals/Janon.md) is a passionate supporter of the Brass Coast - not for nothing is he called the *Firebrand*. He has sent his heralds to fight alongside the Freeborn armies in recent times and would doubtless do so again given the opportunity. The only problem is that the eternal is currently under [enmity](../eternals/Alignment.md#enmity), so the Coast would have to persuade the Conclave to change that; otherwise, any deal would be highly illegal.
+
+- **Approach Sorin** - The [*Tomb King*](../eternals/Sorin.md) can be a powerful ally in defence of any cause, if you can meet the price. He has heralds who can fight in support of mortal allies, often in the form of terrible wolves, and he allows Imperial magicians to summon [the Basalt Citadel](../../mixed/magic/rituals/The_Basalt_Citadel.md) to defend a ruin from attack. He is known to exact a heavy price for his aid and bargainers are wise to pay in advance when dealing with the *Blade of Hunger*.
+
+- **Approach Ephisis** - the [*Hidden Prince*](../eternals/Ephisis.md) is an odd choice, but there is more reason than it might appear to consider asking them for their aid. The *City of Lead and Gold* loathes thieves, bandits and raiders so they are a natural ally against the dangers posed by the Lasambrians. There is nothing the heralds of the *Merchant Queen* cannot obtain if the purchaser can raise the price.
+
+Of course the hakima *could* approach [*the Giver of Gifts*](../eternals/Agramant.md) but nobody thinks that is a good idea. The *Voice of the Pines* never turns away anyone who calls on them for aid, which is precisely why nobody ever should.
+
+### Mortal Allies
+
+*[Image: Tethros i Zuhri i Erigo , Ambassador to the Iron Confederacy, is Freeborn...](https://www.profounddecisions.co.uk/empire-wiki/File:AmbassadorIronConfederacy.png)*
+
+*[Image: ... as is Mina i Yashum i Riqueza , Ambassador to Faraden](https://www.profounddecisions.co.uk/empire-wiki/File:Mina6596.jpg)*
+
+- **Closer ties with the nation's foreign neighbours could help secure the Brass Coast**
+- **Foreign powers will always have demands of their own in return for their aid**
+
+One way to make it harder for enemies to attack the Brass Coast is to strengthen relations with the nation's neighbours. Obviously the Marches and the League are the nation's immediate neighbours inside the Empire, but one of the reasons why the Brass Coast has suffered in recent years is because of its proximity to so many foreign powers. Closer relations with any of them might yield useful benefits - provided that what they demanded in return was acceptable to the Empire.
+
+The obvious foreign powers are listed below in order of military power, starting with the strongest.
+
+- **Suranni** - It is impossible to be certain how powerful the Iron Confederacy actually are, but their campaign in Reinos proceeds apace. It would certainly be disastrous for the Brass Coast if the Suranni were to move in force against them. They were more than capable of destroying the Children of Wrecks, but as that campaign showed, they like to claim whatever they defend. There is little to be done to guarantee peace between the two powers besides a formal treaty defining such, but improved trade and other agreements to the benefit of the Dukes might make the idea of war with the Empire less desirable.
+
+- **Faraden** - The Faraden have recently re-signed their peace treaty with the Jotun, and the nature of their relationship with the Iron Confederacy is somewhat unknown, but it seems likely that they would prefer Imperial victory in any conflict between the two. They have little in the way of military forces they can spare, but that does not mean there are no deals that might be struck to help, provided the problems posed by religious differences can be handled.
+
+- **Morajasse** - Following their visit to Anvil last season, relations seem to be improving between the Protectorate of Morajasse and the Empire. Few Brass Coast are naturally minded to work with the Protectorate - they are Grendel after all - but they have shown themselves more than capable of defending the Coast from mutual threats. The garrison controls the fortification - the Freeborn could negotiate to see if further deals for mutual military and other benefits are possible.
+
+- **Marracossans** - While they may currently be [facing issues](Seeds_of_discord.md#marracossa) with recent pronouncements by the Synod, the Marracossans have a [vested interest in Madruga](../senate-motions/Cede_Trajadoz.md) not being conquered by external forces. They are easily the weakest of any of the list of potential mortal allies the Brass Coast could approach but that has the advantage that they are likely to ask for less than the others.
+
+### Espionage
+
+*[Image: Rahmah i Darwisj i Erigo , Imperial Spymaster](https://www.profounddecisions.co.uk/empire-wiki/File:Rahmah_i_Darwisj_i_Erigo.jpg)*
+
+- **The more the Brass Coast knows about its neighbours, the safer it will be**
+- **Spy networks can provide up-to-date information on military developments in neighbouring lands**
+
+A [spy network](../../out-of-character/rules/Spy_network.md) is cheap to build and maintain, but requires concerted effort to operate. Unless enough [military units](../../out-of-character/rules/Military_unit.md) choose to engage in espionage at the spy network, it is essentially useless. The Brass Coast doesn't need any help building a spy network in neighbouring lands, but an opportunity to make them more effective or easier to support could be valuable. It is perhaps also helpful that the current [Imperial Spymaster](../../mixed/titles/Imperial_Spymaster.md) - **Rahmah i Darwisj i Erigo** - is Freeborn themselves.
+
+Any way for the Freeborn to keep an eye beyond their borders could contribute to making the Coast safer for the people who live within harm's reach. Potentially, the Freeborn could even look into any opportunities to engage in sabotage and espionage to keep their many potential enemies fighting each other.
+
+- **Spy on the Lasambrians** - the Empire had a spy network in [Reinos](../barbarians/Reinos.md) but it was decommissioned almost two years ago. That makes it much harder for the Empire to find out what the Suranni are up to in their attack on the Lasambrian homeland. A spy network here could help keep the nation abreast of the risks posed by their powerful southern neighbours.
+
+- **Spy on the Jotun** - like Reinos, [Liathaven](../nations/navarr/Liathaven.md) had a spy network for many years before it was uncovered by the Jotun and destroyed, the unenviable fate of most spy networks that are discovered by the enemy. The territory has changed significantly since the Jotun conquered it, and the Imperial maps of the territory grow more inaccurate by the day. Any Jotun attack on the Brass Coast is likely to come from Liathaven, so intelligence on what is happening there could be invaluable.
+
+- **Spy on the Suranni** - The Empire has recently begun [construction of a spy network](../senate-motions/Construct_Wrangler-s_Market.md) in [Arbonne](../world/Bay_of_Catazar.md#kalino-or-arbonne), which will allow the Imperial Orcs to gather intelligence on the Suranni activities in Arbonne under cover of acting as guards for Freeborn merchants. The plan is foolproof in terms of not being discovered, but it does rely on the Imperial Orcs to have military units to be able to operate the network properly. The Assembly could look for ways to employ the new Wrangler's Market to go further, making it more effective or easier to use. If there was a full-scale invasion of the Brass Coast by the Suranni, it would be almost certain to begin in Arbonne, so any intelligence could be crucial.
+
+> *In-character text:*
+>
+> Life is short, let it never be dull
+
+## To Contest Domains
+
+*[Image: BurningFalcon Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:BurningFalcon_Colour.png)*
+
+*[Image: TheFireoftheSouth Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:TheFireoftheSouth_Colour.png)*
+
+*[Image: RedWindCorsairs Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:RedWindCorsairs_Colour.png)*
+
+- **For the next year, any Freeborn army can be given orders to burn brightly when defending a Freeborn territory**
+
+The [corsairs](../nations/the-brass-coast/Corsair.md) and [kohan](../nations/the-brass-coast/Kohan.md) of the Freeborn armies have been inspired by the words of the Freeborn Assembly. There is little fear of death to be found of any individual person, but there is now the will to burn so bright that the thought of ever dimming it becomes inconceivable. For the next year, any Freeborn army can take the *Burn Brightly* defensive order in any Freeborn-held territory.
+
+While not necessarily a sustainable long-term strategy, the Freeborn armies could throw their all into defending their homelands from any who would seek to take it from them. This ferocious and wild display might be enough to make any invaders think twice about attacking the Coast.
+
+> **Burn Brightly**
+>
+> - **The ability of this army to defend territory is increased by three fifths**
+> - **Casualties inflicted by this army are increased by three fifths**
+> - **Casualties suffered by this army are doubled**
+>
+> The Freeborn are attended to by their cousins in their homeland and whip themselves into a frenzy. Any who dare to attack the Brass Coast would find themselves drowned with soldiers determined to do whatever it takes to drive the enemy out with no thought for their own survival. The ferocity and shock value is completely overwhelming to any who would seek to stand against it.
+>
+> If a general issues an order to burn brightly in a non-Freeborn territory, the army will instead make a [heroic stand](../../out-of-character/rules/Army_orders.md#heroic-stand).
+
+## Further Reading
+
+- [The highest calling](The_highest_calling.md) - 387YE Autumn wind of fortune introducing the highest calling
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [388YE Autumn](../../indexes/by-category/388YE_Autumn.md), [Highest Calling](../../indexes/by-category/Highest_Calling.md)

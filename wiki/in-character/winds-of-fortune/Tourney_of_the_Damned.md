@@ -1,0 +1,89 @@
+---
+title: Tourney of the Damned
+source: https://www.profounddecisions.co.uk/empire-wiki/Tourney_of_the_Damned
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 386YE Autumn
+- Recent History
+event: 386YE Autumn
+last_edited: '2026-01-22T02:31:28Z'
+revision: 133613
+in_character_boxes: 1
+---
+
+# Tourney of the Damned
+
+> *In-character text:*
+>
+> Pipes skirl and shriek; drums beat and thrum. Black flags flutter in the cold night wind that brings with it the stench of rot. Ragged footsoldiers stand in huddled masses, not breathing, not moving save they are called to do so by one of the champions. Schlacta in bloody steel, knights with eyes like burning coal, stalk among them. They are not who they were, no longer the brave defenders of their people. Now they are filled with a corruption that turns them to tools of destruction and death.
+>
+> Across Weirwater and Karov, people wake from nightmares in a cold sweat. In distant Mieriada, the sleep of the Wise is troubled by dreams of red-eyed white hares who whisper the name of the Deadwood Knight, of the Schlacta of Rot, of the Howling Queen, and warn of what lies just over the horizon of night and day.
+>
+> A harvest of blood, meat, and bone is due; the crows are gathering; an army of the damned is coming.
+
+*[Image: Crows father in Wickmoor and Skoremujac, eager to see the harvest gathered in.](https://www.profounddecisions.co.uk/empire-wiki/File:Murder_of_Crows_at_Disneyland.jpg)*
+
+*[Image: Click for pdf version](https://www.profounddecisions.co.uk/empire-wiki/File:Tourney_of_the_Damned.pdf)*
+
+## Overview
+
+For the past year an unliving abomination called variously the Deadwood Knight and the Schlacta of Rot has been gathering strength in the wild places of northern Weirwater and southern Karov. The creature is a cadaverous warrior and a lieutenant of the Varushkan [sovereign](../nations/varushka/Varushkan_Monster.md#sovereigns) known as the *Howling Queen*. This is not the first time he has emerged to threaten the Empire; his [odd challenge](The_horror_and_the_wild.md#the-schlacta-of-rot-conjunction) has been issued several times before. On this occasion, however, something went wrong and rather than delivering his blessing and curse and then returning to slumber, the knight has remained active and (apparently) intends to conquer Dawn and turn it into a hollow mockery of life as a kingdom of the dead with himself as its master.
+
+Even this has happened a few times before, and when it did it took the concerted efforts of multiple [armies](../../out-of-character/rules/Army.md) to end his rampage. Now it seems things have reached the tipping point; brave efforts from Imperial heroes have delayed his rise and limited the strength he has been able to gather but he is now ready to begin his conquest. Everything hinges on a last desperate attempt to stop him - and perhaps on the [research](../senate-sessions/386YE_Summer_Solstice_Senate_sessions.md#research-the-deadwood-knight) commissioned by the then [Minister of Historical Research](../../mixed/titles/Minister_of_Historical_Research.md) **Vaclav Mladenovich Kosti**. While **Silk Farkas** is the current minister, it was Vaclav who commissioned the research. As a consequence the [Department of Historical Research](../../mixed/government/senate/Historical_research.md#the-department-of-historical-research) will provide a copy of the report to *both* individuals.
+
+There's also a fading hope that some of those who have been desperately searching for a way to end the threat of the Schlacta of Rot once and for all have found *something* in their researches that will allow the creature to be destroyed permanently. But how successful their investigations have been is uncertain.
+
+## Army of the Dead
+
+- **The army of the unliving raised by the Schlacta of Rot is large enough that it now represents a campaign level threat**
+- **After the Autumn Equinox the army will attack either Weirwater or Karov**
+- **The army feeds on those it kills, raising them as unliving footsoldiers to swell its numbers further**
+
+The schlacta of rot has been gathering forces for the last year, and all the signs show that he is ready to begin his conquest of the Empire. His goal, ultimately, is futile of course. Even an army of the dead cannot hope to conquer a single territory, never mind a whole nation. But that will surely not stop him trying. It's not clear what his first target will be, but it will be either Karov or Weirwater. Broad estimates suggest that when he emerges from the woods, the Deadwood Knight will be leading a force equivalent to a single campaign army. It may not be able to capture a region in one go but it will cause massive loss of life in both regions, and potentially scar them permanently if there is no army in the territory to stop them.
+
+Dire as this sounds it could be a lot worse. Without the swift actions of Imperial heroes, this army might well have been half again the size it is now. Fortunately, skirmishes and engagements with the knight's forces over the last few seasons were successful enough that he has "only" been able to raise a standard army, rather than a large one. However... that may not remain the case. One of the problems with facing creatures such as this, powerful lieutenants of the Howling Queen, is that those they slay often rise to fight again on the side of the one who slew them. The Deadwood Knight has shown he has the power to raise slain opponents in this fashion, and is unlikely to stop once the problem escalates to the battlefield. As such, the army will replenish any casualties it takes by killing Imperial soldiers, and might even be able to increase its size if it is successful enough in battle. Worse, if there is nobody there to face it in battle, it will *definitely* increase in size simply by slaughtering civilian citizens and turning them into footsoldiers; estimates are that each season it goes unchallenged it will gain an additional 1000 effective strength.
+
+If it comes to this, there'll be no further opportunities to try and destroy the Deadwood Knight himself until his army is routed.
+
+## Melee Macabre
+
+- **There is a chance to challenge the Deadwood Knight to a grand melee and defeat him**
+- **If a conjunction of the Sentinel Gate exists the civil service have so far been unable to find it**
+- **The historical research may contain clues to the Deadwood Knight's location**
+
+It's been just over a year since the Deadwood Knight first [issued his challenge](The_horror_and_the_wild.md#the-schlacta-of-rot-28conjunction29). Two champions - one from Varushka and one from Dawn - faced him and defeated him. He initially kept his bargain, and granted a boon to the people of [Weirwater](../nations/dawn/Weirwater.md) without the accompanying [curse](../../out-of-character/rules/Curse.md) on the people of [Karov](../nations/varushka/Karov.md). This is clearly where things went wrong; as the Autumn equinox approached last year his [rampage began](The_lake_and_the_deep-_dark_woods.md#a-lord-of-the-dead-woods).
+
+The [attack on the Earl of Fools' tourney](Tales_of_mystery.md#the-deadwood-knight) suggests that the knight is still bound by some of the rules that might have bound them in life. When he attended, he only attacked the other fighters; he didn't wade into the crowd killing indiscriminately. Whether this is due to Dawnish traditions of tourney, or Varushkan traditions of hospitality, something clearly compels him to face challenges presented in the correct fashion. As such, it seems likely that if the two champions who faced him last year issue another challenge he will surely be forced to meet it. It won't be a challenge to one-on-one combat, but a grand melee in which the knight and his most powerful unliving servants clash with a warband gathered by the two champions. As long as the forms and traditions of a grand tourney are observed, the knight will assuredly have to fight, and hopefully be defeated.
+
+Unfortunately, it's not clear *where* that clash can take place. The Deadwood Knight isn't coming to [Anvil](../world/Anvil.md) any time soon. It's not clear exactly *where* the challenge needs to take place - the challengers will need to find the knight and go to him, to issue their challenge in person. If there's an opportunity, it will certainly make use of the [Sentinel Gate](../world/Sentinel_Gate.md), but so far the prognosticators haven't found a suitable [conjunction](../world/Sentinel_Gate.md#conjunctions). Their expectation is that they don't know where they should be looking. It will be somewhere in either Weirwater or Karov, and likely in [Wickmoor](../nations/dawn/Weirwater.md#wickmoor) or [Skoremujac](../nations/varushka/Karov.md#skoremujac). But without knowing precisely where in those regions the knight is gathering his forces, they can't pinpoint a conjunction. Hopefully there are people at Anvil who might have a better idea, or the research undertaken by Vaclav Mladenovich Kosti will provide some hint.
+
+What seems clear is that the challenge will need to be issued by the two champions who beat the knight last time - he won't be able to resist facing them in a grand melee - and their warband should be a healthy mix of Dawn and Varushka to draw on the links the creature has to both nations. If either of the two champions is unavailable, either unable to reach Anvil or dead, then there is a small chance the [hearth magic](../../out-of-character/rules/Hearth_magic.md) of [girding](../../mixed/magic/lore/Dawn_hearth_magic.md#girding) might be sufficient to convince the knight that both are present, but it is a long shot.
+
+Either way, the best outcome is that the champions and their warband face the knight and his warriors, defeat them, and one or ideally *both* of the champions deliver a [final blow](../../out-of-character/rules/Calls.md#execute) to the knight while he is incapacitated. That should be enough to end his current rampage. Hopefully.
+
+**OOC Note:** Finding a conjunction of the Sentinel Gate can be done by anyone with [detect magic](../../out-of-character/rules/Detect_magic.md). Unfortunately, to pinpoint a conjunction requires the caster to know exactly where they need to go - the [territory](../../out-of-character/rules/Territory.md) or [region](../../out-of-character/rules/Territory.md#regions) alone is not enough. Generally the "address" includes a specific landmark within the region, and its name must be used as part of the divination to find the conjunction.
+
+## Killing Him Dead
+
+- **Ending the current rampage likely needs one or both of the original champions to execute the knight after defeating him and his forces in a melee**
+- **Defeating the knight frees his unliving soldiers to go on a rampage in Karov and Weirwater**
+- **It may be possible to *permanently* destroy the cursed creature, in which case his army will likewise fall to pieces**
+
+The problem with the Deadwood Knight is that, as with many of the servants of the Howling Queen, he doesn't stay dead. Since recent events started there are unverified reports that he's already been killed once or twice and that he just... comes back. Magicians and scholars from Dawn and Varushka agree that there is clearly a way to put him "back in his box" - and their best guess is that the formal challenge from the warriors who battled him previously may create the circumstances needed to end his rampage for the moment, assuming one of them executes him. If someone *else* executes him... well then all bets are off. It's impossible to say whether that death will "stick" or not.
+
+Either way this outcome will be something of a mixed blessing. While the Schlacta of Rot will be defeated, the legions of the dead he has been gathering will likely persist. Killing the knight will weaken them, and deny them their leader and motive force, but this will likely result in them going on a rampage in Weirwater and Karov. They'll still represent a major threat to the area, but the civil service believe a single army in each territory issuing any defending order other than [give ground](../../out-of-character/rules/Army_orders.md#give-ground) will be sufficient to contain the problem. The armies will suffer casualties but the inhabitants of the territory should be saved for the most part. It's estimated that depending on exactly how strong they are the armies involved may take as many as 500 casualties in the process of dealing with the rampaging unliving warriors.
+
+However there is another possibility. Nobody has managed it yet, but if the Deadwood Knight can be permanently destroyed - and again Dawnish scholars and Varushkan sages agree it *must* be possible - then the threat of the knight's servants should end at the same time. Severed entirely from the Howling Queen, everyone enslaved by the Knight should be freed, their bodies falling lifeless. They'll still need dealing with, but providing funerals for a few thousand tragically murdered citizens is a very different matter to fighting those same citizens in the form of unliving horrors.
+
+## Further Reading
+
+- [Tales of mystery](Tales_of_mystery.md#the-deadwood-knight) - 386YE Summer wind of fortune
+- [Momento mori](Momento_mori.md) - 386YE Spring wind of fortune
+- [The lake and the deep, dark woods](The_lake_and_the_deep-_dark_woods.md#a-lord-of-the-dead-woods) - 385YE Winter wind of fortune
+- [The horror and the wild](The_horror_and_the_wild.md#the-schlacta-of-rot-conjunction) - 385YE Autumn wind of fortune introducing the creature's challenge
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [386YE Autumn](../../indexes/by-category/386YE_Autumn.md), [Recent History](../../indexes/by-category/Recent_History.md)

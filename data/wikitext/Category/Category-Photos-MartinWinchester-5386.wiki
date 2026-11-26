@@ -1,0 +1,7 @@
+Martin's Flickr galleries are [https://www.flickr.com/photos/_infiniteplanes/ here]
+
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>[[Category:Photos:MartinWinchester]] [[:Category:Photos:MartinWinchester|Image by Martin Winchester]]
+</nowiki>''

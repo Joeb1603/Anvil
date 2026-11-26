@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Proposed: Zenith, Seconded: Segura">That the Senate raise the Urizen second army in Redoubt, the Argent Sword. Fully self-funded.</quote>
+==Overview==
+* Raises an [[Army]] in Redoubt
+* Passed
+* More information can be found in the '''[[A box for a sword]]''' wind of fortune
+
+==Date==
+* Spring 387YE
+
+==Cost==
+* Costs as per opportunity
+* 300 mithril
+* 900 crowns
+* Six months to complete
+
+==Progress==
+{{CommissionProgress|Raise_Argent_Sword}}
+==Outcome==
+* Now complete, the [[Argent Sword|General of the Argent Sword]] will be available for election by unanimous decision of the Urizen senators for the first time at the Summer Solstice 387YE, for a shortened term until the Winter Solstice 387YE

@@ -1,0 +1,34 @@
+[[Category:Title]] [[Category:The Marches]]
+==Overview==
+The Master of Sarcombe Metal Market is an [[Imperial title]]  awarded to a [[the Marches|Marcher]] citizen. It is a national position appointed by unanimous decision of the Marcher [[senator|senators]].
+
+The [[#Sarcombe Metal Market|Sarcombe Metal Market]] was established as part of a wider scheme to revitalise the [[market town]] and the prosperity of the [[Mournwold]]. In particular, given its location, it is possible that if [[Liathaven]] were returned to Imperial control there would be additional opportunities to trade metal with the inhabitants of the south-western forest.
+==Responsibilities==
+The Master of Sarcombe Metal Market gets first choice on the materials that pass through the great hardwood doors, and as a consequence is expected to ensure that all materials are safely stored for the market. if anything threatened the vault, or by extension the market town of Sarcombe, they would be expected to deal with the problem.
+
+==Powers==
+===Mournful Hills===
+<div style="float:right; width: 500px; clear: right; margin-left: 10px;">
+<table style="width:500px; float: right; margin-left:10px;" class="mw-collapsible"><tr><td colspan="2" style="background-color: LightBlue;">'''Metals of Sarcombe'''</td></tr>
+<tr><td>7 Crowns</td><td>6 ingots of [[green iron]], 2 ingots each of [[tempest jade]], [[weltsilver]], and [[orichalcum]]</td></tr>
+<tr><td>17 Crowns</td><td>9 ingots of green iron, 5 ingots each of tempest jade, weltsilver, and orichalcum</td></tr>
+<tr><td>35 Crowns</td><td>12 ingots of green iron, 8 ingots each of tempest jade, weltsilver, and orichalcum</td></tr>
+<tr><td>48 Crowns</td><td>15 ingots of green iron, 11 ingots each of tempest jade, weltsilver, and orichalcum</td></tr>
+<tr><td>62 Crowns</td><td>18 ingots of green iron, 14 ingots each of tempest jade, weltsilver, and orichalcum</td></tr>
+</table>
+</div>
+As a [[ministry]], the title of Master of Sarcombe Metal Market allows the holder to purchase quantities of special materials at a set price. The Keeper makes their decision how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+==Appointment==
+The Master of Sarcombe Metal Market is appointed during the Winter Solstice each year. It is chosen by unanimous decision of the [[the Marches|Marcher]] [[senator|senators]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead.
+
+The title can be held by any Marcher citizen. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Marcher [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{CaptionedImage|file=John of Killinghall.jpg|caption='''John of Killinghall''', Master of Sarcombe Metal Market|align=left|width=250}}
+{{RecentElections|Master_of_Sarcombe_Metal_Market}}
+==The Sarcombe Metal Exchange==
+The grey stone building stands proudly in the centre of Sarcombe. It is entered through a grand double door made of polished hardwood brought all the way from [[Mournwold#Alderly|Alderly]], with mithril filigree depicting miners resting under an apple tree. Above the door a mithril plaque reads "Sarcombe Metal Market" and underneath "Courtesy of Applewood". 
+
+Much of the building is given over to a large hall that hosts the Sarcombe metal market itself. Underneath the market is a large vault, dug into the stone and made of the finest mithril to allow safe storage of the materials. Whilst normally hidden from public view, the great vault door depicts the Applewood livery etched lightly into the surface.
+
+Miners from all over the Mourn come here to have their ore evaluated, stored, and sold; visitors from [[Mournwold_spoils_of_war#Matilda_Stone_Quarries|Matilda Stone Quarries]] and [[Mournwold_spoils_of_war#Jonah.27s_Lament|Jonah's Lament]] are particularly regular visitors. Traders from as far afield as [[Hahnmark#kalpaheim|Kalpaheim]] and [[Tassato]] make the journey here to purchase fine Mournwold metal.
+{{Responsibilities Expectation}}

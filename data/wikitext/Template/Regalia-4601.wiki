@@ -1,0 +1,4 @@
+* '''Form:''' Talisman. Takes the form of [[Magic Items#Talismans|ceremonial regalia]]. You must be wearing this item to use its magical properties.
+* '''Requirement:''' You must have the [[Religious skills#Dedication|dedication]] skill to bond to this item.
+[[Category:Magic Items]]
+[[Category:Regalia]]

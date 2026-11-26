@@ -1,0 +1,47 @@
+==Overview==
+{{MartialTitle}}
+The Captain of the Throne Guard is an [[Imperial title]] responsible for overseeing the Throne Guard [[Imperial sodality|sodality]]. Protectors of the [[the Throne|Imperial throne]], the Throne Guard are recruited, organised, and deployed by their Captain. The position was [[Construct_Vigilant_Shield|established]] by the [[Senate]] in Summer 383YE with the support of [[Empress Lisabetta]], and funded by the House of Seven Mirrors - the Imperatrix's own [[guild]]. Perhaps ironically, the title was never appointed during Lisabetta's reign because the Throne [[Crowned in rose and heather|disappeared shortly after it was established]]. Due to the [[#appointment|method of appointment]], the Captain can only be chosen by the Throne, leaving the [[#The_Vigilant_Shield|official residence]] unoccupied by any save a small support staff. The first Captain of the Throne Guard would need to [[A_Sparrow_in_Spring#Ratification_and_Appointments|wait]] until the ascension of Empress Vesna.
+
+The title was amended twice during the Autumn Equinox 387YE: first by the Senate, to [[387YE_Autumn_Equinox_Senate_sessions#Assign_Regalia_to_Captain_of_the_Throne_Guard|assign]] the [[#Captain's Enduring Oath|Captain's Enduring Oath]] as regalia; and second by the [[Stipulator of Stipends]], to [[387YE_Autumn_Equinox_Senate_sessions#Amend_Captain_of_the_Throne_Guard|grant]] it a seasonal stipend of ten thrones.
+
+==Responsibilities==
+The Captain of the Throne Guard has the responsibility to protect the Throne in accordance with the Throne Guard oath: "in body, mind and soul" and to recruit and roster members of the Throne Guard during Anvil Summits. In addition, if the Vigilant Shield itself were to be threatened in any way, it would be the responsibility of the Captain to deal with those threats. 
+__TOC__
+==Powers==
+===A Portion of Liao===
+The sinecure provides 8 doses of [[liao]] each season. This allows the Captain to support the Throne Guard by arranging for [[aura|virtuous auras]], or to help [[Insight|remain alert]] to, or even [[Exorcism|counter]] spiritual threats to the Throne. 
+
+===Boons for the Captain===
+The ultimate responsibility of the Captain of the Throne Guard is to protect the life of [[the Throne]]. In recognition of their dedication, and as a nod to the role Empress Lisabetta played in the establishment of the sodality, they receive two additional boons. 
+
+These boons are only provided while there is a Throne to protect however. If there is no Throne, the boons are lost until a new Throne is appointed by the Imperial Senate.
+
+====Staunch Defender====
+The ''Four Mortars'' are an [[Surgical skills#Apothecary|apothecary]] [[guild]] whose roots allegedly date back to the foundation of the city of [[Holberg]]. They have committed to providing three doses of [[the Sovereign Specific]] to the Captain each season.
+
+====Final Recourse====
+The ''Five Rings'' have also declared a boon - the same [[Dawn|Dawnish]] [[weaver cabal]] who also provide the [[archmage|archmages]] with their [[Archmage#Regalia|regalia]] each year. Partially in recognition of Lisabetta's tenure as [[Dawn_monarchy_update|Queen of Dawn]] they have sworn an oath to provide the captain with a single [[bondring]] each year during the Winter Solstice. The obvious intent is that the ring be used to allow the Captain to provide succour to the Throne, but it might also be entrusted to another member of the Throne Guard. Indeed, the Five Rings have suggested that the Captain might wish to seek out the materials and skills needed to make an [[Magic_items#Artefacts|artefact]] version of the ring which could then be made part of the title's regalia.
+
+===Captain's Enduring Oath===
+The Captain of the Throne Guard bears the ''Captain's Enduring Oath'', an artefact [[Bondring]] forged by '''Vitore Van Temeschwar'''. If the Captain of the Throne Guard loses their position, then the item must be given to the new Captain with all haste. The Captain is encouraged to take all appropriate precautions to keep this item safe and is expected to do everything within their power to recover it if it is lost.
+
+===Stipend===
+The Captain of the Throne Guard receives a stipend of ten thrones each season from the [[Imperial treasury]].
+
+===Residence===
+The Captain of the Throne Guard has excellent apartments at the Vigilant Shield in [[Casinea#Mareholm|Mareholm]]. The manor also has quarters for a dozen other people - twice that number at a push - intended for the use of the Throne Guard. The Captain has final say over who may occupy one of these apartments.
+
+==Appointment==
+The title is appointed each Winter Solstice by [[the Throne]].
+
+The Captain of the Throne Guard can be [[revocation|revoked]] by the [[Assembly#General Assembly|General Assembly]] or the [[Assembly#The Assembly of the Nine|Assembly of the Nine]].
+{{CaptionedImage|file=CaptainThroneGuard.jpg|caption='''Florian von Temeschwar''' (central changeling), Captain of the Throne Guard|align=left|width=400}}
+{{RecentElections|Captain_of_the_Throne_Guard}}
+==The Vigilant Shield==
+On the road north of [[Anvil]], in quiet [[Casinea#Mareholm|Mareholm]], stands a fine manor house. Close enough to the [[Casinea#The_Silent_Sentinel|Silent Sentinel]] to hear its massive warning bell, should it ever ring out to call Imperial citizens to vigilant defence. Unlike the great [[fortification]] however, the Vigilant Shield has been designed with pleasing proportions, bearing a passing resemblance to the [[Queen%27s_Rose#The_Rose_Towers|Rose Towers]] in [[Semmerholm]]. 
+
+In the heart of the main house lies the oak-panelled chapel, adorned with portraits of paragons and exemplars, primarily of [[Vigilance]] and [[Loyalty]]. In pride of place is a lectern upon which rests an illuminated scroll, setting out the names and affiliations of fallen Throne Guard.
+
+The manor house is surrounded by flower gardens, ornamented with statuary commissioned from artists of all nations of the Empire, and threaded through with a pergola walkway reminiscent of cloisters. The plants have been chosen carefully such that the gardens are in bloom for most of the year, yet can withstand the extremes of weather often experienced this close to Anvil. It is a haven in colourful shades of gold, green, white and violet, and often sparkles with silver raindrops.
+
+[[Category:The Throne]][[Category:Title]]

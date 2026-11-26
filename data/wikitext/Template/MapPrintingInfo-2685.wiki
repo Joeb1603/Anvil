@@ -1,0 +1,3 @@
+<small>'''PRINT INFORMATION''' - Each map is set to print at A3 size (the resolution varies between 175ppi and 300ppi). Do not print larger than this or it will pixellate. If you print smaller, the quality will improve slightly. Various sizes are available by clicking on the image. To print, make sure you download the ORIGINAL size image (should be between 2700 and 5000 pixels wide. Feel free to add your own textures etc</small>
+
+''Maps by Daisy Abbott''

@@ -1,0 +1,308 @@
+---
+title: Dawn costumes
+source: https://www.profounddecisions.co.uk/empire-wiki/Dawn_costumes
+class: out-of-character
+topic: costume
+categories:
+- Costume
+- Dawn
+- Nations
+last_edited: '2026-02-05T17:53:25Z'
+revision: 134017
+aliases:
+- Dawn Costumes
+---
+
+# Dawn costumes
+
+This page contains guides written by players that may be of interest in making costume pieces. It is a very early page intended to supplement the [Dawn look and feel](Dawn_look_and_feel.md) page, and may have been superceded. Official costume advice is found on the [Costume](../rules/Costume.md) page.
+
+## Overview
+
+*"Dawn is the land of valour; the classical images of gleaming plate, of brightly coloured banners and traditional heraldic devices provide the imagery for the nation. Where the Marches is gritty and down to earth, Dawn is the opposite in glowing primary colours. There is a sumptuous nature to the materials and tones used, idealistic in design instead of practical. Arthurian, pre-raphaelite and the neo-medievalism movements all provide strong themes and forms to the nation."*
+
+Clothing in Dawn draws inspiration from the clothing of 12th-15th Century England and France, Pre-Raphaelite artists such as Edmund Blair Leighton, Dante Gabriel Rosetti and John William Waterhouse, and fantasies such as Lord of the Rings, Merlin and Game of Thrones. On the battlefield, the Dawnish are a pageant of glittering armour, blazing heraldry and exquisite banners; at peace, they wear elegant and well cut tunics, houpellandes, surcotes or gowns, usually with a long, smooth silhouette, full skirts and either tight sleeves to the wrist, or flowing trumpet or bell sleeves that fall in folds from the elbow.
+
+*[Image: Accolade.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Accolade.jpg)*
+
+## Fabrics
+
+Dawn is a nation where you can really go wild with your fabrics and indulge yourself. For high status characters, rich wools, intensely coloured silks, fine linens and velvets are all a wonderful choice. Don't automatically assume that they're more expensive - like every fabric, there's a range, and if you shop carefully you can pick up some superb bargains. Ebay is always good. Try to stick to natural fabrics or natural/synthetic blends - pure synthetics are uncomfortable and wear badly, with very few exceptions.
+
+You might like to take inspiration from history and consider body linens - a soft white linen shift or shirt against your skin. This is a good idea not only because it's comfortable, but also because it protects your outer garments from sweat and stains. If you'd prefer not to use linen for reasons of expense or weight, a soft cotton muslin works beautifully for this. For outer garments, try fine wools, brocades, velvets and silks; for cloaks, cotton velvet and wool melton are ideal.
+
+## Similar nations
+
+### The Marches
+
+Parts of the Marches were once Dawnish, so it should come as no surprise that there are significant similarities in the costume. Both draw their inspiration from medieval north-western europe, so the bulk of the difference is in the materials used. The Marches tend towards a palette of natural colours in wools and linens, less lavish designs and simpler construction. The Dawnish, by contrast, favour bright, heraldic colours, contrasting trims and fabrics and more flowing garments using more material. Accessories play a big part in making an outfit look Dawnish - a colourful long belt, a jewelled dagger sheath, an ornate leather purse or a crown can all make relatively simple and understated costume look regal.
+
+### Wintermark
+
+Wintermark shares some basic similiarities in terms of garments and cut with Dawn, but it should be even less bright and less lavish than that Marches. Some very high status Steinr might wear something to the Senate that Dawnish yeofolk would wear in the fields - if you have a beautiful, simple tunic in drab colours, try accessorising it with a good belt, fine jewellery or a hood or mantle in a contrasting colour and suddenly it will look a lot more Dawnish.
+
+### The League
+
+Though robes, houppelandes and surcotes should be fairly distinct, gowns, especially the Burgundian, can be similar in Dawn and the League. To keep the looks distinct, keep the lines of Dawnish costume clean and elegant, omitting any pinking or slashing, avoiding sleeve puffs and the very Italianate-looking Borgia-style gowns. As always a hat or headdress will help in keeping the look Dawnish.
+
+## Research
+
+Re-enactment costume from the 12th-15th centuries is ideal, but imaginative use of historical costume with a fantasy flair is even better. Whatever look you go for, from the wide choices presented, make sure it's bright, glorious and fun to wear.
+
+### Movie Costume Research
+
+- [Movie costume guide](http://www.costumersguide.com/ancient.shtml)
+- [Lord of the Rings research](http://www.alleycatscratch.com/lotr)
+
+### Historical Costume Research
+
+There's an enormous wealth of information on the web aimed at re-enactors, larpers and SCA enthusiasts. Google searches on [Medieval re-enactment](http://images.google.com/images?q=medieval+reenactment), [War of the roses](http://images.google.com/images?q=war+of+the+roses+reenactment) and [13th](http://images.google.com/images?q=13th+century+reenactment), [14th](http://images.google.com/images?q=14th+century+reenactment) or [15th](http://images.google.com/images?q=15th+century+reenactment) Century re-enactment will all provide helpful inspiration.
+
+### Reenactment groups
+
+Some links to reenactment groups' costuming guides - a helpful source of inspiration and information.
+
+- [Buckingham’s Retinue](https://www.bucks-retinue.org.uk/)
+- [Company of Saint George Women's Clothing Guide](https://companie-of-st-george.ch/publications/clothing-guide-women/)
+- [Company of Saint George Men's Costume Guide](https://companie-of-st-george.ch/publications/costume-guide/)
+- [The Medieval Siege Society](https://www.medieval-siege-society.co.uk/)
+- [St Hubert's Rangers](https://sites.google.com/view/sthubertsrangers/)
+
+## Men
+
+For male costume, there are a wealth of historical and fantasy looks to form the basics of your costume. The look should be dynamic, dramatic and exude power. As always, try to avoid flimsy fabrics and drab colours if you can as these will take to evoke other nations - Dawnish clothes should demonstrate the wearer's exquisite taste, rank and nobility.
+
+### Bliaut and Surcote
+
+*[Image: Surcote.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Surcote.jpg)*
+
+A bliaut is a 12th century tunic, worn often with a sleeveless overtunic in heraldic or house colours. It's an easy look to achieve, either from off-the-peg reenactment kit or through making your own, and with a hood and cloak can look really splendid.
+
+When worn over armour, a surcote is a great alternative to a tabard - unlike a flimsy cotton tabard a fitted surcote won't ride up, twist round your neck or tangle in your leg armour, and can look a lot more flash and substantial for relatively little extra work.
+
+- [How to - Make a simple tunic](How_to_-_Make_a_simple_tunic.md)
+- [How to - Make a surcote](How_to_-_Make_a_surcote.md)
+- [A good hood article](http://www.virtue.to/articles/hoodlum.html)
+
+### Robes, gowns and cotehardies
+
+*[Image: Dawncotehardie.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Dawncotehardie.jpg)*
+
+*[Image: Willam De Gauvain.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Willam_De_Gauvain.jpg)*
+
+*[Image: Delvy2.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Delvy2.jpg)*
+
+On men, a gown is a reasonably close fitting robe, usually buttoning down the front, with long close fitting sleeves to the wrist. It persists to this day as the cassock and in the clothes of choristers and some very traditional public school uniforms, all of which means both patterns and off-the-peg versions are fairly readily available.
+
+*[Image: Boromir.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Boromir.jpg)*
+
+*[Image: Uther.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Uther.jpg)*
+
+*[Image: Jamie.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Jamie.jpg)*
+
+It's a very adaptable look - a fantasy treatment could take the basic silhouette and standing collar, and shorten the overall length, either with full length or half length sleeves, as worn by Boromir, Uther Pendragon and Jaime Lannister for a "warrior's coat". It looks good worn open over chainmail. A close-fitting variant of this is the cotehardie which usually has lots of closely spaced buttons down the front and the sleeves - try googling "cotehardie". It can be a tough look to pull off, but well worth it!
+
+Patterns:
+
+- [Butterick 6844](https://sewing.patternreview.com/patterns/3227)
+- [Simplicity 4942 (unfortunately out of print but you might get it on ebay)](http://sewing.patternreview.com/patterns/4697)
+- [McCall 4745](https://simplicity.com/mccalls/m4745) This is actually a civil war uniform, but if you make up the blue version with an asymmetric closure it's very close to Jaime Lannister's coat above. Warning - the pattern runs a little large, so unless you're planning on wearing it over mail consider going down a size.
+- [Reconstructing history man's cotehardie](https://reconstructinghistory.com/products/rh022-14th-century-mans-cotehardie)
+
+### The Houppelande
+
+*[Image: Dawnextra28.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Dawnextra28.jpg)*
+
+This is a loose robe-like garment which can be knee or ankle length, with a variety of sleeves and necklines, which can be worn belted or loose. It's different from the style above as the waist isn't fitted - a great choice to show off lots and lots of thick and heavy fabric. It has the major advantage that you can just throw it over anything at all underneath and not worry about your under-kit being revealed. However, it really needs to be in fairly heavy cloth to look right, ideally wool, and can get a bit stuffy in hot weather. Team it with a chaperon hat for a really resplendent look!
+
+- [Houppelande drafting instructions](https://www.caitlinsclothing.com/Docs/1410ADHouppelande.pdf)
+- [Butterick 5626 (you could make a really fun houppelande out of this!)](https://sewing.patternreview.com/patterns/47222)
+
+## Women
+
+There is absolutely nothing to stop women wearing any of the styles above - the Empire doesn't require long skirts to be worn for modesty any more than it requires your hair to be covered. However, there's fun to be had in resplendent gowns - and you can be as historically inspired as you like without needing to choose an "authentic" but unflattering style.
+
+### Fantasy and "historically inspired" gowns
+
+*[Image: DawnBlueDress.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:DawnBlueDress.jpg)*
+
+*[Image: Dawnx13.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Dawnx13.jpg)*
+
+*[Image: Dawn6.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Dawn6.jpg)*
+
+The blue dress is made of two contrasting fabrics - a gold brocade and a blue fabric which you could replicate with a richly coloured fine wool, silk or linen. Use Simplicity Pattern 4940 (<https://sewing.patternreview.com/Patterns/4459>) view C (without the corselet/vest), and cut your centre front piece and lower sleeves out of the brocade to contrast with the blue. The pattern will give you a slightly thicker band of brocade at the neck, which you could easily trim down, and will sit on your shoulders rather than off (which is much more practical for active wearing). I'd suggest replacing the zip down the back with lacing - it's just as easy and lacing never jams or breaks in a field.
+
+For the cream dress and the blue cloak, you could use [Butterick 4377](https://sewing.patternreview.com/Patterns/8609), and sew it in a soft silk velvet or a good synthetic stretch velvet. If you use a decent heavy stretch velvet, you could omit the lacing down the back and just wear it as a pullover dress. For a different look you could use silk, lightweight wool or linen - just choose a lush, rich colour. For the neckline, you could cut a piece of brocade to match the curve of your neckline and carefully sew it on by hand, or you could get some fancy trim or ribbon. For the belt, try looking for a charity shop chain link belt, or make one out of a strip of silk and an old buckle, or use some fancy trim. About 2m would do a great jewelled belt; for the cloak trim, you could try searching for damask trim or brocade trim.
+
+*[Image: Eowyn2.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Eowyn2.jpg)*
+
+Lord of the Rings is a great source of inspiration for women's dresses. Simplicity 4940 is a good place to start, as is [McCall's M4491](https://sewing.patternreview.com/Patterns/3425). [alleycatscratch.com](http://www.alleycatscratch.com/lotr) breaks down every costume in the movie, and is a fantastic resource for choosing the right pattern, fabrics, trim and accessories - even if you don't want to exactly duplicate a LotR costume, it's full of useful information. A word of warning - while many of Arwen's gowns are ideal for Dawn, avoid the more East Asian looking ones as they are probably better suited to Urizen. Eowyn's White Gown, Coronation Gown, Green Gown and Victory Gown are all ideal, but many of the others belong in Wintermark or the Marches.
+
+### Houppelandes and Burgundian gowns
+
+*[Image: Dawnx11.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Dawnx11.jpg)*
+
+*[Image: Houp1.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Houp1.jpg)*
+
+*[Image: Houp2.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Houp2.jpg)*
+
+Houppelandes are great on women, too. It's not the easiest look in the book, but it's very striking. The one in the leftmost picture is velvet lined in fur, which gives it tremendous bulk and body - an alternative would be to line most of it in thick blanket wool, saving your fur or fake fur for the edges.
+
+- [Simplicity 5925](https://sewing.patternreview.com/patterns/2073)
+- [Fantastic resource on 15th Century dresses and headgear, with patterns](http://sevenstarwheel.wordpress.com/burgundian-gown-pattern-pieces/)
+
+The Burgundian gown is a later development of the Houpellande, usually closer-fitting with a deep v neck and a broad belt just under the bust. Stick to the heavy draped versions; later Italianate ones in lighter silk with close fitting sleeves are more suitable for the League.
+
+- [Drafting instructions](http://www.james-gang.org/greydove/docs/houpburg.pdf)
+
+### Cotehardie and Sideless Surcote
+
+*[Image: Earl.JPG](https://www.profounddecisions.co.uk/empire-wiki/File:Earl.JPG)*
+
+*[Image: Simplicitysurcote.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Simplicitysurcote.jpg)*
+
+*[Image: Sideless.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Sideless.jpg)*
+
+The cotehardie is a close fitting supportive gown, also known as the gothic fitted dress, usually buttoning down the front and the sleeves, and worn with a leather or metal belt around the hips. It's simple in construction, though needs a little fitting. One lovely historical example is the [Moy Gown](https://reconstructinghistory.com/products/rh313-medieval-irish-moy-gown), which has a unique construction pattern for the sleeves, and makes a lovely intermediate to advanced project. You can easily fake the look of a cotehardie with a [modern princess seamed dress.](https://sewing.patternreview.com/Patterns/12654) Here's a How To to give you some ideas: [How to - Adapt a pattern for a high status dress](How_to_-_Adapt_a_pattern_for_a_high_status_dress.md)
+
+For formal occasions, a great way to dress up a cotehardie is by putting a sideless surcote over the top, ideally in house colours and bearing your heraldry. Make a full length version of the pattern above, either adding lacing down the sides or cutting a little more away to reveal the gown underneath. Usually the belt goes over the cotehardie, under the surcote.
+
+- [Simplicity 2573](https://sewing.patternreview.com/Patterns/31076)
+
+## Hats, outerwear and accessories
+
+### Hats, crowns and headdresses
+
+*[Image: Costume by Kats Hats](https://www.profounddecisions.co.uk/empire-wiki/File:Dawnx14.jpg)*
+
+Although not a required part of costume, a headdress, crown or hat can be the finishing touch that pushes a costume from good to fantastic. A crown, either metal or a good substitute, can look fabulously regal on a noble or earl. A less formal look which still adds stature and majesty is the Chaperon, which was initially a hood worn sideways on the head and gradually developed into a more structured hat. Hoods are also good, particularly for yeoman characters, with particolouring, dagging and buttons helping to keep the look from sliding towards the Marches.
+
+For historical women's headgear, looks are virtually limitless. Historical inspiration can be drawn from royalty of the 11th century (crown and veil), through the ever changing noble fashion of Templars, padded roll and veil, through to the elaborate steeple hennins of 15th century France, and the English butterfly headdresses of the same time. Even a simple padded roll, ren-fest style, can look good with a lower status costume.
+
+Unsuitable hats - Try to avoid any historical looks from the Tudor period and later, as they can look a bit incongruous with medieval fantasy costume. And remember, headwear is for display and not for modesty, so consider rich, bright colours and sparkling whites, and leave the dull linen coifs to the Marches.
+
+- <http://www.kats-hats.co.uk/index.shtml>
+- <http://medievalmilliner.blogspot.co.uk/>
+- <http://www.virtue.to/articles/reticulated.html>
+
+How to make your own circlets: <http://www.alleycatscratch.com/lotr/makingem/Tips/MakingCirclets.htm>
+
+### Cloaks
+
+A cloak is a near-essential part of your costume, and a great opportunity to give your kit a finishing touch and keep you cosy. For light fabrics, you can make a gathered-neck cloak with a drawstring for ease of construction- with heavy wools and velvet, a semicircular or circular mantle works best to reduce bulk at the neck and drapes beautifully. Try edging or lining your cloak in good fake fur for a really regal look, or adding a pelt around the shoulders (charity shops often won't sell fur coats up front, but store them in their back room and will allow you to make a donation in exchange for taking them away. If they don't have any, leave your details and get them to call you if any are handed in.)
+
+*[Image: Costume by Nereida](https://www.profounddecisions.co.uk/empire-wiki/File:Hood3.jpg)*
+
+### Hoods
+
+*[Image: Marches sh.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Marches_sh.jpg)*
+
+Another very variable garment with dozens of options for length, colour and decoration meaning a hood can be a simple or fancy as you like.
+
+- [Good information and patterns for hoods](http://thehoodedhare.com/making_hoods.htm)
+- [Cowl and hood](http://moirandalls.com/cowl.htm)
+- [Various hood patterns](http://www.virtue.to/articles/hoodlum.html)
+
+### Accessories
+
+A long medieval belt makes a fantastic accessory. These are the cheapest I've found, and they're lovely and come in lots of colours.
+
+<http://www.lionheartreplicas.co.uk/shop/index.php?productID=252>
+
+These ones are rather more expensive, but gorgeous
+<http://www.jelldragon.com/belts.htm>
+
+## Armour
+
+Plate armour is the ideal look for Dawn, but can be expensive. Re-enactment suppliers and ebay are a good place to look.
+
+Plate armour:
+<http://www.whiteroseapparel.com/>
+<http://www.getdressedforbattle.co.uk/>
+
+Chain mail supplies and finished items:
+<http://www.theringlord.com>
+<http://www.armchair-armoury.co.uk/chainmail.htm>
+
+Lightweight polyurethane replicas:
+<http://www.nortonarmouries.com/>
+
+Medieval plate style Leather armour:
+[Totally Leathered](https://www.facebook.com/TotallyLeathered) Totally Leathered provides custom tooled leatherwork & bespoke armour.
+
+Idiom Productions Costume and Props Workshop creates custom hand-tooled leather armour, clothing and LRP weapons
+
+Make your own:
+[Here's a tutorial on how to make moulded leather armour](http://tutorials.abbott.me.uk/home/hardened-leather-armour)
+[And here's one on how to make plate out of wonderflex](http://tutorials.abbott.me.uk/home/wonderflex-armour)
+
+## Weapons
+
+The classic Dawnish weapons of long sword and heater shield are fortunately widely available from LRP weapons makers. For swords, a classic cruciform shape is ideal, and detailing on the hilt can look as superb as the clean lines of unadorned quillions. If you're not fortunate enough to be commissioning a custom shield painted with your heraldry, consider making a cloth cover for your shield and appliquéing or painting your heraldic device onto it.
+
+<http://www.skianmhor.co.uk>
+<http://www.saxonviolence.com/index.php>
+<http://www.tallowsfx.com/>
+
+## Heraldry
+
+*[Image: TV Series: Merlin](https://www.profounddecisions.co.uk/empire-wiki/File:DawnArthurKnights.jpg)*
+
+Heraldry is a huge part of Dawnish identity, and any member of a noble house or weaver cabal should define their group and personal heraldry, and consider working it into their costume. Even if a house isn't dressed identically, there's no doubt that using their heraldic colours in part of each member's kit makes a strong unified statement on and off the battlefield, and looks damn amazing too.
+
+Here's [a project](http://empire.crew.profounddecisions.co.uk/empire-wiki/Civil_Service_Look_and_Feel) showing you how to work a heraldic device into your costume:
+See also [how to make a surcote](http://empire.crew.profounddecisions.co.uk/empire-wiki/How_To_-_Make_a_Surcote).
+
+- [Medieval Art and Woodcraft](http://www.medievalartandwoodcraft.com) Historical and historically inspired banners, flags and livery badges.
+
+## Bibliography
+
+- [The Medieval Tailor’s Assistant, Sarah Thursfield](http://www.amazon.co.uk/The-Medieval-Tailors-Assistant-1200-1500/dp/0896762394/ref=sr_1_2?ie=UTF8&qid=1341860986&sr=8-2) – Pretty much the bible for medieval costumes. Covers the layers from underwear to outerwear for the periods 1200-1500, plus headwear and accessories. Goes into detail about how to make the garments, which fabrics to use etc. A really excellent book.
+- [Medieval military costume, Gary Embleton](http://www.amazon.co.uk/Medieval-Military-Costume-Europa-Militaria/dp/1861263716/ref=sr_1_8?s=books&ie=UTF8&qid=1341861038&sr=1-8) – Very useful book using colour photographs of live models. Goes into detail about everything from 13th Century foot soldiers to 15th Century knights, with sections on underwear, armour, women’s dress and Landsknechts.
+- [Make Your Own Medieval Clothing for men](http://www.amazon.co.uk/gp/product/3938922141/ref=olp_product_details?ie=UTF8&me&seller), and for [women](http://www.amazon.co.uk/Make-Your-Own-Medieval-Clothing/dp/393892215X/ref=pd_sim_sbs_b_1), by W. Zerkowski and R. Fuhrmann, plus Headwear and Shoes available on the [German website](http://www.zauberfeder-shop.de/assets/s2dmain.html?http://www.zauberfeder-shop.de/). Great books, giving designs for lots of different garments, though few instructions on how to make them. This would be more suitable for an experienced costume maker.
+- [Patterns for Theatrical Costumes by Katherine Strand Holkeboer](http://www.amazon.co.uk/Patterns-Theatrical-Costumes-Garments-Accessories/dp/0896761258/ref=sr_1_12?s=books&ie=UTF8&qid=1344030431&sr=1-12) Gives scalable patterns.
+- [Medieval Costume in England and France](http://www.amazon.co.uk/Medieval-Costume-England-France-Centuries/dp/0486290603/ref=sr_1_1?s=books&ie=UTF8&qid=1344030509&sr=1-1) - no patterns, but great for ideas on silhouette and style. Mostly black and white.
+- [The Evolution of Fashion](http://www.amazon.co.uk/Evolution-Fashion-Pattern-1066-1930/dp/0713458186/ref=sr_1_1?s=books&ie=UTF8&qid=1344030581&sr=1-1) Sadly out of print. A great introduction to how dress changes through the middle ages and up to the present day.
+
+## Costume sellers
+
+- [The Midgard Seamstress](https://www.facebook.com/themidgardseamstress) Custom made UK LARP and Re-enactment costumes
+- [Angrave Designs](http://www.facebook.com/pages/Angrave-Designs/368641524223) Custom costume production and embroidery
+- [Arm Street](http://armstreet.com/) Medieval and Fantasy clothing from Russia (English language website)
+- [Cloak’d and Dagger’d](http://www.cloakedanddaggered.com)
+- [Custom Costume Company](https://www.facebook.com/groups/customcostumecompany/) Bespoke designs for re-enactors and roleplayers
+- [Historic Enterprises](http://historicenterprises.com)American based costume company. Trades at TORM
+- [Kats Hats](http://www.kats-hats.co.uk/index.shtml)Stunning medieval hats as well as beautiful pouches and gloves
+- [Matuls](http://www.matuls.pl/index.php?IDP=1&Lng=en) Clothing, armour tents and camp accessories from Poland (English language website)
+- [Revival Clothing](http://www.revivalclothing.com/)
+- [Sally Green](http://www.sallygreen.co.uk)
+- [Sew-mill](http://www.sew-mill.com)
+
+## Further Reading
+
+Core Brief
+
+- [Introduction](../../in-character/nations/dawn/Dawn.md)
+- [The people](../../in-character/nations/dawn/Dawn_people.md)
+- [Culture and customs](../../in-character/nations/dawn/Dawn_culture_and_customs.md)
+- [Look and feel](Dawn_look_and_feel.md)
+- [Hearth magic](../../mixed/magic/lore/Dawn_hearth_magic.md)
+
+Additional Information
+
+- [History](../../in-character/nations/dawn/Dawn_history.md)
+- [Leadership](../../in-character/nations/dawn/Dawn_leadership.md)
+- [Economic interests](../../in-character/nations/dawn/Dawn_economic_interests.md)
+- [Military concerns](../../in-character/nations/dawn/Dawn_military_concerns.md)
+- [Religious beliefs](../../in-character/nations/dawn/Dawn_religious_beliefs.md)
+- [Magical traditions](../../mixed/magic/lore/Dawn_magical_traditions.md)
+- [Territories](../../in-character/nations/dawn/Dawn_territories.md)
+- [Children](../events/Dawn_children.md)
+- [Music](../../mixed/music/Dawn_music.md)
+- [Archetypes](../../indexes/by-category/Archetype.md#dawn)
+- [Groups](../groups/Dawn_groups.md)
+- [Egregore](../../in-character/nations/dawn/Dawn_egregore.md)
+
+---
+
+Categories: [Costume](../../indexes/by-category/Costume.md), [Dawn](../../indexes/by-category/Dawn.md), [Nations](../../indexes/by-category/Nations.md)

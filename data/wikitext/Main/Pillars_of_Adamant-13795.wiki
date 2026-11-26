@@ -1,0 +1,53 @@
+==Rules==
+{{CaptionedImage|file=NBUrizen.jpg|caption=This ritual is part of [[Urizen magical traditions#Urizen Lore|Urizen lore]] rather than [[Imperial lore]].|align=right|width=200}}
+{{Season|Summer|50}}
+{{Urizen Lore}}
+===Performing the Ritual===
+{{Casting time|10}} {{Imperial Reduction}}
+
+{{Regio|Summer}} {{Target Territory}}
+
+{{enchantment}}
+
+===Effects===
+Damage dealt to bastions in the territory this season will be reduced by a fifth. This effect will not stack with Rivers of Life or similar effects - the target would gain whichever effect provided the most benefit.
+
+Buildings constructed with mithril or white granite, including sinecures, great works, and similar, are less likely to be damaged by territory-level curses and become harder to destroy. Opponents could still destroy a building with a concerted effort to target it, but they won't be destroyed by a general rampage.
+__TOC__
+{{Territory Effects}}
+
+{{Season Duration}}
+
+===Option===
+{{Ritual Substitution|orichalcum|ingots}}
+
+==Description==
+This ritual became part of [[Urizen lore]] following the Spring Equinox 388YE. It was submitted via the [[Gift of Knowledge]] by '''Xenia''' of Urizen. The ritual was codified by the spires of Urizen under the guidance of '''Ioseph''', the [[Doyen of the Spires]]. It was based on an original piece by Ioseph, a well-respected magician and former [[Minister of Historical Research]]. The magicians of Urizen were assisted in their work by enthusiastic ''koboldi'' from the realm of the [[Adamant|King under the Mountain]] who had encountered the original enchantment in Redoubt and prevailed upon their liege for permission to offer their aid.
+
+This ritual invokes the Summer resonance of adamant. Pure adamant, which can only exist in the Summer realm, is utterly indestructible. It does not age and cannot be marred by any means. Even dragonfire does not diminish true adamant. Only a shadow of this miraculous mineral can exist in the mortal world, and it is invariably created through the auspices of one of the Kings and Queens of Summer. The eternal who shares a common name with the stone - the King Under the Mountain also known as Adamant - is the most eager proponent of its use. Several Imperial fortifications, including the Gate in [[Semmerholm]], are infused with the strength of this miraculous material.
+
+The ritual bears some similarities to [[Stalwart Stand on Solid Ground]], which ensures the bastion of a fortification will not fall unless the structure itself is utterly reduced to rubble - a time-intensive and difficult endeavour with even the smallest fortification. Unlike Stalwart Stand, the Pillars of Adamant enchantment infuses every structure predominantly built with white granite or mithril in a single territory. It will protect sinecures, great works, ministries, and edifices as well as bastions.
+
+Such structures can still be destroyed or damaged, but it requires a significant focus on behalf of attacking armies to do so. Even then, such assaults are likely to take longer and require substantially more effort than tossing a lit torch in through a door. There is speculation that attempting to overcome the protection created with this ritual is exactly the kind of thing that would attract the "attention" of the Sentinel Gate. 
+
+A humorous aside suggested that the magic ''ought'' to protect Imperial armies given they are "made" of mithril. Obviously, the enchantment does not grant additional strength to armies, but the comment was quite droll.
+
+===Aid of the Koboldi===
+The ''koboldi'' of the Stone Dragon offered material aid to the Urizen magicians in codifying this ritual. Normally resident at the Crucible of Fate, the tiny heralds encountered the ritual when it was cast on Redoubt in Winter 386YE. A contingent of the creatures made a pilgrimage south to the storm-tossed coastal territory to observe the enchantment in action and reportedly were very excited by its effects. Their aid was accepted, and they provided multiple boons - replacing the need to create a new arcane projection, for example. Their expertise greatly sped the process of codifying the enchantment, reducing what would normally have taken nine months to a mere two seasons.
+
+More significantly, while working with some of the scholars of Summer magic in Zenith, their intimate knowledge of stone in particular suggested a way to refine the enchantment even further. Working with their foundational understanding, the Urizen were able to shave the magnitude of the ritual down to fifty, from an original sixty. The ritual now incorporates glimmers of magic inspired by the King Under the Mountain - but it does not directly draw on that eternal's power and remains a work of pure mortal magic. 
+
+The ''koboldi'' were even more excited by this development. If it is easier for mortal magicians to cast, they will perform it more often, and more lovely stone and metal structures will survive invasions unscathed!
+
+On a side note, the metallic spiders that serve in the heliopticon towers on behalf of the Sovereign Lord of the City of Bridges, by all accounts, did not appreciate the influx of Summer heralds. Not due to any particular enmity but simply because they found their endless enthusiasm to be remarkably tiring.
+
+==Common Elements==
+As with many enchantments that deal with fortifications or enchant an entire territory, this works well with a map or a representation of the buildings in the lands it will protect. Shields and armour resonate well with the performance, as do other defensive items or magic that repairs broken things.
+
+[[The Captain]] and [[the Bishop]] in dramaturgy both work well in performances of Pillars of Adamant, as does the runes of [[Verys|Strength]] and of [[Tykonus|Victory]]. [[The Mountain]] and [[the Oak]] both resonate with the ritual, representing difficulty for invaders and endurance or resistance for the structures protected by the enchantment.
+
+King Adamant is clearly resonant with the ritual, but the [[Cathan Canae|Queen of Ice and Darkness]] might be called on by [[Aspect_magic#Goetia|goetic]] magicians who wish to avoid the Stone Dragon for some reason.
+
+[[Category:Summer Ritual]]
+[[Category:Rituals]]
+[[Category:Warfare]]

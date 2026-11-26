@@ -1,0 +1,167 @@
+---
+title: Imperial:TitleBar
+source: https://www.profounddecisions.co.uk/empire-wiki/Imperial:TitleBar
+class: out-of-character
+topic: site
+categories: []
+last_edited: '2026-05-23T22:17:03Z'
+revision: 139127
+---
+
+# Imperial:TitleBar
+
+- The Game
+  - [What is Live Roleplaying?](../game-design/Live_roleplaying.md)
+  - --
+  - = About Empire =
+  - [The Game](../game-design/The_game.md)
+  - [The Setting](../game-design/The_setting.md)
+  - [Costume](../rules/Costume.md)
+  - [Children](../events/Children.md)
+  - [Glossary](../rules/Glossary.md)
+  - --
+  - = Events =
+  - [Event List](../events/Events.md)
+  - [Event Site](../events/Steeplechase_LRP_Centre.md)
+  - [Standard Event Details](../events/Event_information.md)
+  - [Sanctioned Events](../rules/Sanctioned_events.md)
+  - [Accessibility](../rules/Accessibility.md)
+  - --
+  - = Contact Details =
+  - [Contact Us](Contact_Profound_Decisions.md)
+  - [Feedback](Feedback.md)
+  - [Online](../rules/Online.md)
+  - [Forums & Facebook](Forums_-_Facebook.md)
+  - --
+  - = Crew =
+  - [Crewing](../crew/Crewing.md)
+- Nations
+  - [Overview](../../in-character/nations/general/Nation_overview.md)
+  - --
+  - [The Brass Coast](../../in-character/nations/the-brass-coast/The_Brass_Coast.md)
+  - [Dawn](../../in-character/nations/dawn/Dawn.md)
+  - [Highguard](../../in-character/nations/highguard/Highguard.md)
+  - [Imperial Orcs](../../in-character/nations/imperial-orcs/Imperial_Orcs.md)
+  - [The League](../../in-character/nations/the-league/The_League.md)
+  - [The Marches](../../in-character/nations/the-marches/The_Marches.md)
+  - [Navarr](../../in-character/nations/navarr/Navarr.md)
+  - [Urizen](../../in-character/nations/urizen/Urizen.md)
+  - [Varushka](../../in-character/nations/varushka/Varushka.md)
+  - [Wintermark](../../in-character/nations/wintermark/Wintermark.md)
+  - --
+  - [Nationality](../../in-character/nations/general/Nationality.md)
+  - [Music](../../mixed/music/Music.md)
+  - --
+  - [FAQ](../rules/Nation_FAQ.md)
+- The Empire
+  - [Overview](../../in-character/world/Empire_overview.md)
+  - --
+  - = Imperial Structures =
+  - [The Senate](../../mixed/government/senate/Senate.md)
+  - [The Synod](../../mixed/government/synod/Synod.md)
+  - [The Military Council](../../mixed/government/military/Military_Council.md)
+  - [The Conclave](../../mixed/government/conclave/Conclave.md)
+  - [The Bourse](../../mixed/economy/Bourse.md)
+  - --
+  - [The Throne](../../mixed/titles/The_Throne.md)
+  - --
+  - [The Academy](../events/The_Academy.md)
+  - [Imperial Sodalities](../../mixed/government/conclave/Imperial_sodality.md)
+  - --
+  - [Imperial Law](../../mixed/government/senate/Imperial_law.md)
+  - [Imperial History](../../in-character/world/Imperial_history.md)
+  - [Imperial Elections](../../in-character/elections/Imperial_elections.md)
+  - [Recent History](../../in-character/history/Recent_history.md)
+  - --
+  - [The Sentinel Gate](../../in-character/world/Sentinel_Gate.md)
+- The People
+  - = Species =
+  - [Orc](../../mixed/world/Orc.md)
+  - --
+  - =Lineage=
+  - [Overview](../../mixed/magic/lore/Lineage.md)
+  - [Briar](../../mixed/magic/lore/Briar.md)
+  - [Cambion](../../mixed/magic/lore/Cambion.md)
+  - [Changeling](../../mixed/magic/lore/Changeling.md)
+  - [Draughir](../../mixed/magic/lore/Draughir.md)
+  - [Merrow](../../mixed/magic/lore/Merrow.md)
+  - [Naga](../../mixed/magic/lore/Naga.md)
+  - --
+  - [FAQ](../rules/Lineage_and_species_FAQ.md)
+- Magic
+  - = Rules =
+  - [Magical Skills](../rules/Magical_skills.md)
+  - [Spellcasting](../rules/Spellcasting.md)
+  - [Rituals](../rules/Rituals.md)
+  - [Magic Items](../rules/Magic_items.md)
+  - [Herbs & Potions](../rules/Potion.md)
+  - --
+  - = Imperial Magic =
+  - [Ritual Theory](../rules/Ritual_theory.md)
+  - [Magical Traditions](../../mixed/magic/lore/Magical_tradition.md)
+  - [Hearth Magic](../rules/Hearth_magic.md)
+- Religion
+  - [Overview](../../in-character/world/The_Way.md)
+  - --
+  - = Rules =
+  - [Religious Skills](../rules/Religious_skills.md)
+  - [Aura](../../mixed/magic/lore/Aura.md)
+  - [Liao](../../mixed/religion/Liao.md)
+  - --
+  - = The Seven Virtues =
+  - [Ambition](../../in-character/religion/Ambition.md)
+  - [Courage](../../in-character/religion/Courage.md)
+  - [Loyalty](../../in-character/religion/Loyalty.md)
+  - [Pride](../../in-character/religion/Pride.md)
+  - [Prosperity](../../in-character/religion/Prosperity.md)
+  - [Vigilance](../../in-character/religion/Vigilance.md)
+  - [Wisdom](../../in-character/religion/Wisdom.md)
+  - --
+  - [Imperial Theology](../../in-character/religion/Imperial_theology.md)
+- The World
+  - [Maps](../../in-character/world/Maps.md)
+  - [Gazetteer](../../in-character/world/Gazetteer.md)
+  - --
+  - = Cosmology =
+  - [Eternals](../../in-character/eternals/Eternal.md)
+  - [Realms](../../in-character/eternals/Realm.md)
+  - [Regio](../../mixed/magic/rituals/Regio.md)
+  - --
+  - [Barbarians](../../in-character/barbarians/Barbarian.md)
+  - [Foreign Nations](../../in-character/foreign-nations/Foreign_nations.md)
+  - --
+  - [Languages](../../in-character/world/Languages.md)
+  - [Technology](../game-design/Technology.md)
+  - --
+  - [Setting FAQ](../rules/Setting_FAQ.md)
+- Rules
+  - = General Rules =
+  - [Characters](../rules/Characters.md)
+  - [Playing the Game](../rules/Playing_the_game.md)
+  - [Referees & GOD](../rules/Referee.md)
+  - [Safety](../rules/Safety_overview.md)
+  - [Conduct](../rules/Conduct.md)
+  - [Downtime](../rules/Downtime.md)
+  - --
+  - = Core Rules =
+  - [Combat](../rules/Combat.md)
+  - [Calls](../rules/Calls.md)
+  - [Weapons & Armour](../rules/Weapons_-_armour.md)
+  - [Magic](../rules/Magic.md)
+  - [Game Items](../rules/Game_items.md)
+  - [Stealing](../rules/Stealing.md)
+  - [Roleplaying Effects](../rules/Roleplaying_effects.md)
+  - --
+  - = Character Creation =
+  - [Backgrounds](../rules/Background.md)
+  - [Skills](../rules/Skills.md)
+  - [Bands](../rules/Bands.md)
+  - [Resource](../rules/Resource.md)
+  - --
+  - = Battles & Monstering =
+  - [Battles](../events/Battles.md)
+  - [Monstering](../events/Monstering.md)
+  - [Playing a Barbarian](../events/Playing_a_barbarian.md)
+  - --
+  - [Rules Update](../rules/Rules_update_2026.md)
+  - [FAQ](../rules/General_FAQ.md)

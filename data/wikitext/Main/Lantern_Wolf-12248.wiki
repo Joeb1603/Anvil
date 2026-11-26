@@ -1,0 +1,38 @@
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly League.png|caption=This title is appointed by the League Assembly|width=250px}}</div>
+The Lantern Wolf is an [[Imperial title]] awarded to a citizen of [[the League]]. The [[Construct Office of the Lantern Wolf|announcement]] to construct the Office of the Lantern Wolf was made by '''Gustavus Tolski van Temeschwar''', as the [[Chair of the Wolf]], in Winter 385YE. The Lantern Wolf has a number of responsibilities associated with investigating potential criminals in the League. The title was created as a result of an opportunity presented in the '''[[Battle_cries#A_Lantern_for_Wolves|Battle cries]]''' wind of fortune.
+
+==Responsibilities==
+__NOTOC__
+The Lantern Wolf is responsible for ensuring that criminals and rules-breakers in the League are identified and brought to book, to do this they are expected to work with the magistrates to bring criminals operating in or threatening the League cities to justice. They are expected to cooperate with the League Assembly to help them use the power of [[inquisition]] against those suspected of breaking the rules and to recruit trustworthy allies that would help them secretly keep tabs on potential lawbreakers. Ultimately, the Lantern Wolf is expected to poke their nose into everyone's business.
+
+==Powers==
+===Wages of the Wolf===
+The Lantern Wolf receives 20 crowns each season. There is some expectation that the Lantern Wolf could use the money for a host of things: placing bounties on those who have committed crimes against the League, rewarding citizens who come forward with valuable information, or offering remuneration to those members of the Synod who support them in use of inquisition. In the end, it is up to the title holder how the money should be used.
+
+===Sceptre of Dusk===
+The Lantern Wolf receives a ''Spirit's Sceptre'' each year at the Spring Equinox from the Guild of Dusk Walkers; a Tassatan guild that will continue providing a [[:category:wands|wand]] for as long as the Lantern Wolf has a responsibility to cooperate with the League Assembly.
+
+===Traders of Intriguing Goods===
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightBlue;">'''Potions'''</td>></tr>
+<tr><td>4 Crowns</td><td>1 dose each of [[Magpie Infusion]] and [[Ravenwing Infusion]]</td></tr>
+<tr><td>9 Crowns</td><td>2 doses each of [[Magpie Infusion]] and [[Ravenwing Infusion]]</td></tr>
+<tr><td>15 Crowns</td><td>3 doses each of [[Magpie Infusion]] and [[Ravenwing Infusion]]</td></tr>
+</table>
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightBlue;">'''Drugs'''</td></tr>
+<tr><td>4 Crowns</td><td>3 doses of random drugs</td></tr>
+<tr><td>9 Crowns</td><td>6 doses of random drugs</td></tr>
+<tr><td>15 Crowns</td><td>9 doses of random drugs</td></tr>
+</table></div>
+The Lantern Wolf also has access to a ministry, which allows the holder to purchase drugs and specific potions at a set price. The office is supported by several guilds and groups willing to sell items to the Lantern Wolf; a selection of [[potion|potions]] that allow the imbiber to investigate and doses of drugs that the Lantern Wolf might use to recruit allies to their cause.
+
+The Lantern Wolf makes their decision on how much money to spend during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+==Appointment==
+The Lantern Wolf is a national position which is [[Appointment|appointed]] by [[judgement]] of the [[Assembly#The_National_Assemblies|League Assembly]]. 
+
+The Lantern Wolf is appointed during the Winter Solstice each year. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the League Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=LanternWolf.jpg|caption='''CHARACTER''', Lantern Wolf|align=left|width=300}}-->
+{{RecentElections|Lantern_Wolf}}
+[[Category:Title]][[Category:The League]][[Category:Synod]]

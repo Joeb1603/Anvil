@@ -1,0 +1,29 @@
+{{CaptionedImage|file=Dantanian.jpg|caption='''Dantanian''', Mediator of Fisk|align=left|width=250}}
+==Overview==
+The Mediator of Fisk oversees the Market Hall at [[Kallavesa#Wittal_Grove|Fisk]] in Kallavesa. The Trading Hall specifically deals with the Salagiin family of Faraden, selling them salted fish, and finished goods marked with [[runes]] made by Wintermark [[Crafting skills#Artisan|artisans]] in return for rings of precious [[ilium]]. It was commissioned by the Imperial Senate during the [[Dredge_the_Westmere|Autumn Equinox 385YE]] and completed shortly before the Spring Equinox 386YE. More information can be found in the '''[[Butterfly_in_reverse#Dredging_the_Westmere|Butterfly in reverse]]''' wind of fortune.
+__NOTOC__
+==Responsibilities==
+The Mediator of Fisk is responsible for maintaining good relations with the Salagiin family of [[Faraden]]. In the event that the Market Hall at Fisk, or those visiting the hall, were threatened, the Mediator would be expected to deal with those threats.
+<div {{float}}>
+<table style="width:400px; float: right; margin-left:10px;" class="mw-collapsible"><tr><td  colspan="2" style="background-color: LightYellow;">'''Salagiin Ilium'''</td></tr>
+<tr><td>35 crowns<br>20 beggar's lye</td><td>2 rings of ilium</td></tr>
+<tr><td>70 crowns<br>45 beggar's lye</td><td>4 rings of ilium</td></tr>
+<tr><td>110 crowns<br>75 beggar's lye</td><td>6 rings of ilium</td></tr>
+<tr><td>155 crowns<br>110 beggar's lye</td><td>8 rings of ilium</td></tr>
+<tr><td>205 crowns<br>150 beggar's lye</td><td>10 rings of ilium</td></tr></table>
+</div>
+==Powers==
+===Ministry===
+As a [[ministry]], the Mediator can purchase rings of ilium at a set price. The Mediator spends their money and measures of beggar's lye making their choice during downtime from their character page. Money and resources are removed from, and ilium are placed into, the character's inventory when the downtime is processed.
+
+The current trade agreement with the Salagiin merchant family will last until the start of the Winter Solstice 390YE.
+
+==Appointment==
+This title is appointed during the Spring Equinox. The Mediator of Fisk is appointed by citizens of Wintermark who control [[military unit|military units]]. The larger the military unit an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a Wintermark citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+
+{{RecentElections|Mediator_of_Fisk}}
+{{Responsibilities Expectation}}
+[[Category:Title]][[Category:Bourse]][[Category:Wintermark]]
+{{Faraden Links}}

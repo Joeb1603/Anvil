@@ -1,0 +1,58 @@
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Wisdom.png|caption=This title is appointed by the [[Assembly#The_Virtue_Assemblies|Assembly of Wisdom]]|width=250px}}</div>
+The Singer of the Silence is an [[Imperial title]] [[387YE_Spring_Equinox_Senate_sessions#Create_Singer_of_the_Silence|created]] by the Imperial Senate in Spring 387YE following a mandate enacted by '''Nathair Autumngale''', [[Little faith|to consecrate the site with true liao]]. The aim of the consecration was to empower a magician to connect with the mystical history of the [[Great Library of Hacynian]] in the hope that they might be able to draw on the power of the curious Day and Night regio that exists there.
+
+During the Summer Solstice 387YE, the Singer was made responsible for the [[Great Library of Hacynian]] in [[Hercynia]] following changes to the way the [[Advisor on the Vallorn]] was appointed.
+__NOTOC__
+==Responsibilities==
+The Singer of the Silence has a responsibility to maintain the curious regio at the heart of the Great Library at Hacynian. They are also the custodian of the [[Great Library of Hacynian]]; if the commission were to be threatened in any way, it would be the responsibility of the Singer to deal with those threats. Likewise, if any [[opportunity]] relating to the library presented itself, they would make any decisions needed to take advantage of that.
+<div style="float:right; width: 350px; clear: right;"><box>'''The Regio'''<br>The Singer of the Silence possesses several unique powers. The common belief is that they arise from a combination of the true consecration, the magical [[Laws_of_magic#The_Law_of_Dominion|Law of Dominion]], and the nature of the curious regio at the heart of the Great Library of Hacynian. While the title holder has dominion over the library - while they are recognised as the sole person responsible for it - they can use these powers. In each case, the powers are lost if the Singer loses their title; and gained by their successor shortly after their title is confirmed.</box></div>
+<div style="float:left; width: 250px;">{{CaptionedImage|file=Sian Eternal.jpg|align=right|caption='''Siân Eternal''', former [[Advisor on the Vallorn]], was appointed ''Singer of the Silence'' at the Spring Equinox 387YE and helped negotiate the patronage of Sung and Phaleron.|width=250}}</div>
+==Powers==
+The curious [[regio]] at Hacynian cycles between the [[Realms|realms]] of [[Realms#Night|Night]] and [[Realms#Day|Day]] as the sun rises and falls. The actual magical realms themselves are not tied to the diurnal cycle of day and night - the realms represent metaphysical ideas. The Day realm is not literally the day any more than the Spring realm is the season of Spring. The only reason this regio changes in this way is because someone chose to make it do so, presumably as part of a pact forged long ago.
+
+The close connection between the strange regio and the Singer of the Silence grants them a number of strange powers - some of which they can use during the day and some they can use at night. Times for dusk at each event are listed on both the Winds of Fortune page - in the "Other Events" section - for that event and its own page. The Singer of the Silence can use any of their "Day" powers from time-in each day before the start of dusk. They can use any of their "Night" powers from the end of dusk until time-out each day.
+
+Any power that relies on this cycle cannot be used at all in the hour between the start of dusk and the end of dusk (the period when the [[Whispers through the Black Gate]] can be cast).
+===Custodian of the Great Library===
+The Singer has [[New_Imperial_titles#Custodian|custodianship]] of the [[Great Library of Hacynian]] in [[Hercynia]]. They are not automatically assumed to be involved in the day-to-day operation of the library but are assumed to direct those efforts. The custodian cannot take any action that would require a legal power to authorise, such as [[Powers_of_the_Imperial_Senate#Abrogation|abrogating]] or [[Powers_of_the_Imperial_Senate#Concedence|ceding]] the commission (which are powers of the [[Senate]]).
+
+===Ink and Fire===
+* '''The Singer receives two pieces of crystal fire and two doses of prismatic ink from the regio each season'''
+Careful cultivation of the regio at the heart of the Grand Library has provided a small but steady supply of precious vis, yielding two pieces of crystal fire and two doses of prismatic ink each season.
+<div style="float:right; width: 250px;">{{CaptionedImage|file=SungArt.jpg|align=right|width=275}}
+{{CaptionedImage|file=LibraryArt.jpg|align=right|width=275}}</div>
+===Eternal Quietus===
+* '''Three times per day, the Singer can draw on the power of the regio to use materials to perform rituals they have mastered'''
+* '''Before dusk, the Singer can use weltsilver in place of crystal mana when casting Day rituals they have mastered'''
+* '''After dusk, the Singer can use iridescent gloaming in place of crystal mana when casting Night rituals they have mastered'''
+* '''Every ingot and measure spent counts as one crystal mana'''
+There is an old wooden table near the heart of the Great Library of Hacynian, in the part of the building that used to be the ruins of the old Terunael library. The table is marked with the remains of the [[blood magic]] performed by visiting [[vate|vates]]. In the centre of the table is the Bowl of Phaleron, an ancient covenstone that was once highly polished but has long since tarnished. The stone, a [[Radiant Orb]] has long since lost its magic centuries ago, but the eyes of the eternal are still upon it. 
+
+When the sun falls, the room grows dark but the dull tarnish on the silver bowl turns chromatic, giving off hypnotic coloured light that glides slowly round the room. The effect is subtle and easily missed when the room is lit with lightstones or even candles. Only when the room is dark can you sense that the bowl is claimed by the ''Rainbow Serpent''.
+
+Three times per day (in total), the Singer of the Silence can draw on the power of the Bowl to help them perform magic. They can do this even when they are far away at Anvil. Before dusk, when the regio at Hacynian is tuned to the Day realm the Singer can use [[weltsilver]] in place of crystal mana when performing a Day ritual they have mastered. After dusk, when the regio is turned to the Night realm, they can use [[iridescent gloaming]] in place of crystal mana when performing a Night ritual they have mastered. They can use this ability three times a day in total (not three times before and after dusk); each measure or ingot used counts as one crystal mana. The Singer remains limited to the amount of mana they can contribute to the performance of a ritual by their ranks of realm lore, as always.
+
+===Lantern Wings===
+* '''Any character who performs an insight on the Singer is unable to read their aura'''
+* '''Three times per day the Singer can cause their aura to affect a character who performs a thorough insight on them'''
+* '''Before dusk, the Singer can allow the priest to regain all expended personal mana'''
+* '''After dusk the Singer can grant the priest a vision'''
+
+If a character performs an insight on the Singer they sense the species of the titleholder, but nothing more. They cannot read their aura, which is obscured (a little like they were bonded to a [[Shackle of the Unvirtuous]] but with some obvious differences, such as the fact that it does not prevent the Singer from dreaming or performing liao ceremonies). Before dusk, the Singer's aura shines so brightly it is impossible to make anything out. After dusk, they may be dimly aware of a pair of iridescent wings enfolding the Singer and obscuring their aura being a kaleidoscope of scintillating rays. During the hour of dusk, they may encounter either or both phenomena simultaneously.
+
+Three times per day, the Singer may draw on the power of the Hacynian regio to strengthen their aura. The effects vary depending on whether the regio at Hacynian is tuned to Day or Night. They can use this ability three times a day in total (not three times before and after dusk).
+When the Singer uses this power '''before dusk''', any priest who performs a [[Insight#Performing_a_Thorough_Insight|thorough insight]] on them can regain any personal mana they have expended. The priest performing the insight feels the Singer's aura expand to bathe them in a warm light that refreshes and invigorates.
+
+When the Singer uses this power '''after dusk''', any priest who performs a thorough insight on them gains a vision. These visions are the same as those received from the [[Signs and Portents]] ritual or the [[Infusions_of_Feathers#Goosewhisper_Infusion|Goosewhisper Infusion]]. The priest performing the insight sees the Singer's aura twist and distort, filling their perception until it resolves into a dream-like vision.
+
+The Singer's aura can never be read at any time, but they can only empower their aura to benefit the one viewing it in this way before dusk begins or after dusk ends.
+<div style="float: left; max-width: 300px; margin-right: 10px;">{{HoverImage|Nathair Autumngale.jpg|Nathair Autumngale Shiny edition.jpg}}</div>
+
+==Appointment==
+This title is appointed during the Spring Equinox. The Singer of the Silence is a Virtue position appointed by the Synod. It is elected by [[judgement]] of the Wisdom [[Assembly#The_Virtue_Assemblies|Assembly]]. 
+
+The title can be held by any Imperial citizen. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Wisdom Assembly, and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Singer_of_the_Silence}}
+[[Category: Title]]
+[[Category: Wisdom]]

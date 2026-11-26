@@ -1,0 +1,40 @@
+{{Synod Judgement Summary|Virtue Assembly|Greater Majority}}
+==Overview==
+{{CaptionedImage|file=Richard Conscience.jpg|align=left|width=250|caption=Richard (she/her), oversaw the creation of exaltation}}
+Figures of pivotal inspiration from across history - [[paragons and exemplars]] - are [[Recognition|recognised]] by the [[Synod]]. The Synod might, however, find cause to ''raise up an individual whose actions should be praised and serve as a pattern of virtue of others'' without recognising them as an exemplar or paragon.
+
+The Judgement of Exaltation was [[386YE_Winter_Solstice_Senate_sessions#Create_Judgement_of_Exaltation|created]] by the Imperial Senate with a motion proposed by '''Richard''', as [[Conscience of the Senate]], in Winter 386YE (and subsequently [[387YE_Spring_Equinox_Senate_sessions#Create_Judgement_of_Exaltation|amended via administrative motion]] in Spring 387YE). Only the [[Assembly#The_Virtue_Assemblies|Virtue Assemblies]] have the power to exalt an individual for their actions.
+
+==Judgement==
+A judgement of Exaltation must be raised and passed by the relevant virtue [[assembly]] with a greater majority. The judgement must identify a single individual to be exalted, and should indicate the virtuous actions the nominee has taken to deserve exaltation.
+
+==Outcome==
+If a judgement of exaltation achieves a greater majority, it is successful and the civil service will add the exalted individual to the [[#Roll of Exaltation|roll of exaltation]], along with a brief description of the acts described in the judgement. The roll of exaltation is public, providing the citizens of the Empire with examples of virtuous behaviour for them to follow.
+
+If a citizen is exalted for a second time, by the same Virtue Assembly, then their deeds on the Roll of the Exalted will be updated to include any new deeds they have performed. If a citizen is exalted for a second time, by a different Virtue Assembly, then a second entry is created on the roll.
+
+==Removal (Disparagement)==
+This judgement may also be used to rescind their endorsement of an individual. This also requires a greater majority, and the judgement must identify the individual to be stricken from the [[#Roll of the Exalted|roll of exaltation]] for that assembly. This is often referred to as a judgement of disparagement, to make clear what is proposed.
+
+An assembly can only rescind an exaltation made by that Virtue Assembly. If the judgement passes with a greater majority, the civil service will remove the name from the roll of the exalted. Depending on the circumstances, this might have unpredictable consequences for citizens across the Empire who were previously using the individual as a role model for virtuous behaviour. If a citizen has been exalted by two or more Virtue assemblies, then disparagement will only remove the entry created by the Virtue Assembly that passes it.
+
+==Roll of the Exalted==
+<row-fluid>
+<span6>
+'''<big>Courage</big>'''
+<div style="float: left; clear: right; margin-left:10px;">
+<gallery heights=200 mode="packed">
+file:Corwyn_Heartsbane.jpg|[[#Corwyn Heartsbane|Corwyn Heartsbane]]
+</gallery></div>
+</span6>
+</row-fluid>
+
+===Courage===
+====Corwyn Heartsbane====
+Corwyn Heartsbane was added to the Roll of the Exalted during the Autumn Equinox 387YE, by a [[387YE_Autumn_Equinox_Synod_judgements#Judgement_18|judgement]] raised by Melchior of Adina's Charge. The judgement was upheld 248 votes to 0. The creation of the [[Vallornguard]] and the construction of the Navarri wayhouses were named as the primary reasons for his exaltation.
+
+===Pride===
+====Idwyn Splitroot====
+Idwyn Splitroot was added to the Roll of the Exalted during the Spring Equinox 388YE, by a [[388YE_Spring_Equinox_Synod_judgements#Judgement_35|judgement]] raised by Halwyn Splitroot. The judgement was upheld 192 votes to 22. The creation of the song [[Painted]] was named as the primary reason for her exaltation.
+
+{{Synod Further Reading}}

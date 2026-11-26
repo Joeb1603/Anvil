@@ -1,0 +1,26 @@
+[[Category:Summer Ritual]][[Category:Rituals]][[Category:Enchantment]]
+{{CaptionedImage|file=NBUrizen.jpg|caption=This ritual is part of [[Urizen magical traditions#Urizen Lore|Urizen lore]] rather than [[Imperial lore]].|align=right|width=200}}
+==Rules==
+{{Season|Summer|8}}
+{{Urizen Lore}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Character}} The target character must possess the [[Magical skills#Battle Mage|battle mage]] skill.
+
+{{enchantment}}
+
+===Effects===
+The target gains the ability to expand a point of personal mana to call [[Calls#CLEAVE|CLEAVE]] when wielding a staff [[Weapons_%26_armour#Implements|implement]]. The target must follow all the rules for casting an [[Spellcasting#Offensive_Spells|offensive spell]], and must recite an appropriate incantation before using their staff this way.
+
+While under the effect of the enchantment the target experiences a roleplaying effect: ''you find it difficult to control you temper, and any irritation or anger you experience is significantly stronger to the point it may overpower your good sense if only for a few moments.'' 
+
+This effect is even more pronounced if you have the [[changeling]] [[lineage]].
+
+{{Season Duration}}
+
+===Additional Targets===
+This ritual can affect additional characters from the same [[coven]]. Each additional character increases the magnitude by 6. Additional characters must be present throughout.
+
+==Description==
+TBC
+==Common Elements==
+TBC.

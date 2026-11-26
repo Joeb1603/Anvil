@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:387YE Summer]]
+__NOTOC__
+<quote by="Proposed: Upwold, Seconded: Miaren">To commission the building of a Bounders Hall in Stockland, Upwold. This will create the title "Bailiff of the Heath", appointed annually by unanimous decision of the Marcher senators. This will cost 12 wains of white granite and 36 crowns in labour. Self funded by Prosperous citizens of the Marches.</quote>
+==Overview==
+* Constructs a [[sinecure]] in Stockland, [[Upwold]]
+* Passed
+* More information can be found in the '''[[Kith_and_kin#Hard_Work|Kith and kin]]''' wind of fortune
+
+==Date==
+* Summer 387YE
+
+==Cost==
+* Costs as per opportunity
+* 12 white granite
+* 36 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Stockland_Bounders_Hall}}
+==Outcome==
+* Now complete, the [[Bailiff of the Heath]] will be available to appoint by the senators of the Marches for the first time at the Autumn Equinox 387YE for a shortened term of six months
+* Allows Marcher [[beater|beaters]] to send their [[military unit|military units]] to support the territory

@@ -1,0 +1,165 @@
+[[Category:Winds of Fortune]][[Category:387YE Summer]][[Category:Recent History]]
+<ic>With an ear-piercing scream, the young girl launched herself across the room. Virtually flying through the air, arms spread wide, she crashed into the callow youth who had stepped through the doorway a moment earlier. The woman tried to throw out her arms to catch her, but the force of the impact still staggered her and drove her back. Somehow she managed to stay on her feet, but only just. Recovering frantically, she gripped the girl in a tight hug and swung her round.
+
+"Lil!" she yelled, her voice filled with joy and jubilation. "You're home!"
+
+Lily smiled down at her, as she spun her. It was almost five years since she'd taken the fateful decision to set out with the other pilgrims. As the years had passed she'd had chance to visit just twice. Each time it seemed her sister had grown up a little more. Each time it had been a little harder to leave again.
+
+Finally she stopped spinning her round and put her down. "Yes, I'm home. Where's mum and dad? Are they about?"
+
+"Dad's talking to Timothy - they're planning tomorrow's sermon. Mum is in her room, illuminating a manuscript. I'll go get her." Hesther turned as if to go, but then turned back at the last moment. "You're not going anywhere?" she demanding, "You're not leaving again?". Her tone was accusatory but tinged with sadness.
+
+"No! I'm home for good. Well I think I am... Maybe. Look, just go and get mum, I'll still be here when you get back... I promise you on the Seven Virtues."
+
+Hesther broke into a broad grin, spun back and went racing off through the chapterhouse. "Mum, mum, Lily's home!" she shouted as she went.
+</ic>
+{{CaptionedImage|file=Chapterhouse.jpeg|caption=The White City is home to many fine chapterhouses.|title=Art by Beth Dooner|align=left|width=400}}
+==Overview==
+{{audio|link=https://www.youtube.com/watch?v=biiCllb2p24}}
+The [[The_war_of_thorns_and_flowers#The Fourth Army|return]] of the [[Grey pilgrim|grey pilgrims]] from their years-long march around the Empire has restored [[Highguard|Highguard's]] ability to raise a fourth [[Army|army]]. To aid the formation of the new force, a proposal was put forward to create powerful regalia, a [[The_war_of_thorns_and_flowers#You Get a banner|banner]] for each of the [[general|generals]], [[hallow|hallowed]] with [[liao#True Liao|true liao]]. What better way to fuse the conviction of the returning pilgrims with the discipline of the new Highborn army? The banners are now ready and the army is being raised. Soon it will be time for it to march to war, but not before the [[senator]] who raised it has determined what [[Army qualities|special quality]] the army should possess.
+
+With the work to raise the new army now underway, many priests in Highguard have turned their focus to the military campaigns to see what [[opportunity|opportunities]] there might be to bolster their efforts. The [[Full_of_sacred_sound#The_Sticking_Place|crusading storm]] is at an end now, as the Assembly has opted to focus on embracing their [[I_already_know_you#A_Peerless_Kinship|peerless kinship]] with other nations instead, but there is a final chance for the Highborn Assembly to draw inspiration from the orders of the [[Granite Pillar]] as they march to attack the [[Druj]] in the [[Sarangrave]].
+
+Finally the judgements of the Spring Equinox bring good tidings for a change - a celebration of the faith as the Synod works to create seven powerful hallowed bells, one for each Virtue, to be borne by Virtuous citizens as they make a pilgrimage ground the Empire. A Highborn chapter, the ''Stone Library'' in the [[Bastion#Bastion,_the_White_City|Holy City of Bastion]] have implored the Assembly of Nine not to allow this historic event to pass into history unrecorded. They hope that someone dependable on the Assembly will take the responsibility of ensuring that a scribe documents the key moments in this pilgrimage and communicates the details to them.
+
+==But Carrying A Banner==
+* '''The cost to raise the fourth Highborn army has been reduced to 80 mithril by the creation of four relic banners, one for each of the Highborn armies'''
+Four great standards have now been created and consecrated with true liao. Three have been formally presented by '''Jacob''', [[Benefactor of Regalia]] to the generals of the existing Highborn armies. ''Empire's Heart'', ''Salvation in Darkness'', and ''Physician's Benevolence'' will inspire those who fight in Virtue's name to victory. Each bears a powerful enchantment, stirring the spirits of whoever bears it aloft in addition to the aura that wards the soul.
+
+<quote by="Jacob, Benefactor of Regalia">I bestow ... upon the General of the Granite Pillar, Empire's Heart; upon the General of the Seventh Wave, Salvation in Darkness; and upon the General of the Valiant Pegasus, Physician's Benevolence.</quote>
+{{CaptionedImage|file=NBHighguard.jpg|align=right|width=200}}
+The final banner, Ever Forward, is ready, waiting for the general of the new army to take it up. As a result of this obvious sign of dedication to the cause, people are flocking to join the fourth army, reducing the costs to eighty mithril. Hopefully, the long-delayed fourth Highborn army will soon march alongside their comrades in arms. Provided all the mithril and money is available, the new general could be appointed as soon as the Autumn Equinox. Not a moment too soon, given the precarious situation on the eastern front.
+
+The tremendous accomplishment has done much to bolster the morale of those serving in the Highborn armies. Now the senator who presented the motion to raise the army must decide how to capitalise on this enthusiasm. The core of the new army is the grey pilgrims; any qualities the army might possess are determined by them and their nature. But that still leaves the senator with a decision to make on behalf of the nation.
+
+===Devotion To Virtue===
+* '''The new army could have the ''Devoted'' quality'''
+* '''A ''Devoted'' army can use the ''Armoured by Faith'' order when [[army orders#Attacking|attacking]]'''
+
+The army is able to draw on the pilgrims devotion to Virtue, and their long experience facing many terrible threats as they travelled the length and breadth of the Empire. Armoured by their faith, their commitment will never waver, even in the face of terrifying monsters, overwhelming odds, or unimaginable cruelty.
+
+This commitment will be crucial once the war against the vallorn begins in earnest. The forests controlled by the enemy are filled with miasma that poisons the lungs and weakens the spirit. The army of the vallorn contains monstrous insects and horrifying threats that can quickly break an army. Those armoured by their faith will be ready to stand against this onslaught.
+
+<box>'''Armoured by Faith'''
+* '''Casualties suffered by this army are decreased by a tenth'''
+* '''The effectiveness of this army against the vallorn is improved; the army does not suffer additional casualties for fighting in a vallorn miasma.'''
+The grey pilgrims have faced countless threats during the years of their long pilgrimage around the Empire. Now they can employ those skills to support each other, bolstering their spirits as they face the enemy. Their experience fighting the monsters of the vallorn are particularly vital when facing this ancient enemy, which relies on its ferocity and terrifying miasma to overpower the enemy and tear them apart. The strategy of the vallorn is blunted when fighting against an army that is armoured by faith.</box>
+
+===Swift To Battle===
+* '''The new army could have the ''Fast'' quality'''
+* '''A ''Fast'' army can use the ''Forced March'' order when attacking'''
+* '''A ''Fast'' army can use the ''Desperate Reinforcement'' order when defending'''
+
+The [[Navarr_military_concerns#The_Black_Thorns|Black Thorns]] are one of the two fast armies in the Empire, able to employ the trods to move swiftly across the Empire to engage with the enemy. The many years the grey pilgrims marched alongside the Navarr on the trods have helped them develop some of the same skills. The general could make use of this experience, by eschewing the kind of heavy armour favoured by the cataphracts for the lighter travelling of the unconquered. That would make the new army [[Army_qualities#Fast|fast]] - able to issue orders to carry out a forced march or commit to desperate reinforcement.
+
+===Shoulder To Shoulder===
+* '''The new army could have the ''Righteous'' quality'''
+* '''A ''Righteous'' army can use the ''Final Stand'' order when defending'''
+
+The grey pilgrims have faced death many times during their long pilgrimage around the Empire. The thought of passing into the labyrinth holds little fear for those who know that their Virtuous deeds will soon see them return to this world. Bolstered by their faith and their achievements, they could be trained to stand and fight together, shoulder-to-shoulder, locking their shields and refusing to give ground no matter what the enemy does. Such Loyalty can achieve incredible things, if the army is willing to pay the ultimate sacrifice. The general could choose to make the new army ''righteous'' which would allow them to make a final stand.
+<box>'''Final Stand'''
+* '''Any victory gained by the enemy converts to additional casualties taken by this army, rather than territory gained'''
+* '''Every enemy victory point causes 100 additional casualties to this army until the army disbands'''
+Sometimes a general needs to hold a position regardless of cost. A final stand trades Imperial lives for every inch of ground that would otherwise be lost. The order is rarely used; even if the army is not wiped out, it will almost certainly be severely weakened. When an attacking force must not be allowed to gain territory or establish a beachhead, it is incredibly effective.</box>
+<div style="float:right; width:400px; clear: left;">{{CaptionedImage|file=Jared Pointing at Face.jpg|width=400|caption=The congregations of Highguard can spread the word - that the greatest spiritual threat to the Empire must be destroyed.|align=left}}</div>
+
+==March Together==
+* '''For one year Highborn congregations can support the new army as it fights the vallorn'''
+* '''Priests will receive votes as normal and remain in their current assembly but will receive no liao '''
+* '''If 10 congregations preach support for the army then casualties will be reduced by 10%'''
+* '''If 20 congregations preach support for the army then territory conquered by the army will be increased by 10%'''
+* '''If the army engages the vallorn in the coming year there will be an opportunity to maintain the ability for another year'''
+
+Not every grey pilgrim is planning to join the new army. Some are exhausted by their long march and eager to return to the life they gave up to walk the trods. They have not forgotten their comrades however and can be counted on to support their fellow pilgrims if asked. Such support could take many forms, providing herbs, potions and liao for their friends and relatives in the new army, or volunteering with the army's field hospital and supply train. Such support can be invaluable in raising morale and supporting the army as it fights.
+
+For the next year, any Highborn congregation can take the option to preach support for the new Highborn army, providing it is engaged in battle with the vallorn. The army must be actively engaged against the vallorn to benefit, either attacking or defending, it cannot simply be in the same territory. Any priest that chooses this option will receive votes as normal and remain in their current Virtue assembly but they will not receive any liao. All supplies will be used to bolster the spirits of those working to support the army. 
+
+If at least ten congregations support this action, then it will provide significant benefit to the army while they are fighting the vallorn, reducing casualties suffered by a tenth. If at least twenty congregations support this action, then it will ''also'' help the army press forward increasing territory captured by that army by a tenth.
+
+The potential to support the new army will last for at least one year. It will end after that time, if there has been no opportunity to support the new army against the vallorn. If the army has decisively engaged the vallorn during that time, then there will be an opportunity to maintain the option to support the army for another year.
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=GranitePillar_Colour.png|align=right|width=200}}
+{{CaptionedImage|file=SeventhWave_Colour.png|align=right|width=200}}
+{{CaptionedImage|file=ValiantPegasus_Colour.png|align=right|width=200}}</div>
+==A Last Crusade==
+* '''The Highborn Assembly could use a mandate to capitalise on the end of their crusading storm by adopting strategies meant to protect the innocent'''
+{{SOP|statement=Wisdom is asking the right question. We send Brother Olyvar of Esther's Sanctum with 25 doses of liao to urge the citizens of Highguard to embrace peerless kinship. The virtuous apply what they learn.|by=Nicodemus of Balthazar's Vineyard, Highborn Assembly|vote=220-136|when=387YE Spring Equinox}}
+The Highborn Assembly has opted to [[A peerless sacrifice|forgo the benefits of a crusade by their armies in favour of the ability to demonstrate their peerless kinship]] for their allies. There was a clear majority in favour of the decision but the vote was far from overwhelming, with nearly a third of priests opposed.
+
+Still it passed, and that means there will be no more opportunities for the Highborn Assembly to spread mandates based on the orders of the Highborn generals. That could be unfortunate - the Empire has launched a new assault on the Sarangrave, capturing a large swathe of territory from the [[Druj]]. Sychar of Ebon's Hall, the general of the [[Granite Pillar]] has [[387YE_Spring_Equinox_Military_Council_orders#Granite_Pillar|issued orders to their army to fight in Loyalty]], stating that the ''"oppressed subjects of the Druj are not to be harmed. They shall be shown the light of virtue"''.
+
+It's a noble aspiration and it is one that has been attempted before. Various assemblies in the Synod expressed similar sentiments around the oppressed subjects of the Druj in the Barrens. The conquest of the Barrens was slower than it might have been due to the care taken by Imperial armies fighting there, as a result of the mandates of the Synod. Those efforts were noticed by the inhabitants of the Barrens, but in the end they didn't align with the decisions taken by the Military Council to pursue a more direct military solution. In many ways the Empire achieved the worst of both worlds - the conquest of the Barrens was slower and more difficult than it needed to be but the Empire gained almost no new allies in the process and most of the oppressed subjects were either slaughtered or driven off.
+
+It is already clear that the Druj have spread word of events in the Barrens across every sept in the Mallum - they've made very clear to these people that the Empire will slaughter them once it has dealt with the Druj. Of course the Druj lie the same way the sun rises, regularly and predictably, but personal testimony of members of the Black Wind have done enormous damage to the Empire's reputation here. These people are afraid of the Druj, but they are more afraid of the Empire. Winning them over will be a massive uphill struggle - arguably, it ''might'' be easier to do everything necessary to defeat the Druj and everyone in their lands and worry about what happens after the Druj are beaten.
+
+Crucially what most folk are keen to avoid would be a repeat of the situation in the Barrens where the Imperial Synod advocated for liberation and the Military Council opted to take a different route. Either option will work - either option has benefits and drawbacks - but swapping back and forth between the two approaches will ensure the Empire gets all of the drawbacks of both approaches and none of the benefits of either.
+
+To avoid that calamity, Asher of the Seven Pools Chapter proposed that Highborn generals could adopt an approach designed to ensure that the military strategy aligns with the approach taken by the Synod - whatever that might be. '''Exarch Luke''' has provided the wording for a mandate before the Highborn Assembly.
+
+{{Mandate|mandate=Loyalty is not displayed by words or deeds alone, but by the unity of both. We send {named priest} with 25 doses of liao to encourage Highborn armies to protect the innocent at every opportunity. Let no innocent suffer where a Highborn blade may stand between them and harm.|assembly=Highborn Assembly}}
+
+If this mandate is enacted, all Highborn armies will gain the ability to use the following [[Army_orders#Attacking|attacking]] order.
+
+{{Anchor|Protect the Innocent}}
+<box>'''Protect the Innocent'''
+* '''Casualties inflicted by this army are reduced by a tenth'''
+* '''The ability of this army to capture territory is reduced by a tenth'''
+* '''Any orders to an allied army in the same territory that increase casualties are changed to balanced attack'''
+* '''The presence of an army fighting to protect the innocent in a territory is always obvious to other armies in the same territory'''
+
+Any Highborn army instructed to protect the innocent will still push forward, but they will do so cautiously and with a focus to ensure that innocent bystanders are not to be harmed. The general's orders will identify who the army is seeking to protect, but provided they are clear, then the force will do everything it can to save the lives of those the general ordered spared - even if that means stopping an allied Imperial army from attacking. This will inflame tensions between the two forces, but they will not come into armed conflict. Imperial discipline will be sufficient to prevent one Imperial soldier cutting down another - just.
+
+Progress will be slow, because of the sacrifice needed to ensure that the innocent on all sides are protected. The army and their allies will kill less of the enemy, simply because of the abundant caution shown by the soldiers. Any allied force in the same territory that submits the following orders [[Army_qualities#Cruel|Merciless Onslaught]], [[Army_qualities#Cunning|Whatever it Takes]], [[Army_qualities#Glorious|Triumphant Charge]], 
+[[Army_qualities#Hard_Bitten|Make them Pay]], [[Army_qualities#Relentless|Cut Them Down]], [[Army_qualities#Thornbound|Poison Thorns]],  [[Army_qualities#Venomous|Fire in the Blood]] or any similar order that increases casualties inflicted will be replaced with a balanced attack.
+
+Trying to protect the innocent does not prevent ''enemy'' forces from issuing orders to spread bloodshed and mayhem, but it will help to mitigate some of the worst effects.</box>
+
+Asher's goal is simple - if the Highborn Assembly agrees that the campaign against the Druj should focus on liberation rather than annihilation then this would send a powerful message to that effect to the Highborn generals and the wider Military Council. But it would put the ability to dictate the terms of any campaign firmly in the hands of the Highborn generals, rather than have the Assembly be involved in campaign strategy and potentially working at odds with the Council's strategy. Asher would prefer the Empire fight to liberate the oppressed septs of the Mallum, but he would rather the Empire adopt one strategy or the other - rather than a mix of both.
+
+Asher's strategy would not be enough by itself to produce results. If the Empire wants to try and win over the oppressed subjects of the Druj, avoiding killing them is essential but it won't be enough by itself. The Empire would also need to avoid curses that caused widespread casualties and other strategies that caused the death of those caught in the fighting between them and the Druj. They would need to find ways to open diplomatic channels with these groups and try to convince them that they could be trusted. Given the long and brutal history of the Barrens, that will be difficult and as the Barrens has shown those groups will have demands of their own.
+==Peer Into the Future==
+<onlyinclude>
+{{CaptionedImage|file=Ten-ish Siblings.png|align=right|caption=Highguard stands ready to aid its Imperial siblings.|width=350}}
+* '''The Highborn Assembly can use a statement of principle to invoke their peerless kinship with another nation in the Empire'''
+* '''The Assembly can't select the same nation two seasons running'''
+The Highborn Assembly remain keen to work with their fellow nations, looking for ways they might express their peerless kinship to identify an opportunity to support the nation. As a result, for the foreseeable future, the Highborn Assembly can use a successful judgement to invoke their peerless kinship with another nation. The Assembly can choose any nation to help, provided they don't choose the same nation two seasons running. Asking Highguard to find ways to help a fellow nation will be bound to fail if they had already identified all the ways they could help the season before.
+
+Where possible, Highborn citizens will talk to the nation to find out what help would be most welcome. The statement of principle that the Assembly passes may try to identify a specific problem that they think is most urgent or they could guide that conversation by indicating a single statement of principle passed that season or last by the peer nation's Assembly. Provided that statement ''passed'' the Assembly - indicating it had the support of the people of that nation, then attempts to provide peerless kinship would, where possible, focus on the issue identified in the statement.
+
+This ability will remain available for the foreseeable future, at least until anything drastically changes the current situation. If two or more judgements invoking peerless kinship both pass the Assembly, the one judgement with the highest margin will take effect.</onlyinclude>
+{{CaptionedImage|file=Silent Bell.png|width=250|caption=Bells ring and banners are raised.|align=right}}
+
+==You Get A Bell==
+* '''News of the decision to create seven bells hallowed with liao and bear them on pilgrimage around the Empire catches the imagination of the virtuous
+* '''There are still a number of questions surrounding this pilgrimage and these bells
+The seven Virtue assemblies have all passed judgements announcing a plan to hallow the seven bells used in the coronation of the Empress. It appears that the Synod intends to use seven doses of liao to hallow each bell - and then take the bells on a pilgrimage around the Empire to inspire the faithful. It is a bold endeavour and one that fires the imagination of many. Laden with symbolism, it invites as many questions as it answers.
+
+According to the statements, the bells will be "borne by Virtuous souls" but who exactly will be chosen for this honour? It is possible that the Synod may have already found a way to answer this question, but if not then it could be a vexing problem. Does each Assembly plan to choose a citizen to honour? Or will they ask the [[Voice of Virtue]] to bear this responsibility? Or will many different souls bear the bells as they go on their pilgrimage?
+
+What of the hallows themselves? What hallows will be chosen and who will choose them? What will the names of the bells be and how will ''they'' be chosen? How long will the pilgrimage last and what route will it take? And what will happen to the bells when the pilgrimage is over? Obviously the hallows will fade after a year, leaving only the faintest trace of the power they once held, but they will still by historic items. They might not be relics in the traditional sense - the Synod would need true liao to make the hallows permanent for that to happen - but they will be the focal point of a great pilgrimage around the Empire. Even when the power fades, they will still be what the Imperial Orcs would call "[[worth|items of worth]]". Will they be hallowed again? Or will they be placed in a museum somewhere? Or made part of the [[New_Imperial_titles#Regalia|regalia]] of an appropriate Imperial title? Or perhaps become part of the Grand Inspiration of the Way?
+{{WingedMessenger|address=Seth of the Stone Library, The White City, Bastion}}
+The [[archivist|archivists]] of the ''Stone Library'' in [[Bastion]] in particular are eager for answers to these questions. They are planning to start work on a biography of the life of [[Emperor Vesna]], in the belief that it will be easier to record the most Virtuous things that happen during their reign if they start now, while they are still alive. The account of the Seven Bells of Virtue is clearly going to be an important event and they are eager to have as complete a record of this inspiring act as possible. Their exarch, the Librarian Seth of the Stone Library has issued a polite challenge to the Assembly of Nine. If a member of the Assembly will take responsibility for ensuring that a Virtuous account of the entire event is compiled and sent by winged messenger to the Stone Library, then the chapter will have the archivists in the scriptorium make copies of the account and distribute them across the Empire to ensure that the details of this inspirational story are not lost.
+
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 10px;">
+{{SOPInner|statement=Courage! It is not only bravely advancing with a sword. Courage is doing something and we are doing something big. This Summer we will Hallow a bell to Courage. A bell used in the coronation of the Empress. A Hallowing of 7 priests strength. A bell to inspire all aspects of Courage.|by=Nira of Cantiarch’s Hold, Courage Assembly|when=Spring Equinox 387YE|vote=239-0 (Greater Majority)|size=small}}
+
+{{SOPInner|statement=At the coronation 7 bells were used. In the same summer solstice each of those bells will be Hallowed to one of the 7 virtues, to the power of 7. Once hallowed the bells will be taken on a pilgrimage around the empire to inspire us all. We encourage you to come out in support of the bells, shouting your virtue with each peal.|by=Naomi Felix Watch, Prosperity Assembly|when=Spring Equinox 387YE|vote=328-20 (Greater Majority)|size=small}}
+
+{{SOPInner|statement=The seven bells used in the coronation of the Throne are being Hallowed with the strength of seven priests at the Summer Solstice - one to each Virtue. Once Hallowed, the bells will be sent on an Empire-wide pilgrimage borne by Virtuous souls to inspire Imperial citizens and send the message of Imperial greatness far and wide. When darkness threatens to draw near, it is on us to kindle the lights we have until they ignite fervour in all that witness their blaze!|by=Destin of the Woodwych Harts, Vigilance Assembly|when=Spring Equinox 387YE|vote=344-0|size=small}}
+
+{{SOPInner|statement=The seven bells used in the coronation of the Throne are being Hallowed with the strength of seven priests at the Summer Solstice - one to each Virtue. Once Hallowed, the bells will be sent on an Empire-wide pilgrimage borne by Virtuous souls to inspire Imperial greatness far and wide. When darkness threatens to draw near, it is on us to kindle the light we have until they ignite fervour in all that witness their Blaze!|by=Artemis of Arion Sentinels, Wisdom Assembly|when=Spring Equinox 387YE|vote=260-0|size=small}}
+
+{{SOPInner|statement=The seven bells used in the coronation of the Throne are being Hallowed with the strength of seven priests at the Summer Solstice - one to each Virtue. Once Hallowed, the Bells will be sent on an Empire wide pilgrimage borne by Virtuous souls to inspire Imperial greatness far and wide. This judgement raised in all Virtue Assemblies. Virtue Exalts!|by=Edward Watcher, Pride Assembly|when=Spring Equinox 387YE|vote=188-0|size=small}}
+
+{{SOPInner|statement=The seven bells used in the coronation of the throne are being hallowed with the strength of seven priests at the Summer Solstice - one to each virtue. Once hallowed, the bells will be sent on an empire wide pilgrimage borne by the virtuous souls to inspire Imperial cities and send the message of imperial greatness far and wide. When darkness threatens to draw near, it is on us to kindle the light we have until they ignite farther in all that witness their blaze!|by=Bronwen, Ambition Assembly|when=Spring Equinox 387YE|vote=136-0|size=small}}
+
+{{SOPInner|statement=The 7 Bells used in the coronation of the Throne are being hallowed with the strength of 7 priests at the Summer Solstice. Once hallowed, the bells will be sent on an empire wide pilgrimage borne by virtuous souls to inspire Imperial citizens and send the message of imperial greatness far and wide. When darkness threatens to draw near, it is on us to kindle the lights we have until they ignite fervour in all that witness their blaze.|by=Jared of the Suns of Couros, Loyalty Assembly|when=Spring Equinox 387YE|vote=244-0|size=small}}
+</div>
+{{CaptionedImage|file=Virtue Banners.jpg |caption=The seven [[#Virtue Assemblies|Virtue Assemblies]], the [[#Assembly of the Way|Assembly of the Way]], the ten [[#National Assemblies|National Assemblies]], the [[#General Assembly|General Assembly]], and the [[#Assembly of the Nine|Assembly of the Nine]] together make up the [[Synod]].|width=1000}}
+
+===Resolution===
+* The Assembly of Nine has [[387YE_Summer_Solstice_Synod_judgements#Judgement_261|appointed Ardeniel of the Woodwych Harts]] to make a record of the progression of the Seven Bells for posterity. The [[archivist|archivists]] of the ''Stone Library'' in [[Bastion]] stand ready to publish the work once it is complete.
+<!--* The fourth Highborn army, the [[Pilgrim's Defiance]] was raised in Autumn 387YE, and received the Devoted quality-->
+
+==Further Reading==
+* [[A peerless sacrifice]] - 387YE Spring Wind of Fortune relating to the choice between Peerless Kinship and Crusade
+* [[The_war_of_thorns_and_flowers#Highguard|The war of thorns and flowers]] - 386YE Winter wind of fortune relating to Highborn opportunities to fight the vallorn

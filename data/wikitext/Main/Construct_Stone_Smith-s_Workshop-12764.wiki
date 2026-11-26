@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Proposed: Mitwold, Seconded: Upwold">To commission a sinecure - Stone Smith's Workshop - in the Woldstone, Ashbrook, Upwold. Sinecure is to be a place where smiths can congregate, discuss, act as a repository of lore, and be a place to train new smiths. Sinecure to create the Stone Smith position, to be appointed by tally of the votes. This sinecure is self funded.</quote>
+==Overview==
+* Constructs a [[sinecure]] in Ashbrook, Upwold
+* Passed
+* More information on the smiths can be found on the [[smith]] page and the '''[[A_pinch_of_salt|A pinch of salt]]''' wind of fortune
+
+==Date==
+* Spring 387YE
+
+==Cost==
+* Costs as per opportunity
+* 8 white granite
+* 8 mithril
+* 8 ilium
+* 6 thrones
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Stone_Smith%27s_Workshop}}
+==Outcome==
+* Now complete, the [[Stone Smith]] will be available for election by Tally of the Votes of Marcher [[farm]] owners for the first time at the Autumn Equinox 387YE

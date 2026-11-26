@@ -1,0 +1,283 @@
+---
+title: Snap rope and pass foil
+source: https://www.profounddecisions.co.uk/empire-wiki/Snap_rope_and_pass_foil
+class: in-character
+topic: winds-of-fortune
+categories:
+- 388YE Spring
+- Winds of Fortune
+- Mandate
+event: 388YE Spring
+last_edited: '2026-06-10T11:44:06Z'
+revision: 140294
+in_character_boxes: 5
+---
+
+# Snap rope and pass foil
+
+> *In-character text:*
+>
+> Ulan glared at the ice bobbing gently in the current near the shore. He picked up a handful of snow, forming it into a rough ball, and flung it at tiny iceberg. He was rewarded with a mournful noise halfway between a honk and a screech. The massive penguin, pale as the ball of frost that had nearly hit it, slid clumsily into the water and disappeared.
+>
+> "Serves you right," murmured Ulan, and then felt a little guilty. It wasn't as if the creature was threatening him - he just didn't like them. They were just too big, looming in the fog. They had no fear of humans or orcs, and he'd heard tales about them half-heartedly attacking explorers. Especially if they were in the water.
+>
+> Not that the dire penguins of Nutjuitoq were the worst things that could happen if someone fell into the great lake. Anyone actually going into this shallow sea without some serious protection was going to be dead in five minutes, even without the threat of a massive penguin, all the heat leeched from their blood and bones by the water itself. He turned his attention back to his two companions. Tema and Rickon were loading supplies onto their lightweight sleds while Ana meticulously checked the harnesses. They needed to be worn just right, or they would become a liability. And the catches needed to be tested every morning, for fear that they'd seize up in an emergency. Ulan had seen a hunter once, unable to get loose when the ice had turned out to be thinner than expected. She'd drowned before anyone could get to her, dragged down by the weight of the carcasses strapped to the sled.
+>
+> "Right!" he said, clapping his mittened hands together. "We'd probably better get started."
+>
+> He stared at the map, and again felt a twinge of uncertainty about how much of it was just... blank space. Not for the first time he wondered how much of that space was because the cartographers had no idea what was there, and how much was there because there *was* nothing there. Just miles and miles of bloody Tsirku. He gazed up at the stars for a few moments, getting his bearings. The early dawn light was flowing sluggishly across the sky to the east, still dammed up behind the mountains, doing little to illuminate the sky beyond. His gaze lingered on the ten bright stars arranged in a rough inverted V that seemed to sparkle and twinkle in the deep twilight.
+>
+> "Things are not easy," he muttered under his breath, and then shrugged. This was no time to be distracted by the sky. They had a long way to go through uncertain terrain and unpredictable weather. The sooner they got started, the sooner they would be back somewhere warm.
+>
+> Assuming nothing went wrong, of course.
+
+*[Image: Tsirku is a cold and desolate wasteland.](https://www.profounddecisions.co.uk/empire-wiki/File:Snowy_wastes.jpg)*
+
+## Overview
+
+Tsirku is a frozen wasteland lying to the north of Sermersuaq. To the west lies the northern Jotun jarldom of [Tromsa](../barbarians/Tromsa.md), and to the east the [Thule](../foreign-nations/Thule.md) territory of [Urdur](../barbarians/Otkodov.md#urdur). It is believed to border the [Sea of Snow](../world/The_seven_seas.md#sea-of-snow), perhaps to the north, but no Imperial explorer has ever sailed that far and returned to tell the tales. The eternal storm [Sydanjaa](../nations/wintermark/Sermersuaq.md#sydanjaa) roars there unceasingly, the same storm that Sermersuaq herself is said to have emerged from in ancient days riding a [mammoth](../world/Mundane_beasts.md#mammoths). It is known that colonies of great pale [dire penguins](../world/Mundane_beasts.md#dire-beasts) haunt its southernmost reaches. Beyond that... almost nothing is known save that its night-time skies are very clear, save where they are marked by the bright [Northern Lights](../nations/wintermark/Sermersuaq.md#major-features), and that it is the source of both blizzards and ravenous beasts.
+
+It has always been there, north of Sermersuaq, a place of mysteries and secrets. [Over the last year or so](Shadow_in_the_grass.md#tsirku), interest in exploring Tsirku has grown significantly in Wintermark over the last year. Partly this is due to the [monstrous beasts](Shadow_in_the_grass.md) coming down out of the wastes to attack the people of Sermersuaq, sent by the [Gryphon Prince](../eternals/Hayaak.md) and [Blood-on-the-Snow](../eternals/Agramant.md). Indeed, in Autumn last year, the [Senator](../../mixed/titles/Senator.md) for [Hahnmark](../nations/wintermark/Hahnmark.md), **Bron Dunwolf** proposed an [appraisal](../appraisals/Appraisal.md) of the [explore the challenges that would prevent exploration into Tsirku](../senate-sessions/387YE_Autumn_Equinox_Senate_sessions.md#appraise-exploration-of-tsirku) but it was withdrawn without being voted on. At the Winter Solstice, the [Imperial Spymaster](../../mixed/titles/Imperial_Spymaster.md) chose to [commission a spy network](../senate-motions/Construct_Spy_Network_in_Tsirku.md) in Tsirku, and everything changed.
+
+At the same summit, the [mystics of Ishal](../../mixed/titles/Raven_Seer.md) proposed that [the witan](Flight_of_birds.md#the-witan) meet at [Anvil](../world/Anvil.md). There the folk of Wintermark debated and discussed as they did in the old days, settling on a task to set for the mystics. The outcome was a request that they find a way to ensure the scouting of Tsirku would be *quick and safe*. They accepted the charge, and set out to speak with the folk of Wintermark to find ways to support the scouting attempt. Unfortunately, they quickly realised that the one thing exploration of Tsirku was *not* going to be was *quick* or *safe*.
+
+## Scouts
+
+*[Image: Rahmah i Darwisj i Erigo , Imperial Spymaster](https://www.profounddecisions.co.uk/empire-wiki/File:Rahmah_i_Darwisj_i_Erigo.jpg)*
+
+- **The Imperial Spymaster has commissioned a spy network to explore Tsirku**
+- **The spy network will not work in the same way that a usual spy network does, and is being referred to as a "scouting network" instead**
+
+Last season [Imperial Spymaster](../../mixed/titles/Imperial_Spymaster.md), **Rahmah i Darwisj i Erigo** [commanded](../senate-motions/Construct_Spy_Network_in_Tsirku.md) that a [spy network](../../out-of-character/rules/Spy_network.md) be built that would allow Imperial scouts to venture into the wastelands of Tsirku. The actual instruction was to build it *in* Tsirku but in reality, the majority of the construction took place in northernmost [Sermersuaq](../nations/wintermark/Sermersuaq.md). Lodges from which to explore across the border into the wastes were built, and large stocks of supplies set in. These stocks included large amounts of densely nutritious food such as [Pemmican](https://en.wikipedia.org/wiki/Pemmican), a drink called *Bellywarmer* by the [Suaq](../nations/wintermark/Suaq.md) in which spirits are boiled with [Imperial Roseweald](../../out-of-character/rules/Imperial_Roseweald.md) to make a drink that can be used to treat hypothermia and exposure to the elements, snowshoes, and even some of the light one-person sleds that hunters in northern Wintermark use to drag meat long distances back to their Spring and Summer camps.
+
+Everything is in readiness now for the first scouts to venture north into Tsirku. Unfortunately, getting any accurate information about the wastes to the north is not going to be a straightforward undertaking for several reasons.
+
+### Tsirku is Big
+
+- **The Tsirku scouting network requires significantly more effort than a traditional spy network**
+- **Until Tsirku is properly explored it will not be possible to create a map to allow scrying**
+- **Even when Tsirku is fully explored it will not be feasible to build a great work there without an opportunity**
+
+The wastes to the north of Sermersuaq are vast. Hectare for hectare, it larger even than [the Barrens](../nations/dawn/The_Barrens.md). That is not to say that it has many more *[regions](../../out-of-character/rules/Territory.md#regions)* than the Barrens do, although its possible. Rather, the problem is that the wastes themselves are massive and the further from the more alpine terrain of Sermersuaq, Tromsa, or Urdur one travels the more featureless they become. Imperial cartographers show Tsirku as being smaller than Sermersuaq - but that is mostly because nobody has ever actually mapped the place in any meaningful way. As such it is going to require significantly more effort to map the borders and regions of the wastes. Rather than using the normal outcomes for a [spy network](../../out-of-character/rules/Spy_network.md), the Tsirku scouting network will require significantly more support to provide anything concrete... and it is going to take significantly longer.
+
+Part of the problem is the lack of supplies, but the mystics of Ishal offer their aid in this regard at least. A tradition among the folk of Sermersuaq who hunt in the wide open spaces of [Suaq Fount](../nations/wintermark/Sermersuaq.md#suaq-fount) and [Suaq Wastes](../nations/wintermark/Sermersuaq.md#suaq-wastes) is to leave caches of supplies behind them as they return south each year. Then, next year, they can carry fewer supplies with them, resupplying at these hidden caches. This same technique can be used to scout Tsirku - each season some of the scouts will push as far as they can with their supplies and establish caches that those who follow after can use to renew their resources.
+
+Rather than exploring the entire territory in one go, each season the scouting network will explore a single region starting with a region north of [Suaq Fount](../nations/wintermark/Sermersuaq.md#suaq-fount). Each season, assuming the previous region has been explored, the Imperial Spymaster will need to choose where to explore next. Only once the entire territory has been scouted will a map suitable for scrying be created.
+
+| Strength | Tsirku Spy Network |
+| --- | --- |
+| 1500 | An overview of the region including the names of significant features such as lakes, frozen seas, or mountain ranges. |
+| 3000 | Details of any significant Jotun or Thule presence in the region, along with any connections to Otkodov, Tromsa, or Skallahn, as well as information about locations with a tie to Agramant or other hostile eternals. |
+| 5000 | A thorough overview of the region, showing the locations of any significant outside presences, several points of interest located in the region, and the names and a short overview of the terrain of adjoining regions. |
+
+Whatever else happens, the size and inhospitable terrain of Tsirku also mean that it will never be feasible to create a [great work](../../mixed/commissions/Great_work.md) there without an [opportunity](../../out-of-character/game-design/Opportunity.md). Other commissions would be possible, but a great work that helps everyone in the territory will only be possible with extensive outside support - likely supernatural.
+
+### Tsirku is Cold
+
+- **Military units from nations other than Wintermark and Varushka have a significant penalty to support the Tsirku scouting network**
+- **The upkeep of armies and fortifications in Tsirku is doubled**
+
+Even in Spring and Summer, even by the standards of Wintermark, Tsirku is *cold*. Many Imperial citizens, even the most adventurous, will find themselves unprepared for the sheer biting teeth of the winds, for the scarcity of food, for the challenges presented by thin ice, deep drifts, and hidden crevices. Of all the Imperial nations, the folk of Wintermark and Varushka are best prepared for the dangerous conditions in the north. As a consequence, any military unit from elsewhere in the Empire - from a nation other than Wintermark of Varushka - will have a three rank penalty to their effective strength to support the Tsirku spy network. Suitable [enchantments](../../out-of-character/rules/Enchantment.md) like [Sharp Eyes of the Corsair](../../mixed/magic/rituals/Sharp_Eyes_of_the_Corsair.md) will help counter this penalty, and there are likely other rituals out there that might offer similar aid. Without such support, captains from other nations will need to think carefully before they commit to the scouting network.
+
+This frigid climate also has implications for any [army](../../out-of-character/rules/Army.md) that attempts to enter or pass through Tsirku. The upkeep of an army that enters Tsirku is *doubled* for as long as it is there, representing the sheer amount of supplies and cold-weather gear that is needed. An army that has to trace its supply through Tsirku likewise finds its upkeep doubled for that season. A standard [fortification](../../out-of-character/rules/Fortification.md) in Tsirku will likewise have its upkeep doubled, due to the need to import large amounts of supplies to support the garrison. Once Tsirku is scouted, ways to mitigate this problem may be found but for now the prospect of conquering Tsirku through armed force is deeply challenging.
+
+### Tsirku is Barren
+
+- **The difficulty of scouting Tsirku increases dramatically between the end of the Autumn Equinox and the start of the Spring Equinox**
+- **The strength required to gather any information from Tsirku via the scouting network is *doubled* in this period**
+- **Armies in Tsirku suffer casualties each season in this period**
+
+There is snow and ice in Tsirku all year round. That isn't to say that it is just a big featureless frozen plain - but even in the height of Summer the wastelands are hostile. There is a reason they are not settled. The timing on the construction of the spy network is serendipitously good, however. During Spring and Summer Tsirku is at its most welcoming to human and orc scouts. In Autumn and Winter, though, the weather turns for the absolute worse. Blizzards become commonplace, and the temperature drops cold enough to kill anyone unprepared for the cold. Winter in particular, when the [Northern Lights](../nations/wintermark/Sermersuaq.md#major-features) are at their most active, is a perilous time to be abroad in the wastes.
+
+The strength required to gather any information from Tsirku via the scouting network is *doubled* in the period straight after the Autumn Equinox and the Winter Solstice. This will make the challenge of mapping the entire territory even more arduous; if scouting is to be feasible the year round either [opportunities](../../out-of-character/game-design/Opportunity.md) to deal with the abysmal weather will need to be found, or a major force of military units will need to be applies.
+
+This weather also presents a problem for armies venturing into Tsirku - an army in the wastelands after the Autumn Equinox or the Winter Solstice will suffer 500 casualties from the storms, the freezing temperatures, and the other dangers. This damage would not be mitigated by orders given, or by effects that reduce casualties inflicted in a fight - it would only be mitigated by special opportunities or things that specifically protect against environmental conditions. The situation returns to normal again following the Spring Equinox each year.
+
+### Tsirku is Mysterious
+
+- **Sydanjaa remains a mystery and anyone who enters the storm will not return**
+
+While the portent of the northern lights is not familiar to many outside the northern territories, there is one feature of Tsirku that everyone knows about - the endless storm of Sydanjaa. This unceasing blizzard is a profound element of Wintermark spirituality; those who are tired of life seek one final fight to pass through the storm and discover what lies on the other side. It is a tradition that dates back to a time long before the Empire; arguably before even the Steinr arrived the custom existed among the Suaq and Kallavesa. Given that in the entire history of Wintermark *nobody* has ever returned from Sydanjaa, the overwhelming advice from mystics and explorers alike is that while it will be important to map the boundaries of the storm, nobody should try and venture within because if they do, *they categorically will not come back out again*.
+
+The mystery of Sydanjaa is beyond any scouting attempts; anyone who ventures within will be lost forever. It may be possible to learn a little more about it once the territory is scouted, but by exploring its perimeter **not** by venturing within. Speculation suggests it covers an area equivalent to a full region, but may be even larger. Until the scouting network achieves sufficient support to map the regions of Tsirku, even that is not something that can be confirmed.
+
+### Tsirku is Secret
+
+- **The Whisper Gallery plan to do their level best to impede the efforts of the scouting network in Tsirku**
+- **Every military unit assigned to help thwart the expedition to Tsirku will count its full strength against that of the explorers**
+
+This last problem is brought to the attention of the Empire by certain Winterfolk magicians. The [Night Singer](../eternals/Sung.md) has a certain fondness for the [mystics](../nations/wintermark/Mystic.md), while the [Brother of Wizards](../eternals/Sadogua.md) has always prided himself on having a good relation with [icewalkers](../../mixed/magic/lore/Wintermark_magical_traditions.md#icewalkers) and [runesmiths](../../mixed/magic/lore/Wintermark_magical_traditions.md#runesmiths). Both [eternals](../eternals/Eternal.md) surreptitiously send warnings to their friends in the north. They phrase their messages very differently, but the gist is the same. The [Whisper Gallery](../eternals/Whisper_Gallery.md) will actively oppose any attempt to scout Tsirku. Worse, the wastes are beyond the borders of the Empire - like [Blood on the Snow](../eternals/Agramant.md) they will take advantage of this. What form the opposition of the *Stewards of the Shadowed Throne* will take is frustratingly vague. Sung speaks in symbolic terms of false lights and tracks covered by snow.
+
+Sadogua is much blunter; they'll pay people to do their dirty work. The *Concilium of the Perjured Throne* will try to hire military units to thwart efforts to scout the wastes. Every military unit that takes the eternal's coin will count its military strength *against* the total strength of those trying to explore Tsirku.
+
+## Mystics
+
+- **The mystics of Ishal have completed the preliminary steps of their appraisal into the exploration of Tsirku**
+- **There is still much more work to be done and the mystics of Ishal remain committed to the exploration for the time being**
+
+The Witan convened at Anvil to offer guidance to the mystics of Ishal and their allies across the nation. While the appraisal began with the mystics, it has quickly spread to encompass Winterfolk from all walks of life. These folk, especially [mediators](../nations/wintermark/Wintermark_economic_interests.md#mediator) and those experienced with the world outside Wintermark's borders, have also begun to reach out to their friends in other nations for aid. What has become apparent is that the mystics work has only just begun. As more information is uncovered about Tsirku, they will seek portents, omens, and guidance to find other [opportunities](../../out-of-character/game-design/Opportunity.md) to aid the exploration. As such there will be no opportunity after the Spring Equinox to direct them to look at a different situation in Wintermark; their efforts will remain focused on Tsirku.
+
+### Tsirku is Enticing
+
+- **For at least a year following the Spring Equinox, Wintermark military units can undertake the *Adventure in Tsirku* venture**
+- **The difficulty of adventuring in Tsirku increases dramatically between the end of the Autumn Equinox and the start of the Spring Equinox**
+- **Dawnish military units can also take this venture, but do so at the same penalty as supporting the scouting network**
+
+Scouting Tsirku is an option now that the spy network is established there. Yet the wastes are *also* a source of adventure. A heroic trek into Tsirku focused around exploring not the terrain but the hidden nooks where danger lies... that might be something that appeals to the folk of Wintermark as much as any mapping expedition. For a start, it's known that there are terrible creatures in the wastelands. Some are [supernatural beasts](../eternals/Inhabitants_of_the_realms.md#guardians) of Blood-on-the-Snow, that raven down from the wild places into Sermersuaq. Others are dangerous spirits of the wild places, or creatures adapted to live in the terrible frozen wastes. If the [beasts of the Sea of Snow](../../mixed/economy/Voyage.md#hunt-the-monsters) are anything to go by, who knows what treasures might lie in Tsirku for the taking?
+
+After the Spring Equinox, and until the start of the Winter Solstice 388YE, any Wintermark military unit may take the **Adventure in Tsirku** [questing](../../out-of-character/rules/Military_unit.md#questing) [venture](../../mixed/economy/Venture.md). A standard military unit that undertakes the expedition will receive two "treasures of the wasteland" (consumables representing unique resources found in Tsirku, most likely harvested from beasts of Agramant or dangerous locations) and 36 rings representing valuable or novel things recovered from the wasteland that can be sold to the curious. A military unit that has an effective rank of at least 11 (counting [enchantment](../../out-of-character/rules/Enchantment.md) and [upgrades](../../out-of-character/rules/Military_unit.md#upgrades)) will also receive a *wonder of the wasteland*, much rarer consumable. Both treasures and wonders are selected from a random list, and different characters will get different results.
+
+While this expedition to the north is inspired by the Witan, it is impossible to stop the knights of Dawn finding out about it. For some, the idea of pressing into the untracked north and risking an unmarked grave in the belly of a giant bear of *Rope-chewer* sounds like an epic way to seek [glory](../nations/dawn/Glory.md). As such, Dawnish characters can also take part in the **Adventure in Tsirku** venture, but unfortunately the hostile environment means they do so with the same three rank penalty to the effective rank of their military unit that impedes their ability to scout.
+
+All military units attempting to adventure in Tsirku between the end of the Autumn Equinox and the start of the Spring Equinox will suffer an additional two rank penalty due to the blizzards and intense cold.
+
+### Tsirku is Trackless
+
+|  |
+| --- |
+| **Citadel of the Warm Hearth** |
+| **Commission Type:** [Fortification](../../out-of-character/rules/Fortification.md) |
+| **Location:** Tsirku, in a region bordering Sermersuaq |
+| **Cost:** 100 white granite, 60 mithril, 540 crowns in labour |
+| **Upkeep:** 10 Thrones each season |
+| **Time:** A year |
+| **Effect:** • Establishes a rank one fortification in Tsirku <br> • Presents an opportunity to "conquer" the region in which it is built without an Imperial army <br> • Establishes a permanent presence for Wintermark in the Tsirku wastes |
+| **Availability:** Until the end of the Winter Solstice 388YE |
+| **Limitations:** • While it can be commissioned now, construction cannot begin until the regions adjacent to Sermersuaq have been explored |
+| **Special:** • Does not suffer increased upkeep from the effects of the frigid territory <br> • Labour costs are not increased thanks mostly to the roads built in northern Sermersuaq |
+
+- **A citadel of the warm hearth could be built in Tsirku to serve as a centre for Imperial settlement**
+- **The citadel would allow the Empire to control the region and make it possible to construct commissions there**
+- **The citadel would enable the Empire to take steps to control adjacent regions**
+
+One of the problems with Tsirku is that it isn't clear that there is anything there to conquer, as such. The place isn't a featureless arctic plain, but there are not believed to be any settlements of folk living there. It seems unlikely anyone will ever establish prosperous [farms](../../out-of-character/rules/Farm.md) or [herb gardens](../../out-of-character/rules/Herb_garden.md) in the frozen climate, for example. It's all very well for an army to move into Tsirku and plant an Imperial flag to try and claim it but that seems to be a costly and barely effective way to do so.
+
+Instead, the mystics of Ishal propose that Wintermark begin preparing right now to lay claim to Tsirku not through conquest but by establishing a permanent settlement in the far north. The roads built in Sermersuaq to service the [Pride of Ikka's Tears](../../mixed/titles/Pride_of_Ikka-s_Tears.md) will help transport white granite and weirwood north to the border, and from there they will be taken north into whatever region the scouting network uncovers. Hardy pioneers could be drawn to the borderlands, and if the scouting efforts turn up anything, Wintermark should be ready.
+
+A mystic named *Firebird Eorling* has long dreamt of [firebirds](../world/Legendary_beasts.md#firebird) and [phoenixes](../world/Legendary_beasts.md#phoenix) and sought omens in leaping flames. They have drawn inspiration from their dreams, which have become particularly vivid now that they have started sleeping outside under the stars and the [bright constellation that shares their name](../../mixed/magic/lore/The_Phoenix.md). They've also apparently been dreaming of the ice castles of the Summer realm, the [frozen citadels](../../mixed/magic/rituals/Frozen_Citadel_of_Cathan_Canae.md) of the [mother of blizzards](../eternals/Cathan_Canae.md). They've drawn up some barely comprehensible plans for a Wintermark castle, at the heart of which burns an eternal flame that will keep even the harshest winter at bay. At first these blueprints seem to be little more than fanciful images, but when shown to some indulgent Steinr engineers, they change their turn fairly quickly. Scribbled as they are, there's something in these drawings that in turn inspires the more serious builders with the idea this just might work.
+
+It'll be expensive and time consuming, but it will work. Wintermark could, in theory at least, conquer parts of Tsirku at least not with armies, but with buildings. The "Citadel of the Warm Hearth" would be the first step towards doing so, serving as a base from which Wintermark and its allies could take control over the region it was constructed in. This would provide an undeniable foothold for the Empire in the wastes. It would also open the door to other opportunities to slowly bring other regions under the Imperial banner. The nature of these opportunities would depend on what the scouts discover about the rest of Tsirku, but the portents say that the Citadel is the first step, the anchor point that will see a web of influence spread across the wastes.
+
+The Citadel cannot be built yet - but it is such an endeavour that if Wintermark is serious about claiming Tsirku it would be wise to start gathering resources now. It is, after all, quite an expensive proposition. Firebird Eorling does not imagine that more than one Citadel will be needed, and the other mystics say the omens agree with them. But without it, they claim, Wintermark's efforts to claim Tsirku will likely falter and fall.
+
+### Tsirku is the Wasteland
+
+- **Tsirku is "claimed" by Agramant**
+- **The land is home to many heralds and guardians set there by Agramant**
+
+*Blood-on-the-Snow* is also called the *Hunter in the Wastes* and *Wastewalker*, and Tsirku more than anywhere else is the wasteland where he walks. Obviously, the eternal itself does not come to the mortal world - no eternal can do that - but its presence is felt here more than anywhere else. Part of the challenge of Tsirku will be dealing with the influence of *Blood-on-the-Snow* who claims this whole territory as if it were ceded to him. The declarations of the [Conclave](../../mixed/government/conclave/Conclave.md) have no purchase here, and its not entirely clear how their mandate could be easily extended here without conquering the majority of the territory. Until that happens - assuming it is even feasible - those scouting, exploring, or working in the wastes will need to be on their guard.
+
+*[Image: Ceolmund Dreth , Banner-bearer of Atkonaroq](https://www.profounddecisions.co.uk/empire-wiki/File:Ceolmund_Dreth.jpg)*
+
+The mystics have cast the runes, and spoken to the [banner-bearers](../nations/wintermark/Wintermark_military_concerns.md#banner-bearers) of Wintermark, those who best understand the task of inspiring people to fight the servants of Blood-on-the-Snow. Their claim to Tsirku will need to be challenged, and the thought of fighting the eternal's servants in the wilderness of the north is a daunting one. Yet there is an obvious [Imperial title](../../mixed/titles/Imperial_title.md) that can lead the way, here. The [Banner-bearer of Atkonaroq](../../mixed/titles/Banner-bearer_of_Atkonaroq.md) - currently **Ceolmund Dreth** - is [charged](../../mixed/titles/Banner-bearer_of_Atkonaroq.md#responsibilities) with ensuring that those who visit the [Hall of the Hunters](../../mixed/titles/Banner-bearer_of_Atkonaroq.md#hall-of-the-hunters) are prepared for the dangers of the Suaq Wastes when they hunt the monsters of the north.
+
+The proposal is that the responsibilities of the Banner Bearer of Atkonaroq be expanded, to also support and aid those who fight the horrors of Tsirku, whether they be mundane horrors or creatures of the [realms](../eternals/Realm.md). While this could be done by the [Senate](../../mixed/government/senate/Senate.md), amending the title, the Banner Bearer is appointed by the [Wintermark Assembly](../../mixed/government/synod/Assembly.md#the-national-assemblies). If the assembly upholds a [statement of principle](../../mixed/government/synod/Statement_of_principle.md) with a [greater majority](../../mixed/government/synod/Judgement.md#greater-majority) urging the Banner Bearer to take on these responsibilities, then in Wintermark at least it would have the force of tradition behind it and the civil service would take note.
+
+If the title is given this additional responsibility, they will be expected to take the lead in finding ways to oppose the supernatural threats of Tsirku, especially the threat of Blood-on-the-Snow. This would encourage the folk of Wintermark - not just Sermersuaq - to support their role, supplementing their *[lake bounty](../../mixed/titles/Banner-bearer_of_Atkonaroq.md#lake-bounty)* with an additional 4 crystal mana each season or as long as the Banner-Bearer lives up to this new responsibility.
+
+Further support for the Banner-bearer of Atkonaroq comes from the smiths of the [Runegrott](../nations/wintermark/Hahnmark.md#runegrott). They propose that to be truly inspirational, the Banner Bearer should have a true banner to represent their role in the nation. A true [artefact](../../out-of-character/rules/Magic_items.md#artefacts), with a powerful [name](../../mixed/magic/lore/Wintermark_hearth_magic.md#names) that captures the will of Wintermark to make the wastes of their north their own. If such a banner is made part of the [regalia](../../mixed/titles/New_Imperial_titles.md#regalia) of the Banner Bearer, perhaps by the [Benefactor of Regalia](../../mixed/titles/Benefactor_of_Regalia.md), then the smiths will match the gift. They will provide the Banner-bearer of Atkonaroq with a magical banner that is a copy of the artefact, which they can distribute to one of their fellow bannerfolk to raise in service of Wintermark.
+
+*[Image: CathCane001b.webp](https://www.profounddecisions.co.uk/empire-wiki/File:CathCane001b.webp)*
+
+*[Image: RhianosArt.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:RhianosArt.jpg)*
+
+*[Image: Kimus001.png](https://www.profounddecisions.co.uk/empire-wiki/File:Kimus001.png)*
+
+### Tsirku is Challenging
+
+- **There may be magical solutions to some of the challenges of Tsirku**
+- **Three eternals have been named as likely to aid with the scouting and exploration of the territory**
+
+The dangers for armies in Tsirku are clear, but the answer *may* lie in magic. Just as [Why Sulemaine Walked Away From The Baker](../../mixed/magic/rituals/Why_Sulemaine_Walked_Away_From_The_Baker.md) protects soldiers from venom and poison, so an enchantment to protect armies from the challenges of the frozen wastes could be created. The Runesmiths of Wintermark have looked into the problem, and it is their opinion that an enchantment incorporating [Jotra](../../mixed/magic/lore/Jotra.md) and [Irremais](../../mixed/magic/lore/Irremais.md) would help mitigate both the effects of being in the territory in winter and the problems surviving there. The enchantment would require Spring magic or Winter magic, and would be magnitude 120. It could in theory be lower, but in this case while it would protect from the damage caused by exposure to the wastes, it would still cause the army to require additional upkeep.
+
+On the other hand, enduring the frigid wastes is exactly the kind of power [Cathan Canae](../eternals/Cathan_Canae.md) can offer as a boon. The [Summer Archmage](../../mixed/titles/Archmage_of_Summer.md) would need to approach her on the matter as part of a [plenipotentiary](../../mixed/titles/Archmage.md#plenipotentiary) but the runesmiths agree that the eternal would able to offer aid that achieves the same goal. It would have an assurance, obviously, and the *Queen of Ice and Darkness* will want something in return for all that she is generally favourable toward Wintermark. Either approach is likely to require codification at a [college of magic](../../mixed/commissions/College_of_magic.md), and that will mean either convincing the [Master of Ice and Darkness](../../mixed/titles/Master_of_Ice_and_Darkness.md), the [Dean of the Lyceum](../../mixed/titles/Dean_of_the_Lyceum.md), or an [Urizeni](../nations/urizen/Urizen.md) to propose it as [Doyen of the Spires](../../mixed/titles/Doyen_of_the_Spires.md). Or, in the case of the first two at least, ensuring a Wintermark magician holds the title.
+
+It would also likely be possible to use magic to create an enchantment to counter the effects of Tsirku, probably using Winter or Summer magic, but such an enchantment is unlikely to be as effective as simply providing additional prowess to the military unit with existing rituals.
+
+Inspired by conversations with the mystics, some icewalkers propose another eternal whose aid may be sought. Tsirku is a place of adventure, whatever else it is. The *[Regent of the Eternal Sea](../eternals/Rhianos.md)* has helped Imperial explorers before - the Great Race most recently, but also the dangerous foray into Brocéliande of a few years back. Perhaps the Summer Archmage might be prevailed on to ask for their assistance in exploring the secrets of Tsirku?
+
+Or, and this possibility comes from a very peculiar mystic indeed, there is the *[Seer Clad in Raiment of Light](../eternals/Kimus.md)*, the *Eye of the Sun and Moon*. Perhaps the [Archmage of Day](../../mixed/titles/Archmage_of_Day.md) could ask for her help for the people of Wintermark. She has offered boons in the past that allow people to see things that have not been seen by mortal eyes before, and she is by no means a friend of the Whisper Gallery. In exploring a place as vast and mysterious as Tsirku, her aid might prove invaluable. Assuming Wintermark could meet her price of course.
+
+### Tsirku is Comprehensible
+
+*[Image: Assembly Wintermark.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Wintermark.png)*
+
+- **Wintermark has a long tradition of journeying through the cold wastes of the north**
+- **That knowledge could be shared with the rest of the Empire, at the temporary expense of the Smokehouse of Atalaq**
+
+The dangers of Tsirku are many, but they are not unique. Anyone in Sermersuaq who has stood outside during the depths of Winter and felt the razor-wind drive a blizzard through their camp knows how treacherous and deadly a land of eternal winter can be. The most vulnerable people in a place like Tsirku are those who think they can go it alone - and that presents an opportunity of a kind. The mystic *Kaleri Icebane* suggests that Wintermark might share its expertise with the people of the Empire, and thus secure their aid in exploring the wastes.
+
+During the Spring Equinox, the Wintermark National Assembly can choose to enact the following [mandate](../../mixed/government/synod/Mandate.md).
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Mortal Ambition can conquer any obstacle, and unravel any mystery. We send (named character) with 150 doses of liao to urge the guides and explorers of Wintermark to reach out to their fellow Imperials and share the Wisdom of the wastes.
+> >
+> > Synod Mandate, Wintermark National Assembly
+
+If this mandate is passed, then the penalty suffered by military units from nations other than Wintermark or Varushka when operating in the wastes will be reduced from a three rank penalty to a one rank penalty. This will apply whether they are scouting or exploring in Tsirku. It will not only apply to the current opportunities, but also to any future opportunities involving military units. It requires a lot of liao, but *Kaleri Icebane* believes that it could be made easier. If the *named character* is a Wintermark of the [banner-bearer](../nations/wintermark/Wintermark_military_concerns.md#banner-bearers) archetype, the cost to enact the mandate drops to 100 liao. This represents the fact that a banner bearer can rally their peers to help, and that the people best suited to enthuse and inspire soldiers, warriors, and adventurers are in the best position to spread the wisdom of the wastewalkers.
+
+Not everyone is convinced this mandate is a good idea. A few cynics point out that Wintermark is the only nation in a credible position to explore Tsirku and claim it's wonders. Of course having support from other nations would help Wintermark explore Tsirku faster, but the more the other nations offer their help and support, the greater their own claim might be. Is it *really* Wise to share the Wisdom of the wastes with others they question?
+
+There is another mandate that might be passed as well, this one arising out of discussions with the [mediators](../nations/wintermark/Wintermark_economic_interests.md#mediator) of the north. The [Smoke House of Atalaq](Write_the_lines.md#hunt-of-the-north) was built in part to support the foundation of the [Narwhal's Spear](../../mixed/government/military/Narwhal-s_Spear.md). It also services the farms of Sermersuaq, especially those that herd mammoths and other creatures. It produces a lot of dried and smoked meat each season, and that bounty could serve to support the exploration of Tsirku if Wintermark had the will to do so. During the Spring Equinox, the Wintermark National Assembly might choose to enact the following mandate.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Prosperity says that we should share our bounty with those who are worthy of it, and the heroes who pursue the dream to Tsirku cannot help but be worthy. We send (named character) with 50 doses of liao to urge the farmers and herders of Sermersuaq to support those who risk the wasteland as best they can.
+> >
+> > Synod Mandate, Wintermark National Assembly
+
+If this mandate is enacted, it will remove the benefit provided to farms in Sermersuaq by the Smokehouse of Atalaq (it currently provides 36 rings each season to each farm). Instead, surplus provisions suitable for use in Tsirku will be sent to support the scouting network. For as long as these supplies are committed, each season a strength of 500 will be committed to the scouting network. This won't be enough to operate the network by itself, but it will bolster efforts in the north. The smokehouse would remain committed to the exploration of Tsirku until it were completed, or until Wintermark abandoned the effort to do so, at which point it would revert to its normal production. Regardless, this change won't harm the Narwhal's Spear. If the named character is noted philanthropist **Gisli "Provider" Baerson**, however, one of the best known mediators in the nation, it will also enthuse the mediators of the north to work with the mystics. Together they will find at least one more opportunity to trade or negotiate to gain support for the scouting network or the exploration of Tsirku
+
+Neither of these mandates are competing - they can both be raised and enacted during the Spring Equinox.
+
+### Tsirku is Wintermark
+
+- **The folk of Wintermark see Tsirku as part of their history**
+- **The rest of the Empire may not agree**
+
+A few civil servants raise the question of why Wintermark would assume the territory of Tsirku would be theirs in the first place. The mystics of Ishal say it is inevitable, which does not really convince anyone but they refuse to expand on it. There's no doubt that the wastes are connected to the history of the people of the north - the mother of the Suaq and the hylje is said to have ridden out of the storm here after all. Yet all the historical resonance in the world does not stand against the constitution of the Empire. A territory may be [assigned](../../mixed/government/senate/Powers_of_the_Imperial_Senate.md#assignment) as part of an Imperial nation only once it has been conquered, and the Senate may choose whichever nation it wishes to take control. One cannot tie the hands of a future Senate, as some civil servants are fond of saying.
+
+However... the Senate is able to make announcements of intent, to say that they agree with, respect, or deny a claim. Most commonly this is requested by foreign nations but there is no reason that the Senators could not be convinced to support a [Senate motion](../senate-motions/Senate_motion.md) saying that the Empire recognises the connection between Wintermark and Tsirku. This would have no legal implication - the Senate could still assign the territory of Tsirku as they wished it it were conquered (assuming that is even possible). On the other hand, if the Senate *does* make a commitment it would matter a great deal to the people of Wintermark. They would see the exploration of Tsirku, and its eventual control, as part of their [skein](../nations/wintermark/Wintermark_culture_and_customs.md#skein). The people of the nation would throw their support behind the endeavour, looking to the day they can command the northern wastes.
+
+Sadly, if the Senate *did* pass such a motion, and then in the future the territory were given to a different Imperial nation or the Empire decided to relinquish any claim on it in favour of another nation, it could not help but be seen as a betrayal by the people of Wintermark. It would bring into question the credibility of the Senate, and beg the question whether the people of Wintermark can ever really trust their words.
+
+A risky move, but without it, interest in Tsirku will eventually wane, and the opportunities to deal with the many challenges it presents would slowly peter out.
+
+### Tsirku is Desolate
+
+- **Tsirku has no existing settlements or roads; everything will need to be built from scratch**
+- **Its likely that as exploration continues it will expose more challenges in claiming the territory**
+
+The wastes are well named. There are no roads here, no little settlements, no farms. Nothing save the cold and the pitiless stars. Unlike any other territory the Empire has encompassed, this is a land that has never really known the touch of civilisation. While there may be outposts along the border, Tsirku has never been part of *any* empire. it is literally terra incognita. Even the extent of the wastes are uncertain - doubly so for a land where ice may masquerade as land and water shift from liquid to solid with little warning. The Empire is truly starting from scratch in Tsirku, and the challenges of conquering the wastes will make those presented by [Ossium](../nations/varushka/Ossium.md), [Mareave](../nations/imperial-orcs/Mareave.md), [the Barrens](../nations/dawn/The_Barrens.md), and [Sarangrave](../nations/urizen/Sarangrave.md) pale in comparison. If it were easy, the Empire would already have done it, after all.
+
+It's likely that both the Thule and the Jotun will have opinions once the Imperial interest in Tsirku becomes apparent. Yet they are in no better position to dominate the wastes that the Empire is. Indeed, they might be in a *worse* position. While the Empire may be fractious, when its people work together their resources dwarf those of the two orc nations. The warriors of the west and the north are no better equipped to deal with the to cold than the people of Wintermark, so any large-scale conflict here is likely to be a sign of desperation, unlike the more strategic battles elsewhere along the Empire's borders.
+
+A Wintermark civil servant also notes that its unlikely that Tsirku will ever provide much in the way of taxation to the [Imperial treasury](../../mixed/economy/Imperial_treasury.md). If anything, it is likely to require significant upkeep to maintain any settlements there at all. Of course, until the area is fully explored its easy to make such dour predictions, but they have something of the ring of truth about them. This is not a place that will ever support a city, or patchworks of farms.
+
+## A Heroic Endeavour...
+
+- **If the exploration of Tsirku were easy, it would have been completed already**
+
+Exploration of Tsirku, never mind claiming it for the Empire, represents a heroic endeavour. It will challenge the people of Wintermark, and even with all their resources the obstacles in their way may seem insurmountable. Yet the seven virtues, and the history of Wintermark, both urge people to seek such challenges and defeat them. Those who help bring Tsirku into their nation, who explore its mysteries, who seize wealth and victory from its frozen heart, cannot help but be remembered as heroes. It is dearness that gives things value, after all.
+
+### ...That You Cannot Achieve Alone
+
+- **Wintermark is unlikely to be able to complete this challenge alone**
+
+The Jotun and the Thule are both much more powerful than Wintermark, and even they have never fully explored Tsirku. They may maintain outposts here and there, but they have never come close to conquering the wastes. If they had, it would not be the wasteland it is today.
+
+Yet Wintermark has one great strength that the orc nations lack. It is a nation used to compromising and bringing disparate traditions together, and crucially, it is part of the Empire. Challenges that would be insurmountable alone can be overcome with the aid of allies. Wintermark cannot conquer Tsirku alone, but if they can rally support of other nations and gain their aid then they may yet achieve what would otherwise be impossible.
+
+## Further Reading
+
+- [Sermersuaq](../nations/wintermark/Sermersuaq.md)
+- [Flight of birds](Flight_of_birds.md)
+
+---
+
+Categories: [388YE Spring](../../indexes/by-category/388YE_Spring.md), [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [Mandate](../../indexes/by-category/Mandate.md)

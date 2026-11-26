@@ -1,0 +1,33 @@
+<ic>To create the new sinecure of the Sylvi Hrafn Crystal Henge, to produce Mana.<br><br>''Proposed by Skarsind, seconded by Kallavesa''</ic> 
+
+===Overview===
+* The [[sinecure]] based in Skarsind will produce 9 [[Game items#mana crystals|crystal mana]] each season
+
+===Date===
+* Passed Autumn 378YE
+
+===Cost===
+* 10 wains of mithril and 2 thrones
+* Time: 3 months
+
+===Progress===
+* 10 wains of mithril and 2 thrones supplied by Jorma Steelhail, senator for Skarsind after Autumn Equinox 378.
+
+===Campaign Outcome===
+* When complete, the sinecure will automatically create the title of [[Guardian of the Cairn]].
+
+===Constitution===
+* Sinecures are usually life-time appointments. 
+* The title will be a national position, appointed by unanimous decision of the senators for [[Wintermark]].
+* The title can be revoked by the Wintermark Assembly, the General Assembly and the Assembly of Nine.
+
+<!-- From Senator: 
+Guardian of the Cairn or Sylviharafn sounds good. I'm awaiting a response from someone to give me some more information for the flavour text. Anything they may want to add will involve the character "Sylvi Harfn" who was from the a group that provided the funds that died in one of the battles and so it has a memorial to them. I'm giving them a couple days to respond if they want anything specific added then leaving as is.
+
+The location is in Skarsind, I'm happy to leave it up to you exactly where, essentially somewhere where it wouldn't be unusual to have a what is effectively a mana 'well' (details below), Gildermark/near Gildenheim or Pakaanans Pass seem appropriate.
+
+In terms of function the cairns are carved rock that are intricately threaded with mithril in imagery (think Saxon/Rohan artistry) that denote the history of the battles with the Thule (nothing secret or unknown). The Carins and mithril descend underground and "draw" up the Mana from underground so it appears almost like droplets of mana on and around the Cairns.-->
+
+[[Category:Senate Motion]]
+[[Category: 378YE Autumn]]
+__NOTOC__

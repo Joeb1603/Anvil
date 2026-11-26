@@ -1,0 +1,24 @@
+[[Category:Senate Motion]][[Category:388YE Spring]]
+__NOTOC__
+<quote by="Proposed: Mareave, Seconded: The Barrens">A commission to build a trading post in Mareave in the region of Icarion. To establish a trade of salt for beef with Beoraidh. Fully funded!
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Icarion, Mareave, as per the '''[[A_knock_at_the_door#Salt_and_Beef|A knock at the door]]''' wind of fortune
+* Passed
+
+==Date==
+* Spring 388YE
+
+==Cost==
+* Standard costs apply
+* 10 wains of weirwood
+* 30 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Beoraidh_Trading_Post}}
+==Outcome==
+Now complete, the Beoraidh Trading Post has had the following effects:
+*Increases the income of the [[Shepherd of the Southern Herd]] by 10 crowns each season
+*Increases the income of the [[Shepherd of the Great Herd]] in Skarsind by 5 crowns each season
+*Secures trade between the Unshackled and Beoraidh

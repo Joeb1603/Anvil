@@ -1,0 +1,276 @@
+---
+title: Knocking on every door
+source: https://www.profounddecisions.co.uk/empire-wiki/Knocking_on_every_door
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 385YE Winter
+- Recent History
+- Mandate
+event: 385YE Winter
+last_edited: '2026-01-15T13:19:22Z'
+revision: 130864
+in_character_boxes: 20
+---
+
+# Knocking on every door
+
+> *In-character text:*
+>
+> "I see your lot are talking about Berechiah again." The man was Tassatan by his garb, as soaked through as Carolinus by the pounding rain. They'd been stood under the spreading oak for the better part of an hour watching a trio of drovers try to fix a broken wheel.
+>
+> "My lot?" Carolinus was confused. "The Highborn?"
+>
+> The Tassatan shook his head, pointed to the belltower-with-the-locked-gate medallion Carolinus wore round his neck. "Vigilants," he said.
+>
+> "Oh, you mean Irada's statement." He corrected himself immediately. "Her writ of consecration."
+>
+> The Tassatan nodded. He took off his hat, and fruitlessly wrung it out before slapping it back on his balding pate. Carolinus noted the jagged scar that ran across the left-side of his head, normally hidden by the hat. It looked old, and vicious. "Yes, that's the one. Good stuff."
+>
+> "Are you Vigilant yourself?" asked Carolinus. The Tassatan quickly shook his head again.
+>
+> "No, not me, mate." He pulled up his sodden sleeves, first one then the other, to reveal tattoos on his forearms. A hammer and axe held in the talons of a bird Carolinus fancied might have been a jackdaw. "Pilgrim of Courage, here. A proud follower in the footsteps of Korl and Inga Tarn. On my way down to look at this orchard in Tower March."
+>
+> Carolinus noticed that there were other tattoos on the man's wrists that looked older. Rougher. Amateur compared to the beautiful designs on his forearms. The Tassatan noticed him noticing and quickly pulled his sleeves back down to cover them.
+>
+> "Anyway." he said briskly. "This writ of consecration. What do you make of it?"
+>
+> "It's a sensible approach to a difficult problem," Carolinus replied. "As to Berechiah... we live in dangerous times, and for all his flaws the man was an inspiration to those facing threats within and without."
+>
+> "The man was an arrogant prick," said the Tassatan with a quick, wolfish grin. "Mind you old 'Bishop' Baddog always said that if the Vigilants hadn't beaten us to it, we'd have sought recognition ourselves. You can take the bravo from out of Tassato...."
+>
+> Carolinus wasn't sure whether to be affronted or not. "Baddog" did not sound like the kind of name the Highborn associated with a League Bishop, even one associated with the Courage assembly, but there was perhaps a ring of truth to the words. Berechiah had left the politics of the League for the virtue of Highguard late in life, but as far as he was concerned the exemplar was Highborn through and through. He may have begun as a bravo and a child of the streets, but his ambition took him to the chapters of Highguard. It was a great story, and one Carolinus had enjoyed reading since he was a child himself.
+>
+> "No offense meant," said the Tassatan cheerily, clearly picking up on Carolinus' discomfort. "Anyway, I'm watching with interest, as the broadsheets say. Last time the Synod was talking bout Shifty Bertolli, someone set fire to Bastion over it. But more seriously, it's a good move. It feels sometimes like we're drowning, hemmed in on all sides with threats, struggling to keep our heads above water. Maybe the Empire needs a little bit of a prick right now, to kick up some dirt and get folk moving."
+>
+> "'The Empire always needs someone to take a lantern into the nasty places, where the virtuous cannot go for fear of getting their boots dirty.'" Carolinus quoted.
+>
+> "Damn right," said the Tassatan fiercely. "Knowing who to stab is half the fight won right there, as my mate Dana used to say."
+>
+> He looked off into space for a moment, a slight frown creasing his brow.
+>
+> "Mind you, its the other half of the fight that has all the actual stabbing in it that's the real challenge." he said under this breath as if talking to himself. "Poor Dana learnt that the hard way."
+>
+> "We're heading the same way," said Carolinus, eager to head off a morose turn of conversation. "I'm keen to visit Benson's Orchard myself, and it looks as if the rain is finally letting up. Maybe we should travel together?"
+>
+> The Tassatan nodded enthusiastically.
+>
+> "We can start by seeing if those lads are prepared to swap someone who knows how a wagon wheel works for a trip to the next town maybe?" He gestured along the road.
+>
+> Carolinus nodded his agreement. "Always better to travel as a group in these dangerous times."
+>
+> The Highborn Vigilant's offer wasn't entirely selfless of course. These *were* dangerous times and it *was* always better to travel in a group. As they walked down the road in the slackening rain towards the trio and their ox-cart, Carolinus considered his new travelling companion. Both what the man had said, and what he had inferred about him. The Tassatan had the look of a man who knew how to use the warhammer strapped to his hip, and the easy air of someone who was not a stranger to violence. Which could be both a good thing and a bad thing on the open road of course. Some of the tattoos spoke of a rough life, but the Courage tattoos were clearly fine pieces of art that bespoke a man of means. Weighed against that, the Highborn was already running over the likely routes to Tower March from Tassato, none of which passed through this part of the Marches, and the man's clothes were clearly not suited to a long hike over uneven roads in the rain.
+>
+> There were any number of innocent explanations for all this... but also quite a few suspicious ones and it was his duty - his calling - to ferret out the truth and decide whether anything needed to be done about it.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The inspiration of Berechiah drives Vigilance pilgrims and priests to actively tear out the poison that threatens the Empire. We the vigilance assembly encourage the creation of an Inspirational monument consecrated with true liao at his Basilica in Bastion, so that his inspiration, in rooting out threats can be felt across the Empire
+> >
+> > Irada von Temeschwar, Autumn Equinox 385YE, Vote: Greater Majority (250-0)
+
+*[Image: This portrait of Berechiah by an unknown Varushkan artist currently hangs in the Blood Red Quays Art Gallery in Sarvos](https://www.profounddecisions.co.uk/empire-wiki/File:Berechiah.jpg)*
+
+## Overview
+
+- **The Assembly of Vigilance endorsed the consecration of the basilica of Berechiah using true liao**
+- **Two other viable locations that would have different effects have been suggested**
+
+During the Autumn Equinox the Assembly of Vigilance upheld a [statement of principle](../../mixed/government/synod/Statement_of_principle.md) proposed by the popular **Irada von Temeschwar**. It called for the creation of an [inspirational monument](../../mixed/government/synod/Inspirational_location.md) [consecrated](../../out-of-character/rules/Consecration.md) with [true liao](../../mixed/religion/Liao.md#true-liao) dedicated to the [exemplar](../../mixed/government/synod/Paragons_and_exemplars.md) [Berechiah](../religion/Berechiah.md). It proposed that the Basilica of Berechiah in the [city of Bastion](../nations/highguard/Bastion.md#bastion-the-white-city) would make a suitable location, and that his inspiration help to root out threats across the Empire.
+
+During the same summit, the [Senate](../../mixed/government/senate/Senate.md) agreed to [create](../senate-sessions/385YE_Autumn_Equinox_Senate_sessions.md#create-writ-of-consecration) the [Writ of Consecration](../../mixed/government/synod/Writ_of_consecration.md) - formalising the process of using true liao to create inspirational locations. As such the Civil Service have advised that they are treating this statement as the first such writ. It has been circulated throughout the wider assembly of Vigilance, and several other locations that might make an effective inspirational location for Berechiah have been located.
+
+## A Prick By Any Other Name
+
+- **Berechiah is a contentious exemplar**
+
+Berechiah was an extremely contentious figure in life, even by the standards of the Vigilance assembly. His death did little to change this. He exemplifies the often unpopular idea that the vigilant should be prepared to do whatever is necessary to protect their people from outside threats.
+
+Effective, certainly, but he personifies the belief that the ends justify the means when pursuing virtue. He undertook acts that were unequivocally criminal in pursuit of what he saw as the greater good of the Empire. *Melisandre di Tassato* finished her popular biography ("Berechiah - A Prick By Any Other Name") by pointing out that in many ways the man was as big a criminal as those he brought the justice. He wasn't above enriching himself when he saw an opportunity to do so, even as he worked to uncover and expose threats to Imperial citizens. All that set him apart from threats such as the [vyig](../nations/varushka/Vyig.md) was his unshakable commitment to Vigilance.
+
+When Berechiah was [recognised](../../mixed/government/synod/Recognition.md) as an exemplar, it triggered intense arguments. Once his alleged "final book" was published, these arguments redoubled with priests of the assemblies of [Vigilance](../religion/Vigilance.md) and [Courage](../religion/Courage.md) on one side, those of [Pride](../religion/Pride.md) and [Loyalty](../religion/Loyalty.md) on the other, and everyone else caught in the middle. Of course, Melisandre points out in her biography, this neat drawing of lines is a little misleading as there were priests in the Pride assembly that respected his lack of shame and Loyal priests who felt he was pretty clear what commanded the loyalty of his heart. His basilica was badly damaged, and there were calls for his exemplar status to be revoked. In time - possibly due to the imminent threat of Grendel invasion - the arguments fell silent but Berechiah has been viewed a little suspiciously by Imperial priests ever since.
+
+There is a chance the decision to create an inspirational location dedicated to him might rekindle these arguments among the Virtue Assemblies.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Morality and ethics are fine and good most of the time, but they offer little comfort to those who have been murdered, or enslaved, because nobody was prepared to get their hands dirty when the threat was still manageable.
+> >
+> > Berechiah, Exemplar of Vigilance
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Judgement is key, but while we hear a great deal about the importance of accepting the consequences of actions taken, people are amusingly reticent to talk about accepting the consequences for actions *not* taken. Inaction is a choice, just as action is. If you choose not to stop the threat to your family now, you must be prepared to live with the consequences of that decision as well.
+> >
+> > Berechiah, Exemplar of Vigilance
+
+## An Inspiration
+
+- **Creating an inspirational location dedicated to Berechiah will have certain definite effects**
+- **The location created will determine what other effects take place or opportunities are presented**
+
+Choosing where to [consecrate](../../out-of-character/rules/Consecration.md) an [inspirational location](../../mixed/government/synod/Inspirational_location.md) dedicated to [Berechiah](../religion/Berechiah.md) will obviously impact the final outcome, but the mere fact of creating it will have certain predictable effects. The Vigilance assembly has only just consecrated an inspirational location dedicated to the exemplar [Major Joshua Benson the Bellringer](Pruning_shears.md) in [the Marches](../nations/the-marches/The_Marches.md). A second such location in such a short period of time is noteworthy. It would be seen by many Imperial citizens both as a warning that there are many threats to their safety, but also as reassurance that the virtuous are looking out for them.
+
+Certain effects of creating the inspirational location can be predicted with certainty, regardless of where is chosen. The mere fact of celebrating the inspiration of Berechiah will lead to certain outcomes. The choice itself, however, will influence those outcomes and likely lead to other [opportunities](../../out-of-character/game-design/Opportunity.md) depending on the locale.
+
+### Unblinking Eyes
+
+- **For a year after the consecration, there would be a significant boost to congregations preaching about Vigilance**
+- **Statements of the Vigilance Virtue assembly would be as likely to lead to mandates or similar responses as those by a National assembly**
+
+The story of Berechiah's life is inspirational in itself. An orphan from Tassato who rises to become a powerful, wealthy citizen of [the League](../nations/the-league/The_League.md), then becomes [Highborn](../nations/highguard/Highguard.md) in pursuit of virtue. A character that embodies Vigilance, that whatever his flaws remains committed to rooting out threats to the people of the Empire and destroying them. Possessed of a rebellious streak that causes him to step outside the strict bounds of law to bring down those who might have felt they were beyond its reach. People love a bad boy with a heart of gold, after all.
+
+For one year after the Synod creates an inspirational location dedicated to Berechiah the [congregations](../../out-of-character/rules/Congregation.md) of those [Synod priests](../../mixed/government/synod/Member_of_the_Synod.md) who [preach](../../out-of-character/rules/Congregation.md#downtime-options) Vigilance will swell, granting each of them an additional dose of liao and 2 votes in the Synod. Furthermore, any [statement of principle](../../mixed/government/synod/Statement_of_principle.md) in the Vigilance Assembly that achieves a [greater majority](../../mixed/government/synod/Judgement.md#greater-majority) will be examined with interest by priests and layfolk alike, making it more likely there will be some sort of response - as if it had come from a National Assembly.
+
+### Shine a Light
+
+- **For a year after the consecration, the Vigilance assembly could direct the virtuous to seek out and help deal with threats**
+- **This would require a mandate and naming a specific territory**
+
+For a year after the inspirational location is completed, the Vigilance Assembly will be able to select a territory on which to focus the eyes of the virtuous. For the next year, the Assembly of Vigilance would be able to propose the following mandate:
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We prepare for malice, but must always thwart malice before it strikes against you. We send (named priest) with 25 liao to (named territory) to urge all vigilant citizens to seek out threats and drag them into the light.
+> >
+> > Synod Mandate, Vigilance Assembly
+
+This would function similarly to the [Eyes of Prosperity](Apples_from_a_tree.md#an-unspent-coin): the Vigilant from across the Empire would travel to the territory and work with pilgrims there to root out threats. Some they might be able to directly confront, others they would identify and draw to the attention of the Vigilance assembly. Their focus on things that are currently directly threatening their fellow Imperial citizens, or that have the potential to do so in the near future, rather than historical problems. In particular if the territory contained a spy network or espionage ring, they would be very likely to uncover it and may be able to destroy it - although that might require additional resources or actions. If there are active organisations inimical to the safety of Imperial citizens, they will try to expose or destroy them.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The Empire badly needs someone like me. It needs someone to take a lantern into the nasty places, where the virtuous cannot go for fear of getting their boots dirty.
+> >
+> > Berechiah, Exemplar of Vigilance
+
+It would be best if the Assembly *tries* to direct the Vigilant toward specific problems in the territory, by adding a sentence beginning "Of particular concern are/is..." to the end of the mandate. Once unleashed, however, the Vigilant would go where their virtue led them. If they raise multiple mandates of this nature in the same season, they would be considered to be in competition with each other.
+
+The act of sending the Vigilant, inspired by Berechiah, into a territory would be something of a two-edged sword. While they would root out threats, they would also look for evidence of corruption, criminal malfeasance, and the like. Their investigations would cause disruption, although the exact nature of the disruption would depend on the territory. The likely outcome would be a penalty to the production of appropriate personal resources - for example if the Vigilant were sent to a League city their investigations would likely cause a penalty to the production of Businesses for a season.
+
+**OOC Note:** The intention here is not to create an unstoppable army of Vigilance followers who will solve the Empire's problems for them. Rather, in most cases using this power will create a wind of fortune that identifies threats in the chosen territory and proposes ways player characters could address them. It's important to appreciate that this tool *cannot* be wielded without members of the Vigilance assembly taking the law into their own hands - albeit hands guided by a strong and sincere appreciation of Vigilance. The solutions that are outlined may well involve criminal or legally dubious actions, or acting on information gathered by shady means. That's the inspiration of Berechiah!
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > If you discover that someone is a threat why should you scurry off to ask a magistrate to agree with you? Do you not trust your own judgement? I trust my judgement, and no judge should shy away from wielding an axe if they think the threat merits it.
+> >
+> > Berechiah, Exemplar of Vigilance
+
+> *In-character text:*
+>
+> “Legality is a matter for lesser minds; I am concerned with Vigilance and ensuring that it is upheld. There are few prices too great to pay, and few alleys too dark to explore, when the prize is the Virtue of immortal souls.” - From “*Necessary Actions of a Virtuous Sinner*”
+
+### A Paper Shield
+
+- **Berechiah considered Virtue to be more important than adherence to the law**
+- **While he was not shy about invoking the authority of Imperial powers, he also encouraged people to take matters into their own hands**
+- **While the inspirational location stands people will be less likely to seek the magistrates to solve their problems**
+- **Statements by any Assembly that stress the need to follow Imperial law rather than virtue will be unlikely to lead to a mandate**
+
+Berechiah famously thought that no set of laws - even laws as reasonable and well-thought-out as those of the Empire - should constrain the Virtuous in pursuit of threats. The tenets of Vigilance make no mention of obeying the law or working with the magistrates. The virtuous do not go out of their way to flaunt the law, but neither do they let it stop them when they need to do what is right.
+
+As long as an inspirational location dedicated to Berechiah stands, it will have a quiet but far-reaching influence not only on the Synod but on the Empire as a whole. Statements of principle that urge people to obey the law over Virtue, or that involve letting the "proper authorities" deal with a threat or danger, will not lead to any mandates.
+
+More subtly, the Virtuous will become less likely to hand problems over to the Magistrates, and more likely to take direct action themselves. There won't automatically be a dramatic upsurge in lawlessness, but the magistrates will find their job more difficult because the people of the Empire will be less likely to look to them to solve their problems. When a [thresher](../nations/the-marches/Thresher.md) identifies someone who has been cursing their neighbours fields, they'll take direct action to put a stop to them. When a League mountebank identifies that someone is taking money from a Grendel to spy on their neighbourhood, they'll make that person disappear rather than report them to the magistrates and wait for them to deal with it.
+
+There'll also be a tendency to turn a blind eye to crimes the Vigilant consider minor, petty, or victimless. Or use evidence of those crimes to coerce criminals into helping to locate or confront a larger threat. As Berechiah pointed out, Virtue does not require the Vigilant to immediately appraise the law of their suspicions, nor are blackmail or threats against that law.
+
+### Aspirational Goals
+
+- **Creating an inspirational location dedicated to Berechiah might inspire further discussion about the role of the paragons and exemplars**
+
+In life Berechiah was a committed [aspirationalist](../../mixed/government/synod/Schools_of_thought.md#aspirationalism). He belonged to a [school of thought](../../mixed/government/synod/Schools_of_thought.md) that holds that the distinction between [paragons and exemplars](../../mixed/government/synod/Paragons_and_exemplars.md) is purely political, and has no benefit to the Way. Either someone is inspirational or they are not; the important thing is that these figures encourage the Virtuous. Historians point to certain elements of Berechiah's life - his very public pilgrimage to Bastion, for example, or the possibly apocryphal tale that he left instructions for his final book of writing to be published only *after* he was recognised - as evidence of a man who was deeply cynical about the [judgement](../../mixed/government/synod/Judgement.md) of [Recognition](../../mixed/government/synod/Recognition.md).
+
+Creating an inspirational location tied to Berechiah cannot help but strengthen the aspirationalism movement. With the current [renewal of faith](Part_of_this_together.md#renewal-of-the-faith) prompted by the [Doctrine of Enlightenment](../religion/The_Doctrines_of_the_Faith.md#the-doctrine-of-enlightenment), it is likely to encourage interest in a discussion of the role of paragons and exemplars, the [signs of the paragon and exemplar](../../mixed/government/synod/Signs_of_the_paragon_and_exemplar.md), the judgement of Recognition, and the ([quite topical](Despise_treachery.md#not-by-words-or-deeds-alone)) question of whether someone can be inspirational while also being a massive arsehole.
+
+## The Impact of A Good Story
+
+- **The Civil Service have located three places that would make a powerful inspirational location dedicated to Berechiah**
+
+Along with these three predictable outcomes, the location chosen will lead to at least one additional opportunity or situation related to which aspect of Berechiah's life has been highlighted as especially inspirational. The Civil Service has identified three locations that particularly resonate with the life of Berechiah that might be consecrated with a notable effect. In accordance with the [Writ of Consecration](../../mixed/government/synod/Writ_of_consecration.md) they have prepared three mandates to empower a named priest to create an inspirational location, provided they have the support of the General Assembly.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Berechiah was an inspiration to all who prepare for malice, and seek to thwart it. We send (named priest) with a dose of true liao to consecrate the damaged basilica in Bastion in the name of Vigilance.
+> >
+> > Synod Mandate, General Assembly
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Berechiah was an inspiration to those who seek the poison in their neighbours fields, lest their own be blighted. We send (named priest) with a dose of true liao to consecrate his tomb in the Necropolis, in the name of Vigilance.
+> >
+> > Synod Mandate, General Assembly
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Berechiah was an inspiration to those who seek out falsehood and reveal the truth. We send (named priest) with a dose of true liao to consecrate the Ringblack Shrine in Tassato Regario, in the name of Vigilance.
+> >
+> > Synod Mandate, General Assembly
+
+In each case, it's impossible to predict what additional effects the consecration of a specific location might have, or [opportunities](../../out-of-character/game-design/Opportunity.md) it might create. Each of the three locations, however, would flavour the inspiration of Berechiah in a slightly different way, allowing for some speculation about what might happen if they were chosen.
+
+### The Basilica in Bastion
+
+- **Berechiah's Basilica is in a parlous state and would likely need restoring**
+- **It represents a location resonant with Berechiah's actions as a protector of the Empire**
+
+Just over thirty years ago in 303YE, during the furore following the publication of “*The Necessary Actions of a Virtuous Sinner*”, the basilica of Berechiah in Bastion was badly damaged. While the Synod furiously debated the flagrant claim that virtue - and especially the virtue of Vigilance - neither knew nor cared what mortal lawmakers might attempt to claim was appropriate behaviour, person or persons unknown set a fire that did significant damage to the structure. The damage has never been repaired. Some point to opposition from the [Pride](../religion/Pride.md) and [Loyalty](../religion/Loyalty.md) assemblies, others mutter darkly about the Senators who Berechiah held to account by exposing their weaknesses and corruption. It's most likely that the Empire simply had bigger fish to fry - or in this case fight - as the vandalism happened during the early years of the reign of [Empress Deanne](../history/Empress_Deanne.md) when the main focus was trying to stop the [Grendel](../barbarians/Grendel.md) conquering the southern Imperial coast.
+
+The *[Custodes Clavium](../../mixed/government/synod/Recognition.md#outcome)* maintain the site as best they can, but if it is to become a major site of pilgrimage, they warn that it will require some significant refurbishment. Enough that a [commission](../../mixed/commissions/Commission.md) would be required to restore it to the point it is not a threat to life-and-limb of visiting pilgrims. The commission could come in the form of a Senate motion, or from any title with the ability to commission a [sinecure](../../mixed/commissions/Sinecure.md). Their rough estimate at the moment is that such a commission will need *at a bare minimum* 10 wains of white granite and 5 wains of weirwood to restore the structure fully. There would be no labour costs; the *Custodes Clavium* are keen to get to work, especially given the vague threat that the entire structure might collapse dumping tons of stone into the neighbouring streets.
+
+There's no doubt that if the basilica were restored, it would likely bring with it an opportunity to create an [Imperial title](../../mixed/titles/Imperial_title.md) - there is some talk of a *Clavem Iudicii* (which translates roughly from Old Asavean as "Key of Judgement" referencing a famous quote from the exemplar). They'd likely receive [liao](../../mixed/religion/Liao.md), have responsibilities around encouraging the Virtuous to seek out threats and confront them, and might in theory accrue additional benefits and responsibilities. It remains to be seen exactly what form this title would take. *Not* restoring the basilica would not prevent it becoming a place of pilgrimage. Priests and pilgrims still visit the damaged basilica despite the small but extant risk that they might get injured by falling roof tiles or buried under a collapsing wall.
+
+Other additional effects from consecrating this location are likely to focus on the Imperial level; threats to the borders of the Empire. Foreign espionage rings and spy networks; the machinations of other nations; the business of the Senate, Synod, Military Council, Conclave, and Bourse. The big, impactful things. It would be much less likely to deal with the smaller, more local threats such as cults of eternals, malign entities, petty sorcerers or criminals or the like.
+
+### The Mausoleum of Shifty Bertolli
+
+- **The tomb of Berechiah stands in Necropolis**
+- **It represents Berechiah's inspiration as someone who grew up poor, and sought to protect Imperial citizens rather than Imperial institutions**
+
+While many assume his body rests in the vaults of his chapter in Sybella, Berechiah is actually interred in a small but tasteful mausoleum in the [Necropolis](../nations/highguard/Necropolis.md#the-necropolis). Berechiah arranged the site and paid for the tomb to be built under his old name of "Bertolli di Tassato" which is why it is often discounted by historians. Consecrated with True Liao, the tomb would become a place of pilgrimage for those inspired by the story of Berechiah the man - the orphan who made a fortune in Tassato, followed Virtue to Highguard, and when he died left all his money to found and support orphanages and schools. A figure who fought to protect Imperial citizens, and to empower them to seek out threats before they became serious enough to cause harm.
+
+Part of the impact of consecrating this location would be an emphasis on teaching the young about Vigilance, encouraging them to follow where Virtue leads, and potentially seeking to create "three new Berechiahs". It would also encourage people who wanted to "*take a lantern into the nasty places, where the virtuous cannot go for fear of getting their boots dirty*." Any additional inspiration would be about encouraging people to stay alert for threats and identify them before they reach their full potential, and about keeping an eye on neighbours and strangers looking for signs of danger. Local, immediate threats rather than things that threaten the entire Empire. Cabals corrupted by Agramant, cruel landlords, organised criminal enterprises, and the like.
+
+It would also likely have an impact on the [sodality](../../mixed/government/conclave/Imperial_sodality.md) of the [Silent Bell](../../mixed/government/synod/Silent_Bell_-Sodality.md). Already somewhat galvanised by the inspiration of Major Benson, it would likely prompt a shake-up of how they approach their role as watchers and investigators, how they recruit members, and their relationship with the Synod.
+
+### The Printer's Shrine
+
+- **The printer's hall in Tassato Regario where Berechiah's books were published is now a shrine of Vigilance**
+- **It resonates with the inspirational stories of individuals fighting against wickedness, spreading stories of Vigilant heroes**
+
+The small printing guild of *Moor's Mill* in Tassato Regario printed several of Berechiah's works. They are perhaps best known as the publishers of “*The Necessary Actions of a Virtuous Sinner*.” The guild is gone now; they shut down twenty years ago. There doesn't seem to be anything particularly sinister in this; Merchant-Prince Maria Moor di Tassato Regario was apparently well paid with monies set aside by Berechiah, and following the backlash against her and her guild after the publication of *Necessary Actions* she shut down the press and bought a nice orange orchard in [Enterio](../nations/the-league/Tassato.md#enterio) where she lives to this day.
+
+The printworks were abandoned and as is traditional in Tassato, quickly taken over by the neighbours. In a slight twist of events, however, rather than being used as a doss house or a front for some dubious ill-thought-out enterprise, the printworks were converted into a shrine. A mix of [bravos](../nations/the-league/Bravo.md) and [mountebanks](../nations/the-league/Mountebank.md) used the place as a base of operations from which to watch the surrounding neighbourhood, doing a surprisingly effective job of dealing with small threats. They also used the damaged printing press to publish a sporadic periodical called "Stories of the Vigilance" in which plucky Imperial citizens take on and help defeat cults of [Agramant](../eternals/Agramant.md), [vyig](../nations/varushka/Vyig.md) schemes, wicked [Whisper Gallery](../eternals/Whisper_Gallery.md) inspired plots, embezzlers, and corrupt politicians. They're quite popular in some quarters, apparently. Certainly popular with a certain Tassatan civil servant who remembered reading them in their youth.
+
+The current congregation is more than happy to work with the Vigilance assembly if they wish to make this place an Inspirational location. It might be a mixed blessing, but the place strongly resonates with the elements of Berechiah's life that are about direct action - about investigating and uncovering threats and confronting them personally, about taking responsibility for keeping your home safe, about exposing threats publicly - and about commemorating the people who do such things. It would also likely prompt an increased interest in broadsheets and ringblack novels throughout the Empire.
+
+One incidental effect is likely to be felt specifically in [the League](../nations/the-league/The_League.md). [Recent events](The_troubled_words.md) in [Holberg](../nations/the-league/Holberg.md) relating to [sword scholars](../nations/urizen/Sword_scholar.md), [Emperor Frederick](../history/Emperor_Frederick.md), *[mandate of Erasmo di Tassato](../synod-judgements/385YE_Spring_Equinox_Synod_judgements.md#judgement-62)* and its [outcome](385YE_Summer_Solstice_winds_of_fortune.md#sword-scholars-in-holberg) and the influence of the [audacious](../barbarians/Grendel_religion.md#audacity) Apulian [orcs](../../mixed/world/Orc.md) with their own particular [take on Vigilance](../barbarians/Grendel_religion.md#vigilance) are likely to combine with ringblack novels about the glamour of fighting crime to have a profound influence on the bravos of the League. Probably a positive one, depending on where you are standing.
+
+## Further Reading
+
+- [Berechiah](../religion/Berechiah.md)
+- [Vigilance](../religion/Vigilance.md)
+- [Writ of Consecration](../../mixed/government/synod/Writ_of_consecration.md)
+- [True Liao](../../mixed/religion/Liao.md#true-liao)
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [385YE Winter](../../indexes/by-category/385YE_Winter.md), [Recent History](../../indexes/by-category/Recent_History.md), [Mandate](../../indexes/by-category/Mandate.md)

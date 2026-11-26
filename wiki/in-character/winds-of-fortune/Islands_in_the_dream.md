@@ -1,0 +1,215 @@
+---
+title: Islands in the dream
+source: https://www.profounddecisions.co.uk/empire-wiki/Islands_in_the_dream
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 388YE Autumn
+- Highest Calling
+event: 388YE Autumn
+last_edited: '2026-09-09T01:56:00Z'
+revision: 145330
+in_character_boxes: 1
+---
+
+# Islands in the dream
+
+> *In-character text:*
+>
+> Caston smoothed out the rough bed and then carefully lay down on it. It was midday, the sun was still shining and there was plenty of work to be done. He wasn't remotely tired, but their guests had so many questions and they wanted answers. Answers only the ancestors could provide.
+>
+> There was nothing for it. He was just going to have to go and talk to them in person.
+>
+> He closed his eyes, relaxed every muscle and concentrated on his breathing, feeling the air entering and leaving his lungs. Once his chest began to rise and fall more slowly, he looked around his mind for the entrance to the Dark Forest. He imagined himself in the woods near his home, searching for mottlecops for the evening feast. That was usually the easiest way to locate the doorway.
+>
+> With an ease born of decades of careful practice, the dimwalker drifted off to sleep.
+
+*[Image: All orcs hear voices, but it is quickly becoming clear that not every orc hears them in the same way.](https://www.profounddecisions.co.uk/empire-wiki/File:ImperialOrc.jpg)*
+
+## Overview
+
+- **The Imperal Orc assembly seeks to learn more about the ancestors of the Dreamers of the Dark Forest**
+
+Since **Bloodcrow Knott** declared the [highest calling](The_highest_calling.md#highest-calling) of the [Unshackled](../nations/imperial-orcs/Imperial_Orcs.md) assembly to be [seeking the ancestors of other septs](Every_day_of_your_life.md#spanning-the-abyss), the Imperial Orcs have reached out to the [Karass](../religion/Seeking_the_Karass.md) of [the Barrens](../nations/dawn/The_Barrens.md), and to the [Great Forest Orcs](../religion/Beliefs_of_the_Great_Forest.md#from-the-illarawm). At the Summer Solstice, **Bloodcrow Meep** was chosen to [lead an approach](../synod-judgements/388YE_Summer_Solstice_Synod_judgements.md#judgement-93) to the small sept in eastern [Ossium](../nations/varushka/Ossium.md) known as the [Dreamers of the Dark Forest](Culling_the_threat.md#the-dreamers-of-the-dark-forest).
+
+The Dreamers are something of an unknown quantity. They ignored the opportunity to leave the former [Druj](../barbarians/Druj.md) territory to travel to [Skarsind](../nations/imperial-orcs/Skarsind.md) and like the [Menrothat](Blood_makes_noise.md#the-sept-of-the-menrothat) show no interest in joining the ranks of the Unshackled. Unlike the other Ossium sept, however, they have demonstrated that they are prepared to work directly with the Empire. Three years ago, when the [Varushkans](../nations/varushka/Varushka.md) strove to secure their border against [the Mallum](../barbarians/The_Mallum.md), the *Dreamers* were enlisted to help keep the Druj at bay. A joint effort by the Varushkan and [Highborn](../nations/highguard/Highguard.md) assemblies, [endorsed](../senate-sessions/385YE_Summer_Solstice_Senate_sessions.md#authorise-supplying-dreamers-of-the-dark-forest) by the Senate, saw the sept armed and armoured and given license to hunt out and destroy Druj raiding bands, guerillas, and spies. Since then, they have enthusiastically discharged this duty while still maintaining a clear distance between themselves and the Varushkan rulers of their territory. Very little is known about them apart from the fact they despise the masters of the Mallum, and so Bloodcrow Meep and their allies cannot be certain of the kind of welcome they will receive.
+
+In the end a decision is made to bring a small number of Varushkans and Highborn along who have experience dealing with the Dreamers - those initially inspired by the [mandates](../../mixed/government/synod/Mandate.md) of **[Wildfyre of Balthazar's Vineyard](../synod-judgements/385YE_Summer_Solstice_Synod_judgements.md#judgement-114)** and **[Anatolij Paukov Zorkin](../synod-judgements/385YE_Summer_Solstice_Synod_judgements.md#judgement-163)**. While the Unshackled mystagogues and shamans will take the lead, the humans can still provide some insight into the customs of this unfamiliar sept.
+
+## Who Were You?
+
+*[Image: Assembly ImperialOrc.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_ImperialOrc.png)*
+
+*[Image: Assembly Varushkan.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Varushkan.png)*
+
+*[Image: Assembly Highborn.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Highborn.png)*
+
+- **The Dreamers of the Dark Forest are still something of an enigma**
+- **While guarded they are well disposed towards the people of Varushka and Highguard**
+- **They despise both the Druj and the Thule**
+
+The Dreamers of the Dark forest are a sept that occupies part of the [Echofell](../nations/varushka/Ossium.md#echofell). Their main settlements lie near the [Bonehives](../../mixed/titles/Keeper_of_the_Bonehives.md#the-bone-hives), where some of their number were once forced to work for Druj overlords. Since the liberation of the territory they have shown no interest in returning to those positions.
+
+When they were first contacted by the Empire there was speculation that they have a connection with the [Great Forest Orcs](../barbarians/Great_Forest_Orcs.md), although they seem ignorant of any connection if one exists. The sept was relatively small and insular, but there had been some effort from the Varushkans and the Imperial Orcs both to make contact with them. It was during an [appraisal](../appraisals/Appraisal.md) by *[Naomi of Virtue's Rest](../appraisals/Appraisal.md#naomi-of-virtues-rest)* that they first became of particular interest to the Empire. After speaking with the leaders of the Dreamers, Naomi discovered that they could be convinced to fight the Druj at their own game, if they had the means to do so.
+
+As with many subjects of the Druj that they don't fully trust, the Dreamers had few if any weapons of war or experience in battle. They were however very eager to fight the Druj, despite their lack of weapons or training. The Highborn National Assembly had reached out to support the people of Varushka as they treated with the orcs and Naomi herself is from Highguard. It is no surprise then that when she contacted a number of [unconquered](../nations/highguard/Unconquered.md) of her acquaintance to discuss the issue with them, they pointed out that when the Imperial Orcs joined the Empire, Highborn soldiers supported them with gifts of weapons and armour. They suggested that it might be possible to kill two birds with one stone; help protect Echofell and encourage good relations with the independent orcs in Ossium. For the next year, the Dreamers were supplied weapons, armour, and most crucially the training to use both effectively. They took to the instruction quickly, and developed their own spin on traditional tactics by incorporating their own experience with hunting and stealth.
+
+There was a risk of course: it was impossible to determine what the long term effects of arming the Dreamers would be. Giving them weapons and armour certainly improved relations, and made them more positively inclined to both Varushka and Highguard. But the sept expressed no interest in becoming Imperial citizens, nor in adopting the Way. They had - have - their own religion, their own leaders, and their own laws. They also had their own enemies and ambitions, it seemed. They hate the Druj, but it is clear they don't think much better of [Thule](../foreign-nations/Thule.md), and they also loathe the Menrothat although exactly *why* they despise them is hard to fathom. They turned the weapons they had been provided on the Druj, but they also apparently used them to keep other septs of orcs at bay as enthusiastically as they used them on the Mallum.
+
+That is not to say that they have remained completely isolated; in the last couple of years there has been regular trade of herbs, game, and goods with their Varushkan neighbours. Twice a year in Spring and Autumn a contingent of Dreamers make the long trek through the marshes to [Stinking Market](../../mixed/titles/Merchant-Boyar_of_the_Stinking_Market.md#stinking-market) in the [Drownbark Forest](../nations/varushka/Ossium.md#drownbark-forest) where they sell the spoils of their ongoing raids against the Druj and purchase worked metal goods. While they are skilled at working with wood and leather, there are few smiths among the Dreamers. They have neither the ore nor the expertise needed to craft anything save the simplest metalwork, and so such items have particular [worth](../nations/imperial-orcs/Worth.md) to this small sept.
+
+*[Image: The shadows beneath the boughs are deeper, and more dangerous.](https://www.profounddecisions.co.uk/empire-wiki/File:WondrousForests.jpg)*
+
+## Who Are You?
+
+- **The Dreamers of the Dark Forest are inspired by the magical dreams swirling around Ossium this season**
+- **The Unshackled are able to meet the three *dimwalkers* who lead the sept**
+
+The trip to speak with the Dreamers almost founders before it can begin. Ossium has been [enchanted](../../out-of-character/rules/Enchantment.md) with a unique magic that [occludes passage through woodlands](Shadowed_boughs_of_twilight.md#twisted-paths). Even familiar woods can turn treacherous and confusing, and the Echofall is by no means a tame forest. Less than six hours after entering the woods, the Unshackled party is hopelessly lost. [Gralka's Gift to the Lost Seeker](../../mixed/magic/rituals/Gralka-s_Gift_to_the_Lost_Seeker.md) is able to pinpoint the location of the travellers, but it turns out to be no help in finding anywhere else. It would be easy to panic but level heads keep everyone calm. After a fretful night lost in the woods, however, an orc-like figure appears dressed in bright coloured clothes in the Varushkan style with a cloak of rainbow feathers and a lantern that turns out to be a glass jar full of moths. This [herald](../eternals/Inhabitants_of_the_realms.md#heralds) of the *[Night Singer](../eternals/Sung.md)* has been dispatched by her mistress to make sure that the winding paths do not delay the Unshackled in their endeavour. The *Rainbow Serpent*, it seems, approves of the Imperial Orcs' highest calling and the same magic that confounds their journey makes it easy for her to send her herald to aid them.
+
+A lot can change in three years, especially in a place like Ossium. When the Unshackled and their human advisors arrive, they find the Dreamers of the Dark Forest quite different to how they were in 385YE. Almost as soon as they venture into territory claimed by the Dreamers, the Imperial group is intercepted by a patrol of a dozen serious orcs. Their weapons and armaments - bows, swords, and shields bearing the sigil of the black tree and six multicoloured stars - are practically antiques but there are also relatively new Varushkan axes and segmented armour on display. They are cautious but by no means unwelcoming, carefully questioning their visitors and providing them with a small honour guard to the large village of *Dimmorden*.
+
+*[Image: Caston, Dimwalker of the Dark Dreamers, Dayfall, Echofell, Ossium.](https://www.profounddecisions.co.uk/empire-wiki/File:WingedMessenger.png)*
+
+Gone are the ramshackle huts that were all the Druj allowed them. In their place stand proud new structures of hardwood and stone surrounded by the kind of defensive wall familiar to any Varushkan, needful to keep the predators of the dark woods at bay. The settlement is also easily twice as large as it was when the Empire was last here in any official capacity. The warriors escorting the Unshackled explain that a few years ago several hundred of their kin captured by the *Iceblood* - a disparaging term for the [Thule](../foreign-nations/Thule.md) - joined them from [Webwood](../nations/varushka/Ossium.md#webwood). Apparently the orc rulers of northern Ossium had tried to persuade them to stay, but when they refused had begrudgingly allowed them to leave - although it has done nothing to endear the folk of Otkodov to the Dreamers.
+
+Dimmorden is overseen by three "dimwalkers" - respected orcs who represent the three extended families that make up the Dreamers of the Dark Forest. Between them they guide the sept, relying on the wisdom of the ancestors which they glean from their dreams. Obviously, this excites the interest of the mystagogues and shamans, and it seems the dimwalkers are equally eager to speak to the Unshackled. It seems they have been expecting their arrival, having received dream portents that warned them of the Empire's approach.
+
+This news rouses particular interest in the magicians accompanying the expedition. Apparently the Dreamers are quite excited that over the last several weeks their dreams have been particularly vivid and powerful, and even the least insightful among them record night time visits to the Dark Forest that underpins the waking world. A few of their magicians have pointed out that this is the result of an [enchantment](../../out-of-character/rules/Enchantment.md) laid over the whole of Ossium, a clever weaving of the [Spirit](../../out-of-character/rules/Night_magic.md), but where it comes from does not matter to the Dreamers as much as the way it helps them hear their ancestors.
+
+Intrigued, the Unshackled settle down to discuss matters of ancestors and spirits with the dimwalkers.
+
+## The Dream
+
+- **The Dreamers of the Dark Forest have mystical beliefs about ancestors and the Howling Abyss**
+
+There are some ancestors that are particularly important to the Dreamers of the Dark Forest, called the First Dreamers. Each one was the head of a family of orcs who swore binding oaths of loyalty and support to the others at the creation of their sept. The dimwalkers don't talk about where these families came from, but explain that at first they were rivals but they were forced to work together in the face of possible destruction, and that forged bonds of community between them. The First Dreamers made those bonds real.
+
+Their given names aren't used and aren't spoken to anyone save another dimwalker. Instead they are referred to by descriptive nickname - Redhand, the defender, who wielded two terrible blades to strike down anyone who threatened the sept; Keeneye, the watcher, who remained vigilant for enemies and struck them down with deadly arrows; and Threadsnap, the weaver, who read the ripples of future and past in his magical loom. While the voices of the First Dreamers are often the loudest, they rarely speak directly to their descendants except in times of dire need. Some young orcs mark themselves with tattoos that indicate the connection they feel to one of the First Dreamers, usually on the forearms. These are a cultural rather than metaphysical thing - such orcs are no more likely to hear a given ancestor but they use the tattoos to indicate which of the dreamers' words they find particularly compelling.
+
+There are however an almost unlimited number of other ancestors that speak to the Dreamers when they sleep. The Dreamers believe that the waking world of solid objects and people is underpinned by the world of dreams. The two exist side by side, separated by a curtain of shadow. When someone is awake they can only see the mundane world, but when they hover on the edge of sleep they can sometimes glimpse through to the primordial world of dreams that is the foundation of reality. When people sleep, their spirits are free to explore the world of dreams and that is where the ancestors exist. They characterise it as the Dark Forest, a primordial space just out of reach of the waking world from which flow all sapient things, whether orc, human, animal, or tree. This rouses obvious interest but it appears that the Dreamers believe that human spirits come from the same place as orc spirits (and the spirits of trees and ox and what have you) and probably return there when they die). For the most part they don't worry about what human ancestors get up to - the first time they learned that humans believe they reincarnate was when they met the Highborn. It seems an odd idea to the dimwalkers, but they cheerfully point out that it would be incredibly rude for any orc to tell a human what their beliefs should be. One Varushkan casually asks if they think orcs can reincarnate and again they find the question odd. If humans can do it, orcs could probably do it (the word "better" is left unspoken). But why would they want to? And what would it even look like if an ancestor were born into the world of flesh again?
+
+They are very clear that only those who dream are truly people; they firmly believe that creatures such as [mora](../nations/varushka/Varushkan_Monster.md) or (controversially) the Thule are not really people because they do not really dream. They are no more people than rocks are. There is disagreement about heralds and creatures of the realms, but the Dreamers frankly don't have enough experience of them to have formed a strong opinion. Ghosts, incidentally, are also not people because they cannot dream - the Dreamers equate ghosts with the Nightmare or the Howling Abyss and teach their children to avoid them at all costs. There are also ways to cut people off from dreams, and doing so is a terrible crime that they believe ultimately causes anyone condemned to that state to go mad, die, and be immediately claimed by the Nightmare. This is one reason they have a deep-rooted distrust of [Wise Rangara](../eternals/Wise_Rangara.md) in particular, who they view with the same dread many Imperials reserve for Agramant.
+
+Following some further exploration, the dimwalkers are clear that this world is not the [Night realm](../eternals/Realm.md#night). They're aware of that place and the [creatures](../eternals/Inhabitants_of_the_realms.md) that dwell there but it is not the Dark Forest or the world of dreams. The realms are likewise underpinned by the Dark Forest, and those closest to it in concept (the Night realm, and the realms of Spring and Winter) show that closeness with their forests. The Autumn and Day realms are furthest from the primal dreaming and that is why they are described in such unsettling and unnatural ways.
+
+The Dark Forest is where the ancestors exist after they leave the waking world. Only a few orcs have the strength of spirit to become ancestors; other orcs become one with the forest and enjoy peaceful sleep in the shape of trees and animals of the dream. Any Dreamer of the Dark Forest might meet an ancestor when they sleep, especially when they are worried, frightened, angry, or otherwise in need of good advice. It is also clear that the Dreamers hear their ancestors when they are awake, just as other orcs do, but here the conversation takes a darker turn.
+
+According to the dimwalkers, the thing the Imperial Orcs call the [Howling Abyss](../nations/imperial-orcs/Imperial_Orcs_religious_beliefs.md#the-howling-abyss) is a part of the dreaming world from which all bad things are born. Just as the Dark Forest is the ultimate source of mortal spirits, so the "Nightmare" is an endless chasm that seeks to consume those spirits. Howling Abyss is as good a word as any but the Unshackled, and most other orcs, are misled about its nature. It doesn't entirely consume the spirits that fall into it. Rather it hollows them out, consuming everything about them that is wholesome. Most spirits that fall to the Abyss are too weak to leave it and become part of its churning malignant chaos. Some however are strong enough to rise again, as ancestors that encourage their descendants to undertake selfish, self-destructive, corrupt actions.
+
+When someone is asleep they can always tell if they are listening to a good ancestor or a bad ancestor. The dimwalkers explain that this is a simplistic way of looking at it, but that it would take far too long to explore all the metaphysical underpinnings, much more than the handful of weeks available. Dreamers are taught from a young age what signs to look for to help them understand if they are dreaming of a good ancestor who wants to help them or an ancestor that wants to drive them down the path to the Howling Abyss. When awake, though, those signs are not visible. All an orc has to go on is the voice, and that is not enough. As a consequence, the Dreamers of the Dark Forest are *very* careful about listening to the ancestors that speak to them when they fight or are otherwise worked up. Sometimes it's obvious that an ancestor is good or bad based on the kind of words they speak - an ancestor urging someone to strike down their sibling and take their sword is clearly a bad ancestor. One of the gifts of the three original dreamers - Redhand, Keeneye, and Threadsnap - was the framework that allows the Dreamers to judge if an ancestor is good or bad.
+
+One of the reasons they despise the Menrothat is because the orcs of that sept believe that the waking world is a dream, and that they embrace the words of the bad ancestors fuelled by Nightmare in the same way the Druj do. They are still better than the Thule - but only just.
+
+### Six Lights
+
+- **The spiritual life of the Dreamers is guided by six precepts that help one become a "good" ancestor**
+- **Orcs who abandon or subvert these principles are consumed by the Nightmare**
+
+There are six core principles that determine if an ancestor is good or bad. They are:
+
+- **Camaraderie:** The Dreamers of the Dark Forest are family, bound together by bonds of blood, spirit, and oaths. When one is hurt, all are injured. When one weeps, all are sad. Always support your fellow, and believe that they in turn will support you.
+- **Insight:** Weapons are good, but they all start with knowledge and understanding. Before you can have a spear, you must make a spear, and before you can make a spear, you have to understand how a spear is made. Learn everything you can, because the more you know the more prepared you are for whatever the world throws at you. This is the lesson of Threadsnap.
+- **Fury:** Do not be afraid of anger, because anger is a fire that drives you forward. Anger is the way your spirit tells you something is wrong and you must do something about it. Sometimes you have to grab anger by the scruff of the neck and hold it back, but when the time comes to let it loose, the Dreamer must ride that fire and use it to do right things. This is the lesson of Redhand.
+- **Grace:** You are a unique spirit spun out of the world of dreams into the waking world. There will never be anyone exactly like you ever again. Make your life a beacon to inspire your family, and to teach your enemies fear.
+- **Obduracy:** Do not give up, no matter how difficult the path ahead seems. There is always a way towards your goal, and all you have to do is refuse to accept defeat and find a path to where you want to go. No forest is impassable.
+- **Wariness:** The world is dangerous and there are plenty of people out there who listen to bad ancestors, or who don't know how to live properly. They are your enemies, and there are thousands of them, and some come in a pleasing guise. Learn to tell the difference between friends and enemies, and when you identify one make sure your family knows to turn away from them as well. This is the lesson of Keeneye.
+
+Needless to say, this list of principles arouses a great deal of interest in the Highborn advising the Unshackled. They are very keen to learn more, but unfortunately there is little enough time to learn about ancestors.
+
+*[Image: Northern Mallum areas of control (artist impression)](https://www.profounddecisions.co.uk/empire-wiki/File:Ulnak_Military_Map.png)*
+
+### Missing Three
+
+- **There are three other ancestors the Dreamers honour whose voices have fallen silent**
+- **These ancestors are the founders of three other families trapped under the tyranny of the Druj**
+- **The Dreamers remain in Ossium because they will not abandon the half of their sept in Gul'Thak forest**
+
+It's one of the Illarawm that points out that there are three First Dreamers and six lessons. Where did the other three come from? It seems that there are three other ancestors of the Dreamers of the Deep Forest - Holdfast, the ox, who worked day and night to ensure the original Dreamers had everything they needed to survive; Bright, the torch-bearer who lit the way for her people through the darkest times; and Wordmarked, who wrote down the laws the Dreamers still live by and helped forge them into one people. Their voices have fallen silent because the Dreamers are cut in two. This is the reason they refused to leave Ossium and why they continue to fight against the Druj - not just because it is the right thing to do but because the rest of their family is still held in the Mallum. Specifically, in the [Gul'Thak Forest](../barbarians/Forest_of_Ulnak.md#ghulthak-forest).
+
+It turns out the Dreamers of the Dark Forest have no particular affection for Echofell or even for Ossium. Unlike the Great Forest Orcs, they don't conceive of the Dark Forest as a physical place - every orc carries it with them all the time. They know they will dream of the forest and their ancestors anywhere in the world. The reason they stay here is that they will not abandon those still held by the Druj. In fact, they believe they *cannot* abandon the other half of their sept and still be the Dreamers of the Dark Forest. Ultimately, they want to be reunited with the rest of their people. The two halves of the sept were separated roughly two hundred years ago at the order of a Buruk Tepel of the *Sawscaled Viper*. The reasons are unclear, but the Dreamers teach that it was because they hated and feared the bonds of community that meant that no matter how hard they tried the Druj could never entirely break their spirits, even with their [Druj miasma](../barbarians/Druj_miasma.md) and their cruelties.
+
+One of the reasons the Dreamers are excited is that their ancestors, their voices made clearer by Varushkan spirit magic, are telling them that the coming of the Unshackled presents a way for them to finally reunite with their family.
+
+*[Image: The Dreamers of the Dark Forest and the Illarawm are not in accord when it comes to ancestors.](https://www.profounddecisions.co.uk/empire-wiki/File:Illarawm.png)*
+
+### Not Sharing
+
+- **The Dreamers are not interested in "sharing" their ancestors with the Unshackled**
+
+There is some talk of whether the Dreamers would be prepared to let the Illarawm build bridges to their ancestors. The dimwalkers ask to sleep on the matter - apparently this is a common thing for any Dreamer to do when faced with a big decision. The next morning, they are somewhat divided on the issue, but in the end say that they are not interested at this time. The First Dreamers are the ancestors of their sept, and if they wanted to talk to the Unshackled they would say as much. The Unshackled are worthy of respect but they represent different septs. There's no rudeness of condemnation, the dimwalkers just aren't interested in doing more than sharing stories.
+
+Indeed there's some confusion about why the Illarawm are interested in the idea at all. Obviously the two septs have had some limited contact in the past - both are from Ossium - but the Dreamers find their [beliefs](../nations/imperial-orcs/Illarawm.md#beliefs) alien. The Howling Abyss can't be silenced; the ancestors speak to whoever they wish to. The world of dreams is ultimately an unknowable place - the only way for any mortal being to understand it is to die. They don't have a problem with the idea that Illarawm is the first ancestor, they just don't see what it should matter to them.
+
+One minor hiccup comes when the dimwalkers ask to speak to Bloodcrow Knott. Explaining that the orc who inspired this effort to reach out to septs within and around the Empire was executed for religious crimes causes a little consternation. The next morning the dimwalkers ask a few follow up questions and after that are a little more guarded in their speech.
+
+## Is Any of This "True"?
+
+- **The Illarawm mystagogues believe that the Dreamers are fundamentally wrong about the nature of the ancestors and the Howling Abyss**
+- **If the Dreamers shared their ancestors with the Illarawm, it *might* provide a way to answer the question, but they refuse to do that**
+
+There are a few raised eyebrows even among the [Illarawm](../nations/imperial-orcs/Illarawm.md). This belief of ancestors living in dreams and speaking to the living, and especially this idea that there are "bad" ancestors that try to lead orcs astray, are a little challenging. The problem is that there is some very minor evidence that *could* be read as supporting the Dreamers' position. Orcs dream of their ancestors sometimes, in exactly the same way that humans dream of their friends and family. They also dream of other orcs, or of humans they have met, or any number of other things. That's just how dreams work. Some orcs dream that something they think is an ancestor is talking to them, but there is no way to tell if that is something real or just a fantasy manufactured by the sleeping mind.
+
+Humans and orcs both know intellectually that there is a difference between dreams that come from "within" and those made by magic or potions. The Dreamers are clear that the Dark Forest is not the Night realm, but there is clearly some blurring of borders there. One of the Tamazi mentions that the Axou claim that when they use liao to [share dreams](../../out-of-character/rules/Dedication.md#dreams) those dreams often take the form of dead people talking to them, which doesn't exactly pour scorn on the idea.
+
+The dimwalkers don't claim that the ancestors are constantly visiting them in dreams, but they say that in the past it was more common than it is now. One reason, they explain, is that in the days before the Druj they had access to a plant that helped a sleeping orc seek the advice of their ancestors when they faced particularly trying times. That plant is lost to them since they were exiled from Ulnak, and they recount how the Sawscaled Viper wickedly destroyed it wherever it grew. As far as they know, it is extinct and that is another reason they despise the Druj and the Buruk Tepel. When asked if it is [black lotus](../history/Regarding_Black_Lotus.md) they say it isn't - black lotus is a legendary plant they claim was first grown by Threadsnap, and it allows a living orc to create a profound bridge to the world of dreams and speak directly to the ancestors and to each other in a lucid way that goes far beyond what the Dreamers experience. The plant they are referring to was called *dimbloom*, and they believe it has passed from the world. The closest they can get today is through the preparations of [apothecaries](../../out-of-character/rules/Surgical_skills.md#apothecary) - the [Infusions of Feathers](../../mixed/magic/potions/Infusions_of_Feathers.md) - which they say are a dim and unpredictable shadow of the past.
+
+*[Image: The Dreamers of the Dark Forest seek the military aid of the Empire to rescue the rest of their family before the Druj slaughter them all.](https://www.profounddecisions.co.uk/empire-wiki/File:Obligatory_Grud_Photo.jpg)*
+
+## A Dream of Unity
+
+- **The Dreamers of the Dark Forest are desperate to reunite their sept and free their cousins from the Forest of Ulank**
+- **Stories of the rescue of the Great Forest Orcs has raised hopes that the Empire might also help the Dreamers**
+- **Reuniting the sept would be a powerful act of diplomacy that would win their trust**
+
+While the Unshackled and the dimwalkers are talking about philosophy and ancestors, other members of the Dreamers of the Deep Forest have much more pressingly mundane concerns. While the dimwalkers are the leaders of the sept, they don't oversee every element of the day-to-day running of the community. In the same way Senators might appoint generals, a boyar oversee a vale, or an exarch run a chapter - in each case with the advice of wise ones and priests - there are secular authorities who look after things like raiding the Druj or making sure everyone has enough to eat.
+
+These are the people who *want* something from the Empire. As soon as they hear about the [events taking place in the Mallum](../winds-of-war/A_greater_darkness.md) they are convinced that their ancestors have been urging them to ask their Imperial neighbours for help. One of their great fears is that the Druj are *monsters* and they are *desperate*. *Nimon Rue* was prepared to destroy the Great Forest Orcs and lose their expertise forever just to manipulate their family in the Barrens. When they hear about their use of the vallorn in [Therunin](../nations/navarr/Therunin.md) and [Sarangrave](../nations/urizen/Sarangrave.md), it reinforces their belief that the Druj of Ulnak are more than capable of slaughtering entire septs just to deny them the liberty the Empire might offer them. The Druj will *always* destroy a thing, say the dimwalkers, rather than lose control of it. They are sure the Empire must have many examples of this from their own experience with the Druj.
+
+As such, the Dreamers beg the Highborn, Varushkan, and Imperial Orcs to rescue their septmates from the Ghul'Thak Forest before it is too late. And before the Thule - who the Dreamers consider to be barely better than the Druj - get there. The immediate problem is that unlike the Great Forest Orcs, the Dreamers are not all conveniently collected in one place. They are spread out across Ghul'Thak, and the Dreamers will not countenance leaving any of their folk behind. It will need the Empire to actually conquer Ghul'Thak if they want the sept in Ossium to be completed. They wouldn't need long - with the help of the Unshackled the Dreamers will get their people moving as soon as the entire region is no longer in the hands of the Druj.
+
+To achieve this, the Empire would need to send armies into the region to seize the Gul'Thak forest which will be hard because they will need a bridgehead unless they can get the agreement of the Thule to use [Oerwealt](../barbarians/Forest_of_Ulnak.md#oerwealt). Otherwise, the attack will need to come from [the Barrens](../nations/dawn/The_Barrens.md). There are also currently Druj armies in Ulnak that would definitely resist such an attack, and the garrisons of [Cassad Ûln](../barbarians/Forest_of_Ulnak.md#cassad-ûln) and the [Thistle of Barbs](../barbarians/Forest_of_Ulnak.md#ghulthak-forest).
+
+Allies exist however; [Irra Harah](../eternals/Irra_Harah.md) has been granted access to the Forest by the Navarri magicians and will certainly help to free the Dreamers from the shackles of the Druj. The ability of the *Prince With a Thousand Foes* to support the attack of armies is somewhat limited but he would automatically add 2,000 strength to any effort to attack Ulnak this coming season as long as the orders of any generals involved made it clear they were there to free the orcs of the region rather than just to slaughter the Druj.
+
+The Dreamers themselves would throw their full support behind an attack to reunite their sept and bring the three "missing families" home. Their presence would add an additional 2,000 strength to any effort to take Ghul'Thak this season, thanks both to the training they received, their experience fighting the Druj, and the excellent weapons and armour gifted them by Highguard and Varushka.
+
+*[Image: WinterSun Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:WinterSun_Colour.png)*
+
+This kind of strategy is exactly where the strength of the [Winter Sun](../../mixed/government/military/Winter_Sun.md) is at its greatest. Under normal circumstances they cannot issue a [Break the Chains](../../mixed/government/military/Army_qualities.md#freedom-fighters) order unless their side controls a region with the [forested](../../mixed/economy/Region_qualities.md#forest), [hills](../../mixed/economy/Region_qualities.md#hills), or [marsh](../../mixed/economy/Region_qualities.md#marsh) quality. This season, the support of the Dreamers would allow them to issue such an order in Ghul'Thak. Unfortunately they are in Mareave, even if they wanted to get here to break the chains in Ulnak this season.
+
+To which the Dreamers ask when *could* the Winter Sun get there? Their people have laboured under the rule of the Druj for many years - but the rule of the [Buruk Tepel](../barbarians/Druj_lore.md#buruk-tepel) is crumbling *fast*. They haven't murdered the Dreamers yet, but there is no way to know if that will change or when. They're already aware of the way *Nimon Rue* tried to use the Great Forest Orcs, and the casual atrocity the Druj were preparing to carry out. Furthermore, if the Thule take the region, the situation will only get worse in the view of the Dreamers.
+
+The Imperial scouts say there are a lot more orcs in Ghul'Thak than there are in Echofell - it's not clear how much it would swell the numbers of the Dreamers but it would certainly create problems for their current arrangement of living in a few settlements along the borders. That at least is something the Dreamers are prepared to consider. Unlike the Druj and several other septs, they have no particular tie to any given land. If the Empire reunites them, then they would be content to look for new lands elsewhere, not unlike the [Sand Fishers](Outreach_across_the_marshes.md) did. As they said before, they can dream anywhere.
+
+*[Image: NBOrcs.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:NBOrcs.jpg)*
+
+*[Image: NBHighguard.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:NBHighguard.jpg)*
+
+*[Image: NBVarushka.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:NBVarushka.jpg)*
+
+If the sept was reunited it would be a powerful gesture that would win the trust and goodwill of the whole sept. It would create new [opportunities](../../out-of-character/game-design/Opportunity.md) to better integrate the sept into the Empire. If the Druj are allowed to slaughter their cousins before they are finally defeated, that opportunity will be lost.
+
+## Participation
+
+- **Any Imperial Orc, Varushkan, or Highborn character may choose to have accompanied the visit to the Dreamers of the Dark Forest if they were not otherwise engaged this season**
+- **The Dreamers refused to put the mystagogues in touch with their ancestors, but they were happy to talk freely with anyone who visited them**
+- **The Dreamers see no real difference between orcs and humans**
+
+Any Imperial Orc, Varushkan, or Highborn character may decide that their character was involved in this expedition to the Dreamers of the Dark Forest. You will have found them wary and cautious, but charming and hospitable once their trust is earned. Once they became aware of the venture to save the Great Forest Orcs, they will have impressed on you how important it is to save the other members of their sept.
+
+The sept don't appear to distinguish between humans and orcs - they largely live apart, but that is a matter of circumstance to them and nothing more. Everyone who dreams is a dreamer as far as they are concerned. The crucial difference in this world is between people who dream and those who do not. The Dreamers, Imperial citizens, even the Druj - all of them are people. Those who do not dream, notably rocks and the Thule are not. As far as the Dreamers are concerned, a Thule warrior is more like a living puppet of flesh and bone, with no value or worth.
+
+## Further Reading
+
+- [Beliefs of the Great Forest](../religion/Beliefs_of_the_Great_Forest.md#from-the-illarawm)
+- [Seeking the Karass](../religion/Seeking_the_Karass.md)
+
+- [Every day of your life](Every_day_of_your_life.md#spanning-the-abyss) - 387YE Winter wind of fortune about the Imperial Orcs highest calling
+- [The highest calling](The_highest_calling.md) - 387YE Autumn Wind of Fortune introducing highest calling
+- [Culling the threat](Culling_the_threat.md#the-dreamers-of-the-dark-forest) - 385YE Summer wind of fortune introducing the Dreamers of the Dark Forest
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [388YE Autumn](../../indexes/by-category/388YE_Autumn.md), [Highest Calling](../../indexes/by-category/Highest_Calling.md)

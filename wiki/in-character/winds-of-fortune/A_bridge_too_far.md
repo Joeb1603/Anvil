@@ -1,0 +1,125 @@
+---
+title: A bridge too far
+source: https://www.profounddecisions.co.uk/empire-wiki/A_bridge_too_far
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 387YE Spring
+- Recent History
+- Appraisal
+- Mandate
+event: 387YE Spring
+last_edited: '2026-04-20T17:09:09Z'
+revision: 137407
+in_character_boxes: 3
+---
+
+# A bridge too far
+
+> *In-character text:*
+>
+> "Look, it's a military objective - there's nothing *you* can do. Just give them what you've got and be done with it. They can invade Skallahn or Hordalant and then destroy the thing. the Senate can't expect you to work magic - this is a job for our generals. If there was a way we could appraise "make the Jotun lose" then we'd have done that years ago..."
+>
+> Graciana smiled and shook her head at her colleague. It wasn't that Vaanya was wrong exactly, but she couldn't bear the thought of giving up. In fact everything they had just said was true. This *was* a straightforward military objective. She'd checked and rechecked every option and there was no way this could be done without amassing a massive force.
+>
+> No eternal was going to help them do this, or least not any that were safe to talk to. She's briefly contemplated the idea of trying to find a way to get Whitefire to attack the causeway. It was not her area of expertise, so she'd asked Lutomysla for help and that had led to having to explain herself in a meeting in La Salle's office. New rules... apparently you weren't even allowed to *check* if it might be possible to use Cold Sun to help. You can't make an omelette she'd told La Salle... from his expression she thought he was about to forbid her from any cooking at all.
+>
+> The other possibility would be the Asaveans. Or the Grendel. Either of them could definitely have pulled this off. She'd spent weeks working on that dead end, but it had been impossible to come up with anything that might work. Every line of enquiry she and her team had looked into ended with "And then the Grendel tell the Jotun everything we're planning..." so that was the end of that.
+>
+> No. Any solution was going to need the Empire's generals. If the Empire wanted to destroy the Kongegőr they were going to need to attack it with armies. But that didn't mean she was about to give up.
+>
+> "If the Military Council believed they could do this without our help, they wouldn't have called for this appraisal." she said. "I *need* to find some other way to achieve this. Something nobody has thought of yet."
+>
+> Now it was Vaanya's turn to laugh. "Right, you *need* it. That's what this is really about. You can't bear the thought of telling the Senate that they explicitly asked for you by name and after three months you've got *nothing*. Is that Ambition or Wisdom... or just your Pride talking? What are you going to do if there just isn't a way?"
+>
+> Vaanya was a brilliant auditor; the merrow was famous for their cavernous knowledge of the Empire's assets. At Graciana's request they had combed through every aging manuscript that detailed the Empire's existing assets looking for anything that might help. She had to accept Vaanya's claim that maybe they couldn't find a way because there just wasn't one. And that moment was when the ring finally dropped... what if the Empire hadn't finished building what they needed yet?
+>
+> "Then I'll make one..." she said, grinning from ear to ear.
+
+*[Image: The Kongegőr provides a vital connection between the Jotun kingdoms of the north and south; if it were to be severed it would massively disrupt the western barbarians' ability to make war against the Empire.](https://www.profounddecisions.co.uk/empire-wiki/File:Bridges_Too_Far.png)*
+
+## Overview
+
+The [Senate](../../mixed/government/senate/Senate.md) has [instructed Graciana i Lòpez i Guerra](../senate-sessions/386YE_Winter_Solstice_Senate_sessions.md#appraise-destroying-the-kongegőr) to [appraise](../appraisals/Appraisal.md) the destruction of [The Kongegőr](../barbarians/Skallahn.md#the-kongegőr) - the narrow strip of land that connects the [Jotun](../barbarians/Jotun.md) territories of [Skallahn](../barbarians/Skallahn.md) and [Hordalant](../barbarians/Hordalant.md). The bridge was [attacked by an Imperial raid](Take_it_further.md) in 384YE, and the resulting damage badly upset the Jotun military effort. Clearly, if the bridge could be destroyed it would severely hamper the cooperation between the Jotun kingdoms of Kalsea and Narkyst and disrupt the Jotun war efforts against the Empire.
+
+The problem is that the Kongegőr is a sprawling array of islands that spans the gap between [Kierheim](../barbarians/Skallahn.md#kierheim) and [Alsterbo](../barbarians/Hordalant.md#alsterbo) at the mouth of the Gullet. Many of the islands are tiny, little more than a speck of rock jutting out of the dangerous waters. But they vary in size and the largest are several miles across. Destroying them is out of the question - it's simply not something that could ever be possible.
+
+But the benefit of the Kongegőr is the bridges that the Jotun have built to link the chain together, allowing armies to march back and forth. The Jotun are notoriously averse to deep water, they effectively maintain no [navies](../../out-of-character/rules/Navy.md) or fleets. They do have thralls who work fishing vessels and small boats to move cargo on rivers and in shallow waters, but no Jotun would ever want to sail across the Gullet. If the *bridges* could be destroyed, it would make it impossible for the Jotun to move armies back and forth between Narkyst and Kalsea, at least until they could be replaced.
+
+Of course the Jotun know that... which is why they went to considerable effort to fortify the Kongegőr after the Empire [attacked the bridges last time](../winds-of-war/Under_heaven.md#gauntlet-and-sentinel)...
+
+## A Novel Reprise
+
+- **The Empire attacked the causeway once before using fleets and military units**
+- **The Jotun fortified the Kongegőr after the attack, to make it impossible for the Empire to repeat the stratagem**
+
+The last time the Empire attacked the Kongegőr, they caught the Jotun unprepared and took them by surprise. Acting in concert, scores of fleets and military units carried out a [meticulously planned raid](Take_it_further.md) that overwhelmed the Jotun defences, and allowed the Empire to inflict considerable damage. It took a huge effort, and while it's easy to hope that the Empire might be able to repeat that success, the reality is that it was only possible the first time because the Jotun had no idea the Empire could pull off such a feat.
+
+The Empire has never managed to bring such a significant military force to bear at the mouth of the Gullet before and so the attack took the orcs completely surprise. Afterwards, the Jotun needed the best part of a year to rebuild the Kongegőr and the work needed a small fortune in white granite and weirwood. The jarls are not so foolish as to invest all that time and money, only to leave the passage as vulnerable as it was before. If the Empire had attacked it once, why wouldn't they do so again.
+
+When they rebuilt the bridges of the Kongegőr they massively fortified the islands as they went. Having learned exactly what the Empire was capable of, the Jotun made sure to build the new defences strong enough that there was no way that the same attack could ever work again.
+
+In Graciana's view the answer is simple. If the Empire is serious about wanting to repeat the success of that first raid they'll just have to find a way to up the ante. The nail might be too heavily fortified for a force onboard fleets to attack it... but that just means the Empire will have to find a bigger hammer.
+
+## Brute Force
+
+- **The obvious way to destroy the Kongegőr is to control one end of the chain**
+- **The Empire would need an army in full control of Alsterbo in Hordalant or Bjarkey in Skallahn**
+
+The Kongegőr is an important military structure and destroying it will require the concerted efforts of at least one Imperial army. There is no way round that, nothing that Graciana can come up with avoids that need. But even that would require some careful strategic manoeuvring by the Empire. They would need an army in full control of one of the two regions that anchor the Kongegőr. That army could then be given direct orders to destroy the bridges and provided they weren't pushed out of the territory by an enemy counter-attack, then they could complete the work in a season.
+
+While that sounds simple, it would be no mean feat. There is a fortification at either end of the Kongegőr, presumably because the Jotun are well aware of just how important it is to control this narrow spur of islands. In the south in [Alsterbo](../barbarians/Hordalant.md#alsterbo) in Hordalant, there is a small fortification at the coastal town of Dalvi that would directly protect the region. There is also a second, larger fortification in the territory. The [Fortress of the Pale Queen](../barbarians/Hordalant.md#the-palaces-of-the-eternals) in [Ashahon](../barbarians/Hordalant.md#ashahon) is a rank two fortification which has important cultural significance to the Jotun. Both these defensive structures would make it hard for the Empire to capture Alsterbo, never mind the fact that to even reach Hordalant, the Empire would first have to find a way through [Liathaven](../nations/navarr/Liathaven.md) or [Bregasland](../nations/the-marches/Bregasland.md), both of which are now in Jotun hands. It's also worth, perhaps, bearing in mind that the Empire has little up to date information about Hordalant - the [spy network](../../out-of-character/rules/Spy_network.md) that provided the initial assessment of the territory is several years old at this point. While Imperial [divination](../../out-of-character/rules/Divination.md) magic can provide valuable military information it is not effective at providing the kind of ground-level assessment that might prove crucial to an extended military campaign.
+
+In the north, [Bjarkey](../barbarians/Skallahn.md#bjarkey) in Skallahn looks an easier prospect on the face of it. The territory is adjacent to Sermersuaq which is firmly under Imperial control. To reach Bjarkey, Imperial armies would have to seize [Greenwall](../barbarians/Hordalant.md#greenwall) first, but in theory that could be done in a single season. However, like Hordalant, Skallahn is also heavily fortified. The [walls of Kierheim](../barbarians/Skallahn.md#walls-of-kierheim) protect the town, the seat of power of the Jarl of Kierheim. They are a level two fortification located in Bjarkey, near the strategically vital causeway. There is a [second fortification](../barbarians/Skallahn.md#ulfrsborg), a smaller one, in nearby Ulfsmoor that would also help with any defence of the territory.
+
+To be certain of destroying the Kongegőr, the Empire would need full control of Bjarkey or Alsterbo at the start of the campaigning season and have an [Army](../../out-of-character/rules/Army.md) present in the [region](../../out-of-character/rules/Territory.md#regions) issued with [attacking orders](../../out-of-character/rules/Army_orders.md#attacking) to destroy the bridges. Provided the Empire still controlled at least one small part of the region and had at least one attacking army left in the [territory](../../out-of-character/rules/Territory.md) by the end in the season then the bridges could be completely destroyed. If they were driven off, then there might still be a hope that the Empire could damage the Kongegőr - such a thing is exactly the kind of strategic objective that the [Sentinel Gate](../world/Sentinel_Gate.md) has thrown up in the past. But the Gate is controlled by fate, so there is no possible way for anyone, not even the Empire's best prognosticator, to predict that.
+
+## Brewing Up A Storm
+
+*[Image: RedWindCorsairs Colour.png](https://www.profounddecisions.co.uk/empire-wiki/File:RedWindCorsairs_Colour.png)*
+
+- **The Red Wind Corsairs are about to complete the ability to launch forays into the Bay of Catazar**
+- **If the Marcher *and* Wintermark assemblies urged their fleets to support the 'Corsairs then the army could launch a foray from the Gullet**
+- **It would be very dangerous, but the army could move to seize the Kongegőr for long enough to burn it**
+
+There is one other option the Empire could take. It's risky, but it might provide a way to take the Kongegőr without invading the Jotun lands first by taking advantage of an [appraisal](../appraisals/Appraisal.md) that Graciana worked on almost a year ago.
+
+In Winter 385YE, the prognosticator was [asked to find a way that Imperial fleets could disrupt Grendel activities in the Bay of Catazar](../senate-sessions/385YE_Winter_Solstice_Senate_sessions.md#appraise-fleets-in-the-bay-of-catazar). If the Empire were seeking for a way to pit the Empire's fleets against the Grendel navies without going to the expense of building a navy of their own they were disappointed. Graciana was able to definitively conclude that there was one way, and only one way, to do that. To bring force to bear on that scale in the Bay of Catazar, the Empire would have to have launch a navy of their own.
+
+However Graciana was able to identify [an opportunity for the Red Wind Corsairs to put to sea](An_angry_blade.md#speak-at-this). Her proposal was to build some powerful warships on the Bay that would upgrade the capabilities of the army, allowing it to use the ships to put to sea. The proposal was expensive, but the versatility it would provide was invaluable and Work began immediately after the Autumn Equinox. Rather conveniently, the work is due to be complete by the time of the coming summit.
+
+As the author of the original plan, Graciana is well aware that the Storm will only be able to put to sea in the Bay of Catazar. They need the support of the assorted corsair families that inhabit the Brass Coast to help them pull off this feat. But that limitation is only one of logistics and supply - with the right support from local fleets, the Corsairs could theoretically pull off the feat elsewhere. The [Wintermark](../nations/wintermark/Wintermark.md) and [Marcher](../nations/the-marches/The_Marches.md) assemblies could use a mandate to urge their nations to do exactly that.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Consequences are the price of Ambition. We send {named priest} with 25 liao to urge fleet owners to put their ships to work supporting the Red Wind Corsairs. It will be costly, but no price is too high to realise your dreams.
+> >
+> > Synod Mandate, Marcher and Wintermark Assemblies
+
+*[Image: Assembly Marcher.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Marcher.png)*
+
+If this mandate were enacted in either assembly, it would create a [raiding voyage](../../mixed/economy/Voyage.md#raiding-voyages) for the next year **Assault the Kongegőr**. The action would provide no returns, there is no wealth to be had from attacking the Kongegőr, so the [Quartermaster General of the Imperial Armies](../../mixed/titles/Quartermaster_General_of_the_Imperial_Armies.md) would have to consider whether to apply the [guerdon](../../out-of-character/rules/Fleet.md#guerdon-shares) to it. The voyage would only be eligible to the Marchers and the folk of Wintermark - and only if each of their assemblies enacted the mandate. Fleets from further afield would simply be too far away to provide the assistance the Red Wind Corsairs need to set sail.
+
+Once the mandate was done, the Red Wind Corsairs would need to move to be in a position to give the "Take to the Sea" action in either Mitwold, Kallavesa, or Bregasland. In the *same season the Corsairs performed this action*, they would need the support of at least five thousand points worth of fleets, otherwise the action would fail. There aren't that many fleets in the Marchers, not even close, but Wintermark has at least twice that many at present. If the 'Corsairs had enough support they would convert to a navy based in the Westmere; if they didn't then they would default to solid defence and would need to either try again next season or abandon the attempt.
+
+If successful, the Red Wind Corsairs could then launch a shore offensive directly attacking the coastal region of Alsterbo in Hordalant. The Jotun have built up their defences to stop military units and fleets attacking the causeway, but they won't be expecting a navy to try and circumvent them. It would be very dangerous, the Corsairs would need to capture the region to be in a position to destroy the bridges in the following season.
+
+*[Image: Assembly Wintermark.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_Wintermark.png)*
+
+Given the scale of the defences, it would be wise for the Empire to consider committing a second army to the attack (the Red Wind Corsairs could carry a second army with them on the ships). The attack would also benefit from enchantments on the forces in question and on any fleets assigned to support the attack.
+
+It would be a challenging logistical exercise to get everyone to move together at the right time, but it's far from impossible. Graciana advises caution however as the Jotun are likely to counter-attack in force the following season if they can. So unless the attack is part of a carefully spearheaded invasion, a lot of effort will be needed to protect the Red Wind Corsairs and whatever army has accompanied them while they destroy the Kongegőr in the following season. Otherwise they risk being forced back out to sea - or even destroyed - and the attack will be for nothing.
+
+## Further Reading
+
+- [Skallahn](../barbarians/Skallahn.md)
+- [Hordalant](../barbarians/Hordalant.md)
+- [Under heaven](../winds-of-war/Under_heaven.md) - 384YE Autumn wind of war about the raid on Skallahn
+- [Take it further](Take_it_further.md) - 384YE Summer wind of fortune detailing plans for a raid on Skallahn
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [387YE Spring](../../indexes/by-category/387YE_Spring.md), [Recent History](../../indexes/by-category/Recent_History.md), [Appraisal](../../indexes/by-category/Appraisal.md), [Mandate](../../indexes/by-category/Mandate.md)

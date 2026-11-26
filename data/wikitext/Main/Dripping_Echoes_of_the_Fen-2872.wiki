@@ -1,0 +1,44 @@
+==Rules==
+{{Season|Night|80}}
+===Performing the Ritual===
+{{Casting time|10}} {{Imperial Reduction}}
+
+{{Regio|Night}} 
+
+This ritual targets a specific region. During the performance of the ritual the casters must name a region within the target territory which has the [[Region qualities#Marsh|marsh]] quality and does not already contain a [[fortification]].
+
+The ritual may target a region in a territory which is under Imperial control (that is, which is eligible to appoint a Senator) when cast from the [[Regio#The_Imperial_Regio|Imperial regio]]. To effect a region in a territory that is not under Imperial control, the ritual must be performed at a regio within the target territory.
+
+{{enchantment}}
+
+===Effects===
+The ritual targets a single region with the [[Region qualities#Marsh|marsh]] [[Region qualities|quality]] within a territory. Over the course of the next few days, a powerful [[enchantment]] drawn from the [[eternal]] [[Sadogua]] settles over the region, conjuring warding mists that mislead and confuse anyone attempting to conquer that region. In some cases [[Inhabitants of the realms|creatures]] from the demesne of Sadogua might slip into the mortal realm alongside the warding mists.
+
+The enchantment makes it more difficult for an enemy to claim the region, increasing the total number of victory points required to do so by ten.
+
+{{Season Duration}}
+<div style="float:right; width: 200px; clear: left;">{{CaptionedImage|file=Sadogua001d.webp|align=left|width=200}}</div>
+
+===Assurance===
+This ritual [[Limits_of_magic#Conjuring_and_Summoning|calls forth]] protective mists drawn from the Night realm, and as with similar rituals draws on the power of an [[eternal]] - in this case [[Sadogua]]. The [[Eternals_and_rituals#Assurance_and_Stipulation|assurance]] connected with the ritual was lost for several centuries but unearthed by members of the [[Unfettered Mind]] shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if the Empire ever goes a season without a functioning Imperial [[college of magic]]. 
+
+''Liege Robert de Meurig'', one of the magicians of the order, highlights that whilst the [[Master of Ice and Darkness|Icy Crag of the Eternal Sun]] certainly counts, she is unsure if the [[Dean of the Lyceum|Lyceum]] in its current form would be considered as sufficient by the Brother of Wizards and advises anyone interested to question the ''Wyrm-King'' themselves.
+==Description==
+This enchantment [[Limits_of_magic#Conjuring_and_Summoning|conjures]] defences from the [[Realms#Night|Forests of the Night]] and the demesne of Sadogua. In each case, they bring with them coiling magical mists that mislead and confuse attackers, distract them with glamours, and misdirect their attempts to move through the area. It presents a false-path to scouts that see them lost - sometimes permanently. A sense of creeping dread settles over forces belonging to an invading army, their dreams warped by phantasmagorical or ill-omened visions, and they are likely to become more cautious. The magic occasionally seems to manifest geographical elements or structure's from the ''Father of Bat's'' domain, depending on his mood. This might include strange trees, peculiar paths, weird ruins or towers and the like. As they are wrapped in misleading magical mists, however, it is never entirely clear if they are physically present or simply another element of the glamour. 
+
+The magical fog can also cause the marsh to become more dangerous; bogs are deeper and harder to spot; waterways shift and change without warning; the weather worsens; at night the mists are full of dancing lights and flitting shapes. Invaders find themselves following phantasmal echoes and witch-lights that lead them into ambushes, while the fen-paths seem to open for the defenders and the same witch-lights may guide them to safety when needed.
+
+Some reports also speak of odd creatures emerging from the mists to confuse and harass enemy forces - [[Conclave of Trees and Shadow#Description|shadowy warriors]], disturbing phantasmal mirages, and even the rare report of a beasts such as [[Mundane beasts#Drakes|drakes]], [[Mundane beasts#Dire Beasts|dire crocodiles]] or even the occasional [[Legendary beasts#Dragons, Wyverns and Wyrms|wyvern]] roused to threaten and scare the attackers. The ritual is effective at turning the natural predators of a marsh against scouts and isolated soldiers, although they are more likely to be confused, scared, or harassed than to suffer serious injury.
+
+This ritual increases the difficulty a hostile force will have in claiming a region, even if there is no army to oppose them directly, Local militia and the like are able to take advantage of the defensive [[enchantment]] (once they recognise it for what it is) to engage in effective guerrilla tactics, harrying and confusing a much larger force, at least for a time.
+
+''Dripping Echoes of the Fen'' is an enchantment, and can be [[Ilium#Using_Ilium_in_Rituals|made permanent]] with [[Ilium|ilium]]. What was originally a theory was confirmed when the '''Circle of Zulgan Tash''' of [[Varushka]] used an opportunity to establish the [[Ossium#Towers_of_Zulgan_Tash|Towers of Zulgan Tash]] in Drownbark Forest, [[Ossium]]. Sadogua did ''not'' take this action well at all, and immediately threw a massive tantrum. While his anger has clearly settled down a little, as of Winter 387YE the ''Wyrm King'' is refusing to have anything to do with Varushkan wizards, and members of the Circle in particular.
+
+==Common Elements==
+This ritual includes elements of concealment, and so is often performed while wearing masks or veils. Smoke is often used to represent the mists and confusion that the ritual evokes. Often, a map of the territory where the target region lies is included. It is often obscured during the casting, or even destroyed in water at the completion. Sometimes the map is created from sand or painstakingly drawn with salt or coloured powders, so it can be washed away at the culmination of the ritual. Some ritualists allow clouds of incense to blow over it to symbolically create enshrouding mists, while others create designs with blood or ink to confuse and mislead invading armies.
+
+The rune [[Wyr]] or [[Diras]] are commonly used during this ritual, and the constellation of [[the Wanderer]] or the [[The_Spider_and_The_Web#The_Web|Web]] may be invoked. A [[dramaturgy]] performance in which [[the Witch]] or [[the Mountebank]] are involved in an intrigue in [[the Garden]] - might be appropriate. The names of [[eternal|eternals]] such as [[Sadogua]], [[Sung]] and the [[Whisper Gallery]] might also be evoked.
+
+[[Category:Night Ritual]]
+[[Category:Rituals]]
+[[Category:Warfare]]

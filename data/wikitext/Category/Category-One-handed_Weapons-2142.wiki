@@ -1,0 +1,1 @@
+{{ItemTable|One_Handed_Weapon}}

@@ -1,0 +1,173 @@
+---
+title: Mirror and the flame
+source: https://www.profounddecisions.co.uk/empire-wiki/Mirror_and_the_flame
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 387YE Winter
+- Recent History
+- Foreign Nations
+event: 387YE Winter
+last_edited: '2026-04-21T17:26:42Z'
+revision: 137478
+in_character_boxes: 1
+---
+
+# Mirror and the flame
+
+> *In-character text:*
+>
+> "Alexius, please do explain again from the foundation of your argument. I think there are things I am probably not *quite* understanding. What is the reason for the Tribunal subcommittee on vineyard cultivation? Why must they deliberate before action is taken? It seems as if the Agriculture Minister has all the information they need to make the necessary decisions." The voice emanating from the sphere spoke in a soft voice, somewhat choral in nature, and the light that seemed to make up its entire body modulated in time with the speech.
+>
+> "Minister North-Ortho, we've been over this. The Grand Arbiter sets the overall day-to-day agenda, but the Tribunal sets the strategic direction of the Silver Flame. Now, the Agriculture Minister is appointed by Cae - the Grand Arbiter, and they are obviously in charge of setting the ushabti to work in the valleys and so forth. Nobody thinks that the Tribunal should busy themselves with that. However, wine-making is a different beast: the priorities of the vineyards are tied up with questions like: where are we going, as a... uh... as a tribunal, a polity? Vineyards are about the future. So the tribunal appoints the vineyard subcommittee and the Agriculture Minister will take their advice when acting, even though they work for the Grand Arbiter day-to-day."
+>
+> "Hmm." Were it possible for a sphere of luminous awe to look disapproving, the Minister for Northern Orthocompletion would certainly wear such an expression. "This is all extremely inefficient. Why does the Tribunal not simply vest executive power where it will? Surely it trusts its Grand Arbiter to make decision on behalf of the Dominion?" It rolls in place, and an ethereal image of Grand Arbiter Caela projects from its being. "After all, is she not appointed on your behalf?"
+>
+> Now it is Alexius' turn to wear a look of disapproval. "Minister North-Ortho, I do wish you wouldn't use that word, dominion. The Tribunal is still debating precisely how we wish to refer to ourselves. Let's not have that argument again, but please, do respect that - I know you think it's an appropriate name, but we must come to that on our own. Anyway. No, I do see your point. It is inefficient. To a degree, though, I think some feel that a measure of friction is healthy - it promotes opportunities for debate, arenas to perfect our *arete* in matters of rhetoric and governance."
+>
+> The projected image of Caela winks out. "Many nations across the ages have attempted to integrate inefficiencies such as this into their structure to promote such values. Do you want to know how many of those nations succeeded in this regard? It is not many. Do you know how many of those that succeeded fell to issues caused by an acceptance of inefficiency? Nearly all." It lets out a somewhat performative sigh. "That Which Lives In Its Name has a historical perspective, you see, that I think you fleeting mortals struggle to appreciate. Still, we try, don't we? And there is much promise here in Cinion, to be sure. Much, much promise. So it goes. Now - before our digression into vineyard management, we were discussing the, ah, Casinean Empire, were we not? Our approach thereof?" Alexius brightens. "Quite so. So, here's what I think the approach needs to be..."
+>
+> The sphere listens quietly. Occasionally its glowing form lets out a chime of appreciation, or a moment of choral song.
+
+[Image: RegionsofSpiral.png](https://www.profounddecisions.co.uk/empire-wiki/File:RegionsofSpiral.png)
+
+[Image: WiderSpiral.png](https://www.profounddecisions.co.uk/empire-wiki/File:WiderSpiral.png)
+
+## Overview
+
+By any reasonable standard, [Spiral](../nations/the-league/Spiral.md) is an ill-fated territory. Wracked by war, it has suffered invasions from the [Grendel](../barbarians/Grendel.md) and the [Druj](../barbarians/Druj.md). It returned to Imperial control when [Salt Lord Kalliact](../nations/the-league/Spiral.md#overview) defected to the Empire, but that only plunged the land into further strife as [Urizeni rebels fought the decision](Blue_flowers_in_the_snow.md#the-rebels) to [assign](../../mixed/government/senate/Powers_of_the_Imperial_Senate.md#assignment) the territory to [the League](../nations/the-league/The_League.md). Over all of that, looms the oppressive dolor of the [Black Plateau](../../mixed/music/Black_Plateau.md)
+
+But since the rebellion was settled, the city of Apulian, has enjoyed a period of explosive growth, even as it has [endured the attention](The_play_that_came_to_Apulian.md#something-stressful) of at least one [eternal](../eternals/Eternal.md) of [Night](../eternals/Realm.md#night). [Magic abounds](The_play_that_came_to_Apulian.md#something-dramatic) in the city, as the dramaturgical arts run amok. Perhaps it was unwise to bring so many magicians together in a place where magic has long held dominion, perhaps it was nothing short of inspirational. Time will tell.
+
+Recently the rebels came to Anvil as supplicants hoping to wheedle access to Imperial lore. Their request was rebuffed and Caela's friends in Anvil made clear to her that she must make a credible offer for such a prize. Apparently access to Urizeni Lore was mooted, but that has proved impossible to negotiate. Phaleron is sympathetic to the situation, but, magically speaking, Urizen has but one meaning; it is that defined by the bond of nationhood within the Empire.
+
+It seems it is this news from the Great Library that has prompted the Silver Flame to decisively seek a new future: they consider themselves heirs to the heritage and history of Spiral, heirs to Urizen, but while they can dispute matters of law and philosophy, magic is the highest principle. What is, is. A sword is a sword, and it is shaped like a sword.
+
+## The Silver Flame of Unity
+
+The rebels in Spiral still cling to the cause, the dream, of an Urizeni Spiral, but nearly two years ago they [made an uneasy peace with the Empire](../senate-sessions/386YE_Spring_Equinox_Senate_sessions.md#ratify-treaty-with-urizen-of-the-silver-flame). As a result of that settlement, the leader of the rebels, Caela of the Silver Flame, controls the region of Cinion with her allies. As part of their determination to remain apart from the Empire, most of the rebels have severed their bond with Menos, the Urizeni egregore. They still embody Urizeni culture, but they are no longer Urizeni of the Empire - for now at least.
+
+A key part of the peace agreement with the Empire, was that the rebels would trade with the Empire. The Silver Flame made an [offer](387YE_Spring_Equinox_winds_of_fortune.md#ministry-of-the-silver-flame) of a market they could support; with a title able to purchase up to four [Circlets of Falling Snow](../../mixed/magic/items/Circlet_of_Falling_Snow.md) each season... or the senators could receive a [foci](../../indexes/by-category/Foci.md) the season after they were elected. The senators of Urizen agreed to the latter, and the [foci of the Silver Flame](../nations/urizen/Urizen_leadership.md#foci-of-the-silver-flame) have been provided for almost a year now.
+
+That seemed like the matter was resolved, until a few weeks before the Winter Solstice, *Alexius of the Silver Flame* appears in Apulian to inform their neighbours of a development, a plan and a proposal. The magician is accompanied by a peculiar herald, a floating silver orb about five hands in diameter. The creature glows with a pleasant light that fills the heart of those who witness it with firm resolve. The thing is apparently a herald of Sinokenon, it appears that the inhabitants of Cinion have found powerful new friends.
+
+## A Development
+
+- **The rebels have formed the Tribunal of the Silver Flame and appointed Caela as their grand arbiter**
+- **Caela has appointed Alexius as Ambassador to the Empire and asks the Empire to reciprocate**
+- **They would prefer the Empire not to build an embassy at this time**
+
+*[Image: Alexius, Tower of the Silver Flame, Cinion, Spiral..](https://www.profounddecisions.co.uk/empire-wiki/File:WingedMessenger.png)*
+
+After a great deal of patient negotiation between the rebel spires, it appears they have created what sounds a lot like their own version of the [Conclave](../../mixed/government/conclave/Conclave.md). They have formed a body of magicians to discuss and agree policy, adopted the name the Tribunal of the Silver Flame, and appointed Caela as their Grand Arbiter. Caela, and those she appoints, are able to negotiate on behalf of the Tribunal, but any treaty or law must be ratified by a two-thirds agreement of the whole Tribunal (unless it represents an existential risk to Cinion, in which case a majority is sufficient).
+
+It sounds a little pompous, given that the best estimates the Empire has is that there are less than five hundred magicians in Cinion. That's a lot of magicians for a talking shop, as any Conclave regular can tell you, but it's fewer people than live on some of the busier streets in Apulian. In less prosaic terms, what it really means is that Caela is effectively in charge of the Tribunal and she can negotiate directly with the Empire on behalf of her fellow magicians.
+
+As an independent nation, the Tribunal expects the Empire to appoint an [Ambassador](../../mixed/titles/Ambassador.md) to the Tribunal. They have already done the same: Caela has appointed Alexius Ambassador to the Empire. The new ambassador is at pains to stress that they prefer the Empire not to build an embassy at this time. Alexius is careful not to come out and say it, but reading between the lines the Tribunal don't remotely have the resources to build an embassy of their own, and likely don't have the people to staff it, even if they could afford it. Suggesting that neither side need bother commissioning a formal embassy is something of a face-saving measure.
+
+Alexius is confident that both parties can [exchange messenges](../../mixed/magic/rituals/Call_Winged_Messenger.md) to discuss any issues that need resolving. And should an in-person meeting be required, then the ambassador can make the appropriate arrangements and come to Anvil.
+
+*[Image: SinokenonArt.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:SinokenonArt.jpg)*
+
+## A Plan
+
+- **The ambassador passes on that the Tribunal are planning to commission a fane to Sinokenon**
+- **They expect it to take at least a year to complete the fane**
+- **The speed of construction will depend how quickly they can acquire the materials they need**
+- **It would be diplomatically expensive to coerce them to drop this plan**
+
+As part of their official business, Alexius announces that the Tribunal have agreed to construct a [fane](../eternals/Fane.md) for *The Apex Hyperion*. It appears that the eternal is willing to support the new nation, keen to assist with the challenges of governing the high peaks, but at present it is limited in what help it can offer. Constructing a fane will allow heralds of *The Argent Mantra* to freely come and go in Cinion. Once the fane is complete, there could easily be as many heralds in the region as there are Urizeni.
+
+Alexius is at pains to stress that the fane will take time to complete. The Tribunal lacks key resources that they need to complete the commission, but they anticipate negotiating with their neighbours. The ambassador is clear that they do not intend to trade with the Grendel, out of respect for the Empire, but they point out that the Tribunal will have to get the resources they need from *somewhere*.
+
+The announcement is presented as a courtesy - the Tribunal of the Silver Flame claims dominion over Cinion and thus within their rights to build what they choose there. Still it is not difficult to imagine that the creation of a fane inside an Imperial territory would be a concern to the Conclave and the Empire. The civil service point out that the Tribunal are probably not as confident about their plan as they pretend - they've presented it as a fait accompli, but one that conveniently isn't completed yet. If this was *just* a courtesy, they could have informed the Empire when it was *finished*.
+
+There is an opening, should the Empire wish to exploit it. If the Imperial Senate do appoint an Ambassador to the Tribunal, whoever takes the title could coerce the residents of Cinion to reconsider their plan. That won't be easy - it would need intimidation or a suitable incentive - or both - and it would be costly. Alexius is quick to explain that the Tribunal believe they need the relationship with *The Wheel of Light* to flourish. If the Empire coerces them, it is going to damage the relationship. How much will depend on the skill with which the ambassador wields their pen.
+
+Of course the Empire could take the other approach and encourage the Silver Flame to complete the fane. Such an approach would be welcomed by the tiny nation, but it would mean that the benefits of the fane went to them, while arguably the risks were born by everyone.
+
+## A Proposal
+
+- **The Ambassador has arcane projections for two powerful war rituals that draws on Sinokenon's power**
+- **They want access to Imperial lore for one and ten wains of mithril and ten rings of ilium for the other**
+
+The treaty requires the Silver Flame to offer trades with the Empire and Alexius grandly claims that now they are ready to do exactly that. The Silver Flame needs materials for their fane and they greatly desire access to Imperial lore. The latter is a request that has been made before, but their friends in Anvil made clear that they must make a palpable offer to get this. Hence, they have come with just such a proposal.
+
+At this point he allows his fellow herald to speak, so that it can be clear and explicit about what is on offer. The herald introduces itself as the Minister for Northern Orthocompletion. It explain, however, that the *Sovereign Ministry* has not bid it come here today for its own sake: rather, the *Apex Hyperion* is acting in concert with "The Dominion of the Silver Flame of Spiral". This it says with some pomp.
+
+### The First Offer
+
+- **Sinokenon offers the Empire an arcane projection to enchant an army with double the strength of Clarity of the Master Strategist**
+- **The arcane projection is magnitude 120 and can be codified**
+- **It contains an assurance granting the Silver Flame access to Imperial lore**
+
+It has noted that in recent times the Empire has seen that over-reliance on the poorly-disciplined troops of the Queen of the Fields of Glory can lead to a breakdown in good order in their ranks, and worse besides. Moreover it notes that help from the *Strategist* (and here it strikes a withering tone) is meagre and bound up with all sorts of moral rules that violate the Empire's right to respond with whatever lethal force it deems appropriate without question, as befits a sovereign state. *The Wheel of Light* cannot offer help with the business of savagery, but neither does it care whether or not the Empire engages in it. If the trade is agreeable to the Casinean Empire, it will furnish its magicians with an arcane projection that allow for the casting of the *Panegyric to the Reticulum of the Echelon*.
+
+This ritual, the Minister explains, is "twice as effective as any Clarity the *Hunter* will ever offer - so frightened is he that even his own magic will affect the individual right of the soldier to face war clear-eyed and with a free conscience". *The Way of Hierarchy*, it states, trusts that the leaders of the Empire will make the right decisions for its soldiers. As a mark of goodwill, the arcane projection has been presented to the [Prefect of the Conclave](../../mixed/titles/Prefect_of_the_Conclave.md), so that the Empire's magicians may examine it freely. The Empire is welcome to codify the ritual, if the terms are agreeable. The ritual is built on an assurance granting the Dominion of the Silver Flame of Spiral access to Imperial Lore - so it will not function until that is granted, and thereafter will function unless such access is removed.
+
+The Conclave could use a Declaration of Concord to grant the Silver Flame access to Imperial lore. Alexius has asked the Prefect to give the arcane projection to the magician who raises the declaration.
+
+### The Second Offer
+
+- **Sinokenon offers an arcane projection to enchant a military unit with five additional ranks when on campaign with an Imperial army**
+- **The arcane projection is magnitude 20 and can be codified**
+- **The Silver Flame are hoping for enough money for the ritual to buy ten wains of mithril and ten rings of ilium**
+- **Sinokenon requires the Imperial Senate to make a formal offer for the arcane projection if they wish to possess it**
+- **It contains an assurance that the Empire will continue to recognise the sovereignty of the Dominion of the Silver Flame**
+
+The *Throne of the Sun* also offers access, via the Dominion, to another of its potent magics: that of *Raising the Foundation*. This ritual enchants a band of trained warriors to enhance their ability to participate in organised military campaigns. Such a thing is not possible using Day magic without the assistance of an eternal, but it is a boon that The Apex Hyperion has been known to give before. This Arcane Projection is offered not to the Conclave but to the Senate - and the price is the sort of price the Senate deal in.
+
+The Wheel of Light asks the Imperial [Senate](../../mixed/government/senate/Senate.md) to make a formal offer of 60 thrones to the Dominion for the arcane projection. This would require a [senator](../../mixed/titles/Senator.md) raise a [Senate motion](../senate-motions/Senate_motion.md), with funds presumably disbursed from the Imperial treasury. If that happens, the arcane projection will be given to the senator that raised the motion, if they choose to return the funds to the Speaker. They will then receive the Arcane Projection. The assurance on the arcane projection does not prevent it being cast before the price is paid - but the Argent Mantra is unlikely to be pleased if this occurs, and so the Speaker is not inclined to permit this.
+
+The Minister explains that The Throne of the Sun is *never* stingy to its allies - unlike certain *Generals* it could name. As such, this is not simply a one-off boon: the ritual could be cast but again permission is granted also for it to be codified. Moreover, the ritual's assurance simply requires the Empire to continue to recognise the sovereignty of the Dominion of the Silver Flame - the Minister assumes this will not be a problem, given this is already the state of affairs.
+
+The Silver Flame are clearly hoping to exchange the arcane projection for enough money to be able to buy ten wains of mithril and ten rings of ilium from the Empire. It is difficult to know how much room there is to negotiate with such a process. The Silver Flame are clearly hoping to use the money to finance their fane, but it appears to be the Wheel of Light that is offering the bill of sale. Does The Apex Hyperion haggle?... It is notable that when a civil servant asked the herald if Sinokenon would accept a private offer for the arcane project, possibly even a higher one, the answer was an emphatic *no*.
+
+### The Third Offer
+
+- **Sinokenon offers a gift to the Throne**
+- **The gift is offered without reservation**
+
+The Minister explains that the eternal has a third offer, "from one Throne to another". When the civil servant points out that it has not asked for a third thing, the orb lets out a tinkling laugh. Of course, it is impolite not to offer more than one asks. As such, it is making a gift to the Hierarch of the Empire - by this it seems to mean [**Emperor Vesna**](../../mixed/titles/The_Throne.md) - of a *Circlet of Supreme Authority* - an item not unlike the [Circlet of Falling Snow](../../mixed/magic/items/Circlet_of_Falling_Snow.md). It would *suggest* that this could be named part of the regalia of the position: if the Senate deems it appropriate, of course?
+
+Apparently the Throne of the Sun has been extremely impressed with the decisive leadership his mortal counterpart has displayed of late, and wishes to offer congratulations and show its support. If the Imperial Throne wishes to receive the gift, they must simply go to the Imperial Regio at the coming Winter Equinox and cast operate portal, naming themselves by their title and asserting their authority over Imperial hierarchy. The circlet will then be delivered unto them.
+
+### Permanence and Eternity
+
+- **These offers are for one arcane projection of each type and a single circlet.**
+- **It would be possible for more arcane projections or circlets to be offered, or even for the latter to be made permanent.**
+- **This would require negotiation by the Archmage of Day using the power of plenipotentiary.**
+
+The Minister finishes by explaining that the Turning Mirror would happily provide more copies of these arcane projections --- if the Empire wishes to cast them immediately but also codify them --- or renew the magic of the *Circlet of Supreme Authority* (or even produce a version that will [endure into eternity](../../out-of-character/rules/Ilium.md#creating-artefacts)). These would take more negotiation, however, and this is best performed by the *Casinean Supremum of Sea and Sky*, which appears to be a somewhat grandiose title for the Archmage of Day. However, trills the Minister, they are confident that an arrangement could be struck if such a thing is desired.
+
+## Keep the Bargain (Conjunction)
+
+*[Image: Floria Sunshaper , Oblivion Sentinel](https://www.profounddecisions.co.uk/empire-wiki/File:OblivionSentinel.png)*
+
+- **A company of Grendel are attempting to flee Spiral**
+- **The Grendel are accompanied by Asaveans**
+- **This skirmish is a [combat highly likely](../../out-of-character/rules/Accessibility.md#combat-highly-likely) encounter**
+- ***Floria Sunshaper* is [responsible](../world/Sentinel_Gate.md#prognostication) for defeating the Grendel**
+- **This conjunction is [against barbarians](../world/Sentinel_Gate.md#imperial-law); magistrates advise that lethal force is fully justified**
+
+The main focus of the Grendel remains on [Redoubt](../nations/urizen/Redoubt.md) and [Mareave](../nations/imperial-orcs/Mareave.md). However, there are persistent rumours among the garrison of Apulian that a company of Grendel were spotted with Asaveans travelling through Apulus shortly after the Autumn Equinox. The few patrols sent to investigate are unable to uncover anything, and it falls to a child of the *[Whispering Wind](../eternals/Sung.md)* to bring a warning to the sentinels of [Oblivion's Edge](../nations/the-league/Spiral.md#oblivions-edge) just a week before the Winter Solstice. There are indeed a company of Grendel who have been escorting a handful of Asaveans over the season, and they are returning to a sheltered cove in Apulus where their ship is waiting. The many-hued herald warns that the Asaveans came prepared and are carrying several shards of the volcanic glass back to Asavea with them.
+
+As this represents a potential threat to the Black Plateau, it is the responsibility of the incumbent [Oblivion Sentinel](../../mixed/titles/Oblivion_Sentinel.md), **Floria Sunshaper**, to see the Grendel defeated and dispose of the shards of volcanic glass.
+
+> **Black Plateau**  
+>
+> All characters on the *Keep the Bargain* skirmish will be under the effect of [WEAKNESS](../../out-of-character/rules/Calls.md#weakness) that cannot be removed whilst on the skirmish and experience heightened emotions unless they:
+>
+> - Expend a hero point upon entering the area
+> - Are subject to an anointing
+> - Overcome the oppression using their [cambion](../../mixed/magic/lore/Cambion.md#roleplaying-cambion) lineage
+> - Are bonded to a magical item or have a ritual enchantment that mitigates effects like these
+
+## Further Reading
+
+- [Sinokenon](../eternals/Sinokenon.md)
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [387YE Winter](../../indexes/by-category/387YE_Winter.md), [Recent History](../../indexes/by-category/Recent_History.md), [Foreign Nations](../../indexes/by-category/Foreign_Nations.md)

@@ -1,0 +1,24 @@
+==Overview==
+<div style="float: right; width: 200px;">{{CaptionedImage|file=Assembly Urizen.png|caption=This title is appointed by the Urizen Assembly|width=250px}}</div>
+The Custodian of the Omphalos is an [[Imperial title]] awarded to a citizen of [[Urizen]]. The [[Construct the Dreaming Spire|announcement]] to construct the Dreaming Spire, an [[edifice]], was made by '''Lucrezia Corvinascura''', as [[Chair of the Wolf]], during the Spring Equinox 387YE. 
+
+The Custodian of the Omphalos has a responsibility to epitomise and maintain Urizen culture in [[Spiral]], and oversees the [[#The Dreaming Spire|Dreaming Spire]], the Omphalos, in Ankra, Spiral.
+
+==Responsibilities==
+__NOTOC__
+The Custodian of the Omphalos is responsible for epitomising and maintaining [[Urizen culture and customs|Urizen culture]] in Spiral. In addition, if the Dreaming Spire were to come under threat, it would be the responsibility of the Custodian to respond to those threats.
+
+==Appointment==
+The Custodian of the Omphalos is a national position which is [[Appointment|appointed]] by [[judgement]] of the [[Assembly#The_National_Assemblies|Urizen Assembly]]. 
+
+The Custodian of the Omphalos is appointed during the Spring Equinox each year. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the Urizen Assembly, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{CaptionedImage|file=Raine Tealeaf.jpg|caption='''Raine Tealeaf''', Custodian of the Omphalos|align=left|width=300}}
+{{RecentElections|Custodian_of_the_Omphalos}}
+
+==The Dreaming Spire==
+The Dreaming Spire is designed around a trio of resonances: The dominant [[the Chalice|Chalice]] - ''Things Heal'' and ''Things Apart Come Together'' - evoked in lightstone beacons atop six of the spire towers. [[The Oak]] - ''Things Endure'' -  and [[The Fountain]] - ''Things Live'' - are evoked in many-hued lightstones embedded within a series of trees throughout the twinned gardens within the spires. The Omphalos itself, the centre point of Urizen, is doubly marked: First, found upon a great plinth, the overlapping node between The Oak and The Fountain, representing the stars Ahinus, The Source and Tirion, Who Stands. 
+<div style="float: right; width: 200px;">{{CaptionedImage|file=Dreaming Spire.webp|caption=Artist's impression of the Dreaming Spire|width=250px}}</div>
+Secondly, through a door within the plinth itself, a stairwell descends to the Sanctum of Stars. This domed room houses the Omphalos stone itself at its centre: an obelisk which echoes those in Redoubt and Zenith, and connects to the tracery focusing on the Block. On the domed ceiling itself is a network of lightstones, intended to represent the physical location of the spires of Urizen. This field of stars also serves as a tangible representation of the [[Net of the Heavens]]. Aside from the lightstones, the Sanctum of Stars is kept dark, so that a visitor may bask in the work.
+
+The Dreaming Spire is designed as a site not only as a focus of Urizen culture, but also as a gathering place. As such, in addition to all the typical amenities of a larger spire, there is a mixture of dwellings suitable for refugees, itinerants, or otherwise. The Library of the Dreaming Spire's library houses the library of Solen’s Doubt. The names of all of the fallen of the Battle of Solen's Doubt are etched into its walls.
+[[Category:Title]][[Category:Urizen]][[Category:Synod]]

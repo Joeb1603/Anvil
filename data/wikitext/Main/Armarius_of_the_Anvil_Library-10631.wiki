@@ -1,0 +1,29 @@
+==Overview==
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Assembly Wisdom.png|caption=This title is appointed by the [[Assembly#The_Virtue_Assemblies|Assembly of Wisdom]]|width=250px}}</div>
+The Armarius of the Anvil Library is an [[Imperial title]] [[Construct_Anvil_Library_Scriptorium|created]] by '''Claus Friedrich von Holberg''', as [[Bearer_of_an_Imperial_Wayleave|Bearer of an Imperial Wayleave]] in Spring 385YE. While it focused on creating a [[#The Library Scriptorium|Scriptorium]] to copy books and train priests of [[the Way]], it also marked the formal establishment of a [[New_Imperial_titles#Sodality|sodality]], supporting the work of the [[Anvil#The_Anvil_Library|Anvil Library]].
+
+==Responsibilities==
+While they are appointed by the Wisdom Virtue Assembly, the Armarius of the Anvil Library "governs" the Anvil Library, although what that exactly means is up to the members of the sodality. The Scriptorium that supports their work allows them a bounty of [[liao]] from the civil service, and they also receive donations from citizens who want to support the Anvil Library. If the Anvil Library sodality, or the Scriptorium, were to be threatened in any way it would be the responsibility of the Armarius to deal with those threats.
+==Powers==
+__TOC__
+===A Portion of Liao===
+The sinecure provides 7 doses of [[liao]] to the Armarius each season.
+
+===Charitable Donations===
+The Anvil Library is an organisation dedicated to the protection and promotion of knowledge across the Empire, and a number of private citizens wish to support their work. 54 Rings each season, representing donations from these citizens, are delivered to the Armarius on the understanding they are used to support the Imperial sodality.
+
+===Archivist's Quill===
+The volunteers at the Scriptorium maintain a number of magic items suitable for their work as researchers. One of these, an [[Seer's Probe|Archivist's Quill]] is sent to the Armarius each year at the Spring Equinox to support any rudimentary divination the library might need to perform.
+{{CaptionedImage|file=Richardo Glostari di Sarvos.jpg|caption='''Richardo Glostari di Sarvos''', Armarius of the Anvil Library|align=left|width=300}}
+==Appointment==
+The Armarius of the Anvil Library is a [[New_Imperial_titles#The_Imperial_Synod|virtue position]] which is [[Appointment|appointed]] by [[judgement]] of the [[Assembly#The_Virtue_Assemblies|Wisdom assembly]]. Any Imperial citizen may hold the title.
+
+The Armarius has [[tenure]] and serves until they die or step down. They can be revoked by the [[Assembly#General_Assembly|General Assembly]], the Assembly of Wisdom, and the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Armarius_of_the_Anvil_Library}}
+
+==The Library Scriptorium==
+The Library Scriptorium stands on the site of a much-expanded wayhouse in [[Sarvos#Foracci|Foracci]], along the trods from Rodez to Casinea. The Scriptorium continues to act as a wayhouse for those travelling to and from Anvil, but also for guest lecturers and researchers at the Library and associated seminary, training priests based on a program inspired by the works of [[Avigliana di Sarvos]]. 
+
+Due to its role in the fight against the Whisper Gallery, the Scriptorium is part of a well-defended compound, reminiscent of a Highguard chapterhouse. As well as the wayhouse and the Seminary, the walls also surround the Anvil Library Press and its associated paper- and ink-making facilities, all emblazoned with the names of the individuals and organisations who helped sponsor the Scriptorium into existence.
+[[Category: Title]]
+[[Category: Wisdom]]

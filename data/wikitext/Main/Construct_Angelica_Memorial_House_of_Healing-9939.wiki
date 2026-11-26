@@ -1,0 +1,16 @@
+[[Category:Senate Motion]][[Category:384YE Summer]]
+__NOTOC__
+<quote by="Proposed Sarvos, Seconded Skarsind">Self-funded to build a sinecure in Riposi known as the Angelica Vergo di Sarvos Memorial House of Healing, the custodian of which will be known as the Mistress of Medicine. Appointment as a tenured position (until retirement, revocation or death) by the generals of the League. This sinecure will produce herbs with the intent of producing cerulean mazzarine. The Angelica Vergo di Sarvos Memorial House of Healing will be tailored and peaceful gardens for the purpose of healing malign and mental maladies of war. The herbs produced are specifically for the use of the League national block.</quote>
+
+==Overview==
+* Commissions a herb garden [[sinecure]] in [[Sarvos]]
+* Passed
+==Date==
+* Summer 384YE
+==Cost==
+* [[Sinecure#Costs|Standard costs]] apply
+* The costs for the sinecure have not been defined in the motion so the civil service assumes minimum size (10 wains)
+==Progress==
+{{CommissionProgress|Angelica_Memorial_House_of_Healing}}
+==Outcome==
+* Once completed the sinecure will create the [[Imperial title]] of [[Mistress of Medicine]].

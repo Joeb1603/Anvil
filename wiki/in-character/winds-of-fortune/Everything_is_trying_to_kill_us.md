@@ -1,0 +1,153 @@
+---
+title: Everything is trying to kill us
+source: https://www.profounddecisions.co.uk/empire-wiki/Everything_is_trying_to_kill_us
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 387YE Winter
+- Recent History
+event: 387YE Winter
+last_edited: '2026-04-22T19:03:40Z'
+revision: 137650
+in_character_boxes: 3
+---
+
+# Everything is trying to kill us
+
+> *In-character text:*
+>
+> "I bet its' not wet in Mareave."
+>
+> "Given the entire territory is unbelievably arid and our cousins are struggling to find enough clearn water to drink let alone water their farms, I'd say that's a safe bet."
+>
+> The sarcasm in Camilla's response was withering. If she'd hoped it would stop the pointless carping, she was about to be disappointed. "Sure, it's a bit *too* dry" retorted Megaris, "But at least it's not literally under-water". He lifted up the hem of his robe and pointedly rung it out, squeezing the marsh water out as if it would make the land itself dry.
+>
+> Unlike her companion, Camilla's poise remained firmly intact. She craned her head left and right surveying the landscape arrayed before them, trying to take it all in. "It's a challenge certainly."
+>
+> "A challenge?" shot back Megaris. "More like a trap. The Senate has given us this place as a bloody consolation prize for losing Spiral. The whole place is a marsh and everything is trying to kill us. Snakes, rebels, frogs, Druj, insects, vallorn - and whatever that bloody thing in Kroll is! Why did they give it to us?"
+>
+> "Because we asked for it, I assume" responded Camilla still calm. "And who else would they give it to. You're right - the Sarangrave is inhospitable and unwelcoming. It's like something from the Spring realm itself - filled with creatures all trying to kill us. But who would the Senate give it to? You want the Dawnish here, will a test of mettle sort the vallorn out? Love overcomes all - will it overcome the miasma? You think that will work? Or maybe the Highborn could take it on - they can explain to a guardian of the Spring realm about Virtue. Or the Varushkans can turn up and make a pact with it? Does that sound like a good idea to you?"
+>
+> "If your point is that nobody should be here, then I think that's my argument" grumbled Megaris.
+>
+> "No sodales. *My* argument is that the Senate gave it to us, because we're the only people brilliant enough to be able to solve *all* these problems."
+>
+> "So you're saying it's a bit of a *fixer-upper*?"
+
+*[Image: Regions of Sarangrave.png](https://www.profounddecisions.co.uk/empire-wiki/File:Regions_of_Sarangrave.png)*
+
+## Overview
+
+Last season, the [Senate](../../mixed/government/senate/Senate.md) voted the [Sarangrave](../nations/urizen/Sarangrave.md), would be [assigned](../../mixed/government/senate/Powers_of_the_Imperial_Senate.md#assignment) to [Urizen](../nations/urizen/Urizen.md). There is absolutely no doubt that this presents a challenge to the people of the mountainous nation. As when the Imperial Orcs won [Mareave](../nations/imperial-orcs/Mareave.md), there are significant obstacles to be addressed before there is any chance that Sarangrave will become a productive part of Urizen. It is, after all, a fetid swamp in which very few Urizen have ever set foot.
+
+When any new territory is added to the Empire, it presents problems. Imperial and Druj armies are still actively on campaign in the territory, battling for control of the land. A single slip could be all it takes for the Druj to wrestle control of the Sarangrave back from the Empire. As with Mareave, there are a lot of orcs living here - and with the best will in the world the people of the High Peaks have a lot less experience dealing with large numbers of orcs than the Unshackled do. If anything, the situation risks becoming more like that of [the Barrens](../nations/dawn/The_Barrens.md) that saw murder and bloodshed on a massive scale and where scars will take a generation or more to heal.
+
+It would be challenging for any nation to incorporate Sarangrave. To make a success of this territory is going to take years of investment and hard work. Yet the people of Urizen are not strangers to challenges and obstacles, and recent years have given some of them a first-hand understanding of what it means to be tyrannised by the Druj. Fortunately, the pillar of ambition lives deep within the bones of the people of the high peaks - a burning passion to transform the world into a better place. There is a mountain to climb, it is true, but there are no peaks that cannot be surmounted if one has the [courage](../religion/Courage.md) and [ambition](../religion/Ambition.md) to take the first step.
+
+Where there is darkness, we will make light.
+
+## The Only Mountain is the One in the Sky
+
+- **The Urizen Assembly can use a statement of principle to encourage solutions to a given problem**
+- **If it is upheld with a greater majority, then Urizen of the named archetype will look at ways to resolve the stated issue**
+
+There are many problems facing any Urizeni who would see Sarangrave become a Prosperous national territory. Overcoming these challenges will be difficult and expensive, and in other times the [civil service](../../mixed/government/senate/Civil_service.md) might advise senators employ the power of [appraisal](../appraisals/Appraisal.md) to seek solutions. In the Sarangrave there are so many problems that multiple appraisals would likely be needed. Indeed, it is difficult even to know where to start.
+
+Fortunately, the triumph in the [conflict with the recidivist sword scholars](To_fight_aloud.md) means that may not be necessary. Virtue is contagious - inspired by their success driving out the disciples of Sulemaine, there is a Vigilant fervour to address these problems. People are ready to tear out the poison in the fields, before it can spread. All they need is some direction on where to start.
+
+The national assembly is ideally positioned to direct people for this. Each summit, they can use a single [statement of principle](../../mixed/government/synod/Statement_of_principle.md) to direct Urizen to look into one of the problems laid out below. Provided the statement passes with [greater majority](../../mixed/government/synod/Judgement.md#greater-majority) (and with the highest margin in case of multiple statements) then people will investigate the issue and look to see what solutions might be available. They won't be able to solve the problem themselves - but they will present their findings in [opportunities](../../out-of-character/game-design/Opportunity.md) to be laid out to address it next season. The only requirement is that the statement be clear which problem needs to be looked into next. As with an [appraisal](../appraisals/Appraisal.md), attempts to define how the problem be resolved are likely to simply complicate the issue and potentially result in unsatisfactory outcomes.
+
+When the Imperial Orcs began to explore Mareave, they drew on the different strengths of the six [septs](../nations/imperial-orcs/Sept.md) that comprise their nation. Each was set a challenge, and each brought their particular expertise to bear on the subject. This approach bore dividends, and Urizen assembly will need to do something similar if they wish to follow suit. By choosing the right group to take the lead on a given problem, they can ensure that the best of their nation work to find solutions in keeping with their motivations and beliefs. Alongside the problem they identify, they must pick any one of the nine current Urizeni archetypes - [Arbiter](../nations/urizen/Arbiter.md), [Architect](../nations/urizen/Architect.md), [Sentinel](../nations/urizen/Sentinel.md), [Stargazer](../nations/urizen/Stargazer.md), [Illuminate](../nations/urizen/Illuminate.md), [Mage](../nations/urizen/Mage.md), [Torchbearer](../nations/urizen/Torchbearer.md), [Seer](../nations/urizen/Seer.md) or [Questor](../nations/urizen/Questor.md) - to take the lead on the matter.
+
+A given archetype can only be invoked once, but the resulting opportunities would be heavily influenced by the skills and philosophy of whichever group the Assembly invited to lead the effort. Since this fervour has been inspired by the victory over the original [sword scholars](../nations/urizen/Sword_scholar.md) they can't ask the few remaining sword scholars to take the lead, but any other group could be asked to help with a single one of the seven problems laid out.
+
+At the rate of one per season, it is still going to take a lot of time to address the problems in the Sarangrave. A well-worded [appraisal](../appraisals/Appraisal.md) could also be used to target one of the problems, if the Empire wishes to speed up the approach.
+
+### A Bitter Pill
+
+- **There is widespread hostility to the Empire across all the inhabitants of the Sarangrave**
+- **There is an organised band of rebels occupying and controlling Nesustak Forest**
+
+Much hay has been made of the rising up of the Water Walkers, the Bloodwater Spears, and other rebels against Druj rule. With the aid of [Irra Harah](../eternals/Irra_Harah.md), they now control [Nesustak Forest](../nations/urizen/Sarangrave.md#nesustak-forest). At present, they are not outwardly hostile to the Empire, but only because they are taking a once in a lifetime opportunity for vengeance on the hated Druj.
+
+It would be a mistake, however, to imagine that makes them friends of the Empire. Or to imagine that they might be importuned by the words of the Synod. The Dawnish Assembly raised a judgement [inviting](../synod-judgements/387YE_Autumn_Equinox_Synod_judgements.md#judgement-25) the septs who rose up against the Druj in the Sarangrave to break bread and drink wine with them, but there is no evidence they even know about the judgement much less would be inclined to accept such an invitation if they were.
+
+These sentiments are not confined to the rebels. The people living here have been fed a diet of Druj propaganda their entire lives. While it is relatively easy to counter the more lurid lies, many of the accusations are built on a foundation of truth. Urizen magicians unleashed curses in the [Salt Flats of Sanath](../barbarians/Salt_Flats_of_Sanath.md) without concern for those living there. The Druj have made absolutely certain that every single one of these people knows about the massacre of the Montanians, the assault on the Rahvin, the fate of the Black Wind...
+
+These people are fearful, hostile and rebellious. Their view of the Empire is built on every tragedy that has ever befallen the Barrens, along with more than a few that never happened. Whatever the causes were at the time, and there are always reasons, Urizeni will need to find a way to deal with that legacy. Even if that is achieved, there is no way these rural farmers and bitter rebels will "join" Urizen. They are not philosophers or scholars, not students of high magic. They might be persuaded to surrender their animosity but they could *never* bond to the Urizen egregore.
+
+### A Stinking Bog
+
+- **The Sarangrave is a fetid marsh filled with venomous insects, snakes, and other horrors**
+- **No ushabti can operate in this lowland environment**
+
+The Sarangrave is stinking, insect-filled bog. There are poisonous snakes, poisonous frogs, poisonous insects, poisonous plants, deadly predators of all kinds, and so many mosquitos. There is water everywhere, but outside of the farms very little of it is potable - it is not called the "Feverwater" for nothing. Even a [Bregas](../nations/the-marches/Bregasland.md) might look askance at being asked to move here; it is all too easy to imagine the land itself is constantly trying to kill you.
+
+Worse than that, if such a thing were possible, this is *lowland*. The only mountains here are on the border with [Tsark](../foreign-nations/Tsark.md) and [Axos](../foreign-nations/Axos.md). That means that none of the [the ushabti](../nations/urizen/Urizen_economic_interests.md#ushabti) that the Urizen rely on for all their manual labour will work here.
+
+Having dominion over the land can't change the [essence of it](../../out-of-character/rules/Laws_of_magic.md#the-law-of-essence). How is Urizen, a nation of brilliant minds, learned scholars, and wise philosophers going to prosper in a territory composed of sucking marshland. What can they do to replace the ushabti they use to make life liveable?
+
+### The Poisoned Air
+
+- **There are miasma pillars in every region in the Sarangrave save one that must be found and dealt with**
+- **Each pillar will need to be destroyed to lift the pallor from the land**
+
+The Empire may have wrestled control of the Sarangrave, but they have yet to weaken the grip of the [Druj miasma](../barbarians/Druj_miasma.md). The as-yet-unlocated miasma pillars are the oldest that the Empire will have ever directly interacted with and there is definitely at least one in every region. The mark the Druj have left on the land ensures that life here will always struggle until the miasma is dealt with.
+
+In theory, this is the simplest problem to deal with - the Empire knows how to deal with miasma pillars. They simply needs to locate all the pillars and destroy them. Of course that is easier said than done - the Druj hide the pillars, and they have had centuries to secure them in Sarangrave. They set traps and place monsters to defend them even in the territories they have only recently conquered. Once found, there will need to be multiple dangerous expeditions through the Sentinel Gate to deal with these pillars.
+
+### A Gift Horse
+
+- **Few if any Urizeni currently want to settle here**
+
+In terms of population, the Urizeni are one of the smallest nations in the Empire. A rarefied society, living in spires on mountain tops, they have never been a numerous people. Traditionally, new spires are created for one of two reasons. Either an existing spire has become too crowded, or a faction of a spire wishes to follow its own path. In recent years, there has been a great deal of upheaval, with Urizen from Spiral and Zenith in particular having to find new homes. There is a lack of drive to move *again*, a fatigue with the itinerant lifestyle. A lot of people just want a little stability - starting all over again in a new territory is less than appealing. Even if they can be persuaded to settle the Sarangrave, it will never become a bustling metropolis filled with people. That isn't a problem per se, but it does mean that motivation will be crucial.
+
+If the territory is going to achieve it's full potential, the nation will need to find ways to persuade people that they can pursue their [arete](../nations/urizen/Arete.md) here. That this unwelcoming land holds the potential for greatness. That is a part of the Net of the Heavens. That their lives here will be stable, and they will not be back relying on the charity of other spires again if the Druj reconquer the territory. The Senate can vote to make the Sarangrave part of Urizen, but they can't make the Urizeni part of the Sarangrave. People will need reasons to want to overturn their lives and settle here.
+
+### The Golden Hare
+
+- **Irra Harah is active in the territory encouraging the rebels to fight**
+- **He will empower the rebels to cause problems for the Empire**
+
+[The Prince with a Thousand Foes](../eternals/Irra_Harah.md) seems to be everywhere in the Sarangrave. The [Conclave](../../mixed/government/conclave/Conclave.md) power of [Alignment](../eternals/Alignment.md) will ultimately restrict what eternals can achieve in the territory while it is under Imperial control, but currently *Papa Otec* does not have enmity. Even if he did, his heralds are already *here* - working hand-in-hand with the rebels to fight the Druj. Even if the Empire slams that door shut, it won't get rid of the heralds already here. Enmity also has limits; while there are mortals able and ready to perform ritual magic to call new heralds into place, it cannot completely prevent an eternal wielding influence over those who welcome it. If it could, there would never be any problems with [Agramant](../eternals/Agramant.md) or the [Whisper Gallery](../eternals/Whisper_Gallery.md) or [Siakha](../eternals/Siakha.md) ever.
+
+*Shackle Smasher* has a troubled history with the Empire. He was directly involved with the Barrens, trying to help the various septs throw off their chains - and that included helping and supporting them against the Empire. It is safe to assume that he is likely to do everything in this power to help the rebels here.
+
+Those septs who have risen up have done so because they want [Freedom](../../mixed/magic/lore/Malign_spiritual_presences.md#anarchy) for the Sarangrave. They are fighting against the Druj at the moment, but they are not fighting for the Empire. Once the Druj are gone, they could easily turn their weapons on the Empire. With the help of Irra Harah they could pose a credible threat if they are not decisively dealt with.
+
+### The Sickening Heart
+
+- **There is a powerful vallornheart in the centre of the Sarangrave**
+- **If it escapes its bonds it will try to consume everything in its path**
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > If the Sarangrave is assigned to Urizen we commit to work with Navarr, the experts on the vallorn, towards their goal of the destruction of the vallorn. We recognise the cultural significance to the Navarr of a territory with vallorn.
+> >
+> > Theodoretos, Urizen National Assembly, Autumn 387YE, Vote: Upheld with a **Greater Majority** 204-34
+
+The Urizen have committed themselves to supporting the Navarr in their centuries-old opus to eliminate the [vallorn](../nations/navarr/Vallorn.md) from the continent. The [Citadel Guard](../mandates/Citadel_Guard.md) has in recent years engaged in fighting back *The Green Menace*, but thus far there has been little need for the Urizeni as a whole to really engage with the vallorn as an issue - now they have one in their back garden.
+
+Not just any vallornheart - this one looks like it could be the biggest heart in the Empire. It has never been connected to the trods - instead the Druj walled it up with magical wards. That contained the vallorn, it stopped it from spreading, but like a coiled spring, the horror is simply bottled up waiting patiently for a chance to explode.
+
+The magicians at [Sunspire](../nations/urizen/Morrow.md#sunspire-ruined) could have helped, but the Druj destroyed both them and their stores of knowledge several years ago. The Urizen Assembly agree on a statement of principle recognising the Navarr expertise on this matter, but that doesn't compel their Navarr cousins to reciprocate. They would certainly be the best source of aid, especially if the Navarr national assembly [offer to support the nation](Every_path_you_know.md#thanks-for-sharing).
+
+The Wards of Béantal Dol hold the vallorn in place *for now*. Even if the Empire never choose to [link up the vallornhearts](A_thousand_years_of_longing.md), enemies like the Druj and the [Heirs of Terunael](Rise_of_Terunael.md) could find ways to wield this weapon against the Empire. The problem is contained with powerful magic, but that magic is not or Urizeni making nor under their control. That at least cannot be allowed to stand.
+
+### The Writhing Horror
+
+- **The terrible guardian of Kroll was defeated but not slain**
+- **It will return to hunt when its hunger grows stronger than its fear**
+
+The vallorn is not the only abomination dwelling in this accursed territory. The giant octopus-thing of [Kroll](../nations/urizen/Sarangrave.md#kroll) was defeated but not slain. It has slunk away, hiding in the deep waters of the surrounding marshes but at some point it will return. Where else can it go?
+
+Most Urizeni magicians suspect the creature is a [guardian](../nations/highguard/Highguard_military_concerns.md#guardians) of some kind from the Spring realm. The assumption is that it has been here for centuries and instead of driving it back into the realms like any civilised people would have done, the Druj have been feeding it. That would explain why it has grown to such huge size.
+
+If it is a horror from the Spring realm there is no possibility that it will just starve. Nobody is sacrificing anything to the monster anymore, so when it gets hungry it is going to hunt for food. It would be prudent to have a plan in place before that happens.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [387YE Winter](../../indexes/by-category/387YE_Winter.md), [Recent History](../../indexes/by-category/Recent_History.md)

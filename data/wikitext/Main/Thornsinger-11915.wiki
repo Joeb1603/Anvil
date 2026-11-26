@@ -1,0 +1,53 @@
+{{Disambiguation|As of Winter 387YE, Thornsong House has been [[Crimson_and_green|destroyed by the Druj]] and is no longer an active title. This page reflects its status before it was lost to the barbarian orcs}}
+<div style="float: right; width: 250px;">{{CaptionedImage|file=Thornsong.png|width=250px}}</div>
+==Overview==
+The Thornsinger was an Imperial title [[Construct Thornsong House|created]] by the Senate during the Winter Solstice 384YE. Thornsong House, a grand hospital in [[Therunin]], created by this commission formed part of [[Make_a_deal#Thornsong_House|the response]] to '''Darian Numbers''' call to the Assembly of Prosperity to look for opportunities to increase the Prosperity of the inhabitants of the territory.
+
+During the Winter Solstice 386YE, several covens of Navarr came together to shroud Thornsong House. This paused [[#The Studies of Apothecaries|research]], stopped the Thornsinger from being able to purchase herbs and potions, and protected it from being destroyed by the [[Druj]] for as long as the shroud persists.
+__NOTOC__
+==Responsibilities==
+The Thornsinger had a responsibility to oversee and guide the research. In addition, if Thornsong House or those who train, rest, or study there were to be threatened in any way, it would have been the responsibility of the Thornsinger to deal with those threats.
+
+==Powers==
+===Guide the Apothecaries===
+The Thornsinger could guide the herb masters of the Empire in expanding their mastery of herb lore. The Thornsinger was presented with three potential avenues of investigation that could be pursued over the coming year. The Thornsinger had the power to [[Senate announcement|announce]] which one to focus on in the Imperial Senate. The Navarr would work with their allies to pursue this research, and it would take at least a year. Magic was not able to speed this process up.
+
+===Wealth of the Bayou===
+<div style="float:right; width: 400px; clear: right; margin-left: 10px;">
+<table style="width:400px; float: right; margin-left:10px;" class="mw-collapsible mw-collapsed"><tr><th colspan="2" style="background-color: LightBlue;">'''The Gardens of Song'''</th></td>
+<tr><td>7 crowns</td><td>4 each of doses of [[true vervain]] and [[marrowort]], and 8 doses of random herbs</td></tr>
+<tr><td>17 crowns</td><td>8 each of doses of true vervain and marrowort, and 17 doses of random herbs</td></tr>
+<tr><td>30 crowns</td><td>12 each of doses of true vervain and marrowort, and 26 doses of random herbs</td></tr>
+<tr><td>46 crowns</td><td>16 each of doses of true vervain and marrowort, and 35 doses of random herbs</td></tr>
+<tr><td>65 crowns</td><td>20 each of doses of true vervain and marrowort, and 44 doses of random herbs </td></tr></table>
+<table style="width:400px; float: right; margin-left:10px;" class="mw-collapsible mw-collapsed"><tr><th colspan="2" style="background-color: LightBlue;">'''The Hand of the Healer'''</th></td>
+<tr><td>7 crowns</td><td>1 [[Master_Medicinal#The_Sovereign_Specific|Sovereign Specific]], 1 [[Master_Medicinal#Maledict.27s_Medicament|Maledict's Medicament]], 1 [[Master_Medicinal#Tranquil_Nostrum|Tranquil Nostrum]], 1 [[Apothecary_Potions#Anodyne_Analgesic|Anodyne Analgesic]], 2 [[Apothecary_Potions#Elixir_Vitae|Elixir Vitae]]</td></tr>
+<tr><td>17 crowns</td><td>2 Sovereign Specific, 2 Maledict's Medicament, 2 Tranquil Nostrum, 2 Anodyne Analgesic, 2 Elixir Vitae</td></tr>
+<tr><td>30 crowns</td><td>3 Sovereign Specific, 3 Maledict's Medicament, 3 Tranquil Nostrum, 2 Anodyne Analgesic, 3 Elixir Vitae, 2 Ossean Solution</td></tr>
+<tr><td>46 crowns</td><td>4 Sovereign Specific, 4 Maledict's Medicament, 4 Tranquil Nostrum, 3 Anodyne Analgesic, 4 Elixir Vitae, 2 Ossean Solution</td></tr>
+<tr><td>65 crowns</td><td>5 Sovereign Specific, 5 Maledict's Medicament, 5 Tranquil Nostrum, 3 Anodyne Analgesic, 5 Elixir Vitae, 3 Ossean Solution</td></tr></table></div>
+Thornsong House also functioned as a [[ministry]] - the Thornsinger had access to two different purchase tracks, allowing them to purchase healing herbs and medicinal potions from those who made the hospital their home. The Thornsinger made their decision on how much money to spend during downtime from their character page. Money was removed from, and resources were placed into, the character's inventory when the downtime was processed.
+
+==Appointment==
+This title was appointed during the Autumn Equinox each year. The Thornsinger was appointed by citizens of Navarr who control the [[herb garden|herb garden]] [[Resource#Personal_Resource|personal resources]] through the [[Tally of the Votes]]. The more improved a herb garden an individual controls, the more votes they could allocate in support of a candidate. The voting was handled by the civil servants in the Bourse. 
+
+Only a citizen of Navarr could hold the title. They did not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{CaptionedImage|file=Orinn Embracing Fold.jpg|caption='''Orinn Embracing Fold''', the last Thornsinger|align=left|width=300}}
+{{RecentElections|Thornsinger}}
+==Thornsong House==
+Thornsong House is composed of a collection of interconnected tree houses built surrounding the heart of the college; a grand weirwood hall built around one of the largest of the great trees and supported by several attendant herb gardens, The tree houses are an eclectic blend of original structures and numerous added extensions, giving the buildings a ramshackle appearance that makes it difficult to discern their true size and shape.
+
+The tree houses connect to the weirwood hall by a network of rope bridges, allowing researchers and students to move from one area of study to another. Hanging baskets brimming with a variety of herbs and plants can often be seen being lowered into streams that meander around the tree trunks, allowing the plants to be watered naturally, and then raised up when the herbs are needed for experiments. At times when complex experiments are underway or during particularly lively lectures, the college becomes a spectacle of enticing and intriguing scents.
+
+In Winter 386YE, with the [[Druj]] invading [[Therunin]], Imperial magicians wove a bespoke shroud of [[Night magic]] about the college to protect it. This had the side effect that the college was protected from ''everyone'' - meaning it was impossible to guide the scholars who chose to remain behind. The magic came just in the nick of time as the Druj [[To hold death's hand in mine|swept west out of East Ashes]], conquering [[Therunin#Peakedge Song|Peakedge Song]]. While the [[eternal]] [[Ossegrahn]] stepped in to protect the hospital and the [[Hand_of_the_Healers#Houses_of_Healing|Houses of Healing]], he was unable to protect Thornsong House. As 387YE began, the ward continued to protect the apothecary college... but in the end it proved to be a valiant but fruitless battle. The ward failed after the Autumn Equinox 877YE, and the Druj were waiting.
+
+Thornsong House [[Crimson_and_green#Songs_of_Fire|burned]], as had [[Therunin#Peakedge Song|Peakedge Song]] before it. Yet even the Druj were not wholly victorious. The apothecaries and herb masters of Thornsong House had not been idle during their exile from the world, safe within the wards of Night. The moment the ward failed, they made their move. They fled west  toward the border with [[Reikos]] and the safety of High Chalcis. They were aided on their way by half a dozen blue-skinned heralds of [[Ossegrahn|Lord Rain]] who shared their durance with them. 
+
+Their escape did not go unnoticed - the Druj pursued with bloodthirsty fury. Fortunately Imperial heroes were able to [[Crimson_and_green#Under_an_Oak_(Therunin)|intervene]] via the [[Sentinel Gate]] to save the fleeing apothecaries.
+
+==The Studies of Apothecaries==
+Due to the nature of Thornsong House, it is not feasible to conceal the nature of the work being done here from the people of Navarr or, by extension, the Empire.
+
+* '''Autumn Equinox 386YE:''' '''Wren Dappledgrove''' [[386YE_Autumn_Equinox_Senate_sessions#Thornsong_Research|announced]] research into a tonic could be developed that provides protection from the vallorn miasma by building on some of the principles involved in the [[Tonics of the Open Sky]]. This research was paused at the Winter Solstice 386YE, due to the shroud placed on Thornsong House.
+{{Responsibilities Expectation}}
+[[Category:Title]][[Category:Bourse]][[Category:Navarr]]

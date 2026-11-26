@@ -1,0 +1,62 @@
+==Recent Ministries==
+The list includes all ministries which have been created or appointed in recent times.
+{| class="wikitable sortable"
+|-
+! Name of Ministry !! Method of Appointment !! Location !! Output !! Tenure
+|-
+| [[Bailiff of the Grand Market]] || Bourse, Marches, Farms || Mitwold, Meade March || [[Bailiff_of_the_Grand_Market#Powers|Assorted]] || Year, Winter
+|-
+| [[Bonesetter of Torfast Trading Post]] || Bourse, Imperial Orcs, Military Units || Skarsind, Southpine || [[Bonesetter_of_Torfast_Trading_Post#Powers|Assorted]] || Year, Spring
+|-
+| [[Blackroot Broker]] || Senate, Navarr || Miaren, Holtford || [[Blackroot_Broker#Powers|Assorted]] || Year, Summer
+|-
+| [[Broker of Treji Wayhouse]] || Bourse, Navarr, Herb Gardens || Hercynia, The Glen of Shadows || [[Broker_of_Treji_Wayhouse#Powers|Assorted]] || Year, Summer
+|-
+| [[Burgher of Ketsov]] || Bourse, Varushka, Forests and Mines || Ossium, Galath Fields || [[Burgher_of_Ketsov#Ministry|Assorted]] || Year, Summer
+|-
+| [[Celesti Lighthouse Keeper]] || Senate, Brass Coast || Feroz, Oranseri || [[Celesti_Lighthouse_Keeper#Powers|Mana crystals]] || Year, Spring
+|-
+| [[Eastern Broker]] || Senate, Navarr || Therunin, Peakedge || [[Eastern_Broker#Powers|Assorted]] || Year, Summer
+|-
+| [[Kruidenkenner Trademaster]] || Bourse, Open auction || Necropolis, Longbeach|| [[Kruidenkenner Trademaster#Ministry|Herbs]] || Year, Spring
+|-
+| [[Custodian of the Assayer's Guild]] || Bourse, The League, Businesses || Temeschwar, Locul || [[Custodian_of_the_Assayer%27s_Guild#Powers|Metals]] || Year, Spring
+|-
+| [[Custodian of Ivarsgard Docks]] || Bourse, Varushka, Forests and Mines || Karsk, Lestazny || [[Custodian_of_Ivarsgard_Docks#Ministry|Herbs]] || Year, Spring
+|-
+| [[Dhomiro of the Cinnabar Hills]] || Bourse, Brass Coast, Fleets || Kahraman, Braydon's Jasse || [[Dhomiro_of_the_Cinnabar_Hills#Powers|Metals]] || Year, Autumn
+|-
+| [[Foreman of the Mines of Gulhule]] || Bourse, Imperial Orcs, Military Units || Skarsind, Estermark || [[Foreman_of_the_Mines_of_Gulhule#Powers|Metals]]  || Year, Spring
+|-
+| [[Four Seasons' Boneweaver]] || Bourse, Imperial Orcs || Skarsind, Estermark || [[Four_Seasons%27_Boneweaver#Reavers.27_Mana|Mana crystals]]  || Year, Winter
+|-
+| [[High Herbalist of Sybella]] || Senate, Highguard || Bastion, Sybela Cross || [[High Herbalist of Sybella#Powers|Herbs]]  || Lifetime
+|-
+| [[Kalpaheim Tradeholder]] || Bourse, Wintermark, Military Units || Hahnmark, Kalpamark || [[Kalpaheim_Tradeholder#Ministry|Assorted]] || Year, Summer
+|-
+| [[Liaison to the Temple in Nemoria]] || Synod, Freeborn Assembly || Nemoria, Asavea || [[Liaison_to_the_Temple_in_Nemoria#Ministry|Assorted]] || Year, Winter
+|-
+| [[Magic Butcher]] || Senate, The League || Temeschwar, Hanuri || [[Magic_Butcher#A_Market_for_Mana|Mana crystals]]  || Year, Spring
+|-
+| [[Master of the Clearing House]] || Senate, The League || Tassato, Tassato Mestra || [[Master_of_the_Clearing_House#Powers|Herbs]]  || Year, Summer
+|-
+| [[Master of the Root and Stem]] || Bourse, Marches, Farms || Mitwold, Meade March || [[Master_of_the_Root_and_Stem#Powers|Bladeroot]] || Year, Summer
+|-
+| [[Master of Sarcombe Metal Market]] || Senate, The Marches || Mournwold, Southmoor || [[Master_of_Sarcombe_Metal_Market#Powers|Metals]]  || Year, Autumn
+|-
+| [[Mistress of the Glass Parador]] || Bourse, Brass Coast, Fleets || Madruga, Siroc Plains || [[Mistress_of_the_Glass_Parador#Powers|Assorted]] || Year, Summer
+|-
+| [[Northbound Trademaster]] || Bourse, The League, Businesses || Temeschwar, Hanuri || [[Northbound Trademaster#Powers|Assorted]] || Year, Summer
+|-
+| [[Overseer of the Cavabianca Dock]] || Bourse, The League, Businesses || Sarvos, Cigno || [[Overseer_of_the_Cavabianca_Dock#Powers|White granite]] || Year, Summer
+|-
+| [[Overseer of the Westward Road]] || Bourse, Varushka, Forests and Mines || Karov, Duzekani || [[Overseer of the Westward Road#Powers|Assorted]]  || Year, Winter
+|-
+| [[Quaymaster of the Black Sails]] || Synod, Assembly of Loyalty || Necropolis, Longbeach || [[Quaymaster_of_the_Black_Sails#Powers|Assorted]] || Year, Autumn
+|-
+| [[Steward of the Sarvos Mana Exchange]] || Senate, The League || Sarvos, Cigno || [[Steward of the Sarvos Mana Exchange#Powers|Mana crystals]]  || Year, Spring
+|-
+| [[Steward of the Tassato Mana Exchange]] || Senate, The League || Tassato, Tassato Mestra || [[Steward of the Tassato Mana Exchange#Powers|Mana crystals]]  || Year, Summer
+|-
+| [[Vizier of the Incarnadine Satchel]] || Bourse, Brass Coast, Fleets || Feroz, Morajasse || [[Vizier_of_the_Incarnadine_Satchel#Powers|Herbs]] || Year, Spring
+|}

@@ -1,0 +1,100 @@
+[[Category:Senate]][[Category:Title]][[Category:Foreign Nations]][[Category:Ambassador]]
+{{CaptionedImage|file=Slawomir Rabovich Bolotstrazh.jpg|caption='''Slawomir Rabovich Bolotstrazh''', Imperial Consul|align=left|width=250}}
+==Overview==
+The Imperial Consul is an [[Imperial Title|Imperial title]] appointed by the [[Senate]]. It was [[Create title of High Consul|created]] by the Senate during the Summer 379YE summit, and sparked [[#Constitution|considerable controversy]] leading to a clash between the senators and the civil service over the recommendations of the [[Scrutiny#Constitutional_Court|Constitutional Court]].
+
+In Summer 382YE the Imperial Senate voted to [[Amend_Imperial_Consul|provide a stipend]] to the Imperial Consul. They further amended during the Spring Equinox 383YE to [[Amend_powers_of_Imperial_Consul|make them a member of the Senate]] - again with a [[Amend_powers_of_Imperial_Consul#Campaign_Outcome|certain amount of controversy]].
+
+In Winter 383YE the title was further modified when the Senate chose to [[Construct_Imperial_Consulate|construct]] the [[#Imperial Consulate|Imperial Consulate]] in [[Tassato]] following the [[All_the_news_from_Twin_Town#The_Imperial_Consulate|suggestion]] of the Merchant-Prince of the Featherwick Guild, granting additional benefits including briefings on the Empire's diplomatic position and equal respect as any regular ambassador.
+
+Prior to the Winter Solstice 387YE, the Consul was able to purchase goods from merchants and those seeking favour from the foreign nations with which the Empire had an embassy. This was changed, along with the rest of the ambassadors, when the Senate voted to [[387YE_Winter_Solstice_Senate_sessions#Amend_Imperial_Embassies|amend]] the embassies to end the practice, removing mercantile support and the upkeep costs at the same time.
+
+==Responsibilities==
+The Imperial Consul is expected to liaise with Imperial [[ambassador|ambassadors]] and similar positions and report back to the Senate. The Imperial Constitution is clear that authority for negotiation with foreign powers lies with the appointed ambassador- the Consul has no legal right to direct the ambassadors in their work - their role is to liaise with the Imperial ambassadors and help keep the Senate abreast of diplomatic developments.
+
+The Imperial Consul is however responsible for handling diplomatic relations with any foreign and barbarian power with which the Senate has not created a separate ambassador. The [[Imperial Constitution]] grants the power of authority for diplomatic relations to the Imperial Senate - by creating this title, the Senate divests itself of their remaining authority in this area to the Consul. When dealing with such a nation, their responsibilities are similar to those [[Ambassador#Responsibilities|common]] to an ambassador 
+
+Foreign nations have agendas of their own, and may seek to draw the Empire into their intrigues. The existence of the Imperial Consul does not automatically mean that a foreign nation will engage with them - most nations are disinclined to deal extensively with the Empire while there is no [[embassy]]. The civil service and the [[Civil_Service|Secretary to the Diplomatic Corps]] will do their best to appraise such nations of the role of the Imperial Consul.
+===Limitations===
+The Imperial Consul can only represent the Empire in dealings with foreign or barbarian nations where there is no existing Imperial ambassador with responsibility for doing so. If an embassy for a foreign nation has been completed then the legal powers of the Consul do not cover dealings with representatives of that nation - even if the ambassador is absent or the post has not yet been filled; the existence of such a title is sufficient.
+
+==Powers==
+===Right of Address===
+The Imperial Consul has the right to make a [[Senate address]] once per summit. This is intended to allow them to present important information for the senators consideration. To make an address, the Consul must inform the [[Speaker for the Senate]] of their intention, so that the Speaker can add the address to the agenda for the next [[Senate session]].
+===Representative of the Empire===
+The civil service provide support to help an ambassador to represent the Empire when dealing with foreign dignitaries from any nation where there is no existing ambassador. They have all the available legal powers of an ambassador; the power to receive a [[Ambassador#Delegation|delegation]] and compose a [[Ambassador#Treaty|treaty]] when dealing with a foreign or barbarian nation.
+
+The Consul receives a unique [[Ambassador#Briefing|briefing]] every summit, containing information about the various barbarian and foreign nations the Empire has no existing ambassador to deal with. They also receive a broad overview of the relationship between the Empire and all nations with which it does have an Embassy. Although these briefings are not as in-depth as those received by the individual Ambassadors, they serve to assist the Consul in discharging their duties as a liaison between the ambassadors and the Senate.
+===Trade Terms===
+Once per summit, the Imperial Consul may make an announcement amending the Empire's trading terms with a foreign nation, where no position of Imperial Ambassador exists for that nation.
+
+===Stipend===
+The Imperial Consul receives a stipend of 5 thrones each season from the [[Imperial treasury]].
+
+===Vitore's Mightiest Weapon===
+The Imperial Consul bears ''Vitore's Mightiest Weapon'', an artefact of unknown power. It is the legal property of the title. If the Consul loses their position, then the item must be given to the new Consul with all appropriate haste. The Imperial Consul is encouraged to take all appropriate precautions to keep this item safe.
+
+==Appointment==
+The Imperial Consul is an Imperial position [[Appointments_by_the_Senate#Imperial_Position|appointed by the Senate]]. Any Imperial citizen can hold this title, and the consul serves for a year. They can be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+{{RecentElections|Imperial_Consul}}
+==Consul Lore==
+===Imperial Consulate===
+Refurbished from an old four-storey building a stone's throw from the University of Tassato, the Consulate is an impressive edifice on the eastern banks of the river Vassa. The expanded private docks allow dignitaries and merchants from a wide variety of foreign powers to visit the Consul in private to discuss matters of import - or merely import their goods. The building also features fine apartments for the Consul's exclusive use, allowing them to host guests from within and without the Empire's borders and impress them with the accoutrements of state.
+
+Around a dozen staff also reside in the building, hand-picked by the Civil Service for their diplomatic acumen.
+<!--if you edit this section make sure to edit the section on the Tassato page too-->
+
+===Constitution===
+During [[scrutiny]] by the [[Scrutiny#Constitutional_Court|Constitutional Court]] several significant issues were raised with this title. [[Create_title_of_High_Consul#Constitution|These issues]] included concerns about the use of the [[#Right of Address|Right of Address]], the implicit authority of the title to command other Imperial citizens, and the use of the word "High" in the original title. 
+
+The Constitutional Court returned the motion creating the title to the Senate with a series of proposed amendments, leading to extensive and energetic debate between the Senators and [[Officers_of_the_Law#Magistrate|Magistrate]] Karkovich. After spirited discussion, the [[Senate_motion#Administrative_Motions|administrative motion]] suggesting changes to the presentation of the title was accepted by the Senate.
+{{Senate Further Reading}}
+
+<!--
+==Archival Stuff==
+<div style="display:inline-block; float: left; width: 300px; margin-right: 10px;">{{CaptionedImage|file=KelluaItsepainen.jpg|caption=The first Imperial Consul was appointed in Summer 379YE|title=	Kellua Itsepainen|align=left|width=300}}</div>
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightBlue;">[[Asavean_Archipelago|Asavean]] Merchants</td></tr>
+<tr><td>192 Rings</td><td>6 Cerulean Mazzarine, 5 Orichalcum, 4 Iridescent Gloaming, 3 Tempest Jade</td></tr>
+<tr><td>720 Rings</td><td>18 Cerulean Mazzarine, 15 Orichalcum, 12 Iridescent Gloaming, 9 Tempest Jade</td></tr></table></div>
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightBlue;">[[Axos|Axou]] Merchants</td></tr>
+<tr><td>160 rings</td><td>5 beggar's lye, 4 orichalcum, 3 tempest jade, 3 mana crystals</td></tr>
+<tr><td>600 rings</td><td>15 beggar's lye, 12 orichalcum, 9 tempest jade, 9 mana crystals</td></tr></table></div>
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightBlue;">[[Commonwealth]] Merchants</td></tr>
+<tr><td>160 Rings</td><td>5 green iron, 5 tempest jade, 4 ambergelt</td></tr>
+<tr><td>600 Rings</td><td>15 green iron, 15 tempest jade, 12 ambergelt</td></tr></table></div>
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightBlue;">[[Faraden]] Merchants</td></tr>
+<tr><td>192 Rings</td><td>4 true vervain, 2 Imperial roseweald, 5 weltsilver, 3 orichalcum, 2 tempest jade, 2 green iron</td></tr>
+<tr><td>720 Rings</td><td>12 true vervain, 6 Imperial roseweald, 15 weltsilver, 9 orichalcum, 6 tempest jade, 6 green iron</td></tr></table></div>
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightBlue;">[[Iron Confederacy|Suranni]] Merchants</td></tr>
+<tr><td>192 Rings</td><td>6 marrowort, 6 green iron, 4 ambergelt, 2 orichalcum</td></tr>
+<tr><td>720 Rings</td><td>12 marrowort, 20 green iron, 14 ambergelt, 6 orichalcum</td></tr></table></div>
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightBlue;">[[Thule]] Merchants</td></tr>
+<tr><td>288 Rings</td><td>10 mana crystals</td></tr>
+<tr><td>864 Rings</td><td>24 mana crystals</td></tr></table></div>
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">[[Principalities of Jarm|Jarmish]] Merchants</td><td style="background-color: LightBlue;">Production</td></tr>
+<tr><td>192 Rings</td><td>6 Imperial Roseweald, 3 Crystal Mana, 5 Dragonbone, 3 Green Iron</td></tr>
+<tr><td>720 Rings</td><td>18 Imperial Roseweald, 9 Crystal Mana, 15 Dragonbone, 9 Green Iron</td></tr></table></div>
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightBlue;">[[Sarcophan Delves|Sarcophan]] Merchants</td></tr>
+<tr><td>160 Rings</td><td>5 beggar's lye, 5 weltsilver, 5 marrowort, 4 Imperial roseweald</td></tr>
+<tr><td>600 Rings</td><td>15 beggar's lye, 15 weltsilver, 15 marrowort, 12 Imperial roseweald</td></tr></table></div>
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightBlue;">[[Sumaah Republic|Sumaash]] Merchants</td></tr>
+<tr><td>160 Rings</td><td>6 liao, 5 orichalcum, 5 dragonbone, 3 Imperial roseweald</td></tr>
+<tr><td>600 Rings</td><td>18 liao, 15 orichalcum, 15 dragonbone, 9 Imperial roseweald</td></tr></table></div>-->
+===Member of the Senate===
+The Imperial Consul is a [[Senate_session#Member_of_the_Senate|member of the Senate]]. They are entitled to enter the Senate chamber at the start of a [[Senate session]] and participate in the debates. They do not have the power to raise motions or to vote on a motion.
+<!--
+===Foreign Merchants===
+The Imperial Consul enjoys a unique form of [[Ambassador#Mercantile_Support|mercantile support]]. Merchants and those seeking favour from every foreign nation with which the Empire has established an Embassy send representatives to Tassato to visit the Consulate. This functions as a series of [[ministry|ministries]] which allow the Consul to purchase quantities of special materials at a set price, similar to those enjoyed by the respective Ambassadors, albeit not on the same scale.
+
+The Consul spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+-->

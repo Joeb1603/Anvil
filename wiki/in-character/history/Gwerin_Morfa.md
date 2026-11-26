@@ -1,0 +1,78 @@
+---
+title: Gwerin Morfa
+source: https://www.profounddecisions.co.uk/empire-wiki/Gwerin_Morfa
+class: in-character
+topic: history
+categories:
+- History
+last_edited: '2026-07-19T00:25:53Z'
+revision: 142075
+---
+
+# Gwerin Morfa
+
+*[Image: Sketches of Gwerin Morfa artefacts by Lim Sinij, Autumn 379YE](https://www.profounddecisions.co.uk/empire-wiki/File:GwerinMorfa.png)*
+
+## Overview
+
+In Autumn 379YE Corey Brackensong, as [Dredgemaster of Feverwater](../../mixed/titles/Dredgemaster_of_Feverwater.md), commissioned [historical research](../../mixed/government/senate/Historical_research.md) about "*The Gwerin Marfae, the marshfolk around at the time of Terunael*." Very little is known about these people, who apparently lived in what is now the north-western [Mallum](../barbarians/The_Mallum.md), and potentially in parts of eastern [Dawn](../nations/dawn/Dawn.md) long before the foundation of the Empire.
+
+What little is known about these enigmatic people is summarised here in a document compiled for the Dredgemaster by Lim Sinij of the Halls of Knowledge. It contains a great deal of speculation and should, perhaps, be taken with a pinch of salt.
+
+## What Little is Known
+
+Among the existing archives of Imperial Lore, there is precious little information on the Gwerin Morfa. For once, [Emperor Nicovar](Emperor_Nicovar.md) bears only part of the blame – even before the burning of the libraries there was precious little known about this people who, at one point, were considered entirely fictional. I will share with you what is known, and what has been discovered via other means, in particularly the small amounts of archaeological evidence we have managed to gather.
+
+I must confess that there is little of this to share. Even the location of the Terunael city of “Beantol”, wherein we might expect to find more information, is lost. Again, until recently, [Therunin](../nations/navarr/Therunin.md) was believed to be the easternmost city of Terunael. References to “Beantol” or “Beandol” - the city in the lands of the Druj - were considered purely fanciful in many academic circles.
+
+One thing that can be said with confidence – the Gwerin Morfa spoke [Iaith](../world/Languages.md#other-british-languages), rather than (or possibly in conjunction with) Imperial. Whether they are the people with whom the language originated, or speakers of a language that to their contemporaries served the same purpose as modern Imperial serves in the Empire, is impossible to say.
+
+The name – Gwerin Morfa – is certainly Iaith in origin. It translates roughly as “folk of the coastal marshes”. However, as with almost everything else, the assertion that this was the name these people gave themselves is speculative. It is possible that this is not what these people called themselves, but something applied to them by the Terunael. Or, it might be the name of a subculture within a larger culture whose name is now completely lost to us.
+
+Recent research into the [origins of the Vard and Ushka](../nations/navarr/People_of_the_North.md) draws attention to the idea that there were already human civilisations in this area when the Terunael raised their cities – it is entirely possible the Gwerin Morfa are one of those human cultures contemporary with the [Suaq](../nations/wintermark/Suaq.md), [Kallavesi](../nations/wintermark/Kallavesi.md), and [Ushka](../nations/varushka/Varushka.md) who did not survive the last great [orc](../../mixed/world/Orc.md) incursion.
+
+Historically, we believe that the Gwerin Morfa were a pre- or perhaps even proto-Terunael culture that lived principally in marshes across parts of the eastern Empire and beyond. There are scattered references to them in fragments of text from pre-[vallorn](../nations/navarr/Vallorn.md) Terunael, and a handful of comments in documents preserved from the diaspora-era Navarr.
+
+We can only conjecture as to why they would choose to live in such marginal land. Were the marshes of the Empire once drier, more fertile, or home to less dangerous parasites and diseases? Was the continent warmer and wetter in ancient times, covered in marshland from [Kallavesa](../nations/wintermark/Kallavesa.md) to Therunin? Were the principal non-marsh areas of the continent which might have offered firmer footing and a base for infrastructure occupied by other beings who had marginalised them to outlying bogs? Perhaps the orcs? This might again suggest that the Gwerin Morfa were siblings of the early Kallavesi, Suaq, and Ushkans – all peoples believed to have been driven into inhospitable terrain by the domination of the orcs.
+
+Almost all of our physical evidence – an inscription on a stela, a few pieces of pottery, occasional preserved scroll fragments – comes from the east where [Druj](../barbarians/Druj.md) incursions were particularly savage. The best documented discoveries of what purport to be Gwerin Morfa artefacts are in Therunin and [southern Holberg](../nations/the-league/Holberg.md#the-morass). Speculation also suggests that the marshlands inhabited by the Gwerin Morfa would have been particularly subject to poisonous [Spring magic](../../out-of-character/rules/Spring_magic.md) unleashed by the Druj – and are of particular interest to them given their fascination with herbs and poisonous creatures.
+
+Speculation again. The problem remains that there is little evidence for the existence of the Gwerin Morfa at all. If they were widespread, even so long ago, surely the bones and artefacts of such a culture would have surfaced before now. Still - absence of evidence is not evidence of absence. There is some evidence that the height of their culture pre-dates the Terunael. Fragments of Iaith poetry and song suggest that at one point literature in that language had some influence on the culture of the forerunners of the Navarr – and in the role of an equal - or even superior - culture rather than a subject. Yet today the language is almost unknown.
+
+Some of this Navarr documentation suggests that the Gwerin Morfa culture continued (though to what extent is unknown) into Terunael times but not beyond. Primary theories of their destruction suggests that either they were wiped out by the vallorn or fell in the last days before that disaster during the barbarian orcish incursions which precipitated it.
+
+If they did avoid consumption by the angry green tide of the vallorn, we can only speculate as to whether the presumed centre of Gwerin Morfa civilisation east of Feverwater fell in battle with the Druj, or were taken as subjects and forced into slavery, perhaps in the orc lands even further to the east. It is in this area that we believe the Gwerin Morfa were principally located. There has been no evidence of their culture unearthed in any excavations in the bogs of [Kallavesa](../nations/wintermark/Kallavesa.md) or [Bregasland](../nations/the-marches/Bregasland.md) - though it must be said that the terrain there makes undertaking expeditions into the area highly speculative. Yet even in this scholars are divided – the chalk designs of [the Marches](../nations/the-marches/The_Marches.md) bear some similarity to the beast totems of the Gwerin Morfa (I touch on this below).
+
+It is commonly conjectured that the [Feni](../nations/the-marches/Feni.md) tribespeople of the Marches (and the northern [Brass Coast](../nations/the-brass-coast/The_Brass_Coast.md), and southern [Wintermark](../nations/wintermark/Wintermark.md)) could be continuing survivors of the ancient civilisation to which the Gwerin Morfa belonged. This is held up by a comparison of the cultural trappings of the Feni to the known customs of the Gwerin Morfa, which I will discuss now.
+
+Whilst conditions often make it difficult and highly speculative to undertake archaeological expeditions in marshland, discovery archaeology (that is, creating or expanding a dig on in an area where artefacts or human remains have already been discovered) can yield excellent results due to the high degree of preservation of remains in compacted peat bogs and similar areas where moisture (the principal agent identified in the decay of remains) has been kept out of an area by natural means, usually to do with the porosity and elevation of the local soil. Peat bogs are often elevated above groundwater level in comparison to the remaining land.
+
+We know from artefacts ascertained this way that many of them wore long-sleeved tunics of dyed wool. There are precious few remaining artefacts of soft matter, since the moisture in the air begins to affect and decay the matter when it is exposed and removed from the dig. What ornament and jewellery survives in the form of grave goods consists of marked [dragonbone](../../out-of-character/rules/Materials.md#dragonbone) necklaces, bracelets, and nose, ear and lip piercings. Sometimes the dragonbone has been fashioned into crude shapes which, together with analysis of remaining art from parchments suggests that Gwerin Morfa held animal totems in particular high regard, perhaps even worshipping them.
+
+In addition to dragonbone, several moonsilver brooches, and a sungold buckle, all inlaid with pieces of [tempest jade](../../out-of-character/rules/Materials.md#tempest-jade) have been unearthed. In each case the quality of the pieces is notable – although some scholars speculate that it is possible they might be pieces purchased from – or taken in battle from – a different culture.
+
+We can extrapolate from these cultural trappings and existing further documentation that they were arranged in tribal groups (or clans) centred around a particular animal totem, amongst them boars, bears, wolves, toads, and snakes. No non-predatory animal has been discovered operating in the manner of a totem though that does not mean these never existed.
+
+There is evidence of early inter-tribal raiding amongst them whereby the victorious clan would burn all instances of the totem of the loser – perhaps assimilating survivors of the losing clan into their own. Some burnt remains of dragonbone wolf totems have been unearthed in northern Therunin, but not recently. Certainly the evidence of particular animal totems suggests one thing of import, because those that we know – with the exception of the toad and snake - are not animals which commonly make habitat in bogs or marshland.
+
+Of particular interest is a distinct lack of steel items among the relics of the Gwerin Morfa – although perhaps given accounts that both the Ushka and the Kallavesi/Suaq had very little (or no) steel prior to the arrival of the Vard/Steinr this should not be surprising. They appear to have particularly favoured alloys of [orichalcum](../../out-of-character/rules/Materials.md#orichalcum) – with gold for jewellery, and with tin and copper to produce a metal similar to bronze. Precisely where this orichalcum came from is a riddle – it is not a metal found in any abundance in marshes, after all. There is some speculation that orichalcum alloys were restricted to important or unique items – and that common Gwerin Morfa made do with bronze or iron weapons – but there have been a handful of finds of steel items. In the northern Therunin site, four steel arrowheads were recovered as part of the grave goods, for example.
+
+Comparisons between the few historical trappings of the Gwerin Morfa that persist, and the existing culture of the Feni, are inconclusive. It is possible that the Feni are an offshoot of the ancient civilisation reduced over time to savagery or ancient contemporaries (as it were) of an ancient culture whose customs and habits have been unchanged by centuries of progress. It is even conjectured by some scholars that the Feni represent a migration west of the remains of the Gwerin Morfa culture from its origins upstream of Feverwater.
+
+Further conjecture, extrapolated from those few examples of still-existing documentation from those formative times and limited archaeological evidence, suggest that each clan employed larger representations of their totem animals in defence of their villages. Several sketches in charcoal exist showing great stone carvings erected on outcrops of higher ground around a village, fashioned in the likeness of a particular animal or animal head. Comparisons have naturally been drawn both with the giant stone head recently recovered by heroes at [Anvil](../nations/highguard/Casinea.md#anvil) during the siege of Holberg, and with chalk carvings on hillsides such as the [Old Pig in Mournwold](../nations/the-marches/Mournwold.md#freemoor). In particular, Old Pig bears certain stylistic similarities to paintings on pot shards found in Therunin.
+
+We know nothing about what magic – if any – the Gwerin Morfa employed; which realms (if any) they favoured and what [eternals](../eternals/Eternal.md) they might have treated with. They certainly had knowledge of artifice – several of the animal-totem necklaces have shown signs of being long-depleted magical items. Examination of a boar pendant found in Therunin discovered that at one time it would have functioned in a manner similar to a [Bloodfire Periapt](../../mixed/magic/items/Bloodfire_Periapt.md).
+
+It is very likely though, from the discovery of two skeletons in the Morass in southern Holberg, that they counted at least one [cambion](../../mixed/magic/lore/Cambion.md) and one antlered [changeling](../../mixed/magic/lore/Changeling.md) amongst their numbers indicating the presence of [lineage](../../mixed/magic/lore/Lineage.md).
+
+This is the sum of information that is currently available to us and I press on you once again that the total of our resources in this particular area is embarrassingly small. Should you discover anything further on your own merits we would be pleased to add that to our body of knowledge.
+
+There are three possible paths of further investigation. The first is the Iaith language – the Navarri scholar Osian ap Feurig is one of the Empire's leading experts on the language and has made a study of poetry and literature that may contain further insights into the Gwerin Morfa. While they are peripatetic scholar, they are known to have some connections with a Navarri instructor at the Academy called Iestyn Tair Leidr.
+
+Secondly, there is known to be a significant area of marshy terrain in the Barrens called “Saltmarsh” that lies along the banks of a great river – possibly even the same river that runs down into the Feverwater. It is possible that some Gwerin Morfa settlements might have existed here. Whether anything survived the domination of the Druj would be hard to say – but an avenue of investigation might be opened with the indigenous orc population.
+
+The final avenue is mentioned only for the sake of scholastic completeness – the Druj may have records of their own about the Gwerin Morfa of “Beantol” - although obviously anything they might know or be prepared to share will come at a high price and be suspect as any communication from those verminous barbarians.
+
+---
+
+Categories: [History](../../indexes/by-category/History.md)

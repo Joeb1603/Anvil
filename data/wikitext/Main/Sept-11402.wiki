@@ -1,0 +1,37 @@
+==Overview==
+The Imperial Orc nation is divided into six great septs, each consisting of thousands or more orcs who share common ancestors and common beliefs and practices. The founders of the Imperial Orc nation now call themselves the [[Sunstorm]] sept, to distinguish themselves from those who came after - the [[Tamazi]], the [[Ethengraw]], the [[Illarawm]], the [[Sannite|Sannites]], and the [[Yerende]].
+
+Each sept maintains their own unique legacy: a powerful oral history, coupled with distinct beliefs and practices. Having one or more common ancestors helps to keep the sept united, even when separated by vast distances.
+
+The urge to be part of something more important than yourself is part of the essential nature of all orcs, so every Imperial Orc must choose to be a member of one of the six septs.
+
+==Choosing A Sept==
+Each sept has their own unique traditions and beliefs that are important to them. It is a good idea to spend some time reading the wiki page for a sept if you are interested in playing a member. They are all designed to give you some extra hooks for your character, things you can roleplay that will make your character stand out or help you when creating goals that your character can try to pursue. They include some advice for costume and the key bits of background that most members of the sept would know.
+<div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between">
+  <div class="captioned-image>[[File:Ethengraw.png|150px|Ethengraw|link=Ethengraw]]<div style="text-align: center;">[[Ethengraw]]</div></div>
+  <div class="captioned-image>[[File:Illarawm.png|150px|Illarawm|link=Illarawm]]<div style="text-align: center;">[[Illarawm]]</div></div>
+  <div class="captioned-image>[[File:Sannite.png|150px|Sannite|link=Sannite]]<div style="text-align: center;">[[Sannite]]</div></div>
+  <div class="captioned-image>[[File:Sunstorm.png|150px|Sunstorm|link=Sunstorm]]<div style="text-align: center;">[[Sunstorm]]</div></div>
+  <div class="captioned-image>[[File:Tamazi.png|150px|Tamazi|link=Tamazi]]<div style="text-align: center;">[[Tamazi]]</div></div>
+  <div class="captioned-image>[[File:Yerende.png|150px|Yerende|link=Yerende]]<div style="text-align: center;">[[Yerende]]</div></div>
+</div>
+
+==Changing Sept==
+For generations, the Imperial Orcs have believed that the only ways to hear an ancestor were to be a direct descendant of them, have known them well when they were alive, or to be a descendant of someone who knew them well. When the [[Illarawm]] sept joined the nation, they shared their skills and spiritual understanding. They showed other septs how to use meditation to still the voices of the ancestors; to allow them to connect to an ancestor whose advice they sought; and how to forge a permanent connection through the ceremony of [[Imperial Orcs religious beliefs#The Living Bridge|the Living Bridge]]. Their techniques for embracing new ancestors are now widespread throughout the nation. The Illarawm have overturned accepted wisdom, demonstrating clearly that most orcs can embrace most ancestors.
+
+These new techniques have been beneficial to all Imperial Orcs, not least because they make it easier for an orc to change sept should they feel the call to do so. Through the Living Bridge an orc can create a connection to the ancestors of a new sept, making it easier for them to find acceptance among their new family. While an orc might join the Yerende without the ability to hear ''Runa'', the Soft-Speaker, it would be harder for them to embrace the sept's philosophy without the guidance of the most respected Yerende ancestor. Gaining the ability to share their ancestor with others has allowed the septs to take in those who seek a home with them. No orc would undertake such a thing lightly, for it usually means quieting the voices of familiar ancestors to make it easier to hear the voices that guide the new sept.
+
+Those who join a sept discover the experience to be a little like the influence of the egregore on those who change nation. The presence of the new ancestor's voice encourages them to pursue the same approaches as other long-standing members of the sept. Orcs who change sept tend to adapt their views, their approach to life, and even their dress, accordingly.
+
+This doesn't mean the orc stops hearing the voices of ancestors they were previously familiar with (although they may choose to do this through the Living Bridge ceremony, especially if those ancestors are an impediment to embracing the beliefs of the new sept). An Ethengraw, with a connection to the eponymous ancestor, who joins the Yerende will not automatically stop hearing that voice just because they changed sept. Over time, however, if they ignore Ethengraw's urging to act with dignity and achieve greatness in favour of Runa's urging to solve problems and explore the wider picture, they will find that Ethengraw speaks to them less and less, and the voice becomes harder to hear when it does speak.
+
+==Septs and Groups==
+Some Imperial Orcs see their loyalty to their sept as their first priority, just as some orc legions have long made the wellbeing and prominence of the legion their focus. However many Imperial Orcs see their first loyalty as either the Empire or the nation as a whole, rather than their legion or their sept. The septs are important because the beliefs, the traditions, and the history are all significant, but relatively few orcs are committed to advancing the interests of their sept.
+
+It is perfectly acceptable to play a [[Imperial_Orcs_military_concerns#The_Legion|legion]], a band of [[Imperial_Orcs_economic_interests#Reavers|reavers]], or a [[Imperial_Orcs_leadership#Overview|coterie]] that is made up of members of one sept only. Members of the same sept may have known each other for many years and developed long-standing bonds of trust. However, there is no need to do this - any Imperial Orc group can include members of any sept. A band of reavers might be led by a Sannite gladiator, backed by half a dozen Sunstorm and Ethengraw warriors and supported and guided by a pair of Yerende herbalists. A coterie dedicated to building a [[runeforge]] in Skarsind might be founded by an Illarawm artisan but grow to include Ethengraw smiths eager to embrace the possibilities that a runeforge would offer and Tamazi magicians keen to leave their mark on their territory.
+
+The aim with septs is to give Imperial Orc players subtly different ways to create and play Imperial Orc characters, so you don't have to confine yourself to choosing the same sept as your friends.
+
+==New Septs==
+A sept consists of thousands of orcs or more. The Sannites are the smallest sept in Skarsind and there are several thousand of them. There are more than ten times that number of Sunstorm orcs. It is not possible for characters to create a new sept in play - there is no way to create thousands of new orcs with new traditions, background and history. The only way a new sept can appear as a direct result of player actions is in response to plots run by Profound Decisions that make that possibility clear.
+[[Category:Imperial Orcs]]

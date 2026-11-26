@@ -1,0 +1,14 @@
+<box><big>'''{{Black Plateau}}'''</big><br>
+All characters on the ''{{{skirmish}}}'' encounter will be under the effect of [[Calls#WEAKNESS|WEAKNESS]] that cannot be removed whilst on the encounter and experience heightened emotions unless they:
+* Expend a hero point upon entering the area
+* Are subject to an anointing
+* Overcome the oppression using their [[Cambion#Roleplaying_Cambion|cambion]] lineage
+* Are bonded to a magical item or have a ritual enchantment that mitigates effects like these
+</box>
+
+<noinclude>
+== Usage ==
+<pre>
+{{BP Aura|skirmish=name of the skirmish}}
+</pre>
+</noinclude>

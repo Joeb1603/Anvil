@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Autumn]]
+__NOTOC__
+<quote by="Announced by Protectorate Thenrik, Legion Engineer">To commission the building of a Bounders Hall in Meade. This will create a Marcher National title of the "Bailiff of Meade" appointed by Marcher senators. This was funded by the prosperous house of Talbot and the House Mudd, both of Mitwold.</quote>
+==Overview==
+* Constructs a Bounder's Hall in [[Mitwold]] as per the '''[[Kith_and_kin#Hard_Work|Kith and kin]]''' wind of fortune
+* Announcement by the [[Legion Engineer]]
+==Date==
+* Autumn 386YE
+==Cost==
+* Costs as per opportunity
+* 12 white granite
+* 36 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Bounders_Hall_of_Meade}}
+==Outcome==
+* Now complete, the position of [[Bailiff of Meade]] will be available to appoint by unanimous vote of the senators of [[the Marches]] for the first time at the Winter Solstice 386YE. Marcher [[beater|beaters]] can now send their [[military unit|military units]] to defend Mitwold.

@@ -1,0 +1,17 @@
+{{Senate Motion}}
+<ic>To amend the motion to create the title of Imperial Master of Works, which was passed at the Autumn Equinox 377YE, to limit the number of commissions they may authorise to one per summit.<br>
+<i>Administrative Motion</i></ic> 
+
+===Overview===
+* This motion was part of a larger series of motions to amend the powers of the titles created by the Senate which have the power of commission, following on from the recent understanding of the limitations of the Imperial Surveyors. 
+* Passed
+
+===Date===
+* Spring 380YE
+
+===Campaign Outcome===
+* The Imperial Master of Works may only authorise one commission each summit.
+
+[[Category: Senate Motion]]
+[[Category:380YE Spring]]
+__NOTOC__

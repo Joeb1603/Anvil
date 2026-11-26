@@ -1,0 +1,296 @@
+---
+title: A knock at the door
+source: https://www.profounddecisions.co.uk/empire-wiki/A_knock_at_the_door
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 388YE Spring
+- Foreign Nations
+- Mandate
+- Beoraidh
+event: 388YE Spring
+last_edited: '2026-09-01T14:56:19Z'
+revision: 144543
+in_character_boxes: 4
+---
+
+# A knock at the door
+
+> *In-character text:*
+>
+> "Well, doors obviously. Portals, in both the mundane and the magical sense. Thresholds, literal and metaphorical. Transitions, moving from one state to another. Every journey begins by passing through a door, so travel and by extension trade."
+>
+> "... all that from four little stars?" The orc merchant looked sceptical. Makkima used all her will not to sigh and roll her eyes.
+>
+> "The size of the star doesn't... look, can you just trust me on this? We need to perform the ritual inside your office, and during it you need to move through its door. That's all you need to do. We'll do everything else."
+>
+> "It just doesn't make sense. I mean, for a start, what about closed doors? Doesn't that mean you stars are as likely to shut me out of the rooms where the deals I want to be inside of happen? How do these tiny lights know what I want?"
+>
+> "They're not small, maester. They are far... please, can you just... I don't come down to your office and tell you how to get your ships loaded up or how to pick a port to trade at or... you see what I mean?"
+>
+> "I do, I do. But I like to understand what I'm buying. I didn't get where I am today by accepting things at face value, especially when they don't make a lick of sense. So explain to me again. Why only four lamps? If four lamps are good for guiding my ships to Sarcophan, wouldn't eight lamps mean the magic was even twice as good?"
+>
+> "Let's start again. Maybe a metaphor would help? You see, the Door is like a quay..."
+>
+> As soon as she said it she knew she'd made a mistake as the merchant opened his mouth to immediately disagree with her. As her temper started to fray, Makkima briefly heard the echo of Sheanduir whispering that her best course would be to have the merchant thrown out onto the street because there would always be more traders desperate for the profits her magic could provide. Perhaps have him beaten as a warning of the dangers of trying her patience.
+>
+> But she resisted the urge to follow that advice; this wasn't the good old days. Now she was in competition with a half dozen other jumped-up "magicians" who'd leap at the chance to tell prospective customers how unwelcoming she was. Instead she forced her face into a smile as the merchant explained that the only things doors and quays had in common is that some of them had four corners.
+
+*[Image: The city-state of Beoraidh continues to seek diplomatic and economic ties with the Empire, among others.](https://www.profounddecisions.co.uk/empire-wiki/File:Loud_Gull.jpg)*
+
+## Overview
+
+- **The people of Beoraidh are recognised as foreigners by the Senate**
+- **They continue to seek trade and diplomatic ties with both the Empire and the Grendel**
+- **They have accepted the patronage of the Sarcophan Delves**
+- **The new ambassador to Beoraidh is the Highborn Melkior of Balthazar's Vineyard**
+
+Before [Mareave](../nations/imperial-orcs/Mareave.md) was conquered by the Empire, Beoraidh was the stronghold of the Salt-Lord Ehsan and his supporters. As war spread through the territory, the population was swollen by the arrival of refugees, especially from wealthy [Clisearn](../nations/imperial-orcs/Mareave.md#clisearn). In a surprise move, Ehsan declared independence from the [Grendel](../barbarians/Grendel.md) and sued for peace with the Empire. He laid out a plan for his people that involved declaring the city, and the neighbouring region of [Sinfoyard](../nations/imperial-orcs/Mareave.md#sinfoyard), as a neutral state. A free port where both Imperial and Grendel merchants would be welcome, without favouring either. Evidence suggests that his negotiations with his former peers have been successful, and then toward the end of 387YE he secured an offer of protection from the powerful [Sarcophan Delves](../foreign-nations/Sarcophan_Delves.md).
+
+The newly styled *Ehsan, Lord of Sand* rules from the city. They work to mould the place into a "free port" where traders from everywhere are welcome - provided they bring money or goods to trade. As discussed in the **[A wild night and a new road](A_wild_night_and_a_new_road.md#polite-correspondence)** wind of fortune, Beoraidh has come [under the protection](All_the_night-tide.md#beoraidh) of the [Sarcophan Delves](../foreign-nations/Sarcophan_Delves.md) - something that has not sat entirely easily with their Imperial neighbours. How much influence the Sarcophan have is unclear but it implies that anyone attacking Beoraidh - Imperial or otherwise - will incur the wrath of the Delves, their warships, and their economic sanctions.
+
+> **[Beoraidh](../nations/imperial-orcs/Mareave.md#beoraidh)**
+>
+> - **Status: Foreigner**
+> - **Ports: Currently none.**
+> - **Ambassador: Melkior of Balthazar's Vineyard of [Highguard](../nations/highguard/Highguard.md)**
+
+The [ongoing battle](../winds-of-war/Wide_azure_skies.md) over the territory has seen the independent citizens of the city stay securely behind their walls, keen to avoid being caught up in the fighting. Their best interest probably lies in the territory being split evenly between the Salt Lords and the [Unshackled](../nations/imperial-orcs/Imperial_Orcs.md) so that neither side has dominion, but that outcome seems very unlikely indeed. Today, Beoraidh enjoys a precarious position between two powerful warlike nations. Its survival depends on persuading both the Empire and the Broken Shore of its usefulness, as well as retaining the patronage of the Delves. A difficult balancing act, where one misstep could see the city sacked and its people put to the sword, enslaved, or driven into the sea.
+
+## Welcome Ambassador
+
+- **Ehsan is positive about the decision to appoint an ambassador even without an embassy**
+- **Beoraidh has appointed *Rubhart Kaltrin* as Ambassador to the Empire**
+
+*[Image: Melkior of Balthazar's Vineyard , Ambassador to Beoraidh](https://www.profounddecisions.co.uk/empire-wiki/File:Melkior_of_Balthazar%E2%80%99s_Vineyard.jpeg)*
+
+Last season Ehsan [presented plans for a consulate](Each_age_a_lens.md#investment-of-stone) in Beoraidh for use by the [Imperial Consul](../../mixed/titles/Imperial_Consul.md). In a move that initially surprised the Lord of Sand, the [Senate](../../mixed/government/senate/Senate.md) did not commission the consulate but instead [created a new Ambassador to Beoraidh](../senate-sessions/387YE_Winter_Solstice_Senate_sessions.md#create-ambassador-to-beoraidh) to replace the Consul. The [Senate motion](../senate-motions/Senate_motion.md) apparently *explicitly* stated that no embassy would be built.
+
+At first a little nonplussed, Ehsan is apparently pleased by the decision. There's no requirement for Beoraidh to build an expensive embassy in the city, and no need for a staff of Imperial civil servants to establish themselves in the "neutral territory". Instead, all he needs to do is select one of his advisors to serve as ambassador to the Empire. With that in mind, the Lord of Sand is pleased to present *Rubhart Kaltrin* to Ambassador Melkior. Rubhart is one of Ehsan's (many) relatives - a great-nephew as near as the civil service can tell. They have investments across the city, having initially made their money in the salt trade but now having mostly divested their interests and focused on using money to make money. They are reportedly keen to get started and look forward to meeting Ambassador Melkior at some point in the near future.
+
+Under normal circumstances, an ambassador without an embassy has problems being taken seriously by a foreign nation - especially given the relative prestige of other ambassadors and the Imperial Consul. In this case, however, Beoraidh sees a dedicated ambassador as a sign of respect. They are being taken as seriously as the [Iron Confederacy](../foreign-nations/Iron_Confederacy.md), the [Commonwealth](../foreign-nations/Commonwealth.md) or - crucially - the [Grendel](../barbarians/Grendel.md). What may be more important are the financial and political benefits. No embassy for the Empire in Beoraidh means Ehsan needs to spend less money building equivalent facilities, a cost he can ill-afford. Most importantly of all, it reduces the risk of compromising the city-state's neutrality. With no embassy built, the Grendel can't accuse Ehsan of siding with the Empire.
+
+The civil service note that the only downside to this situation is that without an ambassadorial staff in Beoraidh, their ability to advise on the factions and politics of the city-state is greatly reduced. Likewise, the Ambassador to Beoraidh is not able to direct their staff to [send messages](../../mixed/titles/Ambassador.md#communication) to Beoraidh - they will have to compose and send their [winged messengers](../../mixed/magic/rituals/Call_Winged_Messenger.md) during a summit to ensure they reach their counterpart in time.
+
+## Prosperity
+
+> *In-character text:*
+>
+> The opportunity to build the basilica discussed here has been superseded by the material in the [All I can do](All_I_can_do.md#a-proud-basilica) wind of fortune from Autumn 388YE.
+
+|  |
+| --- |
+| **Temple of the Way in Beoraidh** |
+| **Commission Type:** Sinecure |
+| **Location:** Beoraidh, Mareave |
+| **Cost:** 25 white granite, and 90 crowns, 20 Thrones land purchase |
+| **Time:** Three months |
+| **Limitations:** No building progress can take place until the agreed 20 Thrones is delivered |
+| **Special:** If commissioned by an orc, 45 crowns in labour cost provided by Beoradhi investors |
+| **Effects:** Creates a modest shrine of the Way that can be used by a lone Imperial priest to preach to orcs of Beoraidh and Sinfoyard |
+| **Availability:** Standard. Unless something changes, available until the end of the Winter Solstice 388YE |
+| **Effects:** • Creates a modest structure in Beoraidh <br> • Establishes the title *Sevenfold Questioner'* |
+
+|  |
+| --- |
+| **Sevenfold Questioner** |
+| **Type:** Imperial Synod |
+| **Appointment:** General Assembly |
+| **Powers:** Receives 16 crowns income each season |
+| **Responsibilities:** To ensure the Temple of the Way in Beoraidh is preaching to the people; make decisions relating to the temple; deal with any threats to the temple or followers of the Way in Beoraidh |
+
+|  |
+| --- |
+| **Basilica of the Way in Beoraidh** |
+| **Commission Type:** Sinecure |
+| **Location:** Beoraidh, Mareave |
+| **Cost:** 40 [white granite](../../mixed/economy/White_granite.md), 20 [mithril](../../mixed/economy/Mithril.md), 216 crowns labour costs, 20 Thrones land purchase |
+| **Time:** Six months |
+| **Limitations:** No building progress can take place until the agreed 20 Thrones is delivered |
+| **Special:** If commissioned by an orc, 108 crowns in labour cost provided by Beoradhi investors |
+| **Availability:** Standard. Unless something changes, available until the end of the Winter Solstice 388YE |
+| **Effects:** • Creates an impressive structure in Beoraidh <br> • Represents the largest religious structure in the city <br> • Establishes the title *Preacher of Beoraidh'* <br> • Creates the *Preach the Way in Beoraidh* congregation opportunity <br> • While it might be damaged or captured it would take significant effort over time to actually tear the structure down |
+
+|  |
+| --- |
+| **Preacher of Beoraidh** |
+| **Type:** Imperial Synod |
+| **Appointment:** General Assembly |
+| **Powers:** Receives 23 crowns income each season |
+| **Responsibilities:** To ensure the Temple of the Way in Beoraidh is preaching to the people; make decisions relating to the temple; deal with any threats to the temple or followers of the Way in Beoraidh |
+
+- **Unshackled enthusiasm for a temple of the Way in Beoraidh built in line with Imperial Orc understanding of the faith has refreshed an earlier opportunity**
+- **If the work is commissioned by an orc character with an appropriate title, the orcs of Beoraidh will be inclined to invest in the construction**
+- **There is also an opportunity to invest in dock expansion to allow Imperial fleets to visit the markets of the city**
+
+Last season the Beoradhi set out several opportunities for the Empire, along with a [diplomatic delegation](Each_age_a_lens.md#diplomatic-delegation) to the Imperial Orcs. These included confirmation that the [offer to sell land](Each_age_a_lens.md#investment-of-salt) for the construction of a [temple of the Way](I_wish_you_would.md#shrine-of-the-virtues) was still available. According to Ambassador Melkior the Unshackled are interested in purchasing the land for 25 Thrones, provided the shrine is in keeping with the Unshackled understanding of the Way. Ambassador Rubhart is happy to accept *more* for the land than was being asked, but points out that the style of the temple is entirely in the control of whichever Imperial citizen is actually building it. That said, they also point out that many Beoradhi are still a little new to the idea of dealing with humans as their equals.
+
+*[Image: Pathfinder Gaddak , Senator for Mareave.](https://www.profounddecisions.co.uk/empire-wiki/File:Pathfinder_Gaddak.jpg)*
+
+*[Image: Bloodcrow Rasp , Senator Skarsind](https://www.profounddecisions.co.uk/empire-wiki/File:Rasp10013.jpg)*
+
+The ideal situation would be for an [Imperial Orc](../nations/imperial-orcs/Imperial_Orcs.md) [senator](../../mixed/titles/Senator.md) the [Legion Engineer](../../mixed/titles/Legion_Engineer.md), or an orc citizen from any nation who was [Bearer of an Imperial Wayleave](../../mixed/economy/Bearer_of_an_Imperial_Wayleave.md), to [commission](../../mixed/commissions/Commission.md) whichever version of the shrine - the temple or the basilica - they settled on. In this case, traders and merchants keen to curry favour with the Empire would fall over themselves to be seen as supporting the project. Rubhart confidently predicts the labour costs of either project would be halved if an orc commissioned it. The civil service further note that there are several League titles with the ability to commission a [sinecure](../../mixed/commissions/Sinecure.md) - if the seat holder were a League orc, this discount would also be available. This approach reinvigorate the opportunities presented in Summer 387YE - they remain available until the end of the Winter Solstice 388YE as long as nothing changes.
+
+The second opportunity discussed was a chance for [Imperial investment in the docks](Each_age_a_lens.md#investment-of-sea), which would offer prosperity to both Beoraidh and its larger neighbour. Ambassador Rubhart is nonplussed when Melkior of Balthazar's Vineyard seems to suggest that the Empire is keen to "*support Beoraidh as an independent port of free trade where people might meet on neutral ground*." Beoraidh is *already* working towards that laudable goal, and the dock investment was a way for the Empire to become involved. Fortunately, the opportunity is still available and remains so until the end of the Autumn Equinox 388YE.
+
+|  |
+| --- |
+| **Trading Post** |
+| **Commission Type:** Edifice |
+| **Location:** Icarion or Eoradal, Mareave |
+| **Cost:** 10 weirwood, 30 crowns |
+| **Time:** 1 season |
+| **Upkeep:** None |
+| **Effects:** • Increases the income of the Shepherd of the Southern Herd by 10 crowns each season <br> • Increases the income of the Shepherd of the Great Herd in Skarsind by 5 crowns each season <br> • Secures trade between the Unshackled and Beoraidh |
+| **Availability:** Autumn Equinox 388YE |
+
+## Salt and Beef
+
+- **Beoraidh is keen to establish a trade of salt for beef**
+- **An opportunity exists to establish a trading post in Mareave to increase the benefits of both the Southern Herd and the Great Herd in Skarsind**
+
+*[Image: ImperialOrcHerd003a.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:ImperialOrcHerd003a.jpg)*
+
+One of the problems Beoraidh has is that there is a dearth of arable land in arid north-western Mareave. Now that the Children of Wrecks appear to be on the way out, there will be opportunities to fish the waters of the Bay of Catazar again but that comes with its own challenges for a city that traditionally relied more on trade than industry to feed its populace. As a consequence, the discussion at the Winter Solstice of establishing a "salt for beef" exchange between the city-state and the Unshackled has been enthusiastically received.
+
+In a straightforward arrangement, Rubhart proposes that the Unshackled build a trading post on the border between [Sinfoyard](../nations/imperial-orcs/Mareave.md#sinfoyard) and either [Eoradal](../nations/imperial-orcs/Mareave.md#eoradal) or [Icarion](../nations/imperial-orcs/Mareave.md#icarion). Beoraidh will do the same on the opposite side of the border. The intention that the Imperial Orcs will be able to buy salt and even some ores from trade passing through the town of *Aghnayadh*, while the Beoradhi will be able to purchase salt beef, tallow, and other cattle-based products from the [Shepherd of the Southern Herd](../../mixed/titles/Shepherd_of_the_Southern_Herd.md). This would increase the [already substantial income](../../mixed/titles/Shepherd_of_the_Southern_Herd.md#substantial-income) of the Shepherd by 10 Crowns each season. In addition, access to salt in significant quantities would also benefit the [Great Herd](../../mixed/titles/Shepherd_of_the_Great_Herd.md#the-great-herd) in far away [Skarsind](../nations/imperial-orcs/Skarsind.md); salt travels and keeps much better than raw meat after all. The [Shepherd of the Great Herd](../../mixed/titles/Shepherd_of_the_Great_Herd.md) would see their rewards from their [bounteous herd](../../mixed/titles/Shepherd_of_the_Great_Herd.md) increase by 5 crowns each season. Obviously these benefits would be lost if the trade between Beoraidh and the Unshackled were disrupted in some fashion.
+
+## Diamant Drakes
+
+- **Conflict between the Unshackled Sannites and the gladiators of Beoraidh has been concluded**
+- **While there are no current opportunities to invest or participate in the colosseum an appraisal could be used**
+
+The [ongoing strife](Each_age_a_lens.md#retribution) between the *Diamant Drakes* following their [visit to Anvil](I_wish_you_would.md#thats-entertainment) during the Summer Solstice has by all accounts been resolved. The Beoradhi gladiators who [came to Anvil](Each_age_a_lens.md#retribution) to resolve the matter at the Spring Equinox are satisfied with the outcome. They were honoured by an opportunity to participate in a [pit-fight](../nations/imperial-orcs/Pit-fights.md); although [pit fighters](../nations/imperial-orcs/Pit-fights.md#pitfighter) take a more spiritual approach to the intense emotions of this kind of battle, they are not *that* different to the gladiators of Beoraidh some of whom also seek communion with their [ancestors](../barbarians/Grendel_religion.md#ancestors) in the violence of the colosseum.
+
+|  |
+| --- |
+| **Investing in Beoraidh Colosseum** |
+| **Motion Type:** [Appraisal](../appraisals/Appraisal.md) |
+| **Necessary Details:** Name of the prognosticator |
+| **Availability:** Until the end of the Winter Solstice 388YE |
+| **Limits:** • The appraisal must specify that it relates to finding ways for Imperial citizens to invest in Beoraidh colosseum and the gladiatorial games |
+| **Effect:** • Explores opportunities to allow Imperial citizens to become involved with Beoraidh colosseum and the gladiatorial games that take place there |
+
+However, the opportunity for Imperial citizens to invest in Beoraidh's colosseum cannot help but have been tainted by the conflict. If it were up to Ehsan alone he would welcome warbands of Imperial citizens to visit the city and fight in the arena; it would be good for the city and firm up relations with the Empire. Unfortunately it is not just his decision that matters here. For the time being, while individual Imperial citizens can venture to Beoraidh in the hopes of engaging in gladiatorial combat, there will be no formal invitation made.
+
+One Unshackled civil servant jokingly suggests that the obvious thing to do is commission an [appraisal](../appraisals/Appraisal.md) into how the Empire could get the most out of the Beoraidh colosseum and maybe send [Mladen Escovitch](../appraisals/Appraisal.md#mladen-escovitch) next time he comes out of retirement. Humorous as this might be, however, there's no reason such an appraisal *couldn't* be commissioned by the Senate if they wished to explore further opportunities here.
+
+## Up In The Peaks
+
+- **Beoraidh is interested in Imperial assistance to open negotiations with the Skourans**
+- **Former Salt-Lord Ehsan will burn political favours to provide an opportunity to meet elders of the Brine Turtles during the Summer Solstice**
+
+Also as discussed during their visit to the Empire, there is interest in the Empire providing an introduction to the Skourans to the east of Mareave. Not only are they looking for trade opportunities, but they have apparently been advised that before any decisions about Beoradhi access to the Grand Aqueduct of Eoradal can be made the Skourans would need to agree. The folk of the mountains have no reason to respond favourably to communication from folk they likely cannot tell apart from Grendel, but Imperial intercession would go a long way toward smoothing the path to diplomacy and trade. The easiest way to do this would be for a [Senate motion](../senate-motions/Senate_motion.md) to instruct the [civil service](../../mixed/government/senate/Civil_service.md) accordingly.
+
+|  |
+| --- |
+| **Introduction to Skoura** |
+| **Motion Type:** [Senate motion](../senate-motions/Senate_motion.md) |
+| **Availability:** Until the end of the Winter Solstice 388YE |
+| **Limits:** • The motion must specify that the Senate instructs the civil service to facilitate a meeting between Beoraidh and Skoura |
+| **Effect:** • The Empire would assist Beoraidh in making a diplomatic approach to the people of Skoura <br> • Lord of Sand Ehsan would arrange a meeting between the Brine Turtles (including a representative of their army) and the Empire |
+| **Availability:** While the opportunity will persist until the end of the Winter Solstice 388YE, the situation in Mareave is volatile and might change at any time, making the offer from Beoraidh ineffective |
+
+The Lord of Sand offers to reciprocate in kind. If the Senate agrees to facilitate such contact during the Spring Equinox, he will use his influence with the Grendel to arrange a chance for the Imperial Consul to meet with representatives of the Brine Turtles sept including at least one of their respected warriors (someone associated with the Brine Turtle army). This meeting would take place on neutral ground during the Summer Solstice and present an opportunity to reach a resolution to problems in Mareave surrounding the sept. In the event that the Empire is able to arrange its own meeting, Rubhart believes that if Beoraidh throws its support behind such negotiations they will be able to work with both sides to improve the chances of an equitable outcome. Obviously this will require Ehsan to burn some of his favours with his former colleagues among the Grendel which is why the "price" is that the Empire provide political support to Beoraidh.
+
+The civil service caution that it is likely that if Beoraidh secures trade links with Skoura, the Sarcophan Delves will also be in a position to take advantage of that trade. The Delves have access to significantly more resources than Beoraidh does, and it is not impossible that if they open favourable diplomatic channels with the Skourans it might impact potential Imperial trade with that nation.
+
+## Spies and Agents
+
+- **Beoraidh is not prepared to spy on the Grendel for the Empire or vice versa**
+
+There is one other matter Ehsan wishes to clarify that he thinks is leading to some misunderstanding. To survive, Beoraidh must remain neutral. There have been suggestions that the people of Beoraidh could provide information on Grendel military strength, magical capabilities, or political positions in return for concessions from the Empire. Doing so would have serious consequences for the city state. When the Grendel found out it would be impossible to maintain Beoraidh's neutrality. Worse, the Empire would have to suspect that they were selling Imperial secrets to the Grendel. It is simply easier to maintain an independent position by not supporting either side in this way. Unless the situation changes dramatically future efforts to get Beoraidh to provide information on either the Grendel or the Empire will be ignored.
+
+There is some question about how Beoraidh would feel about Imperial spies operating in the city. Ehsan turns coy at this point, refusing to be drawn, and saying only that it would depend who they were spying on and how prepared they were to be spied on in turn.
+
+## Thunder on the Beaches
+
+*[Image: Assembly ImperialOrc.png](https://www.profounddecisions.co.uk/empire-wiki/File:Assembly_ImperialOrc.png)*
+
+- **A coalition of reavers recommend a direct attack against the Brine Turtles in Mareave**
+- **They ask for the support of the Imperial Orcs assembly**
+- **If the proposed mandate is enacted it will create two related ventures available to reavers**
+- **The ventures are also available to Wintermark maggots, Varushkan wagon raiders, and Freeborn corsairs**
+
+The situation in Mareave is volatile; while Ehsan's offer to [arrange a meeting](#up-in-the-peaks) with the Brine Turtles is made in good faith it is entirely possible that matters beyond his control will make it irrelevant. Not everyone in Mareave is looking for *any* sort of negotiation with the sept of [Fleisardh](../nations/imperial-orcs/Mareave.md#fleisardh); some see the presence of the avowedly barbarian [orcs](../../mixed/world/Orc.md) there as an opportunity. Specifically, a number of [reavers](../nations/imperial-orcs/Imperial_Orcs_economic_interests.md#reavers) are eager to deal with the Brine Turtles in a more direct fashion.
+
+The Empire offered the hand of friendship to the sept, even going so far as to [outlaw the hunting of turtles](../senate-sessions/386YE_Autumn_Equinox_Senate_sessions.md#criminalise-hunting-turtles-in-bay-of-catazar) in an attempt to curry favour with them. The second the Grendel returned, the Brine Turtles made it clear where their loyalties actually lie. The Empress rightly - in the view of the reavers at least - [declared war](../senate-sessions/387YE_Autumn_Equinox_Senate_sessions.md#declare-war-on-brine-turtles) on them immediately. While battle rages back and forth through southern Mareave, these reavers say it is time to give these turncoats what they deserve.
+
+A vocal supporter of this reaver coalition names *Warlord Bikk*, has moved his Legion to [Icarion](../nations/imperial-orcs/Mareave.md#icarion) and intends to use his camp to help co-ordinate Imperial efforts to raid the Brine Turtles and take everything of value they have. Before he is prepared to take action, however, he asks for the support of his fellow Unshackled - and especially the approval of the [Imperial Orcs](../nations/imperial-orcs/Imperial_Orcs.md) national assembly.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Despise that which threatens what you watch over. We send {named priest} with a throne to encourage vigilant Reavers to despoil the Brine Turtles lands. Let us thwart this malice before it strikes again.
+> >
+> > Synod Mandate, Imperial Orc Assembly
+
+If this mandate is enacted, it will create two related [ventures](../../mixed/economy/Venture.md) that would become available to Imperial Orc reavers following the Spring Equinox. *Warlord Bikk* is aware that there are probably not enough reavers to do as much damage as he might like and as such is more than happy to welcome warlords from other nations, provided they have some experience reaving. If the mandate passes he will open his camp as a staging ground to similar groups in other nations. Both ventures will also be available to Varushkan [Wagon-Raiders](../nations/varushka/Varushka_military_concerns.md#wagon-raiders-and-sell-swords), Wintermark [Maggots](../nations/wintermark/Wintermark_economic_interests.md#maggot) and Freeborn [Corsairs](../nations/the-brass-coast/Corsair.md), all of whom Warlock Blikk recognises as experts in pillaging Imperial Enemies.
+
+One thing that is absolutely clear: this raid will not have the same effect that an [army](../../out-of-character/rules/Army.md) attacking the sept would have. The explicit threat presented by an army, and the [reputation](Here_to_stay.md#violence) that would spread as a result of it, are different to a "*simple*" raid.
+
+*[Image: Sannite.png](https://www.profounddecisions.co.uk/empire-wiki/File:Sannite.png)*
+
+*[Image: Ethengraw.png](https://www.profounddecisions.co.uk/empire-wiki/File:Ethengraw.png)*
+
+### Internal Arguments
+
+- **There is disagreement as to the best course of action**
+- **Some of those with strong opinions plan to come to Anvil at 16.00 on Saturday to discuss the matter with their peers**
+
+There is some disagreement in the wake of Bikk's proposal about exactly how to proceed. The warlord himself has asked reavers to focus on the Brine Turtle supply lines - the better to ensure that the raid does the maximum damage to the enemy. But the [Sannite](../nations/imperial-orcs/Sannite.md) reaver *Pil* however claims they remember the Brine Turtles from when they lived in Beoraidh, and says they were always self-important and smug about their good relations with the "proper" Grendel. Pil's opinion is that everyone should focus on maximising the loot taken so that the Brine Turtles are encouraged to flee the territory to hide behind their Grendel "friends", so that the Empire *doesn't* have to deal with them in the long term
+
+Bonesetter *Guld* of the [Ethengraw](../nations/imperial-orcs/Ethengraw.md) on the other hand argues that, at some point, the Brine Turtles *will* be subjects of the Empire; it's probably counter-productive to raid them now. It might be *satisfying* or even *expedient*, but they believe it will store up trouble in the long run. The Brine Turtles are likely to be angry if their supply lines are cut and they'll be furious if their wealth is plundered. The "virtue" of [Retribution](../barbarians/Grendel_religion.md#retribution) is an important part of Grendel culture; their [religion](../barbarians/Grendel_religion.md) encourages them to exact vengeance on those who wrong them.
+
+Warlord Bikk, Bonesetter Guld, and reaver Pil intend to travel to [Anvil](../world/Anvil.md) to further discuss what should be done and are expected to arrive at four in the afternoon on Saturday, at the Unshackled camp, to discuss the matter with the national assembly. Warlord Bikk in particular hopes some interested representatives of the Winterfolk, Freeborn, and Varushkan reavers will come along as well to put their viewpoints forward.
+
+### Ventures in Fleisardh
+
+- **The mandate allows two related ventures to be undertaken following the Spring Equinox**
+- **These ventures are only available to military units belonging to characters with the reaver, maggot, wagon raider, or corsair archetype**
+
+Both opportunities resulting from the mandate are [raiding](../../out-of-character/rules/Military_unit.md#raiding) actions, aimed at the Brine Turtles sept, and those engaged in either venture will benefit from ritual enchantments that [boost raiding](../../mixed/economy/Venture.md#raiding-ventures). While an [alternative mandate](../../mixed/government/synod/Mandate.md#alternative-mandates) is possible, it won't be possible to gain access to one of the raid opportunities but not the other.
+
+#### Military Precision
+
+- **Reavers could specifically target the supply lines of the Brine Turtles army**
+- **This could disrupt the army, but results in less loot for the reavers**
+
+The first available venture would be to *Interdict the Brine Turtles supplies*. The raid actively targets key Brine Turtle supply lines - mostly food and baggage trains, stockpiles of resources intended for use by the army, and the like. There is comparatively little loot to be gained here; most of it is either too heavy to carry off of profoundly mundane in nature. A standard military unit will receive 50 rings, representing the value of what they have carried off. [Upgraded](../../out-of-character/rules/Military_unit.md#upgrade) or [enchanted](../../out-of-character/rules/Enchantment.md) military units will receive proportionately more.
+
+Destroying the supplies however will cause maximum disruption. This would directly damage the Brine Turtle army, for every thousand points of total strength supporting the action the Brine Turtle army will be unable to benefit from natural resupply for a season, to a maximum of one year (starting with the downtime following the Spring Equinox).
+
+#### Loot and Plunder
+
+- **Reavers could instead target the wealth of the Brine Turtles sept directly**
+- **This provides more loot, and if sufficient force is committed it could drive the majority of the sept out of Mareave**
+
+The other venture would *Plunder the Brine Turtles land*. Rather than focus on cutting the army's supply lines, reavers taking this action instead aim for the richest pickings. The Brine Turtle sept is wealthy, enjoying a prestigious position in the territory, prospering under the Grendel rule of Mareave. This won't have any affect on the Brine Turtle army, but it provides significantly more plunder for the reavers who take part. A standard military unit will receive 100 rings, 5 random resources, and at least one Grendel luxury. Upgraded or enchanted military units will receive proportionately more.
+
+The main effect of this objective is to harass the Brine Turtles to the point that they have no choice but to abandon their lands at least in the short term. If a total strength of four thousand or more supports this option, many of the Brine Turtle sept will withdraw from [Fleisardh](../nations/imperial-orcs/Mareave.md#fleisardh) heading south for safer lands under the protection of the Grendel.
+
+## Beoraidh Further Reading
+
+- [Beoraidh](../nations/imperial-orcs/Mareave.md#beoraidh) - a brief overview of the city state
+- [Ambassador to Beoraidh](../../mixed/titles/Ambassador_to_Beoraidh.md)
+
+Winds
+
+- [All I can do](All_I_can_do.md) - 388YE Autumn wind of fortune about Beoraidh diplomacy
+- [Myth makers](Myth_makers.md#beoraidh) - 388YE Summer wind of fortune relating to diplomacy with Beoraidh
+- A knock at the door - 388YE Spring wind of fortune dealing with Beoraidh
+- [Each age a lens](Each_age_a_lens.md#beoraidh) - 387YE Winter wind of fortune
+- [All the night-tide](All_the_night-tide.md#beoraidh) - 387YE Autumn wind of fortune
+- [I wish you would](I_wish_you_would.md#beoraidh) - 387YE Summer wind of fortune
+- [Treaty](../senate-sessions/386YE_Spring_Equinox_Senate_sessions.md#ratify-treaty-with-beoraidh) - 386YE Spring treaty between the Senate and Beoraidh
+
+- [Sea-wood fed with copper](../winds-of-war/Sea-wood_fed_with_copper.md#warp-and-weft) - 386YE Spring wind of war outlining the initial approach to the Empire by then Salt-Lord Eshan
+- [Mission](../winds-of-war/383YE_Spring_Equinox_winds_of_war.md#mission) - 383YE Spring wind of war detailing the Imperial raid on Beoraidh to liberate slaves
+
+Click *Expand* to see a summary of various pages related to the city-state of Beoraidh.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [388YE Spring](../../indexes/by-category/388YE_Spring.md), [Foreign Nations](../../indexes/by-category/Foreign_Nations.md), [Mandate](../../indexes/by-category/Mandate.md), [Beoraidh](../../indexes/by-category/Beoraidh.md)

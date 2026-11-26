@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:387YE Winter]]
+__NOTOC__
+<quote by="Announced by Ciapek Splintered Oak, Bearer of an Imperial Wayleave">Self-funded construction of a wayhouse in Utterlund, Holberg. We are providing 16 wains of white granite and 48 crowns. It will be named The Splintered House
+</quote>
+==Overview==
+* Constructs a [[Navarr wayhouse|wayhouse]] in Utterlund, Holberg
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+
+==Date==
+* Winter 387YE
+
+==Cost==
+* Standard costs apply
+* 16 wains of white granite
+* 1152 rings in labour costs (increased by being built in a marsh)
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Wayhouse_in_Holberg}}
+==Outcome==
+Now completed, the wayhouse has had the following effects:
+* Navarr will be able to take a personal resource in Holberg without suffering the foreign nation penalty.
+* The [[Keeper of the Splintered House]] will be available to appoint by unanimous decision of the senators of Navarr for the first time at the Spring Equinox 388YE

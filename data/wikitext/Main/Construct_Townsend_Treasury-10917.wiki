@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:385YE Autumn]]
+__NOTOC__
+<quote by="Announced by Bertrand, Bearer of an Imperial Wayleave">To commission a money sinecure in Sarcombe in the Mournwold named the Townsend Treasury. This will create a most <u>glorious</u> Marcher national title the 'Town Clerk of Sarcombe' to be appointed annually by unanimous vote of Marcher senators at the Winter Solstice. All costs to be provided (10 white granite and building costs) by Morgan Townsend</quote>
+==Overview==
+* Constructs a [[sinecure]] in the [[Mournwold]].
+* Announcement by the [[Bearer of an Imperial Wayleave]]
+==Date==
+* Autumn 385YE
+==Cost==
+* Standard costs apply
+* 10 wains of white granite
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Townsend_Treasury}}
+==Outcome==
+* Now complete, the position of [[Town Clerk of Sarcombe]] was first appointed by the senators of [[the Marches]] at the Winter Solstice 385YE
+<!--The Townsend Treasury is a sinecure which provides an office for the Town Clerk of Sarcombe - a Marcher national title elected annually by unanimous vote of marcher senators. If a unanimous decision cannot be reached, the title may be appointed by the Imperial Senate instead. They can be revoked by the General Assembly, the Marcher National Assembly, and by the Assembly of the Nine. 
+
+The Town Clerk of Sarcombe will receive a stipend of rings which will come from the fees levied against traders wishing to use the town markets, as described in the Sarcombe Town Charter granted by Imperatrix Lisabetta in 381YE. 
+-->

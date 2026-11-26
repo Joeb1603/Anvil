@@ -1,0 +1,407 @@
+[[Category:Senate]] [[Category:Senate Sessions]] [[Category:387YE Spring]]
+==Overview==
+The [[Senate]] governs the Empire, and its authority extends to all areas of Imperial life not already covered by the other houses of government. Each summit the [[senator|senators]] meet [[Event schedule|several times]] to deliberate and vote on the [[Senate motion|motions]] they have raised. 
+
+After the summit the civil service enact those motions, and ensure a public record of each is made available to the citizens of the Empire. This page lists all the motions raised during the summit, along with the [[Senate announcement|announcements]] made by citizens with [[Imperial title|Imperial titles]]. In each case, the motion and its effects are summarised including the wording; who proposed and seconded it; whether it passed or not; whether any funds were disbursed to support it; and what the outcome of the motion will be.
+
+Many motions (especially the [[commission|commissions]]) also have a ''Further Details'' section that provides a link to a wiki page dealing specifically with that motion in more detail, any commentary from the [[Scrutiny|Constitutional Court]], progress on commissions, or expanded information about the outcome of the motion.
+
+Following the mandate [[385YE_Winter_Solstice_Synod_judgements#Judgement_127|enacted]] by '''Luca i Taziel i Riqueza''' after the Winter Solstice 385YE the number of commissions available has been reduced as the faithful have been convinced to withdraw their labour. This will continue until either the Imperial Senate uses a motion to assign fines from the magistrates to the Virtue fund or the [[Assembly#The_Virtue_Assemblies|Prosperity Assembly]] uses a clearly worded [[Statement of Principle]] upheld with a greater majority to encourage the faithful to once again take up their tools. More information can be found in the '''[[Forwards_and_Rewards#Fines_and_Funds|Forwards and Rewards]]''' wind of fortune.
+
+==Treasury==
+* Imperial treasury during this season announced by the civil service at 1287 thrones and 6 crowns.
+* The following has been donated to the Imperial treasury:
+** 40 thrones donated to the treasury by '''Vesna Borkovna Prochnost''' after the Spring Equinox 387YE
+** 82 thrones donated to the treasury by '''Tristan Ramson von Holberg''' after the Spring Equinox 387YE
+** 28 thrones donated to the treasury by '''Magdalena Teyhard von Holberg''' after the Spring Equinox 387YE
+
+==Administrative Motions==
+===Create Judgement of Exaltation===
+*'''Motion:''' To create a new judgement of the Synod: Exaltation. This judgement can be raised in any virtue assembly to raise up an individual whose actions should be praised and serve as a pattern for virtue of others. To be upheld it must be passed with a greater majority, and the civil service will keep a public roll of names.
+* '''Raised by:''' Speaker for the Senate
+* '''Passed'''
+* '''Notes:''' This motion was initially proposed by the Conscience of the Senate during the [[386YE_Winter_Solstice_Senate_sessions#Create_Judgement_of_Exaltation|Winter Solstice 386YE]]. The original motion allowed it to be raised as a variant of sanction, rather than as an entirely new judgement. This type of judgement will only be able to raise in one of the eight [[Assembly#The_Virtue_Assemblies|Virtue Assemblies]].
+
+===Create Singer of the Silence===
+*'''Motion:''' To create a new title; Singer of the Silence. This title is to be appointed by the Wisdom Assembly every year. The Singer of the Silence will have the responsibility to protect the Great Library of Hacynian, and to organise parley with Sung and Phaleron to try and unlock the potential of the enigmatic regio at the library. This title has no clear powers, beyond any potentially granted by the regio.
+* '''Raised by:''' Speaker for the Senate
+* '''Passed'''
+* '''Notes:''' This motion is raised as a result of the mandate [[386YE_Winter_Solstice_Synod_judgements#Judgement_34|enacted]] by '''Nathair Autumngale''' after the Winter Solstice 386YE. For more information see the '''[[Little faith]]''' wind of fortune.
+
+===Amend Imperial Apothecaries Guild===
+*'''Motion:''' To amend the Imperial Apothecaries Guild to have the power to add new potions to Imperial lore. This power will be enacted by vote of the members of the sodality and cost ten thrones. This motion will remove the Senate's power to add new potions to Imperial lore.
+* '''Raised by:''' Speaker for the Senate
+* '''Passed'''
+* '''Notes:''' This motion follows the motion to [[386YE_Winter_Solstice_Senate_sessions#Create_Imperial_Apothecaries'_Guild|establish]] the [[Imperial Apothecaries Guild]]. For more information see the '''[[It's what we do]]''' wind of fortune
+
+===Establish Magpies Sodality===
+*'''Motion:''' To create the Imperial Sodality of the Magpies. The sodality will be dedicated to the acquisition, documentation and preservation of artefacts for the Empire, and the uncovering of lost Imperial history. Its mission is: to aid and coordinate Imperial efforts to seek out lost artefacts and historical knowledge; to support the interests of historians and artefact hunters of the Empire; and to ensure accountability, protection, work, and suitable reward for the historians and artefact hunters of the Empire. This will also amend the title of Speaker of the Magpies to be appointed by members of the sodality rather than the Vigilance Assembly.
+* '''Raised by:''' Speaker for the Senate
+* '''Passed'''
+* '''Notes:''' This motion will establish the Magpies as an [[Imperial sodality]]
+
+===Amend Keeper of the Breadbasket===
+*'''Motion:''' To amend the Keeper of the Breadbasket to be appointed by Tally of the Votes of the farm owners of the Marches. As a title elected by the bourse, it will no longer be revocable by the Synod. This amendment will allow the Keeper of the Breadbasket to direct the breadbasket to support a territory in response to any ongoing emergency that involves the devastation of local farming or a hungry population. The Imperial breadbasket will no longer boost the income of farms if it is used to support a territory or a nation's armies.
+* '''Raised by:''' Speaker for the Senate
+* '''Passed'''
+* '''Notes:''' This motion follows the farm owners of the Marches voting to implement the changes made, as per the '''[[Send_for_me#Plants_and_Seeds|Send for me]]''' wind of fortune
+
+==Senate Motions==
+===Raise Third Navarr Army===
+*'''Motion:''' To commission an Imperial Navarr army to muster in Treji, Glen of Shadows, Hercynia. Cost 200 wains of mithril (or equivalent resources as outlined by the civil service) and 75 thrones. Self funding in progress
+*'''Proposed:''' Hercynia
+*'''Seconded:''' Weirwater
+* '''Passed'''
+*'''Further Reading:''' [[Raise Third Navarr Army]]
+*'''Notes:''' More information can be found in the '''[[The_first_shot#Hercynia|The first shot]]''' wind of fortune
+
+===Repair Cerevado Nets===
+*'''Motion:''' To commission the repair of the Cerevado Nets, self funded by the Dhomiros Council for 50 thrones. This gathers 6 rings of ilium per season, and is a nationally elected position
+*'''Proposed:''' Kahraman
+*'''Seconded:''' Feroz
+* '''Passed'''
+*'''Further Reading:''' [[Repair Cerevado Nets]]
+* '''Notes:''' More information can be found in the '''[[Where_the_river_rises#Glitter|Where the river rises]]''' wind of fortune
+
+===Amend Grand Ossuary===
+*'''Motion:''' Amend the "Grand Ossuary" great work to create the title "Steward of the Ossuary". The Steward of the Ossuary will be responsible for oversight of the great work. In response to calamity, disaster, or other significant loss of life, the Steward of the Ossuary will have the power to announce the Senate, redirecting the prosperity of the Grand Ossuary and the skills of its stewards to collect the stories and histories of the dead; use them to encourage and inspire the living; and to lay spirits to rest. Appointed by national tally of the votes.
+*'''Proposed:''' Necropolis
+*'''Seconded:''' Casinea
+* '''Passed'''
+*'''Outcome:''' The title [[Steward of the Ossuary]] has been created and will be first elected at the Summer Solstice 387YE for a short duration
+* '''Notes:''' More information can be found in the '''[[Send_for_me#Great_Works|Send for me]]''' wind of fortune
+
+===Create Declaration of Remorse===
+*'''Motion:''' To grant Conclave the ability to use power of Remorse to remove rituals from Imperial lore
+*'''Proposed:''' Mournwold
+*'''Seconded:''' Hercynia
+*'''Failed''' 
+* '''Notes:''' More information can be found in the '''[[Speak_to_me#Brother_Harvest|Speak to me]]''' wind of fortune
+
+===Abrogate Distribution of Echoes of the Labyrinth===
+*'''Motion:''' The abrogation of the international distribution of the Seer of the Gateway's publications. This will save the treasury ten thrones per season
+*'''Proposed:''' Citizens' Voice
+* '''Passed'''
+*'''Outcome:''' The [[Seer of the Gateway|Seer of the Gateway's]] publications will continue, but the works will no longer be distributed to foreign nations
+
+===Amend Custodian of the Bleak Tower===
+*'''Motion:''' To change the position of the Custodian of the Bleak Tower in Morrow so it can use the herb garden great work to combat threats. Elected each year by tally of the votes
+*'''Proposed:''' Morrow
+*'''Seconded:''' Redoubt
+* '''Passed'''
+*'''Outcome:''' The incumbent [[Custodian of the Bleak Tower]], '''Staurakios Of the Lighthouse-That-Was''', will remain in the post until the Spring Equinox 388YE at the latest. The power to direct the bounty of the great work will be added to the title once it is first elected by Tally of the Votes.
+*'''Notes:''' More information can be found in the '''[[Send_for_me#Great_Works|Send for me]]''' wind of fortune
+
+===Abrogate Kahraman Road Guards===
+*'''Motion:''' To abrogate the guards on the roads of Kahraman. This removes a ten throne seasonal upkeep 
+*'''Proposed:''' Segura
+*'''Seconded:''' Reikos
+* '''Passed'''
+*'''Outcome:''' The [[venture]] is no longer available
+
+===Appraise Port in Utterlund===
+*'''Motion:''' To instruct the Prognosticator's Office to send Naomi of Virtue's Rest to appraise the building of a port in Utterlund, Holberg, as laid out in the suggestion from the Lijkkever families of the Sarcophan Delves. We ask Naomi to negotiate with the Lijkkever and the Sand Fisher Orcs of Misericorde for their assistance in constructing the port and necessary infrastructure
+*'''Proposed:''' Holberg
+*'''Seconded:''' Ossium
+* '''Passed'''
+*'''Outcome:''' This motion was [[#Abrogate Appraisal of Utterlund Port|abrogated]] in a later motion by the Imperial Senate
+
+===Appraise Disruption of Druj Resupply in Forest of Ulnak===
+*'''Motion:''' Appraisal to disrupt Druj operations and resupply in the Forest of Ulnak
+*'''Proposed:''' Skarskind
+*'''Seconded:''' Sarvos
+* '''Passed'''
+*'''Outcome:''' The results of this appraisal will be presented before the Summer Solstice 387YE
+
+===Appraise Building Lighthouses===
+*'''Motion:''' Send Eilian Sweetwater to appraise the restoration of recreation of the great warding lighthouses (such as the Shining Pillar and the Lighthouses of Nikephoros) of the Bay so that we might protect our shores from new eternal threats and uplift of the Pride of those nations that have lost their light.
+*'''Proposed:''' Reikos
+*'''Seconded:''' Mareave
+* '''Passed'''
+*'''Outcome:''' The results of this appraisal will be presented before the Summer Solstice 387YE
+
+===Ratify Rahvin Treaty===
+*'''Motion:''' To pass the Rahvin treaty
+*'''Proposed:''' Mareave
+*'''Seconded:''' The Barrens
+* '''Passed'''
+* '''Further Reading:''' [[Ratify Rahvin Treaty Spring 387YE|Ratify Rahvin Treaty]]
+*'''Outcome:'''
+
+===Disseminate the Ring of the Rainbow Sage===
+*'''Motion:''' To add the schema 'the Ring of the Rainbow Sage' to Imperial lore. This is a reign which grants two additional ranks of lore to all realms once per day
+*'''Proposed:''' Redoubt
+*'''Seconded:''' Morrow
+* '''Passed'''
+*'''Outcome:''' Ten thrones paid by '''Tisserande Griffinsbain''' to disseminate knowledge of [[Ring of the Rainbow Sage]] to Imperial [[Crafting skills#Artisan|artisans]]. The [[Magic_items#Schema|schema]] was provided and used up in the process.
+
+===Amend Auditor of Senatorial Accountability===
+*'''Motion:''' Amend the <u>powers</u> of the Auditor of Senatorial Accountability to include the inquisition of all citizens with the power of announcement in the Senate
+*'''Proposed:''' Temeschwar
+*'''Seconded:''' Miaren
+* '''Passed'''
+*'''Outcome:''' The [[Auditor of Senatorial Accountability]] has been amended
+
+===Raise Second Urizen Army===
+*'''Motion:''' That the Senate raise the Urizen second army in Redoubt, the Argent Sword. Fully self-funded.
+*'''Proposed:''' Zenith
+*'''Seconded:''' Segura
+* '''Passed'''
+*'''Further Reading:''' [[Raise Second Urizen Army]]
+* '''Notes:''' More information can be found in the '''[[A box for a sword]]''' wind of fortune
+
+===Endorse Professor Gelberg===
+*'''Motion:''' The Senate welcomes Professor Gelberg and their fellows to the Empire and instructs the civil service to fully cooperate with them in auctioning their services, so that they may offer their expertise. This will allow private citizens to purchase at auction a small-scale appraisal, carried out by Commonwealth scholars.
+*'''Proposed:''' Karsk
+*'''Seconded:''' Holberg
+* '''Passed'''
+* '''Notes:''' More information can be found in the '''[[Germinating_a_city#Die_Beurteilung|Germinating a city]]''' wind of fortune
+
+===Abrogate Fallen Petals Memorial Garden===
+*'''Motion:''' Abrogate the Fallen Petals Memorial Garden to allow the Imperial Spymaster's announcement for the urgent construction of a smugglers cove in Ayereed
+*'''Proposed:''' The Barrens
+*'''Seconded:''' Hahnmark
+* '''Passed'''
+
+===Abrogate Appraisal of Utterlund Port===
+*'''Motion:''' To abrogate the motion to appraise the building of a port in Utterlund, Holberg
+*'''Proposed:''' Upwold
+*'''Seconded:''' Mournwold
+* '''Passed'''
+
+===Raise Fourth Highborn Army===
+*'''Motion:''' To raise a fourth Highborn army in Casinea
+*'''Proposed:''' Casinea
+*'''Seconded:''' Bastion
+* '''Passed'''
+*'''Further Reading:''' [[Raise Fourth Highborn Army]]
+* '''Notes:''' More information can be found in the '''[[The_war_of_thorns_and_flowers#Highguard|The war of thorns and flowers]]''' wind of fortune
+
+===Establish Vallornguard Sodality===
+*'''Motion:''' To create the Imperial Sodality - the Vallornguard. To rid the Empire of the vallorn; to encourage international cooperation on the matter; to provide opportunities to virtuous citizens to aid in the fight against the vallorn. They believe that the vallorn are the greatest spiritual threat the Empire has seen; that the threat can be dealt with via Imperial cooperation; that further opportunities should be sought to deal with this threat.
+*'''Proposed:''' Semmerholm
+*'''Seconded:''' Astolat
+*'''Passed with constitutional majority'''
+*'''Outcome:''' This motion was ratified by Empress '''Vesna Borkovna Prochnost'''
+*'''Notes:''' This motion is undergoing extended scrutiny
+
+===Ratify Thule Treaty===
+*'''Motion:''' To ratify a treaty with the Thule of Otkodov
+*'''Proposed:''' Miekarova
+*'''Seconded:''' Karsk
+* '''Passed'''
+* '''Further Reading:''' [[Ratify Thule Treaty Spring 387YE|Ratify Thule Treaty]]
+*'''Outcome:''' '''Nikolai "The Butcher" Petravich''' of the General Assembly expressed their intention to seek the veto of the Imperial Synod on this motion. A judgement of veto will be raised at the start of the Summer Solstice 387YE, with scrutiny closing at 22:00 on Saturday.
+
+===Create Marshal of the Faith===
+*'''Motion:''' To create the Imperial title: Marshal of the Faith. Responsibilities: To provide spiritual guidance to the Military Council with insight into Synod concerns. To provide guidance on using Virtue as a weapon of war. Power: Member of the Military Council. Appointment: Assembly of Nine, revoked by the Assembly of Nine and the General Assembly. Term: One year.
+*'''Proposed:''' Conscience of the Senate
+*'''Seconded:''' Kallavesa
+*'''Passed with constitutional majority'''
+*'''Outcome:''' This motion was ratified by Emperor Vesna Borkovna Prochnost during the Summer Solstice 387YE. The [[Marshal of the Faith]] will be available to appoint for the first time at the Autumn Equinox 387YE.
+
+==Appointments==
+===Ambassador to the Commonwealth===
+*'''Motion:''' Elect Ambassador to the Commonwealth 
+*'''Proposed:''' Speaker for the Senate at the Friday session
+*'''Outcome:''' '''Finn Pridetalker''' of [[Wintermark]] was appointed as [[Ambassador to the Commonwealth]]
+* '''Notes:''' This appointment was [[386YE_Winter_Solstice_Senate_sessions#Ambassador_to_the_Commonwealth|initially raised]] in the last session of the Winter Solstice 386YE
+
+===Ambassador to Otkodov===
+*'''Motion:''' Elect Ambassador to Otkodov
+*'''Proposed:''' Speaker for the Senate at the Friday session
+*'''Outcome:''' '''Kindra Surefoot''' of [[Wintermark]] was appointed as [[Ambassador to Otkodov]]
+* '''Notes:''' This appointment was [[386YE_Winter_Solstice_Senate_sessions#Ambassador_to_Otkodov|initially raised]] in the last session of the Winter Solstice 386YE
+
+===Imperial Spymaster===
+*'''Motion:''' Elect Imperial Spymaster
+*'''Proposed:''' Volodmartz
+*'''Seconded:''' Karov
+*'''Outcome:''' '''Rahmah i Darwisj i Erigo''' of [[the Brass Coast]] was appointed as [[Imperial Spymaster]]
+
+===Ambassador to Faraden===
+*'''Motion:''' To elect the Ambassador to Faraden
+*'''Proposed:''' Tassato
+*'''Seconded:''' Spiral
+*'''Outcome:''' '''Ebenezer''' of [[the Marches]] was appointed as [[Ambassador to Faraden]]
+
+===Ambassador to the Sumaah Republic===
+*'''Motion:''' To elect the Ambassador to the Sumaah Republic
+*'''Proposed:''' Ossium
+*'''Seconded:''' Miekarova
+*'''Outcome:''' '''Accalon''' of [[Highguard]] was appointed as [[Ambassador to the Sumaah Republic]]
+
+===Minister of Historical Research===
+*'''Motion:''' To elect a Minister for Historical Research
+*'''Proposed:''' Hahnmark
+*'''Seconded:''' Sermersuaq
+*'''Outcome:''' The title of [[Minister of Historical Research]] will be appointed at the first Senate session of the Summer Solstice 387YE
+
+===Imperial Consul===
+*'''Motion:''' To elect the Imperial Consul
+*'''Proposed:''' Bastion
+*'''Seconded:''' Necropolis
+*'''Outcome:''' The title of [[Imperial Consul]] will be appointed at the first Senate session of the Summer Solstice 387YE
+
+==Commissions (Senate)==
+===Construct Meeting Place===
+*'''Motion:''' To build a feasting hall on Gull Island, Kallavesa. This would act as a new meeting place in matters of diplomacy between the Empire and the Jotun. The Empire will contribute 55 wains of white granite to this edifice, with <s>167</s> 198 crowns of labour costs. This construction will be a joint effort with the Jotun. They are also contributing to this build.
+*'''Proposed:''' Sermersuaq
+*'''Seconded:''' Conscience of the Senate
+* '''Passed'''
+*'''Outcome:''' [[Construct Meeting Place]]
+
+===Construct Beneficiary of the Golden Cascade===
+*'''Motion:''' To construct the Beneficiary of the Golden Cascade sinecure for 8 weirwood, 8 white granite, and 48 crowns. Gives 10 crowns per season to the virtue fund and creates the title of the same name, appointed by Urizen Assembly. The role requires using the proceeds of the position to aid and reward other nations to build international friendship and cooperation. Title holder gets 20 random herbs, 3 elixir vitae, 3 ossean solutions, 3 philtres of heavenly lore, and 10 crowns a season
+*'''Proposed:''' Sarvos
+*'''Seconded:''' Zenith
+* '''Passed'''
+*'''Outcome:''' [[Construct Beneficiary of the Golden Cascade]]
+* '''Notes:''' More information can be found in the '''[[Forwards_and_Rewards#Golden_Windfalls|Forwards and Rewards]]''' wind of fortune
+
+===Ward the Little Boyar's Welcome===
+*'''Motion:''' To convert the fortification 'The Little Boyar's Welcome' in Karov into a citadel.
+*'''Proposed:''' Karov
+*'''Seconded:''' Volodmartz
+* '''Passed'''
+*'''Further Details:''' [[Ward Little Boyar's Welcome]]
+* '''Notes:''' More information can be found in the '''[[Outside_the_wall#Walls_Against_Wickedness|Outside the walls]]''' wind of fortune
+
+===Restore the Throne Room===
+*'''Motion:''' For the restoration of the throne room in the Castle of Thorns within Withy, Astolat, which is a fortification. The cost of the restoration will be 15 white granite and 45 crowns which has been fully secured. The work would take 3 months. The restoration would generate historical research into the early monarchs of Dawn
+*'''Proposed:''' Astolat
+*'''Seconded:''' Temeschwar
+* '''Withdrawn'''
+* '''Notes:''' More information can be found in the '''[[Dog_days_are_over#The_Throne_of_Glory|Dog days are over]]''' wind of fortune
+
+===Construct Wharfage of Oran===
+*'''Motion:''' To commission the Wharfage of Oran in Oran, Oranseri. At a cost of 15 weirwood and 15 crowns, fully self funded. This will remove the lawless quality from the Cazar Straits. It will also create the title of Corsair of Oran, which grants 216 rings and a base fleet upgrade once a year in the season it was elected if held by a corsair.
+*'''Proposed:''' Feroz
+*'''Seconded:''' Kahraman
+* '''Passed'''
+*'''Further Details:''' [[Construct Wharfage of Oran]]
+* '''Notes:''' More information can be found in the '''[[Send_for_me#Wharfage_of_Oran|Send for me]]''' wind of fortune
+
+===Construct Fallen Petals Memorial Garden===
+*'''Motion:''' Weirwater would ask for a commission for a herb garden sinecure, 'The Fallen Petals Memorial Garden', to be built in Sandling, honouring the Glorious dead of the Sweetglade Massacre. It will specialise in cerulean mazzarine in order to prevent similar great losses. It will create the 'Custodian of the Fallen Petals', as an Imperial title, appointed by the National Assembly to a Dawnish yeofolk. This sinecure is fully funded and if passed today (Saturday Spring 387YE) can be completed by next summit.
+*'''Proposed:''' Weirwater
+*'''Seconded:''' Semmerholm
+* '''Passed'''
+* '''Notes:''' This motion was [[#Abrogate Fallen Petals Memorial Garden|abrogated]] in a later motion by the Imperial Senate. 
+
+===Construct Stone Smith's Workshop===
+*'''Motion:''' To commission a sinecure - Stone Smith's Workshop - in the Woldstone, Ashbrook, Upwold. Sinecure is to be a place where smiths can congregate, discuss, act as a repository of lore, and be a place to train new smiths. Sinecure to create the Stone Smith position, to be appointed by tally of the votes. This sinecure is self funded.
+*'''Proposed:''' Mitwold
+*'''Seconded:''' Upwold
+* '''Passed'''
+*'''Further Details:''' [[Construct Stone Smith's Workshop]]
+* '''Notes:''' More information on the smiths can be found on the [[smith]] page and the '''[[A_pinch_of_salt|A pinch of salt]]''' wind of fortune
+
+===Construct Chamber of Euphony===
+*'''Motion:''' To build and cede the Chamber of Euphony, a fane to Sung in Apulus, Spiral. The associated Imperial title, the Map to the City Below, to be appointed on an annual basis by the League National Assembly, and revocable by the League or General Assemblies, or the Assembly of Nine, with the responsibility to oversee the Chamber of Euphony and encourage the spread of magic, music, and mystery in Apulian.
+*'''Proposed:''' Spiral
+*'''Seconded:''' Tassato
+* '''Passed'''
+*'''Further Details:''' [[Construct Chamber of Euphony]]
+* '''Notes:''' More information on this motion can be found in the '''[[The_play_that_came_to_Apulian#Writhing_Tails,_Flashing_Wing|The play that came to Apulian]]''' wind of fortune.
+
+===Construct the Toadstone===
+*'''Motion:''' To commission and cede the Toadstone fane to Sadogua in West Marsh, Kallavesa. This will be overseen by the Master of the Toadstone, appointed by the Wintermark National Assembly.
+*'''Proposed:''' Kallavesa
+*'''Seconded:''' Skarsind
+* '''Failed'''
+* '''Notes:''' More information on this motion can be found in the '''[[Nightcall#The_Father_of_Bats|Nightcall]]''' wind of fortune.
+
+===Construct Wayhouse in Ossium===
+*'''Motion:''' To build a wayhouse in Ossium. To be attached to the Navarr strategos title. This will house refugees from Therunin and assist in funding the Navarr army.
+*'''Proposed:''' Miaren
+*'''Seconded:''' Mitwold
+* '''Passed'''
+*'''Further Details:''' [[Construct Wayhouse in Ossium]]
+* '''Notes:''' More information on this motion can be found in the '''[[The way home]]''' wind of fortune
+
+==Commissions (Announcements)==
+===Construct Wanderer's Entertainment Society===
+*'''Announcement:''' To commission the structure of the Wanderer's Entertainment Society. A self funded sinecure requiring 10 wains of weirwood, 3 thrones, and 6 crowns in labour using standard costings. The sinecure will provide wealth. The Wanderer's Entertainment Society will be supervised by the Mistress of Festivities appointed by Judgement by the League Assembly and will be built in Hanuri, Temeschwar. This project has been organised by Red Ravens Holding, the premier building society in the Empire.
+*'''Announced by:''' Lucrezia Corvinascura, [[Chair of the Wolf]]
+*'''Outcome:''' Constructs a [[sinecure]] in Hanuri, Temeschwar
+*'''Further Details:''' [[Construct Wanderer's Entertainment Society]]
+
+===Construct Rhydian Sepulchre Memorial Hospital===
+*'''Announcement:''' To commission the construction of the Rhydian Sepulchre Memorial Hospital. The sinecure will create the title of "Warden of the Weary". They will provide shelter and succour to travellers in Astolat, and will be paid in cerulean mazzarine from the hospital gardens. To be built in Astolat with 10 wains of weirwood from the Castellan of Spiral Castle, to produce 18 drams each season. To be elected by tally of the votes in Autumn.
+*'''Announced by:''' Arlen Foreman-Smith, [[Bearer of an Imperial Wayleave]]
+*'''Outcome:''' Constructs a [[sinecure]] in Winterbourne, Astolat
+*'''Further Details:''' [[Construct Rhydian Sepulchre Memorial Hospital]] 
+
+===Construct Statue of that Cockscroft Lad===
+*'''Announcement:''' I announce the construction of a statue celebrating the Vigilant hue and cry of Johnathan Piper of the Cockscroft. The "Statue of that Cockscroft Lad" will mark and memorialise the site of the massacre of the Wayford Wanderers and their supporters in Mitwold. 5 white granite, 15 crowns. Funded by the Cockscroft Household.
+*'''Announced by:''' Konstantin Rabovich Bolotnikov, [[Mistress of Monuments]]
+*'''Outcome:''' Constructs an [[edifice]] in Maiden Downs, Mitwold
+*'''Further Details:''' [[Construct Statue of that Cockscroft Lad]]
+
+===Construct Smugglers Cove in Ayereed===
+*'''Announcement:''' To commission a smugglers cove in Ayereed and decommission the spy network in Sarangrave
+*'''Announced by:''' Rahmah i Darwisj i Erigo, [[Imperial Spymaster]]
+*'''Outcome:''' Constructs a [[smugglers cove]] in Ayereed
+*'''Further Details:''' [[Construct Smugglers Cove in Ayereed]] 
+*'''Notes:''' The spy network in [[Sarangrave]] was destroyed by the Druj a year ago, shortly before the Summer Solstice 386YE
+
+===Construct Lumi's Legacy===
+*'''Announcement:''' To construct "Lumi's Legacy". Being a herb sinecure, located in East Floes, Sermerusaq, with the intent to focus on bladeroot cultivation. The title of Legal Leaseholder of Lumi's Legacy is to have tenure and be elected by unanimous pick of the Wintermark senators. The cost of the building and the ten wains of materials will be funded in full by Lumi Warmthbringer
+*'''Announced by:''' Laughlan Vi Temeschwar, [[Master of Rings]]
+*'''Outcome:''' Constructs a [[sinecure]] in East Floes, Sermersuaq
+*'''Further Details:''' [[Construct Lumi's Legacy]]
+
+===Construct Hylje Dolmen===
+*'''Announcement:''' To commission the erection of a white granite marker dolmen on the northern shores of the Rikkivessi. To enable the Hylje to deliver the bones of Imperial Orc heroes who fell during the invasion of Sermersuaq (helping to protect the lives of Wintermark citizens). Once recovered from the depths they will be collected by the Imperial Orcs for proper funerary care. This announcement is self-funded.
+*'''Announced by:''' Logan Dunning, [[Bearer of an Imperial Wayleave]]
+*'''Outcome:''' Constructs a [[sinecure]] in Skymark, Sermersuaq
+*'''Further Details:''' [[Construct Hylje Dolmen]] 
+
+===Construct Tower of the Dragon===
+*'''Announcement:''' To commission the Tower of the Dragon in Nearweald, Ossium, an official residence of the Archmage of Summer which functions as a ministry. Fully funded by myself and the Archmage of Summer, Mirella of the Twisted Rose. 15 white granite and 45 crowns
+*'''Announced by:''' Dima Vasilyevna Novosad, [[Master of the Koboldi]]
+*'''Outcome:''' Constructs a [[ministry]] in Nearweald, Ossium
+*'''Further Details:''' [[Construct Tower of the Dragon]] 
+*'''Notes:''' More information can be found in the '''[[Stone_and_stone#Tower_of_the_Dragon|Stone and stone]]''' wind of fortune
+
+===Construct Apstrus Dam===
+*'''Announcement:''' The Legion Engineer is to build the way less taken and construct the dam in Apstrus to divert water into Icarion. This is not just for the betterment of Mareave, but Spiral and the wider Empire
+*'''Announced by:''' Protectorate Thenrik, [[Legion Engineer]]
+*'''Outcome:''' The Legion Engineer is not able to commission [[edifice|edifices]]. Construction on this project was not started. The opportunity to [[Damming the Doubt|dam the River Doubt]] remains.
+*'''Notes:''' This announcement was not handed to the [[Speaker for the Senate]]. More information can be found in the '''[[Million_miles_of_water#The_Way_Less_Taken|Million miles of water]]''' wind of fortune
+
+==Announcements==
+===Support Feroz with Breadbasket===
+*'''Announcement:''' To have the Breadbasket support Feroz for two seasons
+*'''Announced by:''' Orson Bogmyrtle, [[Keeper of the Breadbasket]]
+*'''Outcome:''' The Breadbasket will stop providing benefit to the [[farm|farms]] of the Marches until the start of the Winter Solstice 387YE. As per the '''[[Send_for_me#Plants_and_Seeds|Send for me]]''' wind of fortune
+
+===Research Origins of Exemplars===
+*'''Announcement:''' Heirs of Lepidus, people look to the Synod for guidance, we may be in crisis, but Wisdom comes from asking the right questions. Through asking those questions, we made the Doctrine of Enlightenment, so I guide you to research the origins of Exemplars in our faith, so that we may bolster all in our Empire
+*'''Announced by:''' Hazelelponi, [[Lepidean Librarian]]
+*'''Outcome:''' Research on this subject will be presented to the Lepidean Librarian at the Summer Solstice 387YE
+
+===Amend Imperial Consul===
+*'''Announcement:''' To reduce the stipend of the Imperial Consul from 10 thrones down to 5 thrones
+*'''Announced by:''' Benedict Urban Di Tassato, [[Stipulator of Stipends]]
+*'''Outcome:''' Stipend of the [[Imperial Consul]] has been reduced to five thrones from ten thrones
+
+===Research Suranni Military History===
+*'''Announcement:''' The Department of Historical Research to send Marko Siwarsbairn to the Iron Confederacy and prepare a primer of Suranni recent military history, working with Josse Argent and the priests of Lavasse
+*'''Announced by:''' Silk Farkas, [[Minister of Historical Research]]
+*'''Outcome:''' Research on this subject will be presented to '''Silk Farkas''' at the Summer Solstice 387YE
+
+===Resupply and Imperial Guerdon===
+*'''Motion:''' The Wolves of War to receive emergency resupply. The Autumn Hammers and the Northern Eagle to receive the Guerdon
+* '''Announced:''' by Natalia 'The Falcon' Barossa, [[Quartermaster General of the Imperial Armies]]
+* '''Outcome:''' Military units supporting the two armies will receive shares in the [[Military_unit#Imperial_Guerdon|Imperial Guerdon]]
+Click ''Expand'' to see the list of contributions made to the emergency resupply.
+<div class="mw-collapsible mw-collapsed">
+{{CommissionProgress|Wolves_of_War_resupply}}
+</div>
+
+===Assign Regalia to Generals of Highguard===
+*'''Motion:''' I bestow the following artefacts as regalia: upon the General of the Granite Pillar, Empire's Heart; upon the General of the Seventh Wave, Salvation in Darkness; and upon the General of the Valiant Pegasus, Physician's Benevolence.
+*'''Announced by:''' Jacob, [[Benefactor of Regalia]]
+*'''Outcome:''' Empire's Heart is now the regalia of the [[Granite Pillar|General of the Granite Pillar]], Salvation in Darkness is now the regalia of the [[Seventh Wave|General of the Seventh Wave]], and The Physician's Benevolence is now the regalia of the [[Valiant Pegasus|General of the Valiant Pegasus]]

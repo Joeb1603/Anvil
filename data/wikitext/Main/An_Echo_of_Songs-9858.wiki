@@ -1,0 +1,25 @@
+{{Stub}}
+{{CaptionedImage|file=NBUrizen.jpg|caption=This ritual is part of [[Urizen magical traditions#Urizen Lore|Urizen lore]] rather than [[Imperial lore]].|align=right|width=200}}
+==Rules==
+{{Season|Night|30}}
+{{Urizen Lore}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Resource|[[mine]]}} 
+
+Performing this ritual requires a number of rings of [[ilium]] equal to the level the mine will be upgraded to.
+
+{{enchantment}}
+
+===Effects===
+This ritual [[enchantment|enchants]] a mine. It requires a number rings of ilium equal to the level the mine will be upgraded to (one more than the current rank of the mine). When the ritual is complete the ilium is consumed and over the next few weeks the power of the mine is increased - it is permanently [[mine#upgrades|upgraded]] one level. 
+
+The enchantment does not prevent a character from upgrading their mine during downtime using the normal rules.
+
+The owner of the mine experiences a [[roleplaying effect]] while their mine is enchanted: ''they feel an urge to uncover secrets and delve into the real motivations behind events. It is easy to become caught up in conspiratorial thinking, seeking complicated  explanations for even the most mundane event.''
+
+{{Season Duration}}
+==Description==
+TBC
+==Common Elements==
+TBC
+[[Category:Rituals]][[Category:Night Ritual]]

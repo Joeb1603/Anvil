@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:388YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Rane Shardbearer, Senator for Kallavesa, Seconded: Delara of the House of the Wanderer, Senator for Zenith">To commission the Hall of the Soturi, an edifice in the Kallavesa Marsh, Kallavesa. This will enable a new Wintermark army to be created with the fearless quality, a unique quality. 20 white granite, 20 weirwood, 120 crowns. Self-funded.
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Kallavesa Marsh, Kallavesa
+* The Hall of the Soturi was first [[Flight_of_birds#No_Half_Measures|proposed]] by the Mystics of Ishal in response to a call to action from the [[Raven Seer]].
+* Passed
+
+==Date==
+* Autumn 388YE
+
+==Cost==
+* Standard costs apply
+* 20 wains of white granite
+* 20 wains of weirwood
+* 15 thrones in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Hall_of_the_Soturi}}
+==Outcome==
+* Once complete, Wintermark will be able to raise a single new army based on the Kallavesi tradition with the fearless quality

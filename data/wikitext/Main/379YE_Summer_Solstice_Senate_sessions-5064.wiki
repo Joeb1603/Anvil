@@ -1,0 +1,62 @@
+__NOTOC__
+==Overview==
+* Imperial treasury during this season announced by the Civil Service at 681 thrones.
+* The following has been donated to the Imperial treasury: None.
+
+==Motions==
+===Passed===
+* '''[[Abrogate Jotun ceasefire]]''' <label type="important">Info needed</label>
+* '''[[Accept Lasambrian treaty]]'''
+* '''[[Accept Thule peace treaty]]'''
+* '''[[Appoint Asavean ambassador]]''' <label type="important">Info needed</label>
+* '''[[Appoint Dean of Pilgrims]]'''
+* '''[[Assign funds to protect historical researchers]]'''
+* '''[[Construct apothecary clearing house in Tassato]]''' <label type="important">Info needed</label>
+* '''[[Construct College of Summer Magic]]'''
+* '''[[Construct Commonwealth embassy]]''' <label type="important">Info needed</label>
+* '''[[Construct Garden of Falling Snow]]'''
+* '''[[Create Inquisitorial Court]]'''
+* '''[[Create title of High Consul]]'''
+* '''[[Disburse funds for Dawnish army]]'''
+* '''[[Disburse funds for strategic rituals III|Disburse funds for strategic rituals]]'''
+* '''[[Disburse funds for Summer college]]'''
+* '''[[Disburse funds to militia]]'''
+* '''[[Disburse Funds to the Quartermaster General IV|Disburse Funds to the Quartermaster General]]'''
+* '''[[Employ Civil Service to observe Fleets II|Employ Civil Service to observe Fleets]]'''
+* '''[[Grant permission to contact Jotun]]'''
+* '''[[Raise Towerjacks army]]'''
+
+===Vetoed===
+* The Imperial Synod did not employ their veto.
+===Withdrawn===
+* '''[[Accept Iron Confederacy treaty]]'''
+* '''[[Appoint Throne III|Appoint Throne]]'''
+* '''[[Disburse funds to raise Towerjacks]]'''
+
+===Defeated===
+* '''[[Abrogate Trade Envoys]]'''
+* '''[[Accept Grendel peace treaty]]'''
+* '''[[Accept Barrens peace treaty]]'''
+* '''[[Accept Druj peace treaty]]'''
+* '''[[Create title of Imperial Harbourmaster]]'''
+
+==Announcements==
+* '''[[379YE Summer Solstice Announcements by the Quartermaster General|Announcements by the Quartermaster General]]
+* '''[[379YE Summer Solstice Announcements by the Minister for Historical Research|Announcements by the Minister for Historical Research]]
+* '''[[379YE Summer Solstice Announcements by the Crystal Architect|Announcements by the Crystal Architect]]
+* '''[[379YE Summer Solstice Announcements by the Advisor on the Vallorn|Announcements by the Advisor on the Vallorn]]'''
+* Announcements by the [[Imperial Master of Works]]
+
+==Administrative Motions Arising==
+* Approve constitutional amendments to the motion to [[Create title of High Consul|create the title of Imperial Consul]]
+* Approve constitutional amendments to the motion to amend [[Dredgemaster of Feverwater]].
+* Approve constitutional amendments to the motion to [[construct Printers' Guild Museum of Wonders]]
+* Seeking clarification regarding the Trade envoys to Jarm and Asavea
+** With the appointment of ambassadors, should these titles be abrograted?
+
+==Necessary Details Missing==
+* Where is the Sumaah embassy to be built?
+
+[[Category:Senate]]
+[[Category:Senate Sessions]]
+[[Category:379YE Summer]]

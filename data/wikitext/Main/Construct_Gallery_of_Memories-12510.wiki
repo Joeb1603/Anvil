@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Proposed: Ossium, Seconded: Karsk">To build "the Gallery of Memories", a money sinecure taking the form of a permanent exhibition to the former cultures of the Ossium freed peoples. To be built in Lomaa, Ossium with 10 wains of white granite and 30 crowns of labour. Creates the title "Curator of Memories" appointed with tenure by the Varushkan National Assembly. Self funded.</quote>
+==Overview==
+* Constructs a [[sinecure]] in Galath Fields, Ossium 
+* Passed
+
+==Date==
+* Winter 386YE
+
+==Cost==
+* Standard costs apply
+* 10 white granite
+* 30 crowns
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Gallery_of_Memories}}
+==Outcome==
+Now complete, the [[Curator of Memories]] will be available to appoint by the Varushkan Assembly for the first time at the Spring Equinox 387YE

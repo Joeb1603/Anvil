@@ -1,0 +1,31 @@
+{{stub}}
+[[Category:Senate Motion]][[Category:384YE Spring]]
+__NOTOC__
+<quote by="Announced by Palerictus Ka'bal, Legion Engineer">Commissioning a mana sinecure to be overseen by the Curator of the Twilight Demesne in Skarsind</quote>
+==Overview==
+* Commissions a [[sinecure]] in [[Skarsind]].
+* Announcement by [[Legion Engineer]].
+==Date==
+* Spring 384YE
+==Cost==
+* Standard [[sinecure]] costs apply
+==Progress==
+{{CommissionProgress|Twilight_Demesne}}
+==Outcome==
+Once work on the Demesne is completed the title of [[Curator of the Twilight Demesne]] will be available to be appointed
+<!--
+[[File:Nocturalgardens.jpeg]]
+Sinecure Title: Curator of The Twilight Demesne (Pronounced ‘Deh-Mean’)
+
+Places: The Nocturnal Gardens, The Corcuscate Bathhouse (colloquially ’the Baths’), The Shadowglass Pit
+
+Located in the woodlands of Skogei, famed for its mystical and mysterious nature, The Twilight Demesne is a partially curated garden adjoining a large bathhouse and containing an orc fighting pit.
+
+The main structure of the estate is Coruscate Bathhouse (Coruscate meaning shining or twinkling), a broad single-level wooden building arranged around a central open space, with an open-air firepit. The building houses a structure unlike any other in Skarsind: public heated baths, filled with dimly-lit rooms of sunken mithral basins, into which hot water is poured and kept warm by controlled under-floor hearths. The purity of the mithril is crucial here, as many hot baths are supplemented with minerals and salts to scent the water and promote relaxation (kept in unreactive mithril urns). The baths can be small for private use, or large enough to hold entire households and groups of bannermates. The atmosphere here is relaxing but also convivial and lively, and groups are encouraged to make conversation with other attendees, meet new people and strengthen relationships. Here there is a feeling of reflection, transformation and change, as one feels revitalised by their time here, and many say they experience more vivid dreams and deeper sleep afterwards.
+
+The Nocturnal Gardens themselves consist of many winding paths and copses of alpine trees, and while it is pleasant during the day, it comes alive at night. Iridescent Gloaming lanterns and light crystals strung across the boughs and scattered amongst the flowerbeds cast diffuse light across raised wooden walkways, deep dark pools, night-flowering plants and fragrant trees. In the crisp cold nights of Skarskind, when the temperature drops it carries with it the scent of pine and evergreens over the grounds, and perfumes the air. Rather than being a working herbal garden, it is a therapeutic place, designed to inspire the soul and instil creativity and inspiration as one navigates the mysterious winding paths and hidden alcoves..
+
+Adjoining the baths and central to the garden is the Shadowglass Pit, a large obsidian standing-stone ritual pit open to the heavens, constructed of polished black stone and inlaid with mithril runes and constellations. Visitors can use this space for rituals, pit-fights, ceremonies and to commune with their ancestors however they see fit. Knowledgeable shaman and attendants of the Demesne provide guidance and coaching to enter a receptive state, and tutor visitors in the art of Night Magic. Passion, (particularly that of combat and conflict) and strong emotions in all their forms are vital triggers for experiencing the voices of the ancestors.
+
+The combined magical energies produced by the interaction of the demesne with its visitors coalesce in the deep still pools of the Nocturnal Gardens, where mana and Vis precipitate in large iridescent crystals around the banks.
+-->

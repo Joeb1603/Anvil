@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:387YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Sermersuaq, Seconded: Mournwold">To expand the Pride of Ikka's Tears, via deep shaft and galleries. Effect: production increase of 5 wains per season of mithril; upkeep increase of 2 thrones per season. The 250 throne cost to do this is self-funded, no commission necessary
+</quote>
+==Overview==
+* Expands the [[Pride of Ikka's Tears]] in Suaq Fount, [[Sermersuaq]]
+* Passed
+* More information can be found in the '''[[Metal_and_stone#Pride_of_Ikka's_Tears|Metal and stone]]''' wind of fortune
+
+==Date==
+* Autumn 387YE
+
+==Cost==
+* Costs as per opportunity
+* 250 thrones
+* Six months to complete
+
+==Progress==
+{{CommissionProgress|Expand_Pride_of_Ikka%27s_Tears_Autumn_387YE}}
+==Outcome==
+* Once complete, the Pride of Ikka's Tears will produce an additional five wains of [[mithril]] per season, and its upkeep will increase by two thrones per season

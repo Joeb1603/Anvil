@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:387YE Winter]]
+__NOTOC__
+<quote by="Proposed: Redoubt, Seconded: Miaren">To rebuild the Great Library of Ankarien in its original location, a promise and an ambition of two centuries fulfilled. Costs thirty wains of white granite. Fully funded
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Ankra, Spiral
+* Passed
+
+==Date==
+* Winter 387YE
+
+==Cost==
+* Standard costs apply
+* 30 wains of white granite
+* 90 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Rebuild_Great_Library_of_Ankarien}}
+==Outcome==
+* Once complete, the [[Spiral#Ruins_of_Ankarien|ruins of Ankarien]] will be restored to their former glory.

@@ -1,0 +1,30 @@
+==Rules==
+{{Season|Autumn|10}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Resource|[[fleet]]}}
+
+{{enchantment}}
+
+===Effects===
+The fleet gains a significant boost to its effective rank, but only if it takes a [[Fleet#trading|trading]] action. This temporary bonus increases the rank of the fleet by the equivalent of 5 normal upgrades.
+
+The character who controls the target resource experiences a [[roleplaying effect]] for at least ten minutes after the ritual is performed: ''You feel a strong urge to seek out new situations and new people, learn all you can about them, and find ways to influence them for your own advantage.''
+
+{{Season Duration}} {{Downtime buff}}
+
+===Additional Targets===
+This ritual can affect additional fleets belonging to characters in the same [[Groups#Band|band]]. Each additional fleet increases the magnitude by 8. The character who controls each fleet must be present throughout the ritual.
+
+==Description==
+This ritual helps navigators chart routes to distant lands, and encourages sailors and ships alike to work in close harmony to reach hitherto unknown shores. Target ships seem to serendipitously adjust their courses by themselves, avoiding hidden dangers and submarine terrors with equal ease. On reaching new ports, the merchants who operate from the fleet are able to make surprisingly good deals.
+
+This [[enchantment]] often ensures that the target fleet will encounter luck or fortune that results in some sort of adventure. For example, a [[The League|League]] merchant bound for Leerdam in the eastern [[The Commonwealth|Commonwealth]] ended up blown off course and involved in a furious battle between Commonwealth troops and local barbarians. After their valuable assistance, the leaders of the Commonwealth army rewarded the League traders handsomely, helped them repair their ship, and sent them on their way with considerably more [[Materials#Tempest Jade|tempest jade]] and [[Materials#Green Iron|green iron]] than they might have expected to gain in trade had they reached Leerdam. Likewise, a [[The Marches|Marcher]] vessel operating out of [[Mitwold#Meade|Meade]] offered a [[Sumaah_Republic|Sumaah]] ship assistance only to become embroiled in a tale of mistaken identity, Sumaah politics and corruption that resulted in great profits for the Marcher fleet-owner - and a new spouse for the captain.
+
+'''OOC Note:''' You are encouraged to make up similar stories to explain the additional profits generated from this ritual, highlighting adventure, coincidence, romance, intrigue and strange encounters. A referee will not provide additional specific information about your trading activities beyond what is presented here, and what can be potentially gleaned from the pages about foreign nations.
+
+==Common Elements==
+The ritual both influences chance and encourages the crew and officers of a [[fleet]] to take risks that later turn out to be lucrative. Ritual performances often include the evocation of the [[Ull|rune of chance]] or the [[Pallas|rune of wealth]], as well as things that encourage risk-taking and accentuate the value of seeking out new opportunities for profit and influence. Foreign traders are a component of some rituals; a [[Sarvos|Sarvosan]] [[troupe]] may invite a [[Principalities of Jarm|Jarmish]] dignitary to view a performance of a play involving themes of trade and travel, while a [[The Brass Coast|Freeborn]] [[Groups#Covens|coven]] might perform an energetic dance inspired by [[Faraden]] rhythms.
+
+[[Category:Autumn Ritual]]
+[[Category:Rituals]]
+[[Category:Resource]]

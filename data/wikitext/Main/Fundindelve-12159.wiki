@@ -1,0 +1,31 @@
+==Overview==
+Fundindelve is located in [[Mareave#Clisearn|Clisearn]] in the [[Imperial Orcs|Imperial Orc]] [[territory]] of [[Mareave]]. Custodianship of Fundindelve grants an [[Imperial title]]; a seat on the [[Bourse]]; and a seasonal bounty of valuable mithril.
+
+==The Resource==
+In northern Clisearn, deep in the mountains near the Ohwinn river, is a large village built around a wide opening cut deep into the side of one of the mountains. This is Fundindelve; a mine with ready access to the abundant veins of mithril beneath Mount Finnoderi. The majority of the village - which shares the same name as the mine - consists of mining families that have worked the Fundindelve for generations. These orcs were paid a comfortable wage for their skills whilst the Grendel ruled the territory and they expect this to continue under Imperial rule.
+
+The mine workings themselves are still a mystery to the Empire. It is clear that other miners and civil servants are welcome to visit and work the mine, but the mountain is riddled with dozens of twisting tunnels that were abandoned when their seams ran dry. Each of the mining families keeps information about the tunnels they dug and worked to themselves, and attempts by the civil service to get a thorough layout of the mine have been met with uniform, obstinate resistance.
+
+The mine was [[386YE_Summer_Solstice_Senate_sessions#Allocate_Fundindelve|allocated]] as an Imperial Bourse position during the Summer Solstice 386YE, in a motion proposed and seconded by the two senators of the Imperial Orcs.
+
+==The Bourse Seat==
+===Responsibilities===
+The Seat has no particular responsibilities; they simply receive a bounty of mithril which is theirs to do with as they will. If Fundindelve were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular [[opportunity]] were to arise related to the mines, the Seat would expect to be consulted as to how that opportunity might be resolved.
+
+===Powers===
+====Seat on the Bourse====
+Custodianship of Fundindelve comes with a seat on the Imperial Bourse. For the most part, this Seat comes with no additional responsibilities. It is an Imperial title that grants the right to participate on the rare occasion when the Imperial Bourse as a body is required to make a decision.
+
+====Bounty of mithril====
+The Seat has control of a source of mithril and receives Bourse certificates to represent that control. They can dispense this resource as they choose. Production is 24 Imperial wains of mithril every season.
+
+====Mountain Chateau====
+The Seat comes with lodgings in the centre of the village; the chateau that was previously used by Salt Lord Ehsan's family. The chateau is past its best, it was used as a staging ground during the Grendel's [[Sea-wood_fed_with_copper#Storms_Break|defence]] of the region, and it suffered damage during the Empire's claiming of the mine. 
+
+===Appointment===
+As with all mithril Bourse seats, the holder of the title is determined during the Autumn Equinox. As an Imperial seat, any Imperial citizen may participate in the auction and hold the title.
+
+Custodianship of Fundindelve is retained for a year, or until the citizen holding the seat dies, or steps down. An Imperial Bourse seat cannot be [[revocation|revoked]] by the [[Synod]].
+<!--{{CaptionedImage|file=Fundindelve.jpg|caption='''Iarovit Zorczek Przewałski''', Custodian of the Fundindelve|align=left|width=300}}-->
+{{RecentElections|Fundindelve}}
+[[Category:Bourse]][[Category:Title]]

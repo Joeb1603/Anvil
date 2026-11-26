@@ -1,0 +1,20 @@
+{{Army Page}}
+{{CaptionedImage|file=Star Forged colour.webp|align=right|width=300}}
+===Overview===
+The Star Forged were raised by [[Raise Third Navarr Army|Senate motion]] proposed by '''Rowyn of the Waystone Path''', then Senator for Hercynia, during the Spring Equinox 387YE. [[The war makers|Mustering]] completed shortly before the Summer Solstice 388YE, around a core of artisans and runesmiths in [[Hercynia#Treji|Treji]]. The motion received the [[A_thousand_steps#Shared_Sacrifice|support]] of Dawn, the Marches, Varushka, and the Imperial Orcs through the backing of their artisans. Funding was provided from across Navarr, with over eight hundred measures and ingots provided to the artisans of Treji.
+
+The third Navarr general leads the Star Forged, and is appointed (or re-appointed) at the Spring Equinox each year.
+__NOTOC__
+====Recent History====
+TBC
+
+===Traditions===
+TBC
+
+==Composition==
+TBC
+==Army Quality : [[Army_qualities#Resourceful|Resourceful]]==
+The Star Forged draws on the resurgence in [[Navarr wayhouse|wayhouses]] to ensure that it has a steady source of supplies and goods across Imperial territories. The artisans of Treji are encouraged to work on keeping up with repairs on the go, with funds going towards a continual supply of [[Artisan's Oil]].
+{{CaptionedImage|file=Logan Dusklight.jpg|caption='''Logan Dusklight''', General of the Star Forged|align=left|width=250}}
+{{RecentElections|General_of_the_Star_Forged|the title of [[General]] of the Star Forged}}
+[[Category:Imperial Army]][[Category:Navarr]][[Category:Military Council]]

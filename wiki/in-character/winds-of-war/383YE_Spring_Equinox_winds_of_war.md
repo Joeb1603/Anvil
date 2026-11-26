@@ -1,0 +1,1211 @@
+---
+title: 383YE Spring Equinox winds of war
+source: https://www.profounddecisions.co.uk/empire-wiki/383YE_Spring_Equinox_winds_of_war
+class: in-character
+topic: winds-of-war
+categories:
+- Recent History
+- 383YE Spring
+- Military Council
+- Winds of War
+event: 383YE Spring
+last_edited: '2026-09-05T14:54:10Z'
+revision: 144762
+in_character_boxes: 46
+---
+
+# 383YE Spring Equinox winds of war
+
+*[Image: Hold the flame 'til the dream ignites](https://www.profounddecisions.co.uk/empire-wiki/File:Mission.jpg)*
+
+## Mission
+
+### The Quayside
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > The Ships are ready! Splitting my legion, those eager to spill Grendel blood and free slaves set sail to Mareave. Raid those shores and break these chains. Slavery has no place in these lands and we shall see its end. Veterans, for countless year we have fought and bled for this Empire, our Empire. My loyalty is to the throne, but also my nation, my kin. So I must give this order never given before... Raise our banners, join me in song. We march to Skarsind. My kin we go home. Be alert and hit and run foes that follow. Eat heartily and drink deep.
+> >
+> > Morgor, General of the Winter Sun
+
+The raid against [Beoraidh](../world/Bay_of_Catazar.md#beoraidh) begins on the quaysides of the [Necropolis](../nations/highguard/Necropolis.md) and [Redoubt](../nations/urizen/Redoubt.md). With the Grendel armada anchored off [Sarvos](../nations/the-league/Sarvos.md) it is considered too dangerous to risk so many ships full of armed warriors passing beneath their gaze. For a short time a great forest of masts sprouts in the [Bay of Catazar](../world/Bay_of_Catazar.md) off [Crown's Quay](../nations/highguard/Necropolis.md#hedrossan), [Sanctuary](../nations/highguard/Necropolis.md#sanctuary-sand), [Elos](../nations/urizen/Redoubt.md#naris), and [Visten](../nations/urizen/Redoubt.md#optarion). These ports are not really equipped to cope with the huge number of vessels - and the soldiers who come to board them - but they do their best.
+
+More than one-hundred-and-fifty [ship captains](../../out-of-character/rules/Fleet.md) outfit their vessels to transport [armed soldiers](../../out-of-character/rules/Military_unit.md) - and rescued slaves - while some hundred-and-twenty-five heroic captains commit their warbands to the endeavour. The numbers of soldiers swell dramatically when three thousand [Imperial Orc](../nations/imperial-orcs/Imperial_Orcs.md) [reavers](../nations/imperial-orcs/Imperial_Orcs_economic_interests.md#reavers) arrive from the north. While the Winter Sun itself has marched home to Skarsind, nearly half the orc soldiers that make up its ranks have chosen to request furlough so that they can actively support liberation of slaves from the Grendel.
+
+Several ships find they have additional crew. Any ship enchanted with the power of [Golden Voyage](../../mixed/magic/rituals/Golden_Voyage.md) discovers that they have gained half a dozen blue-skinned mariners with great fin-shaped ears and easy smiles - heralds of the [Regent of the Eternal Sea](../eternals/Rhianos.md) eager to help support the daring raid against the Grendel. They are surprisingly strong and agile, but well versed in all the sailors arts, as well as bearing terrible weapons of gold and silver that they wield with adept skill. They are cheerfully up front about their wider duties - they are here to ensure the Imperial armada reaches its destination safely.
+
+### The Open Sea
+
+Time is of the essence - the strike must take place before the Salt Lord of Beoraidh is able to complete the fortification of the town and while the slave markets are swollen with gladiators and raw "recruits". Less than a month after the Winter Solstice, the Imperial vessels set sail - a grand armada of merchant ships and [corsairs](../nations/the-brass-coast/Corsair.md) following the coast east towards the [Broken Shore](../world/Bay_of_Catazar.md#the-broken-shore-and-attar).
+
+The southern coast of [Spiral](../nations/the-league/Spiral.md) is given a wide berth - unsurprisingly. The emanations of that place which lurks at the heart of [Screed](../nations/the-league/Spiral.md#screed) stretch some distance out to sea, it seems, as well as assailing those on land. There are a few reports of hallucinations, and dark thoughts assailing sensitive sailors - but the Imperial ships do not take the risk of anchoring within sight of the rocky cliffs of the south-easternmost territory of the Empire. Instead, they hurry on toward their destination.
+
+Some of the ships know these waters, having been involved in the original scheme to [Map the Bay](../winds-of-fortune/Talking_sailor.md#map-the-bay). They point out the [ruined lighthouse](../world/Bay_of_Catazar.md#the-lighthouse) that stands high above the water here. It is obviously [Urizen](../nations/urizen/Urizen.md) in its construction, but now the broken walls shelter a large community of orcs. Still, despite the obvious damage, a single tall tower of white granite stands at its heart, topped with an immense globe of [tempest jade](../../out-of-character/rules/Materials.md#tempest-jade). It is a powerful symbol, especially to the Urizen among the armada.
+
+It also means that the orcs of the Broken Shore must now be aware of the storm that is coming. The sand begins to flow through the hourglass - the armada must reach Beoraidh as swiftly as possible before the Grendel are warned and able to prepare a reception for the Imperial force.
+
+As with Spiral and Redoubt, much of the coastline of Mareave is composed of vertiginous rocky cliffs that offer no berth to ships and no place to disembark. Beoraidh itself represents the first real opportunity for the Imperial ships to unload their steel cargo. As the armada sweeps south, it encounters the first Grendel warships - pirates and privateers who engage the first Imperial ships with relish but who break and scatter when the true scale of the assault becomes clear.
+
+The first sign that the ships are approaching Beoraidh is the great stone [colossi](../world/Bay_of_Catazar.md#blood-river-colossi) that flank the crimson cascade the falls from the high cliffs south of the port. Then, rounding a headland, the wretched sprawl of their destination is finally visible.
+
+### The Port
+
+Beoraidh is more a ruin than a town. Many of the older buildings are sunk into the waters of the Bay, some drowned so deep that no part of them pokes above the surface even at low tide. Others are only partially submerged, their roofs and upper windows connected with makeshift bridges of driftwood and rope. Despite its ramshackle appearance, the port swarms with life - thousands of orcs clearly make this drowning city their home. Above the city, on its landward side, the skeleton of a stone fortification rises, pale stone gleaming against the backdrop of dark eastern mountains. This is the nearly completed fortification that will defend the town and serve as a base of operations for protecting the entire territory, and the first target of the raid.
+
+There are few actual sea defences to slow the ships in the bay - beyond the danger presented by submerged buildings of course. It might prove difficult for a [naval force](../../out-of-character/rules/Navy.md) to approach the port, but the smaller vessels that make up the armada are much more comfortable navigating independently, and in tight quarters. The Freeborn ships take the lead - the corsairs who crew them particularly adept at navigating treacherous coastal waters. They are the first to gain the docks, and in a trice warriors of the Brass Coast and Imperial Orc reavers pour forth to secure a beachhead.
+
+The town is not entirely unprotected however. Seven squat towers are scattered along the waterfront, garrisoned by warriors and topped by heavy ballista. As the alarm is raised - great iron bells tolling desperately - the ballistae are brought into play sending bolt after bolt against the attackers on the docks. Between the towers are two raised platforms of heavy stone - both partially sunk in the waters of the Bay - on which stand two great catapults facing out to sea. These present a much more significant danger to the armada. The orcs clamour to load them not only with stones, but with chainshot to shred sails and burning oil to set wooden hulls afire. They fire indiscriminately - barely concerned about hitting Grendel ships or half-sunken buildings - and score several crushing hits against Imperial ships before a combined force of League and Wintermark soldiers are able to reach them and smash them.
+
+It falls to the soldiers of Highguard, Dawn, and the Marches to capture the garrison towers - all the while fighting against orc warriors who spill forth from their homes to engage in chaotic melee that soon engulfs the seaward side of the port. Yet the town itself is not the target of the raid. Once the docks are secured - more or less - the Imperial forces split up. Mariners and sailors focus on keeping the waterfront secure - turning the weapons atop the captured towers on any who try to push through - while the soldiers split into two groups.
+
+One heads directly for the almost-completed castle, while the other dash quickly through the streets of Beoraidh heading for the coliseum and the slave camps that lie to the south-east.
+
+### The Castle
+
+The fortification stands just outside the town, although there is already a cluster of new buildings rising outside its walls. The outer walls are mostly complete, with the large workforce slaving to complete a central keep. The overseers and soldiers who keep a wary eye on the construction would normally be little match for the large number of Imperial soldiers arrayed against them - but they have the advantage of a literal fortification albeit one that is not yet complete.
+
+Indeed, once it is clear that the Empire is coming for the fort, the order is clearly given to close and bar the gates... but for some reason the gates stop moving before they are half closed. The first soldiers through the gate - a mixture of Imperial Orcs reavers and Urizen battlemages - quickly understand why. The slaves set to work building the fortification are in open rebellion against their oppressors. Those who can are quick to rally around their liberators - the majority are orcs but there are a few humans among their number. They know the castle and the keep intimately - having built it themselves - and despite their chains they courageously fight for their freedom.
+
+Battle rages through the partially-complete structure, and blood slicks the white granite halls and courtyards. As the sun begins to fall into the west, the Imperial forces and their rebellious allies have been victorious. There is hurried talk of how best to take down the castle. Flames are the obvious weapon of choice, but what to fire? The answer is provided by one of the most outspoken of the slaves - a grizzled orc woman leaning on a blood-and-brain spattered mattock - who quickly leads the Empire to the supports holding key parts of the half-built fortification in place.
+
+Working feverishly, the slaves who until only recently had been charged with building the castle set to work preparing to take it apart. More soldiers arrive - but this time it is the Empire that has the advantage of walls and gates. As the sun falls toward the horizon, the soldiers and slaves charge out through the gates, through the Grendel soldiers trying to get *in*. As they escape, with a terrible groan the central keep begins to list to the side - fatally undermined - and then with a terrible roar it collapses, smashing through the wall as it does so, and as great plumes of smoke rise from the towers along the walls.
+
+With some seven hundred orc slave-warriors in tow, the first assault team fights their way back to the docks as behind them the burning ruins of the Grendel castle provide a blazing beacon in the gathering twilight.
+
+### The Coliseum
+
+Just to the southeast of the port stands the grand coliseum. A massive structure of white granite and precious weirwood, it is almost a castle in its own right. It is surrounded by rings of tents and smaller buildings - and by a great open-air slave market. The alarm has been raised, the orcs around the coliseum know that something is coming and they are prepared to meet it.
+
+Again the Imperial Orcs lead the way - on land at least. Some of the corsair fleets make use of a narrow waterway that leads to a second, smaller set of docks just south of the coliseum itself, and release several hundred fresh warriors to capture the waterfront there. Here they also find signs that they are not the only human vessels at Beoraidh. A pair of Asavean galleys are moored at these docks. Their crews panic when they see the Empire - trying to escape *through* the Freeborn fleets. One of the ships founders, fatally holing itself below the waterline, but the other makes open water and escapes. The crew of the damaged ship are rescued - the slaves liberated as a matter of course - and it is quickly revealed that these are vessels belonging to the corrupt Tarquinius family of Nemoria, continuing to supply white granite to the Grendel to build their Beoraidh fort as they had done previously in Apulian - and trading human slaves to the Grendel to supplement their income.
+
+While the Freeborn secure the docks, the main force of Imperial troops assaults the coliseum and the slave-cum-training camps that surround them. As with the castle, almost as soon as the assault begins the slaves and gladiators join the fray. They burn with fury, joining wherever possible with Imperial Orc reavers to take vengeance against their captors. The slaves in the camps fight with only their anger to sustain them at first but they soon wrest weapons from their Grendel oppressors. The gladiators from the arena itself are a very different matter. Hundreds of trained fighters spill out of the pits beneath the coliseum and set about the spectators on the stands. Their weapons may be outlandish, and their armour designed as much as costume as protection, but their skills cannot be denied.
+
+There are many wild beasts in cages beneath the coliseum as well - and someone releases them all. Cunning contraptions allow them to be raised to the arena floor, and several dozen wild cats, wolves, drakes and even a few [mandowla](../world/Legendary_beasts.md#mandowla) are suddenly unleashed to add to the chaos. Their attacks are indiscriminate - they are as likely to attack slaves and Imperial soldiers as Broken Shore orcs - but for the most part they seem more interested in chasing down fleeing Grendel than engaging with armed warriors.
+
+As the day draws on, it is clear that the victory lies with the Empire and their sudden allies. At around the same time that the skeletal fortification above the town begins to burn, the grand coliseum likewise is set aflame. The weirwood burns quickly, but even more effective are the fires set in the chambers beneath the structure which quickly spread and begin to collapse large parts of the arena. The fire swiftly expands, burning the camps that ring the coliseum as the Empire and their new allies retreat back toward Beoraidh itself.
+
+### The Escape
+
+The defenders of Beoraidh continue to harry Imperial soldiers as they make for the docks. The two halves of the assault force come together on the waterfront, catching the Broken Shore orcs between themselves and the mariners occupying the quayside. They force their way through, and begin the chaotic loading of orc slaves onto ships. Some do not want to come - inspired by the soldiers of the Winter Sun they want to stay in Beoraidh and continue to fight - but some two and a half thousand orcs scramble aboard the Imperial ships.
+
+As each hold fills, that ship pushes west into open water to make way for another vessel. As quick moving Navarr skirmishers move back and forth between the quayside and the town, striking at the Broken Shore orcs and then retreating to safety, bands of brutal Varushkan warriors stand guard over League saboteurs who set a number of fires in the garrison towers. Expertly laid, a wall of flame soon begins to spread forcing the Grendel warriors to break off from their attack on the quayside or risk seeing their entire town consumed in a conflagration.
+
+The last ships out are Imperial Orc vessels, wallowing heavy in the water with their holds groaning with slaves and soldiers alike, ready for the long journey back to Necropolis. As they sail north, two great columns of black smoke rise into the star-studded skies, marking the destruction of the Grendels' new fortification and their grand coliseum - and perhaps their immediate plans to invade the Empire.
+
+Perhaps.
+
+### The Aftermath
+
+The Imperial armada makes [Redoubt](../nations/urizen/Redoubt.md) without encountering any further Grendel. Indeed, they enjoy excellent sailing winds - the best possible weather in fact - for their swift retreat back to Imperial waters. Even the malign presence of the Black Plateau is not sufficient to dampen the high spirits of the victorious humans and orcs.
+
+A small handful of ships, their crews, and their cargoes are unaccounted for - the heralds of Rhianos aboard several ships are a little cagey and will only say that adventures can sometimes take an unexpected turn. They quickly change the subject, preferring to dwell on the great adventure they and their Imperial friends have just enjoyed, eager to gather stories of risk and reward from as many of the ships as they can.
+
+There are plenty of such stories - but some with a more mysterious timbre. For example, the slave-workers at the castle cannot give a clear explanation for how they knew the Empire was coming, nor who first suggested that this was their chance to fight free. Nobody from the coliseum can guess who freed the animals from their cages, nor set the mechanisms going that raised so many of the beasts to the floor of the arena. Some of the wilder coincidences can be laid perhaps at the door of Rhianos but most seem too subtle to be the work of the Regent of the Eternal Sea.
+
+In addition there are a handful of stories of orcs nobody knew urging their compatriots to take up makeshift weapons - and that those weapons seemed almost preternaturally effective at breaking chains and slaying slave overseers. A few of these items - mostly clubs - bear odd lingering traces of Spring magic enchantment when examined by magicians.
+
+A few soldiers and sailors talk of a more spiritual experience. Of being seized with the absolute certainty that tearing down the slave-masters, and freeing their slaves, was unquestionably the right thing to do. Their eyes burn with passion when they speak of it - of how they had never really understood the true evil of slavery before but now they had seen it with their own eyes they would do anything to end its grip on the world forever. A few who experience these bursts of insight quit their commissions, or their crews, with half-formed plans of finding some cause to give their support to.
+
+Regardless of strange experiences during the raid, the Empire has achieved its objectives and more. The castle is in ruins, the Grendel training grounds scorched to the ground, and thousands of orcs freed from bondage.
+
+Unlike the slaves freed from Dubhtraig, there is no question where these gladiators and slave-warriors are going. Apart from a bare handful, these twenty-five-hundred orcs (and most of the human slaves for that matter) accompany the Winter Sun reavers north to Skarsind. They are enthusiastic about their new homes, and about the chance to serve alongside their liberators. It may take time, but once the Imperial Orcs have gained more territory, they will be able to field a third army whose hard core will be former slaves who know what it means to fight for their freedom - and who owe a debt of gratitude to the Empire for bringing them their liberty.
+
+| Citizen | Nation |
+| --- | --- |
+| Archavion Wolfborne | Dawn |
+| Arianna | Dawn |
+| Aurum Argentum | Dawn |
+| Beocca | Dawn |
+| Cortez Dubroc Rous Lamond | Dawn |
+| Destan | Dawn |
+| Elaine Bard | Dawn |
+| Elayne Brightsmith | Dawn |
+| Esme Sailmaker | Dawn |
+| Gerald Thorne | Dawn |
+| Giritane of Walter's Fallow | Dawn |
+| Lord Severin De Rondell | Dawn |
+| Meltar | Dawn |
+| Mordred Smith | Dawn |
+| Rheged Rakshasa | Dawn |
+| Rhiannon Langley | Dawn |
+| Richard Phelon | Dawn |
+| Ser Galahad | Dawn |
+| Tyr Cain | Dawn |
+| Baal | Highguard |
+| Creed | Highguard |
+| Gideon | Highguard |
+| Iscah Knilus | Highguard |
+| Ivanbrok | Highguard |
+| Lucan | Highguard |
+| Malchus | Highguard |
+| Rinnah | Highguard |
+| Roman | Highguard |
+| Valoric Lightgrip | Highguard |
+| Varro Aeleris | Highguard |
+| Yorden | Highguard |
+| Zaccai | Highguard |
+| Urq | Imperial Orcs |
+| Arora | Imperial Orcs |
+| Ashborn Rauur | Imperial Orcs |
+| Aukka | Imperial Orcs |
+| Bestia | Imperial Orcs |
+| Bloodcrow Drost | Imperial Orcs |
+| Bloodcrow Na'grul | Imperial Orcs |
+| Bloodcrow T'Kor | Imperial Orcs |
+| Bloodcrow Yargol | Imperial Orcs |
+| Bull | Imperial Orcs |
+| Dredge | Imperial Orcs |
+| Drok | Imperial Orcs |
+| Dura | Imperial Orcs |
+| Ergot | Imperial Orcs |
+| Flik | Imperial Orcs |
+| Gol | Imperial Orcs |
+| Hajjah | Imperial Orcs |
+| Irontide Brakken | Imperial Orcs |
+| Irontide Jarn | Imperial Orcs |
+| Irontide Nix | Imperial Orcs |
+| Irontide Rozh | Imperial Orcs |
+| Irontide Rus | Imperial Orcs |
+| Irontide Vio | Imperial Orcs |
+| Ket | Imperial Orcs |
+| Krunk | Imperial Orcs |
+| Lok | Imperial Orcs |
+| Luga | Imperial Orcs |
+| Morgor | Imperial Orcs |
+| Oak | Imperial Orcs |
+| Payt | Imperial Orcs |
+| Rasp | Imperial Orcs |
+| Redhand Gezzar | Imperial Orcs |
+| Rek | Imperial Orcs |
+| Ringforge Kerath | Imperial Orcs |
+| Ringforge Merdev | Imperial Orcs |
+| Rurik | Imperial Orcs |
+| Skywise Karrak | Imperial Orcs |
+| Stormcrow Dren | Imperial Orcs |
+| Stormcrow Rork | Imperial Orcs |
+| T'onk | Imperial Orcs |
+| Taal | Imperial Orcs |
+| Teach | Imperial Orcs |
+| Tog | Imperial Orcs |
+| Vana | Imperial Orcs |
+| Zerk | Imperial Orcs |
+| Gertreg | Imperial Orcs |
+| Rag | Imperial Orcs |
+| Aisling Feather | Navarr |
+| Arkann Shatterhorn | Navarr |
+| Arron | Navarr |
+| Badh Farstrike Foxden Edgestalker | Navarr |
+| Beinon | Navarr |
+| Bleddyn Eternal | Navarr |
+| Cedric Gallows | Navarr |
+| Cormac | Navarr |
+| Daine | Navarr |
+| Darius Tanglehorn | Navarr |
+| Dash | Navarr |
+| Elidyr Embercast | Navarr |
+| Elyan | Navarr |
+| Falsyth | Navarr |
+| Garr | Navarr |
+| George | Navarr |
+| Ioan Eternal | Navarr |
+| Isa Shatterhorn | Navarr |
+| Kaan Shatterhorn | Navarr |
+| Kain | Navarr |
+| Kylar | Navarr |
+| Lith | Navarr |
+| Llewelyn Y Caim | Navarr |
+| Maldwyn mad-brewer | Navarr |
+| Meilyr | Navarr |
+| Nikolai dravi | Navarr |
+| Oda Farkas | Navarr |
+| Rhys Nighthaven | Navarr |
+| Seoras Haen | Navarr |
+| Vaan | Navarr |
+| Wesley “Talon” Fingal | Navarr |
+| Face | Navarr |
+| Merlin Feyerd | Navarr |
+| Adan i DelToro i Riqueza | The Brass Coast |
+| Adoria | The Brass Coast |
+| Ahraz i Guerra | The Brass Coast |
+| Ana i Taziel i Riqueza | The Brass Coast |
+| Azzam i Zaydan i Riqueza | The Brass Coast |
+| Basir-Tazial | The Brass Coast |
+| Bayan Zayden Riqueza | The Brass Coast |
+| Beatriz i Santoro i Guerra | The Brass Coast |
+| Carlos i Del'Toro i Riqueza | The Brass Coast |
+| Carlos i Erigo | The Brass Coast |
+| Chiara Zayden Riqueza | The Brass Coast |
+| Datlan | The Brass Coast |
+| David, Jademist, Guerra | The Brass Coast |
+| Delmara i Ruiloba i Guerra | The Brass Coast |
+| Destello i Corazón i Guerra | The Brass Coast |
+| Edgardo i Ruiloba i Guerra | The Brass Coast |
+| Elena i Zabala i Erigo | The Brass Coast |
+| Elon i Kalamar i Guerra | The Brass Coast |
+| Esteban I Del Rio Blanco I Guerra | The Brass Coast |
+| Esteban i Ezmara i Erigo | The Brass Coast |
+| Ezro i Alvera i Erigo | The Brass Coast |
+| Fatima | The Brass Coast |
+| Florina i Sol-Devorador i Erigo | The Brass Coast |
+| Ibbie Zayden Riqueza | The Brass Coast |
+| Ieri i Kalamar i Guerra | The Brass Coast |
+| Inigo i Zabala i Erigo | The Brass Coast |
+| Iñez i Azul-Mar i Guerra | The Brass Coast |
+| Jo | The Brass Coast |
+| Joaquin i Shartha i Riqueza | The Brass Coast |
+| Karlos Shartha Riqueza | The Brass Coast |
+| Leto I Erigo | The Brass Coast |
+| Lilith | The Brass Coast |
+| Limpiar I kemen I Guerra I Zemress | The Brass Coast |
+| Madia i Mestiere i Guerra | The Brass Coast |
+| Mae | The Brass Coast |
+| Maritza y Ruiloba y Guerra | The Brass Coast |
+| Martinez i Rek i Riqueza | The Brass Coast |
+| Miel I Gurrea | The Brass Coast |
+| Miguel i Angel i Riqueza | The Brass Coast |
+| Miguel i Valiente i Erigo | The Brass Coast |
+| Mont i Sawa i Erigo | The Brass Coast |
+| Naia | The Brass Coast |
+| Oria i Shartha i Riqueza | The Brass Coast |
+| Qayid Daker | The Brass Coast |
+| Rafael i Paloma i Guerra | The Brass Coast |
+| Rafaela i Simar i Riqueza | The Brass Coast |
+| Raza I Azul-Mar I Guerra | The Brass Coast |
+| Rodrigo i Ruiloba i Guerra | The Brass Coast |
+| Sadiq Isa | The Brass Coast |
+| Sagremar i Zayden | The Brass Coast |
+| Samu i Zemress | The Brass Coast |
+| Shakahn | The Brass Coast |
+| Sibylla | The Brass Coast |
+| Squid i Bard i Guerra | The Brass Coast |
+| Tehos i Ghurayb i Erigo | The Brass Coast |
+| Teodoro i Suero | The Brass Coast |
+| Vidal i Paloma i Guerra | The Brass Coast |
+| Vito Guerra | The Brass Coast |
+| Vrael i Sol-Devorador i Erigo | The Brass Coast |
+| Xalvadora i Riqueza | The Brass Coast |
+| Yasmeen i Zabala i Erigo | The Brass Coast |
+| Yentaro i Zabala i Erigo | The Brass Coast |
+| Zorion i Guerra | The Brass Coast |
+| I i Guerra | The Brass Coast |
+| Arrabella Di Sarvos | The League |
+| Artemisia de Caravaggio von Temeschwar | The League |
+| Barbarosa Sartosa | The League |
+| Brewer van temeschwar | The League |
+| Caracalla Tarraco di Sarvos | The League |
+| Concordio Barcaiolo di sarvos | The League |
+| Cristofano Bellini di Sarvos | The League |
+| Gancio | The League |
+| Ilya Ilyitch Arkady von Holberg | The League |
+| Issebel Vittoria Barossa di Tassato Regario | The League |
+| Jacob Fernando von Holberg | The League |
+| Lucius VanAuldressanth di Sarvos | The League |
+| Marsilio Cellini Crivelli di Sarvos | The League |
+| Melchor A' Dubhtraig | The League |
+| Mercutio Scoleri | The League |
+| Nathrach McNeb | The League |
+| Nico von Temeschwar | The League |
+| Otto Freidrich Von Holsberg | The League |
+| Otto Van Holberg | The League |
+| Randolf Wolski | The League |
+| Reinhardt Schwarzmane | The League |
+| Richardo Glostari di Sarvos | The League |
+| Salvatore Velierosso di Sarvos | The League |
+| Serafina | The League |
+| Serena Flavia Beatriz di Foracci della Sarvos | The League |
+| Sergio Salvatore | The League |
+| Sireno di Sarvos | The League |
+| Teodor Notturno Di Savos | The League |
+| Ventura Notturno Di Sarvos | The League |
+| 'Green' Jack Woodruff | The Marches |
+| Aelfric Woodson | The Marches |
+| Arthur Cullingham | The Marches |
+| Barton | The Marches |
+| Bastard Tom | The Marches |
+| Bernard Dugdale | The Marches |
+| Billy Drayton | The Marches |
+| Ciaphas "Black Jack" Dekar | The Marches |
+| Ebenezer | The Marches |
+| Edd | The Marches |
+| Edwin de Warrenne | The Marches |
+| Hebrun Weaver | The Marches |
+| John a Woode | The Marches |
+| Lawrence Talbot | The Marches |
+| Lily Guildenstern | The Marches |
+| Misha Kemi | The Marches |
+| Morris | The Marches |
+| Quay Stone | The Marches |
+| Ripple | The Marches |
+| Sam Morrow | The Marches |
+| Sammy Squirel | The Marches |
+| Thoros Dondarion | The Marches |
+| Willam | The Marches |
+| William Morgan | The Marches |
+| William Talbot | The Marches |
+| Nate Drayton | The Marches |
+| Constantina | Urizen |
+| Ioseph | Urizen |
+| Natalus | Urizen |
+| Octavious | Urizen |
+| Thalia | Urizen |
+| Branislav Vuk Strascovich | Varushka |
+| Davinov Egorushkin | Varushka |
+| Jagdwig Palovich Brezsky | Varushka |
+| Jaromir Ostrovyn Kostka | Varushka |
+| Nikolai Yaropolk Borislav | Varushka |
+| Pavel Novak | Varushka |
+| Pavuk Vid Strascovich | Varushka |
+| Provuk Lechin Branovich | Varushka |
+| Saovna Vavilov | Varushka |
+| Sketchemi Justicast Mentyevik | Varushka |
+| Stanislaus Rorik Strascovich | Varushka |
+| Tomislav Straskovic | Varushka |
+| Triska | Varushka |
+| Vasiliy Krenyenkov Valeskai Strascovich | Varushka |
+| Vraalbuka Strascovich | Varushka |
+| Yarlori “Yolo” Andrei Strascosavich | Varushka |
+| Yulia Kasimirova Voronov | Varushka |
+| Abrar Greenstone | Wintermark |
+| Baulder Wolfsbane | Wintermark |
+| Björn ironside | Wintermark |
+| Bron Mordssen | Wintermark |
+| Bronn | Wintermark |
+| Cadoc Artair Skölsson | Wintermark |
+| Cerun Arteus | Wintermark |
+| Dagan | Wintermark |
+| Endre Dunnwolf | Wintermark |
+| Fennir of Brackenbeak Hall | Wintermark |
+| Flok Odda | Wintermark |
+| Gis Tahvosson | Wintermark |
+| Gunnar Olafson | Wintermark |
+| Harren | Wintermark |
+| Harrold "Stitch" Murdo | Wintermark |
+| Inar Dunning the Blacksmith | Wintermark |
+| James River | Wintermark |
+| Kettu Sigynsdottier | Wintermark |
+| Kindra Edasdottir | Wintermark |
+| Little Offa | Wintermark |
+| Magni | Wintermark |
+| Max Ashman | Wintermark |
+| Mertag dunwolf | Wintermark |
+| Mordin Ironthorn | Wintermark |
+| Olle Markusson | Wintermark |
+| Orca | Wintermark |
+| Reinhold | Wintermark |
+| Rin Geirskogul | Wintermark |
+| Sigvald | Wintermark |
+| Taric Bowlington | Wintermark |
+| Ulf DunWolf | Wintermark |
+| Vengle Steinson | Wintermark |
+| Volfe Stormchaser | Wintermark |
+| Winro Aare | Wintermark |
+| Wynflaed 'Wolf'sbane' Wulfricsdottir | Wintermark |
+| Hrungnir Wulfricsson | Wintermark |
+
+### Game Information : Beoraidh
+
+The raid on Beoraidh has been a complete success. The Grendel fortification there has been destroyed and must begin again, and the Broken Shore orcs will not be able to raise an army in Mareave for the next year.
+
+The Imperial Orcs numbers have been swelled by two-and-a-half thousand warriors, and several hundred more orcs who are not fighters but who are keen to embrace their way of life. Escorted by the Winter Sun orcs from Necropolis north along the Blood Red Roads, they are ready to begin new lives in Skarsind.
+
+Everyone who took part in the raid has received shares of the Imperial Guerdon, but no other rewards beyond the knowledge that they have struck a serious blow against the Grendel and freed thousands of slaves from bondage.
+
+### Participation : Beoraidh
+
+Any human character whose military unit or fleet supported the raid is free to roleplay that they had a profound spiritual epiphany during the raid. In game terms, they were enveloped by a spontaneous aura that gave them a profound sense that they were doing something righteous, heroic, or courageous in fighting to free the slaves of the Broken Shore. While that aura lingers for a time, it will have faded completely by the beginning of the Spring Equinox event. You are free to define your experience up to a point - it should be in line with the kind of thing mentioned - a profound epiphany appropriate to your character that pushes you to take action during the raid on the port.
+
+Imperial orc players will *not* have experienced this peculiar epiphany. Instead they are encouraged to create stories of hearing the voices of their ancestors during the raid urging them to fight to free the orc slaves. Any such orc may continue to hear such an ancestor clearly from that point on - representing a connection to one of those slave voices that are more often impossible to distinguish from the storm of angry slaves. Such an ancestor is unlikely to like humans very much, but that hatred is likely to be secondary to strongly encouraging their descendant to free orcs from slavery.
+
+In addition to these immediate effects, some more durable auras have been observed on weapons used to fight the Grendel. Anyone whose military unit or fleet supported the Raid of Beoraidh action can e-mail *plot@profounddecisions.co.uk* and request one of these ribbons which will be available in their pack at the event. The deadline for these requests is midnight on Monday 10th. This opportunity is available only to people who took the appropriate downtime action; please do not e-mail in to request one of you did not take this action.
+
+## The Pass
+
+### Morrow
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Sentinels! We march. The heroes of the Empire support you. They won a victory against the Druj to bring you the supplies we need to all stay, to all fight. Dawn supports you. They have cast knights of glory so our numbers will swell. The League and Varushka support you. With Winter's Mantle, they will pay the price, to take us forward, to make us ready to bring to bear the magic of the Empire against the hated Druj. Forward, steadily forward. March with our allies and retake our home.
+> >
+> > Nicassia Avicia of Phoenix Reach, General of the Citadel Guard
+
+In the lead up to the Winter Solstice, the Druj advance into Morrow was stalled, and turned back by the combined forces of Urizen, the League, Varushka, and supernatural allies from the realms of Day and Winter. The Mallum orcs had their precarious finger hold in Operus denied them, and were then hard pressed to retain control of Caeli. While victory was sweet, it was also bitter, however. Wherever the Druj had touched Morrow, they had scarred it with their malice - perhaps indelibly.
+
+During the Winter Solstice, the heroes of the Empire struck behind Druj lines at a force camped near the terraces and farms of Arbiter's Green. The site of the now-ruined Gardens of Morrow saw a vicious battle against the orcs of the Mallum resulting in a significant number of supplies being captured and delivered to the Citadel Guard - offering them much-needed support for the coming season. Indeed, thanks to this brave action the Urizen army was not only able to sustain itself in the following months but potentially begin to recover from its dire situation. Providing no more of the nation is lost, the Citadel Guard will be able to support itself without external assistance.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > This might not be a surprise but we're fighting the Druj again. The Despicable Druj scum still threaten the Empire and we shall work on destroying them one barbarian at a time. Guard your comrades, fight together in a steady advance to drive them away from the Empire.
+> >
+> > Natalia 'The Falcon' Barossa, General of the Towerjacks
+
+It is perhaps unsurprising that in the wake of such a success, the mood among the armies camped in south-eastern Morrow is increasingly positive. Now, all that remains to be done is to capitalise on the successes of the previous months and finally break the Druj, driving them back out of Morrow and reclaiming Peregro and Caeli.
+
+The Citadel Guard leads the attack, first south to build on gains made in Caeli and then north into Peregro. The Urizen soldiers march with the protection of [Winter's Mantle](../nations/urizen/Cyclic_magic.md#technique-of-the-bond-of-tears) - the power of [cyclic magic](../nations/urizen/Cyclic_magic.md) allowing them to turn aside mortal injuries... as long as some of their allies bear those injuries for them. At their sides, three thousand [Knights of Glory](../../mixed/magic/rituals/Knights_of_Glory.md) called from the Summer realm in the name of [Eleonaris](../eternals/Eleonaris.md); tall red-haired warriors in fine mithril plate wielding deadly long spears and vicious single-bladed swords. They hunt with the aid of great golden hawks whose talons are encased in mithril razors the better to pluck out the eyes of Druj scouts.
+
+Summer knights also march with the Varushkan armies - accompanying the Northern Eagle are a host of heavily-armoured schlacta wrapped in gold and crimson cloaks with spreading antlers and deadly axes. They, too, help to hunt the Druj with whip-thin hounds of ghostly mien whose barking fills the hearts of cowards with overwhelming fear. Along with the Iron Helms, they press into Peregro, seeking to harry the flanks of the Druj.
+
+The Wolves of War, along with well-paid Varushkan wagon raiders, Imperial Orc reavers, and daring Freeborn adventurers, strike at Druj camps and fallen spires, denying the orcs the treasures they stole from Urizen as well as claiming a bounty of herbs from the Druj defenders.
+
+The Towerjacks coordinate the campaign, using runners and scattered heliopticon towers to send messages swiftly to the other armies. Their forces too are enchanted - with [supernatural insight](../../mixed/magic/rituals/Clarity_of_the_Master_Strategist.md) that puts them in the ideal position to guide the Imperial strategy. They also hang back because they are protecting the workers responsible for erecting new heliopticon towers, including a replacement for the central tower that once stood in Caeli.
+
+Further magic rests over Morrow; every drop of water is [rich with healing power](../../mixed/magic/rituals/Rivers_of_Life.md). No injury save the most grievous proves fatal. Anything short of execution heals quickly, leaving no scars. While the crystalline fortress that had encased Canterspire has faded away, many of the heralds of Phaleron have remained behind, doing their best to offer succour and support to the people of Urizen. At the same time, the [eerie giant hounds](../winds-of-fortune/The_mystic-_the_willful.md#winter-hounds) summoned into the hills of [Altis](../nations/urizen/Morrow.md#altis) range forth across the whole territory. Sometimes they fight alongside the Imperial armies, sometimes they busy themselves in lone hunts against the Druj.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We know the Danger that flows in Winter. Varushkans know sacrifice, and we will pay the price. The Iron Helms make a Steady Advance in Morrow
+> >
+> > Magnus Anatolyvich Prochnost, General of the Iron Helms
+
+Hunting the Druj... and they must be hunted. The eastern orcs do not engage Imperial forces. There are no true battles this season in Morrow. The twisted banners of the Druj armies are not seen; only the assassins, saboteurs, and ambushers they are wont to leave behind remain in the hills and woodlands. They must still be rooted out lest they present an enduring threat but the actual armies seem to have vanished.
+
+It does not do to become overconfident when fighting the Druj however - they are more than capable of lulling their enemies into a false sense of security so that they overextend themselves and walk into a prepared trap. The Empire's armies must still tread with care, but their advance is largely uncontested. The spires of first Caeli and then Peregro are liberated and the story of the Druj retreat pieced together from the scattered survivors.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Wolves, you have pushed the enemy back already, but now you will throw them from Morrow and send them home without even the shirts on their backs. We shall hire the hungriest bravos of Temeshcwar and Mestra to raid their baggage trains, taking from them everything they need to wage war. From their pikes to their favourite boots, make them incapable of coming back to trouble us.
+> >
+> > Gabriel Barossa, General of the Wolves of War
+
+Almost as soon as the Winter Solstice was ended, the armies of the Druj fled Morrow. They did not even pause to take slaves with them, or to slaughter the captured Urizen as is so often their wont. Instead, they bundled up their ill-gotten gains and withdrew the way they came - along the [trods](../nations/navarr/Trod.md) south into [Proceris](../nations/urizen/Zenith.md#proceris), back into [Zenith](../nations/urizen/Zenith.md).
+
+There are still soldiers to kill, but they are scattered, going to ground. The aid of supernatural allies - hawks and hounds, and wolves, and keen-eyed librarians - give the Empire the advantage. There is a lot of ground to cover, but many of these left-behind warbands are rooted out and slain before they can find suitable places to hide.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Purge the Druj from Urizen
+> >
+> > Akstis Eigulys, General of the Northern Eagle
+
+The Empire has won in Morrow - an uncontested victory. There are still tragedies - such as the Spire of the Red Sun in Peregro where the Druj took the time to kill as many of their captured Urizen as they could find . More common is to find a spire where the people had already made the same choice as those at the *Arbiter's Seat*, accepting the [gift of Kaela](../winds-of-fortune/The_mystic-_the_willful.md#the-gift-of-kaela), embracing painless death and the hope of reincarnation rather than continue to remain in the hands of the Druj. In several of these spires there are tearful stories of the Druj telling their prisoners that the Empire was in retreat; that Morrow would soon be dominated entirely by the orcs just as Zenith was; that the other nations had abandoned Urizen. Those who believed these lies are mourned by those who denied them. Several spires now stand as empty monuments to the invasion and the terrible malice of the Druj.
+
+*[Image: All of us get lost in the darkness](https://www.profounddecisions.co.uk/empire-wiki/File:The_Pass.png)*
+
+### Zenith
+
+When the Highborn armies made their slow fighting retreat west out of Zenith, they laid down their lives to buy as much time as possible for the people to flee to Morrow. Many escaped - but many more were left behind and are now enslaved by the Druj. A very few have trusted to magic to shroud their spires, but for many the protection of the [Vale of Shadows](../../mixed/magic/rituals/Vale_of_Shadows.md) was beyond their capabilities. They now languish under the cruel whip of the orcs of the Mallum. With an [aura of despair](../barbarians/Druj_miasma.md) settling over the [territory](../../out-of-character/rules/Territory.md), it seems that hope of a speedy resolution has been extinguished.
+
+Shortly before the Winter Solstice, however, bands of [sentinels](../nations/urizen/Sentinel.md) from the spires of eastern Morrow and northern [Spiral](../nations/the-league/Spiral.md), and from the groups who were lucky enough to escape Zenith before it fell, hatched a plan to make a surprise strike into Zenith to rescue as many of the people left behind as they could. They received additional support from [Highborn](../nations/highguard/Highguard.md) soldiers, some hoping against hope to recover lost comrades taken by the orcs. The plan also gains the approval of those heralds of [Phaleron](../eternals/Phaleron.md) who had been actively helping citizens of Morrow reach safety over the last season.
+
+In the weeks after the Winter Solstice, then, while the Imperial armies move into Caeli and Peregro, bands of Imperial heroes move over the mountains east and south from Morrow, and north from Redoubt, into Zenith. For the most part they use the high passes - many of which are known only to the sentinels of Urizen - and with as much stealth as they can muster they begin to pick their way across Zenith.
+
+They find a territory much transformed. The air is thick with that horrible, cloying dread that seems to pool in any land the Druj control for long enough. It exacerbates the very real fear of being spotted, of being captured, of becoming subject to the cruel torments of the Druj. It also plays on more subtle fears - fears that it is already too late for the people of Zenith. Fear that the entire enterprise is a mistake. For those looking to find specific loved ones, it is even worse. It takes great [spiritual strength](../../out-of-character/rules/Roleplaying_effects.md#overcoming-roleplaying-effects) to endure the touch of this oppressive atmosphere, even though it is so comparatively new.
+
+The purpose of the raid is to rescue people, not to strike directly at the Druj, but it proves difficult to avoid altercations. Most of the left-behind spires are still occupied, but wherever there are humans there are also orcs. Sometimes it is possible to evacuate some or all of the people by stealth, but more often a diversion is required. There is rarely an opportunity for full-on assault, and some of the major spires are simply too well defended to do more than scout them.
+
+That said... there seem to be fewer actual Druj warriors in Zenith than might have been expected. There is at least one army here, perhaps more - the raid is focused on getting people to safety not on scouting enemy emplacements - but it certainly does not seem that all the armies that retreated from Morrow straight after the Winter Solstice are camped here in Zenith. Rescued prisoners lack any real understanding of Druj movements, but they agree that a large number of orcs came down from the north shortly after the Winter Solstice but they did not stay. Where they went however none can say.
+
+There is no doubt that the Druj control the entire territory. From Iteri in the west to Lustri and Occursion in the east there are orcs everywhere and their touch is on everything. They have raised potent [Spring magic](../../out-of-character/rules/Spring_magic.md) to infuse the waters of Zenith with [healing magic](../../mixed/magic/rituals/Rivers_of_Life.md) - a cruel touch that allows them to torment their slaves as they wish in the knowledge that anything short of death will be healed the next morning. They have also raised magical protections in Proceris and Lustri - the marshes and forests themselves seem to favour the Druj and hinder the Imperial heroes. Animals attack without warning, and it is all too easy to become lost and stranded by eerie mists and deceptive lights that drift among them.
+
+On a more mundane level, they have taken control of several spires and raised makeshift fortifications around them. For example Spire Calator in Iteri - the spire that once led Urizen in the creation of *ushabti* - is now a prison for artisans and crafters forced to toil making magical weapons for the Druj. Beneath the towers, ringed now with spike-covered walls reminiscent of the old [Spires of the Dusk](../nations/dawn/The_Barrens.md#spires-of-dusk-28ruined29) in [the Barrens](../nations/dawn/The_Barrens.md), a great work-camp has been set up. Here, Urizen slaves are forced to work the rich [dragonbone](../../out-of-character/rules/Materials.md#dragonbone) deposits of Iteri, beaten mercilessly if they fail to fulfil punishing quotas each day. A concerted attack early in the campaign frees a number of these slaves, quickly led back up the river into Morrow with the aid of Phaleron's guides. There is no real opportunity to attack Spire Calator however - there are simply too many Druj garrisoning the place.
+
+The broken ruins of the [Arch of the Sky](../nations/urizen/Zenith.md#arch-of-the-sky) provide a temporary base of operations for some of the raiders, allowing them to launch a series of daring strikes and evacuate as many people as they could to meet up with Imperial troops engaged in the liberation of Caeli and Peregro. In particular, a joint attack by Highborn and Dawnish warbands supported by Urizen sentinels manages to liberate an entire camp of miserable soldiers - captured from the Highborn armies and put to work tilling the marshy farms of Proceris. Tired, tormented, subject to regular bouts of starvation, they refused to surrender to despair - and their courage served to keep many of the others interned with them from breaking under the dual pressure of miasma and orc spite.
+
+Not everyone is as lucky. Even more so than in Morrow, it is too easy to give in to despair and seek escape from life as a captive of the Druj. There are stories of whole spires - including at least one shrouded beneath a veil of Night magic - where surcease of sorrow and a chance to seek reincarnation through the Labyrinth seem like the only option. The Druj, it is said, hate and fear this gift of Kaela. It robs them of their slaves - worse it robs them of the chance to torment them. Once it is clear death is certain, not only can their victims deny them the pleasure of torture but they leave no bodies behind to display to spread fear among their remaining prisoners.
+
+Only the bravest warbands risk infiltrating [Occursion](../nations/urizen/Zenith.md#occursion) and [Lustri](../nations/urizen/Zenith.md#lustri) - it would be all too easy to get cut off, trapped deep in enemy territory with nowhere to flee to save the Mallum or Spiral. There seem, paradoxically, to be fewer Druj here and thus fewer prisoners. There are exceptions - but here the problem is that once a group of Urizen is liberated, they must still be escorted long distances to get them to safety.
+
+As the season goes on, it becomes harder and harder to take the Druj unawares - there are more patrols, and the preparedness of orc garrisons increases. But even so, the Druj cannot be everywhere at once. Zenith is a wild country - and for once the wilderness between the spires plays into the hands of the Urizen rather than the invaders. There are stories of desperate flight; of hiding silently beneath bridges while Druj patrols pass overhead; of rocks sent tumbling down to seal narrow passes; of a whole spires worth of adults and children floating down the river on makeshift floats under the very noses of orc garrisons.
+
+Some warbands report unlooked for allies in the raid into Zenith. A handful of the baleful hounds summoned to help protect Morrow appear to have taken it upon themselves to accompany a few of the groups risking all to liberate the people of Zenith. They are particularly drawn to champions with [draughir](../../mixed/magic/lore/Draughir.md) blood, and fight savagely alongside them when they engage Druj. Their influence is not entirely benign, however. Those draughir who accept their aid quickly begin to turn savage, like black mirrors held up to the Druj they oppose.
+
+In other parts of the territory, especially in Proceris and Lustri, there are reports of heralds of both Spring and Night realms emerging from the marshes and the woods to offer aid to groups of freed slaves, helping them get to safety. They will not fight the Druj directly, for the most part, but there are stories of sudden mists that rise from the woods to confuse pursuit, or twists in the weather that send torrential rain to cover trails, and even one incident of a great trees rousing itself briefly to life to smash the life from a Druj sentry before freezing back into immobility once more.
+
+It takes the better part of three months, but as the last heroes stumble back into Redoubt and Morrow from Zenith, it becomes possible to appreciate the true scale of what has been achieved. Thousands of people, thousands of magicians, farmers, sentinels, priests, children, artisans, soldiers... thousands rescued from under the very noses of the Druj. Among those thousands, more than seven hundred soldiers from the Granite Pillar, the Valiant Pegasus, and the Seventh Wave and over two hundred sentinels eager to join with the Citadel Guard and strike a blow of their own against the enemies of Urizen. These people have kept themselves alive in the certain knowledge that the Empire has not forgotten them, and now that trust has been repaid.
+
+### Game Information: Morrow
+
+The Empire has recaptured both Caeli and Peregro, and suffered no casualties in the process. This success means that the Citadel Guard is no longer in decline - it will not require any additional support from the Imperial breadbasket unless Urizen loses more valuable or fertile [regions](../../out-of-character/rules/Territory.md#regions) in the future.
+
+While the Druj left behind several warbands, it is the opinion of the commanders of the Towerjacks that the majority of them have been rooted out and destroyed before they could find appropriate havens. It is unlikely that any significant force has evaded the attention of the Imperial armies - even in a territory as wild as Urizen.
+
+| Citizen | Nation |
+| --- | --- |
+| D'Eon | Dawn |
+| Danica Mala Severyan | Dawn |
+| Ilya Damirovich Severyan | Dawn |
+| Katrina Gardner | Dawn |
+| Lucien d'Alba | Dawn |
+| Olivia Sepulchre | Dawn |
+| Panthos Du Froste | Dawn |
+| Sagramore | Dawn |
+| Sidlore Bonpre | Dawn |
+| Solene d'Alba | Dawn |
+| Vasily ubiytsa chudovishch Orzel | Dawn |
+| Aaron Storm | Highguard |
+| Abathar | Highguard |
+| Barachel of Adina's Charge | Highguard |
+| Cuth | Highguard |
+| Ephrael | Highguard |
+| Ephraim | Highguard |
+| Ezekial | Highguard |
+| Gregoire De Gauvain | Highguard |
+| Jada | Highguard |
+| Jirus | Highguard |
+| Leah | Highguard |
+| Lucifer | Highguard |
+| Miriam Magdalene of the Cenotaph | Highguard |
+| Mordacei | Highguard |
+| Moses | Highguard |
+| Nathaniel | Highguard |
+| Ophelius | Highguard |
+| Seraph | Highguard |
+| Terah | Highguard |
+| Thomir | Highguard |
+| Tiberius | Highguard |
+| Yezan of St. Payens | Highguard |
+| Mathayus | Highguard |
+| Gabriel Barossa | The League |
+| Hildegard van Holberg | The League |
+| Kaspar Yakovich von Holberg | The League |
+| Michelangelo Garcian de Sarvos | The League |
+| Natalia "The Falcon" Barossa | The League |
+| Calgacus Apulian | Urizen |
+| Cyrus | Urizen |
+| Descartese | Urizen |
+| Habalast | Urizen |
+| Lanius | Urizen |
+| Laurentius Julianus Netherwatch | Urizen |
+| Mercurio Ankarien | Urizen |
+| Phaedra Anakerien | Urizen |
+| Philostrate | Urizen |
+| Proximo | Urizen |
+| Sejanus | Urizen |
+| Telemachus | Urizen |
+| Varrock | Urizen |
+| Vladislav Radovanovna | Varushka |
+| Tristan Lothbrok | Wintermark |
+| Tylian | Wintermark |
+
+### Game Information : Zenith
+
+The raid into Zenith has been a total success. Two thirds of the people trapped under the domination of the Druj have been freed and returned to safety in Morrow and Redoubt. That includes 250 troops from each of the three Highborn armies who, despite the horrors they have endured, are resolute in their desire to rejoin the armies and fight the enemies of the Empire. A further 250 sentinels, likewise fired with the desire to fight, have joined the Citadel Guard, boosting their numbers.
+
+Additional information about the consequences of rescuing the Urizen from Zenith can be found [here](../winds-of-fortune/The_warmth_of_an_invisible_light.md).
+
+### Participation: Morrow and Zenith
+
+If you have the [draughir](../../mixed/magic/lore/Draughir.md) lineage and have spent the last season in Morrow you experience a powerful [roleplaying effect](../../out-of-character/rules/Roleplaying_effects.md): your innate pack mentality is greatly strengthened, making you extremely protective and jealously possessive to family and friends, but with a strong tendency to view strangers and acquaintances as immediate threats, rivals, and even enemies. You feel an urge to exert dominance over those you view as “owing fealty” to yourself, and you find it very easy to assume that those you protect will treat you with reverence.
+
+The roleplaying effect is even more pronounced after nightfall, especially if you can see the moon. The effect will fade slowly - the stronger your lineage the more it will linger and the very strongest lineage will find the roleplaying effect lingers at least until the end of the event.
+
+If you are a draughir who led their military unit into Zenith, you may choose to roleplay that one of those peculiar hounds accompanied your warband, and experience the roleplaying effect detailed here. Furthermore, if you are from Highguard or Urizen (only) and possess the [hero](../../out-of-character/rules/Heroic_skills.md#hero) skill, then for the duration of the Spring Equinox your maximum number of hero points is increased by one. This benefit *only* applies to Highborn or Urizen draughir who used their military unit to take the *Strike against Zenith* downtime action and *only* while you are experiencing the roleplaying effect mentioned above.
+
+*[Image: You can carry that weight with an iron will](https://www.profounddecisions.co.uk/empire-wiki/File:Carve_Away_the_Stone.jpg)*
+
+## Carve Away the Stone
+
+### Into Darkness
+
+It has been six months since that bright Summer morning when the four armies of Dawn [marched across the Golden Causeway](382YE_Autumn_Equinox_winds_of_war.md#in-the-end-28the-mallum29) and joined with the Golden Axe to conquer [Ossium](../nations/varushka/Ossium.md). Now the [territory](../../out-of-character/rules/Territory.md) no longer belong to the Druj; following the [fall of the Tower of the Scorpion](382YE_Winter_Solstice_winds_of_war.md#stirring-dull-roots-with-spring-rain), the [Senate](../../mixed/government/senate/Senate.md) has [declared](../senate-motions/Assignment_of_Ossium.md) it to be part of [Varushka](../nations/varushka/Varushka.md). Settlers and wagon raiders make the perilous journey east from [Karsk](../nations/varushka/Karsk.md) looking to found their fortunes in the new land. The Tower of the Scorpion now holds a garrison of *schlacta*; the civil service has set up offices in Lomaa. Slowly but surely, civilisation is coming to the newly conquered territory.
+
+But the Druj are not quite defeated. Parts of the territory remain in their hands as 383YE dawns. The armies of the Mallum have been hard pressed, pushed south into Nearweald and the marshy depths of the Drownbark Forest where scouts report they are preparing to make a stand against the Empire. Along the borders, the armies of Dawn and Varushka prepare for what many hope will be the final push that will surely see the entirety of Ossium in Imperial hands.
+
+The human armies are not alone, however. In the weeks immediately following the Winter Solstice five armies of Thule head south from their domain in the Bonewood to join the Imperial forces along the borders of Nearweald and the Drownbark Forest. They march ultimately under the command of Grand Warlock Fljajokull, who leads the Talons of the Wind. They proceed cautiously, vigilant against any threat of betrayal by the Empire. Nearly thirty thousand orcs, all told. The Chasm of Thunder. The strange and savage Dance of Binding. The powerful Banner of the Rime Hound, accompanied by all manner of strange beasts from the northern wastes. The Shard of Winter, their banners embroidered with the rune of Pallas and Tykonus in golden thread, who pick over the dead when they fall and pocket their treasures.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Glorious soldiers of the Eastern Sky. Ossium is now a part of our Empire! Now we clean the Druj filth from our lands. Standing alongside our Thule allies, we will be the implacable scythe that cuts down the weeds. Steady conquest of the rest of Ossium, our next chapter in the Destruction of the Druj! Great deeds are eternal.
+> >
+> > Vincent 'The Scorpion' Vexille, General of the Eastern Sky
+
+The commanders of each force liaise regularly with their Imperial counterparts. In such meetings Grand Warlock Fljajokull takes the lead, advised from time to time by a quiet female orc, her face hidden by a voluminous blue hood, to whom he listens intently. She is not one of the commanders of the army, and unlike the other warlock she is neither attired in mage armour nor equipped with rod or staff. Yet Fljajokull and the others show her great deference, and neither introduce her nor answer any questions about her presence.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We will stand ready. Axes Sharp, Teeth Bared for what will come
+> >
+> > Katia Strascovich, General of the Golden Axe
+
+### Spirits of Dark Water
+
+There is a great deal of magic in Ossium in the wake of the Winter Solstice, and very little of it is Imperial in nature. The armies of the Thule have their own enchantments, of course, but this season the Dawnish fight without the support of the [Fields of Glory](../../mixed/magic/rituals/Knights_of_Glory.md). In the absence of the wonderful elfin nights of [Eleonaris](../eternals/Eleonaris.md), the weight of the [atmosphere of dread](../barbarians/Druj_miasma.md) that blankets the Druj territory presses hard on many of the knights and yeofolk. They have always been aware of it, felt its spidery fingers at the back of their mind, but as the armies of Dawn ready to march south from Galath Fields and east from Bittershore, it seems more potent somehow.
+
+The weather does not help, either. After the Winter Solstice it improves somewhat - the near constant torrential downpour ends at least - but that merely means that the natural Winter weather simply reasserts itself. It sleets most days. Chunks of ice form in open water, and the nights are cloudless, clear, and cold. Being warm and dry becomes a luxury, and it is a rare soldier who does not develop a sniffle, or a cold, or in some cases a full-blown fever.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Knights of the Sun, Ossium is now Imperial Soil. We need to finish the Job. We will Grind our way to Victory and complete the conquest. Our allies the Thule will be Alongside us, we will not attack them. Death to the Druj!
+> >
+> > Zoran De Orzel, General of the Golden Sun
+
+The Thule, perhaps unsurprisingly, are less concerned about the cold than they are the forest. A few grudgingly offer advice to Imperial soldiers unused to the cold but for the most part they keep to themselves. While they are blasé about the weather, they tend to be much less sanguine about the forests in which they are fighting. There are few woodlands in [Otkodov](../barbarians/Otkodov.md) it seems, and those are inhabited by... The orcs do not go into detail, beyond the confines of a few grim stories of lurking horrors and hungry vallornspawn and angry spirits they swap with the Golden Axe.
+
+Perhaps they are right to be nervous of the trees. The forests seethe with malign intelligence. Sometimes it seems every step is treacherous; more than one soldier breaks a leg or an arm or a neck as a tree root twists under them, or a seemingly strong branch snaps under their weight. As with the invasion of the Webwoods, the forests actively protect the Druj and hinder the Imperial and Thule armies. Those who stray too far from the main body of the armies risk being lost and falling prey not only to Druj ambushers but to more primeval threats.
+
+The beasts of southern Ossium, roused by Druj magic, provide an unpleasant reminder of how dangerous the Mallum can be. The [deathstinger](../barbarians/Arkad.md#hupul) for example, the totem of the [Hupul](../barbarians/Arkad.md#hupul), accounts for perhaps as many as fifty Imperial lives over the course of the invasion. As large as pigeons, flying in small groups, these atrocious red-and-black wasps seem to have no fear of humans, and inject a venom that can literally cause the heart of a warrior to explode in their chest. Then there are the snakes - not only the vicious [coiled vipers](../barbarians/Arkad.md#kallad) that lurk in trees and drop on unsuspecting scouts but so many species of venomous reptile that it is impossible to number them all. Some take to sleeping in their boots - a strategy not without risks of its own but one that means that at least they will not be surprised by tiny brown snakes or vicious fist-sized scorpions or the little nests of thumb-sized spiders whose bite can paralyse an arm or leg and in some cases leave the victim's limb rotten and putrescent.
+
+Not all the Druj magic is as obviously dangerous as this, however. As the Winter Solstice draws to a close, vibrant [Spring magic](../../out-of-character/rules/Spring_magic.md) bubbles up from the marshy ground and open water of the Drownbark Forest, and spreads quickly across the entire territory. It fills the waters - the streams and rivers, the scattered lakes, and the dank marshy pools - with life. Yet this is not quite the same as the ritual the [Empire knows so well](../../mixed/magic/rituals/Rivers_of_Life.md). While it heals wounds, it almost invariably leaves scars. In some rare cases, there are reports of warriors whose injuries have healed but who find themselves with unpleasant patches of fur or bristles, or spurs of bone, or scattered scales, or permanent mottling and discolouring of their skin in unsettling patterns. These aberrations can be treated - the offending area of skin carefully removed and the wound healed with more wholesome magic - but it adds to the feeling of oppression and corruption in the forests of southern Ossium.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Soldiers of the Pride! Our conquest of Ossium is nearly done, we now push on to take the remaining regions alongside our Thule allies, but after we will continue to expand the Empire's borders. To that end, we will take no unnecessary risks and preserve our numbers for greater glory ahead. For Glory! For the Empire!
+> >
+> > Garravaine De Rondell, General of the Gryphon's Pride
+
+### A Dance of Shadows
+
+The thick woodlands of Nearweald fall reasonably quickly before the allied forces. The first engagements are probing strikes - the Eastern Sky, Gryphon's Pride, and Hounds of Glory move carefully, a [steady advance](../../out-of-character/rules/Army_orders.md#steady-conquest) designed to minimise the loss of Imperial troops. The two Golden armies - the Axe and the Sun - are even more careful, both engaged in a [slow probing of the enemy](../../mixed/government/military/Army_qualities.md#resilient), ceasing their advance when they encounter an enemy. The [Thule](../foreign-nations/Thule.md) likewise engage in [cautious](../../out-of-character/rules/Army_orders.md#cautious-advance) conquest of Ossium. In some ways, these strategies heighten the fearfulness of the southern woods, especially the Drownbark Forest. It is all to easy to imagine that there are Druj ambushers lying in wait behind every tree, deadfalls and spike traps under every drift of leaves.
+
+The Druj for their part are just as cautious. When they encounter Imperial forces they fight quickly and then retreat, falling back and giving ground before the Empire or the orcs of Otkodov are entirely aware they are present. It proves difficult to be sure how many orcs the allies are facing - they are simply too adept at concealing their numbers, of hiding until they are ready to strike. There are enough corpses recovered to guess at there being three distinct forces in the woods - bodies and armour are commonly decorated with burning lizards, with pallid ants, and with hooded serpents.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > It is the will of the Five that we fight alongside the humans. It is the command of Tahenon the Gyre that the Druj fall beneath your spears, and it is his wrath that shall fall upon us if we prove ourselves to be weak. Yet we will take no risks, for the orcs of the Mallum are cunning and twisted, and lie in wait to punish the foolhardy and the vainglorious. We will be wise, and cautious, and we will claim victory because the Dragons will it.
+> >
+> > Fljajokull, General of the Talons of the Wind
+
+What few settlements are encountered in Nearweald tend to be abandoned, and littered with traps. One Varushkan suggests stopping exploring them altogether and simply firing their roofs as soon as they are encountered - assuming that the sodden thatch and peat will light at all.
+
+In the Drownbark Forest, conditions are even worse. It becomes clear very quickly that the ground here is not sodden because of the recent rains but because that is its natural condition. It is a great marsh, stinking and treacherous, overgrown with moss-swathed trees and divided into hundreds of islands by cold rivers, streams, and pools. Some Druj take advantage of the ground water - infused as it is with healing magic - to launch horrible ambushes. They hide beneath the surface of the water, breathing through hollow reeds, or lie in wait half buried in liquid mud, or cover themselves in moss and bark to camouflage themselves against the trees. They attack only when they have completely surrounded their unsuspecting victims, or allow them to pass thinking the area is safe and then attack from behind, or fall on the *next* group to pass through. It is noted that most of those who use such tactics bear tattoos, or have their armour decorated with, images of hooded serpents. The Thule name them "Hidden Snakes" and spit onto the mud when they do so.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > There is a price to be paid and the right time and place for this. While we remember the glorious dead, Owain Sepulchre, former adjutant to the Hounds we must prepare to pay the cost, but not now. Now we will Steadily Conquer the remainder of Ossium, being aware of the Ambushes and traps, seek to conserve Imperial lives and fight alongside our Thule Allies. Death to the Druj!
+> >
+> > Tancred, General of the Hounds of Glory
+
+Nearweald falls first - the Druj caught in a pincer between allied forces moving south from Galath Fields and east from Bittershore. Some retreat south, across the borders of Ossium into [Farweald](../nations/dawn/The_Barrens.md#farweald) in [the Barrens](../nations/dawn/The_Barrens.md). Others flee east, and reinforce the defenders of the Drownbark Forest.
+
+### Secrets and Mysteries
+
+The only major settlement in the southern forests - or rather the only one the allies find - is in Drownbark Forest. A rude mass of buildings covers the broad sweep of a great, shallow, weed-choked lake. There are some defences - sharpened spikes and wooden palisade and deep ditches full of stinking, diseased water. Here and there are broad pools of hungry mud that suck down any foolish enough to mistake them for solid ground.
+
+The allies have seen such things before, however. The "town" of Orieb falls quickly; those who do not flee are slain. With it, it seems, the spirit of the Druj is broken. Imperial troops search the settlement, finding clear signs that the town had some significance to the Druj. While many of the buildings are rude, there is a sprawling palace of weirwood and stone half sunken into the lake at one end, its many maze-like rooms full of opulent furnishings. Serpents and scorpions and spiders leer from every tapestry, and are carved into the walls and ceilings. It would take days to map the Palace of Orieb, and the armies have more pressing concerns - namely ensuring the last of the Druj are driven from Ossium.
+
+At the same time Orieb and its squalid finery are falling to the allied forces, however, something unexpected happens. Reports are confused - there are few actual Imperial eyewitnesses, primarily from the Golden Axe.
+
+For much of the invasion, the Thule have been as cautious and careful as their human counterparts. In the immediate aftermath of the battle to capture Orieb, however, that changes suddenly and without warning. A major force of Thule suddenly surges ahead past the advancing line. The Shard of Winter recklessly carves a path past Orieb, angling towards the east, where by all accounts they intercept a column of Druj attempting to escape into the [Forest of Ulnak](../barbarians/The_Mallum.md#the-forest-of-ulnak).
+
+The northern orcs fall on the orcs of the Mallum without mercy, and with little concern for traps or ambushes. The conflict is vicious - the Druj fight like cornered rats while the Thule battle with grim efficiency. For some reason, the Druj refuse to flee - abandoning their usual tactic of melting into the marshes and the woods when they are outclassed. Other Thule forces move to try and support the Shard of Winter but they are too far out of position for them to reach them in time to make a difference.
+
+It doesn't seem they need the help however - this splinter force of Druj is outnumbered and outclassed. One by one they fall beneath the Thule axes and spears.
+
+Then, from the south-west, another Druj force appears. They are hooded, and cloaked, with heavy scarves over their faces, and they emerge without warning from the dark between the trees... and fall not on the Thule but on their fellow Druj. Caught between the fury of the Thule and the treachery of their fellows, the orc column is torn to pieces. The Thule rally, to face the newcomer Druj, but as swiftly as they appeared they are gone, fled south through the trees.
+
+By the time the Talons of the Wind and the Golden Axe arrive, the fighting is done. There is no doubt though, claim the Varushkan soldiers, that the Thule of the Shard of Winter are not *happy* - in as much as those humourless northern orcs are ever happy. The warriors of the Shard of Winter stripped and searched every body - something they had been doing throughout the campaign - claiming valuables from their defeated opponents while the other Thule kept watch.
+
+Something is going on, say the Varushkans darkly. But they have no idea what.
+
+### A Task Completed
+
+After that, after the capture of the Palace of Orieb and the peculiar actions of the Thule, there is little more left to do than mop up. The main Druj forces have fled Ossium to the south and east. There are still plenty of dangerous threats in the new Varushkan territory - there are Druj in hiding everywhere it seems, and who knows what might be lurking beneath the trees in the trackless forests.
+
+It feels like a comprehensive victory - the Empire has lost fewer than five hundred soldiers. The Thule likewise seem to have emerged largely unscathed. The Druj by contrast have suffered many losses - but it is difficult to do more than estimate how many given the conditions the campaign has been waged under. Perhaps a thousand? Perhaps more. Perhaps less. The lion's share of the Druj deaths were caused by the armies of Otkodov - their strategy was significantly less concerned with reducing their own casualties than that of the Empire.
+
+Such details are a matter for another day. What matters is that the allied forces are victorious. The Druj are beaten, driven out, and the entire territory - apart from the northern Bonewood of course - belongs to the Empire.
+
+### Game Information : Ossium
+
+The allied Imperial and Thule forces have been victorious. All of Ossium is now in allied hands, and the Druj armies have been driven out of the territory. It is difficult to say how the campaign might have gone without the support of the Thule but it seems very unlikely the Empire would have claimed both Nearweald and the Drownbark Forest had they been on their own.
+
+*[Image: I'm still not really sure what started that fight...](https://www.profounddecisions.co.uk/empire-wiki/File:Good_News_First.jpg)*
+
+## Good News First
+
+### Brocéliande
+
+In the east, in the trackless forests of Brocéliande, the vallorn is stirring. Since the Autumn Equinox, it has been a tide in flood, gaining in power and momentum as it strives to flex, to expand, to fill all the available space in the territory as it once did, in the years after the city fell. It has no heart - it lives equally in all things that are of it - in [husks](../world/Vallornspawn_husk.md) and [ettercaps](../world/Ettercap.md) and abominations, in every deranged human servant, in every strange plant, and soil and the water and the [air itself](../nations/navarr/Vallorn.md#vallorn-miasma). While part of it takes the form of enemies that can be slain, it is no more a creature than an avalanche or a hurricane or a forest fire. The Navarr must endure its catastrophic rise, or be swept away, losing what little foothold they have gained in that dark forest that shrouds lost Terunael beneath its whispering boughs.
+
+This is the second season of conflict, but the Navarr do not fight alone. In response to the [words](../synod-judgements/382YE_Winter_Solstice_Synod_judgements.md#judgement-3) of a [troubadour](../religion/Troubadour.md) of [Dawn](../nations/dawn/Dawn.md), knights come to the greenwood. Out of the north come two score questing knights and knights errant with their bright companies of knights and yeofolk come to Brocéliande to seek [glory](../nations/dawn/Glory.md) in the battle against the unnatural spawn of the deep forest. Some come for other reasons - for virtue, or in search of a grand challenge, or to reinforce the bond between the nobles of Semmerholm and the brands of [Boar's Dell](../nations/navarr/Brocéliande.md#boar27s-dell) perhaps. Regardless of their reason, their aid is invaluable in turning the green tide.
+
+From the south, in answer to the [call](../synod-judgements/382YE_Winter_Solstice_Synod_judgements.md#judgement-22) of the priests of [Highguard](../nations/highguard/Highguard.md) comes aid in the form of soldiers, and supplies. Grim-faced monks, pilgrims in grey hoods, cataphracts and unconquered, all take up arms to aid the Navarr. Just as valuable is support of a softer nature - some [congregations](../../out-of-character/rules/Congregation.md) send herbs, or supplies, or come not to fight but to minister to the soul and heal the body of those who do fight. The Navarr are human, after all, and Highguard serves the destiny of all humankind.
+
+Not all the aid is natural; the [eternal](../eternals/Eternal.md) [Tharim](../eternals/The_Thrice-cursed_Court.md#tharim) on his bitter throne has been given leave by the vates of Navarr to devour the herb gardens and forests of Miaren, Therunin, and Hercynia. As his servants glut themselves, feasting on the wholesomeness of the trees and plants, so he sends his barons and knights and wizened witches to Brocéliande to aid the defenders there.
+
+A cadre of sneering bone-armoured knights come to Boar's Dell, appearing at dusk nine days after the Winter Solstice. Where they walk, they leave a patina of frost behind them. Snow falls where they erect their coal-black tents, from within the shadows of which come the sound of whispering chains. They fight with crude iron flails, and scourges made of spiked chains, that tear and blight flesh and bark with equal ease.
+
+To Elerael in the south comes a baron - Poena of the soft voice, third of the three who came to the Empire from the [copse of the Bone Birch](../winds-of-fortune/Hunters_and_wolves.md#in-the-copse-of-the-bone-birch). Wrapped in tattered black wool and faded leather in mockery of Highguard, her ivory face hidden by a great enshrouding hood, she draws the dead to her, binding them with chains of words and obligation. They throng around her, forming bodies from leaf-mould, and old bones, and scraps of hide. She arms them with rusted implements of torment and slaughter, and they follow in her wake as she walks beside the thorns, ignoring the many questioning glances they direct toward her.
+
+And deep in the vallorn's embrace, a circle of withered, dry-as-dust warlocks, their eyes bound with dusty bandages surround the Broch. As they freeze into place, heads bowed, arms outstretched like maleficent mannequins, a cold wind touches every plant within the compass of their ring, withering it, killing ivy and tree alike. But for the rest of the season those vallornspawn who approach too closely take sick, and flee back into the forest. If those sheltered within the Broch suffer nightmares each night - dreams of failure, torment, guilt, and despair - it is perhaps a price many are willing to pay for the certainty that their steading will endure.
+
+Thirty five bands of Navarr warriors - and one band of [supernatural warriors](../../mixed/magic/rituals/Conclave_of_Trees_and_Shadow.md) in blackened chain with great shields and heavy maces - come to Brocéliande, to protect Elerael, and Boar's Dell, and the steadings that still stand beneath the malign gaze of the vallorn. By themselves, they would have saved Boar's Dell, but they would have lost the Broch, and the vallorn would have surged into Elerael and begun to ravage it. Even with the aid of Tharim, bought at so high a price, they would still have lost the Broch. Only with the full support of their neighbours to the north and south did they have a hope of holding the vallorn back for another season.
+
+But they *did* receive that aid, and they *did* hold the vallorn back for another season, and the Broch *did* endure.
+
+Yet for all that... the tide of the vallorn does not slacken. As the Spring Equinox draws closer, it is notable that the miasma is thickening, that ettercaps and abominations larger than anything seen so far are reported in the forest, and that more and more ancient husks are emerging from the depths. The battle so far has been hard, but it is clear that this particular crisis is very far from over.
+
+And nor is it the only crisis, although the situation brewing in the west seems to be much more mundane in quality.
+
+*[Image: ... But I still get this feeling there's more trouble ahead.](https://www.profounddecisions.co.uk/empire-wiki/File:Bad_News_Second.jpg)*
+
+### Liathaven
+
+The first the Empire learns about the attack in Liathaven is when the surviving half of Bonering striding make it out of the forest into Bregasland pursued by orcs. The Jotun clash with Marcher bounders and yeofolk who come to the aid of the Navarr. As soon as they encounter resistance, the Jotun fall back into Liathaven.
+
+Over the next few weeks, more information slowly filters out of the former Navarr territory. A large Jotun army has come across the border from [Hordalant](../barbarians/Hordalant.md) into [West Ranging](../nations/navarr/Liathaven.md#west-ranging). Their numbers are swollen by the addition of thousands of Summer knights - heralds from the Fields of Glory - who take the form of orc-like warriors with spreading antlers.
+
+What little information there is suggests these orcs march under the banner of Bear Who Swims - and that they have conquered almost the entire West Ranging in a single season. They quickly overrun the token Imperial presence in West Ranging, and by the time the wider Empire even knows they are there, they have reportedly already set up several armed camps across the region. One of those camps is in the ruins of the old [steading](../nations/navarr/Steading.md) of Silent Stand which watches over the northern gateway to the [Paths of Lan Thúven](../nations/navarr/Liathaven.md#the-paths-of-lan-thc3baven) - the magical path that allows Navarr armies to pass through the [vallorn](../nations/navarr/Vallorn.md) infested [Westwood](../nations/navarr/Liathaven.md#westwood) unmolested.
+
+While the Empire liberated West Ranging during their [fight with the vallorn](382YE_Spring_Equinox_winds_of_war.md#immolation), the rest of the territory remains notionally in the hands of the [Jotun](../barbarians/Jotun.md) - at least those parts of it that are not in the possession of the vallorn. If the Bear Who Swims complete their conquest of West Ranging, they will again control all parts of the territory that are not under the sway of the vallorn.
+
+The Jotun, however, are not the only people in Liathaven. The [Feni](../nations/the-marches/Feni.md) of the Woods-That-Fell, at least those who came south through the Marches, are also in the northern woodlands, their numbers apparently swollen by the survivors from the [raid into Alderley](382YE_Winter_Solstice_winds_of_war.md#the-rattle-of-the-bones). It's not clear how the Feni will react to the presence of the orcs.
+
+There are also a scattered few Navarr, still clinging stubbornly to their forest and striving to restore the [trods](../nations/navarr/Trod.md) that once connected the vallorn here to the rest of the Empire. If there is one positive piece of news from Liathaven - albeit tentatively positive - it is that the Jotun do not seem to be going out of their way to slaughter the Navarr they encounter. Perhaps the efforts of the [generals](../../mixed/titles/General.md) to present a more honourable face to the western orcs have paid off. They still receive no quarter, and are not offered the Choice, but rather than execute prisoners the Jotun drive the Navarr out, killing only those who refuse to flee before them.
+
+The presence of the Jotun most likely puts an end to any Navarr hope of driving the vallorn out of the Westwood, unfortunately. [Time is running out](../winds-of-fortune/Lethal_and_elusive.md#liathaven) - even with the [powerful Winter magic](../../mixed/magic/rituals/Wither_the_Seed.md) lying over the [territory](../../out-of-character/rules/Territory.md) the vallorn will have recovered too much strength to be uprooted by the start of the Summer Solstice.
+
+| Citizen | Nation |
+| --- | --- |
+| Hen Was Silverthorn | Navarr |
+| Sir Tancred Devereux | Dawn |
+| Gertrudinie 'Mouse' Fletcher of House de Coeurdefer | Dawn |
+| Torag Du Soleil | Dawn |
+| Zadkiel de Coeurdefer | Dawn |
+| Ethan Scolish | Dawn |
+| Mal` Lassal Scethos | Dawn |
+| Eadric Fjellrevening | Dawn |
+| Lord Colwynn de Rondell | Dawn |
+| Agravain | Dawn |
+| Holden Cross | Dawn |
+| Roger Du Soleil | Dawn |
+| Valentin Ivarovich Severyan | Dawn |
+| Knight Commander Cinder Hearthsong | Dawn |
+| Sola Hearthsong | Dawn |
+| Stolfo Luun | Dawn |
+| Adeen Eternal | Navarr |
+| Baldrum | Navarr |
+| Brennos Brackensong | Navarr |
+| Brodi Brackensong | Navarr |
+| Cynèsten | Navarr |
+| Dalthios | Navarr |
+| Torr Splitroot | Navarr |
+| Brendan | Navarr |
+| Gerallt Two Feet | Navarr |
+| Cayleb | Highguard |
+| Alexi Farwalker | Navarr |
+| Tomarn | Navarr |
+| Nook | Navarr |
+| Seamus Chainbreaker | Navarr |
+| Kale | Navarr |
+| Scota | Navarr |
+| Maddoc | Navarr |
+| Baddon Red Oaks | Navarr |
+| Bran Holm | Navarr |
+| Branam Embercast | Navarr |
+| Ifan Ashborn | Navarr |
+| Lleu Tarw | Navarr |
+| Bronwyn Foxden | Navarr |
+| Jayce Embercast | Navarr |
+| Reaghan Emberedgrove | Navarr |
+| Hawel | Navarr |  |
+| Karrow Strangers Song | Navarr |
+| Odhran Tanglehorn | Navarr |
+| Roland Singer | Dawn |
+| Vicril | Dawn |
+| Dominiq Sword | Dawn |
+| Ser Regulus Aurelius | Dawn |
+| Arthur Cordraco | Dawn |
+| Tor Forester | Dawn |
+| BloodBilge Ziek | Imperial Orcs |
+| Caius Aurelius | Dawn |
+| Guy Grimbold the Elder | Dawn |
+| Guillaume | Dawn |
+| Escalados de Carsenere | Dawn |
+| Leon | Dawn |
+| Nyle | Navarr |
+| Swilach | Navarr |
+| Geraint Broad-Backed | Navarr |
+| Rodric Worldscribe | Navarr |
+| Gwill Fenwarden | Navarr |
+| Travid Longest Path | Navarr |
+| Ren Tanner | Dawn |
+| Sir Andred Gravaine | Dawn |
+| logan | Dawn |
+| Caewel Smith | Dawn |
+| Maryc | Dawn |
+| Ozren Ivarovich Severyan | Dawn |
+| Vulgaris Vicarious | Dawn |
+| Alan Fletcher | Dawn |  |
+| Lady Claudia Varkulova Remys | Dawn |
+| Lord Romande Remys | Dawn |
+| Logan Tallstag | Dawn |
+| Tierian Spirits | Dawn |
+| Bors De Carsenere | Dawn |
+| Élodie Harper | Dawn |
+
+### Game Information : Brocéliande
+
+The vallorn has been held back in Brocéliande, in part thanks to the aid from the knights of [Dawn](../nations/dawn/Dawn.md) and the congregations of [Highguard](../nations/highguard/Highguard.md). As mentioned in the [wind of fortune](../winds-of-fortune/When_all_the_land_is_in_ruins.md#dawn-the-banners-of-rucastle), any Dawnish character who supported the *[Slow the Vallorn](../winds-of-fortune/When_all_the_land_is_in_ruins.md#slowing-the-vallorn)* action will receive additional rewards representing the support of the noble houses and villages of Astolat and Semmerholm for those champions of Dawn who face the dangers of Brocéliande. Likewise, the positive effects of the [Highborn mandate](../winds-of-fortune/When_all_the_land_is_in_ruins.md#highguard-the-blade-of-the-pilgrims) have been felt, in the form of additional warriors and support. We have not yet applied the penalty that is a consequence of the mandate - it will instead be felt in the next downtime and persists for one season after the benefits end.
+
+At the same time, Tharim is feasting on the forests and herb gardens of Hercynia, Therunin, and Miaren; each such resource loses a rank of production for the next year, but the Eternal will continue to provide support in Brocéliande for that whole time as long as he has [amity](../eternals/Alignment.md#amity) of course.
+
+The threat of the vallorn in Brocéliande is far from over; you can learn about how bad it has become [here](../winds-of-fortune/Chaos-_and_the_stillness_of_it.md).
+
+### Game Information : Liathaven
+
+The Jotun lightning strike has left them nine-tenths of the way toward conquering West Ranging and removing the last bit of Imperial presence in the woods. Further information is hard to come by - although there is a [spy network](../../out-of-character/rules/Spy_network.md) in Liathaven and it is possible that anyone who supported it might know more.
+
+*[Image: Moments caught in flight make the shadows darker or the colors shine too bright](https://www.profounddecisions.co.uk/empire-wiki/File:Available_Light.jpg)*
+
+## Available Light
+
+Forced to flee Morrow, the Druj may finally be on the back foot, but it appears they are not out of tricks yet. Three weeks after the Winter Solstice, give or take, a massive force of Druj come south through the [Twilight Gate](../nations/the-league/Spiral.md#the-three-passes) into [Spiral](../nations/the-league/Spiral.md). An estimated thirty thousand or more march down through the wide path into [Ossuary](../nations/the-league/Spiral.md#ossuary). In the vanguard, the army of the Twisted Basilisk, baleful staring lizards fluttering in the winter winds.
+
+Their strategy is very different to that employed in Zenith and Morrow. Their advance is cautious, measured, alert for danger.They seem to have little time for terrorising their foes; they move quickly and with purpose. Any who stand against them are cut down quickly and efficiently without mercy - they barely bother to torture anyone. They bypass entire spires - only pausing to put them to the torch if the defenders try and slow their advance. Every night, they light great rings of torches and campfires that burn across the mountainsides, and from dusk til dawn the discordant music of heavy drums and eerie skirling bone pipes can be heard for miles around.
+
+Their first target is the [Legacy](../../mixed/titles/Legacy.md). There is little warning of their presence, but the order to evacuate is quickly given. Some attempt is made to save the mithril but the conditions in Spiral make it difficult to move the precious ore quickly. The defenders do their best but they cannot hope to stand against such a force of orcs. The mine is quickly overrun, the bounty of mithril claimed by the orcs before it can be transported more than a handful of miles south.
+
+The orcs do not break their advance. They break into two forces - the smaller force quickly brings the whole of Ossuary under their nominal control. The larger force presses south ... into [Screed](../nations/the-league/Spiral.md#screed). They are even more cautious here, but again they are unopposed. They quickly claim the entire region, including the Black Plateau itself.
+
+Still they are not done. While the main part of their force consolidates their gains, perhaps ten thousand orcs continue south into [Apulus](../nations/the-league/Spiral.md#apulus). Here their advance begins to slow somewhat - but not before they have managed to claim almost all the land the Empire had liberated from the Grendel. The town of [Apulian](../nations/the-league/Spiral.md#apulian) remains in Imperial hands but only just - the Druj are camped no more than a handful of miles from their walls. The Imperial defenders, those spires working to restore the town to some semblance of normality, are trapped between the unknown and the known, between the devil and the deep blue sea. Their heliopticon tower is still intact, but they know they have no chance to hold out against the orcs should they continue their attack.
+
+The Druj are mortal, however, and as such they are prey to the terrible emanation of the Black Plateau. There are numerous reports of madness and violence in their ranks - of soldiers impaled on spikes for insubordination, of bands of scouts turning on each other, of warbands breaking for no reason and fleeing screaming in the darkness. There is little doubt that the Druj are unprepared for the madness that flows outward from Screed, which makes their presence so much harder to explain.
+
+Reports also come in of Druj scouts all over the territory - watching, evaluating, considering. They do not get too close to the construction effort in Cinion, but they cannot have failed to mark the construction of [the Block](../senate-motions/Construct_Mithril_Block.md) nor the work that has gone into restoring the [Heliopticon](../senate-motions/Construct_repairs_to_Heliopticon.md). For now though, they seem to have little interest in disrupting either project - again an attitude that seems very much at odds with their usual rapacious hunger for destruction and despair.
+
+Finally, as the Spring Equinox approaches, reports come from Spiral that the Druj are performing rituals at the site of the Black Plateau. At first there is a very real fear that the orc magicians are using some dark sorcery to make the situation in Spiral even worse - and in a way they are but not in the way many fear. By report of the magicians of Urizen, it seems the Druj are working [Spring magic](../../out-of-character/rules/Spring_magic.md), bringing to bear [curses](../../out-of-character/rules/Curse.md) on the [territory](../../out-of-character/rules/Territory.md). So far they have lain a [festering blight](../../mixed/magic/rituals/Rivers_Run_Red.md) in the waters, and summoned [catastrophic weather](../../mixed/magic/rituals/Thunderous_Deluge.md). It remains to be seen if they have more in mind.
+
+Whatever has caused this change of tactics by the Druj remains shrouded in mystery. Whatever their goal here if the defeat in Morrow signals the end of the Druj's attempt to invade Urizen - then clearly they have not got the message yet...
+
+### Game Information : Spiral
+
+The Druj now control Ossuary and Screed, and have displaced almost all the victory points the Empire had gained towards taking Apulus. They are halfway towards claiming that final region.
+
+They have also captured the Legacy. The current seat holder will still receive their mithril for this season but no more will be received until the Legacy is once again in Imperial hands. They will then lose their title. If the Legacy is recovered, it will once again need to be [allocated](../../mixed/government/senate/Powers_of_the_Imperial_Senate.md#allocation) by the Senate.
+
+So far the Druj have not interfered with either the Block or the Heliopticon repair project, both of which have effectively been completed. The Block is in Cinion of course, and the new central Heliopticon tower for Spiral is in southern Ankra.
+
+While the Urizen have lost two more regions, the Citadel Guard will not begin to decay once again. The relative values of Caeli and Progero outweigh the damage done by the loss of Ossuary, and Screed itself provides nothing that supports the Citadel Guard. Likewise, even the loss of Apulus will not effect the Citadel Guard as it is not currently Imperial The loss of *any other region* of Urizen however will begin the process of decay once again.
+
+*[Image: We will pay the price but we will not count the cost.](https://www.profounddecisions.co.uk/empire-wiki/File:Bravado.jpg)*
+
+## Bravado
+
+### Out of the Earth
+
+During the Winter Solstice, there was a peculiar gathering in northern Segura. A large raiding party set up an armed camp in the Sobral Stand, a small area of ancient woodland that stands proud on the [plains](../nations/the-brass-coast/Segura.md#sobral-grasses). Representatives of the Hierro, the Corazon, and the Deep Bloods were all present along, reportedly, with many healers and thralls. What they did there is not certain, but after they had completed their work and as they withdrew back towards the main body of their armies, they fired the woods. Ancient trees that had stood since long beyond the Founders were born, destroyed in an afternoon.
+
+With the Jotun Lasambrian gone, the Freeborn from nearby Sobral came cautiously forth to examine the damage and to their great surprise found a burial mound hidden at the heart of the burned woods. A burial mound that had been broken open - recently by the look of it. More worryingly, certain large carved stones had been broken apart - stones marked with peculiar spiralling designs reminiscent of those at [Ghita's Veils](../../mixed/government/military/Segura_spoils_of_war.md#ghita27s-veils). Of whoever - or whatever - had lain beneath the hill there was no sign but it seemed clear to the brave explorers that this had been the burial mound for a great chieftain or ruler of some kind.
+
+A mystery, and one that has little opportunity to be explored in more detail. Over the next month, the Quiet Step and the Strong Reeds march into Segura, ready and able to stymie the invasion of the Jotun Lasambrian. Questions of odd burial grounds and ancient forests must wait for another time.
+
+### Thunder in the Grass
+
+In the weeks following the Winter Solstice, the orc armies gather their forces and refocus their efforts on the invasion of Segura. In addition to the three armies there are perhaps as many as five thousand or more warriors who fight as part of the warbands of independent champions - more traditional Jotun for the most part. It is noticeable that the Escuta - the army that was the Deep Bloods - have largely abandoned their previous banners and now march under the standard of the firebird alone, just like the Hierro and the Corazón.
+
+Despite this odd change, the Lasambrian Jotun tactics have not changed particularly. The Escuta advance cautiously, vigilant for any significant threat. The Hierro follow after them, focused on their ambition of seizing the entire territory consolidating gains and putting down any resistance. The Corazón meanwhile courageously roam across the plains, far in advance of the main force, raiding and pillaging seemingly at will.
+
+Fortunately for the Freeborn, Here at least the Corazón do not have it their own way. It soon becomes clear that a subtle [enchantment](../../out-of-character/rules/Enchantment.md) has settled over Segura - gently, carefully, drawing no attention to itself. Its effects are barely noticeable at first. Those attempting to flee the Lasambrian Jotun raiders find themselves subtly guided towards the best path to avoid enemy patrols. Their carts run unusually smoothly, and even the roughest trails that might break axles or throw wheels are traversed as smoothly as the finest of the [Sunset Roads](../nations/the-brass-coast/Segura.md#sunset-roads).
+
+Meanwhile,the Corazón find their luck runs in quite the opposite direction. They take the wrong roads; they miss tracks; they arrive just a little to late to intercept a merchant or a caravan. They come on a farm hours after the last of its harvest has been sent east toward Sobral or Cerevado. When they do manage to find someone with valuables - when they raid a parador or a farm - they find it almost impossible to actually locate anything worth stealing. As the season presses on, their frustration becomes more and more obvious - but the impact of their raids is dramatically reduced.
+
+Perhaps the subtle Autumn magic is hard to spot because of the much more obvious presence of the potent [Spring magic](../../out-of-character/rules/Spring_magic.md) [curse](../../out-of-character/rules/Curse.md) that hangs over the territory, infusing all the water in Segura - what water there is - with [vibrant healing magic](../../mixed/magic/rituals/Rivers_of_Life.md). Any wound that is not fatal heals overnight. The people - orc and human alike - are filled with supernatural vitality. A single draught of water refreshes the body and spirit alike. The Lasambrian Jotun are not prepared for the magic, but quickly adapt to it. It is something of a two-edged sword, as such things often are. While it helps the Freeborn endure the march of the orcs, it greatly reduces the impact of their resistance against their invaders.
+
+And there is resistance of course. The people of Segura do not accept their orc overlords easily. In particular, the stubborn [Zemress exiles](../nations/the-brass-coast/Zemress_islander.md) fight desperately to prevent the Corazón from taking their possessions - and here again the subtle Autumn magic twists serendipity in their favour. The raiders soon begin to give the farms of the exiles a wide berth, choosing to look elsewhere for their prey.
+
+While ranging far ahead of the main forces, it is also the Corazón who first encounter the Imperial troops come to face them.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > We have fought the Jotun and their Lasambrian lackeys in the lands of the Freeborn before, and now we return aside the Strong Reeds. We will make a line they fear to cross, a solid defence of the remainder of Segura with spear, bow, venom and fear. Next Season, Liathaven.
+> >
+> > Brennos Brackensong, General of the Quiet Step
+
+### Forest and Farm
+
+The Corazón are clearly expecting *someone* to come to Segura, and when they encounter the soldiers of the Quiet Step and the Strong Reeds they quickly rally. The initial clashes between raiders and the Imperial armies are inconclusive - while the Corazón are outnumbered they are quick to withdraw as soon as they face any serious opposition. The Imperial troops are forced to follow them - chasing them across Segura south-west toward where the Hierro and Escuta are pushing into Anozeseri. If they wish to defend Segura, they cannot do it from Lucksprings and Sobral Grasses.
+
+The orc and human forces clash in central Anozeseri. The wide open spaces play well to the strengths of the Quiet Step, and to a lesser degree the Corazón. The Strong Reeds and the Hierro form the solid core of the opposing forces, with the Escuta carefully probing the Imperial defences. With the support of the citizens of Segura, the Imperial forces establish a command post at Anozel from where their commanders direct the defence.
+
+Alongside the dour [Bregas](../nations/the-marches/Bregasland.md) of the Strong Reeds are several thousand enchanted soldiers summoned from the Fields of Glory with potent [Summer magic](../../out-of-character/rules/Summer_magic.md). Rather than the glorious knights commonly seen accompanying other armies, these warriors of the Summer realm take the form of broad-shouldered soldiers with the aspects of various doughty animals - bears, boars, and badgers. They are gruff conversationalists, with none of the airs and graces usually associated with the servants of [Eleonaris](../eternals/Eleonaris.md), but they possess superhuman strength and scatter their orc opponents left and right with blows from their mighty hammers and great swords.
+
+Wherever the Corazón or the Hierro attempt to march, the Quiet Step are there to slow their advance, harrying their forces from the flanks and moving out of reach before the orcs can effectively counterattack. [Enchanted](../../out-of-character/rules/Enchantment.md) with potent [Day magic](../../out-of-character/rules/Day_magic.md), the Navarr army has a supernatural ability to predict the movement of the Lasambrian Jotun and position themselves to most effectively frustrate their attempted conquest. When they attempt to establish camps, or occupy a village, the Strong Reeds and their magical allies march out to meet them, as often as not forcing the orcs to retreat or risk being caught between a Marcher anvil and a Navarr hammer.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Soldiers of the Strong Reeds, our priests have given us the opportunity to Embrace our heritage. Now is the Time. However, this season we aid the Freeborn in Segura. We will enact a solid defence. As before, we will fight hard but allow the dead and wounded to be recovered.
+> >
+> > Jack Flint, General of the Strong Reeds
+
+There is no single grand battle on the southern plains of Segura; rather a dozen smaller conflicts during which the orcs attempt to seize ground and the Imperials block their conquest. As the Spring Equinox approaches, the Lasambrian Jotun realise that their line is becoming more and more ragged, their forces more and more spread out, more vulnerable to attack. In the final weeks of the campaign they pull back, abandoning several of their more precarious gains, and rally around Anduz and the [Golden Terraces](../../mixed/government/military/Segura_spoils_of_war.md#the-golden-terraces).
+
+Despite the fact that the Lasambrian Jotun have three armies in Segura while the Empire has only two, it is the orcs who are forced to fall back and not the Imperials. The Lasambrian Jotun continue to treat the conquered Freeborn with respect, and issue them their unique version of the more familiar Jotun Choice. Join the Lasambrians; keep their land and their possessions but agree to accept the conquerors as their rulers, swearing an oath of [loyalty](../religion/Loyalty.md), and offering a portion of their wealth to the Lasambrians. Or simply leave, with nothing save the clothes on their backs, a few sentimental keepsakes, and as much food as they can carry. Loyalty or exile, with death reserved only for those [courageous](../religion/Courage.md) few who refuse to choose either way.
+
+In spite of the healing enchantment laid across the territory, after three months of fighting, roughly fifteen hundred soldiers on each side have been slain. Both sides give the other leave to gather their dead, but where the Jotun normally bury their fallen champions beneath mounds of stone and earth it seems the Lasambrian Jotun are increasingly embracing the Freeborn way - the bodies of their heroes are burnt on great pyres while drums are beaten and old songs chanted. "*Why would we bury them?*" asks one prisoner contemptuously in response to Imperial questions. "*Either their virtue has carried them across the abyss, or they have been devoured by it. What use have they for their bodies?*"
+
+### Game Information - Segura
+
+Anduzjasse remains entirely in the hands of the Lasambrian Jotun, and while they have not made any further progress toward conquering Anozeseri neither has their foothold there been reduced.
+
+This season, the [raids](../../mixed/government/military/Army_qualities.md#foraging) by the Corazón have been largely thwarted by subtle Autumn magic. The magic fades as the Spring Equinox approaches, however. If the Corazón renew their raids after the Equinox, then every farm and business in Segura again risks losing half of its production.
+
+The Lasambrian Jotun maintain their control of the seven [Towers of Anduz](../nations/the-brass-coast/Segura.md#the-towers-of-anduz) they have captured. Coupled with the hostile environment the orcs are creating for foreign traders coming into Segura, the benefits of this [great work](../../mixed/commissions/Great_work.md) have been halved. If the orcs take any more towers - if they conquer any of the towers in Anozeseri, Yellow Chase, or Burnish - the entire benefit of the [great work](../../mixed/commissions/Great_work.md) will be lost until the regions where they stand are liberated.
+
+Finally, the flood of refugee Freeborn exiled from Anduzjasse and Anozeseri who head east toward Anozel and Cerevado has slowed to a trickle. With many of these refugees unable to bring anything of value with them, it is perhaps just as well their numbers have declined. If the orcs manage to overcome the defenders in a later season, they will continue to drive penniless exiles into eastern Segura, and the situation may still become a significant economic crisis for the Brass Coast.
+
+The Lasambrian Jotun have not repeated their [offer](382YE_Winter_Solstice_winds_of_war.md#dry-grass-singing) from last season but it is - presumably - still on the table.
+
+*[Image: As the sun goes down on the western shore, the wind blows hard from the east.](https://www.profounddecisions.co.uk/empire-wiki/File:Spindrift.jpg)*
+
+## Spindrift
+
+### Sea
+
+It begins in Sarvos. Three days after the Winter Solstice, the Grendel armada that has spent the last several months anchored a mile or so out into the Bay of Catazar suddenly comes alive. The bells at Capodomus Cathedral begin to ring, warning the people of danger. Bravos and soldiers flock to the quayside, ready to repel orc landing parties. People barricade themselves in their houses, or flee north to the safety of Foracci and [Our Lady of Pride](../nations/the-league/Sarvos.md#our-lady-of-pride).
+
+But the orcs do not come for Sarvos; instead the armada sets sail to the southwest. There is immediate fear that they plan to attack [Trivento](../nations/the-league/Sarvos.md#bocche), and the [Spider's Dream](../nations/the-league/Sarvos.md#the-spider27s-dream) (for haven't they threatened the great suspension bridge before, in their quest to cut [the Brass Coast](../nations/the-brass-coast/The_Brass_Coast.md) off from the rest of the Empire?). Fast runners are dispatched along the coast road, in a futile attempt to reach the coastal town before the swift Grendel vessels.
+
+But the orcs do not come to Trivento, either. They keep heading southwest, away from the jewelled city, away from the port of Trivento. Perhaps, the princes of Sarvos say to one another, the Grendel have realised the Empire is ready for them. Rumours reach the marketplaces and the coffee houses that the orcs made another attempt to blackmail the Senate, and the senators called their bluff. Now they retreat, with their tails between their legs, back to their broken "city" of Dubhtraig to lick their wounds. Victory for the Empire, and the strong-willed League!
+
+Unfortunately, the bravos and princes and merchants of Sarvos congratulate themselves a little prematurely.
+
+### Salt
+
+Less than a fortnight after they leave their anchorage south of Sarvos, the armada enters the [Cazar Straits](../nations/the-brass-coast/Feroz.md#cazar-straits). Rather than sail through the islands as they have done before, the Grendel ships make straight for the port of Cazar itself, the stronghold of the [corsair](../nations/the-brass-coast/Corsair.md) families. They come at dawn, the early morning light making the red, green, yellow, and blue sails of orc warships seem to glow. They Freeborn vessels try to slow them, but they are straw before a tidal wave. Thousands of ships, packed with orc mariners, wash over Cazar.
+
+The corsairs put up a valiant defence but it is useless. The Grendel fight with grim discipline, methodically taking first the harbour, then spreading through the town and sending soldiers south, east, and west across the island to the palaces and villas of the corsair families. They are not interested solely in conquest - they are here to steal every treasure of Cazar that they can lay their hands on, carrying it back to the harbour and the holds of their warships.
+
+As soon as Cazar is broken, half the armada continues south to Shantarim. The corsairs here have scant hours of warning, enough to rally a ghost of a defence, but as with their northern rivals they are quickly overrun by the sheer number of their foe. The port endures the same fate as Cazar - its treasures pillaged, its wealth claimed by greedy orcs.
+
+Within a month of the Winter Solstice, the islands of the Cazar Straits are under Grendel domination. Their hunt for treasure becomes more methodical - but worse than that they begin to gather the people of the islands and lay chains on them. Dozens of proud corsairs - including the heads of several families - are dragged into the holds of Grendel vessels by grim-faced orc slavers.
+
+But the Grendel are not satisfied, not yet.
+
+While their raiders claim the riches of the Corsairs, the majority of the armada regroups and strikes west into [Oranseri](../nations/the-brass-coast/Feroz.md#oranseri). Joharra falls first, the great billowing cloths of vibrant colours torn down from their frames, the wealth of the dyers ripped from their grasps, the best of the artisans bound in rope and chain and dragged inexorably down to the waterfront.
+
+Oran holds out only a little longer. With news of the Grendel invasion spreading like wildfire, a few ships are able to escape north across the bay to [Siroc](../nations/the-brass-coast/Madruga.md#siroc), or flee inland away from the coast carrying their possessions on their backs. A few choose to stay and fight - and they put up a spirited defence. But they are still overrun. The wealth of Oran joins that of Joharra, and Shantarim, and Cazar, and a dozen smaller villages in the gaping cargo holds of the Grendel.
+
+### Sand
+
+The Grendel install *Lord Rahab* to oversee Oran; a grizzled old Grendel who takes as his base of operations the offices of the [Scorrero Nets](../../mixed/titles/Scorrero_Nets.md).
+
+Not everything is looted. When the Grendel arrive in the waters north of Oran, the Asavean priests call the faithful to the temple of Balo and the Black Bull. Dark-armoured guards sprout on the walls of the temple, and the banners of the Black Bull flutter in the salt wind. The Asavean merchants who trade in Oran take refuge in the temple, and then the gates are firmly closed. At the same time, in the harbour, the crews of Asavean vessels pull up their gang planks, and raise their sails, sailing north and east. The Grendel let them pass, their merchant ships gliding between the orc vessels as they bear down on Oran.
+
+Not only the Asaveans escape the Grendel. When the Asavean ships reach Siroc, or the docks of Sarvos, it is not just Asaveans who disembark. Some captains have taken Freeborn friends with them; others have sold passage to the wealthiest. One ship opens its hold to disgorge a Freeborn priest of the Little Mother and thirty children smuggled out of Oran under the eyes of the Grendel.
+
+Likewise, there are Imperial citizens offered sanctuary in the temple of Oran. No more than perhaps fifty; all people who had befriended the priests or the Asavean immigrants. The Grendel bang on the gates of the temple, demanding that the priests hand over any Imperial prisoners, and the high priests of the temple politely decline. "*This is Asavean soil,*" she says. "*You have no quarrel with us. But if one of you sets foot within the precincts of Balo, that will change.*"
+
+The Grendel respond by refusing to allow any Imperial citizen to enter or leave. A cordon of soldiers surrounds the temple searching every wagon that attempts to pass through. Food and basic supplies are allowed to pass through, but any Imperial trying to escape the temple is carted away in chains.
+
+By the end of the second month after the Winter Solstice, Oranseri is a dominion of the Grendel.
+
+And *still* they are not finished. As the Grendel consolidate their hold over Oran and Joharra, and send their patrols out to pillage and rob the farms and villages inland, their warships strike against Bramar in the south. The gentle town, with its rich vineyards and fields, lasts barely a day before it is overrun - despite some hotblooded assistance from Suranni merchants and their guards who stay behind to fight the orcs rather than flee.
+
+Some of the finest wines in the Empire - so often compared favourable to the darker wines of Dawn - disappear into the bellies and cargo holds of the orcs.
+
+Three months after the Winter Solstice, with the Spring Equinox fast approaching, the Grendel control the whole of the Cazar Straits and Oranseri. They have captured Bramar, but the majority of Fontargenta is still under nominal Imperial control. The orcs have pillaged everywhere they have touched, stealing away not only art treasures and goods, but also people. It is difficult to be sure how many people have been taken back into slavery, and hard to mark the bigger tragedy - that it is Freeborn citizens being taken as slaves to replace the slaves they so enthusiastically freed, or that some of those dragged back in chains to the salt mines of the Broken Shore are the self-same slaves that have only just been freed from bondage.
+
+### Game Information : Feroz
+
+The Grendel hold Oranseri and the Cazar Straits, and are three-tenths of the way towards capturing Fontargenta.
+
+They have also claimed both the offices of the [Broken Shore Bounty](../../mixed/titles/Broken_Shore_Bounty.md) and the [Scorrero Nets](../../mixed/titles/Scorrero_Nets.md). Both of these Bourse seats were due to be appointed during the Spring Equinox. They are no longer Imperial seats however and new title holders cannot be appointed. This season's ilium has been seized by the Grendel, but if there is the slightest silver lining it is that they will receive no more. Unfortunately, without the offices in Cazar and Oran, there is nobody to organise the collection of more ilium and as such *nobody* will get any ilium until either the offices are reclaimed... or the Grendel conquer enough of the Scorrero to be able to start panning for ilium of their own.
+
+While the Temple of Balo and the Black Bull is in occupied territory, the [Imperial Delegate to the Temple in Feroz](../../mixed/titles/Imperial_Delegate_to_the_Temple_in_Feroz.md) will be unable to access their [ministry](../../mixed/commissions/Ministry.md). The temple still stands - and is unmolested - and in the short term at least its conquest by the Grendel does not seem to have impacted Nemorian [enthusiasm for Imperial trade](../winds-of-fortune/The_risk-all_point.md#trade-with-nemoria). This outcome does have some implications for the previously released [wind of fortune](../winds-of-fortune/Idle_hands_are_the_devil-s_playthings.md#the-temple-of-balo-and-the-black-bull) regarding Synod responses to the works of the Asavean Architect.
+
+While there has been no immediate impact on [personal resources](../../out-of-character/rules/Resource.md#personal-resource) for characters based in Feroz this season, the widespread pillaging by the Grendel will cause every character in Feroz to lose 2 ranks from the production of their personal resource next season representing the damage done this season. If the Grendel continue to raid, that loss will continue until they stop or steps are taken to protect the citizens of Feroz from their attack.
+
+*[Image: Have you lived a lifetime today?](https://www.profounddecisions.co.uk/empire-wiki/File:The_Stars_Look_Down.jpg)*
+
+## The Stars Look Down
+
+### Winter and Sorrow
+
+Winter in Sermersuaq this year is harsh. The wind howls down from Tsirku bringing bruising hail and a heavy blanket of snow that smothers the ground while the northern lights dance balefully each night in the cold, clear skies.
+
+While the folk of Wintermark, and the Imperial Orcs, wrap their furs and leathers more closely around them, and don fur-lined boots and gloves, not every Imperial soldier is ready for the cold. Chilblains give way to cases of frostbite; patches of dead skin particularly visible on the faces of the Freeborn so far from their warm, dry plains. Marchers mutter about hard water and harder soil. At night, soldiers cluster close around the campfires for warmth, passing warmed spirits from hand to hand and relishing bowls of hot stew as much for the heat they give as for the sustenance they provide.
+
+There is life here - Sermersuaq is not a wasteland. Quick white foxes and hares race across the tundra ahead of the advancing armies, and birds wheel in the pale sky as the wind snaps at the bright banners. It surges unnaturally in every lake, and every bowl of snow melt - the power of [Spring magic](../../out-of-character/rules/Spring_magic.md) continues to flow through Sermersuaq. A few of the more pessimistic icewalkers worry what so many months of supernatural life might do to the plains, to the beasts, to the people.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Let's continue with our press against the Jotun by making a Steady Advance into Stark consolidating our position with a view to keeping the initiative in Sermersuaq.
+> >
+> > 'Axehind' Aedric Dunning, General of the Fist of the Mountain
+
+Whatever the eventual cost, for now the power of Spring breeds life. It thrums in every mouthful of water. It gathers around every wound, gently and carefully smoothing away any harm that is not fatal. Some Winterfolk grumble; the magic leaves few [scars](../nations/wintermark/Wintermark_culture_and_customs.md#scars) to mark the heroic battle against the Jotun. Most are simply thankful that they are able to keep fighting no matter how terrible the press of battle proves.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Next Season. One last fight in the cold of the north before we honour our Binding of thorns. During our steady conquest, we leave the gates of Atalaq towards Stark. Make the ice slick with Jotun blood, but allow the Jotun to retreat before the continued Imperial host.
+> >
+> > Lleu Tarw, General of the Black Thorns
+
+The Empire is not alone; as before the armies of [Eleonaris](../eternals/Eleonaris.md) march alongside mortal soldiers. Some fifteen thousand elfin knights of the Fields of Glory, their gold-and-red armour shimmering in the lingering daylight of the far north. They seem untouched by the snow, walking across its brittle surface leaving barely any mark of their passage, their hair and cloaks whipping about in the harsh north wind. They are full of fire, and the joy of battle, but some mark a level of melancholy among them that has not been seen before. In between the battles they are a little more reserved than they have been before, as if something they are not able to speak of is preying on their mind. "*It is the Queen,*" is all they will say. "*It is her mood.*"
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Atalaq is ours again. We have saved the storm and endured and that makes us mighty. Now we go forward together, to victory! For the Empire, for Wintermark, for the Green Shield army! And remember to fight with the honour you so deserve.
+> >
+> > Osric, General of the Green Shield
+
+For all their tinge of sadness, they fight fiercely against the Jotun. Their spirits rise when they spot counterparts among the western orcs. It seems that at least one of the Jotun armies fights alongside a contingent of knights from the Summer realm - hulking orc-like figures crowned with sweeping antlers. The Summer knights relish fighting against their peers, merry laughter ringing out above the sounds of battle as they seek each other out in the fray.
+
+Battle is delayed for several weeks after the Winter Solstice. Following the defeat of the queen and her champions during the Solstice, the armies camped around the Suaq city of Atalaq withdraw in an orderly fashion north and west. The last to leave is the queen herself, marching at the head of the Lion of the North. She pauses for a long moment to stare down at the armies of the Empire, preparing to claim the Suaq town. For a moment it seems she might raise her banner in a salute... but she does not, just turns and marches west at the head of her host.
+
+Atalaq is taken cleanly, the historic town unharmed. The Jotun have left their newest thralls behind - for the most part. Those Suaq who were captured when the town fell are a mixed group. Few meet the eyes of their cousins when the town is liberated. They were given the Choice, and they chose to be Thralls rather than fight or die. They have sworn oaths to serve the Jotun jarls - oaths they now break. Many will become [Frayed](../nations/wintermark/Wintermark_religious_beliefs.md#the-frayed) in the weeks to come. Some will flee their shame. A few will keep their heads high, knowing that they made their choice for the right reason and an oath given under duress is surely no true oath.
+
+Some Suaq have kept their word. They fight alongside the Jotun now, or accompany the orc armies as thralls. They keep their word, for all that it cost them everything. Their cousins among the free Suaq argue long into the night about their decision, whether it is wise and courageous, or cowardly and treacherous. They fall silent when others join them, even their fellow Winterfolk. It breeds a little dissension in the ranks of the Winterfolk armies.
+
+Sealtoq is liberated, the battle pauses. True to their word, the Jotun do not attack Atalaq for the rest of the Winter. They take up defensive positions - a great curve of spears arrayed across Sermersuaq, all pointed at the Empire's precarious foothold in the south. The Imperial armies regroup, scout, and launch an offensive west into Stark following the departed Jarl-of-Jarls, the Queen of Kalsea.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Summer Storm, we have spent the season sharpening blades and readying for war. Now is the time for us to test ourselves against the Jotun once again. We march to the aid of the Winterfolk, a steady conquest into stark as we meet the Jotun in honourable combat. They have had a taste of the Winter Sun's Strength but now we show them the true might of an Imperial Legion.
+> >
+> > Irontide Kragg, General of the Summer Storm
+
+The armies of Wintermark take great pains to fight with honour against their Jotun rivals. The Bloodcloaks in particular keep a keen watch to ensure their allies do not demean them or their cause with unworthy tactics. There are a few clashes between some of the Steinr in the army and the Freeborn of the Red Wind Corsairs, brought to an end when the scops point out that rather than looting the dead like maggots, the warriors of the Brass Coast capture the champions of their enemies and ransom them, a practice that is both heroic and honourable. Apart from this minor scuffle, the Empire armies are united in their will to defeat the Jotun and take Sermersuaq, but not at *any* cost.
+
+### Return to the Ford of Berusen
+
+Almost immediately the Empire faces resistance. To enter Stark from Sealtoq means capturing the thick corridor of land between the lakes, between Atkonaroq to the north and the Rikkivesi to the south. The Jotun are ready for the advance, a wall of steel across the land-bridge. They have barricades, rough palisades, fenced camps. Numbers are of little help to either side - unless one wishes to fight in the lakes the ability to strike against the foe is heavily restricted. This suits the Jotun - and many of the Winterfolk - just fine. They are able to look their enemy in the eye as they fight, hero to hero rather than army to army.
+
+At first, it is a stalemate. Empire and orc seem equally matched against one another. Then, day-by-day, camp-by-camp the Jotun are forced to concede ground. Night-by-night however a truce holds. It feels a little more official than before - as ghodi and healers move across the battlefields and search the rushes of the lakes to find the wounded and the dying and bring them succour, bobbing lanterns marking an intricate dance over the thin spit of land.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Now ends the winter of discontent, made glorious by the surge of spring. We march on Stark, Steady Conquering all flank three well, the Jotun will fight in the same old way and we will bear them in the same old way.
+> >
+> > Marius Woodville-Talbot, General of the Tusks
+
+In the end, the advantage comes thanks to the actions of a band of Imperial heroes, the perpetrators of a raid against the Jotun via the [Sentinel Gate](../world/Sentinel_Gate.md) during the Winter Solstice. Their action created an opening, a weakness that the armies are able to exploit, a way around the Jotun defences that begins a slow push westward. Over the course of several weeks, then, the Jotun are forced to retreat, and the fight comes once again to the Ford of Berusen.
+
+Last time the Empire and the Jotun clashed over this shallow waterway, the Empire was defeated. The enchanted water of the lakes ran red, and only the intervention of the magical hylje prevented the loss becoming a massacre. Last time, both armies were seeking to advance on the others. This time, however, the Jotun are on the defensive. The fighting over the last month has bought the orcs time to construct a wall along the western bank of the Ford - not an improvised barricade but a solid structure of stone and hard wood brought from the Jotun lands to the west. Alongside the banners of the Queen, and of the Kin of Narkyst, flutter the red-and-white banners of Jarl Derun Stonetower, leader and general of the Tower of the North, some of the finest siege engineers in a nation famed for its prowess with stone and iron. It provides a solid defence for the Jotun, and brings the Imperial advance to a grinding halt.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Now then my merry marchers, from the cursed woods of Alderley we march north to the tundra of Sermersuaq. Through Sealtoq and into Stark, against the massed Jotun horde. Take a steady advance against the foe, this fight is about the land of our allies, not the blood of our foes. We Marchers do not hold to the lofty ways of the Mark, but we shall show our defeated foe honest Marcher succour. There shall be no throat cutting of the injured and their dead shall be returned in cloths of Mitwold linen. Show them how we Marchers respect an honest foe, and let us send the Jarl of Kierheim our regards!
+> >
+> > William Talbot, General of the Drakes
+
+For the better part of a month, the Empire and the orcs are stalemated. The Jotun cannot push the Empire back, but neither can the Empire drive the orcs from their positions. As the days stretch on, frustration grows. It seems as if the Empire has made as much progress as it is going to; there is talk of drawing back and pushing instead into Tanikipari.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Capitalising on the heroic actions of the citizens who fought to secure Atalaq we will push on in Sermersuaq while the Marchers and Navarr defend our own homeland. We should take what we have learned in our battles and be daring in our actions.
+> >
+> > Vrael i Sol-Devorador i Erigo, General of the Red Wind Corsairs
+
+### The Battle on the Atkonaroq
+
+Then, after a week of bitter nights cold enough to freeze the breath in your mouth everything changes.
+
+There has been ice on the lake, for most of the campaign, but it has been thin and treacherous. Scouts from all the armies have made use of it, but it has been too thin to support armoured soldiers. On a particular evening, almost exactly midway between Winter Solstice and Spring Equinox, the commanders of the Red Wind Corsairs and the Fire of the South meet in private discussion. The next morning, their forces withdraw slightly eastward. There is muttering and grumbling among their allies; the Corsairs in particular seem to have been more interested in capturing and ransoming Jotun champions than in driving the orcs out of Sermersuaq.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > Soldiers of the Blood Cloak Army, we march again to take back our homes and protect our people. North to Stark, North to Victory. North to Virtue, for loyalty and Ambition. We stand ready to serve the Empire, to take further land in the North so that we may also protect our brothers and sisters in Liathaven and Segura in seasons to come. Now is our hour. Make it count.
+> >
+> > Lofyn Blood-cloak, General of the Blood Cloaks
+
+As the first probing strikes of the day begin, however, the Freeborn armies charge. Not toward the wall... but across the frozen surface of the lake. The Jotun are taken completely by surprise. Some ten thousand Freeborn, their numbers swollen by the Knights of Glory, flank the orc position to the north. There is chaos. The first to recover are the Green Shields - with a roar they join the Freeborn on the ice just as the orcs of the Howling Night emerge from their defences to meet the Freeborn charge. The ice is stained red with blood as the armies clash on the surface of the lake.
+
+Inspired, the rest of the Imperial force presses the orcs hard across the ford. It is impossible to say who first breaches the wall but within minutes that crack is torn open and the Empire's forces spill through onto the western banks of Berusen. The Jotun are forced to drop back, sounding the retreat as their wall falls. And as it falls, with a thunderous retort a great crack races across the frozen Atkonaroq, straight through the middle of the battle raging on the ice.
+
+It is but the first of many - the ice cracking and breaking and shearing into smaller and smaller chunks. Some make it back to the dubious safety of the shore - to the chaotic melee - while others continue to fight on the ice floes. The water is murderously cold - orc or human, few can survive its frigid embrace for long. Yet here, as before, the Empire is not without allies. From beneath the waters come the hylje, arrow-swift, catching as many of the fallen as they can and bringing them to shore, delivering them to the Bloodcloaks, before diving back into the waters to find more. If there is a sorrow, it is that they cannot tell the Imperial Orcs from the Jotun, and so rescue neither. Most of the casualties among the Summer Storm this season now lie at the bottom of the Atkonaroq, side by side in the darkness with the warriors of the west.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > My Fires, this is my first order to you so hear me now. We will commence a Steady Conquest into Stark. Fight with honour, fight as the controlled Glass I know is in your spirit and we will win!
+> >
+> > Aracelis I Erigo, General of the Fire of the South
+
+The Ford of Berusen falls to the Empire, and it is several days before the Jotun are able to regroup and reset their defence. The Empire conquers the entire land-bridge, securing it with armed camps of their own. As the Spring Equinox approaches, the momentum of their advance falters slightly. The Ford is taken, but the Jotun have not been broken. If anything, their defences are even more secure here in western Stark. Indeed, scouts report that while the Jotun have held the Empire at the ford, the bulk of the Tower of the North have been finishing the construction of a fortification along the southern shores of Lake Lansipari. While half their number, and the knights of the Summer realm who accompanied them, fought alongside their peers at the ford, the rest were putting the finishing touches to a castle that will make it even harder for the Empire to continue their conquest of the region.
+
+*[Image: Seems like a lifetime ago you could look with pride on your world of dreams](https://www.profounddecisions.co.uk/empire-wiki/File:Are_You_Under_The_Illusion.jpg)*
+
+### A Pause for Breath
+
+The fighting has been fierce, and while the Spring Magic of the Thule has preserved many lives, it cannot save everyone. Over two-and-a-half thousand Imperial soldiers have fallen. The Jotun have lost significantly fewer - less than two thousand by the estimation of the Black Thorns. The Empire has won - and thanks in no small part to the heroes who fought the Jotun during the Winter Solstice they are perhaps two fifths of the way towards claiming the whole of Stark. Some magicians express the opinion that without the aid of the Knights of Glory, the Empire would have made significantly less progress; the runesmiths scoff at these claims and say that the key factor was the presence of some eight thousand troops under the command of independent captains - heroes - mostly fighting alongside the Green Shield. More sober minds suggest that a major factor was the strategy of Wintermark - their commitment to fighting the Jotun with honour and focusing on defeating their enemies rather than simply killing them has helped swing the day in favour of the Empire - as well as continuing to remind the western orcs that the folk of Wintermark and the Jotun are more alike than they are different.
+
+Regardless, the Empire has won a victory here, and as the weather becomes warmer with the approach of Spring, there is muted celebration. Celebration tempered by the knowledge that with the completion of the new castle - the *Tusks of the Lion* - their task has become significantly more difficult.
+
+### Game Information : Sermersuaq
+
+The Empire has won in Sermersuaq, and made headway into Stark. They are now four-tenths of the way toward taking the region. Unfortunately, as the Spring Equinox approaches the armies become aware that the Jotun have completed a castle in northern Stark - the *Tusks of the Lion* - that will make it significantly harder to capture the region next season.
+
+### Participation: Sermersuaq
+
+The continued participation of the [Knights of Glory](../../mixed/magic/rituals/Knights_of_Glory.md) in the Sermersuaq campaign continues to provide inspiration, but the effect is a little more muted than it has been in previous seasons - perhaps due to the more restrained strategy of the Imperial forces.
+
+Any changeling character whose [military unit](../../out-of-character/rules/Military_unit.md) supported one of the three Wintermark armies or the two Freeborn armies - that is Green Shield, Fist of the Mountains, Bloodcloaks, Fire of the South, or Red Wind Corsairs may choose to begin the next event experiencing a [roleplaying effect](../../out-of-character/rules/Roleplaying_effects.md): *You are filled with confidence; nothing is beyond you if you put your mind to it. Now is the time to act, to pursue goals you have been neglecting. Anyone who questions your prowess must be taught a quick lesson about the foolishness of doubting you.* Such characters who also have the [hero](../../out-of-character/rules/Heroic_skills.md#hero) skill will have an *additional* hero point for the duration of the Spring Equinox event. Such characters may also use their experience of fighting alongside the knights of glory to permanently increase the strength of their [lineage](../../mixed/magic/lore/Lineage.md).
+
+Please bear in mind that these opportunities are *only* available to changeling characters whose military unit supported one of the four armies this downtime. You are free to roleplay you were present, as always, but you do not qualify for the additional hero point or the ability to increase your changeling lineage trappings.
+
+## Major Conjunctions
+
+On the run up to the Spring Equinox the civil service have been able to identify four major conjunctions of the Sentinel Gate. The Military Council will be able to select two of these opportunities to strike against the barbarians.
+
+The first conjunction will lead Imperial forces to **Lansipari Head** in central Tanikipari, Sermersuaq. Close to the shores of the western-most lake of the territory, the area has seen much thrall activity the past three months with supplies and wagons arriving here from Kalsea. The heroes of Anvil will be able to travel to this location on the Saturday or the Sunday of the equinox.
+
+The second conjunction opens to the ruins of the **Silent Stand** steading in West Ranging, Liathaven. This location has been the site of several battles with the Jotun in recent history, and could well do so again this gathering. Forces of the Empire can attempt this conjunction on either the Saturday or Sunday of the equinox.
+
+The third conjunction will take the heroes of Anvil to the **Pillars of the Osseini**, Cazar Straits, Feroz. A force of Grendel heavy infantry have been landed on the island to protect this unusual location from assault. An attack can be made here on either Saturday or Sunday of the equinox.
+
+| Nation | Force Weight |
+| --- | --- |
+| Brass Coast | 9 |
+| Dawn | 23 |
+| Highguard | 15 |
+| Imperial Orcs | 9 |
+| League | 10 |
+| Marches | 13 |
+| Navarr | 29 |
+| Urizen | 8 |
+| Varushka | 8 |
+| Wintermark | 41 |
+
+The fourth conjunction can be used to reach the **Twilight Way**, Ossuary, Spiral. Stretching across the Black Plateau oppressed tracts of Ossuary, this road travels high into the mountains, through the Twilight Gate, then down into Proceris, Zenith, along the route taken by the recent Druj invasion. This location can be reached on either the Saturday or the Sunday of the equinox. This location is under the oppressive effects of the [Black Plateau](../nations/the-league/Spiral.md#the-black-plateau). If this opportunity were chosen, those travelling would be subject to the powerful magics present in Spiral that amplify negative and aggressive emotions. These effects are explained in more detail [here](../winds-of-fortune/Point_of_the_spear.md#spiral).
+
+By the time the summit begins, the Civil Service will have completed reports for each of these conjunctions, which will be presented to the generals during the [muster](../../mixed/government/military/Muster.md). The final decision about which major conjunctions to exploit, and who will take part in the battles, is the heavy responsibility of the [Military Council](../../mixed/government/military/Military_Council.md) alone.
+
+### Force Weightings
+
+At this event, the best estimate of the fighting strength of each nation provided by the civil service is as follows. Each of the two battles must have at least 81 and at most 84 force weight sent on it.
+
+## Other Media
+
+The folk from [The Orcs Planet](https://www.youtube.com/channel/UCvb6XQB4jNOwd6hn0plMpIw/featured) recorded audio versions of these winds of war which are available to watch on YouTube: [The Mission](https://youtu.be/oj4IQ49K0kk), [the Pass](https://youtu.be/YD_mjBJVJkU), [Carve away the Stone](https://youtu.be/_3UN4xUYEEA), [Good News First](https://youtu.be/wcL3RfRM9RQ), [Available Light](https://youtu.be/ROoJJvblC3w), [Bravado](https://youtu.be/kQ9B3gwC3D4), [Spindrift](https://youtu.be/p2L46lUERuo), and [The Stars Look Down](https://youtu.be/3SjO9jMZavI).
+
+Autumn Bailey has also created audio recordings: [The Mission](https://youtu.be/HBinL7OlL-A)
+
+---
+
+Categories: [Recent History](../../indexes/by-category/Recent_History.md), [383YE Spring](../../indexes/by-category/383YE_Spring.md), [Military Council](../../indexes/by-category/Military_Council.md), [Winds of War](../../indexes/by-category/Winds_of_War.md)

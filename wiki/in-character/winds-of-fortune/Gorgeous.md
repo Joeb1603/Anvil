@@ -1,0 +1,132 @@
+---
+title: Gorgeous
+source: https://www.profounddecisions.co.uk/empire-wiki/Gorgeous
+class: in-character
+topic: winds-of-fortune
+categories:
+- Winds of Fortune
+- 384YE Winter
+- Recent History
+event: 384YE Winter
+last_edited: '2026-03-19T15:05:53Z'
+revision: 135871
+---
+
+# Gorgeous
+
+*[Image: Trade in remarkable items, and making things other peoples' problem, are the life blood of the Empire!](https://www.profounddecisions.co.uk/empire-wiki/File:Trinkets_and_Bees.jpg)*
+
+## Overview
+
+With the Winter Solstice drawing close, Imperial movers and shakers set off for [Anvil](../world/Anvil.md). League guilds and Freeborn families, Winterfolk halls and Varushkan vales, they all make their way toward the beating heart of the Empire for a weekend of politics and celebration, argument and discourse. The roads are also busy with the kind of people these gatherings always attract - people with goods to sell, or problems to resolve.
+
+This season there are traders from the Sarcophan Delves and Axos, trading horribly cursed curios and horribly delightful concoctions; a couple of exiled Faraden nobles who want help cursing each other; a group of Grendel priests from the Broken Shore keen to see the sights and talk to priests; a puzzle or possibly several puzzles, behind which is locked... presumably more puzzles but at some point a reward; some Iron Confederacy siblings looking to make money by daring more than their competitors; and *maybe* Krampus keen to visit curses and goat-bear-man benedictions on the folk of Wintermark.
+
+There's also a round-up of affairs at the Bourse, both the [weirwood](../../mixed/economy/Weirwood.md) seats that will be auctioned, and a number of other titles that will be assigned via the [Tally of the Votes](../../mixed/economy/Tally_of_the_Votes.md).
+
+## A Lucrative Trade in Horribly Cursed Curios
+
+- **Members of the Alders-Baart family of the Sarcophan Delves are making another visit to Anvil**
+- **They bear a number of cursed items which they hope to sell to Imperial collectors**
+- **These *Beggar Kings* aim to arrive at the Hub shortly after 4:30 on Saturday afternoon.**
+
+[Last season](The_long_bench.md#accursc3a8d-curios) several representatives of the Alders-Baart family made the journey from their native [Sarcophan Delves](../foreign-nations/Sarcophan_Delves.md) to Anvil. They are not popular guests; they have already gained a bad reputation among innkeepers and the proprietors of wayhouses along the route between [Crown's Quay](../nations/highguard/Necropolis.md#crowns-quay) and Anvil. Misfortune, foul weather, broken crockery, and other frustrations follow in their wake and it appears this is more than just coincidence. Their bulky baggage apparently contain *more* cursed articles which they plan to sell to Imperial collectors. Most sensible people are surprised to learn there is apparently a market in items that bring bad luck and other horrible maledictions down on their owners, but there is no accounting for taste.
+
+These Sarcophan merchants are returning to Anvil to renew their acquaintance with those they traded with previously, and remain keen to speak with traders, magicians and anyone with an interest in buying cursed objects. They (and their sack of woe) are expected to arrive in Anvil on Saturday afternoon, and present their wares at the Hub around half-past-four. The Civil Service has expressed some mild concern around this plan given that after their last visit there was an unpleasant leak that nearly ruined a number of important documents, and also all the milk turned sour.
+
+*[Image: Evander Slak has been reconciled with the Conclave, and is no longer considered to be a dangerous menace.](https://www.profounddecisions.co.uk/empire-wiki/File:Sorcerer.jpg)*
+
+## A Different Evander
+
+- **Entrepreneurs from Axos are en route to Anvil.**
+- **They aim to set up shop outside the Forge on Saturday afternoon from around 13:30**
+
+*Evander and Associates* are a group of Axou traders hailing from the Tunnels of Kaban in western [Axos](../foreign-nations/Axos.md). They have been regular attendees of the Anvil summits for the better part of a year now, and are intending to return for the Winter Solstice. Reports suggest the apothecaries will be selling their now familiar concoctions (by which they almost certainly mean drugs), as well as taking orders for larger business deals. Evander has been eager to tell any who ask that the group will arrive at Anvil on Saturday afternoon, and will be trading outside the Forge from 1:30pm.
+
+There is a minor incident where a misfortunate mishearing leads several people to the misunderstanding that these innocent Axou traders are an entourage for notorious former [sorcerer](../../mixed/government/conclave/Sorcery.md) **Evander Slak** on their way to Anvil to exact vicious magical vengeance, and a demand that he be banned from the Forge. The matter appears to have been sorted out now, however, and calmer heads have pointed out that the Conclave in fact [reconciled](../conclave-sessions/384YE_Summer_Solstice_Conclave_sessions.md#reconciliation-evander-slak) with Slak during the Summer Solstice. Neither the Kabani traders nor the widely feared but now entirely legal League magician have been barred from the Forge.
+
+## Curses at Dawn
+
+- **A traditional Faraden curse duel will take place on Anvil from 5:00pm on Saturday evening, with spectators encouraged to attend this demonstration of foreign tradition**
+- **Covens who are interested in displaying their skill in the duel are encouraged to meet the duellists at the Hub at 2:00pm on Saturday afternoon**
+
+*Sarnai Zaya*, aide to the late *High Lady Maral Zaya* of [Faraden](../foreign-nations/Faraden.md) has announced a rare spectacle will take place in Anvil during the coming summit. A Faraden curse duel. Apparently two disgraced Faraden nobles will fight for the right to return to their home and their title in a magical challenge that will take place at 5pm on the Saturday of the summit. It's not entirely clear why the duel is taking place at Anvil, but as near as anyone can make out, the two nobles were exiles from Faraden for some undisclosed misdemeanour and only the one who wins the duel is allowed to return on pain of death.
+
+In the afternoon before the duel commences, each duellist will seek a [coven](../../out-of-character/rules/Bands.md#covens) to join forces with them for the duration of the duel. The role of each coven will be to cast a ritual [curse](../../out-of-character/rules/Curse.md) to be delivered to the opposing duellist. Any who wish to support the duellists and demonstrate their magical might should meet them at the hub at 2pm on Saturday afternoon. They have each promised to generously reward the coven which supports them. Once an agreement is reached (presuming it is), all participants will meet at the Glory Square in the [Dawn](../nations/dawn/Dawn.md) camp at 5:00pm on Saturday evening. If the Glory Square is unavailable, they will move to an alternative space after gathering there. Sarnai encourages Imperial citizens to watch this display of Faraden culture which, they say, is an excellent opportunity to demonstrate one's [Pride](../religion/Pride.md) and "*witness a stellar entertainment*". There's some scepticism about the latter, but arguably any kind of challenge in the Glory Square is an opportunity for entrepreneurs to sell hot food to the audience, or hobnob with those drawn to see the Empire's potent cursemongers in action.
+
+## Questioners of Attar
+
+- **A small group of Grendel questioners are visiting Anvil as guests of the imperial Synod**
+
+During the Autumn Equinox, **Clarice Novarion** [extended an invitation](../synod-judgements/384YE_Autumn_Equinox_Synod_judgements.md#judgement-164) to a group of [Grendel](../barbarians/Grendel.md) priests to visit Anvil during the Winter Solstice. The Empire is still [at peace](../senate-motions/Ratify_treaty_with_the_Grendel_Autumn_383YE.md) with the Grendel, for another season or two at least, and so there should be no bar to these "questioners" coming to Anvil. By all accounts a small group of bickering orcs arrived at [Crown's Quay](../nations/highguard/Necropolis.md#longbeach) last month, before embarking on a circuitous route to Anvil that took them via both [the Necropolis](../nations/highguard/Necropolis.md#the-necropolis) and , [the City of Bastion](../nations/highguard/Bastion.md#bastion2c-the-white-city) where they apparently spent some time taking in the various tombs, monuments, and basilica, including a visit to both the cenotaph of [Emperor Barabbas](../history/Emperor_Barabbas.md) and the [Basilica of Seven Doors](../../mixed/titles/Speaker_of_the_Highborn_Assembly.md#basilica-of-seven-doors).
+
+There are apparently no more than four of them, each allegedly a representative of a sect of religious orcs. They arrived in [Casinea](../nations/highguard/Casinea.md) several days ago, and have rented the entire top floor of the *Sun and Sand Inn* in [Outer Anvil](../world/Anvil.md#outer-anvil) where they are apparently preparing themselves for "*rigorous philosophical discussion*" with the Empire's Synod. The Civil Service have been informed that they will be expecting to meet with Imperial priests at "*home of diplomacy in the Empire, the Imperial Senate*", after seven in the evening on Saturday.
+
+## The Will of Flavia
+
+- **An Urizen seer has left an undisclosed item to whoever can solve a series of puzzles, cyphers, and riddles**
+- **A stack of copies of the puzzles will be left in the Hub at the start of the summit**
+
+*Flavia of Crystal Hall* was once quite active in the politics of the Empire, a regular attendee of the summits at Anvil. After the majority of her [spire](../nations/urizen/Spire.md) died alongside [Empress Britta](../history/Empress_Britta.md), however, she retreated from public life. For the last decade or so she has not left her apartments at the [Lyceum](../../mixed/titles/Dean_of_the_Lyceum.md#the-lyceum) in [Madruga](../nations/the-brass-coast/Madruga.md) where she taught students and undertook personal studies of both [Day lore](../../out-of-character/rules/Day_magic.md) and [Night lore](../../out-of-character/rules/Night_magic.md). Her body was found in the [Quiet Annexe](../../mixed/titles/Dean_of_the_Lyceum.md#the-quiet-annexe) shortly after the Autumn equinox. There is no suggestion of foul play - Flavia was not a young woman and seems to have passed away peacefully among the night flowers, rainbow streamers, and gentle wind chimes.
+
+Over the years Flavia had collected a vast collection of curiosities from around the Empire and beyond. She has left the majority as a bequest to the surviving members of her spire, to be sold to help those returning to [Zenith](../nations/urizen/Zenith.md). There is, however, one notable exception, a clause in her will that prompts some interest in the wider world. Her executor and old friend *Advocatus*, now [arbiter](../nations/urizen/Arbiter.md) of Crystal Hall, has indicated that the old scholar has bequeathed one undisclosed item to whichever Imperial citizen can solve a series of puzzles, cyphers, and riddles she has prepared to test their insight and cleverness.
+
+Advocatus of Crystal Hall has paid a number of Navarr to travel to various places of learning around the Empire to distribute the first of these puzzles, and has announced that a stack of copies will be left in [the Hub](../world/Anvil.md#the-hub) at Anvil for the start of the summit. Presumably these pamphlets will contain further details of the competition. In setting out the terms Flavia has apparently noted her high regard for the [eternal](../eternals/Eternal.md) [Roshanwe](../eternals/Roshanwe.md), and the notion that the satisfaction of finding a solution is an end unto itself, but there is apparently an actual prize for whoever can complete her puzzles. The nature of the prize, however, is unclear, and likely to remain a mystery until the competition is over. There is of course plenty of speculation that it may be a unique item of historical or magical significance; Flavia's collection was the envy of her fellow professors at the Lyceum.
+
+After the Winter Solstice copies of Flavia's Will were made available across the Empire to those who seek puzzles in [Flavia's Will](https://www.profounddecisions.co.uk/empire-wiki/File:Flavia%27s_Will.pdf)
+
+## Three Sibling Traders
+
+- **A trio of Suranni siblings are planning to make the long trek to Anvil during the Winter Solstice**
+- **Merchants by trade, they are apparently keen to sell metal and purchase Imperial goods and luxuries**
+
+Those few Suranni merchants who come to the Empire are content to trade through the [Suranni embassy](../nations/the-league/Sarvos.md#suranni-embassy) in [Sarvos](../nations/the-league/Sarvos.md). They sell their goods, purchase some Imperial merchandise, and return swiftly to their ships. Some land trade used to pass through [Bramar](../nations/the-brass-coast/Feroz.md#fontargenta) in [Feroz](../nations/the-brass-coast/Feroz.md), but with the [Grendel](../barbarians/Grendel.md) occupation, the Freeborn town no longer provides access to the Empire. With the situation in [Segura](../nations/the-brass-coast/Segura.md) settling down following the defeat of the Lasambrian [Jotun](../barbarians/Jotun.md), a couple of caravans from the Iron Confederacy explore possible trade links in [Anozeseri](../nations/the-brass-coast/Segura.md#anozeseri) and [Anudzjasse](../nations/the-brass-coast/Segura.md#anduzjasse). Unfortunately the lack of and the ongoing [sanctions](../../mixed/government/senate/Tariffs.md#sanctions) make such trade broadly unappealing to most Suranni merchants.
+
+But not all. *Frisée Larbin*, *Tondere Larbin*, and *Laurent Larbin* are three rival siblings, each of whom makes a living as a merchant in [Shavronne](../world/Bay_of_Catazar.md#shavronne) - one of the northern territories of the [Iron Confederacy](../foreign-nations/Iron_Confederacy.md). By all accounts the three have put their former rivalry aside and come together in a cautious alliance - *Three Sibling Traders* - with the intention of bringing their wares to Anvil. Rather than do their deals in Sarvos like everyone else, they are risking a visit to the beating heart of the Empire - to Anvil - in the hope that they will be able to sell directly to the kind of powerful people prepared to pay a premium for the wares they offer. Information suggests they are selling [metals](../../out-of-character/rules/Materials.md#metals) mined out of the hills of Shavronne, and while they'll accept Imperial coin, they're also keen to secure the kinds of rare items and luxuries that are hard to get in the Iron Confederacy. One of the three - Frisée - has apparently been making some not so subtle enquiries about getting their hands on [liao](../../mixed/religion/Liao.md) or "*other Imperial narcotics*" - which are of course illegal in Suranni lands. It's unclear if their siblings are aware of this particular interest on their partner's behalf.
+
+They've had a long journey north from Sarvos, and are expected to arrive at Anvil at around half-past-nine on Friday night. They will presumably either seek out the [Ambassador to the Iron Confederacy](../../mixed/titles/Ambassador_to_the_Iron_Confederacy.md) or head to the Hub, although they might make their way to the [Dawnish](../nations/dawn/Dawn.md) camp - in previous years there has been some successful trade between Suranni traders and Dawnish [yeofolk](../nations/dawn/Yeofolk_of_Dawn.md).
+
+## Wither Krampus?
+
+- **Given recent events it's not clear if Krampus is planning to attend the Winter Solstice celebrations this year**
+- **Traditionally they would appear in the Wintermark camp after dark on Saturday night**
+
+During the Winter Solstice a year ago, Eisa Winterborn and her allies [collapsed the western end](../winds-of-war/383YE_Winter_Solstice_winds_of_war.md#battle-of-clattering-gulley) of [Pakaanan's Pass](../nations/imperial-orcs/Skarsind.md#pakaanans-pass) in [Skarsind](../nations/imperial-orcs/Skarsind.md). The destruction not only sealed the passage between Skarsind and [Sermersuaq](../nations/wintermark/Sermersuaq.md), but the resulting avalanches also washed way both the [Clattering Gulley](../../mixed/government/military/Skarsind_spoils_of_war.md#the-clattering-gulley) and the [Krampushal](../nations/imperial-orcs/Skarsind.md#krampushall). The Krampus is a peculiar spirit that visits the people of [Wintermark](../nations/wintermark/Wintermark.md) during the Winter Solstice. Equal parts malevolent and benevolent, it visits curses on those who feel they deserve them, and generally causes a degree of chaos and disruption in the Wintermark camp at [Anvil](../world/Anvil.md) each year.
+
+The spirit is known to have some kind of connection to the [Jotun](../barbarians/Jotun.md) - indeed last time there was some confusion with the entity it hinted that it would be equally happy with a home among the western orcs as with the people of Wintermark. Certainly in the run-up to the collapse of Pakaanan's Pass, the spirit met with the yegarra under Eisa Winterborn and her Jotun allies and seemed unconcerned about their plans. During the year since the destruction of its hall, it has made no effort to contact the Winterfolk and demand a new one, so there is growing worry that it has relocated to Jotun lands - perhaps to [Skallahn](../barbarians/Skallahn.md). What this means for the continued relationship with the Winterfolk is unclear. It remains to be seen if the spirit will visit Anvil this year; perhaps the [egregores](../../out-of-character/crew/Egregores.md) will know more?
+
+## Imperial Auction
+
+- **The Public Auction takes place at two in the afternoon on Saturday at the Senate Building**
+
+The six Imperial [weirwood](../../mixed/economy/Weirwood.md) seats - [Canterspire Circle](../../mixed/titles/Canterspire_Circle.md), the [Great Forest at Reikos](../../mixed/titles/Great_Forest_at_Reikos.md), the [Golden Trees of Seren](../../mixed/titles/Golden_Trees_of_Seren.md), the [Heartwood of the Great Vale](../../mixed/titles/Heartwood_of_the_Great_Vale.md), the [Hunt of Alderei the Fair](../../mixed/titles/Hunt_of_Alderei_the_Fair.md), and the [Weirwater Vales](../../mixed/titles/Weirwater_Vales.md) - will be auctioned. Any Imperial citizen can hold such a title, if they can raise sufficient capital. There is some interest as to whether the outcome of [questions around the Great Forest Orcs and the Navarr](You_belong_with_me.md#a-home-in-the-empire) may affect interest in the Golden Trees and the Heartwood. (**OOC Note:** Each seat has a page on the wiki that includes details of how much they were auctioned for during previous events).
+
+The Winter summit sees the first auction of the [Overseer of the Gloaming Road](../../mixed/economy/Overseer_of_the_Gloaming_Road.md), since changes in [Faraden](../foreign-nations/Faraden.md) have resulted in it being amended to be an Imperial title. Under normal circumstances, it is auctioned during the Autumn Equinox, meaning that whoever pays for the title is receiving a slightly foreshortened term. The title [Prime Factor of the Pallas Docks](../../mixed/titles/Prime_Factor_of_the_deBruin_Docks.md) is also auctioned but currently does not produce any weirwood; it's not clear *anyone* will want to pay for a ministry that does not produce any actual wealth.
+
+Both [Bearer of an Imperial Wayleave](../../mixed/economy/Bearer_of_an_Imperial_Wayleave.md) titles - special [Imperial titles](../../mixed/titles/Imperial_title.md) that allow the holder to [commission](../../mixed/commissions/Commission.md) a [sinecure](../../mixed/commissions/Sinecure.md), [ministry](../../mixed/commissions/Ministry.md), or [great work](../../mixed/commissions/Great_work.md) before the end of the Solstice - will be offered for auction. This will also be the first time the [rogue declaration](../../mixed/titles/Arbiter_of_the_Rogue_Declaration.md#rogue-declaration) will be auctioned for crystal mana. The [Arbiter of the Rogue Declaration](../../mixed/titles/Arbiter_of_the_Rogue_Declaration.md) gains authority to raise a single [declaration](../../mixed/government/conclave/Declaration.md) of their choice to the [Conclave agenda](../../mixed/government/conclave/Conclave_session.md#setting-the-agenda) for the Saturday evening session. Civil Servants will be able to advise whoever purchases the title as to how they can use it.
+
+The public auction will also see the [Prosperity](../religion/Prosperity.md) dose of [true liao](../../mixed/religion/Liao.md#true-liao) auctioned, with all funds raised going to the [Synod](../../mixed/government/synod/Synod.md) [virtue fund](../../mixed/government/synod/Rewarding.md).
+
+## Tally of the Votes
+
+- **The tally of the votes begins on Saturday morning and closes on Saturday afternoon**
+- **Any eligible citizen can cast their vote by finding an Agent of the Bourse in the civil service Hub near the centre of the Anvil**
+
+In addition to the Imperial positions offered for public auction, there are a number of national positions that are available to be appointed during the coming Summit. In each case, any citizen who controls an appropriate [personal resource](../../out-of-character/rules/Resource.md#personal-resource) is eligible to cast their vote for their preferred candidate. Voting opens on Saturday morning and closes Saturday afternoon around 4pm, shortly after the [Auction of the Seats](../../mixed/economy/Auction_of_the_Seats.md) is completed.
+
+One national Bourse seat is due to be appointed this season: Navarr [herb garden](../../out-of-character/rules/Herb_garden.md) owners have the opportunity to determine who will control the [Thimble](../../mixed/titles/Thimble.md) for the coming year.
+
+In addition to the weirwood seat, this winter will see the appointment of a number of other titles.
+
+- [Dawn](../nations/dawn/Dawn.md) citizens who command military units will be able to select the first [Reeve of Boar's Market](../../mixed/titles/Reeve_of_Boar-s_Market.md) ([ideally a yeofolk](../../mixed/titles/Reeve_of_Boar-s_Market.md#appointment))
+- [Imperial Orcs](../nations/imperial-orcs/Imperial_Orcs.md) will determine the new holder of the [Four Seasons' Boneweaver](../../mixed/titles/Four_Seasons-_Boneweaver.md), and the [Preceptor](../../mixed/titles/Preceptor_of_the_Skarsind_College_of_Warcasting.md) of the expanded College of Warcasting. Appointment is determined by Imperial Orcs who control a [military unit](../../out-of-character/rules/Military_unit.md), and the number of votes they receive depends not only on the size of the unit but on how many times it has supported an [Army](../../out-of-character/rules/Army.md) in the last year.
+- [League](../nations/the-league/The_League.md) [business](../../out-of-character/rules/Business.md) owners will be able to appoint the first ever [Chair of the Wolf](../../mixed/titles/Chair_of_the_Wolf.md), the new title that has the power to commission structures in any of the four cities. They also have a chance to appoint a new [Northbound Trademaster](../../mixed/titles/Northbound_Trademaster.md) following the resignation of the previous holder (they will hold the title only until Summer Solstice when the title is normally appointed).
+- [Marcher](../nations/the-marches/The_Marches.md) [farm](../../out-of-character/rules/Farm.md) owners will appoint both the [Bailiff of the Grand Market](../../mixed/titles/Bailiff_of_the_Grand_Market.md) and the [Steward of Good Leaf Gardens](../../mixed/titles/Steward_of_Good_Leaf_Gardens.md)
+- [Navarr](../nations/navarr/Navarr.md) herb garden owners will also appoint the [Broker of the Invisible Cord](../../mixed/titles/Broker_of_the_Invisible_Cord.md), who controls a ministry providing access to weirwood
+- [Varushkan](../nations/varushka/Varushka.md) [mine](../../out-of-character/rules/Mine.md) and [forest](../../out-of-character/rules/Forest.md) owners have a say in who will become [Warden of the Trees and Hills](../../mixed/titles/Warden_of_the_Trees_and_Hills.md), the [Harbourmaster of the Semmerlak](../../mixed/titles/Harbourmaster_of_the_Semmerlak.md), and the [Overseer of the Westward Road](../../mixed/titles/Overseer_of_the_Westward_Road.md)
+
+In each case, any Imperial citizen of the appropriate nation can be appointed to hold the title - not just those eligible to vote.
+
+---
+
+Categories: [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md), [384YE Winter](../../indexes/by-category/384YE_Winter.md), [Recent History](../../indexes/by-category/Recent_History.md)

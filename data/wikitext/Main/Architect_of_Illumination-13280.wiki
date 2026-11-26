@@ -1,0 +1,25 @@
+==Overview==
+{{CaptionedImage|file=Lightstones.jpg|align=right|caption=The lightstones of Urizen are highly sought after.|width=400}}
+The Architect of Illumination is an Imperial title [[Construct House of Illumination and Light Market|created]] by '''Dima Vasilyevna Novosad''', as [[Master of the Koboldi]] during the Winter Solstice 385YE. The inspiration for the House of Illumination was spearheaded by the Varushkan Assembly's call to action to dedicate the builders of [[Bredavoi_Emissary#The_Deep_Chamber|the Deep Chamber]].
+__NOTOC__
+==Responsibilities==
+The Architect has a responsibility to seek closer trade ties with Varushka and find other markets for Urizen illumination tools. If the House of Illumination, its workers, or those who trade there were threatened in any way, it would be the responsibility of the Architect to deal with those threats.
+
+==Powers==
+===Portion of Trade===
+The Architect gains custodianship of a [[sinecure]]. Each season, they receive 10 crowns, a portion of the trade in the lightstones and other sources of illumination from the House. In addition,  they receive two magical items that relate to light and illumination each year: a [[Fireglass]] at the Spring Equinox; and a [[Brazier of Benediction]] at the Autumn Equinox.
+
+===Wealth of the House===
+The House of Illumination is also a [[great work]] that provides wealth to every [[business]] in Redoubt and Morrow owned by a citizen of Urizen. The season they are appointed, the Architect of Illumination can make an announcement in the Imperial Senate to declare whether the traders of Urizen wish to be paid in coin or goods for their lightstone. 
+
+If they announce coin, then the business owners will receive 36 extra rings each season. If they announce goods, then each business will receive two random [[Materials#Metals|ingots]] each season.
+
+No voting is possible by the Senate at this point, as the power has been delegated to the Architect of Illumination. The [[Synod]] may, however, choose to exercise their [[veto]] over the Architect's decision.
+{{CaptionedImage|file=Felix of the Wise Citadel.jpg|caption='''Felix of the Wise Citadel''', Architect of Illumination|align=left|width=400}}
+===Appointment===
+This title is appointed during the Winter Solstice each year. The Architect of Illumination is appointed by citizens of Urizen who control [[mana site|mana site]] [[Resource#Personal_Resource|personal resources]] through the [[Tally of the Votes]]. The more improved a mana site an individual controls, the more votes they can allocate in support of a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only an Urizen citizen may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Architect_of_Illumination}}
+{{Responsibilities Expectation}}
+[[Category:Title]][[Category:Bourse]][[Category:Urizen]]

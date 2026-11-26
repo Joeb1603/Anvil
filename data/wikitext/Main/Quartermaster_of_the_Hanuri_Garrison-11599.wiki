@@ -1,0 +1,20 @@
+__NOTOC__
+==Overview==
+The Quartermaster of the Hanuri Garrison is an [[Imperial title]] [[385YE_Summer_Solstice_Senate_sessions#Construct_Garrison_of_the_League|announced]] by '''Elsha Bertolf''', as [[Chair of the Wolf]] in Summer 385YE. The position of Quartermaster of the Hanuri Garrison is a [[sinecure]], requiring minimal responsibility but offering a regular income of coin.
+
+The Garrison of the League is in the region of [[Temeschwar#Hanuri|Hanuri]], [[Temeschwar]].
+
+==Responsibilities==
+The Quartermaster of the Hanuri Garrison has a responsibility to protect the Garrison of the League. If it were to be threatened in any way, it would be the responsibility of the Quartermaster to deal with those threats.  Likewise, if any [[opportunity]] relating to the House presented itself, they would make any decisions needed to take advantage of it.
+
+==Powers==
+===Dues and Fees===
+The Quartermaster of the Hanuri Garrison receives an income of 216 rings each season from the Garrison of the League.
+==Appointment==
+The Quartermaster of the Hanuri Garrison is appointed during the Spring Equinox each year. It is selected by unanimous decision of the [[general|generals]] of [[the League]]. If a unanimous decision cannot be reached, the title may be appointed by the [[Military Council]] instead.
+
+The title can be held by any League citizen. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the League [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Quartermaster_of_the_Hanuri_Garrison}}
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:The League]]

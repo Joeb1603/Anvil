@@ -1,0 +1,46 @@
+==Overview==
+Constructed [[Construct_Kruidenkenner_warehouse|by order]] of the [[Senate]], work was completed on this set of dedicated docks shortly before the Summer Solstice 381YE. The Kruidenkenner are [[Sarcophan Delves|Sarcophan]] masters of herb lore and the [[Surgical skills#Apothecary|apothecary]] arts, eager to establish a presence in the Empire; much of the initial negotiation was overseen by the [[Ambassador to the Sarcophan Delves]].
+
+The cost to purchase herbs from the Kruidenkenner was increased by roughly a fifth shortly after the Spring Equinox 387YE, as a result of [[Waiting_for_the_worms#Passing_Costs_Along|ongoing issues]] with Asavean piracy. Shortly before the Summer Solstice 387YE, the Sarcophan put into place the "''Pax Sarcophan''"; a [[Can%27t_give_everything_away|commitment]] to keep the oceans free of piracy on merchant vessels, and an ultimatum to every other nation on the Seven Seas. By the start of the Autumn Equinox 388YE, the price for purchasing Sarcophan goods returned to what it was before the Asaveans started their piracy.
+
+==Responsibilities==
+The Kruidenkenner trademaster is expected to oversee the trade of herbs between the Sarcophan guild and the Empire. If the [[#The Kruidenkenner Magazijn|Kruidenkenner ''magazijn'']] were ever directly threatened, the trademaster would be responsible for dealing with those threats - but also for making decisions about any [[opportunity]] related to the docks. The continued operation of the ''magazijn'', and thus the ministry, requires that relations between the Empire and Sarcophan remain cordial - the trademaster has a vested interest in ensuring friendship between the two nations continues.
+
+==Powers==
+===Ministry===
+<div style="float:right; width: 400px; clear: right; margin-left: 10px;">
+<table style="width:400px; float: right; margin-left:10px;" class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightYellow;">'''Cerulean Mazzarine'''</td>
+<tr><td>216 rings</td><td>12 cerulean mazzarine</td></tr>
+<tr><td>408 rings</td><td>24 cerulean mazzarine</td></tr>
+<tr><td>592 rings</td><td>36 cerulean mazzarine</td></tr>
+</table>
+<table style="width:400px; float: right; margin-left:10px;" class="mw-collapsible mw-collapsed"><tr><td colspan="2" style="background-color: LightYellow;">'''Herbs'''</td>
+<tr><td>140 rings</td><td>16 random herbs</td></tr>
+<tr><td>340 rings</td><td>33 random herbs</td></tr>
+<tr><td>700 rings</td><td>50 random herbs</td></tr>
+</table></div>
+As a [[ministry]], the title of Kruidenkenner Trademaster allows the holder to purchase quantities of [[Cerulean Mazzarine|cerulean mazzarine]] at a set price. The Trademaster spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+===The ''Kruidenkenner''===
+In Autumn 383YE, the Senate chose to [[Expand_the_Kruidenkenner_Magazjin|expand]] the ''Magazjin''. As a consequence, the Sarcophan merchant-herbalists have made even more of their merchandise available to the Trademaster at what they consider ''reasonable prices''. This additional track would remain available as long as the Empire's good relations with the ''Kruidenkenner'' and the Delves continue.
+
+==Appointment==
+This title is auctioned during the Spring Equinox. 
+
+Any Imperial citizen can participate in the auction and hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+{{RecentElections|Kruidenkenner_Trademaster}}
+==The Kruidenkenner Magazijn==
+Built at [[Necropolis#Longbeach|Crown's Quay]], on Longbeach, in [[Necropolis]], the Kruidenkenner ''magazijn'' is a sturdy weirwood warehouse in the Sarcophan style, around which cluster a number of smaller buildings - a residence for the visiting merchants and a small office for overseeing day-to-day business. While the Trademaster receives reasonable deals on the purchase of cerulean mazzarine, the Kruidenkenner also use it as a base of operations for their own trades within Imperial borders - buying and selling herbs, potions, and drugs in Necropolis and much of the southern Empire.
+
+In Autumn 383YE, the Imperial Senate voted to [[Expand_the_Kruidenkenner_Magazjin|expand]] the ''Magazijn'', creating new opportunities for Sarcophan merchant-herbalists to sell their product to the Trademaster.
+
+<box>'''The Kruidenkenner'''<br>These expert Sarcophan herbalists and apothecaries have made some additional agreements with the Imperial Ambassador that are worth reiterating. They have agreed that they will not use their Imperial warehouse to trade with any nation the Empire is at war with, nor trade goods purchased in the Empire to ports belonging to such people. <!--They understand that this will restrict them from trading with the [[Grendel]], but have little contact with other barbarian [[orc]] nations. -->
+
+
+They have received assurances in return that the Empire agrees to give them a "grace period" of one season between declaring war on someone and the expectation they will cease trading. They have also made it clear that they reserve the right to end the arrangement with the Empire - giving up their trade enclave - with a season's notice, should they wish to do so.
+
+In both cases it would be the responsibility of the Kruidenkenner Trademaster (or at a pinch the [[Ambassador to the Sarcophan Delves]]) to deal with such developments. A suitably worded [[Call Winged Messenger|winged messenger]] to ''Bedelaar Huisbaas Annike, The Tower of Crows, Sarcophan, Sarcophan Delves ''would be sufficient to discharge this obligation.</box>
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Bourse]]
+{{Sarcophan Links}}

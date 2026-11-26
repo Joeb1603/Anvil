@@ -1,0 +1,3 @@
+* '''Form:''' [[Magic items#Magic Standards|Magical standard]]. The phys-rep requirements for a magical standard are more stringent than those of similar items. You must be bearing this banner aloft to use its magical properties.
+[[Category:Magic Items]]
+[[Category:Magic Standards]]

@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Proposed: Karsk, Seconded: Karov">To raise the third army of Varushka, reborn from losses on the Eastern front</quote>
+==Overview==
+* Raises an [[Army]] in Karov
+* Passed
+
+==Date==
+* Winter 386YE
+
+==Cost==
+* Standard costs apply
+* 200 mithril
+* 75 thrones
+* Twelve months to complete
+
+==Progress==
+{{CommissionProgress|Raise_Third_Varushkan_Army}}
+==Outcome==
+* Now complete, the [[Boyar's Hasta]] has been raised in [[Karov]]

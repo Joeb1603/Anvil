@@ -1,0 +1,24 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Proposed: Skarsind, Seconded: Spiral">To welcome Prospectors and mining experts to explore the Northern hills of Skarsind. With the support of the Golden Pyramid the cost has been been reduced to 100T. This is fully funded by Irontide Flax.</quote>
+==Overview==
+* Human miners will come to [[Skarsind]] and work the Imperial Orc mines as per the '''[[Standing in the sun#Thirsty Fires|Standing in the sun]]''' wind of fortune.
+* The Imperial Conclave encouraged the Order of the [[Golden Pyramid]] to [[385YE_Winter_Solstice_Conclave_sessions#Concord:_Golden_Pyramid_and_Skarsind|support the effort]] during the Winter Solstice 385YE
+* Passed
+==Date==
+* Winter 385YE
+==Cost==
+* Costs as per opportunity
+* 100 thrones
+* Three months to complete
+==Progress==
+{{CommissionProgress|Prospecting_in_Skarsind}}
+==Outcome==
+* Once complete the cost to upgrade Imperial Orc [[military unit|military units]] will be reduced by one wain of mithril (to a minimum of one wain of mithril). In addition, the Imperial Orc armies will gain access to the '''Forge Hammers''' order whilst in [[Skarsind]].
+
+<box><big>'''Forge Hammers'''</big><br>
+* '''Can use the order to camp around the Black Forge in the hills of Skarsind above Gildenheim'''
+* '''Casualties suffered by this army are increased by a fifth'''
+* '''The ability of this army to defend territory is increased by three tenths'''
+* '''For each wain of mithril used for emergency resupply provides an additional 5 army strength'''
+The soldiers of the army camp around the Black Forge, which turns mithril into the finest quality weapons and armour. The smiths both repair and replace the armaments of veteran soldiers, and provide new recruits with a top-tier loadout. The army is ready to defend the territory, and inspired by the Epic of the Ethengraw, they will make the enemy fight for every inch of ground they try to claim. Only one army can use this order at a time; if more than one army uses it all armies involved instead take the [[Army_orders#Heroic_Stand|heroic stand]] order.</box>

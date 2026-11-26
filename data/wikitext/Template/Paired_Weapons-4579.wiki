@@ -1,0 +1,4 @@
+* '''Form:''' Weapon. A pair consisting of two [[Weapons & armour#one-handed Weapons|one-handed weapons]]. You must be wielding both weapons to use the set's magical properties.
+* '''Requirement:''' You must have the [[Combat skills#Ambidexterity|ambidexterity]] skill to bond to these items.
+[[Category:Magic Items]]
+[[Category:Paired Weapons]]

@@ -1,0 +1,22 @@
+<ic>To appoint an imperial position: Imperial Chaplain Consular<br>
+A synod virtue title (of the way) to be appointed by the Cardinal of the Way.<br><br>
+Responsibilities: Advise Imperial Ambassadors on matters pertaining to the way. Provide Oversight of Imperial Ambassadors for the Synod. Study foreigners to facilitate comparative theology<br>
+Powers: Once per Season, may inquisit an imperial ambassador without requiring a Judgement of the Synod. May spend up to five thrones per season from the Virtue fund.<br><br>''Proposed by Bastion, seconded by Therunin.''</ic>
+
+===Overview===
+* The [[Chaplain Consular]] can [[Inquisition|inquisit]] any Imperial Ambassador for the [[Synod]].
+* They may remove up to five thrones from the [[Rewarding|virtue fund]] without requiring a judgement ... something about an announcement?
+
+===Date===
+* Spring 379YE
+
+===Cost===
+* None
+
+===Campaign Outcome===
+* The title of [[Chaplain Consular]] was created.
+* Hywel Summercrow of Navarr was duly appointed to the position by the Cardinal of the Way.
+
+[[Category:Senate Motion]]
+[[Category:379YE Spring]]
+__NOTOC__

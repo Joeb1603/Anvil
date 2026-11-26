@@ -1,0 +1,77 @@
+{{Synod Judgement Summary|General Assembly|Lesser Majority}}
+{{CaptionedImage|file=Magdalena di Sarvos.jpg|title=The Virtue Fund allows the Synod to offer material reward to the virtuous|caption=The [[Prosperity]] [[Assembly#The_Virtue_Assemblies|Assembly]] in particular often pays close attention to a judgement of rewarding.|align=left|width=450}}
+==Overview==
+The General [[Assembly]] of the [[Synod]] controls the Virtue Fund - a pool of money, Bourse materials and True Liao ([[mithril]], [[weirwood]] and [[white granite]]) endowed to the Synod so that they may directly reward virtuous behaviour. The mainstay of the money in the fund usually comes from the auction of a dose of [[liao#True Liao|true liao]] but it is supplemented with donations of Imperial currency from wealthy citizens who wish to use the benefits of their prosperity to encourage virtue. A small number of these citizens are sufficiently wealthy to donate small quantities of mithril, weirwood or white granite, trusting the Synod to ensure these are put towards virtuous causes.
+__TOC__
+The Virtue Fund exists to allow the Synod to encourage virtue, and to reward the virtuous. Judgements of Rewarding can only be raised in the General Assembly - despite historical interest from the Prosperity Assembly in bringing the Fund directly under their control. At various points the [[Senate]] has chosen to supplement the money raised by donations and auction with a [[New_Imperial_titles#Stipend|stipend]] from the [[Imperial treasury]]. This practice began in the reign of [[Empress Teleri]] whose supporters argued that the Imperial Synod was best placed to ensure that the Empire's wealth was distributed to worthy and virtuous causes. The popularity of this practice has waxed and waned, but during the reign of [[Emperor Hugh]] the existing stipend, already little more than a token sum, was entirely abrogated.
+
+It is not possible to donate anything other than true liao, money, or wains to the Virtue fund.
+
+==Judgement==
+Any member of the Synod may submit a judgement of rewarding for money or wains for consideration by the General Assembly. The judgement must state the size and type of the proposed reward. A single judgement may ask for money or wains of a single type - it is not possible to request money and wains, or two different kinds of materials, in one judgement.
+
+A judgement of rewarding requires a lesser majority to pass. Every judgement of rewarding shares the same period of [[Judgement#Scrutiny|scrutiny]]. All such judgements close at 6pm on Saturday, and it is not possible for the [[Cardinal|Cardinals]] to request [[Cardinal#Further_Scrutiny|further scrutiny]] of a judgement of rewarding. Owing to this restriction, a judgement of rewarding must be raised by 3pm on Saturday or it cannot be accepted.
+
+It is not possible to raise a judgement of rewarding for a dose of True Liao. In the rare occurrence that a dose enters the Virtue Fund, then a Judgement of Rewarding will be raised directly by the [[Tribune of the Synod]].
+
+<div style="float:right;"><quote by="Marcher Proverb">Better to earn a ring than be given a crown</quote></div>
+
+==Outcome==
+After the scrutiny period closes at 6pm Saturday, each judgement is assessed, and funds provided in order from the judgement with the highest margin to that with the lowest margin. If there is insufficient money or wains remaining in the fund to meet the full amount requested, then only what is remaining will be distributed. In the event of two or more judgements having the same margin and there being insufficient funds remaining to support them both, then the remaining amount is split equally between those judgements, with any remainder staying in the fund for the next summit. It is not possible for the Virtue Fund to go into debt. If there are no funds or wains of the requested type available, the judgement can still pass, but nothing will be provided.
+
+The Tribune will deduct the money or wains from the Virtue Fund, to be collected by the Member of the Synod who raised the judgement. These will be available to collect from the Tribune of the Synod in the Hub from 7:30pm Saturday. It is '''not''' possible for a judgement to specify that a reward be made at some future time beyond the close of scrutiny. The money or wains become immediately available and should be collected from the Tribune as soon as is practical. If the sum is not collected by the end of the summit, the Tribune will make arrangements to send the money or wains to the raising Member (OC: uncollected rewardings will be placed into the inventory of the raising priest and will go into their character pack at the next event they attend).
+
+It is common for individuals to ask for money or wains from the Virtue Fund for a specific goal. It is perfectly acceptable to reference the goal in the judgement of rewarding, but this is not legally binding. On receipt of the funds, they become the legal property of the raising Member of the Synod who may dispose of them as they choose. In the rare event that the raising member of the Synod dies before they are able to collect, then the Tribune will instead use their discretion to disburse the funds towards the person, group or cause expressed in the wording of the judgement.
+
+<ic>At the Winter Summit 376YE, Harald Johnson, of the Marches and The Way, called for the General Assembly to reward the Orc Generals with 20 crowns from the Virtue Fund.</ic>
+
+Voting on a judgement to reward a citizen with a dose of true liao also closes at 6pm on Saturday, in the rare case that a dose has been donated this way. The citizen with most votes in their favour may collect the dose from the Tribune from 7:30pm.
+
+==Virtue Fund==
+As mentioned, the Virtue Fund is a pool of money and wains endowed to the Synod so that they may directly reward virtuous behaviour. The majority of the money that makes up the virtue fund comes from the auction of a dose of [[liao#True Liao|true liao]] at each summit, but it is supplemented with donations from wealthy citizens who wish to use the benefits of their prosperity to encourage virtue.
+
+The size of the fund is calculated at the start of each summit and displayed in the Civil Service Hub. It includes donations made by private citizens (including through [[#Counting Houses|counting houses]]), bequests from virtuous benefactors, and the funds raised by the auction of true liao at the previous summit. Any remainder after the end of the summit remains in the fund.
+
+Any Imperial citizen can donate money or wains to the virtue fund by speaking to one of a [[Tribune of the Synod]] at the Hub. The money or wains will be added to the Virtue Fund at the ''next'' summit, and the name of the benefactor included in public documents about the fund, provided the donation is at least one crown.
+
+==Counting Houses==
+<div {{float}}>
+<table class="mw-collapsible mw-collapsed"><tr><td style="background-color: LightBlue;">'''Prosperous Counting House'''</tr>
+<tr><td>'''Commission Type:''' Edifice</td></tr>
+<tr><td>'''Cost:''' 5 weirwood, 5 white granite, 30 crowns, and three months to construct</td></tr>
+<tr><td>'''Effect:''' Adds funds to the Virtue Fund based on territory</td></tr></table>
+<table class="mw-collapsible mw-collapsed">
+<tr><td style="background-color: LightYellow;">'''Territory'''</td><td style="background-color: LightYellow;">'''Benefits'''</td></tr>
+<tr><td>Sarvos</td><td> 14 crowns</td></tr>
+<tr><td>Segura</td><td> 13 crowns</td></tr>
+<tr><td>Skarsind</td><td> 13 crowns</td></tr>
+<tr><td>Mitwold</td><td> 12 crowns</td></tr>
+<tr><td>Miaren</td><td> 11 crowns</td></tr>
+<tr><td>Hahnmark</td><td> 11 crowns</td></tr>
+<tr><td>Zenith</td><td> 10 crowns</td></tr>
+<tr><td>Other</td><td> 8 crowns</td></tr>
+</table>
+</div>
+<div {{float}}>
+<table class="wikitable sortable">
+<tr><th>Territory</th><th>Completed</th><th>Virtue Fund Income</th></tr>
+<tr><td>[[Reikos]]</td><td>Spring Equinox 386YE</td><td>10 crowns per season</td></tr>
+<tr><td>[[Semmerholm]]</td><td>Winter Solstice 386YE</td><td>11 crowns per season</td></tr>
+<tr><td>[[Tassato]]</td><td>Summer Solstice 386YE</td><td>16 crowns per season</td></tr>
+<tr><td>[[Karsk]]</td><td>Spring Equinox 387YE</td><td>12 crowns per season</td></tr>
+<tr><td>[[Temeschwar]]</td><td>Spring Equinox 388YE</td><td>14 crowns per season</td></tr>
+<tr><td>[[Holberg]]</td><td>Summer Solstice 388YE</td><td>15 crowns per season</td></tr>
+</table></div>
+* '''A single counting house can be built in each Imperial territory'''
+In the months leading up to the Winter Solstice 385YE, the [[architect]] Dialogos of the Isles of the Spires [[Forwards_and_Rewards#Prosperity_and_Posterity|proposed construction of]] a series of counting houses in ten Imperial territories, to collect donations for the Virtue Fund and keep record of these Prosperous donations for posterity. Each of these [[edifice|edifices]] would see a consistent amount of money donated to the Virtue Fund each season, depending on the affluence and propensity of the territory in question. A counting house will only start producing income for the Virtue Fund in the first full season after it is constructed. 
+
+Shortly before the Summer Solstice 388YE, the potential for the counting houses was expanded and work done to see them possible to build in ''any'' Imperial territory. There is no benefit to building more than one counting house in a single territory; the donations would simply be split evenly.
+
+As of the start of the Summer Solstice 388YE, six have been commissioned by the Senate - in [[Construct_Semmerholm_Counting_House|Semmerholm]], [[Construct_Tassato_Counting_House|Tassato]], [[Construct_Prosperous_Counting_House_in_Karsk|Karsk]], [[Construct Temeschwar Counting House|Temeschwar]], a [[Forwards_and_Rewards#High_Benefits|more extensive construction]] in [[Construct_Reikos_Counting_House|Reikos]], and one in [[Construct_Prosperous_Counting_House_in_Holberg|Holberg]].
+
+The table to the right shows the counting houses constructed as of the start of the Autumn Equinox 388YE.
+<!--
+<small>
+#{{anchor|1}} 
+</small>-->
+{{Synod Further Reading}}

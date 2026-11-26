@@ -1,0 +1,25 @@
+[[Category:Day Ritual]][[Category:Rituals]][[Category:Resource]][[Category:Urizen Lore]]
+{{CaptionedImage|file=NBUrizen.jpg|caption=This ritual is part of [[Urizen magical traditions#Urizen Lore|Urizen lore]] rather than [[Imperial lore]].|align=right|width=200}}
+{{stub}}
+==Rules==
+{{Season|Day|18}}
+
+===Performing the Ritual===
+{{Casting time|2}} {{Target Resource|[[congregation]]}}
+
+{{enchantment}}
+===Effects===
+This [[enchantment]] creates auras that encourage clear communication and a focus on spiritual and philosophical concerns. The target [[congregation]] swells over the next season and is assessed by the civil service to provide an additional 6 doses of [[liao]] and an additional 12 votes in the [[Synod]] at the next event, in addition to normal production. 
+
+In addition, while the congregation remains enchanted the character who owns it experiences a roleplaying effect: ''you feel an urge to communicate as clearly as possible. The more passionately you care about something the stronger the urge to avoid metaphor or circumlocution and speak directly from the heart.'' 
+
+{{Downtime buff}}
+
+{{Season Duration}}
+===Additional Targets===
+This ritual can affect additional [[congregation|congregations]] provided the congregations are all controlled by characters from the same [[Groups#Sects|sect]]. Each additional congregation increases the magnitude by 14. The character who controls each congregation must be present throughout the ritual.
+==Description==
+TBC
+
+==Common Elements==
+TBC

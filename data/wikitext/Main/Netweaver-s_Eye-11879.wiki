@@ -1,0 +1,43 @@
+==Rules==
+{{Season|Day|30}}
+===Performing the Ritual===
+{{Casting time|2}} {{Target Character}} The performance must name either a specific ritual or a specific realm of magic (Spring, Summer, Autumn, Winter, Day, or Night).
+
+===Effects===
+This power calls on the eternal [[Roshanwe]] to divine information about a target. As part of the performance either a specific ritual or a specific realm of magic must be named. If the target has [[Rituals#Contributors|contributed]] to any performance of the named ritual, or any rituals of the named realm, within the last three days, the casters learn how many times they did so.
+
+If the target has participated in a performance of [[Incantation's Mystic Mask]] within the last three days, regardless of which ritual is concealed or whether the shroud has been expended, Netweaver's Eye reveals only the existence of a shroud, its realm and magnitude. The magnitude may be increased to overcome the strength of the shroud.
+
+Note that while the target of the ritual must be present throughout, they need not be willing or cooperative.
+
+This ritual is a divination ritual for purposes of effects such as [[Crystalline Focus of Aesh]].
+
+===Additional Magnitude===
+The magnitude of the ritual may be increased to penetrate more powerful shrouds or masks.
+===Assurance===
+This ritual loses all power if the [[Sevenfold Path]] ever abandon their order's [[Sevenfold_Path#The_Manifesto|goal]] of building “a bridge between the Conclave and the priests of the Synod.”
+<div style="float:right; width: 300px; clear: right;">{{CaptionedImage|file=RoshanweArt.jpg|caption=[[Roshanwe]] is sometimes named with terms resonant of lighthouses and beacons; she is the light that leads the traveller to their destination|align=left|width=300}}</div>
+
+==Description==
+This ritual was presented to the [[Archmage of Day]], Skywise Gralka, following [[Skeleton_key#Netweaver's_Eye_(Roshanwe)|an offer]] made by [[Roshanwe]] at the Spring Equinox 386YE. It was offered in return for the Conclave agreeing to release the eternal from responding to the ritual [[Combing the Beach]] that allowed her to offer some support to truth-seekers in the Empire. During the Winter Solstice Skywise Gralka [[385YE_Winter_Solstice_Conclave_sessions#Alignment:_Roshanwe|proposed]] that her [[alignment]] to the Empire suited [[Alignment#Neutrality|neutrality]] rather than [[Alignment#Amity|amity]]. At the same time, the Conclave declared a number of individuals to be [[sorcery|sorcerers]]. 
+
+Several years previously, Roshanwe had offered a [[Scholars_and_mandarins#A_Gift_of_Revelation|Gift of Revelation]] to the Imperial Conclave, an [[arcane projection]] that drew on her power to examine the wisps of magical residue that clings to a magician for a short time after they perform ritual magic. Using [[day magic]], it would divine if a specific target or targets had performed a named ritual during the past three days. Her intention was that it could be used to track down sorcerers who had broken their restriction against performing ritual magic, as well as [[coven|covens]] who have chosen to perform illegal rituals. It had other obvious investigatory applications as well. She expected the arcane projection to be codified at a [[college of Magic|college of magic]], and [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|made available]] to any Imperial magician who wished to perform it. That didn't happen for various (tragic) reasons.
+
+Given the obvious increased interest among the Imperial Conclave in remaining alert for magicians misusing their magic, Roshanwe offered her boon again. This time, however, she proposed to provide an actual [[Formulaic_ritual#Ritual_Texts|ritual text]] rather than an arcane projection. ''The Netweaver's Eye'' worked just as the arcane projection she originally proposed, but was ready to be entered into Imperial lore
+
+The ritual draws on Roshanwe's power, and bears an [[#Assurance|assurance]], which relates to the [[Sevenfold Path]] [[Conclave order|order]] of the [[Conclave]]. Its magic persists only as long as that order [[Sevenfold Path#The Manifesto|remains committed]] to “Build a bridge between the Conclave and the priests of the Synod”. Should they turn aside from this goal, the power of the ritual will be lost and the Navigator will turn her gaze away.
+
+The original ritual text touches on how the magic of the divination works. It claims that magic can leave residue behind. Many magicians have spoken in the past of [[detect magic|discerning]] a "lingering aura" – the remember of a magic that has been worked but that still remains. It does not seem that there is a direct connection between the magnitude of the magic worked and how long its splinters persist, but it does seem that more powerful invocations are more likely to leave shards of themselves behind.
+
+Thus it is with those who work magic, who weave rituals, claims the text; strands of the magic they weave cling to them. They are the anchor of the working - it flows through and from them. They are "the fishers in the sea of possibilities, weaving an occult net to capture and create the outcomes they desire". Gossamer thin are these strands, the faintest mark it is possible to have and yet still have a mark. Their perception is beyond the blunt instrument of the magician's eye, or the [[Hakima's Glass]]. Roshanwe, however, apparently has a "keener sense". Their focused gaze can find the strands and follow them back, can sift them for the truth of their nature, and the events that caused them to come into being.
+
+The ritual has a limitation in that the Elder Pharos requires guidance when she turns her gaze on a target. She must sift the information the magicians divining the ritual desire. The Netweaver's Eye must seek information that is relevant rather than simply revealing every single piece of knowledge about an individual in an overwhelming flood of images. That, concludes the original text, is not the way of the Beachcomber: "to seek something you must know at least a little about what it is that you are searching for; you must know what you are looking for to know that you have found it."
+
+It is not clear where precisely the ritual text was codified; the original document contained no indications one way or another but it does not appear to have been prepared at any [[college of magic]] in the Empire.
+==Common Elements==
+The ritual is a divination, a magic of finding and knowing. A flame, a clear lens, or a polished mirror will all help the ritualists focus, and offer additional focus to the ritual. Weaving also resonates with this ritual – creating a weave or braid of coloured strands around the subject that is then examined to tease out information about the rite they are seeking. The shape and fall of sand grains or grains of salt likewise can be studied to determine whether the fading strands of magic are present or not. The interpretation of runestones or cards may be resonant for some casters, although the degree of interpretation required may make the clear determination of an answer more subjective and thus less useful.
+
+The rune [[Sular]] may be evoked to aid the coven to actively examine and seek knowledge. Other covens prefer to evoke [[Diras]], given that they are determining the presence or absence of information that is secret. Symbolic aspects of [[Wisdom]] and [[Vigilance]] may be evoked, as might creatures such as [[Aspect_magic#Beast_Magic|owls]] or [[Legendary_beasts#Sphinxes_and_Manticores|sphinxes]]. It is not required to evoke the name of  Roshanwe directly, but doing so is certainly resonant with the ritual.
+[[Category:Day Ritual]]
+[[Category:Rituals]]
+[[Category:Divination]]

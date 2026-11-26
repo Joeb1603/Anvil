@@ -1,0 +1,23 @@
+[[Category:Senate Motion]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Proposed: Sarvos, Seconded: Zenith">To construct the Beneficiary of the Golden Cascade sinecure for 8 weirwood, 8 white granite, and 48 crowns. Gives 10 crowns per season to the virtue fund and creates the title of the same name, appointed by Urizen Assembly. The role requires using the proceeds of the position to aid and reward other nations to build international friendship and cooperation. Title holder gets 20 random herbs, 3 elixir vitae, 3 ossean solutions, 3 philtres of heavenly lore, and 10 crowns a season</quote>
+==Overview==
+* Constructs a [[sinecure]] in Proceris, Zenith
+* Passed
+* More information can be found in the '''[[Forwards_and_Rewards#Golden_Windfalls|Forwards and Rewards]]''' wind of fortune
+
+==Date==
+* Spring 387YE
+
+==Cost==
+* Costs as per opportunity
+* 8 weirwood
+* 8 white granite
+* 6 thrones
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Beneficiary_of_the_Golden_Cascade}}
+==Outcome==
+* Now complete, the [[Beneficiary of the Golden Cascade]] will be available to be appointed by the Urizen Assembly for the first time at the Summer Solstice 387YE
+* The Virtue Fund will receive an additional 10 crowns each season

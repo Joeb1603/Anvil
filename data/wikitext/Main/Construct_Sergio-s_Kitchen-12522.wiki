@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Announced by Lucrezia Corvinascura, Chair of the Wolf">To commission the construction of Sergio's Kitchen, a self funded sinecure requiring 10 wains of weirwood and 3 thrones 6 crowns in labour using standard costing. The sinecure will provide coinage. Sergio's Kitchen will be supervised by the Executive Chef of Sergio's, appointed by the Senators of the League. Sergio's Kitchen has tenure, serving until they die, resign or are revoked and will be built in Cigno, Sarvos. This project has been organised by Red Raven Holding, the premier building society within the Empire.</quote>
+==Overview==
+* Constructs a [[sinecure]] in Cigno, Sarvos
+* Announcement by the [[Chair of the Wolf]]
+==Date==
+* Winter 386YE
+==Cost==
+* Standard costs apply
+* 10 weirwood
+* 30 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Construct_Sergio%27s_Kitchen}}
+==Outcome==
+Now complete, the [[Chef of Sergio's]] will be available to appoint by the senators of the League for the first time at the Spring Equinox 387YE

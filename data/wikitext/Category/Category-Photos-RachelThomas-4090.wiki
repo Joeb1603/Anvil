@@ -1,0 +1,9 @@
+
+Rachel Thomas<br />
+
+
+
+Please include the following text in the description field when uploading files by this author to the wiki:<br />
+
+''<nowiki>[[Category:Photos:RachelThomas]] [[:Category:Photos:RachelThomas|Image by Rachel Thomas]]
+</nowiki>''

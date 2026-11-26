@@ -1,0 +1,39 @@
+{{CaptionedImage|file=NavarrGoToWar.jpg|title=Warpaint allows Navarr warriors to display their commitment to the coming fight.|caption=War is not a game.|width=600|align=left}}
+==Overview==
+War is not a game, it is a life-and-death conflict. Most Navarr warriors have little interest in forming battle lines and engaging their enemies in honourable battle. They are pragmatic, and favour war through ambush, skirmish and guile. They disdain heroic charges and single combat with enemy leaders - better to fade back and draw the enemy into a trap than face them in one-on-one combat.
+
+The warriors of the Navarr have two primary areas of interest. They are concerned with the defence of the Steadings and Stridings against bandits and barbarians. They also take responsibility for fighting the forces of the [[vallorn]]. The vallorn represents a hostile environment, replete with dangerous plants and monstrous insects. These creatures make infrequent incursions into Imperial territory, and the Navarr are at the forefront of driving them back. They also prepare for the day when they will be able to assault their enemy directly, both by scouting the areas of vallorn influence, and by locating areas that might serve as bases of operation, or recruiting allies to help in the inevitable challenge of defeating the vallorn's progeny. 
+
+Donning warpaint – often embellished with a stylised thorn motif – is an important pre-battle ritual and warrior bands work together to paint each other. By donning warpaint, the Navarr warriors display their commitment to the coming fight. Members of a Steading or Striding will often use similar themes, colours or designs to give themselves a clear battlefield identity as a unit, in the same way that other nations use livery or heraldry.
+<div style="float:right; width: 450px; clear: right;"><quote>“You can’t betray your enemies.”</quote></div>
+Leather and chain mail are favoured along with the ubiquitous barbed spear, which honours the original spears wielded by the Navarr forebears. Shields, when used, are narrow and fluted, barely wider than the wielder and often heavily decorated with the thorn motif. 
+
+==Thorns==
+Those Navarr who devote themselves specifically to war are called [[thorn|Thorns]], who form a professional warrior caste of the Navarr. Like [[brand|brands]], Thorns make an active decision to commit themselves to their chosen course; they literally swear to be ready at all times to fight in the defence of their community. They mark their oath, usually with a tattoo but many also choose to don warpaint each day. This ritual ensures that they remain focussed regardless of where they are. By marking themselves out in this way they make their identity and pledge clear and remind others that they are ready to fight. 
+{{CaptionedImage|file=MerrynFarkas.jpg|title=Merryn Farkas, of the Ruis Farkas, served as General of the Quiet Step.|caption=Fight to live, do not live to fight.|width=500|align=right}}
+
+==Imperial Armies==
+The Navarr field two [[army|armies]]: the ''Black Thorns'' and the ''Quiet Step''. ''Isaella's Dance'' was destroyed shortly before the Winter Solstice 386YE.
+{{CaptionedImage|file=BlackThorns Colour.png|align=left|width=100}}
+===The Black Thorns===
+This [[Army#Enlargement|large]] army is especially [[Army qualities#Fast|fast]] moving, able to cross great distances very quickly. They are especially adept at using the trods to move large numbers quickly, and have excellent logistical support as well as several covens of [[Navarr magical traditions#Vates|vates]] and apothecaries who help restore troops after forced marches. They have a knack, historically, of turning up just in time to help tip the outcome of a campaign.
+
+The first Navarr general leads the [[Black Thorns]] army, and is appointed (or re-appointed) at the Summer Solstice each year.
+{{CaptionedImage|file=QuietStep Colour.png|align=left|width=100}}
+===The Quiet Step===
+The army of the Quiet Step is loosely organised, allowing individual components a certain amount of leeway to operate as they see fit, but benefiting from a central logistical core. They were once known for their experienced scouts capable of quickly gathering information about the enemy armies they encounter. They are equally adept at facing barbarian orcs, vallornspawn and [[Varushka|Varushkan]] monsters. Since the Winter Solstice 381YE, however, they refocused their purpose toward more aggressive tactics, employing [[Army qualities#Cunning|cunning]] strategies to confound and slaughter their foes. This shift in emphasis was effected with the assistance of the [[eternal]] known as the [[Arhallogen|Spider King]] - heralds and creatures loyal to Arhallogen sometimes accompany or support the army.
+
+The second Navarr general leads the [[Quiet Step]] army, and is appointed (or re-appointed) at the Autumn Equinox each year.
+{{CaptionedImage|file=Isaellas Dance Colour.png|align=left|width=100}}
+===Isaella's Dance (Destroyed)===
+The army of Isaella's Dance finished mustering just before the Summer Solstice 384YE. The army was able to use their mastery of Spring magic and their expertise with herbs to create powerful blade venoms to apply to their weapons. These poisons were designed to kill quickly and without suffering, ensuring that the enemy did not linger in pain. The [[Army_qualities#Thornbound|thornbound]] army was founded following an [[Comes_a_time#Without_Fear_or_Favour|opportunity]] presented by critics of the Spider King.
+
+Isaella's Dance fought in campaigns across the Empire, especially against the [[Jotun]] in the west. Following the Autumn Equinox 386YE, however, the army was involved in vicious fighting in [[Therunin]], where the Druj had laid a [[Under eastern skies|carefully crafted trap]]. They were able to lead the other armies fighting beside them out of the magical snare the orcs of the Mallum had created, but in the process they were [[Under_eastern_skies#Now_We_Are_Ready|cut to pieces]] and ultimately disbanded.
+
+The third Navarr General led the army of [[Isaella's Dance]], and was appointed at the Spring Equinox each year.
+
+==Army Orders==
+Before the campaign in Therunin that cost the lives of [[#Isaella's Dance (Destroyed)|Isaella's Dance]] and the [[Iron Helms]], the generals of Navarr were able to call Spears of the Pines. This warband of the [[Great Forest Orcs]] suffered significant casualties during the retreat, and as of the Summer Solstice 387YE it is not possible to call the Spears of the Pines.
+{{:Great Forest Orcs}}
+
+{{Navarr Links}}

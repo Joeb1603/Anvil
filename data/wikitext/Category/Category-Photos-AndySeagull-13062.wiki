@@ -1,0 +1,5 @@
+Andy produces art. He has an [https://www.instagram.com/complimentary.colours instagram] and a [https://cara.app/complimentarycolours cara]
+
+Please include the following text in the description field when uploading files by this artist to the wiki:<br />
+
+''<nowiki>{{AndyS}}</nowiki>''

@@ -1,0 +1,19 @@
+<ic>
+Motion to resupply the imperial armies.<br><br>''Proposed by Bregasland, seconded by Hahnmark''</ic>
+
+===Overview===
+* Despite the wording of this motion, this motion is to disburse funds with the intention supplying the [[Quartermaster General of the Imperial Armies]] with sufficient funds to purchase materials to perform [[Casualties#Emergency resupply|emergency resupply]] of as-yet unnamed Imperial armies.
+* Passed at 100 Thrones.
+
+==Date==
+* Spring 379YE
+
+==Cost==
+* 100 Thrones
+
+==Progress==
+* 100 Thrones disbursed to Senator Bregasland.
+
+[[Category:Senate Motion]]
+[[Category:379YE Spring]]
+__NOTOC__

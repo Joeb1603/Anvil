@@ -1,0 +1,21 @@
+[[Category:Senate Motion]][[Category:387YE Winter]]
+__NOTOC__
+<quote by="Announced by Rahmah i Darwisj i Erigo, Imperial Spymaster">To unseen shores, I the Imperial Spymaster commission a spy network in Tsirku
+</quote>
+==Overview==
+* Constructs a [[spy network]] in Tsirku
+* Announcement by the [[Imperial Spymaster]]
+
+==Date==
+* Winter 387YE
+
+==Cost==
+* Standard costs apply
+* 10 wains of weirwood
+* 30 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Spy_Network_in_Tsirku}}
+==Outcome==
+* Now complete, [[military unit|military units]] will be able to support the spy network to investigate Tsirku

@@ -1,0 +1,34 @@
+[[Category:Senate Motion]][[Category:382YE Winter]]
+__NOTOC__
+<ic>To amend the title of quartermaster general to include a mana ministry to be built in Casinea.<br>''Proposed by Skarsind, seconded by Karov''</ic>
+==Overview==
+* Commission a [[ministry]] in [[Casinea]] to allow the purchase of mana.
+* To be given over to the custodianship of the [[Quartermaster General of the Imperial Armies]].
+* Passed
+==Date==
+* Winter 382YE
+==Cost==
+* This [[ministry]] uses [[Ministry#Costs|standard costs]].
+* The size of the commission has not been specified.
+==Progress==
+* 12 wains of mithril and 24 crowns provided by Rurik after the Summer Solstice 383YE.
+
+==Campaign Outcome==
+* When complete, the [[ministry]] will be assigned to the Quartermaster General. 
+
+<!--
+
+'The Imperial War offices are a set of functional stone buildings and warehouses in the northwest of the territory of Casinea. Constructed by the Builders of the Imperial Orcs in recognition of the services the Quartermaster General provides to the Empire. The name of the incumbent which held the position when the War Offices were constructed is engraved in the main chambers, ‘Brakensong.’ 
+
+
+The buildings are certainly not what could be considered beautiful nor even attractive. Little effort has gone into the overall conventional aesthetics of the construction. Instead the buildings have been designed to be hard wearing, functional and defensible. A series of traits shared by its designers, Palerictus Rurik and Bloodcrow Yargol.  
+
+
+The only real exterior ornamentation of the exterior surrounds the main buildings entrance, two great basrelief carvings of two barded warhorses rearing up either side of the door, their details gilded with mithril. The two horses are ever so slightly different, each representing one of the two Imperial Orc legions. The left represents the first, its barding taking the form of ragged leather strips. The right represents the second, its barding taking the form of heavy steel plating. 
+
+
+ The Imperial War office provides the Quartermaster Master General a physical office space and planning chambers within which they may direct the resupply and logistics of the Imperial armies. As a further gift, A great map of Imperial territories and their surrounding lands has been provided carved from polished Skarsind Pine in a manner that echos the table that the Military council uses in its meetings, alongside this Mithril markers of the various Imperial and enemy armies were provided as a further gift by Skywise Fal. 
+
+
+Offices of several minor aides and assistants fill the remaining spaces. Many are able to act as traders and intermediaries for the Quarter Master general as required, travelling across the Empire to requisition resource for the Armies in the field or more importantly when given funding acquire crystal mana to be used in future Strategic magic casting.'
+-->

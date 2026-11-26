@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:388YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Giuseppe Sanguineo von Temeschwar, Senator for Temeschwar, Seconded: Mary Birchsmith, Senator for Mitwold">To construct the Printers' Guild Bibliopole in Betovering and Leerdam in the Commonwealth, as detailed in the civil service record "truth but tell it slant" in Winter 387. This would make Printers' Guild publications that are available in Tassato accessible to citizens of nations across the world, including various treatises on the Way! This edifice costs 8 wains of white granite and 24 crowns in labour, paid for by the Printers' Guild
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Betovering and Leerdam
+* The [[The_truth_but_tell_it_slant#The_Farthest_Shore|opportunity]] was first suggested by ''Professor Gelberg'' during the Printers' Guild's time as [[Patron of the Beurteilung|patrons of the Beurteilung]]
+* Passed
+
+==Date==
+* Autumn 388YE
+
+==Cost==
+* Standard costs apply
+* 8 wains of white granite
+* 3 thrones in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Printers%27_Guild_Bibliopole}}
+==Outcome==
+* Once complete, the copies of Printers Guild publications stored in [[Tassato]] will be made accessible across the world

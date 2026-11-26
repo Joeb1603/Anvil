@@ -1,0 +1,23 @@
+{{Army Page}}
+{{CaptionedImage|file=FistoftheMountains_Colour.png|align=right|width=250}}
+===Overview===
+This army was supported by a number of miners, engineers and ex-prospectors, and the captains were regularly advised by clever [[Wintermark magical traditions#Icewalkers|icewalkers]] and proud [[Wintermark culture and customs#Art and History|scops]]. Centuries of fighting in the mountains of [[Sermersuaq]], [[Skarsind]] and [[Hahnmark]] left their soldiers with a reputation for caution and for an ability to fight viciously in tight spaces over vertiginous drops. By heeding the words of [[Army_qualities#Farsighted|farsighted]] advisors, the general was able to employ divination to allow them to find the perfect place to move their army. While such methods were unpredictable and difficult to make sense of, they meant the Fist of the Mountain was rarely where the enemy expected it to be - something made clear when the army prevented the Grendel from destroying the Great Harbour at Elos shortly before the [[To ruin|Autumn Equinox 387YE]]. 
+
+The first Wintermark general led the Fist of the Mountains army, and was appointed (or re-appointed) at the Summer Solstice each year.
+
+===History===
+TBC
+__TOC__
+TBC
+====Recent History====
+TBC
+
+===Traditions===
+TBC
+==Composition==
+TBC
+==Army Quality : [[Army_qualities#Farsighted|Farsighted]]==
+Centuries of fighting in the mountains of [[Sermersuaq]], [[Skarsind]], and [[Hahnmark]] left the army's soldiers with a reputation for caution and for an ability to fight viciously in tight spaces over vertiginous drops. By heeding the words of [[Army_qualities#Farsighted|farsighted]] advisors, the general was able to employ divination to allow them to find the perfect place to move their army. While such methods were unpredictable and difficult to make sense of, they meant the Fist of the Mountain was rarely where the enemy expected it to be - and often seemed to be in the perfect place at the perfect time. 
+{{CaptionedImage|file=GenFistoftheMountains.jpg|caption='''Umarth Kannask''', last General of the Fist of the Mountains|align=left|width=250}}
+{{RecentElections|General_of_the_Fist_of_the_Mountains|the title of [[General]] of the Fist of the Mountains}}
+[[Category:Imperial Army]][[Category:Wintermark]][[Category:Military Council]]

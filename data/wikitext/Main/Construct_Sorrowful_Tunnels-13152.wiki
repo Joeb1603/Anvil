@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:387YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Mareave, Seconded: Skarsind">To construct the Sorrowful Tunnels mithril mine in Skarsind. UPPER LEVELS ONLY!!! Fully funded
+</quote>
+==Overview==
+* Constructs a [[mithril]] mine in Gildermark, [[Skarsind]]
+* Passed
+* More information can be found in the '''[[Long_shadows#The_Sorrowful_Tunnels|Long shadows]]''' wind of fortune and the '''[[387YE_Summer_Solstice_winds_of_fortune#Sorrowful_Tunnels_(Skarsind)|Sorrowful Tunnels]]''' entry in the 387YE Summer Solstice winds of fortune
+
+==Date==
+* Autumn 387YE
+
+==Cost==
+* Costs as per opportunity
+* 20 wains of weirwood
+* 60 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Sorrowful_Tunnels}}
+==Outcome==
+* Now complete, the ''Sorrowful Tunnels'' bourse resource is available to allocate by the Imperial Senate

@@ -34,13 +34,16 @@ class Classifier:
         for i, rule in enumerate(self.rules):
             for cat in rule["categories"]:
                 self.by_cat.setdefault(cat, (i, rule))
+        self.overrides = cfg.get("page_overrides", {})
+        self.song_pages = cfg.get("song_pages")
         self.ns_defaults = cfg.get("namespace_defaults", {})
+        self.ns_forced = set(cfg.get("namespace_forced", []))
         self.default = cfg["default"]
 
     def usable(self, cats):
         return [c for c in cats if c not in self.ignore and not c.startswith(self.ignore_prefixes)]
 
-    def classify(self, title: str, ns: int, cats: list[str]) -> dict:
+    def classify(self, title: str, ns: int, cats: list[str], has_song: bool = False) -> dict:
         cats = self.usable(cats)
         events = sorted((c for c in cats if EVENT_RE.match(c)), key=event_key)
         event = events[0] if events else None
@@ -54,12 +57,18 @@ class Classifier:
             return {"class": rule["class"], "topic": rule["topic"], "event": event, "rule": why,
                     "categories": cats}
 
+        if title in self.overrides:
+            return result(self.overrides[title], "override")
+        if RENDER_NAMESPACES.get(ns, "") in self.ns_forced:
+            return result(self.ns_defaults[RENDER_NAMESPACES[ns]], f"namespace:{RENDER_NAMESPACES[ns]}")
         for rx, rule in self.title_rules:
             if rx.search(title):
                 return result(rule, f"title:{rx.pattern}")
         hits = sorted((self.by_cat[c] for c in topical if c in self.by_cat), key=lambda t: t[0])
         if hits:
             return result(hits[0][1], "category:" + next(c for c in topical if self.by_cat.get(c, (None,))[0] == hits[0][0]))
+        if has_song and self.song_pages and ns == 0:
+            return result(self.song_pages, "song-block")
         ns_name = RENDER_NAMESPACES.get(ns, "")
         if ns_name in self.ns_defaults:
             return result(self.ns_defaults[ns_name], f"namespace:{ns_name}")
@@ -81,7 +90,7 @@ def classify_all() -> dict:
             continue
         rec = read_json(path)
         cats = [c["name"] for c in rec["categories"]]
-        res = clf.classify(p["title"], p["ns"], cats)
+        res = clf.classify(p["title"], p["ns"], cats, has_song='class="song"' in (rec["html"] or ""))
         out[str(p["pageid"])] = res
         for c in res["categories"]:
             if c not in clf.by_cat and not EVENT_RE.match(c) and not re.fullmatch(r"\d{3}YE", c):

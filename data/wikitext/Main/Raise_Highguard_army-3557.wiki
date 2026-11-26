@@ -1,0 +1,30 @@
+<ic>To raise a new army to muster in Anvil under a Highguard general.<br><br>
+''Raised by Hercynia, seconded by Necropolis.''</ic>
+
+===Overview===
+* To raise a new [[Army|Highborn army]] to muster in Anvil
+* Passed at 120 thrones with 9 votes against, money distributed to Necropolis
+
+===Date===
+* Passed Winter 376YE (Easter 2013).
+
+===Cost===
+* 150 wains of mithril
+* 1 year to construct
+
+The army should have cost 250 wains of mithril.
+
+===Progress===
+* 150 wains of mithril supplied by Adamah, Senator for [[Necropolis]], throughout 376.
+
+===Production===
+* 5000 pt Highborn army
+
+===Election===
+* Senate election
+
+The general of the army will be appointed by the Highborn Senators following the standard procedure once the army is complete.
+
+[[Category:Senate Motion]]
+[[Category: 376YE Winter]]
+__NOTOC__

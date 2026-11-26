@@ -1,0 +1,71 @@
+[[Category: 388YE Autumn]][[Category: Winds of Fortune]]
+<ic>"A thousand heroes could be here right now, fighting for Therunin. Instead, there are just two! Two heroes! Let us be thankful that brave Mirella and courageous Towlen have come here alone..."
+
+"Does he ''ever'' shut up?" Dylan asked Efa. Even from the back of the crowd, the herald's voice carried and they'd been listening to it for the best part of five minutes. They'd assumed that someone was going to talk about where the fighting was, instead there was just a capering fool in a ragged cloak pretending to be human and pretending to care. "For someone who claims to only want to help, it sure has a lot to say for itself..." he commented.
+
+"This must be what the Assembly warned us about," responded Efa dryly. "Those who accept Agramant into their heart must suffer the interminable whining of its heralds until their ears fall off."
+
+Dylan laughed at the mockery. "I'm not sure that's ''exactly'' what the Synod said" he grinned. But the smile fell from his face a moment later. "There'll be trouble to pay for this though, when it's all over."
+
+"Probably. Certainly. Dochas says he'll sort it. He's got a plan. I trust Dochas. He knows what he's doing. Unlike this fool."
+
+She pointed at the herald as she said it, but even as she did, Dylan was shaking his head. "I think the Whisperer knows exactly what he's doing, every bit as much as Dochas does" he said sadly.
+
+"Maybe. Probably. Arguably he's got a point about Prosperity. Why do the Military Council get to decide who gets paid for their labour and who doesn't? That's what the guerdon does, when you think about it."
+
+Dylan threw a despairing look at Efa. "And ''this'' is why we're not supposed to listen to Agramant!", he said pointedly.
+
+"Is it? Doesn't Courage have something to say about unwelcome truths?" Efa responded glumly. 
+
+Dylan tucked his arm through his beloved's and pulled her away. "Enough of this capering; let's get something to eat and then find Dochas. I can put up with this provided they keep fighting alongside us, but I'll be damned if I have to listen to it."
+</ic>
+<div {{floatleft}}>{{CaptionedImage|file=White River.jpg|align=left|caption=The water-logged bayous of Therunin see seasons change and the turning of the leaves.|alt="Bald cypress trees on the White River in Arkansas"|width=600}}</div>
+==Overview==
+<div {{float}}>
+<table class='wikitable mw-collapsed mw-collapsible sortable'>
+<tr><th colspan='2'>Supported the Golden Axe</th></tr>
+<tr><th>Citizen</th><th>Banner</th></tr>
+<tr><td>Towlen Nighthaven</td><td>	Deadfall</td></tr>
+<tr><td>Mirella of the Twisted Rose</td><td>Amber Lance</td></tr></table>
+<table class='wikitable mw-collapsed mw-collapsible sortable'>
+<tr><th colspan='2'>Reconquered Therunin with Agramant</th></tr>
+<tr><th>Citizen</th><th>Banner</th></tr></table></div>
+Another season, another message from ''Twigsnap'' delivered via his heralds, from the depths of [[Therunin]]. Much of the territory languishes under the tyrannical rule of the Druj, whose cruelty is infamous. This season the Empire has made some progress, sending the Golden Axe and two military units to [[The_dose_makes_the_poison|retake Lower Tarn Valley]]. The Druj still control Peakedge Song, Upper Tarn Valley, and East Ashes, while Sweetglades, Greenheart, and Eastring are completely dominated by the vallorn.
+
+Meanwhile, the heralds of the ''Giver of Gifts'' are everywhere, helping wherever they can to fight the vallorn and the Druj and save lives - while simultaneously keeping up a near-ceaseless stream of barbed and wicked calumny against the Empire. Purely in the interest of knowing what the enemy is doing, the civil service briefing presents the lies that the heralds of the ''Wicked Liar'' are spreading this season.
+
+==Does He Ever Shut Up?==
+{{SOP|statement=Blood on the Snow is a friend to none. He continues to target refugees of Therunin, and he is becoming more active. Do not accept his boons, they pathe the way to destruction. If you see or hear anything related to him, speak to the Vates, and speak to the Stormcloaks of Wintermark who are offering their support, knowledge, and expertise.|by=Xandor Trodbreaker, Navarr National Assembly|vote={{GM}} 231-0|when=Summer 388YE}}
+{{SOP|statement=We utterly reject the offer of Agramant to work alongside it to reclaim Therunin. We do not need to be vates to know that Blood-on-the-Snow's motivations are not benevolent. We do not need to be guides to see that to follow it would turn us from the Way. We did not choose this sacrifice, but we stand as virtuous citizens nonetheless. We invite the Empire to consider we were put in a position where not all of us made that choice. Where Dochas Weeping Glade's desperation leads him to take the Dark Path that will no doubt be his end. Remember him. Our steadings and stridings are lights in the darkness for Therunin. One day we will welcome our kin home to a land won back with Imperial steel.|by=Enfys Larksong, Navarr National Assembly|vote={{GM}} 217-0|when=Summer 388YE}}
+* '''Agramant's heralds remain in Therunin offering help to any who will take it'''
+* '''The heralds spew lies and propaganda to any who will listen'''
+* '''Agramant will provide two pawns of heart's blood to any military unit that supports an army that attacks in Therunin this season'''
+* '''If no Imperial army attacks, then Agramant will provide a venture for any military unit to support the people of Therunin'''
+* '''If the venture happens, characters that take part can provide a pseudonym for the Roll of those involved'''
+Once again, the Synod has much to say about the situation, and once again, the heralds of ''The Abominable One'' simply says that it is offering aid to those who hold to the oaths they swore, even when the Empire does not. No military unit captains had the Courage to take the offer of the ''Voice in the Pines'' to aid the reconquest in the east, according to his heralds. Perhaps they wanted to help but were simply too afraid of the Empire's tyrannical magistrates to risk punishment to save lives and keep their oaths? But wait, they say, that ''cannot'' be true, because those who wished to heed the call ''could'' have joined the [[Golden Axe]] in the [[The_dose_makes_the_poison|reclamation of Lower Tarn Valley]]. And lo, of nine hundred military captains who attend Anvil, just ''two'' have come to aid Therunin! Brave Mirella and Courageous Towlen, two lone heroes in an empire of thousands. 
+
+Agramant heralds [[The_keys_of_blood#The_Beast_Below_(Agramant)|promised he would send more aid]] if the Empress gave him leave to do so. They say the ''Good Knight'' has studied the [[The_wolves_tempt_you|Throne's address]] in great detail, and determined that Empress Vesna does ''not'' want him sending more heralds into Therunin to help her subjects. Her words are cunning foxes, and much like the Synod, they appear to send a message of support, while painstakingly avoiding the one thing that would actually help the situation. Still, the ''Good Knight'' must always be true to its word - it promised that it would increase its aid to help the people of Therunin if the Empress gave any indication that she desired that. She has elected not to do so, and so ''Five True Words'' has his heralds inform people in Therunin that, regrettably, tragically, he cannot send further aid to help them. His heralds spread the word that, just like the Synod, the Empress does not want them helped, even when it came at no cost to her or anyone else.
+
+As to the Axe, the heralds applaud that the Empire has sent ''one'' army to Therunin, while there are ''six'' currently fighting in the [[Salt Flats of Sanath]] and ''four'' having a holiday in [[Zenith]]. The Navarri watching should wonder, his heralds demand, whether the Axe represents an ''actual'' Imperial effort to reclaim Therunin, or simply an attempt to shut him up. Does the Empire hate the ''Friend of the Fearful'' more than they care about the Navarri still languishing under the dual threats of vallornspawn and remnants of Druj leadership cracking down where they can?
+
+Of course, if the Military Council truly cared about the people of Therunin, his heralds say, they might have provided the Guerdon to those military units who fought for the Axe. Alas they did not, and his heralds fear that must have cost lives. ''Crying Child'' weeps to think of those who have died because the Council were so parsimonious. The heralds suggest that the tenets really ought to be a little more truthful? They propose the Assembly of Prosperity ought to embrace ''"All that is worthwhile is shared with those who deserve it, unless the Military Council has other plans, in which case let them starve."''
+
+Fortunately, here the ''King of the Feast'' can compensate for the Empire's lack of Prosperity. In the coming season, Agramant will provide two pawns of [[Vis#Heart's Blood|heart's blood]] to every military unit that supports ''any'' Imperial army in Therunin, regardless of how the Military Council spends its blood-gold. Proof, his heralds say, that the Provider does not baulk at working with the Empire in Therunin, if it will help to save even a single life. Sadly, the ''Crying Child'' remains under enmity, so it is illegal to accept their aid. Doubtless the militia will attempt to confiscate the heart's blood he provides and then claim they have destroyed it. Perhaps the Prosperity Assembly could consider ''"Enjoy the fruits of your labour today; no one knows when the militia will take it from you."''
+
+Of course, if the Empire abandons Therunin for the ''third'' time, then they may send no armies to fight there. The ''Faithful Friend'' will not abandon the people of Therunin, even if, especially if, the Empire do. If that happens, if there is no Imperial army taking an attacking order there this season, he will once again arrange for a campaigning venture to '''Reconquer Therunin''' offering two pawns of heart's blood to every military unit and more for those which are upgraded. This time, however, there will be a few differences:
+
+* ''The King of the Feast'' understands that modern Navarri may not have the [[Courage]] of [[Isaella]], and so will allow them to give pseudonyms (by emailing {{plot}}) for the roll of honour he supplies to the civil service. 
+
+* Any who take up the offer of the ''Bloody Ally'' will be allowed to invite a small portion of the magic of its domain in the wasteland to their military unit (also by emailing {{plot}}), marking them as true believers in the wisdom the ''Horned Manticore'' has to teach. He may use this to offer them ventures in the future that might interest them or send aid to support them.
+
+==Child of Sacrifice==
+{{SOP|statement=Calling Dochas of the Weeping Glade. You have reached out to <u>the voice of pines</u> for aid in Therunin in desperation, claiming the Empire has abandoned Navarr. Loyalty is demonstrated in words and deeds let us explore your virtue in these actions. We call you to inquisition at the autumn summit at a time and place of your choosing.|by=Eskah Swift Hart, Loyalty Assembly|Upheld 124-0|when=Summer 388YE}}
+* '''There is a conjunction for four people to the Weeping Glade at 19:45 on Friday'''
+* '''Dochas and his allies will be waiting there to discuss the liberation of Therunin with representatives of the Empire'''
+* '''This is a [[Accessibility#Unlikely_or_Contained|combat contained]] encounter'''
+* '''''Eskah Swift Hart'' is [[Sentinel_Gate#Prognostication|responsible]] for the conjunction'''
+''Dochas Weeping Glade'' sends a separate and very different message to the Empire through regular Navarr mail services. While he is saddened that only one army has come to Therunin and it seems that the crushing of Sanath will come first, he is nonetheless grateful for the intercedence of '''General Vojsuli Cherenkov'''. He notes that he has been called to [[388YE_Summer_Solstice_Synod_judgements#Judgement_134|inquisition]] by '''Eskah Swift Hart''', but points out that while people have been crowing around the "trap" of working with Agramant, they attempt to catch him in one anyway. He will hand himself over to the magistrates at Anvil when the job is done and ''no sooner''. Getting to Anvil is a hazardous enough journey from where he is at the moment anyway.
+
+Fortunately, there does appear to be a conjunction of the Sentinel Gate at 19:45 on Friday of the coming summit for four people to the ''Weeping Glade'' in [[Therunin#East_Ashes|East Ashes]]. Dochas requests that '''Vosjuli Cherenkov''', '''Towlen Nighthaven''' and '''Mirella of the Twisted Rose''' use it, along with '''Eskah Swift Hart''' as an observer, to meet him there and discuss the plan to retake the rest of the territory. In thanks for the efforts of the general and his army, he has prepared a gift: the recovered standard of the [[Iron Helms]] that was [[Under eastern skies|lost]] a year ago in the murky swamps. He impresses that he has no interest in this "Therunin Military Council" being a fight, but if the heroes of Anvil choose to take this opportunity to try to attack or arrest him, he and his allies will have little issue overpowering them.
+
+''Chief Magistrate Cosme i Zuhri i Erigo'' has addressed any potential legal concerns. While Dochas appears to be a blatant criminal, it is not illegal to work with him to perform a perfectly legal activity, or to receive gifts from him, as long as those gifts are neither provided nor empowered by Agramant.

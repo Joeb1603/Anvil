@@ -1,0 +1,110 @@
+This page explains the '''image''' syntax when editing the wiki. You or another user must usually [[Special:Upload|upload an image]] before you can use it on a page.
+
+Images that are stored on a MediaWiki server are usually rendered by using the <code>File:</code> namespace prefix. The alternate <code>Media:</code> namespace prefix is also usable to reference the original media file content (for rendering or downloading it separately, out of any MediaWiki page).
+
+== Supported types for images ==
+The following file formats are supported by default:
+* .jpg or .jpeg, .png, .gif
+
+== Rendering a single image ==
+
+=== Syntax ===
+The full syntax for displaying an image is:
+ <nowiki>[[</nowiki>File:''filename.extension''|''options''|''caption'']]
+
+where ''options'' can be zero or more of the following, separated by pipes ('''|'''):
+* ''[[#Format|Format]]'' option: one of '''border''' and/or '''frameless''', '''frame''', '''thumb''' (or '''thumbnail''');
+*: Controls how the rendered image is formatted and embedded in the rest of the page.
+* ''[[#Size and Frame|Resizing]]'' option: one of
+** ''{width}'''''px''' — Resizes the image to fit within the given maximum width in pixels, without restricting its height;
+** '''x'''''{height}'''''px''' — Resizes the image to fit within the given maximum height in pixels, without restricting its width;
+** ''{width}'''''x'''''{height}'''''px''' — Resizes the image to fit within the given width and height in pixels;
+** '''upright''' — Resizes an image to fit within reasonable dimensions, according to user preferences (suitable for images whose height is larger than width).
+*: Note that the image will always retain its aspect ratio, and can only be reduced (not increased) in size unless it's in a scalable media type (bitmap images cannot be scaled up).
+*: The default maximum size depends on the ''format'' and the internal image dimensions (according to its media type).
+* ''[[#Horizontal alignment|Horizontal alignment]]'' option: one of '''left''', '''right''', '''center''', '''none''';
+*: Controls the horizontal alignment (and inline/block or floating styles) of the image within a text (no default value).
+* ''[[#Vertical alignment|Vertical alignment]] option'': one of '''baseline''', '''sub''', '''super''', '''top''', '''text-top''', '''middle''', '''bottom''', '''text-bottom''';
+*: Controls the vertical alignment of a non-floating inline image with the text before or after the image, and in the same block (the default vertical alignment is '''middle''').
+* ''[[#Altering the default link target|Link]] option'': one of
+** '''link='''''{target}'' — Allows to change the target (to an arbitrary page title, or URL) of the generated link, activable on the rendered image surface; e.g. <code><nowiki>[[File:Example.jpg|20px|link=http://www.wikipedia.org]]</nowiki></code> renders as [[File:Example.jpg|20px|link=http://www.wikipedia.org]] (external link), or <code><nowiki>[[File:Example.jpg|20px|link=MediaWiki]]</nowiki></code> renders as [[File:Example.jpg|20px|link=MediaWiki]] (internal link).
+** '''link=''' (with an empty value) —  ({{mediawiki|rev:41727|MediaWiki 1.14+}}) Displays an image without any activable link; e.g. <code><nowiki>[[</nowiki>File:Example.jpg|20px|link=]]</code> renders as [[File:Example.jpg|20px|link=]].
+: '''!''' Link does '''not''' work with thumb, thumbnail or frame.
+* Other specific options:
+** '''alt='''''{alternative text}'' — ({{mediawiki|rev:41837|MediaWiki 1.14+}}) Defines the alternative text (maps to the HTML attribute <code>alt="..."</code> of the generated <code>&lt;image /&gt;</code> element) of an image that will be rendered if either the referenced image cannot be downloaded and embedded, or if the support media must use the alternative description text (e.g. when using a Braille reader or with accessibility options set by the user in its browser).
+** '''page='''''{number}'' — Renders the specified page number (currently only applicable when showing a .djvu or .pdf file).
+
+The options can be given in any order. If the given ''options'' conflict each other, the latter is applied, except for the ''format'' options, where the options take the priority in the order of: '''frame'''; '''thumb''' (or '''thumbnail'''); '''frameless''' and/or '''border'''.
+
+If a parameter does not match any of the other possibilities, it is assumed to be the caption text.  Caption text shows below the image in '''thumb''' and '''frame''' formats, or as mouseover text in '''border''', '''frameless''' formats or when the format is omitted.  Caption text displayed in the '''thumb''' and '''frame''' formats may contain wiki links and other formatting.  In the other options, wiki-formatting will not work though transclusion will.
+
+If no caption text is supplied, a caption is automatically created showing the file name.  To completely remove the caption, set it to <code><nowiki><span title=""></span></nowiki></code>. For example, <code><nowiki>[[File:Example.jpg|20px|<span title=""></span>]]</nowiki></code> renders as [[File:Example.jpg|20px|<span title=""></span>]].
+
+=== Stopping the text flow ===
+On occasion it is desirable to stop text (or other inline non-floating images) from flowing around a floating image.  Depending on the web browser's screen resolution and such, text flow on the right side of an image may cause a section header (for instance, <nowiki>== My Header ==</nowiki>) to appear to the right of the image, instead of below it, as a user may expect.  The text flow can be stopped by placing '''<nowiki><br style="clear: both" /></nowiki>''' before the text that should start below the floating image.
+
+All images rendered as blocks (including non-floating '''center'''ed images, '''left'''- or '''right'''-floating images, as well as '''framed''' or '''thumbnail'''ed floating images) are implicitly breaking the surrounding lines of text (terminating the current block of text before the image, and creating a new paragraph for the text after them). They will then stack vertically along their left or right alignment margin (or along the center line between these margins for '''center'''ed images).
+
+== Linking to an image without displaying it ==
+=== Link to description page ===
+If you put a colon (<code>:</code>) before <code>{{ns:image}}:</code>, the image will not be embedded and the link will lead to the description page of the file.
+
+ <nowiki>[[</nowiki>:{{ns:image}}:{{mediawiki:image_sample}}]]
+ <nowiki>[[</nowiki>:{{ns:image}}:{{mediawiki:image_sample}}|Sunflowers]]
+
+results in
+
+[[:{{ns:image}}:{{mediawiki:image_sample}}]]
+[[:{{ns:image}}:{{mediawiki:image_sample}}|Sunflowers]]
+
+=== Link to another page ===
+{{note|link '''does not work with''' thumb '''or''' frame.}}
+This will make a 50px width picture with a link to the page [[MediaWiki]]:
+
+ <nowiki>[[</nowiki>File:Example.jpg|50px|link=MediaWiki]]
+
+[[File:Example.jpg|50px|link=MediaWiki]]
+
+=== Link directly to the media file ===
+You can use the pseudo-namespace “{{ns:media}}” to link directly to a file without rendering it, bypassing the description page.
+
+ <nowiki>[[</nowiki>{{ns:media}}:{{mediawiki:image_sample}}]]
+ <nowiki>[[</nowiki>{{ns:media}}:{{mediawiki:image_sample}}|Sunflowers]]
+
+results in
+
+[[{{ns:media}}:{{mediawiki:image_sample}}]]
+[[{{ns:media}}:{{mediawiki:image_sample}}|Sunflowers]]
+
+The same result can be achieved by adding a colon before the namespace (works with categories too):
+
+ <nowiki>[[:</nowiki>{{ns:image}}:{{mediawiki:image_sample}}]]
+
+You can also use:&nbsp;
+
+ <nowiki>[[</nowiki>{{#special:Filepath}}/{{mediawiki:image_sample}}]]
+
+which can be used to link to a potential file, even if it doesn't exist. You can also use:
+
+ <nowiki>{{</nowiki>FILEPATH:{{mediawiki:image_sample}}<nowiki>}}</nowiki>
+
+which generates an external URL to the file inline: {{FILEPATH:{{mediawiki:image_sample}}}}
+
+== Files at other websites == 
+You can link to an external file available online using the same syntax used for linking to an external web page.  With these syntaxes, the image will not be rendered, but only the text of the link to this image will be displayed.
+<pre>[http://url.for/some/image.png]</pre>
+
+Or with a different displayed text:
+<pre>[http://url.for/some/image.png link text here]</pre>
+
+Additional MediaWiki markup or HTML/CSS formatting (for inline elements) is permitted in this displayed text (with the exception of embedded links that would break the surrounding link):
+<pre>[http://www.example.com/some/image.png Example '''<del>rich</del>''' ''<ins>link text</ins>'' here.]</pre>
+which renders as: [http://www.example.com/some/image.png Example '''<del>rich</del>''' ''<ins>link text<ins>'' here.]
+
+If it is enabled on your wiki (see {{mediawiki|Manual:$wgAllowExternalImages}}), you can also embed external images. To do that, simply insert the image's url:
+<pre>http://url.for/some/image.png</pre>
+Currently, embedded images cannot be resized, but they may be formatted by surrounding MediaWiki markup or HTML/CSS code.
+
+If this wiki option is not enabled, the image will not be embedded but rendered as a textual link to the external site, just like above.
+
+[[Category:Help|Images]]

@@ -1,0 +1,34 @@
+==Overview==
+The Keeper of the Study is an [[Imperial title]] awarded to a citizen of [[the Marches]]. The motion to construct the Landskeeper's Study was [[Construct Landskeeper's Study|passed]] by the [[Senate]] in Autumn 386YE. The Keeper of the Study is expected to spread knowledge of the magical arts used to enchant [[farm|farms]] and to encourage the use of such rituals to help feed the Empire. The title was created as a result of an opportunity presented in the '''[[Thresher%27s_summer#Sword_and_Shears|Thresher's summer]]''' wind of fortune.
+
+==Responsibilities==
+The Keeper of the Study has a responsibility to help spread knowledge of the magical arts used to enchant farms and to encourage the use of such rituals to help feed the Empire. If the Landskeeper's Study, or the traders who visit, were to be threatened in any way, it would be the responsibility of the Keeper of the Study to deal with those threats.
+
+==Powers==
+===Urizen Visitors===
+<div style="width: 350px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible"><tr><td colspan="2" style="background-color: LightYellow;">'''Urizen Visitors'''</td></tr>
+<tr><td>6 crowns</td><td>7 mana crystals</td></tr>
+<tr><td>13 crowns</td><td>14 mana crystals</td></tr>
+<tr><td>21 crowns</td><td>21 mana crystals</td></tr>
+<tr><td>30 crowns</td><td>28 mana crystals</td></tr>
+</table></div>
+As a [[ministry]], the Keeper of the Study can purchase stores of mana crystals at a set price. The Keeper spends their money and makes their choices during downtime from their character page. Money is removed from, and resources are placed into, the character's inventory when the downtime is processed.
+
+The Landskeeper's Study benefits from a synergy with the [[Arbiter of the Four Winds|Monastery of the Four Winds]]. For as long as the monastery remains in good standing, the amount of mana crystals available to purchase is increased by one per rank, included to the right.
+
+===The Mask of the Mourn===
+The Keeper of the Study has legal ownership of the Mask of the Mourn, an item bearing a spontaneous aura and designed to support [[Landskeeper|landskeepers]] in ritual casting on farms in the Marches.
+
+If the Keeper loses their position, then the item must be given to the new Keeper with all haste. The Keeper is encouraged to take all appropriate precautions to keep this item safe and is expected to do everything within their power to recover it if it is lost.
+
+The Mask of the Mourn was [[388YE Summer Solstice Senate sessions#Assign Regalia to Keeper of the Study|assigned to the Keeper]] in Summer 388YE by '''Cilicia of Athiliah's Handiwork''', as the [[Benefactor of Regalia]].
+
+==Appointment== 
+The Keeper of the Study is appointed during the Winter Solstice each year. It is chosen by unanimous decision of the [[senator|senators]] of [[the Marches]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Senate]] instead. 
+
+The title can be held by a Marcher citizen. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Marches [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+<!--{{CaptionedImage|file=FILE.png|caption='''NAME''', Keeper of the Study|align=left|width=400}}-->
+{{RecentElections|Keeper_of_the_Study}}
+[[Category:Title]] 
+[[Category:The Marches]]

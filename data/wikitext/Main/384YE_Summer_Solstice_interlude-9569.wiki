@@ -1,0 +1,140 @@
+[[Category:Winds of Fortune]][[Category:384YE Summer]][[Category:Recent History]]
+<div style="float:leftt; width: 450px; clear: leftt;">{{CaptionedImage|file=Getting Together.jpg|align=left|caption=new sprung Spring turns toward Summer|width=450}}</div>
+==Interlude==
+Downtime will be open shortly, allowing players to process their character's downtime choices. The Summer Solstice winds of fortune will come out shortly before the next event. However, there are a number of significant events happening in the wake of the Spring Equinox that may affect some players' Downtime actions - primarily effects on personal resources or options for characters with [[military unit]] or [[fleet]] personal resources.
+
+On this page we'll be outlining, and offering some context for, these various effects. In most cases, there will be further information in the Summer Solstice Winds of Fortune. As always, these are quick OOC summaries to explain effects such as large-scale enchantments and curses. We'll cover all these and more when we start to present the Winds of Fortune for next event.
+
+'''Downtime is due to close at midnight on the 19th of June.'''
+
+==Warfare==
+Any player whose character controls a [[military unit]] can choose from a number of downtime options. Left to their own devices, a military unit defaults to [[Military_unit#Take_Independent_Action|paid work]] guaranteeing an income of herbs, ingots or measures, money, or mana crystals. Otherwise, they may log into the downtime system and choose to support an army or fortification, or assign to a special project such as a [[spy network]] or one of the unique [[opportunity|opportunities]] available this downtime. Players who want to support one of the [[Army|Imperial armies]] can also read the [[Army_orders|orders]] issued by each [[general]] before making their decision.
+
+As always, the guidelines around discussing military matters online can be found [[Online#You_may_not_post_Military_Updates|here]].
+
+===Imperial Guerdon===
+The Imperial Guerdon is a bursary set up by the Imperial Senate primarily to reward military units that support Imperial armies, spy networks, and fortifications. The value of the Imperial Guerdon is divided between each military unit and fleet that supports an army in proportion to their effective strength. The [[Quartermaster General of the Imperial Armies]] has the power to exclude any or all Imperial armies and navies, fortifications, or special projects (such as spy networks) from the Guerdon. If they do so, then a character who supports such an army, fortification, or special project will receive nothing for doing so.  
+
+The Guerdon stands at 350 thrones.  
+
+This season, the Quartermaster General of the Imperial Armies has announced that shares of the Guerdon will be shared between military units supporting the following armies or opportunities:
+* [[Green Shield]]
+* [[Wolves of War]]
+* [[Citadel Guard]]
+* The [[#Evacuate Feroz|Evacuation of Feroz]], [[#Solve the Isember Problem|Assault on Isember]], [[#Surround Hotters Mire|Surround Hotters Mire]] opportunities. It applies to both military units and fleets.
+
+===Loyal Pilgrims===
+* '''Highborn characters can [[Military unit#Upgrade|upgrade]] their [[military unit]] at the cost of one fewer wains of mithril'''
+Thanks to the influence of the [[Three_soldiers#The_Loyal_Pilgrim|Three Watchers]], any Highborn character who owns a [[military unit]] can [[Military unit#Upgrade|upgrade]] their resource for one wain of mithril less than normal. The reduced cost will appear automatically in your downtime options. A military unit can only be upgraded once each season, but they could, potentially, be upgraded every season, saving one mithril each time. This opportunity remains until the start of the Autumn Equinox 384YE.
+===Dawn in Brocéliande===
+* '''Until the start of the Winter Solstice 384YE, Dawn military units may receive additional rewards when supporting an army in Brocéliande'''
+Thanks to the mandate of Ranae deRondell, for the next year (until the start of the Winter Solstice 384YE) any Dawnish military unit that supports a Dawnish, Highborn or Navarr army that is engaged in Dark Ranging will gain additional rewards - one additional crown and two random herbs. You can learn more about this in the [[The_virtue_of_sharing#Glory_and_Treasure|virtue of sharing]] wind of fortune.
+===Against the Heirs===
+* '''Until the start of the Summer Solstice 384YE, those who fought in Hercynia or Therunin are recovering from casualties'''
+The [[military unit|military units]] who took part in the campaigns to [[Rise_of_Terunael#Protect_Hercynia|Protect Hercynia]] and [[Rise_of_Terunael#Protect_Therunin|Protect Therunin]] following the [[383YE_Winter_Solstice_winds_of_war#Fire_and_Hemlock|Autumn Equinox]] are still recovering from the experience. Combatants in Hercynia see a two-rank penalty, while those who fought in Therunin suffer a one-rank penalty. The effect remains until the start of the Summer Solstice.
+
+==Special Military Unit Options==
+In addition to the normal [[Military_unit#Downtime_Options|downtime options]] available to a military unit, the following special opportunity is available.
+===Evacuate Feroz===
+* '''Military units can support the action ''Evacuate Feroz'' which is found on the spy network dropdown'''
+* '''Rather than their normal [[Military unit#Production|production]], a standard military unit will earn 6 Crowns for their role in evacuating Feroz, with enchanted or upgraded forces receiving commensurately more money'''
+* '''Details of the opportunity can be found in [[Struggle_with_the_sea#Across_the_Borders|Struggle with the sea]] wind of fortune'''
+Following the Spring Equinox, military units can support the evacuation of Feroz in the Brass Coast. This is a stealthy mission to help those citizens who can't make it to the coast to reach safety in Segura and Madruga. It involves avoiding conflict with the Grendel as much as possible, and takes place alongside (although separate to) a similar fleet opportunity.
+
+===Raid Skallahn===
+* '''Military units and fleets can support the ''Raid Skallahn'' action found in the ''paid work'' dropdown'''
+* '''In place of their normal production, the military unit receives metals and forest materials'''
+* '''The Marcher assembly has urged the raiders to focus on military targets'''
+* '''The higher the effective strength of the raid, the longer the effects will last on the Jotun'''
+* '''The higher the effective strength of the raid, the more impact it will have on Imperial military units and fleets'''
+* '''The Navarr, Dawn, the Brass Coast, Urizen, and Varushka have all disavowed the raid'''
+The Empire has the opportunity to launch a surprise raid into the Jotun territory of [[Skallahn]]. Both fleets and military units can support the opportunity. The Marcher assembly - who provided the opportunity - have urged the raid to [[By_fountains,_by_fishes#Military:_Steelweaver.27s_Crucible|focus on military targets]]. For every 10,000 total strength on the raid, the Jotun will be unable to provide emergency resupply to their armies for one season.
+
+The raid involves taking valuables from the Jotun. A standard military unit receives 2 ingots of green iron, weltsilver, and orichalcum as well as 4 more random metals and 4 random natural materials. An enchanted or upgraded military unit receives commensurately more. For every 10,000 strength applied to the raid, ten wains of bourse resources (white granite, mithril, weirwood, ilium) are added to a pool that is distributed randomly among all military units taking part in the raid (fleets will not gain bourse resources).
+
+Individual military units won't take damage from taking part in this raid, but there are significant implications for the entire Empire depending on how much strength (including that from fleets supporting the action) is committed. You can learn about the potential impacts [[By_fountains,_by_fishes#Getting_Out|here]].
+
+While fleets can support this action, those from nations other than the Marches and Wintermark receive a 1-rank penalty to effective strength for doing so.
+
+Navarr, Urizen, Dawn, the Brass Coast, and Varushka have all [[By_fountains,_by_fishes#Opting_Out|disavowed the raid]]. If you belong to one of those nations then your military unit or fleet will be half as effective, and receive half the rewards and be unable to acquire any rare resources. However their nation will not suffer any penalty from the raid. Because three or more nations have taken this route, the penalties applied by the raid last for two seasons instead of one on the fleets and military units of other nations.
+
+===Solve the Isember Problem===
+* '''Military units can support the ''Solve the Isember Problem'' and take action against the bandits of southern Karsk'''
+* '''In place of their normal production, a military unit receives wealth stolen by the bandits'''
+* '''You can learn more in the [[Blood_makes_noise#Solving_the_Isember_Problem|Blood makes noise]] Wind of Fortune'''
+The bandits of Isember have begun to threaten the Prosperity and safety of vales across southern Karsk, and impede the settlement of Ossium. Military units can take the fight to the bandits. Any military unit that takes part claims some of the loot the Isemberite bandits have been stockpiling. In place for normal production, a standard military unit gains 4 measures of random forest materials, 4 ingots of random metals, and 36 rings in the form of random valuables and trade goods, with commensurately more if they have a higher rank. 
+
+Full details of the opportunity are found in the [[Blood_makes_noise#Solving_the_Isember_Problem|Blood makes noise]] wind of fortune.
+
+===Surround Hotters Mire===
+* '''Military units can support the attack on Hotters Mire in Liathaven which can be found on the support spy network dropdown'''
+* '''A military unit receives spring vis in place of their normal production'''
+* '''Further details of this action are not common knowledge'''
+The opportunity to surround Hotters Mire in Liathaven was uncovered by the scouts using the Liathaven Spy Network. It involves surrounding a Feni settlement in Liathaven. The full details of this opportunity are not common knowledge. A starting military unit that supports the action will not receive their usual production but will instead gain 2 spring vis. An upgraded or enchanted military unit will gain proportionally more, but three ranks of upgrade will be needed to get an additional vis. The opportunity to gain a special action in Liathaven is part of the [[Faded_from_the_winter#Origins|Faded from the winter]] Wind of Fortune.
+
+===Into the Twisted Woods===
+* '''Military units can take the ''Into the Twisted Woods'' action from the independent action dropdown'''
+* '''Dawnish and Varushkan units are most effective when taking this action'''
+* '''The action provides herbs and forest resources'''
+The mandate enacted by Ser Dindrane of Dawn means that any military unit can take the ''Into the Twisted Woods'' action, found on the independent action dropdown. The action will be most effective when taken by Dawnish or Varushkan characters; rather than receiving random production a basic military unit, they will receive 6 random herbs and 8 random forest resources from battling orcs, exploring the woods, and seeking out opportunities for glory (or in the case of the Varushkans, opportunities to raid barbarians). An upgraded or enchanted military unit will gain proportionately more. Characters from other nations who take the opportunity will be much less effective - at the base level, they will receive 2 random herbs and 4 random forest resources.
+
+This action is available until the start of the Spring Equinox 385YE  but should the [[Blood_makes_noise#Tower_of_the_Manticore|Tower of the Manticore]] be built in Ossium the option to take this action will become available to the people of Dawn and Varushka permanently.
+
+==Special Fleet Options==
+Certain trading destinations apply special effects. You can learn more about the Empire's foreign relations in the recent [[all at sea]] wind of fortune.
+===Evacuate Feroz===
+* '''Imperial fleets can support the ''Evacute Feroz'' action found in the spying dropdown'''
+* '''In place of their normal production, a fleet that supports this action will receive 6 Crowns for their role in evacuating Feroz, with enchanted or upgraded forces receiving commensurately more money'''
+* '''You can find out more about this opportunity in the [[Struggle_with_the_sea#Across_the_Borders|Struggle with the sea]] Wind of Fortune'''
+Fleets can take part in the opportunity to evacuate Imperial citizens out of Feroz. This is a stealthy mission, which involves avoiding conflict with the Grendel.
+
+===Support Skallahn Raid===
+* '''Imperial fleers can support Skallahn'''
+Fleets can support the raid into Skallahn, as [[#Raid Skallahn|detailed above]]. Fleets from Wintermark and the Marches do so with full effectiveness, those of other nations start with a 1 rank penalty to both effective strength and production.
+
+==Trade Opportunities==
+* '''Imperial fleets can trade with foreign ports and receive valuable goods'''
+* '''Some ports give special bonuses or suffer special penalties'''
+Certain trading destinations apply special effects if a fleet visits them. You can learn more about the Empire's foreign relations in the recent all [[On the outside looking inside]] of fortune.
+
+==Other Major Effects==
+Every season sees large-scale effects impact individuals and nations. Where possible we've summarised these effects here.
+===Isember is the Priority===
+* '''Varushkan military units are urged to [[#Solve the Isember Problem|Solve the Isember Problem]]'''
+* '''If they take any action other than Solve the Isember Problem,support an army, or support a fortification their effectiveness and rewards are greatly reduced'''
+The vale of Isember in [[Karsk]] has become a haven for bandits and outlaws (again) and is causing problems in southern Karsk and with the settlement of Ossium. The Varushkan National Assembly urges every Varushkan military unit not engaged in supporting an army or fortification to come and help in Karsk. Military units that take other actions this season such as paid work, supporting the raid in Skallahn, helping to evacuate Feroz, or supporting a spy network does so with half effectiveness. You can find out about this situation in the [[Blood_makes_noise#The_Isember_Problem|Blood makes noise]] Wind of Fortune.
+
+===Mana Site Disruption===
+* '''The Senate has empowered the magistrates to root out followers of Yaw'nagrah'''
+* '''Every mana site in the Empire is experiencing disruption as a consequence'''
+Following the [[Faded_from_the_winter#Roots|investigations of the Silent Bell]] into the Heirs of Terunael and the followers of [[Yaw'nagrah]], the Imperial Senate has [[383YE_Winter_Solstice_Senate_sessions#Request magistrates investigate followers of Yaw'nagrah|instructed]] the magistrates to take action. Magistrates and militia are proactively seeking out and those guilty of [[Religious_crime#Idolatry|idolatry]], but in doing so they are disrupting the lives of a great many Imperial citizens. As a consequence, every [[mana site]] in the Empire is seeing a reduction of one crystal mana. This effect ends after the Summer Solstice 384YE.
+===Blade of the Pilgrims===
+* '''Highborn congregations receive 2 fewer votes and 1 fewer liao due to the call to fight the vallorn'''
+While the vallorn of [[Brocéliande]] has become quiescent, the threat still remains. During the Autumn Equinox, '''Hazelelponi of the Shattered Tower''' proposed a [[mandate]] that was [[383YE_Autumn_Equinox_Synod_judgements#Judgement_16|upheld by the Highborn Assembly]] encouraging the [[congregation|congregations]] of Highguard to continue their efforts to oppose the vallorn. Until the start of the Autumn Equinox 384YE, every Highborn congregation produces one fewer liao and two fewer votes but may provide aid to ''any'' opportunity to fight the vallorn anywhere in the Empire.
+===Reject False Gods===
+* '''Congregations in Redoubt, Temeschwar, Tassato, Karsk, and Hahnmark gain two additional votes and one additional liao as long as the Synod clearly stands in opposition to idolatry'''
+The mandate [[383YE_Spring_Equinox_Synod_judgements#Judgement_14|approved by the general assembly]] and enacted by Rafael Barossa di Tassato sends bands of architects, masons, and builders to force their way into the buildings designed by the Asavean architect and forcibly redesign them. The mandate has a number of effects, one of which is to swell with pride congregations in the territories where the buildings are found. This bonus lasts as long as the Synod maintains a clear anti-idolatry stance.
+
+===Sand Fisher Tithe===
+* '''Farms in Holberg receive 2 random herbs each downtime'''
+The Sand Fisher orcs are providing herbs to farm owners of Holberg. This effect is detailed in the [[A_dream_that_can_last#Green_Shoots|A dream that can last]] Wind of Fortune.
+
+==Mandates==
+* '''You can find details of the mandates, along with the rest of the Synod judgements, [[384YE_Spring_Equinox_Synod_judgements#Mandate|here]].'''
+Seventeen mandates were successfully upheld in the Imperial Synod. As per our [[Wiki_Updates#Mandates|recent update]], all mandates have automatically been enacted as long as the named priest has sufficient liao in their inventory before Downtime opens.
+
+Some mandates were upheld by their respective assemblies but not enacted. 
+
+==Imperial Lore==
+Two rituals were added to Imperial lore during the Spring Equinox.
+* [[Wardens of the Black Waste]] by Simargl, the Empty One
+* [[Leonine Pavilion]] by Sagua i Ezmara
+
+==Urizen Lore==
+A number of rituals were added to [[Urizen_magical_traditions#Urizen_Lore|Urizen lore]] during the Spring Equinox using the [[Gift of Knowledge]].
+* [[Aspect of the Mountain]]
+* [[Crown of Phoenix Fire]]
+* [[A Perfect Moment]]
+Note: Several Urizen Lore rituals still need some additional descriptive elements which will appear on the wiki over the next few weeks.
+==Artisans==
+The details of how to make a new [[magic items|magic item]] have been shared with the Empire's [[Crafting skills#Artisans|artisans]]: ''[[Lowther's Gaze]]'' is a talisman that allows the person bonded to it to use the [[Combat_skills#Marksman|marksman]] skill.

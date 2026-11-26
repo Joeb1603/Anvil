@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:386YE Summer]]
+__NOTOC__
+<quote by="Proposed: Casinea, Seconded: Reikos">To build the Diplomatenschloss in Necropolis.</quote>
+==Overview==
+* Rebuild a new, [[fortification|fortified]], [[embassy]] for the [[Commonwealth]] in Hedrossan, [[Necropolis]] as per the '''[[For_the_Common_Good#Fighting_Talk|For the Common Good]]''' wind of fortune
+* Passed
+* 50 Thrones disbursed to the [[Senator]] for [[Casinea]]
+==Date==
+* Summer 386YE
+==Cost==
+* Costs as per opportunity
+* 70 white granite
+* 30 weirwood
+* 300 crowns
+* Six months to complete
+* 5 thrones a season upkeep
+==Progress==
+{{CommissionProgress|Diplomatenschloss}}
+==Outcome==
+Now complete, the [[Ambassador to the Commonwealth]] again has access to [[Ambassador#Mercantile_Support|mercantile support]] and the Diplomatenschloss serves as a rank one fortification in Hedrossan, Necropolis.

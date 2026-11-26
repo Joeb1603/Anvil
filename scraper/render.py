@@ -244,7 +244,10 @@ def render_all() -> dict:
         source = page_url(p["title"])
         stats = new_stats()
         body = html_to_markdown(rec["html"] or "", site, rel, stats)      # complete text
-        stub = c["topic"] in restricted and p["ns"] != 14
+        # A song tag in the source that did not render as a song block cannot be stripped
+        # cleanly, so the whole page is held back.
+        unrendered_song = stats["songs"] == 0 and "<song" in (rec["wikitext"] or "").lower()
+        stub = (c["topic"] in restricted or unrendered_song) and p["ns"] != 14
         held_back = stub or stats["songs"] > 0                             # needs a public variant
         raw_root = (LOCAL / "data" / "wikitext") if held_back else (DATA / "wikitext")
         raw = raw_root / ns_dir / (safe_name(p["title"]) + f"-{p['pageid']}.wiki")

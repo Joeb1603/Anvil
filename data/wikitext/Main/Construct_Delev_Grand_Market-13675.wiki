@@ -1,0 +1,26 @@
+[[Category:Senate Motion]][[Category:388YE Spring]]
+__NOTOC__
+<quote by="Announced by Dima Vasilyevna Novosad, Master of the Koboldi">The people of Karov wish to self fund and build a great market in Delev. This will provide the Senate four additional thrones per season in tax (and assorted local benefits!). This is time sensitive to this summit only!
+</quote>
+==Overview==
+* Constructs a [[great work]] in Duzekani, Karov, as per the '''[[Outside_the_wall#A_Great_Market|Outside the wall]]''' wind of fortune. 
+* Announcement by the [[Master of the Koboldi]]
+
+==Date==
+* Spring 388YE
+
+==Cost==
+* Costs as per opportunity
+* 50 wains of white granite
+* 150 crowns in labour costs
+* Three months to construct
+
+==Progress==
+{{CommissionProgress|Construct_Delev_Grand_Market}}
+==Outcome==
+Once complete, the grand market will have the following effects:
+* Raises the level of investment in businesses in Karov by one
+* Allows citizens to take a business in Karov for free for one year after completion
+* Adds an additional purchase rank to the [[Bargainer of the Iron Tower|Iron Tower]], [[Harbourmaster of the Semmerlak|Korotny Docks]] and the [[Overseer of the Westward Road|Delev Market]]
+* Increases taxation of Karov by an additional 4 thrones a season if the Little Boyar's Welcome is also upgraded
+* Would allow Senate to use a motion to permit the Boyar of the Iron Roads to create a sinecure instead of a ministry each season without using a Senate commission

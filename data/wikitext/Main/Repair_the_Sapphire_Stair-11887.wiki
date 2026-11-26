@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:386YE Summer]]
+__NOTOC__
+<quote by="Proposed: Tassato, Seconded: Karsk"> That the Senate authorise the Repair of the Sapphire Stair in Tassato.</quote>
+==Overview==
+* Repairs the damage done by ''Eisa Winterborn'' as part of her raid detailed in the '''[[Shallows_and_miseries#Meanwhile_in_Tassato|Shallows and miseries]]''' wind of war.
+* Passed
+
+==Date==
+* Summer 386YE
+==Cost==
+* Costs as per [[Keeper_of_the_Sapphire_Stair#Overview|opportunity]]
+* 10 white granite
+* 10 weirwood
+* 10 mithril
+* 90 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Repair_the_Sapphire_Stair}}
+==Outcome==
+Now complete, the [[Keeper of the Sapphire Stair]] has started to once again receive their previous income.

@@ -1,0 +1,206 @@
+---
+title: Our elaborate plans
+source: https://www.profounddecisions.co.uk/empire-wiki/Our_elaborate_plans
+class: in-character
+topic: winds-of-fortune
+categories:
+- 388YE Spring
+- Winds of Fortune
+event: 388YE Spring
+last_edited: '2026-10-10T14:11:00Z'
+revision: 146160
+in_character_boxes: 3
+---
+
+# Our elaborate plans
+
+> *In-character text:*
+>
+> Portia stared at the magician and cursed. Normally, her line of work was engaging. Find the mark, seduce the mark, get the mark to tell you everything they know. Like taking candy from a baby. Easy *and* fun. The way life should be!
+>
+> "Of course Dioskoros presents some evidence that causality doesn't apply to a creature like the Night Singer. The central thrust of their thesis was that the nature of these beings is to *be eternal*."
+>
+> This was not fun. She'd casually let her fingers drift across his hand when she'd handed him the drink and he'd flinched like she'd spilled hot syrah on him. Initially she'd assumed that one of her colleagues might have been a better shout, but she was starting to accept that their reputation for standoffishness was more than just a reputation.
+>
+> "In Dioskoros' opinion, it is entirely consonant with what we know about eternals for them to take action based on events that have not yet happened."
+>
+> Actius of the Deathless Cave! What a ridiculous name. Actius of the Humourless Cave more like. If this fellow was any more po-faced his features would turn to stone. Like happened to that poor actor in the performance of Death on the River at the Storyhouse. Shocking stuff. Someone needed to get to the bottom of that, Portia thought, and then sighed as she remembered that was exactly what she was being paid to do right now. She shook her thoughts away and tried to pay attention, even as the magician kept droning on and on and on.
+>
+> "But Euthalia's rebuttal shows that all of Dioskoros evidence is drawn entirely from the realms themselves. If they're correct, and after nearly seven hundred years of checking I think we can both agree that it appears they are, then that leaves no possibility at all for a violation of causality in the mortal world!"
+>
+> She sensed from the magician's tone that this last part was meant to be important. Or interesting. Or both. It was neither. She gave him her prettiest smile anyway to encourage him to go on. Men melted for that smile. Actius did not melt. In fact, she was fairly certain he did not notice. Just tell me who is behind all this, she screamed silently. She was going to charge Nile double for making her sit through whatever this was.
+>
+> "Euthalia claims that that is *why* an eternal can never enter the mortal realm. Their nature is eternal, but in the mortal realm they would be forced to obey the rigid laws of causality. For Euthalia, it's axiomatic then, that an eternal can never be present *in the present*"
+>
+> The magician spread his hands to demonstrate how something that was very very long - or big - or something - couldn't possibly be reduced to something that was very very small. Or something. What the ever living fuck was this guy talking about? Worst. Mime. Ever.
+>
+> "But of course that is entirely tautological - it's the perfect example of an unprovable hypothesis!"
+>
+> Actius spread his hands wide to emphasise that he had finished presenting the case. He'd been surprised to receive this invitation for a meal at the House of Seven Suppers. It was certainly an odd place to meet for "an opportunity to discuss what is going on in Apulian", but he never passed up a chance to discuss research with a fellow magician and actually, he was rather enjoying the evening. His host was *excellent* company. He was even starting to wonder if she wasn't keen on him.
+
+*[Image: The cats of Apulian are beautiful.](https://www.profounddecisions.co.uk/empire-wiki/File:Rainbow_cat.jpg)*
+
+## Overview
+
+The strange night magic effects that have been affecting the city of Apulian for some time now seemed to [begin in Spring 387YE](The_play_that_came_to_Apulian.md). A year later, and there is no sign of them abating. To the contrary, the effects have only [grown over time](Nightfall_in_Apulian.md). It would be alarming if most of the actual effects weren't so engaging. The whole thing seems to be wrapped up with [dramaturgy](../../mixed/magic/lore/Dramaturgy.md) somehow, so it is possible that the construction of the [University of Dramaturgical Arts](The_play_that_came_to_Apulian.md#curiouser-and-curiouser) will shed some light on what is happening.
+
+The eternal [Sung](../eternals/Sung.md) appeared to be highly agitated by what was happening and there was some hope that the [completion of the Chamber of Euphony](../senate-motions/Construct_Chamber_of_Euphony.md), a [fane](../eternals/Fane.md) built to the *Night Singer* might provide relief. Those hopes have been dashed, if anything they have made matters *worse* not better. Well not worse exactly, but the effects are more *turbulent* almost as if Night magic was at war with itself in the streets of the City Below.
+
+At the forthcoming summit, the League Synod will have to choose who will become the Map to the City Below. Given events in the city of Apulian it would be wise to choose carefully. Not least because it appears that the fane's eternal patron already has an expedition planned for their new Map...
+
+## Weird Scenes Inside
+
+The night magic roiling Apulian has not abated, if anything it has grown more turbulent. One Urizeni scholar explained that the currents of magic are *not* getting any stronger, rather it is the *vorticity* of the currents that is growing. Apparently that means how spinny-roundy they are and is very serious.
+
+Most folk have become acclimatised to the strange nature of the City Below. The way that enjoyable, interesting, engaging things are often much closer than you expected them to be, while boring, tedious, dull things are frequently much further away than they ought to be. The city is growing apace, with residents moving there from across the Empire. Many are opening restaurants, play-houses, and opera halls - even the dullest play or the most awkward oratorio is able to break even in a city where everyone is only a footstep away from a night's thrilling entertainment.
+
+Even the animals are getting in on the excitement. Every city in the League has stray cats, but only in Apulian will you encounter a feline whose coat is pure brilliant red or uniform topaz blue. It's not clear where these oddly coloured creatures come from but they appear to be at war with the birds. Beautiful songbirds have appeared all over the city in recent days, producing exquisite birdsong and shedding wondrous rainbow feathers that scintillate with colour. They are a welcome sight to everyone but the cats, who appear to be incensed by their singing and seek to chase them off where-ever they can be found.
+
+Of more relevance is the strange things happening with [the Thrones](../../mixed/magic/lore/Dramaturgy.md#the-thrones). Previously people have spoken of a feeling of having encountered [the personae](../../mixed/magic/lore/Dramaturgy.md#the-personae) while out and about in the City Below. It is certainly easier than usual to draw on the power of the personae which would explain why people keep bumping into them.
+
+Now those effects appear to be influencing prosperous businesses. Sutlers Theatre reports that whenever they try to put on a performance of the Fall of the House of Nicovar, which has always been set in [the Tomb](../../mixed/magic/lore/The_Tomb.md), the performance keeps happening in [the Library](../../mixed/magic/lore/The_Library.md). This isn't simply a *feeling* of being at the library, the set dressing meticulously created for the production keeps changing to reflect the new throne, sometimes while the audience are actually watching the play. It has led to rave reviews from the regular audience but outrage from critics. Ricardo von Temeschwar called it "a violent assault on the senses, bombastic and iconoclastic in equal measures, all equally bad".
+
+Dramaturgy has always had a curious history with drama in the League, but it's not simply artistic performances that are being affected. League citizens who embrace the presence of the thrones in the city, are discovering any business can be affected. Morgan Halfring, a butcher originally from Meade, has seen business thrive since he painted scenes of battles on the walls of his shop. The Knights' Rest, a once-bawdy alehouse on the dock-front has gained a completely new clientele since it replaced the murals of knights and their paramours who were definitely doing anything but resting with hand-painted political slogans lifted from handbills printed by some of the more earnest bravos in the city.
+
+## Beautiful Friend
+
+It has been a long time coming. [Tears](The_play_that_came_to_Apulian.md#writhing-tails-flashing-wing) have been shed. There have been [scandalous accusations](Nightfall_in_Apulian.md#sungs-scandalous-fane). Its [construction](../senate-motions/Construct_Chamber_of_Euphony.md) has taken a year. Yet finally, it is here! The one, the only, the unmistakable, mysterious, sublime, transformative Chamber of Euphony! Seat of the [Spiral Dancer](../eternals/Sung.md), the Lord of Illusions and Lady of Mysteries. Opening night tickets selling fast! Come, celebrate - and lose yourself in mystery!
+
+Or so go the spiels, advertising to every passer-by in the city of Apulian the presence of a genuine novelty. The Chamber of Euphony is a beautiful new chamber, built by League and Urizen architects working together to create something with near perfect acoustics. A sublime stage for the performance of music. Opening night is due the week after the [Map to the City Below](../../mixed/titles/Map_to_the_City_Below.md) is first appointed.
+
+The timing is no coincidence, for the Chamber has been [ceded to the night eternal](../senate-motions/Construct_Chamber_of_Euphony.md) [Sung](../eternals/Sung.md), to serve as a seat of her power in Spiral. There are some who expect the Whispering Wind, to become the definitive patron to the fifth League city, some welcome that, and some not so much. Any production, of course, has its opening night issues...
+
+The *Rainbow Serpent* provides no answers as to what is going on in Apulian, or even what their ambitions for the city are. *Song Riddle* is notoriously cryptic, a lover of mystery, she hates giving straight answers at the best of times. These, apparently, are not the best of times, and the eternal's responses have been particularly opaque, at least on the matter of Apulian and whatever is going on in the city. If there was some hope that granting the eternal dominion over a part of the city might shed some light on the strange confluence of dramaturgy those hopes have been dashed. The Night Singer remains even more tight lipped than normal.
+
+Those who treat with her often say that she is much less agitated than she was. Less agitated... but more busy. Ever since the Chamber was completed, she has grown even more reclusive and distracted than usual.
+
+## The End of Laughter
+
+|  |
+| --- |
+| **Map the City Below** |
+| **Venture Type:** Scouting |
+| **Location:** Apulian, Spiral |
+| **Availability:** League, Dawn, Urizen |
+| **Duration:** Spring Equinox 388YE only |
+| **Rewards:** One crystal fire and a brightly coloured feather with no magical properties |
+
+- **Heralds of Sung are seeking assistance from Apulian military units in mapping the City Below**
+- **They expect the Map to the City Below to use every tool at their disposal to encourage military units to aid them to become the Map**
+- **They warn that the city will resist the effort**
+
+At the forthcoming summit, the League National Assembly are due to appoint the [Map to the City Below](../../mixed/titles/Map_to_the_City_Below.md). This obscurely named title is the official curator of Sung's fane in the city - charged by them with encouraging the spread of magic, music, and mystery in Apulian. According to the eternal, the idea is that whoever is appointed will "become" the Map to the City Below in some way. This transformation is almost certainly allegorical in nature, since the eternal is often incapable of communicating without employing hopelessly over-wrought metaphors.
+
+However, some part of the role appears to be deeply *practical*. The Rainbow Serpent is calling on Apulian citizens who have the means to help the eternal map the city below. After several painful attempts to explain what this actually entails, it appears to consist of employing soldiers, military units, to map out every sewer opening, every grate, every drain cover, and every subterranean passage in the city. Sung says a lot more than that, but it's all entirely circuitous rambling. Quite why on earth anyone would want to waste their time making a map of the sewers is beyond anyone - it's not like there isn't a perfectly good map of roughly where they run already, but when that is put to the eternal they just become increasingly agitated, almost like a child frustrated that they cannot make themselves understood.
+
+In fairness, Apulian's sewers are a real maze. Already well-made by the previous Urizen inhabitants, they were widened under Kaliact's rule with several new sewers dug. The Greater Doubt, flowing now more than ever before from Apstrus above since the dam's construction, runs into sluice gates at the city's walls into the dark tunnels below. This isn't inherently mysterious, of course - indeed there is something basely prosaic about the sewers. But it seems the tunnels are becoming even more tangled that the streets above. Sung's heralds seem desperate to find the heart of this maze, the twist around which this tangled warren is forming.
+
+In the coming season there will be a scouting venture available to League, Urizen and Dawnish military units: **Map the City Below**. Only the League and Urizen have actually been invited to take part, but Dawnish glory hounds can turn up anyway if the quixotic adventure feels romantic or glorious enough to sacrifice their time. Military units that take the action will receive one piece of crystal fire and a "rainbow feather" as payment for their services regardless of whether the military unit is upgraded or enchanted. Sung's heralds don't seem to be able to comprehend the logistics of paying more for a more effective unit, despite the fact that they are clearly desperate to get as many people as possible to help.
+
+> *In-character text:*
+>
+> > *In-character text:*
+> >
+> > ~~The eternal Sung requests the assistance of League military units to help recreate a map the Empire already has. They need the help of an unknown number of military units to produce an outcome they cannot articulate. It defies divination and offers meagre returns.~~
+> >
+> > Sardonic comments struck out of the official civil service briefing
+
+If a total military strength of 3000 is assigned to **Map the City Below** then the operation will be a success. Sung is utterly incapable of articulating what that will mean or entail and traditional attempts at divination with day or night magic have proven essentially useless. However Sung is able to warn that "the city will resist the effort" claiming that, in effect, there will be military units abroad in the city trying to thwart the efforts. If those who are Mapping the City cannot overcome the efforts of those who are trying to thwart them, then the attempt will fail. And there is apparently no way to tell how strong that resistance might be.
+
+The promised rainbow feather apparently does not even have any magical powers: it is literally just one of the brightly coloured feathers from Sung's wings. When it is explained to the eternal that the payment they are offering is unlikely to prove sufficient by itself to motivate captains seeking good rewards they become very agitated. After something that best resembles an "expression of distress", they respond by producing a large sack of crystal fire which they plead with the civil service to pass to the newly appointed Map to the City Below so that they can use it to pay for whatever is needed.
+
+Whoever is appointed to the position of Map to the City Below at the coming summit can collect a bag of 37 crystal fire from the civil service on request. This comes with "instructions" to be used to pay to recruit willing captains to map the city, but the eternal will have no way to know who has been paid or what, so what the Map does with it is entirely up to them.
+
+## Participation
+
+> **Resources**  
+> We only record what territory your resource is in - so we don't normally restrict benefits like this. In this case, however, the effects are peculiar to the city itself. If your resource is in Spiral, and you roleplay that your resource is in the city (which would be normal for most [League](../nations/the-league/The_League.md) characters and some Urizen characters) then these effects apply to your character, otherwise you should ignore this effect.
+
+Any characters living in, or visiting, Apulian may have experienced one or more of the strange phenomena as ordinary locations around the city start to feel extraordinary. A florist tends their flowers, grown under glass and mithril filigree. Suddenly, the flowers erupt with growth, stems shooting through the panes and baring the florist to the chaos of the endless wail of the Plateau. A scholar pauses by their bookshelves discovers that a furiously bubbling jar of blackest ink in their pocket has turned to purest water.
+
+Some of these incidents are dangerous, but thus far there has been no loss of life. Two bravos bite their thumbs at each other in a narrow alleyway, friends jeering encouragement, only to find that a friendly duel between rivals has become a narrow escape from death, as what both thought a blunt blade turns out to have the strength to cleave a limb. One of the actors performing Death on the River at the Storyhouse collapsed during the performance after his face turned to stone. Doctors were able to treat the magical traumatic wound but say he may never act again.
+
+Any character who has visited Apulian may roleplay that they have experienced any of the strange magical effects afflicting the city, or encountered one or more of its oddly coloured denizens. Any such character can choose to show their support for the cats or the birds warring over the city.
+
+The second participation effect, involving the dramaturgical influence of the personae and thrones is just for characters who *live* in the city of Apulian. It doesn't matter what nation you are from, if your character's resource is in Spiral and you roleplay that the resource is in the city of Apulian then you can be benefit from the strange hearth magic confluence of dramaturgy embroiling the city.
+
+### Participation: Cats and Birds
+
+- **Any character who has spent time in Apulian can choose to ally themselves with the rainbow cats of knight or the numinous songbirds of mourning**
+- **Allies of either faction can draw on the power of the allegiance to bolster their strength**
+
+The strange monochromatic cats that have appeared in Apulian are apparently at war with the oddly coloured songbirds. Any character can choose to ally themselves with one or other of these two warring tribes to gain a benefit. You must choose a side, no character can ally themselves with both the cats and the songbirds.
+
+**Songbirds:** If you wish to support the numinous songbirds of mourning, then you can display your allegiance by incorporating one or more brightly coloured feathers into your costume. If you do this, then you gain the following benefit.
+
+Whenever you burst into song or dance for more than a minute, you gain a single hero point. This hero point is the first to be used and is lost once it is used. You cannot gain two hero points at the same time from this effect, nor gain more than one hero point in this way during a single dramatic scene, skirmish or battle. It feels natural and heartwarming, when others sing or dance, no matter the setting.
+
+**Cats:** If you wish to support the rainbow cats of knight, then you can display your allegiance by incorporating an image of a paw-print with five toes anywhere on your costume. It might be drawn on a fan, embroidered on a handkerchief, or painted on a mask, or with henna or make-up on the face or hands. Provided it is small and subtle you gain the following benefits.
+
+Whenever you engage in intrigue or gossip, whether conspiring with an associate, or simply passing on tittle-tattle for more than a minute, you gain a single hero point. This hero point is the first to be used and is lost once it is used. You cannot gain two hero points at the same time from this effect nor gain more than one hero point in this way during a single dramatic scene, skirmish or battle. You have sense that others around you are involved in intrigue and feel an urge to find out what they are doing so that you can pass it on.
+
+### Participation: Personae and Thrones
+
+- **Any character whose personal resource is in Apulian can draw on the personae as a source of spiritual strength**
+- **Any Night mage whose resource is in Apulian gains 1 rank of Night magic subject to the normal rules for effective skill**
+- **They instead gain two ranks when casting Night magic shrouds, if they employ masks of one or more of the city's five personae**
+- **They instead gain two ranks when casting Night divinations, if they employ props related to one or more of the city's five thrones**
+
+During this summit, any Apulian character (that is a character whose resource is in the city of Apulian) may once more draw on the power of one of the five personae (with the exclusion of the Mountebank) as a source of spiritual strength to resist a roleplaying effect by instead embracing the roleplaying associated with this intensification of the personae. You may do this at any time during the summit, as often as feels appropriate, but you may only use a single personae throughout the event.
+
+- **The Witch** - You feel emboldened to meddle in the affairs of others, however much they try to keep them private
+- **The Captain** - You feel driven to challenge others to act on their ambitions and to assist when their goals align with yours
+- **The Bishop** - You feel confident to engage in debates on spiritual matters, especially pertaining to death and what follows
+- **The Doctor** - It feels natural to answer the questions of others with further questions, encouraging people to explore new ideas curious
+- **The Prince** - You feel driven to study others when they talk, you find yourself looking for lies and the ways in which they can be manipulated
+
+In addition, any Apulian character can make their tent or camp resonate with one of the five thrones (with the exclusion of the Chamber). To achieve this effect, just make some alteration or change to your normal set dressing, no matter how small, that you feel invokes the throne you have chosen. If your character consciously chooses to embellish their camp in a way intended to invoke a throne, then it will gain a location aura (**OOC Note:**  let the ref know which throne you are invoking, the refs will have a standard location aura for each of the five thrones).
+
+- **The Garden** - resonant with scenes and locations of creation or destruction, or which are tied up with health of the body
+- **The Battlefield** - resonant with scenes and locations of conflict and death, or which are tied up with commitment or empowerment
+- **The Counting House** - resonant with scenes and locations of money and power, or which are tied up with valuable items or treasures
+- **The Tomb** - resonant with scenes and locations of tragedy and transition, or which are tied up with condemnation and curses
+- **The Library** - resonant with scenes and locations of learning and introspection, or which are tied up with purification of the impure.
+
+Any Apulian magician who possesses the Night lore skill, gains one additional effective rank to all Night rituals cast this summit. Furthermore, if you employ a mask depicting one of the five personae above during the casting of a ritual, you instead gain two effective ranks to all Night rituals that create shrouds (such as [Drawing the Penumbral Veil](../../mixed/magic/rituals/Drawing_the_Penumbral_Veil.md) or [Incantation's Mystic Mask](../../mixed/magic/rituals/Incantation-s_Mystic_Mask.md)). If you employ props or set dressing that evokes one of the five thrones above during the casting of a ritual, you instead gain two additional effective ranks to all Night ritual divinations. These benefits are *all* subject to [the normal rules for effective skill](../../out-of-character/rules/Magical_skills.md#gaining-additional-ranks).
+
+Whenever you make use this additional effect, you find the memory of the personae or throne lingers in your thoughts and feelings for some time afterwards.
+
+The Mountebank and the Chamber are inaccessible to these resonances. In addition, any character whose resource is in Apulian will struggle to use the either the Chamber or the Mountebank when performing a ritual using dramaturgical techniques. Both resist being *in the performance*.
+
+## Desperately in Need
+
+- **The duSesna guild are coming to Anvil to raise support to find their missing merchant prince**
+- **Anyone who chooses the venture to rescue the missing prince will undermine efforts to map the city below**
+- **League priests have an opportunity to decry the situation in Apulian or encourage others to take Pride in it**
+
+There are some citizens of Apulian who cannot stand all this. The most vocal critics of the whole affair have been the duSesna Guild of Reckoners. Their guildmaster, *Teodore duSesna*, decried the decision to build Sung's fane. Now - it is true that his criticisms and accusations were wide-ranging, essentially unfounded, and involved the supposition of some kind of gigantic conspiracy involving the Senator for Spiral, the holder of the Legacy, prominent members of the Synod, and several eternals of Night. He was inquisitioned by the Synod over the matter, and the League Assembly have [demanded he apologise](../synod-judgements/387YE_Winter_Solstice_Synod_judgements.md#judgement-62).
+
+|  |
+| --- |
+| **Rescue the Missing Prince** |
+| **Venture Type:** Scouting |
+| **Location:** Apulian, Spiral |
+| **Availability:** Any |
+| **Duration:** Spring Equinox 388YE only |
+| **Rewards:** None |
+| **Effects:** Every military unit working to rescue Prince duSesna subtracts their military strength from those attempting to Map the City Below |
+
+Unfortunately, Prince duSesna has disappeared - he has not been seen for at least two months. The other members of his guild are blaming this vocally on both the Synod - for persecuting a man who was simply concerned for his city (even if perhaps some of his accusations were a little overboard) - and on Sung herself. They profess a sincere belief that the eternal has had Teodore "*disappeared*" for "*knowing too much*". They are coming to Anvil between 18:00 and 19:00 on the Friday of the Spring Equinox, and seem to be planning to complain in person to a wide variety of people.
+<--==Resolution==
+
+- [This is the end](This_is_the_end.md)
+
+-->
+
+While there, they hope to rally support to find their Merchant Prince. If he is still alive, they want him back. If Sung has had him murdered, they want to find the body so that they can ~~employ reckoners to take revenge~~ report it to the proper authorities. The obvious place to look is where Sung is clearly trying to conceal the evidence of their crimes - in the sewers beneath Spiral. While they are at Anvil they intend to use the limited funds they have to try to hire citizens to support their efforts.
+
+If a total military strength of 3000 is assigned to **Rescue the Missing Prince**, then the operation will be a success, and the merchant prince will be found, either alive or dead, as the case may be. Unfortunately, the efforts of the duSesna Guild will inevitably compromise the delicate operations planned by Sung, so any military units assigned to this venture will *also* subtract directly from the efforts to Map the City Below on a one-for-one basis. The guild are utterly unapologetic about this challenge and point out that they are trying to find a missing Imperial citizen who just may have been murdered by the Night equivalent of [Agramant](../eternals/Agramant.md), so the folks who want to idolatrously serve Sung will just have to put up with that. On the plus side, the efforts of the military units mapping the City below won't stop the duSesna efforts to find their missing prince.
+
+The duSesna Guild finish with an appeal to the League National Assembly. An inhuman power is stalking the streets of Apulian they say. The Chamber of Euphony is little more than a barely-concealed church to venerate this seductive serpent they claim. Imperial citizens who try to take a stand against this madness that has descended on the city have been murdered by this feathered monster. Can it really be be a coincidence that the true name of "Sung" is Whispering Wind, when "the Whisperer" is another name for [Agramant](../eternals/Agramant.md)?!? The Synod were quick to condemn their merchant prince for taking a stance, surely they must say *something* now that an entire city is in peril they demand.
+
+Whether or not the Assembly chooses to weigh in on the events in the city, for good or bad, one thing is certain. The loss of the duSesna merchant prince has not curtailed the guild's ability to make wildly unconvincing claims.
+
+---
+
+Categories: [388YE Spring](../../indexes/by-category/388YE_Spring.md), [Winds of Fortune](../../indexes/by-category/Winds_of_Fortune.md)

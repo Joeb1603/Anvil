@@ -1,0 +1,26 @@
+{{Army Page}}
+{{CaptionedImage|file=QuietStep_Colour.png|align=right|width=300}}
+===Overview===
+The army of the Quiet Step is loosely organised, allowing individual components a certain amount of leeway to operate as they see fit but benefiting from a central logistical core. They were once known for their experienced scouts capable of quickly gathering information about the enemy armies they encounter. They are equally adept at facing barbarian orcs, vallornspawn and [[Varushka|Varushkan]] monsters. Since the Winter Solstice 381YE, however, they refocused their purpose toward more aggressive tactics, employing [[Army qualities#Cunning|cunning]] strategies to confound and slaughter their foes. This shift in emphasis was effected with the assistance of the [[eternal]] known as the [[Arhallogen|Spider King]] - heralds and creatures loyal to Arhallogen sometimes accompany or support the army.
+
+The second Navarr general leads the Quiet Step army, and is appointed (or re-appointed) at the Autumn Equinox each year.
+===History===
+TBC
+__TOC__
+TBC
+====Recent History====
+TBC
+
+===Traditions===
+TBC
+
+====Aneira's Talon====
+The General of the Quiet Step bears ''Aneira's Talon'', an artefact of unknown power. It is the legal property of the title. If the general loses their position, then the item must be given to the new general with all appropriate haste. The general is encouraged to take all appropriate precautions to keep this item safe.
+
+==Composition==
+TBC
+==Army Quality : [[Army_qualities#Cunning|Cunning]]==
+Originally perhaps better known for their [[Army qualities#Scouts|scouts]], following the Winter Solstice 381YE, they refocused their purpose toward more aggressive tactics, employing [[Army qualities#Cunning|cunning]] strategies to confound and slaughter their foes. This shift in emphasis was effected with the assistance of the [[eternal]] known as the [[Arhallogen|Spider King]] - heralds and creatures loyal to Arhallogen sometimes accompany or support the army.
+<!--{{CaptionedImage|file=Neve Agra.jpg|caption='''Neve Agra''', General of the Quiet Step|align=left|width=300}}-->
+{{RecentElections|General_of_the_Quiet_Step|the title of [[General]] of the Quiet Step}}
+[[Category:Imperial Army]][[Category:Navarr]][[Category:Military Council]]

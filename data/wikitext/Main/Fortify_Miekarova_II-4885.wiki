@@ -1,0 +1,26 @@
+<ic>To raise a fortress in Miekarova (Self Funded)<br><br>''Proposed by Miekarova, seconded by Karsk''</ic> 
+{{CaptionedImage|file=RegionsofMiekarova.png|title=The woods are lovely, dark and deep|caption=Regions of Miekarova|align=right|width=400}}
+===Overview===
+* The creation of a new [[fortification]], in the region of [[Miekarova#Perumaki|Perumaki]].
+* The fortification will be named Grimhold.
+* The fortress is being built in the Vale of Strascovia, home of the Vor'Azi people, using the crumbling ruins of their ancestral castle as the foundation.
+* A previous [[Fortify Miekarova|motion]] to raise a fortification in this [[Varushka|Varushkan]] territory was defeated in Winter 378YE.
+
+===Date===
+* Spring 379YE
+
+===Costs===
+* Materials: 80 [[Bourse#White_Granite|white granite]] and 20 thrones. ([[Fortification#costs|Standard costs]]).
+* Time: 1 year to construct
+* Upkeep: 10 thrones per season.
+
+===Progress===
+* 40 wains of white granite and 20 thrones provided by Dušan Otecovna Zlata after Spring Equinox 379YE.
+* 40 wains of white granite provided by Dušan Otecovna Zlata after Autumn Equinox 379YE.
+
+===Campaign Outcome===
+* When complete, this will create a rank one fortification in Miekarova.
+
+[[Category:Senate Motion]]
+[[Category:379YE Spring]]
+__NOTOC__

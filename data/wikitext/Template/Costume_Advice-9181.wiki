@@ -1,0 +1,1 @@
+<div class="alert">This page contains guides written by players that may be of interest in making costume pieces. It is a very early page intended to supplement the {{{1}}} page, and may have been superceded. Official costume advice is found on the [[Costume]] page.</div>

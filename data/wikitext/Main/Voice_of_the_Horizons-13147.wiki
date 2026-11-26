@@ -1,0 +1,15 @@
+[[Category:Conclave]] [[Category:Title]]__NOTOC__
+==Overview==
+The Voice of the Horizons is an [[Imperial title]] appointed by the [[Conclave]]. [[387YE_Autumn_Equinox_Senate_sessions#Create_Voice_of_the_Horizons|Created]] during the Autumn Equinox 387YE, the motion was proposed by '''Sejanus of the Scarlet Guard''', the senator for [[Morrow]]. The Voice of the Horizons serves as part of the Conclave to advise the Conclave on the implications of doing so, and to liaise with ambassadors during negotiations involving the dissemination of rituals.
+
+==Responsibilities== 
+The Voice of the Horizons is responsible for overseeing the dissemination of rituals from Imperial lore, advising the Conclave on the implications of doing so, and liaising with [[ambassador|ambassadors]] during negotiations involving the dissemination of rituals to foreign nations and groups outside the Empire.
+
+==Powers==
+===Dissemination===
+{{Power of Declaration|Voice of the Horizons|Dissemination}}
+
+==Appointment==
+The appointment, replacement, or removal of the Voice of the Horizons is made by the [[Candidacy|Declaration of Candidacy]] as part of a [[Conclave session]]. The Voice of the Horizons serves until they are replaced by another magician using the Declaration of Candidacy. As a title in the Conclave, they cannot be [[Revocation|revoked]].
+<!--{{CaptionedImage|file=Cassandra11972.jpg|caption=Cassandra i Periera i Erigo, Imperial Censor|align=left|width=250}}-->
+{{RecentElections|Voice_of_the_Horizons}}

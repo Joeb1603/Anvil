@@ -1,0 +1,27 @@
+==Overview==
+The [[Strategos]] of Wintermark was established by [[385YE_Autumn_Equinox_Senate_sessions#Create_titles_of_National_Strategos|a vote]] of the [[Senate]] during the Autumn Equinox 385YE. There are ten strategos in total - one for each of the Imperial nations.
+
+==Responsibilities==
+The Strategos of Wintermark is responsible for protecting the legal rights of the citizens within Wintermark who have been recognised by the Civil Service as being responsible for conjunctions through the Sentinel Gate; to work within the nation of Wintermark, and nominated citizens, and with the other strategos to maximise the odds of the Empire's success beyond the Sentinel Gate; to provide tactical, logistical, and personnel support to nominated citizens; to coordinate and provide material support in the form of [[herb|herbs]], [[Game_items#Mana_Crystals|mana crystals]], [[potion|potions]], equipment, or other specialist items; and to serve as a point of contact for the fighters of their nation intending to take the battlefield. Whilst the strategos has a responsibility to coordinate and support those venturing through the Sentinel Gate there is no expectation that they themselves would need to.
+
+==Powers==
+===Bounty of Mana===
+The Strategos of Wintermark has custodianship of the [[#Vale's Might|Vale's Might]] sinecure. They receive an income of 10 crystal mana each season.
+{{CaptionedImage|file=Verdehil.jpg|caption='''Verdehil''', Strategos of Wintermark|align=left|width=250}}
+==Appointment==
+The Strategos of Wintermark is appointed during the Autumn Equinox each year. It is selected by unanimous decision of [[Wintermark]] [[general|generals]]. If a unanimous decision cannot be reached, the title may be appointed by the [[Military Council]] instead.
+
+The title can be held by any citizen of Wintermark. The Strategos serves until the next scheduled election. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Wintermark [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Strategos_of_Wintermark}}
+==Vale's Might==
+The great stone pillared entrance to Vales Might is flanked by two large stone and metal braziers, each with the [[Pallas|rune of Wealth]] carved upon it. These are lit during the winter months to guide hunters, traders and other lost folk back to a place of warmth and safety. Vale's Might stands near its sister sinecure the [[Herbalist_of_the_Hearth#The Valley of Pride|Valley of Pride]]. It is located in the foot of the nearby cliffs and high hills that stand just outside the village of Woodhall. 
+
+The Wintermark hall of Hendle Hearth can been seen from the entrance to Vales Might and is a mere few minutes’ walk away. [[Hahnmark#Southridge|Southridge]] and [[Hahnmark#Wood Heath|Wood Heath]] lie less than a days travel away in opposite directions from the impressive entrance to this sinecure. To gain access here you must first pass the huge doors that are designed to hold fast against all save the worst of winter storms, or all but the most ferocious and determined of attackers. 
+
+Once inside, a visitor must follow the twists and turns of the passage that snakes its way down level by level, deeper and deeper into the depths. At the bottom of the passage is a final mighty door, above which is engraved the message "''The ebb and flow of magic will forever match the ebb and flow of the Empire. Long live the Empire''.” 
+
+The door opens into a large cavern whose walls are studded with crystals. A pool of silvery water is spread thinly across the bottom of the cavern, and all of the crystals can be seen to have grown over the decades from the water.
+
+[[Category: Title]]
+[[Category: Military Council]]
+[[Category:Wintermark]]

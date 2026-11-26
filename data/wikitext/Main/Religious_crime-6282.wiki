@@ -1,0 +1,118 @@
+===Abuse of Powers===
+The crime of abuse of powers is defined as: ''The misuse, or abuse, of the powers of a priest. This includes the powers of the Synod, as well as liao ceremonies.''
+
+The Synod has proscribed the following as abuse of powers:
+
+<table class="wikitable sortable">
+<tr><th>Subject</th><th>Proscription raised by</th><th>Date</th><th>Guidance</th></tr>
+<tr><td>Performing the ceremony of [[excommunication]] without a [[writ of Excommunication|writ]], where the subject does not consent<sup>[[#1|(1)]]</sup></td><td>[[Tribune of the Synod]]</td><td>[[387YE_Winter_Solstice_Synod_judgements#Judgement_4|387YE Winter]], amended [[388YE_Spring_Equinox_Synod_judgements#Judgement_80|388YE Spring]]</td><td>[[Stones_in_the_wellspring#Abuse_of_Powers|link]]</td></tr>
+</table>
+
+<small>
+#{{anchor|1}} This does not include using the ceremony to ''remove'' an existing excommunication.
+</small>
+
+===Blasphemy===
+The crime of blasphemy is defined as: ''The denigration of the paragons and the paths of virtue. This includes promoting false virtues and the teachings of false exemplars or false paragons.''
+
+The false virtues are understood to be Anarchy (also known as Freedom), Peace (also known as Understanding), Hatred (also known as Purity) and Vengeance (also known as Justice).
+
+The Synod has proscribed the following as acts of blasphemy:
+
+<table class="wikitable sortable">
+<tr><th>Subject</th><th>Proscription raised by</th><th>Date</th><th>Guidance</th></tr>
+<tr><td>Dedicating someone to a false virtue, or creating an aura of a false virtue</td><td>[[Tribune of the Synod]]</td><td>[[387YE_Winter_Solstice_Synod_judgements#Judgement_5|387YE Winter]]</td><td>[[Stones_in_the_wellspring#Blasphemy|link]]</td></tr>
+<tr><td>Preaching or promoting of the false virtue of Vengeance</td><td>Alessi of the Basilisks of the Labyrinth</td><td>[[387YE_Winter_Solstice_Synod_judgements#Judgement_152|387YE Winter]]</td><td>[[Stones_in_the_wellspring#Blasphemy|link]]</td></tr>
+<tr><td>Preaching or promoting of the false virtue of Understanding</td><td>Olyvar of Esther's Sanctum</td><td>[[387YE_Winter_Solstice_Synod_judgements#Judgement_153|387YE Winter]]</td><td>[[Stones_in_the_wellspring#Blasphemy|link]]</td></tr>
+<tr><td>Preaching or promoting of the false virtue of Hatred</td><td>Silas of the Cenotaph</td><td>[[387YE_Winter_Solstice_Synod_judgements#Judgement_154|387YE Winter]]</td><td>[[Stones_in_the_wellspring#Blasphemy|link]]</td></tr>
+<tr><td>Preaching or promoting of the false virtue of Freedom</td><td>Theodora</td><td>[[387YE_Winter_Solstice_Synod_judgements#Judgement_155|387YE Winter]]</td><td>[[Stones_in_the_wellspring#Blasphemy|link]]</td></tr>
+</table>
+
+<table class='wikitable mw-collapsed mw-collapsible sortable'>
+<tr><th>Subject</th><th>Raising judgement</th><th>Rescinded by</th><th>Date</th></tr>
+<tr><td>Bearing a dedication or anointing of a false virtue</td><td>[[387YE_Winter_Solstice_Synod_judgements#Judgement_97|Judgement 97 Winter 387YE]]</td><td>Edward Greyfriar</td><td>[[388YE_Summer_Solstice_Synod_judgements#Judgement_154|388YE Summer]]</td></tr>
+</table>
+
+===Desecration===
+The crime of desecration is defined as: ''The removal of spontaneously created virtuous auras such as legacies of ascendance to paragonhood. This includes such auras arising on areas and objects, and those people who do not wished them removed.''
+
+The Synod has proscribed the following as acts of desecration:
+
+<table class="wikitable sortable">
+<tr><th>Subject</th><th>Proscription raised by</th><th>Date</th><th>Guidance</th></tr>
+<tr><td>Desecration or destruction of any relics or memorials associated with a paragon or exemplar<sup>[[#1|(1)]]</sup></td><td>[[Tribune of the Synod]]</td><td>[[387YE_Winter_Solstice_Synod_judgements#Judgement_6|387YE Winter]]</td><td>[[Stones_in_the_wellspring#Desecration|link]]</td></tr>
+</table>
+
+<small>
+#{{anchor|2}} This only applies where the relic or memorial bears a spontaneous aura.
+</small>
+===Heresy===
+The crime of heresy is defined as: ''The wilful rejection, or perversion of, the orthodox [[The Doctrines of the Faith|Doctrines of the Faith]] as laid down by the Imperial Synod, or actively teaching and promoting false doctrines.''
+
+The Synod does permit the discussion, and debate, of the doctrines, and potential variations thereof, as part of theological investigation and learning. The criminal act is the teaching of “truth” that has not been recognized as such by the Synod. Virtuous priests are admonished to seek to change doctrine in the Synod, rather than undermine it.
+
+The Synod has proscribed the following as heresy:
+
+<table class="wikitable sortable">
+<tr><th>Subject</th><th>Proscription raised by</th><th>Date</th><th>Guidance</th></tr>
+<tr><td>[[Schisms_and_Heresies#The_Excessionist_Heresy|Excessionism]], the belief that too much of a virtue can be as bad as too little</td><td>[[Tribune of the Synod]]</td><td>[[387YE_Winter_Solstice_Synod_judgements#Judgement_7|387YE Winter]]</td><td>[[Stones_in_the_wellspring#Heresy|link]]</td></tr>
+<tr><td>[[Schisms_and_Heresies#The_Yaelian_Schism|Yaelianism]], the belief that there is a "Land without Tears" and that Yael was the [[First Empress]] reborn</td><td>Corey Wayfarer</td><td>[[387YE_Winter_Solstice_Synod_judgements#Judgement_17|387YE Winter]]</td><td>[[Stones_in_the_wellspring#Heresy|link]]</td></tr>
+<tr><td>The belief that that the established virtues or the Way are not helpful for the spiritual life of orcs or humans</td><td>Maarit Suvidottir</td><td>[[388YE_Spring_Equinox_Synod_judgements#Judgement_72|388YE Spring]]</td><td></td></tr>
+<tr><td>Theism, the belief that there are gods that seek dominance of, control over or communion with sapient spirits</td><td>Frater Pontius of Adoniram’s Testament</td><td>[[388YE_Spring_Equinox_Synod_judgements#Judgement_114|388YE Spring]]</td><td></td></tr>
+<tr><td>Realmism, the belief that the Labyrinth of Ages is a realm of magic, and that Paragons become Eternals</td><td>Merlof Von Temeschwar</td><td>[[388YE_Spring_Equinox_Synod_judgements#Judgement_115|388YE Spring]]</td><td></td></tr>
+<tr><td>Heresy of the Spawn, the idea that the [[vallorn]] has any significant capacity to influence or prevent the passage of the spirit or soul after death</td><td>Nathair Autumngale</td><td>[[388YE_Summer_Solstice_Synod_judgements#Judgement_47|388YE Summer]]</td><td>[[A_little_at_a_time#Heresy_of_the_Spawn|link]]</td></tr>
+</table>
+
+===Idolatry===
+The crime of idolatry is defined as: ''Submitting mortal will to any force or sapient being not otherwise defined as a person in law. This includes worship, exaltation, or devotion towards any such being or force.''
+
+The definition of idolatry was [[388YE_Summer_Solstice_Senate_sessions#Redefine_Crime_of_Idolatry|changed]] at the Summer Solstice 388YE, following [[Stones_in_the_wellspring#A_change_in_perspective|calls]] by the Prosperity Assembly to amend it to include orcs.
+
+The Synod has proscribed the following as acts of idolatry:
+
+<table class="wikitable sortable">
+<tr><th>Subject</th><th>Proscription raised by</th><th>Date</th><th>Guidance</th></tr>
+<tr><td>Entering into the service of an eternal or tulpa, where the service subsumes the individual's free will<sup>[[#2|(2)]]</sup></td><td>Eevi of the Gadrai</td><td>[[387YE_Winter_Solstice_Synod_judgements#Judgement_145|387YE Winter]], amended [[388YE_Summer_Solstice_Synod_judgements#Judgement_160|388YE Summer]]</td><td>[[Stones_in_the_wellspring#Idolatry|Initial proscription]]<br>[[A_little_at_a_time#Idolatry|Subsequent amendment]]</td></tr>
+<tr><td>Venerating an icon of an eternal</td><td>Felix Saltspire</td><td>[[387YE_Winter_Solstice_Synod_judgements#Judgement_128|387YE Winter]]</td><td>[[Stones_in_the_wellspring#Idolatry|link]]</td></tr>
+<tr><td>Ending a person's life, or allowing a person's life to end, as an offering to an inhuman power</td><td>Sofonisba Amilcara of the City Below</td><td>[[388YE_Spring_Equinox_Synod_judgements#Judgement_66|388YE Spring]]</td><td></td></tr>
+<tr><td>Venerating or entering the service of an inhuman entity of the labyrinth</td><td>Lepidina</td><td>[[388YE_Spring_Equinox_Synod_judgements#Judgement_149|388YE Spring]]</td><td></td></tr>
+</table>
+
+<small>
+#{{anchor|2}} This does not include serving an eternal as their representative to the Empire, so long as this is public knowledge.
+</small>
+
+===Moral injury===
+The crime of moral injury is defined as: ''An act via physical, spiritual, or magical that directly harms, corrupts or defiles the soul of an Imperial citizen.''
+
+Moral injury was [[388YE_Summer_Solstice_Senate_sessions#Create_Crime_of_Moral_Injury|created]] as a religious crime by the Senate at the Summer Solstice 388YE. The Constitutional Court has [[A_little_at_a_time#Moral_Injury|published guidance]] as to what could be validly proscribed under this law.
+
+The Synod has not yet proscribed any acts as moral injury.
+
+<ic>Anger radiated from Garath, filling the tent in which he was sat. The Sentinel by the doorway tensed in response. Conversely, Casia, her black-eyes unblinking, appeared entirely unperturbed and gently stroked her barbels as she considered the broker.
+
+“This is a travesty, and a waste of time,” spat Garath, “Do you really have nothing better to do with your time, fendweller?”
+
+Casia merely considered him in silence.
+
+“You had no right to haul me in like some criminal!” Gareth railed, “I was in the middle of an important trade deal. You’ve cost me a lot of money and I’ll have every ring of it out of your sodden hide.”
+
+The merrow Illuminate simply lifted her cup and drank from it. Taking her time to finish it if full, she turned again to Garath. Rising from her seat she circled his seat before she finally spoke.
+
+“I’m curious,” she said, without irony, “I have spoken at length to some of your business partners. You are a successful trader, there is no doubt. Yet the part that I do not understand is what you do with the liao you purchase from the Bloodhammer legion. No one I have spoken to reports you ever selling any of it.”
+
+Garath snarled, “Is that it? My cousin Gwyn is a Guide. I provide it to him as part of the work of the Faith. Go and ask him.”
+
+Casia nodded, and paused to produce a notebook in which the name was carefully inscribed. As she was putting her pen away, the tent flapped jostled and another Sentinel entered carrying a bag.
+
+Garath blanched, “That’s mine! You’ve no right…”
+
+“I think you will find that priests of the Synod have the right to go a great many places,” Casia interrupted calmly, as she took the bag from the armed man. Reaching in she produced a handful of small documents.
+
+“Oh my,” she said, her tone unchanged despite the expression of surprise, “I do believe I have seen some of these in the tavern. Leaflets extolling the glory of Elora, Goddess of Hope.”
+
+The black eyes fixed themselves on Garath again, “I do believe that’s heresy, blasphemy and idolatry in one single stroke. Thank you for your time Broker Garath, your inquisition is concluded. I would suggest you do not make any plans to leave Anvil as I am quite sure the magistrates will be wanting a word.”
+
+As Garath rose, Casia gestured and the two Sentinels moved to either side of him. Garath glared at his shadows, but said nothing as he left the tent with the two following him.</ic>
+{{Synod Further Reading}}
+[[Category:The Law]]

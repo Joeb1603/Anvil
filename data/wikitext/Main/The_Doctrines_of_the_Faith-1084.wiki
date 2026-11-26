@@ -1,0 +1,80 @@
+==Overview==
+The history of the Doctrines of the Faith, which guide pilgrims along the path of [[the Way]], is not especially straightforward. Historians disagree about their precise origins, with the [[Historical_research#The_Department_of_Historical_Research|Department of Historical Research]] agreeing that the wording of the Doctrines as they are recognised today were first recorded in 73YE. The most well-known commentary on the Doctrines - the one many school children are familiar with - was written somewhat later in 106YE by a [[the League|League]] [[bishop]]. It speaks about the "underpinning" of each of the doctrines known at the time, although some priests disagree with its conclusions.
+
+Two of the Doctrines - the [[#The Doctrine of the Howling Abyss|Doctrine of the Howling Abyss]] and the [[#The Doctrine of the Ancestors|Doctrine of the Ancestors]] are ''much'' later additions. Proposed by Bonewall Rek and Bonewall Cole of the [[Imperial Orcs]], they were recognised in the Empire as the result of a [[change of doctrine]] during the Winter Solstice 380YE. They proved somewhat controversial, especially with the ''präster'' of the [[Sumaah Republic]] who have still not accepted them and continue to [[If_the_wheel_is_fixed#The_Orc_Question|debate their implications]].
+
+During the Spring Equinox 384YE, [[historical research]] was commissioned into the [[On the Doctrine of Human Destiny|origins of the Doctrine of Human Destiny]], which may also provide some insight into the way the Doctrines were codified.
+
+==Doctrines of The Faith==
+The doctrines of the faith represent the orthodox understanding of the Way. Each Doctrine is the product of experimental theology that has been debated, analysed and formally recognised by the Synod. Teaching doctrines that are at odds with, and thus undermine, the Doctrines of the Faith are regarded as [[Religious_crime#Heresy|heresy]] and are a [[Religious crime|crime]] under Imperial law.
+===The Doctrine of Reincarnation===
+<div class="ic"><div class="ic-inner" style="display: block;">
+<big>''The human spirit is immortal. It inhabits mortal flesh for a span within the world before being liberated again, having gained knowledge and enlightenment. It traverses the Labyrinth of Ages before returning to mortal life through new birth.''</big></div></div>
+
+'''Commentary:''' The Doctrine is underpinned by discovery and analysis of pure liao which, it has been concluded, provides visions of a person’s past lives. This is further supported by the discovery of archaeological evidence that matches the content of some liao visions.
+
+===The Doctrine of Enlightenment===
+<div class="ic"><div class="ic-inner" style="display: block;">
+<big>''Virtue lies in choice and action. Virtue's power to exalt transcends the boundaries of soul, spirit, and species, guiding and inspiring both orcs and humans to their highest destiny. Through the practice of Virtue, orcs and humans develop the strength, knowledge, and enlightenment which marks their highest potential as thinking beings.''</big></div></div>
+
+'''Commentary:''' This Doctrine was [[385YE_Autumn_Equinox_Synod_judgements#Judgement_3|proposed]] by Lady Clarice Novarion, and formally accepted by the General Assembly of the Imperial Synod, at the Autumn Equinox 385YE, replacing the disavowed [[#The Doctrine of Human Destiny|Doctrine of Human Destiny]]. It identifies that virtue is not unique to humans. It celebrates the idea that through embracing virtuous behaviour, and taking virtuous action, orcs and humans alike can achieve their highest potential spiritually, and in the mortal world.
+
+===The Doctrine of Seven===
+<div class="ic"><div class="ic-inner" style="display: block;"><big>''The Seven Virtues - Ambition, Courage, Loyalty, Pride, Prosperity, Vigilance, and Wisdom - offer guidance and spiritual strength to humans and orcs through our lives and deaths. Each inspires us to constructive action, bringing great benefit to those who follow them and enriching the world. False virtues and malign spiritual forces are detrimental: discouraging action, removing individual choice, bringing destruction, harming their followers, or those around them.''</big></div></div>
+
+This Doctrine was changed during the [[388YE_Spring_Equinox_Synod_judgements#Judgement_7|Spring Equinox 388YE]]. The full ramifications of the change have yet to be felt. For posterity, the original wording of the doctrine, and its commentary, can be found below.
+
+<div class="ic"><div class="ic-inner" style="display: block;">''There are seven Virtues that guide the spirit through the Labyrinth of Ages. These are Ambition, Courage, Loyalty, Pride, Prosperity, Vigilance and Wisdom. Other qualities may benefit humanity, but lend no aid through the passage of death to rebirth, and some may hinder it.''</div></div>
+
+'''Commentary:''' This Doctrine is underpinned by extensive study of legends, relics, pure liao visions and priestly ceremonies to determine the truth and power of qualities. The seven Virtues are acknowledged as the consistent recurring pattern and proof of paragonhood and exemplardom. A byproduct of this Doctrine is that some figures of note were dismissed as being false paragons. The law of blasphemy was introduced to protect citizens from the teachings of false paragons.
+
+===The Doctrine of The Paragons===
+<div class="ic"><div class="ic-inner" style="display: block;"><big>''A truly virtuous spirit, one who is a paragon of Virtue, is capable of freeing itself from the Labyrinth of Ages through transcendence. A paragon spirit can be identified for having completed at least six of the eight signs of the paragon, after which it can be recognised by the Imperial Synod.''</big></div></div>
+
+'''Commentary:''' The Doctrine is underpinned by the belief that some of the most virtuous spirits in history have never been the subject of a past life vision. The [[Signs_of_the_paragon_and_exemplar|signs of the paragon]] were devised as a series of tests to ascertain which were true paragons and which were exemplars. The Doctrine of the Paragons is an extension of the Doctrine of Human Destiny.
+
+Among Imperial priests, there are a number of [[schools of thought]] regarding the meaning, role, and qualities of exemplars and paragons, and the role of the signs that define them.
+
+===The Doctrine of the Creator===
+<div class="ic"><div class="ic-inner" style="display: block;"><big>''Human destiny is our own. The Creator, whose hand can be seen in all patterns of nature, seeks no dominance of, control over or communion with human spirits''.</big></div></div>
+
+'''Commentary:''' This Doctrine stems from the principle of seeing design in the patterns of creation, and prompted several experimental theological attempts to contact the Creator. The most common results of such experiments have been silence, which has been taken as proof neither one way or the other. A small number of experiments have resulted in the scholars involved losing their sanity from which mixed conclusions have been drawn. Some have held that the Creator Spirit is currently of a nature beyond comprehension – save, perhaps, by a Paragon or Exemplar – whilst others maintain that the strain of effort was too great.
+
+===The Doctrine of the Labyrinth===
+<div class="ic"><div class="ic-inner" style="display: block;"><big>''The Labyrinth of Ages is a place of pure spirit and beyond the true comprehension of any but a paragon. Flesh and blood may not enter, only that which is of spirit may traverse into and out of it, and it has no peer.''</big></div></div>
+
+'''Commentary:''' The Doctrine of the Labyrinth was created by the Synod as a response to two, quite different, beliefs. It asserts the reality of the Labyrinth of Ages from those who doubt its existence, or believe it to be metaphor. It also seeks to refute the teaching of [[Schisms and Heresies|Realmists]] who speculate that the Labyrinth is a magical realm akin to [[Day Realm|Day]] or [[Night Realm|Night]].
+
+===The Doctrine of the Howling Abyss===
+<div class="ic"><div class="ic-inner" style="display: block;"><big>''Orcs live only one life. After death, the orcish soul either is lost to the Howling Abyss or crosses it to become an Ancestor who can guide and advise living orcs.''</big></div></div>
+
+'''History:''' The Doctrine of the Howling Abyss was created by the Synod during the [[Symposium of Revelation]] during the Winter Solstice 380YE. It was proposed by the [[Imperial Orcs|Imperial Orc]] [[Preachers|preacher]] Bonewall Rek, and [[Change of doctrine|accepted]] by the General Assembly as part of an attempt to better understand the nature of the orc soul, and the place of the Imperial Orcs in the Way. The [[Imperial_Orcs_religious_beliefs#The_Howling_Abyss|Howling Abyss]] is a feature of [[orc]] belief shared by both the [[Imperial Orcs]] and the barbarians, as far as is understood.
+
+===The Doctrine of the Ancestors===
+<div class="ic"><div class="ic-inner" style="display: block;"><big>''To cross the Howling Abyss an orc must be known for their deeds. Though there may be other ways to cross, embracing the Seven Virtues leads an orc to the Great and Inspiring deeds that make an Ancestor and a Virtuous Ancestor can guide future generations on the Way.''</big></div></div>
+
+'''History:''' As with the Doctrine of the Howling Abyss, the Doctrine of the Ancestors was created during the Symposium of Revelation. It was proposed by Bonewall Cole, and supported by the General Assembly. The belief in [[Imperial_Orcs_religious_beliefs#Imperial_Orc_ancestors|ancestor spirits]] is a key feature of the beliefs of many orcs, both Imperial and barbarian.
+
+==Disavowed Doctrines==
+In Autumn 385YE, the General Assembly took the momentous decision to formally set aside the Doctrine of Human Destiny. It was disavowed in favour of the Doctrine of Enlightenment, the better to enable the Way to encompass the obvious Virtue of orcs as well as humans.
+
+===The Doctrine of Human Destiny===
+<div class="ic"><div class="ic-inner" style="display: block;"><big>''Only human spirits reincarnate, therefore humans are the greatest of all beings in creation for only human spirits gain strength, knowledge and enlightenment through rebirth. The paragons not only personify Virtue but the full potential of humanity.''</big></div></div>
+
+'''Commentary:''' This Doctrine was underpinned by the discovery liao has no effect on orcs and, by assumed extension, other non-human beings. At the time it was widely held that miracles and achievements attained by the paragons were superhuman in nature and the eventual destiny of all virtuous humans. Replacement by the Doctrine of Enlightenment allowed the Way to acknowledge evidence of Virtuous behaviour in both orcs and humans. [[Historical research]] regarding the Doctrine, and its origins, was commissioned by the [[Minister of Historical Research]]; the resultant document, ''[[On the Doctrine of Human Destiny]]'' is publicly available to any Imperial citizen.
+
+==Further Reading==
+*[[The Way|The Way of Virtue]]
+* [[Imperial Theology]]
+** [[Liao]]
+** [[The Doctrines of the Faith]]
+** [[Signs of the paragon and exemplar]]
+** [[Schisms and Heresies]]
+** [[Investigative Theology]]
+*[[Synod]]
+*[[Religious skills|Religious Skills]]
+*[[Religious Crimes]]
+*[[On the Doctrine of Human Destiny]] - A report from the [[Historical_research#The_Department_of_Historical_Research|Department of Historical Research]] about the origins of the [[#The Doctrine of Human Destiny|Doctrine of Human Destiny]]
+
+[[Category:Religion]]
+[[Category:The Empire]]

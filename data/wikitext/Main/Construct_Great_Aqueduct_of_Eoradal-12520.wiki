@@ -1,0 +1,25 @@
+[[Category:Senate Motion]][[Category:386YE Winter]]
+__NOTOC__
+<quote by="Announced by Protectorate Thenrik, Legion Engineer">To commission the construction of the Great Aqueduct of Eoradal in Mareave to bring water to that region.</quote>
+==Overview==
+* Constructs an [[edifice]] in Clisearn, [[Mareave]] as per the '''[[Million_miles_of_water#The_Eoradal_Tunnels|Million miles of water]]''' wind of fortune
+* Announcement by the [[Legion Engineer]]
+==Date==
+* Winter 386YE
+==Cost==
+* Costs as per opportunity
+* 12 white granite
+* 4 weirwood
+* 4 mithril
+* 15 crowns (caused by the underdeveloped nature of Icarion)
+* 12 thrones upkeep
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Great_Aqueduct_of_Eoradal}}
+==Outcome==
+Now complete, the aqueduct is using water purchased from the Skourans of Jadefall:
+
+*Supplies fresh water to the main settlement in Eoradal.
+*Enables the region to support a large town once Curstag's Way is also completed, increasing taxation here by 4 thrones a season.
+*Removes the arid quality from the region while it is operational

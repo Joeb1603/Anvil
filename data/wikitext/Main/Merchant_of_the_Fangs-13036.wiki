@@ -1,0 +1,25 @@
+{{stub}}
+{{CaptionedImage|file=Sea_Stack_by_Breigeo.jpg|title=The Fangs are a mithril mine still marked by the cruelty that seems to taint everything the Druj touch.|align=right|width=250}}
+==Overview==
+The Merchant of the Fangs is an [[Imperial title]] awarded to a citizen of [[Dawn]] originally created by the Imperial Senate during the Spring Equinox 387YE as part of the [[Ratify Rahvin Treaty Spring 387YE|treaty]] that ceded the [[The Barrens#The Fangs|Fangs]] to the Rahvin. 
+==Responsibilities==
+The Merchant of the Fangs is responsible for ensuring the protection of the [[The Barrens#The Fangs|Fangs]] in the Barrens. If the Fangs, or the Rahvin who work the mithril mine, were to be threatened, then it would be the responsibility of the Merchant to deal with those threats
+<div style="width: 400px; float: right; clear: right; margin-left:10px;">
+<table class="mw-collapsible"><tr><td colspan="2" style="background-color: LightBlue;">'''Mithril of the Fangs'''</td></tr>
+<tr><td>62 crowns</td><td>2 wains of mithril</td></tr>
+<tr><td>124 crowns</td><td>4 wains of mithril</td></tr>
+<tr><td>186 crowns</td><td>6 wains of mithril</td></tr>
+</table></div>
+__NOTOC__
+==Powers==
+===Ministry===
+As a [[ministry]], the title of Merchant of the Fangs allows the holder to purchase quantities of special materials at a set price. The Merchant makes their decision on how much to spend during downtime from their character page. Resources are removed from, and resources are placed into, the character's inventory when the downtime is processed.
+<div style="float:right; width: 500px; clear: right;"><box><big>'''Suitability'''</big><br>The Merchant of the Fangs is intended to be held by a [[Yeofolk of Dawn|yeofolk]], the task of haggling over coins and wains is unsuitable for a noble. If the title is held by a character who is a noble, or they become one during their tenure, then the player must email admin@profounddecisions.co.uk to let us know.</box></div>
+==Appointment==
+This title is appointed during the Autumn Equinox. The Merchant of the Fangs is appointed by citizens of Dawn who control [[military unit|military units]]. The more upgraded the military unit an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the Bourse. 
+
+Only a citizen of Dawn may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse they cannot be [[revocation|revoked]] by the [[Synod]].
+<!--{{CaptionedImage|file=Merchant of the Fangs.jpg|caption='''CHARACTER''', Merchant of the Fangs|align=left|width=250}}-->
+{{RecentElections|Merchant_of_the_Fangs}}
+{{Responsibilities Expectation}}
+[[Category:Dawn]][[Category:Bourse]][[Category:Title]]

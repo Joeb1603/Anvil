@@ -1,0 +1,26 @@
+[[Category:Senate Motion]][[Category:388YE Summer]]
+__NOTOC__
+<quote by="Announced by Ehud, Master of Works">The Imperial Master of Works announces the commencement of the upgrade of the fortification called the Palace of Apulian in Spiral, which will become the Palace of Mists at a cost of 80 white granite and 240 crowns. As well as improving the fortification, it will additionally make an attack from the sea significantly more difficult and increase the taxation from the territory by five thrones a season
+</quote>
+==Overview==
+* Upgrades, and renames, the Palace of Apulian [[fortification]] in Apulus, Spiral
+* Announcement by the [[Master of Works]]
+* More information can be found in the '''[[My_friends_are_my_estate#Mellow_Mists|My friends are my estate]]''' wind of fortune.
+
+==Date==
+* Summer 388YE
+
+==Cost==
+* Costs as per opportunity
+* 80 wains of white granite
+* 30 thrones in labour costs 
+* Twelve months to construct
+
+==Progress==
+{{CommissionProgress|Upgrade_Palace_of_Apulian}}
+==Outcome==
+Once complete, the upgrade will have the following effects:
+* Improves the fortification at Apulian to rank two
+* Renames the Palace of Apulian to the Palace of Mists
+* Forces attacking the region from the sea (such as shore offensive or the equivalent) suffer a 20% penalty to VPs
+* Improves taxation by 5 thrones a season

@@ -1,0 +1,214 @@
+[[Category:Winds of Fortune]][[Category:387YE Autumn]][[Category:Recent History]]
+<div style="float:left; width: 550px; clear: left;">{{CaptionedImage|file=A Glorious Gala.jpg|align=left|width=550}}</div>
+==Overview==
+Downtime following the Summer Solstice is now open, allowing players to process their character's downtime choices. Not all resources allow a player to make a choice about how they operate between events, but we've provided information about new opportunities for [[fleet]] and [[military unit]] owners in particular as well as a reminder about existing opportunities created at earlier events. 
+
+On this page we'll be outlining, and offering some context for, various effects and events. As always, these include quick summaries, mostly out of character, to explain effects such as large-scale [[enchantment|enchantments]] and [[curse|curses]]. In some cases, there may be further developments around these events in the Autumn Equinox winds of fortune, or they may be handled with a ''Resolution'' entry on the appropriate Wind. 
+
+'''The deadline for Downtime submissions was midnight on Sunday the 10<sup>th</sup> of August.'''
+
+==Choices==
+* '''During the Summer Solstice, there were a number of Senate motions, Conclave declarations, Synod judgements, and Military Council orders'''
+Each summit the [[Senate]] raises and votes on [[Senate motion|motions]], the [[Conclave]] debates [[declaration|declarations]], the assemblies of the [[Synod]] discuss [[judgement|judgements]], and the [[general|generals]] of the [[Military Council]] issue [[Army orders|orders]] to their [[Army|armies]]. You can find details of these many decisions here:
+* [[387YE Summer Solstice Senate sessions|Senate sessions]]
+* [[387YE Summer Solstice Synod judgements|Synod judgements]]
+* [[387YE Summer Solstice Conclave sessions|Conclave sessions]]
+* [[387YE Summer Solstice Military Council orders|Military Council orders]]
+The Civil Service is responsible for ensuring that these motions, judgements, declarations, and orders are public knowledge. Not everything is widely distributed across the Empire, but any character who attends [[Anvil]] can easily find out details of what went on in the houses of power during the event.
+
+==Imperial Guerdon==
+The Imperial Guerdon is a bursary set up by the Imperial Senate primarily to reward military units that support Imperial armies, spy networks, and fortifications. The value of the Imperial Guerdon is divided between each military unit and fleet that supports an army in proportion to their effective strength. The [[Quartermaster General of the Imperial Armies]] has the power to exclude any or all Imperial armies and navies, fortifications, or special projects (such as spy networks) from the Guerdon. If they do so, then a character who supports such an army, fortification, or special project will receive nothing for doing so. 
+
+The Guerdon remains at 150 thrones.
+
+This season, the [[Quartermaster General of the Imperial Armies]] has announced that shares of the Guerdon will be shared between military units supporting the following armies:
+
+* [[Boyar's Hasta]] in [[Sarangrave]]
+* [[Citadel Guard]] in [[Sarangrave]]
+* [[Wolves of War]] in [[Therunin]]
+
+And the following fortification
+
+* [[Liathaven#Schogsfestnir|Schogsfestnir]] in [[Liathaven]]
+
+No other armies, or actions by military units or fleets, will receive shares of the Guerdon.
+
+==Military Units==
+* '''Players who control military units can choose from a number of downtime options'''
+* '''Not every military unit is eligible to participate in every venture'''
+* '''Left to their own devices, a military unit defaults to the ''mercenary work'' option'''
+Any player whose character controls a [[military unit]] can choose from several downtime options by logging into the downtime system. They may choose to [[Military_unit#Campaigning|support an army]], [[Military_unit#Guarding|defend a fortification]], or [[Military_unit#Scouting|support a spy network]]. They can also choose one of the many [[Venture|ventures]]. Left to their own devices, a military unit defaults to [[Venture#Mercenary_Work|mercenary work]], guaranteeing an income of money along with a random chance of herbs, more money, mana crystals, ingots or measures.
+
+Players who want to support one of the [[Army|Imperial armies]] can also read the [[Army_orders|orders]] issued by each [[general]] before making their decision. These orders are a matter of public record within the Empire and also available on the '''[[387YE Summer Solstice Military Council orders]]''' page. This new page makes it easier for players to read all the orders before making a decision; previously the only way to do this was to painstakingly click every army in turn. It's also possible for players without military units to see the orders, without waiting for the Winds of War (assuming the orders related to an area that produced a full write-up).
+
+As always, the guidelines around discussing military matters online can be found [[Online#You_May_Not_Post_Military_Updates|here]].
+
+===Escort the Drovers===
+* '''Marcher and Imperial Orc military units can take a guarding action to protect the herd of cattle being driven to Mareave'''
+* '''If at least fifteen hundred strength is assigned to the action then the herd will arrive in Mareave next season'''
+* '''Military units that take this action will receive no production'''
+A grand total of two hundred and seventy-two cattle bonds were gathered for the [[High hopes#The_Southern_Herd|Southern Herd]] in Mareave. Last season, the task of escorting them across hundreds of miles began, with ten military units [[387YE_Summer_Solstice_winds_of_fortune#Southern_Herd_Drive_(Cattle_Bonds)|supporting the effort]]. Now, they must be taken through the dangerous wilds of [[Spiral]] and onto Mareave. If at least fifteen hundred strength supports the action, then the second leg of the journey will be completed, and the cattle arrive in Mareave shortly before the Autumn Equinox 387YE. For more information see the '''[[Million miles of water#A_Long_Drive|Million miles of water]]''' wind of fortune
+
+===Dare the Southern Reaches===
+* '''Freeborn military units can take a scouting action to venture into the southern regions of Madruga'''
+* '''Military units that take this action receive Adversity vis, herbs, and potentially ''marsh flowers'''''
+This season, the Imperial Senate voted to [[387YE_Summer_Solstice_Senate_sessions#Assign_Sandcrab_Camp|assign]] responsibility of the Camp of the Sand Crab to the [[Rod and Shield]]. This has led to several expeditions being organised to delve into the strange and [[Madruga#Special_Qualities|enigmatic]] southern regions of [[Madruga]]. For more information, see the '''[[Made_anew#Camp_of_the_Sand_Crab|Made anew]]''' wind of fortune
+
+==Fleets==
+* '''Players who control fleets can choose from several downtime options'''
+* '''Left to their own devices, a fleet defaults to the ''maritime escort'' option'''
+Any player whose character controls a [[fleet]] can choose from several downtime options by logging into the downtime system. They may choose to [[Fleet#Trading|trade]] with a [[Foreign_ports|foreign port]], engage in [[Fleet#Raiding|raiding]] barbarians, [[Fleet#Questing|quest]] in search of glory or renown, [[Fleet#Scouting|scout]] either to support a [[smugglers cove]] or as part of another stealthy option, or commit to [[Fleet#Guarding|guarding]] a convoy of other ships.
+
+Left to their own devices, a fleet defaults to [[Voyage#Maritime_Escort|maritime escort]], guaranteeing an income of money along with a random chance of herbs, more money, mana crystals, ingots or measures.
+
+The Empire does not currently have any [[navy|navies]], and there are currently no campaigning actions available, so it is not possible to take [[Fleet#Campaigning|campaigning]] action, but if it were, then details would be included on the Military orders page.
+
+===Trade Summary===
+* '''Imperial fleets can trade with ports in Axos, the Commonwealth, Faraden, the Iron Confederacy, the Sarcophan Delves, and the Sumaah Republic'''
+* '''Production depends on the port chosen, and can be increased by upgrades and enchantments'''
+Imperial fleets can [[Fleet#Trading|trade]] with a number of foreign nations who have chosen to open some of their ports to visitors from the Empire. The assumption is that a ship trading with a foreign nation makes enough from selling their cargo to cover their running costs, crew salaries and the like, but that there is enough profit to provide the character who owns the fleet with valuable goods of interest to the folk who attend [[Anvil]]. What goods are received for visiting a port is changeable, and heavily influenced by Imperial diplomacy.
+* '''Axos:''' The ports of the '''[[Foreign_ports#Towers_of_Kantor|Towers of Kantor]]''' and '''[[Foreign_ports#Axos|Chambers of Issyk]]''' welcome Imperial fleets, and their production has been altered. You can find out more about the changes made in the '''[[A_better_future#Kantor|A better future]]''' wind of fortune
+* '''Commonwealth:''' The ports of '''[[Foreign_ports#Leerdam|Leerdam]]''' and '''[[Foreign_ports#Volkavaar|Volkavaar]]''' welcome Imperial traders and their production has been significantly altered. You can find out more about the new items on the '''[[According_to_principle#New_trade|According to principle]]''' wind of fortune.
+* '''Faraden:''' The port of '''[[Foreign_ports#Caitun|Caitun]]''' welcomes Imperial fleets. Fleets from the Marches and Wintermark benefit from a 1 rank bonus due to close proximity. The production of Caitun has shifted to no longer produce ingots of orichalcum. Instead, a starting fleet will produce a cube of mooncheese. You can find out more about the situation on the '''[[Wild_is_the_wind#Faraden_Luxuries|Wild is the wind]]''' wind of fortune.
+* '''Iron Confederacy:''' The port of '''[[Foreign_ports#Robec|Robec]]''' is available for Imperial fleets.
+* '''Sarcophan Delves:''' The ports of '''[[Foreign_ports#Sarcophan|Sarcophan]]''' and '''[[Foreign_ports#Betovering|Betovering]]''' welcome Imperial traders. 
+* '''Sumaah Republic:''' The port of '''[[Foreign_ports#Zemeh|Zemeh]]''' welcomes Imperial traders, and its production has been significantly altered. You can find out more about the changes on the '''[[Friend_of_mine#Inspire_Others|Friend of mine]]''' wind of fortune.
+
+==Congregations==
+* '''In addition to the standard preaching options taken by owners of congregations, special ''lectures'' may be available'''
+During downtime, the owner of a [[congregation]] can choose to take a [[Congregation#Downtime_Options|preaching]] action. Normally these actions are used to preach one of the Imperial virtues, or the general teachings of [[the Way]], allowing a Synod member to change which of the virtue assemblies they belong to. 
+
+After the Summer Solstice, there is a single additional preaching option available; a ''lecture''.
+
+===Encourage pilgrimage to Hacynian===
+* '''Anyone with a congregation can choose to preach Wisdom by encouraging pilgrims to visit the Great Library'''
+* '''A congregation that takes the ''Preach Wisdom - Encourage Pilgrimage to Hacynian'' action will receive three less liao but four more Synod votes than usual'''
+* '''A congregation that takes this action will be in the Wisdom Assembly at the next summit'''
+For the next year, until the end of the Spring Equinox 388YE, any congregation leader is able to select "'''Preach Wisdom - Encourage Pilgrimage to Hacynian'''" when [[Congregation#Downtime_Options|preaching]]. Priests who take this option are assumed to be making use of the [[liao]] they receive to inspire congregants to make the difficult journey to the Great Library. After those who are brave enough to make the journey experience the awe-inspiring power of the true aura in the shrine, they will return to their home inspired to embrace Wisdom and pursue it, in the certain belief that inaction is the only true mistake.
+
+A congregation that preaches this special action will receive three fewer [[liao]] each season (assumed to have been spent on creating auras or used to provide patronage), but four additional votes in the Imperial Synod (representing the swelling of their congregations). The priest leading the congregation will become part of the Wisdom Assembly if they were not already.
+
+==Arcane Projections==
+* '''The deadline for submitting an arcane projection has changed'''
+* '''Going forward arcane projections must be submitted before the close of downtime'''
+* '''It is not possible to submit arcane projections that create personal curses'''
+The deadline for submitting an [[arcane projection]] has changed from the late booking deadline, to the close of downtime. This is a significantly shorter window than previously. We've made this change to improve our ability to process arcane projections - an earlier deadline means that the game team have more time to consider each arcane projection, which will allow us to be more detailed and consistent in our responses.
+
+As detailed in the '''[[Patterns_of_fairytales#Wyrm_and_Mountain|Patterns of fairytales]]''' wind of fortune, it is not currently possible to create an arcane projection that involves a [[curse]] directed at a character. 
+===Colleges and Forges===
+* '''We've changed the email address for college of magic and runeforge submissions'''
+It is important for characters responsible for a [[college of magic]] or [[runeforge]] to remember that the deadline for submitting rituals for codification, or instructions to the runeforge, is also the point that downtime closes. You ''must'' use let us know how you plan to use your college or forge by this point, otherwise it will not be possible to submit anything and the season will be lost.
+
+We've also made a small change there; the e-mail address to which such instructions should be sent is now [mailto:plot@profounddecisions.co.uk plot@profounddecisions.co.uk] rather than rules. The rules decisions about an arcane projection that is being codified, or a new item, have already been made and it is plot that deals with the creation of ritual texts, unique items, or schema.
+
+==Miscellaneous Effects==
+* '''After every event there will be a range of special effects that have an impact on downtime'''
+* '''Each effect is automatically applied to the appropriate personal resources; this provides details of what has caused each effect'''
+Every season sees large-scale effects impact individuals and nations. Some arise as the result of [[Judgement|Synod judgements]], [[Senate motion|Senate motions]] or [[Declaration|Conclave declarations]]. Others are the results of winds of fortune or war, or magical effects such as [[enchantment|enchantments]] or [[curse|curses]]. Each such effect is mentioned in your downtime if it affects your personal resource, along with a brief summary of what is going on. This list provides more detail, and is also useful for knowing what is going on in the wider Empire.
+
+===The Ossium Wayhouse (Navarr)===
+* '''Any Navarr character can take a new resource in Ossium for free until the end of downtime'''
+* '''Any Navarr character with a resource in Ossium counts as being in Therunin for voting in senatorial and similar elections'''
+A wayhouse has been built in [[Ossium#Nearweald|Nearweald]]. The wayhouse was completed shortly before the Summer Solstice, and this season Navarr can move to Ossium without the usual two crown cost.
+
+===Blood Red Bequest (The League)===
+* '''The Blood Red Gallery, Blood Red Museum, and Bloody Great Theatre no longer provide bonus production to congregation owners in the League'''
+* '''A seasonal bequest of ten thrones has been granted to the Vallornguard'''
+The League Assembly upheld a [[387YE_Summer_Solstice_Synod_judgements#Judgement_18|mandate]] raised and enacted by '''Estella Lucati''' to encourage the patrons of the [[Lorenzo's Legacy|Lorenzo's Legacies]] to support the [[Vallornguard]]. Congregation owners in Sarvos, Tassato, and Temeschwar no longer receive an additional two doses of [[liao]] each season.
+
+===Art of the Tomb (Highguard)===
+* '''The Council of Benefactors have endorsed certain Sarcophan merchants buying Highborn funerary goods'''
+* '''Every business and mine in Highguard receives an additional 18 rings a season until the start of the Spring Equinox 388YE'''
+A deal made between benefactors of Highguard and a Sarcophan sect has resulted in funerary goods being in high demand. Every Highborn [[business]] and [[mine]] owner receives an additional 18 rings each season until the start of the Spring Equinox 388YE. More information can be found in the '''[[Can%27t_give_everything_away#The_Art_of_the_Tomb|Can't give everything away]]''' wind of fortune.
+
+===Stone, Branch, Fen, and Ice===
+* '''The Basalt Citadel has been cast on one region'''
+* '''Dripping Echoes of the Fen has been cast on two regions'''
+* '''Forge the Wooden Fastness has been cast on one region'''
+* '''Frozen Citadel of Cathan Canae has been cast on three regions'''
+{| class="wikitable sortable" style="width:800px;"}
+|-
+! Ritual !! Region !! Coven
+|-
+| [[Basalt Citadel]] || Eoradal, [[Mareave]] || Heralds of the Reaper
+|-
+| [[Dripping Echoes of the Fen]] || West Marsh, [[Kallavesa]] || 	Sussivari Frost Coven
+|-
+| [[Dripping Echoes of the Fen]] || Proceris, [[Zenith]] || 	Sussivari Frost Coven
+|-
+| [[Forge the Wooden Fastness]] || Alderly, [[Mournwold]] || Goatsbridge Coven
+|-
+| [[Frozen Citadel of Cathan Canae]] || Serra Damata, [[Kahraman]] || 	Voices of the Unbound Storm
+|-
+| [[Frozen Citadel of Cathan Canae]] || Icarion, [[Mareave]] || Phoenix Rising
+|-
+| [[Frozen Citadel of Cathan Canae]] || Hope's Rest, [[The Barrens]] || 	Phoenix Rising
+|-
+|}
+
+===Rivers Run Clear (Mournwold)===
+* '''Rivers of Life has been cast on the Mournwold'''
+* '''As well as reducing casualties to armies in the territory, the magic infuses all water there with life-giving Spring power'''
+The Imperial territory of [[Mournwold]] has had [[Rivers of Life]] woven over it. This potent magic preserves life, healing all save the most grievous wounds overnight and infusing water across the territory with restorative powers. This powerful effect has been created by the [[the Marches|Marcher]] coven, '''Goatsbridge Coven'''. As well as the typical effect of reducing losses to any [[Army|armies]] fighting in the territory, the magic has other more narrative effects. Wounds heal, animals and plants are healthy and fertile, and people find it easier to start or expand their families.
+<!--===Imperial Veil (Casinea)===
+* '''A colourful display is in effect in the night sky of Casinea
+* '''It is clear to anyone in the territory that this is the result of Night magic
+The stars above Casinea shimmer and subtly shift. A towering, luminous figure appears in the heavens — a vision of the Emperor, cloaked in midnight robes speckled with constellations, crowned with silver fire. Around her, seven cloaked silhouettes drift in a perfect circle — indistinct, archetypal, unknowable. They lift their hands, and in her palms appears a crystalline model of the Empire, glowing and fragile. Slowly, she closes her fists, and as the land shatters like glass, it explodes into radiant motes of stardust, illuminating the sky in a celestial snowfall of glowing white specks. These motes drift downward for the next hour, like gentle ash or snow, disappearing before they reach the ground — but visible to all who look upward.
+
+Any further effects of this ritual will be in the winds of fortune released before the next event.-->
+
+===A Shining Beacon (Madruga)===
+* '''Shimmering spheres of light have appeared in Calvos Sound, Lightsea, Free Landing, and Siroc Bayou'''
+* '''It is clear to anyone in the territory that this is the result of Day magic'''
+In Madruga, in each coastal region, a large sphere of white light appears at the highest point next to the sea. The light is exceptionally bright, making it almost painful to look at. During the day this is less of a problem, but at night it is visible for many miles across both sea and land.
+
+Any further effects of this ritual will be in the winds of fortune released before the next event.
+
+==Magical Lore==
+* '''Every summit it is possible that new rituals, magic items, or potions may become available to Imperial citizens'''
+* '''Some of these options are only available to characters from certain nations, such as those entered into Urizen Lore or Runesmith's Law'''
+During the Summer Solstice, two rituals were put forward for inclusion in Imperial Lore:
+* [[Bulging at the Seams]] raised and funded by '''Arsenio Sanguineo Rezia di Tassato''' 
+* [[Petrifying Command of the Tyrant]] raised by '''Syl''' and funded by '''Ematius of the Great Library of Ankarien'''
+
+During the Summer Solstice, one magic item was added to Imperial lore:
+* [[Martán's Mark]] raised by '''Leofa de Courtenay-Wyldrose''' as [[Citizens' Voice]] and funded by '''Damiàn i Martàn i Erigo'''
+
+No new rituals became part of [[Urizen_magical_traditions#Urizen_Lore|Urizen lore]], and no new magic items were added to [[Wintermark_economic_interests#Runesmith.27s_Law|Runesmiths Law]].
+
+==Monstering Numbers==
+</table>
+{| class="wikitable sortable" style="width:400px; float: right; margin: 10px;"
+|-
+! Nation || Percentage
+|-
+| [[The Brass Coast]] || 100%
+|-
+| [[Dawn]] || 88%
+|-
+| [[Highguard]] || 104%
+|-
+| [[Imperial Orcs]] || 108%
+|-
+| [[The League]] || 104%
+|-
+| [[The Marches]] || 71%
+|-
+| [[Navarr]] || 97%
+|-
+| [[Urizen]] || 111%
+|-
+| [[Varushka]] || 106%
+|-
+| [[Wintermark]] || 89%
+|}
+We have two big battles each weekend, and taking part is completely optional - around half of our players do so each event. However, if you do take the field for a battle as your character, then you must volunteer to monster the other battle. We can't create a really dramatic battle with hundreds of participants unless everyone who plays a battle also monsters the other one.
+
+We're really pleased that most of our nations managed to achieve more than 100% monstering rates. That means that more people turned up to the monster than turned up to play the battle from that nation. Top of the pile was Urizen with 111% - that's an incredibly good rate and demonstrates a fantastic level of support for everyone who plays Empire!
+
+Sadly, three of the nations were significantly below 100%, which is disappointing. Failing to monster the battle if you've played the other battle is against the rules because it's not fair to the other participants who take the field, all of whom volunteered to monster for you when you were playing. We hope that players in Wintermark, Dawn and the Marches will encourage each other to follow the rules, support their fellow players and turn up to monster when it's their turn.
+
+==Further Reading==
+* [[Downtime]]
+* [[Resource#Personal_Resource|Personal resource]]
+* [[Recent_history#Summer_Solstice|Summer Solstice recent history]]

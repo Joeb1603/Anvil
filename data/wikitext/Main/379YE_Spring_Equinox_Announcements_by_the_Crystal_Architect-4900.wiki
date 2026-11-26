@@ -1,0 +1,49 @@
+<ic>Announcement by the Crystal Architect of his intention to create two Sinecures:
+* The Caves of the Claw, overseen by the Custodian of the Claw in Morrow
+* The Tower of the Fall, overseen by the Keeper of the Tower of the Fall in Zenith </ic>
+
+==Construct the Caves of the Claw==
+===Overview===
+* The [[Crystal Architect of the Spires]] has [[commission|comissioned]] construction of a mana [[sinecure]] in [[Morrow]].
+* It is not clear which region this sinecure will be constructed in.
+* When complete, the Caves of the Claw will automatically create the Imperial title of [[Custodian of the Claw]]; this National position will be appointed by unanimous decision of the Urizen senators, and will serve for life or until revoked.
+
+===Date===
+* Spring Equinox 379YE
+
+===Costs===
+* Materials: 10 wains of mithril ([[Sinecure#Costs|Standard cost]])
+* Time: 3 months to construct per 50 wains of materials used
+* Labour: 2 crowns per wain
+* Upkeep: None 
+
+===Progress===
+* 10 wains of mithril and 20 crowns provided by Tiberius EchoStorm after Spring Equinox 379YE
+
+===Campaign Outcome===
+* The new sinecure will be constructed in Morrow.
+
+==Construct the Tower of the Fall==
+===Overview===
+* The Crystal Architect has [[commission|comissioned]] construction of a mana [[sinecure]] in [[Zenith]].
+* It is not clear which region this sinecure will be constructed in.
+* When complete, the Tower of the Fall will automatically create the Imperial title of [[Keeper of the Tower of the Fall]]; this National position will be appointed by unanimous decision of the Urizen senators, and will serve for life or until revoked.
+
+===Date===
+* Spring Equinox 379YE
+
+===Costs===
+* Materials: 10 wains of mithril ([[Sinecure#Costs|Standard cost]])
+* Time: 3 months to construct per 50 wains of materials used
+* Labour: 2 crowns per wain
+* Upkeep: None 
+
+===Progress===
+* 10 wains of mithril and 20 crowns provided by Tiberius EchoStorm after Spring Equinox 379YE
+
+===Campaign Outcome===
+* The new sinecure was planned to be constructed in Morrow but construction has not yet begun as the [[Crystal Architect of the Spires]] has been unable to provide the relevant information.
+
+[[Category:Senate Motion]]
+[[Category:379YE Spring]]
+__NOTOC__

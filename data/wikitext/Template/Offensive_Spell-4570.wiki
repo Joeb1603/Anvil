@@ -1,0 +1,2 @@
+* '''Type:''' [[Spellcasting#Offensive_Spells|Offensive spell]]
+* '''Cost:''' {{{1}}} Personal mana

@@ -1,0 +1,123 @@
+---
+title: Summer magic
+source: https://www.profounddecisions.co.uk/empire-wiki/Summer_magic
+class: out-of-character
+topic: rules
+categories:
+- Magic Theory
+- Magic
+- Rules
+last_edited: '2026-01-15T18:31:45Z'
+revision: 131952
+---
+
+# Summer magic
+
+## Overview
+
+The magic of Summer is strong, youthful, majestic and awe-inspiring. It is the irresistible splendour of the mountain or the mighty oak, the soaring eagle, the roar of the lion, the proud stag. It lives in the roar of the victorious and the sweet ache in the muscles that comes from fighting or running just for the sake of it. It does no stoop to petty concerns; it is larger-than-life, and it is glorious.
+
+At its most basic Summer covers the magic of strength. It enhances individuals, making them more than they are. It doesn't heal wounds, but it can grant the capacity to resist and overcome injury. It makes this more powerful, more majestic, more awe-inspiring, but it can also make them more rigid, more unyielding, and often more stubborn. Summer magic can cause targets to be over-confident and impetuous.
+
+It is the ideal realm with which to work [enchantments](Enchantment.md) on people that make them more powerful. While this is most often used to grant physical, literal strength or prowess it is just as useful for making a magician's magic more powerful, a priest more charismatic, or a wall more resistant to damage. Magicians who work extensively with Summer magic often talk of the exhilaration it brings, the feeling of accomplishment that comes from touching a bottomless well of raw strength and bending it to their will. A powerful Summer ritual is sometimes compared to a battle - the magicians are left aching and tired at the end as if they had engaged in a wrestling match with the raw power of magic.
+
+Summer magic is the most powerful because it empowers mortals to overcome any obstacle, or resist any opponent, through strength and the raw will to succeed.
+
+## Resonance
+
+### Prowess
+
+Enhancing individuals to make them more capable is the single most important resonance of Summer magic. The most obvious use is to make an individual stronger or more capable in battle, but Summer magic can go further, enhancing a character's heroic stature in many different ways. Rituals that enhance a character's raw magical strength fall soundly within the remit of Summer. Of the six realms of magic, Summer resonates most strongly with enchantments that boost a person's capabilities.
+
+Examples: [Renewed Strength of the New Day](../../mixed/magic/rituals/Renewed_Strength_of_the_New_Day.md), [Tenacity of Jotra](../../mixed/magic/rituals/Tenacity_of_Jotra.md), [Swan's Cruel Wing](../../mixed/magic/rituals/Swan-s_Cruel_Wing.md), [Swift Leaping Hare](../../mixed/magic/rituals/Swift_Leaping_Hare.md), [Hammer of Thunder](../../mixed/magic/rituals/Hammer_of_Thunder.md), [Strength of the Bull](../../mixed/magic/rituals/Strength_of_the_Bull.md), [Crimson Ward of Summer Stars](../../mixed/magic/rituals/Crimson_Ward_of_Summer_Stars.md), [Devastating Maul of Inga Tarn](../../mixed/magic/rituals/Devastating_Maul_of_Inga_Tarn.md), [Talon of the Gryphon](../../mixed/magic/rituals/Talon_of_the_Gryphon.md), [Might of the Myrmidon](../../mixed/magic/rituals/Might_of_the_Myrmidon.md), [Unbreakable Behemoth's Strength](../../mixed/magic/rituals/Unbreakable_Behemoth-s_Strength.md), [Chasuble of Majesty](../../mixed/magic/rituals/Chasuble_of_Majesty.md), [Swords in the Noonday Sun](../../mixed/magic/rituals/Swords_in_the_Noonday_Sun.md).
+
+### Nobility
+
+With its unmatched ability to grant prowess, Summer magic also resonates with rituals that grant the subject confidence or make them appear more inspirational to others. They often lend a nobility of spirit to the subject making them proud and glorious in demeanour. Rituals that make a leader more inspirational, more charismatic are not universally effective - only rarely do they influence other heroes - but they do exert a notable effect on soldiers and the common citizenry of the Empire.
+
+Examples: The [Empower](../../mixed/magic/spells/Empower.md) spell, [Glorious Crown of Enchantment](../../mixed/magic/rituals/Glorious_Crown_of_Enchantment.md), [Sutannir's Promise](../../mixed/magic/rituals/Sutannir-s_Promise.md), [Prowess of the Golden Magician](../../mixed/magic/rituals/Prowess_of_the_Golden_Magician.md), [Mantle of Lordly Might](../../mixed/magic/rituals/Mantle_of_Lordly_Might.md).
+
+### Triumph
+
+A resonance with rivalry and competition is not exclusive to the Summer realm, but Summer is especially suited to magic that encourages individuals to rise to the challenge. It is not easy to cast Summer rituals that encourage groups to come together to attempt a challenge; cooperation and mutual support is a dissonance of Summer magic, but the Summer realm has a strong resonance for personal challenge, for proving one's self, for seeking and attaining personal triumph.
+
+Examples: [Champions Shining Resolve](../../mixed/magic/rituals/Champions_Shining_Resolve.md), [Raise the Standard of War](../../mixed/magic/rituals/Raise_the_Standard_of_War.md), [Challenge the Iron Duke](../../mixed/magic/rituals/Challenge_the_Iron_Duke.md), [Glory to the Sovereign](../../mixed/magic/rituals/Glory_to_the_Sovereign.md).
+
+### Majesty
+
+Things are larger than life in the Summer realm. This means both individuals, but also places and things. A mine in Summer produces diamonds the size of your fist, a mountain reaches up to scrape the sky, a bear is the size of an elephant with hide that turns arrows aside. When Summer destroys its strength is irresistible - earthquakes shake the earth, a meteor is pulled from the sky, a forest-fire tears through a woodland consuming everything with awesome heat, a shout breaks windows and sends people flying.
+
+Examples: [Delve Deep, Beneath the Mountain](../../mixed/magic/rituals/Delve_Deep-_Beneath_the_Mountain.md), [Strong Ox, Golden Sun](../../mixed/magic/rituals/Strong_Ox-_Golden_Sun.md), and [Thundering Roar of the Lion-bound Horn](../../mixed/magic/rituals/Thundering_Roar_of_the_Lion-bound_Horn.md).
+
+### Adamant
+
+Summer magic encourages everything it touches to resist change. It resonates with rituals that make things unyielding, uncompromising and unrelenting. This can be a weakness; things created with Summer magic are often inflexible and stubborn. When someone under a Summer effect makes up their mind, they stick with it - there's no room for doubt. But if a thing needs to be made resilient, more durable, then sufficient Summer magic can be used to make a subject almost unbreakable.
+
+Despite this resonance, Summer magic has no resonance for metals, even base metals, which are more the dominion of Autumn. But stone, especially worked stone, is particularly attuned to the realm of Summer and rituals to create, enhance and repair stone constructions are the domain of this realm.
+
+This resonance draws its name from a [marvellous material](../../mixed/magic/rituals/Stalwart_Stand_on_Solid_Ground.md#the-nature-of-adamant) that has its origins in the summer realm.
+
+Examples: [Stout Resolve of the Unyielding](../../mixed/magic/rituals/Stout_Resolve_of_the_Unyielding.md), [Vigour of Youth](../../mixed/magic/rituals/Vigour_of_Youth.md), [The Sound of Drums](../../mixed/magic/rituals/Sound_of_Drums.md), [Unbreakable Spirit, Unbreakable Blades](../../mixed/magic/rituals/Unbreakable_Spirit-_Unbreakable_Blades.md), [Stalwart Stand on Solid Ground](../../mixed/magic/rituals/Stalwart_Stand_on_Solid_Ground.md), and [Frozen Citadel of Cathan Canae](../../mixed/magic/rituals/Frozen_Citadel_of_Cathan_Canae.md).
+
+### Wroth
+
+The intoxicating majesty and splendour of the Summer realm have a dark side. The Summer realm resonates strongly with confidence and force of personality, but powerful enchantments can make the subject over-confident and quick to anger if rebuffed. Summer curses can shorten a victim's temper or make them jealous. Many of the eternals of the Summer realm are described as wrathful, such that furious anger is commonly associated with the Summer realm.
+
+### Youth
+
+Summer resonates strongly with youth. This is not the childlike energy of Spring, but rather the time when a being is coming of age, developing the strength of body and personality that characterises those who are new to adulthood. Youthful, strong, and prone to drama, firm in the belief of their own immortality.
+
+Examples: [Renewed Strength of the New Day](../../mixed/magic/rituals/Renewed_Strength_of_the_New_Day.md).
+
+## Dissonance
+
+### Subtlety
+
+Magic of the Summer realm is rarely discreet. It shares this weakness with magic of the Spring realm, but where Spring magic has an inexorable tendency to be wild and overpowering, Summer magic works best when it can deliver the most dramatic impact. A Summer ritual to destroy a castle is much more likely to unleash an earthquake or call down a meteor than it is to cause the castle to quietly crumble away. It is as if the magic wants to be impressive, to make everything larger than life. Even something as simple as a messenger spell is likely to include a herald blowing a trumpet when the letter is delivered if performed using Summer magic.
+
+### Cooperation
+
+Summer magic works best when it empowers individuals or small tight-knit groups with an existing common purpose. Powerful Summer magic seeks to inspire those it touches to be heroes, but such heroism rarely lends itself to the sublimation of the individual for the common good. Summer is strongly dissonant with any magic that attempts to bring disparate groups together in a common cause. Once human interactions pass into the realm of Autumn; trade, negotiation, treaties, deals, and alliances, they immediately become completely dissonant with Summer. Complex ideas and symbolic meanings, most notably [fiat money](http://en.wikipedia.org/wiki/Fiat_money) are simply anathema to Summer. As a result, rituals that directly increase wealth are exceptionally difficult to perform with Summer magic.
+
+### Contemplation
+
+Few eternals of the Summer realm are known for their patient or thoughtful nature. Enchantments of the realm echo this essential nature, encouraging those affected to be bold, dramatic, and decisive, but also impulsive and impetuous. Those who experience summer enchantments sometimes attribute their actions to the urgings of the magic as if the realm wanted them to do it.
+
+Whatever the truth it is certain that Summer magic is dissonant with any effects that seek to create calm, contemplation, and cogitation. The prescient divinations of Day, even the mystical wisdom of Night are almost completely impossible to reproduce with Summer magic, even where the subject is one of interest to the Summer realm.
+
+### Debilitation
+
+The natural resonance of Summer magic is to make the subject more potent and imposing. It is quite possible to create effects with Summer magic that will lead to harm for others, a warrior can be enchanted to deliver mighty blows, a magician may conjure a rain of fire to hurl at a castle. But it is almost impossible to use Summer magic directly to debilitate something, to make something weaker. There are few curses in Summer and those that are known to be employed by Summer eternals usually make the target stubborn, angry or over-confident rather than making them weak.
+
+Powerful Summer curses tend to turn the world against the target. Warriors find themselves sought out by the most dangerous enemies on the battlefield, magicians find eternals growing angry during every encounter. Every wound is traumatic, every blow is mortal. Perversely such curses sometimes strengthen the target but the weight of fate always threatens to overwhelm them.
+
+## Further Reading
+
+- [Overview](Magic.md)
+- [Magic Items](Magic_items.md)
+- [Herbs & Potions](Potion.md)
+- [Spellcasting](Spellcasting.md)
+- [Rituals](Rituals.md)
+  - [Formulaic Rituals](Formulaic_ritual.md)
+  - [Arcane Projections](Arcane_projection.md)
+  - [Battlefield Rituals](../../mixed/magic/rituals/Battlefield_ritual.md)
+  - [Enchantments](Enchantment.md)
+  - [Curses](Curse.md)
+  - [Ilium](Ilium.md)
+- [Ritual theory](Ritual_theory.md)
+  - [Laws of magic](Laws_of_magic.md)
+  - [Limits of magic](Limits_of_magic.md)
+  - [Divination](Divination.md)
+  - [War magic](War_magic.md)
+  - [Eternals and rituals](Eternals_and_rituals.md)
+  - [Spring magic](Spring_magic.md)
+  - Summer magic
+  - [Autumn magic](Autumn_magic.md)
+  - [Winter magic](Winter_magic.md)
+  - [Day magic](Day_magic.md)
+  - [Night magic](Night_magic.md)
+- [Regio](../../mixed/magic/rituals/Regio.md)
+
+---
+
+Categories: [Magic Theory](../../indexes/by-category/Magic_Theory.md), [Magic](../../indexes/by-category/Magic.md), [Rules](../../indexes/by-category/Rules.md)

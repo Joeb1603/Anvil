@@ -1,0 +1,36 @@
+__NOTOC__
+<div style="display:inline-block; float: left; width: 250px; margin-right: 10px;">{{CaptionedImage|file=Bartholomew of Cantiarch's Hold.jpg|caption=The first Stoat of the Sun was appointed in Spring 388YE|title=Bartholomew of Cantiarch's Hold|align=left|width=300}}</div>
+==Overview==
+<div style="float: right; max-width: 250px; margin-left: 10px;">{{HoverImage|Sun Chamber.png|Sun Chamber colour.png|300px|Caption2|Caption3|Caption4|Caption5|The Sun Chamber}}</div>
+The Stoat of the Sun is an [[Imperial title]] appointed by members of the [[Sun Chamber]]. The title was [[387YE_Winter_Solstice_Senate_sessions#Create_Stoat_of_the_Sun|created]] by the Senate during the Winter Solstice 387YE, in a motion raised by '''Mel Bleak''', as proxy [[Mournwold|Senator of the Mournwold]]
+
+==Responsibilities==
+The Stoat of the Sun has a responsibility to support members of the Sun Chamber in military efforts. They are expected to liaise with the [[Council_session#Member_of_the_Military_Council|members of the Military Council]] of their nation.
+
+==Powers==
+===Address the Council===
+The Stoat of the Sun has the right to make an [[Council address|address]] to the [[Military Council]] once per summit. To use this power, the Stoat of the Sun informs the [[Herald of the Council]] that they wish to make an address, which will then be added to the agenda for the next [[Council session]].
+
+==Appointment==
+The Stoat of the Sun is [[Powers_of_a_sodality#Elections|appointed by members of the Sun Chamber]] during the Summer Solstice. Only a member of the sodality can present themselves for the title, and only a member of the sodality can vote in the election. The candidate who gains the most votes from the members of the sodality is elected to the title.
+
+The Stoat of the Sun can only be held by a member of the Sun Chamber. They can be [[Revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]] and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+{{RecentElections|Stoat_of_the_Sun}} 
+<quote by='Mel Bleak, proxy Senator for Mournwold, Winter 387YE'>
+"Six years ago, a handful of children came to the Academy at Anvil from every corner of the Marches. Over the following years, they got to know each other, building these bonds of Loyalty. Over this last year, as they began to graduate, they chose to found their own Household together in the Mournwold. They named it Stoatswood.
+
+They were soldiers. Last summit, they took the field of battle for their neighbours in Bregas. They charged to rescue a fallen Dawnish soldier, but in so doing, one of their own fell. The bonds of Loyalty between them meant they refused to flee, and they were slaughtered by Jotun execution squads.
+
+This was a tragedy, yes; but it was also a story of the success of the Academy.
+
+The position I am appealing to you to help create is in memory of the Stoats, and they were soldiers. Recent Academy graduates, yes, but full citizens.
+
+The Sun Chamber is designed to support Academy graduates to the great houses of state. This position will lay a route for a member into the Military Council.
+
+By right of address, they establish a face for the Military Council to liaise with the Sun Chamber. With this position, the Sun Chamber has a body to report back to them on the activities of the Military Council.
+
+The Sun Chamber want to build connections with the Military Council, and want this power to do it. These citizens are the future of the Empire. Let us do everything we can to prepare them for it."
+</quote>
+{{Responsibilities Expectation}}
+[[Category:Title]]
+[[Category:Military Council]]

@@ -1,0 +1,18 @@
+[[Category:Senate Motion]][[Category:384YE Winter]]
+__NOTOC__
+<quote by="Proposed: Skarsind, Seconded: Redoubt">To commission a folly - smithy and armoury in Gildermark. 60 wains of mithril. 120 crowns. Folly to be ceded to the Ethengraw.</quote>
+==Overview==
+* Creates a armoury-smithy for the [[Ossium]] by the [[All_too_well#Metal.2C_Bone.2C_and_Soil|Ethengraw]] sept as detailed in the '''[[All too well]]''' wind of fortune.
+* Passed
+==Date==
+* Winter 384YE
+==Cost==
+* As per the wind of fortune
+* 60 wains of mithril
+* 15 thrones
+* Six months to complete
+
+==Progress==
+{{CommissionProgress|Ethengraw_Armoury}}
+==Outcome==
+* Once complete the Ethengraw will join the [[Imperial Orcs]]. They will form the core of any new Imperial Orc army, provide opportunities to muster such an army and present the option of a unique quality reflecting their fighting arts.

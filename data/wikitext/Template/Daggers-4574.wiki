@@ -1,0 +1,4 @@
+* '''Form:''' Weapon. You must be wielding this weapon to use its magical properties.
+* '''Requirement:''' Any character can bond to this item.
+[[Category:Magic Items]]
+[[Category:Daggers]]

@@ -1,0 +1,49 @@
+ This title was [[386YE_Autumn_Equinox_Senate_sessions#Abrogate_the_Overseer_of_the_Gloaming_Road|abrogated]] by the Imperial Senate during the Autumn Equinox 386YE, and no longer exists
+<div style="float:left; width: 400px; clear: left;">{{CaptionedImage|file=Butterfly.JPG|caption=Brightly coloured fabrics are vital to Faraden culture, and iridescent gloaming is key to their production.|align=left|width=400}}</div>
+==Overview==
+The Gloaming Road was a trade route that crossed the dusty Lasambrian hills between [[Faraden]] and [[Segura]]. Once just another nameless path through the arid wilderness, its prominence dramatically increased after a pernicious blight laid waste to the [[Mundane_beasts#Iridescent_Butterfly|iridescent butterfly]] population of the [[forest|forests]] of northern Faraden in Autumn 380YE. Merchants of that nation then brokered a trade deal with the Freeborn, exchanging precious mithril for vast amounts of [[Materials#Iridescent Gloaming|iridescent gloaming]] from the Empire. The Gloaming Road bustled with caravans hauling valuable goods, and Faraden requested an overseer be appointed from among the Freeborn to manage the exchange. 
+
+When it was first created the position of overseer of the Gloaming Road was ''not'' an [[Imperial title]]; rather it represented a [[Resource#Campaign_Resource|campaign resource]] appointed by the [[Ambassador to Faraden]] and their opposite number ''Lady Saretta of the Red Moon''. During the Autumn Equinox 384YE, [[The_sweetest_of_songs#Gloaming|following the wishes]] of the newly appointed [[All_in_red#Change_Comes_Suddenly|Liege of the Five Winds]], Overseer of the Gloaming Road became an [[Imperial title]], appointed by [[Auction of the Seats]]. This removed the current Overseer, and led to the first auction taking place at the Winter Solstice and thereafter following the usual pattern of Autumn elections alongside the other [[mithril]] producing seats and ministries.
+
+In the lead-up to the Autumn Equinox 386YE, then [[Ambassador to Faraden]] Ebenezer of the Marches passed on concerns about the profitability of the trade route. While the merchants participating in the Gloaming Road were unconcerned, Mistress Singua referenced the fact it would be ''much'' easier for the Empire to secure Faraden mithril via a port such as [[Butterfly_in_reverse#A_Port_in_a_Storm|Caitun]]. In the end, the [[Senate]] voted to [[386YE_Autumn_Equinox_Senate_sessions#Abrogate_the_Overseer_of_the_Gloaming_Road|abrogate]] the Gloaming Road. Faraden merchants still make the risky trek through the Lasambrian hills to the Brass Coast, but they do so without any assurance that their mithril will be easily traded for iridescent gloaming.
+{{Anchor|Responsibilities}}
+==Former Responsibilities==
+The change to Imperial title did not change the responsibilities of the Overseer. They were expected to ensure the continued exchange of iridescent gloaming with Faraden. Numerous minor, independent Imperial and Faraden merchants took advantage of the thriving trade route to do business, but it fell to the overseer to handle the bulk of the trade taking place - and to ensure that it continued unabated. This was further complicated by the presence of the [[Jotun]] in the Lasambrian hills - while there was an agreement to allow Faraden traders to pass untouched, no such arrangement existed for Imperial merchants. As a consequence, Imperial gloaming traders congregated at the [[Segura_spoils_of_war#Kabalai_Palace|Kabalai Palace]] and dealt with the weary Faraden when they arrived in [[Segura]].
+
+Shortly before the Autumn Equinox 385YE, news reached Anvil of the [[Ship_to_wreck#Closer_to_Home|renegotiation of the treaty]] between the Faraden and the Jotun allowing merchants to pass through the Lasambrian Hills. The price to purchase mithril was increased by a further fifth over what it was in previous seasons; the Faraden caravaners were having to pay through the nose to travel through the Lasambrian hills. 
+==Powers==
+{{Anchor|Ministry}}
+===Ministry (Abrograted)===
+<div style="float: right; max-width: 450px; margin-left: 10px;">
+<table><tr><td style="background-color: LightBlue;">Total iridescent gloaming provided</td><td style="background-color: LightBlue;">Wains of mithril received</td></tr>
+<tr><td>60 iridescent gloaming</td><td>2 wains of mithril</td></tr>
+<tr><td>138 iridescent gloaming</td><td>4 wains of mithril</td></tr>
+<tr><td>220 iridescent gloaming</td><td>6 wains of mithril</td></tr>
+</table>
+</div>
+The overseer could provide large stocks of iridescent gloaming to the merchants of Faraden, in return for which they received a significant amount of mithril. This functioned in the same manner as a traditional [[ministry]]. The production of the ministry was entirely dependent on Faraden's ongoing need for iridescent gloaming from outside its borders, and the continued provision of the magical material by the Empire. 
+
+The price of mithril fluctuated regularly during the time the Gloaming Road operated, being affected by the [[Ratify Liberty Pact|imposition]] of [[Tariffs#Sanctions|sanctions]] on trade with [[Faraden]]; the [[384YE_Autumn_Equinox_Senate_sessions#Ratify_Faraden_Treaty|treaty]] with the Faraden that saw the Faraden returned to a [[Tariffs#Mercantilist|mercantilist]] trading standards; and negotiations between the western merchants and the Jotun controlling the Lasambrian hills.
+
+Following the Spring Equinox 383YE, [[Sadogua]] provided the Faraden with a number of blight resistant grubs, putting an end to the [[Through_my_sails#The_Gloaming_Blight|blight]]. The amount of mithril available for trade was reduced as the demand for gloaming from outside the borders of Faraden returned to what it was before the blight struck.
+{{Anchor|Selection}}
+==Previous Selection==
+As with the other [[mithril]] Bourse seats, the holder of the title was determined during the Autumn Equinox. As an Imperial seat, any Imperial citizen could participate in the auction and hold the title.
+
+The Overseer of the Gloaming Road title was retained for a year, or until the citizen holding the seat dies, or steps down. As a title appointed through the Bourse they could not be [[revocation|revoked]] by the [[Synod]].
+<div style="float:right; width: 500px; clear: right;"><box>'''Regarding the Gloaming Road'''<br>
+This title had some additional restrictions. The mithril it produced was provided by Faraden merchants eager to acquire Imperial iridescent gloaming. In the event relations with Faraden collapsed, or the [[#Gloaming Road|Gloaming Road]] were to be closed, the title would still exist but would not be able to purchase mithril.</box></div>
+{{Anchor|History}}
+==The Gloaming Road==
+During 380YE, a disease crept into Faraden from farther lands and swept through the iridescent butterfly populations therein. The results were disastrous for the carefully-cultivated forests where Faraden silk-harvesters worked, shattering the production of iridescent gloaming over a few short months. Desperate for gloaming, the Court of the Five Winds authorised merchants from several key families to approach the Brass Coast and discuss the large-scale trade of the material in return for mithril. An initial exchange during the Autumn Equinox of 380YE was successful, and an ongoing trade agreement between the two nations was formalised during the following Winter Solstice. ''Antonio i Carno i Guerra'' was appointed in Winter 380YE to serve as the first overseer of the Gloaming Road
+
+Brightly coloured fabrics are vital to Faraden culture, and iridescent gloaming is key to their production. While the effects of the gloaming blight continued, the nation's hunger for iridescent gloaming remained strong. The situation changed with the [[Ratify Liberty Pact|ratification of the Liberty Pact]] which placed additional [[tariffs]] on Faraden mithril - but even that was nothing to the damage done to the profitability of the trade route when the [[Conclave]] effectively [[Through_my_sails#The_Gloaming_Blight|ended the gloaming blight]] in Summer 383YE.
+
+In Autumn 384YE, following the ascension of ''Tchinua Ganbatar'' to the Seat of Five Winds, the Gloaming Road was made an [[Imperial title]] as part of the same [[Ratify Gloaming Treaty|treaty]] that saw [[Tariffs#Sanctions|trade sanctions]] for the [[Faraden]] lifted. This also made the [[Senate]] responsible for maintaining roads and bridges that form the western part of the route, incurring a cost to the Imperial Treasury of 5 thrones each season.
+
+Ultimately, the Gloaming Road failed due to diplomatic and economic pressures. It remains to be seen what form the trade of mithril for iridescent gloaming takes in the future.
+{{RecentElections|Overseer_of_the_Gloaming_Road}}
+{{Responsibilities Expectation}}
+
+[[Category:Foreign Nations]]
+[[Category:Bourse]]

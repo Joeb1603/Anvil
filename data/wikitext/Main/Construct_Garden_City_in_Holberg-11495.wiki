@@ -1,0 +1,20 @@
+[[Category:Senate Motion]][[Category:385YE Winter]]
+__NOTOC__
+<quote by="Proposed: Holberg, Seconded: Redoubt">To commission the work to transform Holberg into the City of Flowers.</quote>
+==Overview==
+* Constructs a [[folly]] in [[Holberg]] as per '''[[The_greatest_city_in_the_world#Flower_Gardens|The greatest city in the world]]''' wind of fortune
+* Given that this commission requires a total of four commissions over a year the civil service, working with the Senator for Holberg, opted to run the motion as if it were a disbursement of funds with increasing numbers of commissions
+* Passed at one commission
+* This construction was supported by announcement of '''Dima Vasilyevna Novosad''', as [[Master of the Koboldi]], at the [[386YE_Spring_Equinox_Senate_sessions#Construct_City_of_Flowers|Spring Equinox 386YE]]
+* This construction was supported by announcement of '''Gustavus Tolski van Temeschwar''', as [[Chair of the Wolf]], at the [[386YE_Summer_Solstice_Senate_sessions#Construct_Garden_City_of_Holberg|Summer Solstice 386YE]] and  [[386YE_Autumn_Equinox_Senate_sessions#Construct_Garden_City_of_Holberg|Autumn Equinox 386YE]]
+
+==Date==
+* Winter 385YE
+==Cost==
+* Costs as per opportunity
+* 50 thrones
+* Twelve months to complete
+==Progress==
+{{CommissionProgress|Garden_City_in_Holberg}}
+==Outcome==
+* Now complete, the region of [[Holberg#Holmauer|Holmauer]] will become a garden city and gain the '''Uplifting''' quality

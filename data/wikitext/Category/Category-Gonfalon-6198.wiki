@@ -1,0 +1,6 @@
+==Overview==
+A gonfalon is a [[Magic_items#Group_Magic_Items|group magic item]] that provides an advantage to a [[Bands#Banners|banner]]. They follow the same phys-rep rules as magic [[#Magic_items#Magic_Standards|magic standards]]. However a gonfalon is bonded to the entire band - rather than rather than an single individual like a magic standard.
+
+<table class="wikitable"><tr><th>Item</th><th>Power</th><th style="font-size: 50%;">Months</th><th style="font-size: 50%;">Orichalcum</th><th style="font-size: 50%;">Tempest Jade</th><th style="font-size: 50%;">Green Iron</th><th style="font-size: 50%;">Weltsilver</th><th style="font-size: 50%;">Ambergelt</th><th style="font-size: 50%;">Beggars Lye</th><th style="font-size: 50%;">Dragon Bone</th><th style="font-size: 50%;">Irridescent Gloaming</th></tr>
+<tr><td>[[Mercenary Banner]]</td><td>A banner bonded to this gonfalon may travel to a battle that their national banner is not attending. </td><td style="text-align: center;">1</td><td style="text-align: center;">5</td><td style="text-align: center;">0</td><td style="text-align: center;">7</td><td style="text-align: center;">0</td><td style="text-align: center;">0</td><td style="text-align: center;">0</td><td style="text-align: center;">18</td><td style="text-align: center;">9</td></tr> 
+</table>

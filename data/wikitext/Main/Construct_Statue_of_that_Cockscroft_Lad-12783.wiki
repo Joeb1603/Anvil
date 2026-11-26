@@ -1,0 +1,17 @@
+[[Category:Senate Motion]][[Category:387YE Spring]]
+__NOTOC__
+<quote by="Announced by Konstantin Rabovich Bolotnikov, Mistress of Monuments"> I announce the construction of a statue celebrating the Vigilant hue and cry of Johnathan Piper of the Cockscroft. The "Statue of that Cockscroft Lad" will mark and memorialise the site of the massacre of the Wayford Wanderers and their supporters in Mitwold. 5 white granite, 15 crowns. Funded by the Cockscroft Household.</quote>
+==Overview==
+* Constructs an [[edifice]] in Maiden Downs, Mitwold
+* Announcement by the [[Mistress of Monuments]]
+==Date==
+* Spring 387YE
+==Cost==
+* Standard costs apply
+* 5 white granite
+* 15 crowns
+* Three months to complete
+==Progress==
+{{CommissionProgress|Construct_Statue_of_that_Coxcroft_Lad}}
+==Outcome==
+Now complete, the statue of '''Jonathan Piper of Cockscroft''' is in pride of place near [[Mitwold#Statue_of_Cockscroft_Lad|the site]] of the senseless loss of life

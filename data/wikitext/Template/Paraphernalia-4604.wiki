@@ -1,0 +1,3 @@
+* '''Form:''' Paraphernalia. Takes the form of a piece of ritual [[Magic items#Paraphernalia|paraphernalia]]. The item must be present in the ritual to use its magical properties.
+[[Category:Magic Items]]
+[[Category:Paraphernalia]]

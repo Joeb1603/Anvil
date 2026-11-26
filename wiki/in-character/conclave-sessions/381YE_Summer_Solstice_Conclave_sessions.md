@@ -1,0 +1,133 @@
+---
+title: 381YE Summer Solstice Conclave sessions
+source: https://www.profounddecisions.co.uk/empire-wiki/381YE_Summer_Solstice_Conclave_sessions
+class: in-character
+topic: conclave-sessions
+categories:
+- Conclave
+- Conclave Sessions
+- 381YE Summer
+event: 381YE Summer
+last_edited: '2025-07-10T23:16:20Z'
+revision: 123258
+---
+
+# 381YE Summer Solstice Conclave sessions
+
+## Precedence
+
+The precedence and size of each order at the start of the summit were as follows:
+
+1. The Golden Pyramid had 84 members.
+2. The Rod and Shield had 69 members.
+3. The Shuttered Lantern had 68 members.
+4. The Sevenfold Path had 60 members.
+5. The Unfettered Mind had 35 members.
+6. The Celestial Arch had 28 members.
+
+## The Imperial Titles of the Conclave
+
+The full list of Imperial Titles held in the Conclave at the end of the summit can be found [here](../../mixed/titles/Archive-381YE_Summer_Solstice_Imperial_titles.md).
+
+The following Imperial Titles were declared by the Conclave during the summit.
+
+- **Sibella of Phoenix Reach** was appointed as the [Gloaming Sentinel](../../mixed/titles/Gloaming_Sentinel.md) following the Friday session.
+- **Asenath** was appointed the [Penumbral Watcher](../../mixed/titles/Penumbral_Watcher.md) following the Friday session.
+- **Volfe of Ashenhall** was appointed [Archmage](../../mixed/titles/Archmage.md) of [Spring](../eternals/Realm.md#spring) following the Saturday session.
+
+In meetings of the members of the appropriate orders, the following Grandmasters were appointed.
+
+- **Kyra Halcyon** was re-appointed Grandmaster of the Unfettered Mind.
+
+## Conclave Declarations
+
+Records show that 10 declarations were made during the Friday session, and 14 were made during the Saturday session. The details of these declarations and their outcomes were as follows: when a declaration is not one of Concord, its text may have been edited for standardisation purposes.
+
+### Friday Session
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Speaker** | **Declaration of...** | **The Imperial Conclave declares** | **Outcome** |
+| Eudaemon of Halcyon | Sorcery | that Drefa Brackensong is a sorcerer. | Failed |
+| Rosamund Holt | Neutrality | that a state of Neutrality shall exist between Yaw'nagrah and the Empire. | Failed |
+| Arcadius Endsmeet-Arkarian | Candidacy | that Arcadius Endsmeet-Arkarian is the Penumbral Watcher. | Failed |
+| Sibella of Phoenix Reach | Candidacy | that Sibella of Phoenix Reach is the Gloaming Sentinel. | Passed |
+| Bronwyn Eliasdottir | Candidacy | that Bronwyn Eliasdottir is the Penumbral Watcher. | Failed |
+| Drake de Coeurdefer | Candidacy | that Drake de Coeurdefer is the Penumbral Watcher. | Failed |
+| Sister Mayia of the Shattered Tower | Candidacy | that Sister Mayia of the Shattered Tower is the Gloaming Sentinel. | Failed |
+| Cerys Greenhealer | Candidacy | that Cerys Greenhealer is the Archmage of Spring. | Failed |
+| Owain Farkas | Candidacy | that Owain Farkas is the Penumbral Watcher. | Failed |
+| Asenath | Candidacy | that Asenath is the Penumbral Watcher. | Passed |
+
+### Saturday Session
+
+The Conclave made the following Declarations:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Speaker** | **Declaration of...** | **The Imperial Conclave declares** | **Outcome** |
+| Sirius Skybreaker | Amity | that a state of Amity shall exist between Tharim and the Empire. | Passed |
+| Reichard von Holberg | Concord | the Empire deeply regrets the shattering of our relationship with Spring and seeks to redress. | Passed |
+| Solomon | Amity | that a state of Amity shall exist between Rhianos and the Empire. | Passed |
+| Gancius della Notte di Sarvos | Concord | the Myrmidons are not an Eternal. | Passed |
+| Maurice de Gauvain | Interdiction | that Quickening Cold Meat is interdicted. | Failed |
+| Raewynn Farkas | Concord | that the Conclave supports the creation of a new order - the Silver Chalice. | Passed |
+| Azzurkhul of the Suns of Couros | Amity | that a state of Amity shall exist between Gilean, Llofir's Herald, and the Empire. | Passed |
+| Halvyn Splitroot | Concord | the proposer of a successful declaration of Sorcery shall promptly, to the best of their ability, provide to the magistrates the sorcerer's name, social grouping, nation, physical description, known associates, known haunts and, where possible, an artist's impression. | Passed |
+| Catalina Novarion | Dissemination | Crystalline Focus of Aesh to be distributed to Barbara Radz, Leader of the Eastern Alliance, Principality of Jarm [1](#clarifications) | Passed |
+| Vaan | Amity | that a state of Amity shall exist between Agon, Polemarch of Clarity, Zakalwe's Herald, and the Empire. | Passed |
+| Volfe of Ashenhall | Candidacy | that Volfe of Ashenhall is the Archmage of Spring. | Passed |
+| Alcuin Shatterspire | Imperial Lore | that the ritual Invocation of the Unknown Unknown shall be codified into Imperial Lore.[2](#clarifications) | Passed |
+| Andreas i Sol-Devorador i Erigo | Imperial Lore | that the ritual Golden Voyage shall be codified into Imperial Lore. [3](#clarifications) | Passed |
+
+## Conclave Addresses
+
+Records show that 17 addresses were made during the Friday session, and 10 during the Saturday session. Per protocol, the titles of addresses are not recorded.
+
+## Order Vaults
+
+The income detailed below will be given to each Grandmaster at the beginning of the next summit, along with any mana purchases they choose to make using their powers of funding.
+
+### Endowments
+
+There were no endowments at this summit.
+
+### The Font
+
+The income of mana at this summit was as follows.
+
+- The basic font at this summit was 122 mana.
+- The income from the Principle of Proportions was 207 mana.
+- The remainder from previous seasons was 3 mana.
+
+This gives a total font of 332 mana, which was divided thus:
+
+- The Golden Pyramid received 81 mana.
+- The Rod and Shield received 66 mana.
+- The Shuttered Lantern received 65 mana.
+- The Sevenfold Path received 57 mana.
+- The Unfettered Mind received 33 mana.
+- The Celestial Arch received 27 mana.
+
+This left 3 mana, which will be added to the font to be divided at the end of the next summit.
+
+### The Ilium Reserve
+
+The details of ilium divided among the orders was as follows.
+
+- The Golden Pyramid received 3 ilium.
+- The Rod and Shield received 3 ilium.
+- The Shuttered Lantern received 3 ilium.
+- The Sevenfold Path received 2 ilium.
+- The Unfettered Mind received 2 ilium.
+- The Celestial Arch received 1 ilium.
+
+## Clarifications
+
+1. This was paid for at the Summit, and the Civil Service are making arrangements for it to be sent to the intended recipient.
+2. The Civil Service were unable at the time to confirm receipt of payment or ritual text for this ritual, so it could not be codified. The matter has since been resolved.
+3. The Civil Service were unable at the time to confirm receipt of payment or ritual text for this ritual, so it could not be codified. The matter has since been resolved.
+
+---
+
+Categories: [Conclave](../../indexes/by-category/Conclave.md), [Conclave Sessions](../../indexes/by-category/Conclave_Sessions.md), [381YE Summer](../../indexes/by-category/381YE_Summer.md)

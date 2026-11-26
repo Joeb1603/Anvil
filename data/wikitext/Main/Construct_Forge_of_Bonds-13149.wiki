@@ -1,0 +1,22 @@
+[[Category:Senate Motion]][[Category:387YE Autumn]]
+__NOTOC__
+<quote by="Proposed: Kallavesa, Seconded: Temeschwar">Construct the Forge of Bonds in the Fingers, Hahnmark. This will create the position of Keeper of Oaths, to be elected by the Loyalty Assembly with tenure. This is a time sensitive opportunity to create an edifice which would allow the Keeper of Oaths to carve one oath per season into the Fingers via a statement of principle. This has been fully funded and there are no upkeep costs
+</quote>
+==Overview==
+* Constructs an [[edifice]] in Wood Heath, [[Hahnmark]]
+* Passed
+* More information can be found in the '''[[Carved in stone]]''' wind of fortune
+
+==Date==
+* Autumn 387YE
+
+==Cost==
+* Costs as per opportunity
+* 11 wains of white granite
+* 33 crowns in labour costs
+* Three months to complete
+
+==Progress==
+{{CommissionProgress|Construct_Forge_of_Bonds}}
+==Outcome==
+* Now complete, the [[Keeper of Oaths]] will be available to appoint for the first time at the Winter Solstice 387YE by the Loyalty Assembly
