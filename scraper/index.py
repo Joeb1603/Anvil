@@ -43,27 +43,6 @@ def build_indexes() -> dict:
         for c in i["categories"]:
             members[c].append(i)
 
-    # --- by-category (every category in use, plus category pages with no members)
-    here = "indexes/by-category"
-    linked = set(read_json(DATA / "linked_categories.json"))
-    for name in sorted(set(members) | set(cat_pages) | linked):
-        rel = site.category_path(name)
-        info = cat_pages.get(name)
-        subs = sorted((m for m in members.get(name, []) if m["ns"] == 14), key=lambda m: m["title"])
-        mem = sorted((m for m in members.get(name, []) if m["ns"] != 14), key=lambda m: m["title"].lower())
-        meta = {"title": f"Category:{name}", "source": page_url("Category:" + name), "members": len(mem)}
-        text = front_matter(meta) + f"\n# Category: {name}\n\n"
-        if info and info.get("body"):
-            text += info["body"] + "\n\n"
-        if info and info["categories"]:
-            text += "Parent categories: " + ", ".join(
-                f"[{c}]({os.path.relpath(site.category_path(c), here)})" for c in info["categories"]) + "\n\n"
-        if subs:
-            text += "## Subcategories\n\n" + "\n".join(
-                f"- [{s['title'].split(':', 1)[1]}]({os.path.relpath(s['path'], here)})" for s in subs) + "\n\n"
-        text += f"## Pages ({len(mem)})\n\n" + "\n".join(f"- {link(m, here)} ({m['class']})" for m in mem)
-        write(rel, text)
-
     # --- by-event
     here = "indexes/by-event"
     events = collections.defaultdict(list)
@@ -132,6 +111,29 @@ def build_indexes() -> dict:
     text += "\n".join(f"- {link(i, here)}" for i in unc)
     write(f"{here}/uncategorised.md", text)
 
+    # --- by-category (every category in use, plus category pages with no members)
+    here = "indexes/by-category"
+    linked = set(read_json(DATA / "linked_categories.json"))
+    linked |= {t.split(":", 1)[1] for t in site.path if t.startswith("Category:")}
+    all_categories = sorted(set(members) | set(cat_pages) | linked)
+    for name in all_categories:
+        rel = site.category_path(name)
+        info = cat_pages.get(name)
+        subs = sorted((m for m in members.get(name, []) if m["ns"] == 14), key=lambda m: m["title"])
+        mem = sorted((m for m in members.get(name, []) if m["ns"] != 14), key=lambda m: m["title"].lower())
+        meta = {"title": f"Category:{name}", "source": page_url("Category:" + name), "members": len(mem)}
+        text = front_matter(meta) + f"\n# Category: {name}\n\n"
+        if info and info.get("body"):
+            text += info["body"] + "\n\n"
+        if info and info["categories"]:
+            text += "Parent categories: " + ", ".join(
+                f"[{c}]({os.path.relpath(site.category_path(c), here)})" for c in info["categories"]) + "\n\n"
+        if subs:
+            text += "## Subcategories\n\n" + "\n".join(
+                f"- [{s['title'].split(':', 1)[1]}]({os.path.relpath(s['path'], here)})" for s in subs) + "\n\n"
+        text += f"## Pages ({len(mem)})\n\n" + "\n".join(f"- {link(m, here)} ({m['class']})" for m in mem)
+        write(rel, text)
+
     # --- master README
     tally = collections.Counter((i["class"], i["topic"]) for i in content)
     by_class = collections.Counter(i["class"] for i in content)
@@ -159,7 +161,7 @@ def build_indexes() -> dict:
             + "\n".join(f"| [{i['title']}]({i['source']}) | {i['class']} | {i['topic']} | {i['event'] or ''} |"
                         for i in content))
     (PUBLIC_INDEX / "titles.md").write_text(text + "\n", encoding="utf-8")
-    return {"pages": len(content), "categories": len(set(members) | set(cat_pages)), "events": len(ordered_events),
+    return {"pages": len(content), "categories": len(all_categories), "events": len(ordered_events),
             "uncategorised": len(unc), **{f"chrono:{k}": v for k, v in chrono_counts.items()}}
 
 

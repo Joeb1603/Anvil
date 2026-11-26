@@ -84,7 +84,7 @@ def classify_all() -> dict:
         res = clf.classify(p["title"], p["ns"], cats)
         out[str(p["pageid"])] = res
         for c in res["categories"]:
-            if c not in clf.by_cat and not EVENT_RE.match(c):
+            if c not in clf.by_cat and not EVENT_RE.match(c) and not re.fullmatch(r"\d{3}YE", c):
                 unmapped[c] += 1
     write_json(DATA / "classification.json", out, indent=1)
     write_json(DATA / "unmapped_categories.json", dict(unmapped.most_common()), indent=1)
