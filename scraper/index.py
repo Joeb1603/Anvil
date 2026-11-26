@@ -6,7 +6,7 @@ import os
 import shutil
 
 from .classify import EVENT_RE, event_key
-from .common import DATA, PUBLIC_INDEX, WIKI, page_url, read_json, safe_name
+from .common import DATA, WIKI, page_url, read_json, safe_name
 from .render import Site, front_matter
 
 CLASS_ORDER = ["in-character", "mixed", "out-of-character", "uncategorised"]
@@ -18,6 +18,41 @@ CHRONO = [  # (file stem, heading, topics)
     ("senate-motions", "Senate motions", {"senate-motions"}),
     ("mandates", "Mandates", {"mandates"}),
 ]
+
+
+LICENCE_TEXT = """# Licence and attribution
+
+The text in this folder comes from the Empire wiki
+(https://www.profounddecisions.co.uk/empire-wiki/Main_Page), written and published by
+Profound Decisions. Snapshot taken {snapshot}.
+
+Profound Decisions license their games and website content under the
+**Creative Commons Attribution-ShareAlike 4.0 International** licence
+(https://creativecommons.org/licenses/by-sa/4.0/), as stated in the wiki's terms:
+https://www.profounddecisions.co.uk/empire-wiki/Terms_and_conditions
+
+This archive is distributed under that same licence. You may copy, adapt and share it,
+including commercially, provided you credit Profound Decisions, link to the licence, say
+what you changed, and release your version under the same terms.
+
+## Changes made
+
+- Each wiki page was converted from HTML to markdown; the wording is unchanged.
+- Pages were sorted into `in-character`, `mixed` and `out-of-character` folders and indexed.
+- Front matter was added to each page: source link, categories, last-edited time, revision.
+- Images were replaced by links to the originals.
+
+## Not covered by the licence
+
+The wiki's terms exclude art and music, which stay with their authors.
+
+- **Art and photographs** are not included; only links to them.
+- **Music and lyrics** are not included. {held} pages that carry songs appear here as a
+  title and a link to the original, or with the song text removed.
+
+Each page's `source` field links to the original, where the full edit history gives
+individual authorship.
+"""
 
 
 def link(info: dict, here: str) -> str:
@@ -139,7 +174,8 @@ def build_indexes() -> dict:
     by_class = collections.Counter(i["class"] for i in content)
     m = site.manifest
     text = (f"# Empire wiki archive\n\nSnapshot of {m['site']} ({page_url('Main Page')}) taken {m['snapshot']}.\n"
-            "Text © Profound Decisions; this is a personal offline copy.\n\n"
+            "Text © Profound Decisions, reused under [CC BY-SA 4.0](LICENSE.md). Converted from the wiki's HTML to "
+            "markdown and re-sorted; wording is unchanged.\n\n"
             f"- **{len(content)}** pages, **{len(cat_pages)}** category pages, **{len(reds)}** redirects\n"
             + "".join(f"- **{by_class[c]}** {c}\n" for c in CLASS_ORDER if by_class[c]) +
             "\n## Indexes\n\n"
@@ -153,14 +189,8 @@ def build_indexes() -> dict:
                         sorted(tally.items(), key=lambda kv: (CLASS_ORDER.index(kv[0][0]), kv[0][1]))))
     write("README.md", text)
 
-    # --- public titles-only index (no page text)
-    PUBLIC_INDEX.mkdir(exist_ok=True)
-    text = (f"# Empire wiki: titles-only index\n\nSnapshot {m['snapshot']}. Page titles, classification and links to the "
-            "original pages only; no wiki text is stored in this repository.\n\n"
-            "| Page | Class | Topic | Event |\n|---|---|---|---|\n"
-            + "\n".join(f"| [{i['title']}]({i['source']}) | {i['class']} | {i['topic']} | {i['event'] or ''} |"
-                        for i in content))
-    (PUBLIC_INDEX / "titles.md").write_text(text + "\n", encoding="utf-8")
+    held = sum(1 for i in content if i.get("held_back"))
+    write("LICENSE.md", LICENCE_TEXT.format(snapshot=m["snapshot"], held=held))
     return {"pages": len(content), "categories": len(all_categories), "events": len(ordered_events),
             "uncategorised": len(unc), **{f"chrono:{k}": v for k, v in chrono_counts.items()}}
 

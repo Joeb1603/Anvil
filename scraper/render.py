@@ -10,7 +10,7 @@ import yaml
 from bs4 import BeautifulSoup, Comment, NavigableString
 from markdownify import markdownify
 
-from .common import (DATA, PAGE_CACHE, RAW_NAMESPACES, RENDER_NAMESPACES, SITE, WIKI, norm_title,
+from .common import (DATA, LOCAL, MAPPING, PAGE_CACHE, RAW_NAMESPACES, RENDER_NAMESPACES, SITE, WIKI, norm_title,
                      page_url, read_json, safe_name, write_json)
 
 BR = "⟨BR⟩"  # placeholder for line breaks inside table cells
@@ -79,9 +79,25 @@ class Site:
         return None
 
 
-def html_to_markdown(html: str, site: Site, current: str, stats: dict) -> str:
+SONG_NOTE = "Song text omitted: music and lyrics belong to their authors and are not covered by the wiki's licence."
+
+
+def html_to_markdown(html: str, site: Site, current: str, stats: dict, strip_songs: bool = False,
+                     source: str = "") -> str:
     soup = BeautifulSoup(html, "lxml")
     root = soup.select_one(".mw-parser-output") or soup.body or soup
+    songs = [b for b in root.select("div.song") if not b.find_parent(class_="song")]
+    stats["songs"] += len(songs)
+    if strip_songs:
+        for box in songs:
+            p = soup.new_tag("p")
+            em = soup.new_tag("em")
+            em.string = SONG_NOTE + " "
+            link = soup.new_tag("a", href=source)
+            link.string = "See the original page."
+            em.append(link)
+            p.append(em)
+            box.replace_with(p)
     for c in root.find_all(string=lambda s: isinstance(s, Comment)):
         c.extract()
     for el in root.select(".mw-editsection, .toc, #toc, script, style, .mw-empty-elt, .noprint"):
@@ -205,7 +221,7 @@ def front_matter(meta: dict) -> str:
 
 
 def new_stats() -> dict:
-    return {"images": 0, "ic_boxes": 0, "redlinks": 0, "internal": 0, "unresolved": set()}
+    return {"images": 0, "ic_boxes": 0, "redlinks": 0, "internal": 0, "songs": 0, "unresolved": set()}
 
 
 def render_all() -> dict:
@@ -213,28 +229,44 @@ def render_all() -> dict:
     for sub in ("in-character", "mixed", "out-of-character", "uncategorised"):
         shutil.rmtree(WIKI / sub, ignore_errors=True)
     shutil.rmtree(DATA / "wikitext", ignore_errors=True)
-    totals = {"files": 0, "images": 0, "ic_boxes": 0, "redlinks": 0, "internal": 0}
+    shutil.rmtree(LOCAL, ignore_errors=True)
+    # Topics the wiki's CC BY-SA licence does not cover (music stays with its authors).
+    restricted = set(yaml.safe_load(MAPPING.read_text(encoding="utf-8")).get("not_openly_licensed_topics", []))
+    totals = {"files": 0, "images": 0, "ic_boxes": 0, "redlinks": 0, "internal": 0, "songs": 0,
+              "stubbed_pages": 0, "pages_with_songs_removed": 0}
     unresolved: dict[str, int] = {}
     page_info = {}
     for p in site.pages:
         rec = read_json(PAGE_CACHE / f"{p['pageid']}.json.gz")
         c = site.classes[str(p["pageid"])]
         ns_dir = RENDER_NAMESPACES[p["ns"]] or "Main"
-        raw = DATA / "wikitext" / ns_dir / (safe_name(p["title"]) + f"-{p['pageid']}.wiki")
+        rel = site.path[p["title"]]
+        source = page_url(p["title"])
+        stats = new_stats()
+        body = html_to_markdown(rec["html"] or "", site, rel, stats)      # complete text
+        stub = c["topic"] in restricted and p["ns"] != 14
+        held_back = stub or stats["songs"] > 0                             # needs a public variant
+        raw_root = (LOCAL / "data" / "wikitext") if held_back else (DATA / "wikitext")
+        raw = raw_root / ns_dir / (safe_name(p["title"]) + f"-{p['pageid']}.wiki")
         raw.parent.mkdir(parents=True, exist_ok=True)
         raw.write_text(rec["wikitext"] or "", encoding="utf-8")
-        rel = site.path[p["title"]]
-        stats = new_stats()
-        body = html_to_markdown(rec["html"] or "", site, rel, stats)
+        full_body = body
+        if stub:
+            body = (f"*This page holds music or lyrics, which belong to their authors and are not covered by the "
+                    f"wiki's licence, so its text is not included here.* [Read it on the wiki.]({source})")
+            totals["stubbed_pages"] += 1
+        elif held_back:
+            body = html_to_markdown(rec["html"] or "", site, rel, new_stats(), strip_songs=True, source=source)
+            totals["pages_with_songs_removed"] += 1
         info = {"pageid": p["pageid"], "ns": p["ns"], "title": p["title"], "path": rel,
                 "class": c["class"], "topic": c["topic"], "event": c["event"], "categories": c["categories"],
                 "rule": c["rule"], "revision": rec.get("revid"), "last_edited": rec.get("timestamp"),
                 "aliases": sorted(site.aliases.get(p["title"], [])), "ic_boxes": stats["ic_boxes"],
-                "words": len(body.split()), "source": page_url(p["title"])}
+                "words": len(full_body.split()), "source": source, "held_back": held_back}
         page_info[p["title"]] = info
         for t in stats["unresolved"]:
             unresolved[t] = unresolved.get(t, 0) + 1
-        for k in ("images", "ic_boxes", "redlinks", "internal"):
+        for k in ("images", "ic_boxes", "redlinks", "internal", "songs"):
             totals[k] += stats[k]
         if p["ns"] == 14:
             info["body"] = body  # category description; written by the index stage
@@ -251,12 +283,13 @@ def render_all() -> dict:
             meta["in_character_boxes"] = stats["ic_boxes"]
         here = os.path.dirname(rel)
         cats = ", ".join(f"[{n}]({os.path.relpath(site.category_path(n), here)})" for n in c["categories"])
-        text = front_matter(meta) + f"\n# {p['title']}\n\n{body}\n"
-        if cats:
-            text += f"\n---\n\nCategories: {cats}\n"
-        out = WIKI / rel
-        out.parent.mkdir(parents=True, exist_ok=True)
-        out.write_text(text, encoding="utf-8")
+        tail = f"\n---\n\nCategories: {cats}\n" if cats else ""
+        variants = [(WIKI / rel, body)]
+        if held_back:
+            variants.append((LOCAL / "wiki" / rel, full_body))             # complete copy, kept off GitHub
+        for out, text_body in variants:
+            out.parent.mkdir(parents=True, exist_ok=True)
+            out.write_text(front_matter(meta) + f"\n# {p['title']}\n\n{text_body}\n" + tail, encoding="utf-8")
         totals["files"] += 1
     for p in site.raw_pages:
         path = PAGE_CACHE / f"{p['pageid']}.json.gz"

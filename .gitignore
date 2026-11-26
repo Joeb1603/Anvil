@@ -1,7 +1,7 @@
-# Scraped wiki content is Profound Decisions' copyright and is not committed.
-# Rebuild it locally with:  python3 -m scraper.run
+# Download cache (raw HTML) and build products that are not committed.
 .cache/
-data/
-wiki/
 *.zip
 __pycache__/
+# Complete copies of pages that hold music or lyrics. The wiki's CC BY-SA licence
+# excludes music, so these stay off GitHub; wiki/ holds stubs for them instead.
+local-only/

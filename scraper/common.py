@@ -19,7 +19,7 @@ CACHE = ROOT / ".cache"
 PAGE_CACHE = CACHE / "pages"
 DATA = ROOT / "data"
 WIKI = ROOT / "wiki"
-PUBLIC_INDEX = ROOT / "public-index"
+LOCAL = ROOT / "local-only"  # full versions of pages holding music; never committed
 MAPPING = Path(__file__).resolve().parent / "classification.yaml"
 
 # Namespaces rendered to markdown, and those kept as raw wikitext only.
