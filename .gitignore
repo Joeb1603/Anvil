@@ -1,0 +1,7 @@
+# Scraped wiki content is Profound Decisions' copyright and is not committed.
+# Rebuild it locally with:  python3 -m scraper.run
+.cache/
+data/
+wiki/
+*.zip
+__pycache__/

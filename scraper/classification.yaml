@@ -1,0 +1,114 @@
+# How wiki pages are sorted into wiki/<class>/<topic>/.
+#
+# class is one of: in-character, mixed (lore plus game rules), out-of-character.
+# A page takes the FIRST rule below that lists one of its categories, so order matters:
+# dated records first, then clearly out-of-character material, then mechanics, then lore.
+# Edit this file and re-run `python3 -m scraper.run --skip-fetch` to re-sort everything.
+
+ignore_categories: [Pages with broken file links, Noindexed pages, Hidden categories, Templates]
+ignore_category_prefixes: ["Photos:", "Photo:", "PhotosJ"]
+
+namespace_defaults:
+  Help: {class: out-of-character, topic: help}
+  Crew: {class: out-of-character, topic: crew}
+  Draft: {class: out-of-character, topic: drafts}
+  Archive: {class: mixed, topic: archive}
+  Category: {class: out-of-character, topic: categories}
+
+default: {class: uncategorised, topic: unsorted}
+
+title_rules: []
+fallback_title_rules: []
+
+rules:
+  # --- Dated in-character records
+  - {topic: winds-of-war, class: in-character, categories: [Winds of War]}
+  - {topic: winds-of-fortune, class: in-character, categories: [Winds of Fortune, Wind of Fortune, Wiands of Fortune]}
+  - {topic: winds-of-magic, class: in-character, categories: [Winds of Magic]}
+  - {topic: trade-winds, class: in-character, categories: [Trade Winds]}
+  - {topic: senate-motions, class: in-character, categories: [Senate Motion, Failed Senate Motion, Vetoed Senate Motion, Requires Ratification]}
+  - {topic: mandates, class: in-character, categories: [Mandate]}
+  - {topic: senate-sessions, class: in-character, categories: [Senate Sessions]}
+  - {topic: synod-judgements, class: in-character, categories: [Synod Judgements, Synod Results]}
+  - {topic: conclave-sessions, class: in-character, categories: [Conclave Sessions]}
+  - {topic: imperial-addresses, class: in-character, categories: [Imperial Address]}
+  - {topic: announcements, class: in-character, categories: [Announcements]}
+  - {topic: plenipotentiaries, class: in-character, categories: [Plenipotentiary]}
+  - {topic: ambassador-briefings, class: in-character, categories: [Ambassador briefing]}
+  - {topic: appraisals, class: in-character, categories: [Appraisal]}
+  - {topic: historical-research, class: in-character, categories: [Historical research]}
+  - {topic: roll-of-honour, class: in-character, categories: [Roll of Honour, RollOfHonour, Memorial]}
+
+  # --- Out-of-character material (listed early so it outranks nation categories)
+  - {topic: costume, class: out-of-character, categories: [Costume, Pieces of Costume]}
+  - {topic: rules, class: out-of-character, categories: [Rules, FAQ, Conduct, Safety, Accessibility]}
+  - {topic: events, class: out-of-character, categories: [Events, Monstering, Children]}
+  - {topic: game-design, class: out-of-character, categories: [Game Design, Review, Inspirations, The Game, Introduction, Guide]}
+  - {topic: help, class: out-of-character, categories: [Help]}
+  - {topic: crew, class: out-of-character, categories: [Crew]}
+  - topic: groups
+    class: out-of-character
+    categories: [Groups, Brass Coast groups, Dawn groups, Highguard groups, Imperial Orcs groups, Navarr groups,
+                 The League groups, The Marches groups, Urizen groups, Varushka groups, Wintermark groups]
+  - topic: music
+    class: mixed
+    categories: [Music, Music for children, Musical Instruments, Marches Music, Varushka Music, Varushkan Music,
+                 Navarr Music, Urizen Music, Dawn Music, Highguard Music, Wintermark Music, League Music,
+                 Brass Coast Music, Imperial Orc Music, Imperial Orcs Music]
+
+  # --- Lore that carries game mechanics
+  - topic: magic/rituals
+    class: mixed
+    categories: [Rituals, Spring Ritual, Summer Ritual, Autumn Ritual, Winter Ritual, Day Ritual, Night Ritual,
+                 Enchantment, Imperial Enchantment, Curse, Mass Effect, Divination]
+  - topic: magic/items
+    class: mixed
+    categories: [Magic Items, Staffs, Rods, Wands, Mage Armour, Mage Robes, Foci, Jewellery, One-handed Weapons,
+                 Polearms, Regalia, Magic Standards, Magic Standard, Great Weapons, Heavy Armour, Light Armour,
+                 Medium Armour, One-handed Spears, Arcane Weapons, Arcane Implements, Shields, Tools, Ritual Staves,
+                 Vestments, Paired Weapons, Reliquaries, Bows, Daggers, Paraphernalia, Icons, Gonfalon,
+                 Two-handed Weapons, Runesmith's Law, Leatherworking]
+  - {topic: magic/potions, class: mixed, categories: [Potions, Herbs, Tonics]}
+  - {topic: magic/spells, class: mixed, categories: [Spells]}
+  - {topic: eternals, class: in-character, categories: [Eternals]}
+  - topic: magic/lore
+    class: mixed
+    categories: [Magic, Magic Theory, Runes, Astronomancy, Constellations, Constellation, Conjunction, Dramaturgy,
+                 Hearth Magic, Auras, Lineage]
+  - {topic: titles, class: mixed, categories: [Title, Martial Title, Campaign Title, Ambassador, Sovereign, Elections]}
+  - {topic: commissions, class: mixed, categories: [Commission, Great Work]}
+  - {topic: economy, class: mixed, categories: [Resource, Personal Resource, Bourse]}
+  - {topic: government/military, class: mixed, categories: [Military Council, Imperial Army, Warfare, Challenge]}
+  - {topic: government/synod, class: mixed, categories: [Synod, Imperial Synod, Writ of Consecration, Scrutiny]}
+  - {topic: government/conclave, class: mixed, categories: [Conclave, Conclave order, Sodality, Imperial Sodality]}
+  - {topic: government/senate, class: mixed, categories: [Senate, The Throne, The Law, Civil Service]}
+  - {topic: religion, class: mixed, categories: [Ceremonies]}
+
+  # --- In-character lore
+  - topic: religion
+    class: in-character
+    categories: [Religion, The Way, Ambition, Courage, Loyalty, Pride, Prosperity, Vigilance, Wisdom,
+                 Highest Calling, Peerless Kinship, Great Library]
+  - {topic: nations/navarr, class: in-character, categories: [Navarr, Navarr Wayhouse]}
+  - {topic: nations/varushka, class: in-character, categories: [Varushka]}
+  - {topic: nations/the-league, class: in-character, categories: [The League]}
+  - {topic: nations/the-marches, class: in-character, categories: [The Marches]}
+  - {topic: nations/urizen, class: in-character, categories: [Urizen, Urizen Lore]}
+  - {topic: nations/wintermark, class: in-character, categories: [Wintermark]}
+  - {topic: nations/dawn, class: in-character, categories: [Dawn]}
+  - {topic: nations/highguard, class: in-character, categories: [Highguard]}
+  - {topic: nations/the-brass-coast, class: in-character, categories: [The Brass Coast]}
+  - {topic: nations/imperial-orcs, class: in-character, categories: [Imperial Orcs]}
+  - {topic: nations/general, class: in-character, categories: [Nations, Archetype, Egregore]}
+  - topic: foreign-nations
+    class: in-character
+    categories: [Foreign Nations, Foreign Nation, Foreigners, Sarcophan, Axos, Asavea, Asavean Archipelago,
+                 Commonwealth, Faraden, Iron Confederacy, Sumaah, Jarm, Tsark, Skoura, Otkodov]
+  - topic: barbarians
+    class: in-character
+    categories: [Barbarians, Grendel, Thule, Jotun, Druj, Great Forest Orcs, The Mallum, Orc Affairs]
+  - topic: world
+    class: in-character
+    categories: [The World, The Empire, Gazetteer, Imperial Territory, Maps, Sentinel Gate, Bestiary, Vallorn,
+                 Traders, Merrow, Free Folk, Monster]
+  - {topic: history, class: in-character, categories: [History, Recent History]}
