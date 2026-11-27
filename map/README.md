@@ -11,17 +11,18 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   (parchment) and Imperial land not yet given to a nation (dotted gold). Only minor foreign
   powers are grey.
 - **Labels (Auto by default):** Auto shows nation names zoomed out, territory names in between
-  and region names close up. Nations, Territories, Regions or None fix it. Labels never sit under an
+  and region names only when well zoomed in. Nations, Territories, Regions or None fix it. Labels never sit under an
   event-count circle.
 - **Clicking and hovering:** follow the label mode in force. In Nations mode a hover describes the
-  nation, a click opens it in the Info tab, and each nation shows one event count under its name;
+  nation, a click opens it in the Info tab, and each nation shows one event count under its name; Territories and Regions modes count per
+  territory and per region, always right under the name;
   in Territories mode the territory; in Regions mode the region. Click empty map to clear.
 - **Nations tab:** picking a nation outlines its lands, fades everything else and switches the map
   to territories; opening one of its territories switches to regions; the fading follows down to
-  the region you open. Clicking the map, empty space or another tab ends that and returns to the
+  the region you open. Clicking the map (including a faded area, which selects nothing), empty space or another tab ends that and returns to the
   chosen label mode.
-- **Regions box:** hides or shows the borders between regions. Colours always show each region's
-  real holder, and a split territory reads "Mostly held by X (5 of 7 regions)".
+- **Region borders** are always shown; colours show each region's real holder, and a split
+  territory reads "Mostly held by X (5 of 7 regions)".
 - **Borders:** gold edges land held by Imperial nations, crimson land held by barbarians (Jotun,
   Druj, Grendel, Thule and barbarian orc bands), and a dark line neutral land (the vallorn,
   uncontrolled regions, other powers). Every border between two powers is one line, centred on it; where Imperial land meets anything else the gold line shows. Lines get a little slimmer as you zoom out.

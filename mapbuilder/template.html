@@ -65,9 +65,9 @@ a { color: var(--accent); }
 .selhalo { fill: none; stroke: var(--surface); stroke-width: 11px; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; }
 .selline { fill: none; stroke: var(--hl); stroke-width: 6px; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; }
 .fight { pointer-events: none; }
-.tlabel { font-family: var(--display); font-weight: 700; fill: var(--ink); text-anchor: middle; pointer-events: none;
+.tlabel { font-family: var(--display); font-weight: 700; fill: var(--ink); text-anchor: middle; dominant-baseline: central; pointer-events: none;
   paint-order: stroke; stroke: var(--surface); stroke-width: 3px; stroke-linejoin: round; letter-spacing: .03em; }
-.rlabel { font-family: var(--body); font-weight: 500; fill: var(--ink); text-anchor: middle; pointer-events: none;
+.rlabel { font-family: var(--body); font-weight: 500; fill: var(--ink); text-anchor: middle; dominant-baseline: central; pointer-events: none;
   paint-order: stroke; stroke: var(--surface); stroke-width: 2.5px; stroke-linejoin: round; }
 .mark circle { fill: var(--ink); stroke: var(--surface); stroke-width: 2; vector-effect: non-scaling-stroke; cursor: pointer; }
 .mark text { fill: var(--surface); font-family: var(--body); font-weight: 700; text-anchor: middle; dominant-baseline: central; pointer-events: none; font-variant-numeric: tabular-nums; }
@@ -194,7 +194,6 @@ details.hist summary { cursor: pointer; font-weight: 700; }
           <button id="lab-none" aria-pressed="false">None</button>
         </div>
       </div>
-      <label class="check"><input type="checkbox" id="show-regions" checked> Regions</label>
       <label class="check"><input type="checkbox" id="show-front" checked> Borders</label>
       <label class="check"><input type="checkbox" id="show-fight" checked> Fighting</label>
       <label class="check"><input type="checkbox" id="show-marks" checked> Event counts</label>
@@ -289,7 +288,7 @@ function init(D) {
   const markFor = t => st.iso ? (t.regions.length ? t.regions.some(r => holderAt(t.name, r.name, st.s) === st.iso) : holderAt(t.name, "", st.s) === st.iso)
     : st.sel ? (st.sel.t === t.name && !st.sel.r) : true;
   // label mode in force: one the Nations tab set while following its selection, else the chosen one; Auto follows the zoom
-  const autoLab = () => st.k < 1.7 ? "nations" : st.k < 3.6 ? "territories" : "regions";
+  const autoLab = () => st.k < 1.7 ? "nations" : st.k < 6 ? "territories" : "regions";
   const lab = () => st.labOverride || (st.lab === "auto" ? autoLab() : st.lab);
   // events this season in a nation's lands: places it holds (a whole-territory mention counts for the territory's main holder)
   const natCount = (id, s) => evBySeason[s].reduce((n, e) => n + (st.types.has(e.ty) && Object.entries(e.pl).some(([t, rs]) => byName[t] &&
@@ -318,11 +317,12 @@ function init(D) {
       cells.push(c);
       if (!t.sea) {
         base.addEventListener("click", () => { if (moved) return;
+          if (base.classList.contains("dim")) { leaveList(); st.back = []; st.sel = null; st.iso = null; render(); return; }
           const m = lab(); leaveList();
           if (m === "nations") pickNation(r.name ? holderAt(t.name, r.name, st.s) : holderAt(t.name, "", st.s), "map");
           else if (m === "territories") select(t.name, "");
           else if (m === "regions") select(t.name, r.name);
-          else select(t.name, st.regions ? r.name : ""); });
+          else select(t.name, r.name); });
         base.addEventListener("pointermove", ev => tip(ev, c));
         base.addEventListener("pointerleave", () => { $("tip").hidden = true; });
       }
@@ -384,7 +384,13 @@ function init(D) {
   allRegions.sort((a, b) => b.r.area - a.r.area);
   const shortName = id => (H[id] ? H[id].name : id).replace(/\s*\(.*\)$/, "");
   const pool = [];
+  const markR = (n, u) => (5.5 + Math.sqrt(n) * 1.05) * u;  // count circles: small, growing gently
   const natMarks = [];
+  const regMarks = [];
+  const regMark = i => { while (regMarks.length <= i) { const g = el("g", { class: "mark" }, gMark), m = { g, c: el("circle", {}, g), t: el("text", {}, g) };
+    g.addEventListener("click", () => { leaveList(); select(m.t0, m.r0); }); regMarks.push(m); } return regMarks[i]; };
+  const showMark = (g, x, y, n, u) => { const rr = markR(n, u); g.c.setAttribute("cx", x); g.c.setAttribute("cy", y); g.c.setAttribute("r", rr);
+    g.t.setAttribute("x", x); g.t.setAttribute("y", y); g.t.textContent = n; g.t.style.fontSize = 9 * u + "px"; g.g.style.display = ""; };
   const natMark = i => { while (natMarks.length <= i) { const g = el("g", { class: "mark" }, gMark), m = { g, c: el("circle", {}, g), t: el("text", {}, g) };
     g.addEventListener("click", () => { leaveList(); pickNation(m.id, "map"); }); natMarks.push(m); } return natMarks[i]; };
   const natLabel = i => { while (pool.length <= i) pool.push(el("text", { class: "nlabel" }, gNat)); return pool[i]; };
@@ -416,10 +422,9 @@ function init(D) {
     }
     for (const t of T) {
       t.outline.classList.toggle("sel", !!st.sel && st.sel.t === t.name);
-      if (t.mark) { const n = st.marks && lab() !== "nations" && markFor(t) ? countAt(t.name, st.s) : 0; t.mark.style.display = n ? "" : "none";
-        if (n) { const u = unit() * (svg.clientWidth < 520 ? 0.7 : 1), r = (7 + Math.sqrt(n) * 1.6) * u; t.mc.setAttribute("r", r); t.mt.textContent = n; t.mt.style.fontSize = (10.5 * u) + "px";
-          const off = 15 * u; t.mc.setAttribute("cx", t.centre[0]); t.mt.setAttribute("x", t.centre[0]);
-          t.mc.setAttribute("cy", t.centre[1] + off); t.mt.setAttribute("y", t.centre[1] + off); } }
+      if (t.mark) { const m = lab(), n = st.marks && (m === "territories" || m === "none") && markFor(t) ? countAt(t.name, st.s) : 0;
+        t.mark.style.display = n ? "" : "none"; t.markN = n;
+        if (n) showMark({ g: t.mark, c: t.mc, t: t.mt }, t.centre[0], t.centre[1], n, unit() * (svg.clientWidth < 520 ? 0.7 : 1)); }
     }
     // the selected nation, territory or region, outlined
     let sd = "";
@@ -428,11 +433,9 @@ function init(D) {
     for (const x of [selHole, selHalo, selLine]) x.setAttribute("d", sd);
     // a selected region gets its own event count
     const sr = st.sel && st.sel.r && byName[st.sel.t].regions.find(r => r.name === st.sel.r);
-    const rn = sr && st.marks && lab() !== "nations" ? regionCount(st.sel.t, st.sel.r, st.s) : 0;
+    const rn = sr && st.marks && lab() === "territories" ? regionCount(st.sel.t, st.sel.r, st.s) : 0;
     rmark.style.display = rn ? "" : "none";
-    if (rn) { const u = unit() * (svg.clientWidth < 520 ? 0.7 : 1); rmc.setAttribute("r", (7 + Math.sqrt(rn) * 1.6) * u);
-      rmc.setAttribute("cx", sr.centre[0]); rmc.setAttribute("cy", sr.centre[1] + 15 * u); rmt.setAttribute("x", sr.centre[0]); rmt.setAttribute("y", sr.centre[1] + 15 * u);
-      rmt.textContent = rn; rmt.style.fontSize = (10.5 * u) + "px"; }
+    if (rn) showMark({ g: rmark, c: rmc, t: rmt }, sr.centre[0], sr.centre[1], rn, unit() * (svg.clientWidth < 520 ? 0.7 : 1));
     frontiers();
     labels();
   }
@@ -447,13 +450,8 @@ function init(D) {
     const spot = (x, y, w, hh, reach) => { for (const [fx, fy] of NUDGE.slice(0, reach)) {
       const b = { x: x * scale - w / 2 + fx * w, y: y * scale - hh / 2 + fy * hh, w, h: hh };
       if (free(b)) return { b, x: x + fx * w * u, y: y + fy * hh * u }; } return null; };
-    // event-count circles: obstacles for territory and region names; in Nations mode the names win and circles move
-    const marks = T.filter(t => t.mark && t.mark.style.display !== "none");
-    const namesFirst = mode === "nations" || mode === "territories";  // names stay put; circles move aside
-    if (!namesFirst) for (const t of marks) {
-      const r = +t.mc.getAttribute("r") * scale + 2;
-      placed.push({ x: t.centre[0] * scale - r, y: +t.mc.getAttribute("cy") * scale - r, w: 2 * r, h: 2 * r });
-    }
+    // each name and its event count are placed together as one block: the count sits right under the name
+    const mu = svg.clientWidth < 520 ? 0.7 : 1;
     // nation labels: one per connected block of a power's land, biggest first
     let n = 0, nm = 0; const counted = new Set();
     if (mode === "nations") for (const [id, x, y, r] of (D.nlabels || [])[st.s] || []) {
@@ -466,22 +464,26 @@ function init(D) {
       // one event count per nation, under its biggest name
       if (st.marks && !counted.has(id) && (!st.iso || st.iso === id)) { counted.add(id);
         const c = natCount(id, st.s);
-        if (c) { const g = natMark(nm++), rr = (7 + Math.sqrt(c) * 1.6) * u, cy = at.y + (fs * 0.7 + 3) * u + rr;
-          g.c.setAttribute("cx", at.x); g.c.setAttribute("cy", cy); g.c.setAttribute("r", rr); g.t.setAttribute("x", at.x); g.t.setAttribute("y", cy);
-          g.t.textContent = c; g.t.style.fontSize = 10.5 * u + "px"; g.g.style.display = ""; g.id = id;
+        if (c) { const g = natMark(nm++), rr = markR(c, u), cy = at.y + (fs * 0.55 + 2) * u + rr;
+          showMark(g, at.x, cy, c, u); g.id = id;
           placed.push({ x: at.x * scale - rr * scale, y: cy * scale - rr * scale, w: 2 * rr * scale, h: 2 * rr * scale }); } }
     }
     for (let i = n; i < pool.length; i++) pool[i].style.display = "none";
     for (let i = nm; i < natMarks.length; i++) natMarks[i].g.style.display = "none";
     // territory labels (seas keep theirs in every mode except None)
-    const showRall = mode === "territories" && st.regions && st.k >= 2.4;
+    const showRall = st.lab === "territories" && !st.labOverride && st.k >= 2.4;
     const order = [...T].sort((a, b) => (selT === b.name) - (selT === a.name) || b.bbox[2] * b.bbox[3] - a.bbox[2] * a.bbox[3]);
     for (const t of order) {
       t.label.style.fontSize = 12 * u + "px"; t.label.style.strokeWidth = 3 * u + "px";
       let show = false;
       if (mode === "territories" || (t.sea && mode !== "none")) {
-        const b = box(t.centre[0], t.centre[1], t.name.length * 7, 16), fits = t.bbox[2] * scale > t.name.length * 4.5;
+        const mh = t.markN && mode === "territories" ? 2 * markR(t.markN, mu) + 2 : 0, hh = 16 + mh;
+        const b = box(t.centre[0], t.centre[1], Math.max(t.name.length * 7, mh), hh), fits = t.bbox[2] * scale > t.name.length * 4.5;
         if ((mode === "territories" && selT === t.name) || (fits && free(b))) { show = !(showRall && t.regions.length); if (show) placed.push(b); }
+        const top = t.centre[1] - hh / 2 * u;
+        t.label.setAttribute("y", show ? top + 8 * u : t.centre[1]);
+        if (t.markN && mode === "territories") { const y = show ? top + (16 + mh / 2) * u : t.centre[1];
+          t.mc.setAttribute("cy", y); t.mt.setAttribute("y", y); }
       }
       t.label.style.display = show ? "" : "none";
       t.rlabels.forEach((x, i) => { x.style.fontSize = 11 * u + "px"; x.style.strokeWidth = 2.5 * u + "px"; x.style.display = showRall ? "" : "none";
@@ -490,27 +492,18 @@ function init(D) {
     // region labels: every region that has room, the selected territory's first
     if (mode === "regions") {
       const list = selT ? [...allRegions.filter(a => a.t.name === selT), ...allRegions.filter(a => a.t.name !== selT)] : allRegions;
+      let k = 0;
       for (const a of list) {
-        const at = a.r.area * scale * scale >= 320 ? spot(a.r.centre[0], a.r.centre[1], a.r.name.length * 6.2, 14, 3) : null;
-        if (at) { placed.push(at.b); a.el.setAttribute("x", at.x); a.el.setAttribute("y", at.y); }
+        const want = st.marks && (st.iso ? holderAt(a.t.name, a.r.name, st.s) === st.iso : st.sel ? (st.sel.t === a.t.name && (!st.sel.r || st.sel.r === a.r.name)) : true);
+        const n = want ? regionCount(a.t.name, a.r.name, st.s) : 0, mh = n ? 2 * markR(n, mu) + 2 : 0, hh = 14 + mh;
+        const at = a.r.area * scale * scale >= 320 ? spot(a.r.centre[0], a.r.centre[1], Math.max(a.r.name.length * 6.2, mh), hh, 3) : null;
+        if (at) { placed.push(at.b); const top = at.y - hh / 2 * u; a.el.setAttribute("x", at.x); a.el.setAttribute("y", top + 7 * u);
+          if (n) { const g = regMark(k++); g.t0 = a.t.name; g.r0 = a.r.name; showMark(g, at.x, top + (14 + mh / 2) * u, n, u * mu); } }
         else { a.el.setAttribute("x", a.r.centre[0]); a.el.setAttribute("y", a.r.centre[1]); }
         a.el.style.display = at ? "" : "none";
       }
-    }
-    if (namesFirst) {
-      const names = placed.slice(), taken = [];
-      const hits = (b, list) => list.some(q => b.x < q.x + q.w && q.x < b.x + b.w && b.y < q.y + q.h && q.y < b.y + b.h);
-      const STEPS = [[0, 15], [0, -15], [-24, 0], [24, 0], [0, 30], [0, -30], [-26, 15], [26, 15], [-26, -15], [26, -15], [0, 45], [0, -45]];
-      for (const t of marks) {
-        const r = +t.mc.getAttribute("r") * scale + 2;
-        let best = STEPS[0];
-        for (const st2 of STEPS) { const b = { x: t.centre[0] * scale + st2[0] - r, y: t.centre[1] * scale + st2[1] - r, w: 2 * r, h: 2 * r };
-          if (!hits(b, names) && !hits(b, taken)) { best = st2; break; } }
-        const b = { x: t.centre[0] * scale + best[0] - r, y: t.centre[1] * scale + best[1] - r, w: 2 * r, h: 2 * r }; taken.push(b);
-        const cx = t.centre[0] + best[0] * u, cy = t.centre[1] + best[1] * u;
-        t.mc.setAttribute("cx", cx); t.mt.setAttribute("x", cx); t.mc.setAttribute("cy", cy); t.mt.setAttribute("y", cy);
-      }
-    }
+      for (let i = k; i < regMarks.length; i++) regMarks[i].g.style.display = "none";
+    } else for (const g of regMarks) g.g.style.display = "none";
   }
   // "Held by X", or for a split territory "Mostly held by X (5 of 7 regions)"
   function nationHoldings(id) { let regions = 0, territories = 0;
@@ -777,7 +770,6 @@ function init(D) {
   }
   const setMode = m => { st.mode = m; if (m !== "holder") st.iso = null; $("mode-holder").setAttribute("aria-pressed", m === "holder"); $("mode-territory").setAttribute("aria-pressed", m === "territory"); render(); };
   $("mode-holder").onclick = () => setMode("holder"); $("mode-territory").onclick = () => setMode("territory");
-  $("show-regions").onchange = e => { st.regions = e.target.checked; if (!st.regions && st.sel) st.sel.r = ""; render(); };
   $("show-marks").onchange = e => { st.marks = e.target.checked; paint(); };
   const LABS = ["auto", "nations", "territories", "regions", "none"];
   for (const m of LABS) $("lab-" + m).onclick = () => { st.lab = m; st.labOverride = null; for (const x of LABS) $("lab-" + x).setAttribute("aria-pressed", x === m); paint(); };
