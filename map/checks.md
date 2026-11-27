@@ -8,7 +8,7 @@ Written by every build (`python3 -m mapbuilder.run`). Failures mean the map prob
 
 ### summary-missing (1)
 
-- 1970 of 1970 events have no written summary yet (e.g. Archive:376YE Winter Solstice Imperial titles, Construct Madruga shipyard, Construct shrine for Britta's body); run the 'Summarise events' workflow.
+- 1950 of 1970 events have no written summary yet (e.g. Construct shrine for Britta's body, Fortify Town defences, Raise Highguard army); run the 'Summarise events' workflow.
 
 ## Accepted
 

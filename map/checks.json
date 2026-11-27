@@ -4,7 +4,7 @@
   {
    "check": "summary-missing",
    "key": "count",
-   "msg": "1970 of 1970 events have no written summary yet (e.g. Archive:376YE Winter Solstice Imperial titles, Construct Madruga shipyard, Construct shrine for Britta's body); run the 'Summarise events' workflow."
+   "msg": "1950 of 1970 events have no written summary yet (e.g. Construct shrine for Britta's body, Fortify Town defences, Raise Highguard army); run the 'Summarise events' workflow."
   }
  ],
  "accepted": [
