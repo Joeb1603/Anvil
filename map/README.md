@@ -63,6 +63,13 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   stored in `summaries.json` beside the page, and only rewritten when a page or its places change.
   Spending is recorded in `summaries_cost.json` and capped at $95 in total (the full history cost
   $67.25: a 20-event pilot plus one batch of 1,951).
+- **Place names in text are links:** in event summaries and control notes, territory, region and nation
+  names open a card on the map, beside the panel (across the top of the map on phones, with the info sheet folded down until you close it), with who holds
+  it, any fighting and that season's events there; the map moves to it and outlines it with a dashed
+  line. The panel is untouched. Close the card (×, Esc or empty map) and the view goes back to where
+  it was; "Open in Info" selects it instead.
+- **Nations:** picking a nation in the Nations tab or the key moves the map to show all its land as
+  large as fits.
 - **Search** for a territory, region or event title.
 - **On phones** the map fills the screen. ⌕ opens search and ☰ the map options (with the credits);
   the Key button shows the keys. Tapping a place or nation slides its information up from the

@@ -122,6 +122,21 @@ a { color: var(--accent); }
 .natdetail { margin: 2px 0 10px 26px; padding-left: 10px; border-left: 2px solid var(--hl); }
 .labgroup { display: inline-flex; align-items: center; gap: 6px; color: var(--muted); }
 .zoom { position: absolute; right: 10px; top: 10px; display: flex; flex-direction: column; gap: 4px; }
+.mapwrap.peeking .zoom { right: 322px; }
+/* the peek card: a place's details on the map, beside the Info panel, without touching the panel */
+.peek { position: absolute; z-index: 12; top: 10px; right: 10px; width: 300px; max-height: calc(100% - 60px); overflow: auto;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 10px; box-shadow: 0 10px 30px rgb(0 0 0 / .22); padding: 10px 12px 12px; font-size: .9rem; }
+.peek .ph { display: flex; align-items: flex-start; gap: 8px; }
+.peek h3 { font-family: var(--display); font-size: 1.15rem; margin: 0; flex: 1; letter-spacing: .03em; text-transform: none; color: var(--ink); }
+.peek .x { border: 1px solid var(--line); background: var(--sunk); border-radius: 6px; width: 28px; height: 28px; cursor: pointer; flex: none; }
+.peek .sub { color: var(--muted); font-size: .82rem; }
+.peek .pev { border-top: 1px solid var(--line); padding: 6px 0; }
+.peek .pev b { display: block; font-size: .85rem; }
+.peek .pev p { margin: 2px 0 0; }
+.peek .open { margin-top: 8px; border: 1px solid var(--accent); background: var(--accent); color: var(--accent-ink); border-radius: 6px; padding: 5px 10px; cursor: pointer; }
+.plink { border: 0; background: none; padding: 0; font: inherit; color: inherit; cursor: pointer; text-decoration: underline dotted; text-decoration-color: var(--accent); text-underline-offset: 2px; }
+.plink:hover { color: var(--accent); text-decoration-style: solid; }
+.peekline { fill: none; stroke: var(--hl); stroke-width: 3px; stroke-dasharray: 7 4; vector-effect: non-scaling-stroke; pointer-events: none; }
 .zoom button { width: 32px; height: 32px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); cursor: pointer; font-size: 1.1rem; line-height: 1; }
 .note { padding: 4px 10px; font-size: .8rem; color: var(--muted); background: var(--surface); border-top: 1px solid var(--line); }
 .tip { position: absolute; z-index: 15; pointer-events: none; background: var(--surface); border: 1px solid var(--line); border-radius: 6px;
@@ -240,6 +255,9 @@ details.hist summary { cursor: pointer; font-weight: 700; }
   .mapwrap { height: 100%; min-height: 0; border-radius: 10px; }
   #map { flex: 1; aspect-ratio: auto; min-height: 0; }
   .note, .tip { display: none !important; }
+  .peek { top: 52px; left: 8px; right: 8px; width: auto; max-height: 38%; }
+  .mapwrap.peeking .zoom { right: 8px; top: auto; bottom: 8px; flex-direction: row; }
+  .mapwrap.peeking .keybtn { display: none; }
   .zoom { top: 8px; right: 8px; }
   .zoom button { width: 40px; height: 40px; font-size: 1.25rem; }
   .keybtn { position: absolute; left: 8px; top: 8px; z-index: 6; height: 36px; padding: 0 12px; border: 1px solid var(--line); border-radius: 8px;
@@ -327,6 +345,7 @@ details.hist summary { cursor: pointer; font-weight: 700; }
       </div>
       <div class="note">Territory outlines are from the wiki's own map. Region borders are approximate: each region is placed by its label on the wiki's picture maps. Event text © Profound Decisions, <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>, from the <a href="https://www.profounddecisions.co.uk/empire-wiki/Main_Page" target="_blank" rel="noopener">Empire wiki</a>.</div>
       <div class="tip" id="tip" hidden></div>
+      <aside class="peek" id="peek" hidden aria-live="polite"></aside>
     </div>
     <aside class="panel" id="panel" data-sheet="closed">
       <div class="handle ph" id="handle" role="button" tabindex="0" aria-label="Show or hide the information panel"><span class="grip"></span><span id="htitle"></span></div>
@@ -479,6 +498,7 @@ function init(D) {
   const selHole = el("path", { fill: "black" }, selMask);
   const selHalo = el("path", { class: "selhalo", mask: "url(#selmask)" }, gSel);
   const selLine = el("path", { class: "selline", mask: "url(#selmask)" }, gSel);
+  const peekLine = el("path", { class: "peekline" }, gSel);
   // one event-count marker for a region, shown when a territory or region is selected
   const rmark = el("g", { class: "mark" }, gMark), rmc = el("circle", {}, rmark), rmt = el("text", {}, rmark);
   rmark.style.display = "none";
@@ -744,8 +764,48 @@ function init(D) {
   $("zin").onclick = () => zoomAt(vx + vw / 2, vy + vh / 2, 1.25);  // same step as one wheel notch
   $("zout").onclick = () => zoomAt(vx + vw / 2, vy + vh / 2, 1 / 1.25);
   $("zreset").onclick = () => { st.k = 1; st.x = 0; st.y = 0; apply(); };
-  function focusOn(t) { const [bx, by, bw, bh] = t.bbox; const k = Math.max(1, Math.min(8, 0.5 * Math.min(vw / bw, vh / bh)));
-    st.k = k; st.x = vx + vw / 2 - (bx + bw / 2) * k; st.y = vy + vh / 2 - (by + bh / 2) * k; clamp(); apply(); }
+  // camera moves: animated, and framed inside the part of the map the peek card doesn't cover
+  const still = matchMedia("(prefers-reduced-motion: reduce)");
+  let anim = 0;
+  function moveTo(k, x, y) {
+    cancelAnimationFrame(anim);
+    const a = { k: st.k, x: st.x, y: st.y }, t0 = performance.now(), dur = still.matches ? 0 : 320;
+    const step = now => { const f = dur ? Math.min(1, (now - t0) / dur) : 1, e = f < .5 ? 2 * f * f : 1 - (-2 * f + 2) ** 2 / 2;
+      st.k = a.k + (k - a.k) * e; st.x = a.x + (x - a.x) * e; st.y = a.y + (y - a.y) * e; apply(); if (f < 1) anim = requestAnimationFrame(step); };
+    anim = requestAnimationFrame(step);
+  }
+  // the visible map area in map units (minus the peek card, when open)
+  function viewArea() {
+    const b = svg.getBoundingClientRect(), m = Math.min(b.width / vw, b.height / vh);
+    let l = 0, r = 0, tp = 0, bt = 0;
+    const pn = $("panel");  // on phones the info sheet covers the bottom of the map
+    if (phone() && st.sheet !== "closed") bt = Math.max(0, b.bottom - pn.getBoundingClientRect().top + 6);
+    const pk = $("peek");
+    if (!pk.hidden) { const pr = pk.getBoundingClientRect();
+      if (pr.width < b.width * 0.7) r = Math.max(0, b.right - pr.left + 6); else tp = Math.max(0, pr.bottom - b.top + 6); }
+    const ox = (b.width - vw * m) / 2, oy = (b.height - vh * m) / 2;
+    const x0 = vx + Math.max(0, l - ox) / m, x1 = vx + vw - Math.max(0, r - ox) / m, y0 = vy + Math.max(0, tp - oy) / m;
+    const y1 = vy + vh - Math.max(0, bt - oy) / m;
+    return [x0, y0, x1 - x0, Math.max(10, y1 - y0)];
+  }
+  function frameBox([bx, by, bw, bh], maxK = 8, fill = 0.5) {
+    const [ax, ay, aw, ah] = viewArea();
+    const k = Math.max(1, Math.min(maxK, fill * Math.min(aw / Math.max(bw, 1), ah / Math.max(bh, 1))));
+    const cx = ax + aw / 2, cy = ay + ah / 2;
+    const tgt = { k, x: cx - (bx + bw / 2) * k, y: cy - (by + bh / 2) * k };
+    const save = { k: st.k, x: st.x, y: st.y }; Object.assign(st, tgt); clamp(); const end = { k: st.k, x: st.x, y: st.y }; Object.assign(st, save);
+    moveTo(end.k, end.x, end.y);
+  }
+  const bboxOf = polys => { const xs = polys.flat().map(p => p[0]), ys = polys.flat().map(p => p[1]);
+    const x0 = Math.min(...xs), y0 = Math.min(...ys); return [x0, y0, Math.max(...xs) - x0, Math.max(...ys) - y0]; };
+  function focusOn(t) { frameBox(t.bbox); }
+  function frameNation(id) {
+    const boxes = cells.filter(c => !c.t.sea && c.hid === id).map(c => bboxOf(c.rob.curPolys || c.rob.polys || c.t.polys));
+    if (!boxes.length) return;
+    const x0 = Math.min(...boxes.map(b => b[0])), y0 = Math.min(...boxes.map(b => b[1]));
+    const x1 = Math.max(...boxes.map(b => b[0] + b[2])), y1 = Math.max(...boxes.map(b => b[1] + b[3]));
+    const pad = 0.08; frameBox([x0 - (x1 - x0) * pad / 2, y0 - (y1 - y0) * pad / 2, (x1 - x0) * (1 + pad), (y1 - y0) * (1 + pad)], 14, 1);
+  }
   addEventListener("resize", paint);
 
   // ---- selection and panel
@@ -756,14 +816,17 @@ function init(D) {
       else if (next && st.sel && (st.sel.t !== next.t || st.sel.r !== next.r)) st.back.push(st.sel);
       if (!next) { st.back = []; leaveList(); } }
     if (st.back.length > 30) st.back.shift();
+    endPeek(false);
     st.sel = next; st.iso = null; st.feat = null; st.tab = "place";
     if (phone()) st.sheet = next ? (st.sheet === "full" ? "full" : "half") : "closed";
     render(); }
   const goBack = () => { const prev = st.back.pop();
-    if (prev && prev.iso) { st.sel = null; st.iso = prev.iso; st.isoFrom = prev.from; if (st.fromList) st.labOverride = "territories"; st.tab = prev.from === "map" ? "place" : "holders"; render(); scrollToNation(); return; }
+    if (prev && prev.iso) { st.sel = null; st.iso = prev.iso; st.isoFrom = prev.from; if (st.fromList) st.labOverride = "territories"; st.tab = prev.from === "map" ? "place" : "holders"; render(); scrollToNation(); frameNation(prev.iso); return; }
     select(prev ? prev.t : null, prev ? prev.r : "", true); };
   const scrollToNation = () => { const row = $("pbody").querySelector('.row[aria-pressed="true"]'); if (row) row.scrollIntoView({ block: "nearest" }); };
-  svg.addEventListener("click", e => { if (moved || e.target.closest(".cell, .mark")) return;
+  svg.addEventListener("click", e => { if (moved) return;
+    if (peekState && !e.target.closest(".cell, .mark, .pit")) { closePeek(); return; }
+    if (e.target.closest(".cell, .mark")) return;
     if (st.sel || st.iso || st.feat) { leaveList(); st.back = []; st.sel = null; st.iso = null; st.feat = null; if (phone()) st.sheet = "closed"; render(); } });
   const swatch = id => { const x = H[id] || H.unknown; const s = h("span", { className: "sw" }); s.style.background = `var(--${x.slot})`;
     if (x.pattern === "hatch") s.style.backgroundImage = "repeating-linear-gradient(45deg, transparent 0 3px, var(--surface) 3px 5px)";
@@ -778,16 +841,96 @@ function init(D) {
   const lineFor = (e, ctx) => { const x = SUM[e.ti]; if (!x) return null; if (!ctx) return { t: x.o, p: false };
     const l = (x[ctx.k] || {})[ctx.id]; return l ? { t: l.t, p: !!l.p } : null; };
   const isPassing = (e, ctx) => { const l = ctx && lineFor(e, ctx); return !!(l && l.p); };
+  // ---- place names in text become links that open the peek card
+  const PL = []; {
+    const add = (name, kind, t, r) => PL.push({ name, kind, t, r });
+    for (const t of T) if (!t.sea) { add(t.name, "t", t.name);
+      for (const r of t.regions) add(r.name, "r", t.name, r.name); }
+    for (const x of D.holders) if (x.group === "Imperial nations" && x.id !== "The Empire" || ["Jotun", "Druj", "Grendel", "Thule"].includes(x.id)) add(x.id, "n", x.id);
+  }
+  const regionCount_ = {}; for (const x of PL) if (x.kind === "r") regionCount_[x.name] = (regionCount_[x.name] || 0) + 1;
+  const AMBIG = new Set(["Terunael", "Crucible", "Caeli", "Dawnguard"]);
+  const esc_ = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/['’]/g, "['’]");
+  const PLRX = new RegExp("(?<![\\w'’-])(" + [...new Set(PL.map(x => x.name))].sort((a, b) => b.length - a.length).map(esc_).join("|") + ")(?![\\w'’-])", "g");
+  const norm_ = s => s.replace(/’/g, "'");
+  function linkify(text, e) {
+    const out = document.createDocumentFragment(); if (!text) return out;
+    const evT = new Set(Object.keys((e && e.pl) || {}));
+    let last = 0;
+    for (const m of text.matchAll(PLRX)) {
+      const nm = norm_(m[1]), cands = PL.filter(x => norm_(x.name) === nm);
+      let pick = cands.find(x => x.kind === "t") || cands.find(x => x.kind === "n")
+        || cands.find(x => x.kind === "r" && evT.has(x.t))
+        || (cands.length === 1 && cands[0].kind === "r" && regionCount_[cands[0].name] === 1 && !AMBIG.has(cands[0].name) ? cands[0] : null);
+      if (!pick) continue;
+      out.append(text.slice(last, m.index));
+      const b = h("button", { className: "plink", textContent: m[1], title: pick.kind === "n" ? "Show " + pick.name : "Show " + pick.name + " on the map" });
+      b.addEventListener("click", ev => { ev.stopPropagation(); ev.preventDefault(); peek(pick); });
+      out.append(b); last = m.index + m[1].length;
+    }
+    out.append(text.slice(last));
+    return out;
+  }
+  const para = (cls, text, e) => { const x = document.createElement("p"); if (cls) x.className = cls; x.append(linkify(text, e)); return x; };
+  let peekState = null;  // {target, cam: {k,x,y}, sheet}
+  function peek(target) {
+    const pk = $("peek");
+    if (!peekState) peekState = { cam: { k: st.k, x: st.x, y: st.y }, sheet: st.sheet };
+    peekState.target = target;
+    if (phone() && st.sheet !== "closed") { st.sheet = "closed"; $("panel").dataset.sheet = "closed"; }  // room for the map
+    pk.innerHTML = ""; pk.hidden = false; $("mapwrap").classList.add("peeking");
+    const head = h("div", { className: "ph" }, h("h3", { textContent: target.kind === "r" ? target.r : target.name }));
+    const x = h("button", { className: "x", textContent: "×", title: "Close", onclick: closePeek }); x.setAttribute("aria-label", "Close"); head.append(x);
+    pk.append(head);
+    const evs = evBySeason[st.s].filter(e => st.types.has(e.ty));
+    if (target.kind === "n") {
+      const id = target.name, hold = nationHoldings(id);
+      pk.append(h("div", { className: "holder" }, swatch(id), h("span", { textContent: `${(H[id] || {}).group || ""} · ${hold.regions} region${hold.regions === 1 ? "" : "s"} in ${hold.territories} territor${hold.territories === 1 ? "y" : "ies"} in ${S[st.s]}` })));
+      const ch = D.control.changes.filter(c => c.kind !== "status" && c.s <= st.s && (c.h === id || c.ph === id)).sort((a, c) => c.s - a.s).slice(0, 3);
+      if (ch.length) { pk.append(h("div", { className: "sub", textContent: "Latest gains and losses" })); ch.forEach(c => pk.append(changeItem(c, true))); }
+      const mine = evs.filter(e => SUM[e.ti] && (SUM[e.ti].n || {})[hname(id)] && !(SUM[e.ti].n[hname(id)].p)).slice(0, 3);
+      mine.forEach(e => pk.append(h("div", { className: "pev" }, h("b", { textContent: e.ti }), para("", SUM[e.ti].n[hname(id)].t, e))));
+      frameNation(id); peekLine.setAttribute("d", cells.filter(c => !c.t.sea && c.hid === id).map(c => c.base.getAttribute("d")).join(""));
+    } else {
+      const t = byName[target.t], r = target.kind === "r" ? target.r : "";
+      if (r) pk.append(h("div", { className: "sub", textContent: "Region of " + t.name }));
+      const hid = r ? holderAt(t.name, r, st.s) : majority(t.name, st.s);
+      pk.append(h("div", { className: "holder" }, swatch(hid), h("span", { textContent: `${r ? heldBy(hid) : territoryHolder(t)} in ${S[st.s]}` })));
+      if (t.nation) pk.append(h("div", { className: "sub", textContent: (t.imperial ? "Imperial territory, " : "Outside the Empire, ") + t.nation }));
+      const fl = r ? fightAt(t.name, r, st.s) : t.regions.some(x => fightAt(t.name, x.name, st.s));
+      if (fl) pk.append(h("div", { className: "sub", textContent: "⚔ Fighting reported this season" }));
+      const ctx = r ? { k: "r", id: t.name + "/" + r } : { k: "t", id: t.name };
+      const here = evs.filter(e => e.pl[t.name] && (!r || e.pl[t.name].includes(r)));
+      const ranked = [...here.filter(e => !isPassing(e, ctx)), ...here.filter(e => isPassing(e, ctx))].slice(0, 3);
+      if (ranked.length) pk.append(h("div", { className: "sub", style: "margin-top:6px", textContent: `${here.length} event${here.length === 1 ? "" : "s"} in ${S[st.s]}` }));
+      ranked.forEach(e => { const l = lineFor(e, ctx); pk.append(h("div", { className: "pev" }, h("b", { textContent: e.ti }), para(l && l.p ? "passing" : "", l ? l.t : (SUM[e.ti] ? SUM[e.ti].o : e.ex || ""), e))); });
+      const rr = r && t.regions.find(x => x.name === r);
+      const polys = rr ? (rr.curPolys || rr.polys) : (t.curPolys || t.polys);
+      peekLine.setAttribute("d", pathOf(polys)); frameBox(bboxOf(polys));
+    }
+    pk.append(h("button", { className: "open", textContent: "Open in Info", onclick: () => {
+      const tg = peekState.target; endPeek(false);
+      if (tg.kind === "n") pickNation(tg.name, "map"); else { select(tg.t, tg.kind === "r" ? tg.r : ""); } } }));
+  }
+  function endPeek(restore) {
+    if (!peekState) return;
+    const ps = peekState; peekState = null;
+    $("peek").hidden = true; $("mapwrap").classList.remove("peeking"); peekLine.setAttribute("d", "");
+    if (phone() && restore) { st.sheet = ps.sheet; $("panel").dataset.sheet = ps.sheet; }
+    if (restore) moveTo(ps.cam.k, ps.cam.x, ps.cam.y);
+  }
+  const closePeek = () => endPeek(true);
+  addEventListener("keydown", e => { if (e.key === "Escape" && peekState) closePeek(); });
   function evItem(e, showSeason, ctx) {
     const d = h("div", { className: "ev" }), x = SUM[e.ti], line = lineFor(e, ctx);
     const meta = h("div", { className: "meta" }, h("span", { className: "tag", textContent: e.ty }));
     if (showSeason) meta.append(h("button", { className: "linkish", textContent: S[e.s], onclick: () => setSeason(e.s) }));
     const places = Object.keys(e.pl); if (!ctx || places.length > 1) meta.append(h("span", { textContent: places.length > 4 ? places.length + " territories" : places.join(", ") }));
     d.append(meta, h("div", { className: "evt", textContent: e.ti }));
-    d.append(h("p", { className: line && line.p ? "passing" : "", textContent: line ? line.t : (x ? x.o : e.ex || "") }));
+    d.append(para(line && line.p ? "passing" : "", line ? line.t : (x ? x.o : e.ex || ""), e));
     if (x) { const more = h("details", { className: "more" }); more.append(h("summary", { textContent: "Read more" }));
-      if (ctx) more.append(h("p", { textContent: x.o }));
-      more.append(h("p", { textContent: x.d })); d.append(more); }
+      if (ctx) more.append(para("", x.o, e));
+      more.append(para("", x.d, e)); d.append(more); }
     if (e.u) d.append(h("a", { className: "full", href: e.u, target: "_blank", rel: "noopener", textContent: "Read full article →" }));
     return d;
   }
@@ -912,7 +1055,8 @@ function init(D) {
     const d = h("div", { className: "chg" });
     const where = c.r ? `${c.r}${withPlace ? ", " + c.t : ""}` : (withPlace ? c.t : "Whole territory");
     const head = h("div", {}, h("button", { className: "linkish", textContent: S[c.s], onclick: () => setSeason(c.s) }), ` · ${where} → `, h("b", { textContent: hname(c.h) }));
-    d.append(head); if (c.note) d.append(h("div", { className: c.conf === "low" ? "unsure" : "", textContent: c.note + (c.conf === "low" ? " (uncertain)" : "") }));
+    if (c.note) { const nd = h("div", { className: c.conf === "low" ? "unsure" : "" }); nd.append(linkify(c.note + (c.conf === "low" ? " (uncertain)" : ""), { pl: { [c.t]: c.r ? [c.r] : [] } })); d.append(head, nd); }
+    else d.append(head);
     if (c.u) d.append(h("a", { href: c.u, target: "_blank", rel: "noopener", textContent: c.src, style: "font-size:.85rem" }));
     return d;
   }
@@ -935,7 +1079,7 @@ function init(D) {
     }
   }
   function panelHolders(b) {
-    b.append(h("h2", { textContent: "Nations in " + S[st.s] }), h("div", { className: "crumb", textContent: "Click a nation, or with Labels set to Nations click the map, to outline its lands and see what it holds. Hatched colours are powers outside the Empire. With Borders on, gold edges Imperial land, crimson barbarian land, and dark lines neutral land (the vallorn, uncontrolled regions, other powers)." }));
+    b.append(h("h2", { textContent: "Nations in " + S[st.s] }), h("div", { className: "crumb", textContent: "Click a nation, or with Labels set to Nations click the map, to outline its lands and see what it holds. Solid colours are Imperial nations; hatched colours are powers outside the Empire. The map moves to show all of a nation's land." }));
     const n = {}; for (const t of T) { if (t.sea) continue; const parts = t.regions.length ? t.regions.map(r => r.name) : [""]; for (const r of parts) { const x = holderAt(t.name, r, st.s); n[x] = (n[x] || 0) + 1; } }
     for (const g of ["Imperial nations", "Barbarian powers", "Others"]) {
       const hs = D.holders.filter(x => x.group === g && n[x.id]); if (!hs.length) continue;
@@ -987,9 +1131,11 @@ function init(D) {
     if (from === "list") { st.fromList = true; st.labOverride = "territories"; } else leaveList();
     st.iso = st.iso === id && st.isoFrom === from ? null : id; st.isoFrom = from; st.sel = null; st.feat = null; st.back = [];
     if (!st.iso) leaveList();
-    if (from === "map") { st.tab = "place"; if (phone() && st.iso) st.sheet = st.sheet === "full" ? "full" : "half"; }  // the map opens things in the Info tab
+    if (from === "map" || from === "key") { st.tab = "place"; if (phone() && st.iso) st.sheet = st.sheet === "full" ? "full" : "half"; }  // the map opens things in the Info tab
     else { st.keep = st.keep || st.tab === "holders"; st.tab = "holders"; }  // the list never jumps: same order, same scroll
     render(); st.keep = false; scrollToNation();
+    endPeek(false);
+    if (st.iso && (from === "list" || from === "key")) frameNation(st.iso);
   }
   $("show-marks").onchange = e => { st.marks = e.target.checked; paint(); };
   const LABS = ["auto", "nations", "territories", "regions", "none"];
@@ -1016,7 +1162,7 @@ function init(D) {
     for (const g of ["Imperial nations", "Barbarian powers", "Others"]) {
       const hs = D.holders.filter(x => x.group === g && n[x.id]).sort((a, c) => n[c.id] - n[a.id]); if (!hs.length) continue;
       nk.append(h("div", { className: "nkg", textContent: g === "Others" ? "Neutral and others" : g }));
-      for (const x of hs) nk.append(h("button", { title: `${x.name}: ${n[x.id]} region${n[x.id] === 1 ? "" : "s"}`, onclick: () => { leaveList(); pickNation(x.id, "map"); } },
+      for (const x of hs) nk.append(h("button", { title: `${x.name}: ${n[x.id]} region${n[x.id] === 1 ? "" : "s"}`, onclick: () => { leaveList(); pickNation(x.id, "key"); } },
         swatch(x.id), h("span", { textContent: x.name })));
     }
   }
