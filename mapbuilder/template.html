@@ -293,7 +293,9 @@ function init(D) {
       const c = { t, r: r.name, base, pat, whole: pathOf(t.polys) };
       cells.push(c);
       if (!t.sea) {
-        base.addEventListener("click", () => { if (!moved) select(t.name, st.regions ? r.name : ""); });
+        base.addEventListener("click", () => { if (moved) return;
+          if (st.lab === "nations") pickNation(st.regions && r.name ? holderAt(t.name, r.name, st.s) : majority(t.name, st.s));
+          else select(t.name, st.regions ? r.name : ""); });
         base.addEventListener("pointermove", ev => tip(ev, c));
         base.addEventListener("pointerleave", () => { $("tip").hidden = true; });
       }
@@ -561,13 +563,32 @@ function init(D) {
     return d;
   }
   function panelHolders(b) {
-    b.append(h("h2", { textContent: "Holders in " + S[st.s] }), h("div", { className: "crumb", textContent: "Click a holder to show only its lands. Hatched colours are powers outside the Empire. With Frontiers on, gold outlines land held by Imperial nations and crimson outlines land held by barbarians." }));
+    if (st.iso) {  // the highlighted nation: what it holds this season
+      const mine = [];
+      for (const t of T) { if (t.sea) continue; const parts = t.regions.length ? t.regions.map(r => r.name) : [""];
+        const held = parts.filter(r => holderAt(t.name, r, st.s) === st.iso); if (held.length) mine.push([t, held, parts.length]); }
+      const total = mine.reduce((k, m) => k + m[1].length, 0);
+      b.append(h("div", { className: "crumb" }, h("button", { textContent: "All holders", onclick: () => pickNation(st.iso) })),
+        h("h2", { textContent: hname(st.iso) }),
+        h("div", { className: "holder" }, swatch(st.iso), h("span", { textContent: `${total} region${total === 1 ? "" : "s"} in ${mine.length} territor${mine.length === 1 ? "y" : "ies"} in ${S[st.s]}` })));
+      b.append(h("h3", { textContent: "Territories" }));
+      if (!mine.length) b.append(h("div", { className: "empty", textContent: "Holds nothing in " + S[st.s] + "." }));
+      for (const [t, held, of] of mine.sort((a, c) => c[1].length - a[1].length || a[0].name.localeCompare(c[0].name))) {
+        const row = h("button", { className: "row", onclick: () => { select(t.name, ""); focusOn(t); } },
+          h("span", { className: "grow", textContent: t.name }),
+          h("span", { className: "num", textContent: held.length === of ? (of > 1 ? "all " + of + " regions" : "whole territory") : `${held.length} of ${of} regions` }));
+        b.append(row);
+        if (held.length < of) b.append(h("div", { className: "crumb", style: "margin:-2px 0 4px 6px", textContent: held.join(", ") }));
+      }
+      b.append(h("h3", { textContent: "All holders" }));
+    } else
+    b.append(h("h2", { textContent: "Holders in " + S[st.s] }), h("div", { className: "crumb", textContent: "Click a holder, or with Labels set to Nations click the map, to highlight its lands. Hatched colours are powers outside the Empire. With Frontiers on, gold outlines land held by Imperial nations and crimson outlines land held by barbarians." }));
     const n = {}; for (const t of T) { if (t.sea) continue; const parts = t.regions.length ? t.regions.map(r => r.name) : [""]; for (const r of parts) { const x = holderAt(t.name, r, st.s); n[x] = (n[x] || 0) + 1; } }
     for (const g of ["Imperial nations", "Barbarian powers", "Others"]) {
       const hs = D.holders.filter(x => x.group === g && n[x.id]); if (!hs.length) continue;
       b.append(h("h3", { textContent: g })); const box = h("div", { className: "legend" });
       for (const x of hs.sort((a, c) => (n[c.id] || 0) - (n[a.id] || 0))) { const row = h("button", { className: "row" }, swatch(x.id), h("span", { className: "grow", textContent: x.name }), h("span", { className: "num", textContent: n[x.id] + (n[x.id] === 1 ? " region" : " regions") }));
-        row.setAttribute("aria-pressed", st.iso === x.id); row.onclick = () => { st.iso = st.iso === x.id ? null : x.id; st.mode = "holder"; render(); }; box.append(row); }
+        row.setAttribute("aria-pressed", st.iso === x.id); row.onclick = () => pickNation(x.id); box.append(row); }
       b.append(box); }
   }
   function panelHistory(b) {
@@ -604,6 +625,13 @@ function init(D) {
     $("play").textContent = st.playing ? "❚❚ Pause" : "▶ Play"; };
 
   // ---- controls
+  // highlight one holder's lands (click again to clear); used by the map in Nations mode and the Holders tab
+  function pickNation(id) {
+    if (!id || id === "unknown") return;
+    st.iso = st.iso === id ? null : id; st.sel = null; st.tab = "holders";
+    if (st.mode !== "holder") { st.mode = "holder"; $("mode-holder").setAttribute("aria-pressed", true); $("mode-territory").setAttribute("aria-pressed", false); }
+    render();
+  }
   const setMode = m => { st.mode = m; if (m !== "holder") st.iso = null; $("mode-holder").setAttribute("aria-pressed", m === "holder"); $("mode-territory").setAttribute("aria-pressed", m === "territory"); render(); };
   $("mode-holder").onclick = () => setMode("holder"); $("mode-territory").onclick = () => setMode("territory");
   $("show-regions").onchange = e => { st.regions = e.target.checked; if (!st.regions && st.sel) st.sel.r = ""; render(); };
