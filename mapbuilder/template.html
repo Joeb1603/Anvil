@@ -194,7 +194,6 @@ td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
       <label class="check"><input type="checkbox" id="show-regions" checked> Regions</label>
       <label class="check"><input type="checkbox" id="show-front" checked> Borders</label>
       <label class="check"><input type="checkbox" id="show-fight" checked> Fighting</label>
-      <label class="check"><input type="checkbox" id="focus"> Focus on click</label>
       <label class="check"><input type="checkbox" id="show-marks" checked> Event counts</label>
       <div class="search">
         <input id="q" type="search" placeholder="Find a place or event" autocomplete="off" aria-label="Find a place or event">
@@ -260,7 +259,7 @@ function init(D) {
   const types = [...new Set(D.events.map(e => e.ty))];
   const busy = S.map((_, i) => D.events.filter(e => e.s === i).length);
   let open = last; while (open > 0 && busy[open] < 10) open--;
-  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "territories", front: true, focus: false, fight: true, back: [] };
+  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "territories", front: true, isoFrom: "list", fight: true, back: [] };
   $("snap").textContent = "wiki snapshot " + D.meta.snapshot.slice(0, 10);
 
   // ---- control state: holder of every place at every season, worked out by the build (one source of truth)
@@ -310,7 +309,7 @@ function init(D) {
       cells.push(c);
       if (!t.sea) {
         base.addEventListener("click", () => { if (moved) return;
-          if (st.lab === "nations") pickNation(r.name ? holderAt(t.name, r.name, st.s) : holderAt(t.name, "", st.s));
+          if (st.lab === "nations") pickNation(r.name ? holderAt(t.name, r.name, st.s) : holderAt(t.name, "", st.s), "map");
           else if (st.lab === "territories") select(t.name, "");
           else if (st.lab === "regions") select(t.name, r.name);
           else select(t.name, st.regions ? r.name : ""); });
@@ -386,8 +385,8 @@ function init(D) {
       }
       // Focus on click: fade everything outside what is selected
       let out = false;
-      if (st.focus && st.iso) out = hid !== st.iso;
-      else if (st.focus && st.sel) out = c.t.name !== st.sel.t || (!!st.sel.r && c.r !== st.sel.r);
+      // a nation picked in the Nations tab fades everything else; clicks on the map only outline
+      if (st.iso && st.isoFrom === "list") out = hid !== st.iso;
       c.base.classList.toggle("dim", out);
       if (st.mode === "holder") c.base.style.fillOpacity = 1;
       c.base.style.strokeOpacity = st.regions ? 1 : 0;
@@ -533,13 +532,13 @@ function init(D) {
   function select(t, r, fromBack) {
     const next = t ? { t, r: r || "" } : null;
     if (!fromBack) {
-      if (next && st.iso) st.back.push({ iso: st.iso });  // came from a nation: Back returns to it
+      if (next && st.iso) st.back.push({ iso: st.iso, from: st.isoFrom });  // came from a nation: Back returns to it
       else if (next && st.sel && (st.sel.t !== next.t || st.sel.r !== next.r)) st.back.push(st.sel);
       if (!next) st.back = []; }
     if (st.back.length > 30) st.back.shift();
     st.sel = next; st.iso = null; st.tab = "place"; render(); }
   const goBack = () => { const prev = st.back.pop();
-    if (prev && prev.iso) { st.sel = null; st.iso = prev.iso; st.tab = "holders"; render(); scrollToNation(); return; }
+    if (prev && prev.iso) { st.sel = null; st.iso = prev.iso; st.isoFrom = prev.from; st.tab = prev.from === "map" ? "place" : "holders"; render(); scrollToNation(); return; }
     select(prev ? prev.t : null, prev ? prev.r : "", true); };
   const scrollToNation = () => { const row = $("pbody").querySelector('.row[aria-pressed="true"]'); if (row) row.scrollIntoView({ block: "nearest" }); };
   svg.addEventListener("click", e => { if (moved || e.target.closest(".cell, .mark")) return;
@@ -564,7 +563,7 @@ function init(D) {
       b.onclick = () => { st.types.has(ty) ? st.types.delete(ty) : st.types.add(ty); render(); }; c.append(b); } return c; }
 
   function panelPlace(b) {
-    if (!st.sel) {
+    if (!st.sel && !st.iso) {
       const evs = evBySeason[st.s].filter(e => st.types.has(e.ty));
       b.append(h("h2", { textContent: S[st.s] }));
       const re = (D.real || [])[st.s];
@@ -584,6 +583,16 @@ function init(D) {
         const hd = h("td"); const wrap = h("span", { style: "display:inline-flex;gap:6px;align-items:center" }, swatch(majority(t.name, st.s)), hname(majority(t.name, st.s))); hd.append(wrap);
         tr.append(h("td", {}, btn), hd, h("td", { className: "n", textContent: n || "" })); body.append(tr); });
       tb.append(body); b.append(h("div", { className: "tablewrap" }, tb));
+      return;
+    }
+    if (!st.sel && st.iso) {
+      b.append(h("div", { className: "crumb" }, h("button", { textContent: "Season overview", onclick: () => { st.iso = null; render(); } })),
+        h("h2", { textContent: hname(st.iso) }), h("div", { className: "holder" }, swatch(st.iso), h("span", { textContent: (H[st.iso] || {}).group || "" })));
+      nationDetail(b);
+      const ch = D.control.changes.filter(c => c.kind !== "status" && (c.h === st.iso || c.ph === st.iso)).sort((a, c) => c.s - a.s);
+      b.append(h("h3", { textContent: `Gains and losses (${ch.length})` }));
+      if (!ch.length) b.append(h("div", { className: "empty", textContent: "No change of control recorded." }));
+      ch.slice(0, 80).forEach(c => b.append(changeItem(c, true)));
       return;
     }
     const t = byName[st.sel.t], r = st.sel.r;
@@ -703,23 +712,23 @@ function init(D) {
 
   // ---- controls
   // highlight one holder's lands (click again to clear); used by the map in Nations mode and the Holders tab
-  function pickNation(id) {
+  function pickNation(id, from = "list") {
     if (!id || id === "unknown") return;
-    st.iso = st.iso === id ? null : id; st.sel = null; st.back = [];
-    st.keep = st.keep || st.tab === "holders"; st.tab = "holders";  // the list never jumps: same order, same scroll
+    st.iso = st.iso === id && st.isoFrom === from ? null : id; st.isoFrom = from; st.sel = null; st.back = [];
+    if (from === "map") st.tab = "place";  // the map opens things in the Info tab
+    else { st.keep = st.keep || st.tab === "holders"; st.tab = "holders"; }  // the list never jumps: same order, same scroll
     if (st.mode !== "holder") { st.mode = "holder"; $("mode-holder").setAttribute("aria-pressed", true); $("mode-territory").setAttribute("aria-pressed", false); }
     render(); st.keep = false; scrollToNation();
   }
   const setMode = m => { st.mode = m; if (m !== "holder") st.iso = null; $("mode-holder").setAttribute("aria-pressed", m === "holder"); $("mode-territory").setAttribute("aria-pressed", m === "territory"); render(); };
   $("mode-holder").onclick = () => setMode("holder"); $("mode-territory").onclick = () => setMode("territory");
   $("show-regions").onchange = e => { st.regions = e.target.checked; if (!st.regions && st.sel) st.sel.r = ""; render(); };
-  $("focus").onchange = e => { st.focus = e.target.checked; paint(); };
   $("show-marks").onchange = e => { st.marks = e.target.checked; paint(); };
   const LABS = ["nations", "territories", "regions", "none"];
   for (const m of LABS) $("lab-" + m).onclick = () => { st.lab = m; for (const x of LABS) $("lab-" + x).setAttribute("aria-pressed", x === m); labels(); };
   $("show-front").onchange = e => { st.front = e.target.checked; frontiers(); };
   $("show-fight").onchange = e => { st.fight = e.target.checked; frontiers(); paint(); };
-  for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).onclick = () => { if (tab !== "holders") st.iso = null; if (tab !== "place") st.sel = null; st.tab = tab; render(); };
+  for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).onclick = () => { if (tab !== st.tab) { st.iso = null; if (tab !== "place") st.sel = null; st.back = []; } st.tab = tab; render(); };
   const q = $("q"), res = $("results");
   const index = []; for (const t of T) { if (t.sea) continue; index.push({ label: t.name, sub: "Territory", go: () => { select(t.name, ""); focusOn(t); } });
     for (const r of t.regions) index.push({ label: r.name, sub: "Region of " + t.name, go: () => { select(t.name, r.name); focusOn(t); } }); }
@@ -734,7 +743,7 @@ function init(D) {
     const re = (D.real || [])[st.s];
     $("now").innerHTML = `${esc(S[st.s])}<small>${re ? esc(re.n) + " · " : ""}${evBySeason[st.s].length} located events</small>`;
     bars.forEach((r, i) => r.classList.toggle("on", i === st.s));
-    $("tab-place").textContent = st.sel ? (st.sel.r || st.sel.t) : "Info";
+    $("tab-place").textContent = st.sel ? (st.sel.r || st.sel.t) : st.iso && st.isoFrom === "map" ? hname(st.iso).replace(/\s*\(.*\)$/, "") : "Info";
     for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).setAttribute("aria-selected", st.tab === tab);
     const b = $("pbody"), top = b.scrollTop; b.innerHTML = "";
     (st.tab === "holders" ? panelHolders : st.tab === "history" ? panelHistory : panelPlace)(b);

@@ -16,7 +16,8 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
 - **Clicking:** follows the label mode. Nations selects the nation holding that spot; Territories
   the whole territory; Regions the region. Whatever is selected gets a bold outline, and the event
   counts narrow to it (the nation's territories, the one territory, or the region's own count).
-  Tick **Focus on click** to also fade everything else.
+  Map clicks always open in the Info tab, including a nation (what it holds and its gains and
+  losses). Picking a nation from the Nations tab also fades everything else.
 - **Regions box:** hides or shows the borders between regions. Colours always show each region's
   real holder, and a split territory reads "Mostly held by X (5 of 7 regions)".
 - **Borders:** gold edges land held by Imperial nations, crimson land held by barbarians (Jotun,
