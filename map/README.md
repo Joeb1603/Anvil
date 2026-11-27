@@ -6,6 +6,12 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
 - **Map:** 61 territories and seas, 306 regions. Pan, zoom, click a territory or region.
 - **Timeline:** 49 seasons. Step through them or press Play to watch control change.
 - **Colourings:** by holder (who holds each region that season) or by territory.
+- **Labels:** Nations (one name per connected block of land a power holds that season),
+  Territories, Regions, or None. Labels never sit under an event-count circle, so in busy
+  seasons switch Event counts off to see every nation's name.
+- **Frontiers:** gold outlines land held by Imperial nations, crimson outlines land held by
+  barbarians (Jotun, Druj, Grendel, Thule and barbarian orc bands). The outlines move with the
+  timeline. Other holders, such as the vallorn, show as gaps inside the outlines.
 - **Panel:** who holds a place, its control history, and the events recorded there, each
   linked to its wiki page. A second tab lists holders; a third lists earlier history.
 - **Search** for a territory, region or event title.

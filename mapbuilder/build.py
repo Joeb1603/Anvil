@@ -12,6 +12,7 @@ import numpy as np
 
 from scraper.common import DATA, ROOT, read_json
 
+from . import frontiers
 from .events import BREAK_BEFORE
 from .geometry import MAP_DIR, territory_polygons
 
@@ -19,6 +20,15 @@ SEAS = {"Bay of Catazar", "Sea of Snow", "The Semmerlak"}
 IMPERIAL = ["Dawn", "Highguard", "Imperial Orcs", "Navarr", "The Brass Coast", "The League", "The Marches",
             "Urizen", "Varushka", "Wintermark"]
 BARBARIAN = ["Jotun", "Druj", "Grendel", "Thule"]
+BARBARIAN_OTHER = {"Lasambrian orcs", "Barrens orcs", "Great Forest Orcs"}  # barbarian orc bands with no colour of their own
+
+
+def side_of(holder):
+    if holder in IMPERIAL or holder == "The Empire":
+        return "imp"
+    if holder in BARBARIAN or holder in BARBARIAN_OTHER:
+        return "barb"
+    return None
 SLOTS = ["s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8"]
 # sRGB values of the categorical slots (light theme), used only to keep neighbours apart
 SLOT_RGB = {"s1": "257de0", "s2": "f47230", "s3": "00b894", "s4": "f2a600", "s5": "ee7fac", "s6": "008a17",
@@ -300,7 +310,8 @@ def build(archive_links=True):
                         "slot": "n1", "pattern": "dots"})
     others = [h for h in used if h not in IMPERIAL and h not in BARBARIAN and h not in ("Unknown", "The Empire")]
     for k, n in enumerate(sorted(others, key=lambda h: -used[h])):
-        holders.append({"id": n, "name": n, "group": "Others", "slot": "n1", "pattern": "hatch" if k % 2 == 0 else "dots"})
+        holders.append({"id": n, "name": n, "group": "Barbarian powers" if n in BARBARIAN_OTHER else "Others",
+                        "slot": "n1", "pattern": "hatch" if k % 2 == 0 else "dots"})
     holders.append({"id": "unknown", "name": "Unknown", "group": "Others", "slot": "n2", "pattern": None})
     fix = lambda h: "unknown" if h == "Unknown" else h
 
@@ -332,9 +343,13 @@ def build(archive_links=True):
     history.sort(key=lambda h: (h["y"], h["t"]))
     xs = [p[0] for t in terr.values() for poly in t["polys"] for p in poly]
     ys = [p[1] for t in terr.values() for poly in t["polys"] for p in poly]
+    view = [min(xs) - 20, min(ys) - 20, max(xs) - min(xs) + 40, max(ys) - min(ys) + 40]
+    front, nlabels = frontiers.compute(terr, shapes, state, seasons, SEAS, side_of, view,
+                                       lambda h: None if h in ("Unknown", "Uncontrolled") else h)
     data = {
         "meta": {"snapshot": manifest["snapshot"], "archiveLinks": archive_links},
-        "view": [min(xs) - 20, min(ys) - 20, max(xs) - min(xs) + 40, max(ys) - min(ys) + 40],
+        "view": view, "frontiers": front,
+        "nlabels": [[[fix(r[0])] + r[1:4] for r in season] for season in nlabels],
         "seasons": seasons, "territories": territories, "holders": holders,
         "control": {"start": {t: fix(h) for t, h in ctl["start"].items()}, "startRegions": ctl["startRegions"],
                     "changes": [{k: (fix(v) if k == "h" else v) for k, v in c.items() if k != "from"} for c in ctl["changes"]]},

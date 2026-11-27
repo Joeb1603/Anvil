@@ -7,7 +7,7 @@
   --bg: #e9eef3; --surface: #ffffff; --sunk: #f3f6f9; --ink: #18222e; --muted: #556170; --line: #cfd8e1;
   --accent: #1f3a5f; --accent-ink: #ffffff; --sea: #d6e2ec; --land: #e2e6ea; --outline: #2b3644;
   --s1: #257de0; --s2: #f47230; --s3: #00b894; --s4: #f2a600; --s5: #ee7fac; --s6: #008a17; --s7: #6a4ce2; --s8: #ec4647;
-  --n1: #8d99a6; --n2: #b9c2cc;
+  --n1: #8d99a6; --n2: #b9c2cc; --gold: #b8860b; --barb: #a50f2f;
   --display: "Alegreya Sans SC", "Alegreya Sans", "Segoe UI", system-ui, sans-serif;
   --body: "Alegreya Sans", "Segoe UI", system-ui, -apple-system, sans-serif;
 }
@@ -15,12 +15,12 @@
   --bg: #0f151c; --surface: #171f29; --sunk: #121922; --ink: #e7ecf2; --muted: #98a5b4; --line: #2a3644;
   --accent: #a9c4e6; --accent-ink: #0f151c; --sea: #0b1118; --land: #232d39; --outline: #c9d3de;
   --s1: #338ced; --s2: #e76624; --s3: #00a888; --s4: #d28e05; --s5: #e24d8b; --s6: #0aac23; --s7: #9887ef; --s8: #eb6263;
-  --n1: #66727f; --n2: #414c59; color-scheme: dark } }
+  --n1: #66727f; --n2: #414c59; --gold: #e3b341; --barb: #ff4f73; color-scheme: dark } }
 :root[data-theme="dark"] {
   --bg: #0f151c; --surface: #171f29; --sunk: #121922; --ink: #e7ecf2; --muted: #98a5b4; --line: #2a3644;
   --accent: #a9c4e6; --accent-ink: #0f151c; --sea: #0b1118; --land: #232d39; --outline: #c9d3de;
   --s1: #338ced; --s2: #e76624; --s3: #00a888; --s4: #d28e05; --s5: #e24d8b; --s6: #0aac23; --s7: #9887ef; --s8: #eb6263;
-  --n1: #66727f; --n2: #414c59; color-scheme: dark }
+  --n1: #66727f; --n2: #414c59; --gold: #e3b341; --barb: #ff4f73; color-scheme: dark }
 
 html, body { height: 100%; }
 body { background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.4; }
@@ -64,6 +64,19 @@ a { color: var(--accent); }
   paint-order: stroke; stroke: var(--surface); stroke-width: 2.5px; stroke-linejoin: round; }
 .mark circle { fill: var(--ink); stroke: var(--surface); stroke-width: 2; vector-effect: non-scaling-stroke; cursor: pointer; }
 .mark text { fill: var(--surface); font-family: var(--body); font-weight: 700; text-anchor: middle; dominant-baseline: central; pointer-events: none; font-variant-numeric: tabular-nums; }
+.nlabel { font-family: var(--display); font-weight: 700; fill: var(--ink); text-anchor: middle; dominant-baseline: central; pointer-events: none;
+  paint-order: stroke; stroke: var(--surface); stroke-linejoin: round; }
+.fr { fill: none; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; }
+.fr.halo { stroke: var(--surface); stroke-width: 8px; }
+.fr.imp { stroke: var(--gold); stroke-width: 5px; }
+.fr.barb { stroke: var(--barb); stroke-width: 5px; }
+.flegend { position: absolute; left: 10px; top: 10px; display: flex; flex-direction: column; gap: 3px; background: var(--surface); border: 1px solid var(--line);
+  border-radius: 6px; padding: 5px 9px; font-size: .8rem; pointer-events: none; }
+.flegend span { display: flex; align-items: center; gap: 7px; }
+.flegend i { display: inline-block; width: 18px; height: 0; border-top: 3px solid; }
+.flegend .gold { border-color: var(--gold); }
+.flegend .barb { border-color: var(--barb); }
+.labgroup { display: inline-flex; align-items: center; gap: 6px; color: var(--muted); }
 .zoom { position: absolute; right: 10px; top: 10px; display: flex; flex-direction: column; gap: 4px; }
 .zoom button { width: 32px; height: 32px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); cursor: pointer; font-size: 1.1rem; line-height: 1; }
 .note { padding: 4px 10px; font-size: .8rem; color: var(--muted); background: var(--surface); border-top: 1px solid var(--line); }
@@ -155,7 +168,16 @@ td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
         <button id="mode-holder" aria-pressed="true">By holder</button>
         <button id="mode-territory" aria-pressed="false">By territory</button>
       </div>
+      <div class="labgroup">Labels
+        <div class="seg" role="group" aria-label="Map labels">
+          <button id="lab-nations" aria-pressed="false">Nations</button>
+          <button id="lab-territories" aria-pressed="true">Territories</button>
+          <button id="lab-regions" aria-pressed="false">Regions</button>
+          <button id="lab-none" aria-pressed="false">None</button>
+        </div>
+      </div>
       <label class="check"><input type="checkbox" id="show-regions" checked> Regions</label>
+      <label class="check"><input type="checkbox" id="show-front" checked> Frontiers</label>
       <label class="check"><input type="checkbox" id="show-marks" checked> Event counts</label>
       <div class="search">
         <input id="q" type="search" placeholder="Find a place or event" autocomplete="off" aria-label="Find a place or event">
@@ -167,6 +189,7 @@ td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
   <div class="main">
     <div class="mapwrap" id="mapwrap">
       <svg id="map" role="img" aria-label="Map of the Empire and neighbouring territories"></svg>
+      <div class="flegend" id="flegend"><span><i class="gold"></i>Imperial lands</span><span><i class="barb"></i>Barbarian lands</span></div>
       <div class="zoom">
         <button id="zin" aria-label="Zoom in">+</button>
         <button id="zout" aria-label="Zoom out">−</button>
@@ -220,7 +243,7 @@ function init(D) {
   const types = [...new Set(D.events.map(e => e.ty))];
   const busy = S.map((_, i) => D.events.filter(e => e.s === i).length);
   let open = last; while (open > 0 && busy[open] < 10) open--;
-  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null };
+  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "territories", front: true };
   $("snap").textContent = "wiki snapshot " + D.meta.snapshot.slice(0, 10);
 
   // ---- control state: holder of every place at every season
@@ -256,7 +279,7 @@ function init(D) {
   const mkPat = (id, body) => { const p = el("pattern", { id, width: 7, height: 7, patternUnits: "userSpaceOnUse", patternTransform: "rotate(45)" }, defs); p.innerHTML = body; };
   mkPat("hatch", '<line x1="0" y1="0" x2="0" y2="7" style="stroke:var(--surface);stroke-width:3;opacity:.72"/>');
   mkPat("dots", '<circle cx="3.5" cy="3.5" r="1.5" style="fill:var(--surface);opacity:.8"/>');
-  const vp = el("g", {}, svg), gLand = el("g", {}, vp), gOut = el("g", {}, vp), gSel = el("g", {}, vp), gLab = el("g", {}, vp), gMark = el("g", {}, vp);
+  const vp = el("g", {}, svg), gLand = el("g", {}, vp), gOut = el("g", {}, vp), gFront = el("g", {}, vp), gSel = el("g", {}, vp), gLab = el("g", {}, vp), gNat = el("g", {}, vp), gMark = el("g", {}, vp);
   const cells = [];
   for (const t of T) {
     const parts = t.regions.length ? t.regions : [{ name: "", polys: t.polys }];
@@ -279,6 +302,32 @@ function init(D) {
       t.mark.addEventListener("click", () => select(t.name, "")); }
   }
   const selPath = el("path", { class: "regsel" }, gSel);
+
+  // ---- frontiers: each outline is clipped to its own side, so gold and crimson sit on either side of a shared border
+  const mkClip = id => el("path", { "clip-rule": "evenodd" }, el("clipPath", { id }, defs));
+  const clipImp = mkClip("fc-imp"), clipBarb = mkClip("fc-barb");
+  const fr = {
+    ih: el("path", { class: "fr halo", "clip-path": "url(#fc-imp)" }, gFront), il: el("path", { class: "fr imp", "clip-path": "url(#fc-imp)" }, gFront),
+    bh: el("path", { class: "fr halo", "clip-path": "url(#fc-barb)" }, gFront), bl: el("path", { class: "fr barb", "clip-path": "url(#fc-barb)" }, gFront),
+  };
+  let frShown = -1;
+  function frontiers() {
+    gFront.style.display = st.front ? "" : "none"; $("flegend").hidden = !st.front;
+    if (!st.front || !D.frontiers) return;
+    const k = D.frontiers.season[st.s]; if (k === frShown) return; frShown = k;
+    const f = D.frontiers.states[k];
+    for (const x of [clipImp, fr.ih, fr.il]) x.setAttribute("d", f.imp);
+    for (const x of [clipBarb, fr.bh, fr.bl]) x.setAttribute("d", f.barb);
+  }
+
+  // ---- label helpers
+  const polyArea = polys => polys.reduce((sum, p) => { let a = 0; for (let i = 0, j = p.length - 1; i < p.length; j = i++) a += (p[j][0] + p[i][0]) * (p[j][1] - p[i][1]); return sum + Math.abs(a) / 2; }, 0);
+  const allRegions = [];
+  for (const t of T) t.regions.forEach((r, i) => { r.area = polyArea(r.polys); allRegions.push({ t, r, el: t.rlabels[i] }); });
+  allRegions.sort((a, b) => b.r.area - a.r.area);
+  const shortName = id => (H[id] ? H[id].name : id).replace(/\s*\(.*\)$/, "");
+  const pool = [];
+  const natLabel = i => { while (pool.length <= i) pool.push(el("text", { class: "nlabel" }, gNat)); return pool[i]; };
 
   const fillFor = id => { const x = H[id] || H.unknown; return `var(--${x.slot})`; };
   function paint() {
@@ -308,23 +357,59 @@ function init(D) {
     }
     const sr = st.sel && st.sel.r && byName[st.sel.t].regions.find(r => r.name === st.sel.r);
     selPath.setAttribute("d", sr ? pathOf(sr.polys) : "");
+    frontiers();
     labels();
   }
   // one screen pixel expressed in map units at the current zoom
   const unit = () => 1 / ((Math.min(svg.clientWidth / vw, svg.clientHeight / vh) || 1) * st.k);
   function labels() {
-    const u = unit(), scale = 1 / u, placed = [];
-    const order = [...T].sort((a, b) => (st.sel && st.sel.t === b.name) - (st.sel && st.sel.t === a.name) || b.bbox[2] * b.bbox[3] - a.bbox[2] * a.bbox[3]);
+    const u = unit(), scale = 1 / u, placed = [], mode = st.lab, selT = st.sel && st.sel.t;
+    const free = b => !placed.some(q => b.x < q.x + q.w && q.x < b.x + b.w && b.y < q.y + q.h && q.y < b.y + b.h);
+    const box = (x, y, w, hh) => ({ x: x * scale - w / 2, y: y * scale - hh / 2, w, h: hh });
+    // try the spot itself, then nearby spots, and return the first free one (offsets in screen px)
+    const NUDGE = [[0, 0], [0, -1], [0, 1], [-0.45, 0], [0.45, 0], [0, -2], [0, 2], [-0.45, -1], [0.45, -1], [-0.45, 1], [0.45, 1]];
+    const spot = (x, y, w, hh, reach) => { for (const [fx, fy] of NUDGE.slice(0, reach)) {
+      const b = { x: x * scale - w / 2 + fx * w, y: y * scale - hh / 2 + fy * hh, w, h: hh };
+      if (free(b)) return { b, x: x + fx * w * u, y: y + fy * hh * u }; } return null; };
+    // event-count circles are obstacles, so no name is printed underneath one
+    for (const t of T) if (t.mark && t.mark.style.display !== "none") {
+      const r = +t.mc.getAttribute("r") * scale + 2;
+      placed.push({ x: t.centre[0] * scale - r, y: +t.mc.getAttribute("cy") * scale - r, w: 2 * r, h: 2 * r });
+    }
+    // nation labels: one per connected block of a power's land, biggest first
+    let n = 0;
+    if (mode === "nations") for (const [id, x, y, r] of (D.nlabels || [])[st.s] || []) {
+      const rs = r * scale; if (rs < 8) continue;
+      const name = shortName(id).toUpperCase(), fs = Math.max(10, Math.min(18, 7 + rs * 0.3));
+      const at = spot(x, y, name.length * fs * 0.8, fs * 1.4, Math.min(NUDGE.length, 3 + Math.floor(rs / 12)));
+      if (!at) continue; placed.push(at.b);
+      const tx = natLabel(n++); tx.textContent = name; tx.setAttribute("x", at.x); tx.setAttribute("y", at.y);
+      tx.style.fontSize = fs * u + "px"; tx.style.strokeWidth = 3.2 * u + "px"; tx.style.letterSpacing = 0.12 * fs * u + "px"; tx.style.display = "";
+    }
+    for (let i = n; i < pool.length; i++) pool[i].style.display = "none";
+    // territory labels (seas keep theirs in every mode except None)
+    const showRall = mode === "territories" && st.regions && st.k >= 2.4;
+    const order = [...T].sort((a, b) => (selT === b.name) - (selT === a.name) || b.bbox[2] * b.bbox[3] - a.bbox[2] * a.bbox[3]);
     for (const t of order) {
-      const w = t.bbox[2] * scale, fs = 12 * u;
-      const box = { x: t.centre[0] * scale - t.name.length * 3.5, y: t.centre[1] * scale - 9, w: t.name.length * 7, h: 16 };
-      t.clash = placed.some(q => box.x < q.x + q.w && q.x < box.x + box.w && box.y < q.y + q.h && q.y < box.y + box.h);
-      if (!t.clash || (st.sel && st.sel.t === t.name)) placed.push(box);
-      t.label.style.fontSize = fs + "px"; t.label.style.strokeWidth = (3 * u) + "px";
-      t.label.style.display = (st.sel && st.sel.t === t.name) || (!t.clash && w > t.name.length * 4.5) ? "" : "none";
-      const showR = st.regions && st.k >= 2.4;
-      t.rlabels.forEach(x => { x.style.display = showR ? "" : "none"; x.style.fontSize = (11 * u) + "px"; x.style.strokeWidth = (2.5 * u) + "px"; });
-      if (showR && t.regions.length) t.label.style.display = "none";
+      t.label.style.fontSize = 12 * u + "px"; t.label.style.strokeWidth = 3 * u + "px";
+      let show = false;
+      if (mode === "territories" || (t.sea && mode !== "none")) {
+        const b = box(t.centre[0], t.centre[1], t.name.length * 7, 16), fits = t.bbox[2] * scale > t.name.length * 4.5;
+        if ((mode === "territories" && selT === t.name) || (fits && free(b))) { show = !(showRall && t.regions.length); if (show) placed.push(b); }
+      }
+      t.label.style.display = show ? "" : "none";
+      t.rlabels.forEach((x, i) => { x.style.fontSize = 11 * u + "px"; x.style.strokeWidth = 2.5 * u + "px"; x.style.display = showRall ? "" : "none";
+        if (mode !== "regions") { x.setAttribute("x", t.regions[i].centre[0]); x.setAttribute("y", t.regions[i].centre[1]); } });
+    }
+    // region labels: every region that has room, the selected territory's first
+    if (mode === "regions") {
+      const list = selT ? [...allRegions.filter(a => a.t.name === selT), ...allRegions.filter(a => a.t.name !== selT)] : allRegions;
+      for (const a of list) {
+        const at = a.r.area * scale * scale >= 320 ? spot(a.r.centre[0], a.r.centre[1], a.r.name.length * 6.2, 14, 3) : null;
+        if (at) { placed.push(at.b); a.el.setAttribute("x", at.x); a.el.setAttribute("y", at.y); }
+        else { a.el.setAttribute("x", a.r.centre[0]); a.el.setAttribute("y", a.r.centre[1]); }
+        a.el.style.display = at ? "" : "none";
+      }
     }
   }
   function tip(ev, c) {
@@ -441,7 +526,7 @@ function init(D) {
     return d;
   }
   function panelHolders(b) {
-    b.append(h("h2", { textContent: "Holders in " + S[st.s] }), h("div", { className: "crumb", textContent: "Click a holder to show only its lands. Hatched colours are powers outside the Empire." }));
+    b.append(h("h2", { textContent: "Holders in " + S[st.s] }), h("div", { className: "crumb", textContent: "Click a holder to show only its lands. Hatched colours are powers outside the Empire. With Frontiers on, gold outlines land held by Imperial nations and crimson outlines land held by barbarians." }));
     const n = {}; for (const t of T) { if (t.sea) continue; const parts = t.regions.length ? t.regions.map(r => r.name) : [""]; for (const r of parts) { const x = holderAt(t.name, r, st.s); n[x] = (n[x] || 0) + 1; } }
     for (const g of ["Imperial nations", "Barbarian powers", "Others"]) {
       const hs = D.holders.filter(x => x.group === g && n[x.id]); if (!hs.length) continue;
@@ -488,6 +573,9 @@ function init(D) {
   $("mode-holder").onclick = () => setMode("holder"); $("mode-territory").onclick = () => setMode("territory");
   $("show-regions").onchange = e => { st.regions = e.target.checked; if (!st.regions && st.sel) st.sel.r = ""; render(); };
   $("show-marks").onchange = e => { st.marks = e.target.checked; paint(); };
+  const LABS = ["nations", "territories", "regions", "none"];
+  for (const m of LABS) $("lab-" + m).onclick = () => { st.lab = m; for (const x of LABS) $("lab-" + x).setAttribute("aria-pressed", x === m); labels(); };
+  $("show-front").onchange = e => { st.front = e.target.checked; frontiers(); };
   for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).onclick = () => { st.tab = tab; render(); };
   const q = $("q"), res = $("results");
   const index = []; for (const t of T) { if (t.sea) continue; index.push({ label: t.name, sub: "Territory", go: () => { select(t.name, ""); focusOn(t); } });
