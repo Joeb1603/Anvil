@@ -19,11 +19,26 @@ touches `map/`: who held each
 territory and region season by season, and what happened where. See `map/README.md` for how it
 is made and how far to trust each layer.
 
+## Automatic updates
+
+- **Archive and atlas events:** `.github/workflows/update.yml` checks the wiki every morning
+  (04:17 UTC). It runs on Mondays, and on any day while a summit is approaching, which it detects
+  from new Winds of Fortune or Winds of War pages in the last three weeks. It downloads only pages
+  edited since the last run, rebuilds the archive and the atlas, commits to `main` and republishes
+  the site. Run it by hand from the Actions tab with "Run workflow".
+- **Who holds what:** a Claude scheduled task runs on Mondays and Thursdays. It reads any campaign
+  reports newer than `map/control_raw/meta.json` says were processed, records the changes of
+  control in a new file in `map/control_raw/`, and opens a pull request for review. Merging it
+  rebuilds and republishes the atlas.
+- **Manual:** placing new regions on the map (`map/region_labels.json`) and newly explored places
+  (`map/extra_territories.json`).
+
 ## Usage
 
 ```
 python3 -m scraper.run               # full run: discover, fetch, classify, render, index, verify
 python3 -m scraper.run --skip-fetch  # re-sort and re-render from the local cache
+python3 -m mapbuilder.run            # rebuild the atlas from the archive
 python3 -m scraper.package           # zip the complete archive, song pages included
 ```
 

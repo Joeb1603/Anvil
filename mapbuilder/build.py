@@ -23,6 +23,13 @@ BARBARIAN = ["Jotun", "Druj", "Grendel", "Thule"]
 BARBARIAN_OTHER = {"Lasambrian orcs", "Barrens orcs", "Great Forest Orcs"}  # barbarian orc bands with no colour of their own
 
 
+def control_files():
+    """Campaign-report readings in map/control_raw/, oldest first. territories.json (territory pages)
+    and meta.json are handled separately; later files are named after the season they start at."""
+    files = [f for f in (MAP_DIR / "control_raw").glob("*.json") if f.stem not in ("territories", "meta")]
+    return sorted(files, key=lambda f: (len(f.stem) > 1, f.stem))
+
+
 def side_of(holder):
     if holder in IMPERIAL or holder == "The Empire":
         return "imp"
@@ -210,10 +217,8 @@ def load_control(terr, regions, seasons, pages):
                 elif y and f"{y.group(1)}YE Spring" in idx:  # year known, season not: listed, not painted
                     changes.append({**entry, "s": idx[f"{y.group(1)}YE Spring"], "np": 1, "conf": "low",
                                     "note": (entry["note"] + " Season within the year not stated.").strip()})
-    for era in ("A", "B", "C"):
-        f = raw / f"{era}.json"
-        if not f.exists():
-            continue
+    for f in control_files():
+        era = f.stem
         for c in json.loads(f.read_text()):
             name = c.get("territory")
             if name not in terr or c.get("event") not in idx:
@@ -260,10 +265,8 @@ def start_regions(terr, regions, seasons, ctl):
     """
     idx = {s: i for i, s in enumerate(seasons)}
     raw = []
-    for era in ("A", "B", "C"):
-        f = MAP_DIR / "control_raw" / f"{era}.json"
-        if f.exists():
-            raw += [c for c in json.loads(f.read_text()) if c.get("event") in idx]
+    for f in control_files():
+        raw += [c for c in json.loads(f.read_text()) if c.get("event") in idx]
     raw.sort(key=lambda c: idx[c["event"]])
     first_touch = {}  # earliest painted entry that touches a region: its own, or a whole-territory change
     for c in ctl["changes"]:

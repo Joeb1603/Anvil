@@ -1,0 +1,102 @@
+# Keeps the archive and the Empire Atlas in step with the Empire wiki.
+#
+# Checks every morning. Updates on Mondays, and on any day while a summit is approaching
+# (new Winds of Fortune or Winds of War pages in the last three weeks). Only pages edited since the
+# last run are downloaded. Changes are committed to main and the atlas is republished.
+#
+# Also rebuilds the atlas when its hand-made inputs change on main (control history, region
+# positions, extra territories, or the build code), for example after merging a pull request.
+name: Update from the wiki
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "map/control_raw/**"
+      - "map/extra_territories.json"
+      - "map/region_labels.json"
+      - "mapbuilder/**"
+      - "scraper/**"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: wiki-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    outputs:
+      pushed: ${{ steps.commit.outputs.pushed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Decide whether to update today
+        id: gate
+        run: python3 -m scraper.check_schedule ${{ github.event_name != 'schedule' && '--force' || '' }}
+
+      # Cached page downloads. If the cache has expired, the update re-downloads everything (about 45 minutes).
+      - name: Restore download cache
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache
+          key: wiki-cache-${{ github.run_id }}
+          restore-keys: wiki-cache-
+
+      - name: Update the archive
+        if: steps.gate.outputs.run == 'true'
+        run: python3 -m scraper.run --strict
+
+      - name: Rebuild the atlas
+        if: steps.gate.outputs.run == 'true'
+        run: python3 -m mapbuilder.run
+
+      - name: Save download cache
+        if: always() && steps.gate.outputs.run == 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: .cache
+          key: wiki-cache-${{ github.run_id }}
+
+      - name: Commit and push changes
+        id: commit
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A wiki data map
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          summary=$(python3 -c "import json; c=json.load(open('.cache/changed.json')); print(f'{len(c)} new or edited wiki pages')")
+          details=$(python3 -c "import json; c=json.load(open('.cache/changed.json')); print('\n'.join('- ' + t for t in c[:50]) + ('\n- ...' if len(c) > 50 else ''))")
+          git commit -m "Update from the Empire wiki: $summary" -m "$details"
+          git push
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: update
+    if: needs.update.outputs.pushed == 'true'
+    uses: ./.github/workflows/pages.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

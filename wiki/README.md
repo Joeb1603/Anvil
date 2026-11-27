@@ -1,6 +1,6 @@
 # Empire wiki archive
 
-Snapshot of Empire (https://www.profounddecisions.co.uk/empire-wiki/Main_Page) taken 2026-11-26T20:33:33Z.
+Snapshot of Empire (https://www.profounddecisions.co.uk/empire-wiki/Main_Page) taken 2026-11-26T13:08:14Z.
 Text © Profound Decisions, reused under [CC BY-SA 4.0](LICENSE.md). Converted from the wiki's HTML to markdown and re-sorted; wording is unchanged.
 
 - **5138** pages, **201** category pages, **846** redirects

@@ -305,7 +305,7 @@ def render_all() -> dict:
     write_json(DATA / "pages.json", page_info, indent=1)
     write_json(DATA / "linked_categories.json",
                sorted(t.split(":", 1)[1] for t in site.path if t.startswith("Category:")), indent=1)
-    write_json(DATA / "unresolved_links.json", dict(sorted(unresolved.items(), key=lambda kv: -kv[1])), indent=1)
+    write_json(DATA / "unresolved_links.json", dict(sorted(unresolved.items(), key=lambda kv: (-kv[1], kv[0]))), indent=1)
     totals["unresolved_targets"] = len(unresolved)
     return totals
 

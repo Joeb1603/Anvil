@@ -1,0 +1,9 @@
+# Scraper and archive
+requests
+beautifulsoup4
+lxml
+markdownify
+PyYAML
+# Atlas builder
+numpy
+opencv-python-headless

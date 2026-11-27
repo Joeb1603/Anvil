@@ -2,7 +2,7 @@
 
 The text in this folder comes from the Empire wiki
 (https://www.profounddecisions.co.uk/empire-wiki/Main_Page), written and published by
-Profound Decisions. Snapshot taken 2026-11-26T20:33:33Z.
+Profound Decisions. Snapshot taken 2026-11-26T13:08:14Z.
 
 Profound Decisions license their games and website content under the
 **Creative Commons Attribution-ShareAlike 4.0 International** licence

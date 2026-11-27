@@ -1,4 +1,6 @@
-"""Run the whole pipeline:  python3 -m scraper.run [--skip-fetch]"""
+"""Run the whole pipeline:  python3 -m scraper.run [--skip-fetch] [--strict]
+
+--strict exits with an error if a page is missing from the output, for unattended runs."""
 from __future__ import annotations
 
 import sys
@@ -22,6 +24,8 @@ def main() -> None:
     print("index:", build_indexes())
     report = verify()
     print("verify:", {k: (len(v) if isinstance(v, list) else v) for k, v in report.items()})
+    if "--strict" in sys.argv and (report["missing_output_files"] or report["duplicate_paths"]):
+        sys.exit("verify failed: pages missing from the output or written twice")
 
 
 if __name__ == "__main__":
