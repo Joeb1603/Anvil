@@ -773,7 +773,8 @@ function init(D) {
   // ---- written summaries (summaries.json beside the page): overview, detail, and a line per nation,
   // territory and region. ctx picks the line: {k: "n"|"t"|"r", id}; none gives the overview.
   let SUM = {};
-  fetch("summaries.json").then(r => r.ok ? r.json() : {}).then(x => { SUM = x || {}; render(); }).catch(() => {});
+  if (location.protocol !== "file:")  // browsers can't fetch beside a page opened as a local file
+    fetch("summaries.json").then(r => r.ok ? r.json() : {}).then(x => { SUM = x || {}; render(); }).catch(() => {});
   const lineFor = (e, ctx) => { const x = SUM[e.ti]; if (!x) return null; if (!ctx) return { t: x.o, p: false };
     const l = (x[ctx.k] || {})[ctx.id]; return l ? { t: l.t, p: !!l.p } : null; };
   const isPassing = (e, ctx) => { const l = ctx && lineFor(e, ctx); return !!(l && l.p); };
