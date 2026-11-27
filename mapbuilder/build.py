@@ -12,7 +12,7 @@ import numpy as np
 
 from scraper.common import DATA, ROOT, read_json
 
-from . import frontiers
+from . import coverage, frontiers
 from .events import BREAK_BEFORE
 from .geometry import MAP_DIR, extra_territories, map_features, territory_polygons
 
@@ -518,6 +518,51 @@ def build(archive_links=True):
     front, nlabels = frontiers.compute(terr, shapes, state, seasons, SEAS, side_of, view,
                                        lambda h: None if h in ("Unknown", "Uncontrolled") else h)
     data_contested = contested(state, seasons, ev["events"], side_of)
+    # ---- one clean set of shapes for all the land, in two eras around the Great Sinkhole
+    feat_geo = map_features()
+    pit_info = feat_geo.get("The Great Sinkhole")
+    pit = coverage._poly(pit_info["polys"]) if pit_info else None
+    pit_s = sidx[FEATURES["The Great Sinkhole"]["from"]] if pit is not None else 0
+    cov = coverage.build(terr, shapes, SEAS, pit)
+    for tt in territories:
+        if tt["sea"]:
+            continue
+        keys = [(tt["name"], r["name"]) for r in tt["regions"]] or [(tt["name"], "")]
+        tt["polys"] = coverage.rings(coverage.union(cov["after"][k] for k in keys))
+        for r in tt["regions"]:
+            g = cov["after"][(tt["name"], r["name"])]
+            r["polys"] = coverage.rings(g)
+            if not g.is_empty and not g.contains(shapely_point(r["centre"])):  # e.g. a centre that fell in the pit
+                lp = polylabel_of(g)
+                r["centre"] = [round(lp.x, 1), round(lp.y, 1)]
+    eras = {"split": pit_s, "cells": {}, "outlines": {}}
+    for tt in territories:
+        if tt["sea"]:
+            continue
+        keys = [(tt["name"], r["name"]) for r in tt["regions"]] or [(tt["name"], "")]
+        changed = False
+        for k in keys:
+            b, a = coverage.rings(cov["before"][k]), coverage.rings(cov["after"][k])
+            if b != a:
+                eras["cells"][f"{k[0]}|{k[1]}"] = b; changed = True
+        if changed:
+            eras["outlines"][tt["name"]] = coverage.rings(coverage.union(cov["before"][k] for k in keys))
+    # ---- each holder's outline, season by season, from the same shapes (exact, so lines meet cleanly)
+    cell_keys = list(cov["after"])
+    fstates, fseason, fseen = [], [], {}
+    for i in range(len(seasons)):
+        era = "before" if i < pit_s else "after"
+        hs = tuple(state[t][r or ""][i] if (r or "") in state[t] else state[t][""][i] for t, r in cell_keys)
+        key = (era, hs)
+        if key not in fseen:
+            groups = collections.defaultdict(list)
+            for (t, r), h in zip(cell_keys, hs):
+                if h not in ("Unknown", "unknown"):
+                    groups[h].append(cov[era][(t, r)])
+            fseen[key] = len(fstates)
+            fstates.append({"by": {h: coverage.path(coverage.union(gs)) for h, gs in groups.items()}})
+        fseason.append(fseen[key])
+    front = {"states": fstates, "season": fseason}
     features = []
     for name, f in map_features().items():
         meta = FEATURES.get(name)
@@ -529,7 +574,7 @@ def build(archive_links=True):
                          "src": meta["source"], "su": pages.get(meta["source"], {}).get("source"),
                          "title": meta["title"], "tu": pages.get(meta["title"], {}).get("source")})
     data = {
-        "contested": data_contested, "features": features,
+        "contested": data_contested, "features": features, "eras": eras,
         "meta": {"snapshot": manifest["snapshot"], "archiveLinks": archive_links},
         "view": view, "frontiers": front,
         "nlabels": [[[fix(r[0])] + r[1:4] for r in season] for season in nlabels],
@@ -546,6 +591,18 @@ def build(archive_links=True):
     }
     ctl["state"] = state
     return data, ctl
+
+
+def shapely_point(xy):
+    from shapely.geometry import Point
+    return Point(xy)
+
+
+def polylabel_of(g):
+    from shapely.ops import polylabel
+    if g.geom_type == "MultiPolygon":
+        g = max(g.geoms, key=lambda x: x.area)
+    return polylabel(g, tolerance=0.5)
 
 
 def contested(state, seasons, events, side_of):

@@ -54,16 +54,16 @@ a { color: var(--accent); }
 .mapwrap { position: relative; background: var(--sea); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; min-height: 300px; display: flex; flex-direction: column; }
 #map { width: 100%; flex: 1; min-height: 0; display: block; touch-action: none; cursor: grab; user-select: none; }
 #map.drag { cursor: grabbing; }
-.cell { stroke: var(--bline); stroke-opacity: 0; stroke-width: 1; vector-effect: non-scaling-stroke; cursor: pointer; }
+.cell { stroke: var(--bline); stroke-opacity: 0; stroke-width: 1; vector-effect: non-scaling-stroke; cursor: pointer; stroke-linejoin: round; fill-rule: evenodd; }
 /* the dark boundary lines follow the label mode: nations, territories (default) or regions */
-.natline { fill: none; stroke: var(--bline); stroke-width: 1.4; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; display: none; }
+.natline { fill: none; stroke: var(--bline); stroke-width: 1.3; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; display: none; }
 #map[data-lines="nations"] .natline { display: inline; }
 #map[data-lines="nations"] .outline:not(.sel) { stroke-opacity: 0; }
-#map[data-lines="regions"] .cell { stroke-opacity: 1; stroke-width: 0.9; }
+#map[data-lines="regions"] .cell { stroke-opacity: .85; stroke-width: 0.8; }
 .cell.dim, .pat.dim, .fight.dim { opacity: .18; }
 .pat { pointer-events: none; }
 .sea { fill: var(--sea); stroke: none; }
-.outline { fill: none; stroke: var(--bline); stroke-width: 1.4; vector-effect: non-scaling-stroke; pointer-events: none; }
+.outline { fill: none; stroke: var(--bline); stroke-width: 1.3; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; }
 .outline.sel { stroke: var(--ink); stroke-width: 3.2; }
 .outline.approx { stroke-dasharray: 6 4; }
 /* selection: a bold line drawn just outside whatever is selected (nation, territory or region) */
@@ -418,13 +418,15 @@ function init(D) {
       const d = pathOf(r.polys);
       const base = el("path", { d, class: t.sea ? "sea" : "cell" }, gLand);
       const pat = t.sea ? null : el("path", { d, class: "pat", fill: "none" }, gLand);
-      const c = { t, r: r.name, base, pat, whole: pathOf(t.polys), centre: r.centre || t.centre,
+      const c = { t, r: r.name, rob: r, polysAfter: r.polys, base, pat, whole: pathOf(t.polys), centre: r.centre || t.centre,
         fight: t.sea ? null : el("path", { d, class: "fight", fill: "url(#fightpat)" }, gFight) };
       cells.push(c); cellOf.set(base, c);
       if (!t.sea) {
         base.addEventListener("click", () => { if (moved) return;
           if (base.classList.contains("dim")) { leaveList(); st.back = []; st.sel = null; st.iso = null; if (phone()) st.sheet = "closed"; render(); return; }
           const m = lab(); leaveList();
+          const same = st.sel && st.sel.t === t.name && (m === "regions" ? st.sel.r === r.name : m === "territories" && !st.sel.r);
+          if (same) { select(null); return; }  // clicking what's already selected clears it
           if (m === "nations") pickNation(r.name ? holderAt(t.name, r.name, st.s) : holderAt(t.name, "", st.s), "map");
           else if (m === "territories") select(t.name, "");
           else if (m === "regions") select(t.name, r.name);
@@ -432,6 +434,11 @@ function init(D) {
         base.addEventListener("pointermove", ev => { if (ev.pointerType !== "touch") tip(ev, c); });
         // leaving one shape (by moving, or because zooming slid another under the pointer): show whatever
         // is under the pointer now, or hide the tooltip if that's not land
+        base.addEventListener("pointerleave", ev => { if (ev.pointerType === "touch") return;
+          const e = document.elementFromPoint(ev.clientX, ev.clientY), c2 = e && cellOf.get(e);
+          if (c2) tip(ev, c2); else $("tip").hidden = true; });
+      } else {  // seas: just their name on hover
+        base.addEventListener("pointermove", ev => { if (ev.pointerType !== "touch") tip(ev, c); });
         base.addEventListener("pointerleave", ev => { if (ev.pointerType === "touch") return;
           const e = document.elementFromPoint(ev.clientX, ev.clientY), c2 = e && cellOf.get(e);
           if (c2) tip(ev, c2); else $("tip").hidden = true; });
@@ -448,7 +455,8 @@ function init(D) {
     const lb = el("text", { class: "flabel" }, gLab); lb.textContent = f.name.replace(/^The /, "");
     const xs = f.polys.flat().map(p => p[0]), ys = f.polys.flat().map(p => p[1]);
     const x = { f, g, lb, cx: (Math.min(...xs) + Math.max(...xs)) / 2, cy: (Math.min(...ys) + Math.max(...ys)) / 2 };
-    g.addEventListener("click", e => { e.stopPropagation(); if (moved) return; leaveList(); selectFeature(f); });
+    g.addEventListener("click", e => { e.stopPropagation(); if (moved) return; leaveList();
+      if (st.feat === f && !st.sel && !st.iso) { st.feat = null; if (phone()) st.sheet = "closed"; render(); } else selectFeature(f); });
     g.addEventListener("pointermove", ev => { if (ev.pointerType === "touch") return; const box = $("mapwrap").getBoundingClientRect(), tp = $("tip");
       tp.innerHTML = `<b>${esc(f.name)}</b><div>${esc(f.aka)}</div><div>Opened ${esc(S[f.s])}</div>`; tp.hidden = false;
       tp.style.left = Math.min(ev.clientX - box.left + 14, box.width - tp.offsetWidth - 6) + "px"; tp.style.top = Math.min(ev.clientY - box.top + 14, box.height - tp.offsetHeight - 6) + "px"; });
@@ -510,7 +518,18 @@ function init(D) {
   const natLabel = i => { while (pool.length <= i) pool.push(el("text", { class: "nlabel" }, gNat)); return pool[i]; };
 
   const fillFor = id => { const x = H[id] || H.unknown; return `var(--${x.slot})`; };
+  let eraShown = "after";
+  function applyEra() {
+    const e = D.eras && st.s < D.eras.split ? "before" : "after"; if (e === eraShown) return; eraShown = e;
+    for (const c of cells) { if (c.t.sea) continue; const alt = (D.eras.cells || {})[c.t.name + "|" + c.r]; if (!alt) continue;
+      const polys = e === "before" ? alt : c.polysAfter, d = pathOf(polys);
+      for (const x of [c.base, c.pat, c.fight]) x.setAttribute("d", d); c.rob.curPolys = polys; }
+    for (const t of T) { const alt = (D.eras.outlines || {})[t.name]; if (!alt) continue;
+      t.curPolys = e === "before" ? alt : t.polys; t.outline.setAttribute("d", pathOf(t.curPolys));
+      for (const c of cells) if (c.t === t) c.whole = pathOf(t.curPolys); }
+  }
   function paint() {
+    applyEra();
     for (const c of cells) {
       if (c.t.sea) continue;
       const hid = c.r ? holderAt(c.t.name, c.r, st.s) : holderAt(c.t.name, "", st.s);
@@ -534,7 +553,7 @@ function init(D) {
       c.fight.style.display = st.fight && fightAt(c.t.name, c.r, st.s) ? "" : "none";
     }
     for (const t of T) {
-      t.outline.classList.toggle("sel", !!st.sel && st.sel.t === t.name);
+      t.outline.classList.toggle("sel", !!st.sel && st.sel.t === t.name && !st.sel.r);
       if (t.mark) { const m = lab(), n = st.marks && (m === "territories" || m === "none") && markFor(t) ? countAt(t.name, st.s) : 0;
         t.mark.style.display = n ? "" : "none"; t.markN = n;
         if (n) showMark({ g: t.mark, c: t.mc, t: t.mt }, t.centre[0], t.centre[1], n, unit() * (svg.clientWidth < 520 ? 0.7 : 1)); }
@@ -551,7 +570,7 @@ function init(D) {
     // the selected nation, territory or region, outlined
     let sd = "";
     if (st.iso) sd = cells.filter(c => !c.t.sea && c.hid === st.iso).map(c => c.base.getAttribute("d")).join("");
-    else if (st.sel) { const t = byName[st.sel.t], sr = st.sel.r && t.regions.find(r => r.name === st.sel.r); sd = sr ? pathOf(sr.polys) : pathOf(t.polys); }
+    else if (st.sel) { const t = byName[st.sel.t], sr = st.sel.r && t.regions.find(r => r.name === st.sel.r); sd = sr ? pathOf(sr.curPolys || sr.polys) : pathOf(t.curPolys || t.polys); }
     for (const x of [selHole, selHalo, selLine]) x.setAttribute("d", sd);
     // a selected region gets its own event count
     const sr = st.sel && st.sel.r && byName[st.sel.t].regions.find(r => r.name === st.sel.r);
@@ -669,6 +688,9 @@ function init(D) {
   }
   function tip(ev, c) {
     lastTip = { clientX: ev.clientX, clientY: ev.clientY };
+    if (c.t.sea) { const box = $("mapwrap").getBoundingClientRect(), tp = $("tip");
+      tp.innerHTML = `<b>${esc(c.t.name)}</b><div>Sea</div>`; tp.hidden = false;
+      tp.style.left = Math.min(ev.clientX - box.left + 14, box.width - tp.offsetWidth - 6) + "px"; tp.style.top = Math.min(ev.clientY - box.top + 14, box.height - tp.offsetHeight - 6) + "px"; return; }
     const box = $("mapwrap").getBoundingClientRect(), tp = $("tip"), m = lab();
     const place = (x, y) => { tp.hidden = false; tp.style.left = Math.min(x, box.width - tp.offsetWidth - 6) + "px"; tp.style.top = Math.min(y, box.height - tp.offsetHeight - 6) + "px"; };
     if (m === "nations") {  // the nation holding this spot, nothing about the territory

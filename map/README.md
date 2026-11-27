@@ -3,6 +3,11 @@
 An interactive map of the Empire and its neighbours with a timeline from 376YE Winter to
 388YE Winter. Open `index.html` in a browser; it is self-contained.
 
+- **Shapes:** territory and region shapes are cleaned into one gap-free set (`mapbuilder/coverage.py`):
+  the wiki's outlines don't quite meet, so slivers between neighbours are shared out and overlaps
+  removed. Territory, region and nation lines all follow the same edges, so they line up close in.
+- **Selecting:** clicking the selected nation, territory, region or the sinkhole again clears it; in
+  Regions view only the clicked region is outlined. Seas show their name on hover.
 - **Zoom:** the mouse wheel, pinch, or the + and − buttons, which step exactly one wheel notch.
 - **Map:** 62 territories and seas, 312 regions. Pan, zoom, click a territory or region. Click
   empty sea or background to clear the selection.
@@ -45,7 +50,8 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   list. A third tab lists earlier history.
 - **The Great Sinkhole** (Lorenzo's Deep Pockets), which the wiki's map draws inside Miaren, shows as a
   black pit from 381YE Summer, when it opened (Wind of Fortune "Rocks and gravel"); before that the
-  spot is ordinary Goldglades land. Hover or click it for what it is.
+  spot is ordinary land shared between Wood Heath, Vardstein Vale and Goldglades, whose borders meet in
+  the middle. Hover or click it for what it is.
 - **Search** for a territory, region or event title.
 - **On phones** the map fills the screen. ⌕ opens search and ☰ the map options (with the credits);
   the Key button shows the keys. Tapping a place or nation slides its information up from the
