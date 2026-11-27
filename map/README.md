@@ -10,10 +10,10 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   barbarian nations have their own colours, as do the vallorn (plum), uncontrolled land
   (parchment) and Imperial land not yet given to a nation (dotted gold). Only minor foreign
   powers are grey.
-- **Keys:** the line key and, under it, a Nations key with every power's colour that season (click
-  one to open it). The Nations key folds away, and is folded on phones. Map names never sit under
+- **Keys:** the line key and, under it, a Nations key: a short scrollable list of every power's colour
+  that season (click one to open it). The Nations key folds away, and is folded on phones. Map names never sit under
   the keys.
-- **Nation names** are off by default (the key does the job); tick the box to show them.
+- **Nation names** are on by default; untick the box to rely on the key alone.
 - **Labels (Auto by default):** Auto shows nation names zoomed out, territory names in between
   and region names only when well zoomed in. Nations, Territories, Regions or None fix it. Labels never sit under an
   event-count circle.

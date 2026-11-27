@@ -88,7 +88,7 @@ a { color: var(--accent); }
 @media (max-width: 600px) { .flegend, .nkey { font-size: .72rem; padding: 3px 7px; } .keys { max-width: 70%; }
   .labgroup { flex-wrap: wrap; min-width: 0; } .seg button { padding: 4px 7px; } .controls { min-width: 0; } }
 @media (max-width: 380px) { .brand small { display: block; margin-left: 0; } .seg button { padding: 4px 5px; font-size: .85rem; } .labgroup { gap: 3px; } }
-.nkey .nk { overflow: auto; min-height: 0; padding: 2px 0 2px; display: grid; grid-template-columns: auto auto; column-gap: 12px; align-content: start; }
+.nkey .nk { overflow-y: auto; max-height: 220px; padding: 2px 6px 2px 0; display: flex; flex-direction: column; }
 .nkey .nkg { grid-column: 1 / -1; }
 .nkey .nkg { color: var(--muted); font-size: .72rem; text-transform: uppercase; letter-spacing: .08em; margin-top: 5px; }
 .nkey button { display: flex; align-items: center; gap: 5px; border: 0; background: none; padding: 0; cursor: pointer; text-align: left; font-size: .76rem; width: 100%; white-space: nowrap; }
@@ -202,7 +202,7 @@ details.hist summary { cursor: pointer; font-weight: 700; }
           <button id="lab-none" aria-pressed="false">None</button>
         </div>
       </div>
-      <label class="check"><input type="checkbox" id="show-names"> Nation names</label>
+      <label class="check"><input type="checkbox" id="show-names" checked> Nation names</label>
       <label class="check"><input type="checkbox" id="show-front" checked> Borders</label>
       <label class="check"><input type="checkbox" id="show-fight" checked> Fighting</label>
       <label class="check"><input type="checkbox" id="show-marks" checked> Event counts</label>
@@ -271,7 +271,7 @@ function init(D) {
   const types = [...new Set(D.events.map(e => e.ty))];
   const busy = S.map((_, i) => D.events.filter(e => e.s === i).length);
   let open = last; while (open > 0 && busy[open] < 10) open--;
-  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "auto", names: false, labOverride: null, fromList: false, front: true, isoFrom: "list", fight: true, back: [] };
+  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "auto", names: true, labOverride: null, fromList: false, front: true, isoFrom: "list", fight: true, back: [] };
   $("snap").textContent = "wiki snapshot " + D.meta.snapshot.slice(0, 10);
 
   // ---- control state: holder of every place at every season, worked out by the build (one source of truth)
