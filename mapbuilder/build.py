@@ -267,6 +267,17 @@ def apply_changes(terr, regions, seasons, ctl):
     return state
 
 
+# The archive's markdown on GitHub. Archive links must be absolute: the published site holds only map/,
+# so a relative "../wiki/..." link would resolve against the site's own domain and break.
+ARCHIVE_BASE = "https://github.com/Joeb1603/Anvil/blob/main/"
+
+
+def archive_url(rel_path):
+    from urllib.parse import quote
+    path = rel_path[3:] if rel_path.startswith("../") else rel_path
+    return ARCHIVE_BASE + quote(path)
+
+
 def build(archive_links=True):
     pages = read_json(DATA / "pages.json")
     manifest = read_json(DATA / "manifest.json")
@@ -348,7 +359,7 @@ def build(archive_links=True):
         })
     sidx = {s: i for i, s in enumerate(seasons)}
     events = [{"ti": e["title"], "s": sidx[e["event"]], "ty": e["type"], "pl": e["places"], "ex": e["excerpt"],
-               "u": e["source"], "p": e["path"] if archive_links else None} for e in ev["events"]]
+               "u": e["source"], "p": archive_url(e["path"]) if archive_links else None} for e in ev["events"]]
     history = [{"y": h["year"], "t": h["territory"], "tx": h["text"], "u": h["source"]} for h in ev["history"]] + ctl["history"]
     history.sort(key=lambda h: (h["y"], h["t"]))
     xs = [p[0] for t in terr.values() for poly in t["polys"] for p in poly]
@@ -416,7 +427,7 @@ if __name__ == "__main__":
         out = sys.argv[sys.argv.index("--artifact") + 1]
         import pathlib
         pathlib.Path(out).mkdir(parents=True, exist_ok=True)
-        d2, _ = build(archive_links=False)
+        d2, _ = build()
         (pathlib.Path(out) / "data.json").write_text(json.dumps(d2, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
         (pathlib.Path(out) / "empire-atlas.html").write_text(
             (ROOT / "mapbuilder" / "template.html").read_text(encoding="utf-8").replace("<!--DATA-->", ""), encoding="utf-8")
