@@ -760,10 +760,6 @@
 "p": false,
 "t": "Imperial fleets blockaded Apulus's waters, sinking Grendel supply ships and capturing treasure ships, though some Imperial ships were said to trade at Apulian."
 },
-"Spiral/Lower Tarn Valley": {
-"p": false,
-"t": "Not listed"
-},
 "Spiral/Screed": {
 "p": false,
 "t": "Highborn and Urizen held Fort Mezudan in Screed, facing the dug-in Grendel Salt Dogs and Stone Gyre."
@@ -5309,10 +5305,6 @@
 "p": true,
 "t": "Mentioned in passing: the Fire of the South's soldiers were praised as soldiers of the Bay of Catazar."
 },
-"Bay of Catazar_placeholder": {
-"p": true,
-"t": ""
-},
 "Bregasland": {
 "p": false,
 "t": "The Fire of the South rested on the causeway east of Sallow, then entered West Ranging on the marshfolk's flat-bottomed boats."
@@ -7540,10 +7532,6 @@
 "Bay of Catazar": {
 "p": true,
 "t": "Mentioned in passing: Grendel soldiers at Apulian threw themselves into the Bay rather than face the Iron Helms."
-},
-"Bay of Catazar ": {
-"p": true,
-"t": ""
 },
 "Bregasland": {
 "p": true,
@@ -20556,7 +20544,7 @@
 "p": false,
 "t": "The Freeborn assembly urged the Red Wind Corsairs to search the ruins of the Shining Pillar for Guerra's crystal. The site is now a maelstrom with no rubble to search."
 },
-"Skarsind/Crow's Ridge": {
+"Skarsind/Crow’s Ridge": {
 "p": false,
 "t": "Crow's Ridge was cited as Dogri Thulebane's legacy, the site of his stand at Crow's Keep before the Thule took it, in the recognition escalating him as an exemplar of Loyalty."
 },
@@ -60282,7 +60270,7 @@
 "r": {
 "Skarsind/Southpine": {
 "p": false,
-"t": "The Ossuary Temple is to be raised in Southpine from 60 wains of white granite, as a resting place for the bones the Illarawm brought out of Ossium."
+"t": "Southpine is the site of the new Ossuary Temple, which will take six months to build and will house the Illarawm sept's recovered ancestral bones."
 }
 },
 "t": {
@@ -60293,10 +60281,6 @@
 "Skarsind": {
 "p": false,
 "t": "Skarsind is to gain the Ossuary Temple, a folly ceded to the Illarawm sept, and its senator seconded the motion."
-},
-"Skarsind/Southpine": {
-"p": false,
-"t": "Southpine is the site of the new Ossuary Temple, which will take six months to build and will house the Illarawm sept's recovered ancestral bones."
 }
 }
 },
@@ -63512,10 +63496,6 @@
 "Liathaven": {
 "p": false,
 "t": "Liathaven was to gain a fortified manor as a refuge against Jotun raids and mountain bandits, but it was destroyed in the Jotun invasion of the territory in late 379YE."
-},
-"Liathaven/Beacon Point": {
-"p": false,
-"t": "Beacon Point was the chosen site for the fortified manor, which was funded with Caerwyn's granite and Thrones in 379YE and later lost to the Jotun invasion."
 }
 }
 },
@@ -72460,7 +72440,7 @@
 "p": true,
 "t": "Mentioned in passing: Crow's Ridge lies in the south-eastern foothills of the Silver Peaks."
 },
-"Skarsind/Crow's Ridge": {
+"Skarsind/Crow’s Ridge": {
 "p": false,
 "t": "Dogri's followers fortified Crow's Ridge, collapsed passes and destroyed a bridge, and declared it Wintermark still. The region was not counted as Imperial Orc territory, and its defenders vowed to fight any intervention."
 },
@@ -80883,7 +80863,7 @@
 "p": false,
 "t": "Attempts to establish farms in barren Sinfoyard were going badly, and a proposed shrine in Beoraidh would also preach to its orcs."
 },
-"Miechernya": {
+"Miekarova/Miechernya": {
 "p": false,
 "t": "Eldfell was iced over and garrisoned with bear-like figures, and Rak warned the Dragons might act themselves if the Falconer's madness kept troubling Miechernya."
 },
@@ -82959,10 +82939,6 @@
 "Temeschwar": {
 "p": false,
 "t": "One of Temeschwar's regions has fallen under a haunting presence that kills anyone threatening violence, and some residents are fleeing Metri for the presumed safety of the rest of the territory."
-},
-"The League": {
-"p": true,
-"t": "Mentioned in passing: the League is not a territory, but its Metri region in Temeschwar is the region affected."
 }
 }
 },
@@ -95843,10 +95819,6 @@
 "Upwold": {
 "p": false,
 "t": "Pickham Monastery's grave-orchard in Upwold could be consecrated to Vigilance. A proposed mandate would send Upwold's Vigilant pilgrims hunting heretics, traitors and other threats, with a report of active dangers due at the Winter Solstice 385YE."
-},
-"Upwold/Tower March": {
-"p": false,
-"t": "The Sentinel Gate opened to Benson's Orchard in Tower March, letting around twenty Marchers led by Martin Orchard consecrate the exemplar's resting place to Vigilance with true liao."
 }
 }
 },
@@ -113561,17 +113533,17 @@
 },
 "o": "In Autumn 388YE the Thule of Otkodov remained at peace with the Empire. Through their ambassador Runa they proposed coordinating magic on shared territories, gave notice of a planned Summer enchantment on Ossium, ended military cooperation in Ulnak after taking Bonewall from the Druj, and offered payment for Imperial help against the Mirk Lizards.",
 "r": {
-"Bonewood": {
-"p": false,
-"t": "The Unbounded Tower of Feresh coven planned to cast the Thule Summer enchantment at 7pm on Saturday, at a regio near the Silent Pines in Bonewood, unless the Empire declined in time."
-},
-"Ghul'thak Forest": {
+"Forest of Ulnak/Ghul'thak Forest": {
 "p": false,
 "t": "Mirk Lizards, practitioners of the rite of excommunication, were trying to go to ground in Ghul'thak Forest. Warlock Krafvötn offered mana crystals to the Master of the School of Exorcism to root them out."
 },
-"Grimfen Mire": {
+"Forest of Ulnak/Grimfen Mire": {
 "p": false,
 "t": "A band of Mirk Lizards was travelling to butcher a Grimfen Mire clan that had allied with the Thule. Warlock Tungjökull asked Rhydian de Rondell to slay them in return for mana crystals."
+},
+"Ossium/Bonewood": {
+"p": false,
+"t": "The Unbounded Tower of Feresh coven planned to cast the Thule Summer enchantment at 7pm on Saturday, at a regio near the Silent Pines in Bonewood, unless the Empire declined in time."
 }
 },
 "t": {
@@ -115420,7 +115392,7 @@
 "p": false,
 "t": "With Thule permission, Wintermark forces searched the Silver Peaks for Maarik the Golden Tongue, who has withdrawn to Aino's Rest. The region is also named in the Thule's demand for permanent recognition as Otkodov."
 },
-"Skarsind/Crow's Ridge": {
+"Skarsind/Crow’s Ridge": {
 "p": false,
 "t": "Crow's Ridge, taken by the Thule when the peace was extended in 382YE, is named in the motion the Dragons insist the Senate pass unchanged."
 }
@@ -119388,10 +119360,6 @@
 "p": true,
 "t": "Mentioned in passing: listed among the marshlands whose draining would most obviously improve Holberg's food supply, though the Seven Dykes proposal drains only Rebeshof and Utterlund."
 },
-"Holberg/Estmure": {
-"p": false,
-"t": "Estmure's mountain pass, which the Druj never closed, and the unbreakable Adamant Gate mean Holberg cannot be besieged unless Estmure falls. The proposed stores would protect the city for two seasons afterwards."
-},
 "Holberg/Holfried": {
 "p": false,
 "t": "The proposed Seven Stores edifice, with three deep wells and seven Virtue-named food stores, would be built in hilly Holfried, where the city abuts Estmure's mountains."
@@ -121247,10 +121215,6 @@
 "Druj": {
 "p": false,
 "t": "The Druj had taken Drycastle and expelled the Imperial presence from the Barrens. This left the renowned Renard vineyards and their Barrenberry grapes in orcish hands."
-},
-"Semmerholm": {
-"p": false,
-"t": "Ancient families and House Renard's many farm workers, driven out of the Barrens, made their way to the relative safety of Semmerholm's wooded glades. They arrived with no harvest to see them through the coming winter."
 }
 },
 "o": "After the fall of Drycastle to the Druj, several minor characters were expected at Anvil in Summer 381YE to sell rare goods. These included Earl Hugo of House Renard with the last Barrenberry seeds, and a Dawnish seneschal with a lost senator's writings.",
@@ -121964,10 +121928,6 @@
 "Segura": {
 "p": false,
 "t": "Ashes from the Dry Patrician that attacked Segura were delivered to Azoth. The Crucible's study of them may yield a new ritual alchemy for Bakar i Riqueza once the Blight is resolved."
-},
-"Segura/Lucksprings": {
-"p": false,
-"t": "The hard-fought Spring Equinox incursion against the Parched in Lucksprings is where Bakar i Riqueza apparently claimed the Dry Patrician dust and ashes that Azoth is now studying."
 }
 }
 },
@@ -123709,29 +123669,29 @@
 },
 "o": "A seasonal roundup of magical happenings across the Empire in Autumn 385YE: the Unfettered Mind identified the eternals behind two citadel rituals, Sadogua moved the ruins of Damakhan's Forge to Zenith, Sanvar Isk opened the Loom of Spells in Tassato, and several eternals made offers. A Varushkan expedition also found Zoria's Cave claimed by a hungry darkness.",
 "r": {
-"Cigno": {
-"p": false,
-"t": "The Sentinel Gate was set to open to Bertram's Square in Cigno, allowing up to 50 people to settle the Lictors' dramaturgical debts."
-},
-"Gambit": {
+"Kahraman/Gambit": {
 "p": true,
 "t": "Mentioned in passing: no events take place in Gambit; the word appears only in the name of Zakalwe's herald, the Opening Gambit."
 },
-"Lustri": {
-"p": true,
-"t": "Mentioned in passing: scholars of the Unfettered Mind ventured into the depths of Lustri to consult an ancient tree spirit during their research."
-},
-"Opascari": {
-"p": false,
-"t": "Zoria's Cave in the Opascari mountains was found filled with a hungry darkness that ate light and swallowed several of the expedition."
-},
-"Southmoor": {
+"Mournwold/Southmoor": {
 "p": false,
 "t": "The Sentinel Gate was set to open to Crowned Trees in Southmoor, where Brother Martin Orchard was to confront Quiet Charlie and gathered cultists and heralds."
 },
-"Tassato Mestra": {
+"Sarvos/Cigno": {
+"p": false,
+"t": "The Sentinel Gate was set to open to Bertram's Square in Cigno, allowing up to 50 people to settle the Lictors' dramaturgical debts."
+},
+"Tassato/Tassato Mestra": {
 "p": false,
 "t": "An Autumn regio in Tassato Mestra released heralds who built the Bridges and Chains doorway to the Loom of Spells."
+},
+"Volodmartz/Opascari": {
+"p": false,
+"t": "Zoria's Cave in the Opascari mountains was found filled with a hungry darkness that ate light and swallowed several of the expedition."
+},
+"Zenith/Lustri": {
+"p": true,
+"t": "Mentioned in passing: scholars of the Unfettered Mind ventured into the depths of Lustri to consult an ancient tree spirit during their research."
 }
 },
 "t": {
@@ -125056,10 +125016,6 @@
 "Tassato": {
 "p": false,
 "t": "If Robert Stewart left unconvinced, labourers in Tassato would be encouraged to strike, adding three crowns per wain to new commissions from Winter 388YE. Tassato was also home to the merchant prince who declared a vendetta against the Shadowed Torchbearer."
-},
-"Tassato/Tassato Mestra": {
-"p": false,
-"t": "The disputed Tassatan Hills ilium mine lies in the hills of Tassato Mestra. The Fellowship sought its return to the League, the 85 thrones from its auction, or other compensation."
 }
 }
 },
@@ -128940,10 +128896,6 @@
 "Imperial Orcs": {
 "p": false,
 "t": "The nation's reavers answered Skywise Gralka's statement but lacked the fleets to rescue the Axou orcs alone, so Gralka sought and later enacted a wider Synod mandate. Rescued orcs, who are city-dwellers with some magical knowledge, could offer an opportunity for the nation."
-},
-"Skarsind": {
-"p": false,
-"t": "Imperial Orc reavers offered to escort rescued Axou orcs to Skarsind. If at least 10,000 fleet strength were committed, they would become a significant force there, comparable in impact to the Ossean septs."
 }
 },
 "o": "Imperial Orc reavers answering Skywise Gralka's call found the freed orcs of Axos living in dreadful conditions, but the nation lacked the ships to help them. The page proposed a Synod mandate urging Imperial fleet captains to carry them to the Empire before the Commonwealth did so itself, and Gralka later enacted that mandate after the Winter Solstice.",

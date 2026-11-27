@@ -157,14 +157,40 @@ def save(path, obj):
     path.write_text(json.dumps(obj, ensure_ascii=False, indent=0, sort_keys=True) + "\n", encoding="utf-8")
 
 
+def _norm(name: str) -> str:
+    n = re.sub(r"_?placeholder", "", str(name), flags=re.I).replace("’", "'").strip().lower()
+    return re.sub(r"^the\s+", "", re.sub(r"\s+", " ", n))
+
+
+def tidy(lines: dict, job: dict) -> dict:
+    """File each line under a name that was asked for, whichever list the model put it in (a region in
+    the territory list, a nation as a territory, a stray suffix); lines for anything else are dropped."""
+    wanted = {"n": job["nations"], "t": [p["territory"] for p in job["places"]],
+              "r": [f"{p['territory']}/{r}" for p in job["places"] for r in p["regions"]]}
+    pool = {}
+    for k in ("n", "t", "r"):
+        for name, v in (lines.get(k) or {}).items():
+            pool.setdefault(_norm(name), v)
+    out = {}
+    for k, names in wanted.items():
+        out[k] = {}
+        for name in names:
+            v = pool.get(_norm(name))
+            if v is None and k == "r":  # a region given without its territory
+                v = pool.get(_norm(name.split("/", 1)[1]))
+            if v is not None:
+                out[k][name] = v
+    return out
+
+
 def store(summaries: dict, job: dict, text: str) -> bool:
     try:
         r = json.loads(text)
     except ValueError:
         return False
     pick = lambda k: {x["name"]: {"t": x["line"], "p": bool(x["passing"])} for x in r.get(k, []) if x.get("name")}
-    summaries[job["title"]] = {"key": job["key"], "o": r["overview"].strip(), "d": r["detail"].strip(),
-                               "n": pick("nations"), "t": pick("territories"), "r": pick("regions")}
+    lines = tidy({"n": pick("nations"), "t": pick("territories"), "r": pick("regions")}, job)
+    summaries[job["title"]] = {"key": job["key"], "o": r["overview"].strip(), "d": r["detail"].strip(), **lines}
     return True
 
 
@@ -179,6 +205,7 @@ def main(argv=None):
     ap.add_argument("--collect", action="store_true")
     ap.add_argument("--wait", action="store_true", help="with --batch/--collect: wait for the batch to finish")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--tidy", action="store_true", help="re-file stored lines under the requested names (no API calls)")
     ap.add_argument("--only", nargs="*", help="page titles to (re)summarise")
     ap.add_argument("--changed", action="store_true",
                     help="only pages downloaded in this update (.cache/changed.json) - for the daily run")
@@ -186,6 +213,14 @@ def main(argv=None):
 
     summaries = load(OUT, {})
     spent = load(COST, {"dollars": 0.0, "runs": []})
+    if a.tidy:
+        byt = {j["title"]: j for j in jobs()}
+        for t, x in summaries.items():
+            if t in byt:
+                x.update(tidy({k: x.get(k, {}) for k in ("n", "t", "r")}, byt[t]))
+        save(OUT, summaries)
+        print(f"tidied {len(summaries)} summaries")
+        return 0
     todo = outstanding(summaries)
     if a.only:
         todo = [j for j in jobs() if j["title"] in set(a.only)]

@@ -1,47 +1,6 @@
 {
  "failures": [],
- "warnings": [
-  {
-   "check": "summary-stale",
-   "key": "381YE Spring Equinox winds of war",
-   "msg": "381YE Spring Equinox winds of war: summary covers Bay of Catazar_placeholder, which the atlas no longer attaches to it; it will be rewritten on the next run."
-  },
-  {
-   "check": "summary-stale",
-   "key": "382YE Summer Solstice winds of war",
-   "msg": "382YE Summer Solstice winds of war: summary covers Bay of Catazar , which the atlas no longer attaches to it; it will be rewritten on the next run."
-  },
-  {
-   "check": "summary-stale",
-   "key": "Construct Ossuary Temple",
-   "msg": "Construct Ossuary Temple: summary covers Skarsind/Southpine, which the atlas no longer attaches to it; it will be rewritten on the next run."
-  },
-  {
-   "check": "summary-stale",
-   "key": "Construct fortified manor in Liathaven",
-   "msg": "Construct fortified manor in Liathaven: summary covers Liathaven/Beacon Point, which the atlas no longer attaches to it; it will be rewritten on the next run."
-  },
-  {
-   "check": "summary-stale",
-   "key": "Into the woods",
-   "msg": "Into the woods: summary covers The League, which the atlas no longer attaches to it; it will be rewritten on the next run."
-  },
-  {
-   "check": "summary-stale",
-   "key": "Pruning shears",
-   "msg": "Pruning shears: summary covers Upwold/Tower March, which the atlas no longer attaches to it; it will be rewritten on the next run."
-  },
-  {
-   "check": "summary-stale",
-   "key": "Tread of dust and darkness",
-   "msg": "Tread of dust and darkness: summary covers Segura/Lucksprings, which the atlas no longer attaches to it; it will be rewritten on the next run."
-  },
-  {
-   "check": "summary-stale",
-   "key": "Wayfaring strangers",
-   "msg": "Wayfaring strangers: summary covers Tassato/Tassato Mestra, which the atlas no longer attaches to it; it will be rewritten on the next run."
-  }
- ],
+ "warnings": [],
  "accepted": [
   {
    "check": "previous-holder",
