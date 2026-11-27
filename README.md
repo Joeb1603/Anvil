@@ -13,7 +13,9 @@ pages carrying songs appear as a title and a link.
 
 ## Empire Atlas
 
-`map/index.html` is an interactive map with a timeline, built from the archive: who held each
+`map/index.html` is an interactive map with a timeline, built from the archive, published at
+<https://test.joe-bainbridge.com> by `.github/workflows/pages.yml` on every push to `main` that
+touches `map/`: who held each
 territory and region season by season, and what happened where. See `map/README.md` for how it
 is made and how far to trust each layer.
 
