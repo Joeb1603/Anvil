@@ -247,6 +247,8 @@ def main(argv=None):
     print(f"{len(todo)} events to summarise | estimated ${est:.2f} | spent so far ${spent['dollars']:.2f} of ${BUDGET:.0f}")
     if a.dry_run:
         return 0
+    if not todo and not a.collect and not (a.batch and PENDING.exists()):
+        return 0  # nothing to do: no API call, nothing logged
     if not os.environ.get("ANTHROPIC_API_KEY") and not a.collect:
         print("No ANTHROPIC_API_KEY: nothing sent.")
         return 0
