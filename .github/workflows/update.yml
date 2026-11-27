@@ -74,13 +74,14 @@ jobs:
         if: steps.gate.outputs.run == 'true'
         run: python3 -m mapbuilder.run
 
-      # Summaries for new or edited events (a few cents each; does nothing without the API key secret)
+      # Summaries for events whose pages were new or edited in this update (a few cents each; nothing
+      # without the API key secret). The backlog is the separate 'Summarise events' workflow.
       - name: Summarise new events
         if: steps.gate.outputs.run == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          python3 -m mapbuilder.summarise --limit 60 || echo "::warning::Summaries not updated"
+          python3 -m mapbuilder.summarise --changed --limit 60 || echo "::warning::Summaries not updated"
           python3 -m mapbuilder.build
 
       # The build also runs the atlas checks (map/checks.md). A wiki change can't be refused, so failures

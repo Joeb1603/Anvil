@@ -180,6 +180,8 @@ def main(argv=None):
     ap.add_argument("--wait", action="store_true", help="with --batch/--collect: wait for the batch to finish")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--only", nargs="*", help="page titles to (re)summarise")
+    ap.add_argument("--changed", action="store_true",
+                    help="only pages downloaded in this update (.cache/changed.json) - for the daily run")
     a = ap.parse_args(argv)
 
     summaries = load(OUT, {})
@@ -187,6 +189,10 @@ def main(argv=None):
     todo = outstanding(summaries)
     if a.only:
         todo = [j for j in jobs() if j["title"] in set(a.only)]
+    if a.changed:
+        cp = ROOT / ".cache" / "changed.json"
+        changed = set(json.loads(cp.read_text())) if cp.exists() else set()
+        todo = [j for j in todo if j["title"] in changed]
     if a.limit and a.limit <= 30 and not a.batch and not a.only:
         # a pilot: a spread of event types and years rather than the earliest few
         by = {}
