@@ -1,0 +1,26 @@
+{
+  "Tsirku": {
+    "note": "The wiki's own map stops short of Tsirku, so this outline is an estimate. The reports place it north of Sermersuaq, with the Jotun jarldom of Tromsa to the west and the Thule territory of Urdur to the east, and believe it borders the Sea of Snow. Only the southern edge follows real borders; the rest is a guess, as are the region boundaries.",
+    "holder": "Uncontrolled",
+    "source": "Snap rope and pass foil",
+    "match": "\\bTsirku\\b",
+    "region_match": {"Warriors' Gate": "Warriors'? Gate"},
+    "polys": [[[439, 431], [519, 487], [609, 451], [741, 461], [748, 426], [729, 390], [772, 327], [817, 297],
+               [800, 262], [700, 240], [560, 248], [470, 290], [445, 360]]],
+    "regions": {
+      "Warriors' Gate": [620, 430],
+      "Unnamed region": [610, 350],
+      "Unexplored north": [610, 268]
+    },
+    "log": [
+      {"season": "388YE Spring", "region": null, "source": "Snap rope and pass foil",
+       "text": "A mandate launches the exploration of Tsirku, with the long-term aim of making it part of Wintermark. Almost nothing is known about the land beyond its southern edge."},
+      {"season": "388YE Summer", "region": "Warriors' Gate", "source": "Warriors' Gate",
+       "text": "Warriors' Gate is explored, mostly by Winterfolk with one Navarr band and some Dawnish adventurers. It is too harsh for an army to claim; a claim would first need the Citadel of the Warm Hearth to be built."},
+      {"season": "388YE Autumn", "region": "Unnamed region", "source": "Roses in the snow",
+       "text": "Explorers push into the icy, chasm-cut region north of Warriors' Gate but fall short of mapping it fully. It has no recorded name. Wemba the Bloody is confirmed to be loose in Tsirku, and the Silent Bell's members there vanish."},
+      {"season": "388YE Winter", "region": null, "source": "388YE Winter Solstice interlude",
+       "text": "A Tsirku scouting network can explore one region a season, while the Whisper Gallery works to keep Tsirku's secrets hidden from the scouts."}
+    ]
+  }
+}

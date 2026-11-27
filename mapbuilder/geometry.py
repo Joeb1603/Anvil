@@ -11,6 +11,12 @@ MAP_DIR = ROOT / "map"
 MASTER_SIZE = (1982, 1618)  # pixel size of the wiki's master map the polygons refer to
 
 
+def extra_territories() -> dict:
+    """Hand-made territories the wiki's map does not include (map/extra_territories.json)."""
+    path = MAP_DIR / "extra_territories.json"
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+
+
 def territory_polygons() -> dict:
     """Return {territory: {"polys": [[[x, y], ...], ...], "has_page": bool}}."""
     src = glob.glob(str(DATA / "wikitext" / "Main" / "Gazetteer-*.wiki"))[0]
@@ -27,6 +33,8 @@ def territory_polygons() -> dict:
         name = m.group(2).replace("_", " ").strip()
         entry = out.setdefault(name, {"polys": [], "has_page": name in pages})
         entry["polys"].append(pts)
+    for name, extra in extra_territories().items():
+        out[name] = {"polys": extra["polys"], "has_page": False, "approx": True}
     return out
 
 

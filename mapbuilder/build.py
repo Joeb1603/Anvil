@@ -14,7 +14,7 @@ from scraper.common import DATA, ROOT, read_json
 
 from . import frontiers
 from .events import BREAK_BEFORE
-from .geometry import MAP_DIR, territory_polygons
+from .geometry import MAP_DIR, extra_territories, territory_polygons
 
 SEAS = {"Bay of Catazar", "Sea of Snow", "The Semmerlak"}
 IMPERIAL = ["Dawn", "Highguard", "Imperial Orcs", "Navarr", "The Brass Coast", "The League", "The Marches",
@@ -161,6 +161,8 @@ def load_control(terr, regions, seasons, pages):
         nation[name] = imp[0] if imp else (barb[0] if barb else None)
         imperial[name] = "Imperial Territory" in cats
         start[name] = nation[name] or "Unknown"
+    for name, extra in extra_territories().items():
+        start[name] = extra.get("holder", "Unknown")
 
     def region_of(name, region):
         region = RENAMED.get((name, region), region)
@@ -326,13 +328,21 @@ def build(archive_links=True):
         tslot[t] = min(free, key=lambda s: sum(1 for v in tslot.values() if v == s))
 
     territories = []
+    extras = extra_territories()
+    sidx0 = {s: i for i, s in enumerate(seasons)}
     for name, t in sorted(terr.items()):
         centre, bbox = centre_of(t["polys"])
         info = pages.get(name, {})
+        extra = extras.get(name)
+        if extra:  # no wiki page of its own: link to the report that introduces it
+            info = {"source": pages.get(extra.get("source"), {}).get("source")}
         territories.append({
             "name": name, "polys": t["polys"], "centre": centre, "bbox": bbox, "sea": name in SEAS,
             "nation": ctl["nation"].get(name), "imperial": ctl["imperial"].get(name, False), "tslot": tslot[name],
             "u": info.get("source"),
+            "approx": bool(extra), "note": extra.get("note") if extra else None,
+            "log": [{"s": sidx0[x["season"]], "r": x.get("region"), "tx": x["text"], "src": x["source"],
+                     "u": pages.get(x["source"], {}).get("source")} for x in (extra or {}).get("log", [])],
             "regions": [{"name": r, "polys": c["polys"], "centre": c["centre"], "placed": c["placed"]}
                         for r, c in shapes.get(name, {}).items()],
         })

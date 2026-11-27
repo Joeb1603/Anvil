@@ -56,6 +56,15 @@ events open with a Winter Solstice, which closes the previous Imperial year: the
 Winter Solstice 2014 as the fifth Empire event and Spring Equinox 2014 as the sixth. That pattern
 holds before and after the pandemic.
 
+### Tsirku
+
+Wintermark began exploring Tsirku, the frozen wasteland north of Sermersuaq, in 388YE. The wiki's
+own map stops short of it, so its outline and three regions (Warriors' Gate, an unnamed region and
+the unexplored north) are hand-drawn estimates from the reports, kept in `extra_territories.json`
+and drawn with a dashed border. Only the southern edge follows real borders. Nobody holds it yet.
+Selecting it shows a dated exploration log with links to the source reports, and every dated page
+that mentions Tsirku is placed on it.
+
 ### The Covid break
 
 The Covid lockdown fell between 383YE Autumn (Autumn Equinox 2019) and 383YE Winter. That

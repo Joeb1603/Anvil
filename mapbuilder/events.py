@@ -76,6 +76,8 @@ def build_events() -> dict:
     regions = territory_regions()
     path_to_terr = {pages[t]["path"]: t for t in terr if t in pages}
     anchors = {t: {r["anchor"]: r["name"] for r in rs} for t, rs in regions.items()}
+    from .geometry import extra_territories
+    extras = extra_territories()
     events, counts = [], collections.Counter()
     for title, info in pages.items():
         if info["ns"] == 14 or not info["event"]:
@@ -90,6 +92,12 @@ def build_events() -> dict:
             places.setdefault(t, set())
             if frag and frag in anchors.get(t, {}):
                 places[t].add(anchors[t][frag])
+        for t, extra in extras.items():  # territories with no wiki page are matched by name
+            if extra.get("match") and re.search(extra["match"], body):
+                places.setdefault(t, set())
+                for region, rx in (extra.get("region_match") or {}).items():
+                    if re.search(rx, body):
+                        places[t].add(region)
         if not places:
             counts["dated pages with no place"] += 1
             continue
