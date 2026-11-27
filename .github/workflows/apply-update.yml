@@ -10,8 +10,7 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
+  actions: write
 
 # Own queue, so a waiting update is never replaced by a newer run of the daily wiki update.
 concurrency:
@@ -66,11 +65,14 @@ jobs:
           echo "::error::Could not push to main after three attempts."
           exit 1
 
+  # Pages only deploys from main, so start the Pages workflow on main rather than deploying from this branch.
   deploy:
     needs: apply
     if: needs.apply.outputs.pushed == 'true'
-    uses: ./.github/workflows/pages.yml
+    runs-on: ubuntu-latest
     permissions:
-      contents: read
-      pages: write
-      id-token: write
+      actions: write
+    steps:
+      - run: gh workflow run pages.yml --ref main --repo "$GITHUB_REPOSITORY"
+        env:
+          GH_TOKEN: ${{ github.token }}
