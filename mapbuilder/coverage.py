@@ -26,6 +26,7 @@ from shapely.ops import unary_union
 GAP = 4.0     # master-map pixels: slivers up to twice this wide between territories are closed
 GRID = 0.01   # coordinates are snapped to this grid so shared edges match exactly
 SPECK = 6.0   # pieces and holes smaller than this (square master pixels) are dropped
+SIMPLIFY = 0.35  # master pixels: how far a simplified edge may move
 
 
 def _poly(rings):
@@ -167,7 +168,11 @@ def _territories(terr: dict, seas: set, pit=None):
     out = {t: unary_union([g, *grow.get(t, [])]) for t, g in placed.items()}
     if pit is not None:
         out = {t: g.difference(pit) for t, g in out.items()}
-    return {t: _clean(g) for t, g in out.items()}
+    out = {t: _clean(g) for t, g in out.items()}
+    # thin out the vertices the gap splitting adds, keeping shared edges identical on both sides
+    names = list(out)
+    simple = shapely.coverage_simplify([out[t] for t in names], tolerance=SIMPLIFY)
+    return {t: _clean(g) for t, g in zip(names, simple)}
 
 
 def build(terr: dict, shapes: dict, seas: set, pit=None):
@@ -196,7 +201,7 @@ def build(terr: dict, shapes: dict, seas: set, pit=None):
     return {"after": after, "before": before}
 
 
-def rings(geom, nd=2):
+def rings(geom, nd=1):
     """Polygon/MultiPolygon -> [[[x, y], ...], ...] (exteriors and holes, as the page draws them)."""
     out = []
     for g in getattr(geom, "geoms", [geom]):
