@@ -17,7 +17,7 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
 - **Nation names** are on by default; untick the box to rely on the key alone.
 - **Labels (Auto by default):** Auto shows nation names for the first three wheel notches (every Imperial nation is
   always named), territory names in between
-  and region names only when well zoomed in. Nations, Territories, Regions or None fix it. Labels never sit under an
+  and region names from the seventh wheel notch. Nations, Territories, Regions or None fix it. Labels never sit under an
   event-count circle.
 - **Clicking and hovering:** follow the label mode in force. In Nations mode a hover describes the
   nation, a click opens it in the Info tab, and each nation shows one event count under its name; Territories and Regions modes count per
@@ -27,7 +27,9 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   to territories; opening one of its territories switches to regions; the fading follows down to
   the region you open. Clicking the map (including a faded area, which selects nothing), empty space or another tab ends that and returns to the
   chosen label mode.
-- **Region borders** are always shown; colours show each region's real holder, and a split
+- **Boundary lines** follow the label mode: dark lines around each nation's land in Nations view,
+  around territories in Territories view, around regions in Regions view. Region borders are always
+  shown faintly; colours show each region's real holder, and a split
   territory reads "Mostly held by X (5 of 7 regions)".
 - **Borders:** gold edges land held by Imperial nations, crimson land held by barbarians (Jotun,
   Druj, Grendel, Thule and barbarian orc bands), and a dark line neutral land (the vallorn,
@@ -35,7 +37,8 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
 - **Fighting:** crosshatched regions are ones a Wind of War names that season, where the region
   changes hands that season or the next, or its territory is split between the Empire and its
   enemies. It's an approximation of "actively contested"; the panel names the reports.
-- **Panel:** the Info tab shows the season, or the selected place or nation: who holds it and what
+- **Panel:** the Info tab shows the season (its changes of control and its events, each in a
+  fold-out box, plus the territory table), or the selected place or nation: who holds it and what
   happened there in the chosen season, with everything earlier in a fold-out Earlier history box, each linked to its wiki page. Places opened from the Nations tab get a
   Back button that retraces the way (region, territory, nation). The Nations tab lists every
   power; picking one outlines its lands and opens its holdings in place, without moving the
