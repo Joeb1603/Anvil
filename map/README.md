@@ -6,10 +6,14 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
 - **Map:** 62 territories and seas, 312 regions. Pan, zoom, click a territory or region. Click
   empty sea or background to clear the selection.
 - **Timeline:** 49 seasons. Step through them or press Play to watch control change.
-- **Colourings:** by nation (who holds each region that season) or by territory. Imperial and
+- **Colours:** each region shows who holds it that season. Imperial and
   barbarian nations have their own colours, as do the vallorn (plum), uncontrolled land
   (parchment) and Imperial land not yet given to a nation (dotted gold). Only minor foreign
   powers are grey.
+- **Keys:** the line key and, under it, a Nations key with every power's colour that season (click
+  one to open it). The Nations key folds away, and is folded on phones. Map names never sit under
+  the keys.
+- **Nation names** are off by default (the key does the job); tick the box to show them.
 - **Labels (Auto by default):** Auto shows nation names zoomed out, territory names in between
   and region names only when well zoomed in. Nations, Territories, Regions or None fix it. Labels never sit under an
   event-count circle.
@@ -25,7 +29,7 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   territory reads "Mostly held by X (5 of 7 regions)".
 - **Borders:** gold edges land held by Imperial nations, crimson land held by barbarians (Jotun,
   Druj, Grendel, Thule and barbarian orc bands), and a dark line neutral land (the vallorn,
-  uncontrolled regions, other powers). Every border between two powers is one line, centred on it; where Imperial land meets anything else the gold line shows. Lines get a little slimmer as you zoom out.
+  uncontrolled regions, other powers). Every power's land is outlined just inside its own edge, so a border between two powers shows two slim lines, one in each side's colour (two gold lines between two Imperial nations).
 - **Fighting:** crosshatched regions are ones a Wind of War names that season, where the region
   changes hands that season or the next, or its territory is split between the Empire and its
   enemies. It's an approximation of "actively contested"; the panel names the reports.

@@ -80,8 +80,20 @@ a { color: var(--accent); }
 .fr.neu { stroke: var(--neu); stroke-width: 4px; }
 .fr.neuh { stroke: var(--surface); stroke-width: 7px; }
 .faded { opacity: .35; }
-.flegend { position: absolute; left: 10px; top: 10px; display: flex; flex-direction: column; gap: 3px; background: var(--surface); border: 1px solid var(--line);
-  border-radius: 6px; padding: 5px 9px; font-size: .8rem; pointer-events: none; }
+.keys { position: absolute; left: 10px; top: 10px; bottom: 52px; display: flex; flex-direction: column; gap: 6px; align-items: flex-start; pointer-events: none; max-width: 46%; }
+.flegend { display: flex; flex-direction: column; gap: 3px; background: var(--surface); border: 1px solid var(--line);
+  border-radius: 6px; padding: 5px 9px; font-size: .8rem; }
+.nkey { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 4px 9px; font-size: .8rem; pointer-events: auto; min-height: 0; display: flex; flex-direction: column; max-height: 100%; }
+.nkey summary { cursor: pointer; font-weight: 700; }
+@media (max-width: 600px) { .flegend, .nkey { font-size: .72rem; padding: 3px 7px; } .keys { max-width: 70%; }
+  .labgroup { flex-wrap: wrap; min-width: 0; } .seg button { padding: 4px 7px; } .controls { min-width: 0; } }
+@media (max-width: 380px) { .brand small { display: block; margin-left: 0; } .seg button { padding: 4px 5px; font-size: .85rem; } .labgroup { gap: 3px; } }
+.nkey .nk { overflow: auto; min-height: 0; padding: 2px 0 2px; display: grid; grid-template-columns: auto auto; column-gap: 12px; align-content: start; }
+.nkey .nkg { grid-column: 1 / -1; }
+.nkey .nkg { color: var(--muted); font-size: .72rem; text-transform: uppercase; letter-spacing: .08em; margin-top: 5px; }
+.nkey button { display: flex; align-items: center; gap: 5px; border: 0; background: none; padding: 0; cursor: pointer; text-align: left; font-size: .76rem; width: 100%; white-space: nowrap; }
+.nkey button:hover span:last-child { text-decoration: underline; }
+.nkey .sw { width: 12px; height: 12px; }
 .flegend span { display: flex; align-items: center; gap: 7px; }
 .flegend i { display: inline-block; width: 18px; height: 0; border-top: 3px solid; }
 .flegend .gold { border-color: var(--gold); }
@@ -181,10 +193,6 @@ details.hist summary { cursor: pointer; font-weight: 700; }
   <header class="top">
     <h1 class="brand">Empire Atlas <small id="snap"></small></h1>
     <div class="controls">
-      <div class="seg" role="group" aria-label="Colour the map by">
-        <button id="mode-holder" aria-pressed="true">By nation</button>
-        <button id="mode-territory" aria-pressed="false">By territory</button>
-      </div>
       <div class="labgroup">Labels
         <div class="seg" role="group" aria-label="Map labels">
           <button id="lab-auto" aria-pressed="true" title="Nations when zoomed out, territories in between, regions close up">Auto</button>
@@ -194,6 +202,7 @@ details.hist summary { cursor: pointer; font-weight: 700; }
           <button id="lab-none" aria-pressed="false">None</button>
         </div>
       </div>
+      <label class="check"><input type="checkbox" id="show-names"> Nation names</label>
       <label class="check"><input type="checkbox" id="show-front" checked> Borders</label>
       <label class="check"><input type="checkbox" id="show-fight" checked> Fighting</label>
       <label class="check"><input type="checkbox" id="show-marks" checked> Event counts</label>
@@ -207,7 +216,8 @@ details.hist summary { cursor: pointer; font-weight: 700; }
   <div class="main">
     <div class="mapwrap" id="mapwrap">
       <svg id="map" role="img" aria-label="Map of the Empire and neighbouring territories"></svg>
-      <div class="flegend" id="flegend"><span class="fkey"><i class="gold"></i>Imperial lands</span><span class="fkey"><i class="barb"></i>Barbarian lands</span><span class="fkey"><i class="neu"></i>Neutral: vallorn, uncontrolled, others</span><span class="xkey"><i class="fightkey"></i>Fighting reported</span></div>
+      <div class="keys"><div class="flegend" id="flegend"><span class="fkey"><i class="gold"></i>Imperial lands</span><span class="fkey"><i class="barb"></i>Barbarian lands</span><span class="fkey" title="The vallorn, uncontrolled land and other powers"><i class="neu"></i>Neutral lands</span><span class="xkey"><i class="fightkey"></i>Fighting reported</span></div>
+        <details class="nkey" id="nkey"><summary>Nations</summary><div class="nk" id="nk"></div></details></div>
       <div class="zoom">
         <button id="zin" aria-label="Zoom in">+</button>
         <button id="zout" aria-label="Zoom out">−</button>
@@ -261,7 +271,7 @@ function init(D) {
   const types = [...new Set(D.events.map(e => e.ty))];
   const busy = S.map((_, i) => D.events.filter(e => e.s === i).length);
   let open = last; while (open > 0 && busy[open] < 10) open--;
-  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "auto", labOverride: null, fromList: false, front: true, isoFrom: "list", fight: true, back: [] };
+  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "auto", names: false, labOverride: null, fromList: false, front: true, isoFrom: "list", fight: true, back: [] };
   $("snap").textContent = "wiki snapshot " + D.meta.snapshot.slice(0, 10);
 
   // ---- control state: holder of every place at every season, worked out by the build (one source of truth)
@@ -345,14 +355,10 @@ function init(D) {
   rmark.style.display = "none";
 
   // ---- frontiers: each outline is clipped to its own side, so gold and crimson sit on either side of a shared border
-  const mkClip = id => el("path", { "clip-rule": "evenodd" }, el("clipPath", { id }, defs));
-  const clipImp = mkClip("fc-imp"), clipBarb = mkClip("fc-barb"), clipNeu = mkClip("fc-neu");
-  const fr = {
-    ih: el("path", { class: "fr halo" }, gFront), il: el("path", { class: "fr imp", "clip-path": "url(#fc-imp)" }, gFront),
-    bh: el("path", { class: "fr halo" }, gFront), bl: el("path", { class: "fr barb", "clip-path": "url(#fc-barb)" }, gFront),
-    nh: el("path", { class: "fr halo" }, gFront), nl: el("path", { class: "fr neu", "clip-path": "url(#fc-neu)" }, gFront),
-    na: el("path", { class: "fr neu" }, gFront), ba: el("path", { class: "fr barb" }, gFront), ia: el("path", { class: "fr imp" }, gFront),
-  };
+  // one clip and one line per power: the line is twice the visible width and clipped to the power's own
+  // land, so a border between two powers shows two slim lines, each inside its own side
+  const frPool = [];
+  const sideOf = id => { const g = (H[id] || {}).group; return g === "Imperial nations" ? "imp" : g === "Barbarian powers" ? "barb" : "neu"; };
   let frShown = -1;
   function frontiers() {
     gFront.style.display = st.front ? "" : "none";
@@ -361,20 +367,17 @@ function init(D) {
     $("flegend").hidden = !st.front && !st.fight;
     gFront.classList.toggle("faded", !!(st.sel || st.iso));
     if (!st.front || !D.frontiers) return;
-    // widths in screen pixels, slimmer when zoomed out; the side line is clipped to half its width,
-    // the line between two nations on the same side is drawn whole, so both look the same weight
-    const z = Math.min(1.4, 0.8 + 0.1 * (st.k - 1));
-    for (const x of [fr.ia, fr.ba, fr.na]) x.style.strokeWidth = 3.4 * z + "px";
-    for (const x of [fr.ih, fr.bh, fr.nh]) x.style.strokeWidth = 3.4 * z + 3 + "px";
+    const w = 2 * Math.min(2.2, 1.3 + 0.08 * (st.k - 1));  // visible width 1.3-2.2px
+    for (const x of frPool) x.line.style.strokeWidth = w + "px";
     const k = D.frontiers.season[st.s]; if (k === frShown) return; frShown = k;
-    const f = D.frontiers.states[k];
-    // lines follow every holder's own outline; the clips keep each colour on its own side of a border
-    clipImp.setAttribute("d", f.imp); clipBarb.setAttribute("d", f.barb); clipNeu.setAttribute("d", f.neu || "");
-    // one line along every border between two powers, centred on it: a halo under all of them, then
-    // neutral, barbarian and Imperial lines, so where two kinds meet the Imperial gold shows
-    fr.ih.setAttribute("d", f.impAll || ""); fr.bh.setAttribute("d", f.barbAll || ""); fr.nh.setAttribute("d", f.neuAll || "");
-    for (const x of [fr.il, fr.bl, fr.nl]) x.setAttribute("d", "");
-    fr.ia.setAttribute("d", f.impAll || ""); fr.ba.setAttribute("d", f.barbAll || ""); fr.na.setAttribute("d", f.neuAll || "");
+    const by = Object.entries(D.frontiers.states[k].by || {});
+    while (frPool.length < by.length) { const i = frPool.length;
+      const clip = el("path", { "clip-rule": "evenodd" }, el("clipPath", { id: "fc" + i }, defs));
+      frPool.push({ clip, line: el("path", { class: "fr", "clip-path": `url(#fc${i})` }, gFront) }); }
+    frPool.forEach((x, i) => { const e = by[i];
+      x.line.style.display = e ? "" : "none"; if (!e) return;
+      x.clip.setAttribute("d", e[1]); x.line.setAttribute("d", e[1]);
+      x.line.setAttribute("class", "fr " + sideOf(e[0])); x.line.style.strokeWidth = w + "px"; });
   }
 
   // ---- label helpers
@@ -452,11 +455,23 @@ function init(D) {
       if (free(b)) return { b, x: x + fx * w * u, y: y + fy * hh * u }; } return null; };
     // each name and its event count are placed together as one block: the count sits right under the name
     const mu = svg.clientWidth < 520 ? 0.7 : 1;
+    // the keys in the corner are obstacles: names never hide underneath them
+    const inv = vp.getScreenCTM() && vp.getScreenCTM().inverse();
+    if (inv) for (const k of [$("flegend"), $("nkey")]) { if (k.hidden || !k.offsetParent) continue;
+      const rc = k.getBoundingClientRect(), pt = svg.createSVGPoint();
+      pt.x = rc.left; pt.y = rc.top; const a = pt.matrixTransform(inv); pt.x = rc.right; pt.y = rc.bottom; const b2 = pt.matrixTransform(inv);
+      placed.push({ x: a.x * scale - 4, y: a.y * scale - 4, w: (b2.x - a.x) * scale + 8, h: (b2.y - a.y) * scale + 8 }); }
     // nation labels: one per connected block of a power's land, biggest first
     let n = 0, nm = 0; const counted = new Set();
     if (mode === "nations") for (const [id, x, y, r] of (D.nlabels || [])[st.s] || []) {
       const rs = r * scale; if (rs < 8) continue;
       const name = shortName(id).toUpperCase(), fs = Math.max(10, Math.min(18, 7 + rs * 0.3));
+      if (!st.names) {  // names off: just the nation's count, at the heart of its biggest block
+        if (st.marks && !counted.has(id) && (!st.iso || st.iso === id)) { const c = natCount(id, st.s); counted.add(id);
+          if (c) { const rr = markR(c, u) * scale, at = spot(x, y, 2 * rr + 2, 2 * rr + 2, 5);
+            if (at) { placed.push(at.b); const g = natMark(nm++); showMark(g, at.x, at.y, c, u); g.id = id; } } }
+        continue;
+      }
       const at = spot(x, y, name.length * fs * 0.8, fs * 1.4, Math.min(NUDGE.length, 3 + Math.floor(rs / 12)));
       if (!at) continue; placed.push(at.b);
       const tx = natLabel(n++); tx.textContent = name; tx.setAttribute("x", at.x); tx.setAttribute("y", at.y);
@@ -492,12 +507,12 @@ function init(D) {
     // region labels: every region that has room, the selected territory's first
     if (mode === "regions") {
       const list = selT ? [...allRegions.filter(a => a.t.name === selT), ...allRegions.filter(a => a.t.name !== selT)] : allRegions;
-      let k = 0;
+      let k = 0; const rfs = 11 + Math.min(3, Math.max(0, (st.k - 6) * 0.5));
       for (const a of list) {
         const want = st.marks && (st.iso ? holderAt(a.t.name, a.r.name, st.s) === st.iso : st.sel ? (st.sel.t === a.t.name && (!st.sel.r || st.sel.r === a.r.name)) : true);
         const n = want ? regionCount(a.t.name, a.r.name, st.s) : 0, mh = n ? 2 * markR(n, mu) + 2 : 0, hh = 14 + mh;
         const at = a.r.area * scale * scale >= 320 ? spot(a.r.centre[0], a.r.centre[1], Math.max(a.r.name.length * 6.2, mh), hh, 3) : null;
-        if (at) { placed.push(at.b); const top = at.y - hh / 2 * u; a.el.setAttribute("x", at.x); a.el.setAttribute("y", top + 7 * u);
+        if (at) { placed.push(at.b); const top = at.y - hh / 2 * u; a.el.setAttribute("x", at.x); a.el.setAttribute("y", top + 7 * u); a.el.style.fontSize = rfs * u + "px";
           if (n) { const g = regMark(k++); g.t0 = a.t.name; g.r0 = a.r.name; showMark(g, at.x, top + (14 + mh / 2) * u, n, u * mu); } }
         else { a.el.setAttribute("x", a.r.centre[0]); a.el.setAttribute("y", a.r.centre[1]); }
         a.el.style.display = at ? "" : "none";
@@ -765,15 +780,13 @@ function init(D) {
     if (!st.iso) leaveList();
     if (from === "map") st.tab = "place";  // the map opens things in the Info tab
     else { st.keep = st.keep || st.tab === "holders"; st.tab = "holders"; }  // the list never jumps: same order, same scroll
-    if (st.mode !== "holder") { st.mode = "holder"; $("mode-holder").setAttribute("aria-pressed", true); $("mode-territory").setAttribute("aria-pressed", false); }
     render(); st.keep = false; scrollToNation();
   }
-  const setMode = m => { st.mode = m; if (m !== "holder") st.iso = null; $("mode-holder").setAttribute("aria-pressed", m === "holder"); $("mode-territory").setAttribute("aria-pressed", m === "territory"); render(); };
-  $("mode-holder").onclick = () => setMode("holder"); $("mode-territory").onclick = () => setMode("territory");
   $("show-marks").onchange = e => { st.marks = e.target.checked; paint(); };
   const LABS = ["auto", "nations", "territories", "regions", "none"];
   for (const m of LABS) $("lab-" + m).onclick = () => { st.lab = m; st.labOverride = null; for (const x of LABS) $("lab-" + x).setAttribute("aria-pressed", x === m); paint(); };
   $("show-front").onchange = e => { st.front = e.target.checked; frontiers(); };
+  $("show-names").onchange = e => { st.names = e.target.checked; paint(); };
   $("show-fight").onchange = e => { st.fight = e.target.checked; frontiers(); paint(); };
   for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).onclick = () => { if (tab !== st.tab) { st.iso = null; if (tab !== "place") st.sel = null; st.back = []; leaveList(); } st.tab = tab; render(); };
   const q = $("q"), res = $("results");
@@ -786,7 +799,22 @@ function init(D) {
     for (const x of hits) res.append(h("button", { onclick: () => { res.hidden = true; q.value = ""; x.go(); } }, x.label, h("small", { textContent: x.sub }))); res.hidden = false; });
   document.addEventListener("click", e => { if (!e.target.closest(".search")) res.hidden = true; });
 
+  // the nation colour key: every power holding land this season, by group; click one to open it
+  const nk = $("nk"); let nkSeason = -1;
+  try { $("nkey").open = innerWidth > 700; } catch (e) {}
+  $("nkey").addEventListener("toggle", () => labels());
+  function nationKey() {
+    if (nkSeason === st.s) return; nkSeason = st.s; nk.innerHTML = "";
+    const n = {}; for (const t of T) { if (t.sea) continue; for (const r of (t.regions.length ? t.regions.map(x => x.name) : [""])) { const x = holderAt(t.name, r, st.s); n[x] = (n[x] || 0) + 1; } }
+    for (const g of ["Imperial nations", "Barbarian powers", "Others"]) {
+      const hs = D.holders.filter(x => x.group === g && n[x.id]).sort((a, c) => n[c.id] - n[a.id]); if (!hs.length) continue;
+      nk.append(h("div", { className: "nkg", textContent: g === "Others" ? "Neutral and others" : g }));
+      for (const x of hs) nk.append(h("button", { title: `${x.name}: ${n[x.id]} region${n[x.id] === 1 ? "" : "s"}`, onclick: () => { leaveList(); pickNation(x.id, "map"); } },
+        swatch(x.id), h("span", { textContent: x.name })));
+    }
+  }
   function render() {
+    nationKey();
     const re = (D.real || [])[st.s];
     $("now").innerHTML = `${esc(S[st.s])}<small>${re ? esc(re.n) + " · " : ""}${evBySeason[st.s].length} located events</small>`;
     bars.forEach((r, i) => r.classList.toggle("on", i === st.s));
@@ -797,7 +825,8 @@ function init(D) {
     b.scrollTop = st.keep ? top : 0; paint();
   }
   render();
-  window.__atlas = { st, setSeason, select, holderAt, majority, pickNation, lab };
+  window.__atlas = { st, setSeason, select, holderAt, majority, pickNation, lab,
+    view: (k, cx, cy) => { st.k = k; st.x = vx + vw / 2 - cx * k; st.y = vy + vh / 2 - cy * k; clamp(); apply(); } };
 }
 })();
 </script>
