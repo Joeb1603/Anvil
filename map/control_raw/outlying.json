@@ -1,0 +1,20 @@
+[
+ {"event": "376YE Winter", "territory": "Tathar", "region": null, "holder": "Grendel", "previous_holder": null, "kind": "status",
+  "source": "Bay of Catazar", "confidence": "high", "note": "Northernmost of the three Grendel territories on Attar; Salt Lord Suriad rules Dubhtraig."},
+ {"event": "376YE Winter", "territory": "Raineach", "region": null, "holder": "Grendel", "previous_holder": null, "kind": "status",
+  "source": "Bay of Catazar", "confidence": "high", "note": "Southernmost Grendel territory on Attar, with Fort Kuhnaven and Bone Beach."},
+ {"event": "376YE Winter", "territory": "Shayeel", "region": null, "holder": "Grendel", "previous_holder": null, "kind": "status",
+  "source": "Bay of Catazar", "confidence": "high", "note": "Eastern Grendel territory on Attar; Salt Lord Moorvain controls the mining port of Vorlach."},
+ {"event": "376YE Winter", "territory": "Shavronne", "region": null, "holder": "Iron Confederacy", "previous_holder": null, "kind": "status",
+  "source": "Bay of Catazar", "confidence": "high", "note": "Iron Confederacy territory ruled by Duke Jacques DuMoi, the Iron Wolf."},
+ {"event": "376YE Winter", "territory": "Veroigne", "region": null, "holder": "Iron Confederacy", "previous_holder": null, "kind": "status",
+  "source": "Bay of Catazar", "confidence": "high", "note": "Iron Confederacy territory ruled by Duke Helen Gerradin; chief port Robec."},
+ {"event": "376YE Winter", "territory": "Kalino", "region": null, "holder": "Lasambrian orcs", "previous_holder": null, "kind": "status",
+  "source": "Bay of Catazar", "confidence": "high", "note": "Lasambrian Hills, home of the Naguerro clan, with western regions claimed by the Hierro."},
+ {"event": "379YE Winter", "territory": "Kalino", "region": null, "holder": "Iron Confederacy", "previous_holder": "Lasambrian orcs", "kind": "conquered",
+  "source": "Road to Bramar", "confidence": "high", "note": "Suranni complete their conquest of Kalino, later renamed Arbonne."},
+ {"event": "376YE Winter", "territory": "Bryadvik", "region": null, "holder": "Jotun", "previous_holder": null, "kind": "status",
+  "source": "Sea of Snow", "confidence": "high", "note": "One of Queen Yrsa's three Sea of Snow territories, west of Skallahn."},
+ {"event": "376YE Winter", "territory": "Fjorknae", "region": null, "holder": "Jotun", "previous_holder": null, "kind": "status",
+  "source": "Sea of Snow", "confidence": "medium", "note": "Jotun held; unclear whether it answers to Kalsea or Narkyst."}
+]

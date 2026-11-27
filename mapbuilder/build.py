@@ -375,6 +375,15 @@ def build(archive_links=True):
         holders.append({"id": n, "name": n, "group": "Barbarian powers" if n in BARBARIAN_OTHER else "Others",
                         "slot": "n1", "pattern": "hatch" if k % 2 == 0 else "dots"})
     holders.append({"id": "unknown", "name": "Unknown", "group": "Others", "slot": "n2", "pattern": None})
+    # Keep every holder's colour stable across rebuilds: reuse map/holder_colours.json, add new holders to it.
+    lock_path = MAP_DIR / "holder_colours.json"
+    lock = json.loads(lock_path.read_text()) if lock_path.exists() else {}
+    for hd in holders:
+        if hd["id"] in lock:
+            hd["slot"], hd["pattern"] = lock[hd["id"]]
+        else:
+            lock[hd["id"]] = [hd["slot"], hd["pattern"]]
+    lock_path.write_text(json.dumps(lock, indent=1, ensure_ascii=False) + "\n")
     fix = lambda h: "unknown" if h == "Unknown" else h
 
     # territory colours for the by-territory view: neighbours never share one

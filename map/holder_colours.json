@@ -1,0 +1,134 @@
+{
+ "Dawn": [
+  "s1",
+  null
+ ],
+ "Highguard": [
+  "s5",
+  null
+ ],
+ "Imperial Orcs": [
+  "s1",
+  "dots"
+ ],
+ "Navarr": [
+  "s6",
+  null
+ ],
+ "The Brass Coast": [
+  "s7",
+  null
+ ],
+ "The League": [
+  "s4",
+  null
+ ],
+ "The Marches": [
+  "s2",
+  null
+ ],
+ "Urizen": [
+  "s7",
+  "dots"
+ ],
+ "Varushka": [
+  "s8",
+  null
+ ],
+ "Wintermark": [
+  "s3",
+  null
+ ],
+ "Jotun": [
+  "s8",
+  "hatch"
+ ],
+ "Druj": [
+  "s3",
+  "hatch"
+ ],
+ "Grendel": [
+  "s6",
+  "hatch"
+ ],
+ "Thule": [
+  "s7",
+  "hatch"
+ ],
+ "The Empire": [
+  "n1",
+  "dots"
+ ],
+ "Vallorn": [
+  "n1",
+  "hatch"
+ ],
+ "Uncontrolled": [
+  "n1",
+  "dots"
+ ],
+ "Tsark": [
+  "n1",
+  "hatch"
+ ],
+ "Iron Confederacy": [
+  "n1",
+  "dots"
+ ],
+ "Feni": [
+  "n1",
+  "hatch"
+ ],
+ "Lasambrian orcs": [
+  "n1",
+  "dots"
+ ],
+ "Beoraidh": [
+  "n1",
+  "hatch"
+ ],
+ "Sand Fishers": [
+  "n1",
+  "dots"
+ ],
+ "Barrens orcs": [
+  "n1",
+  "hatch"
+ ],
+ "Children of Wrecks": [
+  "n1",
+  "dots"
+ ],
+ "Great Forest Orcs": [
+  "n1",
+  "hatch"
+ ],
+ "Llofir": [
+  "n1",
+  "dots"
+ ],
+ "Silver Flame": [
+  "n1",
+  "hatch"
+ ],
+ "Rahvin": [
+  "n1",
+  "dots"
+ ],
+ "Sarangrave rebels": [
+  "n1",
+  "hatch"
+ ],
+ "Protectorate of Morajasse": [
+  "n1",
+  "dots"
+ ],
+ "Axos": [
+  "n1",
+  "hatch"
+ ],
+ "unknown": [
+  "n2",
+  null
+ ]
+}

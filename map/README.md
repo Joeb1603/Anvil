@@ -81,6 +81,17 @@ Ayereed's regions are read from "Ayereed regions.png", which appears on other pa
 Ayereed's own. The Mountains of the Moon have no region map anywhere on the wiki, so they stay
 placed by the compass directions in their descriptions.
 
+### Territories with no page of their own
+
+Eight territories on the wiki's map have no page: Tathar, Raineach and Shayeel (the Grendel lands
+of Attar), Shavronne, Veroigne and Kalino (the Iron Confederacy, which conquered Kalino from the
+Lasambrian orcs by 379YE Winter and calls it Arbonne), and Bryadvik and Fjorknae (Jotun). Their
+holders come from the Bay of Catazar and Sea of Snow pages and the campaign reports, and are
+recorded in `control_raw/outlying.json`.
+
+Holder colours are kept in `holder_colours.json`, so a nation keeps its colour when new holders
+appear.
+
 ### Tsirku
 
 Wintermark began exploring Tsirku, the frozen wasteland north of Sermersuaq, in 388YE. The wiki's
