@@ -96,7 +96,7 @@ This page collects all the information relevant to [The League](../../in-charact
 - [The League hearth magic](../../mixed/magic/lore/The_League_hearth_magic.md) (mixed)
 - [The League history](../../in-character/nations/the-league/The_League_history.md) (in-character)
 - [The League leadership](../../in-character/nations/the-league/The_League_leadership.md) (in-character)
-- [The League look and feel](../../out-of-character/costume/The_League_look_and_feel.md) (out-of-character)
+- [The League look and feel](../../mixed/look-and-feel/The_League_look_and_feel.md) (mixed)
 - [The League magical traditions](../../mixed/magic/lore/The_League_magical_traditions.md) (mixed)
 - [The League military concerns](../../in-character/nations/the-league/The_League_military_concerns.md) (in-character)
 - [The League music](../../mixed/music/The_League_music.md) (mixed)

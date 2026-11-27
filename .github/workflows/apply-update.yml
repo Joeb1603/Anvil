@@ -1,5 +1,6 @@
 # Applies each update the scheduled Claude task pushes (a claude/atlas-* branch) straight to main:
-# merges it, rebuilds the atlas, and stops if the build reports any problem. If it passes, the
+# merges it, rebuilds the atlas, and stops if the build reports any problem or the atlas checks
+# (map/checks.md) find a failure that main did not already have. If it passes, the
 # result goes to main, the site is republished and the branch is deleted. Failed runs leave main
 # untouched and keep the branch, and GitHub emails the repository owner.
 name: Apply atlas update
@@ -47,10 +48,16 @@ jobs:
           for attempt in 1 2 3; do
             git fetch origin main "$BRANCH"
             git reset --hard origin/main
+            # the checks as they stand on main, so the update is judged only on what it changes
+            git show origin/main:map/checks.json > "$RUNNER_TEMP/checks-before.json" 2>/dev/null || echo '{"failures": []}' > "$RUNNER_TEMP/checks-before.json"
             git merge --no-ff --no-edit "origin/$BRANCH" -m "Apply atlas update from $BRANCH"
             python3 -m mapbuilder.run | tee build.log
             if grep -q "^issues:" build.log; then
               echo "::error::The atlas build reported problems with this update; main was not changed."
+              exit 1
+            fi
+            if ! python3 -m mapbuilder.checks --compare "$RUNNER_TEMP/checks-before.json"; then
+              echo "::error::This update adds atlas check failures (see map/checks.md); main was not changed."
               exit 1
             fi
             git add -A map

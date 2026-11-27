@@ -129,7 +129,7 @@ You cannot transform businesses, congregations, farms, herb gardens, military un
 
 ## Imperial Citizenship
 
-It is not possible to use ritual magic to sever the connection between a person and an [egregore](../crew/Egregores.md). The connection seems to be protected by the [Law of Essence](Laws_of_magic.md#the-law-of-essence). A person can voluntarily choose to give up their connection to an egregore, but this choice cannot be forced using magic.
+It is not possible to use ritual magic to sever the connection between a person and an [egregore](../../in-character/nations/general/Egregores.md). The connection seems to be protected by the [Law of Essence](Laws_of_magic.md#the-law-of-essence). A person can voluntarily choose to give up their connection to an egregore, but this choice cannot be forced using magic.
 
 ## Sharing Ritual Lore
 
@@ -195,7 +195,7 @@ You can't use an arcane projection to create a new substance or preparation. Rit
   - Limits of magic
   - [Divination](Divination.md)
   - [War magic](War_magic.md)
-  - [Eternals and rituals](Eternals_and_rituals.md)
+  - [Eternals and rituals](../../mixed/magic/lore/Eternals_and_rituals.md)
   - [Spring magic](Spring_magic.md)
   - [Summer magic](Summer_magic.md)
   - [Autumn magic](Autumn_magic.md)

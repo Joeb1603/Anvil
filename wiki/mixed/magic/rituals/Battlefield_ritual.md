@@ -104,7 +104,7 @@ There are other rituals that are useful on the battlefield, but are not on this 
   - [Limits of magic](../../../out-of-character/rules/Limits_of_magic.md)
   - [Divination](../../../out-of-character/rules/Divination.md)
   - [War magic](../../../out-of-character/rules/War_magic.md)
-  - [Eternals and rituals](../../../out-of-character/rules/Eternals_and_rituals.md)
+  - [Eternals and rituals](../lore/Eternals_and_rituals.md)
   - [Spring magic](../../../out-of-character/rules/Spring_magic.md)
   - [Summer magic](../../../out-of-character/rules/Summer_magic.md)
   - [Autumn magic](../../../out-of-character/rules/Autumn_magic.md)

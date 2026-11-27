@@ -1,6 +1,6 @@
 # in-character pages
 
-3091 pages in 31 topics.
+3092 pages in 31 topics.
 
 - [ambassador-briefings](#ambassador-briefings) (11)
 - [announcements](#announcements) (26)
@@ -15,7 +15,7 @@
 - [mandates](#mandates) (1)
 - [military-council-orders](#military-council-orders) (9)
 - [nations/dawn](#nationsdawn) (30)
-- [nations/general](#nationsgeneral) (2)
+- [nations/general](#nationsgeneral) (3)
 - [nations/highguard](#nationshighguard) (23)
 - [nations/imperial-orcs](#nationsimperial-orcs) (28)
 - [nations/navarr](#nationsnavarr) (42)
@@ -385,6 +385,7 @@
 
 ## nations/general
 
+- [Egregores](../in-character/nations/general/Egregores.md)
 - [Nation overview](../in-character/nations/general/Nation_overview.md)
 - [Nationality](../in-character/nations/general/Nationality.md)
 

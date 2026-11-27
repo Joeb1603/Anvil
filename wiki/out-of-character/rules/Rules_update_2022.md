@@ -86,7 +86,7 @@ We have taken the decision to drop the public auction of player lots and minor r
 
 ## Urizen Culture
 
-We have overhauled the [look and feel guide for Urizen](../costume/Urizen_look_and_feel.md), [changed the election system](#urizen-elections) for the nation, and created new pages for every single Urizen archetype, presenting detailed information on the background and ideology for each one. As part of that we have updated almost every Urizen page to add new information and content.
+We have overhauled the [look and feel guide for Urizen](../../mixed/look-and-feel/Urizen_look_and_feel.md), [changed the election system](#urizen-elections) for the nation, and created new pages for every single Urizen archetype, presenting detailed information on the background and ideology for each one. As part of that we have updated almost every Urizen page to add new information and content.
 
 A key part of the overhaul is to the look and feel page - where we have refined existing information to try and provide much more thorough guidance on the ideal costume. The new look and feel page provides much more guidance, including technical advice on colour schemes, fabrics and the link to help people create fantastic Urizen costumes for their character. It also provides explicit guidance on what garments and props are less appropriate and what are inappropriate using the terminology developed for the new main page on [costume](Costume.md) on the wiki. We've added explicit guidance asking players to avoid Asian and East Asian visuals as they are not part of the original brief for Urizen.
 

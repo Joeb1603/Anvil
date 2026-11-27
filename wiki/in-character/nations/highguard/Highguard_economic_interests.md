@@ -41,7 +41,7 @@ Permanence is a civic virtue in Highguard and there is no doubt that the nation 
 
 Since the death of [Britta](../../history/Empress_Britta.md), the Council of [Benefactors](Benefactor.md) has played an important role in the nation, pooling the resources of some of the most wealthy Highborn citizens and providing backing to crucial projects that might otherwise have gone without. The donations were initially arranged to [[[provide white granite](../../winds-of-fortune/A_peerless_sacrifice.md#a-virtuous-benefaction) for the [Grand Inspiration of the Way](../../senate-motions/Construct_Grand_Inspiration_of_the_Way.md). However, they were [Inspired](../../winds-of-fortune/Push_for_victory.md#nothing-short-of-exemplary) by [Emperor Vesna's](../../history/Emperor_Vesna.md) exemplary [Vigilance](../../religion/Vigilance.md) and [Ambition](../../religion/Ambition.md) and now the wealthy Highborn who support the decisions of the Council are prepared to provide whatever support is needed, donating up to twelve wains to any single commission identified by the Council of Benefactors each season.
 
-There are two formal meetings of the Benefactors' Council at each summit, at 11:00 on Saturday and Sunday morning. They are likely to be held in the main tent of the [Shattered Tower](../../../out-of-character/groups/Highguard_groups.md#the-shattered-tower). If the Council want to change where their nation's donations are going, then they must ensure that their [egregore](../../../out-of-character/crew/Egregores.md) is present when they make the decision. The egregore will make a note of the decision and pass word on to the other benefactors in the nation. If there is some debate over the decision, then the egregore will expect a decision to be taken by a simple majority vote of those present who are well known for their role as benefactors. The egregore will check the Highborn records if there is any doubt about a citizen's status.
+There are two formal meetings of the Benefactors' Council at each summit, at 11:00 on Saturday and Sunday morning. They are likely to be held in the main tent of the [Shattered Tower](../../../out-of-character/groups/Highguard_groups.md#the-shattered-tower). If the Council want to change where their nation's donations are going, then they must ensure that their [egregore](../general/Egregores.md) is present when they make the decision. The egregore will make a note of the decision and pass word on to the other benefactors in the nation. If there is some debate over the decision, then the egregore will expect a decision to be taken by a simple majority vote of those present who are well known for their role as benefactors. The egregore will check the Highborn records if there is any doubt about a citizen's status.
 
 Any character with the benefactor archetype may vote on the decision. Whichever commission is chosen, the people of Highguard will donate twelve wains towards it, each season, until it is complete. They will continue to support that commission until the Council of Benefactors nominates a new commission to receive the support of the nation.
 
@@ -52,7 +52,7 @@ Core Brief
 - [Introduction](Highguard.md)
 - [The people](Highguard_people.md)
 - [Culture and customs](Highguard_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Highguard_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Highguard_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/Highguard_hearth_magic.md)
 
 Additional Information

@@ -96,7 +96,7 @@ I apologise my writing is become heated. To explain, I need to tell you another 
 
 ## The Other Vision
 
-Il Volpe's is not the first [past life vision](../../../out-of-character/rules/Past_life_vision.md) to concern Vardas and by extension Mikkal. This is the evidence that came to the Heirs of Lepidus in 381YE as we began our explorations of Vardas. A [journal](../../magic/lore/Highguard_hearth_magic.md#journals-and-histories) from the time of [Emperor James](../../../in-character/history/Emperor_James.md), written by Ezekiel of Syrene.
+Il Volpe's is not the first [past life vision](../../religion/Past_life_vision.md) to concern Vardas and by extension Mikkal. This is the evidence that came to the Heirs of Lepidus in 381YE as we began our explorations of Vardas. A [journal](../../magic/lore/Highguard_hearth_magic.md#journals-and-histories) from the time of [Emperor James](../../../in-character/history/Emperor_James.md), written by Ezekiel of Syrene.
 
 Ezekiel was a well-respected magister, and a regular visitor to Anvil. He served for four years as [Gatekeeper](../../titles/Gatekeeper.md) of [Pride](../../../in-character/religion/Pride.md) and when he finally retired, he was granted a dose of [true liao](../../religion/Liao.md#true-liao) with which to have his own past-life vision. He writes how touched he was that his colleagues wished to honour him by letting him experience first-hand what he had helped so many others do before him, and how he hoped that it would provide him greater insight into where his path would lead him in the future.
 

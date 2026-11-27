@@ -1,8 +1,8 @@
 ---
 title: The League look and feel
 source: https://www.profounddecisions.co.uk/empire-wiki/The_League_look_and_feel
-class: out-of-character
-topic: costume
+class: mixed
+topic: look-and-feel
 categories:
 - The League
 - Nations
@@ -27,7 +27,7 @@ This desire for ostentatious displays of wealth creates one of the most distinct
 
 ## Aspirational
 
-This is a long and detailed page with a lot of content because we want to be thorough and clear about what the ideal costume for the League looks like. It is important to remember that all costume is [aspirational](../rules/Costume.md#aspirational-game) in Empire, we don't want anyone to worry that their costume is not perfect. This page is a resource you can use to help you identify what the perfect costume looks like when you are buying or making a new piece of kit for a League character. It is to show you what to aim for as you improve your costume over time.
+This is a long and detailed page with a lot of content because we want to be thorough and clear about what the ideal costume for the League looks like. It is important to remember that all costume is [aspirational](../../out-of-character/rules/Costume.md#aspirational-game) in Empire, we don't want anyone to worry that their costume is not perfect. This page is a resource you can use to help you identify what the perfect costume looks like when you are buying or making a new piece of kit for a League character. It is to show you what to aim for as you improve your costume over time.
 
 The brief includes a number of technical terms, for materials and garments. Where possible, we've tried to explain what those terms mean, and link to an external website that provides more information. While some of these terms will be unfamiliar, using the historical terms allows us to be precise, helps you search online for garments of that kind and can be helpful if you go to any costume maker who is familiar with the terms.
 
@@ -151,7 +151,7 @@ A [partlet](https://en.wikipedia.org/wiki/Partlet) is a small upper body garment
 
 ## Accessories
 
-**Jewellery:** Rings are an important part of [League hearth magic](../../mixed/magic/lore/The_League_hearth_magic.md) but ornate jewellery is commonplace across the nation - often with a ‘more is more’ mindset. Several strings of pearls worn together, or chokers worn at the same time as lower-slung necklaces, are a frequent sight. Chains of office are often worn by merchant princes and bishops to signal status and authority. Brooches are worn as often on hats as they are on garments, sometimes to pin up one side of a wide brim.
+**Jewellery:** Rings are an important part of [League hearth magic](../magic/lore/The_League_hearth_magic.md) but ornate jewellery is commonplace across the nation - often with a ‘more is more’ mindset. Several strings of pearls worn together, or chokers worn at the same time as lower-slung necklaces, are a frequent sight. Chains of office are often worn by merchant princes and bishops to signal status and authority. Brooches are worn as often on hats as they are on garments, sometimes to pin up one side of a wide brim.
 
 **Hats, Headdresses, and Hairnets:** Wearing something on your head is one of the *best* ways to complete a great League costume. A tellerbarett is a flat hat with an enormous plate-like brim that can be festooned with feathers or jewellery and worn at a jaunty angle. A dockenbarett, or landsknecht star-fish hat, has a large brim made from wide folded tabs. Both are popular with bravos and free companies and often feature slashing with contrasting colours. Coifs or headwraps can be worn under either.
 
@@ -249,7 +249,7 @@ Plate and chain are also popular, but full coverage is rare, as League soldiers 
 
 **Helm:** Some League citizens wear a brimmed helmet - a [kettle helm](https://en.wikipedia.org/wiki/Kettle_hat), [morion](https://en.wikipedia.org/wiki/Morion_(helmet)), or [burgonet](https://en.wikipedia.org/wiki/Burgonet) - while fighting. These are often dressed up with ribbons or plumes of feathers. Late medieval helmet styles like [sallets](https://en.wikipedia.org/wiki/Sallet) are ideal for the League, but it is also possible to conceal a metal skullcap called [a secrete](https://en.wikipedia.org/wiki/Secrete_(helmet)) inside a hat to combine protection with fashion.
 
-**Shield:** Many professional free companies prefer to use [pole-arms](../rules/Weapons_-_armour.md#polearms) or [great swords](../rules/Weapons_-_armour.md#great-weapons), rather than employ a [shield](../rules/Weapons_-_armour.md#shields). Those who do use a shield often use them to advertise the services of a guild or free company, or to display religious iconography. An impressive shield can be a work of art, either painted, or dressed with an intricate shield cover.
+**Shield:** Many professional free companies prefer to use [pole-arms](../../out-of-character/rules/Weapons_-_armour.md#polearms) or [great swords](../../out-of-character/rules/Weapons_-_armour.md#great-weapons), rather than employ a [shield](../../out-of-character/rules/Weapons_-_armour.md#shields). Those who do use a shield often use them to advertise the services of a guild or free company, or to display religious iconography. An impressive shield can be a work of art, either painted, or dressed with an intricate shield cover.
 
 **Weapons:** Great weapons, such as [bills](https://en.wikipedia.org/wiki/Billhook), [two-handed swords](https://en.wikipedia.org/wiki/Zweih%C3%A4nder) or [pikes](https://en.wikipedia.org/wiki/Pike_(weapon)) are the tool of choice for free company soldiers. Rapiers, [side-swords](https://en.wikipedia.org/wiki/Spada_da_lato) and other one-handed swords usually have complex hilts to protect the hand, like the distinctive figure-8 guard of the [katzbalger](https://en.wikipedia.org/wiki/Katzbalger). Crossbows have been enthusiastically adopted by free companies, and are always preferable to bows which are *less appropriate* in the League.
 
@@ -265,7 +265,7 @@ Plate and chain are also popular, but full coverage is rare, as League soldiers 
 
 ## Religion
 
-The iconic look for a League bishop involves an impressive hat, a stole, and a set of vestments. Together, these three elements help to project power and status. There is no requirement for a League priest to dress like a bishop, but people in the League understand the power of appearance. Those who adopt the garments of [the Bishop](../../mixed/magic/lore/Dramaturgy.md#the-personae) find it easier to command the respect of others for their calling. Thus any League priest may choose to don any one or more of the following when they feel the need.
+The iconic look for a League bishop involves an impressive hat, a stole, and a set of vestments. Together, these three elements help to project power and status. There is no requirement for a League priest to dress like a bishop, but people in the League understand the power of appearance. Those who adopt the garments of [the Bishop](../magic/lore/Dramaturgy.md#the-personae) find it easier to command the respect of others for their calling. Thus any League priest may choose to don any one or more of the following when they feel the need.
 
 **Hat:** The ideal hat is tall and imposing. A [traditional Christian mitre](https://en.wikipedia.org/wiki/Mitre) is less appropriate; rather than curving to a single point, the ideal League mitre has several peaks to echo a crown, like the wave-shaped mitre shown below. A boxy Capitanesca hat, or something like the [magician's hat](https://zeughaus-armoury.com/en-uk/products/magician-hat-adis-red?gad_source=1&gclid=CjwKCAiA8Lu9BhA8EiwAag16b9Dgk1QSnqQcEWDMMz37TTTOOhRxx8CfdXq5H5Z3_xWCmBuGqjiERBoC4bsQAvD_BwE) sold by Burgschneider is also great. The hat is often made of lavish fabric and may be decorated with gems or tablet embroidery.
 
@@ -283,9 +283,9 @@ The iconic look for a League bishop involves an impressive hat, a stole, and a s
 
 ## Magic
 
-League magicians commonly wear the same clothing as other citizens, but dramaturgical magicians often carry the accoutrements of their profession on their person, so as to be ready to perform at a moment’s notice. This could be a mask permanently pushed up on their forehead or tied around their arm, a puppet carried with them wherever they go, or a bag overflowing with dramaturgy props for their troupe. Some magicians choose to have separate outfits for the different dramaturgical personae, and usually will have a mask for each, either individually or as a troupe. The magical tradition of [dramaturgy](../../mixed/magic/lore/Dramaturgy.md) infuses every part of the League, so even those who have made no formal study of magic may dress as the persona they wish to embody when it will advantage them.
+League magicians commonly wear the same clothing as other citizens, but dramaturgical magicians often carry the accoutrements of their profession on their person, so as to be ready to perform at a moment’s notice. This could be a mask permanently pushed up on their forehead or tied around their arm, a puppet carried with them wherever they go, or a bag overflowing with dramaturgy props for their troupe. Some magicians choose to have separate outfits for the different dramaturgical personae, and usually will have a mask for each, either individually or as a troupe. The magical tradition of [dramaturgy](../magic/lore/Dramaturgy.md) infuses every part of the League, so even those who have made no formal study of magic may dress as the persona they wish to embody when it will advantage them.
 
-Masks are a crucial part of [League hearth magic](../../mixed/magic/lore/The_League_hearth_magic.md#masks) and fashionable for everyone. League masks take influence from real world Venetian carnival masks, and typically cover the upper half of the face or all of it. People often match their masks to their outfits, and free companies or gangs of mountebanks often wear matching masks. Masks are made from a variety of materials: papier maché, ceramics, metal, leather or fabric. Plastic and resin are acceptable if painted to look like an appropriate material. Citizens who uses glasses often wear them over a fabric mask and many people use a mask mounted on a stick and held up in front of the face for comfort.
+Masks are a crucial part of [League hearth magic](../magic/lore/The_League_hearth_magic.md#masks) and fashionable for everyone. League masks take influence from real world Venetian carnival masks, and typically cover the upper half of the face or all of it. People often match their masks to their outfits, and free companies or gangs of mountebanks often wear matching masks. Masks are made from a variety of materials: papier maché, ceramics, metal, leather or fabric. Plastic and resin are acceptable if painted to look like an appropriate material. Citizens who uses glasses often wear them over a fabric mask and many people use a mask mounted on a stick and held up in front of the face for comfort.
 
 A mask is the iconic piece of mage armour in the League, often paired with pauldrons and vambraces. A magical partlet is also common, providing the same protection that a pectoral would cover. The ideal mage armour is richly embossed with stylised designs. These might be similar to the filigree seen on decorated League plate armour or be images of runes, constellations, or dramaturgical symbols like the cup, mirror or blade, picked out in gemstones or pearls. Metal is often painted a vibrant colour, or dyed if leather, so that mage armour can contrast with or complement the outfit underneath. Like a bravo's armour, League mage armour will often employ a single exaggerated piece where a pair might otherwise be worn, such as one ornate pauldron or vambrace.
 
@@ -317,7 +317,7 @@ Each city does have leanings towards colours or certain accessories, but League 
 
 We recommend gloves rather than painting the hands for League orcs, but you can do either. If that makes it difficult to wear [rings](../../in-character/nations/the-league/The_League_culture_and_customs.md#rings) on your fingers, it is fine to wear them on a ribbon or chain around the neck or hanging off the wrist or belt. You could even pin a ring to your costume to wear as a brooch if you prefer. It is helpful to hide the joins where your orc mask and/or gloves meet your skin. Gaudy chokers or thick necklaces are ideal, but a bright [infinity scarf](https://en.wiktionary.org/wiki/infinity_scarf), worn up or down, is a good alternative.
 
-If you are not comfortable wearing a League [mask](../../mixed/magic/lore/The_League_hearth_magic.md#masks) over an orc mask, you can use a mask held in front of the face with a stick.
+If you are not comfortable wearing a League [mask](../magic/lore/The_League_hearth_magic.md#masks) over an orc mask, you can use a mask held in front of the face with a stick.
 
 ## Outside The Brief
 
@@ -327,11 +327,11 @@ Most things that are not part of a nation's brief are considered to be less appr
 
 A few things are explicitly defined as inappropriate. These are things that you should not use when you are in-character at an event, because of the real-world connotations or imagery associated with them. We have deliberately omitted these elements because they are so striking and memorable that it is impossible to see them without thinking of the themes associated with them.
 
-Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../rules/Costume.md) for further guidelines, including those for [inappropriate costume](../rules/Costume.md#inappropriate-costume).
+Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../../out-of-character/rules/Costume.md) for further guidelines, including those for [inappropriate costume](../../out-of-character/rules/Costume.md#inappropriate-costume).
 
 ### Less Appropriate
 
-The look and feel of the League is heavily inspired by the historical costumes worn during the European renaissance and the early Tudor period. The brief does *not* stick to a tight historical period because we want to ensure there is a good range of costume that people can feel comfortable wearing and still be on brief, but some of the distinctive looks of clothing from later periods is outside the brief and should be avoided where possible. When choosing a bodice or dress, it is helpful to read the guidance on [corsets](../rules/Costume.md#inappropriate-costume) on the main costume page.
+The look and feel of the League is heavily inspired by the historical costumes worn during the European renaissance and the early Tudor period. The brief does *not* stick to a tight historical period because we want to ensure there is a good range of costume that people can feel comfortable wearing and still be on brief, but some of the distinctive looks of clothing from later periods is outside the brief and should be avoided where possible. When choosing a bodice or dress, it is helpful to read the guidance on [corsets](../../out-of-character/rules/Costume.md#inappropriate-costume) on the main costume page.
 
 *[Image: Avoid ruffs and oversized collars that flare out around the head](https://www.profounddecisions.co.uk/empire-wiki/File:Shakespeare.jpg)*
 
@@ -351,7 +351,7 @@ A classic Regency dress is less appropriate in the League. They can be improved 
 
 Our look and feel for League priests draws inspiration from the garments worn by Christian clergy, but you should avoid anything with uniquely Christian symbolism. Please ensure your priest costume does not feature Christian or Celtic crosses or [christograms](https://en.wikipedia.org/wiki/Christogram) such as ‘IHS’ or the [Chi Rho](https://en.wikipedia.org/wiki/Chi_Rho). If you are using any commercially made or second-hand vestments, please make sure they don't incorporate any real-world religious iconography. If you are wearing a chasuble in the ['gothic'](https://en.wikipedia.org/wiki/Chasuble#Current_usage) style, which is loose and flowing, you must not wear one with decorative strips on the body of the chasuble that form a Y-shape, which resembles a Christian cross when the arms are held open.
 
-A [codpiece](https://en.wikipedia.org/wiki/Codpiece), a shaped piece of material covering the crotch area attached to the front of hose, is acceptable, provided it conceals rather than emphasises the shape. The ideal codpiece is streamlined and discreet, not protruding. It is intended for covering an area, not drawing attention to it. If you are wearing hose with a codpiece, it should match the hose it is worn with - eye-catching decoration should be avoided. Codpieces must not violate our conduct rules on [sexualising the environment](../rules/Conduct.md#sexual-activity-and-performances).
+A [codpiece](https://en.wikipedia.org/wiki/Codpiece), a shaped piece of material covering the crotch area attached to the front of hose, is acceptable, provided it conceals rather than emphasises the shape. The ideal codpiece is streamlined and discreet, not protruding. It is intended for covering an area, not drawing attention to it. If you are wearing hose with a codpiece, it should match the hose it is worn with - eye-catching decoration should be avoided. Codpieces must not violate our conduct rules on [sexualising the environment](../../out-of-character/rules/Conduct.md#sexual-activity-and-performances).
 
 ## Further Reading
 
@@ -361,7 +361,7 @@ Core Brief
 - [The people](../../in-character/nations/the-league/The_League_people.md)
 - [Culture and customs](../../in-character/nations/the-league/The_League_culture_and_customs.md)
 - Look and feel
-- [Hearth magic](../../mixed/magic/lore/The_League_hearth_magic.md)
+- [Hearth magic](../magic/lore/The_League_hearth_magic.md)
 
 Additional Information
 
@@ -370,12 +370,12 @@ Additional Information
 - [Economic interests](../../in-character/nations/the-league/The_League_economic_interests.md)
 - [Military concerns](../../in-character/nations/the-league/The_League_military_concerns.md)
 - [Religious beliefs](../../in-character/nations/the-league/The_League_religious_beliefs.md)
-- [Magical traditions](../../mixed/magic/lore/The_League_magical_traditions.md)
+- [Magical traditions](../magic/lore/The_League_magical_traditions.md)
 - [Territories](../../in-character/nations/the-league/The_League_territories.md)
-- [Children](../events/The_League_children.md)
-- [Music](../../mixed/music/The_League_music.md)
+- [Children](../../out-of-character/events/The_League_children.md)
+- [Music](../music/The_League_music.md)
 - [Archetypes](../../indexes/by-category/Archetype.md#the-league)
-- [Groups](../groups/The_League_groups.md)
+- [Groups](../../out-of-character/groups/The_League_groups.md)
 - [Egregore](../../in-character/nations/the-league/League_Egregore.md)
 
 ---

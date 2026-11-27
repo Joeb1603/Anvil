@@ -64,7 +64,7 @@ Roleplaying is ultimately its own reward. A good test gives a player as much cha
 
 ## Working With Profound Decisions
 
-Setting a test of mettle is often a challenging proposition. Any earl who needs to set a test of mettle is welcome to take advice from the Dawnish [egregore](../crew/Egregores.md). They will give some help and advice and as they are a member of our crew they have resources available that player characters do not - the ability to create quests and trips through the [Sentinel Gate](../../in-character/world/Sentinel_Gate.md) for example.
+Setting a test of mettle is often a challenging proposition. Any earl who needs to set a test of mettle is welcome to take advice from the Dawnish [egregore](../../in-character/nations/general/Egregores.md). They will give some help and advice and as they are a member of our crew they have resources available that player characters do not - the ability to create quests and trips through the [Sentinel Gate](../../in-character/world/Sentinel_Gate.md) for example.
 
 ---
 

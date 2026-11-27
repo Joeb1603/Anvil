@@ -1,6 +1,6 @@
 # 379YE Spring
 
-Every page tagged to this event, grouped by topic (40 pages).
+Every page tagged to this event, grouped by topic (41 pages).
 
 ## announcements (3)
 
@@ -15,6 +15,10 @@ Every page tagged to this event, grouped by topic (40 pages).
 ## elections (1)
 
 - [379YE Spring Equinox Imperial elections](../../in-character/elections/379YE_Spring_Equinox_Imperial_elections.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Spring Equinox 379YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_379YE.md)
 
 ## senate-motions (28)
 

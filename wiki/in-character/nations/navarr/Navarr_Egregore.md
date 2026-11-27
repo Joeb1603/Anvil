@@ -17,7 +17,7 @@ in_character_boxes: 2
 
 ## Liaven
 
-The Navarri [Egregore](../../../out-of-character/crew/Egregores.md) is Liaven, who shares a place in the [Great Dance](Navarr_culture_and_customs.md#the-great-dance) with all of [Navarr](Navarr.md). Tell Liaven your stories, share how you dance your place in the Dance.
+The Navarri [Egregore](../general/Egregores.md) is Liaven, who shares a place in the [Great Dance](Navarr_culture_and_customs.md#the-great-dance) with all of [Navarr](Navarr.md). Tell Liaven your stories, share how you dance your place in the Dance.
 
 In Spring, Liaven is youthful and energetic, with possibility and curiosity in every step. In Summer, Liaven is more tempered; there is work to be done and preparations to make. In Autumn, time has passed, Liaven knows the path and steps surely. In Winter, Liaven is knowing and steady still, hair grey but eyes bright. Time is short, and life is hard, but there is readiness for what comes next, a looking forward to when Spring comes to again and new life flows once more.
 

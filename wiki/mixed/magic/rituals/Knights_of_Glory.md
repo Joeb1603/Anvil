@@ -20,7 +20,7 @@ revision: 146385
 
 ### Performing the Ritual
 
-Performing this ritual takes at least 10 minutes of roleplaying. If the ritual is cast using the [Imperial Regio](Regio.md#the-imperial-regio) it requires at least 5 minutes of roleplaying instead. This ritual targets an [Imperial army](../../../out-of-character/rules/Army.md). The [general](../../government/military/Military_Council.md) responsible for the army (or the [egregore](../../../out-of-character/crew/Egregores.md) if the general is not at Anvil) must be present throughout.
+Performing this ritual takes at least 10 minutes of roleplaying. If the ritual is cast using the [Imperial Regio](Regio.md#the-imperial-regio) it requires at least 5 minutes of roleplaying instead. This ritual targets an [Imperial army](../../../out-of-character/rules/Army.md). The [general](../../government/military/Military_Council.md) responsible for the army (or the [egregore](../../../in-character/nations/general/Egregores.md) if the general is not at Anvil) must be present throughout.
 
 During the ritual the casters must be in a strong Summer [regio](Regio.md).
 

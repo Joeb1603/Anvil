@@ -232,7 +232,7 @@ The hospital has asked the [Medical Officer of the Pegasus Respite](../../mixed/
 > **Player Volunteers**  
 >
 > **It is no longer possible to email in for this opportunity**  
-> We would like to invite any player who would be interested, to play one of these Therunin refugees at the start of the coming event. You would need to be in basic [Navarri kit](../../out-of-character/costume/Navarr_look_and_feel.md), ideally looking quite injured by use of bandages and fake blood, and report to monster for briefing at 17:45 on the Friday of the event. You can have any lineage trappings, for example those of your regular character to speed your return to the game. We expect you to be done and back at Anvil playing your normal character shortly after 19:00 (depending on how quickly you can change).
+> We would like to invite any player who would be interested, to play one of these Therunin refugees at the start of the coming event. You would need to be in basic [Navarri kit](../../mixed/look-and-feel/Navarr_look_and_feel.md), ideally looking quite injured by use of bandages and fake blood, and report to monster for briefing at 17:45 on the Friday of the event. You can have any lineage trappings, for example those of your regular character to speed your return to the game. We expect you to be done and back at Anvil playing your normal character shortly after 19:00 (depending on how quickly you can change).
 >
 > If you are interested in taking part in this, please email [plot@profounddecisions.co.uk](mailto:plot@profounddecisions.co.uk) by midnight on the 28th of May to confirm your interest so we can give the conjunction itself the appropriate number of players.
 

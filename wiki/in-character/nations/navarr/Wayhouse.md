@@ -13,7 +13,7 @@ revision: 143527
 
 *[Image: Wayhouses allow the stridings - and indeed any weary traveller - a chance to rest and resupply.](https://www.profounddecisions.co.uk/empire-wiki/File:Wayhouse2.jpg)*
 
-*This page covers the wayhouse [Navarr](Navarr.md) [group archetype](../../../out-of-character/rules/Group_Archetypes.md); for the [commission](../../../mixed/commissions/Commission.md) see [Navarr wayhouse](../../../mixed/commissions/Navarr_wayhouse.md).*
+*This page covers the wayhouse [Navarr](Navarr.md) [group archetype](../../../mixed/nations/general/Group_Archetypes.md); for the [commission](../../../mixed/commissions/Commission.md) see [Navarr wayhouse](../../../mixed/commissions/Navarr_wayhouse.md).*
 
 ## Overview
 

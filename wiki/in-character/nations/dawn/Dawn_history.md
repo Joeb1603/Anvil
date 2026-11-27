@@ -61,7 +61,7 @@ Core Brief
 - [Introduction](Dawn.md)
 - [The people](Dawn_people.md)
 - [Culture and customs](Dawn_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Dawn_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Dawn_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/Dawn_hearth_magic.md)
 
 Additional Information

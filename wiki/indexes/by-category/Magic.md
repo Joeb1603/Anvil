@@ -35,7 +35,7 @@ This category collects together all the pages that deal with magic. It most obvi
 - [Divination](../../out-of-character/rules/Divination.md) (out-of-character)
 - [Dramaturgy](../../mixed/magic/lore/Dramaturgy.md) (mixed)
 - [Eternal](../../in-character/eternals/Eternal.md) (in-character)
-- [Eternals and rituals](../../out-of-character/rules/Eternals_and_rituals.md) (out-of-character)
+- [Eternals and rituals](../../mixed/magic/lore/Eternals_and_rituals.md) (mixed)
 - [Formulaic ritual](../../out-of-character/rules/Formulaic_ritual.md) (out-of-character)
 - [Hearth magic](../../out-of-character/rules/Hearth_magic.md) (out-of-character)
 - [Highguard magical traditions](../../mixed/magic/lore/Highguard_magical_traditions.md) (mixed)

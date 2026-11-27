@@ -21,7 +21,7 @@ This section of the FAQ contains questions about [nations](../../in-character/na
 
 ## Can I change nation in play?
 
-To be a member of an Imperial nation you must be accepted by the [egregore](../crew/Egregores.md) of that nation. In effect, this means that an existing character who wants to change nation will need to seek out the egregore of the nation they wish to join and convince them to accept you into their nation. You should make sure you read the page on [nationality](../../in-character/nations/general/Nationality.md) so that you understand the implications of joining a new nation.
+To be a member of an Imperial nation you must be accepted by the [egregore](../../in-character/nations/general/Egregores.md) of that nation. In effect, this means that an existing character who wants to change nation will need to seek out the egregore of the nation they wish to join and convince them to accept you into their nation. You should make sure you read the page on [nationality](../../in-character/nations/general/Nationality.md) so that you understand the implications of joining a new nation.
 
 If your character changes nation, after the egregore has accepted them into the new nation, you will need to make sure your character's updated nationality is recorded. The egregore may be able to do this for you, but normally you will need to go to [GOD](GOD.md) and ask one of the crew there to update your character data.
 

@@ -98,7 +98,7 @@ Core Brief
 - [Introduction](../../../in-character/nations/the-league/The_League.md)
 - [The people](../../../in-character/nations/the-league/The_League_people.md)
 - [Culture and customs](../../../in-character/nations/the-league/The_League_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/The_League_look_and_feel.md)
+- [Look and feel](../../look-and-feel/The_League_look_and_feel.md)
 - Hearth magic
 
 Additional Information

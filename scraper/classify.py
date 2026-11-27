@@ -52,6 +52,10 @@ class Classifier:
             m = TITLE_EVENT_RE.search(title)
             if m:
                 event = f"{m.group(1)}YE {m.group(2)}"
+            else:  # "Summer 382YE", "Winter Solstice 383YE"
+                m = re.search(r"(Spring|Summer|Autumn|Winter)(?: Equinox| Solstice)? (\d{3})\s?YE", title)
+                if m:
+                    event = f"{m.group(2)}YE {m.group(1)}"
         topical = [c for c in cats if not EVENT_RE.match(c)]
 
         def result(rule, why):

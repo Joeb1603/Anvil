@@ -63,7 +63,7 @@ Core Brief
 - [Introduction](Highguard.md)
 - The people
 - [Culture and customs](Highguard_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Highguard_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Highguard_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/Highguard_hearth_magic.md)
 
 Additional Information

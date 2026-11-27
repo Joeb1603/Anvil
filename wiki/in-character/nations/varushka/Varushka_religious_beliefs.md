@@ -38,7 +38,7 @@ Varushkans believe that most animals display one or more of the great virtues. I
 
 [Wisdom](../../religion/Wisdom.md) is usually symbolised by the spider or the squirrel. The goose and the spider (again) symbolise [Vigilance](../../religion/Vigilance.md). The bear and the boar symbolise [Courage](../../religion/Courage.md), and the virtue of [Loyalty](../../religion/Loyalty.md) is associated with the hound. Deer and the eagle often symbolise the Imperial virtue of [Pride](../../religion/Pride.md). [Hares](../../winds-of-fortune/Tale_of_the_Golden_Hare.md), foxes and other animals seen as cunning symbolise [Ambition](../../religion/Ambition.md), and often encourage the hero of the tale to improve their lot or that of their family. [Prosperity](../../religion/Prosperity.md) is symbolised by bees, whose honey has a special place in Varushkan society.
 
-Varushkans use  [animal symbols and runes](../../../out-of-character/costume/Varushka_look_and_feel.md#animals-and-runes) to express virtues in their storytelling and often as part of their costume.
+Varushkans use  [animal symbols and runes](../../../mixed/look-and-feel/Varushka_look_and_feel.md#animals-and-runes) to express virtues in their storytelling and often as part of their costume.
 
 ## Storytellers
 
@@ -122,7 +122,7 @@ Core Brief
 - [Introduction](Varushka.md)
 - [The people](Varushka_people.md)
 - [Culture and customs](Varushka_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Varushka_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Varushka_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/Varushka_hearth_magic.md)
 
 Additional Information

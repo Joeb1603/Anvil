@@ -40,7 +40,9 @@ Nothing needs doing by hand.
   which adds a reading grid), and updates the control history, region positions and
   `map/extra_territories.json`. It pushes a `claude/atlas-*` branch, and
   `.github/workflows/apply-update.yml` merges it into `main`, rebuilds the atlas, and only if the
-  build reports no problems pushes the result, republishes the site and deletes the branch. A
+  build reports no problems and the atlas checks (`map/checks.md`) find no new failure pushes the
+  result, republishes the site and deletes the branch. The task also works through anything the
+  checks list. A
   failed check leaves `main` untouched and GitHub emails the owner. On days with nothing new, the
   task stops straight away.
 

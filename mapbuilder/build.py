@@ -171,6 +171,18 @@ def load_control(terr, regions, seasons, pages):
     for name, extra in extra_territories().items():
         start[name] = extra.get("holder", "Unknown")
 
+    hist_path = MAP_DIR / "nation_history.json"
+    nation_hist = {k: v for k, v in json.loads(hist_path.read_text()).items() if not k.startswith("_")} if hist_path.exists() else {}
+
+    def nation_at(name, s):
+        """The Imperial nation a territory belonged to at season index s (see map/nation_history.json)."""
+        out = nation[name]
+        for entry in nation_hist.get(name, []):
+            if idx[entry["from"]] <= s:
+                out = entry["nation"]
+        return out
+    ctl_nation_at = nation_at
+
     def region_of(name, region):
         region = RENAMED.get((name, region), region)
         return region if region in regions.get(name, []) else None
@@ -186,14 +198,15 @@ def load_control(terr, regions, seasons, pages):
                 nation[name] = canon(t["nation"])
             if isinstance(t.get("imperial"), bool):
                 imperial[name] = t["imperial"]
-            first = canon(t.get("holder_376"), nation[name])
+            last = len(seasons) - 1
+            first = canon(t.get("holder_376"), nation_at(name, 0))
             if not first:  # the page gives no history: assume today's holder held it throughout
-                first = canon(t.get("holder_now"), nation[name]) or start[name]
+                first = canon(t.get("holder_now"), nation_at(name, last)) or start[name]
             start[name] = first
-            now[name] = {"": canon(t.get("holder_now"), nation[name])}
+            now[name] = {"": canon(t.get("holder_now"), nation_at(name, last))}
             for r, hname in (t.get("regions_now") or {}).items():
                 if region_of(name, r):
-                    now[name][region_of(name, r)] = canon(hname, nation[name])
+                    now[name][region_of(name, r)] = canon(hname, nation_at(name, last))
             for c in t.get("changes") or []:
                 when = str(c.get("when") or "")
                 m = SEASON_RE.search(when)
@@ -202,7 +215,10 @@ def load_control(terr, regions, seasons, pages):
                 if c.get("region") and not region:
                     issues.append(f"territory reader: unknown region {c['region']!r} in {name}")
                     continue
-                entry = {"t": name, "r": region, "h": canon(c.get("holder"), nation[name]),
+                at = idx.get(m.group(0)) if m and m.group(0) in idx else (
+                    idx.get(f"{y.group(1)}YE Spring", 0) if y and int(y.group(1)) >= 376 else 0)
+                entry = {"t": name, "r": region, "h": canon(c.get("holder"), nation_at(name, at)),
+                         "ph": canon(c.get("previous_holder"), nation_at(name, max(at - 1, 0))),
                          "kind": c.get("kind") or "other", "note": c.get("note") or "",
                          "conf": c.get("confidence") or "medium", "src": name + " (territory page)",
                          "u": pages.get(name, {}).get("source"), "from": "territory page"}
@@ -231,16 +247,20 @@ def load_control(terr, regions, seasons, pages):
                     issues.append(f"era {era}: unknown region {c['region']!r} in {name}")
                     continue
             src = c.get("source") or ""
-            holder = canon(c.get("holder"), nation[name])
+            at = idx[c["event"]]
+            holder = canon(c.get("holder"), nation_at(name, at))
+            prev_holder = canon(c.get("previous_holder"), nation_at(name, max(at - 1, 0)))
             if not holder:
                 continue
-            changes.append({"t": name, "r": region, "h": holder, "s": idx[c["event"]],
+            changes.append({"t": name, "r": region, "h": holder, "ph": prev_holder, "s": idx[c["event"]],
                             "kind": c.get("kind") or "other", "note": c.get("note") or "",
                             "conf": c.get("confidence") or "medium", "src": src,
                             "u": pages.get(src, {}).get("source"), "from": "winds of war"})
     for c in changes:
         note = c["note"].lower()
-        if c["r"] is None and c["kind"] == "assigned":
+        if c["kind"] == "status" and c["h"] == "Unknown":  # "controller unclear" adds nothing: keep the last known
+            c["np"] = 1
+        elif c["r"] is None and c["kind"] == "assigned":
             c["as"] = 1
         elif c["r"] is None and (note.startswith("territory control only") or note.startswith("territory-level only")):
             c["np"] = 1
@@ -252,8 +272,9 @@ def load_control(terr, regions, seasons, pages):
     changes = [c for c in changes if c["from"] == "winds of war"
                or not any(abs(c["s"] - s) <= 4 for s in primary.get((c["t"], c["r"], c["h"]), []))]
     changes.sort(key=lambda c: (c["s"], c["r"] is not None, c["from"] == "winds of war", c["kind"] != "status"))
-    return {"nation": nation, "imperial": imperial, "start": start, "startRegions": {},
-            "changes": changes, "history": history, "now": now, "issues": issues}
+    return {"nation": nation, "nation_at": nation_at, "imperial": imperial, "start": start, "startRegions": {},
+            "changes": changes, "history": history, "now": now, "issues": issues,
+            "nation_hist": nation_hist}
 
 
 def start_regions(terr, regions, seasons, ctl):
@@ -267,6 +288,10 @@ def start_regions(terr, regions, seasons, ctl):
     raw = []
     for f in control_files():
         raw += [c for c in json.loads(f.read_text()) if c.get("event") in idx]
+    # territory pages' dated region records count too ("the last Highborn-held regions fell in 377YE")
+    raw += [{"event": seasons[c["s"]], "territory": c["t"], "region": c["r"], "holder": c["h"],
+             "previous_holder": c.get("ph"), "kind": c["kind"], "_canon": True}
+            for c in ctl["changes"] if c.get("from") == "territory page" and c["r"] and not c.get("np")]
     raw.sort(key=lambda c: idx[c["event"]])
     first_touch = {}  # earliest painted entry that touches a region: its own, or a whole-territory change
     for c in ctl["changes"]:
@@ -285,13 +310,28 @@ def start_regions(terr, regions, seasons, ctl):
             continue
         seen.add((t, r))
         before = c.get("holder") if c.get("kind") == "status" else c.get("previous_holder")
-        h = canon(before, ctl["nation"].get(t)) if before else None
+        h = (before if c.get("_canon") else canon(before, ctl["nation_at"](t, max(idx[c["event"]] - 1, 0)))) if before else None
         if not h or "unspecified" in h.lower() or h == "Unknown":
             continue
         # a status or change only speaks for the time before it if nothing earlier touched the territory
         if first_touch.get((t, r), 99) < idx[c["event"]]:
             continue
         out.setdefault(t, {})[r] = h  # recorded even when equal to the territory's, so loose statements skip it
+    return out
+
+
+def timeline(state):
+    """{territory: {region or "": [[season index, holder], ...]}}: only the seasons where the holder changes."""
+    out = {}
+    for t, rows in state.items():
+        out[t] = {}
+        for r, v in rows.items():
+            runs = []
+            for i, h in enumerate(v):
+                h = "unknown" if h == "Unknown" else h
+                if not runs or runs[-1][1] != h:
+                    runs.append([i, h])
+            out[t][r] = runs
     return out
 
 
@@ -312,6 +352,35 @@ def apply_changes(terr, regions, seasons, ctl):
                 continue                                         # does not override a region's own record
             for i in range(c["s"], len(seasons)):
                 rows[r][i] = c["h"]
+    # Continuity: when a region's own reports give the same holder before and after a stretch, and nothing
+    # specific to that region says otherwise in between, a vague whole-territory statement in that stretch
+    # did not change it.
+    own = collections.defaultdict(list)
+    for c in ctl["changes"]:
+        if c["r"] and not c.get("np"):
+            own[(c["t"], c["r"])].append(c)
+    for (t, r), recs in own.items():
+        recs.sort(key=lambda c: c["s"])
+        for a, b in zip(recs, recs[1:]):
+            held_before_b = b["h"] if b["kind"] == "status" else b.get("ph")
+            if a["h"] and held_before_b == a["h"] and b["s"] > a["s"]:
+                for i in range(a["s"], b["s"]):
+                    state[t][r][i] = a["h"]
+    # Handover: when the Senate gives a territory to a nation (map/nation_history.json), the regions the
+    # Empire already holds there become that nation's from that season.
+    idx = {x: i for i, x in enumerate(seasons)}
+    for t, entries in ctl.get("nation_hist", {}).items():
+        for e in entries:
+            f = idx[e["from"]]
+            if not e["nation"] or f == 0 or t not in state:
+                continue
+            before = {"The Empire", ctl["nation_at"](t, f - 1)}
+            for r, row in state[t].items():
+                # up to the region's next own report, which says for itself who holds it
+                stop = min([c["s"] for c in own.get((t, r), []) if c["s"] >= f] + [len(seasons)])
+                for i in range(f, stop):
+                    if row[i] in before:
+                        row[i] = e["nation"]
     return state
 
 
@@ -430,7 +499,7 @@ def build(archive_links=True):
         "view": view, "frontiers": front,
         "nlabels": [[[fix(r[0])] + r[1:4] for r in season] for season in nlabels],
         "seasons": seasons, "territories": territories, "holders": holders,
-        "control": {"start": {t: fix(h) for t, h in ctl["start"].items()}, "startRegions": {t: {r: fix(h) for r, h in rs.items()} for t, rs in ctl["startRegions"].items()},
+        "control": {"timeline": timeline(state), "start": {t: fix(h) for t, h in ctl["start"].items()}, "startRegions": {t: {r: fix(h) for r, h in rs.items()} for t, rs in ctl["startRegions"].items()},
                     "changes": [{k: (fix(v) if k == "h" else v) for k, v in c.items() if k != "from"} for c in ctl["changes"]]},
         "events": events, "history": history, "real": ev["real"],
         "breaks": [{"i": sidx[BREAK_BEFORE], "label": "Lockdown",
@@ -481,6 +550,10 @@ if __name__ == "__main__":
     print("holders:", [(h["name"], h["slot"], h["pattern"]) for h in data["holders"]])
     if ctl["issues"]:
         print("issues:", len(ctl["issues"]), ctl["issues"][:8])
+    from . import checks
+    result = checks.run(data, ctl)
+    checks.write(result)
+    print(checks.summary(result))
     if "--artifact" in sys.argv:
         out = sys.argv[sys.argv.index("--artifact") + 1]
         import pathlib

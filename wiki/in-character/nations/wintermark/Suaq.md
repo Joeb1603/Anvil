@@ -66,7 +66,7 @@ The Suaq have a peculiar relationship with the virtue of [Prosperity](../../reli
 
 ## Further Reading
 
-- [Look and Feel](../../../out-of-character/costume/Wintermark_look_and_feel.md#suaq)
+- [Look and Feel](../../../mixed/look-and-feel/Wintermark_look_and_feel.md#suaq)
 - [Sermersuaq](Sermersuaq.md)
 - [Mediators](Wintermark_economic_interests.md#mediator)
 - [Icewalkers](../../../mixed/magic/lore/Wintermark_magical_traditions.md#icewalkers)

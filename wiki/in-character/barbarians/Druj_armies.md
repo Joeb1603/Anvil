@@ -141,7 +141,7 @@ Mladen also advises the [generals](../../mixed/titles/General.md) not to assume 
 - Druj armies
 - [Elite warriors](Arkad.md)
 - [Champions](Druj_champion.md)
-- [Look and feel](../../out-of-character/costume/Druj_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/Druj_look_and_feel.md)
 - [Lore](Druj_lore.md)
 
 ---

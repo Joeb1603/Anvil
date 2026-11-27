@@ -38,7 +38,7 @@ Core Brief
 - [Introduction](../../in-character/nations/the-brass-coast/The_Brass_Coast.md)
 - [The people](../../in-character/nations/the-brass-coast/The_Brass_Coast_people.md)
 - [Culture and customs](../../in-character/nations/the-brass-coast/The_Brass_Coast_culture_and_customs.md)
-- [Look and feel](../costume/The_Brass_Coast_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/The_Brass_Coast_look_and_feel.md)
 - [Hearth magic](../../mixed/magic/lore/The_Brass_Coast_hearth_magic.md)
 
 Additional Information

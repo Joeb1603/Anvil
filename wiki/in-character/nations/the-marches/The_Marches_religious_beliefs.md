@@ -90,7 +90,7 @@ Core Brief
 - [Introduction](The_Marches.md)
 - [The people](The_Marches_people.md)
 - [Culture and customs](The_Marches_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/The_Marches_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/The_Marches_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/The_Marches_hearth_magic.md)
 
 Additional Information

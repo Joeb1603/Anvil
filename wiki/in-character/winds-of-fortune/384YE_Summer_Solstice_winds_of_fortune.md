@@ -201,7 +201,7 @@ The Marcher Assembly and the Assembly of Vigilance have *both* enacted [mandates
 
 The Marcher mandate also ends fears that the Imperial Conclave might rescind the [interdiction](../../mixed/government/conclave/Interdiction.md) on the curse of [Rivers Run Red](../../mixed/magic/rituals/Rivers_Run_Red.md). However, if any Imperial lands are hit with more territory-wide curses and nothing is done, then the issue is likely to resurface and with considerable anger behind it. If Marchers die due to curses cast on their lands and it is well known who did it and Imperial law does nothing... then the best word to describe the resulting mood would be "apoplectic". Until then, the Marchers - especially those of the Mournwold - will respect the words of their Assembly, and turn their attention to more pressing concerns.
 
-**OOC Note:** After the Summer Solstice, our plan is to create a new page for the thresher [archetype](../../out-of-character/rules/Archetype.md) in light of these two mandates, discussing both the more law-abiding and the more vigilante-inspired approaches, and what that might mean for the Marches and the wider Empire.
+**OOC Note:** After the Summer Solstice, our plan is to create a new page for the thresher [archetype](../../mixed/nations/general/Archetype.md) in light of these two mandates, discussing both the more law-abiding and the more vigilante-inspired approaches, and what that might mean for the Marches and the wider Empire.
 
 > *In-character text:*
 >

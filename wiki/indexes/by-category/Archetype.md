@@ -148,7 +148,7 @@ members: 78
 
 - [Advocate](../../in-character/nations/dawn/Advocate.md) (in-character)
 - [Arbiter](../../in-character/nations/urizen/Arbiter.md) (in-character)
-- [Archetype](../../out-of-character/rules/Archetype.md) (out-of-character)
+- [Archetype](../../mixed/nations/general/Archetype.md) (mixed)
 - [Architect](../../in-character/nations/urizen/Architect.md) (in-character)
 - [Benefactor](../../in-character/nations/highguard/Benefactor.md) (in-character)
 - [Bishop](../../in-character/religion/Bishop.md) (in-character)
@@ -159,7 +159,7 @@ members: 78
 - [Dreamspeaker](../../in-character/nations/navarr/Dreamspeaker.md) (in-character)
 - [Earl](../../in-character/nations/dawn/Earl.md) (in-character)
 - [Grey pilgrim](../../in-character/nations/highguard/Grey_pilgrim.md) (in-character)
-- [Group Archetypes](../../out-of-character/rules/Group_Archetypes.md) (out-of-character)
+- [Group Archetypes](../../mixed/nations/general/Group_Archetypes.md) (mixed)
 - [Hakima](../../in-character/nations/the-brass-coast/Hakima.md) (in-character)
 - [Highguard history](../../in-character/nations/highguard/Highguard_history.md) (in-character)
 - [Highguard leadership](../../in-character/nations/highguard/Highguard_leadership.md) (in-character)

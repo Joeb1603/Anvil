@@ -78,7 +78,7 @@ Whatever you do, remember that your character *excels* at hearing at least one a
 
 ## Costume
 
-The Illarawm have largely adopted the [fashions of the other Imperial Orcs](../../../out-of-character/costume/Imperial_Orcs_look_and_feel.md), but their garments often incorporate a hood, especially when wearing a cloak, robe, or similar. Many Illarawm decorate their clothes with the bones of their ancestors, the better to allow them to hear their voices. These are usually fairly small - finger or toe bones - but they can be larger. Ideally the result will be subtle rather than garish; they do not dress this way to appear cruel and intimidating. Thus the bones are meticulously clean, with no traces of blood or similar.
+The Illarawm have largely adopted the [fashions of the other Imperial Orcs](../../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md), but their garments often incorporate a hood, especially when wearing a cloak, robe, or similar. Many Illarawm decorate their clothes with the bones of their ancestors, the better to allow them to hear their voices. These are usually fairly small - finger or toe bones - but they can be larger. Ideally the result will be subtle rather than garish; they do not dress this way to appear cruel and intimidating. Thus the bones are meticulously clean, with no traces of blood or similar.
 
 The bones are often incorporated into the garment itself, to ensure that they cannot come loose and risk becoming lost. The Illarawm only need a tiny portion of the bone, so they will sometimes make buttons or ties that have bone tips (like [Elizabethan points](https://www.worldhistory.org/article/1577/clothes-in-the-elizabethan-era/)). Creating and improving your Illarawm costume is an opportunity to embellish your Imperial Orc costume with flourishes that will stress your connection to the past. The Illarawm don't just wear the bones of those who have gone before, they will wear jewellery and similar that was once worn by an important ancestor as well as marking their garments with images that symbolise their chosen ancestor.
 
@@ -89,7 +89,7 @@ Core Brief
 - [Introduction](Imperial_Orcs.md)
 - [The people](Imperial_Orcs_people.md)
 - [Culture and customs](Imperial_Orcs_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Imperial_Orcs_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md)
 - [Septs](Sept.md)
 - [Orc species brief](../../../mixed/world/Orc.md)
 - [Hearth magic](../../../mixed/magic/lore/Imperial_Orcs_hearth_magic.md)

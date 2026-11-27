@@ -1,6 +1,10 @@
 # 377YE Winter
 
-Every page tagged to this event, grouped by topic (30 pages).
+Every page tagged to this event, grouped by topic (31 pages).
+
+## archive (1)
+
+- [Archive:Roll of Honour Winter Solstice 377YE](../../mixed/archive/Archive-Roll_of_Honour_Winter_Solstice_377YE.md)
 
 ## conclave-sessions (1)
 

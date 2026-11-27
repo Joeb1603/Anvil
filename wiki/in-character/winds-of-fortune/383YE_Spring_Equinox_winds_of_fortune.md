@@ -235,7 +235,7 @@ You can learn about the Wardens of the Soul's Road and their offer [here](Smash_
 
 - **Varushka; Dawn; Holberg; Imperial Orcs; Imperial Synod; Imperial Senate; Ambassador to Otkodov**
 
-[Ossium](../nations/varushka/Ossium.md) - the first new territory to be conquered by the Empire in living memory - has become part of [Varushka](../nations/varushka/Varushka.md). Already Varushkan settlers are moving into the new territory, and the [egregore](../../out-of-character/crew/Egregores.md) has begun to find people who are ready to become Varushkan citizens.
+[Ossium](../nations/varushka/Ossium.md) - the first new territory to be conquered by the Empire in living memory - has become part of [Varushka](../nations/varushka/Varushka.md). Already Varushkan settlers are moving into the new territory, and the [egregore](../nations/general/Egregores.md) has begun to find people who are ready to become Varushkan citizens.
 
 There are still many questions looking for answers. What is to be done about the Ketsov? About the Sand Fishers? About the Crawling Depths? About the cloying miasma of terror that hangs over Ossium like a shroud? And what about the people who already live there? Can they be brought to the Way? And how best can that be achieved? The battle for Ossium may be won but the challenge of making the place truly a part of the Empire is only beginning...
 

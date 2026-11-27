@@ -101,7 +101,7 @@ Core Brief
 - [Introduction](../../../in-character/nations/navarr/Navarr.md)
 - [The people](../../../in-character/nations/navarr/Navarr_people.md)
 - [Culture and customs](../../../in-character/nations/navarr/Navarr_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Navarr_look_and_feel.md)
+- [Look and feel](../../look-and-feel/Navarr_look_and_feel.md)
 - Hearth magic
 
 Additional Information

@@ -5,6 +5,7 @@ class: in-character
 topic: senate-motions
 categories:
 - Senate Motion
+event: 382YE Summer
 last_edited: '2025-10-17T18:28:30Z'
 revision: 129300
 in_character_boxes: 1

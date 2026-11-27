@@ -81,7 +81,7 @@ At various points in their history, the Jotun have entered into pacts with the h
 - Overview
 - [Elite Jotun troops](Elite_Jotun_troops.md)
 - [Elite Jotun characters](Elite_Jotun_characters.md)
-- [Jotun look and feel](../../out-of-character/costume/Jotun_look_and_feel.md)
+- [Jotun look and feel](../../mixed/look-and-feel/Jotun_look_and_feel.md)
 
 ---
 

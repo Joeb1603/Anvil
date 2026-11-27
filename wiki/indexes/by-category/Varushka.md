@@ -105,7 +105,7 @@ This page collects all the information relevant to [Varushka](../../in-character
 - [Varushka hearth magic](../../mixed/magic/lore/Varushka_hearth_magic.md) (mixed)
 - [Varushka history](../../in-character/nations/varushka/Varushka_history.md) (in-character)
 - [Varushka leadership](../../in-character/nations/varushka/Varushka_leadership.md) (in-character)
-- [Varushka look and feel](../../out-of-character/costume/Varushka_look_and_feel.md) (out-of-character)
+- [Varushka look and feel](../../mixed/look-and-feel/Varushka_look_and_feel.md) (mixed)
 - [Varushka magical traditions](../../mixed/magic/lore/Varushka_magical_traditions.md) (mixed)
 - [Varushka Maps](../../in-character/nations/varushka/Varushka_Maps.md) (in-character)
 - [Varushka military concerns](../../in-character/nations/varushka/Varushka_military_concerns.md) (in-character)

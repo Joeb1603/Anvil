@@ -1,6 +1,6 @@
 # 381YE Spring
 
-Every page tagged to this event, grouped by topic (51 pages).
+Every page tagged to this event, grouped by topic (52 pages).
 
 ## conclave-sessions (1)
 
@@ -9,6 +9,10 @@ Every page tagged to this event, grouped by topic (51 pages).
 ## elections (1)
 
 - [381YE Spring Equinox Imperial elections](../../in-character/elections/381YE_Spring_Equinox_Imperial_elections.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Spring Equinox 381YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_381YE.md)
 
 ## senate-motions (32)
 

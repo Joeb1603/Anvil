@@ -1,6 +1,6 @@
 # 378YE Summer
 
-Every page tagged to this event, grouped by topic (21 pages).
+Every page tagged to this event, grouped by topic (22 pages).
 
 ## announcements (2)
 
@@ -10,6 +10,10 @@ Every page tagged to this event, grouped by topic (21 pages).
 ## conclave-sessions (1)
 
 - [378YE Summer Solstice Conclave sessions](../../in-character/conclave-sessions/378YE_Summer_Solstice_Conclave_sessions.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Summer Solstice 378YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_378YE.md)
 
 ## senate-motions (14)
 

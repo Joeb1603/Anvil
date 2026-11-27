@@ -37,7 +37,7 @@ This page collects all the information relevant to [Imperial Orcs](../../in-char
 - [Imperial Orcs hearth magic](../../mixed/magic/lore/Imperial_Orcs_hearth_magic.md) (mixed)
 - [Imperial Orcs history](../../in-character/nations/imperial-orcs/Imperial_Orcs_history.md) (in-character)
 - [Imperial Orcs leadership](../../in-character/nations/imperial-orcs/Imperial_Orcs_leadership.md) (in-character)
-- [Imperial Orcs look and feel](../../out-of-character/costume/Imperial_Orcs_look_and_feel.md) (out-of-character)
+- [Imperial Orcs look and feel](../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md) (mixed)
 - [Imperial Orcs magical traditions](../../mixed/magic/lore/Imperial_Orcs_magical_traditions.md) (mixed)
 - [Imperial Orcs military concerns](../../in-character/nations/imperial-orcs/Imperial_Orcs_military_concerns.md) (in-character)
 - [Imperial Orcs music](../../mixed/music/Imperial_Orcs_music.md) (mixed)

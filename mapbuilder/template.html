@@ -249,22 +249,14 @@ function init(D) {
   const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "territories", front: true, focus: false };
   $("snap").textContent = "wiki snapshot " + D.meta.snapshot.slice(0, 10);
 
-  // ---- control state: holder of every place at every season
+  // ---- control state: holder of every place at every season, worked out by the build (one source of truth)
   const ctl = {};
   for (const t of T) {
-    const start = D.control.start[t.name] || "unknown";
-    const sr = (D.control.startRegions || {})[t.name] || {};
-    ctl[t.name] = { "": Array(S.length).fill(start) };
-    for (const r of t.regions) ctl[t.name][r.name] = Array(S.length).fill(sr[r.name] || start);
-  }
-  const IMP = new Set(D.holders.filter(x => x.group === "Imperial nations").map(x => x.id));
-  for (const c of D.control.changes) {
-    const row = ctl[c.t]; if (!row || c.np) continue;   // np: recorded, but says nothing about individual regions
-    const targets = c.r ? [c.r] : Object.keys(row);
-    const own = (D.control.startRegions || {})[c.t] || {};
-    for (const r of targets) { if (!row[r] || (c.as && !IMP.has(row[r][c.s]))) continue;   // as: Senate assignment
-      if (!c.r && c.kind === "status" && own[r]) continue;   // loose whole-territory statement: keep the region's own record
-      for (let i = c.s; i < S.length; i++) row[r][i] = c.h; }
+    ctl[t.name] = {};
+    const tl = (D.control.timeline || {})[t.name] || { "": [[0, "unknown"]] };
+    for (const r in tl) { const row = Array(S.length); let k = 0;
+      for (let i = 0; i < S.length; i++) { while (k + 1 < tl[r].length && tl[r][k + 1][0] <= i) k++; row[i] = tl[r][k][1]; }
+      ctl[t.name][r] = row; }
   }
   const holderAt = (t, r, s) => (ctl[t][r || ""] || ctl[t][""])[s];
   const majority = (t, s) => { const tt = byName[t]; if (!tt.regions.length) return holderAt(t, "", s);

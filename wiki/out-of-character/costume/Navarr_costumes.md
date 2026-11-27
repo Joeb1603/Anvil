@@ -16,7 +16,7 @@ aliases:
 
 # Navarr costumes
 
-This page contains guides written by players that may be of interest in making costume pieces. It is a very early page intended to supplement the [Navarr look and feel](Navarr_look_and_feel.md) page, and may have been superceded. Official costume advice is found on the [Costume](../rules/Costume.md) page.
+This page contains guides written by players that may be of interest in making costume pieces. It is a very early page intended to supplement the [Navarr look and feel](../../mixed/look-and-feel/Navarr_look_and_feel.md) page, and may have been superceded. Official costume advice is found on the [Costume](../rules/Costume.md) page.
 
 ## Overview
 
@@ -119,7 +119,7 @@ Core Brief
 - [Introduction](../../in-character/nations/navarr/Navarr.md)
 - [The people](../../in-character/nations/navarr/Navarr_people.md)
 - [Culture and customs](../../in-character/nations/navarr/Navarr_culture_and_customs.md)
-- [Look and feel](Navarr_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/Navarr_look_and_feel.md)
 - [Hearth magic](../../mixed/magic/lore/Navarr_hearth_magic.md)
 
 Additional Information

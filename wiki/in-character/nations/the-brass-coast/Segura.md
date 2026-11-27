@@ -191,7 +191,7 @@ Core Brief
 - [Introduction](The_Brass_Coast.md)
 - [The people](The_Brass_Coast_people.md)
 - [Culture and customs](The_Brass_Coast_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/The_Brass_Coast_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/The_Brass_Coast_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/The_Brass_Coast_hearth_magic.md)
 
 Additional Information

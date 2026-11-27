@@ -5,6 +5,7 @@ class: in-character
 topic: roll-of-honour
 categories:
 - Roll of Honour
+event: 382YE Winter
 last_edited: '2025-05-30T01:02:22Z'
 revision: 120882
 ---

@@ -159,7 +159,7 @@ The [Highborn](../nations/highguard/Highguard.md) might have carried the Way to 
 > >
 > > Synod Mandate, Urizen National Assembly
 
-If this mandate is passed, then those Urizen citizens living in Spiral who can imagine a future for themselves in the League will reach out to the [egregore](../../out-of-character/crew/Egregores.md) and explore that possibility. Dozens of them will join the nation - it will only ever be a comparative few - but it will be enough to influence the developing character of Apulian, bringing expertise with magic and a love of learning and philosophy with them. The League has never been short of [Ambition](../religion/Ambition.md), but the mages and architects of Apulian would ensure that the City of Apulian combined that virtue with lofty vision.
+If this mandate is passed, then those Urizen citizens living in Spiral who can imagine a future for themselves in the League will reach out to the [egregore](../nations/general/Egregores.md) and explore that possibility. Dozens of them will join the nation - it will only ever be a comparative few - but it will be enough to influence the developing character of Apulian, bringing expertise with magic and a love of learning and philosophy with them. The League has never been short of [Ambition](../religion/Ambition.md), but the mages and architects of Apulian would ensure that the City of Apulian combined that virtue with lofty vision.
 
 ## A Precious Secret
 

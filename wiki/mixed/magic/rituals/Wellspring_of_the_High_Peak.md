@@ -47,7 +47,7 @@ The ritual can affect additional measures in the same container. Each additional
 
 ### Assurance
 
-This ritual trades with the [eternal](../../../in-character/eternals/Eternal.md) Ossegrahn. If that eternal is placed under [enmity](../../../in-character/eternals/Alignment.md#enmity) it would be illegal to perform, and there may be repercussions if the eternal feels slighted by its use. As with most rituals that [bind an eternal](../../../out-of-character/rules/Eternals_and_rituals.md#rituals-that-deal-with-eternals) to respond in a certain way, there is an [agreement](../../../out-of-character/rules/Eternals_and_rituals.md#assurance-and-stipulation) that certain behaviour will cause it to become non-functional.
+This ritual trades with the [eternal](../../../in-character/eternals/Eternal.md) Ossegrahn. If that eternal is placed under [enmity](../../../in-character/eternals/Alignment.md#enmity) it would be illegal to perform, and there may be repercussions if the eternal feels slighted by its use. As with most rituals that [bind an eternal](../lore/Eternals_and_rituals.md#rituals-that-deal-with-eternals) to respond in a certain way, there is an [agreement](../lore/Eternals_and_rituals.md#assurance-and-stipulation) that certain behaviour will cause it to become non-functional.
 It loses all power if a location called the Spring of the Grey Falls in [Caeli](../../../in-character/nations/urizen/Morrow.md#caeli) is ever harmed. While that region was briefly occupied by the [Druj](../../../in-character/barbarians/Druj.md), and a great deal of destruction wrought, it seems that the Spring (whatever it is) was not harmed, as the ritual continues to function.
 
 ## Description

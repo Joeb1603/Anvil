@@ -22,7 +22,7 @@ revision: 139366
 
 Performing this ritual takes at least 10 minutes of roleplaying. If the ritual is cast using the [Imperial Regio](Regio.md#the-imperial-regio) it requires at least 5 minutes of roleplaying instead.
 
-During the ritual the casters must be in a strong Winter [regio](Regio.md). This ritual targets an [Imperial army](../../../out-of-character/rules/Army.md). The [general](../../government/military/Military_Council.md) responsible for the army (or the [egregore](../../../out-of-character/crew/Egregores.md) if the general is not at Anvil) must be present throughout.
+During the ritual the casters must be in a strong Winter [regio](Regio.md). This ritual targets an [Imperial army](../../../out-of-character/rules/Army.md). The [general](../../government/military/Military_Council.md) responsible for the army (or the [egregore](../../../in-character/nations/general/Egregores.md) if the general is not at Anvil) must be present throughout.
 
 This ritual is an [enchantment](../../../out-of-character/rules/Enchantment.md). A target may only be under one enchantment effect at a time.
 
@@ -44,7 +44,7 @@ This ritual can affect additional campaign armies in the same territory. Each ad
 
 ### Assurance
 
-Given that the ritual calls spirits from the Winter realm, it uses the power of an [eternal](../../../in-character/eternals/Eternal.md), in this case [Wise Rangara](../../../in-character/eternals/Wise_Rangara.md). The [assurance](../../../out-of-character/rules/Eternals_and_rituals.md#assurance-and-stipulation) connected with the ritual was lost for several centuries but recently rediscovered. Shortly before the Winter Solstice 386YE it was confirmed by the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) that the ritual remains effective until the [Archmage of Winter](../../titles/Archmage_of_Winter.md) uses the power of [plenipotentiary](../../titles/Archmage.md#plenipotentiary) to formally ask for an audience with Wise Rangara during which they are able to explain to her satisfaction what lesson they believe the ritual was intended to teach.
+Given that the ritual calls spirits from the Winter realm, it uses the power of an [eternal](../../../in-character/eternals/Eternal.md), in this case [Wise Rangara](../../../in-character/eternals/Wise_Rangara.md). The [assurance](../lore/Eternals_and_rituals.md#assurance-and-stipulation) connected with the ritual was lost for several centuries but recently rediscovered. Shortly before the Winter Solstice 386YE it was confirmed by the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) that the ritual remains effective until the [Archmage of Winter](../../titles/Archmage_of_Winter.md) uses the power of [plenipotentiary](../../titles/Archmage.md#plenipotentiary) to formally ask for an audience with Wise Rangara during which they are able to explain to her satisfaction what lesson they believe the ritual was intended to teach.
 
 *[Image: The unliving husks are corpses inhabited by Winter spirits.](https://www.profounddecisions.co.uk/empire-wiki/File:QuickeningHusks.jpg)*
 
@@ -77,7 +77,7 @@ While the Empire does not make much use of this ritual, its effects have been en
 
 ### History
 
-In Spring of 378YE the [Conclave](../../government/conclave/Conclave.md) passed a [Declaration of Concord](../../government/conclave/Concord.md) stating that this ritual has been known to contradict the funerary traditions of the deceased. This corrupting of a nation's traditions has led to symptoms manifesting upon the nation's [egregore](../../../out-of-character/crew/Egregores.md) and the revealing of other, darker, entities. What that latter clause refers to is not public knowledge, but contributes to the caution with which the ritual is used.
+In Spring of 378YE the [Conclave](../../government/conclave/Conclave.md) passed a [Declaration of Concord](../../government/conclave/Concord.md) stating that this ritual has been known to contradict the funerary traditions of the deceased. This corrupting of a nation's traditions has led to symptoms manifesting upon the nation's [egregore](../../../in-character/nations/general/Egregores.md) and the revealing of other, darker, entities. What that latter clause refers to is not public knowledge, but contributes to the caution with which the ritual is used.
 
 During a [parley](../../titles/Archmage.md#parely) that took place at the Summer Solstice 385YE between [Wise Rangara](../../../in-character/eternals/Wise_Rangara.md) and the [Archmage](../../titles/Archmage.md) **Ematius of the Great Library of Ankarien**, the eternal confirmed that despite a great deal of speculation, they were the one responsible for helping to create this ritual and provided access to the Winter spirits it calls forth. The *Ancient One* declined to provide any other details about this agreement. The assurance was finally uncovered by the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md), during their review of rituals drawing on the power of [eternals](../../../in-character/eternals/Eternal.md) in 386YE. Wise Rangara and her heralds have been approached since by magicians keen to know why she supports such a ritual, but in all cases the answer has been a philosophical shrug and the suggestion that *Grandmother Winter* intends it to be a teaching tool.
 

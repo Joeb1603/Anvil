@@ -64,7 +64,7 @@
 | Appoint Commonwealth ambassador II | [Appoint Commonwealth Ambassador III](../in-character/senate-motions/Appoint_Commonwealth_Ambassador_III.md) |
 | Appointments by the Senate | [Appointment by the Senate](../mixed/government/senate/Appointment_by_the_Senate.md) |
 | Arbonne | [Bay of Catazar](../in-character/world/Bay_of_Catazar.md) |
-| Archetypes | [Archetype](../out-of-character/rules/Archetype.md) |
+| Archetypes | [Archetype](../mixed/nations/general/Archetype.md) |
 | Archivist | [Highguard history](../in-character/nations/highguard/Highguard_history.md) |
 | Armour | [Weapons & armour](../out-of-character/rules/Weapons_-_armour.md) |
 | Arrangement for Britta's body | [Construct shrine for Britta's body](../in-character/senate-motions/Construct_shrine_for_Britta-s_body.md) |
@@ -211,7 +211,7 @@
 | Dawn Icons and Artistry | [Dawn culture and customs](../in-character/nations/dawn/Dawn_culture_and_customs.md) |
 | Dawn Leadership | [Dawn leadership](../in-character/nations/dawn/Dawn_leadership.md) |
 | Dawn Lineage and Species Attitudes | Dawn lineage and species attitudes |
-| Dawn Look and Feel | [Dawn look and feel](../out-of-character/costume/Dawn_look_and_feel.md) |
+| Dawn Look and Feel | [Dawn look and feel](../mixed/look-and-feel/Dawn_look_and_feel.md) |
 | Dawn Magical Traditions | [Dawn magical traditions](../mixed/magic/lore/Dawn_magical_traditions.md) |
 | Dawn Military Concerns | [Dawn military concerns](../in-character/nations/dawn/Dawn_military_concerns.md) |
 | Dawn Music | [Dawn music](../mixed/music/Dawn_music.md) |
@@ -240,7 +240,7 @@
 | Duelist's scales | [Duelist's Scales](../mixed/magic/items/Duelist-s_Scales.md) |
 | Echoes of Glory | [Icon of the Righteous](../mixed/magic/items/Icon_of_the_Righteous.md) |
 | Effulgent Primessence | [Lambent Essences](../mixed/magic/potions/Lambent_Essences.md) |
-| Egregore | [Egregores](../out-of-character/crew/Egregores.md) |
+| Egregore | [Egregores](../in-character/nations/general/Egregores.md) |
 | El official de engage imperial crown loss surcotes de Balo y le Toro Negro | [Imperial Delegate to the Temple in Feroz](../mixed/titles/Imperial_Delegate_to_the_Temple_in_Feroz.md) |
 | El oficial de enlace imperial con los sacerdotes de Balo y el toro negro | [Imperial Delegate to the Temple in Feroz](../mixed/titles/Imperial_Delegate_to_the_Temple_in_Feroz.md) |
 | Elixir of Exalted Puissance | [Philtres of War](../mixed/magic/potions/Philtres_of_War.md) |
@@ -325,7 +325,7 @@
 | Highguard Icons and Artistry | Highguard icons and artistry |
 | Highguard Leadership | [Highguard leadership](../in-character/nations/highguard/Highguard_leadership.md) |
 | Highguard Lineage and Species Attitudes | Highguard lineage and species attitudes |
-| Highguard Look and Feel | [Highguard look and feel](../out-of-character/costume/Highguard_look_and_feel.md) |
+| Highguard Look and Feel | [Highguard look and feel](../mixed/look-and-feel/Highguard_look_and_feel.md) |
 | Highguard Magical Traditions | [Highguard magical traditions](../mixed/magic/lore/Highguard_magical_traditions.md) |
 | Highguard Military Concerns | [Highguard military concerns](../in-character/nations/highguard/Highguard_military_concerns.md) |
 | Highguard Music | [Highguard music](../mixed/music/Highguard_music.md) |
@@ -399,8 +399,8 @@
 | League leadership | [The League leadership](../in-character/nations/the-league/The_League_leadership.md) |
 | League Lineage and Species Attitudes | The League lineage and species attitudes |
 | League lineage and species attitudes | The League lineage and species attitudes |
-| League Look and Feel | [The League look and feel](../out-of-character/costume/The_League_look_and_feel.md) |
-| League look and feel | [The League look and feel](../out-of-character/costume/The_League_look_and_feel.md) |
+| League Look and Feel | [The League look and feel](../mixed/look-and-feel/The_League_look_and_feel.md) |
+| League look and feel | [The League look and feel](../mixed/look-and-feel/The_League_look_and_feel.md) |
 | League magical traditions | [The League magical traditions](../mixed/magic/lore/The_League_magical_traditions.md) |
 | League Military Concerns | [The League military concerns](../in-character/nations/the-league/The_League_military_concerns.md) |
 | League military concerns | [The League military concerns](../in-character/nations/the-league/The_League_military_concerns.md) |
@@ -458,8 +458,8 @@
 | Marches leadership | [The Marches leadership](../in-character/nations/the-marches/The_Marches_leadership.md) |
 | Marches Lineage and Species Attitudes | Marches lineage and species attitudes |
 | Marches lineage and species attitudes | The Marches lineage and species attitudes |
-| Marches Look and Feel | [The Marches look and feel](../out-of-character/costume/The_Marches_look_and_feel.md) |
-| Marches look and feel | [The Marches look and feel](../out-of-character/costume/The_Marches_look_and_feel.md) |
+| Marches Look and Feel | [The Marches look and feel](../mixed/look-and-feel/The_Marches_look_and_feel.md) |
+| Marches look and feel | [The Marches look and feel](../mixed/look-and-feel/The_Marches_look_and_feel.md) |
 | Marches Magical Traditions | [The Marches magical traditions](../mixed/magic/lore/The_Marches_magical_traditions.md) |
 | Marches magical traditions | [The Marches magical traditions](../mixed/magic/lore/The_Marches_magical_traditions.md) |
 | Marches Military Concerns | [The Marches military concerns](../in-character/nations/the-marches/The_Marches_military_concerns.md) |
@@ -504,7 +504,7 @@
 | Navarr History | [Navarr history](../in-character/nations/navarr/Navarr_history.md) |
 | Navarr Leadership | [Navarr leadership](../in-character/nations/navarr/Navarr_leadership.md) |
 | Navarr Lineage and Species Attitudes | Navarr lineage and species attitudes |
-| Navarr Look and Feel | [Navarr look and feel](../out-of-character/costume/Navarr_look_and_feel.md) |
+| Navarr Look and Feel | [Navarr look and feel](../mixed/look-and-feel/Navarr_look_and_feel.md) |
 | Navarr Magical Traditions | [Navarr magical traditions](../mixed/magic/lore/Navarr_magical_traditions.md) |
 | Navarr Military Concerns | [Navarr military concerns](../in-character/nations/navarr/Navarr_military_concerns.md) |
 | Navarr Music | [Navarr music](../mixed/music/Navarr_music.md) |
@@ -521,7 +521,7 @@
 | Navarri Icons and Artistry | Navarr Icons and Artistry |
 | Navarri Leadership | [Navarr leadership](../in-character/nations/navarr/Navarr_leadership.md) |
 | Navarri Lineage and Species Attitudes | Navarr Lineage and Species Attitudes |
-| Navarri Look and Feel | [Navarr look and feel](../out-of-character/costume/Navarr_look_and_feel.md) |
+| Navarri Look and Feel | [Navarr look and feel](../mixed/look-and-feel/Navarr_look_and_feel.md) |
 | Navarri Magical Traditions | [Navarr magical traditions](../mixed/magic/lore/Navarr_magical_traditions.md) |
 | Navarri Military Concerns | [Navarr military concerns](../in-character/nations/navarr/Navarr_military_concerns.md) |
 | Navarri Music | [Navarr music](../mixed/music/Navarr_music.md) |
@@ -763,7 +763,7 @@
 | Urizen History | [Urizen history](../in-character/nations/urizen/Urizen_history.md) |
 | Urizen Leadership | [Urizen leadership](../in-character/nations/urizen/Urizen_leadership.md) |
 | Urizen Lineage and Species Attitudes | Urizen lineage and species attitudes |
-| Urizen Look and Feel | [Urizen look and feel](../out-of-character/costume/Urizen_look_and_feel.md) |
+| Urizen Look and Feel | [Urizen look and feel](../mixed/look-and-feel/Urizen_look_and_feel.md) |
 | Urizen lore | [Urizen magical traditions](../in-character/nations/urizen/Urizen_magical_traditions.md) |
 | Urizen Magical Traditions | [Urizen magical traditions](../in-character/nations/urizen/Urizen_magical_traditions.md) |
 | Urizen Military Concerns | [Urizen military concerns](../in-character/nations/urizen/Urizen_military_concerns.md) |
@@ -782,7 +782,7 @@
 | Varushka Icons and Artistry | Varushka icons and artistry |
 | Varushka Leadership | [Varushka leadership](../in-character/nations/varushka/Varushka_leadership.md) |
 | Varushka Lineage and Species Attitudes | Varushka lineage and species attitudes |
-| Varushka Look and Feel | [Varushka look and feel](../out-of-character/costume/Varushka_look_and_feel.md) |
+| Varushka Look and Feel | [Varushka look and feel](../mixed/look-and-feel/Varushka_look_and_feel.md) |
 | Varushka Magical Traditions | [Varushka magical traditions](../mixed/magic/lore/Varushka_magical_traditions.md) |
 | Varushka Military Concerns | [Varushka military concerns](../in-character/nations/varushka/Varushka_military_concerns.md) |
 | Varushka Music | [Varushka music](../mixed/music/Varushka_music.md) |
@@ -830,7 +830,7 @@
 | Wintermark Hearth Magic | [Wintermark hearth magic](../mixed/magic/lore/Wintermark_hearth_magic.md) |
 | Wintermark History | [Wintermark history](../in-character/nations/wintermark/Wintermark_history.md) |
 | Wintermark Lineage and Species Attitudes | Wintermark lineage and species attitudes |
-| Wintermark Look and Feel | [Wintermark look and feel](../out-of-character/costume/Wintermark_look_and_feel.md) |
+| Wintermark Look and Feel | [Wintermark look and feel](../mixed/look-and-feel/Wintermark_look_and_feel.md) |
 | Wintermark Magical Traditions | [Wintermark magical traditions](../mixed/magic/lore/Wintermark_magical_traditions.md) |
 | Wintermark Military Concerns | [Wintermark military concerns](../in-character/nations/wintermark/Wintermark_military_concerns.md) |
 | Wintermark Military concerns | [Wintermark military concerns](../in-character/nations/wintermark/Wintermark_military_concerns.md) |

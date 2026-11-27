@@ -98,7 +98,7 @@ Core Brief
 - [Introduction](../../../in-character/nations/varushka/Varushka.md)
 - [The people](../../../in-character/nations/varushka/Varushka_people.md)
 - [Culture and customs](../../../in-character/nations/varushka/Varushka_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Varushka_look_and_feel.md)
+- [Look and feel](../../look-and-feel/Varushka_look_and_feel.md)
 - Hearth magic
 
 Additional Information

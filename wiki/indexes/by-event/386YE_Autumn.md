@@ -1,6 +1,6 @@
 # 386YE Autumn
 
-Every page tagged to this event, grouped by topic (64 pages).
+Every page tagged to this event, grouped by topic (65 pages).
 
 ## conclave-sessions (1)
 
@@ -21,6 +21,10 @@ Every page tagged to this event, grouped by topic (64 pages).
 ## military-council-orders (1)
 
 - [386YE Autumn Equinox Military Council orders](../../in-character/military-council-orders/386YE_Autumn_Equinox_Military_Council_orders.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Autumn Equinox 386YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_386YE.md)
 
 ## senate-motions (15)
 

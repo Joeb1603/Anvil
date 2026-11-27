@@ -19,7 +19,7 @@ This is a placeholder page for content that PD are actively working on.
 
 ### Grud The Unshackled
 
-**Grud The Unshackled**, sometimes called *White Death*, is the [egregore](../../../out-of-character/crew/Egregores.md) of the Imperial Orcs. They are the most recent of the egregores to be created, having been brought into existence when the Imperial orcs were recognised as a nation in the reign of [Emperor Ahraz](../../religion/Emperor_Ahraz.md).
+**Grud The Unshackled**, sometimes called *White Death*, is the [egregore](../general/Egregores.md) of the Imperial Orcs. They are the most recent of the egregores to be created, having been brought into existence when the Imperial orcs were recognised as a nation in the reign of [Emperor Ahraz](../../religion/Emperor_Ahraz.md).
 
 Confusingly, perhaps, the hosts of the Imperial Orcs egregore often (but not always) takes the name "Grud", and rarely mention their previous name.
 
@@ -50,7 +50,7 @@ Core Brief
 - [Introduction](Imperial_Orcs.md)
 - [The people](Imperial_Orcs_people.md)
 - [Culture and customs](Imperial_Orcs_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Imperial_Orcs_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md)
 - [Septs](Sept.md)
 - [Orc species brief](../../../mixed/world/Orc.md)
 - [Hearth magic](../../../mixed/magic/lore/Imperial_Orcs_hearth_magic.md)

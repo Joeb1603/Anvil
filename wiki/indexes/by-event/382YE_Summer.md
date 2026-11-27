@@ -1,6 +1,6 @@
 # 382YE Summer
 
-Every page tagged to this event, grouped by topic (64 pages).
+Every page tagged to this event, grouped by topic (66 pages).
 
 ## conclave-sessions (1)
 
@@ -10,7 +10,11 @@ Every page tagged to this event, grouped by topic (64 pages).
 
 - [382YE Summer Solstice Imperial elections](../../in-character/elections/382YE_Summer_Solstice_Imperial_elections.md)
 
-## senate-motions (34)
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Summer Solstice 382YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_382YE.md)
+
+## senate-motions (35)
 
 - [Abrogate stipend of Asavean Architect](../../in-character/senate-motions/Abrogate_stipend_of_Asavean_Architect.md)
 - [Amend Imperial Consul](../../in-character/senate-motions/Amend_Imperial_Consul.md)
@@ -46,6 +50,7 @@ Every page tagged to this event, grouped by topic (64 pages).
 - [Invitation to slavery summit](../../in-character/senate-motions/Invitation_to_slavery_summit.md)
 - [Ratify Thule peace treaty](../../in-character/senate-motions/Ratify_Thule_peace_treaty.md)
 - [Reallocate an Imperial Wayleave to the Imperial Orcs](../../in-character/senate-motions/Reallocate_an_Imperial_Wayleave_to_the_Imperial_Orcs.md)
+- [Resupply Imperial armies Summer 382YE](../../in-character/senate-motions/Resupply_Imperial_armies_Summer_382YE.md)
 
 ## senate-sessions (1)
 

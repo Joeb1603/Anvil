@@ -114,7 +114,7 @@ Core Brief
   - [Kallavesi](Kallavesi.md)
   - [Steinr](Steinr.md)
   - [Suaq](Suaq.md)
-- [Look and feel](../../../out-of-character/costume/Wintermark_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Wintermark_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/Wintermark_hearth_magic.md)
 
 Further Reading

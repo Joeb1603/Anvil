@@ -90,7 +90,7 @@ In addition to Imperial politics, the nation will increasingly have to contend w
 
 ## Costume
 
-The other septs have largely adopted the fashions of the Sunstorm, so all Imperial Orcs will use the sort of garments laid out in the [Imperial Orcs look and feel](../../../out-of-character/costume/Imperial_Orcs_look_and_feel.md) to a large extent. There are two ways you can make your identity as a Sunstorm orc more obvious. The first is to use a depiction of a horse in one or more places on your costume. [Insignia](../../../mixed/magic/lore/Imperial_Orcs_hearth_magic.md#insignia) are very important to orcs, they're a powerful hearth magic that helps you to be part of a group allowing you to work together more effectively. For this reason, the Imperial Orcs adopted the horse, the unofficial symbol of the Empire as their nation's heraldry. It has been a powerful enduring symbol of the Imperial Orcs ever since, but the image doesn't have the same resonance for the other septs who joined the Empire more recently and few of them have adopted it. A striking version of the Imperial Orc banner depicting an armoured horse's head can help to mark you out as a member of the Sunstorm.
+The other septs have largely adopted the fashions of the Sunstorm, so all Imperial Orcs will use the sort of garments laid out in the [Imperial Orcs look and feel](../../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md) to a large extent. There are two ways you can make your identity as a Sunstorm orc more obvious. The first is to use a depiction of a horse in one or more places on your costume. [Insignia](../../../mixed/magic/lore/Imperial_Orcs_hearth_magic.md#insignia) are very important to orcs, they're a powerful hearth magic that helps you to be part of a group allowing you to work together more effectively. For this reason, the Imperial Orcs adopted the horse, the unofficial symbol of the Empire as their nation's heraldry. It has been a powerful enduring symbol of the Imperial Orcs ever since, but the image doesn't have the same resonance for the other septs who joined the Empire more recently and few of them have adopted it. A striking version of the Imperial Orc banner depicting an armoured horse's head can help to mark you out as a member of the Sunstorm.
 
 The other insignia that you can use are the symbols of your legion - the Winter Sun or the Summer Storm. Almost all Sunstorm groups identify strongly with one of the two Imperial Orc legions. There are members of the other septs joining these two legions, but they don't see it as an essential part of their identity in the way the Sunstorm do. Prominent displays of the iconography of your legion on your costume, props or camp set dressing will help to convey how important that is to your character.
 
@@ -101,7 +101,7 @@ Core Brief
 - [Introduction](Imperial_Orcs.md)
 - [The people](Imperial_Orcs_people.md)
 - [Culture and customs](Imperial_Orcs_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Imperial_Orcs_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md)
 - [Septs](Sept.md)
 - [Orc species brief](../../../mixed/world/Orc.md)
 - [Hearth magic](../../../mixed/magic/lore/Imperial_Orcs_hearth_magic.md)

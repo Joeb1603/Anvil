@@ -26,18 +26,19 @@ def territory_regions() -> dict:
     """{territory: [{"name", "anchor", "words"}]} for every territory with a page."""
     pages = read_json(DATA / "pages.json")
     out = {}
-    for name, t in territory_polygons().items():
+    polys = territory_polygons()
+    for name, t in polys.items():
         if not t["has_page"]:
             continue
         body = page_body(pages[name])
-        m = re.search(r"^## Regions[^\n]*\n(.*?)(?=^## |\Z)", body, re.M | re.S)
+        m = re.search(r"^## (?:Regions[^\n]*|Territories)\n(.*?)(?=^## |\Z)", body, re.M | re.S)
         regions = []
         if m:
             for sec in re.split(r"^### ", m.group(1), flags=re.M)[1:]:
                 head, _, rest = sec.partition("\n")
                 title = plain(head)
-                if title.lower() in NOT_REGIONS:
-                    continue
+                if title.lower() in NOT_REGIONS or (title in polys and title != name):
+                    continue  # a heading, or a part that has its own outline on the map
                 regions.append({"name": title, "anchor": slug(title), "words": len(rest.split())})
         out[name] = regions
     return out

@@ -23,7 +23,7 @@ A handy archive of [rules](Empire_rules.md) reminders from the left bar.
 - You must not attempt to parry an arrow or bolt with a weapon. See the [Combat safety](Combat_safety.md) page for more information. (27/06/2026)
 - You may not film or record other participants in the IC area during time-in. See the [Photography](../site/Photography.md#filming-and-audio-recordings) page for more information. (11/05/2026)
 - The use of generative AI is prohibited at Empire and in our online spaces. See the [Playing the game](Playing_the_game.md#artificial-intelligence) and [Online](Online.md#do-not-post-ai-content) pages for more information. (25/03/2026)
-- An existing character who wishes to move nation will need to seek out an [egregore](../crew/Egregores.md) of the nation they wish to join. See the [Nation FAQ](Nation_FAQ.md#can-i-change-nation-in-play) page for more information. (11/02/2026)
+- An existing character who wishes to move nation will need to seek out an [egregore](../../in-character/nations/general/Egregores.md) of the nation they wish to join. See the [Nation FAQ](Nation_FAQ.md#can-i-change-nation-in-play) page for more information. (11/02/2026)
 - You must avoid hitting the groin, neck, or head. See the [combat safety](Combat_safety.md) page for more information. (22/08/2025)
 - When casting [detect magic](Detect_magic.md) it is important to make clear which of the seven [effects](Detect_magic.md#effects) you are invoking. (22/06/2025)
 - Having a [ruined leg](Calls.md#cleave) does not prevent you from using [unstoppable](Heroic_skills.md#unstoppable), but it will not fix it. (10/06/2025)

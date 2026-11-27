@@ -1,8 +1,8 @@
 ---
 title: Highguard look and feel
 source: https://www.profounddecisions.co.uk/empire-wiki/Highguard_look_and_feel
-class: out-of-character
-topic: costume
+class: mixed
+topic: look-and-feel
 categories:
 - Highguard
 - Nations
@@ -23,7 +23,7 @@ The Highborn look is generally practical and restrained. Its beauty is in the sm
 
 Rather than displaying impractical frivolity in the cut of their garments, Highborn show their taste and wealth in jewellery, and the decoration of cloth. Jewelled and embellished trims at the hems of garments are popular, as is the intricate braiding of hair and heavy, elaborate jewellery.
 
-*Also see [Highguard costumes](Highguard_costumes.md) and [icons and artistry](../../in-character/nations/highguard/Highguard_culture_and_customs.md#icons-and-artistry).*
+*Also see [Highguard costumes](../../out-of-character/costume/Highguard_costumes.md) and [icons and artistry](../../in-character/nations/highguard/Highguard_culture_and_customs.md#icons-and-artistry).*
 
 ## Breakdown
 
@@ -81,7 +81,7 @@ The Highborn are a people with a manifest destiny, to unite the human nations an
 
 Highborn priests usually dress in white or dark robes with decoration in a stark colour to stand out.
 
-A common element of Highborn priestly costume is a [stole](https://en.wikipedia.org/wiki/Stole_(vestment)) - a band of cloth worn round the neck and shoulders that hangs down over the front of the body. Commonly these are decorated with a Chapter symbol, and a symbol important to the character's personal faith or [sect](../rules/Bands.md#sects).
+A common element of Highborn priestly costume is a [stole](https://en.wikipedia.org/wiki/Stole_(vestment)) - a band of cloth worn round the neck and shoulders that hangs down over the front of the body. Commonly these are decorated with a Chapter symbol, and a symbol important to the character's personal faith or [sect](../../out-of-character/rules/Bands.md#sects).
 
 - [Image: Jared Pointing at Face.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Jared_Pointing_at_Face.jpg)
 - [Image: Shattered Sermon.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Shattered_Sermon.jpg)
@@ -177,7 +177,7 @@ Clothing for Highborn children is usually sombre and simple but good quality, wi
 
 ## Inappropriate Costume
 
-Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../rules/Costume.md) for further guidelines, including those for [inappropriate costume](../rules/Costume.md#inappropriate-costume).
+Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../../out-of-character/rules/Costume.md) for further guidelines, including those for [inappropriate costume](../../out-of-character/rules/Costume.md#inappropriate-costume).
 
 ## Further Reading
 
@@ -187,7 +187,7 @@ Core Brief
 - [The people](../../in-character/nations/highguard/Highguard_people.md)
 - [Culture and customs](../../in-character/nations/highguard/Highguard_culture_and_customs.md)
 - Look and feel
-- [Hearth magic](../../mixed/magic/lore/Highguard_hearth_magic.md)
+- [Hearth magic](../magic/lore/Highguard_hearth_magic.md)
 
 Additional Information
 
@@ -196,12 +196,12 @@ Additional Information
 - [Economic interests](../../in-character/nations/highguard/Highguard_economic_interests.md)
 - [Military concerns](../../in-character/nations/highguard/Highguard_military_concerns.md)
 - [Religious beliefs](../../in-character/nations/highguard/Highguard_religious_beliefs.md)
-- [Magical traditions](../../mixed/magic/lore/Highguard_magical_traditions.md)
+- [Magical traditions](../magic/lore/Highguard_magical_traditions.md)
 - [Territories](../../in-character/nations/highguard/Highguard_territories.md)
-- [Children](../events/Highguard_children.md)
-- [Music](../../mixed/music/Highguard_music.md)
+- [Children](../../out-of-character/events/Highguard_children.md)
+- [Music](../music/Highguard_music.md)
 - [Archetypes](../../indexes/by-category/Archetype.md#highguard)
-- [Groups](../groups/Highguard_groups.md)
+- [Groups](../../out-of-character/groups/Highguard_groups.md)
 - [Egregore](../../in-character/nations/highguard/Highguard_egregore.md)
 
 ---

@@ -1,8 +1,8 @@
 ---
 title: Past life vision
 source: https://www.profounddecisions.co.uk/empire-wiki/Past_life_vision
-class: out-of-character
-topic: rules
+class: mixed
+topic: religion
 categories:
 - Ceremonies
 - Rules
@@ -18,9 +18,9 @@ revision: 110528
 
 ## Overview
 
-By far the most common use for a dose of [true liao](../../mixed/religion/Liao.md#true-liao) is as part of the ceremony that grants a past life vision. This ceremony is usually administered with the assistance of the *Attendants of the Gateway* (a dedicated department of the Civil Service) but it is possible for any character with the [dedication](Dedication.md) skill to attempt it. Doing so without the assistance of the Civil Service is likely dangerous and highly irregular - but it is not impossible.
+By far the most common use for a dose of [true liao](Liao.md#true-liao) is as part of the ceremony that grants a past life vision. This ceremony is usually administered with the assistance of the *Attendants of the Gateway* (a dedicated department of the Civil Service) but it is possible for any character with the [dedication](../../out-of-character/rules/Dedication.md) skill to attempt it. Doing so without the assistance of the Civil Service is likely dangerous and highly irregular - but it is not impossible.
 
-Preparing true liao for this ceremony is a long and exacting task, but it is not a secret; anyone with the [apothecary](Surgical_skills.md#apothecary) skill could do it in theory - assuming they had a dose of true liao. The process is painstaking and takes a season to complete. Applying the resulting infusion takes two minutes of appropriate roleplaying and requires a [referee](Referee.md). It must be done at a time that has been prearranged with the plot team. In-character, the infusion is time-sensitive in a similar fashion to some other apothecary preparations such as [poisons](Potion.md#poisons).
+Preparing true liao for this ceremony is a long and exacting task, but it is not a secret; anyone with the [apothecary](../../out-of-character/rules/Surgical_skills.md#apothecary) skill could do it in theory - assuming they had a dose of true liao. The process is painstaking and takes a season to complete. Applying the resulting infusion takes two minutes of appropriate roleplaying and requires a [referee](../../out-of-character/rules/Referee.md). It must be done at a time that has been prearranged with the plot team. In-character, the infusion is time-sensitive in a similar fashion to some other apothecary preparations such as [poisons](../../out-of-character/rules/Potion.md#poisons).
 
 The ceremony has one main target, called the *visionary*. It may have one secondary target at no additional cost, usually referred to as the *guide*.
 
@@ -28,7 +28,7 @@ Visionary
 The visionary must be human. They will experience a vision in which they experience events from the perspective of another. They frequently experience [side-effects](#awakening) once the vision ends.
 
 Guide  
-The guide must be human. They must have the [dedication](Dedication.md) skill. They will experience the same vision as the visionary, but as an invisible and silent observer. During the vision, they can only be heard by the visionary. They may experience some side-effects once the vision ends.
+The guide must be human. They must have the [dedication](../../out-of-character/rules/Dedication.md) skill. They will experience the same vision as the visionary, but as an invisible and silent observer. During the vision, they can only be heard by the visionary. They may experience some side-effects once the vision ends.
 
 ## The Vision
 
@@ -48,7 +48,7 @@ Past life visions are a deliberately intense experience from which your characte
 
 Under typical circumstances, the process of awakening from a vision is similar to awakening from a dream or a nightmare. The Attendants of the Gateway will return the visionary and the guide to [Anvil](../../in-character/world/Anvil.md) as quickly as they can. It is normal practice for one of the attendants to remain with them until they are delivered back to their fellows, in case of delayed side-effects. The attendant usually remain until the formal question, “citizens, have I done my duty?” can be answered with an affirmative. They then return to the Gateway to prepare it for the next ceremony.
 
-Past life visions sometimes have unforeseen side effects. The most common effects are [spontaneous auras](../../mixed/magic/lore/Aura.md#spontaneous-auras), usually [personal](../../mixed/magic/lore/Aura.md#personal-auras) to the visionary and/or guide. In a very small number of cases, one or both of the participants have died in the course of their vision. It is popularly believed that a character's behaviour during the vision affects these side effects.
+Past life visions sometimes have unforeseen side effects. The most common effects are [spontaneous auras](../magic/lore/Aura.md#spontaneous-auras), usually [personal](../magic/lore/Aura.md#personal-auras) to the visionary and/or guide. In a very small number of cases, one or both of the participants have died in the course of their vision. It is popularly believed that a character's behaviour during the vision affects these side effects.
 
 The Civil Service offer advice on best practice during a vision as part of the procedure, but while they have performed many of these ceremonies, they do not know everything. The simplest piece of advice is this: the visionary should act as if they are truly present, and the guide should not.
 
@@ -62,7 +62,7 @@ The Civil Service offer advice on best practice during a vision as part of the p
 
 The Attendants of the Gateway make best effort to interview visionaries before beginning the preparation of the true liao, in order to explain what is going to happen. The more details they have, the easier it is to tailor the preparation to the participants. This optional step to the process is normally carried out either on Saturday evening or on Sunday during the summit before the vision is scheduled to take place. If a visionary has not been interviewed by midday on Sunday, they are advised to attend the Hub to arrange an interview. The visionary is not yet required to have selected a guide, and the guide is not interviewed in this way.
 
-Out of character, this is the point at which information regarding any [accessibility](Accessibility.md) requirements is gathered. This information is verified again at the beginning of the event where the vision is to be held. We will always commit to ensuring that the vision is as accessible as possible to both visionary and guide, even if these requirements change.
+Out of character, this is the point at which information regarding any [accessibility](../../out-of-character/rules/Accessibility.md) requirements is gathered. This information is verified again at the beginning of the event where the vision is to be held. We will always commit to ensuring that the vision is as accessible as possible to both visionary and guide, even if these requirements change.
 
 ## Scheduling the Vision
 
@@ -72,25 +72,25 @@ During the event that the vision is scheduled to take place, the visionary and t
 
 The Way does not teach a slavish following of ancient procedures, and the exact nature of the ceremony has not remained fixed over the centuries. One of the most solemn duties of the head curator of the Attendants of the Gateway is to produce their ceremonial script, which is a reflection of their own understanding, drawing upon the traditions of the past. As the current curator is [Highborn](../../in-character/nations/highguard/Highguard.md), the ceremony has a distinctly Highborn feel, but it contains elements drawn from a variety of Imperial traditions.
 
-The true liao ceremony itself is performed by three civil servants. The visionary and guide are conducted into a Civil Service facility a short distance from Anvil, known as the Gateway: they are asked to bring minimal possessions with them. During the ceremony, they are asked to reaffirm their identities, origins, virtue and loyalties in the form of a series of oaths. They are provided with a robe and a hood in a ceremonial [armouring](../../mixed/magic/lore/Highguard_hearth_magic.md#cowls-and-veils) against perils of the Labyrinth of Ages. They are given a final summary of what it is that they are about to do, what is going to happen, and what it is that that might mean. They are then given the true liao.
+The true liao ceremony itself is performed by three civil servants. The visionary and guide are conducted into a Civil Service facility a short distance from Anvil, known as the Gateway: they are asked to bring minimal possessions with them. During the ceremony, they are asked to reaffirm their identities, origins, virtue and loyalties in the form of a series of oaths. They are provided with a robe and a hood in a ceremonial [armouring](../magic/lore/Highguard_hearth_magic.md#cowls-and-veils) against perils of the Labyrinth of Ages. They are given a final summary of what it is that they are about to do, what is going to happen, and what it is that that might mean. They are then given the true liao.
 
 ## Further Reading
 
 - Ceremonial Skills
-  - [Anointing](Anointing.md)
-  - [Consecration](Consecration.md)
-  - [Dedication](Dedication.md)
-  - [Excommunication](Excommunication.md)
-  - [Exorcism](Exorcism.md)
-  - [Hallow](Hallow.md)
-  - [Insight](Insight.md)
-  - [Testimony](Testimony.md)
+  - [Anointing](../../out-of-character/rules/Anointing.md)
+  - [Consecration](../../out-of-character/rules/Consecration.md)
+  - [Dedication](../../out-of-character/rules/Dedication.md)
+  - [Excommunication](../../out-of-character/rules/Excommunication.md)
+  - [Exorcism](../../out-of-character/rules/Exorcism.md)
+  - [Hallow](../../out-of-character/rules/Hallow.md)
+  - [Insight](../../out-of-character/rules/Insight.md)
+  - [Testimony](../../out-of-character/rules/Testimony.md)
 - Additional Information
-  - [Auras](../../mixed/magic/lore/Aura.md)
+  - [Auras](../magic/lore/Aura.md)
   - [The Way](../../in-character/world/The_Way.md)
-  - [Synod](../../mixed/government/synod/Synod.md)
-- [The Seer of the Gateway](../../mixed/titles/Seer_of_the_Gateway.md) has a number of responsibilities relating to past life visions.
-- [The Tribune of the Synod](../../mixed/titles/Tribune_of_the_Synod.md) disburses doses of true liao and maintains appropriate records as part of their duties.
+  - [Synod](../government/synod/Synod.md)
+- [The Seer of the Gateway](../titles/Seer_of_the_Gateway.md) has a number of responsibilities relating to past life visions.
+- [The Tribune of the Synod](../titles/Tribune_of_the_Synod.md) disburses doses of true liao and maintains appropriate records as part of their duties.
 
 ---
 

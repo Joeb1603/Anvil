@@ -15,7 +15,7 @@ aliases:
 
 # Dawn costumes
 
-This page contains guides written by players that may be of interest in making costume pieces. It is a very early page intended to supplement the [Dawn look and feel](Dawn_look_and_feel.md) page, and may have been superceded. Official costume advice is found on the [Costume](../rules/Costume.md) page.
+This page contains guides written by players that may be of interest in making costume pieces. It is a very early page intended to supplement the [Dawn look and feel](../../mixed/look-and-feel/Dawn_look_and_feel.md) page, and may have been superceded. Official costume advice is found on the [Costume](../rules/Costume.md) page.
 
 ## Overview
 
@@ -285,7 +285,7 @@ Core Brief
 - [Introduction](../../in-character/nations/dawn/Dawn.md)
 - [The people](../../in-character/nations/dawn/Dawn_people.md)
 - [Culture and customs](../../in-character/nations/dawn/Dawn_culture_and_customs.md)
-- [Look and feel](Dawn_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/Dawn_look_and_feel.md)
 - [Hearth magic](../../mixed/magic/lore/Dawn_hearth_magic.md)
 
 Additional Information

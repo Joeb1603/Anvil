@@ -105,7 +105,7 @@ We have updated the League brief to incorporate new material relevant to playing
 - [Introduction](../../in-character/nations/the-league/The_League.md)
 - [The people](../../in-character/nations/the-league/The_League_people.md)
 - [Culture and customs](../../in-character/nations/the-league/The_League_culture_and_customs.md)
-- [Look and feel](../costume/The_League_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/The_League_look_and_feel.md)
 - [History](../../in-character/nations/the-league/The_League_history.md)
 - [Religious beliefs](../../in-character/nations/the-league/The_League_religious_beliefs.md)
 - [Magical traditions](../../mixed/magic/lore/The_League_magical_traditions.md)

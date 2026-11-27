@@ -14,7 +14,7 @@ revision: 122126
 
 ## Mother Varushka
 
-The Varushkan [Egregore](../../../out-of-character/crew/Egregores.md) spirit is called Mother Varushka, a familial indication of the high respect in which they are held. They epitomize the [Varushkan tradition](Varushka_culture_and_customs.md) of a wise one, making time for any who need advice or help.
+The Varushkan [Egregore](../general/Egregores.md) spirit is called Mother Varushka, a familial indication of the high respect in which they are held. They epitomize the [Varushkan tradition](Varushka_culture_and_customs.md) of a wise one, making time for any who need advice or help.
 
 The Egregore works hard to maintain the [hearth magics](../../../mixed/magic/lore/Varushka_hearth_magic.md) that keep everyday Varushkans safe. They are particularly concerned to ensure that Varushkans celebrate properly once the sun has set, and like to test any child they meet about the nation’s traditions and the meanings behind them.
 

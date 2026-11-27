@@ -28,7 +28,7 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
 | Territory outlines | The polygons of the wiki's clickable Gazetteer map | Exact copy |
 | Region positions | The name labels on the wiki's hand-drawn territory maps, read by eye | Good: 293 of 306 placed from a label |
 | Region borders | Each territory outline divided around those label positions | **Approximate.** The wiki has no border data |
-| Events | 1,644 dated archive pages, placed by the territory and region links they contain | Mechanical |
+| Events | 1,970 dated archive pages, placed by the territories and regions they link to or name in the text (ignoring people's surnames, donors, sponsors, senators' titles and rosters; region names that usually mean something else, like Terunael, count only beside their territory) | Mechanical |
 | Control over time | Read out of the Winds of War reports and territory pages | **Interpretation**, see below |
 
 Thirteen regions had no usable label (Ayereed and the Mountains of the Moon have no map;
@@ -41,28 +41,48 @@ Who held each region, season by season, was extracted by reading prose: the outc
 of the Winds of War pages for every event, and the history sections of the territory pages.
 The raw extractions are in `control_raw/`, one file per era plus one for the territory pages.
 
-- 605 entries in total: changes of control, plain statements of who held what, and
-  territory-level statements that are listed but not painted onto individual regions.
+- 574 entries from the reports, plus the territory pages' own histories: changes of control, plain
+  statements of who held what, and territory-level statements that are listed but not painted
+  onto individual regions.
 - Every entry names its source page, and the page links to it.
 - Entries the sources leave unclear are marked uncertain.
-- A sample of ten painted changes was checked against the source wording: nine are stated
-  directly and one was already marked as an inference.
-- The final season was compared with what each territory page says today. Eight regions
-  differed because the sources never date the change; those are applied at the final season
-  and labelled as undated.
 
 Each region starts with the holder its first report gives for it: a change says who held the
 region before it, and a plain statement says who holds it. Where that disagrees with the
-territory as a whole (Holberg's walls, Crowslook and Branoc in Karsk, Greensward in Mournwold and
-so on), the region keeps its own record, and loose whole-territory statements such as "Karsk is
-Varushkan" do not paint over it. Checked against every region with a report: 137 of 139 agree,
-and the other two are places where two sources contradict each other in the same season. When
-the territory page and a campaign report date the same change differently, the report wins.
+territory as a whole (Holberg's walls, Greensward in Mournwold and so on), the region keeps its
+own record, and loose whole-territory statements such as "Karsk is Varushkan" do not paint over it.
+A whole-territory statement that doesn't say which regions it covers ("the Druj regain the east")
+is listed but not painted. When the territory page and a campaign report date the same change
+differently, the report wins.
 
-Known gaps the sources do not resolve include when Spiral became Grendel-held, what happened
-to Greenwall and Ribeira after they were conquered, and the per-region picture at the very
-start (only whole-territory holders are known for 376YE Winter). Treat the earliest seasons
-as the least certain.
+When the Senate gives a territory to a nation (`nation_history.json`: Spiral to Urizen and later
+the League, Skarsind to the Imperial Orcs, Ossium to Varushka, Mareave to the Imperial Orcs,
+Sarangrave to Urizen), the regions the Empire already holds there pass to that nation from that
+season, and a report's bare "the Empire" means whichever nation the territory belonged to then.
+
+Known gaps the sources do not resolve include what happened to Greenwall after it was conquered,
+Liathaven between 381YE and 384YE, and the per-region picture at the very start where no report
+names a region. Treat the earliest seasons as the least certain.
+
+### Atlas checks
+
+Every build runs `mapbuilder/checks.py` and writes the results to `checks.md` (and `checks.json`).
+It fails on anything that probably makes the map wrong:
+
+- a control record naming a territory or region the map doesn't have;
+- a place with no known holder today, or none in any season, or a holder with no legend entry;
+- a report saying someone held a region (or territory) just before a change, when the map shows
+  someone else then (checked for every report, not only the first: 245 region changes);
+- two reports giving the same region different holders in the same season;
+- a missing season, or pages dated outside the timeline.
+
+It warns about things that may be missing: regions positioned by guesswork rather than a wiki map,
+Winds of War attached to no place, holders known only from today's territory page with no date,
+changes a territory page dates only by year, and "the Empire" with no nation where the territory
+has one. Explained exceptions, each with its reason, are in `checks_accepted.json`; today there are
+12 (the Mountains of the Moon have no region map, and seven reports describe a partial occupation
+or a change undone between summits). The daily update flags failures on its run; an update from the
+scheduled Claude task is refused if it adds a failure.
 
 Seasons within an Imperial year run Spring, Summer, Autumn, Winter. In real life each year's
 events open with a Winter Solstice, which closes the previous Imperial year: the wiki counts
@@ -75,10 +95,16 @@ The wiki has two dated territory maps: "End of Winter 378YE" (Map-tactical2-y3e1
 "The Empire, Spring 381" (Map-tactical-MASTER-IC-01). The atlas agrees with both on which
 territories were Imperial and who held the rest. Ossium isn't drawn on either map, so it can't be
 compared. They also settled one conflict between sources: Nitrost in Karsk returned to Varushka in
-378YE Winter, recorded in `control_raw/corrections.json`.
+378YE Winter, recorded in `control_raw/corrections.json`. That file also holds changes found by
+reading the sources when the checks flagged them: Deer's Folly in Hercynia held by the vallorn
+throughout, Crowslook and Branoc retaken by the Golden Axe in 379YE Winter, Dogri Thulebane's
+Winterfolk rebels holding Crow's Ridge 379YE Winter to 381YE Spring, Miechernya ceded to the Thule in
+383YE Winter, the Jotun sweep of Liathaven in 384YE Winter, and Ribeira back in Jotun hands by 387YE
+Summer.
 
 Ayereed's regions are read from "Ayereed regions.png", which appears on other pages rather than
-Ayereed's own. The Mountains of the Moon have no region map anywhere on the wiki, so they stay
+Ayereed's own. Madruga's are from "Madruga Made Anew.png", the post-blight map that adds the
+Crucible, and Otkodov's three outline parts are its regions Nithoggir, Urdur and Sküld. The Mountains of the Moon have no region map anywhere on the wiki, so they stay
 placed by the compass directions in their descriptions.
 
 ### Territories with no page of their own

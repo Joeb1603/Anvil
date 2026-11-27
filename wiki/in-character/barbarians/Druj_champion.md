@@ -56,7 +56,7 @@ The tepel often bestow [magic items](../../out-of-character/rules/Magic_items.md
 - [Druj armies](Druj_armies.md)
 - [Elite warriors](Arkad.md)
 - Champions
-- [Look and feel](../../out-of-character/costume/Druj_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/Druj_look_and_feel.md)
 - [Lore](Druj_lore.md)
 
 ---

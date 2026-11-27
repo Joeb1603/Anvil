@@ -45,7 +45,7 @@ Core Brief
 - [Introduction](../../in-character/nations/the-marches/The_Marches.md)
 - [The people](../../in-character/nations/the-marches/The_Marches_people.md)
 - [Culture and customs](../../in-character/nations/the-marches/The_Marches_culture_and_customs.md)
-- [Look and feel](../costume/The_Marches_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/The_Marches_look_and_feel.md)
 - [Hearth magic](../../mixed/magic/lore/The_Marches_hearth_magic.md)
 
 Additional Information

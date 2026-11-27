@@ -35,7 +35,7 @@ revision: 132297
 - Navarr Music @ [Empire](Main_Page.md) > [The Nations](../../in-character/nations/general/Nation_overview.md) > [Music](../../mixed/music/Music.md) > [Navarr Music](../../mixed/music/Navarr_music.md) >
 - Imperial Orc music @ [Empire](Main_Page.md) > [The Nations](../../in-character/nations/general/Nation_overview.md) > [Music](../../mixed/music/Music.md) > [Imperial Orc music](../../mixed/music/Imperial_Orcs_music.md) >
 - Music @ [Empire](Main_Page.md) > [The Nations](../../in-character/nations/general/Nation_overview.md) > [Music](../../mixed/music/Music.md) >
-- Egregores @ [Empire](Main_Page.md) > [The Nations](../../in-character/nations/general/Nation_overview.md) > [Egregores](../crew/Egregores.md) >
+- Egregores @ [Empire](Main_Page.md) > [The Nations](../../in-character/nations/general/Nation_overview.md) > [Egregores](../../in-character/nations/general/Egregores.md) >
 - Imperial Orcs @ [Empire](Main_Page.md) > [The Nations](../../in-character/nations/general/Nation_overview.md) > [Imperial Orcs](../../in-character/nations/imperial-orcs/Imperial_Orcs.md) >
 - Highguard @ [Empire](Main_Page.md) > [The Nations](../../in-character/nations/general/Nation_overview.md) > [Highguard](../../in-character/nations/highguard/Highguard.md) >
 - The League @ [Empire](Main_Page.md) > [The Nations](../../in-character/nations/general/Nation_overview.md) > [The League](../../in-character/nations/the-league/The_League.md) >

@@ -1,6 +1,6 @@
 # 381YE Summer
 
-Every page tagged to this event, grouped by topic (57 pages).
+Every page tagged to this event, grouped by topic (58 pages).
 
 ## announcements (1)
 
@@ -13,6 +13,10 @@ Every page tagged to this event, grouped by topic (57 pages).
 ## elections (1)
 
 - [381YE Summer Solstice Imperial elections](../../in-character/elections/381YE_Summer_Solstice_Imperial_elections.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Summer Solstice 381YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_381YE.md)
 
 ## senate-motions (36)
 

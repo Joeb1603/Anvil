@@ -1,8 +1,8 @@
 ---
 title: Varushka look and feel
 source: https://www.profounddecisions.co.uk/empire-wiki/Varushka_look_and_feel
-class: out-of-character
-topic: costume
+class: mixed
+topic: look-and-feel
 categories:
 - Varushka
 - Nations
@@ -23,7 +23,7 @@ Varushkans like to display their wealth in their costume. Clothes are usually pr
 
 Armour and weapons are always solid and well made. For most they are practical pieces made to serve, but the wealthiest Varushkans use ornate designs that serve to strike fear into their enemies. Talismans are widespread, used to help ward off evil.
 
-*Also see [Varushka costumes](Varushka_costumes.md) and [icons and artistry](../../in-character/nations/varushka/Varushka_culture_and_customs.md#icons-and-artistry).*
+*Also see [Varushka costumes](../../out-of-character/costume/Varushka_costumes.md) and [icons and artistry](../../in-character/nations/varushka/Varushka_culture_and_customs.md#icons-and-artistry).*
 
 ## Breakdown
 
@@ -74,7 +74,7 @@ Fur is used extensively to trim garments of all kinds including armour. When tri
 
 ### Hats
 
-Varushkan hats may be simple embroidered round caps trimmed with fur (you can find a simple tutorial for making this kind of hat [here](How_to_-_Make_a_fur_hat.md)), kokoshnik in the appropriate colours, or else pointed caps that fold over the head.
+Varushkan hats may be simple embroidered round caps trimmed with fur (you can find a simple tutorial for making this kind of hat [here](../../out-of-character/costume/How_to_-_Make_a_fur_hat.md)), kokoshnik in the appropriate colours, or else pointed caps that fold over the head.
 
 - [Image: Naga Boyar with an Excellent Kokoshnik.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Naga_Boyar_with_an_Excellent_Kokoshnik.jpg)
 - [Image: Decorated Blue Hat with a cheeky collar.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Decorated_Blue_Hat_with_a_cheeky_collar.jpg)
@@ -184,7 +184,7 @@ Varushkans often use [animal symbols](../../in-character/nations/varushka/Varush
 
 ## Inappropriate Costume
 
-Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../rules/Costume.md) for further guidelines, including those for [inappropriate costume](../rules/Costume.md#inappropriate-costume)
+Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../../out-of-character/rules/Costume.md) for further guidelines, including those for [inappropriate costume](../../out-of-character/rules/Costume.md#inappropriate-costume)
 
 - Varushka is not a catch all culture for all things cool and Eastern European/Russian. It would be surprising to find short braided cavalry jackets (eg Hussar's jackets) worn by Varushkans rather than the long swirling coats they favour.
 - Similarly big fur hats and tiny waistcoats - Cossack style - are not commonly worn and neither are Cossack dances a common form of Varushkan entertainment.
@@ -198,7 +198,7 @@ Core Brief
 - [The people](../../in-character/nations/varushka/Varushka_people.md)
 - [Culture and customs](../../in-character/nations/varushka/Varushka_culture_and_customs.md)
 - Look and feel
-- [Hearth magic](../../mixed/magic/lore/Varushka_hearth_magic.md)
+- [Hearth magic](../magic/lore/Varushka_hearth_magic.md)
 
 Additional Information
 
@@ -207,12 +207,12 @@ Additional Information
 - [Economic interests](../../in-character/nations/varushka/Varushka_economic_interests.md)
 - [Military concerns](../../in-character/nations/varushka/Varushka_military_concerns.md)
 - [Religious beliefs](../../in-character/nations/varushka/Varushka_religious_beliefs.md)
-- [Magical traditions](../../mixed/magic/lore/Varushka_magical_traditions.md)
+- [Magical traditions](../magic/lore/Varushka_magical_traditions.md)
 - [Territories](../../in-character/nations/varushka/Varushka_territories.md)
-- [Children](../events/Varushka_children.md)
-- [Music](../../mixed/music/Varushka_music.md)
+- [Children](../../out-of-character/events/Varushka_children.md)
+- [Music](../music/Varushka_music.md)
 - [Archetypes](../../indexes/by-category/Archetype.md#varushka)
-- [Groups](../groups/Varushka_groups.md)
+- [Groups](../../out-of-character/groups/Varushka_groups.md)
 - [Egregore](../../in-character/nations/varushka/Varushka_Egregore.md)
 
 ---

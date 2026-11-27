@@ -1,8 +1,8 @@
 ---
 title: Dawn look and feel
 source: https://www.profounddecisions.co.uk/empire-wiki/Dawn_look_and_feel
-class: out-of-character
-topic: costume
+class: mixed
+topic: look-and-feel
 categories:
 - Dawn
 - Nations
@@ -23,7 +23,7 @@ aliases:
 
 There is a touch of tragic flaw to the people here though also, with elements of Shakespeare's tragedies and Tennyson's poems threaded through their lives, leaving shadow in contrast to all the glorious polished armour.
 
-*Also see [Dawn costumes](Dawn_costumes.md) and [icons and artistry](../../in-character/nations/dawn/Dawn_culture_and_customs.md#icons-and-artistry).*
+*Also see [Dawn costumes](../../out-of-character/costume/Dawn_costumes.md) and [icons and artistry](../../in-character/nations/dawn/Dawn_culture_and_customs.md#icons-and-artistry).*
 
 ## Breakdown
 
@@ -146,7 +146,7 @@ Leather armour is common in Dawn, and is often worn by [yeofolk](../../in-charac
 
 ### Mage Armour
 
-[Mage armour](../rules/Weapons_-_armour.md#mage-armour), like other Dawnish armour, is often ornamented and may bear heraldic devices.
+[Mage armour](../../out-of-character/rules/Weapons_-_armour.md#mage-armour), like other Dawnish armour, is often ornamented and may bear heraldic devices.
 
 - [Image: Dawn War-Witch.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Dawn_War-Witch.jpg)
 - [Image: TatyannaOrzel.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:TatyannaOrzel.jpg)
@@ -165,7 +165,7 @@ Shields are highly popular in Dawn, as much for their decoration as their abilit
 
 ## Inappropriate Costume
 
-Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../rules/Costume.md) for further guidelines, including those for [inappropriate costume](../rules/Costume.md#inappropriate-costume).
+Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../../out-of-character/rules/Costume.md) for further guidelines, including those for [inappropriate costume](../../out-of-character/rules/Costume.md#inappropriate-costume).
 
 ## Further Reading
 
@@ -175,7 +175,7 @@ Core Brief
 - [The people](../../in-character/nations/dawn/Dawn_people.md)
 - [Culture and customs](../../in-character/nations/dawn/Dawn_culture_and_customs.md)
 - Look and feel
-- [Hearth magic](../../mixed/magic/lore/Dawn_hearth_magic.md)
+- [Hearth magic](../magic/lore/Dawn_hearth_magic.md)
 
 Additional Information
 
@@ -184,12 +184,12 @@ Additional Information
 - [Economic interests](../../in-character/nations/dawn/Dawn_economic_interests.md)
 - [Military concerns](../../in-character/nations/dawn/Dawn_military_concerns.md)
 - [Religious beliefs](../../in-character/nations/dawn/Dawn_religious_beliefs.md)
-- [Magical traditions](../../mixed/magic/lore/Dawn_magical_traditions.md)
+- [Magical traditions](../magic/lore/Dawn_magical_traditions.md)
 - [Territories](../../in-character/nations/dawn/Dawn_territories.md)
-- [Children](../events/Dawn_children.md)
-- [Music](../../mixed/music/Dawn_music.md)
+- [Children](../../out-of-character/events/Dawn_children.md)
+- [Music](../music/Dawn_music.md)
 - [Archetypes](../../indexes/by-category/Archetype.md#dawn)
-- [Groups](../groups/Dawn_groups.md)
+- [Groups](../../out-of-character/groups/Dawn_groups.md)
 - [Egregore](../../in-character/nations/dawn/Dawn_egregore.md)
 
 ---

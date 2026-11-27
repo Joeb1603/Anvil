@@ -65,7 +65,7 @@ Having talked at length with the orcs, the civil service have three recommendati
 > >
 > > Synod Mandate, Imperial Orc Assembly
 
-The first and most obvious is [Skarsind](../nations/imperial-orcs/Skarsind.md) in the north. The orcs of the Broken Shore are not much like the Imperial Orcs - in fact the only discernible similarity is that they are orcs. But they are no *more* different than some of the Jarmish orcs who have settled in Skarsind - and it seems likely that many of them will embrace Imperial Orc culture, accept the [egregore](../../out-of-character/crew/Egregores.md) bond and become full citizens.
+The first and most obvious is [Skarsind](../nations/imperial-orcs/Skarsind.md) in the north. The orcs of the Broken Shore are not much like the Imperial Orcs - in fact the only discernible similarity is that they are orcs. But they are no *more* different than some of the Jarmish orcs who have settled in Skarsind - and it seems likely that many of them will embrace Imperial Orc culture, accept the [egregore](../nations/general/Egregores.md) bond and become full citizens.
 
 The only difficulty is that Skarsind is a long way away - it will be a difficult and dangerous journey for many who attempt, given how little food and resources they have. The [Senate](../../mixed/government/senate/Senate.md) could address that problem, by instructing the civil service to provide food, clothing, and appropriate support and guidance to the former slaves as they make their way north at a cost to the Imperial treasury of 20 thrones. That would ensure that they arrived quickly, safely and well fed - and thus be ready to begin their new lives.
 

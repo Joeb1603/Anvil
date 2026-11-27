@@ -13,7 +13,7 @@ revision: 119835
 
 # Archive:The League costumes
 
-**This page has been superseded by [the League look and feel](The_League_look_and_feel.md)**
+**This page has been superseded by [the League look and feel](../../mixed/look-and-feel/The_League_look_and_feel.md)**
 
 ## Look and feel
 
@@ -346,7 +346,7 @@ Core Brief
 - [Introduction](../../in-character/nations/the-league/The_League.md)
 - [The people](../../in-character/nations/the-league/The_League_people.md)
 - [Culture and customs](../../in-character/nations/the-league/The_League_culture_and_customs.md)
-- [Look and feel](The_League_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/The_League_look_and_feel.md)
 - [Hearth magic](../../mixed/magic/lore/The_League_hearth_magic.md)
 
 Additional Information

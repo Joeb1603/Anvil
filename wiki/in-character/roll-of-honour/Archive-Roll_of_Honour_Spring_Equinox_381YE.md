@@ -5,6 +5,7 @@ class: in-character
 topic: roll-of-honour
 categories:
 - Roll of Honour
+event: 381YE Spring
 last_edited: '2025-05-30T01:02:43Z'
 revision: 120893
 ---

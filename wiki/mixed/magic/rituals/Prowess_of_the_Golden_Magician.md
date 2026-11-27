@@ -43,7 +43,7 @@ This ritual can affect additional characters from the same [coven](../../../out-
 
 ### Assurance
 
-This ritual grants an intuitive understanding of magical lores, and as with other such rituals draws on the power of an [eternal](../../../in-character/eternals/Eternal.md), in this case [Meraud](../../../in-character/eternals/Meraud.md). The [assurance](../../../out-of-character/rules/Eternals_and_rituals.md#assurance-and-stipulation) connected with the ritual was lost for several centuries but was unearthed by members of the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if [Spiral Castle](../../titles/Castellan_of_Spiral_Castle.md) is lost to Dawn.
+This ritual grants an intuitive understanding of magical lores, and as with other such rituals draws on the power of an [eternal](../../../in-character/eternals/Eternal.md), in this case [Meraud](../../../in-character/eternals/Meraud.md). The [assurance](../lore/Eternals_and_rituals.md#assurance-and-stipulation) connected with the ritual was lost for several centuries but was unearthed by members of the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if [Spiral Castle](../../titles/Castellan_of_Spiral_Castle.md) is lost to Dawn.
 
 *Oswiu Thrice-Runed*, one of the magicians of the order, highlights that this is not just a matter of [Weirmoor](../../../in-character/nations/dawn/Weirwater.md#weirmoor) being lost to barbarians - though that would certainly count - but if the title of Castellan of Spiral Castle were to ever become an Imperial title then that would also break the assurance.
 

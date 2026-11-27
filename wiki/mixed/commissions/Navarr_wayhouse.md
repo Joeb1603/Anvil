@@ -13,7 +13,7 @@ revision: 143623
 
 # Navarr wayhouse
 
-*This page covers the [commission](Commission.md); for the [Navarr group archetype](../../out-of-character/rules/Group_Archetypes.md) see [wayhouse](../../in-character/nations/navarr/Wayhouse.md).*
+*This page covers the [commission](Commission.md); for the [Navarr group archetype](../nations/general/Group_Archetypes.md) see [wayhouse](../../in-character/nations/navarr/Wayhouse.md).*
 
 ## Overview
 

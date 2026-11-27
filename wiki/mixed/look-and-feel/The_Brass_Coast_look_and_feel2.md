@@ -1,8 +1,8 @@
 ---
 title: The Brass Coast look and feel2
 source: https://www.profounddecisions.co.uk/empire-wiki/The_Brass_Coast_look_and_feel2
-class: out-of-character
-topic: costume
+class: mixed
+topic: look-and-feel
 categories: []
 last_edited: '2025-07-12T20:29:12Z'
 revision: 123729
@@ -49,7 +49,7 @@ Veils, scarves, head-wraps, pantaloons, loose shirts and kaftans, are all part o
 
 As with any Freeborn, [kohan](../../in-character/nations/the-brass-coast/Kohan.md) usually dress as extravagantly as possible. What really sets them apart from other Brass Coast warriors however is their use of facepaint. Vivid colours are used, often in threatening designs, the better to unnerve their enemies. There is a wide variety of designs across the faces of the Coast, some kohan groups keeping their masks of war the same over decades of battle with others changing it day by day as their feelings take them.
 
-A kohan band may cultivate a uniform look to their [costume](../rules/Costume.md) - generally through the use of colour. A given band is likely to pick one or two shades and encourage its members to wear clothing in these colours, leaving it up to the individual to determine the exact cut and style.
+A kohan band may cultivate a uniform look to their [costume](../../out-of-character/rules/Costume.md) - generally through the use of colour. A given band is likely to pick one or two shades and encourage its members to wear clothing in these colours, leaving it up to the individual to determine the exact cut and style.
 
 Some kohan take valuable trinkets from particularly impressive fallen enemies, generally pieces of jewellery. The more striking these items are, the more opportunities they give to tell stories about how they were acquired.
 

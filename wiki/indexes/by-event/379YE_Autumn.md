@@ -1,6 +1,6 @@
 # 379YE Autumn
 
-Every page tagged to this event, grouped by topic (52 pages).
+Every page tagged to this event, grouped by topic (53 pages).
 
 ## announcements (2)
 
@@ -14,6 +14,10 @@ Every page tagged to this event, grouped by topic (52 pages).
 ## elections (1)
 
 - [379YE Autumn Equinox Imperial elections](../../in-character/elections/379YE_Autumn_Equinox_Imperial_elections.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Autumn Equinox 379YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_379YE.md)
 
 ## senate-motions (26)
 

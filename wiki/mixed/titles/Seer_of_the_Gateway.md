@@ -16,7 +16,7 @@ revision: 140943
 
 *[Image: The Seer of the Gateway ensures the safety of citizens experiencing a true liao vision and records their experiences.](https://www.profounddecisions.co.uk/empire-wiki/File:Livia_played_by_Isobel_Hooper.jpg)*
 
-The position was [established](../../in-character/senate-motions/Create_title_of_Seer_of_the_Gateway.md) by the Senate at the Winter Solstice summit of 379YE. The Seer of the Gateway exists to ensure the safety, and record the experiences, of citizens returning from a [past life vision](../../out-of-character/rules/Past_life_vision.md).
+The position was [established](../../in-character/senate-motions/Create_title_of_Seer_of_the_Gateway.md) by the Senate at the Winter Solstice summit of 379YE. The Seer of the Gateway exists to ensure the safety, and record the experiences, of citizens returning from a [past life vision](../religion/Past_life_vision.md).
 
 The first Seer of the Gateway was **Livia of the Spire of the Celestial Cascade** of [Urizen](../../in-character/nations/urizen/Urizen.md), appointed in Winter 379YE by the Assembly of the Nine. No other candidates were considered. Livia is a skilled Torchbearer with years of experience helping visionaries to recall every last detail of their vision, as well as dealing with the side-effects of the process. Even before being appointed to the title, she would often approach visionaries to ask for permission before their vision, and wait for them to emerge afterwards.
 

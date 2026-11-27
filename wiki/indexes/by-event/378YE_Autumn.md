@@ -1,6 +1,6 @@
 # 378YE Autumn
 
-Every page tagged to this event, grouped by topic (21 pages).
+Every page tagged to this event, grouped by topic (22 pages).
 
 ## announcements (1)
 
@@ -9,6 +9,10 @@ Every page tagged to this event, grouped by topic (21 pages).
 ## conclave-sessions (1)
 
 - [378YE Autumn Equinox Conclave declarations](../../in-character/conclave-sessions/378YE_Autumn_Equinox_Conclave_declarations.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Autumn Equinox 378YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_378YE.md)
 
 ## senate-motions (14)
 

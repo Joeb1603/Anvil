@@ -1,8 +1,8 @@
 ---
 title: Wintermark look and feel
 source: https://www.profounddecisions.co.uk/empire-wiki/Wintermark_look_and_feel
-class: out-of-character
-topic: costume
+class: mixed
+topic: look-and-feel
 categories:
 - Wintermark
 - Nations
@@ -19,11 +19,11 @@ aliases:
 ## Overview
 
 **Iron, hard, firm, strong, unmoving, earnest, well-crafted, perfectionist (Steinr), practical (Suaq), dreamer (Kallavesi), individual, heroic.**  
-The Wintermark look is rugged and practical but strives to express the wearer's individuality. Each of the three traditions - [Kallavesi](../../in-character/nations/wintermark/Kallavesi.md), [Steinr](../../in-character/nations/wintermark/Steinr.md), and [Suaq](../../in-character/nations/wintermark/Suaq.md) - has their own style of dress and way of expressing this unique personality. Sometimes minor elements of one tradition's style will be used by another, especially where a character has embraced an [archetype](../rules/Archetype.md) more often associated with a different tradition (for example, the [runesmith](../../mixed/magic/lore/Wintermark_magical_traditions.md#runesmiths) magical path is strongly associated with the Steinr, and Suaq or Kallavesi magicians who embrace it often include elements of a more Steinr style in their day-to-day garb). Regardless of these accents, it is generally a matter of pride for the people of Wintermark to demonstrate the style of their chosen tradition as strongly as possible.
+The Wintermark look is rugged and practical but strives to express the wearer's individuality. Each of the three traditions - [Kallavesi](../../in-character/nations/wintermark/Kallavesi.md), [Steinr](../../in-character/nations/wintermark/Steinr.md), and [Suaq](../../in-character/nations/wintermark/Suaq.md) - has their own style of dress and way of expressing this unique personality. Sometimes minor elements of one tradition's style will be used by another, especially where a character has embraced an [archetype](../nations/general/Archetype.md) more often associated with a different tradition (for example, the [runesmith](../magic/lore/Wintermark_magical_traditions.md#runesmiths) magical path is strongly associated with the Steinr, and Suaq or Kallavesi magicians who embrace it often include elements of a more Steinr style in their day-to-day garb). Regardless of these accents, it is generally a matter of pride for the people of Wintermark to demonstrate the style of their chosen tradition as strongly as possible.
 
-Winterfolk art tends to be intricate and detailed. Stone, metal and wood are carved with [runes](../../mixed/magic/lore/Runes.md), so crafters can show off their skills. The people of Wintermark use bright scarlet for things like banners because they can be seen for miles through snow and atop mountainsides.
+Winterfolk art tends to be intricate and detailed. Stone, metal and wood are carved with [runes](../magic/lore/Runes.md), so crafters can show off their skills. The people of Wintermark use bright scarlet for things like banners because they can be seen for miles through snow and atop mountainsides.
 
-*See also [Wintermark costumes](Wintermark_costumes.md) and [icons and artistry](../../in-character/nations/wintermark/Wintermark_culture_and_customs.md#icons-and-artistry).*
+*See also [Wintermark costumes](../../out-of-character/costume/Wintermark_costumes.md) and [icons and artistry](../../in-character/nations/wintermark/Wintermark_culture_and_customs.md#icons-and-artistry).*
 
 ## General Breakdown
 
@@ -37,7 +37,7 @@ The Viking apron dress exists but is considered slightly old fashioned.
 
 On the battlefield, Winterfolk favour heavy, layered armour with thick leather plates over chain. Only the Steinr make extensive use of shields, generally favouring round shields. Tear-drop shaped kite shields are also popular and provide an acceptable alternative to those who desire more full-body protection. Suaq and Kallavesi warriors tend to eschew shields altogether in favour of two-handed weapons, especially bows (for the Suaq) and spears (for the Kallavesi).
 
-Weapons vary by tradition and individual choice, but are usually marked with [runes](../../mixed/magic/lore/Runes.md). It is also common for Winterfolk - especially those of the Kallavesi tradition - to incorporate bird imagery into their day-to-day garb as [birds hold a special place](../../in-character/nations/wintermark/Wintermark_culture_and_customs.md#birds-and-feathers) in Wintermark culture.
+Weapons vary by tradition and individual choice, but are usually marked with [runes](../magic/lore/Runes.md). It is also common for Winterfolk - especially those of the Kallavesi tradition - to incorporate bird imagery into their day-to-day garb as [birds hold a special place](../../in-character/nations/wintermark/Wintermark_culture_and_customs.md#birds-and-feathers) in Wintermark culture.
 
 ## Kallavesi
 
@@ -58,9 +58,9 @@ The Kallavesi are a tradition rooted in deep mysticism, and it is very common fo
 
 ### Kallavesi Warriors
 
-Kallavesi warriors favour leather and fur armour (both [light](../rules/Weapons_-_armour.md#light-armour) and [medium](../rules/Weapons_-_armour.md#medium-armour)). When they want [heavier armour](../rules/Weapons_-_armour.md#heavy-armour), they favour leather or fur over mail. As with their clothing, armour is commonly decorated with feathers and beads. An animal headdress is sometimes worn as a helmet, sometimes in addition to more traditional head protection.
+Kallavesi warriors favour leather and fur armour (both [light](../../out-of-character/rules/Weapons_-_armour.md#light-armour) and [medium](../../out-of-character/rules/Weapons_-_armour.md#medium-armour)). When they want [heavier armour](../../out-of-character/rules/Weapons_-_armour.md#heavy-armour), they favour leather or fur over mail. As with their clothing, armour is commonly decorated with feathers and beads. An animal headdress is sometimes worn as a helmet, sometimes in addition to more traditional head protection.
 
-For weapons Kallavesi favour axes (especially [long axes](../rules/Weapons_-_armour.md#polearms)), staves, and fishing spears (often two-handed spears). Many carry an all-purpose gutting knife as a practical tool and for dispatching fallen opponents.
+For weapons Kallavesi favour axes (especially [long axes](../../out-of-character/rules/Weapons_-_armour.md#polearms)), staves, and fishing spears (often two-handed spears). Many carry an all-purpose gutting knife as a practical tool and for dispatching fallen opponents.
 
 Kallavesi warriors rarely make use of shields. When they do they favour small wicker bucklers over the bulkier round- or tear-drop shields favoured by the Steinr.
 
@@ -96,7 +96,7 @@ As with the other traditions, the Steinr favour a thigh-length tunic over tight 
 
 Steinr enjoy wearing jewellery as another way to display their prosperity, with torcs and cloak pins being very popular. Silver and bronze are as popular as gold when it comes to Steinr jewellery - it is often the fine craftsmanship that attracts a Steinr rather than the monetary value of a piece.
 
-Almost anything a Steinr owns might be inscribed, embroidered, or painted with one or more [runes](../../mixed/magic/lore/Runes.md). The Steinr consider themselves the originator of the magical runes, and even the most prosaic is likely to trace or evoke one to aid them in a certain task.
+Almost anything a Steinr owns might be inscribed, embroidered, or painted with one or more [runes](../magic/lore/Runes.md). The Steinr consider themselves the originator of the magical runes, and even the most prosaic is likely to trace or evoke one to aid them in a certain task.
 
 - [Image: Hooded Steinr.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Hooded_Steinr.jpg)
 - [Image: Well Dressed Steinr.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Well_Dressed_Steinr.jpg)
@@ -106,7 +106,7 @@ Almost anything a Steinr owns might be inscribed, embroidered, or painted with o
 
 The Steinr have a strong warrior culture, and the Rohirrim from *Lord of the Rings* epitomise the look of their warriors. Armour is usually layered, with leather (or less commonly plate) worn over mail. The armour is often intricately tooled and embellished, again proudly displaying the wealth of the wearer. Conformity and uniformity are considered slightly distasteful by many Steinr - each considers themselves a heroic champion of their people and displays this individuality through their weapons and armour.
 
-On the battlefield Steinr favour long swords, spears (both [one-](../rules/Weapons_-_armour.md#one-handed-spear) and [two-handed](../rules/Weapons_-_armour.md#polearms)), and [Dane axes](../rules/Weapons_-_armour.md#great-weapons). Their weapons are heavy and practical, and as with everything else almost invariably decorated with runes.
+On the battlefield Steinr favour long swords, spears (both [one-](../../out-of-character/rules/Weapons_-_armour.md#one-handed-spear) and [two-handed](../../out-of-character/rules/Weapons_-_armour.md#polearms)), and [Dane axes](../../out-of-character/rules/Weapons_-_armour.md#great-weapons). Their weapons are heavy and practical, and as with everything else almost invariably decorated with runes.
 
 When fighting with a one-handed weapon, the Steinr favour round shields, although tear-drop shaped kite shields are not uncommon.
 
@@ -156,7 +156,7 @@ This gallery contains images of Steinr characters taken from Empire events.
 - **Materials:** Furs and hides, ivory, scrimshaw carved bone items.
 - **Colours:** Light, washed out tones of cream, ivory, taupe, pale grey.
 
-In addition to the thigh-length tunic, a Suaq commonly wears a heavy coat - an iconic piece of clothing for this tradition. These heavy coats protect them against the cold and the elements, and have become a symbol of their independence and self-reliance. Commonly made of reindeer and seal skin, they are turned fur side in for warmth. Ideally, the heavy fur coats are richly decorated with important symbols — designs of animals and symbols of enemies a warrior has killed are common as are the ubiquitous [bird](../../in-character/nations/wintermark/Wintermark_culture_and_customs.md#birds-and-feathers) images and [runes](../../mixed/magic/lore/Runes.md) common to all Winterfolk.
+In addition to the thigh-length tunic, a Suaq commonly wears a heavy coat - an iconic piece of clothing for this tradition. These heavy coats protect them against the cold and the elements, and have become a symbol of their independence and self-reliance. Commonly made of reindeer and seal skin, they are turned fur side in for warmth. Ideally, the heavy fur coats are richly decorated with important symbols — designs of animals and symbols of enemies a warrior has killed are common as are the ubiquitous [bird](../../in-character/nations/wintermark/Wintermark_culture_and_customs.md#birds-and-feathers) images and [runes](../magic/lore/Runes.md) common to all Winterfolk.
 
 While the traditional coat is heavy leather and fur-lined, in warmer climates, the coats may be lighter leather. In the imperial heartland in summer, sensible Suaq may choose to wear linen or canvas versions.
 
@@ -171,7 +171,7 @@ Jewellery is not unknown but tends to be more discreet than that favoured by the
 
 Like the Kallavesi, Suaq warriors prefer leather armour for general use, and don mail shirts when they need heavier (and more restrictive) protection. As with their coats, Suaq paint their armour with symbolic designs of [animals](../../in-character/nations/wintermark/Wintermark_culture_and_customs.md#icons-and-artistry).
 
-Perhaps unsurprisingly, the Suaq favour traditional hunting weapons. They are the Winterfolk who make the most use of [bows](../rules/Weapons_-_armour.md#bows), and they favour both [one-](../rules/Weapons_-_armour.md#one-handed-spear) and [two-handed](../rules/Weapons_-_armour.md#polearms)) spears in melee. Some also make use of staves, which serve the dual purpose of being weapons and aiding in crossing treacherous ice or snow.
+Perhaps unsurprisingly, the Suaq favour traditional hunting weapons. They are the Winterfolk who make the most use of [bows](../../out-of-character/rules/Weapons_-_armour.md#bows), and they favour both [one-](../../out-of-character/rules/Weapons_-_armour.md#one-handed-spear) and [two-handed](../../out-of-character/rules/Weapons_-_armour.md#polearms)) spears in melee. Some also make use of staves, which serve the dual purpose of being weapons and aiding in crossing treacherous ice or snow.
 
 It is uncommon for a Suaq to carry a shield, but when they do they favour leather stretched over wood frames or practical round wooden shields.
 
@@ -194,16 +194,16 @@ This gallery contains images of Suaq characters taken from Empire events.
 
 ## Magicians
 
-Each of the three traditions has its own [magical heritage](../../mixed/magic/lore/Wintermark_magical_traditions.md). Any Wintermark magician might embrace any one of these paths, but they tend to be drawn towards the approach that matches their tradition. Where they follow a different path, they often combine elements of their tradition and their magical approach to create a unique look.  
+Each of the three traditions has its own [magical heritage](../magic/lore/Wintermark_magical_traditions.md). Any Wintermark magician might embrace any one of these paths, but they tend to be drawn towards the approach that matches their tradition. Where they follow a different path, they often combine elements of their tradition and their magical approach to create a unique look.  
   
 **Runesmith**  
-[Runesmiths](../../mixed/magic/lore/Wintermark_magical_traditions.md#runesmiths) are a predominantly Steinr tradition. Even more so than other Winterfolk characters, their possessions will be marked with the powerful magical runes that are the focus of their study.  
+[Runesmiths](../magic/lore/Wintermark_magical_traditions.md#runesmiths) are a predominantly Steinr tradition. Even more so than other Winterfolk characters, their possessions will be marked with the powerful magical runes that are the focus of their study.  
   
 **Mystic**  
 [Mystics](../../in-character/nations/wintermark/Mystic.md) are primarily drawn from the Kallavesi tradition. Most supplement their tradition's iconic costume with an animal headdress decorated with feathers and fur.  
   
 **Icewalker**  
-The Suaq make up the majority of the savvy [icewalkers](../../mixed/magic/lore/Wintermark_magical_traditions.md#icewalkers). They wear clothing appropriate to their tradition but supplemented with jewellery and amulets. Unlike runesmiths, their magical accoutrements are more likely to be adorned with stylised animals or symbols of a person's nature with only a scattering of runes. Non-Suaq Icewalkers may adopt the Suaq tradition of painting animals on their mage armour or clothing.
+The Suaq make up the majority of the savvy [icewalkers](../magic/lore/Wintermark_magical_traditions.md#icewalkers). They wear clothing appropriate to their tradition but supplemented with jewellery and amulets. Unlike runesmiths, their magical accoutrements are more likely to be adorned with stylised animals or symbols of a person's nature with only a scattering of runes. Non-Suaq Icewalkers may adopt the Suaq tradition of painting animals on their mage armour or clothing.
 
 - [Image: Suaq runesmith](https://www.profounddecisions.co.uk/empire-wiki/File:Suaq_at_Ease.jpg)
 
@@ -254,7 +254,7 @@ Children generally dress in the same style as their parents, at least until they
 
 ## Inappropriate Costume
 
-Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../rules/Costume.md) for further guidelines, including those for [inappropriate costume](../rules/Costume.md#inappropriate-costume)
+Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../../out-of-character/rules/Costume.md) for further guidelines, including those for [inappropriate costume](../../out-of-character/rules/Costume.md#inappropriate-costume)
 
 An LRP setting is defined as much by what you leave out as by what you include. In defining the Wintermark look we have actively chosen to exclude some elements. Please do not use any of the images or looks seen in this section. In particular please note that the Winterfolk were inspired by Saxons rather than Vikings and the setting does not include longships and the associated imagery.
 
@@ -287,7 +287,7 @@ Core Brief
   - [Steinr](../../in-character/nations/wintermark/Steinr.md)
   - [Suaq](../../in-character/nations/wintermark/Suaq.md)
 - Look and feel
-- [Hearth magic](../../mixed/magic/lore/Wintermark_hearth_magic.md)
+- [Hearth magic](../magic/lore/Wintermark_hearth_magic.md)
 
 Further Reading
 
@@ -296,12 +296,12 @@ Further Reading
 - [Economic interests](../../in-character/nations/wintermark/Wintermark_economic_interests.md)
 - [Military concerns](../../in-character/nations/wintermark/Wintermark_military_concerns.md)
 - [Religious beliefs](../../in-character/nations/wintermark/Wintermark_religious_beliefs.md)
-- [Magical traditions](../../mixed/magic/lore/Wintermark_magical_traditions.md)
+- [Magical traditions](../magic/lore/Wintermark_magical_traditions.md)
 - [Territories](../../in-character/nations/wintermark/Wintermark_territories.md)
-- [Children](../events/Wintermark_children.md)
-- [Music](../../mixed/music/Wintermark_music.md)
+- [Children](../../out-of-character/events/Wintermark_children.md)
+- [Music](../music/Wintermark_music.md)
 - [Archetypes](../../indexes/by-category/Archetype.md#wintermark)
-- [Groups](../groups/Wintermark_groups.md)
+- [Groups](../../out-of-character/groups/Wintermark_groups.md)
 - [Egregore](../../in-character/nations/wintermark/Wintermark_Egregore.md)
 
 ---

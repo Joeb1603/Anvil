@@ -32,7 +32,7 @@ This page collects all the information relevant to [Dawn](../../in-character/nat
 - [Dawn hearth magic](../../mixed/magic/lore/Dawn_hearth_magic.md) (mixed)
 - [Dawn history](../../in-character/nations/dawn/Dawn_history.md) (in-character)
 - [Dawn leadership](../../in-character/nations/dawn/Dawn_leadership.md) (in-character)
-- [Dawn look and feel](../../out-of-character/costume/Dawn_look_and_feel.md) (out-of-character)
+- [Dawn look and feel](../../mixed/look-and-feel/Dawn_look_and_feel.md) (mixed)
 - [Dawn magical traditions](../../mixed/magic/lore/Dawn_magical_traditions.md) (mixed)
 - [Dawn Maps](../../in-character/nations/dawn/Dawn_Maps.md) (in-character)
 - [Dawn military concerns](../../in-character/nations/dawn/Dawn_military_concerns.md) (in-character)

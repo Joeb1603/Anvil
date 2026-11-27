@@ -5,6 +5,7 @@ class: in-character
 topic: roll-of-honour
 categories:
 - RollOfHonour
+event: 387YE Summer
 last_edited: '2025-09-01T16:16:29Z'
 revision: 127398
 ---

@@ -4,9 +4,9 @@ Snapshot of Empire (https://www.profounddecisions.co.uk/empire-wiki/Main_Page) t
 Text © Profound Decisions, reused under [CC BY-SA 4.0](LICENSE.md). Converted from the wiki's HTML to markdown and re-sorted; wording is unchanged.
 
 - **5138** pages, **201** category pages, **846** redirects
-- **3091** in-character
-- **1678** mixed
-- **367** out-of-character
+- **3092** in-character
+- **1699** mixed
+- **345** out-of-character
 - **2** uncategorised
 
 ## Indexes
@@ -46,7 +46,7 @@ Text © Profound Decisions, reused under [CC BY-SA 4.0](LICENSE.md). Converted f
 | in-character | [mandates](in-character/mandates/) | 1 |
 | in-character | [military-council-orders](in-character/military-council-orders/) | 9 |
 | in-character | [nations/dawn](in-character/nations/dawn/) | 30 |
-| in-character | [nations/general](in-character/nations/general/) | 2 |
+| in-character | [nations/general](in-character/nations/general/) | 3 |
 | in-character | [nations/highguard](in-character/nations/highguard/) | 23 |
 | in-character | [nations/imperial-orcs](in-character/nations/imperial-orcs/) | 28 |
 | in-character | [nations/navarr](in-character/nations/navarr/) | 42 |
@@ -71,22 +71,24 @@ Text © Profound Decisions, reused under [CC BY-SA 4.0](LICENSE.md). Converted f
 | mixed | [government/military](mixed/government/military/) | 59 |
 | mixed | [government/senate](mixed/government/senate/) | 29 |
 | mixed | [government/synod](mixed/government/synod/) | 34 |
+| mixed | [look-and-feel](mixed/look-and-feel/) | 17 |
 | mixed | [magic/items](mixed/magic/items/) | 290 |
-| mixed | [magic/lore](mixed/magic/lore/) | 109 |
+| mixed | [magic/lore](mixed/magic/lore/) | 110 |
 | mixed | [magic/potions](mixed/magic/potions/) | 22 |
 | mixed | [magic/rituals](mixed/magic/rituals/) | 311 |
 | mixed | [magic/spells](mixed/magic/spells/) | 13 |
 | mixed | [music](mixed/music/) | 272 |
-| mixed | [religion](mixed/religion/) | 1 |
+| mixed | [nations/general](mixed/nations/general/) | 2 |
+| mixed | [religion](mixed/religion/) | 2 |
 | mixed | [titles](mixed/titles/) | 471 |
 | mixed | [world](mixed/world/) | 1 |
-| out-of-character | [costume](out-of-character/costume/) | 45 |
-| out-of-character | [crew](out-of-character/crew/) | 19 |
+| out-of-character | [costume](out-of-character/costume/) | 28 |
+| out-of-character | [crew](out-of-character/crew/) | 18 |
 | out-of-character | [drafts](out-of-character/drafts/) | 6 |
 | out-of-character | [events](out-of-character/events/) | 108 |
 | out-of-character | [game-design](out-of-character/game-design/) | 26 |
 | out-of-character | [groups](out-of-character/groups/) | 10 |
 | out-of-character | [help](out-of-character/help/) | 11 |
-| out-of-character | [rules](out-of-character/rules/) | 129 |
+| out-of-character | [rules](out-of-character/rules/) | 125 |
 | out-of-character | [site](out-of-character/site/) | 13 |
 | uncategorised | [unsorted](uncategorised/unsorted/) | 2 |

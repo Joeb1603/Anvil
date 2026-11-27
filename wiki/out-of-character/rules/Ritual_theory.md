@@ -67,7 +67,7 @@ In all cases, [divination](Divination.md) is a special branch of magic with its 
 
 The [eternals](../../in-character/eternals/Eternal.md) are the most powerful inhabitants of the six realms. Each eternal has unique abilities and powers due to their command of the magic of their realm. Because of this, eternals can help mortal magicians to create and cast rituals that use or draw on some of the most powerful aspects of a realm. Many ritual effects can only be created with the power of an eternal - something that must be agreed with the eternal in question before it can be cast.
 
-Imperial magicians have studied [eternals and rituals](Eternals_and_rituals.md) looking to codify the many ways in which these beings can help with rituals. Understanding the benefits and restrictions of using eternals in rituals can be crucial - especially when trying to create a new [arcane projection](Arcane_projection.md).
+Imperial magicians have studied [eternals and rituals](../../mixed/magic/lore/Eternals_and_rituals.md) looking to codify the many ways in which these beings can help with rituals. Understanding the benefits and restrictions of using eternals in rituals can be crucial - especially when trying to create a new [arcane projection](Arcane_projection.md).
 
 ## War Magic
 
@@ -96,7 +96,7 @@ Similar rules apply to enchantments that benefit military units and fleets. Ther
   - [Limits of magic](Limits_of_magic.md)
   - [Divination](Divination.md)
   - [War magic](War_magic.md)
-  - [Eternals and rituals](Eternals_and_rituals.md)
+  - [Eternals and rituals](../../mixed/magic/lore/Eternals_and_rituals.md)
   - [Spring magic](Spring_magic.md)
   - [Summer magic](Summer_magic.md)
   - [Autumn magic](Autumn_magic.md)

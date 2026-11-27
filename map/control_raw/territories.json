@@ -774,7 +774,7 @@
     "previous_holder": "Navarr",
     "kind": "lost",
     "confidence": "low",
-    "note": "Heirs of Terunael rouse vallornspawn across the territory; Imperial gains lost."
+    "note": "Territory-level only: heirs of Terunael rouse vallornspawn across the territory; Imperial gains lost. No region is named, so the map doesn't repaint the whole territory."
    },
    {
     "when": "384YE Summer",
@@ -783,7 +783,7 @@
     "previous_holder": null,
     "kind": "founded",
     "confidence": "low",
-    "note": "Feni settling the east had founded Hotter's Mire; region not named."
+    "note": "Territory-level only: feni settling the east had founded Hotter's Mire; region not named. No region is named, so the map doesn't repaint the whole territory."
    },
    {
     "when": "384YE Winter",
@@ -1528,11 +1528,11 @@
   "imperial": false,
   "nation": "Jotun",
   "holder_now": "Jotun",
-  "holder_376": null,
+  "holder_376": "Lasambrian orcs",
   "regions_now": {},
   "changes": [],
   "confidence": "medium",
-  "notes": "Lasambrian Hills territory held by the Lasambrian Jotun (all regions, as of Summer 387YE). No history given."
+  "notes": "Lasambrian Hills territory held by the Lasambrian Jotun (all regions, as of Summer 387YE). No history given. Before the Jotun invasion of 379YE Autumn it was held by the Lasambrian orcs (379YE Autumn Equinox winds of war: the Jotun rout the Lasambrians)."
  },
  {
   "territory": "Salt Flats of Sanath",
@@ -2312,7 +2312,7 @@
     "previous_holder": "indigenous orc septs",
     "kind": "conquered",
     "confidence": "low",
-    "note": "Druj put down their rebelling subject septs and regain the east."
+    "note": "Territory-level only: druj put down their rebelling subject septs and regain the east. No region is named, so the map doesn't repaint the whole territory."
    },
    {
     "when": "381YE Summer",

@@ -23,6 +23,6 @@ members: 18
 - [Hallow](../../out-of-character/rules/Hallow.md) (out-of-character)
 - [Insight](../../out-of-character/rules/Insight.md) (out-of-character)
 - [Liao](../../mixed/religion/Liao.md) (mixed)
-- [Past life vision](../../out-of-character/rules/Past_life_vision.md) (out-of-character)
+- [Past life vision](../../mixed/religion/Past_life_vision.md) (mixed)
 - [Religious skills](../../out-of-character/rules/Religious_skills.md) (out-of-character)
 - [Testimony](../../out-of-character/rules/Testimony.md) (out-of-character)

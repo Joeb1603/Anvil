@@ -135,7 +135,7 @@ Interestingly, prognosticators have identified a conjunction of the [Sentinel Ga
 - [Overview](../barbarians/Jotun.md)
 - [Elite Jotun troops](../barbarians/Elite_Jotun_troops.md)
 - [Elite Jotun characters](../barbarians/Elite_Jotun_characters.md)
-- [Jotun look and feel](../../out-of-character/costume/Jotun_look_and_feel.md)
+- [Jotun look and feel](../../mixed/look-and-feel/Jotun_look_and_feel.md)
 
 ---
 

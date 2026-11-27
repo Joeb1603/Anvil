@@ -1,8 +1,8 @@
 ---
 title: Look and feel new highguard
 source: https://www.profounddecisions.co.uk/empire-wiki/Look_and_feel_new_highguard
-class: out-of-character
-topic: costume
+class: mixed
+topic: look-and-feel
 categories: []
 last_edited: '2025-07-12T20:29:18Z'
 revision: 123730

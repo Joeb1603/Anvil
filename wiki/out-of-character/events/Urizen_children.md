@@ -49,7 +49,7 @@ Core Brief
 - [Introduction](../../in-character/nations/urizen/Urizen.md)
 - [The people](../../in-character/nations/urizen/Urizen_people.md)
 - [Culture and customs](../../in-character/nations/urizen/Urizen_culture_and_customs.md)
-- [Look and feel](../costume/Urizen_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/Urizen_look_and_feel.md)
 - [Hearth magic](../../mixed/magic/lore/Urizen_hearth_magic.md)
 
 Additional Information

@@ -13,7 +13,7 @@ revision: 139919
 
 ## Overview
 
-During the Autumn Equinox 387YE, the [Lepidean Librarian](../../mixed/titles/Lepidean_Librarian.md), **Hazelelponi of the Shattered Tower**, charged the Heirs of Lepidus to read the [past life vision](../../out-of-character/rules/Past_life_vision.md) records of **Liissá Reparador Sigeing**. This vision was experienced during the Winter Solstice of 386YE under the guidance of **Ethelfrith Sigeling**, and revealed the visionary’s past life as Saoirse Beoraidh, a well connected and informed spymaster-madam of the Golden Turtle inn and massage parlour.
+During the Autumn Equinox 387YE, the [Lepidean Librarian](../../mixed/titles/Lepidean_Librarian.md), **Hazelelponi of the Shattered Tower**, charged the Heirs of Lepidus to read the [past life vision](../../mixed/religion/Past_life_vision.md) records of **Liissá Reparador Sigeing**. This vision was experienced during the Winter Solstice of 386YE under the guidance of **Ethelfrith Sigeling**, and revealed the visionary’s past life as Saoirse Beoraidh, a well connected and informed spymaster-madam of the Golden Turtle inn and massage parlour.
 
 ## The Vision
 

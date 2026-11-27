@@ -4,6 +4,7 @@ source: https://www.profounddecisions.co.uk/empire-wiki/Archive:Roll_of_Honour_W
 class: mixed
 topic: archive
 categories: []
+event: 377YE Winter
 last_edited: '2022-05-11T12:36:50Z'
 revision: 89855
 aliases:

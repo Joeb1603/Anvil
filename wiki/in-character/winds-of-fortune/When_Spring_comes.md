@@ -291,7 +291,7 @@ It could have been better timed, obviously, but the last three months has seen a
 
 As predicted, the mandate, and the visiting orcs, is being seen as a clear communication that the National Assembly is working to bring the Mournwold Orcs into their nation for good or ill. It's perhaps surprising how quickly some people switch from asking "can these orcs even really be Marchers?" to "Let's get our orcs into the Marches by the new year, we can't let the League steal a march on us!" Or perhaps not; this has been a long time coming and with the [Apulian orcs](Windfall.md) joining [the League](../nations/the-league/The_League.md), it is clear that the old superstitions about whether orcs and humans could belong to the same nation are being upended.
 
-Shortly before the Autumn Equinox, the *real* impact of the hard work done by the Marcher Assembly becomes clear. The Marcher [egregore](../../out-of-character/crew/Egregores.md) Jack confirms what some people already suspect: it is possible for Mournwold Orcs to bond to them and become Marchers. They could join tomorrow, if they wanted. This isn't widespread knowledge yet, but with the pig out of the sack, it's a matter of time before every Marcher - human and orc alike - knows it.
+Shortly before the Autumn Equinox, the *real* impact of the hard work done by the Marcher Assembly becomes clear. The Marcher [egregore](../nations/general/Egregores.md) Jack confirms what some people already suspect: it is possible for Mournwold Orcs to bond to them and become Marchers. They could join tomorrow, if they wanted. This isn't widespread knowledge yet, but with the pig out of the sack, it's a matter of time before every Marcher - human and orc alike - knows it.
 
 ### At Odds With The Synod
 

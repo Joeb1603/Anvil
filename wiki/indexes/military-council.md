@@ -6,9 +6,10 @@
 
 - [377YE Winter Solstice winds of war](../in-character/winds-of-war/377YE_Winter_Solstice_winds_of_war.md)
 
-## 378YE Spring (1)
+## 378YE Spring (2)
 
 - [378YE Spring Equinox winds of war](../in-character/winds-of-war/378YE_Spring_Equinox_winds_of_war.md)
+- [Archive:Roll of Honour Spring Equinox 378YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_378YE.md)
 
 ## 378YE Summer (1)
 
@@ -293,9 +294,8 @@
 - [Skull beneath the skin](../in-character/winds-of-war/Skull_beneath_the_skin.md)
 - [The dose makes the poison](../in-character/winds-of-war/The_dose_makes_the_poison.md)
 
-## Undated (83)
+## Undated (82)
 
-- [Archive:Roll of Honour Spring Equinox 378YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_378YE.md)
 - [Argent Sword](../mixed/government/military/Argent_Sword.md)
 - [Army](../out-of-character/rules/Army.md)
 - [Army orders](../out-of-character/rules/Army_orders.md)

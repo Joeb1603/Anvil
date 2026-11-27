@@ -15,7 +15,7 @@ members: 20
 - [Elite Jotun troops](../../in-character/barbarians/Elite_Jotun_troops.md) (in-character)
 - [Hordalant](../../in-character/barbarians/Hordalant.md) (in-character)
 - [Jotun](../../in-character/barbarians/Jotun.md) (in-character)
-- [Jotun look and feel](../../out-of-character/costume/Jotun_look_and_feel.md) (out-of-character)
+- [Jotun look and feel](../../mixed/look-and-feel/Jotun_look_and_feel.md) (mixed)
 - [Keep talking](../../in-character/winds-of-fortune/Keep_talking.md) (in-character)
 - [Liathaven](../../in-character/nations/navarr/Liathaven.md) (in-character)
 - [Mitwold](../../in-character/nations/the-marches/Mitwold.md) (in-character)

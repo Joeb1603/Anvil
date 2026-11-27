@@ -15,7 +15,7 @@ aliases:
 
 # Varushka costumes
 
-This page contains guides written by players that may be of interest in making costume pieces. It is a very early page intended to supplement the [Varushka look and feel](Varushka_look_and_feel.md) page, and may have been superceded. Official costume advice is found on the [Costume](../rules/Costume.md) page.
+This page contains guides written by players that may be of interest in making costume pieces. It is a very early page intended to supplement the [Varushka look and feel](../../mixed/look-and-feel/Varushka_look_and_feel.md) page, and may have been superceded. Official costume advice is found on the [Costume](../rules/Costume.md) page.
 
 ## Overview
 
@@ -80,7 +80,7 @@ Core Brief
 - [Introduction](../../in-character/nations/varushka/Varushka.md)
 - [The people](../../in-character/nations/varushka/Varushka_people.md)
 - [Culture and customs](../../in-character/nations/varushka/Varushka_culture_and_customs.md)
-- [Look and feel](Varushka_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/Varushka_look_and_feel.md)
 - [Hearth magic](../../mixed/magic/lore/Varushka_hearth_magic.md)
 
 Additional Information

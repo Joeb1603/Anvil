@@ -1,6 +1,6 @@
 # 384YE Spring
 
-Every page tagged to this event, grouped by topic (55 pages).
+Every page tagged to this event, grouped by topic (56 pages).
 
 ## conclave-sessions (1)
 
@@ -17,6 +17,10 @@ Every page tagged to this event, grouped by topic (55 pages).
 ## government/military (1)
 
 - [Some kind of trouble](../../mixed/government/military/Some_kind_of_trouble.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Spring Equinox 384YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_384YE.md)
 
 ## senate-motions (20)
 

@@ -1,6 +1,6 @@
 # 379YE Summer
 
-Every page tagged to this event, grouped by topic (55 pages).
+Every page tagged to this event, grouped by topic (56 pages).
 
 ## announcements (2)
 
@@ -14,6 +14,10 @@ Every page tagged to this event, grouped by topic (55 pages).
 ## elections (1)
 
 - [379YE Summer Solstice Imperial elections](../../in-character/elections/379YE_Summer_Solstice_Imperial_elections.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Summer Solstice 379YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_379YE.md)
 
 ## senate-motions (27)
 

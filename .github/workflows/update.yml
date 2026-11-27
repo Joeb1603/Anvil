@@ -18,6 +18,8 @@ on:
       - "map/control_raw/**"
       - "map/extra_territories.json"
       - "map/region_labels.json"
+      - "map/nation_history.json"
+      - "map/checks_accepted.json"
       - "mapbuilder/**"
       - "scraper/**"
 
@@ -68,6 +70,18 @@ jobs:
       - name: Rebuild the atlas
         if: steps.gate.outputs.run == 'true'
         run: python3 -m mapbuilder.run
+
+      # The build also runs the atlas checks (map/checks.md). A wiki change can't be refused, so failures
+      # here are flagged on the run, committed with the update, and fixed by the twice-weekly Claude task.
+      - name: Report atlas checks
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          python3 -c "
+          import json
+          r = json.load(open('map/checks.json'))
+          for x in r['failures']: print('::warning title=Atlas check::' + x['msg'])
+          print(len(r['failures']), 'failures,', len(r['warnings']), 'warnings')
+          "
 
       - name: Save download cache
         if: always() && steps.gate.outputs.run == 'true'

@@ -97,7 +97,7 @@ Core Brief
 - [Introduction](Imperial_Orcs.md)
 - [The people](Imperial_Orcs_people.md)
 - [Culture and customs](Imperial_Orcs_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Imperial_Orcs_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md)
 - [Septs](Sept.md)
 - [Orc species brief](../../../mixed/world/Orc.md)
 - [Hearth magic](../../../mixed/magic/lore/Imperial_Orcs_hearth_magic.md)

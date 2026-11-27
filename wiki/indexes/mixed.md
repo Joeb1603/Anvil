@@ -1,6 +1,6 @@
 # mixed pages
 
-1678 pages in 16 topics.
+1699 pages in 18 topics.
 
 - [archive](#archive) (16)
 - [commissions](#commissions) (11)
@@ -9,13 +9,15 @@
 - [government/military](#governmentmilitary) (59)
 - [government/senate](#governmentsenate) (29)
 - [government/synod](#governmentsynod) (34)
+- [look-and-feel](#look-and-feel) (17)
 - [magic/items](#magicitems) (290)
-- [magic/lore](#magiclore) (109)
+- [magic/lore](#magiclore) (110)
 - [magic/potions](#magicpotions) (22)
 - [magic/rituals](#magicrituals) (311)
 - [magic/spells](#magicspells) (13)
 - [music](#music) (272)
-- [religion](#religion) (1)
+- [nations/general](#nationsgeneral) (2)
+- [religion](#religion) (2)
 - [titles](#titles) (471)
 - [world](#world) (1)
 
@@ -227,6 +229,26 @@
 - [Vindication](../mixed/government/synod/Vindication.md)
 - [Writ of consecration](../mixed/government/synod/Writ_of_consecration.md)
 - [Writ of Excommunication](../mixed/government/synod/Writ_of_Excommunication.md)
+
+## look-and-feel
+
+- [Civil Service Look and Feel](../mixed/look-and-feel/Civil_Service_Look_and_Feel.md)
+- [Dawn look and feel](../mixed/look-and-feel/Dawn_look_and_feel.md)
+- [Druj look and feel](../mixed/look-and-feel/Druj_look_and_feel.md)
+- [Grendel look and feel](../mixed/look-and-feel/Grendel_look_and_feel.md)
+- [Highguard look and feel](../mixed/look-and-feel/Highguard_look_and_feel.md)
+- [Imperial Orcs look and feel](../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md)
+- [Jotun look and feel](../mixed/look-and-feel/Jotun_look_and_feel.md)
+- [Look and feel new highguard](../mixed/look-and-feel/Look_and_feel_new_highguard.md)
+- [Look and feel new navarr](../mixed/look-and-feel/Look_and_feel_new_navarr.md)
+- [Navarr look and feel](../mixed/look-and-feel/Navarr_look_and_feel.md)
+- [The Brass Coast look and feel](../mixed/look-and-feel/The_Brass_Coast_look_and_feel.md)
+- [The Brass Coast look and feel2](../mixed/look-and-feel/The_Brass_Coast_look_and_feel2.md)
+- [The League look and feel](../mixed/look-and-feel/The_League_look_and_feel.md)
+- [The Marches look and feel](../mixed/look-and-feel/The_Marches_look_and_feel.md)
+- [Urizen look and feel](../mixed/look-and-feel/Urizen_look_and_feel.md)
+- [Varushka look and feel](../mixed/look-and-feel/Varushka_look_and_feel.md)
+- [Wintermark look and feel](../mixed/look-and-feel/Wintermark_look_and_feel.md)
 
 ## magic/items
 
@@ -547,6 +569,7 @@
 - [Dramaturgy](../mixed/magic/lore/Dramaturgy.md)
 - [Dramaturgy Archive](../mixed/magic/lore/Dramaturgy_Archive.md)
 - [Draughir](../mixed/magic/lore/Draughir.md)
+- [Eternals and rituals](../mixed/magic/lore/Eternals_and_rituals.md)
 - [Evrom](../mixed/magic/lore/Evrom.md)
 - [Feresh](../mixed/magic/lore/Feresh.md)
 - [Gralm](../mixed/magic/lore/Gralm.md)
@@ -1263,9 +1286,15 @@
 - [You Can Hear Them Screaming](../mixed/music/You_Can_Hear_Them_Screaming.md)
 - [Zeno's Rest](../mixed/music/Zeno-s_Rest.md)
 
+## nations/general
+
+- [Archetype](../mixed/nations/general/Archetype.md)
+- [Group Archetypes](../mixed/nations/general/Group_Archetypes.md)
+
 ## religion
 
 - [Liao](../mixed/religion/Liao.md)
+- [Past life vision](../mixed/religion/Past_life_vision.md)
 
 ## titles
 

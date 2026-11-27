@@ -49,7 +49,7 @@ Consuming liao without the use of a [ceremony](../../out-of-character/rules/Reli
 
 - **Also known as *pure liao* and *Imperial liao***
 
-During the maturing process that turns vinum into liao, around one dose in ten thousand matures to a radiant purple. This has come to be known as true liao, or Imperial liao. True liao is extremely rare, powerful, and valuable. The amount of pure liao produced each season varies; it has proved impossible to predict which doses of liao will mature into true liao. The most common use for true liao is to provide a human with a special vision of another time and place, which is held to be one of their [past lives](../../out-of-character/rules/Past_life_vision.md). There are several other uses, however. It can also be used in place of ceremonial liao to significantly empower the effect of a [religious skill](../../out-of-character/rules/Religious_skills.md), or used in the creation of an [inspirational location](../government/synod/Inspirational_location.md), for example.
+During the maturing process that turns vinum into liao, around one dose in ten thousand matures to a radiant purple. This has come to be known as true liao, or Imperial liao. True liao is extremely rare, powerful, and valuable. The amount of pure liao produced each season varies; it has proved impossible to predict which doses of liao will mature into true liao. The most common use for true liao is to provide a human with a special vision of another time and place, which is held to be one of their [past lives](Past_life_vision.md). There are several other uses, however. It can also be used in place of ceremonial liao to significantly empower the effect of a [religious skill](../../out-of-character/rules/Religious_skills.md), or used in the creation of an [inspirational location](../government/synod/Inspirational_location.md), for example.
 
 Normal ceremonial liao is well known to make orcs mildly unwell and produce no notable spiritual effects that anyone has ever been able to distinguish. True liao, as essentially a stronger version of ceremonial liao, is likely to produce stronger side effects: whether these would be sufficient to kill the orc or simply make them very unwell is not known, nor has anyone ever seen fit to use a dose of the rarest substance in the Empire for such a potentially fatal investigation.
 
@@ -121,7 +121,7 @@ Some actions taken with true liao remain illegal, however - the Senate [outlawed
 
 Under most circumstances, the phys-rep for true liao is provided by Profound Decisions. It is identifiable as a purple bottle bearing a *true liao* special item ribbon. The phys-rep should be returned to GOD once the item is used.
 
-One of the most common uses for true liao is providing someone with a [past life vision](../../out-of-character/rules/Past_life_vision.md). If the owner wishes to use the dose for a vision then it should be given over to the Tribune of the Synod at least one event in advance.
+One of the most common uses for true liao is providing someone with a [past life vision](Past_life_vision.md). If the owner wishes to use the dose for a vision then it should be given over to the Tribune of the Synod at least one event in advance.
 
 The permanent auras created by the use of true liao can exert a powerful and long-lasting influence. Certain permanent religious structures, such as the [inspirational location](../government/synod/Inspirational_location.md) of an exemplar or paragon, require a dose of true liao to sanctify them. There may additionally be [opportunities](../../out-of-character/game-design/Opportunity.md) that arise via the winds of fortune that can only be fulfilled by the use of a dose of true liao.
 
@@ -170,7 +170,7 @@ You can also use true liao to remove *all* spiritual marks from a target's soul 
 - [The Way of Virtue](../../in-character/world/The_Way.md)
 - [Imperial Theology](../../in-character/religion/Imperial_theology.md)
   - Liao
-  - [Past life vision](../../out-of-character/rules/Past_life_vision.md)
+  - [Past life vision](Past_life_vision.md)
   - [The Doctrines of the Faith](../../in-character/religion/The_Doctrines_of_the_Faith.md)
   - [Signs of the paragon and exemplar](../government/synod/Signs_of_the_paragon_and_exemplar.md)
   - [Schisms and Heresies](../../in-character/religion/Schisms_and_Heresies.md)

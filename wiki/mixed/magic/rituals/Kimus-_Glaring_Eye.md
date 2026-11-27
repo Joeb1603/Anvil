@@ -45,7 +45,7 @@ Any caster who has mastered the ritual may choose to substitute [tempest jade](.
 
 ### Assurance
 
-This ritual calls directly on the [power](../../../in-character/eternals/Eternal.md#munificence-and-might) of an eternal, in this case [Kimus](../../../in-character/eternals/Kimus.md), and so has an [assurance](../../../out-of-character/rules/Eternals_and_rituals.md#assurance-and-stipulation). Once thought lost, the assurance was unearthed by members of the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if the Empire ever ends its commitment to literacy.
+This ritual calls directly on the [power](../../../in-character/eternals/Eternal.md#munificence-and-might) of an eternal, in this case [Kimus](../../../in-character/eternals/Kimus.md), and so has an [assurance](../lore/Eternals_and_rituals.md#assurance-and-stipulation). Once thought lost, the assurance was unearthed by members of the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if the Empire ever ends its commitment to literacy.
 
 ## Description
 

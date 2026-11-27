@@ -50,7 +50,7 @@ Core Brief
 - Introduction
 - [The people](Varushka_people.md)
 - [Culture and customs](Varushka_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Varushka_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Varushka_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/Varushka_hearth_magic.md)
 
 Additional Information

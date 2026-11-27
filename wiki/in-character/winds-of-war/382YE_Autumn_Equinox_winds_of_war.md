@@ -436,7 +436,7 @@ The third conjunction will permit the heroes of Anvil passage to Bleak Vein, a l
 
 By the time of the Autumn Equinox summit, the Civil Service will have completed reports for each of these conjunctions, which will be presented to the generals during the muster. The final decision about which major conjunctions to exploit, and who will take part in the battles, is the heavy responsibility of the [Military Council](../../mixed/government/military/Military_Council.md) alone.
 
-Imperial prognosticators are preparing additional information relating to a number of smaller conjunctions over the course of the summit that will be of relevance to the Military Council, individuals from the various nations, and other parties. A summary of the identified conjunctions will be provided nearer the time, with additional details passed to national [egregores](../../out-of-character/crew/Egregores.md), [Herald of the Council](../../mixed/titles/Herald_of_the_Council.md), and the Imperial War Scouts.
+Imperial prognosticators are preparing additional information relating to a number of smaller conjunctions over the course of the summit that will be of relevance to the Military Council, individuals from the various nations, and other parties. A summary of the identified conjunctions will be provided nearer the time, with additional details passed to national [egregores](../nations/general/Egregores.md), [Herald of the Council](../../mixed/titles/Herald_of_the_Council.md), and the Imperial War Scouts.
 
 ## Audio Recordings
 

@@ -21,7 +21,7 @@ Moving nation is a part of the background of the game; the Navarr in particular 
 
 ## Egregore
 
-When the Empire was created, the Freeborn of [the Brass Coast](../the-brass-coast/The_Brass_Coast.md) feared a loss of their cultural identity. They saw the advantages of humans uniting, but believed that their heritage would be lost as some "Imperial" nationality emerged. As their price for joining the Empire, they used powerful ritual magic to create eight [Egregores](../../../out-of-character/crew/Egregores.md), one for each nation. With the blessing of the First Empress, the egregores formed the basis for the Empire- acceptance by an egregore is the legal definition of citizenship. When Urizen and the Imperial Orcs joined the Empire, they worked with the Freeborn to create their own egregores.
+When the Empire was created, the Freeborn of [the Brass Coast](../the-brass-coast/The_Brass_Coast.md) feared a loss of their cultural identity. They saw the advantages of humans uniting, but believed that their heritage would be lost as some "Imperial" nationality emerged. As their price for joining the Empire, they used powerful ritual magic to create eight [Egregores](Egregores.md), one for each nation. With the blessing of the First Empress, the egregores formed the basis for the Empire- acceptance by an egregore is the legal definition of citizenship. When Urizen and the Imperial Orcs joined the Empire, they worked with the Freeborn to create their own egregores.
 
 - [Image: Starting to March.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Starting_to_March.jpg)
 - [Image: Midway Marching.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Midway_Marching.jpg)

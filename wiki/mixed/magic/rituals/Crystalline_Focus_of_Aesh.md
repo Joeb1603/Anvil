@@ -49,7 +49,7 @@ The page on [divination](../../../out-of-character/rules/Divination.md) magic li
 
 ### Assurance
 
-This ritual grants an intuitive understanding of magical lores, and as with other such rituals, draws on the power of an [eternal](../../../in-character/eternals/Eternal.md), in this case [Kimus](../../../in-character/eternals/Kimus.md). The [assurance](../../../out-of-character/rules/Eternals_and_rituals.md#assurance-and-stipulation) connected with the ritual was lost for several centuries but was unearthed by members of the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if either [Eyes of the Sun and Moon](Eyes_of_the_Sun_and_Moon.md) or [Eye of the High Places](Eye_of_the_High_Places.md) are [interdicted](../../government/conclave/Interdiction.md) by the Imperial Conclave.
+This ritual grants an intuitive understanding of magical lores, and as with other such rituals, draws on the power of an [eternal](../../../in-character/eternals/Eternal.md), in this case [Kimus](../../../in-character/eternals/Kimus.md). The [assurance](../lore/Eternals_and_rituals.md#assurance-and-stipulation) connected with the ritual was lost for several centuries but was unearthed by members of the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if either [Eyes of the Sun and Moon](Eyes_of_the_Sun_and_Moon.md) or [Eye of the High Places](Eye_of_the_High_Places.md) are [interdicted](../../government/conclave/Interdiction.md) by the Imperial Conclave.
 
 ## Description
 

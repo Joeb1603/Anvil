@@ -23,7 +23,7 @@ in_character_boxes: 6
 
 ## Overview
 
-The [Senate](../government/senate/Senate.md) is a representative chamber; each territory in the Empire selects a single senator according to the customs of that nation. To be eligible to return a senator, at least half of the territory must be under Imperial control. If more than half of a territory is controlled by barbarians or foreign powers, then it cannot be represented in the Senate. A territory must be part of one of the ten nations of the Empire. When new territories are captured, they are allocated to a nation by majority vote of the Senate. A territory may only return a senator who is recognized as a member of that nation by the nation's [egregore](../../out-of-character/crew/Egregores.md).
+The [Senate](../government/senate/Senate.md) is a representative chamber; each territory in the Empire selects a single senator according to the customs of that nation. To be eligible to return a senator, at least half of the territory must be under Imperial control. If more than half of a territory is controlled by barbarians or foreign powers, then it cannot be represented in the Senate. A territory must be part of one of the ten nations of the Empire. When new territories are captured, they are allocated to a nation by majority vote of the Senate. A territory may only return a senator who is recognized as a member of that nation by the nation's [egregore](../../in-character/nations/general/Egregores.md).
 
 ## Responsibilities
 

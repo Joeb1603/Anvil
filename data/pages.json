@@ -16936,16 +16936,16 @@
   "pageid": 1645,
   "ns": 0,
   "title": "Archetype",
-  "path": "out-of-character/rules/Archetype.md",
-  "class": "out-of-character",
-  "topic": "rules",
+  "path": "mixed/nations/general/Archetype.md",
+  "class": "mixed",
+  "topic": "nations/general",
   "event": null,
   "categories": [
    "Archetype",
    "Rules",
    "Nations"
   ],
-  "rule": "category:Rules",
+  "rule": "override",
   "revision": 130090,
   "last_edited": "2026-01-15T12:29:55Z",
   "aliases": [
@@ -26566,9 +26566,9 @@
   "pageid": 120,
   "ns": 0,
   "title": "Civil Service Look and Feel",
-  "path": "out-of-character/costume/Civil_Service_Look_and_Feel.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/Civil_Service_Look_and_Feel.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [
    "Civil Service",
@@ -41304,9 +41304,9 @@
   "pageid": 77,
   "ns": 0,
   "title": "Dawn look and feel",
-  "path": "out-of-character/costume/Dawn_look_and_feel.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/Dawn_look_and_feel.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [
    "Dawn",
@@ -45873,9 +45873,9 @@
   "pageid": 7297,
   "ns": 0,
   "title": "Druj look and feel",
-  "path": "out-of-character/costume/Druj_look_and_feel.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/Druj_look_and_feel.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [
    "Barbarians",
@@ -46362,16 +46362,16 @@
   "pageid": 3432,
   "ns": 0,
   "title": "Egregores",
-  "path": "out-of-character/crew/Egregores.md",
-  "class": "out-of-character",
-  "topic": "crew",
+  "path": "in-character/nations/general/Egregores.md",
+  "class": "in-character",
+  "topic": "nations/general",
   "event": null,
   "categories": [
    "Crew",
    "Egregore",
    "The World"
   ],
-  "rule": "category:Crew",
+  "rule": "override",
   "revision": 142196,
   "last_edited": "2026-07-20T18:18:02Z",
   "aliases": [
@@ -47987,9 +47987,9 @@
   "pageid": 12663,
   "ns": 0,
   "title": "Eternals and rituals",
-  "path": "out-of-character/rules/Eternals_and_rituals.md",
-  "class": "out-of-character",
-  "topic": "rules",
+  "path": "mixed/magic/lore/Eternals_and_rituals.md",
+  "class": "mixed",
+  "topic": "magic/lore",
   "event": null,
   "categories": [
    "Magic Theory",
@@ -47997,7 +47997,7 @@
    "Rules",
    "Eternals"
   ],
-  "rule": "category:Rules",
+  "rule": "override",
   "revision": 143291,
   "last_edited": "2026-08-10T23:08:29Z",
   "aliases": [],
@@ -54254,9 +54254,9 @@
   "pageid": 5431,
   "ns": 0,
   "title": "Grendel look and feel",
-  "path": "out-of-character/costume/Grendel_look_and_feel.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/Grendel_look_and_feel.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [
    "Barbarians",
@@ -54427,16 +54427,16 @@
   "pageid": 2438,
   "ns": 0,
   "title": "Group Archetypes",
-  "path": "out-of-character/rules/Group_Archetypes.md",
-  "class": "out-of-character",
-  "topic": "rules",
+  "path": "mixed/nations/general/Group_Archetypes.md",
+  "class": "mixed",
+  "topic": "nations/general",
   "event": null,
   "categories": [
    "Archetype",
    "Rules",
    "Nations"
   ],
-  "rule": "category:Rules",
+  "rule": "override",
   "revision": 138675,
   "last_edited": "2026-05-17T14:54:14Z",
   "aliases": [],
@@ -56829,9 +56829,9 @@
   "pageid": 216,
   "ns": 0,
   "title": "Highguard look and feel",
-  "path": "out-of-character/costume/Highguard_look_and_feel.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/Highguard_look_and_feel.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [
    "Highguard",
@@ -59633,9 +59633,9 @@
   "pageid": 2301,
   "ns": 0,
   "title": "Imperial Orcs look and feel",
-  "path": "out-of-character/costume/Imperial_Orcs_look_and_feel.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/Imperial_Orcs_look_and_feel.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [
    "Imperial Orcs",
@@ -62282,9 +62282,9 @@
   "pageid": 5440,
   "ns": 0,
   "title": "Jotun look and feel",
-  "path": "out-of-character/costume/Jotun_look_and_feel.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/Jotun_look_and_feel.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [
    "Barbarians",
@@ -65733,12 +65733,12 @@
   "pageid": 8028,
   "ns": 0,
   "title": "Look and feel new highguard",
-  "path": "out-of-character/costume/Look_and_feel_new_highguard.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/Look_and_feel_new_highguard.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [],
-  "rule": "override",
+  "rule": "title:(?i)look and feel",
   "revision": 123730,
   "last_edited": "2025-07-12T20:29:18Z",
   "aliases": [],
@@ -65751,12 +65751,12 @@
   "pageid": 8118,
   "ns": 0,
   "title": "Look and feel new navarr",
-  "path": "out-of-character/costume/Look_and_feel_new_navarr.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/Look_and_feel_new_navarr.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [],
-  "rule": "override",
+  "rule": "title:(?i)look and feel",
   "revision": 122463,
   "last_edited": "2025-06-26T18:15:45Z",
   "aliases": [],
@@ -70871,9 +70871,9 @@
   "pageid": 453,
   "ns": 0,
   "title": "Navarr look and feel",
-  "path": "out-of-character/costume/Navarr_look_and_feel.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/Navarr_look_and_feel.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [
    "Navarr",
@@ -73726,9 +73726,9 @@
   "pageid": 10117,
   "ns": 0,
   "title": "Past life vision",
-  "path": "out-of-character/rules/Past_life_vision.md",
-  "class": "out-of-character",
-  "topic": "rules",
+  "path": "mixed/religion/Past_life_vision.md",
+  "class": "mixed",
+  "topic": "religion",
   "event": null,
   "categories": [
    "Ceremonies",
@@ -73736,7 +73736,7 @@
    "Religion",
    "Imperial Synod"
   ],
-  "rule": "category:Rules",
+  "rule": "override",
   "revision": 110528,
   "last_edited": "2024-05-15T16:15:35Z",
   "aliases": [],
@@ -80328,7 +80328,7 @@
   "path": "in-character/senate-motions/Resupply_Imperial_armies_Summer_382YE.md",
   "class": "in-character",
   "topic": "senate-motions",
-  "event": null,
+  "event": "382YE Summer",
   "categories": [
    "Senate Motion"
   ],
@@ -92316,9 +92316,9 @@
   "pageid": 74,
   "ns": 0,
   "title": "The Brass Coast look and feel",
-  "path": "out-of-character/costume/The_Brass_Coast_look_and_feel.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/The_Brass_Coast_look_and_feel.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [
    "The Brass Coast",
@@ -92337,12 +92337,12 @@
   "pageid": 8257,
   "ns": 0,
   "title": "The Brass Coast look and feel2",
-  "path": "out-of-character/costume/The_Brass_Coast_look_and_feel2.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/The_Brass_Coast_look_and_feel2.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [],
-  "rule": "override",
+  "rule": "title:(?i)look and feel",
   "revision": 123729,
   "last_edited": "2025-07-12T20:29:12Z",
   "aliases": [],
@@ -93806,9 +93806,9 @@
   "pageid": 78,
   "ns": 0,
   "title": "The League look and feel",
-  "path": "out-of-character/costume/The_League_look_and_feel.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/The_League_look_and_feel.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [
    "The League",
@@ -94280,9 +94280,9 @@
   "pageid": 76,
   "ns": 0,
   "title": "The Marches look and feel",
-  "path": "out-of-character/costume/The_Marches_look_and_feel.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/The_Marches_look_and_feel.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [
    "The Marches",
@@ -102620,9 +102620,9 @@
   "pageid": 514,
   "ns": 0,
   "title": "Urizen look and feel",
-  "path": "out-of-character/costume/Urizen_look_and_feel.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/Urizen_look_and_feel.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [
    "Urizen",
@@ -103344,9 +103344,9 @@
   "pageid": 554,
   "ns": 0,
   "title": "Varushka look and feel",
-  "path": "out-of-character/costume/Varushka_look_and_feel.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/Varushka_look_and_feel.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [
    "Varushka",
@@ -107710,9 +107710,9 @@
   "pageid": 79,
   "ns": 0,
   "title": "Wintermark look and feel",
-  "path": "out-of-character/costume/Wintermark_look_and_feel.md",
-  "class": "out-of-character",
-  "topic": "costume",
+  "path": "mixed/look-and-feel/Wintermark_look_and_feel.md",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "categories": [
    "Wintermark",
@@ -112755,7 +112755,7 @@
   "path": "indexes/by-category/Spring_379YE.md",
   "class": "out-of-character",
   "topic": "categories",
-  "event": null,
+  "event": "379YE Spring",
   "categories": [],
   "rule": "namespace:Category",
   "revision": 78298,
@@ -114127,7 +114127,7 @@
   "path": "mixed/archive/Archive-Paid_Work_Autumn_Equinox_384YE.md",
   "class": "mixed",
   "topic": "archive",
-  "event": null,
+  "event": "384YE Autumn",
   "categories": [],
   "rule": "namespace:Archive",
   "revision": 98235,
@@ -114163,7 +114163,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_377YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "377YE Autumn",
   "categories": [
    "Roll of Honour"
   ],
@@ -114183,7 +114183,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_378YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "378YE Autumn",
   "categories": [
    "Roll of Honour"
   ],
@@ -114203,7 +114203,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_379YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "379YE Autumn",
   "categories": [
    "Roll of Honour"
   ],
@@ -114223,7 +114223,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_380YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "380YE Autumn",
   "categories": [
    "Roll of Honour"
   ],
@@ -114243,7 +114243,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_381YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "381YE Autumn",
   "categories": [
    "Roll of Honour"
   ],
@@ -114263,7 +114263,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_382YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "382YE Autumn",
   "categories": [
    "Roll of Honour"
   ],
@@ -114283,7 +114283,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_383YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "383YE Autumn",
   "categories": [
    "Roll of Honour"
   ],
@@ -114303,7 +114303,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_384YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "384YE Autumn",
   "categories": [
    "Roll of Honour"
   ],
@@ -114323,7 +114323,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_385YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "385YE Autumn",
   "categories": [
    "Roll of Honour"
   ],
@@ -114343,7 +114343,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_386YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "386YE Autumn",
   "categories": [
    "Roll of Honour"
   ],
@@ -114363,7 +114363,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_387YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "387YE Autumn",
   "categories": [
    "RollOfHonour"
   ],
@@ -114383,7 +114383,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_377YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "377YE Spring",
   "categories": [
    "Roll of Honour"
   ],
@@ -114403,7 +114403,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_378YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "378YE Spring",
   "categories": [
    "Military Council",
    "Roll of Honour"
@@ -114426,7 +114426,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_379YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "379YE Spring",
   "categories": [
    "Roll of Honour"
   ],
@@ -114446,7 +114446,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_380YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "380YE Spring",
   "categories": [
    "Roll of Honour"
   ],
@@ -114466,7 +114466,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_381YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "381YE Spring",
   "categories": [
    "Roll of Honour"
   ],
@@ -114486,7 +114486,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_382YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "382YE Spring",
   "categories": [
    "Roll of Honour"
   ],
@@ -114506,7 +114506,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_383YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "383YE Spring",
   "categories": [
    "Roll of Honour"
   ],
@@ -114526,7 +114526,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_384YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "384YE Spring",
   "categories": [
    "Roll of Honour"
   ],
@@ -114546,7 +114546,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_385YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "385YE Spring",
   "categories": [
    "Roll of Honour"
   ],
@@ -114566,7 +114566,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_386YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "386YE Spring",
   "categories": [
    "Roll of Honour"
   ],
@@ -114586,7 +114586,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_387YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "387YE Spring",
   "categories": [
    "RollOfHonour"
   ],
@@ -114606,7 +114606,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_388YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "388YE Spring",
   "categories": [
    "RollOfHonour"
   ],
@@ -114626,7 +114626,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_377YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "377YE Summer",
   "categories": [
    "Roll of Honour"
   ],
@@ -114648,7 +114648,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_378YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "378YE Summer",
   "categories": [
    "Roll of Honour"
   ],
@@ -114668,7 +114668,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_379YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "379YE Summer",
   "categories": [
    "Roll of Honour"
   ],
@@ -114688,7 +114688,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_380YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "380YE Summer",
   "categories": [
    "Roll of Honour"
   ],
@@ -114708,7 +114708,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_381YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "381YE Summer",
   "categories": [
    "Roll of Honour"
   ],
@@ -114728,7 +114728,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_382YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "382YE Summer",
   "categories": [
    "Roll of Honour"
   ],
@@ -114748,7 +114748,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_383YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "383YE Summer",
   "categories": [
    "Roll of Honour"
   ],
@@ -114768,7 +114768,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_384YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "384YE Summer",
   "categories": [
    "Roll of Honour"
   ],
@@ -114788,7 +114788,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_385YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "385YE Summer",
   "categories": [
    "Roll of Honour"
   ],
@@ -114808,7 +114808,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_386YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "386YE Summer",
   "categories": [
    "Roll of Honour"
   ],
@@ -114828,7 +114828,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_387YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "387YE Summer",
   "categories": [
    "RollOfHonour"
   ],
@@ -114848,7 +114848,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_388YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "388YE Summer",
   "categories": [
    "RollOfHonour"
   ],
@@ -114868,7 +114868,7 @@
   "path": "mixed/archive/Archive-Roll_of_Honour_Winter_Solstice_377YE.md",
   "class": "mixed",
   "topic": "archive",
-  "event": null,
+  "event": "377YE Winter",
   "categories": [],
   "rule": "namespace:Archive",
   "revision": 89855,
@@ -114888,7 +114888,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_378YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "378YE Winter",
   "categories": [
    "Roll of Honour"
   ],
@@ -114908,7 +114908,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_379YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "379YE Winter",
   "categories": [
    "Roll of Honour"
   ],
@@ -114928,7 +114928,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_380YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "380YE Winter",
   "categories": [
    "Roll of Honour"
   ],
@@ -114948,7 +114948,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_381YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "381YE Winter",
   "categories": [
    "Roll of Honour"
   ],
@@ -114968,7 +114968,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_382YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "382YE Winter",
   "categories": [
    "Roll of Honour"
   ],
@@ -114988,7 +114988,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_383YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "383YE Winter",
   "categories": [
    "Roll of Honour"
   ],
@@ -115008,7 +115008,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_384YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "384YE Winter",
   "categories": [
    "Roll of Honour"
   ],
@@ -115028,7 +115028,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_385YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "385YE Winter",
   "categories": [
    "Roll of Honour"
   ],
@@ -115048,7 +115048,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_386YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "386YE Winter",
   "categories": [
    "RollOfHonour"
   ],
@@ -115068,7 +115068,7 @@
   "path": "in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_387YE.md",
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "387YE Winter",
   "categories": [
    "RollOfHonour"
   ],

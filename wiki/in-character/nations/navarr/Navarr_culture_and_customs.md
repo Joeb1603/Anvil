@@ -28,7 +28,7 @@ The Navarr mark vows, oaths and promises with a physical sign of their intent an
 
 *[Image: Tattoos are a way to demonstrate oaths and commitments](https://www.profounddecisions.co.uk/empire-wiki/File:Intricate_Tattoo.jpg)*
 
-Many Navarr who choose to follow a [specific calling](../../../out-of-character/rules/Archetype.md), such as a [thorn](Thorn.md) or a [brand](Brand.md), take on a new mark to signify their commitment. Tattoos that mark an oath of service are generally worn openly on the hand, arm, or face. The mark commemorating a brand's oath - often a literal brand rather than a tattoo- is worn on the left cheekbone, while thorns sometimes eschew a publicly visible mark and instead don facepaint every day to announce their calling.
+Many Navarr who choose to follow a [specific calling](../../../mixed/nations/general/Archetype.md), such as a [thorn](Thorn.md) or a [brand](Brand.md), take on a new mark to signify their commitment. Tattoos that mark an oath of service are generally worn openly on the hand, arm, or face. The mark commemorating a brand's oath - often a literal brand rather than a tattoo- is worn on the left cheekbone, while thorns sometimes eschew a publicly visible mark and instead don facepaint every day to announce their calling.
 
 Skilled tattoo artists are very much in demand in Navarr society, as it is rare that someone will mark an oath or vow with a tattoo or brand that they create themselves. The artist always expects the patron to explain their oath, and will often want to be present personally when they swear that oath. Some tattooists are also priests and may accompany an oath with a [testimony](../../../out-of-character/rules/Testimony.md) that marks the soul as the tattoo marks the body. This combination of skills might also be used by a tattooist-priest when creating a normal testimony - believing that the act of combining a spiritual mark and a physical mark not only makes the testimony "visible" to others but enhances its potency.
 
@@ -95,7 +95,7 @@ Core Brief
 - [Introduction](Navarr.md)
 - [The people](Navarr_people.md)
 - Culture and customs
-- [Look and feel](../../../out-of-character/costume/Navarr_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Navarr_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/Navarr_hearth_magic.md)
 
 Additional Information

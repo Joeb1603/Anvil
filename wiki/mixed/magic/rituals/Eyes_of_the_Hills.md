@@ -30,7 +30,7 @@ This ritual is part of [Urizen lore](../../../in-character/nations/urizen/Urizen
 
 Performing this ritual takes at least 10 minutes of roleplaying. If the ritual is cast using the [Imperial Regio](Regio.md#the-imperial-regio) it requires at least 5 minutes of roleplaying instead.
 
-During the ritual the casters must be in a strong Autumn [regio](Regio.md). This ritual targets an [Imperial army](../../../out-of-character/rules/Army.md). The [general](../../government/military/Military_Council.md) responsible for the army (or the [egregore](../../../out-of-character/crew/Egregores.md) if the general is not at Anvil) must be present throughout.
+During the ritual the casters must be in a strong Autumn [regio](Regio.md). This ritual targets an [Imperial army](../../../out-of-character/rules/Army.md). The [general](../../government/military/Military_Council.md) responsible for the army (or the [egregore](../../../in-character/nations/general/Egregores.md) if the general is not at Anvil) must be present throughout.
 
 This ritual is an [enchantment](../../../out-of-character/rules/Enchantment.md). A target may only be under one enchantment effect at a time.
 

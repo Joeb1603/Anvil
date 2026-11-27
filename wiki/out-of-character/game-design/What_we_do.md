@@ -659,7 +659,7 @@ Once the battle is over all the refs will meet up for a debrief. We’ll share a
 
 ## We Do Indeed Have a Job
 
-- ***Peter Green** writes about being an [egregore](../crew/Egregores.md) and about his his experiences as one of the newer members of the Player Support team.*
+- ***Peter Green** writes about being an [egregore](../../in-character/nations/general/Egregores.md) and about his his experiences as one of the newer members of the Player Support team.*
 
 I was ridiculously honoured to be asked to write something about what exactly it is that Egregores do. Contrary to popular belief, we do indeed have a job. You see, I’m rather new to the Player Support Team having done a whole two events as the Brass Coast Egregore. I have been asked back and not banned forever, so I can’t have done too badly. This puts me in a pretty cool position of being able to comment about the learning curve and duties of an Egregore with fresh eyes.
 

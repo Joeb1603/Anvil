@@ -72,7 +72,7 @@ An important idea in formal magic and hearth magic is the principle that [everyt
 
 The essential nature of a thing is much more than just its physical essence. A suit of armour worn by a hero might endure unchanged for centuries. Over time parts of the armour might become damaged beyond repair and need to be replaced by an equally skilled smith. But if is treated well, it is still the same suit of armour even if every part of it is replaced, because its essential nature endures untouched.
 
-The use of symbols is the most common way to employ the hearth magic of essence. For example certain animals and birds are understood to be connected to the virtues, so an association with the appropriate creature will work to make someone more virtuous. Of course most people don't carry a bird with them but art that depicts a bird still works, because it shares many of the essential qualities of the bird itself. Such art might painstaking attempt to faithfully depict the bird in question or, [as with Wintermark drawings of birds](../../../out-of-character/costume/Wintermark_look_and_feel.md#icons-and-artistry), but is equally effective to reduce the image to something more essential. These symbolic forms are just as effective because they capture the immutable nature of the bird in question.
+The use of symbols is the most common way to employ the hearth magic of essence. For example certain animals and birds are understood to be connected to the virtues, so an association with the appropriate creature will work to make someone more virtuous. Of course most people don't carry a bird with them but art that depicts a bird still works, because it shares many of the essential qualities of the bird itself. Such art might painstaking attempt to faithfully depict the bird in question or, [as with Wintermark drawings of birds](../../look-and-feel/Wintermark_look_and_feel.md#icons-and-artistry), but is equally effective to reduce the image to something more essential. These symbolic forms are just as effective because they capture the immutable nature of the bird in question.
 
 For the Urizen, the purest expression of these symbolic forms are to be found in the [astronomantic](Astronomancy.md) constellations. A door that is marked with a faithful image of [the Lock](The_Key_and_The_Lock.md#the-lock) becomes harder to open without the key. A garden planted in the shape of [the Fountain](The_Fountain.md) will grown lush and wholesome plants.
 The hearth magic can be invoked by laying things out in the shape made of the constellation, or by employing an image of the thing the stars represent. For example, the Urizen banner that hangs in the Senate uses both an image of a bird with bright plumage and a depiction of the stars themselves to invoke the symbolic power of [the Phoenix](The_Phoenix.md).
@@ -169,7 +169,7 @@ Core Brief
 - [Introduction](../../../in-character/nations/urizen/Urizen.md)
 - [The people](../../../in-character/nations/urizen/Urizen_people.md)
 - [Culture and customs](../../../in-character/nations/urizen/Urizen_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Urizen_look_and_feel.md)
+- [Look and feel](../../look-and-feel/Urizen_look_and_feel.md)
 - Hearth magic
 
 Additional Information

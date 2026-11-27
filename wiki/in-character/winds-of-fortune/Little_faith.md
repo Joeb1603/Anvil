@@ -189,7 +189,7 @@ The scholars and historians of the Great Library are not the only ones inspired 
 
 *[Image: The vines are oath bound to heal anyone who fights the vallorn.](https://www.profounddecisions.co.uk/empire-wiki/File:Vine.jpg)*
 
-The realisation that the vallorn can be purged in their lifetime has sparked a fire among the nation's healers. Now that the last battle with the vallorn is about to begin, more healers are embracing the ideal of a life dedicated to healing the greatest wound the world has ever known. (**OOC Note:**  the [vine](../nations/navarr/Vine.md) [archetype](../../out-of-character/rules/Archetype.md) has been added to the wiki and the game).
+The realisation that the vallorn can be purged in their lifetime has sparked a fire among the nation's healers. Now that the last battle with the vallorn is about to begin, more healers are embracing the ideal of a life dedicated to healing the greatest wound the world has ever known. (**OOC Note:**  the [vine](../nations/navarr/Vine.md) [archetype](../../mixed/nations/general/Archetype.md) has been added to the wiki and the game).
 
 The Navarr could try to capitalise on this new tradition by commissioning a vinery, either here at Hacynian or anywhere in a region that the Navarr control. The proposal is for a simple construction of stone and wood but rather than growing herbs directly, it would serve as a meeting place for vines across the nation to come together, discuss ways to partner with each other and find ways that they can work to heal the vallorn.
 

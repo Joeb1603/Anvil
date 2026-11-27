@@ -74,7 +74,7 @@ A few Kallavesi also keep the traditions of ancestor reverence alive among the W
 
 ## Further reading
 
-- [Kallavesi](../../../out-of-character/costume/Wintermark_look_and_feel.md#kallavesi)
+- [Kallavesi](../../../mixed/look-and-feel/Wintermark_look_and_feel.md#kallavesi)
 - [Kallavesa](Kallavesa.md)
 - [Mystic](Mystic.md)
 - [Stormcrows](Wintermark_religious_beliefs.md#stormcrow)

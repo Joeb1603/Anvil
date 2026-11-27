@@ -13,7 +13,7 @@ members: 20
 - [Barbarian](../../in-character/barbarians/Barbarian.md) (in-character)
 - [Common attitudes](../../in-character/world/Common_attitudes.md) (in-character)
 - [Commonwealth](../../in-character/foreign-nations/Commonwealth.md) (in-character)
-- [Egregores](../../out-of-character/crew/Egregores.md) (out-of-character)
+- [Egregores](../../in-character/nations/general/Egregores.md) (in-character)
 - [Faraden](../../in-character/foreign-nations/Faraden.md) (in-character)
 - [Foreign nations](../../in-character/foreign-nations/Foreign_nations.md) (in-character)
 - [Foreign ports](../../mixed/economy/Foreign_ports.md) (mixed)

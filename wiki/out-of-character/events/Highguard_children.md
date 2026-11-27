@@ -42,7 +42,7 @@ Core Brief
 - [Introduction](../../in-character/nations/highguard/Highguard.md)
 - [The people](../../in-character/nations/highguard/Highguard_people.md)
 - [Culture and customs](../../in-character/nations/highguard/Highguard_culture_and_customs.md)
-- [Look and feel](../costume/Highguard_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/Highguard_look_and_feel.md)
 - [Hearth magic](../../mixed/magic/lore/Highguard_hearth_magic.md)
 
 Additional Information

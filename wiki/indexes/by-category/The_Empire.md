@@ -16,7 +16,7 @@ members: 60
 - [Barbarian](../../in-character/barbarians/Barbarian.md) (in-character)
 - [Bourse](../../mixed/economy/Bourse.md) (mixed)
 - [Civil Claims](../../mixed/government/senate/Civil_Claims.md) (mixed)
-- [Civil Service Look and Feel](../../out-of-character/costume/Civil_Service_Look_and_Feel.md) (out-of-character)
+- [Civil Service Look and Feel](../../mixed/look-and-feel/Civil_Service_Look_and_Feel.md) (mixed)
 - [Common attitudes](../../in-character/world/Common_attitudes.md) (in-character)
 - [Conclave](../../mixed/government/conclave/Conclave.md) (mixed)
 - [Courage](../../in-character/religion/Courage.md) (in-character)

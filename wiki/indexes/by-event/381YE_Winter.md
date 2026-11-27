@@ -1,6 +1,6 @@
 # 381YE Winter
 
-Every page tagged to this event, grouped by topic (61 pages).
+Every page tagged to this event, grouped by topic (62 pages).
 
 ## conclave-sessions (1)
 
@@ -9,6 +9,10 @@ Every page tagged to this event, grouped by topic (61 pages).
 ## elections (1)
 
 - [381YE Winter Solstice Imperial elections](../../in-character/elections/381YE_Winter_Solstice_Imperial_elections.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Winter Solstice 381YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_381YE.md)
 
 ## senate-motions (34)
 

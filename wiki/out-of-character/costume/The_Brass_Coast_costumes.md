@@ -16,7 +16,7 @@ aliases:
 
 # The Brass Coast costumes
 
-This page contains guides written by players that may be of interest in making costume pieces. It is a very early page intended to supplement the [The Brass Coast look and feel](The_Brass_Coast_look_and_feel.md) page, and may have been superceded. Official costume advice is found on the [Costume](../rules/Costume.md) page.
+This page contains guides written by players that may be of interest in making costume pieces. It is a very early page intended to supplement the [The Brass Coast look and feel](../../mixed/look-and-feel/The_Brass_Coast_look_and_feel.md) page, and may have been superceded. Official costume advice is found on the [Costume](../rules/Costume.md) page.
 
 ## Overview
 
@@ -179,7 +179,7 @@ Core Brief
 - [Introduction](../../in-character/nations/the-brass-coast/The_Brass_Coast.md)
 - [The people](../../in-character/nations/the-brass-coast/The_Brass_Coast_people.md)
 - [Culture and customs](../../in-character/nations/the-brass-coast/The_Brass_Coast_culture_and_customs.md)
-- [Look and feel](The_Brass_Coast_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/The_Brass_Coast_look_and_feel.md)
 - [Hearth magic](../../mixed/magic/lore/The_Brass_Coast_hearth_magic.md)
 
 Additional Information

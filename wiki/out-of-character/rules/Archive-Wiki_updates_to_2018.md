@@ -1175,7 +1175,7 @@ We updated the page [Imperial elections](../../in-character/elections/Imperial_e
 
 - **Updated 07/03/2017**
 
-We removed the word "heavy" from the [armour](../costume/Dawn_look_and_feel.md#armour) section of the Dawnish Look and Feel page.
+We removed the word "heavy" from the [armour](../../mixed/look-and-feel/Dawn_look_and_feel.md#armour) section of the Dawnish Look and Feel page.
 
 ## Mercenary Banner
 
@@ -2034,7 +2034,7 @@ We added details of three new civilian [commissions](../../mixed/commissions/Com
 
 ## Remote Navarr
 
-We've clarified a few design concepts around the [Navarr](../../in-character/nations/navarr/Navarr.md) on the [Remote Navarr](../game-design/Remote_Navarr.md) page. To accompany this, we've made a few edits to [look and feel](../costume/Navarr_look_and_feel.md) to reflect those clarifications.
+We've clarified a few design concepts around the [Navarr](../../in-character/nations/navarr/Navarr.md) on the [Remote Navarr](../game-design/Remote_Navarr.md) page. To accompany this, we've made a few edits to [look and feel](../../mixed/look-and-feel/Navarr_look_and_feel.md) to reflect those clarifications.
 
 ## Military Council Overhaul
 

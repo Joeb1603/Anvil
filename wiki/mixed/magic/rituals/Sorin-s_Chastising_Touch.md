@@ -43,7 +43,7 @@ Any caster who has mastered the ritual may choose to substitute [dragonbone](../
 
 ### Assurance
 
-As with all rituals that [draw on the power](../../../out-of-character/rules/Eternals_and_rituals.md#assurance-and-stipulation) of an [eternal](../../../in-character/eternals/Eternal.md), this ritual has an assurance which, if broken, causes it to lose all power. In this case, the ritual loses all power if ever [the Throne's](../../titles/The_Throne.md) ability to lead the Empire and represent her in all things is removed. It is not entirely clear exactly what breaking this assurance would entail. The scroll merely says that "*The Throne represents the apex of power and ambition for the people of the Empire; the Tomb Lord respects that.*"
+As with all rituals that [draw on the power](../lore/Eternals_and_rituals.md#assurance-and-stipulation) of an [eternal](../../../in-character/eternals/Eternal.md), this ritual has an assurance which, if broken, causes it to lose all power. In this case, the ritual loses all power if ever [the Throne's](../../titles/The_Throne.md) ability to lead the Empire and represent her in all things is removed. It is not entirely clear exactly what breaking this assurance would entail. The scroll merely says that "*The Throne represents the apex of power and ambition for the people of the Empire; the Tomb Lord respects that.*"
 
 *[Image: This ritual draws on the power of Sorin , the ruler of a bleak sand-choked wasteland called the "Silent Kingdom".](https://www.profounddecisions.co.uk/empire-wiki/File:Sorin.jpg)*
 

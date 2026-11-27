@@ -6,6 +6,7 @@ topic: roll-of-honour
 categories:
 - Military Council
 - Roll of Honour
+event: 378YE Spring
 last_edited: '2025-05-30T01:01:03Z'
 revision: 120857
 aliases:

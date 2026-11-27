@@ -179,16 +179,16 @@ This rule is important because many of us are deeply self-conscious about our ap
 
 **National Look and Feel**
 
-- [The Brass Coast](../costume/The_Brass_Coast_look_and_feel.md)
-- [Dawn](../costume/Dawn_look_and_feel.md)
-- [Highguard](../costume/Highguard_look_and_feel.md)
-- [Imperial Orcs](../costume/Imperial_Orcs_look_and_feel.md)
-- [The League](../costume/The_League_look_and_feel.md)
-- [The Marches](../costume/The_Marches_look_and_feel.md)
-- [Navarr](../costume/Navarr_look_and_feel.md)
-- [Urizen](../costume/Urizen_look_and_feel.md)
-- [Varushka](../costume/Varushka_look_and_feel.md)
-- [Wintermark](../costume/Wintermark_look_and_feel.md)
+- [The Brass Coast](../../mixed/look-and-feel/The_Brass_Coast_look_and_feel.md)
+- [Dawn](../../mixed/look-and-feel/Dawn_look_and_feel.md)
+- [Highguard](../../mixed/look-and-feel/Highguard_look_and_feel.md)
+- [Imperial Orcs](../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md)
+- [The League](../../mixed/look-and-feel/The_League_look_and_feel.md)
+- [The Marches](../../mixed/look-and-feel/The_Marches_look_and_feel.md)
+- [Navarr](../../mixed/look-and-feel/Navarr_look_and_feel.md)
+- [Urizen](../../mixed/look-and-feel/Urizen_look_and_feel.md)
+- [Varushka](../../mixed/look-and-feel/Varushka_look_and_feel.md)
+- [Wintermark](../../mixed/look-and-feel/Wintermark_look_and_feel.md)
 
 **Costume How-Tos**
 

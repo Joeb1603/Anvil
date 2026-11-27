@@ -40,7 +40,7 @@ The Freeborn are passionate people who love dancing, story-telling and performan
 | [Dhomiro](The_Brass_Coast_leadership.md#dhomiro) | [Scrivener](The_Brass_Coast_economic_interests.md#scriveners) |
 | [Hakima](Hakima.md) | [Sutannir](Sutannir.md) |
 
-There are magicians, priests, warriors, and traders of every stripe in every nation in the Empire. An [archetype](../../../out-of-character/rules/Archetype.md) represents a specific attitude or approach to a given role that reflects cultural values and common ambitions of a nation. Choosing an archetype helps to define your character; it provides roleplaying hooks and ready-made character goals, but it also places demands on your character in terms of how you portray them. Selecting an archetype is optional, and it's better not to pick one if none of them appeal to you.
+There are magicians, priests, warriors, and traders of every stripe in every nation in the Empire. An [archetype](../../../mixed/nations/general/Archetype.md) represents a specific attitude or approach to a given role that reflects cultural values and common ambitions of a nation. Choosing an archetype helps to define your character; it provides roleplaying hooks and ready-made character goals, but it also places demands on your character in terms of how you portray them. Selecting an archetype is optional, and it's better not to pick one if none of them appeal to you.
 
 The Freeborn are not the strongest military in the Empire, but there is one area where their strength is uncontested – on the open seas. Entire families make their living as [corsairs](Corsair.md), sea-borne raiders who prey on barbarian shipping passing through the Bay of Catazar. The Freeborn detest piracy, but they regard privateering as a perfectly legitimate form of warfare, which has the added advantage of also being highly profitable! Corsairs are not just privateers, and many routinely engage in foreign trade. In some parts of the Brass Coast there is a common saying which suggests that the only real difference between a privateer and a merchant is that the privateers get their goods cheaper.
 
@@ -87,7 +87,7 @@ Core Brief
 - [Introduction](The_Brass_Coast.md)
 - The people
 - [Culture and customs](The_Brass_Coast_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/The_Brass_Coast_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/The_Brass_Coast_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/The_Brass_Coast_hearth_magic.md)
 
 Additional Information

@@ -75,7 +75,7 @@ You must ensure that you keep your camp to the area designated by the camp plann
 - **All our camp planners play the event, in an emergency they can try to direct you to the most suitable member of our event crew**
 - **Camp planning is a purely out-of-character responsibility, it has nothing to do with the character they play**
 
-All our camp planners are members of our site team. This means that they carry out their responsibilities before and after the event, **not while the event is running**. Once the event begins, they are just like every other participant who is playing the game. In an emergency your camp planner can try to direct you to the most suitable member of our event crew who can help, but the best place to get help is usually your nation [egregore](../crew/Egregores.md), or a wandering referee, or to ask at GOD.
+All our camp planners are members of our site team. This means that they carry out their responsibilities before and after the event, **not while the event is running**. Once the event begins, they are just like every other participant who is playing the game. In an emergency your camp planner can try to direct you to the most suitable member of our event crew who can help, but the best place to get help is usually your nation [egregore](../../in-character/nations/general/Egregores.md), or a wandering referee, or to ask at GOD.
 
 It is important to keep in mind that our camp planners are treated as players during the event. They are not NPCs and their out-of-character responsibilities as camp planners are completely separate from the in-character goals and objects of their characters. Please don't confuse the two and definitely don't try and offer them in-character bribes to get the spot you want!
 

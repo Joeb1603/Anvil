@@ -45,7 +45,7 @@ Core Brief
   - [Kallavesi](../../in-character/nations/wintermark/Kallavesi.md)
   - [Steinr](../../in-character/nations/wintermark/Steinr.md)
   - [Suaq](../../in-character/nations/wintermark/Suaq.md)
-- [Look and feel](../costume/Wintermark_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/Wintermark_look_and_feel.md)
 - [Hearth magic](../../mixed/magic/lore/Wintermark_hearth_magic.md)
 
 Further Reading

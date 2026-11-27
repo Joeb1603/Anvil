@@ -61,7 +61,7 @@ They labour under one significant misapprehension, but one that we as Imperial c
 
 This is one of the reasons that the Faraden have very strong rules regarding what is and is not acceptable when it comes to violence between their great families. One of the roles played by priests here is to mediate disputes, and as much as possible to prevent families making actual war on each other. If a family is wiped out, they will be unable to reincarnate. Their spirits will be trapped in the howling waste, eventually becoming malignant spirits that prey on the mortal souls who wander there, making it more likely they will be lead astray.
 
-I genuinely believe that if the Faraden only had access to enough [true liao](../../mixed/religion/Liao.md#true-liao) to be able to perform their own [past life visions](../../out-of-character/rules/Past_life_vision.md) they would be able to overcome this misapprehension. Mind you, I couldn't say what undermining this belief which seems so integral to Faraden society might mean in the long run.
+I genuinely believe that if the Faraden only had access to enough [true liao](../../mixed/religion/Liao.md#true-liao) to be able to perform their own [past life visions](../../mixed/religion/Past_life_vision.md) they would be able to overcome this misapprehension. Mind you, I couldn't say what undermining this belief which seems so integral to Faraden society might mean in the long run.
 
 ## The Priest Families
 

@@ -1,8 +1,8 @@
 ---
 title: The Marches look and feel
 source: https://www.profounddecisions.co.uk/empire-wiki/The_Marches_look_and_feel
-class: out-of-character
-topic: costume
+class: mixed
+topic: look-and-feel
 categories:
 - The Marches
 - Nations
@@ -41,7 +41,7 @@ Plain flat colours, mostly the soft colours of natural dyes or unbleached cloth.
 
 Marchers favour plain clothes, tunics, simple hoods, hose and shirts. Wealthier characters might wear finer robes, cotehardies or a simple doublet, but even then plain wool or heavy linen will be more appropriate than fancy patterns or embroidery. Medieval re-enactments are a great source of inspiration for the look and feel of the Marches territories - although unlike history, its worth noting that Marches society is gender neutral. Marcher leg wear is practical and slim fitting. Close fitting trousers are practical and easy to come by or make. Hose, either joined or split, are worn with [braies](https://en.wikipedia.org/wiki/Braies) and a long shirt. An extremely simple untailored cut for shirts fits the Marches very well: Full in the body and sleeve, possibly gathered at neck and wrist. Doublets are popular in the Marches, a snug-fitting buttoned jacket that is shaped and fitted to the body. It can be worn over the shirt or under another layer of clothing. They tend to be short and simple – fancy slash work doesn't really fit the Marchers practical approach.
 
-A woollen or heavy linen overdress such as a [kirtle](Kirtle.md) or [cotehardie](Cotehardie.md) over a shirt or shift is be a good alternative to shirts and hose. The look is long, lean and smooth and laced to fit. Back lacing shows higher status and gives a better line. Side lacing is more common. It would be rare to see a gathered skirt (common to Tudor kirtles) in the Marches.
+A woollen or heavy linen overdress such as a [kirtle](../../out-of-character/costume/Kirtle.md) or [cotehardie](../../out-of-character/costume/Cotehardie.md) over a shirt or shift is be a good alternative to shirts and hose. The look is long, lean and smooth and laced to fit. Back lacing shows higher status and gives a better line. Side lacing is more common. It would be rare to see a gathered skirt (common to Tudor kirtles) in the Marches.
 
 Marchers prefer pouches to pockets – bollock or kidney pouches or leather bags are perfect. Belts are often very long, wrapped round, looped at the front and left to dangle. The [typical clothing](#monks-and-friars) of [monks and friars](../../in-character/nations/the-marches/The_Marches_religious_beliefs.md) consists of a traditional plain monk's habit.
 
@@ -92,7 +92,7 @@ The head of a household, a [steward](../../in-character/nations/the-marches/Stew
 
 ### Alders and Townsfolk
 
-Many [alders](../../in-character/nations/the-marches/The_Marches_economic_interests.md) take great pride in their ceremonial chains of office, sometimes referred to as "Chains of Prosperity". Some go so far as to commission them as magical items, such as an [Alder's Edge](../../mixed/magic/items/Alder-s_Edge.md).
+Many [alders](../../in-character/nations/the-marches/The_Marches_economic_interests.md) take great pride in their ceremonial chains of office, sometimes referred to as "Chains of Prosperity". Some go so far as to commission them as magical items, such as an [Alder's Edge](../magic/items/Alder-s_Edge.md).
 
 - [Image: Tea-dious Business.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Tea-dious_Business.jpg)
 - [Image: Householder.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Householder.jpg)
@@ -111,7 +111,7 @@ Many [alders](../../in-character/nations/the-marches/The_Marches_economic_intere
 
 ### Landskeepers and Mummers
 
-Some [landskeepers](../../mixed/magic/lore/The_Marches_magical_traditions.md#landskeepers) wear robes, similar to the monk, but hose, jerkin, and a shirt with rolled-up sleeves is just as good an alternative. A landskeeper is well used to hard work in the fields and their look reflects that. By contrast, Mummers are more likely to wear flamboyant costumes as suits magicians whose tradition involves performing plays.
+Some [landskeepers](../magic/lore/The_Marches_magical_traditions.md#landskeepers) wear robes, similar to the monk, but hose, jerkin, and a shirt with rolled-up sleeves is just as good an alternative. A landskeeper is well used to hard work in the fields and their look reflects that. By contrast, Mummers are more likely to wear flamboyant costumes as suits magicians whose tradition involves performing plays.
 
 - [Image: Observant Mummer.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Observant_Mummer.jpg)
 - [Image: Watt Lambrook.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Watt_Lambrook.jpg)
@@ -150,7 +150,7 @@ Poor [Yeomen](../../in-character/nations/the-marches/Yeoman_of_the_Marches.md) m
 
 ### Mage Armour
 
-[Mage armour](../rules/Weapons_-_armour.md#mage-armour) is often from similar materials - fabric, leather and possibly pieces of chain mail - in both natural and household colours, but is more likely to be adorned and decorated with elements of no immediately obvious use.
+[Mage armour](../../out-of-character/rules/Weapons_-_armour.md#mage-armour) is often from similar materials - fabric, leather and possibly pieces of chain mail - in both natural and household colours, but is more likely to be adorned and decorated with elements of no immediately obvious use.
 
 - [Image: Landskeeper with a Hat.png](https://www.profounddecisions.co.uk/empire-wiki/File:Landskeeper_with_a_Hat.png)
 - [Image: Furious Landskeeper.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Furious_Landskeeper.jpg)
@@ -190,7 +190,7 @@ Gates and doors are traditionally decorated with woven bundles of grain on eithe
 
 ## Children
 
-[Children in the Marches](../events/The_Marches_children.md) can be dressed in scaled down versions of their parent's clothes. For toddlers and babies, traditional smocks, or simple t-tunics and drawstring trousers are simple and easy to pull-on garments, that can be made in linen or cotton for easy washing! These types of clothes also have plenty of flexibility in terms of size, meaning you'll get more than one year's use out of them. Small [coifs](Coif.md) are great for keeping the sun off a baby's head and simple straw hats can also be used to stop children burning. Older children can either have their own costumes, or be given adult clothes which are then rolled up and belted to fit - the practical Marchers are unlikely to waste any clothing and hand me downs are a cheap (in and out of character!) way to clothe children.
+[Children in the Marches](../../out-of-character/events/The_Marches_children.md) can be dressed in scaled down versions of their parent's clothes. For toddlers and babies, traditional smocks, or simple t-tunics and drawstring trousers are simple and easy to pull-on garments, that can be made in linen or cotton for easy washing! These types of clothes also have plenty of flexibility in terms of size, meaning you'll get more than one year's use out of them. Small [coifs](../../out-of-character/costume/Coif.md) are great for keeping the sun off a baby's head and simple straw hats can also be used to stop children burning. Older children can either have their own costumes, or be given adult clothes which are then rolled up and belted to fit - the practical Marchers are unlikely to waste any clothing and hand me downs are a cheap (in and out of character!) way to clothe children.
 
 - [Image: Walking the Boundary.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Walking_the_Boundary.jpg)
 - [Image: CM-130726-0034.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:CM-130726-0034.jpg)
@@ -210,7 +210,7 @@ General tips for costume for children:
 
 ## Inappropriate Costume
 
-Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../rules/Costume.md) for further guidelines, including those for [inappropriate costume](../rules/Costume.md#inappropriate-costume)
+Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../../out-of-character/rules/Costume.md) for further guidelines, including those for [inappropriate costume](../../out-of-character/rules/Costume.md#inappropriate-costume)
 
 ## Further Reading
 
@@ -220,7 +220,7 @@ Core Brief
 - [The people](../../in-character/nations/the-marches/The_Marches_people.md)
 - [Culture and customs](../../in-character/nations/the-marches/The_Marches_culture_and_customs.md)
 - Look and feel
-- [Hearth magic](../../mixed/magic/lore/The_Marches_hearth_magic.md)
+- [Hearth magic](../magic/lore/The_Marches_hearth_magic.md)
 
 Additional Information
 
@@ -229,12 +229,12 @@ Additional Information
 - [Economic interests](../../in-character/nations/the-marches/The_Marches_economic_interests.md)
 - [Military concerns](../../in-character/nations/the-marches/The_Marches_military_concerns.md)
 - [Religious beliefs](../../in-character/nations/the-marches/The_Marches_religious_beliefs.md)
-- [Magical traditions](../../mixed/magic/lore/The_Marches_magical_traditions.md)
+- [Magical traditions](../magic/lore/The_Marches_magical_traditions.md)
 - [Territories](../../in-character/nations/the-marches/The_Marches_territories.md)
-- [Children](../events/The_Marches_children.md)
-- [Music](../../mixed/music/The_Marches_music.md)
+- [Children](../../out-of-character/events/The_Marches_children.md)
+- [Music](../music/The_Marches_music.md)
 - [Archetypes](../../indexes/by-category/Archetype.md#the-marches)
-- [Groups](../groups/The_Marches_groups.md)
+- [Groups](../../out-of-character/groups/The_Marches_groups.md)
 - [Egregore](../../in-character/nations/the-marches/Marches_Egregore.md)
 
 ---

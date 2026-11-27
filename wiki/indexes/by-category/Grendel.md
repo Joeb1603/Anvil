@@ -19,7 +19,7 @@ members: 21
 - [Elite Grendel troops](../../in-character/barbarians/Elite_Grendel_troops.md) (in-character)
 - [Ghohlbrorn](../../in-character/barbarians/Ghohlbrorn.md) (in-character)
 - [Grendel](../../in-character/barbarians/Grendel.md) (in-character)
-- [Grendel look and feel](../../out-of-character/costume/Grendel_look_and_feel.md) (out-of-character)
+- [Grendel look and feel](../../mixed/look-and-feel/Grendel_look_and_feel.md) (mixed)
 - [Grendel religion](../../in-character/barbarians/Grendel_religion.md) (in-character)
 - [I wish you would](../../in-character/winds-of-fortune/I_wish_you_would.md) (in-character)
 - [Keep talking](../../in-character/winds-of-fortune/Keep_talking.md) (in-character)

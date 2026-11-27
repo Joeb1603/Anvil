@@ -1,6 +1,6 @@
 # 387YE Spring
 
-Every page tagged to this event, grouped by topic (65 pages).
+Every page tagged to this event, grouped by topic (66 pages).
 
 ## conclave-sessions (1)
 
@@ -18,6 +18,10 @@ Every page tagged to this event, grouped by topic (65 pages).
 ## military-council-orders (1)
 
 - [387YE Spring Equinox Military Council orders](../../in-character/military-council-orders/387YE_Spring_Equinox_Military_Council_orders.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Spring Equinox 387YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_387YE.md)
 
 ## senate-motions (19)
 

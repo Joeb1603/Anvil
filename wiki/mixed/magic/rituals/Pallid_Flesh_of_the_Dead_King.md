@@ -43,7 +43,7 @@ Any caster who has mastered the ritual may choose to substitute ingots of [orich
 
 ### Assurance
 
-This ritual calls on the [might](../../../in-character/eternals/Eternal.md#munificence-and-might) of an eternal, in this case [Tharim](../../../in-character/eternals/The_Thrice-cursed_Court.md#tharim), and it has an [assurance](../../../out-of-character/rules/Eternals_and_rituals.md#assurance-and-stipulation). The assurance connected with the ritual was lost for several centuries but was unearthed by members of the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if the Conclave ever [interdicts](../../government/conclave/Interdiction.md) the practice of personal curses.
+This ritual calls on the [might](../../../in-character/eternals/Eternal.md#munificence-and-might) of an eternal, in this case [Tharim](../../../in-character/eternals/The_Thrice-cursed_Court.md#tharim), and it has an [assurance](../lore/Eternals_and_rituals.md#assurance-and-stipulation). The assurance connected with the ritual was lost for several centuries but was unearthed by members of the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if the Conclave ever [interdicts](../../government/conclave/Interdiction.md) the practice of personal curses.
 
 *Greta Salpietra de Holberg*, one of the researchers of the order, highlights that "simply" interdicting certain curses would not be enough to break this assurance. Greta instead notes that it is the magical practice of a personal curse that would need to be interdicted to break this assurance with the Bound King.
 

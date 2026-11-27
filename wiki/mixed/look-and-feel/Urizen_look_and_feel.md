@@ -1,8 +1,8 @@
 ---
 title: Urizen look and feel
 source: https://www.profounddecisions.co.uk/empire-wiki/Urizen_look_and_feel
-class: out-of-character
-topic: costume
+class: mixed
+topic: look-and-feel
 categories:
 - Urizen
 - Nations
@@ -22,7 +22,7 @@ The Urizen look draws heavily on classic fantasy images of high elves and schola
 
 Most outfits employ light or pastel colours with layered garments in similar shades. [Contrasting or complementary colours](https://en.wikipedia.org/wiki/Complementary_colors) are reserved for highlights or decoration. Some spires keep the Urizen style of layered shades of similar hue but adopt a rich, dark shade like a midnight blue or wine red for the base colour.
 
-Decoration is popular on clothing, weapons, implements and armour but tends to be stylised or even abstract, seeking to express the [essence](../../mixed/magic/lore/Urizen_hearth_magic.md#essence) of something rather than reproduce it. Complex embroidery of looping spirals, or representations of the [stars and constellations](../../in-character/nations/urizen/Urizen_culture_and_customs.md#icons-and-artistry) are particularly popular. These are usually in metallic shades or subtle shades designed to complement the whole outfit.
+Decoration is popular on clothing, weapons, implements and armour but tends to be stylised or even abstract, seeking to express the [essence](../magic/lore/Urizen_hearth_magic.md#essence) of something rather than reproduce it. Complex embroidery of looping spirals, or representations of the [stars and constellations](../../in-character/nations/urizen/Urizen_culture_and_customs.md#icons-and-artistry) are particularly popular. These are usually in metallic shades or subtle shades designed to complement the whole outfit.
 
 *[Image: Three Urizeni.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Three_Urizeni.jpg)*
 
@@ -36,7 +36,7 @@ While the archetypal Urizen robes are floor length, the "Anvil cut" of mid-calf 
 
 *[Image: Urizen Costume 62.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Urizen_Costume_62.jpg)*
 
-**Spire or Stargazers belt:** Some Urizen have a long vertical decorative pennant, often heavily embroidered, hanging at the centre from their sash or belt. Each pennant is unique but it is usually referred to as a spire belt if decorated with symbols representing a person's spire or a stargazers belt if decorated with stars or [constellations](../../mixed/magic/lore/Astronomancy.md#constellations).
+**Spire or Stargazers belt:** Some Urizen have a long vertical decorative pennant, often heavily embroidered, hanging at the centre from their sash or belt. Each pennant is unique but it is usually referred to as a spire belt if decorated with symbols representing a person's spire or a stargazers belt if decorated with stars or [constellations](../magic/lore/Astronomancy.md#constellations).
 
 **Trousers:** When worn, trousers are either tight like leggings, or loose and flowing to look as if they were another underlayer of robes.
 
@@ -50,7 +50,7 @@ While the archetypal Urizen robes are floor length, the "Anvil cut" of mid-calf 
 
 ## Colours and Materials
 
-**Base Colours:** Most individual garments use a single colour, either white, a light shade (such as pale green or pastel yellow), or a rich dark shade (like burgundy or ink blue). Urizeni weavers have mastered the art of using [iridescent gloaming](../rules/Materials.md#iridescent-gloaming) to create [ombré](https://en.wikipedia.org/wiki/Ombr%C3%A9) effects in the most desirable and expensive fabrics.
+**Base Colours:** Most individual garments use a single colour, either white, a light shade (such as pale green or pastel yellow), or a rich dark shade (like burgundy or ink blue). Urizeni weavers have mastered the art of using [iridescent gloaming](../../out-of-character/rules/Materials.md#iridescent-gloaming) to create [ombré](https://en.wikipedia.org/wiki/Ombr%C3%A9) effects in the most desirable and expensive fabrics.
 
 **Shades:** The ideal outfit is composed of pieces belonging to the same colour or colour family, for example four shades of blue ranging from sky through to midnight or two purples paired with two pinks. The emphasis is on elegance and simplicity in colour choice, rather than the brash contrasts of nations such as Dawn, Highguard, or the Brass Coast.
 
@@ -114,17 +114,17 @@ The ideal Urizen armaments are inspired by [the aesthetics of the Noldor in Lord
 
 ## Religion
 
-Urizen priests draw heavily on the hearth magic of [Essence](../../mixed/magic/lore/Urizen_hearth_magic.md#essence) to demonstrate their calling and most will adopt a symbol that denotes their approach to the Way. Sashes and stoles are often embroidered or decorated with stylised [symbols of the Way](../../in-character/religion/Symbols_of_the_Way.md). Jewellery incorporating symbols of the Way are employed in nets worn on the head, short-chained pendants, or brooches worn on the chest, to bring the symbol close to the head, the voice, or the heart respectively. Urizen tradition associates each of the seven virtue with one colour, most commonly seen during their [Spring festival of flowers](../../in-character/nations/urizen/Urizen_culture_and_customs.md#spring-flower-festival), but some priests might use that colour as the dominant hue for their layered robes.
+Urizen priests draw heavily on the hearth magic of [Essence](../magic/lore/Urizen_hearth_magic.md#essence) to demonstrate their calling and most will adopt a symbol that denotes their approach to the Way. Sashes and stoles are often embroidered or decorated with stylised [symbols of the Way](../../in-character/religion/Symbols_of_the_Way.md). Jewellery incorporating symbols of the Way are employed in nets worn on the head, short-chained pendants, or brooches worn on the chest, to bring the symbol close to the head, the voice, or the heart respectively. Urizen tradition associates each of the seven virtue with one colour, most commonly seen during their [Spring festival of flowers](../../in-character/nations/urizen/Urizen_culture_and_customs.md#spring-flower-festival), but some priests might use that colour as the dominant hue for their layered robes.
 
-[Astronomantic constellations](../../mixed/magic/lore/Astronomancy.md) are some of the most popular symbols in Urizen, but there is no simple relationship between the [stars and the Virtues](../../mixed/magic/lore/Astronomancy.md#stars-and-virtues). As a result, Urizen pilgrims often adopt one or more constellations that are relevant to their specific approach to the Way and use them to decorate their robes. It is also common to see pilgrims carrying scrolls containing a [soul net](../../in-character/nations/urizen/Urizen_religious_beliefs.md#soul-net), either rolled up and tied to the belt or in a scroll case hanging from the belt.
+[Astronomantic constellations](../magic/lore/Astronomancy.md) are some of the most popular symbols in Urizen, but there is no simple relationship between the [stars and the Virtues](../magic/lore/Astronomancy.md#stars-and-virtues). As a result, Urizen pilgrims often adopt one or more constellations that are relevant to their specific approach to the Way and use them to decorate their robes. It is also common to see pilgrims carrying scrolls containing a [soul net](../../in-character/nations/urizen/Urizen_religious_beliefs.md#soul-net), either rolled up and tied to the belt or in a scroll case hanging from the belt.
 
 ## Magic
 
-More than any other nation, an Urizen should not feel they have to be a [magician](../rules/Magical_skills.md#magician) to make use of magical symbols as part of their costume. Magical symbols are often added to garments, using techniques such as embroidery or [appliqué](https://en.wikipedia.org/wiki/Appliqu%C3%A9). [Constellations](../../mixed/magic/lore/Astronomancy.md#constellations) are more popular than [runes](../../mixed/magic/lore/Runes.md) or [aspects](../../mixed/magic/lore/Aspect_magic.md) and are often mapped out with sequins, gems, or beads made of coloured glass or precious stone.
+More than any other nation, an Urizen should not feel they have to be a [magician](../../out-of-character/rules/Magical_skills.md#magician) to make use of magical symbols as part of their costume. Magical symbols are often added to garments, using techniques such as embroidery or [appliqué](https://en.wikipedia.org/wiki/Appliqu%C3%A9). [Constellations](../magic/lore/Astronomancy.md#constellations) are more popular than [runes](../magic/lore/Runes.md) or [aspects](../magic/lore/Aspect_magic.md) and are often mapped out with sequins, gems, or beads made of coloured glass or precious stone.
 
-Mage armour and implements are often decorated with precious stones, semi-precious stones, or crystals, or have magical symbols traced out with filigree. [Rods, staffs, and wands](../rules/Weapons_-_armour.md#implements) are more likely to be made from metal than wood - most often [mithril](../../mixed/economy/Mithril.md) - and they are often surmounted with a carefully shaped piece of dark coloured crystal or stone.
+Mage armour and implements are often decorated with precious stones, semi-precious stones, or crystals, or have magical symbols traced out with filigree. [Rods, staffs, and wands](../../out-of-character/rules/Weapons_-_armour.md#implements) are more likely to be made from metal than wood - most often [mithril](../economy/Mithril.md) - and they are often surmounted with a carefully shaped piece of dark coloured crystal or stone.
 
-[Illumination](../../mixed/magic/lore/Urizen_hearth_magic.md#illumination) is an important hearth magic in Urizen and implements, jewellery, and even robes sometimes have [lightstones](../game-design/Technology.md#lightstones) fused into them to create beautiful patterns of light. More than any other nation, the Urizen are likely to carry a light stone or a device with one or more light stones set into it. Urizen magicians often create ornamental light stones that emit light that scintillates or changes colour.
+[Illumination](../magic/lore/Urizen_hearth_magic.md#illumination) is an important hearth magic in Urizen and implements, jewellery, and even robes sometimes have [lightstones](../../out-of-character/game-design/Technology.md#lightstones) fused into them to create beautiful patterns of light. More than any other nation, the Urizen are likely to carry a light stone or a device with one or more light stones set into it. Urizen magicians often create ornamental light stones that emit light that scintillates or changes colour.
 
 *[Image: Twilight Pauldrons.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Twilight_Pauldrons.jpg)*
 
@@ -142,7 +142,7 @@ Most things that are not part of a nation's brief are considered to be less appr
 
 A few things are explicitly defined as inappropriate. These are things that you should not use when you are in-character at an event, because of the real-world connotations or imagery associated with them. We have deliberately omitted these elements because they are so striking and memorable that it is impossible to see them without thinking of the themes associated with them.
 
-Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../rules/Costume.md) for further guidelines, including those for [inappropriate costume](../rules/Costume.md#inappropriate-costume).
+Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../../out-of-character/rules/Costume.md) for further guidelines, including those for [inappropriate costume](../../out-of-character/rules/Costume.md#inappropriate-costume).
 
 ### Less Appropriate
 
@@ -180,7 +180,7 @@ Core Brief
 - [The people](../../in-character/nations/urizen/Urizen_people.md)
 - [Culture and customs](../../in-character/nations/urizen/Urizen_culture_and_customs.md)
 - Look and feel
-- [Hearth magic](../../mixed/magic/lore/Urizen_hearth_magic.md)
+- [Hearth magic](../magic/lore/Urizen_hearth_magic.md)
 
 Additional Information
 
@@ -191,10 +191,10 @@ Additional Information
 - [Religious beliefs](../../in-character/nations/urizen/Urizen_religious_beliefs.md)
 - [Magical traditions](../../in-character/nations/urizen/Urizen_magical_traditions.md)
 - [Territories](../../in-character/nations/urizen/Urizen_territories.md)
-- [Children](../events/Urizen_children.md)
-- [Music](../../mixed/music/Urizen_music.md)
+- [Children](../../out-of-character/events/Urizen_children.md)
+- [Music](../music/Urizen_music.md)
 - [Archetypes](../../in-character/nations/urizen/Urizen_people.md#archetypes)
-- [Groups](../groups/Urizen_groups.md)
+- [Groups](../../out-of-character/groups/Urizen_groups.md)
 - [Egregore](../../in-character/nations/urizen/Urizen_Egregore.md)
 
 ---

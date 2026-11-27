@@ -71,7 +71,7 @@ Since they have returned from their self-imposed exile they have served as carav
 
 Threadweaver is a card game where the rules come direct from the Autumn realm. **Rodrigo von Mestra** knows the rules, or at least claims to, and wants to spread that knowledge throughout Anvil. He also has an invite to the [Golden Prince's](../eternals/Prospero.md) game which he won, as he tells it, from a foolish autumn herald that wouldn't stop playing.
 
-Rodrigo von Mestra has made it clear, on his journey to Anvil, that he's willing to put his invite on the line in games but that nobody has beaten him yet. Rodrigo will arrive in Anvil at around ten o'clock on the first night of the summit, heading straight to the League camp, informing the [egregore](../../out-of-character/crew/Egregores.md#the-league) once they arrive, and will lead any number of people through the game as wish to try it. He does caution those he plays against however that they should know where their loyalties lie, when they're playing this game. One wrong move, not even on your own part, and your favour could belong to your worst enemy.
+Rodrigo von Mestra has made it clear, on his journey to Anvil, that he's willing to put his invite on the line in games but that nobody has beaten him yet. Rodrigo will arrive in Anvil at around ten o'clock on the first night of the summit, heading straight to the League camp, informing the [egregore](../nations/general/Egregores.md#the-league) once they arrive, and will lead any number of people through the game as wish to try it. He does caution those he plays against however that they should know where their loyalties lie, when they're playing this game. One wrong move, not even on your own part, and your favour could belong to your worst enemy.
 
 ## Deeds to the Sweetroot Bakery
 
@@ -99,7 +99,7 @@ The owner, **Thomas Marrowdene**, has decided to *look the boar in the eye* and 
 
 Laurel of Delving is a young torchbearer who, during a walk uncovered an old bracelet, found in the region of [Willstone](../nations/urizen/Redoubt.md#willstone). They are certain that it has a history to it, having performed [detect magic](../../out-of-character/rules/Detect_magic.md) on it. They wish to speak to any autumn and day ritualists who would be willing to perform [Hand of the Maker](../../mixed/magic/rituals/Hand_of_the_Maker.md) and [Skein of Years](../../mixed/magic/rituals/Skein_of_Years.md) on the item. Initial rumours suggest that the bracelet has some direct links to the [Lion of Arnet](../religion/Adelmar_the_Lion.md), but further investigation is required.
 
-**Laurel of Delving** intends to arrive at the Anvil summit at eight hours past noon on the second day of the summit. They will head to Urizen, to seek council with the [egregore](../../out-of-character/crew/Egregores.md) first and will ask to be directed to converse with a collection of autumn ritualists, sentinels, and day ritualists.
+**Laurel of Delving** intends to arrive at the Anvil summit at eight hours past noon on the second day of the summit. They will head to Urizen, to seek council with the [egregore](../nations/general/Egregores.md) first and will ask to be directed to converse with a collection of autumn ritualists, sentinels, and day ritualists.
 
 ## A Song for the Asking
 

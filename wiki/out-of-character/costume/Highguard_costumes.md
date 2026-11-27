@@ -15,7 +15,7 @@ aliases:
 
 # Highguard costumes
 
-This page contains guides written by players that may be of interest in making costume pieces. It is a very early page intended to supplement the [Highguard look and feel](Highguard_look_and_feel.md) page, and may have been superceded. Official costume advice is found on the [Costume](../rules/Costume.md) page.
+This page contains guides written by players that may be of interest in making costume pieces. It is a very early page intended to supplement the [Highguard look and feel](../../mixed/look-and-feel/Highguard_look_and_feel.md) page, and may have been superceded. Official costume advice is found on the [Costume](../rules/Costume.md) page.
 
 ## Look and feel
 
@@ -231,7 +231,7 @@ Core Brief
 - [Introduction](../../in-character/nations/highguard/Highguard.md)
 - [The people](../../in-character/nations/highguard/Highguard_people.md)
 - [Culture and customs](../../in-character/nations/highguard/Highguard_culture_and_customs.md)
-- [Look and feel](Highguard_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/Highguard_look_and_feel.md)
 - [Hearth magic](../../mixed/magic/lore/Highguard_hearth_magic.md)
 
 Additional Information

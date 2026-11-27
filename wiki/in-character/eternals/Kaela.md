@@ -94,7 +94,7 @@ The following formulaic rituals are widely known to deal directly with Kaela. Ri
 >
 > Requests to speak to specific player characters who have joined the Grim Legion are invariably refused. Joining the Grim Legion exists as a dramatic in-character way for a terminal character to 'die' and once the role-playing is complete, there will be no further chances to play that PC just as there are none when a PC dies by any other means.
 >
-> Individuals who have joined the Grim Legion are also considered dead by the [egregore](../../out-of-character/crew/Egregores.md) ability to sense if someone is alive.
+> Individuals who have joined the Grim Legion are also considered dead by the [egregore](../nations/general/Egregores.md) ability to sense if someone is alive.
 
 ## Further Reading
 

@@ -1,6 +1,6 @@
 # 386YE Winter
 
-Every page tagged to this event, grouped by topic (65 pages).
+Every page tagged to this event, grouped by topic (66 pages).
 
 ## conclave-sessions (1)
 
@@ -17,6 +17,10 @@ Every page tagged to this event, grouped by topic (65 pages).
 ## military-council-orders (1)
 
 - [386YE Winter Solstice Military Council orders](../../in-character/military-council-orders/386YE_Winter_Solstice_Military_Council_orders.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Winter Solstice 386YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_386YE.md)
 
 ## senate-motions (17)
 

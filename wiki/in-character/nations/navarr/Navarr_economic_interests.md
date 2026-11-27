@@ -63,7 +63,7 @@ Core Brief
 - [Introduction](Navarr.md)
 - [The people](Navarr_people.md)
 - [Culture and customs](Navarr_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Navarr_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Navarr_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/Navarr_hearth_magic.md)
 
 Additional Information

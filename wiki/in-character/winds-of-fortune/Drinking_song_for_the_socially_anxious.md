@@ -86,7 +86,7 @@ There will be some [Apulian orcs](Windfall.md) camping in The League all weekend
 
 ### Ceremony
 
-*Merchant Prince Mahiri Kaliact di Apulian*, formerly the Salt Lord of [Spiral](../nations/the-league/Spiral.md), will be leading a procession of notables into Anvil at three in the afternoon on Saturday during the summit. If the people of [the League](../nations/the-league/The_League.md) are ready to accept them, she intends to publicly swear an oath to the [egregore](../../out-of-character/crew/Egregores.md) and be the first of her people to take on the bonds of citizenship. She invites the people she is sure will soon be her fellow citizens to come and celebrate in whatever way they see fit. Her party will be there for around an hour, before many of them must leave to attend to other business in [Outer Anvil](../world/Anvil.md#outer-anvil).
+*Merchant Prince Mahiri Kaliact di Apulian*, formerly the Salt Lord of [Spiral](../nations/the-league/Spiral.md), will be leading a procession of notables into Anvil at three in the afternoon on Saturday during the summit. If the people of [the League](../nations/the-league/The_League.md) are ready to accept them, she intends to publicly swear an oath to the [egregore](../nations/general/Egregores.md) and be the first of her people to take on the bonds of citizenship. She invites the people she is sure will soon be her fellow citizens to come and celebrate in whatever way they see fit. Her party will be there for around an hour, before many of them must leave to attend to other business in [Outer Anvil](../world/Anvil.md#outer-anvil).
 
 ### Questions
 

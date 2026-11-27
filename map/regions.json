@@ -887,7 +887,23 @@
    "words": 249
   }
  ],
- "Otkodov": [],
+ "Otkodov": [
+  {
+   "name": "Nithoggir",
+   "anchor": "nithoggir",
+   "words": 98
+  },
+  {
+   "name": "Sküld",
+   "anchor": "sküld",
+   "words": 193
+  },
+  {
+   "name": "Urdur",
+   "anchor": "urdur",
+   "words": 54
+  }
+ ],
  "Verthandi": [
   {
    "name": "Askja",

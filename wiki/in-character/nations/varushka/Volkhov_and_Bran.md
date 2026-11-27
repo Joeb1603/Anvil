@@ -16,7 +16,7 @@ revision: 142055
 
 ## Overview
 
-During the Winter Solstice 386YE, the [Lepidean Librarian](../../../mixed/titles/Lepidean_Librarian.md) **Hazelelponi of the Shattered Towers**, charged the [Heirs of Lepidus](../../religion/Lepidus.md#heirs-of-lepidus) to read the [past life vision](../../../out-of-character/rules/Past_life_vision.md) records of **Brendan “Dan” Brackensong**. The vision is well recorded in the [Echoes of the Labyrinth](../../../mixed/titles/Seer_of_the_Gateway.md#publication-2) – a notably clear and detailed explanation that is all by itself something of an inspiration. The Heirs were further charged to “*seek out the story of Bran and Volkhov*”.
+During the Winter Solstice 386YE, the [Lepidean Librarian](../../../mixed/titles/Lepidean_Librarian.md) **Hazelelponi of the Shattered Towers**, charged the [Heirs of Lepidus](../../religion/Lepidus.md#heirs-of-lepidus) to read the [past life vision](../../../mixed/religion/Past_life_vision.md) records of **Brendan “Dan” Brackensong**. The vision is well recorded in the [Echoes of the Labyrinth](../../../mixed/titles/Seer_of_the_Gateway.md#publication-2) – a notably clear and detailed explanation that is all by itself something of an inspiration. The Heirs were further charged to “*seek out the story of Bran and Volkhov*”.
 
 The project has proved popular with the librarians who are grateful to be researching something that they can be more confident will be neither controversial or iconoclastic.
 
@@ -98,7 +98,7 @@ Regardless of the truth of Vardas, the important thing, perhaps, is that we now 
 
 - [Warden](Warden.md)
 - [Life of Vardas](../../../mixed/government/synod/Life_of_Vardas.md) and [Vardas](../../religion/Vardas.md)
-- [Past life vision](../../../out-of-character/rules/Past_life_vision.md)
+- [Past life vision](../../../mixed/religion/Past_life_vision.md)
 - [Vigilance](../../religion/Vigilance.md)
 
 ---

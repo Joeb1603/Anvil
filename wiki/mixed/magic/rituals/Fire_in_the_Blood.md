@@ -51,7 +51,7 @@ For purposes of the additional bonus, rituals currently in Imperial lore that cr
 
 ### Assurance
 
-This ritual grants an intuitive understanding of magical lores, and as with other such rituals, draws on the power of an [eternal](../../../in-character/eternals/Eternal.md), in this case [Arhallogen](../../../in-character/eternals/Arhallogen.md). The [assurance](../../../out-of-character/rules/Eternals_and_rituals.md#assurance-and-stipulation) connected with the ritual was lost for several centuries but was unearthed by members of the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function when the last [vallornheart](../../../in-character/nations/navarr/Vallorn.md) is destroyed.
+This ritual grants an intuitive understanding of magical lores, and as with other such rituals, draws on the power of an [eternal](../../../in-character/eternals/Eternal.md), in this case [Arhallogen](../../../in-character/eternals/Arhallogen.md). The [assurance](../lore/Eternals_and_rituals.md#assurance-and-stipulation) connected with the ritual was lost for several centuries but was unearthed by members of the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function when the last [vallornheart](../../../in-character/nations/navarr/Vallorn.md) is destroyed.
 
 ## Description
 

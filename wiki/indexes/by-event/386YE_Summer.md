@@ -1,6 +1,6 @@
 # 386YE Summer
 
-Every page tagged to this event, grouped by topic (61 pages).
+Every page tagged to this event, grouped by topic (62 pages).
 
 ## conclave-sessions (1)
 
@@ -13,6 +13,10 @@ Every page tagged to this event, grouped by topic (61 pages).
 ## events (1)
 
 - [386YE Summer Solstice event schedule](../../out-of-character/events/386YE_Summer_Solstice_event_schedule.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Summer Solstice 386YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_386YE.md)
 
 ## senate-motions (16)
 

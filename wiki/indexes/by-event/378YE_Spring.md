@@ -1,6 +1,6 @@
 # 378YE Spring
 
-Every page tagged to this event, grouped by topic (28 pages).
+Every page tagged to this event, grouped by topic (29 pages).
 
 ## announcements (3)
 
@@ -11,6 +11,10 @@ Every page tagged to this event, grouped by topic (28 pages).
 ## conclave-sessions (1)
 
 - [378YE Spring Equinox Conclave declarations](../../in-character/conclave-sessions/378YE_Spring_Equinox_Conclave_declarations.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Spring Equinox 378YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_378YE.md)
 
 ## senate-motions (20)
 

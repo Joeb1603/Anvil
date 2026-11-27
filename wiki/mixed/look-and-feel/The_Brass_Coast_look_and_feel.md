@@ -1,8 +1,8 @@
 ---
 title: The Brass Coast look and feel
 source: https://www.profounddecisions.co.uk/empire-wiki/The_Brass_Coast_look_and_feel
-class: out-of-character
-topic: costume
+class: mixed
+topic: look-and-feel
 categories:
 - The Brass Coast
 - Nations
@@ -21,7 +21,7 @@ The [Freeborn](../../in-character/nations/the-brass-coast/The_Brass_Coast.md) lo
 
 The image of the flame is central to the Freeborn culture; they believe it represents their spirit: wild, powerful and unchained.
 
-*Also see [The Brass Coast costumes](The_Brass_Coast_costumes.md).*
+*Also see [The Brass Coast costumes](../../out-of-character/costume/The_Brass_Coast_costumes.md).*
 
 ## Breakdown
 
@@ -80,7 +80,7 @@ The ideal headgear is the [tagelmust](http://en.wikipedia.org/wiki/Tagelmust) (p
 
 As with any Freeborn, [kohan](../../in-character/nations/the-brass-coast/Kohan.md) usually dress as extravagantly as possible. What really sets them apart from other Brass Coast warriors however is their use of facepaint. Vivid colours are used, often in threatening designs, the better to unnerve their enemies. There is a wide variety of designs across the faces of the Coast, some kohan groups keeping their masks of war the same over decades of battle with others changing it day by day as their feelings take them.
 
-A kohan band may cultivate a uniform look to their [costume](../rules/Costume.md) - generally through the use of colour. A given band is likely to pick one or two shades and encourage its members to wear clothing in these colours, leaving it up to the individual to determine the exact cut and style.
+A kohan band may cultivate a uniform look to their [costume](../../out-of-character/rules/Costume.md) - generally through the use of colour. A given band is likely to pick one or two shades and encourage its members to wear clothing in these colours, leaving it up to the individual to determine the exact cut and style.
 
 Some kohan take valuable trinkets from particularly impressive fallen enemies, generally pieces of jewellery. The more striking these items are, the more opportunities they give to tell stories about how they were acquired. .
 
@@ -146,7 +146,7 @@ The Freeborn favour round (ideally domed) metal shields, highly decorated if pos
 
 ### Mage Armour
 
-Freeborn battlemages favour [mage armour](../rules/Weapons_-_armour.md#mage-armour) that elicits the same themes as other armour; scales, brightly dyed leathers, and other materials in rich colours.
+Freeborn battlemages favour [mage armour](../../out-of-character/rules/Weapons_-_armour.md#mage-armour) that elicits the same themes as other armour; scales, brightly dyed leathers, and other materials in rich colours.
 
 - [Image: FreebornMageArmour.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:FreebornMageArmour.jpg)
 - [Image: Proud Colours.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Proud_Colours.jpg)
@@ -166,7 +166,7 @@ Most things that are not part of a nation's brief are considered to be less appr
 
 A few things are explicitly defined as inappropriate. These are things that you should not use when you are in-character at an event, because of the real-world connotations or imagery associated with them. We have deliberately omitted these elements because they are so striking and memorable that it is impossible to see them without thinking of the themes associated with them.
 
-Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../rules/Costume.md) for further guidelines, including those for [inappropriate costume](../rules/Costume.md#inappropriate-costume).
+Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../../out-of-character/rules/Costume.md) for further guidelines, including those for [inappropriate costume](../../out-of-character/rules/Costume.md#inappropriate-costume).
 
 ### Avoid: Shemagh
 
@@ -194,7 +194,7 @@ Core Brief
 - [The people](../../in-character/nations/the-brass-coast/The_Brass_Coast_people.md)
 - [Culture and customs](../../in-character/nations/the-brass-coast/The_Brass_Coast_culture_and_customs.md)
 - Look and feel
-- [Hearth magic](../../mixed/magic/lore/The_Brass_Coast_hearth_magic.md)
+- [Hearth magic](../magic/lore/The_Brass_Coast_hearth_magic.md)
 
 Additional Information
 
@@ -203,12 +203,12 @@ Additional Information
 - [Economic interests](../../in-character/nations/the-brass-coast/The_Brass_Coast_economic_interests.md)
 - [Military concerns](../../in-character/nations/the-brass-coast/The_Brass_Coast_military_concerns.md)
 - [Religious beliefs](../../in-character/nations/the-brass-coast/The_Brass_Coast_religious_beliefs.md)
-- [Magical traditions](../../mixed/magic/lore/The_Brass_Coast_magical_traditions.md)
+- [Magical traditions](../magic/lore/The_Brass_Coast_magical_traditions.md)
 - [Territories](../../in-character/nations/the-brass-coast/The_Brass_Coast_territories.md)
-- [Children](../events/The_Brass_Coast_children.md)
-- [Music](../../mixed/music/The_Brass_Coast_music.md)
+- [Children](../../out-of-character/events/The_Brass_Coast_children.md)
+- [Music](../music/The_Brass_Coast_music.md)
 - [Archetypes](../../indexes/by-category/Archetype.md#the-brass-coast)
-- [Groups](../groups/The_Brass_Coast_groups.md)
+- [Groups](../../out-of-character/groups/The_Brass_Coast_groups.md)
 - [Egregore](../../in-character/nations/the-brass-coast/Brass_Coast_egregore.md)
 
 ---

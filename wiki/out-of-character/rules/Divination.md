@@ -82,7 +82,7 @@ It is not possible to do the opposite - to use divination to create a map of an 
   - [Limits of magic](Limits_of_magic.md)
   - Divination
   - [War magic](War_magic.md)
-  - [Eternals and rituals](Eternals_and_rituals.md)
+  - [Eternals and rituals](../../mixed/magic/lore/Eternals_and_rituals.md)
   - [Spring magic](Spring_magic.md)
   - [Summer magic](Summer_magic.md)
   - [Autumn magic](Autumn_magic.md)

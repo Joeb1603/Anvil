@@ -1,8 +1,8 @@
 ---
 title: Druj look and feel
 source: https://www.profounddecisions.co.uk/empire-wiki/Druj_look_and_feel
-class: out-of-character
-topic: costume
+class: mixed
+topic: look-and-feel
 categories:
 - Barbarians
 - Bestiary

@@ -40,7 +40,7 @@ Core Brief
 - [Introduction](The_League.md)
 - [The people](The_League_people.md)
 - [Culture and customs](The_League_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/The_League_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/The_League_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/The_League_hearth_magic.md)
 
 Additional Information

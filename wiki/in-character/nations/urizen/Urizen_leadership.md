@@ -86,7 +86,7 @@ A list of well-known spires who have attended Anvil in recent years can be found
 
 ## Dicta
 
-After the demos, once the dicta are agreed, they are copied down by the [egregore](../../../out-of-character/crew/Egregores.md) and the Civil Service. Copies of these are posted up in [the Hub](../../world/Anvil.md#the-hub) for all to see, and commonly distributed to Urizen citizens who do not attend Anvil but have an interest in their nation's politics. The winning candidate is expected to stand by the commitments enshrined in the dicta, as per the Urizen ideals of [Truth](../../../mixed/magic/lore/Urizen_hearth_magic.md#truth).
+After the demos, once the dicta are agreed, they are copied down by the [egregore](../general/Egregores.md) and the Civil Service. Copies of these are posted up in [the Hub](../../world/Anvil.md#the-hub) for all to see, and commonly distributed to Urizen citizens who do not attend Anvil but have an interest in their nation's politics. The winning candidate is expected to stand by the commitments enshrined in the dicta, as per the Urizen ideals of [Truth](../../../mixed/magic/lore/Urizen_hearth_magic.md#truth).
 
 ### Summer 388YE
 
@@ -201,7 +201,7 @@ Core Brief
 - [Introduction](Urizen.md)
 - [The people](Urizen_people.md)
 - [Culture and customs](Urizen_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Urizen_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Urizen_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/Urizen_hearth_magic.md)
 
 Additional Information

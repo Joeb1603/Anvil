@@ -100,7 +100,7 @@ This page collects all the information relevant to [Urizen](../../in-character/n
 - [Urizen hearth magic](../../mixed/magic/lore/Urizen_hearth_magic.md) (mixed)
 - [Urizen history](../../in-character/nations/urizen/Urizen_history.md) (in-character)
 - [Urizen leadership](../../in-character/nations/urizen/Urizen_leadership.md) (in-character)
-- [Urizen look and feel](../../out-of-character/costume/Urizen_look_and_feel.md) (out-of-character)
+- [Urizen look and feel](../../mixed/look-and-feel/Urizen_look_and_feel.md) (mixed)
 - [Urizen magical traditions](../../in-character/nations/urizen/Urizen_magical_traditions.md) (in-character)
 - [Urizen Maps](../../in-character/nations/urizen/Urizen_Maps.md) (in-character)
 - [Urizen Memorial Song](../../mixed/music/Urizen_Memorial_Song.md) (mixed)

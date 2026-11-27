@@ -42,7 +42,7 @@ The ideal times are:
 - 21:00 Saturday - Jotun
 - 13:30 Sunday
 
-Of course anyone who wants to do some npcing will be welcome at any time - but the listed times are the ideal moments to volunteer if you enjoy a decent fight. As ever, we will only allow participants to take part in the fights if they are sober (this is particularly important for the evening fights on Saturday). On the Saturday the key opponents will be Jotun troops - so if you have any good [Jotun costume or kit](../costume/Jotun_look_and_feel.md) then please bring that with you!
+Of course anyone who wants to do some npcing will be welcome at any time - but the listed times are the ideal moments to volunteer if you enjoy a decent fight. As ever, we will only allow participants to take part in the fights if they are sober (this is particularly important for the evening fights on Saturday). On the Saturday the key opponents will be Jotun troops - so if you have any good [Jotun costume or kit](../../mixed/look-and-feel/Jotun_look_and_feel.md) then please bring that with you!
 
 Each slot will last up to 90 minutes at most, though anyone who wishes to stay for one or more slots is welcome to do so.
 

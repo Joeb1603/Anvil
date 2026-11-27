@@ -29,7 +29,7 @@ At the event we will be running two large Jotun battles, one Saturday morning an
 
 The fighting begins at 11:00 am - but if you are playing the battle then you will need to muster up before this time and if you are monstering then you need to make your way to the monster area for 10:00 am to give us time to get you into costume, made-up and briefed.
 
-Both these battles will feature Jotun opponents - if you have [any costume that is appropriate for the Jotun](../costume/Jotun_look_and_feel.md) please bring that with you when you come to monster.
+Both these battles will feature Jotun opponents - if you have [any costume that is appropriate for the Jotun](../../mixed/look-and-feel/Jotun_look_and_feel.md) please bring that with you when you come to monster.
 
 ### National Weightings - Autumn Equinox 2016
 
@@ -58,7 +58,7 @@ The skirmish is at
 
 - 18:00 Saturday - Grendel
 
-Of course anyone who wants to do some npcing will be welcome at any time - but 6pm Saturday is when we really need people - put the word around! The players will be fighting the Grendel, so if you have [any Grendel costume](../costume/Grendel_look_and_feel.md) please bring it with you when you come. We expect the slot to last between 60 and 90 minutes at most.
+Of course anyone who wants to do some npcing will be welcome at any time - but 6pm Saturday is when we really need people - put the word around! The players will be fighting the Grendel, so if you have [any Grendel costume](../../mixed/look-and-feel/Grendel_look_and_feel.md) please bring it with you when you come. We expect the slot to last between 60 and 90 minutes at most.
 
 *[Image: Site Map](https://www.profounddecisions.co.uk/empire-wiki/File:Site_Layout_2016.png)*
 

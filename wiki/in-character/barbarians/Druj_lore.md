@@ -94,7 +94,7 @@ Over centuries of engagements the Empire has encountered a veritable menagerie o
 - [Druj armies](Druj_armies.md)
 - [Elite warriors](Arkad.md)
 - [Champions](Druj_champion.md)
-- [Look and feel](../../out-of-character/costume/Druj_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/Druj_look_and_feel.md)
 - Lore
 
 ---

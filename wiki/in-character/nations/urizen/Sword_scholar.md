@@ -127,7 +127,7 @@ One long term goal of the sword scholars is for one of their own to supplant the
 
 ## Costume
 
-As implied by their name, most martial sword scholars will use a sword in [battle](../../../out-of-character/costume/Urizen_look_and_feel.md#battle). Many favour heavy armour and the offensive power provided by a larger two-handed sword. When a scholar chooses to embrace a different weapon it's often a two-handed spear or similar powerful weapon.
+As implied by their name, most martial sword scholars will use a sword in [battle](../../../mixed/look-and-feel/Urizen_look_and_feel.md#battle). Many favour heavy armour and the offensive power provided by a larger two-handed sword. When a scholar chooses to embrace a different weapon it's often a two-handed spear or similar powerful weapon.
 
 ## Further Reading
 

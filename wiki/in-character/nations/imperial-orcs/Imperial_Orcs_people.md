@@ -57,7 +57,7 @@ The danger, of which the Imperial Orcs are only too aware, is that the thrill of
 | [Preacher](Preachers.md) | [Warlord](Imperial_Orcs_leadership.md) |
 | [Reaver](Imperial_Orcs_economic_interests.md#reavers) |  |
 
-There are magicians, priests, warriors, and traders of every stripe in every nation in the Empire. An [archetype](../../../out-of-character/rules/Archetype.md) represents a specific attitude or approach to a given role that reflects cultural values and common ambitions of a nation. Choosing an archetype helps to define your character; it provides roleplaying hooks and ready-made character goals, but it also places demands on your character in terms of how you portray them. Selecting an archetype is optional, and it's better not to pick one if none of them appeal to you.
+There are magicians, priests, warriors, and traders of every stripe in every nation in the Empire. An [archetype](../../../mixed/nations/general/Archetype.md) represents a specific attitude or approach to a given role that reflects cultural values and common ambitions of a nation. Choosing an archetype helps to define your character; it provides roleplaying hooks and ready-made character goals, but it also places demands on your character in terms of how you portray them. Selecting an archetype is optional, and it's better not to pick one if none of them appeal to you.
 
 ## Orc Names
 
@@ -112,7 +112,7 @@ Core Brief
 - [Introduction](Imperial_Orcs.md)
 - The people
 - [Culture and customs](Imperial_Orcs_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Imperial_Orcs_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md)
 - [Septs](Sept.md)
 - [Orc species brief](../../../mixed/world/Orc.md)
 - [Hearth magic](../../../mixed/magic/lore/Imperial_Orcs_hearth_magic.md)

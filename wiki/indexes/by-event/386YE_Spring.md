@@ -1,6 +1,6 @@
 # 386YE Spring
 
-Every page tagged to this event, grouped by topic (56 pages).
+Every page tagged to this event, grouped by topic (57 pages).
 
 ## conclave-sessions (1)
 
@@ -17,6 +17,10 @@ Every page tagged to this event, grouped by topic (56 pages).
 ## government/military (1)
 
 - [Under the firelight](../../mixed/government/military/Under_the_firelight.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Spring Equinox 386YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_386YE.md)
 
 ## senate-motions (17)
 

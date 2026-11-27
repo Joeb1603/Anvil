@@ -95,7 +95,7 @@ The message has been distributed across the Empire by the civil service, and you
 
 - **Navarr**
 
-In [Miaren](../nations/navarr/Miaren.md), [Seren](../nations/navarr/Miaren.md#seren) is now become the *City of Dreams* in truth. People with hopes and aspirations, with the imagination to perceive what is needed to achieve them and the determination to try, have flocked to Miaren. With the completion of the Temple of the Waking Dream, the [dreamspeaker](../nations/navarr/Dreamspeaker.md) calling has coalesced as a distinct [archetype](../../out-of-character/rules/Archetype.md) among the [Navarr](../nations/navarr/Navarr.md) people, one dedicated to making dreams become reality. This has perhaps predictably amplified arguments about what exactly that means, and which dreams should be pursued, and how.
+In [Miaren](../nations/navarr/Miaren.md), [Seren](../nations/navarr/Miaren.md#seren) is now become the *City of Dreams* in truth. People with hopes and aspirations, with the imagination to perceive what is needed to achieve them and the determination to try, have flocked to Miaren. With the completion of the Temple of the Waking Dream, the [dreamspeaker](../nations/navarr/Dreamspeaker.md) calling has coalesced as a distinct [archetype](../../mixed/nations/general/Archetype.md) among the [Navarr](../nations/navarr/Navarr.md) people, one dedicated to making dreams become reality. This has perhaps predictably amplified arguments about what exactly that means, and which dreams should be pursued, and how.
 
 You can learn about competing arguments, and the changes to the city of Seren, in the **[Dream on](Dream_on.md)** wind of fortune.
 

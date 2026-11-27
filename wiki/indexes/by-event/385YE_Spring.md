@@ -1,6 +1,6 @@
 # 385YE Spring
 
-Every page tagged to this event, grouped by topic (53 pages).
+Every page tagged to this event, grouped by topic (54 pages).
 
 ## conclave-sessions (1)
 
@@ -18,6 +18,10 @@ Every page tagged to this event, grouped by topic (53 pages).
 
 - [Chasing you home](../../mixed/government/military/Chasing_you_home.md)
 - [Everything is broken](../../mixed/government/military/Everything_is_broken.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Spring Equinox 385YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_385YE.md)
 
 ## senate-motions (16)
 

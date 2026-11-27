@@ -49,7 +49,7 @@ There are ten nations in the Empire, and every Imperial citizen *must* belong to
 
 The nations that make up the Empire are politically and legally unified but are culturally distinct. Each one is developed on the Empire wiki, with a brief detailing their culture, their history, and their attitudes. The *core reading* sections, the *overview*, *culture and customs*, *the people*, and the *look and feel*, tell you everything you need to know about the nation you have chosen. The *further reading* pages detail things like a nation's magical attitudes or its history; it's always helpful to skim these pages but you should definitely read the ones that are relevant to the character you are creating.
 
-Each Imperial nation has an [egregore](../crew/Egregores.md) spirit that was created to maintain the unique cultural identity of the nation. The spirit may inhabit the body of one or more Imperial citizens but they are all played by members of our crew who are there to help the players of that nation. In particular, they aim to support new players and help them get involved in the game.
+Each Imperial nation has an [egregore](../../in-character/nations/general/Egregores.md) spirit that was created to maintain the unique cultural identity of the nation. The spirit may inhabit the body of one or more Imperial citizens but they are all played by members of our crew who are there to help the players of that nation. In particular, they aim to support new players and help them get involved in the game.
 
 You can read more about the nations [here](../../in-character/nations/general/Nation_overview.md).
 

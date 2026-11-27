@@ -31,7 +31,7 @@ In addition to your skills, you pick one personal [resource](Resource.md). Your 
 
 It is a good idea to create a [background](Background.md) for your character so that you have an idea of who your character is and what they want to do in the game. If you submit the background when you make the character on the system then our plot team will be able to check the details to ensure they fit with the setting.
 
-The character generation asks if you want to choose one of the [Archetypes](Archetype.md) for your Nation. You do not have to do this - they are not an exclusive list of all the possible characters in a Nation. Sometimes our plot team will write plot opportunities directed at a specific archetype.
+The character generation asks if you want to choose one of the [Archetypes](../../mixed/nations/general/Archetype.md) for your Nation. You do not have to do this - they are not an exclusive list of all the possible characters in a Nation. Sometimes our plot team will write plot opportunities directed at a specific archetype.
 
 The character generation asks if you want to join a [Band](Bands.md) from your Nation, and gives a drop-down list. You do not have to do this. All the bands listed are player-created, and you should ensure that you have the permission of the players who are part of a band before joining when creating a new character.
 

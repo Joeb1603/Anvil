@@ -85,7 +85,7 @@ In the absence of an offical [embassy](../commissions/Embassy.md) - and the civi
 - [Overview](../../in-character/barbarians/Grendel.md)
 - [Elite Grendel troops](../../in-character/barbarians/Elite_Grendel_troops.md)
 - [Elite Grendel characters](../../in-character/barbarians/Elite_Grendel_characters.md)
-- [Grendel look and feel](../../out-of-character/costume/Grendel_look_and_feel.md)
+- [Grendel look and feel](../look-and-feel/Grendel_look_and_feel.md)
 - [Grendel religion](../../in-character/barbarians/Grendel_religion.md)
 
 - [So little I wanted, so little I got](../../in-character/winds-of-fortune/So_little_I_wanted-_so_little_I_got.md#grendel) - 387YE Autumn wind of fortune about Grendel politics

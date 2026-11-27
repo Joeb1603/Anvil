@@ -105,7 +105,7 @@ You might be worried about whether an incident is worth reporting, or concerned 
 
 All breaches of conduct are investigated by our conduct team - Emma Woods, Clare Evans, Chris Penney and Jo Pryor. Emma Woods is the head of conduct - ideally she is your first point of contact if you are experiencing a problem. However, you can ask for anyone if you would prefer to speak to a specific member of the team or a member of the team of a particular gender.
 
-If you are at an event, you can bring a conduct problem to the attention of any member of crew. There is usually at least one [egregore](../crew/Egregores.md) in every nation camp, as well as [referees](Referee.md) who operate throughout the in-character area, all of whom have a radio they can use to try to get hold of a member of the conduct team for you.
+If you are at an event, you can bring a conduct problem to the attention of any member of crew. There is usually at least one [egregore](../../in-character/nations/general/Egregores.md) in every nation camp, as well as [referees](Referee.md) who operate throughout the in-character area, all of whom have a radio they can use to try to get hold of a member of the conduct team for you.
 
 Rather than reporting in detail to the crew member, let them know that you want to speak to the conduct team. If you cannot easily find a member of crew with a radio, the best alternative is to go to [GOD](Referee.md#god) to get help there. You can also call the PD mobile phone throughout the event on 07817 133 793. This will reach a member of GOD during the day, or a member of the security team at night.
 

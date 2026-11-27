@@ -181,7 +181,7 @@ In effect what we are doing is asking everybody who doesn't have an IC tent to m
 
 ### Can I wear a kilt?
 
-As detailed in the [Navarr look and feel](../costume/Navarr_look_and_feel.md#kilts), Skirts, especially war-skirts are fine for any gender in the Navarr (and indeed elsewhere), but players should take care to avoid kilts. The classic highland kilt made of bright tartan, either short or full, is inescapably linked with the 16th century Scottish Highlands and is thus [less appropriate](Costume.md#less-appropriate-costume).
+As detailed in the [Navarr look and feel](../../mixed/look-and-feel/Navarr_look_and_feel.md#kilts), Skirts, especially war-skirts are fine for any gender in the Navarr (and indeed elsewhere), but players should take care to avoid kilts. The classic highland kilt made of bright tartan, either short or full, is inescapably linked with the 16th century Scottish Highlands and is thus [less appropriate](Costume.md#less-appropriate-costume).
 
 ## Battles and Monstering
 

@@ -135,7 +135,7 @@ Core Brief
   - [Kallavesi](../../../in-character/nations/wintermark/Kallavesi.md)
   - [Steinr](../../../in-character/nations/wintermark/Steinr.md)
   - [Suaq](../../../in-character/nations/wintermark/Suaq.md)
-- [Look and feel](../../../out-of-character/costume/Wintermark_look_and_feel.md)
+- [Look and feel](../../look-and-feel/Wintermark_look_and_feel.md)
 - Hearth magic
 
 Further Reading

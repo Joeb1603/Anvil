@@ -674,7 +674,7 @@
 - [Raise Highborn army](../in-character/senate-motions/Raise_Highborn_army.md)
 - [Relinquish Brilliant Shore](../in-character/senate-motions/Relinquish_Brilliant_Shore.md)
 
-## 382YE Summer (34)
+## 382YE Summer (35)
 
 - [Abrogate stipend of Asavean Architect](../in-character/senate-motions/Abrogate_stipend_of_Asavean_Architect.md)
 - [Amend Imperial Consul](../in-character/senate-motions/Amend_Imperial_Consul.md)
@@ -710,6 +710,7 @@
 - [Invitation to slavery summit](../in-character/senate-motions/Invitation_to_slavery_summit.md)
 - [Ratify Thule peace treaty](../in-character/senate-motions/Ratify_Thule_peace_treaty.md)
 - [Reallocate an Imperial Wayleave to the Imperial Orcs](../in-character/senate-motions/Reallocate_an_Imperial_Wayleave_to_the_Imperial_Orcs.md)
+- [Resupply Imperial armies Summer 382YE](../in-character/senate-motions/Resupply_Imperial_armies_Summer_382YE.md)
 
 ## 382YE Autumn (30)
 
@@ -1289,14 +1290,13 @@
 - [Construct Spark of Ignition](../in-character/senate-motions/Construct_Spark_of_Ignition.md)
 - [Rebuild Binding Oak Spire](../in-character/senate-motions/Rebuild_Binding_Oak_Spire.md)
 
-## Undated (10)
+## Undated (9)
 
 - [Amend powers of the Advisor on the Vallorn](../in-character/senate-motions/Amend_powers_of_the_Advisor_on_the_Vallorn.md)
 - [Amend powers of the Imperial Seer II](../in-character/senate-motions/Amend_powers_of_the_Imperial_Seer_II.md)
 - [Disburse funds for the Empress IV](../in-character/senate-motions/Disburse_funds_for_the_Empress_IV.md)
 - [Intent to exercise right of Address](../in-character/senate-motions/Intent_to_exercise_right_of_Address.md)
 - [Motion wording](../in-character/senate-motions/Motion_wording.md)
-- [Resupply Imperial armies Summer 382YE](../in-character/senate-motions/Resupply_Imperial_armies_Summer_382YE.md)
 - [Scrutiny](../in-character/senate-motions/Scrutiny.md)
 - [Senate motion](../in-character/senate-motions/Senate_motion.md)
 - [The Throne addresses the Empire](../in-character/senate-motions/The_Throne_addresses_the_Empire.md)

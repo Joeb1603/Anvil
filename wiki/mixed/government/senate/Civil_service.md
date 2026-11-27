@@ -240,7 +240,7 @@ The Magistracy publishes the [Court Report](Court_Reports.md) following each sum
 
 ### Attendants of the Gateway
 
-These civil servants take instruction from those individuals awarded or in possession of [True Liao](../../religion/Liao.md#true-liao). Where individuals seek to use the True Liao to have [visions of their past lives](../../../out-of-character/rules/Past_life_vision.md), it is the responsibility of these civil servants to interview them, to explain the process, and then to administer to the ceremony after the True Liao has been suitably prepared.
+These civil servants take instruction from those individuals awarded or in possession of [True Liao](../../religion/Liao.md#true-liao). Where individuals seek to use the True Liao to have [visions of their past lives](../../religion/Past_life_vision.md), it is the responsibility of these civil servants to interview them, to explain the process, and then to administer to the ceremony after the True Liao has been suitably prepared.
 
 They aim to make themselves available to all potential visionaries for interviews and discussions at the Hub - both on the Saturday night of each summit as well as at 1:30pm on the Sunday.
 

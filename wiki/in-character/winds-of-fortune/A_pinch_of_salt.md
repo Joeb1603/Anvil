@@ -98,7 +98,7 @@ Of course it would be possible to build a Workshop at both locations, but that w
 
 ## Further Reading
 
-- [Smith](../nations/the-marches/Smith.md) - the new [archetype](../../out-of-character/rules/Archetype.md) page for the renewed tradition of the smiths
+- [Smith](../nations/the-marches/Smith.md) - the new [archetype](../../mixed/nations/general/Archetype.md) page for the renewed tradition of the smiths
 - [Pauper's Key](../../mixed/magic/items/Pauper-s_Key.md)
 - [Plenipotentiary](../../mixed/titles/Archmage.md#plenipotentiary) - the power of the [archmages](../../mixed/titles/Archmage.md) similar to that "Gull" apparently offers.
 

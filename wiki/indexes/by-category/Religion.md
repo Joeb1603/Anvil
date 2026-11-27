@@ -36,7 +36,7 @@ members: 41
 - [On Faraden faith](../../in-character/religion/On_Faraden_faith.md) (in-character)
 - [On the Doctrine of Human Destiny](../../in-character/religion/On_the_Doctrine_of_Human_Destiny.md) (in-character)
 - [On the nature of fear](../../mixed/magic/lore/On_the_nature_of_fear.md) (mixed)
-- [Past life vision](../../out-of-character/rules/Past_life_vision.md) (out-of-character)
+- [Past life vision](../../mixed/religion/Past_life_vision.md) (mixed)
 - [Pride](../../in-character/religion/Pride.md) (in-character)
 - [Prosperity](../../in-character/religion/Prosperity.md) (in-character)
 - [Schisms and Heresies](../../in-character/religion/Schisms_and_Heresies.md) (in-character)

@@ -1,11 +1,15 @@
 # 378YE Winter
 
-Every page tagged to this event, grouped by topic (39 pages).
+Every page tagged to this event, grouped by topic (40 pages).
 
 ## announcements (2)
 
 - [378YE Winter Solstice Announcements by the Minister for Historical Research](../../in-character/announcements/378YE_Winter_Solstice_Announcements_by_the_Minister_for_Historical_Research.md)
 - [378YE Winter Solstice Announcements by the Quartermaster General](../../in-character/announcements/378YE_Winter_Solstice_Announcements_by_the_Quartermaster_General.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Winter Solstice 378YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_378YE.md)
 
 ## senate-motions (28)
 

@@ -361,7 +361,7 @@ We also updated the page on [Senate sessions](../../mixed/government/senate/Sena
 
 - **29/05/2025**
 
-We've updated the [ritual theory](Ritual_theory.md) page. It was already huge, so we've split some of the content up into logical chunks on new pages, creating a page for the [limits of magic](Limits_of_magic.md) as well as one on the [laws of magic](Laws_of_magic.md). We've significantly overhauled the content on [eternals and rituals](Eternals_and_rituals.md) and created a new page for that also - there is a lot of additional information there now for players whose characters are involved with ritual magic.
+We've updated the [ritual theory](Ritual_theory.md) page. It was already huge, so we've split some of the content up into logical chunks on new pages, creating a page for the [limits of magic](Limits_of_magic.md) as well as one on the [laws of magic](Laws_of_magic.md). We've significantly overhauled the content on [eternals and rituals](../../mixed/magic/lore/Eternals_and_rituals.md) and created a new page for that also - there is a lot of additional information there now for players whose characters are involved with ritual magic.
 
 We've also added a page on [war magic](War_magic.md) which discusses the possibilities and potential of using the realms to enchant armies, military units and fleets. This page reflects the changes we've made earlier this year, but brings a lot of the key information together, so that it is one place.
 
@@ -423,7 +423,7 @@ We have added a [glossary](Glossary.md) page to the wiki with some more informat
 
 - **07/04/2025**
 
-We have rewritten [the League look and feel](../costume/The_League_look_and_feel.md) to move beyond from the more restrictive costume options presented by the original brief. We do want the League to have a really clear visual look that defines the nation, but we want to ensure that it includes garments that everyone can feel confident wearing.
+We have rewritten [the League look and feel](../../mixed/look-and-feel/The_League_look_and_feel.md) to move beyond from the more restrictive costume options presented by the original brief. We do want the League to have a really clear visual look that defines the nation, but we want to ensure that it includes garments that everyone can feel confident wearing.
 
 ## Combat
 
@@ -738,7 +738,7 @@ As part of the change we've made a number of updates to several League pages:
 - [Introduction](../../in-character/nations/the-league/The_League.md)
 - [The people](../../in-character/nations/the-league/The_League_people.md)
 - [Culture and customs](../../in-character/nations/the-league/The_League_culture_and_customs.md)
-- [Look and feel](../costume/The_League_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/The_League_look_and_feel.md)
 - [History](../../in-character/nations/the-league/The_League_history.md)
 - [Religious beliefs](../../in-character/nations/the-league/The_League_religious_beliefs.md)
 - [Magical traditions](../../mixed/magic/lore/The_League_magical_traditions.md)
@@ -1080,7 +1080,7 @@ We added some material about gaining (and losing) lineage after character creati
 
 - **08/03/2023**
 
-Additional information about [true liao](../../mixed/religion/Liao.md#true-liao) has been added to the [liao](../../mixed/religion/Liao.md) page. We've also added a new page laying out the procedures and mechanics involved in having a [past life vision](Past_life_vision.md).
+Additional information about [true liao](../../mixed/religion/Liao.md#true-liao) has been added to the [liao](../../mixed/religion/Liao.md) page. We've also added a new page laying out the procedures and mechanics involved in having a [past life vision](../../mixed/religion/Past_life_vision.md).
 
 ## Card Wording
 
@@ -1438,7 +1438,7 @@ We have rewritten the Profound Decisions [conduct](Conduct.md) policy. The page 
 
 - **17/03/2022**
 
-We have added a new wiki page devoted to the [sutannir](../../in-character/nations/the-brass-coast/Sutannir.md), [archetypal](Archetype.md) Freeborn priest who focuses on encouraging celebration and festivities. We've also updated [the Brass Coast religious beliefs](../../in-character/nations/the-brass-coast/The_Brass_Coast_religious_beliefs.md) page with new information to complement the updates to the sutannir page.
+We have added a new wiki page devoted to the [sutannir](../../in-character/nations/the-brass-coast/Sutannir.md), [archetypal](../../mixed/nations/general/Archetype.md) Freeborn priest who focuses on encouraging celebration and festivities. We've also updated [the Brass Coast religious beliefs](../../in-character/nations/the-brass-coast/The_Brass_Coast_religious_beliefs.md) page with new information to complement the updates to the sutannir page.
 
 ## Public Auction
 
@@ -1543,7 +1543,7 @@ We've made some adjustments to the [Imperial enchantments](../../indexes/by-cate
 We've finalised the Urizen update. Mostly this has meant removing the stubs from the pages but we've made a small number of changes to the content based on player feedback.
 
 - The [sword scholar](../../in-character/nations/urizen/Sword_scholar.md) section about [costume](../../in-character/nations/urizen/Sword_scholar.md#costume) has been edited to remove unnecessary references and make it clearer what kind of weapons and armour the sword scholars favour.
-- We modified some of the wording on the [Urizen look and feel](../costume/Urizen_look_and_feel.md) page to hopefully make it clearer
+- We modified some of the wording on the [Urizen look and feel](../../mixed/look-and-feel/Urizen_look_and_feel.md) page to hopefully make it clearer
 - We updated the [costume](Costume.md) page to make the wording around [less appropriate](Costume.md#less-appropriate-costume) and [inappropriate](Costume.md#inappropriate-costume) costume clearer.
 - We clarified the rules on guy ropes in the [In-Character Tents](Costume.md#in-character-tents) section of the [costume](Costume.md) page.
 - We modified the details of the [Net of Gossamer Chains](../../in-character/winds-of-fortune/Some_heavenly_music.md#net-of-gossamer-chains) ritual in the [Some heavenly music](../../in-character/winds-of-fortune/Some_heavenly_music.md) wind of fortune
@@ -1576,7 +1576,7 @@ We've undertaken an extensive review of the Urizen pages on the wiki. Almost all
 - We've updated [Urizen](../../in-character/nations/urizen/Urizen.md), [Urizen people](../../in-character/nations/urizen/Urizen_people.md), [Urizen culture and customs](../../in-character/nations/urizen/Urizen_culture_and_customs.md), [Urizen leadership](../../in-character/nations/urizen/Urizen_leadership.md), [Urizen economic interests](../../in-character/nations/urizen/Urizen_economic_interests.md), [Urizen religious beliefs](../../in-character/nations/urizen/Urizen_religious_beliefs.md), [Urizen military concerns](../../in-character/nations/urizen/Urizen_military_concerns.md) and [Urizen magical traditions](../../in-character/nations/urizen/Urizen_magical_traditions.md)
 - We've greatly expanded the [Urizen history](../../in-character/nations/urizen/Urizen_history.md) page
 - We've added significantly to the [spire](../../in-character/nations/urizen/Spire.md) page and created an [Urizen groups](../groups/Urizen_groups.md) page (which will also serve as a template for similar pages in other nations)
-- We've extensively overhauled [Urizen look and feel](../costume/Urizen_look_and_feel.md) in line with our new [costume](Costume.md) guidelines
+- We've extensively overhauled [Urizen look and feel](../../mixed/look-and-feel/Urizen_look_and_feel.md) in line with our new [costume](Costume.md) guidelines
 - We've added or updated pages for all the Urizen archetypes: [arbiter](../../in-character/nations/urizen/Arbiter.md), [architect](../../in-character/nations/urizen/Architect.md), [illuminate](../../in-character/nations/urizen/Illuminate.md), [mage](../../in-character/nations/urizen/Mage.md), [seer](../../in-character/nations/urizen/Seer.md), [sentinel](../../in-character/nations/urizen/Sentinel.md), [stargazer](../../in-character/nations/urizen/Stargazer.md), [sword scholar](../../in-character/nations/urizen/Sword_scholar.md), [torchbearer](../../in-character/nations/urizen/Torchbearer.md), [questor](../../in-character/nations/urizen/Questor.md)
 - We've added the rituals placed into [Urizen lore](../../in-character/nations/urizen/Urizen_magical_traditions.md#urizen-lore)
 - We've added a page for the historical figure [Sulemaine](../../in-character/nations/urizen/Sulemaine.md)

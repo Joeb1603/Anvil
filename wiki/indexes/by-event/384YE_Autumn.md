@@ -1,6 +1,10 @@
 # 384YE Autumn
 
-Every page tagged to this event, grouped by topic (48 pages).
+Every page tagged to this event, grouped by topic (50 pages).
+
+## archive (1)
+
+- [Archive:Paid Work Autumn Equinox 384YE](../../mixed/archive/Archive-Paid_Work_Autumn_Equinox_384YE.md)
 
 ## conclave-sessions (1)
 
@@ -13,6 +17,10 @@ Every page tagged to this event, grouped by topic (48 pages).
 ## events (1)
 
 - [384YE Autumn Equinox event schedule](../../out-of-character/events/384YE_Autumn_Equinox_event_schedule.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Autumn Equinox 384YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_384YE.md)
 
 ## senate-motions (17)
 

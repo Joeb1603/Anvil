@@ -4,6 +4,7 @@ source: https://www.profounddecisions.co.uk/empire-wiki/Archive:Paid_Work_Autumn
 class: mixed
 topic: archive
 categories: []
+event: 384YE Autumn
 last_edited: '2023-03-11T19:05:25Z'
 revision: 98235
 ---

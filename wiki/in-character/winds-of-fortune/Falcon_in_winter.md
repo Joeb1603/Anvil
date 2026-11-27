@@ -65,7 +65,7 @@ Thane Dogri and his followers are in a highly defensible location. The local mag
 
 The defenders of Crows Ridge are stubborn, but they are no match for an [Army](../../out-of-character/rules/Army.md). Any [general](../../mixed/titles/General.md) could move an army to Skarsind and order their troops to remove Thane Dogri Thulebane and his supporters, opening the region to Imperial Orc settlers. This would be impossible to do so without loss of life - potentially significant loss if the Winterfolk refuse to leave.
 
-The Senate does not have the legal power to declare war on their own citizens. The people of Crow's Ridge are still Imperial citizens, bonded to the Wintermark [egregore](../../out-of-character/crew/Egregores.md). As a consequence, sending an army to oust them from their homes would be a criminal act. The general who gave the order and any [captains](../../out-of-character/rules/Military_unit.md) who assisted the army would most likely be charged with murder.
+The Senate does not have the legal power to declare war on their own citizens. The people of Crow's Ridge are still Imperial citizens, bonded to the Wintermark [egregore](../nations/general/Egregores.md). As a consequence, sending an army to oust them from their homes would be a criminal act. The general who gave the order and any [captains](../../out-of-character/rules/Military_unit.md) who assisted the army would most likely be charged with murder.
 
 ### Quitting Skarsind
 

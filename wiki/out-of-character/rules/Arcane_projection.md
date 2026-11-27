@@ -115,7 +115,7 @@ An arcane projection may be *codified* at a [college of magic](../../mixed/commi
   - [Limits of magic](Limits_of_magic.md)
   - [Divination](Divination.md)
   - [War magic](War_magic.md)
-  - [Eternals and rituals](Eternals_and_rituals.md)
+  - [Eternals and rituals](../../mixed/magic/lore/Eternals_and_rituals.md)
   - [Spring magic](Spring_magic.md)
   - [Summer magic](Summer_magic.md)
   - [Autumn magic](Autumn_magic.md)

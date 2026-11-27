@@ -12,7 +12,7 @@ members: 14
 - [Druj](../../in-character/barbarians/Druj.md) (in-character)
 - [Druj armies](../../in-character/barbarians/Druj_armies.md) (in-character)
 - [Druj champion](../../in-character/barbarians/Druj_champion.md) (in-character)
-- [Druj look and feel](../../out-of-character/costume/Druj_look_and_feel.md) (out-of-character)
+- [Druj look and feel](../../mixed/look-and-feel/Druj_look_and_feel.md) (mixed)
 - [Druj lore](../../in-character/barbarians/Druj_lore.md) (in-character)
 - [Druj miasma](../../in-character/barbarians/Druj_miasma.md) (in-character)
 - [Each age a lens](../../in-character/winds-of-fortune/Each_age_a_lens.md) (in-character)

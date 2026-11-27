@@ -50,7 +50,7 @@ The deployment of the Summerborn will depend on their jarl - sometimes they will
 - [Overview](Jotun.md)
 - [Elite Jotun troops](Elite_Jotun_troops.md)
 - Elite Jotun characters
-- [Jotun look and feel](../../out-of-character/costume/Jotun_look_and_feel.md)
+- [Jotun look and feel](../../mixed/look-and-feel/Jotun_look_and_feel.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # 388YE Summer
 
-Every page tagged to this event, grouped by topic (73 pages).
+Every page tagged to this event, grouped by topic (74 pages).
 
 ## conclave-sessions (2)
 
@@ -18,6 +18,10 @@ Every page tagged to this event, grouped by topic (73 pages).
 ## military-council-orders (1)
 
 - [388YE Summer Solstice Military Council orders](../../in-character/military-council-orders/388YE_Summer_Solstice_Military_Council_orders.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Summer Solstice 388YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_388YE.md)
 
 ## senate-motions (19)
 

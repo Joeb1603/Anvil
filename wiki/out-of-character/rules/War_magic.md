@@ -25,7 +25,7 @@ The [Law of Scale](Laws_of_magic.md#the-law-of-scale) is crucial when creating e
 
 As a result of the Law of Scale almost all Imperial rituals that enchant an army, such as [Clarity of the Master Strategist](../../mixed/magic/rituals/Clarity_of_the_Master_Strategist.md) are magnitude 80. The rituals that are in Imperial lore represent the best magnitude that these effects can be achieved at. There are some notable exceptions, [Brotherhood of Tian](../../mixed/magic/rituals/Brotherhood_of_Tian.md) is an unusual case where the Law of Scale produces a different outcome. These are the exceptions that prove the rule - there is no value in creating arcane projections that attempt to produce the same effects at higher or lower magnitudes.
 
-Army enchantments that employ the assistance of an eternal, such as [Knights of Glory](../../mixed/magic/rituals/Knights_of_Glory.md) *are* much higher magnitude because these rituals work produce a very different effect - in almost all cases, the enchantments empower the eternal to send heralds to fight alongside the army. These rituals are usually magnitude 120 and the resulting benefits reflect the greater power of the ritual. All magic of this kind is governed by the rules for [eternals and rituals](Eternals_and_rituals.md).
+Army enchantments that employ the assistance of an eternal, such as [Knights of Glory](../../mixed/magic/rituals/Knights_of_Glory.md) *are* much higher magnitude because these rituals work produce a very different effect - in almost all cases, the enchantments empower the eternal to send heralds to fight alongside the army. These rituals are usually magnitude 120 and the resulting benefits reflect the greater power of the ritual. All magic of this kind is governed by the rules for [eternals and rituals](../../mixed/magic/lore/Eternals_and_rituals.md).
 
 Similar rules apply to enchantments on fleets and military units. There are a few exceptions that prove the rule for existing enchantments, but the best "scale" for all new enchantments on fleets and military units is magnitude 20 that doubles the effectiveness of a starting resource. It is possible to make less powerful variations to lower the magnitude but they are less efficient. Higher magnitude versions of the ritual don't produce noticeably stronger effects.
 
@@ -115,7 +115,7 @@ Night magic is relatively flexible for military units and fleets and can be used
   - [Limits of magic](Limits_of_magic.md)
   - [Divination](Divination.md)
   - War magic
-  - [Eternals and rituals](Eternals_and_rituals.md)
+  - [Eternals and rituals](../../mixed/magic/lore/Eternals_and_rituals.md)
   - [Spring magic](Spring_magic.md)
   - [Summer magic](Summer_magic.md)
   - [Autumn magic](Autumn_magic.md)

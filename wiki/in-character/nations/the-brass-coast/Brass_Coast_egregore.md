@@ -19,7 +19,7 @@ aliases:
 
 ## Dust, Flame and Glass
 
-The [egregore](../../../out-of-character/crew/Egregores.md) of the Brass Coast was the first to be created and carries three names, **Dust**, **Glass**, or **Flame** - the three elements that the [Freeborn](The_Brass_Coast.md) believe [shape their people](The_Brass_Coast_religious_beliefs.md#dust2c-flame2c-and-glass). Which one it answers to at any given time depends on the mood of the host, the whims of the egregore, or the needs of the nation. A host may favour one of the three forms or change between them as mood and need arises. They can often be identified by the colour of their [tagelmust](../../../out-of-character/costume/The_Brass_Coast_look_and_feel.md#headscarves).
+The [egregore](../general/Egregores.md) of the Brass Coast was the first to be created and carries three names, **Dust**, **Glass**, or **Flame** - the three elements that the [Freeborn](The_Brass_Coast.md) believe [shape their people](The_Brass_Coast_religious_beliefs.md#dust2c-flame2c-and-glass). Which one it answers to at any given time depends on the mood of the host, the whims of the egregore, or the needs of the nation. A host may favour one of the three forms or change between them as mood and need arises. They can often be identified by the colour of their [tagelmust](../../../mixed/look-and-feel/The_Brass_Coast_look_and_feel.md#headscarves).
 
 - **Dust** dresses comfortably and luxuriantly and talks about the importance of family and plain honest speaking, often presenting the aspect of a [dhomiro](The_Brass_Coast_leadership.md#dhomiro) or [corsair](Corsair.md). Favours a sandy yellow tagelmust.
 - **Glass** is a quiet philosopher, dressing practically, and likes to talk about the soul and what it means to be Freeborn. Glass occasionally takes on the mantle of the [kohan](Kohan.md) and favours a rich blue or green tagelmust.
@@ -56,7 +56,7 @@ Core Brief
 - [Introduction](The_Brass_Coast.md)
 - [The people](The_Brass_Coast_people.md)
 - [Culture and customs](The_Brass_Coast_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/The_Brass_Coast_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/The_Brass_Coast_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/The_Brass_Coast_hearth_magic.md)
 
 Additional Information

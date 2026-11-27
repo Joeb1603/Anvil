@@ -21,7 +21,7 @@ During the Winter Solstice 385YE the [Lepidean Librarian](../../../mixed/titles/
 
 ## The Heirs Write
 
-The [Lepidean Librarian](../../../mixed/titles/Lepidean_Librarian.md) has charged us with researching the [past life vision](../../../out-of-character/rules/Past_life_vision.md) of [Freeborn](../the-brass-coast/The_Brass_Coast.md) citizen Anwar i Covas i Erigo, who was Malachai of the Winds of Virtue. We are absolutely indebted here to the work of Livia Cascade and her compatriots, the second volume of their *[Echoes of the Labyrinth](../../../mixed/titles/Seer_of_the_Gateway.md#publication)* was of course invaluable in directed our investigations and researches. We supplemented study of this text with visits to several sites related to Anwar's visionary experience, and the known history of Malachai.
+The [Lepidean Librarian](../../../mixed/titles/Lepidean_Librarian.md) has charged us with researching the [past life vision](../../../mixed/religion/Past_life_vision.md) of [Freeborn](../the-brass-coast/The_Brass_Coast.md) citizen Anwar i Covas i Erigo, who was Malachai of the Winds of Virtue. We are absolutely indebted here to the work of Livia Cascade and her compatriots, the second volume of their *[Echoes of the Labyrinth](../../../mixed/titles/Seer_of_the_Gateway.md#publication)* was of course invaluable in directed our investigations and researches. We supplemented study of this text with visits to several sites related to Anwar's visionary experience, and the known history of Malachai.
 
 ## Malachai of the Winds of Virtue
 

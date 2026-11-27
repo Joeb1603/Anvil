@@ -17,7 +17,7 @@ Empire events feature large battles that take place between the Heroes of the Em
 
 ## Monstering
 
-The [Military Council](../../mixed/government/military/Military_Council.md) makes a decision on Friday night over which battles they are going to attempt that weekend and which nations will fight on each. This determines the battle opportunity that is available for your character - and which battle you will be expected to monster. Ideally, we hope that the Imperial generals will try to inform as many people as possible of the decisions that have been made, but if you are unsure then ask your [Egregore](../crew/Egregores.md) and they can let you know if you are fighting or monstering the next day. The intention is for players who are monstering a battle to not go in character before preparing for battle.
+The [Military Council](../../mixed/government/military/Military_Council.md) makes a decision on Friday night over which battles they are going to attempt that weekend and which nations will fight on each. This determines the battle opportunity that is available for your character - and which battle you will be expected to monster. Ideally, we hope that the Imperial generals will try to inform as many people as possible of the decisions that have been made, but if you are unsure then ask your [Egregore](../../in-character/nations/general/Egregores.md) and they can let you know if you are fighting or monstering the next day. The intention is for players who are monstering a battle to not go in character before preparing for battle.
 
 Preparing for monstering starts at **09:30**, and we will close Battle Prep at **10:30**. The battles all begin at **11:00**. Please try and be as prompt as possible.
 

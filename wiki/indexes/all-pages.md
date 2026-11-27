@@ -776,7 +776,7 @@
 | [Arcane projection](../out-of-character/rules/Arcane_projection.md) | out-of-character | rules |  |
 | [Arch of the Sky](../mixed/titles/Arch_of_the_Sky.md) | mixed | titles |  |
 | [Archbishop of Capodomus](../mixed/titles/Archbishop_of_Capodomus.md) | mixed | titles |  |
-| [Archetype](../out-of-character/rules/Archetype.md) | out-of-character | rules |  |
+| [Archetype](../mixed/nations/general/Archetype.md) | mixed | nations/general |  |
 | [Architect](../in-character/nations/urizen/Architect.md) | in-character | nations/urizen |  |
 | [Architect of Hammers](../mixed/titles/Architect_of_Hammers.md) | mixed | titles |  |
 | [Architect of Illumination](../mixed/titles/Architect_of_Illumination.md) | mixed | titles |  |
@@ -827,54 +827,54 @@
 | [Archive:Imperial Lore Rituals](../mixed/archive/Archive-Imperial_Lore_Rituals.md) | mixed | archive |  |
 | [Archive:Jewellery Guide](../mixed/archive/Archive-Jewellery_Guide.md) | mixed | archive |  |
 | [Archive:Leatherworking Guide](../mixed/magic/items/Archive-Leatherworking_Guide.md) | mixed | magic/items |  |
-| [Archive:Paid Work Autumn Equinox 384YE](../mixed/archive/Archive-Paid_Work_Autumn_Equinox_384YE.md) | mixed | archive |  |
+| [Archive:Paid Work Autumn Equinox 384YE](../mixed/archive/Archive-Paid_Work_Autumn_Equinox_384YE.md) | mixed | archive | 384YE Autumn |
 | [Archive:Production Tables](../mixed/archive/Archive-Production_Tables.md) | mixed | archive |  |
-| [Archive:Roll of Honour Autumn Equinox 377YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_377YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Autumn Equinox 378YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_378YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Autumn Equinox 379YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_379YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Autumn Equinox 380YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_380YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Autumn Equinox 381YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_381YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Autumn Equinox 382YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_382YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Autumn Equinox 383YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_383YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Autumn Equinox 384YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_384YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Autumn Equinox 385YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_385YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Autumn Equinox 386YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_386YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Autumn Equinox 387YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_387YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Spring Equinox 377YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_377YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Spring Equinox 378YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_378YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Spring Equinox 379YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_379YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Spring Equinox 380YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_380YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Spring Equinox 381YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_381YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Spring Equinox 382YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_382YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Spring Equinox 383YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_383YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Spring Equinox 384YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_384YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Spring Equinox 385YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_385YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Spring Equinox 386YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_386YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Spring Equinox 387YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_387YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Spring Equinox 388YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_388YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Summer Solstice 377YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_377YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Summer Solstice 378YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_378YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Summer Solstice 379YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_379YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Summer Solstice 380YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_380YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Summer Solstice 381YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_381YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Summer Solstice 382YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_382YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Summer Solstice 383YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_383YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Summer Solstice 384YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_384YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Summer Solstice 385YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_385YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Summer Solstice 386YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_386YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Summer Solstice 387YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_387YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Summer Solstice 388YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_388YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Winter Solstice 377YE](../mixed/archive/Archive-Roll_of_Honour_Winter_Solstice_377YE.md) | mixed | archive |  |
-| [Archive:Roll of Honour Winter Solstice 378YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_378YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Winter Solstice 379YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_379YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Winter Solstice 380YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_380YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Winter Solstice 381YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_381YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Winter Solstice 382YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_382YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Winter Solstice 383YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_383YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Winter Solstice 384YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_384YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Winter Solstice 385YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_385YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Winter Solstice 386YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_386YE.md) | in-character | roll-of-honour |  |
-| [Archive:Roll of Honour Winter Solstice 387YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_387YE.md) | in-character | roll-of-honour |  |
+| [Archive:Roll of Honour Autumn Equinox 377YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_377YE.md) | in-character | roll-of-honour | 377YE Autumn |
+| [Archive:Roll of Honour Autumn Equinox 378YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_378YE.md) | in-character | roll-of-honour | 378YE Autumn |
+| [Archive:Roll of Honour Autumn Equinox 379YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_379YE.md) | in-character | roll-of-honour | 379YE Autumn |
+| [Archive:Roll of Honour Autumn Equinox 380YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_380YE.md) | in-character | roll-of-honour | 380YE Autumn |
+| [Archive:Roll of Honour Autumn Equinox 381YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_381YE.md) | in-character | roll-of-honour | 381YE Autumn |
+| [Archive:Roll of Honour Autumn Equinox 382YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_382YE.md) | in-character | roll-of-honour | 382YE Autumn |
+| [Archive:Roll of Honour Autumn Equinox 383YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_383YE.md) | in-character | roll-of-honour | 383YE Autumn |
+| [Archive:Roll of Honour Autumn Equinox 384YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_384YE.md) | in-character | roll-of-honour | 384YE Autumn |
+| [Archive:Roll of Honour Autumn Equinox 385YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_385YE.md) | in-character | roll-of-honour | 385YE Autumn |
+| [Archive:Roll of Honour Autumn Equinox 386YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_386YE.md) | in-character | roll-of-honour | 386YE Autumn |
+| [Archive:Roll of Honour Autumn Equinox 387YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_387YE.md) | in-character | roll-of-honour | 387YE Autumn |
+| [Archive:Roll of Honour Spring Equinox 377YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_377YE.md) | in-character | roll-of-honour | 377YE Spring |
+| [Archive:Roll of Honour Spring Equinox 378YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_378YE.md) | in-character | roll-of-honour | 378YE Spring |
+| [Archive:Roll of Honour Spring Equinox 379YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_379YE.md) | in-character | roll-of-honour | 379YE Spring |
+| [Archive:Roll of Honour Spring Equinox 380YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_380YE.md) | in-character | roll-of-honour | 380YE Spring |
+| [Archive:Roll of Honour Spring Equinox 381YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_381YE.md) | in-character | roll-of-honour | 381YE Spring |
+| [Archive:Roll of Honour Spring Equinox 382YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_382YE.md) | in-character | roll-of-honour | 382YE Spring |
+| [Archive:Roll of Honour Spring Equinox 383YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_383YE.md) | in-character | roll-of-honour | 383YE Spring |
+| [Archive:Roll of Honour Spring Equinox 384YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_384YE.md) | in-character | roll-of-honour | 384YE Spring |
+| [Archive:Roll of Honour Spring Equinox 385YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_385YE.md) | in-character | roll-of-honour | 385YE Spring |
+| [Archive:Roll of Honour Spring Equinox 386YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_386YE.md) | in-character | roll-of-honour | 386YE Spring |
+| [Archive:Roll of Honour Spring Equinox 387YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_387YE.md) | in-character | roll-of-honour | 387YE Spring |
+| [Archive:Roll of Honour Spring Equinox 388YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Spring_Equinox_388YE.md) | in-character | roll-of-honour | 388YE Spring |
+| [Archive:Roll of Honour Summer Solstice 377YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_377YE.md) | in-character | roll-of-honour | 377YE Summer |
+| [Archive:Roll of Honour Summer Solstice 378YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_378YE.md) | in-character | roll-of-honour | 378YE Summer |
+| [Archive:Roll of Honour Summer Solstice 379YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_379YE.md) | in-character | roll-of-honour | 379YE Summer |
+| [Archive:Roll of Honour Summer Solstice 380YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_380YE.md) | in-character | roll-of-honour | 380YE Summer |
+| [Archive:Roll of Honour Summer Solstice 381YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_381YE.md) | in-character | roll-of-honour | 381YE Summer |
+| [Archive:Roll of Honour Summer Solstice 382YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_382YE.md) | in-character | roll-of-honour | 382YE Summer |
+| [Archive:Roll of Honour Summer Solstice 383YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_383YE.md) | in-character | roll-of-honour | 383YE Summer |
+| [Archive:Roll of Honour Summer Solstice 384YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_384YE.md) | in-character | roll-of-honour | 384YE Summer |
+| [Archive:Roll of Honour Summer Solstice 385YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_385YE.md) | in-character | roll-of-honour | 385YE Summer |
+| [Archive:Roll of Honour Summer Solstice 386YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_386YE.md) | in-character | roll-of-honour | 386YE Summer |
+| [Archive:Roll of Honour Summer Solstice 387YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_387YE.md) | in-character | roll-of-honour | 387YE Summer |
+| [Archive:Roll of Honour Summer Solstice 388YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_388YE.md) | in-character | roll-of-honour | 388YE Summer |
+| [Archive:Roll of Honour Winter Solstice 377YE](../mixed/archive/Archive-Roll_of_Honour_Winter_Solstice_377YE.md) | mixed | archive | 377YE Winter |
+| [Archive:Roll of Honour Winter Solstice 378YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_378YE.md) | in-character | roll-of-honour | 378YE Winter |
+| [Archive:Roll of Honour Winter Solstice 379YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_379YE.md) | in-character | roll-of-honour | 379YE Winter |
+| [Archive:Roll of Honour Winter Solstice 380YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_380YE.md) | in-character | roll-of-honour | 380YE Winter |
+| [Archive:Roll of Honour Winter Solstice 381YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_381YE.md) | in-character | roll-of-honour | 381YE Winter |
+| [Archive:Roll of Honour Winter Solstice 382YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_382YE.md) | in-character | roll-of-honour | 382YE Winter |
+| [Archive:Roll of Honour Winter Solstice 383YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_383YE.md) | in-character | roll-of-honour | 383YE Winter |
+| [Archive:Roll of Honour Winter Solstice 384YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_384YE.md) | in-character | roll-of-honour | 384YE Winter |
+| [Archive:Roll of Honour Winter Solstice 385YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_385YE.md) | in-character | roll-of-honour | 385YE Winter |
+| [Archive:Roll of Honour Winter Solstice 386YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_386YE.md) | in-character | roll-of-honour | 386YE Winter |
+| [Archive:Roll of Honour Winter Solstice 387YE](../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_387YE.md) | in-character | roll-of-honour | 387YE Winter |
 | [Archive:The League costumes](../out-of-character/costume/Archive-The_League_costumes.md) | out-of-character | costume |  |
 | [Archive:Tooling & Embossing](../mixed/magic/items/Archive-Tooling_-_Embossing.md) | mixed | magic/items |  |
 | [Archive:Urizen Lore Rituals](../mixed/archive/Archive-Urizen_Lore_Rituals.md) | mixed | archive |  |
@@ -1313,7 +1313,7 @@
 | [Civil Claims](../mixed/government/senate/Civil_Claims.md) | mixed | government/senate |  |
 | [Civil service](../mixed/government/senate/Civil_service.md) | mixed | government/senate |  |
 | [Civil Service Guide: Synod](../out-of-character/game-design/Civil_Service_Guide-_Synod.md) | out-of-character | game-design |  |
-| [Civil Service Look and Feel](../out-of-character/costume/Civil_Service_Look_and_Feel.md) | out-of-character | costume |  |
+| [Civil Service Look and Feel](../mixed/look-and-feel/Civil_Service_Look_and_Feel.md) | mixed | look-and-feel |  |
 | [Civil tongue](../in-character/winds-of-fortune/Civil_tongue.md) | in-character | winds-of-fortune | 382YE Summer |
 | [Civilian commissioner](../mixed/government/senate/Civilian_commissioner.md) | mixed | government/senate |  |
 | [Clad in Golden Raiment](../mixed/magic/rituals/Clad_in_Golden_Raiment.md) | mixed | magic/rituals |  |
@@ -2017,7 +2017,7 @@
 | [Dawn hearth magic](../mixed/magic/lore/Dawn_hearth_magic.md) | mixed | magic/lore |  |
 | [Dawn history](../in-character/nations/dawn/Dawn_history.md) | in-character | nations/dawn |  |
 | [Dawn leadership](../in-character/nations/dawn/Dawn_leadership.md) | in-character | nations/dawn |  |
-| [Dawn look and feel](../out-of-character/costume/Dawn_look_and_feel.md) | out-of-character | costume |  |
+| [Dawn look and feel](../mixed/look-and-feel/Dawn_look_and_feel.md) | mixed | look-and-feel |  |
 | [Dawn magical traditions](../mixed/magic/lore/Dawn_magical_traditions.md) | mixed | magic/lore |  |
 | [Dawn Maps](../in-character/nations/dawn/Dawn_Maps.md) | in-character | nations/dawn |  |
 | [Dawn military concerns](../in-character/nations/dawn/Dawn_military_concerns.md) | in-character | nations/dawn |  |
@@ -2237,7 +2237,7 @@
 | [Druj](../in-character/barbarians/Druj.md) | in-character | barbarians |  |
 | [Druj armies](../in-character/barbarians/Druj_armies.md) | in-character | barbarians |  |
 | [Druj champion](../in-character/barbarians/Druj_champion.md) | in-character | barbarians |  |
-| [Druj look and feel](../out-of-character/costume/Druj_look_and_feel.md) | out-of-character | costume |  |
+| [Druj look and feel](../mixed/look-and-feel/Druj_look_and_feel.md) | mixed | look-and-feel |  |
 | [Druj lore](../in-character/barbarians/Druj_lore.md) | in-character | barbarians |  |
 | [Druj miasma](../in-character/barbarians/Druj_miasma.md) | in-character | barbarians |  |
 | [Drumbeat of war](../in-character/winds-of-fortune/Drumbeat_of_war.md) | in-character | winds-of-fortune | 386YE Summer |
@@ -2259,7 +2259,7 @@
 | [Eater-of-Hope](../in-character/religion/Eater-of-Hope.md) | in-character | religion |  |
 | [Eclipse](../in-character/winds-of-war/Eclipse.md) | in-character | winds-of-war | 386YE Spring |
 | [Edifice](../mixed/commissions/Edifice.md) | mixed | commissions |  |
-| [Egregores](../out-of-character/crew/Egregores.md) | out-of-character | crew |  |
+| [Egregores](../in-character/nations/general/Egregores.md) | in-character | nations/general |  |
 | [Eight for a wish](../in-character/winds-of-fortune/Eight_for_a_wish.md) | in-character | winds-of-fortune | 387YE Summer |
 | [Eight-spoked Wheel](../out-of-character/game-design/Eight-spoked_Wheel.md) | out-of-character | game-design |  |
 | [Elayne Silverlark](../in-character/religion/Elayne_Silverlark.md) | in-character | religion |  |
@@ -2335,7 +2335,7 @@
 | [Eternal](../in-character/eternals/Eternal.md) | in-character | eternals |  |
 | [Eternal Flame of Miaren](../mixed/titles/Eternal_Flame_of_Miaren.md) | mixed | titles |  |
 | [Eternal Shafts of Time](../mixed/titles/Eternal_Shafts_of_Time.md) | mixed | titles |  |
-| [Eternals and rituals](../out-of-character/rules/Eternals_and_rituals.md) | out-of-character | rules |  |
+| [Eternals and rituals](../mixed/magic/lore/Eternals_and_rituals.md) | mixed | magic/lore |  |
 | [Eternals of the sea](../in-character/eternals/Eternals_of_the_sea.md) | in-character | eternals |  |
 | [Ethengraw](../in-character/nations/imperial-orcs/Ethengraw.md) | in-character | nations/imperial-orcs |  |
 | [Ethereal Courier](../mixed/magic/rituals/Ethereal_Courier.md) | mixed | magic/rituals |  |
@@ -2622,7 +2622,7 @@
 | [Greensteel Orb](../mixed/magic/items/Greensteel_Orb.md) | mixed | magic/items |  |
 | [Greenwatcher](../mixed/titles/Greenwatcher.md) | mixed | titles |  |
 | [Grendel](../in-character/barbarians/Grendel.md) | in-character | barbarians |  |
-| [Grendel look and feel](../out-of-character/costume/Grendel_look_and_feel.md) | out-of-character | costume |  |
+| [Grendel look and feel](../mixed/look-and-feel/Grendel_look_and_feel.md) | mixed | look-and-feel |  |
 | [Grendel religion](../in-character/barbarians/Grendel_religion.md) | in-character | barbarians |  |
 | [Grey pilgrim](../in-character/nations/highguard/Grey_pilgrim.md) | in-character | nations/highguard |  |
 | [Grieftender of the Forgotten](../mixed/titles/Grieftender_of_the_Forgotten.md) | mixed | titles |  |
@@ -2630,7 +2630,7 @@
 | [Grimnir of Wittal Grove](../mixed/titles/Grimnir_of_Wittal_Grove.md) | mixed | titles |  |
 | [Grimnir's Hearthfire](../mixed/magic/items/Grimnir-s_Hearthfire.md) | mixed | magic/items |  |
 | [Grind](../in-character/winds-of-war/Grind.md) | in-character | winds-of-war | 385YE Spring |
-| [Group Archetypes](../out-of-character/rules/Group_Archetypes.md) | out-of-character | rules |  |
+| [Group Archetypes](../mixed/nations/general/Group_Archetypes.md) | mixed | nations/general |  |
 | [Grown from the revolution seed](../in-character/winds-of-fortune/Grown_from_the_revolution_seed.md) | in-character | winds-of-fortune | 384YE Autumn |
 | [Gryphon's Pride](../mixed/government/military/Gryphon-s_Pride.md) | mixed | government/military |  |
 | [Gryphonsoul Aegis](../mixed/magic/items/Gryphonsoul_Aegis.md) | mixed | magic/items |  |
@@ -2749,7 +2749,7 @@
 | [Highguard hearth magic](../mixed/magic/lore/Highguard_hearth_magic.md) | mixed | magic/lore |  |
 | [Highguard history](../in-character/nations/highguard/Highguard_history.md) | in-character | nations/highguard |  |
 | [Highguard leadership](../in-character/nations/highguard/Highguard_leadership.md) | in-character | nations/highguard |  |
-| [Highguard look and feel](../out-of-character/costume/Highguard_look_and_feel.md) | out-of-character | costume |  |
+| [Highguard look and feel](../mixed/look-and-feel/Highguard_look_and_feel.md) | mixed | look-and-feel |  |
 | [Highguard magical traditions](../mixed/magic/lore/Highguard_magical_traditions.md) | mixed | magic/lore |  |
 | [Highguard Maps](../in-character/nations/highguard/Highguard_Maps.md) | in-character | nations/highguard |  |
 | [Highguard military concerns](../in-character/nations/highguard/Highguard_military_concerns.md) | in-character | nations/highguard |  |
@@ -2878,7 +2878,7 @@
 | [Imperial Orcs hearth magic](../mixed/magic/lore/Imperial_Orcs_hearth_magic.md) | mixed | magic/lore |  |
 | [Imperial Orcs history](../in-character/nations/imperial-orcs/Imperial_Orcs_history.md) | in-character | nations/imperial-orcs |  |
 | [Imperial Orcs leadership](../in-character/nations/imperial-orcs/Imperial_Orcs_leadership.md) | in-character | nations/imperial-orcs |  |
-| [Imperial Orcs look and feel](../out-of-character/costume/Imperial_Orcs_look_and_feel.md) | out-of-character | costume |  |
+| [Imperial Orcs look and feel](../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md) | mixed | look-and-feel |  |
 | [Imperial Orcs magical traditions](../mixed/magic/lore/Imperial_Orcs_magical_traditions.md) | mixed | magic/lore |  |
 | [Imperial Orcs military concerns](../in-character/nations/imperial-orcs/Imperial_Orcs_military_concerns.md) | in-character | nations/imperial-orcs |  |
 | [Imperial Orcs music](../mixed/music/Imperial_Orcs_music.md) | mixed | music |  |
@@ -2998,7 +2998,7 @@
 | [Jonah Gold](../mixed/music/Jonah_Gold.md) | mixed | music |  |
 | [Jotra](../mixed/magic/lore/Jotra.md) | mixed | magic/lore |  |
 | [Jotun](../in-character/barbarians/Jotun.md) | in-character | barbarians |  |
-| [Jotun look and feel](../out-of-character/costume/Jotun_look_and_feel.md) | out-of-character | costume |  |
+| [Jotun look and feel](../mixed/look-and-feel/Jotun_look_and_feel.md) | mixed | look-and-feel |  |
 | [Journeys end in lovers meeting](../in-character/winds-of-fortune/Journeys_end_in_lovers_meeting.md) | in-character | winds-of-fortune | 388YE Spring |
 | [Judged by their company](../in-character/winds-of-fortune/Judged_by_their_company.md) | in-character | winds-of-fortune | 382YE Summer |
 | [Judgement](../mixed/government/synod/Judgement.md) | mixed | government/synod |  |
@@ -3156,8 +3156,8 @@
 | [Long shadows](../in-character/winds-of-fortune/Long_shadows.md) | in-character | winds-of-fortune | 386YE Spring |
 | [Long Tom Goodfellow](../in-character/religion/Long_Tom_Goodfellow.md) | in-character | religion |  |
 | [Long walk home](../in-character/winds-of-fortune/Long_walk_home.md) | in-character | winds-of-fortune | 383YE Summer |
-| [Look and feel new highguard](../out-of-character/costume/Look_and_feel_new_highguard.md) | out-of-character | costume |  |
-| [Look and feel new navarr](../out-of-character/costume/Look_and_feel_new_navarr.md) | out-of-character | costume |  |
+| [Look and feel new highguard](../mixed/look-and-feel/Look_and_feel_new_highguard.md) | mixed | look-and-feel |  |
+| [Look and feel new navarr](../mixed/look-and-feel/Look_and_feel_new_navarr.md) | mixed | look-and-feel |  |
 | [Loosen the Shackles](../mixed/magic/rituals/Loosen_the_Shackles.md) | mixed | magic/rituals |  |
 | [Lord of Winter](../mixed/music/Lord_of_Winter.md) | mixed | music |  |
 | [Lorenzo's Legacy](../in-character/nations/the-league/Lorenzo-s_Legacy.md) | in-character | nations/the-league |  |
@@ -3388,7 +3388,7 @@
 | [Navarr hearth magic](../mixed/magic/lore/Navarr_hearth_magic.md) | mixed | magic/lore |  |
 | [Navarr history](../in-character/nations/navarr/Navarr_history.md) | in-character | nations/navarr |  |
 | [Navarr leadership](../in-character/nations/navarr/Navarr_leadership.md) | in-character | nations/navarr |  |
-| [Navarr look and feel](../out-of-character/costume/Navarr_look_and_feel.md) | out-of-character | costume |  |
+| [Navarr look and feel](../mixed/look-and-feel/Navarr_look_and_feel.md) | mixed | look-and-feel |  |
 | [Navarr magical traditions](../mixed/magic/lore/Navarr_magical_traditions.md) | mixed | magic/lore |  |
 | [Navarr Maps](../in-character/nations/navarr/Navarr_Maps.md) | in-character | nations/navarr |  |
 | [Navarr military concerns](../in-character/nations/navarr/Navarr_military_concerns.md) | in-character | nations/navarr |  |
@@ -3519,7 +3519,7 @@
 | [Part of this together](../in-character/winds-of-fortune/Part_of_this_together.md) | in-character | winds-of-fortune | 385YE Winter |
 | [Participant welfare](../out-of-character/events/Participant_welfare.md) | out-of-character | events |  |
 | [Parts of speech](../in-character/winds-of-fortune/Parts_of_speech.md) | in-character | winds-of-fortune | 386YE Spring |
-| [Past life vision](../out-of-character/rules/Past_life_vision.md) | out-of-character | rules |  |
+| [Past life vision](../mixed/religion/Past_life_vision.md) | mixed | religion |  |
 | [Patron of the Beurteilung](../mixed/titles/Patron_of_the_Beurteilung.md) | mixed | titles |  |
 | [Patron of the Pavilion](../mixed/titles/Patron_of_the_Pavilion.md) | mixed | titles |  |
 | [Patterns of fairytales](../in-character/winds-of-fortune/Patterns_of_fairytales.md) | in-character | winds-of-fortune | 386YE Winter |
@@ -3824,7 +3824,7 @@
 | [Resupply Announcement Winter 382YE](../in-character/senate-motions/Resupply_Announcement_Winter_382YE.md) | in-character | senate-motions | 382YE Winter |
 | [Resupply Imperial Armies](../in-character/senate-motions/Resupply_Imperial_Armies-6058.md) | in-character | senate-motions | 380YE Autumn |
 | [Resupply Imperial armies](../in-character/senate-motions/Resupply_Imperial_armies.md) | in-character | senate-motions | 376YE Winter |
-| [Resupply Imperial armies Summer 382YE](../in-character/senate-motions/Resupply_Imperial_armies_Summer_382YE.md) | in-character | senate-motions |  |
+| [Resupply Imperial armies Summer 382YE](../in-character/senate-motions/Resupply_Imperial_armies_Summer_382YE.md) | in-character | senate-motions | 382YE Summer |
 | [Resupply the Eastern Sky](../in-character/senate-motions/Resupply_the_Eastern_Sky.md) | in-character | senate-motions | 377YE Winter |
 | [Resupply the Golden Axe](../in-character/senate-motions/Resupply_the_Golden_Axe.md) | in-character | senate-motions | 377YE Summer |
 | [Resupply the Granite Pillar](../in-character/senate-motions/Resupply_the_Granite_Pillar.md) | in-character | senate-motions | 377YE Autumn |
@@ -4384,8 +4384,8 @@
 | [The Brass Coast hearth magic](../mixed/magic/lore/The_Brass_Coast_hearth_magic.md) | mixed | magic/lore |  |
 | [The Brass Coast history](../in-character/nations/the-brass-coast/The_Brass_Coast_history.md) | in-character | nations/the-brass-coast |  |
 | [The Brass Coast leadership](../in-character/nations/the-brass-coast/The_Brass_Coast_leadership.md) | in-character | nations/the-brass-coast |  |
-| [The Brass Coast look and feel](../out-of-character/costume/The_Brass_Coast_look_and_feel.md) | out-of-character | costume |  |
-| [The Brass Coast look and feel2](../out-of-character/costume/The_Brass_Coast_look_and_feel2.md) | out-of-character | costume |  |
+| [The Brass Coast look and feel](../mixed/look-and-feel/The_Brass_Coast_look_and_feel.md) | mixed | look-and-feel |  |
+| [The Brass Coast look and feel2](../mixed/look-and-feel/The_Brass_Coast_look_and_feel2.md) | mixed | look-and-feel |  |
 | [The Brass Coast magical traditions](../mixed/magic/lore/The_Brass_Coast_magical_traditions.md) | mixed | magic/lore |  |
 | [The Brass Coast military concerns](../in-character/nations/the-brass-coast/The_Brass_Coast_military_concerns.md) | in-character | nations/the-brass-coast |  |
 | [The Brass Coast music](../mixed/music/The_Brass_Coast_music.md) | mixed | music |  |
@@ -4488,7 +4488,7 @@
 | [The League hearth magic](../mixed/magic/lore/The_League_hearth_magic.md) | mixed | magic/lore |  |
 | [The League history](../in-character/nations/the-league/The_League_history.md) | in-character | nations/the-league |  |
 | [The League leadership](../in-character/nations/the-league/The_League_leadership.md) | in-character | nations/the-league |  |
-| [The League look and feel](../out-of-character/costume/The_League_look_and_feel.md) | out-of-character | costume |  |
+| [The League look and feel](../mixed/look-and-feel/The_League_look_and_feel.md) | mixed | look-and-feel |  |
 | [The League magical traditions](../mixed/magic/lore/The_League_magical_traditions.md) | mixed | magic/lore |  |
 | [The League military concerns](../in-character/nations/the-league/The_League_military_concerns.md) | in-character | nations/the-league |  |
 | [The League music](../mixed/music/The_League_music.md) | mixed | music |  |
@@ -4516,7 +4516,7 @@
 | [The Marches hearth magic](../mixed/magic/lore/The_Marches_hearth_magic.md) | mixed | magic/lore |  |
 | [The Marches history](../in-character/nations/the-marches/The_Marches_history.md) | in-character | nations/the-marches |  |
 | [The Marches leadership](../in-character/nations/the-marches/The_Marches_leadership.md) | in-character | nations/the-marches |  |
-| [The Marches look and feel](../out-of-character/costume/The_Marches_look_and_feel.md) | out-of-character | costume |  |
+| [The Marches look and feel](../mixed/look-and-feel/The_Marches_look_and_feel.md) | mixed | look-and-feel |  |
 | [The Marches magical traditions](../mixed/magic/lore/The_Marches_magical_traditions.md) | mixed | magic/lore |  |
 | [The Marches military concerns](../in-character/nations/the-marches/The_Marches_military_concerns.md) | in-character | nations/the-marches |  |
 | [The Marches music](../mixed/music/The_Marches_music.md) | mixed | music |  |
@@ -4836,7 +4836,7 @@
 | [Urizen hearth magic](../mixed/magic/lore/Urizen_hearth_magic.md) | mixed | magic/lore |  |
 | [Urizen history](../in-character/nations/urizen/Urizen_history.md) | in-character | nations/urizen |  |
 | [Urizen leadership](../in-character/nations/urizen/Urizen_leadership.md) | in-character | nations/urizen |  |
-| [Urizen look and feel](../out-of-character/costume/Urizen_look_and_feel.md) | out-of-character | costume |  |
+| [Urizen look and feel](../mixed/look-and-feel/Urizen_look_and_feel.md) | mixed | look-and-feel |  |
 | [Urizen magical traditions](../in-character/nations/urizen/Urizen_magical_traditions.md) | in-character | nations/urizen |  |
 | [Urizen Maps](../in-character/nations/urizen/Urizen_Maps.md) | in-character | nations/urizen |  |
 | [Urizen Memorial Song](../mixed/music/Urizen_Memorial_Song.md) | mixed | music |  |
@@ -4869,7 +4869,7 @@
 | [Varushka hearth magic](../mixed/magic/lore/Varushka_hearth_magic.md) | mixed | magic/lore |  |
 | [Varushka history](../in-character/nations/varushka/Varushka_history.md) | in-character | nations/varushka |  |
 | [Varushka leadership](../in-character/nations/varushka/Varushka_leadership.md) | in-character | nations/varushka |  |
-| [Varushka look and feel](../out-of-character/costume/Varushka_look_and_feel.md) | out-of-character | costume |  |
+| [Varushka look and feel](../mixed/look-and-feel/Varushka_look_and_feel.md) | mixed | look-and-feel |  |
 | [Varushka magical traditions](../mixed/magic/lore/Varushka_magical_traditions.md) | mixed | magic/lore |  |
 | [Varushka Maps](../in-character/nations/varushka/Varushka_Maps.md) | in-character | nations/varushka |  |
 | [Varushka military concerns](../in-character/nations/varushka/Varushka_military_concerns.md) | in-character | nations/varushka |  |
@@ -5067,7 +5067,7 @@
 | [Wintermark groups](../out-of-character/groups/Wintermark_groups.md) | out-of-character | groups |  |
 | [Wintermark hearth magic](../mixed/magic/lore/Wintermark_hearth_magic.md) | mixed | magic/lore |  |
 | [Wintermark history](../in-character/nations/wintermark/Wintermark_history.md) | in-character | nations/wintermark |  |
-| [Wintermark look and feel](../out-of-character/costume/Wintermark_look_and_feel.md) | out-of-character | costume |  |
+| [Wintermark look and feel](../mixed/look-and-feel/Wintermark_look_and_feel.md) | mixed | look-and-feel |  |
 | [Wintermark magical traditions](../mixed/magic/lore/Wintermark_magical_traditions.md) | mixed | magic/lore |  |
 | [Wintermark Maps](../in-character/nations/wintermark/Wintermark_Maps.md) | in-character | nations/wintermark |  |
 | [Wintermark military concerns](../in-character/nations/wintermark/Wintermark_military_concerns.md) | in-character | nations/wintermark |  |

@@ -53,7 +53,7 @@ For example:
 
 - If you're confused about some of the game rules, we might be able to talk you through some issues, we might be able to direct you to some of the [new player meetings](../events/New_player_schedule.md) where there will be lots of other players as well as crew on hand to answer those sorts of questions, or we might be able to get a [referee](Referee.md) who can go into more detail.
 - If your car has broken down, we'll be able to get in touch with the [site infrastructure team](../crew/Site_crew.md), who can sort out simple problems like flat batteries themselves (although if you have jump leads, getting another player nearby might be quicker still!), or we can make sure the traffic team are aware so they can direct a breakdown company to where you're parked.
-- If you're struggling to have fun, we can radio the [participant welfare team](../events/Participant_welfare.md) or your nation's [egregores](../crew/Egregores.md), who will be able to help you find a way to get more involved in the game.
+- If you're struggling to have fun, we can radio the [participant welfare team](../events/Participant_welfare.md) or your nation's [egregores](../../in-character/nations/general/Egregores.md), who will be able to help you find a way to get more involved in the game.
 
 ### Character packs
 

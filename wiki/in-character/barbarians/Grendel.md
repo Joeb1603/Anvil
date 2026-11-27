@@ -155,7 +155,7 @@ The majority of the magical support from Jarm goes to the Wind Lords, but there 
 - Overview
 - [Elite Grendel troops](Elite_Grendel_troops.md)
 - [Elite Grendel characters](Elite_Grendel_characters.md)
-- [Grendel look and feel](../../out-of-character/costume/Grendel_look_and_feel.md)
+- [Grendel look and feel](../../mixed/look-and-feel/Grendel_look_and_feel.md)
 - [Grendel religion](Grendel_religion.md)
 
 - [So little I wanted, so little I got](../winds-of-fortune/So_little_I_wanted-_so_little_I_got.md#grendel) - 387YE Autumn wind of fortune about Grendel politics

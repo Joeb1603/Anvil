@@ -1,8 +1,8 @@
 ---
 title: Imperial Orcs look and feel
 source: https://www.profounddecisions.co.uk/empire-wiki/Imperial_Orcs_look_and_feel
-class: out-of-character
-topic: costume
+class: mixed
+topic: look-and-feel
 categories:
 - Imperial Orcs
 - Nations
@@ -76,7 +76,7 @@ Heavy, layered armour, thick leather, mail and plate are common. Imperial Orc ar
 
 They prefer weapons that can endure for generations without shattering or corroding away. As a result, they favour oversized weapons with plenty of heft designed to smash through bone rather than to thrust or pierce the flesh. Swords usually have thick heavy blades almost like cleavers. Many continue the blade over the guard of the handle giving the weapon a fierce and brutal demeanour.
 
-Round shields are preferred, usually painted or daubed with crude symbols. [Warcasters](../../mixed/magic/lore/Imperial_Orcs_magical_traditions.md#warcasters) often use a kite shield rather than a round shield both to have the biggest shield possible and to make up for their lack of heavy armour.
+Round shields are preferred, usually painted or daubed with crude symbols. [Warcasters](../magic/lore/Imperial_Orcs_magical_traditions.md#warcasters) often use a kite shield rather than a round shield both to have the biggest shield possible and to make up for their lack of heavy armour.
 
 - [Image: CM-130727-8554.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:CM-130727-8554.jpg)
 - [Image: Orcs Before Battle.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Orcs_Before_Battle.jpg)
@@ -116,7 +116,7 @@ Shamans prefer implements fashioned from or decorated with bone. Warcasters pref
 
 ## Less Appropriate
 
-Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../rules/Costume.md) for further guidelines, including those for [inappropriate costume](../rules/Costume.md#inappropriate-costume).
+Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../../out-of-character/rules/Costume.md) for further guidelines, including those for [inappropriate costume](../../out-of-character/rules/Costume.md#inappropriate-costume).
 
 In defining the ideal look and feel for the Imperial Orcs we have chosen not to include some images. Orcs are a common feature in many settings but we wanted to create our own version of orcs that fit with the story and setting of Empire. For this reason we deliberately omitted elements from other settings that are so striking and memorable that it is impossible to see them without thinking of the game that created them.
 We've listed some of the items we chose not to include in the look and feel below along with a short explanation of why they are not perfect for the Imperial Orcs. It is okay to use these items as part of your kit, creating a costume is always a compromise as time and money are limited. What we want to do is be clear on the suggestions we are making, so that players who are looking to create new kit or add to their existing kit can be confident about what will look great for the nation.
@@ -142,8 +142,8 @@ Core Brief
 - [Culture and customs](../../in-character/nations/imperial-orcs/Imperial_Orcs_culture_and_customs.md)
 - Look and feel
 - [Septs](../../in-character/nations/imperial-orcs/Sept.md)
-- [Orc species brief](../../mixed/world/Orc.md)
-- [Hearth magic](../../mixed/magic/lore/Imperial_Orcs_hearth_magic.md)
+- [Orc species brief](../world/Orc.md)
+- [Hearth magic](../magic/lore/Imperial_Orcs_hearth_magic.md)
 
 Additional Information
 
@@ -152,12 +152,12 @@ Additional Information
 - [Economic interests](../../in-character/nations/imperial-orcs/Imperial_Orcs_economic_interests.md)
 - [Military concerns](../../in-character/nations/imperial-orcs/Imperial_Orcs_military_concerns.md)
 - [Religious beliefs](../../in-character/nations/imperial-orcs/Imperial_Orcs_religious_beliefs.md)
-- [Magical traditions](../../mixed/magic/lore/Imperial_Orcs_magical_traditions.md)
+- [Magical traditions](../magic/lore/Imperial_Orcs_magical_traditions.md)
 - [Territories](../../in-character/nations/imperial-orcs/Imperial_Orcs_territories.md)
 - [Children](../../in-character/nations/imperial-orcs/Imperial_Orcs_children.md)
-- [Music](../../mixed/music/Imperial_Orcs_music.md)
+- [Music](../music/Imperial_Orcs_music.md)
 - [Archetypes](../../indexes/by-category/Archetype.md#imperial-orcs)
-- [Groups](../groups/Imperial_Orcs_groups.md)
+- [Groups](../../out-of-character/groups/Imperial_Orcs_groups.md)
 - [Egregore](../../in-character/nations/imperial-orcs/Imperial_Orc_Egregore.md)
 
 ---

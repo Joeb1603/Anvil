@@ -71,7 +71,7 @@ This page collects all the information relevant to [the Brass Coast](../../in-ch
 - [The Brass Coast hearth magic](../../mixed/magic/lore/The_Brass_Coast_hearth_magic.md) (mixed)
 - [The Brass Coast history](../../in-character/nations/the-brass-coast/The_Brass_Coast_history.md) (in-character)
 - [The Brass Coast leadership](../../in-character/nations/the-brass-coast/The_Brass_Coast_leadership.md) (in-character)
-- [The Brass Coast look and feel](../../out-of-character/costume/The_Brass_Coast_look_and_feel.md) (out-of-character)
+- [The Brass Coast look and feel](../../mixed/look-and-feel/The_Brass_Coast_look_and_feel.md) (mixed)
 - [The Brass Coast magical traditions](../../mixed/magic/lore/The_Brass_Coast_magical_traditions.md) (mixed)
 - [The Brass Coast military concerns](../../in-character/nations/the-brass-coast/The_Brass_Coast_military_concerns.md) (in-character)
 - [The Brass Coast music](../../mixed/music/The_Brass_Coast_music.md) (mixed)

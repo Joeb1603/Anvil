@@ -1,0 +1,19 @@
+{
+ "_about": "Known exceptions to the atlas checks, with the reason each is accepted. {check: {key: reason}}.",
+ "region-position": {
+  "Borenj, Mountains of the Moon": "The wiki has no region map for the Mountains of the Moon (searched every file name). Positions follow the compass directions in the territory page's region descriptions.",
+  "Naucini, Mountains of the Moon": "The wiki has no region map for the Mountains of the Moon (searched every file name). Positions follow the compass directions in the territory page's region descriptions.",
+  "Obrotnik, Mountains of the Moon": "The wiki has no region map for the Mountains of the Moon (searched every file name). Positions follow the compass directions in the territory page's region descriptions.",
+  "Temna, Mountains of the Moon": "The wiki has no region map for the Mountains of the Moon (searched every file name). Positions follow the compass directions in the territory page's region descriptions.",
+  "Visoko, Mountains of the Moon": "The wiki has no region map for the Mountains of the Moon (searched every file name). Positions follow the compass directions in the territory page's region descriptions."
+ },
+ "previous-holder": {
+  "Spiral/Ateri@379YE Winter": "The report says the Grendel had only part-occupied Ateri; the 379YE Autumn report has it still Urizen-held, so it never changed hands at a summit.",
+  "Kahraman/Serra Briante@380YE Autumn": "Seized by the Jotun after the Summer Solstice and retaken before the Autumn Equinox, so it was Brass Coast at both summits.",
+  "Liathaven/Western Scout@381YE Spring": "The 'Navarr' held only a beachhead (the report: 'perhaps never fully Navarr-held'); Jotun held the region from 379YE Winter.",
+  "Madruga/Lightsea@382YE Spring": "The 381YE Winter report says the Grendel took the east coast but not the whole region, so Lightsea stayed Brass Coast.",
+  "Mournwold/Alderly@382YE Winter": "The territory page's Feni in Alderly's deep woods were driven out, but the reports had the Marches holding every region of Mournwold from 381YE Winter.",
+  "Bregasland/Grey Fens@384YE Summer": "The 384YE Summer overview restates the Jotun conquest the spring report had already recorded (383YE Autumn).",
+  "The Barrens/Heart of Peytaht@387YE Spring": "The territory page confirms the Great Forest Orcs hold it by treaty; the report 'Ripples and shadows' dates their taking it to 385YE Winter, which the map follows."
+ }
+}

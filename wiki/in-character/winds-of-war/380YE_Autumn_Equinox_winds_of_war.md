@@ -448,11 +448,11 @@ The civil service have confirmed that a conjunction of the Sentinel Gate exists 
 
 ### Battles
 
-Remember that if you play one of the battles - you must monster the other. This weekend that means you're going to be portraying the Jotun - if you're coming to monster *either* of the two battles - please bring/wear any kit or costume that is appropriate for the Jotun. You can learn about the Jotun look and feel [here](../../out-of-character/costume/Jotun_look_and_feel.md).
+Remember that if you play one of the battles - you must monster the other. This weekend that means you're going to be portraying the Jotun - if you're coming to monster *either* of the two battles - please bring/wear any kit or costume that is appropriate for the Jotun. You can learn about the Jotun look and feel [here](../../mixed/look-and-feel/Jotun_look_and_feel.md).
 
 ### Skirmish Volunteering
 
-There is a second chance to come and play orcs this event. We are running a big Grendel skirmish at 6pm on Saturday. It is totally optional, there is no requirement to volunteer for this skirmish but if you are free and want some fun then please head to monster at 6pm Saturday. If you have any kit that looks good for Grendel then please bring that kit. You can learn about the Grendel look and feel [here](../../out-of-character/costume/Grendel_look_and_feel.md).
+There is a second chance to come and play orcs this event. We are running a big Grendel skirmish at 6pm on Saturday. It is totally optional, there is no requirement to volunteer for this skirmish but if you are free and want some fun then please head to monster at 6pm Saturday. If you have any kit that looks good for Grendel then please bring that kit. You can learn about the Grendel look and feel [here](../../mixed/look-and-feel/Grendel_look_and_feel.md).
 
 Our intention is to treat this more like a small battle (if we get enough volunteers) than some of the skirmishes that we have run in the past. We're hoping it will be a lot of fun.
 

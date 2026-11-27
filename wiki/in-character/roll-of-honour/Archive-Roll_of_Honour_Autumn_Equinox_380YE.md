@@ -5,6 +5,7 @@ class: in-character
 topic: roll-of-honour
 categories:
 - Roll of Honour
+event: 380YE Autumn
 last_edited: '2025-05-30T01:01:16Z'
 revision: 120863
 ---

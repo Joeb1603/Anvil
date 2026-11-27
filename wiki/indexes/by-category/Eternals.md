@@ -123,7 +123,7 @@ The Sumaah Republic apparently associates with *[Deep Drummer](../../in-characte
 - [Ephisis](../../in-character/eternals/Ephisis.md) (in-character)
 - [Estavus](../../in-character/eternals/Estavus.md) (in-character)
 - [Eternal](../../in-character/eternals/Eternal.md) (in-character)
-- [Eternals and rituals](../../out-of-character/rules/Eternals_and_rituals.md) (out-of-character)
+- [Eternals and rituals](../../mixed/magic/lore/Eternals_and_rituals.md) (mixed)
 - [Eternals of the sea](../../in-character/eternals/Eternals_of_the_sea.md) (in-character)
 - [Fane](../../in-character/eternals/Fane.md) (in-character)
 - [Hayaak](../../in-character/eternals/Hayaak.md) (in-character)

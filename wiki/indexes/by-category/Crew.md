@@ -21,7 +21,7 @@ members: 19
 - [Crew:The Plotmatron](../../out-of-character/crew/Crew-The_Plotmatron.md) (out-of-character)
 - [Crewing](../../out-of-character/crew/Crewing.md) (out-of-character)
 - [Current crewing opportunities](../../out-of-character/crew/Current_crewing_opportunities.md) (out-of-character)
-- [Egregores](../../out-of-character/crew/Egregores.md) (out-of-character)
+- [Egregores](../../in-character/nations/general/Egregores.md) (in-character)
 - [Event crew](../../out-of-character/crew/Event_crew.md) (out-of-character)
 - [Plot crew](../../out-of-character/crew/Plot_crew.md) (out-of-character)
 - [Profound Decisions management team](../../out-of-character/crew/Profound_Decisions_management_team.md) (out-of-character)

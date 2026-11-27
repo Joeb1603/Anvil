@@ -17,7 +17,7 @@ revision: 136131
 
 ## Guise
 
-**Guise** is the [egregore](../../../out-of-character/crew/Egregores.md) of [the League](The_League.md), and like many things in that nation their identity is complicated with layers of masks and riddles. There are usually multiple egregores, usually one for each of the cities - but rarely if ever do all of them gather in one place. Each host wears a mask and takes an archetypal title in place of a name. Collectively they are referred to as being ‘Guise’ yet none directly answer to that name - nor to the name they held before bonding with the egregore spirit.
+**Guise** is the [egregore](../general/Egregores.md) of [the League](The_League.md), and like many things in that nation their identity is complicated with layers of masks and riddles. There are usually multiple egregores, usually one for each of the cities - but rarely if ever do all of them gather in one place. Each host wears a mask and takes an archetypal title in place of a name. Collectively they are referred to as being ‘Guise’ yet none directly answer to that name - nor to the name they held before bonding with the egregore spirit.
 
 While each egregore tends to feel a connection to one of the League cities, they nonetheless represent the nation as a whole. It is traditional for those undertaking an important action to discuss their intentions with the egregore, and it is understood that anything shared with the egregore in confidence will go no further.
 
@@ -61,7 +61,7 @@ Core Brief
 - [Introduction](The_League.md)
 - [The people](The_League_people.md)
 - [Culture and customs](The_League_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/The_League_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/The_League_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/The_League_hearth_magic.md)
 
 Additional Information

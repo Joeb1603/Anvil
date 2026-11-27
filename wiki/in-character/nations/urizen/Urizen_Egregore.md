@@ -14,7 +14,7 @@ revision: 142197
 
 ## Menos
 
-Menos, the Urizen [Egregore](../../../out-of-character/crew/Egregores.md), almost always appears to have lineage. It's often that of a golden skinned individual with a calm and polite demeanour. It plays the role of observer, commenting on the events around it and loving the interplay of conversation with intelligent and educated individuals from all walks of life.
+Menos, the Urizen [Egregore](../general/Egregores.md), almost always appears to have lineage. It's often that of a golden skinned individual with a calm and polite demeanour. It plays the role of observer, commenting on the events around it and loving the interplay of conversation with intelligent and educated individuals from all walks of life.
 
 The Urizen egregore has taken one host
 

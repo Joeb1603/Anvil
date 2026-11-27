@@ -69,7 +69,7 @@ In 380YE, Immeldar i Ezmara i Erigo and the Freeborn assembly recognised the inh
 
 Now, however, disaster has struck. The community on the Isle of Zemress has prospered for the last century and a half largely by avoiding the gaze of the Grendel. It is impossible to know for sure what has drawn their attention - perhaps the Imperial missionaries visiting the island, perhaps simply bad fortune - but notice it they have. Grendel pirate ships and slaving vessels are gathering to descend on the island. When they do so, they will loot the place of everything of value, and carry away in chains anyone who does not die fighting to protect their homes.
 
-A single desperate message has been sent to Sol i Riqueza, one of the hosts for the [egregore spirit](../../out-of-character/crew/Egregores.md#brass-coast) of the Brass Coast, asking for help.
+A single desperate message has been sent to Sol i Riqueza, one of the hosts for the [egregore spirit](../nations/general/Egregores.md#brass-coast) of the Brass Coast, asking for help.
 
 > *In-character text:*
 >

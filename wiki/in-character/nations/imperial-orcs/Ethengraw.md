@@ -82,7 +82,7 @@ Remember that being an Ethengraw is about showing leadership, not seizing power.
 
 ## Costume
 
-The Ethengraw wear [similar garb](../../../out-of-character/costume/Imperial_Orcs_look_and_feel.md) to the other Imperial Orc septs, but the idea of respect and self-respect is crucial to them. Thus they often pay more attention to their appearance than other orcs, striving to ensure that their clothes, their armour and their weapons are well maintained so that they look dignified and inspire respect from others. Items of worth might be old, but that only means that more effort is needed to keep them clean and in good condition. Thus, costume, armour, weapons and props can all look well made, better maintained and in better condition than they might for another Imperial Orc. The Ethengraw is still a very poor sept, so your costume needn't look expensive or new, but where possible, it should look like you take pride in your appearance.
+The Ethengraw wear [similar garb](../../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md) to the other Imperial Orc septs, but the idea of respect and self-respect is crucial to them. Thus they often pay more attention to their appearance than other orcs, striving to ensure that their clothes, their armour and their weapons are well maintained so that they look dignified and inspire respect from others. Items of worth might be old, but that only means that more effort is needed to keep them clean and in good condition. Thus, costume, armour, weapons and props can all look well made, better maintained and in better condition than they might for another Imperial Orc. The Ethengraw is still a very poor sept, so your costume needn't look expensive or new, but where possible, it should look like you take pride in your appearance.
 
 Creating and improving your Ethengraw look is an opportunity to embellish your Imperial Orc costume with flourishes that will emphasise your importance and status. While you shouldn't wear any crown except the Imperial Crown, you can consider jewellery for the head, neck or wrists that helps to convey the fact that you are one of the most important orcs in the whole world. A [jewelled torc](https://en.wikipedia.org/wiki/Torc) in particular is a great choice for any Ethengraw.
 
@@ -95,7 +95,7 @@ Core Brief
 - [Introduction](Imperial_Orcs.md)
 - [The people](Imperial_Orcs_people.md)
 - [Culture and customs](Imperial_Orcs_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Imperial_Orcs_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md)
 - [Septs](Sept.md)
 - [Orc species brief](../../../mixed/world/Orc.md)
 - [Hearth magic](../../../mixed/magic/lore/Imperial_Orcs_hearth_magic.md)

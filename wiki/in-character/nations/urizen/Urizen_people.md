@@ -99,7 +99,7 @@ Core Brief
 - [Introduction](Urizen.md)
 - The people
 - [Culture and customs](Urizen_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Urizen_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Urizen_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/Urizen_hearth_magic.md)
 
 Additional Information

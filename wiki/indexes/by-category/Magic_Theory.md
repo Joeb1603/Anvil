@@ -15,7 +15,7 @@ members: 20
 - [Day magic](../../out-of-character/rules/Day_magic.md) (out-of-character)
 - [Divination](../../out-of-character/rules/Divination.md) (out-of-character)
 - [Dramaturgy](../../mixed/magic/lore/Dramaturgy.md) (mixed)
-- [Eternals and rituals](../../out-of-character/rules/Eternals_and_rituals.md) (out-of-character)
+- [Eternals and rituals](../../mixed/magic/lore/Eternals_and_rituals.md) (mixed)
 - [Hearth magic](../../out-of-character/rules/Hearth_magic.md) (out-of-character)
 - [Laws of magic](../../out-of-character/rules/Laws_of_magic.md) (out-of-character)
 - [Limits of magic](../../out-of-character/rules/Limits_of_magic.md) (out-of-character)

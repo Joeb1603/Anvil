@@ -1,8 +1,8 @@
 ---
 title: Navarr look and feel
 source: https://www.profounddecisions.co.uk/empire-wiki/Navarr_look_and_feel
-class: out-of-character
-topic: costume
+class: mixed
+topic: look-and-feel
 categories:
 - Navarr
 - Nations
@@ -26,7 +26,7 @@ The [Navarr](../../in-character/nations/navarr/Navarr.md) look draws heavily on 
 
 Rather than rich materials or unusual colours the Navarr personalise their appearance by adorning their costume with embroidery, beads, feathers, fetishes, and other accessories. It is also common to weave such items into the hair.
 
-*Also see [Navarr Costumes](Navarr_costumes.md).*
+*Also see [Navarr Costumes](../../out-of-character/costume/Navarr_costumes.md).*
 
 ## Breakdown
 
@@ -46,7 +46,7 @@ From the bright and eye-catching yellows and greens of the forest in spring, to 
 
 Navarr clothing is layered, serviceable and well-worn, The Navarr are a practical people and their clothes reflect this. Even for civilians, it often features pieces of leather armour, though this is to protect against the environment as much as enemy weapons. Clothes are suitable for people who live their lives in the wild forests. Not just a robust construction but practical designs, for instance, hooded cloaks that give protection against the weather, but can also serve as bedding. Layered clothes are common, so that outfits be easily changed no matter the weather. Belts and straps feature quite heavily – both to secure clothing so it doesn’t snag and to hold a variety of gear securely while moving through woodland. Patched and mended fabrics are frequent, as worn and ripped clothes are mended 'on the go'.
 
-Navarr style of dress varies, depending on how much contact their striding or steading has with the other nations. Those Navarr who trade with their neighbours are more likely to have access to wool and similar materials so their costume reflects their closer contact with fellow members of the Empire. These clothes are given a Navarri slant though, with fur trims, decoration in natural materials and a natural colour palette. Layers of well-worn, practical wool and leather in natural shades often serve as the foundation of Navarr costume. More [remote Navarr](../game-design/Remote_Navarr.md) may adopt a rougher, more practical or primitive look, primarily comprised of leather, furs and natural materials, suitable for hunters who are used to sleeping rough. In practice, most Navarr fall somewhere between these two extremes. For more formal functions many Navarr wear highly decorated leathers and their most impressive furs, but more importantly, wear their most intricate paints and markings.
+Navarr style of dress varies, depending on how much contact their striding or steading has with the other nations. Those Navarr who trade with their neighbours are more likely to have access to wool and similar materials so their costume reflects their closer contact with fellow members of the Empire. These clothes are given a Navarri slant though, with fur trims, decoration in natural materials and a natural colour palette. Layers of well-worn, practical wool and leather in natural shades often serve as the foundation of Navarr costume. More [remote Navarr](../../out-of-character/game-design/Remote_Navarr.md) may adopt a rougher, more practical or primitive look, primarily comprised of leather, furs and natural materials, suitable for hunters who are used to sleeping rough. In practice, most Navarr fall somewhere between these two extremes. For more formal functions many Navarr wear highly decorated leathers and their most impressive furs, but more importantly, wear their most intricate paints and markings.
 
 Navarr shoes can take many forms, as long as they are practical. For this reason close-fitting leather boots are most common, often coming to or even past the knee, to protect the lower legs while walking. Ankle boots in soft suede and canvas are also seen, often with the addition of puttees and wraps in cloth and leather.
 
@@ -107,7 +107,7 @@ Shields are narrow and fluted, barely wider than the wielder. They are often hea
 
 ### Weapons
 
-The iconic Navarr weapon is a spear, often with a barbed shaft and decorated with thorn motifs. This echoes the spear of their legendary hero, Navarr. Navarr particularly favour [one-handed spears](../rules/Weapons_-_armour.md#one-handed-spear) coupled with a small shield. Otherwise, weapons are light, practical, and good for skirmishing rather than heavy combat.
+The iconic Navarr weapon is a spear, often with a barbed shaft and decorated with thorn motifs. This echoes the spear of their legendary hero, Navarr. Navarr particularly favour [one-handed spears](../../out-of-character/rules/Weapons_-_armour.md#one-handed-spear) coupled with a small shield. Otherwise, weapons are light, practical, and good for skirmishing rather than heavy combat.
 
 - [Image: Ravadi's Final Form.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Ravadi%27s_Final_Form.jpg)
 - [Image: Ambidextrous Navarri.jpg](https://www.profounddecisions.co.uk/empire-wiki/File:Ambidextrous_Navarri.jpg)
@@ -138,7 +138,7 @@ Navarr children are taught the value of being prepared and ready at all times. T
 
 ## Less Appropriate
 
-Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../rules/Costume.md) for further guidelines, including those for [inappropriate costume](../rules/Costume.md#inappropriate-costume).
+Whilst this look and feel page provides the ideal costume for the nation, it is important for players to familiarise themselves with the [general costume rules](../../out-of-character/rules/Costume.md) for further guidelines, including those for [inappropriate costume](../../out-of-character/rules/Costume.md#inappropriate-costume).
 
 ### Celts and Native Americans
 
@@ -156,7 +156,7 @@ It is fine to include some plaid in your costume if you wish - fabric with a tar
 
 Navarr tend to wear light leather armour and simple, earth tone clothes, much like the [Steinr](../../in-character/nations/wintermark/Steinr.md). Navarr decorations are more likely to come from nature, in the form of paints, feathers and beads, rather than the woven trims popular with the Steinr. Runes are a lot more common in Wintermark clothing
 
-[Kallavesi](../../in-character/nations/wintermark/Kallavesi.md) [mystics](../../in-character/nations/wintermark/Mystic.md) may also be occasionally mistaken for Navarr [vates](../../mixed/magic/lore/Navarr_magical_traditions.md#vates); however, the Navarr do not wear animal headdresses and do not believe in evoking animal spirits.
+[Kallavesi](../../in-character/nations/wintermark/Kallavesi.md) [mystics](../../in-character/nations/wintermark/Mystic.md) may also be occasionally mistaken for Navarr [vates](../magic/lore/Navarr_magical_traditions.md#vates); however, the Navarr do not wear animal headdresses and do not believe in evoking animal spirits.
 
 #### The Marches
 
@@ -170,7 +170,7 @@ Core Brief
 - [The people](../../in-character/nations/navarr/Navarr_people.md)
 - [Culture and customs](../../in-character/nations/navarr/Navarr_culture_and_customs.md)
 - Look and feel
-- [Hearth magic](../../mixed/magic/lore/Navarr_hearth_magic.md)
+- [Hearth magic](../magic/lore/Navarr_hearth_magic.md)
 
 Additional Information
 
@@ -179,12 +179,12 @@ Additional Information
 - [Economic interests](../../in-character/nations/navarr/Navarr_economic_interests.md)
 - [Military concerns](../../in-character/nations/navarr/Navarr_military_concerns.md)
 - [Religious beliefs](../../in-character/nations/navarr/Navarr_religious_beliefs.md)
-- [Magical traditions](../../mixed/magic/lore/Navarr_magical_traditions.md)
+- [Magical traditions](../magic/lore/Navarr_magical_traditions.md)
 - [Territories](../../in-character/nations/navarr/Navarr_territories.md)
-- [Children](../events/Navarr_children.md)
-- [Music](../../mixed/music/Navarr_music.md)
+- [Children](../../out-of-character/events/Navarr_children.md)
+- [Music](../music/Navarr_music.md)
 - [Archetypes](../../indexes/by-category/Archetype.md#navarr)
-- [Groups](../groups/Navarr_groups.md)
+- [Groups](../../out-of-character/groups/Navarr_groups.md)
 - [Egregore](../../in-character/nations/navarr/Navarr_Egregore.md)
 
 ---

@@ -80,7 +80,7 @@ Don't be afraid to consider ideas that are at odds with the accepted wisdom. If 
 
 ## Costume
 
-Since joining the Imperial Orcs, the Yerende have begun to wear [the clothing of their adopted nation](../../../out-of-character/costume/Imperial_Orcs_look_and_feel.md), however a few retain a fondness for axes which used to be a traditional weapon among the sept. A hatchet is a practical and useful tool for a gardener, and an effective way to go armed without being dragged in for questioning by the ever-watching Druj. Some concerns are long gone now, but the habit lingers.
+Since joining the Imperial Orcs, the Yerende have begun to wear [the clothing of their adopted nation](../../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md), however a few retain a fondness for axes which used to be a traditional weapon among the sept. A hatchet is a practical and useful tool for a gardener, and an effective way to go armed without being dragged in for questioning by the ever-watching Druj. Some concerns are long gone now, but the habit lingers.
 
 Another common feature of Yerende garb is a large leather pouch or a belt with many smaller pouches attached. The Yerende pride themselves on planning for any eventuality: in practical terms that often means ensuring that you have a few useful herbs or potions on your person at all times. If not that, it might be mana crystals, or coins, or even just a flask of water and some preserved food. The point is to look like you're prepared for any eventuality.
 
@@ -93,7 +93,7 @@ Core Brief
 - [Introduction](Imperial_Orcs.md)
 - [The people](Imperial_Orcs_people.md)
 - [Culture and customs](Imperial_Orcs_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Imperial_Orcs_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md)
 - [Septs](Sept.md)
 - [Orc species brief](../../../mixed/world/Orc.md)
 - [Hearth magic](../../../mixed/magic/lore/Imperial_Orcs_hearth_magic.md)

@@ -1,6 +1,6 @@
 # 385YE Autumn
 
-Every page tagged to this event, grouped by topic (45 pages).
+Every page tagged to this event, grouped by topic (46 pages).
 
 ## conclave-sessions (1)
 
@@ -13,6 +13,10 @@ Every page tagged to this event, grouped by topic (45 pages).
 ## events (1)
 
 - [385YE Autumn Equinox event schedule](../../out-of-character/events/385YE_Autumn_Equinox_event_schedule.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Autumn Equinox 385YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_385YE.md)
 
 ## senate-motions (16)
 

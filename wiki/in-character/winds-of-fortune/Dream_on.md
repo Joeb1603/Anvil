@@ -78,7 +78,7 @@ Once the new [Dreamspeaker of Seren](../../mixed/titles/Dreamspeaker_of_Seren.md
 The new Temple has had a profound affect on the City of Seren, drawing visionaries and dreamers from across the nation to its doors. With the encouragement of the dreamspeakers, the city has become a haven for those who refuse to give up their dreams. Seren has become the *City of Dreams*, a place where people dare to imagine what the world could become once it is free of the [vallorn](../nations/navarr/Vallorn.md). The beauty of Miaren is a testament to what is possible. Freed of the taint of Spring's corruption the surrounding forests invite visitors to explore what it means to be Navarr once they are free of their responsibility to make restitution for the mistakes of the past.
 
 > **Becoming a Dreamspeaker**  
-> Any Navarr character who'd like to embrace the new [archetype](../../out-of-character/rules/Archetype.md) can email [plot@profounddecisions.co.uk](mailto:plot@profounddecisions.co.uk) or [admin@profounddecisions.co.uk](mailto:admin@profounddecisions.co.uk) and request the change. It is important to read the [dreamspeaker](../nations/navarr/Dreamspeaker.md) page first, to see what you are signing up for!
+> Any Navarr character who'd like to embrace the new [archetype](../../mixed/nations/general/Archetype.md) can email [plot@profounddecisions.co.uk](mailto:plot@profounddecisions.co.uk) or [admin@profounddecisions.co.uk](mailto:admin@profounddecisions.co.uk) and request the change. It is important to read the [dreamspeaker](../nations/navarr/Dreamspeaker.md) page first, to see what you are signing up for!
 
 ### True Majesty
 

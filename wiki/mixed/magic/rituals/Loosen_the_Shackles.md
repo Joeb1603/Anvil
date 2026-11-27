@@ -30,7 +30,7 @@ This ritual is part of [Urizen lore](../../../in-character/nations/urizen/Urizen
 
 ### Performing the Ritual
 
-Performing this ritual takes at least 10 minutes of roleplaying. If the ritual is cast using the [Imperial Regio](Regio.md#the-imperial-regio) it requires at least 5 minutes of roleplaying instead. This ritual targets an [Imperial army](../../../out-of-character/rules/Army.md). The [general](../../government/military/Military_Council.md) responsible for the army (or the [egregore](../../../out-of-character/crew/Egregores.md) if the general is not at Anvil) must be present throughout. The target of the ritual must be cut with an edged weapon until they bleed, and the performance must involve the evocation of Agramant by at least three of his commonly-used sobriquets.
+Performing this ritual takes at least 10 minutes of roleplaying. If the ritual is cast using the [Imperial Regio](Regio.md#the-imperial-regio) it requires at least 5 minutes of roleplaying instead. This ritual targets an [Imperial army](../../../out-of-character/rules/Army.md). The [general](../../government/military/Military_Council.md) responsible for the army (or the [egregore](../../../in-character/nations/general/Egregores.md) if the general is not at Anvil) must be present throughout. The target of the ritual must be cut with an edged weapon until they bleed, and the performance must involve the evocation of Agramant by at least three of his commonly-used sobriquets.
 
 During the ritual the casters must be in a strong Winter [regio](Regio.md).
 

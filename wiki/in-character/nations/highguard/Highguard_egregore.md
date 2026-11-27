@@ -19,7 +19,7 @@ aliases:
 
 ## Escon
 
-Escon is the Highborn [egregore](../../../out-of-character/crew/Egregores.md), and has three primary interests: to embody the [Imperial faith](../../world/The_Way.md) and commitment to Virtue; to promote the [martial spirit](Highguard_military_concerns.md) of the Highborn; and to expand the knowledge of the nation. The spirit often encourages competition, but always as a way to promote and encourage Highborn pursuit of excellence and the virtue of [Ambition](../../religion/Ambition.md). Escon often helps people make up their own minds and come to their own conclusions, through careful questioning and encouragement to examine motivations, actions, and beliefs. Most of all, Escon encourages the Highborn to embrace their [history](Highguard_history.md) and pursue Virtue with every part of their being.
+Escon is the Highborn [egregore](../general/Egregores.md), and has three primary interests: to embody the [Imperial faith](../../world/The_Way.md) and commitment to Virtue; to promote the [martial spirit](Highguard_military_concerns.md) of the Highborn; and to expand the knowledge of the nation. The spirit often encourages competition, but always as a way to promote and encourage Highborn pursuit of excellence and the virtue of [Ambition](../../religion/Ambition.md). Escon often helps people make up their own minds and come to their own conclusions, through careful questioning and encouragement to examine motivations, actions, and beliefs. Most of all, Escon encourages the Highborn to embrace their [history](Highguard_history.md) and pursue Virtue with every part of their being.
 
 When the egregore spirit bonds with a citizen of Highguard, they traditionally preface their name "Escon, who was X". This reminds the Highborn that while they may look, and often act, the same as they did before they bonded, anyone who speaks to them is speaking with the spirit of the nation. As long as they are bonded, they are Escon first, and the person they were before, second.
 
@@ -52,7 +52,7 @@ Core Brief
 - [Introduction](Highguard.md)
 - [The people](Highguard_people.md)
 - [Culture and customs](Highguard_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Highguard_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Highguard_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/Highguard_hearth_magic.md)
 
 Additional Information

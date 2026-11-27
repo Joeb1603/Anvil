@@ -33,7 +33,7 @@ If the book is considered particularly fine - especially if it contains new veri
 
 ### Assurance
 
-This ritual has a guaranteed [response](../../../out-of-character/rules/Eternals_and_rituals.md#communication-and-gifts) from an eternal, in this case [Phaleron](../../../in-character/eternals/Phaleron.md), and has an [assurance](../../../out-of-character/rules/Eternals_and_rituals.md#assurance-and-stipulation) attached. It was at first believed that there was no assurance connected to this ritual, but a core requirement was unearthed by members of the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if support for Urizen lore ever ends or if the nation of Urizen were to leave the Empire.
+This ritual has a guaranteed [response](../lore/Eternals_and_rituals.md#communication-and-gifts) from an eternal, in this case [Phaleron](../../../in-character/eternals/Phaleron.md), and has an [assurance](../lore/Eternals_and_rituals.md#assurance-and-stipulation) attached. It was at first believed that there was no assurance connected to this ritual, but a core requirement was unearthed by members of the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if support for Urizen lore ever ends or if the nation of Urizen were to leave the Empire.
 
 ## Description
 

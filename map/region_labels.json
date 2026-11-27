@@ -146,14 +146,17 @@
     76
    ],
    "Quiet Grasses": [
-    29,
-    62
+    35,
+    45
    ],
    "Siroc Bayou": [
     38,
     80
    ],
-   "Crucible": null
+   "Crucible": [
+    31,
+    64
+   ]
   },
   "extent": [
    0,
@@ -162,7 +165,8 @@
    100
   ],
   "cropped": true,
-  "notes": "Read from enlargements. 'Quiet Grasses' placed at the map label 'THE GREAT GRASSES' and 'Siroc Bayou' at the map label 'SIROC PLAINS' (assumed old names for the same regions - not confirmed by the map itself). No 'Crucible' label exists anywhere on the map, so null. Thick black lines hand-drawn over the map split the territory into six areas, each already holding one of the six labels found, so there is no unlabelled seventh area to assign Crucible to. Territory (mid-orange fill) touches the left, top and bottom image edges."
+  "notes": "Read from the wiki's 'Madruga Made Anew' map, which redraws Madruga after the blight with the same framing as the older MadrugaBorders map plus one new border splitting the old Great Grasses into the Quiet Grasses (north) and the Crucible (south-west). Siroc Bayou is the old map's Siroc Plains. The Quiet Grasses and Crucible points sit a little off their labels so the border between them runs nearly level, as drawn.",
+  "source": "File:Madruga Made Anew.png"
  },
  "Mitwold": {
   "regions": {
@@ -1787,5 +1791,29 @@
   ],
   "cropped": false,
   "notes": "Read from File:Ayereed regions.png (2025), which is used on other pages rather than Ayereed's own. All seven labels are boxed and clear."
+ },
+ "Otkodov": {
+  "regions": {
+   "Sküld": [
+    80.5,
+    59.0
+   ],
+   "Nithoggir": [
+    39.4,
+    31.4
+   ],
+   "Urdur": [
+    18.5,
+    61.1
+   ]
+  },
+  "extent": [
+   0,
+   0,
+   100,
+   100
+  ],
+  "cropped": false,
+  "notes": "Otkodov is drawn on the wiki's map as three parts. The wiki's dated territory maps (Map-tactical2-y3e1, Map-tactical-MASTER-IC-01) label them Nithoggir (north), Urdur (west) and Sküld (east); positions are the parts' centres, as a fraction of Otkodov's outline."
  }
 }

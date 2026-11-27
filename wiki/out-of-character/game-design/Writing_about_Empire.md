@@ -630,9 +630,9 @@ This post isn’t to say ‘Don’t camp in the in character field or out of cha
 
 ## On Archetypes
 
-- *Some words from Matt about [archetypes](../rules/Archetype.md) in Empire, taken from Facebook* (19/07/2019)
+- *Some words from Matt about [archetypes](../../mixed/nations/general/Archetype.md) in Empire, taken from Facebook* (19/07/2019)
 
-An [archetype](../rules/Archetype.md) represents a social niche that your character can occupy - and be known for doing that role first and foremost. So you can be a Thane of a Wintermark Hall - or a mountebank on the streets of the Sarvos - or a hakima of the tribes of the Brass Coast. You can't be more than one archetype at once in practical terms - because fundamentally you can't be known and seen and treated as lots of different things. You might be a Thane who has sworn the oath of a grimnir and tries to mediate disputes. But if you run a hall and are known for your status as the ruler of that hall - and treated as such - then that's what you are - you're a Thane. The other facets of who you are simply not as important.
+An [archetype](../../mixed/nations/general/Archetype.md) represents a social niche that your character can occupy - and be known for doing that role first and foremost. So you can be a Thane of a Wintermark Hall - or a mountebank on the streets of the Sarvos - or a hakima of the tribes of the Brass Coast. You can't be more than one archetype at once in practical terms - because fundamentally you can't be known and seen and treated as lots of different things. You might be a Thane who has sworn the oath of a grimnir and tries to mediate disputes. But if you run a hall and are known for your status as the ruler of that hall - and treated as such - then that's what you are - you're a Thane. The other facets of who you are simply not as important.
 
 Archetype is completely optional. But they exist for a bunch of reasons - primarily to create interesting social niches for your character - things you can be. People often approach roleplaying in dungeons and dragons like terms - I'll be a fighter, I'll be a healer - but Empire is first and foremost a *social* game - it's about your role in the world. Archetypes encourage people to think in those terms about their character. Who am I - how do people relate to me - what is my role in society? These questions are usually much much more important in Empire than "Did you take magic or fighting skills".
 
@@ -641,7 +641,7 @@ But plot is far less important than your characterisation. That's crucial in Emp
 
 Having an archetype can help get you started on that. It gives you a way to focus your characterisation - and it gives other people a way to understand who you are. If you tell me you're a thane - I'm going to respond to you very differently than if you tell you're a grimnir - or a maggot.
 
-I'd encourage every new player to look at the [archetypes](../rules/Archetype.md) and think "Would it be fun to be the person doing that thing"? If the answer is yes - then embrace it and go for it. If not... that's cool - if there's no archetype that grabs you then just leave it blank. It is there to help - and if it's not helping - it's of no benefit.
+I'd encourage every new player to look at the [archetypes](../../mixed/nations/general/Archetype.md) and think "Would it be fun to be the person doing that thing"? If the answer is yes - then embrace it and go for it. If not... that's cool - if there's no archetype that grabs you then just leave it blank. It is there to help - and if it's not helping - it's of no benefit.
 By all means look at multiple archetypes. If it all looks fun - you can try and do it all. But remember that it will influence how people see you. If you tell people you're a maggot grimnir mediator scop runesmith thane... then you're not actually saying you are all of those things - what you're actually saying is "I'm not really anything".
 
 Archetypes aren't classes - they don't limit what you can do in play like a character class in a classic rpg. You can be a thane who makes runic items, you can be a stormcrow who mediates, or a grimnir who loots the battlefield. But an archetype is about *focus* - the tighter your focus the more it says about you - and the more guidance it's giving you to do stuff on the field. So the more you try to have lots of archetypes - the less you're actually getting the benefit of any of it.
@@ -990,7 +990,7 @@ It's theoretically in-character possible that the Imperial Senate could force th
 
 ## Encountering the Brief
 
-- *A post from Matt about the role nation briefs and look and feel. The initial discussion as about the [leg and arm wraps](../costume/Imperial_Orcs_look_and_feel.md#leg-and-arm-wraps) that form part of the [Imperial orcs](../../in-character/nations/imperial-orcs/Imperial_Orcs.md) [look and feel](../costume/Imperial_Orcs_look_and_feel.md).* (08/03/2019)
+- *A post from Matt about the role nation briefs and look and feel. The initial discussion as about the [leg and arm wraps](../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md#leg-and-arm-wraps) that form part of the [Imperial orcs](../../in-character/nations/imperial-orcs/Imperial_Orcs.md) [look and feel](../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md).* (08/03/2019)
 
 ... I want to try and lay out a bit more about why (*leg and arm wraps are*) important – about why the brief is important. And about how best for us all to encourage everyone to keep to the brief most of the time.
 

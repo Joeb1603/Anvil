@@ -1,8 +1,8 @@
 ---
 title: Look and feel new navarr
 source: https://www.profounddecisions.co.uk/empire-wiki/Look_and_feel_new_navarr
-class: out-of-character
-topic: costume
+class: mixed
+topic: look-and-feel
 categories: []
 last_edited: '2025-06-26T18:15:45Z'
 revision: 122463

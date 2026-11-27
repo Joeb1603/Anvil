@@ -52,7 +52,7 @@ Finally, the Steinr favour a particular form of [Wisdom](../../religion/Wisdom.m
 
 ## Further Reading
 
-- [Look and Feel](../../../out-of-character/costume/Wintermark_look_and_feel.md#steinr)
+- [Look and Feel](../../../mixed/look-and-feel/Wintermark_look_and_feel.md#steinr)
 - [Runes](../../../mixed/magic/lore/Runes.md)
 - [Hahnmark](Hahnmark.md)
 - [Runesmiths](../../../mixed/magic/lore/Wintermark_magical_traditions.md#runesmiths)

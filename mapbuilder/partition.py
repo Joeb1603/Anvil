@@ -95,6 +95,26 @@ def partition(polys, seeds):
     return out
 
 
+def _one_region_per_part(polys, seeds):
+    """If a territory is drawn as separate parts and each part holds exactly one region's point, each region
+    is simply its part (Otkodov's Nithoggir, Urdur and Sküld)."""
+    if len(polys) < 2 or len(polys) != len(seeds):
+        return None
+    owner = {}
+    for n, (x, y) in seeds.items():
+        inside = [k for k, poly in enumerate(polys)
+                  if cv2.pointPolygonTest(np.array(poly, np.float32), (float(x), float(y)), False) >= 0]
+        if len(inside) != 1 or inside[0] in owner.values():
+            return None
+        owner[n] = inside[0]
+    out = {}
+    for n, k in owner.items():
+        poly = polys[k]
+        xs, ys = [p[0] for p in poly], [p[1] for p in poly]
+        out[n] = {"polys": [poly], "centre": [round(sum(xs) / len(xs), 1), round(sum(ys) / len(ys), 1)], "area": 0}
+    return out
+
+
 def region_shapes(labels: dict | None = None) -> dict:
     """{territory: {region: {"polys", "centre", "placed"}}} for every territory with regions."""
     terr = territory_polygons()
@@ -149,7 +169,8 @@ def region_shapes(labels: dict | None = None) -> dict:
                 ang = 2 * math.pi * (k + 0.5) / max(1, len(missing))
                 seeds[n] = (cx + math.cos(ang) * hw * 0.4, cy + math.sin(ang) * hh * 0.4)
                 placed[n] = "even"
-        cells = partition(polys, seeds)
+        whole = _one_region_per_part(polys, seeds)
+        cells = whole if whole else partition(polys, seeds)
         for n in cells:
             cells[n]["placed"] = placed[n]
         result[t] = cells

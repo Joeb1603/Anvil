@@ -57,7 +57,7 @@ If you believe that anyone has breached any of these rules, we encourage you to 
 - **Empire is a gender-neutral setting - you cannot play a character who is sexist**
 - **You cannot play a homophobic or transphobic character**
 
-The Empire setting includes in-character prejudice and bigotry - you can insult another *character* on the basis of an in-character attribute, such as their [lineage](../../mixed/magic/lore/Lineage.md), species, [archetype](Archetype.md), or in-character class, nationality or beliefs. What is not acceptable is any insults or prejudice based on the listed out-of-character attributes.
+The Empire setting includes in-character prejudice and bigotry - you can insult another *character* on the basis of an in-character attribute, such as their [lineage](../../mixed/magic/lore/Lineage.md), species, [archetype](../../mixed/nations/general/Archetype.md), or in-character class, nationality or beliefs. What is not acceptable is any insults or prejudice based on the listed out-of-character attributes.
 
 Empire includes a number of [common attitudes](../../in-character/world/Common_attitudes.md) towards matters of age, race, sexuality and gender throughout the setting. We have deliberately opted to discard real-world history to create a game setting that does not include any form of gender discrimination. It is not acceptable to play a character that doesn't conform to these common attitudes. There are no social roles reserved for specific genders - and the idea of assigning responsibilities based on gender should be seen as ridiculous by every character. Characters in the world of Empire do not make any assumptions about characters based on their gender.
 

@@ -8326,10 +8326,10 @@
   ]
  },
  "1645": {
-  "class": "out-of-character",
-  "topic": "rules",
+  "class": "mixed",
+  "topic": "nations/general",
   "event": null,
-  "rule": "category:Rules",
+  "rule": "override",
   "categories": [
    "Archetype",
    "Rules",
@@ -12988,8 +12988,8 @@
   ]
  },
  "120": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "rule": "title:(?i)look and feel",
   "categories": [
@@ -19999,8 +19999,8 @@
   ]
  },
  "77": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "rule": "title:(?i)look and feel",
   "categories": [
@@ -22201,8 +22201,8 @@
   ]
  },
  "7297": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "rule": "title:(?i)look and feel",
   "categories": [
@@ -22442,10 +22442,10 @@
   ]
  },
  "3432": {
-  "class": "out-of-character",
-  "topic": "crew",
+  "class": "in-character",
+  "topic": "nations/general",
   "event": null,
-  "rule": "category:Crew",
+  "rule": "override",
   "categories": [
    "Crew",
    "Egregore",
@@ -23217,10 +23217,10 @@
   ]
  },
  "12663": {
-  "class": "out-of-character",
-  "topic": "rules",
+  "class": "mixed",
+  "topic": "magic/lore",
   "event": null,
-  "rule": "category:Rules",
+  "rule": "override",
   "categories": [
    "Magic Theory",
    "Magic",
@@ -26280,8 +26280,8 @@
   ]
  },
  "5431": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "rule": "title:(?i)look and feel",
   "categories": [
@@ -26365,10 +26365,10 @@
   ]
  },
  "2438": {
-  "class": "out-of-character",
-  "topic": "rules",
+  "class": "mixed",
+  "topic": "nations/general",
   "event": null,
-  "rule": "category:Rules",
+  "rule": "override",
   "categories": [
    "Archetype",
    "Rules",
@@ -27536,8 +27536,8 @@
   ]
  },
  "216": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "rule": "title:(?i)look and feel",
   "categories": [
@@ -28874,8 +28874,8 @@
   ]
  },
  "2301": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "rule": "title:(?i)look and feel",
   "categories": [
@@ -30152,8 +30152,8 @@
   ]
  },
  "5440": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "rule": "title:(?i)look and feel",
   "categories": [
@@ -31829,17 +31829,17 @@
   ]
  },
  "8028": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
-  "rule": "override",
+  "rule": "title:(?i)look and feel",
   "categories": []
  },
  "8118": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
-  "rule": "override",
+  "rule": "title:(?i)look and feel",
   "categories": []
  },
  "10229": {
@@ -34284,8 +34284,8 @@
   ]
  },
  "453": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "rule": "title:(?i)look and feel",
   "categories": [
@@ -35668,10 +35668,10 @@
   ]
  },
  "10117": {
-  "class": "out-of-character",
-  "topic": "rules",
+  "class": "mixed",
+  "topic": "religion",
   "event": null,
-  "rule": "category:Rules",
+  "rule": "override",
   "categories": [
    "Ceremonies",
    "Rules",
@@ -38835,7 +38835,7 @@
  "7852": {
   "class": "in-character",
   "topic": "senate-motions",
-  "event": null,
+  "event": "382YE Summer",
   "rule": "category:Senate Motion",
   "categories": [
    "Senate Motion"
@@ -44635,8 +44635,8 @@
   ]
  },
  "74": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "rule": "title:(?i)look and feel",
   "categories": [
@@ -44645,10 +44645,10 @@
   ]
  },
  "8257": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
-  "rule": "override",
+  "rule": "title:(?i)look and feel",
   "categories": []
  },
  "170": {
@@ -45323,8 +45323,8 @@
   ]
  },
  "78": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "rule": "title:(?i)look and feel",
   "categories": [
@@ -45530,8 +45530,8 @@
   ]
  },
  "76": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "rule": "title:(?i)look and feel",
   "categories": [
@@ -49638,8 +49638,8 @@
   ]
  },
  "514": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "rule": "title:(?i)look and feel",
   "categories": [
@@ -49971,8 +49971,8 @@
   ]
  },
  "554": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "rule": "title:(?i)look and feel",
   "categories": [
@@ -52083,8 +52083,8 @@
   ]
  },
  "79": {
-  "class": "out-of-character",
-  "topic": "costume",
+  "class": "mixed",
+  "topic": "look-and-feel",
   "event": null,
   "rule": "title:(?i)look and feel",
   "categories": [
@@ -54122,7 +54122,7 @@
  "8745": {
   "class": "out-of-character",
   "topic": "categories",
-  "event": null,
+  "event": "379YE Spring",
   "rule": "namespace:Category",
   "categories": []
  },
@@ -54714,7 +54714,7 @@
  "10128": {
   "class": "mixed",
   "topic": "archive",
-  "event": null,
+  "event": "384YE Autumn",
   "rule": "namespace:Archive",
   "categories": []
  },
@@ -54728,7 +54728,7 @@
  "3994": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "377YE Autumn",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54737,7 +54737,7 @@
  "4844": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "378YE Autumn",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54746,7 +54746,7 @@
  "5391": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "379YE Autumn",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54755,7 +54755,7 @@
  "6363": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "380YE Autumn",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54764,7 +54764,7 @@
  "7350": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "381YE Autumn",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54773,7 +54773,7 @@
  "8078": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "382YE Autumn",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54782,7 +54782,7 @@
  "8960": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "383YE Autumn",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54791,7 +54791,7 @@
  "10203": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "384YE Autumn",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54800,7 +54800,7 @@
  "11335": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "385YE Autumn",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54809,7 +54809,7 @@
  "12216": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "386YE Autumn",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54818,7 +54818,7 @@
  "13274": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "387YE Autumn",
   "rule": "category:RollOfHonour",
   "categories": [
    "RollOfHonour"
@@ -54827,7 +54827,7 @@
  "3991": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "377YE Spring",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54836,7 +54836,7 @@
  "4234": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "378YE Spring",
   "rule": "category:Roll of Honour",
   "categories": [
    "Military Council",
@@ -54846,7 +54846,7 @@
  "5028": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "379YE Spring",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54855,7 +54855,7 @@
  "5903": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "380YE Spring",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54864,7 +54864,7 @@
  "6680": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "381YE Spring",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54873,7 +54873,7 @@
  "7736": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "382YE Spring",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54882,7 +54882,7 @@
  "8441": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "383YE Spring",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54891,7 +54891,7 @@
  "9618": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "384YE Spring",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54900,7 +54900,7 @@
  "10680": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "385YE Spring",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54909,7 +54909,7 @@
  "11792": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "386YE Spring",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54918,7 +54918,7 @@
  "12913": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "387YE Spring",
   "rule": "category:RollOfHonour",
   "categories": [
    "RollOfHonour"
@@ -54927,7 +54927,7 @@
  "13934": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "388YE Spring",
   "rule": "category:RollOfHonour",
   "categories": [
    "RollOfHonour"
@@ -54936,7 +54936,7 @@
  "3993": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "377YE Summer",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54945,7 +54945,7 @@
  "4845": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "378YE Summer",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54954,7 +54954,7 @@
  "5142": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "379YE Summer",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54963,7 +54963,7 @@
  "6014": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "380YE Summer",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54972,7 +54972,7 @@
  "6806": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "381YE Summer",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54981,7 +54981,7 @@
  "7864": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "382YE Summer",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54990,7 +54990,7 @@
  "8587": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "383YE Summer",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -54999,7 +54999,7 @@
  "9814": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "384YE Summer",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -55008,7 +55008,7 @@
  "10849": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "385YE Summer",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -55017,7 +55017,7 @@
  "11973": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "386YE Summer",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -55026,7 +55026,7 @@
  "13088": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "387YE Summer",
   "rule": "category:RollOfHonour",
   "categories": [
    "RollOfHonour"
@@ -55035,7 +55035,7 @@
  "14040": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "388YE Summer",
   "rule": "category:RollOfHonour",
   "categories": [
    "RollOfHonour"
@@ -55044,14 +55044,14 @@
  "3995": {
   "class": "mixed",
   "topic": "archive",
-  "event": null,
+  "event": "377YE Winter",
   "rule": "namespace:Archive",
   "categories": []
  },
  "4859": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "378YE Winter",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -55060,7 +55060,7 @@
  "5714": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "379YE Winter",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -55069,7 +55069,7 @@
  "6533": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "380YE Winter",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -55078,7 +55078,7 @@
  "7479": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "381YE Winter",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -55087,7 +55087,7 @@
  "8347": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "382YE Winter",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -55096,7 +55096,7 @@
  "9456": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "383YE Winter",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -55105,7 +55105,7 @@
  "10428": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "384YE Winter",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -55114,7 +55114,7 @@
  "11568": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "385YE Winter",
   "rule": "category:Roll of Honour",
   "categories": [
    "Roll of Honour"
@@ -55123,7 +55123,7 @@
  "12661": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "386YE Winter",
   "rule": "category:RollOfHonour",
   "categories": [
    "RollOfHonour"
@@ -55132,7 +55132,7 @@
  "13550": {
   "class": "in-character",
   "topic": "roll-of-honour",
-  "event": null,
+  "event": "387YE Winter",
   "rule": "category:RollOfHonour",
   "categories": [
    "RollOfHonour"

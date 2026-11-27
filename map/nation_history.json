@@ -1,0 +1,14 @@
+{
+ "_about": "Which Imperial nation a territory belonged to, season by season, where that differs from its wiki categories today. A report that says only 'the Empire' took a region is credited to the nation at that season; null means no nation had been assigned yet.",
+ "Spiral": [{"from": "376YE Winter", "nation": "Urizen", "source": "Assign Spiral"},
+            {"from": "385YE Summer", "nation": "The League", "source": "A tide in the affairs"}],
+ "Skarsind": [{"from": "376YE Winter", "nation": "Wintermark", "source": "Assignment of Skarsind"},
+              {"from": "379YE Autumn", "nation": "Imperial Orcs", "source": "Assignment of Skarsind II"}],
+ "Ossium": [{"from": "376YE Winter", "nation": null, "source": "Ossium"},
+            {"from": "382YE Winter", "nation": "Varushka", "source": "Assignment of Ossium"}],
+ "Mareave": [{"from": "376YE Winter", "nation": null, "source": "Mareave"},
+             {"from": "386YE Spring", "nation": "Imperial Orcs", "source": "Mareave"}],
+ "Sarangrave": [{"from": "376YE Winter", "nation": null, "source": "Sarangrave"},
+                {"from": "387YE Autumn", "nation": "Urizen", "source": "Sarangrave"}],
+ "Liathaven": [{"from": "376YE Winter", "nation": "Navarr", "source": "Liathaven"}]
+}

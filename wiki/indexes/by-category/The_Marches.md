@@ -94,7 +94,7 @@ This page collects all the information relevant to [The Marches](../../in-charac
 - [The Marches hearth magic](../../mixed/magic/lore/The_Marches_hearth_magic.md) (mixed)
 - [The Marches history](../../in-character/nations/the-marches/The_Marches_history.md) (in-character)
 - [The Marches leadership](../../in-character/nations/the-marches/The_Marches_leadership.md) (in-character)
-- [The Marches look and feel](../../out-of-character/costume/The_Marches_look_and_feel.md) (out-of-character)
+- [The Marches look and feel](../../mixed/look-and-feel/The_Marches_look_and_feel.md) (mixed)
 - [The Marches magical traditions](../../mixed/magic/lore/The_Marches_magical_traditions.md) (mixed)
 - [The Marches military concerns](../../in-character/nations/the-marches/The_Marches_military_concerns.md) (in-character)
 - [The Marches music](../../mixed/music/The_Marches_music.md) (mixed)

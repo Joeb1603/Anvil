@@ -102,7 +102,7 @@ In central [Skogei Glens](#skogei-glens) stands the fortified compound of the [A
 
 ### Krampushall (ruined)
 
-Until its [destruction by the Jotun](../../winds-of-war/384YE_Spring_Equinox_winds_of_war.md#in-the-west) following the Winter Solstice 383YE, the Krampushall stood in [Pakaanan's Pass](#pakaanans-pass) at the head of the [Clattering Gulley](../../../mixed/government/military/Skarsind_spoils_of_war.md#the-clattering-gulley). Technically an [edifice](../../../mixed/commissions/Edifice.md), it was an impressive yet foreboding construction built during the Winter of 380YE, using materials from [Wintermark](../wintermark/Wintermark.md) and with permission of Irontide Vio the Imperial Orc [senator](../../../mixed/titles/Senator.md). It was supposedly the permanent residence of the Krampus - the Wintermark spirit associated with their [egregore](../../../out-of-character/crew/Egregores.md), built on the request of that creature following some uncharacteristic behaviour over the course of the year 380.
+Until its [destruction by the Jotun](../../winds-of-war/384YE_Spring_Equinox_winds_of_war.md#in-the-west) following the Winter Solstice 383YE, the Krampushall stood in [Pakaanan's Pass](#pakaanans-pass) at the head of the [Clattering Gulley](../../../mixed/government/military/Skarsind_spoils_of_war.md#the-clattering-gulley). Technically an [edifice](../../../mixed/commissions/Edifice.md), it was an impressive yet foreboding construction built during the Winter of 380YE, using materials from [Wintermark](../wintermark/Wintermark.md) and with permission of Irontide Vio the Imperial Orc [senator](../../../mixed/titles/Senator.md). It was supposedly the permanent residence of the Krampus - the Wintermark spirit associated with their [egregore](../general/Egregores.md), built on the request of that creature following some uncharacteristic behaviour over the course of the year 380.
 According to gossip, the plans were described by the Krampus itself, and it claimed that the site was the location of an identical building in pre-imperial times, which had subsequently fallen into ruin. The actual construction was carried out by [Steinr](../wintermark/Steinr.md) [runesmiths](../../../mixed/magic/lore/Wintermark_magical_traditions.md#runesmiths) under the creature's direction. Some believed that the Krampus would accord some version of traditional Wintermark [hospitality](../wintermark/Wintermark_culture_and_customs.md#hospitality) to visitors at its hall. Others warned that it was not wise to call in uninvited. It remains to be seen what its destruction portends for future relations with the peculiar wintertime spirit.
 
 ### The Mountain Passes
@@ -245,7 +245,7 @@ Core Brief
 - [Introduction](Imperial_Orcs.md)
 - [The people](Imperial_Orcs_people.md)
 - [Culture and customs](Imperial_Orcs_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Imperial_Orcs_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Imperial_Orcs_look_and_feel.md)
 - [Septs](Sept.md)
 - [Orc species brief](../../../mixed/world/Orc.md)
 - [Hearth magic](../../../mixed/magic/lore/Imperial_Orcs_hearth_magic.md)

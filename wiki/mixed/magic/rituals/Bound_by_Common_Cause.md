@@ -22,7 +22,7 @@ revision: 133498
 
 Performing this ritual takes at least 10 minutes of roleplaying. If the ritual is cast using the [Imperial Regio](Regio.md#the-imperial-regio) it requires at least 5 minutes of roleplaying instead.
 
-This ritual targets an [Imperial army](../../../out-of-character/rules/Army.md). The [general](../../titles/General.md) responsible for the army (or the [egregore](../../../out-of-character/crew/Egregores.md) if the general is not at Anvil) must be present throughout.
+This ritual targets an [Imperial army](../../../out-of-character/rules/Army.md). The [general](../../titles/General.md) responsible for the army (or the [egregore](../../../in-character/nations/general/Egregores.md) if the general is not at Anvil) must be present throughout.
 
 This ritual is an [enchantment](../../../out-of-character/rules/Enchantment.md). A target may only be under one enchantment effect at a time.
 

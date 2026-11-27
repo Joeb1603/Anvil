@@ -1,6 +1,6 @@
 # 382YE Autumn
 
-Every page tagged to this event, grouped by topic (57 pages).
+Every page tagged to this event, grouped by topic (58 pages).
 
 ## conclave-sessions (1)
 
@@ -9,6 +9,10 @@ Every page tagged to this event, grouped by topic (57 pages).
 ## elections (1)
 
 - [382YE Autumn Equinox Imperial elections](../../in-character/elections/382YE_Autumn_Equinox_Imperial_elections.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Autumn Equinox 382YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Autumn_Equinox_382YE.md)
 
 ## senate-motions (30)
 

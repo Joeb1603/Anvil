@@ -47,7 +47,7 @@ This ritual can affect additional characters from the same [coven](../../../out-
 
 ### Assurance
 
-This ritual grants an intuitive understanding of magical lores, and as with other such rituals, draws on the power of an [eternal](../../../in-character/eternals/Eternal.md), in this case [Sorin](../../../in-character/eternals/Sorin.md). The [assurance](../../../out-of-character/rules/Eternals_and_rituals.md#assurance-and-stipulation) connected with the ritual was lost for several centuries but was unearthed by members of the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if the Throne's power to [declare war](../../titles/The_Throne.md#declaration-of-war) is removed.
+This ritual grants an intuitive understanding of magical lores, and as with other such rituals, draws on the power of an [eternal](../../../in-character/eternals/Eternal.md), in this case [Sorin](../../../in-character/eternals/Sorin.md). The [assurance](../lore/Eternals_and_rituals.md#assurance-and-stipulation) connected with the ritual was lost for several centuries but was unearthed by members of the [Unfettered Mind](../../government/conclave/Unfettered_Mind.md) shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if the Throne's power to [declare war](../../titles/The_Throne.md#declaration-of-war) is removed.
 
 ### OOC Elements
 

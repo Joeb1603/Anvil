@@ -8,4 +8,4 @@ members: 1
 
 ## Pages (1)
 
-- [Past life vision](../../out-of-character/rules/Past_life_vision.md) (out-of-character)
+- [Past life vision](../../mixed/religion/Past_life_vision.md) (mixed)

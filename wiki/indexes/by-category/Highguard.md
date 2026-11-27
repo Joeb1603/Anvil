@@ -52,7 +52,7 @@ This page collects all the information relevant to [Highguard](../../in-characte
 - [Highguard hearth magic](../../mixed/magic/lore/Highguard_hearth_magic.md) (mixed)
 - [Highguard history](../../in-character/nations/highguard/Highguard_history.md) (in-character)
 - [Highguard leadership](../../in-character/nations/highguard/Highguard_leadership.md) (in-character)
-- [Highguard look and feel](../../out-of-character/costume/Highguard_look_and_feel.md) (out-of-character)
+- [Highguard look and feel](../../mixed/look-and-feel/Highguard_look_and_feel.md) (mixed)
 - [Highguard magical traditions](../../mixed/magic/lore/Highguard_magical_traditions.md) (mixed)
 - [Highguard Maps](../../in-character/nations/highguard/Highguard_Maps.md) (in-character)
 - [Highguard military concerns](../../in-character/nations/highguard/Highguard_military_concerns.md) (in-character)

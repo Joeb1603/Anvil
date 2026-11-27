@@ -94,7 +94,7 @@ This page collects all the information relevant to [Wintermark](../../in-charact
 - [Wintermark groups](../../out-of-character/groups/Wintermark_groups.md) (out-of-character)
 - [Wintermark hearth magic](../../mixed/magic/lore/Wintermark_hearth_magic.md) (mixed)
 - [Wintermark history](../../in-character/nations/wintermark/Wintermark_history.md) (in-character)
-- [Wintermark look and feel](../../out-of-character/costume/Wintermark_look_and_feel.md) (out-of-character)
+- [Wintermark look and feel](../../mixed/look-and-feel/Wintermark_look_and_feel.md) (mixed)
 - [Wintermark magical traditions](../../mixed/magic/lore/Wintermark_magical_traditions.md) (mixed)
 - [Wintermark Maps](../../in-character/nations/wintermark/Wintermark_Maps.md) (in-character)
 - [Wintermark military concerns](../../in-character/nations/wintermark/Wintermark_military_concerns.md) (in-character)

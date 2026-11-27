@@ -51,9 +51,6 @@ page_overrides:
   Coif: {class: out-of-character, topic: costume}
   Cotehardie: {class: out-of-character, topic: costume}
   Kirtle: {class: out-of-character, topic: costume}
-  Look and feel new highguard: {class: out-of-character, topic: costume}
-  Look and feel new navarr: {class: out-of-character, topic: costume}
-  The Brass Coast look and feel2: {class: out-of-character, topic: costume}
   Orc: {class: mixed, topic: world}
   Region qualities: {class: mixed, topic: economy}
   Trade goods: {class: mixed, topic: economy}
@@ -61,6 +58,11 @@ page_overrides:
   Senate Motions: {class: mixed, topic: government/senate}
   Clemency guidance: {class: mixed, topic: government/senate}
   Dramaturgy Archive: {class: mixed, topic: magic/lore}
+  Egregores: {class: in-character, topic: nations/general}
+  Eternals and rituals: {class: mixed, topic: magic/lore}
+  Past life vision: {class: mixed, topic: religion}
+  Archetype: {class: mixed, topic: nations/general}
+  Group Archetypes: {class: mixed, topic: nations/general}
 
 # Checked before the category rules (first match wins).
 title_rules:
@@ -68,7 +70,7 @@ title_rules:
   - {pattern: 'Military Council orders$', class: in-character, topic: military-council-orders}
   - {pattern: 'Sodality resolutions$', class: in-character, topic: conclave-sessions}
   - {pattern: 'Imperial elections$', class: in-character, topic: elections}
-  - {pattern: '(?i)look and feel', class: out-of-character, topic: costume}
+  - {pattern: '(?i)look and feel', class: mixed, topic: look-and-feel}
   - {pattern: ' groups$', class: out-of-character, topic: groups}
 # Used only when a page has no category that matches a rule below.
 fallback_title_rules:

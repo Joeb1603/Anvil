@@ -96,7 +96,7 @@ Arcane projections are always fickle by their nature, but an evolving conjunctio
 
 ## League Look and Feel
 
-We have completely overhauled [the League look and feel](../costume/The_League_look_and_feel.md) page to bring it up to the standard of the new [Urizen look and feel](../costume/Urizen_look_and_feel.md) page we produced two years ago. This has been a huge piece of work that has required collaboration with a large team of skilled costumiers as well as League players. I'd like to thank everyone who helped us produce the new page.
+We have completely overhauled [the League look and feel](../../mixed/look-and-feel/The_League_look_and_feel.md) page to bring it up to the standard of the new [Urizen look and feel](../../mixed/look-and-feel/Urizen_look_and_feel.md) page we produced two years ago. This has been a huge piece of work that has required collaboration with a large team of skilled costumiers as well as League players. I'd like to thank everyone who helped us produce the new page.
 
 One of our core goals for the new page was to move beyond from the more restrictive costume options presented by the original brief. We do want the League to have a really clear visual look that defines the nation, but we want to ensure that it includes garments that everyone can feel confident wearing.
 

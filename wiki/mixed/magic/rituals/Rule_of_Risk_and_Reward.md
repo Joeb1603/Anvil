@@ -39,7 +39,7 @@ This ritual can affect additional characters from the same [coven](../../../out-
 
 ### Assurance
 
-This ritual grants an intuitive understanding of magical lores, and as with [other such rituals](../../../out-of-character/rules/Eternals_and_rituals.md#empowerment), draws on the power of an eternal, in this case [Sadogua](../../../in-character/eternals/Sadogua.md). The assurance connected with the ritual was uncertain when the ritual text was first delivered by the Commonwealth but was unearthed by members of the Unfettered Mind shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if the [Conclave](../../government/conclave/Conclave.md) ever limits the creation of [arcane projections](../../../out-of-character/rules/Arcane_projection.md).
+This ritual grants an intuitive understanding of magical lores, and as with [other such rituals](../lore/Eternals_and_rituals.md#empowerment), draws on the power of an eternal, in this case [Sadogua](../../../in-character/eternals/Sadogua.md). The assurance connected with the ritual was uncertain when the ritual text was first delivered by the Commonwealth but was unearthed by members of the Unfettered Mind shortly before the Winter Solstice 386YE. The ritual loses all power and ceases to function if the [Conclave](../../government/conclave/Conclave.md) ever limits the creation of [arcane projections](../../../out-of-character/rules/Arcane_projection.md).
 
 ## Description
 

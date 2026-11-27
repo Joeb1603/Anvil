@@ -17,7 +17,7 @@ aliases:
 
 ## The Knight of Roses
 
-The [Egregore](../../../out-of-character/crew/Egregores.md) of [Dawn](Dawn.md) is the **Knight of Roses**, and it embodies both the nations quest for [glory](Glory.md) and their [tumultuous passions](../../../mixed/magic/lore/Dawn_hearth_magic.md#love-and-flowers). While it often choosesto bond with a [noble](Noble_house.md), it almost always has a host chosen from among the [yeofolk](Yeofolk_of_Dawn.md). Despite its name, it is as likely to bond with a [troubadour](../../religion/Troubadour.md), a [witch](../../../mixed/magic/lore/Dawn_magical_traditions.md), or an [enchanter](Earl.md#enchanters), or a trusted [retainer](Retainer.md) as with a more martial individual. The [egregore](../../../out-of-character/crew/Egregores.md) does not confine its attentions to the nobility, and is a vocal supporter of [yeofolk](Yeofolk_of_Dawn.md). It both encourages those who are ready to seek out a [Test of Mettle](Dawn_culture_and_customs.md#the-test-of-mettle), and supports those who choose a quieter life. Noble and yeofolk alike, both are Dawnish.
+The [Egregore](../general/Egregores.md) of [Dawn](Dawn.md) is the **Knight of Roses**, and it embodies both the nations quest for [glory](Glory.md) and their [tumultuous passions](../../../mixed/magic/lore/Dawn_hearth_magic.md#love-and-flowers). While it often choosesto bond with a [noble](Noble_house.md), it almost always has a host chosen from among the [yeofolk](Yeofolk_of_Dawn.md). Despite its name, it is as likely to bond with a [troubadour](../../religion/Troubadour.md), a [witch](../../../mixed/magic/lore/Dawn_magical_traditions.md), or an [enchanter](Earl.md#enchanters), or a trusted [retainer](Retainer.md) as with a more martial individual. The [egregore](../general/Egregores.md) does not confine its attentions to the nobility, and is a vocal supporter of [yeofolk](Yeofolk_of_Dawn.md). It both encourages those who are ready to seek out a [Test of Mettle](Dawn_culture_and_customs.md#the-test-of-mettle), and supports those who choose a quieter life. Noble and yeofolk alike, both are Dawnish.
 
 The Knight of Roses strives to remind the Dawnish of their glorious [history](Dawn_history.md), and the greatness that is theirs for the taking. [Glory](Glory.md) and [Love](../../../mixed/magic/lore/Love_in_Dawn.md) are equally important to the spirit; often much more important than the [seven Virtues](../../world/The_Way.md#the-paths-of-virtue). While it does not usually initiate or set [tests and challenges](Dawn_culture_and_customs.md) itself, it offers advice and guidance on the subject and may prove critical of those who misuse or abuse these traditions. Likewise, it has been known to intervene on behalf of lovers who are in need of its aid, encouraging them to follow the call of their hearts over any other consideration.
 
@@ -42,7 +42,7 @@ Core Brief
 - [Introduction](Dawn.md)
 - [The people](Dawn_people.md)
 - [Culture and customs](Dawn_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Dawn_look_and_feel.md)
+- [Look and feel](../../../mixed/look-and-feel/Dawn_look_and_feel.md)
 - [Hearth magic](../../../mixed/magic/lore/Dawn_hearth_magic.md)
 
 Additional Information

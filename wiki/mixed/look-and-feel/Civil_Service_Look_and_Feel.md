@@ -1,8 +1,8 @@
 ---
 title: Civil Service Look and Feel
 source: https://www.profounddecisions.co.uk/empire-wiki/Civil_Service_Look_and_Feel
-class: out-of-character
-topic: costume
+class: mixed
+topic: look-and-feel
 categories:
 - Civil Service
 - The Empire

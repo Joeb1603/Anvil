@@ -78,7 +78,7 @@ Core Brief
 - [Introduction](../../../in-character/nations/imperial-orcs/Imperial_Orcs.md)
 - [The people](../../../in-character/nations/imperial-orcs/Imperial_Orcs_people.md)
 - [Culture and customs](../../../in-character/nations/imperial-orcs/Imperial_Orcs_culture_and_customs.md)
-- [Look and feel](../../../out-of-character/costume/Imperial_Orcs_look_and_feel.md)
+- [Look and feel](../../look-and-feel/Imperial_Orcs_look_and_feel.md)
 - [Septs](../../../in-character/nations/imperial-orcs/Sept.md)
 - [Orc species brief](../../world/Orc.md)
 - [Hearth magic](Imperial_Orcs_hearth_magic.md)

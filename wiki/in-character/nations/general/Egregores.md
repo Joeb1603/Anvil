@@ -1,8 +1,8 @@
 ---
 title: Egregores
 source: https://www.profounddecisions.co.uk/empire-wiki/Egregores
-class: out-of-character
-topic: crew
+class: in-character
+topic: nations/general
 categories:
 - Crew
 - Egregore
@@ -31,11 +31,11 @@ The egregores are an effective channel for plot writers to deliver plot "news" t
 
 They are a point of contact for Profound Decisions crew for players in a nation and will have a covert radio. This radio is for emergency situations, for example, needing to contact first aid.
 
-Some of the egregores are able to referee [bindings](../rules/Create_bond.md) and [rituals](../rules/Rituals.md). You can check with your egregore if they are able to do this. If you wish to approach your egregore for non-urgent out-of-character business, please respect their roleplay and the roleplay of the people they are interacting with. Do not interrupt people who are roleplaying with the egregore with an out-of-character question unless it is urgent. Obviously, for a genuine emergency, you should get their attention as quickly as possible.
+Some of the egregores are able to referee [bindings](../../../out-of-character/rules/Create_bond.md) and [rituals](../../../out-of-character/rules/Rituals.md). You can check with your egregore if they are able to do this. If you wish to approach your egregore for non-urgent out-of-character business, please respect their roleplay and the roleplay of the people they are interacting with. Do not interrupt people who are roleplaying with the egregore with an out-of-character question unless it is urgent. Obviously, for a genuine emergency, you should get their attention as quickly as possible.
 
 Egregores are not there to make decisions for the nation or provide leadership or direction. They may take a role in their nation's elections - they may even vote, but their role is to support the nation, not to lead it.
 
-Although any magician can open the [Sentinel Gate](../../in-character/world/Sentinel_Gate.md), to take an entire nation through requires an egregore to use their link to the nation to take them all through.
+Although any magician can open the [Sentinel Gate](../../world/Sentinel_Gate.md), to take an entire nation through requires an egregore to use their link to the nation to take them all through.
 
 There is no way to apply to become an Egregore - PD considers carefully potential candidates for Egregores and approaches them as and when they need them, partly because the requirements for the different nations can be quite varied.
 
@@ -44,16 +44,16 @@ There is no way to apply to become an Egregore - PD considers carefully potentia
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Nation | | Egregore Name | | OOC names | |
-| Brass Coast | | [Dust, Flame and Glass](../../in-character/nations/the-brass-coast/Brass_Coast_egregore.md) | | Peter G, Claire D | |
-| Dawn | | [The Knight of Roses](../../in-character/nations/dawn/Dawn_egregore.md) | | Keeley Knight, Jonathan Locks, Rosie Karou | |
-| Highguard | | [Escon](../../in-character/nations/highguard/Highguard_egregore.md) | | Seph Steel, Carolyne | |
-| Imperial Orcs | | [Grud The Unshackled](../../in-character/nations/imperial-orcs/Imperial_Orc_Egregore.md) | | Ed Thurlow, Chris Penney | |
-| The League | | [Guise](../../in-character/nations/the-league/League_Egregore.md) | | Jon Pam, Ben Sabin, Sam | |
-| The Marches | | [Jack-of-the-Marches](../../in-character/nations/the-marches/Marches_Egregore.md) | | Marc Fothergill, Maz Wilberforce, Dave Vyse Hartley | |
-| Navarr | | [Liaven](../../in-character/nations/navarr/Navarr_Egregore.md) | | Al Bevan, Elizabeth Simoens, Emma Rowden, Rich Andrews, Kate Rogers | |
-| Urizen | | [Menos](../../in-character/nations/urizen/Urizen_Egregore.md) | | Steve Alonso | |
-| Varushka | | [Mother Vahruska](../../in-character/nations/varushka/Varushka_Egregore.md) | | Tansy Pye, Kirsty March | |
-| Wintermark | | [Sulkavaris, Knower of Names](../../in-character/nations/wintermark/Wintermark_Egregore.md) | | Harry Morris, John Haynes, Emma Stanton | |
+| Brass Coast | | [Dust, Flame and Glass](../the-brass-coast/Brass_Coast_egregore.md) | | Peter G, Claire D | |
+| Dawn | | [The Knight of Roses](../dawn/Dawn_egregore.md) | | Keeley Knight, Jonathan Locks, Rosie Karou | |
+| Highguard | | [Escon](../highguard/Highguard_egregore.md) | | Seph Steel, Carolyne | |
+| Imperial Orcs | | [Grud The Unshackled](../imperial-orcs/Imperial_Orc_Egregore.md) | | Ed Thurlow, Chris Penney | |
+| The League | | [Guise](../the-league/League_Egregore.md) | | Jon Pam, Ben Sabin, Sam | |
+| The Marches | | [Jack-of-the-Marches](../the-marches/Marches_Egregore.md) | | Marc Fothergill, Maz Wilberforce, Dave Vyse Hartley | |
+| Navarr | | [Liaven](../navarr/Navarr_Egregore.md) | | Al Bevan, Elizabeth Simoens, Emma Rowden, Rich Andrews, Kate Rogers | |
+| Urizen | | [Menos](../urizen/Urizen_Egregore.md) | | Steve Alonso | |
+| Varushka | | [Mother Vahruska](../varushka/Varushka_Egregore.md) | | Tansy Pye, Kirsty March | |
+| Wintermark | | [Sulkavaris, Knower of Names](../wintermark/Wintermark_Egregore.md) | | Harry Morris, John Haynes, Emma Stanton | |
 
 ### Brass Coast
 
@@ -153,14 +153,14 @@ There is no way to apply to become an Egregore - PD considers carefully potentia
 
 ## Crew Links
 
-- [Crewing](Crewing.md)
-  - [Current Openings](Current_crewing_opportunities.md)
-  - [Site Crew](Site_crew.md)
-  - [Event Crew](Event_crew.md)
-  - [Plot Crew](Plot_crew.md)
-  - [Credits (2019)](Credits_2019.md)
-- [Management Team](Profound_Decisions_management_team.md)
+- [Crewing](../../../out-of-character/crew/Crewing.md)
+  - [Current Openings](../../../out-of-character/crew/Current_crewing_opportunities.md)
+  - [Site Crew](../../../out-of-character/crew/Site_crew.md)
+  - [Event Crew](../../../out-of-character/crew/Event_crew.md)
+  - [Plot Crew](../../../out-of-character/crew/Plot_crew.md)
+  - [Credits (2019)](../../../out-of-character/crew/Credits_2019.md)
+- [Management Team](../../../out-of-character/crew/Profound_Decisions_management_team.md)
 
 ---
 
-Categories: [Crew](../../indexes/by-category/Crew.md), [Egregore](../../indexes/by-category/Egregore.md), [The World](../../indexes/by-category/The_World.md)
+Categories: [Crew](../../../indexes/by-category/Crew.md), [Egregore](../../../indexes/by-category/Egregore.md), [The World](../../../indexes/by-category/The_World.md)

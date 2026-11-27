@@ -75,7 +75,7 @@ This page collects all the information relevant to [Navarr](../../in-character/n
 - [Navarr hearth magic](../../mixed/magic/lore/Navarr_hearth_magic.md) (mixed)
 - [Navarr history](../../in-character/nations/navarr/Navarr_history.md) (in-character)
 - [Navarr leadership](../../in-character/nations/navarr/Navarr_leadership.md) (in-character)
-- [Navarr look and feel](../../out-of-character/costume/Navarr_look_and_feel.md) (out-of-character)
+- [Navarr look and feel](../../mixed/look-and-feel/Navarr_look_and_feel.md) (mixed)
 - [Navarr magical traditions](../../mixed/magic/lore/Navarr_magical_traditions.md) (mixed)
 - [Navarr Maps](../../in-character/nations/navarr/Navarr_Maps.md) (in-character)
 - [Navarr military concerns](../../in-character/nations/navarr/Navarr_military_concerns.md) (in-character)

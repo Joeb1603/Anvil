@@ -16,7 +16,7 @@ Each nation has a single egregore spirit, created through ritual magic to repres
 
 - [Brass Coast egregore](../../in-character/nations/the-brass-coast/Brass_Coast_egregore.md) (in-character)
 - [Dawn egregore](../../in-character/nations/dawn/Dawn_egregore.md) (in-character)
-- [Egregores](../../out-of-character/crew/Egregores.md) (out-of-character)
+- [Egregores](../../in-character/nations/general/Egregores.md) (in-character)
 - [Highguard egregore](../../in-character/nations/highguard/Highguard_egregore.md) (in-character)
 - [Imperial Orc Egregore](../../in-character/nations/imperial-orcs/Imperial_Orc_Egregore.md) (in-character)
 - [League Egregore](../../in-character/nations/the-league/League_Egregore.md) (in-character)

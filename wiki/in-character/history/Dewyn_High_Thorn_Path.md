@@ -16,7 +16,7 @@ in_character_boxes: 2
 
 ## Overview
 
-During the Winter Solstice 387YE, the [Lepidean Librarian](../../mixed/titles/Lepidean_Librarian.md) **Hazelelponi of the Shattered Tower**, charged the [Heirs of Lepidus](../religion/Lepidus.md#heirs-of-lepidus) to investigate the [past life vision](../../out-of-character/rules/Past_life_vision.md) of **Bridget Talbot de Coeurdefer**. The vision is recorded in the [Echoes of the Labyrinth](../../mixed/titles/Seer_of_the_Gateway.md), concerning a meeting between Dewyn High Thorn Path and her daughter [Empress Brannan](Empress_Brannan.md).
+During the Winter Solstice 387YE, the [Lepidean Librarian](../../mixed/titles/Lepidean_Librarian.md) **Hazelelponi of the Shattered Tower**, charged the [Heirs of Lepidus](../religion/Lepidus.md#heirs-of-lepidus) to investigate the [past life vision](../../mixed/religion/Past_life_vision.md) of **Bridget Talbot de Coeurdefer**. The vision is recorded in the [Echoes of the Labyrinth](../../mixed/titles/Seer_of_the_Gateway.md), concerning a meeting between Dewyn High Thorn Path and her daughter [Empress Brannan](Empress_Brannan.md).
 
 The original report provided to the Librarian also included an additional document, apparently a piece of personal correspondence between Dewyn High Thorn Path and the Empress, which has not been reproduced here.
 

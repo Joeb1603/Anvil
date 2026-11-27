@@ -1,6 +1,6 @@
 # 384YE Winter
 
-Every page tagged to this event, grouped by topic (60 pages).
+Every page tagged to this event, grouped by topic (61 pages).
 
 ## conclave-sessions (1)
 
@@ -17,6 +17,10 @@ Every page tagged to this event, grouped by topic (60 pages).
 ## government/military (1)
 
 - [In the lonely hour](../../mixed/government/military/In_the_lonely_hour.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Winter Solstice 384YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Winter_Solstice_384YE.md)
 
 ## senate-motions (19)
 

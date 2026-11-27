@@ -1,6 +1,6 @@
 # 380YE Summer
 
-Every page tagged to this event, grouped by topic (54 pages).
+Every page tagged to this event, grouped by topic (55 pages).
 
 ## conclave-sessions (1)
 
@@ -9,6 +9,10 @@ Every page tagged to this event, grouped by topic (54 pages).
 ## elections (1)
 
 - [380YE Summer Solstice Imperial elections](../../in-character/elections/380YE_Summer_Solstice_Imperial_elections.md)
+
+## roll-of-honour (1)
+
+- [Archive:Roll of Honour Summer Solstice 380YE](../../in-character/roll-of-honour/Archive-Roll_of_Honour_Summer_Solstice_380YE.md)
 
 ## senate-motions (32)
 

@@ -102,7 +102,7 @@ The elite Druj warriors who train with the arkad lodges work closely with the te
 - [Druj armies](Druj_armies.md)
 - Elite warriors
 - [Champions](Druj_champion.md)
-- [Look and feel](../../out-of-character/costume/Druj_look_and_feel.md)
+- [Look and feel](../../mixed/look-and-feel/Druj_look_and_feel.md)
 - [Lore](Druj_lore.md)
 
 ---
