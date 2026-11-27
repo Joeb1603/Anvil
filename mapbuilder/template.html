@@ -81,9 +81,9 @@ a { color: var(--accent); }
 .fr.neuh { stroke: var(--surface); stroke-width: 7px; }
 .faded { opacity: .35; }
 .keys { position: absolute; left: 10px; top: 10px; bottom: 52px; display: flex; flex-direction: column; gap: 6px; align-items: flex-start; pointer-events: none; max-width: 46%; }
-.flegend { display: flex; flex-direction: column; gap: 3px; background: var(--surface); border: 1px solid var(--line);
+.flegend { display: flex; flex-direction: column; gap: 3px; background: color-mix(in srgb, var(--surface) 86%, transparent); border: 1px solid var(--line);
   border-radius: 6px; padding: 5px 9px; font-size: .8rem; }
-.nkey { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 4px 9px; font-size: .8rem; pointer-events: auto; min-height: 0; display: flex; flex-direction: column; max-height: 100%; }
+.nkey { background: color-mix(in srgb, var(--surface) 86%, transparent); border: 1px solid var(--line); border-radius: 6px; padding: 4px 9px; font-size: .8rem; pointer-events: auto; min-height: 0; display: flex; flex-direction: column; max-height: 100%; }
 .nkey summary { cursor: pointer; font-weight: 700; }
 @media (max-width: 600px) { .flegend, .nkey { font-size: .72rem; padding: 3px 7px; } .keys { max-width: 70%; }
   .labgroup { flex-wrap: wrap; min-width: 0; } .seg button { padding: 4px 7px; } .controls { min-width: 0; } }
@@ -298,7 +298,7 @@ function init(D) {
   const markFor = t => st.iso ? (t.regions.length ? t.regions.some(r => holderAt(t.name, r.name, st.s) === st.iso) : holderAt(t.name, "", st.s) === st.iso)
     : st.sel ? (st.sel.t === t.name && !st.sel.r) : true;
   // label mode in force: one the Nations tab set while following its selection, else the chosen one; Auto follows the zoom
-  const autoLab = () => st.k < 1.7 ? "nations" : st.k < 6 ? "territories" : "regions";
+  const autoLab = () => st.k < 2.2 ? "nations" : st.k < 6 ? "territories" : "regions";
   const lab = () => st.labOverride || (st.lab === "auto" ? autoLab() : st.lab);
   // events this season in a nation's lands: places it holds (a whole-territory mention counts for the territory's main holder)
   const natCount = (id, s) => evBySeason[s].reduce((n, e) => n + (st.types.has(e.ty) && Object.entries(e.pl).some(([t, rs]) => byName[t] &&
@@ -455,12 +455,7 @@ function init(D) {
       if (free(b)) return { b, x: x + fx * w * u, y: y + fy * hh * u }; } return null; };
     // each name and its event count are placed together as one block: the count sits right under the name
     const mu = svg.clientWidth < 520 ? 0.7 : 1;
-    // the keys in the corner are obstacles: names never hide underneath them
-    const inv = vp.getScreenCTM() && vp.getScreenCTM().inverse();
-    if (inv) for (const k of [$("flegend"), $("nkey")]) { if (k.hidden || !k.offsetParent) continue;
-      const rc = k.getBoundingClientRect(), pt = svg.createSVGPoint();
-      pt.x = rc.left; pt.y = rc.top; const a = pt.matrixTransform(inv); pt.x = rc.right; pt.y = rc.bottom; const b2 = pt.matrixTransform(inv);
-      placed.push({ x: a.x * scale - 4, y: a.y * scale - 4, w: (b2.x - a.x) * scale + 8, h: (b2.y - a.y) * scale + 8 }); }
+
     // nation labels: one per connected block of a power's land, biggest first
     let n = 0, nm = 0; const counted = new Set();
     if (mode === "nations") for (const [id, x, y, r] of (D.nlabels || [])[st.s] || []) {
@@ -474,7 +469,7 @@ function init(D) {
       }
       const at = spot(x, y, name.length * fs * 0.8, fs * 1.4, Math.min(NUDGE.length, 3 + Math.floor(rs / 12)));
       if (!at) continue; placed.push(at.b);
-      const tx = natLabel(n++); tx.textContent = name; tx.setAttribute("x", at.x); tx.setAttribute("y", at.y);
+      const tx = natLabel(n++); tx.dataset.id = id; tx.textContent = name; tx.setAttribute("x", at.x); tx.setAttribute("y", at.y);
       tx.style.fontSize = fs * u + "px"; tx.style.strokeWidth = 3.2 * u + "px"; tx.style.letterSpacing = 0.12 * fs * u + "px"; tx.style.display = "";
       // one event count per nation, under its biggest name
       if (st.marks && !counted.has(id) && (!st.iso || st.iso === id)) { counted.add(id);
@@ -482,6 +477,19 @@ function init(D) {
         if (c) { const g = natMark(nm++), rr = markR(c, u), cy = at.y + (fs * 0.55 + 2) * u + rr;
           showMark(g, at.x, cy, c, u); g.id = id;
           placed.push({ x: at.x * scale - rr * scale, y: cy * scale - rr * scale, w: 2 * rr * scale, h: 2 * rr * scale }); } }
+    }
+    // every Imperial nation (and any other holder of a sizeable block) is named at least once: any still
+    // missing gets its biggest block's name, smaller and nudged further, or placed regardless
+    if (mode === "nations" && st.names) {
+      const named = new Set(pool.slice(0, n).map(x => x.dataset.id));
+      for (const [id, x, y, r] of (D.nlabels || [])[st.s] || []) {
+        if (named.has(id) || (H[id] || {}).group !== "Imperial nations") continue; named.add(id);
+        const name = shortName(id).toUpperCase(), fs = 9.5;
+        const at = spot(x, y, name.length * fs * 0.8, fs * 1.4, NUDGE.length) || { x, y };
+        if (at.b) placed.push(at.b);
+        const tx = natLabel(n++); tx.dataset.id = id; tx.textContent = name; tx.setAttribute("x", at.x); tx.setAttribute("y", at.y);
+        tx.style.fontSize = fs * u + "px"; tx.style.strokeWidth = 3 * u + "px"; tx.style.letterSpacing = 0.1 * fs * u + "px"; tx.style.display = "";
+      }
     }
     for (let i = n; i < pool.length; i++) pool[i].style.display = "none";
     for (let i = nm; i < natMarks.length; i++) natMarks[i].g.style.display = "none";
@@ -571,8 +579,8 @@ function init(D) {
   });
   const up = ev => { ptrs.delete(ev.pointerId); pinch = 0; svg.classList.remove("drag"); setTimeout(() => { moved = false; }, 0); };
   svg.addEventListener("pointerup", up); svg.addEventListener("pointercancel", up);
-  $("zin").onclick = () => zoomAt(vx + vw / 2 - 0, vy + vh / 2, 1.5);
-  $("zout").onclick = () => zoomAt(vx + vw / 2, vy + vh / 2, 1 / 1.5);
+  $("zin").onclick = () => zoomAt(vx + vw / 2, vy + vh / 2, 1.25);  // same step as one wheel notch
+  $("zout").onclick = () => zoomAt(vx + vw / 2, vy + vh / 2, 1 / 1.25);
   $("zreset").onclick = () => { st.k = 1; st.x = 0; st.y = 0; apply(); };
   function focusOn(t) { const [bx, by, bw, bh] = t.bbox; const k = Math.max(1, Math.min(8, 0.5 * Math.min(vw / bw, vh / bh)));
     st.k = k; st.x = vx + vw / 2 - (bx + bw / 2) * k; st.y = vy + vh / 2 - (by + bh / 2) * k; clamp(); apply(); }
@@ -802,7 +810,6 @@ function init(D) {
   // the nation colour key: every power holding land this season, by group; click one to open it
   const nk = $("nk"); let nkSeason = -1;
   try { $("nkey").open = innerWidth > 700; } catch (e) {}
-  $("nkey").addEventListener("toggle", () => labels());
   function nationKey() {
     if (nkSeason === st.s) return; nkSeason = st.s; nk.innerHTML = "";
     const n = {}; for (const t of T) { if (t.sea) continue; for (const r of (t.regions.length ? t.regions.map(x => x.name) : [""])) { const x = holderAt(t.name, r, st.s); n[x] = (n[x] || 0) + 1; } }

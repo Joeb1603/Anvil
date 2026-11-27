@@ -3,6 +3,7 @@
 An interactive map of the Empire and its neighbours with a timeline from 376YE Winter to
 388YE Winter. Open `index.html` in a browser; it is self-contained.
 
+- **Zoom:** the mouse wheel, pinch, or the + and − buttons, which step exactly one wheel notch.
 - **Map:** 62 territories and seas, 312 regions. Pan, zoom, click a territory or region. Click
   empty sea or background to clear the selection.
 - **Timeline:** 49 seasons. Step through them or press Play to watch control change.
@@ -11,10 +12,11 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   (parchment) and Imperial land not yet given to a nation (dotted gold). Only minor foreign
   powers are grey.
 - **Keys:** the line key and, under it, a Nations key: a short scrollable list of every power's colour
-  that season (click one to open it). The Nations key folds away, and is folded on phones. Map names never sit under
-  the keys.
+  that season (click one to open it). The keys are slightly see-through and the map draws under them as usual. The
+  Nations key folds away, and is folded on phones.
 - **Nation names** are on by default; untick the box to rely on the key alone.
-- **Labels (Auto by default):** Auto shows nation names zoomed out, territory names in between
+- **Labels (Auto by default):** Auto shows nation names for the first three wheel notches (every Imperial nation is
+  always named), territory names in between
   and region names only when well zoomed in. Nations, Territories, Regions or None fix it. Labels never sit under an
   event-count circle.
 - **Clicking and hovering:** follow the label mode in force. In Nations mode a hover describes the
