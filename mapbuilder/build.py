@@ -12,6 +12,7 @@ import numpy as np
 
 from scraper.common import DATA, ROOT, read_json
 
+from .events import BREAK_BEFORE
 from .geometry import MAP_DIR, territory_polygons
 
 SEAS = {"Bay of Catazar", "Sea of Snow", "The Semmerlak"}
@@ -337,7 +338,13 @@ def build(archive_links=True):
         "seasons": seasons, "territories": territories, "holders": holders,
         "control": {"start": {t: fix(h) for t, h in ctl["start"].items()}, "startRegions": ctl["startRegions"],
                     "changes": [{k: (fix(v) if k == "h" else v) for k, v in c.items() if k != "from"} for c in ctl["changes"]]},
-        "events": events, "history": history,
+        "events": events, "history": history, "real": ev["real"],
+        "breaks": [{"i": sidx[BREAK_BEFORE], "label": "Lockdown",
+                    "note": (f"The Covid lockdown fell between {seasons[sidx[BREAK_BEFORE] - 1]} "
+                             f"({ev['real'][sidx[BREAK_BEFORE] - 1]['n']}) and {BREAK_BEFORE}. "
+                             "Its Winds of War were written in March 2020, weeks before lockdown, and the "
+                             f"summit finally ran as {ev['real'][sidx[BREAK_BEFORE]]['n']}. "
+                             "No events ran in 2020 or 2021 and in-game time paused across the gap.")}],
     }
     ctl["state"] = state
     return data, ctl

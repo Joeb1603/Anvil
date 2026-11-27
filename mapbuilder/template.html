@@ -116,6 +116,13 @@ td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
 .transport { display: flex; gap: 4px; grid-column: 1; }
 .transport button { border: 1px solid var(--line); background: var(--surface); border-radius: 6px; padding: 3px 9px; cursor: pointer; }
 .track { grid-column: 2; grid-row: 1 / span 2; min-width: 0; }
+#hist { position: relative; }
+.brk { position: absolute; top: -4px; bottom: 0; width: 0; border-left: 2px dashed var(--muted); pointer-events: auto; }
+.brk span { position: absolute; top: -2px; left: 4px; font-size: .68rem; line-height: 1.2; color: var(--muted); background: var(--surface);
+  padding: 0 4px; border-radius: 3px; white-space: nowrap; }
+.callout { border: 1px solid var(--line); border-left: 3px solid var(--muted); background: var(--sunk); border-radius: 4px; padding: 8px 10px; margin-top: 10px; font-size: .92rem; }
+.callout b { display: block; font-size: .78rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin-bottom: 2px; }
+@media (max-width: 520px) { .brk span { display: none; } }
 #hist { display: grid; align-items: end; height: 30px; gap: 2px; }
 #hist button { border: 0; padding: 0; background: var(--n2); border-radius: 2px 2px 0 0; cursor: pointer; min-height: 2px; }
 #hist button.on { background: var(--accent); }
@@ -132,7 +139,10 @@ td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
   .panel { max-height: none; }
   .pbody { overflow: visible; }
   .controls { margin-left: 0; }
-  .rail { position: sticky; bottom: env(safe-area-inset-bottom, 0px); z-index: 5; }
+  .rail { position: sticky; bottom: env(safe-area-inset-bottom, 0px); z-index: 5; grid-template-columns: minmax(0, 1fr) auto; }
+  .now { grid-column: 1; grid-row: 1; min-width: 0; }
+  .transport { grid-column: 2; grid-row: 1; align-self: center; }
+  .track { grid-column: 1 / -1; grid-row: 2; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
@@ -375,7 +385,11 @@ function init(D) {
   function panelPlace(b) {
     if (!st.sel) {
       const evs = evBySeason[st.s].filter(e => st.types.has(e.ty));
-      b.append(h("h2", { textContent: S[st.s] }), h("div", { className: "crumb", textContent: `${evs.length} located events this season. Click a territory or region for its story.` }));
+      b.append(h("h2", { textContent: S[st.s] }));
+      const re = (D.real || [])[st.s];
+      if (re) b.append(h("div", { className: "crumb" }, "Real-world event: ", re.u ? h("a", { href: re.u, target: "_blank", rel: "noopener", textContent: re.n }) : re.n + (st.s === last && !re.u ? " (not yet held)" : "")));
+      b.append(h("div", { className: "crumb", textContent: `${evs.length} located events this season. Click a territory or region for its story.` }));
+      for (const br of D.breaks || []) if (br.i === st.s) b.append(h("div", { className: "callout" }, h("b", { textContent: "Covid break" }), br.note));
       const ch = D.control.changes.filter(c => c.s === st.s && c.kind !== "status");
       b.append(h("h3", { textContent: "Changes of control" }));
       if (!ch.length) b.append(h("div", { className: "empty", textContent: "None recorded for this season." }));
@@ -456,6 +470,11 @@ function init(D) {
   function yearLabels() { const col = years.clientWidth / S.length * 4;
     for (const y of years.children) y.textContent = col >= 40 ? y.dataset.full : col >= 24 ? y.dataset.short : (y.dataset.k % 3 === 1 ? y.dataset.short : ""); }
   yearLabels(); addEventListener("resize", yearLabels);
+  for (const br of D.breaks || []) {
+    const m = h("div", { className: "brk", title: br.note }, h("span", { textContent: br.label }));
+    m.setAttribute("role", "note"); m.setAttribute("aria-label", br.note);
+    m.style.left = `calc(${(br.i / S.length) * 100}% - 1px)`; hist.append(m);
+  }
   const range = $("season"); range.max = last; range.value = st.s;
   range.addEventListener("input", () => setSeason(+range.value));
   function setSeason(i) { st.s = Math.max(0, Math.min(last, i)); range.value = st.s; render(); }
@@ -481,7 +500,8 @@ function init(D) {
   document.addEventListener("click", e => { if (!e.target.closest(".search")) res.hidden = true; });
 
   function render() {
-    $("now").innerHTML = `${esc(S[st.s])}<small>${evBySeason[st.s].length} located events</small>`;
+    const re = (D.real || [])[st.s];
+    $("now").innerHTML = `${esc(S[st.s])}<small>${re ? esc(re.n) + " · " : ""}${evBySeason[st.s].length} located events</small>`;
     bars.forEach((r, i) => r.classList.toggle("on", i === st.s));
     $("tab-place").textContent = st.sel ? (st.sel.r || st.sel.t) : "Season";
     for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).setAttribute("aria-selected", st.tab === tab);

@@ -27,6 +27,38 @@ LINK = re.compile(r"\]\(([^)\s#]+\.md)(?:#([^)\s]*))?\)")
 YEAR = re.compile(r"\b(\d{1,3})\s?(YE|BE)\b")
 
 
+EVENT_NAMES = {"Spring": "Spring Equinox", "Summer": "Summer Solstice", "Autumn": "Autumn Equinox",
+               "Winter": "Winter Solstice"}
+# The summit after 383YE Autumn (Autumn Equinox 2019) was postponed by the Covid lockdown and
+# held as Winter Solstice 2022. In-game time paused across the gap.
+BREAK_BEFORE = "383YE Winter"
+
+
+def real_event(season: str) -> str:
+    """Real-world event name for an in-game season, following the wiki's own event pages.
+
+    Each real year opens with a Winter Solstice, which closes the previous Imperial year
+    (the wiki numbers Winter Solstice 2014 as the fifth event and Spring Equinox 2014 as the
+    sixth). Before the break a real year Y holds Winter (Y-1637)YE then Spring to Autumn
+    (Y-1636)YE; after it the offsets are 1639 and 1638.
+    """
+    y, s = int(season[:3]), season.split()[1]
+    if s == "Winter":
+        year = y + 1637 if y <= 382 else (2022 if y == 383 else y + 1639)
+    else:
+        year = y + 1636 if y <= 383 else y + 1638
+    return f"{EVENT_NAMES[s]} {year}"
+
+
+def real_events(seasons: list, pages: dict) -> list:
+    out = []
+    for s in seasons:
+        name = real_event(s)
+        info = pages.get(name)
+        out.append({"n": name, "u": info["source"] if info else None})
+    return out
+
+
 def first_sentence(body: str, limit: int = 220) -> str:
     for para in body.split("\n\n"):
         text = plain(para).strip()
@@ -94,7 +126,8 @@ def build_events() -> dict:
                                 "path": "../wiki/" + pages[t]["path"], "source": pages[t]["source"]})
     history.sort(key=lambda h: (h["year"], h["territory"]))
     seasons = sorted({e["event"] for e in events}, key=event_key)
-    return {"events": events, "history": history, "seasons": seasons, "counts": dict(counts)}
+    return {"events": events, "history": history, "seasons": seasons, "counts": dict(counts),
+            "real": real_events(seasons, pages)}
 
 
 if __name__ == "__main__":

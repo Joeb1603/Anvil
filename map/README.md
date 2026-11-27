@@ -45,7 +45,26 @@ to Greenwall and Ribeira after they were conquered, and the per-region picture a
 start (only whole-territory holders are known for 376YE Winter). Treat the earliest seasons
 as the least certain.
 
-Seasons within an Imperial year run Spring, Summer, Autumn, Winter.
+Seasons within an Imperial year run Spring, Summer, Autumn, Winter. In real life each year's
+events open with a Winter Solstice, which closes the previous Imperial year: the wiki counts
+Winter Solstice 2014 as the fifth Empire event and Spring Equinox 2014 as the sixth. That pattern
+holds before and after the pandemic.
+
+### The Covid break
+
+The Covid lockdown fell between 383YE Autumn (Autumn Equinox 2019) and 383YE Winter. That
+summit's Winds of War were written in March 2020, a couple of weeks before lockdown, and it
+finally ran as Winter Solstice 2022. No events ran in 2020 or 2021 and in-game time paused, so
+real and in-game years drift apart by two:
+
+| | Winter Solstice | Spring to Autumn |
+|---|---|---|
+| Up to 2019 | in-game year + 1637 | in-game year + 1636 |
+| From 2022 | in-game year + 1639 | in-game year + 1638 |
+
+The timeline marks the break and shows the real-world event for every season. The naming rule
+agrees with all 31 wiki event pages that state their in-game season, and with the 4 that give
+their running number.
 
 ## Rebuilding
 
