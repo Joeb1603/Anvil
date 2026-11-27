@@ -8,7 +8,7 @@
   --accent: #1f3a5f; --accent-ink: #ffffff; --sea: #d6e2ec; --land: #e2e6ea; --outline: #2b3644;
   --s1: #257de0; --s2: #f47230; --s3: #00b894; --s4: #f2a600; --s5: #ee7fac; --s6: #008a17; --s7: #6a4ce2; --s8: #ec4647; --s9: #7a8c1e; --s10: #0f9bb5;
   --n1: #8d99a6; --n2: #b9c2cc; --gold: #b8860b; --barb: #a50f2f; --neu: #1d232b;
-  --vallorn: #6d3f6b; --free: #d9cdb2; --emp: #cfa94a; --hl: #000000;
+  --vallorn: #6d3f6b; --free: #d9cdb2; --emp: #cfa94a; --hl: #000000; --bline: #1d232b;
   --display: "Alegreya Sans SC", "Alegreya Sans", "Segoe UI", system-ui, sans-serif;
   --body: "Alegreya Sans", "Segoe UI", system-ui, -apple-system, sans-serif;
 }
@@ -17,13 +17,13 @@
   --accent: #a9c4e6; --accent-ink: #0f151c; --sea: #0b1118; --land: #232d39; --outline: #c9d3de;
   --s1: #338ced; --s2: #e76624; --s3: #00a888; --s4: #d28e05; --s5: #e24d8b; --s6: #0aac23; --s7: #9887ef; --s8: #eb6263; --s9: #9aad2c; --s10: #2cb8d0;
   --n1: #66727f; --n2: #414c59; --gold: #e3b341; --barb: #ff4f73; --neu: #e7ecf2;
-  --vallorn: #9a5b95; --free: #5d5542; --emp: #b8913a; --hl: #ffffff; color-scheme: dark } }
+  --vallorn: #9a5b95; --free: #5d5542; --emp: #b8913a; --hl: #ffffff; --bline: #05080b; color-scheme: dark } }
 :root[data-theme="dark"] {
   --bg: #0f151c; --surface: #171f29; --sunk: #121922; --ink: #e7ecf2; --muted: #98a5b4; --line: #2a3644;
   --accent: #a9c4e6; --accent-ink: #0f151c; --sea: #0b1118; --land: #232d39; --outline: #c9d3de;
   --s1: #338ced; --s2: #e76624; --s3: #00a888; --s4: #d28e05; --s5: #e24d8b; --s6: #0aac23; --s7: #9887ef; --s8: #eb6263; --s9: #9aad2c; --s10: #2cb8d0;
   --n1: #66727f; --n2: #414c59; --gold: #e3b341; --barb: #ff4f73; --neu: #e7ecf2;
-  --vallorn: #9a5b95; --free: #5d5542; --emp: #b8913a; --hl: #ffffff; color-scheme: dark }
+  --vallorn: #9a5b95; --free: #5d5542; --emp: #b8913a; --hl: #ffffff; --bline: #05080b; color-scheme: dark }
 
 html, body { height: 100%; }
 body { background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.4; }
@@ -54,16 +54,16 @@ a { color: var(--accent); }
 .mapwrap { position: relative; background: var(--sea); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; min-height: 300px; display: flex; flex-direction: column; }
 #map { width: 100%; flex: 1; min-height: 0; display: block; touch-action: none; cursor: grab; user-select: none; }
 #map.drag { cursor: grabbing; }
-.cell { stroke: var(--surface); stroke-width: 1; vector-effect: non-scaling-stroke; cursor: pointer; }
+.cell { stroke: var(--bline); stroke-opacity: 0; stroke-width: 1; vector-effect: non-scaling-stroke; cursor: pointer; }
 /* the dark boundary lines follow the label mode: nations, territories (default) or regions */
-.natline { fill: none; stroke: var(--outline); stroke-width: 1.4; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; display: none; }
+.natline { fill: none; stroke: var(--bline); stroke-width: 1.4; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; display: none; }
 #map[data-lines="nations"] .natline { display: inline; }
 #map[data-lines="nations"] .outline:not(.sel) { stroke-opacity: 0; }
-#map[data-lines="regions"] .cell { stroke: var(--outline); stroke-width: 0.9; }
+#map[data-lines="regions"] .cell { stroke-opacity: 1; stroke-width: 0.9; }
 .cell.dim, .pat.dim, .fight.dim { opacity: .18; }
 .pat { pointer-events: none; }
 .sea { fill: var(--sea); stroke: none; }
-.outline { fill: none; stroke: var(--outline); stroke-width: 1.4; vector-effect: non-scaling-stroke; pointer-events: none; }
+.outline { fill: none; stroke: var(--bline); stroke-width: 1.4; vector-effect: non-scaling-stroke; pointer-events: none; }
 .outline.sel { stroke: var(--ink); stroke-width: 3.2; }
 .outline.approx { stroke-dasharray: 6 4; }
 /* selection: a bold line drawn just outside whatever is selected (nation, territory or region) */
@@ -509,7 +509,6 @@ function init(D) {
       else if (st.sel && st.fromList) out = c.t.name !== st.sel.t || (!!st.sel.r && c.r !== st.sel.r);
       c.base.classList.toggle("dim", out); c.pat.classList.toggle("dim", out); c.fight.classList.toggle("dim", out);
       if (st.mode === "holder") c.base.style.fillOpacity = 1;
-      c.base.style.strokeOpacity = st.regions ? 1 : 0;
       c.fight.style.display = st.fight && fightAt(c.t.name, c.r, st.s) ? "" : "none";
     }
     for (const t of T) {

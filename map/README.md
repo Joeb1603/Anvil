@@ -28,8 +28,8 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   the region you open. Clicking the map (including a faded area, which selects nothing), empty space or another tab ends that and returns to the
   chosen label mode.
 - **Boundary lines** follow the label mode: dark lines around each nation's land in Nations view,
-  around territories in Territories view, around regions in Regions view. Region borders are always
-  shown faintly; colours show each region's real holder, and a split
+  around territories in Territories view, around regions in Regions view (region borders are
+  hidden until then), in the same dark colour in light and dark mode; colours show each region's real holder, and a split
   territory reads "Mostly held by X (5 of 7 regions)".
 - **Borders:** gold edges land held by Imperial nations, crimson land held by barbarians (Jotun,
   Druj, Grendel, Thule and barbarian orc bands), and a dark line neutral land (the vallorn,
