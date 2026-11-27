@@ -438,12 +438,14 @@ function init(D) {
   function zoomAt(px, py, f) { const k = Math.max(1, Math.min(14, st.k * f)); f = k / st.k; st.x = px - (px - st.x) * f; st.y = py - (py - st.y) * f; st.k = k; clamp(); apply(); }
   function clamp() { const mx = vw * (st.k - 1), my = vh * (st.k - 1); st.x = Math.min(vx * (1 - st.k) + 0, Math.max(st.x, vx * (1 - st.k) - mx)); st.y = Math.min(vy * (1 - st.k), Math.max(st.y, vy * (1 - st.k) - my)); }
   svg.addEventListener("wheel", ev => { ev.preventDefault(); const [px, py] = toMap(ev); zoomAt(px, py, ev.deltaY < 0 ? 1.25 : 0.8); }, { passive: false });
-  svg.addEventListener("pointerdown", ev => { ptrs.set(ev.pointerId, ev); moved = false; svg.setPointerCapture(ev.pointerId); });
+  // capture the pointer only once a drag starts: capturing on press would send every click to the map background
+  const grab = ev => { if (!svg.hasPointerCapture(ev.pointerId)) try { svg.setPointerCapture(ev.pointerId); } catch (e) {} };
+  svg.addEventListener("pointerdown", ev => { ptrs.set(ev.pointerId, ev); moved = false; });
   svg.addEventListener("pointermove", ev => {
     if (!ptrs.has(ev.pointerId)) return; const prev = ptrs.get(ev.pointerId); ptrs.set(ev.pointerId, ev);
-    if (ptrs.size === 1) { const a = toMap(prev), b = toMap(ev); if (Math.abs(ev.clientX - prev.clientX) + Math.abs(ev.clientY - prev.clientY) > 2) { moved = true; svg.classList.add("drag"); }
+    if (ptrs.size === 1) { const a = toMap(prev), b = toMap(ev); if (Math.abs(ev.clientX - prev.clientX) + Math.abs(ev.clientY - prev.clientY) > 2) { moved = true; svg.classList.add("drag"); grab(ev); }
       st.x += b[0] - a[0]; st.y += b[1] - a[1]; clamp(); vp.setAttribute("transform", `translate(${st.x} ${st.y}) scale(${st.k})`); }
-    else if (ptrs.size === 2) { const [p, q] = [...ptrs.values()], d = Math.hypot(p.clientX - q.clientX, p.clientY - q.clientY); moved = true;
+    else if (ptrs.size === 2) { const [p, q] = [...ptrs.values()], d = Math.hypot(p.clientX - q.clientX, p.clientY - q.clientY); moved = true; grab(ev);
       if (pinch) { const c = toMap({ clientX: (p.clientX + q.clientX) / 2, clientY: (p.clientY + q.clientY) / 2 }); zoomAt(c[0], c[1], d / pinch); } pinch = d; }
   });
   const up = ev => { ptrs.delete(ev.pointerId); pinch = 0; svg.classList.remove("drag"); setTimeout(() => { moved = false; }, 0); };
