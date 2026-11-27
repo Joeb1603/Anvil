@@ -54,7 +54,7 @@ a { color: var(--accent); }
 .mapwrap { position: relative; background: var(--sea); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; min-height: 300px; display: flex; flex-direction: column; }
 #map { width: 100%; flex: 1; min-height: 0; display: block; touch-action: none; cursor: grab; user-select: none; }
 #map.drag { cursor: grabbing; }
-.cell { stroke: var(--bline); stroke-opacity: 0; stroke-width: 1; vector-effect: non-scaling-stroke; cursor: pointer; stroke-linejoin: round; fill-rule: evenodd; }
+.cell { stroke: var(--bline); stroke-opacity: .22; stroke-width: 0.7; vector-effect: non-scaling-stroke; cursor: pointer; stroke-linejoin: round; fill-rule: evenodd; }
 /* the dark boundary lines follow the label mode: nations, territories (default) or regions */
 .natline { fill: none; stroke: var(--bline); stroke-width: 1.3; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; display: none; }
 #map[data-lines="nations"] .natline { display: inline; }
@@ -535,11 +535,7 @@ function init(D) {
       c.hid = hid;
       if (st.mode === "holder") {
         c.base.style.fill = fillFor(hid);
-        // outside region view, each shape's edge is drawn in its own colour, which hides the faint seam
-        // browsers leave between two touching shapes (it reads as a stray line inside a nation)
-        const seamless = lab() !== "regions";
-        c.base.style.stroke = seamless ? fillFor(hid) : ""; c.base.style.strokeOpacity = seamless ? 1 : "";
-        c.base.style.strokeWidth = seamless ? "0.7px" : "";
+
         const p = (H[hid] || H.unknown).pattern;
         c.pat.setAttribute("fill", p ? `url(#${p})` : "none");
       } else {
