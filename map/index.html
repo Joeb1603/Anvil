@@ -193,13 +193,93 @@ details.hist summary { cursor: pointer; font-weight: 700; }
   .transport { grid-column: 2; grid-row: 1; align-self: center; }
   .track { grid-column: 1 / -1; grid-row: 2; }
 }
+.ph { display: none; }
+/* ---- phones: the map fills the screen; options, keys and the info panel slide over it ---- */
+@media (max-width: 760px) {
+  .ph { display: revert; }
+  html, body { height: 100%; overflow: hidden; overscroll-behavior: none; margin: 0; }
+  .app { height: 100dvh; height: 100svh; grid-template-rows: auto minmax(0, 1fr) auto; gap: 6px; padding-block: 6px max(6px, env(safe-area-inset-bottom, 0px)); }
+  .top { flex-wrap: nowrap; gap: 8px; position: relative; }
+  .brand { font-size: 1.2rem; white-space: nowrap; }
+  .brand small { display: none; }
+  .phbtns { display: flex; gap: 6px; margin-left: auto; }
+  .phbtns button { width: 40px; height: 36px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); font-size: 1.15rem; cursor: pointer; }
+  .phbtns button[aria-expanded="true"] { background: var(--accent); color: var(--accent-ink); }
+  /* options sheet and search drop down from the header */
+  .controls { display: none; position: absolute; z-index: 40; top: calc(100% + 6px); left: 0; right: 0; margin: 0;
+    flex-direction: column; align-items: stretch; gap: 10px; background: var(--surface); border: 1px solid var(--line);
+    border-radius: 10px; padding: 12px; box-shadow: 0 10px 30px rgb(0 0 0 / .25); }
+  .top.opts .controls, .top.find .controls { display: flex; }
+  .top.find .controls > :not(.search) { display: none; }
+  .top.opts .search { display: none; }
+  .labgroup { flex-direction: column; align-items: flex-start; gap: 6px; }
+  .seg { flex-wrap: wrap; }
+  .seg button { padding: 7px 11px; font-size: .95rem; }
+  .check { padding: 4px 0; font-size: 1rem; }
+  .check input { width: 20px; height: 20px; }
+  .search input { width: 100%; font-size: 16px; padding: 9px 11px; }
+  .results { position: static; width: 100%; max-height: 50vh; box-shadow: none; margin-top: 6px; }
+  .results button { padding: 9px 8px; }
+  .phnote { font-size: .78rem; color: var(--muted); border-top: 1px solid var(--line); padding-top: 8px; }
+  /* map fills the space; the info panel is a sheet over its lower part */
+  .main { display: block; position: relative; min-height: 0; height: 100%; }
+  .mapwrap { height: 100%; min-height: 0; border-radius: 10px; }
+  #map { flex: 1; aspect-ratio: auto; min-height: 0; }
+  .note, .tip { display: none !important; }
+  .zoom { top: 8px; right: 8px; }
+  .zoom button { width: 40px; height: 40px; font-size: 1.25rem; }
+  .keybtn { position: absolute; left: 8px; top: 8px; z-index: 6; height: 36px; padding: 0 12px; border: 1px solid var(--line); border-radius: 8px;
+    background: color-mix(in srgb, var(--surface) 92%, transparent); font-weight: 700; cursor: pointer; }
+  .keybtn[aria-expanded="true"] { background: var(--accent); color: var(--accent-ink); }
+  .keys { display: none; top: 52px; bottom: 8px; left: 8px; max-width: 78%; }
+  .mapwrap.keys-open .keys { display: flex; }
+  .panel { position: absolute; z-index: 20; left: 0; right: 0; bottom: 0; max-height: none; border-radius: 14px 14px 0 0;
+    box-shadow: 0 -6px 24px rgb(0 0 0 / .22); transition: height .22s ease; height: 86px; }
+  .panel[data-sheet="half"] { height: 48%; }
+  .panel[data-sheet="full"] { height: calc(100% - 8px); }
+  .panel[data-sheet="closed"] .pbody { visibility: hidden; }
+  .handle { display: flex; flex-direction: column; align-items: center; gap: 3px; padding: 6px 12px 2px; cursor: grab; touch-action: none; user-select: none; }
+  .grip { width: 40px; height: 4px; border-radius: 2px; background: var(--line); }
+  #htitle { font-family: var(--display); font-weight: 700; font-size: .95rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
+  .tabs button { padding: 7px 4px; }
+  .pbody { overflow: auto; overscroll-behavior: contain; padding-bottom: 24px; }
+  /* compact season bar */
+  .rail { position: static; grid-template-columns: minmax(0, 1fr) auto; padding: 6px 10px 5px; gap: 3px 10px; }
+  .now { grid-column: 1; grid-row: 1; font-size: 1.05rem; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .now small { display: none; }
+  .transport { grid-column: 2; grid-row: 1; }
+  .transport button { min-width: 42px; height: 36px; padding: 0 10px; }
+  .track { grid-column: 1 / -1; grid-row: 2; }
+  #hist { height: 18px; }
+}
+/* phones on their side: a single-row season bar and a slimmer header, so the map keeps its height */
+@media (max-width: 760px) and (max-height: 480px) {
+  .app { gap: 4px; padding-block: 4px max(4px, env(safe-area-inset-bottom, 0px)); }
+  .brand { font-size: 1rem; }
+  .phbtns button { height: 30px; width: 36px; font-size: 1rem; }
+  .rail { grid-template-columns: auto minmax(0, 1fr) auto; padding: 3px 8px; }
+  .now { grid-column: 1; grid-row: 1; font-size: .95rem; }
+  .track { grid-column: 2; grid-row: 1; }
+  .transport { grid-column: 3; grid-row: 1; }
+  .transport button { height: 30px; min-width: 36px; }
+  #hist, #years { display: none; }
+  .zoom button { width: 34px; height: 34px; }
+  .panel { height: 70px; }
+  /* open, the panel sits down the right-hand side, leaving the map visible on the left */
+  .panel[data-sheet="half"], .panel[data-sheet="full"] { top: 0; left: auto; width: 50%; height: 100%; border-radius: 12px 0 0 12px; box-shadow: -6px 0 24px rgb(0 0 0 / .22); }
+  .panel[data-sheet="full"] { width: 72%; }
+}
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
 
 <div class="app">
   <header class="top">
     <h1 class="brand">Empire Atlas <small id="snap"></small></h1>
-    <div class="controls">
+    <div class="phbtns ph">
+      <button id="ph-search" aria-label="Find a place or event" aria-expanded="false">⌕</button>
+      <button id="ph-opts" aria-label="Map options" aria-expanded="false">☰</button>
+    </div>
+    <div class="controls" id="controls">
       <div class="labgroup">Labels
         <div class="seg" role="group" aria-label="Map labels">
           <button id="lab-auto" aria-pressed="true" title="Nations when zoomed out, territories in between, regions close up">Auto</button>
@@ -217,12 +297,14 @@ details.hist summary { cursor: pointer; font-weight: 700; }
         <input id="q" type="search" placeholder="Find a place or event" autocomplete="off" aria-label="Find a place or event">
         <div class="results" id="results" hidden></div>
       </div>
+      <div class="phnote ph">Territory outlines are from the wiki's own map; region borders are approximate. Event text © Profound Decisions, <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>, from the <a href="https://www.profounddecisions.co.uk/empire-wiki/Main_Page" target="_blank" rel="noopener">Empire wiki</a>.</div>
     </div>
   </header>
 
   <div class="main">
     <div class="mapwrap" id="mapwrap">
       <svg id="map" role="img" aria-label="Map of the Empire and neighbouring territories"></svg>
+      <button class="keybtn ph" id="ph-key" aria-expanded="false">Key</button>
       <div class="keys"><div class="flegend" id="flegend"><span class="fkey"><i class="gold"></i>Imperial lands</span><span class="fkey"><i class="barb"></i>Barbarian lands</span><span class="fkey" title="The vallorn, uncontrolled land and other powers"><i class="neu"></i>Neutral lands</span><span class="xkey"><i class="fightkey"></i>Fighting reported</span></div>
         <details class="nkey" id="nkey"><summary>Nations</summary><div class="nk" id="nk"></div></details></div>
       <div class="zoom">
@@ -233,7 +315,8 @@ details.hist summary { cursor: pointer; font-weight: 700; }
       <div class="note">Territory outlines are from the wiki's own map. Region borders are approximate: each region is placed by its label on the wiki's picture maps. Event text © Profound Decisions, <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>, from the <a href="https://www.profounddecisions.co.uk/empire-wiki/Main_Page" target="_blank" rel="noopener">Empire wiki</a>.</div>
       <div class="tip" id="tip" hidden></div>
     </div>
-    <aside class="panel">
+    <aside class="panel" id="panel" data-sheet="closed">
+      <div class="handle ph" id="handle" role="button" tabindex="0" aria-label="Show or hide the information panel"><span class="grip"></span><span id="htitle"></span></div>
       <div class="tabs" role="tablist">
         <button role="tab" id="tab-place" aria-selected="true">Info</button>
         <button role="tab" id="tab-holders" aria-selected="false">Nations</button>
@@ -278,7 +361,8 @@ function init(D) {
   const types = [...new Set(D.events.map(e => e.ty))];
   const busy = S.map((_, i) => D.events.filter(e => e.s === i).length);
   let open = last; while (open > 0 && busy[open] < 10) open--;
-  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "auto", names: true, labOverride: null, fromList: false, front: true, isoFrom: "list", fight: true, back: [] };
+  const phoneMQ = matchMedia("(max-width: 760px)"), phone = () => phoneMQ.matches;
+  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "auto", names: true, sheet: "closed", labOverride: null, fromList: false, front: true, isoFrom: "list", fight: true, back: [] };
   $("snap").textContent = "wiki snapshot " + D.meta.snapshot.slice(0, 10);
 
   // ---- control state: holder of every place at every season, worked out by the build (one source of truth)
@@ -334,13 +418,13 @@ function init(D) {
       cells.push(c);
       if (!t.sea) {
         base.addEventListener("click", () => { if (moved) return;
-          if (base.classList.contains("dim")) { leaveList(); st.back = []; st.sel = null; st.iso = null; render(); return; }
+          if (base.classList.contains("dim")) { leaveList(); st.back = []; st.sel = null; st.iso = null; if (phone()) st.sheet = "closed"; render(); return; }
           const m = lab(); leaveList();
           if (m === "nations") pickNation(r.name ? holderAt(t.name, r.name, st.s) : holderAt(t.name, "", st.s), "map");
           else if (m === "territories") select(t.name, "");
           else if (m === "regions") select(t.name, r.name);
           else select(t.name, r.name); });
-        base.addEventListener("pointermove", ev => tip(ev, c));
+        base.addEventListener("pointermove", ev => { if (ev.pointerType !== "touch") tip(ev, c); });
         base.addEventListener("pointerleave", () => { $("tip").hidden = true; });
       }
     }
@@ -492,7 +576,8 @@ function init(D) {
       for (const [id, x, y, r] of (D.nlabels || [])[st.s] || []) {
         if (named.has(id) || (H[id] || {}).group !== "Imperial nations") continue; named.add(id);
         const name = shortName(id).toUpperCase(), fs = 9.5;
-        const at = spot(x, y, name.length * fs * 0.8, fs * 1.4, NUDGE.length) || { x, y };
+        const at = spot(x, y, name.length * fs * 0.8, fs * 1.4, NUDGE.length) || (phone() ? null : { x, y });
+        if (!at) continue;
         if (at.b) placed.push(at.b);
         const tx = natLabel(n++); tx.dataset.id = id; tx.textContent = name; tx.setAttribute("x", at.x); tx.setAttribute("y", at.y);
         tx.style.fontSize = fs * u + "px"; tx.style.strokeWidth = 3 * u + "px"; tx.style.letterSpacing = 0.1 * fs * u + "px"; tx.style.display = "";
@@ -601,13 +686,15 @@ function init(D) {
       else if (next && st.sel && (st.sel.t !== next.t || st.sel.r !== next.r)) st.back.push(st.sel);
       if (!next) { st.back = []; leaveList(); } }
     if (st.back.length > 30) st.back.shift();
-    st.sel = next; st.iso = null; st.tab = "place"; render(); }
+    st.sel = next; st.iso = null; st.tab = "place";
+    if (phone()) st.sheet = next ? (st.sheet === "full" ? "full" : "half") : "closed";
+    render(); }
   const goBack = () => { const prev = st.back.pop();
     if (prev && prev.iso) { st.sel = null; st.iso = prev.iso; st.isoFrom = prev.from; if (st.fromList) st.labOverride = "territories"; st.tab = prev.from === "map" ? "place" : "holders"; render(); scrollToNation(); return; }
     select(prev ? prev.t : null, prev ? prev.r : "", true); };
   const scrollToNation = () => { const row = $("pbody").querySelector('.row[aria-pressed="true"]'); if (row) row.scrollIntoView({ block: "nearest" }); };
   svg.addEventListener("click", e => { if (moved || e.target.closest(".cell, .mark")) return;
-    if (st.sel || st.iso) { leaveList(); st.back = []; st.sel = null; st.iso = null; render(); } });
+    if (st.sel || st.iso) { leaveList(); st.back = []; st.sel = null; st.iso = null; if (phone()) st.sheet = "closed"; render(); } });
   const swatch = id => { const x = H[id] || H.unknown; const s = h("span", { className: "sw" }); s.style.background = `var(--${x.slot})`;
     if (x.pattern === "hatch") s.style.backgroundImage = "repeating-linear-gradient(45deg, transparent 0 3px, var(--surface) 3px 5px)";
     if (x.pattern === "dots") s.style.backgroundImage = "radial-gradient(var(--surface) 1.5px, transparent 2px)", s.style.backgroundSize = "5px 5px"; return s; };
@@ -793,7 +880,7 @@ function init(D) {
     if (from === "list") { st.fromList = true; st.labOverride = "territories"; } else leaveList();
     st.iso = st.iso === id && st.isoFrom === from ? null : id; st.isoFrom = from; st.sel = null; st.back = [];
     if (!st.iso) leaveList();
-    if (from === "map") st.tab = "place";  // the map opens things in the Info tab
+    if (from === "map") { st.tab = "place"; if (phone() && st.iso) st.sheet = st.sheet === "full" ? "full" : "half"; }  // the map opens things in the Info tab
     else { st.keep = st.keep || st.tab === "holders"; st.tab = "holders"; }  // the list never jumps: same order, same scroll
     render(); st.keep = false; scrollToNation();
   }
@@ -803,7 +890,7 @@ function init(D) {
   $("show-front").onchange = e => { st.front = e.target.checked; frontiers(); };
   $("show-names").onchange = e => { st.names = e.target.checked; paint(); };
   $("show-fight").onchange = e => { st.fight = e.target.checked; frontiers(); paint(); };
-  for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).onclick = () => { if (tab !== st.tab) { st.iso = null; if (tab !== "place") st.sel = null; st.back = []; leaveList(); } st.tab = tab; render(); };
+  for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).onclick = () => { if (phone() && st.sheet === "closed") st.sheet = "half"; if (tab !== st.tab) { st.iso = null; if (tab !== "place") st.sel = null; st.back = []; leaveList(); } st.tab = tab; render(); };
   const q = $("q"), res = $("results");
   const index = []; for (const t of T) { if (t.sea) continue; index.push({ label: t.name, sub: "Territory", go: () => { select(t.name, ""); focusOn(t); } });
     for (const r of t.regions) index.push({ label: r.name, sub: "Region of " + t.name, go: () => { select(t.name, r.name); focusOn(t); } }); }
@@ -811,7 +898,7 @@ function init(D) {
   q.addEventListener("input", () => { const v = q.value.trim().toLowerCase(); res.innerHTML = ""; if (v.length < 2) { res.hidden = true; return; }
     const hits = index.filter(x => x.label.toLowerCase().includes(v)).sort((a, b) => a.label.toLowerCase().indexOf(v) - b.label.toLowerCase().indexOf(v)).slice(0, 14);
     if (!hits.length) res.append(h("div", { className: "empty", textContent: "No place or event matches.", style: "padding:6px 8px" }));
-    for (const x of hits) res.append(h("button", { onclick: () => { res.hidden = true; q.value = ""; x.go(); } }, x.label, h("small", { textContent: x.sub }))); res.hidden = false; });
+    for (const x of hits) res.append(h("button", { onclick: () => { res.hidden = true; q.value = ""; closeMenus(); x.go(); } }, x.label, h("small", { textContent: x.sub }))); res.hidden = false; });
   document.addEventListener("click", e => { if (!e.target.closest(".search")) res.hidden = true; });
 
   // the nation colour key: every power holding land this season, by group; click one to open it
@@ -827,8 +914,33 @@ function init(D) {
         swatch(x.id), h("span", { textContent: x.name })));
     }
   }
+  // ---- phones: header menus, the key button, the info sheet and double-tap zoom
+  const top = document.querySelector(".top"), panel = $("panel");
+  function closeMenus() { top.classList.remove("opts", "find"); $("ph-opts").setAttribute("aria-expanded", false); $("ph-search").setAttribute("aria-expanded", false); }
+  $("ph-opts").onclick = () => { const on = !top.classList.contains("opts"); closeMenus(); if (on) { top.classList.add("opts"); $("ph-opts").setAttribute("aria-expanded", true); } };
+  $("ph-search").onclick = () => { const on = !top.classList.contains("find"); closeMenus();
+    if (on) { top.classList.add("find"); $("ph-search").setAttribute("aria-expanded", true); setTimeout(() => q.focus(), 0); } };
+  $("ph-key").onclick = () => { const on = !$("mapwrap").classList.contains("keys-open"); $("mapwrap").classList.toggle("keys-open", on); $("ph-key").setAttribute("aria-expanded", on);
+    if (on) try { $("nkey").open = true; } catch (e) {} };
+  svg.addEventListener("pointerdown", () => { if (!phone()) return; closeMenus(); $("mapwrap").classList.remove("keys-open"); $("ph-key").setAttribute("aria-expanded", false); });
+  const LEVELS = ["closed", "half", "full"];
+  const setSheet = v => { st.sheet = v; panel.dataset.sheet = v; };
+  { let y0 = null;
+    $("handle").addEventListener("pointerdown", e => { y0 = e.clientY; try { $("handle").setPointerCapture(e.pointerId); } catch (x) {} });
+    $("handle").addEventListener("pointerup", e => { if (y0 === null) return; const dy = e.clientY - y0, i = LEVELS.indexOf(st.sheet); y0 = null;
+      if (dy < -30) setSheet(LEVELS[Math.min(2, i + 1)]); else if (dy > 30) setSheet(LEVELS[Math.max(0, i - 1)]);
+      else setSheet(LEVELS[(i + 1) % 3]); });
+    $("handle").addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); setSheet(LEVELS[(LEVELS.indexOf(st.sheet) + 1) % 3]); } }); }
+  { let last = null;  // double-tap: zoom in one step where you tapped
+    svg.addEventListener("pointerup", e => { if (e.pointerType !== "touch" || moved) { last = null; return; }
+      const now = Date.now();
+      if (last && now - last.t < 320 && Math.hypot(e.clientX - last.x, e.clientY - last.y) < 30) { const [mx, my] = toMap(e); zoomAt(mx, my, 1.25); last = null; }
+      else last = { t: now, x: e.clientX, y: e.clientY }; }); }
+  phoneMQ.addEventListener("change", () => { if (!phone()) { closeMenus(); setSheet("closed"); } render(); });
   function render() {
     nationKey();
+    panel.dataset.sheet = phone() ? st.sheet : "closed";
+    $("htitle").textContent = st.sel ? (st.sel.r || st.sel.t) : st.iso ? hname(st.iso) : (st.tab === "holders" ? "Nations in " : st.tab === "history" ? "Earlier history" : "") + (st.tab === "history" ? "" : S[st.s]);
     const re = (D.real || [])[st.s];
     $("now").innerHTML = `${esc(S[st.s])}<small>${re ? esc(re.n) + " · " : ""}${evBySeason[st.s].length} located events</small>`;
     bars.forEach((r, i) => r.classList.toggle("on", i === st.s));

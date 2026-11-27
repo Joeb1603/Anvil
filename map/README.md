@@ -41,6 +41,12 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   power; picking one outlines its lands and opens its holdings in place, without moving the
   list. A third tab lists earlier history.
 - **Search** for a territory, region or event title.
+- **On phones** the map fills the screen. ⌕ opens search and ☰ the map options (with the credits);
+  the Key button shows the keys. Tapping a place or nation slides its information up from the
+  bottom (half height, so the map stays in view); drag or tap the handle for full height or to put
+  it away, and tap empty sea to clear. On a phone held sideways the panel opens down the right-hand
+  side instead. Double-tap zooms in one step; pinch and drag as usual. Tablets and computers keep
+  the side-by-side layout.
 
 ## Where the data comes from
 
