@@ -644,7 +644,7 @@ function init(D) {
       return;
     }
     const t = byName[st.sel.t], r = st.sel.r;
-    if (st.back.length) { const p = st.back[st.back.length - 1];
+    if (st.fromList && st.back.length) { const p = st.back[st.back.length - 1];  // only on a journey from the Nations tab
       b.append(h("button", { className: "back", textContent: "← Back to " + (p.iso ? hname(p.iso) : (p.r || p.t)), onclick: goBack })); }
     const crumb = h("div", { className: "crumb" }, h("button", { textContent: "All territories", onclick: () => select(null) }));
     if (r) crumb.append(" › ", h("button", { textContent: t.name, onclick: () => select(t.name, "") }));

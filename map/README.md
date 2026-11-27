@@ -29,8 +29,8 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   changes hands that season or the next, or its territory is split between the Empire and its
   enemies. It's an approximation of "actively contested"; the panel names the reports.
 - **Panel:** the Info tab shows the season, or the selected place: who holds it, its control
-  history and its events, each linked to its wiki page. Moving from a territory to one of its
-  regions (or from a nation to a territory) adds a Back button. The Nations tab lists every
+  history and its events, each linked to its wiki page. Places opened from the Nations tab get a
+  Back button that retraces the way (region, territory, nation). The Nations tab lists every
   power; picking one outlines its lands and opens its holdings in place, without moving the
   list. A third tab lists earlier history.
 - **Search** for a territory, region or event title.
