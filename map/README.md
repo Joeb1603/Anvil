@@ -43,6 +43,9 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   Back button that retraces the way (region, territory, nation). The Nations tab lists every
   power; picking one outlines its lands and opens its holdings in place, without moving the
   list. A third tab lists earlier history.
+- **The Great Sinkhole** (Lorenzo's Deep Pockets), which the wiki's map draws inside Miaren, shows as a
+  black pit from 381YE Summer, when it opened (Wind of Fortune "Rocks and gravel"); before that the
+  spot is ordinary Goldglades land. Hover or click it for what it is.
 - **Search** for a territory, region or event title.
 - **On phones** the map fills the screen. ⌕ opens search and ☰ the map options (with the credits);
   the Key button shows the keys. Tapping a place or nation slides its information up from the

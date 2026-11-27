@@ -38,6 +38,25 @@ def territory_polygons() -> dict:
     return out
 
 
+def map_features() -> dict:
+    """Shapes the wiki's map links to a section of a territory page rather than the page itself, such as
+    the Great Sinkhole (Miaren#The_Great_Sinkhole): {"The Great Sinkhole": {"territory", "anchor", "polys"}}.
+    They stay part of their territory's outline; the build decides which to draw, and from when."""
+    src = glob.glob(str(DATA / "wikitext" / "Main" / "Gazetteer-*.wiki"))[0]
+    block = re.search(r"<imagemap>(.*?)</imagemap>", open(src, encoding="utf-8").read(), re.S | re.I).group(1)
+    out: dict = {}
+    for line in block.splitlines():
+        m = re.match(r"\s*poly\s+([\d\s]+)\[\[([^\]|#]+)#([^\]|]+)", line, re.I)
+        if not m:
+            continue
+        nums = [int(n) for n in m.group(1).split()]
+        anchor = m.group(3).strip()
+        name = anchor.replace("_", " ")
+        f = out.setdefault(name, {"territory": m.group(2).replace("_", " ").strip(), "anchor": anchor, "polys": []})
+        f["polys"].append([[nums[i], nums[i + 1]] for i in range(0, len(nums) - 1, 2)])
+    return out
+
+
 if __name__ == "__main__":
     t = territory_polygons()
     MAP_DIR.mkdir(exist_ok=True)

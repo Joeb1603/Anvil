@@ -70,6 +70,11 @@ a { color: var(--accent); }
 .selhalo { fill: none; stroke: var(--surface); stroke-width: 11px; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; }
 .selline { fill: none; stroke: var(--hl); stroke-width: 6px; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; }
 .fight { pointer-events: none; }
+/* physical features such as the Great Sinkhole: a black pit with a faint rim */
+.pit { fill: #07090c; stroke: #5b6470; stroke-width: 1.2; vector-effect: non-scaling-stroke; cursor: pointer; }
+.pit.dim { opacity: .4; }
+.flabel { font-family: var(--body); font-style: italic; font-weight: 500; fill: var(--ink); text-anchor: middle; dominant-baseline: central; pointer-events: none;
+  paint-order: stroke; stroke: var(--surface); stroke-width: 2.5px; stroke-linejoin: round; }
 .tlabel { font-family: var(--display); font-weight: 700; fill: var(--ink); text-anchor: middle; dominant-baseline: central; pointer-events: none;
   paint-order: stroke; stroke: var(--surface); stroke-width: 3px; stroke-linejoin: round; letter-spacing: .03em; }
 .rlabel { font-family: var(--body); font-weight: 500; fill: var(--ink); text-anchor: middle; dominant-baseline: central; pointer-events: none;
@@ -405,7 +410,7 @@ function init(D) {
   { const p = el("pattern", { id: "fightpat", width: 8, height: 8, patternUnits: "userSpaceOnUse" }, defs);
     p.innerHTML = '<path d="M0 0L8 8M8 0L0 8" style="stroke:var(--ink);stroke-width:1.3;opacity:.75"/>'; }
   mkPat("dots", '<circle cx="3.5" cy="3.5" r="1.5" style="fill:var(--surface);opacity:.8"/>');
-  const vp = el("g", {}, svg), gLand = el("g", {}, vp), gOut = el("g", {}, vp), natLine = el("path", { class: "natline" }, vp), gFront = el("g", {}, vp), gFight = el("g", {}, vp), gSel = el("g", {}, vp), gLab = el("g", {}, vp), gNat = el("g", {}, vp), gMark = el("g", {}, vp);
+  const vp = el("g", {}, svg), gLand = el("g", {}, vp), gOut = el("g", {}, vp), natLine = el("path", { class: "natline" }, vp), gFront = el("g", {}, vp), gFight = el("g", {}, vp), gFeat = el("g", {}, vp), gSel = el("g", {}, vp), gLab = el("g", {}, vp), gNat = el("g", {}, vp), gMark = el("g", {}, vp);
   const cells = [];
   for (const t of T) {
     const parts = t.regions.length ? t.regions : [{ name: "", polys: t.polys }];
@@ -438,6 +443,17 @@ function init(D) {
     if (!t.sea) { t.mark = el("g", { class: "mark" }, gMark); t.mc = el("circle", { cx: t.centre[0], cy: t.centre[1] }, t.mark); t.mt = el("text", { x: t.centre[0], y: t.centre[1] }, t.mark);
       t.mark.addEventListener("click", () => { leaveList(); select(t.name, ""); }); }
   }
+  // physical features (the Great Sinkhole): drawn from the season they appeared
+  const feats = (D.features || []).map(f => { const g = el("path", { d: pathOf(f.polys), class: "pit" }, gFeat);
+    const lb = el("text", { class: "flabel" }, gLab); lb.textContent = f.name.replace(/^The /, "");
+    const xs = f.polys.flat().map(p => p[0]), ys = f.polys.flat().map(p => p[1]);
+    const x = { f, g, lb, cx: (Math.min(...xs) + Math.max(...xs)) / 2, cy: (Math.min(...ys) + Math.max(...ys)) / 2 };
+    g.addEventListener("click", e => { e.stopPropagation(); if (moved) return; leaveList(); selectFeature(f); });
+    g.addEventListener("pointermove", ev => { if (ev.pointerType === "touch") return; const box = $("mapwrap").getBoundingClientRect(), tp = $("tip");
+      tp.innerHTML = `<b>${esc(f.name)}</b><div>${esc(f.aka)}</div><div>Opened ${esc(S[f.s])}</div>`; tp.hidden = false;
+      tp.style.left = Math.min(ev.clientX - box.left + 14, box.width - tp.offsetWidth - 6) + "px"; tp.style.top = Math.min(ev.clientY - box.top + 14, box.height - tp.offsetHeight - 6) + "px"; });
+    g.addEventListener("pointerleave", () => { $("tip").hidden = true; });
+    return x; });
   // selection outline: stroke the selected area's outline, masked so only the half outside it shows;
   // internal borders between selected cells fall inside the mask and disappear
   const selMask = el("mask", { id: "selmask", maskUnits: "userSpaceOnUse", x: vx - vw, y: vy - vh, width: vw * 3, height: vh * 3 }, defs);
@@ -523,6 +539,11 @@ function init(D) {
         t.mark.style.display = n ? "" : "none"; t.markN = n;
         if (n) showMark({ g: t.mark, c: t.mc, t: t.mt }, t.centre[0], t.centre[1], n, unit() * (svg.clientWidth < 520 ? 0.7 : 1)); }
     }
+    // features exist from their season on; named once zoomed in past nations
+    for (const x of feats) { const on = st.s >= x.f.s; x.g.style.display = on ? "" : "none";
+      x.g.classList.toggle("dim", !!((st.iso && st.isoFrom === "list") || (st.sel && st.fromList)));
+      const u = unit(); x.lb.style.display = on && lab() !== "nations" && lab() !== "none" ? "" : "none";
+      x.lb.setAttribute("x", x.cx); x.lb.setAttribute("y", x.cy); x.lb.style.fontSize = 10 * u + "px"; x.lb.style.strokeWidth = 2.5 * u + "px"; }
     // dark boundary lines for the label mode in force; in Nations mode, around each power's land
     const lm = lab(); svg.dataset.lines = lm === "nations" ? "nations" : lm === "regions" ? "regions" : "territories";
     if (lm === "nations" && D.frontiers && natLine.dataset.k !== String(D.frontiers.season[st.s])) {
@@ -702,7 +723,7 @@ function init(D) {
       else if (next && st.sel && (st.sel.t !== next.t || st.sel.r !== next.r)) st.back.push(st.sel);
       if (!next) { st.back = []; leaveList(); } }
     if (st.back.length > 30) st.back.shift();
-    st.sel = next; st.iso = null; st.tab = "place";
+    st.sel = next; st.iso = null; st.feat = null; st.tab = "place";
     if (phone()) st.sheet = next ? (st.sheet === "full" ? "full" : "half") : "closed";
     render(); }
   const goBack = () => { const prev = st.back.pop();
@@ -710,7 +731,7 @@ function init(D) {
     select(prev ? prev.t : null, prev ? prev.r : "", true); };
   const scrollToNation = () => { const row = $("pbody").querySelector('.row[aria-pressed="true"]'); if (row) row.scrollIntoView({ block: "nearest" }); };
   svg.addEventListener("click", e => { if (moved || e.target.closest(".cell, .mark")) return;
-    if (st.sel || st.iso) { leaveList(); st.back = []; st.sel = null; st.iso = null; if (phone()) st.sheet = "closed"; render(); } });
+    if (st.sel || st.iso || st.feat) { leaveList(); st.back = []; st.sel = null; st.iso = null; st.feat = null; if (phone()) st.sheet = "closed"; render(); } });
   const swatch = id => { const x = H[id] || H.unknown; const s = h("span", { className: "sw" }); s.style.background = `var(--${x.slot})`;
     if (x.pattern === "hatch") s.style.backgroundImage = "repeating-linear-gradient(45deg, transparent 0 3px, var(--surface) 3px 5px)";
     if (x.pattern === "dots") s.style.backgroundImage = "radial-gradient(var(--surface) 1.5px, transparent 2px)", s.style.backgroundSize = "5px 5px"; return s; };
@@ -730,7 +751,21 @@ function init(D) {
     for (const ty of types) { const b = h("button", { textContent: ty }); b.setAttribute("aria-pressed", st.types.has(ty));
       b.onclick = () => { st.types.has(ty) ? st.types.delete(ty) : st.types.add(ty); render(); }; c.append(b); } return c; }
 
+  function selectFeature(f) { st.feat = f; st.sel = null; st.iso = null; st.back = []; st.tab = "place";
+    if (phone()) st.sheet = st.sheet === "full" ? "full" : "half"; render(); }
+  function panelFeature(b, f) {
+    b.append(h("div", { className: "crumb" }, h("button", { textContent: "Season overview", onclick: () => { st.feat = null; render(); } })),
+      h("h2", { textContent: f.name }), h("div", { className: "crumb", textContent: `${f.aka} · in ${f.t} · opened ${S[f.s]}` }));
+    if (st.s < f.s) b.append(h("div", { className: "callout" }, h("b", { textContent: "Not yet" }), `In ${S[st.s]} the ground here is still ordinary land; the pit opens in ${S[f.s]}.`));
+    b.append(h("p", { textContent: f.note }));
+    const links = h("div", { className: "crumb" });
+    if (f.u) links.append(h("a", { href: f.u, target: "_blank", rel: "noopener", textContent: "Read about it on the wiki" }));
+    if (f.su) links.append(" · ", h("a", { href: f.su, target: "_blank", rel: "noopener", textContent: f.src }));
+    if (f.tu) links.append(" · ", h("a", { href: f.tu, target: "_blank", rel: "noopener", textContent: f.title }));
+    b.append(links);
+  }
   function panelPlace(b) {
+    if (st.feat && !st.sel && !st.iso) return panelFeature(b, st.feat);
     if (!st.sel && !st.iso) {
       const evs = evBySeason[st.s].filter(e => st.types.has(e.ty));
       b.append(h("h2", { textContent: S[st.s] }));
@@ -897,7 +932,7 @@ function init(D) {
   function pickNation(id, from = "list") {
     if (!id || id === "unknown") return;
     if (from === "list") { st.fromList = true; st.labOverride = "territories"; } else leaveList();
-    st.iso = st.iso === id && st.isoFrom === from ? null : id; st.isoFrom = from; st.sel = null; st.back = [];
+    st.iso = st.iso === id && st.isoFrom === from ? null : id; st.isoFrom = from; st.sel = null; st.feat = null; st.back = [];
     if (!st.iso) leaveList();
     if (from === "map") { st.tab = "place"; if (phone() && st.iso) st.sheet = st.sheet === "full" ? "full" : "half"; }  // the map opens things in the Info tab
     else { st.keep = st.keep || st.tab === "holders"; st.tab = "holders"; }  // the list never jumps: same order, same scroll
@@ -963,7 +998,7 @@ function init(D) {
     const re = (D.real || [])[st.s];
     $("now").innerHTML = `${esc(S[st.s])}<small>${re ? esc(re.n) + " · " : ""}${evBySeason[st.s].length} located events</small>`;
     bars.forEach((r, i) => r.classList.toggle("on", i === st.s));
-    $("tab-place").textContent = st.sel ? (st.sel.r || st.sel.t) : st.iso && st.isoFrom === "map" ? hname(st.iso).replace(/\s*\(.*\)$/, "") : "Info";
+    $("tab-place").textContent = st.sel ? (st.sel.r || st.sel.t) : st.feat && !st.iso ? st.feat.name.replace(/^The /, "") : st.iso && st.isoFrom === "map" ? hname(st.iso).replace(/\s*\(.*\)$/, "") : "Info";
     for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).setAttribute("aria-selected", st.tab === tab);
     const b = $("pbody"), top = b.scrollTop; b.innerHTML = "";
     (st.tab === "holders" ? panelHolders : st.tab === "history" ? panelHistory : panelPlace)(b);

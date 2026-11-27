@@ -14,7 +14,7 @@ from scraper.common import DATA, ROOT, read_json
 
 from . import frontiers
 from .events import BREAK_BEFORE
-from .geometry import MAP_DIR, extra_territories, territory_polygons
+from .geometry import MAP_DIR, extra_territories, map_features, territory_polygons
 
 SEAS = {"Bay of Catazar", "Sea of Snow", "The Semmerlak"}
 IMPERIAL = ["Dawn", "Highguard", "Imperial Orcs", "Navarr", "The Brass Coast", "The League", "The Marches",
@@ -28,6 +28,19 @@ def control_files():
     and meta.json are handled separately; later files are named after the season they start at."""
     files = [f for f in (MAP_DIR / "control_raw").glob("*.json") if f.stem not in ("territories", "meta")]
     return sorted(files, key=lambda f: (len(f.stem) > 1, f.stem))
+
+
+# Physical features the wiki's map draws inside a territory, shown on the map from when they appeared.
+FEATURES = {
+    "The Great Sinkhole": {
+        "from": "381YE Summer", "source": "Rocks and gravel", "aka": "Lorenzo's Deep Pockets",
+        "note": ("A pit about seven hundred feet deep, with a lake at the bottom, that opened in 381YE where "
+                 "Miaren, Temeschwar, Upwold and Hahnmark met. Ancient mine workings and caverns open off its "
+                 "walls, and armies cannot march across it between Miaren and Hahnmark. The Imperial title "
+                 "Delver of the Depths looks after it."),
+        "title": "Delver of the Depths",
+    },
+}
 
 
 def side_of(holder):
@@ -505,8 +518,18 @@ def build(archive_links=True):
     front, nlabels = frontiers.compute(terr, shapes, state, seasons, SEAS, side_of, view,
                                        lambda h: None if h in ("Unknown", "Uncontrolled") else h)
     data_contested = contested(state, seasons, ev["events"], side_of)
+    features = []
+    for name, f in map_features().items():
+        meta = FEATURES.get(name)
+        if not meta:
+            continue
+        territory_page = pages.get(f["territory"], {}).get("source")
+        features.append({"name": name, "aka": meta["aka"], "polys": f["polys"], "s": sidx[meta["from"]], "note": meta["note"],
+                         "u": f"{territory_page}#{f['anchor']}" if territory_page else None, "t": f["territory"],
+                         "src": meta["source"], "su": pages.get(meta["source"], {}).get("source"),
+                         "title": meta["title"], "tu": pages.get(meta["title"], {}).get("source")})
     data = {
-        "contested": data_contested,
+        "contested": data_contested, "features": features,
         "meta": {"snapshot": manifest["snapshot"], "archiveLinks": archive_links},
         "view": view, "frontiers": front,
         "nlabels": [[[fix(r[0])] + r[1:4] for r in season] for season in nlabels],
