@@ -50,6 +50,9 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      # pandoc renders the odd page the wiki's own renderer fails on (see scraper/fetch.py)
+      - run: sudo apt-get install -y -q pandoc || echo "pandoc unavailable; such pages are kept as plain text"
+
       - name: Decide whether to update today
         id: gate
         run: python3 -m scraper.check_schedule ${{ github.event_name != 'schedule' && '--force' || '' }}

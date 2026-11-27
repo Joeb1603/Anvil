@@ -55,7 +55,14 @@ def fetch(api: Api) -> list[dict]:
                                prop="text|wikitext|categories|displaytitle|revid|sections",
                                disablelimitreport="1", disableeditsection="1", disabletoc="1")
                 if "parse" not in data:
-                    raise RuntimeError(str(data.get("error", data))[:300])
+                    # The wiki can't render a few pages (an extension crashes on Help:Empire Extras). Take
+                    # the page's wikitext instead and render it here, so one broken page never stops an update.
+                    rec = render_locally(api, p, str(data.get("error", data))[:300])
+                    rec.update(pageid=p["pageid"], ns=p["ns"], title=p["title"],
+                               timestamp=stamps.get(str(p["pageid"]), {}).get("timestamp"))
+                    write_json(out, rec)
+                    done += 1
+                    continue
                 d = data["parse"]
                 rec = {
                     "html": d["text"],
@@ -90,6 +97,30 @@ def fetch(api: Api) -> list[dict]:
     cached = sum(1 for _ in PAGE_CACHE.glob("*.json.gz"))
     print(f"DONE cached={cached} of {len(pages)} failures={len(failures)}", flush=True)
     return failures
+
+
+def render_locally(api, p, why):
+    """A page record built from the page's wikitext, for pages the wiki's own renderer fails on."""
+    import html
+    import shutil
+    import subprocess
+    data = api.get(action="query", prop="revisions|categories", rvprop="ids|content", rvslots="main",
+                   clprop="hidden", cllimit="max", pageids=p["pageid"])
+    page = data["query"]["pages"][0]
+    rev = page["revisions"][0]
+    text = rev["slots"]["main"]["content"]
+    out = None
+    if shutil.which("pandoc"):
+        r = subprocess.run(["pandoc", "-f", "mediawiki", "-t", "html"], input=text, capture_output=True,
+                           text=True, timeout=120)
+        out = r.stdout if r.returncode == 0 else None
+    if out is None:  # no pandoc: keep the text readable as it is
+        out = "<pre>" + html.escape(text) + "</pre>"
+    print(f"rendered locally (the wiki could not render it): {p['title']}: {why[:120]}", flush=True)
+    return {"html": out, "wikitext": text, "displaytitle": None, "revid": rev["revid"], "sections": [],
+            "categories": [{"name": c["title"].split(":", 1)[1], "hidden": bool(c.get("hidden")), "missing": False}
+                           for c in page.get("categories", [])],
+            "rendered_locally": True}
 
 
 if __name__ == "__main__":
