@@ -1,0 +1,1740 @@
+{
+ "Astolat": {
+  "regions": {
+   "The Chase": [
+    72,
+    51
+   ],
+   "Coombe": [
+    64,
+    70
+   ],
+   "Grovesyard": [
+    41,
+    60
+   ],
+   "Winterbourne": [
+    57,
+    31
+   ],
+   "Withy": [
+    26,
+    40
+   ]
+  },
+  "extent": [
+   16,
+   4,
+   87,
+   90
+  ],
+  "cropped": false,
+  "notes": "All five labels are clear boxed labels. Extent follows the dashed border / blue wash; Anvil sits at the southern tip."
+ },
+ "Casinea": {
+  "regions": {
+   "Casfall": [
+    72,
+    56
+   ],
+   "Greatwood": [
+    30,
+    50
+   ],
+   "Mareholm": [
+    82,
+    35
+   ],
+   "Syrwatch": [
+    49,
+    29
+   ],
+   "Woodwych": [
+    41,
+    72
+   ]
+  },
+  "extent": [
+   5,
+   5,
+   98,
+   88
+  ],
+  "cropped": false,
+  "notes": "Mareholm is spelled MAREHOM on the map. Greatwood label is slanted. Anvil symbol sits just NW of the Mareholm label (~x79,y22)."
+ },
+ "Hercynia": {
+  "regions": {
+   "Northpines": [
+    37,
+    20
+   ],
+   "The Glen of Shadows": [
+    59,
+    25
+   ],
+   "Deer's Folly": [
+    35,
+    44
+   ],
+   "Old Ranging": [
+    40,
+    69
+   ],
+   "Summersend": [
+    79,
+    64
+   ]
+  },
+  "extent": [
+   8,
+   15,
+   93,
+   85
+  ],
+  "cropped": false,
+  "notes": "Small low-res image, read from 2.4x enlargement. Map label reads 'GLEN of SHADOWS'. Extent is judged from the dark-green fill plus adjoining mountains; north and south limits among the mountains are approximate. Neighbouring territories fill the rest of the image."
+ },
+ "Kallavesa": {
+  "regions": {
+   "Kallavesa Marsh": [
+    49,
+    83
+   ],
+   "Rundhal Marsh": [
+    79,
+    63
+   ],
+   "Skymark": [
+    50,
+    33
+   ],
+   "West Marsh": [
+    29,
+    54
+   ],
+   "Wittal Grove": [
+    80,
+    87
+   ]
+  },
+  "extent": [
+   2,
+   0,
+   99,
+   96
+  ],
+  "cropped": true,
+  "notes": "Read from 2.4x enlargement. Territory is the mid-blue fill; it reaches the top edge of the image around the Rikkivesi lake (x~52-70) and comes very close to the right edge near y~70-80, so marked cropped. The settlement label 'RUNDHAL' (unboxed, ~x67,y49) is distinct from the boxed 'RUNDHAL MARSH' region label used here."
+ },
+ "Madruga": {
+  "regions": {
+   "Calvos Sound": [
+    58,
+    43
+   ],
+   "Lightsea": [
+    58,
+    65
+   ],
+   "Torres": [
+    53,
+    15
+   ],
+   "Free Landing": [
+    87,
+    76
+   ],
+   "Quiet Grasses": [
+    29,
+    62
+   ],
+   "Siroc Bayou": [
+    38,
+    80
+   ],
+   "Crucible": null
+  },
+  "extent": [
+   0,
+   0,
+   98,
+   100
+  ],
+  "cropped": true,
+  "notes": "Read from enlargements. 'Quiet Grasses' placed at the map label 'THE GREAT GRASSES' and 'Siroc Bayou' at the map label 'SIROC PLAINS' (assumed old names for the same regions - not confirmed by the map itself). No 'Crucible' label exists anywhere on the map, so null. Thick black lines hand-drawn over the map split the territory into six areas, each already holding one of the six labels found, so there is no unlabelled seventh area to assign Crucible to. Territory (mid-orange fill) touches the left, top and bottom image edges."
+ },
+ "Mitwold": {
+  "regions": {
+   "Golden Downs": [
+    64,
+    73
+   ],
+   "Maiden Downs": [
+    75,
+    54
+   ],
+   "Meade March": [
+    42,
+    42
+   ],
+   "The Meadows": [
+    56,
+    31
+   ],
+   "Oddmire": [
+    21,
+    46
+   ]
+  },
+  "extent": [
+   8,
+   6,
+   85,
+   87
+  ],
+  "cropped": false,
+  "notes": "All labels boxed and clear; Oddmire, The Meadows and Maiden Downs labels are strongly slanted (centre of box given). Unboxed 'MEADE' (~x44,y27) is the town and 'R. MEADE' the river, not regions."
+ },
+ "Ossium": {
+  "regions": {
+   "Bittershore": [
+    24,
+    60
+   ],
+   "Bonewood": [
+    48,
+    21
+   ],
+   "Drownbark Forest": [
+    74,
+    75
+   ],
+   "Echofell": [
+    77,
+    48
+   ],
+   "Galath Fields": [
+    45,
+    44
+   ],
+   "Nearweald": [
+    48,
+    68
+   ],
+   "Webwood": [
+    67,
+    29
+   ]
+  },
+  "extent": [
+   6,
+   1,
+   92,
+   92
+  ],
+  "cropped": false,
+  "notes": "Black-and-white map with no colour fill, so extent is judged from dotted borders, coastline and tree cover; east and north limits are approximate (forest runs up to the top of the image and some trees reach the right edge around y~40)."
+ },
+ "Salt Flats of Sanath": {
+  "regions": {
+   "Sydathian Fens": [
+    38,
+    32
+   ],
+   "Trisaquan Shore": [
+    59,
+    21
+   ],
+   "Ilthackous": [
+    51,
+    38
+   ],
+   "Beladrarsh": [
+    28,
+    55
+   ],
+   "Lower Saarnath": [
+    33,
+    74
+   ],
+   "Upper Saarnath": [
+    50,
+    62
+   ],
+   "Ûrinth": [
+    54,
+    47
+   ],
+   "Leen Iskrid": [
+    74,
+    42
+   ],
+   "Leen Rarckan": [
+    66,
+    60
+   ],
+   "Strategic Considerations": null
+  },
+  "extent": [
+   9,
+   3,
+   87,
+   95
+  ],
+  "cropped": false,
+  "notes": "'Strategic Considerations' is not on the map (it looks like a page heading rather than a region), so null. Ûrinth is lettered 'URINTH'. Unboxed 'LEEN' (~x71,y54) is the town, distinct from the boxed Leen Iskrid / Leen Rarckan region labels. Black-and-white map; extent judged from the coastline/river outline."
+ },
+ "Semmerholm": {
+  "regions": {
+   "Axmure": [
+    65,
+    60
+   ],
+   "Causse": [
+    57,
+    34
+   ],
+   "Elvette": [
+    27,
+    72
+   ],
+   "Estmure": [
+    83,
+    38
+   ],
+   "Ferrond": [
+    17,
+    56
+   ],
+   "Lacuve": [
+    65,
+    43
+   ],
+   "Ulvenholm": [
+    43,
+    51
+   ]
+  },
+  "extent": [
+   3,
+   12,
+   97,
+   90
+  ],
+  "cropped": false,
+  "notes": "All labels boxed and clear. Ulvenholm label is near-vertical and overlaps the big SEMMERHOLM lettering; Lacuve label is partly overlapped by the territory lettering (reads LACUVE)."
+ },
+ "Spiral": {
+  "regions": {
+   "Ankra": [
+    42,
+    31
+   ],
+   "Apstrus": [
+    62,
+    67
+   ],
+   "Apulus": [
+    38,
+    82
+   ],
+   "Ateri": [
+    31,
+    66
+   ],
+   "Cinion": [
+    33,
+    45
+   ],
+   "Ossuary": [
+    68,
+    37
+   ],
+   "Screed": [
+    48,
+    54
+   ]
+  },
+  "extent": [
+   5,
+   16,
+   88,
+   95
+  ],
+  "cropped": false,
+  "notes": "All labels boxed and clear. Apstrus label is steeply slanted (runs x58-66, y61-73). 'APULIAN' (~x24,y85, unboxed) is a different feature from the boxed Apulus region label."
+ },
+ "Therunin": {
+  "regions": {
+   "East Ashes": [
+    67,
+    86
+   ],
+   "Eastring": [
+    82,
+    50
+   ],
+   "Greenheart": [
+    65,
+    40
+   ],
+   "Lower Tarn Valley": [
+    65,
+    12
+   ],
+   "Peakedge Song": [
+    22,
+    60
+   ],
+   "Sweetglades": [
+    46,
+    58
+   ],
+   "Upper Tarn Valley": [
+    49,
+    22
+   ]
+  },
+  "extent": [
+   4,
+   2,
+   96,
+   98
+  ],
+  "cropped": false,
+  "notes": "Read from 2.4x enlargement. Map abbreviates the Tarn valleys as 'L. TARN VALLEY' and 'U. TARN VALLEY'. Territory is the dark-green fill; its southern tip comes very close to the bottom edge (y~98) but appears to be contained. 'PEAKEDGE STEAD' (~x13,y50, unboxed) is a settlement, not the region label."
+ },
+ "Volodmartz": {
+  "regions": {
+   "Brez": [
+    16,
+    39
+   ],
+   "Livardz": [
+    42,
+    88
+   ],
+   "Murupa": [
+    34,
+    54
+   ],
+   "Opascari": [
+    48,
+    26
+   ],
+   "Suvretz": [
+    65,
+    49
+   ]
+  },
+  "extent": [
+   0,
+   2,
+   100,
+   93
+  ],
+  "cropped": true,
+  "notes": "Read from 2.4x enlargement. Territory is the dark-brown fill; it runs off the right edge of the image (y~10-50) and reaches the left edge near Brez (y~35-45), so marked cropped. Southern limit near Livardz is approximate. Boxed labels of neighbouring territories (Branoc, Nitrost, Perumaki etc.) ignored."
+ },
+ "Bastion": {
+  "regions": {
+   "Bastion Rounds": [
+    80,
+    67
+   ],
+   "The Elms": [
+    76,
+    38
+   ],
+   "Stoneside": [
+    52,
+    62
+   ],
+   "Sybella Cross": [
+    45,
+    35.5
+   ],
+   "Woodbury": [
+    22,
+    50
+   ]
+  },
+  "extent": [
+   4,
+   20,
+   91,
+   92
+  ],
+  "cropped": false,
+  "notes": "All labels clear (map spells it 'Sybela Cross'). Extent from the dashed border."
+ },
+ "Feroz": {
+  "regions": {
+   "Afarjasse": [
+    22,
+    71
+   ],
+   "Cazar Straits": [
+    77,
+    42
+   ],
+   "Fontargenta": [
+    55,
+    79
+   ],
+   "Morajasse": [
+    26,
+    34
+   ],
+   "Oranseri": [
+    60,
+    34
+   ]
+  },
+  "extent": [
+   0,
+   5,
+   97,
+   98
+  ],
+  "cropped": false,
+  "notes": "All labels clear. Western tip of the territory just touches the left image edge at y~58."
+ },
+ "Holberg": {
+  "regions": {
+   "Holfried": [
+    17,
+    61
+   ],
+   "Holmauer": [
+    24,
+    84
+   ],
+   "Misericorde": [
+    47,
+    16
+   ],
+   "Utterlund": [
+    63,
+    30
+   ],
+   "Ennerlund": [
+    78,
+    56
+   ],
+   "Rebeshof": [
+    44,
+    63
+   ],
+   "The Morass": [
+    67,
+    84
+   ]
+  },
+  "extent": [
+   5,
+   10,
+   96,
+   95
+  ],
+  "cropped": false,
+  "notes": "All labels clear. Extent is the yellow area; pink Estmure/Estcastle area in the NW is not Holberg."
+ },
+ "Karov": {
+  "regions": {
+   "Duzekani": [
+    36,
+    57
+   ],
+   "Kamienczka": [
+    30,
+    24
+   ],
+   "Malimorzi": [
+    86,
+    25
+   ],
+   "Skoremujac": [
+    64,
+    35
+   ],
+   "Wieliczka": [
+    12,
+    61
+   ]
+  },
+  "extent": [
+   0,
+   3,
+   99,
+   97
+  ],
+  "cropped": true,
+  "notes": "All five labels clear. Extent is the mid-brown area and is approximate: brown runs to the left edge (x=0) and almost to the right edge past Malimorzi/Korotny; northern border (dashed line / colour change below Dupadealuri and Livardz, which are not Karov) is about y 3-16; southern border against red Weirwater is irregular."
+ },
+ "Mareave": {
+  "regions": {
+   "Icarion": [
+    29,
+    25
+   ],
+   "Nadir": [
+    63,
+    18
+   ],
+   "Eoradal": [
+    60,
+    30
+   ],
+   "Sinfoyard": [
+    38,
+    37.5
+   ],
+   "Beoraidh": [
+    48,
+    51
+   ],
+   "Clisearn": [
+    64.5,
+    60.5
+   ],
+   "Fleisardh": [
+    51,
+    76
+   ]
+  },
+  "extent": [
+   17,
+   3,
+   76,
+   85
+  ],
+  "cropped": false,
+  "notes": "All labels clear. Extent from dotted border (coast on the west)."
+ },
+ "Morrow": {
+  "regions": {
+   "Altis": [
+    44,
+    40
+   ],
+   "Caeli": [
+    70,
+    64
+   ],
+   "Operus": [
+    50,
+    56
+   ],
+   "Peregro": [
+    70,
+    44
+   ],
+   "Ravion": [
+    25,
+    43
+   ]
+  },
+  "extent": [
+   18,
+   14,
+   87,
+   78
+  ],
+  "cropped": false,
+  "notes": "All labels clear. Extent from dashed border; pink wash spills a little beyond it."
+ },
+ "Redoubt": {
+  "regions": {
+   "Limus": [
+    49,
+    27
+   ],
+   "Naris": [
+    18,
+    48
+   ],
+   "Optarion": [
+    59,
+    73
+   ],
+   "Siluri": [
+    35,
+    43
+   ],
+   "Tomari": [
+    44,
+    63
+   ],
+   "Ventosi": [
+    52,
+    45
+   ],
+   "Willstone": [
+    67,
+    39
+   ]
+  },
+  "extent": [
+   6,
+   11,
+   73,
+   93
+  ],
+  "cropped": false,
+  "notes": "All labels clear. Extent from dashed/dotted border, includes the bay enclosed on the SW."
+ },
+ "Sarangrave": {
+  "regions": {
+   "Nesustak Forest": [
+    35,
+    42
+   ],
+   "Thornfen": [
+    57,
+    66
+   ],
+   "Turan Flats": [
+    62,
+    38
+   ],
+   "Kroll": [
+    75,
+    57
+   ],
+   "Bendol": [
+    41,
+    59
+   ],
+   "Whisperwood": [
+    46,
+    80
+   ],
+   "Bloodwater Marsh": [
+    18,
+    69
+   ]
+  },
+  "extent": [
+   3,
+   2,
+   85,
+   91
+  ],
+  "cropped": false,
+  "notes": "All labels clear. Extent is approximate: dotted border is faint/intermittent; top value follows the dotted line running north along the river to y~2, main body starts around y~17."
+ },
+ "Sermersuaq": {
+  "regions": {
+   "East Floes": [
+    73,
+    52
+   ],
+   "Sealtoq": [
+    59,
+    69
+   ],
+   "Silver Peaks": [
+    86,
+    16
+   ],
+   "Stark": [
+    15,
+    82
+   ],
+   "Suaq Fount": [
+    56,
+    15
+   ],
+   "Suaq Wastes": [
+    17,
+    34
+   ],
+   "Tanikipari": [
+    20,
+    50
+   ]
+  },
+  "extent": [
+   0,
+   1,
+   93,
+   100
+  ],
+  "cropped": false,
+  "notes": "All labels clear. Extent is the dark-blue area (lighter blue Rikkivesi/Skymark and teal areas excluded); border touches the left edge and the bottom edge at a corner point (x~11,y~100); eastern limit in the Silver Peaks mountains is approximate."
+ },
+ "Tassato": {
+  "regions": {
+   "Cascatas": [
+    17,
+    80
+   ],
+   "Enterio": [
+    51,
+    77
+   ],
+   "Tassato Mestra": [
+    43,
+    34
+   ],
+   "Tassato Regario": [
+    38,
+    53
+   ],
+   "Madeiras": [
+    70,
+    24
+   ]
+  },
+  "extent": [
+   5,
+   1,
+   96,
+   100
+  ],
+  "cropped": false,
+  "notes": "All labels clear. Extent is the bright-yellow area (paler yellow Foracci/Cigno excluded); it reaches the top edge near x 60-75 and the bottom edge near x 25-45 along the R. Vassa, so it may be slightly cropped top and bottom."
+ },
+ "Tromsa": {
+  "regions": {
+   "Icewood": [
+    70.5,
+    66
+   ],
+   "Tromsdalen": [
+    25,
+    60
+   ],
+   "Majastind": [
+    55,
+    57
+   ],
+   "Rikskog": [
+    51,
+    75
+   ],
+   "Skyfall Waste": [
+    64,
+    43
+   ],
+   "Mjosa": [
+    49,
+    34
+   ],
+   "Nemfjord": [
+    28,
+    42
+   ]
+  },
+  "extent": [
+   7,
+   24,
+   81,
+   88
+  ],
+  "cropped": false,
+  "notes": "All labels clear. Extent from dotted border; the dotted lines continuing west of x~7 and south of y~88 belong to neighbouring borders."
+ },
+ "Weirwater": {
+  "regions": {
+   "Garthmoor": [
+    51,
+    51
+   ],
+   "Hawksmoor": [
+    34,
+    66
+   ],
+   "Sandling": [
+    74,
+    29
+   ],
+   "Weirmoor": [
+    18,
+    67
+   ],
+   "Wickmoor": [
+    52,
+    34
+   ]
+  },
+  "extent": [
+   8,
+   12,
+   85,
+   86
+  ],
+  "cropped": false,
+  "notes": "All labels clear (map spells Hawksmoor as 'Hawsmoor'). Extent from dashed border."
+ },
+ "Bregasland": {
+  "regions": {
+   "Gravenmarch": [
+    79,
+    79
+   ],
+   "Grey Fens": [
+    29,
+    48
+   ],
+   "North Fens": [
+    39,
+    13
+   ],
+   "Ottermire": [
+    58,
+    43
+   ],
+   "The Rushes": [
+    60,
+    75
+   ]
+  },
+  "extent": [
+   4,
+   3,
+   96,
+   98
+  ],
+  "cropped": false,
+  "notes": "All labels boxed and clear. Extent follows dashed border; neighbours (Kallavesa, Mitwold, Liathaven) fill the rest of the image."
+ },
+ "Forest of Ulnak": {
+  "regions": {
+   "Grimfen Mire": [
+    21,
+    55
+   ],
+   "Oerwealt": [
+    22,
+    35
+   ],
+   "The Bonewall": [
+    40,
+    34
+   ],
+   "Ghul'thak Forest": [
+    35,
+    57
+   ],
+   "Shifting Basin": [
+    52,
+    74
+   ],
+   "Gloomsea": [
+    68,
+    62
+   ],
+   "Deathsgate": [
+    59,
+    39
+   ]
+  },
+  "extent": [
+   8,
+   5,
+   80,
+   86
+  ],
+  "cropped": false,
+  "notes": "All labels clear. Oerwealt label is vertical/slanted. East edge of extent is the Gloomsea marsh coast (approximate)."
+ },
+ "Hordalant": {
+  "regions": {
+   "Blutgahn": [
+    72,
+    43
+   ],
+   "Alsterbo": [
+    49,
+    23
+   ],
+   "Kalmar": [
+    22,
+    42
+   ],
+   "Ashahon": [
+    45,
+    58
+   ],
+   "Sigla": [
+    18,
+    78
+   ],
+   "Angfors": [
+    43,
+    81
+   ],
+   "Vallorberg": [
+    69,
+    74
+   ]
+  },
+  "extent": [
+   3,
+   5,
+   87,
+   96
+  ],
+  "cropped": false,
+  "notes": "All labels clear. Southern border is a faint dotted line near y 90-95 that reaches close to the bottom edge; west edge is a dotted sea border."
+ },
+ "Karsk": {
+  "regions": {
+   "Branoc": [
+    41,
+    22
+   ],
+   "Crowslook": [
+    71,
+    52
+   ],
+   "Kopevnost": [
+    27,
+    53
+   ],
+   "Krevsaty": [
+    73,
+    26
+   ],
+   "Lestasny": [
+    53,
+    70
+   ],
+   "Moresvah": [
+    41,
+    87
+   ],
+   "Nitrost": [
+    26,
+    32
+   ]
+  },
+  "extent": [
+   14,
+   5,
+   94,
+   94
+  ],
+  "cropped": false,
+  "notes": "Small image, upscaled to read. All labels clear. Extent is the tan-coloured area; uncoloured forest on the right taken as outside."
+ },
+ "Miaren": {
+  "regions": {
+   "Goldglades": [
+    28,
+    19
+   ],
+   "Holtford": [
+    48,
+    86
+   ],
+   "Oakways": [
+    35,
+    68
+   ],
+   "Greenfalls": [
+    76,
+    64
+   ],
+   "Serenael": [
+    46,
+    44
+   ]
+  },
+  "extent": [
+   5,
+   6,
+   88,
+   100
+  ],
+  "cropped": true,
+  "notes": "Small image, upscaled. All labels clear. Extent is the dark-green area, which runs to the bottom edge around x 40-68 (slightly cropped at bottom)."
+ },
+ "Mournwold": {
+  "regions": {
+   "Alderly": [
+    35,
+    48
+   ],
+   "Chalkdowns": [
+    55,
+    40
+   ],
+   "Freemoor": [
+    73,
+    28
+   ],
+   "Green March": [
+    24,
+    40
+   ],
+   "Greensward": [
+    61,
+    78
+   ],
+   "Ore Hills": [
+    70,
+    53
+   ],
+   "Southmoor": [
+    48,
+    67
+   ]
+  },
+  "extent": [
+   7,
+   15,
+   92,
+   95
+  ],
+  "cropped": false,
+  "notes": "All labels clear (several slanted). Extent follows dashed border / green wash."
+ },
+ "Reikos": {
+  "regions": {
+   "Broken Ride": [
+    54,
+    32
+   ],
+   "Chalcis Mount": [
+    72,
+    66
+   ],
+   "Grey Charge": [
+    19,
+    60
+   ],
+   "Haros Water": [
+    49,
+    63
+   ],
+   "Longshire": [
+    45,
+    48
+   ],
+   "Riverwatch": [
+    33,
+    70
+   ],
+   "Tamarbode": [
+    29,
+    30
+   ]
+  },
+  "extent": [
+   3,
+   9,
+   92,
+   86
+  ],
+  "cropped": false,
+  "notes": "All labels clear. Longshire written LONG SHIRE on the map."
+ },
+ "Sarvos": {
+  "regions": {
+   "Bocche": [
+    19,
+    66
+   ],
+   "Cigno": [
+    50,
+    52
+   ],
+   "Foracci": [
+    49,
+    29
+   ],
+   "Riposi": [
+    78,
+    64
+   ],
+   "Uccelini": [
+    57,
+    76
+   ]
+  },
+  "extent": [
+   0,
+   0,
+   95,
+   95
+  ],
+  "cropped": true,
+  "notes": "All labels clear. Extent is the paler-yellow area; the Bocche strip runs off the left edge around y 50-57 and Foracci touches the top edge near x 57-59, so marginally cropped. Enterio/Tassato Regario in the brighter yellow are a neighbour."
+ },
+ "Skallahn": {
+  "regions": {
+   "Greenwall": [
+    75,
+    82
+   ],
+   "Iron Stand": [
+    72,
+    42
+   ],
+   "Ulfrsmoor": [
+    50,
+    39
+   ],
+   "Eyrarfell": [
+    19,
+    23
+   ],
+   "Mindrkyst": [
+    16,
+    61
+   ],
+   "Bjarkey": [
+    51,
+    72
+   ],
+   "Fareskov": [
+    16,
+    37
+   ]
+  },
+  "extent": [
+   2,
+   3,
+   91,
+   96
+  ],
+  "cropped": false,
+  "notes": "All labels clear. Iron Stand label is vertical. West border dotted line sits just inside the left edge; extent bottom is the south coast."
+ },
+ "Temeschwar": {
+  "regions": {
+   "Hanuri": [
+    81,
+    70
+   ],
+   "Locul": [
+    47,
+    73
+   ],
+   "Metri": [
+    83,
+    37
+   ],
+   "Vargat": [
+    39,
+    40
+   ],
+   "Vardstein Vale": [
+    20,
+    62
+   ]
+  },
+  "extent": [
+   4,
+   8,
+   98,
+   92
+  ],
+  "cropped": false,
+  "notes": "Small image, upscaled. All labels clear. Extent is the yellow area."
+ },
+ "Upwold": {
+  "regions": {
+   "Ashbrook": [
+    52,
+    46
+   ],
+   "Birchland": [
+    63,
+    30
+   ],
+   "The Heath": [
+    46,
+    59
+   ],
+   "Stock March": [
+    30,
+    33
+   ],
+   "Tower March": [
+    76,
+    73
+   ]
+  },
+  "extent": [
+   12,
+   5,
+   89,
+   88
+  ],
+  "cropped": false,
+  "notes": "All labels clear. Extent from dashed border / green wash; north-east corner of border is loosely drawn."
+ },
+ "Zenith": {
+  "regions": {
+   "Clypion": [
+    28,
+    38
+   ],
+   "Iteri": [
+    11,
+    43
+   ],
+   "Lustri": [
+    80,
+    26
+   ],
+   "Occursion": [
+    82,
+    66
+   ],
+   "Proceris": [
+    64,
+    46
+   ]
+  },
+  "extent": [
+   3,
+   3,
+   99,
+   95
+  ],
+  "cropped": false,
+  "notes": "Small image, upscaled. All labels clear. Extent is the thick black outline drawn round the territory. Clypion label sits at the top-left of its region, hard against the Iteri border."
+ },
+ "Brocéliande": {
+  "regions": {
+   "Elerael": [
+    64,
+    71
+   ],
+   "Black Boughs": [
+    17,
+    50
+   ],
+   "Boar's Dell": [
+    72,
+    15
+   ],
+   "Dark Ranging": [
+    74,
+    37
+   ],
+   "Greenweald": [
+    31,
+    24
+   ],
+   "Terunael": [
+    45,
+    37
+   ],
+   "Vale's Lament": [
+    21,
+    68
+   ]
+  },
+  "extent": [
+   5,
+   0,
+   87,
+   96
+  ],
+  "cropped": false,
+  "notes": "Dark green area. All labels clear. A narrow neck of green touches the top edge near x=57 but the territory is otherwise fully in frame; southern tip at about (20,96)."
+ },
+ "Hahnmark": {
+  "regions": {
+   "Bruckland": [
+    27,
+    32
+   ],
+   "Kalpamark": [
+    58,
+    53
+   ],
+   "Kronemark": [
+    12,
+    52
+   ],
+   "Northspires": [
+    44,
+    17
+   ],
+   "Southridge": [
+    54,
+    82
+   ],
+   "Valasmark": [
+    28,
+    75
+   ],
+   "Wood Heath": [
+    85,
+    69
+   ]
+  },
+  "extent": [
+   2,
+   0,
+   97,
+   100
+  ],
+  "cropped": true,
+  "notes": "Bright blue area. All labels clear (Kronemark and Wood Heath are steeply slanted/vertical labels). Blue runs to the top edge (x 44-60) and the bottom edge, so extent top/bottom are the image edge. East side is interleaved with Hercynia's dark green north of y=45."
+ },
+ "Kahraman": {
+  "regions": {
+   "Braydon's Jasse": [
+    82,
+    32
+   ],
+   "Gambit": [
+    44,
+    67
+   ],
+   "Jade Range": [
+    76,
+    51
+   ],
+   "Serra Briante": [
+    54,
+    22
+   ],
+   "Serra Damata": [
+    37,
+    34
+   ]
+  },
+  "extent": [
+   9,
+   12,
+   95,
+   91
+  ],
+  "cropped": false,
+  "notes": "Orange wash area, all labels clear. Southern tip at about (49,90)."
+ },
+ "Liathaven": {
+  "regions": {
+   "Beacon Point": [
+    31,
+    86
+   ],
+   "Liath's Heart": [
+    39,
+    57
+   ],
+   "Liath's Ring": [
+    43,
+    40
+   ],
+   "Liaven's Glen": [
+    70,
+    57
+   ],
+   "Westwood": [
+    10,
+    55
+   ],
+   "West Ranging": [
+    21,
+    23
+   ],
+   "Western Scout": [
+    17,
+    77
+   ]
+  },
+  "extent": [
+   2,
+   0,
+   95,
+   95
+  ],
+  "cropped": false,
+  "notes": "Dark green area. Map spells 'Liath Ring'. Green comes to a point at the top edge near x=19 and has a straight vertical edge at x=2 (looks like the edge of the source map rather than a crop). A thin dark-green strip runs east along y 58-68 to about x=95; main body ends around x=80. Southern edge is white mountains shared with Kahraman, bottom estimated."
+ },
+ "Miekarova": {
+  "regions": {
+   "Dupadealuri": [
+    81,
+    86
+   ],
+   "Miechernya": [
+    19,
+    31
+   ],
+   "Mieriada": [
+    60,
+    35
+   ],
+   "Perumaki": [
+    82,
+    53
+   ],
+   "Srodkoja": [
+    47,
+    58
+   ]
+  },
+  "extent": [
+   5,
+   5,
+   100,
+   100
+  ],
+  "cropped": true,
+  "notes": "Mid-brown area, all labels clear. Brown runs off the right edge (y 13-23 and y 75-100) and the bottom edge. Darker brown at right (Brez, x>80, y 22-70) is a neighbour. Western boundary is white mountains, left edge estimated."
+ },
+ "Necropolis": {
+  "regions": {
+   "Coursmouth": [
+    63,
+    67
+   ],
+   "Fishguard": [
+    27,
+    21
+   ],
+   "Hedrossan": [
+    81,
+    54
+   ],
+   "Highrod": [
+    50,
+    32
+   ],
+   "Longbeach": [
+    30,
+    51
+   ],
+   "Sanctuary Sand": [
+    51,
+    57
+   ]
+  },
+  "extent": [
+   11,
+   6,
+   95,
+   91
+  ],
+  "cropped": false,
+  "notes": "Grey wash area, all labels clear. Map spells 'Sanctuary Sands' (two-line slanted label)."
+ },
+ "Reinos": {
+  "regions": {
+   "Pedreira": [
+    58,
+    22
+   ],
+   "Ribeira": [
+    78,
+    27
+   ],
+   "Bastasor": [
+    66,
+    47
+   ],
+   "Corghosa": [
+    41,
+    39
+   ],
+   "Flareizo": [
+    27,
+    70
+   ],
+   "Chaveiro": [
+    56,
+    72
+   ],
+   "Cimeira": [
+    30,
+    85
+   ]
+  },
+  "extent": [
+   13,
+   8,
+   92,
+   97
+  ],
+  "cropped": false,
+  "notes": "No colour wash; extent judged from the dashed border. Territory is a diagonal band running from top-right (about x 45-92, y 8-30) to bottom-left (x 13-70, y 60-97), so the bounding box overstates it. Ribeira, Corghosa, Bastasor and Flareizo labels are near-vertical."
+ },
+ "Segura": {
+  "regions": {
+   "Anduzjasse": [
+    23,
+    71
+   ],
+   "Anozeseri": [
+    45,
+    77
+   ],
+   "Burnish": [
+    40,
+    31
+   ],
+   "Iron Plains": [
+    41,
+    55
+   ],
+   "Lucksprings": [
+    72,
+    61
+   ],
+   "Sobral Grasses": [
+    58,
+    50
+   ],
+   "Yellow Chase": [
+    34,
+    44
+   ]
+  },
+  "extent": [
+   12,
+   19,
+   84,
+   93
+  ],
+  "cropped": false,
+  "notes": "Orange wash area, all labels clear."
+ },
+ "Skarsind": {
+  "regions": {
+   "Crow’s Ridge": [
+    26,
+    19
+   ],
+   "Estermark": [
+    74,
+    37
+   ],
+   "Gildermark": [
+    85,
+    60
+   ],
+   "Pakaanan's Pass": [
+    23,
+    36
+   ],
+   "Skogei Glens": [
+    46,
+    25
+   ],
+   "Solvihill": [
+    64,
+    90
+   ],
+   "Southpine": [
+    87,
+    83
+   ]
+  },
+  "extent": [
+   3,
+   0,
+   100,
+   100
+  ],
+  "cropped": true,
+  "notes": "Teal area. All labels clear; map spells 'Crow Ridge' and 'Pakaanen's Pass'. Teal reaches the top, right and bottom edges of the image. Territory wraps around Hercynia (dark green, x 15-70, y 47-85), so the centre-south of the bounding box is not Skarsind; Hahnmark (bright blue) fills the south-west and Miekarova (brown) the north-east corner."
+ },
+ "The Barrens": {
+  "regions": {
+   "Dawnguard": [
+    9,
+    33
+   ],
+   "Murderdale": [
+    12,
+    42
+   ],
+   "Heart of Peytaht": [
+    16,
+    57
+   ],
+   "The Carmine Fields": [
+    29,
+    40
+   ],
+   "Farweald": [
+    44,
+    23
+   ],
+   "Hope's Rest": [
+    28,
+    57
+   ],
+   "The Untrod Groves": [
+    48,
+    59
+   ],
+   "Bitter Strand": [
+    46,
+    47
+   ],
+   "The Bleaks": [
+    52,
+    76
+   ],
+   "Saltmarsh": [
+    70,
+    37
+   ],
+   "The Plains of Teeth": [
+    68,
+    60
+   ]
+  },
+  "extent": [
+   3,
+   4,
+   87,
+   95
+  ],
+  "cropped": false,
+  "notes": "Blue wash area, all labels clear. Map labels read 'Dawn Guard', 'Carmine Fields', 'Plains of Teeth'. There is also a boxed 'The Morass' label at about (27,32) that is not in the region list."
+ },
+ "Verthandi": {
+  "regions": {
+   "Askja": [
+    68,
+    20
+   ],
+   "Erskjuvaten": [
+    56,
+    60
+   ],
+   "Ierkul": [
+    91,
+    26
+   ],
+   "Hengill": [
+    13,
+    26
+   ],
+   "Skaftafell": [
+    38,
+    13
+   ],
+   "Tinfjalla": [
+    75,
+    71
+   ],
+   "Yurah": [
+    31,
+    58
+   ]
+  },
+  "extent": [
+   0,
+   0,
+   99,
+   95
+  ],
+  "cropped": true,
+  "notes": "Uncoloured map with no clear outer border; drawing fills the whole image and runs off the left, top and bottom edges, so extent is essentially the image. 'Yurah' placed at the boxed label that reads 'JURA' on the map (slanted, by the western mountains). A dashed line crosses the south at y 78-100 and a solid line runs down the east side at x~97; these may be the border but that is not certain."
+ }
+}

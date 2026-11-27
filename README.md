@@ -11,6 +11,12 @@ The wiki's text is written by Profound Decisions and licensed under
 of changes. Art and music are excluded from that licence, so images appear only as links and
 pages carrying songs appear as a title and a link.
 
+## Empire Atlas
+
+`map/index.html` is an interactive map with a timeline, built from the archive: who held each
+territory and region season by season, and what happened where. See `map/README.md` for how it
+is made and how far to trust each layer.
+
 ## Usage
 
 ```

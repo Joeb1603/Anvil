@@ -1,0 +1,2610 @@
+[
+ {
+  "territory": "Astolat",
+  "imperial": true,
+  "nation": "Dawn",
+  "holder_now": "Dawn",
+  "holder_376": "Dawn",
+  "regions_now": {},
+  "changes": [],
+  "confidence": "high",
+  "notes": "Dawnish heartland, never lost. Vallorn miasma spilled over the east in 379YE without any change of control."
+ },
+ {
+  "territory": "Ayereed",
+  "imperial": false,
+  "nation": "Grendel",
+  "holder_now": "Grendel",
+  "holder_376": null,
+  "regions_now": {},
+  "changes": [],
+  "confidence": "medium",
+  "notes": "Broken Shore territory; every region Grendel. No history given, presumably Grendel throughout."
+ },
+ {
+  "territory": "Bastion",
+  "imperial": true,
+  "nation": "Highguard",
+  "holder_now": "Highguard",
+  "holder_376": "Highguard",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "pre-Empire",
+    "region": null,
+    "holder": "Highguard",
+    "previous_holder": "orcs",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Highborn pushed orcs out and settled the frontier after founding Pharos."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Druj strikes into Sybella Cross and The Elms (White Tower destroyed 369YE; beachhead attempt 372YE) were repulsed; no region lost."
+ },
+ {
+  "territory": "Bay of Catazar",
+  "imperial": false,
+  "nation": "none",
+  "holder_now": "nobody",
+  "holder_376": null,
+  "regions_now": {},
+  "changes": [],
+  "confidence": "medium",
+  "notes": "Sea, no regions. Eastern channel is Grendel-controlled; western channel is contested between Grendel and Iron Confederacy and effectively neutral."
+ },
+ {
+  "territory": "Bregasland",
+  "imperial": true,
+  "nation": "The Marches",
+  "holder_now": "The Marches",
+  "holder_376": "The Marches",
+  "regions_now": {
+   "Grey Fens": "Jotun",
+   "North Fens": "Jotun"
+  },
+  "changes": [
+   {
+    "when": "384YE Autumn",
+    "region": null,
+    "holder": "Jotun",
+    "previous_holder": "The Marches",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Invasion began after Summer Solstice 383YE; Mathilda Fisher installed as Jotun-backed ruler."
+   },
+   {
+    "when": "385YE Spring",
+    "region": null,
+    "holder": "The Marches",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Imperial armies oust Fisher; Jotun withdraw; Senate assigns territory to the Marches."
+   },
+   {
+    "when": "386YE Summer",
+    "region": "Gravenmarch",
+    "holder": "Jotun",
+    "previous_holder": "The Marches",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Jotun invade the dry land and bring back the Burhfæst citadel."
+   },
+   {
+    "when": "387YE Spring",
+    "region": null,
+    "holder": "Jotun",
+    "previous_holder": "The Marches",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Jotun surge out of the citadel and take most of the marshes."
+   },
+   {
+    "when": "388YE Autumn",
+    "region": null,
+    "holder": "The Marches",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Marches hold three regions again; Senate re-assigns territory; Jotun keep two fens."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Assignment dates come from Senate session records. The 387-388YE swing is inferred: text says Jotun took 'much' of it, and the Senate re-assigned it in Autumn 388YE. Strong Reeds army stayed inside throughout."
+ },
+ {
+  "territory": "Brocéliande",
+  "imperial": false,
+  "nation": "Navarr",
+  "holder_now": "vallorn",
+  "holder_376": "vallorn",
+  "regions_now": {
+   "Boar's Dell": "Navarr",
+   "Elerael": "Navarr"
+  },
+  "changes": [
+   {
+    "when": null,
+    "region": "Elerael",
+    "holder": "Druj",
+    "previous_holder": "Navarr",
+    "kind": "conquered",
+    "confidence": "low",
+    "note": "Orcs from the Forest of Peytaht, probably Druj, overran the region; undated."
+   },
+   {
+    "when": "by 379YE Autumn",
+    "region": "Elerael",
+    "holder": "Navarr",
+    "previous_holder": "Druj",
+    "kind": "liberated",
+    "confidence": "low",
+    "note": "Listed as Navarr-held again; how and when it was recovered is not stated."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Not an Imperial territory: vallorn holds five of seven regions (Black Boughs, Dark Ranging, Greenweald, Terunael, Vale's Lament). Barbarian orcs from the Barrens infiltrated the forest over fifty years without holding regions."
+ },
+ {
+  "territory": "Casinea",
+  "imperial": true,
+  "nation": "Highguard",
+  "holder_now": "Highguard",
+  "holder_376": "Highguard",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "pre-Empire",
+    "region": null,
+    "holder": "Highguard",
+    "previous_holder": "orcs",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Conquered over decades, eastern regions first; Greatwood and Woodwych settled later."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Orc raiders persisted as late as 150YE. Vallorn threats in 378YE (Greatwood) and 379YE were contained; no region lost."
+ },
+ {
+  "territory": "Feroz",
+  "imperial": true,
+  "nation": "The Brass Coast",
+  "holder_now": "The Brass Coast",
+  "holder_376": "The Brass Coast",
+  "regions_now": {
+   "Cazar Straits": "Iron Confederacy",
+   "Morajasse": "Protectorate of Morajasse"
+  },
+  "changes": [
+   {
+    "when": "383YE Spring",
+    "region": "Oranseri",
+    "holder": "Grendel",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Taken quickly in the Grendel naval invasion."
+   },
+   {
+    "when": "383YE Spring",
+    "region": "Cazar Straits",
+    "holder": "Grendel",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Taken quickly in the Grendel naval invasion."
+   },
+   {
+    "when": "383YE Autumn",
+    "region": "Fontargenta",
+    "holder": "Grendel",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Falls after a long fight; with it the Empire loses the territory."
+   },
+   {
+    "when": "383YE Winter",
+    "region": "Morajasse",
+    "holder": "Grendel",
+    "previous_holder": "The Brass Coast",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Ceded by the peace treaty ratified at the Autumn Equinox 383YE."
+   },
+   {
+    "when": "383YE Winter",
+    "region": "Afarjasse",
+    "holder": "Grendel",
+    "previous_holder": "The Brass Coast",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Ceded by the peace treaty ratified at the Autumn Equinox 383YE."
+   },
+   {
+    "when": "386YE Autumn",
+    "region": null,
+    "holder": "The Brass Coast",
+    "previous_holder": "Grendel",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Imperial forces retake Feroz just before the equinox; Senate assigns it to Brass Coast."
+   },
+   {
+    "when": "386YE",
+    "region": "Cazar Straits",
+    "holder": "Children of Wrecks",
+    "previous_holder": "Grendel",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Siakha's pirates seize the islands as the Grendel are pushed out."
+   },
+   {
+    "when": "387YE Winter",
+    "region": "Cazar Straits",
+    "holder": "Iron Confederacy",
+    "previous_holder": "Children of Wrecks",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Confederacy fleet destroys the Wrecker stronghold soon after Autumn Equinox 387YE."
+   },
+   {
+    "when": "by 387YE Winter",
+    "region": "Morajasse",
+    "holder": "Protectorate of Morajasse",
+    "previous_holder": null,
+    "kind": "other",
+    "confidence": "medium",
+    "note": "Grendel veterans under Wind Lord Saoirse hold Mora's Rock; Senate recognised the protectorate."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Under Governor Rahab for about two years (383-386YE). Date the Protectorate of Morajasse was recognised is not given; Feroz stays Imperial with three of five regions."
+ },
+ {
+  "territory": "Forest of Ulnak",
+  "imperial": false,
+  "nation": "Druj",
+  "holder_now": "Druj",
+  "holder_376": null,
+  "regions_now": {
+   "Oerwealt": "Thule"
+  },
+  "changes": [
+   {
+    "when": "by 388YE Spring",
+    "region": "Oerwealt",
+    "holder": "Thule",
+    "previous_holder": "Druj",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Thule hold the region after campaigning alongside the Empire; exact date not given."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Mallum territory. Imperial armies first invaded Oerwealt at the end of 383YE, outcome not stated on the page. No earlier history given; presumably Druj throughout."
+ },
+ {
+  "territory": "Hahnmark",
+  "imperial": true,
+  "nation": "Wintermark",
+  "holder_now": "Wintermark",
+  "holder_376": "Wintermark",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "pre-Empire",
+    "region": null,
+    "holder": "Wintermark",
+    "previous_holder": "trolls",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Ancient heart of the troll kingdom became the Steinr homeland."
+   }
+  ],
+  "confidence": "high",
+  "notes": "No recent change of control. Feni bands in Southridge and Wood Heath (displaced by the 381YE sinkhole) raided but held no region."
+ },
+ {
+  "territory": "Hercynia",
+  "imperial": true,
+  "nation": "Navarr",
+  "holder_now": "Navarr",
+  "holder_376": "Navarr",
+  "regions_now": {
+   "Deer's Folly": "vallorn"
+  },
+  "changes": [
+   {
+    "when": null,
+    "region": null,
+    "holder": "Navarr",
+    "previous_holder": "vallorn",
+    "kind": "liberated",
+    "confidence": "low",
+    "note": "Forest reclaimed from the vallorn slowly over centuries, Northpines first."
+   },
+   {
+    "when": "373YE",
+    "region": "The Glen of Shadows",
+    "holder": "Thule",
+    "previous_holder": "Navarr",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "After Skarsind fell, Thule seized the Treji runeforges but got no further."
+   },
+   {
+    "when": "377YE Winter",
+    "region": "The Glen of Shadows",
+    "holder": "Navarr",
+    "previous_holder": "Thule",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Imperial Orc Summer Storm army shatters the Thule and frees Treji."
+   }
+  ],
+  "confidence": "high",
+  "notes": "At the start of 376YE the Glen of Shadows was still Thule-held. Deer's Folly is the vallorn heart throughout."
+ },
+ {
+  "territory": "Holberg",
+  "imperial": true,
+  "nation": "The League",
+  "holder_now": "The League",
+  "holder_376": "Druj",
+  "regions_now": {
+   "Misericorde": "Sand Fishers"
+  },
+  "changes": [
+   {
+    "when": null,
+    "region": null,
+    "holder": "Dawn",
+    "previous_holder": "orcs",
+    "kind": "conquered",
+    "confidence": "low",
+    "note": "Dawnish nobles took the surrounding lands in a five-year war; city unconquered."
+   },
+   {
+    "when": "136YE",
+    "region": null,
+    "holder": "The League",
+    "previous_holder": "Holberg (independent city)",
+    "kind": "assigned",
+    "confidence": "high",
+    "note": "City joins the League and the Senate gives the League the territory."
+   },
+   {
+    "when": "346YE",
+    "region": null,
+    "holder": "Druj",
+    "previous_holder": "The League",
+    "kind": "lost",
+    "confidence": "high",
+    "note": "Barbarians overrun the lands and besiege the walled city, which never falls."
+   },
+   {
+    "when": "378YE Winter",
+    "region": null,
+    "holder": "The Empire",
+    "previous_holder": "Druj",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Massed Imperial armies drive the Druj north; Rebeshof fortress destroyed."
+   },
+   {
+    "when": "379YE Spring",
+    "region": null,
+    "holder": "The League",
+    "previous_holder": "The Empire",
+    "kind": "assigned",
+    "confidence": "high",
+    "note": "Senate assigns liberated Holberg to the League rather than the Imperial Orcs."
+   },
+   {
+    "when": "383YE Spring",
+    "region": "Misericorde",
+    "holder": "Sand Fishers",
+    "previous_holder": "The League",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Senate cedes the region to the Sand Fisher orcs relocating from Ossium."
+   }
+  ],
+  "confidence": "high",
+  "notes": "At 376YE the Druj held the territory but the walled city (Holfried) was still in League hands under siege. Spring 379YE assignment is from the Senate motion record."
+ },
+ {
+  "territory": "Hordalant",
+  "imperial": false,
+  "nation": "Jotun",
+  "holder_now": "Jotun",
+  "holder_376": "Jotun",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "reign of Emperor Guntherm (before 248YE)",
+    "region": "Blutgahn",
+    "holder": "The Empire",
+    "previous_holder": "Jotun",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Marcher-led armies overran the marshes; settlers moved in."
+   },
+   {
+    "when": "reign of Emperor Guntherm (before 248YE)",
+    "region": "Ashahon",
+    "holder": "The Empire",
+    "previous_holder": "Jotun",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Plains seized and guarded by the fortification called the Nail."
+   },
+   {
+    "when": "248YE",
+    "region": "Blutgahn",
+    "holder": "Jotun",
+    "previous_holder": "The Empire",
+    "kind": "abandoned",
+    "confidence": "high",
+    "note": "Ceasefire ended; settlers fell back into Bregasland."
+   },
+   {
+    "when": "248YE",
+    "region": "Ashahon",
+    "holder": "Jotun",
+    "previous_holder": "The Empire",
+    "kind": "lost",
+    "confidence": "medium",
+    "note": "After the ceasefire ended the Jotun eventually captured the Nail."
+   }
+  ],
+  "confidence": "high",
+  "notes": "A Summer 381YE incursion by the Black Thorns was repulsed. Blutgahn is avoided by the Jotun and has a sizeable Feni population, though the Jotun appear to control all seven regions."
+ },
+ {
+  "territory": "Kahraman",
+  "imperial": true,
+  "nation": "The Brass Coast",
+  "holder_now": "The Brass Coast",
+  "holder_376": "The Brass Coast",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "pre-Empire",
+    "region": null,
+    "holder": "The Brass Coast",
+    "previous_holder": "orcs",
+    "kind": "conquered",
+    "confidence": "low",
+    "note": "Most of the land was in barbarian orc hands before the Freeborn spread."
+   },
+   {
+    "when": "379YE Winter",
+    "region": "Serra Damata",
+    "holder": "Jotun",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Orcs out of Liathaven take Damata and the Damatian Cliffs."
+   },
+   {
+    "when": "380YE Winter",
+    "region": "Serra Damata",
+    "holder": "The Brass Coast",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Jotun chased back into Liathaven; Kahraman free by the Winter Solstice."
+   },
+   {
+    "when": "384YE",
+    "region": "Gambit",
+    "holder": "Jotun",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "low",
+    "note": "Lasambrian Jotun make early gains on the plains; extent unclear."
+   },
+   {
+    "when": "384YE",
+    "region": "Jade Range",
+    "holder": "Jotun",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "low",
+    "note": "Lasambrian Jotun make early gains on the plains; extent unclear."
+   },
+   {
+    "when": "384YE Winter",
+    "region": null,
+    "holder": "The Brass Coast",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Navarr and Freeborn armies drive the invaders out by year's end."
+   },
+   {
+    "when": "385YE",
+    "region": "Braydon's Jasse",
+    "holder": "Jotun",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Jotun from Liaven's Glen capture Fort Braydon for the first time."
+   },
+   {
+    "when": "385YE Summer",
+    "region": "Braydon's Jasse",
+    "holder": "The Brass Coast",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Quick counter-attack; all regions Freeborn by the Summer Solstice, fort destroyed."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Territory never lost as a whole. In Spring 380YE the Jotun reached the Great Mine of Briante (Serra Briante) before being repelled; control of that region is not stated."
+ },
+ {
+  "territory": "Kallavesa",
+  "imperial": true,
+  "nation": "Wintermark",
+  "holder_now": "Wintermark",
+  "holder_376": "Wintermark",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "370YE Winter",
+    "region": "West Marsh",
+    "holder": "Jotun",
+    "previous_holder": "Wintermark",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Jotun invade in force, take the marsh and push into Skymark."
+   },
+   {
+    "when": "c. 370YE",
+    "region": "West Marsh",
+    "holder": "Wintermark",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Wintermark and Marcher armies under Britta drive them out soon after."
+   }
+  ],
+  "confidence": "high",
+  "notes": "A Jotun attempt on West Marsh from Spring to Autumn 380YE made no headway. All regions Imperial."
+ },
+ {
+  "territory": "Karov",
+  "imperial": true,
+  "nation": "Varushka",
+  "holder_now": "Varushka",
+  "holder_376": "Varushka",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "pre-Empire",
+    "region": null,
+    "holder": "Varushka",
+    "previous_holder": null,
+    "kind": "founded",
+    "confidence": "low",
+    "note": "One of the first places settled by the Vard, cleared from forest."
+   },
+   {
+    "when": "372YE",
+    "region": "Malimorzi",
+    "holder": "Varushka",
+    "previous_holder": "Thule",
+    "kind": "other",
+    "confidence": "medium",
+    "note": "Thule briefly occupied Korotny settlement; expelled within a season, region not lost."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Most peaceful Varushkan territory. Cold Sun scions raided the south in late 385YE to Spring 386YE without taking control."
+ },
+ {
+  "territory": "Karsk",
+  "imperial": true,
+  "nation": "Varushka",
+  "holder_now": "Varushka",
+  "holder_376": "Thule",
+  "regions_now": {
+   "Krevsaty": "Thule"
+  },
+  "changes": [
+   {
+    "when": "reign of Empress Richilde",
+    "region": null,
+    "holder": "Varushka",
+    "previous_holder": null,
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Karsk first conquered for the Empire in Richilde's reign."
+   },
+   {
+    "when": "368YE",
+    "region": null,
+    "holder": "Thule",
+    "previous_holder": "Varushka",
+    "kind": "lost",
+    "confidence": "high",
+    "note": "Surprise invasion from the north overwhelms the border forts."
+   },
+   {
+    "when": "377YE Winter",
+    "region": "Moresvah",
+    "holder": "Varushka",
+    "previous_holder": "Thule",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Mining families holding out in the tunnels are relieved by Imperial forces."
+   },
+   {
+    "when": "by 378YE Spring",
+    "region": "Nitrost",
+    "holder": "Varushka",
+    "previous_holder": "Thule",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Major offensive takes the region before the Isember assault."
+   },
+   {
+    "when": "378YE Spring",
+    "region": null,
+    "holder": "Varushka",
+    "previous_holder": "Thule",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Isember in Lestasny destroyed; territory Imperial again and assigned to Varushka."
+   },
+   {
+    "when": "378YE Autumn",
+    "region": "Nitrost",
+    "holder": "Thule",
+    "previous_holder": "Varushka",
+    "kind": "lost",
+    "confidence": "high",
+    "note": "Thule counter-offensive takes Nitrost and with it control of Karsk."
+   },
+   {
+    "when": "378YE Winter",
+    "region": "Nitrost",
+    "holder": "Varushka",
+    "previous_holder": "Thule",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Region retaken within three months; Senate again assigns Karsk to Varushka."
+   },
+   {
+    "when": "379YE Summer",
+    "region": null,
+    "holder": "Varushka",
+    "previous_holder": "Thule",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Peace treaty: Thule withdraw from the regions they still held."
+   },
+   {
+    "when": "379YE Summer",
+    "region": "Krevsaty",
+    "holder": "Thule",
+    "previous_holder": "Thule",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Same treaty formally concedes this already-occupied region to the Thule."
+   }
+  ],
+  "confidence": "high",
+  "notes": "At 376YE Thule-held, but Kopevnost never fell and holdouts fought on in Moresvah. Senate records note the Thule still held three regions through 378YE."
+ },
+ {
+  "territory": "Liathaven",
+  "imperial": false,
+  "nation": "Jotun",
+  "holder_now": "Jotun",
+  "holder_376": "Jotun",
+  "regions_now": {
+   "Liath's Heart": "vallorn"
+  },
+  "changes": [
+   {
+    "when": "c. 200 years pre-Empire",
+    "region": "Liaven's Glen",
+    "holder": "Navarr",
+    "previous_holder": "vallorn",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "First part of Liathaven freed from the vallorn."
+   },
+   {
+    "when": "349YE",
+    "region": null,
+    "holder": "Jotun",
+    "previous_holder": "Navarr",
+    "kind": "lost",
+    "confidence": "high",
+    "note": "Invasion began Autumn 346YE; Empire finally lost control in early 349YE."
+   },
+   {
+    "when": "378YE Autumn",
+    "region": null,
+    "holder": "Jotun",
+    "previous_holder": null,
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "After a failed Freeborn attack, seven Jotun armies take everything outside the vallorn."
+   },
+   {
+    "when": "379YE Winter",
+    "region": "Beacon Point",
+    "holder": "Jotun",
+    "previous_holder": "Navarr",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Last Navarr holdouts flee to Kahraman or die."
+   },
+   {
+    "when": "381YE",
+    "region": null,
+    "holder": "nobody (contested)",
+    "previous_holder": "Jotun",
+    "kind": "abandoned",
+    "confidence": "low",
+    "note": "Jotun make an orderly retreat to Hordalant; no clear holder afterwards."
+   },
+   {
+    "when": "383YE Summer",
+    "region": "Westwood",
+    "holder": "Navarr",
+    "previous_holder": "vallorn",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Empire clears the weakened vallorn, confining it to Liath's Heart."
+   },
+   {
+    "when": "383YE Winter",
+    "region": null,
+    "holder": "nobody (contested)",
+    "previous_holder": "Navarr",
+    "kind": "lost",
+    "confidence": "low",
+    "note": "Heirs of Terunael rouse vallornspawn across the territory; Imperial gains lost."
+   },
+   {
+    "when": "384YE Summer",
+    "region": null,
+    "holder": "Feni",
+    "previous_holder": null,
+    "kind": "founded",
+    "confidence": "low",
+    "note": "Feni settling the east had founded Hotter's Mire; region not named."
+   },
+   {
+    "when": "384YE Winter",
+    "region": null,
+    "holder": "Jotun",
+    "previous_holder": "Feni",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "After Autumn Equinox 384YE Jotun sweep the whole territory except the vallorn heart."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Jotun renamed it Ashvale at the start of 386YE. At 376YE: Jotun-held, with vallorn in Liath's Heart and Westwood and Navarr holdouts in Beacon Point. Control between 381YE and 384YE is unclear; no significant Navarr presence after Spring 381YE."
+ },
+ {
+  "territory": "Madruga",
+  "imperial": true,
+  "nation": "The Brass Coast",
+  "holder_now": "The Brass Coast",
+  "holder_376": "The Brass Coast",
+  "regions_now": {
+   "Free Landing": "Iron Confederacy",
+   "Crucible": "nobody"
+  },
+  "changes": [
+   {
+    "when": "pre-Empire",
+    "region": "Lightsea",
+    "holder": "Grendel",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Grendel held Lightsea and the islands for some months before being driven off."
+   },
+   {
+    "when": "381YE Winter",
+    "region": "Lightsea",
+    "holder": "Grendel",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Armada invades after Autumn Equinox 381YE; half the coast taken."
+   },
+   {
+    "when": "c. 382YE",
+    "region": "Lightsea",
+    "holder": "The Brass Coast",
+    "previous_holder": "Grendel",
+    "kind": "liberated",
+    "confidence": "low",
+    "note": "Empire responds quickly and drives them out; date not given."
+   },
+   {
+    "when": "385YE Winter",
+    "region": "Siroc Bayou",
+    "holder": "Grendel",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Grendel and Asaveans burn Siroc and hold a beachhead (then Siroc Plains)."
+   },
+   {
+    "when": "386YE",
+    "region": "Free Landing",
+    "holder": "Children of Wrecks",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Siakha's pirates seal off the islands with Spring magic as their stronghold."
+   },
+   {
+    "when": "386YE Autumn",
+    "region": "Siroc Bayou",
+    "holder": "nobody",
+    "previous_holder": "Grendel",
+    "kind": "abandoned",
+    "confidence": "medium",
+    "note": "River flood remakes the region; Grendel pull out, leaving stragglers."
+   },
+   {
+    "when": "386YE Autumn",
+    "region": "Crucible",
+    "holder": "nobody",
+    "previous_holder": null,
+    "kind": "other",
+    "confidence": "medium",
+    "note": "New region created by the flood from parts of two older regions."
+   },
+   {
+    "when": "388YE Summer",
+    "region": "Free Landing",
+    "holder": "Iron Confederacy",
+    "previous_holder": "Children of Wrecks",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Confederacy forces destroy the Wreckers, helped by Freeborn corsairs."
+   },
+   {
+    "when": "388YE Summer",
+    "region": "Siroc Bayou",
+    "holder": "The Brass Coast",
+    "previous_holder": "nobody",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Red Wind Corsairs begin retaking it; listed as Freeborn by the Summer Solstice."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The Autumn 386YE flood reshaped the south into Siroc Bayou (old Siroc Plains), Crucible (new) and Quiet Grasses (old Great Grasses). Free Landing's 386YE date is approximate. Crucible is uncontrolled."
+ },
+ {
+  "territory": "Mareave",
+  "imperial": true,
+  "nation": "Imperial Orcs",
+  "holder_now": "Imperial Orcs",
+  "holder_376": "Grendel",
+  "regions_now": {
+   "Beoraidh": "Beoraidh (city-state)",
+   "Sinfoyard": "Beoraidh (city-state)",
+   "Fleisardh": "Grendel"
+  },
+  "changes": [
+   {
+    "when": "pre-Empire",
+    "region": null,
+    "holder": "Skouran ancestors",
+    "previous_holder": "orcs",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Human settlers drove out the orcs and called the land Mahal."
+   },
+   {
+    "when": null,
+    "region": null,
+    "holder": "Grendel",
+    "previous_holder": "Skouran ancestors",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Orcs later retook it and drove the humans east into the mountains."
+   },
+   {
+    "when": "385YE Winter",
+    "region": "Icarion",
+    "holder": "The Empire",
+    "previous_holder": "Grendel",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Four Imperial armies enter through the Apulian Way against token resistance."
+   },
+   {
+    "when": "385YE Winter",
+    "region": "Nadir",
+    "holder": "The Empire",
+    "previous_holder": "Grendel",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Four Imperial armies enter through the Apulian Way against token resistance."
+   },
+   {
+    "when": "385YE Winter",
+    "region": "Eoradal",
+    "holder": "The Empire",
+    "previous_holder": "Grendel",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Hold secured through a Sentinel Gate conjunction at the Winter Solstice."
+   },
+   {
+    "when": "386YE Spring",
+    "region": "Clisearn",
+    "holder": "The Empire",
+    "previous_holder": "Grendel",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Armies push south taking the rich region and the Fundindelve mines."
+   },
+   {
+    "when": "386YE Spring",
+    "region": null,
+    "holder": "Imperial Orcs",
+    "previous_holder": "Grendel",
+    "kind": "assigned",
+    "confidence": "high",
+    "note": "Empire controls the territory at the start of 386YE; Senate assigns it."
+   },
+   {
+    "when": "by 387YE Winter",
+    "region": "Beoraidh",
+    "holder": "Beoraidh (city-state)",
+    "previous_holder": "Grendel",
+    "kind": "other",
+    "confidence": "medium",
+    "note": "Former Salt Lord's city stands apart from both Grendel and Empire."
+   },
+   {
+    "when": "by 387YE Winter",
+    "region": "Sinfoyard",
+    "holder": "Beoraidh (city-state)",
+    "previous_holder": "Grendel",
+    "kind": "other",
+    "confidence": "medium",
+    "note": "Salt-mine region held by the Beoraidh city-state."
+   },
+   {
+    "when": "by 387YE Winter",
+    "region": "Fleisardh",
+    "holder": "Grendel",
+    "previous_holder": "Imperial Orcs",
+    "kind": "lost",
+    "confidence": "low",
+    "note": "Brine Turtle homeland, once under Imperial control, is listed Grendel-held."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Formerly a Grendel Salt Lord's seat. A big raid on Beoraidh after Winter Solstice 382YE did not take land. When Beoraidh became a recognised city-state, and when Fleisardh changed hands, is not dated on the page."
+ },
+ {
+  "territory": "Miaren",
+  "imperial": true,
+  "nation": "Navarr",
+  "holder_now": "Navarr",
+  "holder_376": "Navarr",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "early Empire (reign of Emperor Giovanni)",
+    "region": null,
+    "holder": "Navarr",
+    "previous_holder": "vallorn",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Vallorn destroyed; Serenael was the last region reclaimed."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Navarr heartland; first territory freed from a vallorn. No recent change of control."
+ },
+ {
+  "territory": "Miekarova",
+  "imperial": true,
+  "nation": "Varushka",
+  "holder_now": "Varushka",
+  "holder_376": "Varushka",
+  "regions_now": {
+   "Miechernya": "Thule",
+   "Mieriada": "Thule"
+  },
+  "changes": [
+   {
+    "when": "383YE",
+    "region": "Miechernya",
+    "holder": "Thule",
+    "previous_holder": "Varushka",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Ceded under the Sermersuaq treaty; most Varushkan residents moved away."
+   },
+   {
+    "when": "by 387YE Autumn",
+    "region": "Mieriada",
+    "holder": "Thule",
+    "previous_holder": "Varushka",
+    "kind": "ceded",
+    "confidence": "medium",
+    "note": "Listed as Thule-held and ceded; the date is not stated."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Main description gives no recent history; region control comes from the page's region and OOC notes. Varushka keeps three of five regions."
+ },
+ {
+  "territory": "Mitwold",
+  "imperial": true,
+  "nation": "The Marches",
+  "holder_now": "The Marches",
+  "holder_376": "The Marches",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "pre-Empire",
+    "region": null,
+    "holder": "The Marches",
+    "previous_holder": "orcs",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Marchers displaced the orcs who once lived here."
+   },
+   {
+    "when": "387YE Winter",
+    "region": "Meade March",
+    "holder": "Jotun",
+    "previous_holder": "The Marches",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Jotun host from Bregasland captures and sacks Meade after Autumn Equinox 387YE."
+   },
+   {
+    "when": "388YE Summer",
+    "region": "Meade March",
+    "holder": "The Marches",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Jotun driven out after Spring Equinox 388YE; Marches hold everything."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Territory never lost as a whole. The page names Meade but not regions; Meade March is inferred, and Oddmire (the Otterway beachhead) was probably also affected."
+ },
+ {
+  "territory": "Morrow",
+  "imperial": true,
+  "nation": "Urizen",
+  "holder_now": "Urizen",
+  "holder_376": "Urizen",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "382YE Autumn",
+    "region": "Peregro",
+    "holder": "Druj",
+    "previous_holder": "Urizen",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Druj pour north from Zenith after Summer Solstice 382YE."
+   },
+   {
+    "when": "382YE Autumn",
+    "region": "Caeli",
+    "holder": "Druj",
+    "previous_holder": "Urizen",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Druj advance stopped only at the Operus border."
+   },
+   {
+    "when": "by 383YE Spring",
+    "region": "Peregro",
+    "holder": "Urizen",
+    "previous_holder": "Druj",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Empire controls the whole territory again by the Spring Equinox."
+   },
+   {
+    "when": "by 383YE Spring",
+    "region": "Caeli",
+    "holder": "Urizen",
+    "previous_holder": "Druj",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Empire controls the whole territory again by the Spring Equinox."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Never lost as a territory (three of five regions held). How the two regions were recovered is not described on the page."
+ },
+ {
+  "territory": "Mountains of the Moon",
+  "imperial": false,
+  "nation": "Tsark",
+  "holder_now": "Tsark",
+  "holder_376": null,
+  "regions_now": {},
+  "changes": [],
+  "confidence": "medium",
+  "notes": "Foreign valley nation of orcs and humans, first reached by Imperial scouts after Summer Solstice 382YE. No history of control given; presumably Tsark throughout."
+ },
+ {
+  "territory": "Mournwold",
+  "imperial": true,
+  "nation": "The Marches",
+  "holder_now": "The Marches",
+  "holder_376": "Jotun",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "c. 349YE",
+    "region": null,
+    "holder": "Jotun",
+    "previous_holder": "The Marches",
+    "kind": "lost",
+    "confidence": "high",
+    "note": "Jotun massed in Liathaven overrun the Mourn; only Greensward stays Imperial."
+   },
+   {
+    "when": "379YE Winter",
+    "region": "Ore Hills",
+    "holder": "The Marches",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "First liberation push after Autumn Equinox 379YE, with part of Freemoor."
+   },
+   {
+    "when": "380YE",
+    "region": "Ore Hills",
+    "holder": "Jotun",
+    "previous_holder": "The Marches",
+    "kind": "lost",
+    "confidence": "medium",
+    "note": "Jotun counterattack throws the Empire back out of Ore Hills and Freemoor."
+   },
+   {
+    "when": "380YE Autumn",
+    "region": "Greensward",
+    "holder": "Jotun",
+    "previous_holder": "The Marches",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Overton falls just before the equinox: first complete Jotun control."
+   },
+   {
+    "when": "380YE Autumn",
+    "region": "Greensward",
+    "holder": "The Marches",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Heroes retake Overton and Orchard's Watch during the equinox itself."
+   },
+   {
+    "when": "381YE Autumn",
+    "region": null,
+    "holder": "The Marches",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Jotun withdraw into Liathaven; territory Imperial again and assigned to the Marches."
+   },
+   {
+    "when": "382YE Winter",
+    "region": "Alderly",
+    "holder": "The Marches",
+    "previous_holder": "Feni",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Drakes army drives the Feni out of the deep woods."
+   },
+   {
+    "when": "386YE Spring",
+    "region": "Southmoor",
+    "holder": "Jotun",
+    "previous_holder": "The Marches",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Jotun return at the start of 386YE, attacking Southmoor."
+   },
+   {
+    "when": "386YE Autumn",
+    "region": null,
+    "holder": "Jotun",
+    "previous_holder": "The Marches",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Jarl Haakon reclaims the territory in late summer 386YE."
+   },
+   {
+    "when": "386YE Winter",
+    "region": null,
+    "holder": "The Marches",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Jotun retreat through autumn; Senate re-assigns Mournwold to the Marches."
+   },
+   {
+    "when": "387YE Autumn",
+    "region": null,
+    "holder": "The Marches",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Last warband beaten at Farstrider's Watch; Marches hold every region."
+   }
+  ],
+  "confidence": "high",
+  "notes": "At 376YE: Jotun-held except Greensward. Deep woods of Alderly were effectively Feni ground until Winter 382YE. Assignment dates (Autumn 381YE, Winter 386YE) are from Senate records."
+ },
+ {
+  "territory": "Necropolis",
+  "imperial": true,
+  "nation": "Highguard",
+  "holder_now": "Highguard",
+  "holder_376": "Highguard",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "pre-Empire",
+    "region": null,
+    "holder": "Highguard",
+    "previous_holder": "orcs",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "First land the Highborn took from the orcs, then called Pharos."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Grendel raids in the early 300s on Sanctuary Sand and Longbeach were beaten off; no change of control."
+ },
+ {
+  "territory": "Ossium",
+  "imperial": true,
+  "nation": "Varushka",
+  "holder_now": "Varushka",
+  "holder_376": "Druj",
+  "regions_now": {
+   "Bonewood": "Thule",
+   "Webwood": "Thule"
+  },
+  "changes": [
+   {
+    "when": "382YE Autumn",
+    "region": "Bittershore",
+    "holder": "The Empire",
+    "previous_holder": "Druj",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Dawnish armies cross the Golden Causeway; first region taken."
+   },
+   {
+    "when": "382YE Autumn",
+    "region": "Galath Fields",
+    "holder": "The Empire",
+    "previous_holder": "Druj",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Early success alongside Bittershore."
+   },
+   {
+    "when": "382YE Winter",
+    "region": "Echofell",
+    "holder": "The Empire",
+    "previous_holder": "Druj",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Taken in winter, ending in battle at the Tower of the Scorpion."
+   },
+   {
+    "when": "382YE Winter",
+    "region": null,
+    "holder": "Varushka",
+    "previous_holder": "Druj",
+    "kind": "assigned",
+    "confidence": "high",
+    "note": "Senate assigns the territory to Varushka at the Winter Solstice."
+   },
+   {
+    "when": "383YE Spring",
+    "region": null,
+    "holder": "Varushka",
+    "previous_holder": "Druj",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Whole territory taken by the equinox; Nearweald and Drownbark Forest last."
+   },
+   {
+    "when": "by 383YE Spring",
+    "region": "Bonewood",
+    "holder": "Thule",
+    "previous_holder": "Druj",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Thule allies from Otkodov took and kept the northern forest."
+   },
+   {
+    "when": "383YE Winter",
+    "region": "Webwood",
+    "holder": "Thule",
+    "previous_holder": "Varushka",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Senate ratifies a treaty ceding the region to the Thule."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Druj-held Mallum territory before the Autumn 382YE invasion by Dawn, Varushka and Thule allies. Sand Fisher orcs of Bittershore moved to Holberg in 383YE."
+ },
+ {
+  "territory": "Otkodov",
+  "imperial": false,
+  "nation": "Thule",
+  "holder_now": "Thule",
+  "holder_376": null,
+  "regions_now": {},
+  "changes": [],
+  "confidence": "medium",
+  "notes": "Page describes the whole Thule nation (territories Urdur, Verthandi, Sküld, Nithoggir), not one territory. No control history given; presumably Thule throughout."
+ },
+ {
+  "territory": "Redoubt",
+  "imperial": true,
+  "nation": "Urizen",
+  "holder_now": "Urizen",
+  "holder_376": "Urizen",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "380YE Winter",
+    "region": "Naris",
+    "holder": "Grendel",
+    "previous_holder": "Urizen",
+    "kind": "conquered",
+    "confidence": "low",
+    "note": "Naval assault leaves a significant Grendel presence; full control not stated."
+   },
+   {
+    "when": "381YE Summer",
+    "region": "Naris",
+    "holder": "Urizen",
+    "previous_holder": "Grendel",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Freeborn Storm navy removes the Grendel."
+   },
+   {
+    "when": "387YE",
+    "region": "Naris",
+    "holder": "Grendel",
+    "previous_holder": "Urizen",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Grendel assail the region and capture the port of Elos."
+   },
+   {
+    "when": "388YE Spring",
+    "region": "Naris",
+    "holder": "Urizen",
+    "previous_holder": "Grendel",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Urizen control every region again by the Spring Equinox."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Never lost as a territory. The 387-388YE Grendel invasion appears only in the page's feature notes; which other regions were affected is not stated."
+ },
+ {
+  "territory": "Reikos",
+  "imperial": true,
+  "nation": "Highguard",
+  "holder_now": "Highguard",
+  "holder_376": "Druj",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "56YE",
+    "region": null,
+    "holder": "Highguard",
+    "previous_holder": "orcs",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Final conquest of Reikos; southern settlements were older."
+   },
+   {
+    "when": "367YE",
+    "region": null,
+    "holder": "Druj",
+    "previous_holder": "Highguard",
+    "kind": "lost",
+    "confidence": "high",
+    "note": "Surprise attack through the Great Forest; territory falls, southern chapters hold on."
+   },
+   {
+    "when": "372YE",
+    "region": "Tamarbode",
+    "holder": "Druj",
+    "previous_holder": "Highguard",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Last fortified chapters on the Brocéliande border overrun."
+   },
+   {
+    "when": "377YE Autumn",
+    "region": "Riverwatch",
+    "holder": "Druj",
+    "previous_holder": "Highguard",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Major offensive takes the last Highborn-held regions."
+   },
+   {
+    "when": "377YE Autumn",
+    "region": "Haros Water",
+    "holder": "Druj",
+    "previous_holder": "Highguard",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Major offensive takes the last Highborn-held regions."
+   },
+   {
+    "when": "378YE Winter",
+    "region": "Haros Water",
+    "holder": "Highguard",
+    "previous_holder": "Druj",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Liberation begins; three-day street battle in Haros, which the Druj burn."
+   },
+   {
+    "when": "379YE Winter",
+    "region": null,
+    "holder": "Highguard",
+    "previous_holder": "Druj",
+    "kind": "assigned",
+    "confidence": "high",
+    "note": "Enough regions retaken; Senate assigns Reikos to Highguard."
+   },
+   {
+    "when": "380YE",
+    "region": null,
+    "holder": "Highguard",
+    "previous_holder": "Druj",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Final liberation early in the year after Urith Barath falls."
+   },
+   {
+    "when": "380YE Summer",
+    "region": "Tamarbode",
+    "holder": "Llofir (eternal)",
+    "previous_holder": "Druj",
+    "kind": "other",
+    "confidence": "high",
+    "note": "Spring magic surge; the eternal claims the never fully freed region."
+   },
+   {
+    "when": "383YE Summer",
+    "region": "Tamarbode",
+    "holder": "Highguard",
+    "previous_holder": "Llofir (eternal)",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "League armies and the garrison force the eternal to withdraw."
+   }
+  ],
+  "confidence": "high",
+  "notes": "At 376YE: Druj-held except Riverwatch and Haros Water. Page text says the Llofir surge was early 380YE; region note says Summer 380YE. Winter 379YE assignment is from the Senate motion record."
+ },
+ {
+  "territory": "Reinos",
+  "imperial": false,
+  "nation": "Jotun",
+  "holder_now": "Jotun",
+  "holder_376": null,
+  "regions_now": {},
+  "changes": [],
+  "confidence": "medium",
+  "notes": "Lasambrian Hills territory held by the Lasambrian Jotun (all regions, as of Summer 387YE). No history given."
+ },
+ {
+  "territory": "Salt Flats of Sanath",
+  "imperial": false,
+  "nation": "Druj",
+  "holder_now": "Druj",
+  "holder_376": null,
+  "regions_now": {
+   "Lower Saarnath": "The Empire"
+  },
+  "changes": [
+   {
+    "when": "388YE Autumn",
+    "region": "Lower Saarnath",
+    "holder": "The Empire",
+    "previous_holder": "Druj",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Imperial advance takes this one region; territory stays Druj."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "An Autumn 385YE expedition only scouted Sydathian Fens. Ûrinth is claimed by the Black Wind sept, moved out of the Barrens. 'Strategic Considerations' in the places list is a page heading, not a region. No earlier history; presumably Druj throughout."
+ },
+ {
+  "territory": "Sarangrave",
+  "imperial": true,
+  "nation": "Urizen",
+  "holder_now": "Urizen",
+  "holder_376": "Druj",
+  "regions_now": {
+   "Bendol": "vallorn",
+   "Thornfen": "Axos",
+   "Nesustak Forest": "Nesustak Forest rebels"
+  },
+  "changes": [
+   {
+    "when": "387YE Autumn",
+    "region": null,
+    "holder": "Urizen",
+    "previous_holder": "Druj",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Invasion began Spring 387YE; Senate assigns the territory to Urizen."
+   },
+   {
+    "when": "388YE Spring",
+    "region": "Thornfen",
+    "holder": "Axos",
+    "previous_holder": "Druj",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Region and the Tower of the Skink taken and claimed by the Axou."
+   },
+   {
+    "when": "by 388YE Summer",
+    "region": "Nesustak Forest",
+    "holder": "Nesustak Forest rebels",
+    "previous_holder": "Druj",
+    "kind": "other",
+    "confidence": "medium",
+    "note": "Former Druj subjects hold the forest under a treaty with the Empire."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Urizen holds Turan Flats, Kroll, Bloodwater Marsh and Whisperwood. Bendol has been a vallorn heart throughout. The page's main text still describes Druj rule; current control and the Autumn 387YE assignment come from its OOC note and Senate records."
+ },
+ {
+  "territory": "Sarvos",
+  "imperial": true,
+  "nation": "The League",
+  "holder_now": "The League",
+  "holder_376": "The League",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "pre-Empire",
+    "region": null,
+    "holder": "Highguard",
+    "previous_holder": null,
+    "kind": "founded",
+    "confidence": "high",
+    "note": "City founded by Highborn colonists."
+   },
+   {
+    "when": "pre-Empire (Highborn civil war)",
+    "region": null,
+    "holder": "Sarvos (independent city)",
+    "previous_holder": "Highguard",
+    "kind": "other",
+    "confidence": "high",
+    "note": "Seceded from Highguard during its civil war."
+   },
+   {
+    "when": "foundation of the Empire",
+    "region": null,
+    "holder": "The League",
+    "previous_holder": "Sarvos (independent city)",
+    "kind": "other",
+    "confidence": "medium",
+    "note": "Joined the Empire as part of the newly formed League."
+   },
+   {
+    "when": "380YE Summer",
+    "region": "Cigno",
+    "holder": "Grendel",
+    "previous_holder": "The League",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Grendel seize the island city between Spring and Summer 380YE and sack it."
+   },
+   {
+    "when": "380YE Summer",
+    "region": "Cigno",
+    "holder": "The League",
+    "previous_holder": "Grendel",
+    "kind": "abandoned",
+    "confidence": "medium",
+    "note": "Raiders leave with their loot the same season amid resistance."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The territory page only mentions 'the sack of Sarvos in 380YE'; the brief Grendel hold on Cigno is taken from the Summer 380YE war reports."
+ },
+ {
+  "territory": "Sea of Snow",
+  "imperial": false,
+  "nation": "none",
+  "holder_now": "nobody",
+  "holder_376": null,
+  "regions_now": {},
+  "changes": [],
+  "confidence": "medium",
+  "notes": "Northern sea, no regions and no holder. Mapped by Imperial captains in late 384YE."
+ },
+ {
+  "territory": "Segura",
+  "imperial": true,
+  "nation": "The Brass Coast",
+  "holder_now": "The Brass Coast",
+  "holder_376": "Lasambrian orcs",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "363YE",
+    "region": "Anduzjasse",
+    "holder": "Lasambrian orcs",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Orcs from the western hills take Anduz and burn the grassland."
+   },
+   {
+    "when": "363YE",
+    "region": "Yellow Chase",
+    "holder": "Lasambrian orcs",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Overrun in quick succession; became the invaders' armed camp."
+   },
+   {
+    "when": "363YE",
+    "region": "Anozeseri",
+    "holder": "Lasambrian orcs",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Overrun in quick succession."
+   },
+   {
+    "when": "363YE",
+    "region": "Iron Plains",
+    "holder": "Lasambrian orcs",
+    "previous_holder": "The Brass Coast",
+    "kind": "lost",
+    "confidence": "medium",
+    "note": "Freeborn armies beaten after days of fighting and pushed back to Anozel."
+   },
+   {
+    "when": "367YE",
+    "region": "Burnish",
+    "holder": "Lasambrian orcs",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Falls almost unnoticed outside the Brass Coast."
+   },
+   {
+    "when": "377YE Winter",
+    "region": "Sobral Grasses",
+    "holder": "The Brass Coast",
+    "previous_holder": "Lasambrian orcs",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Offensive by the Red Wind Corsairs and Hounds of Glory."
+   },
+   {
+    "when": "377YE Winter",
+    "region": "Anozeseri",
+    "holder": "The Brass Coast",
+    "previous_holder": "Lasambrian orcs",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Farms freed in the same offensive."
+   },
+   {
+    "when": "377YE Winter",
+    "region": "Iron Plains",
+    "holder": "The Brass Coast",
+    "previous_holder": "Lasambrian orcs",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Invaders forced to retreat across the plains."
+   },
+   {
+    "when": "378YE Summer",
+    "region": null,
+    "holder": "The Brass Coast",
+    "previous_holder": "Lasambrian orcs",
+    "kind": "assigned",
+    "confidence": "high",
+    "note": "Senate assigns reconquered Segura to the Brass Coast; three regions still occupied."
+   },
+   {
+    "when": "378YE Autumn",
+    "region": "Anduzjasse",
+    "holder": "The Brass Coast",
+    "previous_holder": "Lasambrian orcs",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Peace deal: remaining regions handed back for materials; orcs withdraw west."
+   },
+   {
+    "when": "378YE Autumn",
+    "region": "Yellow Chase",
+    "holder": "The Brass Coast",
+    "previous_holder": "Lasambrian orcs",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Peace deal: remaining regions handed back for materials; orcs withdraw west."
+   },
+   {
+    "when": "378YE Autumn",
+    "region": "Burnish",
+    "holder": "The Brass Coast",
+    "previous_holder": "Lasambrian orcs",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Peace deal: remaining regions handed back for materials; orcs withdraw west."
+   },
+   {
+    "when": "382YE Winter",
+    "region": "Anduzjasse",
+    "holder": "Jotun",
+    "previous_holder": "The Brass Coast",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Lasambrian Jotun invade, also gaining a foothold in Anozeseri."
+   },
+   {
+    "when": "by 384YE Spring",
+    "region": "Anduzjasse",
+    "holder": "The Brass Coast",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Invaders pushed back through late 383YE; whole territory Freeborn by the equinox."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "At 376YE: Lasambrian-held; Lucksprings stayed Freeborn and Sobral Grasses was at least partly held. Lasambrians came back as refugees in 379YE. The 382-384YE invasion is not in the page's history; it comes from war reports and the OOC note."
+ },
+ {
+  "territory": "Semmerholm",
+  "imperial": true,
+  "nation": "Dawn",
+  "holder_now": "Dawn",
+  "holder_376": "Dawn",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "52YE",
+    "region": null,
+    "holder": "Dawn",
+    "previous_holder": "orcs",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Orc nation destroyed; last stand at Ulvenholm."
+   },
+   {
+    "when": "373YE",
+    "region": "Estmure",
+    "holder": "Druj",
+    "previous_holder": "Dawn",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Four Druj armies push in from Holberg and besiege Estcastle."
+   },
+   {
+    "when": "c. 373YE",
+    "region": "Estmure",
+    "holder": "Dawn",
+    "previous_holder": "Druj",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Reinforced Dawnish counter-attack drives the Druj back into Holberg."
+   },
+   {
+    "when": "381YE Autumn",
+    "region": "Axmure",
+    "holder": "Druj",
+    "previous_holder": "Dawn",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Druj sweep up from Dawnguard soon after Summer Solstice 381YE."
+   },
+   {
+    "when": "382YE Spring",
+    "region": "Axmure",
+    "holder": "Dawn",
+    "previous_holder": "Druj",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Dawnish armies and Summer knights expel them by the equinox."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Never lost as a territory."
+ },
+ {
+  "territory": "Sermersuaq",
+  "imperial": true,
+  "nation": "Wintermark",
+  "holder_now": "Wintermark",
+  "holder_376": "Wintermark",
+  "regions_now": {
+   "Silver Peaks": "Thule"
+  },
+  "changes": [
+   {
+    "when": "370YE Winter",
+    "region": "Stark",
+    "holder": "Jotun",
+    "previous_holder": "Wintermark",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Jotun invade in force."
+   },
+   {
+    "when": "370YE Winter",
+    "region": "Tanikipari",
+    "holder": "Jotun",
+    "previous_holder": "Wintermark",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Jotun invade in force."
+   },
+   {
+    "when": "c. 370YE",
+    "region": null,
+    "holder": "Wintermark",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Wintermark and Marcher armies under Britta drive them out soon after."
+   },
+   {
+    "when": "379YE Summer",
+    "region": "Silver Peaks",
+    "holder": "Thule",
+    "previous_holder": "Wintermark",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Invaded 378YE, then ceded by the peace treaty for land elsewhere."
+   },
+   {
+    "when": "382YE Spring",
+    "region": "Stark",
+    "holder": "Jotun",
+    "previous_holder": "Wintermark",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Jotun strike just after Winter Solstice 381YE."
+   },
+   {
+    "when": "382YE Summer",
+    "region": "Tanikipari",
+    "holder": "Jotun",
+    "previous_holder": "Wintermark",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Fully conquered over the following three months."
+   },
+   {
+    "when": "382YE Summer",
+    "region": "Sealtoq",
+    "holder": "Jotun",
+    "previous_holder": "Wintermark",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Taken in the same advance, ending with the fall of Atalaq."
+   },
+   {
+    "when": "382YE Autumn",
+    "region": null,
+    "holder": "Jotun",
+    "previous_holder": "Wintermark",
+    "kind": "lost",
+    "confidence": "high",
+    "note": "Whole territory in Jotun hands by the Autumn Equinox."
+   },
+   {
+    "when": "384YE Summer",
+    "region": null,
+    "holder": "Wintermark",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Imperial and Thule armies retake it; Senate re-assigns it to Wintermark."
+   },
+   {
+    "when": "384YE Winter",
+    "region": null,
+    "holder": "Wintermark",
+    "previous_holder": "Jotun",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Jotun fully driven into Skallahn and Tromsa; only Silver Peaks stays Thule."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Thule alliance against the Jotun was agreed in Spring 383YE. The page gives no date for the liberation; Summer 384YE re-assignment is from Senate records."
+ },
+ {
+  "territory": "Skallahn",
+  "imperial": false,
+  "nation": "Jotun",
+  "holder_now": "Jotun",
+  "holder_376": null,
+  "regions_now": {
+   "Greenwall": "The Empire"
+  },
+  "changes": [
+   {
+    "when": "387YE Winter",
+    "region": "Greenwall",
+    "holder": "The Empire",
+    "previous_holder": "Jotun",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Imperial invasion takes this one region; territory stays Jotun."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Part of the Jotun kingdom of Kalsea. Earlier Imperial raids and invasions (384-385YE) held nothing lasting. No earlier history; presumably Jotun throughout."
+ },
+ {
+  "territory": "Skarsind",
+  "imperial": true,
+  "nation": "Imperial Orcs",
+  "holder_now": "Imperial Orcs",
+  "holder_376": "Thule",
+  "regions_now": {
+   "Crow’s Ridge": "Thule"
+  },
+  "changes": [
+   {
+    "when": "154YE",
+    "region": "Skogei Glens",
+    "holder": "Wintermark",
+    "previous_holder": null,
+    "kind": "other",
+    "confidence": "medium",
+    "note": "Last region of Skarsind brought into the Empire."
+   },
+   {
+    "when": "373YE",
+    "region": null,
+    "holder": "Thule",
+    "previous_holder": "Wintermark",
+    "kind": "lost",
+    "confidence": "high",
+    "note": "Thule army under a magical blizzard smashes Gildenheim; territory falls."
+   },
+   {
+    "when": "375YE",
+    "region": "Southpine",
+    "holder": "Wintermark",
+    "previous_holder": "Thule",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Torfast retaken by Wintermark, League and Varushkan forces."
+   },
+   {
+    "when": "377YE",
+    "region": "Skogei Glens",
+    "holder": "Wintermark",
+    "previous_holder": "Thule",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Recaptured early in the big push of 377YE."
+   },
+   {
+    "when": "377YE Autumn",
+    "region": null,
+    "holder": "Wintermark",
+    "previous_holder": "Thule",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Thule driven out; Senate assigns the reclaimed territory to Wintermark."
+   },
+   {
+    "when": "379YE Autumn",
+    "region": null,
+    "holder": "Imperial Orcs",
+    "previous_holder": "Wintermark",
+    "kind": "assigned",
+    "confidence": "high",
+    "note": "Wintermark gives up its claim; territory reassigned as the orcs' homeland."
+   },
+   {
+    "when": "381YE Spring",
+    "region": "Crow’s Ridge",
+    "holder": "Imperial Orcs",
+    "previous_holder": "Wintermark rebels (Dogri Thulebane)",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Iron Helms take Crow's Keep and capture the rebel thane."
+   },
+   {
+    "when": "382YE Summer",
+    "region": "Crow’s Ridge",
+    "holder": "Thule",
+    "previous_holder": "Imperial Orcs",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Ceded under the Summer 382YE peace treaty with the Thule."
+   }
+  ],
+  "confidence": "high",
+  "notes": "At 376YE: Thule-held, with Southpine (Torfast) back in Imperial hands since 375YE and resistance around Solvi. Page says the handover decision was taken early 379YE; Senate records put the assignment at Autumn 379YE (relinquished Spring 379YE). Region notes give conflicting invasion years (371/372/373YE)."
+ },
+ {
+  "territory": "Spiral",
+  "imperial": true,
+  "nation": "The League",
+  "holder_now": "The League",
+  "holder_376": "Grendel",
+  "regions_now": {
+   "Cinion": "Silver Flame"
+  },
+  "changes": [
+   {
+    "when": "331YE",
+    "region": null,
+    "holder": "Grendel",
+    "previous_holder": "Urizen",
+    "kind": "lost",
+    "confidence": "high",
+    "note": "Broken Shore orcs come up through Apulus and overrun the territory."
+   },
+   {
+    "when": "379YE Summer",
+    "region": "Ossuary",
+    "holder": "Grendel",
+    "previous_holder": "The Empire",
+    "kind": "lost",
+    "confidence": "medium",
+    "note": "Region with the Legacy mine lost to the Grendel."
+   },
+   {
+    "when": "380YE Summer",
+    "region": null,
+    "holder": "Urizen",
+    "previous_holder": "Grendel",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Spiral reclaimed in 380YE and assigned to Urizen by the Senate."
+   },
+   {
+    "when": "381YE Spring",
+    "region": null,
+    "holder": "Grendel",
+    "previous_holder": "Urizen",
+    "kind": "lost",
+    "confidence": "high",
+    "note": "Offensive drives Imperial forces back to Cinion; territory falls again."
+   },
+   {
+    "when": "382YE Spring",
+    "region": null,
+    "holder": "Urizen",
+    "previous_holder": "Grendel",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "After the Battle of Solen's Doubt; Senate assigns Spiral to Urizen again."
+   },
+   {
+    "when": null,
+    "region": "Screed",
+    "holder": "Druj",
+    "previous_holder": null,
+    "kind": "conquered",
+    "confidence": "low",
+    "note": "Region was Druj-held for a time; undated."
+   },
+   {
+    "when": null,
+    "region": "Ossuary",
+    "holder": "Druj",
+    "previous_holder": null,
+    "kind": "conquered",
+    "confidence": "low",
+    "note": "Changed hands between Grendel, Empire and Druj; undated."
+   },
+   {
+    "when": "383YE Winter",
+    "region": "Ankra",
+    "holder": "Grendel",
+    "previous_holder": "Urizen",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Ceded by the Autumn 383YE peace treaty; Salt Lord Kaliact takes charge."
+   },
+   {
+    "when": "383YE Winter",
+    "region": "Cinion",
+    "holder": "Grendel",
+    "previous_holder": "Urizen",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Ceded by the Autumn 383YE peace treaty."
+   },
+   {
+    "when": "383YE Winter",
+    "region": "Ateri",
+    "holder": "Grendel",
+    "previous_holder": "Urizen",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Ceded by the Autumn 383YE peace treaty."
+   },
+   {
+    "when": "383YE Winter",
+    "region": null,
+    "holder": "Grendel",
+    "previous_holder": "Urizen",
+    "kind": "lost",
+    "confidence": "medium",
+    "note": "With three regions ceded, Kaliact rules the territory."
+   },
+   {
+    "when": "385YE Spring",
+    "region": null,
+    "holder": "The League",
+    "previous_holder": "Grendel",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Treaty with Kaliact cedes Spiral to the Empire; claimed by a League army."
+   },
+   {
+    "when": "385YE Summer",
+    "region": null,
+    "holder": "The League",
+    "previous_holder": "The League",
+    "kind": "other",
+    "confidence": "high",
+    "note": "Kaliact's Apulians join the League; first League senator elected."
+   },
+   {
+    "when": "by 386YE Summer",
+    "region": "Cinion",
+    "holder": "Silver Flame",
+    "previous_holder": "The League",
+    "kind": "ceded",
+    "confidence": "medium",
+    "note": "Dissident Urizen group holds the region under a settlement."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "At 376YE: Grendel-held, though the Empire kept Fort Mezudan in Ateri (ruined Autumn 379YE). The 380YE and 382YE recoveries rest on Senate assignment records and passing mentions; the page's own history skips them."
+ },
+ {
+  "territory": "Tassato",
+  "imperial": true,
+  "nation": "The League",
+  "holder_now": "The League",
+  "holder_376": "The League",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "pre-Empire",
+    "region": null,
+    "holder": "Highguard",
+    "previous_holder": null,
+    "kind": "founded",
+    "confidence": "medium",
+    "note": "Twin towns Mestra and Regario founded by Highborn siblings."
+   },
+   {
+    "when": "pre-Empire (Highborn civil war)",
+    "region": null,
+    "holder": "Tassato (independent city)",
+    "previous_holder": "Highguard",
+    "kind": "other",
+    "confidence": "high",
+    "note": "Quietly seceded from Highguard along with Sarvos."
+   },
+   {
+    "when": "foundation of the Empire",
+    "region": null,
+    "holder": "The League",
+    "previous_holder": "Tassato (independent city)",
+    "kind": "other",
+    "confidence": "medium",
+    "note": "Joined the Empire as part of the League."
+   }
+  ],
+  "confidence": "high",
+  "notes": "No recent change of control."
+ },
+ {
+  "territory": "Temeschwar",
+  "imperial": true,
+  "nation": "The League",
+  "holder_now": "The League",
+  "holder_376": "The League",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "foundation of the Empire",
+    "region": null,
+    "holder": "The League",
+    "previous_holder": "Varushka",
+    "kind": "other",
+    "confidence": "medium",
+    "note": "Formerly Varushkan city joined the Empire when the League formed."
+   }
+  ],
+  "confidence": "high",
+  "notes": "No recent change of control."
+ },
+ {
+  "territory": "The Barrens",
+  "imperial": true,
+  "nation": "Dawn",
+  "holder_now": "Dawn",
+  "holder_376": "Druj",
+  "regions_now": {
+   "Heart of Peytaht": "Great Forest Orcs",
+   "Bitter Strand": "Rahvin"
+  },
+  "changes": [
+   {
+    "when": null,
+    "region": null,
+    "holder": "Druj",
+    "previous_holder": "indigenous orc nations",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Druj subjugated the eastern Barrens about a century before Britta's reign."
+   },
+   {
+    "when": "325YE",
+    "region": null,
+    "holder": "Montane (rogue kingdom)",
+    "previous_holder": null,
+    "kind": "founded",
+    "confidence": "low",
+    "note": "Freedom Heresy renegades set up a short-lived kingdom, gone by 328YE."
+   },
+   {
+    "when": "380YE Autumn",
+    "region": null,
+    "holder": "Druj",
+    "previous_holder": "indigenous orc septs",
+    "kind": "conquered",
+    "confidence": "low",
+    "note": "Druj put down their rebelling subject septs and regain the east."
+   },
+   {
+    "when": "381YE Summer",
+    "region": "Dawnguard",
+    "holder": "Druj",
+    "previous_holder": "Dawn",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Druj invasion overruns the long-held Dawnish settlements."
+   },
+   {
+    "when": "385YE Spring",
+    "region": null,
+    "holder": "Dawn",
+    "previous_holder": "Druj",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Imperial offensive completes the conquest; Senate assigns the territory to Dawn."
+   },
+   {
+    "when": "386YE Winter",
+    "region": "Bitter Strand",
+    "holder": "Rahvin",
+    "previous_holder": "Dawn",
+    "kind": "ceded",
+    "confidence": "high",
+    "note": "Senate cedes the region and its mithril mine to the Rahvin sept."
+   },
+   {
+    "when": "by 387YE Spring",
+    "region": "Heart of Peytaht",
+    "holder": "Great Forest Orcs",
+    "previous_holder": "Dawn",
+    "kind": "ceded",
+    "confidence": "medium",
+    "note": "Forest held by the Great Forest Orcs, as promised by treaty."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "At 376YE: Druj overlords in the east, Dawn holding Dawnguard in the west. Imperial attacks began early 384YE. The page defers detailed history to another article; the assignment date is from Senate records."
+ },
+ {
+  "territory": "The Semmerlak",
+  "imperial": false,
+  "nation": "none",
+  "holder_now": "nobody",
+  "holder_376": null,
+  "regions_now": {},
+  "changes": [],
+  "confidence": "medium",
+  "notes": "Freshwater lake with no regions, bordered by Dawn, Varushka, the League's Holberg and the Mallum. No holder."
+ },
+ {
+  "territory": "Therunin",
+  "imperial": false,
+  "nation": "Navarr",
+  "holder_now": "nobody (contested)",
+  "holder_376": "Navarr",
+  "regions_now": {
+   "Eastring": "vallorn",
+   "Greenheart": "vallorn",
+   "Sweetglades": "vallorn",
+   "East Ashes": "Druj",
+   "Upper Tarn Valley": "Druj",
+   "Peakedge Song": "Druj",
+   "Lower Tarn Valley": "Navarr"
+  },
+  "changes": [
+   {
+    "when": "105YE",
+    "region": "Eastring",
+    "holder": "Navarr",
+    "previous_holder": "vallorn",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "First recovered from the vallorn."
+   },
+   {
+    "when": "386YE Summer",
+    "region": "Eastring",
+    "holder": "Druj",
+    "previous_holder": "Navarr",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Surprise attack out of Sarangrave after Spring Equinox 386YE."
+   },
+   {
+    "when": "386YE Summer",
+    "region": "East Ashes",
+    "holder": "Druj",
+    "previous_holder": "Navarr",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Surprise attack out of Sarangrave after Spring Equinox 386YE."
+   },
+   {
+    "when": "387YE Spring",
+    "region": "Lower Tarn Valley",
+    "holder": "Druj",
+    "previous_holder": "Navarr",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Druj sweep west after Winter Solstice 386YE."
+   },
+   {
+    "when": "387YE Spring",
+    "region": "Upper Tarn Valley",
+    "holder": "Druj",
+    "previous_holder": "Navarr",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Druj sweep west after Winter Solstice 386YE."
+   },
+   {
+    "when": "387YE Spring",
+    "region": "Peakedge Song",
+    "holder": "Druj",
+    "previous_holder": "Navarr",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Last free region falls; whole territory under Druj control."
+   },
+   {
+    "when": "387YE Winter",
+    "region": "Eastring",
+    "holder": "vallorn",
+    "previous_holder": "Druj",
+    "kind": "lost",
+    "confidence": "high",
+    "note": "Roused vallorn consumes the region and the Druj forces there."
+   },
+   {
+    "when": "by 388YE Autumn",
+    "region": "Lower Tarn Valley",
+    "holder": "Navarr",
+    "previous_holder": "Druj",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Listed as Imperial-held again; no date given for its recovery."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "No longer counted as Imperial; no majority holder (vallorn 3 regions, Druj 3, Navarr/Empire 1 as of Autumn 388YE). Greenheart and Sweetglades were vallorn all along. Druj hold on their three regions is nominal; East Ashes is infested with vallornspawn. A Druj attack on Peakedge Song in Winter 377YE was repelled."
+ },
+ {
+  "territory": "Tromsa",
+  "imperial": false,
+  "nation": "Jotun",
+  "holder_now": "Jotun",
+  "holder_376": null,
+  "regions_now": {},
+  "changes": [],
+  "confidence": "medium",
+  "notes": "Part of the Jotun kingdom of Kalsea; every region Jotun as of Summer 387YE. No history given."
+ },
+ {
+  "territory": "Upwold",
+  "imperial": true,
+  "nation": "The Marches",
+  "holder_now": "The Marches",
+  "holder_376": "The Marches",
+  "regions_now": {},
+  "changes": [],
+  "confidence": "high",
+  "notes": "No change of control. Jotun attacks across the Mournwold border, the last in 372YE, were beaten off."
+ },
+ {
+  "territory": "Verthandi",
+  "imperial": false,
+  "nation": "Thule",
+  "holder_now": "Thule",
+  "holder_376": "Thule",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "241YE",
+    "region": null,
+    "holder": "The Empire",
+    "previous_holder": "Thule",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Varushkan and Dawnish force conquers parts of the territory; regions not named."
+   },
+   {
+    "when": "243YE",
+    "region": null,
+    "holder": "Thule",
+    "previous_holder": "The Empire",
+    "kind": "lost",
+    "confidence": "high",
+    "note": "Occupiers retreat over the mountains, chased by a Thule counter-invasion."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Thule territory in Otkodov; all seven regions Thule. Imperial spy network ran 377YE to Winter 381YE."
+ },
+ {
+  "territory": "Volodmartz",
+  "imperial": true,
+  "nation": "Varushka",
+  "holder_now": "Varushka",
+  "holder_376": "Varushka",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": null,
+    "region": null,
+    "holder": "Varushka",
+    "previous_holder": "Volodny (Alderei the tyrant-boyar)",
+    "kind": "conquered",
+    "confidence": "low",
+    "note": "Imperial Army defeated the tyrant-boyar here; undated."
+   }
+  ],
+  "confidence": "high",
+  "notes": "All regions Imperial. Thule probes after 368YE and a beachhead attempt near Void (376/377YE) were repelled. Sungold Pass mines in Opascari were ceded to the Thule by treaty, but not the region."
+ },
+ {
+  "territory": "Weirwater",
+  "imperial": true,
+  "nation": "Dawn",
+  "holder_now": "Dawn",
+  "holder_376": "Dawn",
+  "regions_now": {},
+  "changes": [],
+  "confidence": "high",
+  "notes": "No change of control. A Druj raft invasion across the Semmerlak in Empress Varkula's reign was defeated."
+ },
+ {
+  "territory": "Zenith",
+  "imperial": true,
+  "nation": "Urizen",
+  "holder_now": "Urizen",
+  "holder_376": "Urizen",
+  "regions_now": {},
+  "changes": [
+   {
+    "when": "381YE Summer",
+    "region": "Lustri",
+    "holder": "Druj",
+    "previous_holder": "Urizen",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Druj invade from the Mallum a month after the Spring Equinox."
+   },
+   {
+    "when": "381YE Summer",
+    "region": "Occursion",
+    "holder": "Druj",
+    "previous_holder": "Urizen",
+    "kind": "conquered",
+    "confidence": "high",
+    "note": "Falls in short order with Lustri."
+   },
+   {
+    "when": "382YE Spring",
+    "region": null,
+    "holder": "Druj",
+    "previous_holder": "Urizen",
+    "kind": "lost",
+    "confidence": "high",
+    "note": "After Winter Solstice 381YE the defenders are driven out entirely."
+   },
+   {
+    "when": "384YE Autumn",
+    "region": null,
+    "holder": "Urizen",
+    "previous_holder": "Druj",
+    "kind": "liberated",
+    "confidence": "high",
+    "note": "Empire retakes enough regions; Senate assigns Zenith to Urizen again."
+   },
+   {
+    "when": "387YE Summer",
+    "region": "Lustri",
+    "holder": "Druj",
+    "previous_holder": "Urizen",
+    "kind": "conquered",
+    "confidence": "medium",
+    "note": "Druj invade after Spring Equinox 387YE and destroy the Stork's Gaze."
+   },
+   {
+    "when": "387YE Autumn",
+    "region": "Lustri",
+    "holder": "Urizen",
+    "previous_holder": "Druj",
+    "kind": "liberated",
+    "confidence": "medium",
+    "note": "Urizen control the entire territory by the Autumn Equinox."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Under Druj rule from Spring 382YE to Autumn 384YE. The page does not describe the liberation; its date comes from the Autumn 384YE war report and Senate record. Proceris was flooded and Iteri's spires taken in late 381YE."
+ }
+]

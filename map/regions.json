@@ -1,0 +1,1634 @@
+{
+ "Necropolis": [
+  {
+   "name": "Coursmouth",
+   "anchor": "coursmouth",
+   "words": 206
+  },
+  {
+   "name": "Fishguard",
+   "anchor": "fishguard",
+   "words": 183
+  },
+  {
+   "name": "Hedrossan",
+   "anchor": "hedrossan",
+   "words": 214
+  },
+  {
+   "name": "Highrod",
+   "anchor": "highrod",
+   "words": 231
+  },
+  {
+   "name": "Longbeach",
+   "anchor": "longbeach",
+   "words": 231
+  },
+  {
+   "name": "Sanctuary Sand",
+   "anchor": "sanctuary-sand",
+   "words": 238
+  }
+ ],
+ "Bastion": [
+  {
+   "name": "Bastion Rounds",
+   "anchor": "bastion-rounds",
+   "words": 152
+  },
+  {
+   "name": "The Elms",
+   "anchor": "the-elms",
+   "words": 141
+  },
+  {
+   "name": "Stoneside",
+   "anchor": "stoneside",
+   "words": 130
+  },
+  {
+   "name": "Sybella Cross",
+   "anchor": "sybella-cross",
+   "words": 142
+  },
+  {
+   "name": "Woodbury",
+   "anchor": "woodbury",
+   "words": 332
+  }
+ ],
+ "Reikos": [
+  {
+   "name": "Broken Ride",
+   "anchor": "broken-ride",
+   "words": 326
+  },
+  {
+   "name": "Chalcis Mount",
+   "anchor": "chalcis-mount",
+   "words": 238
+  },
+  {
+   "name": "Grey Charge",
+   "anchor": "grey-charge",
+   "words": 148
+  },
+  {
+   "name": "Haros Water",
+   "anchor": "haros-water",
+   "words": 321
+  },
+  {
+   "name": "Longshire",
+   "anchor": "longshire",
+   "words": 175
+  },
+  {
+   "name": "Riverwatch",
+   "anchor": "riverwatch",
+   "words": 359
+  },
+  {
+   "name": "Tamarbode",
+   "anchor": "tamarbode",
+   "words": 385
+  }
+ ],
+ "Casinea": [
+  {
+   "name": "Casfall",
+   "anchor": "casfall",
+   "words": 242
+  },
+  {
+   "name": "Greatwood",
+   "anchor": "greatwood",
+   "words": 282
+  },
+  {
+   "name": "Mareholm",
+   "anchor": "mareholm",
+   "words": 187
+  },
+  {
+   "name": "Syrwatch",
+   "anchor": "syrwatch",
+   "words": 138
+  },
+  {
+   "name": "Woodwych",
+   "anchor": "woodwych",
+   "words": 724
+  }
+ ],
+ "Redoubt": [
+  {
+   "name": "Limus",
+   "anchor": "limus",
+   "words": 317
+  },
+  {
+   "name": "Naris",
+   "anchor": "naris",
+   "words": 356
+  },
+  {
+   "name": "Optarion",
+   "anchor": "optarion",
+   "words": 394
+  },
+  {
+   "name": "Siluri",
+   "anchor": "siluri",
+   "words": 207
+  },
+  {
+   "name": "Tomari",
+   "anchor": "tomari",
+   "words": 216
+  },
+  {
+   "name": "Ventosi",
+   "anchor": "ventosi",
+   "words": 204
+  },
+  {
+   "name": "Willstone",
+   "anchor": "willstone",
+   "words": 365
+  }
+ ],
+ "Morrow": [
+  {
+   "name": "Altis",
+   "anchor": "altis",
+   "words": 255
+  },
+  {
+   "name": "Caeli",
+   "anchor": "caeli",
+   "words": 298
+  },
+  {
+   "name": "Operus",
+   "anchor": "operus",
+   "words": 288
+  },
+  {
+   "name": "Peregro",
+   "anchor": "peregro",
+   "words": 161
+  },
+  {
+   "name": "Ravion",
+   "anchor": "ravion",
+   "words": 199
+  }
+ ],
+ "Zenith": [
+  {
+   "name": "Clypion",
+   "anchor": "clypion",
+   "words": 277
+  },
+  {
+   "name": "Iteri",
+   "anchor": "iteri",
+   "words": 228
+  },
+  {
+   "name": "Lustri",
+   "anchor": "lustri",
+   "words": 167
+  },
+  {
+   "name": "Occursion",
+   "anchor": "occursion",
+   "words": 479
+  },
+  {
+   "name": "Proceris",
+   "anchor": "proceris",
+   "words": 600
+  }
+ ],
+ "Spiral": [
+  {
+   "name": "Ankra",
+   "anchor": "ankra",
+   "words": 59
+  },
+  {
+   "name": "Apstrus",
+   "anchor": "apstrus",
+   "words": 295
+  },
+  {
+   "name": "Apulus",
+   "anchor": "apulus",
+   "words": 125
+  },
+  {
+   "name": "Ateri",
+   "anchor": "ateri",
+   "words": 69
+  },
+  {
+   "name": "Cinion",
+   "anchor": "cinion",
+   "words": 260
+  },
+  {
+   "name": "Ossuary",
+   "anchor": "ossuary",
+   "words": 155
+  },
+  {
+   "name": "Screed",
+   "anchor": "screed",
+   "words": 79
+  }
+ ],
+ "Mareave": [
+  {
+   "name": "Icarion",
+   "anchor": "icarion",
+   "words": 156
+  },
+  {
+   "name": "Nadir",
+   "anchor": "nadir",
+   "words": 135
+  },
+  {
+   "name": "Eoradal",
+   "anchor": "eoradal",
+   "words": 432
+  },
+  {
+   "name": "Sinfoyard",
+   "anchor": "sinfoyard",
+   "words": 87
+  },
+  {
+   "name": "Beoraidh",
+   "anchor": "beoraidh",
+   "words": 71
+  },
+  {
+   "name": "Clisearn",
+   "anchor": "clisearn",
+   "words": 327
+  },
+  {
+   "name": "Fleisardh",
+   "anchor": "fleisardh",
+   "words": 434
+  }
+ ],
+ "Mountains of the Moon": [
+  {
+   "name": "Naucini",
+   "anchor": "naucini",
+   "words": 158
+  },
+  {
+   "name": "Borenj",
+   "anchor": "borenj",
+   "words": 181
+  },
+  {
+   "name": "Obrotnik",
+   "anchor": "obrotnik",
+   "words": 167
+  },
+  {
+   "name": "Temna",
+   "anchor": "temna",
+   "words": 205
+  },
+  {
+   "name": "Visoko",
+   "anchor": "visoko",
+   "words": 200
+  }
+ ],
+ "Ayereed": [
+  {
+   "name": "Cornaghan",
+   "anchor": "cornaghan",
+   "words": 77
+  },
+  {
+   "name": "Dorghcoul",
+   "anchor": "dorghcoul",
+   "words": 62
+  },
+  {
+   "name": "Gainmeachdubh",
+   "anchor": "gainmeachdubh",
+   "words": 74
+  },
+  {
+   "name": "Lainteen Strait",
+   "anchor": "lainteen-strait",
+   "words": 91
+  },
+  {
+   "name": "Montbeghal",
+   "anchor": "montbeghal",
+   "words": 55
+  },
+  {
+   "name": "Petrified Forest",
+   "anchor": "petrified-forest",
+   "words": 108
+  },
+  {
+   "name": "Skillahg Hills",
+   "anchor": "skillahg-hills",
+   "words": 93
+  }
+ ],
+ "Therunin": [
+  {
+   "name": "East Ashes",
+   "anchor": "east-ashes",
+   "words": 347
+  },
+  {
+   "name": "Eastring",
+   "anchor": "eastring",
+   "words": 259
+  },
+  {
+   "name": "Greenheart",
+   "anchor": "greenheart",
+   "words": 64
+  },
+  {
+   "name": "Lower Tarn Valley",
+   "anchor": "lower-tarn-valley",
+   "words": 242
+  },
+  {
+   "name": "Peakedge Song",
+   "anchor": "peakedge-song",
+   "words": 180
+  },
+  {
+   "name": "Sweetglades",
+   "anchor": "sweetglades",
+   "words": 51
+  },
+  {
+   "name": "Upper Tarn Valley",
+   "anchor": "upper-tarn-valley",
+   "words": 259
+  }
+ ],
+ "Sarangrave": [
+  {
+   "name": "Nesustak Forest",
+   "anchor": "nesustak-forest",
+   "words": 293
+  },
+  {
+   "name": "Thornfen",
+   "anchor": "thornfen",
+   "words": 219
+  },
+  {
+   "name": "Turan Flats",
+   "anchor": "turan-flats",
+   "words": 124
+  },
+  {
+   "name": "Kroll",
+   "anchor": "kroll",
+   "words": 144
+  },
+  {
+   "name": "Bendol",
+   "anchor": "bendol",
+   "words": 144
+  },
+  {
+   "name": "Whisperwood",
+   "anchor": "whisperwood",
+   "words": 173
+  },
+  {
+   "name": "Bloodwater Marsh",
+   "anchor": "bloodwater-marsh",
+   "words": 161
+  }
+ ],
+ "Salt Flats of Sanath": [
+  {
+   "name": "Sydathian Fens",
+   "anchor": "sydathian-fens",
+   "words": 86
+  },
+  {
+   "name": "Trisaquan Shore",
+   "anchor": "trisaquan-shore",
+   "words": 85
+  },
+  {
+   "name": "Ilthackous",
+   "anchor": "ilthackous",
+   "words": 92
+  },
+  {
+   "name": "Beladrarsh",
+   "anchor": "beladrarsh",
+   "words": 85
+  },
+  {
+   "name": "Lower Saarnath",
+   "anchor": "lower-saarnath",
+   "words": 83
+  },
+  {
+   "name": "Upper Saarnath",
+   "anchor": "upper-saarnath",
+   "words": 124
+  },
+  {
+   "name": "Ûrinth",
+   "anchor": "ûrinth",
+   "words": 108
+  },
+  {
+   "name": "Leen Iskrid",
+   "anchor": "leen-iskrid",
+   "words": 220
+  },
+  {
+   "name": "Leen Rarckan",
+   "anchor": "leen-rarckan",
+   "words": 193
+  }
+ ],
+ "Forest of Ulnak": [
+  {
+   "name": "Grimfen Mire",
+   "anchor": "grimfen-mire",
+   "words": 132
+  },
+  {
+   "name": "Oerwealt",
+   "anchor": "oerwealt",
+   "words": 154
+  },
+  {
+   "name": "The Bonewall",
+   "anchor": "the-bonewall",
+   "words": 93
+  },
+  {
+   "name": "Ghul'thak Forest",
+   "anchor": "ghulthak-forest",
+   "words": 175
+  },
+  {
+   "name": "Shifting Basin",
+   "anchor": "shifting-basin",
+   "words": 136
+  },
+  {
+   "name": "Gloomsea",
+   "anchor": "gloomsea",
+   "words": 129
+  },
+  {
+   "name": "Deathsgate",
+   "anchor": "deathsgate",
+   "words": 111
+  }
+ ],
+ "The Barrens": [
+  {
+   "name": "Dawnguard",
+   "anchor": "dawnguard",
+   "words": 232
+  },
+  {
+   "name": "Murderdale",
+   "anchor": "murderdale",
+   "words": 106
+  },
+  {
+   "name": "Heart of Peytaht",
+   "anchor": "heart-of-peytaht",
+   "words": 293
+  },
+  {
+   "name": "The Carmine Fields",
+   "anchor": "the-carmine-fields",
+   "words": 84
+  },
+  {
+   "name": "Farweald",
+   "anchor": "farweald",
+   "words": 77
+  },
+  {
+   "name": "Hope's Rest",
+   "anchor": "hopes-rest",
+   "words": 404
+  },
+  {
+   "name": "The Untrod Groves",
+   "anchor": "the-untrod-groves",
+   "words": 70
+  },
+  {
+   "name": "Bitter Strand",
+   "anchor": "bitter-strand",
+   "words": 164
+  },
+  {
+   "name": "The Bleaks",
+   "anchor": "the-bleaks",
+   "words": 142
+  },
+  {
+   "name": "Saltmarsh",
+   "anchor": "saltmarsh",
+   "words": 185
+  },
+  {
+   "name": "The Plains of Teeth",
+   "anchor": "the-plains-of-teeth",
+   "words": 159
+  }
+ ],
+ "The Semmerlak": [],
+ "Holberg": [
+  {
+   "name": "Holfried",
+   "anchor": "holfried",
+   "words": 93
+  },
+  {
+   "name": "Holmauer",
+   "anchor": "holmauer",
+   "words": 287
+  },
+  {
+   "name": "Misericorde",
+   "anchor": "misericorde",
+   "words": 244
+  },
+  {
+   "name": "Utterlund",
+   "anchor": "utterlund",
+   "words": 164
+  },
+  {
+   "name": "Ennerlund",
+   "anchor": "ennerlund",
+   "words": 154
+  },
+  {
+   "name": "Rebeshof",
+   "anchor": "rebeshof",
+   "words": 148
+  },
+  {
+   "name": "The Morass",
+   "anchor": "the-morass",
+   "words": 270
+  }
+ ],
+ "Semmerholm": [
+  {
+   "name": "Axmure",
+   "anchor": "axmure",
+   "words": 140
+  },
+  {
+   "name": "Causse",
+   "anchor": "causse",
+   "words": 95
+  },
+  {
+   "name": "Elvette",
+   "anchor": "elvette",
+   "words": 182
+  },
+  {
+   "name": "Estmure",
+   "anchor": "estmure",
+   "words": 148
+  },
+  {
+   "name": "Ferrond",
+   "anchor": "ferrond",
+   "words": 151
+  },
+  {
+   "name": "Lacuve",
+   "anchor": "lacuve",
+   "words": 112
+  },
+  {
+   "name": "Ulvenholm",
+   "anchor": "ulvenholm",
+   "words": 414
+  }
+ ],
+ "Weirwater": [
+  {
+   "name": "Garthmoor",
+   "anchor": "garthmoor",
+   "words": 35
+  },
+  {
+   "name": "Hawksmoor",
+   "anchor": "hawksmoor",
+   "words": 103
+  },
+  {
+   "name": "Sandling",
+   "anchor": "sandling",
+   "words": 122
+  },
+  {
+   "name": "Weirmoor",
+   "anchor": "weirmoor",
+   "words": 123
+  },
+  {
+   "name": "Wickmoor",
+   "anchor": "wickmoor",
+   "words": 189
+  }
+ ],
+ "Astolat": [
+  {
+   "name": "The Chase",
+   "anchor": "the-chase",
+   "words": 203
+  },
+  {
+   "name": "Coombe",
+   "anchor": "coombe",
+   "words": 292
+  },
+  {
+   "name": "Grovesyard",
+   "anchor": "grovesyard",
+   "words": 334
+  },
+  {
+   "name": "Winterbourne",
+   "anchor": "winterbourne",
+   "words": 196
+  },
+  {
+   "name": "Withy",
+   "anchor": "withy",
+   "words": 367
+  }
+ ],
+ "Brocéliande": [
+  {
+   "name": "Elerael",
+   "anchor": "elerael",
+   "words": 165
+  },
+  {
+   "name": "Black Boughs",
+   "anchor": "black-boughs",
+   "words": 18
+  },
+  {
+   "name": "Boar's Dell",
+   "anchor": "boars-dell",
+   "words": 64
+  },
+  {
+   "name": "Dark Ranging",
+   "anchor": "dark-ranging",
+   "words": 51
+  },
+  {
+   "name": "Greenweald",
+   "anchor": "greenweald",
+   "words": 31
+  },
+  {
+   "name": "Terunael",
+   "anchor": "terunael",
+   "words": 54
+  },
+  {
+   "name": "Vale's Lament",
+   "anchor": "vales-lament",
+   "words": 38
+  }
+ ],
+ "Karov": [
+  {
+   "name": "Duzekani",
+   "anchor": "duzekani",
+   "words": 222
+  },
+  {
+   "name": "Kamienczka",
+   "anchor": "kamienczka",
+   "words": 104
+  },
+  {
+   "name": "Malimorzi",
+   "anchor": "malimorzi",
+   "words": 203
+  },
+  {
+   "name": "Skoremujac",
+   "anchor": "skoremujac",
+   "words": 160
+  },
+  {
+   "name": "Wieliczka",
+   "anchor": "wieliczka",
+   "words": 270
+  }
+ ],
+ "Ossium": [
+  {
+   "name": "Bittershore",
+   "anchor": "bittershore",
+   "words": 154
+  },
+  {
+   "name": "Bonewood",
+   "anchor": "bonewood",
+   "words": 415
+  },
+  {
+   "name": "Drownbark Forest",
+   "anchor": "drownbark-forest",
+   "words": 360
+  },
+  {
+   "name": "Echofell",
+   "anchor": "echofell",
+   "words": 207
+  },
+  {
+   "name": "Galath Fields",
+   "anchor": "galath-fields",
+   "words": 99
+  },
+  {
+   "name": "Nearweald",
+   "anchor": "nearweald",
+   "words": 367
+  },
+  {
+   "name": "Webwood",
+   "anchor": "webwood",
+   "words": 340
+  }
+ ],
+ "Karsk": [
+  {
+   "name": "Branoc",
+   "anchor": "branoc",
+   "words": 164
+  },
+  {
+   "name": "Crowslook",
+   "anchor": "crowslook",
+   "words": 300
+  },
+  {
+   "name": "Kopevnost",
+   "anchor": "kopevnost",
+   "words": 150
+  },
+  {
+   "name": "Krevsaty",
+   "anchor": "krevsaty",
+   "words": 272
+  },
+  {
+   "name": "Lestasny",
+   "anchor": "lestasny",
+   "words": 194
+  },
+  {
+   "name": "Moresvah",
+   "anchor": "moresvah",
+   "words": 162
+  },
+  {
+   "name": "Nitrost",
+   "anchor": "nitrost",
+   "words": 195
+  }
+ ],
+ "Volodmartz": [
+  {
+   "name": "Brez",
+   "anchor": "brez",
+   "words": 284
+  },
+  {
+   "name": "Livardz",
+   "anchor": "livardz",
+   "words": 248
+  },
+  {
+   "name": "Murupa",
+   "anchor": "murupa",
+   "words": 247
+  },
+  {
+   "name": "Opascari",
+   "anchor": "opascari",
+   "words": 136
+  },
+  {
+   "name": "Suvretz",
+   "anchor": "suvretz",
+   "words": 352
+  }
+ ],
+ "Miekarova": [
+  {
+   "name": "Dupadealuri",
+   "anchor": "dupadealuri",
+   "words": 109
+  },
+  {
+   "name": "Miechernya",
+   "anchor": "miechernya",
+   "words": 212
+  },
+  {
+   "name": "Mieriada",
+   "anchor": "mieriada",
+   "words": 298
+  },
+  {
+   "name": "Perumaki",
+   "anchor": "perumaki",
+   "words": 153
+  },
+  {
+   "name": "Srodkoja",
+   "anchor": "srodkoja",
+   "words": 249
+  }
+ ],
+ "Otkodov": [],
+ "Verthandi": [
+  {
+   "name": "Askja",
+   "anchor": "askja",
+   "words": 121
+  },
+  {
+   "name": "Erskjuvaten",
+   "anchor": "erskjuvaten",
+   "words": 111
+  },
+  {
+   "name": "Ierkul",
+   "anchor": "ierkul",
+   "words": 82
+  },
+  {
+   "name": "Hengill",
+   "anchor": "hengill",
+   "words": 136
+  },
+  {
+   "name": "Skaftafell",
+   "anchor": "skaftafell",
+   "words": 93
+  },
+  {
+   "name": "Tinfjalla",
+   "anchor": "tinfjalla",
+   "words": 133
+  },
+  {
+   "name": "Yurah",
+   "anchor": "yurah",
+   "words": 108
+  }
+ ],
+ "Skarsind": [
+  {
+   "name": "Crow’s Ridge",
+   "anchor": "crows-ridge",
+   "words": 203
+  },
+  {
+   "name": "Estermark",
+   "anchor": "estermark",
+   "words": 319
+  },
+  {
+   "name": "Gildermark",
+   "anchor": "gildermark",
+   "words": 304
+  },
+  {
+   "name": "Pakaanan's Pass",
+   "anchor": "pakaanans-pass",
+   "words": 346
+  },
+  {
+   "name": "Skogei Glens",
+   "anchor": "skogei-glens",
+   "words": 198
+  },
+  {
+   "name": "Solvihill",
+   "anchor": "solvihill",
+   "words": 281
+  },
+  {
+   "name": "Southpine",
+   "anchor": "southpine",
+   "words": 201
+  }
+ ],
+ "Hercynia": [
+  {
+   "name": "Northpines",
+   "anchor": "northpines",
+   "words": 297
+  },
+  {
+   "name": "The Glen of Shadows",
+   "anchor": "the-glen-of-shadows",
+   "words": 159
+  },
+  {
+   "name": "Deer's Folly",
+   "anchor": "deers-folly",
+   "words": 214
+  },
+  {
+   "name": "Old Ranging",
+   "anchor": "old-ranging",
+   "words": 297
+  },
+  {
+   "name": "Summersend",
+   "anchor": "summersend",
+   "words": 465
+  }
+ ],
+ "Hahnmark": [
+  {
+   "name": "Bruckland",
+   "anchor": "bruckland",
+   "words": 140
+  },
+  {
+   "name": "Kalpamark",
+   "anchor": "kalpamark",
+   "words": 57
+  },
+  {
+   "name": "Kronemark",
+   "anchor": "kronemark",
+   "words": 240
+  },
+  {
+   "name": "Northspires",
+   "anchor": "northspires",
+   "words": 166
+  },
+  {
+   "name": "Southridge",
+   "anchor": "southridge",
+   "words": 139
+  },
+  {
+   "name": "Valasmark",
+   "anchor": "valasmark",
+   "words": 237
+  },
+  {
+   "name": "Wood Heath",
+   "anchor": "wood-heath",
+   "words": 363
+  }
+ ],
+ "Sermersuaq": [
+  {
+   "name": "East Floes",
+   "anchor": "east-floes",
+   "words": 202
+  },
+  {
+   "name": "Sealtoq",
+   "anchor": "sealtoq",
+   "words": 105
+  },
+  {
+   "name": "Silver Peaks",
+   "anchor": "silver-peaks",
+   "words": 155
+  },
+  {
+   "name": "Stark",
+   "anchor": "stark",
+   "words": 162
+  },
+  {
+   "name": "Suaq Fount",
+   "anchor": "suaq-fount",
+   "words": 121
+  },
+  {
+   "name": "Suaq Wastes",
+   "anchor": "suaq-wastes",
+   "words": 81
+  },
+  {
+   "name": "Tanikipari",
+   "anchor": "tanikipari",
+   "words": 128
+  }
+ ],
+ "Kallavesa": [
+  {
+   "name": "Kallavesa Marsh",
+   "anchor": "kallavesa-marsh",
+   "words": 220
+  },
+  {
+   "name": "Rundhal Marsh",
+   "anchor": "rundhal-marsh",
+   "words": 77
+  },
+  {
+   "name": "Skymark",
+   "anchor": "skymark",
+   "words": 215
+  },
+  {
+   "name": "West Marsh",
+   "anchor": "west-marsh",
+   "words": 102
+  },
+  {
+   "name": "Wittal Grove",
+   "anchor": "wittal-grove",
+   "words": 322
+  }
+ ],
+ "Bregasland": [
+  {
+   "name": "Gravenmarch",
+   "anchor": "gravenmarch",
+   "words": 188
+  },
+  {
+   "name": "Grey Fens",
+   "anchor": "grey-fens",
+   "words": 425
+  },
+  {
+   "name": "North Fens",
+   "anchor": "north-fens",
+   "words": 470
+  },
+  {
+   "name": "Ottermire",
+   "anchor": "ottermire",
+   "words": 218
+  },
+  {
+   "name": "The Rushes",
+   "anchor": "the-rushes",
+   "words": 420
+  }
+ ],
+ "Mitwold": [
+  {
+   "name": "Golden Downs",
+   "anchor": "golden-downs",
+   "words": 255
+  },
+  {
+   "name": "Maiden Downs",
+   "anchor": "maiden-downs",
+   "words": 167
+  },
+  {
+   "name": "Meade March",
+   "anchor": "meade-march",
+   "words": 265
+  },
+  {
+   "name": "The Meadows",
+   "anchor": "the-meadows",
+   "words": 320
+  },
+  {
+   "name": "Oddmire",
+   "anchor": "oddmire",
+   "words": 565
+  }
+ ],
+ "Mournwold": [
+  {
+   "name": "Alderly",
+   "anchor": "alderly",
+   "words": 270
+  },
+  {
+   "name": "Chalkdowns",
+   "anchor": "chalkdowns",
+   "words": 218
+  },
+  {
+   "name": "Freemoor",
+   "anchor": "freemoor",
+   "words": 159
+  },
+  {
+   "name": "Green March",
+   "anchor": "green-march",
+   "words": 203
+  },
+  {
+   "name": "Greensward",
+   "anchor": "greensward",
+   "words": 204
+  },
+  {
+   "name": "Ore Hills",
+   "anchor": "ore-hills",
+   "words": 266
+  },
+  {
+   "name": "Southmoor",
+   "anchor": "southmoor",
+   "words": 502
+  }
+ ],
+ "Upwold": [
+  {
+   "name": "Ashbrook",
+   "anchor": "ashbrook",
+   "words": 324
+  },
+  {
+   "name": "Birchland",
+   "anchor": "birchland",
+   "words": 193
+  },
+  {
+   "name": "The Heath",
+   "anchor": "the-heath",
+   "words": 317
+  },
+  {
+   "name": "Stock March",
+   "anchor": "stock-march",
+   "words": 127
+  },
+  {
+   "name": "Tower March",
+   "anchor": "tower-march",
+   "words": 562
+  }
+ ],
+ "Miaren": [
+  {
+   "name": "Goldglades",
+   "anchor": "goldglades",
+   "words": 172
+  },
+  {
+   "name": "Holtford",
+   "anchor": "holtford",
+   "words": 306
+  },
+  {
+   "name": "Oakways",
+   "anchor": "oakways",
+   "words": 162
+  },
+  {
+   "name": "Greenfalls",
+   "anchor": "greenfalls",
+   "words": 69
+  },
+  {
+   "name": "Serenael",
+   "anchor": "serenael",
+   "words": 323
+  }
+ ],
+ "Temeschwar": [
+  {
+   "name": "Hanuri",
+   "anchor": "hanuri",
+   "words": 15
+  },
+  {
+   "name": "Locul",
+   "anchor": "locul",
+   "words": 206
+  },
+  {
+   "name": "Metri",
+   "anchor": "metri",
+   "words": 165
+  },
+  {
+   "name": "Vargat",
+   "anchor": "vargat",
+   "words": 111
+  },
+  {
+   "name": "Vardstein Vale",
+   "anchor": "vardstein-vale",
+   "words": 252
+  }
+ ],
+ "Tassato": [
+  {
+   "name": "Cascatas",
+   "anchor": "cascatas",
+   "words": 141
+  },
+  {
+   "name": "Enterio",
+   "anchor": "enterio",
+   "words": 146
+  },
+  {
+   "name": "Tassato Mestra",
+   "anchor": "tassato-mestra",
+   "words": 497
+  },
+  {
+   "name": "Tassato Regario",
+   "anchor": "tassato-regario",
+   "words": 328
+  },
+  {
+   "name": "Madeiras",
+   "anchor": "madeiras",
+   "words": 221
+  }
+ ],
+ "Sarvos": [
+  {
+   "name": "Bocche",
+   "anchor": "bocche",
+   "words": 165
+  },
+  {
+   "name": "Cigno",
+   "anchor": "cigno",
+   "words": 147
+  },
+  {
+   "name": "Foracci",
+   "anchor": "foracci",
+   "words": 502
+  },
+  {
+   "name": "Riposi",
+   "anchor": "riposi",
+   "words": 391
+  },
+  {
+   "name": "Uccelini",
+   "anchor": "uccelini",
+   "words": 368
+  }
+ ],
+ "Madruga": [
+  {
+   "name": "Calvos Sound",
+   "anchor": "calvos-sound",
+   "words": 153
+  },
+  {
+   "name": "Lightsea",
+   "anchor": "lightsea",
+   "words": 153
+  },
+  {
+   "name": "Torres",
+   "anchor": "torres",
+   "words": 192
+  },
+  {
+   "name": "Free Landing",
+   "anchor": "free-landing",
+   "words": 264
+  },
+  {
+   "name": "Quiet Grasses",
+   "anchor": "quiet-grasses",
+   "words": 293
+  },
+  {
+   "name": "Siroc Bayou",
+   "anchor": "siroc-bayou",
+   "words": 291
+  },
+  {
+   "name": "Crucible",
+   "anchor": "crucible",
+   "words": 296
+  }
+ ],
+ "Kahraman": [
+  {
+   "name": "Braydon's Jasse",
+   "anchor": "braydons-jasse",
+   "words": 162
+  },
+  {
+   "name": "Gambit",
+   "anchor": "gambit",
+   "words": 188
+  },
+  {
+   "name": "Jade Range",
+   "anchor": "jade-range",
+   "words": 106
+  },
+  {
+   "name": "Serra Briante",
+   "anchor": "serra-briante",
+   "words": 110
+  },
+  {
+   "name": "Serra Damata",
+   "anchor": "serra-damata",
+   "words": 273
+  }
+ ],
+ "Feroz": [
+  {
+   "name": "Afarjasse",
+   "anchor": "afarjasse",
+   "words": 394
+  },
+  {
+   "name": "Cazar Straits",
+   "anchor": "cazar-straits",
+   "words": 350
+  },
+  {
+   "name": "Fontargenta",
+   "anchor": "fontargenta",
+   "words": 179
+  },
+  {
+   "name": "Morajasse",
+   "anchor": "morajasse",
+   "words": 272
+  },
+  {
+   "name": "Oranseri",
+   "anchor": "oranseri",
+   "words": 340
+  }
+ ],
+ "Segura": [
+  {
+   "name": "Anduzjasse",
+   "anchor": "anduzjasse",
+   "words": 206
+  },
+  {
+   "name": "Anozeseri",
+   "anchor": "anozeseri",
+   "words": 171
+  },
+  {
+   "name": "Burnish",
+   "anchor": "burnish",
+   "words": 110
+  },
+  {
+   "name": "Iron Plains",
+   "anchor": "iron-plains",
+   "words": 103
+  },
+  {
+   "name": "Lucksprings",
+   "anchor": "lucksprings",
+   "words": 240
+  },
+  {
+   "name": "Sobral Grasses",
+   "anchor": "sobral-grasses",
+   "words": 230
+  },
+  {
+   "name": "Yellow Chase",
+   "anchor": "yellow-chase",
+   "words": 220
+  }
+ ],
+ "Liathaven": [
+  {
+   "name": "Beacon Point",
+   "anchor": "beacon-point",
+   "words": 176
+  },
+  {
+   "name": "Liath's Heart",
+   "anchor": "liaths-heart",
+   "words": 83
+  },
+  {
+   "name": "Liath's Ring",
+   "anchor": "liaths-ring",
+   "words": 88
+  },
+  {
+   "name": "Liaven's Glen",
+   "anchor": "liavens-glen",
+   "words": 251
+  },
+  {
+   "name": "Westwood",
+   "anchor": "westwood",
+   "words": 185
+  },
+  {
+   "name": "West Ranging",
+   "anchor": "west-ranging",
+   "words": 200
+  },
+  {
+   "name": "Western Scout",
+   "anchor": "western-scout",
+   "words": 97
+  }
+ ],
+ "Reinos": [
+  {
+   "name": "Pedreira",
+   "anchor": "pedreira",
+   "words": 89
+  },
+  {
+   "name": "Ribeira",
+   "anchor": "ribeira",
+   "words": 41
+  },
+  {
+   "name": "Bastasor",
+   "anchor": "bastasor",
+   "words": 107
+  },
+  {
+   "name": "Corghosa",
+   "anchor": "corghosa",
+   "words": 91
+  },
+  {
+   "name": "Flareizo",
+   "anchor": "flareizo",
+   "words": 148
+  },
+  {
+   "name": "Chaveiro",
+   "anchor": "chaveiro",
+   "words": 88
+  },
+  {
+   "name": "Cimeira",
+   "anchor": "cimeira",
+   "words": 121
+  }
+ ],
+ "Hordalant": [
+  {
+   "name": "Blutgahn",
+   "anchor": "blutgahn",
+   "words": 93
+  },
+  {
+   "name": "Alsterbo",
+   "anchor": "alsterbo",
+   "words": 133
+  },
+  {
+   "name": "Kalmar",
+   "anchor": "kalmar",
+   "words": 139
+  },
+  {
+   "name": "Ashahon",
+   "anchor": "ashahon",
+   "words": 173
+  },
+  {
+   "name": "Sigla",
+   "anchor": "sigla",
+   "words": 134
+  },
+  {
+   "name": "Angfors",
+   "anchor": "angfors",
+   "words": 191
+  },
+  {
+   "name": "Vallorberg",
+   "anchor": "vallorberg",
+   "words": 132
+  }
+ ],
+ "Skallahn": [
+  {
+   "name": "Greenwall",
+   "anchor": "greenwall",
+   "words": 131
+  },
+  {
+   "name": "Iron Stand",
+   "anchor": "iron-stand",
+   "words": 100
+  },
+  {
+   "name": "Ulfrsmoor",
+   "anchor": "ulfrsmoor",
+   "words": 108
+  },
+  {
+   "name": "Eyrarfell",
+   "anchor": "eyrarfell",
+   "words": 129
+  },
+  {
+   "name": "Mindrkyst",
+   "anchor": "mindrkyst",
+   "words": 149
+  },
+  {
+   "name": "Bjarkey",
+   "anchor": "bjarkey",
+   "words": 206
+  },
+  {
+   "name": "Fareskov",
+   "anchor": "fareskov",
+   "words": 159
+  }
+ ],
+ "Tromsa": [
+  {
+   "name": "Icewood",
+   "anchor": "icewood",
+   "words": 200
+  },
+  {
+   "name": "Tromsdalen",
+   "anchor": "tromsdalen",
+   "words": 77
+  },
+  {
+   "name": "Majastind",
+   "anchor": "majastind",
+   "words": 195
+  },
+  {
+   "name": "Rikskog",
+   "anchor": "rikskog",
+   "words": 181
+  },
+  {
+   "name": "Skyfall Waste",
+   "anchor": "skyfall-waste",
+   "words": 180
+  },
+  {
+   "name": "Mjosa",
+   "anchor": "mjosa",
+   "words": 163
+  },
+  {
+   "name": "Nemfjord",
+   "anchor": "nemfjord",
+   "words": 109
+  }
+ ],
+ "Bay of Catazar": [],
+ "Sea of Snow": []
+}

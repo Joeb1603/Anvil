@@ -1,0 +1,72 @@
+# Empire Atlas
+
+An interactive map of the Empire and its neighbours with a timeline from 376YE Winter to
+388YE Winter. Open `index.html` in a browser; it is self-contained.
+
+- **Map:** 61 territories and seas, 306 regions. Pan, zoom, click a territory or region.
+- **Timeline:** 49 seasons. Step through them or press Play to watch control change.
+- **Colourings:** by holder (who holds each region that season) or by territory.
+- **Panel:** who holds a place, its control history, and the events recorded there, each
+  linked to its wiki page. A second tab lists holders; a third lists earlier history.
+- **Search** for a territory, region or event title.
+
+## Where the data comes from
+
+| Layer | Source | How reliable |
+|---|---|---|
+| Territory outlines | The polygons of the wiki's clickable Gazetteer map | Exact copy |
+| Region positions | The name labels on the wiki's hand-drawn territory maps, read by eye | Good: 293 of 306 placed from a label |
+| Region borders | Each territory outline divided around those label positions | **Approximate.** The wiki has no border data |
+| Events | 1,644 dated archive pages, placed by the territory and region links they contain | Mechanical |
+| Control over time | Read out of the Winds of War reports and territory pages | **Interpretation**, see below |
+
+Thirteen regions had no usable label (Ayereed and the Mountains of the Moon have no map;
+Crucible in Madruga is not on its map) and are placed by compass words in their description
+or simply spread out. The page says so when you select one.
+
+### Control over time
+
+Who held each region, season by season, was extracted by reading prose: the outcome sections
+of the Winds of War pages for every event, and the history sections of the territory pages.
+The raw extractions are in `control_raw/`, one file per era plus one for the territory pages.
+
+- 605 entries in total: changes of control, plain statements of who held what, and
+  territory-level statements that are listed but not painted onto individual regions.
+- Every entry names its source page, and the page links to it.
+- Entries the sources leave unclear are marked uncertain.
+- A sample of ten painted changes was checked against the source wording: nine are stated
+  directly and one was already marked as an inference.
+- The final season was compared with what each territory page says today. Eight regions
+  differed because the sources never date the change; those are applied at the final season
+  and labelled as undated.
+
+Known gaps the sources do not resolve include when Spiral became Grendel-held, what happened
+to Greenwall and Ribeira after they were conquered, and the per-region picture at the very
+start (only whole-territory holders are known for 376YE Winter). Treat the earliest seasons
+as the least certain.
+
+Seasons within an Imperial year run Spring, Summer, Autumn, Winter.
+
+## Rebuilding
+
+```
+python3 -m mapbuilder.geometry    # territory outlines from the Gazetteer page
+python3 -m mapbuilder.regions     # region lists from territory pages
+python3 -m mapbuilder.partition   # region cells from map/region_labels.json
+python3 -m mapbuilder.events      # dated pages tied to places
+python3 -m mapbuilder.build       # data.json and index.html
+```
+
+Requires the archive in `wiki/` and `data/`, plus `numpy` and `opencv-python-headless`.
+`region_labels.json` and `control_raw/` are hand-read inputs; edit them to correct the map.
+
+## Licence
+
+- Event titles and excerpts are text by Profound Decisions under
+  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), as for the rest of the
+  archive (see `wiki/LICENSE.md`).
+- Territory outlines and region positions are derived from the wiki's map art. The wiki's
+  [terms](https://www.profounddecisions.co.uk/empire-wiki/Terms_and_conditions) keep game art
+  with its artists and allow non-commercial reuse, so that part of the data is **not** under
+  CC BY-SA: use it non-commercially and credit Profound Decisions and the map artists.
+- No map image from the wiki is included here.

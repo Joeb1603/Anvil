@@ -1,0 +1,496 @@
+<title>Empire Atlas</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;500;700&family=Alegreya+Sans+SC:wght@500;700&display=swap">
+<style>
+/* Layout: a campaign table. Map fills the left, a ledger panel sits right, the season rail runs along the bottom. */
+:root {
+  --bg: #e9eef3; --surface: #ffffff; --sunk: #f3f6f9; --ink: #18222e; --muted: #556170; --line: #cfd8e1;
+  --accent: #1f3a5f; --accent-ink: #ffffff; --sea: #d6e2ec; --land: #e2e6ea; --outline: #2b3644;
+  --s1: #257de0; --s2: #f47230; --s3: #00b894; --s4: #f2a600; --s5: #ee7fac; --s6: #008a17; --s7: #6a4ce2; --s8: #ec4647;
+  --n1: #8d99a6; --n2: #b9c2cc;
+  --display: "Alegreya Sans SC", "Alegreya Sans", "Segoe UI", system-ui, sans-serif;
+  --body: "Alegreya Sans", "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0f151c; --surface: #171f29; --sunk: #121922; --ink: #e7ecf2; --muted: #98a5b4; --line: #2a3644;
+  --accent: #a9c4e6; --accent-ink: #0f151c; --sea: #0b1118; --land: #232d39; --outline: #c9d3de;
+  --s1: #338ced; --s2: #e76624; --s3: #00a888; --s4: #d28e05; --s5: #e24d8b; --s6: #0aac23; --s7: #9887ef; --s8: #eb6263;
+  --n1: #66727f; --n2: #414c59; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #0f151c; --surface: #171f29; --sunk: #121922; --ink: #e7ecf2; --muted: #98a5b4; --line: #2a3644;
+  --accent: #a9c4e6; --accent-ink: #0f151c; --sea: #0b1118; --land: #232d39; --outline: #c9d3de;
+  --s1: #338ced; --s2: #e76624; --s3: #00a888; --s4: #d28e05; --s5: #e24d8b; --s6: #0aac23; --s7: #9887ef; --s8: #eb6263;
+  --n1: #66727f; --n2: #414c59; color-scheme: dark }
+
+html, body { height: 100%; }
+body { background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.4; }
+* { box-sizing: border-box; }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+a { color: var(--accent); }
+
+.app { height: 100%; display: grid; grid-template-rows: auto minmax(0, 1fr) auto; gap: 10px;
+  padding-block: 10px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.top { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; }
+.brand { font-family: var(--display); font-weight: 700; font-size: 1.5rem; letter-spacing: .04em; margin: 0; }
+.brand small { font-family: var(--body); font-weight: 400; font-size: .85rem; letter-spacing: 0; color: var(--muted); margin-left: 8px; }
+.controls { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; margin-left: auto; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; background: var(--surface); }
+.seg button { border: 0; background: none; padding: 5px 11px; cursor: pointer; }
+.seg button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); }
+.check { display: inline-flex; gap: 6px; align-items: center; cursor: pointer; }
+.search { position: relative; }
+.search input { width: 220px; max-width: 100%; padding: 5px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); }
+.results { position: absolute; z-index: 20; top: calc(100% + 4px); right: 0; width: min(340px, 86vw); max-height: 320px; overflow: auto;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 6px; box-shadow: 0 8px 24px rgb(0 0 0 / .18); padding: 4px; }
+.results button { display: block; width: 100%; text-align: left; border: 0; background: none; padding: 6px 8px; border-radius: 4px; cursor: pointer; }
+.results button:hover, .results button:focus-visible { background: var(--sunk); }
+.results small { color: var(--muted); display: block; }
+
+.main { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: 10px; min-height: 0; }
+.mapwrap { position: relative; background: var(--sea); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; min-height: 300px; display: flex; flex-direction: column; }
+#map { width: 100%; flex: 1; min-height: 0; display: block; touch-action: none; cursor: grab; user-select: none; }
+#map.drag { cursor: grabbing; }
+.cell { stroke: var(--surface); stroke-width: 1; vector-effect: non-scaling-stroke; cursor: pointer; }
+.cell.dim { opacity: .18; }
+.pat { pointer-events: none; }
+.sea { fill: var(--sea); stroke: none; }
+.outline { fill: none; stroke: var(--outline); stroke-width: 1.4; vector-effect: non-scaling-stroke; pointer-events: none; }
+.outline.sel { stroke: var(--ink); stroke-width: 3.2; }
+.regsel { fill: none; stroke: var(--ink); stroke-width: 2.4; stroke-dasharray: 5 3; vector-effect: non-scaling-stroke; pointer-events: none; }
+.tlabel { font-family: var(--display); font-weight: 700; fill: var(--ink); text-anchor: middle; pointer-events: none;
+  paint-order: stroke; stroke: var(--surface); stroke-width: 3px; stroke-linejoin: round; letter-spacing: .03em; }
+.rlabel { font-family: var(--body); font-weight: 500; fill: var(--ink); text-anchor: middle; pointer-events: none;
+  paint-order: stroke; stroke: var(--surface); stroke-width: 2.5px; stroke-linejoin: round; }
+.mark circle { fill: var(--ink); stroke: var(--surface); stroke-width: 2; vector-effect: non-scaling-stroke; cursor: pointer; }
+.mark text { fill: var(--surface); font-family: var(--body); font-weight: 700; text-anchor: middle; dominant-baseline: central; pointer-events: none; font-variant-numeric: tabular-nums; }
+.zoom { position: absolute; right: 10px; top: 10px; display: flex; flex-direction: column; gap: 4px; }
+.zoom button { width: 32px; height: 32px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); cursor: pointer; font-size: 1.1rem; line-height: 1; }
+.note { padding: 4px 10px; font-size: .8rem; color: var(--muted); background: var(--surface); border-top: 1px solid var(--line); }
+.tip { position: absolute; z-index: 15; pointer-events: none; background: var(--surface); border: 1px solid var(--line); border-radius: 6px;
+  padding: 6px 9px; box-shadow: 0 6px 18px rgb(0 0 0 / .18); font-size: .88rem; max-width: 260px; }
+.tip b { font-family: var(--display); letter-spacing: .03em; }
+.tip div { color: var(--muted); }
+
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; display: flex; flex-direction: column; min-height: 0; min-width: 0; }
+.tabs { display: flex; border-bottom: 1px solid var(--line); }
+.tabs button { flex: 1; border: 0; background: none; padding: 8px 6px; cursor: pointer; border-bottom: 2px solid transparent; color: var(--muted); }
+.tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); font-weight: 700; }
+.pbody { overflow: auto; padding: 12px 14px 16px; min-height: 0; flex: 1; }
+.pbody h2 { font-family: var(--display); font-size: 1.35rem; margin: 0; letter-spacing: .03em; text-wrap: balance; }
+.pbody h3 { font-size: .78rem; text-transform: uppercase; letter-spacing: .09em; color: var(--muted); margin: 16px 0 6px; font-weight: 700; }
+.crumb { color: var(--muted); font-size: .88rem; }
+.crumb button, .linkish { border: 0; background: none; padding: 0; color: var(--accent); cursor: pointer; text-decoration: underline; }
+.holder { display: flex; align-items: center; gap: 8px; margin-top: 6px; }
+.sw { width: 14px; height: 14px; border-radius: 3px; flex: none; border: 1px solid var(--line); }
+.list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+.list li { display: flex; gap: 8px; align-items: baseline; }
+.row { display: flex; gap: 8px; align-items: center; width: 100%; text-align: left; border: 0; background: none; padding: 3px 4px; border-radius: 4px; cursor: pointer; }
+.row:hover { background: var(--sunk); }
+.row .grow { flex: 1; min-width: 0; }
+.num { font-variant-numeric: tabular-nums; color: var(--muted); }
+.ev { border-top: 1px solid var(--line); padding: 8px 0; }
+.ev:first-child { border-top: 0; }
+.ev .meta { font-size: .8rem; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; }
+.ev a { font-weight: 700; text-decoration: none; }
+.ev a:hover { text-decoration: underline; }
+.ev p { margin: 2px 0 0; color: var(--muted); font-size: .92rem; }
+.tag { border: 1px solid var(--line); border-radius: 999px; padding: 0 7px; font-size: .76rem; color: var(--ink); white-space: nowrap; }
+.chips { display: flex; flex-wrap: wrap; gap: 5px; }
+.chips button { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 2px 9px; cursor: pointer; font-size: .82rem; }
+.chips button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.chg { padding: 5px 0; border-top: 1px dashed var(--line); font-size: .92rem; }
+.chg:first-child { border-top: 0; }
+.unsure { color: var(--muted); font-style: italic; }
+table { border-collapse: collapse; width: 100%; font-size: .9rem; }
+th, td { text-align: left; padding: 3px 6px; border-bottom: 1px solid var(--line); }
+th { font-size: .74rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
+.tablewrap { overflow-x: auto; }
+.legend .row[aria-pressed="true"] { background: var(--sunk); outline: 1px solid var(--line); }
+.empty { color: var(--muted); }
+
+.rail { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px 6px; display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 4px 12px; align-items: center; }
+.now { font-family: var(--display); font-weight: 700; font-size: 1.25rem; letter-spacing: .04em; min-width: 9.5ch; }
+.now small { display: block; font-family: var(--body); font-weight: 400; font-size: .8rem; color: var(--muted); letter-spacing: 0; }
+.transport { display: flex; gap: 4px; grid-column: 1; }
+.transport button { border: 1px solid var(--line); background: var(--surface); border-radius: 6px; padding: 3px 9px; cursor: pointer; }
+.track { grid-column: 2; grid-row: 1 / span 2; min-width: 0; }
+#hist { display: grid; align-items: end; height: 30px; gap: 2px; }
+#hist button { border: 0; padding: 0; background: var(--n2); border-radius: 2px 2px 0 0; cursor: pointer; min-height: 2px; }
+#hist button.on { background: var(--accent); }
+#years { display: grid; gap: 2px; font-size: .72rem; color: var(--muted); font-variant-numeric: tabular-nums; height: 1.1em; }
+#years span { white-space: nowrap; overflow: visible; border-left: 1px solid var(--line); padding-left: 3px; min-width: 0; }
+#season { width: 100%; margin: 0; accent-color: var(--accent); }
+
+@media (max-width: 860px) {
+  html, body { height: auto; }
+  .app { height: auto; }
+  .main { grid-template-columns: minmax(0, 1fr); }
+  .mapwrap { height: auto; }
+  #map { flex: none; aspect-ratio: 1.12; }
+  .panel { max-height: none; }
+  .pbody { overflow: visible; }
+  .controls { margin-left: 0; }
+  .rail { position: sticky; bottom: env(safe-area-inset-bottom, 0px); z-index: 5; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="app">
+  <header class="top">
+    <h1 class="brand">Empire Atlas <small id="snap"></small></h1>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="Colour the map by">
+        <button id="mode-holder" aria-pressed="true">By holder</button>
+        <button id="mode-territory" aria-pressed="false">By territory</button>
+      </div>
+      <label class="check"><input type="checkbox" id="show-regions" checked> Regions</label>
+      <label class="check"><input type="checkbox" id="show-marks" checked> Event counts</label>
+      <div class="search">
+        <input id="q" type="search" placeholder="Find a place or event" autocomplete="off" aria-label="Find a place or event">
+        <div class="results" id="results" hidden></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="main">
+    <div class="mapwrap" id="mapwrap">
+      <svg id="map" role="img" aria-label="Map of the Empire and neighbouring territories"></svg>
+      <div class="zoom">
+        <button id="zin" aria-label="Zoom in">+</button>
+        <button id="zout" aria-label="Zoom out">−</button>
+        <button id="zreset" aria-label="Reset view">⌂</button>
+      </div>
+      <div class="note">Territory outlines are from the wiki's own map. Region borders are approximate: each region is placed by its label on the wiki's picture maps.</div>
+      <div class="tip" id="tip" hidden></div>
+    </div>
+    <aside class="panel">
+      <div class="tabs" role="tablist">
+        <button role="tab" id="tab-place" aria-selected="true">Season</button>
+        <button role="tab" id="tab-holders" aria-selected="false">Holders</button>
+        <button role="tab" id="tab-history" aria-selected="false">Earlier history</button>
+      </div>
+      <div class="pbody" id="pbody"></div>
+    </aside>
+  </div>
+
+  <footer class="rail">
+    <div class="now" id="now"></div>
+    <div class="track">
+      <div id="hist" aria-label="Located events per season"></div>
+      <div id="years" aria-hidden="true"></div>
+      <input id="season" type="range" min="0" step="1" aria-label="Season">
+    </div>
+    <div class="transport">
+      <button id="prev" aria-label="Previous season">◀</button>
+      <button id="play" aria-label="Play">▶ Play</button>
+      <button id="next" aria-label="Next season">▶</button>
+    </div>
+  </footer>
+</div>
+
+<!--DATA-->
+<script>
+(() => {
+const NS = "http://www.w3.org/2000/svg";
+const $ = id => document.getElementById(id);
+const el = (tag, attrs = {}, parent) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (parent) parent.appendChild(e); return e; };
+const h = (tag, props = {}, ...kids) => { const e = document.createElement(tag); Object.assign(e, props); for (const k of kids) e.append(k); return e; };
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const pathOf = polys => polys.map(p => "M" + p.map(q => q[0] + " " + q[1]).join("L") + "Z").join("");
+
+const load = window.__ATLAS__ ? Promise.resolve(window.__ATLAS__) : fetch("data.json").then(r => r.json());
+load.then(init).catch(err => { $("pbody").textContent = "The map data could not be loaded: " + err.message; });
+
+function init(D) {
+  const S = D.seasons, last = S.length - 1;
+  const T = D.territories, byName = Object.fromEntries(T.map(t => [t.name, t]));
+  const H = Object.fromEntries(D.holders.map(x => [x.id, x]));
+  const types = [...new Set(D.events.map(e => e.ty))];
+  const busy = S.map((_, i) => D.events.filter(e => e.s === i).length);
+  let open = last; while (open > 0 && busy[open] < 10) open--;
+  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null };
+  $("snap").textContent = "wiki snapshot " + D.meta.snapshot.slice(0, 10);
+
+  // ---- control state: holder of every place at every season
+  const ctl = {};
+  for (const t of T) {
+    const start = D.control.start[t.name] || "unknown";
+    const sr = (D.control.startRegions || {})[t.name] || {};
+    ctl[t.name] = { "": Array(S.length).fill(start) };
+    for (const r of t.regions) ctl[t.name][r.name] = Array(S.length).fill(sr[r.name] || start);
+  }
+  const IMP = new Set(D.holders.filter(x => x.group === "Imperial nations").map(x => x.id));
+  for (const c of D.control.changes) {
+    const row = ctl[c.t]; if (!row || c.np) continue;   // np: recorded, but says nothing about individual regions
+    const targets = c.r ? [c.r] : Object.keys(row);
+    for (const r of targets) { if (!row[r] || (c.as && !IMP.has(row[r][c.s]))) continue;   // as: Senate assignment
+      for (let i = c.s; i < S.length; i++) row[r][i] = c.h; }
+  }
+  const holderAt = (t, r, s) => (ctl[t][r || ""] || ctl[t][""])[s];
+  const majority = (t, s) => { const tt = byName[t]; if (!tt.regions.length) return holderAt(t, "", s);
+    const n = {}; for (const r of tt.regions) { const x = holderAt(t, r.name, s); n[x] = (n[x] || 0) + 1; }
+    return Object.entries(n).sort((a, b) => b[1] - a[1])[0][0]; };
+
+  // ---- events indexed by season and place
+  const evBySeason = S.map(() => []);
+  D.events.forEach(e => evBySeason[e.s].push(e));
+  const evByTerr = {}; D.events.forEach(e => { for (const t in e.pl) (evByTerr[t] = evByTerr[t] || []).push(e); });
+  const countAt = (t, s) => evBySeason[s].reduce((n, e) => n + (e.pl[t] && st.types.has(e.ty) ? 1 : 0), 0);
+
+  // ---- map
+  const svg = $("map"), [vx, vy, vw, vh] = D.view;
+  svg.setAttribute("viewBox", `${vx} ${vy} ${vw} ${vh}`);
+  const defs = el("defs", {}, svg);
+  const mkPat = (id, body) => { const p = el("pattern", { id, width: 7, height: 7, patternUnits: "userSpaceOnUse", patternTransform: "rotate(45)" }, defs); p.innerHTML = body; };
+  mkPat("hatch", '<line x1="0" y1="0" x2="0" y2="7" style="stroke:var(--surface);stroke-width:3;opacity:.72"/>');
+  mkPat("dots", '<circle cx="3.5" cy="3.5" r="1.5" style="fill:var(--surface);opacity:.8"/>');
+  const vp = el("g", {}, svg), gLand = el("g", {}, vp), gOut = el("g", {}, vp), gSel = el("g", {}, vp), gLab = el("g", {}, vp), gMark = el("g", {}, vp);
+  const cells = [];
+  for (const t of T) {
+    const parts = t.regions.length ? t.regions : [{ name: "", polys: t.polys }];
+    for (const r of parts) {
+      const d = pathOf(r.polys);
+      const base = el("path", { d, class: t.sea ? "sea" : "cell" }, gLand);
+      const pat = t.sea ? null : el("path", { d, class: "pat", fill: "none" }, gLand);
+      const c = { t, r: r.name, base, pat, whole: pathOf(t.polys) };
+      cells.push(c);
+      if (!t.sea) {
+        base.addEventListener("click", () => { if (!moved) select(t.name, st.regions ? r.name : ""); });
+        base.addEventListener("pointermove", ev => tip(ev, c));
+        base.addEventListener("pointerleave", () => { $("tip").hidden = true; });
+      }
+    }
+    t.outline = el("path", { d: pathOf(t.polys), class: "outline" }, gOut);
+    t.label = el("text", { class: "tlabel", x: t.centre[0], y: t.centre[1] }, gLab); t.label.textContent = t.name;
+    t.rlabels = t.regions.map(r => { const x = el("text", { class: "rlabel", x: r.centre[0], y: r.centre[1] }, gLab); x.textContent = r.name; return x; });
+    if (!t.sea) { t.mark = el("g", { class: "mark" }, gMark); t.mc = el("circle", { cx: t.centre[0], cy: t.centre[1] }, t.mark); t.mt = el("text", { x: t.centre[0], y: t.centre[1] }, t.mark);
+      t.mark.addEventListener("click", () => select(t.name, "")); }
+  }
+  const selPath = el("path", { class: "regsel" }, gSel);
+
+  const fillFor = id => { const x = H[id] || H.unknown; return `var(--${x.slot})`; };
+  function paint() {
+    for (const c of cells) {
+      if (c.t.sea) continue;
+      const showR = st.regions && c.r;
+      const hid = showR ? holderAt(c.t.name, c.r, st.s) : majority(c.t.name, st.s);
+      if (st.mode === "holder") {
+        c.base.style.fill = fillFor(hid);
+        const p = (H[hid] || H.unknown).pattern;
+        c.pat.setAttribute("fill", p ? `url(#${p})` : "none");
+        c.base.classList.toggle("dim", !!st.iso && st.iso !== hid);
+      } else {
+        c.base.style.fill = `var(--${c.t.tslot})`;
+        c.pat.setAttribute("fill", "none");
+        c.base.style.fillOpacity = c.r && st.regions ? (0.55 + 0.45 * ((c.t.regions.findIndex(r => r.name === c.r) % 3) / 2)) : 1;
+        c.base.classList.remove("dim");
+      }
+      if (st.mode === "holder") c.base.style.fillOpacity = 1;
+      c.base.style.strokeOpacity = st.regions ? 1 : 0;
+    }
+    for (const t of T) {
+      t.outline.classList.toggle("sel", !!st.sel && st.sel.t === t.name);
+      if (t.mark) { const n = st.marks ? countAt(t.name, st.s) : 0; t.mark.style.display = n ? "" : "none";
+        if (n) { const u = unit() * (svg.clientWidth < 520 ? 0.7 : 1), r = (7 + Math.sqrt(n) * 1.6) * u; t.mc.setAttribute("r", r); t.mt.textContent = n; t.mt.style.fontSize = (10.5 * u) + "px";
+          const off = 15 * u; t.mc.setAttribute("cy", t.centre[1] + off); t.mt.setAttribute("y", t.centre[1] + off); } }
+    }
+    const sr = st.sel && st.sel.r && byName[st.sel.t].regions.find(r => r.name === st.sel.r);
+    selPath.setAttribute("d", sr ? pathOf(sr.polys) : "");
+    labels();
+  }
+  // one screen pixel expressed in map units at the current zoom
+  const unit = () => 1 / ((Math.min(svg.clientWidth / vw, svg.clientHeight / vh) || 1) * st.k);
+  function labels() {
+    const u = unit(), scale = 1 / u, placed = [];
+    const order = [...T].sort((a, b) => (st.sel && st.sel.t === b.name) - (st.sel && st.sel.t === a.name) || b.bbox[2] * b.bbox[3] - a.bbox[2] * a.bbox[3]);
+    for (const t of order) {
+      const w = t.bbox[2] * scale, fs = 12 * u;
+      const box = { x: t.centre[0] * scale - t.name.length * 3.5, y: t.centre[1] * scale - 9, w: t.name.length * 7, h: 16 };
+      t.clash = placed.some(q => box.x < q.x + q.w && q.x < box.x + box.w && box.y < q.y + q.h && q.y < box.y + box.h);
+      if (!t.clash || (st.sel && st.sel.t === t.name)) placed.push(box);
+      t.label.style.fontSize = fs + "px"; t.label.style.strokeWidth = (3 * u) + "px";
+      t.label.style.display = (st.sel && st.sel.t === t.name) || (!t.clash && w > t.name.length * 4.5) ? "" : "none";
+      const showR = st.regions && st.k >= 2.4;
+      t.rlabels.forEach(x => { x.style.display = showR ? "" : "none"; x.style.fontSize = (11 * u) + "px"; x.style.strokeWidth = (2.5 * u) + "px"; });
+      if (showR && t.regions.length) t.label.style.display = "none";
+    }
+  }
+  function tip(ev, c) {
+    const box = $("mapwrap").getBoundingClientRect(), tp = $("tip");
+    const r = st.regions ? c.r : "";
+    const hid = r ? holderAt(c.t.name, r, st.s) : majority(c.t.name, st.s), n = countAt(c.t.name, st.s);
+    tp.innerHTML = `<b>${esc(r || c.t.name)}</b>${r ? `<div>${esc(c.t.name)}</div>` : ""}<div>Held by ${esc((H[hid] || H.unknown).name)}</div><div>${n} event${n === 1 ? "" : "s"} in ${esc(S[st.s])}</div>`;
+    tp.hidden = false;
+    const x = ev.clientX - box.left + 14, y = ev.clientY - box.top + 14;
+    tp.style.left = Math.min(x, box.width - tp.offsetWidth - 6) + "px"; tp.style.top = Math.min(y, box.height - tp.offsetHeight - 6) + "px";
+  }
+
+  // ---- pan and zoom
+  let moved = false; const ptrs = new Map(); let pinch = 0;
+  const apply = () => { vp.setAttribute("transform", `translate(${st.x} ${st.y}) scale(${st.k})`); paint(); };
+  const toMap = ev => { const b = svg.getBoundingClientRect(), m = Math.min(b.width / vw, b.height / vh);
+    return [(ev.clientX - b.left - (b.width - vw * m) / 2) / m + vx, (ev.clientY - b.top - (b.height - vh * m) / 2) / m + vy]; };
+  function zoomAt(px, py, f) { const k = Math.max(1, Math.min(14, st.k * f)); f = k / st.k; st.x = px - (px - st.x) * f; st.y = py - (py - st.y) * f; st.k = k; clamp(); apply(); }
+  function clamp() { const mx = vw * (st.k - 1), my = vh * (st.k - 1); st.x = Math.min(vx * (1 - st.k) + 0, Math.max(st.x, vx * (1 - st.k) - mx)); st.y = Math.min(vy * (1 - st.k), Math.max(st.y, vy * (1 - st.k) - my)); }
+  svg.addEventListener("wheel", ev => { ev.preventDefault(); const [px, py] = toMap(ev); zoomAt(px, py, ev.deltaY < 0 ? 1.25 : 0.8); }, { passive: false });
+  svg.addEventListener("pointerdown", ev => { ptrs.set(ev.pointerId, ev); moved = false; svg.setPointerCapture(ev.pointerId); });
+  svg.addEventListener("pointermove", ev => {
+    if (!ptrs.has(ev.pointerId)) return; const prev = ptrs.get(ev.pointerId); ptrs.set(ev.pointerId, ev);
+    if (ptrs.size === 1) { const a = toMap(prev), b = toMap(ev); if (Math.abs(ev.clientX - prev.clientX) + Math.abs(ev.clientY - prev.clientY) > 2) { moved = true; svg.classList.add("drag"); }
+      st.x += b[0] - a[0]; st.y += b[1] - a[1]; clamp(); vp.setAttribute("transform", `translate(${st.x} ${st.y}) scale(${st.k})`); }
+    else if (ptrs.size === 2) { const [p, q] = [...ptrs.values()], d = Math.hypot(p.clientX - q.clientX, p.clientY - q.clientY); moved = true;
+      if (pinch) { const c = toMap({ clientX: (p.clientX + q.clientX) / 2, clientY: (p.clientY + q.clientY) / 2 }); zoomAt(c[0], c[1], d / pinch); } pinch = d; }
+  });
+  const up = ev => { ptrs.delete(ev.pointerId); pinch = 0; svg.classList.remove("drag"); setTimeout(() => { moved = false; }, 0); };
+  svg.addEventListener("pointerup", up); svg.addEventListener("pointercancel", up);
+  $("zin").onclick = () => zoomAt(vx + vw / 2 - 0, vy + vh / 2, 1.5);
+  $("zout").onclick = () => zoomAt(vx + vw / 2, vy + vh / 2, 1 / 1.5);
+  $("zreset").onclick = () => { st.k = 1; st.x = 0; st.y = 0; apply(); };
+  function focusOn(t) { const [bx, by, bw, bh] = t.bbox; const k = Math.max(1, Math.min(8, 0.5 * Math.min(vw / bw, vh / bh)));
+    st.k = k; st.x = vx + vw / 2 - (bx + bw / 2) * k; st.y = vy + vh / 2 - (by + bh / 2) * k; clamp(); apply(); }
+  addEventListener("resize", paint);
+
+  // ---- selection and panel
+  function select(t, r) { st.sel = t ? { t, r: r || "" } : null; st.tab = "place"; render(); }
+  const swatch = id => { const x = H[id] || H.unknown; const s = h("span", { className: "sw" }); s.style.background = `var(--${x.slot})`;
+    if (x.pattern === "hatch") s.style.backgroundImage = "repeating-linear-gradient(45deg, transparent 0 3px, var(--surface) 3px 5px)";
+    if (x.pattern === "dots") s.style.backgroundImage = "radial-gradient(var(--surface) 1.5px, transparent 2px)", s.style.backgroundSize = "5px 5px"; return s; };
+  const hname = id => (H[id] || H.unknown).name;
+  function evItem(e, showSeason) {
+    const d = h("div", { className: "ev" });
+    const meta = h("div", { className: "meta" }, h("span", { className: "tag", textContent: e.ty }));
+    if (showSeason) meta.append(h("button", { className: "linkish", textContent: S[e.s], onclick: () => setSeason(e.s) }));
+    const places = Object.keys(e.pl); if (!st.sel || places.length > 1) meta.append(h("span", { textContent: places.length > 4 ? places.length + " territories" : places.join(", ") }));
+    d.append(meta, h("a", { href: e.u, target: "_blank", rel: "noopener", textContent: e.ti }));
+    if (e.ex) d.append(h("p", { textContent: e.ex }));
+    if (D.meta.archiveLinks && e.p) d.append(h("a", { href: e.p, textContent: "archive copy", style: "font-weight:400;font-size:.82rem" }));
+    return d;
+  }
+  function typeChips() { const c = h("div", { className: "chips" });
+    for (const ty of types) { const b = h("button", { textContent: ty }); b.setAttribute("aria-pressed", st.types.has(ty));
+      b.onclick = () => { st.types.has(ty) ? st.types.delete(ty) : st.types.add(ty); render(); }; c.append(b); } return c; }
+
+  function panelPlace(b) {
+    if (!st.sel) {
+      const evs = evBySeason[st.s].filter(e => st.types.has(e.ty));
+      b.append(h("h2", { textContent: S[st.s] }), h("div", { className: "crumb", textContent: `${evs.length} located events this season. Click a territory or region for its story.` }));
+      const ch = D.control.changes.filter(c => c.s === st.s && c.kind !== "status");
+      b.append(h("h3", { textContent: "Changes of control" }));
+      if (!ch.length) b.append(h("div", { className: "empty", textContent: "None recorded for this season." }));
+      for (const c of ch) b.append(changeItem(c, true));
+      b.append(h("h3", { textContent: "Event types" }), typeChips());
+      b.append(h("h3", { textContent: "Territories" }));
+      const tb = h("table"); tb.innerHTML = '<thead><tr><th>Territory</th><th>Held by</th><th class="n">Events</th></tr></thead>';
+      const body = h("tbody");
+      T.filter(t => !t.sea).map(t => [t, countAt(t.name, st.s)]).sort((a, c) => c[1] - a[1] || a[0].name.localeCompare(c[0].name)).forEach(([t, n]) => {
+        const tr = h("tr"); const btn = h("button", { className: "linkish", textContent: t.name, onclick: () => { select(t.name, ""); focusOn(t); } });
+        const hd = h("td"); const wrap = h("span", { style: "display:inline-flex;gap:6px;align-items:center" }, swatch(majority(t.name, st.s)), hname(majority(t.name, st.s))); hd.append(wrap);
+        tr.append(h("td", {}, btn), hd, h("td", { className: "n", textContent: n || "" })); body.append(tr); });
+      tb.append(body); b.append(h("div", { className: "tablewrap" }, tb));
+      return;
+    }
+    const t = byName[st.sel.t], r = st.sel.r;
+    const crumb = h("div", { className: "crumb" }, h("button", { textContent: "All territories", onclick: () => select(null) }));
+    if (r) crumb.append(" › ", h("button", { textContent: t.name, onclick: () => select(t.name, "") }));
+    b.append(crumb, h("h2", { textContent: r || t.name }));
+    const hid = r ? holderAt(t.name, r, st.s) : majority(t.name, st.s);
+    b.append(h("div", { className: "holder" }, swatch(hid), h("span", { textContent: `Held by ${hname(hid)} in ${S[st.s]}` })));
+    if (t.nation) b.append(h("div", { className: "crumb", textContent: (t.imperial ? "Imperial territory, " : "Outside the Empire, ") + t.nation }));
+    if (r) { const rr = t.regions.find(x => x.name === r); if (rr && rr.placed !== "label") b.append(h("div", { className: "unsure", textContent: "Position on the map is a rough guess: no label was found for this region on the wiki's map." })); }
+    if (t.u) b.append(h("div", {}, h("a", { href: t.u + (r ? "#" + encodeURIComponent(r.replace(/ /g, "_")) : ""), target: "_blank", rel: "noopener", textContent: "Read about it on the wiki" })));
+    if (!r && t.regions.length) { b.append(h("h3", { textContent: `Regions (${t.regions.length})` })); const ul = h("div");
+      for (const x of t.regions) { const row = h("button", { className: "row", onclick: () => select(t.name, x.name) }, swatch(holderAt(t.name, x.name, st.s)), h("span", { className: "grow", textContent: x.name }), h("span", { className: "num", textContent: hname(holderAt(t.name, x.name, st.s)) })); ul.append(row); }
+      b.append(ul); }
+    const ch = D.control.changes.filter(c => c.t === t.name && (!r || !c.r || c.r === r) && c.kind !== "status");
+    b.append(h("h3", { textContent: "Control history" }));
+    if (!ch.length) b.append(h("div", { className: "empty", textContent: "No change of control recorded between " + S[0] + " and " + S[last] + "." }));
+    for (const c of ch) b.append(changeItem(c, false));
+    const all = (evByTerr[t.name] || []).filter(e => st.types.has(e.ty) && (!r || e.pl[t.name].includes(r)));
+    const now = all.filter(e => e.s === st.s), before = all.filter(e => e.s < st.s).sort((a, c) => c.s - a.s), after = all.filter(e => e.s > st.s).length;
+    b.append(h("h3", { textContent: "Event types" }), typeChips());
+    b.append(h("h3", { textContent: `${S[st.s]} (${now.length})` }));
+    if (!now.length) b.append(h("div", { className: "empty", textContent: "Nothing recorded here this season." }));
+    now.forEach(e => b.append(evItem(e, false)));
+    b.append(h("h3", { textContent: `Earlier (${before.length})` }));
+    before.slice(0, 60).forEach(e => b.append(evItem(e, true)));
+    if (before.length > 60) b.append(h("div", { className: "empty", textContent: `${before.length - 60} older events not shown; move the timeline back to see them.` }));
+    if (after) b.append(h("div", { className: "empty", style: "margin-top:10px", textContent: `${after} later event${after === 1 ? "" : "s"}; move the timeline forward to see them.` }));
+  }
+  function changeItem(c, withPlace) {
+    const d = h("div", { className: "chg" });
+    const where = c.r ? `${c.r}${withPlace ? ", " + c.t : ""}` : (withPlace ? c.t : "Whole territory");
+    const head = h("div", {}, h("button", { className: "linkish", textContent: S[c.s], onclick: () => setSeason(c.s) }), ` · ${where} → `, h("b", { textContent: hname(c.h) }));
+    d.append(head); if (c.note) d.append(h("div", { className: c.conf === "low" ? "unsure" : "", textContent: c.note + (c.conf === "low" ? " (uncertain)" : "") }));
+    if (c.u) d.append(h("a", { href: c.u, target: "_blank", rel: "noopener", textContent: c.src, style: "font-size:.85rem" }));
+    return d;
+  }
+  function panelHolders(b) {
+    b.append(h("h2", { textContent: "Holders in " + S[st.s] }), h("div", { className: "crumb", textContent: "Click a holder to show only its lands. Hatched colours are powers outside the Empire." }));
+    const n = {}; for (const t of T) { if (t.sea) continue; const parts = t.regions.length ? t.regions.map(r => r.name) : [""]; for (const r of parts) { const x = holderAt(t.name, r, st.s); n[x] = (n[x] || 0) + 1; } }
+    for (const g of ["Imperial nations", "Barbarian powers", "Others"]) {
+      const hs = D.holders.filter(x => x.group === g && n[x.id]); if (!hs.length) continue;
+      b.append(h("h3", { textContent: g })); const box = h("div", { className: "legend" });
+      for (const x of hs.sort((a, c) => (n[c.id] || 0) - (n[a.id] || 0))) { const row = h("button", { className: "row" }, swatch(x.id), h("span", { className: "grow", textContent: x.name }), h("span", { className: "num", textContent: n[x.id] + " regions" }));
+        row.setAttribute("aria-pressed", st.iso === x.id); row.onclick = () => { st.iso = st.iso === x.id ? null : x.id; st.mode = "holder"; render(); }; box.append(row); }
+      b.append(box); }
+  }
+  function panelHistory(b) {
+    b.append(h("h2", { textContent: "Before " + S[0] }), h("div", { className: "crumb", textContent: "Dated statements from territory pages and recorded changes of control before play began." }));
+    if (!D.history.length) b.append(h("div", { className: "empty", textContent: "No dated entries." }));
+    for (const x of D.history) { const d = h("div", { className: "ev" });
+      d.append(h("div", { className: "meta" }, h("span", { className: "tag", textContent: x.y < 0 ? `${-x.y} BE` : `${x.y}YE` }), h("button", { className: "linkish", textContent: x.t, onclick: () => { select(x.t, ""); focusOn(byName[x.t]); } })));
+      d.append(h("p", { textContent: x.tx, style: "color:var(--ink)" })); if (x.u) d.append(h("a", { href: x.u, target: "_blank", rel: "noopener", textContent: "source", style: "font-weight:400;font-size:.82rem" })); b.append(d); }
+  }
+
+  // ---- timeline
+  const hist = $("hist"); const counts = S.map((_, i) => evBySeason[i].length), max = Math.max(...counts, 1);
+  const bars = [], years = $("years");
+  hist.style.gridTemplateColumns = years.style.gridTemplateColumns = `repeat(${S.length}, minmax(0, 1fr))`;
+  S.forEach((s, i) => { const b = h("button", { title: `${s}: ${counts[i]} located events`, onclick: () => setSeason(i) }); b.setAttribute("aria-label", b.title);
+    b.style.height = Math.max(7, counts[i] / max * 100) + "%"; hist.append(b); bars.push(b);
+    if (i === 0 || S[i - 1].slice(0, 3) !== s.slice(0, 3)) { let n = 1; while (i + n < S.length && S[i + n].slice(0, 3) === s.slice(0, 3)) n++;
+      const y = h("span"); y.dataset.full = n > 1 ? s.slice(0, 5) : ""; y.dataset.short = n > 1 ? s.slice(0, 3) : ""; y.dataset.k = years.children.length;
+      y.style.gridColumn = `${i + 1} / span ${n}`; years.append(y); } });
+  function yearLabels() { const col = years.clientWidth / S.length * 4;
+    for (const y of years.children) y.textContent = col >= 40 ? y.dataset.full : col >= 24 ? y.dataset.short : (y.dataset.k % 3 === 1 ? y.dataset.short : ""); }
+  yearLabels(); addEventListener("resize", yearLabels);
+  const range = $("season"); range.max = last; range.value = st.s;
+  range.addEventListener("input", () => setSeason(+range.value));
+  function setSeason(i) { st.s = Math.max(0, Math.min(last, i)); range.value = st.s; render(); }
+  $("prev").onclick = () => setSeason(st.s - 1); $("next").onclick = () => setSeason(st.s + 1);
+  $("play").onclick = () => { if (st.playing) { clearInterval(st.playing); st.playing = null; } else { if (st.s === last) setSeason(0);
+      st.playing = setInterval(() => { if (st.s >= last) { clearInterval(st.playing); st.playing = null; $("play").textContent = "▶ Play"; } else setSeason(st.s + 1); }, 1100); }
+    $("play").textContent = st.playing ? "❚❚ Pause" : "▶ Play"; };
+
+  // ---- controls
+  const setMode = m => { st.mode = m; if (m !== "holder") st.iso = null; $("mode-holder").setAttribute("aria-pressed", m === "holder"); $("mode-territory").setAttribute("aria-pressed", m === "territory"); render(); };
+  $("mode-holder").onclick = () => setMode("holder"); $("mode-territory").onclick = () => setMode("territory");
+  $("show-regions").onchange = e => { st.regions = e.target.checked; if (!st.regions && st.sel) st.sel.r = ""; render(); };
+  $("show-marks").onchange = e => { st.marks = e.target.checked; paint(); };
+  for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).onclick = () => { st.tab = tab; render(); };
+  const q = $("q"), res = $("results");
+  const index = []; for (const t of T) { if (t.sea) continue; index.push({ label: t.name, sub: "Territory", go: () => { select(t.name, ""); focusOn(t); } });
+    for (const r of t.regions) index.push({ label: r.name, sub: "Region of " + t.name, go: () => { select(t.name, r.name); focusOn(t); } }); }
+  D.events.forEach(e => index.push({ label: e.ti, sub: `${e.ty}, ${S[e.s]}`, go: () => { st.s = e.s; range.value = e.s; const t = Object.keys(e.pl)[0]; select(t, ""); focusOn(byName[t]); } }));
+  q.addEventListener("input", () => { const v = q.value.trim().toLowerCase(); res.innerHTML = ""; if (v.length < 2) { res.hidden = true; return; }
+    const hits = index.filter(x => x.label.toLowerCase().includes(v)).sort((a, b) => a.label.toLowerCase().indexOf(v) - b.label.toLowerCase().indexOf(v)).slice(0, 14);
+    if (!hits.length) res.append(h("div", { className: "empty", textContent: "No place or event matches.", style: "padding:6px 8px" }));
+    for (const x of hits) res.append(h("button", { onclick: () => { res.hidden = true; q.value = ""; x.go(); } }, x.label, h("small", { textContent: x.sub }))); res.hidden = false; });
+  document.addEventListener("click", e => { if (!e.target.closest(".search")) res.hidden = true; });
+
+  function render() {
+    $("now").innerHTML = `${esc(S[st.s])}<small>${evBySeason[st.s].length} located events</small>`;
+    bars.forEach((r, i) => r.classList.toggle("on", i === st.s));
+    $("tab-place").textContent = st.sel ? (st.sel.r || st.sel.t) : "Season";
+    for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).setAttribute("aria-selected", st.tab === tab);
+    const b = $("pbody"), top = b.scrollTop; b.innerHTML = "";
+    (st.tab === "holders" ? panelHolders : st.tab === "history" ? panelHistory : panelPlace)(b);
+    b.scrollTop = st.keep ? top : 0; paint();
+  }
+  render();
+  window.__atlas = { st, setSeason, select, holderAt, majority };
+}
+})();
+</script>

@@ -1,0 +1,391 @@
+"""Assemble map/data.json and the page (standalone map/index.html plus an artifact copy)."""
+from __future__ import annotations
+
+import collections
+import itertools
+import json
+import re
+import sys
+
+import cv2
+import numpy as np
+
+from scraper.common import DATA, ROOT, read_json
+
+from .geometry import MAP_DIR, territory_polygons
+
+SEAS = {"Bay of Catazar", "Sea of Snow", "The Semmerlak"}
+IMPERIAL = ["Dawn", "Highguard", "Imperial Orcs", "Navarr", "The Brass Coast", "The League", "The Marches",
+            "Urizen", "Varushka", "Wintermark"]
+BARBARIAN = ["Jotun", "Druj", "Grendel", "Thule"]
+SLOTS = ["s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8"]
+# sRGB values of the categorical slots (light theme), used only to keep neighbours apart
+SLOT_RGB = {"s1": "257de0", "s2": "f47230", "s3": "00b894", "s4": "f2a600", "s5": "ee7fac", "s6": "008a17",
+            "s7": "6a4ce2", "s8": "ec4647"}
+ALIASES = {
+    "the jotun": "Jotun", "jotun": "Jotun", "the druj": "Druj", "druj": "Druj", "the grendel": "Grendel",
+    "grendel": "Grendel", "the thule": "Thule", "thule": "Thule", "brass coast": "The Brass Coast",
+    "the brass coast": "The Brass Coast", "league": "The League", "the league": "The League",
+    "marches": "The Marches", "the marches": "The Marches", "imperial orcs": "Imperial Orcs",
+    "the imperial orcs": "Imperial Orcs", "vallorn": "Vallorn", "the vallorn": "Vallorn",
+    "beoraidh (neutral city-state)": "Beoraidh", "beoraidh (city-state)": "Beoraidh",
+    "nesustak forest rebels": "Sarangrave rebels", "llofir (eternal)": "Llofir",
+}
+# colours the wiki's own maps use for each power, taken when no neighbour already has them
+PREFERRED = {"Navarr": "s6", "The League": "s4", "The Brass Coast": "s2", "Dawn": "s1", "Wintermark": "s3",
+             "Varushka": "s8", "Urizen": "s7", "Highguard": "s5", "Druj": "s5", "Jotun": "s8", "Grendel": "s3",
+             "Thule": "s7"}
+EMPIRE_WORDS = {"the empire", "empire", "imperial", "imperials", "the imperials"}
+
+
+def canon(name, nation=None):
+    """Normalise a holder name; a bare 'the Empire' becomes the territory's own nation."""
+    if not name:
+        return None
+    key = re.sub(r"\s+", " ", str(name)).strip()
+    low = key.lower()
+    if low in EMPIRE_WORDS:
+        return nation if nation in IMPERIAL else "The Empire"
+    for n in IMPERIAL + BARBARIAN:
+        if low == n.lower():
+            return n
+    if low in ALIASES:
+        return ALIASES[low]
+    for n in BARBARIAN:  # "Jotun (Hierro clan)" and the like
+        if re.match(rf"(the )?{n.lower()}\b", low):
+            return n
+    if low == "unknown":
+        return "Unknown"
+    if re.match(r"(none|nobody|no one|unclaimed|uninhabited|uncontrolled|contested|disputed|neutral)\b", low):
+        return "Uncontrolled"
+    return key[:1].upper() + key[1:]
+
+
+def oklab(hexv):
+    r, g, b = (int(hexv[i:i + 2], 16) / 255 for i in (0, 2, 4))
+    lin = [c / 12.92 if c <= 0.04045 else ((c + 0.055) / 1.055) ** 2.4 for c in (r, g, b)]
+    l = (0.4122214708 * lin[0] + 0.5363325363 * lin[1] + 0.0514459929 * lin[2]) ** (1 / 3)
+    m = (0.2119034982 * lin[0] + 0.6806995451 * lin[1] + 0.1073969566 * lin[2]) ** (1 / 3)
+    s = (0.0883024619 * lin[0] + 0.2817188376 * lin[1] + 0.6299787005 * lin[2]) ** (1 / 3)
+    return (0.2104542553 * l + 0.7936177850 * m - 0.0040720468 * s,
+            1.9779984951 * l - 2.4285922050 * m + 0.4505937099 * s,
+            0.0259040371 * l + 0.7827717662 * m - 0.8086757660 * s)
+
+
+def delta(a, b):
+    return 100 * sum((x - y) ** 2 for x, y in zip(oklab(SLOT_RGB[a]), oklab(SLOT_RGB[b]))) ** 0.5
+
+
+def adjacency(terr):
+    """Pairs of territories whose outlines touch."""
+    masks = {}
+    for name, t in terr.items():
+        m = np.zeros((1700, 1750), np.uint8)
+        for poly in t["polys"]:
+            cv2.fillPoly(m, [np.array(poly, np.int32)], 1)
+        masks[name] = cv2.dilate(m, np.ones((7, 7), np.uint8))
+    pairs = set()
+    for a, b in itertools.combinations(sorted(masks), 2):
+        if (masks[a] & masks[b]).any():
+            pairs.add((a, b))
+    return pairs
+
+
+def centre_of(polys):
+    xs = [p[0] for poly in polys for p in poly]
+    ys = [p[1] for poly in polys for p in poly]
+    x0, y0 = min(xs), min(ys)
+    m = np.zeros((max(ys) - y0 + 3, max(xs) - x0 + 3), np.uint8)
+    for poly in polys:
+        cv2.fillPoly(m, [np.array([[x - x0 + 1, y - y0 + 1] for x, y in poly], np.int32)], 1)
+    dist = cv2.distanceTransform(m, cv2.DIST_L2, 5)  # the point deepest inside the outline
+    y, x = np.unravel_index(int(np.argmax(dist)), dist.shape)
+    return [float(x + x0 - 1), float(y + y0 - 1)], [min(xs), min(ys), max(xs) - min(xs), max(ys) - min(ys)]
+
+
+def assign_slots(holder_pairs, imperial_used, barbarian_used):
+    """Give holders colour slots so that holders who border each other look different."""
+    weight = collections.Counter(holder_pairs)
+    slot = {}
+    order = sorted(imperial_used, key=lambda n: -sum(w for (a, b), w in weight.items() if n in (a, b)))
+    for group, pattern_after in ((order, 8), (sorted(barbarian_used), 0)):
+        for i, n in enumerate(group):
+            best, best_score = None, None
+            for s in SLOTS:
+                same = [o for o, (os_, _) in slot.items() if os_ == s]
+                # never share a colour with a neighbour; prefer unused colours, then distance from neighbours
+                clash = any(weight.get(tuple(sorted((n, o))), 0) for o in same)
+                near = [delta(s, slot[o][0]) for o in slot if weight.get(tuple(sorted((n, o))), 0) and slot[o][0] != s]
+                score = (not clash, PREFERRED.get(n) == s, -len(same), min(near) if near else 99)
+                if best_score is None or score > best_score:
+                    best, best_score = s, score
+            slot[n] = (best, "dots" if (group is order and any(o for o in slot if slot[o][0] == best and o in imperial_used)) else None)
+        if group is order:
+            for n in order:  # the second Imperial nation on a colour carries dots
+                pass
+    for n in barbarian_used:
+        slot[n] = (slot[n][0], "hatch")
+    return slot
+
+
+RENAMED = {("Madruga", "Siroc Plains"): "Siroc Bayou", ("Madruga", "Great Grasses"): "Quiet Grasses",
+           ("Madruga", "Blightheart"): "Quiet Grasses"}
+SEASON_RE = re.compile(r"(\d{3})YE (Spring|Summer|Autumn|Winter)")
+
+
+def load_control(terr, regions, seasons, pages):
+    """Merge the reading results in map/control_raw/ into start holders and dated changes.
+
+    Flags on a change: "np" = shown in the history but not painted (a statement about the
+    territory as a whole while its regions are split); "as" = a Senate assignment, which
+    re-colours only regions already in Imperial hands.
+    """
+    raw = MAP_DIR / "control_raw"
+    idx = {s: i for i, s in enumerate(seasons)}
+    nation, imperial, start, changes, history, issues, now = {}, {}, {}, [], [], [], {}
+    for name in terr:
+        cats = pages.get(name, {}).get("categories", [])
+        imp = [n for n in IMPERIAL if n in cats]
+        barb = [n for n in BARBARIAN if n in cats]
+        nation[name] = imp[0] if imp else (barb[0] if barb else None)
+        imperial[name] = "Imperial Territory" in cats
+        start[name] = nation[name] or "Unknown"
+
+    def region_of(name, region):
+        region = RENAMED.get((name, region), region)
+        return region if region in regions.get(name, []) else None
+
+    tfile = raw / "territories.json"
+    if tfile.exists():
+        for t in json.loads(tfile.read_text()):
+            name = t.get("territory")
+            if name not in terr:
+                issues.append(f"territory reader: unknown territory {name!r}")
+                continue
+            if t.get("nation") and canon(t["nation"]) not in ("Uncontrolled", "Unknown"):
+                nation[name] = canon(t["nation"])
+            if isinstance(t.get("imperial"), bool):
+                imperial[name] = t["imperial"]
+            first = canon(t.get("holder_376"), nation[name])
+            if not first:  # the page gives no history: assume today's holder held it throughout
+                first = canon(t.get("holder_now"), nation[name]) or start[name]
+            start[name] = first
+            now[name] = {"": canon(t.get("holder_now"), nation[name])}
+            for r, hname in (t.get("regions_now") or {}).items():
+                if region_of(name, r):
+                    now[name][region_of(name, r)] = canon(hname, nation[name])
+            for c in t.get("changes") or []:
+                when = str(c.get("when") or "")
+                m = SEASON_RE.search(when)
+                y = re.search(r"(\d{1,3})\s?YE", when)
+                region = region_of(name, c.get("region")) if c.get("region") else None
+                if c.get("region") and not region:
+                    issues.append(f"territory reader: unknown region {c['region']!r} in {name}")
+                    continue
+                entry = {"t": name, "r": region, "h": canon(c.get("holder"), nation[name]),
+                         "kind": c.get("kind") or "other", "note": c.get("note") or "",
+                         "conf": c.get("confidence") or "medium", "src": name + " (territory page)",
+                         "u": pages.get(name, {}).get("source"), "from": "territory page"}
+                if not entry["h"]:
+                    continue
+                if m and m.group(0) in idx:
+                    changes.append({**entry, "s": idx[m.group(0)]})
+                elif y and int(y.group(1)) < 376:
+                    where = f"{region}, {name}" if region else name
+                    history.append({"y": int(y.group(1)), "t": name, "u": entry["u"],
+                                    "tx": f"{where} passes to {entry['h']}. {entry['note']}".strip()})
+                elif y and f"{y.group(1)}YE Spring" in idx:  # year known, season not: listed, not painted
+                    changes.append({**entry, "s": idx[f"{y.group(1)}YE Spring"], "np": 1, "conf": "low",
+                                    "note": (entry["note"] + " Season within the year not stated.").strip()})
+    for era in ("A", "B", "C"):
+        f = raw / f"{era}.json"
+        if not f.exists():
+            continue
+        for c in json.loads(f.read_text()):
+            name = c.get("territory")
+            if name not in terr or c.get("event") not in idx:
+                issues.append(f"era {era}: skipped {name!r} at {c.get('event')!r}")
+                continue
+            region = None
+            if c.get("region"):
+                region = region_of(name, c["region"])
+                if not region:
+                    issues.append(f"era {era}: unknown region {c['region']!r} in {name}")
+                    continue
+            src = c.get("source") or ""
+            holder = canon(c.get("holder"), nation[name])
+            if not holder:
+                continue
+            changes.append({"t": name, "r": region, "h": holder, "s": idx[c["event"]],
+                            "kind": c.get("kind") or "other", "note": c.get("note") or "",
+                            "conf": c.get("confidence") or "medium", "src": src,
+                            "u": pages.get(src, {}).get("source"), "from": "winds of war"})
+    for c in changes:
+        note = c["note"].lower()
+        if c["r"] is None and c["kind"] == "assigned":
+            c["as"] = 1
+        elif c["r"] is None and (note.startswith("territory control only") or note.startswith("territory-level only")):
+            c["np"] = 1
+    # the campaign reports are the primary record; drop territory-page entries they already cover
+    primary = collections.defaultdict(list)
+    for c in changes:
+        if c["from"] == "winds of war":
+            primary[(c["t"], c["r"], c["h"])].append(c["s"])
+    changes = [c for c in changes if c["from"] == "winds of war"
+               or not any(abs(c["s"] - s) <= 1 for s in primary.get((c["t"], c["r"], c["h"]), []))]
+    changes.sort(key=lambda c: (c["s"], c["r"] is not None, c["from"] == "winds of war", c["kind"] != "status"))
+    return {"nation": nation, "imperial": imperial, "start": start, "startRegions": {},
+            "changes": changes, "history": history, "now": now, "issues": issues}
+
+
+def apply_changes(terr, regions, seasons, ctl):
+    """Holder of every region (and "" for the territory as a whole) at every season."""
+    imperial = set(IMPERIAL) | {"The Empire"}
+    state = {t: {r: [ctl["start"][t]] * len(seasons) for r in ([""] + regions.get(t, []))} for t in terr}
+    for c in ctl["changes"]:
+        if c.get("np"):
+            continue
+        rows = state[c["t"]]
+        for r in ([c["r"]] if c["r"] else list(rows)):
+            if r not in rows or (c.get("as") and rows[r][c["s"]] not in imperial):
+                continue
+            for i in range(c["s"], len(seasons)):
+                rows[r][i] = c["h"]
+    return state
+
+
+def build(archive_links=True):
+    pages = read_json(DATA / "pages.json")
+    manifest = read_json(DATA / "manifest.json")
+    terr = territory_polygons()
+    shapes = json.loads((MAP_DIR / "region_shapes.json").read_text())
+    ev = json.loads((MAP_DIR / "events.json").read_text())
+    seasons = ev["seasons"]
+    regions = {t: list(cs) for t, cs in shapes.items()}
+    ctl = load_control(terr, regions, seasons, pages)
+    ctl["state"] = apply_changes(terr, regions, seasons, ctl)
+    ctl["reconciled"] = reconcile(ctl, regions, seasons, pages)
+    ctl["changes"] += ctl["reconciled"]
+
+    state = apply_changes(terr, regions, seasons, ctl)
+    pairs = adjacency(terr)
+    used = collections.Counter(h for t in terr if t not in SEAS for hs in state[t].values() for h in hs)
+    holder_pairs = []
+    for a, b in pairs:
+        if a in SEAS or b in SEAS:
+            continue
+        for i in range(len(seasons)):
+            for ha in {hs[i] for hs in state[a].values()}:
+                for hb in {hs[i] for hs in state[b].values()}:
+                    if ha != hb:
+                        holder_pairs.append(tuple(sorted((ha, hb))))
+    for t in terr:  # holders sharing a territory are neighbours too
+        for i in range(len(seasons)):
+            hs = sorted({v[i] for v in state[t].values()})
+            holder_pairs += list(itertools.combinations(hs, 2))
+    imp_used = [n for n in IMPERIAL if used[n]]
+    barb_used = [n for n in BARBARIAN if used[n]]
+    slots = assign_slots(holder_pairs, imp_used, barb_used)
+    seen_slot = set()
+    holders = []
+    for n in imp_used:
+        s, _ = slots[n]
+        holders.append({"id": n, "name": n, "group": "Imperial nations", "slot": s, "pattern": "dots" if s in seen_slot else None})
+        seen_slot.add(s)
+    for n in barb_used:
+        holders.append({"id": n, "name": n, "group": "Barbarian powers", "slot": slots[n][0], "pattern": "hatch"})
+    if used["The Empire"]:
+        holders.append({"id": "The Empire", "name": "The Empire (no nation assigned)", "group": "Imperial nations",
+                        "slot": "n1", "pattern": "dots"})
+    others = [h for h in used if h not in IMPERIAL and h not in BARBARIAN and h not in ("Unknown", "The Empire")]
+    for k, n in enumerate(sorted(others, key=lambda h: -used[h])):
+        holders.append({"id": n, "name": n, "group": "Others", "slot": "n1", "pattern": "hatch" if k % 2 == 0 else "dots"})
+    holders.append({"id": "unknown", "name": "Unknown", "group": "Others", "slot": "n2", "pattern": None})
+    fix = lambda h: "unknown" if h == "Unknown" else h
+
+    # territory colours for the by-territory view: neighbours never share one
+    tslot, graph = {}, collections.defaultdict(set)
+    for a, b in pairs:
+        graph[a].add(b)
+        graph[b].add(a)
+    for t in sorted(terr, key=lambda n: -len(graph[n])):
+        taken = {tslot[n] for n in graph[t] if n in tslot}
+        free = [s for s in SLOTS if s not in taken] or SLOTS
+        tslot[t] = min(free, key=lambda s: sum(1 for v in tslot.values() if v == s))
+
+    territories = []
+    for name, t in sorted(terr.items()):
+        centre, bbox = centre_of(t["polys"])
+        info = pages.get(name, {})
+        territories.append({
+            "name": name, "polys": t["polys"], "centre": centre, "bbox": bbox, "sea": name in SEAS,
+            "nation": ctl["nation"].get(name), "imperial": ctl["imperial"].get(name, False), "tslot": tslot[name],
+            "u": info.get("source"),
+            "regions": [{"name": r, "polys": c["polys"], "centre": c["centre"], "placed": c["placed"]}
+                        for r, c in shapes.get(name, {}).items()],
+        })
+    sidx = {s: i for i, s in enumerate(seasons)}
+    events = [{"ti": e["title"], "s": sidx[e["event"]], "ty": e["type"], "pl": e["places"], "ex": e["excerpt"],
+               "u": e["source"], "p": e["path"] if archive_links else None} for e in ev["events"]]
+    history = [{"y": h["year"], "t": h["territory"], "tx": h["text"], "u": h["source"]} for h in ev["history"]] + ctl["history"]
+    history.sort(key=lambda h: (h["y"], h["t"]))
+    xs = [p[0] for t in terr.values() for poly in t["polys"] for p in poly]
+    ys = [p[1] for t in terr.values() for poly in t["polys"] for p in poly]
+    data = {
+        "meta": {"snapshot": manifest["snapshot"], "archiveLinks": archive_links},
+        "view": [min(xs) - 20, min(ys) - 20, max(xs) - min(xs) + 40, max(ys) - min(ys) + 40],
+        "seasons": seasons, "territories": territories, "holders": holders,
+        "control": {"start": {t: fix(h) for t, h in ctl["start"].items()}, "startRegions": ctl["startRegions"],
+                    "changes": [{k: (fix(v) if k == "h" else v) for k, v in c.items() if k != "from"} for c in ctl["changes"]]},
+        "events": events, "history": history,
+    }
+    ctl["state"] = state
+    return data, ctl
+
+
+def reconcile(ctl, regions, seasons, pages):
+    """Where a territory page states today's holder and no dated change explains it, record the
+    change at the final season, marked as undated."""
+    added = []
+    state = ctl["state"]
+    for t, now in ctl["now"].items():
+        for r in [x for x in state[t] if x] or [""]:
+            want = now.get(r, now.get(""))
+            if want and want != state[t][r][-1]:
+                added.append({"t": t, "r": r or None, "h": want, "s": len(seasons) - 1, "kind": "other", "conf": "low",
+                              "note": "Holder today according to the territory page. When it changed is not recorded.",
+                              "src": t + " (territory page)", "u": pages.get(t, {}).get("source"), "from": "territory page"})
+    return added
+
+
+def write(data):
+    template = (ROOT / "mapbuilder" / "template.html").read_text(encoding="utf-8")
+    blob = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
+    (MAP_DIR / "data.json").write_text(blob, encoding="utf-8")
+    inline = "<script>window.__ATLAS__=" + blob.replace("</", "<\\/") + ";</script>"
+    page = ('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
+            '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n</head>\n<body>\n'
+            + template.replace("<!--DATA-->", inline) + "\n</body>\n</html>\n")
+    (MAP_DIR / "index.html").write_text(page, encoding="utf-8")
+    return len(blob), len(page)
+
+
+if __name__ == "__main__":
+    data, ctl = build()
+    nb, npg = write(data)
+    print(f"data.json {nb / 1e6:.2f} MB | index.html {npg / 1e6:.2f} MB")
+    print("territories:", len(data["territories"]), "| regions:", sum(len(t["regions"]) for t in data["territories"]),
+          "| events:", len(data["events"]), "| history:", len(data["history"]),
+          "| control changes:", len(data["control"]["changes"]))
+    print("holders:", [(h["name"], h["slot"], h["pattern"]) for h in data["holders"]])
+    if ctl["issues"]:
+        print("issues:", len(ctl["issues"]), ctl["issues"][:8])
+    if "--artifact" in sys.argv:
+        out = sys.argv[sys.argv.index("--artifact") + 1]
+        import pathlib
+        pathlib.Path(out).mkdir(parents=True, exist_ok=True)
+        d2, _ = build(archive_links=False)
+        (pathlib.Path(out) / "data.json").write_text(json.dumps(d2, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        (pathlib.Path(out) / "empire-atlas.html").write_text(
+            (ROOT / "mapbuilder" / "template.html").read_text(encoding="utf-8").replace("<!--DATA-->", ""), encoding="utf-8")
+        print("artifact copy written to", out)
