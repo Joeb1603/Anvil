@@ -38,6 +38,8 @@ jobs:
       pushed: ${{ steps.commit.outputs.pushed }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # always start from the latest main, even for a run that waited in the queue
 
       - uses: actions/setup-python@v5
         with:
@@ -74,23 +76,36 @@ jobs:
           path: .cache
           key: wiki-cache-${{ github.run_id }}
 
+      # If main moved while this ran (for example an atlas update was applied), rebuild on top of the new
+      # main from the downloaded pages and try again, so nothing is lost and nothing conflicts.
       - name: Commit and push changes
         id: commit
         if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A wiki data map
-          if git diff --cached --quiet; then
-            echo "Nothing changed."
-            echo "pushed=false" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
           summary=$(python3 -c "import json; c=json.load(open('.cache/changed.json')); print(f'{len(c)} new or edited wiki pages')")
           details=$(python3 -c "import json; c=json.load(open('.cache/changed.json')); print('\n'.join('- ' + t for t in c[:50]) + ('\n- ...' if len(c) > 50 else ''))")
-          git commit -m "Update from the Empire wiki: $summary" -m "$details"
-          git push
-          echo "pushed=true" >> "$GITHUB_OUTPUT"
+          for attempt in 1 2 3; do
+            git add -A wiki data map
+            if git diff --cached --quiet; then
+              echo "Nothing changed."
+              echo "pushed=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git commit -q -m "Update from the Empire wiki: $summary" -m "$details"
+            if git push origin HEAD:main; then
+              echo "pushed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "main moved while updating; rebuilding on the new main ($attempt)"
+            git fetch origin main
+            git reset --hard origin/main
+            python3 -m scraper.run --skip-fetch --strict
+            python3 -m mapbuilder.run
+          done
+          echo "::error::Could not push to main after three attempts."
+          exit 1
 
   deploy:
     needs: update
