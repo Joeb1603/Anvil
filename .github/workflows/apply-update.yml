@@ -13,8 +13,9 @@ permissions:
   pages: write
   id-token: write
 
+# Own queue, so a waiting update is never replaced by a newer run of the daily wiki update.
 concurrency:
-  group: wiki-update
+  group: atlas-apply-${{ github.ref_name }}
   cancel-in-progress: false
 
 jobs:
@@ -38,29 +39,32 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Merge the update into main
+      # Merge, rebuild, check, push. If main moved in the meantime, start again from the new main.
+      - name: Merge, rebuild, check and push to main
+        id: push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin "$BRANCH"
-          git merge --no-ff --no-edit "origin/$BRANCH" -m "Apply atlas update from $BRANCH"
-
-      - name: Rebuild the atlas and check it
-        run: |
-          python3 -m mapbuilder.run | tee build.log
-          if grep -q "^issues:" build.log; then
-            echo "::error::The atlas build reported problems with this update; main was not changed."
-            exit 1
-          fi
-
-      - name: Push to main
-        id: push
-        run: |
-          git add -A map
-          git diff --cached --quiet || git commit -m "Rebuild atlas after $BRANCH"
-          git push origin HEAD:main
-          git push origin --delete "$BRANCH"
-          echo "pushed=true" >> "$GITHUB_OUTPUT"
+          for attempt in 1 2 3; do
+            git fetch origin main "$BRANCH"
+            git reset --hard origin/main
+            git merge --no-ff --no-edit "origin/$BRANCH" -m "Apply atlas update from $BRANCH"
+            python3 -m mapbuilder.run | tee build.log
+            if grep -q "^issues:" build.log; then
+              echo "::error::The atlas build reported problems with this update; main was not changed."
+              exit 1
+            fi
+            git add -A map
+            git diff --cached --quiet || git commit -m "Rebuild atlas after $BRANCH"
+            if git push origin HEAD:main; then
+              git push origin --delete "$BRANCH"
+              echo "pushed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "main moved while applying; trying again ($attempt)"
+          done
+          echo "::error::Could not push to main after three attempts."
+          exit 1
 
   deploy:
     needs: apply
