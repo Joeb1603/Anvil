@@ -21,7 +21,7 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   real holder, and a split territory reads "Mostly held by X (5 of 7 regions)".
 - **Borders:** gold edges land held by Imperial nations, crimson land held by barbarians (Jotun,
   Druj, Grendel, Thule and barbarian orc bands), and a dark line neutral land (the vallorn,
-  uncontrolled regions, other powers). Each line sits on its own side of a shared border.
+  uncontrolled regions, other powers). Every nation and power is outlined, including where two Imperial nations meet; where sides differ, each colour sits on its own side of the border.
 - **Fighting:** crosshatched regions are ones a Wind of War names that season, where the region
   changes hands that season or the next, or its territory is split between the Empire and its
   enemies. It's an approximation of "actively contested"; the panel names the reports.

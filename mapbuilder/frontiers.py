@@ -79,7 +79,8 @@ def compute(terr, shapes, state, seasons, seas, side_of, view, short_name):
         # ---- frontier outlines
         # every piece of land is Imperial, barbarian or neutral (the vallorn, uncontrolled land, other powers)
         sides = tuple(side_of(h) or (None if h in ("Unknown", "unknown") else "neu") for h in hs)
-        if sides not in seen:
+        key = tuple(hs)
+        if key not in seen:
             lut = np.array([0] + [{"imp": 1, "barb": 2, "neu": 3}.get(s, 0) for s in sides], np.uint8)
             grp = lut[ids2]
             st = {}
@@ -87,9 +88,22 @@ def compute(terr, shapes, state, seasons, seas, side_of, view, short_name):
                 m = (grp == code).astype(np.uint8)
                 cs, hier = cv2.findContours(m, cv2.RETR_CCOMP, cv2.CHAIN_APPROX_SIMPLE)
                 st[key] = _path(cs, hier, origin, S)
-            seen[sides] = len(states)
+            # every holder's own outline, so neighbouring nations on the same side are divided too
+            # ("impAll" etc.; the side outlines above are the clip that keeps each colour on its side)
+            hidx = {}
+            for h, sd in zip(hs, sides):
+                if sd:
+                    hidx.setdefault(h, (len(hidx) + 1, sd))
+            hl = np.array([0] + [hidx[h][0] if h in hidx else 0 for h in hs], np.int32)[ids2]
+            parts = {"imp": [], "barb": [], "neu": []}
+            for h, (k, sd) in hidx.items():
+                cs, hier = cv2.findContours((hl == k).astype(np.uint8), cv2.RETR_CCOMP, cv2.CHAIN_APPROX_SIMPLE)
+                parts[sd].append(_path(cs, hier, origin, S))
+            for sd, ps in parts.items():
+                st[sd + "All"] = "".join(ps)
+            seen[key] = len(states)
             states.append(st)
-        season_state.append(seen[sides])
+        season_state.append(seen[key])
         # ---- nation labels: one per connected block of a holder's land
         key = tuple(hs)
         if key not in label_cache:

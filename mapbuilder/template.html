@@ -353,9 +353,11 @@ function init(D) {
     if (!st.front || !D.frontiers) return;
     const k = D.frontiers.season[st.s]; if (k === frShown) return; frShown = k;
     const f = D.frontiers.states[k];
-    for (const x of [clipImp, fr.ih, fr.il]) x.setAttribute("d", f.imp);
-    for (const x of [clipBarb, fr.bh, fr.bl]) x.setAttribute("d", f.barb);
-    for (const x of [clipNeu, fr.nh, fr.nl]) x.setAttribute("d", f.neu || "");
+    // lines follow every holder's own outline; the clips keep each colour on its own side of a border
+    clipImp.setAttribute("d", f.imp); clipBarb.setAttribute("d", f.barb); clipNeu.setAttribute("d", f.neu || "");
+    for (const x of [fr.ih, fr.il]) x.setAttribute("d", f.impAll || f.imp);
+    for (const x of [fr.bh, fr.bl]) x.setAttribute("d", f.barbAll || f.barb);
+    for (const x of [fr.nh, fr.nl]) x.setAttribute("d", f.neuAll || f.neu || "");
   }
 
   // ---- label helpers
