@@ -1,0 +1,72 @@
+# Applies each update the scheduled Claude task pushes (a claude/atlas-* branch) straight to main:
+# merges it, rebuilds the atlas, and stops if the build reports any problem. If it passes, the
+# result goes to main, the site is republished and the branch is deleted. Failed runs leave main
+# untouched and keep the branch, and GitHub emails the repository owner.
+name: Apply atlas update
+
+on:
+  push:
+    branches: ["claude/atlas-**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: wiki-update
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    outputs:
+      pushed: ${{ steps.push.outputs.pushed }}
+    env:
+      BRANCH: ${{ github.ref_name }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Merge the update into main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin "$BRANCH"
+          git merge --no-ff --no-edit "origin/$BRANCH" -m "Apply atlas update from $BRANCH"
+
+      - name: Rebuild the atlas and check it
+        run: |
+          python3 -m mapbuilder.run | tee build.log
+          if grep -q "^issues:" build.log; then
+            echo "::error::The atlas build reported problems with this update; main was not changed."
+            exit 1
+          fi
+
+      - name: Push to main
+        id: push
+        run: |
+          git add -A map
+          git diff --cached --quiet || git commit -m "Rebuild atlas after $BRANCH"
+          git push origin HEAD:main
+          git push origin --delete "$BRANCH"
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: apply
+    if: needs.apply.outputs.pushed == 'true'
+    uses: ./.github/workflows/pages.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

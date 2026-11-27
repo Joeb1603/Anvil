@@ -21,7 +21,7 @@ is made and how far to trust each layer.
 
 ## Automatic updates
 
-Nothing needs doing by hand except reviewing pull requests.
+Nothing needs doing by hand.
 
 - **Archive and atlas events:** `.github/workflows/update.yml` checks the wiki every morning
   (04:17 UTC). It runs on Mondays, and on any day while a summit is approaching, which it detects
@@ -38,9 +38,11 @@ Nothing needs doing by hand except reviewing pull requests.
 
   The task reads the reports, looks at the maps and images (with `python3 -m mapbuilder.imagetools`,
   which adds a reading grid), and updates the control history, region positions and
-  `map/extra_territories.json`. It then checks the atlas builds and pushes a `claude/atlas-*`
-  branch. `.github/workflows/open-pr.yml` opens the pull request if the task couldn't. Merging it
-  rebuilds and republishes the atlas. On days with nothing new, it stops straight away.
+  `map/extra_territories.json`. It pushes a `claude/atlas-*` branch, and
+  `.github/workflows/apply-update.yml` merges it into `main`, rebuilds the atlas, and only if the
+  build reports no problems pushes the result, republishes the site and deletes the branch. A
+  failed check leaves `main` untouched and GitHub emails the owner. On days with nothing new, the
+  task stops straight away.
 
 ## Usage
 
