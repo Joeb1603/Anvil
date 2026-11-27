@@ -2,17 +2,20 @@
 
 Written by every build (`python3 -m mapbuilder.run`). Failures mean the map probably shows something wrong; warnings mean something may be missing. Explained exceptions go in `checks_accepted.json`.
 
-**0 failures, 2 warnings, 12 accepted.**
+**0 failures, 8 warnings, 12 accepted.**
 
 ## Warnings
 
-### summary-missing (1)
+### summary-stale (8)
 
-- 1950 of 1969 events have no written summary yet (e.g. Construct shrine for Britta's body, Fortify Town defences, Raise Highguard army); run the 'Summarise events' workflow.
-
-### summary-stale (1)
-
-- Cost: summary covers Sarvos, which the atlas no longer attaches to it; it will be rewritten on the next run.
+- 381YE Spring Equinox winds of war: summary covers Bay of Catazar_placeholder, which the atlas no longer attaches to it; it will be rewritten on the next run.
+- 382YE Summer Solstice winds of war: summary covers Bay of Catazar , which the atlas no longer attaches to it; it will be rewritten on the next run.
+- Construct Ossuary Temple: summary covers Skarsind/Southpine, which the atlas no longer attaches to it; it will be rewritten on the next run.
+- Construct fortified manor in Liathaven: summary covers Liathaven/Beacon Point, which the atlas no longer attaches to it; it will be rewritten on the next run.
+- Into the woods: summary covers The League, which the atlas no longer attaches to it; it will be rewritten on the next run.
+- Pruning shears: summary covers Upwold/Tower March, which the atlas no longer attaches to it; it will be rewritten on the next run.
+- Tread of dust and darkness: summary covers Segura/Lucksprings, which the atlas no longer attaches to it; it will be rewritten on the next run.
+- Wayfaring strangers: summary covers Tassato/Tassato Mestra, which the atlas no longer attaches to it; it will be rewritten on the next run.
 
 ## Accepted
 

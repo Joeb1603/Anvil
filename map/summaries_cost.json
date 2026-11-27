@@ -1,10 +1,16 @@
 {
-"dollars": 1.9103,
+"dollars": 67.2457,
 "runs": [
 {
 "direct": true,
 "dollars": 1.9103,
 "events": 20
+},
+{
+"batch": "msgbatch_01QX1f8KXJreFRJ2N6u48VFn",
+"dollars": 65.3354,
+"events": 1951,
+"failed": 0
 }
 ]
 }
