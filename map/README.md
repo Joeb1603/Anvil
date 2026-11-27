@@ -25,8 +25,9 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
 - **Nation names** are on by default; untick the box to rely on the key alone.
 - **Labels (Auto by default):** Auto shows nation names for the first three wheel notches (every Imperial nation is
   always named), territory names in between
-  and region names from the seventh wheel notch. Nations, Territories, Regions or None fix it. None hides every boundary line except a barely
-  visible territory outline; clicks and hovers then follow the zoom, as in Auto. Labels never sit under an
+  and region names from the seventh wheel notch. Nations, Territories, Regions or None fix it. Nations shows only nation names at every zoom
+  (no sea names either, and a Nations-tab journey doesn't switch it to territories; that only happens on Auto). None hides every
+  boundary line; clicks and hovers then follow the zoom, as in Auto. Labels never sit under an
   event-count circle.
 - **Clicking and hovering:** follow the label mode in force. In Nations mode a hover describes the
   nation, a click opens it in the Info tab, and each nation shows one event count under its name; Territories and Regions modes count per
@@ -68,15 +69,18 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   names open a card on the map, beside the panel (across the top of the map on phones, with the info sheet folded down until you close it), with who holds
   it, any fighting and that season's events there; the map moves to it, outlines it with a dashed
   line and fades everything else. The panel is untouched. Close the card (×, Esc or empty map) and the view goes back to where
-  it was; "Open in Info" selects it instead.
+  it was; "Open in Info" selects it instead. The card always describes the season on the timeline:
+  step or play the timeline and it updates in place.
 - **Nations:** picking a nation in the Nations tab or the key moves the map to show all its land as
   large as fits.
-- **Search** for a territory, region or event title.
+- **Search** for a territory, region or event title. An event opens on its own in the Info tab (its season,
+  summary and full article), with every territory and region it touches listed with what happened there;
+  the map frames them all and fades the rest, and picking one opens its card.
 - **On phones** the map fills the screen. ⌕ opens search and ☰ the map options (with the credits);
   the Key button shows the keys. Tapping a place or nation slides its information up from the
   bottom (half height, so the map stays in view); drag or tap the handle for full height or to put
-  it away, and tap empty sea to clear. On a phone held sideways the panel opens down the right-hand
-  side instead. Double-tap zooms in one step; pinch and drag as usual. Tablets and computers keep
+  it away, and tap empty sea to clear. On a phone held sideways (any touch screen under 500 px tall, however wide)
+  the phone layout stays, with a one-row season bar, and the panel opens down the right-hand side instead. Double-tap zooms in one step; pinch and drag as usual. Tablets and computers keep
   the side-by-side layout.
 
 ## Where the data comes from

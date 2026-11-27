@@ -61,7 +61,7 @@ a { color: var(--accent); }
 #map[data-lines="nations"] .outline:not(.sel) { stroke-opacity: 0; }
 #map[data-lines="regions"] .cell { stroke-opacity: .85; stroke-width: 0.8; }
 #map[data-lines="none"] .cell { stroke-opacity: 0; }
-#map[data-lines="none"] .outline:not(.sel) { stroke-opacity: .14; }
+#map[data-lines="none"] .outline:not(.sel) { stroke-opacity: 0; }
 .cell.dim, .pat.dim, .fight.dim { opacity: .18; }
 .pat { pointer-events: none; }
 .sea { fill: var(--sea); stroke: none; }
@@ -130,6 +130,9 @@ a { color: var(--accent); }
 .peek .pev p { margin: 2px 0 0; }
 .peek .open { margin-top: 8px; border: 1px solid var(--accent); background: var(--accent); color: var(--accent-ink); border-radius: 6px; padding: 5px 10px; cursor: pointer; }
 .plink { border: 0; background: none; padding: 0; font: inherit; color: inherit; cursor: pointer; text-decoration: underline dotted; text-decoration-color: var(--accent); text-underline-offset: 2px; }
+.evplace { border-top: 1px solid var(--line); padding: 7px 0; }
+.evprow { display: flex; flex-wrap: wrap; gap: 4px; align-items: center; font-weight: 600; }
+.evplace p { margin: 4px 0 0; }
 .plink:hover { color: var(--accent); text-decoration-style: solid; }
 .peekline { fill: none; stroke: var(--hl); stroke-width: 3px; stroke-dasharray: 7 4; vector-effect: non-scaling-stroke; pointer-events: none; }
 .zoom button { width: 32px; height: 32px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); cursor: pointer; font-size: 1.1rem; line-height: 1; }
@@ -219,7 +222,7 @@ details.hist summary { cursor: pointer; font-weight: 700; }
 }
 .ph { display: none; }
 /* ---- phones: the map fills the screen; options, keys and the info panel slide over it ---- */
-@media (max-width: 760px) {
+@media (max-width: 760px), (max-height: 500px) and (pointer: coarse) {
   .ph { display: revert; }
   html, body { height: 100%; overflow: hidden; overscroll-behavior: none; margin: 0; }
   .app { height: 100dvh; height: 100svh; grid-template-rows: auto minmax(0, 1fr) auto; gap: 6px; padding-block: 6px max(6px, env(safe-area-inset-bottom, 0px)); }
@@ -279,8 +282,8 @@ details.hist summary { cursor: pointer; font-weight: 700; }
   .track { grid-column: 1 / -1; grid-row: 2; }
   #hist { height: 18px; }
 }
-/* phones on their side: a single-row season bar and a slimmer header, so the map keeps its height */
-@media (max-width: 760px) and (max-height: 480px) {
+/* phones on their side (also wide ones, e.g. 844×390, by the short touch screen): a single-row season bar and a slimmer header, so the map keeps its height */
+@media (max-width: 760px) and (max-height: 500px), (max-height: 500px) and (pointer: coarse) {
   .app { gap: 4px; padding-block: 4px max(4px, env(safe-area-inset-bottom, 0px)); }
   .brand { font-size: 1rem; }
   .phbtns button { height: 30px; width: 36px; font-size: 1rem; }
@@ -388,10 +391,10 @@ function init(D) {
   const types = [...new Set(D.events.map(e => e.ty))];
   const busy = S.map((_, i) => D.events.filter(e => e.s === i).length);
   let open = last; while (open > 0 && busy[open] < 10) open--;
-  const phoneMQ = matchMedia("(max-width: 760px)"), phone = () => phoneMQ.matches;
+  const phoneMQ = matchMedia("(max-width: 760px), (max-height: 500px) and (pointer: coarse)"), phone = () => phoneMQ.matches;
   let lastTip = null, overMap = false;  // where the mouse last hovered, so the tooltip can follow zooming
   const cellOf = new Map();        // map shape -> cell
-  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "auto", names: true, front: false, sheet: "closed", labOverride: null, fromList: false, isoFrom: "list", fight: true, back: [] };
+  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "auto", names: true, front: false, sheet: "closed", labOverride: null, ev: null, fromList: false, isoFrom: "list", fight: true, back: [] };
   $("snap").textContent = "wiki snapshot " + D.meta.snapshot.slice(0, 10);
 
   // ---- control state: holder of every place at every season, worked out by the build (one source of truth)
@@ -421,7 +424,7 @@ function init(D) {
   const autoLab = () => st.k < 2.2 ? "nations" : st.k < 4.5 ? "territories" : "regions";
   // what a click or hover picks: the label mode, or with Labels set to None, whatever the zoom suggests
   const act = () => lab() === "none" ? autoLab() : lab();
-  const lab = () => st.labOverride || (st.lab === "auto" ? autoLab() : st.lab);
+  const lab = () => st.lab === "auto" ? st.labOverride || autoLab() : st.lab;  // a Nations-tab journey only steers Auto
   // events this season in a nation's lands: places it holds (a whole-territory mention counts for the territory's main holder)
   const natCount = (id, s) => evBySeason[s].reduce((n, e) => n + (st.types.has(e.ty) && Object.entries(e.pl).some(([t, rs]) => byName[t] &&
     (rs.length ? rs.some(r => holderAt(t, r, s) === id) : majority(t, s) === id)) ? 1 : 0), 0);
@@ -482,7 +485,7 @@ function init(D) {
     const xs = f.polys.flat().map(p => p[0]), ys = f.polys.flat().map(p => p[1]);
     const x = { f, g, lb, cx: (Math.min(...xs) + Math.max(...xs)) / 2, cy: (Math.min(...ys) + Math.max(...ys)) / 2 };
     g.addEventListener("click", e => { e.stopPropagation(); if (moved) return; leaveList();
-      if (st.feat === f && !st.sel && !st.iso) { st.feat = null; if (phone()) st.sheet = "closed"; render(); } else selectFeature(f); });
+      if (st.feat === f && !st.sel && !st.iso) { st.feat = null; st.ev = null; if (phone()) st.sheet = "closed"; render(); } else selectFeature(f); });
     g.addEventListener("pointermove", ev => { if (ev.pointerType === "touch") return; const box = $("mapwrap").getBoundingClientRect(), tp = $("tip");
       tp.innerHTML = `<b>${esc(f.name)}</b><div>${esc(f.aka)}</div><div>Opened ${esc(S[f.s])}</div>`; tp.hidden = false;
       tp.style.left = Math.min(ev.clientX - box.left + 14, box.width - tp.offsetWidth - 6) + "px"; tp.style.top = Math.min(ev.clientY - box.top + 14, box.height - tp.offsetHeight - 6) + "px"; });
@@ -577,6 +580,7 @@ function init(D) {
       if (peekState) { const pt = peekState.target;
         out = pt.kind === "n" ? hid !== pt.name : c.t.name !== pt.t || (pt.kind === "r" && c.r !== pt.r); }
       else if (st.iso && st.isoFrom === "list") out = hid !== st.iso;
+      else if (st.ev && !st.sel && !st.iso && !st.feat) out = !st.ev.pl[c.t.name];
       else if (st.sel && st.fromList) out = c.t.name !== st.sel.t || (!!st.sel.r && c.r !== st.sel.r);
       c.base.classList.toggle("dim", out); c.pat.classList.toggle("dim", out); c.fight.classList.toggle("dim", out);
       if (st.mode === "holder") c.base.style.fillOpacity = 1;
@@ -663,13 +667,13 @@ function init(D) {
     }
     for (let i = n; i < pool.length; i++) pool[i].style.display = "none";
     for (let i = nm; i < natMarks.length; i++) natMarks[i].g.style.display = "none";
-    // territory labels (seas keep theirs in every mode except None)
+    // territory labels (seas keep theirs except when the reader picked Nations or None: then only nation names)
     const showRall = st.lab === "territories" && !st.labOverride && st.k >= 2.4;
     const order = [...T].sort((a, b) => (selT === b.name) - (selT === a.name) || b.bbox[2] * b.bbox[3] - a.bbox[2] * a.bbox[3]);
     for (const t of order) {
       t.label.style.fontSize = 12 * u + "px"; t.label.style.strokeWidth = 3 * u + "px";
       let show = false;
-      if (mode === "territories" || (t.sea && mode !== "none")) {
+      if (mode === "territories" || (t.sea && mode !== "none" && st.lab !== "nations")) {
         const mh = t.markN && mode === "territories" ? 2 * markR(t.markN, mu) + 2 : 0, hh = 16 + mh;
         const b = box(t.centre[0], t.centre[1], Math.max(t.name.length * 7, mh), hh), fits = t.bbox[2] * scale > t.name.length * 4.5;
         if ((mode === "territories" && selT === t.name) || (fits && free(b))) { show = !(showRall && t.regions.length); if (show) placed.push(b); }
@@ -816,7 +820,7 @@ function init(D) {
       if (!next) { st.back = []; leaveList(); } }
     if (st.back.length > 30) st.back.shift();
     endPeek(false);
-    st.sel = next; st.iso = null; st.feat = null; st.tab = "place";
+    st.sel = next; st.iso = null; st.feat = null; st.ev = null; st.tab = "place";
     if (phone()) st.sheet = next ? (st.sheet === "full" ? "full" : "half") : "closed";
     render(); }
   const goBack = () => { const prev = st.back.pop();
@@ -826,7 +830,7 @@ function init(D) {
   svg.addEventListener("click", e => { if (moved) return;
     if (peekState && !e.target.closest(".cell, .mark, .pit")) { closePeek(); return; }
     if (e.target.closest(".cell, .mark")) return;
-    if (st.sel || st.iso || st.feat) { leaveList(); st.back = []; st.sel = null; st.iso = null; st.feat = null; if (phone()) st.sheet = "closed"; render(); } });
+    if (st.sel || st.iso || st.feat || st.ev) { leaveList(); st.back = []; st.sel = null; st.iso = null; st.feat = null; st.ev = null; if (phone()) st.sheet = "closed"; render(); } });
   const swatch = id => { const x = H[id] || H.unknown; const s = h("span", { className: "sw" }); s.style.background = `var(--${x.slot})`;
     if (x.pattern === "hatch") s.style.backgroundImage = "repeating-linear-gradient(45deg, transparent 0 3px, var(--surface) 3px 5px)";
     if (x.pattern === "dots") s.style.backgroundImage = "radial-gradient(var(--surface) 1.5px, transparent 2px)", s.style.backgroundSize = "5px 5px"; return s; };
@@ -872,11 +876,13 @@ function init(D) {
   }
   const para = (cls, text, e) => { const x = document.createElement("p"); if (cls) x.className = cls; x.append(linkify(text, e)); return x; };
   let peekState = null;  // {target, cam: {k,x,y}, sheet}
-  function peek(target) {
+  // the card always describes the season on the timeline: render() calls peek(target, true) after a season
+  // change, which rebuilds it for that season and leaves the camera where it is
+  function peek(target, refresh) {
     const pk = $("peek");
     if (!peekState) peekState = { cam: { k: st.k, x: st.x, y: st.y }, sheet: st.sheet };
     peekState.target = target;
-    if (phone() && st.sheet !== "closed") { st.sheet = "closed"; $("panel").dataset.sheet = "closed"; }  // room for the map
+    if (!refresh && phone() && st.sheet !== "closed") { st.sheet = "closed"; $("panel").dataset.sheet = "closed"; }  // room for the map
     pk.innerHTML = ""; pk.hidden = false; $("mapwrap").classList.add("peeking");
     const head = h("div", { className: "ph" }, h("h3", { textContent: target.kind === "r" ? target.r : target.name }));
     const x = h("button", { className: "x", textContent: "×", title: "Close", onclick: closePeek }); x.setAttribute("aria-label", "Close"); head.append(x);
@@ -889,7 +895,7 @@ function init(D) {
       if (ch.length) { pk.append(h("div", { className: "sub", textContent: "Latest gains and losses" })); ch.forEach(c => pk.append(changeItem(c, true))); }
       const mine = evs.filter(e => SUM[e.ti] && (SUM[e.ti].n || {})[hname(id)] && !(SUM[e.ti].n[hname(id)].p)).slice(0, 3);
       mine.forEach(e => pk.append(h("div", { className: "pev" }, h("b", { textContent: e.ti }), para("", SUM[e.ti].n[hname(id)].t, e))));
-      frameNation(id); peekLine.setAttribute("d", cells.filter(c => !c.t.sea && c.hid === id).map(c => c.base.getAttribute("d")).join(""));
+      if (!refresh) frameNation(id); peekLine.setAttribute("d", cells.filter(c => !c.t.sea && c.hid === id).map(c => c.base.getAttribute("d")).join(""));
     } else {
       const t = byName[target.t], r = target.kind === "r" ? target.r : "";
       if (r) pk.append(h("div", { className: "sub", textContent: "Region of " + t.name }));
@@ -905,7 +911,7 @@ function init(D) {
       ranked.forEach(e => { const l = lineFor(e, ctx); pk.append(h("div", { className: "pev" }, h("b", { textContent: e.ti }), para(l && l.p ? "passing" : "", l ? l.t : (SUM[e.ti] ? SUM[e.ti].o : e.ex || ""), e))); });
       const rr = r && t.regions.find(x => x.name === r);
       const polys = rr ? (rr.curPolys || rr.polys) : (t.curPolys || t.polys);
-      peekLine.setAttribute("d", pathOf(polys)); frameBox(bboxOf(polys));
+      peekLine.setAttribute("d", pathOf(polys)); if (!refresh) frameBox(bboxOf(polys));
     }
     pk.append(h("button", { className: "open", textContent: "Open in Info", onclick: () => {
       const tg = peekState.target; endPeek(false);
@@ -947,7 +953,7 @@ function init(D) {
   function selectFeature(f) { st.feat = f; st.sel = null; st.iso = null; st.back = []; st.tab = "place";
     if (phone()) st.sheet = st.sheet === "full" ? "full" : "half"; render(); }
   function panelFeature(b, f) {
-    b.append(h("div", { className: "crumb" }, h("button", { textContent: "Season overview", onclick: () => { st.feat = null; render(); } })),
+    b.append(h("div", { className: "crumb" }, h("button", { textContent: "Season overview", onclick: () => { st.feat = null; st.ev = null; render(); } })),
       h("h2", { textContent: f.name }), h("div", { className: "crumb", textContent: `${f.aka} · in ${f.t} · opened ${S[f.s]}` }));
     if (st.s < f.s) b.append(h("div", { className: "callout" }, h("b", { textContent: "Not yet" }), `In ${S[st.s]} the ground here is still ordinary land; the pit opens in ${S[f.s]}.`));
     b.append(h("p", { textContent: f.note }));
@@ -957,8 +963,39 @@ function init(D) {
     if (f.tu) links.append(" · ", h("a", { href: f.tu, target: "_blank", rel: "noopener", textContent: f.title }));
     b.append(links);
   }
+  // one event, opened from search: its story, then every place it touches (each opens its card on the map)
+  function openEvent(e) {
+    endPeek(false); leaveList();
+    st.s = e.s; range.value = e.s; st.sel = null; st.iso = null; st.feat = null; st.back = []; st.ev = e; st.tab = "place";
+    if (phone()) st.sheet = st.sheet === "full" ? "full" : "half";
+    render();
+    const bs = Object.keys(e.pl).map(t => byName[t] && byName[t].bbox).filter(Boolean);
+    if (bs.length) { const x0 = Math.min(...bs.map(b => b[0])), y0 = Math.min(...bs.map(b => b[1]));
+      frameBox([x0, y0, Math.max(...bs.map(b => b[0] + b[2])) - x0, Math.max(...bs.map(b => b[1] + b[3])) - y0], 6, 0.8); }
+  }
+  function panelEvent(b, e) {
+    const x = SUM[e.ti];
+    b.append(h("div", { className: "crumb" }, h("button", { textContent: "Season overview", onclick: () => { st.ev = null; render(); } })),
+      h("h2", { textContent: e.ti }), h("div", { className: "crumb" }, h("span", { className: "tag", textContent: e.ty }), " " + S[e.s]));
+    if (st.s !== e.s) b.append(h("div", { className: "callout" }, h("b", { textContent: "Another season" }), `This event is from ${S[e.s]}; the map shows ${S[st.s]}. `,
+      h("button", { className: "linkish", textContent: "Go to " + S[e.s], onclick: () => setSeason(e.s) })));
+    b.append(para("", x ? x.o : e.ex || "", e));
+    if (x && x.d) { const more = h("details", { className: "more" }); more.append(h("summary", { textContent: "Read more" }), para("", x.d, e)); b.append(more); }
+    if (e.u) b.append(h("a", { className: "full", href: e.u, target: "_blank", rel: "noopener", textContent: "Read full article →" }));
+    const places = Object.keys(e.pl).filter(t => byName[t]).sort((a, c) => isPassing(e, { k: "t", id: a }) - isPassing(e, { k: "t", id: c }) || a.localeCompare(c));
+    b.append(h("h3", { textContent: places.length === 1 ? "Where" : `Where (${places.length} territories)` }));
+    b.append(h("div", { className: "crumb", textContent: "Pick a place to see it on the map." }));
+    for (const t of places) {
+      const d = h("div", { className: "evplace" }), l = lineFor(e, { k: "t", id: t });
+      const row = h("div", { className: "evprow" }, swatch(majority(t, e.s)),
+        h("button", { className: "plink", textContent: t, onclick: () => peek({ kind: "t", name: t, t }) }));
+      for (const r of e.pl[t] || []) row.append(" · ", h("button", { className: "plink", textContent: r, onclick: () => peek({ kind: "r", name: r, t, r }) }));
+      d.append(row); if (l) d.append(para(l.p ? "passing" : "", l.t, e)); b.append(d);
+    }
+  }
   function panelPlace(b) {
     if (st.feat && !st.sel && !st.iso) return panelFeature(b, st.feat);
+    if (st.ev && !st.sel && !st.iso) return panelEvent(b, st.ev);
     if (!st.sel && !st.iso) {
       const evs = evBySeason[st.s].filter(e => st.types.has(e.ty));
       b.append(h("h2", { textContent: S[st.s] }));
@@ -1128,7 +1165,7 @@ function init(D) {
   function pickNation(id, from = "list") {
     if (!id || id === "unknown") return;
     if (from === "list") { st.fromList = true; st.labOverride = "territories"; } else leaveList();
-    st.iso = st.iso === id && st.isoFrom === from ? null : id; st.isoFrom = from; st.sel = null; st.feat = null; st.back = [];
+    st.iso = st.iso === id && st.isoFrom === from ? null : id; st.isoFrom = from; st.sel = null; st.feat = null; st.ev = null; st.back = [];
     if (!st.iso) leaveList();
     if (from === "map" || from === "key") { st.tab = "place"; if (phone() && st.iso) st.sheet = st.sheet === "full" ? "full" : "half"; }  // the map opens things in the Info tab
     else { st.keep = st.keep || st.tab === "holders"; st.tab = "holders"; }  // the list never jumps: same order, same scroll
@@ -1145,7 +1182,7 @@ function init(D) {
   const q = $("q"), res = $("results");
   const index = []; for (const t of T) { if (t.sea) continue; index.push({ label: t.name, sub: "Territory", go: () => { select(t.name, ""); focusOn(t); } });
     for (const r of t.regions) index.push({ label: r.name, sub: "Region of " + t.name, go: () => { select(t.name, r.name); focusOn(t); } }); }
-  D.events.forEach(e => index.push({ label: e.ti, sub: `${e.ty}, ${S[e.s]}`, go: () => { st.s = e.s; range.value = e.s; const t = Object.keys(e.pl)[0]; select(t, ""); focusOn(byName[t]); } }));
+  D.events.forEach(e => index.push({ label: e.ti, sub: `${e.ty}, ${S[e.s]}`, go: () => openEvent(e) }));
   q.addEventListener("input", () => { const v = q.value.trim().toLowerCase(); res.innerHTML = ""; if (v.length < 2) { res.hidden = true; return; }
     const hits = index.filter(x => x.label.toLowerCase().includes(v)).sort((a, b) => a.label.toLowerCase().indexOf(v) - b.label.toLowerCase().indexOf(v)).slice(0, 14);
     if (!hits.length) res.append(h("div", { className: "empty", textContent: "No place or event matches.", style: "padding:6px 8px" }));
@@ -1191,15 +1228,16 @@ function init(D) {
   function render() {
     nationKey();
     panel.dataset.sheet = phone() ? st.sheet : "closed";
-    $("htitle").textContent = st.sel ? (st.sel.r || st.sel.t) : st.iso ? hname(st.iso) : (st.tab === "holders" ? "Nations in " : st.tab === "history" ? "Earlier history" : "") + (st.tab === "history" ? "" : S[st.s]);
+    $("htitle").textContent = st.sel ? (st.sel.r || st.sel.t) : st.iso ? hname(st.iso) : st.ev && st.tab === "place" ? st.ev.ti : (st.tab === "holders" ? "Nations in " : st.tab === "history" ? "Earlier history" : "") + (st.tab === "history" ? "" : S[st.s]);
     const re = (D.real || [])[st.s];
     $("now").innerHTML = `${esc(S[st.s])}<small>${re ? esc(re.n) + " · " : ""}${evBySeason[st.s].length} located events</small>`;
     bars.forEach((r, i) => r.classList.toggle("on", i === st.s));
-    $("tab-place").textContent = st.sel ? (st.sel.r || st.sel.t) : st.feat && !st.iso ? st.feat.name.replace(/^The /, "") : st.iso && st.isoFrom === "map" ? hname(st.iso).replace(/\s*\(.*\)$/, "") : "Info";
+    $("tab-place").textContent = st.sel ? (st.sel.r || st.sel.t) : st.feat && !st.iso ? st.feat.name.replace(/^The /, "") : st.ev && !st.iso ? "Event" : st.iso && st.isoFrom === "map" ? hname(st.iso).replace(/\s*\(.*\)$/, "") : "Info";
     for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).setAttribute("aria-selected", st.tab === tab);
     const b = $("pbody"), top = b.scrollTop; b.innerHTML = "";
     (st.tab === "holders" ? panelHolders : st.tab === "history" ? panelHistory : panelPlace)(b);
     b.scrollTop = st.keep ? top : 0; paint();
+    if (peekState) peek(peekState.target, true);
   }
   render();
   window.__atlas = { st, setSeason, select, holderAt, majority, pickNation, lab,
