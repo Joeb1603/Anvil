@@ -9,6 +9,11 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
 - **Labels:** Nations (one name per connected block of land a power holds that season),
   Territories, Regions, or None. Labels never sit under an event-count circle, so in busy
   seasons switch Event counts off to see every nation's name.
+- **Clicking:** in Nations mode a click highlights the nation holding that spot; in Territories
+  mode it opens the whole territory; in Regions mode, the region. Tick **Focus on click** to fade
+  everything else. A highlight clears when you select something else or change tab.
+- **Regions box:** hides or shows the borders between regions. Colours always show each region's
+  real holder, and a split territory reads "Mostly held by X (5 of 7 regions)".
 - **Frontiers:** gold outlines land held by Imperial nations, crimson outlines land held by
   barbarians (Jotun, Druj, Grendel, Thule and barbarian orc bands). The outlines move with the
   timeline. Other holders, such as the vallorn, show as gaps inside the outlines.
