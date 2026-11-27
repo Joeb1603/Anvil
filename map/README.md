@@ -64,6 +64,18 @@ events open with a Winter Solstice, which closes the previous Imperial year: the
 Winter Solstice 2014 as the fifth Empire event and Spring Equinox 2014 as the sixth. That pattern
 holds before and after the pandemic.
 
+### Checked against the wiki's own maps
+
+The wiki has two dated territory maps: "End of Winter 378YE" (Map-tactical2-y3e1) and
+"The Empire, Spring 381" (Map-tactical-MASTER-IC-01). The atlas agrees with both on which
+territories were Imperial and who held the rest. Ossium isn't drawn on either map, so it can't be
+compared. They also settled one conflict between sources: Nitrost in Karsk returned to Varushka in
+378YE Winter, recorded in `control_raw/corrections.json`.
+
+Ayereed's regions are read from "Ayereed regions.png", which appears on other pages rather than
+Ayereed's own. The Mountains of the Moon have no region map anywhere on the wiki, so they stay
+placed by the compass directions in their descriptions.
+
 ### Tsirku
 
 Wintermark began exploring Tsirku, the frozen wasteland north of Sermersuaq, in 388YE. The wiki's

@@ -63,13 +63,36 @@ def region_map_titles(api: Api, territories: list[str]) -> dict:
             s -= 3
         return s
 
-    out = {}
+    out, missing = {}, []
     for t in territories:
         cands = [f for f in imgs.get(t, []) if re.search(r"(?i)region|border|map|strategic|simple|basic", f)
                  or re.fullmatch(r"File:" + re.escape(t) + r"\.(png|jpg)", f)]
         if cands:
             out[t] = sorted(cands, key=lambda f: -score(f))[0]
+        else:
+            missing.append(t)
+    if missing:  # the territory page shows no map: look across the whole wiki (Ayereed's map lives on other pages)
+        names = all_image_names(api)
+        squash = lambda s: re.sub(r"[^a-z]", "", s.lower())
+        for t in missing:
+            key = squash(t.replace("The ", ""))
+            hits = [n for n in names if key in squash(n) and re.search(r"(?i)region|border|map", n)]
+            if hits:
+                out[t] = sorted(hits, key=lambda f: -score(f))[0]
     return out
+
+
+_ALL = None
+
+
+def all_image_names(api: Api) -> list[str]:
+    """Every file on the wiki, as File:Title (about 12 requests; cached for the run)."""
+    global _ALL
+    if _ALL is None:
+        _ALL = []
+        for data in api.query_all(list="allimages", ailimit="500", aiprop="name"):
+            _ALL += ["File:" + i["name"].replace("_", " ") for i in data["query"]["allimages"]]
+    return _ALL
 
 
 def download(api: Api, title: str) -> pathlib.Path:

@@ -1750,16 +1750,42 @@
  },
  "Ayereed": {
   "regions": {
-   "Cornaghan": null,
-   "Dorghcoul": null,
-   "Gainmeachdubh": null,
-   "Lainteen Strait": null,
-   "Montbeghal": null,
-   "Petrified Forest": null,
-   "Skillahg Hills": null
+   "Petrified Forest": [
+    63,
+    12
+   ],
+   "Cornaghan": [
+    59,
+    28
+   ],
+   "Montbeghal": [
+    80,
+    41
+   ],
+   "Lainteen Strait": [
+    24,
+    42
+   ],
+   "Gainmeachdubh": [
+    55,
+    49
+   ],
+   "Skillahg Hills": [
+    68,
+    70
+   ],
+   "Dorghcoul": [
+    40,
+    83
+   ]
   },
-  "extent": null,
+  "extent": [
+   10,
+   5,
+   97,
+   97
+  ],
   "cropped": false,
-  "notes": "No region map on the wiki for this territory, so regions are placed from compass words in their descriptions. The audit flags a map if one appears."
+  "notes": "Read from File:Ayereed regions.png (2025), which is used on other pages rather than Ayereed's own. All seven labels are boxed and clear."
  }
 }
