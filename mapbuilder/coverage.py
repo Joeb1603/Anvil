@@ -26,7 +26,7 @@ from shapely.ops import unary_union
 GAP = 4.0     # master-map pixels: slivers up to twice this wide between territories are closed
 GRID = 0.01   # coordinates are snapped to this grid so shared edges match exactly
 SPECK = 6.0   # pieces and holes smaller than this (square master pixels) are dropped
-SIMPLIFY = 0.35  # master pixels: how far a simplified edge may move
+SIMPLIFY = 1.2  # master pixels: how far a simplified edge may move (turns stepped gap splits into straight lines)
 
 
 def _poly(rings):
@@ -190,27 +190,25 @@ def _territories(terr: dict, seas: set, pit=None):
 
 def build(terr: dict, shapes: dict, seas: set, pit=None):
     """{"after": {(t, r): shape}, "before": {...}}, r == "" for territories without regions.
-    "after" has the pit as a hole; "before" shares its ground among the neighbouring territories."""
+    "after" has the pit as a hole. "before" fills the hole: whatever ground is missing around the pit is
+    cut into straight wedges from its centre, each joined to the region beside it, so region lines
+    elsewhere don't move."""
     after_t = _territories(terr, seas, pit)
-    before_t = dict(after_t)
+    after = {}
+    for t, g in after_t.items():
+        if shapes.get(t):
+            for r, cell in _regions(g, shapes[t]).items():
+                after[(t, r)] = cell
+        else:
+            after[(t, "")] = g
+    before = dict(after)
     if pit is not None and not pit.is_empty:
-        for t, pieces in _split_wedges(pit, after_t).items():
-            before_t[t] = _despeck(unary_union([after_t[t], *pieces]), 0)
-
-    def cut(tshapes, reuse=None):
-        out = {}
-        for t, g in tshapes.items():
-            if reuse is not None and reuse[0][t] is g:  # unchanged territory: same regions
-                out.update({k: v for k, v in reuse[1].items() if k[0] == t})
-            elif shapes.get(t):
-                for r, cell in _regions(g, shapes[t]).items():
-                    out[(t, r)] = cell
-            else:
-                out[(t, "")] = g
-        return out
-
-    after = cut(after_t)
-    before = cut(before_t, (after_t, after))
+        land = unary_union(list(after.values()))
+        hole = pit.buffer(1.0, join_style="mitre").difference(land)   # the pit and any slit along its rim
+        hole = unary_union([p for p in getattr(hole, "geoms", [hole]) if p.area > 0.01])
+        near = {k: g for k, g in after.items() if g.distance(pit) < 1.5}
+        for k, pieces in _split_wedges(hole, near).items():
+            before[k] = union([after[k], *pieces])
     return {"after": after, "before": before}
 
 
