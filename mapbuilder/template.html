@@ -148,6 +148,8 @@ td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
 .brk { position: absolute; top: -4px; bottom: 0; width: 0; border-left: 2px dashed var(--muted); pointer-events: auto; }
 .brk span { position: absolute; top: -2px; left: 4px; font-size: .68rem; line-height: 1.2; color: var(--muted); background: var(--surface);
   padding: 0 4px; border-radius: 3px; white-space: nowrap; }
+details.hist { margin-top: 14px; border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; background: var(--sunk); }
+details.hist summary { cursor: pointer; font-weight: 700; }
 .callout { border: 1px solid var(--line); border-left: 3px solid var(--muted); background: var(--sunk); border-radius: 4px; padding: 8px 10px; margin-top: 10px; font-size: .92rem; }
 .callout b { display: block; font-size: .78rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin-bottom: 2px; }
 @media (max-width: 520px) { .brk span { display: none; } }
@@ -346,11 +348,10 @@ function init(D) {
   const mkClip = id => el("path", { "clip-rule": "evenodd" }, el("clipPath", { id }, defs));
   const clipImp = mkClip("fc-imp"), clipBarb = mkClip("fc-barb"), clipNeu = mkClip("fc-neu");
   const fr = {
-    ih: el("path", { class: "fr halo", "clip-path": "url(#fc-imp)" }, gFront), il: el("path", { class: "fr imp", "clip-path": "url(#fc-imp)" }, gFront),
-    bh: el("path", { class: "fr halo", "clip-path": "url(#fc-barb)" }, gFront), bl: el("path", { class: "fr barb", "clip-path": "url(#fc-barb)" }, gFront),
-    nh: el("path", { class: "fr neuh", "clip-path": "url(#fc-neu)" }, gFront), nl: el("path", { class: "fr neu", "clip-path": "url(#fc-neu)" }, gFront),
-    ia: el("path", { class: "fr imp", "clip-path": "url(#fc-imp)" }, gFront), ba: el("path", { class: "fr barb", "clip-path": "url(#fc-barb)" }, gFront),
-    na: el("path", { class: "fr neu", "clip-path": "url(#fc-neu)" }, gFront),
+    ih: el("path", { class: "fr halo" }, gFront), il: el("path", { class: "fr imp", "clip-path": "url(#fc-imp)" }, gFront),
+    bh: el("path", { class: "fr halo" }, gFront), bl: el("path", { class: "fr barb", "clip-path": "url(#fc-barb)" }, gFront),
+    nh: el("path", { class: "fr halo" }, gFront), nl: el("path", { class: "fr neu", "clip-path": "url(#fc-neu)" }, gFront),
+    na: el("path", { class: "fr neu" }, gFront), ba: el("path", { class: "fr barb" }, gFront), ia: el("path", { class: "fr imp" }, gFront),
   };
   let frShown = -1;
   function frontiers() {
@@ -362,17 +363,17 @@ function init(D) {
     if (!st.front || !D.frontiers) return;
     // widths in screen pixels, slimmer when zoomed out; the side line is clipped to half its width,
     // the line between two nations on the same side is drawn whole, so both look the same weight
-    const z = Math.min(1.15, 0.5 + 0.12 * (st.k - 1));
-    for (const x of [fr.il, fr.bl, fr.nl]) x.style.strokeWidth = 4.4 * z + "px";
-    for (const x of [fr.ih, fr.bh, fr.nh]) x.style.strokeWidth = 7 * z + "px";
-    for (const x of [fr.ia, fr.ba, fr.na]) x.style.strokeWidth = 2.2 * z + "px";
+    const z = Math.min(1.4, 0.8 + 0.1 * (st.k - 1));
+    for (const x of [fr.ia, fr.ba, fr.na]) x.style.strokeWidth = 3.4 * z + "px";
+    for (const x of [fr.ih, fr.bh, fr.nh]) x.style.strokeWidth = 3.4 * z + 3 + "px";
     const k = D.frontiers.season[st.s]; if (k === frShown) return; frShown = k;
     const f = D.frontiers.states[k];
     // lines follow every holder's own outline; the clips keep each colour on its own side of a border
     clipImp.setAttribute("d", f.imp); clipBarb.setAttribute("d", f.barb); clipNeu.setAttribute("d", f.neu || "");
-    for (const x of [fr.ih, fr.il]) x.setAttribute("d", f.imp);
-    for (const x of [fr.bh, fr.bl]) x.setAttribute("d", f.barb);
-    for (const x of [fr.nh, fr.nl]) x.setAttribute("d", f.neu || "");
+    // one line along every border between two powers, centred on it: a halo under all of them, then
+    // neutral, barbarian and Imperial lines, so where two kinds meet the Imperial gold shows
+    fr.ih.setAttribute("d", f.impAll || ""); fr.bh.setAttribute("d", f.barbAll || ""); fr.nh.setAttribute("d", f.neuAll || "");
+    for (const x of [fr.il, fr.bl, fr.nl]) x.setAttribute("d", "");
     fr.ia.setAttribute("d", f.impAll || ""); fr.ba.setAttribute("d", f.barbAll || ""); fr.na.setAttribute("d", f.neuAll || "");
   }
 
@@ -631,9 +632,10 @@ function init(D) {
         h("h2", { textContent: hname(st.iso) }), h("div", { className: "holder" }, swatch(st.iso), h("span", { textContent: (H[st.iso] || {}).group || "" })));
       nationDetail(b);
       const ch = D.control.changes.filter(c => c.kind !== "status" && (c.h === st.iso || c.ph === st.iso)).sort((a, c) => c.s - a.s);
-      b.append(h("h3", { textContent: `Gains and losses (${ch.length})` }));
-      if (!ch.length) b.append(h("div", { className: "empty", textContent: "No change of control recorded." }));
-      ch.slice(0, 80).forEach(c => b.append(changeItem(c, true)));
+      const id = st.iso, mine = e => Object.entries(e.pl).some(([t, rs]) => byName[t] && (rs.length ? rs.some(r => holderAt(t, r, e.s) === id) : majority(t, e.s) === id));
+      const evs = D.events.filter(e => e.s <= st.s && st.types.has(e.ty) && mine(e));
+      seasonAndHistory(b, ch.filter(c => c.s === st.s), evs.filter(e => e.s === st.s), ch.filter(c => c.s < st.s),
+        evs.filter(e => e.s < st.s).sort((a, c) => c.s - a.s), ch.filter(c => c.s > st.s).length, true);
       return;
     }
     const t = byName[st.sel.t], r = st.sel.r;
@@ -667,19 +669,27 @@ function init(D) {
       if (later) b.append(h("div", { className: "empty", textContent: `${later} later entr${later === 1 ? "y" : "ies"}; move the timeline forward to see ${later === 1 ? "it" : "them"}.` }));
     }
     const ch = D.control.changes.filter(c => c.t === t.name && (!r || !c.r || c.r === r) && c.kind !== "status");
-    b.append(h("h3", { textContent: "Control history" }));
-    if (!ch.length) b.append(h("div", { className: "empty", textContent: "No change of control recorded between " + S[0] + " and " + S[last] + "." }));
-    for (const c of ch) b.append(changeItem(c, false));
     const all = (evByTerr[t.name] || []).filter(e => st.types.has(e.ty) && (!r || e.pl[t.name].includes(r)));
-    const now = all.filter(e => e.s === st.s), before = all.filter(e => e.s < st.s).sort((a, c) => c.s - a.s), after = all.filter(e => e.s > st.s).length;
+    seasonAndHistory(b, ch.filter(c => c.s === st.s), all.filter(e => e.s === st.s),
+      ch.filter(c => c.s < st.s).sort((a, c) => c.s - a.s), all.filter(e => e.s < st.s).sort((a, c) => c.s - a.s),
+      ch.filter(c => c.s > st.s).length + all.filter(e => e.s > st.s).length, false);
+  }
+  // what happened in the chosen season, then everything before it in a fold-out box
+  function seasonAndHistory(b, chNow, evNow, chBefore, evBefore, later, withPlace) {
+    b.append(h("h3", { textContent: `In ${S[st.s]}` }));
+    if (!chNow.length && !evNow.length) b.append(h("div", { className: "empty", textContent: "Nothing recorded this season." }));
+    chNow.forEach(c => b.append(changeItem(c, withPlace)));
+    evNow.forEach(e => b.append(evItem(e, false)));
     b.append(h("h3", { textContent: "Event types" }), typeChips());
-    b.append(h("h3", { textContent: `${S[st.s]} (${now.length})` }));
-    if (!now.length) b.append(h("div", { className: "empty", textContent: "Nothing recorded here this season." }));
-    now.forEach(e => b.append(evItem(e, false)));
-    b.append(h("h3", { textContent: `Earlier (${before.length})` }));
-    before.slice(0, 60).forEach(e => b.append(evItem(e, true)));
-    if (before.length > 60) b.append(h("div", { className: "empty", textContent: `${before.length - 60} older events not shown; move the timeline back to see them.` }));
-    if (after) b.append(h("div", { className: "empty", style: "margin-top:10px", textContent: `${after} later event${after === 1 ? "" : "s"}; move the timeline forward to see them.` }));
+    const d = h("details", { className: "hist" }); d.open = !!st.histOpen;
+    d.addEventListener("toggle", () => { st.histOpen = d.open; });
+    d.append(h("summary", { textContent: `Earlier history (${chBefore.length} change${chBefore.length === 1 ? "" : "s"} of control, ${evBefore.length} event${evBefore.length === 1 ? "" : "s"})` }));
+    if (chBefore.length) { d.append(h("h3", { textContent: "Changes of control" })); chBefore.forEach(c => d.append(changeItem(c, withPlace))); }
+    if (evBefore.length) { d.append(h("h3", { textContent: "Events" })); evBefore.slice(0, 80).forEach(e => d.append(evItem(e, true)));
+      if (evBefore.length > 80) d.append(h("div", { className: "empty", textContent: `${evBefore.length - 80} older events not shown; move the timeline back to see them.` })); }
+    if (!chBefore.length && !evBefore.length) d.append(h("div", { className: "empty", textContent: "Nothing recorded before " + S[st.s] + "." }));
+    b.append(d);
+    if (later) b.append(h("div", { className: "empty", style: "margin-top:10px", textContent: `${later} later entr${later === 1 ? "y" : "ies"}; move the timeline forward to see ${later === 1 ? "it" : "them"}.` }));
   }
   function changeItem(c, withPlace) {
     const d = h("div", { className: "chg" });

@@ -24,12 +24,12 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   real holder, and a split territory reads "Mostly held by X (5 of 7 regions)".
 - **Borders:** gold edges land held by Imperial nations, crimson land held by barbarians (Jotun,
   Druj, Grendel, Thule and barbarian orc bands), and a dark line neutral land (the vallorn,
-  uncontrolled regions, other powers). Every nation and power is outlined: a thin line where two nations on the same side meet, a heavier one where sides differ, with each colour on its own side. Lines get slimmer as you zoom out.
+  uncontrolled regions, other powers). Every border between two powers is one line, centred on it; where Imperial land meets anything else the gold line shows. Lines get a little slimmer as you zoom out.
 - **Fighting:** crosshatched regions are ones a Wind of War names that season, where the region
   changes hands that season or the next, or its territory is split between the Empire and its
   enemies. It's an approximation of "actively contested"; the panel names the reports.
-- **Panel:** the Info tab shows the season, or the selected place: who holds it, its control
-  history and its events, each linked to its wiki page. Places opened from the Nations tab get a
+- **Panel:** the Info tab shows the season, or the selected place or nation: who holds it and what
+  happened there in the chosen season, with everything earlier in a fold-out Earlier history box, each linked to its wiki page. Places opened from the Nations tab get a
   Back button that retraces the way (region, territory, nation). The Nations tab lists every
   power; picking one outlines its lands and opens its holdings in place, without moving the
   list. A third tab lists earlier history.
