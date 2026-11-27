@@ -8,3 +8,5 @@ PyYAML
 numpy
 opencv-python-headless
 shapely>=2.1
+# Event summaries
+anthropic>=2.0

@@ -1,0 +1,88 @@
+# Writes the event summaries shown in the atlas's Info panel (mapbuilder/summarise.py), with Claude via
+# the ANTHROPIC_API_KEY repository secret. Run it by hand from the Actions tab:
+#   limit 20, mode direct  -> a pilot of 20 events, a few minutes
+#   limit 0,  mode batch   -> everything outstanding, as one batch at half price (up to a few hours)
+# Spending is recorded in map/summaries_cost.json and capped by mapbuilder/summarise.py (BUDGET).
+# New events after that are summarised by the daily "Update from the wiki" run.
+name: Summarise events
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Most events to summarise (0 = all outstanding)"
+        default: "20"
+      mode:
+        description: "direct (one request at a time) or batch (half price, slower)"
+        default: "direct"
+      effort:
+        description: "Effort: low, medium or high"
+        default: "high"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: wiki-update
+  cancel-in-progress: false
+
+jobs:
+  summarise:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    outputs:
+      pushed: ${{ steps.commit.outputs.pushed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Summarise
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SUMMARY_EFFORT: ${{ inputs.effort }}
+          LIMIT: ${{ inputs.limit }}
+          MODE: ${{ inputs.mode }}
+        run: |
+          if [ "$MODE" = "batch" ]; then
+            python3 -m mapbuilder.summarise --limit "$LIMIT" --batch --wait
+          else
+            python3 -m mapbuilder.summarise --limit "$LIMIT"
+          fi
+      - name: Rebuild the atlas
+        run: python3 -m mapbuilder.build
+      - name: Commit and push
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A map
+          if git diff --cached --quiet; then
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          msg=$(python3 -c "import json; s=json.load(open('map/summaries.json')); c=json.load(open('map/summaries_cost.json')); print(f'Event summaries: {len(s)} written, {c[\"dollars\"]:.2f} USD spent in total')")
+          git commit -q -m "$msg"
+          for i in 1 2 3; do
+            if git push origin HEAD:main; then
+              echo "pushed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git pull --rebase origin main
+          done
+          exit 1
+
+  deploy:
+    needs: summarise
+    if: needs.summarise.outputs.pushed == 'true'
+    uses: ./.github/workflows/pages.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

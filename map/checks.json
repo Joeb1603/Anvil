@@ -1,6 +1,12 @@
 {
  "failures": [],
- "warnings": [],
+ "warnings": [
+  {
+   "check": "summary-missing",
+   "key": "count",
+   "msg": "1970 of 1970 events have no written summary yet (e.g. Archive:376YE Winter Solstice Imperial titles, Construct Madruga shipyard, Construct shrine for Britta's body); run the 'Summarise events' workflow."
+  }
+ ],
  "accepted": [
   {
    "check": "previous-holder",

@@ -199,6 +199,22 @@ def run(data, ctl, pages=None):
             if e["from"] not in idx:
                 fail("nation-history", f"{t}@{e['from']}", f"nation_history.json: {t} uses unknown season {e['from']}.")
 
+    # 8b. Written summaries: every event should have one, naming only the places the atlas gives it.
+    sp = MAP_DIR / "summaries.json"
+    summ = json.loads(sp.read_text()) if sp.exists() else {}
+    missing = [e["ti"] for e in data["events"] if e["ti"] not in summ]
+    if missing:
+        warn("summary-missing", "count", f"{len(missing)} of {len(data['events'])} events have no written summary yet "
+             f"(e.g. {', '.join(missing[:3])}); run the 'Summarise events' workflow.")
+    for e in data["events"]:
+        x = summ.get(e["ti"])
+        if not x:
+            continue
+        extra = set(x.get("t", {})) - set(e["pl"])
+        if extra:
+            warn("summary-stale", e["ti"], f"{e['ti']}: summary covers {', '.join(sorted(extra))}, which the atlas no "
+                 "longer attaches to it; it will be rewritten on the next run.")
+
     # 9. Archive pages with no classification.
     for title, p in pages.items():
         if p["ns"] != 14 and not p.get("class"):

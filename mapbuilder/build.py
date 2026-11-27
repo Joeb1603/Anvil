@@ -509,7 +509,7 @@ def build(archive_links=True):
         })
     sidx = {s: i for i, s in enumerate(seasons)}
     events = [{"ti": e["title"], "s": sidx[e["event"]], "ty": e["type"], "pl": e["places"], "ex": e["excerpt"],
-               "u": e["source"], "p": archive_url(e["path"]) if archive_links else None} for e in ev["events"]]
+               "u": e["source"]} for e in ev["events"]]
     history = [{"y": h["year"], "t": h["territory"], "tx": h["text"], "u": h["source"]} for h in ev["history"]] + ctl["history"]
     history.sort(key=lambda h: (h["y"], h["t"]))
     xs = [p[0] for t in terr.values() for poly in t["polys"] for p in poly]
@@ -584,7 +584,7 @@ def build(archive_links=True):
                          "title": meta["title"], "tu": pages.get(meta["title"], {}).get("source")})
     data = {
         "contested": data_contested, "features": features, "eras": eras,
-        "meta": {"snapshot": manifest["snapshot"], "archiveLinks": archive_links},
+        "meta": {"snapshot": manifest["snapshot"]},
         "view": view, "frontiers": front,
         "nlabels": [[[fix(r[0])] + r[1:4] for r in season] for season in nlabels],
         "seasons": seasons, "territories": territories, "holders": holders,
@@ -688,6 +688,8 @@ if __name__ == "__main__":
         pathlib.Path(out).mkdir(parents=True, exist_ok=True)
         d2, _ = build()
         (pathlib.Path(out) / "data.json").write_text(json.dumps(d2, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        if (MAP_DIR / "summaries.json").exists():  # the written summaries travel with the page
+            (pathlib.Path(out) / "summaries.json").write_text((MAP_DIR / "summaries.json").read_text(encoding="utf-8"), encoding="utf-8")
         (pathlib.Path(out) / "empire-atlas.html").write_text(
             (ROOT / "mapbuilder" / "template.html").read_text(encoding="utf-8").replace("<!--DATA-->", ""), encoding="utf-8")
         print("artifact copy written to", out)

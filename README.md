@@ -46,6 +46,14 @@ Nothing needs doing by hand.
   failed check leaves `main` untouched and GitHub emails the owner. On days with nothing new, the
   task stops straight away.
 
+## Event summaries
+
+Written by Claude via the `ANTHROPIC_API_KEY` repository secret (Settings → Secrets and variables →
+Actions). Run the "Summarise events" workflow from the Actions tab: `limit 20, mode direct` for a
+pilot, then `limit 0, mode batch` for everything (half price). After that the daily update summarises
+new and edited events. `python3 -m mapbuilder.summarise --dry-run` shows what would be sent and the
+estimated cost; the script refuses to go past $90 of recorded spending in total.
+
 ## Usage
 
 ```

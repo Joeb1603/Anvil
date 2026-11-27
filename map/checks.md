@@ -2,7 +2,13 @@
 
 Written by every build (`python3 -m mapbuilder.run`). Failures mean the map probably shows something wrong; warnings mean something may be missing. Explained exceptions go in `checks_accepted.json`.
 
-**0 failures, 0 warnings, 12 accepted.**
+**0 failures, 1 warnings, 12 accepted.**
+
+## Warnings
+
+### summary-missing (1)
+
+- 1970 of 1970 events have no written summary yet (e.g. Archive:376YE Winter Solstice Imperial titles, Construct Madruga shipyard, Construct shrine for Britta's body); run the 'Summarise events' workflow.
 
 ## Accepted
 

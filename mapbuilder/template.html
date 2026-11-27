@@ -142,9 +142,13 @@ a { color: var(--accent); }
 .ev { border-top: 1px solid var(--line); padding: 8px 0; }
 .ev:first-child { border-top: 0; }
 .ev .meta { font-size: .8rem; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; }
-.ev a { font-weight: 700; text-decoration: none; }
-.ev a:hover { text-decoration: underline; }
-.ev p { margin: 2px 0 0; color: var(--muted); font-size: .92rem; }
+.ev .evt { font-weight: 700; }
+.ev p.passing { color: var(--muted); font-style: italic; }
+.ev details.more summary { cursor: pointer; color: var(--accent); font-size: .85rem; margin-top: 3px; }
+.ev details.more p { color: var(--ink); }
+.ev a.full { display: inline-block; margin-top: 3px; font-size: .85rem; color: var(--accent); }
+.alsom { margin: 12px 0 2px; font-size: .78rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 700; }
+.ev p { margin: 2px 0 0; color: var(--ink); font-size: .92rem; }
 .tag { border: 1px solid var(--line); border-radius: 999px; padding: 0 7px; font-size: .76rem; color: var(--ink); white-space: nowrap; }
 .chips { display: flex; flex-wrap: wrap; gap: 5px; }
 .chips button { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 2px 9px; cursor: pointer; font-size: .82rem; }
@@ -759,15 +763,32 @@ function init(D) {
     if (x.pattern === "dots") s.style.backgroundImage = "radial-gradient(var(--surface) 1.5px, transparent 2px)", s.style.backgroundSize = "5px 5px"; return s; };
   const hname = id => (H[id] || H.unknown).name;
   const heldBy = id => id === "Uncontrolled" ? "Uncontrolled: no nation or army holds it" : id === "unknown" ? "Holder not recorded" : "Held by " + hname(id);
-  function evItem(e, showSeason) {
-    const d = h("div", { className: "ev" });
+  // ---- written summaries (summaries.json beside the page): overview, detail, and a line per nation,
+  // territory and region. ctx picks the line: {k: "n"|"t"|"r", id}; none gives the overview.
+  let SUM = {};
+  fetch("summaries.json").then(r => r.ok ? r.json() : {}).then(x => { SUM = x || {}; render(); }).catch(() => {});
+  const lineFor = (e, ctx) => { const x = SUM[e.ti]; if (!x) return null; if (!ctx) return { t: x.o, p: false };
+    const l = (x[ctx.k] || {})[ctx.id]; return l ? { t: l.t, p: !!l.p } : null; };
+  const isPassing = (e, ctx) => { const l = ctx && lineFor(e, ctx); return !!(l && l.p); };
+  function evItem(e, showSeason, ctx) {
+    const d = h("div", { className: "ev" }), x = SUM[e.ti], line = lineFor(e, ctx);
     const meta = h("div", { className: "meta" }, h("span", { className: "tag", textContent: e.ty }));
     if (showSeason) meta.append(h("button", { className: "linkish", textContent: S[e.s], onclick: () => setSeason(e.s) }));
-    const places = Object.keys(e.pl); if (!st.sel || places.length > 1) meta.append(h("span", { textContent: places.length > 4 ? places.length + " territories" : places.join(", ") }));
-    d.append(meta, h("a", { href: e.u, target: "_blank", rel: "noopener", textContent: e.ti }));
-    if (e.ex) d.append(h("p", { textContent: e.ex }));
-    if (D.meta.archiveLinks && e.p) d.append(h("a", { href: e.p, textContent: "archive copy", style: "font-weight:400;font-size:.82rem" }));
+    const places = Object.keys(e.pl); if (!ctx || places.length > 1) meta.append(h("span", { textContent: places.length > 4 ? places.length + " territories" : places.join(", ") }));
+    d.append(meta, h("div", { className: "evt", textContent: e.ti }));
+    d.append(h("p", { className: line && line.p ? "passing" : "", textContent: line ? line.t : (x ? x.o : e.ex || "") }));
+    if (x) { const more = h("details", { className: "more" }); more.append(h("summary", { textContent: "Read more" }));
+      if (ctx) more.append(h("p", { textContent: x.o }));
+      more.append(h("p", { textContent: x.d })); d.append(more); }
+    if (e.u) d.append(h("a", { className: "full", href: e.u, target: "_blank", rel: "noopener", textContent: "Read full article →" }));
     return d;
+  }
+  // events for a place or nation: the ones that really concern it first, passing mentions after
+  function evList(box, evs, showSeason, ctxOf) {
+    const main = evs.filter(e => !isPassing(e, ctxOf(e))), minor = evs.filter(e => isPassing(e, ctxOf(e)));
+    main.forEach(e => box.append(evItem(e, showSeason, ctxOf(e))));
+    if (minor.length) { box.append(h("div", { className: "alsom", textContent: `Also mentioned (${minor.length})` }));
+      minor.forEach(e => box.append(evItem(e, showSeason, ctxOf(e)))); }
   }
   function typeChips() { const c = h("div", { className: "chips" });
     for (const ty of types) { const b = h("button", { textContent: ty }); b.setAttribute("aria-pressed", st.types.has(ty));
@@ -801,7 +822,7 @@ function init(D) {
       fold("ovCh", "Changes of control", ch.length, d => { if (!ch.length) d.append(h("div", { className: "empty", textContent: "None recorded for this season." }));
         for (const c of ch) d.append(changeItem(c, true)); });
       fold("ovEv", "Events", evs.length, d => { if (!evs.length) d.append(h("div", { className: "empty", textContent: "No events recorded this season." }));
-        evs.forEach(e => d.append(evItem(e, false))); });
+        evs.forEach(e => d.append(evItem(e, false, null))); });
       b.append(h("h3", { textContent: "Event types" }), typeChips());
       b.append(h("h3", { textContent: "Territories" }));
       const tb = h("table"); tb.innerHTML = '<thead><tr><th>Territory</th><th>Held by</th><th class="n">Events</th></tr></thead>';
@@ -819,9 +840,10 @@ function init(D) {
       nationDetail(b);
       const ch = D.control.changes.filter(c => c.kind !== "status" && (c.h === st.iso || c.ph === st.iso)).sort((a, c) => c.s - a.s);
       const id = st.iso, mine = e => Object.entries(e.pl).some(([t, rs]) => byName[t] && (rs.length ? rs.some(r => holderAt(t, r, e.s) === id) : majority(t, e.s) === id));
-      const evs = D.events.filter(e => e.s <= st.s && st.types.has(e.ty) && mine(e));
+      const named = e => !!(SUM[e.ti] && (SUM[e.ti].n || {})[hname(id)]);
+      const evs = D.events.filter(e => e.s <= st.s && st.types.has(e.ty) && (mine(e) || named(e)));
       seasonAndHistory(b, ch.filter(c => c.s === st.s), evs.filter(e => e.s === st.s), ch.filter(c => c.s < st.s),
-        evs.filter(e => e.s < st.s).sort((a, c) => c.s - a.s), ch.filter(c => c.s > st.s).length, true);
+        evs.filter(e => e.s < st.s).sort((a, c) => c.s - a.s), ch.filter(c => c.s > st.s).length, true, () => ({ k: "n", id: hname(id) }));
       return;
     }
     const t = byName[st.sel.t], r = st.sel.r;
@@ -858,20 +880,21 @@ function init(D) {
     const all = (evByTerr[t.name] || []).filter(e => st.types.has(e.ty) && (!r || e.pl[t.name].includes(r)));
     seasonAndHistory(b, ch.filter(c => c.s === st.s), all.filter(e => e.s === st.s),
       ch.filter(c => c.s < st.s).sort((a, c) => c.s - a.s), all.filter(e => e.s < st.s).sort((a, c) => c.s - a.s),
-      ch.filter(c => c.s > st.s).length + all.filter(e => e.s > st.s).length, false);
+      ch.filter(c => c.s > st.s).length + all.filter(e => e.s > st.s).length, false,
+      () => r ? { k: "r", id: t.name + "/" + r } : { k: "t", id: t.name });
   }
   // what happened in the chosen season, then everything before it in a fold-out box
-  function seasonAndHistory(b, chNow, evNow, chBefore, evBefore, later, withPlace) {
+  function seasonAndHistory(b, chNow, evNow, chBefore, evBefore, later, withPlace, ctxOf = () => null) {
     b.append(h("h3", { textContent: `In ${S[st.s]}` }));
     if (!chNow.length && !evNow.length) b.append(h("div", { className: "empty", textContent: "Nothing recorded this season." }));
     chNow.forEach(c => b.append(changeItem(c, withPlace)));
-    evNow.forEach(e => b.append(evItem(e, false)));
+    evList(b, evNow, false, ctxOf);
     b.append(h("h3", { textContent: "Event types" }), typeChips());
     const d = h("details", { className: "hist" }); d.open = !!st.histOpen;
     d.addEventListener("toggle", () => { st.histOpen = d.open; });
     d.append(h("summary", { textContent: `Earlier history (${chBefore.length} change${chBefore.length === 1 ? "" : "s"} of control, ${evBefore.length} event${evBefore.length === 1 ? "" : "s"})` }));
     if (chBefore.length) { d.append(h("h3", { textContent: "Changes of control" })); chBefore.forEach(c => d.append(changeItem(c, withPlace))); }
-    if (evBefore.length) { d.append(h("h3", { textContent: "Events" })); evBefore.slice(0, 80).forEach(e => d.append(evItem(e, true)));
+    if (evBefore.length) { d.append(h("h3", { textContent: "Events" })); evList(d, evBefore.slice(0, 80), true, ctxOf);
       if (evBefore.length > 80) d.append(h("div", { className: "empty", textContent: `${evBefore.length - 80} older events not shown; move the timeline back to see them.` })); }
     if (!chBefore.length && !evBefore.length) d.append(h("div", { className: "empty", textContent: "Nothing recorded before " + S[st.s] + "." }));
     b.append(d);

@@ -54,6 +54,14 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   black pit from 381YE Summer, when it opened (Wind of Fortune "Rocks and gravel"); before that the
   spot is ordinary land shared between Wood Heath, Vardstein Vale and Goldglades, whose borders meet in
   the middle. Hover or click it for what it is.
+- **Event summaries:** every event box shows a one-or-two sentence overview, a "Read more" with a
+  short fuller description, and "Read full article" linking to the wiki page. With a nation,
+  territory or region selected, the box says what the event means for that nation, territory or
+  region; events that only mention it in passing are listed after the rest, under "Also mentioned".
+  The summaries are written by Claude from each page (`mapbuilder/summarise.py`, run by the
+  "Summarise events" workflow and the daily update using the `ANTHROPIC_API_KEY` repository secret),
+  stored in `summaries.json` beside the page, and only rewritten when a page or its places change.
+  Spending is recorded in `summaries_cost.json` and capped at $90 in total.
 - **Search** for a territory, region or event title.
 - **On phones** the map fills the screen. ⌕ opens search and ☰ the map options (with the credits);
   the Key button shows the keys. Tapping a place or nation slides its information up from the
