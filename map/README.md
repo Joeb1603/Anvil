@@ -10,19 +10,21 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   barbarian nations have their own colours, as do the vallorn (plum), uncontrolled land
   (parchment) and Imperial land not yet given to a nation (dotted gold). Only minor foreign
   powers are grey.
-- **Labels:** Nations (one name per connected block of land a power holds that season),
-  Territories, Regions, or None. Labels never sit under an event-count circle, so in busy
-  seasons switch Event counts off to see every nation's name.
-- **Clicking:** follows the label mode. Nations selects the nation holding that spot; Territories
-  the whole territory; Regions the region. Whatever is selected gets a bold outline, and the event
-  counts narrow to it (the nation's territories, the one territory, or the region's own count).
-  Map clicks always open in the Info tab, including a nation (what it holds and its gains and
-  losses). Picking a nation from the Nations tab also fades everything else.
+- **Labels (Auto by default):** Auto shows nation names zoomed out, territory names in between
+  and region names close up. Nations, Territories, Regions or None fix it. Labels never sit under an
+  event-count circle.
+- **Clicking and hovering:** follow the label mode in force. In Nations mode a hover describes the
+  nation, a click opens it in the Info tab, and each nation shows one event count under its name;
+  in Territories mode the territory; in Regions mode the region. Click empty map to clear.
+- **Nations tab:** picking a nation outlines its lands, fades everything else and switches the map
+  to territories; opening one of its territories switches to regions; the fading follows down to
+  the region you open. Clicking the map, empty space or another tab ends that and returns to the
+  chosen label mode.
 - **Regions box:** hides or shows the borders between regions. Colours always show each region's
   real holder, and a split territory reads "Mostly held by X (5 of 7 regions)".
 - **Borders:** gold edges land held by Imperial nations, crimson land held by barbarians (Jotun,
   Druj, Grendel, Thule and barbarian orc bands), and a dark line neutral land (the vallorn,
-  uncontrolled regions, other powers). Every nation and power is outlined, including where two Imperial nations meet; where sides differ, each colour sits on its own side of the border.
+  uncontrolled regions, other powers). Every nation and power is outlined: a thin line where two nations on the same side meet, a heavier one where sides differ, with each colour on its own side. Lines get slimmer as you zoom out.
 - **Fighting:** crosshatched regions are ones a Wind of War names that season, where the region
   changes hands that season or the next, or its territory is split between the Empire and its
   enemies. It's an approximation of "actively contested"; the panel names the reports.
