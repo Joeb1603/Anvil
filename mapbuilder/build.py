@@ -450,14 +450,14 @@ def build(archive_links=True):
     # colours of their own for the holders that matter on the map, so only minor foreign powers are grey
     # Imperial nations are solid colours; everyone else (barbarians, foreign powers) is hatched. Imperial
     # Orcs and Urizen get colours of their own (s9, s10) rather than sharing one with a dot pattern.
-    special = {"Vallorn": ["vallorn", None], "Uncontrolled": ["free", None], "The Empire": ["emp", None],
+    special = {"Vallorn": ["vallorn", "hatch"], "Druj": ["s11", "hatch"], "Uncontrolled": ["free", None], "The Empire": ["emp", None],
                "Imperial Orcs": ["s9", None], "Urizen": ["s10", None]}
     for hd in holders:
         if hd["id"] in special:
             lock[hd["id"]] = special[hd["id"]]
         if hd["id"] in lock:
             hd["slot"], hd["pattern"] = lock[hd["id"]]
-        if hd["group"] != "Imperial nations" and hd["id"] not in special and hd["id"] != "unknown":
+        if hd["group"] != "Imperial nations" and hd["id"] not in ("Uncontrolled", "unknown"):
             hd["pattern"] = "hatch"
             lock[hd["id"]] = [hd["slot"], "hatch"]
         else:

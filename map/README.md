@@ -9,8 +9,8 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
 - **Timeline:** 49 seasons. Step through them or press Play to watch control change.
 - **Colours:** each region shows who holds it that season. Imperial nations are solid colours (each
   its own; Imperial land not yet given to a nation is solid gold). Barbarians and foreign powers are
-  hatched with diagonal lines; minor foreign powers are grey and hatched. The vallorn (plum) and
-  uncontrolled land (parchment) are solid.
+  hatched with diagonal lines (the Druj in brown, the vallorn in plum); minor foreign powers are grey
+  and hatched. Uncontrolled land (parchment) is solid.
 - **Keys:** the line key and, under it, a Nations key: a short scrollable list of every power's colour
   that season (click one to open it). The keys are slightly see-through and the map draws under them as usual. The
   Nations key folds away, and is folded on phones.

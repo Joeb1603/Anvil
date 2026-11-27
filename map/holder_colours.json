@@ -44,7 +44,7 @@
   "hatch"
  ],
  "Druj": [
-  "s3",
+  "s11",
   "hatch"
  ],
  "Grendel": [
@@ -61,7 +61,7 @@
  ],
  "Vallorn": [
   "vallorn",
-  null
+  "hatch"
  ],
  "Uncontrolled": [
   "free",

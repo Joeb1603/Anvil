@@ -6,7 +6,7 @@
 :root {
   --bg: #e9eef3; --surface: #ffffff; --sunk: #f3f6f9; --ink: #18222e; --muted: #556170; --line: #cfd8e1;
   --accent: #1f3a5f; --accent-ink: #ffffff; --sea: #d6e2ec; --land: #e2e6ea; --outline: #2b3644;
-  --s1: #257de0; --s2: #f47230; --s3: #00b894; --s4: #f2a600; --s5: #ee7fac; --s6: #008a17; --s7: #6a4ce2; --s8: #ec4647; --s9: #7a8c1e; --s10: #0f9bb5;
+  --s1: #257de0; --s2: #f47230; --s3: #00b894; --s4: #f2a600; --s5: #ee7fac; --s6: #008a17; --s7: #6a4ce2; --s8: #ec4647; --s9: #7a8c1e; --s10: #0f9bb5; --s11: #8b5a2b;
   --n1: #8d99a6; --n2: #b9c2cc; --gold: #b8860b; --barb: #a50f2f; --neu: #1d232b;
   --vallorn: #6d3f6b; --free: #d9cdb2; --emp: #cfa94a; --hl: #000000; --bline: #1d232b;
   --display: "Alegreya Sans SC", "Alegreya Sans", "Segoe UI", system-ui, sans-serif;
@@ -15,13 +15,13 @@
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --bg: #0f151c; --surface: #171f29; --sunk: #121922; --ink: #e7ecf2; --muted: #98a5b4; --line: #2a3644;
   --accent: #a9c4e6; --accent-ink: #0f151c; --sea: #0b1118; --land: #232d39; --outline: #c9d3de;
-  --s1: #338ced; --s2: #e76624; --s3: #00a888; --s4: #d28e05; --s5: #e24d8b; --s6: #0aac23; --s7: #9887ef; --s8: #eb6263; --s9: #9aad2c; --s10: #2cb8d0;
+  --s1: #338ced; --s2: #e76624; --s3: #00a888; --s4: #d28e05; --s5: #e24d8b; --s6: #0aac23; --s7: #9887ef; --s8: #eb6263; --s9: #9aad2c; --s10: #2cb8d0; --s11: #b07a45;
   --n1: #66727f; --n2: #414c59; --gold: #e3b341; --barb: #ff4f73; --neu: #e7ecf2;
   --vallorn: #9a5b95; --free: #5d5542; --emp: #b8913a; --hl: #ffffff; --bline: #05080b; color-scheme: dark } }
 :root[data-theme="dark"] {
   --bg: #0f151c; --surface: #171f29; --sunk: #121922; --ink: #e7ecf2; --muted: #98a5b4; --line: #2a3644;
   --accent: #a9c4e6; --accent-ink: #0f151c; --sea: #0b1118; --land: #232d39; --outline: #c9d3de;
-  --s1: #338ced; --s2: #e76624; --s3: #00a888; --s4: #d28e05; --s5: #e24d8b; --s6: #0aac23; --s7: #9887ef; --s8: #eb6263; --s9: #9aad2c; --s10: #2cb8d0;
+  --s1: #338ced; --s2: #e76624; --s3: #00a888; --s4: #d28e05; --s5: #e24d8b; --s6: #0aac23; --s7: #9887ef; --s8: #eb6263; --s9: #9aad2c; --s10: #2cb8d0; --s11: #b07a45;
   --n1: #66727f; --n2: #414c59; --gold: #e3b341; --barb: #ff4f73; --neu: #e7ecf2;
   --vallorn: #9a5b95; --free: #5d5542; --emp: #b8913a; --hl: #ffffff; --bline: #05080b; color-scheme: dark }
 
@@ -360,6 +360,8 @@ function init(D) {
   const busy = S.map((_, i) => D.events.filter(e => e.s === i).length);
   let open = last; while (open > 0 && busy[open] < 10) open--;
   const phoneMQ = matchMedia("(max-width: 760px)"), phone = () => phoneMQ.matches;
+  let lastTip = null, overMap = false;  // where the mouse last hovered, so the tooltip can follow zooming
+  const cellOf = new Map();        // map shape -> cell
   const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "auto", names: true, sheet: "closed", labOverride: null, fromList: false, front: true, isoFrom: "list", fight: true, back: [] };
   $("snap").textContent = "wiki snapshot " + D.meta.snapshot.slice(0, 10);
 
@@ -413,7 +415,7 @@ function init(D) {
       const pat = t.sea ? null : el("path", { d, class: "pat", fill: "none" }, gLand);
       const c = { t, r: r.name, base, pat, whole: pathOf(t.polys), centre: r.centre || t.centre,
         fight: t.sea ? null : el("path", { d, class: "fight", fill: "url(#fightpat)" }, gFight) };
-      cells.push(c);
+      cells.push(c); cellOf.set(base, c);
       if (!t.sea) {
         base.addEventListener("click", () => { if (moved) return;
           if (base.classList.contains("dim")) { leaveList(); st.back = []; st.sel = null; st.iso = null; if (phone()) st.sheet = "closed"; render(); return; }
@@ -423,7 +425,11 @@ function init(D) {
           else if (m === "regions") select(t.name, r.name);
           else select(t.name, r.name); });
         base.addEventListener("pointermove", ev => { if (ev.pointerType !== "touch") tip(ev, c); });
-        base.addEventListener("pointerleave", () => { $("tip").hidden = true; });
+        // leaving one shape (by moving, or because zooming slid another under the pointer): show whatever
+        // is under the pointer now, or hide the tooltip if that's not land
+        base.addEventListener("pointerleave", ev => { if (ev.pointerType === "touch") return;
+          const e = document.elementFromPoint(ev.clientX, ev.clientY), c2 = e && cellOf.get(e);
+          if (c2) tip(ev, c2); else $("tip").hidden = true; });
       }
     }
     t.outline = el("path", { d: pathOf(t.polys), class: "outline" + (t.approx ? " approx" : "") }, gOut);
@@ -533,6 +539,7 @@ function init(D) {
     if (rn) showMark({ g: rmark, c: rmc, t: rmt }, sr.centre[0], sr.centre[1], rn, unit() * (svg.clientWidth < 520 ? 0.7 : 1));
     frontiers();
     labels();
+    refreshTip();
   }
   // one screen pixel expressed in map units at the current zoom
   const unit = () => 1 / ((Math.min(svg.clientWidth / vw, svg.clientHeight / vh) || 1) * st.k);
@@ -632,7 +639,15 @@ function init(D) {
     const [top, k] = Object.entries(n).sort((a, b) => b[1] - a[1])[0];
     return k === t.regions.length ? heldBy(top) : `Mostly ${heldBy(top).replace(/^Held/, "held")} (${k} of ${t.regions.length} regions)`;
   }
+  svg.addEventListener("pointerenter", e => { if (e.pointerType !== "touch") overMap = true; });
+  svg.addEventListener("pointerleave", () => { overMap = false; $("tip").hidden = true; });
+  function refreshTip() {
+    if (!lastTip || !overMap) return;
+    const e = document.elementFromPoint(lastTip.clientX, lastTip.clientY), c = e && cellOf.get(e);
+    if (c) tip(lastTip, c); else $("tip").hidden = true;
+  }
   function tip(ev, c) {
+    lastTip = { clientX: ev.clientX, clientY: ev.clientY };
     const box = $("mapwrap").getBoundingClientRect(), tp = $("tip"), m = lab();
     const place = (x, y) => { tp.hidden = false; tp.style.left = Math.min(x, box.width - tp.offsetWidth - 6) + "px"; tp.style.top = Math.min(y, box.height - tp.offsetHeight - 6) + "px"; };
     if (m === "nations") {  // the nation holding this spot, nothing about the territory
