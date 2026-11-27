@@ -67,6 +67,8 @@ a { color: var(--accent); }
 #map[data-lines="nations"] .natline { display: inline; }
 #map[data-lines="nations"] .outline:not(.sel) { stroke-opacity: 0; }
 #map[data-lines="regions"] .cell { stroke-opacity: .85; stroke-width: 0.8; }
+#map[data-lines="none"] .cell { stroke-opacity: 0; }
+#map[data-lines="none"] .outline:not(.sel) { stroke-opacity: .14; }
 .cell.dim, .pat.dim, .fight.dim { opacity: .18; }
 .pat { pointer-events: none; }
 .sea { fill: var(--sea); stroke: none; }
@@ -424,6 +426,8 @@ function init(D) {
     : st.sel ? (st.sel.t === t.name && !st.sel.r) : true;
   // label mode in force: one the Nations tab set while following its selection, else the chosen one; Auto follows the zoom
   const autoLab = () => st.k < 2.2 ? "nations" : st.k < 4.5 ? "territories" : "regions";
+  // what a click or hover picks: the label mode, or with Labels set to None, whatever the zoom suggests
+  const act = () => lab() === "none" ? autoLab() : lab();
   const lab = () => st.labOverride || (st.lab === "auto" ? autoLab() : st.lab);
   // events this season in a nation's lands: places it holds (a whole-territory mention counts for the territory's main holder)
   const natCount = (id, s) => evBySeason[s].reduce((n, e) => n + (st.types.has(e.ty) && Object.entries(e.pl).some(([t, rs]) => byName[t] &&
@@ -453,7 +457,7 @@ function init(D) {
       if (!t.sea) {
         base.addEventListener("click", () => { if (moved) return;
           if (base.classList.contains("dim")) { leaveList(); st.back = []; st.sel = null; st.iso = null; if (phone()) st.sheet = "closed"; render(); return; }
-          const m = lab(); leaveList();
+          const m = act(); leaveList();
           const same = st.sel && st.sel.t === t.name && (m === "regions" ? st.sel.r === r.name : m === "territories" && !st.sel.r);
           if (same) { select(null); return; }  // clicking what's already selected clears it
           if (m === "nations") pickNation(r.name ? holderAt(t.name, r.name, st.s) : holderAt(t.name, "", st.s), "map");
@@ -577,7 +581,9 @@ function init(D) {
       // Focus on click: fade everything outside what is selected
       let out = false;
       // a nation picked in the Nations tab fades everything else; clicks on the map only outline
-      if (st.iso && st.isoFrom === "list") out = hid !== st.iso;
+      if (peekState) { const pt = peekState.target;
+        out = pt.kind === "n" ? hid !== pt.name : c.t.name !== pt.t || (pt.kind === "r" && c.r !== pt.r); }
+      else if (st.iso && st.isoFrom === "list") out = hid !== st.iso;
       else if (st.sel && st.fromList) out = c.t.name !== st.sel.t || (!!st.sel.r && c.r !== st.sel.r);
       c.base.classList.toggle("dim", out); c.pat.classList.toggle("dim", out); c.fight.classList.toggle("dim", out);
       if (st.mode === "holder") c.base.style.fillOpacity = 1;
@@ -595,7 +601,7 @@ function init(D) {
       const u = unit(); x.lb.style.display = on && lab() !== "nations" && lab() !== "none" ? "" : "none";
       x.lb.setAttribute("x", x.cx); x.lb.setAttribute("y", x.cy); x.lb.style.fontSize = 10 * u + "px"; x.lb.style.strokeWidth = 2.5 * u + "px"; }
     // dark boundary lines for the label mode in force; in Nations mode, around each power's land
-    const lm = lab(); svg.dataset.lines = lm === "nations" ? "nations" : lm === "regions" ? "regions" : "territories";
+    const lm = lab(); svg.dataset.lines = lm === "none" ? "none" : lm === "nations" ? "nations" : lm === "regions" ? "regions" : "territories";
     if (lm === "nations" && D.frontiers && natLine.dataset.k !== String(D.frontiers.season[st.s])) {
       natLine.dataset.k = D.frontiers.season[st.s]; natLine.setAttribute("d", Object.values(D.frontiers.states[D.frontiers.season[st.s]].by || {}).join("")); }
     // the selected nation, territory or region, outlined
@@ -722,7 +728,7 @@ function init(D) {
     if (c.t.sea) { const box = $("mapwrap").getBoundingClientRect(), tp = $("tip");
       tp.innerHTML = `<b>${esc(c.t.name)}</b><div>Sea</div>`; tp.hidden = false;
       tp.style.left = Math.min(ev.clientX - box.left + 14, box.width - tp.offsetWidth - 6) + "px"; tp.style.top = Math.min(ev.clientY - box.top + 14, box.height - tp.offsetHeight - 6) + "px"; return; }
-    const box = $("mapwrap").getBoundingClientRect(), tp = $("tip"), m = lab();
+    const box = $("mapwrap").getBoundingClientRect(), tp = $("tip"), m = act();
     const place = (x, y) => { tp.hidden = false; tp.style.left = Math.min(x, box.width - tp.offsetWidth - 6) + "px"; tp.style.top = Math.min(y, box.height - tp.offsetHeight - 6) + "px"; };
     if (m === "nations") {  // the nation holding this spot, nothing about the territory
       const id = c.hid, hold = nationHoldings(id), k = natCount(id, st.s);
@@ -915,7 +921,7 @@ function init(D) {
   function endPeek(restore) {
     if (!peekState) return;
     const ps = peekState; peekState = null;
-    $("peek").hidden = true; $("mapwrap").classList.remove("peeking"); peekLine.setAttribute("d", "");
+    $("peek").hidden = true; $("mapwrap").classList.remove("peeking"); peekLine.setAttribute("d", ""); paint();
     if (phone() && restore) { st.sheet = ps.sheet; $("panel").dataset.sheet = ps.sheet; }
     if (restore) moveTo(ps.cam.k, ps.cam.x, ps.cam.y);
   }

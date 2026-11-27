@@ -25,7 +25,8 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
 - **Nation names** are on by default; untick the box to rely on the key alone.
 - **Labels (Auto by default):** Auto shows nation names for the first three wheel notches (every Imperial nation is
   always named), territory names in between
-  and region names from the seventh wheel notch. Nations, Territories, Regions or None fix it. Labels never sit under an
+  and region names from the seventh wheel notch. Nations, Territories, Regions or None fix it. None hides every boundary line except a barely
+  visible territory outline; clicks and hovers then follow the zoom, as in Auto. Labels never sit under an
   event-count circle.
 - **Clicking and hovering:** follow the label mode in force. In Nations mode a hover describes the
   nation, a click opens it in the Info tab, and each nation shows one event count under its name; Territories and Regions modes count per
@@ -65,8 +66,8 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   $67.25: a 20-event pilot plus one batch of 1,951).
 - **Place names in text are links:** in event summaries and control notes, territory, region and nation
   names open a card on the map, beside the panel (across the top of the map on phones, with the info sheet folded down until you close it), with who holds
-  it, any fighting and that season's events there; the map moves to it and outlines it with a dashed
-  line. The panel is untouched. Close the card (×, Esc or empty map) and the view goes back to where
+  it, any fighting and that season's events there; the map moves to it, outlines it with a dashed
+  line and fades everything else. The panel is untouched. Close the card (×, Esc or empty map) and the view goes back to where
   it was; "Open in Info" selects it instead.
 - **Nations:** picking a nation in the Nations tab or the key moves the map to show all its land as
   large as fits.
