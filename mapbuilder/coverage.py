@@ -47,6 +47,18 @@ def _clean(g, speck=SPECK):
     return unary_union(parts) if parts else Polygon()
 
 
+def _despeck(g, speck=SPECK):
+    """Drop specks and tiny holes without moving any vertex (so shared edges stay shared)."""
+    if g is None or g.is_empty:
+        return Polygon()
+    parts = []
+    for p in getattr(g, "geoms", [g]):
+        if p.geom_type != "Polygon" or p.area < max(speck, 1e-4):
+            continue
+        parts.append(Polygon(p.exterior, [h for h in p.interiors if Polygon(h).area >= max(speck, 1e-4)]))
+    return shapely.MultiPolygon(parts) if len(parts) > 1 else (parts[0] if parts else Polygon())
+
+
 def _edge_points(owners: dict, zone, step=0.75):
     """Points every `step` px along each owner's edge inside `zone`: ([Point], [owner])."""
     pts, own, seen = [], [], set()
@@ -133,7 +145,7 @@ def _regions(shape, cells: dict) -> dict:
         for p in parts:
             n = min(names, key=lambda n: p.distance(Point(cells[n]["seed"])))
             out[n].append(p)
-        return {n: _clean(unary_union(v), 0) for n, v in out.items()}
+        return {n: _despeck(unary_union(v), 0) for n, v in out.items()}
     inner = shape.buffer(-1)
     inner = inner if not inner.is_empty else shape
     seeds, used = [], set()
@@ -149,7 +161,7 @@ def _regions(shape, cells: dict) -> dict:
         used.add(key)
         seeds.append(q)
     vor = shapely.voronoi_polygons(MultiPoint(seeds), extend_to=shape.envelope.buffer(50), ordered=True)
-    return {n: _clean(cell.intersection(shape), 0) for n, cell in zip(names, vor.geoms)}
+    return {n: _despeck(cell.intersection(shape), 0) for n, cell in zip(names, vor.geoms)}
 
 
 def _territories(terr: dict, seas: set, pit=None):
@@ -168,11 +180,12 @@ def _territories(terr: dict, seas: set, pit=None):
     out = {t: unary_union([g, *grow.get(t, [])]) for t, g in placed.items()}
     if pit is not None:
         out = {t: g.difference(pit) for t, g in out.items()}
-    out = {t: _clean(g) for t, g in out.items()}
-    # thin out the vertices the gap splitting adds, keeping shared edges identical on both sides
+    # snap the whole tiling to the grid in one go (snapping each territory on its own can open hairline
+    # slits along shared edges), then thin out vertices keeping every shared edge identical on both sides
     names = list(out)
-    simple = shapely.coverage_simplify([out[t] for t in names], tolerance=SIMPLIFY)
-    return {t: _clean(g) for t, g in zip(names, simple)}
+    snapped = list(shapely.set_precision(shapely.GeometryCollection([out[t] for t in names]), GRID).geoms)
+    simple = shapely.coverage_simplify(snapped, tolerance=SIMPLIFY)
+    return {t: _despeck(g) for t, g in zip(names, simple)}
 
 
 def build(terr: dict, shapes: dict, seas: set, pit=None):
@@ -182,7 +195,7 @@ def build(terr: dict, shapes: dict, seas: set, pit=None):
     before_t = dict(after_t)
     if pit is not None and not pit.is_empty:
         for t, pieces in _split_wedges(pit, after_t).items():
-            before_t[t] = _clean(unary_union([after_t[t], *pieces]))
+            before_t[t] = _despeck(unary_union([after_t[t], *pieces]), 0)
 
     def cut(tshapes, reuse=None):
         out = {}
@@ -214,8 +227,30 @@ def rings(geom, nd=1):
     return out
 
 
+HEAL = 0.25  # master pixels: slits narrower than twice this inside a union are closed
+
+
 def union(geoms):
-    return _clean(unary_union([g for g in geoms if g is not None and not g.is_empty]), 0)
+    """One outline for a set of neighbouring shapes, with any hairline slit between them healed."""
+    g = unary_union([g for g in geoms if g is not None and not g.is_empty])
+    if g.is_empty:
+        return g
+    g = g.buffer(HEAL, join_style="mitre", mitre_limit=5).buffer(-HEAL, join_style="mitre", mitre_limit=5)
+    return _despeck(g, 0)
+
+
+def seams(geom) -> list:
+    """Holes in a shape that are really slits (much longer than wide): each would draw as a stray line
+    inside the shape. [(length, [x0, y0, x1, y1]), ...]"""
+    out = []
+    for p in getattr(geom, "geoms", [geom]):
+        if p.is_empty or p.geom_type != "Polygon":
+            continue
+        for h in p.interiors:
+            hp = Polygon(h)
+            if h.length > 3 and hp.area < 0.5 * h.length:  # average width under one pixel
+                out.append((round(h.length, 1), [round(v) for v in hp.bounds]))
+    return out
 
 
 def path(geom) -> str:

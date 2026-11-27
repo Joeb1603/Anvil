@@ -550,6 +550,11 @@ def build(archive_links=True):
     # ---- each holder's outline, season by season, from the same shapes (exact, so lines meet cleanly)
     cell_keys = list(cov["after"])
     fstates, fseason, fseen = [], [], {}
+    seam_report = []
+    for tname in sorted({k[0] for k in cell_keys}):  # territory outlines too
+        for era in ("after", "before"):
+            for length, where in coverage.seams(coverage.union(cov[era][k] for k in cell_keys if k[0] == tname)):
+                seam_report.append({"season": era, "holder": tname, "length": length, "where": where})
     for i in range(len(seasons)):
         era = "before" if i < pit_s else "after"
         hs = tuple(state[t][r or ""][i] if (r or "") in state[t] else state[t][""][i] for t, r in cell_keys)
@@ -560,7 +565,11 @@ def build(archive_links=True):
                 if h not in ("Unknown", "unknown"):
                     groups[h].append(cov[era][(t, r)])
             fseen[key] = len(fstates)
-            fstates.append({"by": {h: coverage.path(coverage.union(gs)) for h, gs in groups.items()}})
+            outlines = {h: coverage.union(gs) for h, gs in groups.items()}
+            for h, g in outlines.items():  # a slit inside a power's land would draw as a stray line
+                for length, where in coverage.seams(g):
+                    seam_report.append({"season": seasons[i], "holder": h, "length": length, "where": where})
+            fstates.append({"by": {h: coverage.path(g) for h, g in outlines.items()}})
         fseason.append(fseen[key])
     front = {"states": fstates, "season": fseason}
     features = []
@@ -590,6 +599,7 @@ def build(archive_links=True):
                              "No events ran in 2020 or 2021 and in-game time paused across the gap.")}],
     }
     ctl["state"] = state
+    ctl["seams"] = seam_report
     return data, ctl
 
 

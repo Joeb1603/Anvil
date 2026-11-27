@@ -140,6 +140,12 @@ def run(data, ctl, pages=None):
         if len(hs) > 1:
             fail("conflict", f"{t}/{r}@{S[s]}", f"{r}, {t}: reports for {S[s]} disagree ({', '.join(sorted(hs))}).")
 
+    # 3d. Map shapes: no slit inside any power's or territory's outline (it would draw as a stray line).
+    for x in ctl.get("seams", []):
+        fail("seam", f"{x['holder']}@{x['season']}@{x['where']}",
+             f"{x['holder']} ({x['season']}): a slit {x['length']}px long inside its outline at {x['where']} "
+             "would draw as a stray line.")
+
     # 4. Seasons: none missing between the first and the last, and every dated page falls inside them.
     expected = _season_range(S[0], S[-1])
     for s in expected:

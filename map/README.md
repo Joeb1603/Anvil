@@ -6,7 +6,9 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
 - **Shapes:** built top-down in `mapbuilder/coverage.py`, so every edge exists once and neighbours share
   it exactly: the land's outline comes from the wiki's territory map; it is split into territories
   (thin gaps between the wiki's outlines are divided down their middle); each territory is split
-  into its regions with straight lines halfway between the regions' anchor points.
+  into its regions with straight lines halfway between the regions' anchor points. The tiling is snapped
+  as a whole, merged outlines heal any hairline slit, and every build checks each nation's and
+  territory's outline for slits (`seam` in checks.md) so a stray line inside a nation fails the build.
 - **Selecting:** clicking the selected nation, territory, region or the sinkhole again clears it; in
   Regions view only the clicked region is outlined. Seas show their name on hover.
 - **Zoom:** the mouse wheel, pinch, or the + and − buttons, which step exactly one wheel notch.

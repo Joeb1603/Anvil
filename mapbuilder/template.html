@@ -535,6 +535,11 @@ function init(D) {
       c.hid = hid;
       if (st.mode === "holder") {
         c.base.style.fill = fillFor(hid);
+        // outside region view, each shape's edge is drawn in its own colour, which hides the faint seam
+        // browsers leave between two touching shapes (it reads as a stray line inside a nation)
+        const seamless = lab() !== "regions";
+        c.base.style.stroke = seamless ? fillFor(hid) : ""; c.base.style.strokeOpacity = seamless ? 1 : "";
+        c.base.style.strokeWidth = seamless ? "0.7px" : "";
         const p = (H[hid] || H.unknown).pattern;
         c.pat.setAttribute("fill", p ? `url(#${p})` : "none");
       } else {
