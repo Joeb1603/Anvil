@@ -3,22 +3,33 @@
 An interactive map of the Empire and its neighbours with a timeline from 376YE Winter to
 388YE Winter. Open `index.html` in a browser; it is self-contained.
 
-- **Map:** 61 territories and seas, 306 regions. Pan, zoom, click a territory or region.
+- **Map:** 62 territories and seas, 312 regions. Pan, zoom, click a territory or region. Click
+  empty sea or background to clear the selection.
 - **Timeline:** 49 seasons. Step through them or press Play to watch control change.
-- **Colourings:** by holder (who holds each region that season) or by territory.
+- **Colourings:** by nation (who holds each region that season) or by territory. Imperial and
+  barbarian nations have their own colours, as do the vallorn (plum), uncontrolled land
+  (parchment) and Imperial land not yet given to a nation (dotted gold). Only minor foreign
+  powers are grey.
 - **Labels:** Nations (one name per connected block of land a power holds that season),
   Territories, Regions, or None. Labels never sit under an event-count circle, so in busy
   seasons switch Event counts off to see every nation's name.
-- **Clicking:** in Nations mode a click highlights the nation holding that spot; in Territories
-  mode it opens the whole territory; in Regions mode, the region. Tick **Focus on click** to fade
-  everything else. A highlight clears when you select something else or change tab.
+- **Clicking:** follows the label mode. Nations selects the nation holding that spot; Territories
+  the whole territory; Regions the region. Whatever is selected gets a bold outline, and the event
+  counts narrow to it (the nation's territories, the one territory, or the region's own count).
+  Tick **Focus on click** to also fade everything else.
 - **Regions box:** hides or shows the borders between regions. Colours always show each region's
   real holder, and a split territory reads "Mostly held by X (5 of 7 regions)".
-- **Frontiers:** gold outlines land held by Imperial nations, crimson outlines land held by
-  barbarians (Jotun, Druj, Grendel, Thule and barbarian orc bands). The outlines move with the
-  timeline. Other holders, such as the vallorn, show as gaps inside the outlines.
-- **Panel:** who holds a place, its control history, and the events recorded there, each
-  linked to its wiki page. A second tab lists holders; a third lists earlier history.
+- **Borders:** gold edges land held by Imperial nations, crimson land held by barbarians (Jotun,
+  Druj, Grendel, Thule and barbarian orc bands), and a dark line neutral land (the vallorn,
+  uncontrolled regions, other powers). Each line sits on its own side of a shared border.
+- **Fighting:** crosshatched regions are ones a Wind of War names that season, where the region
+  changes hands that season or the next, or its territory is split between the Empire and its
+  enemies. It's an approximation of "actively contested"; the panel names the reports.
+- **Panel:** the Info tab shows the season, or the selected place: who holds it, its control
+  history and its events, each linked to its wiki page. Moving from a territory to one of its
+  regions (or from a nation to a territory) adds a Back button. The Nations tab lists every
+  power; picking one outlines its lands and opens its holdings in place, without moving the
+  list. A third tab lists earlier history.
 - **Search** for a territory, region or event title.
 
 ## Where the data comes from

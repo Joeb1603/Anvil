@@ -447,7 +447,11 @@ def build(archive_links=True):
     # Keep every holder's colour stable across rebuilds: reuse map/holder_colours.json, add new holders to it.
     lock_path = MAP_DIR / "holder_colours.json"
     lock = json.loads(lock_path.read_text()) if lock_path.exists() else {}
+    # colours of their own for the holders that matter on the map, so only minor foreign powers are grey
+    special = {"Vallorn": ["vallorn", None], "Uncontrolled": ["free", None], "The Empire": ["emp", "dots"]}
     for hd in holders:
+        if hd["id"] in special:
+            lock[hd["id"]] = special[hd["id"]]
         if hd["id"] in lock:
             hd["slot"], hd["pattern"] = lock[hd["id"]]
         else:
@@ -494,7 +498,9 @@ def build(archive_links=True):
     view = [min(xs) - 20, min(ys) - 20, max(xs) - min(xs) + 40, max(ys) - min(ys) + 40]
     front, nlabels = frontiers.compute(terr, shapes, state, seasons, SEAS, side_of, view,
                                        lambda h: None if h in ("Unknown", "Uncontrolled") else h)
+    data_contested = contested(state, seasons, ev["events"], side_of)
     data = {
+        "contested": data_contested,
         "meta": {"snapshot": manifest["snapshot"], "archiveLinks": archive_links},
         "view": view, "frontiers": front,
         "nlabels": [[[fix(r[0])] + r[1:4] for r in season] for season in nlabels],
@@ -511,6 +517,32 @@ def build(archive_links=True):
     }
     ctl["state"] = state
     return data, ctl
+
+
+def contested(state, seasons, events, side_of):
+    """{territory: {region: {season index: [report titles]}}}: regions where fighting is reported.
+
+    A region counts as contested in a season when a Wind of War that season names it, and either it
+    changes hands this season or next, or its territory is split between the Empire and its enemies.
+    """
+    idx = {s: i for i, s in enumerate(seasons)}
+    out = {}
+    for e in events:
+        if e["type"] != "Wind of War":
+            continue
+        i = idx[e["event"]]
+        for t, rs in e["places"].items():
+            rows = state.get(t, {})
+            sides = {side_of(v[i]) for r, v in rows.items() if r}
+            split = "imp" in sides and "barb" in sides
+            for r in rs:
+                v = rows.get(r)
+                if not v:
+                    continue
+                moves = (i > 0 and v[i] != v[i - 1]) or (i + 1 < len(v) and v[i + 1] != v[i])
+                if moves or split:
+                    out.setdefault(t, {}).setdefault(r, {}).setdefault(i, []).append(e["title"])
+    return out
 
 
 def reconcile(ctl, regions, seasons, pages):

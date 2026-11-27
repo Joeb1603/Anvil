@@ -7,7 +7,8 @@
   --bg: #e9eef3; --surface: #ffffff; --sunk: #f3f6f9; --ink: #18222e; --muted: #556170; --line: #cfd8e1;
   --accent: #1f3a5f; --accent-ink: #ffffff; --sea: #d6e2ec; --land: #e2e6ea; --outline: #2b3644;
   --s1: #257de0; --s2: #f47230; --s3: #00b894; --s4: #f2a600; --s5: #ee7fac; --s6: #008a17; --s7: #6a4ce2; --s8: #ec4647;
-  --n1: #8d99a6; --n2: #b9c2cc; --gold: #b8860b; --barb: #a50f2f;
+  --n1: #8d99a6; --n2: #b9c2cc; --gold: #b8860b; --barb: #a50f2f; --neu: #1d232b;
+  --vallorn: #6d3f6b; --free: #d9cdb2; --emp: #cfa94a; --hl: #000000;
   --display: "Alegreya Sans SC", "Alegreya Sans", "Segoe UI", system-ui, sans-serif;
   --body: "Alegreya Sans", "Segoe UI", system-ui, -apple-system, sans-serif;
 }
@@ -15,12 +16,14 @@
   --bg: #0f151c; --surface: #171f29; --sunk: #121922; --ink: #e7ecf2; --muted: #98a5b4; --line: #2a3644;
   --accent: #a9c4e6; --accent-ink: #0f151c; --sea: #0b1118; --land: #232d39; --outline: #c9d3de;
   --s1: #338ced; --s2: #e76624; --s3: #00a888; --s4: #d28e05; --s5: #e24d8b; --s6: #0aac23; --s7: #9887ef; --s8: #eb6263;
-  --n1: #66727f; --n2: #414c59; --gold: #e3b341; --barb: #ff4f73; color-scheme: dark } }
+  --n1: #66727f; --n2: #414c59; --gold: #e3b341; --barb: #ff4f73; --neu: #e7ecf2;
+  --vallorn: #9a5b95; --free: #5d5542; --emp: #b8913a; --hl: #ffffff; color-scheme: dark } }
 :root[data-theme="dark"] {
   --bg: #0f151c; --surface: #171f29; --sunk: #121922; --ink: #e7ecf2; --muted: #98a5b4; --line: #2a3644;
   --accent: #a9c4e6; --accent-ink: #0f151c; --sea: #0b1118; --land: #232d39; --outline: #c9d3de;
   --s1: #338ced; --s2: #e76624; --s3: #00a888; --s4: #d28e05; --s5: #e24d8b; --s6: #0aac23; --s7: #9887ef; --s8: #eb6263;
-  --n1: #66727f; --n2: #414c59; --gold: #e3b341; --barb: #ff4f73; color-scheme: dark }
+  --n1: #66727f; --n2: #414c59; --gold: #e3b341; --barb: #ff4f73; --neu: #e7ecf2;
+  --vallorn: #9a5b95; --free: #5d5542; --emp: #b8913a; --hl: #ffffff; color-scheme: dark }
 
 html, body { height: 100%; }
 body { background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.4; }
@@ -58,8 +61,10 @@ a { color: var(--accent); }
 .outline { fill: none; stroke: var(--outline); stroke-width: 1.4; vector-effect: non-scaling-stroke; pointer-events: none; }
 .outline.sel { stroke: var(--ink); stroke-width: 3.2; }
 .outline.approx { stroke-dasharray: 6 4; }
-.natsel { fill: none; stroke: var(--ink); stroke-width: 2; vector-effect: non-scaling-stroke; pointer-events: none; }
-.regsel { fill: none; stroke: var(--ink); stroke-width: 2.4; stroke-dasharray: 5 3; vector-effect: non-scaling-stroke; pointer-events: none; }
+/* selection: a bold line drawn just outside whatever is selected (nation, territory or region) */
+.selhalo { fill: none; stroke: var(--surface); stroke-width: 11px; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; }
+.selline { fill: none; stroke: var(--hl); stroke-width: 6px; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; }
+.fight { pointer-events: none; }
 .tlabel { font-family: var(--display); font-weight: 700; fill: var(--ink); text-anchor: middle; pointer-events: none;
   paint-order: stroke; stroke: var(--surface); stroke-width: 3px; stroke-linejoin: round; letter-spacing: .03em; }
 .rlabel { font-family: var(--body); font-weight: 500; fill: var(--ink); text-anchor: middle; pointer-events: none;
@@ -72,12 +77,20 @@ a { color: var(--accent); }
 .fr.halo { stroke: var(--surface); stroke-width: 8px; }
 .fr.imp { stroke: var(--gold); stroke-width: 5px; }
 .fr.barb { stroke: var(--barb); stroke-width: 5px; }
+.fr.neu { stroke: var(--neu); stroke-width: 4px; }
+.fr.neuh { stroke: var(--surface); stroke-width: 7px; }
+.faded { opacity: .35; }
 .flegend { position: absolute; left: 10px; top: 10px; display: flex; flex-direction: column; gap: 3px; background: var(--surface); border: 1px solid var(--line);
   border-radius: 6px; padding: 5px 9px; font-size: .8rem; pointer-events: none; }
 .flegend span { display: flex; align-items: center; gap: 7px; }
 .flegend i { display: inline-block; width: 18px; height: 0; border-top: 3px solid; }
 .flegend .gold { border-color: var(--gold); }
 .flegend .barb { border-color: var(--barb); }
+.flegend .neu { border-color: var(--neu); }
+.flegend .fightkey { width: 18px; height: 11px; border: 1px solid var(--line); background: repeating-linear-gradient(135deg, var(--ink) 0 1.5px, transparent 1.5px 5px), repeating-linear-gradient(45deg, var(--ink) 0 1.5px, transparent 1.5px 5px); }
+.back { display: inline-flex; align-items: center; gap: 4px; border: 1px solid var(--line); background: var(--sunk); border-radius: 6px; padding: 2px 9px; cursor: pointer; margin-bottom: 8px; }
+.row[aria-pressed="true"] { background: var(--sunk); outline: 2px solid var(--hl); outline-offset: -2px; }
+.natdetail { margin: 2px 0 10px 26px; padding-left: 10px; border-left: 2px solid var(--hl); }
 .labgroup { display: inline-flex; align-items: center; gap: 6px; color: var(--muted); }
 .zoom { position: absolute; right: 10px; top: 10px; display: flex; flex-direction: column; gap: 4px; }
 .zoom button { width: 32px; height: 32px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); cursor: pointer; font-size: 1.1rem; line-height: 1; }
@@ -167,7 +180,7 @@ td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
     <h1 class="brand">Empire Atlas <small id="snap"></small></h1>
     <div class="controls">
       <div class="seg" role="group" aria-label="Colour the map by">
-        <button id="mode-holder" aria-pressed="true">By holder</button>
+        <button id="mode-holder" aria-pressed="true">By nation</button>
         <button id="mode-territory" aria-pressed="false">By territory</button>
       </div>
       <div class="labgroup">Labels
@@ -179,7 +192,8 @@ td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
         </div>
       </div>
       <label class="check"><input type="checkbox" id="show-regions" checked> Regions</label>
-      <label class="check"><input type="checkbox" id="show-front" checked> Frontiers</label>
+      <label class="check"><input type="checkbox" id="show-front" checked> Borders</label>
+      <label class="check"><input type="checkbox" id="show-fight" checked> Fighting</label>
       <label class="check"><input type="checkbox" id="focus"> Focus on click</label>
       <label class="check"><input type="checkbox" id="show-marks" checked> Event counts</label>
       <div class="search">
@@ -192,7 +206,7 @@ td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
   <div class="main">
     <div class="mapwrap" id="mapwrap">
       <svg id="map" role="img" aria-label="Map of the Empire and neighbouring territories"></svg>
-      <div class="flegend" id="flegend"><span><i class="gold"></i>Imperial lands</span><span><i class="barb"></i>Barbarian lands</span></div>
+      <div class="flegend" id="flegend"><span class="fkey"><i class="gold"></i>Imperial lands</span><span class="fkey"><i class="barb"></i>Barbarian lands</span><span class="fkey"><i class="neu"></i>Neutral: vallorn, uncontrolled, others</span><span class="xkey"><i class="fightkey"></i>Fighting reported</span></div>
       <div class="zoom">
         <button id="zin" aria-label="Zoom in">+</button>
         <button id="zout" aria-label="Zoom out">−</button>
@@ -203,8 +217,8 @@ td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
     </div>
     <aside class="panel">
       <div class="tabs" role="tablist">
-        <button role="tab" id="tab-place" aria-selected="true">Season</button>
-        <button role="tab" id="tab-holders" aria-selected="false">Holders</button>
+        <button role="tab" id="tab-place" aria-selected="true">Info</button>
+        <button role="tab" id="tab-holders" aria-selected="false">Nations</button>
         <button role="tab" id="tab-history" aria-selected="false">Earlier history</button>
       </div>
       <div class="pbody" id="pbody"></div>
@@ -246,7 +260,7 @@ function init(D) {
   const types = [...new Set(D.events.map(e => e.ty))];
   const busy = S.map((_, i) => D.events.filter(e => e.s === i).length);
   let open = last; while (open > 0 && busy[open] < 10) open--;
-  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "territories", front: true, focus: false };
+  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "territories", front: true, focus: false, fight: true, back: [] };
   $("snap").textContent = "wiki snapshot " + D.meta.snapshot.slice(0, 10);
 
   // ---- control state: holder of every place at every season, worked out by the build (one source of truth)
@@ -268,6 +282,11 @@ function init(D) {
   D.events.forEach(e => evBySeason[e.s].push(e));
   const evByTerr = {}; D.events.forEach(e => { for (const t in e.pl) (evByTerr[t] = evByTerr[t] || []).push(e); });
   const countAt = (t, s) => evBySeason[s].reduce((n, e) => n + (e.pl[t] && st.types.has(e.ty) ? 1 : 0), 0);
+  const regionCount = (t, r, s) => evBySeason[s].reduce((n, e) => n + (e.pl[t] && e.pl[t].includes(r) && st.types.has(e.ty) ? 1 : 0), 0);
+  // which territories show an event count: all, or only what is selected (a nation's lands, one territory)
+  const markFor = t => st.iso ? (t.regions.length ? t.regions.some(r => holderAt(t.name, r.name, st.s) === st.iso) : holderAt(t.name, "", st.s) === st.iso)
+    : st.sel ? (st.sel.t === t.name && !st.sel.r) : true;
+  const fightAt = (t, r, s) => { const x = ((D.contested || {})[t] || {})[r]; return x && x[s]; };
 
   // ---- map
   const svg = $("map"), [vx, vy, vw, vh] = D.view;
@@ -275,8 +294,10 @@ function init(D) {
   const defs = el("defs", {}, svg);
   const mkPat = (id, body) => { const p = el("pattern", { id, width: 7, height: 7, patternUnits: "userSpaceOnUse", patternTransform: "rotate(45)" }, defs); p.innerHTML = body; };
   mkPat("hatch", '<line x1="0" y1="0" x2="0" y2="7" style="stroke:var(--surface);stroke-width:3;opacity:.72"/>');
+  { const p = el("pattern", { id: "fightpat", width: 8, height: 8, patternUnits: "userSpaceOnUse" }, defs);
+    p.innerHTML = '<path d="M0 0L8 8M8 0L0 8" style="stroke:var(--ink);stroke-width:1.3;opacity:.75"/>'; }
   mkPat("dots", '<circle cx="3.5" cy="3.5" r="1.5" style="fill:var(--surface);opacity:.8"/>');
-  const vp = el("g", {}, svg), gLand = el("g", {}, vp), gOut = el("g", {}, vp), gFront = el("g", {}, vp), gSel = el("g", {}, vp), gLab = el("g", {}, vp), gNat = el("g", {}, vp), gMark = el("g", {}, vp);
+  const vp = el("g", {}, svg), gLand = el("g", {}, vp), gOut = el("g", {}, vp), gFront = el("g", {}, vp), gFight = el("g", {}, vp), gSel = el("g", {}, vp), gLab = el("g", {}, vp), gNat = el("g", {}, vp), gMark = el("g", {}, vp);
   const cells = [];
   for (const t of T) {
     const parts = t.regions.length ? t.regions : [{ name: "", polys: t.polys }];
@@ -284,7 +305,8 @@ function init(D) {
       const d = pathOf(r.polys);
       const base = el("path", { d, class: t.sea ? "sea" : "cell" }, gLand);
       const pat = t.sea ? null : el("path", { d, class: "pat", fill: "none" }, gLand);
-      const c = { t, r: r.name, base, pat, whole: pathOf(t.polys) };
+      const c = { t, r: r.name, base, pat, whole: pathOf(t.polys), centre: r.centre || t.centre,
+        fight: t.sea ? null : el("path", { d, class: "fight", fill: "url(#fightpat)" }, gFight) };
       cells.push(c);
       if (!t.sea) {
         base.addEventListener("click", () => { if (moved) return;
@@ -302,24 +324,38 @@ function init(D) {
     if (!t.sea) { t.mark = el("g", { class: "mark" }, gMark); t.mc = el("circle", { cx: t.centre[0], cy: t.centre[1] }, t.mark); t.mt = el("text", { x: t.centre[0], y: t.centre[1] }, t.mark);
       t.mark.addEventListener("click", () => select(t.name, "")); }
   }
-  const natPath = el("path", { class: "natsel" }, gSel);
-  const selPath = el("path", { class: "regsel" }, gSel);
+  // selection outline: stroke the selected area's outline, masked so only the half outside it shows;
+  // internal borders between selected cells fall inside the mask and disappear
+  const selMask = el("mask", { id: "selmask", maskUnits: "userSpaceOnUse", x: vx - vw, y: vy - vh, width: vw * 3, height: vh * 3 }, defs);
+  el("rect", { x: vx - vw, y: vy - vh, width: vw * 3, height: vh * 3, fill: "white" }, selMask);
+  const selHole = el("path", { fill: "black" }, selMask);
+  const selHalo = el("path", { class: "selhalo", mask: "url(#selmask)" }, gSel);
+  const selLine = el("path", { class: "selline", mask: "url(#selmask)" }, gSel);
+  // one event-count marker for a region, shown when a territory or region is selected
+  const rmark = el("g", { class: "mark" }, gMark), rmc = el("circle", {}, rmark), rmt = el("text", {}, rmark);
+  rmark.style.display = "none";
 
   // ---- frontiers: each outline is clipped to its own side, so gold and crimson sit on either side of a shared border
   const mkClip = id => el("path", { "clip-rule": "evenodd" }, el("clipPath", { id }, defs));
-  const clipImp = mkClip("fc-imp"), clipBarb = mkClip("fc-barb");
+  const clipImp = mkClip("fc-imp"), clipBarb = mkClip("fc-barb"), clipNeu = mkClip("fc-neu");
   const fr = {
     ih: el("path", { class: "fr halo", "clip-path": "url(#fc-imp)" }, gFront), il: el("path", { class: "fr imp", "clip-path": "url(#fc-imp)" }, gFront),
     bh: el("path", { class: "fr halo", "clip-path": "url(#fc-barb)" }, gFront), bl: el("path", { class: "fr barb", "clip-path": "url(#fc-barb)" }, gFront),
+    nh: el("path", { class: "fr neuh", "clip-path": "url(#fc-neu)" }, gFront), nl: el("path", { class: "fr neu", "clip-path": "url(#fc-neu)" }, gFront),
   };
   let frShown = -1;
   function frontiers() {
-    gFront.style.display = st.front ? "" : "none"; $("flegend").hidden = !st.front;
+    gFront.style.display = st.front ? "" : "none";
+    for (const x of document.querySelectorAll(".fkey")) x.hidden = !st.front;
+    for (const x of document.querySelectorAll(".xkey")) x.hidden = !st.fight;
+    $("flegend").hidden = !st.front && !st.fight;
+    gFront.classList.toggle("faded", !!(st.sel || st.iso));
     if (!st.front || !D.frontiers) return;
     const k = D.frontiers.season[st.s]; if (k === frShown) return; frShown = k;
     const f = D.frontiers.states[k];
     for (const x of [clipImp, fr.ih, fr.il]) x.setAttribute("d", f.imp);
     for (const x of [clipBarb, fr.bh, fr.bl]) x.setAttribute("d", f.barb);
+    for (const x of [clipNeu, fr.nh, fr.nl]) x.setAttribute("d", f.neu || "");
   }
 
   // ---- label helpers
@@ -353,17 +389,27 @@ function init(D) {
       c.base.classList.toggle("dim", out);
       if (st.mode === "holder") c.base.style.fillOpacity = 1;
       c.base.style.strokeOpacity = st.regions ? 1 : 0;
+      c.fight.style.display = st.fight && fightAt(c.t.name, c.r, st.s) ? "" : "none";
     }
     for (const t of T) {
       t.outline.classList.toggle("sel", !!st.sel && st.sel.t === t.name);
-      if (t.mark) { const n = st.marks ? countAt(t.name, st.s) : 0; t.mark.style.display = n ? "" : "none";
+      if (t.mark) { const n = st.marks && markFor(t) ? countAt(t.name, st.s) : 0; t.mark.style.display = n ? "" : "none";
         if (n) { const u = unit() * (svg.clientWidth < 520 ? 0.7 : 1), r = (7 + Math.sqrt(n) * 1.6) * u; t.mc.setAttribute("r", r); t.mt.textContent = n; t.mt.style.fontSize = (10.5 * u) + "px";
           const off = 15 * u; t.mc.setAttribute("cx", t.centre[0]); t.mt.setAttribute("x", t.centre[0]);
           t.mc.setAttribute("cy", t.centre[1] + off); t.mt.setAttribute("y", t.centre[1] + off); } }
     }
-    natPath.setAttribute("d", st.iso ? cells.filter(c => !c.t.sea && c.hid === st.iso).map(c => c.base.getAttribute("d")).join("") : "");
+    // the selected nation, territory or region, outlined
+    let sd = "";
+    if (st.iso) sd = cells.filter(c => !c.t.sea && c.hid === st.iso).map(c => c.base.getAttribute("d")).join("");
+    else if (st.sel) { const t = byName[st.sel.t], sr = st.sel.r && t.regions.find(r => r.name === st.sel.r); sd = sr ? pathOf(sr.polys) : pathOf(t.polys); }
+    for (const x of [selHole, selHalo, selLine]) x.setAttribute("d", sd);
+    // a selected region gets its own event count
     const sr = st.sel && st.sel.r && byName[st.sel.t].regions.find(r => r.name === st.sel.r);
-    selPath.setAttribute("d", sr ? pathOf(sr.polys) : "");
+    const rn = sr && st.marks ? regionCount(st.sel.t, st.sel.r, st.s) : 0;
+    rmark.style.display = rn ? "" : "none";
+    if (rn) { const u = unit() * (svg.clientWidth < 520 ? 0.7 : 1); rmc.setAttribute("r", (7 + Math.sqrt(rn) * 1.6) * u);
+      rmc.setAttribute("cx", sr.centre[0]); rmc.setAttribute("cy", sr.centre[1] + 15 * u); rmt.setAttribute("x", sr.centre[0]); rmt.setAttribute("y", sr.centre[1] + 15 * u);
+      rmt.textContent = rn; rmt.style.fontSize = (10.5 * u) + "px"; }
     frontiers();
     labels();
   }
@@ -447,7 +493,8 @@ function init(D) {
     const r = st.regions ? c.r : "";
     const n = countAt(c.t.name, st.s);
     const who = r ? heldBy(holderAt(c.t.name, r, st.s)) : territoryHolder(c.t);
-    tp.innerHTML = `<b>${esc(r || c.t.name)}</b>${r ? `<div>${esc(c.t.name)}</div>` : ""}<div>${esc(who)}</div><div>${n} event${n === 1 ? "" : "s"} in ${esc(S[st.s])}</div>`;
+    const fought = st.fight && (r ? fightAt(c.t.name, r, st.s) : c.t.regions.some(x => fightAt(c.t.name, x.name, st.s)));
+    tp.innerHTML = `<b>${esc(r || c.t.name)}</b>${r ? `<div>${esc(c.t.name)}</div>` : ""}<div>${esc(who)}</div>${fought ? "<div>⚔ Fighting reported this season</div>" : ""}<div>${n} event${n === 1 ? "" : "s"} in ${esc(S[st.s])}</div>`;
     tp.hidden = false;
     const x = ev.clientX - box.left + 14, y = ev.clientY - box.top + 14;
     tp.style.left = Math.min(x, box.width - tp.offsetWidth - 6) + "px"; tp.style.top = Math.min(y, box.height - tp.offsetHeight - 6) + "px";
@@ -481,12 +528,25 @@ function init(D) {
   addEventListener("resize", paint);
 
   // ---- selection and panel
-  function select(t, r) { st.sel = t ? { t, r: r || "" } : null; st.iso = null; st.tab = "place"; render(); }
+  function select(t, r, fromBack) {
+    const next = t ? { t, r: r || "" } : null;
+    if (!fromBack) {
+      if (next && st.iso) st.back.push({ iso: st.iso });  // came from a nation: Back returns to it
+      else if (next && st.sel && (st.sel.t !== next.t || st.sel.r !== next.r)) st.back.push(st.sel);
+      if (!next) st.back = []; }
+    if (st.back.length > 30) st.back.shift();
+    st.sel = next; st.iso = null; st.tab = "place"; render(); }
+  const goBack = () => { const prev = st.back.pop();
+    if (prev && prev.iso) { st.sel = null; st.iso = prev.iso; st.tab = "holders"; render(); scrollToNation(); return; }
+    select(prev ? prev.t : null, prev ? prev.r : "", true); };
+  const scrollToNation = () => { const row = $("pbody").querySelector('.row[aria-pressed="true"]'); if (row) row.scrollIntoView({ block: "nearest" }); };
+  svg.addEventListener("click", e => { if (moved || e.target.closest(".cell, .mark")) return;
+    if (st.sel || st.iso) { st.back = []; st.sel = null; st.iso = null; render(); } });
   const swatch = id => { const x = H[id] || H.unknown; const s = h("span", { className: "sw" }); s.style.background = `var(--${x.slot})`;
     if (x.pattern === "hatch") s.style.backgroundImage = "repeating-linear-gradient(45deg, transparent 0 3px, var(--surface) 3px 5px)";
     if (x.pattern === "dots") s.style.backgroundImage = "radial-gradient(var(--surface) 1.5px, transparent 2px)", s.style.backgroundSize = "5px 5px"; return s; };
   const hname = id => (H[id] || H.unknown).name;
-  const heldBy = id => id === "Uncontrolled" ? "Held by no one" : "Held by " + hname(id);
+  const heldBy = id => id === "Uncontrolled" ? "Uncontrolled: no nation or army holds it" : id === "unknown" ? "Holder not recorded" : "Held by " + hname(id);
   function evItem(e, showSeason) {
     const d = h("div", { className: "ev" });
     const meta = h("div", { className: "meta" }, h("span", { className: "tag", textContent: e.ty }));
@@ -525,12 +585,18 @@ function init(D) {
       return;
     }
     const t = byName[st.sel.t], r = st.sel.r;
+    if (st.back.length) { const p = st.back[st.back.length - 1];
+      b.append(h("button", { className: "back", textContent: "← Back to " + (p.iso ? hname(p.iso) : (p.r || p.t)), onclick: goBack })); }
     const crumb = h("div", { className: "crumb" }, h("button", { textContent: "All territories", onclick: () => select(null) }));
     if (r) crumb.append(" › ", h("button", { textContent: t.name, onclick: () => select(t.name, "") }));
     b.append(crumb, h("h2", { textContent: r || t.name }));
     const hid = r ? holderAt(t.name, r, st.s) : majority(t.name, st.s);
     b.append(h("div", { className: "holder" }, swatch(hid), h("span", { textContent: `${r ? heldBy(hid) : territoryHolder(t)} in ${S[st.s]}` })));
     if (t.nation) b.append(h("div", { className: "crumb", textContent: (t.imperial ? "Imperial territory, " : "Outside the Empire, ") + t.nation }));
+    const fr = r ? [[r, fightAt(t.name, r, st.s)]] : t.regions.map(x => [x.name, fightAt(t.name, x.name, st.s)]);
+    const fl = fr.filter(x => x[1]);
+    if (fl.length) b.append(h("div", { className: "callout" }, h("b", { textContent: "⚔ Fighting reported in " + S[st.s] }),
+      (r ? "" : fl.map(x => x[0]).join(", ") + ". ") + "From " + [...new Set(fl.flatMap(x => x[1]))].join(", ") + ". (A Wind of War names the region, and it changes hands around now or its territory is split between the Empire and its enemies.)"));
     if (t.approx) b.append(h("div", { className: "callout" }, h("b", { textContent: "Approximate outline" }), t.note || ""));
     if (r && !t.approx) { const rr = t.regions.find(x => x.name === r); if (rr && rr.placed !== "label") b.append(h("div", { className: "unsure", textContent: "Position on the map is a rough guess: no label was found for this region on the wiki's map." })); }
     if (t.u) b.append(h("div", {}, h("a", { href: t.u + (r ? "#" + encodeURIComponent(r.replace(/ /g, "_")) : ""), target: "_blank", rel: "noopener", textContent: "Read about it on the wiki" })));
@@ -571,16 +637,14 @@ function init(D) {
     if (c.u) d.append(h("a", { href: c.u, target: "_blank", rel: "noopener", textContent: c.src, style: "font-size:.85rem" }));
     return d;
   }
-  function panelHolders(b) {
-    if (st.iso) {  // the highlighted nation: what it holds this season
+  function nationDetail(box) {
+    {
       const mine = [];
       for (const t of T) { if (t.sea) continue; const parts = t.regions.length ? t.regions.map(r => r.name) : [""];
         const held = parts.filter(r => holderAt(t.name, r, st.s) === st.iso); if (held.length) mine.push([t, held, parts.length]); }
+      const b = h("div", { className: "natdetail" }); box.append(b);
       const total = mine.reduce((k, m) => k + m[1].length, 0);
-      b.append(h("div", { className: "crumb" }, h("button", { textContent: "All holders", onclick: () => pickNation(st.iso) })),
-        h("h2", { textContent: hname(st.iso) }),
-        h("div", { className: "holder" }, swatch(st.iso), h("span", { textContent: `${total} region${total === 1 ? "" : "s"} in ${mine.length} territor${mine.length === 1 ? "y" : "ies"} in ${S[st.s]}` })));
-      b.append(h("h3", { textContent: "Territories" }));
+      b.append(h("div", { className: "crumb", textContent: `${total} region${total === 1 ? "" : "s"} in ${mine.length} territor${mine.length === 1 ? "y" : "ies"} in ${S[st.s]}` }));
       if (!mine.length) b.append(h("div", { className: "empty", textContent: "Holds nothing in " + S[st.s] + "." }));
       for (const [t, held, of] of mine.sort((a, c) => c[1].length - a[1].length || a[0].name.localeCompare(c[0].name))) {
         const row = h("button", { className: "row", onclick: () => { select(t.name, ""); focusOn(t); } },
@@ -589,15 +653,17 @@ function init(D) {
         b.append(row);
         if (held.length < of) b.append(h("div", { className: "crumb", style: "margin:-2px 0 4px 6px", textContent: held.join(", ") }));
       }
-      b.append(h("h3", { textContent: "All holders" }));
-    } else
-    b.append(h("h2", { textContent: "Holders in " + S[st.s] }), h("div", { className: "crumb", textContent: "Click a holder, or with Labels set to Nations click the map, to highlight its lands. Hatched colours are powers outside the Empire. With Frontiers on, gold outlines land held by Imperial nations and crimson outlines land held by barbarians." }));
+    }
+  }
+  function panelHolders(b) {
+    b.append(h("h2", { textContent: "Nations in " + S[st.s] }), h("div", { className: "crumb", textContent: "Click a nation, or with Labels set to Nations click the map, to outline its lands and see what it holds. Hatched colours are powers outside the Empire. With Borders on, gold edges Imperial land, crimson barbarian land, and dark lines neutral land (the vallorn, uncontrolled regions, other powers)." }));
     const n = {}; for (const t of T) { if (t.sea) continue; const parts = t.regions.length ? t.regions.map(r => r.name) : [""]; for (const r of parts) { const x = holderAt(t.name, r, st.s); n[x] = (n[x] || 0) + 1; } }
     for (const g of ["Imperial nations", "Barbarian powers", "Others"]) {
       const hs = D.holders.filter(x => x.group === g && n[x.id]); if (!hs.length) continue;
       b.append(h("h3", { textContent: g })); const box = h("div", { className: "legend" });
       for (const x of hs.sort((a, c) => (n[c.id] || 0) - (n[a.id] || 0))) { const row = h("button", { className: "row" }, swatch(x.id), h("span", { className: "grow", textContent: x.name }), h("span", { className: "num", textContent: n[x.id] + (n[x.id] === 1 ? " region" : " regions") }));
-        row.setAttribute("aria-pressed", st.iso === x.id); row.onclick = () => pickNation(x.id); box.append(row); }
+        row.setAttribute("aria-pressed", st.iso === x.id); row.onclick = () => pickNation(x.id); box.append(row);
+        if (st.iso === x.id) nationDetail(box); }
       b.append(box); }
   }
   function panelHistory(b) {
@@ -637,9 +703,10 @@ function init(D) {
   // highlight one holder's lands (click again to clear); used by the map in Nations mode and the Holders tab
   function pickNation(id) {
     if (!id || id === "unknown") return;
-    st.iso = st.iso === id ? null : id; st.sel = null; st.tab = "holders";
+    st.iso = st.iso === id ? null : id; st.sel = null; st.back = [];
+    st.keep = st.keep || st.tab === "holders"; st.tab = "holders";  // the list never jumps: same order, same scroll
     if (st.mode !== "holder") { st.mode = "holder"; $("mode-holder").setAttribute("aria-pressed", true); $("mode-territory").setAttribute("aria-pressed", false); }
-    render();
+    render(); st.keep = false; scrollToNation();
   }
   const setMode = m => { st.mode = m; if (m !== "holder") st.iso = null; $("mode-holder").setAttribute("aria-pressed", m === "holder"); $("mode-territory").setAttribute("aria-pressed", m === "territory"); render(); };
   $("mode-holder").onclick = () => setMode("holder"); $("mode-territory").onclick = () => setMode("territory");
@@ -649,6 +716,7 @@ function init(D) {
   const LABS = ["nations", "territories", "regions", "none"];
   for (const m of LABS) $("lab-" + m).onclick = () => { st.lab = m; for (const x of LABS) $("lab-" + x).setAttribute("aria-pressed", x === m); labels(); };
   $("show-front").onchange = e => { st.front = e.target.checked; frontiers(); };
+  $("show-fight").onchange = e => { st.fight = e.target.checked; frontiers(); paint(); };
   for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).onclick = () => { if (tab !== "holders") st.iso = null; if (tab !== "place") st.sel = null; st.tab = tab; render(); };
   const q = $("q"), res = $("results");
   const index = []; for (const t of T) { if (t.sea) continue; index.push({ label: t.name, sub: "Territory", go: () => { select(t.name, ""); focusOn(t); } });
@@ -664,14 +732,14 @@ function init(D) {
     const re = (D.real || [])[st.s];
     $("now").innerHTML = `${esc(S[st.s])}<small>${re ? esc(re.n) + " · " : ""}${evBySeason[st.s].length} located events</small>`;
     bars.forEach((r, i) => r.classList.toggle("on", i === st.s));
-    $("tab-place").textContent = st.sel ? (st.sel.r || st.sel.t) : "Season";
+    $("tab-place").textContent = st.sel ? (st.sel.r || st.sel.t) : "Info";
     for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).setAttribute("aria-selected", st.tab === tab);
     const b = $("pbody"), top = b.scrollTop; b.innerHTML = "";
     (st.tab === "holders" ? panelHolders : st.tab === "history" ? panelHistory : panelPlace)(b);
     b.scrollTop = st.keep ? top : 0; paint();
   }
   render();
-  window.__atlas = { st, setSeason, select, holderAt, majority };
+  window.__atlas = { st, setSeason, select, holderAt, majority, pickNation };
 }
 })();
 </script>

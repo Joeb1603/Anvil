@@ -1,4 +1,4 @@
-"""Per-season frontier outlines (Imperial and barbarian lands) and nation label positions.
+"""Per-season border outlines (Imperial, barbarian and neutral lands) and nation label positions.
 
 Both are computed from a raster of the map's cells (regions, or whole territories that have
 no regions). Small slivers between neighbouring territories, left by the wiki's image-map
@@ -77,12 +77,13 @@ def compute(terr, shapes, state, seasons, seas, side_of, view, short_name):
     for i in range(len(seasons)):
         hs = holder_at[i]
         # ---- frontier outlines
-        sides = tuple(side_of(h) for h in hs)
+        # every piece of land is Imperial, barbarian or neutral (the vallorn, uncontrolled land, other powers)
+        sides = tuple(side_of(h) or (None if h in ("Unknown", "unknown") else "neu") for h in hs)
         if sides not in seen:
-            lut = np.array([0] + [{"imp": 1, "barb": 2}.get(s, 0) for s in sides], np.uint8)
+            lut = np.array([0] + [{"imp": 1, "barb": 2, "neu": 3}.get(s, 0) for s in sides], np.uint8)
             grp = lut[ids2]
             st = {}
-            for code, key in ((1, "imp"), (2, "barb")):
+            for code, key in ((1, "imp"), (2, "barb"), (3, "neu")):
                 m = (grp == code).astype(np.uint8)
                 cs, hier = cv2.findContours(m, cv2.RETR_CCOMP, cv2.CHAIN_APPROX_SIMPLE)
                 st[key] = _path(cs, hier, origin, S)

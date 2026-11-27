@@ -56,16 +56,16 @@
   "hatch"
  ],
  "The Empire": [
-  "n1",
+  "emp",
   "dots"
  ],
  "Vallorn": [
-  "n1",
-  "hatch"
+  "vallorn",
+  null
  ],
  "Uncontrolled": [
-  "n1",
-  "dots"
+  "free",
+  null
  ],
  "Tsark": [
   "n1",
