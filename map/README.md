@@ -3,9 +3,10 @@
 An interactive map of the Empire and its neighbours with a timeline from 376YE Winter to
 388YE Winter. Open `index.html` in a browser; it is self-contained.
 
-- **Shapes:** territory and region shapes are cleaned into one gap-free set (`mapbuilder/coverage.py`):
-  the wiki's outlines don't quite meet, so slivers between neighbours are shared out and overlaps
-  removed. Territory, region and nation lines all follow the same edges, so they line up close in.
+- **Shapes:** built top-down in `mapbuilder/coverage.py`, so every edge exists once and neighbours share
+  it exactly: the land's outline comes from the wiki's territory map; it is split into territories
+  (thin gaps between the wiki's outlines are divided down their middle); each territory is split
+  into its regions with straight lines halfway between the regions' anchor points.
 - **Selecting:** clicking the selected nation, territory, region or the sinkhole again clears it; in
   Regions view only the clicked region is outlined. Seas show their name on hover.
 - **Zoom:** the mouse wheel, pinch, or the + and − buttons, which step exactly one wheel notch.
@@ -36,9 +37,8 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   around territories in Territories view, around regions in Regions view (region borders are
   hidden until then), in the same dark colour in light and dark mode; colours show each region's real holder, and a split
   territory reads "Mostly held by X (5 of 7 regions)".
-- **Borders:** gold edges land held by Imperial nations, crimson land held by barbarians (Jotun,
-  Druj, Grendel, Thule and barbarian orc bands), and a dark line neutral land (the vallorn,
-  uncontrolled regions, other powers). Every power's land is outlined just inside its own edge, so a border between two powers shows two slim lines, one in each side's colour (two gold lines between two Imperial nations).
+- **Borders:** the black boundary lines (see above) mark every border. (Coloured Imperial and barbarian
+  border lines were tried and retired: the black lines read better.)
 - **Fighting:** crosshatched regions are ones a Wind of War names that season, where the region
   changes hands that season or the next, or its territory is split between the Empire and its
   enemies. It's an approximation of "actively contested"; the panel names the reports.

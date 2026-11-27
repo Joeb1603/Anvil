@@ -173,6 +173,8 @@ def region_shapes(labels: dict | None = None) -> dict:
         cells = whole if whole else partition(polys, seeds)
         for n in cells:
             cells[n]["placed"] = placed[n]
+            cells[n]["seed"] = [round(seeds[n][0], 2), round(seeds[n][1], 2)]  # the point the region is built around
+            cells[n]["per_part"] = bool(whole)
         result[t] = cells
     from .geometry import extra_territories
     for t, extra in extra_territories().items():  # hand-made territories list their own region points
@@ -180,6 +182,8 @@ def region_shapes(labels: dict | None = None) -> dict:
             cells = partition(terr[t]["polys"], {n: tuple(p) for n, p in extra["regions"].items()})
             for n in cells:
                 cells[n]["placed"] = "approx"
+                cells[n]["seed"] = list(extra["regions"][n])
+                cells[n]["per_part"] = False
             result[t] = cells
     return result
 

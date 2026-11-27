@@ -293,7 +293,6 @@ details.hist summary { cursor: pointer; font-weight: 700; }
         </div>
       </div>
       <label class="check"><input type="checkbox" id="show-names" checked> Nation names</label>
-      <label class="check"><input type="checkbox" id="show-front" checked> Borders</label>
       <label class="check"><input type="checkbox" id="show-fight" checked> Fighting</label>
       <label class="check"><input type="checkbox" id="show-marks" checked> Event counts</label>
       <div class="search">
@@ -308,7 +307,7 @@ details.hist summary { cursor: pointer; font-weight: 700; }
     <div class="mapwrap" id="mapwrap">
       <svg id="map" role="img" aria-label="Map of the Empire and neighbouring territories"></svg>
       <button class="keybtn ph" id="ph-key" aria-expanded="false">Key</button>
-      <div class="keys"><div class="flegend" id="flegend"><span class="fkey"><i class="gold"></i>Imperial lands</span><span class="fkey"><i class="barb"></i>Barbarian lands</span><span class="fkey" title="The vallorn, uncontrolled land and other powers"><i class="neu"></i>Neutral lands</span><span class="xkey"><i class="fightkey"></i>Fighting reported</span></div>
+      <div class="keys"><div class="flegend" id="flegend"><span class="xkey"><i class="fightkey"></i>Fighting reported</span></div>
         <details class="nkey" id="nkey"><summary>Nations</summary><div class="nk" id="nk"></div></details></div>
       <div class="zoom">
         <button id="zin" aria-label="Zoom in">+</button>
@@ -367,7 +366,7 @@ function init(D) {
   const phoneMQ = matchMedia("(max-width: 760px)"), phone = () => phoneMQ.matches;
   let lastTip = null, overMap = false;  // where the mouse last hovered, so the tooltip can follow zooming
   const cellOf = new Map();        // map shape -> cell
-  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "auto", names: true, sheet: "closed", labOverride: null, fromList: false, front: true, isoFrom: "list", fight: true, back: [] };
+  const st = { s: open, mode: "holder", sel: null, tab: "place", types: new Set(types), iso: null, k: 1, x: 0, y: 0, regions: true, marks: true, playing: null, lab: "auto", names: true, front: false, sheet: "closed", labOverride: null, fromList: false, isoFrom: "list", fight: true, back: [] };
   $("snap").textContent = "wiki snapshot " + D.meta.snapshot.slice(0, 10);
 
   // ---- control state: holder of every place at every season, worked out by the build (one source of truth)
@@ -963,7 +962,6 @@ function init(D) {
   $("show-marks").onchange = e => { st.marks = e.target.checked; paint(); };
   const LABS = ["auto", "nations", "territories", "regions", "none"];
   for (const m of LABS) $("lab-" + m).onclick = () => { st.lab = m; st.labOverride = null; for (const x of LABS) $("lab-" + x).setAttribute("aria-pressed", x === m); paint(); };
-  $("show-front").onchange = e => { st.front = e.target.checked; frontiers(); };
   $("show-names").onchange = e => { st.names = e.target.checked; paint(); };
   $("show-fight").onchange = e => { st.fight = e.target.checked; frontiers(); paint(); };
   for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).onclick = () => { if (phone() && st.sheet === "closed") st.sheet = "half"; if (tab !== st.tab) { st.iso = null; if (tab !== "place") st.sel = null; st.back = []; leaveList(); } st.tab = tab; render(); };
