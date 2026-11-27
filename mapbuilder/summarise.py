@@ -30,7 +30,7 @@ from .geometry import MAP_DIR
 MODEL = "claude-opus-5-5"
 EFFORT = os.environ.get("SUMMARY_EFFORT", "high")
 PROMPT_VERSION = 1
-BUDGET = 90.0                         # US dollars, all runs together
+BUDGET = 95.0                         # US dollars, all runs together
 PRICE = {"in": 4.0, "out": 20.0, "cache_read": 0.40, "cache_write": 5.0}  # $ per million tokens
 BATCH_DISCOUNT = 0.5
 OUT = MAP_DIR / "summaries.json"

@@ -52,7 +52,7 @@ Written by Claude via the `ANTHROPIC_API_KEY` repository secret (Settings → Se
 Actions). Run the "Summarise events" workflow from the Actions tab: `limit 20, mode direct` for a
 pilot, then `limit 0, mode batch` for everything (half price). After that the daily update summarises
 new and edited events. `python3 -m mapbuilder.summarise --dry-run` shows what would be sent and the
-estimated cost; the script refuses to go past $90 of recorded spending in total.
+estimated cost; the script refuses to go past $95 of recorded spending in total.
 
 ## Usage
 
