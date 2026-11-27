@@ -273,8 +273,7 @@
    "Leen Rarckan": [
     66,
     60
-   ],
-   "Strategic Considerations": null
+   ]
   },
   "extent": [
    9,
@@ -1736,5 +1735,31 @@
   ],
   "cropped": true,
   "notes": "Uncoloured map with no clear outer border; drawing fills the whole image and runs off the left, top and bottom edges, so extent is essentially the image. 'Yurah' placed at the boxed label that reads 'JURA' on the map (slanted, by the western mountains). A dashed line crosses the south at y 78-100 and a solid line runs down the east side at x~97; these may be the border but that is not certain."
+ },
+ "Mountains of the Moon": {
+  "regions": {
+   "Naucini": null,
+   "Borenj": null,
+   "Obrotnik": null,
+   "Temna": null,
+   "Visoko": null
+  },
+  "extent": null,
+  "cropped": false,
+  "notes": "No region map on the wiki for this territory, so regions are placed from compass words in their descriptions. The audit flags a map if one appears."
+ },
+ "Ayereed": {
+  "regions": {
+   "Cornaghan": null,
+   "Dorghcoul": null,
+   "Gainmeachdubh": null,
+   "Lainteen Strait": null,
+   "Montbeghal": null,
+   "Petrified Forest": null,
+   "Skillahg Hills": null
+  },
+  "extent": null,
+  "cropped": false,
+  "notes": "No region map on the wiki for this territory, so regions are placed from compass words in their descriptions. The audit flags a map if one appears."
  }
 }

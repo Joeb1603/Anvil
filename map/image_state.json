@@ -1,0 +1,193 @@
+{
+ "maps": {
+  "Necropolis": {
+   "file": "File:RegionsofNecropolis.png",
+   "sha1": "a834f10c7711c8c1f584142b653d224523fc17d8"
+  },
+  "Bastion": {
+   "file": "File:RegionsofBastion.png",
+   "sha1": "2c4f190805daed4bae0f5e4ccc5d282b4ebc3985"
+  },
+  "Reikos": {
+   "file": "File:RegionsofReikos.png",
+   "sha1": "45100959a26994b4c30e4254802ae4ff0cd5ea2d"
+  },
+  "Casinea": {
+   "file": "File:RegionsofCasinea.png",
+   "sha1": "3541f4c5be69195142ccf28b14abe6c25cfd17a2"
+  },
+  "Redoubt": {
+   "file": "File:RegionsofRedoubt.png",
+   "sha1": "81f15e3b1608be495eca0471c48c9ab600f754bb"
+  },
+  "Morrow": {
+   "file": "File:RegionsofMorrow.png",
+   "sha1": "2d57a59a232df9ef3af7d18f64ad2676748d9588"
+  },
+  "Zenith": {
+   "file": "File:Regions of Zenith.png",
+   "sha1": "5e163fab34c0d2e2b601041bedce25d39b06ef48"
+  },
+  "Spiral": {
+   "file": "File:RegionsofSpiral.png",
+   "sha1": "7ebf48faacacaf695ffd7f9bf35a5304b638ef9f"
+  },
+  "Mareave": {
+   "file": "File:Mareave.png",
+   "sha1": "dde9b024c3b954b797e86e2023ddcafa35845eda"
+  },
+  "Therunin": {
+   "file": "File:Regionsoftherunin.png",
+   "sha1": "25763048b574c0ee40a76a024e88c70f7579c645"
+  },
+  "Sarangrave": {
+   "file": "File:Regions of Sarangrave.png",
+   "sha1": "ab0d27b2c7138927b30c903bf174ebfcc54322c6"
+  },
+  "Salt Flats of Sanath": {
+   "file": "File:Salt Flats of Sanath Regions.png",
+   "sha1": "bbf40de269c61ab72952c70dcc10bb858bab3658"
+  },
+  "Forest of Ulnak": {
+   "file": "File:Forest of Ulnak regions.png",
+   "sha1": "adac4d5bdb3c7546a8321422bed8b616b2d7b1c3"
+  },
+  "The Barrens": {
+   "file": "File:RegionsofTheBarrens.png",
+   "sha1": "0595fccf1043a67b23c7fed2795c40bd3f516122"
+  },
+  "Holberg": {
+   "file": "File:HolbergRegions.png",
+   "sha1": "c32cd637e69f3423b55ce58670e6b0c13bf55f46"
+  },
+  "Semmerholm": {
+   "file": "File:RegionsofSemmerholm.png",
+   "sha1": "607844385125b37b16ed8c39638368e291fc03f0"
+  },
+  "Weirwater": {
+   "file": "File:RegionsofWeirwater.png",
+   "sha1": "03e1b1260714d818752a9e577cffa2d989885c0b"
+  },
+  "Astolat": {
+   "file": "File:RegionsofAstolat.png",
+   "sha1": "40cf255243cf34df50d4881318f22446675a907b"
+  },
+  "Brocéliande": {
+   "file": "File:BroceliandeRegions.png",
+   "sha1": "75dbe13eb2b2e346a15c14b50a025d55ac0cf488"
+  },
+  "Karov": {
+   "file": "File:RegionsofKarov.png",
+   "sha1": "7196009be72e72d791fb678b15d79a844076e127"
+  },
+  "Ossium": {
+   "file": "File:Region of Ossium.png",
+   "sha1": "21429e86b27c4c66627b4986e7da5be6c80d8a2f"
+  },
+  "Karsk": {
+   "file": "File:Karskregions.png",
+   "sha1": "7cd129246d95bf616aa04beecffc5122f1ec03a5"
+  },
+  "Volodmartz": {
+   "file": "File:RegionsofVolodmartz.png",
+   "sha1": "10a5e27d40c971c50abd74f071f547b7b26aa069"
+  },
+  "Miekarova": {
+   "file": "File:RegionsofMiekarova.png",
+   "sha1": "7836cabe21158ce6d931f32ab87a45fb71fae1c0"
+  },
+  "Verthandi": {
+   "file": "File:Verthandi.png",
+   "sha1": "1274cb718b214627292b5d8719d5907d7876a376"
+  },
+  "Skarsind": {
+   "file": "File:Skarsindregions2.png",
+   "sha1": "ec2f3e70b31deef290380c994d546257480df20a"
+  },
+  "Hercynia": {
+   "file": "File:Regionsofhercynia.png",
+   "sha1": "44bf9c2eb4c23f1d2fbdb4fc03499c60b400c549"
+  },
+  "Hahnmark": {
+   "file": "File:RegionsofHahnmark.png",
+   "sha1": "56a60060ea154a06ae5bfa168281e3bed4ec2283"
+  },
+  "Sermersuaq": {
+   "file": "File:RegionsofSermersuaq.png",
+   "sha1": "cc1655b5e6eb1ea27bb0f4c7b48e87039cf9eb0a"
+  },
+  "Kallavesa": {
+   "file": "File:RegionsofKallavesa.png",
+   "sha1": "5a51c5f6f2bf6d92b220181b428100788104c11e"
+  },
+  "Bregasland": {
+   "file": "File:Bregasland.png",
+   "sha1": "65007c0ea9954edc0c9f11b15e1f19a2e9d1248e"
+  },
+  "Mitwold": {
+   "file": "File:RegionsofMitwold.png",
+   "sha1": "06613da92804a631ba035c56079c4ba82e55bf95"
+  },
+  "Mournwold": {
+   "file": "File:RegionsofMournwold.png",
+   "sha1": "bb7af71dfef606f8f2e8b2a8fd50663f50568f5e"
+  },
+  "Upwold": {
+   "file": "File:RegionsofUpwold.png",
+   "sha1": "7a439de0dfbe9516fc56ceb319e469716388fd78"
+  },
+  "Miaren": {
+   "file": "File:RegionsofMiaren.png",
+   "sha1": "fff8bb4dcf0c91472f4692adfb60cb169ccc79c7"
+  },
+  "Temeschwar": {
+   "file": "File:RegionsofTemeschwar.png",
+   "sha1": "3c853920e2bf912eba96cdb9df07c57133006895"
+  },
+  "Tassato": {
+   "file": "File:RegionsofTassato.png",
+   "sha1": "b02a27cb74647a4cecb4cbf1a955bbbd703c5d30"
+  },
+  "Sarvos": {
+   "file": "File:RegionsofSarvos.png",
+   "sha1": "174ddff90945b76b8bc4279524095a79a80e032c"
+  },
+  "Madruga": {
+   "file": "File:MadrugaBorders.png",
+   "sha1": "243c2ee04d7a26c34cca21d09301e4272b8a02c1"
+  },
+  "Kahraman": {
+   "file": "File:RegionsofKahraman.png",
+   "sha1": "ebf4b292afd899a79612940f8fa14b09c1e125a0"
+  },
+  "Feroz": {
+   "file": "File:RegionsofFeroz.png",
+   "sha1": "f67c23b9331e0da6fef479c4014c7bcb643dd95b"
+  },
+  "Segura": {
+   "file": "File:Regionsofsegura.png",
+   "sha1": "f3e648eef6cdb1838691b8bb9963ccd50e00b812"
+  },
+  "Liathaven": {
+   "file": "File:Regionsofliathaven.png",
+   "sha1": "186dbb5d92721a158cfcbc83dc40e57830c2608f"
+  },
+  "Reinos": {
+   "file": "File:ReinosRegions.png",
+   "sha1": "f9edf02bad9f687bd57dc15b7da557cf4a5b664e"
+  },
+  "Hordalant": {
+   "file": "File:Hordalant.png",
+   "sha1": "f7273c55154be4da702907047268d40e124b8bd7"
+  },
+  "Skallahn": {
+   "file": "File:Skallahn-map.png",
+   "sha1": "6dbc6491b232b80ea2eca7de411b209d207d83bd"
+  },
+  "Tromsa": {
+   "file": "File:TromsaRegions.png",
+   "sha1": "8552d147aa1064b0d324950797d7e73ab68c86a0"
+  }
+ },
+ "uploads_checked_through": "2026-10-01T00:00:00Z"
+}

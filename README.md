@@ -21,17 +21,26 @@ is made and how far to trust each layer.
 
 ## Automatic updates
 
+Nothing needs doing by hand except reviewing pull requests.
+
 - **Archive and atlas events:** `.github/workflows/update.yml` checks the wiki every morning
   (04:17 UTC). It runs on Mondays, and on any day while a summit is approaching, which it detects
   from new Winds of Fortune or Winds of War pages in the last three weeks. It downloads only pages
   edited since the last run, rebuilds the archive and the atlas, commits to `main` and republishes
   the site. Run it by hand from the Actions tab with "Run workflow".
-- **Who holds what:** a Claude scheduled task runs on Mondays and Thursdays. It reads any campaign
-  reports newer than `map/control_raw/meta.json` says were processed, records the changes of
-  control in a new file in `map/control_raw/`, and opens a pull request for review. Merging it
-  rebuilds and republishes the atlas.
-- **Manual:** placing new regions on the map (`map/region_labels.json`) and newly explored places
-  (`map/extra_territories.json`).
+- **Everything that needs reading or looking:** a Claude scheduled task runs on Mondays and
+  Thursdays. It runs `python3 -m mapbuilder.audit`, which lists:
+  - Winds of War reports not yet read into `map/control_raw/`;
+  - regions with no map position (new or renamed), and territory region maps redrawn since they
+    were last read;
+  - images uploaded to the wiki since the last check, with the pages that use them;
+  - unfamiliar place names that keep turning up in recent reports.
+
+  The task reads the reports, looks at the maps and images (with `python3 -m mapbuilder.imagetools`,
+  which adds a reading grid), and updates the control history, region positions and
+  `map/extra_territories.json`. It then checks the atlas builds and pushes a `claude/atlas-*`
+  branch. `.github/workflows/open-pr.yml` opens the pull request if the task couldn't. Merging it
+  rebuilds and republishes the atlas. On days with nothing new, it stops straight away.
 
 ## Usage
 
@@ -39,6 +48,7 @@ is made and how far to trust each layer.
 python3 -m scraper.run               # full run: discover, fetch, classify, render, index, verify
 python3 -m scraper.run --skip-fetch  # re-sort and re-render from the local cache
 python3 -m mapbuilder.run            # rebuild the atlas from the archive
+python3 -m mapbuilder.audit          # what the scheduled task should look at next
 python3 -m scraper.package           # zip the complete archive, song pages included
 ```
 
