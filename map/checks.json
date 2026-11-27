@@ -4,7 +4,12 @@
   {
    "check": "summary-missing",
    "key": "count",
-   "msg": "1950 of 1970 events have no written summary yet (e.g. Construct shrine for Britta's body, Fortify Town defences, Raise Highguard army); run the 'Summarise events' workflow."
+   "msg": "1950 of 1969 events have no written summary yet (e.g. Construct shrine for Britta's body, Fortify Town defences, Raise Highguard army); run the 'Summarise events' workflow."
+  },
+  {
+   "check": "summary-stale",
+   "key": "Cost",
+   "msg": "Cost: summary covers Sarvos, which the atlas no longer attaches to it; it will be rewritten on the next run."
   }
  ],
  "accepted": [

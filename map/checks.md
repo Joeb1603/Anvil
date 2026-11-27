@@ -2,13 +2,17 @@
 
 Written by every build (`python3 -m mapbuilder.run`). Failures mean the map probably shows something wrong; warnings mean something may be missing. Explained exceptions go in `checks_accepted.json`.
 
-**0 failures, 1 warnings, 12 accepted.**
+**0 failures, 2 warnings, 12 accepted.**
 
 ## Warnings
 
 ### summary-missing (1)
 
-- 1950 of 1970 events have no written summary yet (e.g. Construct shrine for Britta's body, Fortify Town defences, Raise Highguard army); run the 'Summarise events' workflow.
+- 1950 of 1969 events have no written summary yet (e.g. Construct shrine for Britta's body, Fortify Town defences, Raise Highguard army); run the 'Summarise events' workflow.
+
+### summary-stale (1)
+
+- Cost: summary covers Sarvos, which the atlas no longer attaches to it; it will be rewritten on the next run.
 
 ## Accepted
 

@@ -98,9 +98,9 @@ def build_events() -> dict:
     not_about = [
         re.compile(r"(?im)^.*\b(proposed|seconded|provided by|withdrawn by)\b.*$"),
         re.compile(r"(?i)\bsenators?\s+(?:for\s+|of\s+)?(?=[A-Z])"),
-        re.compile(r"(?<![\w'’-])(?:von|van|vun|de|di|da|del|della|du|var|i)\s+(?=[A-Z])"),
+        re.compile(r"(?<![\w'’-])(?:(?i:von|van|vun|de|di|da|del|della|du|var)|i)\s+(?=[A-Z])"),
     ]
-    surname = re.compile(r"(?<![\w'’-])(?:von|van|vun|de|di|da|del|della|du|var|i)\s+$")
+    surname = re.compile(r"(?<![\w'’-])(?:(?i:von|van|vun|de|di|da|del|della|du|var)|i)\s+$")
     senator = re.compile(r"(?i)\bsenators?\s+(?:for\s+|of\s+)?$")
     # Lists of who holds which title name every territory as a constituency: link-based places only.
     rosters = re.compile(r"(?i)elections|imperial titles|roll of honou?r|senate sessions|judgements|"
