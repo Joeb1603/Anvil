@@ -8,8 +8,8 @@
   null
  ],
  "Imperial Orcs": [
-  "s1",
-  "dots"
+  "s9",
+  null
  ],
  "Navarr": [
   "s6",
@@ -28,8 +28,8 @@
   null
  ],
  "Urizen": [
-  "s7",
-  "dots"
+  "s10",
+  null
  ],
  "Varushka": [
   "s8",
@@ -57,7 +57,7 @@
  ],
  "The Empire": [
   "emp",
-  "dots"
+  null
  ],
  "Vallorn": [
   "vallorn",
@@ -73,7 +73,7 @@
  ],
  "Iron Confederacy": [
   "n1",
-  "dots"
+  "hatch"
  ],
  "Feni": [
   "n1",
@@ -81,7 +81,7 @@
  ],
  "Lasambrian orcs": [
   "n1",
-  "dots"
+  "hatch"
  ],
  "Beoraidh": [
   "n1",
@@ -89,7 +89,7 @@
  ],
  "Sand Fishers": [
   "n1",
-  "dots"
+  "hatch"
  ],
  "Barrens orcs": [
   "n1",
@@ -97,7 +97,7 @@
  ],
  "Children of Wrecks": [
   "n1",
-  "dots"
+  "hatch"
  ],
  "Great Forest Orcs": [
   "n1",
@@ -105,7 +105,7 @@
  ],
  "Llofir": [
   "n1",
-  "dots"
+  "hatch"
  ],
  "Silver Flame": [
   "n1",
@@ -113,7 +113,7 @@
  ],
  "Rahvin": [
   "n1",
-  "dots"
+  "hatch"
  ],
  "Sarangrave rebels": [
   "n1",
@@ -121,7 +121,7 @@
  ],
  "Protectorate of Morajasse": [
   "n1",
-  "dots"
+  "hatch"
  ],
  "Axos": [
   "n1",

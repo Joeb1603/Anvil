@@ -448,12 +448,18 @@ def build(archive_links=True):
     lock_path = MAP_DIR / "holder_colours.json"
     lock = json.loads(lock_path.read_text()) if lock_path.exists() else {}
     # colours of their own for the holders that matter on the map, so only minor foreign powers are grey
-    special = {"Vallorn": ["vallorn", None], "Uncontrolled": ["free", None], "The Empire": ["emp", "dots"]}
+    # Imperial nations are solid colours; everyone else (barbarians, foreign powers) is hatched. Imperial
+    # Orcs and Urizen get colours of their own (s9, s10) rather than sharing one with a dot pattern.
+    special = {"Vallorn": ["vallorn", None], "Uncontrolled": ["free", None], "The Empire": ["emp", None],
+               "Imperial Orcs": ["s9", None], "Urizen": ["s10", None]}
     for hd in holders:
         if hd["id"] in special:
             lock[hd["id"]] = special[hd["id"]]
         if hd["id"] in lock:
             hd["slot"], hd["pattern"] = lock[hd["id"]]
+        if hd["group"] != "Imperial nations" and hd["id"] not in special and hd["id"] != "unknown":
+            hd["pattern"] = "hatch"
+            lock[hd["id"]] = [hd["slot"], "hatch"]
         else:
             lock[hd["id"]] = [hd["slot"], hd["pattern"]]
     lock_path.write_text(json.dumps(lock, indent=1, ensure_ascii=False) + "\n")
