@@ -1,14 +1,13 @@
 # 377YE Winter
 
-Every page tagged to this event, grouped by topic (32 pages).
+Every page tagged to this event, grouped by topic (30 pages).
 
 ## conclave-sessions (1)
 
 - [377YE Winter Solstice Conclave sessions](../../in-character/conclave-sessions/377YE_Winter_Solstice_Conclave_sessions.md)
 
-## senate-motions (26)
+## senate-motions (24)
 
-- [Allocate The Brilliant Shore](../../in-character/senate-motions/Allocate_The_Brilliant_Shore.md)
 - [Amend Powers of the Quartermaster General](../../in-character/senate-motions/Amend_Powers_of_the_Quartermaster_General.md)
 - [Amend Synod power of Recognition](../../in-character/senate-motions/Amend_Synod_power_of_Recognition.md)
 - [Appoint a General for the Golden Sun army](../../in-character/senate-motions/Appoint_a_General_for_the_Golden_Sun_army.md)
@@ -16,7 +15,6 @@ Every page tagged to this event, grouped by topic (32 pages).
 - [Appoint Imperial Master of Works](../../in-character/senate-motions/Appoint_Imperial_Master_of_Works.md)
 - [Clarify the powers of the Minister of Historical Research](../../in-character/senate-motions/Clarify_the_powers_of_the_Minister_of_Historical_Research.md)
 - [Clarify the powers of the Quartermaster General](../../in-character/senate-motions/Clarify_the_powers_of_the_Quartermaster_General.md)
-- [Commission roll of honour](../../in-character/senate-motions/Commission_roll_of_honour.md)
 - [Construct Asavean Embassy](../../in-character/senate-motions/Construct_Asavean_Embassy.md)
 - [Construct Jarmish Embassy](../../in-character/senate-motions/Construct_Jarmish_Embassy.md)
 - [Create title of Bursar of the Imperial Academy](../../in-character/senate-motions/Create_title_of_Bursar_of_the_Imperial_Academy.md)

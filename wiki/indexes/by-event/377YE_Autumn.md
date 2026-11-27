@@ -1,13 +1,14 @@
 # 377YE Autumn
 
-Every page tagged to this event, grouped by topic (16 pages).
+Every page tagged to this event, grouped by topic (17 pages).
 
 ## conclave-sessions (1)
 
 - [377YE Autumn Equinox Conclave declarations](../../in-character/conclave-sessions/377YE_Autumn_Equinox_Conclave_declarations.md)
 
-## senate-motions (12)
+## senate-motions (13)
 
+- [Allocate The Brilliant Shore](../../in-character/senate-motions/Allocate_The_Brilliant_Shore.md)
 - [Assignment of Skarsind](../../in-character/senate-motions/Assignment_of_Skarsind.md)
 - [Commission Imperial audit](../../in-character/senate-motions/Commission_Imperial_audit.md)
 - [Construct a memorial at Anvil](../../in-character/senate-motions/Construct_a_memorial_at_Anvil.md)

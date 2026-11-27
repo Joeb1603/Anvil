@@ -97,7 +97,7 @@ def build_indexes() -> dict:
             text += f"\n## {topic} ({len(by_topic[topic])})\n\n" + "\n".join(
                 f"- {link(i, here)}" for i in by_topic[topic]) + "\n"
         write(f"{here}/{safe_name(ev)}.md", text)
-    text = "# Events\n\nImperial years run Winter, Spring, Summer, Autumn.\n\n"
+    text = "# Events\n\nImperial years run Spring, Summer, Autumn, Winter.\n\n"
     text += "\n".join(f"- [{ev}]({safe_name(ev)}.md) ({len(events[ev])} pages)" for ev in ordered_events)
     write(f"{here}/README.md", text)
 

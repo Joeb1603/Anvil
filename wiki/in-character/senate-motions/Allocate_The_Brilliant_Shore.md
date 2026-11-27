@@ -7,7 +7,7 @@ categories:
 - Senate Motion
 - 377YE Autumn
 - 377YE Winter
-event: 377YE Winter
+event: 377YE Autumn
 last_edited: '2026-01-16T09:36:49Z'
 revision: 132671
 aliases:

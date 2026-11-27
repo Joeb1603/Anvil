@@ -6,10 +6,6 @@
 
 - [377YE Winter Solstice winds of war](../in-character/winds-of-war/377YE_Winter_Solstice_winds_of_war.md)
 
-## 378YE Winter (1)
-
-- [378YE Winter Solstice winds of war](../in-character/winds-of-war/378YE_Winter_Solstice_winds_of_war.md)
-
 ## 378YE Spring (1)
 
 - [378YE Spring Equinox winds of war](../in-character/winds-of-war/378YE_Spring_Equinox_winds_of_war.md)
@@ -22,9 +18,9 @@
 
 - [378YE Autumn Equinox winds of war](../in-character/winds-of-war/378YE_Autumn_Equinox_winds_of_war.md)
 
-## 379YE Winter (1)
+## 378YE Winter (1)
 
-- [379YE Winter Solstice winds of war](../in-character/winds-of-war/379YE_Winter_Solstice_winds_of_war.md)
+- [378YE Winter Solstice winds of war](../in-character/winds-of-war/378YE_Winter_Solstice_winds_of_war.md)
 
 ## 379YE Spring (1)
 
@@ -38,9 +34,9 @@
 
 - [379YE Autumn Equinox winds of war](../in-character/winds-of-war/379YE_Autumn_Equinox_winds_of_war.md)
 
-## 380YE Winter (1)
+## 379YE Winter (1)
 
-- [380YE Winter Solstice winds of war](../in-character/winds-of-war/380YE_Winter_Solstice_winds_of_war.md)
+- [379YE Winter Solstice winds of war](../in-character/winds-of-war/379YE_Winter_Solstice_winds_of_war.md)
 
 ## 380YE Spring (1)
 
@@ -54,9 +50,9 @@
 
 - [380YE Autumn Equinox winds of war](../in-character/winds-of-war/380YE_Autumn_Equinox_winds_of_war.md)
 
-## 381YE Winter (1)
+## 380YE Winter (1)
 
-- [381YE Winter Solstice winds of war](../in-character/winds-of-war/381YE_Winter_Solstice_winds_of_war.md)
+- [380YE Winter Solstice winds of war](../in-character/winds-of-war/380YE_Winter_Solstice_winds_of_war.md)
 
 ## 381YE Spring (1)
 
@@ -70,9 +66,9 @@
 
 - [381YE Autumn Equinox winds of war](../in-character/winds-of-war/381YE_Autumn_Equinox_winds_of_war.md)
 
-## 382YE Winter (1)
+## 381YE Winter (1)
 
-- [382YE Winter Solstice winds of war](../in-character/winds-of-war/382YE_Winter_Solstice_winds_of_war.md)
+- [381YE Winter Solstice winds of war](../in-character/winds-of-war/381YE_Winter_Solstice_winds_of_war.md)
 
 ## 382YE Spring (1)
 
@@ -86,9 +82,9 @@
 
 - [382YE Autumn Equinox winds of war](../in-character/winds-of-war/382YE_Autumn_Equinox_winds_of_war.md)
 
-## 383YE Winter (1)
+## 382YE Winter (1)
 
-- [383YE Winter Solstice winds of war](../in-character/winds-of-war/383YE_Winter_Solstice_winds_of_war.md)
+- [382YE Winter Solstice winds of war](../in-character/winds-of-war/382YE_Winter_Solstice_winds_of_war.md)
 
 ## 383YE Spring (1)
 
@@ -102,16 +98,9 @@
 
 - [383YE Autumn Equinox winds of war](../in-character/winds-of-war/383YE_Autumn_Equinox_winds_of_war.md)
 
-## 384YE Winter (8)
+## 383YE Winter (1)
 
-- [384YE Winter Solstice winds of war](../in-character/winds-of-war/384YE_Winter_Solstice_winds_of_war.md)
-- [Burning](../in-character/winds-of-war/Burning.md)
-- [Fire on fire](../in-character/winds-of-war/Fire_on_fire.md)
-- [In each line lies another line](../in-character/winds-of-war/In_each_line_lies_another_line.md)
-- [In the lonely hour](../mixed/government/military/In_the_lonely_hour.md)
-- [No Peace](../in-character/winds-of-war/No_Peace.md)
-- [One last song](../in-character/winds-of-war/One_last_song.md)
-- [Two silhouettes](../in-character/winds-of-war/Two_silhouettes.md)
+- [383YE Winter Solstice winds of war](../in-character/winds-of-war/383YE_Winter_Solstice_winds_of_war.md)
 
 ## 384YE Spring (7)
 
@@ -145,14 +134,16 @@
 - [The darkest road](../in-character/winds-of-war/The_darkest_road.md)
 - [Under heaven](../in-character/winds-of-war/Under_heaven.md)
 
-## 385YE Winter (6)
+## 384YE Winter (8)
 
-- [385YE Winter Solstice winds of war](../in-character/winds-of-war/385YE_Winter_Solstice_winds_of_war.md)
-- [A beacon of smoke](../in-character/winds-of-war/A_beacon_of_smoke.md)
-- [Against the Jotun](../in-character/winds-of-war/Against_the_Jotun.md)
-- [Between stone and salt](../in-character/winds-of-war/Between_stone_and_salt.md)
-- [Ripples and shadows](../in-character/winds-of-war/Ripples_and_shadows.md)
-- [Things that burn](../in-character/winds-of-war/Things_that_burn.md)
+- [384YE Winter Solstice winds of war](../in-character/winds-of-war/384YE_Winter_Solstice_winds_of_war.md)
+- [Burning](../in-character/winds-of-war/Burning.md)
+- [Fire on fire](../in-character/winds-of-war/Fire_on_fire.md)
+- [In each line lies another line](../in-character/winds-of-war/In_each_line_lies_another_line.md)
+- [In the lonely hour](../mixed/government/military/In_the_lonely_hour.md)
+- [No Peace](../in-character/winds-of-war/No_Peace.md)
+- [One last song](../in-character/winds-of-war/One_last_song.md)
+- [Two silhouettes](../in-character/winds-of-war/Two_silhouettes.md)
 
 ## 385YE Spring (6)
 
@@ -178,14 +169,14 @@
 - [A walk in shadow](../in-character/winds-of-war/A_walk_in_shadow.md)
 - [To the last syllable](../in-character/winds-of-war/To_the_last_syllable.md)
 
-## 386YE Winter (6)
+## 385YE Winter (6)
 
-- [386YE Winter Solstice Military Council orders](../in-character/military-council-orders/386YE_Winter_Solstice_Military_Council_orders.md)
-- [386YE Winter Solstice winds of war](../in-character/winds-of-war/386YE_Winter_Solstice_winds_of_war.md)
-- [By northern shores](../in-character/winds-of-war/By_northern_shores.md)
-- [On southern sands](../in-character/winds-of-war/On_southern_sands.md)
-- [Over western hills](../in-character/winds-of-war/Over_western_hills.md)
-- [Under eastern skies](../in-character/winds-of-war/Under_eastern_skies.md)
+- [385YE Winter Solstice winds of war](../in-character/winds-of-war/385YE_Winter_Solstice_winds_of_war.md)
+- [A beacon of smoke](../in-character/winds-of-war/A_beacon_of_smoke.md)
+- [Against the Jotun](../in-character/winds-of-war/Against_the_Jotun.md)
+- [Between stone and salt](../in-character/winds-of-war/Between_stone_and_salt.md)
+- [Ripples and shadows](../in-character/winds-of-war/Ripples_and_shadows.md)
+- [Things that burn](../in-character/winds-of-war/Things_that_burn.md)
 
 ## 386YE Spring (6)
 
@@ -217,17 +208,14 @@
 - [The gathering storm](../mixed/government/military/The_gathering_storm.md)
 - [The wild wind rises](../in-character/winds-of-war/The_wild_wind_rises.md)
 
-## 387YE Winter (9)
+## 386YE Winter (6)
 
-- [387YE Winter Solstice Military Council orders](../in-character/military-council-orders/387YE_Winter_Solstice_Military_Council_orders.md)
-- [387YE Winter Solstice winds of war](../in-character/winds-of-war/387YE_Winter_Solstice_winds_of_war.md)
-- [Blood-red blooms](../in-character/winds-of-war/Blood-red_blooms.md)
-- [Crimson and green](../in-character/winds-of-war/Crimson_and_green.md)
-- [Fire and the flood](../in-character/winds-of-war/Fire_and_the_flood.md)
-- [Red skies](../in-character/winds-of-war/Red_skies.md)
-- [Rose grow the rushes o'](../in-character/winds-of-war/Rose_grow_the_rushes_o.md)
-- [Rubies in the snow](../in-character/winds-of-war/Rubies_in_the_snow.md)
-- [Scarlet sands](../in-character/winds-of-war/Scarlet_sands.md)
+- [386YE Winter Solstice Military Council orders](../in-character/military-council-orders/386YE_Winter_Solstice_Military_Council_orders.md)
+- [386YE Winter Solstice winds of war](../in-character/winds-of-war/386YE_Winter_Solstice_winds_of_war.md)
+- [By northern shores](../in-character/winds-of-war/By_northern_shores.md)
+- [On southern sands](../in-character/winds-of-war/On_southern_sands.md)
+- [Over western hills](../in-character/winds-of-war/Over_western_hills.md)
+- [Under eastern skies](../in-character/winds-of-war/Under_eastern_skies.md)
 
 ## 387YE Spring (7)
 
@@ -260,6 +248,18 @@
 - [Songs like trees](../in-character/winds-of-war/Songs_like_trees.md)
 - [Those that break a thing](../in-character/winds-of-war/Those_that_break_a_thing.md)
 - [To ruin](../in-character/winds-of-war/To_ruin.md)
+
+## 387YE Winter (9)
+
+- [387YE Winter Solstice Military Council orders](../in-character/military-council-orders/387YE_Winter_Solstice_Military_Council_orders.md)
+- [387YE Winter Solstice winds of war](../in-character/winds-of-war/387YE_Winter_Solstice_winds_of_war.md)
+- [Blood-red blooms](../in-character/winds-of-war/Blood-red_blooms.md)
+- [Crimson and green](../in-character/winds-of-war/Crimson_and_green.md)
+- [Fire and the flood](../in-character/winds-of-war/Fire_and_the_flood.md)
+- [Red skies](../in-character/winds-of-war/Red_skies.md)
+- [Rose grow the rushes o'](../in-character/winds-of-war/Rose_grow_the_rushes_o.md)
+- [Rubies in the snow](../in-character/winds-of-war/Rubies_in_the_snow.md)
+- [Scarlet sands](../in-character/winds-of-war/Scarlet_sands.md)
 
 ## 388YE Spring (9)
 

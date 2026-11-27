@@ -10,10 +10,6 @@
 
 - [The stars aren't right](../in-character/winds-of-fortune/The_stars_aren-t_right.md)
 
-## 380YE Winter (1)
-
-- [Beware my power](../in-character/winds-of-fortune/Beware_my_power.md)
-
 ## 380YE Spring (1)
 
 - [Handful of magic](../in-character/winds-of-fortune/Handful_of_magic.md)
@@ -22,9 +18,9 @@
 
 - [Empty skies (winds of magic)](../in-character/winds-of-fortune/Empty_skies_-winds_of_magic.md)
 
-## 381YE Winter (1)
+## 380YE Winter (1)
 
-- [Foggy mountain top](../in-character/winds-of-fortune/Foggy_mountain_top.md)
+- [Beware my power](../in-character/winds-of-fortune/Beware_my_power.md)
 
 ## 381YE Spring (1)
 
@@ -38,9 +34,9 @@
 
 - [Seals and stars](../in-character/winds-of-fortune/Seals_and_stars.md)
 
-## 382YE Winter (1)
+## 381YE Winter (1)
 
-- [The mystic, the willful](../in-character/winds-of-fortune/The_mystic-_the_willful.md)
+- [Foggy mountain top](../in-character/winds-of-fortune/Foggy_mountain_top.md)
 
 ## 382YE Spring (2)
 
@@ -55,9 +51,9 @@
 
 - [Oh so intricate](../in-character/winds-of-fortune/Oh_so_intricate.md)
 
-## 383YE Winter (1)
+## 382YE Winter (1)
 
-- [Towers behind the moon](../in-character/winds-of-fortune/Towers_behind_the_moon.md)
+- [The mystic, the willful](../in-character/winds-of-fortune/The_mystic-_the_willful.md)
 
 ## 383YE Summer (1)
 
@@ -67,10 +63,9 @@
 
 - [Power, corruption, and lies](../in-character/winds-of-fortune/Power-_corruption-_and_lies.md)
 
-## 384YE Winter (2)
+## 383YE Winter (1)
 
-- [Enchanted](../in-character/winds-of-fortune/Enchanted.md)
-- [Shake it off](../in-character/winds-of-fortune/Shake_it_off.md)
+- [Towers behind the moon](../in-character/winds-of-fortune/Towers_behind_the_moon.md)
 
 ## 384YE Spring (1)
 
@@ -84,9 +79,10 @@
 
 - [A yellow star hung](../in-character/winds-of-fortune/A_yellow_star_hung.md)
 
-## 385YE Winter (1)
+## 384YE Winter (2)
 
-- [All my magic friends](../in-character/winds-of-fortune/All_my_magic_friends.md)
+- [Enchanted](../in-character/winds-of-fortune/Enchanted.md)
+- [Shake it off](../in-character/winds-of-fortune/Shake_it_off.md)
 
 ## 385YE Spring (1)
 
@@ -101,9 +97,9 @@
 
 - [Various storms and saints](../in-character/winds-of-fortune/Various_storms_and_saints.md)
 
-## 386YE Winter (1)
+## 385YE Winter (1)
 
-- [Patterns of fairytales](../in-character/winds-of-fortune/Patterns_of_fairytales.md)
+- [All my magic friends](../in-character/winds-of-fortune/All_my_magic_friends.md)
 
 ## 386YE Spring (1)
 
@@ -119,11 +115,9 @@
 - [As it is when it was](../in-character/winds-of-fortune/As_it_is_when_it_was.md)
 - [Hey now how you doing?](../in-character/winds-of-fortune/Hey_now_how_you_doing.md)
 
-## 387YE Winter (3)
+## 386YE Winter (1)
 
-- [The thing with feathers](../in-character/winds-of-fortune/The_thing_with_feathers.md)
-- [The tune without the words](../in-character/winds-of-fortune/The_tune_without_the_words.md)
-- [What regulates the wheel?](../in-character/winds-of-fortune/What_regulates_the_wheel.md)
+- [Patterns of fairytales](../in-character/winds-of-fortune/Patterns_of_fairytales.md)
 
 ## 387YE Spring (2)
 
@@ -139,6 +133,12 @@
 
 - [Upon a midnight dreary](../in-character/winds-of-fortune/Upon_a_midnight_dreary.md)
 - [Volumes of forgotten lore](../in-character/winds-of-fortune/Volumes_of_forgotten_lore.md)
+
+## 387YE Winter (3)
+
+- [The thing with feathers](../in-character/winds-of-fortune/The_thing_with_feathers.md)
+- [The tune without the words](../in-character/winds-of-fortune/The_tune_without_the_words.md)
+- [What regulates the wheel?](../in-character/winds-of-fortune/What_regulates_the_wheel.md)
 
 ## 388YE Spring (3)
 

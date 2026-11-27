@@ -13,7 +13,8 @@ from .common import DATA, MAPPING, PAGE_CACHE, RENDER_NAMESPACES, read_json, wri
 
 EVENT_RE = re.compile(r"^(\d{3})YE (Spring|Summer|Autumn|Winter)$")
 TITLE_EVENT_RE = re.compile(r"(\d{3})\s?YE (Spring|Summer|Autumn|Winter)")
-SEASON_ORDER = {"Winter": 0, "Spring": 1, "Summer": 2, "Autumn": 3}
+# The Winter Solstice is the last summit of an Imperial year.
+SEASON_ORDER = {"Spring": 0, "Summer": 1, "Autumn": 2, "Winter": 3}
 
 
 def event_key(event: str):

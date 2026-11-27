@@ -541,7 +541,7 @@
 | [Allocate Great Forest II](../in-character/senate-motions/Allocate_Great_Forest_II.md) | in-character | senate-motions | 380YE Spring |
 | [Allocate Great Pits of Ennerlund](../in-character/senate-motions/Allocate_Great_Pits_of_Ennerlund.md) | in-character | senate-motions | 379YE Winter |
 | [Allocate Legacy](../in-character/senate-motions/Allocate_Legacy.md) | in-character | senate-motions | 380YE Summer |
-| [Allocate The Brilliant Shore](../in-character/senate-motions/Allocate_The_Brilliant_Shore.md) | in-character | senate-motions | 377YE Winter |
+| [Allocate The Brilliant Shore](../in-character/senate-motions/Allocate_The_Brilliant_Shore.md) | in-character | senate-motions | 377YE Autumn |
 | [Allocate the Damatian Cliffs](../in-character/senate-motions/Allocate_the_Damatian_Cliffs.md) | in-character | senate-motions | 381YE Summer |
 | [Allocate the Great Mine of Briante](../in-character/senate-motions/Allocate_the_Great_Mine_of_Briante.md) | in-character | senate-motions | 380YE Autumn |
 | [Allocate the Legacy Spring 382YE](../in-character/senate-motions/Allocate_the_Legacy_Spring_382YE.md) | in-character | senate-motions | 382YE Spring |
@@ -1354,7 +1354,7 @@
 | [Commission Egregore histories](../in-character/senate-motions/Commission_Egregore_histories.md) | in-character | senate-motions | 377YE Spring |
 | [Commission Imperial audit](../in-character/senate-motions/Commission_Imperial_audit.md) | in-character | senate-motions | 377YE Autumn |
 | [Commission report on Morrow evacuation](../in-character/senate-motions/Commission_report_on_Morrow_evacuation.md) | in-character | senate-motions | 382YE Autumn |
-| [Commission roll of honour](../in-character/senate-motions/Commission_roll_of_honour.md) | in-character | senate-motions | 377YE Winter |
+| [Commission roll of honour](../in-character/senate-motions/Commission_roll_of_honour.md) | in-character | senate-motions | 377YE Spring |
 | [Common attitudes](../in-character/world/Common_attitudes.md) | in-character | world |  |
 | [Commonwealth](../in-character/foreign-nations/Commonwealth.md) | in-character | foreign-nations |  |
 | [Concede territory of Segura to Lasambrian Jotun](../in-character/senate-motions/Concede_territory_of_Segura_to_Lasambrian_Jotun.md) | in-character | senate-motions | 383YE Spring |

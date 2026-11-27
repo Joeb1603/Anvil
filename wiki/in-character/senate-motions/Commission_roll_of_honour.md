@@ -7,7 +7,7 @@ categories:
 - Senate Motion
 - 377YE Spring
 - 377YE Winter
-event: 377YE Winter
+event: 377YE Spring
 last_edited: '2026-01-22T01:27:28Z'
 revision: 133449
 in_character_boxes: 2

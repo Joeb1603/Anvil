@@ -2,27 +2,6 @@
 
 203 pages in the wiki's Mandate category, oldest event first.
 
-## 383YE Winter (18)
-
-- [A health to the company](../in-character/winds-of-fortune/A_health_to_the_company.md)
-- [All at sea](../in-character/winds-of-fortune/All_at_sea.md)
-- [All lift together](../in-character/winds-of-fortune/All_lift_together.md)
-- [Between wind and water](../in-character/winds-of-fortune/Between_wind_and_water.md)
-- [Beyond the light](../in-character/winds-of-fortune/Beyond_the_light.md)
-- [Daughters of the Empire](../in-character/winds-of-fortune/Daughters_of_the_Empire.md)
-- [From the sieve of your hands](../in-character/winds-of-fortune/From_the_sieve_of_your_hands.md)
-- [Hard times come again no more](../in-character/winds-of-fortune/Hard_times_come_again_no_more.md)
-- [Seize the moments](../in-character/winds-of-fortune/Seize_the_moments.md)
-- [Signs and sigils](../in-character/winds-of-fortune/Signs_and_sigils.md)
-- [Smoke and oakum](../in-character/winds-of-fortune/Smoke_and_oakum.md)
-- [The price of wisdom](../in-character/winds-of-fortune/The_price_of_wisdom.md)
-- [The virtue of sharing](../in-character/winds-of-fortune/The_virtue_of_sharing.md)
-- [The winds of fashion](../in-character/winds-of-fortune/The_winds_of_fashion.md)
-- [Three celebrations and a funeral](../in-character/winds-of-fortune/Three_celebrations_and_a_funeral.md)
-- [To curb those raging appetites](../in-character/winds-of-fortune/To_curb_those_raging_appetites.md)
-- [Whither the seed](../in-character/winds-of-fortune/Whither_the_seed.md)
-- [Written in salt](../in-character/winds-of-fortune/Written_in_salt.md)
-
 ## 383YE Spring (7)
 
 - [A strange land](../in-character/winds-of-fortune/A_strange_land.md)
@@ -62,17 +41,26 @@
 - [Three soldiers](../in-character/winds-of-fortune/Three_soldiers.md)
 - [Woven as a weapon](../in-character/winds-of-fortune/Woven_as_a_weapon.md)
 
-## 384YE Winter (9)
+## 383YE Winter (18)
 
-- [All too well](../in-character/winds-of-fortune/All_too_well.md)
-- [Chime the sound](../in-character/winds-of-fortune/Chime_the_sound.md)
-- [Don't blame me](../in-character/winds-of-fortune/Don-t_blame_me.md)
-- [Folklore](../in-character/winds-of-fortune/Folklore.md)
-- [Full of sacred sound](../in-character/winds-of-fortune/Full_of_sacred_sound.md)
-- [Snow might fall](../in-character/winds-of-fortune/Snow_might_fall.md)
-- [The silent page](../in-character/winds-of-fortune/The_silent_page.md)
-- [Watching my mistakes](../in-character/winds-of-fortune/Watching_my_mistakes.md)
-- [You belong with me](../in-character/winds-of-fortune/You_belong_with_me.md)
+- [A health to the company](../in-character/winds-of-fortune/A_health_to_the_company.md)
+- [All at sea](../in-character/winds-of-fortune/All_at_sea.md)
+- [All lift together](../in-character/winds-of-fortune/All_lift_together.md)
+- [Between wind and water](../in-character/winds-of-fortune/Between_wind_and_water.md)
+- [Beyond the light](../in-character/winds-of-fortune/Beyond_the_light.md)
+- [Daughters of the Empire](../in-character/winds-of-fortune/Daughters_of_the_Empire.md)
+- [From the sieve of your hands](../in-character/winds-of-fortune/From_the_sieve_of_your_hands.md)
+- [Hard times come again no more](../in-character/winds-of-fortune/Hard_times_come_again_no_more.md)
+- [Seize the moments](../in-character/winds-of-fortune/Seize_the_moments.md)
+- [Signs and sigils](../in-character/winds-of-fortune/Signs_and_sigils.md)
+- [Smoke and oakum](../in-character/winds-of-fortune/Smoke_and_oakum.md)
+- [The price of wisdom](../in-character/winds-of-fortune/The_price_of_wisdom.md)
+- [The virtue of sharing](../in-character/winds-of-fortune/The_virtue_of_sharing.md)
+- [The winds of fashion](../in-character/winds-of-fortune/The_winds_of_fashion.md)
+- [Three celebrations and a funeral](../in-character/winds-of-fortune/Three_celebrations_and_a_funeral.md)
+- [To curb those raging appetites](../in-character/winds-of-fortune/To_curb_those_raging_appetites.md)
+- [Whither the seed](../in-character/winds-of-fortune/Whither_the_seed.md)
+- [Written in salt](../in-character/winds-of-fortune/Written_in_salt.md)
 
 ## 384YE Spring (10)
 
@@ -102,19 +90,17 @@
 - [The city asleep](../in-character/winds-of-fortune/The_city_asleep.md)
 - [Throw back the echoes](../in-character/winds-of-fortune/Throw_back_the_echoes.md)
 
-## 385YE Winter (11)
+## 384YE Winter (9)
 
-- [Blue flowers in the snow](../in-character/winds-of-fortune/Blue_flowers_in_the_snow.md)
-- [Broken sword](../in-character/winds-of-fortune/Broken_sword.md)
-- [Church of your heart](../in-character/winds-of-fortune/Church_of_your_heart.md)
-- [Forwards and Rewards](../in-character/winds-of-fortune/Forwards_and_Rewards.md)
-- [Hear your footsteps](../in-character/winds-of-fortune/Hear_your_footsteps.md)
-- [Knocking on every door](../in-character/winds-of-fortune/Knocking_on_every_door.md)
-- [Listen to your heart](../in-character/winds-of-fortune/Listen_to_your_heart.md)
-- [Part of this together](../in-character/winds-of-fortune/Part_of_this_together.md)
-- [Standing in the sun](../in-character/winds-of-fortune/Standing_in_the_sun.md)
-- [The best soil](../in-character/winds-of-fortune/The_best_soil.md)
-- [Watercolours in the rain](../in-character/winds-of-fortune/Watercolours_in_the_rain.md)
+- [All too well](../in-character/winds-of-fortune/All_too_well.md)
+- [Chime the sound](../in-character/winds-of-fortune/Chime_the_sound.md)
+- [Don't blame me](../in-character/winds-of-fortune/Don-t_blame_me.md)
+- [Folklore](../in-character/winds-of-fortune/Folklore.md)
+- [Full of sacred sound](../in-character/winds-of-fortune/Full_of_sacred_sound.md)
+- [Snow might fall](../in-character/winds-of-fortune/Snow_might_fall.md)
+- [The silent page](../in-character/winds-of-fortune/The_silent_page.md)
+- [Watching my mistakes](../in-character/winds-of-fortune/Watching_my_mistakes.md)
+- [You belong with me](../in-character/winds-of-fortune/You_belong_with_me.md)
 
 ## 385YE Spring (12)
 
@@ -161,14 +147,19 @@
 - [Various storms and saints](../in-character/winds-of-fortune/Various_storms_and_saints.md)
 - [When Spring comes](../in-character/winds-of-fortune/When_Spring_comes.md)
 
-## 386YE Winter (6)
+## 385YE Winter (11)
 
-- [Golden light](../in-character/winds-of-fortune/Golden_light.md)
-- [It never happened](../in-character/winds-of-fortune/It_never_happened.md)
-- [Little faith](../in-character/winds-of-fortune/Little_faith.md)
-- [Million miles of water](../in-character/winds-of-fortune/Million_miles_of_water.md)
-- [One of us](../in-character/winds-of-fortune/One_of_us.md)
-- [Over western hills](../in-character/winds-of-war/Over_western_hills.md)
+- [Blue flowers in the snow](../in-character/winds-of-fortune/Blue_flowers_in_the_snow.md)
+- [Broken sword](../in-character/winds-of-fortune/Broken_sword.md)
+- [Church of your heart](../in-character/winds-of-fortune/Church_of_your_heart.md)
+- [Forwards and Rewards](../in-character/winds-of-fortune/Forwards_and_Rewards.md)
+- [Hear your footsteps](../in-character/winds-of-fortune/Hear_your_footsteps.md)
+- [Knocking on every door](../in-character/winds-of-fortune/Knocking_on_every_door.md)
+- [Listen to your heart](../in-character/winds-of-fortune/Listen_to_your_heart.md)
+- [Part of this together](../in-character/winds-of-fortune/Part_of_this_together.md)
+- [Standing in the sun](../in-character/winds-of-fortune/Standing_in_the_sun.md)
+- [The best soil](../in-character/winds-of-fortune/The_best_soil.md)
+- [Watercolours in the rain](../in-character/winds-of-fortune/Watercolours_in_the_rain.md)
 
 ## 386YE Spring (7)
 
@@ -203,15 +194,14 @@
 - [We all stand](../in-character/winds-of-fortune/We_all_stand.md)
 - [You could be happy](../in-character/winds-of-fortune/You_could_be_happy.md)
 
-## 387YE Winter (7)
+## 386YE Winter (6)
 
-- [387YE Winter Solstice winds of fortune](../in-character/winds-of-fortune/387YE_Winter_Solstice_winds_of_fortune.md)
-- [A wild night and a new road](../in-character/winds-of-fortune/A_wild_night_and_a_new_road.md)
-- [Every day of your life](../in-character/winds-of-fortune/Every_day_of_your_life.md)
-- [Every path you know](../in-character/winds-of-fortune/Every_path_you_know.md)
-- [Finding is the final act](../in-character/winds-of-fortune/Finding_is_the_final_act.md)
-- [The circle game](../in-character/winds-of-fortune/The_circle_game.md)
-- [The thing with feathers](../in-character/winds-of-fortune/The_thing_with_feathers.md)
+- [Golden light](../in-character/winds-of-fortune/Golden_light.md)
+- [It never happened](../in-character/winds-of-fortune/It_never_happened.md)
+- [Little faith](../in-character/winds-of-fortune/Little_faith.md)
+- [Million miles of water](../in-character/winds-of-fortune/Million_miles_of_water.md)
+- [One of us](../in-character/winds-of-fortune/One_of_us.md)
+- [Over western hills](../in-character/winds-of-war/Over_western_hills.md)
 
 ## 387YE Spring (6)
 
@@ -238,6 +228,16 @@
 - [Born with insight](../in-character/winds-of-fortune/Born_with_insight.md)
 - [Climb every mountain](../in-character/winds-of-fortune/Climb_every_mountain.md)
 - [Drowned in tears](../in-character/winds-of-fortune/Drowned_in_tears.md)
+
+## 387YE Winter (7)
+
+- [387YE Winter Solstice winds of fortune](../in-character/winds-of-fortune/387YE_Winter_Solstice_winds_of_fortune.md)
+- [A wild night and a new road](../in-character/winds-of-fortune/A_wild_night_and_a_new_road.md)
+- [Every day of your life](../in-character/winds-of-fortune/Every_day_of_your_life.md)
+- [Every path you know](../in-character/winds-of-fortune/Every_path_you_know.md)
+- [Finding is the final act](../in-character/winds-of-fortune/Finding_is_the_final_act.md)
+- [The circle game](../in-character/winds-of-fortune/The_circle_game.md)
+- [The thing with feathers](../in-character/winds-of-fortune/The_thing_with_feathers.md)
 
 ## 388YE Spring (6)
 

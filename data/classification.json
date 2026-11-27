@@ -5910,7 +5910,7 @@
  "3748": {
   "class": "in-character",
   "topic": "senate-motions",
-  "event": "377YE Winter",
+  "event": "377YE Autumn",
   "rule": "category:Senate Motion",
   "categories": [
    "Senate Motion",
@@ -13422,7 +13422,7 @@
  "3574": {
   "class": "in-character",
   "topic": "senate-motions",
-  "event": "377YE Winter",
+  "event": "377YE Spring",
   "rule": "category:Senate Motion",
   "categories": [
    "Senate Motion",

@@ -1,15 +1,16 @@
 # 377YE Spring
 
-Every page tagged to this event, grouped by topic (18 pages).
+Every page tagged to this event, grouped by topic (19 pages).
 
 ## conclave-sessions (1)
 
 - [377YE Spring Equinox Conclave declarations](../../in-character/conclave-sessions/377YE_Spring_Equinox_Conclave_declarations.md)
 
-## senate-motions (14)
+## senate-motions (15)
 
 - [Change Urizen voting](../../in-character/senate-motions/Change_Urizen_voting.md)
 - [Commission Egregore histories](../../in-character/senate-motions/Commission_Egregore_histories.md)
+- [Commission roll of honour](../../in-character/senate-motions/Commission_roll_of_honour.md)
 - [Create title of Auditor of Senatorial Accountability](../../in-character/senate-motions/Create_title_of_Auditor_of_Senatorial_Accountability.md)
 - [Create title of trade envoy](../../in-character/senate-motions/Create_title_of_trade_envoy.md)
 - [Fortify multiple towns](../../in-character/senate-motions/Fortify_multiple_towns.md)
