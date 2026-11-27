@@ -46,6 +46,14 @@ The raw extractions are in `control_raw/`, one file per era plus one for the ter
   differed because the sources never date the change; those are applied at the final season
   and labelled as undated.
 
+Each region starts with the holder its first report gives for it: a change says who held the
+region before it, and a plain statement says who holds it. Where that disagrees with the
+territory as a whole (Holberg's walls, Crowslook and Branoc in Karsk, Greensward in Mournwold and
+so on), the region keeps its own record, and loose whole-territory statements such as "Karsk is
+Varushkan" do not paint over it. Checked against every region with a report: 137 of 139 agree,
+and the other two are places where two sources contradict each other in the same season. When
+the territory page and a campaign report date the same change differently, the report wins.
+
 Known gaps the sources do not resolve include when Spiral became Grendel-held, what happened
 to Greenwall and Ribeira after they were conquered, and the per-region picture at the very
 start (only whole-territory holders are known for 376YE Winter). Treat the earliest seasons

@@ -259,7 +259,9 @@ function init(D) {
   for (const c of D.control.changes) {
     const row = ctl[c.t]; if (!row || c.np) continue;   // np: recorded, but says nothing about individual regions
     const targets = c.r ? [c.r] : Object.keys(row);
+    const own = (D.control.startRegions || {})[c.t] || {};
     for (const r of targets) { if (!row[r] || (c.as && !IMP.has(row[r][c.s]))) continue;   // as: Senate assignment
+      if (!c.r && c.kind === "status" && own[r]) continue;   // loose whole-territory statement: keep the region's own record
       for (let i = c.s; i < S.length; i++) row[r][i] = c.h; }
   }
   const holderAt = (t, r, s) => (ctl[t][r || ""] || ctl[t][""])[s];
@@ -354,7 +356,8 @@ function init(D) {
       t.outline.classList.toggle("sel", !!st.sel && st.sel.t === t.name);
       if (t.mark) { const n = st.marks ? countAt(t.name, st.s) : 0; t.mark.style.display = n ? "" : "none";
         if (n) { const u = unit() * (svg.clientWidth < 520 ? 0.7 : 1), r = (7 + Math.sqrt(n) * 1.6) * u; t.mc.setAttribute("r", r); t.mt.textContent = n; t.mt.style.fontSize = (10.5 * u) + "px";
-          const off = 15 * u; t.mc.setAttribute("cy", t.centre[1] + off); t.mt.setAttribute("y", t.centre[1] + off); } }
+          const off = 15 * u; t.mc.setAttribute("cx", t.centre[0]); t.mt.setAttribute("x", t.centre[0]);
+          t.mc.setAttribute("cy", t.centre[1] + off); t.mt.setAttribute("y", t.centre[1] + off); } }
     }
     const sr = st.sel && st.sel.r && byName[st.sel.t].regions.find(r => r.name === st.sel.r);
     selPath.setAttribute("d", sr ? pathOf(sr.polys) : "");
@@ -372,8 +375,9 @@ function init(D) {
     const spot = (x, y, w, hh, reach) => { for (const [fx, fy] of NUDGE.slice(0, reach)) {
       const b = { x: x * scale - w / 2 + fx * w, y: y * scale - hh / 2 + fy * hh, w, h: hh };
       if (free(b)) return { b, x: x + fx * w * u, y: y + fy * hh * u }; } return null; };
-    // event-count circles are obstacles, so no name is printed underneath one
-    for (const t of T) if (t.mark && t.mark.style.display !== "none") {
+    // event-count circles: obstacles for territory and region names; in Nations mode the names win and circles move
+    const marks = T.filter(t => t.mark && t.mark.style.display !== "none");
+    if (mode !== "nations") for (const t of marks) {
       const r = +t.mc.getAttribute("r") * scale + 2;
       placed.push({ x: t.centre[0] * scale - r, y: +t.mc.getAttribute("cy") * scale - r, w: 2 * r, h: 2 * r });
     }
@@ -388,6 +392,20 @@ function init(D) {
       tx.style.fontSize = fs * u + "px"; tx.style.strokeWidth = 3.2 * u + "px"; tx.style.letterSpacing = 0.12 * fs * u + "px"; tx.style.display = "";
     }
     for (let i = n; i < pool.length; i++) pool[i].style.display = "none";
+    if (mode === "nations") {
+      const names = placed.slice(), taken = [];
+      const hits = (b, list) => list.some(q => b.x < q.x + q.w && q.x < b.x + b.w && b.y < q.y + q.h && q.y < b.y + b.h);
+      const STEPS = [[0, 15], [0, -15], [-24, 0], [24, 0], [0, 30], [0, -30], [-26, 15], [26, 15], [-26, -15], [26, -15], [0, 45], [0, -45]];
+      for (const t of marks) {
+        const r = +t.mc.getAttribute("r") * scale + 2;
+        let best = STEPS[0];
+        for (const st2 of STEPS) { const b = { x: t.centre[0] * scale + st2[0] - r, y: t.centre[1] * scale + st2[1] - r, w: 2 * r, h: 2 * r };
+          if (!hits(b, names) && !hits(b, taken)) { best = st2; break; } }
+        const b = { x: t.centre[0] * scale + best[0] - r, y: t.centre[1] * scale + best[1] - r, w: 2 * r, h: 2 * r }; taken.push(b);
+        const cx = t.centre[0] + best[0] * u, cy = t.centre[1] + best[1] * u;
+        t.mc.setAttribute("cx", cx); t.mt.setAttribute("x", cx); t.mc.setAttribute("cy", cy); t.mt.setAttribute("y", cy);
+      }
+    }
     // territory labels (seas keep theirs in every mode except None)
     const showRall = mode === "territories" && st.regions && st.k >= 2.4;
     const order = [...T].sort((a, b) => (selT === b.name) - (selT === a.name) || b.bbox[2] * b.bbox[3] - a.bbox[2] * a.bbox[3]);
@@ -547,7 +565,7 @@ function init(D) {
     for (const g of ["Imperial nations", "Barbarian powers", "Others"]) {
       const hs = D.holders.filter(x => x.group === g && n[x.id]); if (!hs.length) continue;
       b.append(h("h3", { textContent: g })); const box = h("div", { className: "legend" });
-      for (const x of hs.sort((a, c) => (n[c.id] || 0) - (n[a.id] || 0))) { const row = h("button", { className: "row" }, swatch(x.id), h("span", { className: "grow", textContent: x.name }), h("span", { className: "num", textContent: n[x.id] + " regions" }));
+      for (const x of hs.sort((a, c) => (n[c.id] || 0) - (n[a.id] || 0))) { const row = h("button", { className: "row" }, swatch(x.id), h("span", { className: "grow", textContent: x.name }), h("span", { className: "num", textContent: n[x.id] + (n[x.id] === 1 ? " region" : " regions") }));
         row.setAttribute("aria-pressed", st.iso === x.id); row.onclick = () => { st.iso = st.iso === x.id ? null : x.id; st.mode = "holder"; render(); }; box.append(row); }
       b.append(box); }
   }

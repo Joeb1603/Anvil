@@ -245,23 +245,68 @@ def load_control(terr, regions, seasons, pages):
         if c["from"] == "winds of war":
             primary[(c["t"], c["r"], c["h"])].append(c["s"])
     changes = [c for c in changes if c["from"] == "winds of war"
-               or not any(abs(c["s"] - s) <= 1 for s in primary.get((c["t"], c["r"], c["h"]), []))]
+               or not any(abs(c["s"] - s) <= 4 for s in primary.get((c["t"], c["r"], c["h"]), []))]
     changes.sort(key=lambda c: (c["s"], c["r"] is not None, c["from"] == "winds of war", c["kind"] != "status"))
     return {"nation": nation, "imperial": imperial, "start": start, "startRegions": {},
             "changes": changes, "history": history, "now": now, "issues": issues}
 
 
+def start_regions(terr, regions, seasons, ctl):
+    """Starting holder per region, taken from its first region-specific report.
+
+    A change states who held the region before it; a plain statement of who holds it says the same
+    for the time before it. Used only where no earlier painted change touches that territory, so it
+    never contradicts the record.
+    """
+    idx = {s: i for i, s in enumerate(seasons)}
+    raw = []
+    for era in ("A", "B", "C"):
+        f = MAP_DIR / "control_raw" / f"{era}.json"
+        if f.exists():
+            raw += [c for c in json.loads(f.read_text()) if c.get("event") in idx]
+    raw.sort(key=lambda c: idx[c["event"]])
+    first_touch = {}  # earliest painted entry that touches a region: its own, or a whole-territory change
+    for c in ctl["changes"]:
+        if c.get("np"):
+            continue
+        targets = [c["r"]] if c["r"] else ([] if c["kind"] == "status" else regions.get(c["t"], []))
+        for r in targets:
+            first_touch[(c["t"], r)] = min(first_touch.get((c["t"], r), 99), c["s"])
+    out, seen = {}, set()
+    for c in raw:
+        t, r = c.get("territory"), c.get("region")
+        if not r or t not in terr or (t, r) in seen:
+            continue
+        r = RENAMED.get((t, r), r)
+        if r not in regions.get(t, []):
+            continue
+        seen.add((t, r))
+        before = c.get("holder") if c.get("kind") == "status" else c.get("previous_holder")
+        h = canon(before, ctl["nation"].get(t)) if before else None
+        if not h or "unspecified" in h.lower() or h == "Unknown":
+            continue
+        # a status or change only speaks for the time before it if nothing earlier touched the territory
+        if first_touch.get((t, r), 99) < idx[c["event"]]:
+            continue
+        out.setdefault(t, {})[r] = h  # recorded even when equal to the territory's, so loose statements skip it
+    return out
+
+
 def apply_changes(terr, regions, seasons, ctl):
     """Holder of every region (and "" for the territory as a whole) at every season."""
     imperial = set(IMPERIAL) | {"The Empire"}
-    state = {t: {r: [ctl["start"][t]] * len(seasons) for r in ([""] + regions.get(t, []))} for t in terr}
+    sr = ctl.get("startRegions") or {}
+    state = {t: {r: [sr.get(t, {}).get(r, ctl["start"][t])] * len(seasons) for r in ([""] + regions.get(t, []))} for t in terr}
     for c in ctl["changes"]:
         if c.get("np"):
             continue
         rows = state[c["t"]]
+        own = sr.get(c["t"], {})
         for r in ([c["r"]] if c["r"] else list(rows)):
             if r not in rows or (c.get("as") and rows[r][c["s"]] not in imperial):
                 continue
+            if not c["r"] and c["kind"] == "status" and r in own:  # a loose whole-territory statement
+                continue                                         # does not override a region's own record
             for i in range(c["s"], len(seasons)):
                 rows[r][i] = c["h"]
     return state
@@ -287,6 +332,7 @@ def build(archive_links=True):
     seasons = ev["seasons"]
     regions = {t: list(cs) for t, cs in shapes.items()}
     ctl = load_control(terr, regions, seasons, pages)
+    ctl["startRegions"] = start_regions(terr, regions, seasons, ctl)
     ctl["state"] = apply_changes(terr, regions, seasons, ctl)
     ctl["reconciled"] = reconcile(ctl, regions, seasons, pages)
     ctl["changes"] += ctl["reconciled"]
@@ -372,7 +418,7 @@ def build(archive_links=True):
         "view": view, "frontiers": front,
         "nlabels": [[[fix(r[0])] + r[1:4] for r in season] for season in nlabels],
         "seasons": seasons, "territories": territories, "holders": holders,
-        "control": {"start": {t: fix(h) for t, h in ctl["start"].items()}, "startRegions": ctl["startRegions"],
+        "control": {"start": {t: fix(h) for t, h in ctl["start"].items()}, "startRegions": {t: {r: fix(h) for r, h in rs.items()} for t, rs in ctl["startRegions"].items()},
                     "changes": [{k: (fix(v) if k == "h" else v) for k, v in c.items() if k != "from"} for c in ctl["changes"]]},
         "events": events, "history": history, "real": ev["real"],
         "breaks": [{"i": sidx[BREAK_BEFORE], "label": "Lockdown",
