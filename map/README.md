@@ -29,19 +29,29 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   (no sea names either, and a Nations-tab journey doesn't switch it to territories; that only happens on Auto). None hides every
   boundary line; clicks and hovers then follow the zoom, as in Auto. Territories shows territory names at every zoom.
   Labels never sit under an event-count circle.
-- **Where names go:**
-  - Each region name sits where it can be largest inside its region (worked out once, in the page's own font),
-    on one line or, for long names, on two. It is drawn at the usual size for the zoom (11px, growing to 14px),
-    shrinking to fit down to 8px. A name never leaves its region, except an Imperial name that almost fits,
-    which is drawn at 8px.
-  - Imperial regions and territories are named first. Other regions' names are a touch smaller and lighter, and
-    only use the room left over.
+- **Where names go:** nation, territory and region names all work the same way.
+  - Each name sits where it can be largest inside its land, measured in the page's own font, on one line or,
+    for long names, on two (IRON / CONFEDERACY). It shrinks to fit.
+  - **Nations:** names are worked out from each season's nation borders. Up to 18px, down to 7px.
+    - Every Imperial nation is named whenever any of its land is on screen, if need be in small type. If even
+      that doesn't fit, it goes over its land where it overlaps least.
+    - Other powers are named only if the name fits, or nearly fits, over their own land.
+    - A power's other blocks of land are named too when the name fits inside them and isn't next to another of
+      its names.
+  - **Territories:** up to 12px, down to 8px.
+  - **Regions:** 11px, growing to 14px with the zoom, down to 8px.
+  - A territory or region name never leaves its land, except an Imperial one that almost fits, which is drawn
+    at 8px.
+  - Imperial nations, territories and regions are named first. Other regions' names are a touch smaller and
+    lighter, and only use the room left over. Names never touch: there is always a little gap.
+  - Event counts sit beside their name: below it, or else to its right, above it or to its left, wherever there
+    is room (over the name's own land if possible).
   - Names stay on the visible map: one whose region is partly off screen (or under the phone's info sheet) moves
     into the part you can see, and none sit under the zoom buttons, the Fighting key, the phone's Key button or
     an open card. The translucent Nations key is the exception: names show through it, as the map does.
 - **Clicking and hovering:** follow the label mode in force. In Nations mode a hover describes the
-  nation, a click opens it in the Info tab, and each nation shows one event count under its name; Territories and Regions modes count per
-  territory and per region, always right under the name;
+  nation, a click opens it in the Info tab, and each nation shows one event count beside its name; Territories and Regions modes count per
+  territory and per region, beside the name;
   in Territories mode the territory; in Regions mode the region. Click empty map to clear.
 - **Nations tab:** picking a nation outlines its lands, fades everything else and switches the map
   to territories; opening one of its territories switches to regions; the fading follows down to

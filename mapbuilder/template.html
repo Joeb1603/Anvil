@@ -621,12 +621,12 @@ function init(D) {
   try { document.fonts.ready.then(() => { widths.clear(); fitGen++; if (typeof paint === "function") paint(); }); } catch (e) {}
   // a region name as one line, or two when it has a space (split at the space nearest the middle)
   const PADX = 0.35, LINE = 1.15;
-  function nameShapes(name, weight) {
-    const one = { lines: [name], ax: emWidth(name, weight, "rlabel") + PADX, ay: LINE };
+  function nameShapes(name, weight, cls = "rlabel", spacing = 0, lineH = LINE, padx = PADX) {
+    const one = { lines: [name], ax: emWidth(name, weight, cls, spacing) + padx, ay: lineH };
     const sp = [...name.matchAll(/ /g)].map(m => m.index); if (!sp.length) return [one];
     const at = sp.reduce((a, b) => Math.abs(b - name.length / 2) < Math.abs(a - name.length / 2) ? b : a);
     const lines = [name.slice(0, at), name.slice(at + 1)];
-    return [one, { lines, ax: Math.max(...lines.map(l => emWidth(l, weight, "rlabel"))) + PADX, ay: 2 * LINE }];
+    return [one, { lines, ax: Math.max(...lines.map(l => emWidth(l, weight, cls, spacing))) + padx, ay: LINE + lineH }];
   }
   // best spots for a region's name in its current shape (cached until the shape or the fonts change)
   function regionFits(a) {
@@ -640,23 +640,78 @@ function init(D) {
     a.fit = { rings, gen: fitGen, list, box: ringsBox(rings) };
     return list;
   }
+  // territory names: the same, in the territory's current shape, with the territory's centre as the fallback spot
+  function terrFits(t) {
+    const rings = t.curPolys || t.polys, c = t.fit;
+    if (c && c.rings === rings && c.gen === fitGen) return c.list;
+    const list = [];
+    for (const sh of nameShapes(t.name, 700, "tlabel", 0.03)) {
+      list.push({ ...bestFit(rings, sh.ax, sh.ay), lines: sh.lines, ax: sh.ax, ay: sh.ay });
+      list.push({ x: t.centre[0], y: t.centre[1], f: fitAt(rings, t.centre[0], t.centre[1], sh.ax, sh.ay), lines: sh.lines, ax: sh.ax, ay: sh.ay, anchor: true });
+    }
+    t.fit = { rings, gen: fitGen, list, box: ringsBox(rings) };
+    return list;
+  }
+  // nation land, from the outlines the nation borders are drawn with: for each border state, every power's
+  // blocks of land (an outer ring and its holes), biggest first. A power whose outline is unchanged from an
+  // earlier state reuses its blocks (and their worked-out name spots).
+  const natStates = new Map(), natByPath = new Map();
+  function natBlocks(si) {
+    const k = D.frontiers ? D.frontiers.season[si] : -1;
+    if (natStates.has(k)) return natStates.get(k);
+    const out = [], by = k >= 0 ? (D.frontiers.states[k].by || {}) : {};
+    for (const id in by) {
+      if (id === "Uncontrolled" || id === "Unknown" || id === "unknown") continue;
+      const key = id + "|" + by[id];
+      if (!natByPath.has(key)) {
+        const rings = by[id].split("Z").filter(Boolean).map(r => r.replace(/^M/, "").split("L").map(p => p.trim().split(/\s+/).map(Number))).filter(r => r.length >= 3);
+        const depth = rings.map((r, i) => rings.reduce((d, o, j) => d + (j !== i && inRings([o], r[0][0], r[0][1]) ? 1 : 0), 0));  // odd = a hole
+        const blocks = [];
+        rings.forEach((r, i) => { if (depth[i] % 2) return;
+          const holes = rings.filter((hr, j) => depth[j] === depth[i] + 1 && inRings([r], hr[0][0], hr[0][1]));
+          const area = polyArea([r]) - polyArea(holes);
+          if (area >= 900) blocks.push({ id, rings: [r, ...holes], outer: [r], box: ringsBox([r]), area }); });
+        natByPath.set(key, blocks);
+      }
+      out.push(...natByPath.get(key));
+    }
+    out.sort((a, b) => b.area - a.area);
+    natStates.set(k, out); return out;
+  }
+  // a nation's name in capitals, one line or two, and where in a block it can be largest
+  function natFits(b) {
+    if (b.fits && b.gen === fitGen) return b.fits;
+    b.fits = nameShapes(shortName(b.id).toUpperCase(), 700, "tlabel", 0.1, 0.8, 0.15).map(sh => ({ ...bestFit(b.rings, sh.ax, sh.ay, 8), lines: sh.lines, ax: sh.ax, ay: sh.ay }));
+    b.gen = fitGen; return b.fits;
+  }
   // write a name (one or two lines) at (x, y), map units
   function setName(el, lines, x, y) {
     el.setAttribute("x", x); el.setAttribute("y", y);
-    if (lines.length === 1) { if (el.firstElementChild) el.textContent = lines[0]; return; }
-    if (el.children.length !== 2) { el.textContent = "";
+    if (lines.length === 1) { if (el.firstElementChild || el.textContent !== lines[0]) el.textContent = lines[0]; return; }
+    if (el.children.length !== 2 || el.children[0].textContent !== lines[0] || el.children[1].textContent !== lines[1]) { el.textContent = "";
       for (const l of lines) { const t = document.createElementNS("http://www.w3.org/2000/svg", "tspan"); t.textContent = l; el.append(t); } }
     el.children[0].setAttribute("x", x); el.children[0].setAttribute("dy", -LINE / 2 + "em");
     el.children[1].setAttribute("x", x); el.children[1].setAttribute("dy", LINE + "em");
   }
   // the part of the map that can carry names, in map units, and the controls drawn over it (screen boxes in
   // the label frame, map units × scale). The translucent Nations key is left out on purpose: names show through it.
+  // Where the map and the controls over it sit on screen. Reading this after the map has changed makes the
+  // browser lay out every shape again, so it is read once and kept until something moves or resizes.
+  const controlsOver = () => [$("panel"), $("peek"), document.querySelector(".zoom"), $("flegend"), $("ph-key")];
+  let layoutNow = null;
+  function layout() {
+    if (!layoutNow) layoutNow = { cw: svg.clientWidth, ch: svg.clientHeight, b: svg.getBoundingClientRect(),
+      over: controlsOver().map(e => e && !e.hidden ? e.getBoundingClientRect() : null) };
+    return layoutNow;
+  }
+  const relayout = () => { layoutNow = null; };
+  addEventListener("resize", relayout); addEventListener("scroll", relayout, true);
   function visArea(scale) {
-    const b = svg.getBoundingClientRect(), m = Math.min(b.width / vw, b.height / vh), ox = (b.width - vw * m) / 2, oy = (b.height - vh * m) / 2;
+    const lay = layout(), b = lay.b, m = Math.min(b.width / vw, b.height / vh), ox = (b.width - vw * m) / 2, oy = (b.height - vh * m) / 2;
     const mx = X => ((X - b.left - ox) / m + vx - st.x) / st.k, my = Y => ((Y - b.top - oy) / m + vy - st.y) / st.k;
     let L = b.left, R = b.right, T0 = b.top, B = b.bottom; const obs = [];
-    for (const e of [$("panel"), $("peek"), document.querySelector(".zoom"), $("flegend"), $("ph-key")]) {
-      if (!e || e.hidden) continue; const r = e.getBoundingClientRect();
+    for (const r of lay.over) {
+      if (!r) continue;
       if (!r.width || !r.height || r.right <= b.left || r.left >= b.right || r.bottom <= b.top || r.top >= b.bottom) continue;
       if (r.width > 0.6 * b.width) { if (r.top > b.top + b.height / 3) B = Math.min(B, r.top); else T0 = Math.max(T0, r.bottom); }
       else if (r.height > 0.6 * b.height) { if (r.left > b.left + b.width / 3) R = Math.min(R, r.left); else L = Math.max(L, r.right); }
@@ -678,7 +733,7 @@ function init(D) {
       for (const c of cells) if (c.t === t) c.whole = pathOf(t.curPolys); }
   }
   function paint() {
-    const pu = unit(), pmu = pu * (svg.clientWidth < 520 ? 0.7 : 1); px1 = pu;  // read the layout once, before any writes (reading it between writes forces a relayout each time)
+    const pu = unit(), pmu = pu * (layout().cw < 520 ? 0.7 : 1); px1 = pu;  // read the layout once, before any writes (reading it between writes forces a relayout each time)
     applyEra();
     for (const c of cells) {
       if (c.t.sea) continue;
@@ -737,137 +792,150 @@ function init(D) {
     toHash();
   }
   // one screen pixel expressed in map units at the current zoom
-  const unit = () => 1 / ((Math.min(svg.clientWidth / vw, svg.clientHeight / vh) || 1) * st.k);
+  const unit = () => { const l = layout(); return 1 / ((Math.min(l.cw / vw, l.ch / vh) || 1) * st.k); };
   function labels() {
     const u = unit(), scale = 1 / u, placed = [], mode = lab(), selT = st.sel && st.sel.t;
     const free = b => !placed.some(q => b.x < q.x + q.w && q.x < b.x + b.w && b.y < q.y + q.h && q.y < b.y + b.h);
     const box = (x, y, w, hh) => ({ x: x * scale - w / 2, y: y * scale - hh / 2, w, h: hh });
-    // try the spot itself, then nearby spots, and return the first free one (offsets in screen px)
-    const NUDGE = [[0, 0], [0, -1], [0, 1], [-0.45, 0], [0.45, 0], [0, -2], [0, 2], [-0.45, -1], [0.45, -1], [-0.45, 1], [0.45, 1]];
-    const spot = (x, y, w, hh, reach) => { for (const [fx, fy] of NUDGE.slice(0, reach)) {
-      const b = { x: x * scale - w / 2 + fx * w, y: y * scale - hh / 2 + fy * hh, w, h: hh };
-      if (free(b)) return { b, x: x + fx * w * u, y: y + fy * hh * u }; } return null; };
-    // each name and its event count are placed together as one block: the count sits right under the name
-    const mu = svg.clientWidth < 520 ? 0.7 : 1, va = visArea(scale);  // layout reads first, then writes
+    const mu = layout().cw < 520 ? 0.7 : 1, va = visArea(scale);
+    const vmin = Math.min(va.fx1 - va.fx0, va.fy1 - va.fy0);
+    // names keep to the visible map and off the controls drawn over it (and off the Great Sinkhole's name)
+    placed.push(...va.obs);
+    for (const x of feats) if (x.lb.style.display !== "none") placed.push(box(x.cx, x.cy, x.lb.textContent.length * 5.2 + 4, 13));
+    const inVis = b => b.x >= va.fx0 && b.y >= va.fy0 && b.x + b.w <= va.fx1 && b.y + b.h <= va.fy1;
+    const onMap = bx => bx[2] > va.x0 && bx[0] < va.x1 && bx[3] > va.y0 && bx[1] < va.y1;
 
-    // nation labels: one per connected block of a power's land, biggest first
-    let n = 0, nm = 0; const counted = new Set();
-    if (mode === "nations") for (const [id, x, y, r] of (D.nlabels || [])[st.s] || []) {
-      const rs = r * scale; if (rs < 8) continue;
-      const name = shortName(id).toUpperCase(), fs = Math.max(10, Math.min(18, 7 + rs * 0.3));
-      if (!st.names) {  // names off: just the nation's count, at the heart of its biggest block
-        if (st.marks && !counted.has(id) && (!st.iso || st.iso === id)) { const c = natCount(id, st.s); counted.add(id);
-          if (c) { const rr = markR(c, u) * scale, at = spot(x, y, 2 * rr + 2, 2 * rr + 2, 5);
-            if (at) { placed.push(at.b); const g = natMark(nm++); showMark(g, at.x, at.y, c, u); g.id = id; } } }
-        continue;
+    // Place one name. cands: spots [{x, y, f (largest font there, map units), lines, ax, ay, anchor}] in the land
+    // `rings` (bounding box bx). top / floor: largest and smallest font (px). spill: a name that fits at this
+    // size (px) or more but under the floor is still drawn at the floor, overflowing its land a little. force:
+    // if no free spot is found, draw it anyway at its best spot. Land partly off screen is named in the part
+    // on screen. Returns {c: spot, f: font px, bb: box in the label frame} or null.
+    function placeName(cands, rings, bx, top, floor, spill = 0, force = false, pad = 1.5) {
+      if (!onMap(bx)) return null;
+      const whole = bx[0] >= va.x0 && bx[2] <= va.x1 && bx[1] >= va.y0 && bx[3] <= va.y1;
+      let vis = null; const visible = () => vis || (vis = whole ? rings : clipRings(rings, va.x0, va.y0, va.x1, va.y1));
+      const onScreen = c => { const f = Math.min(top, c.f * scale * 0.95) / scale, w = c.ax * f / 2, h = c.ay * f / 2;
+        return c.x - w >= va.x0 && c.x + w <= va.x1 && c.y - h >= va.y0 && c.y + h <= va.y1; };
+      let opts = cands;
+      if (!whole && !cands.some(c => !c.anchor && onScreen(c))) {  // the best spots are off screen: search the part on screen
+        const vr = visible(); opts = vr.length ? [...cands.filter(c => !c.anchor).map(c => ({ ...bestFit(vr, c.ax, c.ay, 5), lines: c.lines, ax: c.ax, ay: c.ay })), ...cands] : [];
       }
-      const at = spot(x, y, name.length * fs * 0.8, fs * 1.4, Math.min(NUDGE.length, 3 + Math.floor(rs / 12)));
-      if (!at) continue; placed.push(at.b);
-      const tx = natLabel(n++); tx.dataset.id = id; tx.textContent = name; tx.setAttribute("x", at.x); tx.setAttribute("y", at.y);
-      tx.style.fontSize = fs * u + "px"; tx.style.strokeWidth = 3.2 * u + "px"; tx.style.letterSpacing = 0.12 * fs * u + "px"; tx.style.display = "";
-      // one event count per nation, under its biggest name
-      if (st.marks && !counted.has(id) && (!st.iso || st.iso === id)) { counted.add(id);
-        const c = natCount(id, st.s);
-        if (c) { const g = natMark(nm++), rr = markR(c, u), cy = at.y + (fs * 0.55 + 2) * u + rr;
-          showMark(g, at.x, cy, c, u); g.id = id;
-          placed.push({ x: at.x * scale - rr * scale, y: cy * scale - rr * scale, w: 2 * rr * scale, h: 2 * rr * scale }); } }
+      const least = spill || floor;
+      const steps = f => [f, f * 0.85, floor].filter((x, i, xs) => x >= floor && xs.indexOf(x) === i && (i === 0 || x < xs[0]));
+      // a name's box, with a little room either side so neighbouring names never touch
+      const boxAt = (c, f) => { const p = Math.max(pad, f * (pad > 1.5 ? 0.3 : 0)), w = c.ax * f + 2 * p, h = c.ay * f; return { x: c.x * scale - w / 2, y: c.y * scale - h / 2, w, h }; };
+      const tryAt = (c, f) => { const bb = boxAt(c, f); return inVis(bb) && free(bb) ? { c, f, bb } : null; };
+      const tries = opts.map(c => { const font = Math.min(top, c.f * scale * 0.95);
+        return { c, font, score: font * (c.lines.length > 1 ? 0.85 : 1) * (c.anchor ? 0.97 : 1) }; }).sort((p, q) => q.score - p.score);
+      for (const tr of tries) for (const f of tr.font >= floor ? steps(tr.font) : tr.font >= least ? [floor] : []) { const got = tryAt(tr.c, f); if (got) return got; }
+      // every good spot is taken (by another name or a control): look around the rest of the land on screen
+      if (tries.length && tries[0].font >= least) {
+        const vr = visible(), [cx0, cy0, cx1, cy1] = ringsBox(vr), alt = [];
+        if (vr.length) for (let i = 0; i <= 6; i++) for (let j = 0; j <= 6; j++) {
+          const x = cx0 + (cx1 - cx0) * (i + 0.5) / 7, y = cy0 + (cy1 - cy0) * (j + 0.5) / 7;
+          for (const c of cands) { if (c.anchor) continue;
+            const f = Math.min(top, fitAt(vr, x, y, c.ax, c.ay, least / scale) * scale * 0.95);
+            if (f >= least) alt.push({ c: { x, y, lines: c.lines, ax: c.ax, ay: c.ay }, f: Math.max(f, floor) }); }
+        }
+        alt.sort((p, q) => q.f * (q.c.lines.length > 1 ? 0.85 : 1) - p.f * (p.c.lines.length > 1 ? 0.85 : 1));
+        for (const tr of alt) for (const f of steps(tr.f)) { const got = tryAt(tr.c, f); if (got) return got; }
+      }
+      // drawn regardless: at the floor, at the spot over its own land that overlaps least (never under a control)
+      if (force && tries.length) {
+        const vr = visible(), [cx0, cy0, cx1, cy1] = ringsBox(vr), spots = tries.map(t => t.c);
+        for (let i = 0; i <= 6; i++) for (let j = 0; j <= 6; j++) { const x = cx0 + (cx1 - cx0) * (i + 0.5) / 7, y = cy0 + (cy1 - cy0) * (j + 0.5) / 7;
+          if (inRings(vr, x, y)) for (const c of cands) if (!c.anchor) spots.push({ x, y, lines: c.lines, ax: c.ax, ay: c.ay }); }
+        const ov = (a, b) => Math.max(0, Math.min(a.x + a.w, b.x + b.w) - Math.max(a.x, b.x)) * Math.max(0, Math.min(a.y + a.h, b.y + b.h) - Math.max(a.y, b.y));
+        let best = null;
+        for (const c of spots) { const f = floor, b0 = boxAt(c, f);
+          const bb = { ...b0, x: Math.min(Math.max(b0.x, va.fx0), va.fx1 - b0.w), y: Math.min(Math.max(b0.y, va.fy0), va.fy1 - b0.h) };
+          const score = placed.reduce((sum, q) => sum + ov(bb, q) * (va.obs.includes(q) ? 50 : 1), 0) + Math.hypot(bb.x - b0.x, bb.y - b0.y);
+          if (!best || score < best.score) best = { score, c: { ...c, x: (bb.x + bb.w / 2) / scale, y: (bb.y + bb.h / 2) / scale }, f, bb }; }
+        return best;
+      }
+      return null;
     }
-    // every Imperial nation (and any other holder of a sizeable block) is named at least once: any still
-    // missing gets its biggest block's name, smaller and nudged further, or placed regardless
-    if (mode === "nations" && st.names) {
-      const named = new Set(pool.slice(0, n).map(x => x.dataset.id));
-      for (const [id, x, y, r] of (D.nlabels || [])[st.s] || []) {
-        if (named.has(id) || (H[id] || {}).group !== "Imperial nations") continue; named.add(id);
-        const name = shortName(id).toUpperCase(), fs = 9.5;
-        const at = spot(x, y, name.length * fs * 0.8, fs * 1.4, NUDGE.length) || (phone() ? null : { x, y });
-        if (!at) continue;
-        if (at.b) placed.push(at.b);
-        const tx = natLabel(n++); tx.dataset.id = id; tx.textContent = name; tx.setAttribute("x", at.x); tx.setAttribute("y", at.y);
-        tx.style.fontSize = fs * u + "px"; tx.style.strokeWidth = 3 * u + "px"; tx.style.letterSpacing = 0.1 * fs * u + "px"; tx.style.display = "";
+    // An event count beside its name (bb, label frame; zero size for a count on its own at that point): below,
+    // right, above or left, the first that is free and on screen, over the name's own land if one is.
+    function placeMark(g, bb, n, k, rings) {
+      const rr = markR(n, 1) * k, cx = bb.x + bb.w / 2, cy = bb.y + bb.h / 2, d = 1.5;
+      const spots = bb.w ? [[cx, bb.y + bb.h + rr + d], [bb.x + bb.w + rr + d + 1, cy], [cx, bb.y - rr - d], [bb.x - rr - d - 1, cy]] : [[cx, cy], [cx, cy + 2 * rr + d], [cx, cy - 2 * rr - d]];
+      const ok = spots.map(([x, y]) => ({ x, y, b: { x: x - rr, y: y - rr, w: 2 * rr, h: 2 * rr } })).filter(p => inVis(p.b) && free(p.b));
+      if (!ok.length) return false;
+      const at = (rings && ok.find(p => inRings(rings, p.x / scale, p.y / scale))) || ok[0];
+      placed.push(at.b); showMark(g, at.x / scale, at.y / scale, n, u * k); return true;
+    }
+
+    // nation names. Each power's biggest block on screen first, Imperial nations before the rest, then further
+    // blocks if the name fits inside them and isn't near another name of the same power. Names shrink to fit
+    // (up to 18px, down to 7px); a name that nearly fits at 7px is drawn at 7px over the middle of its land,
+    // spilling a little. An Imperial nation is always named when any of its land is on screen: if even that
+    // fails, at 7px over its land, where it overlaps least. Other powers' names are left out if they don't fit.
+    let n = 0, nm = 0;
+    if (mode === "nations") {
+      const isImp = id => (H[id] || {}).group === "Imperial nations";
+      const shown = natBlocks(st.s).filter(b => onMap(b.box));
+      for (const b of shown) b.vArea = b.box[0] >= va.x0 && b.box[2] <= va.x1 && b.box[1] >= va.y0 && b.box[3] <= va.y1 ? b.area : polyArea(clipRings(b.outer, va.x0, va.y0, va.x1, va.y1));
+      const first = new Map(); for (const b of [...shown].sort((a, c) => c.vArea - a.vArea)) if (!first.has(b.id) && b.vArea > 0) first.set(b.id, b);
+      const order = [...[...first.values()].sort((a, c) => isImp(c.id) - isImp(a.id) || c.vArea - a.vArea), ...shown.filter(b => first.get(b.id) !== b && b.vArea * scale * scale >= 900).sort((a, c) => c.vArea - a.vArea)];
+      const at = new Map();  // where each power is already named (label frame)
+      for (const b of order) {
+        const prim = first.get(b.id) === b, imp = isImp(b.id), wantN = st.marks && prim && (!st.iso || st.iso === b.id);
+        if (!st.names) {  // names off: just each power's count, at the heart of its biggest block
+          if (wantN) { const c = natCount(b.id, st.s), sp = natFits(b)[0];
+            if (c && sp) { const g = natMark(nm++); if (placeMark(g, { x: sp.x * scale, y: sp.y * scale, w: 0, h: 0 }, c, 1, b.rings)) g.id = b.id; else nm--; } }
+          continue;
+        }
+        const got = placeName(natFits(b), b.rings, b.box, prim ? 18 : 14, prim ? 7 : 10, prim ? (imp ? 4 : 5.25) : 0, prim && imp, 3);
+        if (!got) continue;
+        const mine = at.get(b.id) || [], px = got.c.x * scale, py = got.c.y * scale;
+        if (!prim && mine.some(([x, y]) => Math.hypot(x - px, y - py) < vmin * 0.3)) continue;
+        placed.push(got.bb); mine.push([px, py]); at.set(b.id, mine);
+        const tx = natLabel(n++); tx.dataset.id = b.id; setName(tx, got.c.lines, got.c.x, got.c.y);
+        tx.style.fontSize = got.f * u + "px"; tx.style.strokeWidth = Math.min(3.2, got.f * 0.25) * u + "px"; tx.style.letterSpacing = 0.1 * got.f * u + "px"; tx.style.display = "";
+        if (wantN) { const c = natCount(b.id, st.s); if (c) { const g = natMark(nm++); if (placeMark(g, got.bb, c, 1, b.rings)) g.id = b.id; else nm--; } }
       }
     }
     for (let i = n; i < pool.length; i++) pool[i].style.display = "none";
     for (let i = nm; i < natMarks.length; i++) natMarks[i].g.style.display = "none";
-    // from here on, names keep to the visible map and off the controls drawn over it
-    placed.push(...va.obs);
-    for (const x of feats) if (x.lb.style.display !== "none") placed.push(box(x.cx, x.cy, x.lb.textContent.length * 5.2 + 4, 13));
-    const inVis = b => b.x >= va.fx0 && b.y >= va.fy0 && b.x + b.w <= va.fx1 && b.y + b.h <= va.fy1;
-    // territory labels (seas keep theirs except when the reader picked Nations or None: then only nation names).
-    // Imperial territories are named first. A name whose spot is off screen or under the sheet moves to the
-    // middle of the part of the territory that is on screen, if it fits there.
+
+    // territory names (seas keep theirs except when the reader picked Nations or None: then only nation names).
+    // The selected territory first, then Imperial ones, biggest first; one line or two, shrinking to fit (up to
+    // 12px, down to 8px for Imperial territories, which may spill a little rather than go unnamed; 9px for the
+    // rest, which must fit). The event count goes beside the name.
     const order = [...T].sort((a, b) => (selT === b.name) - (selT === a.name) || (!!b.imperial - !!a.imperial) || b.bbox[2] * b.bbox[3] - a.bbox[2] * a.bbox[3]);
     for (const t of order) {
-      t.label.style.fontSize = 12 * u + "px"; t.label.style.strokeWidth = 3 * u + "px";
-      let show = false, lx = t.centre[0], ly = t.centre[1];
+      let got = null;
       if (mode === "territories" || (t.sea && mode !== "none" && st.lab !== "nations")) {
-        const mh = t.markN && mode === "territories" ? 2 * markR(t.markN, mu) + 2 : 0, hh = 16 + mh, w = Math.max(t.name.length * 7, mh);
-        let b = box(lx, ly, w, hh); const fits = t.bbox[2] * scale > t.name.length * 4.5;
-        if (!inVis(b) || (!free(b) && t.imperial)) {  // off screen, or an Imperial name whose spot is taken: try elsewhere on screen
-          const vis = clipRings(t.curPolys || t.polys, va.x0, va.y0, va.x1, va.y1);
-          if (vis.length) { const f = bestFit(vis, w / 12, hh / 12, 8);
-            if (f.f * scale >= 11.5) { const b2 = box(f.x, f.y, w, hh); if (free(b2) || !free(b)) { lx = f.x; ly = f.y; b = b2; } } }
+        const imp = !!t.imperial, sel = mode === "territories" && selT === t.name, cands = terrFits(t);
+        got = placeName(cands, t.curPolys || t.polys, t.fit.box, 12, imp || sel ? 8 : 9, imp ? 6 : 0, sel);
+        if (got) { placed.push(got.bb); setName(t.label, got.c.lines, got.c.x, got.c.y);
+          t.label.style.fontSize = got.f * u + "px"; t.label.style.strokeWidth = Math.min(3, got.f * 0.25) * u + "px"; }
+        if (t.markN && mode === "territories") {
+          const g = { g: t.mark, c: t.mc, t: t.mt }, bb = got ? got.bb : { x: t.centre[0] * scale, y: t.centre[1] * scale, w: 0, h: 0 };
+          t.mark.style.display = placeMark(g, bb, t.markN, mu, t.curPolys || t.polys) ? "" : "none";
         }
-        if ((mode === "territories" && selT === t.name) || (fits && free(b) && inVis(b))) { show = true; placed.push(b); }
-        const top = ly - hh / 2 * u;
-        t.label.setAttribute("x", lx); t.label.setAttribute("y", show ? top + 8 * u : ly);
-        if (t.markN && mode === "territories") { const y = show ? top + (16 + mh / 2) * u : ly;
-          t.mc.setAttribute("cx", lx); t.mt.setAttribute("x", lx); t.mc.setAttribute("cy", y); t.mt.setAttribute("y", y);
-          const hc = t.mark.querySelector(".hit"); if (hc) { hc.setAttribute("cx", lx); hc.setAttribute("cy", y); } }
       }
-      t.label.style.display = show ? "" : "none";
+      t.label.style.display = got ? "" : "none";
       if (mode !== "regions") for (const x of t.rlabels) x.style.display = "none";
     }
-    // region labels. Each name goes where it can be largest inside its region (one line, or two for long names),
-    // up to the usual size for the zoom, shrinking to fit down to 8px. Imperial regions are named first (after
-    // the selected territory's); other names are a touch smaller and lighter and only use room left over. A name
+    // region names. Each goes where it can be largest inside its region (one line, or two for long names), up
+    // to the usual size for the zoom, shrinking to fit down to 8px. Imperial regions are named first (after the
+    // selected territory's); other names are a touch smaller and lighter and only use room left over. A name
     // never leaves its region, except an Imperial one that fits at 6.5px or more, which is drawn at 8px. A region
-    // partly off screen is named in its visible part. Its event count sits under the name.
+    // partly off screen is named in its visible part. Its event count goes beside the name.
     if (mode === "regions") {
       const list = selT ? [...regOrder.filter(a => a.t.name === selT), ...regOrder.filter(a => a.t.name !== selT)] : regOrder;
-      let k = 0; const top = 11 + Math.min(3, Math.max(0, (st.k - 6) * 0.5)), FLOOR = 8;
+      let k = 0; const top = 11 + Math.min(3, Math.max(0, (st.k - 6) * 0.5));
       for (const a of list) {
-        const cands = regionFits(a), [bx0, by0, bx1, by1] = a.fit.box, imp = !!a.t.imperial;
-        // sizes to try at one spot: as large as fits, a step smaller, and (for Imperial names) the floor
-        const steps = f => [f, f * 0.85, ...(imp ? [FLOOR] : [])].filter((x, i, xs) => x >= FLOOR && xs.indexOf(x) === i && (i === 0 || x < xs[0]));
-        let done = null;
-        if (bx1 > va.x0 && bx0 < va.x1 && by1 > va.y0 && by0 < va.y1) {
-          let opts = cands;
-          const onScreen = c => { const f = Math.min(top, c.f * scale * 0.95), w = c.ax * f / scale / 2, h = c.ay * f / scale / 2;
-            return c.x - w >= va.x0 && c.x + w <= va.x1 && c.y - h >= va.y0 && c.y + h <= va.y1; };
-          if ((bx0 < va.x0 || bx1 > va.x1 || by0 < va.y0 || by1 > va.y1) && !cands.some(c => !c.anchor && onScreen(c))) {  // best spots off screen: search the visible part
-            const vis = clipRings(a.r.curPolys || a.r.polys, va.x0, va.y0, va.x1, va.y1);
-            opts = vis.length ? [...cands.filter(c => !c.anchor).map(c => ({ ...bestFit(vis, c.ax, c.ay, 5), lines: c.lines, ax: c.ax, ay: c.ay })), ...cands] : [];
-          }
+        const cands = regionFits(a), imp = !!a.t.imperial, rings = a.r.curPolys || a.r.polys;
+        const got = placeName(cands, rings, a.fit.box, imp ? top : top - 1, 8, imp ? 6.5 : 0);
+        if (got) { placed.push(got.bb);
+          setName(a.el, got.c.lines, got.c.x, got.c.y); a.el.style.fontSize = got.f * u + "px"; a.el.style.strokeWidth = Math.min(2.5, got.f * 0.28) * u + "px";
           const want = st.marks && (st.iso ? holderAt(a.t.name, a.r.name, st.s) === st.iso : st.sel ? (st.sel.t === a.t.name && (!st.sel.r || st.sel.r === a.r.name)) : true);
-          const n = want ? regionCount(a.t.name, a.r.name, st.s) : 0, mh = n ? 2 * markR(n, mu) + 2 : 0;
-          const tries = opts.map(c => { const font = Math.min(imp ? top : top - 1, c.f * scale * 0.95);
-            return { c, font, score: font * (c.lines.length > 1 ? 0.85 : 1) * (c.anchor ? 0.97 : 1) }; }).sort((p, q) => q.score - p.score);
-          find: for (const tr of tries) {
-            const sizes = tr.font >= FLOOR ? steps(tr.font) : imp && tr.font >= 6.5 ? [FLOOR] : [];
-            for (const f of sizes) {
-              const w = Math.max(tr.c.ax * f, mh), h = tr.c.ay * f, bb = { x: tr.c.x * scale - w / 2, y: tr.c.y * scale - h / 2, w, h: h + mh };
-              if (inVis(bb) && free(bb)) { done = { c: tr.c, f, h, mh, n, bb }; break find; }
-            }
-          }
-          // every good spot taken (by another name or a control): look around the rest of the region's visible part
-          if (!done && tries.length && tries[0].font >= (imp ? 6.5 : FLOOR)) {
-            const vis = clipRings(a.r.curPolys || a.r.polys, va.x0, va.y0, va.x1, va.y1), [cx0, cy0, cx1, cy1] = ringsBox(vis), alt = [];
-            if (vis.length) for (let i = 0; i <= 6; i++) for (let j = 0; j <= 6; j++) {
-              const x = cx0 + (cx1 - cx0) * (i + 0.5) / 7, y = cy0 + (cy1 - cy0) * (j + 0.5) / 7;
-              for (const c of cands) { if (c.anchor) continue; const f = Math.min(imp ? top : top - 1, fitAt(vis, x, y, c.ax, c.ay, FLOOR / scale) * scale * 0.95);
-                if (f >= FLOOR) alt.push({ c: { x, y, lines: c.lines, ax: c.ax, ay: c.ay }, f }); }
-            }
-            alt.sort((p, q) => q.f * (q.c.lines.length > 1 ? 0.85 : 1) - p.f * (p.c.lines.length > 1 ? 0.85 : 1));
-            for (const tr of alt) for (const f of steps(tr.f)) {
-              const w = Math.max(tr.c.ax * f, mh), h = tr.c.ay * f, bb = { x: tr.c.x * scale - w / 2, y: tr.c.y * scale - h / 2, w, h: h + mh };
-              if (inVis(bb) && free(bb)) { done = { c: tr.c, f, h, mh, n, bb }; break; }
-            }
-          }
-        }
-        if (done) { const { c, f, h, mh, n, bb } = done; placed.push(bb);
-          setName(a.el, c.lines, c.x, c.y); a.el.style.fontSize = f * u + "px"; a.el.style.strokeWidth = Math.min(2.5, f * 0.28) * u + "px";
-          if (n) { const g = regMark(k++); g.t0 = a.t.name; g.r0 = a.r.name; showMark(g, c.x, c.y + (h / 2 + mh / 2) * u, n, u * mu); } }
-        a.el.style.display = done ? "" : "none";
+          const c = want ? regionCount(a.t.name, a.r.name, st.s) : 0;
+          if (c) { const g = regMark(k++); g.t0 = a.t.name; g.r0 = a.r.name; if (!placeMark(g, got.bb, c, mu, rings)) k--; } }
+        a.el.style.display = got ? "" : "none";
       }
       for (let i = k; i < regMarks.length; i++) regMarks[i].g.style.display = "none";
     } else for (const g of regMarks) g.g.style.display = "none";
@@ -956,6 +1024,8 @@ function init(D) {
 
   // ---- pan and zoom
   let lblRaf = 0; const labelsSoon = () => { if (!lblRaf) lblRaf = requestAnimationFrame(() => { lblRaf = 0; labels(); }); };  // names follow a drag, once a frame
+  try { const ro = new ResizeObserver(() => { relayout(); labelsSoon(); });  // the map or a control over it changed size, appeared or went
+    for (const e of [svg, ...controlsOver()]) if (e) ro.observe(e); } catch (e) {}
   let moved = false; const ptrs = new Map(); let pinch = 0;
   const apply = () => { vp.setAttribute("transform", `translate(${st.x} ${st.y}) scale(${st.k})`); paint(); };
   const toMap = ev => { const b = svg.getBoundingClientRect(), m = Math.min(b.width / vw, b.height / vh);
@@ -1116,7 +1186,7 @@ function init(D) {
     if (!refresh && phone() && st.sheet !== "closed") { st.sheet = "closed"; $("panel").dataset.sheet = "closed"; }  // room for the map
     const hadFocus = pk.contains(document.activeElement);
     if (!refresh && !hadFocus) peekState.from = document.activeElement;  // focus goes back here when the card closes
-    pk.innerHTML = ""; pk.hidden = false; $("mapwrap").classList.add("peeking");
+    pk.innerHTML = ""; pk.hidden = false; $("mapwrap").classList.add("peeking"); relayout();
     const ph = h("h3", { id: "peek-h", tabIndex: -1, textContent: target.kind === "r" ? target.r : target.name });
     const head = h("div", { className: "ph" }, ph);
     const x = h("button", { className: "x", textContent: "×", title: "Close", onclick: closePeek }); x.setAttribute("aria-label", "Close"); head.append(x);
@@ -1156,7 +1226,7 @@ function init(D) {
     if (!peekState) return;
     const ps = peekState; peekState = null;
     const inCard = $("peek").contains(document.activeElement);
-    $("peek").hidden = true; $("mapwrap").classList.remove("peeking"); peekLine.setAttribute("d", ""); paint();
+    $("peek").hidden = true; $("mapwrap").classList.remove("peeking"); relayout(); peekLine.setAttribute("d", ""); paint();
     if (inCard) { const back = ps.from && ps.from.isConnected && ps.from !== document.body ? ps.from : svg; try { back.focus({ preventScroll: true }); } catch (e) {} }
     if (phone() && restore) { st.sheet = ps.sheet; $("panel").dataset.sheet = ps.sheet; }
     if (restore) moveTo(ps.cam.k, ps.cam.x, ps.cam.y);
@@ -1482,7 +1552,7 @@ function init(D) {
     if (on) try { $("nkey").open = true; } catch (e) {} };
   svg.addEventListener("pointerdown", () => { if (!phone()) return; closeMenus(); $("mapwrap").classList.remove("keys-open"); $("ph-key").setAttribute("aria-expanded", false); });
   const LEVELS = ["closed", "half", "full"];
-  const setSheet = v => { st.sheet = v; panel.dataset.sheet = v; labelsSoon(); };
+  const setSheet = v => { st.sheet = v; panel.dataset.sheet = v; relayout(); labelsSoon(); };
   panel.addEventListener("transitionend", e => { if (e.target === panel) labelsSoon(); });  // names make way for the sheet once it has moved
   { let y0 = null;
     $("handle").addEventListener("pointerdown", e => { y0 = e.clientY; try { $("handle").setPointerCapture(e.pointerId); } catch (x) {} });
@@ -1498,7 +1568,7 @@ function init(D) {
   phoneMQ.addEventListener("change", () => { if (!phone()) { closeMenus(); setSheet("closed"); } render(); });
   function render() {
     nationKey();
-    panel.dataset.sheet = phone() ? st.sheet : "closed";
+    const sheet = phone() ? st.sheet : "closed"; if (panel.dataset.sheet !== sheet) { panel.dataset.sheet = sheet; relayout(); }
     $("htitle").textContent = st.sel ? (st.sel.r || st.sel.t) : st.iso ? hname(st.iso) : st.ev && st.tab === "place" ? st.ev.ti : (st.tab === "holders" ? "Nations in " : st.tab === "history" ? "Earlier history" : "") + (st.tab === "history" ? "" : S[st.s]);
     const re = (D.real || [])[st.s];
     $("now").innerHTML = `${esc(S[st.s])}<small>${re ? esc(re.n) + " · " : ""}${evBySeason[st.s].length} located events</small>`;
@@ -1512,6 +1582,13 @@ function init(D) {
   }
   render();
   fromHash();
+  // work out where nation names go for every season's borders ahead of time, a little at a time when the page
+  // is idle, so stepping or playing through the seasons doesn't stall the first time each set of borders shows
+  { const idle = window.requestIdleCallback || (f => setTimeout(() => f({ timeRemaining: () => 8 }), 50));
+    const todo = [...new Set(S.map((_, i) => i))]; let bi = [];
+    const step = dl => { while (dl.timeRemaining() > 2 && (bi.length || todo.length)) { if (!bi.length) bi = natBlocks(todo.shift()).slice(); else natFits(bi.shift()); }
+      if (bi.length || todo.length) idle(step); };
+    idle(step); }
   addEventListener("hashchange", fromHash);  // a link pasted into this tab
   window.__atlas = { st, setSeason, select, holderAt, majority, pickNation, lab,
     view: (k, cx, cy) => { st.k = k; st.x = vx + vw / 2 - cx * k; st.y = vy + vh / 2 - cy * k; clamp(); apply(); } };
