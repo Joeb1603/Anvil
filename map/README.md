@@ -36,8 +36,10 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
     - Every Imperial nation is named whenever any of its land is on screen, if need be in small type. If even
       that doesn't fit, it goes over its land where it overlaps least.
     - Other powers are named only if the name fits, or nearly fits, over their own land.
-    - A power's other blocks of land are named too when the name fits inside them and isn't next to another of
-      its names.
+    - A power's other blocks of land are named too when the name fits inside them and isn't right beside another
+      of its names: small type for Imperial nations, 9px or more for other powers.
+    - Names are placed most-constrained first (the nations with the least room), so big nations move aside for
+      small ones, and every name is placed before any count.
   - **Territories:** up to 12px, down to 8px.
   - **Regions:** 11px, growing to 14px with the zoom, down to 8px.
   - A territory or region name never leaves its land, except an Imperial one that almost fits, which is drawn
