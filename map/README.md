@@ -73,6 +73,10 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   The summaries are written by Claude from each page (`mapbuilder/summarise.py`, run by the
   "Summarise events" workflow and the daily update using the `ANTHROPIC_API_KEY` repository secret),
   stored in `summaries.json` beside the page, and only rewritten when a page or its places change.
+  The page doesn't download that whole file (7 MB): each build splits it into `summaries/index.json`
+  (every overview, and which lines each event has: about 260 KB gzipped) and one file per season with
+  the fuller text and the lines (about 40 KB gzipped each), fetched the first time something from that
+  season is shown. Until it arrives a box shows the overview.
   Spending is recorded in `summaries_cost.json` and capped at $95 in total (the full history cost
   $67.25: a 20-event pilot plus one batch of 1,951).
 - **Place names in text are links:** in event summaries and control notes, territory, region and nation
@@ -96,6 +100,12 @@ An interactive map of the Empire and its neighbours with a timeline from 376YE W
   has a tap area at least 32px across. Double-tap zooms in one step; pinch and drag as usual. Tablets and computers keep
   the side-by-side layout.
 
+- **Keyboard:** Tab reaches the map; with the map focused (click it, or Tab to it) the arrow keys pan.
+  Anywhere except while typing, + and − zoom, 0 resets the view, [ and ] step through the seasons and /
+  jumps to search. Opening a place from a link moves focus into its card, and closing the card (Esc or ×)
+  puts focus back where it was. Screen readers hear the season once the timeline settles, the number of
+  search results, and what a search result opened.
+- **Nations key counts:** each nation in the key shows how many regions it holds that season.
 - **Shareable links:** the address keeps the season, what is open (a place, a nation or an event, or the
   Nations or Earlier history tab), the label mode and the view, e.g.
   `#s=388YE%20Autumn&t=Astolat&r=The%20Chase&v=6.00,1010,760`. Copy it to share exactly what you see;

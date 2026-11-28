@@ -55,6 +55,9 @@ a { color: var(--accent); }
 .mapwrap { position: relative; background: var(--sea); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; min-height: 300px; display: flex; flex-direction: column; }
 #map { width: 100%; flex: 1; min-height: 0; display: block; touch-action: none; cursor: grab; user-select: none; }
 #map.drag { cursor: grabbing; }
+#map:focus { outline: none; }
+#map:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 .cell { stroke: var(--bline); stroke-opacity: .22; stroke-width: 0.7; vector-effect: non-scaling-stroke; cursor: pointer; stroke-linejoin: round; fill-rule: evenodd; }
 /* the dark boundary lines follow the label mode: nations, territories (default) or regions */
 .natline { fill: none; stroke: var(--bline); stroke-width: 1.3; vector-effect: non-scaling-stroke; pointer-events: none; stroke-linejoin: round; display: none; }
@@ -107,7 +110,8 @@ a { color: var(--accent); }
 .nkey .nkg { grid-column: 1 / -1; }
 .nkey .nkg { color: var(--muted); font-size: .72rem; text-transform: uppercase; letter-spacing: .08em; margin-top: 5px; }
 .nkey button { display: flex; align-items: center; gap: 5px; border: 0; background: none; padding: 0; cursor: pointer; text-align: left; font-size: .76rem; width: 100%; white-space: nowrap; }
-.nkey button:hover span:last-child { text-decoration: underline; }
+.nkey button:hover span:not(.sw) { text-decoration: underline; }
+.nkey button .nkn { margin-left: auto; padding-left: 8px; color: var(--muted); font-size: .7rem; font-variant-numeric: tabular-nums; }
 .nkey .sw { width: 12px; height: 12px; }
 .flegend span { display: flex; align-items: center; gap: 7px; }
 .flegend i { display: inline-block; width: 18px; height: 0; border-top: 3px solid; }
@@ -337,7 +341,7 @@ details.hist summary { cursor: pointer; font-weight: 700; }
 
   <div class="main">
     <div class="mapwrap" id="mapwrap">
-      <svg id="map" role="img" aria-label="Map of the Empire and neighbouring territories"></svg>
+      <svg id="map" role="img" tabindex="0" aria-label="Map of the Empire and neighbouring territories. Keys: arrows pan, plus and minus zoom, 0 resets, [ and ] change season, / searches."></svg>
       <button class="keybtn ph" id="ph-key" aria-expanded="false">Key</button>
       <div class="keys"><div class="flegend" id="flegend"><span class="xkey"><i class="fightkey"></i>Fighting reported</span></div>
         <details class="nkey" id="nkey"><summary>Nations</summary><div class="nk" id="nk"></div></details></div>
@@ -346,9 +350,10 @@ details.hist summary { cursor: pointer; font-weight: 700; }
         <button id="zout" aria-label="Zoom out">−</button>
         <button id="zreset" aria-label="Reset view">⌂</button>
       </div>
-      <div class="note">Territory outlines are from the wiki's own map. Region borders are approximate: each region is placed by its label on the wiki's picture maps. Event text © Profound Decisions, <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>, from the <a href="https://www.profounddecisions.co.uk/empire-wiki/Main_Page" target="_blank" rel="noopener">Empire wiki</a>.</div>
+      <div class="note">Territory outlines are from the wiki's own map. Region borders are approximate: each region is placed by its label on the wiki's picture maps. Event text © Profound Decisions, <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>, from the <a href="https://www.profounddecisions.co.uk/empire-wiki/Main_Page" target="_blank" rel="noopener">Empire wiki</a>. <span class="keyhint">Keys: arrows pan (click the map first), + − zoom, 0 resets, [ ] change season, / searches.</span></div>
       <div class="tip" id="tip" hidden></div>
-      <aside class="peek" id="peek" hidden aria-live="polite"></aside>
+      <aside class="peek" id="peek" hidden role="dialog" aria-labelledby="peek-h"></aside>
+      <div class="sr" id="announce" aria-live="polite"></div>
     </div>
     <aside class="panel" id="panel" data-sheet="closed">
       <div class="handle ph" id="handle" role="button" tabindex="0" aria-label="Show or hide the information panel"><span class="grip"></span><span id="htitle"></span></div>
@@ -1042,13 +1047,33 @@ function init(D) {
     if (x.pattern === "dots") s.style.backgroundImage = "radial-gradient(var(--surface) 1.5px, transparent 2px)", s.style.backgroundSize = "5px 5px"; return s; };
   const hname = id => (H[id] || H.unknown).name;
   const heldBy = id => id === "Uncontrolled" ? "Uncontrolled: no nation or army holds it" : id === "unknown" ? "Holder not recorded" : "Held by " + hname(id);
-  // ---- written summaries (summaries.json beside the page): overview, detail, and a line per nation,
-  // territory and region. ctx picks the line: {k: "n"|"t"|"r", id}; none gives the overview.
-  let SUM = {};
-  if (location.protocol !== "file:")  // browsers can't fetch beside a page opened as a local file
-    fetch("summaries.json").then(r => r.ok ? r.json() : {}).then(x => { SUM = x || {}; render(); }).catch(() => {});
-  const lineFor = (e, ctx) => { const x = SUM[e.ti]; if (!x) return null; if (!ctx) return { t: x.o, p: false };
-    const l = (x[ctx.k] || {})[ctx.id]; return l ? { t: l.t, p: !!l.p } : null; };
+  // ---- written summaries (summaries/ beside the page): overview, detail, and a line per nation, territory
+  // and region. summaries/index.json has every event's overview and which lines it has (and whether each is a
+  // passing mention); each season's detail and line texts are in summaries/s<season>.json, fetched the first
+  // time something from that season is shown. ctx picks the line: {k: "n"|"t"|"r", id}; none gives the overview.
+  const SUM = {}, sumAsked = new Set(), sumWant = new Set(); let sumTimer = 0;
+  const canFetch = location.protocol !== "file:";  // browsers can't fetch beside a page opened as a local file
+  const sumEntry = ti => SUM[ti] || (SUM[ti] = {});
+  const sumLine = (x, k, nm) => { const g = x[k] || (x[k] = {}); return g[nm] || (g[nm] = { p: false }); };
+  if (canFetch) fetch("summaries/index.json").then(r => r.ok ? r.json() : {}).then(ix => {
+    for (const [ti, v] of Object.entries(ix || {})) { const x = sumEntry(ti); x.o = v.o;
+      for (const k of ["n", "t", "r"]) for (const [nm, pass] of Object.entries(v[k] || {})) sumLine(x, k, nm).p = !!pass; }
+    st.keep = true; render(); st.keep = false; }).catch(() => {});
+  function need(s) {
+    if (!canFetch || sumAsked.has(s) || sumWant.has(s)) return;
+    sumWant.add(s); clearTimeout(sumTimer); sumTimer = setTimeout(fetchSeasons, 0);  // one batch per render
+  }
+  function fetchSeasons() {
+    const ss = [...sumWant]; sumWant.clear(); ss.forEach(s => sumAsked.add(s));
+    Promise.all(ss.map(s => fetch(`summaries/s${s}.json`).then(r => r.ok ? r.json() : {}).catch(() => ({})).then(part => {
+      for (const [ti, v] of Object.entries(part || {})) { const x = sumEntry(ti); if (v.d) x.d = v.d;
+        for (const k of ["n", "t", "r"]) for (const [nm, t] of Object.entries(v[k] || {})) sumLine(x, k, nm).t = t; } })))
+      .then(() => { st.keep = true; render(); st.keep = false; });
+  }
+  const moreOpen = new Set();  // "Read more" sections the reader has opened
+  const sumOf = e => { need(e.s); return SUM[e.ti]; };  // the summary, asking for its season's texts if not here yet
+  const lineFor = (e, ctx) => { const x = sumOf(e); if (!x || !x.o) return null; if (!ctx) return { t: x.o, p: false };
+    const l = (x[ctx.k] || {})[ctx.id]; return l ? { t: l.t || x.o, p: !!l.p } : null; };
   const isPassing = (e, ctx) => { const l = ctx && lineFor(e, ctx); return !!(l && l.p); };
   // ---- place names in text become links that open the peek card
   const PL = []; {
@@ -1089,8 +1114,11 @@ function init(D) {
     if (!peekState) peekState = { cam: { k: st.k, x: st.x, y: st.y }, sheet: st.sheet };
     peekState.target = target;
     if (!refresh && phone() && st.sheet !== "closed") { st.sheet = "closed"; $("panel").dataset.sheet = "closed"; }  // room for the map
+    const hadFocus = pk.contains(document.activeElement);
+    if (!refresh && !hadFocus) peekState.from = document.activeElement;  // focus goes back here when the card closes
     pk.innerHTML = ""; pk.hidden = false; $("mapwrap").classList.add("peeking");
-    const head = h("div", { className: "ph" }, h("h3", { textContent: target.kind === "r" ? target.r : target.name }));
+    const ph = h("h3", { id: "peek-h", tabIndex: -1, textContent: target.kind === "r" ? target.r : target.name });
+    const head = h("div", { className: "ph" }, ph);
     const x = h("button", { className: "x", textContent: "×", title: "Close", onclick: closePeek }); x.setAttribute("aria-label", "Close"); head.append(x);
     pk.append(head);
     const evs = evBySeason[st.s].filter(e => st.types.has(e.ty));
@@ -1100,7 +1128,7 @@ function init(D) {
       const ch = D.control.changes.filter(c => c.kind !== "status" && c.s <= st.s && (c.h === id || c.ph === id)).sort((a, c) => c.s - a.s).slice(0, 3);
       if (ch.length) { pk.append(h("div", { className: "sub", textContent: "Latest gains and losses" })); ch.forEach(c => pk.append(changeItem(c, true))); }
       const mine = evs.filter(e => SUM[e.ti] && (SUM[e.ti].n || {})[hname(id)] && !(SUM[e.ti].n[hname(id)].p)).slice(0, 3);
-      mine.forEach(e => pk.append(h("div", { className: "pev" }, h("b", { textContent: e.ti }), para("", SUM[e.ti].n[hname(id)].t, e))));
+      mine.forEach(e => pk.append(h("div", { className: "pev" }, h("b", { textContent: e.ti }), para("", lineFor(e, { k: "n", id: hname(id) }).t, e))));
       if (!refresh) frameNation(id); peekLine.setAttribute("d", cells.filter(c => !c.t.sea && c.hid === id).map(c => c.base.getAttribute("d")).join(""));
     } else {
       const t = byName[target.t], r = target.kind === "r" ? target.r : "";
@@ -1114,7 +1142,7 @@ function init(D) {
       const here = evs.filter(e => e.pl[t.name] && (!r || e.pl[t.name].includes(r)));
       const ranked = [...here.filter(e => !isPassing(e, ctx)), ...here.filter(e => isPassing(e, ctx))].slice(0, 3);
       if (ranked.length) pk.append(h("div", { className: "sub", style: "margin-top:6px", textContent: `${here.length} event${here.length === 1 ? "" : "s"} in ${S[st.s]}` }));
-      ranked.forEach(e => { const l = lineFor(e, ctx); pk.append(h("div", { className: "pev" }, h("b", { textContent: e.ti }), para(l && l.p ? "passing" : "", l ? l.t : (SUM[e.ti] ? SUM[e.ti].o : e.ex || ""), e))); });
+      ranked.forEach(e => { const l = lineFor(e, ctx); pk.append(h("div", { className: "pev" }, h("b", { textContent: e.ti }), para(l && l.p ? "passing" : "", l ? l.t : (SUM[e.ti] && SUM[e.ti].o ? SUM[e.ti].o : e.ex || ""), e))); });
       const rr = r && t.regions.find(x => x.name === r);
       const polys = rr ? (rr.curPolys || rr.polys) : (t.curPolys || t.polys);
       peekLine.setAttribute("d", pathOf(polys)); if (!refresh) frameBox(bboxOf(polys));
@@ -1122,24 +1150,42 @@ function init(D) {
     pk.append(h("button", { className: "open", textContent: "Open in Info", onclick: () => {
       const tg = peekState.target; endPeek(false);
       if (tg.kind === "n") pickNation(tg.name, "map"); else { select(tg.t, tg.kind === "r" ? tg.r : ""); } } }));
+    if (!refresh || hadFocus) try { ph.focus({ preventScroll: true }); } catch (e) {}
   }
   function endPeek(restore) {
     if (!peekState) return;
     const ps = peekState; peekState = null;
+    const inCard = $("peek").contains(document.activeElement);
     $("peek").hidden = true; $("mapwrap").classList.remove("peeking"); peekLine.setAttribute("d", ""); paint();
+    if (inCard) { const back = ps.from && ps.from.isConnected && ps.from !== document.body ? ps.from : svg; try { back.focus({ preventScroll: true }); } catch (e) {} }
     if (phone() && restore) { st.sheet = ps.sheet; $("panel").dataset.sheet = ps.sheet; }
     if (restore) moveTo(ps.cam.k, ps.cam.x, ps.cam.y);
   }
   const closePeek = () => endPeek(true);
   addEventListener("keydown", e => { if (e.key === "Escape" && peekState) closePeek(); });
+  // keyboard: arrows pan while the map has focus; + − 0 [ ] / work anywhere except while typing
+  addEventListener("keydown", e => {
+    if (e.ctrlKey || e.metaKey || e.altKey || e.defaultPrevented) return;
+    const tg = e.target, typing = tg && (tg.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(tg.tagName));
+    if (typing) return;
+    const pan = { ArrowLeft: [1, 0], ArrowRight: [-1, 0], ArrowUp: [0, 1], ArrowDown: [0, -1] }[e.key];
+    if (pan && tg === svg) { e.preventDefault(); st.x += pan[0] * vw / 5; st.y += pan[1] * vh / 5; clamp(); apply(); return; }
+    if (e.key === "+" || e.key === "=") { e.preventDefault(); zoomAt(vx + vw / 2, vy + vh / 2, 1.25); }
+    else if (e.key === "-" || e.key === "_") { e.preventDefault(); zoomAt(vx + vw / 2, vy + vh / 2, 1 / 1.25); }
+    else if (e.key === "0") { e.preventDefault(); st.k = 1; st.x = 0; st.y = 0; apply(); }
+    else if (e.key === "[" || e.key === "]") { e.preventDefault(); setSeason(st.s + (e.key === "]" ? 1 : -1)); }
+    else if (e.key === "/") { e.preventDefault(); if (phone()) { closeMenus(); top.classList.add("find"); $("ph-search").setAttribute("aria-expanded", true); } q.focus(); }
+  });
   function evItem(e, showSeason, ctx) {
-    const d = h("div", { className: "ev" }), x = SUM[e.ti], line = lineFor(e, ctx);
+    const d = h("div", { className: "ev" }), x = sumOf(e), line = lineFor(e, ctx);
     const meta = h("div", { className: "meta" }, h("span", { className: "tag", textContent: e.ty }));
     if (showSeason) meta.append(h("button", { className: "linkish", textContent: S[e.s], onclick: () => setSeason(e.s) }));
     const places = Object.keys(e.pl); if (!ctx || places.length > 1) meta.append(h("span", { textContent: places.length > 4 ? places.length + " territories" : places.join(", ") }));
     d.append(meta, h("div", { className: "evt", textContent: e.ti }));
-    d.append(para(line && line.p ? "passing" : "", line ? line.t : (x ? x.o : e.ex || ""), e));
-    if (x) { const more = h("details", { className: "more" }); more.append(h("summary", { textContent: "Read more" }));
+    d.append(para(line && line.p ? "passing" : "", line ? line.t : (x && x.o ? x.o : e.ex || ""), e));
+    if (x && x.d) { const more = h("details", { className: "more" }), key = e.ti + "|" + (ctx ? ctx.k + ctx.id : "");
+      more.open = moreOpen.has(key); more.addEventListener("toggle", () => { more.open ? moreOpen.add(key) : moreOpen.delete(key); });  // stays open when the panel redraws
+      more.append(h("summary", { textContent: "Read more" }));
       if (ctx) more.append(para("", x.o, e));
       more.append(para("", x.d, e)); d.append(more); }
     if (e.u) d.append(h("a", { className: "full", href: e.u, target: "_blank", rel: "noopener", textContent: "Read full article →" }));
@@ -1180,12 +1226,12 @@ function init(D) {
       frameBox([x0, y0, Math.max(...bs.map(b => b[0] + b[2])) - x0, Math.max(...bs.map(b => b[1] + b[3])) - y0], 6, 0.8); }
   }
   function panelEvent(b, e) {
-    const x = SUM[e.ti];
+    const x = sumOf(e);
     b.append(h("div", { className: "crumb" }, h("button", { textContent: "Season overview", onclick: () => { st.ev = null; render(); } })),
       h("h2", { textContent: e.ti }), h("div", { className: "crumb" }, h("span", { className: "tag", textContent: e.ty }), " " + S[e.s]));
     if (st.s !== e.s) b.append(h("div", { className: "callout" }, h("b", { textContent: "Another season" }), `This event is from ${S[e.s]}; the map shows ${S[st.s]}. `,
       h("button", { className: "linkish", textContent: "Go to " + S[e.s], onclick: () => setSeason(e.s) })));
-    b.append(para("", x ? x.o : e.ex || "", e));
+    b.append(para("", x && x.o ? x.o : e.ex || "", e));
     if (x && x.d) { const more = h("details", { className: "more" }); more.append(h("summary", { textContent: "Read more" }), para("", x.d, e)); b.append(more); }
     if (e.u) b.append(h("a", { className: "full", href: e.u, target: "_blank", rel: "noopener", textContent: "Read full article →" }));
     const places = Object.keys(e.pl).filter(t => byName[t]).sort((a, c) => isPassing(e, { k: "t", id: a }) - isPassing(e, { k: "t", id: c }) || a.localeCompare(c));
@@ -1358,11 +1404,15 @@ function init(D) {
   }
   const range = $("season"); range.max = last; range.value = st.s;
   range.addEventListener("input", () => setSeason(+range.value));
-  function setSeason(i) { st.s = Math.max(0, Math.min(last, i)); range.value = st.s; render(); }
+  function setSeason(i) { st.s = Math.max(0, Math.min(last, i)); range.value = st.s; render(); announceSeason(); }
+  // screen readers hear the season once the timeline settles (not on every step of a drag, nor while playing)
+  let annT = 0;
+  const announce = (text, wait = 0) => { clearTimeout(annT); annT = setTimeout(() => { $("announce").textContent = text; }, wait); };
+  const announceSeason = () => { if (!st.playing) announce(`${S[st.s]}: ${evBySeason[st.s].length} located event${evBySeason[st.s].length === 1 ? "" : "s"}`, 700); };
   $("prev").onclick = () => setSeason(st.s - 1); $("next").onclick = () => setSeason(st.s + 1);
   $("play").onclick = () => { if (st.playing) { clearInterval(st.playing); st.playing = null; } else { if (st.s === last) setSeason(0);
-      st.playing = setInterval(() => { if (st.s >= last) { clearInterval(st.playing); st.playing = null; $("play").textContent = "▶ Play"; } else setSeason(st.s + 1); }, 1100); }
-    $("play").textContent = st.playing ? "❚❚ Pause" : "▶ Play"; };
+      st.playing = setInterval(() => { if (st.s >= last) { clearInterval(st.playing); st.playing = null; $("play").textContent = "▶ Play"; announceSeason(); } else setSeason(st.s + 1); }, 1100); }
+    $("play").textContent = st.playing ? "❚❚ Pause" : "▶ Play"; if (!st.playing) announceSeason(); };
 
   // ---- controls
   // highlight one holder's lands (click again to clear); used by the map in Nations mode and the Holders tab
@@ -1399,8 +1449,9 @@ function init(D) {
   q.addEventListener("input", () => { const v = q.value.trim().toLowerCase(); res.innerHTML = ""; resAt = -1; q.removeAttribute("aria-activedescendant"); if (v.length < 2) { res.hidden = true; return; }
     const hits = index.filter(x => x.label.toLowerCase().includes(v)).sort((a, b) => (!a.place - !b.place) || a.label.toLowerCase().indexOf(v) - b.label.toLowerCase().indexOf(v)).slice(0, 14);
     if (!hits.length) res.append(h("div", { className: "empty", textContent: "No place or event matches.", style: "padding:6px 8px" }));
-    hits.forEach((x, i) => { const b = h("button", { id: "res" + i, onclick: () => { res.hidden = true; q.value = ""; closeMenus(); x.go(); } }, x.label, h("small", { textContent: x.sub }));
+    hits.forEach((x, i) => { const b = h("button", { id: "res" + i, onclick: () => { res.hidden = true; q.value = ""; closeMenus(); x.go(); announce(`Opened ${x.label}, ${x.sub}`); } }, x.label, h("small", { textContent: x.sub }));
       b.setAttribute("role", "option"); b.setAttribute("aria-selected", false); b.tabIndex = -1; res.append(b); });
+    announce(hits.length ? `${hits.length} result${hits.length === 1 ? "" : "s"}` : "No place or event matches", 500);
     res.hidden = false; });
   q.addEventListener("keydown", e => {
     if (e.key === "ArrowDown" || e.key === "ArrowUp") { if (res.hidden) return; e.preventDefault(); markRes(resAt < 0 && e.key === "ArrowUp" ? -1 : resAt + (e.key === "ArrowDown" ? 1 : -1)); }
@@ -1418,7 +1469,7 @@ function init(D) {
       const hs = D.holders.filter(x => x.group === g && n[x.id]).sort((a, c) => n[c.id] - n[a.id]); if (!hs.length) continue;
       nk.append(h("div", { className: "nkg", textContent: g === "Others" ? "Neutral and others" : g }));
       for (const x of hs) nk.append(h("button", { title: `${x.name}: ${n[x.id]} region${n[x.id] === 1 ? "" : "s"}`, onclick: () => { leaveList(); pickNation(x.id, "key"); } },
-        swatch(x.id), h("span", { textContent: x.name })));
+        swatch(x.id), h("span", { textContent: x.name }), h("small", { className: "nkn", textContent: n[x.id], ariaHidden: "true" })));
     }
   }
   // ---- phones: header menus, the key button, the info sheet and double-tap zoom

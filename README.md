@@ -53,6 +53,8 @@ Actions). Run the "Summarise events" workflow from the Actions tab: `limit 20, m
 pilot, then `limit 0, mode batch` for everything (half price). After that the daily update summarises
 new and edited events. `python3 -m mapbuilder.summarise --dry-run` shows what would be sent and the
 estimated cost; the script refuses to go past $95 of recorded spending in total.
+`map/summaries.json` is the master copy; each build splits it into `map/summaries/` (an index plus one
+file per season), which is what the page downloads.
 
 ## Usage
 

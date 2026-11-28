@@ -665,7 +665,39 @@ def write(data):
             '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n</head>\n<body>\n'
             + template.replace("<!--DATA-->", inline) + "\n</body>\n</html>\n")
     (MAP_DIR / "index.html").write_text(page, encoding="utf-8")
+    write_summaries(data, MAP_DIR / "summaries")
     return len(blob), len(page)
+
+
+def write_summaries(data, out):
+    """Split map/summaries.json (the master, which summarise.py writes and checks.py reads) for the page:
+    out/index.json holds every event's overview and which nation, territory and region lines it has (1 when the
+    line is only a passing mention), enough to order and filter lists; out/s<season>.json holds that season's
+    details and line texts, which the page fetches when it first shows something from that season."""
+    src = MAP_DIR / "summaries.json"
+    out.mkdir(parents=True, exist_ok=True)
+    summ = json.loads(src.read_text(encoding="utf-8")) if src.exists() else {}
+    season = {e["ti"]: e["s"] for e in data["events"]}
+    index, parts = {}, collections.defaultdict(dict)
+    for ti, v in summ.items():
+        if ti not in season:
+            continue  # a summary for a page that is no longer a placed event
+        index[ti] = {"o": v.get("o", "")}
+        part = {"d": v["d"]} if v.get("d") else {}
+        for k in ("n", "t", "r"):
+            lines = v.get(k) or {}
+            if lines:
+                index[ti][k] = {nm: int(bool(x.get("p"))) for nm, x in lines.items()}
+                part[k] = {nm: x.get("t", "") for nm, x in lines.items()}
+        parts[season[ti]][ti] = part
+    dump = lambda x: json.dumps(x, ensure_ascii=False, separators=(",", ":"))
+    keep = {"index.json"}
+    (out / "index.json").write_text(dump(index), encoding="utf-8")
+    for s, part in parts.items():
+        (out / f"s{s}.json").write_text(dump(part), encoding="utf-8"); keep.add(f"s{s}.json")
+    for f in out.glob("*.json"):  # seasons that no longer have any summaries
+        if f.name not in keep:
+            f.unlink()
 
 
 if __name__ == "__main__":
@@ -688,8 +720,7 @@ if __name__ == "__main__":
         pathlib.Path(out).mkdir(parents=True, exist_ok=True)
         d2, _ = build()
         (pathlib.Path(out) / "data.json").write_text(json.dumps(d2, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-        if (MAP_DIR / "summaries.json").exists():  # the written summaries travel with the page
-            (pathlib.Path(out) / "summaries.json").write_text((MAP_DIR / "summaries.json").read_text(encoding="utf-8"), encoding="utf-8")
+        write_summaries(d2, pathlib.Path(out) / "summaries")  # the written summaries travel with the page
         (pathlib.Path(out) / "empire-atlas.html").write_text(
             (ROOT / "mapbuilder" / "template.html").read_text(encoding="utf-8").replace("<!--DATA-->", ""), encoding="utf-8")
         print("artifact copy written to", out)
