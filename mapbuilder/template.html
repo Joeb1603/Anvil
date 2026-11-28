@@ -47,7 +47,8 @@ a { color: var(--accent); }
 .results { position: absolute; z-index: 20; top: calc(100% + 4px); right: 0; width: min(340px, 86vw); max-height: 320px; overflow: auto;
   background: var(--surface); border: 1px solid var(--line); border-radius: 6px; box-shadow: 0 8px 24px rgb(0 0 0 / .18); padding: 4px; }
 .results button { display: block; width: 100%; text-align: left; border: 0; background: none; padding: 6px 8px; border-radius: 4px; cursor: pointer; }
-.results button:hover, .results button:focus-visible { background: var(--sunk); }
+.results button:hover, .results button:focus-visible, .results button.act { background: var(--sunk); }
+.results button.act { outline: 2px solid var(--accent); outline-offset: -2px; }
 .results small { color: var(--muted); display: block; }
 
 .main { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: 10px; min-height: 0; }
@@ -81,7 +82,9 @@ a { color: var(--accent); }
   paint-order: stroke; stroke: var(--surface); stroke-width: 3px; stroke-linejoin: round; letter-spacing: .03em; }
 .rlabel { font-family: var(--body); font-weight: 500; fill: var(--ink); text-anchor: middle; dominant-baseline: central; pointer-events: none;
   paint-order: stroke; stroke: var(--surface); stroke-width: 2.5px; stroke-linejoin: round; }
-.mark circle { fill: var(--ink); stroke: var(--surface); stroke-width: 2; vector-effect: non-scaling-stroke; cursor: pointer; }
+.rlabel.minor { font-weight: 400; fill: color-mix(in srgb, var(--ink) 78%, var(--surface)); }
+.mark .hit { fill: transparent; stroke: none; cursor: pointer; }
+.mark circle:not(.hit) { fill: var(--ink); stroke: var(--surface); stroke-width: 2; vector-effect: non-scaling-stroke; cursor: pointer; }
 .mark text { fill: var(--surface); font-family: var(--body); font-weight: 700; text-anchor: middle; dominant-baseline: central; pointer-events: none; font-variant-numeric: tabular-nums; }
 .nlabel { font-family: var(--display); font-weight: 700; fill: var(--ink); text-anchor: middle; dominant-baseline: central; pointer-events: none;
   paint-order: stroke; stroke: var(--surface); stroke-linejoin: round; }
@@ -264,21 +267,21 @@ details.hist summary { cursor: pointer; font-weight: 700; }
   .keys { display: none; top: 52px; bottom: 8px; left: 8px; max-width: 78%; }
   .mapwrap.keys-open .keys { display: flex; }
   .panel { position: absolute; z-index: 20; left: 0; right: 0; bottom: 0; max-height: none; border-radius: 14px 14px 0 0;
-    box-shadow: 0 -6px 24px rgb(0 0 0 / .22); transition: height .22s ease; height: 86px; }
+    box-shadow: 0 -6px 24px rgb(0 0 0 / .22); transition: height .22s ease; height: 94px; }
   .panel[data-sheet="half"] { height: 48%; }
   .panel[data-sheet="full"] { height: calc(100% - 8px); }
   .panel[data-sheet="closed"] .pbody { visibility: hidden; }
-  .handle { display: flex; flex-direction: column; align-items: center; gap: 3px; padding: 6px 12px 2px; cursor: grab; touch-action: none; user-select: none; }
+  .handle { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; padding: 6px 12px 2px; min-height: 44px; box-sizing: border-box; cursor: grab; touch-action: none; user-select: none; }
   .grip { width: 40px; height: 4px; border-radius: 2px; background: var(--line); }
   #htitle { font-family: var(--display); font-weight: 700; font-size: .95rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
-  .tabs button { padding: 7px 4px; }
+  .tabs button { padding: 7px 4px; min-height: 44px; }
   .pbody { overflow: auto; overscroll-behavior: contain; padding-bottom: 24px; }
   /* compact season bar */
   .rail { position: static; grid-template-columns: minmax(0, 1fr) auto; padding: 6px 10px 5px; gap: 3px 10px; }
   .now { grid-column: 1; grid-row: 1; font-size: 1.05rem; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .now small { display: none; }
   .transport { grid-column: 2; grid-row: 1; }
-  .transport button { min-width: 42px; height: 36px; padding: 0 10px; }
+  .transport button { min-width: 44px; height: 44px; padding: 0 10px; }
   .track { grid-column: 1 / -1; grid-row: 2; }
   #hist { height: 18px; }
 }
@@ -291,10 +294,12 @@ details.hist summary { cursor: pointer; font-weight: 700; }
   .now { grid-column: 1; grid-row: 1; font-size: .95rem; }
   .track { grid-column: 2; grid-row: 1; }
   .transport { grid-column: 3; grid-row: 1; }
-  .transport button { height: 30px; min-width: 36px; }
+  .transport button { height: 40px; min-width: 42px; }
   #hist, #years { display: none; }
   .zoom button { width: 34px; height: 34px; }
-  .panel { height: 70px; }
+  /* closed, the sheet is just its handle and title; the tabs appear when it opens */
+  .panel { height: 44px; }
+  .panel[data-sheet="closed"] .tabs { display: none; }
   /* open, the panel sits down the right-hand side, leaving the map visible on the left */
   .panel[data-sheet="half"], .panel[data-sheet="full"] { top: 0; left: auto; width: 50%; height: 100%; border-radius: 12px 0 0 12px; box-shadow: -6px 0 24px rgb(0 0 0 / .22); }
   .panel[data-sheet="full"] { width: 72%; }
@@ -474,8 +479,9 @@ function init(D) {
       }
     }
     t.outline = el("path", { d: pathOf(t.polys), class: "outline" + (t.approx ? " approx" : "") }, gOut);
-    t.label = el("text", { class: "tlabel", x: t.centre[0], y: t.centre[1] }, gLab); t.label.textContent = t.name;
-    t.rlabels = t.regions.map(r => { const x = el("text", { class: "rlabel", x: r.centre[0], y: r.centre[1] }, gLab); x.textContent = r.name; return x; });
+    t.label = el("text", { class: "tlabel", x: t.centre[0], y: t.centre[1] }, gLab); t.label.textContent = t.name; t.label.dataset.key = t.name;
+    t.rlabels = t.regions.map(r => { const x = el("text", { class: "rlabel" + (t.imperial ? "" : " minor"), x: r.centre[0], y: r.centre[1] }, gLab);
+      x.textContent = r.name; x.dataset.key = t.name + "|" + r.name; return x; });
     if (!t.sea) { t.mark = el("g", { class: "mark" }, gMark); t.mc = el("circle", { cx: t.centre[0], cy: t.centre[1] }, t.mark); t.mt = el("text", { x: t.centre[0], y: t.centre[1] }, t.mark);
       t.mark.addEventListener("click", () => { leaveList(); select(t.name, ""); }); }
   }
@@ -534,6 +540,7 @@ function init(D) {
   const allRegions = [];
   for (const t of T) t.regions.forEach((r, i) => { r.area = polyArea(r.polys); allRegions.push({ t, r, el: t.rlabels[i] }); });
   allRegions.sort((a, b) => b.r.area - a.r.area);
+  const regOrder = [...allRegions.filter(a => a.t.imperial), ...allRegions.filter(a => !a.t.imperial)];  // Imperial names first
   const shortName = id => (H[id] ? H[id].name : id).replace(/\s*\(.*\)$/, "");
   const pool = [];
   const markR = (n, u) => (5.5 + Math.sqrt(n) * 1.05) * u;  // count circles: small, growing gently
@@ -541,11 +548,118 @@ function init(D) {
   const regMarks = [];
   const regMark = i => { while (regMarks.length <= i) { const g = el("g", { class: "mark" }, gMark), m = { g, c: el("circle", {}, g), t: el("text", {}, g) };
     g.addEventListener("click", () => { leaveList(); select(m.t0, m.r0); }); regMarks.push(m); } return regMarks[i]; };
+  const coarse = matchMedia("(pointer: coarse)"); let px1 = 1;  // one screen pixel in map units, as of the last paint
   const showMark = (g, x, y, n, u) => { const rr = markR(n, u); g.c.setAttribute("cx", x); g.c.setAttribute("cy", y); g.c.setAttribute("r", rr);
+    let hit = g.g.querySelector(".hit"); if (!hit) { hit = document.createElementNS("http://www.w3.org/2000/svg", "circle"); hit.setAttribute("class", "hit"); g.g.prepend(hit); }
+    hit.setAttribute("cx", x); hit.setAttribute("cy", y); hit.setAttribute("r", coarse.matches ? Math.max(rr, 16 * px1) : rr);  // at least 32px across to a finger
     g.t.setAttribute("x", x); g.t.setAttribute("y", y); g.t.textContent = n; g.t.style.fontSize = 9 * u + "px"; g.g.style.display = ""; };
   const natMark = i => { while (natMarks.length <= i) { const g = el("g", { class: "mark" }, gMark), m = { g, c: el("circle", {}, g), t: el("text", {}, g) };
     g.addEventListener("click", () => { leaveList(); pickNation(m.id, "map"); }); natMarks.push(m); } return natMarks[i]; };
   const natLabel = i => { while (pool.length <= i) pool.push(el("text", { class: "nlabel" }, gNat)); return pool[i]; };
+
+  // ---- fitting a name inside a shape
+  // A name is a box ax·f wide and ay·f tall (f = font size). fitAt gives the largest f at which that box, centred
+  // at (x, y), stays inside the rings: twice the smallest stretched L∞ distance from the point to any edge.
+  // `beat` lets a search skip a point as soon as it can't do better than the best found so far.
+  const inRings = (rings, x, y) => { let c = false;
+    for (const p of rings) for (let i = 0, j = p.length - 1; i < p.length; j = i++) {
+      const yi = p[i][1], yj = p[j][1]; if ((yi > y) !== (yj > y) && x < (p[j][0] - p[i][0]) * (y - yi) / (yj - yi) + p[i][0]) c = !c; }
+    return c; };
+  function fitAt(rings, x, y, ax, ay, beat = 0) {
+    if (!inRings(rings, x, y)) return 0;
+    let best = Infinity; const lim = beat / 2;
+    for (const p of rings) for (let i = 0, j = p.length - 1; i < p.length; j = i++) {
+      const Ax = (p[j][0] - x) / ax, Ay = (p[j][1] - y) / ay, dx = (p[i][0] - p[j][0]) / ax, dy = (p[i][1] - p[j][1]) / ay;
+      let m = Math.min(Math.max(Math.abs(Ax), Math.abs(Ay)), Math.max(Math.abs(Ax + dx), Math.abs(Ay + dy)));
+      for (const t of [dx ? -Ax / dx : -1, dy ? -Ay / dy : -1, dx !== dy ? (Ay - Ax) / (dx - dy) : -1, dx !== -dy ? -(Ax + Ay) / (dx + dy) : -1])
+        if (t > 0 && t < 1) m = Math.min(m, Math.max(Math.abs(Ax + t * dx), Math.abs(Ay + t * dy)));
+      if (m < best) { best = m; if (best <= lim) return 0; }
+    }
+    return 2 * best;
+  }
+  const ringsBox = rings => { let x0 = Infinity, y0 = Infinity, x1 = -Infinity, y1 = -Infinity;
+    for (const p of rings) for (const [x, y] of p) { if (x < x0) x0 = x; if (x > x1) x1 = x; if (y < y0) y0 = y; if (y > y1) y1 = y; }
+    return [x0, y0, x1, y1]; };
+  // the spot where the box can be largest: a coarse grid over the shape, then two finer passes round the best point
+  function bestFit(rings, ax, ay, n = 10) {
+    const [x0, y0, x1, y1] = ringsBox(rings); let bx = (x0 + x1) / 2, by = (y0 + y1) / 2, bf = 0;
+    const pass = (cx, cy, hw, hh, k) => { for (let i = 0; i <= k; i++) for (let j = 0; j <= k; j++) {
+      const x = cx - hw + 2 * hw * i / k, y = cy - hh + 2 * hh * j / k, f = fitAt(rings, x, y, ax, ay, bf);
+      if (f > bf) { bf = f; bx = x; by = y; } } };
+    pass((x0 + x1) / 2, (y0 + y1) / 2, (x1 - x0) / 2, (y1 - y0) / 2, n);
+    let sx = (x1 - x0) / n, sy = (y1 - y0) / n;
+    for (let s = 0; s < 2; s++) { pass(bx, by, sx, sy, 6); sx /= 3; sy /= 3; }
+    return { x: bx, y: by, f: bf };
+  }
+  // clip rings to a rectangle (Sutherland–Hodgman), for the part of a shape that is on screen
+  function clipRings(rings, x0, y0, x1, y1) {
+    const edges = [[p => p[0] >= x0, (a, b) => [x0, a[1] + (b[1] - a[1]) * (x0 - a[0]) / (b[0] - a[0])]],
+      [p => p[0] <= x1, (a, b) => [x1, a[1] + (b[1] - a[1]) * (x1 - a[0]) / (b[0] - a[0])]],
+      [p => p[1] >= y0, (a, b) => [a[0] + (b[0] - a[0]) * (y0 - a[1]) / (b[1] - a[1]), y0]],
+      [p => p[1] <= y1, (a, b) => [a[0] + (b[0] - a[0]) * (y1 - a[1]) / (b[1] - a[1]), y1]]];
+    const out = [];
+    for (let ring of rings) {
+      for (const [inside, cut] of edges) { const next = [];
+        for (let i = 0; i < ring.length; i++) { const a = ring[(i + ring.length - 1) % ring.length], b = ring[i];
+          if (inside(b)) { if (!inside(a)) next.push(cut(a, b)); next.push(b); } else if (inside(a)) next.push(cut(a, b)); }
+        ring = next; if (!ring.length) break; }
+      if (ring.length >= 3) out.push(ring);
+    }
+    return out;
+  }
+  // name widths per pixel of font, measured once in the page's own fonts (again once web fonts have loaded)
+  const mctx = document.createElement("canvas").getContext("2d"); let fitGen = 0; const widths = new Map();
+  const famOf = cls => { const x = document.querySelector("#map ." + cls); return x ? getComputedStyle(x).fontFamily : "sans-serif"; };
+  const emWidth = (text, weight, cls, spacing = 0) => { const key = cls + weight + "|" + text; let w = widths.get(key);
+    if (w === undefined) { mctx.font = `${weight} 100px ${famOf(cls)}`; w = mctx.measureText(text).width / 100 + spacing * text.length; widths.set(key, w); }
+    return w; };
+  try { document.fonts.ready.then(() => { widths.clear(); fitGen++; if (typeof paint === "function") paint(); }); } catch (e) {}
+  // a region name as one line, or two when it has a space (split at the space nearest the middle)
+  const PADX = 0.35, LINE = 1.15;
+  function nameShapes(name, weight) {
+    const one = { lines: [name], ax: emWidth(name, weight, "rlabel") + PADX, ay: LINE };
+    const sp = [...name.matchAll(/ /g)].map(m => m.index); if (!sp.length) return [one];
+    const at = sp.reduce((a, b) => Math.abs(b - name.length / 2) < Math.abs(a - name.length / 2) ? b : a);
+    const lines = [name.slice(0, at), name.slice(at + 1)];
+    return [one, { lines, ax: Math.max(...lines.map(l => emWidth(l, weight, "rlabel"))) + PADX, ay: 2 * LINE }];
+  }
+  // best spots for a region's name in its current shape (cached until the shape or the fonts change)
+  function regionFits(a) {
+    const rings = a.r.curPolys || a.r.polys, c = a.fit;
+    if (c && c.rings === rings && c.gen === fitGen) return c.list;
+    const weight = a.t.imperial ? 500 : 400, list = [];
+    for (const s of nameShapes(a.r.name, weight)) {
+      list.push({ ...bestFit(rings, s.ax, s.ay), lines: s.lines, ax: s.ax, ay: s.ay });
+      list.push({ x: a.r.centre[0], y: a.r.centre[1], f: fitAt(rings, a.r.centre[0], a.r.centre[1], s.ax, s.ay), lines: s.lines, ax: s.ax, ay: s.ay, anchor: true });
+    }
+    a.fit = { rings, gen: fitGen, list, box: ringsBox(rings) };
+    return list;
+  }
+  // write a name (one or two lines) at (x, y), map units
+  function setName(el, lines, x, y) {
+    el.setAttribute("x", x); el.setAttribute("y", y);
+    if (lines.length === 1) { if (el.firstElementChild) el.textContent = lines[0]; return; }
+    if (el.children.length !== 2) { el.textContent = "";
+      for (const l of lines) { const t = document.createElementNS("http://www.w3.org/2000/svg", "tspan"); t.textContent = l; el.append(t); } }
+    el.children[0].setAttribute("x", x); el.children[0].setAttribute("dy", -LINE / 2 + "em");
+    el.children[1].setAttribute("x", x); el.children[1].setAttribute("dy", LINE + "em");
+  }
+  // the part of the map that can carry names, in map units, and the controls drawn over it (screen boxes in
+  // the label frame, map units × scale). The translucent Nations key is left out on purpose: names show through it.
+  function visArea(scale) {
+    const b = svg.getBoundingClientRect(), m = Math.min(b.width / vw, b.height / vh), ox = (b.width - vw * m) / 2, oy = (b.height - vh * m) / 2;
+    const mx = X => ((X - b.left - ox) / m + vx - st.x) / st.k, my = Y => ((Y - b.top - oy) / m + vy - st.y) / st.k;
+    let L = b.left, R = b.right, T0 = b.top, B = b.bottom; const obs = [];
+    for (const e of [$("panel"), $("peek"), document.querySelector(".zoom"), $("flegend"), $("ph-key")]) {
+      if (!e || e.hidden) continue; const r = e.getBoundingClientRect();
+      if (!r.width || !r.height || r.right <= b.left || r.left >= b.right || r.bottom <= b.top || r.top >= b.bottom) continue;
+      if (r.width > 0.6 * b.width) { if (r.top > b.top + b.height / 3) B = Math.min(B, r.top); else T0 = Math.max(T0, r.bottom); }
+      else if (r.height > 0.6 * b.height) { if (r.left > b.left + b.width / 3) R = Math.min(R, r.left); else L = Math.max(L, r.right); }
+      else obs.push({ x: mx(r.left - 3) * scale, y: my(r.top - 3) * scale, w: (r.width + 6), h: (r.height + 6) });
+    }
+    const x0 = mx(L + 2), y0 = my(T0 + 2), x1 = mx(R - 2), y1 = my(B - 2);
+    return { x0, y0, x1, y1, fx0: x0 * scale, fy0: y0 * scale, fx1: x1 * scale, fy1: y1 * scale, obs };
+  }
 
   const fillFor = id => { const x = H[id] || H.unknown; return `var(--${x.slot})`; };
   let eraShown = "after";
@@ -559,6 +673,7 @@ function init(D) {
       for (const c of cells) if (c.t === t) c.whole = pathOf(t.curPolys); }
   }
   function paint() {
+    const pu = unit(), pmu = pu * (svg.clientWidth < 520 ? 0.7 : 1); px1 = pu;  // read the layout once, before any writes (reading it between writes forces a relayout each time)
     applyEra();
     for (const c of cells) {
       if (c.t.sea) continue;
@@ -590,12 +705,12 @@ function init(D) {
       t.outline.classList.toggle("sel", !!st.sel && st.sel.t === t.name && !st.sel.r);
       if (t.mark) { const m = lab(), n = st.marks && (m === "territories" || m === "none") && markFor(t) ? countAt(t.name, st.s) : 0;
         t.mark.style.display = n ? "" : "none"; t.markN = n;
-        if (n) showMark({ g: t.mark, c: t.mc, t: t.mt }, t.centre[0], t.centre[1], n, unit() * (svg.clientWidth < 520 ? 0.7 : 1)); }
+        if (n) showMark({ g: t.mark, c: t.mc, t: t.mt }, t.centre[0], t.centre[1], n, pmu); }
     }
     // features exist from their season on; named once zoomed in past nations
     for (const x of feats) { const on = st.s >= x.f.s; x.g.style.display = on ? "" : "none";
       x.g.classList.toggle("dim", !!((st.iso && st.isoFrom === "list") || (st.sel && st.fromList)));
-      const u = unit(); x.lb.style.display = on && lab() !== "nations" && lab() !== "none" ? "" : "none";
+      const u = pu; x.lb.style.display = on && lab() !== "nations" && lab() !== "none" ? "" : "none";
       x.lb.setAttribute("x", x.cx); x.lb.setAttribute("y", x.cy); x.lb.style.fontSize = 10 * u + "px"; x.lb.style.strokeWidth = 2.5 * u + "px"; }
     // dark boundary lines for the label mode in force; in Nations mode, around each power's land
     const lm = lab(); svg.dataset.lines = lm === "none" ? "none" : lm === "nations" ? "nations" : lm === "regions" ? "regions" : "territories";
@@ -610,10 +725,11 @@ function init(D) {
     const sr = st.sel && st.sel.r && byName[st.sel.t].regions.find(r => r.name === st.sel.r);
     const rn = sr && st.marks && lab() === "territories" ? regionCount(st.sel.t, st.sel.r, st.s) : 0;
     rmark.style.display = rn ? "" : "none";
-    if (rn) showMark({ g: rmark, c: rmc, t: rmt }, sr.centre[0], sr.centre[1], rn, unit() * (svg.clientWidth < 520 ? 0.7 : 1));
+    if (rn) showMark({ g: rmark, c: rmc, t: rmt }, sr.centre[0], sr.centre[1], rn, pmu);
     frontiers();
     labels();
     refreshTip();
+    toHash();
   }
   // one screen pixel expressed in map units at the current zoom
   const unit = () => 1 / ((Math.min(svg.clientWidth / vw, svg.clientHeight / vh) || 1) * st.k);
@@ -627,7 +743,7 @@ function init(D) {
       const b = { x: x * scale - w / 2 + fx * w, y: y * scale - hh / 2 + fy * hh, w, h: hh };
       if (free(b)) return { b, x: x + fx * w * u, y: y + fy * hh * u }; } return null; };
     // each name and its event count are placed together as one block: the count sits right under the name
-    const mu = svg.clientWidth < 520 ? 0.7 : 1;
+    const mu = svg.clientWidth < 520 ? 0.7 : 1, va = visArea(scale);  // layout reads first, then writes
 
     // nation labels: one per connected block of a power's land, biggest first
     let n = 0, nm = 0; const counted = new Set();
@@ -667,37 +783,86 @@ function init(D) {
     }
     for (let i = n; i < pool.length; i++) pool[i].style.display = "none";
     for (let i = nm; i < natMarks.length; i++) natMarks[i].g.style.display = "none";
-    // territory labels (seas keep theirs except when the reader picked Nations or None: then only nation names)
-    const showRall = st.lab === "territories" && !st.labOverride && st.k >= 2.4;
-    const order = [...T].sort((a, b) => (selT === b.name) - (selT === a.name) || b.bbox[2] * b.bbox[3] - a.bbox[2] * a.bbox[3]);
+    // from here on, names keep to the visible map and off the controls drawn over it
+    placed.push(...va.obs);
+    for (const x of feats) if (x.lb.style.display !== "none") placed.push(box(x.cx, x.cy, x.lb.textContent.length * 5.2 + 4, 13));
+    const inVis = b => b.x >= va.fx0 && b.y >= va.fy0 && b.x + b.w <= va.fx1 && b.y + b.h <= va.fy1;
+    // territory labels (seas keep theirs except when the reader picked Nations or None: then only nation names).
+    // Imperial territories are named first. A name whose spot is off screen or under the sheet moves to the
+    // middle of the part of the territory that is on screen, if it fits there.
+    const order = [...T].sort((a, b) => (selT === b.name) - (selT === a.name) || (!!b.imperial - !!a.imperial) || b.bbox[2] * b.bbox[3] - a.bbox[2] * a.bbox[3]);
     for (const t of order) {
       t.label.style.fontSize = 12 * u + "px"; t.label.style.strokeWidth = 3 * u + "px";
-      let show = false;
+      let show = false, lx = t.centre[0], ly = t.centre[1];
       if (mode === "territories" || (t.sea && mode !== "none" && st.lab !== "nations")) {
-        const mh = t.markN && mode === "territories" ? 2 * markR(t.markN, mu) + 2 : 0, hh = 16 + mh;
-        const b = box(t.centre[0], t.centre[1], Math.max(t.name.length * 7, mh), hh), fits = t.bbox[2] * scale > t.name.length * 4.5;
-        if ((mode === "territories" && selT === t.name) || (fits && free(b))) { show = !(showRall && t.regions.length); if (show) placed.push(b); }
-        const top = t.centre[1] - hh / 2 * u;
-        t.label.setAttribute("y", show ? top + 8 * u : t.centre[1]);
-        if (t.markN && mode === "territories") { const y = show ? top + (16 + mh / 2) * u : t.centre[1];
-          t.mc.setAttribute("cy", y); t.mt.setAttribute("y", y); }
+        const mh = t.markN && mode === "territories" ? 2 * markR(t.markN, mu) + 2 : 0, hh = 16 + mh, w = Math.max(t.name.length * 7, mh);
+        let b = box(lx, ly, w, hh); const fits = t.bbox[2] * scale > t.name.length * 4.5;
+        if (!inVis(b) || (!free(b) && t.imperial)) {  // off screen, or an Imperial name whose spot is taken: try elsewhere on screen
+          const vis = clipRings(t.curPolys || t.polys, va.x0, va.y0, va.x1, va.y1);
+          if (vis.length) { const f = bestFit(vis, w / 12, hh / 12, 8);
+            if (f.f * scale >= 11.5) { const b2 = box(f.x, f.y, w, hh); if (free(b2) || !free(b)) { lx = f.x; ly = f.y; b = b2; } } }
+        }
+        if ((mode === "territories" && selT === t.name) || (fits && free(b) && inVis(b))) { show = true; placed.push(b); }
+        const top = ly - hh / 2 * u;
+        t.label.setAttribute("x", lx); t.label.setAttribute("y", show ? top + 8 * u : ly);
+        if (t.markN && mode === "territories") { const y = show ? top + (16 + mh / 2) * u : ly;
+          t.mc.setAttribute("cx", lx); t.mt.setAttribute("x", lx); t.mc.setAttribute("cy", y); t.mt.setAttribute("y", y);
+          const hc = t.mark.querySelector(".hit"); if (hc) { hc.setAttribute("cx", lx); hc.setAttribute("cy", y); } }
       }
       t.label.style.display = show ? "" : "none";
-      t.rlabels.forEach((x, i) => { x.style.fontSize = 11 * u + "px"; x.style.strokeWidth = 2.5 * u + "px"; x.style.display = showRall ? "" : "none";
-        if (mode !== "regions") { x.setAttribute("x", t.regions[i].centre[0]); x.setAttribute("y", t.regions[i].centre[1]); } });
+      if (mode !== "regions") for (const x of t.rlabels) x.style.display = "none";
     }
-    // region labels: every region that has room, the selected territory's first
+    // region labels. Each name goes where it can be largest inside its region (one line, or two for long names),
+    // up to the usual size for the zoom, shrinking to fit down to 8px. Imperial regions are named first (after
+    // the selected territory's); other names are a touch smaller and lighter and only use room left over. A name
+    // never leaves its region, except an Imperial one that fits at 6.5px or more, which is drawn at 8px. A region
+    // partly off screen is named in its visible part. Its event count sits under the name.
     if (mode === "regions") {
-      const list = selT ? [...allRegions.filter(a => a.t.name === selT), ...allRegions.filter(a => a.t.name !== selT)] : allRegions;
-      let k = 0; const rfs = 11 + Math.min(3, Math.max(0, (st.k - 6) * 0.5));
+      const list = selT ? [...regOrder.filter(a => a.t.name === selT), ...regOrder.filter(a => a.t.name !== selT)] : regOrder;
+      let k = 0; const top = 11 + Math.min(3, Math.max(0, (st.k - 6) * 0.5)), FLOOR = 8;
       for (const a of list) {
-        const want = st.marks && (st.iso ? holderAt(a.t.name, a.r.name, st.s) === st.iso : st.sel ? (st.sel.t === a.t.name && (!st.sel.r || st.sel.r === a.r.name)) : true);
-        const n = want ? regionCount(a.t.name, a.r.name, st.s) : 0, mh = n ? 2 * markR(n, mu) + 2 : 0, hh = 14 + mh;
-        const at = a.r.area * scale * scale >= 320 ? spot(a.r.centre[0], a.r.centre[1], Math.max(a.r.name.length * 6.2, mh), hh, 3) : null;
-        if (at) { placed.push(at.b); const top = at.y - hh / 2 * u; a.el.setAttribute("x", at.x); a.el.setAttribute("y", top + 7 * u); a.el.style.fontSize = rfs * u + "px";
-          if (n) { const g = regMark(k++); g.t0 = a.t.name; g.r0 = a.r.name; showMark(g, at.x, top + (14 + mh / 2) * u, n, u * mu); } }
-        else { a.el.setAttribute("x", a.r.centre[0]); a.el.setAttribute("y", a.r.centre[1]); }
-        a.el.style.display = at ? "" : "none";
+        const cands = regionFits(a), [bx0, by0, bx1, by1] = a.fit.box, imp = !!a.t.imperial;
+        // sizes to try at one spot: as large as fits, a step smaller, and (for Imperial names) the floor
+        const steps = f => [f, f * 0.85, ...(imp ? [FLOOR] : [])].filter((x, i, xs) => x >= FLOOR && xs.indexOf(x) === i && (i === 0 || x < xs[0]));
+        let done = null;
+        if (bx1 > va.x0 && bx0 < va.x1 && by1 > va.y0 && by0 < va.y1) {
+          let opts = cands;
+          const onScreen = c => { const f = Math.min(top, c.f * scale * 0.95), w = c.ax * f / scale / 2, h = c.ay * f / scale / 2;
+            return c.x - w >= va.x0 && c.x + w <= va.x1 && c.y - h >= va.y0 && c.y + h <= va.y1; };
+          if ((bx0 < va.x0 || bx1 > va.x1 || by0 < va.y0 || by1 > va.y1) && !cands.some(c => !c.anchor && onScreen(c))) {  // best spots off screen: search the visible part
+            const vis = clipRings(a.r.curPolys || a.r.polys, va.x0, va.y0, va.x1, va.y1);
+            opts = vis.length ? [...cands.filter(c => !c.anchor).map(c => ({ ...bestFit(vis, c.ax, c.ay, 5), lines: c.lines, ax: c.ax, ay: c.ay })), ...cands] : [];
+          }
+          const want = st.marks && (st.iso ? holderAt(a.t.name, a.r.name, st.s) === st.iso : st.sel ? (st.sel.t === a.t.name && (!st.sel.r || st.sel.r === a.r.name)) : true);
+          const n = want ? regionCount(a.t.name, a.r.name, st.s) : 0, mh = n ? 2 * markR(n, mu) + 2 : 0;
+          const tries = opts.map(c => { const font = Math.min(imp ? top : top - 1, c.f * scale * 0.95);
+            return { c, font, score: font * (c.lines.length > 1 ? 0.85 : 1) * (c.anchor ? 0.97 : 1) }; }).sort((p, q) => q.score - p.score);
+          find: for (const tr of tries) {
+            const sizes = tr.font >= FLOOR ? steps(tr.font) : imp && tr.font >= 6.5 ? [FLOOR] : [];
+            for (const f of sizes) {
+              const w = Math.max(tr.c.ax * f, mh), h = tr.c.ay * f, bb = { x: tr.c.x * scale - w / 2, y: tr.c.y * scale - h / 2, w, h: h + mh };
+              if (inVis(bb) && free(bb)) { done = { c: tr.c, f, h, mh, n, bb }; break find; }
+            }
+          }
+          // every good spot taken (by another name or a control): look around the rest of the region's visible part
+          if (!done && tries.length && tries[0].font >= (imp ? 6.5 : FLOOR)) {
+            const vis = clipRings(a.r.curPolys || a.r.polys, va.x0, va.y0, va.x1, va.y1), [cx0, cy0, cx1, cy1] = ringsBox(vis), alt = [];
+            if (vis.length) for (let i = 0; i <= 6; i++) for (let j = 0; j <= 6; j++) {
+              const x = cx0 + (cx1 - cx0) * (i + 0.5) / 7, y = cy0 + (cy1 - cy0) * (j + 0.5) / 7;
+              for (const c of cands) { if (c.anchor) continue; const f = Math.min(imp ? top : top - 1, fitAt(vis, x, y, c.ax, c.ay, FLOOR / scale) * scale * 0.95);
+                if (f >= FLOOR) alt.push({ c: { x, y, lines: c.lines, ax: c.ax, ay: c.ay }, f }); }
+            }
+            alt.sort((p, q) => q.f * (q.c.lines.length > 1 ? 0.85 : 1) - p.f * (p.c.lines.length > 1 ? 0.85 : 1));
+            for (const tr of alt) for (const f of steps(tr.f)) {
+              const w = Math.max(tr.c.ax * f, mh), h = tr.c.ay * f, bb = { x: tr.c.x * scale - w / 2, y: tr.c.y * scale - h / 2, w, h: h + mh };
+              if (inVis(bb) && free(bb)) { done = { c: tr.c, f, h, mh, n, bb }; break; }
+            }
+          }
+        }
+        if (done) { const { c, f, h, mh, n, bb } = done; placed.push(bb);
+          setName(a.el, c.lines, c.x, c.y); a.el.style.fontSize = f * u + "px"; a.el.style.strokeWidth = Math.min(2.5, f * 0.28) * u + "px";
+          if (n) { const g = regMark(k++); g.t0 = a.t.name; g.r0 = a.r.name; showMark(g, c.x, c.y + (h / 2 + mh / 2) * u, n, u * mu); } }
+        a.el.style.display = done ? "" : "none";
       }
       for (let i = k; i < regMarks.length; i++) regMarks[i].g.style.display = "none";
     } else for (const g of regMarks) g.g.style.display = "none";
@@ -744,7 +909,48 @@ function init(D) {
     tp.style.left = Math.min(x, box.width - tp.offsetWidth - 6) + "px"; tp.style.top = Math.min(y, box.height - tp.offsetHeight - 6) + "px";
   }
 
+  // ---- shareable links: the season, what is open, the label mode and the camera live in the address
+  // (#s=388YE%20Autumn&t=Astolat&r=The%20Chase&v=6.00,1010,760); opening such a link restores them
+  let hashTimer = 0, restoring = false;
+  function toHash() {
+    if (restoring) return; clearTimeout(hashTimer);
+    hashTimer = setTimeout(() => {
+      const q = new URLSearchParams(); q.set("s", S[st.s]);
+      if (st.lab !== "auto") q.set("lab", st.lab);
+      if (st.sel) { q.set("t", st.sel.t); if (st.sel.r) q.set("r", st.sel.r); }
+      else if (st.iso) q.set("n", st.iso);
+      else if (st.ev) q.set("e", st.ev.ti);
+      else if (st.tab !== "place") q.set("tab", st.tab);
+      if (st.k > 1.01) q.set("v", [st.k.toFixed(2), ((vx + vw / 2 - st.x) / st.k).toFixed(0), ((vy + vh / 2 - st.y) / st.k).toFixed(0)].join(","));
+      const hs = "#" + q.toString().replace(/\+/g, "%20").replace(/%2C/g, ",");
+      if (hs !== location.hash) try { history.replaceState(null, "", hs); } catch (e) {}
+    }, 300);
+  }
+  function fromHash() {
+    let q; try { q = new URLSearchParams(location.hash.slice(1)); } catch (e) { return; }
+    if (!q.has("s") && !q.has("t") && !q.has("n") && !q.has("e")) return;
+    restoring = true;
+    try {
+      const si = S.indexOf(q.get("s")); if (si >= 0) { st.s = si; range.value = si; }
+      const lb = LABS.includes(q.get("lab")) ? q.get("lab") : "auto"; st.lab = lb; st.labOverride = null; for (const x of LABS) $("lab-" + x).setAttribute("aria-pressed", x === lb);
+      const t = byName[q.get("t")], r = q.get("r") || "", n = q.get("n"), ev = q.get("e") && D.events.find(x => x.ti === q.get("e")), tab = q.get("tab");
+      endPeek(false); leaveList(); st.back = [];
+      if (t && !t.sea) select(t.name, t.regions.some(x => x.name === r) ? r : "", true);
+      else if (n && H[n]) { st.iso = null; pickNation(n, "map"); }
+      else if (ev) openEvent(ev);
+      else { st.sel = null; st.iso = null; st.ev = null; st.feat = null; st.tab = tab === "holders" || tab === "history" ? tab : "place"; render(); }
+      // the camera: as saved, or else framed on what the link opens (an event frames itself)
+      const v = (q.get("v") || "").split(",").map(Number);
+      if (v.length === 3 && v.every(Number.isFinite)) { cancelAnimationFrame(anim);
+        st.k = Math.max(1, Math.min(14, v[0])); st.x = vx + vw / 2 - v[1] * st.k; st.y = vy + vh / 2 - v[2] * st.k; clamp(); apply(); }
+      else if (t && !t.sea) focusOn(t);
+      else if (n && H[n] && !ev) frameNation(n);
+      else if (!ev) { cancelAnimationFrame(anim); st.k = 1; st.x = 0; st.y = 0; apply(); }
+    } finally { restoring = false; }
+  }
+
   // ---- pan and zoom
+  let lblRaf = 0; const labelsSoon = () => { if (!lblRaf) lblRaf = requestAnimationFrame(() => { lblRaf = 0; labels(); }); };  // names follow a drag, once a frame
   let moved = false; const ptrs = new Map(); let pinch = 0;
   const apply = () => { vp.setAttribute("transform", `translate(${st.x} ${st.y}) scale(${st.k})`); paint(); };
   const toMap = ev => { const b = svg.getBoundingClientRect(), m = Math.min(b.width / vw, b.height / vh);
@@ -758,11 +964,11 @@ function init(D) {
   svg.addEventListener("pointermove", ev => {
     if (!ptrs.has(ev.pointerId)) return; const prev = ptrs.get(ev.pointerId); ptrs.set(ev.pointerId, ev);
     if (ptrs.size === 1) { const a = toMap(prev), b = toMap(ev); if (Math.abs(ev.clientX - prev.clientX) + Math.abs(ev.clientY - prev.clientY) > 2) { moved = true; svg.classList.add("drag"); grab(ev); }
-      st.x += b[0] - a[0]; st.y += b[1] - a[1]; clamp(); vp.setAttribute("transform", `translate(${st.x} ${st.y}) scale(${st.k})`); }
+      st.x += b[0] - a[0]; st.y += b[1] - a[1]; clamp(); vp.setAttribute("transform", `translate(${st.x} ${st.y}) scale(${st.k})`); labelsSoon(); }
     else if (ptrs.size === 2) { const [p, q] = [...ptrs.values()], d = Math.hypot(p.clientX - q.clientX, p.clientY - q.clientY); moved = true; grab(ev);
       if (pinch) { const c = toMap({ clientX: (p.clientX + q.clientX) / 2, clientY: (p.clientY + q.clientY) / 2 }); zoomAt(c[0], c[1], d / pinch); } pinch = d; }
   });
-  const up = ev => { ptrs.delete(ev.pointerId); pinch = 0; svg.classList.remove("drag"); setTimeout(() => { moved = false; }, 0); };
+  const up = ev => { if (moved) labelsSoon(); ptrs.delete(ev.pointerId); pinch = 0; svg.classList.remove("drag"); setTimeout(() => { moved = false; }, 0); };
   svg.addEventListener("pointerup", up); svg.addEventListener("pointercancel", up);
   $("zin").onclick = () => zoomAt(vx + vw / 2, vy + vh / 2, 1.25);  // same step as one wheel notch
   $("zout").onclick = () => zoomAt(vx + vw / 2, vy + vh / 2, 1 / 1.25);
@@ -1180,13 +1386,26 @@ function init(D) {
   $("show-fight").onchange = e => { st.fight = e.target.checked; frontiers(); paint(); };
   for (const [id, tab] of [["tab-place", "place"], ["tab-holders", "holders"], ["tab-history", "history"]]) $(id).onclick = () => { if (phone() && st.sheet === "closed") st.sheet = "half"; if (tab !== st.tab) { st.iso = null; if (tab !== "place") st.sel = null; st.back = []; leaveList(); } st.tab = tab; render(); };
   const q = $("q"), res = $("results");
-  const index = []; for (const t of T) { if (t.sea) continue; index.push({ label: t.name, sub: "Territory", go: () => { select(t.name, ""); focusOn(t); } });
-    for (const r of t.regions) index.push({ label: r.name, sub: "Region of " + t.name, go: () => { select(t.name, r.name); focusOn(t); } }); }
+  const index = []; for (const t of T) { if (t.sea) continue; index.push({ label: t.name, sub: "Territory", place: true, go: () => { select(t.name, ""); focusOn(t); } });
+    for (const r of t.regions) index.push({ label: r.name, sub: "Region of " + t.name, place: true, go: () => { select(t.name, r.name); focusOn(t); } }); }
   D.events.forEach(e => index.push({ label: e.ti, sub: `${e.ty}, ${S[e.s]}`, go: () => openEvent(e) }));
-  q.addEventListener("input", () => { const v = q.value.trim().toLowerCase(); res.innerHTML = ""; if (v.length < 2) { res.hidden = true; return; }
-    const hits = index.filter(x => x.label.toLowerCase().includes(v)).sort((a, b) => a.label.toLowerCase().indexOf(v) - b.label.toLowerCase().indexOf(v)).slice(0, 14);
+  // results: places before events, best match first; ↑/↓ move, Enter opens (the first result if none is picked), Esc closes
+  res.setAttribute("role", "listbox"); q.setAttribute("aria-controls", "results"); q.setAttribute("aria-autocomplete", "list");
+  let resAt = -1;
+  const resItems = () => [...res.querySelectorAll("button")];
+  const markRes = i => { const xs = resItems(); resAt = xs.length ? (i + xs.length) % xs.length : -1;
+    xs.forEach((b, j) => { b.classList.toggle("act", j === resAt); b.setAttribute("aria-selected", j === resAt); });
+    if (resAt >= 0) { xs[resAt].scrollIntoView({ block: "nearest" }); q.setAttribute("aria-activedescendant", xs[resAt].id); } else q.removeAttribute("aria-activedescendant"); };
+  q.addEventListener("input", () => { const v = q.value.trim().toLowerCase(); res.innerHTML = ""; resAt = -1; q.removeAttribute("aria-activedescendant"); if (v.length < 2) { res.hidden = true; return; }
+    const hits = index.filter(x => x.label.toLowerCase().includes(v)).sort((a, b) => (!a.place - !b.place) || a.label.toLowerCase().indexOf(v) - b.label.toLowerCase().indexOf(v)).slice(0, 14);
     if (!hits.length) res.append(h("div", { className: "empty", textContent: "No place or event matches.", style: "padding:6px 8px" }));
-    for (const x of hits) res.append(h("button", { onclick: () => { res.hidden = true; q.value = ""; closeMenus(); x.go(); } }, x.label, h("small", { textContent: x.sub }))); res.hidden = false; });
+    hits.forEach((x, i) => { const b = h("button", { id: "res" + i, onclick: () => { res.hidden = true; q.value = ""; closeMenus(); x.go(); } }, x.label, h("small", { textContent: x.sub }));
+      b.setAttribute("role", "option"); b.setAttribute("aria-selected", false); b.tabIndex = -1; res.append(b); });
+    res.hidden = false; });
+  q.addEventListener("keydown", e => {
+    if (e.key === "ArrowDown" || e.key === "ArrowUp") { if (res.hidden) return; e.preventDefault(); markRes(resAt < 0 && e.key === "ArrowUp" ? -1 : resAt + (e.key === "ArrowDown" ? 1 : -1)); }
+    else if (e.key === "Enter") { const xs = resItems(); if (!res.hidden && xs.length) { e.preventDefault(); xs[Math.max(0, resAt)].click(); } }
+    else if (e.key === "Escape") { if (!res.hidden) { e.preventDefault(); res.hidden = true; } else if (q.value) q.value = ""; else closeMenus(); } });
   document.addEventListener("click", e => { if (!e.target.closest(".search")) res.hidden = true; });
 
   // the nation colour key: every power holding land this season, by group; click one to open it
@@ -1212,7 +1431,8 @@ function init(D) {
     if (on) try { $("nkey").open = true; } catch (e) {} };
   svg.addEventListener("pointerdown", () => { if (!phone()) return; closeMenus(); $("mapwrap").classList.remove("keys-open"); $("ph-key").setAttribute("aria-expanded", false); });
   const LEVELS = ["closed", "half", "full"];
-  const setSheet = v => { st.sheet = v; panel.dataset.sheet = v; };
+  const setSheet = v => { st.sheet = v; panel.dataset.sheet = v; labelsSoon(); };
+  panel.addEventListener("transitionend", e => { if (e.target === panel) labelsSoon(); });  // names make way for the sheet once it has moved
   { let y0 = null;
     $("handle").addEventListener("pointerdown", e => { y0 = e.clientY; try { $("handle").setPointerCapture(e.pointerId); } catch (x) {} });
     $("handle").addEventListener("pointerup", e => { if (y0 === null) return; const dy = e.clientY - y0, i = LEVELS.indexOf(st.sheet); y0 = null;
@@ -1240,6 +1460,8 @@ function init(D) {
     if (peekState) peek(peekState.target, true);
   }
   render();
+  fromHash();
+  addEventListener("hashchange", fromHash);  // a link pasted into this tab
   window.__atlas = { st, setSeason, select, holderAt, majority, pickNation, lab,
     view: (k, cx, cy) => { st.k = k; st.x = vx + vw / 2 - cx * k; st.y = vy + vh / 2 - cy * k; clamp(); apply(); } };
 }
